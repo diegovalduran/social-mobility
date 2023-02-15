@@ -16,6 +16,7 @@
 		"@sveltejs/kit": "1.5.0",
 		"archieml": "^0.5.0",
 		"autoprefixer": "^10.4.13",
+		"canvas": "^2.11.0",
 		"d3": "^7.8.2",
 		"d3-hexbin": "^0.2.2",
 		"haversine-distance": "^1.2.1",
