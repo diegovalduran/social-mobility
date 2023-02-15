@@ -30,6 +30,7 @@
 
 	$: if (features && ready) {
 		console.time("render");
+		ctx.clearRect(0, 0, contextWidth, contextHeight);
 		features.forEach((feature) => {
 			ctx.beginPath();
 			path.context(ctx);

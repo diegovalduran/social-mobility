@@ -1,3 +1,4 @@
+import { descending } from "d3";
 import cityData from "$data/cities.csv";
 
 const cities = cityData.map((d) => ({
@@ -6,6 +7,8 @@ const cities = cityData.map((d) => ({
 	latitude: +d.latitude,
 	longitude: +d.longitude
 }));
+
+cities.sort((a, b) => descending(a.population, b.population));
 
 cities.forEach((d) => {
 	delete d.town_matches;
