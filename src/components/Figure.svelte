@@ -16,24 +16,30 @@ Pass style prop directives to set dimensions (defaults are all "auto")
 
 	export let debounce = 250;
 	export let exclude = "height";
+	export let custom;
 
-	const width = writable(0);
-	const height = writable(0);
-	const dpr = writable(1);
-	const custom = writable({});
+	const _width = writable(0);
+	const _height = writable(0);
+	const _dpr = writable(1);
+	const _custom = writable({ ...custom });
 
-	setContext("Figure", { width, height, dpr, custom });
+	setContext("Figure", {
+		width: _width,
+		height: _height,
+		dpr: _dpr,
+		custom: _custom
+	});
 
 	let clientWidth;
 	let clientHeight;
 
 	async function onResize() {
 		await tick();
-		$width = clientWidth;
-		$height = clientHeight;
+		$_width = clientWidth;
+		$_height = clientHeight;
 	}
 
-	$: $dpr = browser ? Math.min(2, window.devicePixelRatio || 1) : 1;
+	$: $_dpr = browser ? Math.min(2, window.devicePixelRatio || 1) : 1;
 
 	onMount(() => {
 		onResize();
@@ -47,7 +53,6 @@ Pass style prop directives to set dimensions (defaults are all "auto")
 	use:resize={{ exclude, debounce }}
 	on:resize={onResize}
 >
-	<p>{$width}x{$height}</p>
 	<slot />
 </figure>
 

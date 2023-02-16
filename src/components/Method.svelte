@@ -3,9 +3,9 @@
 	import { color, ascending } from "d3";
 	import WIP from "$components/helpers/WIP.svelte";
 	import Map from "$components/Figure.Map.svelte";
-	import MapPoints from "$components/MapPoints.svelte";
+	import MapPoints from "$components/Figure.MapPoints.svelte";
 	import Figure from "$components/Figure.svelte";
-	import { counties, states, nation } from "$data/us.js";
+	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$utils/addDataToCounties.js";
 
 	// import Footer from "$components/Footer.svelte";
@@ -15,6 +15,7 @@
 
 	export let places;
 
+	const projectionObject = states;
 	const aspectRatio = "975/610";
 	let samplePlace = "Portland";
 	let inputWeight = 0;
@@ -51,8 +52,9 @@
 			fill: colors[i] || colors[colors.length - 1]
 		}));
 
-	const sampleData = {
-		places: sample.map((d, i) => ({
+	const sampleTopojson = {
+		type: "FeatureCollection",
+		features: sample.map((d, i) => ({
 			type: "Feature",
 			geometry: {
 				type: "Point",
@@ -168,17 +170,22 @@
 </p>
 {#if topScore}
 	<div class="top-score">
-		<Figure --aspect-ratio={aspectRatio}>
+		<Figure --aspect-ratio={aspectRatio} custom={{ projectionObject }}>
 			<Map topojson={topScore} stroke="rgba(255, 255, 255, 0.25)" />
 			<Map topojson={states} stroke="rgba(255, 255, 255, 0.5)" />
+			<MapPoints
+				topojson={sampleTopojson}
+				stroke="#000"
+				strokeWidth="2"
+				radius="5"
+			/>
 		</Figure>
 		<!-- <div class="map">			
 			<Map data={states} position="absolute" />
 			<MapPoints
 				data={sampleData}
 				position="absolute"
-				strokeWidth="2"
-				radius="5"
+		
 			/>
 		</div> -->
 	</div>

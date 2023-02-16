@@ -3,13 +3,14 @@
 
 	import { geoPath, geoAlbersUsa } from "d3";
 
+	export let mode = "svg"; // canvas
 	export let topojson;
 	export let fill;
 	export let stroke;
 	export let strokeWidth = 0.5;
 	export let projection = geoAlbersUsa();
 
-	const { width, height, dpr } = getContext("Figure");
+	const { width, height, dpr, custom } = getContext("Figure");
 
 	let canvasEl;
 
@@ -17,13 +18,17 @@
 	$: isCollection = topojson.type === "FeatureCollection";
 
 	$: ctx = canvasEl?.getContext("2d");
-	$: contextWidth = $width * $dpr;
-	$: contextHeight = $height * $dpr;
+	$: mult = mode === "canvas" ? $dpr : 1;
+	$: contextWidth = $width * mult;
+	$: contextHeight = $height * mult;
 
-	$: projectionFn = projection.fitSize([contextWidth, contextHeight], topojson);
+	$: projectionFn = projection.fitSize(
+		[contextWidth, contextHeight],
+		$custom.projectionObject
+	);
 	$: pathFn = geoPath().projection(projectionFn);
 
-	$: if (pathFn && contextWidth) render();
+	$: if (mode === "canvas" && pathFn && contextWidth) render();
 
 	function drawPath({ path, strokeStyle, fillStyle }) {
 		ctx.beginPath();
@@ -59,26 +64,19 @@
 	}
 </script>
 
-<div class="figure-map">
-	<canvas width={contextWidth} height={contextHeight} bind:this={canvasEl} />
-</div>
-
-<!-- {#if path && width}
-		<svg {width} {height}>
+{#if mode === "svg"}
+	{#if features && contextWidth}
+		<svg width={contextWidth} height={contextHeight}>
 			{#each features as feature}
 				<path
 					style:stroke
 					style:stroke-width="{strokeWidth}px"
 					style:fill={feature.properties.fill || "none"}
-					d={path(feature)}
+					d={pathFn(feature)}
 				/>
 			{/each}
 		</svg>
-	{/if} -->
-<style>
-	canvas {
-		display: block;
-		width: 100%;
-		height: 100%;
-	}
-</style>
+	{/if}
+{:else if mode === "canvas"}
+	<canvas width={contextWidth} height={contextHeight} bind:this={canvasEl} />
+{/if}

@@ -17,6 +17,6 @@ const counties = {
 };
 
 const states = topojson.feature(us, us.objects.states);
-const nation = topojson.feature(us, us.objects.nation);
+// const nation = topojson.feature(us, us.objects.nation);
 
-export { counties, states, nation };
+export { counties, states };
