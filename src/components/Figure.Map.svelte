@@ -4,7 +4,7 @@
 	import { geoPath, geoAlbersUsa } from "d3";
 
 	export let mode = "svg"; // canvas
-	export let topojson;
+	export let features;
 	export let fill;
 	export let stroke;
 	export let strokeWidth = 0.5;
@@ -13,9 +13,6 @@
 	const { width, height, dpr, custom } = getContext("Figure");
 
 	let canvasEl;
-
-	$: features = topojson.features;
-	$: isCollection = topojson.type === "FeatureCollection";
 
 	$: ctx = canvasEl?.getContext("2d");
 	$: mult = mode === "canvas" ? $dpr : 1;
@@ -53,14 +50,13 @@
 		ctx.lineJoin = "round";
 		ctx.lineCap = "round";
 
-		if (isCollection) {
-			features.forEach((feature) => {
-				const { properties } = feature;
-				const strokeStyle = properties.stroke || stroke;
-				const fillStyle = properties.fill || fill;
-				drawPath({ path: feature, strokeStyle, fillStyle });
-			});
-		} else drawPath({ path: topojson, strokeStyle: stroke, fillStyle: fill });
+		features.forEach((feature) => {
+			const { properties } = feature;
+			const strokeStyle = properties.stroke || stroke;
+			const fillStyle = properties.fill || fill;
+			const path = feature;
+			drawPath({ path, strokeStyle, fillStyle });
+		});
 	}
 </script>
 

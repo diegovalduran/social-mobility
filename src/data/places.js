@@ -3,11 +3,17 @@ import townData from "$data/towns.csv";
 import cityData from "$data/cities.csv";
 import stateData from "$data/states.csv";
 import countryData from "$data/countries.csv";
+import stateLookup from "$data/state-abbr.json";
+
+const lookupStateName = (abbr) => {
+	const match = stateLookup.find((d) => d.abbr === abbr);
+	return match?.state;
+};
 
 const towns = townData.map((d) => ({
 	geo: "town",
 	name: d.city,
-	state: d.state,
+	state: lookupStateName(d.state),
 	population: +d.population,
 	latitude: +d.latitude,
 	longitude: +d.longitude
@@ -35,6 +41,7 @@ const states = stateData.map((d) => ({
 const countries = countryData.map((d) => ({
 	geo: "country",
 	name: d.country,
+	population: +d.population,
 	latitude: +d.latitude,
 	longitude: +d.longitude
 }));

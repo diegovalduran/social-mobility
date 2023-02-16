@@ -1,10 +1,11 @@
 <script>
 	import { getContext } from "svelte";
-	import { color, ascending } from "d3";
+	import { color, groups, ascending } from "d3";
 	import WIP from "$components/helpers/WIP.svelte";
+	import Figure from "$components/Figure.svelte";
 	import Map from "$components/Figure.Map.svelte";
 	import MapPoints from "$components/Figure.MapPoints.svelte";
-	import Figure from "$components/Figure.svelte";
+	import MapLabels from "$components/Figure.MapLabels.svelte";
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$utils/addDataToCounties.js";
 
@@ -15,13 +16,20 @@
 
 	export let places;
 
+	const placeNames = groups(places, (d) => d.name)
+		.filter((d) => d[1].length > 1)
+		.map((d) => d[0]);
+	placeNames.sort(ascending);
+
 	const projectionObject = states;
+	const statesFeatures = states.features;
+
 	const aspectRatio = "975/610";
-	let samplePlace = "Portland";
+	let samplePlace = placeNames[0];
 	let inputWeight = 0;
 	let maxDist = 1;
 	let maxPop = 1;
-	let topScore;
+	let topScoreFeatures;
 	let bySampleDist = [];
 	let bySampleShare = [];
 
@@ -45,24 +53,22 @@
 		"#8d7a81"
 	];
 
-	const sample = places
+	$: sample = places
 		.filter((d) => d.name === samplePlace)
 		.map((d, i) => ({
 			...d,
+			label: d.geo === "town" ? d.state : d.name,
 			fill: colors[i] || colors[colors.length - 1]
 		}));
 
-	const sampleTopojson = {
-		type: "FeatureCollection",
-		features: sample.map((d, i) => ({
-			type: "Feature",
-			geometry: {
-				type: "Point",
-				coordinates: [d.longitude, d.latitude]
-			},
-			properties: d
-		}))
-	};
+	$: sampleFeatures = sample.map((d, i) => ({
+		type: "Feature",
+		geometry: {
+			type: "Point",
+			coordinates: [d.longitude, d.latitude]
+		},
+		properties: d
+	}));
 
 	const getSampleFillDist = (id, data) => {
 		const match = data.find((d) => d.id === id);
@@ -87,98 +93,106 @@
 		return c.toString();
 	};
 
-	function updateData() {
-		const countiesWithData = addDataToCounties({
-			counties,
-			sample,
-			maxDist,
-			maxPop
-		});
+	$: countiesWithData = addDataToCounties({
+		counties,
+		sample,
+		maxDist,
+		maxPop
+	});
 
-		topScore = {
-			...countiesWithData,
-			features: countiesWithData.features.map((d) => ({
-				...d,
-				properties: {
-					...d.properties,
-					fill: getTopScoreFill(d.properties.data)
-				}
-			}))
-		};
+	$: topScoreFeatures = countiesWithData.features.map((d) => ({
+		...d,
+		properties: {
+			...d.properties,
+			fill: getTopScoreFill(d.properties.data)
+		}
+	}));
 
-		bySampleDist = sample.map(({ name, id, state, geo }) => ({
-			name,
-			state,
-			geo,
-			id,
-			shape: {
-				...topScore,
-				features: topScore.features.map((d) => ({
-					...d,
-					properties: {
-						...d.properties,
-						fill: getSampleFillDist(id, d.properties.data)
-					}
-				}))
+	$: bySampleDist = sample.map(({ name, id, state, geo }) => ({
+		name,
+		state,
+		geo,
+		id,
+		features: topScoreFeatures.map((d) => ({
+			...d,
+			properties: {
+				...d.properties,
+				fill: getSampleFillDist(id, d.properties.data)
 			}
-		}));
+		}))
+	}));
 
-		bySampleShare = sample.map(({ name, id, state, geo }) => ({
-			name,
-			state,
-			geo,
-			id,
-			shape: {
-				...topScore,
-				features: topScore.features.map((d) => ({
-					...d,
-					properties: {
-						...d.properties,
-						fill: getSampleFillShare(id, d.properties.data)
-					}
-				}))
+	$: bySampleShare = sample.map(({ name, id, state, geo }) => ({
+		name,
+		state,
+		geo,
+		id,
+		features: topScoreFeatures.map((d) => ({
+			...d,
+			properties: {
+				...d.properties,
+				fill: getSampleFillShare(id, d.properties.data)
 			}
-		}));
-		// const shares = [...topScore.features.map((d) => d.properties.data[0].share)];
-		// const maxShare = Math.max(shares);
-		// shares.sort(ascending);
-		// 	topScore.features
-		// .filter((d) => d.properties.data[0].share === shares[0])
-		// .forEach((d, i) => {
-		// 	if (i === 0) console.table(d.properties.data);
-		// });
-	}
-
-	updateData();
+		}))
+	}));
+	// const shares = [...topScore.features.map((d) => d.properties.data[0].share)];
+	// const maxShare = Math.max(shares);
+	// shares.sort(ascending);
+	// 	topScore.features
+	// .filter((d) => d.properties.data[0].share === shares[0])
+	// .forEach((d, i) => {
+	// 	if (i === 0) console.table(d.properties.data);
+	// });
 </script>
 
 <h1>
 	What <strong>{samplePlace}</strong> means depending on where you are in the US
 </h1>
 
-<input
+<!-- select dropdown for sample -->
+<select bind:value={samplePlace}>
+	{#each placeNames as name}
+		<option value={name}>{name}</option>
+	{/each}
+</select>
+<!-- <input
 	type="range"
 	bind:value={inputWeight}
 	min="-4"
 	max="4"
 	step="0.25"
 	on:change={onInputChange}
-/>
+/> -->
 
-<p>
+<!-- <p>
 	(distance) {maxDist}:{maxPop} (population)
-</p>
-{#if topScore}
+</p> -->
+{#if topScoreFeatures}
 	<div class="top-score">
 		<Figure --aspect-ratio={aspectRatio} custom={{ projectionObject }}>
-			<Map topojson={topScore} stroke="rgba(255, 255, 255, 0.25)" />
-			<Map topojson={states} stroke="rgba(255, 255, 255, 0.5)" />
+			<Map features={topScoreFeatures} stroke="rgba(255, 255, 255, 0.25)" />
+			<Map features={statesFeatures} stroke="rgba(255, 255, 255, 0.5)" />
 			<MapPoints
-				topojson={sampleTopojson}
+				features={sampleFeatures}
 				stroke="#000"
 				strokeWidth="2"
 				radius="5"
 			/>
+			<MapLabels
+				features={sampleFeatures}
+				stroke="#000"
+				strokeWidth="4"
+				offsetY={-12}
+			/>
+			<div class="not-towns">
+				{#each sampleFeatures.filter((d) => d.properties.geo !== "town") as feature}
+					<p style:color={feature.properties.fill}>
+						{feature.properties.name} ({feature.properties.geo})
+					</p>
+				{/each}
+			</div>
+			<!-- svelte-ignore a11y-structure -->
+			<!-- <figcaption slot="figcaption"></figcaption> -->
 		</Figure>
 		<!-- <div class="map">			
 			<Map data={states} position="absolute" />
@@ -225,6 +239,16 @@
 
 <!-- <Footer /> -->
 <style>
+	.not-towns {
+		display: flex;
+		justify-content: center;
+	}
+
+	.not-towns p {
+		margin-right: 16px;
+		font-weight: bold;
+	}
+
 	.map {
 		position: relative;
 	}

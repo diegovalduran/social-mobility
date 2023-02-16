@@ -16,7 +16,7 @@ Pass style prop directives to set dimensions (defaults are all "auto")
 
 	export let debounce = 250;
 	export let exclude = "height";
-	export let custom;
+	export let custom = {};
 
 	const _width = writable(0);
 	const _height = writable(0);
@@ -46,27 +46,33 @@ Pass style prop directives to set dimensions (defaults are all "auto")
 	});
 </script>
 
-<figure
-	class="figure-slot"
-	bind:clientWidth
-	bind:clientHeight
-	use:resize={{ exclude, debounce }}
-	on:resize={onResize}
->
-	<slot />
+<figure>
+	<div
+		class="figure-inner"
+		bind:clientWidth
+		bind:clientHeight
+		use:resize={{ exclude, debounce }}
+		on:resize={onResize}
+	>
+		<slot />
+	</div>
+	<slot name="figcaption" />
 </figure>
 
 <style>
 	figure {
-		position: relative;
 		display: block;
+	}
+
+	.figure-inner {
+		position: relative;
 		width: var(--width, "auto");
 		height: var(--height, "auto");
 		aspect-ratio: var(--aspect-ratio, "auto");
 		overflow: hidden;
 	}
 
-	:global(.figure-slot > *) {
+	:global(.figure-inner > *) {
 		position: absolute;
 		top: 0;
 		left: 0;

@@ -1,6 +1,5 @@
 import * as topojson from "topojson-client";
 import { geoCentroid } from "d3";
-// import countyData from "$data/cb_2021_us_county_20m.json";
 import us from "$data/counties-10m.json";
 
 const countyShapesRaw = topojson.feature(us, us.objects.counties);

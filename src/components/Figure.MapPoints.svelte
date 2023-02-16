@@ -3,7 +3,7 @@
 
 	import { geoPath, geoAlbersUsa } from "d3";
 
-	export let topojson;
+	export let features;
 	export let fill;
 	export let stroke;
 	export let strokeWidth = 0.5;
@@ -11,8 +11,6 @@
 	export let projection = geoAlbersUsa();
 
 	const { width, height, custom } = getContext("Figure");
-
-	$: features = topojson.features;
 
 	$: projectionFn = projection.fitSize(
 		[$width, $height],
