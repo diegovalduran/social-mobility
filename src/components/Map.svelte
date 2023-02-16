@@ -1,19 +1,18 @@
 <script>
 	import { onMount, tick } from "svelte";
 	import { browser } from "$app/environment";
+	import resize from "$actions/resize.js";
 
-	import { extent, geoPath, geoAlbersUsa } from "d3";
+	import { geoPath, geoAlbersUsa } from "d3";
 
-	// TODO auto calculate?
-	const ratio = 1.6;
-
+	export let ratio;
 	export let data;
 	export let position = "relative";
 	export let fill;
 	export let stroke;
 	export let strokeWidth = 0.5;
+	export let projection = geoAlbersUsa();
 
-	let mounted;
 	let canvasEl;
 	let figureWidth;
 
@@ -26,44 +25,52 @@
 	$: contextWidth = width * dpr;
 	$: contextHeight = height * dpr;
 
-	$: projection = geoAlbersUsa().fitSize([contextWidth, contextHeight], data);
-	$: path = geoPath().projection(projection);
+	$: projectionFn = projection.fitSize([contextWidth, contextHeight], data);
+	$: pathFn = geoPath().projection(projectionFn);
 
-	$: if (mounted) {
-		console.time("render");
+	function render() {
 		ctx.clearRect(0, 0, contextWidth, contextHeight);
-		console.log(ctx);
+
 		features.forEach((feature) => {
-			ctx.beginPath();
-			path.context(ctx);
-			path(feature);
-
 			const { properties } = feature;
-
 			const strokeStyle = properties.stroke || stroke;
+			const fillStyle = properties.fill || fill;
+
+			ctx.beginPath();
+			pathFn.context(ctx);
+			pathFn(feature);
+
 			if (strokeStyle) {
 				ctx.lineWidth = strokeWidth;
 				ctx.strokeStyle = strokeStyle;
 				ctx.stroke();
 			}
 
-			const fillStyle = properties.fill || fill;
 			if (fillStyle) {
 				ctx.fillStyle = fillStyle;
 				ctx.fill();
 			}
 		});
+	}
 
-		console.timeEnd("render");
+	async function onResize() {
+		await tick();
+		render();
 	}
 
 	onMount(async () => {
 		await tick();
-		mounted = true;
+		render();
 	});
 </script>
 
-<figure bind:clientWidth={width} style:position style:height="{height}px">
+<figure
+	bind:clientWidth={width}
+	style:position
+	style:height="{height}px"
+	use:resize={{ debounce: 250 }}
+	on:resize={onResize}
+>
 	<canvas
 		width={contextWidth}
 		height={contextHeight}

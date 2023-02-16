@@ -13,6 +13,8 @@
 
 	// const copy = getContext("copy");
 	// const data = getContext("data");
+
+	const ratio = 1.6;
 	let samplePlace = "Portland";
 	let inputWeight = 0;
 	let maxDist = 1;
@@ -145,8 +147,6 @@
 		// });
 	}
 
-	$: ratio = `${maxDist}:${maxPop}`;
-
 	updateData();
 </script>
 
@@ -163,11 +163,14 @@
 	on:change={onInputChange}
 />
 
-<p>(distance) {ratio} (population)</p>
+<p>
+	(distance) {maxDist}:{maxPop} (population)
+</p>
 {#if topScore}
 	<div class="all">
 		<div class="map">
-			<Map data={topScore} />
+			<!-- TODO make this a component with an aspect ratio -->
+			<Map {ratio} data={topScore} />
 			<Map data={states} position="absolute" />
 			<MapPoints
 				data={sampleData}
