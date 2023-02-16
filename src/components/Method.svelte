@@ -2,11 +2,10 @@
 	import { getContext } from "svelte";
 	import { color, ascending } from "d3";
 	import WIP from "$components/helpers/WIP.svelte";
-	import Map from "$components/Map.svelte";
+	import Map from "$components/Figure.Map.svelte";
 	import MapPoints from "$components/MapPoints.svelte";
-	import places from "$utils/places.js";
-	import counties from "$utils/counties.js";
-	import states from "$utils/states.js";
+	import Figure from "$components/Figure.svelte";
+	import { counties, states, nation } from "$data/us.js";
 	import addDataToCounties from "$utils/addDataToCounties.js";
 
 	// import Footer from "$components/Footer.svelte";
@@ -14,7 +13,9 @@
 	// const copy = getContext("copy");
 	// const data = getContext("data");
 
-	const ratio = 1.6;
+	export let places;
+
+	const aspectRatio = "975/610";
 	let samplePlace = "Portland";
 	let inputWeight = 0;
 	let maxDist = 1;
@@ -51,7 +52,6 @@
 		}));
 
 	const sampleData = {
-		states,
 		places: sample.map((d, i) => ({
 			type: "Feature",
 			geometry: {
@@ -167,10 +167,12 @@
 	(distance) {maxDist}:{maxPop} (population)
 </p>
 {#if topScore}
-	<div class="all">
-		<div class="map">
-			<!-- TODO make this a component with an aspect ratio -->
-			<Map {ratio} data={topScore} />
+	<div class="top-score">
+		<Figure --aspect-ratio={aspectRatio}>
+			<Map topojson={topScore} stroke="rgba(255, 255, 255, 0.25)" />
+			<Map topojson={states} stroke="rgba(255, 255, 255, 0.5)" />
+		</Figure>
+		<!-- <div class="map">			
 			<Map data={states} position="absolute" />
 			<MapPoints
 				data={sampleData}
@@ -178,7 +180,7 @@
 				strokeWidth="2"
 				radius="5"
 			/>
-		</div>
+		</div> -->
 	</div>
 {/if}
 
@@ -220,7 +222,7 @@
 		position: relative;
 	}
 
-	.all .map {
+	.top-score {
 		max-width: 1280px;
 	}
 
