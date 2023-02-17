@@ -9,6 +9,7 @@
 	export let stroke;
 	export let strokeWidth = 0.5;
 	export let projection = geoAlbersUsa();
+	export let pointerEvents = true;
 
 	const { width, height, dpr, custom } = getContext("Figure");
 
@@ -62,9 +63,16 @@
 
 {#if mode === "svg"}
 	{#if features && contextWidth}
-		<svg width={contextWidth} height={contextHeight}>
+		<svg
+			width={contextWidth}
+			height={contextHeight}
+			style:pointer-events={pointerEvents ? "auto" : "none"}
+		>
 			{#each features as feature}
 				<path
+					on:mouseenter={() => {
+						console.table(feature.properties.data);
+					}}
 					style:stroke
 					style:stroke-width="{strokeWidth}px"
 					style:fill={feature.properties.fill || "none"}

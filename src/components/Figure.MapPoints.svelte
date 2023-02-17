@@ -32,3 +32,9 @@
 		{/each}
 	</svg>
 {/if}
+
+<style>
+	svg {
+		pointer-events: none;
+	}
+</style>

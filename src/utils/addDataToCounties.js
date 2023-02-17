@@ -3,7 +3,6 @@ import { sum, descending, scalePow, scaleLog, scaleLinear } from "d3";
 
 const scaleDist = scaleLog().clamp(true);
 const scalePop = scalePow().exponent(0.67).domain([0, 1000000]).clamp(true);
-const scaleScore = scaleLinear().range([0, 1]);
 
 function setScales({ counties, sample }) {
 	// const allDists = counties.features.map((d) => {

@@ -6,9 +6,10 @@
 	import Map from "$components/Figure.Map.svelte";
 	import MapPoints from "$components/Figure.MapPoints.svelte";
 	import MapLabels from "$components/Figure.MapLabels.svelte";
+	// import ButtonSet from "$components/helpers/ButtonSet.svelte";
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$utils/addDataToCounties.js";
-
+	import colors from "$data/colors4.json";
 	// import Footer from "$components/Footer.svelte";
 
 	// const copy = getContext("copy");
@@ -42,22 +43,16 @@
 		updateData();
 	}
 
-	const colors = [
-		"#374e8e",
-		"#4fbbae",
-		"#df7c18",
-		"#ac004f",
-		"#1b87aa",
-		"#e3b13e",
-		"#ce4631",
-		"#8d7a81"
-	];
+	function getLabel(d) {
+		const post = d.level === "town" ? `, ${d.stateAbbr}` : "";
+		return `${d.name}${post}`;
+	}
 
 	$: sample = places
 		.filter((d) => d.name === samplePlace)
 		.map((d, i) => ({
 			...d,
-			label: d.geo === "town" ? d.state : d.name,
+			label: getLabel(d),
 			fill: colors[i] || colors[colors.length - 1]
 		}));
 
@@ -87,9 +82,12 @@
 	const getTopScoreFill = (data) => {
 		const match = data[0];
 		const c = color(match.fill);
-		// c.opacity = match.share < 0.5 ? 0.75 : 1;
-		if (match.share < 0.75) c.opacity = 0.8;
+		if (match.share < 0.51) c.opacity = 0.6;
+		else if (match.share < 0.76) c.opacity = 0.8;
 		else c.opacity = 1;
+		// if (match.score < 0.5) c.opacity = 0.6;
+		// else if (match.score < 1) c.opacity = 0.8;
+		// else c.opacity = 1;
 		return c.toString();
 	};
 
@@ -108,11 +106,12 @@
 		}
 	}));
 
-	$: bySampleDist = sample.map(({ name, id, state, geo }) => ({
+	$: bySampleDist = sample.map(({ name, id, state, level, population }) => ({
 		name,
 		state,
-		geo,
+		level,
 		id,
+		population,
 		features: topScoreFeatures.map((d) => ({
 			...d,
 			properties: {
@@ -122,11 +121,12 @@
 		}))
 	}));
 
-	$: bySampleShare = sample.map(({ name, id, state, geo }) => ({
+	$: bySampleShare = sample.map(({ name, id, state, level, population }) => ({
 		name,
 		state,
-		geo,
+		level,
 		id,
+		population,
 		features: topScoreFeatures.map((d) => ({
 			...d,
 			properties: {
@@ -135,6 +135,8 @@
 			}
 		}))
 	}));
+
+	// $: console.log(bySampleShare);
 	// const shares = [...topScore.features.map((d) => d.properties.data[0].share)];
 	// const maxShare = Math.max(shares);
 	// shares.sort(ascending);
@@ -155,6 +157,9 @@
 		<option value={name}>{name}</option>
 	{/each}
 </select>
+
+<!-- <ButtonSet bind:value={scalePop} options={[{value: "scalePow"}, {value: "scaleLog"}, {value: "scaleLinear"}]}></ButtonSet> -->
+<!-- <ButtonSet bind:value={scaleDist} options={[{value: "scalePow"}, {value: "scaleLog"}, {value: "scaleLinear"}]}></ButtonSet> -->
 <!-- <input
 	type="range"
 	bind:value={inputWeight}
@@ -170,8 +175,12 @@
 {#if topScoreFeatures}
 	<div class="top-score">
 		<Figure --aspect-ratio={aspectRatio} custom={{ projectionObject }}>
-			<Map features={topScoreFeatures} stroke="rgba(255, 255, 255, 0.25)" />
-			<Map features={statesFeatures} stroke="rgba(255, 255, 255, 0.5)" />
+			<Map features={topScoreFeatures} stroke="rgba(0, 0, 0, 0.25)" />
+			<Map
+				features={statesFeatures}
+				stroke="rgba(0, 0, 0, 0.5)"
+				pointerEvents={false}
+			/>
 			<MapPoints
 				features={sampleFeatures}
 				stroke="#000"
@@ -185,9 +194,9 @@
 				offsetY={-12}
 			/>
 			<div class="not-towns">
-				{#each sampleFeatures.filter((d) => d.properties.geo !== "town") as feature}
+				{#each sampleFeatures.filter((d) => d.properties.level !== "town") as feature}
 					<p style:color={feature.properties.fill}>
-						{feature.properties.name} ({feature.properties.geo})
+						{feature.properties.name} ({feature.properties.level})
 					</p>
 				{/each}
 			</div>
@@ -242,6 +251,7 @@
 	.not-towns {
 		display: flex;
 		justify-content: center;
+		pointer-events: none;
 	}
 
 	.not-towns p {
