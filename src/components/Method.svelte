@@ -1,15 +1,16 @@
 <script>
 	import { getContext } from "svelte";
-	import { color, groups, ascending } from "d3";
+	import { color, groups, ascending, scalePow, scaleLog } from "d3";
 	import WIP from "$components/helpers/WIP.svelte";
 	import Figure from "$components/Figure.svelte";
-	import Map from "$components/Figure.Map.svelte";
+	import Map from "$components/Figure.MapSvg.svelte";
+	import MapPath from "$components/Figure.MapPath.svelte";
 	import MapPoints from "$components/Figure.MapPoints.svelte";
 	import MapLabels from "$components/Figure.MapLabels.svelte";
-	// import ButtonSet from "$components/helpers/ButtonSet.svelte";
+	import Scale from "$components/Method.Scale.svelte";
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$utils/addDataToCounties.js";
-	import colors from "$data/colors4.json";
+	import colors from "$data/colors5.json";
 	// import Footer from "$components/Footer.svelte";
 
 	// const copy = getContext("copy");
@@ -17,9 +18,7 @@
 
 	export let places;
 
-	const placeNames = groups(places, (d) => d.name)
-		.filter((d) => d[1].length > 1)
-		.map((d) => d[0]);
+	const placeNames = groups(places, (d) => d.name).map((d) => d[0]);
 	placeNames.sort(ascending);
 
 	const projectionObject = states;
@@ -33,6 +32,15 @@
 	let topScoreFeatures;
 	let bySampleDist = [];
 	let bySampleShare = [];
+
+	let scaleTypePop;
+	let scaleTypeDist;
+	let scaleExpPop;
+	let scaleExpDist;
+	let scaleLowerPop = 0;
+	let scaleUpperPop = 1000000;
+	let scaleLowerDist = 100;
+	let scaleUpperDist = 500;
 
 	function onInputChange() {
 		const weight = +inputWeight;
@@ -48,8 +56,10 @@
 		return `${d.name}${post}`;
 	}
 
+	$: samplePhoneme = places.find((d) => d.name === samplePlace).phoneme;
+
 	$: sample = places
-		.filter((d) => d.name === samplePlace)
+		.filter((d) => d.phoneme === samplePhoneme)
 		.map((d, i) => ({
 			...d,
 			label: getLabel(d),
@@ -82,8 +92,8 @@
 	const getTopScoreFill = (data) => {
 		const match = data[0];
 		const c = color(match.fill);
-		if (match.share < 0.51) c.opacity = 0.6;
-		else if (match.share < 0.76) c.opacity = 0.8;
+		if (match.share < 0.51) c.opacity = 0.5;
+		else if (match.share < 0.76) c.opacity = 0.75;
 		else c.opacity = 1;
 		// if (match.score < 0.5) c.opacity = 0.6;
 		// else if (match.score < 1) c.opacity = 0.8;
@@ -94,8 +104,16 @@
 	$: countiesWithData = addDataToCounties({
 		counties,
 		sample,
-		maxDist,
-		maxPop
+		scaleDist: scalePow()
+			.exponent(scaleExpPop)
+			.domain([+scaleLowerDist, +scaleUpperDist])
+			.range([1, 0])
+			.clamp(true),
+		scalePop: scalePow()
+			.domain([+scaleLowerPop, +scaleUpperPop])
+			.range([0, 1])
+			.exponent(scaleExpPop)
+			.clamp(true)
 	});
 
 	$: topScoreFeatures = countiesWithData.features.map((d) => ({
@@ -158,8 +176,22 @@
 	{/each}
 </select>
 
-<!-- <ButtonSet bind:value={scalePop} options={[{value: "scalePow"}, {value: "scaleLog"}, {value: "scaleLinear"}]}></ButtonSet> -->
-<!-- <ButtonSet bind:value={scaleDist} options={[{value: "scalePow"}, {value: "scaleLog"}, {value: "scaleLinear"}]}></ButtonSet> -->
+<Scale
+	bind:valueType={scaleTypeDist}
+	bind:valueExp={scaleExpDist}
+	bind:valueLower={scaleLowerDist}
+	bind:valueUpper={scaleUpperDist}
+	legend="Distance Scale"
+/>
+
+<Scale
+	bind:valueType={scaleTypePop}
+	bind:valueExp={scaleExpPop}
+	bind:valueLower={scaleLowerPop}
+	bind:valueUpper={scaleUpperPop}
+	legend="Population Scale"
+/>
+
 <!-- <input
 	type="range"
 	bind:value={inputWeight}
@@ -175,26 +207,24 @@
 {#if topScoreFeatures}
 	<div class="top-score">
 		<Figure --aspect-ratio={aspectRatio} custom={{ projectionObject }}>
-			<Map features={topScoreFeatures} stroke="rgba(0, 0, 0, 0.25)" />
-			<Map
-				features={statesFeatures}
-				stroke="rgba(0, 0, 0, 0.5)"
-				pointerEvents={false}
-			/>
-			<MapPoints
-				features={sampleFeatures}
-				stroke="#000"
-				strokeWidth="2"
-				radius="5"
-			/>
-			<MapLabels
-				features={sampleFeatures}
-				stroke="#000"
-				strokeWidth="4"
-				offsetY={-12}
-			/>
+			<Map>
+				<MapPath features={topScoreFeatures} stroke="rgba(0, 0, 0, 0.25)" />
+				<MapPath features={statesFeatures} stroke="rgba(0, 0, 0, 0.5)" />
+				<MapPoints
+					features={sampleFeatures}
+					stroke="#000"
+					strokeWidth="2"
+					radius="5"
+				/>
+				<MapLabels
+					features={sampleFeatures}
+					stroke="#000"
+					strokeWidth="4"
+					offsetY={-12}
+				/>
+			</Map>
 			<div class="not-towns">
-				{#each sampleFeatures.filter((d) => d.properties.level !== "town") as feature}
+				{#each sampleFeatures.filter((d) => !["town", "state"].includes(d.properties.level)) as feature}
 					<p style:color={feature.properties.fill}>
 						{feature.properties.name} ({feature.properties.level})
 					</p>

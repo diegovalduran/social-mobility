@@ -66,5 +66,4 @@ const places = placesRaw.map((d) => ({
 // }));
 
 // places.sort((a, b) => descending(a.population, b.population));
-
 export default places;

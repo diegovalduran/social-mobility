@@ -3,7 +3,6 @@
 
 	import { geoPath, geoAlbersUsa } from "d3";
 
-	export let mode = "svg"; // canvas
 	export let features;
 	export let fill;
 	export let stroke;
@@ -20,17 +19,24 @@
 	$: contextWidth = $width * mult;
 	$: contextHeight = $height * mult;
 
-	$: projectionFn = projection.fitSize(
+	$: $custom.projectionFn = projection.fitSize(
 		[contextWidth, contextHeight],
 		$custom.projectionObject
 	);
-	$: pathFn = geoPath().projection(projectionFn);
+	$: $custom.pathFn = geoPath().projection($custom.projectionFn);
 
-	$: if (mode === "canvas" && pathFn && contextWidth) render();
+	$: if (mode === "canvas" && $custom.pathFn && contextWidth) render();
+
+	function onZoom(event) {
+		const { transform } = event;
+		console.log(transform);
+		// g.attr("transform", transform);
+		// g.attr("stroke-width", 1 / transform.k);
+	}
 
 	function drawPath({ path, strokeStyle, fillStyle }) {
 		ctx.beginPath();
-		pathFn.context(ctx);
+		$custom.pathFn.context(ctx);
 		pathFn(path);
 
 		if (strokeStyle) {
@@ -61,26 +67,4 @@
 	}
 </script>
 
-{#if mode === "svg"}
-	{#if features && contextWidth}
-		<svg
-			width={contextWidth}
-			height={contextHeight}
-			style:pointer-events={pointerEvents ? "auto" : "none"}
-		>
-			{#each features as feature}
-				<path
-					on:mouseenter={() => {
-						console.table(feature.properties.data);
-					}}
-					style:stroke
-					style:stroke-width="{strokeWidth}px"
-					style:fill={feature.properties.fill || "none"}
-					d={pathFn(feature)}
-				/>
-			{/each}
-		</svg>
-	{/if}
-{:else if mode === "canvas"}
-	<canvas width={contextWidth} height={contextHeight} bind:this={canvasEl} />
-{/if}
+<canvas width={contextWidth} height={contextHeight} bind:this={canvasEl} />

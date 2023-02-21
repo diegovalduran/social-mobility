@@ -5,25 +5,19 @@
 	export let fill;
 	export let stroke;
 	export let strokeWidth = 0.5;
-	export let radius = 5;
-
-	const { width, height, custom } = getContext("Figure");
+	const { width, height, dpr, custom } = getContext("Figure");
 </script>
 
-<g class="g-map-points">
+<g class="g-map-path">
 	{#each features as feature}
 		<path
+			on:mouseenter={() => {
+				// 	console.table(feature.properties.data);
+			}}
 			style:stroke
 			style:stroke-width="{strokeWidth}px"
-			class="place-path"
-			fill={feature.properties.fill || fill}
+			style:fill={feature.properties.fill || "none"}
 			d={$custom.pathFn(feature)}
 		/>
 	{/each}
 </g>
-
-<style>
-	.g-map-points {
-		pointer-events: none;
-	}
-</style>

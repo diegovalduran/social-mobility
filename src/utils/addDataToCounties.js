@@ -1,8 +1,5 @@
 import haversine from "haversine-distance";
-import { sum, descending, scalePow, scaleLog, scaleLinear } from "d3";
-
-const scaleDist = scaleLog().clamp(true);
-const scalePop = scalePow().exponent(0.67).domain([0, 1000000]).clamp(true);
+import { sum, descending } from "d3";
 
 function setScales({ counties, sample }) {
 	// const allDists = counties.features.map((d) => {
@@ -29,7 +26,7 @@ function setScales({ counties, sample }) {
 	// scalePop.domain([1000, 1000000]).range([0.1, 0.8]);
 }
 
-function calculateCountyScores({ sample, centroid }) {
+function calculateCountyScores({ scaleDist, scalePop, sample, centroid }) {
 	const withDist = sample.map((s) => ({
 		...s,
 		dist: Math.floor(haversine(centroid, [s.longitude, s.latitude]) / 1000)
@@ -57,12 +54,9 @@ function calculateCountyScores({ sample, centroid }) {
 export default function addDataToCounties({
 	counties,
 	sample,
-	maxDist,
-	maxPop
+	scaleDist,
+	scalePop
 }) {
-	scaleDist.domain([50, 500]).range([maxDist, 0]);
-	scalePop.range([0, maxPop]);
-
 	// console.log(scalePop(10000000));
 	// console.log(scalePop(1000000));
 	// console.log(scalePop(100000));
@@ -75,7 +69,12 @@ export default function addDataToCounties({
 			...d,
 			properties: {
 				...d.properties,
-				data: calculateCountyScores({ sample, centroid: d.properties.centroid })
+				data: calculateCountyScores({
+					scaleDist,
+					scalePop,
+					sample,
+					centroid: d.properties.centroid
+				})
 			}
 		}))
 	};
