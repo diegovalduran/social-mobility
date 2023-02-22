@@ -8,9 +8,11 @@
 	import MapPoints from "$components/Figure.MapPoints.svelte";
 	import MapLabels from "$components/Figure.MapLabels.svelte";
 	import Scale from "$components/Method.Scale.svelte";
+	import Value from "$components/Method.Value.svelte";
+	import Threshold from "$components/Method.Threshold.svelte";
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$utils/addDataToCounties.js";
-	import colors from "$data/colors5.json";
+	import colors from "$data/colors.json";
 	// import Footer from "$components/Footer.svelte";
 
 	// const copy = getContext("copy");
@@ -33,14 +35,19 @@
 	let bySampleDist = [];
 	let bySampleShare = [];
 
-	let scaleTypePop;
-	let scaleTypeDist;
-	let scaleExpPop;
-	let scaleExpDist;
-	let scaleLowerPop = 0;
-	let scaleUpperPop = 1000000;
-	let scaleLowerDist = 100;
-	let scaleUpperDist = 500;
+	let scaleTypePop = "scalePow";
+	let scaleTypeDist = "scaleLog";
+	let scaleExpPop = "0.67";
+	let scaleExpDist = "1";
+	let scaleBoundsPop = [0, 1000000];
+	let scaleBoundsDist = [100, 500];
+	let valueProp = "share";
+	let valueWeightDist = 1;
+	let valueWeightPop = 1;
+	let thresholdLower = 0.5;
+	let thresholdUpper = 0.75;
+	let scaleDist;
+	let scalePop;
 
 	function onInputChange() {
 		const weight = +inputWeight;
@@ -52,7 +59,7 @@
 	}
 
 	function getLabel(d) {
-		const post = d.level === "town" ? `, ${d.stateAbbr}` : "";
+		const post = d.level === "city-us" ? `, ${d.stateAbbr}` : "";
 		return `${d.name}${post}`;
 	}
 
@@ -66,6 +73,7 @@
 			fill: colors[i] || colors[colors.length - 1]
 		}));
 
+	$: console.log(sample);
 	$: sampleFeatures = sample.map((d, i) => ({
 		type: "Feature",
 		geometry: {
@@ -89,31 +97,43 @@
 		return c.toString();
 	};
 
-	const getTopScoreFill = (data) => {
+	$: getTopScoreFill = (data) => {
 		const match = data[0];
 		const c = color(match.fill);
-		if (match.share < 0.51) c.opacity = 0.5;
-		else if (match.share < 0.76) c.opacity = 0.75;
+		if (match[valueProp] < thresholdLower * maxValue) c.opacity = 0.5;
+		else if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
 		else c.opacity = 1;
-		// if (match.score < 0.5) c.opacity = 0.6;
-		// else if (match.score < 1) c.opacity = 0.8;
-		// else c.opacity = 1;
 		return c.toString();
 	};
 
+	$: {
+		const sd =
+			scaleTypeDist === "scaleLog"
+				? scaleLog()
+				: scalePow().exponent(+scaleExpDist);
+		scaleDist = sd
+			.domain(scaleBoundsDist)
+			.range([+valueWeightDist, 0])
+			.clamp(true);
+
+		const sp =
+			scaleTypePop === "scaleLog"
+				? scaleLog()
+				: scalePow().exponent(+scaleExpPop);
+		scalePop = sp
+			.domain(scaleBoundsPop)
+			.range([0, +valueWeightPop])
+			.clamp(true);
+	}
+
+	$: maxValue = valueProp === "share" ? 1 : +valueWeightDist + +valueWeightPop;
+
 	$: countiesWithData = addDataToCounties({
+		valueProp,
 		counties,
 		sample,
-		scaleDist: scalePow()
-			.exponent(scaleExpPop)
-			.domain([+scaleLowerDist, +scaleUpperDist])
-			.range([1, 0])
-			.clamp(true),
-		scalePop: scalePow()
-			.domain([+scaleLowerPop, +scaleUpperPop])
-			.range([0, 1])
-			.exponent(scaleExpPop)
-			.clamp(true)
+		scaleDist,
+		scalePop
 	});
 
 	$: topScoreFeatures = countiesWithData.features.map((d) => ({
@@ -165,32 +185,11 @@
 	// });
 </script>
 
-<h1>
+<!-- <h1>
 	What <strong>{samplePlace}</strong> means depending on where you are in the US
-</h1>
+</h1> -->
 
 <!-- select dropdown for sample -->
-<select bind:value={samplePlace}>
-	{#each placeNames as name}
-		<option value={name}>{name}</option>
-	{/each}
-</select>
-
-<Scale
-	bind:valueType={scaleTypeDist}
-	bind:valueExp={scaleExpDist}
-	bind:valueLower={scaleLowerDist}
-	bind:valueUpper={scaleUpperDist}
-	legend="Distance Scale"
-/>
-
-<Scale
-	bind:valueType={scaleTypePop}
-	bind:valueExp={scaleExpPop}
-	bind:valueLower={scaleLowerPop}
-	bind:valueUpper={scaleUpperPop}
-	legend="Population Scale"
-/>
 
 <!-- <input
 	type="range"
@@ -204,36 +203,71 @@
 <!-- <p>
 	(distance) {maxDist}:{maxPop} (population)
 </p> -->
-{#if topScoreFeatures}
-	<div class="top-score">
-		<Figure --aspect-ratio={aspectRatio} custom={{ projectionObject }}>
-			<Map>
-				<MapPath features={topScoreFeatures} stroke="rgba(0, 0, 0, 0.25)" />
-				<MapPath features={statesFeatures} stroke="rgba(0, 0, 0, 0.5)" />
-				<MapPoints
-					features={sampleFeatures}
-					stroke="#000"
-					strokeWidth="2"
-					radius="5"
-				/>
-				<MapLabels
-					features={sampleFeatures}
-					stroke="#000"
-					strokeWidth="4"
-					offsetY={-12}
-				/>
-			</Map>
-			<div class="not-towns">
-				{#each sampleFeatures.filter((d) => !["town", "state"].includes(d.properties.level)) as feature}
-					<p style:color={feature.properties.fill}>
-						{feature.properties.name} ({feature.properties.level})
-					</p>
-				{/each}
-			</div>
-			<!-- svelte-ignore a11y-structure -->
-			<!-- <figcaption slot="figcaption"></figcaption> -->
-		</Figure>
-		<!-- <div class="map">			
+
+<article>
+	<section id="ui">
+		<select bind:value={samplePlace}>
+			{#each placeNames as name}
+				<option value={name}>{name}</option>
+			{/each}
+		</select>
+		<Scale
+			bind:valueScale={scaleTypeDist}
+			bind:valueExp={scaleExpDist}
+			bind:valueBounds={scaleBoundsDist}
+			legend="Distance Scale"
+		/>
+
+		<Scale
+			bind:valueScale={scaleTypePop}
+			bind:valueExp={scaleExpPop}
+			bind:valueBounds={scaleBoundsPop}
+			legend="Population Scale"
+		/>
+		<Value
+			bind:valueProp
+			bind:valueWeightDist
+			bind:valueWeightPop
+			legend="Value"
+		/>
+		<Threshold
+			bind:thresholdLower
+			bind:thresholdUpper
+			legend="Opacity threshold"
+		/>
+	</section>
+
+	<section id="maps">
+		{#if topScoreFeatures}
+			<div class="top-score">
+				<Figure --aspect-ratio={aspectRatio} custom={{ projectionObject }}>
+					<Map>
+						<MapPath features={topScoreFeatures} stroke="rgba(0, 0, 0, 0.25)" />
+						<MapPath features={statesFeatures} stroke="rgba(0, 0, 0, 0.5)" />
+						<MapPoints
+							features={sampleFeatures}
+							stroke="#000"
+							strokeWidth="2"
+							radius="5"
+						/>
+						<MapLabels
+							features={sampleFeatures}
+							stroke="#000"
+							strokeWidth="4"
+							offsetY={-12}
+						/>
+					</Map>
+					<div class="not-towns">
+						{#each sampleFeatures.filter((d) => !["city-us", "state"].includes(d.properties.level)) as feature}
+							<p style:color={feature.properties.fill}>
+								{feature.properties.name} ({feature.properties.level})
+							</p>
+						{/each}
+					</div>
+					<!-- svelte-ignore a11y-structure -->
+					<!-- <figcaption slot="figcaption"></figcaption> -->
+				</Figure>
+				<!-- <div class="map">			
 			<Map data={states} position="absolute" />
 			<MapPoints
 				data={sampleData}
@@ -241,8 +275,10 @@
 		
 			/>
 		</div> -->
-	</div>
-{/if}
+			</div>
+		{/if}
+	</section>
+</article>
 
 <!-- <section>
 	<h2>Dist by place</h2>
@@ -278,6 +314,10 @@
 
 <!-- <Footer /> -->
 <style>
+	article {
+		display: flex;
+	}
+
 	.not-towns {
 		display: flex;
 		justify-content: center;
@@ -326,5 +366,20 @@
 
 	section {
 		margin-bottom: 32px;
+	}
+
+	#ui {
+		width: 16rem;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+
+	#maps {
+		position: relative;
+		width: 1280px;
+		/* position: sticky;
+		top: 0;
+		left: 17rem; */
 	}
 </style>

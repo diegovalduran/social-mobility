@@ -11,8 +11,8 @@
 <g class="g-map-path">
 	{#each features as feature}
 		<path
-			on:mouseenter={() => {
-				// 	console.table(feature.properties.data);
+			on:click={() => {
+				console.table(feature.properties.data);
 			}}
 			style:stroke
 			style:stroke-width="{strokeWidth}px"
