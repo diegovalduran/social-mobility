@@ -13,7 +13,7 @@ const isOverlapping = (nodes) => {
 
 export default function checkOverlap({ elements, reverse }) {
 	const labels = [...elements];
-	if (reverse) players.reverse();
+	if (reverse) labels.reverse();
 	labels.forEach((el, i) => {
 		const order = labels.length - i - 1;
 		const overlap = isOverlapping(labels.slice(i));

@@ -1,5 +1,6 @@
 <script>
 	import { getContext } from "svelte";
+	import checkOverlap from "$actions/checkOverlap.js";
 
 	export let features;
 	export let fill = "#000";
@@ -11,7 +12,10 @@
 	const { width, height, custom } = getContext("Figure");
 </script>
 
-<g class="g-map-labels">
+<g
+	class="g-map-labels"
+	use:checkOverlap={{ query: "text.stroke", reverse: true }}
+>
 	{#each features as feature}
 		{@const coords = $custom.projectionFn(feature.geometry.coordinates)}
 		{@const hasCoords = coords}
@@ -27,6 +31,7 @@
 						<text
 							x={offsetX}
 							y={offsetY}
+							class:stroke={isStroke}
 							text-anchor="middle"
 							aligment-baseline="middle"
 							style:stroke={isStroke ? stroke : "none"}
@@ -44,5 +49,13 @@
 <style>
 	.g-map-labels {
 		pointer-events: none;
+	}
+
+	:global(.is-overlap) {
+		display: none;
+	}
+
+	:global(.is-overlap + text) {
+		display: none;
 	}
 </style>
