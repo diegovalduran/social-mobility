@@ -5,7 +5,8 @@ import stateLookup from "$data/state-name-abbr.csv";
 const getStateAbbr = (str) =>
 	stateLookup.find((d) => d.state === str)?.standard;
 
-const places = placesRaw.map((d) => ({
+const places = placesRaw.map((d, i) => ({
+	id: i,
 	...d,
 	stateAbbr: getStateAbbr(d.state),
 	latitude: +d.latitude,

@@ -4,39 +4,30 @@
 	import { geoPath, geoAlbersUsa } from "d3";
 
 	export let features;
-	export let fill;
+	export let fill = "none";
 	export let stroke;
 	export let strokeWidth = 0.5;
 	export let projection = geoAlbersUsa();
-	export let pointerEvents = true;
 
 	const { width, height, dpr, custom } = getContext("Figure");
 
 	let canvasEl;
 
 	$: ctx = canvasEl?.getContext("2d");
-	$: mult = mode === "canvas" ? $dpr : 1;
-	$: contextWidth = $width * mult;
-	$: contextHeight = $height * mult;
+	$: contextWidth = $width * $dpr;
+	$: contextHeight = $height * $dpr;
 
-	$: $custom.projectionFn = projection.fitSize(
+	$: projectionFn = projection.fitSize(
 		[contextWidth, contextHeight],
 		$custom.projectionObject
 	);
-	$: $custom.pathFn = geoPath().projection($custom.projectionFn);
+	$: pathFn = geoPath().projection(projectionFn);
 
-	$: if (mode === "canvas" && $custom.pathFn && contextWidth) render();
-
-	function onZoom(event) {
-		const { transform } = event;
-		console.log(transform);
-		// g.attr("transform", transform);
-		// g.attr("stroke-width", 1 / transform.k);
-	}
+	$: if (pathFn && contextWidth && features) render();
 
 	function drawPath({ path, strokeStyle, fillStyle }) {
 		ctx.beginPath();
-		$custom.pathFn.context(ctx);
+		pathFn.context(ctx);
 		pathFn(path);
 
 		if (strokeStyle) {

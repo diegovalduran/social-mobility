@@ -34,8 +34,8 @@
 </script>
 
 {#if $custom.pathFn && $width}
+	<!-- svelte-ignore a11y-click-events-have-key-events -->
 	<svg
-		bind:this={svgEl}
 		width={$width}
 		height={$height}
 		on:click={onZoom}
