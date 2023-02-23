@@ -14,7 +14,7 @@
 	import Threshold from "$components/Method.Threshold.svelte";
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$utils/addDataToCounties.js";
-	import colors from "$data/colors.json";
+	import colors from "$data/colors2.json";
 	// import Footer from "$components/Footer.svelte";
 
 	// const copy = getContext("copy");
@@ -42,7 +42,7 @@
 	let scaleExpPop = "0.67";
 	let scaleExpDist = "1";
 	let scaleBoundsPop = [0, 1000000];
-	let scaleBoundsDist = [100, 500];
+	let scaleBoundsDist = [80, 320];
 	let valueProp = "share";
 	let valueWeightDist = 1;
 	let valueWeightPop = 1;

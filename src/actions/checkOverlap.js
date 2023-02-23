@@ -25,13 +25,11 @@ const isOverlapping = (nodes) => {
 
 export default function overlap(node, params = {}) {
 	function check({ reverse, query }) {
-		console.log(node, query);
 		const elements = [
 			...node.querySelectorAll(query || ":scope > *:not(iframe)")
 		];
 		if (reverse) elements.reverse();
 		elements.forEach((el, i) => {
-			console.log(i);
 			// const order = elements.length - i - 1;
 			const overlap = isOverlapping(elements.slice(i));
 			if (overlap) el.classList.add("is-overlap");

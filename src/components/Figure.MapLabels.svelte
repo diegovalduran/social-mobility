@@ -10,11 +10,12 @@
 	export let strokeWidth = 1;
 
 	const { width, height, custom } = getContext("Figure");
+	$: id = JSON.stringify(features);
 </script>
 
 <g
 	class="g-map-labels"
-	use:checkOverlap={{ query: "text.stroke", reverse: true }}
+	use:checkOverlap={{ id, query: "text.stroke", reverse: true }}
 >
 	{#each features as feature}
 		{@const coords = $custom.projectionFn(feature.geometry.coordinates)}
