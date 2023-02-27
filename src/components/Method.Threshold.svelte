@@ -25,7 +25,7 @@
 				max={0.99}
 				bind:value={thresholdLower}
 			/>
-			<p>Score &lt;= {thresholdLower} is 0.5</p>
+			<!-- <p>Score &lt;= {thresholdLower} is 0.75</p> -->
 		</div>
 	</fieldset>
 </div>

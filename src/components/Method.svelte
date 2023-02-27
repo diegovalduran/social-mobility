@@ -75,6 +75,7 @@
 		.map((d, i) => ({
 			...d,
 			label: getLabel(d),
+			className: i > colors.length - 2 ? "hide-label" : "",
 			fill: colors[i] || colors[colors.length - 1]
 		}));
 
@@ -106,10 +107,13 @@
 
 	$: getTopScoreFill = (data) => {
 		const match = data[0];
-		const c = color(match.fill);
-		if (match[valueProp] < thresholdLower * maxValue) c.opacity = 0.5;
-		else if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
+		let c = color(match.fill);
+		if (match[valueProp] < thresholdLower * maxValue) {
+			c = color("#666");
+		}
+		if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
 		else c.opacity = 1;
+		// else if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
 		return c.toString();
 	};
 
@@ -375,5 +379,9 @@
 		/* position: sticky;
 		top: 0;
 		left: 17rem; */
+	}
+
+	:global(g .hide-label) {
+		display: none;
 	}
 </style>

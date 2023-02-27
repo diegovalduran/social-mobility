@@ -1,22 +1,48 @@
 <script>
 	export let features;
 
-	function getLabel(properties) {
-		console.log(properties);
-		return "hi";
-	}
+	const max = 5;
+	$: top = features.slice(0, max);
+	$: bottom = features.slice(max);
+	$: others = bottom[0]?.properties;
+	$: suffix = others?.name.endsWith("s") ? "" : "s";
+	$: summary = `Other ${others?.name}${suffix}`;
 </script>
 
 <div class="key">
-	<ul>
-		{#each features as { properties }}
-			{@const { level, fill, label } = properties}
-			<!-- {@const label = getLabel(properties)} -->
-			<li style:color={fill} class={level}>
-				{label}
-			</li>
-		{/each}
-	</ul>
+	<div class="top">
+		<ul>
+			{#each top as { properties }}
+				{@const { level, fill, label } = properties}
+				{@const background = fill}
+				<li style:color={fill} class={level}>
+					<span class="text">{label}</span>
+					<span class="fills">
+						{#each [1, 0.75] as opacity}
+							<span class="fill" style:opacity style:background />
+						{/each}
+					</span>
+				</li>
+			{/each}
+		</ul>
+	</div>
+
+	{#if others}
+		<div class="bottom">
+			<details>
+				<summary style:color={others.fill}>{summary}</summary>
+				<ul>
+					{#each bottom as { properties }}
+						{@const { level, fill, label } = properties}
+						{@const background = fill}
+						<li style:color={fill} class={level}>
+							<span class="text">{label}</span>
+						</li>
+					{/each}
+				</ul>
+			</details>
+		</div>
+	{/if}
 </div>
 
 <style>
@@ -28,8 +54,29 @@
 		padding: 0;
 		justify-content: center;
 	}
+
 	li {
 		font-weight: bold;
 		margin-right: 16px;
+		display: flex;
+		flex-direction: column;
+	}
+
+	span {
+		display: flex;
+	}
+
+	span.fill {
+		display: inline-block;
+		flex-grow: 1;
+		height: 8px;
+	}
+
+	summary {
+		font-weight: bold;
+	}
+
+	.bottom ul {
+		justify-content: flex-start;
 	}
 </style>

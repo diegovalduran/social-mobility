@@ -23,8 +23,9 @@
 		{@const x = hasCoords ? coords[0] : 0}
 		{@const y = hasCoords ? coords[1] : 0}
 		{@const transform = `translate(${x}, ${y})`}
+		{@const className = feature.properties.className}
 		{#if hasCoords}
-			<g {transform}>
+			<g {transform} class={className}>
 				{#each [0, 1] as i}
 					{@const isStroke = i === 0 && stroke !== "none"}
 					{@const isRender = isStroke || i > 0}
@@ -58,5 +59,9 @@
 
 	:global(.is-overlap + text) {
 		display: none;
+	}
+
+	text {
+		font-weight: bold;
 	}
 </style>
