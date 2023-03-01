@@ -13,7 +13,7 @@
 	import Value from "$components/Method.Value.svelte";
 	import Threshold from "$components/Method.Threshold.svelte";
 	import { counties, states } from "$data/us.js";
-	import addDataToCounties from "$utils/addDataToCounties.js";
+	import addDataToCounties from "$data/addDataToCounties.js.js";
 	import colors from "$data/colors2.json";
 	// import Footer from "$components/Footer.svelte";
 
@@ -21,8 +21,6 @@
 	// const data = getContext("data");
 
 	export let places;
-
-	console.log(places);
 
 	const placeNames = groups(places, (d) => d.name).map((d) => d[0]);
 	placeNames.sort(ascending);
@@ -32,8 +30,6 @@
 
 	const aspectRatio = "975/610";
 	let samplePlace = placeNames[1680];
-	let maxDist = 1;
-	let maxPop = 1;
 	let topScoreFeatures;
 	let bySampleDist = [];
 	let bySampleShare = [];
