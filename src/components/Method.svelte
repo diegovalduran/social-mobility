@@ -22,6 +22,8 @@
 
 	export let places;
 
+	console.log(places);
+
 	const placeNames = groups(places, (d) => d.name).map((d) => d[0]);
 	placeNames.sort(ascending);
 
@@ -157,12 +159,12 @@
 		scaleWiki
 	});
 
-	$: if (countiesWithData) {
-		const x = countiesWithData.features.find(
-			(d) => d.properties.name === "Berkshire"
-		).properties.data;
-		window.output = csvFormat(x);
-	}
+	// $: if (countiesWithData) {
+	// 	const x = countiesWithData.features.find(
+	// 		(d) => d.properties.name === "Berkshire"
+	// 	).properties.data;
+	// 	window.output = csvFormat(x);
+	// }
 
 	$: topScoreFeatures = countiesWithData.features.map((d) => ({
 		...d,

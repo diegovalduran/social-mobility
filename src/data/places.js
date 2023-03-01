@@ -1,10 +1,10 @@
-import { descending } from "d3";
+import { groups, descending } from "d3";
 import raw from "$data/raw.csv";
 import stateLookup from "$data/state-name-abbr.csv";
 
 const getStateAbbr = (str) => stateLookup.find((d) => d.state === str)?.postal;
 
-const places = raw
+const cleaned = raw
 	.filter((d) => !d.remove)
 	.map((d, i) => ({
 		id: i,
@@ -18,6 +18,15 @@ const places = raw
 		phoneme: d.phoneme,
 		wiki: +d.wiki_length
 	}));
+
+const places = groups(cleaned, (d) => d.phoneme)
+	.map(([key, values], i) =>
+		values.map((v) => ({
+			...v,
+			phoneme: i
+		}))
+	)
+	.flat();
 
 places.sort((a, b) => descending(a.population, b.population));
 
