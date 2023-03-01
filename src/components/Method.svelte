@@ -1,6 +1,6 @@
 <script>
 	import { getContext } from "svelte";
-	import { color, groups, ascending, scalePow, scaleLog } from "d3";
+	import { color, groups, ascending, scalePow, scaleLog, csvFormat } from "d3";
 	import WIP from "$components/helpers/WIP.svelte";
 	import Figure from "$components/Figure.svelte";
 	import MapSvg from "$components/Figure.MapSvg.svelte";
@@ -29,7 +29,7 @@
 	const statesFeatures = states.features;
 
 	const aspectRatio = "975/610";
-	let samplePlace = placeNames[0];
+	let samplePlace = placeNames[1680];
 	let maxDist = 1;
 	let maxPop = 1;
 	let topScoreFeatures;
@@ -59,7 +59,9 @@
 		const post =
 			d.level === "city-us"
 				? `, ${d.stateAbbr}`
-				: ` (${d.level.replace("-international", "")})`;
+				: d.level === "city-international"
+				? ` (${d.country})`
+				: ` (${d.level})`;
 		return `${d.name}${post}`;
 	}
 
@@ -73,8 +75,6 @@
 			className: i > colors.length - 2 ? "hide-label" : "",
 			fill: colors[i] || colors[colors.length - 1]
 		}));
-
-	$: console.log(sample);
 
 	$: sampleFeatures = sample.map((d, i) => ({
 		type: "Feature",
@@ -156,6 +156,13 @@
 		scalePop,
 		scaleWiki
 	});
+
+	$: if (countiesWithData) {
+		const x = countiesWithData.features.find(
+			(d) => d.properties.name === "Berkshire"
+		).properties.data;
+		window.output = csvFormat(x);
+	}
 
 	$: topScoreFeatures = countiesWithData.features.map((d) => ({
 		...d,
