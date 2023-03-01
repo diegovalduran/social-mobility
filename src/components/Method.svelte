@@ -30,7 +30,6 @@
 
 	const aspectRatio = "975/610";
 	let samplePlace = placeNames[0];
-	let inputWeight = 0;
 	let maxDist = 1;
 	let maxPop = 1;
 	let topScoreFeatures;
@@ -38,27 +37,23 @@
 	let bySampleShare = [];
 
 	let scaleTypePop = "scalePow";
+	let scaleTypeWiki = "scalePow";
 	let scaleTypeDist = "scaleLog";
-	let scaleExpPop = "0.67";
+	let scaleExpPop = "0.5";
+	let scaleExpWiki = "0.5";
 	let scaleExpDist = "1";
 	let scaleBoundsPop = [0, 1000000];
+	let scaleBoundsWiki = [0, 150000];
 	let scaleBoundsDist = [80, 320];
-	let valueProp = "share";
-	let valueWeightDist = 1;
+	let valueWeightDist = 3;
 	let valueWeightPop = 1;
+	let valueWeightWiki = 1;
+	let scalePop;
+	let scaleWiki;
+	let scaleDist;
+	let valueProp = "share";
 	let thresholdLower = 0.5;
 	let thresholdUpper = 0.75;
-	let scaleDist;
-	let scalePop;
-
-	function onInputChange() {
-		const weight = +inputWeight;
-		maxPop = 1;
-		maxDist = 1;
-		if (weight > 0) maxPop = 1 + weight;
-		if (weight < 0) maxDist = 1 + -weight;
-		updateData();
-	}
 
 	function getLabel(d) {
 		const post =
@@ -78,6 +73,8 @@
 			className: i > colors.length - 2 ? "hide-label" : "",
 			fill: colors[i] || colors[colors.length - 1]
 		}));
+
+	$: console.log(sample);
 
 	$: sampleFeatures = sample.map((d, i) => ({
 		type: "Feature",
@@ -135,16 +132,29 @@
 			.domain(scaleBoundsPop)
 			.range([0, +valueWeightPop])
 			.clamp(true);
+
+		const sw =
+			scaleTypeWiki === "scaleLog"
+				? scaleLog()
+				: scalePow().exponent(+scaleExpWiki);
+		scaleWiki = sp
+			.domain(scaleBoundsWiki)
+			.range([0, +valueWeightWiki])
+			.clamp(true);
 	}
 
-	$: maxValue = valueProp === "share" ? 1 : +valueWeightDist + +valueWeightPop;
+	$: maxValue =
+		valueProp === "share"
+			? 1
+			: +valueWeightDist + +valueWeightPop + +valueWeightWiki;
 
 	$: countiesWithData = addDataToCounties({
 		valueProp,
 		counties,
 		sample,
 		scaleDist,
-		scalePop
+		scalePop,
+		scaleWiki
 	});
 
 	$: topScoreFeatures = countiesWithData.features.map((d) => ({
@@ -200,19 +210,27 @@
 			bind:valueScale={scaleTypeDist}
 			bind:valueExp={scaleExpDist}
 			bind:valueBounds={scaleBoundsDist}
-			legend="Distance Scale"
+			legend="Distance Scale (km)"
 		/>
 
 		<Scale
 			bind:valueScale={scaleTypePop}
 			bind:valueExp={scaleExpPop}
 			bind:valueBounds={scaleBoundsPop}
-			legend="Population Scale"
+			legend="Population Scale (people)"
+		/>
+
+		<Scale
+			bind:valueScale={scaleTypeWiki}
+			bind:valueExp={scaleExpWiki}
+			bind:valueBounds={scaleBoundsWiki}
+			legend="Wiki Scale (article length)"
 		/>
 		<Value
 			bind:valueProp
 			bind:valueWeightDist
 			bind:valueWeightPop
+			bind:valueWeightWiki
 			legend="Value"
 		/>
 		<Threshold

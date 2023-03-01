@@ -1,7 +1,13 @@
 import haversine from "haversine-distance";
 import { sum, descending } from "d3";
 
-function calculateCountyScores({ scaleDist, scalePop, sample, centroid }) {
+function calculateCountyScores({
+	scaleDist,
+	scalePop,
+	scaleWiki,
+	sample,
+	centroid
+}) {
 	const withDist = sample.map((s) => ({
 		...s,
 		dist: Math.floor(haversine(centroid, [s.longitude, s.latitude]) / 1000)
@@ -11,7 +17,8 @@ function calculateCountyScores({ scaleDist, scalePop, sample, centroid }) {
 		...d,
 		scoreD: scaleDist(d.dist),
 		scoreP: scalePop(d.population),
-		score: scaleDist(d.dist) + scalePop(d.population)
+		scoreW: scaleWiki(d.wiki),
+		score: scaleDist(d.dist) + scalePop(d.population) + scaleWiki(d.wiki)
 	}));
 
 	const total = sum(withScore, (d) => d.score);
@@ -30,7 +37,8 @@ export default function addDataToCounties({
 	counties,
 	sample,
 	scaleDist,
-	scalePop
+	scalePop,
+	scaleWiki
 }) {
 	const countiesWithData = {
 		...counties,
@@ -41,6 +49,7 @@ export default function addDataToCounties({
 				data: calculateCountyScores({
 					scaleDist,
 					scalePop,
+					scaleWiki,
 					sample,
 					centroid: d.properties.centroid
 				})

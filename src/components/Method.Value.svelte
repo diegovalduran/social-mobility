@@ -4,6 +4,7 @@
 	export let valueProp;
 	export let valueWeightDist;
 	export let valueWeightPop;
+	export let valueWeightWiki;
 </script>
 
 <div class="method-value">
@@ -16,7 +17,7 @@
 			/>
 
 			<div class="weight">
-				<p>Weight (Distance: {valueWeightDist})</p>
+				<p>Distance (weight: {valueWeightDist})</p>
 				<input
 					type="range"
 					step={0.25}
@@ -25,13 +26,22 @@
 					bind:value={valueWeightDist}
 				/>
 
-				<p>Weight (Population: {valueWeightPop})</p>
+				<p>Population (weight: {valueWeightPop})</p>
 				<input
 					type="range"
 					step={0.25}
 					min={0}
 					max={5}
 					bind:value={valueWeightPop}
+				/>
+
+				<p>Wiki Length (weight: {valueWeightWiki})</p>
+				<input
+					type="range"
+					step={0.25}
+					min={0}
+					max={5}
+					bind:value={valueWeightWiki}
 				/>
 			</div>
 		</div>
