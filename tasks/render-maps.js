@@ -16,9 +16,7 @@ import cleanUSData from "../src/data/cleanUSData.js";
 
 const us = JSON.parse(fs.readFileSync("./src/data/counties-10m.json", "utf8"));
 const raw = csvParse(fs.readFileSync("./src/data/raw.csv", "utf8"));
-const stateLookup = csvParse(
-	fs.readFileSync("./src/data/state-name-abbr.csv", "utf8")
-);
+const stateLookup = csvParse(fs.readFileSync("./src/data/states.csv", "utf8"));
 const colors = JSON.parse(fs.readFileSync("./src/data/colors2.json", "utf8"));
 const { counties, states } = cleanUSData(us);
 

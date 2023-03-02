@@ -1,12 +1,21 @@
 <script>
-	import { max, color, groups, scalePow, scaleLog, csvFormat } from "d3";
+	import {
+		format,
+		max,
+		color,
+		groups,
+		scalePow,
+		scaleLog,
+		csvFormat
+	} from "d3";
 	import Figure from "$components/Figure.svelte";
 	import MapSvg from "$components/Figure.MapSvg.svelte";
 	import MapCanvas from "$components/Figure.MapCanvas.svelte";
 	import MapPath from "$components/Figure.MapPath.svelte";
 	import MapPoints from "$components/Figure.MapPoints.svelte";
 	import MapLabels from "$components/Figure.MapLabels.svelte";
-	import MapKey from "$components/Figure.MapKey.svelte";
+	import MapKey from "$components/Map.Key.svelte";
+	import MapTable from "$components/Map.Table.svelte";
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$data/addDataToCounties.js";
 	import colors from "$data/colors2.json";
@@ -52,23 +61,6 @@
 		return `${d.name}${post}`;
 	}
 
-	// function getSampleFillDist(id, data) {
-	// 	const match = data.find((d) => d.id === id);
-	// 	const c = color("#fff");
-	// 	c.opacity = Math.max(
-	// 		0.1,
-	// 		Math.floor((match.scoreD / +valueWeightDist) * 10) / 10
-	// 	);
-	// 	return c.toString();
-	// }
-
-	// function getSampleFillShare(id, data) {
-	// 	const match = data.find((d) => d.id === id);
-	// 	const c = color("#fff");
-	// 	c.opacity = Math.max(0.1, Math.floor(match.share * 10) / 10);
-	// 	return c.toString();
-	// }
-
 	$: placeName = placeData[0].name;
 
 	$: places = placeData.map((d, i) => ({
@@ -91,12 +83,12 @@
 		properties: d
 	}));
 
-	$: maxValue =
-		valueProp === "share"
-			? 1
-			: +valueWeightDist + +valueWeightPop + +valueWeightWiki;
+	// $: maxValue =
+	// 	valueProp === "share"
+	// 		? 1
+	// 		: +valueWeightDist + +valueWeightPop + +valueWeightWiki;
 
-	$: maxScore = max(
+	$: maxValue = max(
 		countiesWithData.features,
 		(d) => d.properties.data[0][valueProp]
 	);
@@ -104,8 +96,8 @@
 	$: getTopScoreFill = (data) => {
 		const match = data[0];
 		let c = color(match.fill);
-		if (match[valueProp] < thresholdLower * maxScore) c = color(DEFAULT_FILL);
-		else if (match[valueProp] < thresholdUpper * maxScore) c.opacity = 0.75;
+		if (match[valueProp] < thresholdLower * maxValue) c = color(DEFAULT_FILL);
+		else if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
 		else c.opacity = 1;
 		return c.toString();
 	};
@@ -148,6 +140,29 @@
 		scaleWiki
 	});
 
+	$: rows = countiesWithData.features.map((d) => {
+		const a = d.properties.data[0];
+		const b = d.properties.data[1];
+
+		return {
+			name: d.properties.name,
+			state: d.properties.state,
+			labelA: a.label,
+			valueA: format(".0f")((a[valueProp] / maxValue) * 100),
+			labelB: b.label,
+			valueB: format(".0f")((b[valueProp] / maxValue) * 100)
+		};
+	});
+
+	$: columns = [
+		{ key: "name", title: "county" },
+		{ key: "state", title: "state" },
+		{ key: "labelA", title: "1st name" },
+		{ key: "valueA", title: "1st score" },
+		{ key: "labelB", title: "2nd name" },
+		{ key: "valueB", title: "2nd score" }
+	];
+
 	// $: if (countiesWithData) {
 	// 	const x = countiesWithData.features.find(
 	// 		(d) => d.properties.name === "Berkshire"
@@ -179,18 +194,20 @@
 	}));
 
 	$: topPlaces = countyFeatures.map((d) => d.properties.data[0]);
+
 	// $: tallyUpper = groups(
-	// 	topPlaces.filter((d) => d[valueProp] >= thresholdUpper * maxScore),
+	// 	topPlaces.filter((d) => d[valueProp] >= thresholdUpper * maxValue),
 	// 	(d) => d.label
 	// ).map(([label, values]) => ({
 	// 	label,
 	// 	count: values.length
 	// }));
+
 	$: tallyLower = groups(
 		topPlaces.filter(
 			(d) =>
-				d[valueProp] >= thresholdLower * maxScore &&
-				d[valueProp] < thresholdUpper * maxScore
+				d[valueProp] >= thresholdLower * maxValue &&
+				d[valueProp] < thresholdUpper * maxValue
 		),
 		(d) => d.label
 	).map(([label, values]) => ({
@@ -233,3 +250,4 @@
 	<!-- <figcaption slot="figcaption"></figcaption> -->
 </Figure>
 <MapKey features={keyFeatures} />
+<MapTable {rows} {columns} />

@@ -7,7 +7,7 @@ const copy = JSON.parse(fs.readFileSync("./src/data/copy-main.json", "utf8"));
 
 const raw = d3.csvParse(fs.readFileSync("./src/data/raw.csv", "utf8"));
 const stateLookup = d3.csvParse(
-	fs.readFileSync("./src/data/state-name-abbr.csv", "utf8")
+	fs.readFileSync("./src/data/states.csv", "utf8")
 );
 
 const places = cleanPlaceData({ raw, stateLookup });

@@ -1,5 +1,5 @@
 import locate from "$utils/locate.js";
-import states from "$data/state-name-abbr.csv";
+import states from "$data/states.csv";
 
 export default async function getLocation(test) {
 	let location;
