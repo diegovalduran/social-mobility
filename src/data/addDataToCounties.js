@@ -5,10 +5,10 @@ function calculateCountyScores({
 	scaleDist,
 	scalePop,
 	scaleWiki,
-	sample,
+	places,
 	centroid
 }) {
-	const withDist = sample.map((s) => ({
+	const withDist = places.map((s) => ({
 		...s,
 		dist: Math.floor(haversine(centroid, [s.longitude, s.latitude]) / 1000)
 	}));
@@ -35,7 +35,7 @@ function calculateCountyScores({
 
 export default function addDataToCounties({
 	counties,
-	sample,
+	places,
 	scaleDist,
 	scalePop,
 	scaleWiki
@@ -50,7 +50,7 @@ export default function addDataToCounties({
 					scaleDist,
 					scalePop,
 					scaleWiki,
-					sample,
+					places,
 					centroid: d.properties.centroid
 				})
 			}

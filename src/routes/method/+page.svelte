@@ -7,9 +7,8 @@
 	import version from "$utils/version.js";
 
 	version();
-	export let data;
-	const { places } = data;
+	// export let data;
 </script>
 
 <!-- <Meta {title} {description} {url} {keywords} /> -->
-<Method {places} />
+<Method />

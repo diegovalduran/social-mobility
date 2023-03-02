@@ -1,5 +1,6 @@
-import places from "$data/places.js";
+// import places from "$data/places.js";
 
 export async function load() {
-	return { places };
+	// return { places };
+	return {};
 }

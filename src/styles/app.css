@@ -22,8 +22,8 @@
 	--font-form: var(--sans);
 	--color-bg: var(--color-black);
 	--color-fg: var(--color-white);
-	--color-primary: var(--color-black);
-	--color-link: var(--color-black);
+	--color-primary: var(--color-fg);
+	--color-link: var(--color-fg);
 	--color-focus: var(--color-red);
 	--color-mark: var(--color-yellow);
 	--color-selection: var(--color-gray-300);
@@ -47,6 +47,7 @@
 
 h1 {
 	font-size: var(--48px, 48px);
+	font-weight: 800;
 }
 
 h2 {
