@@ -1,4 +1,4 @@
-import { groups, descending } from "d3";
+import { format, groups, descending } from "d3";
 
 export default function cleanPlaceData({ raw, stateLookup }) {
 	const getStateAbbr = (str) =>
@@ -9,24 +9,28 @@ export default function cleanPlaceData({ raw, stateLookup }) {
 		.map((d, i) => ({
 			id: i,
 			name: d.name,
-			stateAbbr: getStateAbbr(d.state),
-			country: d.country,
+			state: getStateAbbr(d.state),
+			country: d.level === "city-us" ? "" : d.country,
 			level: d.level,
 			population: +d.population,
-			latitude: +d.latitude,
-			longitude: +d.longitude,
+			latitude: (+d.latitude).toFixed(2),
+			longitude: (+d.longitude).toFixed(2),
 			phoneme: d.phoneme,
 			wiki: +d.wiki_length
 		}));
 
-	const places = groups(cleaned, (d) => d.phoneme)
-		.filter((d) => d[1].length > 1) // multiple
-		.map(([key, values], i) =>
-			values.map((v) => ({
+	const grouped = groups(cleaned, (d) => d.phoneme);
+	const digits = grouped.length.toString().length;
+	const f = format(`0${digits}d`);
+
+	const places = grouped
+		.filter((d) => d[1].length > 1)
+		.map(([key, values], i) => {
+			return values.map((v) => ({
 				...v,
-				phoneme: i
-			}))
-		)
+				phoneme: f(i)
+			}));
+		})
 		.flat();
 
 	places.sort((a, b) => descending(a.population, b.population));

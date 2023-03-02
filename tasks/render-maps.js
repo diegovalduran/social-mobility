@@ -98,7 +98,7 @@ function getTopScoreFill(data) {
 function getLabel(d) {
 	const post =
 		d.level === "city-us"
-			? `, ${d.stateAbbr}`
+			? `, ${d.state}`
 			: d.level === "city-international"
 			? ` (${d.country})`
 			: ` (${d.level})`;

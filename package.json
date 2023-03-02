@@ -5,6 +5,7 @@
 		"gdoc": "node tasks/fetch-google.js",
 		"style": "node tasks/style-dictionary.js",
 		"render-maps": "node tasks/render-maps.js",
+		"split": "node tasks/split.js",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
