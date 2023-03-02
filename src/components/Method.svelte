@@ -39,7 +39,9 @@
 
 	$: if (browser)
 		(async () =>
-			(placeData = await csv(`${base}/assets/places/${phonemeId}.csv`)))();
+			(placeData = await csv(
+				`${base}/assets/places/${phonemeId}.csv?${__TIMESTAMP__}`
+			)))();
 
 	// $: bySampleDist = sample.map(({ name, id, state, level, population }) => ({
 	// 	name,

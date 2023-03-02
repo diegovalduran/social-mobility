@@ -23,7 +23,9 @@ async function getLocation(test) {
 export default async function getNearestOptions(test) {
 	try {
 		const { lat, lon, state } = await getLocation(test);
-		const places = await csv(`${base}/assets/coordinates/${state}.csv`);
+		const places = await csv(
+			`${base}/assets/coordinates/${state}.csv?${__TIMESTAMP__}`
+		);
 
 		const withDist = places.map((p) => ({
 			...p,

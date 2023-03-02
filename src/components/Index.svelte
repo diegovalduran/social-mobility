@@ -28,7 +28,9 @@
 
 	$: if (browser && currentPhoneme)
 		(async () =>
-			(placeData = await csv(`${base}/assets/places/${currentPhoneme}.csv`)))();
+			(placeData = await csv(
+				`${base}/assets/places/${currentPhoneme}.csv?${__TIMESTAMP__}`
+			)))();
 </script>
 
 <h1>{copy.title}</h1>
