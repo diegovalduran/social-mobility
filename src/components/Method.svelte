@@ -1,6 +1,14 @@
 <script>
 	import { getContext } from "svelte";
-	import { color, groups, ascending, scalePow, scaleLog, csvFormat } from "d3";
+	import {
+		max,
+		color,
+		groups,
+		ascending,
+		scalePow,
+		scaleLog,
+		csvFormat
+	} from "d3";
 	import WIP from "$components/helpers/WIP.svelte";
 	import Figure from "$components/Figure.svelte";
 	import MapSvg from "$components/Figure.MapSvg.svelte";
@@ -13,7 +21,7 @@
 	import Value from "$components/Method.Value.svelte";
 	import Threshold from "$components/Method.Threshold.svelte";
 	import { counties, states } from "$data/us.js";
-	import addDataToCounties from "$data/addDataToCounties.js.js";
+	import addDataToCounties from "$data/addDataToCounties.js";
 	import colors from "$data/colors2.json";
 	// import Footer from "$components/Footer.svelte";
 
@@ -29,7 +37,7 @@
 	const statesFeatures = states.features;
 
 	const aspectRatio = "975/610";
-	let samplePlace = placeNames[1680];
+	let samplePlace = "California";
 	let topScoreFeatures;
 	let bySampleDist = [];
 	let bySampleShare = [];
@@ -37,13 +45,13 @@
 	let scaleTypePop = "scalePow";
 	let scaleTypeWiki = "scalePow";
 	let scaleTypeDist = "scaleLog";
-	let scaleExpPop = "0.5";
-	let scaleExpWiki = "0.5";
+	let scaleExpPop = "0.67";
+	let scaleExpWiki = "0.67";
 	let scaleExpDist = "1";
-	let scaleBoundsPop = [0, 1000000];
-	let scaleBoundsWiki = [0, 150000];
+	let scaleBoundsPop = [0, 490000];
+	let scaleBoundsWiki = [0, 87500];
 	let scaleBoundsDist = [80, 320];
-	let valueWeightDist = 3;
+	let valueWeightDist = 2;
 	let valueWeightPop = 1;
 	let valueWeightWiki = 1;
 	let scalePop;
@@ -103,10 +111,10 @@
 	$: getTopScoreFill = (data) => {
 		const match = data[0];
 		let c = color(match.fill);
-		if (match[valueProp] < thresholdLower * maxValue) {
+		if (match[valueProp] < thresholdLower * maxScore) {
 			c = color("#666");
 		}
-		if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
+		if (match[valueProp] < thresholdUpper * maxScore) c.opacity = 0.75;
 		else c.opacity = 1;
 		// else if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
 		return c.toString();
@@ -155,12 +163,32 @@
 		scaleWiki
 	});
 
-	// $: if (countiesWithData) {
-	// 	const x = countiesWithData.features.find(
-	// 		(d) => d.properties.name === "Berkshire"
-	// 	).properties.data;
-	// 	window.output = csvFormat(x);
-	// }
+	$: if (countiesWithData) {
+		const x = countiesWithData.features.find(
+			(d) => d.properties.name === "Berkshire"
+		).properties.data;
+		// window.output = csvFormat(x);
+		console.table(
+			x.map((d) => {
+				return {
+					label: d.label,
+					dist: d.dist,
+					population: d.population,
+					wiki: d.wiki,
+					scoreD: +d.scoreD.toFixed(2),
+					scoreP: +d.scoreP.toFixed(2),
+					scoreW: +d.scoreW.toFixed(2),
+					score: +d.score.toFixed(2),
+					share: +d.share.toFixed(2)
+				};
+			})
+		);
+	}
+
+	$: maxScore = max(
+		countiesWithData.features,
+		(d) => d.properties.data[0][valueProp]
+	);
 
 	$: topScoreFeatures = countiesWithData.features.map((d) => ({
 		...d,
@@ -169,6 +197,8 @@
 			fill: getTopScoreFill(d.properties.data)
 		}
 	}));
+
+	$: console.log({ maxScore });
 
 	// $: bySampleDist = sample.map(({ name, id, state, level, population }) => ({
 	// 	name,
