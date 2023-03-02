@@ -3,7 +3,9 @@
 	import { base } from "$app/paths";
 	import { onMount, getContext } from "svelte";
 	import { csv } from "d3";
+	import storage from "$utils/localStorage.js";
 	import getNearestOptions from "$utils/getNearestOptions.js";
+	import getLocation from "$utils/getLocation.js";
 	import Footer from "$components/Footer.svelte";
 	import classics from "$data/classics.csv";
 	import Map from "$components/Map.svelte";
@@ -22,8 +24,17 @@
 	}
 
 	onMount(async () => {
-		const test = true;
-		options = await getNearestOptions(test);
+		try {
+			// TODO remove test
+			const test = true;
+			const storageLocation = storage.get("pudding_samename");
+			const location = storageLocation || (await getLocation(test)) || {};
+			if (!storageLocation && location?.state)
+				storage.set("pudding_samename", location);
+			if (location?.state) options = await getNearestOptions(location);
+		} catch (err) {
+			console.log(err);
+		}
 	});
 
 	$: if (browser && currentPhoneme)
