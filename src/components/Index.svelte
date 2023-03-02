@@ -61,6 +61,7 @@
 <section id="interactive">
 	{#if placeData}
 		<Map {placeData} />
+		<p>{@html copy.help}</p>
 	{/if}
 </section>
 
