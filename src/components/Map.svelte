@@ -11,7 +11,8 @@
 	import addDataToCounties from "$data/addDataToCounties.js";
 	import colors from "$data/colors2.json";
 
-	const aspectRatio = "975/610";
+	const DEFAULT_FILL = "#4a4a4a";
+	const ASPECT_RATIO = "975/610";
 	const projectionObject = states;
 	const stateFeatures = states.features;
 
@@ -31,7 +32,7 @@
 
 	export let scaleBoundsPop = [0, 490000];
 	export let scaleBoundsWiki = [0, 87500];
-	export let scaleBoundsDist = [80, 320];
+	export let scaleBoundsDist = [50, 200];
 
 	export let valueWeightDist = "2";
 	export let valueWeightPop = "1";
@@ -68,6 +69,8 @@
 	// 	return c.toString();
 	// }
 
+	$: placeName = placeData[0].name;
+
 	$: places = placeData.map((d, i) => ({
 		...d,
 		population: +d.population,
@@ -101,7 +104,7 @@
 	$: getTopScoreFill = (data) => {
 		const match = data[0];
 		let c = color(match.fill);
-		if (match[valueProp] < thresholdLower * maxScore) c = color("#666");
+		if (match[valueProp] < thresholdLower * maxScore) c = color(DEFAULT_FILL);
 		else if (match[valueProp] < thresholdUpper * maxScore) c.opacity = 0.75;
 		else c.opacity = 1;
 		return c.toString();
@@ -174,27 +177,59 @@
 			fill: getTopScoreFill(d.properties.data)
 		}
 	}));
+
+	$: topPlaces = countyFeatures.map((d) => d.properties.data[0]);
+	// $: tallyUpper = groups(
+	// 	topPlaces.filter((d) => d[valueProp] >= thresholdUpper * maxScore),
+	// 	(d) => d.label
+	// ).map(([label, values]) => ({
+	// 	label,
+	// 	count: values.length
+	// }));
+	$: tallyLower = groups(
+		topPlaces.filter(
+			(d) =>
+				d[valueProp] >= thresholdLower * maxScore &&
+				d[valueProp] < thresholdUpper * maxScore
+		),
+		(d) => d.label
+	).map(([label, values]) => ({
+		label,
+		count: values.length
+	}));
+
+	$: keyFeatures = placeFeatures.map((d) => ({
+		...d,
+		properties: {
+			...d.properties,
+			tallyLower:
+				tallyLower.find((t) => t.label === d.properties.label)?.count || 0
+		}
+	}));
 </script>
 
-<Figure --aspect-ratio={aspectRatio} custom={{ projectionObject }}>
+<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
 	<MapCanvas features={countyFeatures} stroke="rgba(0, 0, 0, 0.25)" />
 	<MapSvg>
 		<!-- <MapPath features={featuresCounties} stroke="rgba(0, 0, 0, 0.25)" /> -->
 		<MapPath features={stateFeatures} stroke="rgba(0, 0, 0, 0.5)" />
-		<MapPoints
-			features={placeFeatures.filter((d) => d.properties.level === "city-us")}
-			stroke="#000"
-			strokeWidth="2"
-			radius="5"
-		/>
-		<MapLabels
-			features={placeFeatures.filter((d) => d.properties.level === "city-us")}
-			stroke="#000"
-			strokeWidth="4"
-			offsetY={-12}
-		/>
+		{#key placeName}
+			<MapPoints
+				features={placeFeatures.filter((d) => d.properties.level === "city-us")}
+				stroke="#000"
+				strokeWidth="2"
+				radius="5"
+			/>
+
+			<MapLabels
+				features={placeFeatures.filter((d) => d.properties.level === "city-us")}
+				stroke="#000"
+				strokeWidth="4"
+				offsetY={-12}
+			/>
+		{/key}
 	</MapSvg>
 	<!-- svelte-ignore a11y-structure -->
 	<!-- <figcaption slot="figcaption"></figcaption> -->
 </Figure>
-<MapKey features={placeFeatures} />
+<MapKey features={keyFeatures} />

@@ -10,9 +10,8 @@
 
 <style>
 	.wordmark {
-		max-width: 10em;
-		margin: 0 auto;
-		padding: 1em 0;
+		max-width: 12em;
+		padding: 1em;
 	}
 
 	.wordmark a {

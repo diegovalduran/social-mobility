@@ -1,6 +1,8 @@
 import haversine from "haversine-distance";
 import { sum, descending } from "d3";
 
+const MI_IN_KM = 0.621371;
+
 function calculateCountyScores({
 	scaleDist,
 	scalePop,
@@ -10,7 +12,9 @@ function calculateCountyScores({
 }) {
 	const withDist = places.map((s) => ({
 		...s,
-		dist: Math.floor(haversine(centroid, [s.longitude, s.latitude]) / 1000)
+		dist: Math.floor(
+			(haversine(centroid, [s.longitude, s.latitude]) / 1000) * MI_IN_KM
+		)
 	}));
 
 	const withScore = withDist.map((d) => ({

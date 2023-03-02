@@ -8,7 +8,11 @@
 	import Scale from "$components/Method.Scale.svelte";
 	import Value from "$components/Method.Value.svelte";
 	import Threshold from "$components/Method.Threshold.svelte";
+	import Footer from "$components/Footer.svelte";
 	import options from "$data/options.csv";
+
+	const copy = getContext("copy");
+	const data = getContext("data");
 
 	let scaleTypePop = "scalePow";
 	let scaleTypeWiki = "scalePow";
@@ -20,7 +24,7 @@
 
 	let scaleBoundsPop = [0, 490000];
 	let scaleBoundsWiki = [0, 87500];
-	let scaleBoundsDist = [80, 320];
+	let scaleBoundsDist = [50, 200];
 
 	let valueWeightDist = 2;
 	let valueWeightPop = 1;
@@ -69,11 +73,9 @@
 </script>
 
 <div id="title">
-	<h1>Data &amp; Methods</h1>
+	<h1>{@html copy.hed}</h1>
 	<p>
-		An interactive explainer for how we made <a href="https://pudding.cool"
-			>Same Name Places</a
-		>
+		{@html copy.dek}
 	</p>
 </div>
 
@@ -88,7 +90,7 @@
 			bind:valueScale={scaleTypeDist}
 			bind:valueExp={scaleExpDist}
 			bind:valueBounds={scaleBoundsDist}
-			legend="Distance Scale (km)"
+			legend="Distance Scale (mi)"
 		/>
 
 		<Scale

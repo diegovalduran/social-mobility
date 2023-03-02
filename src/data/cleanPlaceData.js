@@ -12,9 +12,9 @@ export default function cleanPlaceData({ raw, stateLookup }) {
 			state: getStateAbbr(d.state),
 			country: d.level === "city-us" ? "" : d.country,
 			level: d.level,
-			population: +d.population,
-			latitude: (+d.latitude).toFixed(2),
-			longitude: (+d.longitude).toFixed(2),
+			population: Math.round(+d.population),
+			latitude: (+d.latitude).toFixed(3),
+			longitude: (+d.longitude).toFixed(3),
 			phoneme: d.phoneme,
 			wiki: +d.wiki_length
 		}));

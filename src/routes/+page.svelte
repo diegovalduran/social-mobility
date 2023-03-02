@@ -3,7 +3,7 @@
 	import { browser } from "$app/environment";
 	import Meta from "$components/Meta.svelte";
 	import Index from "$components/Index.svelte";
-	import copy from "$data/copy.json";
+	import copy from "$data/copy-main.json";
 	import version from "$utils/version.js";
 
 	export let data;

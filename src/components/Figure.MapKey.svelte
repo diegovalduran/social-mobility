@@ -1,4 +1,5 @@
 <script>
+	import { format } from "d3";
 	export let features;
 
 	const max = 5;
@@ -13,7 +14,7 @@
 	<div class="top">
 		<ul>
 			{#each top as { properties }}
-				{@const { level, fill, label } = properties}
+				{@const { level, fill, label, tallyLower } = properties}
 				{@const background = fill}
 				<li style:color={fill} class={level}>
 					<span class="text">{label}</span>
@@ -22,6 +23,7 @@
 							<span class="fill" style:opacity style:background />
 						{/each}
 					</span>
+					<span class="tally-lower">{format(",")(tallyLower)}</span>
 				</li>
 			{/each}
 		</ul>
@@ -70,6 +72,11 @@
 		display: inline-block;
 		flex-grow: 1;
 		height: 8px;
+	}
+
+	span.tally-lower {
+		font-size: var(--32px);
+		justify-content: center;
 	}
 
 	summary {
