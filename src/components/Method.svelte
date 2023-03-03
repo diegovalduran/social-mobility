@@ -230,8 +230,4 @@
 		position: relative;
 		width: 1280px;
 	}
-
-	:global(g .hide-label) {
-		display: none;
-	}
 </style>

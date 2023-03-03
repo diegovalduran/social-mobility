@@ -9,6 +9,7 @@
 	import Footer from "$components/Footer.svelte";
 	import classics from "$data/classics.csv";
 	import Map from "$components/Map.svelte";
+	import Select from "$components/Select.svelte";
 
 	const copy = getContext("copy");
 	const data = getContext("data");
@@ -44,39 +45,48 @@
 			)))();
 </script>
 
-<h1>{copy.title}</h1>
-<p>{copy.intro}</p>
-<details>
-	<summary>{copy.summary}</summary>
-	<p>
-		{@html copy.details}
-	</p>
-</details>
+<article>
+	<h1>{copy.title}</h1>
+	<p>{copy.intro}</p>
+	<details>
+		<summary>{copy.summary}</summary>
+		<p>
+			{@html copy.details}
+		</p>
+	</details>
 
-<h3>{copy.classic}</h3>
-<ul>
-	{#each classics as d}
-		{@const { name, phone } = d}
-		<li><button on:click={() => onChangePlace(d)}>{name}</button></li>
-	{/each}
-</ul>
+	<h3>{copy.classic}</h3>
+	<ul>
+		{#each classics as d}
+			{@const { name, phone } = d}
+			<li><button on:click={() => onChangePlace(d)}>{name}</button></li>
+		{/each}
+	</ul>
 
-<h3>{copy.locate}</h3>
-<ul>
-	{#each options as d}
-		{@const { name, phone, state } = d}
-		<li><button on:click={() => onChangePlace(d)}>{name}, {state}</button></li>
-	{/each}
-</ul>
+	<h3>{copy.locate}</h3>
+	<ul>
+		{#each options as d}
+			{@const { name, phone, state } = d}
+			<li>
+				<button on:click={() => onChangePlace(d)}>{name}, {state}</button>
+			</li>
+		{/each}
+	</ul>
 
-<section id="interactive">
-	{#if placeData}
-		<Map {placeData} />
-		<p>{@html copy.help}</p>
-	{/if}
-</section>
+	<section id="interactive">
+		{#if placeData}
+			<Select on:change={({ detail }) => onChangePlace(detail)} />
+			<Map {placeData} placeName={currentName} />
+			<p>{@html copy.help}</p>
+		{/if}
+	</section>
+</article>
 
 <style>
+	article {
+		padding: 0 16px;
+	}
+
 	ul {
 		list-style: none;
 		padding: 0;

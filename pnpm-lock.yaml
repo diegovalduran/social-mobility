@@ -23,6 +23,7 @@ specifiers:
   svelte-copy: ^1.3.0
   svelte-preprocess: ^5.0.1
   svelte-range-slider-pips: ^2.1.1
+  svelte-typeahead: ^4.4.1
   topojson-client: '3'
   vite: ^4.1.1
   vite-plugin-svgstring: ^1.0.0
@@ -50,6 +51,7 @@ devDependencies:
   svelte-copy: 1.3.0
   svelte-preprocess: 5.0.1_pehl75e5jsy22vp33udjja4soi
   svelte-range-slider-pips: 2.1.1
+  svelte-typeahead: 4.4.1
   topojson-client: 3.1.0
   vite: 4.1.1
   vite-plugin-svgstring: 1.0.0
@@ -1005,6 +1007,11 @@ packages:
     resolution: {integrity: sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==}
     dev: true
 
+  /fuzzy/0.1.3:
+    resolution: {integrity: sha512-/gZffu4ykarLrCiP3Ygsa86UAo1E5vEVlvTrpkKywXSbP9Xhln3oSp9QSV57gEq3JFFpGJ4GZ+5zdEp3FcUh4w==}
+    engines: {node: '>= 0.6.0'}
+    dev: true
+
   /gauge/3.0.2:
     resolution: {integrity: sha512-+5J6MS/5XksCuXq++uFRsnUd7Ovu1XenbeuIuNRJxYWjgQbPuFhT14lAvsWfqfAmnwluf1OwMjz39HjfLPci0Q==}
     engines: {node: '>=10'}
@@ -1688,6 +1695,17 @@ packages:
 
   /svelte-range-slider-pips/2.1.1:
     resolution: {integrity: sha512-fLkhfnyEc4uMOCZCl8IPyC0e9lujrjqdSyrKw28Y8j99YUPZR+pHnSxde7PqhM0ST6eyO4ugh2nFnLZTIoG9aQ==}
+    dev: true
+
+  /svelte-search/1.1.0:
+    resolution: {integrity: sha512-e5hci9fZPMXb3fuRZvcYJGqh448M8vV3biY4lN4Nr9fqrG/HBnTjWYstKb399aUe9tsBxRbxRAWgtKicisL23g==}
+    dev: true
+
+  /svelte-typeahead/4.4.1:
+    resolution: {integrity: sha512-U8EYkCQ1HaDrQq1fnkVCEm8emZrdEfgfHhMulgOdoYnWV5PTvypiwCTNvqqxFHbz9ZGe5juAR9ok5tEcfnP9zw==}
+    dependencies:
+      fuzzy: 0.1.3
+      svelte-search: 1.1.0
     dev: true
 
   /svelte/3.55.1:

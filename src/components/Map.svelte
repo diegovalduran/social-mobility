@@ -1,12 +1,15 @@
 <script>
 	import {
+		ascending,
+		descending,
 		format,
 		max,
 		color,
 		groups,
 		scalePow,
 		scaleLog,
-		csvFormat
+		csvFormat,
+		sum
 	} from "d3";
 	import Figure from "$components/Figure.svelte";
 	import MapSvg from "$components/Figure.MapSvg.svelte";
@@ -18,8 +21,12 @@
 	import MapTable from "$components/Map.Table.svelte";
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$data/addDataToCounties.js";
-	import colors from "$data/colors2.json";
+	import colors from "$data/colors3.json";
 
+	// 3,4 (1,5)
+	// 6
+
+	const MAX_COLORS = 4;
 	const DEFAULT_FILL = "#4a4a4a";
 	const ASPECT_RATIO = "975/610";
 	const projectionObject = states;
@@ -30,6 +37,7 @@
 	let scaleDist;
 
 	export let placeData;
+	export let placeName;
 
 	export let scaleTypePop = "scalePow";
 	export let scaleTypeWiki = "scalePow";
@@ -61,8 +69,6 @@
 		return `${d.name}${post}`;
 	}
 
-	$: placeName = placeData[0].name;
-
 	$: places = placeData.map((d, i) => ({
 		...d,
 		population: +d.population,
@@ -70,8 +76,8 @@
 		latitude: +d.latitude,
 		longitude: +d.longitude,
 		label: getLabel(d),
-		className: i > colors.length - 2 ? "hide-label" : "",
-		fill: colors[i] || colors[colors.length - 1]
+		className: i > MAX_COLORS ? "hide-label" : ""
+		// fill: i < MAX_COLORS ? colors[i] : colors[MAX_COLORS]
 	}));
 
 	$: placeFeatures = places.map((d) => ({
@@ -93,13 +99,10 @@
 		(d) => d.properties.data[0][valueProp]
 	);
 
-	$: getTopScoreFill = (data) => {
-		const match = data[0];
-		let c = color(match.fill);
-		if (match[valueProp] < thresholdLower * maxValue) c = color(DEFAULT_FILL);
-		else if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
-		else c.opacity = 1;
-		return c.toString();
+	$: getTopOpacity = (d) => {
+		if (d[valueProp] < thresholdLower * maxValue) return 0;
+		else if (d[valueProp] < thresholdUpper * maxValue) return 0.75;
+		return 1;
 	};
 
 	$: {
@@ -185,15 +188,71 @@
 	// 	);
 	// }
 
+	// let c = color(match.fill);
+	// return c.toString();
+
 	$: countyFeatures = countiesWithData.features.map((d) => ({
 		...d,
 		properties: {
 			...d.properties,
-			fill: getTopScoreFill(d.properties.data)
+			topLabel: d.properties.data[0].label,
+			topOpacity: getTopOpacity(d.properties.data[0])
 		}
 	}));
 
-	$: topPlaces = countyFeatures.map((d) => d.properties.data[0]);
+	$: topPlaces = countyFeatures.map((d) => ({
+		label: d.properties.topLabel,
+		opacity: d.properties.topOpacity
+	}));
+
+	// TODO double for strong association?
+	$: tally = groups(
+		topPlaces.filter((d) => d.opacity),
+		(d) => d.label
+	).map(([label, values]) => ({
+		label,
+		// count: sum(values.map((d) => (d.opacity === 1 ? 2 : 1)))
+		count: values.length
+	}));
+
+	$: tally.sort((a, b) => descending(a.count, b.count));
+
+	$: order = new Map(tally.map((d, i) => [d.label, i]));
+
+	$: placeFeatures.sort((a, b) =>
+		ascending(order.get(a.properties.label), order.get(b.properties.label))
+	);
+
+	$: colorMap = placeFeatures.reduce((prev, d, i) => {
+		const fill = i < MAX_COLORS ? colors[i] : colors[MAX_COLORS];
+		prev[d.properties.label] = fill;
+		return prev;
+	}, {});
+
+	$: placeFeaturesRender = placeFeatures.map((d) => ({
+		...d,
+		properties: {
+			...d.properties,
+			fill: colorMap[d.properties.label]
+		}
+	}));
+
+	$: countyFeaturesRender = countyFeatures.map((d) => {
+		let fill = DEFAULT_FILL;
+		if (d.properties.topOpacity) {
+			const f = colorMap[d.properties.topLabel];
+			const c = color(f);
+			c.opacity = d.properties.topOpacity;
+			fill = c.toString();
+		}
+		return {
+			...d,
+			properties: {
+				...d.properties,
+				fill
+			}
+		};
+	});
 
 	// $: tallyUpper = groups(
 	// 	topPlaces.filter((d) => d[valueProp] >= thresholdUpper * maxValue),
@@ -203,51 +262,108 @@
 	// 	count: values.length
 	// }));
 
-	$: tallyLower = groups(
-		topPlaces.filter(
-			(d) =>
-				d[valueProp] >= thresholdLower * maxValue &&
-				d[valueProp] < thresholdUpper * maxValue
-		),
-		(d) => d.label
-	).map(([label, values]) => ({
-		label,
-		count: values.length
-	}));
+	// $: tallyLower = groups(
+	// 	topPlaces.filter(
+	// 		(d) =>
+	// 			d[valueProp] >= thresholdLower * maxValue &&
+	// 			d[valueProp] < thresholdUpper * maxValue
+	// 	),
+	// 	(d) => d.label
+	// ).map(([label, values]) => ({
+	// 	label,
+	// 	count: values.length
+	// }));
 
-	$: keyFeatures = placeFeatures.map((d) => ({
+	$: keyFeatures = placeFeaturesRender.map((d) => ({
 		...d,
 		properties: {
-			...d.properties,
-			tallyLower:
-				tallyLower.find((t) => t.label === d.properties.label)?.count || 0
+			...d.properties
 		}
 	}));
+
+	$: topPlace = placeFeaturesRender[0].properties;
+	$: topLabel = topPlace.label;
+	$: topMaybe = color(topPlace.fill).copy({ opacity: 0.75 }).toString();
+	$: topProbably = topPlace.fill;
 </script>
 
+<h2>
+	In the US, <strong style:color={topProbably}>{topLabel}</strong> is most often
+	what someone means by <strong>{placeName}.</strong>
+</h2>
+<h2>
+	In most counties, <strong>{placeName}</strong> means
+	<strong style:color={topProbably}>{topLabel}.</strong>
+	<mark style:background={topProbably}>Probably.</mark>
+	<mark style:background={topMaybe}>Maybe?</mark>
+</h2>
+
+<h2>
+	If someone in the US refers to <strong>{placeName}</strong>, they
+	<mark style="--fill: {topProbably};">probably</mark>
+	<mark style="--fill: {topMaybe};">(maybe)</mark> mean
+	<strong style:color={topProbably}>{topLabel}.</strong>
+</h2>
+
+<h2>
+	In most parts of the US, saying <strong>{placeName}</strong> usually refers to
+	<strong style:color={topProbably}>{topLabel}.</strong>
+</h2>
+
 <Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
-	<MapCanvas features={countyFeatures} stroke="rgba(0, 0, 0, 0.25)" />
+	<MapCanvas features={countyFeaturesRender} stroke="rgba(0, 0, 0, 1)" />
 	<MapSvg>
 		<!-- <MapPath features={featuresCounties} stroke="rgba(0, 0, 0, 0.25)" /> -->
-		<MapPath features={stateFeatures} stroke="rgba(0, 0, 0, 0.5)" />
+		<MapPath
+			features={stateFeatures}
+			stroke="rgba(0, 0, 0, 1)"
+			strokeWidth="1"
+		/>
 		{#key placeName}
 			<MapPoints
-				features={placeFeatures.filter((d) => d.properties.level === "city-us")}
+				features={placeFeaturesRender.filter(
+					(d) => d.properties.level === "city-us"
+				)}
 				stroke="#000"
 				strokeWidth="2"
 				radius="5"
 			/>
 
 			<MapLabels
-				features={placeFeatures.filter((d) => d.properties.level === "city-us")}
+				features={placeFeaturesRender.filter(
+					(d) => d.properties.level === "city-us"
+				)}
 				stroke="#000"
 				strokeWidth="4"
 				offsetY={-12}
 			/>
 		{/key}
+		<!-- <figcaption slot="figcaption"></figcaption> -->
 	</MapSvg>
 	<!-- svelte-ignore a11y-structure -->
-	<!-- <figcaption slot="figcaption"></figcaption> -->
 </Figure>
 <MapKey features={keyFeatures} />
 <MapTable {rows} {columns} />
+
+<style>
+	:global(g .hide-label) {
+		display: none;
+	}
+
+	mark {
+		background: none;
+	}
+
+	mark {
+		background-image: linear-gradient(
+			to bottom,
+			transparent 0%,
+			var(--fill) 0%,
+			var(--fill) 100%
+		);
+	}
+
+	h2 {
+		margin: 48px auto;
+	}
+</style>

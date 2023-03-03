@@ -61,6 +61,8 @@
 	}
 
 	text {
-		font-weight: bold;
+		font-weight: 700;
+		letter-spacing: 0.02em;
+		font-size: var(--20px);
 	}
 </style>

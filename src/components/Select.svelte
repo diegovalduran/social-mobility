@@ -1,0 +1,33 @@
+<script>
+	import Typeahead from "svelte-typeahead";
+	import { createEventDispatcher } from "svelte";
+	import options from "$data/options.csv";
+
+	const dispatch = createEventDispatcher();
+	const extract = (item) => item.name;
+
+	function onSelect(e) {
+		const { name, phoneme } = e.detail.original;
+		dispatch("change", { name, phoneme });
+	}
+</script>
+
+<Typeahead
+	label="Find a town/city"
+	data={options}
+	{extract}
+	on:select={onSelect}
+	inputAfterSelect="clear"
+	limit={10}
+/>
+
+<style>
+	:global([data-svelte-typeahead]) {
+		background: var(--color-fg);
+		color: var(--color-bg);
+	}
+
+	:global([data-svelte-typeahead] mark) {
+		padding: 0;
+	}
+</style>

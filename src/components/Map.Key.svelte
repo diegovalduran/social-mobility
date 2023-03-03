@@ -2,7 +2,7 @@
 	import { format } from "d3";
 	export let features;
 
-	const max = 5;
+	const max = 4;
 	$: top = features.slice(0, max);
 	$: bottom = features.slice(max);
 	$: others = bottom[0]?.properties;
@@ -14,7 +14,7 @@
 	<div class="top">
 		<ul>
 			{#each top as { properties }}
-				{@const { level, fill, label, tallyLower } = properties}
+				{@const { level, fill, label } = properties}
 				{@const background = fill}
 				<li style:color={fill} class={level}>
 					<span class="text">{label}</span>
@@ -23,7 +23,6 @@
 							<span class="fill" style:opacity style:background />
 						{/each}
 					</span>
-					<span class="tally-lower">{format(",")(tallyLower)}</span>
 				</li>
 			{/each}
 		</ul>
@@ -62,6 +61,9 @@
 		margin-right: 16px;
 		display: flex;
 		flex-direction: column;
+		font-size: var(--20px);
+		font-weight: 700;
+		letter-spacing: 0.02em;
 	}
 
 	span {

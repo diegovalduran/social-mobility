@@ -22,6 +22,8 @@
 	--font-form: var(--sans);
 	--color-bg: var(--color-black);
 	--color-fg: var(--color-white);
+	/* --color-bg: #FFFAF0; */
+	/* --color-fg: var(--color-black); */
 	--color-primary: var(--color-fg);
 	--color-link: var(--color-fg);
 	--color-focus: var(--color-red);
