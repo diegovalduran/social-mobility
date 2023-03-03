@@ -13,16 +13,22 @@
 <div class="key">
 	<div class="top">
 		<ul>
+			<li style:color={"#4a4a4A"}>
+				<span class="fills">
+					<span class="fill" style:background="#4a4a4a" />
+				</span>
+				<span class="text">&nbsp;</span>
+			</li>
 			{#each top as { properties }}
 				{@const { level, fill, label } = properties}
 				{@const background = fill}
 				<li style:color={fill} class={level}>
-					<span class="text">{label}</span>
 					<span class="fills">
 						{#each [1, 0.75] as opacity}
 							<span class="fill" style:opacity style:background />
 						{/each}
 					</span>
+					<span class="text">{label}</span>
 				</li>
 			{/each}
 		</ul>
@@ -68,12 +74,14 @@
 
 	span {
 		display: flex;
+		justify-content: center;
 	}
 
 	span.fill {
 		display: inline-block;
 		flex-grow: 1;
-		height: 8px;
+		height: 24px;
+		/* margin-top: 12px; */
 	}
 
 	span.tally-lower {
@@ -87,5 +95,60 @@
 
 	.bottom ul {
 		justify-content: flex-start;
+	}
+
+	.top li {
+		position: relative;
+		width: 10em;
+	}
+
+	.top li:first-of-type {
+		width: 5em;
+		/* margin-right: 16px; */
+	}
+
+	.top li:first-of-type span.fill {
+		/* height: 24px;
+		margin-top: 0; */
+	}
+
+	.top li:first-of-type:before {
+		content: "toss-up";
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		text-align: center;
+		color: var(--color-fg);
+		font-size: 16px;
+		border: 1px solid var(--color-fg);
+	}
+
+	.top li:nth-of-type(2) span.fill {
+		/* height: 24px;
+		margin-top: 0; */
+	}
+
+	.top li:nth-of-type(2):before {
+		content: "probably";
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 25%;
+		transform: translate(-50%, 0);
+		color: var(--color-bg);
+		font-size: 16px;
+	}
+
+	.top li:nth-of-type(2):after {
+		content: "maybe";
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 75%;
+		transform: translate(-50%, 0);
+		color: var(--color-bg);
+		font-size: 16px;
 	}
 </style>
