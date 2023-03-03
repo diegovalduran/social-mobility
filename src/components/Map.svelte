@@ -287,28 +287,35 @@
 	$: topProbably = topPlace.fill;
 </script>
 
-<h2>
-	In the US, <strong style:color={topProbably}>{topLabel}</strong> is most often
-	what someone means by <strong>{placeName}.</strong>
-</h2>
-<h2>
-	In most counties, <strong>{placeName}</strong> means
-	<strong style:color={topProbably}>{topLabel}.</strong>
-	<mark style:background={topProbably}>Probably.</mark>
-	<mark style:background={topMaybe}>Maybe?</mark>
-</h2>
+<div class="info">
+	<h2>
+		What <strong>{placeName}</strong> means, depending on where you are in the US.
+	</h2>
 
-<h2>
-	If someone in the US refers to <strong>{placeName}</strong>, they
-	<mark style="--fill: {topProbably};">probably</mark>
-	<mark style="--fill: {topMaybe};">(maybe)</mark> mean
-	<strong style:color={topProbably}>{topLabel}.</strong>
-</h2>
+	<h2>
+		In the US, <strong style:color={topProbably}>{topLabel}</strong> is most
+		often what someone means by <strong>{placeName}.</strong>
+	</h2>
+	<h2>
+		In most counties, <strong>{placeName}</strong> means
+		<strong style:color={topProbably}>{topLabel}.</strong>
+		<mark style:background={topProbably}>Probably.</mark>
+		<mark style:background={topMaybe}>Maybe?</mark>
+	</h2>
 
-<h2>
-	In most parts of the US, saying <strong>{placeName}</strong> usually refers to
-	<strong style:color={topProbably}>{topLabel}.</strong>
-</h2>
+	<h2>
+		If someone in the US refers to <strong>{placeName}</strong>, they
+		<mark style="--fill: {topProbably};">probably</mark>
+		<mark style="--fill: {topMaybe};">(maybe)</mark> mean
+		<strong style:color={topProbably}>{topLabel}.</strong>
+	</h2>
+
+	<h2>
+		In most parts of the US, saying <strong>{placeName}</strong> usually refers
+		to
+		<strong style:color={topProbably}>{topLabel}.</strong>
+	</h2>
+</div>
 
 <Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
 	<MapCanvas features={countyFeaturesRender} stroke="rgba(0, 0, 0, 1)" />
@@ -361,6 +368,11 @@
 			var(--fill) 0%,
 			var(--fill) 100%
 		);
+	}
+
+	.info {
+		max-width: 40em;
+		margin: 0 auto;
 	}
 
 	h2 {
