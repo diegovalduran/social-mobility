@@ -3,6 +3,9 @@
 	export let features;
 
 	export let max;
+	export let colorToss;
+	export let colorTossText;
+
 	$: top = features.slice(0, max);
 	$: bottom = features.slice(max);
 	$: others = bottom[0]?.properties;
@@ -13,9 +16,9 @@
 <div class="key">
 	<div class="top">
 		<ul>
-			<li style:color={"#4a4a4A"}>
+			<li style:color={colorTossText}>
 				<span class="fills">
-					<span class="fill" style:background="#4a4a4a" />
+					<span class="fill" style:background={colorToss} />
 				</span>
 				<span class="text">&nbsp;</span>
 			</li>
@@ -31,6 +34,17 @@
 					<span class="text">{label}</span>
 				</li>
 			{/each}
+			<!-- others -->
+			{#if others}
+				<li style:color={others.fills[0]}>
+					<span class="fills">
+						{#each others.fills.slice(0, -1) as background}
+							<span class="fill" style:background />
+						{/each}
+					</span>
+					<span class="text">{summary}</span>
+				</li>
+			{/if}
 		</ul>
 	</div>
 
@@ -125,9 +139,8 @@
 		left: 0;
 		width: 100%;
 		text-align: center;
-		color: var(--color-fg);
 		font-size: 16px;
-		border: 1px solid var(--color-fg);
+		border: 1px solid currentColor;
 	}
 
 	.top li:nth-of-type(2) span.fill {

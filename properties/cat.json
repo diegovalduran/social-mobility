@@ -14,16 +14,17 @@
 		"c0": { "a": { "value": "#f80700"}, "b": {"value": "#ff5651"}, "text": {"value": "#e80700" } },
 		"c1": { "a": { "value": "#408689" }, "b": { "value": "#4b9ea2"}, "text": {"value": "#3c7d7f" } },
 		"c2": { "a": { "value": "#b648e0" }, "b": { "value": "#c56de6"}, "text": {"value": "#b039dd" } },
-		"other": { "a": {"value": "#847a6b"}, "b": {"value": "#999081" }, "text": {"value": "#7b7264"}  },
-		"toss": { "a": {"value": "#b9b3a9"}, "text": {"value": "#5f3f00"} }
+		"other": { "a": {"value": "#8C7A54"}, "b": {"value": "#9F8F60" }, "text": {"value": "#83724E"}  },
+		"toss": { "a": {"value": "#CECBC5"}, "text": {"value": "#58554B"} }
 	},
 	"cat3": {
-		"bg": { "value": "#F3F6FB"},
-		"fg": { "value": "#1b3052"},
-		"c0": { "a": { "value": "#696fd5"}, "b": {"value": "#8187dc"}, "text": {"value": "#5e65d2" } },
-		"c1": { "a": { "value": "#0d8681" }, "b": { "value": "#109f99"}, "text": {"value": "#0c7d78" } },
-		"c2": { "a": { "value": "#ba6207" }, "b": { "value": "#d97208"}, "text": {"value": "#ad5b07" } },
-		"c3": { "a": { "value": "#de3079" }, "b": { "value": "#e55f97"}, "text": {"value": "#d4226d" } },
-		"other": { "a": {"value": "#797979"}, "b": {"value": "#8e8e8e"}, "text": {"value": "#717171" } } 
+		"bg": { "value": "#071C3E"},
+		"fg": { "value": "#F3F6FB"},
+		"c0": { "a": { "value": "#9AA0F5"}, "b": {"value": "#5E64B9"}, "text": {"value": "#8187DC" } },
+		"c1": { "a": { "value": "#0d8681" }, "b": { "value": "#007771"}, "text": {"value": "#06958F" } },
+		"c2": { "a": { "value": "#ba6207" }, "b": { "value": "#B14A00"}, "text": {"value": "#CF6800" } },
+		"c3": { "a": { "value": "#de3079" }, "b": { "value": "#BD376F"}, "text": {"value": "#DB558D" } },
+		"other": { "a": {"value": "#797979"}, "b": {"value": "#6B6B6B"}, "text": {"value": "#848484" } },
+		"toss": { "a": {"value": "#2A3F61"}, "text": {"value": "#98ADCF"} }
 	}
 }

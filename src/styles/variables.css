@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 05 Mar 2023 00:58:26 GMT
+ * Generated on Sun, 05 Mar 2023 14:22:05 GMT
  */
 
 :root {
@@ -22,28 +22,30 @@
   --cat2-c2-a: #b648e0;
   --cat2-c2-b: #c56de6;
   --cat2-c2-text: #b039dd;
-  --cat2-other-a: #847a6b;
-  --cat2-other-b: #999081;
-  --cat2-other-text: #7b7264;
-  --cat2-toss-a: #b9b3a9;
-  --cat2-toss-text: #5f3f00;
-  --cat3-bg: #F3F6FB;
-  --cat3-fg: #1b3052;
-  --cat3-c0-a: #696fd5;
-  --cat3-c0-b: #8187dc;
-  --cat3-c0-text: #5e65d2;
+  --cat2-other-a: #8C7A54;
+  --cat2-other-b: #9F8F60;
+  --cat2-other-text: #83724E;
+  --cat2-toss-a: #CECBC5;
+  --cat2-toss-text: #58554B;
+  --cat3-bg: #071C3E;
+  --cat3-fg: #F3F6FB;
+  --cat3-c0-a: #9AA0F5;
+  --cat3-c0-b: #5E64B9;
+  --cat3-c0-text: #8187DC;
   --cat3-c1-a: #0d8681;
-  --cat3-c1-b: #109f99;
-  --cat3-c1-text: #0c7d78;
+  --cat3-c1-b: #007771;
+  --cat3-c1-text: #06958F;
   --cat3-c2-a: #ba6207;
-  --cat3-c2-b: #d97208;
-  --cat3-c2-text: #ad5b07;
+  --cat3-c2-b: #B14A00;
+  --cat3-c2-text: #CF6800;
   --cat3-c3-a: #de3079;
-  --cat3-c3-b: #e55f97;
-  --cat3-c3-text: #d4226d;
+  --cat3-c3-b: #BD376F;
+  --cat3-c3-text: #DB558D;
   --cat3-other-a: #797979;
-  --cat3-other-b: #8e8e8e;
-  --cat3-other-text: #717171;
+  --cat3-other-b: #6B6B6B;
+  --cat3-other-text: #848484;
+  --cat3-toss-a: #2A3F61;
+  --cat3-toss-text: #98ADCF;
   --color-black: #000000;
   --color-white: #ffffff;
   --color-gray-50: #f7f7f7;

@@ -24,16 +24,14 @@
 
 	const CAT = "cat2";
 
-	const COLORS = [
+	const COLORS_RAW = [
 		[variables[CAT].c0.b, variables[CAT].c0.text, variables[CAT].c0.text],
 		[variables[CAT].c1.b, variables[CAT].c1.text, variables[CAT].c1.text],
 		[variables[CAT].c2.b, variables[CAT].c2.text, variables[CAT].c2.text]
 		// [variables[CAT].c3.b, variables[CAT].c3.text, variables[CAT].c3.text]
 	];
 
-	// console.log(COLORS.map((d) => d[1])).join(", ");
-
-	const MAX_COLORS = COLORS.length;
+	const MAX_COLORS = COLORS_RAW.length;
 
 	const COLOR_OTHER = [
 		variables[CAT].other.b,
@@ -51,6 +49,7 @@
 	const projectionObject = states;
 	const stateFeatures = states.features;
 
+	let colors = [];
 	let scalePop;
 	let scaleWiki;
 	let scaleDist;
@@ -88,6 +87,12 @@
 		return `${d.name}${post}`;
 	}
 
+	$: {
+		// shuffle around colors
+		const i = placeData[0].name.length % MAX_COLORS;
+		colors = COLORS_RAW.slice(i).concat(COLORS_RAW.slice(0, i));
+	}
+
 	$: places = placeData.map((d, i) => ({
 		...d,
 		population: +d.population,
@@ -96,7 +101,7 @@
 		longitude: +d.longitude,
 		label: getLabel(d),
 		className: i > MAX_COLORS ? "hide-label" : ""
-		// fill: i < MAX_COLORS ? COLORS[i] : COLORS[MAX_COLORS]
+		// fill: i < MAX_COLORS ? colors[i] : colors[MAX_COLORS]
 	}));
 
 	$: placeFeatures = places.map((d) => ({
@@ -217,7 +222,7 @@
 	);
 
 	$: colorMap = placeFeatures.reduce((prev, d, i) => {
-		const fill = i < MAX_COLORS ? COLORS[i] : COLOR_OTHER;
+		const fill = i < MAX_COLORS ? colors[i] : COLOR_OTHER;
 		prev[d.properties.label] = fill;
 		return prev;
 	}, {});
@@ -343,7 +348,12 @@
 	</MapSvg>
 	<!-- svelte-ignore a11y-structure -->
 </Figure>
-<MapKey max={MAX_COLORS} features={keyFeatures} />
+<MapKey
+	max={MAX_COLORS}
+	features={keyFeatures}
+	colorToss={COLOR_TOSS}
+	colorTossText={COLOR_TOSS_TEXT}
+/>
 <MapTable {rows} {columns} />
 
 <style>
