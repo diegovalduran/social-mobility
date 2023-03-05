@@ -1,16 +1,49 @@
 /**
  * Do not edit directly
- * Generated on Tue, 31 May 2022 13:42:06 GMT
+ * Generated on Sun, 05 Mar 2023 00:58:26 GMT
  */
 
 :root {
-  --category-blue: #4477AA;
-  --category-red: #EE6677;
-  --category-green: #228833;
-  --category-yellow: #CCBB44;
-  --category-cyan: #66CCEE;
-  --category-purple: #AA3377;
-  --category-gray: #BBBBBB;
+  --cat1-bg: #F3F6FB;
+  --cat1-fg: #1a1a1a;
+  --cat1-c0: #4047CA;
+  --cat1-c1: #12B5AE;
+  --cat1-c2: #F68511;
+  --cat1-c3: #DF3D82;
+  --cat1-default: #8e8e8e;
+  --cat2-bg: #fffaf0;
+  --cat2-fg: #433f37;
+  --cat2-c0-a: #f80700;
+  --cat2-c0-b: #ff5651;
+  --cat2-c0-text: #e80700;
+  --cat2-c1-a: #408689;
+  --cat2-c1-b: #4b9ea2;
+  --cat2-c1-text: #3c7d7f;
+  --cat2-c2-a: #b648e0;
+  --cat2-c2-b: #c56de6;
+  --cat2-c2-text: #b039dd;
+  --cat2-other-a: #847a6b;
+  --cat2-other-b: #999081;
+  --cat2-other-text: #7b7264;
+  --cat2-toss-a: #b9b3a9;
+  --cat2-toss-text: #5f3f00;
+  --cat3-bg: #F3F6FB;
+  --cat3-fg: #1b3052;
+  --cat3-c0-a: #696fd5;
+  --cat3-c0-b: #8187dc;
+  --cat3-c0-text: #5e65d2;
+  --cat3-c1-a: #0d8681;
+  --cat3-c1-b: #109f99;
+  --cat3-c1-text: #0c7d78;
+  --cat3-c2-a: #ba6207;
+  --cat3-c2-b: #d97208;
+  --cat3-c2-text: #ad5b07;
+  --cat3-c3-a: #de3079;
+  --cat3-c3-b: #e55f97;
+  --cat3-c3-text: #d4226d;
+  --cat3-other-a: #797979;
+  --cat3-other-b: #8e8e8e;
+  --cat3-other-text: #717171;
   --color-black: #000000;
   --color-white: #ffffff;
   --color-gray-50: #f7f7f7;

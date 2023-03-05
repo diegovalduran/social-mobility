@@ -4,7 +4,6 @@
 		descending,
 		format,
 		max,
-		color,
 		groups,
 		scalePow,
 		scaleLog,
@@ -21,13 +20,33 @@
 	import MapTable from "$components/Map.Table.svelte";
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$data/addDataToCounties.js";
-	import colors from "$data/colors3.json";
+	import variables from "$data/variables.json";
 
-	// 3,4 (1,5)
-	// 6
+	const CAT = "cat2";
 
-	const MAX_COLORS = 4;
-	const DEFAULT_FILL = "#4a4a4a";
+	const COLORS = [
+		[variables[CAT].c0.b, variables[CAT].c0.text, variables[CAT].c0.text],
+		[variables[CAT].c1.b, variables[CAT].c1.text, variables[CAT].c1.text],
+		[variables[CAT].c2.b, variables[CAT].c2.text, variables[CAT].c2.text]
+		// [variables[CAT].c3.b, variables[CAT].c3.text, variables[CAT].c3.text]
+	];
+
+	// console.log(COLORS.map((d) => d[1])).join(", ");
+
+	const MAX_COLORS = COLORS.length;
+
+	const COLOR_OTHER = [
+		variables[CAT].other.b,
+		variables[CAT].other.a,
+		variables[CAT].other.text
+	];
+
+	const COLOR_TOSS = variables[CAT].toss.a;
+	const COLOR_TOSS_TEXT = variables[CAT].toss.text;
+
+	const COLOR_BG = variables[CAT].bg;
+	const COLOR_FG = variables[CAT].bg;
+
 	const ASPECT_RATIO = "975/610";
 	const projectionObject = states;
 	const stateFeatures = states.features;
@@ -77,7 +96,7 @@
 		longitude: +d.longitude,
 		label: getLabel(d),
 		className: i > MAX_COLORS ? "hide-label" : ""
-		// fill: i < MAX_COLORS ? colors[i] : colors[MAX_COLORS]
+		// fill: i < MAX_COLORS ? COLORS[i] : COLORS[MAX_COLORS]
 	}));
 
 	$: placeFeatures = places.map((d) => ({
@@ -99,10 +118,10 @@
 		(d) => d.properties.data[0][valueProp]
 	);
 
-	$: getTopOpacity = (d) => {
+	$: getTier = (d) => {
 		if (d[valueProp] < thresholdLower * maxValue) return 0;
-		else if (d[valueProp] < thresholdUpper * maxValue) return 0.75;
-		return 1;
+		else if (d[valueProp] < thresholdUpper * maxValue) return 1;
+		return 2;
 	};
 
 	$: {
@@ -166,52 +185,26 @@
 		{ key: "valueB", title: "2nd score" }
 	];
 
-	// $: if (countiesWithData) {
-	// 	const x = countiesWithData.features.find(
-	// 		(d) => d.properties.name === "Berkshire"
-	// 	).properties.data;
-	// 	// window.output = csvFormat(x);
-	// 	console.table(
-	// 		x.map((d) => {
-	// 			return {
-	// 				label: d.label,
-	// 				dist: d.dist,
-	// 				population: d.population,
-	// 				wiki: d.wiki,
-	// 				scoreD: +d.scoreD.toFixed(2),
-	// 				scoreP: +d.scoreP.toFixed(2),
-	// 				scoreW: +d.scoreW.toFixed(2),
-	// 				score: +d.score.toFixed(2),
-	// 				share: +d.share.toFixed(2)
-	// 			};
-	// 		})
-	// 	);
-	// }
-
-	// let c = color(match.fill);
-	// return c.toString();
-
 	$: countyFeatures = countiesWithData.features.map((d) => ({
 		...d,
 		properties: {
 			...d.properties,
 			topLabel: d.properties.data[0].label,
-			topOpacity: getTopOpacity(d.properties.data[0])
+			topTier: getTier(d.properties.data[0])
 		}
 	}));
 
 	$: topPlaces = countyFeatures.map((d) => ({
 		label: d.properties.topLabel,
-		opacity: d.properties.topOpacity
+		tier: d.properties.topTier
 	}));
 
 	// TODO double for strong association?
 	$: tally = groups(
-		topPlaces.filter((d) => d.opacity),
+		topPlaces.filter((d) => d.tier),
 		(d) => d.label
 	).map(([label, values]) => ({
 		label,
-		// count: sum(values.map((d) => (d.opacity === 1 ? 2 : 1)))
 		count: values.length
 	}));
 
@@ -224,7 +217,7 @@
 	);
 
 	$: colorMap = placeFeatures.reduce((prev, d, i) => {
-		const fill = i < MAX_COLORS ? colors[i] : colors[MAX_COLORS];
+		const fill = i < MAX_COLORS ? COLORS[i] : COLOR_OTHER;
 		prev[d.properties.label] = fill;
 		return prev;
 	}, {});
@@ -233,18 +226,16 @@
 		...d,
 		properties: {
 			...d.properties,
-			fill: colorMap[d.properties.label]
+			fills: colorMap[d.properties.label],
+			fill: colorMap[d.properties.label].slice(-1)
 		}
 	}));
 
 	$: countyFeaturesRender = countyFeatures.map((d) => {
-		let fill = DEFAULT_FILL;
-		if (d.properties.topOpacity) {
-			const f = colorMap[d.properties.topLabel];
-			const c = color(f);
-			c.opacity = d.properties.topOpacity;
-			fill = c.toString();
-		}
+		const fill = d.properties.topTier
+			? colorMap[d.properties.topLabel][d.properties.topTier - 1]
+			: COLOR_TOSS;
+
 		return {
 			...d,
 			properties: {
@@ -281,10 +272,13 @@
 		}
 	}));
 
+	$: console.log(keyFeatures);
+
 	$: topPlace = placeFeaturesRender[0].properties;
 	$: topLabel = topPlace.label;
-	$: topMaybe = color(topPlace.fill).copy({ opacity: 0.75 }).toString();
-	$: topProbably = topPlace.fill;
+	$: topColorMaybe = topPlace.fills[0];
+	$: topColorProbably = topPlace.fills[1];
+	$: topColorText = topPlace.fills[2];
 </script>
 
 <div class="info">
@@ -293,27 +287,27 @@
 	</h2>
 
 	<h2>
-		In the US, <strong style:color={topProbably}>{topLabel}</strong> is most
+		In the US, <strong style:color={topColorText}>{topLabel}</strong> is most
 		often what someone means by <strong>{placeName}.</strong>
 	</h2>
 	<h2>
 		In most counties, <strong>{placeName}</strong> means
-		<strong style:color={topProbably}>{topLabel}.</strong>
-		<mark style:background={topProbably}>Probably.</mark>
-		<mark style:background={topMaybe}>Maybe?</mark>
+		<strong style:color={topColorText}>{topLabel}.</strong>
+		<mark style:background={topColorProbably}>Probably.</mark>
+		<mark style:background={topColorMaybe}>Maybe?</mark>
 	</h2>
 
 	<h2>
 		If someone in the US refers to <strong>{placeName}</strong>, they
-		<mark style="--fill: {topProbably};">probably</mark>
-		<mark style="--fill: {topMaybe};">(maybe)</mark> mean
-		<strong style:color={topProbably}>{topLabel}.</strong>
+		<mark style="--fill: {topColorProbably};">probably</mark>
+		<mark style="--fill: {topColorMaybe};">(maybe)</mark> mean
+		<strong style:color={topColorText}>{topLabel}.</strong>
 	</h2>
 
 	<h2>
 		In most parts of the US, saying <strong>{placeName}</strong> usually refers
 		to
-		<strong style:color={topProbably}>{topLabel}.</strong>
+		<strong style:color={topColorText}>{topLabel}.</strong>
 	</h2>
 </div>
 
@@ -340,7 +334,7 @@
 				features={placeFeaturesRender.filter(
 					(d) => d.properties.level === "city-us"
 				)}
-				stroke="#000"
+				stroke={COLOR_BG}
 				strokeWidth="4"
 				offsetY={-12}
 			/>
@@ -349,7 +343,7 @@
 	</MapSvg>
 	<!-- svelte-ignore a11y-structure -->
 </Figure>
-<MapKey features={keyFeatures} />
+<MapKey max={MAX_COLORS} features={keyFeatures} />
 <MapTable {rows} {columns} />
 
 <style>

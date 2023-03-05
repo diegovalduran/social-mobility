@@ -2,7 +2,7 @@
 	import { format } from "d3";
 	export let features;
 
-	const max = 4;
+	export let max;
 	$: top = features.slice(0, max);
 	$: bottom = features.slice(max);
 	$: others = bottom[0]?.properties;
@@ -20,12 +20,12 @@
 				<span class="text">&nbsp;</span>
 			</li>
 			{#each top as { properties }}
-				{@const { level, fill, label } = properties}
-				{@const background = fill}
-				<li style:color={fill} class={level}>
+				{@const { level, fills, label } = properties}
+				{@const color = fills[0]}
+				<li style:color class={level}>
 					<span class="fills">
-						{#each [1, 0.75] as opacity}
-							<span class="fill" style:opacity style:background />
+						{#each fills.slice(0, -1) as background}
+							<span class="fill" style:background />
 						{/each}
 					</span>
 					<span class="text">{label}</span>
@@ -75,6 +75,11 @@
 	span {
 		display: flex;
 		justify-content: center;
+	}
+
+	span.fills {
+		display: flex;
+		flex-direction: row-reverse;
 	}
 
 	span.fill {
