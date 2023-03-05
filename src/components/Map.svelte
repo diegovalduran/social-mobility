@@ -43,7 +43,7 @@
 	const COLOR_TOSS_TEXT = variables[CAT].toss.text;
 
 	const COLOR_BG = variables[CAT].bg;
-	const COLOR_FG = variables[CAT].bg;
+	const COLOR_FG = variables[CAT].fg;
 
 	const ASPECT_RATIO = "975/610";
 	const projectionObject = states;
@@ -54,6 +54,7 @@
 	let scaleWiki;
 	let scaleDist;
 
+	export let location;
 	export let placeData;
 	export let placeName;
 
@@ -87,6 +88,8 @@
 		return `${d.name}${post}`;
 	}
 
+	$: console.log(location);
+
 	$: {
 		// shuffle around colors
 		const i = placeData[0].name.length % MAX_COLORS;
@@ -112,6 +115,21 @@
 		},
 		properties: d
 	}));
+
+	$: userFeatures = location
+		? [
+				{
+					type: "Feature",
+					geometry: {
+						type: "Point",
+						coordinates: [location.lon, location.lat]
+					},
+					properties: { className: "user-location", label: "Your Location" }
+				}
+		  ]
+		: undefined;
+
+	$: console.log(userFeatures);
 
 	// $: maxValue =
 	// 	valueProp === "share"
@@ -330,15 +348,21 @@
 				features={placeFeaturesRender.filter(
 					(d) => d.properties.level === "city-us"
 				)}
-				stroke="#000"
+				stroke={COLOR_FG}
 				strokeWidth="2"
-				radius="5"
 			/>
+			<MapPoints features={userFeatures} stroke={COLOR_FG} strokeWidth="2" />
 
 			<MapLabels
 				features={placeFeaturesRender.filter(
 					(d) => d.properties.level === "city-us"
 				)}
+				stroke={COLOR_BG}
+				strokeWidth="4"
+				offsetY={-12}
+			/>
+			<MapLabels
+				features={userFeatures}
 				stroke={COLOR_BG}
 				strokeWidth="4"
 				offsetY={-12}
@@ -375,11 +399,13 @@
 	}
 
 	.info {
-		max-width: 40em;
+		/* max-width: 40em; */
 		margin: 0 auto;
 	}
 
 	h2 {
-		margin: 48px auto;
+		margin-top: 48px;
+		margin-bottom: 0;
+		text-align: center;
 	}
 </style>

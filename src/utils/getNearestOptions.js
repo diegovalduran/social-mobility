@@ -1,7 +1,6 @@
 import { base } from "$app/paths";
 import { ascending, csv } from "d3";
 import haversine from "haversine-distance";
-import getLocation from "$utils/getLocation.js";
 
 export default async function getNearestOptions({ lat, lon, state }) {
 	try {

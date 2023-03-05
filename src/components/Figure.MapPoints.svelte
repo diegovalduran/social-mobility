@@ -1,21 +1,21 @@
 <script>
 	import { getContext } from "svelte";
 
-	export let features;
-	export let fill;
-	export let stroke;
+	export let features = [];
+	export let fill = undefined;
+	export let stroke = undefined;
 	export let strokeWidth = 0.5;
-	export let radius = 5;
 
 	const { width, height, custom } = getContext("Figure");
 </script>
 
 <g class="g-map-points">
 	{#each features as feature}
+		{@const className = feature.properties.className}
 		<path
+			class={className}
 			style:stroke
 			style:stroke-width="{strokeWidth}px"
-			class="place-path"
 			fill={feature.properties.fill || fill}
 			d={$custom.pathFn(feature)}
 		/>

@@ -73,17 +73,17 @@
 		list-style-type: none;
 		margin: 0;
 		padding: 0;
-		justify-content: center;
 	}
 
 	li {
 		font-weight: bold;
 		margin-right: 16px;
+		margin-bottom: 8px;
 		display: flex;
 		flex-direction: column;
-		font-size: var(--20px);
 		font-weight: 700;
 		letter-spacing: 0.02em;
+		width: calc(20% - 16px);
 	}
 
 	span {
@@ -100,12 +100,6 @@
 		display: inline-block;
 		flex-grow: 1;
 		height: 24px;
-		/* margin-top: 12px; */
-	}
-
-	span.tally-lower {
-		font-size: var(--32px);
-		justify-content: center;
 	}
 
 	summary {
@@ -118,17 +112,12 @@
 
 	.top li {
 		position: relative;
-		width: 10em;
+		/* width: 10em; */
 	}
 
 	.top li:first-of-type {
-		width: 5em;
+		/* width: 5em; */
 		/* margin-right: 16px; */
-	}
-
-	.top li:first-of-type span.fill {
-		/* height: 24px;
-		margin-top: 0; */
 	}
 
 	.top li:first-of-type:before {
@@ -139,13 +128,8 @@
 		left: 0;
 		width: 100%;
 		text-align: center;
-		font-size: 16px;
+		font-size: 0.75em;
 		border: 1px solid currentColor;
-	}
-
-	.top li:nth-of-type(2) span.fill {
-		/* height: 24px;
-		margin-top: 0; */
 	}
 
 	.top li:nth-of-type(2):before {
@@ -156,7 +140,7 @@
 		left: 25%;
 		transform: translate(-50%, 0);
 		color: var(--color-bg);
-		font-size: 16px;
+		font-size: 0.75em;
 	}
 
 	.top li:nth-of-type(2):after {
@@ -167,6 +151,12 @@
 		left: 75%;
 		transform: translate(-50%, 0);
 		color: var(--color-bg);
-		font-size: 16px;
+		font-size: 0.75em;
+	}
+
+	@media only screen and (min-width: 960px) {
+		.key {
+			font-size: var(--20px);
+		}
 	}
 </style>

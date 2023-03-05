@@ -17,6 +17,7 @@
 	let currentPhoneme;
 	let currentName;
 	let placeData;
+	let location;
 	let options = [];
 
 	function onChangePlace({ name, phoneme }) {
@@ -29,10 +30,15 @@
 			// TODO remove test
 			const test = true;
 			const storageLocation = storage.get("pudding_samename");
-			const location = storageLocation || (await getLocation(test)) || {};
+			location = storageLocation || (await getLocation(test)) || {};
 			if (!storageLocation && location?.state)
 				storage.set("pudding_samename", location);
-			if (location?.state) options = await getNearestOptions(location);
+			if (location?.state) {
+				// location.county = getNearestCounty(location);
+				options = await getNearestOptions(location);
+			}
+			location.lat = +location?.lat;
+			location.lon = +location?.lon;
 		} catch (err) {
 			console.log(err);
 		}
@@ -76,7 +82,7 @@
 	<section id="interactive">
 		{#if placeData}
 			<Select on:change={({ detail }) => onChangePlace(detail)} />
-			<Map {placeData} placeName={currentName} />
+			<Map {placeData} placeName={currentName} {location} />
 			<p>{@html copy.help}</p>
 		{/if}
 	</section>
