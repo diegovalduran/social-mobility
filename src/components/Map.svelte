@@ -88,8 +88,6 @@
 		return `${d.name}${post}`;
 	}
 
-	$: console.log(location);
-
 	$: {
 		// shuffle around colors
 		const i = placeData[0].name.length % MAX_COLORS;
@@ -98,12 +96,12 @@
 
 	$: places = placeData.map((d, i) => ({
 		...d,
+		i,
 		population: +d.population,
 		wiki: +d.wiki,
 		latitude: +d.latitude,
 		longitude: +d.longitude,
-		label: getLabel(d),
-		className: i > MAX_COLORS ? "hide-label" : ""
+		label: getLabel(d)
 		// fill: i < MAX_COLORS ? colors[i] : colors[MAX_COLORS]
 	}));
 
@@ -128,13 +126,6 @@
 				}
 		  ]
 		: undefined;
-
-	$: console.log(userFeatures);
-
-	// $: maxValue =
-	// 	valueProp === "share"
-	// 		? 1
-	// 		: +valueWeightDist + +valueWeightPop + +valueWeightWiki;
 
 	$: maxValue = max(
 		countiesWithData.features,
@@ -223,36 +214,55 @@
 	}));
 
 	// TODO double for strong association?
-	$: tally = groups(
-		topPlaces.filter((d) => d.tier),
-		(d) => d.label
-	).map(([label, values]) => ({
+	$: tally = groups(topPlaces, (d) => d.label).map(([label, values]) => ({
 		label,
-		count: values.length
+		count: values.filter((v) => v.tier).length
 	}));
 
-	$: tally.sort((a, b) => descending(a.count, b.count));
+	$: {
+		tally.sort((a, b) => descending(a.count, b.count));
+		tally = [...tally];
+	}
 
 	$: order = new Map(tally.map((d, i) => [d.label, i]));
 
-	$: placeFeatures.sort((a, b) =>
-		ascending(order.get(a.properties.label), order.get(b.properties.label))
-	);
+	$: placeFeaturesWithOrder = placeFeatures.map((d) => {
+		const o1 = order.get(d.properties.label);
+		const o2 = o1 === undefined ? placeFeatures.length : o1;
+		const className = o1 > MAX_COLORS - 1 ? "other" : "";
+		return {
+			...d,
+			properties: {
+				...d.properties,
+				className,
+				order: o2
+			}
+		};
+	});
 
-	$: colorMap = placeFeatures.reduce((prev, d, i) => {
+	$: {
+		placeFeaturesWithOrder.sort((a, b) =>
+			ascending(a.properties.order, b.properties.order)
+		);
+		placeFeaturesWithOrder = [...placeFeaturesWithOrder];
+	}
+
+	$: colorMap = placeFeaturesWithOrder.reduce((prev, d, i) => {
 		const fill = i < MAX_COLORS ? colors[i] : COLOR_OTHER;
 		prev[d.properties.label] = fill;
 		return prev;
 	}, {});
 
-	$: placeFeaturesRender = placeFeatures.map((d) => ({
+	$: placeFeaturesRender = placeFeaturesWithOrder.map((d) => ({
 		...d,
 		properties: {
 			...d.properties,
 			fills: colorMap[d.properties.label],
-			fill: colorMap[d.properties.label].slice(-1)
+			fill: colorMap[d.properties.label].slice(-1)[0]
 		}
 	}));
+
+	$: console.log(placeFeaturesRender);
 
 	$: countyFeaturesRender = countyFeatures.map((d) => {
 		const fill = d.properties.topTier
@@ -294,8 +304,6 @@
 			...d.properties
 		}
 	}));
-
-	$: console.log(keyFeatures);
 
 	$: topPlace = placeFeaturesRender[0].properties;
 	$: topLabel = topPlace.label;
@@ -351,7 +359,7 @@
 				stroke={COLOR_FG}
 				strokeWidth="2"
 			/>
-			<MapPoints features={userFeatures} stroke={COLOR_FG} strokeWidth="2" />
+			<!-- <MapPoints features={userFeatures} stroke={COLOR_FG} strokeWidth="2" /> -->
 
 			<MapLabels
 				features={placeFeaturesRender.filter(
@@ -359,14 +367,14 @@
 				)}
 				stroke={COLOR_BG}
 				strokeWidth="4"
-				offsetY={-12}
+				offsetY={0}
 			/>
-			<MapLabels
+			<!-- <MapLabels
 				features={userFeatures}
 				stroke={COLOR_BG}
 				strokeWidth="4"
-				offsetY={-12}
-			/>
+				offsetY={0}
+			/> -->
 		{/key}
 		<!-- <figcaption slot="figcaption"></figcaption> -->
 	</MapSvg>
@@ -381,7 +389,7 @@
 <MapTable {rows} {columns} />
 
 <style>
-	:global(g .hide-label) {
+	:global(g .other text) {
 		display: none;
 	}
 

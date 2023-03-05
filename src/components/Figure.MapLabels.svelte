@@ -14,7 +14,7 @@
 
 <g
 	class="g-map-labels"
-	use:checkOverlap={{ query: "text.stroke", reverse: true }}
+	use:checkOverlap={{ query: "text.stroke", reverse: true, flip: true }}
 >
 	{#each features as feature}
 		{@const coords = $custom.projectionFn(feature.geometry.coordinates)}
@@ -34,7 +34,7 @@
 							y={offsetY}
 							class:stroke={isStroke}
 							text-anchor="middle"
-							aligment-baseline="middle"
+							alignment-baseline="baseline"
 							style:stroke={isStroke ? stroke : "none"}
 							style:stroke-width="{strokeWidth}px"
 							style:fill={isStroke ? "none" : feature.properties.fill || fill}
@@ -52,7 +52,7 @@
 		pointer-events: none;
 	}
 
-	:global(.is-overlap) {
+	:global(.is-overlap, .is-overlap + text) {
 		display: none;
 	}
 
@@ -63,6 +63,12 @@
 	text {
 		font-weight: 700;
 		letter-spacing: 0.02em;
-		font-size: var(--20px);
+		transform: translate(0, -12px);
+	}
+
+	@media only screen and (min-width: 960px) {
+		text {
+			font-size: var(--20px);
+		}
 	}
 </style>
