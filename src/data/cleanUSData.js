@@ -17,6 +17,7 @@ export default function cleanUSData({ us, stateLookup }) {
 				}
 			}))
 			.filter((d) => d.properties.state)
+			.filter((d) => d.properties.name !== "Aleutians West")
 	};
 
 	const states = topojson.feature(us, us.objects.states);

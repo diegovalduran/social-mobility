@@ -30,4 +30,16 @@
 	:global([data-svelte-typeahead] mark) {
 		padding: 0;
 	}
+
+	:global([data-svelte-typeahead]) {
+		background: none !important;
+	}
+
+	:global([data-svelte-typeahead] ul) {
+		background: var(--color-bg) !important;
+	}
+
+	:global([data-svelte-typeahead] label) {
+		font-size: var(--16px) !important;
+	}
 </style>

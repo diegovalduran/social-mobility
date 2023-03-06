@@ -42,7 +42,7 @@
 	const COLOR_FG = variables[CAT].fg;
 
 	const ASPECT_RATIO = "975/610";
-	const projectionObject = states;
+	const projectionObject = counties;
 	const stateFeatures = states.features;
 
 	let colors = [];
@@ -365,7 +365,7 @@
 </script>
 
 <div class="info">
-	<h2>
+	<!-- <h2>
 		What <strong>{placeName}</strong> means, depending on where you are in the US.
 	</h2>
 
@@ -393,56 +393,62 @@
 		>
 		mean
 		<strong style:color={topColorProbably}>{topLabel}.</strong>
-	</h2>
+	</h2> -->
 
 	<h2>
-		In most parts of the US, saying <strong>{placeName}</strong> usually refers
-		to
+		In most parts of the US, <strong>{placeName}</strong> usually refers to
 		<strong style:color={topColorProbably}>{topLabel}.</strong>
 	</h2>
 </div>
 
-<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
-	<MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} />
-	<MapSvg>
-		<!-- <MapPath features={featuresCounties} stroke="rgba(0, 0, 0, 0.25)" /> -->
-		<MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="1" />
-		{#key placeName}
-			<MapPoints
-				features={placeFeaturesRender.filter(
-					(d) => d.properties.level === "city-us"
-				)}
-				stroke={COLOR_FG}
-				strokeWidth="2"
-			/>
-			<!-- <MapPoints features={userFeatures} stroke={COLOR_FG} strokeWidth="2" /> -->
+<div class="figure">
+	<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
+		<MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} />
+		<MapSvg>
+			<!-- <MapPath features={featuresCounties} stroke="rgba(0, 0, 0, 0.25)" /> -->
+			<MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="1" />
+			{#key placeName}
+				<MapPoints
+					features={placeFeaturesRender.filter(
+						(d) => d.properties.level === "city-us"
+					)}
+					stroke={COLOR_FG}
+					strokeWidth="2"
+				/>
+				<!-- <MapPoints features={userFeatures} stroke={COLOR_FG} strokeWidth="2" /> -->
 
-			<MapLabels
-				features={placeFeaturesRender.filter(
-					(d) => d.properties.level === "city-us"
-				)}
-				stroke={COLOR_BG}
-				strokeWidth="4"
-				offsetY={0}
-			/>
-			<!-- <MapLabels
+				<MapLabels
+					features={placeFeaturesRender.filter(
+						(d) => d.properties.level === "city-us"
+					)}
+					stroke={COLOR_BG}
+					strokeWidth="4"
+					offsetY={0}
+				/>
+				<!-- <MapLabels
 				features={userFeatures}
 				stroke={COLOR_BG}
 				strokeWidth="4"
 				offsetY={0}
 			/> -->
-		{/key}
-		<!-- <figcaption slot="figcaption"></figcaption> -->
-	</MapSvg>
-	<!-- svelte-ignore a11y-structure -->
-</Figure>
+			{/key}
+			<!-- <figcaption slot="figcaption"></figcaption> -->
+		</MapSvg>
+		<!-- svelte-ignore a11y-structure -->
+	</Figure>
+</div>
+
 <MapKey
 	max={MAX_COLORS}
 	features={keyFeatures}
 	colorToss={COLOR_TOSS.probably}
 	colorTossText={COLOR_TOSS.textProbably}
 />
-<PlaceTable rows={placeRows} columns={placeColumns} />
+<PlaceTable
+	caption="Every {placeName} and how many counties they..."
+	rows={placeRows}
+	columns={placeColumns}
+/>
 <CountyTable rows={countyRows} columns={countyColumns} />
 
 <style>
@@ -470,8 +476,7 @@
 	}
 
 	h2 {
-		margin-top: 48px;
-		margin-bottom: 0;
+		margin: 32px auto;
 		text-align: center;
 	}
 </style>

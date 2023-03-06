@@ -67,6 +67,10 @@
 </div>
 
 <style>
+	.key {
+		margin-top: 32px;
+	}
+
 	ul {
 		display: flex;
 		flex-wrap: wrap;
@@ -104,12 +108,9 @@
 		font-size: var(--16px);
 	}
 
-	summary {
-		font-weight: bold;
-	}
-
-	.bottom ul {
-		justify-content: flex-start;
+	span.label {
+		text-align: center;
+		line-height: 1.2;
 	}
 
 	.top li {

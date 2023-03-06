@@ -2,8 +2,9 @@
 	import SortTable from "$components/helpers/SortTable.svelte";
 	export let rows = [];
 	export let columns = [];
+	export let caption;
 </script>
 
 <div class="places">
-	<SortTable {rows} {columns} />
+	<SortTable {caption} {rows} {columns} />
 </div>
