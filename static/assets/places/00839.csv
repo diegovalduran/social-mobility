@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4295,Blanchard,OK,,city-us,9225,35.152,-97.665,8357
-4293,Blanchard,LA,,city-us,3438,32.581,-93.893,2595
-4298,Blanchard,MI,,city-us,1210,43.510,-85.026,3089
-4303,Blanchard,OH,,city-us,1204,41.041,-83.948,171
-4296,Blanchard,OH,,city-us,1122,41.038,-83.825,171
-4292,Blanchard,ID,,city-us,421,48.017,-116.984,552
-4294,Blanchard,PA,,city-us,401,41.064,-77.598,2288
-4299,Blanchard,WI,,city-us,299,42.793,-89.901,2356
-4302,Blanchard,TX,,city-us,200,30.737,-95.055,858
-4305,Blanchard,ND,,city-us,74,47.367,-97.283,817
-4301,Blanchard,IA,,city-us,29,40.579,-95.222,3259
-4291,Blanchard,MO,,city-us,27,40.578,-95.221,304
-4290,Blanchard,PA,,city-us,0,40.657,-79.828,172
-4297,Blanchard,OH,,city-us,0,40.732,-83.644,343
-4300,Blanchard,CA,,city-us,0,37.731,-120.326,313
-4304,Blanchard,DE,,city-us,0,38.821,-75.652,183
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4295,Blanchard,OK,Grady County / McClain County,,city-us,9225,35.152,-97.665,8357
+4293,Blanchard,LA,Caddo Parish,,city-us,3438,32.581,-93.893,2595
+4298,Blanchard,MI,Isabella County,,city-us,1210,43.510,-85.026,3089
+4303,Blanchard,OH,Putnam County,,city-us,1204,41.041,-83.948,171
+4296,Blanchard,OH,Hancock County,,city-us,1122,41.038,-83.825,171
+4292,Blanchard,ID,Bonner County,,city-us,421,48.017,-116.984,552
+4294,Blanchard,PA,Centre County,,city-us,401,41.064,-77.598,2288
+4299,Blanchard,WI,Lafayette County,,city-us,299,42.793,-89.901,2356
+4302,Blanchard,TX,Polk County,,city-us,200,30.737,-95.055,858
+4305,Blanchard,ND,Traill County,,city-us,74,47.367,-97.283,817
+4301,Blanchard,IA,Page County,,city-us,29,40.579,-95.222,3259
+4291,Blanchard,MO,Atchison County,,city-us,27,40.578,-95.221,304
+4290,Blanchard,PA,Allegheny County,,city-us,0,40.657,-79.828,172
+4297,Blanchard,OH,Hardin County,,city-us,0,40.732,-83.644,343
+4300,Blanchard,CA,Mariposa County,,city-us,0,37.731,-120.326,313
+4304,Blanchard,DE,Sussex County,,city-us,0,38.821,-75.652,183

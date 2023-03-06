@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14337,Fairhaven,MA,,city-us,15909,41.634,-70.871,21211
-14343,Fairhaven,MI,,city-us,1088,43.798,-83.475,2884
-14338,Fairhaven,IL,,city-us,819,41.977,-89.919,0
-14345,Fairhaven,MN,,city-us,349,45.322,-94.211,0
-14342,Fairhaven,CA,,city-us,258,40.785,-124.203,788
-14336,Fairhaven,MD,,city-us,0,38.744,-76.558,268
-14339,Fairhaven,MD,,city-us,0,39.377,-76.971,107
-14340,Fairhaven,MD,,city-us,0,39.540,-77.257,88
-14341,Fairhaven,WV,,city-us,0,40.562,-80.560,138
-14344,Fairhaven,OH,,city-us,0,39.639,-84.772,946
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14337,Fairhaven,MA,Bristol County,,city-us,15909,41.634,-70.871,21211
+14343,Fairhaven,MI,Huron County,,city-us,1088,43.798,-83.475,2884
+14338,Fairhaven,IL,Carroll County,,city-us,819,41.977,-89.919,0
+14345,Fairhaven,MN,Stearns County,,city-us,349,45.322,-94.211,0
+14342,Fairhaven,CA,Humboldt County,,city-us,258,40.785,-124.203,788
+14336,Fairhaven,MD,Anne Arundel County,,city-us,0,38.744,-76.558,268
+14339,Fairhaven,MD,Carroll County,,city-us,0,39.377,-76.971,107
+14340,Fairhaven,MD,Frederick County,,city-us,0,39.540,-77.257,88
+14341,Fairhaven,WV,Hancock County,,city-us,0,40.562,-80.560,138
+14344,Fairhaven,OH,Preble County,,city-us,0,39.639,-84.772,946

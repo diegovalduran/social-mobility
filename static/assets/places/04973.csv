@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25603,Long Creek,IL,,city-us,1235,39.812,-88.848,3140
-25602,Long Creek,OR,,city-us,172,44.714,-119.104,4514
-25605,Long Creek,ND,,city-us,58,48.102,-103.259,1114
-25604,Long Creek,NC,,city-us,51,34.442,-78.010,774
-25601,Long Creek,ND,,city-us,37,48.944,-103.126,1114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25603,Long Creek,IL,Macon County,,city-us,1235,39.812,-88.848,3140
+25602,Long Creek,OR,Grant County,,city-us,172,44.714,-119.104,4514
+25605,Long Creek,ND,Williams County,,city-us,58,48.102,-103.259,1114
+25604,Long Creek,NC,Pender County,,city-us,51,34.442,-78.010,774
+25601,Long Creek,ND,Divide County,,city-us,37,48.944,-103.126,1114

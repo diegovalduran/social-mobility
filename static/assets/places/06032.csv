@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30838,New Sharon,NJ,,city-us,15476,40.224,-74.595,15171
-30836,New Sharon,ME,,city-us,1497,44.650,-70.000,3644
-30837,New Sharon,IA,,city-us,1248,41.470,-92.651,3620
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30838,New Sharon,NJ,Mercer County,,city-us,15476,40.224,-74.595,15171
+30836,New Sharon,ME,Franklin County,,city-us,1497,44.650,-70.000,3644
+30837,New Sharon,IA,Mahaska County,,city-us,1248,41.470,-92.651,3620

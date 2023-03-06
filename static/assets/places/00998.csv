@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5024,Brainerd,MN,,city-us,14255,46.358,-94.201,11057
-5020,Brainard,NE,,city-us,341,41.184,-97.004,3393
-5019,Brainard,SD,,city-us,102,45.727,-98.383,178
-5021,Brainard,IA,,city-us,0,42.931,-91.705,231
-5022,Brainard,CA,,city-us,0,40.812,-124.110,189
-5023,Brainerd,KS,,city-us,0,37.951,-97.095,3292
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5024,Brainerd,MN,Crow Wing County,,city-us,14255,46.358,-94.201,11057
+5020,Brainard,NE,Butler County,,city-us,341,41.184,-97.004,3393
+5019,Brainard,SD,Brown County,,city-us,102,45.727,-98.383,178
+5021,Brainard,IA,Fayette County,,city-us,0,42.931,-91.705,231
+5022,Brainard,CA,Humboldt County,,city-us,0,40.812,-124.110,189
+5023,Brainerd,KS,Butler County,,city-us,0,37.951,-97.095,3292

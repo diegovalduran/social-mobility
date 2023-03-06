@@ -1,27 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47695,Woodville,FL,,city-us,4038,30.314,-84.247,2640
-47703,Woodville,OH,,city-us,3285,41.449,-83.365,1340
-47707,Woodville,TX,,city-us,2440,30.775,-94.415,3569
-47686,Woodville,MI,,city-us,2431,43.866,-83.964,3136
-47706,Woodville,CA,,city-us,1906,36.094,-119.199,4117
-47704,Woodville,WI,,city-us,1399,44.953,-92.291,3419
-47708,Woodville,MN,,city-us,1278,44.061,-93.460,2040
-47709,Woodville,MS,,city-us,883,31.105,-91.300,7968
-47688,Woodville,WI,,city-us,834,44.183,-88.205,2450
-47694,Woodville,AL,,city-us,748,34.628,-86.274,2992
-47691,Woodville,GA,,city-us,276,33.672,-83.106,2479
-47692,Woodville,IL,,city-us,206,39.229,-90.511,1127
-47698,Woodville,ME,,city-us,203,45.525,-68.450,2945
-47700,Woodville,NE,,city-us,121,41.575,-97.765,291
-47684,Woodville,IL,,city-us,0,40.188,-91.183,308
-47685,Woodville,KY,,city-us,0,37.097,-88.873,94
-47687,Woodville,ID,,city-us,0,43.417,-112.143,354
-47689,Woodville,TN,,city-us,0,35.261,-88.755,678
-47690,Woodville,OH,,city-us,0,39.255,-84.011,289
-47693,Woodville,IN,,city-us,0,39.916,-85.545,191
-47696,Woodville,WV,,city-us,0,38.161,-81.892,277
-47697,Woodville,MO,,city-us,0,39.620,-92.336,264
-47699,Woodville,NC,,city-us,0,36.234,-76.326,345
-47701,Woodville,IN,,city-us,0,41.563,-87.041,936
-47702,Woodville,VA,,city-us,0,38.607,-78.175,723
-47705,Woodville,NC,,city-us,0,36.502,-80.480,241
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47695,Woodville,FL,Leon County,,city-us,4038,30.314,-84.247,2640
+47703,Woodville,OH,Sandusky County,,city-us,3285,41.449,-83.365,1340
+47707,Woodville,TX,Tyler County,,city-us,2440,30.775,-94.415,3569
+47686,Woodville,MI,Bay County,,city-us,2431,43.866,-83.964,3136
+47706,Woodville,CA,Tulare County,,city-us,1906,36.094,-119.199,4117
+47704,Woodville,WI,St. Croix County,,city-us,1399,44.953,-92.291,3419
+47708,Woodville,MN,Waseca County,,city-us,1278,44.061,-93.460,2040
+47709,Woodville,MS,Wilkinson County,,city-us,883,31.105,-91.300,7968
+47688,Woodville,WI,Calumet County,,city-us,834,44.183,-88.205,2450
+47694,Woodville,AL,Jackson County,,city-us,748,34.628,-86.274,2992
+47691,Woodville,GA,Greene County,,city-us,276,33.672,-83.106,2479
+47692,Woodville,IL,Greene County,,city-us,206,39.229,-90.511,1127
+47698,Woodville,ME,Penobscot County,,city-us,203,45.525,-68.450,2945
+47700,Woodville,NE,Platte County,,city-us,121,41.575,-97.765,291
+47684,Woodville,IL,Adams County,,city-us,0,40.188,-91.183,308
+47685,Woodville,KY,Ballard County,,city-us,0,37.097,-88.873,94
+47687,Woodville,ID,Bingham County,,city-us,0,43.417,-112.143,354
+47689,Woodville,TN,Chester County,,city-us,0,35.261,-88.755,678
+47690,Woodville,OH,Clermont County,,city-us,0,39.255,-84.011,289
+47693,Woodville,IN,Henry County,,city-us,0,39.916,-85.545,191
+47696,Woodville,WV,Lincoln County,,city-us,0,38.161,-81.892,277
+47697,Woodville,MO,Macon County,,city-us,0,39.620,-92.336,264
+47699,Woodville,NC,Perquimans County,,city-us,0,36.234,-76.326,345
+47701,Woodville,IN,Porter County,,city-us,0,41.563,-87.041,936
+47702,Woodville,VA,Rappahannock County,,city-us,0,38.607,-78.175,723
+47705,Woodville,NC,Surry County,,city-us,0,36.502,-80.480,241

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35957,Rayburn,PA,,city-us,1756,40.832,-79.487,2353
-35956,Rayborn,MO,,city-us,0,37.304,-92.358,419
-35958,Rayburn,TX,,city-us,0,30.414,-94.924,159
-35959,Rayburn,AL,,city-us,0,34.349,-86.267,84
-35960,Rayburn,WV,,city-us,0,38.873,-82.027,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35957,Rayburn,PA,Armstrong County,,city-us,1756,40.832,-79.487,2353
+35956,Rayborn,MO,Wright County,,city-us,0,37.304,-92.358,419
+35958,Rayburn,TX,Liberty County,,city-us,0,30.414,-94.924,159
+35959,Rayburn,AL,Marshall County,,city-us,0,34.349,-86.267,84
+35960,Rayburn,WV,Mason County,,city-us,0,38.873,-82.027,87

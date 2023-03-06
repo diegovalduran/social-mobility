@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-234,Adrian,MI,,city-us,6354,41.949,-84.075,3388
-229,Adrian,MO,,city-us,1730,38.398,-94.352,4914
-237,Adrian,MN,,city-us,1195,43.635,-95.933,6312
-236,Adrian,WI,,city-us,740,43.945,-90.595,1950
-231,Adrian,GA,,city-us,546,32.530,-82.592,2457
-235,Adrian,OR,,city-us,156,43.741,-117.072,4272
-238,Adrian,TX,,city-us,129,35.275,-102.665,5245
-241,Adrian,MN,,city-us,129,44.062,-94.789,1890
-233,Adrian,ND,,city-us,115,46.595,-98.589,266
-230,Adrian,SD,,city-us,8,45.568,-99.128,79
-228,Adrian,PA,,city-us,0,40.885,-79.538,366
-232,Adrian,IL,,city-us,0,40.521,-91.167,624
-239,Adrian,OH,,city-us,0,41.001,-83.323,384
-240,Adrian,WV,,city-us,0,38.905,-80.276,331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+234,Adrian,MI,Lenawee County,,city-us,6354,41.949,-84.075,3388
+229,Adrian,MO,Bates County,,city-us,1730,38.398,-94.352,4914
+237,Adrian,MN,Nobles County,,city-us,1195,43.635,-95.933,6312
+236,Adrian,WI,Monroe County,,city-us,740,43.945,-90.595,1950
+231,Adrian,GA,Emanuel County / Johnson County,,city-us,546,32.530,-82.592,2457
+235,Adrian,OR,Malheur County,,city-us,156,43.741,-117.072,4272
+238,Adrian,TX,Oldham County,,city-us,129,35.275,-102.665,5245
+241,Adrian,MN,Watonwan County,,city-us,129,44.062,-94.789,1890
+233,Adrian,ND,LaMoure County,,city-us,115,46.595,-98.589,266
+230,Adrian,SD,Edmunds County,,city-us,8,45.568,-99.128,79
+228,Adrian,PA,Armstrong County,,city-us,0,40.885,-79.538,366
+232,Adrian,IL,Hancock County,,city-us,0,40.521,-91.167,624
+239,Adrian,OH,Seneca County,,city-us,0,41.001,-83.323,384
+240,Adrian,WV,Upshur County,,city-us,0,38.905,-80.276,331

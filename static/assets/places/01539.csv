@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7788,Chalmers,IL,,city-us,690,40.404,-90.721,340
-7789,Chalmers,IN,,city-us,522,40.663,-86.869,13219
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7788,Chalmers,IL,McDonough County,,city-us,690,40.404,-90.721,340
+7789,Chalmers,IN,White County,,city-us,522,40.663,-86.869,13219

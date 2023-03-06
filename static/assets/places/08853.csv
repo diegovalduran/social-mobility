@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44383,Vermont,,United States,state,647064,43.872,-72.448,89421
-44379,Vermont,WI,,city-us,871,43.072,-89.786,1769
-44381,Vermont,IL,,city-us,805,40.319,-90.393,887
-44380,Vermont,SD,,city-us,28,45.303,-99.287,0
-44382,Vermont,IN,,city-us,0,40.499,-86.032,1856
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44383,Vermont,,,United States,state,647064,43.872,-72.448,89421
+44379,Vermont,WI,Dane County,,city-us,871,43.072,-89.786,1769
+44381,Vermont,IL,Fulton County,,city-us,805,40.319,-90.393,887
+44380,Vermont,SD,Edmunds County,,city-us,28,45.303,-99.287,0
+44382,Vermont,IN,Howard County,,city-us,0,40.499,-86.032,1856

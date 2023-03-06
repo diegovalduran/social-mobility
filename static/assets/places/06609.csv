@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33593,Pennville,PA,,city-us,2269,39.790,-76.998,1794
-33590,Pennville,IN,,city-us,621,40.494,-85.148,9885
-33589,Pennville,GA,,city-us,0,34.512,-85.321,182
-33591,Pennville,MO,,city-us,0,40.363,-92.947,410
-33592,Pennville,IN,,city-us,0,39.814,-85.111,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33593,Pennville,PA,York County,,city-us,2269,39.790,-76.998,1794
+33590,Pennville,IN,Jay County,,city-us,621,40.494,-85.148,9885
+33589,Pennville,GA,Chattooga County,,city-us,0,34.512,-85.321,182
+33591,Pennville,MO,Sullivan County,,city-us,0,40.363,-92.947,410
+33592,Pennville,IN,Wayne County,,city-us,0,39.814,-85.111,157

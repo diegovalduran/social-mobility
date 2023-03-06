@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4026,Birch,MI,,city-us,816,46.799,-87.734,3349
-4025,Birch,WI,,city-us,574,45.331,-89.629,2187
-4024,Birch,MN,,city-us,98,47.620,-94.462,2570
-4023,Birch,WI,,city-us,0,46.538,-90.576,301
-6089,Burch,WV,,city-us,0,37.709,-82.184,98
-6090,Burch,NC,,city-us,0,36.276,-80.767,416
-6091,Burch,MO,,city-us,0,37.268,-90.354,400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4026,Birch,MI,Marquette County,,city-us,816,46.799,-87.734,3349
+4025,Birch,WI,Lincoln County,,city-us,574,45.331,-89.629,2187
+4024,Birch,MN,Beltrami County,,city-us,98,47.620,-94.462,2570
+4023,Birch,WI,Ashland County,,city-us,0,46.538,-90.576,301
+6089,Burch,WV,Mingo County,,city-us,0,37.709,-82.184,98
+6090,Burch,NC,Surry County,,city-us,0,36.276,-80.767,416
+6091,Burch,MO,Wayne County,,city-us,0,37.268,-90.354,400

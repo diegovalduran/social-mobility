@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36572,Richlands,VA,,city-us,5213,37.093,-81.794,4384
-36571,Richlands,NC,,city-us,2302,34.899,-77.547,3553
-36570,Richlands,WV,,city-us,0,37.866,-80.483,442
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36572,Richlands,VA,Tazewell County,,city-us,5213,37.093,-81.794,4384
+36571,Richlands,NC,Onslow County,,city-us,2302,34.899,-77.547,3553
+36570,Richlands,WV,Greenbrier County,,city-us,0,37.866,-80.483,442

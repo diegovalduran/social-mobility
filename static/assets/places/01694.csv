@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8550,Clarksdale,MS,,city-us,14410,34.200,-90.571,21197
-8551,Clarksdale,MO,,city-us,251,39.814,-94.551,3310
-8548,Clarksdale,IN,,city-us,0,39.200,-86.126,216
-8549,Clarksdale,IL,,city-us,0,39.489,-89.368,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8550,Clarksdale,MS,Coahoma County,,city-us,14410,34.200,-90.571,21197
+8551,Clarksdale,MO,DeKalb County,,city-us,251,39.814,-94.551,3310
+8548,Clarksdale,IN,Brown County,,city-us,0,39.200,-86.126,216
+8549,Clarksdale,IL,Christian County,,city-us,0,39.489,-89.368,163

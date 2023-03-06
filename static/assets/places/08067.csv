@@ -1,64 +1,64 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40807,Springfield,MO,,city-us,169724,37.194,-93.293,42904
-40819,Springfield,MA,,city-us,154789,42.101,-72.590,85070
-40827,Springfield,OR,,city-us,62256,44.046,-123.022,10882
-40808,Springfield,OH,,city-us,58763,39.924,-83.809,21773
-40818,Springfield,OH,,city-us,35537,39.244,-84.525,628
-40815,Springfield,VA,,city-us,31769,38.789,-77.187,12996
-40830,Springfield,OH,,city-us,27055,41.619,-83.734,628
-40812,Springfield,PA,,city-us,24861,39.929,-75.337,10711
-40834,Springfield,PA,,city-us,20801,40.099,-75.200,569
-40843,Springfield,TN,,city-us,19065,36.509,-86.885,7697
-40852,Springfield,NJ,,city-us,16979,40.698,-74.334,19415
-40849,Springfield,OH,,city-us,14076,41.007,-81.439,628
-40836,Springfield,MI,,city-us,13940,42.752,-83.500,8144
-40842,Springfield,OH,,city-us,11105,40.768,-82.627,628
-40857,Springfield,VT,,city-us,9117,43.292,-72.480,8820
-40799,Springfield,FL,,city-us,8025,30.153,-85.611,2361
-40831,Springfield,OH,,city-us,6731,40.939,-80.572,628
-40858,Springfield,PA,,city-us,6021,39.826,-76.737,569
-40845,Springfield,IL,,city-us,5542,39.847,-89.655,516
-40835,Springfield,OH,,city-us,5486,39.912,-82.055,628
-40806,Springfield,MI,,city-us,5270,42.326,-85.239,4776
-40804,Springfield,PA,,city-us,5172,40.528,-75.302,569
-40817,Springfield,OH,,city-us,3460,38.893,-82.285,628
-40805,Springfield,NJ,,city-us,3228,40.040,-74.710,13909
-40814,Springfield,PA,,city-us,3061,41.959,-80.452,569
-40813,Springfield,GA,,city-us,2993,32.372,-81.311,3809
-40856,Springfield,OH,,city-us,2976,41.467,-84.406,628
-40811,Springfield,WI,,city-us,2915,43.162,-89.546,2216
-40854,Springfield,KY,,city-us,2834,37.685,-85.222,3552
-40816,Springfield,PA,,city-us,2695,39.981,-79.441,569
-40844,Springfield,OH,,city-us,2602,39.356,-82.909,628
-40801,Springfield,SD,,city-us,2053,42.854,-97.897,4819
-40803,Springfield,MN,,city-us,2015,44.239,-94.976,4778
-40824,Springfield,OH,,city-us,1995,40.476,-80.903,628
-40833,Springfield,PA,,city-us,1850,41.147,-80.199,569
-40826,Springfield,MI,,city-us,1567,44.552,-85.287,234
-40846,Springfield,NE,,city-us,1509,41.082,-96.134,3775
-40838,Springfield,NY,,city-us,1348,42.833,-74.867,5090
-40798,Springfield,CO,,city-us,1336,37.408,-102.614,3757
-40848,Springfield,NH,,city-us,1287,43.492,-72.038,4083
-40802,Springfield,PA,,city-us,1144,41.864,-76.734,569
-40847,Springfield,WI,,city-us,1006,44.995,-92.207,1988
-40832,Springfield,WI,,city-us,826,43.947,-89.533,1892
-40823,Springfield,WI,,city-us,695,44.287,-91.096,1889
-40822,Springfield,PA,,city-us,694,40.148,-77.948,569
-40837,Springfield,SC,,city-us,445,33.497,-81.279,2243
-40829,Springfield,LA,,city-us,435,30.429,-90.549,4379
-40820,Springfield,WV,,city-us,407,39.451,-78.694,1998
-40821,Springfield,MO,,city-us,306,38.417,-93.572,143
-40840,Springfield,ME,,city-us,296,45.399,-68.174,3339
-40853,Springfield,WI,,city-us,232,42.642,-88.412,1065
-40809,Springfield,AR,,city-us,223,35.267,-92.558,593
-40810,Springfield,MN,,city-us,120,43.888,-95.286,2126
-40850,Springfield,ND,,city-us,44,48.398,-99.429,0
-40796,Springfield,VA,,city-us,0,38.132,-78.428,75
-40797,Springfield,TX,,city-us,0,31.805,-95.478,1048
-40800,Springfield,ID,,city-us,0,43.082,-112.682,216
-40825,Springfield,TX,,city-us,0,27.752,-98.194,804
-40828,Springfield,IN,,city-us,0,41.715,-86.778,180
-40839,Springfield,VA,,city-us,0,38.704,-78.446,91
-40841,Springfield,IN,,city-us,0,38.042,-87.870,486
-40851,Springfield,CA,,city-us,0,38.021,-120.411,1477
-40855,Springfield,VA,,city-us,0,38.219,-76.986,114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40807,Springfield,MO,Christian County / Greene County,,city-us,169724,37.194,-93.293,42904
+40819,Springfield,MA,Hampden County,,city-us,154789,42.101,-72.590,85070
+40827,Springfield,OR,Lane County,,city-us,62256,44.046,-123.022,10882
+40808,Springfield,OH,Clark County,,city-us,58763,39.924,-83.809,21773
+40818,Springfield,OH,Hamilton County,,city-us,35537,39.244,-84.525,628
+40815,Springfield,VA,Fairfax County,,city-us,31769,38.789,-77.187,12996
+40830,Springfield,OH,Lucas County,,city-us,27055,41.619,-83.734,628
+40812,Springfield,PA,Delaware County,,city-us,24861,39.929,-75.337,10711
+40834,Springfield,PA,Montgomery County,,city-us,20801,40.099,-75.200,569
+40843,Springfield,TN,Robertson County,,city-us,19065,36.509,-86.885,7697
+40852,Springfield,NJ,Union County,,city-us,16979,40.698,-74.334,19415
+40849,Springfield,OH,Summit County,,city-us,14076,41.007,-81.439,628
+40836,Springfield,MI,Oakland County,,city-us,13940,42.752,-83.500,8144
+40842,Springfield,OH,Richland County,,city-us,11105,40.768,-82.627,628
+40857,Springfield,VT,Windsor County,,city-us,9117,43.292,-72.480,8820
+40799,Springfield,FL,Bay County,,city-us,8025,30.153,-85.611,2361
+40831,Springfield,OH,Mahoning County,,city-us,6731,40.939,-80.572,628
+40858,Springfield,PA,York County,,city-us,6021,39.826,-76.737,569
+40845,Springfield,IL,Sangamon County,,city-us,5542,39.847,-89.655,516
+40835,Springfield,OH,Muskingum County,,city-us,5486,39.912,-82.055,628
+40806,Springfield,MI,Calhoun County,,city-us,5270,42.326,-85.239,4776
+40804,Springfield,PA,Bucks County,,city-us,5172,40.528,-75.302,569
+40817,Springfield,OH,Gallia County,,city-us,3460,38.893,-82.285,628
+40805,Springfield,NJ,Burlington County,,city-us,3228,40.040,-74.710,13909
+40814,Springfield,PA,Erie County,,city-us,3061,41.959,-80.452,569
+40813,Springfield,GA,Effingham County,,city-us,2993,32.372,-81.311,3809
+40856,Springfield,OH,Williams County,,city-us,2976,41.467,-84.406,628
+40811,Springfield,WI,Dane County,,city-us,2915,43.162,-89.546,2216
+40854,Springfield,KY,Washington County,,city-us,2834,37.685,-85.222,3552
+40816,Springfield,PA,Fayette County,,city-us,2695,39.981,-79.441,569
+40844,Springfield,OH,Ross County,,city-us,2602,39.356,-82.909,628
+40801,Springfield,SD,Bon Homme County,,city-us,2053,42.854,-97.897,4819
+40803,Springfield,MN,Brown County,,city-us,2015,44.239,-94.976,4778
+40824,Springfield,OH,Jefferson County,,city-us,1995,40.476,-80.903,628
+40833,Springfield,PA,Mercer County,,city-us,1850,41.147,-80.199,569
+40826,Springfield,MI,Kalkaska County,,city-us,1567,44.552,-85.287,234
+40846,Springfield,NE,Sarpy County,,city-us,1509,41.082,-96.134,3775
+40838,Springfield,NY,Otsego County,,city-us,1348,42.833,-74.867,5090
+40798,Springfield,CO,Baca County,,city-us,1336,37.408,-102.614,3757
+40848,Springfield,NH,Sullivan County,,city-us,1287,43.492,-72.038,4083
+40802,Springfield,PA,Bradford County,,city-us,1144,41.864,-76.734,569
+40847,Springfield,WI,St. Croix County,,city-us,1006,44.995,-92.207,1988
+40832,Springfield,WI,Marquette County,,city-us,826,43.947,-89.533,1892
+40823,Springfield,WI,Jackson County,,city-us,695,44.287,-91.096,1889
+40822,Springfield,PA,Huntingdon County,,city-us,694,40.148,-77.948,569
+40837,Springfield,SC,Orangeburg County,,city-us,445,33.497,-81.279,2243
+40829,Springfield,LA,Livingston Parish,,city-us,435,30.429,-90.549,4379
+40820,Springfield,WV,Hampshire County,,city-us,407,39.451,-78.694,1998
+40821,Springfield,MO,Henry County,,city-us,306,38.417,-93.572,143
+40840,Springfield,ME,Penobscot County,,city-us,296,45.399,-68.174,3339
+40853,Springfield,WI,Walworth County,,city-us,232,42.642,-88.412,1065
+40809,Springfield,AR,Conway County,,city-us,223,35.267,-92.558,593
+40810,Springfield,MN,Cottonwood County,,city-us,120,43.888,-95.286,2126
+40850,Springfield,ND,Towner County,,city-us,44,48.398,-99.429,0
+40796,Springfield,VA,Albemarle County,,city-us,0,38.132,-78.428,75
+40797,Springfield,TX,Anderson County,,city-us,0,31.805,-95.478,1048
+40800,Springfield,ID,Bingham County,,city-us,0,43.082,-112.682,216
+40825,Springfield,TX,Jim Wells County,,city-us,0,27.752,-98.194,804
+40828,Springfield,IN,LaPorte County,,city-us,0,41.715,-86.778,180
+40839,Springfield,VA,Page County,,city-us,0,38.704,-78.446,91
+40841,Springfield,IN,Posey County,,city-us,0,38.042,-87.870,486
+40851,Springfield,CA,Tuolumne County,,city-us,0,38.021,-120.411,1477
+40855,Springfield,VA,Westmoreland County,,city-us,0,38.219,-76.986,114

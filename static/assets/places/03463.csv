@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17528,Grandview Heights,OH,,city-us,8253,39.980,-83.041,4313
-17527,Grandview Heights,OH,,city-us,0,40.186,-83.970,249
-17529,Grandview Heights,OH,,city-us,0,40.171,-80.709,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17528,Grandview Heights,OH,Franklin County,,city-us,8253,39.980,-83.041,4313
+17527,Grandview Heights,OH,Champaign County,,city-us,0,40.186,-83.970,249
+17529,Grandview Heights,OH,Jefferson County,,city-us,0,40.171,-80.709,223

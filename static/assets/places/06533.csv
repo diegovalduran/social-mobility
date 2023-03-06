@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33263,Pates,NC,,city-us,0,34.690,-79.215,683
-33388,Paytes,VA,,city-us,0,38.227,-77.833,2357
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33263,Pates,NC,Robeson County,,city-us,0,34.690,-79.215,683
+33388,Paytes,VA,Spotsylvania County,,city-us,0,38.227,-77.833,2357

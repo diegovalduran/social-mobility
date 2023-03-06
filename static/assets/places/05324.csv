@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27287,Mauzy,VA,,city-us,0,38.569,-78.752,203
-27288,Mauzy,IN,,city-us,0,39.624,-85.338,386
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27287,Mauzy,VA,Rockingham County,,city-us,0,38.569,-78.752,203
+27288,Mauzy,IN,Rush County,,city-us,0,39.624,-85.338,386

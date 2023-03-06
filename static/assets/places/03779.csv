@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19343,Haworth,NJ,,city-us,3309,40.961,-73.990,14614
-19344,Haworth,OK,,city-us,284,33.846,-94.653,2060
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19343,Haworth,NJ,Bergen County,,city-us,3309,40.961,-73.990,14614
+19344,Haworth,OK,McCurtain County,,city-us,284,33.846,-94.653,2060

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47474,Wood,WI,,city-us,754,44.473,-90.141,3163
-47473,Wood,SD,,city-us,41,43.497,-100.477,3176
-47468,Wood,IA,,city-us,0,42.657,-91.333,167
-47469,Wood,MO,,city-us,0,39.952,-94.453,429
-47470,Wood,NC,,city-us,0,36.184,-78.057,420
-47471,Wood,PA,,city-us,0,40.168,-78.136,275
-47472,Wood,WV,,city-us,0,38.771,-81.915,151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47474,Wood,WI,Wood County,,city-us,754,44.473,-90.141,3163
+47473,Wood,SD,Mellette County,,city-us,41,43.497,-100.477,3176
+47468,Wood,IA,Clayton County,,city-us,0,42.657,-91.333,167
+47469,Wood,MO,DeKalb County,,city-us,0,39.952,-94.453,429
+47470,Wood,NC,Franklin County,,city-us,0,36.184,-78.057,420
+47471,Wood,PA,Huntingdon County,,city-us,0,40.168,-78.136,275
+47472,Wood,WV,Mason County,,city-us,0,38.771,-81.915,151

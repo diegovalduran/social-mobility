@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9631,Conemaugh,PA,,city-us,6700,40.239,-78.969,237
-9630,Conemaugh,PA,,city-us,2070,40.510,-79.388,237
-9629,Conemaugh,PA,,city-us,1924,40.346,-78.849,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9631,Conemaugh,PA,Somerset County,,city-us,6700,40.239,-78.969,237
+9630,Conemaugh,PA,Indiana County,,city-us,2070,40.510,-79.388,237
+9629,Conemaugh,PA,Cambria County,,city-us,1924,40.346,-78.849,237

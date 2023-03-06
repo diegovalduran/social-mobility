@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15525,Fountain,CO,,city-us,29677,38.682,-104.701,6839
-15528,Fountain,WI,,city-us,599,43.856,-90.251,1794
-15526,Fountain,MN,,city-us,407,43.740,-92.136,3115
-15533,Fountain,NC,,city-us,384,35.674,-77.640,2072
-15529,Fountain,MI,,city-us,182,44.047,-86.179,3118
-15532,Fountain,KS,,city-us,151,39.168,-97.883,0
-15524,Fountain,SD,,city-us,76,45.459,-98.906,0
-15523,Fountain,FL,,city-us,0,30.479,-85.420,346
-15527,Fountain,IN,,city-us,0,40.223,-87.335,1278
-15530,Fountain,WV,,city-us,0,39.421,-78.937,162
-15531,Fountain,IL,,city-us,0,38.362,-90.283,274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15525,Fountain,CO,El Paso County,,city-us,29677,38.682,-104.701,6839
+15528,Fountain,WI,Juneau County,,city-us,599,43.856,-90.251,1794
+15526,Fountain,MN,Fillmore County,,city-us,407,43.740,-92.136,3115
+15533,Fountain,NC,Pitt County,,city-us,384,35.674,-77.640,2072
+15529,Fountain,MI,Mason County,,city-us,182,44.047,-86.179,3118
+15532,Fountain,KS,Ottawa County,,city-us,151,39.168,-97.883,0
+15524,Fountain,SD,Edmunds County,,city-us,76,45.459,-98.906,0
+15523,Fountain,FL,Bay County,,city-us,0,30.479,-85.420,346
+15527,Fountain,IN,Fountain County,,city-us,0,40.223,-87.335,1278
+15530,Fountain,WV,Mineral County,,city-us,0,39.421,-78.937,162
+15531,Fountain,IL,Monroe County,,city-us,0,38.362,-90.283,274

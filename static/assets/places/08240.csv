@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41659,Strabane,ND,,city-us,87,48.144,-97.568,160
-41660,Strabane,PA,,city-us,0,40.251,-80.198,241
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41659,Strabane,ND,Grand Forks County,,city-us,87,48.144,-97.568,160
+41660,Strabane,PA,Washington County,,city-us,0,40.251,-80.198,241

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11371,Deerwood,TX,,city-us,1522,30.315,-95.301,440
-11369,Deerwood,MN,,city-us,591,46.474,-93.899,3796
-11370,Deerwood,MN,,city-us,142,48.594,-96.595,385
-11368,Deerwood,WY,,city-us,0,41.237,-106.132,83
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11371,Deerwood,TX,Montgomery County,,city-us,1522,30.315,-95.301,440
+11369,Deerwood,MN,Crow Wing County,,city-us,591,46.474,-93.899,3796
+11370,Deerwood,MN,Kittson County,,city-us,142,48.594,-96.595,385
+11368,Deerwood,WY,Albany County,,city-us,0,41.237,-106.132,83

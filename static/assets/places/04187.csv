@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21504,Ionia,MI,,city-us,4136,42.995,-85.010,1946
-21503,Ionia,IA,,city-us,228,43.034,-92.456,2885
-21502,Ionia,MO,,city-us,76,38.504,-93.324,3422
-21505,Ionia,KS,,city-us,17,39.664,-98.347,621
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21504,Ionia,MI,Ionia County,,city-us,4136,42.995,-85.010,1946
+21503,Ionia,IA,Chickasaw County,,city-us,228,43.034,-92.456,2885
+21502,Ionia,MO,Benton County / Pettis County,,city-us,76,38.504,-93.324,3422
+21505,Ionia,KS,Jewell County,,city-us,17,39.664,-98.347,621

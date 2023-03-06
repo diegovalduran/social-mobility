@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12201,Dresser,WI,,city-us,948,45.356,-92.634,4137
-12202,Dresser,IN,,city-us,19,39.463,-87.424,637
-12200,Dresser,CA,,city-us,0,37.593,-121.956,916
-12203,Dressor,IL,,city-us,0,39.173,-89.051,314
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12201,Dresser,WI,Polk County,,city-us,948,45.356,-92.634,4137
+12202,Dresser,IN,Vigo County,,city-us,19,39.463,-87.424,637
+12200,Dresser,CA,Alameda County,,city-us,0,37.593,-121.956,916
+12203,Dressor,IL,Fayette County,,city-us,0,39.173,-89.051,314

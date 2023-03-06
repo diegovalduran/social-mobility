@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28810,Mineral,PA,,city-us,488,41.319,-79.966,1852
-28808,Mineral,VA,,city-us,485,38.011,-77.909,2752
-28805,Mineral,IL,,city-us,441,41.368,-89.795,2635
-28806,Mineral,KS,,city-us,213,37.259,-94.791,394
-28809,Mineral,CA,,city-us,210,40.348,-121.595,4363
-28807,Mineral,WA,,city-us,100,46.717,-122.181,3622
-28803,Mineral,OH,,city-us,0,39.324,-82.265,621
-28804,Mineral,TX,,city-us,0,28.549,-97.904,2786
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28810,Mineral,PA,Venango County,,city-us,488,41.319,-79.966,1852
+28808,Mineral,VA,Louisa County,,city-us,485,38.011,-77.909,2752
+28805,Mineral,IL,Bureau County,,city-us,441,41.368,-89.795,2635
+28806,Mineral,KS,Cherokee County,,city-us,213,37.259,-94.791,394
+28809,Mineral,CA,Tehama County,,city-us,210,40.348,-121.595,4363
+28807,Mineral,WA,Lewis County,,city-us,100,46.717,-122.181,3622
+28803,Mineral,OH,Athens County,,city-us,0,39.324,-82.265,621
+28804,Mineral,TX,Bee County,,city-us,0,28.549,-97.904,2786

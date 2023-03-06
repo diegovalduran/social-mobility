@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37484,Rosamond,CA,,city-us,20574,34.864,-118.163,7247
-37483,Rosamond,IL,,city-us,0,39.380,-89.160,2722
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37484,Rosamond,CA,Kern County,,city-us,20574,34.864,-118.163,7247
+37483,Rosamond,IL,Christian County,,city-us,0,39.380,-89.160,2722

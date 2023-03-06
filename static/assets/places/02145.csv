@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10747,Cusseta,GA,,city-us,9048,32.347,-84.788,4237
-10746,Cusseta,AL,,city-us,151,32.785,-85.306,557
-10745,Cusseta,TX,,city-us,0,33.162,-94.457,200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10747,Cusseta,GA,Chattahoochee County,,city-us,9048,32.347,-84.788,4237
+10746,Cusseta,AL,Chambers County,,city-us,151,32.785,-85.306,557
+10745,Cusseta,TX,Cass County,,city-us,0,33.162,-94.457,200

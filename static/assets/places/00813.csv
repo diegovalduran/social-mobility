@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4168,Blackberry,IL,,city-us,17352,41.852,-88.429,620
-4167,Blackberry,MN,,city-us,50,47.181,-93.391,769
-4169,Blackberry,VA,,city-us,0,37.859,-76.282,100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4168,Blackberry,IL,Kane County,,city-us,17352,41.852,-88.429,620
+4167,Blackberry,MN,Itasca County,,city-us,50,47.181,-93.391,769
+4169,Blackberry,VA,Northumberland County,,city-us,0,37.859,-76.282,100

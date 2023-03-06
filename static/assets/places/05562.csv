@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28596,Millersville,MD,,city-us,20965,39.059,-76.648,1346
-28600,Millersville,PA,,city-us,7593,39.998,-76.354,2938
-28601,Millersville,TN,,city-us,6274,36.397,-86.711,2479
-28603,Millersville,MI,,city-us,2093,44.294,-85.513,3167
-28597,Millersville,MO,,city-us,240,37.433,-89.799,585
-28598,Millersville,IL,,city-us,0,39.451,-89.158,156
-28599,Millersville,CA,,city-us,0,35.304,-118.458,174
-28602,Millersville,OH,,city-us,0,41.312,-83.281,635
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28596,Millersville,MD,Anne Arundel County,,city-us,20965,39.059,-76.648,1346
+28600,Millersville,PA,Lancaster County,,city-us,7593,39.998,-76.354,2938
+28601,Millersville,TN,Robertson County / Sumner County,,city-us,6274,36.397,-86.711,2479
+28603,Millersville,MI,Wexford County,,city-us,2093,44.294,-85.513,3167
+28597,Millersville,MO,Cape Girardeau County,,city-us,240,37.433,-89.799,585
+28598,Millersville,IL,Christian County,,city-us,0,39.451,-89.158,156
+28599,Millersville,CA,Kern County,,city-us,0,35.304,-118.458,174
+28602,Millersville,OH,Sandusky County,,city-us,0,41.312,-83.281,635

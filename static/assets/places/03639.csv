@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18456,Halfway,MD,,city-us,10259,39.621,-77.759,2122
-18452,Halfway,OR,,city-us,356,44.881,-117.115,5714
-18454,Halfway,MO,,city-us,154,37.616,-93.245,3257
-18451,Halfway,KY,,city-us,0,36.796,-86.296,575
-18453,Halfway,VA,,city-us,0,38.657,-77.717,595
-18455,Halfway,WY,,city-us,0,42.809,-110.339,465
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18456,Halfway,MD,Washington County,,city-us,10259,39.621,-77.759,2122
+18452,Halfway,OR,Baker County,,city-us,356,44.881,-117.115,5714
+18454,Halfway,MO,Polk County,,city-us,154,37.616,-93.245,3257
+18451,Halfway,KY,Allen County,,city-us,0,36.796,-86.296,575
+18453,Halfway,VA,Fauquier County,,city-us,0,38.657,-77.717,595
+18455,Halfway,WY,Sublette County,,city-us,0,42.809,-110.339,465

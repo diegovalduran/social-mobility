@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19308,Haven,MN,,city-us,2574,45.518,-94.074,1808
-19306,Haven,KS,,city-us,1535,37.889,-97.784,4603
-19305,Haven,ND,,city-us,42,47.450,-98.830,0
-19307,Haven,WI,,city-us,0,43.848,-87.753,645
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19308,Haven,MN,Sherburne County,,city-us,2574,45.518,-94.074,1808
+19306,Haven,KS,Reno County,,city-us,1535,37.889,-97.784,4603
+19305,Haven,ND,Foster County,,city-us,42,47.450,-98.830,0
+19307,Haven,WI,Sheboygan County,,city-us,0,43.848,-87.753,645

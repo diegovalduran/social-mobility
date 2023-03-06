@@ -1,27 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13974,Etna,PA,,city-us,3385,40.504,-79.949,3409
-258,Aetna,MI,,city-us,2145,43.519,-85.507,259
-260,Aetna,MI,,city-us,1338,43.604,-85.865,2194
-13984,Etna,ME,,city-us,1221,44.764,-69.128,3581
-13982,Etna,OH,,city-us,812,39.957,-82.682,1220
-13988,Etna,CA,,city-us,680,41.457,-122.895,4715
-256,Aetna,IL,,city-us,450,40.099,-89.203,449
-259,Aetna,MI,,city-us,436,44.301,-85.044,259
-261,Aetna,MN,,city-us,189,44.147,-96.136,1841
-253,Aetna,KS,,city-us,0,37.084,-98.963,228
-254,Aetna,AR,,city-us,0,35.930,-90.555,128
-255,Aetna,TN,,city-us,0,35.655,-87.505,274
-257,Aetna,TN,,city-us,0,35.012,-85.495,184
-262,Aetna,AR,,city-us,0,35.936,-91.440,125
-13975,Etna,IL,,city-us,0,39.389,-88.420,392
-13976,Etna,NE,,city-us,0,41.141,-100.157,558
-13977,Etna,MN,,city-us,0,43.602,-92.347,879
-13978,Etna,OK,,city-us,0,36.371,-97.747,198
-13979,Etna,NH,,city-us,0,43.693,-72.222,2181
-13980,Etna,WI,,city-us,0,42.566,-90.328,326
-13981,Etna,OH,,city-us,0,38.624,-82.654,201
-13983,Etna,WY,,city-us,0,43.033,-111.011,2094
-13985,Etna,GA,,city-us,0,34.008,-85.396,270
-13986,Etna,KY,,city-us,0,37.226,-84.580,127
-13987,Etna,MO,,city-us,0,40.417,-91.979,974
-13989,Etna,IN,,city-us,0,41.274,-85.574,398
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13974,Etna,PA,Allegheny County,,city-us,3385,40.504,-79.949,3409
+258,Aetna,MI,Mecosta County,,city-us,2145,43.519,-85.507,259
+260,Aetna,MI,Newaygo County,,city-us,1338,43.604,-85.865,2194
+13984,Etna,ME,Penobscot County,,city-us,1221,44.764,-69.128,3581
+13982,Etna,OH,Licking County,,city-us,812,39.957,-82.682,1220
+13988,Etna,CA,Siskiyou County,,city-us,680,41.457,-122.895,4715
+256,Aetna,IL,Logan County,,city-us,450,40.099,-89.203,449
+259,Aetna,MI,Missaukee County,,city-us,436,44.301,-85.044,259
+261,Aetna,MN,Pipestone County,,city-us,189,44.147,-96.136,1841
+253,Aetna,KS,Barber County,,city-us,0,37.084,-98.963,228
+254,Aetna,AR,Craighead County,,city-us,0,35.930,-90.555,128
+255,Aetna,TN,Hickman County,,city-us,0,35.655,-87.505,274
+257,Aetna,TN,Marion County,,city-us,0,35.012,-85.495,184
+262,Aetna,AR,Sharp County,,city-us,0,35.936,-91.440,125
+13975,Etna,IL,Coles County,,city-us,0,39.389,-88.420,392
+13976,Etna,NE,Custer County,,city-us,0,41.141,-100.157,558
+13977,Etna,MN,Fillmore County,,city-us,0,43.602,-92.347,879
+13978,Etna,OK,Garfield County,,city-us,0,36.371,-97.747,198
+13979,Etna,NH,Grafton County,,city-us,0,43.693,-72.222,2181
+13980,Etna,WI,Lafayette County,,city-us,0,42.566,-90.328,326
+13981,Etna,OH,Lawrence County,,city-us,0,38.624,-82.654,201
+13983,Etna,WY,Lincoln County,,city-us,0,43.033,-111.011,2094
+13985,Etna,GA,Polk County,,city-us,0,34.008,-85.396,270
+13986,Etna,KY,Pulaski County,,city-us,0,37.226,-84.580,127
+13987,Etna,MO,Scotland County,,city-us,0,40.417,-91.979,974
+13989,Etna,IN,Whitley County,,city-us,0,41.274,-85.574,398

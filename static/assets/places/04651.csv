@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23822,Lamb,IL,,city-us,0,37.532,-88.125,115
-23823,Lamb,KY,,city-us,0,36.759,-85.899,2060
-23824,Lamb,IN,,city-us,0,38.692,-85.188,348
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23822,Lamb,IL,Hardin County,,city-us,0,37.532,-88.125,115
+23823,Lamb,KY,Monroe County,,city-us,0,36.759,-85.899,2060
+23824,Lamb,IN,Switzerland County,,city-us,0,38.692,-85.188,348

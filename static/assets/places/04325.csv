@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22384,Joy,IL,,city-us,364,41.197,-90.880,2016
-22379,Joy,TX,,city-us,0,33.576,-98.216,1504
-22380,Joy,MO,,city-us,0,37.514,-91.674,528
-22381,Joy,WV,,city-us,0,39.233,-80.879,87
-22382,Joy,KS,,city-us,0,37.595,-99.395,417
-22383,Joy,KY,,city-us,0,37.355,-88.386,468
-22385,Joy,OH,,city-us,0,39.470,-81.941,391
-22386,Joy,OK,,city-us,0,34.594,-97.142,634
-22387,Joy,AR,,city-us,0,35.288,-91.951,154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22384,Joy,IL,Mercer County,,city-us,364,41.197,-90.880,2016
+22379,Joy,TX,Clay County,,city-us,0,33.576,-98.216,1504
+22380,Joy,MO,Dent County,,city-us,0,37.514,-91.674,528
+22381,Joy,WV,Doddridge County,,city-us,0,39.233,-80.879,87
+22382,Joy,KS,Kiowa County,,city-us,0,37.595,-99.395,417
+22383,Joy,KY,Livingston County,,city-us,0,37.355,-88.386,468
+22385,Joy,OH,Morgan County,,city-us,0,39.470,-81.941,391
+22386,Joy,OK,Murray County,,city-us,0,34.594,-97.142,634
+22387,Joy,AR,White County,,city-us,0,35.288,-91.951,154

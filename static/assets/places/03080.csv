@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15434,Fort Davis,TX,,city-us,1012,30.588,-103.895,3558
-15435,Fort Davis,AL,,city-us,0,32.243,-85.710,1596
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15434,Fort Davis,TX,Jeff Davis County,,city-us,1012,30.588,-103.895,3558
+15435,Fort Davis,AL,Macon County,,city-us,0,32.243,-85.710,1596

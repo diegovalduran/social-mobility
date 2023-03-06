@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3974,Big Stone,SD,,city-us,324,45.282,-96.519,0
-3973,Big Stone,MN,,city-us,297,45.376,-96.414,2608
-3975,Big Stone,ND,,city-us,26,48.583,-103.331,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3974,Big Stone,SD,Grant County,,city-us,324,45.282,-96.519,0
+3973,Big Stone,MN,Big Stone County,,city-us,297,45.376,-96.414,2608
+3975,Big Stone,ND,Williams County,,city-us,26,48.583,-103.331,0

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30815,New Rochester,OH,,city-us,0,41.230,-84.602,536
-30816,New Rochester,OH,,city-us,0,41.362,-83.507,470
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30815,New Rochester,OH,Paulding County,,city-us,0,41.230,-84.602,536
+30816,New Rochester,OH,Wood County,,city-us,0,41.362,-83.507,470

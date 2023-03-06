@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14842,Ferris,TX,,city-us,2857,32.537,-96.676,4280
-14844,Ferris,MI,,city-us,1401,43.332,-84.895,1945
-14843,Ferris,IL,,city-us,127,40.469,-91.170,1716
-14707,Farris,OK,,city-us,0,34.263,-95.867,824
-14708,Farris,MN,,city-us,0,47.377,-94.703,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14842,Ferris,TX,Dallas County / Ellis County,,city-us,2857,32.537,-96.676,4280
+14844,Ferris,MI,Montcalm County,,city-us,1401,43.332,-84.895,1945
+14843,Ferris,IL,Hancock County,,city-us,127,40.469,-91.170,1716
+14707,Farris,OK,Atoka County,,city-us,0,34.263,-95.867,824
+14708,Farris,MN,Hubbard County,,city-us,0,47.377,-94.703,285

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24837,Light,AR,,city-us,0,36.070,-90.748,508
-24838,Light,MO,,city-us,0,38.061,-91.734,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24837,Light,AR,Greene County,,city-us,0,36.070,-90.748,508
+24838,Light,MO,Maries County,,city-us,0,38.061,-91.734,246

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11472,Delmar,MD,,city-us,3891,38.456,-75.577,6974
-11471,Delmar,PA,,city-us,2796,41.724,-77.356,3650
-11470,Delmar,DE,,city-us,2105,38.457,-75.577,6766
-11466,Delmar,WI,,city-us,1030,44.994,-90.997,3300
-11467,Delmar,IA,,city-us,542,42.002,-90.607,3668
-11468,Delmar,MO,,city-us,0,37.783,-92.550,339
-11469,Delmar,WV,,city-us,0,39.604,-80.007,125
-11473,Delmar,AL,,city-us,0,34.170,-87.606,5817
-11474,Delmer,TX,,city-us,0,31.827,-95.219,95
-11475,Delmer,KY,,city-us,0,37.029,-84.735,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11472,Delmar,MD,Wicomico County,,city-us,3891,38.456,-75.577,6974
+11471,Delmar,PA,Tioga County,,city-us,2796,41.724,-77.356,3650
+11470,Delmar,DE,Sussex County,,city-us,2105,38.457,-75.577,6766
+11466,Delmar,WI,Chippewa County,,city-us,1030,44.994,-90.997,3300
+11467,Delmar,IA,Clinton County,,city-us,542,42.002,-90.607,3668
+11468,Delmar,MO,Laclede County,,city-us,0,37.783,-92.550,339
+11469,Delmar,WV,Monongalia County,,city-us,0,39.604,-80.007,125
+11473,Delmar,AL,Winston County,,city-us,0,34.170,-87.606,5817
+11474,Delmer,TX,Cherokee County,,city-us,0,31.827,-95.219,95
+11475,Delmer,KY,Pulaski County,,city-us,0,37.029,-84.735,192

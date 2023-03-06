@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25803,Louisburg,KS,,city-us,4994,38.619,-94.681,10453
-25800,Louisburg,NC,,city-us,3008,36.099,-78.301,6843
-25804,Louisburg,KS,,city-us,531,37.325,-95.893,10453
-25799,Louisburg,MO,,city-us,136,37.758,-93.139,3128
-25802,Louisburg,MN,,city-us,32,45.166,-96.171,2626
-25801,Louisburg,WI,,city-us,0,42.579,-90.556,481
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25803,Louisburg,KS,Miami County,,city-us,4994,38.619,-94.681,10453
+25800,Louisburg,NC,Franklin County,,city-us,3008,36.099,-78.301,6843
+25804,Louisburg,KS,Montgomery County,,city-us,531,37.325,-95.893,10453
+25799,Louisburg,MO,Dallas County,,city-us,136,37.758,-93.139,3128
+25802,Louisburg,MN,Lac qui Parle County,,city-us,32,45.166,-96.171,2626
+25801,Louisburg,WI,Grant County,,city-us,0,42.579,-90.556,481

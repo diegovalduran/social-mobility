@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37768,Rouse,CA,,city-us,1355,37.620,-121.008,2251
-37766,Rouse,SD,,city-us,181,42.933,-98.180,0
-37767,Rouse,WI,,city-us,0,46.356,-90.466,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37768,Rouse,CA,Stanislaus County,,city-us,1355,37.620,-121.008,2251
+37766,Rouse,SD,Charles Mix County,,city-us,181,42.933,-98.180,0
+37767,Rouse,WI,Iron County,,city-us,0,46.356,-90.466,110

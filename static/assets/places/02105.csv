@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23302,Krum,TX,,city-us,5823,33.262,-97.238,1066
-10552,Crum,WV,,city-us,44,37.906,-82.446,2605
-10551,Crum,KY,,city-us,0,38.460,-83.451,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23302,Krum,TX,Denton County,,city-us,5823,33.262,-97.238,1066
+10552,Crum,WV,Wayne County,,city-us,44,37.906,-82.446,2605
+10551,Crum,KY,Lewis County,,city-us,0,38.460,-83.451,180

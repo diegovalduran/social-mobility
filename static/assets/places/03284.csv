@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16638,Geraldine,AL,,city-us,910,34.351,-86.001,3595
-16637,Geraldine,MT,,city-us,201,47.604,-110.266,4154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16638,Geraldine,AL,DeKalb County,,city-us,910,34.351,-86.001,3595
+16637,Geraldine,MT,Chouteau County,,city-us,201,47.604,-110.266,4154

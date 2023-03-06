@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6441,Caernarvon,PA,,city-us,4591,40.139,-75.953,187
-6440,Caernarvon,PA,,city-us,4278,40.165,-75.883,187
-6442,Caernarvon,LA,,city-us,0,29.864,-89.906,4461
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6441,Caernarvon,PA,Lancaster County,,city-us,4591,40.139,-75.953,187
+6440,Caernarvon,PA,Berks County,,city-us,4278,40.165,-75.883,187
+6442,Caernarvon,LA,St. Bernard Parish,,city-us,0,29.864,-89.906,4461

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44923,Walkersville,MD,,city-us,6366,39.486,-77.352,4327
-44924,Walkersville,WV,,city-us,0,38.869,-80.457,260
-44925,Walkersville,GA,,city-us,0,31.394,-82.276,300
-44926,Walkersville,MO,,city-us,0,39.741,-92.069,339
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44923,Walkersville,MD,Frederick County,,city-us,6366,39.486,-77.352,4327
+44924,Walkersville,WV,Lewis County,,city-us,0,38.869,-80.457,260
+44925,Walkersville,GA,Pierce County,,city-us,0,31.394,-82.276,300
+44926,Walkersville,MO,Shelby County,,city-us,0,39.741,-92.069,339

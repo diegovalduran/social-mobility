@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42679,Terrebonne,,Canada,city-international,111575,45.700,-73.633,841
-42677,Terrebonne,OR,,city-us,1393,44.349,-121.180,2423
-42678,Terrebonne,MN,,city-us,148,47.803,-96.160,1780
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42679,Terrebonne,,,Canada,city-international,111575,45.700,-73.633,841
+42677,Terrebonne,OR,Deschutes County,,city-us,1393,44.349,-121.180,2423
+42678,Terrebonne,MN,Red Lake County,,city-us,148,47.803,-96.160,1780

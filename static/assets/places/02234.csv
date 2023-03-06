@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11219,Deale,MD,,city-us,4710,38.777,-76.555,3148
-11217,Deal,NJ,,city-us,895,40.243,-74.001,15862
-11218,Deal,PA,,city-us,0,39.761,-78.931,258
-11270,Deel,VA,,city-us,0,37.236,-82.088,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11219,Deale,MD,Anne Arundel County,,city-us,4710,38.777,-76.555,3148
+11217,Deal,NJ,Monmouth County,,city-us,895,40.243,-74.001,15862
+11218,Deal,PA,Somerset County,,city-us,0,39.761,-78.931,258
+11270,Deel,VA,Buchanan County,,city-us,0,37.236,-82.088,289

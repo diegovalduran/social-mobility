@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18981,Harris,PA,,city-us,6022,40.768,-77.773,2252
-18984,Harris,MN,,city-us,3285,47.160,-93.521,1754
-18990,Harris,OH,,city-us,2921,41.486,-83.254,1321
-18988,Harris,MI,,city-us,2103,45.809,-87.386,3089
-18982,Harris,MN,,city-us,1127,45.586,-92.975,4052
-18985,Harris,WI,,city-us,753,43.856,-89.431,2318
-18983,Harris,IL,,city-us,310,40.498,-90.393,1019
-18989,Harris,IA,,city-us,150,43.445,-95.434,3500
-18992,Harris,MO,,city-us,64,40.306,-93.350,3453
-18979,Harris,KS,,city-us,11,38.319,-95.436,3163
-18980,Harris,OR,,city-us,0,44.578,-123.460,168
-18986,Harris,IN,,city-us,0,41.415,-86.304,224
-18987,Harris,OK,,city-us,0,33.750,-94.729,264
-18991,Harris,NC,,city-us,0,35.243,-81.874,248
-18993,Harris,AR,,city-us,0,36.031,-94.048,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18981,Harris,PA,Centre County,,city-us,6022,40.768,-77.773,2252
+18984,Harris,MN,Itasca County,,city-us,3285,47.160,-93.521,1754
+18990,Harris,OH,Ottawa County,,city-us,2921,41.486,-83.254,1321
+18988,Harris,MI,Menominee County,,city-us,2103,45.809,-87.386,3089
+18982,Harris,MN,Chisago County,,city-us,1127,45.586,-92.975,4052
+18985,Harris,WI,Marquette County,,city-us,753,43.856,-89.431,2318
+18983,Harris,IL,Fulton County,,city-us,310,40.498,-90.393,1019
+18989,Harris,IA,Osceola County,,city-us,150,43.445,-95.434,3500
+18992,Harris,MO,Sullivan County,,city-us,64,40.306,-93.350,3453
+18979,Harris,KS,Anderson County,,city-us,11,38.319,-95.436,3163
+18980,Harris,OR,Benton County,,city-us,0,44.578,-123.460,168
+18986,Harris,IN,Marshall County,,city-us,0,41.415,-86.304,224
+18987,Harris,OK,McCurtain County,,city-us,0,33.750,-94.729,264
+18991,Harris,NC,Rutherford County,,city-us,0,35.243,-81.874,248
+18993,Harris,AR,Washington County,,city-us,0,36.031,-94.048,289

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32747,Ovid,MI,,city-us,2185,42.984,-84.434,207
-32746,Ovid,MI,,city-us,2170,41.854,-84.999,207
-32748,Ovid,MI,,city-us,1469,43.003,-84.376,4389
-32751,Ovid,NY,,city-us,542,42.676,-76.823,5221
-32750,Ovid,CO,,city-us,264,40.961,-102.388,2145
-32749,Ovid,ND,,city-us,39,46.319,-98.108,0
-32745,Ovid,ID,,city-us,0,42.289,-111.398,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32747,Ovid,MI,Clinton County,,city-us,2185,42.984,-84.434,207
+32746,Ovid,MI,Branch County,,city-us,2170,41.854,-84.999,207
+32748,Ovid,MI,Clinton County / Shiawassee County,,city-us,1469,43.003,-84.376,4389
+32751,Ovid,NY,Seneca County,,city-us,542,42.676,-76.823,5221
+32750,Ovid,CO,Sedgwick County,,city-us,264,40.961,-102.388,2145
+32749,Ovid,ND,LaMoure County,,city-us,39,46.319,-98.108,0
+32745,Ovid,ID,Bear Lake County,,city-us,0,42.289,-111.398,95

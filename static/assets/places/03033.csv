@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15222,Flournoy,NE,,city-us,265,42.201,-96.716,204
-15221,Flournoy,CA,,city-us,148,39.920,-122.436,2910
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15222,Flournoy,NE,Thurston County,,city-us,265,42.201,-96.716,204
+15221,Flournoy,CA,Tehama County,,city-us,148,39.920,-122.436,2910

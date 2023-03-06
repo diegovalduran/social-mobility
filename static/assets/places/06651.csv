@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33834,Pettit,OK,,city-us,646,35.765,-94.966,2161
-33835,Pettit,KY,,city-us,0,37.689,-87.132,265
-33836,Pettit,IN,,city-us,0,40.417,-86.709,394
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33834,Pettit,OK,Cherokee County,,city-us,646,35.765,-94.966,2161
+33835,Pettit,KY,Daviess County,,city-us,0,37.689,-87.132,265
+33836,Pettit,IN,Tippecanoe County,,city-us,0,40.417,-86.709,394

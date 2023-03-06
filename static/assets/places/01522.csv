@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7720,Central High,OK,,city-us,1202,34.623,-98.090,2991
-7719,Central High,TX,,city-us,0,31.707,-95.054,1668
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7720,Central High,OK,Stephens County,,city-us,1202,34.623,-98.090,2991
+7719,Central High,TX,Cherokee County,,city-us,0,31.707,-95.054,1668

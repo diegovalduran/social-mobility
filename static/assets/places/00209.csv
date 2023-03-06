@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1110,Andrew,IA,,city-us,382,42.154,-90.592,6617
-1109,Andrew,WV,,city-us,0,38.100,-81.717,86
-1111,Andrew,IL,,city-us,0,39.896,-89.640,185
-1112,Andrew,LA,,city-us,0,30.085,-92.243,145
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1110,Andrew,IA,Jackson County,,city-us,382,42.154,-90.592,6617
+1109,Andrew,WV,Boone County,,city-us,0,38.100,-81.717,86
+1111,Andrew,IL,Sangamon County,,city-us,0,39.896,-89.640,185
+1112,Andrew,LA,Vermilion Parish,,city-us,0,30.085,-92.243,145

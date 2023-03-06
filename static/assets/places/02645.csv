@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13126,El Dorado,AR,,city-us,17339,33.208,-92.666,12070
-13125,El Dorado,CA,,city-us,4096,38.683,-120.848,1048
-13124,El Dorado,KS,,city-us,816,37.773,-96.918,650
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13126,El Dorado,AR,Union County,,city-us,17339,33.208,-92.666,12070
+13125,El Dorado,CA,El Dorado County,,city-us,4096,38.683,-120.848,1048
+13124,El Dorado,KS,Butler County,,city-us,816,37.773,-96.918,650

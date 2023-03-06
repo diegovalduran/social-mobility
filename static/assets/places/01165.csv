@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5849,Buckhart,IL,,city-us,1831,39.662,-89.336,222
-5850,Buckhart,MO,,city-us,0,36.894,-92.319,424
-5851,Buckhart,IL,,city-us,0,39.750,-89.445,124
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5849,Buckhart,IL,Christian County,,city-us,1831,39.662,-89.336,222
+5850,Buckhart,MO,Douglas County,,city-us,0,36.894,-92.319,424
+5851,Buckhart,IL,Sangamon County,,city-us,0,39.750,-89.445,124

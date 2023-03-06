@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42062,Sundell,MI,,city-us,1212,46.351,-86.966,3881
-42058,Sundal,MN,,city-us,153,47.449,-96.250,1792
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42062,Sundell,MI,Alger County,,city-us,1212,46.351,-86.966,3881
+42058,Sundal,MN,Norman County,,city-us,153,47.449,-96.250,1792

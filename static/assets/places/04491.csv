@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23114,Kirksville,MO,,city-us,17542,40.195,-92.583,18702
-23115,Kirksville,KY,,city-us,0,37.665,-84.409,268
-23116,Kirksville,IN,,city-us,0,39.046,-86.613,383
-23117,Kirksville,IL,,city-us,0,39.571,-88.668,162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23114,Kirksville,MO,Adair County,,city-us,17542,40.195,-92.583,18702
+23115,Kirksville,KY,Madison County,,city-us,0,37.665,-84.409,268
+23116,Kirksville,IN,Monroe County,,city-us,0,39.046,-86.613,383
+23117,Kirksville,IL,Moultrie County,,city-us,0,39.571,-88.668,162

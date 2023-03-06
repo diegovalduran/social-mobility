@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12324,Duffee,MS,,city-us,0,32.489,-88.927,1251
-12327,Duffy,WV,,city-us,0,38.791,-80.444,149
-12328,Duffy,OH,,city-us,0,39.644,-80.872,105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12324,Duffee,MS,Newton County,,city-us,0,32.489,-88.927,1251
+12327,Duffy,WV,Lewis County,,city-us,0,38.791,-80.444,149
+12328,Duffy,OH,Monroe County,,city-us,0,39.644,-80.872,105

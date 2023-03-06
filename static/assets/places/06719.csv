@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34142,Pine Grove Mills,MI,,city-us,2773,42.371,-85.821,3989
-34141,Pine Grove Mills,PA,,city-us,1480,40.734,-77.886,3258
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34142,Pine Grove Mills,MI,Van Buren County,,city-us,2773,42.371,-85.821,3989
+34141,Pine Grove Mills,PA,Centre County,,city-us,1480,40.734,-77.886,3258

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16770,Gilboa,NY,,city-us,1139,42.431,-74.454,4711
-16769,Gilboa,OH,,city-us,165,41.018,-83.922,4070
-16768,Gilboa,WV,,city-us,0,38.303,-80.936,303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16770,Gilboa,NY,Schoharie County,,city-us,1139,42.431,-74.454,4711
+16769,Gilboa,OH,Putnam County,,city-us,165,41.018,-83.922,4070
+16768,Gilboa,WV,Nicholas County,,city-us,0,38.303,-80.936,303

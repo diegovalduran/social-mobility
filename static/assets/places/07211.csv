@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36448,Rich Hill,MO,,city-us,1434,39.838,-93.474,179
-36446,Rich Hill,MO,,city-us,1242,38.096,-94.361,4108
-36449,Rich Hill,OH,,city-us,503,39.889,-81.736,1243
-36447,Rich Hill,OH,,city-us,0,40.321,-82.727,365
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36448,Rich Hill,MO,Livingston County,,city-us,1434,39.838,-93.474,179
+36446,Rich Hill,MO,Bates County,,city-us,1242,38.096,-94.361,4108
+36449,Rich Hill,OH,Muskingum County,,city-us,503,39.889,-81.736,1243
+36447,Rich Hill,OH,Knox County,,city-us,0,40.321,-82.727,365

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23174,Klondyke,MN,,city-us,0,46.442,-93.966,425
-23175,Klondyke,IN,,city-us,0,39.791,-87.339,293
-23176,Klondyke,IN,,city-us,0,39.669,-87.437,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23174,Klondyke,MN,Crow Wing County,,city-us,0,46.442,-93.966,425
+23175,Klondyke,IN,Parke County,,city-us,0,39.791,-87.339,293
+23176,Klondyke,IN,Vermillion County,,city-us,0,39.669,-87.437,272

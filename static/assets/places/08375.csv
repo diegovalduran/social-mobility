@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42317,Switzerland,,,country,8563760,46.818,8.228,77865
-42315,Switzerland,OH,,city-us,414,39.818,-80.889,1198
-42314,Switzerland,SC,,city-us,0,32.428,-81.009,760
-42316,Switzerland,FL,,city-us,0,30.076,-81.647,1318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42317,Switzerland,,,,country,8563760,46.818,8.228,77865
+42315,Switzerland,OH,Monroe County,,city-us,414,39.818,-80.889,1198
+42314,Switzerland,SC,Jasper County,,city-us,0,32.428,-81.009,760
+42316,Switzerland,FL,St. Johns County,,city-us,0,30.076,-81.647,1318

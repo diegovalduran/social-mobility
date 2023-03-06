@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4019,Binghamton,NY,,city-us,47566,42.099,-75.918,43835
-4020,Binghamton,WI,,city-us,0,44.458,-88.456,304
-4021,Binghamton,CA,,city-us,0,38.351,-121.823,158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4019,Binghamton,NY,Broome County,,city-us,47566,42.099,-75.918,43835
+4020,Binghamton,WI,Outagamie County,,city-us,0,44.458,-88.456,304
+4021,Binghamton,CA,Solano County,,city-us,0,38.351,-121.823,158

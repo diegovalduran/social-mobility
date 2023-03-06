@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19180,Hartwell,GA,,city-us,4503,34.353,-82.932,2848
-19181,Hartwell,MO,,city-us,67,38.435,-93.935,2778
-19182,Hartwell,IN,,city-us,0,38.322,-87.180,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19180,Hartwell,GA,Hart County,,city-us,4503,34.353,-82.932,2848
+19181,Hartwell,MO,Henry County,,city-us,67,38.435,-93.935,2778
+19182,Hartwell,IN,Pike County,,city-us,0,38.322,-87.180,300

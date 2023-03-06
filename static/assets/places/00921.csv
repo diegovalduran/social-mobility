@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4855,Bowles,CA,,city-us,262,36.604,-119.751,4030
-4640,Boles,AR,,city-us,166,34.779,-94.049,630
-4639,Boles,MO,,city-us,0,38.531,-90.890,388
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4855,Bowles,CA,Fresno County,,city-us,262,36.604,-119.751,4030
+4640,Boles,AR,Scott County,,city-us,166,34.779,-94.049,630
+4639,Boles,MO,Franklin County,,city-us,0,38.531,-90.890,388

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24021,Las Palmas,,Spain,city-international,378675,28.127,-15.431,35349
-24020,Las Palmas,TX,,city-us,47,26.953,-99.275,417
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24021,Las Palmas,,,Spain,city-international,378675,28.127,-15.431,35349
+24020,Las Palmas,TX,Zapata County,,city-us,47,26.953,-99.275,417

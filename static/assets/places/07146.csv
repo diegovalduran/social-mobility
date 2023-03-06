@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36192,Redwood,TX,,city-us,4003,29.815,-97.913,2498
-36194,Redwood,OR,,city-us,2702,42.422,-123.387,2347
-36193,Redwood,NY,,city-us,294,44.301,-75.801,2679
-36195,Redwood,MS,,city-us,84,32.478,-90.804,853
-36191,Redwood,VA,,city-us,0,37.020,-79.812,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36192,Redwood,TX,Guadalupe County,,city-us,4003,29.815,-97.913,2498
+36194,Redwood,OR,Josephine County,,city-us,2702,42.422,-123.387,2347
+36193,Redwood,NY,Jefferson County,,city-us,294,44.301,-75.801,2679
+36195,Redwood,MS,Warren County,,city-us,84,32.478,-90.804,853
+36191,Redwood,VA,Franklin County,,city-us,0,37.020,-79.812,271

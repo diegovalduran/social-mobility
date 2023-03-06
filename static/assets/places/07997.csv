@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40408,South Park,PA,,city-us,13705,40.299,-79.994,8716
-40410,South Park,MI,,city-us,10654,42.967,-82.471,2279
-40411,South Park,WY,,city-us,1896,43.422,-110.793,2122
-40409,South Park,IN,,city-us,0,41.401,-85.721,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40408,South Park,PA,Allegheny County,,city-us,13705,40.299,-79.994,8716
+40410,South Park,MI,St. Clair County,,city-us,10654,42.967,-82.471,2279
+40411,South Park,WY,Teton County,,city-us,1896,43.422,-110.793,2122
+40409,South Park,IN,Kosciusko County,,city-us,0,41.401,-85.721,199

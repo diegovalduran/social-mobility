@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10094,Coulterville,IL,,city-us,827,38.186,-89.606,2787
-10093,Coulterville,CA,,city-us,44,37.710,-120.198,3763
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10094,Coulterville,IL,Randolph County,,city-us,827,38.186,-89.606,2787
+10093,Coulterville,CA,Mariposa County,,city-us,44,37.710,-120.198,3763

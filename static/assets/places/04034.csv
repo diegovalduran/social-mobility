@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20734,Horntown,VA,,city-us,438,37.970,-75.464,586
-20735,Horntown,OK,,city-us,93,35.087,-96.248,3209
-20736,Horntown,KY,,city-us,0,37.068,-85.006,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20734,Horntown,VA,Accomack County,,city-us,438,37.970,-75.464,586
+20735,Horntown,OK,Hughes County,,city-us,93,35.087,-96.248,3209
+20736,Horntown,KY,Russell County,,city-us,0,37.068,-85.006,93

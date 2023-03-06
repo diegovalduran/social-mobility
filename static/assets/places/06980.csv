@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35493,Protemus,KY,,city-us,0,36.553,-88.479,86
-35494,Protemus,TN,,city-us,0,36.403,-89.236,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35493,Protemus,KY,Calloway County,,city-us,0,36.553,-88.479,86
+35494,Protemus,TN,Obion County,,city-us,0,36.403,-89.236,210

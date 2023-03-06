@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26421,Maher,WV,,city-us,0,37.769,-82.328,112
-26422,Maher,CO,,city-us,0,38.646,-107.585,247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26421,Maher,WV,Mingo County,,city-us,0,37.769,-82.328,112
+26422,Maher,CO,Montrose County,,city-us,0,38.646,-107.585,247

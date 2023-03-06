@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33382,Paynesville,MN,,city-us,2449,45.381,-94.712,4484
-33380,Paynesville,MI,,city-us,645,46.560,-89.147,4880
-33381,Paynesville,MO,,city-us,62,39.263,-90.900,3220
-33376,Paynesville,CA,,city-us,0,38.809,-119.779,448
-33377,Paynesville,VA,,city-us,0,37.332,-81.891,226
-33378,Paynesville,IN,,city-us,0,38.621,-85.493,373
-33379,Paynesville,WV,,city-us,0,37.331,-81.891,677
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33382,Paynesville,MN,Stearns County,,city-us,2449,45.381,-94.712,4484
+33380,Paynesville,MI,Ontonagon County,,city-us,645,46.560,-89.147,4880
+33381,Paynesville,MO,Pike County,,city-us,62,39.263,-90.900,3220
+33376,Paynesville,CA,Alpine County,,city-us,0,38.809,-119.779,448
+33377,Paynesville,VA,Buchanan County,,city-us,0,37.332,-81.891,226
+33378,Paynesville,IN,Jefferson County,,city-us,0,38.621,-85.493,373
+33379,Paynesville,WV,McDowell County,,city-us,0,37.331,-81.891,677

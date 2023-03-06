@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43639,Tylersville,OH,,city-us,0,39.358,-84.421,706
-43640,Tylersville,PA,,city-us,0,40.991,-77.425,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43639,Tylersville,OH,Butler County,,city-us,0,39.358,-84.421,706
+43640,Tylersville,PA,Clinton County,,city-us,0,40.991,-77.425,235

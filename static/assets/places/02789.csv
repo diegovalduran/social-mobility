@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13873,Erie,PA,,city-us,93999,42.129,-80.085,33765
-13871,Erie,CO,,city-us,31686,40.040,-105.038,7475
-13877,Erie,MI,,city-us,4299,41.772,-83.489,6887
-13882,Erie,IL,,city-us,1880,41.647,-90.125,400
-13870,Erie,MN,,city-us,1726,46.853,-95.752,2679
-13878,Erie,KS,,city-us,1259,37.602,-95.305,4846
-13879,Erie,OH,,city-us,1160,41.545,-83.013,1328
-13881,Erie,KS,,city-us,108,37.519,-97.759,137
-13872,Erie,ND,,city-us,54,47.116,-97.389,2090
-13874,Erie,IN,,city-us,0,38.883,-86.381,286
-13875,Erie,MO,,city-us,0,36.728,-94.363,343
-13876,Erie,IN,,city-us,0,40.801,-85.991,148
-13880,Erie,MN,,city-us,0,48.070,-95.722,353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13873,Erie,PA,Erie County,,city-us,93999,42.129,-80.085,33765
+13871,Erie,CO,Boulder County / Weld County,,city-us,31686,40.040,-105.038,7475
+13877,Erie,MI,Monroe County,,city-us,4299,41.772,-83.489,6887
+13882,Erie,IL,Whiteside County,,city-us,1880,41.647,-90.125,400
+13870,Erie,MN,Becker County,,city-us,1726,46.853,-95.752,2679
+13878,Erie,KS,Neosho County,,city-us,1259,37.602,-95.305,4846
+13879,Erie,OH,Ottawa County,,city-us,1160,41.545,-83.013,1328
+13881,Erie,KS,Sedgwick County,,city-us,108,37.519,-97.759,137
+13872,Erie,ND,Cass County,,city-us,54,47.116,-97.389,2090
+13874,Erie,IN,Lawrence County,,city-us,0,38.883,-86.381,286
+13875,Erie,MO,McDonald County,,city-us,0,36.728,-94.363,343
+13876,Erie,IN,Miami County,,city-us,0,40.801,-85.991,148
+13880,Erie,MN,Pennington County,,city-us,0,48.070,-95.722,353

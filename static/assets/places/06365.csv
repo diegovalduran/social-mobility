@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32486,Orme,TN,,city-us,87,35.012,-85.805,6223
-32487,Orme,MD,,city-us,0,38.642,-76.766,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32486,Orme,TN,Marion County,,city-us,87,35.012,-85.805,6223
+32487,Orme,MD,Prince George's County,,city-us,0,38.642,-76.766,144

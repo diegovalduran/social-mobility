@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13535,Elmo,TX,,city-us,768,32.722,-96.165,1407
-13533,Elmo,UT,,city-us,401,39.390,-110.815,1955
-13538,Elmo,MN,,city-us,325,46.241,-95.346,1706
-13536,Elmo,MT,,city-us,159,47.831,-114.350,2666
-13537,Elmo,MO,,city-us,106,40.518,-95.116,2959
-13532,Elmo,KS,,city-us,0,38.684,-97.230,2940
-13534,Elmo,WI,,city-us,0,42.643,-90.436,299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13535,Elmo,TX,Kaufman County,,city-us,768,32.722,-96.165,1407
+13533,Elmo,UT,Emery County,,city-us,401,39.390,-110.815,1955
+13538,Elmo,MN,Otter Tail County,,city-us,325,46.241,-95.346,1706
+13536,Elmo,MT,Lake County,,city-us,159,47.831,-114.350,2666
+13537,Elmo,MO,Nodaway County,,city-us,106,40.518,-95.116,2959
+13532,Elmo,KS,Dickinson County,,city-us,0,38.684,-97.230,2940
+13534,Elmo,WI,Grant County,,city-us,0,42.643,-90.436,299

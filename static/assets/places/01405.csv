@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7080,Carson,CA,,city-us,93535,33.831,-118.282,17484
-7083,Carson,WA,,city-us,2279,45.725,-121.820,2840
-7081,Carson,WI,,city-us,1368,44.549,-89.737,2153
-7082,Carson,IA,,city-us,765,41.237,-95.418,3370
-7074,Carson,MN,,city-us,283,43.971,-95.049,2190
-7078,Carson,ND,,city-us,262,46.418,-101.565,3470
-7076,Carson,IL,,city-us,109,39.150,-89.001,834
-7073,Carson,OR,,city-us,0,44.936,-117.176,656
-7075,Carson,VA,,city-us,0,37.035,-77.396,476
-7077,Carson,KY,,city-us,0,38.680,-84.963,125
-7079,Carson,MS,,city-us,0,31.538,-89.795,581
-7084,Carson,NM,,city-us,0,36.364,-105.765,1052
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7080,Carson,CA,Los Angeles County,,city-us,93535,33.831,-118.282,17484
+7083,Carson,WA,Skamania County,,city-us,2279,45.725,-121.820,2840
+7081,Carson,WI,Portage County,,city-us,1368,44.549,-89.737,2153
+7082,Carson,IA,Pottawattamie County,,city-us,765,41.237,-95.418,3370
+7074,Carson,MN,Cottonwood County,,city-us,283,43.971,-95.049,2190
+7078,Carson,ND,Grant County,,city-us,262,46.418,-101.565,3470
+7076,Carson,IL,Fayette County,,city-us,109,39.150,-89.001,834
+7073,Carson,OR,Baker County,,city-us,0,44.936,-117.176,656
+7075,Carson,VA,Dinwiddie County,,city-us,0,37.035,-77.396,476
+7077,Carson,KY,Gallatin County,,city-us,0,38.680,-84.963,125
+7079,Carson,MS,Jefferson Davis County,,city-us,0,31.538,-89.795,581
+7084,Carson,NM,Taos County,,city-us,0,36.364,-105.765,1052

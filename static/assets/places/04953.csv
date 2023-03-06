@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25499,Lola,KS,,city-us,296,37.161,-95.008,566
-25500,Lola,KY,,city-us,0,37.319,-88.308,176
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25499,Lola,KS,Cherokee County,,city-us,296,37.161,-95.008,566
+25500,Lola,KY,Livingston County,,city-us,0,37.319,-88.308,176

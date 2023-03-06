@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18207,Groningen,,Netherlands,city-international,201462,53.217,6.567,21303
-18206,Groningen,MN,,city-us,30,46.151,-92.924,697
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18207,Groningen,,,Netherlands,city-international,201462,53.217,6.567,21303
+18206,Groningen,MN,Pine County,,city-us,30,46.151,-92.924,697

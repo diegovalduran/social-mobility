@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1274,Apple Grove,WV,,city-us,153,38.665,-82.169,585
-1273,Apple Grove,KY,,city-us,0,37.055,-86.073,87
-1275,Apple Grove,WV,,city-us,0,37.438,-81.805,273
-1276,Apple Grove,OH,,city-us,0,38.887,-81.868,299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1274,Apple Grove,WV,Mason County,,city-us,153,38.665,-82.169,585
+1273,Apple Grove,KY,Barren County,,city-us,0,37.055,-86.073,87
+1275,Apple Grove,WV,McDowell County,,city-us,0,37.438,-81.805,273
+1276,Apple Grove,OH,Meigs County,,city-us,0,38.887,-81.868,299

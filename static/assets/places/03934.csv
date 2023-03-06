@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20148,Hillside Colony,MT,,city-us,241,48.979,-112.068,314
-20147,Hillside Colony,SD,,city-us,0,44.739,-98.046,447
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20148,Hillside Colony,MT,Toole County,,city-us,241,48.979,-112.068,314
+20147,Hillside Colony,SD,Spink County,,city-us,0,44.739,-98.046,447

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5553,Brookview,MD,,city-us,45,38.575,-75.796,3377
-5554,Brookview,NJ,,city-us,0,40.421,-74.474,361
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5553,Brookview,MD,Dorchester County,,city-us,45,38.575,-75.796,3377
+5554,Brookview,NJ,Middlesex County,,city-us,0,40.421,-74.474,361

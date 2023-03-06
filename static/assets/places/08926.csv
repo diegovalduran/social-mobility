@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44776,Wading River,NY,,city-us,8304,40.950,-72.843,4222
-44775,Wading River,NJ,,city-us,1355,39.658,-74.448,13084
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44776,Wading River,NY,Suffolk County,,city-us,8304,40.950,-72.843,4222
+44775,Wading River,NJ,Burlington County,,city-us,1355,39.658,-74.448,13084

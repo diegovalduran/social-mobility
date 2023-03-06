@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41168,Stafford,NJ,,city-us,29498,39.706,-74.264,17194
-41163,Stafford,TX,,city-us,17364,29.626,-95.566,13631
-41160,Stafford,CT,,city-us,11412,41.984,-72.308,8991
-41164,Stafford,NY,,city-us,2405,42.990,-78.084,3707
-41161,Stafford,OR,,city-us,1895,45.358,-122.721,1841
-41171,Stafford,KS,,city-us,936,37.962,-98.601,4402
-41170,Stafford,MN,,city-us,262,48.761,-95.811,1873
-41167,Stafford,OH,,city-us,66,39.713,-81.276,3911
-41169,Stafford,ND,,city-us,33,48.944,-101.947,0
-41162,Stafford,OK,,city-us,0,35.537,-99.122,1091
-41165,Stafford,NE,,city-us,0,42.328,-98.447,206
-41166,Stafford,CA,,city-us,0,40.454,-124.054,494
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41168,Stafford,NJ,Ocean County,,city-us,29498,39.706,-74.264,17194
+41163,Stafford,TX,Fort Bend County / Harris County,,city-us,17364,29.626,-95.566,13631
+41160,Stafford,CT,Capitol Planning Region,,city-us,11412,41.984,-72.308,8991
+41164,Stafford,NY,Genesee County,,city-us,2405,42.990,-78.084,3707
+41161,Stafford,OR,Clackamas County,,city-us,1895,45.358,-122.721,1841
+41171,Stafford,KS,Stafford County,,city-us,936,37.962,-98.601,4402
+41170,Stafford,MN,Roseau County,,city-us,262,48.761,-95.811,1873
+41167,Stafford,OH,Monroe County,,city-us,66,39.713,-81.276,3911
+41169,Stafford,ND,Renville County,,city-us,33,48.944,-101.947,0
+41162,Stafford,OK,Custer County,,city-us,0,35.537,-99.122,1091
+41165,Stafford,NE,Holt County,,city-us,0,42.328,-98.447,206
+41166,Stafford,CA,Humboldt County,,city-us,0,40.454,-124.054,494

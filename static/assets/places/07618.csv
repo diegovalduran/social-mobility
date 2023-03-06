@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38636,Sano,,Japan,city-international,114842,36.314,139.578,752
-38635,Sano,KY,,city-us,0,37.108,-85.104,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38636,Sano,,,Japan,city-international,114842,36.314,139.578,752
+38635,Sano,KY,Russell County,,city-us,0,37.108,-85.104,89

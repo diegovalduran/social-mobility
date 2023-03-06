@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22955,Kinder,LA,,city-us,2080,30.485,-92.851,6481
-22956,Kinder,IN,,city-us,0,39.544,-86.197,305
-22957,Kinder,WV,,city-us,0,38.168,-82.144,116
-22958,Kinder,MO,,city-us,0,37.016,-90.078,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22955,Kinder,LA,Allen Parish,,city-us,2080,30.485,-92.851,6481
+22956,Kinder,IN,Johnson County,,city-us,0,39.544,-86.197,305
+22957,Kinder,WV,Lincoln County,,city-us,0,38.168,-82.144,116
+22958,Kinder,MO,Stoddard County,,city-us,0,37.016,-90.078,261

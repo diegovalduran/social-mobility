@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45566,Wausau,WI,,city-us,39575,44.959,-89.630,29888
-45567,Wausau,FL,,city-us,376,30.632,-85.589,2184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45566,Wausau,WI,Marathon County,,city-us,39575,44.959,-89.630,29888
+45567,Wausau,FL,Washington County,,city-us,376,30.632,-85.589,2184

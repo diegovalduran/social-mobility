@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29791,Mount Jackson,VA,,city-us,1987,38.746,-78.642,15007
-29790,Mount Jackson,PA,,city-us,0,40.962,-80.435,2138
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29791,Mount Jackson,VA,Shenandoah County,,city-us,1987,38.746,-78.642,15007
+29790,Mount Jackson,PA,Lawrence County,,city-us,0,40.962,-80.435,2138

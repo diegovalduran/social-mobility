@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4129,Black Creek,PA,,city-us,1904,40.973,-76.162,2893
-4131,Black Creek,WI,,city-us,1355,44.477,-88.451,19708
-4132,Black Creek,NC,,city-us,685,35.635,-77.933,2122
-4130,Black Creek,OH,,city-us,623,40.685,-84.744,1289
-4128,Black Creek,GA,,city-us,0,32.166,-81.489,654
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4129,Black Creek,PA,Luzerne County,,city-us,1904,40.973,-76.162,2893
+4131,Black Creek,WI,Outagamie County,,city-us,1355,44.477,-88.451,19708
+4132,Black Creek,NC,Wilson County,,city-us,685,35.635,-77.933,2122
+4130,Black Creek,OH,Mercer County,,city-us,623,40.685,-84.744,1289
+4128,Black Creek,GA,Bryan County,,city-us,0,32.166,-81.489,654

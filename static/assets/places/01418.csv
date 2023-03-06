@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7150,Casa Blanca,AZ,,city-us,1273,33.120,-111.888,4464
-7149,Casa Blanca,NM,,city-us,0,35.046,-107.471,312
-7151,Casa Blanca,TX,,city-us,0,26.298,-98.610,360
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7150,Casa Blanca,AZ,Pinal County,,city-us,1273,33.120,-111.888,4464
+7149,Casa Blanca,NM,Cibola County,,city-us,0,35.046,-107.471,312
+7151,Casa Blanca,TX,Starr County,,city-us,0,26.298,-98.610,360

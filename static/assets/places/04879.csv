@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25092,Lingo,MO,,city-us,0,39.768,-92.821,1909
-25093,Lingo,NM,,city-us,0,33.788,-103.115,766
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25092,Lingo,MO,Macon County,,city-us,0,39.768,-92.821,1909
+25093,Lingo,NM,Roosevelt County,,city-us,0,33.788,-103.115,766

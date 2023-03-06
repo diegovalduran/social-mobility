@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38731,Saratoga Springs,UT,,city-us,44164,40.349,-111.905,6206
-38730,Saratoga Springs,NY,,city-us,28301,43.083,-73.785,29265
-38729,Saratoga Springs,CA,,city-us,0,39.175,-122.981,4110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38731,Saratoga Springs,UT,Utah County,,city-us,44164,40.349,-111.905,6206
+38730,Saratoga Springs,NY,Saratoga County,,city-us,28301,43.083,-73.785,29265
+38729,Saratoga Springs,CA,Lake County,,city-us,0,39.175,-122.981,4110

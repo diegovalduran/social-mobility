@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3928,Big Lake,MN,,city-us,8080,45.342,-93.715,2158
-3925,Big Lake,AK,,city-us,2888,61.545,-149.818,3531
-3927,Big Lake,TX,,city-us,2850,31.192,-101.460,6480
-3929,Big Lake,WA,,city-us,2279,48.403,-122.241,2803
-3923,Big Lake,MN,,city-us,337,46.701,-92.621,499
-3924,Big Lake,MO,,city-us,71,40.082,-95.350,3375
-3926,Big Lake,IN,,city-us,0,41.269,-85.498,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3928,Big Lake,MN,Sherburne County,,city-us,8080,45.342,-93.715,2158
+3925,Big Lake,AK,Matanuska-Susitna Borough,,city-us,2888,61.545,-149.818,3531
+3927,Big Lake,TX,Reagan County,,city-us,2850,31.192,-101.460,6480
+3929,Big Lake,WA,Skagit County,,city-us,2279,48.403,-122.241,2803
+3923,Big Lake,MN,Carlton County,,city-us,337,46.701,-92.621,499
+3924,Big Lake,MO,Holt County,,city-us,71,40.082,-95.350,3375
+3926,Big Lake,IN,Noble County,,city-us,0,41.269,-85.498,0

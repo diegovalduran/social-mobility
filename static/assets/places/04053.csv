@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20852,Howe,TX,,city-us,3615,33.509,-96.612,7369
-20854,Howe,IN,,city-us,952,41.721,-85.421,1354
-20855,Howe,OK,,city-us,625,34.951,-94.637,3899
-20824,How,WI,,city-us,529,44.978,-88.429,1994
-20857,Howe,PA,,city-us,376,40.496,-77.089,168
-20850,Howe,PA,,city-us,205,41.580,-79.079,168
-20851,Howe,ND,,city-us,9,46.088,-101.799,0
-20849,Howe,ID,,city-us,0,43.784,-113.005,255
-20853,Howe,PA,,city-us,0,41.215,-79.102,234
-20856,Howe,NE,,city-us,0,40.322,-95.819,473
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20852,Howe,TX,Grayson County,,city-us,3615,33.509,-96.612,7369
+20854,Howe,IN,LaGrange County,,city-us,952,41.721,-85.421,1354
+20855,Howe,OK,Le Flore County,,city-us,625,34.951,-94.637,3899
+20824,How,WI,Oconto County,,city-us,529,44.978,-88.429,1994
+20857,Howe,PA,Perry County,,city-us,376,40.496,-77.089,168
+20850,Howe,PA,Forest County,,city-us,205,41.580,-79.079,168
+20851,Howe,ND,Grant County,,city-us,9,46.088,-101.799,0
+20849,Howe,ID,Butte County,,city-us,0,43.784,-113.005,255
+20853,Howe,PA,Jefferson County,,city-us,0,41.215,-79.102,234
+20856,Howe,NE,Nemaha County,,city-us,0,40.322,-95.819,473

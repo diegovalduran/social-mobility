@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35392,Primrose,WI,,city-us,682,42.901,-89.662,2204
-35393,Primrose,AK,,city-us,99,60.342,-149.296,2311
-35396,Primrose,ND,,city-us,69,47.455,-97.537,0
-35391,Primrose,NE,,city-us,56,41.623,-98.238,3129
-35394,Primrose,KY,,city-us,0,37.602,-83.609,113
-35395,Primrose,GA,,city-us,0,33.143,-84.742,372
-35397,Primrose,TX,,city-us,0,32.433,-95.604,1097
-35398,Primrose,OH,,city-us,0,41.680,-84.437,304
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35392,Primrose,WI,Dane County,,city-us,682,42.901,-89.662,2204
+35393,Primrose,AK,Kenai Peninsula Borough,,city-us,99,60.342,-149.296,2311
+35396,Primrose,ND,Steele County,,city-us,69,47.455,-97.537,0
+35391,Primrose,NE,Boone County,,city-us,56,41.623,-98.238,3129
+35394,Primrose,KY,Lee County,,city-us,0,37.602,-83.609,113
+35395,Primrose,GA,Meriwether County,,city-us,0,33.143,-84.742,372
+35397,Primrose,TX,Van Zandt County,,city-us,0,32.433,-95.604,1097
+35398,Primrose,OH,Williams County,,city-us,0,41.680,-84.437,304

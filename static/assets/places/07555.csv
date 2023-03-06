@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38370,Saltillo,,Mexico,city-international,864431,25.433,-101.000,22933
-38367,Saltillo,MS,,city-us,4910,34.376,-88.682,2962
-38363,Saltillo,TN,,city-us,425,35.378,-88.209,4559
-38365,Saltillo,PA,,city-us,312,40.211,-78.007,4166
-38369,Saltillo,IN,,city-us,93,38.665,-86.289,3138
-38364,Saltillo,TX,,city-us,0,33.184,-95.326,892
-38366,Saltillo,NE,,city-us,0,40.700,-96.683,1730
-38368,Saltillo,OH,,city-us,0,39.794,-82.150,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38370,Saltillo,,,Mexico,city-international,864431,25.433,-101.000,22933
+38367,Saltillo,MS,Lee County,,city-us,4910,34.376,-88.682,2962
+38363,Saltillo,TN,Hardin County,,city-us,425,35.378,-88.209,4559
+38365,Saltillo,PA,Huntingdon County,,city-us,312,40.211,-78.007,4166
+38369,Saltillo,IN,Washington County,,city-us,93,38.665,-86.289,3138
+38364,Saltillo,TX,Hopkins County,,city-us,0,33.184,-95.326,892
+38366,Saltillo,NE,Lancaster County,,city-us,0,40.700,-96.683,1730
+38368,Saltillo,OH,Perry County,,city-us,0,39.794,-82.150,180

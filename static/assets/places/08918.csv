@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44737,Wabash,IN,,city-us,10349,40.798,-85.821,6155
-44732,Wabash,IL,,city-us,2092,39.410,-87.605,1147
-44733,Wabash,OH,,city-us,923,40.322,-84.568,1355
-44734,Wabash,WA,,city-us,0,47.243,-122.058,689
-44735,Wabash,OH,,city-us,0,40.546,-84.750,249
-44736,Wabash,AR,,city-us,0,34.389,-90.829,207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44737,Wabash,IN,Wabash County,,city-us,10349,40.798,-85.821,6155
+44732,Wabash,IL,Clark County,,city-us,2092,39.410,-87.605,1147
+44733,Wabash,OH,Darke County,,city-us,923,40.322,-84.568,1355
+44734,Wabash,WA,King County,,city-us,0,47.243,-122.058,689
+44735,Wabash,OH,Mercer County,,city-us,0,40.546,-84.750,249
+44736,Wabash,AR,Phillips County,,city-us,0,34.389,-90.829,207

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45542,Wattsville,VA,,city-us,970,37.934,-75.500,509
-45543,Wattsville,OH,,city-us,0,40.573,-80.933,547
-45544,Wattsville,AL,,city-us,0,33.681,-86.280,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45542,Wattsville,VA,Accomack County,,city-us,970,37.934,-75.500,509
+45543,Wattsville,OH,Carroll County,,city-us,0,40.573,-80.933,547
+45544,Wattsville,AL,St. Clair County,,city-us,0,33.681,-86.280,226

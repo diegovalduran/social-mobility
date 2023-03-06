@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5042,Branchville,GA,,city-us,1090,31.150,-84.315,193
-5043,Branchville,SC,,city-us,978,33.251,-80.816,2729
-5046,Branchville,NJ,,city-us,794,41.146,-74.752,13663
-5045,Branchville,VA,,city-us,118,36.570,-77.249,1656
-5047,Branchville,CT,,city-us,46,41.268,-73.443,4473
-5041,Branchville,TX,,city-us,0,30.884,-96.764,517
-5044,Branchville,IN,,city-us,0,38.164,-86.580,616
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5042,Branchville,GA,Mitchell County,,city-us,1090,31.150,-84.315,193
+5043,Branchville,SC,Orangeburg County,,city-us,978,33.251,-80.816,2729
+5046,Branchville,NJ,Sussex County,,city-us,794,41.146,-74.752,13663
+5045,Branchville,VA,Southampton County,,city-us,118,36.570,-77.249,1656
+5047,Branchville,CT,Western Connecticut Planning Region,,city-us,46,41.268,-73.443,4473
+5041,Branchville,TX,Milam County,,city-us,0,30.884,-96.764,517
+5044,Branchville,IN,Perry County,,city-us,0,38.164,-86.580,616

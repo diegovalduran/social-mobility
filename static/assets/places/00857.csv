@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4358,Bloom,IL,,city-us,84167,41.515,-87.599,1815
-4359,Bloom,OH,,city-us,10506,39.779,-82.768,280
-4365,Bloom,OH,,city-us,2709,38.807,-82.724,280
-4368,Bloom,OH,,city-us,2511,41.200,-83.599,280
-4366,Bloom,OH,,city-us,1641,41.030,-83.006,280
-4361,Bloom,OH,,city-us,950,39.716,-81.863,280
-4367,Bloom,ND,,city-us,673,46.943,-98.619,0
-4364,Bloom,WI,,city-us,541,43.510,-90.491,2010
-4573,Blum,TX,,city-us,388,32.143,-97.397,2320
-4357,Bloom,PA,,city-us,378,41.023,-78.623,2134
-4362,Bloom,MN,,city-us,138,43.798,-95.733,3046
-4363,Bloom,KS,,city-us,67,39.321,-98.540,244
-4360,Bloom,KS,,city-us,0,37.486,-99.896,1331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4358,Bloom,IL,Cook County,,city-us,84167,41.515,-87.599,1815
+4359,Bloom,OH,Fairfield County,,city-us,10506,39.779,-82.768,280
+4365,Bloom,OH,Scioto County,,city-us,2709,38.807,-82.724,280
+4368,Bloom,OH,Wood County,,city-us,2511,41.200,-83.599,280
+4366,Bloom,OH,Seneca County,,city-us,1641,41.030,-83.006,280
+4361,Bloom,OH,Morgan County,,city-us,950,39.716,-81.863,280
+4367,Bloom,ND,Stutsman County,,city-us,673,46.943,-98.619,0
+4364,Bloom,WI,Richland County,,city-us,541,43.510,-90.491,2010
+4573,Blum,TX,Hill County,,city-us,388,32.143,-97.397,2320
+4357,Bloom,PA,Clearfield County,,city-us,378,41.023,-78.623,2134
+4362,Bloom,MN,Nobles County,,city-us,138,43.798,-95.733,3046
+4363,Bloom,KS,Osborne County,,city-us,67,39.321,-98.540,244
+4360,Bloom,KS,Ford County,,city-us,0,37.486,-99.896,1331

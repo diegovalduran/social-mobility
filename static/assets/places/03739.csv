@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19159,Hartley,CA,,city-us,2895,38.417,-121.947,2379
-19160,Hartley,PA,,city-us,1716,40.895,-77.266,2444
-19158,Hartley,IA,,city-us,1571,43.180,-95.477,4603
-19157,Hartley,TX,,city-us,368,35.886,-102.397,3832
-19155,Hartley,MI,,city-us,0,46.391,-89.816,154
-19156,Hartley,SD,,city-us,0,44.401,-101.811,270
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19159,Hartley,CA,Solano County,,city-us,2895,38.417,-121.947,2379
+19160,Hartley,PA,Union County,,city-us,1716,40.895,-77.266,2444
+19158,Hartley,IA,O'Brien County,,city-us,1571,43.180,-95.477,4603
+19157,Hartley,TX,Hartley County,,city-us,368,35.886,-102.397,3832
+19155,Hartley,MI,Gogebic County,,city-us,0,46.391,-89.816,154
+19156,Hartley,SD,Haakon County,,city-us,0,44.401,-101.811,270

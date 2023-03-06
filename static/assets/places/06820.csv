@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34755,Plum Creek,VA,,city-us,920,37.130,-80.501,158
-34753,Plum Creek,NE,,city-us,169,41.094,-97.078,248
-34754,Plum Creek,KS,,city-us,124,39.520,-98.095,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34755,Plum Creek,VA,Montgomery County,,city-us,920,37.130,-80.501,158
+34753,Plum Creek,NE,Butler County,,city-us,169,41.094,-97.078,248
+34754,Plum Creek,KS,Mitchell County,,city-us,124,39.520,-98.095,0

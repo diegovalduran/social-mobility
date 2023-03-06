@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46630,Whitefish Bay,WI,,city-us,14747,43.113,-87.900,6397
-46629,Whitefish Bay,WI,,city-us,0,44.906,-87.217,2436
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46630,Whitefish Bay,WI,Milwaukee County,,city-us,14747,43.113,-87.900,6397
+46629,Whitefish Bay,WI,Door County,,city-us,0,44.906,-87.217,2436

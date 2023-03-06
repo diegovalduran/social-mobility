@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46446,Wheelock,VT,,city-us,760,44.561,-72.160,4294
-46448,Wheelock,ND,,city-us,39,48.331,-103.269,1852
-46447,Wheelock,TX,,city-us,0,30.898,-96.390,2048
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46446,Wheelock,VT,Caledonia County,,city-us,760,44.561,-72.160,4294
+46448,Wheelock,ND,Williams County,,city-us,39,48.331,-103.269,1852
+46447,Wheelock,TX,Robertson County,,city-us,0,30.898,-96.390,2048

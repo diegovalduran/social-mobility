@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26707,Maple Beach,MI,,city-us,30627,42.126,-83.257,5840
-26706,Maple Beach,PA,,city-us,0,40.086,-74.869,563
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26707,Maple Beach,MI,Wayne County,,city-us,30627,42.126,-83.257,5840
+26706,Maple Beach,PA,Bucks County,,city-us,0,40.086,-74.869,563

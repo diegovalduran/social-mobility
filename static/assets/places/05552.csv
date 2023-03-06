@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28536,Millbury,MA,,city-us,13884,42.192,-71.778,6351
-28535,Millbury,OH,,city-us,1196,41.566,-83.425,3615
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28536,Millbury,MA,Worcester County,,city-us,13884,42.192,-71.778,6351
+28535,Millbury,OH,Wood County,,city-us,1196,41.566,-83.425,3615

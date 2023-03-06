@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3747,Bethany,OR,,city-us,20646,45.553,-122.837,2285
-3742,Bethany,OK,,city-us,20514,35.519,-97.632,7705
-3746,Bethany,CT,,city-us,5288,41.423,-72.994,6336
-3738,Bethany,MO,,city-us,3302,40.251,-94.043,157
-3736,Bethany,NY,,city-us,1765,42.920,-78.127,2897
-3737,Bethany,MI,,city-us,1750,43.426,-84.543,2363
-3741,Bethany,IL,,city-us,1252,39.646,-88.738,2769
-3733,Bethany,WV,,city-us,749,40.206,-80.557,3867
-3748,Bethany,PA,,city-us,241,41.613,-75.284,1932
-3743,Bethany,KS,,city-us,149,39.524,-98.656,0
-3740,Bethany,IN,,city-us,95,39.533,-86.376,2767
-3731,Bethany,GA,,city-us,0,31.267,-84.149,2651
-3732,Bethany,IN,,city-us,0,39.174,-86.065,495
-3734,Bethany,OH,,city-us,0,39.384,-84.374,603
-3735,Bethany,LA,,city-us,0,32.373,-94.043,461
-3739,Bethany,FL,,city-us,0,27.474,-82.264,999
-3744,Bethany,TX,,city-us,0,32.373,-94.043,461
-3745,Bethany,IN,,city-us,0,39.854,-87.147,335
-3749,Bethany,MN,,city-us,0,44.024,-91.912,602
-3750,Bethany,KY,,city-us,0,37.650,-83.474,329
-3751,Bethany,SC,,city-us,0,35.117,-81.306,277
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3747,Bethany,OR,Washington County,,city-us,20646,45.553,-122.837,2285
+3742,Bethany,OK,Oklahoma County,,city-us,20514,35.519,-97.632,7705
+3746,Bethany,CT,South Central Connecticut Planning Region,,city-us,5288,41.423,-72.994,6336
+3738,Bethany,MO,Harrison County,,city-us,3302,40.251,-94.043,157
+3736,Bethany,NY,Genesee County,,city-us,1765,42.920,-78.127,2897
+3737,Bethany,MI,Gratiot County,,city-us,1750,43.426,-84.543,2363
+3741,Bethany,IL,Moultrie County,,city-us,1252,39.646,-88.738,2769
+3733,Bethany,WV,Brooke County,,city-us,749,40.206,-80.557,3867
+3748,Bethany,PA,Wayne County,,city-us,241,41.613,-75.284,1932
+3743,Bethany,KS,Osborne County,,city-us,149,39.524,-98.656,0
+3740,Bethany,IN,Morgan County,,city-us,95,39.533,-86.376,2767
+3731,Bethany,GA,Baker County,,city-us,0,31.267,-84.149,2651
+3732,Bethany,IN,Bartholomew County,,city-us,0,39.174,-86.065,495
+3734,Bethany,OH,Butler County,,city-us,0,39.384,-84.374,603
+3735,Bethany,LA,Caddo Parish,,city-us,0,32.373,-94.043,461
+3739,Bethany,FL,Manatee County,,city-us,0,27.474,-82.264,999
+3744,Bethany,TX,Panola County,,city-us,0,32.373,-94.043,461
+3745,Bethany,IN,Parke County,,city-us,0,39.854,-87.147,335
+3749,Bethany,MN,Winona County,,city-us,0,44.024,-91.912,602
+3750,Bethany,KY,Wolfe County,,city-us,0,37.650,-83.474,329
+3751,Bethany,SC,York County,,city-us,0,35.117,-81.306,277

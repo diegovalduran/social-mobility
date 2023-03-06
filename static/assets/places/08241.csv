@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41664,Strafford,NH,,city-us,4288,43.275,-71.170,4155
-41662,Strafford,MO,,city-us,2598,37.269,-93.118,3742
-41663,Strafford,VT,,city-us,1101,43.875,-72.365,3092
-41661,Strafford,PA,,city-us,0,40.051,-75.404,2407
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41664,Strafford,NH,Strafford County,,city-us,4288,43.275,-71.170,4155
+41662,Strafford,MO,Greene County / Webster County,,city-us,2598,37.269,-93.118,3742
+41663,Strafford,VT,Orange County,,city-us,1101,43.875,-72.365,3092
+41661,Strafford,PA,Chester County,,city-us,0,40.051,-75.404,2407

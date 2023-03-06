@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29450,Morehouse,MO,,city-us,727,36.847,-89.685,3803
-29449,Morehouse,NY,,city-us,90,43.447,-74.695,4839
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29450,Morehouse,MO,New Madrid County,,city-us,727,36.847,-89.685,3803
+29449,Morehouse,NY,Hamilton County,,city-us,90,43.447,-74.695,4839

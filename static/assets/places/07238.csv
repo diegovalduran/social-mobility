@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36665,Ridgedale,WV,,city-us,0,39.411,-78.735,941
-36666,Ridgedale,WV,,city-us,0,39.547,-79.936,94
-36667,Ridgedale,MO,,city-us,0,36.504,-93.224,475
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36665,Ridgedale,WV,Hampshire County,,city-us,0,39.411,-78.735,941
+36666,Ridgedale,WV,Monongalia County,,city-us,0,39.547,-79.936,94
+36667,Ridgedale,MO,Taney County,,city-us,0,36.504,-93.224,475

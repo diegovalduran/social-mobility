@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44309,Vega,TX,,city-us,869,35.243,-102.428,5315
-44308,Vega,MN,,city-us,134,48.228,-96.956,1831
-44307,Vega,OH,,city-us,0,38.958,-82.497,418
-44310,Vega,GA,,city-us,0,33.023,-84.289,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44309,Vega,TX,Oldham County,,city-us,869,35.243,-102.428,5315
+44308,Vega,MN,Marshall County,,city-us,134,48.228,-96.956,1831
+44307,Vega,OH,Jackson County,,city-us,0,38.958,-82.497,418
+44310,Vega,GA,Pike County,,city-us,0,33.023,-84.289,218

@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13212,Eldred,PA,,city-us,2623,40.858,-75.446,424
-13210,Eldred,PA,,city-us,1981,41.320,-76.961,424
-13209,Eldred,PA,,city-us,1259,41.247,-79.132,424
-13211,Eldred,PA,,city-us,747,41.958,-78.385,3304
-13214,Eldred,PA,,city-us,709,40.711,-76.495,424
-13216,Eldred,PA,,city-us,583,41.748,-79.553,424
-13215,Eldred,NY,,city-us,199,41.527,-74.884,600
-13208,Eldred,IL,,city-us,144,39.288,-90.552,2810
-13207,Eldred,ND,,city-us,90,46.767,-97.493,0
-13206,Eldred,KS,,city-us,0,37.051,-98.768,218
-13213,Eldred,MN,,city-us,0,47.683,-96.780,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13212,Eldred,PA,Monroe County,,city-us,2623,40.858,-75.446,424
+13210,Eldred,PA,Lycoming County,,city-us,1981,41.320,-76.961,424
+13209,Eldred,PA,Jefferson County,,city-us,1259,41.247,-79.132,424
+13211,Eldred,PA,McKean County,,city-us,747,41.958,-78.385,3304
+13214,Eldred,PA,Schuylkill County,,city-us,709,40.711,-76.495,424
+13216,Eldred,PA,Warren County,,city-us,583,41.748,-79.553,424
+13215,Eldred,NY,Sullivan County,,city-us,199,41.527,-74.884,600
+13208,Eldred,IL,Greene County,,city-us,144,39.288,-90.552,2810
+13207,Eldred,ND,Cass County,,city-us,90,46.767,-97.493,0
+13206,Eldred,KS,Barber County,,city-us,0,37.051,-98.768,218
+13213,Eldred,MN,Polk County,,city-us,0,47.683,-96.780,280

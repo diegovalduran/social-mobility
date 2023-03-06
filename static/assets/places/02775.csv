@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13803,Ensign,MI,,city-us,744,45.873,-86.870,1997
-13804,Ensign,KS,,city-us,167,37.653,-100.234,3532
-13805,Ensign,ND,,city-us,93,48.502,-101.257,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13803,Ensign,MI,Delta County,,city-us,744,45.873,-86.870,1997
+13804,Ensign,KS,Gray County,,city-us,167,37.653,-100.234,3532
+13805,Ensign,ND,Renville County,,city-us,93,48.502,-101.257,0

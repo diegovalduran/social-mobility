@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34151,Pine Hills,FL,,city-us,84289,28.558,-81.453,15901
-34150,Pine Hills,CA,,city-us,3402,40.733,-124.152,4366
-34152,Pine Hills,CA,,city-us,0,33.048,-116.631,852
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34151,Pine Hills,FL,Orange County,,city-us,84289,28.558,-81.453,15901
+34150,Pine Hills,CA,Humboldt County,,city-us,3402,40.733,-124.152,4366
+34152,Pine Hills,CA,San Diego County,,city-us,0,33.048,-116.631,852

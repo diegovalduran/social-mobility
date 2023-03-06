@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15635,Frank,WV,,city-us,57,38.548,-79.806,387
-15634,Frank,NC,,city-us,0,36.071,-82.002,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15635,Frank,WV,Pocahontas County,,city-us,57,38.548,-79.806,387
+15634,Frank,NC,Avery County,,city-us,0,36.071,-82.002,290

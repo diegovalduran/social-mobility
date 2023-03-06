@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9409,Colt,AR,,city-us,286,35.131,-90.811,2468
-9410,Colt,LA,,city-us,0,30.302,-89.833,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9409,Colt,AR,St. Francis County,,city-us,286,35.131,-90.811,2468
+9410,Colt,LA,St. Tammany Parish,,city-us,0,30.302,-89.833,110

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3416,Ben Lomond,CA,,city-us,7528,37.089,-122.086,6531
-3417,Ben Lomond,AR,,city-us,137,33.835,-94.119,1876
-3415,Ben Lomond,WV,,city-us,0,38.708,-82.178,481
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3416,Ben Lomond,CA,Santa Cruz County,,city-us,7528,37.089,-122.086,6531
+3417,Ben Lomond,AR,Sevier County,,city-us,137,33.835,-94.119,1876
+3415,Ben Lomond,WV,Mason County,,city-us,0,38.708,-82.178,481

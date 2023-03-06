@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37559,Rosecrans,IL,,city-us,0,42.465,-87.953,402
-37560,Rosecrans,WI,,city-us,0,44.277,-87.827,185
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37559,Rosecrans,IL,Lake County,,city-us,0,42.465,-87.953,402
+37560,Rosecrans,WI,Manitowoc County,,city-us,0,44.277,-87.827,185

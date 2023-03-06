@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36451,Rich Valley,MN,,city-us,671,44.856,-94.201,1991
-36450,Rich Valley,ND,,city-us,33,47.985,-99.727,135
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36451,Rich Valley,MN,McLeod County,,city-us,671,44.856,-94.201,1991
+36450,Rich Valley,ND,Benson County,,city-us,33,47.985,-99.727,135

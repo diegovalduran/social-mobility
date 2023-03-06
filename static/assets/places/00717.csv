@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3687,Berrytown,PA,,city-us,0,41.890,-76.767,209
-3688,Berrytown,DE,,city-us,0,39.013,-75.594,252
-3689,Berrytown,VA,,city-us,0,38.368,-78.657,170
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3687,Berrytown,PA,Bradford County,,city-us,0,41.890,-76.767,209
+3688,Berrytown,DE,Kent County,,city-us,0,39.013,-75.594,252
+3689,Berrytown,VA,Rockingham County,,city-us,0,38.368,-78.657,170

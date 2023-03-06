@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37717,Roth,IL,,city-us,0,37.100,-89.307,146
-37718,Roth,ND,,city-us,0,48.908,-100.803,1461
-37719,Roth,VA,,city-us,0,37.245,-81.973,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37717,Roth,IL,Alexander County,,city-us,0,37.100,-89.307,146
+37718,Roth,ND,Bottineau County,,city-us,0,48.908,-100.803,1461
+37719,Roth,VA,Buchanan County,,city-us,0,37.245,-81.973,215

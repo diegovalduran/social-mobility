@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10836,Dairyland,WI,,city-us,186,46.216,-92.156,2083
-10837,Dairyland,CA,,city-us,0,37.018,-120.311,375
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10836,Dairyland,WI,Douglas County,,city-us,186,46.216,-92.156,2083
+10837,Dairyland,CA,Madera County,,city-us,0,37.018,-120.311,375

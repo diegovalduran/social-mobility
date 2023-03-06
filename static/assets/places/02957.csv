@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14838,Fernwood,NJ,,city-us,37264,40.263,-74.799,24551
-14836,Fernwood,ID,,city-us,684,47.112,-116.393,757
-14839,Fernwood,MS,,city-us,286,31.186,-90.449,766
-14837,Fernwood,OH,,city-us,0,40.334,-80.707,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14838,Fernwood,NJ,Mercer County,,city-us,37264,40.263,-74.799,24551
+14836,Fernwood,ID,Benewah County,,city-us,684,47.112,-116.393,757
+14839,Fernwood,MS,Pike County,,city-us,286,31.186,-90.449,766
+14837,Fernwood,OH,Jefferson County,,city-us,0,40.334,-80.707,251

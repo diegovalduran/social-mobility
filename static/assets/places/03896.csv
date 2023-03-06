@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19918,High Point,NC,,city-us,114086,35.991,-79.993,30225
-19920,High Point,FL,,city-us,3845,28.547,-82.525,2204
-19919,High Point,IA,,city-us,0,40.761,-93.594,210
-19921,High Point,WA,,city-us,0,47.533,-121.978,1071
-19922,High Point,MO,,city-us,0,38.484,-92.591,660
-19923,High Point,GA,,city-us,0,34.863,-85.367,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19918,High Point,NC,Davidson County / Forsyth County / Guilford County / Randolph County,,city-us,114086,35.991,-79.993,30225
+19920,High Point,FL,Hernando County,,city-us,3845,28.547,-82.525,2204
+19919,High Point,IA,Decatur County,,city-us,0,40.761,-93.594,210
+19921,High Point,WA,King County,,city-us,0,47.533,-121.978,1071
+19922,High Point,MO,Moniteau County,,city-us,0,38.484,-92.591,660
+19923,High Point,GA,Walker County,,city-us,0,34.863,-85.367,289

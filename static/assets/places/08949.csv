@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44874,Waldorf,MD,,city-us,79190,38.625,-76.939,13244
-44875,Waldorf,MN,,city-us,202,43.935,-93.697,2835
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44874,Waldorf,MD,Charles County,,city-us,79190,38.625,-76.939,13244
+44875,Waldorf,MN,Waseca County,,city-us,202,43.935,-93.697,2835

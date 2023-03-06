@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21705,Jacksboro,TX,,city-us,4209,33.218,-98.159,4872
-21704,Jacksboro,TN,,city-us,2324,36.330,-84.184,3570
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21705,Jacksboro,TX,Jack County,,city-us,4209,33.218,-98.159,4872
+21704,Jacksboro,TN,Campbell County,,city-us,2324,36.330,-84.184,3570

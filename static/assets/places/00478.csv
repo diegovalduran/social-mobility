@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2489,Barnett,IL,,city-us,364,40.174,-89.096,1038
-2490,Barnett,PA,,city-us,344,41.367,-79.142,179
-2491,Barnett,PA,,city-us,227,41.310,-79.153,179
-2492,Barnett,MO,,city-us,160,38.378,-92.675,3521
-2493,Barnett,MN,,city-us,137,48.674,-96.062,1766
-2494,Barnett,GA,,city-us,0,33.504,-82.808,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2489,Barnett,IL,De Witt County,,city-us,364,40.174,-89.096,1038
+2490,Barnett,PA,Forest County,,city-us,344,41.367,-79.142,179
+2491,Barnett,PA,Jefferson County,,city-us,227,41.310,-79.153,179
+2492,Barnett,MO,Morgan County,,city-us,160,38.378,-92.675,3521
+2493,Barnett,MN,Roseau County,,city-us,137,48.674,-96.062,1766
+2494,Barnett,GA,Warren County,,city-us,0,33.504,-82.808,225

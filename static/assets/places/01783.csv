@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9142,Cobbham,GA,,city-us,0,33.569,-82.433,213
-9147,Cobham,VA,,city-us,0,38.063,-78.268,197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9142,Cobbham,GA,McDuffie County,,city-us,0,33.569,-82.433,213
+9147,Cobham,VA,Albemarle County,,city-us,0,38.063,-78.268,197

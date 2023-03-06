@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16432,Garryowen,MT,,city-us,2,45.528,-107.418,4436
-16433,Garryowen,IA,,city-us,0,42.283,-90.832,1497
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16432,Garryowen,MT,Big Horn County,,city-us,2,45.528,-107.418,4436
+16433,Garryowen,IA,Jackson County,,city-us,0,42.283,-90.832,1497

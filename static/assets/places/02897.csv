@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14534,Falls,PA,,city-us,34633,40.173,-74.790,169
-14537,Falls,OH,,city-us,11875,39.540,-82.416,163
-14538,Falls,OH,,city-us,8710,40.002,-82.051,163
-14535,Falls,KS,,city-us,1028,38.345,-96.543,664
-14539,Falls,KS,,city-us,136,37.063,-97.528,6779
-14536,Falls,WV,,city-us,0,39.175,-79.119,112
-14540,Falls,NC,,city-us,0,35.940,-78.579,3403
-14541,Falls,PA,,city-us,0,41.461,-75.849,230
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14534,Falls,PA,Bucks County,,city-us,34633,40.173,-74.790,169
+14537,Falls,OH,Hocking County,,city-us,11875,39.540,-82.416,163
+14538,Falls,OH,Muskingum County,,city-us,8710,40.002,-82.051,163
+14535,Falls,KS,Chase County,,city-us,1028,38.345,-96.543,664
+14539,Falls,KS,Sumner County,,city-us,136,37.063,-97.528,6779
+14536,Falls,WV,Grant County,,city-us,0,39.175,-79.119,112
+14540,Falls,NC,Wake County,,city-us,0,35.940,-78.579,3403
+14541,Falls,PA,Wyoming County,,city-us,0,41.461,-75.849,230

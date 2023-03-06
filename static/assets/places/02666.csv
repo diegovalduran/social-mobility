@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13201,Eldorado,IL,,city-us,3690,37.814,-88.438,11321
-13194,Eldorado,MI,,city-us,2007,44.578,-84.506,3037
-13202,Eldorado,TX,,city-us,1585,30.860,-100.601,3335
-13197,Eldorado,WI,,city-us,1447,43.825,-88.622,2195
-13192,Eldorado,PA,,city-us,471,40.472,-78.424,674
-13200,Eldorado,OH,,city-us,456,39.902,-84.675,3209
-13198,Eldorado,OK,,city-us,316,34.472,-99.648,2004
-13199,Eldorado,IL,,city-us,131,40.316,-90.503,339
-13205,Eldorado,ND,,city-us,115,47.461,-97.017,0
-13193,Eldorado,NE,,city-us,96,40.651,-97.991,206
-13203,Eldorado,MN,,city-us,82,45.710,-96.180,1695
-13195,Eldorado,MD,,city-us,43,38.584,-75.789,3036
-13196,Eldorado,IA,,city-us,0,43.051,-91.836,294
-13204,Eldorado,GA,,city-us,0,31.354,-83.486,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13201,Eldorado,IL,Saline County,,city-us,3690,37.814,-88.438,11321
+13194,Eldorado,MI,Crawford County,,city-us,2007,44.578,-84.506,3037
+13202,Eldorado,TX,Schleicher County,,city-us,1585,30.860,-100.601,3335
+13197,Eldorado,WI,Fond du Lac County,,city-us,1447,43.825,-88.622,2195
+13192,Eldorado,PA,Blair County,,city-us,471,40.472,-78.424,674
+13200,Eldorado,OH,Preble County,,city-us,456,39.902,-84.675,3209
+13198,Eldorado,OK,Jackson County,,city-us,316,34.472,-99.648,2004
+13199,Eldorado,IL,McDonough County,,city-us,131,40.316,-90.503,339
+13205,Eldorado,ND,Traill County,,city-us,115,47.461,-97.017,0
+13193,Eldorado,NE,Clay County,,city-us,96,40.651,-97.991,206
+13203,Eldorado,MN,Stevens County,,city-us,82,45.710,-96.180,1695
+13195,Eldorado,MD,Dorchester County,,city-us,43,38.584,-75.789,3036
+13196,Eldorado,IA,Fayette County,,city-us,0,43.051,-91.836,294
+13204,Eldorado,GA,Tift County,,city-us,0,31.354,-83.486,271

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42983,Tina,MO,,city-us,137,39.536,-93.440,3070
-42984,Tina,KY,,city-us,0,37.361,-83.020,130
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42983,Tina,MO,Carroll County,,city-us,137,39.536,-93.440,3070
+42984,Tina,KY,Knott County,,city-us,0,37.361,-83.020,130

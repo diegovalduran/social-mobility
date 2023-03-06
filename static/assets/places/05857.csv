@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30136,Murray Hill,KY,,city-us,560,38.290,-85.588,2283
-30137,Murray Hill,NJ,,city-us,0,40.695,-74.401,1401
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30136,Murray Hill,KY,Jefferson County,,city-us,560,38.290,-85.588,2283
+30137,Murray Hill,NJ,Union County,,city-us,0,40.695,-74.401,1401

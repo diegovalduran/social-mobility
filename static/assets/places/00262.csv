@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1359,Archer,FL,,city-us,1152,29.530,-82.519,2810
-1360,Archer,OH,,city-us,290,40.330,-81.027,1106
-1364,Archer,IA,,city-us,117,43.115,-95.746,2195
-1363,Archer,NE,,city-us,55,41.165,-98.136,408
-1361,Archer,ID,,city-us,0,43.714,-111.783,298
-1362,Archer,TN,,city-us,0,35.328,-86.760,474
-1365,Archer,IL,,city-us,0,39.781,-89.736,186
-1366,Archer,WV,,city-us,0,39.511,-80.595,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1359,Archer,FL,Alachua County,,city-us,1152,29.530,-82.519,2810
+1360,Archer,OH,Harrison County,,city-us,290,40.330,-81.027,1106
+1364,Archer,IA,O'Brien County,,city-us,117,43.115,-95.746,2195
+1363,Archer,NE,Merrick County,,city-us,55,41.165,-98.136,408
+1361,Archer,ID,Madison County,,city-us,0,43.714,-111.783,298
+1362,Archer,TN,Marshall County,,city-us,0,35.328,-86.760,474
+1365,Archer,IL,Sangamon County,,city-us,0,39.781,-89.736,186
+1366,Archer,WV,Wetzel County,,city-us,0,39.511,-80.595,87

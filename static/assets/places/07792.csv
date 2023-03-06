@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39460,Shelbyville,TN,,city-us,23743,35.483,-86.460,7486
-39462,Shelbyville,IN,,city-us,20048,39.521,-85.777,7676
-39463,Shelbyville,KY,,city-us,17379,38.212,-85.224,9992
-39461,Shelbyville,IL,,city-us,4609,39.406,-88.790,5404
-39459,Shelbyville,MI,,city-us,3088,42.637,-85.606,2940
-39464,Shelbyville,MO,,city-us,508,39.806,-92.042,3654
-39465,Shelbyville,TX,,city-us,0,31.762,-94.079,1660
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39460,Shelbyville,TN,Bedford County,,city-us,23743,35.483,-86.460,7486
+39462,Shelbyville,IN,Shelby County,,city-us,20048,39.521,-85.777,7676
+39463,Shelbyville,KY,Shelby County,,city-us,17379,38.212,-85.224,9992
+39461,Shelbyville,IL,Shelby County,,city-us,4609,39.406,-88.790,5404
+39459,Shelbyville,MI,Allegan County,,city-us,3088,42.637,-85.606,2940
+39464,Shelbyville,MO,Shelby County,,city-us,508,39.806,-92.042,3654
+39465,Shelbyville,TX,Shelby County,,city-us,0,31.762,-94.079,1660

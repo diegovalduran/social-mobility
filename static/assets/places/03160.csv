@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15964,French Camp,CA,,city-us,3778,37.884,-121.271,7063
-15963,French Camp,MS,,city-us,222,33.293,-89.400,3050
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15964,French Camp,CA,San Joaquin County,,city-us,3778,37.884,-121.271,7063
+15963,French Camp,MS,Choctaw County,,city-us,222,33.293,-89.400,3050

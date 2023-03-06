@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16147,Furman,SC,,city-us,232,32.682,-81.188,3301
-16148,Furman,AL,,city-us,0,32.007,-86.967,425
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16147,Furman,SC,Hampton County,,city-us,232,32.682,-81.188,3301
+16148,Furman,AL,Wilcox County,,city-us,0,32.007,-86.967,425

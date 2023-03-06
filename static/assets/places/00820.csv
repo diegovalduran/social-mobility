@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4192,Blackman,MI,,city-us,24789,42.296,-84.425,3174
-4193,Blackman,TN,,city-us,0,35.875,-86.498,822
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4192,Blackman,MI,Jackson County,,city-us,24789,42.296,-84.425,3174
+4193,Blackman,TN,Rutherford County,,city-us,0,35.875,-86.498,822

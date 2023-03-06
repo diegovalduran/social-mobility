@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43043,Toby,PA,,city-us,980,41.067,-79.526,2385
-43044,Toby,PA,,city-us,0,41.328,-78.632,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43043,Toby,PA,Clarion County,,city-us,980,41.067,-79.526,2385
+43044,Toby,PA,Elk County,,city-us,0,41.328,-78.632,95

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15965,French Creek,NY,,city-us,987,42.042,-79.711,3418
-15966,French Creek,PA,,city-us,702,41.462,-80.042,187
-15967,French Creek,WV,,city-us,0,38.886,-80.297,1779
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15965,French Creek,NY,Chautauqua County,,city-us,987,42.042,-79.711,3418
+15966,French Creek,PA,Mercer County,,city-us,702,41.462,-80.042,187
+15967,French Creek,WV,Upshur County,,city-us,0,38.886,-80.297,1779

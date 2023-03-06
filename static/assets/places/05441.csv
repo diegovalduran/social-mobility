@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27849,Mellen,MI,,city-us,1103,45.333,-87.627,2945
-27848,Mellen,WI,,city-us,701,46.326,-90.661,4641
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27849,Mellen,MI,Menominee County,,city-us,1103,45.333,-87.627,2945
+27848,Mellen,WI,Ashland County,,city-us,701,46.326,-90.661,4641

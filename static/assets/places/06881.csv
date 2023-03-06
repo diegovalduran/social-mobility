@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34995,Port Republic,NJ,,city-us,1097,39.521,-74.486,15491
-34997,Port Republic,VA,,city-us,160,38.289,-78.813,1448
-34996,Port Republic,MD,,city-us,0,38.501,-76.529,1202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34995,Port Republic,NJ,Atlantic County,,city-us,1097,39.521,-74.486,15491
+34997,Port Republic,VA,Rockingham County,,city-us,160,38.289,-78.813,1448
+34996,Port Republic,MD,Calvert County,,city-us,0,38.501,-76.529,1202

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18166,Gresham,OR,,city-us,113103,45.498,-122.431,10121
-18164,Gresham,MI,,city-us,1778,42.644,-84.901,2682
-18167,Gresham,WI,,city-us,534,44.853,-88.788,2621
-18169,Gresham,NE,,city-us,224,41.028,-97.402,3213
-18165,Gresham,SC,,city-us,0,33.930,-79.411,285
-18168,Gresham,TX,,city-us,0,32.229,-95.349,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18166,Gresham,OR,Multnomah County,,city-us,113103,45.498,-122.431,10121
+18164,Gresham,MI,Eaton County,,city-us,1778,42.644,-84.901,2682
+18167,Gresham,WI,Shawano County,,city-us,534,44.853,-88.788,2621
+18169,Gresham,NE,York County,,city-us,224,41.028,-97.402,3213
+18165,Gresham,SC,Marion County,,city-us,0,33.930,-79.411,285
+18168,Gresham,TX,Smith County,,city-us,0,32.229,-95.349,93

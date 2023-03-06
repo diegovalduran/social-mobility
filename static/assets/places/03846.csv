@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19711,Hepburn,PA,,city-us,2563,41.328,-77.033,6020
-19712,Hepburn,IA,,city-us,22,40.849,-95.017,3091
-19710,Hepburn,OH,,city-us,0,40.621,-83.470,488
-19713,Hepburn,IN,,city-us,0,38.070,-87.801,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19711,Hepburn,PA,Lycoming County,,city-us,2563,41.328,-77.033,6020
+19712,Hepburn,IA,Page County,,city-us,22,40.849,-95.017,3091
+19710,Hepburn,OH,Hardin County,,city-us,0,40.621,-83.470,488
+19713,Hepburn,IN,Posey County,,city-us,0,38.070,-87.801,264

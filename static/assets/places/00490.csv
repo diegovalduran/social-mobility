@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2538,Barrie,,Canada,city-international,172657,44.371,-79.677,33554
-2548,Barry,MI,,city-us,3444,42.467,-85.376,4021
-2551,Barry,IL,,city-us,1597,39.712,-91.094,333
-2553,Barry,PA,,city-us,920,40.709,-76.396,1636
-2552,Barry,MN,,city-us,562,46.031,-92.875,1939
-2525,Barree,PA,,city-us,432,40.643,-77.919,1833
-2550,Barry,TX,,city-us,223,32.099,-96.636,2642
-2537,Barrie,ND,,city-us,179,46.586,-97.103,0
-2549,Barry,MN,,city-us,14,45.558,-96.559,2478
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2538,Barrie,,,Canada,city-international,172657,44.371,-79.677,33554
+2548,Barry,MI,Barry County,,city-us,3444,42.467,-85.376,4021
+2551,Barry,IL,Pike County,,city-us,1597,39.712,-91.094,333
+2553,Barry,PA,Schuylkill County,,city-us,920,40.709,-76.396,1636
+2552,Barry,MN,Pine County,,city-us,562,46.031,-92.875,1939
+2525,Barree,PA,Huntingdon County,,city-us,432,40.643,-77.919,1833
+2550,Barry,TX,Navarro County,,city-us,223,32.099,-96.636,2642
+2537,Barrie,ND,Richland County,,city-us,179,46.586,-97.103,0
+2549,Barry,MN,Big Stone County,,city-us,14,45.558,-96.559,2478

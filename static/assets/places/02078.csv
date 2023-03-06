@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10452,Cross,WI,,city-us,369,44.174,-91.639,2131
-10451,Cross,SC,,city-us,0,33.328,-80.148,378
-10453,Cross,WV,,city-us,0,39.430,-79.092,281
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10452,Cross,WI,Buffalo County,,city-us,369,44.174,-91.639,2131
+10451,Cross,SC,Berkeley County,,city-us,0,33.328,-80.148,378
+10453,Cross,WV,Mineral County,,city-us,0,39.430,-79.092,281

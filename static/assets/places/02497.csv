@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12469,DuPont,WA,,city-us,10112,47.097,-122.631,9975
-12468,Dupont,PA,,city-us,2541,41.325,-75.745,2355
-12470,Dupont,LA,,city-us,900,30.644,-91.479,675
-12472,Dupont,WI,,city-us,742,44.635,-88.927,1948
-12467,Dupont,IN,,city-us,348,38.890,-85.514,3089
-12471,Dupont,OH,,city-us,209,41.056,-84.304,3187
-12465,Dupont,CO,,city-us,0,39.838,-104.912,557
-12466,Dupont,FL,,city-us,0,29.427,-81.223,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12469,DuPont,WA,Pierce County,,city-us,10112,47.097,-122.631,9975
+12468,Dupont,PA,Luzerne County,,city-us,2541,41.325,-75.745,2355
+12470,Dupont,LA,Pointe Coupee Parish,,city-us,900,30.644,-91.479,675
+12472,Dupont,WI,Waupaca County,,city-us,742,44.635,-88.927,1948
+12467,Dupont,IN,Jefferson County,,city-us,348,38.890,-85.514,3089
+12471,Dupont,OH,Putnam County,,city-us,209,41.056,-84.304,3187
+12465,Dupont,CO,Adams County,,city-us,0,39.838,-104.912,557
+12466,Dupont,FL,Flagler County,,city-us,0,29.427,-81.223,261

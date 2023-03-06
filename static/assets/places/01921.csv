@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9792,Coopertown,TN,,city-us,4590,36.438,-86.967,5137
-9790,Coopertown,WV,,city-us,0,38.078,-81.590,90
-9791,Coopertown,FL,,city-us,0,25.761,-80.561,343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9792,Coopertown,TN,Robertson County,,city-us,4590,36.438,-86.967,5137
+9790,Coopertown,WV,Boone County,,city-us,0,38.078,-81.590,90
+9791,Coopertown,FL,Miami-Dade County,,city-us,0,25.761,-80.561,343

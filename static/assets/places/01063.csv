@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5258,Bridgeville,PA,,city-us,4731,40.356,-80.110,3822
-5263,Bridgeville,DE,,city-us,2667,38.743,-75.604,5102
-5262,Bridgeville,NY,,city-us,205,41.634,-74.619,4681
-5264,Bridgeville,NJ,,city-us,196,40.837,-75.026,399
-5259,Bridgeville,KY,,city-us,0,38.595,-84.020,139
-5260,Bridgeville,CA,,city-us,0,40.469,-123.800,3661
-5261,Bridgeville,OH,,city-us,0,39.969,-81.868,255
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5258,Bridgeville,PA,Allegheny County,,city-us,4731,40.356,-80.110,3822
+5263,Bridgeville,DE,Sussex County,,city-us,2667,38.743,-75.604,5102
+5262,Bridgeville,NY,Sullivan County,,city-us,205,41.634,-74.619,4681
+5264,Bridgeville,NJ,Warren County,,city-us,196,40.837,-75.026,399
+5259,Bridgeville,KY,Bracken County,,city-us,0,38.595,-84.020,139
+5260,Bridgeville,CA,Humboldt County,,city-us,0,40.469,-123.800,3661
+5261,Bridgeville,OH,Muskingum County,,city-us,0,39.969,-81.868,255

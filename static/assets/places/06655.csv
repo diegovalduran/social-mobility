@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33851,Peytona,WV,,city-us,0,38.141,-81.684,1053
-33852,Peytona,KY,,city-us,0,38.181,-85.061,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33851,Peytona,WV,Boone County,,city-us,0,38.141,-81.684,1053
+33852,Peytona,KY,Shelby County,,city-us,0,38.181,-85.061,87

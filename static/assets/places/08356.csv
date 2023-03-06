@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42246,Swansboro,CA,,city-us,10389,38.730,-120.799,4767
-42247,Swansboro,NC,,city-us,3825,34.688,-77.119,4936
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42246,Swansboro,CA,El Dorado County,,city-us,10389,38.730,-120.799,4767
+42247,Swansboro,NC,Onslow County,,city-us,3825,34.688,-77.119,4936

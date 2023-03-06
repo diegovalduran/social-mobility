@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16253,Gandy,FL,,city-us,2031,27.869,-82.625,2283
-16251,Gandy,NE,,city-us,32,41.470,-100.458,3224
-16252,Gandy,UT,,city-us,0,39.450,-113.983,609
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16253,Gandy,FL,Pinellas County,,city-us,2031,27.869,-82.625,2283
+16251,Gandy,NE,Logan County,,city-us,32,41.470,-100.458,3224
+16252,Gandy,UT,Millard County,,city-us,0,39.450,-113.983,609

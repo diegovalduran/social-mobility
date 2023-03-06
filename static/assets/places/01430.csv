@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7205,Casner,IL,,city-us,1157,38.340,-89.094,1412
-7206,Casner,IL,,city-us,0,39.800,-88.791,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7205,Casner,IL,Jefferson County,,city-us,1157,38.340,-89.094,1412
+7206,Casner,IL,Macon County,,city-us,0,39.800,-88.791,171

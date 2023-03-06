@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26739,Maple Ridge,MI,,city-us,1564,45.132,-83.556,177
-26743,Maple Ridge,MN,,city-us,720,45.694,-93.314,181
-26742,Maple Ridge,MI,,city-us,690,46.087,-87.138,177
-26744,Maple Ridge,OH,,city-us,542,40.923,-81.051,2026
-26741,Maple Ridge,MN,,city-us,113,47.719,-95.039,181
-26740,Maple Ridge,MI,,city-us,0,44.142,-83.927,330
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26739,Maple Ridge,MI,Alpena County,,city-us,1564,45.132,-83.556,177
+26743,Maple Ridge,MN,Isanti County,,city-us,720,45.694,-93.314,181
+26742,Maple Ridge,MI,Delta County,,city-us,690,46.087,-87.138,177
+26744,Maple Ridge,OH,Mahoning County,,city-us,542,40.923,-81.051,2026
+26741,Maple Ridge,MN,Beltrami County,,city-us,113,47.719,-95.039,181
+26740,Maple Ridge,MI,Arenac County,,city-us,0,44.142,-83.927,330

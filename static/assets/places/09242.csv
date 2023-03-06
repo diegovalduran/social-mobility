@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46628,Whitefish,MT,,city-us,8492,48.411,-114.338,13734
-46627,Whitefish,MI,,city-us,485,46.607,-85.114,6059
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46628,Whitefish,MT,Flathead County,,city-us,8492,48.411,-114.338,13734
+46627,Whitefish,MI,Chippewa County,,city-us,485,46.607,-85.114,6059

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11453,DeLisle,MS,,city-us,1712,30.379,-89.264,2176
-11452,Delisle,OH,,city-us,0,40.019,-84.574,270
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11453,DeLisle,MS,Harrison County,,city-us,1712,30.379,-89.264,2176
+11452,Delisle,OH,Darke County,,city-us,0,40.019,-84.574,270

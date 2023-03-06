@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12463,Duplex,TX,,city-us,0,33.778,-96.139,365
-12464,Duplex,TN,,city-us,0,35.747,-86.837,572
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12463,Duplex,TX,Fannin County,,city-us,0,33.778,-96.139,365
+12464,Duplex,TN,Williamson County,,city-us,0,35.747,-86.837,572

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6790,Cannonsburg,KY,,city-us,686,38.389,-82.703,3172
-6793,Cannonsburg,MI,,city-us,203,43.054,-85.470,2370
-6791,Cannonsburg,OH,,city-us,0,40.915,-83.785,318
-6792,Cannonsburg,MS,,city-us,0,31.634,-91.211,999
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6790,Cannonsburg,KY,Boyd County,,city-us,686,38.389,-82.703,3172
+6793,Cannonsburg,MI,Kent County,,city-us,203,43.054,-85.470,2370
+6791,Cannonsburg,OH,Hancock County,,city-us,0,40.915,-83.785,318
+6792,Cannonsburg,MS,Jefferson County,,city-us,0,31.634,-91.211,999

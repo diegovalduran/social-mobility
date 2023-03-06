@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-0,Aaron,GA,,city-us,0,32.568,-81.992,288
-1,Aaron,KY,,city-us,0,36.813,-85.181,392
-2,Aaron,IN,,city-us,0,38.883,-85.127,266
+id,name,state,county,country,level,population,latitude,longitude,wiki
+0,Aaron,GA,Bulloch County,,city-us,0,32.568,-81.992,288
+1,Aaron,KY,Clinton County,,city-us,0,36.813,-85.181,392
+2,Aaron,IN,Switzerland County,,city-us,0,38.883,-85.127,266

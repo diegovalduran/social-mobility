@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1199,Anthony,NM,,city-us,8666,32.004,-106.606,3029
-1200,Anthony,TX,,city-us,3665,31.999,-106.606,12340
-1202,Anthony,KS,,city-us,2043,37.153,-98.031,4809
-1206,Anthony,PA,,city-us,1454,41.125,-76.685,133
-1204,Anthony,PA,,city-us,861,41.290,-77.170,133
-1207,Anthony,MN,,city-us,61,47.368,-96.634,1851
-1198,Anthony,IN,,city-us,0,40.278,-85.436,320
-1201,Anthony,WV,,city-us,0,37.896,-80.332,164
-1203,Anthony,NJ,,city-us,0,40.748,-74.881,302
-1205,Anthony,FL,,city-us,0,29.289,-82.112,960
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1199,Anthony,NM,Do��a Ana County,,city-us,8666,32.004,-106.606,3029
+1200,Anthony,TX,El Paso County,,city-us,3665,31.999,-106.606,12340
+1202,Anthony,KS,Harper County,,city-us,2043,37.153,-98.031,4809
+1206,Anthony,PA,Montour County,,city-us,1454,41.125,-76.685,133
+1204,Anthony,PA,Lycoming County,,city-us,861,41.290,-77.170,133
+1207,Anthony,MN,Norman County,,city-us,61,47.368,-96.634,1851
+1198,Anthony,IN,Delaware County,,city-us,0,40.278,-85.436,320
+1201,Anthony,WV,Greenbrier County,,city-us,0,37.896,-80.332,164
+1203,Anthony,NJ,Hunterdon County,,city-us,0,40.748,-74.881,302
+1205,Anthony,FL,Marion County,,city-us,0,29.289,-82.112,960

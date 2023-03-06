@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39179,Serra,,Brazil,city-international,485376,-20.129,-40.308,2230
-38706,Sarah,WV,,city-us,0,38.330,-82.258,86
-38707,Sarah,KY,,city-us,0,38.062,-82.961,113
-38708,Sarah,VA,,city-us,0,37.389,-76.282,67
-38709,Sarah,MS,,city-us,0,34.569,-90.210,986
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39179,Serra,,,Brazil,city-international,485376,-20.129,-40.308,2230
+38706,Sarah,WV,Cabell County,,city-us,0,38.330,-82.258,86
+38707,Sarah,KY,Elliott County,,city-us,0,38.062,-82.961,113
+38708,Sarah,VA,Mathews County,,city-us,0,37.389,-76.282,67
+38709,Sarah,MS,Tate County,,city-us,0,34.569,-90.210,986

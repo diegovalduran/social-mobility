@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6237,Burr Oak,MI,,city-us,768,41.847,-85.319,3480
-6234,Burr Oak,KS,,city-us,202,39.875,-98.337,199
-6233,Burr Oak,KS,,city-us,182,39.852,-94.972,199
-6238,Burr Oak,IA,,city-us,171,43.458,-91.868,3078
-6232,Burr Oak,SD,,city-us,35,44.239,-98.643,0
-6231,Burr Oak,OH,,city-us,0,39.551,-82.064,326
-6235,Burr Oak,IN,,city-us,0,41.256,-86.415,166
-6236,Burr Oak,IN,,city-us,0,41.323,-85.433,331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6237,Burr Oak,MI,St. Joseph County,,city-us,768,41.847,-85.319,3480
+6234,Burr Oak,KS,Jewell County,,city-us,202,39.875,-98.337,199
+6233,Burr Oak,KS,Doniphan County,,city-us,182,39.852,-94.972,199
+6238,Burr Oak,IA,Winneshiek County,,city-us,171,43.458,-91.868,3078
+6232,Burr Oak,SD,Beadle County,,city-us,35,44.239,-98.643,0
+6231,Burr Oak,OH,Athens County,,city-us,0,39.551,-82.064,326
+6235,Burr Oak,IN,Marshall County,,city-us,0,41.256,-86.415,166
+6236,Burr Oak,IN,Noble County,,city-us,0,41.323,-85.433,331

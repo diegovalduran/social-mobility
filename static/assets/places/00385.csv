@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2073,Avoca,PA,,city-us,2506,41.340,-75.736,3592
-2076,Avoca,MI,,city-us,2470,43.021,-82.699,3425
-2075,Avoca,IA,,city-us,1683,41.477,-95.338,4377
-2077,Avoca,NY,,city-us,849,42.410,-77.421,3644
-2071,Avoca,IN,,city-us,629,38.912,-86.548,1841
-2069,Avoca,WI,,city-us,558,43.182,-90.325,3192
-2065,Avoca,AR,,city-us,483,36.402,-94.071,2376
-2072,Avoca,IL,,city-us,406,40.807,-88.533,8525
-2066,Avoca,NE,,city-us,183,40.796,-96.118,3591
-2074,Avoca,MN,,city-us,111,43.949,-95.646,4988
-2067,Avoca,WV,,city-us,0,38.453,-81.051,232
-2068,Avoca,FL,,city-us,0,30.578,-83.027,1165
-2070,Avoca,TX,,city-us,0,32.866,-99.716,1059
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2073,Avoca,PA,Luzerne County,,city-us,2506,41.340,-75.736,3592
+2076,Avoca,MI,St. Clair County,,city-us,2470,43.021,-82.699,3425
+2075,Avoca,IA,Pottawattamie County,,city-us,1683,41.477,-95.338,4377
+2077,Avoca,NY,Steuben County,,city-us,849,42.410,-77.421,3644
+2071,Avoca,IN,Lawrence County,,city-us,629,38.912,-86.548,1841
+2069,Avoca,WI,Iowa County,,city-us,558,43.182,-90.325,3192
+2065,Avoca,AR,Benton County,,city-us,483,36.402,-94.071,2376
+2072,Avoca,IL,Livingston County,,city-us,406,40.807,-88.533,8525
+2066,Avoca,NE,Cass County,,city-us,183,40.796,-96.118,3591
+2074,Avoca,MN,Murray County,,city-us,111,43.949,-95.646,4988
+2067,Avoca,WV,Clay County,,city-us,0,38.453,-81.051,232
+2068,Avoca,FL,Hamilton County,,city-us,0,30.578,-83.027,1165
+2070,Avoca,TX,Jones County,,city-us,0,32.866,-99.716,1059

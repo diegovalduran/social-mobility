@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37752,Round Rock,TX,,city-us,123876,30.527,-97.660,34927
-37751,Round Rock,AZ,,city-us,622,36.513,-109.473,2414
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37752,Round Rock,TX,Travis County / Williamson County,,city-us,123876,30.527,-97.660,34927
+37751,Round Rock,AZ,Apache County,,city-us,622,36.513,-109.473,2414

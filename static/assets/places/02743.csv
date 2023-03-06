@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13641,Emerald Bay,TX,,city-us,1292,32.161,-95.439,373
-13640,Emerald Bay,CA,,city-us,0,33.552,-117.818,1119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13641,Emerald Bay,TX,Smith County,,city-us,1292,32.161,-95.439,373
+13640,Emerald Bay,CA,Orange County,,city-us,0,33.552,-117.818,1119

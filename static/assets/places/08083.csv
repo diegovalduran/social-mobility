@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40929,Spurgeon,TN,,city-us,3966,36.444,-82.461,2540
-40928,Spurgeon,IN,,city-us,169,38.252,-87.257,3132
-40927,Spurgeon,MO,,city-us,0,36.934,-94.472,367
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40929,Spurgeon,TN,Sullivan County / Washington County,,city-us,3966,36.444,-82.461,2540
+40928,Spurgeon,IN,Pike County,,city-us,169,38.252,-87.257,3132
+40927,Spurgeon,MO,Newton County,,city-us,0,36.934,-94.472,367

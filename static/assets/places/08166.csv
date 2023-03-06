@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41332,State Line,PA,,city-us,3195,39.725,-77.724,658
-41334,State Line,MS,,city-us,458,31.436,-88.473,3087
-41335,State Line,ID,,city-us,39,47.705,-117.037,3185
-41329,State Line,PA,,city-us,0,39.725,-78.767,155
-41330,State Line,SC,,city-us,0,35.177,-81.800,291
-41331,State Line,PA,,city-us,0,42.243,-79.762,164
-41333,State Line,KY,,city-us,0,36.511,-89.120,88
-41336,State Line,AR,,city-us,0,33.051,-93.539,89
-41337,State Line,IN,,city-us,0,41.759,-86.251,313
-41338,State Line,IN,,city-us,0,39.437,-87.529,322
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41332,State Line,PA,Franklin County,,city-us,3195,39.725,-77.724,658
+41334,State Line,MS,Greene County / Wayne County,,city-us,458,31.436,-88.473,3087
+41335,State Line,ID,Kootenai County,,city-us,39,47.705,-117.037,3185
+41329,State Line,PA,Bedford County,,city-us,0,39.725,-78.767,155
+41330,State Line,SC,Cherokee County,,city-us,0,35.177,-81.800,291
+41331,State Line,PA,Erie County,,city-us,0,42.243,-79.762,164
+41333,State Line,KY,Fulton County,,city-us,0,36.511,-89.120,88
+41336,State Line,AR,Lafayette County,,city-us,0,33.051,-93.539,89
+41337,State Line,IN,St. Joseph County,,city-us,0,41.759,-86.251,313
+41338,State Line,IN,Vigo County,,city-us,0,39.437,-87.529,322

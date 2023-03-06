@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44462,Vesta,MN,,city-us,273,44.508,-95.416,3071
-44463,Vesta,ND,,city-us,33,48.410,-97.982,108
-44456,Vesta,IN,,city-us,0,38.485,-85.551,248
-44457,Vesta,AR,,city-us,0,35.379,-94.042,239
-44458,Vesta,WA,,city-us,0,46.833,-123.589,261
-44459,Vesta,NE,,city-us,0,40.356,-96.338,152
-44460,Vesta,GA,,city-us,0,33.956,-82.939,259
-44461,Vesta,VA,,city-us,0,36.717,-80.358,189
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44462,Vesta,MN,Redwood County,,city-us,273,44.508,-95.416,3071
+44463,Vesta,ND,Walsh County,,city-us,33,48.410,-97.982,108
+44456,Vesta,IN,Clark County,,city-us,0,38.485,-85.551,248
+44457,Vesta,AR,Franklin County,,city-us,0,35.379,-94.042,239
+44458,Vesta,WA,Grays Harbor County,,city-us,0,46.833,-123.589,261
+44459,Vesta,NE,Johnson County,,city-us,0,40.356,-96.338,152
+44460,Vesta,GA,Oglethorpe County,,city-us,0,33.956,-82.939,259
+44461,Vesta,VA,Patrick County,,city-us,0,36.717,-80.358,189

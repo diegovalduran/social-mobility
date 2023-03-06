@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19669,Hennepin,IL,,city-us,745,41.254,-89.342,4474
-19668,Hennepin,OK,,city-us,143,34.509,-97.347,546
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19669,Hennepin,IL,Putnam County,,city-us,745,41.254,-89.342,4474
+19668,Hennepin,OK,Garvin County,,city-us,143,34.509,-97.347,546

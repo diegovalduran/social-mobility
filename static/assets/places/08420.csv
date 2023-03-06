@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42681,Terrell,TX,,city-us,18567,32.736,-96.275,6536
-42670,Terral,OK,,city-us,282,33.897,-97.936,2706
-42511,Taral,AR,,city-us,0,35.360,-93.122,79
-42680,Terrell,NC,,city-us,0,35.589,-80.978,3164
-42682,Terrell,GA,,city-us,0,31.618,-83.745,258
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42681,Terrell,TX,Kaufman County,,city-us,18567,32.736,-96.275,6536
+42670,Terral,OK,Jefferson County,,city-us,282,33.897,-97.936,2706
+42511,Taral,AR,Pope County,,city-us,0,35.360,-93.122,79
+42680,Terrell,NC,Catawba County,,city-us,0,35.589,-80.978,3164
+42682,Terrell,GA,Worth County,,city-us,0,31.618,-83.745,258

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16505,Gem,SD,,city-us,197,45.372,-98.340,0
-16509,Gem,KS,,city-us,96,39.428,-100.898,3385
-16503,Gem,ND,,city-us,23,46.074,-103.420,179
-16504,Gem,WV,,city-us,0,38.829,-80.668,324
-16506,Gem,IN,,city-us,0,39.779,-85.897,333
-16507,Gem,TX,,city-us,0,35.785,-100.123,206
-16508,Gem,OH,,city-us,0,39.664,-81.426,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16505,Gem,SD,Brown County,,city-us,197,45.372,-98.340,0
+16509,Gem,KS,Thomas County,,city-us,96,39.428,-100.898,3385
+16503,Gem,ND,Bowman County,,city-us,23,46.074,-103.420,179
+16504,Gem,WV,Braxton County,,city-us,0,38.829,-80.668,324
+16506,Gem,IN,Hancock County,,city-us,0,39.779,-85.897,333
+16507,Gem,TX,Hemphill County,,city-us,0,35.785,-100.123,206
+16508,Gem,OH,Noble County,,city-us,0,39.664,-81.426,279

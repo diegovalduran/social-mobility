@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43068,Tokio,ND,,city-us,0,47.925,-98.816,577
-43069,Tokio,TX,,city-us,0,33.181,-102.275,649
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43068,Tokio,ND,Benson County,,city-us,0,47.925,-98.816,577
+43069,Tokio,TX,Terry County,,city-us,0,33.181,-102.275,649

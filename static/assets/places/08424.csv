@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42520,Tarrytown,NY,,city-us,11718,41.076,-73.859,17194
-42518,Tarrytown,GA,,city-us,64,32.319,-82.559,2322
-42519,Tarrytown,FL,,city-us,0,28.555,-82.054,854
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42520,Tarrytown,NY,Westchester County,,city-us,11718,41.076,-73.859,17194
+42518,Tarrytown,GA,Montgomery County,,city-us,64,32.319,-82.559,2322
+42519,Tarrytown,FL,Sumter County,,city-us,0,28.555,-82.054,854

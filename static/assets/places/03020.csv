@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15142,Flint Hill,MO,,city-us,832,38.855,-90.861,3512
-15141,Flint Hill,VA,,city-us,362,38.763,-78.100,1405
-15138,Flint Hill,MS,,city-us,0,33.716,-88.276,149
-15139,Flint Hill,VA,,city-us,0,36.795,-79.494,119
-15140,Flint Hill,MO,,city-us,0,39.624,-91.383,418
-15143,Flint Hill,GA,,city-us,0,32.822,-84.645,148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15142,Flint Hill,MO,St. Charles County,,city-us,832,38.855,-90.861,3512
+15141,Flint Hill,VA,Rappahannock County,,city-us,362,38.763,-78.100,1405
+15138,Flint Hill,MS,Lowndes County,,city-us,0,33.716,-88.276,149
+15139,Flint Hill,VA,Pittsylvania County,,city-us,0,36.795,-79.494,119
+15140,Flint Hill,MO,Ralls County,,city-us,0,39.624,-91.383,418
+15143,Flint Hill,GA,Talbot County,,city-us,0,32.822,-84.645,148

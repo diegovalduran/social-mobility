@@ -1,28 +1,28 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43258,Trenton,NJ,,city-us,90457,40.217,-74.743,41473
-43264,Trenton,MI,,city-us,18295,42.139,-83.178,19939
-43241,Trenton,OH,,city-us,13305,39.481,-84.458,4506
-43252,Trenton,MO,,city-us,5970,40.072,-93.577,191
-43263,Trenton,WI,,city-us,4537,43.400,-88.095,4496
-43250,Trenton,TN,,city-us,4263,35.981,-88.941,5465
-43259,Trenton,NY,,city-us,4244,43.260,-75.206,3992
-43243,Trenton,IL,,city-us,2649,38.606,-89.682,4913
-43246,Trenton,OH,,city-us,2372,40.237,-82.801,1451
-43245,Trenton,GA,,city-us,2201,34.872,-85.509,5266
-43251,Trenton,FL,,city-us,2070,29.613,-82.818,5764
-43260,Trenton,WI,,city-us,1737,44.604,-92.565,2208
-43253,Trenton,ME,,city-us,1622,44.466,-68.391,3385
-43247,Trenton,WI,,city-us,1216,43.571,-88.839,1741
-43244,Trenton,TX,,city-us,773,33.426,-96.345,5365
-43242,Trenton,UT,,city-us,516,41.918,-111.942,2354
-43255,Trenton,NE,,city-us,492,40.176,-101.013,3757
-43265,Trenton,ND,,city-us,488,48.071,-103.837,727
-43262,Trenton,KY,,city-us,328,36.724,-87.263,1077
-43249,Trenton,KS,,city-us,244,37.846,-99.520,298
-43257,Trenton,NC,,city-us,234,35.067,-77.353,2317
-43248,Trenton,SC,,city-us,202,33.744,-81.841,2946
-43240,Trenton,SD,,city-us,172,44.232,-96.697,0
-43254,Trenton,IA,,city-us,65,41.062,-91.637,308
-43239,Trenton,IN,,city-us,0,40.450,-85.239,3935
-43256,Trenton,AL,,city-us,0,34.745,-86.252,285
-43261,Trenton,KS,,city-us,0,38.887,-97.649,408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43258,Trenton,NJ,Mercer County,,city-us,90457,40.217,-74.743,41473
+43264,Trenton,MI,Wayne County,,city-us,18295,42.139,-83.178,19939
+43241,Trenton,OH,Butler County,,city-us,13305,39.481,-84.458,4506
+43252,Trenton,MO,Grundy County,,city-us,5970,40.072,-93.577,191
+43263,Trenton,WI,Washington County,,city-us,4537,43.400,-88.095,4496
+43250,Trenton,TN,Gibson County,,city-us,4263,35.981,-88.941,5465
+43259,Trenton,NY,Oneida County,,city-us,4244,43.260,-75.206,3992
+43243,Trenton,IL,Clinton County,,city-us,2649,38.606,-89.682,4913
+43246,Trenton,OH,Delaware County,,city-us,2372,40.237,-82.801,1451
+43245,Trenton,GA,Dade County,,city-us,2201,34.872,-85.509,5266
+43251,Trenton,FL,Gilchrist County,,city-us,2070,29.613,-82.818,5764
+43260,Trenton,WI,Pierce County,,city-us,1737,44.604,-92.565,2208
+43253,Trenton,ME,Hancock County,,city-us,1622,44.466,-68.391,3385
+43247,Trenton,WI,Dodge County,,city-us,1216,43.571,-88.839,1741
+43244,Trenton,TX,Collin County / Fannin County / Grayson County,,city-us,773,33.426,-96.345,5365
+43242,Trenton,UT,Cache County,,city-us,516,41.918,-111.942,2354
+43255,Trenton,NE,Hitchcock County,,city-us,492,40.176,-101.013,3757
+43265,Trenton,ND,Williams County,,city-us,488,48.071,-103.837,727
+43262,Trenton,KY,Todd County,,city-us,328,36.724,-87.263,1077
+43249,Trenton,KS,Edwards County,,city-us,244,37.846,-99.520,298
+43257,Trenton,NC,Jones County,,city-us,234,35.067,-77.353,2317
+43248,Trenton,SC,Edgefield County,,city-us,202,33.744,-81.841,2946
+43240,Trenton,SD,Brookings County,,city-us,172,44.232,-96.697,0
+43254,Trenton,IA,Henry County,,city-us,65,41.062,-91.637,308
+43239,Trenton,IN,Blackford County,,city-us,0,40.450,-85.239,3935
+43256,Trenton,AL,Jackson County,,city-us,0,34.745,-86.252,285
+43261,Trenton,KS,Saline County,,city-us,0,38.887,-97.649,408

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8052,Cheney,WA,,city-us,13087,47.487,-117.576,30266
-8051,Cheney,KS,,city-us,2170,37.630,-97.783,4491
-8050,Cheney,NE,,city-us,144,40.726,-96.596,1199
-8049,Cheney,MO,,city-us,0,36.907,-92.442,356
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8052,Cheney,WA,Spokane County,,city-us,13087,47.487,-117.576,30266
+8051,Cheney,KS,Sedgwick County,,city-us,2170,37.630,-97.783,4491
+8050,Cheney,NE,Lancaster County,,city-us,144,40.726,-96.596,1199
+8049,Cheney,MO,Douglas County,,city-us,0,36.907,-92.442,356

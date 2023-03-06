@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5175,Bretz,WV,,city-us,0,39.542,-79.801,146
-5176,Bretz,WV,,city-us,0,39.095,-79.664,153
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5175,Bretz,WV,Preston County,,city-us,0,39.542,-79.801,146
+5176,Bretz,WV,Tucker County,,city-us,0,39.095,-79.664,153

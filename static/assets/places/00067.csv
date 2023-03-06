@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-334,Airlie,VA,,city-us,0,38.657,-77.717,435
-335,Airlie,MN,,city-us,0,44.020,-96.438,455
-336,Airlie,OR,,city-us,0,44.750,-123.331,630
+id,name,state,county,country,level,population,latitude,longitude,wiki
+334,Airlie,VA,Fauquier County,,city-us,0,38.657,-77.717,435
+335,Airlie,MN,Pipestone County,,city-us,0,44.020,-96.438,455
+336,Airlie,OR,Polk County,,city-us,0,44.750,-123.331,630

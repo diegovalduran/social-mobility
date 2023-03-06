@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34920,Ponderosa,NM,,city-us,120,35.660,-106.668,2154
-34921,Ponderosa,CA,,city-us,53,36.105,-118.528,2783
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34920,Ponderosa,NM,Sandoval County,,city-us,120,35.660,-106.668,2154
+34921,Ponderosa,CA,Tulare County,,city-us,53,36.105,-118.528,2783

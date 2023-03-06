@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11947,Donald,OR,,city-us,1014,45.222,-122.839,3338
-11950,Donald,WA,,city-us,91,46.477,-120.397,493
-11945,Donald,MT,,city-us,0,45.845,-112.427,332
-11946,Donald,GA,,city-us,0,31.822,-81.850,273
-11948,Donald,WV,,city-us,0,38.266,-80.709,176
-11949,Donald,WI,,city-us,0,45.252,-90.897,534
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11947,Donald,OR,Marion County,,city-us,1014,45.222,-122.839,3338
+11950,Donald,WA,Yakima County,,city-us,91,46.477,-120.397,493
+11945,Donald,MT,Jefferson County,,city-us,0,45.845,-112.427,332
+11946,Donald,GA,Long County,,city-us,0,31.822,-81.850,273
+11948,Donald,WV,Nicholas County,,city-us,0,38.266,-80.709,176
+11949,Donald,WI,Taylor County,,city-us,0,45.252,-90.897,534

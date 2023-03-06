@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48032,Yorkshire,VA,,city-us,10033,38.793,-77.448,1968
-48029,Yorkshire,NY,,city-us,3808,42.479,-78.520,3751
-48030,Yorkshire,OH,,city-us,104,40.325,-84.496,3024
-48031,Yorkshire,IA,,city-us,0,41.521,-95.580,890
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48032,Yorkshire,VA,Prince William County,,city-us,10033,38.793,-77.448,1968
+48029,Yorkshire,NY,Cattaraugus County,,city-us,3808,42.479,-78.520,3751
+48030,Yorkshire,OH,Darke County,,city-us,104,40.325,-84.496,3024
+48031,Yorkshire,IA,Harrison County,,city-us,0,41.521,-95.580,890

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5078,Bransford,TN,,city-us,228,36.504,-86.270,161
-5079,Bransford,TX,,city-us,0,32.900,-97.168,194
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5078,Bransford,TN,Sumner County,,city-us,228,36.504,-86.270,161
+5079,Bransford,TX,Tarrant County,,city-us,0,32.900,-97.168,194

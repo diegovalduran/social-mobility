@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43018,Tiptop,KY,,city-us,0,37.614,-83.061,143
-43019,Tiptop,VA,,city-us,0,37.211,-81.434,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43018,Tiptop,KY,Magoffin County,,city-us,0,37.614,-83.061,143
+43019,Tiptop,VA,Tazewell County,,city-us,0,37.211,-81.434,184

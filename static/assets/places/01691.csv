@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8533,Clarks Mills,NJ,,city-us,40905,40.282,-74.347,21298
-8531,Clarks Mills,WI,,city-us,0,44.090,-87.864,397
-8532,Clarks Mills,PA,,city-us,0,41.393,-80.184,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8533,Clarks Mills,NJ,Monmouth County,,city-us,40905,40.282,-74.347,21298
+8531,Clarks Mills,WI,Manitowoc County,,city-us,0,44.090,-87.864,397
+8532,Clarks Mills,PA,Mercer County,,city-us,0,41.393,-80.184,237

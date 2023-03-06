@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47028,Willow Grove,PA,,city-us,13958,40.144,-75.116,6650
-47027,Willow Grove,TX,,city-us,2231,31.550,-97.296,326
-47024,Willow Grove,KY,,city-us,0,38.788,-84.172,89
-47025,Willow Grove,WV,,city-us,0,38.933,-81.836,80
-47026,Willow Grove,DE,,city-us,0,39.071,-75.628,153
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47028,Willow Grove,PA,Montgomery County,,city-us,13958,40.144,-75.116,6650
+47027,Willow Grove,TX,McLennan County,,city-us,2231,31.550,-97.296,326
+47024,Willow Grove,KY,Bracken County,,city-us,0,38.788,-84.172,89
+47025,Willow Grove,WV,Jackson County,,city-us,0,38.933,-81.836,80
+47026,Willow Grove,DE,Kent County,,city-us,0,39.071,-75.628,153

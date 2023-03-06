@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36123,Red Springs,NC,,city-us,3096,34.806,-79.181,5456
-36124,Red Springs,WI,,city-us,986,44.895,-88.807,2213
-36122,Red Springs,TX,,city-us,0,33.613,-99.412,838
-36125,Red Springs,TX,,city-us,0,32.532,-95.271,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36123,Red Springs,NC,Hoke County / Robeson County,,city-us,3096,34.806,-79.181,5456
+36124,Red Springs,WI,Shawano County,,city-us,986,44.895,-88.807,2213
+36122,Red Springs,TX,Baylor County,,city-us,0,33.613,-99.412,838
+36125,Red Springs,TX,Smith County,,city-us,0,32.532,-95.271,97

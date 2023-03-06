@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22777,Kentucky,,United States,state,4512310,37.822,-85.768,80755
-22775,Kentucky,MI,,city-us,2983,46.338,-86.571,6230
-22776,Kentucky,KS,,city-us,1553,39.094,-95.417,888
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22777,Kentucky,,,United States,state,4512310,37.822,-85.768,80755
+22775,Kentucky,MI,Alger County,,city-us,2983,46.338,-86.571,6230
+22776,Kentucky,KS,Jefferson County,,city-us,1553,39.094,-95.417,888

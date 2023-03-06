@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30180,Myren,MI,,city-us,2983,46.338,-86.571,6230
-30183,Myron,SD,,city-us,139,45.101,-99.012,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30180,Myren,MI,Alger County,,city-us,2983,46.338,-86.571,6230
+30183,Myron,SD,Faulk County,,city-us,139,45.101,-99.012,0

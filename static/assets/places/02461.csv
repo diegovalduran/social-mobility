@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12292,DuBois,PA,,city-us,7460,41.119,-78.760,15080
-12294,Dubois,WY,,city-us,919,43.534,-109.630,11628
-12291,Dubois,ID,,city-us,514,44.176,-112.231,3913
-12293,Dubois,IN,,city-us,294,38.445,-86.804,1143
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12292,DuBois,PA,Clearfield County,,city-us,7460,41.119,-78.760,15080
+12294,Dubois,WY,Fremont County,,city-us,919,43.534,-109.630,11628
+12291,Dubois,ID,Clark County,,city-us,514,44.176,-112.231,3913
+12293,Dubois,IN,Dubois County,,city-us,294,38.445,-86.804,1143

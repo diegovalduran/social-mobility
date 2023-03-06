@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11308,Deer Lake,PA,,city-us,673,40.625,-76.060,2384
-11307,Deer Lake,PA,,city-us,417,39.850,-79.589,301
-11309,Deer Lake,ND,,city-us,37,47.044,-99.045,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11308,Deer Lake,PA,Schuylkill County,,city-us,673,40.625,-76.060,2384
+11307,Deer Lake,PA,Fayette County,,city-us,417,39.850,-79.589,301
+11309,Deer Lake,ND,Stutsman County,,city-us,37,47.044,-99.045,0

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26417,Magnolia Beach,TX,,city-us,217,28.560,-96.543,732
-26418,Magnolia Beach,WA,,city-us,0,47.382,-122.483,307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26417,Magnolia Beach,TX,Calhoun County,,city-us,217,28.560,-96.543,732
+26418,Magnolia Beach,WA,King County,,city-us,0,47.382,-122.483,307

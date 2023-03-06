@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19284,Haugen,WI,,city-us,263,45.609,-91.775,3423
-19283,Haugen,MN,,city-us,159,46.726,-93.137,2223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19284,Haugen,WI,Barron County,,city-us,263,45.609,-91.775,3423
+19283,Haugen,MN,Aitkin County,,city-us,159,46.726,-93.137,2223

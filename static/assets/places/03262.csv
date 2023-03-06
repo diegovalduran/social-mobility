@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16476,Gatesville,TX,,city-us,16854,31.435,-97.744,8262
-16477,Gatesville,NC,,city-us,262,36.403,-76.753,3107
-16475,Gatesville,IN,,city-us,0,39.262,-86.146,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16476,Gatesville,TX,Coryell County,,city-us,16854,31.435,-97.744,8262
+16477,Gatesville,NC,Gates County,,city-us,262,36.403,-76.753,3107
+16475,Gatesville,IN,Brown County,,city-us,0,39.262,-86.146,318

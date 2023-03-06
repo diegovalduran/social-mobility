@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31627,Numa,IA,,city-us,70,40.688,-92.978,4023
-31628,Numa,IN,,city-us,0,39.631,-87.370,433
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31627,Numa,IA,Appanoose County,,city-us,70,40.688,-92.978,4023
+31628,Numa,IN,Parke County,,city-us,0,39.631,-87.370,433

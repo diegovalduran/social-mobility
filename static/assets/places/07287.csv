@@ -1,58 +1,58 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36935,Riverside,CA,,city-us,317261,33.953,-117.396,34936
-36928,Riverside,OH,,city-us,24350,39.780,-84.124,4200
-36938,Riverside,KS,,city-us,13248,37.585,-97.290,145
-36949,Riverside,CT,,city-us,9133,41.030,-73.584,1933
-36909,Riverside,IL,,city-us,9061,41.835,-87.823,9358
-36900,Riverside,NJ,,city-us,7982,40.036,-74.956,14342
-36916,Riverside,MD,,city-us,6193,39.474,-76.241,3732
-36932,Riverside,MO,,city-us,4024,39.178,-94.613,4657
-36896,Riverside,MI,,city-us,3671,42.205,-86.381,2705
-36942,Riverside,NY,,city-us,3360,40.881,-72.678,1940
-36939,Riverside,AL,,city-us,2251,33.606,-86.204,3623
-36895,Riverside,IL,,city-us,2062,39.998,-91.433,174
-36930,Riverside,PA,,city-us,2036,40.955,-76.629,2100
-36898,Riverside,UT,,city-us,1417,41.789,-112.149,1917
-36927,Riverside,MI,,city-us,1132,44.216,-85.141,2648
-36947,Riverside,IA,,city-us,1055,41.480,-91.581,7507
-36897,Riverside,ID,,city-us,1015,43.197,-112.435,129
-36945,Riverside,TX,,city-us,553,30.853,-95.404,2916
-36941,Riverside,NY,,city-us,432,42.156,-77.083,2561
-36912,Riverside,NE,,city-us,384,40.215,-96.756,257
-36944,Riverside,OR,,city-us,330,45.675,-118.737,2005
-36931,Riverside,WA,,city-us,321,48.502,-119.506,3638
-36920,Riverside,MN,,city-us,277,44.949,-96.033,1902
-36902,Riverside,PA,,city-us,246,40.283,-78.922,302
-36908,Riverside,SD,,city-us,124,43.040,-96.983,277
-36943,Riverside,KS,,city-us,86,38.778,-99.688,0
-36899,Riverside,SD,,city-us,63,45.545,-98.041,277
-36904,Riverside,WY,,city-us,63,41.217,-106.779,3069
-36940,Riverside,ND,,city-us,37,47.384,-97.911,0
-36914,Riverside,SD,,city-us,21,44.577,-99.240,277
-36926,Riverside,SD,,city-us,17,43.688,-100.349,277
-36901,Riverside,WI,,city-us,0,46.076,-92.248,115
-36903,Riverside,ID,,city-us,0,43.502,-116.767,156
-36905,Riverside,MD,,city-us,0,38.388,-77.146,451
-36906,Riverside,OR,,city-us,0,45.376,-122.387,140
-36907,Riverside,NV,,city-us,0,36.736,-114.221,1205
-36910,Riverside,NM,,city-us,0,32.836,-104.311,574
-36911,Riverside,IN,,city-us,0,40.325,-87.166,720
-36913,Riverside,NM,,city-us,0,32.932,-108.596,1008
-36915,Riverside,SD,,city-us,0,43.723,-97.948,277
-36917,Riverside,MO,,city-us,0,38.287,-90.380,251
-36918,Riverside,WV,,city-us,0,39.173,-77.856,147
-36919,Riverside,WV,,city-us,0,38.207,-81.405,276
-36921,Riverside,WI,,city-us,0,42.594,-90.022,118
-36922,Riverside,IN,,city-us,0,41.256,-86.894,136
-36923,Riverside,NM,,city-us,0,33.333,-105.060,676
-36924,Riverside,OR,,city-us,0,44.607,-123.157,110
-36925,Riverside,OR,,city-us,0,43.542,-118.159,859
-36929,Riverside,DE,,city-us,0,39.796,-75.466,196
-36933,Riverside,MT,,city-us,0,46.275,-114.158,514
-36934,Riverside,WV,,city-us,0,39.173,-81.177,166
-36936,Riverside,VA,,city-us,0,37.246,-80.175,257
-36937,Riverside,NM,,city-us,0,36.982,-107.876,627
-36946,Riverside,KY,,city-us,0,37.159,-86.544,445
-36948,Riverside,IN,,city-us,0,40.696,-85.085,225
-36950,Riverside,WV,,city-us,0,39.278,-81.558,88
-36951,Riverside,OR,,city-us,0,45.089,-123.453,134
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36935,Riverside,CA,Riverside County,,city-us,317261,33.953,-117.396,34936
+36928,Riverside,OH,Montgomery County,,city-us,24350,39.780,-84.124,4200
+36938,Riverside,KS,Sedgwick County,,city-us,13248,37.585,-97.290,145
+36949,Riverside,CT,Western Connecticut Planning Region,,city-us,9133,41.030,-73.584,1933
+36909,Riverside,IL,Cook County,,city-us,9061,41.835,-87.823,9358
+36900,Riverside,NJ,Burlington County,,city-us,7982,40.036,-74.956,14342
+36916,Riverside,MD,Harford County,,city-us,6193,39.474,-76.241,3732
+36932,Riverside,MO,Platte County,,city-us,4024,39.178,-94.613,4657
+36896,Riverside,MI,Berrien County,,city-us,3671,42.205,-86.381,2705
+36942,Riverside,NY,Suffolk County,,city-us,3360,40.881,-72.678,1940
+36939,Riverside,AL,St. Clair County,,city-us,2251,33.606,-86.204,3623
+36895,Riverside,IL,Adams County,,city-us,2062,39.998,-91.433,174
+36930,Riverside,PA,Northumberland County,,city-us,2036,40.955,-76.629,2100
+36898,Riverside,UT,Box Elder County,,city-us,1417,41.789,-112.149,1917
+36927,Riverside,MI,Missaukee County,,city-us,1132,44.216,-85.141,2648
+36947,Riverside,IA,Washington County,,city-us,1055,41.480,-91.581,7507
+36897,Riverside,ID,Bingham County,,city-us,1015,43.197,-112.435,129
+36945,Riverside,TX,Walker County,,city-us,553,30.853,-95.404,2916
+36941,Riverside,NY,Steuben County,,city-us,432,42.156,-77.083,2561
+36912,Riverside,NE,Gage County,,city-us,384,40.215,-96.756,257
+36944,Riverside,OR,Umatilla County,,city-us,330,45.675,-118.737,2005
+36931,Riverside,WA,Okanogan County,,city-us,321,48.502,-119.506,3638
+36920,Riverside,MN,Lac qui Parle County,,city-us,277,44.949,-96.033,1902
+36902,Riverside,PA,Cambria County,,city-us,246,40.283,-78.922,302
+36908,Riverside,SD,Clay County,,city-us,124,43.040,-96.983,277
+36943,Riverside,KS,Trego County,,city-us,86,38.778,-99.688,0
+36899,Riverside,SD,Brown County,,city-us,63,45.545,-98.041,277
+36904,Riverside,WY,Carbon County,,city-us,63,41.217,-106.779,3069
+36940,Riverside,ND,Steele County,,city-us,37,47.384,-97.911,0
+36914,Riverside,SD,Hand County,,city-us,21,44.577,-99.240,277
+36926,Riverside,SD,Mellette County,,city-us,17,43.688,-100.349,277
+36901,Riverside,WI,Burnett County,,city-us,0,46.076,-92.248,115
+36903,Riverside,ID,Canyon County,,city-us,0,43.502,-116.767,156
+36905,Riverside,MD,Charles County,,city-us,0,38.388,-77.146,451
+36906,Riverside,OR,Clackamas County,,city-us,0,45.376,-122.387,140
+36907,Riverside,NV,Clark County,,city-us,0,36.736,-114.221,1205
+36910,Riverside,NM,Eddy County,,city-us,0,32.836,-104.311,574
+36911,Riverside,IN,Fountain County,,city-us,0,40.325,-87.166,720
+36913,Riverside,NM,Grant County,,city-us,0,32.932,-108.596,1008
+36915,Riverside,SD,Hanson County,,city-us,0,43.723,-97.948,277
+36917,Riverside,MO,Jefferson County,,city-us,0,38.287,-90.380,251
+36918,Riverside,WV,Jefferson County,,city-us,0,39.173,-77.856,147
+36919,Riverside,WV,Kanawha County,,city-us,0,38.207,-81.405,276
+36921,Riverside,WI,Lafayette County,,city-us,0,42.594,-90.022,118
+36922,Riverside,IN,LaPorte County,,city-us,0,41.256,-86.894,136
+36923,Riverside,NM,Lincoln County,,city-us,0,33.333,-105.060,676
+36924,Riverside,OR,Linn County,,city-us,0,44.607,-123.157,110
+36925,Riverside,OR,Malheur County,,city-us,0,43.542,-118.159,859
+36929,Riverside,DE,New Castle County,,city-us,0,39.796,-75.466,196
+36933,Riverside,MT,Ravalli County,,city-us,0,46.275,-114.158,514
+36934,Riverside,WV,Ritchie County,,city-us,0,39.173,-81.177,166
+36936,Riverside,VA,Roanoke County,,city-us,0,37.246,-80.175,257
+36937,Riverside,NM,San Juan County,,city-us,0,36.982,-107.876,627
+36946,Riverside,KY,Warren County,,city-us,0,37.159,-86.544,445
+36948,Riverside,IN,Wells County,,city-us,0,40.696,-85.085,225
+36950,Riverside,WV,Wood County,,city-us,0,39.278,-81.558,88
+36951,Riverside,OR,Yamhill County,,city-us,0,45.089,-123.453,134

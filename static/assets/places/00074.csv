@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-367,Al Hillah,,Saudi Arabia,city-international,594605,23.489,46.756,11890
-366,Al Hillah,,Iraq,city-international,541034,32.483,44.433,11890
+id,name,state,county,country,level,population,latitude,longitude,wiki
+367,Al Hillah,,,Saudi Arabia,city-international,594605,23.489,46.756,11890
+366,Al Hillah,,,Iraq,city-international,541034,32.483,44.433,11890

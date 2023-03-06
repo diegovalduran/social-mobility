@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24672,Libby,MT,,city-us,2903,48.388,-115.556,10959
-24669,Libbey,OK,,city-us,0,36.937,-101.975,458
-24670,Libby,MN,,city-us,0,46.784,-93.325,819
-24671,Libby,OR,,city-us,0,43.338,-124.234,427
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24672,Libby,MT,Lincoln County,,city-us,2903,48.388,-115.556,10959
+24669,Libbey,OK,Texas County,,city-us,0,36.937,-101.975,458
+24670,Libby,MN,Aitkin County,,city-us,0,46.784,-93.325,819
+24671,Libby,OR,Coos County,,city-us,0,43.338,-124.234,427

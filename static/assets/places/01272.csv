@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6433,Cadiz,,Philippines,city-international,158544,10.950,123.300,39829
-6434,Cadiz,,Spain,city-international,114244,36.535,-6.298,39829
-6429,Cadiz,OH,,city-us,3378,40.268,-81.047,1240
-6432,Cadiz,KY,,city-us,2691,36.865,-87.835,3648
-6427,Cadiz,WI,,city-us,755,42.552,-89.775,2720
-6430,Cadiz,IN,,city-us,160,39.951,-85.487,3044
-6426,Cadiz,TX,,city-us,0,28.427,-97.939,1769
-6428,Cadiz,IL,,city-us,0,37.579,-88.226,113
-6431,Cadiz,CA,,city-us,0,34.520,-115.513,1785
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6433,Cadiz,,,Philippines,city-international,158544,10.950,123.300,39829
+6434,Cadiz,,,Spain,city-international,114244,36.535,-6.298,39829
+6429,Cadiz,OH,Harrison County,,city-us,3378,40.268,-81.047,1240
+6432,Cadiz,KY,Trigg County,,city-us,2691,36.865,-87.835,3648
+6427,Cadiz,WI,Green County,,city-us,755,42.552,-89.775,2720
+6430,Cadiz,IN,Henry County,,city-us,160,39.951,-85.487,3044
+6426,Cadiz,TX,Bee County,,city-us,0,28.427,-97.939,1769
+6428,Cadiz,IL,Hardin County,,city-us,0,37.579,-88.226,113
+6431,Cadiz,CA,San Bernardino County,,city-us,0,34.520,-115.513,1785

@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24079,Laurel,MD,,city-us,29490,39.099,-76.848,31965
-24075,Laurel,VA,,city-us,17962,37.643,-77.509,3361
-24077,Laurel,MS,,city-us,17106,31.694,-89.131,13122
-24080,Laurel,FL,,city-us,11263,27.130,-82.453,1985
-24086,Laurel,MT,,city-us,7180,45.669,-108.772,13861
-24083,Laurel,DE,,city-us,4038,38.556,-75.571,6818
-24076,Laurel,OH,,city-us,1078,39.502,-82.576,1185
-24072,Laurel,NE,,city-us,968,42.429,-97.090,4533
-24082,Laurel,NY,,city-us,871,40.970,-72.562,2316
-24074,Laurel,IN,,city-us,409,39.501,-85.186,3505
-24078,Laurel,IA,,city-us,215,41.884,-92.922,3528
-24071,Laurel,WV,,city-us,0,38.961,-79.989,89
-24073,Laurel,OH,,city-us,0,38.915,-84.192,271
-24081,Laurel,TN,,city-us,0,35.777,-83.406,156
-24084,Laurel,OR,,city-us,0,45.418,-122.992,6119
-24085,Laurel,WA,,city-us,0,48.855,-122.486,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24079,Laurel,MD,Prince George's County,,city-us,29490,39.099,-76.848,31965
+24075,Laurel,VA,Henrico County,,city-us,17962,37.643,-77.509,3361
+24077,Laurel,MS,Jones County,,city-us,17106,31.694,-89.131,13122
+24080,Laurel,FL,Sarasota County,,city-us,11263,27.130,-82.453,1985
+24086,Laurel,MT,Yellowstone County,,city-us,7180,45.669,-108.772,13861
+24083,Laurel,DE,Sussex County,,city-us,4038,38.556,-75.571,6818
+24076,Laurel,OH,Hocking County,,city-us,1078,39.502,-82.576,1185
+24072,Laurel,NE,Cedar County,,city-us,968,42.429,-97.090,4533
+24082,Laurel,NY,Suffolk County,,city-us,871,40.970,-72.562,2316
+24074,Laurel,IN,Franklin County,,city-us,409,39.501,-85.186,3505
+24078,Laurel,IA,Marshall County,,city-us,215,41.884,-92.922,3528
+24071,Laurel,WV,Barbour County,,city-us,0,38.961,-79.989,89
+24073,Laurel,OH,Clermont County,,city-us,0,38.915,-84.192,271
+24081,Laurel,TN,Sevier County,,city-us,0,35.777,-83.406,156
+24084,Laurel,OR,Washington County,,city-us,0,45.418,-122.992,6119
+24085,Laurel,WA,Whatcom County,,city-us,0,48.855,-122.486,157

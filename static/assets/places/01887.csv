@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9663,Conklin,NY,,city-us,4962,42.041,-75.835,4427
-9665,Conklin,MI,,city-us,2017,43.162,-85.851,5829
-9666,Conklin,ND,,city-us,11,47.294,-99.299,0
-9664,Conklin,VA,,city-us,0,38.896,-77.517,301
-9667,Conklin,MO,,city-us,0,37.385,-93.019,416
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9663,Conklin,NY,Broome County,,city-us,4962,42.041,-75.835,4427
+9665,Conklin,MI,Ottawa County,,city-us,2017,43.162,-85.851,5829
+9666,Conklin,ND,Stutsman County,,city-us,11,47.294,-99.299,0
+9664,Conklin,VA,Loudoun County,,city-us,0,38.896,-77.517,301
+9667,Conklin,MO,Webster County,,city-us,0,37.385,-93.019,416

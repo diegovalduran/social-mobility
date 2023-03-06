@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35924,Raven Rock,NC,,city-us,0,35.464,-78.914,2949
-35925,Raven Rock,NJ,,city-us,0,40.411,-75.033,1175
-35926,Raven Rock,WV,,city-us,0,39.439,-81.151,287
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35924,Raven Rock,NC,Harnett County,,city-us,0,35.464,-78.914,2949
+35925,Raven Rock,NJ,Hunterdon County,,city-us,0,40.411,-75.033,1175
+35926,Raven Rock,WV,Pleasants County,,city-us,0,39.439,-81.151,287

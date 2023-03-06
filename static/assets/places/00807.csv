@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4146,Black Horse,NJ,,city-us,43905,40.450,-74.479,18660
-4145,Black Horse,PA,,city-us,0,39.986,-75.960,136
-4147,Black Horse,OH,,city-us,0,41.159,-81.273,1509
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4146,Black Horse,NJ,Middlesex County,,city-us,43905,40.450,-74.479,18660
+4145,Black Horse,PA,Chester County,,city-us,0,39.986,-75.960,136
+4147,Black Horse,OH,Portage County,,city-us,0,41.159,-81.273,1509

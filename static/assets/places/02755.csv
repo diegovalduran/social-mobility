@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13723,Encinal,TX,,city-us,539,28.041,-99.354,3389
-13722,Encinal,NM,,city-us,307,35.117,-107.465,2332
-13724,Encinal,CA,,city-us,0,39.216,-121.662,196
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13723,Encinal,TX,La Salle County,,city-us,539,28.041,-99.354,3389
+13722,Encinal,NM,Cibola County,,city-us,307,35.117,-107.465,2332
+13724,Encinal,CA,Sutter County,,city-us,0,39.216,-121.662,196

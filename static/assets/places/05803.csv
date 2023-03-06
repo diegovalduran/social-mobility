@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29889,Mount Royal,NJ,,city-us,777,39.810,-75.211,735
-29890,Mount Royal,PA,,city-us,0,40.039,-76.888,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29889,Mount Royal,NJ,Gloucester County,,city-us,777,39.810,-75.211,735
+29890,Mount Royal,PA,York County,,city-us,0,40.039,-76.888,167

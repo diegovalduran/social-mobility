@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11608,Depew,NY,,city-us,15060,42.904,-78.692,10791
-11606,Depew,OK,,city-us,408,35.803,-96.506,2910
-11607,Depew,MO,,city-us,0,37.023,-92.863,379
-11609,Depew,IA,,city-us,0,43.184,-94.543,244
-11610,Depew,OH,,city-us,0,40.233,-84.115,105
-11613,Depue,WV,,city-us,0,38.851,-81.339,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11608,Depew,NY,Erie County,,city-us,15060,42.904,-78.692,10791
+11606,Depew,OK,Creek County,,city-us,408,35.803,-96.506,2910
+11607,Depew,MO,Douglas County,,city-us,0,37.023,-92.863,379
+11609,Depew,IA,Palo Alto County,,city-us,0,43.184,-94.543,244
+11610,Depew,OH,Shelby County,,city-us,0,40.233,-84.115,105
+11613,Depue,WV,Roane County,,city-us,0,38.851,-81.339,85

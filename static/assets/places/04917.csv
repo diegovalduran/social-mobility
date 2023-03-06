@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25268,Lively,MO,,city-us,0,38.210,-93.108,293
-25269,Lively,WV,,city-us,0,37.940,-81.257,165
-25270,Lively,TX,,city-us,0,32.410,-96.323,124
-25271,Lively,VA,,city-us,0,37.778,-76.514,624
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25268,Lively,MO,Benton County,,city-us,0,38.210,-93.108,293
+25269,Lively,WV,Fayette County,,city-us,0,37.940,-81.257,165
+25270,Lively,TX,Kaufman County,,city-us,0,32.410,-96.323,124
+25271,Lively,VA,Lancaster County,,city-us,0,37.778,-76.514,624

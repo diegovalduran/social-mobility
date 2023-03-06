@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23347,La Grande,OR,,city-us,13158,45.325,-118.088,10290
-23345,La Grand,MN,,city-us,4319,45.893,-95.457,1955
-23346,La Grande,WA,,city-us,0,46.834,-122.319,512
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23347,La Grande,OR,Union County,,city-us,13158,45.325,-118.088,10290
+23345,La Grand,MN,Douglas County,,city-us,4319,45.893,-95.457,1955
+23346,La Grande,WA,Pierce County,,city-us,0,46.834,-122.319,512

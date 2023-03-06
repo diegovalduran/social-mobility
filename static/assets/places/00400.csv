@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2147,Babcock,MI,,city-us,1123,42.196,-84.763,2533
-2149,Babcock,WI,,city-us,82,44.302,-90.111,756
-2148,Babcock,GA,,city-us,0,31.113,-84.642,420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2147,Babcock,MI,Calhoun County,,city-us,1123,42.196,-84.763,2533
+2149,Babcock,WI,Wood County,,city-us,82,44.302,-90.111,756
+2148,Babcock,GA,Miller County,,city-us,0,31.113,-84.642,420

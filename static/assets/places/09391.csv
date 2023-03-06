@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47458,Wolford,ND,,city-us,40,48.499,-99.704,2776
-47456,Wolford,VA,,city-us,0,37.364,-81.991,264
-47457,Wolford,MN,,city-us,0,46.546,-93.979,312
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47458,Wolford,ND,Pierce County,,city-us,40,48.499,-99.704,2776
+47456,Wolford,VA,Buchanan County,,city-us,0,37.364,-81.991,264
+47457,Wolford,MN,Crow Wing County,,city-us,0,46.546,-93.979,312

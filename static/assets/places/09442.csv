@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47740,Wooster,OH,,city-us,4627,40.773,-81.950,1342
-47736,Wooster,AR,,city-us,1043,35.202,-92.456,2479
-47737,Wooster,IN,,city-us,0,41.209,-85.743,302
-47738,Wooster,GA,,city-us,0,33.142,-84.630,268
-47739,Wooster,IN,,city-us,0,38.737,-85.693,402
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47740,Wooster,OH,Wayne County,,city-us,4627,40.773,-81.950,1342
+47736,Wooster,AR,Faulkner County,,city-us,1043,35.202,-92.456,2479
+47737,Wooster,IN,Kosciusko County,,city-us,0,41.209,-85.743,302
+47738,Wooster,GA,Meriwether County,,city-us,0,33.142,-84.630,268
+47739,Wooster,IN,Scott County,,city-us,0,38.737,-85.693,402

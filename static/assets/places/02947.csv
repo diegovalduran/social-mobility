@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14786,Felton,CA,,city-us,3467,37.051,-122.073,6736
-14785,Felton,DE,,city-us,1323,39.008,-75.578,3587
-14787,Felton,PA,,city-us,504,39.855,-76.564,1988
-14783,Felton,MN,,city-us,80,47.109,-96.500,1782
-14784,Felton,GA,,city-us,0,33.888,-85.224,211
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14786,Felton,CA,Santa Cruz County,,city-us,3467,37.051,-122.073,6736
+14785,Felton,DE,Kent County,,city-us,1323,39.008,-75.578,3587
+14787,Felton,PA,York County,,city-us,504,39.855,-76.564,1988
+14783,Felton,MN,Clay County,,city-us,80,47.109,-96.500,1782
+14784,Felton,GA,Haralson County,,city-us,0,33.888,-85.224,211

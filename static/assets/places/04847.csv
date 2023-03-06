@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24847,Lillian,AL,,city-us,1330,30.413,-87.437,1567
-24849,Lillian,NE,,city-us,129,41.613,-99.538,400
-24845,Lilian,VA,,city-us,0,37.862,-76.300,96
-24848,Lillian,WV,,city-us,0,39.115,-80.065,90
-24850,Lillian,TX,,city-us,0,32.506,-97.188,710
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24847,Lillian,AL,Baldwin County,,city-us,1330,30.413,-87.437,1567
+24849,Lillian,NE,Custer County,,city-us,129,41.613,-99.538,400
+24845,Lilian,VA,Northumberland County,,city-us,0,37.862,-76.300,96
+24848,Lillian,WV,Barbour County,,city-us,0,39.115,-80.065,90
+24850,Lillian,TX,Johnson County,,city-us,0,32.506,-97.188,710

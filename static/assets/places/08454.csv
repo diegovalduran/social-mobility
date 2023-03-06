@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42654,Tennant,IA,,city-us,79,41.594,-95.441,3115
-42655,Tennant,CA,,city-us,42,41.584,-121.913,4127
-42656,Tennent,NJ,,city-us,0,40.279,-74.334,880
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42654,Tennant,IA,Shelby County,,city-us,79,41.594,-95.441,3115
+42655,Tennant,CA,Siskiyou County,,city-us,42,41.584,-121.913,4127
+42656,Tennent,NJ,Monmouth County,,city-us,0,40.279,-74.334,880

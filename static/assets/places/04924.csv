@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25320,Lloyds,MD,,city-us,0,38.590,-76.183,86
-25321,Lloyds,VA,,city-us,0,38.001,-77.015,183
-25322,Lloyds,AL,,city-us,0,30.618,-88.128,81
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25320,Lloyds,MD,Dorchester County,,city-us,0,38.590,-76.183,86
+25321,Lloyds,VA,Essex County,,city-us,0,38.001,-77.015,183
+25322,Lloyds,AL,Mobile County,,city-us,0,30.618,-88.128,81

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26619,Manly,IA,,city-us,1246,43.287,-93.202,4631
-26611,Manley,NE,,city-us,171,40.920,-96.166,3198
-26613,Manley,MN,,city-us,16,43.590,-96.431,798
-26612,Manley,IL,,city-us,0,40.584,-90.426,146
-26618,Manly,NC,,city-us,0,35.186,-79.372,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26619,Manly,IA,Worth County,,city-us,1246,43.287,-93.202,4631
+26611,Manley,NE,Cass County,,city-us,171,40.920,-96.166,3198
+26613,Manley,MN,Rock County,,city-us,16,43.590,-96.431,798
+26612,Manley,IL,Fulton County,,city-us,0,40.584,-90.426,146
+26618,Manly,NC,Moore County,,city-us,0,35.186,-79.372,263

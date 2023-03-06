@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42287,Sweet Water,AL,,city-us,225,32.097,-87.868,2019
-42288,Sweet Water,IL,,city-us,0,40.054,-89.694,131
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42287,Sweet Water,AL,Marengo County,,city-us,225,32.097,-87.868,2019
+42288,Sweet Water,IL,Menard County,,city-us,0,40.054,-89.694,131

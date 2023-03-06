@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25184,Little Chicago,WI,,city-us,0,45.047,-89.844,820
-25185,Little Chicago,OH,,city-us,0,39.722,-82.953,352
-25186,Little Chicago,MN,,city-us,0,44.479,-93.322,351
-25187,Little Chicago,SC,,city-us,0,35.063,-82.184,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25184,Little Chicago,WI,Marathon County,,city-us,0,45.047,-89.844,820
+25185,Little Chicago,OH,Pickaway County,,city-us,0,39.722,-82.953,352
+25186,Little Chicago,MN,Rice County,,city-us,0,44.479,-93.322,351
+25187,Little Chicago,SC,Spartanburg County,,city-us,0,35.063,-82.184,231

@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40247,Solomon,KS,,city-us,993,38.921,-97.369,4105
-40248,Solomon,AZ,,city-us,555,32.813,-109.634,4154
-40245,Solomon,KS,,city-us,541,39.372,-97.873,418
-40251,Solomon,KS,,city-us,308,38.827,-97.432,4105
-40252,Solomon,KS,,city-us,145,39.227,-100.649,180
-40249,Solomon,KS,,city-us,144,39.313,-100.078,466
-40250,Solomon,KS,,city-us,127,39.697,-99.347,4105
-40246,Solomon,IL,,city-us,0,40.249,-88.823,122
-40253,Solomon,AK,,city-us,0,64.561,-164.439,1610
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40247,Solomon,KS,Dickinson County / Saline County,,city-us,993,38.921,-97.369,4105
+40248,Solomon,AZ,Graham County,,city-us,555,32.813,-109.634,4154
+40245,Solomon,KS,Cloud County,,city-us,541,39.372,-97.873,418
+40251,Solomon,KS,Saline County,,city-us,308,38.827,-97.432,4105
+40252,Solomon,KS,Sheridan County,,city-us,145,39.227,-100.649,180
+40249,Solomon,KS,Graham County,,city-us,144,39.313,-100.078,466
+40250,Solomon,KS,Phillips County,,city-us,127,39.697,-99.347,4105
+40246,Solomon,IL,DeWitt County,,city-us,0,40.249,-88.823,122
+40253,Solomon,AK,Unorganized Borough,,city-us,0,64.561,-164.439,1610

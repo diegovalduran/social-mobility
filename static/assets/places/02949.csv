@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14792,Fenner,NY,,city-us,1651,42.975,-75.773,3053
-14793,Fenner,CA,,city-us,0,34.816,-115.179,304
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14792,Fenner,NY,Madison County,,city-us,1651,42.975,-75.773,3053
+14793,Fenner,CA,San Bernardino County,,city-us,0,34.816,-115.179,304

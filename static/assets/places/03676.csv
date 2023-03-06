@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18726,Hanksville,UT,,city-us,162,38.373,-110.714,2106
-18725,Hanksville,VT,,city-us,32,44.248,-72.962,740
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18726,Hanksville,UT,Wayne County,,city-us,162,38.373,-110.714,2106
+18725,Hanksville,VT,Chittenden County,,city-us,32,44.248,-72.962,740

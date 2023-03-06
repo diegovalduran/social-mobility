@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14099,Evarts,KY,,city-us,865,36.866,-83.190,3089
-14149,Everts,MN,,city-us,751,46.330,-95.708,1981
-14100,Evarts,IL,,city-us,0,42.253,-89.474,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14099,Evarts,KY,Harlan County,,city-us,865,36.866,-83.190,3089
+14149,Everts,MN,Otter Tail County,,city-us,751,46.330,-95.708,1981
+14100,Evarts,IL,Stephenson County,,city-us,0,42.253,-89.474,86

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26249,Mack,OH,,city-us,11452,39.158,-84.650,1263
-26250,Mack,MN,,city-us,10,47.566,-93.774,700
-26251,Mack,CO,,city-us,0,39.224,-108.865,824
-26252,Mack,LA,,city-us,0,29.965,-92.074,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26249,Mack,OH,Hamilton County,,city-us,11452,39.158,-84.650,1263
+26250,Mack,MN,Itasca County,,city-us,10,47.566,-93.774,700
+26251,Mack,CO,Mesa County,,city-us,0,39.224,-108.865,824
+26252,Mack,LA,Vermilion Parish,,city-us,0,29.965,-92.074,82

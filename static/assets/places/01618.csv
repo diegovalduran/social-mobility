@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8238,Cheyenne,WY,,city-us,65051,41.140,-104.820,20494
-8239,Cheyenne,OK,,city-us,755,35.614,-99.671,8690
-8237,Cheyenne,KS,,city-us,279,38.613,-100.615,195
-8236,Cheyenne,KS,,city-us,187,38.519,-98.640,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8238,Cheyenne,WY,Laramie County,,city-us,65051,41.140,-104.820,20494
+8239,Cheyenne,OK,Roger Mills County,,city-us,755,35.614,-99.671,8690
+8237,Cheyenne,KS,Lane County,,city-us,279,38.613,-100.615,195
+8236,Cheyenne,KS,Barton County,,city-us,187,38.519,-98.640,195

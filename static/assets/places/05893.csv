@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30252,Napoleon,OH,,city-us,9732,41.381,-84.176,1513
-30253,Napoleon,MI,,city-us,1131,42.161,-84.246,2349
-30255,Napoleon,ND,,city-us,753,46.508,-99.771,3504
-30256,Napoleon,IN,,city-us,238,39.205,-85.331,3267
-30254,Napoleon,MO,,city-us,211,39.131,-94.071,3824
-30250,Napoleon,KY,,city-us,0,38.760,-84.789,326
-30251,Napoleon,MS,,city-us,0,30.326,-89.627,409
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30252,Napoleon,OH,Henry County,,city-us,9732,41.381,-84.176,1513
+30253,Napoleon,MI,Jackson County,,city-us,1131,42.161,-84.246,2349
+30255,Napoleon,ND,Logan County,,city-us,753,46.508,-99.771,3504
+30256,Napoleon,IN,Ripley County,,city-us,238,39.205,-85.331,3267
+30254,Napoleon,MO,Lafayette County,,city-us,211,39.131,-94.071,3824
+30250,Napoleon,KY,Gallatin County,,city-us,0,38.760,-84.789,326
+30251,Napoleon,MS,Hancock County,,city-us,0,30.326,-89.627,409

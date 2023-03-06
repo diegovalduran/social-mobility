@@ -1,36 +1,36 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1664,Ashland,CA,,city-us,23640,37.695,-122.114,6197
-1686,Ashland,OR,,city-us,21607,42.195,-122.709,23817
-1671,Ashland,KY,,city-us,21476,38.478,-82.638,18116
-1666,Ashland,OH,,city-us,19282,40.869,-82.318,7633
-1688,Ashland,MA,,city-us,18560,42.258,-71.474,17329
-1672,Ashland,NJ,,city-us,9248,39.863,-75.006,2044
-1668,Ashland,WI,,city-us,7918,46.582,-90.872,26035
-1684,Ashland,VA,,city-us,7573,37.759,-77.480,9150
-1670,Ashland,MO,,city-us,4871,38.774,-92.257,4248
-1695,Ashland,NE,,city-us,3286,41.032,-96.398,308
-1691,Ashland,MI,,city-us,2787,43.337,-85.857,2117
-1678,Ashland,PA,,city-us,2481,40.781,-76.345,10345
-1677,Ashland,AL,,city-us,1969,33.274,-85.836,5019
-1682,Ashland,NH,,city-us,1959,43.726,-71.643,4602
-1674,Ashland,NY,,city-us,1487,42.019,-76.750,3572
-1673,Ashland,IL,,city-us,1258,39.916,-90.023,2427
-1675,Ashland,PA,,city-us,1117,41.285,-79.562,2140
-1676,Ashland,KS,,city-us,770,37.189,-99.766,2858
-1694,Ashland,MT,,city-us,758,45.594,-106.271,3708
-1683,Ashland,NY,,city-us,692,42.319,-74.335,2772
-1667,Ashland,WI,,city-us,596,46.382,-90.734,26035
-1665,Ashland,ME,,city-us,586,46.631,-68.406,4446
-1669,Ashland,MS,,city-us,508,34.833,-89.176,3752
-1680,Ashland,MN,,city-us,309,43.973,-92.868,2115
-1689,Ashland,LA,,city-us,193,32.142,-93.098,6088
-1693,Ashland,KS,,city-us,152,39.101,-96.568,2858
-1696,Ashland,ND,,city-us,64,47.104,-98.641,0
-1692,Ashland,OK,,city-us,32,34.768,-96.070,2458
-1679,Ashland,LA,,city-us,0,31.286,-91.731,225
-1681,Ashland,GA,,city-us,0,34.326,-83.356,230
-1685,Ashland,IN,,city-us,0,39.926,-85.304,387
-1687,Ashland,WV,,city-us,0,37.408,-81.353,439
-1690,Ashland,DE,,city-us,0,39.800,-75.657,346
-1697,Ashland,LA,,city-us,0,29.530,-90.674,668
-1698,Ashland,TN,,city-us,0,35.436,-87.668,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1664,Ashland,CA,Alameda County,,city-us,23640,37.695,-122.114,6197
+1686,Ashland,OR,Jackson County,,city-us,21607,42.195,-122.709,23817
+1671,Ashland,KY,Boyd County,,city-us,21476,38.478,-82.638,18116
+1666,Ashland,OH,Ashland County,,city-us,19282,40.869,-82.318,7633
+1688,Ashland,MA,Middlesex County,,city-us,18560,42.258,-71.474,17329
+1672,Ashland,NJ,Camden County,,city-us,9248,39.863,-75.006,2044
+1668,Ashland,WI,Ashland County / Bayfield County,,city-us,7918,46.582,-90.872,26035
+1684,Ashland,VA,Hanover County,,city-us,7573,37.759,-77.480,9150
+1670,Ashland,MO,Boone County,,city-us,4871,38.774,-92.257,4248
+1695,Ashland,NE,Saunders County,,city-us,3286,41.032,-96.398,308
+1691,Ashland,MI,Newaygo County,,city-us,2787,43.337,-85.857,2117
+1678,Ashland,PA,Columbia County / Schuylkill County,,city-us,2481,40.781,-76.345,10345
+1677,Ashland,AL,Clay County,,city-us,1969,33.274,-85.836,5019
+1682,Ashland,NH,Grafton County,,city-us,1959,43.726,-71.643,4602
+1674,Ashland,NY,Chemung County,,city-us,1487,42.019,-76.750,3572
+1673,Ashland,IL,Cass County,,city-us,1258,39.916,-90.023,2427
+1675,Ashland,PA,Clarion County,,city-us,1117,41.285,-79.562,2140
+1676,Ashland,KS,Clark County,,city-us,770,37.189,-99.766,2858
+1694,Ashland,MT,Rosebud County,,city-us,758,45.594,-106.271,3708
+1683,Ashland,NY,Greene County,,city-us,692,42.319,-74.335,2772
+1667,Ashland,WI,Ashland County,,city-us,596,46.382,-90.734,26035
+1665,Ashland,ME,Aroostook County,,city-us,586,46.631,-68.406,4446
+1669,Ashland,MS,Benton County,,city-us,508,34.833,-89.176,3752
+1680,Ashland,MN,Dodge County,,city-us,309,43.973,-92.868,2115
+1689,Ashland,LA,Natchitoches Parish,,city-us,193,32.142,-93.098,6088
+1693,Ashland,KS,Riley County,,city-us,152,39.101,-96.568,2858
+1696,Ashland,ND,Stutsman County,,city-us,64,47.104,-98.641,0
+1692,Ashland,OK,Pittsburg County,,city-us,32,34.768,-96.070,2458
+1679,Ashland,LA,Concordia Parish,,city-us,0,31.286,-91.731,225
+1681,Ashland,GA,Franklin County,,city-us,0,34.326,-83.356,230
+1685,Ashland,IN,Henry County,,city-us,0,39.926,-85.304,387
+1687,Ashland,WV,McDowell County,,city-us,0,37.408,-81.353,439
+1690,Ashland,DE,New Castle County,,city-us,0,39.800,-75.657,346
+1697,Ashland,LA,Terrebonne Parish,,city-us,0,29.530,-90.674,668
+1698,Ashland,TN,Wayne County,,city-us,0,35.436,-87.668,91

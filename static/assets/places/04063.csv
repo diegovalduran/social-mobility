@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20878,Hoyt,KS,,city-us,599,39.248,-95.706,3858
-20876,Hoyt,OK,,city-us,82,35.272,-95.302,618
-20877,Hoyt,WI,,city-us,0,46.411,-90.300,280
-20879,Hoyt,CO,,city-us,0,40.016,-104.075,414
-20880,Hoyt,WV,,city-us,0,39.613,-80.637,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20878,Hoyt,KS,Jackson County,,city-us,599,39.248,-95.706,3858
+20876,Hoyt,OK,Haskell County,,city-us,82,35.272,-95.302,618
+20877,Hoyt,WI,Iron County,,city-us,0,46.411,-90.300,280
+20879,Hoyt,CO,Morgan County,,city-us,0,40.016,-104.075,414
+20880,Hoyt,WV,Wetzel County,,city-us,0,39.613,-80.637,85

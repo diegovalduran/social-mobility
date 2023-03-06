@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4792,Bostwick,GA,,city-us,379,33.737,-83.514,2307
-4791,Bostwick,OH,,city-us,0,41.651,-81.083,283
-4793,Bostwick,NE,,city-us,0,40.048,-98.184,263
-4794,Bostwick,FL,,city-us,0,29.774,-81.637,348
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4792,Bostwick,GA,Morgan County,,city-us,379,33.737,-83.514,2307
+4791,Bostwick,OH,Geauga County,,city-us,0,41.651,-81.083,283
+4793,Bostwick,NE,Nuckolls County,,city-us,0,40.048,-98.184,263
+4794,Bostwick,FL,Putnam County,,city-us,0,29.774,-81.637,348

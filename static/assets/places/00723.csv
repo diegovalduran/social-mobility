@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3710,Berwick,PA,,city-us,10349,41.055,-76.233,8119
-3718,Berwick,ME,,city-us,8079,43.299,-70.842,7111
-3716,Berwick,LA,,city-us,4644,29.695,-91.219,2739
-3709,Berwick,PA,,city-us,2395,39.857,-77.004,1917
-3717,Berwick,IL,,city-us,50,40.799,-90.538,390
-3711,Berwick,ND,,city-us,0,48.361,-100.246,378
-3712,Berwick,KS,,city-us,0,39.933,-95.845,431
-3713,Berwick,MO,,city-us,0,36.933,-94.095,560
-3714,Berwick,IA,,city-us,0,41.665,-93.545,1005
-3715,Berwick,OH,,city-us,0,41.029,-83.298,460
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3710,Berwick,PA,Columbia County,,city-us,10349,41.055,-76.233,8119
+3718,Berwick,ME,York County,,city-us,8079,43.299,-70.842,7111
+3716,Berwick,LA,St. Mary Parish,,city-us,4644,29.695,-91.219,2739
+3709,Berwick,PA,Adams County,,city-us,2395,39.857,-77.004,1917
+3717,Berwick,IL,Warren County,,city-us,50,40.799,-90.538,390
+3711,Berwick,ND,McHenry County,,city-us,0,48.361,-100.246,378
+3712,Berwick,KS,Nemaha County,,city-us,0,39.933,-95.845,431
+3713,Berwick,MO,Newton County,,city-us,0,36.933,-94.095,560
+3714,Berwick,IA,Polk County,,city-us,0,41.665,-93.545,1005
+3715,Berwick,OH,Seneca County,,city-us,0,41.029,-83.298,460

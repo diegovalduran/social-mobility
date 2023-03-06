@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23205,Knowles,OK,,city-us,5,36.873,-100.193,1896
-23206,Knowles,WI,,city-us,0,43.573,-88.504,298
-23207,Knowles,CA,,city-us,0,37.220,-119.874,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23205,Knowles,OK,Beaver County,,city-us,5,36.873,-100.193,1896
+23206,Knowles,WI,Dodge County,,city-us,0,43.573,-88.504,298
+23207,Knowles,CA,Madera County,,city-us,0,37.220,-119.874,290

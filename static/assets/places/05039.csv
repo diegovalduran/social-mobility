@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25856,Lovington,NM,,city-us,11426,32.944,-103.349,2865
-25857,Lovington,IL,,city-us,1566,39.730,-88.644,342
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25856,Lovington,NM,Lea County,,city-us,11426,32.944,-103.349,2865
+25857,Lovington,IL,Moultrie County,,city-us,1566,39.730,-88.644,342

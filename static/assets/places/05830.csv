@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30160,Mussey,MI,,city-us,4211,43.026,-82.932,2065
-30022,Mousie,KY,,city-us,0,37.418,-82.878,299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30160,Mussey,MI,St. Clair County,,city-us,4211,43.026,-82.932,2065
+30022,Mousie,KY,Knott County,,city-us,0,37.418,-82.878,299

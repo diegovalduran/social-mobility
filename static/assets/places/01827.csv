@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9345,Collierville,TN,,city-us,51343,35.042,-89.665,10460
-9344,Collierville,CA,,city-us,1856,38.215,-121.269,2445
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9345,Collierville,TN,Shelby County,,city-us,51343,35.042,-89.665,10460
+9344,Collierville,CA,San Joaquin County,,city-us,1856,38.215,-121.269,2445

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33739,Pershing,WI,,city-us,202,45.248,-90.868,3811
-33736,Pershing,IL,,city-us,0,37.880,-88.965,191
-33737,Pershing,IN,,city-us,0,41.096,-86.319,754
-33738,Pershing,OK,,city-us,0,36.593,-96.275,438
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33739,Pershing,WI,Taylor County,,city-us,202,45.248,-90.868,3811
+33736,Pershing,IL,Franklin County,,city-us,0,37.880,-88.965,191
+33737,Pershing,IN,Fulton County,,city-us,0,41.096,-86.319,754
+33738,Pershing,OK,Osage County,,city-us,0,36.593,-96.275,438

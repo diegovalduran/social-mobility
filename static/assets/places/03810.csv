@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19500,Heath,OH,,city-us,10538,40.023,-82.445,8876
-19499,Heath,TX,,city-us,10266,32.854,-96.464,1366
-19494,Heath,MI,,city-us,3969,42.644,-85.943,3079
-19497,Heath,MA,,city-us,726,42.693,-72.823,8352
-19495,Heath,AL,,city-us,238,31.361,-86.470,1821
-19498,Heath,PA,,city-us,116,41.329,-79.013,4798
-19496,Heath,MT,,city-us,0,46.996,-109.267,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19500,Heath,OH,Licking County,,city-us,10538,40.023,-82.445,8876
+19499,Heath,TX,Kaufman County / Rockwall County,,city-us,10266,32.854,-96.464,1366
+19494,Heath,MI,Allegan County,,city-us,3969,42.644,-85.943,3079
+19497,Heath,MA,Franklin County,,city-us,726,42.693,-72.823,8352
+19495,Heath,AL,Covington County,,city-us,238,31.361,-86.470,1821
+19498,Heath,PA,Jefferson County,,city-us,116,41.329,-79.013,4798
+19496,Heath,MT,Fergus County,,city-us,0,46.996,-109.267,215

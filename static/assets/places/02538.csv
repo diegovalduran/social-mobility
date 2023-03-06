@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12650,Early,TX,,city-us,3145,31.742,-98.946,2597
-12651,Early,IA,,city-us,584,42.461,-95.152,5228
-12652,Early,OR,,city-us,0,45.693,-120.570,284
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12650,Early,TX,Brown County,,city-us,3145,31.742,-98.946,2597
+12651,Early,IA,Sac County,,city-us,584,42.461,-95.152,5228
+12652,Early,OR,Sherman County,,city-us,0,45.693,-120.570,284

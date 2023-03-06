@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7201,Cashtown,PA,,city-us,249,39.885,-77.359,804
-7202,Cashtown,PA,,city-us,0,39.868,-77.736,148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7201,Cashtown,PA,Adams County,,city-us,249,39.885,-77.359,804
+7202,Cashtown,PA,Franklin County,,city-us,0,39.868,-77.736,148

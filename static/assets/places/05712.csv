@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29420,Moose Creek,AK,,city-us,547,64.710,-147.144,4318
-29419,Moose Creek,MN,,city-us,257,47.456,-95.248,1899
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29420,Moose Creek,AK,Fairbanks North Star Borough,,city-us,547,64.710,-147.144,4318
+29419,Moose Creek,MN,Clearwater County,,city-us,257,47.456,-95.248,1899

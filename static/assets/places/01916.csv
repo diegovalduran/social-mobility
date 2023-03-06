@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9763,Coon Rapids,MN,,city-us,63385,45.120,-93.288,7566
-9764,Coon Rapids,IA,,city-us,1294,41.875,-94.678,12494
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9763,Coon Rapids,MN,Anoka County,,city-us,63385,45.120,-93.288,7566
+9764,Coon Rapids,IA,Carroll County / Guthrie County,,city-us,1294,41.875,-94.678,12494

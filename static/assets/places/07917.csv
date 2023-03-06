@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40076,Smith Corner,CA,,city-us,275,35.478,-119.279,1992
-40075,Smith Corner,PA,,city-us,0,40.358,-78.486,547
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40076,Smith Corner,CA,Kern County,,city-us,275,35.478,-119.279,1992
+40075,Smith Corner,PA,Blair County,,city-us,0,40.358,-78.486,547

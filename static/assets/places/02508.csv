@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12525,Dutchtown,NJ,,city-us,14711,39.661,-74.767,28539
-12526,Dutchtown,MO,,city-us,235,37.253,-89.660,4791
-12524,Dutchtown,LA,,city-us,0,30.254,-90.989,110
-12527,Dutchtown,NJ,,city-us,0,40.448,-74.690,475
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12525,Dutchtown,NJ,Atlantic County,,city-us,14711,39.661,-74.767,28539
+12526,Dutchtown,MO,Cape Girardeau County,,city-us,235,37.253,-89.660,4791
+12524,Dutchtown,LA,Ascension Parish,,city-us,0,30.254,-90.989,110
+12527,Dutchtown,NJ,Somerset County,,city-us,0,40.448,-74.690,475

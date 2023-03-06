@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39857,Silver Grove,KY,,city-us,1162,39.035,-84.390,2962
-39858,Silver Grove,WV,,city-us,0,39.299,-77.752,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39857,Silver Grove,KY,Campbell County,,city-us,1162,39.035,-84.390,2962
+39858,Silver Grove,WV,Jefferson County,,city-us,0,39.299,-77.752,235

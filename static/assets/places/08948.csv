@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44863,Waldo,AR,,city-us,1143,33.352,-93.296,3845
-44862,Waldo,FL,,city-us,840,29.790,-82.167,4922
-44872,Waldo,ME,,city-us,815,44.466,-69.093,4261
-44870,Waldo,WI,,city-us,474,43.675,-87.949,5771
-44867,Waldo,OH,,city-us,320,40.459,-83.077,3256
-44865,Waldo,IL,,city-us,270,40.798,-88.872,286
-44871,Waldo,AL,,city-us,253,33.380,-86.027,1982
-44869,Waldo,KS,,city-us,93,39.053,-98.756,3276
-44868,Waldo,ND,,city-us,88,46.064,-96.814,0
-44864,Waldo,MN,,city-us,0,47.066,-91.699,198
-44866,Waldo,KY,,city-us,0,37.576,-82.978,87
-44873,Waldo,MO,,city-us,0,37.189,-92.745,535
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44863,Waldo,AR,Columbia County,,city-us,1143,33.352,-93.296,3845
+44862,Waldo,FL,Alachua County,,city-us,840,29.790,-82.167,4922
+44872,Waldo,ME,Waldo County,,city-us,815,44.466,-69.093,4261
+44870,Waldo,WI,Sheboygan County,,city-us,474,43.675,-87.949,5771
+44867,Waldo,OH,Marion County,,city-us,320,40.459,-83.077,3256
+44865,Waldo,IL,Livingston County,,city-us,270,40.798,-88.872,286
+44871,Waldo,AL,Talladega County,,city-us,253,33.380,-86.027,1982
+44869,Waldo,KS,Russell County,,city-us,93,39.053,-98.756,3276
+44868,Waldo,ND,Richland County,,city-us,88,46.064,-96.814,0
+44864,Waldo,MN,Lake County,,city-us,0,47.066,-91.699,198
+44866,Waldo,KY,Magoffin County,,city-us,0,37.576,-82.978,87
+44873,Waldo,MO,Webster County,,city-us,0,37.189,-92.745,535

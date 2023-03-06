@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29186,Montebello,CA,,city-us,61204,34.009,-118.105,25611
-29188,Montebello,NY,,city-us,4653,41.136,-74.118,23296
-29185,Montebello,IL,,city-us,3301,40.422,-91.319,1014
-29187,Montebello,VA,,city-us,0,37.864,-79.138,412
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29186,Montebello,CA,Los Angeles County,,city-us,61204,34.009,-118.105,25611
+29188,Montebello,NY,Rockland County,,city-us,4653,41.136,-74.118,23296
+29185,Montebello,IL,Hancock County,,city-us,3301,40.422,-91.319,1014
+29187,Montebello,VA,Nelson County,,city-us,0,37.864,-79.138,412

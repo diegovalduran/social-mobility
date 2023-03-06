@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18716,Handy,MI,,city-us,8674,42.632,-84.087,2551
-18713,Handy,IN,,city-us,0,40.501,-87.471,200
-18714,Handy,GA,,city-us,0,33.376,-84.969,111
-18715,Handy,NC,,city-us,0,35.589,-80.101,168
-18717,Handy,IN,,city-us,0,39.096,-86.494,258
-18718,Handy,MO,,city-us,0,36.809,-91.107,426
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18716,Handy,MI,Livingston County,,city-us,8674,42.632,-84.087,2551
+18713,Handy,IN,Benton County,,city-us,0,40.501,-87.471,200
+18714,Handy,GA,Coweta County,,city-us,0,33.376,-84.969,111
+18715,Handy,NC,Davidson County,,city-us,0,35.589,-80.101,168
+18717,Handy,IN,Monroe County,,city-us,0,39.096,-86.494,258
+18718,Handy,MO,Ripley County,,city-us,0,36.809,-91.107,426

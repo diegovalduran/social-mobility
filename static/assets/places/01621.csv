@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8246,Chickasaw,AL,,city-us,6395,30.764,-88.075,7681
-8245,Chickasaw,OH,,city-us,357,40.437,-84.493,3169
-8244,Chickasaw,PA,,city-us,0,40.956,-79.457,205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8246,Chickasaw,AL,Mobile County,,city-us,6395,30.764,-88.075,7681
+8245,Chickasaw,OH,Mercer County,,city-us,357,40.437,-84.493,3169
+8244,Chickasaw,PA,Armstrong County,,city-us,0,40.956,-79.457,205

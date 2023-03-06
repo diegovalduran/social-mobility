@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33387,Payson,UT,,city-us,22142,40.044,-111.732,11118
-33386,Payson,AZ,,city-us,16516,34.231,-111.325,11895
-33385,Payson,IL,,city-us,1722,39.806,-91.196,2510
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33387,Payson,UT,Utah County,,city-us,22142,40.044,-111.732,11118
+33386,Payson,AZ,Gila County,,city-us,16516,34.231,-111.325,11895
+33385,Payson,IL,Adams County,,city-us,1722,39.806,-91.196,2510

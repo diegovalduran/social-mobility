@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30329,Navarro,TX,,city-us,235,31.998,-96.378,2905
-30328,Navarro,CA,,city-us,0,39.152,-123.542,1353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30329,Navarro,TX,Navarro County,,city-us,235,31.998,-96.378,2905
+30328,Navarro,CA,Mendocino County,,city-us,0,39.152,-123.542,1353

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12123,Dovre,MN,,city-us,2168,45.198,-95.071,1953
-12122,Dovre,WI,,city-us,833,45.255,-91.606,2164
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12123,Dovre,MN,Kandiyohi County,,city-us,2168,45.198,-95.071,1953
+12122,Dovre,WI,Barron County,,city-us,833,45.255,-91.606,2164

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25488,Logansport,IN,,city-us,18310,40.754,-86.357,16709
-25489,Logansport,LA,,city-us,1341,31.975,-93.998,4946
-25490,Logansport,KS,,city-us,9,38.852,-101.068,0
-25487,Logansport,KY,,city-us,0,37.285,-86.768,1233
-25491,Logansport,WV,,city-us,0,39.519,-80.414,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25488,Logansport,IN,Cass County,,city-us,18310,40.754,-86.357,16709
+25489,Logansport,LA,De Soto Parish,,city-us,1341,31.975,-93.998,4946
+25490,Logansport,KS,Logan County,,city-us,9,38.852,-101.068,0
+25487,Logansport,KY,Butler County,,city-us,0,37.285,-86.768,1233
+25491,Logansport,WV,Marion County,,city-us,0,39.519,-80.414,177

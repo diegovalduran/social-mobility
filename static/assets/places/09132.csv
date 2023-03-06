@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46039,West Jefferson,OH,,city-us,4253,39.945,-83.269,4526
-46037,West Jefferson,NC,,city-us,1234,36.404,-81.493,4485
-46038,West Jefferson,AL,,city-us,417,33.649,-87.069,1866
-46040,West Jefferson,OH,,city-us,0,41.572,-84.557,447
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46039,West Jefferson,OH,Madison County,,city-us,4253,39.945,-83.269,4526
+46037,West Jefferson,NC,Ashe County,,city-us,1234,36.404,-81.493,4485
+46038,West Jefferson,AL,Jefferson County,,city-us,417,33.649,-87.069,1866
+46040,West Jefferson,OH,Williams County,,city-us,0,41.572,-84.557,447

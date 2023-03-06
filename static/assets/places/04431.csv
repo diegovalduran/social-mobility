@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22832,Kewanee,IL,,city-us,9685,41.274,-89.919,1524
-22833,Kewanee,MS,,city-us,0,32.424,-88.438,465
-22834,Kewanee,MO,,city-us,0,36.671,-89.574,400
-22835,Kewanee,KY,,city-us,0,37.444,-82.516,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22832,Kewanee,IL,Henry County,,city-us,9685,41.274,-89.919,1524
+22833,Kewanee,MS,Lauderdale County,,city-us,0,32.424,-88.438,465
+22834,Kewanee,MO,New Madrid County,,city-us,0,36.671,-89.574,400
+22835,Kewanee,KY,Pike County,,city-us,0,37.444,-82.516,95

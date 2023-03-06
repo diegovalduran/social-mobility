@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21017,Hunnewell,MO,,city-us,136,39.668,-91.862,3534
-21018,Hunnewell,KS,,city-us,46,37.005,-97.405,3814
-21016,Hunnewell,KY,,city-us,0,38.413,-82.846,538
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21017,Hunnewell,MO,Shelby County,,city-us,136,39.668,-91.862,3534
+21018,Hunnewell,KS,Sumner County,,city-us,46,37.005,-97.405,3814
+21016,Hunnewell,KY,Greenup County,,city-us,0,38.413,-82.846,538

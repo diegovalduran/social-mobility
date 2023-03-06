@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33251,Pasco,WA,,city-us,78871,46.240,-119.101,14716
-33252,Pasco,OH,,city-us,0,40.283,-84.101,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33251,Pasco,WA,Franklin County,,city-us,78871,46.240,-119.101,14716
+33252,Pasco,OH,Shelby County,,city-us,0,40.283,-84.101,226

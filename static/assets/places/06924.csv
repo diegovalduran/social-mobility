@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35202,Powers Lake,WI,,city-us,1311,42.554,-88.295,3258
-35201,Powers Lake,ND,,city-us,382,48.563,-102.648,3471
-35203,Powers Lake,ND,,city-us,52,48.496,-102.690,3471
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35202,Powers Lake,WI,Kenosha County,,city-us,1311,42.554,-88.295,3258
+35201,Powers Lake,ND,Burke County,,city-us,382,48.563,-102.648,3471
+35203,Powers Lake,ND,Mountrail County,,city-us,52,48.496,-102.690,3471

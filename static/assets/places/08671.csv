@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43458,Tunbridge,VT,,city-us,1354,43.901,-72.485,8315
-43456,Tunbridge,IL,,city-us,723,40.093,-89.091,0
-43457,Tunbridge,IL,,city-us,0,40.114,-89.049,124
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43458,Tunbridge,VT,Orange County,,city-us,1354,43.901,-72.485,8315
+43456,Tunbridge,IL,De Witt County,,city-us,723,40.093,-89.091,0
+43457,Tunbridge,IL,DeWitt County,,city-us,0,40.114,-89.049,124

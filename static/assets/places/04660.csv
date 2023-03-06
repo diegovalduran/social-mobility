@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23876,Lancaster,CA,,city-us,170150,34.698,-118.137,38579
-23872,Lancaster,PA,,city-us,57503,40.038,-76.306,31288
-23866,Lancaster,OH,,city-us,40763,39.714,-82.599,13023
-23864,Lancaster,TX,,city-us,40728,32.592,-96.756,21934
-23865,Lancaster,NY,,city-us,9977,42.901,-78.670,18326
-23873,Lancaster,SC,,city-us,8575,34.720,-80.771,5104
-23881,Lancaster,MA,,city-us,8455,42.484,-71.676,7765
-23867,Lancaster,KY,,city-us,3914,37.620,-84.578,4061
-23868,Lancaster,WI,,city-us,3914,42.847,-90.711,7352
-23863,Lancaster,NH,,city-us,3195,44.472,-71.544,7507
-23862,Lancaster,PA,,city-us,3036,40.836,-80.113,187
-23879,Lancaster,IL,,city-us,1371,42.337,-89.569,432
-23861,Lancaster,KS,,city-us,759,39.600,-95.308,381
-23877,Lancaster,MO,,city-us,677,40.521,-92.528,3806
-23878,Lancaster,TN,,city-us,363,36.128,-85.869,842
-23871,Lancaster,MN,,city-us,360,48.858,-96.804,3358
-23869,Lancaster,IN,,city-us,0,40.749,-85.507,221
-23870,Lancaster,IN,,city-us,0,38.831,-85.519,5255
-23874,Lancaster,VA,,city-us,0,37.770,-76.466,571
-23875,Lancaster,OR,,city-us,0,44.253,-123.196,1255
-23880,Lancaster,IL,,city-us,0,38.548,-87.865,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23876,Lancaster,CA,Los Angeles County,,city-us,170150,34.698,-118.137,38579
+23872,Lancaster,PA,Lancaster County,,city-us,57503,40.038,-76.306,31288
+23866,Lancaster,OH,Fairfield County,,city-us,40763,39.714,-82.599,13023
+23864,Lancaster,TX,Dallas County,,city-us,40728,32.592,-96.756,21934
+23865,Lancaster,NY,Erie County,,city-us,9977,42.901,-78.670,18326
+23873,Lancaster,SC,Lancaster County,,city-us,8575,34.720,-80.771,5104
+23881,Lancaster,MA,Worcester County,,city-us,8455,42.484,-71.676,7765
+23867,Lancaster,KY,Garrard County,,city-us,3914,37.620,-84.578,4061
+23868,Lancaster,WI,Grant County,,city-us,3914,42.847,-90.711,7352
+23863,Lancaster,NH,Coos County,,city-us,3195,44.472,-71.544,7507
+23862,Lancaster,PA,Butler County,,city-us,3036,40.836,-80.113,187
+23879,Lancaster,IL,Stephenson County,,city-us,1371,42.337,-89.569,432
+23861,Lancaster,KS,Atchison County,,city-us,759,39.600,-95.308,381
+23877,Lancaster,MO,Schuyler County,,city-us,677,40.521,-92.528,3806
+23878,Lancaster,TN,Smith County,,city-us,363,36.128,-85.869,842
+23871,Lancaster,MN,Kittson County,,city-us,360,48.858,-96.804,3358
+23869,Lancaster,IN,Huntington County,,city-us,0,40.749,-85.507,221
+23870,Lancaster,IN,Jefferson County,,city-us,0,38.831,-85.519,5255
+23874,Lancaster,VA,Lancaster County,,city-us,0,37.770,-76.466,571
+23875,Lancaster,OR,Lane County,,city-us,0,44.253,-123.196,1255
+23880,Lancaster,IL,Wabash County,,city-us,0,38.548,-87.865,168

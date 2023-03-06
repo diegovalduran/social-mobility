@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10219,Craigville,MN,,city-us,0,47.903,-93.613,1431
-10220,Craigville,IN,,city-us,0,40.778,-85.091,284
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10219,Craigville,MN,Koochiching County,,city-us,0,47.903,-93.613,1431
+10220,Craigville,IN,Wells County,,city-us,0,40.778,-85.091,284

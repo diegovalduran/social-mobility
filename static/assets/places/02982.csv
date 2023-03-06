@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16153,Furth,,Germany,city-international,127748,49.478,10.990,31944
-14940,Firth,NE,,city-us,656,40.532,-96.606,4927
-14939,Firth,ID,,city-us,530,43.305,-112.183,3092
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16153,Furth,,,Germany,city-international,127748,49.478,10.990,31944
+14940,Firth,NE,Lancaster County,,city-us,656,40.532,-96.606,4927
+14939,Firth,ID,Bingham County,,city-us,530,43.305,-112.183,3092

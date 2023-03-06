@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20787,Hothouse,NC,,city-us,0,35.021,-84.232,258
-20788,Hothouse,GA,,city-us,0,34.934,-84.304,434
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20787,Hothouse,NC,Cherokee County,,city-us,0,35.021,-84.232,258
+20788,Hothouse,GA,Fannin County,,city-us,0,34.934,-84.304,434

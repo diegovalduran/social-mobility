@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31768,Oak Knoll,FL,,city-us,0,27.512,-82.278,1317
-31769,Oak Knoll,CA,,city-us,0,38.358,-122.335,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31768,Oak Knoll,FL,Manatee County,,city-us,0,27.512,-82.278,1317
+31769,Oak Knoll,CA,Napa County,,city-us,0,38.358,-122.335,199

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14085,Evanston,IL,,city-us,77517,42.041,-87.690,22424
-14087,Evanston,WY,,city-us,11814,41.268,-110.963,8021
-14084,Evanston,KY,,city-us,0,37.542,-83.032,489
-14086,Evanston,IN,,city-us,0,38.039,-86.842,327
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14085,Evanston,IL,Cook County,,city-us,77517,42.041,-87.690,22424
+14087,Evanston,WY,Uinta County,,city-us,11814,41.268,-110.963,8021
+14084,Evanston,KY,Breathitt County,,city-us,0,37.542,-83.032,489
+14086,Evanston,IN,Spencer County,,city-us,0,38.039,-86.842,327

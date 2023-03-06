@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38535,Sanders,AZ,,city-us,758,35.216,-109.334,4574
-38538,Sanders,MN,,city-us,296,48.064,-96.306,1855
-38536,Sanders,KY,,city-us,202,38.655,-84.947,2847
-38537,Sanders,IN,,city-us,0,39.080,-86.513,851
-38539,Sanders,MT,,city-us,0,46.291,-107.097,724
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38535,Sanders,AZ,Apache County,,city-us,758,35.216,-109.334,4574
+38538,Sanders,MN,Pennington County,,city-us,296,48.064,-96.306,1855
+38536,Sanders,KY,Carroll County,,city-us,202,38.655,-84.947,2847
+38537,Sanders,IN,Monroe County,,city-us,0,39.080,-86.513,851
+38539,Sanders,MT,Treasure County,,city-us,0,46.291,-107.097,724

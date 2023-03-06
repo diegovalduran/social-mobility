@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18013,Greensburg,PA,,city-us,14939,40.301,-79.539,29108
-18005,Greensburg,IN,,city-us,12193,39.337,-85.484,11846
-18006,Greensburg,KY,,city-us,2195,37.261,-85.499,5078
-18009,Greensburg,OH,,city-us,1434,41.041,-84.181,1210
-18007,Greensburg,KS,,city-us,714,37.603,-99.293,12049
-18010,Greensburg,LA,,city-us,639,30.831,-90.672,2088
-18012,Greensburg,MD,,city-us,236,39.681,-77.562,254
-18004,Greensburg,WV,,city-us,0,39.484,-77.884,151
-18008,Greensburg,MO,,city-us,0,40.296,-92.217,270
-18011,Greensburg,OH,,city-us,0,40.932,-81.465,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18013,Greensburg,PA,Westmoreland County,,city-us,14939,40.301,-79.539,29108
+18005,Greensburg,IN,Decatur County,,city-us,12193,39.337,-85.484,11846
+18006,Greensburg,KY,Green County,,city-us,2195,37.261,-85.499,5078
+18009,Greensburg,OH,Putnam County,,city-us,1434,41.041,-84.181,1210
+18007,Greensburg,KS,Kiowa County,,city-us,714,37.603,-99.293,12049
+18010,Greensburg,LA,St. Helena Parish,,city-us,639,30.831,-90.672,2088
+18012,Greensburg,MD,Washington County,,city-us,236,39.681,-77.562,254
+18004,Greensburg,WV,Berkeley County,,city-us,0,39.484,-77.884,151
+18008,Greensburg,MO,Knox County,,city-us,0,40.296,-92.217,270
+18011,Greensburg,OH,Summit County,,city-us,0,40.932,-81.465,329

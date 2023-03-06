@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37888,Rule,TX,,city-us,568,33.185,-99.894,2729
-37887,Rule,AR,,city-us,0,36.278,-93.460,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37888,Rule,TX,Haskell County,,city-us,568,33.185,-99.894,2729
+37887,Rule,AR,Carroll County,,city-us,0,36.278,-93.460,202

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10603,Crystal Springs,MS,,city-us,4768,31.987,-90.357,4602
-10607,Crystal Springs,FL,,city-us,843,28.181,-82.158,2549
-10608,Crystal Springs,WV,,city-us,145,38.941,-79.877,98
-10604,Crystal Springs,AR,,city-us,129,34.522,-93.336,620
-10605,Crystal Springs,KS,,city-us,0,37.262,-98.135,325
-10606,Crystal Springs,ND,,city-us,0,46.878,-99.476,421
-10609,Crystal Springs,OH,,city-us,0,40.849,-81.534,247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10603,Crystal Springs,MS,Copiah County,,city-us,4768,31.987,-90.357,4602
+10607,Crystal Springs,FL,Pasco County,,city-us,843,28.181,-82.158,2549
+10608,Crystal Springs,WV,Randolph County,,city-us,145,38.941,-79.877,98
+10604,Crystal Springs,AR,Garland County,,city-us,129,34.522,-93.336,620
+10605,Crystal Springs,KS,Harper County,,city-us,0,37.262,-98.135,325
+10606,Crystal Springs,ND,Kidder County,,city-us,0,46.878,-99.476,421
+10609,Crystal Springs,OH,Stark County,,city-us,0,40.849,-81.534,247

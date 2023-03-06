@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-597,Alice,TX,,city-us,17761,27.752,-98.070,10887
-595,Alice,ND,,city-us,44,46.762,-97.556,2994
-596,Alice,WV,,city-us,0,38.998,-80.816,113
-598,Alice,IA,,city-us,0,42.197,-91.696,288
-599,Alice,MO,,city-us,0,37.298,-92.189,508
+id,name,state,county,country,level,population,latitude,longitude,wiki
+597,Alice,TX,Jim Wells County,,city-us,17761,27.752,-98.070,10887
+595,Alice,ND,Cass County,,city-us,44,46.762,-97.556,2994
+596,Alice,WV,Gilmer County,,city-us,0,38.998,-80.816,113
+598,Alice,IA,Linn County,,city-us,0,42.197,-91.696,288
+599,Alice,MO,Texas County,,city-us,0,37.298,-92.189,508

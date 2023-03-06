@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29809,Mount Morris,NY,,city-us,4391,42.665,-77.905,4655
-29811,Mount Morris,IL,,city-us,3679,42.071,-89.452,293
-29807,Mount Morris,MI,,city-us,3136,43.119,-83.695,4868
-29812,Mount Morris,WI,,city-us,1092,44.114,-89.191,2128
-29808,Mount Morris,PA,,city-us,623,39.733,-80.068,828
-29810,Mount Morris,MN,,city-us,76,45.954,-93.797,1715
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29809,Mount Morris,NY,Livingston County,,city-us,4391,42.665,-77.905,4655
+29811,Mount Morris,IL,Ogle County,,city-us,3679,42.071,-89.452,293
+29807,Mount Morris,MI,Genesee County,,city-us,3136,43.119,-83.695,4868
+29812,Mount Morris,WI,Waushara County,,city-us,1092,44.114,-89.191,2128
+29808,Mount Morris,PA,Greene County,,city-us,623,39.733,-80.068,828
+29810,Mount Morris,MN,Morrison County,,city-us,76,45.954,-93.797,1715

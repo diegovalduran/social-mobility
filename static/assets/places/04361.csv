@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22553,Kaw,KS,,city-us,1396,39.098,-95.543,79
-22554,Kaw,KS,,city-us,253,39.167,-96.158,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22553,Kaw,KS,Jefferson County,,city-us,1396,39.098,-95.543,79
+22554,Kaw,KS,Wabaunsee County,,city-us,253,39.167,-96.158,0

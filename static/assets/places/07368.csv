@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37398,Romance,AR,,city-us,1772,35.240,-92.067,11954
-37395,Romance,WV,,city-us,0,38.597,-81.599,317
-37396,Romance,MO,,city-us,0,36.717,-92.503,610
-37397,Romance,WI,,city-us,0,43.552,-91.145,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37398,Romance,AR,White County,,city-us,1772,35.240,-92.067,11954
+37395,Romance,WV,Jackson County,,city-us,0,38.597,-81.599,317
+37396,Romance,MO,Ozark County,,city-us,0,36.717,-92.503,610
+37397,Romance,WI,Vernon County,,city-us,0,43.552,-91.145,290

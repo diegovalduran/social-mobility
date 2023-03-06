@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38637,Sans Souci,SC,,city-us,8421,34.878,-82.424,2602
-38638,Sans Souci,AR,,city-us,0,35.653,-89.949,174
-38639,Sans Souci,MI,,city-us,0,42.579,-82.564,1347
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38637,Sans Souci,SC,Greenville County,,city-us,8421,34.878,-82.424,2602
+38638,Sans Souci,AR,Mississippi County,,city-us,0,35.653,-89.949,174
+38639,Sans Souci,MI,St. Clair County,,city-us,0,42.579,-82.564,1347

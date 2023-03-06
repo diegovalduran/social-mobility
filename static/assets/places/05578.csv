@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28710,Milmay,NJ,,city-us,1250,39.439,-74.868,387
-28709,Milmay,NJ,,city-us,919,39.439,-74.857,387
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28710,Milmay,NJ,Atlantic County / Cumberland County,,city-us,1250,39.439,-74.868,387
+28709,Milmay,NJ,Atlantic County,,city-us,919,39.439,-74.857,387

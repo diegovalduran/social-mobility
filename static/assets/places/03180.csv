@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16045,Frogtown,PA,,city-us,0,40.951,-79.657,112
-16046,Frogtown,VA,,city-us,0,39.066,-77.934,136
-16047,Frogtown,WV,,city-us,0,37.828,-82.067,138
-16048,Frogtown,MO,,city-us,0,37.980,-90.766,272
-16049,Frogtown,PA,,city-us,0,40.209,-80.505,115
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16045,Frogtown,PA,Armstrong County,,city-us,0,40.951,-79.657,112
+16046,Frogtown,VA,Clarke County,,city-us,0,39.066,-77.934,136
+16047,Frogtown,WV,Logan County,,city-us,0,37.828,-82.067,138
+16048,Frogtown,MO,Washington County,,city-us,0,37.980,-90.766,272
+16049,Frogtown,PA,Washington County,,city-us,0,40.209,-80.505,115

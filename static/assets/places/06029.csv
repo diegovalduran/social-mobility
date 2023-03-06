@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30818,New Rome,OH,,city-us,60,39.952,-83.142,9969
-30817,New Rome,WI,,city-us,0,44.219,-89.881,102
-30819,New Rome,MN,,city-us,0,44.543,-94.093,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30818,New Rome,OH,Franklin County,,city-us,60,39.952,-83.142,9969
+30817,New Rome,WI,Adams County,,city-us,0,44.219,-89.881,102
+30819,New Rome,MN,Sibley County,,city-us,0,44.543,-94.093,289

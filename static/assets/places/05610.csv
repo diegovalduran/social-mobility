@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28884,Minto,ND,,city-us,614,48.292,-97.371,3790
-28885,Minto,AK,,city-us,151,65.150,-149.350,5144
-28883,Minto,ND,,city-us,23,48.834,-98.650,3790
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28884,Minto,ND,Walsh County,,city-us,614,48.292,-97.371,3790
+28885,Minto,AK,Yukon-Koyukuk Census Area,,city-us,151,65.150,-149.350,5144
+28883,Minto,ND,Cavalier County,,city-us,23,48.834,-98.650,3790

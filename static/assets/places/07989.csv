@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40381,South Gate,CA,,city-us,91154,33.955,-118.212,20622
-40380,South Gate,IN,,city-us,0,39.321,-84.957,200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40381,South Gate,CA,Los Angeles County,,city-us,91154,33.955,-118.212,20622
+40380,South Gate,IN,Franklin County,,city-us,0,39.321,-84.957,200

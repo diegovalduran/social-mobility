@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24468,Leola,PA,,city-us,7721,40.088,-76.185,1496
-24467,Leola,AR,,city-us,460,34.170,-92.591,4220
-24469,Leola,SD,,city-us,409,45.723,-98.941,3908
-24465,Leola,WI,,city-us,294,44.203,-89.668,1742
-24466,Leola,SD,,city-us,60,45.108,-96.947,3908
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24468,Leola,PA,Lancaster County,,city-us,7721,40.088,-76.185,1496
+24467,Leola,AR,Grant County,,city-us,460,34.170,-92.591,4220
+24469,Leola,SD,McPherson County,,city-us,409,45.723,-98.941,3908
+24465,Leola,WI,Adams County,,city-us,294,44.203,-89.668,1742
+24466,Leola,SD,Codington County,,city-us,60,45.108,-96.947,3908

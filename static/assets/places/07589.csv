@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38505,Sand Hill,PA,,city-us,2591,40.360,-76.432,2447
-38507,Sand Hill,OK,,city-us,364,35.634,-95.201,1858
-38501,Sand Hill,GA,,city-us,0,33.639,-84.972,513
-38502,Sand Hill,MS,,city-us,0,31.734,-90.306,134
-38503,Sand Hill,MS,,city-us,0,31.350,-88.767,210
-38504,Sand Hill,MS,,city-us,0,31.621,-89.282,172
-38506,Sand Hill,WV,,city-us,0,39.987,-80.585,92
-38508,Sand Hill,MS,,city-us,0,32.488,-89.880,507
-38509,Sand Hill,MO,,city-us,0,40.311,-92.128,286
-38510,Sand Hill,WV,,city-us,0,39.371,-81.490,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38505,Sand Hill,PA,Lebanon County,,city-us,2591,40.360,-76.432,2447
+38507,Sand Hill,OK,Muskogee County,,city-us,364,35.634,-95.201,1858
+38501,Sand Hill,GA,Carroll County,,city-us,0,33.639,-84.972,513
+38502,Sand Hill,MS,Copiah County,,city-us,0,31.734,-90.306,134
+38503,Sand Hill,MS,Greene County,,city-us,0,31.350,-88.767,210
+38504,Sand Hill,MS,Jones County,,city-us,0,31.621,-89.282,172
+38506,Sand Hill,WV,Marshall County,,city-us,0,39.987,-80.585,92
+38508,Sand Hill,MS,Rankin County,,city-us,0,32.488,-89.880,507
+38509,Sand Hill,MO,Scotland County,,city-us,0,40.311,-92.128,286
+38510,Sand Hill,WV,Wood County,,city-us,0,39.371,-81.490,88

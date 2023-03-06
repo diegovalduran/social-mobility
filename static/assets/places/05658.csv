@@ -1,68 +1,68 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29100,Monroe,NJ,,city-us,48279,40.319,-74.429,212
-29108,Monroe,LA,,city-us,47284,32.509,-92.119,14834
-29080,Monroe,NJ,,city-us,37853,39.660,-74.969,212
-29122,Monroe,NC,,city-us,34888,34.985,-80.550,10196
-29102,Monroe,MI,,city-us,20336,41.916,-83.398,22159
-29117,Monroe,WA,,city-us,20209,47.855,-121.971,37313
-29082,Monroe,CT,,city-us,18764,41.339,-73.223,8970
-29099,Monroe,OH,,city-us,16196,39.956,-84.216,968
-29070,Monroe,OH,,city-us,15448,39.447,-84.371,4842
-29124,Monroe,GA,,city-us,15264,33.795,-83.713,4035
-29107,Monroe,NY,,city-us,9548,41.331,-74.187,9516
-29094,Monroe,OH,,city-us,7860,40.163,-82.715,968
-29074,Monroe,OH,,city-us,7618,38.934,-84.190,968
-29076,Monroe,PA,,city-us,6443,40.159,-77.073,468
-29118,Monroe,PA,,city-us,4121,40.861,-76.859,468
-29115,Monroe,OH,,city-us,2749,40.688,-82.395,968
-29116,Monroe,UT,,city-us,2569,38.630,-112.121,7489
-29092,Monroe,OH,,city-us,2332,40.434,-82.419,968
-29066,Monroe,OH,,city-us,2148,41.839,-80.584,968
-29113,Monroe,OH,,city-us,2083,39.874,-84.642,968
-29114,Monroe,OH,,city-us,2034,41.118,-84.278,968
-29091,Monroe,PA,,city-us,2022,40.663,-77.121,468
-29090,Monroe,IA,,city-us,2009,41.522,-93.102,3923
-29063,Monroe,OH,,city-us,1989,40.864,-84.061,968
-29071,Monroe,OH,,city-us,1921,40.540,-81.206,968
-29096,Monroe,OH,,city-us,1795,40.273,-83.688,968
-29098,Monroe,OH,,city-us,1700,40.022,-83.409,968
-29077,Monroe,OH,,city-us,1663,39.967,-84.472,968
-29125,Monroe,PA,,city-us,1660,41.431,-75.995,468
-29088,Monroe,OH,,city-us,1602,40.559,-82.027,968
-29073,Monroe,PA,,city-us,1485,41.135,-79.406,468
-29106,Monroe,IL,,city-us,1436,42.104,-89.002,297
-29067,Monroe,PA,,city-us,1393,39.880,-78.383,468
-29110,Monroe,OH,,city-us,1357,39.588,-82.088,968
-29083,Monroe,WI,,city-us,1273,42.643,-89.662,262
-29111,Monroe,OH,,city-us,1241,39.652,-83.190,968
-29087,Monroe,OH,,city-us,1082,41.298,-84.057,968
-29085,Monroe,OH,,city-us,1065,40.400,-81.215,968
-29123,Monroe,ME,,city-us,939,44.598,-69.058,3510
-29060,Monroe,IN,,city-us,887,40.745,-84.937,3866
-29081,Monroe,NH,,city-us,872,44.297,-71.981,6893
-29084,Monroe,OH,,city-us,711,40.175,-81.482,968
-29068,Monroe,OR,,city-us,660,44.314,-123.297,4223
-29061,Monroe,OH,,city-us,608,38.718,-83.531,968
-30091,Munro,MI,,city-us,593,45.600,-84.662,2339
-29103,Monroe,OH,,city-us,540,40.118,-81.765,968
-29069,Monroe,PA,,city-us,487,41.712,-76.475,2708
-29075,Monroe,OH,,city-us,431,40.416,-82.039,968
-29062,Monroe,WI,,city-us,396,44.101,-89.948,2084
-29065,Monroe,KS,,city-us,376,38.305,-95.202,526
-29105,Monroe,MO,,city-us,363,40.289,-95.074,158
-29104,Monroe,MI,,city-us,335,43.693,-85.732,1867
-29095,Monroe,MO,,city-us,307,39.655,-93.703,131
-29112,Monroe,NE,,city-us,287,41.474,-97.599,3625
-29097,Monroe,MN,,city-us,183,44.245,-95.662,1912
-29078,Monroe,MO,,city-us,180,39.823,-93.921,134
-29121,Monroe,SD,,city-us,174,43.465,-97.221,3357
-29093,Monroe,OK,,city-us,148,34.993,-94.517,402
-29079,Monroe,MA,,city-us,116,42.728,-72.985,5843
-29101,Monroe,AR,,city-us,51,34.735,-91.104,632
-29120,Monroe,ND,,city-us,17,48.755,-99.447,0
-29064,Monroe,VA,,city-us,0,37.502,-79.128,740
-29072,Monroe,TX,,city-us,0,32.335,-94.738,1258
-29086,Monroe,KY,,city-us,0,37.232,-85.698,254
-29089,Monroe,OH,,city-us,0,38.856,-82.629,704
-29109,Monroe,TN,,city-us,0,36.437,-85.243,250
-29119,Monroe,IN,,city-us,0,40.286,-86.735,913
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29100,Monroe,NJ,Middlesex County,,city-us,48279,40.319,-74.429,212
+29108,Monroe,LA,Ouachita Parish,,city-us,47284,32.509,-92.119,14834
+29080,Monroe,NJ,Gloucester County,,city-us,37853,39.660,-74.969,212
+29122,Monroe,NC,Union County,,city-us,34888,34.985,-80.550,10196
+29102,Monroe,MI,Monroe County,,city-us,20336,41.916,-83.398,22159
+29117,Monroe,WA,Snohomish County,,city-us,20209,47.855,-121.971,37313
+29082,Monroe,CT,Greater Bridgeport Planning Region,,city-us,18764,41.339,-73.223,8970
+29099,Monroe,OH,Miami County,,city-us,16196,39.956,-84.216,968
+29070,Monroe,OH,Butler County / Warren County,,city-us,15448,39.447,-84.371,4842
+29124,Monroe,GA,Walton County,,city-us,15264,33.795,-83.713,4035
+29107,Monroe,NY,Orange County,,city-us,9548,41.331,-74.187,9516
+29094,Monroe,OH,Licking County,,city-us,7860,40.163,-82.715,968
+29074,Monroe,OH,Clermont County,,city-us,7618,38.934,-84.190,968
+29076,Monroe,PA,Cumberland County,,city-us,6443,40.159,-77.073,468
+29118,Monroe,PA,Snyder County,,city-us,4121,40.861,-76.859,468
+29115,Monroe,OH,Richland County,,city-us,2749,40.688,-82.395,968
+29116,Monroe,UT,Sevier County,,city-us,2569,38.630,-112.121,7489
+29092,Monroe,OH,Knox County,,city-us,2332,40.434,-82.419,968
+29066,Monroe,OH,Ashtabula County,,city-us,2148,41.839,-80.584,968
+29113,Monroe,OH,Preble County,,city-us,2083,39.874,-84.642,968
+29114,Monroe,OH,Putnam County,,city-us,2034,41.118,-84.278,968
+29091,Monroe,PA,Juniata County,,city-us,2022,40.663,-77.121,468
+29090,Monroe,IA,Jasper County,,city-us,2009,41.522,-93.102,3923
+29063,Monroe,OH,Allen County,,city-us,1989,40.864,-84.061,968
+29071,Monroe,OH,Carroll County,,city-us,1921,40.540,-81.206,968
+29096,Monroe,OH,Logan County,,city-us,1795,40.273,-83.688,968
+29098,Monroe,OH,Madison County,,city-us,1700,40.022,-83.409,968
+29077,Monroe,OH,Darke County,,city-us,1663,39.967,-84.472,968
+29125,Monroe,PA,Wyoming County,,city-us,1660,41.431,-75.995,468
+29088,Monroe,OH,Holmes County,,city-us,1602,40.559,-82.027,968
+29073,Monroe,PA,Clarion County,,city-us,1485,41.135,-79.406,468
+29106,Monroe,IL,Ogle County,,city-us,1436,42.104,-89.002,297
+29067,Monroe,PA,Bedford County,,city-us,1393,39.880,-78.383,468
+29110,Monroe,OH,Perry County,,city-us,1357,39.588,-82.088,968
+29083,Monroe,WI,Green County,,city-us,1273,42.643,-89.662,262
+29111,Monroe,OH,Pickaway County,,city-us,1241,39.652,-83.190,968
+29087,Monroe,OH,Henry County,,city-us,1082,41.298,-84.057,968
+29085,Monroe,OH,Harrison County,,city-us,1065,40.400,-81.215,968
+29123,Monroe,ME,Waldo County,,city-us,939,44.598,-69.058,3510
+29060,Monroe,IN,Adams County,,city-us,887,40.745,-84.937,3866
+29081,Monroe,NH,Grafton County,,city-us,872,44.297,-71.981,6893
+29084,Monroe,OH,Guernsey County,,city-us,711,40.175,-81.482,968
+29068,Monroe,OR,Benton County,,city-us,660,44.314,-123.297,4223
+29061,Monroe,OH,Adams County,,city-us,608,38.718,-83.531,968
+30091,Munro,MI,Cheboygan County,,city-us,593,45.600,-84.662,2339
+29103,Monroe,OH,Muskingum County,,city-us,540,40.118,-81.765,968
+29069,Monroe,PA,Bradford County,,city-us,487,41.712,-76.475,2708
+29075,Monroe,OH,Coshocton County,,city-us,431,40.416,-82.039,968
+29062,Monroe,WI,Adams County,,city-us,396,44.101,-89.948,2084
+29065,Monroe,KS,Anderson County,,city-us,376,38.305,-95.202,526
+29105,Monroe,MO,Nodaway County,,city-us,363,40.289,-95.074,158
+29104,Monroe,MI,Newaygo County,,city-us,335,43.693,-85.732,1867
+29095,Monroe,MO,Livingston County,,city-us,307,39.655,-93.703,131
+29112,Monroe,NE,Platte County,,city-us,287,41.474,-97.599,3625
+29097,Monroe,MN,Lyon County,,city-us,183,44.245,-95.662,1912
+29078,Monroe,MO,Daviess County,,city-us,180,39.823,-93.921,134
+29121,Monroe,SD,Turner County,,city-us,174,43.465,-97.221,3357
+29093,Monroe,OK,Le Flore County,,city-us,148,34.993,-94.517,402
+29079,Monroe,MA,Franklin County,,city-us,116,42.728,-72.985,5843
+29101,Monroe,AR,Monroe County,,city-us,51,34.735,-91.104,632
+29120,Monroe,ND,Towner County,,city-us,17,48.755,-99.447,0
+29064,Monroe,VA,Amherst County,,city-us,0,37.502,-79.128,740
+29072,Monroe,TX,Cherokee County,,city-us,0,32.335,-94.738,1258
+29086,Monroe,KY,Hart County,,city-us,0,37.232,-85.698,254
+29089,Monroe,OH,Jackson County,,city-us,0,38.856,-82.629,704
+29109,Monroe,TN,Overton County,,city-us,0,36.437,-85.243,250
+29119,Monroe,IN,Tippecanoe County,,city-us,0,40.286,-86.735,913

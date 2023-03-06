@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24123,Lawn,TX,,city-us,312,32.135,-99.750,2587
-24121,Lawn,WV,,city-us,0,37.840,-80.753,210
-24122,Lawn,PA,,city-us,0,40.220,-76.539,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24123,Lawn,TX,Taylor County,,city-us,312,32.135,-99.750,2587
+24121,Lawn,WV,Greenbrier County,,city-us,0,37.840,-80.753,210
+24122,Lawn,PA,Lebanon County,,city-us,0,40.220,-76.539,225

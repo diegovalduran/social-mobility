@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2120,Axtell,NE,,city-us,749,40.478,-99.127,3807
-2122,Axtell,KS,,city-us,398,39.872,-96.259,3851
-2119,Axtell,VA,,city-us,0,37.701,-78.601,92
-2121,Axtell,MO,,city-us,0,39.824,-92.473,183
-2123,Axtell,TX,,city-us,0,31.658,-96.971,1145
-2124,Axtell,UT,,city-us,0,39.055,-111.822,404
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2120,Axtell,NE,Kearney County,,city-us,749,40.478,-99.127,3807
+2122,Axtell,KS,Marshall County,,city-us,398,39.872,-96.259,3851
+2119,Axtell,VA,Buckingham County,,city-us,0,37.701,-78.601,92
+2121,Axtell,MO,Macon County,,city-us,0,39.824,-92.473,183
+2123,Axtell,TX,McLennan County,,city-us,0,31.658,-96.971,1145
+2124,Axtell,UT,Sanpete County,,city-us,0,39.055,-111.822,404

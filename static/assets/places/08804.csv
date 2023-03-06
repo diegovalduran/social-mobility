@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44186,Valmy,NV,,city-us,32,40.793,-117.127,1243
-44185,Valmy,WI,,city-us,0,44.908,-87.263,353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44186,Valmy,NV,Humboldt County,,city-us,32,40.793,-117.127,1243
+44185,Valmy,WI,Door County,,city-us,0,44.908,-87.263,353

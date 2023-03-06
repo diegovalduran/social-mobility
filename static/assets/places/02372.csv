@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11902,Dodge City,KS,,city-us,27690,37.753,-100.017,29459
-11901,Dodge City,AL,,city-us,562,34.041,-86.886,2040
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11902,Dodge City,KS,Ford County,,city-us,27690,37.753,-100.017,29459
+11901,Dodge City,AL,Cullman County,,city-us,562,34.041,-86.886,2040

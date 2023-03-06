@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3118,Bel-Air,FL,,city-us,0,28.795,-81.255,95
-3119,Belair,SC,,city-us,0,34.953,-80.851,323
-3120,Belair,FL,,city-us,0,30.225,-84.166,79
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3118,Bel-Air,FL,Seminole County,,city-us,0,28.795,-81.255,95
+3119,Belair,SC,Lancaster County,,city-us,0,34.953,-80.851,323
+3120,Belair,FL,Leon County,,city-us,0,30.225,-84.166,79

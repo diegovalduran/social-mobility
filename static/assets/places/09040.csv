@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45555,Waukon,IA,,city-us,3760,43.269,-91.476,7784
-45557,Waukon,MN,,city-us,90,47.369,-96.130,1752
-45556,Waukon,WA,,city-us,0,47.540,-117.843,277
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45555,Waukon,IA,Allamakee County,,city-us,3760,43.269,-91.476,7784
+45557,Waukon,MN,Norman County,,city-us,90,47.369,-96.130,1752
+45556,Waukon,WA,Lincoln County,,city-us,0,47.540,-117.843,277

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3677,Berrien,MI,,city-us,4816,41.939,-86.288,3828
-3676,Berrian,WA,,city-us,0,45.938,-119.152,429
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3677,Berrien,MI,Berrien County,,city-us,4816,41.939,-86.288,3828
+3676,Berrian,WA,Benton County,,city-us,0,45.938,-119.152,429

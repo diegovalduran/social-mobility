@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15993,Friberg,MN,,city-us,800,46.412,-95.970,1883
-16096,Fryburg,OH,,city-us,0,40.516,-84.149,588
-16097,Fryburg,ND,,city-us,0,46.871,-103.303,194
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15993,Friberg,MN,Otter Tail County,,city-us,800,46.412,-95.970,1883
+16096,Fryburg,OH,Auglaize County,,city-us,0,40.516,-84.149,588
+16097,Fryburg,ND,Billings County,,city-us,0,46.871,-103.303,194

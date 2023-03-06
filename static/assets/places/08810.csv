@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44220,Van Horn,TX,,city-us,1946,31.040,-104.831,4578
-44222,Van Horne,IA,,city-us,774,42.009,-92.091,3060
-44219,Van Horn,MO,,city-us,405,39.492,-93.485,158
-44221,Van Horn,WA,,city-us,0,48.516,-121.705,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44220,Van Horn,TX,Culberson County,,city-us,1946,31.040,-104.831,4578
+44222,Van Horne,IA,Benton County,,city-us,774,42.009,-92.091,3060
+44219,Van Horn,MO,Carroll County,,city-us,405,39.492,-93.485,158
+44221,Van Horn,WA,Skagit County,,city-us,0,48.516,-121.705,252

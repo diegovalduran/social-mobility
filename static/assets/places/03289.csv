@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16682,Germany,,,country,84220184,51.166,10.452,54429
-16679,Germany,PA,,city-us,2839,39.734,-77.108,2484
-16681,Germany,TX,,city-us,43,31.440,-95.351,808
-16680,Germany,IN,,city-us,0,38.462,-85.543,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16682,Germany,,,,country,84220184,51.166,10.452,54429
+16679,Germany,PA,Adams County,,city-us,2839,39.734,-77.108,2484
+16681,Germany,TX,Houston County,,city-us,43,31.440,-95.351,808
+16680,Germany,IN,Clark County,,city-us,0,38.462,-85.543,179

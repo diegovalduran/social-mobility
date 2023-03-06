@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33317,Pattonsville,OH,,city-us,0,39.032,-82.498,220
-33318,Pattonsville,VA,,city-us,0,36.699,-82.851,275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33317,Pattonsville,OH,Jackson County,,city-us,0,39.032,-82.498,220
+33318,Pattonsville,VA,Scott County,,city-us,0,36.699,-82.851,275

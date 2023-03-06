@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-923,Amanda,OH,,city-us,2026,40.735,-84.273,160
-925,Amanda,OH,,city-us,1063,40.955,-83.507,160
-924,Amanda,OH,,city-us,675,39.650,-82.744,3502
+id,name,state,county,country,level,population,latitude,longitude,wiki
+923,Amanda,OH,Allen County,,city-us,2026,40.735,-84.273,160
+925,Amanda,OH,Hancock County,,city-us,1063,40.955,-83.507,160
+924,Amanda,OH,Fairfield County,,city-us,675,39.650,-82.744,3502

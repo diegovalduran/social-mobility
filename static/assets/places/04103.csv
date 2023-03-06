@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21143,Huston,PA,,city-us,1329,40.868,-77.977,226
-21144,Huston,PA,,city-us,1259,41.197,-78.565,226
-21141,Huston,PA,,city-us,1248,40.358,-78.264,226
-21142,Huston,ID,,city-us,0,43.610,-116.783,487
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21143,Huston,PA,Centre County,,city-us,1329,40.868,-77.977,226
+21144,Huston,PA,Clearfield County,,city-us,1259,41.197,-78.565,226
+21141,Huston,PA,Blair County,,city-us,1248,40.358,-78.264,226
+21142,Huston,ID,Canyon County,,city-us,0,43.610,-116.783,487

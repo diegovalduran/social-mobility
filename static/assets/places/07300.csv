@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37028,Robbinsville,NJ,,city-us,15345,40.224,-74.595,15171
-37027,Robbinsville,NC,,city-us,533,35.323,-83.807,3600
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37028,Robbinsville,NJ,Mercer County,,city-us,15345,40.224,-74.595,15171
+37027,Robbinsville,NC,Graham County,,city-us,533,35.323,-83.807,3600

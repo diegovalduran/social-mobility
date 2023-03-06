@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38426,San Jacinto,CA,,city-us,55290,33.784,-116.959,13072
-38425,San Jacinto,IN,,city-us,0,38.956,-85.497,324
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38426,San Jacinto,CA,Riverside County,,city-us,55290,33.784,-116.959,13072
+38425,San Jacinto,IN,Jennings County,,city-us,0,38.956,-85.497,324

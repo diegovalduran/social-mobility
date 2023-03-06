@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35286,Prathersville,MO,,city-us,122,39.313,-94.272,3029
-35285,Prathersville,MO,,city-us,0,39.018,-92.322,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35286,Prathersville,MO,Clay County,,city-us,122,39.313,-94.272,3029
+35285,Prathersville,MO,Boone County,,city-us,0,39.018,-92.322,192

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4074,Biscoe,NC,,city-us,1862,35.360,-79.780,2744
-4073,Biscoe,VA,,city-us,0,37.818,-77.058,108
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4074,Biscoe,NC,Montgomery County,,city-us,1862,35.360,-79.780,2744
+4073,Biscoe,VA,King and Queen County,,city-us,0,37.818,-77.058,108

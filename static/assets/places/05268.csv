@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27017,Marseilles,IL,,city-us,4804,41.331,-88.708,4244
-27018,Marseilles,OH,,city-us,97,40.701,-83.393,3513
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27017,Marseilles,IL,LaSalle County,,city-us,4804,41.331,-88.708,4244
+27018,Marseilles,OH,Wyandot County,,city-us,97,40.701,-83.393,3513

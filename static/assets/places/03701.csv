@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18866,Haring,MI,,city-us,335,44.299,-85.413,1210
-19789,Herring,WV,,city-us,0,39.542,-79.738,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18866,Haring,MI,Wexford County,,city-us,335,44.299,-85.413,1210
+19789,Herring,WV,Preston County,,city-us,0,39.542,-79.738,89

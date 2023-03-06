@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4746,Boonville,MO,,city-us,7870,38.974,-92.743,11131
-4749,Boonville,IN,,city-us,6627,38.049,-87.274,6665
-4748,Boonville,NY,,city-us,4466,43.459,-75.285,4059
-4750,Boonville,NC,,city-us,1193,36.233,-80.708,3006
-4747,Boonville,CA,,city-us,1044,39.009,-123.366,6612
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4746,Boonville,MO,Cooper County,,city-us,7870,38.974,-92.743,11131
+4749,Boonville,IN,Warrick County,,city-us,6627,38.049,-87.274,6665
+4748,Boonville,NY,Oneida County,,city-us,4466,43.459,-75.285,4059
+4750,Boonville,NC,Yadkin County,,city-us,1193,36.233,-80.708,3006
+4747,Boonville,CA,Mendocino County,,city-us,1044,39.009,-123.366,6612

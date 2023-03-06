@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30418,Nelsonville,OH,,city-us,4571,39.459,-82.232,13241
-30423,Nelsonville,NY,,city-us,630,41.425,-73.947,3098
-30422,Nelsonville,WI,,city-us,159,44.495,-89.310,3202
-30419,Nelsonville,TX,,city-us,0,29.977,-96.403,2382
-30420,Nelsonville,MO,,city-us,0,39.926,-91.797,243
-30421,Nelsonville,NJ,,city-us,0,40.170,-74.535,908
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30418,Nelsonville,OH,Athens County,,city-us,4571,39.459,-82.232,13241
+30423,Nelsonville,NY,Putnam County,,city-us,630,41.425,-73.947,3098
+30422,Nelsonville,WI,Portage County,,city-us,159,44.495,-89.310,3202
+30419,Nelsonville,TX,Austin County,,city-us,0,29.977,-96.403,2382
+30420,Nelsonville,MO,Marion County,,city-us,0,39.926,-91.797,243
+30421,Nelsonville,NJ,Monmouth County,,city-us,0,40.170,-74.535,908

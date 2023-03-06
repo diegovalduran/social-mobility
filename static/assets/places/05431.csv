@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27807,Medora,IN,,city-us,630,38.825,-86.170,3414
-27808,Medora,IL,,city-us,369,39.177,-90.141,2344
-27806,Medora,ND,,city-us,117,46.914,-103.524,4673
-27809,Medora,KS,,city-us,0,38.149,-97.846,352
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27807,Medora,IN,Jackson County,,city-us,630,38.825,-86.170,3414
+27808,Medora,IL,Jersey County / Macoupin County,,city-us,369,39.177,-90.141,2344
+27806,Medora,ND,Billings County,,city-us,117,46.914,-103.524,4673
+27809,Medora,KS,Reno County,,city-us,0,38.149,-97.846,352

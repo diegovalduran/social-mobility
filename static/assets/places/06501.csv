@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33141,Park Hills,MO,,city-us,8701,37.854,-90.518,5002
-33140,Park Hills,KY,,city-us,3165,39.071,-84.532,4048
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33141,Park Hills,MO,St. Francois County,,city-us,8701,37.854,-90.518,5002
+33140,Park Hills,KY,Kenton County,,city-us,3165,39.071,-84.532,4048

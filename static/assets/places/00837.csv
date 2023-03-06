@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4288,Blakeslee,OH,,city-us,105,41.524,-84.730,3040
-4287,Blakeslee,PA,,city-us,0,41.093,-75.593,627
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4288,Blakeslee,OH,Williams County,,city-us,105,41.524,-84.730,3040
+4287,Blakeslee,PA,Monroe County,,city-us,0,41.093,-75.593,627

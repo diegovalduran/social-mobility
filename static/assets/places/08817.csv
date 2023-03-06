@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44242,Vanceboro,NC,,city-us,859,35.309,-77.154,1856
-44243,Vanceboro,ME,,city-us,162,45.563,-67.430,5035
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44242,Vanceboro,NC,Craven County,,city-us,859,35.309,-77.154,1856
+44243,Vanceboro,ME,Washington County,,city-us,162,45.563,-67.430,5035

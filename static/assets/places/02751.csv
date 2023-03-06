@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13708,Empire,IL,,city-us,3955,40.337,-88.745,410
-13711,Empire,CA,,city-us,3496,37.638,-120.902,5466
-13703,Empire,MN,,city-us,3158,44.680,-93.092,2284
-13705,Empire,WI,,city-us,2789,43.752,-88.339,2254
-13709,Empire,KS,,city-us,1372,38.391,-97.538,342
-13710,Empire,LA,,city-us,954,29.388,-89.597,1943
-13697,Empire,GA,,city-us,472,32.337,-83.283,817
-13707,Empire,MI,,city-us,351,44.811,-86.060,8076
-13702,Empire,CO,,city-us,339,39.761,-105.684,4114
-13706,Empire,OH,,city-us,232,40.508,-80.624,3659
-13704,Empire,KS,,city-us,163,38.645,-98.045,342
-13713,Empire,NV,,city-us,156,40.576,-119.342,5980
-13699,Empire,ND,,city-us,111,47.014,-97.378,0
-13698,Empire,MO,,city-us,0,36.763,-90.316,149
-13700,Empire,AR,,city-us,0,33.122,-91.435,205
-13701,Empire,KY,,city-us,0,37.086,-87.497,99
-13712,Empire,AL,,city-us,0,33.808,-87.011,447
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13708,Empire,IL,McLean County,,city-us,3955,40.337,-88.745,410
+13711,Empire,CA,Stanislaus County,,city-us,3496,37.638,-120.902,5466
+13703,Empire,MN,Dakota County,,city-us,3158,44.680,-93.092,2284
+13705,Empire,WI,Fond du Lac County,,city-us,2789,43.752,-88.339,2254
+13709,Empire,KS,McPherson County,,city-us,1372,38.391,-97.538,342
+13710,Empire,LA,Plaquemines Parish,,city-us,954,29.388,-89.597,1943
+13697,Empire,GA,Bleckley County / Dodge County,,city-us,472,32.337,-83.283,817
+13707,Empire,MI,Leelanau County,,city-us,351,44.811,-86.060,8076
+13702,Empire,CO,Clear Creek County,,city-us,339,39.761,-105.684,4114
+13706,Empire,OH,Jefferson County,,city-us,232,40.508,-80.624,3659
+13704,Empire,KS,Ellsworth County,,city-us,163,38.645,-98.045,342
+13713,Empire,NV,Washoe County,,city-us,156,40.576,-119.342,5980
+13699,Empire,ND,Cass County,,city-us,111,47.014,-97.378,0
+13698,Empire,MO,Butler County,,city-us,0,36.763,-90.316,149
+13700,Empire,AR,Chicot County,,city-us,0,33.122,-91.435,205
+13701,Empire,KY,Christian County,,city-us,0,37.086,-87.497,99
+13712,Empire,AL,Walker County,,city-us,0,33.808,-87.011,447

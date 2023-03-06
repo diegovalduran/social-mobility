@@ -10,6 +10,7 @@ export default function cleanPlaceData({ raw, stateLookup }) {
 			id: i,
 			name: d.name,
 			state: getStateAbbr(d.state),
+			county: d.county,
 			country: d.level === "city-us" ? "" : d.country,
 			level: d.level,
 			population: Math.round(+d.population),

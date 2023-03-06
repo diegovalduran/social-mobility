@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11996,Dora,AL,,city-us,2290,33.729,-87.090,4365
-11992,Dora,IL,,city-us,702,39.732,-88.749,270
-11993,Dora,MN,,city-us,702,46.579,-95.825,2466
-11990,Dora,AR,,city-us,121,35.457,-94.438,787
-11995,Dora,NM,,city-us,116,33.939,-103.337,1899
-11989,Dora,OR,,city-us,0,43.156,-123.956,608
-11991,Dora,PA,,city-us,0,40.967,-79.160,145
-11994,Dora,MO,,city-us,0,36.777,-92.217,308
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11996,Dora,AL,Walker County,,city-us,2290,33.729,-87.090,4365
+11992,Dora,IL,Moultrie County,,city-us,702,39.732,-88.749,270
+11993,Dora,MN,Otter Tail County,,city-us,702,46.579,-95.825,2466
+11990,Dora,AR,Crawford County,,city-us,121,35.457,-94.438,787
+11995,Dora,NM,Roosevelt County,,city-us,116,33.939,-103.337,1899
+11989,Dora,OR,Coos County,,city-us,0,43.156,-123.956,608
+11991,Dora,PA,Jefferson County,,city-us,0,40.967,-79.160,145
+11994,Dora,MO,Ozark County,,city-us,0,36.777,-92.217,308

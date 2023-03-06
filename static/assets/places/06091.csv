@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31171,Nineveh,MO,,city-us,0,40.274,-92.695,380
-31172,Nineveh,PA,,city-us,0,39.961,-80.308,216
-31173,Nineveh,IN,,city-us,0,39.362,-86.085,807
-31174,Nineveh,VA,,city-us,0,39.016,-78.165,1548
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31171,Nineveh,MO,Adair County,,city-us,0,40.274,-92.695,380
+31172,Nineveh,PA,Greene County,,city-us,0,39.961,-80.308,216
+31173,Nineveh,IN,Johnson County,,city-us,0,39.362,-86.085,807
+31174,Nineveh,VA,Warren County,,city-us,0,39.016,-78.165,1548

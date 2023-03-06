@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38338,Salona,PA,,city-us,0,41.084,-77.463,235
-38339,Salona,WI,,city-us,0,44.746,-87.356,382
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38338,Salona,PA,Clinton County,,city-us,0,41.084,-77.463,235
+38339,Salona,WI,Door County,,city-us,0,44.746,-87.356,382

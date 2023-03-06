@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14572,Fannin,KY,,city-us,0,38.068,-83.090,114
-14573,Fannin,TX,,city-us,0,28.696,-97.236,426
-14574,Fannin,MS,,city-us,0,32.417,-89.957,4872
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14572,Fannin,KY,Elliott County,,city-us,0,38.068,-83.090,114
+14573,Fannin,TX,Goliad County,,city-us,0,28.696,-97.236,426
+14574,Fannin,MS,Rankin County,,city-us,0,32.417,-89.957,4872

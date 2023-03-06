@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13326,Elk Lick,PA,,city-us,2250,39.778,-79.130,2640
-13325,Elk Lick,OH,,city-us,0,39.027,-84.130,178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13326,Elk Lick,PA,Somerset County,,city-us,2250,39.778,-79.130,2640
+13325,Elk Lick,OH,Clermont County,,city-us,0,39.027,-84.130,178

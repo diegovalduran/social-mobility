@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32874,Page,AZ,,city-us,7375,36.915,-111.456,6180
-32878,Page,MN,,city-us,792,45.858,-93.711,3915
-32882,Paige,TX,,city-us,275,30.210,-97.115,1506
-32875,Page,WV,,city-us,182,38.053,-81.270,2824
-32876,Page,NE,,city-us,167,42.401,-98.417,3011
-32873,Page,ND,,city-us,45,47.203,-97.504,3603
-32872,Page,VA,,city-us,0,37.180,-81.995,253
-32877,Page,OK,,city-us,0,34.711,-94.550,425
-32879,Page,IN,,city-us,0,41.688,-84.859,255
-32883,Paige,VA,,city-us,0,38.072,-77.419,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32874,Page,AZ,Coconino County,,city-us,7375,36.915,-111.456,6180
+32878,Page,MN,Mille Lacs County,,city-us,792,45.858,-93.711,3915
+32882,Paige,TX,Bastrop County,,city-us,275,30.210,-97.115,1506
+32875,Page,WV,Fayette County,,city-us,182,38.053,-81.270,2824
+32876,Page,NE,Holt County,,city-us,167,42.401,-98.417,3011
+32873,Page,ND,Cass County,,city-us,45,47.203,-97.504,3603
+32872,Page,VA,Buchanan County,,city-us,0,37.180,-81.995,253
+32877,Page,OK,Le Flore County,,city-us,0,34.711,-94.550,425
+32879,Page,IN,Steuben County,,city-us,0,41.688,-84.859,255
+32883,Paige,VA,Caroline County,,city-us,0,38.072,-77.419,91

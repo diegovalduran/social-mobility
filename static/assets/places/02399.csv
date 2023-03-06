@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12013,Dorr,IL,,city-us,21601,42.286,-88.414,1080
-12012,Dorr,MI,,city-us,7922,42.736,-85.717,4527
-11988,Dor,KS,,city-us,34,39.597,-99.007,0
-12014,Dorr,WV,,city-us,0,37.619,-80.474,113
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12013,Dorr,IL,McHenry County,,city-us,21601,42.286,-88.414,1080
+12012,Dorr,MI,Allegan County,,city-us,7922,42.736,-85.717,4527
+11988,Dor,KS,Smith County,,city-us,34,39.597,-99.007,0
+12014,Dorr,WV,Monroe County,,city-us,0,37.619,-80.474,113

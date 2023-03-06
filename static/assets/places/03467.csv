@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17538,Grange Corner,IN,,city-us,0,39.940,-87.186,252
-17539,Grange Corner,IN,,city-us,0,39.446,-87.258,258
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17538,Grange Corner,IN,Parke County,,city-us,0,39.940,-87.186,252
+17539,Grange Corner,IN,Vigo County,,city-us,0,39.446,-87.258,258

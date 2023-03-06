@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43581,Twilight,PA,,city-us,214,40.113,-79.889,1917
-43579,Twilight,WV,,city-us,71,37.927,-81.623,455
-43580,Twilight,WV,,city-us,0,40.036,-80.593,462
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43581,Twilight,PA,Washington County,,city-us,214,40.113,-79.889,1917
+43579,Twilight,WV,Boone County,,city-us,71,37.927,-81.623,455
+43580,Twilight,WV,Ohio County,,city-us,0,40.036,-80.593,462

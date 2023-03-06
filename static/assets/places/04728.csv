@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24118,Lawler,IA,,city-us,407,43.071,-92.150,3059
-24117,Lawler,MN,,city-us,0,46.536,-93.171,1009
-24119,Lawler,IL,,city-us,0,37.728,-88.286,174
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24118,Lawler,IA,Chickasaw County,,city-us,407,43.071,-92.150,3059
+24117,Lawler,MN,Aitkin County,,city-us,0,46.536,-93.171,1009
+24119,Lawler,IL,Gallatin County,,city-us,0,37.728,-88.286,174

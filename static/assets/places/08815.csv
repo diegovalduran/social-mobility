@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44233,Van Wyck,SC,,city-us,896,34.858,-80.846,1977
-44234,Van Wyck,WA,,city-us,0,48.804,-122.421,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44233,Van Wyck,SC,Lancaster County,,city-us,896,34.858,-80.846,1977
+44234,Van Wyck,WA,Whatcom County,,city-us,0,48.804,-122.421,237

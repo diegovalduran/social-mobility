@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41269,Staples,CT,,city-us,7125,41.155,-73.326,375
-41268,Staples,MN,,city-us,2998,46.372,-94.815,5578
-41267,Staples,MN,,city-us,597,46.313,-94.849,2014
-41266,Staples,TX,,city-us,188,29.781,-97.836,1698
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41269,Staples,CT,Western Connecticut Planning Region,,city-us,7125,41.155,-73.326,375
+41268,Staples,MN,Todd County / Wadena County,,city-us,2998,46.372,-94.815,5578
+41267,Staples,MN,Todd County,,city-us,597,46.313,-94.849,2014
+41266,Staples,TX,Guadalupe County,,city-us,188,29.781,-97.836,1698

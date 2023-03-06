@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18875,Harlansburg,IN,,city-us,0,40.814,-85.564,294
-18876,Harlansburg,PA,,city-us,0,41.024,-80.189,7845
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18875,Harlansburg,IN,Huntington County,,city-us,0,40.814,-85.564,294
+18876,Harlansburg,PA,Lawrence County,,city-us,0,41.024,-80.189,7845

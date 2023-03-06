@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7003,Carolina,,Puerto Rico,city-international,136771,18.405,-65.979,9861
-7002,Carolina,RI,,city-us,982,41.457,-71.663,4345
-6999,Carolina,AL,,city-us,290,31.241,-86.528,2786
-7001,Carolina,WV,,city-us,277,39.480,-80.273,412
-6998,Carolina,NC,,city-us,0,36.132,-79.412,322
-7000,Carolina,MS,,city-us,0,34.118,-88.482,457
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7003,Carolina,,,Puerto Rico,city-international,136771,18.405,-65.979,9861
+7002,Carolina,RI,Washington County,,city-us,982,41.457,-71.663,4345
+6999,Carolina,AL,Covington County,,city-us,290,31.241,-86.528,2786
+7001,Carolina,WV,Marion County,,city-us,277,39.480,-80.273,412
+6998,Carolina,NC,Alamance County,,city-us,0,36.132,-79.412,322
+7000,Carolina,MS,Itawamba County,,city-us,0,34.118,-88.482,457

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47613,Woodlyn,PA,,city-us,10332,39.877,-75.344,2575
-47615,Woodlynne,NJ,,city-us,2891,39.917,-75.096,9919
-47614,Woodlyn,OH,,city-us,0,39.570,-83.114,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47613,Woodlyn,PA,Delaware County,,city-us,10332,39.877,-75.344,2575
+47615,Woodlynne,NJ,Camden County,,city-us,2891,39.917,-75.096,9919
+47614,Woodlyn,OH,Pickaway County,,city-us,0,39.570,-83.114,280

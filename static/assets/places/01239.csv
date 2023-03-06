@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6243,Burrsville,MD,,city-us,0,38.894,-75.729,235
-6244,Burrsville,NJ,,city-us,0,40.069,-74.131,540
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6243,Burrsville,MD,Caroline County,,city-us,0,38.894,-75.729,235
+6244,Burrsville,NJ,Ocean County,,city-us,0,40.069,-74.131,540

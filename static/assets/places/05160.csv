@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26465,Malcolm,NE,,city-us,475,40.907,-96.863,3963
-26468,Malcom,IA,,city-us,266,41.708,-92.559,4248
-26467,Malcolm,AL,,city-us,88,31.191,-88.007,161
-26466,Malcolm,ND,,city-us,73,47.625,-101.110,0
-26464,Malcolm,MD,,city-us,0,38.617,-76.787,751
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26465,Malcolm,NE,Lancaster County,,city-us,475,40.907,-96.863,3963
+26468,Malcom,IA,Poweshiek County,,city-us,266,41.708,-92.559,4248
+26467,Malcolm,AL,Washington County,,city-us,88,31.191,-88.007,161
+26466,Malcolm,ND,McLean County,,city-us,73,47.625,-101.110,0
+26464,Malcolm,MD,Charles County,,city-us,0,38.617,-76.787,751

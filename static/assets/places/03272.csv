@@ -1,23 +1,23 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16543,Geneva,,Switzerland,city-international,201818,46.200,6.150,65939
-16533,Geneva,IL,,city-us,26240,41.881,-88.323,522
-16536,Geneva,NY,,city-us,12432,42.863,-76.983,10793
-16524,Geneva,OH,,city-us,5903,41.805,-80.948,8605
-16541,Geneva,WI,,city-us,5468,42.630,-88.482,3181
-16531,Geneva,AL,,city-us,4185,31.033,-85.864,5434
-16535,Geneva,NY,,city-us,3493,42.833,-77.006,10793
-16540,Geneva,MI,,city-us,3399,42.384,-86.162,205
-16537,Geneva,FL,,city-us,2913,28.737,-81.118,3051
-16542,Geneva,WA,,city-us,2437,48.746,-122.402,2214
-16528,Geneva,NE,,city-us,2146,40.527,-97.596,4452
-16522,Geneva,IN,,city-us,1265,40.592,-84.957,4698
-16534,Geneva,MI,,city-us,1062,43.688,-84.532,205
-16530,Geneva,MN,,city-us,503,43.823,-93.268,3221
-16529,Geneva,IA,,city-us,137,42.676,-93.129,3075
-16526,Geneva,PA,,city-us,74,41.563,-80.225,1907
-16539,Geneva,GA,,city-us,74,32.580,-84.551,2326
-16523,Geneva,KS,,city-us,0,38.017,-95.494,3499
-16525,Geneva,ID,,city-us,0,42.359,-111.065,1014
-16527,Geneva,OH,,city-us,0,39.662,-82.434,323
-16532,Geneva,OR,,city-us,0,44.474,-121.392,260
-16538,Geneva,IN,,city-us,0,39.392,-85.720,485
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16543,Geneva,,,Switzerland,city-international,201818,46.200,6.150,65939
+16533,Geneva,IL,Kane County,,city-us,26240,41.881,-88.323,522
+16536,Geneva,NY,Ontario County / Seneca County,,city-us,12432,42.863,-76.983,10793
+16524,Geneva,OH,Ashtabula County,,city-us,5903,41.805,-80.948,8605
+16541,Geneva,WI,Walworth County,,city-us,5468,42.630,-88.482,3181
+16531,Geneva,AL,Geneva County,,city-us,4185,31.033,-85.864,5434
+16535,Geneva,NY,Ontario County,,city-us,3493,42.833,-77.006,10793
+16540,Geneva,MI,Van Buren County,,city-us,3399,42.384,-86.162,205
+16537,Geneva,FL,Seminole County,,city-us,2913,28.737,-81.118,3051
+16542,Geneva,WA,Whatcom County,,city-us,2437,48.746,-122.402,2214
+16528,Geneva,NE,Fillmore County,,city-us,2146,40.527,-97.596,4452
+16522,Geneva,IN,Adams County,,city-us,1265,40.592,-84.957,4698
+16534,Geneva,MI,Midland County,,city-us,1062,43.688,-84.532,205
+16530,Geneva,MN,Freeborn County,,city-us,503,43.823,-93.268,3221
+16529,Geneva,IA,Franklin County,,city-us,137,42.676,-93.129,3075
+16526,Geneva,PA,Crawford County,,city-us,74,41.563,-80.225,1907
+16539,Geneva,GA,Talbot County,,city-us,74,32.580,-84.551,2326
+16523,Geneva,KS,Allen County,,city-us,0,38.017,-95.494,3499
+16525,Geneva,ID,Bear Lake County,,city-us,0,42.359,-111.065,1014
+16527,Geneva,OH,Fairfield County,,city-us,0,39.662,-82.434,323
+16532,Geneva,OR,Jefferson County,,city-us,0,44.474,-121.392,260
+16538,Geneva,IN,Shelby County,,city-us,0,39.392,-85.720,485

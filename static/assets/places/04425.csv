@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22818,Keswick,VA,,city-us,321,38.025,-78.356,3509
-22819,Keswick,IA,,city-us,240,41.453,-92.239,3149
-22820,Keswick,CA,,city-us,141,40.622,-122.466,2429
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22818,Keswick,VA,Albemarle County,,city-us,321,38.025,-78.356,3509
+22819,Keswick,IA,Keokuk County,,city-us,240,41.453,-92.239,3149
+22820,Keswick,CA,Shasta County,,city-us,141,40.622,-122.466,2429

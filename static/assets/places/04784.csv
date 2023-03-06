@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24412,Lemon,OH,,city-us,16935,39.448,-84.394,4457
-24411,Lemmon,SD,,city-us,1154,45.941,-102.159,6515
-24414,Lemon,PA,,city-us,1133,41.612,-75.909,1670
-24413,Lemon,KY,,city-us,0,37.581,-87.378,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24412,Lemon,OH,Butler County,,city-us,16935,39.448,-84.394,4457
+24411,Lemmon,SD,Perkins County,,city-us,1154,45.941,-102.159,6515
+24414,Lemon,PA,Wyoming County,,city-us,1133,41.612,-75.909,1670
+24413,Lemon,KY,McLean County,,city-us,0,37.581,-87.378,168

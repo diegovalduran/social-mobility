@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30442,Neosho,MO,,city-us,12687,36.869,-94.368,36774
-30440,Neosho,WI,,city-us,583,43.310,-88.518,3422
-30438,Neosho,KS,,city-us,243,37.054,-95.006,633
-30441,Neosho,KS,,city-us,160,37.334,-95.109,0
-30439,Neosho,KS,,city-us,115,38.075,-95.730,572
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30442,Neosho,MO,Newton County,,city-us,12687,36.869,-94.368,36774
+30440,Neosho,WI,Dodge County,,city-us,583,43.310,-88.518,3422
+30438,Neosho,KS,Cherokee County,,city-us,243,37.054,-95.006,633
+30441,Neosho,KS,Labette County,,city-us,160,37.334,-95.109,0
+30439,Neosho,KS,Coffey County,,city-us,115,38.075,-95.730,572

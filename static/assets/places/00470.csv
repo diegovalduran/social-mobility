@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2445,Bardwell,KY,,city-us,710,36.871,-89.010,4327
-2446,Bardwell,TX,,city-us,637,32.269,-96.696,3282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2445,Bardwell,KY,Carlisle County,,city-us,710,36.871,-89.010,4327
+2446,Bardwell,TX,Ellis County,,city-us,637,32.269,-96.696,3282

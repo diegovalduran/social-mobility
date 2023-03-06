@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44452,Versailles,KY,,city-us,10431,38.053,-84.730,5499
-44447,Versailles,OH,,city-us,2693,40.223,-84.484,4637
-44448,Versailles,MO,,city-us,2536,38.431,-92.841,4374
-44449,Versailles,IN,,city-us,2167,39.072,-85.252,4034
-44445,Versailles,PA,,city-us,1458,40.316,-79.831,3200
-44446,Versailles,IL,,city-us,667,39.886,-90.630,2585
-44450,Versailles,TN,,city-us,0,35.729,-86.541,259
-44451,Versailles,LA,,city-us,0,29.948,-89.961,6014
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44452,Versailles,KY,Woodford County,,city-us,10431,38.053,-84.730,5499
+44447,Versailles,OH,Darke County,,city-us,2693,40.223,-84.484,4637
+44448,Versailles,MO,Morgan County,,city-us,2536,38.431,-92.841,4374
+44449,Versailles,IN,Ripley County,,city-us,2167,39.072,-85.252,4034
+44445,Versailles,PA,Allegheny County,,city-us,1458,40.316,-79.831,3200
+44446,Versailles,IL,Brown County,,city-us,667,39.886,-90.630,2585
+44450,Versailles,TN,Rutherford County,,city-us,0,35.729,-86.541,259
+44451,Versailles,LA,St. Bernard Parish,,city-us,0,29.948,-89.961,6014

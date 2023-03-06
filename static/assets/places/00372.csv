@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1995,Austerlitz,NY,,city-us,1628,42.315,-73.518,4615
-1994,Austerlitz,KY,,city-us,0,38.091,-84.217,543
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1995,Austerlitz,NY,Columbia County,,city-us,1628,42.315,-73.518,4615
+1994,Austerlitz,KY,Bourbon County,,city-us,0,38.091,-84.217,543

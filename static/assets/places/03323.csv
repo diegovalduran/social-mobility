@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16823,Gilmer,TX,,city-us,4894,32.729,-94.942,5043
-16820,Gilmer,IL,,city-us,1141,39.982,-91.214,2633
-16821,Gilmer,WV,,city-us,0,38.879,-80.717,285
-16822,Gilmer,IL,,city-us,0,42.235,-88.046,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16823,Gilmer,TX,Upshur County,,city-us,4894,32.729,-94.942,5043
+16820,Gilmer,IL,Adams County,,city-us,1141,39.982,-91.214,2633
+16821,Gilmer,WV,Gilmer County,,city-us,0,38.879,-80.717,285
+16822,Gilmer,IL,Lake County,,city-us,0,42.235,-88.046,175

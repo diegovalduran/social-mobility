@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3910,Big Creek,MI,,city-us,2638,44.602,-84.252,2807
-3904,Big Creek,KS,,city-us,2136,38.867,-99.365,246
-3911,Big Creek,KS,,city-us,541,38.867,-98.987,246
-3909,Big Creek,KS,,city-us,444,37.693,-95.297,246
-3906,Big Creek,MO,,city-us,258,38.512,-93.897,133
-3902,Big Creek,MS,,city-us,132,33.853,-89.411,2024
-3905,Big Creek,CA,,city-us,126,37.205,-119.246,3730
-3908,Big Creek,WV,,city-us,102,38.004,-82.040,324
-3903,Big Creek,KY,,city-us,0,37.162,-83.569,2081
-3907,Big Creek,AL,,city-us,0,31.069,-85.434,153
-3912,Big Creek,ID,,city-us,0,47.514,-116.067,892
-3913,Big Creek,MO,,city-us,0,37.236,-91.844,485
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3910,Big Creek,MI,Oscoda County,,city-us,2638,44.602,-84.252,2807
+3904,Big Creek,KS,Ellis County,,city-us,2136,38.867,-99.365,246
+3911,Big Creek,KS,Russell County,,city-us,541,38.867,-98.987,246
+3909,Big Creek,KS,Neosho County,,city-us,444,37.693,-95.297,246
+3906,Big Creek,MO,Henry County,,city-us,258,38.512,-93.897,133
+3902,Big Creek,MS,Calhoun County,,city-us,132,33.853,-89.411,2024
+3905,Big Creek,CA,Fresno County,,city-us,126,37.205,-119.246,3730
+3908,Big Creek,WV,Logan County,,city-us,102,38.004,-82.040,324
+3903,Big Creek,KY,Clay County,,city-us,0,37.162,-83.569,2081
+3907,Big Creek,AL,Houston County,,city-us,0,31.069,-85.434,153
+3912,Big Creek,ID,Shoshone County,,city-us,0,47.514,-116.067,892
+3913,Big Creek,MO,Texas County,,city-us,0,37.236,-91.844,485

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40868,Springport,NY,,city-us,2218,42.853,-76.672,4238
-40867,Springport,MI,,city-us,1348,44.653,-83.333,2802
-40870,Springport,MI,,city-us,834,42.378,-84.699,3862
-40869,Springport,IN,,city-us,134,40.048,-85.394,3156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40868,Springport,NY,Cayuga County,,city-us,2218,42.853,-76.672,4238
+40867,Springport,MI,Alcona County,,city-us,1348,44.653,-83.333,2802
+40870,Springport,MI,Jackson County,,city-us,834,42.378,-84.699,3862
+40869,Springport,IN,Henry County,,city-us,134,40.048,-85.394,3156

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36032,Reager,KS,,city-us,0,39.827,-100.096,247
-36033,Reager,VA,,city-us,0,38.842,-78.124,94
-36243,Reger,MO,,city-us,0,40.144,-93.193,467
-36244,Reger,WV,,city-us,0,38.982,-80.191,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36032,Reager,KS,Norton County,,city-us,0,39.827,-100.096,247
+36033,Reager,VA,Rappahannock County,,city-us,0,38.842,-78.124,94
+36243,Reger,MO,Sullivan County,,city-us,0,40.144,-93.193,467
+36244,Reger,WV,Upshur County,,city-us,0,38.982,-80.191,86

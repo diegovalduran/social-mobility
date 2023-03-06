@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6471,Calcutta,OH,,city-us,4426,40.673,-80.576,4413
-6470,Calcutta,IN,,city-us,0,39.604,-87.069,239
-6472,Calcutta,WV,,city-us,0,39.351,-81.194,188
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6471,Calcutta,OH,Columbiana County,,city-us,4426,40.673,-80.576,4413
+6470,Calcutta,IN,Clay County,,city-us,0,39.604,-87.069,239
+6472,Calcutta,WV,Pleasants County,,city-us,0,39.351,-81.194,188

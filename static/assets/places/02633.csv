@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13066,Edwardsville,IL,,city-us,38996,38.790,-89.985,409
-13065,Edwardsville,PA,,city-us,4911,41.270,-75.916,2233
-13069,Edwardsville,KS,,city-us,4610,39.061,-94.820,4466
-13063,Edwardsville,AL,,city-us,205,33.707,-85.509,2462
-13064,Edwardsville,IN,,city-us,0,38.284,-85.909,572
-13067,Edwardsville,VA,,city-us,0,37.907,-76.365,102
-13068,Edwardsville,OH,,city-us,0,39.337,-84.028,316
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13066,Edwardsville,IL,Madison County,,city-us,38996,38.790,-89.985,409
+13065,Edwardsville,PA,Luzerne County,,city-us,4911,41.270,-75.916,2233
+13069,Edwardsville,KS,Wyandotte County,,city-us,4610,39.061,-94.820,4466
+13063,Edwardsville,AL,Cleburne County,,city-us,205,33.707,-85.509,2462
+13064,Edwardsville,IN,Floyd County,,city-us,0,38.284,-85.909,572
+13067,Edwardsville,VA,Northumberland County,,city-us,0,37.907,-76.365,102
+13068,Edwardsville,OH,Warren County,,city-us,0,39.337,-84.028,316

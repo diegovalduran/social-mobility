@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17444,Grand Island,NE,,city-us,52335,40.925,-98.342,11449
-17443,Grand Island,NY,,city-us,21427,43.018,-78.963,12335
-17441,Grand Island,MI,,city-us,31,46.522,-86.657,2811
-17442,Grand Island,CA,,city-us,0,39.066,-121.868,145
-17445,Grand Island,FL,,city-us,0,28.883,-81.729,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17444,Grand Island,NE,Hall County,,city-us,52335,40.925,-98.342,11449
+17443,Grand Island,NY,Erie County,,city-us,21427,43.018,-78.963,12335
+17441,Grand Island,MI,Alger County,,city-us,31,46.522,-86.657,2811
+17442,Grand Island,CA,Colusa County,,city-us,0,39.066,-121.868,145
+17445,Grand Island,FL,Lake County,,city-us,0,28.883,-81.729,171

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24551,Levan,UT,,city-us,872,39.559,-111.862,2860
-24550,Levan,IL,,city-us,831,37.824,-89.440,1150
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24551,Levan,UT,Juab County,,city-us,872,39.559,-111.862,2860
+24550,Levan,IL,Jackson County,,city-us,831,37.824,-89.440,1150

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27713,Meadowdale,WA,,city-us,3065,47.853,-122.333,439
-27710,Meadowdale,VA,,city-us,0,38.376,-79.665,168
-27711,Meadowdale,WV,,city-us,0,38.898,-81.600,249
-27712,Meadowdale,WV,,city-us,0,39.496,-80.093,197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27713,Meadowdale,WA,Snohomish County,,city-us,3065,47.853,-122.333,439
+27710,Meadowdale,VA,Highland County,,city-us,0,38.376,-79.665,168
+27711,Meadowdale,WV,Jackson County,,city-us,0,38.898,-81.600,249
+27712,Meadowdale,WV,Marion County,,city-us,0,39.496,-80.093,197

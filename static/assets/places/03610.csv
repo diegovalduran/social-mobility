@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18354,Guy,AR,,city-us,749,35.325,-92.334,3041
-18355,Guy,TX,,city-us,0,29.344,-95.783,3674
-18356,Guy,IN,,city-us,0,40.435,-85.976,205
-18357,Guy,KY,,city-us,0,37.124,-86.613,185
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18354,Guy,AR,Faulkner County,,city-us,749,35.325,-92.334,3041
+18355,Guy,TX,Fort Bend County,,city-us,0,29.344,-95.783,3674
+18356,Guy,IN,Howard County,,city-us,0,40.435,-85.976,205
+18357,Guy,KY,Warren County,,city-us,0,37.124,-86.613,185

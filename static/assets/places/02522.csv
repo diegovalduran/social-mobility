@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12591,Eagle Grove,IA,,city-us,3573,42.664,-93.904,4932
-12590,Eagle Grove,GA,,city-us,0,34.296,-83.007,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12591,Eagle Grove,IA,Wright County,,city-us,3573,42.664,-93.904,4932
+12590,Eagle Grove,GA,Hart County,,city-us,0,34.296,-83.007,203

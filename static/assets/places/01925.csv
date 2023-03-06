@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9808,Copenhagen,,Denmark,city-international,1085000,55.681,12.562,76598
-9807,Copenhagen,NY,,city-us,664,43.893,-75.674,4472
-9806,Copenhagen,LA,,city-us,0,32.024,-92.039,200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9808,Copenhagen,,,Denmark,city-international,1085000,55.681,12.562,76598
+9807,Copenhagen,NY,Lewis County,,city-us,664,43.893,-75.674,4472
+9806,Copenhagen,LA,Caldwell Parish,,city-us,0,32.024,-92.039,200

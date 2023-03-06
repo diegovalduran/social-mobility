@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36142,Reddick,FL,,city-us,463,29.367,-82.197,2252
-36141,Reddick,IL,,city-us,193,41.098,-88.249,5545
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36142,Reddick,FL,Marion County,,city-us,463,29.367,-82.197,2252
+36141,Reddick,IL,Kankakee County / Livingston County,,city-us,193,41.098,-88.249,5545

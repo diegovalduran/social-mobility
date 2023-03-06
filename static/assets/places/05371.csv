@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27493,McDade,TX,,city-us,1376,30.284,-97.238,845
-27494,McDade,AL,,city-us,0,32.316,-86.046,385
-27495,McDade,NC,,city-us,0,36.189,-79.171,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27493,McDade,TX,Bastrop County,,city-us,1376,30.284,-97.238,845
+27494,McDade,AL,Montgomery County,,city-us,0,32.316,-86.046,385
+27495,McDade,NC,Orange County,,city-us,0,36.189,-79.171,171

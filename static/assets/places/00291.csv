@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1506,Armona,CA,,city-us,4521,36.316,-119.708,8020
-1505,Armona,TN,,city-us,0,35.787,-84.014,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1506,Armona,CA,Kings County,,city-us,4521,36.316,-119.708,8020
+1505,Armona,TN,Blount County,,city-us,0,35.787,-84.014,177

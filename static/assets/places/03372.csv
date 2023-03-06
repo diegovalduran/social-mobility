@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17088,Gloster,MS,,city-us,887,31.197,-91.022,2482
-17089,Gloster,LA,,city-us,42,32.191,-93.815,470
-17090,Gloster,GA,,city-us,0,33.910,-84.065,232
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17088,Gloster,MS,Amite County,,city-us,887,31.197,-91.022,2482
+17089,Gloster,LA,De Soto Parish,,city-us,42,32.191,-93.815,470
+17090,Gloster,GA,Gwinnett County,,city-us,0,33.910,-84.065,232

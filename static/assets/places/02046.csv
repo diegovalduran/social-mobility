@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10326,Crescent Heights,NJ,,city-us,10317,39.916,-74.718,12106
-10327,Crescent Heights,TX,,city-us,0,32.187,-95.943,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10326,Crescent Heights,NJ,Burlington County,,city-us,10317,39.916,-74.718,12106
+10327,Crescent Heights,TX,Henderson County,,city-us,0,32.187,-95.943,106

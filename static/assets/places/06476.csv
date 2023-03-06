@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33004,Palo,MI,,city-us,1903,43.079,-85.020,2975
-33005,Palo,IA,,city-us,1404,42.066,-91.795,3979
-33006,Palo,MN,,city-us,30,47.415,-92.260,868
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33004,Palo,MI,Ionia County,,city-us,1903,43.079,-85.020,2975
+33005,Palo,IA,Linn County,,city-us,1404,42.066,-91.795,3979
+33006,Palo,MN,St. Louis County,,city-us,30,47.415,-92.260,868

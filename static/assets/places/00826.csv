@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4211,Blackwater,AZ,,city-us,1920,33.031,-111.583,3045
-4207,Blackwater,MO,,city-us,175,38.980,-92.991,3785
-4210,Blackwater,ND,,city-us,36,47.629,-101.751,0
-4208,Blackwater,VA,,city-us,0,36.627,-83.051,270
-4209,Blackwater,VA,,city-us,0,37.427,-76.400,94
-4212,Blackwater,NC,,city-us,0,36.397,-80.624,376
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4211,Blackwater,AZ,Pinal County,,city-us,1920,33.031,-111.583,3045
+4207,Blackwater,MO,Cooper County,,city-us,175,38.980,-92.991,3785
+4210,Blackwater,ND,McLean County,,city-us,36,47.629,-101.751,0
+4208,Blackwater,VA,Lee County,,city-us,0,36.627,-83.051,270
+4209,Blackwater,VA,Mathews County,,city-us,0,37.427,-76.400,94
+4212,Blackwater,NC,Surry County,,city-us,0,36.397,-80.624,376

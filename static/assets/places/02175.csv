@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10909,Dalton,GA,,city-us,34285,34.770,-84.970,16716
-10903,Dalton,MI,,city-us,9568,43.346,-86.227,2423
-10896,Dalton,MA,,city-us,6290,42.480,-73.154,8483
-10908,Dalton,OH,,city-us,1911,40.799,-81.695,3574
-10901,Dalton,PA,,city-us,1279,41.534,-75.736,2400
-10899,Dalton,NH,,city-us,905,44.395,-71.689,3143
-10902,Dalton,NY,,city-us,406,42.541,-77.953,811
-10898,Dalton,NE,,city-us,289,41.407,-102.974,4594
-10900,Dalton,WI,,city-us,229,43.657,-89.207,895
-10904,Dalton,MN,,city-us,215,46.174,-95.916,3819
-10897,Dalton,MO,,city-us,9,39.398,-92.990,5907
-10905,Dalton,NC,,city-us,0,36.309,-80.401,86
-10906,Dalton,KS,,city-us,0,37.269,-97.272,595
-10907,Dalton,IN,,city-us,0,39.983,-85.182,346
-11066,Daulton,CA,,city-us,0,37.119,-119.982,382
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10909,Dalton,GA,Whitfield County,,city-us,34285,34.770,-84.970,16716
+10903,Dalton,MI,Muskegon County,,city-us,9568,43.346,-86.227,2423
+10896,Dalton,MA,Berkshire County,,city-us,6290,42.480,-73.154,8483
+10908,Dalton,OH,Wayne County,,city-us,1911,40.799,-81.695,3574
+10901,Dalton,PA,Lackawanna County,,city-us,1279,41.534,-75.736,2400
+10899,Dalton,NH,Coos County,,city-us,905,44.395,-71.689,3143
+10902,Dalton,NY,Livingston County,,city-us,406,42.541,-77.953,811
+10898,Dalton,NE,Cheyenne County,,city-us,289,41.407,-102.974,4594
+10900,Dalton,WI,Green Lake County,,city-us,229,43.657,-89.207,895
+10904,Dalton,MN,Otter Tail County,,city-us,215,46.174,-95.916,3819
+10897,Dalton,MO,Chariton County,,city-us,9,39.398,-92.990,5907
+10905,Dalton,NC,Stokes County,,city-us,0,36.309,-80.401,86
+10906,Dalton,KS,Sumner County,,city-us,0,37.269,-97.272,595
+10907,Dalton,IN,Wayne County,,city-us,0,39.983,-85.182,346
+11066,Daulton,CA,Madera County,,city-us,0,37.119,-119.982,382

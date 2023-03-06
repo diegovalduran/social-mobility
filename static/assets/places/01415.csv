@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7137,Carver,MA,,city-us,11668,41.875,-70.747,9147
-7134,Carver,MN,,city-us,6401,44.764,-93.626,10144
-7135,Carver,OR,,city-us,0,45.392,-122.498,2065
-7136,Carver,WV,,city-us,0,38.076,-81.084,74
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7137,Carver,MA,Plymouth County,,city-us,11668,41.875,-70.747,9147
+7134,Carver,MN,Carver County,,city-us,6401,44.764,-93.626,10144
+7135,Carver,OR,Clackamas County,,city-us,0,45.392,-122.498,2065
+7136,Carver,WV,Fayette County,,city-us,0,38.076,-81.084,74

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25690,Loomis,CA,,city-us,6868,38.821,-121.193,8031
-25689,Loomis,NE,,city-us,391,40.478,-99.507,3131
-25686,Loomis,MI,,city-us,194,43.793,-84.667,757
-25688,Loomis,WA,,city-us,35,48.821,-119.633,3001
-25685,Loomis,SD,,city-us,0,43.794,-98.105,1738
-25687,Loomis,WI,,city-us,0,45.193,-87.899,946
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25690,Loomis,CA,Placer County,,city-us,6868,38.821,-121.193,8031
+25689,Loomis,NE,Phelps County,,city-us,391,40.478,-99.507,3131
+25686,Loomis,MI,Isabella County,,city-us,194,43.793,-84.667,757
+25688,Loomis,WA,Okanogan County,,city-us,35,48.821,-119.633,3001
+25685,Loomis,SD,Davison County,,city-us,0,43.794,-98.105,1738
+25687,Loomis,WI,Marinette County,,city-us,0,45.193,-87.899,946

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37871,Rudyard,MI,,city-us,1370,46.215,-84.636,5490
-37873,Rudyard,MT,,city-us,333,48.560,-110.554,2496
-37872,Rudyard,MS,,city-us,0,34.335,-90.537,461
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37871,Rudyard,MI,Chippewa County,,city-us,1370,46.215,-84.636,5490
+37873,Rudyard,MT,Hill County,,city-us,333,48.560,-110.554,2496
+37872,Rudyard,MS,Coahoma County,,city-us,0,34.335,-90.537,461

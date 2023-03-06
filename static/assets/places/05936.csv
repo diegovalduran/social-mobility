@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30449,Neptune,NJ,,city-us,28267,40.214,-74.054,18436
-30447,Neptune,WV,,city-us,0,39.075,-81.780,89
-30448,Neptune,OH,,city-us,0,40.603,-84.492,293
-30450,Neptune,WI,,city-us,0,43.373,-90.267,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30449,Neptune,NJ,Monmouth County,,city-us,28267,40.214,-74.054,18436
+30447,Neptune,WV,Jackson County,,city-us,0,39.075,-81.780,89
+30448,Neptune,OH,Mercer County,,city-us,0,40.603,-84.492,293
+30450,Neptune,WI,Richland County,,city-us,0,43.373,-90.267,106

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12536,Duxbury,MA,,city-us,16116,42.044,-70.706,18581
-12537,Duxbury,VT,,city-us,1410,44.299,-72.847,2286
-12535,Duxbury,MN,,city-us,0,46.128,-92.509,954
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12536,Duxbury,MA,Plymouth County,,city-us,16116,42.044,-70.706,18581
+12537,Duxbury,VT,Washington County,,city-us,1410,44.299,-72.847,2286
+12535,Duxbury,MN,Pine County,,city-us,0,46.128,-92.509,954

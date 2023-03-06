@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13174,Elbow Lake,MI,,city-us,4291,44.206,-84.063,2256
-13173,Elbow Lake,MN,,city-us,1290,45.994,-95.977,4511
-13172,Elbow Lake,MN,,city-us,96,47.147,-95.544,148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13174,Elbow Lake,MI,Ogemaw County,,city-us,4291,44.206,-84.063,2256
+13173,Elbow Lake,MN,Grant County,,city-us,1290,45.994,-95.977,4511
+13172,Elbow Lake,MN,Becker County / Clearwater County,,city-us,96,47.147,-95.544,148

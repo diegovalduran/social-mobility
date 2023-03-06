@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11450,Delight,NE,,city-us,702,41.253,-99.968,297
-11451,Delight,AR,,city-us,284,34.031,-93.503,8313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11450,Delight,NE,Custer County,,city-us,702,41.253,-99.968,297
+11451,Delight,AR,Pike County,,city-us,284,34.031,-93.503,8313

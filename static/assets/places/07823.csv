@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39688,Shippensburg,PA,,city-us,5498,40.049,-77.523,7972
-39687,Shippensburg,PA,,city-us,4212,40.065,-77.507,2862
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39688,Shippensburg,PA,Cumberland County / Franklin County,,city-us,5498,40.049,-77.523,7972
+39687,Shippensburg,PA,Cumberland County,,city-us,4212,40.065,-77.507,2862

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43860,Union Cross,NC,,city-us,0,36.048,-80.119,596
-43861,Union Cross,NC,,city-us,0,36.346,-80.758,717
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43860,Union Cross,NC,Forsyth County,,city-us,0,36.048,-80.119,596
+43861,Union Cross,NC,Surry County,,city-us,0,36.346,-80.758,717

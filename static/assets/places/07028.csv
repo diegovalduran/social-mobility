@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35716,Raceland,LA,,city-us,11002,29.727,-90.599,2876
-35715,Raceland,KY,,city-us,2332,38.540,-82.728,3982
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35716,Raceland,LA,Lafourche Parish,,city-us,11002,29.727,-90.599,2876
+35715,Raceland,KY,Greenup County,,city-us,2332,38.540,-82.728,3982

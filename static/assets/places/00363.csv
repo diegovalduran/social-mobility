@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1929,Audubon,PA,,city-us,8883,40.128,-75.432,9984
-1925,Audubon,NJ,,city-us,8674,39.891,-75.073,12167
-1923,Audubon,IA,,city-us,2035,41.718,-94.932,390
-1924,Audubon,MN,,city-us,648,46.846,-95.983,2863
-1928,Audubon,IL,,city-us,504,39.278,-89.199,767
-1926,Audubon,GA,,city-us,0,34.566,-84.819,337
-1927,Audubon,KY,,city-us,0,37.828,-87.584,6389
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1929,Audubon,PA,Montgomery County,,city-us,8883,40.128,-75.432,9984
+1925,Audubon,NJ,Camden County,,city-us,8674,39.891,-75.073,12167
+1923,Audubon,IA,Audubon County,,city-us,2035,41.718,-94.932,390
+1924,Audubon,MN,Becker County,,city-us,648,46.846,-95.983,2863
+1928,Audubon,IL,Montgomery County,,city-us,504,39.278,-89.199,767
+1926,Audubon,GA,Gordon County,,city-us,0,34.566,-84.819,337
+1927,Audubon,KY,Henderson County,,city-us,0,37.828,-87.584,6389

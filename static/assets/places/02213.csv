@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11081,David,,Panama,city-international,144858,8.433,-82.433,8825
-11079,David,KY,,city-us,435,37.599,-82.891,1464
-11080,David,IA,,city-us,0,43.406,-92.664,1445
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11081,David,,,Panama,city-international,144858,8.433,-82.433,8825
+11079,David,KY,Floyd County,,city-us,435,37.599,-82.891,1464
+11080,David,IA,Mitchell County,,city-us,0,43.406,-92.664,1445

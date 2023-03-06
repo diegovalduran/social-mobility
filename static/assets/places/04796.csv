@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24485,Leona,TX,,city-us,157,31.155,-95.969,2127
-24483,Leona,KS,,city-us,40,39.787,-95.322,3281
-24484,Leona,OR,,city-us,0,43.695,-123.289,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24485,Leona,TX,Leon County,,city-us,157,31.155,-95.969,2127
+24483,Leona,KS,Doniphan County,,city-us,40,39.787,-95.322,3281
+24484,Leona,OR,Douglas County,,city-us,0,43.695,-123.289,240

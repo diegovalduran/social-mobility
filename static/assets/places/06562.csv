@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33404,Peaceful Valley,WA,,city-us,3234,48.938,-122.147,2407
-33403,Peaceful Valley,ND,,city-us,21,46.588,-103.235,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33404,Peaceful Valley,WA,Whatcom County,,city-us,3234,48.938,-122.147,2407
+33403,Peaceful Valley,ND,Slope County,,city-us,21,46.588,-103.235,0

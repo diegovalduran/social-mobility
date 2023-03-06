@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21371,Indianola,IA,,city-us,15747,41.358,-93.557,7487
-21369,Indianola,MS,,city-us,9342,33.451,-90.655,8395
-21364,Indianola,WA,,city-us,3538,47.747,-122.526,6499
-21363,Indianola,CA,,city-us,720,40.810,-124.078,2567
-21367,Indianola,NE,,city-us,518,40.234,-100.417,3881
-21370,Indianola,IL,,city-us,225,39.927,-87.740,2163
-21366,Indianola,OK,,city-us,147,35.163,-95.775,3664
-21362,Indianola,OK,,city-us,25,36.444,-94.675,392
-21361,Indianola,FL,,city-us,0,28.396,-80.714,2098
-21365,Indianola,GA,,city-us,0,30.864,-83.189,269
-21368,Indianola,UT,,city-us,0,39.803,-111.489,620
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21371,Indianola,IA,Warren County,,city-us,15747,41.358,-93.557,7487
+21369,Indianola,MS,Sunflower County,,city-us,9342,33.451,-90.655,8395
+21364,Indianola,WA,Kitsap County,,city-us,3538,47.747,-122.526,6499
+21363,Indianola,CA,Humboldt County,,city-us,720,40.810,-124.078,2567
+21367,Indianola,NE,Red Willow County,,city-us,518,40.234,-100.417,3881
+21370,Indianola,IL,Vermilion County,,city-us,225,39.927,-87.740,2163
+21366,Indianola,OK,Pittsburg County,,city-us,147,35.163,-95.775,3664
+21362,Indianola,OK,Delaware County,,city-us,25,36.444,-94.675,392
+21361,Indianola,FL,Brevard County,,city-us,0,28.396,-80.714,2098
+21365,Indianola,GA,Lowndes County,,city-us,0,30.864,-83.189,269
+21368,Indianola,UT,Sanpete County,,city-us,0,39.803,-111.489,620

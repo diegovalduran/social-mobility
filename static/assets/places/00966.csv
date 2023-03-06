@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4841,Bowerstown,IN,,city-us,0,40.889,-85.442,168
-4842,Bowerstown,NJ,,city-us,0,40.771,-74.997,2877
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4841,Bowerstown,IN,Huntington County,,city-us,0,40.889,-85.442,168
+4842,Bowerstown,NJ,Warren County,,city-us,0,40.771,-74.997,2877

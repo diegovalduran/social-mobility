@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19242,Hasty,CO,,city-us,116,38.113,-102.957,1179
-19243,Hasty,AR,,city-us,0,36.015,-93.048,227
-19244,Hasty,MN,,city-us,0,45.371,-93.973,586
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19242,Hasty,CO,Bent County,,city-us,116,38.113,-102.957,1179
+19243,Hasty,AR,Newton County,,city-us,0,36.015,-93.048,227
+19244,Hasty,MN,Wright County,,city-us,0,45.371,-93.973,586

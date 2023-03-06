@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6379,Byrd,OH,,city-us,744,38.807,-83.730,1321
-4043,Bird,IL,,city-us,289,39.300,-89.994,626
-6380,Byrd,AL,,city-us,0,34.080,-88.132,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6379,Byrd,OH,Brown County,,city-us,744,38.807,-83.730,1321
+4043,Bird,IL,Macoupin County,,city-us,289,39.300,-89.994,626
+6380,Byrd,AL,Marion County,,city-us,0,34.080,-88.132,273

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36893,Rivergrove,OR,,city-us,540,45.385,-122.734,3610
-36894,Rivergrove,CA,,city-us,39,35.438,-118.941,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36893,Rivergrove,OR,Clackamas County / Washington County,,city-us,540,45.385,-122.734,3610
+36894,Rivergrove,CA,Kern County,,city-us,39,35.438,-118.941,0

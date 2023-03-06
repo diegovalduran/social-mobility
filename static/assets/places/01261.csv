@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6362,Bybee,TN,,city-us,0,36.048,-83.179,104
-6363,Bybee,VA,,city-us,0,37.926,-78.206,89
-6364,Bybee,KY,,city-us,0,37.733,-84.125,268
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6362,Bybee,TN,Cocke County,,city-us,0,36.048,-83.179,104
+6363,Bybee,VA,Fluvanna County,,city-us,0,37.926,-78.206,89
+6364,Bybee,KY,Madison County,,city-us,0,37.733,-84.125,268

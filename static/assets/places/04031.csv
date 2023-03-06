@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20726,Horatio,AR,,city-us,916,33.938,-94.357,2482
-20723,Horatio,OH,,city-us,0,40.149,-84.525,244
-20724,Horatio,PA,,city-us,0,40.929,-79.016,302
-20725,Horatio,MS,,city-us,0,34.438,-90.056,86
-20727,Horatio,SC,,city-us,0,34.021,-80.566,700
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20726,Horatio,AR,Sevier County,,city-us,916,33.938,-94.357,2482
+20723,Horatio,OH,Darke County,,city-us,0,40.149,-84.525,244
+20724,Horatio,PA,Jefferson County,,city-us,0,40.929,-79.016,302
+20725,Horatio,MS,Panola County,,city-us,0,34.438,-90.056,86
+20727,Horatio,SC,Sumter County,,city-us,0,34.021,-80.566,700

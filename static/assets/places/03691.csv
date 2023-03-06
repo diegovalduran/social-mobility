@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18814,Hardin,MT,,city-us,3685,45.732,-107.612,5652
-18818,Hardin,TX,,city-us,811,30.152,-94.739,1962
-18815,Hardin,IL,,city-us,763,39.157,-90.618,3226
-18819,Hardin,KY,,city-us,583,36.765,-88.295,2160
-18821,Hardin,MO,,city-us,559,39.271,-93.834,5476
-18820,Hardin,IL,,city-us,194,39.528,-90.747,336
-18816,Hardin,IA,,city-us,0,43.080,-91.484,109
-18817,Hardin,AR,,city-us,0,34.281,-92.150,4527
-18822,Hardin,OH,,city-us,0,40.286,-84.242,356
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18814,Hardin,MT,Big Horn County,,city-us,3685,45.732,-107.612,5652
+18818,Hardin,TX,Liberty County,,city-us,811,30.152,-94.739,1962
+18815,Hardin,IL,Calhoun County,,city-us,763,39.157,-90.618,3226
+18819,Hardin,KY,Marshall County,,city-us,583,36.765,-88.295,2160
+18821,Hardin,MO,Ray County,,city-us,559,39.271,-93.834,5476
+18820,Hardin,IL,Pike County,,city-us,194,39.528,-90.747,336
+18816,Hardin,IA,Clayton County,,city-us,0,43.080,-91.484,109
+18817,Hardin,AR,Jefferson County,,city-us,0,34.281,-92.150,4527
+18822,Hardin,OH,Shelby County,,city-us,0,40.286,-84.242,356

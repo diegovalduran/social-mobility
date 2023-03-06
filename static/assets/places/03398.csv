@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17199,Goodhope,MO,,city-us,0,36.909,-92.808,307
-17200,Goodhope,WV,,city-us,0,39.181,-80.439,190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17199,Goodhope,MO,Douglas County,,city-us,0,36.909,-92.808,307
+17200,Goodhope,WV,Harrison County,,city-us,0,39.181,-80.439,190

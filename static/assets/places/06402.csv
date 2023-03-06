@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32658,Otisco,NY,,city-us,2379,42.862,-76.228,3986
-32657,Otisco,MI,,city-us,2364,43.075,-85.258,5084
-32656,Otisco,IN,,city-us,0,38.542,-85.667,487
-32659,Otisco,MN,,city-us,0,43.979,-93.502,327
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32658,Otisco,NY,Onondaga County,,city-us,2379,42.862,-76.228,3986
+32657,Otisco,MI,Ionia County,,city-us,2364,43.075,-85.258,5084
+32656,Otisco,IN,Clark County,,city-us,0,38.542,-85.667,487
+32659,Otisco,MN,Waseca County,,city-us,0,43.979,-93.502,327

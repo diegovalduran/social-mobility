@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8358,Christopher,IL,,city-us,2657,37.973,-89.053,4214
-8359,Christopher,MO,,city-us,0,36.799,-94.290,348
-8360,Christopher,KY,,city-us,0,37.234,-83.171,353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8358,Christopher,IL,Franklin County,,city-us,2657,37.973,-89.053,4214
+8359,Christopher,MO,Newton County,,city-us,0,36.799,-94.290,348
+8360,Christopher,KY,Perry County,,city-us,0,37.234,-83.171,353

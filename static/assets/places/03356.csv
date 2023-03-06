@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16993,Glendora,CA,,city-us,51569,34.136,-117.865,20045
-16992,Glendora,NJ,,city-us,5511,39.840,-75.074,2432
-16991,Glendora,MI,,city-us,1936,41.860,-86.523,2691
-16995,Glendora,MS,,city-us,137,33.829,-90.293,3520
-16994,Glendora,IN,,city-us,0,39.128,-87.363,303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16993,Glendora,CA,Los Angeles County,,city-us,51569,34.136,-117.865,20045
+16992,Glendora,NJ,Camden County,,city-us,5511,39.840,-75.074,2432
+16991,Glendora,MI,Berrien County,,city-us,1936,41.860,-86.523,2691
+16995,Glendora,MS,Tallahatchie County,,city-us,137,33.829,-90.293,3520
+16994,Glendora,IN,Sullivan County,,city-us,0,39.128,-87.363,303

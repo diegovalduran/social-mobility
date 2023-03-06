@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16620,Georgeville,LA,,city-us,0,30.650,-90.622,254
-16621,Georgeville,MO,,city-us,0,39.496,-93.908,440
-16622,Georgeville,MN,,city-us,0,45.429,-94.927,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16620,Georgeville,LA,Livingston Parish,,city-us,0,30.650,-90.622,254
+16621,Georgeville,MO,Ray County,,city-us,0,39.496,-93.908,440
+16622,Georgeville,MN,Stearns County,,city-us,0,45.429,-94.927,203

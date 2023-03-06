@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7266,Castor,MO,,city-us,4675,36.885,-89.940,159
-7264,Castor,LA,,city-us,229,32.253,-93.166,10115
-7265,Castor,MO,,city-us,0,37.068,-89.979,615
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7266,Castor,MO,Stoddard County,,city-us,4675,36.885,-89.940,159
+7264,Castor,LA,Bienville Parish,,city-us,229,32.253,-93.166,10115
+7265,Castor,MO,Bollinger County,,city-us,0,37.068,-89.979,615

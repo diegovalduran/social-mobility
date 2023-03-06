@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40481,Southwest,PA,,city-us,422,41.665,-79.554,2603
-40478,Southwest,IL,,city-us,78,38.865,-87.871,686
-40480,Southwest,ND,,city-us,13,45.963,-97.968,0
-40479,Southwest,IN,,city-us,0,41.537,-85.944,411
-40482,Southwest,PA,,city-us,0,40.199,-79.521,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40481,Southwest,PA,Warren County,,city-us,422,41.665,-79.554,2603
+40478,Southwest,IL,Crawford County,,city-us,78,38.865,-87.871,686
+40480,Southwest,ND,Sargent County,,city-us,13,45.963,-97.968,0
+40479,Southwest,IN,Elkhart County,,city-us,0,41.537,-85.944,411
+40482,Southwest,PA,Westmoreland County,,city-us,0,40.199,-79.521,208

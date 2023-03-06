@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9915,Cork,,Ireland,city-international,208669,51.900,-8.473,1402
-9913,Cork,GA,,city-us,0,33.217,-83.863,214
-9914,Cork,KY,,city-us,0,37.038,-85.583,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9915,Cork,,,Ireland,city-international,208669,51.900,-8.473,1402
+9913,Cork,GA,Butts County,,city-us,0,33.217,-83.863,214
+9914,Cork,KY,Metcalfe County,,city-us,0,37.038,-85.583,90

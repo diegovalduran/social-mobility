@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18801,Harbin,,China,city-international,4583000,45.750,126.633,62799
-18802,Harbine,NE,,city-us,53,40.192,-96.973,3006
-18800,Harbin,TX,,city-us,0,32.117,-98.273,883
-18803,Harbine,KS,,city-us,0,39.999,-97.768,818
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18801,Harbin,,,China,city-international,4583000,45.750,126.633,62799
+18802,Harbine,NE,Jefferson County,,city-us,53,40.192,-96.973,3006
+18800,Harbin,TX,Erath County,,city-us,0,32.117,-98.273,883
+18803,Harbine,KS,Republic County,,city-us,0,39.999,-97.768,818

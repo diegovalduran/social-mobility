@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33014,Palouse,WA,,city-us,1025,46.910,-117.076,3553
-32907,Palace,MO,,city-us,0,37.620,-92.140,529
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33014,Palouse,WA,Whitman County,,city-us,1025,46.910,-117.076,3553
+32907,Palace,MO,Pulaski County,,city-us,0,37.620,-92.140,529

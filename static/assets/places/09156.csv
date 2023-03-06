@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46130,West Union,OH,,city-us,3010,38.795,-83.545,3940
-46134,West Union,IA,,city-us,2442,42.963,-91.808,5099
-46133,West Union,WV,,city-us,661,39.296,-80.777,7466
-46135,West Union,SC,,city-us,377,34.760,-83.043,2308
-46138,West Union,NY,,city-us,345,42.044,-77.688,3072
-46131,West Union,IL,,city-us,187,39.216,-87.666,1955
-46139,West Union,MN,,city-us,89,45.801,-95.083,2789
-46132,West Union,NE,,city-us,72,41.690,-99.500,269
-46136,West Union,IN,,city-us,0,39.844,-87.337,363
-46137,West Union,WV,,city-us,0,38.269,-80.140,138
-46140,West Union,OR,,city-us,0,45.566,-122.894,2746
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46130,West Union,OH,Adams County,,city-us,3010,38.795,-83.545,3940
+46134,West Union,IA,Fayette County,,city-us,2442,42.963,-91.808,5099
+46133,West Union,WV,Doddridge County,,city-us,661,39.296,-80.777,7466
+46135,West Union,SC,Oconee County,,city-us,377,34.760,-83.043,2308
+46138,West Union,NY,Steuben County,,city-us,345,42.044,-77.688,3072
+46131,West Union,IL,Clark County,,city-us,187,39.216,-87.666,1955
+46139,West Union,MN,Todd County,,city-us,89,45.801,-95.083,2789
+46132,West Union,NE,Custer County,,city-us,72,41.690,-99.500,269
+46136,West Union,IN,Parke County,,city-us,0,39.844,-87.337,363
+46137,West Union,WV,Pocahontas County,,city-us,0,38.269,-80.140,138
+46140,West Union,OR,Washington County,,city-us,0,45.566,-122.894,2746

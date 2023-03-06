@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33511,Pembina,MN,,city-us,661,47.268,-96.008,2016
-33512,Pembina,ND,,city-us,62,48.944,-97.308,12570
-33510,Pembina,MO,,city-us,0,37.067,-93.122,521
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33511,Pembina,MN,Mahnomen County,,city-us,661,47.268,-96.008,2016
+33512,Pembina,ND,Pembina County,,city-us,62,48.944,-97.308,12570
+33510,Pembina,MO,Christian County,,city-us,0,37.067,-93.122,521

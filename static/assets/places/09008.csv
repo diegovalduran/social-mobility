@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45212,Warrington,,United Kingdom,city-international,165456,53.392,-2.597,49036
-45207,Warrington,PA,,city-us,25780,40.249,-75.159,7403
-45208,Warrington,FL,,city-us,16140,30.384,-87.275,3344
-45211,Warrington,PA,,city-us,4561,40.069,-76.924,182
-45209,Warrington,IN,,city-us,0,39.907,-85.634,308
-45210,Warrington,NJ,,city-us,0,40.931,-75.084,914
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45212,Warrington,,,United Kingdom,city-international,165456,53.392,-2.597,49036
+45207,Warrington,PA,Bucks County,,city-us,25780,40.249,-75.159,7403
+45208,Warrington,FL,Escambia County,,city-us,16140,30.384,-87.275,3344
+45211,Warrington,PA,York County,,city-us,4561,40.069,-76.924,182
+45209,Warrington,IN,Hancock County,,city-us,0,39.907,-85.634,308
+45210,Warrington,NJ,Warren County,,city-us,0,40.931,-75.084,914

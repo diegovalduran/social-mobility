@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36751,Riley,MI,,city-us,3196,42.948,-82.807,221
-36746,Riley,IL,,city-us,3001,42.196,-88.652,339
-36747,Riley,OH,,city-us,2210,40.959,-83.934,116
-36741,Riley,MI,,city-us,2007,42.893,-84.655,221
-36750,Riley,OH,,city-us,1115,41.395,-83.002,116
-36749,Riley,KS,,city-us,977,39.299,-96.831,3774
-36267,Reilly,PA,,city-us,641,40.647,-76.330,1692
-36752,Riley,IN,,city-us,234,39.390,-87.300,3834
-36266,Reilly,KS,,city-us,93,39.606,-95.948,0
-36742,Riley,WI,,city-us,0,43.023,-89.623,287
-36743,Riley,NC,,city-us,0,35.932,-78.353,351
-36744,Riley,IN,,city-us,0,39.787,-85.731,129
-36745,Riley,OR,,city-us,0,43.542,-119.504,1912
-36748,Riley,WV,,city-us,0,37.815,-81.161,122
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36751,Riley,MI,St. Clair County,,city-us,3196,42.948,-82.807,221
+36746,Riley,IL,McHenry County,,city-us,3001,42.196,-88.652,339
+36747,Riley,OH,Putnam County,,city-us,2210,40.959,-83.934,116
+36741,Riley,MI,Clinton County,,city-us,2007,42.893,-84.655,221
+36750,Riley,OH,Sandusky County,,city-us,1115,41.395,-83.002,116
+36749,Riley,KS,Riley County,,city-us,977,39.299,-96.831,3774
+36267,Reilly,PA,Schuylkill County,,city-us,641,40.647,-76.330,1692
+36752,Riley,IN,Vigo County,,city-us,234,39.390,-87.300,3834
+36266,Reilly,KS,Nemaha County,,city-us,93,39.606,-95.948,0
+36742,Riley,WI,Dane County,,city-us,0,43.023,-89.623,287
+36743,Riley,NC,Franklin County,,city-us,0,35.932,-78.353,351
+36744,Riley,IN,Hancock County,,city-us,0,39.787,-85.731,129
+36745,Riley,OR,Harney County,,city-us,0,43.542,-119.504,1912
+36748,Riley,WV,Raleigh County,,city-us,0,37.815,-81.161,122

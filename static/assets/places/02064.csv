@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10391,Crocker,WA,,city-us,1230,47.091,-122.127,217
-10394,Crocker,MO,,city-us,923,37.949,-92.264,5175
-10390,Crocker,SD,,city-us,26,45.105,-97.785,499
-10392,Crocker,IA,,city-us,0,41.775,-93.670,335
-10393,Crocker,IN,,city-us,0,41.588,-87.122,450
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10391,Crocker,WA,Pierce County,,city-us,1230,47.091,-122.127,217
+10394,Crocker,MO,Pulaski County,,city-us,923,37.949,-92.264,5175
+10390,Crocker,SD,Clark County,,city-us,26,45.105,-97.785,499
+10392,Crocker,IA,Polk County,,city-us,0,41.775,-93.670,335
+10393,Crocker,IN,Porter County,,city-us,0,41.588,-87.122,450

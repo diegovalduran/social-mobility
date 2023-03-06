@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29006,Moltke,MI,,city-us,290,45.407,-83.947,1792
-29007,Moltke,MN,,city-us,269,44.586,-94.563,1948
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29006,Moltke,MI,Presque Isle County,,city-us,290,45.407,-83.947,1792
+29007,Moltke,MN,Sibley County,,city-us,269,44.586,-94.563,1948

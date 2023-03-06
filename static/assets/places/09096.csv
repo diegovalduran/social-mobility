@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45913,Wendelin,IL,,city-us,0,38.833,-88.273,189
-45914,Wendelin,OH,,city-us,0,40.399,-84.690,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45913,Wendelin,IL,Clay County,,city-us,0,38.833,-88.273,189
+45914,Wendelin,OH,Mercer County,,city-us,0,40.399,-84.690,239

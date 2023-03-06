@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23428,LaCrosse,WA,,city-us,294,46.814,-117.882,4381
-23427,LaCrosse,AR,,city-us,0,36.091,-91.842,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23428,LaCrosse,WA,Whitman County,,city-us,294,46.814,-117.882,4381
+23427,LaCrosse,AR,Izard County,,city-us,0,36.091,-91.842,175

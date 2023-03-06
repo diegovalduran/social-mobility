@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10331,Cresco,IA,,city-us,3911,43.381,-92.114,6807
-10332,Cresco,PA,,city-us,0,41.154,-75.281,3029
-10333,Cresco,IN,,city-us,0,41.236,-85.492,350
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10331,Cresco,IA,Howard County,,city-us,3911,43.381,-92.114,6807
+10332,Cresco,PA,Monroe County,,city-us,0,41.154,-75.281,3029
+10333,Cresco,IN,Whitley County,,city-us,0,41.236,-85.492,350

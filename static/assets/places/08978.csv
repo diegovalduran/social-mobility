@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45051,Walpole,MA,,city-us,6188,42.142,-71.249,18390
-45050,Walpole,NH,,city-us,537,43.080,-72.426,6428
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45051,Walpole,MA,Norfolk County,,city-us,6188,42.142,-71.249,18390
+45050,Walpole,NH,Cheshire County,,city-us,537,43.080,-72.426,6428

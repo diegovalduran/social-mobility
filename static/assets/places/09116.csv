@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45985,West Charleston,OH,,city-us,0,39.923,-84.134,894
-45986,West Charleston,VT,,city-us,0,44.899,-72.059,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45985,West Charleston,OH,Miami County,,city-us,0,39.923,-84.134,894
+45986,West Charleston,VT,Orleans County,,city-us,0,44.899,-72.059,272

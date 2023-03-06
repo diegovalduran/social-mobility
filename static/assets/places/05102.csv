@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26201,Lyra,MN,,city-us,294,43.958,-94.065,2588
-26202,Lyra,OH,,city-us,0,38.738,-82.738,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26201,Lyra,MN,Blue Earth County,,city-us,294,43.958,-94.065,2588
+26202,Lyra,OH,Scioto County,,city-us,0,38.738,-82.738,192

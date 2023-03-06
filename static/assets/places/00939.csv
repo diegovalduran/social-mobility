@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4720,Bonus,IL,,city-us,4356,42.295,-88.755,2652
-4721,Bonus,PA,,city-us,0,41.117,-79.717,204
-4722,Bonus,TX,,city-us,0,29.452,-96.281,2345
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4720,Bonus,IL,Boone County,,city-us,4356,42.295,-88.755,2652
+4721,Bonus,PA,Butler County,,city-us,0,41.117,-79.717,204
+4722,Bonus,TX,Wharton County,,city-us,0,29.452,-96.281,2345

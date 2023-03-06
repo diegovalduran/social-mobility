@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8120,Cherry Valley,IL,,city-us,19167,42.198,-88.993,408
-8118,Cherry Valley,CA,,city-us,7749,33.973,-116.977,7133
-8112,Cherry Valley,IL,,city-us,2897,42.235,-88.975,6560
-8111,Cherry Valley,OH,,city-us,928,41.608,-80.668,1522
-8115,Cherry Valley,AR,,city-us,565,35.402,-90.753,2628
-8117,Cherry Valley,NY,,city-us,484,42.796,-74.753,4731
-8116,Cherry Valley,MI,,city-us,473,43.945,-85.742,1837
-8113,Cherry Valley,PA,,city-us,58,41.157,-79.799,1858
-8114,Cherry Valley,MO,,city-us,0,37.955,-91.267,530
-8119,Cherry Valley,TN,,city-us,0,36.098,-86.164,238
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8120,Cherry Valley,IL,Winnebago County,,city-us,19167,42.198,-88.993,408
+8118,Cherry Valley,CA,Riverside County,,city-us,7749,33.973,-116.977,7133
+8112,Cherry Valley,IL,Boone County / Winnebago County,,city-us,2897,42.235,-88.975,6560
+8111,Cherry Valley,OH,Ashtabula County,,city-us,928,41.608,-80.668,1522
+8115,Cherry Valley,AR,Cross County,,city-us,565,35.402,-90.753,2628
+8117,Cherry Valley,NY,Otsego County,,city-us,484,42.796,-74.753,4731
+8116,Cherry Valley,MI,Lake County,,city-us,473,43.945,-85.742,1837
+8113,Cherry Valley,PA,Butler County,,city-us,58,41.157,-79.799,1858
+8114,Cherry Valley,MO,Crawford County,,city-us,0,37.955,-91.267,530
+8119,Cherry Valley,TN,Wilson County,,city-us,0,36.098,-86.164,238

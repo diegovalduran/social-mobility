@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27210,Massie,OH,,city-us,1198,39.490,-84.021,1981
-27205,Massey,IA,,city-us,0,42.430,-90.585,79
-27206,Massey,MD,,city-us,0,39.310,-75.825,611
-27207,Massey,AL,,city-us,0,34.370,-87.022,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27210,Massie,OH,Warren County,,city-us,1198,39.490,-84.021,1981
+27205,Massey,IA,Dubuque County,,city-us,0,42.430,-90.585,79
+27206,Massey,MD,Kent County,,city-us,0,39.310,-75.825,611
+27207,Massey,AL,Morgan County,,city-us,0,34.370,-87.022,118

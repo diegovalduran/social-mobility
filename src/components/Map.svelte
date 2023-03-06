@@ -75,12 +75,15 @@
 	export let valueProp = "share";
 
 	function getLabel(d) {
-		const post =
-			d.level === "city-us"
-				? `, ${d.state}`
-				: d.level === "city-international"
-				? ` (${d.country})`
-				: ` (${d.level})`;
+		const isCity = d.level === "city-us";
+		const county =
+			isCity && stateLookup[`${d.name}${d.state}`] > 1 ? ` (${d.county})` : "";
+		const post = isCity
+			? `, ${d.state}${county}`
+			: d.level === "city-international"
+			? ` (${d.country})`
+			: ` (${d.level})`;
+
 		return `${d.name}${post}`;
 	}
 
@@ -89,6 +92,19 @@
 		const i = placeData[0].name.length % MAX_COLORS;
 		colors = COLORS_RAW.slice(i).concat(COLORS_RAW.slice(0, i));
 	}
+
+	$: stateTally = groups(
+		placeData.filter((d) => d.level === "city-us"),
+		(d) => `${d.name}${d.state}`
+	).map(([key, values]) => ({
+		key,
+		count: values.length
+	}));
+
+	$: stateLookup = stateTally.reduce((prev, d) => {
+		prev[d.key] = d.count;
+		return prev;
+	}, {});
 
 	$: places = placeData.map((d, i) => ({
 		...d,
@@ -172,29 +188,6 @@
 		scaleWiki
 	});
 
-	$: rows = countiesWithData.features.map((d) => {
-		const a = d.properties.data[0];
-		const b = d.properties.data[1];
-
-		return {
-			name: d.properties.name,
-			state: d.properties.state,
-			labelA: a.label,
-			valueA: format(".0f")((a[valueProp] / maxValue) * 100),
-			labelB: b.label,
-			valueB: format(".0f")((b[valueProp] / maxValue) * 100)
-		};
-	});
-
-	$: columns = [
-		{ key: "name", title: "county" },
-		{ key: "state", title: "state" },
-		{ key: "labelA", title: "1st name" },
-		{ key: "valueA", title: "1st score" },
-		{ key: "labelB", title: "2nd name" },
-		{ key: "valueB", title: "2nd score" }
-	];
-
 	$: countyFeatures = countiesWithData.features.map((d) => ({
 		...d,
 		properties: {
@@ -247,7 +240,7 @@
 		placeFeaturesWithOrder = [...placeFeaturesWithOrder];
 	}
 
-	$: colorMap = placeFeaturesWithOrder.reduce((prev, d, i) => {
+	$: colorLookup = placeFeaturesWithOrder.reduce((prev, d, i) => {
 		prev[d.properties.label] = i < MAX_COLORS ? colors[i] : COLOR_OTHER;
 		return prev;
 	}, {});
@@ -259,15 +252,15 @@
 			properties: {
 				...d.properties,
 				...match,
-				fills: colorMap[d.properties.label],
-				fill: colorMap[d.properties.label].probably
+				fills: colorLookup[d.properties.label],
+				fill: colorLookup[d.properties.label].probably
 			}
 		};
 	});
 
 	$: countyFeaturesRender = countyFeatures.map((d) => {
 		const fill = d.properties.topTier
-			? colorMap[d.properties.topLabel][
+			? colorLookup[d.properties.topLabel][
 					d.properties.topTier === 2 ? "probably" : "maybe"
 			  ]
 			: COLOR_TOSS.probably;
@@ -300,6 +293,61 @@
 	// 	label,
 	// 	count: values.length
 	// }));
+
+	$: countyRows = countiesWithData.features.map((d) => {
+		const a = d.properties.data[0];
+		const b = d.properties.data[1];
+
+		return {
+			name: d.properties.name,
+			state: d.properties.state,
+			labelA: a.label,
+			valueA: +format(".0f")((a[valueProp] / maxValue) * 100),
+			labelB: b.label,
+			valueB: +format(".0f")((b[valueProp] / maxValue) * 100)
+		};
+	});
+
+	$: countyColumns = [
+		{ prop: "name", label: "county" },
+		{ prop: "state", label: "state" },
+		{ prop: "labelA", label: "1st name" },
+		{ prop: "valueA", label: "1st score", type: "number" },
+		{ prop: "labelB", label: "2nd name" },
+		{ prop: "valueB", label: "2nd score", type: "number" }
+	];
+
+	$: placeRows = placeFeaturesRender.map((d) => ({
+		...d.properties
+	}));
+
+	$: placeColumns = [
+		{ prop: "label", label: "place" },
+		{
+			prop: "countProbably",
+			label: "Counties (probably)",
+			formatFn: format(","),
+			type: "number"
+		},
+		{
+			prop: "countMaybe",
+			label: "Counties (maybe)",
+			formatFn: format(","),
+			type: "number"
+		},
+		{
+			prop: "population",
+			label: "Population",
+			formatFn: format(","),
+			type: "number"
+		},
+		{
+			prop: "wiki",
+			label: "Wikipedia Length",
+			formatFn: format(","),
+			type: "number"
+		}
+	];
 
 	$: keyFeatures = placeFeaturesRender.map((d) => ({
 		...d,
@@ -337,7 +385,7 @@
 	</h2>
 
 	<h2>
-		If someone in the US refers to <strong>{placeName}</strong>, they
+		If someone refers to <strong>{placeName}</strong>, they
 		<mark style="--bg: {topColorProbably}; --fg:{topColorTextProbably};"
 			>probably</mark
 		>
@@ -355,14 +403,10 @@
 </div>
 
 <Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
-	<MapCanvas features={countyFeaturesRender} stroke="rgba(0, 0, 0, 1)" />
+	<MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} />
 	<MapSvg>
 		<!-- <MapPath features={featuresCounties} stroke="rgba(0, 0, 0, 0.25)" /> -->
-		<MapPath
-			features={stateFeatures}
-			stroke="rgba(0, 0, 0, 1)"
-			strokeWidth="1"
-		/>
+		<MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="1" />
 		{#key placeName}
 			<MapPoints
 				features={placeFeaturesRender.filter(
@@ -398,8 +442,8 @@
 	colorToss={COLOR_TOSS.probably}
 	colorTossText={COLOR_TOSS.textProbably}
 />
-<PlaceTable places={placeFeaturesRender} />
-<CountyTable {rows} {columns} />
+<PlaceTable rows={placeRows} columns={placeColumns} />
+<CountyTable rows={countyRows} columns={countyColumns} />
 
 <style>
 	:global(g .other text) {

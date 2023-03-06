@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21966,Jeff,KY,,city-us,293,37.205,-83.136,244
-21965,Jeff,MO,,city-us,0,36.508,-91.388,481
-21967,Jeff,IN,,city-us,0,40.606,-85.353,334
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21966,Jeff,KY,Perry County,,city-us,293,37.205,-83.136,244
+21965,Jeff,MO,Oregon County,,city-us,0,36.508,-91.388,481
+21967,Jeff,IN,Wells County,,city-us,0,40.606,-85.353,334

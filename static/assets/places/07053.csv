@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35793,Ralph,MI,,city-us,63,46.148,-87.725,2672
-35794,Ralph,SD,,city-us,0,45.777,-103.066,262
-35795,Ralph,AL,,city-us,0,33.042,-87.769,769
-35796,Ralph,WV,,city-us,0,38.477,-80.369,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35793,Ralph,MI,Dickinson County,,city-us,63,46.148,-87.725,2672
+35794,Ralph,SD,Harding County,,city-us,0,45.777,-103.066,262
+35795,Ralph,AL,Tuscaloosa County,,city-us,0,33.042,-87.769,769
+35796,Ralph,WV,Webster County,,city-us,0,38.477,-80.369,87

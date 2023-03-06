@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9556,Concepcion,,Chile,city-international,217537,-36.827,-73.050,23782
-9557,Concepcion,,Philippines,city-international,169953,15.325,120.655,7185
-9555,Concepcion,TX,,city-us,62,27.395,-98.356,2168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9556,Concepcion,,,Chile,city-international,217537,-36.827,-73.050,23782
+9557,Concepcion,,,Philippines,city-international,169953,15.325,120.655,7185
+9555,Concepcion,TX,Duval County,,city-us,62,27.395,-98.356,2168

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8265,Childs,MD,,city-us,0,39.646,-75.872,4313
-8266,Childs,WV,,city-us,0,39.602,-80.778,87
-8267,Childs,MN,,city-us,0,46.066,-96.534,307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8265,Childs,MD,Cecil County,,city-us,0,39.646,-75.872,4313
+8266,Childs,WV,Wetzel County,,city-us,0,39.602,-80.778,87
+8267,Childs,MN,Wilkin County,,city-us,0,46.066,-96.534,307

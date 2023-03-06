@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14934,Finney,TX,,city-us,70,33.810,-100.516,739
-14917,Finey,MO,,city-us,0,38.234,-93.546,548
-14933,Finney,KY,,city-us,0,36.915,-86.105,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14934,Finney,TX,King County,,city-us,70,33.810,-100.516,739
+14917,Finey,MO,Henry County,,city-us,0,38.234,-93.546,548
+14933,Finney,KY,Barren County,,city-us,0,36.915,-86.105,177

@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10946,Danbury,CT,,city-us,86759,41.399,-73.478,35591
-10943,Danbury,OH,,city-us,4891,41.526,-82.751,3134
-10940,Danbury,TX,,city-us,1655,29.228,-95.345,3732
-10942,Danbury,NH,,city-us,1273,43.528,-71.868,5703
-10947,Danbury,IA,,city-us,314,42.234,-95.722,3933
-10945,Danbury,NC,,city-us,141,36.409,-80.206,4154
-10941,Danbury,WI,,city-us,114,46.007,-92.371,3435
-10944,Danbury,NE,,city-us,73,40.039,-100.404,3043
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10946,Danbury,CT,Western Connecticut Planning Region,,city-us,86759,41.399,-73.478,35591
+10943,Danbury,OH,Ottawa County,,city-us,4891,41.526,-82.751,3134
+10940,Danbury,TX,Brazoria County,,city-us,1655,29.228,-95.345,3732
+10942,Danbury,NH,Merrimack County,,city-us,1273,43.528,-71.868,5703
+10947,Danbury,IA,Woodbury County,,city-us,314,42.234,-95.722,3933
+10945,Danbury,NC,Stokes County,,city-us,141,36.409,-80.206,4154
+10941,Danbury,WI,Burnett County,,city-us,114,46.007,-92.371,3435
+10944,Danbury,NE,Red Willow County,,city-us,73,40.039,-100.404,3043

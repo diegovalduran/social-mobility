@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9774,Cooper,NJ,,city-us,24862,41.097,-74.399,22960
-9771,Cooper,MI,,city-us,10432,42.380,-85.586,2271
-9766,Cooper,PA,,city-us,2578,41.014,-78.114,178
-9767,Cooper,TX,,city-us,1951,33.373,-95.688,23984
-9768,Cooper,MO,,city-us,1712,40.207,-94.510,150
-9773,Cooper,PA,,city-us,937,40.964,-76.541,178
-9775,Cooper,IL,,city-us,873,39.745,-89.440,542
-9778,Cooper,ME,,city-us,173,44.989,-67.423,2905
-9765,Cooper,SD,,city-us,16,43.822,-98.605,0
-9769,Cooper,IA,,city-us,0,41.917,-94.350,1167
-9770,Cooper,TX,,city-us,0,31.243,-95.582,408
-9772,Cooper,CA,,city-us,0,36.714,-121.717,274
-9776,Cooper,OH,,city-us,0,41.169,-82.977,258
-9777,Cooper,IL,,city-us,0,40.660,-89.404,187
-9779,Cooper,KY,,city-us,0,36.771,-84.861,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9774,Cooper,NJ,Passaic County,,city-us,24862,41.097,-74.399,22960
+9771,Cooper,MI,Kalamazoo County,,city-us,10432,42.380,-85.586,2271
+9766,Cooper,PA,Clearfield County,,city-us,2578,41.014,-78.114,178
+9767,Cooper,TX,Delta County,,city-us,1951,33.373,-95.688,23984
+9768,Cooper,MO,Gentry County,,city-us,1712,40.207,-94.510,150
+9773,Cooper,PA,Montour County,,city-us,937,40.964,-76.541,178
+9775,Cooper,IL,Sangamon County,,city-us,873,39.745,-89.440,542
+9778,Cooper,ME,Washington County,,city-us,173,44.989,-67.423,2905
+9765,Cooper,SD,Aurora County,,city-us,16,43.822,-98.605,0
+9769,Cooper,IA,Greene County,,city-us,0,41.917,-94.350,1167
+9770,Cooper,TX,Houston County,,city-us,0,31.243,-95.582,408
+9772,Cooper,CA,Monterey County,,city-us,0,36.714,-121.717,274
+9776,Cooper,OH,Seneca County,,city-us,0,41.169,-82.977,258
+9777,Cooper,IL,Tazewell County,,city-us,0,40.660,-89.404,187
+9779,Cooper,KY,Wayne County,,city-us,0,36.771,-84.861,144

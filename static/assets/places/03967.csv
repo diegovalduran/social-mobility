@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20288,Hog Jaw,AL,,city-us,0,34.332,-86.560,84
-20289,Hog Jaw,AR,,city-us,0,34.599,-93.757,206
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20288,Hog Jaw,AL,Marshall County,,city-us,0,34.332,-86.560,84
+20289,Hog Jaw,AR,Montgomery County,,city-us,0,34.599,-93.757,206

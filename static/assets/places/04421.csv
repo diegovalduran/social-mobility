@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22805,Kerr,MT,,city-us,156,47.680,-114.192,1592
-22803,Kerr,IL,,city-us,151,40.350,-87.969,1337
-22804,Kerr,OH,,city-us,0,38.875,-82.261,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22805,Kerr,MT,Lake County,,city-us,156,47.680,-114.192,1592
+22803,Kerr,IL,Champaign County,,city-us,151,40.350,-87.969,1337
+22804,Kerr,OH,Gallia County,,city-us,0,38.875,-82.261,329

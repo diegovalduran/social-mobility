@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-701,Allison,IA,,city-us,958,42.753,-92.795,3326
-704,Allison,PA,,city-us,356,39.989,-79.865,557
-706,Allison,IL,,city-us,257,38.719,-87.582,452
-702,Allison,PA,,city-us,228,41.147,-77.478,2011
-709,Allison,TX,,city-us,125,35.606,-100.101,1578
-699,Allison,SD,,city-us,26,45.808,-98.663,76
-700,Allison,OK,,city-us,0,33.896,-96.372,246
-703,Allison,KS,,city-us,0,39.575,-100.264,307
-705,Allison,CO,,city-us,0,37.024,-107.488,291
-707,Allison,MO,,city-us,0,40.532,-94.707,231
-708,Allison,AR,,city-us,0,35.937,-92.118,315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+701,Allison,IA,Butler County,,city-us,958,42.753,-92.795,3326
+704,Allison,PA,Fayette County,,city-us,356,39.989,-79.865,557
+706,Allison,IL,Lawrence County,,city-us,257,38.719,-87.582,452
+702,Allison,PA,Clinton County,,city-us,228,41.147,-77.478,2011
+709,Allison,TX,Wheeler County,,city-us,125,35.606,-100.101,1578
+699,Allison,SD,Brown County,,city-us,26,45.808,-98.663,76
+700,Allison,OK,Bryan County,,city-us,0,33.896,-96.372,246
+703,Allison,KS,Decatur County,,city-us,0,39.575,-100.264,307
+705,Allison,CO,La Plata County,,city-us,0,37.024,-107.488,291
+707,Allison,MO,Nodaway County,,city-us,0,40.532,-94.707,231
+708,Allison,AR,Stone County,,city-us,0,35.937,-92.118,315

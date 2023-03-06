@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42481,Tampico,,Mexico,city-international,297284,22.255,-97.869,14181
-42479,Tampico,IL,,city-us,991,41.628,-89.805,303
-42480,Tampico,WA,,city-us,312,46.535,-120.867,813
-42476,Tampico,OH,,city-us,0,40.049,-84.793,273
-42477,Tampico,IN,,city-us,0,38.800,-85.956,374
-42478,Tampico,MT,,city-us,0,48.305,-106.826,205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42481,Tampico,,,Mexico,city-international,297284,22.255,-97.869,14181
+42479,Tampico,IL,Whiteside County,,city-us,991,41.628,-89.805,303
+42480,Tampico,WA,Yakima County,,city-us,312,46.535,-120.867,813
+42476,Tampico,OH,Darke County,,city-us,0,40.049,-84.793,273
+42477,Tampico,IN,Jackson County,,city-us,0,38.800,-85.956,374
+42478,Tampico,MT,Valley County,,city-us,0,48.305,-106.826,205

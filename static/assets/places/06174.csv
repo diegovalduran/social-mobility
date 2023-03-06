@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31483,Northlake,IL,,city-us,12664,41.917,-87.896,4709
-31485,Northlake,TX,,city-us,6829,33.127,-97.266,682
-31482,Northlake,SC,,city-us,3840,34.566,-82.684,2614
-31484,Northlake,GA,,city-us,0,33.850,-84.255,2172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31483,Northlake,IL,Cook County,,city-us,12664,41.917,-87.896,4709
+31485,Northlake,TX,Denton County,,city-us,6829,33.127,-97.266,682
+31482,Northlake,SC,Anderson County,,city-us,3840,34.566,-82.684,2614
+31484,Northlake,GA,DeKalb County,,city-us,0,33.850,-84.255,2172

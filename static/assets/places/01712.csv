@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8708,Clear Creek,OH,,city-us,36858,39.529,-84.204,1274
-8694,Clear Creek,OH,,city-us,2212,40.944,-82.376,1274
-8704,Clear Creek,NE,,city-us,1241,41.095,-96.398,317
-8696,Clear Creek,WI,,city-us,786,44.640,-91.347,1818
-8707,Clear Creek,MO,,city-us,563,37.889,-94.123,167
-8699,Clear Creek,KS,,city-us,441,38.470,-96.941,389
-8698,Clear Creek,CA,,city-us,283,40.298,-121.049,2256
-8702,Clear Creek,KS,,city-us,137,39.527,-96.409,389
-8697,Clear Creek,KS,,city-us,100,38.747,-98.112,389
-8701,Clear Creek,KS,,city-us,98,39.958,-96.183,389
-8695,Clear Creek,UT,,city-us,31,39.646,-111.152,1770
-8706,Clear Creek,KS,,city-us,23,37.869,-98.968,389
-8703,Clear Creek,WV,,city-us,18,37.916,-81.344,339
-8700,Clear Creek,IN,,city-us,0,39.109,-86.540,425
-8705,Clear Creek,CA,,city-us,0,41.709,-123.450,194
-8709,Clear Creek,VA,,city-us,0,36.939,-82.598,108
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8708,Clear Creek,OH,Warren County,,city-us,36858,39.529,-84.204,1274
+8694,Clear Creek,OH,Ashland County,,city-us,2212,40.944,-82.376,1274
+8704,Clear Creek,NE,Saunders County,,city-us,1241,41.095,-96.398,317
+8696,Clear Creek,WI,Eau Claire County,,city-us,786,44.640,-91.347,1818
+8707,Clear Creek,MO,Vernon County,,city-us,563,37.889,-94.123,167
+8699,Clear Creek,KS,Marion County,,city-us,441,38.470,-96.941,389
+8698,Clear Creek,CA,Lassen County,,city-us,283,40.298,-121.049,2256
+8702,Clear Creek,KS,Pottawatomie County,,city-us,137,39.527,-96.409,389
+8697,Clear Creek,KS,Ellsworth County,,city-us,100,38.747,-98.112,389
+8701,Clear Creek,KS,Nemaha County,,city-us,98,39.958,-96.183,389
+8695,Clear Creek,UT,Carbon County,,city-us,31,39.646,-111.152,1770
+8706,Clear Creek,KS,Stafford County,,city-us,23,37.869,-98.968,389
+8703,Clear Creek,WV,Raleigh County,,city-us,18,37.916,-81.344,339
+8700,Clear Creek,IN,Monroe County,,city-us,0,39.109,-86.540,425
+8705,Clear Creek,CA,Siskiyou County,,city-us,0,41.709,-123.450,194
+8709,Clear Creek,VA,Wise County,,city-us,0,36.939,-82.598,108

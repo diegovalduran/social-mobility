@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35917,Rathbone,NY,,city-us,1089,42.129,-77.344,2831
-35916,Rathbone,MI,,city-us,656,43.335,-84.425,2234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35917,Rathbone,NY,Steuben County,,city-us,1089,42.129,-77.344,2831
+35916,Rathbone,MI,Gratiot County,,city-us,656,43.335,-84.425,2234

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38844,Schaumburg,IL,,city-us,131970,42.029,-88.090,1776
-38845,Schaumburg,IL,,city-us,77082,42.029,-88.084,24274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38844,Schaumburg,IL,Cook County,,city-us,131970,42.029,-88.090,1776
+38845,Schaumburg,IL,Cook County / DuPage County,,city-us,77082,42.029,-88.084,24274

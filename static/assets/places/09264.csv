@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47408,Witmer,PA,,city-us,180,40.048,-76.211,727
-46736,Whitmer,WV,,city-us,79,38.813,-79.549,367
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47408,Witmer,PA,Lancaster County,,city-us,180,40.048,-76.211,727
+46736,Whitmer,WV,Randolph County,,city-us,79,38.813,-79.549,367

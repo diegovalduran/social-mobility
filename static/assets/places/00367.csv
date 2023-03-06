@@ -1,21 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1953,Augusta,GA,,city-us,205673,33.361,-82.075,29353
-1948,Augusta,ME,,city-us,18968,44.311,-69.779,14906
-1939,Augusta,KS,,city-us,9267,37.687,-96.977,6685
-1956,Augusta,MI,,city-us,7107,42.131,-83.592,5046
-1951,Augusta,NY,,city-us,1999,42.977,-75.502,8321
-1957,Augusta,AR,,city-us,1954,35.282,-91.365,4628
-1943,Augusta,WI,,city-us,1549,44.680,-91.120,4833
-1938,Augusta,KY,,city-us,1100,38.772,-84.006,6096
-1955,Augusta,NJ,,city-us,887,41.129,-74.728,2305
-1947,Augusta,MI,,city-us,853,42.336,-85.352,4404
-1945,Augusta,IL,,city-us,701,40.236,-90.969,1072
-1954,Augusta,MO,,city-us,267,38.573,-90.882,3828
-1950,Augusta,MT,,city-us,233,47.493,-112.392,3663
-1949,Augusta,MN,,city-us,95,45.022,-96.403,1826
-1942,Augusta,IA,,city-us,51,40.758,-91.276,975
-1940,Augusta,OH,,city-us,0,40.686,-81.021,868
-1941,Augusta,MN,,city-us,0,44.805,-93.688,551
-1944,Augusta,WV,,city-us,0,39.295,-78.638,417
-1946,Augusta,TX,,city-us,0,31.532,-95.331,342
-1952,Augusta,IN,,city-us,0,38.331,-87.191,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1953,Augusta,GA,Richmond County,,city-us,205673,33.361,-82.075,29353
+1948,Augusta,ME,Kennebec County,,city-us,18968,44.311,-69.779,14906
+1939,Augusta,KS,Butler County,,city-us,9267,37.687,-96.977,6685
+1956,Augusta,MI,Washtenaw County,,city-us,7107,42.131,-83.592,5046
+1951,Augusta,NY,Oneida County,,city-us,1999,42.977,-75.502,8321
+1957,Augusta,AR,Woodruff County,,city-us,1954,35.282,-91.365,4628
+1943,Augusta,WI,Eau Claire County,,city-us,1549,44.680,-91.120,4833
+1938,Augusta,KY,Bracken County,,city-us,1100,38.772,-84.006,6096
+1955,Augusta,NJ,Sussex County,,city-us,887,41.129,-74.728,2305
+1947,Augusta,MI,Kalamazoo County,,city-us,853,42.336,-85.352,4404
+1945,Augusta,IL,Hancock County,,city-us,701,40.236,-90.969,1072
+1954,Augusta,MO,St. Charles County,,city-us,267,38.573,-90.882,3828
+1950,Augusta,MT,Lewis and Clark County,,city-us,233,47.493,-112.392,3663
+1949,Augusta,MN,Lac qui Parle County,,city-us,95,45.022,-96.403,1826
+1942,Augusta,IA,Des Moines County,,city-us,51,40.758,-91.276,975
+1940,Augusta,OH,Carroll County,,city-us,0,40.686,-81.021,868
+1941,Augusta,MN,Carver County,,city-us,0,44.805,-93.688,551
+1944,Augusta,WV,Hampshire County,,city-us,0,39.295,-78.638,417
+1946,Augusta,TX,Houston County,,city-us,0,31.532,-95.331,342
+1952,Augusta,IN,Pike County,,city-us,0,38.331,-87.191,344

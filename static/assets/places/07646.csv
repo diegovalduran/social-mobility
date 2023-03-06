@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38771,Saulsbury,TN,,city-us,110,35.047,-89.088,6492
-38772,Saulsbury,WV,,city-us,0,39.123,-81.543,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38771,Saulsbury,TN,Hardeman County,,city-us,110,35.047,-89.088,6492
+38772,Saulsbury,WV,Wood County,,city-us,0,39.123,-81.543,88

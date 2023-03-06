@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45953,West,OH,,city-us,3140,40.770,-81.027,1589
-45958,West,TX,,city-us,2557,31.802,-97.092,8565
-45956,West,PA,,city-us,519,40.626,-77.995,1817
-45954,West,IL,,city-us,434,38.950,-88.757,208
-45957,West,IL,,city-us,220,40.333,-88.623,208
-45955,West,MS,,city-us,146,33.197,-89.777,3011
-45959,West,WV,,city-us,0,39.678,-80.670,268
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45953,West,OH,Columbiana County,,city-us,3140,40.770,-81.027,1589
+45958,West,TX,McLennan County,,city-us,2557,31.802,-97.092,8565
+45956,West,PA,Huntingdon County,,city-us,519,40.626,-77.995,1817
+45954,West,IL,Effingham County,,city-us,434,38.950,-88.757,208
+45957,West,IL,McLean County,,city-us,220,40.333,-88.623,208
+45955,West,MS,Holmes County,,city-us,146,33.197,-89.777,3011
+45959,West,WV,Wetzel County,,city-us,0,39.678,-80.670,268

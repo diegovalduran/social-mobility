@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21086,Huntsville,AL,,city-us,216963,34.782,-86.533,54769
-21097,Huntsville,TX,,city-us,46288,30.724,-95.551,15253
-21088,Huntsville,AR,,city-us,2981,36.086,-93.741,4037
-21093,Huntsville,MO,,city-us,1369,39.441,-92.545,7021
-21096,Huntsville,TN,,city-us,1270,36.410,-84.490,4945
-21098,Huntsville,UT,,city-us,585,41.261,-111.770,3207
-21091,Huntsville,MN,,city-us,439,47.890,-96.932,1992
-21087,Huntsville,OH,,city-us,403,40.443,-83.805,4604
-21085,Huntsville,WA,,city-us,0,46.287,-118.107,268
-21089,Huntsville,IN,,city-us,0,40.009,-85.730,343
-21090,Huntsville,MS,,city-us,0,33.348,-89.461,93
-21092,Huntsville,IN,,city-us,0,40.071,-85.072,246
-21094,Huntsville,KS,,city-us,0,38.057,-98.326,356
-21095,Huntsville,IL,,city-us,0,40.191,-90.864,361
-21099,Huntsville,NC,,city-us,0,36.082,-80.529,4813
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21086,Huntsville,AL,Limestone County / Madison County / Morgan County,,city-us,216963,34.782,-86.533,54769
+21097,Huntsville,TX,Walker County,,city-us,46288,30.724,-95.551,15253
+21088,Huntsville,AR,Madison County,,city-us,2981,36.086,-93.741,4037
+21093,Huntsville,MO,Randolph County,,city-us,1369,39.441,-92.545,7021
+21096,Huntsville,TN,Scott County,,city-us,1270,36.410,-84.490,4945
+21098,Huntsville,UT,Weber County,,city-us,585,41.261,-111.770,3207
+21091,Huntsville,MN,Polk County,,city-us,439,47.890,-96.932,1992
+21087,Huntsville,OH,Logan County,,city-us,403,40.443,-83.805,4604
+21085,Huntsville,WA,Columbia County,,city-us,0,46.287,-118.107,268
+21089,Huntsville,IN,Madison County,,city-us,0,40.009,-85.730,343
+21090,Huntsville,MS,Montgomery County,,city-us,0,33.348,-89.461,93
+21092,Huntsville,IN,Randolph County,,city-us,0,40.071,-85.072,246
+21094,Huntsville,KS,Reno County,,city-us,0,38.057,-98.326,356
+21095,Huntsville,IL,Schuyler County,,city-us,0,40.191,-90.864,361
+21099,Huntsville,NC,Yadkin County,,city-us,0,36.082,-80.529,4813

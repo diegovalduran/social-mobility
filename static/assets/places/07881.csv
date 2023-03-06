@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40322,Soo,MI,,city-us,3004,46.276,-84.177,2598
-39956,Sioux,ND,,city-us,151,47.913,-103.871,0
-40321,Soo,ND,,city-us,32,48.943,-102.473,0
-39955,Sioux,WI,,city-us,0,46.737,-90.880,505
-41808,Sue,WV,,city-us,0,37.956,-80.209,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40322,Soo,MI,Chippewa County,,city-us,3004,46.276,-84.177,2598
+39956,Sioux,ND,McKenzie County,,city-us,151,47.913,-103.871,0
+40321,Soo,ND,Burke County,,city-us,32,48.943,-102.473,0
+39955,Sioux,WI,Bayfield County,,city-us,0,46.737,-90.880,505
+41808,Sue,WV,Greenbrier County,,city-us,0,37.956,-80.209,136

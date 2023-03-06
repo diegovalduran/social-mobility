@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46829,Wild Rose,WI,,city-us,791,44.179,-89.249,3626
-46827,Wild Rose,ND,,city-us,25,46.669,-100.134,0
-46828,Wild Rose,WI,,city-us,0,43.287,-90.582,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46829,Wild Rose,WI,Waushara County,,city-us,791,44.179,-89.249,3626
+46827,Wild Rose,ND,Burleigh County,,city-us,25,46.669,-100.134,0
+46828,Wild Rose,WI,Richland County,,city-us,0,43.287,-90.582,110

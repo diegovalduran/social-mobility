@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24029,Latham,NY,,city-us,14076,42.747,-73.759,3413
-24033,Latham,IL,,city-us,321,39.969,-89.162,2290
-24031,Latham,KS,,city-us,101,37.536,-96.642,3404
-24034,Latham,MO,,city-us,69,38.561,-92.683,297
-24030,Latham,AL,,city-us,0,31.085,-87.834,349
-24032,Latham,OR,,city-us,0,43.775,-123.062,409
-24035,Latham,OH,,city-us,0,39.099,-83.247,183
-24036,Latham,TN,,city-us,0,36.423,-88.714,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24029,Latham,NY,Albany County,,city-us,14076,42.747,-73.759,3413
+24033,Latham,IL,Logan County,,city-us,321,39.969,-89.162,2290
+24031,Latham,KS,Butler County,,city-us,101,37.536,-96.642,3404
+24034,Latham,MO,Moniteau County,,city-us,69,38.561,-92.683,297
+24030,Latham,AL,Baldwin County,,city-us,0,31.085,-87.834,349
+24032,Latham,OR,Lane County,,city-us,0,43.775,-123.062,409
+24035,Latham,OH,Pike County,,city-us,0,39.099,-83.247,183
+24036,Latham,TN,Weakley County,,city-us,0,36.423,-88.714,84

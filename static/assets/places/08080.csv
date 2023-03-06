@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40923,Spruce Pine,NC,,city-us,2216,35.915,-82.065,7057
-40922,Spruce Pine,AL,,city-us,215,34.392,-87.726,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40923,Spruce Pine,NC,Mitchell County,,city-us,2216,35.915,-82.065,7057
+40922,Spruce Pine,AL,Franklin County,,city-us,215,34.392,-87.726,163

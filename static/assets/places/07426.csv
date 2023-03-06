@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37738,Round Lake,IL,,city-us,18625,42.353,-88.093,5974
-37742,Round Lake,WI,,city-us,1107,46.046,-91.115,1929
-37741,Round Lake,NY,,city-us,843,42.939,-73.790,5835
-37740,Round Lake,MN,,city-us,372,43.541,-95.468,5822
-37734,Round Lake,MN,,city-us,212,47.064,-95.471,219
-37737,Round Lake,MN,,city-us,143,43.536,-95.405,219
-37739,Round Lake,ND,,city-us,28,48.069,-100.313,0
-37735,Round Lake,MS,,city-us,0,34.053,-90.853,459
-37736,Round Lake,FL,,city-us,0,30.652,-85.389,241
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37738,Round Lake,IL,Lake County,,city-us,18625,42.353,-88.093,5974
+37742,Round Lake,WI,Sawyer County,,city-us,1107,46.046,-91.115,1929
+37741,Round Lake,NY,Saratoga County,,city-us,843,42.939,-73.790,5835
+37740,Round Lake,MN,Nobles County,,city-us,372,43.541,-95.468,5822
+37734,Round Lake,MN,Becker County,,city-us,212,47.064,-95.471,219
+37737,Round Lake,MN,Jackson County,,city-us,143,43.536,-95.405,219
+37739,Round Lake,ND,McHenry County,,city-us,28,48.069,-100.313,0
+37735,Round Lake,MS,Bolivar County,,city-us,0,34.053,-90.853,459
+37736,Round Lake,FL,Jackson County,,city-us,0,30.652,-85.389,241

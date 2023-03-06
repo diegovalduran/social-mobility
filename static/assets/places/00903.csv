@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4581,Boardman,OH,,city-us,39698,41.022,-80.665,9909
-4583,Boardman,OR,,city-us,3921,45.840,-119.701,8731
-4580,Boardman,MI,,city-us,1496,44.646,-85.263,2519
-4579,Boardman,NC,,city-us,161,34.439,-78.949,2105
-4582,Boardman,FL,,city-us,0,29.467,-82.214,787
-4584,Boardman,WI,,city-us,0,45.066,-92.600,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4581,Boardman,OH,Mahoning County,,city-us,39698,41.022,-80.665,9909
+4583,Boardman,OR,Morrow County,,city-us,3921,45.840,-119.701,8731
+4580,Boardman,MI,Kalkaska County,,city-us,1496,44.646,-85.263,2519
+4579,Boardman,NC,Columbus County,,city-us,161,34.439,-78.949,2105
+4582,Boardman,FL,Marion County,,city-us,0,29.467,-82.214,787
+4584,Boardman,WI,St. Croix County,,city-us,0,45.066,-92.600,336

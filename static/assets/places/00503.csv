@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2596,Bartonsville,MD,,city-us,2176,39.393,-77.358,705
-2597,Bartonsville,VA,,city-us,0,39.111,-78.212,565
-2598,Bartonsville,PA,,city-us,0,41.005,-75.280,2462
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2596,Bartonsville,MD,Frederick County,,city-us,2176,39.393,-77.358,705
+2597,Bartonsville,VA,Frederick County,,city-us,0,39.111,-78.212,565
+2598,Bartonsville,PA,Monroe County,,city-us,0,41.005,-75.280,2462

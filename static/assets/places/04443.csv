@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22891,Kidder,PA,,city-us,1816,41.061,-75.647,5461
-22890,Kidder,MO,,city-us,273,39.780,-94.102,3749
-22892,Kidder,SD,,city-us,61,45.384,-97.664,477
-22893,Kidder,SD,,city-us,9,45.883,-97.713,477
-22894,Kidder,KY,,city-us,0,36.915,-84.652,108
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22891,Kidder,PA,Carbon County,,city-us,1816,41.061,-75.647,5461
+22890,Kidder,MO,Caldwell County,,city-us,273,39.780,-94.102,3749
+22892,Kidder,SD,Day County,,city-us,61,45.384,-97.664,477
+22893,Kidder,SD,Marshall County,,city-us,9,45.883,-97.713,477
+22894,Kidder,KY,Wayne County,,city-us,0,36.915,-84.652,108

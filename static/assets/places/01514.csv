@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7619,Centerfield,UT,,city-us,1380,39.125,-111.819,4592
-7618,Centerfield,KY,,city-us,0,38.351,-85.407,959
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7619,Centerfield,UT,Sanpete County,,city-us,1380,39.125,-111.819,4592
+7618,Centerfield,KY,Oldham County,,city-us,0,38.351,-85.407,959

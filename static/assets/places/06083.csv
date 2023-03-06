@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31149,Nicut,OK,,city-us,286,35.584,-94.559,509
-31148,Nicut,WV,,city-us,0,38.713,-81.022,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31149,Nicut,OK,Sequoyah County,,city-us,286,35.584,-94.559,509
+31148,Nicut,WV,Calhoun County,,city-us,0,38.713,-81.022,212

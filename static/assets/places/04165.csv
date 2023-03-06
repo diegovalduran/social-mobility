@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21417,Inglewood,CA,,city-us,105181,33.962,-118.353,38373
-21416,Inglewood,NE,,city-us,370,41.416,-96.501,3142
-21418,Inglewood,VA,,city-us,0,36.642,-78.384,448
-21419,Inglewood,VA,,city-us,0,38.390,-78.665,287
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21417,Inglewood,CA,Los Angeles County,,city-us,105181,33.962,-118.353,38373
+21416,Inglewood,NE,Dodge County,,city-us,370,41.416,-96.501,3142
+21418,Inglewood,VA,Mecklenburg County,,city-us,0,36.642,-78.384,448
+21419,Inglewood,VA,Rockingham County,,city-us,0,38.390,-78.665,287

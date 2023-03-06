@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39129,Selman,OK,,city-us,12,36.802,-99.491,1352
-39128,Selman,FL,,city-us,0,30.536,-85.029,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39129,Selman,OK,Harper County,,city-us,12,36.802,-99.491,1352
+39128,Selman,FL,Calhoun County,,city-us,0,30.536,-85.029,179

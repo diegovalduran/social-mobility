@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7024,Carpenter's Station,KY,,city-us,0,37.441,-84.860,594
-7025,Carpenter's Station,TN,,city-us,0,35.139,-87.387,218
-7026,Carpenter's Station,AL,,city-us,0,30.857,-87.866,1480
-7027,Carpenter's Station,LA,,city-us,0,32.463,-91.568,675
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7024,Carpenter's Station,KY,Casey County,,city-us,0,37.441,-84.860,594
+7025,Carpenter's Station,TN,Lawrence County,,city-us,0,35.139,-87.387,218
+7026,Carpenter's Station,AL,Mobile County,,city-us,0,30.857,-87.866,1480
+7027,Carpenter's Station,LA,Richland Parish,,city-us,0,32.463,-91.568,675

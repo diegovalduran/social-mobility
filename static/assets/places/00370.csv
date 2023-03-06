@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1964,Aurelius,MI,,city-us,3525,42.556,-84.546,2190
-1963,Aurelius,NY,,city-us,2595,42.929,-76.668,4824
-1965,Aurelius,OH,,city-us,302,39.603,-81.424,1157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1964,Aurelius,MI,Ingham County,,city-us,3525,42.556,-84.546,2190
+1963,Aurelius,NY,Cayuga County,,city-us,2595,42.929,-76.668,4824
+1965,Aurelius,OH,Washington County,,city-us,302,39.603,-81.424,1157

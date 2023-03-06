@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35828,Rancho Viejo,TX,,city-us,2856,26.040,-97.556,3090
-35829,Rancho Viejo,TX,,city-us,280,26.414,-98.916,492
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35828,Rancho Viejo,TX,Cameron County,,city-us,2856,26.040,-97.556,3090
+35829,Rancho Viejo,TX,Starr County,,city-us,280,26.414,-98.916,492

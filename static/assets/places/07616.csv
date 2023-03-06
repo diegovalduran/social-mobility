@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38630,Sangamon,IL,,city-us,2506,40.121,-88.516,1162
-38628,Sangamon,SD,,city-us,41,45.534,-99.384,0
-38629,Sangamon,IL,,city-us,0,39.867,-88.856,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38630,Sangamon,IL,Piatt County,,city-us,2506,40.121,-88.516,1162
+38628,Sangamon,SD,Edmunds County,,city-us,41,45.534,-99.384,0
+38629,Sangamon,IL,Macon County,,city-us,0,39.867,-88.856,199

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29387,Mooreland,OK,,city-us,1159,36.439,-99.205,4506
-29386,Mooreland,IN,,city-us,340,39.998,-85.251,3911
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29387,Mooreland,OK,Woodward County,,city-us,1159,36.439,-99.205,4506
+29386,Mooreland,IN,Henry County,,city-us,340,39.998,-85.251,3911

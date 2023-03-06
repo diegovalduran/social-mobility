@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32182,Olga,FL,,city-us,2664,26.719,-81.712,2393
-32183,Olga,KY,,city-us,0,36.951,-85.160,230
-32184,Olga,WA,,city-us,0,48.619,-122.836,423
-32185,Olga,MO,,city-us,0,37.089,-92.907,433
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32182,Olga,FL,Lee County,,city-us,2664,26.719,-81.712,2393
+32183,Olga,KY,Russell County,,city-us,0,36.951,-85.160,230
+32184,Olga,WA,San Juan County,,city-us,0,48.619,-122.836,423
+32185,Olga,MO,Webster County,,city-us,0,37.089,-92.907,433

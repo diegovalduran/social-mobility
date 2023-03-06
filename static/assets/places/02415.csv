@@ -1,27 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12051,Douglas,AZ,,city-us,16513,31.345,-109.545,11509
-12056,Douglas,IL,,city-us,12572,39.167,-88.533,278
-12052,Douglas,GA,,city-us,11727,31.509,-82.850,8911
-12073,Douglas,MA,,city-us,9049,42.053,-71.752,8045
-12053,Douglas,WY,,city-us,6351,42.760,-105.382,5686
-12060,Douglas,IL,,city-us,2034,40.770,-88.003,278
-12048,Douglas,MI,,city-us,1381,42.643,-86.201,5014
-12062,Douglas,WI,,city-us,795,43.685,-89.549,2036
-12063,Douglas,AL,,city-us,761,34.174,-86.324,2438
-12054,Douglas,MN,,city-us,750,44.579,-92.862,2932
-12068,Douglas,NE,,city-us,215,41.347,-96.733,249
-12066,Douglas,NE,,city-us,170,40.596,-96.388,3135
-12050,Douglas,IL,,city-us,129,39.464,-87.737,278
-12070,Douglas,KS,,city-us,108,38.131,-98.858,0
-12072,Douglas,ND,,city-us,89,47.857,-101.503,3296
-12058,Douglas,OK,,city-us,50,36.261,-97.669,1884
-12064,Douglas,ND,,city-us,29,47.802,-101.546,3296
-12049,Douglas,WV,,city-us,0,38.672,-81.058,132
-12055,Douglas,WA,,city-us,0,47.621,-120.005,626
-12057,Douglas,IA,,city-us,0,43.008,-91.871,294
-12059,Douglas,IN,,city-us,0,38.331,-87.502,225
-12061,Douglas,IL,,city-us,0,40.786,-90.084,245
-12065,Douglas,MN,,city-us,0,44.108,-92.574,541
-12067,Douglas,OH,,city-us,0,40.942,-84.301,220
-12069,Douglas,IL,,city-us,0,38.424,-89.983,168
-12071,Douglas,WV,,city-us,0,39.127,-79.521,372
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12051,Douglas,AZ,Cochise County,,city-us,16513,31.345,-109.545,11509
+12056,Douglas,IL,Effingham County,,city-us,12572,39.167,-88.533,278
+12052,Douglas,GA,Coffee County,,city-us,11727,31.509,-82.850,8911
+12073,Douglas,MA,Worcester County,,city-us,9049,42.053,-71.752,8045
+12053,Douglas,WY,Converse County,,city-us,6351,42.760,-105.382,5686
+12060,Douglas,IL,Iroquois County,,city-us,2034,40.770,-88.003,278
+12048,Douglas,MI,Allegan County,,city-us,1381,42.643,-86.201,5014
+12062,Douglas,WI,Marquette County,,city-us,795,43.685,-89.549,2036
+12063,Douglas,AL,Marshall County,,city-us,761,34.174,-86.324,2438
+12054,Douglas,MN,Dakota County,,city-us,750,44.579,-92.862,2932
+12068,Douglas,NE,Saunders County,,city-us,215,41.347,-96.733,249
+12066,Douglas,NE,Otoe County,,city-us,170,40.596,-96.388,3135
+12050,Douglas,IL,Clark County,,city-us,129,39.464,-87.737,278
+12070,Douglas,KS,Stafford County,,city-us,108,38.131,-98.858,0
+12072,Douglas,ND,Ward County,,city-us,89,47.857,-101.503,3296
+12058,Douglas,OK,Garfield County,,city-us,50,36.261,-97.669,1884
+12064,Douglas,ND,McLean County,,city-us,29,47.802,-101.546,3296
+12049,Douglas,WV,Calhoun County,,city-us,0,38.672,-81.058,132
+12055,Douglas,WA,Douglas County,,city-us,0,47.621,-120.005,626
+12057,Douglas,IA,Fayette County,,city-us,0,43.008,-91.871,294
+12059,Douglas,IN,Gibson County,,city-us,0,38.331,-87.502,225
+12061,Douglas,IL,Knox County,,city-us,0,40.786,-90.084,245
+12065,Douglas,MN,Olmsted County,,city-us,0,44.108,-92.574,541
+12067,Douglas,OH,Putnam County,,city-us,0,40.942,-84.301,220
+12069,Douglas,IL,St. Clair County,,city-us,0,38.424,-89.983,168
+12071,Douglas,WV,Tucker County,,city-us,0,39.127,-79.521,372

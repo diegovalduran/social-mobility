@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-346,Ajax,,Canada,city-international,119677,43.858,-79.036,20482
-342,Ajax,WV,,city-us,0,37.803,-82.305,245
-343,Ajax,LA,,city-us,0,31.877,-93.390,2368
-344,Ajax,SD,,city-us,0,43.898,-103.182,156
-345,Ajax,VA,,city-us,0,36.981,-79.577,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+346,Ajax,,,Canada,city-international,119677,43.858,-79.036,20482
+342,Ajax,WV,Mingo County,,city-us,0,37.803,-82.305,245
+343,Ajax,LA,Natchitoches Parish,,city-us,0,31.877,-93.390,2368
+344,Ajax,SD,Pennington County,,city-us,0,43.898,-103.182,156
+345,Ajax,VA,Pittsylvania County,,city-us,0,36.981,-79.577,92

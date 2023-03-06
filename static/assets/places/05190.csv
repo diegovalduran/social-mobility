@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26630,Mannington,WV,,city-us,1946,39.531,-80.343,10553
-26631,Mannington,NJ,,city-us,1559,39.623,-75.415,11629
-26629,Mannington,KY,,city-us,0,37.120,-87.487,103
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26630,Mannington,WV,Marion County,,city-us,1946,39.531,-80.343,10553
+26631,Mannington,NJ,Salem County,,city-us,1559,39.623,-75.415,11629
+26629,Mannington,KY,Christian County,,city-us,0,37.120,-87.487,103

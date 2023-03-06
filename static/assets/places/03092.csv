@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15469,Fortescue,NJ,,city-us,189,39.237,-75.172,1103
-15470,Fortescue,MO,,city-us,20,40.052,-95.318,2761
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15469,Fortescue,NJ,Cumberland County,,city-us,189,39.237,-75.172,1103
+15470,Fortescue,MO,Holt County,,city-us,20,40.052,-95.318,2761

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11485,Delphi,IN,,city-us,2972,40.588,-86.675,4834
-11486,Delphi,OH,,city-us,0,41.031,-82.608,270
-11487,Delphi,WA,,city-us,0,46.979,-123.019,490
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11485,Delphi,IN,Carroll County,,city-us,2972,40.588,-86.675,4834
+11486,Delphi,OH,Huron County,,city-us,0,41.031,-82.608,270
+11487,Delphi,WA,Thurston County,,city-us,0,46.979,-123.019,490

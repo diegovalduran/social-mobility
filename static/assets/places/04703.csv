@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24039,Lathrop,CA,,city-us,30659,37.823,-121.277,6379
-24037,Lathrop,MO,,city-us,2273,39.548,-94.330,4751
-24040,Lathrop,PA,,city-us,770,41.678,-75.805,1672
-24038,Lathrop,MI,,city-us,0,46.148,-87.222,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24039,Lathrop,CA,San Joaquin County,,city-us,30659,37.823,-121.277,6379
+24037,Lathrop,MO,Clinton County,,city-us,2273,39.548,-94.330,4751
+24040,Lathrop,PA,Susquehanna County,,city-us,770,41.678,-75.805,1672
+24038,Lathrop,MI,Delta County,,city-us,0,46.148,-87.222,279

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16244,Galveston,TX,,city-us,53219,29.301,-94.798,54297
-16243,Galveston,IN,,city-us,1264,40.579,-86.190,3642
-16245,Galveston,VA,,city-us,0,36.920,-79.383,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16244,Galveston,TX,Galveston County,,city-us,53219,29.301,-94.798,54297
+16243,Galveston,IN,Cass County,,city-us,1264,40.579,-86.190,3642
+16245,Galveston,VA,Pittsylvania County,,city-us,0,36.920,-79.383,97

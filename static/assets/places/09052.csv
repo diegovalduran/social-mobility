@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45674,Waynesburg,PA,,city-us,3922,39.896,-80.179,6983
-45676,Waynesburg,OH,,city-us,919,40.668,-81.257,3941
-45673,Waynesburg,IN,,city-us,0,39.211,-85.669,180
-45675,Waynesburg,KY,,city-us,0,37.333,-84.672,504
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45674,Waynesburg,PA,Greene County,,city-us,3922,39.896,-80.179,6983
+45676,Waynesburg,OH,Stark County,,city-us,919,40.668,-81.257,3941
+45673,Waynesburg,IN,Decatur County,,city-us,0,39.211,-85.669,180
+45675,Waynesburg,KY,Lincoln County,,city-us,0,37.333,-84.672,504

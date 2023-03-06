@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20015,Hiland,SD,,city-us,35,44.335,-98.865,0
-20016,Hiland,WY,,city-us,0,43.115,-107.349,826
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20015,Hiland,SD,Hand County,,city-us,35,44.335,-98.865,0
+20016,Hiland,WY,Natrona County,,city-us,0,43.115,-107.349,826

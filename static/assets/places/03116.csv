@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15575,Fourway,VA,,city-us,0,38.750,-78.268,95
-15576,Fourway,VA,,city-us,0,37.133,-81.493,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15575,Fourway,VA,Rappahannock County,,city-us,0,38.750,-78.268,95
+15576,Fourway,VA,Tazewell County,,city-us,0,37.133,-81.493,240

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15990,Frew,KY,,city-us,0,37.182,-83.246,120
-15991,Frew,WV,,city-us,0,39.467,-80.836,111
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15990,Frew,KY,Leslie County,,city-us,0,37.182,-83.246,120
+15991,Frew,WV,Tyler County,,city-us,0,39.467,-80.836,111

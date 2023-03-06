@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44489,Victor,MI,,city-us,3460,42.896,-84.432,2454
-44496,Victor,NY,,city-us,2730,42.983,-77.409,6776
-44503,Victor,ID,,city-us,2236,43.603,-111.111,4167
-44505,Victor,MN,,city-us,1053,45.008,-94.081,2184
-44492,Victor,IA,,city-us,866,41.731,-92.295,5571
-44499,Victor,MT,,city-us,773,46.417,-114.150,2878
-44501,Victor,CA,,city-us,641,38.138,-121.206,2568
-44502,Victor,CO,,city-us,378,38.710,-105.140,8318
-44490,Victor,IL,,city-us,289,41.667,-88.769,843
-44494,Victor,SD,,city-us,33,45.889,-97.539,271
-44504,Victor,ND,,city-us,22,48.581,-99.036,0
-44497,Victor,KS,,city-us,18,39.257,-98.881,203
-44491,Victor,WV,,city-us,0,38.133,-81.076,191
-44493,Victor,WV,,city-us,0,38.423,-81.426,128
-44495,Victor,IN,,city-us,0,39.061,-86.581,505
-44498,Victor,AR,,city-us,0,35.651,-93.003,186
-44500,Victor,SD,,city-us,0,45.869,-96.833,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44489,Victor,MI,Clinton County,,city-us,3460,42.896,-84.432,2454
+44496,Victor,NY,Ontario County,,city-us,2730,42.983,-77.409,6776
+44503,Victor,ID,Teton County,,city-us,2236,43.603,-111.111,4167
+44505,Victor,MN,Wright County,,city-us,1053,45.008,-94.081,2184
+44492,Victor,IA,Iowa County / Poweshiek County,,city-us,866,41.731,-92.295,5571
+44499,Victor,MT,Ravalli County,,city-us,773,46.417,-114.150,2878
+44501,Victor,CA,San Joaquin County,,city-us,641,38.138,-121.206,2568
+44502,Victor,CO,Teller County,,city-us,378,38.710,-105.140,8318
+44490,Victor,IL,DeKalb County,,city-us,289,41.667,-88.769,843
+44494,Victor,SD,Marshall County,,city-us,33,45.889,-97.539,271
+44504,Victor,ND,Towner County,,city-us,22,48.581,-99.036,0
+44497,Victor,KS,Osborne County,,city-us,18,39.257,-98.881,203
+44491,Victor,WV,Fayette County,,city-us,0,38.133,-81.076,191
+44493,Victor,WV,Kanawha County,,city-us,0,38.423,-81.426,128
+44495,Victor,IN,Monroe County,,city-us,0,39.061,-86.581,505
+44498,Victor,AR,Pope County,,city-us,0,35.651,-93.003,186
+44500,Victor,SD,Roberts County,,city-us,0,45.869,-96.833,271

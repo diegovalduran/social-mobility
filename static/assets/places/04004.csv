@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20524,Homeville,PA,,city-us,0,39.861,-75.987,556
-20525,Homeville,VA,,city-us,0,36.949,-77.171,586
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20524,Homeville,PA,Chester County,,city-us,0,39.861,-75.987,556
+20525,Homeville,VA,Sussex County,,city-us,0,36.949,-77.171,586

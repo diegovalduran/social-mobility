@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35115,Post Oak,TN,,city-us,0,36.072,-88.137,85
-35116,Post Oak,TX,,city-us,0,30.304,-98.542,772
-35117,Post Oak,MO,,city-us,0,38.569,-93.751,249
-35118,Post Oak,TN,,city-us,0,36.217,-85.480,85
-35119,Post Oak,VA,,city-us,0,38.166,-77.663,486
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35115,Post Oak,TN,Benton County,,city-us,0,36.072,-88.137,85
+35116,Post Oak,TX,Blanco County,,city-us,0,30.304,-98.542,772
+35117,Post Oak,MO,Johnson County,,city-us,0,38.569,-93.751,249
+35118,Post Oak,TN,Putnam County,,city-us,0,36.217,-85.480,85
+35119,Post Oak,VA,Spotsylvania County,,city-us,0,38.166,-77.663,486

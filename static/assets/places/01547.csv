@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7809,Chamisal,NM,,city-us,387,36.166,-105.738,2116
-7810,Chamizal,NM,,city-us,54,34.218,-106.914,470
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7809,Chamisal,NM,Taos County,,city-us,387,36.166,-105.738,2116
+7810,Chamizal,NM,Socorro County,,city-us,54,34.218,-106.914,470

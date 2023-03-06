@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38166,Saint James,IL,,city-us,0,38.954,-88.851,179
-38167,Saint James,IN,,city-us,0,38.177,-87.578,365
-38168,Saint James,OH,,city-us,0,40.662,-82.829,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38166,Saint James,IL,Fayette County,,city-us,0,38.954,-88.851,179
+38167,Saint James,IN,Gibson County,,city-us,0,38.177,-87.578,365
+38168,Saint James,OH,Morrow County,,city-us,0,40.662,-82.829,267

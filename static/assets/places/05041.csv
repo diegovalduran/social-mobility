@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25862,Low Moor,NJ,,city-us,1449,40.359,-73.975,16342
-25860,Low Moor,VA,,city-us,388,37.789,-79.884,2335
-25861,Low Moor,IA,,city-us,248,41.802,-90.355,3142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25862,Low Moor,NJ,Monmouth County,,city-us,1449,40.359,-73.975,16342
+25860,Low Moor,VA,Alleghany County,,city-us,388,37.789,-79.884,2335
+25861,Low Moor,IA,Clinton County,,city-us,248,41.802,-90.355,3142

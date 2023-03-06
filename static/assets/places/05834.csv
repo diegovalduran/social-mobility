@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30030,Mozelle,WV,,city-us,0,39.028,-81.728,75
-30031,Mozelle,KY,,city-us,0,37.002,-83.398,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30030,Mozelle,WV,Jackson County,,city-us,0,39.028,-81.728,75
+30031,Mozelle,KY,Leslie County,,city-us,0,37.002,-83.398,118

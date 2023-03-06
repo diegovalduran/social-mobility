@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32074,Ohio City,OH,,city-us,643,40.771,-84.616,5483
-32073,Ohio City,CO,,city-us,0,38.568,-106.567,2071
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32074,Ohio City,OH,Van Wert County,,city-us,643,40.771,-84.616,5483
+32073,Ohio City,CO,Gunnison County,,city-us,0,38.568,-106.567,2071

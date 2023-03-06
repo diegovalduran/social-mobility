@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46069,West Milford,NJ,,city-us,24579,41.105,-74.391,22960
-46068,West Milford,WV,,city-us,447,39.201,-80.404,3152
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46069,West Milford,NJ,Passaic County,,city-us,24579,41.105,-74.391,22960
+46068,West Milford,WV,Harrison County,,city-us,447,39.201,-80.404,3152

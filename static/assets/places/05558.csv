@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28573,Millers,MD,,city-us,0,39.671,-76.851,559
-28574,Millers,MO,,city-us,0,37.861,-90.270,326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28573,Millers,MD,Carroll County,,city-us,0,39.671,-76.851,559
+28574,Millers,MO,Ste. Genevieve County,,city-us,0,37.861,-90.270,326

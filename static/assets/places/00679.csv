@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3442,Bengal,MI,,city-us,1132,42.998,-84.668,2076
-3444,Bengal,MN,,city-us,10,47.268,-93.065,563
-3441,Bengal,MO,,city-us,0,36.901,-93.310,526
-3443,Bengal,IN,,city-us,0,39.473,-85.923,373
-3445,Bengal,KY,,city-us,0,37.359,-85.457,1139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3442,Bengal,MI,Clinton County,,city-us,1132,42.998,-84.668,2076
+3444,Bengal,MN,St. Louis County,,city-us,10,47.268,-93.065,563
+3441,Bengal,MO,Christian County,,city-us,0,36.901,-93.310,526
+3443,Bengal,IN,Shelby County,,city-us,0,39.473,-85.923,373
+3445,Bengal,KY,Taylor County,,city-us,0,37.359,-85.457,1139

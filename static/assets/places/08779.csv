@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44054,Vaiden,MS,,city-us,754,33.332,-89.741,4071
-44055,Vaiden,AL,,city-us,0,32.520,-87.371,569
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44054,Vaiden,MS,Carroll County,,city-us,754,33.332,-89.741,4071
+44055,Vaiden,AL,Perry County,,city-us,0,32.520,-87.371,569

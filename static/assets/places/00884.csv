@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4499,Blue Jay,OH,,city-us,1650,39.227,-84.737,669
-4500,Blue Jay,CA,,city-us,0,34.246,-117.209,1752
-4501,Blue Jay 6,WV,,city-us,0,37.683,-81.113,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4499,Blue Jay,OH,Hamilton County,,city-us,1650,39.227,-84.737,669
+4500,Blue Jay,CA,San Bernardino County,,city-us,0,34.246,-117.209,1752
+4501,Blue Jay 6,WV,Raleigh County,,city-us,0,37.683,-81.113,182

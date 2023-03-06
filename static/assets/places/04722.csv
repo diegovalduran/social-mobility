@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24105,Laurens,SC,,city-us,9319,34.499,-82.014,12884
-24106,Laurens,NY,,city-us,2331,42.536,-75.118,122
-24107,Laurens,IA,,city-us,1261,42.847,-94.852,4896
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24105,Laurens,SC,Laurens County,,city-us,9319,34.499,-82.014,12884
+24106,Laurens,NY,Otsego County,,city-us,2331,42.536,-75.118,122
+24107,Laurens,IA,Pocahontas County,,city-us,1261,42.847,-94.852,4896

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15079,Flat Top,VA,,city-us,0,37.029,-82.397,179
-15080,Flat Top,AL,,city-us,0,33.666,-87.024,202
-15081,Flat Top,WV,,city-us,0,37.589,-81.107,763
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15079,Flat Top,VA,Dickenson County,,city-us,0,37.029,-82.397,179
+15080,Flat Top,AL,Jefferson County,,city-us,0,33.666,-87.024,202
+15081,Flat Top,WV,Mercer County,,city-us,0,37.589,-81.107,763

@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10246,Crane,OH,,city-us,7476,40.849,-83.257,118
-10240,Crane,TX,,city-us,3484,31.397,-102.350,3872
-10245,Crane,MO,,city-us,1478,36.905,-93.572,3870
-10243,Crane,OH,,city-us,1258,41.210,-84.624,118
-23283,Krain,MN,,city-us,994,45.714,-94.585,2211
-10244,Crane,MT,,city-us,197,47.576,-104.262,469
-10285,Crayne,KY,,city-us,185,37.271,-88.083,319
-10242,Crane,IN,,city-us,167,38.891,-86.904,3491
-10241,Crane,OR,,city-us,116,43.415,-118.578,2174
-10221,Crain,IL,,city-us,0,37.780,-89.508,166
-10238,Crane,VA,,city-us,0,37.910,-79.676,86
-10239,Crane,WA,,city-us,0,48.107,-123.295,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10246,Crane,OH,Wyandot County,,city-us,7476,40.849,-83.257,118
+10240,Crane,TX,Crane County,,city-us,3484,31.397,-102.350,3872
+10245,Crane,MO,Stone County,,city-us,1478,36.905,-93.572,3870
+10243,Crane,OH,Paulding County,,city-us,1258,41.210,-84.624,118
+23283,Krain,MN,Stearns County,,city-us,994,45.714,-94.585,2211
+10244,Crane,MT,Richland County,,city-us,197,47.576,-104.262,469
+10285,Crayne,KY,Crittenden County,,city-us,185,37.271,-88.083,319
+10242,Crane,IN,Martin County,,city-us,167,38.891,-86.904,3491
+10241,Crane,OR,Harney County,,city-us,116,43.415,-118.578,2174
+10221,Crain,IL,Jackson County,,city-us,0,37.780,-89.508,166
+10238,Crane,VA,Bath County,,city-us,0,37.910,-79.676,86
+10239,Crane,WA,Clallam County,,city-us,0,48.107,-123.295,179

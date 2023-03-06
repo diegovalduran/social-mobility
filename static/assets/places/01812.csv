@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9269,Coleman,TX,,city-us,3917,31.827,-99.426,3234
-9275,Coleman,MI,,city-us,1262,43.757,-84.586,3393
-9274,Coleman,WI,,city-us,728,45.065,-88.034,3121
-9277,Coleman,FL,,city-us,685,28.800,-82.070,3460
-9373,Colman,SD,,city-us,629,43.982,-96.814,3251
-9273,Coleman,OK,,city-us,290,34.271,-96.419,835
-9278,Coleman,KS,,city-us,62,39.778,-97.190,0
-9272,Coleman,NE,,city-us,40,42.761,-98.688,244
-9268,Coleman,MO,,city-us,0,38.751,-94.395,261
-9270,Coleman,OH,,city-us,0,40.796,-80.813,279
-9271,Coleman,AR,,city-us,0,33.774,-91.749,313
-9276,Coleman,GA,,city-us,0,31.673,-84.889,2145
-9279,Coleman,WV,,city-us,0,38.162,-82.475,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9269,Coleman,TX,Coleman County,,city-us,3917,31.827,-99.426,3234
+9275,Coleman,MI,Midland County,,city-us,1262,43.757,-84.586,3393
+9274,Coleman,WI,Marinette County,,city-us,728,45.065,-88.034,3121
+9277,Coleman,FL,Sumter County,,city-us,685,28.800,-82.070,3460
+9373,Colman,SD,Moody County,,city-us,629,43.982,-96.814,3251
+9273,Coleman,OK,Johnston County,,city-us,290,34.271,-96.419,835
+9278,Coleman,KS,Washington County,,city-us,62,39.778,-97.190,0
+9272,Coleman,NE,Holt County,,city-us,40,42.761,-98.688,244
+9268,Coleman,MO,Cass County,,city-us,0,38.751,-94.395,261
+9270,Coleman,OH,Columbiana County,,city-us,0,40.796,-80.813,279
+9271,Coleman,AR,Drew County,,city-us,0,33.774,-91.749,313
+9276,Coleman,GA,Randolph County,,city-us,0,31.673,-84.889,2145
+9279,Coleman,WV,Wayne County,,city-us,0,38.162,-82.475,95

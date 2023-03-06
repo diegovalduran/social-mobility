@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23307,Kurtz,MI,,city-us,1236,44.557,-83.761,4280
-23308,Kurtz,MN,,city-us,257,46.762,-96.730,1983
-23309,Kurtz,IN,,city-us,0,38.961,-86.203,754
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23307,Kurtz,MI,Alcona County,,city-us,1236,44.557,-83.761,4280
+23308,Kurtz,MN,Clay County,,city-us,257,46.762,-96.730,1983
+23309,Kurtz,IN,Jackson County,,city-us,0,38.961,-86.203,754

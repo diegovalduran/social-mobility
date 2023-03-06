@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26218,Mabie,CA,,city-us,72,39.794,-120.521,2296
-26219,Mabie,WV,,city-us,0,38.876,-79.983,888
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26218,Mabie,CA,Plumas County,,city-us,72,39.794,-120.521,2296
+26219,Mabie,WV,Randolph County,,city-us,0,38.876,-79.983,888

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32172,Olean,NY,,city-us,1873,42.061,-78.424,17011
-32174,Olean,MO,,city-us,116,38.411,-92.529,4170
-32176,Olean,SD,,city-us,40,45.110,-98.043,0
-32173,Olean,NE,,city-us,0,41.736,-96.945,191
-32175,Olean,IN,,city-us,0,38.990,-85.219,576
-32177,Olean,NE,,city-us,0,41.561,-98.808,131
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32172,Olean,NY,Cattaraugus County,,city-us,1873,42.061,-78.424,17011
+32174,Olean,MO,Miller County,,city-us,116,38.411,-92.529,4170
+32176,Olean,SD,Spink County,,city-us,40,45.110,-98.043,0
+32173,Olean,NE,Colfax County,,city-us,0,41.736,-96.945,191
+32175,Olean,IN,Ripley County,,city-us,0,38.990,-85.219,576
+32177,Olean,NE,Valley County,,city-us,0,41.561,-98.808,131

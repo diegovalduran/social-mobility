@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5909,Bucyrus,OH,,city-us,800,40.767,-83.023,1129
-5910,Bucyrus,KS,,city-us,232,38.726,-94.718,687
-5908,Bucyrus,ND,,city-us,29,46.076,-102.809,170
-5911,Bucyrus,MO,,city-us,0,37.344,-92.017,386
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5909,Bucyrus,OH,Crawford County,,city-us,800,40.767,-83.023,1129
+5910,Bucyrus,KS,Miami County,,city-us,232,38.726,-94.718,687
+5908,Bucyrus,ND,Adams County,,city-us,29,46.076,-102.809,170
+5911,Bucyrus,MO,Texas County,,city-us,0,37.344,-92.017,386

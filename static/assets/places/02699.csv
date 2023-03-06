@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13394,Ellenton,FL,,city-us,5504,27.522,-82.528,3105
-13393,Ellenton,GA,,city-us,213,31.176,-83.587,1901
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13394,Ellenton,FL,Manatee County,,city-us,5504,27.522,-82.528,3105
+13393,Ellenton,GA,Colquitt County,,city-us,213,31.176,-83.587,1901

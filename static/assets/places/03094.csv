@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15474,Fortuna,CA,,city-us,12482,40.598,-124.157,10137
-15475,Fortuna,MO,,city-us,130,38.567,-92.798,226
-15473,Fortuna,ND,,city-us,31,48.910,-103.779,4428
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15474,Fortuna,CA,Humboldt County,,city-us,12482,40.598,-124.157,10137
+15475,Fortuna,MO,Moniteau County,,city-us,130,38.567,-92.798,226
+15473,Fortuna,ND,Divide County,,city-us,31,48.910,-103.779,4428

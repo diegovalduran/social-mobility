@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28868,Minnesota Lake,MN,,city-us,652,43.842,-93.829,3302
-28869,Minnesota Lake,MN,,city-us,170,43.804,-93.833,1770
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28868,Minnesota Lake,MN,Blue Earth County / Faribault County,,city-us,652,43.842,-93.829,3302
+28869,Minnesota Lake,MN,Faribault County,,city-us,170,43.804,-93.833,1770

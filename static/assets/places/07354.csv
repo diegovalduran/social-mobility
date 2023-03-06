@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37775,Rowe,NM,,city-us,522,35.492,-105.675,1039
-37774,Rowe,MA,,city-us,422,42.696,-72.909,8542
-37337,Roe,AR,,city-us,68,34.633,-91.385,2687
-37773,Rowe,VA,,city-us,0,37.136,-82.032,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37775,Rowe,NM,San Miguel County,,city-us,522,35.492,-105.675,1039
+37774,Rowe,MA,Franklin County,,city-us,422,42.696,-72.909,8542
+37337,Roe,AR,Monroe County,,city-us,68,34.633,-91.385,2687
+37773,Rowe,VA,Buchanan County,,city-us,0,37.136,-82.032,279

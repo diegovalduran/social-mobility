@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25960,Luckey,OH,,city-us,1010,41.451,-83.487,3744
-25964,Lucky,LA,,city-us,249,32.255,-92.997,2015
-25965,Lucky,KY,,city-us,0,36.737,-84.072,90
-25966,Lucky,WV,,city-us,0,39.170,-81.547,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25960,Luckey,OH,Wood County,,city-us,1010,41.451,-83.487,3744
+25964,Lucky,LA,Bienville Parish,,city-us,249,32.255,-92.997,2015
+25965,Lucky,KY,Whitley County,,city-us,0,36.737,-84.072,90
+25966,Lucky,WV,Wood County,,city-us,0,39.170,-81.547,85

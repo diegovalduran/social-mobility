@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21038,Hunter's Creek,FL,,city-us,24433,28.357,-81.428,4336
-21042,Hunters Creek,FL,,city-us,19554,28.361,-81.422,0
-21041,Hunters Creek,MI,,city-us,5056,43.019,-83.290,2889
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21038,Hunter's Creek,FL,Orange County,,city-us,24433,28.357,-81.428,4336
+21042,Hunters Creek,FL,Orange County,,city-us,19554,28.361,-81.422,0
+21041,Hunters Creek,MI,Lapeer County,,city-us,5056,43.019,-83.290,2889

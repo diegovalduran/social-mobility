@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19268,Hatley,WI,,city-us,665,44.887,-89.339,4208
-19269,Hatley,MS,,city-us,494,33.977,-88.421,2389
-19267,Hatley,GA,,city-us,0,31.899,-83.613,296
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19268,Hatley,WI,Marathon County,,city-us,665,44.887,-89.339,4208
+19269,Hatley,MS,Monroe County,,city-us,494,33.977,-88.421,2389
+19267,Hatley,GA,Crisp County,,city-us,0,31.899,-83.613,296

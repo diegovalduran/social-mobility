@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31361,North East,PA,,city-us,6500,42.200,-79.826,2320
-31359,North East,MD,,city-us,4094,39.600,-75.941,4968
-31360,North East,NY,,city-us,2961,41.946,-73.547,4535
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31361,North East,PA,Erie County,,city-us,6500,42.200,-79.826,2320
+31359,North East,MD,Cecil County,,city-us,4094,39.600,-75.941,4968
+31360,North East,NY,Dutchess County,,city-us,2961,41.946,-73.547,4535

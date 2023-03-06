@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7268,Castroville,CA,,city-us,7515,36.766,-121.758,15987
-7267,Castroville,TX,,city-us,3005,29.356,-98.879,4338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7268,Castroville,CA,Monterey County,,city-us,7515,36.766,-121.758,15987
+7267,Castroville,TX,Medina County,,city-us,3005,29.356,-98.879,4338

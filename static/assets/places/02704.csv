@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13419,Ellis,MI,,city-us,561,45.342,-84.549,2154
-13422,Ellis,KS,,city-us,443,38.995,-99.511,539
-13418,Ellis,MN,,city-us,0,46.514,-94.697,198
-13420,Ellis,IL,,city-us,0,39.590,-89.529,117
-13421,Ellis,ID,,city-us,0,44.692,-114.048,450
-13423,Ellis,NE,,city-us,0,40.218,-96.876,240
-13424,Ellis,IN,,city-us,0,39.064,-87.223,187
-13425,Ellis,SD,,city-us,0,43.563,-96.831,686
-13426,Ellis,OH,,city-us,0,40.046,-81.983,330
-13427,Ellis,WI,,city-us,0,44.575,-89.447,743
-13428,Ellis,IN,,city-us,0,41.633,-84.916,258
-13429,Ellis,MO,,city-us,0,37.825,-94.449,346
-13618,Elys,KY,,city-us,0,36.816,-83.757,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13419,Ellis,MI,Cheboygan County,,city-us,561,45.342,-84.549,2154
+13422,Ellis,KS,Ellis County,,city-us,443,38.995,-99.511,539
+13418,Ellis,MN,Cass County,,city-us,0,46.514,-94.697,198
+13420,Ellis,IL,Christian County,,city-us,0,39.590,-89.529,117
+13421,Ellis,ID,Custer County,,city-us,0,44.692,-114.048,450
+13423,Ellis,NE,Gage County,,city-us,0,40.218,-96.876,240
+13424,Ellis,IN,Greene County,,city-us,0,39.064,-87.223,187
+13425,Ellis,SD,Minnehaha County,,city-us,0,43.563,-96.831,686
+13426,Ellis,OH,Muskingum County,,city-us,0,40.046,-81.983,330
+13427,Ellis,WI,Portage County,,city-us,0,44.575,-89.447,743
+13428,Ellis,IN,Steuben County,,city-us,0,41.633,-84.916,258
+13429,Ellis,MO,Vernon County,,city-us,0,37.825,-94.449,346
+13618,Elys,KY,Knox County,,city-us,0,36.816,-83.757,146

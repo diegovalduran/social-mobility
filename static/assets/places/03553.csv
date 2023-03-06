@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18134,Greer,SC,,city-us,38865,34.930,-82.238,12842
-18132,Greer,AZ,,city-us,0,34.010,-109.459,13006
-18133,Greer,ID,,city-us,0,46.390,-116.175,633
-18135,Greer,OH,,city-us,0,40.522,-82.200,332
-18136,Greer,WV,,city-us,0,38.819,-82.030,266
-18137,Greer,WV,,city-us,0,39.572,-79.849,104
-18138,Greer,MO,,city-us,0,36.769,-91.353,520
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18134,Greer,SC,Greenville County / Spartanburg County,,city-us,38865,34.930,-82.238,12842
+18132,Greer,AZ,Apache County,,city-us,0,34.010,-109.459,13006
+18133,Greer,ID,Clearwater County,,city-us,0,46.390,-116.175,633
+18135,Greer,OH,Knox County,,city-us,0,40.522,-82.200,332
+18136,Greer,WV,Mason County,,city-us,0,38.819,-82.030,266
+18137,Greer,WV,Monongalia County,,city-us,0,39.572,-79.849,104
+18138,Greer,MO,Oregon County,,city-us,0,36.769,-91.353,520

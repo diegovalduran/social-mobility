@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42488,Tangier,,Morocco,city-international,947952,35.777,-5.804,43930
-42486,Tangier,VA,,city-us,431,37.826,-75.992,21587
-42487,Tangier,IN,,city-us,0,39.919,-87.318,416
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42488,Tangier,,,Morocco,city-international,947952,35.777,-5.804,43930
+42486,Tangier,VA,Accomack County,,city-us,431,37.826,-75.992,21587
+42487,Tangier,IN,Parke County,,city-us,0,39.919,-87.318,416

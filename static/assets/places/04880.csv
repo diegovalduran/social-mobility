@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25094,Linkville,MI,,city-us,2044,43.815,-83.282,2512
-25095,Linkville,IN,,city-us,0,41.416,-86.287,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25094,Linkville,MI,Huron County,,city-us,2044,43.815,-83.282,2512
+25095,Linkville,IN,Marshall County,,city-us,0,41.416,-86.287,263

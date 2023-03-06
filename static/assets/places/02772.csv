@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13790,Enola,PA,,city-us,6030,40.290,-76.934,3462
-13791,Enola,AR,,city-us,323,35.195,-92.203,2459
-13792,Enola,NE,,city-us,0,41.904,-97.463,438
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13790,Enola,PA,Cumberland County,,city-us,6030,40.290,-76.934,3462
+13791,Enola,AR,Faulkner County,,city-us,323,35.195,-92.203,2459
+13792,Enola,NE,Madison County,,city-us,0,41.904,-97.463,438

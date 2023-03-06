@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25205,Little Hope,AL,,city-us,0,33.007,-87.282,176
-25206,Little Hope,PA,,city-us,0,42.099,-79.819,267
-25207,Little Hope,WI,,city-us,0,44.318,-89.109,269
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25205,Little Hope,AL,Bibb County,,city-us,0,33.007,-87.282,176
+25206,Little Hope,PA,Erie County,,city-us,0,42.099,-79.819,267
+25207,Little Hope,WI,Waupaca County,,city-us,0,44.318,-89.109,269

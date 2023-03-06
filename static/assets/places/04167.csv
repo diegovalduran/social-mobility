@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21422,Ingomar,CA,,city-us,0,37.180,-120.968,427
-21423,Ingomar,OH,,city-us,0,39.712,-84.500,254
-21424,Ingomar,MT,,city-us,0,46.577,-107.372,955
-21425,Ingomar,MS,,city-us,0,34.409,-89.037,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21422,Ingomar,CA,Merced County,,city-us,0,37.180,-120.968,427
+21423,Ingomar,OH,Preble County,,city-us,0,39.712,-84.500,254
+21424,Ingomar,MT,Rosebud County,,city-us,0,46.577,-107.372,955
+21425,Ingomar,MS,Union County,,city-us,0,34.409,-89.037,195

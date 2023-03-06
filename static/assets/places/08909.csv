@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44704,Vivian,LA,,city-us,3015,32.872,-93.987,5188
-44708,Vivian,MN,,city-us,228,43.884,-93.713,1920
-44707,Vivian,ND,,city-us,92,46.243,-97.840,0
-44705,Vivian,SD,,city-us,81,43.927,-100.292,2706
-44706,Vivian,WV,,city-us,0,37.418,-81.487,335
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44704,Vivian,LA,Caddo Parish,,city-us,3015,32.872,-93.987,5188
+44708,Vivian,MN,Waseca County,,city-us,228,43.884,-93.713,1920
+44707,Vivian,ND,Sargent County,,city-us,92,46.243,-97.840,0
+44705,Vivian,SD,Lyman County,,city-us,81,43.927,-100.292,2706
+44706,Vivian,WV,McDowell County,,city-us,0,37.418,-81.487,335

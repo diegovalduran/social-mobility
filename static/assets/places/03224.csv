@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16254,Ganges,MI,,city-us,2574,42.542,-86.199,3260
-16255,Ganges,OH,,city-us,0,40.906,-82.561,364
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16254,Ganges,MI,Allegan County,,city-us,2574,42.542,-86.199,3260
+16255,Ganges,OH,Richland County,,city-us,0,40.906,-82.561,364

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10826,Dahlgren,VA,,city-us,3448,38.331,-77.051,4503
-10825,Dahlgren,IL,,city-us,498,38.198,-88.684,9741
-10824,Dahlgren,MN,,city-us,0,44.777,-93.684,197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10826,Dahlgren,VA,King George County,,city-us,3448,38.331,-77.051,4503
+10825,Dahlgren,IL,Hamilton County,,city-us,498,38.198,-88.684,9741
+10824,Dahlgren,MN,Carver County,,city-us,0,44.777,-93.684,197

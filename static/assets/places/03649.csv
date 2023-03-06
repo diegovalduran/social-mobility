@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18493,Halls Corner,MI,,city-us,1035,43.518,-85.259,4700
-18492,Halls Corner,CA,,city-us,0,36.343,-119.806,290
-18494,Halls Corner,NJ,,city-us,0,40.417,-74.412,211
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18493,Halls Corner,MI,Mecosta County,,city-us,1035,43.518,-85.259,4700
+18492,Halls Corner,CA,Kings County,,city-us,0,36.343,-119.806,290
+18494,Halls Corner,NJ,Middlesex County,,city-us,0,40.417,-74.412,211

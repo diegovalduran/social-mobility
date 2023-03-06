@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21675,Iva,MI,,city-us,4144,43.419,-84.220,2184
-21673,Iva,SC,,city-us,1139,34.306,-82.664,2354
-21674,Iva,IN,,city-us,0,38.503,-87.119,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21675,Iva,MI,Saginaw County,,city-us,4144,43.419,-84.220,2184
+21673,Iva,SC,Anderson County,,city-us,1139,34.306,-82.664,2354
+21674,Iva,IN,Pike County,,city-us,0,38.503,-87.119,254

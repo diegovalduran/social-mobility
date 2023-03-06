@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13399,Ellicott,NY,,city-us,8708,42.133,-79.236,5086
-13400,Ellicott,CO,,city-us,1282,38.838,-104.387,945
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13399,Ellicott,NY,Chautauqua County,,city-us,8708,42.133,-79.236,5086
+13400,Ellicott,CO,El Paso County,,city-us,1282,38.838,-104.387,945

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21290,Index,WA,,city-us,156,47.821,-121.555,7886
-21286,Index,WV,,city-us,0,38.880,-80.987,113
-21287,Index,VA,,city-us,0,38.194,-77.080,602
-21288,Index,AR,,city-us,0,33.547,-94.042,188
-21289,Index,KY,,city-us,0,37.898,-83.285,108
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21290,Index,WA,Snohomish County,,city-us,156,47.821,-121.555,7886
+21286,Index,WV,Gilmer County,,city-us,0,38.880,-80.987,113
+21287,Index,VA,King George County,,city-us,0,38.194,-77.080,602
+21288,Index,AR,Miller County,,city-us,0,33.547,-94.042,188
+21289,Index,KY,Morgan County,,city-us,0,37.898,-83.285,108

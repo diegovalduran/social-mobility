@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11972,Doniphan,MO,,city-us,1712,36.621,-90.823,6127
-11971,Doniphan,NE,,city-us,800,40.772,-98.370,3688
-11970,Doniphan,KS,,city-us,0,39.642,-95.081,553
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11972,Doniphan,MO,Ripley County,,city-us,1712,36.621,-90.823,6127
+11971,Doniphan,NE,Hall County,,city-us,800,40.772,-98.370,3688
+11970,Doniphan,KS,Doniphan County,,city-us,0,39.642,-95.081,553

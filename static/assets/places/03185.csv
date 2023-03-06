@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16069,Fruitdale,OR,,city-us,3780,42.416,-123.321,2069
-16071,Fruitdale,CA,,city-us,1357,37.311,-121.933,4109
-16072,Fruitdale,AL,,city-us,197,31.343,-88.408,487
-16068,Fruitdale,SD,,city-us,74,44.668,-103.697,2884
-16067,Fruitdale,IN,,city-us,0,39.322,-86.258,307
-16070,Fruitdale,OH,,city-us,0,39.302,-83.340,346
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16069,Fruitdale,OR,Josephine County,,city-us,3780,42.416,-123.321,2069
+16071,Fruitdale,CA,Santa Clara County,,city-us,1357,37.311,-121.933,4109
+16072,Fruitdale,AL,Washington County,,city-us,197,31.343,-88.408,487
+16068,Fruitdale,SD,Butte County,,city-us,74,44.668,-103.697,2884
+16067,Fruitdale,IN,Brown County,,city-us,0,39.322,-86.258,307
+16070,Fruitdale,OH,Ross County,,city-us,0,39.302,-83.340,346

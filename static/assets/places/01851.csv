@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9489,Colville,WA,,city-us,4968,48.547,-117.906,5779
-9487,Colville,ND,,city-us,81,48.591,-102.693,0
-9486,Colville,AR,,city-us,0,36.259,-94.195,282
-9488,Colville,KY,,city-us,0,38.365,-84.210,366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9489,Colville,WA,Stevens County,,city-us,4968,48.547,-117.906,5779
+9487,Colville,ND,Burke County,,city-us,81,48.591,-102.693,0
+9486,Colville,AR,Benton County,,city-us,0,36.259,-94.195,282
+9488,Colville,KY,Harrison County,,city-us,0,38.365,-84.210,366

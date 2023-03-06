@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7800,Chambers,NE,,city-us,427,42.219,-98.768,298
-7799,Chambers,AZ,,city-us,0,35.189,-109.433,1935
-7801,Chambers,WV,,city-us,0,37.821,-81.880,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7800,Chambers,NE,Holt County,,city-us,427,42.219,-98.768,298
+7799,Chambers,AZ,Apache County,,city-us,0,35.189,-109.433,1935
+7801,Chambers,WV,Logan County,,city-us,0,37.821,-81.880,88

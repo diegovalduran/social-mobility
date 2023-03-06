@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33631,Pepperton,MN,,city-us,105,45.622,-96.078,1816
-33630,Pepperton,GA,,city-us,0,33.293,-83.945,288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33631,Pepperton,MN,Stevens County,,city-us,105,45.622,-96.078,1816
+33630,Pepperton,GA,Butts County,,city-us,0,33.293,-83.945,288

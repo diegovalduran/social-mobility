@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2816,Beach City,TX,,city-us,3208,29.662,-94.890,8506
-2817,Beach City,OH,,city-us,932,40.653,-81.581,3334
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2816,Beach City,TX,Chambers County,,city-us,3208,29.662,-94.890,8506
+2817,Beach City,OH,Stark County,,city-us,932,40.653,-81.581,3334

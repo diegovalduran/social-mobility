@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16495,Gaylord,MI,,city-us,4314,45.028,-84.675,14826
-16496,Gaylord,MN,,city-us,2295,44.553,-94.221,3635
-16497,Gaylord,KS,,city-us,83,39.644,-98.848,3506
-16493,Gaylord,VA,,city-us,0,39.188,-77.931,206
-16494,Gaylord,OR,,city-us,0,42.955,-124.107,473
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16495,Gaylord,MI,Otsego County,,city-us,4314,45.028,-84.675,14826
+16496,Gaylord,MN,Sibley County,,city-us,2295,44.553,-94.221,3635
+16497,Gaylord,KS,Smith County,,city-us,83,39.644,-98.848,3506
+16493,Gaylord,VA,Clarke County,,city-us,0,39.188,-77.931,206
+16494,Gaylord,OR,Coos County,,city-us,0,42.955,-124.107,473

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11230,Deanville,TX,,city-us,63,30.432,-96.757,248
-11229,Deanville,PA,,city-us,0,40.950,-79.398,737
-11231,Deanville,WV,,city-us,0,38.990,-80.206,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11230,Deanville,TX,Burleson County,,city-us,63,30.432,-96.757,248
+11229,Deanville,PA,Armstrong County,,city-us,0,40.950,-79.398,737
+11231,Deanville,WV,Upshur County,,city-us,0,38.990,-80.206,90

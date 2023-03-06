@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16501,Geddes,NY,,city-us,17007,43.077,-76.225,7040
-16502,Geddes,MI,,city-us,4361,42.296,-83.720,4599
-16500,Geddes,SD,,city-us,157,43.254,-98.695,5205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16501,Geddes,NY,Onondaga County,,city-us,17007,43.077,-76.225,7040
+16502,Geddes,MI,Washtenaw County,,city-us,4361,42.296,-83.720,4599
+16500,Geddes,SD,Charles Mix County,,city-us,157,43.254,-98.695,5205

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32844,Ozone,AR,,city-us,92,35.641,-93.443,804
-32843,Ozone,TN,,city-us,0,35.882,-84.809,1698
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32844,Ozone,AR,Johnson County,,city-us,92,35.641,-93.443,804
+32843,Ozone,TN,Cumberland County,,city-us,0,35.882,-84.809,1698

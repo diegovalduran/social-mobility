@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41588,Stoneham,MA,,city-us,23077,42.480,-71.100,9916
-41589,Stoneham,ME,,city-us,264,44.263,-70.875,2902
-41586,Stoneham,MN,,city-us,197,44.927,-95.448,1934
-41590,Stoneham,CO,,city-us,20,40.605,-103.666,1382
-41587,Stoneham,TX,,city-us,0,30.342,-95.912,1887
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41588,Stoneham,MA,Middlesex County,,city-us,23077,42.480,-71.100,9916
+41589,Stoneham,ME,Oxford County,,city-us,264,44.263,-70.875,2902
+41586,Stoneham,MN,Chippewa County,,city-us,197,44.927,-95.448,1934
+41590,Stoneham,CO,Weld County,,city-us,20,40.605,-103.666,1382
+41587,Stoneham,TX,Grimes County,,city-us,0,30.342,-95.912,1887

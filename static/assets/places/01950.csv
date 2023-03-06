@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9940,Corner,NE,,city-us,23,41.698,-99.270,243
-9941,Corner,AL,,city-us,0,33.800,-86.942,1751
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9940,Corner,NE,Custer County,,city-us,23,41.698,-99.270,243
+9941,Corner,AL,Jefferson County,,city-us,0,33.800,-86.942,1751

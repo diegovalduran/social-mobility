@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32130,Old Church,VA,,city-us,0,37.645,-77.221,477
-32131,Old Church,NJ,,city-us,0,40.291,-74.463,1014
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32130,Old Church,VA,Hanover County,,city-us,0,37.645,-77.221,477
+32131,Old Church,NJ,Middlesex County,,city-us,0,40.291,-74.463,1014

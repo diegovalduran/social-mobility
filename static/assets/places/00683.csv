@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3454,Bennett,CO,,city-us,3295,39.746,-104.443,5622
-3457,Bennett,WI,,city-us,597,46.449,-91.854,2275
-3459,Bennett,KS,,city-us,589,37.430,-97.862,677
-3456,Bennett,NC,,city-us,386,35.565,-79.544,2937
-3455,Bennett,IA,,city-us,344,41.740,-90.974,3426
-3458,Bennett,NE,,city-us,66,40.575,-97.776,152
-3460,Bennett,WV,,city-us,0,38.891,-80.565,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3454,Bennett,CO,Adams County / Arapahoe County,,city-us,3295,39.746,-104.443,5622
+3457,Bennett,WI,Douglas County,,city-us,597,46.449,-91.854,2275
+3459,Bennett,KS,Kingman County,,city-us,589,37.430,-97.862,677
+3456,Bennett,NC,Chatham County,,city-us,386,35.565,-79.544,2937
+3455,Bennett,IA,Cedar County,,city-us,344,41.740,-90.974,3426
+3458,Bennett,NE,Fillmore County,,city-us,66,40.575,-97.776,152
+3460,Bennett,WV,Lewis County,,city-us,0,38.891,-80.565,87

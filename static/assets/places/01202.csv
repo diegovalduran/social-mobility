@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6047,Bull Moose,MN,,city-us,145,46.766,-94.604,2348
-6048,Bull Moose,ND,,city-us,37,47.472,-99.969,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6047,Bull Moose,MN,Cass County,,city-us,145,46.766,-94.604,2348
+6048,Bull Moose,ND,Wells County,,city-us,37,47.472,-99.969,0

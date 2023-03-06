@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9760,Coolin,ND,,city-us,17,48.414,-99.020,0
-9759,Coolin,ID,,city-us,0,48.480,-116.849,1930
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9760,Coolin,ND,Towner County,,city-us,17,48.414,-99.020,0
+9759,Coolin,ID,Bonner County,,city-us,0,48.480,-116.849,1930

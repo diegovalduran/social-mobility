@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33231,Parrish,AL,,city-us,980,33.731,-87.284,2575
-33229,Parrish,WI,,city-us,91,45.420,-89.403,2006
-33228,Parrish,IL,,city-us,0,37.941,-88.813,853
-33230,Parrish,FL,,city-us,0,27.587,-82.425,1900
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33231,Parrish,AL,Walker County,,city-us,980,33.731,-87.284,2575
+33229,Parrish,WI,Langlade County,,city-us,91,45.420,-89.403,2006
+33228,Parrish,IL,Franklin County,,city-us,0,37.941,-88.813,853
+33230,Parrish,FL,Manatee County,,city-us,0,27.587,-82.425,1900

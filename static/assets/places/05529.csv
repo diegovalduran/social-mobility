@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28391,Mifflin,OH,,city-us,38044,40.026,-82.872,262
-28397,Mifflin,OH,,city-us,6114,40.771,-82.410,262
-28388,Mifflin,PA,,city-us,2296,41.019,-76.285,538
-28396,Mifflin,OH,,city-us,1203,39.102,-83.318,262
-28395,Mifflin,PA,,city-us,1084,41.299,-77.248,538
-28390,Mifflin,PA,,city-us,814,40.604,-76.838,538
-28398,Mifflin,OH,,city-us,765,40.782,-83.372,262
-28392,Mifflin,WI,,city-us,617,42.871,-90.354,2458
-28393,Mifflin,PA,,city-us,527,40.570,-77.403,2388
-28386,Mifflin,OH,,city-us,154,40.774,-82.364,3221
-28387,Mifflin,TN,,city-us,0,35.553,-88.580,788
-28389,Mifflin,IN,,city-us,0,38.306,-86.540,203
-28394,Mifflin,WV,,city-us,0,37.941,-81.822,87
-28399,Miflin,AL,,city-us,0,30.371,-87.611,427
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28391,Mifflin,OH,Franklin County,,city-us,38044,40.026,-82.872,262
+28397,Mifflin,OH,Richland County,,city-us,6114,40.771,-82.410,262
+28388,Mifflin,PA,Columbia County,,city-us,2296,41.019,-76.285,538
+28396,Mifflin,OH,Pike County,,city-us,1203,39.102,-83.318,262
+28395,Mifflin,PA,Lycoming County,,city-us,1084,41.299,-77.248,538
+28390,Mifflin,PA,Dauphin County,,city-us,814,40.604,-76.838,538
+28398,Mifflin,OH,Wyandot County,,city-us,765,40.782,-83.372,262
+28392,Mifflin,WI,Iowa County,,city-us,617,42.871,-90.354,2458
+28393,Mifflin,PA,Juniata County,,city-us,527,40.570,-77.403,2388
+28386,Mifflin,OH,Ashland County,,city-us,154,40.774,-82.364,3221
+28387,Mifflin,TN,Chester County,,city-us,0,35.553,-88.580,788
+28389,Mifflin,IN,Crawford County,,city-us,0,38.306,-86.540,203
+28394,Mifflin,WV,Logan County,,city-us,0,37.941,-81.822,87
+28399,Miflin,AL,Baldwin County,,city-us,0,30.371,-87.611,427

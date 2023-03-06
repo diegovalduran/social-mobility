@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16209,Galesburg,MI,,city-us,2045,42.289,-85.418,4061
-16211,Galesburg,IL,,city-us,384,40.911,-90.411,737
-16210,Galesburg,KS,,city-us,208,37.693,-97.969,899
-16212,Galesburg,KS,,city-us,147,37.474,-95.359,3766
-16214,Galesburg,ND,,city-us,63,47.275,-97.378,3092
-16207,Galesburg,IA,,city-us,0,41.559,-92.946,527
-16208,Galesburg,MO,,city-us,0,37.269,-94.516,342
-16213,Galesburg,MO,,city-us,0,40.519,-93.313,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16209,Galesburg,MI,Kalamazoo County,,city-us,2045,42.289,-85.418,4061
+16211,Galesburg,IL,Knox County,,city-us,384,40.911,-90.411,737
+16210,Galesburg,KS,Kingman County,,city-us,208,37.693,-97.969,899
+16212,Galesburg,KS,Neosho County,,city-us,147,37.474,-95.359,3766
+16214,Galesburg,ND,Traill County,,city-us,63,47.275,-97.378,3092
+16207,Galesburg,IA,Jasper County,,city-us,0,41.559,-92.946,527
+16208,Galesburg,MO,Jasper County,,city-us,0,37.269,-94.516,342
+16213,Galesburg,MO,Putnam County,,city-us,0,40.519,-93.313,123

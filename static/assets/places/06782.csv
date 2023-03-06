@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34463,Plantersville,AL,,city-us,1412,32.657,-86.924,1359
-34466,Plantersville,MS,,city-us,848,34.213,-88.665,2184
-34464,Plantersville,SC,,city-us,0,33.556,-79.215,622
-34465,Plantersville,TX,,city-us,0,30.333,-95.863,634
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34463,Plantersville,AL,Dallas County,,city-us,1412,32.657,-86.924,1359
+34466,Plantersville,MS,Lee County,,city-us,848,34.213,-88.665,2184
+34464,Plantersville,SC,Georgetown County,,city-us,0,33.556,-79.215,622
+34465,Plantersville,TX,Grimes County,,city-us,0,30.333,-95.863,634

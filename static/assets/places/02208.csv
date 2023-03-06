@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11062,Date,MO,,city-us,493,37.090,-91.710,259
-11061,Date,SD,,city-us,0,45.367,-102.680,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11062,Date,MO,Texas County,,city-us,493,37.090,-91.710,259
+11061,Date,SD,Perkins County,,city-us,0,45.367,-102.680,229

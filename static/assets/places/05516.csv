@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28189,Middleport,IL,,city-us,3692,40.816,-87.708,1216
-28190,Middleport,OH,,city-us,2181,39.002,-82.049,4627
-28191,Middleport,NY,,city-us,1720,43.213,-78.476,2988
-28192,Middleport,PA,,city-us,363,40.730,-76.085,2021
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28189,Middleport,IL,Iroquois County,,city-us,3692,40.816,-87.708,1216
+28190,Middleport,OH,Meigs County,,city-us,2181,39.002,-82.049,4627
+28191,Middleport,NY,Niagara County,,city-us,1720,43.213,-78.476,2988
+28192,Middleport,PA,Schuylkill County,,city-us,363,40.730,-76.085,2021

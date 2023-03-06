@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13093,Eglon,MN,,city-us,713,46.841,-96.240,1920
-13094,Eglon,WA,,city-us,0,47.869,-122.519,4950
-13095,Eglon,WV,,city-us,0,39.301,-79.519,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13093,Eglon,MN,Clay County,,city-us,713,46.841,-96.240,1920
+13094,Eglon,WA,Kitsap County,,city-us,0,47.869,-122.519,4950
+13095,Eglon,WV,Preston County,,city-us,0,39.301,-79.519,261

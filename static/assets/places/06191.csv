@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31618,Nottingham,,United Kingdom,city-international,289301,52.953,-1.150,47869
-31615,Nottingham,NH,,city-us,5308,43.130,-71.132,4963
-31616,Nottingham,PA,,city-us,2912,40.214,-80.053,2092
-31610,Nottingham,PA,,city-us,1260,39.749,-76.019,617
-31611,Nottingham,OH,,city-us,305,40.264,-81.165,1105
-31609,Nottingham,MD,,city-us,0,39.364,-76.452,547
-31612,Nottingham,NJ,,city-us,0,40.233,-74.682,1038
-31613,Nottingham,VA,,city-us,0,37.345,-75.949,109
-31614,Nottingham,WV,,city-us,0,38.518,-79.843,174
-31617,Nottingham,IN,,city-us,0,40.581,-85.150,274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31618,Nottingham,,,United Kingdom,city-international,289301,52.953,-1.150,47869
+31615,Nottingham,NH,Rockingham County,,city-us,5308,43.130,-71.132,4963
+31616,Nottingham,PA,Washington County,,city-us,2912,40.214,-80.053,2092
+31610,Nottingham,PA,Chester County,,city-us,1260,39.749,-76.019,617
+31611,Nottingham,OH,Harrison County,,city-us,305,40.264,-81.165,1105
+31609,Nottingham,MD,Baltimore County,,city-us,0,39.364,-76.452,547
+31612,Nottingham,NJ,Mercer County,,city-us,0,40.233,-74.682,1038
+31613,Nottingham,VA,Northampton County,,city-us,0,37.345,-75.949,109
+31614,Nottingham,WV,Pocahontas County,,city-us,0,38.518,-79.843,174
+31617,Nottingham,IN,Wells County,,city-us,0,40.581,-85.150,274

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14000,Etta,MS,,city-us,1120,34.470,-89.228,157
-13999,Etta,OK,,city-us,73,35.825,-94.885,698
-13998,Etta,VA,,city-us,0,38.143,-77.173,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14000,Etta,MS,Union County,,city-us,1120,34.470,-89.228,157
+13999,Etta,OK,Cherokee County,,city-us,73,35.825,-94.885,698
+13998,Etta,VA,Caroline County,,city-us,0,38.143,-77.173,88

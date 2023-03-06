@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29515,Morley,MO,,city-us,642,37.044,-89.610,3511
-29514,Morley,MI,,city-us,487,43.491,-85.444,3649
-29513,Morley,IA,,city-us,97,42.006,-91.246,3013
-29512,Morley,TN,,city-us,0,36.551,-84.048,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29515,Morley,MO,Scott County,,city-us,642,37.044,-89.610,3511
+29514,Morley,MI,Mecosta County,,city-us,487,43.491,-85.444,3649
+29513,Morley,IA,Jones County,,city-us,97,42.006,-91.246,3013
+29512,Morley,TN,Campbell County,,city-us,0,36.551,-84.048,84

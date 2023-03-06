@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25237,Little Texas,AL,,city-us,0,32.443,-85.568,86
-25238,Little Texas,VA,,city-us,0,36.602,-77.339,149
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25237,Little Texas,AL,Macon County,,city-us,0,32.443,-85.568,86
+25238,Little Texas,VA,Southampton County,,city-us,0,36.602,-77.339,149

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33477,Pekin,IL,,city-us,31448,40.569,-89.625,19450
-33478,Pekin,IL,,city-us,27299,40.593,-89.627,340
-33474,Pekin,OH,,city-us,311,40.717,-81.122,700
-33476,Pekin,ND,,city-us,78,47.791,-98.328,3146
-33475,Pekin,IA,,city-us,0,41.163,-92.160,2273
-33479,Pekin,OH,,city-us,0,39.503,-84.199,328
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33477,Pekin,IL,Peoria County / Tazewell County,,city-us,31448,40.569,-89.625,19450
+33478,Pekin,IL,Tazewell County,,city-us,27299,40.593,-89.627,340
+33474,Pekin,OH,Carroll County,,city-us,311,40.717,-81.122,700
+33476,Pekin,ND,Nelson County,,city-us,78,47.791,-98.328,3146
+33475,Pekin,IA,Jefferson County,,city-us,0,41.163,-92.160,2273
+33479,Pekin,OH,Warren County,,city-us,0,39.503,-84.199,328

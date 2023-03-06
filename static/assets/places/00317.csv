@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1632,Ash Hill,MO,,city-us,0,36.776,-90.233,508
-1633,Ash Hill,CA,,city-us,0,34.707,-116.055,534
-1634,Ash Hill,NC,,city-us,0,36.393,-80.573,352
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1632,Ash Hill,MO,Butler County,,city-us,0,36.776,-90.233,508
+1633,Ash Hill,CA,San Bernardino County,,city-us,0,34.707,-116.055,534
+1634,Ash Hill,NC,Surry County,,city-us,0,36.393,-80.573,352

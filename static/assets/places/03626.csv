@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18405,Hagen,,Germany,city-international,188687,51.359,7.475,13011
-18402,Hagan,GA,,city-us,949,32.156,-81.934,2367
-18404,Hagen,MN,,city-us,130,47.100,-96.375,1660
-18401,Hagan,MN,,city-us,0,45.149,-95.776,107
-18403,Hagan,VA,,city-us,0,36.704,-83.287,266
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18405,Hagen,,,Germany,city-international,188687,51.359,7.475,13011
+18402,Hagan,GA,Evans County,,city-us,949,32.156,-81.934,2367
+18404,Hagen,MN,Clay County,,city-us,130,47.100,-96.375,1660
+18401,Hagan,MN,Chippewa County,,city-us,0,45.149,-95.776,107
+18403,Hagan,VA,Lee County,,city-us,0,36.704,-83.287,266

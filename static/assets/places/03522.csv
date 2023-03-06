@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17849,Green Pond,AL,,city-us,0,33.225,-87.126,202
-17850,Green Pond,NJ,,city-us,0,41.017,-74.478,6175
-17851,Green Pond,VA,,city-us,0,36.881,-79.509,98
-17852,Green Pond,SC,,city-us,0,34.800,-82.080,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17849,Green Pond,AL,Bibb County,,city-us,0,33.225,-87.126,202
+17850,Green Pond,NJ,Morris County,,city-us,0,41.017,-74.478,6175
+17851,Green Pond,VA,Pittsylvania County,,city-us,0,36.881,-79.509,98
+17852,Green Pond,SC,Spartanburg County,,city-us,0,34.800,-82.080,229

@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3265,Belleville,IL,,city-us,41751,38.520,-89.984,12248
-3257,Belleville,NJ,,city-us,37774,40.793,-74.161,18090
-3266,Belleville,MI,,city-us,3963,42.205,-83.485,5700
-3256,Belleville,WI,,city-us,2559,42.864,-89.540,4278
-3263,Belleville,PA,,city-us,1851,40.605,-77.726,2861
-3254,Belleville,KS,,city-us,522,37.058,-96.154,203
-3261,Belleville,NY,,city-us,334,43.783,-76.119,788
-3268,Belleville,AR,,city-us,312,35.093,-93.449,2284
-3264,Belleville,KS,,city-us,204,39.779,-97.652,203
-3255,Belleville,AL,,city-us,0,31.430,-87.109,573
-3258,Belleville,ND,,city-us,0,48.153,-97.798,199
-3259,Belleville,IN,,city-us,0,39.677,-86.488,933
-3260,Belleville,MO,,city-us,0,37.124,-94.591,271
-3262,Belleville,TN,,city-us,0,35.273,-86.554,277
-3267,Belleville,WV,,city-us,0,39.141,-81.736,5358
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3265,Belleville,IL,St. Clair County,,city-us,41751,38.520,-89.984,12248
+3257,Belleville,NJ,Essex County,,city-us,37774,40.793,-74.161,18090
+3266,Belleville,MI,Wayne County,,city-us,3963,42.205,-83.485,5700
+3256,Belleville,WI,Dane County / Green County,,city-us,2559,42.864,-89.540,4278
+3263,Belleville,PA,Mifflin County,,city-us,1851,40.605,-77.726,2861
+3254,Belleville,KS,Chautauqua County,,city-us,522,37.058,-96.154,203
+3261,Belleville,NY,Jefferson County,,city-us,334,43.783,-76.119,788
+3268,Belleville,AR,Yell County,,city-us,312,35.093,-93.449,2284
+3264,Belleville,KS,Republic County,,city-us,204,39.779,-97.652,203
+3255,Belleville,AL,Conecuh County,,city-us,0,31.430,-87.109,573
+3258,Belleville,ND,Grand Forks County,,city-us,0,48.153,-97.798,199
+3259,Belleville,IN,Hendricks County,,city-us,0,39.677,-86.488,933
+3260,Belleville,MO,Jasper County,,city-us,0,37.124,-94.591,271
+3262,Belleville,TN,Lincoln County,,city-us,0,35.273,-86.554,277
+3267,Belleville,WV,Wood County,,city-us,0,39.141,-81.736,5358

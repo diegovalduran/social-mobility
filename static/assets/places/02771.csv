@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13786,Enoch,UT,,city-us,8016,37.773,-113.024,4793
-13788,Enoch,OH,,city-us,430,39.708,-81.432,1287
-13785,Enoch,WV,,city-us,0,38.424,-80.934,190
-13787,Enoch,KY,,city-us,0,37.543,-83.676,78
-13789,Enoch,TX,,city-us,0,32.719,-94.992,1394
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13786,Enoch,UT,Iron County,,city-us,8016,37.773,-113.024,4793
+13788,Enoch,OH,Noble County,,city-us,430,39.708,-81.432,1287
+13785,Enoch,WV,Clay County,,city-us,0,38.424,-80.934,190
+13787,Enoch,KY,Lee County,,city-us,0,37.543,-83.676,78
+13789,Enoch,TX,Upshur County,,city-us,0,32.719,-94.992,1394

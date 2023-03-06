@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44045,Utley,WI,,city-us,1258,43.727,-88.906,2262
-44043,Utley,OH,,city-us,0,39.387,-81.910,215
-44044,Utley,TX,,city-us,0,30.182,-97.421,1671
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44045,Utley,WI,Green Lake County,,city-us,1258,43.727,-88.906,2262
+44043,Utley,OH,Athens County,,city-us,0,39.387,-81.910,215
+44044,Utley,TX,Bastrop County,,city-us,0,30.182,-97.421,1671

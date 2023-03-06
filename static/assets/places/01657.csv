@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8362,Chrome,CA,,city-us,0,39.729,-122.549,224
-8363,Chrome,NJ,,city-us,0,40.576,-74.216,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8362,Chrome,CA,Glenn County,,city-us,0,39.729,-122.549,224
+8363,Chrome,NJ,Middlesex County,,city-us,0,40.576,-74.216,235

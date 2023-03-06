@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40210,Snyderville,UT,,city-us,5964,40.694,-111.544,2216
-40171,Sniderville,WI,,city-us,0,44.352,-88.191,364
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40210,Snyderville,UT,Summit County,,city-us,5964,40.694,-111.544,2216
+40171,Sniderville,WI,Brown County,,city-us,0,44.352,-88.191,364

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30321,Nauvoo,IL,,city-us,935,40.551,-91.381,955
-30323,Nauvoo,AL,,city-us,185,33.984,-87.485,3111
-30320,Nauvoo,TN,,city-us,0,36.094,-89.414,81
-30322,Nauvoo,PA,,city-us,0,41.564,-77.209,776
-30324,Nauvoo,PA,,city-us,0,40.157,-76.885,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30321,Nauvoo,IL,Hancock County,,city-us,935,40.551,-91.381,955
+30323,Nauvoo,AL,Walker County / Winston County,,city-us,185,33.984,-87.485,3111
+30320,Nauvoo,TN,Dyer County,,city-us,0,36.094,-89.414,81
+30322,Nauvoo,PA,Tioga County,,city-us,0,41.564,-77.209,776
+30324,Nauvoo,PA,York County,,city-us,0,40.157,-76.885,97

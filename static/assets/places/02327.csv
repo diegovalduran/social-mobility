@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11730,Diamond Lake,MN,,city-us,212,44.336,-96.271,1874
-11728,Diamond Lake,OR,,city-us,0,43.159,-122.151,5315
-11729,Diamond Lake,IL,,city-us,0,42.244,-88.010,201
-11731,Diamond Lake,WA,,city-us,0,48.122,-117.199,656
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11730,Diamond Lake,MN,Lincoln County,,city-us,212,44.336,-96.271,1874
+11728,Diamond Lake,OR,Douglas County,,city-us,0,43.159,-122.151,5315
+11729,Diamond Lake,IL,Lake County,,city-us,0,42.244,-88.010,201
+11731,Diamond Lake,WA,Pend Oreille County,,city-us,0,48.122,-117.199,656

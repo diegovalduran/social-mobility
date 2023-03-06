@@ -1,20 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37468,Roosevelt,NY,,city-us,18019,40.679,-73.589,4616
-37460,Roosevelt,UT,,city-us,6881,40.299,-109.989,8096
-37471,Roosevelt,MI,,city-us,2096,43.341,-84.224,2444
-37467,Roosevelt,NJ,,city-us,810,40.220,-74.473,16885
-37457,Roosevelt,MN,,city-us,600,46.208,-93.863,243
-37472,Roosevelt,WI,,city-us,473,45.079,-90.750,2855
-37463,Roosevelt,OK,,city-us,254,34.849,-99.022,3006
-37454,Roosevelt,MN,,city-us,225,47.714,-95.121,243
-37456,Roosevelt,WI,,city-us,197,45.681,-92.086,1947
-37465,Roosevelt,MN,,city-us,155,48.807,-95.101,3171
-37464,Roosevelt,WA,,city-us,151,45.743,-120.216,2329
-37470,Roosevelt,ND,,city-us,23,48.669,-101.767,0
-37458,Roosevelt,KS,,city-us,11,39.889,-100.353,292
-37455,Roosevelt,KY,,city-us,0,37.406,-83.367,102
-37459,Roosevelt,MO,,city-us,0,36.831,-92.124,465
-37461,Roosevelt,AZ,,city-us,0,33.668,-111.134,949
-37462,Roosevelt,GA,,city-us,0,34.703,-84.551,272
-37466,Roosevelt,TX,,city-us,0,33.581,-101.674,279
-37469,Roosevelt,WI,,city-us,0,45.672,-89.315,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37468,Roosevelt,NY,Nassau County,,city-us,18019,40.679,-73.589,4616
+37460,Roosevelt,UT,Duchesne County,,city-us,6881,40.299,-109.989,8096
+37471,Roosevelt,MI,Saginaw County,,city-us,2096,43.341,-84.224,2444
+37467,Roosevelt,NJ,Monmouth County,,city-us,810,40.220,-74.473,16885
+37457,Roosevelt,MN,Crow Wing County,,city-us,600,46.208,-93.863,243
+37472,Roosevelt,WI,Taylor County,,city-us,473,45.079,-90.750,2855
+37463,Roosevelt,OK,Kiowa County,,city-us,254,34.849,-99.022,3006
+37454,Roosevelt,MN,Beltrami County,,city-us,225,47.714,-95.121,243
+37456,Roosevelt,WI,Burnett County,,city-us,197,45.681,-92.086,1947
+37465,Roosevelt,MN,Lake of the Woods County / Roseau County,,city-us,155,48.807,-95.101,3171
+37464,Roosevelt,WA,Klickitat County,,city-us,151,45.743,-120.216,2329
+37470,Roosevelt,ND,Renville County,,city-us,23,48.669,-101.767,0
+37458,Roosevelt,KS,Decatur County,,city-us,11,39.889,-100.353,292
+37455,Roosevelt,KY,Breathitt County,,city-us,0,37.406,-83.367,102
+37459,Roosevelt,MO,Douglas County,,city-us,0,36.831,-92.124,465
+37461,Roosevelt,AZ,Gila County,,city-us,0,33.668,-111.134,949
+37462,Roosevelt,GA,Gilmer County,,city-us,0,34.703,-84.551,272
+37466,Roosevelt,TX,Lubbock County,,city-us,0,33.581,-101.674,279
+37469,Roosevelt,WI,Oneida County,,city-us,0,45.672,-89.315,117

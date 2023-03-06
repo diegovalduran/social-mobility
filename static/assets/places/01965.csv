@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10003,Corvallis,OR,,city-us,59864,44.565,-123.262,24362
-10004,Corvallis,MT,,city-us,1604,46.314,-114.113,2514
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10003,Corvallis,OR,Benton County,,city-us,59864,44.565,-123.262,24362
+10004,Corvallis,MT,Ravalli County,,city-us,1604,46.314,-114.113,2514

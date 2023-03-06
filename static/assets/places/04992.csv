@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25675,Lookout,KS,,city-us,536,38.760,-99.453,479
-25677,Lookout,CA,,city-us,43,41.208,-121.155,4393
-25674,Lookout,WI,,city-us,0,44.458,-91.579,186
-25676,Lookout,WV,,city-us,0,38.065,-80.968,321
-25678,Lookout,KY,,city-us,0,37.313,-82.467,189
-25679,Lookout,IN,,city-us,0,39.195,-85.207,266
-25680,Lookout,PA,,city-us,0,41.778,-75.178,236
-25681,Lookout,OK,,city-us,0,36.937,-99.277,628
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25675,Lookout,KS,Ellis County,,city-us,536,38.760,-99.453,479
+25677,Lookout,CA,Modoc County,,city-us,43,41.208,-121.155,4393
+25674,Lookout,WI,Buffalo County,,city-us,0,44.458,-91.579,186
+25676,Lookout,WV,Fayette County,,city-us,0,38.065,-80.968,321
+25678,Lookout,KY,Pike County,,city-us,0,37.313,-82.467,189
+25679,Lookout,IN,Ripley County,,city-us,0,39.195,-85.207,266
+25680,Lookout,PA,Wayne County,,city-us,0,41.778,-75.178,236
+25681,Lookout,OK,Woods County,,city-us,0,36.937,-99.277,628

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19623,Hemphill,TX,,city-us,1008,31.341,-93.847,7137
-19621,Hemphill,KY,,city-us,0,37.216,-82.705,255
-19622,Hemphill,WV,,city-us,0,37.445,-81.595,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19623,Hemphill,TX,Sabine County,,city-us,1008,31.341,-93.847,7137
+19621,Hemphill,KY,Letcher County,,city-us,0,37.216,-82.705,255
+19622,Hemphill,WV,McDowell County,,city-us,0,37.445,-81.595,147

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27593,McKinney,TX,,city-us,202690,33.198,-96.615,13687
-27594,McKinney,KY,,city-us,201,37.453,-84.759,492
-27595,McKinney,ND,,city-us,49,48.767,-101.819,406
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27593,McKinney,TX,Collin County,,city-us,202690,33.198,-96.615,13687
+27594,McKinney,KY,Lincoln County,,city-us,201,37.453,-84.759,492
+27595,McKinney,ND,Renville County,,city-us,49,48.767,-101.819,406

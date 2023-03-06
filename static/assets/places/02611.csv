@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12950,Edgemont,SD,,city-us,759,43.301,-103.825,4467
-12953,Edgemont,MD,,city-us,218,39.677,-77.547,252
-12948,Edgemont,AR,,city-us,56,35.602,-92.196,949
-12952,Edgemont,ND,,city-us,17,47.394,-100.628,0
-12949,Edgemont,PA,,city-us,0,40.285,-76.849,1241
-12951,Edgemont,CA,,city-us,0,33.917,-117.279,512
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12950,Edgemont,SD,Fall River County,,city-us,759,43.301,-103.825,4467
+12953,Edgemont,MD,Washington County,,city-us,218,39.677,-77.547,252
+12948,Edgemont,AR,Cleburne County,,city-us,56,35.602,-92.196,949
+12952,Edgemont,ND,Sheridan County,,city-us,17,47.394,-100.628,0
+12949,Edgemont,PA,Dauphin County,,city-us,0,40.285,-76.849,1241
+12951,Edgemont,CA,Riverside County,,city-us,0,33.917,-117.279,512

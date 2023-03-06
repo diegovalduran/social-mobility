@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24007,Larrabee,WI,,city-us,1301,44.268,-87.715,2187
-24008,Larrabee,WI,,city-us,1277,44.636,-88.806,2187
-24004,Larrabee,IA,,city-us,122,42.861,-95.545,2949
-24005,Larrabee,ND,,city-us,50,47.539,-98.810,0
-24006,Larrabee,KS,,city-us,46,38.799,-100.253,539
-23986,Larabee,LA,,city-us,0,30.246,-91.989,178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24007,Larrabee,WI,Manitowoc County,,city-us,1301,44.268,-87.715,2187
+24008,Larrabee,WI,Waupaca County,,city-us,1277,44.636,-88.806,2187
+24004,Larrabee,IA,Cherokee County,,city-us,122,42.861,-95.545,2949
+24005,Larrabee,ND,Foster County,,city-us,50,47.539,-98.810,0
+24006,Larrabee,KS,Gove County,,city-us,46,38.799,-100.253,539
+23986,Larabee,LA,Lafayette Parish,,city-us,0,30.246,-91.989,178

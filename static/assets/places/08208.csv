@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41524,Stockbridge,GA,,city-us,29163,33.544,-84.234,12016
-41525,Stockbridge,MI,,city-us,3909,42.465,-84.201,3017
-41522,Stockbridge,MA,,city-us,2003,42.302,-73.323,15215
-41526,Stockbridge,NY,,city-us,1989,42.986,-75.591,3579
-41527,Stockbridge,VT,,city-us,726,43.751,-72.761,2757
-41523,Stockbridge,WI,,city-us,672,44.072,-88.299,2300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41524,Stockbridge,GA,Henry County,,city-us,29163,33.544,-84.234,12016
+41525,Stockbridge,MI,Ingham County,,city-us,3909,42.465,-84.201,3017
+41522,Stockbridge,MA,Berkshire County,,city-us,2003,42.302,-73.323,15215
+41526,Stockbridge,NY,Madison County,,city-us,1989,42.986,-75.591,3579
+41527,Stockbridge,VT,Windsor County,,city-us,726,43.751,-72.761,2757
+41523,Stockbridge,WI,Calumet County,,city-us,672,44.072,-88.299,2300

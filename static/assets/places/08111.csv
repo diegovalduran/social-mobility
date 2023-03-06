@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41078,St. Leo,FL,,city-us,1634,28.337,-82.258,3377
-41079,St. Leo,MN,,city-us,91,44.717,-96.052,2900
-41077,St. Leo,KS,,city-us,0,37.529,-98.410,505
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41078,St. Leo,FL,Pasco County,,city-us,1634,28.337,-82.258,3377
+41079,St. Leo,MN,Yellow Medicine County,,city-us,91,44.717,-96.052,2900
+41077,St. Leo,KS,Kingman County,,city-us,0,37.529,-98.410,505

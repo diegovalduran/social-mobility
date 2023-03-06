@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13183,Elderville,TX,,city-us,0,32.373,-94.729,96
-13184,Elderville,IL,,city-us,0,40.330,-91.295,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13183,Elderville,TX,Gregg County,,city-us,0,32.373,-94.729,96
+13184,Elderville,IL,Hancock County,,city-us,0,40.330,-91.295,87

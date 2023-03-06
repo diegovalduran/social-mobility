@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44713,Volga,SD,,city-us,379,44.323,-96.941,4477
-44714,Volga,IA,,city-us,204,42.805,-91.541,3100
-44712,Volga,WV,,city-us,0,39.078,-80.135,273
-44715,Volga,IN,,city-us,0,38.784,-85.518,2125
-44716,Volga,KY,,city-us,0,37.888,-82.873,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44713,Volga,SD,Brookings County,,city-us,379,44.323,-96.941,4477
+44714,Volga,IA,Clayton County,,city-us,204,42.805,-91.541,3100
+44712,Volga,WV,Barbour County,,city-us,0,39.078,-80.135,273
+44715,Volga,IN,Jefferson County,,city-us,0,38.784,-85.518,2125
+44716,Volga,KY,Johnson County,,city-us,0,37.888,-82.873,159

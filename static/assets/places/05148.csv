@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26424,Mahned,MS,,city-us,0,31.209,-89.081,954
-26556,Mand,WV,,city-us,0,39.619,-80.742,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26424,Mahned,MS,Perry County,,city-us,0,31.209,-89.081,954
+26556,Mand,WV,Wetzel County,,city-us,0,39.619,-80.742,85

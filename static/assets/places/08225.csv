@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41616,Stony Creek,MI,,city-us,20428,41.964,-83.359,8818
-41619,Stony Creek,MI,,city-us,6745,42.127,-83.609,5046
-41605,Stoney Creek,TN,,city-us,1803,36.377,-82.155,2989
-41620,Stony Creek,ND,,city-us,769,48.081,-103.526,0
-41618,Stony Creek,NY,,city-us,762,43.415,-74.027,7538
-41617,Stony Creek,VA,,city-us,195,36.948,-77.401,2459
-41615,Stony Creek,IN,,city-us,0,41.535,-85.650,166
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41616,Stony Creek,MI,Monroe County,,city-us,20428,41.964,-83.359,8818
+41619,Stony Creek,MI,Washtenaw County,,city-us,6745,42.127,-83.609,5046
+41605,Stoney Creek,TN,Carter County,,city-us,1803,36.377,-82.155,2989
+41620,Stony Creek,ND,Williams County,,city-us,769,48.081,-103.526,0
+41618,Stony Creek,NY,Warren County,,city-us,762,43.415,-74.027,7538
+41617,Stony Creek,VA,Sussex County,,city-us,195,36.948,-77.401,2459
+41615,Stony Creek,IN,LaGrange County,,city-us,0,41.535,-85.650,166

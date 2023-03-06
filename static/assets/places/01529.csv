@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7762,Ceresco,NE,,city-us,932,41.057,-96.645,3870
-7760,Ceresco,MN,,city-us,183,43.977,-94.305,2589
-7761,Ceresco,MI,,city-us,0,42.272,-85.061,1055
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7762,Ceresco,NE,Saunders County,,city-us,932,41.057,-96.645,3870
+7760,Ceresco,MN,Blue Earth County,,city-us,183,43.977,-94.305,2589
+7761,Ceresco,MI,Calhoun County,,city-us,0,42.272,-85.061,1055

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20355,Hollandale,MS,,city-us,2277,33.169,-90.854,4804
-20353,Hollandale,MN,,city-us,307,43.761,-93.204,2926
-20354,Hollandale,WI,,city-us,307,42.876,-89.936,3206
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20355,Hollandale,MS,Washington County,,city-us,2277,33.169,-90.854,4804
+20353,Hollandale,MN,Freeborn County,,city-us,307,43.761,-93.204,2926
+20354,Hollandale,WI,Iowa County,,city-us,307,42.876,-89.936,3206

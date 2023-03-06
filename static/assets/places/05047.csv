@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25903,Lowrey,OK,,city-us,419,36.098,-94.922,397
-25906,Lowry,MN,,city-us,339,45.705,-95.518,3143
-25907,Lowry,SD,,city-us,5,45.316,-99.983,3247
-25904,Lowrey,CA,,city-us,0,40.014,-122.553,320
-25905,Lowry,VA,,city-us,0,37.351,-79.431,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25903,Lowrey,OK,Cherokee County,,city-us,419,36.098,-94.922,397
+25906,Lowry,MN,Pope County,,city-us,339,45.705,-95.518,3143
+25907,Lowry,SD,Walworth County,,city-us,5,45.316,-99.983,3247
+25904,Lowrey,CA,Tehama County,,city-us,0,40.014,-122.553,320
+25905,Lowry,VA,Bedford County,,city-us,0,37.351,-79.431,245

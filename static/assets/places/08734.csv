@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43709,Unadilla,NY,,city-us,4143,42.368,-75.332,5292
-43707,Unadilla,MI,,city-us,3363,42.472,-84.075,5767
-43706,Unadilla,GA,,city-us,2847,32.262,-83.737,2737
-43708,Unadilla,NE,,city-us,295,40.683,-96.270,3234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43709,Unadilla,NY,Otsego County,,city-us,4143,42.368,-75.332,5292
+43707,Unadilla,MI,Livingston County,,city-us,3363,42.472,-84.075,5767
+43706,Unadilla,GA,Dooly County,,city-us,2847,32.262,-83.737,2737
+43708,Unadilla,NE,Otoe County,,city-us,295,40.683,-96.270,3234

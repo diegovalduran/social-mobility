@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34489,Plattsburgh,NY,,city-us,19909,44.699,-73.453,22308
-34486,Plattsburg,MO,,city-us,2214,39.566,-94.448,5143
-34487,Plattsburg,IN,,city-us,0,38.719,-86.090,253
-34488,Plattsburgh,OH,,city-us,0,39.896,-83.612,434
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34489,Plattsburgh,NY,Clinton County,,city-us,19909,44.699,-73.453,22308
+34486,Plattsburg,MO,Clinton County,,city-us,2214,39.566,-94.448,5143
+34487,Plattsburg,IN,Washington County,,city-us,0,38.719,-86.090,253
+34488,Plattsburgh,OH,Clark County,,city-us,0,39.896,-83.612,434

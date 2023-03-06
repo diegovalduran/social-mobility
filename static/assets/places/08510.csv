@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42877,Thrall,TX,,city-us,860,30.590,-97.297,2755
-42875,Thrall,KS,,city-us,0,38.010,-96.321,253
-42876,Thrall,WA,,city-us,0,46.930,-120.511,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42877,Thrall,TX,Williamson County,,city-us,860,30.590,-97.297,2755
+42875,Thrall,KS,Greenwood County,,city-us,0,38.010,-96.321,253
+42876,Thrall,WA,Kittitas County,,city-us,0,46.930,-120.511,235

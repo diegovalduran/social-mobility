@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19420,Haysville,KS,,city-us,11315,37.564,-97.352,6200
-19418,Haysville,PA,,city-us,81,40.526,-80.159,2249
-19419,Haysville,IN,,city-us,0,38.486,-86.915,392
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19420,Haysville,KS,Sedgwick County,,city-us,11315,37.564,-97.352,6200
+19418,Haysville,PA,Allegheny County,,city-us,81,40.526,-80.159,2249
+19419,Haysville,IN,Dubois County,,city-us,0,38.486,-86.915,392

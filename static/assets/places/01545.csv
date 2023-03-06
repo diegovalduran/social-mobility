@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7804,Chambersburg,PA,,city-us,22354,39.938,-77.661,37087
-7802,Chambersburg,MO,,city-us,0,40.524,-91.799,311
-7803,Chambersburg,OH,,city-us,0,40.788,-81.032,323
-7805,Chambersburg,IN,,city-us,0,38.518,-86.392,445
-7806,Chambersburg,IL,,city-us,0,39.817,-90.657,138
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7804,Chambersburg,PA,Franklin County,,city-us,22354,39.938,-77.661,37087
+7802,Chambersburg,MO,Clark County,,city-us,0,40.524,-91.799,311
+7803,Chambersburg,OH,Columbiana County,,city-us,0,40.788,-81.032,323
+7805,Chambersburg,IN,Orange County,,city-us,0,38.518,-86.392,445
+7806,Chambersburg,IL,Pike County,,city-us,0,39.817,-90.657,138

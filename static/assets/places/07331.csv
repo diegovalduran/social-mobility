@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37211,Rockhouse,TX,,city-us,0,29.957,-96.556,1236
-37212,Rockhouse,KY,,city-us,0,37.327,-82.453,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37211,Rockhouse,TX,Austin County,,city-us,0,29.957,-96.556,1236
+37212,Rockhouse,KY,Pike County,,city-us,0,37.327,-82.453,97

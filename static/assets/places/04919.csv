@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25286,Liverpool,,United Kingdom,city-international,513441,53.407,-2.992,98392
-25282,Liverpool,OH,,city-us,5751,41.235,-81.927,184
-25279,Liverpool,OH,,city-us,3837,40.645,-80.604,184
-25283,Liverpool,NY,,city-us,2295,43.106,-76.218,4824
-25284,Liverpool,PA,,city-us,963,40.575,-76.989,3113
-25278,Liverpool,TX,,city-us,494,29.295,-95.279,3769
-25280,Liverpool,IL,,city-us,92,40.392,-90.001,2503
-25281,Liverpool,WV,,city-us,0,38.895,-81.531,359
-25285,Liverpool,LA,,city-us,0,30.915,-90.680,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25286,Liverpool,,,United Kingdom,city-international,513441,53.407,-2.992,98392
+25282,Liverpool,OH,Medina County,,city-us,5751,41.235,-81.927,184
+25279,Liverpool,OH,Columbiana County,,city-us,3837,40.645,-80.604,184
+25283,Liverpool,NY,Onondaga County,,city-us,2295,43.106,-76.218,4824
+25284,Liverpool,PA,Perry County,,city-us,963,40.575,-76.989,3113
+25278,Liverpool,TX,Brazoria County,,city-us,494,29.295,-95.279,3769
+25280,Liverpool,IL,Fulton County,,city-us,92,40.392,-90.001,2503
+25281,Liverpool,WV,Jackson County,,city-us,0,38.895,-81.531,359
+25285,Liverpool,LA,St. Helena Parish,,city-us,0,30.915,-90.680,171

@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35462,Prospect,CT,,city-us,9344,41.499,-72.976,16752
-35459,Prospect,KY,,city-us,4569,38.347,-85.609,3844
-35452,Prospect,KS,,city-us,2095,37.833,-96.759,703
-35460,Prospect,OH,,city-us,2018,40.471,-83.184,1363
-35453,Prospect,PA,,city-us,1099,40.905,-80.046,2415
-35467,Prospect,NC,,city-us,788,34.733,-79.230,7089
-35468,Prospect,ME,,city-us,706,44.565,-68.873,4387
-35457,Prospect,OR,,city-us,449,42.751,-122.488,1979
-35463,Prospect,NY,,city-us,354,43.304,-75.152,2616
-35456,Prospect,LA,,city-us,112,31.450,-92.488,1322
-35466,Prospect,ND,,city-us,20,48.493,-98.504,0
-35461,Prospect,SD,,city-us,1,43.690,-101.092,0
-35451,Prospect,TN,,city-us,0,35.177,-84.918,435
-35454,Prospect,IL,,city-us,0,40.319,-88.213,116
-35455,Prospect,TN,,city-us,0,35.029,-87.003,182
-35458,Prospect,GA,,city-us,0,33.409,-83.761,277
-35464,Prospect,IN,,city-us,0,38.578,-86.614,348
-35465,Prospect,VA,,city-us,0,37.303,-78.559,489
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35462,Prospect,CT,Naugatuck Valley Planning Region,,city-us,9344,41.499,-72.976,16752
+35459,Prospect,KY,Jefferson County / Oldham County,,city-us,4569,38.347,-85.609,3844
+35452,Prospect,KS,Butler County,,city-us,2095,37.833,-96.759,703
+35460,Prospect,OH,Marion County,,city-us,2018,40.471,-83.184,1363
+35453,Prospect,PA,Butler County,,city-us,1099,40.905,-80.046,2415
+35467,Prospect,NC,Robeson County,,city-us,788,34.733,-79.230,7089
+35468,Prospect,ME,Waldo County,,city-us,706,44.565,-68.873,4387
+35457,Prospect,OR,Jackson County,,city-us,449,42.751,-122.488,1979
+35463,Prospect,NY,Oneida County,,city-us,354,43.304,-75.152,2616
+35456,Prospect,LA,Grant Parish,,city-us,112,31.450,-92.488,1322
+35466,Prospect,ND,Ramsey County,,city-us,20,48.493,-98.504,0
+35461,Prospect,SD,Mellette County,,city-us,1,43.690,-101.092,0
+35451,Prospect,TN,Bradley County,,city-us,0,35.177,-84.918,435
+35454,Prospect,IL,Champaign County,,city-us,0,40.319,-88.213,116
+35455,Prospect,TN,Giles County,,city-us,0,35.029,-87.003,182
+35458,Prospect,GA,Jasper County,,city-us,0,33.409,-83.761,277
+35464,Prospect,IN,Orange County,,city-us,0,38.578,-86.614,348
+35465,Prospect,VA,Prince Edward County,,city-us,0,37.303,-78.559,489

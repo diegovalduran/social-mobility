@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43619,Twining,MI,,city-us,142,44.113,-83.807,2958
-43620,Twining,NM,,city-us,0,36.595,-105.450,691
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43619,Twining,MI,Arenac County,,city-us,142,44.113,-83.807,2958
+43620,Twining,NM,Taos County,,city-us,0,36.595,-105.450,691

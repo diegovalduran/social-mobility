@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1258,Antwerp,,Belgium,city-international,529247,51.221,4.400,53838
-1257,Antwerp,MI,,city-us,13556,42.204,-85.814,1978
-1256,Antwerp,OH,,city-us,1692,41.181,-84.741,4415
-1255,Antwerp,NY,,city-us,520,44.199,-75.607,4618
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1258,Antwerp,,,Belgium,city-international,529247,51.221,4.400,53838
+1257,Antwerp,MI,Van Buren County,,city-us,13556,42.204,-85.814,1978
+1256,Antwerp,OH,Paulding County,,city-us,1692,41.181,-84.741,4415
+1255,Antwerp,NY,Jefferson County,,city-us,520,44.199,-75.607,4618

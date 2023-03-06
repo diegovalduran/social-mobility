@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27372,Mayo,MD,,city-us,8197,38.888,-76.512,3227
-27375,Mayo,SC,,city-us,1719,35.084,-81.860,1945
-27373,Mayo,FL,,city-us,1089,30.053,-83.175,3313
-27374,Mayo,KY,,city-us,0,37.872,-84.925,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27372,Mayo,MD,Anne Arundel County,,city-us,8197,38.888,-76.512,3227
+27375,Mayo,SC,Spartanburg County,,city-us,1719,35.084,-81.860,1945
+27373,Mayo,FL,Lafayette County,,city-us,1089,30.053,-83.175,3313
+27374,Mayo,KY,Mercer County,,city-us,0,37.872,-84.925,159

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43114,Topaz,CA,,city-us,341,38.619,-119.519,3930
-43113,Topaz,MO,,city-us,0,36.946,-92.203,464
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43114,Topaz,CA,Mono County,,city-us,341,38.619,-119.519,3930
+43113,Topaz,MO,Douglas County,,city-us,0,36.946,-92.203,464

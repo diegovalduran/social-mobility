@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8970,Clinton Falls,IN,,city-us,0,39.719,-86.964,357
-8971,Clinton Falls,MN,,city-us,0,44.139,-93.247,404
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8970,Clinton Falls,IN,Putnam County,,city-us,0,39.719,-86.964,357
+8971,Clinton Falls,MN,Steele County,,city-us,0,44.139,-93.247,404

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5389,Broadford,PA,,city-us,0,40.048,-79.609,1407
-5390,Broadford,VA,,city-us,0,36.927,-81.672,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5389,Broadford,PA,Fayette County,,city-us,0,40.048,-79.609,1407
+5390,Broadford,VA,Smyth County,,city-us,0,36.927,-81.672,273

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-58,Abington,PA,,city-us,58471,40.114,-75.114,15534
-59,Abington,MA,,city-us,17094,42.116,-70.957,9965
-57,Abington,IL,,city-us,371,41.113,-90.842,274
-60,Abington,LA,,city-us,0,32.112,-93.479,88
-61,Abington,IN,,city-us,0,39.733,-84.963,493
+id,name,state,county,country,level,population,latitude,longitude,wiki
+58,Abington,PA,Montgomery County,,city-us,58471,40.114,-75.114,15534
+59,Abington,MA,Plymouth County,,city-us,17094,42.116,-70.957,9965
+57,Abington,IL,Mercer County,,city-us,371,41.113,-90.842,274
+60,Abington,LA,Red River Parish,,city-us,0,32.112,-93.479,88
+61,Abington,IN,Wayne County,,city-us,0,39.733,-84.963,493

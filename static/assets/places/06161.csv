@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31429,North Springfield,VA,,city-us,7323,38.804,-77.205,2944
-31430,North Springfield,VT,,city-us,540,43.333,-72.525,497
-31428,North Springfield,PA,,city-us,0,41.994,-80.425,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31429,North Springfield,VA,Fairfax County,,city-us,7323,38.804,-77.205,2944
+31430,North Springfield,VT,Windsor County,,city-us,540,43.333,-72.525,497
+31428,North Springfield,PA,Erie County,,city-us,0,41.994,-80.425,235

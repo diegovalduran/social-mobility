@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24354,Leetown,AR,,city-us,0,36.431,-94.047,709
-24355,Leetown,KY,,city-us,0,37.139,-86.743,83
-24356,Leetown,VA,,city-us,0,39.227,-78.078,348
-24357,Leetown,MS,,city-us,0,30.559,-89.519,87
-24358,Leetown,WV,,city-us,0,39.348,-77.934,2005
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24354,Leetown,AR,Benton County,,city-us,0,36.431,-94.047,709
+24355,Leetown,KY,Butler County,,city-us,0,37.139,-86.743,83
+24356,Leetown,VA,Frederick County,,city-us,0,39.227,-78.078,348
+24357,Leetown,MS,Hancock County,,city-us,0,30.559,-89.519,87
+24358,Leetown,WV,Jefferson County,,city-us,0,39.348,-77.934,2005

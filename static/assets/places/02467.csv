@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12319,Dudleyville,AZ,,city-us,590,32.917,-110.724,2963
-12318,Dudleyville,IL,,city-us,0,38.824,-89.418,320
-12320,Dudleyville,AL,,city-us,0,32.915,-85.600,1086
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12319,Dudleyville,AZ,Pinal County,,city-us,590,32.917,-110.724,2963
+12318,Dudleyville,IL,Bond County,,city-us,0,38.824,-89.418,320
+12320,Dudleyville,AL,Tallapoosa County,,city-us,0,32.915,-85.600,1086

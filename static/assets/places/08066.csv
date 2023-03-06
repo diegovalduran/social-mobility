@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40794,Springer,NM,,city-us,942,36.361,-104.595,4454
-40793,Springer,OK,,city-us,689,34.315,-97.143,2575
-40795,Springer,ND,,city-us,61,46.498,-97.848,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40794,Springer,NM,Colfax County,,city-us,942,36.361,-104.595,4454
+40793,Springer,OK,Carter County,,city-us,689,34.315,-97.143,2575
+40795,Springer,ND,Ransom County,,city-us,61,46.498,-97.848,0

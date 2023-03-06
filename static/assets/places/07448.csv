@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37861,Rucker,MO,,city-us,0,39.231,-92.414,407
-37862,Rucker,TX,,city-us,0,32.165,-98.603,748
-37863,Rucker,CA,,city-us,0,37.054,-121.591,1298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37861,Rucker,MO,Boone County,,city-us,0,39.231,-92.414,407
+37862,Rucker,TX,Comanche County,,city-us,0,32.165,-98.603,748
+37863,Rucker,CA,Santa Clara County,,city-us,0,37.054,-121.591,1298

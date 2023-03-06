@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47846,Wyatt,MO,,city-us,222,36.909,-89.223,3979
-47847,Wyatt,IN,,city-us,117,41.526,-86.169,664
-47845,Wyatt,WV,,city-us,0,39.435,-80.353,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47846,Wyatt,MO,Mississippi County,,city-us,222,36.909,-89.223,3979
+47847,Wyatt,IN,St. Joseph County,,city-us,117,41.526,-86.169,664
+47845,Wyatt,WV,Harrison County,,city-us,0,39.435,-80.353,212

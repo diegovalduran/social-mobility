@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33266,Patmos,AR,,city-us,55,33.512,-93.566,2572
-33265,Patmos,GA,,city-us,0,31.376,-84.565,177
-33267,Patmos,OH,,city-us,0,40.974,-80.906,296
-33268,Patmos,MS,,city-us,0,32.813,-90.728,186
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33266,Patmos,AR,Hempstead County,,city-us,55,33.512,-93.566,2572
+33265,Patmos,GA,Baker County,,city-us,0,31.376,-84.565,177
+33267,Patmos,OH,Mahoning County,,city-us,0,40.974,-80.906,296
+33268,Patmos,MS,Sharkey County,,city-us,0,32.813,-90.728,186

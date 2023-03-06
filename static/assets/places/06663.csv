@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33897,Phillipsburg,NJ,,city-us,15291,40.694,-75.190,18619
-33883,Philipsburg,PA,,city-us,2780,40.896,-78.221,3557
-33896,Phillipsburg,GA,,city-us,1093,31.440,-83.519,1979
-33884,Philipsburg,MT,,city-us,847,46.332,-113.294,5020
-33894,Phillipsburg,OH,,city-us,495,39.904,-84.402,4548
-33895,Phillipsburg,KS,,city-us,236,39.793,-99.352,6931
-33893,Phillipsburg,MO,,city-us,165,37.554,-92.785,3166
-33892,Phillipsburg,TX,,city-us,0,30.095,-96.367,2366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33897,Phillipsburg,NJ,Warren County,,city-us,15291,40.694,-75.190,18619
+33883,Philipsburg,PA,Centre County,,city-us,2780,40.896,-78.221,3557
+33896,Phillipsburg,GA,Tift County,,city-us,1093,31.440,-83.519,1979
+33884,Philipsburg,MT,Granite County,,city-us,847,46.332,-113.294,5020
+33894,Phillipsburg,OH,Montgomery County,,city-us,495,39.904,-84.402,4548
+33895,Phillipsburg,KS,Phillips County,,city-us,236,39.793,-99.352,6931
+33893,Phillipsburg,MO,Laclede County,,city-us,165,37.554,-92.785,3166
+33892,Phillipsburg,TX,Austin County,,city-us,0,30.095,-96.367,2366

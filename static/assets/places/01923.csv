@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9797,Cope,SC,,city-us,33,33.378,-81.007,1937
-9796,Cope,IN,,city-us,0,39.450,-86.319,255
-9798,Cope,CO,,city-us,0,39.669,-102.850,803
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9797,Cope,SC,Orangeburg County,,city-us,33,33.378,-81.007,1937
+9796,Cope,IN,Morgan County,,city-us,0,39.450,-86.319,255
+9798,Cope,CO,Washington County,,city-us,0,39.669,-102.850,803

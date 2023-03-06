@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20193,Hinkle,MS,,city-us,0,34.779,-88.621,188
-20194,Hinkle,TN,,city-us,0,35.408,-88.300,133
-20195,Hinkle,KY,,city-us,0,36.913,-83.819,84
-20196,Hinkle,OR,,city-us,0,45.796,-119.312,1529
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20193,Hinkle,MS,Alcorn County,,city-us,0,34.779,-88.621,188
+20194,Hinkle,TN,Hardin County,,city-us,0,35.408,-88.300,133
+20195,Hinkle,KY,Knox County,,city-us,0,36.913,-83.819,84
+20196,Hinkle,OR,Umatilla County,,city-us,0,45.796,-119.312,1529

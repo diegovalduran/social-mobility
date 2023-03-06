@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44306,Veazie,ME,,city-us,1804,44.847,-68.714,3885
-44304,Veazey,GA,,city-us,0,33.504,-83.141,291
-44305,Veazie,WA,,city-us,0,47.248,-121.955,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44306,Veazie,ME,Penobscot County,,city-us,1804,44.847,-68.714,3885
+44304,Veazey,GA,Greene County,,city-us,0,33.504,-83.141,291
+44305,Veazie,WA,King County,,city-us,0,47.248,-121.955,267

@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26771,Mapleton,UT,,city-us,12414,40.130,-111.579,5856
-26763,Mapleton,MI,,city-us,6068,44.878,-85.531,11015
-26767,Mapleton,SD,,city-us,2111,43.638,-96.701,0
-26768,Mapleton,IA,,city-us,1144,42.166,-95.793,5513
-26759,Mapleton,ME,,city-us,747,46.682,-68.163,2767
-26766,Mapleton,OR,,city-us,493,44.031,-123.866,1069
-26765,Mapleton,PA,,city-us,418,40.394,-77.941,2664
-26760,Mapleton,MN,,city-us,282,43.892,-93.929,5756
-26769,Mapleton,IL,,city-us,255,40.566,-89.732,2109
-26762,Mapleton,ND,,city-us,199,46.844,-96.997,3777
-26761,Mapleton,KS,,city-us,97,38.015,-94.884,3481
-26764,Mapleton,TX,,city-us,0,31.140,-95.669,241
-26770,Mapleton,OH,,city-us,0,40.746,-81.246,281
-26772,Mapleton,WI,,city-us,0,43.179,-88.460,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26771,Mapleton,UT,Utah County,,city-us,12414,40.130,-111.579,5856
+26763,Mapleton,MI,Grand Traverse County,,city-us,6068,44.878,-85.531,11015
+26767,Mapleton,SD,Minnehaha County,,city-us,2111,43.638,-96.701,0
+26768,Mapleton,IA,Monona County,,city-us,1144,42.166,-95.793,5513
+26759,Mapleton,ME,Aroostook County,,city-us,747,46.682,-68.163,2767
+26766,Mapleton,OR,Lane County,,city-us,493,44.031,-123.866,1069
+26765,Mapleton,PA,Huntingdon County,,city-us,418,40.394,-77.941,2664
+26760,Mapleton,MN,Blue Earth County,,city-us,282,43.892,-93.929,5756
+26769,Mapleton,IL,Peoria County,,city-us,255,40.566,-89.732,2109
+26762,Mapleton,ND,Cass County,,city-us,199,46.844,-96.997,3777
+26761,Mapleton,KS,Bourbon County,,city-us,97,38.015,-94.884,3481
+26764,Mapleton,TX,Houston County,,city-us,0,31.140,-95.669,241
+26770,Mapleton,OH,Stark County,,city-us,0,40.746,-81.246,281
+26772,Mapleton,WI,Waukesha County,,city-us,0,43.179,-88.460,182

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28874,Minnie,ND,,city-us,62,46.415,-101.860,0
-28872,Minnie,MN,,city-us,22,48.323,-95.271,1942
-28873,Minnie,KY,,city-us,0,37.472,-82.754,171
-28875,Minnie,WV,,city-us,0,39.590,-80.810,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28874,Minnie,ND,Grant County,,city-us,62,46.415,-101.860,0
+28872,Minnie,MN,Beltrami County,,city-us,22,48.323,-95.271,1942
+28873,Minnie,KY,Floyd County,,city-us,0,37.472,-82.754,171
+28875,Minnie,WV,Wetzel County,,city-us,0,39.590,-80.810,179

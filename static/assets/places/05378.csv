@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27522,McFarland,CA,,city-us,14459,35.678,-119.229,6165
-27521,McFarland,WI,,city-us,9325,43.013,-89.290,8893
-27524,McFarland,KS,,city-us,281,39.053,-96.238,4242
-27523,McFarland,MI,,city-us,153,46.192,-87.250,2067
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27522,McFarland,CA,Kern County,,city-us,14459,35.678,-119.229,6165
+27521,McFarland,WI,Dane County,,city-us,9325,43.013,-89.290,8893
+27524,McFarland,KS,Wabaunsee County,,city-us,281,39.053,-96.238,4242
+27523,McFarland,MI,Marquette County,,city-us,153,46.192,-87.250,2067

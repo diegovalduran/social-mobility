@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5725,Brunson,SC,,city-us,444,32.925,-81.187,2280
-5726,Brunson,SD,,city-us,58,43.469,-99.820,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5725,Brunson,SC,Hampton County,,city-us,444,32.925,-81.187,2280
+5726,Brunson,SD,Tripp County,,city-us,58,43.469,-99.820,0

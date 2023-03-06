@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12743,East Union,PA,,city-us,1660,40.888,-76.126,1704
-12740,East Union,MN,,city-us,0,44.718,-93.682,1024
-12741,East Union,KY,,city-us,0,38.240,-83.981,1081
-12742,East Union,OH,,city-us,0,39.768,-81.401,730
-12744,East Union,OH,,city-us,0,40.796,-81.817,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12743,East Union,PA,Schuylkill County,,city-us,1660,40.888,-76.126,1704
+12740,East Union,MN,Carver County,,city-us,0,44.718,-93.682,1024
+12741,East Union,KY,Nicholas County,,city-us,0,38.240,-83.981,1081
+12742,East Union,OH,Noble County,,city-us,0,39.768,-81.401,730
+12744,East Union,OH,Wayne County,,city-us,0,40.796,-81.817,329

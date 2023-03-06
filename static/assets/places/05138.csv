@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26386,Madrid,,Spain,city-international,6006000,40.417,-3.717,95976
-26385,Madrid,,Colombia,city-international,112254,4.731,-74.264,1601
-26379,Madrid,IA,,city-us,2808,41.877,-93.823,4835
-26384,Madrid,NY,,city-us,812,44.750,-75.131,4544
-26383,Madrid,NM,,city-us,276,35.407,-106.153,6557
-26381,Madrid,AL,,city-us,265,31.036,-85.393,2311
-26382,Madrid,NE,,city-us,237,40.850,-101.543,3137
-26380,Madrid,ME,,city-us,173,44.884,-70.438,3506
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26386,Madrid,,,Spain,city-international,6006000,40.417,-3.717,95976
+26385,Madrid,,,Colombia,city-international,112254,4.731,-74.264,1601
+26379,Madrid,IA,Boone County,,city-us,2808,41.877,-93.823,4835
+26384,Madrid,NY,St. Lawrence County,,city-us,812,44.750,-75.131,4544
+26383,Madrid,NM,Santa Fe County,,city-us,276,35.407,-106.153,6557
+26381,Madrid,AL,Houston County,,city-us,265,31.036,-85.393,2311
+26382,Madrid,NE,Perkins County,,city-us,237,40.850,-101.543,3137
+26380,Madrid,ME,Franklin County,,city-us,173,44.884,-70.438,3506

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36995,Rives,MI,,city-us,4788,42.372,-84.422,3082
-36996,Rives,TN,,city-us,242,36.356,-89.048,1892
-36994,Rives,MO,,city-us,40,36.094,-90.013,3021
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36995,Rives,MI,Jackson County,,city-us,4788,42.372,-84.422,3082
+36996,Rives,TN,Obion County,,city-us,242,36.356,-89.048,1892
+36994,Rives,MO,Dunklin County,,city-us,40,36.094,-90.013,3021

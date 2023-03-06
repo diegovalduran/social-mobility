@@ -1,52 +1,52 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31716,Oak Grove,MI,,city-us,44253,42.576,-83.267,8219
-31692,Oak Grove,OR,,city-us,17290,45.417,-122.640,4152
-31707,Oak Grove,SC,,city-us,11803,33.972,-81.144,2470
-31686,Oak Grove,MN,,city-us,9058,45.341,-93.327,4057
-31703,Oak Grove,MO,,city-us,8289,39.007,-94.128,5290
-31691,Oak Grove,KY,,city-us,7793,36.665,-87.443,3812
-31718,Oak Grove,MI,,city-us,5886,44.983,-84.659,2696
-31734,Oak Grove,TN,,city-us,4072,36.412,-82.425,2145
-31709,Oak Grove,MI,,city-us,3317,42.733,-83.976,5189
-31702,Oak Grove,NJ,,city-us,3195,40.569,-74.931,11224
-31710,Oak Grove,VA,,city-us,2500,38.984,-77.404,420
-31721,Oak Grove,WI,,city-us,2370,44.729,-92.681,2006
-31706,Oak Grove,MS,,city-us,1758,31.286,-89.414,2070
-31735,Oak Grove,LA,,city-us,1600,32.861,-91.388,4833
-31694,Oak Grove,WI,,city-us,1126,43.386,-88.746,2111
-31687,Oak Grove,WI,,city-us,968,45.590,-91.712,2307
-31705,Oak Grove,TX,,city-us,670,32.535,-96.319,2183
-31730,Oak Grove,AL,,city-us,553,33.192,-86.299,4416
-31724,Oak Grove,IL,,city-us,470,41.411,-90.571,1656
-31689,Oak Grove,AR,,city-us,385,36.456,-93.437,1846
-31722,Oak Grove,AR,,city-us,177,35.359,-92.959,490
-31727,Oak Grove,TN,,city-us,148,36.571,-86.380,219
-31719,Oak Grove,OK,,city-us,13,36.205,-96.338,1765
-31688,Oak Grove,TX,,city-us,0,33.536,-94.688,862
-31690,Oak Grove,GA,,city-us,0,34.092,-84.615,1198
-31693,Oak Grove,SC,,city-us,0,34.352,-79.543,185
-31695,Oak Grove,NC,,city-us,0,35.982,-78.821,183
-31696,Oak Grove,FL,,city-us,0,30.909,-87.427,86
-31697,Oak Grove,FL,,city-us,0,30.692,-84.733,209
-31698,Oak Grove,LA,,city-us,0,31.520,-92.543,83
-31699,Oak Grove,FL,,city-us,0,29.791,-85.297,82
-31700,Oak Grove,FL,,city-us,0,27.482,-81.871,84
-31701,Oak Grove,TN,,city-us,0,35.274,-88.230,160
-31704,Oak Grove,NC,,city-us,0,35.034,-77.244,165
-31708,Oak Grove,LA,,city-us,0,32.496,-92.866,87
-31711,Oak Grove,NC,,city-us,0,35.280,-83.447,204
-31712,Oak Grove,MO,,city-us,0,37.573,-90.395,250
-31713,Oak Grove,WV,,city-us,0,37.387,-81.063,139
-31714,Oak Grove,OK,,city-us,0,34.615,-96.967,298
-31715,Oak Grove,VA,,city-us,0,37.842,-76.424,99
-31717,Oak Grove,FL,,city-us,0,30.925,-86.567,77
-31720,Oak Grove,WV,,city-us,0,38.626,-79.355,180
-31723,Oak Grove,IN,,city-us,0,37.836,-88.022,155
-31725,Oak Grove,CA,,city-us,0,33.385,-116.789,233
-31726,Oak Grove,IN,,city-us,0,41.288,-86.486,161
-31728,Oak Grove,FL,,city-us,0,28.600,-82.043,166
-31729,Oak Grove,NC,,city-us,0,36.484,-80.757,804
-31731,Oak Grove,KY,,city-us,0,36.793,-87.859,233
-31732,Oak Grove,AR,,city-us,0,36.190,-94.187,242
-31733,Oak Grove,OH,,city-us,0,39.449,-81.466,174
-31736,Oak Grove,VA,,city-us,0,38.182,-76.997,982
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31716,Oak Grove,MI,Oakland County,,city-us,44253,42.576,-83.267,8219
+31692,Oak Grove,OR,Clackamas County,,city-us,17290,45.417,-122.640,4152
+31707,Oak Grove,SC,Lexington County,,city-us,11803,33.972,-81.144,2470
+31686,Oak Grove,MN,Anoka County,,city-us,9058,45.341,-93.327,4057
+31703,Oak Grove,MO,Jackson County / Lafayette County,,city-us,8289,39.007,-94.128,5290
+31691,Oak Grove,KY,Christian County,,city-us,7793,36.665,-87.443,3812
+31718,Oak Grove,MI,Otsego County,,city-us,5886,44.983,-84.659,2696
+31734,Oak Grove,TN,Washington County,,city-us,4072,36.412,-82.425,2145
+31709,Oak Grove,MI,Livingston County,,city-us,3317,42.733,-83.976,5189
+31702,Oak Grove,NJ,Hunterdon County,,city-us,3195,40.569,-74.931,11224
+31710,Oak Grove,VA,Loudoun County,,city-us,2500,38.984,-77.404,420
+31721,Oak Grove,WI,Pierce County,,city-us,2370,44.729,-92.681,2006
+31706,Oak Grove,MS,Lamar County,,city-us,1758,31.286,-89.414,2070
+31735,Oak Grove,LA,West Carroll Parish,,city-us,1600,32.861,-91.388,4833
+31694,Oak Grove,WI,Dodge County,,city-us,1126,43.386,-88.746,2111
+31687,Oak Grove,WI,Barron County,,city-us,968,45.590,-91.712,2307
+31705,Oak Grove,TX,Kaufman County,,city-us,670,32.535,-96.319,2183
+31730,Oak Grove,AL,Talladega County,,city-us,553,33.192,-86.299,4416
+31724,Oak Grove,IL,Rock Island County,,city-us,470,41.411,-90.571,1656
+31689,Oak Grove,AR,Carroll County,,city-us,385,36.456,-93.437,1846
+31722,Oak Grove,AR,Pope County,,city-us,177,35.359,-92.959,490
+31727,Oak Grove,TN,Sumner County,,city-us,148,36.571,-86.380,219
+31719,Oak Grove,OK,Pawnee County,,city-us,13,36.205,-96.338,1765
+31688,Oak Grove,TX,Bowie County,,city-us,0,33.536,-94.688,862
+31690,Oak Grove,GA,Cherokee County,,city-us,0,34.092,-84.615,1198
+31693,Oak Grove,SC,Dillon County,,city-us,0,34.352,-79.543,185
+31695,Oak Grove,NC,Durham County,,city-us,0,35.982,-78.821,183
+31696,Oak Grove,FL,Escambia County,,city-us,0,30.909,-87.427,86
+31697,Oak Grove,FL,Gadsden County,,city-us,0,30.692,-84.733,209
+31698,Oak Grove,LA,Grant Parish,,city-us,0,31.520,-92.543,83
+31699,Oak Grove,FL,Gulf County,,city-us,0,29.791,-85.297,82
+31700,Oak Grove,FL,Hardee County,,city-us,0,27.482,-81.871,84
+31701,Oak Grove,TN,Hardin County,,city-us,0,35.274,-88.230,160
+31704,Oak Grove,NC,Jones County,,city-us,0,35.034,-77.244,165
+31708,Oak Grove,LA,Lincoln Parish,,city-us,0,32.496,-92.866,87
+31711,Oak Grove,NC,Macon County,,city-us,0,35.280,-83.447,204
+31712,Oak Grove,MO,Madison County,,city-us,0,37.573,-90.395,250
+31713,Oak Grove,WV,Mercer County,,city-us,0,37.387,-81.063,139
+31714,Oak Grove,OK,Murray County,,city-us,0,34.615,-96.967,298
+31715,Oak Grove,VA,Northumberland County,,city-us,0,37.842,-76.424,99
+31717,Oak Grove,FL,Okaloosa County,,city-us,0,30.925,-86.567,77
+31720,Oak Grove,WV,Pendleton County,,city-us,0,38.626,-79.355,180
+31723,Oak Grove,IN,Posey County,,city-us,0,37.836,-88.022,155
+31725,Oak Grove,CA,San Diego County,,city-us,0,33.385,-116.789,233
+31726,Oak Grove,IN,Starke County,,city-us,0,41.288,-86.486,161
+31728,Oak Grove,FL,Sumter County,,city-us,0,28.600,-82.043,166
+31729,Oak Grove,NC,Surry County,,city-us,0,36.484,-80.757,804
+31731,Oak Grove,KY,Trigg County,,city-us,0,36.793,-87.859,233
+31732,Oak Grove,AR,Washington County,,city-us,0,36.190,-94.187,242
+31733,Oak Grove,OH,Washington County,,city-us,0,39.449,-81.466,174
+31736,Oak Grove,VA,Westmoreland County,,city-us,0,38.182,-76.997,982

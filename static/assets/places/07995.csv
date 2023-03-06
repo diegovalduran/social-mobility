@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40404,South Mountain,TX,,city-us,402,31.428,-97.678,2083
-40405,South Mountain,PA,,city-us,0,39.846,-77.488,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40404,South Mountain,TX,Coryell County,,city-us,402,31.428,-97.678,2083
+40405,South Mountain,PA,Franklin County,,city-us,0,39.846,-77.488,210

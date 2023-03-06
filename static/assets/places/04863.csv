@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25015,Lincoln Heights,OH,,city-us,3118,39.239,-84.456,11707
-25016,Lincoln Heights,OH,,city-us,594,40.771,-82.484,821
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25015,Lincoln Heights,OH,Hamilton County,,city-us,3118,39.239,-84.456,11707
+25016,Lincoln Heights,OH,Richland County,,city-us,594,40.771,-82.484,821

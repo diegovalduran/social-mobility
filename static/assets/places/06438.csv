@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32829,Oyster Bay,NY,,city-us,6708,40.866,-73.532,16441
-32828,Oyster Bay,AL,,city-us,0,30.286,-87.743,302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32829,Oyster Bay,NY,Nassau County,,city-us,6708,40.866,-73.532,16441
+32828,Oyster Bay,AL,Baldwin County,,city-us,0,30.286,-87.743,302

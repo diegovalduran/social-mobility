@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45560,Wauneta,NE,,city-us,533,40.418,-101.371,3978
-45561,Wauneta,KS,,city-us,0,37.113,-96.381,265
-45562,Wauneta,CO,,city-us,0,40.293,-102.255,81
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45560,Wauneta,NE,Chase County,,city-us,533,40.418,-101.371,3978
+45561,Wauneta,KS,Chautauqua County,,city-us,0,37.113,-96.381,265
+45562,Wauneta,CO,Yuma County,,city-us,0,40.293,-102.255,81

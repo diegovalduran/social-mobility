@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16261,Gans,OK,,city-us,250,35.389,-94.692,2871
-16257,Ganns,CA,,city-us,0,38.404,-120.159,146
-16260,Gans,PA,,city-us,0,39.743,-79.824,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16261,Gans,OK,Sequoyah County,,city-us,250,35.389,-94.692,2871
+16257,Ganns,CA,Calaveras County,,city-us,0,38.404,-120.159,146
+16260,Gans,PA,Fayette County,,city-us,0,39.743,-79.824,220

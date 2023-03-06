@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9177,Coeburn,VA,,city-us,1575,36.944,-82.464,3504
-9153,Coburn,PA,,city-us,93,40.863,-77.464,2361
-9154,Coburn,ND,,city-us,45,46.580,-97.353,0
-9152,Coburn,NC,,city-us,0,35.535,-82.755,262
-9155,Coburn,WV,,city-us,0,39.593,-80.503,176
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9177,Coeburn,VA,Wise County,,city-us,1575,36.944,-82.464,3504
+9153,Coburn,PA,Centre County,,city-us,93,40.863,-77.464,2361
+9154,Coburn,ND,Ransom County,,city-us,45,46.580,-97.353,0
+9152,Coburn,NC,Buncombe County,,city-us,0,35.535,-82.755,262
+9155,Coburn,WV,Wetzel County,,city-us,0,39.593,-80.503,176

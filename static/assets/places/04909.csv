@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25239,Little Valley,NY,,city-us,1663,42.224,-78.759,8558
-25241,Little Valley,KS,,city-us,412,38.214,-97.867,136
-25240,Little Valley,CA,,city-us,84,40.894,-121.177,238
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25239,Little Valley,NY,Cattaraugus County,,city-us,1663,42.224,-78.759,8558
+25241,Little Valley,KS,McPherson County,,city-us,412,38.214,-97.867,136
+25240,Little Valley,CA,Lassen County,,city-us,84,40.894,-121.177,238

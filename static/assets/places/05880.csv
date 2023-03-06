@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30206,Nahunta,GA,,city-us,1004,31.204,-81.981,3843
-30207,Nahunta,NC,,city-us,0,35.508,-78.063,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30206,Nahunta,GA,Brantley County,,city-us,1004,31.204,-81.981,3843
+30207,Nahunta,NC,Wayne County,,city-us,0,35.508,-78.063,119

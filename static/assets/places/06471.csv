@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32950,Palmdale,CA,,city-us,165761,34.579,-118.116,45730
-32948,Palmdale,PA,,city-us,1332,40.298,-76.619,666
-32947,Palmdale,MN,,city-us,0,45.456,-92.734,451
-32949,Palmdale,FL,,city-us,0,26.945,-81.316,4962
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32950,Palmdale,CA,Los Angeles County,,city-us,165761,34.579,-118.116,45730
+32948,Palmdale,PA,Dauphin County,,city-us,1332,40.298,-76.619,666
+32947,Palmdale,MN,Chisago County,,city-us,0,45.456,-92.734,451
+32949,Palmdale,FL,Glades County,,city-us,0,26.945,-81.316,4962

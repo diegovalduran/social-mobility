@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18741,Hannibal,MO,,city-us,17067,39.710,-91.394,15059
-18743,Hannibal,NY,,city-us,543,43.321,-76.579,3431
-18742,Hannibal,OH,,city-us,225,39.667,-80.872,1010
-18744,Hannibal,WI,,city-us,0,45.252,-90.789,2693
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18741,Hannibal,MO,Marion County / Ralls County,,city-us,17067,39.710,-91.394,15059
+18743,Hannibal,NY,Oswego County,,city-us,543,43.321,-76.579,3431
+18742,Hannibal,OH,Monroe County,,city-us,225,39.667,-80.872,1010
+18744,Hannibal,WI,Taylor County,,city-us,0,45.252,-90.789,2693

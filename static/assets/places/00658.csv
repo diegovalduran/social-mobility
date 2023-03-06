@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3379,Belton,MO,,city-us,24197,38.812,-94.532,4759
-3378,Belton,TX,,city-us,23845,31.056,-97.464,10633
-3377,Belton,SC,,city-us,4405,34.523,-82.494,5003
-3306,Bellton,WV,,city-us,0,39.756,-80.555,185
-3380,Belton,KY,,city-us,0,37.160,-87.028,474
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3379,Belton,MO,Cass County,,city-us,24197,38.812,-94.532,4759
+3378,Belton,TX,Bell County,,city-us,23845,31.056,-97.464,10633
+3377,Belton,SC,Anderson County,,city-us,4405,34.523,-82.494,5003
+3306,Bellton,WV,Marshall County,,city-us,0,39.756,-80.555,185
+3380,Belton,KY,Muhlenberg County,,city-us,0,37.160,-87.028,474

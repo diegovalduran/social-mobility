@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21544,Iron Springs,PA,,city-us,0,39.776,-77.397,167
-21545,Iron Springs,AZ,,city-us,0,34.585,-112.570,773
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21544,Iron Springs,PA,Adams County,,city-us,0,39.776,-77.397,167
+21545,Iron Springs,AZ,Yavapai County,,city-us,0,34.585,-112.570,773

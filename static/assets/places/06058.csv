@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30975,Newington,CT,,city-us,30493,41.687,-72.731,19782
-30976,Newington,VA,,city-us,13419,38.738,-77.185,4491
-30977,Newington,NH,,city-us,818,43.086,-70.827,5259
-30978,Newington,GA,,city-us,287,32.590,-81.504,2190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30975,Newington,CT,Capitol Planning Region,,city-us,30493,41.687,-72.731,19782
+30976,Newington,VA,Fairfax County,,city-us,13419,38.738,-77.185,4491
+30977,Newington,NH,Rockingham County,,city-us,818,43.086,-70.827,5259
+30978,Newington,GA,Screven County,,city-us,287,32.590,-81.504,2190

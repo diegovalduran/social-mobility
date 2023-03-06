@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1025,Amor,MN,,city-us,473,46.406,-95.715,1939
-1024,Amor,ND,,city-us,19,46.076,-103.555,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1025,Amor,MN,Otter Tail County,,city-us,473,46.406,-95.715,1939
+1024,Amor,ND,Bowman County,,city-us,19,46.076,-103.555,127

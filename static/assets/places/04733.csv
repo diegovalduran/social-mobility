@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24169,Lawrenceville,GA,,city-us,30516,33.956,-83.988,12995
-24172,Lawrenceville,IL,,city-us,4195,38.729,-87.682,3791
-24173,Lawrenceville,NJ,,city-us,3661,40.297,-74.730,12268
-24166,Lawrenceville,VA,,city-us,1016,36.758,-77.847,10132
-24174,Lawrenceville,PA,,city-us,689,41.998,-77.126,2433
-24167,Lawrenceville,OH,,city-us,667,39.982,-83.875,2546
-24168,Lawrenceville,IN,,city-us,0,39.278,-85.039,356
-24170,Lawrenceville,WV,,city-us,0,40.617,-80.544,790
-24171,Lawrenceville,AL,,city-us,0,31.658,-85.269,984
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24169,Lawrenceville,GA,Gwinnett County,,city-us,30516,33.956,-83.988,12995
+24172,Lawrenceville,IL,Lawrence County,,city-us,4195,38.729,-87.682,3791
+24173,Lawrenceville,NJ,Mercer County,,city-us,3661,40.297,-74.730,12268
+24166,Lawrenceville,VA,Brunswick County,,city-us,1016,36.758,-77.847,10132
+24174,Lawrenceville,PA,Tioga County,,city-us,689,41.998,-77.126,2433
+24167,Lawrenceville,OH,Clark County,,city-us,667,39.982,-83.875,2546
+24168,Lawrenceville,IN,Dearborn County,,city-us,0,39.278,-85.039,356
+24170,Lawrenceville,WV,Hancock County,,city-us,0,40.617,-80.544,790
+24171,Lawrenceville,AL,Henry County,,city-us,0,31.658,-85.269,984

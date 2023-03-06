@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20086,Hills,IA,,city-us,902,41.554,-91.535,3073
-20088,Hills,MN,,city-us,692,43.528,-96.359,4206
-20087,Hills,TX,,city-us,20,30.188,-97.051,269
-20085,Hills,OH,,city-us,0,39.255,-84.188,330
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20086,Hills,IA,Johnson County,,city-us,902,41.554,-91.535,3073
+20088,Hills,MN,Rock County,,city-us,692,43.528,-96.359,4206
+20087,Hills,TX,Lee County,,city-us,20,30.188,-97.051,269
+20085,Hills,OH,Clermont County,,city-us,0,39.255,-84.188,330

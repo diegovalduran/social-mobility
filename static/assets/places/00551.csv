@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2809,Baywood,NY,,city-us,7179,40.750,-73.291,2126
-2808,Baywood,VA,,city-us,414,36.610,-81.012,2170
-2807,Baywood,LA,,city-us,0,30.691,-90.883,241
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2809,Baywood,NY,Suffolk County,,city-us,7179,40.750,-73.291,2126
+2808,Baywood,VA,Grayson County,,city-us,414,36.610,-81.012,2170
+2807,Baywood,LA,East Baton Rouge Parish,,city-us,0,30.691,-90.883,241

@@ -1,25 +1,25 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29462,Morgan,OH,,city-us,5354,39.351,-84.749,293
-29472,Morgan,UT,,city-us,4223,41.036,-111.677,2437
-29466,Morgan,PA,,city-us,2300,39.955,-80.105,2837
-29460,Morgan,OH,,city-us,2282,41.678,-80.859,293
-29471,Morgan,OH,,city-us,2270,39.661,-81.841,293
-29478,Morgan,OH,,city-us,2252,38.925,-83.088,293
-29463,Morgan,GA,,city-us,1576,31.538,-84.599,2751
-29470,Morgan,MO,,city-us,1403,40.436,-93.581,122
-29465,Morgan,OH,,city-us,1345,38.978,-82.272,293
-29468,Morgan,OH,,city-us,1072,40.283,-82.437,293
-29477,Morgan,MN,,city-us,887,44.417,-94.926,3180
-29475,Morgan,VT,,city-us,635,44.896,-71.941,3703
-29480,Morgan,KS,,city-us,614,39.344,-101.102,0
-29461,Morgan,TX,,city-us,457,32.019,-97.608,2150
-29464,Morgan,IL,,city-us,296,39.598,-88.109,844
-29481,Morgan,ND,,city-us,82,47.629,-97.282,0
-29459,Morgan,PA,,city-us,0,40.354,-80.140,245
-29467,Morgan,WV,,city-us,0,39.026,-81.763,88
-29469,Morgan,MO,,city-us,0,37.510,-92.677,565
-29473,Morgan,OR,,city-us,0,45.553,-119.921,782
-29474,Morgan,WI,,city-us,0,44.794,-88.190,111
-29476,Morgan,MT,,city-us,0,48.993,-107.832,346
-29479,Morgan,WI,,city-us,0,44.885,-88.824,154
-29482,Morgan,IA,,city-us,0,43.392,-92.049,213
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29462,Morgan,OH,Butler County,,city-us,5354,39.351,-84.749,293
+29472,Morgan,UT,Morgan County,,city-us,4223,41.036,-111.677,2437
+29466,Morgan,PA,Greene County,,city-us,2300,39.955,-80.105,2837
+29460,Morgan,OH,Ashtabula County,,city-us,2282,41.678,-80.859,293
+29471,Morgan,OH,Morgan County,,city-us,2270,39.661,-81.841,293
+29478,Morgan,OH,Scioto County,,city-us,2252,38.925,-83.088,293
+29463,Morgan,GA,Calhoun County,,city-us,1576,31.538,-84.599,2751
+29470,Morgan,MO,Mercer County,,city-us,1403,40.436,-93.581,122
+29465,Morgan,OH,Gallia County,,city-us,1345,38.978,-82.272,293
+29468,Morgan,OH,Knox County,,city-us,1072,40.283,-82.437,293
+29477,Morgan,MN,Redwood County,,city-us,887,44.417,-94.926,3180
+29475,Morgan,VT,Orleans County,,city-us,635,44.896,-71.941,3703
+29480,Morgan,KS,Thomas County,,city-us,614,39.344,-101.102,0
+29461,Morgan,TX,Bosque County,,city-us,457,32.019,-97.608,2150
+29464,Morgan,IL,Coles County,,city-us,296,39.598,-88.109,844
+29481,Morgan,ND,Traill County,,city-us,82,47.629,-97.282,0
+29459,Morgan,PA,Allegheny County,,city-us,0,40.354,-80.140,245
+29467,Morgan,WV,Jackson County,,city-us,0,39.026,-81.763,88
+29469,Morgan,MO,Laclede County,,city-us,0,37.510,-92.677,565
+29473,Morgan,OR,Morrow County,,city-us,0,45.553,-119.921,782
+29474,Morgan,WI,Oconto County,,city-us,0,44.794,-88.190,111
+29476,Morgan,MT,Phillips County,,city-us,0,48.993,-107.832,346
+29479,Morgan,WI,Shawano County,,city-us,0,44.885,-88.824,154
+29482,Morgan,IA,Winneshiek County,,city-us,0,43.392,-92.049,213

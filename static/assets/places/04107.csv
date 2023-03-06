@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21162,Hutton,MD,,city-us,99,39.414,-79.479,694
-21161,Hutton,IL,,city-us,0,39.413,-88.084,155
-21163,Hutton,IN,,city-us,0,39.318,-87.534,432
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21162,Hutton,MD,Garrett County,,city-us,99,39.414,-79.479,694
+21161,Hutton,IL,Coles County,,city-us,0,39.413,-88.084,155
+21163,Hutton,IN,Vigo County,,city-us,0,39.318,-87.534,432

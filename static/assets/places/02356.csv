@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11821,Disney,OK,,city-us,223,36.481,-95.015,4846
-11877,Dizney,KY,,city-us,0,36.853,-83.117,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11821,Disney,OK,Mayes County,,city-us,223,36.481,-95.015,4846
+11877,Dizney,KY,Harlan County,,city-us,0,36.853,-83.117,201

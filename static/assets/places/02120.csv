@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10636,Cullen,LA,,city-us,689,32.969,-93.451,3331
-10633,Cullen,VA,,city-us,0,37.118,-78.649,237
-10634,Cullen,WI,,city-us,0,44.962,-87.853,195
-10635,Cullen,KY,,city-us,0,37.589,-87.878,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10636,Cullen,LA,Webster Parish,,city-us,689,32.969,-93.451,3331
+10633,Cullen,VA,Charlotte County,,city-us,0,37.118,-78.649,237
+10634,Cullen,WI,Oconto County,,city-us,0,44.962,-87.853,195
+10635,Cullen,KY,Union County,,city-us,0,37.589,-87.878,221

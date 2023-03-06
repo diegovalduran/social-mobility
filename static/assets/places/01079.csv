@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5373,Bristow,VA,,city-us,29346,38.723,-77.536,4152
-5369,Bristow,OK,,city-us,4260,35.831,-96.391,9262
-5368,Bristow,IA,,city-us,144,42.774,-92.907,3025
-5367,Bristow,NE,,city-us,69,42.842,-98.585,3174
-5370,Bristow,SC,,city-us,0,34.419,-79.618,197
-5371,Bristow,MS,,city-us,0,34.005,-88.364,167
-5372,Bristow,IN,,city-us,0,38.140,-86.722,289
-5374,Bristow,MO,,city-us,0,37.805,-94.264,289
-5375,Bristow,KY,,city-us,0,37.019,-86.360,76
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5373,Bristow,VA,Prince William County,,city-us,29346,38.723,-77.536,4152
+5369,Bristow,OK,Creek County,,city-us,4260,35.831,-96.391,9262
+5368,Bristow,IA,Butler County,,city-us,144,42.774,-92.907,3025
+5367,Bristow,NE,Boyd County,,city-us,69,42.842,-98.585,3174
+5370,Bristow,SC,Marlboro County,,city-us,0,34.419,-79.618,197
+5371,Bristow,MS,Monroe County,,city-us,0,34.005,-88.364,167
+5372,Bristow,IN,Perry County,,city-us,0,38.140,-86.722,289
+5374,Bristow,MO,Vernon County,,city-us,0,37.805,-94.264,289
+5375,Bristow,KY,Warren County,,city-us,0,37.019,-86.360,76

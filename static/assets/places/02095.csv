@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10523,Crowley,TX,,city-us,19333,32.577,-97.358,3900
-10521,Crowley,LA,,city-us,11575,30.214,-92.375,5763
-10522,Crowley,CO,,city-us,182,38.193,-103.856,2206
-10524,Crowley,OR,,city-us,0,43.292,-117.894,525
-10525,Crowley,CA,,city-us,0,39.409,-123.426,147
-10526,Crowley,OR,,city-us,0,44.978,-123.208,797
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10523,Crowley,TX,Johnson County / Tarrant County,,city-us,19333,32.577,-97.358,3900
+10521,Crowley,LA,Acadia Parish,,city-us,11575,30.214,-92.375,5763
+10522,Crowley,CO,Crowley County,,city-us,182,38.193,-103.856,2206
+10524,Crowley,OR,Malheur County,,city-us,0,43.292,-117.894,525
+10525,Crowley,CA,Mendocino County,,city-us,0,39.409,-123.426,147
+10526,Crowley,OR,Polk County,,city-us,0,44.978,-123.208,797

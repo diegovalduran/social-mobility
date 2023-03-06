@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4166,Black Wolf,WI,,city-us,2409,43.940,-88.479,2389
-4164,Black Wolf,KS,,city-us,0,38.758,-98.362,631
-4165,Black Wolf,WV,,city-us,0,37.336,-81.486,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4166,Black Wolf,WI,Winnebago County,,city-us,2409,43.940,-88.479,2389
+4164,Black Wolf,KS,Ellsworth County,,city-us,0,38.758,-98.362,631
+4165,Black Wolf,WV,McDowell County,,city-us,0,37.336,-81.486,179

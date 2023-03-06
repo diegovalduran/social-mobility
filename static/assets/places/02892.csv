@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14514,Falconer,NY,,city-us,2263,42.119,-79.198,4618
-14515,Falconer,ND,,city-us,258,47.984,-97.077,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14514,Falconer,NY,Chautauqua County,,city-us,2263,42.119,-79.198,4618
+14515,Falconer,ND,Grand Forks County,,city-us,258,47.984,-97.077,0

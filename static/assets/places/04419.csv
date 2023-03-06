@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22799,Kern,ND,,city-us,14,46.235,-102.300,0
-22800,Kern,MO,,city-us,0,39.776,-92.701,148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22799,Kern,ND,Hettinger County,,city-us,14,46.235,-102.300,0
+22800,Kern,MO,Macon County,,city-us,0,39.776,-92.701,148

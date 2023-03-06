@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9257,Coldwater,OH,,city-us,4721,40.480,-84.628,4249
-9249,Coldwater,MI,,city-us,3416,41.917,-84.974,215
-9258,Coldwater,MS,,city-us,1394,34.692,-89.977,5137
-9251,Coldwater,KS,,city-us,890,37.197,-99.190,808
-9255,Coldwater,MI,,city-us,822,43.774,-85.019,215
-9252,Coldwater,TX,,city-us,53,36.455,-102.630,160
-9250,Coldwater,KY,,city-us,0,36.651,-88.455,250
-9253,Coldwater,WV,,city-us,0,39.168,-80.633,93
-9254,Coldwater,GA,,city-us,0,34.223,-82.797,197
-9256,Coldwater,VA,,city-us,0,37.654,-76.734,93
-9259,Coldwater,MO,,city-us,0,37.303,-90.410,525
-9260,Coldwater,TX,,city-us,0,32.898,-95.244,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9257,Coldwater,OH,Mercer County,,city-us,4721,40.480,-84.628,4249
+9249,Coldwater,MI,Branch County,,city-us,3416,41.917,-84.974,215
+9258,Coldwater,MS,Tate County,,city-us,1394,34.692,-89.977,5137
+9251,Coldwater,KS,Comanche County,,city-us,890,37.197,-99.190,808
+9255,Coldwater,MI,Isabella County,,city-us,822,43.774,-85.019,215
+9252,Coldwater,TX,Dallam County,,city-us,53,36.455,-102.630,160
+9250,Coldwater,KY,Calloway County,,city-us,0,36.651,-88.455,250
+9253,Coldwater,WV,Doddridge County,,city-us,0,39.168,-80.633,93
+9254,Coldwater,GA,Elbert County,,city-us,0,34.223,-82.797,197
+9256,Coldwater,VA,King and Queen County,,city-us,0,37.654,-76.734,93
+9259,Coldwater,MO,Wayne County,,city-us,0,37.303,-90.410,525
+9260,Coldwater,TX,Wood County,,city-us,0,32.898,-95.244,179

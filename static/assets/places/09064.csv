@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45724,Webber,IL,,city-us,2121,38.351,-88.756,1267
-45726,Webber,MI,,city-us,1501,43.955,-85.857,2264
-45732,Weber,SD,,city-us,324,45.900,-98.935,423
-45733,Weber,ND,,city-us,62,45.972,-97.563,0
-45725,Webber,KS,,city-us,27,39.935,-98.035,3209
-45729,Weber,MN,,city-us,0,45.475,-93.124,704
-45730,Weber,MO,,city-us,0,40.017,-91.604,240
-45731,Weber,WI,,city-us,0,44.822,-90.090,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45724,Webber,IL,Jefferson County,,city-us,2121,38.351,-88.756,1267
+45726,Webber,MI,Lake County,,city-us,1501,43.955,-85.857,2264
+45732,Weber,SD,McPherson County,,city-us,324,45.900,-98.935,423
+45733,Weber,ND,Sargent County,,city-us,62,45.972,-97.563,0
+45725,Webber,KS,Jewell County,,city-us,27,39.935,-98.035,3209
+45729,Weber,MN,Isanti County,,city-us,0,45.475,-93.124,704
+45730,Weber,MO,Lewis County,,city-us,0,40.017,-91.604,240
+45731,Weber,WI,Marathon County,,city-us,0,44.822,-90.090,198

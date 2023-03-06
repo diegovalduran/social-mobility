@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13055,Edwards,CO,,city-us,10436,39.645,-106.594,3427
-13061,Edwards,WI,,city-us,2044,43.888,-87.830,2416
-13059,Edwards,MI,,city-us,1413,44.193,-84.294,1998
-13056,Edwards,MS,,city-us,975,32.330,-90.606,4447
-13062,Edwards,NY,,city-us,477,44.325,-75.251,3447
-13057,Edwards,MN,,city-us,240,45.024,-95.179,1931
-13054,Edwards,MO,,city-us,0,38.137,-93.170,337
-13058,Edwards,CA,,city-us,0,34.926,-117.935,667
-13060,Edwards,IL,,city-us,0,40.746,-89.744,692
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13055,Edwards,CO,Eagle County,,city-us,10436,39.645,-106.594,3427
+13061,Edwards,WI,Sheboygan County,,city-us,2044,43.888,-87.830,2416
+13059,Edwards,MI,Ogemaw County,,city-us,1413,44.193,-84.294,1998
+13056,Edwards,MS,Hinds County,,city-us,975,32.330,-90.606,4447
+13062,Edwards,NY,St. Lawrence County,,city-us,477,44.325,-75.251,3447
+13057,Edwards,MN,Kandiyohi County,,city-us,240,45.024,-95.179,1931
+13054,Edwards,MO,Benton County,,city-us,0,38.137,-93.170,337
+13058,Edwards,CA,Kern County,,city-us,0,34.926,-117.935,667
+13060,Edwards,IL,Peoria County,,city-us,0,40.746,-89.744,692

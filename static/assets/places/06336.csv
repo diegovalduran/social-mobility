@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32336,Ophir,IL,,city-us,437,41.494,-88.983,432
-32340,Ophir,CO,,city-us,195,37.857,-107.833,2941
-32341,Ophir,UT,,city-us,50,40.369,-112.259,2038
-32335,Ophir,OR,,city-us,0,42.563,-124.383,220
-32337,Ophir,NC,,city-us,0,35.478,-79.979,4239
-32338,Ophir,KY,,city-us,0,37.907,-83.014,109
-32339,Ophir,CA,,city-us,0,38.891,-121.124,1419
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32336,Ophir,IL,LaSalle County,,city-us,437,41.494,-88.983,432
+32340,Ophir,CO,San Miguel County,,city-us,195,37.857,-107.833,2941
+32341,Ophir,UT,Tooele County,,city-us,50,40.369,-112.259,2038
+32335,Ophir,OR,Curry County,,city-us,0,42.563,-124.383,220
+32337,Ophir,NC,Montgomery County,,city-us,0,35.478,-79.979,4239
+32338,Ophir,KY,Morgan County,,city-us,0,37.907,-83.014,109
+32339,Ophir,CA,Placer County,,city-us,0,38.891,-121.124,1419

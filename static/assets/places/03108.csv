@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15545,Fountain Prairie,WI,,city-us,931,43.417,-89.055,2288
-15546,Fountain Prairie,MN,,city-us,235,44.147,-96.256,2090
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15545,Fountain Prairie,WI,Columbia County,,city-us,931,43.417,-89.055,2288
+15546,Fountain Prairie,MN,Pipestone County,,city-us,235,44.147,-96.256,2090

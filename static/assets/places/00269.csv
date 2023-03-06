@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1402,Argenta,MI,,city-us,5895,42.467,-85.617,3149
-1404,Argenta,IL,,city-us,890,39.982,-88.823,2329
-1403,Argenta,MT,,city-us,88,45.280,-112.862,468
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1402,Argenta,MI,Allegan County,,city-us,5895,42.467,-85.617,3149
+1404,Argenta,IL,Macon County,,city-us,890,39.982,-88.823,2329
+1403,Argenta,MT,Beaverhead County,,city-us,88,45.280,-112.862,468

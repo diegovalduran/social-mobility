@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4816,Bovard,PA,,city-us,0,41.074,-79.972,164
-4817,Bovard,PA,,city-us,0,40.320,-79.503,2196
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4816,Bovard,PA,Butler County,,city-us,0,41.074,-79.972,164
+4817,Bovard,PA,Westmoreland County,,city-us,0,40.320,-79.503,2196

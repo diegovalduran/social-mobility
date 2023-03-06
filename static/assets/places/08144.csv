@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41203,Stanfield,OR,,city-us,2153,45.780,-119.217,3739
-41202,Stanfield,NC,,city-us,1614,35.233,-80.427,2706
-41201,Stanfield,AZ,,city-us,428,32.883,-111.962,1782
-41200,Stanfield,TX,,city-us,0,33.969,-98.000,1013
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41203,Stanfield,OR,Umatilla County,,city-us,2153,45.780,-119.217,3739
+41202,Stanfield,NC,Stanly County,,city-us,1614,35.233,-80.427,2706
+41201,Stanfield,AZ,Pinal County,,city-us,428,32.883,-111.962,1782
+41200,Stanfield,TX,Clay County,,city-us,0,33.969,-98.000,1013

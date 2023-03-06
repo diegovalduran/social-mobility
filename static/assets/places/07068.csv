@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35871,Range,AL,,city-us,0,31.313,-87.236,197
-35872,Range,OR,,city-us,0,44.893,-118.969,210
-35873,Range,OH,,city-us,0,39.732,-83.425,409
-35874,Range,WI,,city-us,0,45.396,-92.285,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35871,Range,AL,Conecuh County,,city-us,0,31.313,-87.236,197
+35872,Range,OR,Grant County,,city-us,0,44.893,-118.969,210
+35873,Range,OH,Madison County,,city-us,0,39.732,-83.425,409
+35874,Range,WI,Polk County,,city-us,0,45.396,-92.285,184

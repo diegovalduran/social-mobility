@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11482,Delong,IN,,city-us,0,41.138,-86.416,225
-11483,DeLong,IL,,city-us,0,40.817,-90.304,395
-11484,DeLong,WV,,city-us,0,39.401,-81.162,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11482,Delong,IN,Fulton County,,city-us,0,41.138,-86.416,225
+11483,DeLong,IL,Knox County,,city-us,0,40.817,-90.304,395
+11484,DeLong,WV,Pleasants County,,city-us,0,39.401,-81.162,90

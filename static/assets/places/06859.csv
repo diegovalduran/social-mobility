@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34925,Pondsville,MD,,city-us,139,39.623,-77.592,254
-34924,Pondsville,KY,,city-us,0,36.994,-86.165,79
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34925,Pondsville,MD,Washington County,,city-us,139,39.623,-77.592,254
+34924,Pondsville,KY,Warren County,,city-us,0,36.994,-86.165,79

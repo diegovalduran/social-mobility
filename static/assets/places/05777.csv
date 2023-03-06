@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29729,Mount Bullion,CA,,city-us,154,37.507,-120.045,1126
-30032,Mt. Bullion,CA,,city-us,133,37.509,-120.042,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29729,Mount Bullion,CA,Mariposa County,,city-us,154,37.507,-120.045,1126
+30032,Mt. Bullion,CA,Mariposa County,,city-us,133,37.509,-120.042,0

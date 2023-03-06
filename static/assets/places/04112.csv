@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21184,Iberia,MO,,city-us,713,38.090,-92.293,3857
-21185,Iberia,OH,,city-us,550,40.670,-82.844,2414
-21183,Iberia,MN,,city-us,0,44.239,-94.695,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21184,Iberia,MO,Miller County,,city-us,713,38.090,-92.293,3857
+21185,Iberia,OH,Morrow County,,city-us,550,40.670,-82.844,2414
+21183,Iberia,MN,Brown County,,city-us,0,44.239,-94.695,252

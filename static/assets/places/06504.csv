@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33151,Parkdale,MI,,city-us,607,44.267,-86.303,705
-33149,Parkdale,OR,,city-us,299,45.517,-121.597,2833
-33147,Parkdale,AR,,city-us,175,33.122,-91.546,2339
-33150,Parkdale,MO,,city-us,156,38.478,-90.523,2974
-33148,Parkdale,CO,,city-us,0,38.487,-105.372,717
-33152,Parkdale,MN,,city-us,0,46.233,-96.013,256
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33151,Parkdale,MI,Manistee County,,city-us,607,44.267,-86.303,705
+33149,Parkdale,OR,Hood River County,,city-us,299,45.517,-121.597,2833
+33147,Parkdale,AR,Ashley County,,city-us,175,33.122,-91.546,2339
+33150,Parkdale,MO,Jefferson County,,city-us,156,38.478,-90.523,2974
+33148,Parkdale,CO,Fremont County,,city-us,0,38.487,-105.372,717
+33152,Parkdale,MN,Otter Tail County,,city-us,0,46.233,-96.013,256

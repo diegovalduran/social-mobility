@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45498,Waterview,MD,,city-us,19,38.247,-75.903,240
-45497,Waterview,KY,,city-us,0,36.817,-85.458,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45498,Waterview,MD,Wicomico County,,city-us,19,38.247,-75.903,240
+45497,Waterview,KY,Cumberland County,,city-us,0,36.817,-85.458,218

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21186,Iconium,IA,,city-us,0,40.891,-92.955,278
-21187,Iconium,TN,,city-us,0,35.776,-86.022,162
-21188,Iconium,MO,,city-us,0,38.106,-93.544,493
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21186,Iconium,IA,Appanoose County,,city-us,0,40.891,-92.955,278
+21187,Iconium,TN,Cannon County,,city-us,0,35.776,-86.022,162
+21188,Iconium,MO,St. Clair County,,city-us,0,38.106,-93.544,493

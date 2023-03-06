@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21159,Hutchison,VA,,city-us,6503,38.964,-77.411,1146
-21158,Hutchison,KY,,city-us,0,38.138,-84.340,295
-21160,Hutchison,MO,,city-us,0,39.346,-91.643,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21159,Hutchison,VA,Fairfax County,,city-us,6503,38.964,-77.411,1146
+21158,Hutchison,KY,Bourbon County,,city-us,0,38.138,-84.340,295
+21160,Hutchison,MO,Ralls County,,city-us,0,39.346,-91.643,290

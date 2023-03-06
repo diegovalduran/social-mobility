@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12161,Doylestown,PA,,city-us,8250,40.310,-75.130,25812
-12163,Doylestown,OH,,city-us,3034,40.970,-81.697,6335
-12162,Doylestown,WI,,city-us,278,43.428,-89.150,3433
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12161,Doylestown,PA,Bucks County,,city-us,8250,40.310,-75.130,25812
+12163,Doylestown,OH,Wayne County,,city-us,3034,40.970,-81.697,6335
+12162,Doylestown,WI,Columbia County,,city-us,278,43.428,-89.150,3433

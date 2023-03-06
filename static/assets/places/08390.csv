@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42404,Tabor,IA,,city-us,999,40.895,-95.674,5039
-42401,Tabor,SD,,city-us,392,42.949,-97.659,3334
-42405,Tabor,MN,,city-us,113,48.065,-96.825,1814
-42402,Tabor,TX,,city-us,0,30.796,-96.371,1734
-42403,Tabor,IL,,city-us,0,40.181,-89.135,124
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42404,Tabor,IA,Fremont County / Mills County,,city-us,999,40.895,-95.674,5039
+42401,Tabor,SD,Bon Homme County,,city-us,392,42.949,-97.659,3334
+42405,Tabor,MN,Polk County,,city-us,113,48.065,-96.825,1814
+42402,Tabor,TX,Brazos County,,city-us,0,30.796,-96.371,1734
+42403,Tabor,IL,DeWitt County,,city-us,0,40.181,-89.135,124

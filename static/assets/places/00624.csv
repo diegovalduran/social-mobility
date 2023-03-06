@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3144,Belford,NJ,,city-us,2027,40.426,-74.087,3227
-3145,Belford,ND,,city-us,121,46.153,-96.948,0
-3143,Belford,SD,,city-us,74,43.901,-98.402,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3144,Belford,NJ,Monmouth County,,city-us,2027,40.426,-74.087,3227
+3145,Belford,ND,Richland County,,city-us,121,46.153,-96.948,0
+3143,Belford,SD,Aurora County,,city-us,74,43.901,-98.402,0

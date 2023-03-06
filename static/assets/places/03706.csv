@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18890,Harmon,IL,,city-us,345,41.715,-89.574,377
-18891,Harmon,ND,,city-us,259,46.952,-100.953,773
-18894,Harmon,KS,,city-us,255,37.342,-97.316,0
-18893,Harmon,SD,,city-us,151,45.783,-96.740,0
-18888,Harman,WV,,city-us,95,38.922,-79.525,3004
-18887,Harman,VA,,city-us,0,37.293,-82.202,205
-18889,Harmon,OK,,city-us,0,36.145,-99.560,233
-18892,Harmon,LA,,city-us,0,32.066,-93.431,86
-18895,Harmon,AR,,city-us,0,36.154,-94.277,186
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18890,Harmon,IL,Lee County,,city-us,345,41.715,-89.574,377
+18891,Harmon,ND,Morton County,,city-us,259,46.952,-100.953,773
+18894,Harmon,KS,Sumner County,,city-us,255,37.342,-97.316,0
+18893,Harmon,SD,Roberts County,,city-us,151,45.783,-96.740,0
+18888,Harman,WV,Randolph County,,city-us,95,38.922,-79.525,3004
+18887,Harman,VA,Buchanan County,,city-us,0,37.293,-82.202,205
+18889,Harmon,OK,Ellis County,,city-us,0,36.145,-99.560,233
+18892,Harmon,LA,Red River Parish,,city-us,0,32.066,-93.431,86
+18895,Harmon,AR,Washington County,,city-us,0,36.154,-94.277,186

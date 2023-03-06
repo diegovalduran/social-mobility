@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27500,McDermott,OH,,city-us,371,38.835,-83.065,407
-27499,McDermitt,OR,,city-us,124,41.998,-117.718,5254
-27498,McDermitt,NV,,city-us,109,41.997,-117.718,5254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27500,McDermott,OH,Scioto County,,city-us,371,38.835,-83.065,407
+27499,McDermitt,OR,Malheur County,,city-us,124,41.998,-117.718,5254
+27498,McDermitt,NV,Humboldt County,,city-us,109,41.997,-117.718,5254

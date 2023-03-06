@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25174,Lithia,VA,,city-us,0,37.478,-79.751,85
-25175,Lithia,FL,,city-us,0,27.850,-82.175,2796
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25174,Lithia,VA,Botetourt County,,city-us,0,37.478,-79.751,85
+25175,Lithia,FL,Hillsborough County,,city-us,0,27.850,-82.175,2796

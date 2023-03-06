@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24568,Levis,,Canada,city-international,143414,46.800,-71.183,1509
-24566,Levis,WI,,city-us,443,44.472,-90.639,1831
-24567,Levis,WI,,city-us,0,44.539,-91.105,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24568,Levis,,,Canada,city-international,143414,46.800,-71.183,1509
+24566,Levis,WI,Clark County,,city-us,443,44.472,-90.639,1831
+24567,Levis,WI,Jackson County,,city-us,0,44.539,-91.105,231

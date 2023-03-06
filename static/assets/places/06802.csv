@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34615,Pleasant Prairie,WI,,city-us,21392,42.553,-87.933,17257
-34616,Pleasant Prairie,MN,,city-us,224,43.637,-94.317,1975
-34614,Pleasant Prairie,ND,,city-us,21,47.624,-98.937,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34615,Pleasant Prairie,WI,Kenosha County,,city-us,21392,42.553,-87.933,17257
+34616,Pleasant Prairie,MN,Martin County,,city-us,224,43.637,-94.317,1975
+34614,Pleasant Prairie,ND,Eddy County,,city-us,21,47.624,-98.937,0

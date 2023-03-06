@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7786,Chalk Level,VA,,city-us,0,36.919,-79.278,99
-7787,Chalk Level,MO,,city-us,0,38.093,-93.810,539
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7786,Chalk Level,VA,Pittsylvania County,,city-us,0,36.919,-79.278,99
+7787,Chalk Level,MO,St. Clair County,,city-us,0,38.093,-93.810,539

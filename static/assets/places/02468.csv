@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12321,Duff,TN,,city-us,0,36.447,-84.067,82
-12322,Duff,IN,,city-us,0,38.327,-87.026,382
-12323,Duff,NE,,city-us,0,42.203,-99.604,233
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12321,Duff,TN,Campbell County,,city-us,0,36.447,-84.067,82
+12322,Duff,IN,Dubois County,,city-us,0,38.327,-87.026,382
+12323,Duff,NE,Rock County,,city-us,0,42.203,-99.604,233

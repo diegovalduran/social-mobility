@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23323,La Crescent,MN,,city-us,5274,43.830,-91.305,9621
-23322,La Crescent,MN,,city-us,1123,43.801,-91.336,1931
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23323,La Crescent,MN,Houston County / Winona County,,city-us,5274,43.830,-91.305,9621
+23322,La Crescent,MN,Houston County,,city-us,1123,43.801,-91.336,1931

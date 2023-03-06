@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19454,Hazel Run,MN,,city-us,53,44.752,-95.715,2886
-19453,Hazel Run,MO,,city-us,0,37.947,-90.466,387
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19454,Hazel Run,MN,Yellow Medicine County,,city-us,53,44.752,-95.715,2886
+19453,Hazel Run,MO,St. Francois County,,city-us,0,37.947,-90.466,387

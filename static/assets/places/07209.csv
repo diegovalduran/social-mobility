@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36442,Rich,IL,,city-us,74482,41.515,-87.733,2646
-36443,Rich,MI,,city-us,1498,43.278,-83.294,2550
-36439,Rich,KS,,city-us,341,38.100,-95.131,357
-36440,Rich,ND,,city-us,70,47.101,-97.505,0
-36441,Rich,MS,,city-us,0,34.416,-90.445,478
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36442,Rich,IL,Cook County,,city-us,74482,41.515,-87.733,2646
+36443,Rich,MI,Lapeer County,,city-us,1498,43.278,-83.294,2550
+36439,Rich,KS,Anderson County,,city-us,341,38.100,-95.131,357
+36440,Rich,ND,Cass County,,city-us,70,47.101,-97.505,0
+36441,Rich,MS,Coahoma County,,city-us,0,34.416,-90.445,478

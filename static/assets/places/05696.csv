@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29355,Moon Lake,FL,,city-us,4458,28.298,-82.606,490
-29356,Moon Lake,ND,,city-us,66,46.849,-98.999,0
-29354,Moon Lake,MS,,city-us,0,34.440,-90.495,1260
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29355,Moon Lake,FL,Pasco County,,city-us,4458,28.298,-82.606,490
+29356,Moon Lake,ND,Stutsman County,,city-us,66,46.849,-98.999,0
+29354,Moon Lake,MS,Coahoma County,,city-us,0,34.440,-90.495,1260

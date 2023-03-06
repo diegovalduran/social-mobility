@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32126,Olcott,NY,,city-us,1120,43.338,-78.715,3658
-32124,Olcott,KY,,city-us,0,36.686,-83.834,88
-32125,Olcott,WV,,city-us,0,38.234,-81.724,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32126,Olcott,NY,Niagara County,,city-us,1120,43.338,-78.715,3658
+32124,Olcott,KY,Bell County,,city-us,0,36.686,-83.834,88
+32125,Olcott,WV,Kanawha County,,city-us,0,38.234,-81.724,208

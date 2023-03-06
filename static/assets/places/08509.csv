@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42870,Thorp,WI,,city-us,851,44.996,-90.871,2151
-42871,Thorp,WA,,city-us,79,47.068,-120.671,37549
-42869,Thorp,SD,,city-us,46,45.015,-97.686,0
-42874,Thorpe,MN,,city-us,43,47.115,-94.863,1831
-42872,Thorpe,MO,,city-us,0,37.488,-92.998,525
-42873,Thorpe,IA,,city-us,0,42.566,-91.449,603
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42870,Thorp,WI,Clark County,,city-us,851,44.996,-90.871,2151
+42871,Thorp,WA,Kittitas County,,city-us,79,47.068,-120.671,37549
+42869,Thorp,SD,Clark County,,city-us,46,45.015,-97.686,0
+42874,Thorpe,MN,Hubbard County,,city-us,43,47.115,-94.863,1831
+42872,Thorpe,MO,Dallas County,,city-us,0,37.488,-92.998,525
+42873,Thorpe,IA,Delaware County,,city-us,0,42.566,-91.449,603

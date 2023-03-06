@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18407,Hager,OR,,city-us,0,42.191,-121.700,541
-18408,Hager,WV,,city-us,0,38.214,-82.087,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18407,Hager,OR,Klamath County,,city-us,0,42.191,-121.700,541
+18408,Hager,WV,Lincoln County,,city-us,0,38.214,-82.087,210

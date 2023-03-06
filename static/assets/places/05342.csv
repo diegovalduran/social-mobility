@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27401,Mayview,MO,,city-us,212,39.053,-93.831,3008
-27399,Mayview,IL,,city-us,0,40.113,-88.110,143
-27400,Mayview,WA,,city-us,0,46.631,-117.466,216
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27401,Mayview,MO,Lafayette County,,city-us,212,39.053,-93.831,3008
+27399,Mayview,IL,Champaign County,,city-us,0,40.113,-88.110,143
+27400,Mayview,WA,Garfield County,,city-us,0,46.631,-117.466,216

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22808,Kerrick,MN,,city-us,72,46.339,-92.586,3408
-7033,Carrick,CA,,city-us,67,41.447,-122.364,4158
-22806,Kerrick,TX,,city-us,0,36.496,-102.243,553
-22807,Kerrick,IL,,city-us,0,40.553,-88.987,83
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22808,Kerrick,MN,Pine County,,city-us,72,46.339,-92.586,3408
+7033,Carrick,CA,Siskiyou County,,city-us,67,41.447,-122.364,4158
+22806,Kerrick,TX,Dallam County,,city-us,0,36.496,-102.243,553
+22807,Kerrick,IL,McLean County,,city-us,0,40.553,-88.987,83

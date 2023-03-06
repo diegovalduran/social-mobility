@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44151,Valley Falls,RI,,city-us,12064,41.907,-71.391,2650
-44153,Valley Falls,SC,,city-us,7583,35.016,-81.975,2101
-44149,Valley Falls,KS,,city-us,1086,39.343,-95.460,4713
-44152,Valley Falls,NY,,city-us,459,42.903,-73.563,3666
-44150,Valley Falls,OR,,city-us,0,42.484,-120.282,5019
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44151,Valley Falls,RI,Providence County,,city-us,12064,41.907,-71.391,2650
+44153,Valley Falls,SC,Spartanburg County,,city-us,7583,35.016,-81.975,2101
+44149,Valley Falls,KS,Jefferson County,,city-us,1086,39.343,-95.460,4713
+44152,Valley Falls,NY,Rensselaer County,,city-us,459,42.903,-73.563,3666
+44150,Valley Falls,OR,Lake County,,city-us,0,42.484,-120.282,5019

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16935,Glenburn,ME,,city-us,4665,44.893,-68.845,2740
-16934,Glenburn,PA,,city-us,1440,41.510,-75.748,1776
-16936,Glenburn,ND,,city-us,401,48.513,-101.221,3298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16935,Glenburn,ME,Penobscot County,,city-us,4665,44.893,-68.845,2740
+16934,Glenburn,PA,Lackawanna County,,city-us,1440,41.510,-75.748,1776
+16936,Glenburn,ND,Renville County,,city-us,401,48.513,-101.221,3298

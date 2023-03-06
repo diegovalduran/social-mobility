@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11814,Disco,TN,,city-us,0,35.786,-84.158,230
-11815,Disco,IL,,city-us,0,40.620,-91.021,340
-11816,Disco,WI,,city-us,0,44.262,-91.009,162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11814,Disco,TN,Blount County,,city-us,0,35.786,-84.158,230
+11815,Disco,IL,Hancock County,,city-us,0,40.620,-91.021,340
+11816,Disco,WI,Jackson County,,city-us,0,44.262,-91.009,162

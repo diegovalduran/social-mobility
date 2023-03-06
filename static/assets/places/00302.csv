@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1563,Arroyo Hondo,NM,,city-us,426,35.610,-105.945,561
-1564,Arroyo Hondo,NM,,city-us,288,36.536,-105.670,655
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1563,Arroyo Hondo,NM,Santa Fe County,,city-us,426,35.610,-105.945,561
+1564,Arroyo Hondo,NM,Taos County,,city-us,288,36.536,-105.670,655

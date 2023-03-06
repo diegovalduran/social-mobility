@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15624,Francis,UT,,city-us,1658,40.611,-111.281,1959
-15623,Francis,OK,,city-us,241,34.874,-96.596,2015
-15621,Francis,ND,,city-us,29,46.939,-100.518,0
-15622,Francis,NE,,city-us,25,42.311,-99.054,209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15624,Francis,UT,Summit County,,city-us,1658,40.611,-111.281,1959
+15623,Francis,OK,Pontotoc County,,city-us,241,34.874,-96.596,2015
+15621,Francis,ND,Burleigh County,,city-us,29,46.939,-100.518,0
+15622,Francis,NE,Holt County,,city-us,25,42.311,-99.054,209

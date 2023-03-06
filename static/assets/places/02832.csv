@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14076,Evans,GA,,city-us,38452,33.534,-82.131,3825
-14083,Evans,CO,,city-us,22296,40.376,-104.692,3691
-14077,Evans,NY,,city-us,15201,42.655,-79.005,5907
-14078,Evans,WV,,city-us,1710,38.820,-81.779,1902
-14080,Evans,IL,,city-us,1165,41.072,-89.100,338
-14079,Evans,IL,,city-us,0,40.222,-89.364,120
-14081,Evans,WA,,city-us,0,48.714,-118.025,287
-14082,Evans,LA,,city-us,0,30.989,-93.502,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14076,Evans,GA,Columbia County,,city-us,38452,33.534,-82.131,3825
+14083,Evans,CO,Weld County,,city-us,22296,40.376,-104.692,3691
+14077,Evans,NY,Erie County,,city-us,15201,42.655,-79.005,5907
+14078,Evans,WV,Jackson County,,city-us,1710,38.820,-81.779,1902
+14080,Evans,IL,Marshall County,,city-us,1165,41.072,-89.100,338
+14079,Evans,IL,Logan County,,city-us,0,40.222,-89.364,120
+14081,Evans,WA,Stevens County,,city-us,0,48.714,-118.025,287
+14082,Evans,LA,Vernon Parish,,city-us,0,30.989,-93.502,104

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39050,Sebastian,FL,,city-us,25703,27.816,-80.471,4380
-39052,Sebastian,TX,,city-us,1331,26.343,-97.790,2241
-39051,Sebastian,OH,,city-us,0,40.444,-84.517,1195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39050,Sebastian,FL,Indian River County,,city-us,25703,27.816,-80.471,4380
+39052,Sebastian,TX,Willacy County,,city-us,1331,26.343,-97.790,2241
+39051,Sebastian,OH,Mercer County,,city-us,0,40.444,-84.517,1195

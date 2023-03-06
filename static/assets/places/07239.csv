@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36669,Ridgefield,WA,,city-us,12514,45.815,-122.743,6452
-36668,Ridgefield,NJ,,city-us,11421,40.834,-74.009,21839
-36672,Ridgefield,CT,,city-us,7216,41.270,-73.493,20871
-36670,Ridgefield,OH,,city-us,2177,41.272,-82.678,1737
-36671,Ridgefield,IL,,city-us,210,42.268,-88.361,717
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36669,Ridgefield,WA,Clark County,,city-us,12514,45.815,-122.743,6452
+36668,Ridgefield,NJ,Bergen County,,city-us,11421,40.834,-74.009,21839
+36672,Ridgefield,CT,Western Connecticut Planning Region,,city-us,7216,41.270,-73.493,20871
+36670,Ridgefield,OH,Huron County,,city-us,2177,41.272,-82.678,1737
+36671,Ridgefield,IL,McHenry County,,city-us,210,42.268,-88.361,717

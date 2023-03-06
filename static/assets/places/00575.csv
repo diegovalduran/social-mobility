@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2889,Bearwallow,VA,,city-us,0,37.241,-81.744,571
-2890,Bearwallow,NC,,city-us,0,35.463,-82.316,1122
-2891,Bearwallow,KY,,city-us,0,37.704,-85.317,463
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2889,Bearwallow,VA,Buchanan County,,city-us,0,37.241,-81.744,571
+2890,Bearwallow,NC,Henderson County,,city-us,0,35.463,-82.316,1122
+2891,Bearwallow,KY,Washington County,,city-us,0,37.704,-85.317,463

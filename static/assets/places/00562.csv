@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3106,Beemer,NE,,city-us,811,41.954,-96.847,291
-2838,Beamer,IN,,city-us,0,39.367,-86.938,148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3106,Beemer,NE,Cuming County,,city-us,811,41.954,-96.847,291
+2838,Beamer,IN,Owen County,,city-us,0,39.367,-86.938,148

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5085,Brantford,SD,,city-us,137,44.768,-97.400,0
-5086,Brantford,KS,,city-us,71,39.693,-97.311,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5085,Brantford,SD,Hamlin County,,city-us,137,44.768,-97.400,0
+5086,Brantford,KS,Washington County,,city-us,71,39.693,-97.311,0

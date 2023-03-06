@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18388,Hadley,MA,,city-us,5272,42.356,-72.569,12002
-18390,Hadley,MI,,city-us,4528,42.926,-83.403,4196
-18396,Hadley,NY,,city-us,1977,43.337,-73.906,3608
-18394,Hadley,IL,,city-us,250,39.717,-90.965,333
-18392,Hadley,MN,,city-us,54,44.001,-95.854,3215
-18389,Hadley,IN,,city-us,0,39.731,-86.603,284
-18391,Hadley,PA,,city-us,0,41.414,-80.233,1089
-18393,Hadley,NV,,city-us,0,38.698,-117.162,1761
-18395,Hadley,MO,,city-us,0,37.073,-90.798,401
-18397,Hadley,KY,,city-us,0,37.060,-86.607,1088
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18388,Hadley,MA,Hampshire County,,city-us,5272,42.356,-72.569,12002
+18390,Hadley,MI,Lapeer County,,city-us,4528,42.926,-83.403,4196
+18396,Hadley,NY,Saratoga County,,city-us,1977,43.337,-73.906,3608
+18394,Hadley,IL,Pike County,,city-us,250,39.717,-90.965,333
+18392,Hadley,MN,Murray County,,city-us,54,44.001,-95.854,3215
+18389,Hadley,IN,Hendricks County,,city-us,0,39.731,-86.603,284
+18391,Hadley,PA,Mercer County,,city-us,0,41.414,-80.233,1089
+18393,Hadley,NV,Nye County,,city-us,0,38.698,-117.162,1761
+18395,Hadley,MO,Reynolds County,,city-us,0,37.073,-90.798,401
+18397,Hadley,KY,Warren County,,city-us,0,37.060,-86.607,1088

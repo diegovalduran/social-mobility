@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7526,Centenary,SC,,city-us,191,34.031,-79.356,660
-7525,Centenary,VA,,city-us,0,37.709,-78.512,95
-7527,Centenary,IN,,city-us,0,39.658,-87.473,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7526,Centenary,SC,Marion County,,city-us,191,34.031,-79.356,660
+7525,Centenary,VA,Buckingham County,,city-us,0,37.709,-78.512,95
+7527,Centenary,IN,Vermillion County,,city-us,0,39.658,-87.473,261

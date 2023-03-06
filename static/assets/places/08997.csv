@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45127,Ware,MA,,city-us,6339,42.260,-72.240,9752
-45126,Ware,KY,,city-us,0,37.209,-84.769,116
-45128,Ware,MO,,city-us,0,38.214,-90.662,240
-45129,Ware,IA,,city-us,0,42.790,-94.759,311
-45130,Ware,IL,,city-us,0,37.448,-89.394,1056
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45127,Ware,MA,Hampshire County,,city-us,6339,42.260,-72.240,9752
+45126,Ware,KY,Casey County,,city-us,0,37.209,-84.769,116
+45128,Ware,MO,Jefferson County,,city-us,0,38.214,-90.662,240
+45129,Ware,IA,Pocahontas County,,city-us,0,42.790,-94.759,311
+45130,Ware,IL,Union County,,city-us,0,37.448,-89.394,1056

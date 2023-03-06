@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35836,Randall,WI,,city-us,3304,42.543,-88.215,2275
-35838,Randall,MN,,city-us,609,46.091,-94.504,4852
-35834,Randall,IA,,city-us,155,42.238,-93.601,2936
-35835,Randall,KS,,city-us,80,39.643,-98.045,3490
-35833,Randall,WI,,city-us,0,45.696,-92.835,115
-35837,Randall,WV,,city-us,0,39.660,-79.994,123
-35839,Randle,WA,,city-us,0,46.535,-121.957,2613
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35836,Randall,WI,Kenosha County,,city-us,3304,42.543,-88.215,2275
+35838,Randall,MN,Morrison County,,city-us,609,46.091,-94.504,4852
+35834,Randall,IA,Hamilton County,,city-us,155,42.238,-93.601,2936
+35835,Randall,KS,Jewell County,,city-us,80,39.643,-98.045,3490
+35833,Randall,WI,Burnett County,,city-us,0,45.696,-92.835,115
+35837,Randall,WV,Monongalia County,,city-us,0,39.660,-79.994,123
+35839,Randle,WA,Lewis County,,city-us,0,46.535,-121.957,2613

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2879,Beard,IN,,city-us,0,40.374,-86.451,213
-2880,Beard,WV,,city-us,0,38.077,-80.227,244
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2879,Beard,IN,Clinton County,,city-us,0,40.374,-86.451,213
+2880,Beard,WV,Pocahontas County,,city-us,0,38.077,-80.227,244

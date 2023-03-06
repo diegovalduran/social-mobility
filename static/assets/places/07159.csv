@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36241,Regal,MN,,city-us,41,45.407,-94.846,2586
-36242,Regal,MO,,city-us,0,39.468,-93.815,434
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36241,Regal,MN,Kandiyohi County,,city-us,41,45.407,-94.846,2586
+36242,Regal,MO,Ray County,,city-us,0,39.468,-93.815,434

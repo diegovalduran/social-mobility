@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10721,Curtin,PA,,city-us,494,41.086,-77.770,2033
-10722,Curtin,OR,,city-us,0,43.722,-123.212,736
-10723,Curtin,WV,,city-us,0,38.291,-80.640,404
-10724,Curtin,WV,,city-us,0,38.474,-80.362,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10721,Curtin,PA,Centre County,,city-us,494,41.086,-77.770,2033
+10722,Curtin,OR,Douglas County,,city-us,0,43.722,-123.212,736
+10723,Curtin,WV,Nicholas County,,city-us,0,38.291,-80.640,404
+10724,Curtin,WV,Webster County,,city-us,0,38.474,-80.362,159

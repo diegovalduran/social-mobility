@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43150,Torrey,NY,,city-us,1279,42.670,-76.955,3855
-43149,Torrey,UT,,city-us,242,38.299,-111.419,3105
-43148,Torrey,MN,,city-us,173,47.214,-93.869,2272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43150,Torrey,NY,Yates County,,city-us,1279,42.670,-76.955,3855
+43149,Torrey,UT,Wayne County,,city-us,242,38.299,-111.419,3105
+43148,Torrey,MN,Cass County,,city-us,173,47.214,-93.869,2272

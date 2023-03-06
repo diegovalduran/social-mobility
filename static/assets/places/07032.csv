@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35728,Racy,MI,,city-us,1060,43.165,-84.316,2336
-35727,Racy,WV,,city-us,0,39.139,-81.238,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35728,Racy,MI,Saginaw County,,city-us,1060,43.165,-84.316,2336
+35727,Racy,WV,Ritchie County,,city-us,0,39.139,-81.238,86

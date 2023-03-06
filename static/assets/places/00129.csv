@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-662,Allenport,PA,,city-us,542,40.374,-77.870,1460
-663,Allenport,PA,,city-us,480,40.098,-79.849,2529
+id,name,state,county,country,level,population,latitude,longitude,wiki
+662,Allenport,PA,Huntingdon County,,city-us,542,40.374,-77.870,1460
+663,Allenport,PA,Washington County,,city-us,480,40.098,-79.849,2529

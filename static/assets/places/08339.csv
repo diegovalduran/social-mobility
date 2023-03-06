@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42170,Surprise,AZ,,city-us,149191,33.631,-112.333,7547
-42168,Surprise,NE,,city-us,40,41.109,-97.311,4692
-42169,Surprise,IN,,city-us,0,38.971,-86.059,327
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42170,Surprise,AZ,Maricopa County,,city-us,149191,33.631,-112.333,7547
+42168,Surprise,NE,Butler County,,city-us,40,41.109,-97.311,4692
+42169,Surprise,IN,Jackson County,,city-us,0,38.971,-86.059,327

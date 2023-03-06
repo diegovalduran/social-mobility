@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32618,Osseo,MI,,city-us,3063,41.863,-84.544,3405
-32617,Osseo,MN,,city-us,2606,45.119,-93.402,7572
-32619,Osseo,WI,,city-us,1793,44.572,-91.227,3588
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32618,Osseo,MI,Hillsdale County,,city-us,3063,41.863,-84.544,3405
+32617,Osseo,MN,Hennepin County,,city-us,2606,45.119,-93.402,7572
+32619,Osseo,WI,Trempealeau County,,city-us,1793,44.572,-91.227,3588

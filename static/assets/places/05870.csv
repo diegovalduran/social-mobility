@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30168,Mutual,OH,,city-us,126,40.079,-83.637,3192
-30169,Mutual,OK,,city-us,62,36.231,-99.168,2497
-30167,Mutual,MD,,city-us,0,38.471,-76.548,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30168,Mutual,OH,Champaign County,,city-us,126,40.079,-83.637,3192
+30169,Mutual,OK,Woodward County,,city-us,62,36.231,-99.168,2497
+30167,Mutual,MD,Calvert County,,city-us,0,38.471,-76.548,263

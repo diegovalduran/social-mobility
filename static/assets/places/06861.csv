@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34933,Pontiac,MI,,city-us,60984,42.639,-83.291,27630
-34932,Pontiac,IL,,city-us,12546,40.888,-88.644,358
-34934,Pontiac,MO,,city-us,123,36.516,-92.604,692
-34930,Pontiac,ND,,city-us,87,46.666,-97.609,0
-34929,Pontiac,KS,,city-us,0,37.818,-96.716,310
-34931,Pontiac,IN,,city-us,0,39.590,-87.119,314
-34935,Pontiac,SC,,city-us,0,34.128,-80.855,377
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34933,Pontiac,MI,Oakland County,,city-us,60984,42.639,-83.291,27630
+34932,Pontiac,IL,Livingston County,,city-us,12546,40.888,-88.644,358
+34934,Pontiac,MO,Ozark County,,city-us,123,36.516,-92.604,692
+34930,Pontiac,ND,Cass County,,city-us,87,46.666,-97.609,0
+34929,Pontiac,KS,Butler County,,city-us,0,37.818,-96.716,310
+34931,Pontiac,IN,Clay County,,city-us,0,39.590,-87.119,314
+34935,Pontiac,SC,Richland County,,city-us,0,34.128,-80.855,377

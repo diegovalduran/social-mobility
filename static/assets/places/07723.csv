@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39094,Segal,KY,,city-us,0,37.206,-86.385,1677
-39791,Siegel,IA,,city-us,0,42.829,-92.357,956
-39792,Siegel,MN,,city-us,0,45.016,-92.807,335
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39094,Segal,KY,Edmonson County,,city-us,0,37.206,-86.385,1677
+39791,Siegel,IA,Bremer County,,city-us,0,42.829,-92.357,956
+39792,Siegel,MN,Washington County,,city-us,0,45.016,-92.807,335

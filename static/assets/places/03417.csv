@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17286,Gorham,ME,,city-us,7378,43.680,-70.444,8826
-17285,Gorham,NH,,city-us,2631,44.393,-71.198,5812
-17287,Gorham,OH,,city-us,2155,41.672,-84.310,2366
-17289,Gorham,NY,,city-us,587,42.799,-77.132,4162
-17290,Gorham,KS,,city-us,381,38.882,-99.023,7630
-17288,Gorham,IL,,city-us,168,37.718,-89.486,2574
-17299,Gorum,LA,,city-us,0,31.433,-92.944,258
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17286,Gorham,ME,Cumberland County,,city-us,7378,43.680,-70.444,8826
+17285,Gorham,NH,Coos County,,city-us,2631,44.393,-71.198,5812
+17287,Gorham,OH,Fulton County,,city-us,2155,41.672,-84.310,2366
+17289,Gorham,NY,Ontario County,,city-us,587,42.799,-77.132,4162
+17290,Gorham,KS,Russell County,,city-us,381,38.882,-99.023,7630
+17288,Gorham,IL,Jackson County,,city-us,168,37.718,-89.486,2574
+17299,Gorum,LA,Natchitoches Parish,,city-us,0,31.433,-92.944,258

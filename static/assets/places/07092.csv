@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35986,Raymore,MO,,city-us,24164,38.802,-94.453,2826
-36264,Reighmoor,WI,,city-us,3517,44.057,-88.674,1995
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35986,Raymore,MO,Cass County,,city-us,24164,38.802,-94.453,2826
+36264,Reighmoor,WI,Winnebago County,,city-us,3517,44.057,-88.674,1995

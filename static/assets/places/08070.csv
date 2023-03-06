@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40873,Springs,,South Africa,city-international,236083,-26.255,28.443,26725
-40872,Springs,NY,,city-us,9301,41.016,-72.159,4960
-40871,Springs,PA,,city-us,0,39.734,-79.149,333
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40873,Springs,,,South Africa,city-international,236083,-26.255,28.443,26725
+40872,Springs,NY,Suffolk County,,city-us,9301,41.016,-72.159,4960
+40871,Springs,PA,Somerset County,,city-us,0,39.734,-79.149,333

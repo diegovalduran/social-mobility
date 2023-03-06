@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30298,Nassau,,The Bahamas,city-international,274400,25.067,-77.333,17437
-30296,Nassau,NY,,city-us,4547,42.548,-73.545,4180
-30295,Nassau,MN,,city-us,66,45.066,-96.440,2771
-30297,Nassau,DE,,city-us,0,38.752,-75.188,949
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30298,Nassau,,,The Bahamas,city-international,274400,25.067,-77.333,17437
+30296,Nassau,NY,Rensselaer County,,city-us,4547,42.548,-73.545,4180
+30295,Nassau,MN,Lac qui Parle County,,city-us,66,45.066,-96.440,2771
+30297,Nassau,DE,Sussex County,,city-us,0,38.752,-75.188,949

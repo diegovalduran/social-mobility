@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17244,Goose Creek,SC,,city-us,46229,32.981,-80.033,7643
-17246,Goose Creek,IL,,city-us,792,40.112,-88.638,1153
-17245,Goose Creek,KY,,city-us,297,38.316,-85.649,2616
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17244,Goose Creek,SC,Berkeley County,,city-us,46229,32.981,-80.033,7643
+17246,Goose Creek,IL,Piatt County,,city-us,792,40.112,-88.638,1153
+17245,Goose Creek,KY,Jefferson County,,city-us,297,38.316,-85.649,2616

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8230,Chestnut Ridge,NY,,city-us,10481,41.084,-74.056,3876
-8226,Chestnut Ridge,NJ,,city-us,8436,41.055,-74.047,19592
-8227,Chestnut Ridge,PA,,city-us,0,39.980,-79.806,231
-8228,Chestnut Ridge,IN,,city-us,0,38.889,-85.860,223
-8229,Chestnut Ridge,WV,,city-us,0,39.649,-79.942,135
-8231,Chestnut Ridge,MO,,city-us,0,37.798,-90.336,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8230,Chestnut Ridge,NY,Rockland County,,city-us,10481,41.084,-74.056,3876
+8226,Chestnut Ridge,NJ,Bergen County,,city-us,8436,41.055,-74.047,19592
+8227,Chestnut Ridge,PA,Fayette County,,city-us,0,39.980,-79.806,231
+8228,Chestnut Ridge,IN,Jackson County,,city-us,0,38.889,-85.860,223
+8229,Chestnut Ridge,WV,Monongalia County,,city-us,0,39.649,-79.942,135
+8231,Chestnut Ridge,MO,Ste. Genevieve County,,city-us,0,37.798,-90.336,271

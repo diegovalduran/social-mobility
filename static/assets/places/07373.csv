@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37444,Romulus,MI,,city-us,25097,42.222,-83.397,11329
-37442,Romulus,NY,,city-us,409,42.752,-76.834,7212
-37441,Romulus,OK,,city-us,0,35.116,-96.923,144
-37443,Romulus,AL,,city-us,0,33.148,-87.752,1025
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37444,Romulus,MI,Wayne County,,city-us,25097,42.222,-83.397,11329
+37442,Romulus,NY,Seneca County,,city-us,409,42.752,-76.834,7212
+37441,Romulus,OK,Pottawatomie County,,city-us,0,35.116,-96.923,144
+37443,Romulus,AL,Tuscaloosa County,,city-us,0,33.148,-87.752,1025

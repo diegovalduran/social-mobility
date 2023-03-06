@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16170,Gaines,MI,,city-us,29110,42.805,-85.605,3817
-16169,Gaines,MI,,city-us,6647,42.906,-83.880,234
-16171,Gaines,NY,,city-us,3183,43.276,-78.198,4260
-16172,Gaines,PA,,city-us,0,41.752,-77.558,286
-16173,Gaines,WV,,city-us,0,38.780,-80.320,162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16170,Gaines,MI,Kent County,,city-us,29110,42.805,-85.605,3817
+16169,Gaines,MI,Genesee County,,city-us,6647,42.906,-83.880,234
+16171,Gaines,NY,Orleans County,,city-us,3183,43.276,-78.198,4260
+16172,Gaines,PA,Tioga County,,city-us,0,41.752,-77.558,286
+16173,Gaines,WV,Upshur County,,city-us,0,38.780,-80.320,162

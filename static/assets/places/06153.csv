@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31408,North Plains,OR,,city-us,3424,45.597,-122.993,4891
-31407,North Plains,MI,,city-us,1232,43.069,-84.907,2155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31408,North Plains,OR,Washington County,,city-us,3424,45.597,-122.993,4891
+31407,North Plains,MI,Ionia County,,city-us,1232,43.069,-84.907,2155

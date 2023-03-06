@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37943,Rushmore,MN,,city-us,368,43.619,-95.801,5423
-37944,Rushmore,OH,,city-us,0,40.874,-84.253,224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37943,Rushmore,MN,Nobles County,,city-us,368,43.619,-95.801,5423
+37944,Rushmore,OH,Putnam County,,city-us,0,40.874,-84.253,224

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17656,Grantsville,UT,,city-us,13574,40.600,-112.464,5612
-17653,Grantsville,MD,,city-us,948,39.695,-79.151,6479
-17652,Grantsville,WV,,city-us,476,38.923,-81.096,3810
-17654,Grantsville,MO,,city-us,0,39.943,-93.114,317
-17655,Grantsville,NV,,city-us,0,38.846,-117.573,825
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17656,Grantsville,UT,Tooele County,,city-us,13574,40.600,-112.464,5612
+17653,Grantsville,MD,Garrett County,,city-us,948,39.695,-79.151,6479
+17652,Grantsville,WV,Calhoun County,,city-us,476,38.923,-81.096,3810
+17654,Grantsville,MO,Linn County,,city-us,0,39.943,-93.114,317
+17655,Grantsville,NV,Nye County,,city-us,0,38.846,-117.573,825

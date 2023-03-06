@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19788,Herriman,UT,,city-us,58198,40.514,-112.033,7114
-18971,Harriman,TN,,city-us,5950,35.930,-84.563,10216
-18972,Harriman,NY,,city-us,2678,41.308,-74.145,7874
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19788,Herriman,UT,Salt Lake County,,city-us,58198,40.514,-112.033,7114
+18971,Harriman,TN,Morgan County / Roane County,,city-us,5950,35.930,-84.563,10216
+18972,Harriman,NY,Orange County,,city-us,2678,41.308,-74.145,7874

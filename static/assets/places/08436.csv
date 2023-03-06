@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42595,Tazewell,VA,,city-us,4423,37.115,-81.520,3467
-42593,Tazewell,TN,,city-us,2354,36.454,-83.569,5843
-42594,Tazewell,GA,,city-us,93,32.381,-84.441,1542
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42595,Tazewell,VA,Tazewell County,,city-us,4423,37.115,-81.520,3467
+42593,Tazewell,TN,Claiborne County,,city-us,2354,36.454,-83.569,5843
+42594,Tazewell,GA,Marion County,,city-us,93,32.381,-84.441,1542

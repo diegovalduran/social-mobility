@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22895,Kidds Store,KY,,city-us,0,37.415,-84.854,319
-22896,Kidds Store,VA,,city-us,0,37.804,-78.362,801
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22895,Kidds Store,KY,Casey County,,city-us,0,37.415,-84.854,319
+22896,Kidds Store,VA,Fluvanna County,,city-us,0,37.804,-78.362,801

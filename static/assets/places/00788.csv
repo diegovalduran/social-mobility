@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6389,Byron,MI,,city-us,27352,42.812,-85.724,4454
-6393,Byron,MN,,city-us,6546,44.033,-92.645,4692
-6392,Byron,IL,,city-us,6415,42.166,-89.264,798
-6397,Byron,GA,,city-us,5839,32.654,-83.760,3631
-6387,Byron,NY,,city-us,2276,43.085,-78.067,3219
-6385,Byron,CA,,city-us,2113,37.867,-121.638,8388
-6386,Byron,WI,,city-us,1550,43.652,-88.451,2292
-6391,Byron,WI,,city-us,1236,44.027,-90.374,2061
-4069,Biron,WI,,city-us,826,44.424,-89.780,3712
-6382,Byron,WY,,city-us,568,44.796,-108.507,3539
-6398,Byron,MI,,city-us,525,42.823,-83.944,3772
-6401,Byron,MN,,city-us,209,43.878,-93.575,194
-6383,Byron,MN,,city-us,155,46.502,-94.715,194
-6395,Byron,ME,,city-us,105,44.703,-70.648,4501
-6400,Byron,NE,,city-us,83,40.004,-97.769,3267
-6399,Byron,KS,,city-us,68,38.214,-98.635,0
-6381,Byron,OK,,city-us,39,36.902,-98.294,4563
-6384,Byron,ND,,city-us,22,48.935,-98.792,0
-6388,Byron,OH,,city-us,0,39.786,-83.981,704
-6390,Byron,IN,,city-us,0,41.656,-86.625,397
-6394,Byron,MO,,city-us,0,38.335,-91.711,247
-6396,Byron,IN,,city-us,0,39.904,-87.106,316
-6402,Byron,WA,,city-us,0,46.188,-119.878,670
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6389,Byron,MI,Kent County,,city-us,27352,42.812,-85.724,4454
+6393,Byron,MN,Olmsted County,,city-us,6546,44.033,-92.645,4692
+6392,Byron,IL,Ogle County,,city-us,6415,42.166,-89.264,798
+6397,Byron,GA,Peach County,,city-us,5839,32.654,-83.760,3631
+6387,Byron,NY,Genesee County,,city-us,2276,43.085,-78.067,3219
+6385,Byron,CA,Contra Costa County,,city-us,2113,37.867,-121.638,8388
+6386,Byron,WI,Fond du Lac County,,city-us,1550,43.652,-88.451,2292
+6391,Byron,WI,Monroe County,,city-us,1236,44.027,-90.374,2061
+4069,Biron,WI,Wood County,,city-us,826,44.424,-89.780,3712
+6382,Byron,WY,Big Horn County,,city-us,568,44.796,-108.507,3539
+6398,Byron,MI,Shiawassee County,,city-us,525,42.823,-83.944,3772
+6401,Byron,MN,Waseca County,,city-us,209,43.878,-93.575,194
+6383,Byron,MN,Cass County,,city-us,155,46.502,-94.715,194
+6395,Byron,ME,Oxford County,,city-us,105,44.703,-70.648,4501
+6400,Byron,NE,Thayer County,,city-us,83,40.004,-97.769,3267
+6399,Byron,KS,Stafford County,,city-us,68,38.214,-98.635,0
+6381,Byron,OK,Alfalfa County,,city-us,39,36.902,-98.294,4563
+6384,Byron,ND,Cavalier County,,city-us,22,48.935,-98.792,0
+6388,Byron,OH,Greene County,,city-us,0,39.786,-83.981,704
+6390,Byron,IN,LaPorte County,,city-us,0,41.656,-86.625,397
+6394,Byron,MO,Osage County,,city-us,0,38.335,-91.711,247
+6396,Byron,IN,Parke County,,city-us,0,39.904,-87.106,316
+6402,Byron,WA,Yakima County,,city-us,0,46.188,-119.878,670

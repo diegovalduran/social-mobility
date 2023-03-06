@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21871,Jameson,MO,,city-us,70,40.005,-93.979,3050
-21872,Jameson,MN,,city-us,0,48.604,-93.366,440
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21871,Jameson,MO,Daviess County,,city-us,70,40.005,-93.979,3050
+21872,Jameson,MN,Koochiching County,,city-us,0,48.604,-93.366,440

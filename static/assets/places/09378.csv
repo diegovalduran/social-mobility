@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47399,Wiser,ND,,city-us,67,47.107,-96.883,0
-47400,Wiser,IN,,city-us,0,39.612,-86.294,150
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47399,Wiser,ND,Cass County,,city-us,67,47.107,-96.883,0
+47400,Wiser,IN,Morgan County,,city-us,0,39.612,-86.294,150

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33938,Pickens,SC,,city-us,3371,34.883,-82.707,6587
-33936,Pickens,MS,,city-us,896,32.884,-89.971,3411
-33939,Pickens,WV,,city-us,17,38.655,-80.212,751
-33934,Pickens,AR,,city-us,0,33.846,-91.482,161
-33935,Pickens,TX,,city-us,0,32.254,-95.923,97
-33937,Pickens,OK,,city-us,0,34.396,-95.012,406
-33940,Pickens,AR,,city-us,0,35.347,-91.874,162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33938,Pickens,SC,Pickens County,,city-us,3371,34.883,-82.707,6587
+33936,Pickens,MS,Holmes County,,city-us,896,32.884,-89.971,3411
+33939,Pickens,WV,Randolph County,,city-us,17,38.655,-80.212,751
+33934,Pickens,AR,Desha County,,city-us,0,33.846,-91.482,161
+33935,Pickens,TX,Henderson County,,city-us,0,32.254,-95.923,97
+33937,Pickens,OK,McCurtain County,,city-us,0,34.396,-95.012,406
+33940,Pickens,AR,White County,,city-us,0,35.347,-91.874,162

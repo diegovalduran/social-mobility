@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41150,St. Thomas,PA,,city-us,5884,39.925,-77.805,4531
-41152,St. Thomas,ND,,city-us,316,48.619,-97.446,2769
-41149,St. Thomas,MO,,city-us,222,38.368,-92.217,2745
-41151,St. Thomas,MN,,city-us,0,44.498,-93.757,557
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41150,St. Thomas,PA,Franklin County,,city-us,5884,39.925,-77.805,4531
+41152,St. Thomas,ND,Pembina County,,city-us,316,48.619,-97.446,2769
+41149,St. Thomas,MO,Cole County,,city-us,222,38.368,-92.217,2745
+41151,St. Thomas,MN,Le Sueur County,,city-us,0,44.498,-93.757,557

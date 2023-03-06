@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6840,Canyon,TX,,city-us,15221,34.980,-101.919,4354
-6841,Canyon,MN,,city-us,40,47.040,-92.471,489
-6838,Canyon,CA,,city-us,0,37.834,-122.165,4798
-6839,Canyon,WV,,city-us,0,39.676,-79.891,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6840,Canyon,TX,Randall County,,city-us,15221,34.980,-101.919,4354
+6841,Canyon,MN,St. Louis County,,city-us,40,47.040,-92.471,489
+6838,Canyon,CA,Alameda County,,city-us,0,37.834,-122.165,4798
+6839,Canyon,WV,Monongalia County,,city-us,0,39.676,-79.891,91

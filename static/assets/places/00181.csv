@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-935,Ambia,IN,,city-us,231,40.490,-87.517,4361
-936,Ambia,TX,,city-us,0,33.593,-95.659,283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+935,Ambia,IN,Benton County,,city-us,231,40.490,-87.517,4361
+936,Ambia,TX,Lamar County,,city-us,0,33.593,-95.659,283

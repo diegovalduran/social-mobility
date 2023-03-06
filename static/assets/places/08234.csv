@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41642,Stoughton,MA,,city-us,29132,42.119,-71.104,13024
-41641,Stoughton,WI,,city-us,13085,42.917,-89.218,10516
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41642,Stoughton,MA,Norfolk County,,city-us,29132,42.119,-71.104,13024
+41641,Stoughton,WI,Dane County,,city-us,13085,42.917,-89.218,10516

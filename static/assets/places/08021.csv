@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40488,Spafford,NY,,city-us,1597,42.830,-76.289,4551
-40487,Spafford,MN,,city-us,0,43.616,-95.372,105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40488,Spafford,NY,Onondaga County,,city-us,1597,42.830,-76.289,4551
+40487,Spafford,MN,Jackson County,,city-us,0,43.616,-95.372,105

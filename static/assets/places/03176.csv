@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16032,Frisco,TX,,city-us,210719,33.155,-96.823,16796
-16037,Frisco,CO,,city-us,2903,39.574,-106.098,3470
-16029,Frisco,PA,,city-us,914,40.848,-80.268,460
-16030,Frisco,PA,,city-us,881,40.852,-80.268,460
-16033,Frisco,NC,,city-us,692,35.235,-75.628,3151
-16031,Frisco,AL,,city-us,0,31.596,-85.866,168
-16034,Frisco,IL,,city-us,0,38.113,-88.778,121
-16035,Frisco,LA,,city-us,0,30.586,-91.526,548
-16036,Frisco,MO,,city-us,0,36.759,-89.862,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16032,Frisco,TX,Collin County / Denton County,,city-us,210719,33.155,-96.823,16796
+16037,Frisco,CO,Summit County,,city-us,2903,39.574,-106.098,3470
+16029,Frisco,PA,Beaver County,,city-us,914,40.848,-80.268,460
+16030,Frisco,PA,Beaver County / Lawrence County,,city-us,881,40.852,-80.268,460
+16033,Frisco,NC,Dare County,,city-us,692,35.235,-75.628,3151
+16031,Frisco,AL,Coffee County,,city-us,0,31.596,-85.866,168
+16034,Frisco,IL,Franklin County,,city-us,0,38.113,-88.778,121
+16035,Frisco,LA,Pointe Coupee Parish,,city-us,0,30.586,-91.526,548
+16036,Frisco,MO,Stoddard County,,city-us,0,36.759,-89.862,271

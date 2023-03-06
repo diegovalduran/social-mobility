@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1323,Arbor,MO,,city-us,0,37.159,-89.802,305
-1324,Arbor,NE,,city-us,0,40.896,-96.673,353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1323,Arbor,MO,Cape Girardeau County,,city-us,0,37.159,-89.802,305
+1324,Arbor,NE,Lancaster County,,city-us,0,40.896,-96.673,353

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22648,Kelso,WA,,city-us,12719,46.147,-122.908,11024
-22651,Kelso,MO,,city-us,548,37.191,-89.550,3592
-22652,Kelso,MN,,city-us,270,44.500,-94.070,1862
-22653,Kelso,ND,,city-us,78,47.281,-97.007,0
-22647,Kelso,OR,,city-us,0,45.418,-122.308,250
-22649,Kelso,AR,,city-us,0,33.797,-91.271,173
-22650,Kelso,TN,,city-us,0,35.126,-86.469,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22648,Kelso,WA,Cowlitz County,,city-us,12719,46.147,-122.908,11024
+22651,Kelso,MO,Scott County,,city-us,548,37.191,-89.550,3592
+22652,Kelso,MN,Sibley County,,city-us,270,44.500,-94.070,1862
+22653,Kelso,ND,Traill County,,city-us,78,47.281,-97.007,0
+22647,Kelso,OR,Clackamas County,,city-us,0,45.418,-122.308,250
+22649,Kelso,AR,Desha County,,city-us,0,33.797,-91.271,173
+22650,Kelso,TN,Lincoln County,,city-us,0,35.126,-86.469,272

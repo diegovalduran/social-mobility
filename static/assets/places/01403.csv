@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7070,Carrs Corner,NJ,,city-us,10566,40.213,-74.432,16564
-22531,Karrs Corner,MI,,city-us,1567,43.436,-83.519,2500
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7070,Carrs Corner,NJ,Monmouth County,,city-us,10566,40.213,-74.432,16564
+22531,Karrs Corner,MI,Tuscola County,,city-us,1567,43.436,-83.519,2500

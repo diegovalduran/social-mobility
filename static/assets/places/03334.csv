@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16881,Glasco,NY,,city-us,2219,42.044,-73.947,3979
-16880,Glasco,KS,,city-us,441,39.357,-97.841,3970
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16881,Glasco,NY,Ulster County,,city-us,2219,42.044,-73.947,3979
+16880,Glasco,KS,Cloud County,,city-us,441,39.357,-97.841,3970

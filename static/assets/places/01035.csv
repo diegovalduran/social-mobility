@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5157,Brenton,IL,,city-us,862,40.717,-88.180,1097
-5158,Brenton,WV,,city-us,82,37.596,-81.636,228
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5157,Brenton,IL,Ford County,,city-us,862,40.717,-88.180,1097
+5158,Brenton,WV,Wyoming County,,city-us,82,37.596,-81.636,228

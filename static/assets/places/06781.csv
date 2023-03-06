@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34460,Plantation,FL,,city-us,92986,26.128,-80.233,33369
-34462,Plantation,FL,,city-us,4565,27.068,-82.373,844
-34461,Plantation,KY,,city-us,820,38.283,-85.591,3127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34460,Plantation,FL,Broward County,,city-us,92986,26.128,-80.233,33369
+34462,Plantation,FL,Sarasota County,,city-us,4565,27.068,-82.373,844
+34461,Plantation,KY,Jefferson County,,city-us,820,38.283,-85.591,3127

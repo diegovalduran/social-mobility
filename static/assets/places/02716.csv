@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13494,Elma,NY,,city-us,11668,42.828,-78.648,8394
-13495,Elma,WA,,city-us,3477,47.003,-123.409,5813
-13496,Elma,IA,,city-us,512,43.247,-92.436,3532
-13498,Elma,ND,,city-us,75,45.976,-96.981,0
-13497,Elma,VA,,city-us,0,37.754,-78.795,98
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13494,Elma,NY,Erie County,,city-us,11668,42.828,-78.648,8394
+13495,Elma,WA,Grays Harbor County,,city-us,3477,47.003,-123.409,5813
+13496,Elma,IA,Howard County,,city-us,512,43.247,-92.436,3532
+13498,Elma,ND,Richland County,,city-us,75,45.976,-96.981,0
+13497,Elma,VA,Nelson County,,city-us,0,37.754,-78.795,98

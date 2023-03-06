@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15408,Forks,PA,,city-us,16295,40.735,-75.226,143
-15407,Forks,WA,,city-us,3385,47.950,-124.385,15271
-15409,Forks,PA,,city-us,374,41.493,-76.548,143
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15408,Forks,PA,Northampton County,,city-us,16295,40.735,-75.226,143
+15407,Forks,WA,Clallam County,,city-us,3385,47.950,-124.385,15271
+15409,Forks,PA,Sullivan County,,city-us,374,41.493,-76.548,143

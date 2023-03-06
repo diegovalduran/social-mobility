@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24049,Latrobe,PA,,city-us,7983,40.321,-79.379,9698
-24047,Latrobe,CA,,city-us,219,38.560,-120.984,740
-24048,Latrobe,WV,,city-us,0,37.791,-81.769,188
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24049,Latrobe,PA,Westmoreland County,,city-us,7983,40.321,-79.379,9698
+24047,Latrobe,CA,El Dorado County,,city-us,219,38.560,-120.984,740
+24048,Latrobe,WV,Logan County,,city-us,0,37.791,-81.769,188

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21868,Jamesburg,NJ,,city-us,5731,40.353,-74.440,15002
-21869,Jamesburg,CA,,city-us,0,36.370,-121.590,856
-21870,Jamesburg,IL,,city-us,0,40.262,-87.749,183
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21868,Jamesburg,NJ,Middlesex County,,city-us,5731,40.353,-74.440,15002
+21869,Jamesburg,CA,Monterey County,,city-us,0,36.370,-121.590,856
+21870,Jamesburg,IL,Vermilion County,,city-us,0,40.262,-87.749,183

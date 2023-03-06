@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27434,McAllister,MT,,city-us,278,45.444,-111.732,374
-27432,McAlister,NM,,city-us,0,34.692,-103.776,142
-27435,McAllister,WI,,city-us,0,45.327,-87.721,1372
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27434,McAllister,MT,Madison County,,city-us,278,45.444,-111.732,374
+27432,McAlister,NM,Quay County,,city-us,0,34.692,-103.776,142
+27435,McAllister,WI,Marinette County,,city-us,0,45.327,-87.721,1372

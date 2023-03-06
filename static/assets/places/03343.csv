@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16921,Glen Echo,MD,,city-us,276,38.969,-77.142,5052
-16920,Glen Echo,CO,,city-us,0,40.699,-105.585,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16921,Glen Echo,MD,Montgomery County,,city-us,276,38.969,-77.142,5052
+16920,Glen Echo,CO,Larimer County,,city-us,0,40.699,-105.585,239

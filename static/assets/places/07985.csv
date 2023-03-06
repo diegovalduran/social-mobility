@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40364,South Creek,WA,,city-us,2019,47.000,-122.391,229
-40362,South Creek,PA,,city-us,1114,41.949,-76.784,2621
-40363,South Creek,SD,,city-us,10,44.038,-100.987,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40364,South Creek,WA,Pierce County,,city-us,2019,47.000,-122.391,229
+40362,South Creek,PA,Bradford County,,city-us,1114,41.949,-76.784,2621
+40363,South Creek,SD,Jones County,,city-us,10,44.038,-100.987,0

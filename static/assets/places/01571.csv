@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7952,Charlotte,NC,,city-us,879709,35.227,-80.843,59810
-7949,Charlotte,MI,,city-us,9209,42.564,-84.836,10551
-7946,Charlotte,VT,,city-us,3893,44.306,-73.236,4606
-7948,Charlotte,TN,,city-us,1629,36.177,-87.340,4209
-7943,Charlotte,TX,,city-us,1554,28.862,-98.706,2966
-7945,Charlotte,NY,,city-us,1540,42.305,-79.237,4532
-7947,Charlotte,IA,,city-us,393,41.960,-90.465,3331
-7953,Charlotte,ME,,city-us,343,45.011,-67.273,2952
-7944,Charlotte,MO,,city-us,306,38.262,-94.455,1284
-7950,Charlotte,AR,,city-us,0,35.818,-91.439,394
-7951,Charlotte,IL,,city-us,0,40.820,-88.289,166
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7952,Charlotte,NC,Mecklenburg County,,city-us,879709,35.227,-80.843,59810
+7949,Charlotte,MI,Eaton County,,city-us,9209,42.564,-84.836,10551
+7946,Charlotte,VT,Chittenden County,,city-us,3893,44.306,-73.236,4606
+7948,Charlotte,TN,Dickson County,,city-us,1629,36.177,-87.340,4209
+7943,Charlotte,TX,Atascosa County,,city-us,1554,28.862,-98.706,2966
+7945,Charlotte,NY,Chautauqua County,,city-us,1540,42.305,-79.237,4532
+7947,Charlotte,IA,Clinton County,,city-us,393,41.960,-90.465,3331
+7953,Charlotte,ME,Washington County,,city-us,343,45.011,-67.273,2952
+7944,Charlotte,MO,Bates County,,city-us,306,38.262,-94.455,1284
+7950,Charlotte,AR,Independence County,,city-us,0,35.818,-91.439,394
+7951,Charlotte,IL,Livingston County,,city-us,0,40.820,-88.289,166

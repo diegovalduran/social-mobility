@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16080,Fruitland,ID,,city-us,6454,44.008,-116.917,3935
-16079,Fruitland,MI,,city-us,5858,43.344,-86.341,1889
-16084,Fruitland,MD,,city-us,5677,38.322,-75.620,2611
-16076,Fruitland,NC,,city-us,2257,35.396,-82.393,747
-16078,Fruitland,IA,,city-us,955,41.356,-91.129,3488
-16083,Fruitland,WA,,city-us,812,48.071,-118.199,480
-16073,Fruitland,MO,,city-us,0,37.449,-89.639,396
-16074,Fruitland,UT,,city-us,0,40.213,-110.840,1726
-16075,Fruitland,GA,,city-us,0,30.824,-82.855,257
-16077,Fruitland,CA,,city-us,0,40.296,-123.825,595
-16081,Fruitland,NC,,city-us,0,34.925,-79.650,176
-16082,Fruitland,NM,,city-us,0,36.739,-108.396,1577
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16080,Fruitland,ID,Payette County,,city-us,6454,44.008,-116.917,3935
+16079,Fruitland,MI,Muskegon County,,city-us,5858,43.344,-86.341,1889
+16084,Fruitland,MD,Wicomico County,,city-us,5677,38.322,-75.620,2611
+16076,Fruitland,NC,Henderson County,,city-us,2257,35.396,-82.393,747
+16078,Fruitland,IA,Muscatine County,,city-us,955,41.356,-91.129,3488
+16083,Fruitland,WA,Stevens County,,city-us,812,48.071,-118.199,480
+16073,Fruitland,MO,Cape Girardeau County,,city-us,0,37.449,-89.639,396
+16074,Fruitland,UT,Duchesne County,,city-us,0,40.213,-110.840,1726
+16075,Fruitland,GA,Echols County,,city-us,0,30.824,-82.855,257
+16077,Fruitland,CA,Humboldt County,,city-us,0,40.296,-123.825,595
+16081,Fruitland,NC,Richmond County,,city-us,0,34.925,-79.650,176
+16082,Fruitland,NM,San Juan County,,city-us,0,36.739,-108.396,1577

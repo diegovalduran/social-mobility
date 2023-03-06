@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2789,Bayside,WI,,city-us,4421,43.183,-87.902,6249
-2790,Bayside,TX,,city-us,275,28.094,-97.215,2366
-2787,Bayside,VA,,city-us,215,37.748,-75.717,499
-2788,Bayside,CA,,city-us,0,40.842,-124.064,0
-2791,Bayside,VA,,city-us,0,38.106,-76.653,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2789,Bayside,WI,Milwaukee County / Ozaukee County,,city-us,4421,43.183,-87.902,6249
+2790,Bayside,TX,Refugio County,,city-us,275,28.094,-97.215,2366
+2787,Bayside,VA,Accomack County,,city-us,215,37.748,-75.717,499
+2788,Bayside,CA,Humboldt County,,city-us,0,40.842,-124.064,0
+2791,Bayside,VA,Westmoreland County,,city-us,0,38.106,-76.653,96

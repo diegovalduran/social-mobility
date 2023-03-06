@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20622,Hopeton,OK,,city-us,22,36.688,-98.666,427
-20620,Hopeton,VA,,city-us,0,37.807,-75.638,72
-20621,Hopeton,CA,,city-us,0,37.492,-120.531,418
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20622,Hopeton,OK,Woods County,,city-us,22,36.688,-98.666,427
+20620,Hopeton,VA,Accomack County,,city-us,0,37.807,-75.638,72
+20621,Hopeton,CA,Merced County,,city-us,0,37.492,-120.531,418

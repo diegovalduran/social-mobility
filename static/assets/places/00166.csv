@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-880,Altona,MI,,city-us,1035,43.518,-85.259,4700
-877,Altona,NY,,city-us,774,44.888,-73.656,4536
-876,Altona,CO,,city-us,557,40.134,-105.283,1232
-879,Altona,IL,,city-us,454,41.115,-90.165,1768
-878,Altona,IN,,city-us,213,41.351,-85.155,3074
-881,Altona,MN,,city-us,124,44.148,-96.387,2046
-875,Altona,MO,,city-us,0,38.400,-94.235,441
+id,name,state,county,country,level,population,latitude,longitude,wiki
+880,Altona,MI,Mecosta County,,city-us,1035,43.518,-85.259,4700
+877,Altona,NY,Clinton County,,city-us,774,44.888,-73.656,4536
+876,Altona,CO,Boulder County,,city-us,557,40.134,-105.283,1232
+879,Altona,IL,Knox County,,city-us,454,41.115,-90.165,1768
+878,Altona,IN,DeKalb County,,city-us,213,41.351,-85.155,3074
+881,Altona,MN,Pipestone County,,city-us,124,44.148,-96.387,2046
+875,Altona,MO,Bates County,,city-us,0,38.400,-94.235,441

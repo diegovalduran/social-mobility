@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2526,Barrelville,MD,,city-us,43,39.702,-78.843,496
-2527,Barrelville,SC,,city-us,0,32.686,-80.351,211
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2526,Barrelville,MD,Allegany County,,city-us,43,39.702,-78.843,496
+2527,Barrelville,SC,Charleston County,,city-us,0,32.686,-80.351,211

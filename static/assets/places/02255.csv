@@ -1,28 +1,28 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11355,Deerfield,OH,,city-us,41439,39.326,-84.301,348
-11334,Deerfield,IL,,city-us,19079,42.166,-87.852,20468
-11341,Deerfield,MI,,city-us,5766,43.191,-83.289,421
-11337,Deerfield,MA,,city-us,5115,42.518,-72.613,16997
-11350,Deerfield,NH,,city-us,4907,43.136,-71.255,6373
-11343,Deerfield,MI,,city-us,4191,42.747,-83.866,421
-11346,Deerfield,NY,,city-us,3939,43.185,-75.151,3712
-11339,Deerfield,MI,,city-us,3327,43.595,-84.903,421
-11335,Deerfield,NJ,,city-us,3155,39.459,-75.132,9433
-11348,Deerfield,OH,,city-us,2863,41.025,-81.050,1602
-11336,Deerfield,WI,,city-us,2508,43.052,-89.076,242
-11344,Deerfield,MI,,city-us,1717,43.509,-85.386,421
-11351,Deerfield,OH,,city-us,1050,39.485,-83.154,348
-11342,Deerfield,MI,,city-us,901,41.889,-83.779,5021
-11340,Deerfield,KS,,city-us,855,38.020,-101.163,634
-11345,Deerfield,OH,,city-us,823,39.687,-81.976,348
-11354,Deerfield,MO,,city-us,781,37.809,-94.456,175
-11357,Deerfield,WI,,city-us,676,44.114,-89.417,1922
-11353,Deerfield,PA,,city-us,539,41.946,-77.422,133
-11356,Deerfield,PA,,city-us,267,41.736,-79.369,133
-11338,Deerfield,IL,,city-us,243,40.586,-90.266,281
-11331,Deerfield,VA,,city-us,199,38.197,-79.407,974
-11332,Deerfield,MN,,city-us,118,46.848,-94.598,221
-11333,Deerfield,IA,,city-us,0,43.164,-92.496,475
-11347,Deerfield,SD,,city-us,0,44.017,-103.834,285
-11349,Deerfield,IN,,city-us,0,40.279,-84.976,251
-11352,Deerfield,MN,,city-us,0,44.167,-93.360,249
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11355,Deerfield,OH,Warren County,,city-us,41439,39.326,-84.301,348
+11334,Deerfield,IL,Cook County / Lake County,,city-us,19079,42.166,-87.852,20468
+11341,Deerfield,MI,Lapeer County,,city-us,5766,43.191,-83.289,421
+11337,Deerfield,MA,Franklin County,,city-us,5115,42.518,-72.613,16997
+11350,Deerfield,NH,Rockingham County,,city-us,4907,43.136,-71.255,6373
+11343,Deerfield,MI,Livingston County,,city-us,4191,42.747,-83.866,421
+11346,Deerfield,NY,Oneida County,,city-us,3939,43.185,-75.151,3712
+11339,Deerfield,MI,Isabella County,,city-us,3327,43.595,-84.903,421
+11335,Deerfield,NJ,Cumberland County,,city-us,3155,39.459,-75.132,9433
+11348,Deerfield,OH,Portage County,,city-us,2863,41.025,-81.050,1602
+11336,Deerfield,WI,Dane County,,city-us,2508,43.052,-89.076,242
+11344,Deerfield,MI,Mecosta County,,city-us,1717,43.509,-85.386,421
+11351,Deerfield,OH,Ross County,,city-us,1050,39.485,-83.154,348
+11342,Deerfield,MI,Lenawee County,,city-us,901,41.889,-83.779,5021
+11340,Deerfield,KS,Kearny County,,city-us,855,38.020,-101.163,634
+11345,Deerfield,OH,Morgan County,,city-us,823,39.687,-81.976,348
+11354,Deerfield,MO,Vernon County,,city-us,781,37.809,-94.456,175
+11357,Deerfield,WI,Waushara County,,city-us,676,44.114,-89.417,1922
+11353,Deerfield,PA,Tioga County,,city-us,539,41.946,-77.422,133
+11356,Deerfield,PA,Warren County,,city-us,267,41.736,-79.369,133
+11338,Deerfield,IL,Fulton County,,city-us,243,40.586,-90.266,281
+11331,Deerfield,VA,Augusta County,,city-us,199,38.197,-79.407,974
+11332,Deerfield,MN,Cass County,,city-us,118,46.848,-94.598,221
+11333,Deerfield,IA,Chickasaw County,,city-us,0,43.164,-92.496,475
+11347,Deerfield,SD,Pennington County,,city-us,0,44.017,-103.834,285
+11349,Deerfield,IN,Randolph County,,city-us,0,40.279,-84.976,251
+11352,Deerfield,MN,Steele County,,city-us,0,44.167,-93.360,249

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27687,Meadow,TX,,city-us,592,33.337,-102.207,2160
-27684,Meadow,UT,,city-us,329,38.886,-112.410,2687
-27688,Meadow,MN,,city-us,215,46.672,-94.984,1858
-27683,Meadow,ND,,city-us,50,48.596,-100.728,0
-27685,Meadow,SD,,city-us,35,45.503,-102.260,787
-27686,Meadow,NE,,city-us,0,41.016,-96.157,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27687,Meadow,TX,Terry County,,city-us,592,33.337,-102.207,2160
+27684,Meadow,UT,Millard County,,city-us,329,38.886,-112.410,2687
+27688,Meadow,MN,Wadena County,,city-us,215,46.672,-94.984,1858
+27683,Meadow,ND,McHenry County,,city-us,50,48.596,-100.728,0
+27685,Meadow,SD,Perkins County,,city-us,35,45.503,-102.260,787
+27686,Meadow,NE,Sarpy County,,city-us,0,41.016,-96.157,226

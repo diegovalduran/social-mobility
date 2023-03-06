@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23886,Land O' Lakes,FL,,city-us,38674,28.219,-82.458,4306
-23887,Land o' Lakes,WI,,city-us,861,46.161,-89.219,4916
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23886,Land O' Lakes,FL,Pasco County,,city-us,38674,28.219,-82.458,4306
+23887,Land o' Lakes,WI,Vilas County,,city-us,861,46.161,-89.219,4916

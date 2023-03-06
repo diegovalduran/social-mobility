@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18668,Hampstead,NH,,city-us,9045,42.881,-71.172,4626
-18667,Hampstead,NC,,city-us,7037,34.368,-77.711,1396
-18664,Hampstead,MD,,city-us,6303,39.605,-76.850,5491
-18665,Hampstead,VA,,city-us,0,38.333,-77.142,140
-18666,Hampstead,VA,,city-us,0,37.606,-77.130,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18668,Hampstead,NH,Rockingham County,,city-us,9045,42.881,-71.172,4626
+18667,Hampstead,NC,Pender County,,city-us,7037,34.368,-77.711,1396
+18664,Hampstead,MD,Carroll County,,city-us,6303,39.605,-76.850,5491
+18665,Hampstead,VA,King George County,,city-us,0,38.333,-77.142,140
+18666,Hampstead,VA,New Kent County,,city-us,0,37.606,-77.130,87

@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15088,Flatwoods,KY,,city-us,7261,38.523,-82.717,6657
-15087,Flatwoods,WV,,city-us,261,38.723,-80.650,3630
-15086,Flatwoods,VA,,city-us,0,37.545,-79.879,88
-15089,Flatwoods,NC,,city-us,0,35.357,-78.800,540
-15090,Flatwoods,WV,,city-us,0,38.880,-81.779,269
-15091,Flatwoods,TN,,city-us,0,35.477,-87.828,660
-15092,Flatwoods,LA,,city-us,0,31.403,-92.868,110
-15093,Flatwoods,MO,,city-us,0,36.681,-90.700,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15088,Flatwoods,KY,Greenup County,,city-us,7261,38.523,-82.717,6657
+15087,Flatwoods,WV,Braxton County,,city-us,261,38.723,-80.650,3630
+15086,Flatwoods,VA,Botetourt County,,city-us,0,37.545,-79.879,88
+15089,Flatwoods,NC,Harnett County,,city-us,0,35.357,-78.800,540
+15090,Flatwoods,WV,Jackson County,,city-us,0,38.880,-81.779,269
+15091,Flatwoods,TN,Perry County,,city-us,0,35.477,-87.828,660
+15092,Flatwoods,LA,Rapides Parish,,city-us,0,31.403,-92.868,110
+15093,Flatwoods,MO,Ripley County,,city-us,0,36.681,-90.700,267

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38332,Salix,PA,,city-us,1221,40.300,-78.765,2185
-38333,Salix,IA,,city-us,292,42.308,-96.288,3248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38332,Salix,PA,Cambria County,,city-us,1221,40.300,-78.765,2185
+38333,Salix,IA,Woodbury County,,city-us,292,42.308,-96.288,3248

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22796,Kerman,,Iran,city-international,537718,30.283,57.067,12866
-22795,Kerman,CA,,city-us,16174,36.724,-120.060,6527
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22796,Kerman,,,Iran,city-international,537718,30.283,57.067,12866
+22795,Kerman,CA,Fresno County,,city-us,16174,36.724,-120.060,6527

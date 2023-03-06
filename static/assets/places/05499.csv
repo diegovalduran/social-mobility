@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28125,Michigan,,United States,state,10034113,44.944,-86.416,70252
-28123,Michigan,ND,,city-us,115,47.709,-97.163,3743
-28124,Michigan,ND,,city-us,39,48.030,-98.100,3743
-28122,Michigan,WV,,city-us,0,38.078,-81.084,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28125,Michigan,,,United States,state,10034113,44.944,-86.416,70252
+28123,Michigan,ND,Grand Forks County,,city-us,115,47.709,-97.163,3743
+28124,Michigan,ND,Nelson County,,city-us,39,48.030,-98.100,3743
+28122,Michigan,WV,Fayette County,,city-us,0,38.078,-81.084,90

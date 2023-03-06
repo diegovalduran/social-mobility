@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38972,Scotts,MI,,city-us,187,42.196,-85.413,1933
-38971,Scotts,NC,,city-us,0,35.843,-81.009,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38972,Scotts,MI,Kalamazoo County,,city-us,187,42.196,-85.413,1933
+38971,Scotts,NC,Iredell County,,city-us,0,35.843,-81.009,226

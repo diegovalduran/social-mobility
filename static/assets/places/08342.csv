@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42181,Susquehanna,PA,,city-us,26706,40.316,-76.869,365
-42180,Susquehanna,PA,,city-us,1872,40.688,-78.786,365
-42183,Susquehanna,PA,,city-us,1194,40.631,-77.016,365
-42184,Susquehanna,PA,,city-us,966,41.206,-77.134,365
-42182,Susquehanna,SD,,city-us,188,43.384,-98.054,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42181,Susquehanna,PA,Dauphin County,,city-us,26706,40.316,-76.869,365
+42180,Susquehanna,PA,Cambria County,,city-us,1872,40.688,-78.786,365
+42183,Susquehanna,PA,Juniata County,,city-us,1194,40.631,-77.016,365
+42184,Susquehanna,PA,Lycoming County,,city-us,966,41.206,-77.134,365
+42182,Susquehanna,SD,Hutchinson County,,city-us,188,43.384,-98.054,0

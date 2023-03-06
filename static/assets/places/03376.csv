@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17108,Goddard,MD,,city-us,5554,38.986,-76.853,2477
-17109,Goddard,KS,,city-us,5372,37.660,-97.575,8784
-17107,Goddard,KY,,city-us,0,38.362,-83.615,406
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17108,Goddard,MD,Prince George's County,,city-us,5554,38.986,-76.853,2477
+17109,Goddard,KS,Sedgwick County,,city-us,5372,37.660,-97.575,8784
+17107,Goddard,KY,Fleming County,,city-us,0,38.362,-83.615,406

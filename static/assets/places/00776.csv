@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4029,Birch Creek,WI,,city-us,503,45.248,-91.218,2540
-4031,Birch Creek,MN,,city-us,230,46.383,-93.012,1849
-4032,Birch Creek,AK,,city-us,3,66.259,-145.819,2109
-4030,Birch Creek,MI,,city-us,0,45.203,-87.611,313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4029,Birch Creek,WI,Chippewa County,,city-us,503,45.248,-91.218,2540
+4031,Birch Creek,MN,Pine County,,city-us,230,46.383,-93.012,1849
+4032,Birch Creek,AK,Yukon-Koyukuk Census Area,,city-us,3,66.259,-145.819,2109
+4030,Birch Creek,MI,Menominee County,,city-us,0,45.203,-87.611,313

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24790,Liberty Grove,WI,,city-us,2116,45.254,-86.962,2013
-24793,Liberty Grove,ND,,city-us,86,46.146,-97.063,0
-24788,Liberty Grove,MD,,city-us,0,39.656,-76.120,88
-24789,Liberty Grove,TX,,city-us,0,32.958,-96.528,282
-24791,Liberty Grove,TN,,city-us,0,35.041,-87.383,250
-24792,Liberty Grove,AL,,city-us,0,33.353,-85.429,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24790,Liberty Grove,WI,Door County,,city-us,2116,45.254,-86.962,2013
+24793,Liberty Grove,ND,Richland County,,city-us,86,46.146,-97.063,0
+24788,Liberty Grove,MD,Cecil County,,city-us,0,39.656,-76.120,88
+24789,Liberty Grove,TX,Dallas County,,city-us,0,32.958,-96.528,282
+24791,Liberty Grove,TN,Lawrence County,,city-us,0,35.041,-87.383,250
+24792,Liberty Grove,AL,Randolph County,,city-us,0,33.353,-85.429,90

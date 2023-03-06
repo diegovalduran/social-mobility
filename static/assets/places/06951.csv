@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35308,Premier,KY,,city-us,0,36.596,-83.764,89
-35309,Premier,WV,,city-us,0,37.422,-81.644,284
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35308,Premier,KY,Bell County,,city-us,0,36.596,-83.764,89
+35309,Premier,WV,McDowell County,,city-us,0,37.422,-81.644,284

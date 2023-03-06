@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13367,Elkridge,MD,,city-us,24115,39.213,-76.714,16589
-13366,Elkridge,WV,,city-us,0,38.080,-81.334,151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13367,Elkridge,MD,Howard County,,city-us,24115,39.213,-76.714,16589
+13366,Elkridge,WV,Fayette County,,city-us,0,38.080,-81.334,151

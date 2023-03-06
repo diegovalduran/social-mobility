@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5713,Brule,WI,,city-us,611,46.582,-91.612,3645
-5714,Brule,NE,,city-us,326,41.094,-101.888,3617
-5715,Brule,SD,,city-us,248,42.779,-96.747,0
-5712,Brule,SD,,city-us,173,43.717,-99.332,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5713,Brule,WI,Douglas County,,city-us,611,46.582,-91.612,3645
+5714,Brule,NE,Keith County,,city-us,326,41.094,-101.888,3617
+5715,Brule,SD,Union County,,city-us,248,42.779,-96.747,0
+5712,Brule,SD,Brule County,,city-us,173,43.717,-99.332,0

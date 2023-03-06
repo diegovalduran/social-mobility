@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26616,Manlius,IL,,city-us,6089,41.340,-88.646,218
-26617,Manlius,NY,,city-us,4676,43.002,-75.977,8061
-26614,Manlius,MI,,city-us,3328,42.631,-86.072,3795
-26615,Manlius,IL,,city-us,565,41.454,-89.683,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26616,Manlius,IL,LaSalle County,,city-us,6089,41.340,-88.646,218
+26617,Manlius,NY,Onondaga County,,city-us,4676,43.002,-75.977,8061
+26614,Manlius,MI,Allegan County,,city-us,3328,42.631,-86.072,3795
+26615,Manlius,IL,Bureau County,,city-us,565,41.454,-89.683,218

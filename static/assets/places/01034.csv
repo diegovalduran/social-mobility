@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5154,Brent,FL,,city-us,21717,30.469,-87.236,2565
-5153,Brent,AL,,city-us,2977,32.937,-87.165,4146
-5156,Brent,OK,,city-us,673,35.368,-94.794,2412
-5155,Brent,GA,,city-us,0,32.982,-84.010,281
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5154,Brent,FL,Escambia County,,city-us,21717,30.469,-87.236,2565
+5153,Brent,AL,Bibb County,,city-us,2977,32.937,-87.165,4146
+5156,Brent,OK,Sequoyah County,,city-us,673,35.368,-94.794,2412
+5155,Brent,GA,Monroe County,,city-us,0,32.982,-84.010,281

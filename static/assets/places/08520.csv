@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42910,Thurman,NY,,city-us,1105,43.492,-73.986,3350
-42909,Thurman,IA,,city-us,164,40.820,-95.748,3170
-42908,Thurman,IN,,city-us,0,41.120,-85.004,260
-42911,Thurman,CO,,city-us,0,39.741,-103.218,1855
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42910,Thurman,NY,Warren County,,city-us,1105,43.492,-73.986,3350
+42909,Thurman,IA,Fremont County,,city-us,164,40.820,-95.748,3170
+42908,Thurman,IN,Allen County,,city-us,0,41.120,-85.004,260
+42911,Thurman,CO,Washington County,,city-us,0,39.741,-103.218,1855

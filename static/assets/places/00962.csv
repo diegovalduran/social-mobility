@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4824,Bow,NH,,city-us,8383,43.133,-71.537,6537
-4823,Bow,KY,,city-us,0,36.763,-85.345,217
-4825,Bow,WA,,city-us,0,48.562,-122.398,1483
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4824,Bow,NH,Merrimack County,,city-us,8383,43.133,-71.537,6537
+4823,Bow,KY,Cumberland County,,city-us,0,36.763,-85.345,217
+4825,Bow,WA,Skagit County,,city-us,0,48.562,-122.398,1483

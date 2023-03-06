@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40005,Slabtown,PA,,city-us,150,40.905,-76.409,2301
-40004,Slabtown,PA,,city-us,0,40.877,-79.394,234
-40006,Slabtown,IN,,city-us,0,39.278,-85.401,206
-40007,Slabtown,WI,,city-us,0,42.967,-88.635,118
-40008,Slabtown,VA,,city-us,0,37.676,-76.497,93
-40009,Slabtown,WV,,city-us,0,37.629,-81.870,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40005,Slabtown,PA,Columbia County,,city-us,150,40.905,-76.409,2301
+40004,Slabtown,PA,Armstrong County,,city-us,0,40.877,-79.394,234
+40006,Slabtown,IN,Decatur County,,city-us,0,39.278,-85.401,206
+40007,Slabtown,WI,Jefferson County,,city-us,0,42.967,-88.635,118
+40008,Slabtown,VA,Lancaster County,,city-us,0,37.676,-76.497,93
+40009,Slabtown,WV,Mingo County,,city-us,0,37.629,-81.870,88

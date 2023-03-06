@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4869,Bowling Green,KY,,city-us,73529,36.990,-86.444,30771
-4870,Bowling Green,OH,,city-us,30677,41.375,-83.651,12667
-4868,Bowling Green,MO,,city-us,4219,39.342,-91.195,5295
-4865,Bowling Green,FL,,city-us,2469,27.638,-81.824,2075
-4866,Bowling Green,OH,,city-us,1819,39.935,-82.305,140
-4859,Bowling Green,MD,,city-us,1282,39.624,-78.804,914
-4860,Bowling Green,VA,,city-us,1174,38.050,-77.347,5985
-4867,Bowling Green,OH,,city-us,570,40.539,-83.368,140
-4864,Bowling Green,IL,,city-us,437,39.193,-88.944,677
-4861,Bowling Green,MO,,city-us,94,39.370,-92.994,195
-4862,Bowling Green,IN,,city-us,0,39.383,-87.012,1122
-4863,Bowling Green,PA,,city-us,0,39.919,-75.381,316
-4871,Bowling Green,SC,,city-us,0,35.150,-81.212,191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4869,Bowling Green,KY,Warren County,,city-us,73529,36.990,-86.444,30771
+4870,Bowling Green,OH,Wood County,,city-us,30677,41.375,-83.651,12667
+4868,Bowling Green,MO,Pike County,,city-us,4219,39.342,-91.195,5295
+4865,Bowling Green,FL,Hardee County,,city-us,2469,27.638,-81.824,2075
+4866,Bowling Green,OH,Licking County,,city-us,1819,39.935,-82.305,140
+4859,Bowling Green,MD,Allegany County,,city-us,1282,39.624,-78.804,914
+4860,Bowling Green,VA,Caroline County,,city-us,1174,38.050,-77.347,5985
+4867,Bowling Green,OH,Marion County,,city-us,570,40.539,-83.368,140
+4864,Bowling Green,IL,Fayette County,,city-us,437,39.193,-88.944,677
+4861,Bowling Green,MO,Chariton County,,city-us,94,39.370,-92.994,195
+4862,Bowling Green,IN,Clay County,,city-us,0,39.383,-87.012,1122
+4863,Bowling Green,PA,Delaware County,,city-us,0,39.919,-75.381,316
+4871,Bowling Green,SC,York County,,city-us,0,35.150,-81.212,191

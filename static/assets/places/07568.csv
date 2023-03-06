@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38415,San Diego,CA,,city-us,1381611,32.715,-117.157,65684
-38416,San Diego,,Venezuela,city-international,187215,10.256,-67.954,1553
-38414,San Diego,TX,,city-us,3755,27.761,-98.239,2335
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38415,San Diego,CA,San Diego County,,city-us,1381611,32.715,-117.157,65684
+38416,San Diego,,,Venezuela,city-international,187215,10.256,-67.954,1553
+38414,San Diego,TX,Duval County / Jim Wells County,,city-us,3755,27.761,-98.239,2335

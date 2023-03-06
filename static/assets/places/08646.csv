@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43338,Trout Creek,MT,,city-us,273,47.837,-115.598,3369
-43337,Trout Creek,MI,,city-us,270,46.430,-89.057,2815
-43336,Trout Creek,UT,,city-us,0,39.802,-113.827,677
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43338,Trout Creek,MT,Sanders County,,city-us,273,47.837,-115.598,3369
+43337,Trout Creek,MI,Ontonagon County,,city-us,270,46.430,-89.057,2815
+43336,Trout Creek,UT,Juab County,,city-us,0,39.802,-113.827,677

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9371,Collinwood,MN,,city-us,1193,45.030,-94.327,2600
-9372,Collinwood,TN,,city-us,909,35.174,-87.738,5400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9371,Collinwood,MN,Meeker County,,city-us,1193,45.030,-94.327,2600
+9372,Collinwood,TN,Wayne County,,city-us,909,35.174,-87.738,5400

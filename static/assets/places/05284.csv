@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27125,Martinsville,VA,,city-us,13517,36.692,-79.873,17459
-27128,Martinsville,NJ,,city-us,11980,40.601,-74.559,3005
-27126,Martinsville,IN,,city-us,11882,39.428,-86.428,10663
-27129,Martinsville,MI,,city-us,9660,42.139,-83.495,5079
-27120,Martinsville,IL,,city-us,1522,39.319,-87.853,985
-27121,Martinsville,OH,,city-us,415,39.324,-83.815,3470
-27122,Martinsville,MS,,city-us,0,31.791,-90.407,500
-27123,Martinsville,WI,,city-us,0,43.180,-89.590,122
-27124,Martinsville,MO,,city-us,0,40.339,-94.162,517
-27127,Martinsville,TX,,city-us,0,31.643,-94.414,160
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27125,Martinsville,VA,Martinsville city,,city-us,13517,36.692,-79.873,17459
+27128,Martinsville,NJ,Somerset County,,city-us,11980,40.601,-74.559,3005
+27126,Martinsville,IN,Morgan County,,city-us,11882,39.428,-86.428,10663
+27129,Martinsville,MI,Wayne County,,city-us,9660,42.139,-83.495,5079
+27120,Martinsville,IL,Clark County,,city-us,1522,39.319,-87.853,985
+27121,Martinsville,OH,Clinton County,,city-us,415,39.324,-83.815,3470
+27122,Martinsville,MS,Copiah County,,city-us,0,31.791,-90.407,500
+27123,Martinsville,WI,Dane County,,city-us,0,43.180,-89.590,122
+27124,Martinsville,MO,Harrison County,,city-us,0,40.339,-94.162,517
+27127,Martinsville,TX,Nacogdoches County,,city-us,0,31.643,-94.414,160

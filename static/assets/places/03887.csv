@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19892,Hidalgo,TX,,city-us,14239,26.100,-98.263,4369
-19893,Hidalgo,IL,,city-us,110,39.156,-88.147,1813
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19892,Hidalgo,TX,Hidalgo County,,city-us,14239,26.100,-98.263,4369
+19893,Hidalgo,IL,Jasper County,,city-us,110,39.156,-88.147,1813

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4150,Black Jack,MO,,city-us,6593,38.793,-90.267,4351
-4148,Black Jack,KS,,city-us,0,38.768,-95.116,435
-4149,Black Jack,KY,,city-us,0,36.768,-86.513,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4150,Black Jack,MO,St. Louis County,,city-us,6593,38.793,-90.267,4351
+4148,Black Jack,KS,Douglas County,,city-us,0,38.768,-95.116,435
+4149,Black Jack,KY,Simpson County,,city-us,0,36.768,-86.513,91

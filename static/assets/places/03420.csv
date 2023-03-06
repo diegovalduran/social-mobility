@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17331,Gosport,IN,,city-us,849,39.351,-86.667,5451
-17330,Gosport,AL,,city-us,0,31.582,-87.586,853
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17331,Gosport,IN,Owen County,,city-us,849,39.351,-86.667,5451
+17330,Gosport,AL,Clarke County,,city-us,0,31.582,-87.586,853

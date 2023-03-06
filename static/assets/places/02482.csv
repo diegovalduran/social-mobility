@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12388,Duncanville,TX,,city-us,39797,32.652,-96.908,7835
-12387,Duncanville,IL,,city-us,0,38.955,-87.696,306
-12389,Duncanville,AL,,city-us,0,33.062,-87.442,414
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12388,Duncanville,TX,Dallas County,,city-us,39797,32.652,-96.908,7835
+12387,Duncanville,IL,Crawford County,,city-us,0,38.955,-87.696,306
+12389,Duncanville,AL,Tuscaloosa County,,city-us,0,33.062,-87.442,414

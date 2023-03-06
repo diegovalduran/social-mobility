@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1500,Armenia,,,country,2989091,40.069,45.038,77356
-1499,Armenia,,Colombia,city-international,301226,4.539,-75.672,10718
-1498,Armenia,WI,,city-us,709,44.179,-90.011,2042
-1497,Armenia,PA,,city-us,203,41.733,-76.878,2275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1500,Armenia,,,,country,2989091,40.069,45.038,77356
+1499,Armenia,,,Colombia,city-international,301226,4.539,-75.672,10718
+1498,Armenia,WI,Juneau County,,city-us,709,44.179,-90.011,2042
+1497,Armenia,PA,Bradford County,,city-us,203,41.733,-76.878,2275

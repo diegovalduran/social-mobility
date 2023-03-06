@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24306,Leeco,KY,,city-us,0,37.711,-83.695,126
-24830,Lico,WV,,city-us,0,38.241,-81.739,169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24306,Leeco,KY,Lee County,,city-us,0,37.711,-83.695,126
+24830,Lico,WV,Kanawha County,,city-us,0,38.241,-81.739,169

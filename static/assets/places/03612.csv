@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18365,Gypsum,KS,,city-us,9996,37.602,-97.200,141
-18362,Gypsum,CO,,city-us,8529,39.647,-106.952,4900
-18364,Gypsum,KS,,city-us,402,38.706,-97.428,5057
-18363,Gypsum,OH,,city-us,0,41.493,-82.876,1656
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18365,Gypsum,KS,Sedgwick County,,city-us,9996,37.602,-97.200,141
+18362,Gypsum,CO,Eagle County,,city-us,8529,39.647,-106.952,4900
+18364,Gypsum,KS,Saline County,,city-us,402,38.706,-97.428,5057
+18363,Gypsum,OH,Ottawa County,,city-us,0,41.493,-82.876,1656

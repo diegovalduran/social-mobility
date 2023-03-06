@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18330,Guntur,,India,city-international,647508,16.300,80.450,22033
-18329,Gunter,TX,,city-us,2255,33.448,-96.747,4202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18330,Guntur,,,India,city-international,647508,16.300,80.450,22033
+18329,Gunter,TX,Grayson County,,city-us,2255,33.448,-96.747,4202

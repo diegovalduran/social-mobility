@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31822,Oakes,ND,,city-us,1798,46.139,-98.090,4949
-31914,Oaks,OK,,city-us,258,36.170,-94.853,5280
-31915,Oaks,MO,,city-us,128,39.196,-94.570,3127
-31912,Oaks,TX,,city-us,0,28.609,-98.032,752
-31913,Oaks,KY,,city-us,0,36.722,-83.556,86
-31916,Oaks,PA,,city-us,0,40.132,-75.460,3070
-31917,Oaks,NC,,city-us,0,35.954,-79.257,216
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31822,Oakes,ND,Dickey County,,city-us,1798,46.139,-98.090,4949
+31914,Oaks,OK,Cherokee County / Delaware County,,city-us,258,36.170,-94.853,5280
+31915,Oaks,MO,Clay County,,city-us,128,39.196,-94.570,3127
+31912,Oaks,TX,Bee County,,city-us,0,28.609,-98.032,752
+31913,Oaks,KY,Bell County,,city-us,0,36.722,-83.556,86
+31916,Oaks,PA,Montgomery County,,city-us,0,40.132,-75.460,3070
+31917,Oaks,NC,Orange County,,city-us,0,35.954,-79.257,216

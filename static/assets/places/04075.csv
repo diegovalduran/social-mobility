@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20944,Hudsonville,MI,,city-us,7692,42.871,-85.865,4022
-20942,Hudsonville,IN,,city-us,0,38.539,-87.073,334
-20943,Hudsonville,MS,,city-us,0,34.861,-89.375,611
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20944,Hudsonville,MI,Ottawa County,,city-us,7692,42.871,-85.865,4022
+20942,Hudsonville,IN,Daviess County,,city-us,0,38.539,-87.073,334
+20943,Hudsonville,MS,Marshall County,,city-us,0,34.861,-89.375,611

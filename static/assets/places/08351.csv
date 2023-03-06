@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42222,Sverdrup,SD,,city-us,875,43.711,-96.702,0
-42223,Sverdrup,MN,,city-us,644,46.326,-95.840,2134
-42221,Sverdrup,ND,,city-us,76,47.378,-98.065,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42222,Sverdrup,SD,Minnehaha County,,city-us,875,43.711,-96.702,0
+42223,Sverdrup,MN,Otter Tail County,,city-us,644,46.326,-95.840,2134
+42221,Sverdrup,ND,Griggs County,,city-us,76,47.378,-98.065,220

@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6462,Cairo,,Egypt,city-international,19787000,30.044,31.236,66512
-6451,Cairo,GA,,city-us,10015,30.877,-84.201,6087
-6452,Cairo,NY,,city-us,6753,42.299,-74.016,3956
-6447,Cairo,IL,,city-us,1659,37.005,-89.176,31977
-6453,Cairo,NE,,city-us,813,41.001,-98.608,3378
-6448,Cairo,OH,,city-us,498,40.832,-84.086,4351
-6456,Cairo,MO,,city-us,201,39.512,-92.440,3262
-6457,Cairo,MN,,city-us,191,44.484,-94.676,1953
-6458,Cairo,WV,,city-us,172,39.209,-81.157,3265
-6449,Cairo,OK,,city-us,0,35.574,-96.132,257
-6450,Cairo,TN,,city-us,0,35.823,-89.166,157
-6454,Cairo,OR,,city-us,0,43.996,-117.009,634
-6455,Cairo,KS,,city-us,0,37.650,-98.554,233
-6459,Cairo,OH,,city-us,0,40.904,-81.360,382
-6460,Cairo,TN,,city-us,0,36.361,-86.364,227
-6461,Cairo,IN,,city-us,0,40.541,-86.925,265
-23134,Kiro,KS,,city-us,0,39.097,-95.798,315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6462,Cairo,,,Egypt,city-international,19787000,30.044,31.236,66512
+6451,Cairo,GA,Grady County,,city-us,10015,30.877,-84.201,6087
+6452,Cairo,NY,Greene County,,city-us,6753,42.299,-74.016,3956
+6447,Cairo,IL,Alexander County,,city-us,1659,37.005,-89.176,31977
+6453,Cairo,NE,Hall County,,city-us,813,41.001,-98.608,3378
+6448,Cairo,OH,Allen County,,city-us,498,40.832,-84.086,4351
+6456,Cairo,MO,Randolph County,,city-us,201,39.512,-92.440,3262
+6457,Cairo,MN,Renville County,,city-us,191,44.484,-94.676,1953
+6458,Cairo,WV,Ritchie County,,city-us,172,39.209,-81.157,3265
+6449,Cairo,OK,Coal County,,city-us,0,35.574,-96.132,257
+6450,Cairo,TN,Crockett County,,city-us,0,35.823,-89.166,157
+6454,Cairo,OR,Malheur County,,city-us,0,43.996,-117.009,634
+6455,Cairo,KS,Pratt County,,city-us,0,37.650,-98.554,233
+6459,Cairo,OH,Stark County,,city-us,0,40.904,-81.360,382
+6460,Cairo,TN,Sumner County,,city-us,0,36.361,-86.364,227
+6461,Cairo,IN,Tippecanoe County,,city-us,0,40.541,-86.925,265
+23134,Kiro,KS,Shawnee County,,city-us,0,39.097,-95.798,315

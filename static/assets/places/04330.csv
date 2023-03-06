@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22399,Judge,MN,,city-us,0,43.899,-92.476,255
-22400,Judge,MO,,city-us,0,38.421,-91.781,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22399,Judge,MN,Olmsted County,,city-us,0,43.899,-92.476,255
+22400,Judge,MO,Osage County,,city-us,0,38.421,-91.781,285

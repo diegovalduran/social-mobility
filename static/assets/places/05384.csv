@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27562,McKean,OH,,city-us,1614,40.149,-82.512,1157
-27561,McKean,PA,,city-us,482,41.998,-80.140,2424
-27568,McKeen,IL,,city-us,0,39.458,-87.614,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27562,McKean,OH,Licking County,,city-us,1614,40.149,-82.512,1157
+27561,McKean,PA,Erie County,,city-us,482,41.998,-80.140,2424
+27568,McKeen,IL,Clark County,,city-us,0,39.458,-87.614,144

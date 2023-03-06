@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9108,Coalfield,TN,,city-us,2939,36.029,-84.421,1356
-9106,Coalfield,ND,,city-us,47,48.843,-103.000,0
-9107,Coalfield,WV,,city-us,0,38.004,-81.350,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9108,Coalfield,TN,Morgan County,,city-us,2939,36.029,-84.421,1356
+9106,Coalfield,ND,Divide County,,city-us,47,48.843,-103.000,0
+9107,Coalfield,WV,Fayette County,,city-us,0,38.004,-81.350,117

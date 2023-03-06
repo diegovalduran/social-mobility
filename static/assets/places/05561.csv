@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28594,Millerstown,PA,,city-us,691,40.550,-77.155,3559
-28591,Millerstown,PA,,city-us,11,40.279,-78.298,545
-28592,Millerstown,OH,,city-us,0,40.157,-83.921,633
-28593,Millerstown,KY,,city-us,0,37.445,-86.051,249
-28595,Millerstown,OH,,city-us,0,41.312,-83.281,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28594,Millerstown,PA,Perry County,,city-us,691,40.550,-77.155,3559
+28591,Millerstown,PA,Blair County,,city-us,11,40.279,-78.298,545
+28592,Millerstown,OH,Champaign County,,city-us,0,40.157,-83.921,633
+28593,Millerstown,KY,Grayson County,,city-us,0,37.445,-86.051,249
+28595,Millerstown,OH,Sandusky County,,city-us,0,41.312,-83.281,91

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32360,Oran,,Algeria,city-international,852000,35.697,-0.633,24191
-32358,Oran,MO,,city-us,1193,37.085,-89.655,3599
-32356,Oran,IL,,city-us,305,40.183,-89.204,401
-32355,Oran,IA,,city-us,0,42.701,-92.075,581
-32357,Oran,TX,,city-us,0,32.962,-98.160,172
-32359,Oran,OH,,city-us,0,40.291,-84.322,213
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32360,Oran,,,Algeria,city-international,852000,35.697,-0.633,24191
+32358,Oran,MO,Scott County,,city-us,1193,37.085,-89.655,3599
+32356,Oran,IL,Logan County,,city-us,305,40.183,-89.204,401
+32355,Oran,IA,Fayette County,,city-us,0,42.701,-92.075,581
+32357,Oran,TX,Palo Pinto County,,city-us,0,32.962,-98.160,172
+32359,Oran,OH,Shelby County,,city-us,0,40.291,-84.322,213

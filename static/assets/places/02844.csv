@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14157,Ewen,MI,,city-us,229,46.535,-89.281,331
-14151,Ewan,NJ,,city-us,0,39.699,-75.186,708
-14152,Ewan,WA,,city-us,0,47.117,-117.735,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14157,Ewen,MI,Ontonagon County,,city-us,229,46.535,-89.281,331
+14151,Ewan,NJ,Gloucester County,,city-us,0,39.699,-75.186,708
+14152,Ewan,WA,Whitman County,,city-us,0,47.117,-117.735,163

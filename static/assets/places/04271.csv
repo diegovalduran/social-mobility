@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22080,Jenner,PA,,city-us,3666,40.177,-79.061,6122
-22081,Jenner,CA,,city-us,0,38.450,-123.116,4244
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22080,Jenner,PA,Somerset County,,city-us,3666,40.177,-79.061,6122
+22081,Jenner,CA,Sonoma County,,city-us,0,38.450,-123.116,4244

@@ -1,20 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20826,Howard,WI,,city-us,20229,44.569,-88.072,8066
-20827,Howard,MI,,city-us,6313,41.855,-86.167,2117
-20836,Howard,OH,,city-us,5946,40.420,-82.330,1295
-20842,Howard,NY,,city-us,1367,42.339,-77.514,3741
-20833,Howard,CO,,city-us,962,38.449,-105.835,1264
-20828,Howard,PA,,city-us,875,41.020,-77.691,2344
-20840,Howard,SD,,city-us,864,44.011,-97.527,4916
-20830,Howard,WI,,city-us,798,44.951,-91.538,2162
-20831,Howard,KS,,city-us,716,37.469,-96.228,516
-20825,Howard,MO,,city-us,521,38.080,-94.527,1185
-20837,Howard,KS,,city-us,300,37.042,-95.441,4089
-20829,Howard,SD,,city-us,199,43.226,-98.422,4916
-20834,Howard,MO,,city-us,99,40.341,-94.278,153
-20838,Howard,SD,,city-us,20,44.656,-102.085,4916
-20832,Howard,AL,,city-us,0,33.854,-87.567,557
-20835,Howard,MS,,city-us,0,33.123,-90.191,333
-20839,Howard,FL,,city-us,0,25.647,-80.334,327
-20841,Howard,IN,,city-us,0,39.916,-87.376,289
-20843,Howard,GA,,city-us,0,32.596,-84.384,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20826,Howard,WI,Brown County / Outagamie County,,city-us,20229,44.569,-88.072,8066
+20827,Howard,MI,Cass County,,city-us,6313,41.855,-86.167,2117
+20836,Howard,OH,Knox County,,city-us,5946,40.420,-82.330,1295
+20842,Howard,NY,Steuben County,,city-us,1367,42.339,-77.514,3741
+20833,Howard,CO,Fremont County,,city-us,962,38.449,-105.835,1264
+20828,Howard,PA,Centre County,,city-us,875,41.020,-77.691,2344
+20840,Howard,SD,Miner County,,city-us,864,44.011,-97.527,4916
+20830,Howard,WI,Chippewa County,,city-us,798,44.951,-91.538,2162
+20831,Howard,KS,Elk County,,city-us,716,37.469,-96.228,516
+20825,Howard,MO,Bates County,,city-us,521,38.080,-94.527,1185
+20837,Howard,KS,Labette County,,city-us,300,37.042,-95.441,4089
+20829,Howard,SD,Charles Mix County,,city-us,199,43.226,-98.422,4916
+20834,Howard,MO,Gentry County,,city-us,99,40.341,-94.278,153
+20838,Howard,SD,Meade County,,city-us,20,44.656,-102.085,4916
+20832,Howard,AL,Fayette County,,city-us,0,33.854,-87.567,557
+20835,Howard,MS,Holmes County,,city-us,0,33.123,-90.191,333
+20839,Howard,FL,Miami-Dade County,,city-us,0,25.647,-80.334,327
+20841,Howard,IN,Parke County,,city-us,0,39.916,-87.376,289
+20843,Howard,GA,Taylor County,,city-us,0,32.596,-84.384,254

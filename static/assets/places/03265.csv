@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16491,Gay,GA,,city-us,114,33.094,-84.574,2393
-16487,Gay,OK,,city-us,0,33.953,-95.621,567
-16488,Gay,NC,,city-us,0,35.291,-83.273,255
-16489,Gay,WV,,city-us,0,38.771,-81.553,204
-16490,Gay,MI,,city-us,0,47.227,-88.164,886
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16491,Gay,GA,Meriwether County,,city-us,114,33.094,-84.574,2393
+16487,Gay,OK,Choctaw County,,city-us,0,33.953,-95.621,567
+16488,Gay,NC,Jackson County,,city-us,0,35.291,-83.273,255
+16489,Gay,WV,Jackson County,,city-us,0,38.771,-81.553,204
+16490,Gay,MI,Keweenaw County,,city-us,0,47.227,-88.164,886

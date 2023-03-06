@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38546,Sandia,TX,,city-us,379,28.019,-97.879,3725
-38545,Sandia,CA,,city-us,0,32.886,-115.406,266
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38546,Sandia,TX,Jim Wells County,,city-us,379,28.019,-97.879,3725
+38545,Sandia,CA,Imperial County,,city-us,0,32.886,-115.406,266

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1174,Ansley,NE,,city-us,606,41.282,-99.397,294
-1175,Ansley,MS,,city-us,0,30.225,-89.484,821
-1176,Ansley,LA,,city-us,0,32.396,-92.693,815
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1174,Ansley,NE,Custer County,,city-us,606,41.282,-99.397,294
+1175,Ansley,MS,Hancock County,,city-us,0,30.225,-89.484,821
+1176,Ansley,LA,Jackson Parish,,city-us,0,32.396,-92.693,815

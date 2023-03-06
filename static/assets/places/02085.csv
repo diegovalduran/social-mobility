@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10493,Crosstown,OH,,city-us,0,39.092,-84.006,177
-10494,Crosstown,MO,,city-us,0,37.744,-89.725,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10493,Crosstown,OH,Brown County,,city-us,0,39.092,-84.006,177
+10494,Crosstown,MO,Perry County,,city-us,0,37.744,-89.725,0

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10011,Corwith,MI,,city-us,1719,45.153,-84.568,2242
-10010,Corwith,IA,,city-us,265,42.993,-93.957,3737
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10011,Corwith,MI,Otsego County,,city-us,1719,45.153,-84.568,2242
+10010,Corwith,IA,Hancock County,,city-us,265,42.993,-93.957,3737

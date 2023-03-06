@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20068,Hilldale,PA,,city-us,808,41.289,-75.836,694
-20067,Hilldale,MO,,city-us,0,39.063,-92.561,268
-20069,Hilldale,VA,,city-us,0,38.667,-78.434,88
-20070,Hilldale,WV,,city-us,0,37.638,-80.787,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20068,Hilldale,PA,Luzerne County,,city-us,808,41.289,-75.836,694
+20067,Hilldale,MO,Howard County,,city-us,0,39.063,-92.561,268
+20069,Hilldale,VA,Page County,,city-us,0,38.667,-78.434,88
+20070,Hilldale,WV,Summers County,,city-us,0,37.638,-80.787,179

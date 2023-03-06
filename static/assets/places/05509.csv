@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28154,Middlebourne,WV,,city-us,700,39.492,-80.904,3436
-28153,Middlebourne,OH,,city-us,0,40.051,-81.336,343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28154,Middlebourne,WV,Tyler County,,city-us,700,39.492,-80.904,3436
+28153,Middlebourne,OH,Guernsey County,,city-us,0,40.051,-81.336,343

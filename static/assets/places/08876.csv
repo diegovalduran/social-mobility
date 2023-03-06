@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44566,Vigo,,Spain,city-international,293837,42.231,-8.712,22800
-44564,Vigo,OH,,city-us,0,39.248,-82.793,252
-44565,Vigo,IN,,city-us,0,39.287,-87.537,429
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44566,Vigo,,,Spain,city-international,293837,42.231,-8.712,22800
+44564,Vigo,OH,Ross County,,city-us,0,39.248,-82.793,252
+44565,Vigo,IN,Vigo County,,city-us,0,39.287,-87.537,429

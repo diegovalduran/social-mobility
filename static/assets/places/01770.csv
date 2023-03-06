@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9105,Coaldale,PA,,city-us,2431,40.823,-75.907,8809
-9103,Coaldale,CO,,city-us,425,38.366,-105.758,1469
-9102,Coaldale,PA,,city-us,127,40.167,-78.215,2179
-9104,Coaldale,WV,,city-us,0,37.363,-81.334,227
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9105,Coaldale,PA,Schuylkill County,,city-us,2431,40.823,-75.907,8809
+9103,Coaldale,CO,Fremont County,,city-us,425,38.366,-105.758,1469
+9102,Coaldale,PA,Bedford County,,city-us,127,40.167,-78.215,2179
+9104,Coaldale,WV,Mercer County,,city-us,0,37.363,-81.334,227

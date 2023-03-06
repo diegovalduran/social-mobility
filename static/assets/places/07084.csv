@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35937,Rawhide,VA,,city-us,0,36.856,-82.911,192
-35938,Rawhide,CA,,city-us,0,39.200,-120.745,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35937,Rawhide,VA,Lee County,,city-us,0,36.856,-82.911,192
+35938,Rawhide,CA,Placer County,,city-us,0,39.200,-120.745,175

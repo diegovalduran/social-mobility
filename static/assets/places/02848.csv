@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14170,Excel,AL,,city-us,550,31.428,-87.341,2636
-14169,Excel,MN,,city-us,308,48.229,-96.173,1766
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14170,Excel,AL,Monroe County,,city-us,550,31.428,-87.341,2636
+14169,Excel,MN,Marshall County,,city-us,308,48.229,-96.173,1766

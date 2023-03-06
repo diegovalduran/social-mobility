@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10385,Crisp,NC,,city-us,0,35.751,-77.625,2220
-10386,Crisp,TX,,city-us,0,32.398,-96.581,844
-10387,Crisp,WV,,city-us,0,39.367,-81.116,130
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10385,Crisp,NC,Edgecombe County,,city-us,0,35.751,-77.625,2220
+10386,Crisp,TX,Ellis County,,city-us,0,32.398,-96.581,844
+10387,Crisp,WV,Pleasants County,,city-us,0,39.367,-81.116,130

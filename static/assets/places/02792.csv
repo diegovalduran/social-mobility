@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13893,Eros,LA,,city-us,127,32.392,-92.424,3344
-13894,Eros,AR,,city-us,0,36.183,-92.851,380
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13893,Eros,LA,Jackson Parish,,city-us,127,32.392,-92.424,3344
+13894,Eros,AR,Marion County,,city-us,0,36.183,-92.851,380

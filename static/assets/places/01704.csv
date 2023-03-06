@@ -1,30 +1,30 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8624,Clay,NY,,city-us,60490,43.179,-76.192,5629
-8618,Clay,AL,,city-us,10311,33.697,-86.608,4634
-8622,Clay,OH,,city-us,8840,39.875,-84.426,391
-8630,Clay,MI,,city-us,8427,42.610,-82.622,4157
-8620,Clay,PA,,city-us,6916,40.235,-76.240,220
-8625,Clay,OH,,city-us,4790,41.528,-83.356,391
-8629,Clay,OH,,city-us,3501,38.795,-82.972,391
-8608,Clay,PA,,city-us,2514,40.992,-79.929,220
-8626,Clay,KS,,city-us,1961,38.032,-97.840,179
-8631,Clay,OH,,city-us,1894,40.349,-81.453,391
-8611,Clay,OH,,city-us,1732,38.710,-82.206,391
-8619,Clay,OH,,city-us,1545,40.277,-82.331,391
-8613,Clay,OH,,city-us,1523,39.070,-83.834,391
-8610,Clay,MO,,city-us,1208,36.072,-90.064,849
-8628,Clay,CA,,city-us,1093,38.336,-121.159,2221
-8632,Clay,KY,,city-us,1015,37.477,-87.820,2909
-8623,Clay,OH,,city-us,961,39.797,-82.044,391
-8615,Clay,PA,,city-us,864,40.180,-78.020,220
-8605,Clay,OH,,city-us,774,40.527,-84.060,391
-8609,Clay,WV,,city-us,387,38.460,-81.085,5063
-8621,Clay,MO,,city-us,306,39.873,-93.292,849
-8614,Clay,MN,,city-us,79,47.112,-94.952,1772
-8607,Clay,KS,,city-us,64,37.529,-96.779,179
-8612,Clay,MO,,city-us,62,40.522,-93.834,849
-8627,Clay,ND,,city-us,40,48.679,-101.514,0
-8604,Clay,MO,,city-us,0,40.227,-92.453,250
-8606,Clay,TX,,city-us,0,30.389,-96.344,460
-8616,Clay,MS,,city-us,0,34.270,-88.337,195
-8617,Clay,OH,,city-us,0,38.935,-82.567,369
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8624,Clay,NY,Onondaga County,,city-us,60490,43.179,-76.192,5629
+8618,Clay,AL,Jefferson County / St. Clair County,,city-us,10311,33.697,-86.608,4634
+8622,Clay,OH,Montgomery County,,city-us,8840,39.875,-84.426,391
+8630,Clay,MI,St. Clair County,,city-us,8427,42.610,-82.622,4157
+8620,Clay,PA,Lancaster County,,city-us,6916,40.235,-76.240,220
+8625,Clay,OH,Ottawa County,,city-us,4790,41.528,-83.356,391
+8629,Clay,OH,Scioto County,,city-us,3501,38.795,-82.972,391
+8608,Clay,PA,Butler County,,city-us,2514,40.992,-79.929,220
+8626,Clay,KS,Reno County,,city-us,1961,38.032,-97.840,179
+8631,Clay,OH,Tuscarawas County,,city-us,1894,40.349,-81.453,391
+8611,Clay,OH,Gallia County,,city-us,1732,38.710,-82.206,391
+8619,Clay,OH,Knox County,,city-us,1545,40.277,-82.331,391
+8613,Clay,OH,Highland County,,city-us,1523,39.070,-83.834,391
+8610,Clay,MO,Dunklin County,,city-us,1208,36.072,-90.064,849
+8628,Clay,CA,Sacramento County,,city-us,1093,38.336,-121.159,2221
+8632,Clay,KY,Webster County,,city-us,1015,37.477,-87.820,2909
+8623,Clay,OH,Muskingum County,,city-us,961,39.797,-82.044,391
+8615,Clay,PA,Huntingdon County,,city-us,864,40.180,-78.020,220
+8605,Clay,OH,Auglaize County,,city-us,774,40.527,-84.060,391
+8609,Clay,WV,Clay County,,city-us,387,38.460,-81.085,5063
+8621,Clay,MO,Linn County,,city-us,306,39.873,-93.292,849
+8614,Clay,MN,Hubbard County,,city-us,79,47.112,-94.952,1772
+8607,Clay,KS,Butler County,,city-us,64,37.529,-96.779,179
+8612,Clay,MO,Harrison County,,city-us,62,40.522,-93.834,849
+8627,Clay,ND,Renville County,,city-us,40,48.679,-101.514,0
+8604,Clay,MO,Adair County,,city-us,0,40.227,-92.453,250
+8606,Clay,TX,Burleson County,,city-us,0,30.389,-96.344,460
+8616,Clay,MS,Itawamba County,,city-us,0,34.270,-88.337,195
+8617,Clay,OH,Jackson County,,city-us,0,38.935,-82.567,369

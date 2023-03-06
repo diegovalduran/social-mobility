@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3483,Benoit,MS,,city-us,359,33.651,-91.010,3064
-3482,Benoit,WI,,city-us,0,46.502,-91.077,423
-3484,Benoit,MN,,city-us,0,47.702,-96.395,81
-3485,Benoit,TX,,city-us,0,31.783,-99.829,80
-3486,Benoit,AL,,city-us,0,33.754,-87.157,81
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3483,Benoit,MS,Bolivar County,,city-us,359,33.651,-91.010,3064
+3482,Benoit,WI,Bayfield County,,city-us,0,46.502,-91.077,423
+3484,Benoit,MN,Polk County,,city-us,0,47.702,-96.395,81
+3485,Benoit,TX,Runnels County,,city-us,0,31.783,-99.829,80
+3486,Benoit,AL,Walker County,,city-us,0,33.754,-87.157,81

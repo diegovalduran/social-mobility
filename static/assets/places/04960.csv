@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25530,London,,United Kingdom,city-international,11120000,51.507,-0.128,94432
-25529,London,,Canada,city-international,383822,42.984,-81.250,49888
-25523,London,OH,,city-us,10514,39.886,-83.448,5481
-25522,London,KY,,city-us,7413,37.129,-84.083,5538
-25524,London,MI,,city-us,3048,42.030,-83.592,2772
-25528,London,CA,,city-us,1531,36.476,-119.443,3998
-25525,London,AR,,city-us,978,35.329,-93.253,3006
-25527,London,KS,,city-us,707,37.426,-97.413,6779
-25518,London,WI,,city-us,0,43.048,-89.013,655
-25519,London,MN,,city-us,0,43.526,-93.063,285
-25520,London,WV,,city-us,0,38.194,-81.369,459
-25521,London,TX,,city-us,0,30.677,-99.576,2173
-25526,London,IN,,city-us,0,39.626,-85.920,810
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25530,London,,,United Kingdom,city-international,11120000,51.507,-0.128,94432
+25529,London,,,Canada,city-international,383822,42.984,-81.250,49888
+25523,London,OH,Madison County,,city-us,10514,39.886,-83.448,5481
+25522,London,KY,Laurel County,,city-us,7413,37.129,-84.083,5538
+25524,London,MI,Monroe County,,city-us,3048,42.030,-83.592,2772
+25528,London,CA,Tulare County,,city-us,1531,36.476,-119.443,3998
+25525,London,AR,Pope County,,city-us,978,35.329,-93.253,3006
+25527,London,KS,Sumner County,,city-us,707,37.426,-97.413,6779
+25518,London,WI,Dane County,,city-us,0,43.048,-89.013,655
+25519,London,MN,Freeborn County,,city-us,0,43.526,-93.063,285
+25520,London,WV,Kanawha County,,city-us,0,38.194,-81.369,459
+25521,London,TX,Kimble County,,city-us,0,30.677,-99.576,2173
+25526,London,IN,Shelby County,,city-us,0,39.626,-85.920,810

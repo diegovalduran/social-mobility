@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47060,Wills,OH,,city-us,1503,40.028,-81.394,1255
-47059,Wills,WI,,city-us,0,46.539,-91.539,112
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47060,Wills,OH,Guernsey County,,city-us,1503,40.028,-81.394,1255
+47059,Wills,WI,Bayfield County,,city-us,0,46.539,-91.539,112

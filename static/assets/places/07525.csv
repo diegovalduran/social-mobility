@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38189,Saint Marys,IN,,city-us,0,38.356,-85.865,142
-38190,Saint Marys,IN,,city-us,0,39.348,-85.109,253
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38189,Saint Marys,IN,Floyd County,,city-us,0,38.356,-85.865,142
+38190,Saint Marys,IN,Franklin County,,city-us,0,39.348,-85.109,253

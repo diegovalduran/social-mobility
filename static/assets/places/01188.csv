@@ -1,45 +1,45 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5963,Buffalo,NY,,city-us,276807,42.886,-78.878,52879
-5957,Buffalo,PA,,city-us,7936,40.707,-79.737,500
-5974,Buffalo,WY,,city-us,4469,44.348,-106.699,8104
-5992,Buffalo,PA,,city-us,3538,40.966,-76.978,500
-5960,Buffalo,MO,,city-us,3318,37.644,-93.092,7525
-5983,Buffalo,IL,,city-us,2651,41.986,-89.569,647
-5994,Buffalo,PA,,city-us,1981,40.149,-80.351,500
-5997,Buffalo,MN,,city-us,1903,45.194,-93.817,1889
-5978,Buffalo,TX,,city-us,1789,31.464,-96.058,2875
-5979,Buffalo,WI,,city-us,1420,43.686,-89.328,1982
-5993,Buffalo,SC,,city-us,1330,34.726,-81.683,2093
-5985,Buffalo,PA,,city-us,1229,40.511,-77.027,500
-5986,Buffalo,WV,,city-us,1208,38.618,-81.982,2929
-5988,Buffalo,IA,,city-us,1173,41.456,-90.723,4546
-5962,Buffalo,MO,,city-us,1051,36.048,-90.294,239
-5967,Buffalo,OK,,city-us,999,36.836,-99.630,4209
-5995,Buffalo,IN,,city-us,975,40.883,-86.745,2106
-5982,Buffalo,OH,,city-us,913,39.868,-81.522,1189
-5956,Buffalo,WI,,city-us,750,44.082,-91.595,3249
-5965,Buffalo,OH,,city-us,728,39.916,-81.520,476
-5976,Buffalo,KY,,city-us,574,37.512,-85.699,0
-5977,Buffalo,KY,,city-us,571,37.512,-85.699,465
-5973,Buffalo,KS,,city-us,449,39.690,-98.110,235
-5987,Buffalo,IL,,city-us,442,39.853,-89.409,2037
-5955,Buffalo,KS,,city-us,426,38.392,-98.868,235
-5966,Buffalo,SD,,city-us,349,45.584,-103.546,2390
-5996,Buffalo,KS,,city-us,218,37.710,-95.697,3956
-5981,Buffalo,SD,,city-us,213,43.798,-97.064,2390
-5980,Buffalo,SD,,city-us,132,45.617,-97.287,2390
-5959,Buffalo,KS,,city-us,96,39.577,-97.772,235
-5958,Buffalo,ND,,city-us,71,46.938,-97.482,3223
-5989,Buffalo,SD,,city-us,50,44.677,-98.645,2390
-5975,Buffalo,SD,,city-us,33,43.865,-100.646,2390
-5954,Buffalo,TN,,city-us,0,36.137,-84.388,86
-5961,Buffalo,NE,,city-us,0,40.989,-99.835,274
-5964,Buffalo,MT,,city-us,0,46.821,-109.829,601
-5968,Buffalo,TX,,city-us,0,32.273,-96.280,139
-5969,Buffalo,TN,,city-us,0,35.688,-87.488,85
-5970,Buffalo,TN,,city-us,0,35.886,-87.807,317
-5971,Buffalo,OH,,city-us,0,39.096,-82.648,210
-5972,Buffalo,WV,,city-us,0,38.827,-81.534,75
-5984,Buffalo,IN,,city-us,0,39.021,-84.884,306
-5990,Buffalo,TN,,city-us,0,36.492,-82.306,86
-5991,Buffalo,KY,,city-us,0,36.919,-87.686,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5963,Buffalo,NY,Erie County,,city-us,276807,42.886,-78.878,52879
+5957,Buffalo,PA,Butler County,,city-us,7936,40.707,-79.737,500
+5974,Buffalo,WY,Johnson County,,city-us,4469,44.348,-106.699,8104
+5992,Buffalo,PA,Union County,,city-us,3538,40.966,-76.978,500
+5960,Buffalo,MO,Dallas County,,city-us,3318,37.644,-93.092,7525
+5983,Buffalo,IL,Ogle County,,city-us,2651,41.986,-89.569,647
+5994,Buffalo,PA,Washington County,,city-us,1981,40.149,-80.351,500
+5997,Buffalo,MN,Wright County,,city-us,1903,45.194,-93.817,1889
+5978,Buffalo,TX,Leon County,,city-us,1789,31.464,-96.058,2875
+5979,Buffalo,WI,Marquette County,,city-us,1420,43.686,-89.328,1982
+5993,Buffalo,SC,Union County,,city-us,1330,34.726,-81.683,2093
+5985,Buffalo,PA,Perry County,,city-us,1229,40.511,-77.027,500
+5986,Buffalo,WV,Putnam County,,city-us,1208,38.618,-81.982,2929
+5988,Buffalo,IA,Scott County,,city-us,1173,41.456,-90.723,4546
+5962,Buffalo,MO,Dunklin County,,city-us,1051,36.048,-90.294,239
+5967,Buffalo,OK,Harper County,,city-us,999,36.836,-99.630,4209
+5995,Buffalo,IN,White County,,city-us,975,40.883,-86.745,2106
+5982,Buffalo,OH,Noble County,,city-us,913,39.868,-81.522,1189
+5956,Buffalo,WI,Buffalo County,,city-us,750,44.082,-91.595,3249
+5965,Buffalo,OH,Guernsey County,,city-us,728,39.916,-81.520,476
+5976,Buffalo,KY,Larue County,,city-us,574,37.512,-85.699,0
+5977,Buffalo,KY,LaRue County,,city-us,571,37.512,-85.699,465
+5973,Buffalo,KS,Jewell County,,city-us,449,39.690,-98.110,235
+5987,Buffalo,IL,Sangamon County,,city-us,442,39.853,-89.409,2037
+5955,Buffalo,KS,Barton County,,city-us,426,38.392,-98.868,235
+5966,Buffalo,SD,Harding County,,city-us,349,45.584,-103.546,2390
+5996,Buffalo,KS,Wilson County,,city-us,218,37.710,-95.697,3956
+5981,Buffalo,SD,Minnehaha County,,city-us,213,43.798,-97.064,2390
+5980,Buffalo,SD,Marshall County,,city-us,132,45.617,-97.287,2390
+5959,Buffalo,KS,Cloud County,,city-us,96,39.577,-97.772,235
+5958,Buffalo,ND,Cass County,,city-us,71,46.938,-97.482,3223
+5989,Buffalo,SD,Spink County,,city-us,50,44.677,-98.645,2390
+5975,Buffalo,SD,Jones County,,city-us,33,43.865,-100.646,2390
+5954,Buffalo,TN,Anderson County,,city-us,0,36.137,-84.388,86
+5961,Buffalo,NE,Dawson County,,city-us,0,40.989,-99.835,274
+5964,Buffalo,MT,Fergus County,,city-us,0,46.821,-109.829,601
+5968,Buffalo,TX,Henderson County,,city-us,0,32.273,-96.280,139
+5969,Buffalo,TN,Hickman County,,city-us,0,35.688,-87.488,85
+5970,Buffalo,TN,Humphreys County,,city-us,0,35.886,-87.807,317
+5971,Buffalo,OH,Jackson County,,city-us,0,39.096,-82.648,210
+5972,Buffalo,WV,Jackson County,,city-us,0,38.827,-81.534,75
+5984,Buffalo,IN,Ohio County,,city-us,0,39.021,-84.884,306
+5990,Buffalo,TN,Sullivan County,,city-us,0,36.492,-82.306,86
+5991,Buffalo,KY,Trigg County,,city-us,0,36.919,-87.686,82

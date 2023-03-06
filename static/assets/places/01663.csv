@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8391,Churchville,PA,,city-us,5866,40.186,-75.019,4219
-8394,Churchville,NY,,city-us,2174,43.104,-77.884,3145
-8390,Churchville,VA,,city-us,264,38.226,-79.162,996
-8392,Churchville,MD,,city-us,0,39.560,-76.250,0
-8393,Churchville,WV,,city-us,0,39.097,-80.591,164
-8395,Churchville,IA,,city-us,0,41.397,-93.751,1490
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8391,Churchville,PA,Bucks County,,city-us,5866,40.186,-75.019,4219
+8394,Churchville,NY,Monroe County,,city-us,2174,43.104,-77.884,3145
+8390,Churchville,VA,Augusta County,,city-us,264,38.226,-79.162,996
+8392,Churchville,MD,Harford County,,city-us,0,39.560,-76.250,0
+8393,Churchville,WV,Lewis County,,city-us,0,39.097,-80.591,164
+8395,Churchville,IA,Warren County,,city-us,0,41.397,-93.751,1490

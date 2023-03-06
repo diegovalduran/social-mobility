@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40550,Speedway,IN,,city-us,13770,39.802,-86.267,4542
-40551,Speedway,WV,,city-us,0,37.456,-81.010,253
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40550,Speedway,IN,Marion County,,city-us,13770,39.802,-86.267,4542
+40551,Speedway,WV,Mercer County,,city-us,0,37.456,-81.010,253

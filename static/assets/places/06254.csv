@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32110,Oklee,MN,,city-us,414,47.839,-95.854,3424
-31988,Ockley,IN,,city-us,0,40.488,-86.634,438
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32110,Oklee,MN,Red Lake County,,city-us,414,47.839,-95.854,3424
+31988,Ockley,IN,Carroll County,,city-us,0,40.488,-86.634,438

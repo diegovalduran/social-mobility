@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26035,Luray,VA,,city-us,4794,38.665,-78.459,12182
-26036,Luray,KS,,city-us,215,39.054,-98.648,3117
-26032,Luray,TN,,city-us,197,35.591,-88.576,110
-26031,Luray,SC,,city-us,100,32.814,-81.240,2190
-26030,Luray,MO,,city-us,72,40.453,-91.882,3247
-26033,Luray,IN,,city-us,0,40.071,-85.367,394
-26034,Luray,OH,,city-us,0,39.958,-82.532,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26035,Luray,VA,Page County,,city-us,4794,38.665,-78.459,12182
+26036,Luray,KS,Russell County,,city-us,215,39.054,-98.648,3117
+26032,Luray,TN,Henderson County,,city-us,197,35.591,-88.576,110
+26031,Luray,SC,Hampton County,,city-us,100,32.814,-81.240,2190
+26030,Luray,MO,Clark County,,city-us,72,40.453,-91.882,3247
+26033,Luray,IN,Henry County,,city-us,0,40.071,-85.367,394
+26034,Luray,OH,Licking County,,city-us,0,39.958,-82.532,203

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17337,Gothenburg,,Sweden,city-international,604829,57.672,11.981,37918
-17336,Gothenburg,NE,,city-us,3421,40.929,-100.161,6019
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17337,Gothenburg,,,Sweden,city-international,604829,57.672,11.981,37918
+17336,Gothenburg,NE,Dawson County,,city-us,3421,40.929,-100.161,6019

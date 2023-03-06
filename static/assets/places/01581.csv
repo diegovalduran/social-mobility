@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8008,Chauncey,OH,,city-us,937,39.398,-82.129,3835
-8012,Chauncey,WV,,city-us,422,37.766,-81.988,317
-8009,Chauncey,GA,,city-us,290,32.105,-83.065,2374
-8010,Chauncey,MI,,city-us,0,43.050,-85.550,884
-8011,Chauncey,IL,,city-us,0,38.835,-87.871,120
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8008,Chauncey,OH,Athens County,,city-us,937,39.398,-82.129,3835
+8012,Chauncey,WV,Logan County,,city-us,422,37.766,-81.988,317
+8009,Chauncey,GA,Dodge County,,city-us,290,32.105,-83.065,2374
+8010,Chauncey,MI,Kent County,,city-us,0,43.050,-85.550,884
+8011,Chauncey,IL,Lawrence County,,city-us,0,38.835,-87.871,120

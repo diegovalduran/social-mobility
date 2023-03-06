@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6703,Campbelltown,PA,,city-us,5541,40.278,-76.585,3296
-6704,Campbelltown,IN,,city-us,0,38.421,-87.240,224
-6705,Campbelltown,WV,,city-us,0,38.242,-80.091,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6703,Campbelltown,PA,Lebanon County,,city-us,5541,40.278,-76.585,3296
+6704,Campbelltown,IN,Pike County,,city-us,0,38.421,-87.240,224
+6705,Campbelltown,WV,Pocahontas County,,city-us,0,38.242,-80.091,167

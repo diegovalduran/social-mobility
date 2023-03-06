@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12942,Edgefield,SC,,city-us,2375,33.790,-81.930,25416
-12944,Edgefield,LA,,city-us,201,32.051,-93.333,1998
-12943,Edgefield,OH,,city-us,0,39.614,-83.645,295
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12942,Edgefield,SC,Edgefield County,,city-us,2375,33.790,-81.930,25416
+12944,Edgefield,LA,Red River Parish,,city-us,201,32.051,-93.333,1998
+12943,Edgefield,OH,Fayette County,,city-us,0,39.614,-83.645,295

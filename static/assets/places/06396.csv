@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32628,Ostrander,OH,,city-us,1130,40.266,-83.213,3767
-32629,Ostrander,MN,,city-us,224,43.614,-92.428,2885
-32627,Ostrander,WA,,city-us,0,46.193,-122.892,569
-32630,Ostrander,WI,,city-us,0,44.393,-88.838,187
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32628,Ostrander,OH,Delaware County,,city-us,1130,40.266,-83.213,3767
+32629,Ostrander,MN,Fillmore County,,city-us,224,43.614,-92.428,2885
+32627,Ostrander,WA,Cowlitz County,,city-us,0,46.193,-122.892,569
+32630,Ostrander,WI,Waupaca County,,city-us,0,44.393,-88.838,187

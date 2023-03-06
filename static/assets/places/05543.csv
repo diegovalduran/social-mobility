@@ -1,20 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28500,Mill Creek,WA,,city-us,20902,47.860,-122.204,24163
-28489,Mill Creek,OH,,city-us,1031,40.411,-81.850,267
-28498,Mill Creek,KS,,city-us,975,39.524,-96.183,0
-28495,Mill Creek,PA,,city-us,769,41.402,-80.044,244
-28506,Mill Creek,OH,,city-us,747,41.660,-84.422,267
-28494,Mill Creek,PA,,city-us,583,41.300,-76.794,244
-28499,Mill Creek,WV,,city-us,560,38.731,-79.970,3605
-28488,Mill Creek,KS,,city-us,489,37.913,-94.837,488
-28492,Mill Creek,OK,,city-us,299,34.404,-96.826,3695
-28491,Mill Creek,PA,,city-us,285,40.436,-77.931,3095
-28503,Mill Creek,KS,,city-us,217,38.887,-96.164,0
-28504,Mill Creek,KS,,city-us,178,39.870,-97.202,0
-28502,Mill Creek,IL,,city-us,57,37.342,-89.253,1909
-28490,Mill Creek,VA,,city-us,0,37.267,-76.412,116
-28493,Mill Creek,IN,,city-us,0,41.581,-86.532,620
-28496,Mill Creek,DE,,city-us,0,39.785,-75.705,155
-28497,Mill Creek,AR,,city-us,0,35.323,-93.204,100
-28501,Mill Creek,CA,,city-us,0,40.326,-121.523,355
-28505,Mill Creek,GA,,city-us,0,34.733,-85.042,162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28500,Mill Creek,WA,Snohomish County,,city-us,20902,47.860,-122.204,24163
+28489,Mill Creek,OH,Coshocton County,,city-us,1031,40.411,-81.850,267
+28498,Mill Creek,KS,Pottawatomie County,,city-us,975,39.524,-96.183,0
+28495,Mill Creek,PA,Mercer County,,city-us,769,41.402,-80.044,244
+28506,Mill Creek,OH,Williams County,,city-us,747,41.660,-84.422,267
+28494,Mill Creek,PA,Lycoming County,,city-us,583,41.300,-76.794,244
+28499,Mill Creek,WV,Randolph County,,city-us,560,38.731,-79.970,3605
+28488,Mill Creek,KS,Bourbon County,,city-us,489,37.913,-94.837,488
+28492,Mill Creek,OK,Johnston County,,city-us,299,34.404,-96.826,3695
+28491,Mill Creek,PA,Huntingdon County,,city-us,285,40.436,-77.931,3095
+28503,Mill Creek,KS,Wabaunsee County,,city-us,217,38.887,-96.164,0
+28504,Mill Creek,KS,Washington County,,city-us,178,39.870,-97.202,0
+28502,Mill Creek,IL,Union County,,city-us,57,37.342,-89.253,1909
+28490,Mill Creek,VA,Gloucester County,,city-us,0,37.267,-76.412,116
+28493,Mill Creek,IN,LaPorte County,,city-us,0,41.581,-86.532,620
+28496,Mill Creek,DE,New Castle County,,city-us,0,39.785,-75.705,155
+28497,Mill Creek,AR,Pope County,,city-us,0,35.323,-93.204,100
+28501,Mill Creek,CA,Tehama County,,city-us,0,40.326,-121.523,355
+28505,Mill Creek,GA,Whitfield County,,city-us,0,34.733,-85.042,162

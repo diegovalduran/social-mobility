@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3154,Belgium,,,country,11913633,50.504,4.470,61074
-3150,Belgium,WI,,city-us,2439,43.500,-87.850,14076
-3153,Belgium,IL,,city-us,352,40.061,-87.638,1872
-3151,Belgium,MN,,city-us,63,47.971,-96.536,1916
-3152,Belgium,WV,,city-us,0,39.324,-80.116,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3154,Belgium,,,,country,11913633,50.504,4.470,61074
+3150,Belgium,WI,Ozaukee County,,city-us,2439,43.500,-87.850,14076
+3153,Belgium,IL,Vermilion County,,city-us,352,40.061,-87.638,1872
+3151,Belgium,MN,Polk County,,city-us,63,47.971,-96.536,1916
+3152,Belgium,WV,Taylor County,,city-us,0,39.324,-80.116,88

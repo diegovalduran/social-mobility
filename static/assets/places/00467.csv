@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2431,Barcelona,,Spain,city-international,4735000,41.383,2.177,61864
-2432,Barcelona,,Venezuela,city-international,448016,10.133,-64.683,19009
-2430,Barcelona,AR,,city-us,0,35.621,-94.456,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2431,Barcelona,,,Spain,city-international,4735000,41.383,2.177,61864
+2432,Barcelona,,,Venezuela,city-international,448016,10.133,-64.683,19009
+2430,Barcelona,AR,Crawford County,,city-us,0,35.621,-94.456,182

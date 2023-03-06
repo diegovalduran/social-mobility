@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2972,Beaver Creek,MI,,city-us,1549,44.562,-84.722,3060
-2971,Beaver Creek,TX,,city-us,1176,30.449,-96.562,287
-2980,Beaver Creek,MD,,city-us,461,39.584,-77.642,823
-2975,Beaver Creek,MT,,city-us,415,48.554,-109.792,1942
-2977,Beaver Creek,MN,,city-us,385,43.634,-96.383,2210
-2974,Beaver Creek,IL,,city-us,255,38.172,-88.431,1108
-2978,Beaver Creek,ND,,city-us,84,47.623,-97.655,0
-2979,Beaver Creek,SD,,city-us,17,43.042,-100.162,0
-2969,Beaver Creek,NC,,city-us,0,36.378,-81.498,519
-2970,Beaver Creek,IL,,city-us,0,38.767,-89.394,486
-2973,Beaver Creek,CO,,city-us,0,39.605,-106.515,4311
-2976,Beaver Creek,AL,,city-us,0,32.171,-87.880,378
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2972,Beaver Creek,MI,Crawford County,,city-us,1549,44.562,-84.722,3060
+2971,Beaver Creek,TX,Burleson County,,city-us,1176,30.449,-96.562,287
+2980,Beaver Creek,MD,Washington County,,city-us,461,39.584,-77.642,823
+2975,Beaver Creek,MT,Hill County,,city-us,415,48.554,-109.792,1942
+2977,Beaver Creek,MN,Rock County,,city-us,385,43.634,-96.383,2210
+2974,Beaver Creek,IL,Hamilton County,,city-us,255,38.172,-88.431,1108
+2978,Beaver Creek,ND,Steele County,,city-us,84,47.623,-97.655,0
+2979,Beaver Creek,SD,Tripp County,,city-us,17,43.042,-100.162,0
+2969,Beaver Creek,NC,Ashe County,,city-us,0,36.378,-81.498,519
+2970,Beaver Creek,IL,Bond County,,city-us,0,38.767,-89.394,486
+2973,Beaver Creek,CO,Eagle County,,city-us,0,39.605,-106.515,4311
+2976,Beaver Creek,AL,Marengo County,,city-us,0,32.171,-87.880,378

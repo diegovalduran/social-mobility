@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32696,Otter Lake,MI,,city-us,361,43.213,-83.459,3534
-32697,Otter Lake,NY,,city-us,67,43.591,-75.112,169
-32698,Otter Lake,IN,,city-us,0,41.638,-85.172,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32696,Otter Lake,MI,Genesee County / Lapeer County,,city-us,361,43.213,-83.459,3534
+32697,Otter Lake,NY,Oneida County,,city-us,67,43.591,-75.112,169
+32698,Otter Lake,IN,Steuben County,,city-us,0,41.638,-85.172,0

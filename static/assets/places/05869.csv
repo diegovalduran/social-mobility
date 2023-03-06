@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30166,Muttonville,MI,,city-us,4105,42.774,-82.677,3289
-30165,Muttonville,OH,,city-us,0,39.658,-84.686,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30166,Muttonville,MI,St. Clair County,,city-us,4105,42.774,-82.677,3289
+30165,Muttonville,OH,Preble County,,city-us,0,39.658,-84.686,199

@@ -1,21 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13287,Elk,NJ,,city-us,4442,39.663,-75.157,10117
-13302,Elk,OH,,city-us,3237,39.258,-82.474,152
-13294,Elk,KS,,city-us,1821,38.804,-95.552,2137
-13288,Elk,IL,,city-us,1730,37.907,-89.211,1220
-13284,Elk,PA,,city-us,1707,39.737,-75.905,412
-13296,Elk,MI,,city-us,1515,43.282,-82.828,286
-13285,Elk,PA,,city-us,1431,41.277,-79.488,412
-13290,Elk,MI,,city-us,1051,44.126,-85.976,286
-13295,Elk,WI,,city-us,960,45.675,-90.515,1972
-13286,Elk,KS,,city-us,783,39.617,-97.417,444
-13303,Elk,PA,,city-us,478,41.960,-78.973,412
-13297,Elk,NE,,city-us,293,41.261,-96.844,313
-13299,Elk,MO,,city-us,278,36.693,-89.818,146
-13293,Elk,MN,,city-us,212,43.715,-95.639,2703
-13300,Elk,PA,,city-us,45,41.627,-77.531,412
-13289,Elk,WV,,city-us,0,38.361,-81.665,85
-13291,Elk,CA,,city-us,0,39.130,-123.718,2230
-13292,Elk,OH,,city-us,0,39.673,-81.336,317
-13298,Elk,WA,,city-us,0,48.016,-117.276,1313
-13301,Elk,WV,,city-us,0,39.022,-79.538,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13287,Elk,NJ,Gloucester County,,city-us,4442,39.663,-75.157,10117
+13302,Elk,OH,Vinton County,,city-us,3237,39.258,-82.474,152
+13294,Elk,KS,Osage County,,city-us,1821,38.804,-95.552,2137
+13288,Elk,IL,Jackson County,,city-us,1730,37.907,-89.211,1220
+13284,Elk,PA,Chester County,,city-us,1707,39.737,-75.905,412
+13296,Elk,MI,Sanilac County,,city-us,1515,43.282,-82.828,286
+13285,Elk,PA,Clarion County,,city-us,1431,41.277,-79.488,412
+13290,Elk,MI,Lake County,,city-us,1051,44.126,-85.976,286
+13295,Elk,WI,Price County,,city-us,960,45.675,-90.515,1972
+13286,Elk,KS,Cloud County,,city-us,783,39.617,-97.417,444
+13303,Elk,PA,Warren County,,city-us,478,41.960,-78.973,412
+13297,Elk,NE,Saunders County,,city-us,293,41.261,-96.844,313
+13299,Elk,MO,Stoddard County,,city-us,278,36.693,-89.818,146
+13293,Elk,MN,Nobles County,,city-us,212,43.715,-95.639,2703
+13300,Elk,PA,Tioga County,,city-us,45,41.627,-77.531,412
+13289,Elk,WV,Kanawha County,,city-us,0,38.361,-81.665,85
+13291,Elk,CA,Mendocino County,,city-us,0,39.130,-123.718,2230
+13292,Elk,OH,Noble County,,city-us,0,39.673,-81.336,317
+13298,Elk,WA,Spokane County,,city-us,0,48.016,-117.276,1313
+13301,Elk,WV,Tucker County,,city-us,0,39.022,-79.538,192

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32859,Paddock,NE,,city-us,330,40.045,-96.752,149
-32861,Paddock,MN,,city-us,325,46.674,-95.211,1965
-32860,Paddock,NE,,city-us,0,42.778,-98.619,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32859,Paddock,NE,Gage County,,city-us,330,40.045,-96.752,149
+32861,Paddock,MN,Otter Tail County,,city-us,325,46.674,-95.211,1965
+32860,Paddock,NE,Holt County,,city-us,0,42.778,-98.619,264

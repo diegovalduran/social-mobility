@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9403,Colorado,,United States,state,5839926,38.998,-105.551,81068
-9402,Colorado,KS,,city-us,232,38.997,-97.975,0
-9401,Colorado,TX,,city-us,0,29.986,-97.134,697
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9403,Colorado,,,United States,state,5839926,38.998,-105.551,81068
+9402,Colorado,KS,Lincoln County,,city-us,232,38.997,-97.975,0
+9401,Colorado,TX,Bastrop County,,city-us,0,29.986,-97.134,697

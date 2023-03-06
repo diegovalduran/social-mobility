@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26682,Mantua,NJ,,city-us,15464,39.762,-75.173,10520
-26681,Mantua,VA,,city-us,7771,38.854,-77.259,5238
-26684,Mantua,OH,,city-us,4606,41.312,-81.247,2075
-26680,Mantua,UT,,city-us,1217,41.496,-111.944,5538
-26683,Mantua,AL,,city-us,0,33.054,-87.929,392
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26682,Mantua,NJ,Gloucester County,,city-us,15464,39.762,-75.173,10520
+26681,Mantua,VA,Fairfax County,,city-us,7771,38.854,-77.259,5238
+26684,Mantua,OH,Portage County,,city-us,4606,41.312,-81.247,2075
+26680,Mantua,UT,Box Elder County,,city-us,1217,41.496,-111.944,5538
+26683,Mantua,AL,Greene County,,city-us,0,33.054,-87.929,392

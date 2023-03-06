@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17898,Greenbush,MI,,city-us,2142,43.067,-84.534,305
-17904,Greenbush,WI,,city-us,1841,43.777,-88.101,2301
-17901,Greenbush,ME,,city-us,1447,45.072,-68.589,3066
-17900,Greenbush,MN,,city-us,1312,45.595,-93.706,1937
-17896,Greenbush,MI,,city-us,1275,44.555,-83.335,2991
-17903,Greenbush,MN,,city-us,682,48.701,-96.182,6214
-17895,Greenbush,VA,,city-us,25,37.741,-75.681,538
-17905,Greenbush,ND,,city-us,20,48.590,-101.908,0
-17897,Greenbush,OH,,city-us,0,39.075,-83.925,200
-17899,Greenbush,KS,,city-us,0,37.514,-94.988,485
-17902,Greenbush,OH,,city-us,0,39.601,-84.499,213
-17906,Greenbush,IL,,city-us,0,40.712,-90.535,132
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17898,Greenbush,MI,Clinton County,,city-us,2142,43.067,-84.534,305
+17904,Greenbush,WI,Sheboygan County,,city-us,1841,43.777,-88.101,2301
+17901,Greenbush,ME,Penobscot County,,city-us,1447,45.072,-68.589,3066
+17900,Greenbush,MN,Mille Lacs County,,city-us,1312,45.595,-93.706,1937
+17896,Greenbush,MI,Alcona County,,city-us,1275,44.555,-83.335,2991
+17903,Greenbush,MN,Roseau County,,city-us,682,48.701,-96.182,6214
+17895,Greenbush,VA,Accomack County,,city-us,25,37.741,-75.681,538
+17905,Greenbush,ND,Ward County,,city-us,20,48.590,-101.908,0
+17897,Greenbush,OH,Brown County,,city-us,0,39.075,-83.925,200
+17899,Greenbush,KS,Crawford County,,city-us,0,37.514,-94.988,485
+17902,Greenbush,OH,Preble County,,city-us,0,39.601,-84.499,213
+17906,Greenbush,IL,Warren County,,city-us,0,40.712,-90.535,132

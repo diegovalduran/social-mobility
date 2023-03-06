@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9471,Columbus,OH,,city-us,906528,39.986,-82.986,71130
-9478,Columbus,GA,,city-us,205617,32.461,-84.988,27213
-9463,Columbus,IN,,city-us,50569,39.201,-85.921,20033
-9475,Columbus,MS,,city-us,23319,33.496,-88.427,18396
-9465,Columbus,NJ,,city-us,8783,40.072,-74.721,3010
-9470,Columbus,WI,,city-us,5505,43.337,-89.030,10540
-9462,Columbus,MN,,city-us,4231,45.265,-93.050,4032
-9481,Columbus,MI,,city-us,4093,42.859,-82.683,198
-9468,Columbus,TX,,city-us,3587,29.707,-96.540,8204
-9479,Columbus,NE,,city-us,3276,41.455,-97.308,249
-9467,Columbus,KS,,city-us,2882,37.169,-94.844,5314
-9482,Columbus,MT,,city-us,1856,45.637,-109.252,4585
-9477,Columbus,NM,,city-us,1459,31.828,-107.640,8100
-9480,Columbus,NC,,city-us,1007,35.253,-82.197,2438
-9483,Columbus,PA,,city-us,903,41.941,-79.582,389
-9466,Columbus,NY,,city-us,898,42.692,-75.370,2891
-9469,Columbus,WI,,city-us,631,43.327,-89.078,10540
-9461,Columbus,IL,,city-us,562,39.983,-91.098,2430
-9476,Columbus,MI,,city-us,143,46.419,-85.731,198
-9473,Columbus,KY,,city-us,134,36.760,-89.103,4725
-9464,Columbus,ND,,city-us,132,48.904,-102.780,3326
-9472,Columbus,AR,,city-us,0,33.776,-93.817,872
-9474,Columbus,MO,,city-us,0,38.859,-93.891,501
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9471,Columbus,OH,Delaware County / Fairfield County / Franklin County,,city-us,906528,39.986,-82.986,71130
+9478,Columbus,GA,Muscogee County,,city-us,205617,32.461,-84.988,27213
+9463,Columbus,IN,Bartholomew County,,city-us,50569,39.201,-85.921,20033
+9475,Columbus,MS,Lowndes County,,city-us,23319,33.496,-88.427,18396
+9465,Columbus,NJ,Burlington County,,city-us,8783,40.072,-74.721,3010
+9470,Columbus,WI,Columbia County / Dodge County,,city-us,5505,43.337,-89.030,10540
+9462,Columbus,MN,Anoka County,,city-us,4231,45.265,-93.050,4032
+9481,Columbus,MI,St. Clair County,,city-us,4093,42.859,-82.683,198
+9468,Columbus,TX,Colorado County,,city-us,3587,29.707,-96.540,8204
+9479,Columbus,NE,Platte County,,city-us,3276,41.455,-97.308,249
+9467,Columbus,KS,Cherokee County,,city-us,2882,37.169,-94.844,5314
+9482,Columbus,MT,Stillwater County,,city-us,1856,45.637,-109.252,4585
+9477,Columbus,NM,Luna County,,city-us,1459,31.828,-107.640,8100
+9480,Columbus,NC,Polk County,,city-us,1007,35.253,-82.197,2438
+9483,Columbus,PA,Warren County,,city-us,903,41.941,-79.582,389
+9466,Columbus,NY,Chenango County,,city-us,898,42.692,-75.370,2891
+9469,Columbus,WI,Columbia County,,city-us,631,43.327,-89.078,10540
+9461,Columbus,IL,Adams County,,city-us,562,39.983,-91.098,2430
+9476,Columbus,MI,Luce County,,city-us,143,46.419,-85.731,198
+9473,Columbus,KY,Hickman County,,city-us,134,36.760,-89.103,4725
+9464,Columbus,ND,Burke County,,city-us,132,48.904,-102.780,3326
+9472,Columbus,AR,Hempstead County,,city-us,0,33.776,-93.817,872
+9474,Columbus,MO,Johnson County,,city-us,0,38.859,-93.891,501

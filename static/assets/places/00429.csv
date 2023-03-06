@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2278,Bald Eagle,PA,,city-us,2036,41.140,-77.569,1892
-2276,Bald Eagle,KY,,city-us,0,38.201,-83.851,92
-2277,Bald Eagle,PA,,city-us,0,40.722,-78.185,525
-2279,Bald Eagle,MN,,city-us,0,45.102,-93.014,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2278,Bald Eagle,PA,Clinton County,,city-us,2036,41.140,-77.569,1892
+2276,Bald Eagle,KY,Bath County,,city-us,0,38.201,-83.851,92
+2277,Bald Eagle,PA,Blair County,,city-us,0,40.722,-78.185,525
+2279,Bald Eagle,MN,Ramsey County,,city-us,0,45.102,-93.014,165

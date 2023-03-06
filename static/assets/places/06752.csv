@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34281,Pinto,MD,,city-us,0,39.570,-78.839,402
-34282,Pinto,UT,,city-us,0,37.538,-113.517,528
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34281,Pinto,MD,Allegany County,,city-us,0,39.570,-78.839,402
+34282,Pinto,UT,Washington County,,city-us,0,37.538,-113.517,528

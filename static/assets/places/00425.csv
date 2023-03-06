@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2260,Bakersville,NJ,,city-us,33077,40.296,-74.720,23372
-2258,Bakersville,MI,,city-us,4015,42.462,-86.076,2874
-2261,Bakersville,NC,,city-us,454,36.016,-82.159,4319
-2262,Bakersville,MD,,city-us,30,39.515,-77.757,1631
-2259,Bakersville,OH,,city-us,0,40.356,-81.646,509
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2260,Bakersville,NJ,Mercer County,,city-us,33077,40.296,-74.720,23372
+2258,Bakersville,MI,Allegan County,,city-us,4015,42.462,-86.076,2874
+2261,Bakersville,NC,Mitchell County,,city-us,454,36.016,-82.159,4319
+2262,Bakersville,MD,Washington County,,city-us,30,39.515,-77.757,1631
+2259,Bakersville,OH,Coshocton County,,city-us,0,40.356,-81.646,509

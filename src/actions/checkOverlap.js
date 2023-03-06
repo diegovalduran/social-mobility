@@ -24,7 +24,7 @@ const isOverlapping = (nodes) => {
 	return !!matches;
 };
 
-export default function overlap(node, params = {}) {
+export default function checkOverlap(node, params = {}) {
 	function check({ reverse, query }) {
 		const elements = [
 			...node.querySelectorAll(query || ":scope > *:not(iframe)")

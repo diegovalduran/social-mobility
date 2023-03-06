@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13916,Esmond,ND,,city-us,91,48.036,-99.762,2921
-13917,Esmond,IL,,city-us,0,42.034,-88.936,197
-13918,Esmond,SD,,city-us,0,44.262,-97.771,501
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13916,Esmond,ND,Benson County,,city-us,91,48.036,-99.762,2921
+13917,Esmond,IL,DeKalb County,,city-us,0,42.034,-88.936,197
+13918,Esmond,SD,Kingsbury County,,city-us,0,44.262,-97.771,501

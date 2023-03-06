@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22074,Jenkinsville,SC,,city-us,39,34.267,-81.288,776
-22075,Jenkinsville,WI,,city-us,0,42.635,-90.370,120
-22076,Jenkinsville,IN,,city-us,0,39.533,-86.875,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22074,Jenkinsville,SC,Fairfield County,,city-us,39,34.267,-81.288,776
+22075,Jenkinsville,WI,Lafayette County,,city-us,0,42.635,-90.370,120
+22076,Jenkinsville,IN,Putnam County,,city-us,0,39.533,-86.875,163

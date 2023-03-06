@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28161,Middleburg,FL,,city-us,12127,30.069,-81.860,7219
-28167,Middleburg,PA,,city-us,1317,40.786,-77.047,5671
-28164,Middleburg,VA,,city-us,669,38.969,-77.736,8349
-28168,Middleburg,NC,,city-us,101,36.400,-78.323,2632
-28169,Middleburg,MD,,city-us,73,39.642,-77.553,253
-28159,Middleburg,MD,,city-us,0,39.594,-77.213,87
-28160,Middleburg,KY,,city-us,0,37.358,-84.821,664
-28162,Middleburg,OH,,city-us,0,40.455,-80.880,91
-28163,Middleburg,OH,,city-us,0,40.292,-83.582,380
-28165,Middleburg,OH,,city-us,0,39.674,-81.389,283
-28166,Middleburg,IA,,city-us,0,43.114,-96.069,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28161,Middleburg,FL,Clay County,,city-us,12127,30.069,-81.860,7219
+28167,Middleburg,PA,Snyder County,,city-us,1317,40.786,-77.047,5671
+28164,Middleburg,VA,Loudoun County,,city-us,669,38.969,-77.736,8349
+28168,Middleburg,NC,Vance County,,city-us,101,36.400,-78.323,2632
+28169,Middleburg,MD,Washington County,,city-us,73,39.642,-77.553,253
+28159,Middleburg,MD,Carroll County,,city-us,0,39.594,-77.213,87
+28160,Middleburg,KY,Casey County,,city-us,0,37.358,-84.821,664
+28162,Middleburg,OH,Jefferson County,,city-us,0,40.455,-80.880,91
+28163,Middleburg,OH,Logan County,,city-us,0,40.292,-83.582,380
+28165,Middleburg,OH,Noble County,,city-us,0,39.674,-81.389,283
+28166,Middleburg,IA,Sioux County,,city-us,0,43.114,-96.069,182

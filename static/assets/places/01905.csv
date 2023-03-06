@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9733,Cooks Mills,NJ,,city-us,9957,40.293,-74.168,18740
-9732,Cooks Mills,IL,,city-us,0,39.583,-88.406,190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9733,Cooks Mills,NJ,Monmouth County,,city-us,9957,40.293,-74.168,18740
+9732,Cooks Mills,IL,Coles County,,city-us,0,39.583,-88.406,190

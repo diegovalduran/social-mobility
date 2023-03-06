@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17384,Graf,IA,,city-us,74,42.493,-90.871,2673
-17385,Graf,ND,,city-us,17,46.673,-99.507,0
-17386,Graff,MN,,city-us,0,46.572,-94.547,205
-17387,Graff,MO,,city-us,0,37.318,-92.283,428
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17384,Graf,IA,Dubuque County,,city-us,74,42.493,-90.871,2673
+17385,Graf,ND,Kidder County,,city-us,17,46.673,-99.507,0
+17386,Graff,MN,Cass County,,city-us,0,46.572,-94.547,205
+17387,Graff,MO,Wright County,,city-us,0,37.318,-92.283,428

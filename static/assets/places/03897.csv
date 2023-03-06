@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19924,High Prairie,KS,,city-us,2033,39.257,-95.016,0
-19925,High Prairie,MO,,city-us,0,37.295,-92.765,382
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19924,High Prairie,KS,Leavenworth County,,city-us,2033,39.257,-95.016,0
+19925,High Prairie,MO,Webster County,,city-us,0,37.295,-92.765,382

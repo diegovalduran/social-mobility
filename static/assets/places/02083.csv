@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10472,Cross Roads,TX,,city-us,1817,33.231,-97.002,921
-10480,Cross Roads,PA,,city-us,528,39.820,-76.577,2195
-10471,Cross Roads,IN,,city-us,0,40.092,-85.500,375
-10473,Cross Roads,MO,,city-us,0,36.850,-92.854,422
-10474,Cross Roads,TX,,city-us,0,32.049,-95.968,3047
-10475,Cross Roads,AR,,city-us,0,34.427,-91.070,195
-10476,Cross Roads,MS,,city-us,0,32.249,-89.771,140
-10477,Cross Roads,IN,,city-us,0,39.279,-85.242,316
-10478,Cross Roads,MO,,city-us,0,37.666,-90.247,260
-10479,Cross Roads,MO,,city-us,0,36.822,-93.533,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10472,Cross Roads,TX,Denton County,,city-us,1817,33.231,-97.002,921
+10480,Cross Roads,PA,York County,,city-us,528,39.820,-76.577,2195
+10471,Cross Roads,IN,Delaware County,,city-us,0,40.092,-85.500,375
+10473,Cross Roads,MO,Douglas County,,city-us,0,36.850,-92.854,422
+10474,Cross Roads,TX,Henderson County,,city-us,0,32.049,-95.968,3047
+10475,Cross Roads,AR,Monroe County,,city-us,0,34.427,-91.070,195
+10476,Cross Roads,MS,Rankin County,,city-us,0,32.249,-89.771,140
+10477,Cross Roads,IN,Ripley County,,city-us,0,39.279,-85.242,316
+10478,Cross Roads,MO,St. Francois County,,city-us,0,37.666,-90.247,260
+10479,Cross Roads,MO,Stone County,,city-us,0,36.822,-93.533,273

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42085,Sunnydale,KS,,city-us,0,37.868,-97.299,397
-42086,Sunnydale,WA,,city-us,0,46.834,-122.933,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42085,Sunnydale,KS,Sedgwick County,,city-us,0,37.868,-97.299,397
+42086,Sunnydale,WA,Thurston County,,city-us,0,46.834,-122.933,344

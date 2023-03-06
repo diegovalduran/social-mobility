@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2451,Barker,NY,,city-us,2496,42.265,-75.911,2939
-2453,Barker,NY,,city-us,582,43.330,-78.555,2289
-2452,Barker,TX,,city-us,0,29.784,-95.685,692
-2454,Barker,WV,,city-us,0,39.579,-80.660,114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2451,Barker,NY,Broome County,,city-us,2496,42.265,-75.911,2939
+2453,Barker,NY,Niagara County,,city-us,582,43.330,-78.555,2289
+2452,Barker,TX,Harris County,,city-us,0,29.784,-95.685,692
+2454,Barker,WV,Wetzel County,,city-us,0,39.579,-80.660,114

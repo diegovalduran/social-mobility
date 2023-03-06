@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9040,Cloverland,WI,,city-us,1091,45.943,-89.365,1943
-9039,Cloverland,WI,,city-us,247,46.677,-91.679,2065
-9037,Cloverland,WA,,city-us,0,46.251,-117.251,242
-9038,Cloverland,IN,,city-us,0,39.501,-87.231,920
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9040,Cloverland,WI,Vilas County,,city-us,1091,45.943,-89.365,1943
+9039,Cloverland,WI,Douglas County,,city-us,247,46.677,-91.679,2065
+9037,Cloverland,WA,Asotin County,,city-us,0,46.251,-117.251,242
+9038,Cloverland,IN,Clay County,,city-us,0,39.501,-87.231,920

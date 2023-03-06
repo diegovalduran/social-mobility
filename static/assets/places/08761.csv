@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43968,University Park,TX,,city-us,24849,32.850,-96.800,9128
-43967,University Park,IL,,city-us,7082,41.447,-87.713,6385
-43969,University Park,NM,,city-us,2608,32.283,-106.753,2480
-43971,University Park,MD,,city-us,2417,38.970,-76.942,9404
-43970,University Park,IA,,city-us,475,41.287,-92.619,2965
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43968,University Park,TX,Dallas County,,city-us,24849,32.850,-96.800,9128
+43967,University Park,IL,Cook County / Will County,,city-us,7082,41.447,-87.713,6385
+43969,University Park,NM,Do��a Ana County,,city-us,2608,32.283,-106.753,2480
+43971,University Park,MD,Prince George's County,,city-us,2417,38.970,-76.942,9404
+43970,University Park,IA,Mahaska County,,city-us,475,41.287,-92.619,2965

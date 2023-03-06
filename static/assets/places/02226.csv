@@ -1,36 +1,36 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11157,Dayton,OH,,city-us,137571,39.785,-84.200,50570
-11165,Dayton,NV,,city-us,15036,39.237,-119.593,7091
-11163,Dayton,TX,,city-us,9134,30.047,-94.885,6353
-11158,Dayton,MN,,city-us,8226,45.189,-93.472,5437
-11168,Dayton,NJ,,city-us,8185,40.373,-74.510,3964
-11172,Dayton,TN,,city-us,7139,35.494,-85.012,7891
-11151,Dayton,KY,,city-us,5673,39.113,-84.473,5723
-11181,Dayton,OR,,city-us,2688,45.221,-123.076,6258
-11149,Dayton,MI,,city-us,2657,41.786,-86.375,3791
-11179,Dayton,WI,,city-us,2623,44.281,-89.164,1061
-11154,Dayton,WA,,city-us,2493,46.324,-117.972,4413
-11182,Dayton,ME,,city-us,2158,43.551,-70.574,6095
-11160,Dayton,MD,,city-us,2114,39.294,-77.069,2243
-11170,Dayton,MI,,city-us,1997,43.514,-85.990,203
-11178,Dayton,MI,,city-us,1773,43.456,-83.294,2435
-11174,Dayton,VA,,city-us,1712,38.415,-78.939,4711
-11153,Dayton,NY,,city-us,1676,42.377,-78.995,3668
-11177,Dayton,IN,,city-us,1340,40.374,-86.769,3541
-11156,Dayton,WI,,city-us,1261,42.827,-89.513,2018
-11176,Dayton,WY,,city-us,828,44.875,-107.262,3893
-11180,Dayton,IA,,city-us,779,42.261,-94.069,3998
-11164,Dayton,SD,,city-us,725,43.381,-96.619,0
-11173,Dayton,WI,,city-us,719,43.336,-90.488,1965
-11148,Dayton,PA,,city-us,548,40.880,-79.242,2135
-11155,Dayton,ID,,city-us,526,42.113,-111.994,3961
-11162,Dayton,IL,,city-us,463,41.385,-88.794,2009
-11161,Dayton,MT,,city-us,122,47.866,-114.279,1929
-11175,Dayton,KS,,city-us,115,38.919,-97.423,119
-11169,Dayton,ND,,city-us,81,47.797,-98.450,0
-11171,Dayton,KS,,city-us,40,39.872,-99.458,0
-11166,Dayton,AL,,city-us,28,32.351,-87.642,3021
-11167,Dayton,SD,,city-us,27,45.903,-97.919,0
-11150,Dayton,CA,,city-us,0,39.649,-121.872,854
-11152,Dayton,MO,,city-us,0,38.485,-94.194,737
-11159,Dayton,IL,,city-us,0,41.489,-90.321,399
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11157,Dayton,OH,Greene County / Montgomery County,,city-us,137571,39.785,-84.200,50570
+11165,Dayton,NV,Lyon County,,city-us,15036,39.237,-119.593,7091
+11163,Dayton,TX,Liberty County,,city-us,9134,30.047,-94.885,6353
+11158,Dayton,MN,Hennepin County / Wright County,,city-us,8226,45.189,-93.472,5437
+11168,Dayton,NJ,Middlesex County,,city-us,8185,40.373,-74.510,3964
+11172,Dayton,TN,Rhea County,,city-us,7139,35.494,-85.012,7891
+11151,Dayton,KY,Campbell County,,city-us,5673,39.113,-84.473,5723
+11181,Dayton,OR,Yamhill County,,city-us,2688,45.221,-123.076,6258
+11149,Dayton,MI,Berrien County,,city-us,2657,41.786,-86.375,3791
+11179,Dayton,WI,Waupaca County,,city-us,2623,44.281,-89.164,1061
+11154,Dayton,WA,Columbia County,,city-us,2493,46.324,-117.972,4413
+11182,Dayton,ME,York County,,city-us,2158,43.551,-70.574,6095
+11160,Dayton,MD,Howard County,,city-us,2114,39.294,-77.069,2243
+11170,Dayton,MI,Newaygo County,,city-us,1997,43.514,-85.990,203
+11178,Dayton,MI,Tuscola County,,city-us,1773,43.456,-83.294,2435
+11174,Dayton,VA,Rockingham County,,city-us,1712,38.415,-78.939,4711
+11153,Dayton,NY,Cattaraugus County,,city-us,1676,42.377,-78.995,3668
+11177,Dayton,IN,Tippecanoe County,,city-us,1340,40.374,-86.769,3541
+11156,Dayton,WI,Green County,,city-us,1261,42.827,-89.513,2018
+11176,Dayton,WY,Sheridan County,,city-us,828,44.875,-107.262,3893
+11180,Dayton,IA,Webster County,,city-us,779,42.261,-94.069,3998
+11164,Dayton,SD,Lincoln County,,city-us,725,43.381,-96.619,0
+11173,Dayton,WI,Richland County,,city-us,719,43.336,-90.488,1965
+11148,Dayton,PA,Armstrong County,,city-us,548,40.880,-79.242,2135
+11155,Dayton,ID,Franklin County,,city-us,526,42.113,-111.994,3961
+11162,Dayton,IL,LaSalle County,,city-us,463,41.385,-88.794,2009
+11161,Dayton,MT,Lake County,,city-us,122,47.866,-114.279,1929
+11175,Dayton,KS,Saline County,,city-us,115,38.919,-97.423,119
+11169,Dayton,ND,Nelson County,,city-us,81,47.797,-98.450,0
+11171,Dayton,KS,Phillips County,,city-us,40,39.872,-99.458,0
+11166,Dayton,AL,Marengo County,,city-us,28,32.351,-87.642,3021
+11167,Dayton,SD,Marshall County,,city-us,27,45.903,-97.919,0
+11150,Dayton,CA,Butte County,,city-us,0,39.649,-121.872,854
+11152,Dayton,MO,Cass County,,city-us,0,38.485,-94.194,737
+11159,Dayton,IL,Henry County,,city-us,0,41.489,-90.321,399

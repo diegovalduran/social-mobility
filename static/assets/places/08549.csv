@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43015,Tipton,IN,,city-us,5271,40.282,-86.041,16074
-43017,Tipton,CA,,city-us,3193,36.059,-119.312,3985
-43008,Tipton,IA,,city-us,3120,41.770,-91.128,4701
-43010,Tipton,MI,,city-us,2939,42.031,-84.074,3261
-43012,Tipton,MO,,city-us,2867,38.656,-92.780,6083
-43014,Tipton,OK,,city-us,897,34.503,-99.141,4098
-43007,Tipton,PA,,city-us,774,40.636,-78.296,2512
-43011,Tipton,KS,,city-us,188,39.343,-98.471,3685
-43009,Tipton,IL,,city-us,0,40.070,-88.035,146
-43013,Tipton,IL,,city-us,0,38.236,-90.101,309
-43016,Tipton,TN,,city-us,0,35.414,-89.820,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43015,Tipton,IN,Tipton County,,city-us,5271,40.282,-86.041,16074
+43017,Tipton,CA,Tulare County,,city-us,3193,36.059,-119.312,3985
+43008,Tipton,IA,Cedar County,,city-us,3120,41.770,-91.128,4701
+43010,Tipton,MI,Lenawee County,,city-us,2939,42.031,-84.074,3261
+43012,Tipton,MO,Moniteau County,,city-us,2867,38.656,-92.780,6083
+43014,Tipton,OK,Tillman County,,city-us,897,34.503,-99.141,4098
+43007,Tipton,PA,Blair County,,city-us,774,40.636,-78.296,2512
+43011,Tipton,KS,Mitchell County,,city-us,188,39.343,-98.471,3685
+43009,Tipton,IL,Champaign County,,city-us,0,40.070,-88.035,146
+43013,Tipton,IL,Monroe County,,city-us,0,38.236,-90.101,309
+43016,Tipton,TN,Tipton County,,city-us,0,35.414,-89.820,202

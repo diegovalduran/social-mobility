@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38758,Sassafras,VA,,city-us,0,37.407,-76.607,96
-38759,Sassafras,MD,,city-us,0,39.373,-75.802,684
-38760,Sassafras,KY,,city-us,0,37.221,-83.055,214
-38761,Sassafras,WV,,city-us,0,38.934,-82.013,142
-38762,Sassafras,IN,,city-us,0,38.188,-86.690,357
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38758,Sassafras,VA,Gloucester County,,city-us,0,37.407,-76.607,96
+38759,Sassafras,MD,Kent County,,city-us,0,39.373,-75.802,684
+38760,Sassafras,KY,Knott County,,city-us,0,37.221,-83.055,214
+38761,Sassafras,WV,Mason County,,city-us,0,38.934,-82.013,142
+38762,Sassafras,IN,Perry County,,city-us,0,38.188,-86.690,357

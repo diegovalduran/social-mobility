@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27429,McAdoo,PA,,city-us,2476,40.910,-75.991,3182
-27427,McAdoo,KS,,city-us,26,37.424,-98.815,460
-27428,McAdoo,TX,,city-us,0,33.734,-101.006,1139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27429,McAdoo,PA,Schuylkill County,,city-us,2476,40.910,-75.991,3182
+27427,McAdoo,KS,Barber County,,city-us,26,37.424,-98.815,460
+27428,McAdoo,TX,Dickens County,,city-us,0,33.734,-101.006,1139

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40235,Soldier,KS,,city-us,15112,39.155,-95.661,217
-40234,Soldier,IA,,city-us,181,41.985,-95.779,3282
-40232,Soldier,KS,,city-us,102,39.536,-95.964,4312
-40230,Soldier,ID,,city-us,0,43.370,-114.792,134
-40231,Soldier,KY,,city-us,0,38.259,-83.299,97
-40233,Soldier,PA,,city-us,0,41.063,-78.844,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40235,Soldier,KS,Shawnee County,,city-us,15112,39.155,-95.661,217
+40234,Soldier,IA,Monona County,,city-us,181,41.985,-95.779,3282
+40232,Soldier,KS,Jackson County,,city-us,102,39.536,-95.964,4312
+40230,Soldier,ID,Camas County,,city-us,0,43.370,-114.792,134
+40231,Soldier,KY,Carter County,,city-us,0,38.259,-83.299,97
+40233,Soldier,PA,Jefferson County,,city-us,0,41.063,-78.844,245

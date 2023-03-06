@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23076,Kinsey,AL,,city-us,2243,31.299,-85.344,3868
-23075,Kinsey,MT,,city-us,0,46.571,-105.657,310
-23077,Kinsey,IN,,city-us,0,41.096,-85.705,311
-23078,Kinsey,MO,,city-us,0,38.031,-90.300,385
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23076,Kinsey,AL,Houston County,,city-us,2243,31.299,-85.344,3868
+23075,Kinsey,MT,Custer County,,city-us,0,46.571,-105.657,310
+23077,Kinsey,IN,Kosciusko County,,city-us,0,41.096,-85.705,311
+23078,Kinsey,MO,Ste. Genevieve County,,city-us,0,38.031,-90.300,385

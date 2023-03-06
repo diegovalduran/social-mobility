@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-844,Altman,WV,,city-us,0,38.164,-81.868,130
-1960,Aultman,PA,,city-us,0,40.564,-79.261,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+844,Altman,WV,Boone County,,city-us,0,38.164,-81.868,130
+1960,Aultman,PA,Indiana County,,city-us,0,40.564,-79.261,272

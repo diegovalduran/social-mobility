@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11645,Desert Hills,AZ,,city-us,2564,34.554,-114.372,2533
-11644,Desert Hills,AZ,,city-us,0,33.813,-112.128,1807
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11645,Desert Hills,AZ,Mohave County,,city-us,2564,34.554,-114.372,2533
+11644,Desert Hills,AZ,Maricopa County,,city-us,0,33.813,-112.128,1807

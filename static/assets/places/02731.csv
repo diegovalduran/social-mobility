@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13585,Elsmere,KY,,city-us,9165,39.013,-84.605,2239
-13586,Elsmere,DE,,city-us,6157,39.739,-75.598,7307
-13584,Elsmere,NE,,city-us,0,42.165,-100.185,518
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13585,Elsmere,KY,Kenton County,,city-us,9165,39.013,-84.605,2239
+13586,Elsmere,DE,New Castle County,,city-us,6157,39.739,-75.598,7307
+13584,Elsmere,NE,Cherry County,,city-us,0,42.165,-100.185,518

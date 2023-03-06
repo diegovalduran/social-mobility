@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25391,Locust Hill,KY,,city-us,0,37.728,-86.357,359
-25392,Locust Hill,MO,,city-us,0,40.026,-92.276,281
-25393,Locust Hill,VA,,city-us,0,37.599,-76.511,246
-25394,Locust Hill,VA,,city-us,0,38.654,-77.491,136
-25395,Locust Hill,VA,,city-us,0,36.958,-80.915,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25391,Locust Hill,KY,Breckinridge County,,city-us,0,37.728,-86.357,359
+25392,Locust Hill,MO,Knox County,,city-us,0,40.026,-92.276,281
+25393,Locust Hill,VA,Middlesex County,,city-us,0,37.599,-76.511,246
+25394,Locust Hill,VA,Prince William County,,city-us,0,38.654,-77.491,136
+25395,Locust Hill,VA,Wythe County,,city-us,0,36.958,-80.915,139

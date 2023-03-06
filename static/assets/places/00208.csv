@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1092,Andover,MN,,city-us,32926,45.233,-93.291,4991
-1094,Andover,KS,,city-us,15435,37.714,-97.136,11577
-1098,Andover,MA,,city-us,8958,42.658,-71.137,22148
-1104,Andover,NJ,,city-us,6172,41.026,-74.726,11410
-1095,Andover,CT,,city-us,3133,41.733,-72.375,2893
-1101,Andover,NH,,city-us,2425,43.451,-71.791,4683
-1093,Andover,OH,,city-us,958,41.607,-80.572,5453
-1091,Andover,NY,,city-us,912,42.156,-77.796,2879
-1102,Andover,ME,,city-us,881,44.591,-70.772,6629
-1100,Andover,IL,,city-us,878,41.281,-90.262,1112
-1105,Andover,VT,,city-us,576,43.293,-72.723,2144
-1103,Andover,MN,,city-us,109,47.716,-96.675,1832
-1096,Andover,IA,,city-us,107,41.979,-90.252,2934
-1097,Andover,SD,,city-us,67,45.410,-97.903,3038
-1099,Andover,MO,,city-us,0,40.565,-93.895,476
-1106,Andover,VA,,city-us,0,36.924,-82.797,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1092,Andover,MN,Anoka County,,city-us,32926,45.233,-93.291,4991
+1094,Andover,KS,Butler County,,city-us,15435,37.714,-97.136,11577
+1098,Andover,MA,Essex County,,city-us,8958,42.658,-71.137,22148
+1104,Andover,NJ,Sussex County,,city-us,6172,41.026,-74.726,11410
+1095,Andover,CT,Capitol Planning Region,,city-us,3133,41.733,-72.375,2893
+1101,Andover,NH,Merrimack County,,city-us,2425,43.451,-71.791,4683
+1093,Andover,OH,Ashtabula County,,city-us,958,41.607,-80.572,5453
+1091,Andover,NY,Allegany County,,city-us,912,42.156,-77.796,2879
+1102,Andover,ME,Oxford County,,city-us,881,44.591,-70.772,6629
+1100,Andover,IL,Henry County,,city-us,878,41.281,-90.262,1112
+1105,Andover,VT,Windsor County,,city-us,576,43.293,-72.723,2144
+1103,Andover,MN,Polk County,,city-us,109,47.716,-96.675,1832
+1096,Andover,IA,Clinton County,,city-us,107,41.979,-90.252,2934
+1097,Andover,SD,Day County,,city-us,67,45.410,-97.903,3038
+1099,Andover,MO,Harrison County,,city-us,0,40.565,-93.895,476
+1106,Andover,VA,Wise County,,city-us,0,36.924,-82.797,263

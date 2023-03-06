@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7152,Casa Loma,CA,,city-us,1661,35.342,-118.994,466
-7153,Casa Loma,CA,,city-us,0,39.201,-120.777,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7152,Casa Loma,CA,Kern County,,city-us,1661,35.342,-118.994,466
+7153,Casa Loma,CA,Placer County,,city-us,0,39.201,-120.777,195

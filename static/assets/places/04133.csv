@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21293,Indian,AK,,city-us,0,60.990,-149.510,1534
-21294,Indian,AR,,city-us,0,33.053,-91.289,135
-21295,Indian,WV,,city-us,0,38.368,-81.826,137
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21293,Indian,AK,Anchorage,,city-us,0,60.990,-149.510,1534
+21294,Indian,AR,Chicot County,,city-us,0,33.053,-91.289,135
+21295,Indian,WV,Kanawha County,,city-us,0,38.368,-81.826,137

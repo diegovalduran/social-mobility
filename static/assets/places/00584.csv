@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2925,Beauty,WV,,city-us,0,38.045,-81.016,88
-2926,Beauty,KY,,city-us,0,37.840,-82.439,3896
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2925,Beauty,WV,Fayette County,,city-us,0,38.045,-81.016,88
+2926,Beauty,KY,Martin County,,city-us,0,37.840,-82.439,3896

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19110,Hart,MI,,city-us,2019,43.686,-86.333,2065
-19108,Hart,TX,,city-us,882,34.385,-102.116,3069
-19111,Hart,SD,,city-us,99,45.783,-96.927,0
-19109,Hart,MO,,city-us,0,36.737,-94.606,511
-19112,Hart,MN,,city-us,0,43.876,-91.740,189
-19492,Heart,AR,,city-us,0,36.324,-91.715,403
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19110,Hart,MI,Oceana County,,city-us,2019,43.686,-86.333,2065
+19108,Hart,TX,Castro County,,city-us,882,34.385,-102.116,3069
+19111,Hart,SD,Roberts County,,city-us,99,45.783,-96.927,0
+19109,Hart,MO,McDonald County,,city-us,0,36.737,-94.606,511
+19112,Hart,MN,Winona County,,city-us,0,43.876,-91.740,189
+19492,Heart,AR,Fulton County,,city-us,0,36.324,-91.715,403

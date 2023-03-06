@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43625,Two Rivers,MI,,city-us,3081,43.594,-84.903,2163
-43626,Two Rivers,WI,,city-us,1684,44.193,-87.577,12709
-43627,Two Rivers,MN,,city-us,782,45.811,-94.380,2517
-43624,Two Rivers,AK,,city-us,419,64.872,-147.038,3677
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43625,Two Rivers,MI,Isabella County,,city-us,3081,43.594,-84.903,2163
+43626,Two Rivers,WI,Manitowoc County,,city-us,1684,44.193,-87.577,12709
+43627,Two Rivers,MN,Morrison County,,city-us,782,45.811,-94.380,2517
+43624,Two Rivers,AK,Fairbanks North Star Borough,,city-us,419,64.872,-147.038,3677

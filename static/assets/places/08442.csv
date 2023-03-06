@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42610,Teddy,ND,,city-us,25,48.747,-99.077,0
-42609,Teddy,KY,,city-us,0,37.180,-85.942,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42610,Teddy,ND,Towner County,,city-us,25,48.747,-99.077,0
+42609,Teddy,KY,Casey County,,city-us,0,37.180,-85.942,243

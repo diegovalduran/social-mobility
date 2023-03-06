@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11064,Daugherty,PA,,city-us,3037,40.749,-80.274,1963
-11063,Daugherty,VA,,city-us,0,37.689,-75.666,87
-11065,Daugherty,MO,,city-us,0,38.604,-94.282,506
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11064,Daugherty,PA,Beaver County,,city-us,3037,40.749,-80.274,1963
+11063,Daugherty,VA,Accomack County,,city-us,0,37.689,-75.666,87
+11065,Daugherty,MO,Cass County,,city-us,0,38.604,-94.282,506

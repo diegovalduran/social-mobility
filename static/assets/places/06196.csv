@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31633,Nunda,IL,,city-us,38401,42.285,-88.274,602
-31632,Nunda,NY,,city-us,2654,42.572,-77.883,5095
-31629,Nunda,MI,,city-us,1202,45.236,-84.483,2348
-31630,Nunda,MN,,city-us,308,43.541,-93.471,1915
-31631,Nunda,SD,,city-us,47,44.162,-97.019,2929
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31633,Nunda,IL,McHenry County,,city-us,38401,42.285,-88.274,602
+31632,Nunda,NY,Livingston County,,city-us,2654,42.572,-77.883,5095
+31629,Nunda,MI,Cheboygan County,,city-us,1202,45.236,-84.483,2348
+31630,Nunda,MN,Freeborn County,,city-us,308,43.541,-93.471,1915
+31631,Nunda,SD,Lake County,,city-us,47,44.162,-97.019,2929

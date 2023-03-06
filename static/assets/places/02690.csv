@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13340,Elkhead,MO,,city-us,0,37.014,-92.931,501
-13341,Elkhead,OR,,city-us,0,43.541,-123.185,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13340,Elkhead,MO,Christian County,,city-us,0,37.014,-92.931,501
+13341,Elkhead,OR,Douglas County,,city-us,0,43.541,-123.185,177

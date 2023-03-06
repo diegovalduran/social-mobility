@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6183,Burnham,IL,,city-us,3989,41.639,-87.557,3418
-6185,Burnham,PA,,city-us,1990,40.639,-77.569,1860
-6186,Burnham,ME,,city-us,1115,44.674,-69.386,3330
-6184,Burnham,MO,,city-us,0,36.927,-91.958,533
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6183,Burnham,IL,Cook County,,city-us,3989,41.639,-87.557,3418
+6185,Burnham,PA,Mifflin County,,city-us,1990,40.639,-77.569,1860
+6186,Burnham,ME,Waldo County,,city-us,1115,44.674,-69.386,3330
+6184,Burnham,MO,Howell County,,city-us,0,36.927,-91.958,533

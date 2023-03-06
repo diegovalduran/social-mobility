@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15989,Fresno,CA,,city-us,544510,36.748,-119.772,39054
-15988,Fresno,TX,,city-us,24486,29.527,-95.460,8684
-15987,Fresno,OH,,city-us,48,40.333,-81.742,694
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15989,Fresno,CA,Fresno County,,city-us,544510,36.748,-119.772,39054
+15988,Fresno,TX,Fort Bend County,,city-us,24486,29.527,-95.460,8684
+15987,Fresno,OH,Coshocton County,,city-us,48,40.333,-81.742,694

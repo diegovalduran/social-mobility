@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20236,Hoagland,IN,,city-us,881,40.948,-84.992,979
-20237,Hoagland,OH,,city-us,0,39.204,-83.681,347
-20238,Hoagland,NE,,city-us,0,41.508,-100.371,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20236,Hoagland,IN,Allen County,,city-us,881,40.948,-84.992,979
+20237,Hoagland,OH,Highland County,,city-us,0,39.204,-83.681,347
+20238,Hoagland,NE,Logan County,,city-us,0,41.508,-100.371,252

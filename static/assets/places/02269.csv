@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11401,Delaplaine,AR,,city-us,66,36.234,-90.727,4322
-11400,Delaplain,KY,,city-us,0,37.335,-84.549,92
-11402,Delaplane,VA,,city-us,0,38.915,-77.920,5093
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11401,Delaplaine,AR,Greene County,,city-us,66,36.234,-90.727,4322
+11400,Delaplain,KY,Scott County,,city-us,0,37.335,-84.549,92
+11402,Delaplane,VA,Fauquier County,,city-us,0,38.915,-77.920,5093

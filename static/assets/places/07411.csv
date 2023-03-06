@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37658,Ross,PA,,city-us,33176,40.526,-80.024,201
-37668,Ross,MI,,city-us,20317,42.813,-85.724,4454
-37660,Ross,OH,,city-us,8784,39.350,-84.647,232
-37673,Ross,PA,,city-us,5510,40.878,-75.361,201
-37667,Ross,MI,,city-us,4830,42.382,-85.355,2632
-37670,Ross,PA,,city-us,2727,41.297,-76.184,201
-37671,Ross,CA,,city-us,2327,37.962,-122.555,5455
-37679,Ross,IL,,city-us,1460,40.370,-87.640,247
-37663,Ross,IL,,city-us,1399,39.837,-87.710,247
-37675,Ross,KS,,city-us,888,39.530,-98.539,184
-37665,Ross,OH,,city-us,816,39.720,-83.725,232
-37666,Ross,OH,,city-us,652,40.509,-80.815,232
-37661,Ross,KS,,city-us,626,37.274,-94.880,184
-37672,Ross,TX,,city-us,251,31.718,-97.119,2169
-37664,Ross,WI,,city-us,131,45.712,-88.725,1741
-37674,Ross,ND,,city-us,88,48.311,-102.547,3472
-37676,Ross,IL,,city-us,50,39.449,-90.960,247
-37659,Ross,IA,,city-us,0,41.774,-94.919,571
-37662,Ross,WY,,city-us,0,43.446,-105.887,179
-37669,Ross,IN,,city-us,0,41.527,-87.375,286
-37677,Ross,AR,,city-us,0,35.455,-93.253,145
-37678,Ross,MN,,city-us,0,48.906,-95.920,352
-37680,Ross,WI,,city-us,0,43.541,-90.753,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37658,Ross,PA,Allegheny County,,city-us,33176,40.526,-80.024,201
+37668,Ross,MI,Kent County,,city-us,20317,42.813,-85.724,4454
+37660,Ross,OH,Butler County,,city-us,8784,39.350,-84.647,232
+37673,Ross,PA,Monroe County,,city-us,5510,40.878,-75.361,201
+37667,Ross,MI,Kalamazoo County,,city-us,4830,42.382,-85.355,2632
+37670,Ross,PA,Luzerne County,,city-us,2727,41.297,-76.184,201
+37671,Ross,CA,Marin County,,city-us,2327,37.962,-122.555,5455
+37679,Ross,IL,Vermilion County,,city-us,1460,40.370,-87.640,247
+37663,Ross,IL,Edgar County,,city-us,1399,39.837,-87.710,247
+37675,Ross,KS,Osborne County,,city-us,888,39.530,-98.539,184
+37665,Ross,OH,Greene County,,city-us,816,39.720,-83.725,232
+37666,Ross,OH,Jefferson County,,city-us,652,40.509,-80.815,232
+37661,Ross,KS,Cherokee County,,city-us,626,37.274,-94.880,184
+37672,Ross,TX,McLennan County,,city-us,251,31.718,-97.119,2169
+37664,Ross,WI,Forest County,,city-us,131,45.712,-88.725,1741
+37674,Ross,ND,Mountrail County,,city-us,88,48.311,-102.547,3472
+37676,Ross,IL,Pike County,,city-us,50,39.449,-90.960,247
+37659,Ross,IA,Audubon County,,city-us,0,41.774,-94.919,571
+37662,Ross,WY,Converse County,,city-us,0,43.446,-105.887,179
+37669,Ross,IN,Lake County,,city-us,0,41.527,-87.375,286
+37677,Ross,AR,Pope County,,city-us,0,35.455,-93.253,145
+37678,Ross,MN,Roseau County,,city-us,0,48.906,-95.920,352
+37680,Ross,WI,Vernon County,,city-us,0,43.541,-90.753,110

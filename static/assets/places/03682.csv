@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18785,Hansonville,MN,,city-us,78,44.580,-96.389,1702
-18786,Hansonville,VA,,city-us,0,36.824,-82.146,151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18785,Hansonville,MN,Lincoln County,,city-us,78,44.580,-96.389,1702
+18786,Hansonville,VA,Russell County,,city-us,0,36.824,-82.146,151

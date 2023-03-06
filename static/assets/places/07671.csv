@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38861,Schriever,LA,,city-us,5639,29.742,-90.810,1005
-38860,Schriever,SD,,city-us,40,43.120,-98.960,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38861,Schriever,LA,Terrebonne Parish,,city-us,5639,29.742,-90.810,1005
+38860,Schriever,SD,Gregory County,,city-us,40,43.120,-98.960,0

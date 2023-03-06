@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16090,Fruitvale,CO,,city-us,7883,39.082,-108.497,2390
-16091,Fruitvale,TX,,city-us,490,32.683,-95.803,3752
-16087,Fruitvale,ID,,city-us,0,44.815,-116.440,188
-16088,Fruitvale,TN,,city-us,0,35.747,-89.031,3215
-16089,Fruitvale,CA,,city-us,0,35.383,-119.083,181
-16092,Fruitvale,WA,,city-us,0,46.618,-120.553,378
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16090,Fruitvale,CO,Mesa County,,city-us,7883,39.082,-108.497,2390
+16091,Fruitvale,TX,Van Zandt County,,city-us,490,32.683,-95.803,3752
+16087,Fruitvale,ID,Adams County,,city-us,0,44.815,-116.440,188
+16088,Fruitvale,TN,Crockett County,,city-us,0,35.747,-89.031,3215
+16089,Fruitvale,CA,Kern County,,city-us,0,35.383,-119.083,181
+16092,Fruitvale,WA,Yakima County,,city-us,0,46.618,-120.553,378

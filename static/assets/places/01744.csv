@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8979,Clintonville,WI,,city-us,4534,44.621,-88.762,5956
-8978,Clintonville,PA,,city-us,432,41.199,-79.873,1901
-8974,Clintonville,KY,,city-us,0,38.085,-84.268,899
-8975,Clintonville,AL,,city-us,0,31.407,-85.894,953
-8976,Clintonville,WV,,city-us,0,37.894,-80.599,165
-8977,Clintonville,MI,,city-us,0,42.688,-83.350,1561
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8979,Clintonville,WI,Waupaca County,,city-us,4534,44.621,-88.762,5956
+8978,Clintonville,PA,Venango County,,city-us,432,41.199,-79.873,1901
+8974,Clintonville,KY,Bourbon County,,city-us,0,38.085,-84.268,899
+8975,Clintonville,AL,Coffee County,,city-us,0,31.407,-85.894,953
+8976,Clintonville,WV,Greenbrier County,,city-us,0,37.894,-80.599,165
+8977,Clintonville,MI,Oakland County,,city-us,0,42.688,-83.350,1561

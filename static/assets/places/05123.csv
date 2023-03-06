@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26269,Mackville,KY,,city-us,208,37.737,-85.067,2400
-26290,Macville,MN,,city-us,171,46.901,-93.633,2166
-26267,Mackville,MO,,city-us,0,39.059,-91.060,243
-26268,Mackville,WI,,city-us,0,44.344,-88.415,984
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26269,Mackville,KY,Washington County,,city-us,208,37.737,-85.067,2400
+26290,Macville,MN,Aitkin County,,city-us,171,46.901,-93.633,2166
+26267,Mackville,MO,Lincoln County,,city-us,0,39.059,-91.060,243
+26268,Mackville,WI,Outagamie County,,city-us,0,44.344,-88.415,984

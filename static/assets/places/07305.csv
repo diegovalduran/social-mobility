@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37046,Robins,IA,,city-us,3331,42.071,-91.667,3444
-37045,Robins,OH,,city-us,0,39.955,-81.513,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37046,Robins,IA,Linn County,,city-us,3331,42.071,-91.667,3444
+37045,Robins,OH,Guernsey County,,city-us,0,39.955,-81.513,242

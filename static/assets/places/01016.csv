@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5093,Bratton,OH,,city-us,1387,39.008,-83.438,1412
-5094,Bratton,PA,,city-us,1192,40.485,-77.670,1842
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5093,Bratton,OH,Adams County,,city-us,1387,39.008,-83.438,1412
+5094,Bratton,PA,Mifflin County,,city-us,1192,40.485,-77.670,1842

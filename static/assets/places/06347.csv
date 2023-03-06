@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32410,Orchard,IL,,city-us,627,38.523,-88.637,335
-32406,Orchard,NE,,city-us,362,42.336,-98.243,4716
-32407,Orchard,TX,,city-us,315,29.604,-95.970,3395
-32409,Orchard,CO,,city-us,134,40.331,-104.118,1394
-32408,Orchard,IA,,city-us,68,43.227,-92.772,3156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32410,Orchard,IL,Wayne County,,city-us,627,38.523,-88.637,335
+32406,Orchard,NE,Antelope County,,city-us,362,42.336,-98.243,4716
+32407,Orchard,TX,Fort Bend County,,city-us,315,29.604,-95.970,3395
+32409,Orchard,CO,Morgan County,,city-us,134,40.331,-104.118,1394
+32408,Orchard,IA,Mitchell County,,city-us,68,43.227,-92.772,3156

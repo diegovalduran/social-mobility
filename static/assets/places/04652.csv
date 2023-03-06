@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23826,Lambert,MS,,city-us,1232,34.202,-90.283,2916
-23827,Lambert,MN,,city-us,137,47.804,-95.903,1654
-23828,Lambert,MO,,city-us,33,37.093,-89.554,2758
-23825,Lambert,OK,,city-us,7,36.683,-98.423,3014
-23829,Lambert,NC,,city-us,0,35.314,-80.359,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23826,Lambert,MS,Quitman County,,city-us,1232,34.202,-90.283,2916
+23827,Lambert,MN,Red Lake County,,city-us,137,47.804,-95.903,1654
+23828,Lambert,MO,Scott County,,city-us,33,37.093,-89.554,2758
+23825,Lambert,OK,Alfalfa County,,city-us,7,36.683,-98.423,3014
+23829,Lambert,NC,Stanly County,,city-us,0,35.314,-80.359,89

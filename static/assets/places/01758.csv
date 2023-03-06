@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9068,Clymer,NY,,city-us,1756,42.049,-79.582,4383
-9069,Clymer,PA,,city-us,1330,40.668,-79.012,2222
-9070,Clymer,PA,,city-us,618,41.844,-77.540,2420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9068,Clymer,NY,Chautauqua County,,city-us,1756,42.049,-79.582,4383
+9069,Clymer,PA,Indiana County,,city-us,1330,40.668,-79.012,2222
+9070,Clymer,PA,Tioga County,,city-us,618,41.844,-77.540,2420

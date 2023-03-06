@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44468,Veto,MS,,city-us,0,31.578,-90.771,194
-44469,Veto,AL,,city-us,0,34.994,-86.989,921
-44470,Veto,OH,,city-us,0,39.342,-81.672,172
-44471,Veto,WV,,city-us,0,39.612,-80.842,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44468,Veto,MS,Franklin County,,city-us,0,31.578,-90.771,194
+44469,Veto,AL,Limestone County,,city-us,0,34.994,-86.989,921
+44470,Veto,OH,Washington County,,city-us,0,39.342,-81.672,172
+44471,Veto,WV,Wetzel County,,city-us,0,39.612,-80.842,85

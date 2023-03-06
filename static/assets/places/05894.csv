@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30260,Narita,,Japan,city-international,130689,35.783,140.317,9050
-30259,Narita,IL,,city-us,0,39.983,-89.219,258
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30260,Narita,,,Japan,city-international,130689,35.783,140.317,9050
+30259,Narita,IL,Logan County,,city-us,0,39.983,-89.219,258

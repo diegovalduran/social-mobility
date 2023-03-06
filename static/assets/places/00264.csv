@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1370,Arcola,NJ,,city-us,26698,40.947,-74.070,46062
-1373,Arcola,IL,,city-us,3228,39.706,-88.288,940
-1375,Arcola,VA,,city-us,2258,38.952,-77.534,2968
-1374,Arcola,TX,,city-us,2156,29.496,-95.466,4922
-1379,Arcola,MS,,city-us,294,33.270,-90.880,2376
-1372,Arcola,MO,,city-us,39,37.549,-93.875,2880
-1369,Arcola,IN,,city-us,33,41.104,-85.294,875
-1371,Arcola,GA,,city-us,0,32.344,-81.602,132
-1376,Arcola,PA,,city-us,0,40.153,-75.457,173
-1377,Arcola,LA,,city-us,0,30.777,-90.510,901
-1378,Arcola,MN,,city-us,0,45.123,-92.767,507
-1380,Arcola,WV,,city-us,0,38.467,-80.519,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1370,Arcola,NJ,Bergen County,,city-us,26698,40.947,-74.070,46062
+1373,Arcola,IL,Douglas County,,city-us,3228,39.706,-88.288,940
+1375,Arcola,VA,Loudoun County,,city-us,2258,38.952,-77.534,2968
+1374,Arcola,TX,Fort Bend County,,city-us,2156,29.496,-95.466,4922
+1379,Arcola,MS,Washington County,,city-us,294,33.270,-90.880,2376
+1372,Arcola,MO,Dade County,,city-us,39,37.549,-93.875,2880
+1369,Arcola,IN,Allen County,,city-us,33,41.104,-85.294,875
+1371,Arcola,GA,Bulloch County,,city-us,0,32.344,-81.602,132
+1376,Arcola,PA,Montgomery County,,city-us,0,40.153,-75.457,173
+1377,Arcola,LA,Tangipahoa Parish,,city-us,0,30.777,-90.510,901
+1378,Arcola,MN,Washington County,,city-us,0,45.123,-92.767,507
+1380,Arcola,WV,Webster County,,city-us,0,38.467,-80.519,171

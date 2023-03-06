@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38996,Scottville,MI,,city-us,1366,43.955,-86.280,4406
-38995,Scottville,IL,,city-us,98,39.480,-90.105,1914
-38994,Scottville,NC,,city-us,0,36.480,-81.308,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38996,Scottville,MI,Mason County,,city-us,1366,43.955,-86.280,4406
+38995,Scottville,IL,Macoupin County,,city-us,98,39.480,-90.105,1914
+38994,Scottville,NC,Alleghany County,,city-us,0,36.480,-81.308,336

@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15824,Fredericksburg,VA,,city-us,28367,38.303,-77.461,25731
-15826,Fredericksburg,TX,,city-us,11072,30.275,-98.872,14009
-15827,Fredericksburg,PA,,city-us,1831,40.444,-76.428,3657
-15822,Fredericksburg,IA,,city-us,969,42.965,-92.200,3866
-15823,Fredericksburg,PA,,city-us,892,41.646,-80.177,2432
-15830,Fredericksburg,OH,,city-us,409,40.677,-81.870,5249
-15821,Fredericksburg,PA,,city-us,142,40.317,-78.519,634
-15820,Fredericksburg,CA,,city-us,72,38.829,-119.787,396
-15829,Fredericksburg,IN,,city-us,26,38.433,-86.190,3879
-15825,Fredericksburg,MO,,city-us,0,38.608,-91.642,456
-15828,Fredericksburg,OH,,city-us,0,41.067,-80.977,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15824,Fredericksburg,VA,Fredericksburg city,,city-us,28367,38.303,-77.461,25731
+15826,Fredericksburg,TX,Gillespie County,,city-us,11072,30.275,-98.872,14009
+15827,Fredericksburg,PA,Lebanon County,,city-us,1831,40.444,-76.428,3657
+15822,Fredericksburg,IA,Chickasaw County,,city-us,969,42.965,-92.200,3866
+15823,Fredericksburg,PA,Crawford County,,city-us,892,41.646,-80.177,2432
+15830,Fredericksburg,OH,Wayne County,,city-us,409,40.677,-81.870,5249
+15821,Fredericksburg,PA,Blair County,,city-us,142,40.317,-78.519,634
+15820,Fredericksburg,CA,Alpine County,,city-us,72,38.829,-119.787,396
+15829,Fredericksburg,IN,Washington County,,city-us,26,38.433,-86.190,3879
+15825,Fredericksburg,MO,Gasconade County,,city-us,0,38.608,-91.642,456
+15828,Fredericksburg,OH,Mahoning County,,city-us,0,41.067,-80.977,300

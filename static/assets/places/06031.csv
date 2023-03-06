@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30835,New Salisbury,IN,,city-us,462,38.314,-86.095,1129
-30834,New Salisbury,OH,,city-us,0,40.593,-80.736,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30835,New Salisbury,IN,Harrison County,,city-us,462,38.314,-86.095,1129
+30834,New Salisbury,OH,Columbiana County,,city-us,0,40.593,-80.736,262

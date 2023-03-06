@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32603,Oshkosh,WI,,city-us,66607,44.025,-88.543,18660
-32601,Oshkosh,NE,,city-us,792,41.405,-102.344,3892
-32604,Oshkosh,MN,,city-us,189,44.762,-96.155,1915
-32602,Oshkosh,ND,,city-us,52,47.623,-99.577,6223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32603,Oshkosh,WI,Winnebago County,,city-us,66607,44.025,-88.543,18660
+32601,Oshkosh,NE,Garden County,,city-us,792,41.405,-102.344,3892
+32604,Oshkosh,MN,Yellow Medicine County,,city-us,189,44.762,-96.155,1915
+32602,Oshkosh,ND,Wells County,,city-us,52,47.623,-99.577,6223

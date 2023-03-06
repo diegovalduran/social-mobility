@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8199,Chesterfield,MO,,city-us,49703,38.663,-90.577,15042
-8197,Chesterfield,MI,,city-us,43381,42.671,-82.809,6950
-8189,Chesterfield,NH,,city-us,3603,42.888,-72.443,5239
-8192,Chesterfield,IN,,city-us,2485,40.113,-85.594,5991
-8193,Chesterfield,NY,,city-us,2452,44.454,-73.449,3995
-8190,Chesterfield,SC,,city-us,1331,34.736,-80.088,3127
-8195,Chesterfield,MA,,city-us,1178,42.378,-72.842,3527
-8194,Chesterfield,OH,,city-us,916,41.679,-84.164,2656
-8196,Chesterfield,TN,,city-us,779,35.635,-88.267,167
-8198,Chesterfield,IL,,city-us,707,39.224,-90.078,655
-8188,Chesterfield,NJ,,city-us,0,40.115,-74.639,1516
-8191,Chesterfield,VA,,city-us,0,37.376,-77.504,2847
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8199,Chesterfield,MO,St. Louis County,,city-us,49703,38.663,-90.577,15042
+8197,Chesterfield,MI,Macomb County,,city-us,43381,42.671,-82.809,6950
+8189,Chesterfield,NH,Cheshire County,,city-us,3603,42.888,-72.443,5239
+8192,Chesterfield,IN,Delaware County / Madison County,,city-us,2485,40.113,-85.594,5991
+8193,Chesterfield,NY,Essex County,,city-us,2452,44.454,-73.449,3995
+8190,Chesterfield,SC,Chesterfield County,,city-us,1331,34.736,-80.088,3127
+8195,Chesterfield,MA,Hampshire County,,city-us,1178,42.378,-72.842,3527
+8194,Chesterfield,OH,Fulton County,,city-us,916,41.679,-84.164,2656
+8196,Chesterfield,TN,Henderson County,,city-us,779,35.635,-88.267,167
+8198,Chesterfield,IL,Macoupin County,,city-us,707,39.224,-90.078,655
+8188,Chesterfield,NJ,Burlington County,,city-us,0,40.115,-74.639,1516
+8191,Chesterfield,VA,Chesterfield County,,city-us,0,37.376,-77.504,2847

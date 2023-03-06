@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43510,Turner,OR,,city-us,2454,44.843,-122.953,3569
-43504,Turner,ME,,city-us,654,44.256,-70.256,6770
-43505,Turner,MI,,city-us,519,44.126,-83.750,1994
-43513,Turner,SD,,city-us,191,43.222,-96.992,0
-43503,Turner,MN,,city-us,140,46.825,-93.237,2407
-43506,Turner,MT,,city-us,90,48.844,-108.407,1370
-43507,Turner,IN,,city-us,0,39.498,-87.160,660
-43508,Turner,WA,,city-us,0,46.413,-117.855,247
-43509,Turner,WV,,city-us,0,38.481,-81.311,88
-43511,Turner,AR,,city-us,0,35.837,-90.062,426
-43512,Turner,AR,,city-us,0,34.476,-91.019,417
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43510,Turner,OR,Marion County,,city-us,2454,44.843,-122.953,3569
+43504,Turner,ME,Androscoggin County,,city-us,654,44.256,-70.256,6770
+43505,Turner,MI,Arenac County,,city-us,519,44.126,-83.750,1994
+43513,Turner,SD,Turner County,,city-us,191,43.222,-96.992,0
+43503,Turner,MN,Aitkin County,,city-us,140,46.825,-93.237,2407
+43506,Turner,MT,Blaine County,,city-us,90,48.844,-108.407,1370
+43507,Turner,IN,Clay County,,city-us,0,39.498,-87.160,660
+43508,Turner,WA,Columbia County,,city-us,0,46.413,-117.855,247
+43509,Turner,WV,Kanawha County,,city-us,0,38.481,-81.311,88
+43511,Turner,AR,Mississippi County,,city-us,0,35.837,-90.062,426
+43512,Turner,AR,Phillips County,,city-us,0,34.476,-91.019,417

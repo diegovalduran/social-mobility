@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10294,Creek,IL,,city-us,475,40.091,-88.869,0
-10296,Creek,KS,,city-us,201,37.343,-97.748,0
-10295,Creek,TX,,city-us,0,31.167,-95.612,459
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10294,Creek,IL,De Witt County,,city-us,475,40.091,-88.869,0
+10296,Creek,KS,Sumner County,,city-us,201,37.343,-97.748,0
+10295,Creek,TX,Houston County,,city-us,0,31.167,-95.612,459

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41855,Sugarcreek,OH,,city-us,9553,39.627,-84.047,1562
-41857,Sugarcreek,PA,,city-us,4773,41.421,-79.881,2031
-41856,Sugarcreek,OH,,city-us,2341,40.503,-81.641,4876
-41854,Sugarcreek,PA,,city-us,1336,40.929,-79.635,2776
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41855,Sugarcreek,OH,Greene County,,city-us,9553,39.627,-84.047,1562
+41857,Sugarcreek,PA,Venango County,,city-us,4773,41.421,-79.881,2031
+41856,Sugarcreek,OH,Tuscarawas County,,city-us,2341,40.503,-81.641,4876
+41854,Sugarcreek,PA,Armstrong County,,city-us,1336,40.929,-79.635,2776

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33300,Patterson Springs,NC,,city-us,578,35.235,-81.515,3833
-33301,Patterson Springs,IL,,city-us,0,39.792,-88.193,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33300,Patterson Springs,NC,Cleveland County,,city-us,578,35.235,-81.515,3833
+33301,Patterson Springs,IL,Douglas County,,city-us,0,39.792,-88.193,175

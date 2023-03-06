@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34708,Pleasantdale,NJ,,city-us,2284,40.810,-74.260,588
-34710,Pleasantdale,KS,,city-us,25,38.639,-99.088,0
-34707,Pleasantdale,WY,,city-us,12,44.076,-105.719,320
-34709,Pleasantdale,WV,,city-us,0,39.502,-79.684,94
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34708,Pleasantdale,NJ,Essex County,,city-us,2284,40.810,-74.260,588
+34710,Pleasantdale,KS,Rush County,,city-us,25,38.639,-99.088,0
+34707,Pleasantdale,WY,Campbell County,,city-us,12,44.076,-105.719,320
+34709,Pleasantdale,WV,Preston County,,city-us,0,39.502,-79.684,94

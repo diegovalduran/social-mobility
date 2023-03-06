@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47352,Winter,WI,,city-us,327,45.820,-91.012,3232
-47351,Winter,WV,,city-us,0,38.509,-81.747,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47352,Winter,WI,Sawyer County,,city-us,327,45.820,-91.012,3232
+47351,Winter,WV,Putnam County,,city-us,0,38.509,-81.747,87

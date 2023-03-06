@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-951,Ambrose,GA,,city-us,329,31.594,-83.014,1882
-952,Ambrose,ND,,city-us,31,48.945,-103.542,3252
-953,Ambrose,IA,,city-us,0,41.531,-92.234,805
+id,name,state,county,country,level,population,latitude,longitude,wiki
+951,Ambrose,GA,Coffee County,,city-us,329,31.594,-83.014,1882
+952,Ambrose,ND,Divide County,,city-us,31,48.945,-103.542,3252
+953,Ambrose,IA,Iowa County,,city-us,0,41.531,-92.234,805

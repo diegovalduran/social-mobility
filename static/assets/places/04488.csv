@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23103,Kirk,CO,,city-us,79,39.613,-102.592,1010
-23101,Kirk,OR,,city-us,0,42.747,-121.829,210
-23102,Kirk,WV,,city-us,0,37.894,-82.243,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23103,Kirk,CO,Yuma County,,city-us,79,39.613,-102.592,1010
+23101,Kirk,OR,Klamath County,,city-us,0,42.747,-121.829,210
+23102,Kirk,WV,Mingo County,,city-us,0,37.894,-82.243,157

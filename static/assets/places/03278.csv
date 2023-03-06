@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16568,George's Creek,MD,,city-us,0,39.698,-78.853,129
-16569,George's Creek,TX,,city-us,0,32.294,-97.638,2418
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16568,George's Creek,MD,Allegany County,,city-us,0,39.698,-78.853,129
+16569,George's Creek,TX,Somervell County,,city-us,0,32.294,-97.638,2418

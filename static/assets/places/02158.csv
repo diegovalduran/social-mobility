@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10809,Dabney,WV,,city-us,0,37.812,-81.928,153
-10810,Dabney,KY,,city-us,0,37.184,-84.550,263
-10811,Dabney,IN,,city-us,0,39.090,-85.347,418
-10812,Dabney,AR,,city-us,0,35.632,-92.787,120
-10813,Dabney,NC,,city-us,0,36.353,-78.498,292
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10809,Dabney,WV,Logan County,,city-us,0,37.812,-81.928,153
+10810,Dabney,KY,Pulaski County,,city-us,0,37.184,-84.550,263
+10811,Dabney,IN,Ripley County,,city-us,0,39.090,-85.347,418
+10812,Dabney,AR,Van Buren County,,city-us,0,35.632,-92.787,120
+10813,Dabney,NC,Vance County,,city-us,0,36.353,-78.498,292

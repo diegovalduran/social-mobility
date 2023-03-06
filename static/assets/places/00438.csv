@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2318,Ball,IL,,city-us,7519,39.659,-89.643,446
-2317,Ball,LA,,city-us,3885,31.415,-92.412,4453
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2318,Ball,IL,Sangamon County,,city-us,7519,39.659,-89.643,446
+2317,Ball,LA,Rapides Parish,,city-us,3885,31.415,-92.412,4453

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41398,Stephenville,TX,,city-us,21199,32.221,-98.202,4906
-41399,Stephenville,NJ,,city-us,0,40.566,-74.378,63996
-41400,Stephenville,MS,,city-us,0,33.548,-90.672,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41398,Stephenville,TX,Erath County,,city-us,21199,32.221,-98.202,4906
+41399,Stephenville,NJ,Middlesex County,,city-us,0,40.566,-74.378,63996
+41400,Stephenville,MS,Sunflower County,,city-us,0,33.548,-90.672,229

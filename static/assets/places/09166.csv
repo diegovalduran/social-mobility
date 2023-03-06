@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46167,Western,IL,,city-us,2914,41.369,-90.376,1406
-46170,Western,NY,,city-us,1807,43.350,-75.411,4668
-46172,Western,NE,,city-us,220,40.394,-97.198,3115
-46171,Western,MN,,city-us,120,46.147,-96.202,1855
-46173,Western,ND,,city-us,78,47.710,-99.995,0
-46168,Western,NE,,city-us,51,42.714,-98.245,238
-46169,Western,KS,,city-us,47,38.876,-101.399,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46167,Western,IL,Henry County,,city-us,2914,41.369,-90.376,1406
+46170,Western,NY,Oneida County,,city-us,1807,43.350,-75.411,4668
+46172,Western,NE,Saline County,,city-us,220,40.394,-97.198,3115
+46171,Western,MN,Otter Tail County,,city-us,120,46.147,-96.202,1855
+46173,Western,ND,Wells County,,city-us,78,47.710,-99.995,0
+46168,Western,NE,Knox County,,city-us,51,42.714,-98.245,238
+46169,Western,KS,Logan County,,city-us,47,38.876,-101.399,0

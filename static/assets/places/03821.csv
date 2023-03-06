@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19563,Helen,MN,,city-us,842,44.753,-94.069,1951
-19566,Helen,GA,,city-us,545,34.701,-83.732,6268
-19564,Helen,WV,,city-us,17,37.635,-81.314,658
-19565,Helen,MD,,city-us,0,38.383,-76.722,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19563,Helen,MN,McLeod County,,city-us,842,44.753,-94.069,1951
+19566,Helen,GA,White County,,city-us,545,34.701,-83.732,6268
+19564,Helen,WV,Raleigh County,,city-us,17,37.635,-81.314,658
+19565,Helen,MD,St. Mary's County,,city-us,0,38.383,-76.722,192

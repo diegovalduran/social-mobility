@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17216,Goodman,MO,,city-us,1214,36.742,-94.399,3488
-17214,Goodman,MS,,city-us,1188,32.970,-89.912,3781
-17215,Goodman,WI,,city-us,603,45.636,-88.325,3201
-17213,Goodman,AL,,city-us,0,31.280,-85.994,165
-17217,Goodman,WV,,city-us,0,37.690,-82.298,122
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17216,Goodman,MO,McDonald County,,city-us,1214,36.742,-94.399,3488
+17214,Goodman,MS,Holmes County,,city-us,1188,32.970,-89.912,3781
+17215,Goodman,WI,Marinette County,,city-us,603,45.636,-88.325,3201
+17213,Goodman,AL,Coffee County,,city-us,0,31.280,-85.994,165
+17217,Goodman,WV,Mingo County,,city-us,0,37.690,-82.298,122

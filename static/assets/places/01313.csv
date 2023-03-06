@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6664,Camp Creek,OH,,city-us,1015,38.980,-83.133,1229
-6662,Camp Creek,TN,,city-us,0,36.087,-82.764,1326
-6663,Camp Creek,WV,,city-us,0,37.495,-81.103,222
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6664,Camp Creek,OH,Pike County,,city-us,1015,38.980,-83.133,1229
+6662,Camp Creek,TN,Greene County,,city-us,0,36.087,-82.764,1326
+6663,Camp Creek,WV,Mercer County,,city-us,0,37.495,-81.103,222

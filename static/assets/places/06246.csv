@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31967,Oberlin,OH,,city-us,8249,41.294,-82.217,16663
-31964,Oberlin,LA,,city-us,1351,30.620,-92.763,2432
-31965,Oberlin,PA,,city-us,415,40.241,-76.815,345
-31966,Oberlin,KS,,city-us,74,39.775,-100.581,408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31967,Oberlin,OH,Lorain County,,city-us,8249,41.294,-82.217,16663
+31964,Oberlin,LA,Allen Parish,,city-us,1351,30.620,-92.763,2432
+31965,Oberlin,PA,Dauphin County,,city-us,415,40.241,-76.815,345
+31966,Oberlin,KS,Decatur County,,city-us,74,39.775,-100.581,408

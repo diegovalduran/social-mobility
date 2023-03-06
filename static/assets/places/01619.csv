@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8240,Chicago,IL,,city-us,2696555,41.837,-87.685,99904
-8241,Chicago,ND,,city-us,39,46.852,-99.268,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8240,Chicago,IL,Cook County / DuPage County,,city-us,2696555,41.837,-87.685,99904
+8241,Chicago,ND,Stutsman County,,city-us,39,46.852,-99.268,0

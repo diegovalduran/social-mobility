@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18544,Hamel,IL,,city-us,933,38.889,-89.845,2377
-18630,Hammel,WI,,city-us,709,45.152,-90.506,3231
-18549,Hamill,SD,,city-us,0,43.595,-99.681,2197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18544,Hamel,IL,Madison County,,city-us,933,38.889,-89.845,2377
+18630,Hammel,WI,Taylor County,,city-us,709,45.152,-90.506,3231
+18549,Hamill,SD,Tripp County,,city-us,0,43.595,-99.681,2197

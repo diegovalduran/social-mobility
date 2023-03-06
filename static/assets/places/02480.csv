@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12368,Dunbarton,WI,,city-us,16611,42.562,-90.133,4302
-12369,Dunbarton,NH,,city-us,3080,43.112,-71.607,3839
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12368,Dunbarton,WI,Lafayette County,,city-us,16611,42.562,-90.133,4302
+12369,Dunbarton,NH,Merrimack County,,city-us,3080,43.112,-71.607,3839

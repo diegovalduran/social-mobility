@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40027,Slaughter,LA,,city-us,1027,30.717,-91.141,3165
-40028,Slaughter,TX,,city-us,0,32.338,-102.546,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40027,Slaughter,LA,East Feliciana Parish,,city-us,1027,30.717,-91.141,3165
+40028,Slaughter,TX,Midland County,,city-us,0,32.338,-102.546,202

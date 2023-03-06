@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21198,Idaho,,United States,state,1939033,45.495,-114.142,34377
-21196,Idaho,ND,,city-us,176,48.329,-102.370,0
-21195,Idaho,PA,,city-us,0,40.654,-79.347,1034
-21197,Idaho,OH,,city-us,0,39.088,-83.142,313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21198,Idaho,,,United States,state,1939033,45.495,-114.142,34377
+21196,Idaho,ND,Mountrail County,,city-us,176,48.329,-102.370,0
+21195,Idaho,PA,Armstrong County,,city-us,0,40.654,-79.347,1034
+21197,Idaho,OH,Pike County,,city-us,0,39.088,-83.142,313

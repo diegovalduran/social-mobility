@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17149,Golden Valley,MN,,city-us,21942,45.010,-93.349,7971
-17151,Golden Valley,AZ,,city-us,7914,35.223,-114.223,5011
-17153,Golden Valley,NV,,city-us,911,39.615,-119.827,586
-17150,Golden Valley,ND,,city-us,189,47.291,-102.065,2945
-17152,Golden Valley,MN,,city-us,179,48.583,-95.668,1754
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17149,Golden Valley,MN,Hennepin County,,city-us,21942,45.010,-93.349,7971
+17151,Golden Valley,AZ,Mohave County,,city-us,7914,35.223,-114.223,5011
+17153,Golden Valley,NV,Washoe County,,city-us,911,39.615,-119.827,586
+17150,Golden Valley,ND,Mercer County,,city-us,189,47.291,-102.065,2945
+17152,Golden Valley,MN,Roseau County,,city-us,179,48.583,-95.668,1754

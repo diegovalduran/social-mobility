@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33088,Paradise Hill,OK,,city-us,67,35.626,-95.067,2269
-33086,Paradise Hill,OH,,city-us,0,40.866,-82.403,257
-33087,Paradise Hill,NV,,city-us,0,41.279,-117.691,368
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33088,Paradise Hill,OK,Sequoyah County,,city-us,67,35.626,-95.067,2269
+33086,Paradise Hill,OH,Ashland County,,city-us,0,40.866,-82.403,257
+33087,Paradise Hill,NV,Humboldt County,,city-us,0,41.279,-117.691,368

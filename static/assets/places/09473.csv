@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47912,Yancey,KY,,city-us,0,36.769,-83.321,123
-47913,Yancey,TX,,city-us,0,29.139,-99.145,398
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47912,Yancey,KY,Harlan County,,city-us,0,36.769,-83.321,123
+47913,Yancey,TX,Medina County,,city-us,0,29.139,-99.145,398

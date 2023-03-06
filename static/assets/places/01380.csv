@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6920,Carlin,NV,,city-us,2053,40.714,-116.104,3259
-22521,Karlin,MI,,city-us,0,44.578,-85.783,800
-22522,Karlin,MO,,city-us,0,37.554,-93.414,753
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6920,Carlin,NV,Elko County,,city-us,2053,40.714,-116.104,3259
+22521,Karlin,MI,Grand Traverse County,,city-us,0,44.578,-85.783,800
+22522,Karlin,MO,Polk County,,city-us,0,37.554,-93.414,753

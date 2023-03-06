@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30311,Natrona,PA,,city-us,0,40.614,-79.722,4276
-30312,Natrona,WY,,city-us,0,43.030,-106.809,445
-30313,Natrona,KS,,city-us,0,37.712,-98.665,236
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30311,Natrona,PA,Allegheny County,,city-us,0,40.614,-79.722,4276
+30312,Natrona,WY,Natrona County,,city-us,0,43.030,-106.809,445
+30313,Natrona,KS,Pratt County,,city-us,0,37.712,-98.665,236

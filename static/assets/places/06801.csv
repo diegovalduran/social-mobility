@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34611,Pleasant Plains,MI,,city-us,1722,43.858,-85.861,2079
-34612,Pleasant Plains,IL,,city-us,806,39.873,-89.921,2910
-34613,Pleasant Plains,NJ,,city-us,390,40.448,-74.558,2443
-34610,Pleasant Plains,AR,,city-us,351,35.550,-91.626,3037
-34609,Pleasant Plains,AL,,city-us,0,31.304,-85.230,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34611,Pleasant Plains,MI,Lake County,,city-us,1722,43.858,-85.861,2079
+34612,Pleasant Plains,IL,Sangamon County,,city-us,806,39.873,-89.921,2910
+34613,Pleasant Plains,NJ,Somerset County,,city-us,390,40.448,-74.558,2443
+34610,Pleasant Plains,AR,Independence County,,city-us,351,35.550,-91.626,3037
+34609,Pleasant Plains,AL,Houston County,,city-us,0,31.304,-85.230,165

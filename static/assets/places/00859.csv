@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4372,Bloomdale,OH,,city-us,659,41.173,-83.556,3420
-4371,Bloomdale,TX,,city-us,0,33.247,-96.679,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4372,Bloomdale,OH,Wood County,,city-us,659,41.173,-83.556,3420
+4371,Bloomdale,TX,Collin County,,city-us,0,33.247,-96.679,96

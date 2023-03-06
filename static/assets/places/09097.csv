@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45921,Wendover,UT,,city-us,1131,40.737,-114.038,5173
-45920,Wendover,KY,,city-us,0,37.126,-83.363,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45921,Wendover,UT,Tooele County,,city-us,1131,40.737,-114.038,5173
+45920,Wendover,KY,Leslie County,,city-us,0,37.126,-83.363,88

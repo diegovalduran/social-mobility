@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3297,Bellingham,WA,,city-us,92289,48.760,-122.488,36093
-3296,Bellingham,MA,,city-us,4212,42.087,-71.475,14027
-3295,Bellingham,MN,,city-us,145,45.136,-96.288,3075
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3297,Bellingham,WA,Whatcom County,,city-us,92289,48.760,-122.488,36093
+3296,Bellingham,MA,Norfolk County,,city-us,4212,42.087,-71.475,14027
+3295,Bellingham,MN,Lac qui Parle County,,city-us,145,45.136,-96.288,3075

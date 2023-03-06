@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7138,Carvers,NC,,city-us,0,34.461,-78.414,164
-7139,Carvers,NV,,city-us,0,38.787,-117.179,663
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7138,Carvers,NC,Bladen County,,city-us,0,34.461,-78.414,164
+7139,Carvers,NV,Nye County,,city-us,0,38.787,-117.179,663

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45547,Waubeek,WI,,city-us,423,44.666,-91.973,1861
-45546,Waubeek,IA,,city-us,0,42.166,-91.465,703
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45547,Waubeek,WI,Pepin County,,city-us,423,44.666,-91.973,1861
+45546,Waubeek,IA,Linn County,,city-us,0,42.166,-91.465,703

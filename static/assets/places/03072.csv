@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15405,Forkland,AL,,city-us,444,32.648,-87.883,2923
-15404,Forkland,KY,,city-us,0,37.553,-84.980,446
-15406,Forkland,VA,,city-us,0,37.010,-77.956,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15405,Forkland,AL,Greene County,,city-us,444,32.648,-87.883,2923
+15404,Forkland,KY,Boyle County,,city-us,0,37.553,-84.980,446
+15406,Forkland,VA,Nottoway County,,city-us,0,37.010,-77.956,87

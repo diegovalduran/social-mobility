@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30101,Munster,,Germany,city-international,316403,51.962,7.626,1319
-30099,Munster,IN,,city-us,23761,41.564,-87.513,18878
-30097,Munster,PA,,city-us,654,40.462,-78.667,2341
-30098,Munster,ND,,city-us,48,47.712,-99.221,0
-30100,Munster,IL,,city-us,0,41.106,-88.903,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30101,Munster,,,Germany,city-international,316403,51.962,7.626,1319
+30099,Munster,IN,Lake County,,city-us,23761,41.564,-87.513,18878
+30097,Munster,PA,Cambria County,,city-us,654,40.462,-78.667,2341
+30098,Munster,ND,Eddy County,,city-us,48,47.712,-99.221,0
+30100,Munster,IL,LaSalle County,,city-us,0,41.106,-88.903,167

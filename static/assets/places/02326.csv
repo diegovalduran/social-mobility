@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11720,Diamond,IL,,city-us,2657,41.285,-88.251,2279
-11724,Diamond,MO,,city-us,855,36.995,-94.316,4146
-11805,Dimond,ND,,city-us,22,48.699,-102.416,0
-11719,Diamond,GA,,city-us,0,34.674,-84.276,248
-11721,Diamond,OR,,city-us,0,43.012,-118.666,1958
-11722,Diamond,WV,,city-us,0,38.215,-81.516,217
-11723,Diamond,WV,,city-us,0,37.825,-82.081,178
-11725,Diamond,IN,,city-us,0,39.611,-87.166,331
-11726,Diamond,LA,,city-us,0,29.536,-89.762,89
-11727,Diamond,OH,,city-us,0,41.099,-81.023,688
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11720,Diamond,IL,Grundy County / Will County,,city-us,2657,41.285,-88.251,2279
+11724,Diamond,MO,Newton County,,city-us,855,36.995,-94.316,4146
+11805,Dimond,ND,Burke County,,city-us,22,48.699,-102.416,0
+11719,Diamond,GA,Gilmer County,,city-us,0,34.674,-84.276,248
+11721,Diamond,OR,Harney County,,city-us,0,43.012,-118.666,1958
+11722,Diamond,WV,Kanawha County,,city-us,0,38.215,-81.516,217
+11723,Diamond,WV,Logan County,,city-us,0,37.825,-82.081,178
+11725,Diamond,IN,Parke County,,city-us,0,39.611,-87.166,331
+11726,Diamond,LA,Plaquemines Parish,,city-us,0,29.536,-89.762,89
+11727,Diamond,OH,Portage County,,city-us,0,41.099,-81.023,688

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27009,Marrowbone,IL,,city-us,1610,39.630,-88.762,610
-27008,Marrowbone,KY,,city-us,67,36.828,-85.507,496
-27010,Marrowbone,KY,,city-us,0,37.366,-82.414,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27009,Marrowbone,IL,Moultrie County,,city-us,1610,39.630,-88.762,610
+27008,Marrowbone,KY,Cumberland County,,city-us,67,36.828,-85.507,496
+27010,Marrowbone,KY,Pike County,,city-us,0,37.366,-82.414,121

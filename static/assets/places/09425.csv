@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47631,Woodrow,MN,,city-us,726,46.925,-94.342,167
-47630,Woodrow,MN,,city-us,79,47.976,-94.612,167
-47632,Woodrow,MN,,city-us,0,46.388,-94.074,349
-47633,Woodrow,WV,,city-us,0,39.499,-78.436,338
-47634,Woodrow,TX,,city-us,0,33.447,-101.844,1324
-47635,Woodrow,UT,,city-us,0,39.433,-112.633,262
-47636,Woodrow,WV,,city-us,0,38.281,-80.158,218
-47637,Woodrow,CO,,city-us,0,39.988,-103.592,388
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47631,Woodrow,MN,Cass County,,city-us,726,46.925,-94.342,167
+47630,Woodrow,MN,Beltrami County,,city-us,79,47.976,-94.612,167
+47632,Woodrow,MN,Crow Wing County,,city-us,0,46.388,-94.074,349
+47633,Woodrow,WV,Hampshire County,,city-us,0,39.499,-78.436,338
+47634,Woodrow,TX,Lubbock County,,city-us,0,33.447,-101.844,1324
+47635,Woodrow,UT,Millard County,,city-us,0,39.433,-112.633,262
+47636,Woodrow,WV,Pocahontas County,,city-us,0,38.281,-80.158,218
+47637,Woodrow,CO,Washington County,,city-us,0,39.988,-103.592,388

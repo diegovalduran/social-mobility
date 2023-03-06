@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37059,Roby,TX,,city-us,594,32.745,-100.378,4975
-37058,Roby,IL,,city-us,0,39.739,-89.399,146
-37060,Roby,MO,,city-us,0,37.516,-92.139,440
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37059,Roby,TX,Fisher County,,city-us,594,32.745,-100.378,4975
+37058,Roby,IL,Christian County,,city-us,0,39.739,-89.399,146
+37060,Roby,MO,Texas County,,city-us,0,37.516,-92.139,440

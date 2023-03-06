@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5598,Browning,IL,,city-us,2379,37.997,-88.989,139
-5599,Browning,MT,,city-us,1007,48.557,-113.013,6759
-5606,Browning,WI,,city-us,915,45.154,-90.220,2531
-5603,Browning,IL,,city-us,363,40.145,-90.388,139
-5602,Browning,MO,,city-us,219,40.035,-93.160,3613
-5600,Browning,WV,,city-us,0,39.024,-81.661,76
-5601,Browning,MS,,city-us,0,33.518,-90.120,507
-5604,Browning,TX,,city-us,0,32.384,-95.084,1310
-5605,Browning,WV,,city-us,0,37.652,-80.858,156
-5607,Browning,GA,,city-us,0,31.918,-83.272,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5598,Browning,IL,Franklin County,,city-us,2379,37.997,-88.989,139
+5599,Browning,MT,Glacier County,,city-us,1007,48.557,-113.013,6759
+5606,Browning,WI,Taylor County,,city-us,915,45.154,-90.220,2531
+5603,Browning,IL,Schuyler County,,city-us,363,40.145,-90.388,139
+5602,Browning,MO,Linn County / Sullivan County,,city-us,219,40.035,-93.160,3613
+5600,Browning,WV,Jackson County,,city-us,0,39.024,-81.661,76
+5601,Browning,MS,Leflore County,,city-us,0,33.518,-90.120,507
+5604,Browning,TX,Smith County,,city-us,0,32.384,-95.084,1310
+5605,Browning,WV,Summers County,,city-us,0,37.652,-80.858,156
+5607,Browning,GA,Wilcox County,,city-us,0,31.918,-83.272,289

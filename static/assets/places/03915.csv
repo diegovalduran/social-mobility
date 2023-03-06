@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20025,Hildreth,NE,,city-us,381,40.337,-99.044,3117
-20026,Hildreth,CA,,city-us,0,37.109,-119.633,314
-20027,Hildreth,FL,,city-us,0,29.953,-82.805,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20025,Hildreth,NE,Franklin County,,city-us,381,40.337,-99.044,3117
+20026,Hildreth,CA,Madera County,,city-us,0,37.109,-119.633,314
+20027,Hildreth,FL,Suwannee County,,city-us,0,29.953,-82.805,182

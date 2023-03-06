@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1421,Argyle,TX,,city-us,4707,33.121,-97.183,3309
-1430,Argyle,NY,,city-us,3627,43.232,-73.479,14046
-1422,Argyle,WI,,city-us,794,42.701,-89.867,4907
-1428,Argyle,MI,,city-us,770,43.543,-82.926,2776
-1426,Argyle,MN,,city-us,545,48.333,-96.821,5258
-1418,Argyle,IL,,city-us,443,42.355,-88.939,1879
-1417,Argyle,IL,,city-us,332,42.360,-88.940,1879
-1420,Argyle,GA,,city-us,192,31.074,-82.648,2201
-1425,Argyle,MO,,city-us,141,38.295,-92.026,3473
-1423,Argyle,IA,,city-us,91,40.532,-91.566,574
-1419,Argyle,KY,,city-us,0,37.226,-84.808,123
-1424,Argyle,WV,,city-us,0,37.826,-81.877,101
-1427,Argyle,WA,,city-us,0,48.514,-123.020,298
-1429,Argyle,FL,,city-us,0,30.720,-86.044,366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1421,Argyle,TX,Denton County,,city-us,4707,33.121,-97.183,3309
+1430,Argyle,NY,Washington County,,city-us,3627,43.232,-73.479,14046
+1422,Argyle,WI,Lafayette County,,city-us,794,42.701,-89.867,4907
+1428,Argyle,MI,Sanilac County,,city-us,770,43.543,-82.926,2776
+1426,Argyle,MN,Marshall County,,city-us,545,48.333,-96.821,5258
+1418,Argyle,IL,Boone County / Winnebago County,,city-us,443,42.355,-88.939,1879
+1417,Argyle,IL,Boone County,,city-us,332,42.360,-88.940,1879
+1420,Argyle,GA,Clinch County,,city-us,192,31.074,-82.648,2201
+1425,Argyle,MO,Maries County / Osage County,,city-us,141,38.295,-92.026,3473
+1423,Argyle,IA,Lee County,,city-us,91,40.532,-91.566,574
+1419,Argyle,KY,Casey County,,city-us,0,37.226,-84.808,123
+1424,Argyle,WV,Logan County,,city-us,0,37.826,-81.877,101
+1427,Argyle,WA,San Juan County,,city-us,0,48.514,-123.020,298
+1429,Argyle,FL,Walton County,,city-us,0,30.720,-86.044,366

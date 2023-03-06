@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35897,Ransomville,NY,,city-us,1435,43.239,-78.910,5681
-35896,Ransomville,KS,,city-us,0,38.506,-95.426,476
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35897,Ransomville,NY,Niagara County,,city-us,1435,43.239,-78.910,5681
+35896,Ransomville,KS,Franklin County,,city-us,0,38.506,-95.426,476

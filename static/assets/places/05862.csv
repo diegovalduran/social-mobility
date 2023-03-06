@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30148,Muse,PA,,city-us,2561,40.293,-80.200,516
-30146,Muse,FL,,city-us,0,26.828,-81.496,3559
-30147,Muse,OK,,city-us,0,34.672,-94.763,605
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30148,Muse,PA,Washington County,,city-us,2561,40.293,-80.200,516
+30146,Muse,FL,Glades County,,city-us,0,26.828,-81.496,3559
+30147,Muse,OK,Le Flore County,,city-us,0,34.672,-94.763,605

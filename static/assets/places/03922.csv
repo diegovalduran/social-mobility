@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20047,Hill Top,KY,,city-us,0,38.360,-83.839,727
-20048,Hill Top,KY,,city-us,0,36.722,-84.533,298
-20049,Hill Top,IL,,city-us,0,39.989,-89.883,128
-20050,Hill Top,KY,,city-us,0,37.986,-83.619,154
-20051,Hill Top,WV,,city-us,0,37.465,-80.908,149
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20047,Hill Top,KY,Fleming County,,city-us,0,38.360,-83.839,727
+20048,Hill Top,KY,McCreary County,,city-us,0,36.722,-84.533,298
+20049,Hill Top,IL,Menard County,,city-us,0,39.989,-89.883,128
+20050,Hill Top,KY,Menifee County,,city-us,0,37.986,-83.619,154
+20051,Hill Top,WV,Summers County,,city-us,0,37.465,-80.908,149

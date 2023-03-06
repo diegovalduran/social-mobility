@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25420,Lodi,CA,,city-us,67021,38.130,-121.272,16895
-25409,Lodi,NJ,,city-us,25966,40.882,-74.083,16683
-25424,Lodi,MI,,city-us,6443,42.219,-83.851,2916
-25411,Lodi,WI,,city-us,3298,43.339,-89.535,9476
-25415,Lodi,OH,,city-us,2754,41.033,-82.012,5077
-25408,Lodi,OH,,city-us,1342,39.232,-82.018,1284
-25413,Lodi,MI,,city-us,1250,44.643,-85.157,2403
-25421,Lodi,NY,,city-us,286,42.614,-76.822,5670
-25417,Lodi,MN,,city-us,241,43.543,-92.629,2755
-25422,Lodi,SD,,city-us,56,44.850,-98.392,0
-25410,Lodi,PA,,city-us,0,40.551,-75.084,305
-25412,Lodi,MS,,city-us,0,33.046,-90.410,86
-25414,Lodi,TX,,city-us,0,32.876,-94.280,283
-25416,Lodi,MS,,city-us,0,33.550,-89.521,172
-25418,Lodi,IN,,city-us,0,39.950,-87.406,2860
-25419,Lodi,AR,,city-us,0,34.311,-93.707,251
-25423,Lodi,VA,,city-us,0,36.715,-81.777,201
-25425,Lodi,MO,,city-us,0,37.256,-90.453,494
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25420,Lodi,CA,San Joaquin County,,city-us,67021,38.130,-121.272,16895
+25409,Lodi,NJ,Bergen County,,city-us,25966,40.882,-74.083,16683
+25424,Lodi,MI,Washtenaw County,,city-us,6443,42.219,-83.851,2916
+25411,Lodi,WI,Columbia County,,city-us,3298,43.339,-89.535,9476
+25415,Lodi,OH,Medina County,,city-us,2754,41.033,-82.012,5077
+25408,Lodi,OH,Athens County,,city-us,1342,39.232,-82.018,1284
+25413,Lodi,MI,Kalkaska County,,city-us,1250,44.643,-85.157,2403
+25421,Lodi,NY,Seneca County,,city-us,286,42.614,-76.822,5670
+25417,Lodi,MN,Mower County,,city-us,241,43.543,-92.629,2755
+25422,Lodi,SD,Spink County,,city-us,56,44.850,-98.392,0
+25410,Lodi,PA,Bucks County,,city-us,0,40.551,-75.084,305
+25412,Lodi,MS,Humphreys County,,city-us,0,33.046,-90.410,86
+25414,Lodi,TX,Marion County,,city-us,0,32.876,-94.280,283
+25416,Lodi,MS,Montgomery County,,city-us,0,33.550,-89.521,172
+25418,Lodi,IN,Parke County,,city-us,0,39.950,-87.406,2860
+25419,Lodi,AR,Pike County,,city-us,0,34.311,-93.707,251
+25423,Lodi,VA,Washington County,,city-us,0,36.715,-81.777,201
+25425,Lodi,MO,Wayne County,,city-us,0,37.256,-90.453,494

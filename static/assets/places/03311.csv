@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16771,Gilchrist,MI,,city-us,3937,42.649,-85.967,3079
-16775,Gilchrist,MI,,city-us,1146,46.144,-85.506,4582
-16774,Gilchrist,OR,,city-us,216,43.476,-121.688,2124
-16777,Gilchrist,MN,,city-us,215,45.444,-95.335,1980
-16772,Gilchrist,IL,,city-us,0,40.647,-90.040,140
-16773,Gilchrist,TX,,city-us,0,29.512,-94.489,5214
-16776,Gilchrist,IL,,city-us,0,41.205,-90.624,1140
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16771,Gilchrist,MI,Allegan County,,city-us,3937,42.649,-85.967,3079
+16775,Gilchrist,MI,Mackinac County,,city-us,1146,46.144,-85.506,4582
+16774,Gilchrist,OR,Klamath County,,city-us,216,43.476,-121.688,2124
+16777,Gilchrist,MN,Pope County,,city-us,215,45.444,-95.335,1980
+16772,Gilchrist,IL,Fulton County,,city-us,0,40.647,-90.040,140
+16773,Gilchrist,TX,Galveston County,,city-us,0,29.512,-94.489,5214
+16776,Gilchrist,IL,Mercer County,,city-us,0,41.205,-90.624,1140

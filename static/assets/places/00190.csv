@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-983,Amherst,NY,,city-us,129299,43.012,-78.757,14018
-986,Amherst,MA,,city-us,39378,42.364,-72.507,22557
-990,Amherst,OH,,city-us,6548,41.380,-82.209,2491
-981,Amherst,VA,,city-us,2152,37.585,-79.051,10961
-993,Amherst,WI,,city-us,1398,44.462,-89.296,5664
-988,Amherst,NH,,city-us,774,42.861,-71.625,8314
-989,Amherst,TX,,city-us,664,34.010,-102.415,3856
-985,Amherst,MN,,city-us,412,43.631,-91.910,1873
-987,Amherst,ME,,city-us,254,44.870,-68.400,5862
-992,Amherst,CO,,city-us,252,40.683,-102.166,789
-982,Amherst,NE,,city-us,200,40.769,-99.270,3246
-984,Amherst,MT,,city-us,0,47.150,-109.625,178
-991,Amherst,SD,,city-us,0,45.738,-97.921,632
+id,name,state,county,country,level,population,latitude,longitude,wiki
+983,Amherst,NY,Erie County,,city-us,129299,43.012,-78.757,14018
+986,Amherst,MA,Hampshire County,,city-us,39378,42.364,-72.507,22557
+990,Amherst,OH,Lorain County,,city-us,6548,41.380,-82.209,2491
+981,Amherst,VA,Amherst County,,city-us,2152,37.585,-79.051,10961
+993,Amherst,WI,Portage County,,city-us,1398,44.462,-89.296,5664
+988,Amherst,NH,Hillsborough County,,city-us,774,42.861,-71.625,8314
+989,Amherst,TX,Lamb County,,city-us,664,34.010,-102.415,3856
+985,Amherst,MN,Fillmore County,,city-us,412,43.631,-91.910,1873
+987,Amherst,ME,Hancock County,,city-us,254,44.870,-68.400,5862
+992,Amherst,CO,Phillips County,,city-us,252,40.683,-102.166,789
+982,Amherst,NE,Buffalo County,,city-us,200,40.769,-99.270,3246
+984,Amherst,MT,Fergus County,,city-us,0,47.150,-109.625,178
+991,Amherst,SD,Marshall County,,city-us,0,45.738,-97.921,632

@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16831,Gilmore,MI,,city-us,1345,43.773,-84.920,168
-16826,Gilmore,MI,,city-us,801,44.596,-86.192,168
-16825,Gilmore,MD,,city-us,332,39.583,-78.950,545
-16830,Gilmore,PA,,city-us,235,39.750,-80.346,2207
-16828,Gilmore,AR,,city-us,170,35.412,-90.278,3084
-16834,Gilmore,ND,,city-us,12,48.429,-100.723,0
-16827,Gilmore,IL,,city-us,0,38.978,-89.620,113
-16829,Gilmore,IL,,city-us,0,38.987,-88.718,129
-16832,Gilmore,OK,,city-us,0,35.052,-94.524,1827
-16833,Gilmore,ID,,city-us,0,44.459,-113.270,411
-16835,Gilmore,NE,,city-us,0,41.144,-95.951,275
-16836,Gilmore,MO,,city-us,0,38.810,-90.806,342
-16837,Gilmore,OH,,city-us,0,40.291,-81.440,599
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16831,Gilmore,MI,Isabella County,,city-us,1345,43.773,-84.920,168
+16826,Gilmore,MI,Benzie County,,city-us,801,44.596,-86.192,168
+16825,Gilmore,MD,Allegany County,,city-us,332,39.583,-78.950,545
+16830,Gilmore,PA,Greene County,,city-us,235,39.750,-80.346,2207
+16828,Gilmore,AR,Crittenden County,,city-us,170,35.412,-90.278,3084
+16834,Gilmore,ND,McHenry County,,city-us,12,48.429,-100.723,0
+16827,Gilmore,IL,Bond County,,city-us,0,38.978,-89.620,113
+16829,Gilmore,IL,Effingham County,,city-us,0,38.987,-88.718,129
+16832,Gilmore,OK,Le Flore County,,city-us,0,35.052,-94.524,1827
+16833,Gilmore,ID,Lemhi County,,city-us,0,44.459,-113.270,411
+16835,Gilmore,NE,Sarpy County,,city-us,0,41.144,-95.951,275
+16836,Gilmore,MO,St. Charles County,,city-us,0,38.810,-90.806,342
+16837,Gilmore,OH,Tuscarawas County,,city-us,0,40.291,-81.440,599

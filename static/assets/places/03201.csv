@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16162,Gadsden,AL,,city-us,33769,34.014,-86.007,15830
-16163,Gadsden,SC,,city-us,919,33.846,-80.766,752
-16164,Gadsden,AZ,,city-us,801,32.554,-114.785,1899
-16161,Gadsden,TN,,city-us,475,35.776,-88.990,2466
-16160,Gadsden,IN,,city-us,0,40.047,-86.346,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16162,Gadsden,AL,Etowah County,,city-us,33769,34.014,-86.007,15830
+16163,Gadsden,SC,Richland County,,city-us,919,33.846,-80.766,752
+16164,Gadsden,AZ,Yuma County,,city-us,801,32.554,-114.785,1899
+16161,Gadsden,TN,Crockett County,,city-us,475,35.776,-88.990,2466
+16160,Gadsden,IN,Boone County,,city-us,0,40.047,-86.346,263

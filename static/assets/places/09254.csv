@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46675,Whitestone,AK,,city-us,31,64.153,-145.906,442
-46674,Whitestone,ND,,city-us,23,46.163,-98.814,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46675,Whitestone,AK,Southeast Fairbanks Census Area,,city-us,31,64.153,-145.906,442
+46674,Whitestone,ND,Dickey County,,city-us,23,46.163,-98.814,0

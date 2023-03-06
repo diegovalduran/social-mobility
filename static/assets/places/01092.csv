@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5412,Brock,NE,,city-us,121,40.480,-95.959,3051
-5410,Brock,OK,,city-us,0,34.116,-97.239,116
-5411,Brock,OH,,city-us,0,40.266,-84.559,259
-5413,Brock,MO,,city-us,0,40.551,-92.152,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5412,Brock,NE,Nemaha County,,city-us,121,40.480,-95.959,3051
+5410,Brock,OK,Carter County,,city-us,0,34.116,-97.239,116
+5411,Brock,OH,Darke County,,city-us,0,40.266,-84.559,259
+5413,Brock,MO,Scotland County,,city-us,0,40.551,-92.152,248

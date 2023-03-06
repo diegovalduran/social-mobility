@@ -1,66 +1,66 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26914,Marion,OH,,city-us,43783,40.602,-83.131,590
-26911,Marion,IA,,city-us,41703,42.034,-91.598,11527
-26898,Marion,IN,,city-us,28177,40.558,-85.659,16414
-26942,Marion,IL,,city-us,16742,37.731,-88.933,12608
-26888,Marion,AR,,city-us,13695,35.215,-90.196,8387
-26912,Marion,MI,,city-us,11304,42.553,-83.973,393
-26917,Marion,NC,,city-us,7652,35.684,-82.009,12186
-26878,Marion,OH,,city-us,6570,40.810,-84.293,590
-26916,Marion,SC,,city-us,6314,34.178,-79.401,7379
-26934,Marion,VA,,city-us,5762,36.835,-81.515,4835
-26886,Marion,OH,,city-us,5521,39.303,-83.961,590
-26928,Marion,MA,,city-us,5333,41.707,-70.751,9990
-26940,Marion,NY,,city-us,4552,43.166,-77.191,3622
-26923,Marion,IL,,city-us,3884,42.090,-89.217,203
-26919,Marion,OH,,city-us,3312,40.400,-84.517,590
-26926,Marion,AL,,city-us,3178,32.632,-87.319,10379
-26902,Marion,OH,,city-us,3168,41.029,-83.585,590
-26889,Marion,KY,,city-us,2848,37.333,-88.081,5023
-26906,Marion,OH,,city-us,2505,39.621,-82.437,590
-26903,Marion,OH,,city-us,2294,40.697,-83.823,590
-26939,Marion,WI,,city-us,2055,44.025,-89.175,2199
-26913,Marion,KS,,city-us,1902,38.348,-97.017,12501
-26880,Marion,PA,,city-us,1889,40.393,-76.226,270
-26909,Marion,MS,,city-us,1738,32.417,-88.648,4388
-26885,Marion,MI,,city-us,1664,45.251,-85.266,393
-26931,Marion,MI,,city-us,1564,43.560,-82.693,393
-26927,Marion,OH,,city-us,1487,38.983,-82.851,590
-26932,Marion,WI,,city-us,1311,44.677,-88.902,806
-26905,Marion,OH,,city-us,1278,41.209,-84.053,590
-26884,Marion,PA,,city-us,1199,40.986,-77.642,270
-26920,Marion,OH,,city-us,1186,39.498,-81.883,590
-26883,Marion,PA,,city-us,1135,41.136,-79.932,270
-26895,Marion,MT,,city-us,1119,48.106,-114.663,1193
-26897,Marion,PA,,city-us,1117,39.857,-77.695,728
-26881,Marion,KS,,city-us,1112,37.833,-94.988,599
-26901,Marion,TX,,city-us,1044,29.571,-98.140,2760
-26892,Marion,KS,,city-us,851,38.793,-95.423,1576
-26936,Marion,SD,,city-us,833,43.423,-97.261,3299
-26925,Marion,MI,,city-us,792,44.103,-85.147,3309
-26879,Marion,PA,,city-us,791,40.789,-80.208,270
-26930,Marion,MI,,city-us,763,43.264,-84.338,393
-26894,Marion,OH,,city-us,725,39.580,-83.314,590
-26918,Marion,MO,,city-us,715,40.526,-93.566,814
-26899,Marion,WI,,city-us,641,43.075,-90.724,1795
-26938,Marion,LA,,city-us,622,32.902,-92.242,2755
-26922,Marion,OH,,city-us,602,39.820,-81.347,590
-26935,Marion,UT,,city-us,549,40.677,-111.281,2295
-26907,Marion,WI,,city-us,443,43.807,-89.946,1857
-26921,Marion,KS,,city-us,415,39.873,-96.184,12501
-26904,Marion,MO,,city-us,363,40.431,-93.924,814
-26915,Marion,OR,,city-us,307,44.749,-122.942,2085
-26924,Marion,MN,,city-us,271,43.944,-92.348,232
-26900,Marion,MO,,city-us,257,40.075,-93.437,814
-26890,Marion,MO,,city-us,256,39.993,-94.111,814
-26891,Marion,KS,,city-us,217,39.700,-94.993,401
-26910,Marion,IL,,city-us,213,41.715,-89.463,203
-26908,Marion,ND,,city-us,130,46.607,-98.332,3691
-26896,Marion,NE,,city-us,115,40.177,-98.896,282
-26882,Marion,ND,,city-us,15,46.249,-103.523,129
-26887,Marion,MO,,city-us,0,38.691,-92.366,847
-26893,Marion,IL,,city-us,0,38.551,-88.108,125
-26929,Marion,NE,,city-us,0,40.016,-100.481,282
-26933,Marion,IN,,city-us,0,39.588,-85.759,1092
-26937,Marion,GA,,city-us,0,32.662,-83.437,482
-26941,Marion,WV,,city-us,0,39.676,-80.771,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26914,Marion,OH,Marion County,,city-us,43783,40.602,-83.131,590
+26911,Marion,IA,Linn County,,city-us,41703,42.034,-91.598,11527
+26898,Marion,IN,Grant County,,city-us,28177,40.558,-85.659,16414
+26942,Marion,IL,Williamson County,,city-us,16742,37.731,-88.933,12608
+26888,Marion,AR,Crittenden County,,city-us,13695,35.215,-90.196,8387
+26912,Marion,MI,Livingston County,,city-us,11304,42.553,-83.973,393
+26917,Marion,NC,McDowell County,,city-us,7652,35.684,-82.009,12186
+26878,Marion,OH,Allen County,,city-us,6570,40.810,-84.293,590
+26916,Marion,SC,Marion County,,city-us,6314,34.178,-79.401,7379
+26934,Marion,VA,Smyth County,,city-us,5762,36.835,-81.515,4835
+26886,Marion,OH,Clinton County,,city-us,5521,39.303,-83.961,590
+26928,Marion,MA,Plymouth County,,city-us,5333,41.707,-70.751,9990
+26940,Marion,NY,Wayne County,,city-us,4552,43.166,-77.191,3622
+26923,Marion,IL,Ogle County,,city-us,3884,42.090,-89.217,203
+26919,Marion,OH,Mercer County,,city-us,3312,40.400,-84.517,590
+26926,Marion,AL,Perry County,,city-us,3178,32.632,-87.319,10379
+26902,Marion,OH,Hancock County,,city-us,3168,41.029,-83.585,590
+26889,Marion,KY,Crittenden County,,city-us,2848,37.333,-88.081,5023
+26906,Marion,OH,Hocking County,,city-us,2505,39.621,-82.437,590
+26903,Marion,OH,Hardin County,,city-us,2294,40.697,-83.823,590
+26939,Marion,WI,Waushara County,,city-us,2055,44.025,-89.175,2199
+26913,Marion,KS,Marion County,,city-us,1902,38.348,-97.017,12501
+26880,Marion,PA,Berks County,,city-us,1889,40.393,-76.226,270
+26909,Marion,MS,Lauderdale County,,city-us,1738,32.417,-88.648,4388
+26885,Marion,MI,Charlevoix County,,city-us,1664,45.251,-85.266,393
+26931,Marion,MI,Sanilac County,,city-us,1564,43.560,-82.693,393
+26927,Marion,OH,Pike County,,city-us,1487,38.983,-82.851,590
+26932,Marion,WI,Shawano County / Waupaca County,,city-us,1311,44.677,-88.902,806
+26905,Marion,OH,Henry County,,city-us,1278,41.209,-84.053,590
+26884,Marion,PA,Centre County,,city-us,1199,40.986,-77.642,270
+26920,Marion,OH,Morgan County,,city-us,1186,39.498,-81.883,590
+26883,Marion,PA,Butler County,,city-us,1135,41.136,-79.932,270
+26895,Marion,MT,Flathead County,,city-us,1119,48.106,-114.663,1193
+26897,Marion,PA,Franklin County,,city-us,1117,39.857,-77.695,728
+26881,Marion,KS,Bourbon County,,city-us,1112,37.833,-94.988,599
+26901,Marion,TX,Guadalupe County,,city-us,1044,29.571,-98.140,2760
+26892,Marion,KS,Douglas County,,city-us,851,38.793,-95.423,1576
+26936,Marion,SD,Turner County,,city-us,833,43.423,-97.261,3299
+26925,Marion,MI,Osceola County,,city-us,792,44.103,-85.147,3309
+26879,Marion,PA,Beaver County,,city-us,791,40.789,-80.208,270
+26930,Marion,MI,Saginaw County,,city-us,763,43.264,-84.338,393
+26894,Marion,OH,Fayette County,,city-us,725,39.580,-83.314,590
+26918,Marion,MO,Mercer County,,city-us,715,40.526,-93.566,814
+26899,Marion,WI,Grant County,,city-us,641,43.075,-90.724,1795
+26938,Marion,LA,Union Parish,,city-us,622,32.902,-92.242,2755
+26922,Marion,OH,Noble County,,city-us,602,39.820,-81.347,590
+26935,Marion,UT,Summit County,,city-us,549,40.677,-111.281,2295
+26907,Marion,WI,Juneau County,,city-us,443,43.807,-89.946,1857
+26921,Marion,KS,Nemaha County,,city-us,415,39.873,-96.184,12501
+26904,Marion,MO,Harrison County,,city-us,363,40.431,-93.924,814
+26915,Marion,OR,Marion County,,city-us,307,44.749,-122.942,2085
+26924,Marion,MN,Olmsted County,,city-us,271,43.944,-92.348,232
+26900,Marion,MO,Grundy County,,city-us,257,40.075,-93.437,814
+26890,Marion,MO,Daviess County,,city-us,256,39.993,-94.111,814
+26891,Marion,KS,Doniphan County,,city-us,217,39.700,-94.993,401
+26910,Marion,IL,Lee County,,city-us,213,41.715,-89.463,203
+26908,Marion,ND,LaMoure County,,city-us,130,46.607,-98.332,3691
+26896,Marion,NE,Franklin County,,city-us,115,40.177,-98.896,282
+26882,Marion,ND,Bowman County,,city-us,15,46.249,-103.523,129
+26887,Marion,MO,Cole County,,city-us,0,38.691,-92.366,847
+26893,Marion,IL,Edwards County,,city-us,0,38.551,-88.108,125
+26929,Marion,NE,Red Willow County,,city-us,0,40.016,-100.481,282
+26933,Marion,IN,Shelby County,,city-us,0,39.588,-85.759,1092
+26937,Marion,GA,Twiggs County,,city-us,0,32.662,-83.437,482
+26941,Marion,WV,Wetzel County,,city-us,0,39.676,-80.771,87

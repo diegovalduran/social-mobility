@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31356,North Creek,NY,,city-us,576,43.698,-73.986,1741
-31354,North Creek,OH,,city-us,0,41.146,-84.219,295
-31355,North Creek,WI,,city-us,0,44.271,-91.432,114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31356,North Creek,NY,Warren County,,city-us,576,43.698,-73.986,1741
+31354,North Creek,OH,Putnam County,,city-us,0,41.146,-84.219,295
+31355,North Creek,WI,Trempealeau County,,city-us,0,44.271,-91.432,114

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25552,Lone Oak,TN,,city-us,1198,35.201,-85.364,541
-25549,Lone Oak,TX,,city-us,725,32.997,-95.940,2527
-25550,Lone Oak,KY,,city-us,454,37.036,-88.666,2738
-25547,Lone Oak,MO,,city-us,300,38.178,-94.319,1362
-25551,Lone Oak,GA,,city-us,114,33.172,-84.816,2180
-25548,Lone Oak,KS,,city-us,0,37.437,-94.742,420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25552,Lone Oak,TN,Sequatchie County,,city-us,1198,35.201,-85.364,541
+25549,Lone Oak,TX,Hunt County,,city-us,725,32.997,-95.940,2527
+25550,Lone Oak,KY,McCracken County,,city-us,454,37.036,-88.666,2738
+25547,Lone Oak,MO,Bates County,,city-us,300,38.178,-94.319,1362
+25551,Lone Oak,GA,Meriwether County,,city-us,114,33.172,-84.816,2180
+25548,Lone Oak,KS,Crawford County,,city-us,0,37.437,-94.742,420

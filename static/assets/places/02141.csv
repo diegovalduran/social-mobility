@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10725,Curtis,MI,,city-us,1104,44.552,-83.777,4280
-10728,Curtis,NE,,city-us,805,40.630,-100.516,3529
-10726,Curtis,AR,,city-us,0,33.998,-93.106,202
-10727,Curtis,AL,,city-us,0,31.398,-86.157,192
-10729,Curtis,FL,,city-us,0,29.737,-82.898,200
-10730,Curtis,WA,,city-us,0,46.587,-123.110,904
-10731,Curtis,MI,,city-us,0,46.206,-85.745,5348
-10732,Curtis,IL,,city-us,0,40.062,-89.790,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10725,Curtis,MI,Alcona County,,city-us,1104,44.552,-83.777,4280
+10728,Curtis,NE,Frontier County,,city-us,805,40.630,-100.516,3529
+10726,Curtis,AR,Clark County,,city-us,0,33.998,-93.106,202
+10727,Curtis,AL,Coffee County,,city-us,0,31.398,-86.157,192
+10729,Curtis,FL,Gilchrist County,,city-us,0,29.737,-82.898,200
+10730,Curtis,WA,Lewis County,,city-us,0,46.587,-123.110,904
+10731,Curtis,MI,Mackinac County,,city-us,0,46.206,-85.745,5348
+10732,Curtis,IL,Menard County,,city-us,0,40.062,-89.790,121

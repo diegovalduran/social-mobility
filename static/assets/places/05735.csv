@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29516,Morning Glory,TX,,city-us,494,31.570,-106.216,1961
-29517,Morning Glory,KY,,city-us,0,38.401,-84.148,131
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29516,Morning Glory,TX,El Paso County,,city-us,494,31.570,-106.216,1961
+29517,Morning Glory,KY,Nicholas County,,city-us,0,38.401,-84.148,131

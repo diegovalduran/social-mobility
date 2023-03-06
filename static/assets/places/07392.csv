@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37550,Rosebud,SD,,city-us,1994,43.233,-100.853,2599
-37543,Rosebud,TX,,city-us,1345,31.073,-96.979,3859
-37544,Rosebud,MO,,city-us,394,38.387,-91.401,3218
-37547,Rosebud,MN,,city-us,309,47.532,-95.736,2095
-37548,Rosebud,MT,,city-us,67,46.274,-106.445,783
-37542,Rosebud,ND,,city-us,36,46.675,-98.260,131
-37546,Rosebud,SD,,city-us,35,43.528,-100.357,2599
-37545,Rosebud,GA,,city-us,0,33.799,-83.967,92
-37549,Rosebud,NC,,city-us,0,36.307,-80.181,142
-37551,Rosebud,IN,,city-us,0,38.194,-87.410,153
-37552,Rosebud,IN,,city-us,0,38.528,-86.212,246
-37553,Rosebud,AL,,city-us,0,31.941,-87.137,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37550,Rosebud,SD,Todd County,,city-us,1994,43.233,-100.853,2599
+37543,Rosebud,TX,Falls County,,city-us,1345,31.073,-96.979,3859
+37544,Rosebud,MO,Gasconade County,,city-us,394,38.387,-91.401,3218
+37547,Rosebud,MN,Polk County,,city-us,309,47.532,-95.736,2095
+37548,Rosebud,MT,Rosebud County,,city-us,67,46.274,-106.445,783
+37542,Rosebud,ND,Barnes County,,city-us,36,46.675,-98.260,131
+37546,Rosebud,SD,Mellette County,,city-us,35,43.528,-100.357,2599
+37545,Rosebud,GA,Gwinnett County,,city-us,0,33.799,-83.967,92
+37549,Rosebud,NC,Stokes County,,city-us,0,36.307,-80.181,142
+37551,Rosebud,IN,Warrick County,,city-us,0,38.194,-87.410,153
+37552,Rosebud,IN,Washington County,,city-us,0,38.528,-86.212,246
+37553,Rosebud,AL,Wilcox County,,city-us,0,31.941,-87.137,90

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29962,Mountain Dale,NY,,city-us,359,41.690,-74.531,3792
-29963,Mountain Dale,MO,,city-us,0,37.189,-92.754,579
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29962,Mountain Dale,NY,Sullivan County,,city-us,359,41.690,-74.531,3792
+29963,Mountain Dale,MO,Webster County,,city-us,0,37.189,-92.754,579

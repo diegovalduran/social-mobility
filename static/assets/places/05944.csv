@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30485,Nevada,,United States,state,3177772,38.502,-117.023,57956
-30483,Nevada,MO,,city-us,8198,37.839,-94.355,9611
-30481,Nevada,IA,,city-us,7057,42.023,-93.452,7894
-30477,Nevada,TX,,city-us,1331,33.042,-96.374,1635
-30484,Nevada,OH,,city-us,702,40.819,-83.130,3291
-30480,Nevada,KS,,city-us,355,38.630,-99.909,0
-30479,Nevada,MN,,city-us,343,43.543,-92.869,2791
-30478,Nevada,IL,,city-us,0,41.086,-88.551,370
-30482,Nevada,IN,,city-us,0,40.395,-86.004,866
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30485,Nevada,,,United States,state,3177772,38.502,-117.023,57956
+30483,Nevada,MO,Vernon County,,city-us,8198,37.839,-94.355,9611
+30481,Nevada,IA,Story County,,city-us,7057,42.023,-93.452,7894
+30477,Nevada,TX,Collin County,,city-us,1331,33.042,-96.374,1635
+30484,Nevada,OH,Wyandot County,,city-us,702,40.819,-83.130,3291
+30480,Nevada,KS,Ness County,,city-us,355,38.630,-99.909,0
+30479,Nevada,MN,Mower County,,city-us,343,43.543,-92.869,2791
+30478,Nevada,IL,Livingston County,,city-us,0,41.086,-88.551,370
+30482,Nevada,IN,Tipton County,,city-us,0,40.395,-86.004,866

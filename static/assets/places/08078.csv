@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40918,Spruce Grove,MN,,city-us,412,46.764,-95.353,184
-40919,Spruce Grove,MN,,city-us,51,48.323,-95.400,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40918,Spruce Grove,MN,Becker County,,city-us,412,46.764,-95.353,184
+40919,Spruce Grove,MN,Beltrami County,,city-us,51,48.323,-95.400,184

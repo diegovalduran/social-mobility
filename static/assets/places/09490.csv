@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47970,Yerkes,PA,,city-us,0,40.170,-75.464,207
-47971,Yerkes,KY,,city-us,0,37.277,-83.301,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47970,Yerkes,PA,Montgomery County,,city-us,0,40.170,-75.464,207
+47971,Yerkes,KY,Perry County,,city-us,0,37.277,-83.301,95

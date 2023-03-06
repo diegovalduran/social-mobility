@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-294,Agency,MO,,city-us,658,39.645,-94.740,3576
-297,Agency,IA,,city-us,619,40.995,-92.307,3523
-295,Agency,KS,,city-us,414,38.575,-95.554,71
-296,Agency,SD,,city-us,303,45.519,-97.036,1267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+294,Agency,MO,Buchanan County,,city-us,658,39.645,-94.740,3576
+297,Agency,IA,Wapello County,,city-us,619,40.995,-92.307,3523
+295,Agency,KS,Osage County,,city-us,414,38.575,-95.554,71
+296,Agency,SD,Roberts County,,city-us,303,45.519,-97.036,1267

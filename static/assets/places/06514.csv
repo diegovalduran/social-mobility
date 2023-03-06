@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33204,Parkway,CA,,city-us,16091,38.496,-121.459,2351
-33203,Parkway,MO,,city-us,662,38.338,-90.970,3067
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33204,Parkway,CA,Sacramento County,,city-us,16091,38.496,-121.459,2351
+33203,Parkway,MO,Franklin County,,city-us,662,38.338,-90.970,3067

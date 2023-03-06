@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1310,Arago,MN,,city-us,621,47.015,-95.103,1920
-1309,Arago,OR,,city-us,0,43.102,-124.192,504
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1310,Arago,MN,Hubbard County,,city-us,621,47.015,-95.103,1920
+1309,Arago,OR,Coos County,,city-us,0,43.102,-124.192,504

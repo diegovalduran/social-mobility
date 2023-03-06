@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3999,Billings,MT,,city-us,117445,45.783,-108.501,47855
-3996,Billings,MI,,city-us,2416,43.872,-84.324,2637
-3995,Billings,MO,,city-us,1131,37.068,-93.552,3700
-3997,Billings,OK,,city-us,456,36.529,-97.444,2866
-3994,Billings,ND,,city-us,10,48.579,-98.518,0
-3998,Billings,WV,,city-us,0,38.857,-81.404,194
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3999,Billings,MT,Yellowstone County,,city-us,117445,45.783,-108.501,47855
+3996,Billings,MI,Gladwin County,,city-us,2416,43.872,-84.324,2637
+3995,Billings,MO,Christian County,,city-us,1131,37.068,-93.552,3700
+3997,Billings,OK,Noble County,,city-us,456,36.529,-97.444,2866
+3994,Billings,ND,Cavalier County,,city-us,10,48.579,-98.518,0
+3998,Billings,WV,Roane County,,city-us,0,38.857,-81.404,194

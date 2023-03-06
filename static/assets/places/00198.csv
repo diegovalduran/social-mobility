@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1040,Amsterdam,,Netherlands,city-international,862965,52.367,4.883,81660
-1039,Amsterdam,NY,,city-us,5513,42.956,-74.166,18456
-1035,Amsterdam,OH,,city-us,435,40.474,-80.923,3616
-1029,Amsterdam,MO,,city-us,220,38.350,-94.589,3446
-1033,Amsterdam,MT,,city-us,165,45.758,-111.320,819
-1030,Amsterdam,VA,,city-us,0,37.427,-79.906,226
-1031,Amsterdam,TX,,city-us,0,29.245,-95.236,1767
-1032,Amsterdam,GA,,city-us,0,30.727,-84.436,329
-1034,Amsterdam,NJ,,city-us,0,40.587,-75.159,1365
-1036,Amsterdam,OH,,city-us,0,39.958,-82.378,335
-1037,Amsterdam,CA,,city-us,0,37.430,-120.542,324
-1038,Amsterdam,PA,,city-us,0,41.134,-80.134,207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1040,Amsterdam,,,Netherlands,city-international,862965,52.367,4.883,81660
+1039,Amsterdam,NY,Montgomery County,,city-us,5513,42.956,-74.166,18456
+1035,Amsterdam,OH,Jefferson County,,city-us,435,40.474,-80.923,3616
+1029,Amsterdam,MO,Bates County,,city-us,220,38.350,-94.589,3446
+1033,Amsterdam,MT,Gallatin County,,city-us,165,45.758,-111.320,819
+1030,Amsterdam,VA,Botetourt County,,city-us,0,37.427,-79.906,226
+1031,Amsterdam,TX,Brazoria County,,city-us,0,29.245,-95.236,1767
+1032,Amsterdam,GA,Decatur County,,city-us,0,30.727,-84.436,329
+1034,Amsterdam,NJ,Hunterdon County,,city-us,0,40.587,-75.159,1365
+1036,Amsterdam,OH,Licking County,,city-us,0,39.958,-82.378,335
+1037,Amsterdam,CA,Merced County,,city-us,0,37.430,-120.542,324
+1038,Amsterdam,PA,Mercer County,,city-us,0,41.134,-80.134,207

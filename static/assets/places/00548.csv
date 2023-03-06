@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2793,Baytown,TX,,city-us,82480,29.765,-94.967,22098
-2794,Baytown,MN,,city-us,2129,45.009,-92.825,2178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2793,Baytown,TX,Chambers County / Harris County,,city-us,82480,29.765,-94.967,22098
+2794,Baytown,MN,Washington County,,city-us,2129,45.009,-92.825,2178

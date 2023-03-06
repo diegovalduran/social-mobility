@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31800,Oak Run,IL,,city-us,630,40.963,-90.145,1642
-31801,Oak Run,OH,,city-us,528,39.807,-83.373,1059
-31802,Oak Run,CA,,city-us,0,40.685,-122.024,1438
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31800,Oak Run,IL,Knox County,,city-us,630,40.963,-90.145,1642
+31801,Oak Run,OH,Madison County,,city-us,528,39.807,-83.373,1059
+31802,Oak Run,CA,Shasta County,,city-us,0,40.685,-122.024,1438

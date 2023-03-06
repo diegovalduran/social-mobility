@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40771,Springdale,AR,,city-us,87609,36.191,-94.155,23898
-40772,Springdale,NJ,,city-us,15393,39.903,-74.966,2059
-40777,Springdale,OH,,city-us,10910,39.287,-84.485,3472
-40786,Springdale,MD,,city-us,5055,38.938,-76.839,2282
-40770,Springdale,PA,,city-us,3349,40.541,-79.784,3158
-40781,Springdale,SC,,city-us,2746,33.959,-81.109,2062
-40779,Springdale,SC,,city-us,2593,34.689,-80.786,2593
-40782,Springdale,SD,,city-us,2183,43.463,-96.655,0
-40775,Springdale,WI,,city-us,2050,42.976,-89.652,2494
-40776,Springdale,NC,,city-us,1203,35.289,-81.145,572
-40783,Springdale,MI,,city-us,973,44.478,-85.992,1936
-40790,Springdale,KS,,city-us,674,37.344,-97.639,292
-40792,Springdale,UT,,city-us,553,37.189,-112.999,3006
-40789,Springdale,WA,,city-us,243,48.057,-117.741,4982
-40787,Springdale,MN,,city-us,191,44.240,-95.535,1898
-40788,Springdale,SD,,city-us,111,45.366,-96.914,0
-40785,Springdale,MT,,city-us,40,45.738,-110.227,709
-40773,Springdale,ID,,city-us,0,42.516,-113.691,228
-40774,Springdale,IA,,city-us,0,41.671,-91.259,1596
-40778,Springdale,MS,,city-us,0,34.222,-89.609,301
-40780,Springdale,KS,,city-us,0,39.259,-95.124,292
-40784,Springdale,OR,,city-us,0,45.519,-122.330,554
-40791,Springdale,NJ,,city-us,0,41.020,-74.769,450
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40771,Springdale,AR,Benton County / Washington County,,city-us,87609,36.191,-94.155,23898
+40772,Springdale,NJ,Camden County,,city-us,15393,39.903,-74.966,2059
+40777,Springdale,OH,Hamilton County,,city-us,10910,39.287,-84.485,3472
+40786,Springdale,MD,Prince George's County,,city-us,5055,38.938,-76.839,2282
+40770,Springdale,PA,Allegheny County,,city-us,3349,40.541,-79.784,3158
+40781,Springdale,SC,Lexington County,,city-us,2746,33.959,-81.109,2062
+40779,Springdale,SC,Lancaster County,,city-us,2593,34.689,-80.786,2593
+40782,Springdale,SD,Lincoln County,,city-us,2183,43.463,-96.655,0
+40775,Springdale,WI,Dane County,,city-us,2050,42.976,-89.652,2494
+40776,Springdale,NC,Gaston County,,city-us,1203,35.289,-81.145,572
+40783,Springdale,MI,Manistee County,,city-us,973,44.478,-85.992,1936
+40790,Springdale,KS,Sumner County,,city-us,674,37.344,-97.639,292
+40792,Springdale,UT,Washington County,,city-us,553,37.189,-112.999,3006
+40789,Springdale,WA,Stevens County,,city-us,243,48.057,-117.741,4982
+40787,Springdale,MN,Redwood County,,city-us,191,44.240,-95.535,1898
+40788,Springdale,SD,Roberts County,,city-us,111,45.366,-96.914,0
+40785,Springdale,MT,Park County,,city-us,40,45.738,-110.227,709
+40773,Springdale,ID,Cassia County,,city-us,0,42.516,-113.691,228
+40774,Springdale,IA,Cedar County,,city-us,0,41.671,-91.259,1596
+40778,Springdale,MS,Lafayette County,,city-us,0,34.222,-89.609,301
+40780,Springdale,KS,Leavenworth County,,city-us,0,39.259,-95.124,292
+40784,Springdale,OR,Multnomah County,,city-us,0,45.519,-122.330,554
+40791,Springdale,NJ,Sussex County,,city-us,0,41.020,-74.769,450

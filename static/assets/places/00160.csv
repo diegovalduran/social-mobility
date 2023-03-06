@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-828,Alta Vista,KS,,city-us,422,38.864,-96.489,4753
-825,Alta Vista,IA,,city-us,228,43.199,-92.417,3049
-827,Alta Vista,MN,,city-us,161,44.589,-96.148,1782
-826,Alta Vista,MO,,city-us,0,39.909,-94.205,433
+id,name,state,county,country,level,population,latitude,longitude,wiki
+828,Alta Vista,KS,Wabaunsee County,,city-us,422,38.864,-96.489,4753
+825,Alta Vista,IA,Chickasaw County,,city-us,228,43.199,-92.417,3049
+827,Alta Vista,MN,Lincoln County,,city-us,161,44.589,-96.148,1782
+826,Alta Vista,MO,Daviess County,,city-us,0,39.909,-94.205,433

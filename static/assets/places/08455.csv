@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42659,Tennessee,,United States,state,7051339,35.831,-85.979,82922
-42658,Tennessee,IL,,city-us,96,40.412,-90.839,1829
-42657,Tennessee,AR,,city-us,0,33.631,-91.849,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42659,Tennessee,,,United States,state,7051339,35.831,-85.979,82922
+42658,Tennessee,IL,McDonough County,,city-us,96,40.412,-90.839,1829
+42657,Tennessee,AR,Drew County,,city-us,0,33.631,-91.849,159

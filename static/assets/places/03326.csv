@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16842,Gimlet,ID,,city-us,0,43.604,-114.350,445
-16843,Gimlet,KY,,city-us,0,38.219,-83.138,367
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16842,Gimlet,ID,Blaine County,,city-us,0,43.604,-114.350,445
+16843,Gimlet,KY,Elliott County,,city-us,0,38.219,-83.138,367

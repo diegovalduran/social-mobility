@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44361,Verdigris,OK,,city-us,5461,36.235,-95.691,2214
-44360,Verdigris,NE,,city-us,313,42.389,-98.387,213
-44362,Verdigris,KS,,city-us,276,37.677,-95.909,187
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44361,Verdigris,OK,Rogers County,,city-us,5461,36.235,-95.691,2214
+44360,Verdigris,NE,Holt County,,city-us,313,42.389,-98.387,213
+44362,Verdigris,KS,Wilson County,,city-us,276,37.677,-95.909,187

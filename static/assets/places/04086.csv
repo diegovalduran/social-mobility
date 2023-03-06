@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21014,Humphrey,NE,,city-us,842,41.692,-97.484,3346
-21012,Humphrey,NY,,city-us,697,42.231,-78.497,3624
-21011,Humphrey,AR,,city-us,464,34.422,-91.702,2126
-21013,Humphrey,ID,,city-us,0,44.488,-112.234,216
-21015,Humphrey,WV,,city-us,0,39.142,-81.731,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21014,Humphrey,NE,Platte County,,city-us,842,41.692,-97.484,3346
+21012,Humphrey,NY,Cattaraugus County,,city-us,697,42.231,-78.497,3624
+21011,Humphrey,AR,Arkansas County / Jefferson County,,city-us,464,34.422,-91.702,2126
+21013,Humphrey,ID,Clark County,,city-us,0,44.488,-112.234,216
+21015,Humphrey,WV,Wood County,,city-us,0,39.142,-81.731,87

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13500,Elmdale,MI,,city-us,2243,42.820,-85.252,2639
-13502,Elmdale,MN,,city-us,982,45.810,-94.544,1951
-13503,Elmdale,ND,,city-us,44,48.674,-102.158,0
-13499,Elmdale,KS,,city-us,42,38.374,-96.645,5380
-13501,Elmdale,IN,,city-us,0,40.137,-87.017,470
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13500,Elmdale,MI,Ionia County,,city-us,2243,42.820,-85.252,2639
+13502,Elmdale,MN,Morrison County,,city-us,982,45.810,-94.544,1951
+13503,Elmdale,ND,Ward County,,city-us,44,48.674,-102.158,0
+13499,Elmdale,KS,Chase County,,city-us,42,38.374,-96.645,5380
+13501,Elmdale,IN,Montgomery County,,city-us,0,40.137,-87.017,470

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23083,Kiowa,KS,,city-us,950,37.029,-98.499,162
-23084,Kiowa,CO,,city-us,732,39.347,-104.464,3280
-23085,Kiowa,OK,,city-us,591,34.721,-95.899,2246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23083,Kiowa,KS,Barber County,,city-us,950,37.029,-98.499,162
+23084,Kiowa,CO,Elbert County,,city-us,732,39.347,-104.464,3280
+23085,Kiowa,OK,Pittsburg County,,city-us,591,34.721,-95.899,2246

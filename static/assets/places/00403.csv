@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2155,Bachelor,KS,,city-us,191,37.834,-96.207,353
-2154,Bachelor,MO,,city-us,0,38.993,-91.772,403
-2661,Batchelor,LA,,city-us,0,30.841,-91.661,330
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2155,Bachelor,KS,Greenwood County,,city-us,191,37.834,-96.207,353
+2154,Bachelor,MO,Callaway County,,city-us,0,38.993,-91.772,403
+2661,Batchelor,LA,Pointe Coupee Parish,,city-us,0,30.841,-91.661,330

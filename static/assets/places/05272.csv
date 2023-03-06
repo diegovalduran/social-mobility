@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27051,Marshallville,GA,,city-us,1053,32.456,-83.940,2374
-27053,Marshallville,OH,,city-us,794,40.902,-81.734,3857
-27050,Marshallville,NJ,,city-us,205,39.297,-74.769,663
-27052,Marshallville,KY,,city-us,0,37.678,-82.989,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27051,Marshallville,GA,Macon County,,city-us,1053,32.456,-83.940,2374
+27053,Marshallville,OH,Wayne County,,city-us,794,40.902,-81.734,3857
+27050,Marshallville,NJ,Cape May County,,city-us,205,39.297,-74.769,663
+27052,Marshallville,KY,Magoffin County,,city-us,0,37.678,-82.989,95

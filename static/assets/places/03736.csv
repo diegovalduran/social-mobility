@@ -1,23 +1,23 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19116,Hartford,CT,,city-us,120576,41.766,-72.682,57159
-19118,Hartford,WI,,city-us,15747,43.322,-88.378,16117
-19135,Hartford,WI,,city-us,3397,43.330,-88.360,16117
-19132,Hartford,MI,,city-us,3002,42.168,-86.182,1963
-19125,Hartford,KY,,city-us,2662,37.451,-86.909,8589
-19119,Hartford,AL,,city-us,2651,31.102,-85.697,3730
-19134,Hartford,NY,,city-us,2177,43.356,-73.413,3183
-19126,Hartford,ME,,city-us,1227,44.394,-70.331,3572
-19122,Hartford,IL,,city-us,1189,38.833,-90.096,4347
-19117,Hartford,TN,,city-us,814,35.817,-83.143,8634
-19133,Hartford,IA,,city-us,730,41.459,-93.405,3303
-19123,Hartford,SD,,city-us,694,43.638,-96.960,3349
-19130,Hartford,MN,,city-us,646,46.063,-94.824,1871
-19129,Hartford,AR,,city-us,501,35.023,-94.381,4348
-19120,Hartford,OH,,city-us,404,40.240,-82.691,3387
-19121,Hartford,KS,,city-us,356,38.308,-95.956,3454
-19115,Hartford,NJ,,city-us,0,39.976,-74.894,701
-19124,Hartford,IN,,city-us,0,38.993,-84.957,563
-19127,Hartford,GA,,city-us,0,32.286,-83.449,584
-19128,Hartford,MO,,city-us,0,40.470,-92.836,294
-19131,Hartford,OH,,city-us,0,41.311,-80.568,581
-19136,Hartford,VT,,city-us,0,43.663,-72.340,2337
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19116,Hartford,CT,Capitol Planning Region,,city-us,120576,41.766,-72.682,57159
+19118,Hartford,WI,Dodge County / Washington County,,city-us,15747,43.322,-88.378,16117
+19135,Hartford,WI,Washington County,,city-us,3397,43.330,-88.360,16117
+19132,Hartford,MI,Van Buren County,,city-us,3002,42.168,-86.182,1963
+19125,Hartford,KY,Ohio County,,city-us,2662,37.451,-86.909,8589
+19119,Hartford,AL,Geneva County,,city-us,2651,31.102,-85.697,3730
+19134,Hartford,NY,Washington County,,city-us,2177,43.356,-73.413,3183
+19126,Hartford,ME,Oxford County,,city-us,1227,44.394,-70.331,3572
+19122,Hartford,IL,Madison County,,city-us,1189,38.833,-90.096,4347
+19117,Hartford,TN,Cocke County,,city-us,814,35.817,-83.143,8634
+19133,Hartford,IA,Warren County,,city-us,730,41.459,-93.405,3303
+19123,Hartford,SD,Minnehaha County,,city-us,694,43.638,-96.960,3349
+19130,Hartford,MN,Todd County,,city-us,646,46.063,-94.824,1871
+19129,Hartford,AR,Sebastian County,,city-us,501,35.023,-94.381,4348
+19120,Hartford,OH,Licking County,,city-us,404,40.240,-82.691,3387
+19121,Hartford,KS,Lyon County,,city-us,356,38.308,-95.956,3454
+19115,Hartford,NJ,Burlington County,,city-us,0,39.976,-74.894,701
+19124,Hartford,IN,Ohio County,,city-us,0,38.993,-84.957,563
+19127,Hartford,GA,Pulaski County,,city-us,0,32.286,-83.449,584
+19128,Hartford,MO,Putnam County,,city-us,0,40.470,-92.836,294
+19131,Hartford,OH,Trumbull County,,city-us,0,41.311,-80.568,581
+19136,Hartford,VT,Windsor County,,city-us,0,43.663,-72.340,2337

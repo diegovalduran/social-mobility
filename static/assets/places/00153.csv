@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-785,Alpha,NJ,,city-us,2337,40.667,-75.157,11909
-779,Alpha,IL,,city-us,668,41.192,-90.380,2707
-781,Alpha,MI,,city-us,122,46.044,-88.377,3158
-782,Alpha,MN,,city-us,98,43.639,-94.871,3225
-778,Alpha,SD,,city-us,54,44.584,-98.999,0
-775,Alpha,TX,,city-us,50,32.939,-96.803,1718
-772,Alpha,VA,,city-us,0,37.583,-78.417,91
-773,Alpha,WI,,city-us,0,45.772,-92.569,2201
-774,Alpha,KY,,city-us,0,36.762,-85.010,374
-776,Alpha,IA,,city-us,0,42.997,-92.048,419
-777,Alpha,MO,,city-us,0,39.985,-93.421,917
-780,Alpha,MD,,city-us,0,39.321,-76.928,406
-783,Alpha,OR,,city-us,0,44.164,-123.701,385
-784,Alpha,WA,,city-us,0,46.611,-122.605,1055
-786,Alpha,AR,,city-us,0,35.116,-93.281,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+785,Alpha,NJ,Warren County,,city-us,2337,40.667,-75.157,11909
+779,Alpha,IL,Henry County,,city-us,668,41.192,-90.380,2707
+781,Alpha,MI,Iron County,,city-us,122,46.044,-88.377,3158
+782,Alpha,MN,Jackson County,,city-us,98,43.639,-94.871,3225
+778,Alpha,SD,Hand County,,city-us,54,44.584,-98.999,0
+775,Alpha,TX,Dallas County,,city-us,50,32.939,-96.803,1718
+772,Alpha,VA,Buckingham County,,city-us,0,37.583,-78.417,91
+773,Alpha,WI,Burnett County,,city-us,0,45.772,-92.569,2201
+774,Alpha,KY,Clinton County,,city-us,0,36.762,-85.010,374
+776,Alpha,IA,Fayette County,,city-us,0,42.997,-92.048,419
+777,Alpha,MO,Grundy County,,city-us,0,39.985,-93.421,917
+780,Alpha,MD,Howard County,,city-us,0,39.321,-76.928,406
+783,Alpha,OR,Lane County,,city-us,0,44.164,-123.701,385
+784,Alpha,WA,Lewis County,,city-us,0,46.611,-122.605,1055
+786,Alpha,AR,Yell County,,city-us,0,35.116,-93.281,147

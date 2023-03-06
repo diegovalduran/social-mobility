@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35294,Prattsburgh,NY,,city-us,842,42.524,-77.289,3375
-35293,Prattsburg,IN,,city-us,0,39.162,-85.188,358
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35294,Prattsburgh,NY,Steuben County,,city-us,842,42.524,-77.289,3375
+35293,Prattsburg,IN,Ripley County,,city-us,0,39.162,-85.188,358

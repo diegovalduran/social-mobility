@@ -28,8 +28,8 @@
 	onMount(async () => {
 		try {
 			// TODO remove test
-			const test = false;
-			const storageLocation = undefined; // storage.get("pudding_samename");
+			const test = true;
+			const storageLocation = storage.get("pudding_samename");
 			location = storageLocation || (await getLocation(test)) || {};
 			if (!storageLocation && location?.state)
 				storage.set("pudding_samename", location);

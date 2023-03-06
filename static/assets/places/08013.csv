@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40458,Southgate,MI,,city-us,29896,42.214,-83.194,9095
-40457,Southgate,FL,,city-us,6045,27.308,-82.510,2459
-40456,Southgate,KY,,city-us,3646,39.072,-84.473,2689
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40458,Southgate,MI,Wayne County,,city-us,29896,42.214,-83.194,9095
+40457,Southgate,FL,Sarasota County,,city-us,6045,27.308,-82.510,2459
+40456,Southgate,KY,Campbell County,,city-us,3646,39.072,-84.473,2689

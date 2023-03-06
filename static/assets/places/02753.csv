@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13716,Emporia,VA,,city-us,5667,36.686,-77.542,10520
-13717,Emporia,KS,,city-us,947,38.368,-96.168,110
-13718,Emporia,IN,,city-us,0,40.004,-85.634,471
-13719,Emporia,FL,,city-us,0,29.202,-81.468,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13716,Emporia,VA,Emporia city,,city-us,5667,36.686,-77.542,10520
+13717,Emporia,KS,Lyon County,,city-us,947,38.368,-96.168,110
+13718,Emporia,IN,Madison County,,city-us,0,40.004,-85.634,471
+13719,Emporia,FL,Volusia County,,city-us,0,29.202,-81.468,202

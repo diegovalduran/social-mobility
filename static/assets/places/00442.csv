@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2332,Ballplay,AL,,city-us,1437,34.059,-85.808,403
-2333,Ballplay,TN,,city-us,0,35.464,-84.206,206
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2332,Ballplay,AL,Etowah County,,city-us,1437,34.059,-85.808,403
+2333,Ballplay,TN,Monroe County,,city-us,0,35.464,-84.206,206

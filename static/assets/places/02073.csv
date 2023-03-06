@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10433,Crooked Lake,MN,,city-us,516,46.827,-93.985,2871
-10434,Crooked Lake,IN,,city-us,0,41.680,-85.037,543
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10433,Crooked Lake,MN,Cass County,,city-us,516,46.827,-93.985,2871
+10434,Crooked Lake,IN,Steuben County,,city-us,0,41.680,-85.037,543

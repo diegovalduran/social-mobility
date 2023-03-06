@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9012,Clover Hill,MD,,city-us,3260,39.457,-77.427,2341
-9010,Clover Hill,VA,,city-us,0,38.117,-78.483,75
-9011,Clover Hill,MS,,city-us,0,34.275,-90.544,475
-9013,Clover Hill,VA,,city-us,0,38.452,-79.030,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9012,Clover Hill,MD,Frederick County,,city-us,3260,39.457,-77.427,2341
+9010,Clover Hill,VA,Albemarle County,,city-us,0,38.117,-78.483,75
+9011,Clover Hill,MS,Coahoma County,,city-us,0,34.275,-90.544,475
+9013,Clover Hill,VA,Rockingham County,,city-us,0,38.452,-79.030,104

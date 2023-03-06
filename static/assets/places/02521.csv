@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12589,Eagle Creek,IL,,city-us,164,37.648,-88.325,980
-12587,Eagle Creek,PA,,city-us,140,40.895,-77.892,829
-12588,Eagle Creek,OR,,city-us,0,45.358,-122.362,871
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12589,Eagle Creek,IL,Gallatin County,,city-us,164,37.648,-88.325,980
+12587,Eagle Creek,PA,Centre County,,city-us,140,40.895,-77.892,829
+12588,Eagle Creek,OR,Clackamas County,,city-us,0,45.358,-122.362,871

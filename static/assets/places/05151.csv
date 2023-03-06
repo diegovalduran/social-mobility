@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26434,Mahoning,PA,,city-us,4604,40.965,-76.603,553
-26432,Mahoning,PA,,city-us,4283,40.809,-75.765,553
-26433,Mahoning,PA,,city-us,2689,41.034,-80.474,553
-26431,Mahoning,PA,,city-us,1393,40.957,-79.339,553
-26435,Mahoning,OH,,city-us,0,41.259,-81.049,498
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26434,Mahoning,PA,Montour County,,city-us,4604,40.965,-76.603,553
+26432,Mahoning,PA,Carbon County,,city-us,4283,40.809,-75.765,553
+26433,Mahoning,PA,Lawrence County,,city-us,2689,41.034,-80.474,553
+26431,Mahoning,PA,Armstrong County,,city-us,1393,40.957,-79.339,553
+26435,Mahoning,OH,Portage County,,city-us,0,41.259,-81.049,498

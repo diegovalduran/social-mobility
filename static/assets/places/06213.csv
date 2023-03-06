@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31684,Oak Glen,NJ,,city-us,53537,40.178,-74.206,23313
-31685,Oak Glen,CA,,city-us,274,34.049,-116.948,6796
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31684,Oak Glen,NJ,Monmouth County,,city-us,53537,40.178,-74.206,23313
+31685,Oak Glen,CA,San Bernardino County,,city-us,274,34.049,-116.948,6796

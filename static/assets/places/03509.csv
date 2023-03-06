@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17815,Green Bay,WI,,city-us,2190,44.600,-87.796,3337
-17816,Green Bay,AL,,city-us,0,31.178,-86.289,313
-17817,Green Bay,VA,,city-us,0,37.965,-77.695,129
-17818,Green Bay,VA,,city-us,0,37.134,-78.315,679
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17815,Green Bay,WI,Brown County,,city-us,2190,44.600,-87.796,3337
+17816,Green Bay,AL,Covington County,,city-us,0,31.178,-86.289,313
+17817,Green Bay,VA,Hanover County,,city-us,0,37.965,-77.695,129
+17818,Green Bay,VA,Prince Edward County,,city-us,0,37.134,-78.315,679

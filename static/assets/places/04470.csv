@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23002,Kingsburg,CA,,city-us,12662,36.514,-119.554,9321
-23000,Kingsburg,SD,,city-us,0,42.914,-97.931,269
-23001,Kingsburg,SC,,city-us,0,33.881,-79.452,326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23002,Kingsburg,CA,Fresno County,,city-us,12662,36.514,-119.554,9321
+23000,Kingsburg,SD,Bon Homme County,,city-us,0,42.914,-97.931,269
+23001,Kingsburg,SC,Florence County,,city-us,0,33.881,-79.452,326

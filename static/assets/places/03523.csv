@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17854,Green Ridge,MO,,city-us,475,38.620,-93.409,3230
-17853,Green Ridge,WV,,city-us,0,39.587,-78.439,970
-17855,Green Ridge,AR,,city-us,0,34.924,-94.024,250
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17854,Green Ridge,MO,Pettis County,,city-us,475,38.620,-93.409,3230
+17853,Green Ridge,WV,Morgan County,,city-us,0,39.587,-78.439,970
+17855,Green Ridge,AR,Scott County,,city-us,0,34.924,-94.024,250

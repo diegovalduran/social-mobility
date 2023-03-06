@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33941,Pickerel,WI,,city-us,0,45.359,-88.911,452
-33942,Pickerel,VA,,city-us,0,36.977,-79.411,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33941,Pickerel,WI,Langlade County,,city-us,0,45.359,-88.911,452
+33942,Pickerel,VA,Pittsylvania County,,city-us,0,36.977,-79.411,96

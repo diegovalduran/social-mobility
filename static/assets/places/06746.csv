@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34270,Pink,OK,,city-us,2123,35.261,-97.120,31217
-34268,Pink,WV,,city-us,0,38.785,-81.220,114
-34269,Pink,KY,,city-us,0,37.779,-84.551,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34270,Pink,OK,Pottawatomie County,,city-us,2123,35.261,-97.120,31217
+34268,Pink,WV,Calhoun County,,city-us,0,38.785,-81.220,114
+34269,Pink,KY,Jessamine County,,city-us,0,37.779,-84.551,177

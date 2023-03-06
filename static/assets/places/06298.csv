@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32168,Oldtown,ID,,city-us,235,48.179,-117.038,3543
-32167,Oldtown,MD,,city-us,67,39.541,-78.611,4296
-32169,Oldtown,OH,,city-us,0,39.730,-83.938,540
-32170,Oldtown,KY,,city-us,0,38.440,-82.898,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32168,Oldtown,ID,Bonner County,,city-us,235,48.179,-117.038,3543
+32167,Oldtown,MD,Allegany County,,city-us,67,39.541,-78.611,4296
+32169,Oldtown,OH,Greene County,,city-us,0,39.730,-83.938,540
+32170,Oldtown,KY,Greenup County,,city-us,0,38.440,-82.898,280

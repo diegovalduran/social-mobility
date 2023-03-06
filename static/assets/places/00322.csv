@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1651,Asher,OK,,city-us,374,34.990,-96.924,11615
-1650,Asher,KY,,city-us,0,37.044,-83.404,108
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1651,Asher,OK,Pottawatomie County,,city-us,374,34.990,-96.924,11615
+1650,Asher,KY,Leslie County,,city-us,0,37.044,-83.404,108

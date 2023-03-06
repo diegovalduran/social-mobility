@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47529,Wooddale,DE,,city-us,0,39.766,-75.637,499
-47530,Wooddale,WI,,city-us,0,45.685,-91.461,116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47529,Wooddale,DE,New Castle County,,city-us,0,39.766,-75.637,499
+47530,Wooddale,WI,Sawyer County,,city-us,0,45.685,-91.461,116

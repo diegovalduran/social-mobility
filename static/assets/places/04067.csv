@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20898,Hubbard,OH,,city-us,7610,41.156,-80.569,5122
-20894,Hubbard,OR,,city-us,3440,45.182,-122.808,3550
-20890,Hubbard,WI,,city-us,1747,43.413,-88.579,2166
-20892,Hubbard,TX,,city-us,1402,31.848,-96.797,3349
-20891,Hubbard,IA,,city-us,851,42.306,-93.300,3681
-20893,Hubbard,MN,,city-us,785,46.856,-94.963,162
-20897,Hubbard,WI,,city-us,184,45.603,-91.134,1877
-20889,Hubbard,NE,,city-us,163,42.387,-96.589,3130
-20895,Hubbard,MN,,city-us,60,47.550,-96.783,162
-20888,Hubbard,TX,,city-us,0,33.466,-94.639,767
-20896,Hubbard,MO,,city-us,0,39.583,-92.693,438
-20899,Hubbard,AR,,city-us,0,35.905,-94.320,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20898,Hubbard,OH,Trumbull County,,city-us,7610,41.156,-80.569,5122
+20894,Hubbard,OR,Marion County,,city-us,3440,45.182,-122.808,3550
+20890,Hubbard,WI,Dodge County,,city-us,1747,43.413,-88.579,2166
+20892,Hubbard,TX,Hill County,,city-us,1402,31.848,-96.797,3349
+20891,Hubbard,IA,Hardin County,,city-us,851,42.306,-93.300,3681
+20893,Hubbard,MN,Hubbard County,,city-us,785,46.856,-94.963,162
+20897,Hubbard,WI,Rusk County,,city-us,184,45.603,-91.134,1877
+20889,Hubbard,NE,Dakota County,,city-us,163,42.387,-96.589,3130
+20895,Hubbard,MN,Polk County,,city-us,60,47.550,-96.783,162
+20888,Hubbard,TX,Bowie County,,city-us,0,33.466,-94.639,767
+20896,Hubbard,MO,Randolph County,,city-us,0,39.583,-92.693,438
+20899,Hubbard,AR,Washington County,,city-us,0,35.905,-94.320,290

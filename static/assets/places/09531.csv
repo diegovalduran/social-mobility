@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48176,Zwolle,,Netherlands,city-international,124914,52.517,6.100,12438
-48175,Zwolle,LA,,city-us,1623,31.632,-93.644,7687
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48176,Zwolle,,,Netherlands,city-international,124914,52.517,6.100,12438
+48175,Zwolle,LA,Sabine Parish,,city-us,1623,31.632,-93.644,7687

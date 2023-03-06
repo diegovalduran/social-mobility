@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-483,Alden,NY,,city-us,9755,42.907,-78.521,5518
-490,Alden,WI,,city-us,2966,45.253,-92.509,2053
-486,Alden,IA,,city-us,748,42.520,-93.376,3872
-484,Alden,MN,,city-us,580,43.670,-93.576,3261
-492,Alden,MN,,city-us,197,47.087,-91.880,205
-489,Alden,IL,,city-us,188,42.459,-88.518,1262
-481,Alden,MI,,city-us,123,44.881,-85.276,1228
-491,Alden,KS,,city-us,120,38.242,-98.312,3507
-485,Alden,SD,,city-us,18,44.678,-99.130,1712
-482,Alden,OK,,city-us,0,34.975,-98.585,178
-487,Alden,VA,,city-us,0,38.274,-77.072,86
-488,Alden,PA,,city-us,0,41.182,-76.013,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+483,Alden,NY,Erie County,,city-us,9755,42.907,-78.521,5518
+490,Alden,WI,Polk County,,city-us,2966,45.253,-92.509,2053
+486,Alden,IA,Hardin County,,city-us,748,42.520,-93.376,3872
+484,Alden,MN,Freeborn County,,city-us,580,43.670,-93.576,3261
+492,Alden,MN,St. Louis County,,city-us,197,47.087,-91.880,205
+489,Alden,IL,McHenry County,,city-us,188,42.459,-88.518,1262
+481,Alden,MI,Antrim County,,city-us,123,44.881,-85.276,1228
+491,Alden,KS,Rice County,,city-us,120,38.242,-98.312,3507
+485,Alden,SD,Hand County,,city-us,18,44.678,-99.130,1712
+482,Alden,OK,Caddo County,,city-us,0,34.975,-98.585,178
+487,Alden,VA,King George County,,city-us,0,38.274,-77.072,86
+488,Alden,PA,Luzerne County,,city-us,0,41.182,-76.013,225

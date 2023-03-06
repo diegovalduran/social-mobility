@@ -1,21 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-728,Alma,MI,,city-us,9404,43.379,-84.660,7912
-726,Alma,AR,,city-us,5850,35.478,-94.222,7148
-721,Alma,GA,,city-us,3397,31.539,-82.462,4016
-730,Alma,WI,,city-us,1036,44.441,-90.855,2017
-729,Alma,NE,,city-us,1022,40.098,-99.362,4969
-739,Alma,KS,,city-us,799,39.017,-96.289,4609
-733,Alma,IL,,city-us,780,38.699,-88.859,640
-720,Alma,NY,,city-us,779,42.048,-78.016,4324
-722,Alma,WI,,city-us,713,44.320,-91.915,2306
-731,Alma,MO,,city-us,398,39.095,-93.545,3756
-727,Alma,TX,,city-us,392,32.285,-96.546,2001
-736,Alma,CO,,city-us,298,39.284,-106.063,4604
-734,Alma,MN,,city-us,78,48.333,-96.686,1738
-723,Alma,NM,,city-us,47,33.379,-108.903,2992
-724,Alma,ND,,city-us,41,48.674,-98.122,0
-725,Alma,AL,,city-us,0,31.464,-87.753,336
-732,Alma,OR,,city-us,0,43.891,-123.475,423
-735,Alma,VA,,city-us,0,38.591,-78.558,647
-737,Alma,OH,,city-us,0,39.188,-82.979,215
-738,Alma,OK,,city-us,0,34.419,-97.612,354
+id,name,state,county,country,level,population,latitude,longitude,wiki
+728,Alma,MI,Gratiot County,,city-us,9404,43.379,-84.660,7912
+726,Alma,AR,Crawford County,,city-us,5850,35.478,-94.222,7148
+721,Alma,GA,Bacon County,,city-us,3397,31.539,-82.462,4016
+730,Alma,WI,Jackson County,,city-us,1036,44.441,-90.855,2017
+729,Alma,NE,Harlan County,,city-us,1022,40.098,-99.362,4969
+739,Alma,KS,Wabaunsee County,,city-us,799,39.017,-96.289,4609
+733,Alma,IL,Marion County,,city-us,780,38.699,-88.859,640
+720,Alma,NY,Allegany County,,city-us,779,42.048,-78.016,4324
+722,Alma,WI,Buffalo County,,city-us,713,44.320,-91.915,2306
+731,Alma,MO,Lafayette County,,city-us,398,39.095,-93.545,3756
+727,Alma,TX,Ellis County,,city-us,392,32.285,-96.546,2001
+736,Alma,CO,Park County,,city-us,298,39.284,-106.063,4604
+734,Alma,MN,Marshall County,,city-us,78,48.333,-96.686,1738
+723,Alma,NM,Catron County,,city-us,47,33.379,-108.903,2992
+724,Alma,ND,Cavalier County,,city-us,41,48.674,-98.122,0
+725,Alma,AL,Clarke County,,city-us,0,31.464,-87.753,336
+732,Alma,OR,Lane County,,city-us,0,43.891,-123.475,423
+735,Alma,VA,Page County,,city-us,0,38.591,-78.558,647
+737,Alma,OH,Ross County,,city-us,0,39.188,-82.979,215
+738,Alma,OK,Stephens County,,city-us,0,34.419,-97.612,354

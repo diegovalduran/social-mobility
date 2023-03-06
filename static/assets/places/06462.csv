@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32909,Palatine,IL,,city-us,66321,42.110,-88.034,11516
-32910,Palatine,NY,,city-us,3200,42.951,-74.537,4817
-32908,Palatine,SD,,city-us,67,43.808,-98.379,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32909,Palatine,IL,Cook County,,city-us,66321,42.110,-88.034,11516
+32910,Palatine,NY,Montgomery County,,city-us,3200,42.951,-74.537,4817
+32908,Palatine,SD,Aurora County,,city-us,67,43.808,-98.379,0

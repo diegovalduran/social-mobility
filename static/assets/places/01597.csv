@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8081,Cherry Creek,CO,,city-us,11389,39.635,-104.883,958
-8082,Cherry Creek,NY,,city-us,452,42.294,-79.100,4220
-8086,Cherry Creek,SD,,city-us,282,44.606,-101.499,322
-8085,Cherry Creek,NV,,city-us,72,39.904,-114.890,4623
-8083,Cherry Creek,ID,,city-us,0,42.098,-112.229,173
-8084,Cherry Creek,MS,,city-us,0,34.351,-88.988,193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8081,Cherry Creek,CO,Arapahoe County,,city-us,11389,39.635,-104.883,958
+8082,Cherry Creek,NY,Chautauqua County,,city-us,452,42.294,-79.100,4220
+8086,Cherry Creek,SD,Ziebach County,,city-us,282,44.606,-101.499,322
+8085,Cherry Creek,NV,White Pine County,,city-us,72,39.904,-114.890,4623
+8083,Cherry Creek,ID,Oneida County,,city-us,0,42.098,-112.229,173
+8084,Cherry Creek,MS,Pontotoc County,,city-us,0,34.351,-88.988,193

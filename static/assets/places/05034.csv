@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25842,Lovell,WY,,city-us,2271,44.837,-108.390,4585
-25845,Lovell,ME,,city-us,1120,44.192,-70.886,10116
-25843,Lovell,ND,,city-us,52,45.979,-98.070,0
-25844,Lovell,OK,,city-us,6,36.057,-97.635,393
-25846,Lovell,OH,,city-us,0,40.891,-83.332,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25842,Lovell,WY,Big Horn County,,city-us,2271,44.837,-108.390,4585
+25845,Lovell,ME,Oxford County,,city-us,1120,44.192,-70.886,10116
+25843,Lovell,ND,Dickey County,,city-us,52,45.979,-98.070,0
+25844,Lovell,OK,Logan County,,city-us,6,36.057,-97.635,393
+25846,Lovell,OH,Wyandot County,,city-us,0,40.891,-83.332,318

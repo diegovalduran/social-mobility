@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19588,Helmer,ID,,city-us,0,46.801,-116.470,301
-19589,Helmer,MI,,city-us,0,46.266,-85.716,4920
-19590,Helmer,IN,,city-us,0,41.531,-85.170,343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19588,Helmer,ID,Latah County,,city-us,0,46.801,-116.470,301
+19589,Helmer,MI,Luce County,,city-us,0,46.266,-85.716,4920
+19590,Helmer,IN,Steuben County,,city-us,0,41.531,-85.170,343

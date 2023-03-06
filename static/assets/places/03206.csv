@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16176,Gainesville,FL,,city-us,140398,29.652,-82.325,33939
-16180,Gainesville,GA,,city-us,43417,34.298,-83.824,20308
-16178,Gainesville,TX,,city-us,17576,33.626,-97.133,17598
-16182,Gainesville,VA,,city-us,17081,38.796,-77.614,6090
-16181,Gainesville,MO,,city-us,765,36.603,-92.428,4113
-16184,Gainesville,NY,,city-us,228,42.641,-78.134,239
-16183,Gainesville,AL,,city-us,174,32.821,-88.159,3145
-16177,Gainesville,KY,,city-us,0,36.851,-86.158,104
-16179,Gainesville,AR,,city-us,0,36.165,-90.511,1345
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16176,Gainesville,FL,Alachua County,,city-us,140398,29.652,-82.325,33939
+16180,Gainesville,GA,Hall County,,city-us,43417,34.298,-83.824,20308
+16178,Gainesville,TX,Cooke County,,city-us,17576,33.626,-97.133,17598
+16182,Gainesville,VA,Prince William County,,city-us,17081,38.796,-77.614,6090
+16181,Gainesville,MO,Ozark County,,city-us,765,36.603,-92.428,4113
+16184,Gainesville,NY,Wyoming County,,city-us,228,42.641,-78.134,239
+16183,Gainesville,AL,Sumter County,,city-us,174,32.821,-88.159,3145
+16177,Gainesville,KY,Allen County,,city-us,0,36.851,-86.158,104
+16179,Gainesville,AR,Greene County,,city-us,0,36.165,-90.511,1345

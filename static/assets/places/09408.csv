@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47531,Woodford,VT,,city-us,354,42.908,-73.078,2380
-47535,Woodford,SC,,city-us,158,33.667,-81.109,1918
-47534,Woodford,WI,,city-us,96,42.649,-89.863,645
-47532,Woodford,VA,,city-us,0,38.113,-77.409,1166
-47533,Woodford,CA,,city-us,0,35.213,-118.552,173
-47536,Woodford,IL,,city-us,0,40.847,-89.028,207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47531,Woodford,VT,Bennington County,,city-us,354,42.908,-73.078,2380
+47535,Woodford,SC,Orangeburg County,,city-us,158,33.667,-81.109,1918
+47534,Woodford,WI,Lafayette County,,city-us,96,42.649,-89.863,645
+47532,Woodford,VA,Caroline County,,city-us,0,38.113,-77.409,1166
+47533,Woodford,CA,Kern County,,city-us,0,35.213,-118.552,173
+47536,Woodford,IL,Woodford County,,city-us,0,40.847,-89.028,207

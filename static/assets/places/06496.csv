@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33129,Park,MI,,city-us,18770,42.819,-86.173,161
-33132,Park,KS,,city-us,7171,37.785,-97.429,139
-33133,Park,MI,,city-us,2416,42.021,-85.581,161
-33153,Parke,MN,,city-us,532,46.766,-96.230,1895
-33092,Parc,NY,,city-us,187,44.667,-73.454,2511
-33126,Park,KS,,city-us,117,39.113,-100.359,3288
-33130,Park,ND,,city-us,50,48.676,-97.726,0
-33131,Park,MN,,city-us,23,46.282,-92.521,1777
-33128,Park,SD,,city-us,19,44.855,-98.998,0
-33124,Park,KY,,city-us,0,37.140,-85.775,121
-33125,Park,TX,,city-us,0,29.946,-96.751,124
-33127,Park,IN,,city-us,0,39.016,-86.849,295
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33129,Park,MI,Ottawa County,,city-us,18770,42.819,-86.173,161
+33132,Park,KS,Sedgwick County,,city-us,7171,37.785,-97.429,139
+33133,Park,MI,St. Joseph County,,city-us,2416,42.021,-85.581,161
+33153,Parke,MN,Clay County,,city-us,532,46.766,-96.230,1895
+33092,Parc,NY,Clinton County,,city-us,187,44.667,-73.454,2511
+33126,Park,KS,Gove County,,city-us,117,39.113,-100.359,3288
+33130,Park,ND,Pembina County,,city-us,50,48.676,-97.726,0
+33131,Park,MN,Pine County,,city-us,23,46.282,-92.521,1777
+33128,Park,SD,Hand County,,city-us,19,44.855,-98.998,0
+33124,Park,KY,Barren County,,city-us,0,37.140,-85.775,121
+33125,Park,TX,Fayette County,,city-us,0,29.946,-96.751,124
+33127,Park,IN,Greene County,,city-us,0,39.016,-86.849,295

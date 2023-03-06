@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10719,Curryville,MO,,city-us,201,39.346,-91.345,3266
-10717,Curryville,PA,,city-us,111,40.276,-78.338,235
-10716,Curryville,IN,,city-us,0,40.786,-85.072,384
-10718,Curryville,GA,,city-us,0,34.444,-85.079,444
-10720,Curryville,IN,,city-us,0,39.187,-87.392,489
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10719,Curryville,MO,Pike County,,city-us,201,39.346,-91.345,3266
+10717,Curryville,PA,Blair County,,city-us,111,40.276,-78.338,235
+10716,Curryville,IN,Adams County,,city-us,0,40.786,-85.072,384
+10718,Curryville,GA,Gordon County,,city-us,0,34.444,-85.079,444
+10720,Curryville,IN,Sullivan County,,city-us,0,39.187,-87.392,489

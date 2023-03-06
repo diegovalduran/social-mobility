@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13615,Elyria,OH,,city-us,52816,41.368,-82.108,12424
-13616,Elyria,KS,,city-us,120,38.291,-97.627,1753
-13617,Elyria,NE,,city-us,50,41.681,-99.006,2894
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13615,Elyria,OH,Lorain County,,city-us,52816,41.368,-82.108,12424
+13616,Elyria,KS,McPherson County,,city-us,120,38.291,-97.627,1753
+13617,Elyria,NE,Valley County,,city-us,50,41.681,-99.006,2894

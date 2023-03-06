@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9404,Colorado City,TX,,city-us,4391,32.388,-100.865,3826
-9405,Colorado City,AZ,,city-us,2520,36.990,-112.976,9292
-9406,Colorado City,CO,,city-us,2315,37.945,-104.835,2267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9404,Colorado City,TX,Mitchell County,,city-us,4391,32.388,-100.865,3826
+9405,Colorado City,AZ,Mohave County,,city-us,2520,36.990,-112.976,9292
+9406,Colorado City,CO,Pueblo County,,city-us,2315,37.945,-104.835,2267

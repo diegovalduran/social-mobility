@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23203,Knottsville,KY,,city-us,183,37.772,-86.904,5766
-23204,Knottsville,WV,,city-us,0,39.311,-79.965,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23203,Knottsville,KY,Daviess County,,city-us,183,37.772,-86.904,5766
+23204,Knottsville,WV,Taylor County,,city-us,0,39.311,-79.965,92

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8449,Clara,MS,,city-us,386,31.581,-88.696,285
-8446,Clara,PA,,city-us,177,41.866,-78.119,1825
-8445,Clara,ND,,city-us,30,48.137,-98.357,0
-8447,Clara,FL,,city-us,0,29.797,-83.320,462
-8448,Clara,MO,,city-us,0,37.300,-92.021,420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8449,Clara,MS,Wayne County,,city-us,386,31.581,-88.696,285
+8446,Clara,PA,Potter County,,city-us,177,41.866,-78.119,1825
+8445,Clara,ND,Nelson County,,city-us,30,48.137,-98.357,0
+8447,Clara,FL,Taylor County,,city-us,0,29.797,-83.320,462
+8448,Clara,MO,Texas County,,city-us,0,37.300,-92.021,420

@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14558,Falmouth,VA,,city-us,4536,38.324,-77.468,5707
-14552,Falmouth,MA,,city-us,3895,41.551,-70.615,17219
-14557,Falmouth,KY,,city-us,2198,38.677,-84.330,5450
-14553,Falmouth,ME,,city-us,1728,43.730,-70.242,13749
-14555,Falmouth,PA,,city-us,397,40.129,-76.714,1022
-14556,Falmouth,MI,,city-us,183,44.243,-85.087,1137
-14554,Falmouth,IN,,city-us,0,39.701,-85.301,990
-14559,Falmouth,FL,,city-us,0,30.363,-83.131,687
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14558,Falmouth,VA,Stafford County,,city-us,4536,38.324,-77.468,5707
+14552,Falmouth,MA,Barnstable County,,city-us,3895,41.551,-70.615,17219
+14557,Falmouth,KY,Pendleton County,,city-us,2198,38.677,-84.330,5450
+14553,Falmouth,ME,Cumberland County,,city-us,1728,43.730,-70.242,13749
+14555,Falmouth,PA,Lancaster County,,city-us,397,40.129,-76.714,1022
+14556,Falmouth,MI,Missaukee County,,city-us,183,44.243,-85.087,1137
+14554,Falmouth,IN,Fayette County,,city-us,0,39.701,-85.301,990
+14559,Falmouth,FL,Suwannee County,,city-us,0,30.363,-83.131,687

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3690,Berryville,AR,,city-us,5687,36.365,-93.568,4040
-3691,Berryville,VA,,city-us,4561,39.152,-77.982,6942
-3692,Berryville,TX,,city-us,852,32.088,-95.472,2513
-3693,Berryville,WV,,city-us,0,39.616,-78.230,462
-3694,Berryville,IL,,city-us,0,38.599,-87.929,980
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3690,Berryville,AR,Carroll County,,city-us,5687,36.365,-93.568,4040
+3691,Berryville,VA,Clarke County,,city-us,4561,39.152,-77.982,6942
+3692,Berryville,TX,Henderson County,,city-us,852,32.088,-95.472,2513
+3693,Berryville,WV,Morgan County,,city-us,0,39.616,-78.230,462
+3694,Berryville,IL,Richland County,,city-us,0,38.599,-87.929,980

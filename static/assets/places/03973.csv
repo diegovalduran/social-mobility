@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20324,Holladay,UT,,city-us,31390,40.669,-111.825,5227
-20320,Holiday,FL,,city-us,21435,28.188,-82.740,3886
-20323,Holladay,TN,,city-us,95,35.871,-88.146,366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20324,Holladay,UT,Salt Lake County,,city-us,31390,40.669,-111.825,5227
+20320,Holiday,FL,Pasco County,,city-us,21435,28.188,-82.740,3886
+20323,Holladay,TN,Benton County,,city-us,95,35.871,-88.146,366

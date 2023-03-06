@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9826,Cora,WY,,city-us,80,42.940,-109.980,2996
-9825,Cora,KS,,city-us,28,39.879,-98.668,144
-9822,Cora,IL,,city-us,0,37.740,-89.442,346
-9823,Cora,WA,,city-us,0,46.536,-121.790,403
-9824,Cora,WV,,city-us,0,37.834,-82.026,482
-9827,Cora,MO,,city-us,0,40.110,-93.131,486
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9826,Cora,WY,Sublette County,,city-us,80,42.940,-109.980,2996
+9825,Cora,KS,Smith County,,city-us,28,39.879,-98.668,144
+9822,Cora,IL,Jackson County,,city-us,0,37.740,-89.442,346
+9823,Cora,WA,Lewis County,,city-us,0,46.536,-121.790,403
+9824,Cora,WV,Logan County,,city-us,0,37.834,-82.026,482
+9827,Cora,MO,Sullivan County,,city-us,0,40.110,-93.131,486

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6223,Burnwell,WV,,city-us,0,38.053,-81.375,219
-6224,Burnwell,KY,,city-us,0,37.629,-82.223,358
-6225,Burnwell,AL,,city-us,0,33.708,-87.088,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6223,Burnwell,WV,Kanawha County,,city-us,0,38.053,-81.375,219
+6224,Burnwell,KY,Pike County,,city-us,0,37.629,-82.223,358
+6225,Burnwell,AL,Walker County,,city-us,0,33.708,-87.088,229

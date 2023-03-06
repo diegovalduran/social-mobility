@@ -1,23 +1,23 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33571,Penn,PA,,city-us,17746,39.799,-76.965,1050
-33559,Penn,PA,,city-us,10233,40.188,-76.376,1050
-33554,Penn,PA,,city-us,5640,39.822,-75.874,1050
-33551,Penn,PA,,city-us,4926,40.788,-79.926,1050
-33568,Penn,PA,,city-us,4043,40.807,-76.896,1050
-33565,Penn,PA,,city-us,3119,40.354,-77.037,1050
-33556,Penn,PA,,city-us,2901,40.102,-77.343,1050
-33550,Penn,PA,,city-us,2129,40.431,-76.077,1050
-33552,Penn,MI,,city-us,1759,41.931,-85.928,2578
-33557,Penn,OH,,city-us,1551,39.291,-83.597,111
-33553,Penn,PA,,city-us,1212,40.863,-77.488,1050
-33555,Penn,PA,,city-us,1195,40.960,-78.637,1050
-33558,Penn,PA,,city-us,1075,40.380,-78.113,1050
-33561,Penn,PA,,city-us,896,41.279,-76.643,1050
-33563,Penn,OH,,city-us,645,39.575,-81.869,111
-33570,Penn,PA,,city-us,432,40.329,-79.641,1841
-33562,Penn,MN,,city-us,328,44.675,-94.315,1955
-33569,Penn,IL,,city-us,310,41.101,-89.687,329
-33564,Penn,KS,,city-us,134,39.433,-98.673,0
-33567,Penn,IL,,city-us,87,39.624,-88.865,267
-33560,Penn,OR,,city-us,0,44.029,-123.530,678
-33566,Penn,ND,,city-us,0,48.222,-99.089,582
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33571,Penn,PA,York County,,city-us,17746,39.799,-76.965,1050
+33559,Penn,PA,Lancaster County,,city-us,10233,40.188,-76.376,1050
+33554,Penn,PA,Chester County,,city-us,5640,39.822,-75.874,1050
+33551,Penn,PA,Butler County,,city-us,4926,40.788,-79.926,1050
+33568,Penn,PA,Snyder County,,city-us,4043,40.807,-76.896,1050
+33565,Penn,PA,Perry County,,city-us,3119,40.354,-77.037,1050
+33556,Penn,PA,Cumberland County,,city-us,2901,40.102,-77.343,1050
+33550,Penn,PA,Berks County,,city-us,2129,40.431,-76.077,1050
+33552,Penn,MI,Cass County,,city-us,1759,41.931,-85.928,2578
+33557,Penn,OH,Highland County,,city-us,1551,39.291,-83.597,111
+33553,Penn,PA,Centre County,,city-us,1212,40.863,-77.488,1050
+33555,Penn,PA,Clearfield County,,city-us,1195,40.960,-78.637,1050
+33558,Penn,PA,Huntingdon County,,city-us,1075,40.380,-78.113,1050
+33561,Penn,PA,Lycoming County,,city-us,896,41.279,-76.643,1050
+33563,Penn,OH,Morgan County,,city-us,645,39.575,-81.869,111
+33570,Penn,PA,Westmoreland County,,city-us,432,40.329,-79.641,1841
+33562,Penn,MN,McLeod County,,city-us,328,44.675,-94.315,1955
+33569,Penn,IL,Stark County,,city-us,310,41.101,-89.687,329
+33564,Penn,KS,Osborne County,,city-us,134,39.433,-98.673,0
+33567,Penn,IL,Shelby County,,city-us,87,39.624,-88.865,267
+33560,Penn,OR,Lane County,,city-us,0,44.029,-123.530,678
+33566,Penn,ND,Ramsey County,,city-us,0,48.222,-99.089,582

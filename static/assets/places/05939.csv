@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30459,Neshanic Station,NJ,,city-us,5258,40.528,-74.735,1750
-30460,Neshanic Station,NJ,,city-us,5224,40.508,-74.730,1750
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30459,Neshanic Station,NJ,Hunterdon County / Somerset County,,city-us,5258,40.528,-74.735,1750
+30460,Neshanic Station,NJ,Somerset County,,city-us,5224,40.508,-74.730,1750

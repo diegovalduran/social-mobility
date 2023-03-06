@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42073,Sunfish,OH,,city-us,1153,39.032,-83.224,1251
-42072,Sunfish,KY,,city-us,0,37.297,-86.370,1428
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42073,Sunfish,OH,Pike County,,city-us,1153,39.032,-83.224,1251
+42072,Sunfish,KY,Edmonson County,,city-us,0,37.297,-86.370,1428

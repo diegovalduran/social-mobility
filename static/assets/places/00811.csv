@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4160,Black Rock,NM,,city-us,1365,35.088,-108.791,2865
-4159,Black Rock,AR,,city-us,588,36.108,-91.097,2935
-4161,Black Rock,UT,,city-us,0,38.708,-112.958,748
-4162,Black Rock,OR,,city-us,0,44.871,-123.496,3110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4160,Black Rock,NM,McKinley County,,city-us,1365,35.088,-108.791,2865
+4159,Black Rock,AR,Lawrence County,,city-us,588,36.108,-91.097,2935
+4161,Black Rock,UT,Millard County,,city-us,0,38.708,-112.958,748
+4162,Black Rock,OR,Polk County,,city-us,0,44.871,-123.496,3110

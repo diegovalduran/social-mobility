@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2143,Azalia,IN,,city-us,0,39.092,-85.847,488
-2144,Azalia,MI,,city-us,0,42.019,-83.666,1418
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2143,Azalia,IN,Bartholomew County,,city-us,0,39.092,-85.847,488
+2144,Azalia,MI,Monroe County,,city-us,0,42.019,-83.666,1418

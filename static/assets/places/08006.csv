@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40433,South Valley,NM,,city-us,36583,35.010,-106.678,3694
-40434,South Valley,NY,,city-us,247,42.045,-79.003,6575
-40435,South Valley,ND,,city-us,36,48.590,-100.079,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40433,South Valley,NM,Bernalillo County,,city-us,36583,35.010,-106.678,3694
+40434,South Valley,NY,Cattaraugus County,,city-us,247,42.045,-79.003,6575
+40435,South Valley,ND,Rolette County,,city-us,36,48.590,-100.079,0

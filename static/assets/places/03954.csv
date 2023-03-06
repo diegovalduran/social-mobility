@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20226,Hitchcock,TX,,city-us,7408,29.348,-95.016,4896
-20224,Hitchcock,SD,,city-us,107,44.630,-98.410,3339
-20225,Hitchcock,OK,,city-us,99,35.969,-98.348,1934
-20227,Hitchcock,IN,,city-us,0,38.638,-86.169,1021
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20226,Hitchcock,TX,Galveston County,,city-us,7408,29.348,-95.016,4896
+20224,Hitchcock,SD,Beadle County,,city-us,107,44.630,-98.410,3339
+20225,Hitchcock,OK,Blaine County,,city-us,99,35.969,-98.348,1934
+20227,Hitchcock,IN,Washington County,,city-us,0,38.638,-86.169,1021

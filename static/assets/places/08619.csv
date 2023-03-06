@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43222,Travelers Rest,SC,,city-us,7771,34.968,-82.443,4247
-43223,Travellers Rest,GA,,city-us,0,32.281,-84.029,458
-43224,Travellers Rest,KY,,city-us,0,37.448,-83.787,138
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43222,Travelers Rest,SC,Greenville County,,city-us,7771,34.968,-82.443,4247
+43223,Travellers Rest,GA,Macon County,,city-us,0,32.281,-84.029,458
+43224,Travellers Rest,KY,Owsley County,,city-us,0,37.448,-83.787,138

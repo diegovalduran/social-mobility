@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40013,Slagle,MI,,city-us,514,44.295,-85.761,2373
-40010,Slagle,WV,,city-us,0,37.819,-81.841,86
-40011,Slagle,MO,,city-us,0,37.532,-93.375,232
-40012,Slagle,LA,,city-us,0,31.203,-93.127,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40013,Slagle,MI,Wexford County,,city-us,514,44.295,-85.761,2373
+40010,Slagle,WV,Logan County,,city-us,0,37.819,-81.841,86
+40011,Slagle,MO,Polk County,,city-us,0,37.532,-93.375,232
+40012,Slagle,LA,Vernon Parish,,city-us,0,31.203,-93.127,106

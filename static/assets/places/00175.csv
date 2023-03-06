@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-912,Alvin,TX,,city-us,27576,29.424,-95.244,7223
-911,Alvin,MI,,city-us,947,44.564,-83.529,3911
-913,Alvin,WI,,city-us,157,45.985,-88.829,1923
-914,Alvin,GA,,city-us,0,34.234,-83.324,236
+id,name,state,county,country,level,population,latitude,longitude,wiki
+912,Alvin,TX,Brazoria County,,city-us,27576,29.424,-95.244,7223
+911,Alvin,MI,Alcona County,,city-us,947,44.564,-83.529,3911
+913,Alvin,WI,Forest County,,city-us,157,45.985,-88.829,1923
+914,Alvin,GA,Madison County,,city-us,0,34.234,-83.324,236

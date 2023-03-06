@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19475,Hazen,ND,,city-us,2273,47.294,-101.623,3829
-19476,Hazen,AR,,city-us,1443,34.781,-91.581,3119
-19472,Hazen,PA,,city-us,0,40.817,-80.245,402
-19473,Hazen,NV,,city-us,0,39.565,-119.046,1352
-19474,Hazen,PA,,city-us,0,41.208,-78.970,355
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19475,Hazen,ND,Mercer County,,city-us,2273,47.294,-101.623,3829
+19476,Hazen,AR,Prairie County,,city-us,1443,34.781,-91.581,3119
+19472,Hazen,PA,Beaver County,,city-us,0,40.817,-80.245,402
+19473,Hazen,NV,Churchill County,,city-us,0,39.565,-119.046,1352
+19474,Hazen,PA,Jefferson County,,city-us,0,41.208,-78.970,355

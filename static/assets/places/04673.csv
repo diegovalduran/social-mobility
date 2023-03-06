@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23923,Langdon,NH,,city-us,656,43.187,-72.360,2754
-23922,Langdon,KS,,city-us,40,37.854,-98.325,3759
-23920,Langdon,ND,,city-us,39,48.849,-98.410,7509
-23919,Langdon,MO,,city-us,0,40.356,-95.580,494
-23921,Langdon,IA,,city-us,0,43.216,-95.088,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23923,Langdon,NH,Sullivan County,,city-us,656,43.187,-72.360,2754
+23922,Langdon,KS,Reno County,,city-us,40,37.854,-98.325,3759
+23920,Langdon,ND,Cavalier County,,city-us,39,48.849,-98.410,7509
+23919,Langdon,MO,Atchison County,,city-us,0,40.356,-95.580,494
+23921,Langdon,IA,Clay County,,city-us,0,43.216,-95.088,237

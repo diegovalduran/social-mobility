@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32210,Olive Branch,MS,,city-us,40276,34.962,-89.830,6527
-32208,Olive Branch,IL,,city-us,548,37.169,-89.352,2118
-32209,Olive Branch,OH,,city-us,0,39.085,-84.220,231
-32211,Olive Branch,NC,,city-us,0,35.104,-80.321,567
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32210,Olive Branch,MS,DeSoto County,,city-us,40276,34.962,-89.830,6527
+32208,Olive Branch,IL,Alexander County,,city-us,548,37.169,-89.352,2118
+32209,Olive Branch,OH,Clermont County,,city-us,0,39.085,-84.220,231
+32211,Olive Branch,NC,Union County,,city-us,0,35.104,-80.321,567

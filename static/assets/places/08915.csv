@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44726,Voss,ND,,city-us,18,48.296,-97.455,113
-44725,Voss,TX,,city-us,0,31.621,-99.562,1287
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44726,Voss,ND,Walsh County,,city-us,18,48.296,-97.455,113
+44725,Voss,TX,Coleman County,,city-us,0,31.621,-99.562,1287

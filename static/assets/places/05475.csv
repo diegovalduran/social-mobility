@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28017,Merrillville,IN,,city-us,36524,41.483,-87.333,8975
-28018,Merrillville,GA,,city-us,0,30.949,-83.880,265
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28017,Merrillville,IN,Lake County,,city-us,36524,41.483,-87.333,8975
+28018,Merrillville,GA,Thomas County,,city-us,0,30.949,-83.880,265

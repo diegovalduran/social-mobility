@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4083,Bishopville,SC,,city-us,2946,34.218,-80.248,7480
-4085,Bishopville,MD,,city-us,550,38.443,-75.194,591
-4084,Bishopville,OH,,city-us,0,39.513,-82.049,385
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4083,Bishopville,SC,Lee County,,city-us,2946,34.218,-80.248,7480
+4085,Bishopville,MD,Worcester County,,city-us,550,38.443,-75.194,591
+4084,Bishopville,OH,Morgan County,,city-us,0,39.513,-82.049,385

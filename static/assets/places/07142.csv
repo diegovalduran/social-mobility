@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36180,Redstone,PA,,city-us,5001,39.977,-79.850,2857
-36182,Redstone,CO,,city-us,167,39.181,-107.240,3249
-36183,Redstone,MT,,city-us,13,48.822,-104.944,319
-36181,Redstone,SD,,city-us,9,44.153,-97.790,0
-36179,Redstone,NH,,city-us,0,44.015,-71.101,4119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36180,Redstone,PA,Fayette County,,city-us,5001,39.977,-79.850,2857
+36182,Redstone,CO,Pitkin County,,city-us,167,39.181,-107.240,3249
+36183,Redstone,MT,Sheridan County,,city-us,13,48.822,-104.944,319
+36181,Redstone,SD,Miner County,,city-us,9,44.153,-97.790,0
+36179,Redstone,NH,Carroll County,,city-us,0,44.015,-71.101,4119

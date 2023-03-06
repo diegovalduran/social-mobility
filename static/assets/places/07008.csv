@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35640,Queen Anne,MD,,city-us,1360,38.899,-76.678,3590
-35641,Queen Anne,MD,,city-us,193,38.919,-75.954,4189
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35640,Queen Anne,MD,Prince George's County,,city-us,1360,38.899,-76.678,3590
+35641,Queen Anne,MD,Queen Anne's County / Talbot County,,city-us,193,38.919,-75.954,4189

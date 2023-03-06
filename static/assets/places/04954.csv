@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25502,Loleta,CA,,city-us,584,40.641,-124.225,6900
-25501,Loleta,PA,,city-us,0,41.406,-79.077,482
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25502,Loleta,CA,Humboldt County,,city-us,584,40.641,-124.225,6900
+25501,Loleta,PA,Elk County,,city-us,0,41.406,-79.077,482

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12685,East Fork,IL,,city-us,2437,39.100,-89.419,775
-12686,East Fork,AZ,,city-us,433,33.798,-109.930,2076
-12684,East Fork,IL,,city-us,351,38.692,-89.208,1044
-12687,East Fork,ND,,city-us,19,48.334,-103.530,252
-12683,East Fork,ND,,city-us,16,47.901,-99.737,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12685,East Fork,IL,Montgomery County,,city-us,2437,39.100,-89.419,775
+12686,East Fork,AZ,Navajo County,,city-us,433,33.798,-109.930,2076
+12684,East Fork,IL,Clinton County,,city-us,351,38.692,-89.208,1044
+12687,East Fork,ND,Williams County,,city-us,19,48.334,-103.530,252
+12683,East Fork,ND,Benson County,,city-us,16,47.901,-99.737,252

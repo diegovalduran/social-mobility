@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35622,Quakertown,PA,,city-us,9307,40.442,-75.342,13314
-35623,Quakertown,NJ,,city-us,0,40.566,-74.942,1950
-35624,Quakertown,DE,,city-us,0,38.755,-75.159,187
-35625,Quakertown,IN,,city-us,0,39.581,-85.003,320
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35622,Quakertown,PA,Bucks County,,city-us,9307,40.442,-75.342,13314
+35623,Quakertown,NJ,Hunterdon County,,city-us,0,40.566,-74.942,1950
+35624,Quakertown,DE,Sussex County,,city-us,0,38.755,-75.159,187
+35625,Quakertown,IN,Union County,,city-us,0,39.581,-85.003,320

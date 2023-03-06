@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18947,Harper,KS,,city-us,1273,37.287,-98.026,4096
-18946,Harper,TX,,city-us,1192,30.301,-99.243,3374
-18953,Harper,KS,,city-us,142,38.483,-97.765,122
-18948,Harper,IA,,city-us,119,41.363,-92.051,3301
-18952,Harper,OR,,city-us,113,43.863,-117.610,507
-18944,Harper,WY,,city-us,0,41.709,-105.889,416
-18945,Harper,IN,,city-us,0,39.144,-85.593,239
-18949,Harper,WA,,city-us,0,47.521,-122.519,262
-18950,Harper,OH,,city-us,0,40.429,-83.708,262
-18951,Harper,KY,,city-us,0,37.802,-83.196,177
-18954,Harper,IL,,city-us,0,42.141,-89.647,80
-18955,Harper,WV,,city-us,0,38.519,-79.471,164
-18956,Harper,WV,,city-us,0,37.799,-81.261,89
-18957,Harper,OH,,city-us,0,39.365,-83.262,315
-18958,Harper,ND,,city-us,0,46.410,-103.606,0
-18959,Harper,MO,,city-us,0,38.063,-93.519,363
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18947,Harper,KS,Harper County,,city-us,1273,37.287,-98.026,4096
+18946,Harper,TX,Gillespie County,,city-us,1192,30.301,-99.243,3374
+18953,Harper,KS,McPherson County,,city-us,142,38.483,-97.765,122
+18948,Harper,IA,Keokuk County,,city-us,119,41.363,-92.051,3301
+18952,Harper,OR,Malheur County,,city-us,113,43.863,-117.610,507
+18944,Harper,WY,Albany County,,city-us,0,41.709,-105.889,416
+18945,Harper,IN,Decatur County,,city-us,0,39.144,-85.593,239
+18949,Harper,WA,Kitsap County,,city-us,0,47.521,-122.519,262
+18950,Harper,OH,Logan County,,city-us,0,40.429,-83.708,262
+18951,Harper,KY,Magoffin County,,city-us,0,37.802,-83.196,177
+18954,Harper,IL,Ogle County,,city-us,0,42.141,-89.647,80
+18955,Harper,WV,Pendleton County,,city-us,0,38.519,-79.471,164
+18956,Harper,WV,Raleigh County,,city-us,0,37.799,-81.261,89
+18957,Harper,OH,Ross County,,city-us,0,39.365,-83.262,315
+18958,Harper,ND,Slope County,,city-us,0,46.410,-103.606,0
+18959,Harper,MO,St. Clair County,,city-us,0,38.063,-93.519,363

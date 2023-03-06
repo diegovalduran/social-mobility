@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39614,Sherrard,IL,,city-us,690,41.319,-90.506,2055
-39518,Sherard,MS,,city-us,0,34.216,-90.706,882
-39613,Sherrard,WV,,city-us,0,39.987,-80.676,217
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39614,Sherrard,IL,Mercer County,,city-us,690,41.319,-90.506,2055
+39518,Sherard,MS,Coahoma County,,city-us,0,34.216,-90.706,882
+39613,Sherrard,WV,Marshall County,,city-us,0,39.987,-80.676,217

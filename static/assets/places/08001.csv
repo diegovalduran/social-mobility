@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40419,South River,NJ,,city-us,15957,40.447,-74.386,14160
-40420,South River,NM,,city-us,1382,36.786,-108.058,0
-40418,South River,MD,,city-us,0,38.903,-76.561,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40419,South River,NJ,Middlesex County,,city-us,15957,40.447,-74.386,14160
+40420,South River,NM,San Juan County,,city-us,1382,36.786,-108.058,0
+40418,South River,MD,Anne Arundel County,,city-us,0,38.903,-76.561,202

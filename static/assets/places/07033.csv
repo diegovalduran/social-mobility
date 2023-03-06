@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35729,Radcliff,KY,,city-us,22942,37.840,-85.949,7896
-35731,Radcliffe,IA,,city-us,547,42.315,-93.434,3330
-35730,Radcliff,OH,,city-us,0,39.141,-82.377,269
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35729,Radcliff,KY,Hardin County,,city-us,22942,37.840,-85.949,7896
+35731,Radcliffe,IA,Hardin County,,city-us,547,42.315,-93.434,3330
+35730,Radcliff,OH,Vinton County,,city-us,0,39.141,-82.377,269

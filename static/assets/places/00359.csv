@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1882,Aubrey,TX,,city-us,6490,33.304,-96.986,3338
-1883,Aubrey,AR,,city-us,107,34.717,-90.900,2000
-1884,Aubrey,WI,,city-us,0,43.315,-90.293,184
-1885,Aubry,KS,,city-us,0,38.771,-94.671,327
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1882,Aubrey,TX,Denton County,,city-us,6490,33.304,-96.986,3338
+1883,Aubrey,AR,Lee County,,city-us,107,34.717,-90.900,2000
+1884,Aubrey,WI,Richland County,,city-us,0,43.315,-90.293,184
+1885,Aubry,KS,Johnson County,,city-us,0,38.771,-94.671,327

@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38018,Ruth,MI,,city-us,1165,43.731,-82.671,2883
-38024,Ruth,NC,,city-us,348,35.382,-81.947,2129
-38027,Ruth,NV,,city-us,211,39.278,-114.989,3390
-38026,Ruth,CA,,city-us,157,40.270,-123.321,2740
-38017,Ruth,AR,,city-us,0,36.370,-92.136,258
-38019,Ruth,WV,,city-us,0,38.310,-81.728,182
-38020,Ruth,MS,,city-us,0,31.382,-90.316,628
-38021,Ruth,VA,,city-us,0,38.394,-78.314,113
-38022,Ruth,AL,,city-us,0,34.364,-86.557,143
-38023,Ruth,KY,,city-us,0,37.075,-84.524,155
-38025,Ruth,LA,,city-us,0,30.238,-91.882,238
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38018,Ruth,MI,Huron County,,city-us,1165,43.731,-82.671,2883
+38024,Ruth,NC,Rutherford County,,city-us,348,35.382,-81.947,2129
+38027,Ruth,NV,White Pine County,,city-us,211,39.278,-114.989,3390
+38026,Ruth,CA,Trinity County,,city-us,157,40.270,-123.321,2740
+38017,Ruth,AR,Fulton County,,city-us,0,36.370,-92.136,258
+38019,Ruth,WV,Kanawha County,,city-us,0,38.310,-81.728,182
+38020,Ruth,MS,Lincoln County,,city-us,0,31.382,-90.316,628
+38021,Ruth,VA,Madison County,,city-us,0,38.394,-78.314,113
+38022,Ruth,AL,Marshall County,,city-us,0,34.364,-86.557,143
+38023,Ruth,KY,Pulaski County,,city-us,0,37.075,-84.524,155
+38025,Ruth,LA,St. Martin Parish,,city-us,0,30.238,-91.882,238

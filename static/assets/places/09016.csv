@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45398,Washington Crossing,NJ,,city-us,371,40.297,-74.867,802
-45397,Washington Crossing,PA,,city-us,0,40.293,-74.871,856
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45398,Washington Crossing,NJ,Mercer County,,city-us,371,40.297,-74.867,802
+45397,Washington Crossing,PA,Bucks County,,city-us,0,40.293,-74.871,856

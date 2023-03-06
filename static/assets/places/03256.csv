@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16453,Gassaway,WV,,city-us,755,38.673,-80.775,4703
-16454,Gassaway,TN,,city-us,0,35.940,-85.996,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16453,Gassaway,WV,Braxton County,,city-us,755,38.673,-80.775,4703
+16454,Gassaway,TN,Cannon County,,city-us,0,35.940,-85.996,85

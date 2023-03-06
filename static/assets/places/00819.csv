@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4189,Blacklick,PA,,city-us,1866,40.521,-78.834,2357
-4190,Blacklick,OH,,city-us,0,39.996,-82.811,1625
-4191,Blacklick,VA,,city-us,0,36.943,-81.257,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4189,Blacklick,PA,Cambria County,,city-us,1866,40.521,-78.834,2357
+4190,Blacklick,OH,Franklin County,,city-us,0,39.996,-82.811,1625
+4191,Blacklick,VA,Wythe County,,city-us,0,36.943,-81.257,84

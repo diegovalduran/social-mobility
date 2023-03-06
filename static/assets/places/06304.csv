@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32190,Olinda,,Brazil,city-international,389494,-8.009,-34.855,5846
-32189,Olinda,HI,,city-us,1188,20.827,-156.289,466
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32190,Olinda,,,Brazil,city-international,389494,-8.009,-34.855,5846
+32189,Olinda,HI,Maui County,,city-us,1188,20.827,-156.289,466

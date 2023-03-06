@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33410,Peach Orchard,IL,,city-us,554,40.574,-88.272,763
-33409,Peach Orchard,AR,,city-us,106,36.279,-90.663,2661
-33411,Peach Orchard,KY,,city-us,0,37.942,-82.615,175
-33412,Peach Orchard,MO,,city-us,0,36.366,-89.934,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33410,Peach Orchard,IL,Ford County,,city-us,554,40.574,-88.272,763
+33409,Peach Orchard,AR,Clay County,,city-us,106,36.279,-90.663,2661
+33411,Peach Orchard,KY,Lawrence County,,city-us,0,37.942,-82.615,175
+33412,Peach Orchard,MO,Pemiscot County,,city-us,0,36.366,-89.934,359

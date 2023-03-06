@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11283,Deepwater,MO,,city-us,594,38.261,-94.018,165
-11282,Deepwater,MO,,city-us,253,38.255,-94.129,1209
-11284,Deepwater,ND,,city-us,19,47.717,-101.936,0
-11285,Deepwater,NJ,,city-us,0,39.683,-75.491,2270
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11283,Deepwater,MO,Henry County,,city-us,594,38.261,-94.018,165
+11282,Deepwater,MO,Bates County,,city-us,253,38.255,-94.129,1209
+11284,Deepwater,ND,McLean County,,city-us,19,47.717,-101.936,0
+11285,Deepwater,NJ,Salem County,,city-us,0,39.683,-75.491,2270

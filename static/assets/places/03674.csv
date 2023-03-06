@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18721,Hanford,CA,,city-us,58496,36.327,-119.646,22132
-18719,Hanford,WA,,city-us,0,46.584,-119.388,1361
-18720,Hanford,IA,,city-us,0,43.074,-93.142,312
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18721,Hanford,CA,Kings County,,city-us,58496,36.327,-119.646,22132
+18719,Hanford,WA,Benton County,,city-us,0,46.584,-119.388,1361
+18720,Hanford,IA,Cerro Gordo County,,city-us,0,43.074,-93.142,312

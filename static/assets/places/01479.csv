@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7401,Cedar Creek,MI,,city-us,3261,43.345,-86.106,359
-7397,Cedar Creek,MI,,city-us,3239,42.552,-85.375,2815
-7407,Cedar Creek,MI,,city-us,1869,44.382,-85.403,359
-7399,Cedar Creek,NE,,city-us,470,41.037,-96.099,3133
-7400,Cedar Creek,AZ,,city-us,407,33.896,-110.174,461
-7403,Cedar Creek,ND,,city-us,28,46.332,-102.978,0
-7398,Cedar Creek,TX,,city-us,0,30.086,-97.501,1821
-7402,Cedar Creek,AR,,city-us,0,34.792,-93.875,299
-7404,Cedar Creek,DE,,city-us,0,38.868,-75.380,957
-7405,Cedar Creek,MO,,city-us,0,36.579,-92.998,528
-7406,Cedar Creek,WI,,city-us,0,43.340,-88.223,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7401,Cedar Creek,MI,Muskegon County,,city-us,3261,43.345,-86.106,359
+7397,Cedar Creek,MI,Barry County,,city-us,3239,42.552,-85.375,2815
+7407,Cedar Creek,MI,Wexford County,,city-us,1869,44.382,-85.403,359
+7399,Cedar Creek,NE,Cass County,,city-us,470,41.037,-96.099,3133
+7400,Cedar Creek,AZ,Gila County,,city-us,407,33.896,-110.174,461
+7403,Cedar Creek,ND,Slope County,,city-us,28,46.332,-102.978,0
+7398,Cedar Creek,TX,Bastrop County,,city-us,0,30.086,-97.501,1821
+7402,Cedar Creek,AR,Scott County,,city-us,0,34.792,-93.875,299
+7404,Cedar Creek,DE,Sussex County,,city-us,0,38.868,-75.380,957
+7405,Cedar Creek,MO,Taney County,,city-us,0,36.579,-92.998,528
+7406,Cedar Creek,WI,Washington County,,city-us,0,43.340,-88.223,300

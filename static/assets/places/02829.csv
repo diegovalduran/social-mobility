@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14064,Eustis,FL,,city-us,23543,28.853,-81.685,7401
-14061,Eustace,TX,,city-us,1153,32.307,-96.007,3463
-14062,Eustis,ME,,city-us,659,45.171,-70.511,4392
-14063,Eustis,NE,,city-us,397,40.663,-100.030,3357
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14064,Eustis,FL,Lake County,,city-us,23543,28.853,-81.685,7401
+14061,Eustace,TX,Henderson County,,city-us,1153,32.307,-96.007,3463
+14062,Eustis,ME,Franklin County,,city-us,659,45.171,-70.511,4392
+14063,Eustis,NE,Frontier County,,city-us,397,40.663,-100.030,3357

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30037,Muir,MI,,city-us,666,42.996,-84.942,3071
-30038,Muir,PA,,city-us,439,40.592,-76.519,457
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30037,Muir,MI,Ionia County,,city-us,666,42.996,-84.942,3071
+30038,Muir,PA,Schuylkill County,,city-us,439,40.592,-76.519,457

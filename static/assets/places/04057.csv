@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20861,Howell,NJ,,city-us,53801,40.178,-74.206,23313
-20860,Howell,MI,,city-us,7941,42.645,-83.974,6052
-20858,Howell,UT,,city-us,237,41.796,-112.444,4348
-20863,Howell,ND,,city-us,35,48.765,-99.335,0
-20859,Howell,GA,,city-us,0,30.828,-83.054,315
-20862,Howell,MO,,city-us,0,38.743,-90.611,374
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20861,Howell,NJ,Monmouth County,,city-us,53801,40.178,-74.206,23313
+20860,Howell,MI,Livingston County,,city-us,7941,42.645,-83.974,6052
+20858,Howell,UT,Box Elder County,,city-us,237,41.796,-112.444,4348
+20863,Howell,ND,Towner County,,city-us,35,48.765,-99.335,0
+20859,Howell,GA,Echols County,,city-us,0,30.828,-83.054,315
+20862,Howell,MO,St. Charles County,,city-us,0,38.743,-90.611,374

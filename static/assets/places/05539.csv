@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28449,Milesville,NC,,city-us,0,36.309,-79.416,134
-28450,Milesville,SD,,city-us,0,44.458,-101.679,355
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28449,Milesville,NC,Caswell County,,city-us,0,36.309,-79.416,134
+28450,Milesville,SD,Haakon County,,city-us,0,44.458,-101.679,355

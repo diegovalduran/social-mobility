@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38150,Saint Anthony,MI,,city-us,4602,41.779,-83.691,4930
-38148,Saint Anthony,IN,,city-us,0,38.314,-86.827,430
-38149,Saint Anthony,MO,,city-us,0,38.156,-92.274,508
-38151,Saint Anthony,ND,,city-us,0,46.617,-100.913,1243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38150,Saint Anthony,MI,Monroe County,,city-us,4602,41.779,-83.691,4930
+38148,Saint Anthony,IN,Dubois County,,city-us,0,38.314,-86.827,430
+38149,Saint Anthony,MO,Miller County,,city-us,0,38.156,-92.274,508
+38151,Saint Anthony,ND,Morton County,,city-us,0,46.617,-100.913,1243

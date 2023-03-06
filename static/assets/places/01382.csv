@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6944,Carlos,MN,,city-us,496,45.972,-95.292,2949
-6943,Carlos,MD,,city-us,54,39.623,-78.957,297
-6945,Carlos,WV,,city-us,0,37.396,-81.801,165
-6946,Carlos,IN,,city-us,0,40.026,-85.034,403
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6944,Carlos,MN,Douglas County,,city-us,496,45.972,-95.292,2949
+6943,Carlos,MD,Allegany County,,city-us,54,39.623,-78.957,297
+6945,Carlos,WV,McDowell County,,city-us,0,37.396,-81.801,165
+6946,Carlos,IN,Randolph County,,city-us,0,40.026,-85.034,403

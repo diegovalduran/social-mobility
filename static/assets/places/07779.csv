@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39387,Sharpsville,PA,,city-us,4218,41.259,-80.472,2833
-39388,Sharpsville,IN,,city-us,554,40.379,-86.089,8305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39387,Sharpsville,PA,Mercer County,,city-us,4218,41.259,-80.472,2833
+39388,Sharpsville,IN,Tipton County,,city-us,554,40.379,-86.089,8305

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-185,Addie,ND,,city-us,46,47.537,-98.299,349
-186,Addie,NC,,city-us,0,35.406,-83.160,826
-202,Addy,WA,,city-us,0,48.356,-117.838,1738
+id,name,state,county,country,level,population,latitude,longitude,wiki
+185,Addie,ND,Griggs County,,city-us,46,47.537,-98.299,349
+186,Addie,NC,Jackson County,,city-us,0,35.406,-83.160,826
+202,Addy,WA,Stevens County,,city-us,0,48.356,-117.838,1738

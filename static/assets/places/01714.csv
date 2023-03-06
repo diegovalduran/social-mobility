@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8724,Clear Lake,IL,,city-us,8310,39.828,-89.534,345
-8714,Clear Lake,IA,,city-us,7574,43.138,-93.379,11254
-8722,Clear Lake,WA,,city-us,1096,46.928,-122.305,1804
-8726,Clear Lake,WA,,city-us,1043,48.464,-122.234,2901
-8723,Clear Lake,WI,,city-us,907,45.249,-92.215,3878
-8725,Clear Lake,MN,,city-us,655,45.445,-93.999,3537
-8727,Clear Lake,IN,,city-us,362,41.738,-84.833,3116
-8716,Clear Lake,SD,,city-us,229,44.781,-96.713,3754
-8721,Clear Lake,SD,,city-us,212,43.715,-97.065,3754
-8720,Clear Lake,SD,,city-us,113,45.701,-97.352,487
-8713,Clear Lake,ND,,city-us,32,46.945,-100.130,0
-8718,Clear Lake,ND,,city-us,28,47.112,-99.905,0
-8717,Clear Lake,SD,,city-us,20,45.280,-98.773,3754
-8715,Clear Lake,TX,,city-us,0,33.078,-96.495,1620
-8719,Clear Lake,OR,,city-us,0,45.035,-123.021,307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8724,Clear Lake,IL,Sangamon County,,city-us,8310,39.828,-89.534,345
+8714,Clear Lake,IA,Cerro Gordo County,,city-us,7574,43.138,-93.379,11254
+8722,Clear Lake,WA,Pierce County,,city-us,1096,46.928,-122.305,1804
+8726,Clear Lake,WA,Skagit County,,city-us,1043,48.464,-122.234,2901
+8723,Clear Lake,WI,Polk County,,city-us,907,45.249,-92.215,3878
+8725,Clear Lake,MN,Sherburne County,,city-us,655,45.445,-93.999,3537
+8727,Clear Lake,IN,Steuben County,,city-us,362,41.738,-84.833,3116
+8716,Clear Lake,SD,Deuel County,,city-us,229,44.781,-96.713,3754
+8721,Clear Lake,SD,Minnehaha County,,city-us,212,43.715,-97.065,3754
+8720,Clear Lake,SD,Marshall County,,city-us,113,45.701,-97.352,487
+8713,Clear Lake,ND,Burleigh County,,city-us,32,46.945,-100.130,0
+8718,Clear Lake,ND,Kidder County,,city-us,28,47.112,-99.905,0
+8717,Clear Lake,SD,Edmunds County,,city-us,20,45.280,-98.773,3754
+8715,Clear Lake,TX,Collin County,,city-us,0,33.078,-96.495,1620
+8719,Clear Lake,OR,Marion County,,city-us,0,45.035,-123.021,307

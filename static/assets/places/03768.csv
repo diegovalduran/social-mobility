@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19299,Havana,,Cuba,city-international,2141652,23.137,-82.359,138996
-19293,Havana,IL,,city-us,4320,40.282,-90.008,414
-19290,Havana,FL,,city-us,1713,30.624,-84.415,3635
-19292,Havana,TX,,city-us,252,26.245,-98.509,2148
-19298,Havana,AR,,city-us,239,35.111,-93.530,3920
-19289,Havana,SD,,city-us,194,44.754,-96.814,0
-19294,Havana,KS,,city-us,81,37.092,-95.942,3181
-19295,Havana,ND,,city-us,68,45.950,-97.619,3043
-19288,Havana,WV,,city-us,0,37.989,-81.855,175
-19291,Havana,AL,,city-us,0,32.895,-87.620,615
-19296,Havana,MN,,city-us,0,44.066,-93.146,414
-19297,Havana,OR,,city-us,0,45.725,-118.657,477
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19299,Havana,,,Cuba,city-international,2141652,23.137,-82.359,138996
+19293,Havana,IL,Mason County,,city-us,4320,40.282,-90.008,414
+19290,Havana,FL,Gadsden County,,city-us,1713,30.624,-84.415,3635
+19292,Havana,TX,Hidalgo County,,city-us,252,26.245,-98.509,2148
+19298,Havana,AR,Yell County,,city-us,239,35.111,-93.530,3920
+19289,Havana,SD,Deuel County,,city-us,194,44.754,-96.814,0
+19294,Havana,KS,Montgomery County,,city-us,81,37.092,-95.942,3181
+19295,Havana,ND,Sargent County,,city-us,68,45.950,-97.619,3043
+19288,Havana,WV,Boone County,,city-us,0,37.989,-81.855,175
+19291,Havana,AL,Hale County,,city-us,0,32.895,-87.620,615
+19296,Havana,MN,Steele County,,city-us,0,44.066,-93.146,414
+19297,Havana,OR,Umatilla County,,city-us,0,45.725,-118.657,477

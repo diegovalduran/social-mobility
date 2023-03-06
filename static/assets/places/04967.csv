@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25559,Lone Rock,WI,,city-us,837,43.183,-90.198,4070
-25557,Lone Rock,IA,,city-us,144,43.219,-94.327,3655
-25558,Lone Rock,SD,,city-us,89,43.980,-96.489,0
-25555,Lone Rock,WI,,city-us,0,43.944,-90.214,166
-25556,Lone Rock,WA,,city-us,0,47.658,-122.776,790
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25559,Lone Rock,WI,Richland County,,city-us,837,43.183,-90.198,4070
+25557,Lone Rock,IA,Kossuth County,,city-us,144,43.219,-94.327,3655
+25558,Lone Rock,SD,Moody County,,city-us,89,43.980,-96.489,0
+25555,Lone Rock,WI,Juneau County,,city-us,0,43.944,-90.214,166
+25556,Lone Rock,WA,Kitsap County,,city-us,0,47.658,-122.776,790

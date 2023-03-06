@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41000,St. Francis,WI,,city-us,9457,42.968,-87.878,4233
-40995,St. Francis,MN,,city-us,8342,45.394,-93.394,3993
-40997,St. Francis,KS,,city-us,1287,39.772,-101.800,3581
-40999,St. Francis,IL,,city-us,1171,39.130,-88.414,838
-41003,St. Francis,SD,,city-us,471,43.144,-100.905,3555
-40996,St. Francis,ME,,city-us,431,47.134,-68.865,3408
-40998,St. Francis,AR,,city-us,213,36.453,-90.145,2771
-41001,St. Francis,TX,,city-us,0,35.260,-101.627,98
-41002,St. Francis,MN,,city-us,0,45.760,-94.585,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41000,St. Francis,WI,Milwaukee County,,city-us,9457,42.968,-87.878,4233
+40995,St. Francis,MN,Anoka County / Isanti County,,city-us,8342,45.394,-93.394,3993
+40997,St. Francis,KS,Cheyenne County,,city-us,1287,39.772,-101.800,3581
+40999,St. Francis,IL,Effingham County,,city-us,1171,39.130,-88.414,838
+41003,St. Francis,SD,Todd County,,city-us,471,43.144,-100.905,3555
+40996,St. Francis,ME,Aroostook County,,city-us,431,47.134,-68.865,3408
+40998,St. Francis,AR,Clay County,,city-us,213,36.453,-90.145,2771
+41001,St. Francis,TX,Potter County,,city-us,0,35.260,-101.627,98
+41002,St. Francis,MN,Stearns County,,city-us,0,45.760,-94.585,201

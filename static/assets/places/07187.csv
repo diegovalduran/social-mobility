@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36348,Reston,VA,,city-us,62453,38.969,-77.341,29771
-36349,Reston,FL,,city-us,0,38.959,-77.357,228
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36348,Reston,VA,Fairfax County,,city-us,62453,38.969,-77.341,29771
+36349,Reston,FL,Gadsden County,,city-us,0,38.959,-77.357,228

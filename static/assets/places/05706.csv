@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29398,Mooresville,NC,,city-us,51594,35.585,-80.810,14440
-29403,Mooresville,IN,,city-us,9584,39.613,-86.374,6648
-29400,Mooresville,MO,,city-us,294,39.739,-93.716,4377
-29399,Mooresville,AL,,city-us,45,34.628,-86.880,5036
-29401,Mooresville,TN,,city-us,0,35.440,-86.914,256
-29402,Mooresville,WV,,city-us,0,39.690,-80.148,170
-29404,Mooresville,OH,,city-us,0,39.328,-82.851,354
-29405,Mooresville,KY,,city-us,0,37.799,-85.265,126
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29398,Mooresville,NC,Iredell County,,city-us,51594,35.585,-80.810,14440
+29403,Mooresville,IN,Morgan County,,city-us,9584,39.613,-86.374,6648
+29400,Mooresville,MO,Livingston County,,city-us,294,39.739,-93.716,4377
+29399,Mooresville,AL,Limestone County,,city-us,45,34.628,-86.880,5036
+29401,Mooresville,TN,Marshall County,,city-us,0,35.440,-86.914,256
+29402,Mooresville,WV,Monongalia County,,city-us,0,39.690,-80.148,170
+29404,Mooresville,OH,Ross County,,city-us,0,39.328,-82.851,354
+29405,Mooresville,KY,Washington County,,city-us,0,37.799,-85.265,126

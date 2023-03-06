@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40311,Somo,WI,,city-us,125,45.507,-90.003,2292
-40312,Somo,KY,,city-us,0,38.597,-83.743,322
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40311,Somo,WI,Lincoln County,,city-us,125,45.507,-90.003,2292
+40312,Somo,KY,Mason County,,city-us,0,38.597,-83.743,322

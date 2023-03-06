@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26419,Mahan,WV,,city-us,0,38.023,-81.355,232
-26420,Mahan,MO,,city-us,0,37.404,-91.827,488
-26429,Mahon,IN,,city-us,0,40.939,-85.381,400
-26430,Mahon,MS,,city-us,0,34.815,-89.515,249
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26419,Mahan,WV,Fayette County,,city-us,0,38.023,-81.355,232
+26420,Mahan,MO,Texas County,,city-us,0,37.404,-91.827,488
+26429,Mahon,IN,Huntington County,,city-us,0,40.939,-85.381,400
+26430,Mahon,MS,Marshall County,,city-us,0,34.815,-89.515,249

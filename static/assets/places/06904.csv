@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35127,Potomac,MD,,city-us,46891,39.018,-77.209,6768
-35129,Potomac,IL,,city-us,678,40.305,-87.801,3791
-35126,Potomac,MT,,city-us,35,46.882,-113.580,479
-35128,Potomac,WV,,city-us,0,40.153,-80.529,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35127,Potomac,MD,Montgomery County,,city-us,46891,39.018,-77.209,6768
+35129,Potomac,IL,Vermilion County,,city-us,678,40.305,-87.801,3791
+35126,Potomac,MT,Missoula County,,city-us,35,46.882,-113.580,479
+35128,Potomac,WV,Ohio County,,city-us,0,40.153,-80.529,254

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35724,Racine,WI,,city-us,77127,42.726,-87.783,24563
-35721,Racine,OH,,city-us,680,38.971,-81.914,3426
-35719,Racine,WV,,city-us,492,38.142,-81.660,398
-35722,Racine,MN,,city-us,482,43.776,-92.483,2756
-35720,Racine,SD,,city-us,97,45.369,-97.425,0
-35723,Racine,MO,,city-us,0,36.896,-94.527,1130
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35724,Racine,WI,Racine County,,city-us,77127,42.726,-87.783,24563
+35721,Racine,OH,Meigs County,,city-us,680,38.971,-81.914,3426
+35719,Racine,WV,Boone County,,city-us,492,38.142,-81.660,398
+35722,Racine,MN,Mower County,,city-us,482,43.776,-92.483,2756
+35720,Racine,SD,Day County,,city-us,97,45.369,-97.425,0
+35723,Racine,MO,Newton County,,city-us,0,36.896,-94.527,1130

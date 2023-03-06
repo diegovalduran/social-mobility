@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14887,Filley,NE,,city-us,290,40.298,-96.529,310
-14886,Filley,MO,,city-us,0,37.759,-93.949,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14887,Filley,NE,Gage County,,city-us,290,40.298,-96.529,310
+14886,Filley,MO,Cedar County,,city-us,0,37.759,-93.949,251

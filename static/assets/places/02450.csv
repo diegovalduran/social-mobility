@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12235,Dry Branch,GA,,city-us,0,32.801,-83.499,487
-12236,Dry Branch,WV,,city-us,0,38.180,-81.467,264
-12237,Dry Branch,VA,,city-us,0,37.234,-80.618,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12235,Dry Branch,GA,Bibb County,,city-us,0,32.801,-83.499,487
+12236,Dry Branch,WV,Kanawha County,,city-us,0,38.180,-81.467,264
+12237,Dry Branch,VA,Pulaski County,,city-us,0,37.234,-80.618,93

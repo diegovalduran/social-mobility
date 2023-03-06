@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37684,Rossburg,OH,,city-us,159,40.279,-84.637,3689
-37683,Rossburg,MN,,city-us,0,46.535,-93.580,418
-37685,Rossburg,IN,,city-us,0,39.326,-85.326,290
-37686,Rossburg,OH,,city-us,0,39.310,-84.118,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37684,Rossburg,OH,Darke County,,city-us,159,40.279,-84.637,3689
+37683,Rossburg,MN,Aitkin County,,city-us,0,46.535,-93.580,418
+37685,Rossburg,IN,Decatur County,,city-us,0,39.326,-85.326,290
+37686,Rossburg,OH,Warren County,,city-us,0,39.310,-84.118,336

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44090,Valier,IL,,city-us,552,38.015,-89.043,2258
-44092,Valier,MT,,city-us,496,48.308,-112.250,3964
-44091,Valier,PA,,city-us,0,40.916,-79.045,287
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44090,Valier,IL,Franklin County,,city-us,552,38.015,-89.043,2258
+44092,Valier,MT,Pondera County,,city-us,496,48.308,-112.250,3964
+44091,Valier,PA,Jefferson County,,city-us,0,40.916,-79.045,287

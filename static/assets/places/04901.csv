@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25203,Little Hell,VA,,city-us,0,37.666,-75.777,378
-25204,Little Hell,DE,,city-us,0,39.042,-75.457,800
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25203,Little Hell,VA,Accomack County,,city-us,0,37.666,-75.777,378
+25204,Little Hell,DE,Kent County,,city-us,0,39.042,-75.457,800

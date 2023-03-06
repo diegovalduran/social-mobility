@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14937,Firesteel,SD,,city-us,51,43.804,-98.506,3219
-14938,Firesteel,SD,,city-us,0,45.425,-101.285,3219
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14937,Firesteel,SD,Aurora County,,city-us,51,43.804,-98.506,3219
+14938,Firesteel,SD,Dewey County,,city-us,0,45.425,-101.285,3219

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47833,Wrigley,TN,,city-us,382,35.901,-87.348,207
-47834,Wrigley,KY,,city-us,0,38.018,-83.271,698
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47833,Wrigley,TN,Hickman County,,city-us,382,35.901,-87.348,207
+47834,Wrigley,KY,Morgan County,,city-us,0,38.018,-83.271,698

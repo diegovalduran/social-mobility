@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39725,Shorewood Hills,WI,,city-us,2146,43.078,-89.446,6900
-39724,Shorewood Hills,MI,,city-us,1249,41.886,-86.618,4554
-39726,Shorewood Hills,AR,,city-us,0,34.438,-92.896,312
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39725,Shorewood Hills,WI,Dane County,,city-us,2146,43.078,-89.446,6900
+39724,Shorewood Hills,MI,Berrien County,,city-us,1249,41.886,-86.618,4554
+39726,Shorewood Hills,AR,Garland County,,city-us,0,34.438,-92.896,312

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1440,Arizona,,United States,state,7359197,34.168,-111.931,63573
-1438,Arizona,NE,,city-us,0,41.814,-96.134,246
-1439,Arizona,LA,,city-us,0,32.789,-92.958,368
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1440,Arizona,,,United States,state,7359197,34.168,-111.931,63573
+1438,Arizona,NE,Burt County,,city-us,0,41.814,-96.134,246
+1439,Arizona,LA,Claiborne Parish,,city-us,0,32.789,-92.958,368

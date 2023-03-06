@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9523,Commonwealth,WI,,city-us,419,45.914,-88.240,1850
-9522,Commonwealth,VA,,city-us,0,38.075,-78.487,76
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9523,Commonwealth,WI,Florence County,,city-us,419,45.914,-88.240,1850
+9522,Commonwealth,VA,Albemarle County,,city-us,0,38.075,-78.487,76

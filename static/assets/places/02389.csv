@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11962,Doncaster,,United Kingdom,city-international,109805,53.523,-1.133,35048
-11960,Doncaster,MD,,city-us,0,38.498,-77.211,179
-11961,Doncaster,MD,,city-us,0,38.784,-76.132,152
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11962,Doncaster,,,United Kingdom,city-international,109805,53.523,-1.133,35048
+11960,Doncaster,MD,Charles County,,city-us,0,38.498,-77.211,179
+11961,Doncaster,MD,Talbot County,,city-us,0,38.784,-76.132,152

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41384,Stella,WI,,city-us,568,45.694,-89.241,2245
-41383,Stella,MO,,city-us,166,36.761,-94.191,7381
-41385,Stella,NE,,city-us,148,40.233,-95.773,4404
-41380,Stella,KY,,city-us,0,36.640,-88.397,509
-41381,Stella,NC,,city-us,0,34.774,-77.151,125
-41382,Stella,WA,,city-us,0,46.191,-123.120,578
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41384,Stella,WI,Oneida County,,city-us,568,45.694,-89.241,2245
+41383,Stella,MO,Newton County,,city-us,166,36.761,-94.191,7381
+41385,Stella,NE,Richardson County,,city-us,148,40.233,-95.773,4404
+41380,Stella,KY,Calloway County,,city-us,0,36.640,-88.397,509
+41381,Stella,NC,Carteret County,,city-us,0,34.774,-77.151,125
+41382,Stella,WA,Cowlitz County,,city-us,0,46.191,-123.120,578

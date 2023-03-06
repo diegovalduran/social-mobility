@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10022,Cost,TX,,city-us,0,29.438,-97.526,638
-23281,Kost,MN,,city-us,0,45.492,-92.868,293
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10022,Cost,TX,Gonzales County,,city-us,0,29.438,-97.526,638
+23281,Kost,MN,Chisago County,,city-us,0,45.492,-92.868,293

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44631,Vinita,OK,,city-us,5189,36.639,-95.154,7337
-44632,Vinita,KS,,city-us,214,37.603,-97.867,817
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44631,Vinita,OK,Craig County,,city-us,5189,36.639,-95.154,7337
+44632,Vinita,KS,Kingman County,,city-us,214,37.603,-97.867,817

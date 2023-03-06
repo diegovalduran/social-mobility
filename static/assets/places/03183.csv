@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16064,Frost,MI,,city-us,11985,43.428,-84.105,2367
-16058,Frost,MI,,city-us,1050,44.105,-84.782,2601
-16062,Frost,TX,,city-us,636,32.080,-96.807,2852
-16060,Frost,MI,,city-us,634,46.711,-88.799,2564
-16059,Frost,MN,,city-us,215,43.586,-93.927,3250
-16057,Frost,OH,,city-us,0,39.277,-81.829,237
-16061,Frost,LA,,city-us,0,30.404,-90.739,259
-16063,Frost,WV,,city-us,0,38.271,-79.881,474
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16064,Frost,MI,Saginaw County,,city-us,11985,43.428,-84.105,2367
+16058,Frost,MI,Clare County,,city-us,1050,44.105,-84.782,2601
+16062,Frost,TX,Navarro County,,city-us,636,32.080,-96.807,2852
+16060,Frost,MI,Houghton County,,city-us,634,46.711,-88.799,2564
+16059,Frost,MN,Faribault County,,city-us,215,43.586,-93.927,3250
+16057,Frost,OH,Athens County,,city-us,0,39.277,-81.829,237
+16061,Frost,LA,Livingston Parish,,city-us,0,30.404,-90.739,259
+16063,Frost,WV,Pocahontas County,,city-us,0,38.271,-79.881,474

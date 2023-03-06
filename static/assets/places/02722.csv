@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13541,Elmont,NY,,city-us,36741,40.701,-73.713,16555
-13539,Elmont,MO,,city-us,0,38.236,-91.243,327
-13540,Elmont,VA,,city-us,0,37.711,-77.493,578
-13542,Elmont,KS,,city-us,0,39.165,-95.703,442
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13541,Elmont,NY,Nassau County,,city-us,36741,40.701,-73.713,16555
+13539,Elmont,MO,Franklin County,,city-us,0,38.236,-91.243,327
+13540,Elmont,VA,Hanover County,,city-us,0,37.711,-77.493,578
+13542,Elmont,KS,Shawnee County,,city-us,0,39.165,-95.703,442

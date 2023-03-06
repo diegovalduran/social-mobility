@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23368,La Mott,PA,,city-us,3554,40.068,-75.141,722
-23369,La Motte,IA,,city-us,239,42.296,-90.621,3380
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23368,La Mott,PA,Montgomery County,,city-us,3554,40.068,-75.141,722
+23369,La Motte,IA,Jackson County,,city-us,239,42.296,-90.621,3380

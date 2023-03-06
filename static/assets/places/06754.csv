@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34295,Piper,AL,,city-us,0,33.089,-87.041,910
-34296,Piper,IA,,city-us,0,42.365,-94.554,157
-34297,Piper,MO,,city-us,0,38.344,-94.015,560
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34295,Piper,AL,Bibb County,,city-us,0,33.089,-87.041,910
+34296,Piper,IA,Calhoun County,,city-us,0,42.365,-94.554,157
+34297,Piper,MO,Henry County,,city-us,0,38.344,-94.015,560

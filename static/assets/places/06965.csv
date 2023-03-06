@@ -1,25 +1,25 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35417,Princeton,FL,,city-us,39308,25.536,-80.397,3744
-35415,Princeton,NJ,,city-us,30872,40.349,-74.659,46447
-35402,Princeton,TX,,city-us,20046,33.180,-96.498,10682
-35400,Princeton,IL,,city-us,9076,41.364,-89.451,10717
-35406,Princeton,IN,,city-us,8315,38.355,-87.568,16501
-35401,Princeton,KY,,city-us,6204,37.109,-87.882,13304
-35416,Princeton,WV,,city-us,5798,37.366,-81.103,19012
-35419,Princeton,MN,,city-us,4883,45.568,-93.590,6644
-35422,Princeton,MA,,city-us,3499,42.454,-71.878,5743
-35418,Princeton,MN,,city-us,2246,45.607,-93.569,1933
-35408,Princeton,WI,,city-us,1546,43.826,-89.114,6106
-35410,Princeton,NC,,city-us,1371,35.466,-78.161,3023
-35414,Princeton,MO,,city-us,982,40.401,-93.581,4772
-35420,Princeton,IA,,city-us,920,41.675,-90.340,5721
-35421,Princeton,ME,,city-us,759,45.145,-67.527,3074
-35403,Princeton,CA,,city-us,316,39.403,-122.010,3631
-35405,Princeton,KS,,city-us,252,38.489,-95.275,3635
-35412,Princeton,ID,,city-us,121,46.914,-116.834,461
-35413,Princeton,SC,,city-us,64,34.497,-82.287,2106
-35411,Princeton,NE,,city-us,51,40.574,-96.705,620
-35404,Princeton,AR,,city-us,13,33.982,-92.625,894
-35399,Princeton,LA,,city-us,0,32.589,-93.515,304
-35407,Princeton,MT,,city-us,0,46.417,-113.166,192
-35409,Princeton,AL,,city-us,0,34.843,-86.243,470
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35417,Princeton,FL,Miami-Dade County,,city-us,39308,25.536,-80.397,3744
+35415,Princeton,NJ,Mercer County,,city-us,30872,40.349,-74.659,46447
+35402,Princeton,TX,Collin County,,city-us,20046,33.180,-96.498,10682
+35400,Princeton,IL,Bureau County,,city-us,9076,41.364,-89.451,10717
+35406,Princeton,IN,Gibson County,,city-us,8315,38.355,-87.568,16501
+35401,Princeton,KY,Caldwell County,,city-us,6204,37.109,-87.882,13304
+35416,Princeton,WV,Mercer County,,city-us,5798,37.366,-81.103,19012
+35419,Princeton,MN,Mille Lacs County / Sherburne County,,city-us,4883,45.568,-93.590,6644
+35422,Princeton,MA,Worcester County,,city-us,3499,42.454,-71.878,5743
+35418,Princeton,MN,Mille Lacs County,,city-us,2246,45.607,-93.569,1933
+35408,Princeton,WI,Green Lake County,,city-us,1546,43.826,-89.114,6106
+35410,Princeton,NC,Johnston County,,city-us,1371,35.466,-78.161,3023
+35414,Princeton,MO,Mercer County,,city-us,982,40.401,-93.581,4772
+35420,Princeton,IA,Scott County,,city-us,920,41.675,-90.340,5721
+35421,Princeton,ME,Washington County,,city-us,759,45.145,-67.527,3074
+35403,Princeton,CA,Colusa County,,city-us,316,39.403,-122.010,3631
+35405,Princeton,KS,Franklin County,,city-us,252,38.489,-95.275,3635
+35412,Princeton,ID,Latah County,,city-us,121,46.914,-116.834,461
+35413,Princeton,SC,Laurens County,,city-us,64,34.497,-82.287,2106
+35411,Princeton,NE,Lancaster County,,city-us,51,40.574,-96.705,620
+35404,Princeton,AR,Dallas County,,city-us,13,33.982,-92.625,894
+35399,Princeton,LA,Bossier Parish,,city-us,0,32.589,-93.515,304
+35407,Princeton,MT,Granite County,,city-us,0,46.417,-113.166,192
+35409,Princeton,AL,Jackson County,,city-us,0,34.843,-86.243,470

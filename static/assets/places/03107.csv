@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15543,Fountain Park,MI,,city-us,3063,41.863,-84.544,3405
-15542,Fountain Park,OH,,city-us,0,40.165,-83.554,228
-15544,Fountain Park,IN,,city-us,0,41.563,-84.914,166
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15543,Fountain Park,MI,Hillsdale County,,city-us,3063,41.863,-84.544,3405
+15542,Fountain Park,OH,Champaign County,,city-us,0,40.165,-83.554,228
+15544,Fountain Park,IN,Steuben County,,city-us,0,41.563,-84.914,166

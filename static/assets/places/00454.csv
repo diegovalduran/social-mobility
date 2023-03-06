@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2382,Bangs,TX,,city-us,1542,31.717,-99.133,3357
-2383,Bangs,OH,,city-us,0,40.352,-82.552,670
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2382,Bangs,TX,Brown County,,city-us,1542,31.717,-99.133,3357
+2383,Bangs,OH,Knox County,,city-us,0,40.352,-82.552,670

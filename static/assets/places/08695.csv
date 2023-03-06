@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43544,Tuscarora,MI,,city-us,3092,45.427,-84.637,2345
-43552,Tuscarora,NY,,city-us,1378,42.049,-77.257,2781
-43549,Tuscarora,PA,,city-us,1313,40.502,-77.255,237
-43547,Tuscarora,PA,,city-us,1131,40.428,-77.593,237
-43543,Tuscarora,PA,,city-us,1059,41.696,-76.157,237
-43551,Tuscarora,PA,,city-us,405,40.770,-76.037,5079
-43548,Tuscarora,NY,,city-us,95,42.631,-77.870,2781
-43550,Tuscarora,ND,,city-us,68,48.239,-100.031,0
-43545,Tuscarora,NV,,city-us,0,41.314,-116.220,2356
-43546,Tuscarora,MD,,city-us,0,39.257,-77.470,540
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43544,Tuscarora,MI,Cheboygan County,,city-us,3092,45.427,-84.637,2345
+43552,Tuscarora,NY,Steuben County,,city-us,1378,42.049,-77.257,2781
+43549,Tuscarora,PA,Perry County,,city-us,1313,40.502,-77.255,237
+43547,Tuscarora,PA,Juniata County,,city-us,1131,40.428,-77.593,237
+43543,Tuscarora,PA,Bradford County,,city-us,1059,41.696,-76.157,237
+43551,Tuscarora,PA,Schuylkill County,,city-us,405,40.770,-76.037,5079
+43548,Tuscarora,NY,Livingston County,,city-us,95,42.631,-77.870,2781
+43550,Tuscarora,ND,Pierce County,,city-us,68,48.239,-100.031,0
+43545,Tuscarora,NV,Elko County,,city-us,0,41.314,-116.220,2356
+43546,Tuscarora,MD,Frederick County,,city-us,0,39.257,-77.470,540

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9182,Coffee Creek,CA,,city-us,299,41.089,-122.709,2887
-9180,Coffee Creek,MT,,city-us,22,47.348,-110.082,1004
-9181,Coffee Creek,KY,,city-us,0,37.888,-83.066,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9182,Coffee Creek,CA,Trinity County,,city-us,299,41.089,-122.709,2887
+9180,Coffee Creek,MT,Fergus County,,city-us,22,47.348,-110.082,1004
+9181,Coffee Creek,KY,Morgan County,,city-us,0,37.888,-83.066,88

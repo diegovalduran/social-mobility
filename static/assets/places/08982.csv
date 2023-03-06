@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45063,Walters,MI,,city-us,34681,42.740,-83.383,7914
-45060,Walters,OK,,city-us,2390,34.360,-98.308,6917
-45061,Walters,MN,,city-us,69,43.606,-93.673,3059
-45064,Walters,ND,,city-us,46,47.277,-99.033,0
-45062,Walters,VA,,city-us,0,36.773,-76.849,954
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45063,Walters,MI,Oakland County,,city-us,34681,42.740,-83.383,7914
+45060,Walters,OK,Cotton County,,city-us,2390,34.360,-98.308,6917
+45061,Walters,MN,Faribault County,,city-us,69,43.606,-93.673,3059
+45064,Walters,ND,Stutsman County,,city-us,46,47.277,-99.033,0
+45062,Walters,VA,Isle of Wight County,,city-us,0,36.773,-76.849,954

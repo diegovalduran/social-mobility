@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23086,Kipling,OH,,city-us,0,39.996,-81.501,222
-23087,Kipling,NC,,city-us,0,35.480,-78.821,702
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23086,Kipling,OH,Guernsey County,,city-us,0,39.996,-81.501,222
+23087,Kipling,NC,Harnett County,,city-us,0,35.480,-78.821,702

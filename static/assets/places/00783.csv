@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4046,Birdseye,IN,,city-us,413,38.317,-86.696,3511
-4047,Birdseye,UT,,city-us,0,39.924,-111.550,663
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4046,Birdseye,IN,Dubois County,,city-us,413,38.317,-86.696,3511
+4047,Birdseye,UT,Utah County,,city-us,0,39.924,-111.550,663

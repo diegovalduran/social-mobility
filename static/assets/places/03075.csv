@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15413,Formosa,,Argentina,city-international,222226,-26.185,-58.176,6475
-15414,Formosa,,Brazil,city-international,100085,-15.537,-47.334,18386
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15413,Formosa,,,Argentina,city-international,222226,-26.185,-58.176,6475
+15414,Formosa,,,Brazil,city-international,100085,-15.537,-47.334,18386

@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9061,Clyde,OH,,city-us,6321,41.304,-82.975,6914
-9063,Clyde,MI,,city-us,5482,43.041,-82.571,254
-9049,Clyde,TX,,city-us,3923,32.406,-99.494,3924
-9065,Clyde,NY,,city-us,2155,43.084,-76.869,5142
-9047,Clyde,MI,,city-us,2071,42.546,-86.059,254
-9054,Clyde,NC,,city-us,1385,35.533,-82.911,3943
-9051,Clyde,KS,,city-us,687,39.591,-97.399,4602
-9052,Clyde,CA,,city-us,633,38.025,-122.029,1154
-9048,Clyde,SD,,city-us,425,44.320,-98.285,0
-9066,Clyde,IL,,city-us,412,41.882,-89.908,345
-9056,Clyde,WI,,city-us,322,43.119,-90.211,2264
-9062,Clyde,NJ,,city-us,157,40.486,-74.510,406
-9059,Clyde,MO,,city-us,53,40.269,-94.669,3049
-9050,Clyde,ND,,city-us,6,48.770,-98.899,579
-9053,Clyde,SC,,city-us,0,34.385,-80.184,174
-9055,Clyde,PA,,city-us,0,40.450,-79.070,270
-9057,Clyde,IA,,city-us,0,41.842,-93.265,591
-9058,Clyde,WI,,city-us,0,44.516,-87.583,192
-9060,Clyde,NE,,city-us,0,40.413,-99.418,156
-9064,Clyde,AR,,city-us,0,35.891,-94.407,477
-9067,Clyde,MN,,city-us,0,43.895,-91.979,426
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9061,Clyde,OH,Sandusky County,,city-us,6321,41.304,-82.975,6914
+9063,Clyde,MI,St. Clair County,,city-us,5482,43.041,-82.571,254
+9049,Clyde,TX,Callahan County,,city-us,3923,32.406,-99.494,3924
+9065,Clyde,NY,Wayne County,,city-us,2155,43.084,-76.869,5142
+9047,Clyde,MI,Allegan County,,city-us,2071,42.546,-86.059,254
+9054,Clyde,NC,Haywood County,,city-us,1385,35.533,-82.911,3943
+9051,Clyde,KS,Cloud County,,city-us,687,39.591,-97.399,4602
+9052,Clyde,CA,Contra Costa County,,city-us,633,38.025,-122.029,1154
+9048,Clyde,SD,Beadle County,,city-us,425,44.320,-98.285,0
+9066,Clyde,IL,Whiteside County,,city-us,412,41.882,-89.908,345
+9056,Clyde,WI,Iowa County,,city-us,322,43.119,-90.211,2264
+9062,Clyde,NJ,Somerset County,,city-us,157,40.486,-74.510,406
+9059,Clyde,MO,Nodaway County,,city-us,53,40.269,-94.669,3049
+9050,Clyde,ND,Cavalier County,,city-us,6,48.770,-98.899,579
+9053,Clyde,SC,Darlington County,,city-us,0,34.385,-80.184,174
+9055,Clyde,PA,Indiana County,,city-us,0,40.450,-79.070,270
+9057,Clyde,IA,Jasper County,,city-us,0,41.842,-93.265,591
+9058,Clyde,WI,Kewaunee County,,city-us,0,44.516,-87.583,192
+9060,Clyde,NE,Phelps County,,city-us,0,40.413,-99.418,156
+9064,Clyde,AR,Washington County,,city-us,0,35.891,-94.407,477
+9067,Clyde,MN,Winona County,,city-us,0,43.895,-91.979,426

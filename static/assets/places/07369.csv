@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37400,Romancoke,MD,,city-us,1667,38.881,-76.336,991
-37399,Romancoke,VA,,city-us,0,37.574,-76.851,1010
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37400,Romancoke,MD,Queen Anne's County,,city-us,1667,38.881,-76.336,991
+37399,Romancoke,VA,King William County,,city-us,0,37.574,-76.851,1010

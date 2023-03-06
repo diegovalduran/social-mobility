@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1836,Atlas,MI,,city-us,7993,42.921,-83.509,3819
-1839,Atlas,PA,,city-us,753,40.800,-76.428,276
-1837,Atlas,TX,,city-us,0,33.569,-95.617,297
-1838,Atlas,CA,,city-us,0,38.429,-122.248,351
-1840,Atlas,IL,,city-us,0,39.514,-90.969,320
-1841,Atlas,WV,,city-us,0,38.977,-80.280,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1836,Atlas,MI,Genesee County,,city-us,7993,42.921,-83.509,3819
+1839,Atlas,PA,Northumberland County,,city-us,753,40.800,-76.428,276
+1837,Atlas,TX,Lamar County,,city-us,0,33.569,-95.617,297
+1838,Atlas,CA,Napa County,,city-us,0,38.429,-122.248,351
+1840,Atlas,IL,Pike County,,city-us,0,39.514,-90.969,320
+1841,Atlas,WV,Upshur County,,city-us,0,38.977,-80.280,86

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19459,Hazelhurst,WI,,city-us,1267,45.808,-89.725,2521
-19457,Hazelhurst,MI,,city-us,1249,41.886,-86.618,4554
-19458,Hazelhurst,IL,,city-us,0,41.963,-89.686,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19459,Hazelhurst,WI,Oneida County,,city-us,1267,45.808,-89.725,2521
+19457,Hazelhurst,MI,Berrien County,,city-us,1249,41.886,-86.618,4554
+19458,Hazelhurst,IL,Carroll County,,city-us,0,41.963,-89.686,165

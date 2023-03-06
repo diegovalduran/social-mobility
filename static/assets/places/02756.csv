@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13725,Encino,TX,,city-us,71,26.936,-98.135,2214
-13726,Encino,NM,,city-us,53,34.651,-105.462,1907
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13725,Encino,TX,Brooks County,,city-us,71,26.936,-98.135,2214
+13726,Encino,NM,Torrance County,,city-us,53,34.651,-105.462,1907

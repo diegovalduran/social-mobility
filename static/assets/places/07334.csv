@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37232,Rockledge,FL,,city-us,28316,28.351,-80.725,14995
-37234,Rockledge,PA,,city-us,2623,40.081,-75.090,3171
-37233,Rockledge,GA,,city-us,0,32.443,-82.698,531
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37232,Rockledge,FL,Brevard County,,city-us,28316,28.351,-80.725,14995
+37234,Rockledge,PA,Montgomery County,,city-us,2623,40.081,-75.090,3171
+37233,Rockledge,GA,Laurens County,,city-us,0,32.443,-82.698,531

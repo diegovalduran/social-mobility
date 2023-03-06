@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38313,Saline,MI,,city-us,8961,42.167,-83.782,5659
-38310,Saline,IL,,city-us,6910,38.782,-89.644,598
-38309,Saline,OH,,city-us,1157,40.551,-80.697,1478
-38308,Saline,LA,,city-us,264,32.165,-92.974,3934
-38311,Saline,ND,,city-us,14,48.422,-100.875,0
-38312,Saline,TX,,city-us,0,30.723,-99.553,172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38313,Saline,MI,Washtenaw County,,city-us,8961,42.167,-83.782,5659
+38310,Saline,IL,Madison County,,city-us,6910,38.782,-89.644,598
+38309,Saline,OH,Jefferson County,,city-us,1157,40.551,-80.697,1478
+38308,Saline,LA,Bienville Parish,,city-us,264,32.165,-92.974,3934
+38311,Saline,ND,McHenry County,,city-us,14,48.422,-100.875,0
+38312,Saline,TX,Menard County,,city-us,0,30.723,-99.553,172

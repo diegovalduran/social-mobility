@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15983,Frenchville,WI,,city-us,1426,44.150,-91.323,1994
-15981,Frenchville,ME,,city-us,1052,47.274,-68.398,3571
-15982,Frenchville,PA,,city-us,0,41.105,-78.220,738
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15983,Frenchville,WI,Trempealeau County,,city-us,1426,44.150,-91.323,1994
+15981,Frenchville,ME,Aroostook County,,city-us,1052,47.274,-68.398,3571
+15982,Frenchville,PA,Clearfield County,,city-us,0,41.105,-78.220,738

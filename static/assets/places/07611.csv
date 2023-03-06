@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38602,Sandy Run,PA,,city-us,0,40.122,-78.230,110
-38603,Sandy Run,SC,,city-us,0,33.800,-80.964,1365
-38604,Sandy Run,PA,,city-us,0,41.019,-75.857,107
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38602,Sandy Run,PA,Bedford County,,city-us,0,40.122,-78.230,110
+38603,Sandy Run,SC,Calhoun County,,city-us,0,33.800,-80.964,1365
+38604,Sandy Run,PA,Luzerne County,,city-us,0,41.019,-75.857,107

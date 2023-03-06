@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11114,Dawn,MO,,city-us,100,39.668,-93.635,665
-11111,Dawn,VA,,city-us,0,37.835,-77.363,550
-11112,Dawn,OH,,city-us,0,40.217,-84.579,571
-11113,Dawn,TX,,city-us,0,34.910,-102.200,1033
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11114,Dawn,MO,Livingston County,,city-us,100,39.668,-93.635,665
+11111,Dawn,VA,Caroline County,,city-us,0,37.835,-77.363,550
+11112,Dawn,OH,Darke County,,city-us,0,40.217,-84.579,571
+11113,Dawn,TX,Deaf Smith County,,city-us,0,34.910,-102.200,1033

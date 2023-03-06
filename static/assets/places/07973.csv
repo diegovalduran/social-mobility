@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40324,Soperton,GA,,city-us,2843,32.377,-82.592,2544
-40323,Soperton,WI,,city-us,0,45.438,-88.636,380
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40324,Soperton,GA,Treutlen County,,city-us,2843,32.377,-82.592,2544
+40323,Soperton,WI,Forest County,,city-us,0,45.438,-88.636,380

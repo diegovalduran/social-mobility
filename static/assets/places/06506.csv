@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33173,Parker City,IN,,city-us,1283,40.189,-85.204,3280
-33172,Parker City,IL,,city-us,0,37.568,-88.798,908
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33173,Parker City,IN,Randolph County,,city-us,1283,40.189,-85.204,3280
+33172,Parker City,IL,Johnson County,,city-us,0,37.568,-88.798,908

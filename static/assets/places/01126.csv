@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5616,Browns,IL,,city-us,135,38.377,-87.983,2760
-5614,Browns,MO,,city-us,0,39.050,-92.261,417
-5615,Browns,AL,,city-us,0,32.437,-87.366,254
-5617,Browns,OH,,city-us,0,39.903,-84.600,271
-5618,Browns,MO,,city-us,0,36.862,-89.633,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5616,Browns,IL,Edwards County,,city-us,135,38.377,-87.983,2760
+5614,Browns,MO,Boone County,,city-us,0,39.050,-92.261,417
+5615,Browns,AL,Dallas County,,city-us,0,32.437,-87.366,254
+5617,Browns,OH,Preble County,,city-us,0,39.903,-84.600,271
+5618,Browns,MO,Scott County,,city-us,0,36.862,-89.633,280

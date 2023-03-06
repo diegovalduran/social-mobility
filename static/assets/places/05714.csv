@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29425,Moose River,ME,,city-us,187,45.703,-70.221,3063
-29424,Moose River,MN,,city-us,28,48.493,-95.796,1667
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29425,Moose River,ME,Somerset County,,city-us,187,45.703,-70.221,3063
+29424,Moose River,MN,Marshall County,,city-us,28,48.493,-95.796,1667

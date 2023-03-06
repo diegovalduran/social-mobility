@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41648,Stovall,NC,,city-us,335,36.448,-78.570,1971
-41647,Stovall,MS,,city-us,0,34.297,-90.645,1096
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41648,Stovall,NC,Granville County,,city-us,335,36.448,-78.570,1971
+41647,Stovall,MS,Coahoma County,,city-us,0,34.297,-90.645,1096

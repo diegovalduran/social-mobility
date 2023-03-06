@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36992,Riverwood,KY,,city-us,487,38.283,-85.662,2381
-36991,Riverwood,IN,,city-us,0,40.101,-85.968,192
-36993,Riverwood,OR,,city-us,0,45.444,-122.664,183
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36992,Riverwood,KY,Jefferson County,,city-us,487,38.283,-85.662,2381
+36991,Riverwood,IN,Hamilton County,,city-us,0,40.101,-85.968,192
+36993,Riverwood,OR,Multnomah County,,city-us,0,45.444,-122.664,183

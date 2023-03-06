@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37731,Round Hill,VA,,city-us,695,39.133,-77.769,6830
-37730,Round Hill,VA,,city-us,0,39.194,-78.242,607
-37732,Round Hill,KY,,city-us,0,37.679,-84.416,616
-37733,Round Hill,VA,,city-us,0,38.560,-78.158,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37731,Round Hill,VA,Loudoun County,,city-us,695,39.133,-77.769,6830
+37730,Round Hill,VA,Frederick County,,city-us,0,39.194,-78.242,607
+37732,Round Hill,KY,Madison County,,city-us,0,37.679,-84.416,616
+37733,Round Hill,VA,Rappahannock County,,city-us,0,38.560,-78.158,119

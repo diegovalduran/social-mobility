@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47663,Woodson,AR,,city-us,661,34.529,-92.211,3311
-47662,Woodson,IL,,city-us,483,39.629,-90.219,2137
-47664,Woodson,TX,,city-us,229,33.015,-99.054,8013
-47661,Woodson,OR,,city-us,0,46.115,-123.324,627
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47663,Woodson,AR,Pulaski County,,city-us,661,34.529,-92.211,3311
+47662,Woodson,IL,Morgan County,,city-us,483,39.629,-90.219,2137
+47664,Woodson,TX,Throckmorton County,,city-us,229,33.015,-99.054,8013
+47661,Woodson,OR,Columbia County,,city-us,0,46.115,-123.324,627

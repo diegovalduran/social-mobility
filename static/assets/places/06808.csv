@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34704,Pleasant View,UT,,city-us,11177,41.318,-111.992,2989
-34691,Pleasant View,TN,,city-us,5119,36.394,-87.037,2219
-34698,Pleasant View,IL,,city-us,1384,39.692,-89.083,604
-34689,Pleasant View,PA,,city-us,765,40.611,-79.574,326
-34692,Pleasant View,KS,,city-us,560,37.265,-94.674,468
-34705,Pleasant View,KY,,city-us,296,36.678,-84.129,164
-34694,Pleasant View,ND,,city-us,139,47.808,-97.445,0
-34703,Pleasant View,SD,,city-us,120,43.212,-99.721,0
-34701,Pleasant View,MN,,city-us,107,47.366,-96.524,1820
-34695,Pleasant View,NE,,city-us,82,42.559,-98.824,250
-34690,Pleasant View,SD,,city-us,62,44.582,-98.272,0
-34693,Pleasant View,OH,,city-us,0,39.665,-83.633,179
-34696,Pleasant View,WV,,city-us,0,38.922,-81.788,256
-34697,Pleasant View,WV,,city-us,0,38.249,-82.191,201
-34699,Pleasant View,WV,,city-us,0,39.549,-80.121,168
-34700,Pleasant View,CO,,city-us,0,37.588,-108.766,1871
-34702,Pleasant View,IN,,city-us,0,39.663,-85.942,511
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34704,Pleasant View,UT,Weber County,,city-us,11177,41.318,-111.992,2989
+34691,Pleasant View,TN,Cheatham County,,city-us,5119,36.394,-87.037,2219
+34698,Pleasant View,IL,Macon County,,city-us,1384,39.692,-89.083,604
+34689,Pleasant View,PA,Armstrong County,,city-us,765,40.611,-79.574,326
+34692,Pleasant View,KS,Cherokee County,,city-us,560,37.265,-94.674,468
+34705,Pleasant View,KY,Whitley County,,city-us,296,36.678,-84.129,164
+34694,Pleasant View,ND,Grand Forks County,,city-us,139,47.808,-97.445,0
+34703,Pleasant View,SD,Tripp County,,city-us,120,43.212,-99.721,0
+34701,Pleasant View,MN,Norman County,,city-us,107,47.366,-96.524,1820
+34695,Pleasant View,NE,Holt County,,city-us,82,42.559,-98.824,250
+34690,Pleasant View,SD,Beadle County,,city-us,62,44.582,-98.272,0
+34693,Pleasant View,OH,Fayette County,,city-us,0,39.665,-83.633,179
+34696,Pleasant View,WV,Jackson County,,city-us,0,38.922,-81.788,256
+34697,Pleasant View,WV,Lincoln County,,city-us,0,38.249,-82.191,201
+34699,Pleasant View,WV,Marion County,,city-us,0,39.549,-80.121,168
+34700,Pleasant View,CO,Montezuma County,,city-us,0,37.588,-108.766,1871
+34702,Pleasant View,IN,Shelby County,,city-us,0,39.663,-85.942,511

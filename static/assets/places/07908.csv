@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40044,Slippery Rock,PA,,city-us,6955,41.065,-80.032,430
-40045,Slippery Rock,PA,,city-us,2903,40.963,-80.221,430
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40044,Slippery Rock,PA,Butler County,,city-us,6955,41.065,-80.032,430
+40045,Slippery Rock,PA,Lawrence County,,city-us,2903,40.963,-80.221,430

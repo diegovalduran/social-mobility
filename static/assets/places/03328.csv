@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16855,Girard,OH,,city-us,9553,41.154,-80.701,3436
-16850,Girard,PA,,city-us,4848,41.983,-80.325,175
-16849,Girard,KS,,city-us,2497,37.511,-94.838,13420
-16852,Girard,IL,,city-us,2129,39.457,-89.757,574
-16846,Girard,MI,,city-us,1780,42.021,-85.013,2728
-16853,Girard,MN,,city-us,710,46.332,-95.589,1642
-16848,Girard,PA,,city-us,560,41.145,-78.288,175
-16847,Girard,GA,,city-us,180,33.040,-81.712,2028
-16851,Girard,TX,,city-us,20,33.362,-100.663,2165
-16854,Girard,LA,,city-us,0,32.482,-91.806,4056
-16856,Girard,WV,,city-us,0,38.168,-82.316,94
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16855,Girard,OH,Trumbull County,,city-us,9553,41.154,-80.701,3436
+16850,Girard,PA,Erie County,,city-us,4848,41.983,-80.325,175
+16849,Girard,KS,Crawford County,,city-us,2497,37.511,-94.838,13420
+16852,Girard,IL,Macoupin County,,city-us,2129,39.457,-89.757,574
+16846,Girard,MI,Branch County,,city-us,1780,42.021,-85.013,2728
+16853,Girard,MN,Otter Tail County,,city-us,710,46.332,-95.589,1642
+16848,Girard,PA,Clearfield County,,city-us,560,41.145,-78.288,175
+16847,Girard,GA,Burke County,,city-us,180,33.040,-81.712,2028
+16851,Girard,TX,Kent County,,city-us,20,33.362,-100.663,2165
+16854,Girard,LA,Richland Parish,,city-us,0,32.482,-91.806,4056
+16856,Girard,WV,Wayne County,,city-us,0,38.168,-82.316,94

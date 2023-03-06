@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19869,Hickory Grove,SC,,city-us,459,34.983,-81.416,2175
-19862,Hickory Grove,IL,,city-us,0,39.938,-91.315,1674
-19863,Hickory Grove,IL,,city-us,0,42.060,-90.067,156
-19864,Hickory Grove,WI,,city-us,0,43.106,-90.599,124
-19865,Hickory Grove,WV,,city-us,0,37.834,-80.676,141
-19866,Hickory Grove,SC,,city-us,0,33.877,-78.973,185
-19867,Hickory Grove,WI,,city-us,0,44.298,-87.868,126
-19868,Hickory Grove,MS,,city-us,0,33.477,-88.707,103
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19869,Hickory Grove,SC,York County,,city-us,459,34.983,-81.416,2175
+19862,Hickory Grove,IL,Adams County,,city-us,0,39.938,-91.315,1674
+19863,Hickory Grove,IL,Carroll County,,city-us,0,42.060,-90.067,156
+19864,Hickory Grove,WI,Grant County,,city-us,0,43.106,-90.599,124
+19865,Hickory Grove,WV,Greenbrier County,,city-us,0,37.834,-80.676,141
+19866,Hickory Grove,SC,Horry County,,city-us,0,33.877,-78.973,185
+19867,Hickory Grove,WI,Manitowoc County,,city-us,0,44.298,-87.868,126
+19868,Hickory Grove,MS,Oktibbeha County,,city-us,0,33.477,-88.707,103

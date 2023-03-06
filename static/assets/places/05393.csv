@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27623,McMinnville,OR,,city-us,34666,45.210,-123.199,24552
-27622,McMinnville,TN,,city-us,13861,35.683,-85.770,11062
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27623,McMinnville,OR,Yamhill County,,city-us,34666,45.210,-123.199,24552
+27622,McMinnville,TN,Warren County,,city-us,13861,35.683,-85.770,11062

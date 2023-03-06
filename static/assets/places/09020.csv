@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45411,Washingtonville,NY,,city-us,5783,41.428,-74.166,8274
-45409,Washingtonville,OH,,city-us,707,40.896,-80.768,3845
-45410,Washingtonville,PA,,city-us,202,41.052,-76.675,2896
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45411,Washingtonville,NY,Orange County,,city-us,5783,41.428,-74.166,8274
+45409,Washingtonville,OH,Columbiana County / Mahoning County,,city-us,707,40.896,-80.768,3845
+45410,Washingtonville,PA,Montour County,,city-us,202,41.052,-76.675,2896

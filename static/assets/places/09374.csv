@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47387,Wisconsin,,United States,state,5892539,44.786,-89.827,56292
-47386,Wisconsin,MN,,city-us,211,43.631,-94.914,2198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47387,Wisconsin,,,United States,state,5892539,44.786,-89.827,56292
+47386,Wisconsin,MN,Jackson County,,city-us,211,43.631,-94.914,2198

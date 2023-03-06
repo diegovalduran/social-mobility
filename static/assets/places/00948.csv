@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4762,Borden,IN,,city-us,798,38.467,-85.946,9466
-4763,Borden,TX,,city-us,0,29.691,-96.702,2205
-4764,Borden,CA,,city-us,0,36.930,-120.027,804
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4762,Borden,IN,Clark County,,city-us,798,38.467,-85.946,9466
+4763,Borden,TX,Colorado County,,city-us,0,29.691,-96.702,2205
+4764,Borden,CA,Madera County,,city-us,0,36.930,-120.027,804

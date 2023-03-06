@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26014,Lund,MN,,city-us,350,46.057,-95.715,1914
-26019,Lund,NV,,city-us,145,38.857,-115.008,1305
-26018,Lund,ND,,city-us,55,48.059,-101.846,0
-26015,Lund,UT,,city-us,0,38.008,-113.432,2379
-26016,Lund,WI,,city-us,0,44.540,-92.206,682
-26017,Lund,TX,,city-us,0,30.407,-97.396,94
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26014,Lund,MN,Douglas County,,city-us,350,46.057,-95.715,1914
+26019,Lund,NV,White Pine County,,city-us,145,38.857,-115.008,1305
+26018,Lund,ND,Ward County,,city-us,55,48.059,-101.846,0
+26015,Lund,UT,Iron County,,city-us,0,38.008,-113.432,2379
+26016,Lund,WI,Pepin County,,city-us,0,44.540,-92.206,682
+26017,Lund,TX,Travis County,,city-us,0,30.407,-97.396,94

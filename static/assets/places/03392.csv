@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17170,Gonzales,LA,,city-us,12574,30.239,-90.920,8417
-17172,Gonzales,CA,,city-us,8576,36.507,-121.444,8293
-17171,Gonzales,TX,,city-us,7098,29.502,-97.452,9621
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17170,Gonzales,LA,Ascension Parish,,city-us,12574,30.239,-90.920,8417
+17172,Gonzales,CA,Monterey County,,city-us,8576,36.507,-121.444,8293
+17171,Gonzales,TX,Gonzales County,,city-us,7098,29.502,-97.452,9621

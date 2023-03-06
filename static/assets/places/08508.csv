@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42867,Thornwood,NY,,city-us,4375,41.123,-73.779,5758
-42865,Thornwood,WV,,city-us,0,38.558,-79.737,262
-42866,Thornwood,WA,,city-us,0,48.583,-122.231,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42867,Thornwood,NY,Westchester County,,city-us,4375,41.123,-73.779,5758
+42865,Thornwood,WV,Pocahontas County,,city-us,0,38.558,-79.737,262
+42866,Thornwood,WA,Skagit County,,city-us,0,48.583,-122.231,257

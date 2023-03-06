@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41314,Starkey,NY,,city-us,3371,42.524,-76.945,3702
-41312,Starkey,VA,,city-us,0,37.201,-79.999,1593
-41313,Starkey,OR,,city-us,0,45.222,-118.426,738
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41314,Starkey,NY,Yates County,,city-us,3371,42.524,-76.945,3702
+41312,Starkey,VA,Roanoke County,,city-us,0,37.201,-79.999,1593
+41313,Starkey,OR,Union County,,city-us,0,45.222,-118.426,738

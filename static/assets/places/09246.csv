@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46649,Whitehorse,SD,,city-us,227,45.271,-100.887,1891
-46648,Whitehorse,PA,,city-us,0,39.990,-75.469,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46649,Whitehorse,SD,Dewey County,,city-us,227,45.271,-100.887,1891
+46648,Whitehorse,PA,Chester County,,city-us,0,39.990,-75.469,198

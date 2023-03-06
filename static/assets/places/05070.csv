@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25996,Lulu,MI,,city-us,4964,41.866,-83.589,4160
-25995,Lulu,FL,,city-us,0,30.108,-82.491,324
-25997,Lulu,MO,,city-us,0,36.689,-91.305,418
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25996,Lulu,MI,Monroe County,,city-us,4964,41.866,-83.589,4160
+25995,Lulu,FL,Columbia County,,city-us,0,30.108,-82.491,324
+25997,Lulu,MO,Oregon County,,city-us,0,36.689,-91.305,418

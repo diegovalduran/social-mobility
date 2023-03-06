@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8444,Clancy,MT,,city-us,1902,46.465,-111.986,3264
-8443,Clancie,VA,,city-us,0,37.581,-76.693,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8444,Clancy,MT,Jefferson County,,city-us,1902,46.465,-111.986,3264
+8443,Clancie,VA,King and Queen County,,city-us,0,37.581,-76.693,91

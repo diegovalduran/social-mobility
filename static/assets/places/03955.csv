@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20228,Hitt,IL,,city-us,0,41.995,-89.736,117
-20229,Hitt,IL,,city-us,0,41.317,-88.856,134
-20230,Hitt,MO,,city-us,0,40.564,-92.256,466
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20228,Hitt,IL,Carroll County,,city-us,0,41.995,-89.736,117
+20229,Hitt,IL,LaSalle County,,city-us,0,41.317,-88.856,134
+20230,Hitt,MO,Scotland County,,city-us,0,40.564,-92.256,466

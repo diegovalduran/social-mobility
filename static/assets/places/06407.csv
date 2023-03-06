@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32682,Otter,KS,,city-us,33,37.160,-96.548,455
-32683,Otter,MT,,city-us,0,45.208,-106.202,1048
-32684,Otter,OH,,city-us,0,40.276,-83.419,450
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32682,Otter,KS,Cowley County,,city-us,33,37.160,-96.548,455
+32683,Otter,MT,Powder River County,,city-us,0,45.208,-106.202,1048
+32684,Otter,OH,Union County,,city-us,0,40.276,-83.419,450

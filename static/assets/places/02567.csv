@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12736,East Side,MN,,city-us,666,46.203,-93.496,1913
-12734,East Side,PA,,city-us,251,41.061,-75.769,2411
-12735,East Side,WV,,city-us,0,38.354,-81.641,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12736,East Side,MN,Mille Lacs County,,city-us,666,46.203,-93.496,1913
+12734,East Side,PA,Carbon County,,city-us,251,41.061,-75.769,2411
+12735,East Side,WV,Kanawha County,,city-us,0,38.354,-81.641,91

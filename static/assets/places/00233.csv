@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1239,Antler,ND,,city-us,64,48.951,-101.289,216
-1240,Antler,WV,,city-us,0,37.453,-81.624,154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1239,Antler,ND,Bottineau County,,city-us,64,48.951,-101.289,216
+1240,Antler,WV,McDowell County,,city-us,0,37.453,-81.624,154

@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23766,Lakeville,MN,,city-us,72812,44.650,-93.243,12838
-23773,Lakeville,MA,,city-us,11762,41.834,-70.957,11073
-23771,Lakeville,MI,,city-us,6351,42.838,-83.150,3064
-23776,Lakeville,PA,,city-us,945,41.438,-75.277,656
-23775,Lakeville,IN,,city-us,878,41.524,-86.273,4286
-23770,Lakeville,CT,,city-us,833,41.962,-73.443,3079
-23769,Lakeville,NY,,city-us,773,42.836,-77.705,949
-23772,Lakeville,ME,,city-us,104,45.303,-68.086,2780
-23767,Lakeville,ND,,city-us,75,48.070,-97.330,0
-23768,Lakeville,OH,,city-us,0,40.656,-82.127,248
-23774,Lakeville,CA,,city-us,0,38.199,-122.547,1866
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23766,Lakeville,MN,Dakota County,,city-us,72812,44.650,-93.243,12838
+23773,Lakeville,MA,Plymouth County,,city-us,11762,41.834,-70.957,11073
+23771,Lakeville,MI,Oakland County,,city-us,6351,42.838,-83.150,3064
+23776,Lakeville,PA,Wayne County,,city-us,945,41.438,-75.277,656
+23775,Lakeville,IN,St. Joseph County,,city-us,878,41.524,-86.273,4286
+23770,Lakeville,CT,Northwest Hills Planning Region,,city-us,833,41.962,-73.443,3079
+23769,Lakeville,NY,Livingston County,,city-us,773,42.836,-77.705,949
+23772,Lakeville,ME,Penobscot County,,city-us,104,45.303,-68.086,2780
+23767,Lakeville,ND,Grand Forks County,,city-us,75,48.070,-97.330,0
+23768,Lakeville,OH,Holmes County,,city-us,0,40.656,-82.127,248
+23774,Lakeville,CA,Sonoma County,,city-us,0,38.199,-122.547,1866

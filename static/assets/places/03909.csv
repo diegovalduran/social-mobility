@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20013,Highwood,IL,,city-us,5374,42.200,-87.809,8204
-20011,Highwood,MT,,city-us,225,47.584,-110.790,2613
-20012,Highwood,WI,,city-us,0,42.860,-89.022,103
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20013,Highwood,IL,Lake County,,city-us,5374,42.200,-87.809,8204
+20011,Highwood,MT,Chouteau County,,city-us,225,47.584,-110.790,2613
+20012,Highwood,WI,Dane County,,city-us,0,42.860,-89.022,103

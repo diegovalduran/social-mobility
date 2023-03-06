@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-601,Aliceton,ND,,city-us,130,46.319,-97.585,0
-600,Aliceton,KY,,city-us,0,37.591,-85.030,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+601,Aliceton,ND,Ransom County,,city-us,130,46.319,-97.585,0
+600,Aliceton,KY,Boyle County,,city-us,0,37.591,-85.030,243

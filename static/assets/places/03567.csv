@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18191,Grimes,IA,,city-us,15949,41.678,-93.802,5116
-18190,Grimes,AL,,city-us,576,31.305,-85.448,2128
-18189,Grimes,CA,,city-us,442,39.074,-121.894,3065
-18192,Grimes,VA,,city-us,0,39.278,-78.126,159
-18193,Grimes,OK,,city-us,0,35.466,-99.761,904
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18191,Grimes,IA,Dallas County / Polk County,,city-us,15949,41.678,-93.802,5116
+18190,Grimes,AL,Dale County,,city-us,576,31.305,-85.448,2128
+18189,Grimes,CA,Colusa County,,city-us,442,39.074,-121.894,3065
+18192,Grimes,VA,Frederick County,,city-us,0,39.278,-78.126,159
+18193,Grimes,OK,Roger Mills County,,city-us,0,35.466,-99.761,904

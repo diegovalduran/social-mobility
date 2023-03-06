@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30724,New Liberty,IA,,city-us,140,41.718,-90.879,3151
-30722,New Liberty,KY,,city-us,0,38.616,-84.907,678
-30723,New Liberty,IL,,city-us,0,37.122,-88.448,125
-30725,New Liberty,IN,,city-us,0,38.568,-85.867,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30724,New Liberty,IA,Scott County,,city-us,140,41.718,-90.879,3151
+30722,New Liberty,KY,Owen County,,city-us,0,38.616,-84.907,678
+30723,New Liberty,IL,Pope County,,city-us,0,37.122,-88.448,125
+30725,New Liberty,IN,Washington County,,city-us,0,38.568,-85.867,167

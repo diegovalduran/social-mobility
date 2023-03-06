@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-767,Aloha,OR,,city-us,53828,45.490,-122.872,4306
-764,Aloha,MI,,city-us,949,45.497,-84.420,2512
-765,Aloha,LA,,city-us,0,31.583,-92.772,214
-766,Aloha,WA,,city-us,0,47.201,-124.168,874
+id,name,state,county,country,level,population,latitude,longitude,wiki
+767,Aloha,OR,Washington County,,city-us,53828,45.490,-122.872,4306
+764,Aloha,MI,Cheboygan County,,city-us,949,45.497,-84.420,2512
+765,Aloha,LA,Grant Parish,,city-us,0,31.583,-92.772,214
+766,Aloha,WA,Grays Harbor County,,city-us,0,47.201,-124.168,874

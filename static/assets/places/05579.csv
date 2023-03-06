@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28711,Milner,GA,,city-us,776,33.117,-84.197,2455
-28713,Milnor,ND,,city-us,623,46.259,-97.456,3392
-28712,Milner,CO,,city-us,0,40.485,-107.019,335
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28711,Milner,GA,Lamar County,,city-us,776,33.117,-84.197,2455
+28713,Milnor,ND,Sargent County,,city-us,623,46.259,-97.456,3392
+28712,Milner,CO,Routt County,,city-us,0,40.485,-107.019,335

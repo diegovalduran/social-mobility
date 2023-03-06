@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33337,Pavilion,MI,,city-us,6335,42.209,-85.476,2244
-33336,Pavilion,NY,,city-us,686,42.876,-78.023,3710
-33338,Pavillion,WY,,city-us,226,43.245,-108.690,4114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33337,Pavilion,MI,Kalamazoo County,,city-us,6335,42.209,-85.476,2244
+33336,Pavilion,NY,Genesee County,,city-us,686,42.876,-78.023,3710
+33338,Pavillion,WY,Fremont County,,city-us,226,43.245,-108.690,4114

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2604,Barview,OR,,city-us,1732,43.354,-124.313,2053
-2605,Barview,OR,,city-us,0,45.574,-123.942,996
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2604,Barview,OR,Coos County,,city-us,1732,43.354,-124.313,2053
+2605,Barview,OR,Tillamook County,,city-us,0,45.574,-123.942,996

@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9972,Cornwall,NY,,city-us,12910,41.414,-74.061,15468
-9969,Cornwall,PA,,city-us,4608,40.274,-76.406,4078
-9965,Cornwall,VT,,city-us,1223,43.963,-73.218,3821
-9967,Cornwall,IL,,city-us,257,41.363,-90.022,1444
-9971,Cornwall,CT,,city-us,72,41.844,-73.333,9064
-9973,Cornwall,SD,,city-us,38,44.658,-98.271,0
-9966,Cornwall,CA,,city-us,0,38.021,-121.879,1287
-9968,Cornwall,ID,,city-us,0,46.709,-116.866,407
-9970,Cornwall,MO,,city-us,0,37.512,-90.203,428
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9972,Cornwall,NY,Orange County,,city-us,12910,41.414,-74.061,15468
+9969,Cornwall,PA,Lebanon County,,city-us,4608,40.274,-76.406,4078
+9965,Cornwall,VT,Addison County,,city-us,1223,43.963,-73.218,3821
+9967,Cornwall,IL,Henry County,,city-us,257,41.363,-90.022,1444
+9971,Cornwall,CT,Northwest Hills Planning Region,,city-us,72,41.844,-73.333,9064
+9973,Cornwall,SD,Spink County,,city-us,38,44.658,-98.271,0
+9966,Cornwall,CA,Contra Costa County,,city-us,0,38.021,-121.879,1287
+9968,Cornwall,ID,Latah County,,city-us,0,46.709,-116.866,407
+9970,Cornwall,MO,Madison County,,city-us,0,37.512,-90.203,428

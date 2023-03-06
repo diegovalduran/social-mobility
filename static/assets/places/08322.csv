@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42083,Sunny Side,GA,,city-us,204,33.341,-84.291,1902
-42081,Sunny Side,VA,,city-us,0,37.479,-78.159,371
-42082,Sunny Side,MD,,city-us,0,39.344,-77.518,280
-42084,Sunny Side,TX,,city-us,0,29.889,-96.069,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42083,Sunny Side,GA,Spalding County,,city-us,204,33.341,-84.291,1902
+42081,Sunny Side,VA,Buckingham County,,city-us,0,37.479,-78.159,371
+42082,Sunny Side,MD,Frederick County,,city-us,0,39.344,-77.518,280
+42084,Sunny Side,TX,Waller County,,city-us,0,29.889,-96.069,177

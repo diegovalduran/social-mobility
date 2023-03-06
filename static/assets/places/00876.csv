@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4477,Blue Ball,PA,,city-us,1084,40.119,-76.047,2707
-4478,Blue Ball,DE,,city-us,0,39.777,-75.545,417
-4479,Blue Ball,AR,,city-us,0,34.962,-93.709,549
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4477,Blue Ball,PA,Lancaster County,,city-us,1084,40.119,-76.047,2707
+4478,Blue Ball,DE,New Castle County,,city-us,0,39.777,-75.545,417
+4479,Blue Ball,AR,Scott County,,city-us,0,34.962,-93.709,549

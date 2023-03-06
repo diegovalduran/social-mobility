@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47843,Wyanet,IL,,city-us,874,41.365,-89.584,2743
-47844,Wyanett,MN,,city-us,0,45.587,-93.451,288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47843,Wyanet,IL,Bureau County,,city-us,874,41.365,-89.584,2743
+47844,Wyanett,MN,Isanti County,,city-us,0,45.587,-93.451,288

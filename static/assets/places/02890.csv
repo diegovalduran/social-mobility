@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14506,Falcon,CO,,city-us,10514,38.933,-104.608,5482
-14505,Falcon,NC,,city-us,335,35.195,-78.654,2445
-14510,Falcon,MS,,city-us,113,34.393,-90.256,1766
-14507,Falcon,MO,,city-us,0,37.605,-92.379,473
-14508,Falcon,KY,,city-us,0,37.790,-83.002,263
-14509,Falcon,TN,,city-us,0,35.145,-88.601,230
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14506,Falcon,CO,El Paso County,,city-us,10514,38.933,-104.608,5482
+14505,Falcon,NC,Cumberland County / Sampson County,,city-us,335,35.195,-78.654,2445
+14510,Falcon,MS,Quitman County,,city-us,113,34.393,-90.256,1766
+14507,Falcon,MO,Laclede County,,city-us,0,37.605,-92.379,473
+14508,Falcon,KY,Magoffin County,,city-us,0,37.790,-83.002,263
+14509,Falcon,TN,McNairy County,,city-us,0,35.145,-88.601,230

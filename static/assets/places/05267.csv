@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27015,Mars Hill Crossroads,GA,,city-us,0,32.147,-83.664,227
-27016,Mars Hill Crossroads,GA,,city-us,0,34.156,-84.196,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27015,Mars Hill Crossroads,GA,Dooly County,,city-us,0,32.147,-83.664,227
+27016,Mars Hill Crossroads,GA,Forsyth County,,city-us,0,34.156,-84.196,229

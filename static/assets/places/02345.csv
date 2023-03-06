@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11788,Dillon,SC,,city-us,6282,34.417,-79.371,5433
-11786,Dillon,MT,,city-us,3976,45.216,-112.638,9200
-11791,Dillon,CO,,city-us,1057,39.630,-106.043,4401
-11787,Dillon,KS,,city-us,0,38.694,-97.147,1230
-11789,Dillon,MO,,city-us,0,37.972,-91.698,327
-11790,Dillon,WV,,city-us,0,37.770,-80.951,306
-11792,Dillon,IL,,city-us,0,40.477,-89.538,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11788,Dillon,SC,Dillon County,,city-us,6282,34.417,-79.371,5433
+11786,Dillon,MT,Beaverhead County,,city-us,3976,45.216,-112.638,9200
+11791,Dillon,CO,Summit County,,city-us,1057,39.630,-106.043,4401
+11787,Dillon,KS,Dickinson County,,city-us,0,38.694,-97.147,1230
+11789,Dillon,MO,Phelps County,,city-us,0,37.972,-91.698,327
+11790,Dillon,WV,Raleigh County,,city-us,0,37.770,-80.951,306
+11792,Dillon,IL,Tazewell County,,city-us,0,40.477,-89.538,225

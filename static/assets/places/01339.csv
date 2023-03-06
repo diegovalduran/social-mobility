@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6764,Canebrake,CA,,city-us,0,35.728,-118.138,1009
-6765,Canebrake,WV,,city-us,0,37.248,-81.641,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6764,Canebrake,CA,Kern County,,city-us,0,35.728,-118.138,1009
+6765,Canebrake,WV,McDowell County,,city-us,0,37.248,-81.641,215

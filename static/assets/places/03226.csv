@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16258,Gano,OH,,city-us,0,39.302,-84.408,224
-16259,Gano,KS,,city-us,0,38.192,-100.911,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16258,Gano,OH,Butler County,,city-us,0,39.302,-84.408,224
+16259,Gano,KS,Finney County,,city-us,0,38.192,-100.911,163

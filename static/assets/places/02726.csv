@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13567,Elon,NC,,city-us,11350,36.103,-79.507,3906
-13568,Elon,IA,,city-us,0,43.264,-91.324,232
-13569,Elon,VA,,city-us,0,37.518,-79.195,1307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13567,Elon,NC,Alamance County,,city-us,11350,36.103,-79.507,3906
+13568,Elon,IA,Allamakee County,,city-us,0,43.264,-91.324,232
+13569,Elon,VA,Amherst County,,city-us,0,37.518,-79.195,1307

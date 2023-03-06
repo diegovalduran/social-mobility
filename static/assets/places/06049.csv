@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30899,Newbern,TN,,city-us,3313,36.113,-89.262,3039
-30898,Newbern,KS,,city-us,390,38.826,-97.206,417
-30900,Newbern,AL,,city-us,131,32.593,-87.533,2906
-30897,Newbern,IN,,city-us,0,39.235,-85.751,357
-30901,Newbern,IL,,city-us,0,39.007,-90.337,149
-30902,Newbern,VA,,city-us,0,37.073,-80.691,3886
-30903,Newbern,OH,,city-us,0,40.251,-84.241,137
-30904,Newberne,WV,,city-us,0,39.044,-80.893,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30899,Newbern,TN,Dyer County,,city-us,3313,36.113,-89.262,3039
+30898,Newbern,KS,Dickinson County,,city-us,390,38.826,-97.206,417
+30900,Newbern,AL,Hale County,,city-us,131,32.593,-87.533,2906
+30897,Newbern,IN,Bartholomew County,,city-us,0,39.235,-85.751,357
+30901,Newbern,IL,Jersey County,,city-us,0,39.007,-90.337,149
+30902,Newbern,VA,Pulaski County,,city-us,0,37.073,-80.691,3886
+30903,Newbern,OH,Shelby County,,city-us,0,40.251,-84.241,137
+30904,Newberne,WV,Gilmer County,,city-us,0,39.044,-80.893,243

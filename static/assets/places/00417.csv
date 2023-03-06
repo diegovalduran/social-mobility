@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2210,Baileyton,AL,,city-us,660,34.262,-86.613,2302
-2211,Baileyton,TN,,city-us,445,36.334,-82.837,4125
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2210,Baileyton,AL,Cullman County,,city-us,660,34.262,-86.613,2302
+2211,Baileyton,TN,Greene County,,city-us,445,36.334,-82.837,4125

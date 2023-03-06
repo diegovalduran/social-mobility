@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14619,Farmersburg,IN,,city-us,1061,39.249,-87.382,4228
-14618,Farmersburg,IA,,city-us,274,42.961,-91.368,3522
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14619,Farmersburg,IN,Sullivan County,,city-us,1061,39.249,-87.382,4228
+14618,Farmersburg,IA,Clayton County,,city-us,274,42.961,-91.368,3522

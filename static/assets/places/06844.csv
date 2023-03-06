@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34877,Pollock,LA,,city-us,398,31.526,-92.407,5315
-34876,Pollock,SD,,city-us,230,45.901,-100.288,3618
-34879,Pollock,MO,,city-us,47,40.359,-93.085,6097
-34878,Pollock,ID,,city-us,0,45.313,-116.359,197
-34880,Pollok,TX,,city-us,0,31.449,-94.859,3302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34877,Pollock,LA,Grant Parish,,city-us,398,31.526,-92.407,5315
+34876,Pollock,SD,Campbell County,,city-us,230,45.901,-100.288,3618
+34879,Pollock,MO,Sullivan County,,city-us,47,40.359,-93.085,6097
+34878,Pollock,ID,Idaho County,,city-us,0,45.313,-116.359,197
+34880,Pollok,TX,Angelina County,,city-us,0,31.449,-94.859,3302

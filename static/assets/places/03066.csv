@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15384,Forestburgh,NY,,city-us,826,41.562,-74.710,12849
-15383,Forestburg,SD,,city-us,45,44.022,-98.108,568
-15382,Forestburg,TX,,city-us,0,33.533,-97.557,373
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15384,Forestburgh,NY,Sullivan County,,city-us,826,41.562,-74.710,12849
+15383,Forestburg,SD,Sanborn County,,city-us,45,44.022,-98.108,568
+15382,Forestburg,TX,Montague County,,city-us,0,33.533,-97.557,373

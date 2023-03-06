@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29908,Mount Tabor,VT,,city-us,210,43.351,-72.922,2280
-29904,Mount Tabor,PA,,city-us,0,40.013,-77.239,196
-29905,Mount Tabor,PA,,city-us,0,40.987,-79.218,666
-29906,Mount Tabor,IN,,city-us,0,39.311,-86.633,402
-29907,Mount Tabor,NJ,,city-us,0,40.871,-74.480,16194
-29909,Mount Tabor,OH,,city-us,0,40.520,-81.373,428
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29908,Mount Tabor,VT,Rutland County,,city-us,210,43.351,-72.922,2280
+29904,Mount Tabor,PA,Adams County,,city-us,0,40.013,-77.239,196
+29905,Mount Tabor,PA,Armstrong County,,city-us,0,40.987,-79.218,666
+29906,Mount Tabor,IN,Monroe County,,city-us,0,39.311,-86.633,402
+29907,Mount Tabor,NJ,Morris County,,city-us,0,40.871,-74.480,16194
+29909,Mount Tabor,OH,Tuscarawas County,,city-us,0,40.520,-81.373,428

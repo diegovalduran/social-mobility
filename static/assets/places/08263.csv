@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41774,Stubbs,WI,,city-us,526,45.433,-91.342,1905
-41771,Stubbs,KS,,city-us,0,37.007,-98.566,159
-41772,Stubbs,TX,,city-us,0,32.409,-96.288,94
-41773,Stubbs,MO,,city-us,0,39.425,-94.751,253
-41775,Stubbs,VA,,city-us,0,38.150,-77.829,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41774,Stubbs,WI,Rusk County,,city-us,526,45.433,-91.342,1905
+41771,Stubbs,KS,Barber County,,city-us,0,37.007,-98.566,159
+41772,Stubbs,TX,Kaufman County,,city-us,0,32.409,-96.288,94
+41773,Stubbs,MO,Platte County,,city-us,0,39.425,-94.751,253
+41775,Stubbs,VA,Spotsylvania County,,city-us,0,38.150,-77.829,167

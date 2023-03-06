@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15403,Fork,MI,,city-us,1581,43.767,-85.146,1973
-15402,Fork,MN,,city-us,6,48.410,-97.091,1707
-15400,Fork,MD,,city-us,0,39.468,-76.442,83
-15401,Fork,SC,,city-us,0,34.288,-79.275,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15403,Fork,MI,Mecosta County,,city-us,1581,43.767,-85.146,1973
+15402,Fork,MN,Marshall County,,city-us,6,48.410,-97.091,1707
+15400,Fork,MD,Baltimore County,,city-us,0,39.468,-76.442,83
+15401,Fork,SC,Dillon County,,city-us,0,34.288,-79.275,257

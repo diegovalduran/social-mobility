@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30820,New Salem,MI,,city-us,5156,42.718,-85.830,3146
-30827,New Salem,ND,,city-us,1011,46.845,-101.411,4166
-30825,New Salem,MA,,city-us,997,42.459,-72.327,7501
-30833,New Salem,PA,,city-us,821,39.901,-76.789,2533
-30824,New Salem,PA,,city-us,627,39.924,-79.836,741
-30828,New Salem,IL,,city-us,493,39.709,-90.858,1676
-30826,New Salem,IL,,city-us,335,40.407,-90.495,412
-30822,New Salem,KS,,city-us,58,37.311,-96.895,509
-30830,New Salem,TX,,city-us,55,31.942,-94.960,1259
-30821,New Salem,PA,,city-us,0,40.988,-79.244,434
-30823,New Salem,OH,,city-us,0,39.848,-82.472,212
-30829,New Salem,IN,,city-us,0,39.542,-85.358,299
-30831,New Salem,NC,,city-us,0,35.131,-80.369,360
-30832,New Salem,IN,,city-us,0,38.621,-85.904,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30820,New Salem,MI,Allegan County,,city-us,5156,42.718,-85.830,3146
+30827,New Salem,ND,Morton County,,city-us,1011,46.845,-101.411,4166
+30825,New Salem,MA,Franklin County,,city-us,997,42.459,-72.327,7501
+30833,New Salem,PA,York County,,city-us,821,39.901,-76.789,2533
+30824,New Salem,PA,Fayette County,,city-us,627,39.924,-79.836,741
+30828,New Salem,IL,Pike County,,city-us,493,39.709,-90.858,1676
+30826,New Salem,IL,McDonough County,,city-us,335,40.407,-90.495,412
+30822,New Salem,KS,Cowley County,,city-us,58,37.311,-96.895,509
+30830,New Salem,TX,Rusk County,,city-us,55,31.942,-94.960,1259
+30821,New Salem,PA,Armstrong County,,city-us,0,40.988,-79.244,434
+30823,New Salem,OH,Fairfield County,,city-us,0,39.848,-82.472,212
+30829,New Salem,IN,Rush County,,city-us,0,39.542,-85.358,299
+30831,New Salem,NC,Union County,,city-us,0,35.131,-80.369,360
+30832,New Salem,IN,Washington County,,city-us,0,38.621,-85.904,163

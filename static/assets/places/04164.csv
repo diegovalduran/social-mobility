@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21414,Ingleside,TX,,city-us,9898,27.871,-97.208,2789
-21412,Ingleside,IL,,city-us,9286,42.381,-88.139,1966
-21409,Ingleside,NE,,city-us,0,40.580,-98.444,357
-21410,Ingleside,KY,,city-us,0,37.123,-88.901,893
-21411,Ingleside,NC,,city-us,0,36.176,-78.296,324
-21413,Ingleside,WV,,city-us,0,37.315,-81.052,183
-21415,Ingleside,MD,,city-us,0,39.092,-75.877,659
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21414,Ingleside,TX,Nueces County / San Patricio County,,city-us,9898,27.871,-97.208,2789
+21412,Ingleside,IL,Lake County,,city-us,9286,42.381,-88.139,1966
+21409,Ingleside,NE,Adams County,,city-us,0,40.580,-98.444,357
+21410,Ingleside,KY,Ballard County,,city-us,0,37.123,-88.901,893
+21411,Ingleside,NC,Franklin County,,city-us,0,36.176,-78.296,324
+21413,Ingleside,WV,Mercer County,,city-us,0,37.315,-81.052,183
+21415,Ingleside,MD,Queen Anne's County,,city-us,0,39.092,-75.877,659

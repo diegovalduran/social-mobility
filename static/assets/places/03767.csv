@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19287,Hauser,ID,,city-us,770,47.773,-117.028,3336
-19286,Hauser,OR,,city-us,0,43.493,-124.219,895
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19287,Hauser,ID,Kootenai County,,city-us,770,47.773,-117.028,3336
+19286,Hauser,OR,Coos County,,city-us,0,43.493,-124.219,895

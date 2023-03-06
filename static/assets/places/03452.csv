@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17497,Grande Pointe,MI,,city-us,9066,42.611,-82.592,4157
-17463,Grand Point,LA,,city-us,2241,30.061,-90.753,353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17497,Grande Pointe,MI,St. Clair County,,city-us,9066,42.611,-82.592,4157
+17463,Grand Point,LA,St. James Parish,,city-us,2241,30.061,-90.753,353

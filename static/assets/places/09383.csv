@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47421,Woburn,MA,,city-us,41056,42.479,-71.152,14445
-47420,Woburn,IL,,city-us,0,38.959,-89.346,152
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47421,Woburn,MA,Middlesex County,,city-us,41056,42.479,-71.152,14445
+47420,Woburn,IL,Bond County,,city-us,0,38.959,-89.346,152

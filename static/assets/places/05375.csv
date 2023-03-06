@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27512,McDonough,GA,,city-us,30356,33.447,-84.147,10722
-27511,McDonough,NY,,city-us,792,42.502,-75.728,3111
-27513,McDonough,DE,,city-us,0,39.491,-75.650,207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27512,McDonough,GA,Henry County,,city-us,30356,33.447,-84.147,10722
+27511,McDonough,NY,Chenango County,,city-us,792,42.502,-75.728,3111
+27513,McDonough,DE,New Castle County,,city-us,0,39.491,-75.650,207

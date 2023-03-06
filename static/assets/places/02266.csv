@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11392,Delafield,WI,,city-us,8157,43.049,-88.348,4998
-11391,Delafield,MN,,city-us,230,43.799,-95.144,2090
-11390,Delafield,IL,,city-us,0,38.148,-88.603,350
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11392,Delafield,WI,Waukesha County,,city-us,8157,43.049,-88.348,4998
+11391,Delafield,MN,Jackson County,,city-us,230,43.799,-95.144,2090
+11390,Delafield,IL,Hamilton County,,city-us,0,38.148,-88.603,350

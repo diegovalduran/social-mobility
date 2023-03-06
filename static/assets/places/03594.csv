@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18309,Guion,AR,,city-us,70,35.925,-91.941,2439
-18310,Guion,IN,,city-us,0,39.843,-87.111,536
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18309,Guion,AR,Izard County,,city-us,70,35.925,-91.941,2439
+18310,Guion,IN,Parke County,,city-us,0,39.843,-87.111,536

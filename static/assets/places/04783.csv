@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24399,Leland,NC,,city-us,25974,34.256,-78.045,11198
-24405,Leland,MS,,city-us,3888,33.405,-90.898,10316
-24402,Leland,IL,,city-us,934,41.613,-88.800,2254
-24403,Leland,MI,,city-us,410,45.024,-85.763,6778
-24406,Leland,IA,,city-us,249,43.337,-93.635,3548
-24400,Leland,WA,,city-us,0,47.892,-122.887,318
-24401,Leland,OR,,city-us,0,42.638,-123.441,509
-24404,Leland,WI,,city-us,0,43.336,-89.948,324
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24399,Leland,NC,Brunswick County,,city-us,25974,34.256,-78.045,11198
+24405,Leland,MS,Washington County,,city-us,3888,33.405,-90.898,10316
+24402,Leland,IL,LaSalle County,,city-us,934,41.613,-88.800,2254
+24403,Leland,MI,Leelanau County,,city-us,410,45.024,-85.763,6778
+24406,Leland,IA,Winnebago County,,city-us,249,43.337,-93.635,3548
+24400,Leland,WA,Jefferson County,,city-us,0,47.892,-122.887,318
+24401,Leland,OR,Josephine County,,city-us,0,42.638,-123.441,509
+24404,Leland,WI,Sauk County,,city-us,0,43.336,-89.948,324

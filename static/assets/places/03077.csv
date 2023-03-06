@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15425,Forsyth,MI,,city-us,6238,46.247,-87.449,2878
-15426,Forsyth,GA,,city-us,4512,33.034,-83.938,4364
-15424,Forsyth,IL,,city-us,3683,39.933,-88.951,3441
-15428,Forsyth,MO,,city-us,2705,36.685,-93.120,3588
-15427,Forsyth,MT,,city-us,1591,46.266,-106.678,6105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15425,Forsyth,MI,Marquette County,,city-us,6238,46.247,-87.449,2878
+15426,Forsyth,GA,Monroe County,,city-us,4512,33.034,-83.938,4364
+15424,Forsyth,IL,Macon County,,city-us,3683,39.933,-88.951,3441
+15428,Forsyth,MO,Taney County,,city-us,2705,36.685,-93.120,3588
+15427,Forsyth,MT,Rosebud County,,city-us,1591,46.266,-106.678,6105

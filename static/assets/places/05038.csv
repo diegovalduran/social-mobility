@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25854,Loving,NM,,city-us,1337,32.286,-104.096,2632
-25855,Loving,TX,,city-us,300,33.264,-98.511,1207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25854,Loving,NM,Eddy County,,city-us,1337,32.286,-104.096,2632
+25855,Loving,TX,Young County,,city-us,300,33.264,-98.511,1207

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17346,Gould City,WA,,city-us,0,46.588,-117.578,227
-17347,Gould City,MI,,city-us,0,46.095,-85.697,4290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17346,Gould City,WA,Garfield County,,city-us,0,46.588,-117.578,227
+17347,Gould City,MI,Mackinac County,,city-us,0,46.095,-85.697,4290

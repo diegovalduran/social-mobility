@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39194,Seven Oaks,SC,,city-us,15561,34.049,-81.146,2808
-39196,Seven Oaks,CA,,city-us,289,34.186,-116.914,2282
-39195,Seven Oaks,TX,,city-us,69,30.852,-94.867,2197
-39192,Seven Oaks,MD,,city-us,0,39.106,-76.708,1155
-39193,Seven Oaks,OR,,city-us,0,42.392,-122.938,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39194,Seven Oaks,SC,Lexington County,,city-us,15561,34.049,-81.146,2808
+39196,Seven Oaks,CA,San Bernardino County,,city-us,289,34.186,-116.914,2282
+39195,Seven Oaks,TX,Polk County,,city-us,69,30.852,-94.867,2197
+39192,Seven Oaks,MD,Anne Arundel County,,city-us,0,39.106,-76.708,1155
+39193,Seven Oaks,OR,Jackson County,,city-us,0,42.392,-122.938,229

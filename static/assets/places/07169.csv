@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36287,Remington,IN,,city-us,1316,40.761,-87.151,4462
-36285,Remington,VA,,city-us,632,38.534,-77.808,3552
-36286,Remington,OH,,city-us,627,39.228,-84.321,576
-36288,Remington,WI,,city-us,234,44.295,-90.202,3824
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36287,Remington,IN,Jasper County,,city-us,1316,40.761,-87.151,4462
+36285,Remington,VA,Fauquier County,,city-us,632,38.534,-77.808,3552
+36286,Remington,OH,Hamilton County,,city-us,627,39.228,-84.321,576
+36288,Remington,WI,Wood County,,city-us,234,44.295,-90.202,3824

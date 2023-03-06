@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11214,Deadwood,SD,,city-us,1201,44.377,-103.730,20165
-11213,Deadwood,OR,,city-us,0,44.096,-123.762,816
-11215,Deadwood,TX,,city-us,0,32.140,-94.142,2590
-11216,Deadwood,CA,,city-us,0,38.004,-120.108,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11214,Deadwood,SD,Lawrence County,,city-us,1201,44.377,-103.730,20165
+11213,Deadwood,OR,Lane County,,city-us,0,44.096,-123.762,816
+11215,Deadwood,TX,Panola County,,city-us,0,32.140,-94.142,2590
+11216,Deadwood,CA,Tuolumne County,,city-us,0,38.004,-120.108,215

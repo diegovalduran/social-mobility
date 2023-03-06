@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43582,Twin,OH,,city-us,4210,39.968,-84.543,223
-43585,Twin,OH,,city-us,3396,39.293,-83.159,223
-43584,Twin,OH,,city-us,2659,39.785,-84.540,223
-43583,Twin,AL,,city-us,361,34.006,-87.857,1008
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43582,Twin,OH,Darke County,,city-us,4210,39.968,-84.543,223
+43585,Twin,OH,Ross County,,city-us,3396,39.293,-83.159,223
+43584,Twin,OH,Preble County,,city-us,2659,39.785,-84.540,223
+43583,Twin,AL,Marion County,,city-us,361,34.006,-87.857,1008

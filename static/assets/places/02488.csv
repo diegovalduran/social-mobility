@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12429,Dunkirk,NY,,city-us,12614,42.480,-79.334,10466
-12427,Dunkirk,MD,,city-us,2299,38.722,-76.661,2463
-12426,Dunkirk,IN,,city-us,2140,40.374,-85.208,5904
-12431,Dunkirk,WI,,city-us,2053,42.881,-89.210,2001
-12432,Dunkirk,OH,,city-us,771,40.789,-83.643,3528
-12428,Dunkirk,IN,,city-us,0,40.756,-86.394,224
-12430,Dunkirk,KS,,city-us,0,37.484,-94.742,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12429,Dunkirk,NY,Chautauqua County,,city-us,12614,42.480,-79.334,10466
+12427,Dunkirk,MD,Calvert County,,city-us,2299,38.722,-76.661,2463
+12426,Dunkirk,IN,Blackford County / Jay County,,city-us,2140,40.374,-85.208,5904
+12431,Dunkirk,WI,Dane County,,city-us,2053,42.881,-89.210,2001
+12432,Dunkirk,OH,Hardin County,,city-us,771,40.789,-83.643,3528
+12428,Dunkirk,IN,Cass County,,city-us,0,40.756,-86.394,224
+12430,Dunkirk,KS,Crawford County,,city-us,0,37.484,-94.742,336

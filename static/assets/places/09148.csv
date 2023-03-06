@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46087,West Park,FL,,city-us,14939,25.985,-80.199,4282
-46088,West Park,NJ,,city-us,1530,39.440,-75.266,373
-46089,West Park,CA,,city-us,1110,36.710,-119.851,1985
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46087,West Park,FL,Broward County,,city-us,14939,25.985,-80.199,4282
+46088,West Park,NJ,Cumberland County,,city-us,1530,39.440,-75.266,373
+46089,West Park,CA,Fresno County,,city-us,1110,36.710,-119.851,1985

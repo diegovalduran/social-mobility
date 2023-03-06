@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47965,Yellowstone,ND,,city-us,423,47.896,-103.997,0
-47964,Yellowstone,WI,,city-us,0,42.798,-89.970,241
-47966,Yellowstone,IN,,city-us,0,38.999,-86.343,302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47965,Yellowstone,ND,McKenzie County,,city-us,423,47.896,-103.997,0
+47964,Yellowstone,WI,Lafayette County,,city-us,0,42.798,-89.970,241
+47966,Yellowstone,IN,Monroe County,,city-us,0,38.999,-86.343,302

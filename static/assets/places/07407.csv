@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37639,Rosewood,MN,,city-us,322,45.014,-95.666,2010
-37638,Rosewood,OH,,city-us,283,40.219,-83.961,445
-37640,Rosewood,IN,,city-us,0,38.038,-85.929,205
-37641,Rosewood,CA,,city-us,0,40.768,-124.166,353
-37642,Rosewood,MN,,city-us,0,48.189,-96.290,87
-37643,Rosewood,KY,,city-us,0,37.087,-87.089,457
-37644,Rosewood,MO,,city-us,0,40.425,-92.923,246
-37645,Rosewood,CA,,city-us,0,40.280,-122.550,767
-37646,Rosewood,NC,,city-us,0,35.414,-78.071,2441
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37639,Rosewood,MN,Chippewa County,,city-us,322,45.014,-95.666,2010
+37638,Rosewood,OH,Champaign County,,city-us,283,40.219,-83.961,445
+37640,Rosewood,IN,Harrison County,,city-us,0,38.038,-85.929,205
+37641,Rosewood,CA,Humboldt County,,city-us,0,40.768,-124.166,353
+37642,Rosewood,MN,Marshall County,,city-us,0,48.189,-96.290,87
+37643,Rosewood,KY,Muhlenberg County,,city-us,0,37.087,-87.089,457
+37644,Rosewood,MO,Putnam County,,city-us,0,40.425,-92.923,246
+37645,Rosewood,CA,Tehama County,,city-us,0,40.280,-122.550,767
+37646,Rosewood,NC,Wayne County,,city-us,0,35.414,-78.071,2441

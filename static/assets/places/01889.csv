@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9670,Conley,GA,,city-us,6930,33.645,-84.326,3202
-9671,Conley,NE,,city-us,58,42.145,-98.787,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9670,Conley,GA,Clayton County,,city-us,6930,33.645,-84.326,3202
+9671,Conley,NE,Holt County,,city-us,58,42.145,-98.787,243

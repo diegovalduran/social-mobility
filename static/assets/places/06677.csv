@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33931,Pickaway,OH,,city-us,2053,39.522,-82.915,1302
-33933,Pickaway,IL,,city-us,153,39.558,-88.864,270
-33930,Pickaway,WV,,city-us,0,37.638,-80.506,311
-33932,Pickaway,VA,,city-us,0,36.778,-79.185,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33931,Pickaway,OH,Pickaway County,,city-us,2053,39.522,-82.915,1302
+33933,Pickaway,IL,Shelby County,,city-us,153,39.558,-88.864,270
+33930,Pickaway,WV,Monroe County,,city-us,0,37.638,-80.506,311
+33932,Pickaway,VA,Pittsylvania County,,city-us,0,36.778,-79.185,96

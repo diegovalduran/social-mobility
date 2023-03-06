@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22478,Kailua,HI,,city-us,40402,21.402,-157.739,10669
-22477,Kailua,HI,,city-us,21460,19.639,-155.990,8328
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22478,Kailua,HI,Honolulu County,,city-us,40402,21.402,-157.739,10669
+22477,Kailua,HI,Hawaii County,,city-us,21460,19.639,-155.990,8328

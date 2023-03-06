@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22272,Joliet,IL,,city-us,150372,41.518,-88.149,18139
-22274,Joliet,IL,,city-us,85116,41.508,-88.083,662
-22271,Joliet,MT,,city-us,599,45.485,-108.970,2431
-22273,Joliet,NE,,city-us,128,41.618,-97.649,357
-22270,Joliet,TX,,city-us,0,29.769,-97.679,1343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22272,Joliet,IL,Kendall County / Will County,,city-us,150372,41.518,-88.149,18139
+22274,Joliet,IL,Will County,,city-us,85116,41.508,-88.083,662
+22271,Joliet,MT,Carbon County,,city-us,599,45.485,-108.970,2431
+22273,Joliet,NE,Platte County,,city-us,128,41.618,-97.649,357
+22270,Joliet,TX,Caldwell County,,city-us,0,29.769,-97.679,1343

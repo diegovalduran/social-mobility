@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13720,Enchanted Hills,IN,,city-us,0,41.402,-85.667,178
-13721,Enchanted Hills,CA,,city-us,0,38.383,-122.426,395
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13720,Enchanted Hills,IN,Kosciusko County,,city-us,0,41.402,-85.667,178
+13721,Enchanted Hills,CA,Napa County,,city-us,0,38.383,-122.426,395

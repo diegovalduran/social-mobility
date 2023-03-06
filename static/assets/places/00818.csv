@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4187,Blackjack,TX,,city-us,0,32.051,-95.104,1435
-4188,Blackjack,TX,,city-us,0,32.206,-95.178,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4187,Blackjack,TX,Cherokee County,,city-us,0,32.051,-95.104,1435
+4188,Blackjack,TX,Smith County,,city-us,0,32.206,-95.178,95

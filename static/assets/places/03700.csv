@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18864,Hargis,LA,,city-us,0,31.684,-92.830,141
-18865,Hargis,KY,,city-us,0,37.841,-82.977,207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18864,Hargis,LA,Grant Parish,,city-us,0,31.684,-92.830,141
+18865,Hargis,KY,Johnson County,,city-us,0,37.841,-82.977,207

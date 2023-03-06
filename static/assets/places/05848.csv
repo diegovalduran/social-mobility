@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30083,Munford,TN,,city-us,6385,35.449,-89.815,4548
-30082,Munford,AL,,city-us,1333,33.530,-85.951,2858
-30081,Munford,VA,,city-us,0,37.510,-79.613,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30083,Munford,TN,Tipton County,,city-us,6385,35.449,-89.815,4548
+30082,Munford,AL,Talladega County,,city-us,1333,33.530,-85.951,2858
+30081,Munford,VA,Botetourt County,,city-us,0,37.510,-79.613,86

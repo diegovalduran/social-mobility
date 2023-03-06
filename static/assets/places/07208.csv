@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36434,Riceville,IA,,city-us,796,43.362,-92.553,4266
-36436,Riceville,TN,,city-us,688,35.385,-84.693,583
-36429,Riceville,MN,,city-us,91,47.014,-95.997,2130
-36432,Riceville,PA,,city-us,58,41.778,-79.803,1897
-36430,Riceville,MT,,city-us,37,47.215,-110.934,449
-36431,Riceville,IN,,city-us,0,38.324,-86.666,198
-36433,Riceville,KY,,city-us,0,36.514,-88.893,85
-36435,Riceville,KY,,city-us,0,37.734,-82.924,412
-36437,Riceville,VA,,city-us,0,36.891,-79.169,97
-36438,Riceville,LA,,city-us,0,30.076,-92.514,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36434,Riceville,IA,Howard County / Mitchell County,,city-us,796,43.362,-92.553,4266
+36436,Riceville,TN,McMinn County,,city-us,688,35.385,-84.693,583
+36429,Riceville,MN,Becker County,,city-us,91,47.014,-95.997,2130
+36432,Riceville,PA,Crawford County,,city-us,58,41.778,-79.803,1897
+36430,Riceville,MT,Cascade County,,city-us,37,47.215,-110.934,449
+36431,Riceville,IN,Crawford County,,city-us,0,38.324,-86.666,198
+36433,Riceville,KY,Fulton County,,city-us,0,36.514,-88.893,85
+36435,Riceville,KY,Johnson County,,city-us,0,37.734,-82.924,412
+36437,Riceville,VA,Pittsylvania County,,city-us,0,36.891,-79.169,97
+36438,Riceville,LA,Vermilion Parish,,city-us,0,30.076,-92.514,87

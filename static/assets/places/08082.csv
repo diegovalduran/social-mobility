@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40926,Spur,TX,,city-us,740,33.476,-100.856,4274
-40930,Spurr,MI,,city-us,261,46.479,-88.245,3743
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40926,Spur,TX,Dickens County,,city-us,740,33.476,-100.856,4274
+40930,Spurr,MI,Baraga County,,city-us,261,46.479,-88.245,3743

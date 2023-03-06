@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12721,East Point,GA,,city-us,38141,33.680,-84.439,9523
-12720,East Point,AL,,city-us,172,34.183,-86.794,161
-12719,East Point,VA,,city-us,0,37.720,-75.815,88
-12722,East Point,KY,,city-us,0,37.746,-82.791,466
-12723,East Point,LA,,city-us,0,32.166,-93.431,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12721,East Point,GA,Fulton County,,city-us,38141,33.680,-84.439,9523
+12720,East Point,AL,Cullman County,,city-us,172,34.183,-86.794,161
+12719,East Point,VA,Accomack County,,city-us,0,37.720,-75.815,88
+12722,East Point,KY,Johnson County,,city-us,0,37.746,-82.791,466
+12723,East Point,LA,Red River Parish,,city-us,0,32.166,-93.431,180

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9866,Corinne,UT,,city-us,861,41.551,-112.110,6203
-9870,Corinne,WV,,city-us,468,37.573,-81.356,216
-9867,Corinne,MI,,city-us,427,46.079,-85.706,3360
-9869,Corinne,ND,,city-us,38,47.269,-98.520,0
-9868,Corinne,OK,,city-us,0,34.186,-95.291,1738
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9866,Corinne,UT,Box Elder County,,city-us,861,41.551,-112.110,6203
+9870,Corinne,WV,Wyoming County,,city-us,468,37.573,-81.356,216
+9867,Corinne,MI,Mackinac County,,city-us,427,46.079,-85.706,3360
+9869,Corinne,ND,Stutsman County,,city-us,38,47.269,-98.520,0
+9868,Corinne,OK,Pushmataha County,,city-us,0,34.186,-95.291,1738

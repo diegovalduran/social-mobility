@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32102,Okay,OK,,city-us,527,35.851,-95.318,5241
-32101,Okay,AR,,city-us,0,33.767,-93.924,172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32102,Okay,OK,Wagoner County,,city-us,527,35.851,-95.318,5241
+32101,Okay,AR,Howard County,,city-us,0,33.767,-93.924,172

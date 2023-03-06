@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-529,Alexander,AR,,city-us,3603,34.619,-92.451,2388
-521,Alexander,OH,,city-us,2739,39.240,-82.134,1331
-533,Alexander,ME,,city-us,531,45.086,-67.476,3122
-526,Alexander,NY,,city-us,508,42.901,-78.257,3928
-527,Alexander,ND,,city-us,298,47.843,-103.643,3135
-525,Alexander,IA,,city-us,165,42.806,-93.477,3147
-528,Alexander,IL,,city-us,155,39.724,-90.038,309
-530,Alexander,KS,,city-us,49,38.469,-99.553,5353
-531,Alexander,ND,,city-us,18,46.669,-98.998,3135
-522,Alexander,NC,,city-us,0,35.703,-82.619,285
-523,Alexander,GA,,city-us,0,33.022,-81.877,314
-524,Alexander,TX,,city-us,0,32.059,-98.206,1353
-532,Alexander,WV,,city-us,0,38.783,-80.222,424
+id,name,state,county,country,level,population,latitude,longitude,wiki
+529,Alexander,AR,Pulaski County / Saline County,,city-us,3603,34.619,-92.451,2388
+521,Alexander,OH,Athens County,,city-us,2739,39.240,-82.134,1331
+533,Alexander,ME,Washington County,,city-us,531,45.086,-67.476,3122
+526,Alexander,NY,Genesee County,,city-us,508,42.901,-78.257,3928
+527,Alexander,ND,McKenzie County,,city-us,298,47.843,-103.643,3135
+525,Alexander,IA,Franklin County,,city-us,165,42.806,-93.477,3147
+528,Alexander,IL,Morgan County,,city-us,155,39.724,-90.038,309
+530,Alexander,KS,Rush County,,city-us,49,38.469,-99.553,5353
+531,Alexander,ND,Stutsman County,,city-us,18,46.669,-98.998,3135
+522,Alexander,NC,Buncombe County,,city-us,0,35.703,-82.619,285
+523,Alexander,GA,Burke County,,city-us,0,33.022,-81.877,314
+524,Alexander,TX,Erath County,,city-us,0,32.059,-98.206,1353
+532,Alexander,WV,Upshur County,,city-us,0,38.783,-80.222,424

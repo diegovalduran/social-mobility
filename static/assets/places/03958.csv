@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20251,Hobart,,Australia,city-international,222356,-42.881,147.325,40841
-20248,Hobart,IN,,city-us,29521,41.532,-87.255,8735
-20244,Hobart,WI,,city-us,10351,44.499,-88.150,4994
-20246,Hobart,WA,,city-us,7201,47.422,-121.973,3577
-20247,Hobart,OK,,city-us,3376,35.029,-99.093,4750
-20250,Hobart,MI,,city-us,2467,44.204,-85.408,2979
-20249,Hobart,MN,,city-us,802,46.676,-95.750,1840
-20245,Hobart,NY,,city-us,397,42.371,-74.670,3031
-20243,Hobart,ND,,city-us,145,46.936,-98.116,131
-20242,Hobart,LA,,city-us,0,30.323,-90.939,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20251,Hobart,,,Australia,city-international,222356,-42.881,147.325,40841
+20248,Hobart,IN,Lake County,,city-us,29521,41.532,-87.255,8735
+20244,Hobart,WI,Brown County,,city-us,10351,44.499,-88.150,4994
+20246,Hobart,WA,King County,,city-us,7201,47.422,-121.973,3577
+20247,Hobart,OK,Kiowa County,,city-us,3376,35.029,-99.093,4750
+20250,Hobart,MI,Wexford County,,city-us,2467,44.204,-85.408,2979
+20249,Hobart,MN,Otter Tail County,,city-us,802,46.676,-95.750,1840
+20245,Hobart,NY,Delaware County,,city-us,397,42.371,-74.670,3031
+20243,Hobart,ND,Barnes County,,city-us,145,46.936,-98.116,131
+20242,Hobart,LA,Ascension Parish,,city-us,0,30.323,-90.939,215

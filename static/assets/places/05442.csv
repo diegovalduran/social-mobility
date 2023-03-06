@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27888,Melwood,MD,,city-us,3935,38.802,-76.842,883
-27850,Mellwood,AR,,city-us,21,34.220,-90.950,591
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27888,Melwood,MD,Prince George's County,,city-us,3935,38.802,-76.842,883
+27850,Mellwood,AR,Phillips County,,city-us,21,34.220,-90.950,591

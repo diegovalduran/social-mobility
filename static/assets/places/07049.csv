@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35776,Rainsville,AL,,city-us,5604,34.494,-85.848,4798
-35778,Rainsville,IN,,city-us,28,40.416,-87.316,525
-35777,Rainsville,NM,,city-us,0,35.979,-105.209,347
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35776,Rainsville,AL,DeKalb County,,city-us,5604,34.494,-85.848,4798
+35778,Rainsville,IN,Warren County,,city-us,28,40.416,-87.316,525
+35777,Rainsville,NM,Mora County,,city-us,0,35.979,-105.209,347

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34042,Pillsbury,MN,,city-us,265,45.194,-95.299,1897
-34041,Pillsbury,ND,,city-us,12,47.207,-97.791,2954
-34043,Pillsbury,MN,,city-us,0,45.933,-94.684,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34042,Pillsbury,MN,Swift County,,city-us,265,45.194,-95.299,1897
+34041,Pillsbury,ND,Barnes County,,city-us,12,47.207,-97.791,2954
+34043,Pillsbury,MN,Todd County,,city-us,0,45.933,-94.684,84

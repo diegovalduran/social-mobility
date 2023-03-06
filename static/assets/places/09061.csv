@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45712,Weaverville,NC,,city-us,4631,35.697,-82.561,7750
-45713,Weaverville,CA,,city-us,3962,40.731,-122.942,6587
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45712,Weaverville,NC,Buncombe County,,city-us,4631,35.697,-82.561,7750
+45713,Weaverville,CA,Trinity County,,city-us,3962,40.731,-122.942,6587

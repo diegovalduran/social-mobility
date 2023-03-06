@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42286,Sweet Springs,MO,,city-us,1326,38.964,-93.415,4692
-42285,Sweet Springs,WV,,city-us,0,37.628,-80.241,812
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42286,Sweet Springs,MO,Saline County,,city-us,1326,38.964,-93.415,4692
+42285,Sweet Springs,WV,Monroe County,,city-us,0,37.628,-80.241,812

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10483,Crossroads,AL,,city-us,0,30.835,-87.861,240
-10484,Crossroads,NJ,,city-us,0,39.915,-74.826,230
-10485,Crossroads,MS,,city-us,0,30.885,-88.711,278
-10486,Crossroads,TN,,city-us,0,35.300,-88.124,348
-10487,Crossroads,IL,,city-us,0,37.349,-88.817,161
-10488,Crossroads,NM,,city-us,0,33.512,-103.340,372
-10489,Crossroads,WV,,city-us,0,39.659,-80.302,95
-10490,Crossroads,WV,,city-us,0,37.711,-80.813,121
-10491,Crossroads,IN,,city-us,0,38.102,-87.646,257
-10492,Crossroads,TN,,city-us,0,35.063,-87.728,79
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10483,Crossroads,AL,Baldwin County,,city-us,0,30.835,-87.861,240
+10484,Crossroads,NJ,Burlington County,,city-us,0,39.915,-74.826,230
+10485,Crossroads,MS,George County,,city-us,0,30.885,-88.711,278
+10486,Crossroads,TN,Hardin County,,city-us,0,35.300,-88.124,348
+10487,Crossroads,IL,Johnson County,,city-us,0,37.349,-88.817,161
+10488,Crossroads,NM,Lea County,,city-us,0,33.512,-103.340,372
+10489,Crossroads,WV,Monongalia County,,city-us,0,39.659,-80.302,95
+10490,Crossroads,WV,Summers County,,city-us,0,37.711,-80.813,121
+10491,Crossroads,IN,Vanderburgh County,,city-us,0,38.102,-87.646,257
+10492,Crossroads,TN,Wayne County,,city-us,0,35.063,-87.728,79

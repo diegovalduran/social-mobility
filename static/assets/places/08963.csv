@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44950,Wallace,PA,,city-us,3740,40.084,-75.775,2522
-44952,Wallace,NC,,city-us,3315,34.738,-77.991,3747
-44961,Wallace,FL,,city-us,1785,30.677,-87.180,297
-44960,Wallace,MI,,city-us,1260,45.344,-87.628,2945
-44947,Wallace,MI,,city-us,1236,44.557,-83.761,4280
-44963,Wallace,LA,,city-us,1201,30.043,-90.667,3648
-44959,Wallace,SC,,city-us,843,34.720,-79.841,547
-44962,Wallace,ID,,city-us,808,47.474,-115.928,24111
-44949,Wallace,CA,,city-us,769,38.194,-120.978,4728
-44957,Wallace,IL,,city-us,568,41.418,-88.883,419
-44958,Wallace,NE,,city-us,314,40.838,-101.165,3227
-44954,Wallace,WV,,city-us,313,39.410,-80.490,323
-44951,Wallace,SD,,city-us,94,45.086,-97.476,3948
-44953,Wallace,IN,,city-us,81,39.986,-87.148,5606
-44964,Wallace,KS,,city-us,45,38.911,-101.592,3089
-44956,Wallace,ND,,city-us,25,47.274,-99.667,0
-44948,Wallace,MO,,city-us,0,39.555,-94.847,646
-44955,Wallace,WV,,city-us,0,38.459,-81.662,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44950,Wallace,PA,Chester County,,city-us,3740,40.084,-75.775,2522
+44952,Wallace,NC,Duplin County / Pender County,,city-us,3315,34.738,-77.991,3747
+44961,Wallace,FL,Santa Rosa County,,city-us,1785,30.677,-87.180,297
+44960,Wallace,MI,Menominee County,,city-us,1260,45.344,-87.628,2945
+44947,Wallace,MI,Alcona County,,city-us,1236,44.557,-83.761,4280
+44963,Wallace,LA,St. John the Baptist Parish,,city-us,1201,30.043,-90.667,3648
+44959,Wallace,SC,Marlboro County,,city-us,843,34.720,-79.841,547
+44962,Wallace,ID,Shoshone County,,city-us,808,47.474,-115.928,24111
+44949,Wallace,CA,Calaveras County,,city-us,769,38.194,-120.978,4728
+44957,Wallace,IL,LaSalle County,,city-us,568,41.418,-88.883,419
+44958,Wallace,NE,Lincoln County,,city-us,314,40.838,-101.165,3227
+44954,Wallace,WV,Harrison County,,city-us,313,39.410,-80.490,323
+44951,Wallace,SD,Codington County,,city-us,94,45.086,-97.476,3948
+44953,Wallace,IN,Fountain County,,city-us,81,39.986,-87.148,5606
+44964,Wallace,KS,Wallace County,,city-us,45,38.911,-101.592,3089
+44956,Wallace,ND,Kidder County,,city-us,25,47.274,-99.667,0
+44948,Wallace,MO,Buchanan County,,city-us,0,39.555,-94.847,646
+44955,Wallace,WV,Kanawha County,,city-us,0,38.459,-81.662,199

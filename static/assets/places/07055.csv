@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35804,Ramah,NM,,city-us,457,35.133,-108.492,5529
-35803,Ramah,CO,,city-us,109,39.122,-104.166,3010
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35804,Ramah,NM,McKinley County,,city-us,457,35.133,-108.492,5529
+35803,Ramah,CO,El Paso County,,city-us,109,39.122,-104.166,3010

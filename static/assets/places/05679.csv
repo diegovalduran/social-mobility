@@ -1,29 +1,29 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29250,Montgomery,AL,,city-us,198665,32.367,-86.300,39619
-29251,Montgomery,PA,,city-us,26027,40.244,-75.234,294
-29255,Montgomery,NJ,,city-us,23502,40.426,-74.678,23997
-29245,Montgomery,IL,,city-us,21310,41.721,-88.358,6182
-29240,Montgomery,OH,,city-us,10804,39.228,-84.354,5232
-29237,Montgomery,PA,,city-us,5702,39.773,-77.899,294
-29232,Montgomery,GA,,city-us,4868,31.940,-81.122,3202
-29257,Montgomery,OH,,city-us,4174,41.299,-83.477,212
-29253,Montgomery,NY,,city-us,3822,41.528,-74.237,8795
-29231,Montgomery,OH,,city-us,2723,40.885,-82.259,212
-29258,Montgomery,IL,,city-us,2441,40.646,-89.225,343
-29252,Montgomery,TX,,city-us,2321,30.388,-95.696,9514
-29248,Montgomery,OH,,city-us,2076,40.609,-83.358,212
-29247,Montgomery,PA,,city-us,1560,41.170,-76.877,5988
-29244,Montgomery,PA,,city-us,1434,40.766,-78.856,294
-29236,Montgomery,WV,,city-us,1257,38.173,-81.320,4688
-29238,Montgomery,VT,,city-us,1205,44.860,-72.605,5858
-29241,Montgomery,MA,,city-us,812,42.220,-72.835,4385
-29234,Montgomery,IN,,city-us,792,38.663,-87.046,4968
-29246,Montgomery,MN,,city-us,706,44.407,-93.592,1933
-29233,Montgomery,IL,,city-us,637,38.901,-87.594,1233
-29239,Montgomery,LA,,city-us,633,31.667,-92.891,5097
-29242,Montgomery,MI,,city-us,316,41.777,-84.804,3751
-29235,Montgomery,IA,,city-us,0,43.441,-95.203,642
-29243,Montgomery,MS,,city-us,0,33.297,-90.327,200
-29249,Montgomery,CA,,city-us,0,39.234,-123.390,122
-29254,Montgomery,TN,,city-us,0,36.326,-84.371,84
-29256,Montgomery,KY,,city-us,0,36.878,-87.741,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29250,Montgomery,AL,Montgomery County,,city-us,198665,32.367,-86.300,39619
+29251,Montgomery,PA,Montgomery County,,city-us,26027,40.244,-75.234,294
+29255,Montgomery,NJ,Somerset County,,city-us,23502,40.426,-74.678,23997
+29245,Montgomery,IL,Kane County / Kendall County,,city-us,21310,41.721,-88.358,6182
+29240,Montgomery,OH,Hamilton County,,city-us,10804,39.228,-84.354,5232
+29237,Montgomery,PA,Franklin County,,city-us,5702,39.773,-77.899,294
+29232,Montgomery,GA,Chatham County,,city-us,4868,31.940,-81.122,3202
+29257,Montgomery,OH,Wood County,,city-us,4174,41.299,-83.477,212
+29253,Montgomery,NY,Orange County,,city-us,3822,41.528,-74.237,8795
+29231,Montgomery,OH,Ashland County,,city-us,2723,40.885,-82.259,212
+29258,Montgomery,IL,Woodford County,,city-us,2441,40.646,-89.225,343
+29252,Montgomery,TX,Montgomery County,,city-us,2321,30.388,-95.696,9514
+29248,Montgomery,OH,Marion County,,city-us,2076,40.609,-83.358,212
+29247,Montgomery,PA,Lycoming County,,city-us,1560,41.170,-76.877,5988
+29244,Montgomery,PA,Indiana County,,city-us,1434,40.766,-78.856,294
+29236,Montgomery,WV,Fayette County / Kanawha County,,city-us,1257,38.173,-81.320,4688
+29238,Montgomery,VT,Franklin County,,city-us,1205,44.860,-72.605,5858
+29241,Montgomery,MA,Hampden County,,city-us,812,42.220,-72.835,4385
+29234,Montgomery,IN,Daviess County,,city-us,792,38.663,-87.046,4968
+29246,Montgomery,MN,Le Sueur County,,city-us,706,44.407,-93.592,1933
+29233,Montgomery,IL,Crawford County,,city-us,637,38.901,-87.594,1233
+29239,Montgomery,LA,Grant Parish,,city-us,633,31.667,-92.891,5097
+29242,Montgomery,MI,Hillsdale County,,city-us,316,41.777,-84.804,3751
+29235,Montgomery,IA,Dickinson County,,city-us,0,43.441,-95.203,642
+29243,Montgomery,MS,Holmes County,,city-us,0,33.297,-90.327,200
+29249,Montgomery,CA,Mendocino County,,city-us,0,39.234,-123.390,122
+29254,Montgomery,TN,Scott County,,city-us,0,36.326,-84.371,84
+29256,Montgomery,KY,Trigg County,,city-us,0,36.878,-87.741,85

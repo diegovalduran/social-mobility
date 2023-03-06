@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29673,Mosul,,Iraq,city-international,1694000,36.367,43.117,51261
-29648,Mosel,WI,,city-us,839,43.806,-87.740,2174
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29673,Mosul,,,Iraq,city-international,1694000,36.367,43.117,51261
+29648,Mosel,WI,Sheboygan County,,city-us,839,43.806,-87.740,2174

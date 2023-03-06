@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40510,Sparksville,KY,,city-us,0,37.008,-85.402,347
-40511,Sparksville,IN,,city-us,0,38.778,-86.237,675
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40510,Sparksville,KY,Adair County,,city-us,0,37.008,-85.402,347
+40511,Sparksville,IN,Jackson County,,city-us,0,38.778,-86.237,675

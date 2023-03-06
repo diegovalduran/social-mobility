@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31445,North Woodbury,PA,,city-us,2420,40.289,-78.307,2737
-31446,North Woodbury,OH,,city-us,0,40.594,-82.662,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31445,North Woodbury,PA,Blair County,,city-us,2420,40.289,-78.307,2737
+31446,North Woodbury,OH,Morrow County,,city-us,0,40.594,-82.662,264

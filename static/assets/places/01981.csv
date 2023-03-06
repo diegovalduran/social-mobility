@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10055,Cottondale,AL,,city-us,3793,33.190,-87.452,1274
-10054,Cottondale,FL,,city-us,856,30.797,-85.377,2858
-10056,Cottondale,TX,,city-us,0,33.066,-97.705,160
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10055,Cottondale,AL,Tuscaloosa County,,city-us,3793,33.190,-87.452,1274
+10054,Cottondale,FL,Jackson County,,city-us,856,30.797,-85.377,2858
+10056,Cottondale,TX,Wise County,,city-us,0,33.066,-97.705,160

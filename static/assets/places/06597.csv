@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33523,Pen Mar,PA,,city-us,1309,39.720,-77.507,750
-33524,Pen Mar,MD,,city-us,0,39.718,-77.506,3414
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33523,Pen Mar,PA,Franklin County,,city-us,1309,39.720,-77.507,750
+33524,Pen Mar,MD,Washington County,,city-us,0,39.718,-77.506,3414

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12700,East Haven,CT,,city-us,28054,41.293,-72.859,29765
-12699,East Haven,VT,,city-us,273,44.664,-71.805,2658
-12701,East Haven,IN,,city-us,0,39.839,-84.931,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12700,East Haven,CT,South Central Connecticut Planning Region,,city-us,28054,41.293,-72.859,29765
+12699,East Haven,VT,Essex County,,city-us,273,44.664,-71.805,2658
+12701,East Haven,IN,Wayne County,,city-us,0,39.839,-84.931,157

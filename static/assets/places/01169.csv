@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5873,Buckland,MA,,city-us,1816,42.592,-72.789,7412
-5874,Buckland,AK,,city-us,517,65.980,-161.123,2526
-5872,Buckland,OH,,city-us,234,40.623,-84.260,3231
-5875,Buckland,VA,,city-us,0,38.780,-77.674,577
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5873,Buckland,MA,Franklin County,,city-us,1816,42.592,-72.789,7412
+5874,Buckland,AK,Northwest Arctic Borough,,city-us,517,65.980,-161.123,2526
+5872,Buckland,OH,Auglaize County,,city-us,234,40.623,-84.260,3231
+5875,Buckland,VA,Prince William County,,city-us,0,38.780,-77.674,577

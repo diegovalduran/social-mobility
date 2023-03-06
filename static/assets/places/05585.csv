@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28775,Mima,KY,,city-us,0,37.921,-83.037,113
-28776,Mima,WA,,city-us,0,46.865,-123.067,576
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28775,Mima,KY,Morgan County,,city-us,0,37.921,-83.037,113
+28776,Mima,WA,Thurston County,,city-us,0,46.865,-123.067,576

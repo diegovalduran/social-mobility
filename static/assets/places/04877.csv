@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25088,Lineville,AL,,city-us,2474,33.311,-85.754,7365
-25089,Lineville,IA,,city-us,193,40.581,-93.524,4834
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25088,Lineville,AL,Clay County,,city-us,2474,33.311,-85.754,7365
+25089,Lineville,IA,Wayne County,,city-us,193,40.581,-93.524,4834

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19332,Hawkinsville,GA,,city-us,3997,32.284,-83.472,5009
-19330,Hawkinsville,TN,,city-us,0,35.908,-89.284,143
-19331,Hawkinsville,TX,,city-us,0,28.888,-95.670,1039
-19333,Hawkinsville,CA,,city-us,0,41.761,-122.622,310
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19332,Hawkinsville,GA,Pulaski County,,city-us,3997,32.284,-83.472,5009
+19330,Hawkinsville,TN,Dyer County,,city-us,0,35.908,-89.284,143
+19331,Hawkinsville,TX,Matagorda County,,city-us,0,28.888,-95.670,1039
+19333,Hawkinsville,CA,Siskiyou County,,city-us,0,41.761,-122.622,310

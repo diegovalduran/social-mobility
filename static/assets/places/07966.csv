@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40274,Somers,NY,,city-us,21322,41.304,-73.723,11993
-40271,Somers,WI,,city-us,8330,42.640,-87.910,3255
-40273,Somers,OH,,city-us,3813,39.612,-84.649,1330
-40269,Somers,CT,,city-us,2299,41.992,-72.445,7284
-40270,Somers,MT,,city-us,1169,48.080,-114.222,3616
-41938,Summers,AR,,city-us,166,35.981,-94.492,1164
-41937,Summers,KS,,city-us,161,39.226,-101.047,0
-40268,Somers,IA,,city-us,126,42.378,-94.430,3096
-40272,Somers,VA,,city-us,0,37.788,-76.566,91
-41936,Summers,WV,,city-us,0,39.157,-80.829,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40274,Somers,NY,Westchester County,,city-us,21322,41.304,-73.723,11993
+40271,Somers,WI,Kenosha County,,city-us,8330,42.640,-87.910,3255
+40273,Somers,OH,Preble County,,city-us,3813,39.612,-84.649,1330
+40269,Somers,CT,Capitol Planning Region,,city-us,2299,41.992,-72.445,7284
+40270,Somers,MT,Flathead County,,city-us,1169,48.080,-114.222,3616
+41938,Summers,AR,Washington County,,city-us,166,35.981,-94.492,1164
+41937,Summers,KS,Thomas County,,city-us,161,39.226,-101.047,0
+40268,Somers,IA,Calhoun County,,city-us,126,42.378,-94.430,3096
+40272,Somers,VA,Lancaster County,,city-us,0,37.788,-76.566,91
+41936,Summers,WV,Doddridge County,,city-us,0,39.157,-80.829,139

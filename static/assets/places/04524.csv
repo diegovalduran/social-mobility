@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23244,Knute,MN,,city-us,554,47.622,-96.005,1882
-31050,Newt,KY,,city-us,0,37.179,-85.565,72
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23244,Knute,MN,Polk County,,city-us,554,47.622,-96.005,1882
+31050,Newt,KY,Green County,,city-us,0,37.179,-85.565,72

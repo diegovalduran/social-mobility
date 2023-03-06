@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12142,Downs,IL,,city-us,1281,40.351,-88.871,423
-12143,Downs,KS,,city-us,804,39.499,-98.542,4529
-12144,Downs,KS,,city-us,140,37.170,-97.529,4529
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12142,Downs,IL,McLean County,,city-us,1281,40.351,-88.871,423
+12143,Downs,KS,Osborne County,,city-us,804,39.499,-98.542,4529
+12144,Downs,KS,Sumner County,,city-us,140,37.170,-97.529,4529

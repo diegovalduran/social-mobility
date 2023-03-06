@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42685,Terry,MS,,city-us,1366,32.096,-90.294,6762
-42683,Terry,PA,,city-us,906,41.648,-76.328,2579
-42688,Terry,MT,,city-us,566,46.793,-105.312,6193
-42684,Terry,KS,,city-us,159,38.182,-100.984,394
-42686,Terry,SD,,city-us,0,44.334,-103.817,434
-42687,Terry,IN,,city-us,0,38.087,-86.633,342
-42689,Terry,WV,,city-us,0,37.861,-81.099,211
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42685,Terry,MS,Hinds County,,city-us,1366,32.096,-90.294,6762
+42683,Terry,PA,Bradford County,,city-us,906,41.648,-76.328,2579
+42688,Terry,MT,Prairie County,,city-us,566,46.793,-105.312,6193
+42684,Terry,KS,Finney County,,city-us,159,38.182,-100.984,394
+42686,Terry,SD,Lawrence County,,city-us,0,44.334,-103.817,434
+42687,Terry,IN,Perry County,,city-us,0,38.087,-86.633,342
+42689,Terry,WV,Raleigh County,,city-us,0,37.861,-81.099,211

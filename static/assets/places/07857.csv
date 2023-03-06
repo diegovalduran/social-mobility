@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39825,Siloam Springs,AR,,city-us,17575,36.188,-94.540,9312
-39826,Siloam Springs,MO,,city-us,0,40.373,-94.264,464
-39827,Siloam Springs,MO,,city-us,0,36.796,-92.076,707
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39825,Siloam Springs,AR,Benton County,,city-us,17575,36.188,-94.540,9312
+39826,Siloam Springs,MO,Gentry County,,city-us,0,40.373,-94.264,464
+39827,Siloam Springs,MO,Howell County,,city-us,0,36.796,-92.076,707

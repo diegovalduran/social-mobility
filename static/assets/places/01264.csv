@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6373,Bynum,TX,,city-us,172,31.972,-97.003,2388
-6374,Bynum,MT,,city-us,28,47.979,-112.312,728
-6372,Bynum,NC,,city-us,0,35.774,-79.142,5055
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6373,Bynum,TX,Hill County,,city-us,172,31.972,-97.003,2388
+6374,Bynum,MT,Teton County,,city-us,28,47.979,-112.312,728
+6372,Bynum,NC,Chatham County,,city-us,0,35.774,-79.142,5055

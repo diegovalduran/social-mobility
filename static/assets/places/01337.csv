@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6754,Candler,NC,,city-us,0,35.536,-82.693,728
-6755,Candler,GA,,city-us,0,34.210,-83.781,300
-6756,Candler,FL,,city-us,0,29.071,-81.968,492
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6754,Candler,NC,Buncombe County,,city-us,0,35.536,-82.693,728
+6755,Candler,GA,Hall County,,city-us,0,34.210,-83.781,300
+6756,Candler,FL,Marion County,,city-us,0,29.071,-81.968,492

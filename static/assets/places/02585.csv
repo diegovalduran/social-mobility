@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12802,Eastport,NY,,city-us,2095,40.826,-72.732,2828
-12805,Eastport,ME,,city-us,1280,44.906,-66.990,10014
-12800,Eastport,MI,,city-us,206,45.107,-85.350,1004
-12801,Eastport,ID,,city-us,0,48.999,-116.181,412
-12803,Eastport,MS,,city-us,0,34.886,-88.101,1973
-12804,Eastport,OH,,city-us,0,40.426,-81.353,227
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12802,Eastport,NY,Suffolk County,,city-us,2095,40.826,-72.732,2828
+12805,Eastport,ME,Washington County,,city-us,1280,44.906,-66.990,10014
+12800,Eastport,MI,Antrim County,,city-us,206,45.107,-85.350,1004
+12801,Eastport,ID,Boundary County,,city-us,0,48.999,-116.181,412
+12803,Eastport,MS,Tishomingo County,,city-us,0,34.886,-88.101,1973
+12804,Eastport,OH,Tuscarawas County,,city-us,0,40.426,-81.353,227

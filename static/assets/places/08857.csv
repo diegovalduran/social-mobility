@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44426,Vernon Center,NJ,,city-us,1471,41.189,-74.504,435
-44425,Vernon Center,MI,,city-us,1342,43.765,-84.783,2629
-44424,Vernon Center,MN,,city-us,327,43.962,-94.169,3363
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44426,Vernon Center,NJ,Sussex County,,city-us,1471,41.189,-74.504,435
+44425,Vernon Center,MI,Isabella County,,city-us,1342,43.765,-84.783,2629
+44424,Vernon Center,MN,Blue Earth County,,city-us,327,43.962,-94.169,3363

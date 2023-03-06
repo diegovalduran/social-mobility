@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11968,Dongola,IL,,city-us,666,37.361,-89.166,2425
-11966,Dongola,MO,,city-us,0,37.168,-89.960,377
-11967,Dongola,IN,,city-us,0,38.372,-87.340,276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11968,Dongola,IL,Union County,,city-us,666,37.361,-89.166,2425
+11966,Dongola,MO,Bollinger County,,city-us,0,37.168,-89.960,377
+11967,Dongola,IN,Gibson County,,city-us,0,38.372,-87.340,276

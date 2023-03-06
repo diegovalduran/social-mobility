@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27820,Meeks,TX,,city-us,0,30.992,-97.117,1088
-27821,Meeks,GA,,city-us,0,32.619,-82.557,298
-27834,Meiks,IN,,city-us,0,39.553,-85.750,150
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27820,Meeks,TX,Bell County,,city-us,0,30.992,-97.117,1088
+27821,Meeks,GA,Johnson County,,city-us,0,32.619,-82.557,298
+27834,Meiks,IN,Shelby County,,city-us,0,39.553,-85.750,150

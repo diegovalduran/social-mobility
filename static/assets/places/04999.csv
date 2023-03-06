@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25712,Lorane,PA,,city-us,4620,40.288,-75.855,2259
-25713,Lorane,GA,,city-us,0,32.914,-83.774,303
-25714,Lorane,OR,,city-us,0,43.837,-123.239,4533
-25715,Lorane,IN,,city-us,0,41.207,-85.559,729
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25712,Lorane,PA,Berks County,,city-us,4620,40.288,-75.855,2259
+25713,Lorane,GA,Bibb County,,city-us,0,32.914,-83.774,303
+25714,Lorane,OR,Lane County,,city-us,0,43.837,-123.239,4533
+25715,Lorane,IN,Whitley County,,city-us,0,41.207,-85.559,729

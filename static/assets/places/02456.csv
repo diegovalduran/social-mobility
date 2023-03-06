@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12257,Dryden,MI,,city-us,4799,42.938,-83.174,2370
-12261,Dryden,NY,,city-us,1947,42.491,-76.297,6183
-12258,Dryden,VA,,city-us,878,36.778,-82.942,2489
-12255,Dryden,WA,,city-us,519,47.541,-120.561,3156
-12259,Dryden,MN,,city-us,305,44.598,-94.180,1935
-12256,Dryden,OR,,city-us,0,42.270,-123.537,481
-12260,Dryden,TX,,city-us,0,30.045,-102.114,1504
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12257,Dryden,MI,Lapeer County,,city-us,4799,42.938,-83.174,2370
+12261,Dryden,NY,Tompkins County,,city-us,1947,42.491,-76.297,6183
+12258,Dryden,VA,Lee County,,city-us,878,36.778,-82.942,2489
+12255,Dryden,WA,Chelan County,,city-us,519,47.541,-120.561,3156
+12259,Dryden,MN,Sibley County,,city-us,305,44.598,-94.180,1935
+12256,Dryden,OR,Josephine County,,city-us,0,42.270,-123.537,481
+12260,Dryden,TX,Terrell County,,city-us,0,30.045,-102.114,1504

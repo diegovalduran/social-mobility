@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3180,Bell,CA,,city-us,32831,33.978,-118.187,18558
-3183,Bell,PA,,city-us,2071,40.512,-79.507,264
-3178,Bell,PA,,city-us,1995,40.949,-78.925,264
-3211,Belle,MO,,city-us,1384,38.285,-91.721,4084
-3210,Belle,WV,,city-us,1146,38.232,-81.538,3656
-3176,Bell,PA,,city-us,681,40.919,-78.748,264
-3177,Bell,FL,,city-us,525,29.756,-82.863,2793
-3174,Bell,WI,,city-us,360,46.775,-91.119,1793
-3173,Bell,OK,,city-us,328,35.718,-94.576,3276
-3208,Belle,SD,,city-us,137,45.549,-98.915,0
-3181,Bell,KS,,city-us,71,37.783,-98.292,177
-3175,Bell,ND,,city-us,41,47.195,-97.134,0
-3209,Belle,NE,,city-us,41,42.660,-98.844,242
-3182,Bell,KS,,city-us,9,38.198,-98.402,177
-3113,Bel,LA,,city-us,0,30.520,-93.085,77
-3179,Bell,IL,,city-us,0,40.192,-89.388,155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3180,Bell,CA,Los Angeles County,,city-us,32831,33.978,-118.187,18558
+3183,Bell,PA,Westmoreland County,,city-us,2071,40.512,-79.507,264
+3178,Bell,PA,Jefferson County,,city-us,1995,40.949,-78.925,264
+3211,Belle,MO,Maries County / Osage County,,city-us,1384,38.285,-91.721,4084
+3210,Belle,WV,Kanawha County,,city-us,1146,38.232,-81.538,3656
+3176,Bell,PA,Clearfield County,,city-us,681,40.919,-78.748,264
+3177,Bell,FL,Gilchrist County,,city-us,525,29.756,-82.863,2793
+3174,Bell,WI,Bayfield County,,city-us,360,46.775,-91.119,1793
+3173,Bell,OK,Adair County,,city-us,328,35.718,-94.576,3276
+3208,Belle,SD,Edmunds County,,city-us,137,45.549,-98.915,0
+3181,Bell,KS,Reno County,,city-us,71,37.783,-98.292,177
+3175,Bell,ND,Cass County,,city-us,41,47.195,-97.134,0
+3209,Belle,NE,Holt County,,city-us,41,42.660,-98.844,242
+3182,Bell,KS,Rice County,,city-us,9,38.198,-98.402,177
+3113,Bel,LA,Allen Parish,,city-us,0,30.520,-93.085,77
+3179,Bell,IL,Logan County,,city-us,0,40.192,-89.388,155

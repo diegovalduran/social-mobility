@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1041,Amy,MO,,city-us,0,36.606,-92.004,335
-1042,Amy,MS,,city-us,0,31.777,-89.258,207
-1043,Amy,KS,,city-us,0,38.482,-100.602,393
-1044,Amy,AR,,city-us,0,33.732,-92.816,154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1041,Amy,MO,Howell County,,city-us,0,36.606,-92.004,335
+1042,Amy,MS,Jones County,,city-us,0,31.777,-89.258,207
+1043,Amy,KS,Lane County,,city-us,0,38.482,-100.602,393
+1044,Amy,AR,Ouachita County,,city-us,0,33.732,-92.816,154

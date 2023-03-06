@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27344,Mayfield,KY,,city-us,9971,36.742,-88.637,11008
-27347,Mayfield,MI,,city-us,7980,43.105,-83.289,274
-27340,Mayfield,OH,,city-us,3314,41.552,-81.439,4052
-27346,Mayfield,PA,,city-us,1756,41.538,-75.536,1993
-27341,Mayfield,IL,,city-us,905,42.021,-88.773,1063
-27342,Mayfield,NY,,city-us,794,43.105,-74.265,5335
-27351,Mayfield,UT,,city-us,577,39.114,-111.711,2181
-27355,Mayfield,SD,,city-us,179,43.132,-97.350,0
-27352,Mayfield,KS,,city-us,74,37.258,-97.545,3135
-27350,Mayfield,MN,,city-us,47,47.992,-95.903,1734
-27338,Mayfield,OK,,city-us,0,35.339,-99.877,267
-27339,Mayfield,MO,,city-us,0,37.454,-89.949,531
-27343,Mayfield,MI,,city-us,0,44.626,-85.530,1578
-27345,Mayfield,GA,,city-us,0,33.355,-82.801,331
-27348,Mayfield,WA,,city-us,0,46.509,-122.569,1012
-27349,Mayfield,DE,,city-us,0,39.797,-75.508,1141
-27353,Mayfield,AR,,city-us,0,36.134,-93.944,172
-27354,Mayfield,WI,,city-us,0,43.329,-88.197,1313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27344,Mayfield,KY,Graves County,,city-us,9971,36.742,-88.637,11008
+27347,Mayfield,MI,Lapeer County,,city-us,7980,43.105,-83.289,274
+27340,Mayfield,OH,Cuyahoga County,,city-us,3314,41.552,-81.439,4052
+27346,Mayfield,PA,Lackawanna County,,city-us,1756,41.538,-75.536,1993
+27341,Mayfield,IL,DeKalb County,,city-us,905,42.021,-88.773,1063
+27342,Mayfield,NY,Fulton County,,city-us,794,43.105,-74.265,5335
+27351,Mayfield,UT,Sanpete County,,city-us,577,39.114,-111.711,2181
+27355,Mayfield,SD,Yankton County,,city-us,179,43.132,-97.350,0
+27352,Mayfield,KS,Sumner County,,city-us,74,37.258,-97.545,3135
+27350,Mayfield,MN,Pennington County,,city-us,47,47.992,-95.903,1734
+27338,Mayfield,OK,Beckham County,,city-us,0,35.339,-99.877,267
+27339,Mayfield,MO,Bollinger County,,city-us,0,37.454,-89.949,531
+27343,Mayfield,MI,Grand Traverse County,,city-us,0,44.626,-85.530,1578
+27345,Mayfield,GA,Hancock County,,city-us,0,33.355,-82.801,331
+27348,Mayfield,WA,Lewis County,,city-us,0,46.509,-122.569,1012
+27349,Mayfield,DE,New Castle County,,city-us,0,39.797,-75.508,1141
+27353,Mayfield,AR,Washington County,,city-us,0,36.134,-93.944,172
+27354,Mayfield,WI,Washington County,,city-us,0,43.329,-88.197,1313

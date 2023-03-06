@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10467,Cross Plains,WI,,city-us,4067,43.114,-89.656,4055
-10470,Cross Plains,TN,,city-us,1832,36.549,-86.696,5430
-10466,Cross Plains,TX,,city-us,926,32.126,-99.165,5706
-10468,Cross Plains,SD,,city-us,127,43.468,-97.935,0
-10469,Cross Plains,IN,,city-us,0,38.944,-85.205,320
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10467,Cross Plains,WI,Dane County,,city-us,4067,43.114,-89.656,4055
+10470,Cross Plains,TN,Robertson County,,city-us,1832,36.549,-86.696,5430
+10466,Cross Plains,TX,Callahan County,,city-us,926,32.126,-99.165,5706
+10468,Cross Plains,SD,Hutchinson County,,city-us,127,43.468,-97.935,0
+10469,Cross Plains,IN,Ripley County,,city-us,0,38.944,-85.205,320

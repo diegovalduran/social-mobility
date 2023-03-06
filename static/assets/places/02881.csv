@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14394,Fairport,NY,,city-us,5423,43.099,-77.442,14387
-14393,Fairport,MI,,city-us,281,45.686,-86.657,3408
-14395,Fairport,IA,,city-us,204,41.436,-90.905,435
-14392,Fairport,MO,,city-us,0,39.988,-94.346,459
-14396,Fairport,VA,,city-us,0,37.833,-76.290,98
-14397,Fairport,KS,,city-us,0,39.046,-99.031,1331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14394,Fairport,NY,Monroe County,,city-us,5423,43.099,-77.442,14387
+14393,Fairport,MI,Delta County,,city-us,281,45.686,-86.657,3408
+14395,Fairport,IA,Muscatine County,,city-us,204,41.436,-90.905,435
+14392,Fairport,MO,DeKalb County,,city-us,0,39.988,-94.346,459
+14396,Fairport,VA,Northumberland County,,city-us,0,37.833,-76.290,98
+14397,Fairport,KS,Russell County,,city-us,0,39.046,-99.031,1331

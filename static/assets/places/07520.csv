@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38173,Saint Johns,IN,,city-us,0,41.309,-85.114,232
-38174,Saint Johns,PA,,city-us,0,41.028,-76.006,214
-38175,Saint Johns,KY,,city-us,0,36.966,-88.672,141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38173,Saint Johns,IN,DeKalb County,,city-us,0,41.309,-85.114,232
+38174,Saint Johns,PA,Luzerne County,,city-us,0,41.028,-76.006,214
+38175,Saint Johns,KY,McCracken County,,city-us,0,36.966,-88.672,141

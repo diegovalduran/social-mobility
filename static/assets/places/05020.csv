@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25777,Lost Springs,KS,,city-us,54,38.566,-96.966,10504
-25776,Lost Springs,WY,,city-us,4,42.766,-104.925,3309
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25777,Lost Springs,KS,Marion County,,city-us,54,38.566,-96.966,10504
+25776,Lost Springs,WY,Converse County,,city-us,4,42.766,-104.925,3309

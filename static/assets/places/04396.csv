@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22703,Kennard,IN,,city-us,455,39.904,-85.519,3378
-22706,Kennard,NE,,city-us,379,41.473,-96.203,3371
-22704,Kennard,TX,,city-us,280,31.360,-95.183,2462
-22702,Kennard,OH,,city-us,0,40.193,-83.680,632
-22705,Kennard,VA,,city-us,0,37.916,-76.748,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22703,Kennard,IN,Henry County,,city-us,455,39.904,-85.519,3378
+22706,Kennard,NE,Washington County,,city-us,379,41.473,-96.203,3371
+22704,Kennard,TX,Houston County,,city-us,280,31.360,-95.183,2462
+22702,Kennard,OH,Champaign County,,city-us,0,40.193,-83.680,632
+22705,Kennard,VA,Richmond County,,city-us,0,37.916,-76.748,91

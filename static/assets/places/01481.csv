@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7413,Cedar Falls,IA,,city-us,40388,42.528,-92.445,13545
-7414,Cedar Falls,WI,,city-us,0,44.936,-91.884,203
-7415,Cedar Falls,WA,,city-us,0,47.425,-121.777,384
-7416,Cedar Falls,NC,,city-us,0,35.752,-79.731,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7413,Cedar Falls,IA,Black Hawk County,,city-us,40388,42.528,-92.445,13545
+7414,Cedar Falls,WI,Dunn County,,city-us,0,44.936,-91.884,203
+7415,Cedar Falls,WA,King County,,city-us,0,47.425,-121.777,384
+7416,Cedar Falls,NC,Randolph County,,city-us,0,35.752,-79.731,254

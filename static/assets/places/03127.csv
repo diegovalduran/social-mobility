@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15625,Francisco,IN,,city-us,536,38.332,-87.445,5865
-15626,Francisco,AL,,city-us,0,34.987,-86.249,354
-15627,Francisco,NC,,city-us,0,36.509,-80.356,713
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15625,Francisco,IN,Gibson County,,city-us,536,38.332,-87.445,5865
+15626,Francisco,AL,Jackson County,,city-us,0,34.987,-86.249,354
+15627,Francisco,NC,Stokes County,,city-us,0,36.509,-80.356,713

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15303,Fordham,SD,,city-us,136,44.754,-97.898,152
-15304,Fordham,MO,,city-us,0,39.830,-94.271,516
-15305,Fordham,PA,,city-us,0,40.915,-79.033,287
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15303,Fordham,SD,Clark County,,city-us,136,44.754,-97.898,152
+15304,Fordham,MO,DeKalb County,,city-us,0,39.830,-94.271,516
+15305,Fordham,PA,Jefferson County,,city-us,0,40.915,-79.033,287

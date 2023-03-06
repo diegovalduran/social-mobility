@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40240,Solitude,VA,,city-us,0,37.564,-79.606,87
-40241,Solitude,KY,,city-us,0,37.973,-85.540,93
-40242,Solitude,IN,,city-us,0,38.015,-87.899,396
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40240,Solitude,VA,Botetourt County,,city-us,0,37.564,-79.606,87
+40241,Solitude,KY,Bullitt County,,city-us,0,37.973,-85.540,93
+40242,Solitude,IN,Posey County,,city-us,0,38.015,-87.899,396

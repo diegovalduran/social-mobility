@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44004,Urban,PA,,city-us,0,40.681,-76.772,99
-44005,Urban,WA,,city-us,0,48.618,-122.692,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44004,Urban,PA,Northumberland County,,city-us,0,40.681,-76.772,99
+44005,Urban,WA,Skagit County,,city-us,0,48.618,-122.692,225

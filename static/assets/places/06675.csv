@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33926,Piatt,PA,,city-us,1039,41.235,-77.211,9497
-35605,Pyatt,AR,,city-us,182,36.246,-92.845,2508
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33926,Piatt,PA,Lycoming County,,city-us,1039,41.235,-77.211,9497
+35605,Pyatt,AR,Marion County,,city-us,182,36.246,-92.845,2508

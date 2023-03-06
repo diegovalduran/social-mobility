@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15050,Flanders,NJ,,city-us,9832,40.846,-74.695,1470
-15051,Flanders,NY,,city-us,6380,40.903,-72.618,2120
-15048,Flanders,MI,,city-us,1228,45.023,-83.786,2976
-15049,Flanders,LA,,city-us,0,30.099,-92.032,282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15050,Flanders,NJ,Morris County,,city-us,9832,40.846,-74.695,1470
+15051,Flanders,NY,Suffolk County,,city-us,6380,40.903,-72.618,2120
+15048,Flanders,MI,Alpena County,,city-us,1228,45.023,-83.786,2976
+15049,Flanders,LA,Lafayette Parish,,city-us,0,30.099,-92.032,282

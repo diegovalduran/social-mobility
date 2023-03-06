@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40547,Speed,NC,,city-us,63,35.968,-77.445,1872
-40548,Speed,KS,,city-us,36,39.677,-99.421,3185
-40545,Speed,IN,,city-us,0,38.412,-85.752,2139
-40546,Speed,MO,,city-us,0,38.848,-92.803,638
-40549,Speed,WV,,city-us,0,38.734,-81.377,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40547,Speed,NC,Edgecombe County,,city-us,63,35.968,-77.445,1872
+40548,Speed,KS,Phillips County,,city-us,36,39.677,-99.421,3185
+40545,Speed,IN,Clark County,,city-us,0,38.412,-85.752,2139
+40546,Speed,MO,Cooper County,,city-us,0,38.848,-92.803,638
+40549,Speed,WV,Roane County,,city-us,0,38.734,-81.377,139

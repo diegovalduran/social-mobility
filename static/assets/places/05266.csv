@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27014,Mars Hill,NC,,city-us,2022,35.827,-82.549,3918
-27011,Mars Hill,ME,,city-us,1362,46.559,-67.853,7534
-27012,Mars Hill,GA,,city-us,0,34.035,-84.692,377
-27013,Mars Hill,AL,,city-us,0,34.852,-87.661,780
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27014,Mars Hill,NC,Madison County,,city-us,2022,35.827,-82.549,3918
+27011,Mars Hill,ME,Aroostook County,,city-us,1362,46.559,-67.853,7534
+27012,Mars Hill,GA,Cobb County,,city-us,0,34.035,-84.692,377
+27013,Mars Hill,AL,Lauderdale County,,city-us,0,34.852,-87.661,780

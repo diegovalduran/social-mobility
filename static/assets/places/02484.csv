@@ -1,20 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12414,Dundee,,United Kingdom,city-international,148280,56.462,-2.971,56051
-12402,Dundee,IL,,city-us,64329,42.110,-88.301,1743
-12404,Dundee,MI,,city-us,8424,41.959,-83.677,2571
-12408,Dundee,FL,,city-us,5616,28.023,-81.619,2835
-12412,Dundee,OR,,city-us,3238,45.278,-123.011,4064
-12413,Dundee,NY,,city-us,1701,42.523,-76.977,3385
-12410,Dundee,OH,,city-us,544,40.587,-81.608,310
-12398,Dundee,IA,,city-us,195,42.579,-91.547,2827
-12411,Dundee,ND,,city-us,100,48.500,-97.731,153
-12409,Dundee,MS,,city-us,73,34.524,-90.456,1623
-12405,Dundee,MN,,city-us,72,43.847,-95.467,5047
-12396,Dundee,KS,,city-us,0,38.309,-98.891,344
-12397,Dundee,OK,,city-us,0,34.231,-97.545,181
-12399,Dundee,WI,,city-us,0,43.655,-88.164,913
-12400,Dundee,MO,,city-us,0,38.593,-91.125,452
-12401,Dundee,AL,,city-us,0,31.121,-85.672,527
-12403,Dundee,IN,,city-us,0,40.272,-85.756,366
-12406,Dundee,KY,,city-us,0,37.559,-86.773,382
-12407,Dundee,VA,,city-us,0,36.592,-79.376,94
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12414,Dundee,,,United Kingdom,city-international,148280,56.462,-2.971,56051
+12402,Dundee,IL,Kane County,,city-us,64329,42.110,-88.301,1743
+12404,Dundee,MI,Monroe County,,city-us,8424,41.959,-83.677,2571
+12408,Dundee,FL,Polk County,,city-us,5616,28.023,-81.619,2835
+12412,Dundee,OR,Yamhill County,,city-us,3238,45.278,-123.011,4064
+12413,Dundee,NY,Yates County,,city-us,1701,42.523,-76.977,3385
+12410,Dundee,OH,Tuscarawas County,,city-us,544,40.587,-81.608,310
+12398,Dundee,IA,Delaware County,,city-us,195,42.579,-91.547,2827
+12411,Dundee,ND,Walsh County,,city-us,100,48.500,-97.731,153
+12409,Dundee,MS,Tunica County,,city-us,73,34.524,-90.456,1623
+12405,Dundee,MN,Nobles County,,city-us,72,43.847,-95.467,5047
+12396,Dundee,KS,Barton County,,city-us,0,38.309,-98.891,344
+12397,Dundee,OK,Carter County,,city-us,0,34.231,-97.545,181
+12399,Dundee,WI,Fond du Lac County,,city-us,0,43.655,-88.164,913
+12400,Dundee,MO,Franklin County,,city-us,0,38.593,-91.125,452
+12401,Dundee,AL,Geneva County,,city-us,0,31.121,-85.672,527
+12403,Dundee,IN,Madison County,,city-us,0,40.272,-85.756,366
+12406,Dundee,KY,Ohio County,,city-us,0,37.559,-86.773,382
+12407,Dundee,VA,Pittsylvania County,,city-us,0,36.592,-79.376,94

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10201,Crabtree,OR,,city-us,406,44.635,-122.898,2211
-10202,Crabtree,PA,,city-us,148,40.362,-79.471,2606
-10199,Crabtree,CA,,city-us,0,36.844,-119.090,286
-10200,Crabtree,NC,,city-us,0,35.602,-82.941,545
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10201,Crabtree,OR,Linn County,,city-us,406,44.635,-122.898,2211
+10202,Crabtree,PA,Westmoreland County,,city-us,148,40.362,-79.471,2606
+10199,Crabtree,CA,Fresno County,,city-us,0,36.844,-119.090,286
+10200,Crabtree,NC,Haywood County,,city-us,0,35.602,-82.941,545

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10547,Crozier,AZ,,city-us,74,35.425,-113.649,1364
-10546,Crozier,VA,,city-us,0,37.637,-77.797,744
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10547,Crozier,AZ,Mohave County,,city-us,74,35.425,-113.649,1364
+10546,Crozier,VA,Goochland County,,city-us,0,37.637,-77.797,744

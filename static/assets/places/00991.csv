@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4949,Braden,TN,,city-us,256,35.380,-89.568,1911
-4950,Braden,IL,,city-us,0,37.996,-88.616,104
-4951,Braden,WV,,city-us,0,39.440,-80.744,267
-4952,Braden,TN,,city-us,0,36.417,-83.876,315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4949,Braden,TN,Fayette County,,city-us,256,35.380,-89.568,1911
+4950,Braden,IL,Hamilton County,,city-us,0,37.996,-88.616,104
+4951,Braden,WV,Tyler County,,city-us,0,39.440,-80.744,267
+4952,Braden,TN,Union County,,city-us,0,36.417,-83.876,315

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27137,Marvin,NC,,city-us,6510,34.992,-80.815,2259
-27135,Marvin,SD,,city-us,19,45.261,-96.913,3181
-27136,Marvin,MO,,city-us,0,38.416,-92.771,245
-27138,Marvyn,AL,,city-us,0,32.439,-85.364,1292
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27137,Marvin,NC,Union County,,city-us,6510,34.992,-80.815,2259
+27135,Marvin,SD,Grant County,,city-us,19,45.261,-96.913,3181
+27136,Marvin,MO,Morgan County,,city-us,0,38.416,-92.771,245
+27138,Marvyn,AL,Lee County,,city-us,0,32.439,-85.364,1292

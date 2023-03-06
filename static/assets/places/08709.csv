@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43613,Twin Oaks,MO,,city-us,599,38.565,-90.497,3276
-43611,Twin Oaks,OK,,city-us,328,36.205,-94.851,2091
-43610,Twin Oaks,NC,,city-us,0,36.528,-81.163,320
-43612,Twin Oaks,CA,,city-us,0,35.313,-118.410,204
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43613,Twin Oaks,MO,St. Louis County,,city-us,599,38.565,-90.497,3276
+43611,Twin Oaks,OK,Delaware County,,city-us,328,36.205,-94.851,2091
+43610,Twin Oaks,NC,Alleghany County,,city-us,0,36.528,-81.163,320
+43612,Twin Oaks,CA,Kern County,,city-us,0,35.313,-118.410,204

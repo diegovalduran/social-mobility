@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-91,Acme,WA,,city-us,108,48.717,-122.205,2803
-88,Acme,IN,,city-us,30,38.978,-86.059,295
-87,Acme,ND,,city-us,19,46.507,-102.354,125
-83,Acme,NC,,city-us,0,34.326,-78.205,278
-84,Acme,LA,,city-us,0,31.286,-91.820,198
-85,Acme,KS,,city-us,0,38.843,-97.261,307
-86,Acme,MI,,city-us,0,44.772,-85.501,1953
-89,Acme,WV,,city-us,0,38.037,-81.456,86
-90,Acme,PA,,city-us,0,40.127,-79.435,5835
+id,name,state,county,country,level,population,latitude,longitude,wiki
+91,Acme,WA,Whatcom County,,city-us,108,48.717,-122.205,2803
+88,Acme,IN,Jackson County,,city-us,30,38.978,-86.059,295
+87,Acme,ND,Hettinger County,,city-us,19,46.507,-102.354,125
+83,Acme,NC,Columbus County,,city-us,0,34.326,-78.205,278
+84,Acme,LA,Concordia Parish,,city-us,0,31.286,-91.820,198
+85,Acme,KS,Dickinson County,,city-us,0,38.843,-97.261,307
+86,Acme,MI,Grand Traverse County,,city-us,0,44.772,-85.501,1953
+89,Acme,WV,Kanawha County,,city-us,0,38.037,-81.456,86
+90,Acme,PA,Westmoreland County,,city-us,0,40.127,-79.435,5835

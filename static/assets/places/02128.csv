@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10674,Cummings,PA,,city-us,263,41.351,-77.333,5791
-10676,Cummings,ND,,city-us,219,47.514,-97.079,2416
-10673,Cummings,KS,,city-us,0,39.463,-95.248,331
-10675,Cummings,CA,,city-us,0,39.833,-123.632,333
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10674,Cummings,PA,Lycoming County,,city-us,263,41.351,-77.333,5791
+10676,Cummings,ND,Traill County,,city-us,219,47.514,-97.079,2416
+10673,Cummings,KS,Atchison County,,city-us,0,39.463,-95.248,331
+10675,Cummings,CA,Mendocino County,,city-us,0,39.833,-123.632,333

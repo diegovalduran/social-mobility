@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20866,Howes,ND,,city-us,79,46.854,-97.482,0
-20867,Howes,MO,,city-us,0,37.709,-91.515,454
-20868,Howes,SD,,city-us,0,44.619,-102.051,174
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20866,Howes,ND,Cass County,,city-us,79,46.854,-97.482,0
+20867,Howes,MO,Dent County,,city-us,0,37.709,-91.515,454
+20868,Howes,SD,Meade County,,city-us,0,44.619,-102.051,174

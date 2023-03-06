@@ -1,20 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1811,Atlanta,GA,,city-us,496461,33.763,-84.423,74889
-1807,Atlanta,TX,,city-us,5409,33.114,-94.164,7274
-1815,Atlanta,IL,,city-us,1850,40.249,-89.210,351
-1813,Atlanta,IN,,city-us,762,40.215,-86.026,3491
-1817,Atlanta,MI,,city-us,720,45.005,-84.144,3073
-1821,Atlanta,WI,,city-us,561,45.511,-91.337,1924
-1816,Atlanta,MO,,city-us,377,39.899,-92.481,6194
-1810,Atlanta,KS,,city-us,169,37.436,-96.765,3587
-1824,Atlanta,LA,,city-us,145,31.805,-92.738,3096
-1820,Atlanta,KS,,city-us,138,38.301,-98.197,150
-1806,Atlanta,MN,,city-us,111,47.022,-96.128,2331
-1818,Atlanta,NE,,city-us,102,40.367,-99.473,4972
-1808,Atlanta,MS,,city-us,0,33.798,-89.147,323
-1809,Atlanta,AR,,city-us,0,33.119,-93.053,184
-1812,Atlanta,ID,,city-us,0,43.802,-115.127,4743
-1814,Atlanta,KY,,city-us,0,37.233,-84.049,146
-1819,Atlanta,OH,,city-us,0,39.561,-83.191,666
-1822,Atlanta,CA,,city-us,0,37.813,-121.121,3685
-1823,Atlanta,DE,,city-us,0,38.709,-75.678,230
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1811,Atlanta,GA,DeKalb County / Fulton County,,city-us,496461,33.763,-84.423,74889
+1807,Atlanta,TX,Cass County,,city-us,5409,33.114,-94.164,7274
+1815,Atlanta,IL,Logan County,,city-us,1850,40.249,-89.210,351
+1813,Atlanta,IN,Hamilton County,,city-us,762,40.215,-86.026,3491
+1817,Atlanta,MI,Montmorency County,,city-us,720,45.005,-84.144,3073
+1821,Atlanta,WI,Rusk County,,city-us,561,45.511,-91.337,1924
+1816,Atlanta,MO,Macon County,,city-us,377,39.899,-92.481,6194
+1810,Atlanta,KS,Cowley County,,city-us,169,37.436,-96.765,3587
+1824,Atlanta,LA,Winn Parish,,city-us,145,31.805,-92.738,3096
+1820,Atlanta,KS,Rice County,,city-us,138,38.301,-98.197,150
+1806,Atlanta,MN,Becker County,,city-us,111,47.022,-96.128,2331
+1818,Atlanta,NE,Phelps County,,city-us,102,40.367,-99.473,4972
+1808,Atlanta,MS,Chickasaw County,,city-us,0,33.798,-89.147,323
+1809,Atlanta,AR,Columbia County,,city-us,0,33.119,-93.053,184
+1812,Atlanta,ID,Elmore County,,city-us,0,43.802,-115.127,4743
+1814,Atlanta,KY,Laurel County,,city-us,0,37.233,-84.049,146
+1819,Atlanta,OH,Pickaway County,,city-us,0,39.561,-83.191,666
+1822,Atlanta,CA,San Joaquin County,,city-us,0,37.813,-121.121,3685
+1823,Atlanta,DE,Sussex County,,city-us,0,38.709,-75.678,230

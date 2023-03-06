@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13327,Elk Prairie,IL,,city-us,683,38.179,-88.983,1385
-13328,Elk Prairie,MO,,city-us,0,37.864,-91.705,353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13327,Elk Prairie,IL,Jefferson County,,city-us,683,38.179,-88.983,1385
+13328,Elk Prairie,MO,Phelps County,,city-us,0,37.864,-91.705,353

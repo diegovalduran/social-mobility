@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-69,Accomac,VA,,city-us,522,37.720,-75.665,5964
-70,Accomac,PA,,city-us,0,40.045,-76.564,193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+69,Accomac,VA,Accomack County,,city-us,522,37.720,-75.665,5964
+70,Accomac,PA,York County,,city-us,0,40.045,-76.564,193

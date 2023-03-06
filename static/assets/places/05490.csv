@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28076,Metz,,France,city-international,116581,49.120,6.178,34220
-28074,Metz,MO,,city-us,308,37.998,-94.446,234
-28072,Metz,MI,,city-us,281,45.249,-83.830,2840
-28069,Metz,IA,,city-us,0,41.666,-93.136,596
-28070,Metz,WV,,city-us,0,39.580,-80.370,972
-28071,Metz,CA,,city-us,0,36.355,-121.212,696
-28073,Metz,IN,,city-us,0,41.616,-84.839,1406
-28075,Metz,WI,,city-us,0,44.214,-88.886,188
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28076,Metz,,,France,city-international,116581,49.120,6.178,34220
+28074,Metz,MO,Vernon County,,city-us,308,37.998,-94.446,234
+28072,Metz,MI,Presque Isle County,,city-us,281,45.249,-83.830,2840
+28069,Metz,IA,Jasper County,,city-us,0,41.666,-93.136,596
+28070,Metz,WV,Marion County,,city-us,0,39.580,-80.370,972
+28071,Metz,CA,Monterey County,,city-us,0,36.355,-121.212,696
+28073,Metz,IN,Steuben County,,city-us,0,41.616,-84.839,1406
+28075,Metz,WI,Waushara County,,city-us,0,44.214,-88.886,188

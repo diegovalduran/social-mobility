@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6776,Canfield,OH,,city-us,7588,41.025,-80.761,7853
-6777,Canfield,WV,,city-us,356,38.916,-79.816,192
-6774,Canfield,ND,,city-us,11,47.178,-100.400,0
-6772,Canfield,CO,,city-us,0,40.054,-105.075,280
-6773,Canfield,WV,,city-us,0,38.594,-80.754,229
-6775,Canfield,AR,,city-us,0,33.183,-93.633,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6776,Canfield,OH,Mahoning County,,city-us,7588,41.025,-80.761,7853
+6777,Canfield,WV,Randolph County,,city-us,356,38.916,-79.816,192
+6774,Canfield,ND,Burleigh County,,city-us,11,47.178,-100.400,0
+6772,Canfield,CO,Boulder County,,city-us,0,40.054,-105.075,280
+6773,Canfield,WV,Braxton County,,city-us,0,38.594,-80.754,229
+6775,Canfield,AR,Lafayette County,,city-us,0,33.183,-93.633,87

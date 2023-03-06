@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43084,Tolland,CT,,city-us,14511,41.883,-72.359,10061
-43086,Tolland,MA,,city-us,465,42.102,-73.035,3649
-43085,Tolland,CO,,city-us,0,39.905,-105.589,265
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43084,Tolland,CT,Capitol Planning Region,,city-us,14511,41.883,-72.359,10061
+43086,Tolland,MA,Hampden County,,city-us,465,42.102,-73.035,3649
+43085,Tolland,CO,Gilpin County,,city-us,0,39.905,-105.589,265

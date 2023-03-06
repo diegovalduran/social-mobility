@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41789,Sturgis,SD,,city-us,7107,44.410,-103.509,6143
-41791,Sturgis,MI,,city-us,2023,41.788,-85.477,2021
-41792,Sturgis,KY,,city-us,1597,37.547,-87.984,3403
-41790,Sturgis,MS,,city-us,210,33.345,-89.045,3580
-41788,Sturgis,OK,,city-us,0,36.894,-102.070,691
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41789,Sturgis,SD,Meade County,,city-us,7107,44.410,-103.509,6143
+41791,Sturgis,MI,St. Joseph County,,city-us,2023,41.788,-85.477,2021
+41792,Sturgis,KY,Union County,,city-us,1597,37.547,-87.984,3403
+41790,Sturgis,MS,Oktibbeha County,,city-us,210,33.345,-89.045,3580
+41788,Sturgis,OK,Cimarron County,,city-us,0,36.894,-102.070,691

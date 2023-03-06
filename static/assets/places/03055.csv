@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15312,Foresman,IN,,city-us,0,40.500,-87.151,284
-15313,Foresman,IN,,city-us,0,40.866,-87.295,348
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15312,Foresman,IN,Benton County,,city-us,0,40.500,-87.151,284
+15313,Foresman,IN,Newton County,,city-us,0,40.866,-87.295,348

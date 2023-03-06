@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24627,Lewisville,TX,,city-us,112944,33.051,-96.975,24598
-24633,Lewisville,NJ,,city-us,33077,40.296,-74.720,23372
-24628,Lewisville,NC,,city-us,13602,36.097,-80.419,3581
-24625,Lewisville,WA,,city-us,2414,45.810,-122.523,2307
-24632,Lewisville,AR,,city-us,886,33.358,-93.578,3337
-24630,Lewisville,MI,,city-us,535,43.896,-82.831,2234
-24631,Lewisville,ID,,city-us,426,43.696,-112.011,2329
-24629,Lewisville,IN,,city-us,341,39.807,-85.353,3556
-24637,Lewisville,MN,,city-us,206,43.923,-94.437,3175
-24634,Lewisville,OH,,city-us,194,39.765,-81.218,3017
-24624,Lewisville,PA,,city-us,0,39.722,-75.875,237
-24626,Lewisville,VA,,city-us,0,39.198,-77.950,162
-24635,Lewisville,IN,,city-us,0,39.471,-86.632,1227
-24636,Lewisville,OR,,city-us,0,44.778,-123.345,206
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24627,Lewisville,TX,Dallas County / Denton County,,city-us,112944,33.051,-96.975,24598
+24633,Lewisville,NJ,Mercer County,,city-us,33077,40.296,-74.720,23372
+24628,Lewisville,NC,Forsyth County,,city-us,13602,36.097,-80.419,3581
+24625,Lewisville,WA,Clark County,,city-us,2414,45.810,-122.523,2307
+24632,Lewisville,AR,Lafayette County,,city-us,886,33.358,-93.578,3337
+24630,Lewisville,MI,Huron County,,city-us,535,43.896,-82.831,2234
+24631,Lewisville,ID,Jefferson County,,city-us,426,43.696,-112.011,2329
+24629,Lewisville,IN,Henry County,,city-us,341,39.807,-85.353,3556
+24637,Lewisville,MN,Watonwan County,,city-us,206,43.923,-94.437,3175
+24634,Lewisville,OH,Monroe County,,city-us,194,39.765,-81.218,3017
+24624,Lewisville,PA,Chester County,,city-us,0,39.722,-75.875,237
+24626,Lewisville,VA,Clarke County,,city-us,0,39.198,-77.950,162
+24635,Lewisville,IN,Morgan County,,city-us,0,39.471,-86.632,1227
+24636,Lewisville,OR,Polk County,,city-us,0,44.778,-123.345,206

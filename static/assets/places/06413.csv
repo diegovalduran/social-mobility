@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32715,Ottumwa,IA,,city-us,25350,41.020,-92.411,16640
-32713,Ottumwa,KS,,city-us,0,38.278,-95.799,244
-32714,Ottumwa,SD,,city-us,0,44.234,-101.347,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32715,Ottumwa,IA,Wapello County,,city-us,25350,41.020,-92.411,16640
+32713,Ottumwa,KS,Coffey County,,city-us,0,38.278,-95.799,244
+32714,Ottumwa,SD,Haakon County,,city-us,0,44.234,-101.347,285

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37961,Ruskin,FL,,city-us,26536,27.721,-82.433,17538
-37962,Ruskin,NE,,city-us,106,40.144,-97.869,3123
-37963,Ruskin,MN,,city-us,0,44.267,-93.162,423
-37964,Ruskin,GA,,city-us,0,31.151,-82.445,387
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37961,Ruskin,FL,Hillsborough County,,city-us,26536,27.721,-82.433,17538
+37962,Ruskin,NE,Nuckolls County,,city-us,106,40.144,-97.869,3123
+37963,Ruskin,MN,Rice County,,city-us,0,44.267,-93.162,423
+37964,Ruskin,GA,Ware County,,city-us,0,31.151,-82.445,387

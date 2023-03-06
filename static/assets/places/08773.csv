@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44036,Utica,NY,,city-us,64501,43.101,-75.233,34799
-44033,Utica,MI,,city-us,5177,42.626,-83.034,4604
-44030,Utica,OH,,city-us,2095,40.237,-82.442,4586
-44031,Utica,IL,,city-us,1936,41.346,-88.986,350
-44035,Utica,SC,,city-us,1729,34.678,-82.932,1900
-44040,Utica,WI,,city-us,1349,43.937,-88.704,3736
-44023,Utica,IN,,city-us,931,38.334,-85.654,3875
-44042,Utica,SD,,city-us,850,42.949,-97.462,3166
-44037,Utica,NE,,city-us,830,40.896,-97.345,3621
-44027,Utica,MS,,city-us,633,32.110,-90.623,5807
-44024,Utica,WI,,city-us,618,43.367,-90.907,2116
-44041,Utica,MN,,city-us,572,43.977,-91.899,1796
-44026,Utica,KY,,city-us,327,37.602,-87.113,1282
-44032,Utica,MO,,city-us,230,39.744,-93.627,3110
-44039,Utica,PA,,city-us,182,41.436,-79.957,1821
-44034,Utica,KS,,city-us,101,38.644,-100.170,3667
-44022,Utica,OK,,city-us,51,33.901,-96.221,163
-44029,Utica,MT,,city-us,23,46.968,-110.093,1048
-44025,Utica,WI,,city-us,0,42.966,-89.122,139
-44028,Utica,WV,,city-us,0,39.045,-81.659,225
-44038,Utica,IA,,city-us,0,40.815,-91.835,538
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44036,Utica,NY,Oneida County,,city-us,64501,43.101,-75.233,34799
+44033,Utica,MI,Macomb County,,city-us,5177,42.626,-83.034,4604
+44030,Utica,OH,Knox County / Licking County,,city-us,2095,40.237,-82.442,4586
+44031,Utica,IL,LaSalle County,,city-us,1936,41.346,-88.986,350
+44035,Utica,SC,Oconee County,,city-us,1729,34.678,-82.932,1900
+44040,Utica,WI,Winnebago County,,city-us,1349,43.937,-88.704,3736
+44023,Utica,IN,Clark County,,city-us,931,38.334,-85.654,3875
+44042,Utica,SD,Yankton County,,city-us,850,42.949,-97.462,3166
+44037,Utica,NE,Seward County,,city-us,830,40.896,-97.345,3621
+44027,Utica,MS,Hinds County,,city-us,633,32.110,-90.623,5807
+44024,Utica,WI,Crawford County,,city-us,618,43.367,-90.907,2116
+44041,Utica,MN,Winona County,,city-us,572,43.977,-91.899,1796
+44026,Utica,KY,Daviess County,,city-us,327,37.602,-87.113,1282
+44032,Utica,MO,Livingston County,,city-us,230,39.744,-93.627,3110
+44039,Utica,PA,Venango County,,city-us,182,41.436,-79.957,1821
+44034,Utica,KS,Ness County,,city-us,101,38.644,-100.170,3667
+44022,Utica,OK,Bryan County,,city-us,51,33.901,-96.221,163
+44029,Utica,MT,Judith Basin County,,city-us,23,46.968,-110.093,1048
+44025,Utica,WI,Dane County,,city-us,0,42.966,-89.122,139
+44028,Utica,WV,Jackson County,,city-us,0,39.045,-81.659,225
+44038,Utica,IA,Van Buren County,,city-us,0,40.815,-91.835,538

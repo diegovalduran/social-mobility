@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9679,Conner,MT,,city-us,158,45.931,-114.125,962
-9685,Connor,ND,,city-us,31,46.412,-103.233,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9679,Conner,MT,Ravalli County,,city-us,158,45.931,-114.125,962
+9685,Connor,ND,Slope County,,city-us,31,46.412,-103.233,0

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44478,Vick,LA,,city-us,0,31.230,-92.106,107
-44479,Vick,AR,,city-us,0,33.329,-92.106,1924
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44478,Vick,LA,Avoyelles Parish,,city-us,0,31.230,-92.106,107
+44479,Vick,AR,Bradley County,,city-us,0,33.329,-92.106,1924

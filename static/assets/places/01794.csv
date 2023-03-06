@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9187,Coffeyville,KS,,city-us,8847,37.037,-95.616,17019
-9185,Coffeeville,MS,,city-us,802,33.977,-89.676,2382
-9183,Coffeeville,AL,,city-us,262,31.758,-88.090,2315
-9184,Coffeeville,AR,,city-us,0,35.491,-91.400,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9187,Coffeyville,KS,Montgomery County,,city-us,8847,37.037,-95.616,17019
+9185,Coffeeville,MS,Yalobusha County,,city-us,802,33.977,-89.676,2382
+9183,Coffeeville,AL,Clarke County,,city-us,262,31.758,-88.090,2315
+9184,Coffeeville,AR,Jackson County,,city-us,0,35.491,-91.400,88

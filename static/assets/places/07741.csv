@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39186,Sevastopol,,Ukraine,city-international,509992,44.600,33.533,26358
-39184,Sevastopol,WI,,city-us,2864,44.930,-87.173,2935
-39185,Sevastopol,IN,,city-us,0,41.129,-86.019,464
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39186,Sevastopol,,,Ukraine,city-international,509992,44.600,33.533,26358
+39184,Sevastopol,WI,Door County,,city-us,2864,44.930,-87.173,2935
+39185,Sevastopol,IN,Kosciusko County,,city-us,0,41.129,-86.019,464

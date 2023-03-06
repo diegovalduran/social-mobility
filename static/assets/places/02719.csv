@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13514,Elmhurst,IL,,city-us,45326,41.897,-87.944,8352
-13515,Elmhurst,PA,,city-us,834,41.378,-75.548,2978
-13513,Elmhurst,MI,,city-us,680,45.513,-84.667,2074
-13516,Elmhurst,WI,,city-us,0,45.053,-89.189,665
-13517,Elmhurst,WV,,city-us,0,37.634,-80.629,124
-13518,Elmhurst,DE,,city-us,0,39.731,-75.590,1283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13514,Elmhurst,IL,Cook County / DuPage County,,city-us,45326,41.897,-87.944,8352
+13515,Elmhurst,PA,Lackawanna County,,city-us,834,41.378,-75.548,2978
+13513,Elmhurst,MI,Cheboygan County,,city-us,680,45.513,-84.667,2074
+13516,Elmhurst,WI,Langlade County,,city-us,0,45.053,-89.189,665
+13517,Elmhurst,WV,Monroe County,,city-us,0,37.634,-80.629,124
+13518,Elmhurst,DE,New Castle County,,city-us,0,39.731,-75.590,1283

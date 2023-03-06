@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5686,Brownville,NJ,,city-us,2368,40.401,-74.295,2033
-5688,Brownville,ME,,city-us,1164,45.357,-69.018,6643
-5685,Brownville,NY,,city-us,951,44.007,-75.984,5282
-5683,Brownville,WI,,city-us,596,45.031,-90.934,133
-5687,Brownville,NE,,city-us,142,40.398,-95.658,5796
-5684,Brownville,FL,,city-us,0,27.298,-81.826,138
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5686,Brownville,NJ,Middlesex County,,city-us,2368,40.401,-74.295,2033
+5688,Brownville,ME,Piscataquis County,,city-us,1164,45.357,-69.018,6643
+5685,Brownville,NY,Jefferson County,,city-us,951,44.007,-75.984,5282
+5683,Brownville,WI,Chippewa County,,city-us,596,45.031,-90.934,133
+5687,Brownville,NE,Nemaha County,,city-us,142,40.398,-95.658,5796
+5684,Brownville,FL,DeSoto County,,city-us,0,27.298,-81.826,138

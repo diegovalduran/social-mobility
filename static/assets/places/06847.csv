@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34886,Polsgrove,IL,,city-us,0,42.168,-90.024,138
-34887,Polsgrove,KY,,city-us,0,38.348,-84.885,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34886,Polsgrove,IL,Carroll County,,city-us,0,42.168,-90.024,138
+34887,Polsgrove,KY,Franklin County,,city-us,0,38.348,-84.885,118

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40341,South Bend,IN,,city-us,103353,41.683,-86.250,49715
-40340,South Bend,WA,,city-us,1760,46.663,-123.805,4205
-40338,South Bend,MN,,city-us,1577,44.141,-94.094,3740
-40337,South Bend,KS,,city-us,565,38.297,-98.747,406
-40339,South Bend,NE,,city-us,97,41.002,-96.245,3266
-40336,South Bend,PA,,city-us,0,40.628,-79.369,221
-40342,South Bend,TX,,city-us,0,33.004,-98.668,1324
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40341,South Bend,IN,St. Joseph County,,city-us,103353,41.683,-86.250,49715
+40340,South Bend,WA,Pacific County,,city-us,1760,46.663,-123.805,4205
+40338,South Bend,MN,Blue Earth County,,city-us,1577,44.141,-94.094,3740
+40337,South Bend,KS,Barton County,,city-us,565,38.297,-98.747,406
+40339,South Bend,NE,Cass County,,city-us,97,41.002,-96.245,3266
+40336,South Bend,PA,Armstrong County,,city-us,0,40.628,-79.369,221
+40342,South Bend,TX,Young County,,city-us,0,33.004,-98.668,1324

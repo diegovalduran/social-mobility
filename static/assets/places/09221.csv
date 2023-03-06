@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46513,White Deer,PA,,city-us,4323,41.054,-76.950,3000
-46512,White Deer,TX,,city-us,904,35.435,-101.173,4797
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46513,White Deer,PA,Union County,,city-us,4323,41.054,-76.950,3000
+46512,White Deer,TX,Carson County,,city-us,904,35.435,-101.173,4797

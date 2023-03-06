@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20785,Hotchkiss,CO,,city-us,906,38.800,-107.719,3115
-20784,Hotchkiss,VA,,city-us,0,38.001,-79.581,90
-20786,Hotchkiss,WV,,city-us,0,37.674,-81.367,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20785,Hotchkiss,CO,Delta County,,city-us,906,38.800,-107.719,3115
+20784,Hotchkiss,VA,Bath County,,city-us,0,38.001,-79.581,90
+20786,Hotchkiss,WV,Raleigh County,,city-us,0,37.674,-81.367,139

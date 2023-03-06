@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46206,Westford,MA,,city-us,24446,42.586,-71.440,6820
-46202,Westford,VT,,city-us,2057,44.607,-73.004,8703
-46203,Westford,WI,,city-us,1302,43.498,-88.941,2149
-46207,Westford,NY,,city-us,818,42.646,-74.826,3253
-46208,Westford,WI,,city-us,515,43.511,-90.243,2158
-46205,Westford,MN,,city-us,254,43.796,-94.438,1868
-46204,Westford,ND,,city-us,28,46.940,-99.626,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46206,Westford,MA,Middlesex County,,city-us,24446,42.586,-71.440,6820
+46202,Westford,VT,Chittenden County,,city-us,2057,44.607,-73.004,8703
+46203,Westford,WI,Dodge County,,city-us,1302,43.498,-88.941,2149
+46207,Westford,NY,Otsego County,,city-us,818,42.646,-74.826,3253
+46208,Westford,WI,Richland County,,city-us,515,43.511,-90.243,2158
+46205,Westford,MN,Martin County,,city-us,254,43.796,-94.438,1868
+46204,Westford,ND,Kidder County,,city-us,28,46.940,-99.626,0

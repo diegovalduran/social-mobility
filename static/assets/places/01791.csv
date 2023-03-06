@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9172,Coe,MI,,city-us,2993,43.505,-84.672,2383
-9176,Coe,IL,,city-us,1759,41.621,-90.258,530
-9173,Coe,KY,,city-us,0,36.683,-85.550,87
-9174,Coe,WV,,city-us,0,38.326,-80.554,324
-9175,Coe,IN,,city-us,0,38.306,-87.260,335
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9172,Coe,MI,Isabella County,,city-us,2993,43.505,-84.672,2383
+9176,Coe,IL,Rock Island County,,city-us,1759,41.621,-90.258,530
+9173,Coe,KY,Monroe County,,city-us,0,36.683,-85.550,87
+9174,Coe,WV,Nicholas County,,city-us,0,38.326,-80.554,324
+9175,Coe,IN,Pike County,,city-us,0,38.306,-87.260,335

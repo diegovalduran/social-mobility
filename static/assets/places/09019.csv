@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45408,Washington Park,IL,,city-us,2503,38.635,-90.093,3251
-45406,Washington Park,FL,,city-us,1461,26.133,-80.181,2084
-45405,Washington Park,NC,,city-us,386,35.533,-77.032,1890
-45407,Washington Park,AZ,,city-us,19,34.424,-111.268,467
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45408,Washington Park,IL,St. Clair County,,city-us,2503,38.635,-90.093,3251
+45406,Washington Park,FL,Broward County,,city-us,1461,26.133,-80.181,2084
+45405,Washington Park,NC,Beaufort County,,city-us,386,35.533,-77.032,1890
+45407,Washington Park,AZ,Gila County,,city-us,19,34.424,-111.268,467

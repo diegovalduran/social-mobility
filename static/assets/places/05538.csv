@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28448,Miles City,MT,,city-us,8397,46.408,-105.841,13136
-28447,Miles City,FL,,city-us,0,26.154,-81.345,629
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28448,Miles City,MT,Custer County,,city-us,8397,46.408,-105.841,13136
+28447,Miles City,FL,Collier County,,city-us,0,26.154,-81.345,629

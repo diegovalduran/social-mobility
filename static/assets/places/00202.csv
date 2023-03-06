@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1052,Anchor,IL,,city-us,278,40.529,-88.517,417
-1050,Anchor,TX,,city-us,0,29.208,-95.473,3181
-1051,Anchor,KY,,city-us,0,36.748,-83.882,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1052,Anchor,IL,McLean County,,city-us,278,40.529,-88.517,417
+1050,Anchor,TX,Brazoria County,,city-us,0,29.208,-95.473,3181
+1051,Anchor,KY,Knox County,,city-us,0,36.748,-83.882,95

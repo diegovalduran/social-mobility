@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12959,Edgerton,WI,,city-us,5952,42.839,-89.070,7659
-12965,Edgerton,OH,,city-us,1869,41.449,-84.748,3714
-12961,Edgerton,KS,,city-us,1741,38.765,-95.008,4425
-12963,Edgerton,MN,,city-us,1262,43.872,-96.129,4859
-12964,Edgerton,MO,,city-us,601,39.505,-94.633,3485
-12962,Edgerton,WY,,city-us,153,43.413,-106.249,3244
-12960,Edgerton,SD,,city-us,80,43.724,-97.677,0
-12957,Edgerton,IN,,city-us,0,41.077,-84.806,1990
-12958,Edgerton,VA,,city-us,0,36.779,-77.778,189
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12959,Edgerton,WI,Dane County / Rock County,,city-us,5952,42.839,-89.070,7659
+12965,Edgerton,OH,Williams County,,city-us,1869,41.449,-84.748,3714
+12961,Edgerton,KS,Johnson County,,city-us,1741,38.765,-95.008,4425
+12963,Edgerton,MN,Pipestone County,,city-us,1262,43.872,-96.129,4859
+12964,Edgerton,MO,Platte County,,city-us,601,39.505,-94.633,3485
+12962,Edgerton,WY,Natrona County,,city-us,153,43.413,-106.249,3244
+12960,Edgerton,SD,Hanson County,,city-us,80,43.724,-97.677,0
+12957,Edgerton,IN,Allen County,,city-us,0,41.077,-84.806,1990
+12958,Edgerton,VA,Brunswick County,,city-us,0,36.779,-77.778,189

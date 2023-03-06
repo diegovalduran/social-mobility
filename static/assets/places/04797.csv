@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24488,Leonard,TX,,city-us,2039,33.380,-96.247,2907
-24490,Leonard,MI,,city-us,357,42.865,-83.143,4026
-24492,Leonard,OK,,city-us,262,35.920,-95.799,2518
-24486,Leonard,ND,,city-us,244,46.652,-97.246,3252
-24491,Leonard,MO,,city-us,52,39.896,-92.179,3099
-24487,Leonard,MN,,city-us,41,47.652,-95.272,3063
-24489,Leonard,WV,,city-us,0,38.083,-80.403,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24488,Leonard,TX,Fannin County,,city-us,2039,33.380,-96.247,2907
+24490,Leonard,MI,Oakland County,,city-us,357,42.865,-83.143,4026
+24492,Leonard,OK,Tulsa County,,city-us,262,35.920,-95.799,2518
+24486,Leonard,ND,Cass County,,city-us,244,46.652,-97.246,3252
+24491,Leonard,MO,Shelby County,,city-us,52,39.896,-92.179,3099
+24487,Leonard,MN,Clearwater County,,city-us,41,47.652,-95.272,3063
+24489,Leonard,WV,Greenbrier County,,city-us,0,38.083,-80.403,210

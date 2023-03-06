@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43488,Turkey,,,country,83593483,38.964,35.243,113093
-43486,Turkey,TX,,city-us,326,34.393,-100.898,3298
-43487,Turkey,NC,,city-us,213,34.992,-78.183,2359
-43485,Turkey,KY,,city-us,0,37.479,-83.508,330
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43488,Turkey,,,,country,83593483,38.964,35.243,113093
+43486,Turkey,TX,Hall County,,city-us,326,34.393,-100.898,3298
+43487,Turkey,NC,Sampson County,,city-us,213,34.992,-78.183,2359
+43485,Turkey,KY,Breathitt County,,city-us,0,37.479,-83.508,330

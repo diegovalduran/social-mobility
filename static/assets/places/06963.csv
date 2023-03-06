@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35388,Prim,AR,,city-us,0,35.694,-92.109,805
-35389,Prim,VA,,city-us,0,38.249,-77.070,85
-35390,Primm,NV,,city-us,0,35.612,-115.388,60
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35388,Prim,AR,Cleburne County,,city-us,0,35.694,-92.109,805
+35389,Prim,VA,King George County,,city-us,0,38.249,-77.070,85
+35390,Primm,NV,Clark County,,city-us,0,35.612,-115.388,60

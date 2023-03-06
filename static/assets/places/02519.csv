@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12583,Eagle Bend,MN,,city-us,546,46.165,-95.039,3581
-12584,Eagle Bend,MS,,city-us,296,32.521,-91.007,925
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12583,Eagle Bend,MN,Todd County,,city-us,546,46.165,-95.039,3581
+12584,Eagle Bend,MS,Warren County,,city-us,296,32.521,-91.007,925

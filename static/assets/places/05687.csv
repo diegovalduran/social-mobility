@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29307,Montreal,,Canada,city-international,3519595,45.509,-73.562,66109
-29306,Montreal,WI,,city-us,800,46.428,-90.246,5272
-29305,Montreal,MO,,city-us,119,37.969,-92.593,385
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29307,Montreal,,,Canada,city-international,3519595,45.509,-73.562,66109
+29306,Montreal,WI,Iron County,,city-us,800,46.428,-90.246,5272
+29305,Montreal,MO,Camden County,,city-us,119,37.969,-92.593,385

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33421,Peapatch,VA,,city-us,0,37.284,-81.789,257
-33422,Peapatch,WV,,city-us,0,37.284,-81.789,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33421,Peapatch,VA,Buchanan County,,city-us,0,37.284,-81.789,257
+33422,Peapatch,WV,McDowell County,,city-us,0,37.284,-81.789,257

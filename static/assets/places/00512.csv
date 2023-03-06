@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2620,Bashaw,WI,,city-us,1089,45.771,-91.976,1899
-2618,Bashaw,MN,,city-us,222,44.153,-94.914,2496
-2619,Bashaw,WI,,city-us,0,45.769,-92.063,176
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2620,Bashaw,WI,Washburn County,,city-us,1089,45.771,-91.976,1899
+2618,Bashaw,MN,Brown County,,city-us,222,44.153,-94.914,2496
+2619,Bashaw,WI,Burnett County,,city-us,0,45.769,-92.063,176

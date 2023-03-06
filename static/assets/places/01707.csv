@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8642,Claypool,AZ,,city-us,1063,33.411,-110.843,2549
-8643,Claypool,IN,,city-us,396,41.129,-85.881,4916
-8644,Claypool,WV,,city-us,0,37.733,-81.814,224
-8645,Claypool,WV,,city-us,0,37.833,-80.871,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8642,Claypool,AZ,Gila County,,city-us,1063,33.411,-110.843,2549
+8643,Claypool,IN,Kosciusko County,,city-us,396,41.129,-85.881,4916
+8644,Claypool,WV,Logan County,,city-us,0,37.733,-81.814,224
+8645,Claypool,WV,Summers County,,city-us,0,37.833,-80.871,180

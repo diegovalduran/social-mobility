@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39392,Shattuck,OK,,city-us,1243,36.276,-99.881,4113
-39391,Shattuc,IL,,city-us,0,38.611,-89.193,327
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39392,Shattuck,OK,Ellis County,,city-us,1243,36.276,-99.881,4113
+39391,Shattuc,IL,Clinton County,,city-us,0,38.611,-89.193,327

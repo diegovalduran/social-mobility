@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11955,Donaldson,PA,,city-us,343,40.636,-76.412,1695
-11952,Donaldson,AR,,city-us,281,34.237,-92.924,2363
-11953,Donaldson,MN,,city-us,20,48.572,-96.896,2827
-11951,Donaldson,WV,,city-us,0,39.498,-78.654,368
-11954,Donaldson,IN,,city-us,0,41.361,-86.444,260
-11956,Donaldson,KY,,city-us,0,36.751,-87.895,84
-11957,Donaldson,WV,,city-us,0,38.387,-80.512,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11955,Donaldson,PA,Schuylkill County,,city-us,343,40.636,-76.412,1695
+11952,Donaldson,AR,Hot Spring County,,city-us,281,34.237,-92.924,2363
+11953,Donaldson,MN,Kittson County,,city-us,20,48.572,-96.896,2827
+11951,Donaldson,WV,Hampshire County,,city-us,0,39.498,-78.654,368
+11954,Donaldson,IN,Marshall County,,city-us,0,41.361,-86.444,260
+11956,Donaldson,KY,Trigg County,,city-us,0,36.751,-87.895,84
+11957,Donaldson,WV,Webster County,,city-us,0,38.387,-80.512,184

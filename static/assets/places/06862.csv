@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34938,Pontotoc,MS,,city-us,5684,34.248,-88.999,7412
-34936,Pontotoc,OK,,city-us,81,34.489,-96.625,237
-34937,Pontotoc,TX,,city-us,0,30.909,-98.980,2764
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34938,Pontotoc,MS,Pontotoc County,,city-us,5684,34.248,-88.999,7412
+34936,Pontotoc,OK,Johnston County,,city-us,81,34.489,-96.625,237
+34937,Pontotoc,TX,Mason County,,city-us,0,30.909,-98.980,2764

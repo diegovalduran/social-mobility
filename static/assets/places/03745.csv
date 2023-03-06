@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19176,Hartsville,TN,,city-us,12035,36.393,-86.157,7207
-19174,Hartsville,SC,,city-us,7588,34.374,-80.073,17254
-19175,Hartsville,NY,,city-us,554,42.222,-77.660,2954
-19173,Hartsville,IN,,city-us,318,39.268,-85.698,3924
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19176,Hartsville,TN,Trousdale County,,city-us,12035,36.393,-86.157,7207
+19174,Hartsville,SC,Darlington County,,city-us,7588,34.374,-80.073,17254
+19175,Hartsville,NY,Steuben County,,city-us,554,42.222,-77.660,2954
+19173,Hartsville,IN,Bartholomew County,,city-us,318,39.268,-85.698,3924

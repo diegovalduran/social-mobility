@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4461,Bloomville,OH,,city-us,861,41.052,-83.015,3269
-4459,Bloomville,NY,,city-us,228,42.333,-74.808,1181
-4460,Bloomville,WI,,city-us,0,45.293,-89.528,132
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4461,Bloomville,OH,Seneca County,,city-us,861,41.052,-83.015,3269
+4459,Bloomville,NY,Delaware County,,city-us,228,42.333,-74.808,1181
+4460,Bloomville,WI,Lincoln County,,city-us,0,45.293,-89.528,132

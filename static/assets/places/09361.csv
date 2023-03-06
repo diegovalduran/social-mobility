@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47329,Winslow,NJ,,city-us,39888,39.702,-74.908,16328
-47333,Winslow,AZ,,city-us,8943,35.024,-110.697,7894
-47332,Winslow,ME,,city-us,7952,44.524,-69.577,8446
-47334,Winslow,IN,,city-us,756,38.382,-87.213,4015
-47335,Winslow,IL,,city-us,562,42.482,-89.838,427
-47336,Winslow,AR,,city-us,365,35.801,-94.135,4929
-47330,Winslow,NE,,city-us,20,41.609,-96.504,3038
-47328,Winslow,KY,,city-us,0,38.454,-82.682,140
-47331,Winslow,PA,,city-us,0,40.924,-78.884,269
-47337,Winslow,WV,,city-us,0,38.307,-82.308,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47329,Winslow,NJ,Camden County,,city-us,39888,39.702,-74.908,16328
+47333,Winslow,AZ,Navajo County,,city-us,8943,35.024,-110.697,7894
+47332,Winslow,ME,Kennebec County,,city-us,7952,44.524,-69.577,8446
+47334,Winslow,IN,Pike County,,city-us,756,38.382,-87.213,4015
+47335,Winslow,IL,Stephenson County,,city-us,562,42.482,-89.838,427
+47336,Winslow,AR,Washington County,,city-us,365,35.801,-94.135,4929
+47330,Winslow,NE,Dodge County,,city-us,20,41.609,-96.504,3038
+47328,Winslow,KY,Boyd County,,city-us,0,38.454,-82.682,140
+47331,Winslow,PA,Jefferson County,,city-us,0,40.924,-78.884,269
+47337,Winslow,WV,Wayne County,,city-us,0,38.307,-82.308,95

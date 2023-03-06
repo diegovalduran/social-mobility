@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45987,West Chester,OH,,city-us,64939,39.338,-84.417,7053
-45988,West Chester,PA,,city-us,18630,39.961,-75.605,12829
-45990,West Chester,IA,,city-us,145,41.339,-91.818,2900
-45989,West Chester,OH,,city-us,0,40.233,-81.344,291
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45987,West Chester,OH,Butler County,,city-us,64939,39.338,-84.417,7053
+45988,West Chester,PA,Chester County,,city-us,18630,39.961,-75.605,12829
+45990,West Chester,IA,Washington County,,city-us,145,41.339,-91.818,2900
+45989,West Chester,OH,Tuscarawas County,,city-us,0,40.233,-81.344,291

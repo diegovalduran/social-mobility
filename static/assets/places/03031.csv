@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15218,Floris,VA,,city-us,7592,38.937,-77.413,992
-15217,Floris,IA,,city-us,116,40.865,-92.333,3017
-15216,Floris,OK,,city-us,0,36.870,-100.711,483
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15218,Floris,VA,Fairfax County,,city-us,7592,38.937,-77.413,992
+15217,Floris,IA,Davis County,,city-us,116,40.865,-92.333,3017
+15216,Floris,OK,Beaver County,,city-us,0,36.870,-100.711,483

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13252,Elim,PA,,city-us,3846,40.298,-78.943,2340
-13254,Elim,AK,,city-us,368,64.618,-162.261,3812
-13253,Elim,NE,,city-us,109,41.252,-100.139,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13252,Elim,PA,Cambria County,,city-us,3846,40.298,-78.943,2340
+13254,Elim,AK,Nome Census Area,,city-us,368,64.618,-162.261,3812
+13253,Elim,NE,Custer County,,city-us,109,41.252,-100.139,243

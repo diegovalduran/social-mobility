@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5578,Brown,OH,,city-us,7309,40.687,-81.162,352
-5590,Brown,PA,,city-us,4147,40.672,-77.651,228
-5582,Brown,OH,,city-us,3810,40.003,-83.227,352
-5585,Brown,OH,,city-us,2066,40.506,-82.318,352
-5579,Brown,IL,,city-us,2064,40.347,-88.394,3374
-5580,Brown,OH,,city-us,2041,40.221,-84.662,352
-5591,Brown,OH,,city-us,1906,41.118,-84.390,352
-5589,Brown,OH,,city-us,1604,40.150,-84.074,352
-5581,Brown,OH,,city-us,1456,40.324,-82.994,352
-5587,Brown,MI,,city-us,708,44.307,-86.114,2512
-5592,Brown,OH,,city-us,255,39.344,-82.356,352
-5586,Brown,PA,,city-us,92,41.511,-77.496,228
-5588,Brown,ND,,city-us,69,47.981,-100.896,0
-5576,Brown,LA,,city-us,0,32.178,-93.051,160
-5577,Brown,OK,,city-us,0,34.089,-96.480,245
-5583,Brown,WV,,city-us,0,39.388,-80.461,599
-5584,Brown,CA,,city-us,0,35.774,-117.850,522
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5578,Brown,OH,Carroll County,,city-us,7309,40.687,-81.162,352
+5590,Brown,PA,Mifflin County,,city-us,4147,40.672,-77.651,228
+5582,Brown,OH,Franklin County,,city-us,3810,40.003,-83.227,352
+5585,Brown,OH,Knox County,,city-us,2066,40.506,-82.318,352
+5579,Brown,IL,Champaign County,,city-us,2064,40.347,-88.394,3374
+5580,Brown,OH,Darke County,,city-us,2041,40.221,-84.662,352
+5591,Brown,OH,Paulding County,,city-us,1906,41.118,-84.390,352
+5589,Brown,OH,Miami County,,city-us,1604,40.150,-84.074,352
+5581,Brown,OH,Delaware County,,city-us,1456,40.324,-82.994,352
+5587,Brown,MI,Manistee County,,city-us,708,44.307,-86.114,2512
+5592,Brown,OH,Vinton County,,city-us,255,39.344,-82.356,352
+5586,Brown,PA,Lycoming County,,city-us,92,41.511,-77.496,228
+5588,Brown,ND,McHenry County,,city-us,69,47.981,-100.896,0
+5576,Brown,LA,Bienville Parish,,city-us,0,32.178,-93.051,160
+5577,Brown,OK,Bryan County,,city-us,0,34.089,-96.480,245
+5583,Brown,WV,Harrison County,,city-us,0,39.388,-80.461,599
+5584,Brown,CA,Kern County,,city-us,0,35.774,-117.850,522

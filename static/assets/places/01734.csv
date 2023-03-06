@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8845,Cliff,NM,,city-us,143,32.962,-108.611,1017
-8843,Cliff,NE,,city-us,126,41.488,-99.972,244
-8844,Cliff,KY,,city-us,0,37.681,-82.781,128
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8845,Cliff,NM,Grant County,,city-us,143,32.962,-108.611,1017
+8843,Cliff,NE,Custer County,,city-us,126,41.488,-99.972,244
+8844,Cliff,KY,Floyd County,,city-us,0,37.681,-82.781,128

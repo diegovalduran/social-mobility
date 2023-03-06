@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11267,Dedham,MA,,city-us,25308,42.242,-71.166,29425
-11266,Dedham,ME,,city-us,1682,44.701,-68.558,4581
-11265,Dedham,IA,,city-us,224,41.906,-94.822,3740
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11267,Dedham,MA,Norfolk County,,city-us,25308,42.242,-71.166,29425
+11266,Dedham,ME,Hancock County,,city-us,1682,44.701,-68.558,4581
+11265,Dedham,IA,Carroll County,,city-us,224,41.906,-94.822,3740

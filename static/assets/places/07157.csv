@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36238,Reform,AL,,city-us,1495,33.378,-88.015,4410
-36236,Reform,MO,,city-us,0,38.765,-91.779,476
-36237,Reform,MS,,city-us,0,33.431,-89.155,498
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36238,Reform,AL,Pickens County,,city-us,1495,33.378,-88.015,4410
+36236,Reform,MO,Callaway County,,city-us,0,38.765,-91.779,476
+36237,Reform,MS,Choctaw County,,city-us,0,33.431,-89.155,498

@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17676,Granville,NY,,city-us,6175,43.422,-73.306,5514
-17667,Granville,OH,,city-us,5709,40.068,-82.520,11774
-17670,Granville,PA,,city-us,4627,40.575,-77.610,176
-17669,Granville,OH,,city-us,4227,40.399,-84.639,128
-17674,Granville,IL,,city-us,2737,41.261,-89.216,403
-17664,Granville,MA,,city-us,1533,42.087,-72.908,6925
-17671,Granville,WV,,city-us,1390,39.646,-79.987,3531
-17673,Granville,NE,,city-us,939,41.693,-97.533,378
-17661,Granville,PA,,city-us,894,41.714,-76.714,176
-17675,Granville,IA,,city-us,309,42.986,-95.874,4158
-17660,Granville,VT,,city-us,302,44.005,-72.841,3399
-17668,Granville,ND,,city-us,85,48.234,-100.812,3823
-17666,Granville,MN,,city-us,65,48.839,-96.876,1834
-17662,Granville,VA,,city-us,0,37.382,-77.241,109
-17663,Granville,IN,,city-us,0,40.317,-85.319,248
-17665,Granville,TN,,city-us,0,36.271,-85.795,3259
-17672,Granville,MO,,city-us,0,39.563,-92.098,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17676,Granville,NY,Washington County,,city-us,6175,43.422,-73.306,5514
+17667,Granville,OH,Licking County,,city-us,5709,40.068,-82.520,11774
+17670,Granville,PA,Mifflin County,,city-us,4627,40.575,-77.610,176
+17669,Granville,OH,Mercer County,,city-us,4227,40.399,-84.639,128
+17674,Granville,IL,Putnam County,,city-us,2737,41.261,-89.216,403
+17664,Granville,MA,Hampden County,,city-us,1533,42.087,-72.908,6925
+17671,Granville,WV,Monongalia County,,city-us,1390,39.646,-79.987,3531
+17673,Granville,NE,Platte County,,city-us,939,41.693,-97.533,378
+17661,Granville,PA,Bradford County,,city-us,894,41.714,-76.714,176
+17675,Granville,IA,Sioux County,,city-us,309,42.986,-95.874,4158
+17660,Granville,VT,Addison County,,city-us,302,44.005,-72.841,3399
+17668,Granville,ND,McHenry County,,city-us,85,48.234,-100.812,3823
+17666,Granville,MN,Kittson County,,city-us,65,48.839,-96.876,1834
+17662,Granville,VA,Charles City County,,city-us,0,37.382,-77.241,109
+17663,Granville,IN,Delaware County,,city-us,0,40.317,-85.319,248
+17665,Granville,TN,Jackson County,,city-us,0,36.271,-85.795,3259
+17672,Granville,MO,Monroe County,,city-us,0,39.563,-92.098,251

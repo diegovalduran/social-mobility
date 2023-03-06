@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45105,War Eagle,AR,,city-us,0,36.268,-93.941,561
-45106,War Eagle,WV,,city-us,0,37.528,-81.944,268
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45105,War Eagle,AR,Benton County,,city-us,0,36.268,-93.941,561
+45106,War Eagle,WV,Mingo County,,city-us,0,37.528,-81.944,268

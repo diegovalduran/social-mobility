@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41845,Sugar Hill,GA,,city-us,25259,34.106,-84.034,8977
-41844,Sugar Hill,NH,,city-us,657,44.218,-71.800,5725
-41846,Sugar Hill,PA,,city-us,0,41.243,-78.878,191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41845,Sugar Hill,GA,Gwinnett County,,city-us,25259,34.106,-84.034,8977
+41844,Sugar Hill,NH,Grafton County,,city-us,657,44.218,-71.800,5725
+41846,Sugar Hill,PA,Jefferson County,,city-us,0,41.243,-78.878,191

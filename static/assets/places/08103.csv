@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41023,St. Helena,CA,,city-us,5386,38.505,-122.470,9203
-41024,St. Helena,NC,,city-us,419,34.517,-77.916,1932
-41022,St. Helena,NE,,city-us,90,42.810,-97.249,2786
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41023,St. Helena,CA,Napa County,,city-us,5386,38.505,-122.470,9203
+41024,St. Helena,NC,Pender County,,city-us,419,34.517,-77.916,1932
+41022,St. Helena,NE,Cedar County,,city-us,90,42.810,-97.249,2786

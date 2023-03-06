@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38342,Salt Creek,OH,,city-us,4670,40.628,-81.822,308
-38350,Salt Creek,OH,,city-us,4531,40.702,-81.821,308
-38341,Salt Creek,OH,,city-us,1120,39.415,-82.687,308
-38346,Salt Creek,OH,,city-us,1101,39.893,-81.850,308
-38348,Salt Creek,CO,,city-us,771,38.238,-104.587,2448
-38349,Salt Creek,KS,,city-us,446,38.065,-98.091,0
-38344,Salt Creek,IL,,city-us,219,40.174,-89.771,349
-38340,Salt Creek,MO,,city-us,160,39.577,-93.023,132
-38343,Salt Creek,KS,,city-us,47,39.182,-97.984,0
-38345,Salt Creek,KS,,city-us,21,39.263,-98.098,0
-38347,Salt Creek,OR,,city-us,0,44.996,-123.353,1042
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38342,Salt Creek,OH,Holmes County,,city-us,4670,40.628,-81.822,308
+38350,Salt Creek,OH,Wayne County,,city-us,4531,40.702,-81.821,308
+38341,Salt Creek,OH,Hocking County,,city-us,1120,39.415,-82.687,308
+38346,Salt Creek,OH,Muskingum County,,city-us,1101,39.893,-81.850,308
+38348,Salt Creek,CO,Pueblo County,,city-us,771,38.238,-104.587,2448
+38349,Salt Creek,KS,Reno County,,city-us,446,38.065,-98.091,0
+38344,Salt Creek,IL,Mason County,,city-us,219,40.174,-89.771,349
+38340,Salt Creek,MO,Chariton County,,city-us,160,39.577,-93.023,132
+38343,Salt Creek,KS,Lincoln County,,city-us,47,39.182,-97.984,0
+38345,Salt Creek,KS,Mitchell County,,city-us,21,39.263,-98.098,0
+38347,Salt Creek,OR,Polk County,,city-us,0,44.996,-123.353,1042

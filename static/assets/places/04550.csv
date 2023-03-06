@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23336,La Cueva,NM,,city-us,93,35.874,-106.644,439
-23335,La Cueva,NM,,city-us,0,35.942,-105.249,1562
-23337,La Cueva,NM,,city-us,0,35.591,-105.733,342
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23336,La Cueva,NM,Sandoval County,,city-us,93,35.874,-106.644,439
+23335,La Cueva,NM,Mora County,,city-us,0,35.942,-105.249,1562
+23337,La Cueva,NM,Santa Fe County,,city-us,0,35.591,-105.733,342

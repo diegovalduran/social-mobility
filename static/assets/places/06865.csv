@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34948,Pope,MS,,city-us,264,34.215,-89.948,2141
-34946,Pope,IL,,city-us,229,38.778,-89.185,861
-34945,Pope,KY,,city-us,0,36.763,-86.340,79
-34947,Pope,AL,,city-us,0,32.063,-87.624,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34948,Pope,MS,Panola County,,city-us,264,34.215,-89.948,2141
+34946,Pope,IL,Fayette County,,city-us,229,38.778,-89.185,861
+34945,Pope,KY,Allen County,,city-us,0,36.763,-86.340,79
+34947,Pope,AL,Marengo County,,city-us,0,32.063,-87.624,261

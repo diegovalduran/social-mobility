@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33224,Parr,VA,,city-us,0,37.660,-79.909,83
-33225,Parr,IN,,city-us,0,41.027,-87.219,338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33224,Parr,VA,Botetourt County,,city-us,0,37.660,-79.909,83
+33225,Parr,IN,Jasper County,,city-us,0,41.027,-87.219,338

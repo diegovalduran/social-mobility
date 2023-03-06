@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37037,Roberts,WI,,city-us,2005,44.984,-92.556,3452
-37036,Roberts,IL,,city-us,883,41.062,-89.228,338
-37035,Roberts,ID,,city-us,539,43.720,-112.126,2204
-37033,Roberts,IL,,city-us,343,40.613,-88.183,1832
-37031,Roberts,MT,,city-us,304,45.359,-109.168,861
-37038,Roberts,MN,,city-us,94,46.503,-96.696,1848
-37032,Roberts,WV,,city-us,0,39.378,-80.668,117
-37034,Roberts,IN,,city-us,0,40.316,-87.102,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37037,Roberts,WI,St. Croix County,,city-us,2005,44.984,-92.556,3452
+37036,Roberts,IL,Marshall County,,city-us,883,41.062,-89.228,338
+37035,Roberts,ID,Jefferson County,,city-us,539,43.720,-112.126,2204
+37033,Roberts,IL,Ford County,,city-us,343,40.613,-88.183,1832
+37031,Roberts,MT,Carbon County,,city-us,304,45.359,-109.168,861
+37038,Roberts,MN,Wilkin County,,city-us,94,46.503,-96.696,1848
+37032,Roberts,WV,Doddridge County,,city-us,0,39.378,-80.668,117
+37034,Roberts,IN,Fountain County,,city-us,0,40.316,-87.102,251

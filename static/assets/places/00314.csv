@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1620,Ash,MI,,city-us,7898,42.056,-83.366,3933
-1622,Ash,SD,,city-us,23,44.222,-102.191,0
-1616,Ash,SD,,city-us,21,45.015,-97.913,0
-1615,Ash,NC,,city-us,0,34.067,-78.526,254
-1617,Ash,OR,,city-us,0,43.552,-123.822,831
-1618,Ash,TX,,city-us,0,31.195,-95.692,312
-1619,Ash,WV,,city-us,0,38.833,-81.973,83
-1621,Ash,MO,,city-us,0,39.515,-92.290,277
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1620,Ash,MI,Monroe County,,city-us,7898,42.056,-83.366,3933
+1622,Ash,SD,Pennington County,,city-us,23,44.222,-102.191,0
+1616,Ash,SD,Clark County,,city-us,21,45.015,-97.913,0
+1615,Ash,NC,Brunswick County,,city-us,0,34.067,-78.526,254
+1617,Ash,OR,Douglas County,,city-us,0,43.552,-123.822,831
+1618,Ash,TX,Houston County,,city-us,0,31.195,-95.692,312
+1619,Ash,WV,Mason County,,city-us,0,38.833,-81.973,83
+1621,Ash,MO,Monroe County,,city-us,0,39.515,-92.290,277

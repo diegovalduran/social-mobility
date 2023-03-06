@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6289,Bushton,KS,,city-us,199,38.513,-98.395,3933
-6288,Bushton,IL,,city-us,0,39.592,-88.139,227
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6289,Bushton,KS,Rice County,,city-us,199,38.513,-98.395,3933
+6288,Bushton,IL,Coles County,,city-us,0,39.592,-88.139,227

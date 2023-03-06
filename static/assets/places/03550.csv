@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18067,Greenway,MN,,city-us,1787,47.327,-93.252,1969
-18066,Greenway,AR,,city-us,172,36.341,-90.220,2466
-18065,Greenway,VA,,city-us,0,37.341,-77.082,108
-18068,Greenway,SD,,city-us,0,45.910,-99.711,274
-18069,Greenway,VA,,city-us,0,37.584,-78.834,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18067,Greenway,MN,Itasca County,,city-us,1787,47.327,-93.252,1969
+18066,Greenway,AR,Clay County,,city-us,172,36.341,-90.220,2466
+18065,Greenway,VA,Charles City County,,city-us,0,37.341,-77.082,108
+18068,Greenway,SD,McPherson County,,city-us,0,45.910,-99.711,274
+18069,Greenway,VA,Nelson County,,city-us,0,37.584,-78.834,139

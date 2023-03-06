@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34528,Pleasant Gap,PA,,city-us,3569,40.868,-77.747,2440
-34527,Pleasant Gap,MO,,city-us,0,38.173,-94.182,377
-34529,Pleasant Gap,AL,,city-us,0,33.987,-85.520,324
-34530,Pleasant Gap,VA,,city-us,0,36.703,-79.445,100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34528,Pleasant Gap,PA,Centre County,,city-us,3569,40.868,-77.747,2440
+34527,Pleasant Gap,MO,Bates County,,city-us,0,38.173,-94.182,377
+34529,Pleasant Gap,AL,Cherokee County,,city-us,0,33.987,-85.520,324
+34530,Pleasant Gap,VA,Pittsylvania County,,city-us,0,36.703,-79.445,100

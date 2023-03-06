@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27926,Menlo Park,CA,,city-us,32475,37.454,-122.182,18125
-27925,Menlo Park,NJ,,city-us,0,40.565,-74.338,1323
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27926,Menlo Park,CA,San Mateo County,,city-us,32475,37.454,-122.182,18125
+27925,Menlo Park,NJ,Middlesex County,,city-us,0,40.565,-74.338,1323

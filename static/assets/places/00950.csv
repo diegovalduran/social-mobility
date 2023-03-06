@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4768,Boring,OR,,city-us,7762,45.430,-122.374,15321
-4767,Boring,MD,,city-us,0,39.531,-76.823,1855
-4769,Boring,TN,,city-us,0,36.457,-82.419,389
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4768,Boring,OR,Clackamas County,,city-us,7762,45.430,-122.374,15321
+4767,Boring,MD,Baltimore County,,city-us,0,39.531,-76.823,1855
+4769,Boring,TN,Sullivan County,,city-us,0,36.457,-82.419,389

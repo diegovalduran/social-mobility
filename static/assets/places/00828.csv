@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4219,Blackwood,NJ,,city-us,4477,39.802,-75.064,5874
-4220,Blackwood,GA,,city-us,0,34.456,-84.903,305
-4221,Blackwood,NC,,city-us,0,35.992,-79.072,491
-4222,Blackwood,VA,,city-us,0,36.925,-82.693,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4219,Blackwood,NJ,Camden County,,city-us,4477,39.802,-75.064,5874
+4220,Blackwood,GA,Gordon County,,city-us,0,34.456,-84.903,305
+4221,Blackwood,NC,Orange County,,city-us,0,35.992,-79.072,491
+4222,Blackwood,VA,Wise County,,city-us,0,36.925,-82.693,201

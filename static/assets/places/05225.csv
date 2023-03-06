@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26800,Marble Falls,TX,,city-us,7227,30.578,-98.273,5081
-26801,Marble Falls,AR,,city-us,0,36.107,-93.132,2915
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26800,Marble Falls,TX,Burnet County,,city-us,7227,30.578,-98.273,5081
+26801,Marble Falls,AR,Newton County,,city-us,0,36.107,-93.132,2915

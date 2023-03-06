@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27693,Meadow Lake,NM,,city-us,4248,34.801,-106.544,2154
-27692,Meadow Lake,ND,,city-us,77,46.761,-98.354,547
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27693,Meadow Lake,NM,Valencia County,,city-us,4248,34.801,-106.544,2154
+27692,Meadow Lake,ND,Barnes County,,city-us,77,46.761,-98.354,547

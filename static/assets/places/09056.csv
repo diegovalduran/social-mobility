@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45697,Weare,NH,,city-us,9156,43.078,-71.704,5924
-45698,Weare,MI,,city-us,1210,43.772,-86.341,1830
-45791,Weir,TX,,city-us,714,30.674,-97.585,3743
-45786,Weir,KS,,city-us,566,37.310,-94.772,4192
-45787,Weir,MS,,city-us,440,33.267,-89.291,3062
-45788,Weir,IL,,city-us,0,39.268,-87.790,119
-45789,Weir,WV,,city-us,0,38.458,-81.386,208
-45790,Weir,KY,,city-us,0,37.123,-87.213,296
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45697,Weare,NH,Hillsborough County,,city-us,9156,43.078,-71.704,5924
+45698,Weare,MI,Oceana County,,city-us,1210,43.772,-86.341,1830
+45791,Weir,TX,Williamson County,,city-us,714,30.674,-97.585,3743
+45786,Weir,KS,Cherokee County,,city-us,566,37.310,-94.772,4192
+45787,Weir,MS,Choctaw County,,city-us,440,33.267,-89.291,3062
+45788,Weir,IL,Clark County,,city-us,0,39.268,-87.790,119
+45789,Weir,WV,Kanawha County,,city-us,0,38.458,-81.386,208
+45790,Weir,KY,Muhlenberg County,,city-us,0,37.123,-87.213,296

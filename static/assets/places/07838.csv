@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39742,Shreve,OH,,city-us,1501,40.681,-82.022,3956
-39740,Shreve,AL,,city-us,0,31.510,-86.707,218
-39741,Shreve,MO,,city-us,0,36.646,-90.096,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39742,Shreve,OH,Wayne County,,city-us,1501,40.681,-82.022,3956
+39740,Shreve,AL,Conecuh County,,city-us,0,31.510,-86.707,218
+39741,Shreve,MO,Stoddard County,,city-us,0,36.646,-90.096,179

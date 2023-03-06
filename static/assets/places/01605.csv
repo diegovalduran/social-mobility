@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8130,Chesapeake,VA,,city-us,251269,36.819,-76.275,17598
-8131,Chesapeake,WV,,city-us,1313,38.223,-81.536,3187
-8133,Chesapeake,OH,,city-us,751,38.428,-82.457,4116
-8132,Chesapeake,MO,,city-us,48,37.117,-93.682,453
-8134,Chesapeake,VA,,city-us,0,37.308,-75.952,380
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8130,Chesapeake,VA,Chesapeake city,,city-us,251269,36.819,-76.275,17598
+8131,Chesapeake,WV,Kanawha County,,city-us,1313,38.223,-81.536,3187
+8133,Chesapeake,OH,Lawrence County,,city-us,751,38.428,-82.457,4116
+8132,Chesapeake,MO,Lawrence County,,city-us,48,37.117,-93.682,453
+8134,Chesapeake,VA,Northampton County,,city-us,0,37.308,-75.952,380

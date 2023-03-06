@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38314,Saline City,IN,,city-us,0,39.365,-87.132,442
-38315,Saline City,MO,,city-us,0,39.140,-92.943,366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38314,Saline City,IN,Clay County,,city-us,0,39.365,-87.132,442
+38315,Saline City,MO,Saline County,,city-us,0,39.140,-92.943,366

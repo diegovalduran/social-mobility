@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12552,Dyer,IN,,city-us,16441,41.494,-87.522,4827
-12551,Dyer,TN,,city-us,2309,36.067,-88.994,3314
-12549,Dyer,AR,,city-us,775,35.492,-94.138,2658
-12550,Dyer,NV,,city-us,291,37.667,-118.066,1045
-12553,Dyer,WV,,city-us,0,38.381,-80.475,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12552,Dyer,IN,Lake County,,city-us,16441,41.494,-87.522,4827
+12551,Dyer,TN,Gibson County,,city-us,2309,36.067,-88.994,3314
+12549,Dyer,AR,Crawford County,,city-us,775,35.492,-94.138,2658
+12550,Dyer,NV,Esmeralda County,,city-us,291,37.667,-118.066,1045
+12553,Dyer,WV,Webster County,,city-us,0,38.381,-80.475,240

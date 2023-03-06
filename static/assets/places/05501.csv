@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28132,Midas,NV,,city-us,0,41.244,-116.797,1782
-28133,Midas,KY,,city-us,0,37.512,-82.835,1556
-28134,Midas,CA,,city-us,0,39.217,-120.758,292
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28132,Midas,NV,Elko County,,city-us,0,41.244,-116.797,1782
+28133,Midas,KY,Floyd County,,city-us,0,37.512,-82.835,1556
+28134,Midas,CA,Placer County,,city-us,0,39.217,-120.758,292

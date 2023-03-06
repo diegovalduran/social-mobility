@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-768,Alpena,MI,,city-us,9110,45.093,-83.409,2807
-769,Alpena,AR,,city-us,374,36.293,-93.304,3665
-770,Alpena,SD,,city-us,84,44.153,-98.402,3424
-771,Alpena,WV,,city-us,0,38.910,-79.651,331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+768,Alpena,MI,Alpena County,,city-us,9110,45.093,-83.409,2807
+769,Alpena,AR,Boone County / Carroll County,,city-us,374,36.293,-93.304,3665
+770,Alpena,SD,Jerauld County,,city-us,84,44.153,-98.402,3424
+771,Alpena,WV,Randolph County,,city-us,0,38.910,-79.651,331

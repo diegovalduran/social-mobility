@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20974,Hulbert,OK,,city-us,497,35.933,-95.141,3542
-20975,Hulbert,MI,,city-us,177,46.337,-85.174,2422
-20976,Hulbert,SD,,city-us,53,44.426,-98.780,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20974,Hulbert,OK,Cherokee County,,city-us,497,35.933,-95.141,3542
+20975,Hulbert,MI,Chippewa County,,city-us,177,46.337,-85.174,2422
+20976,Hulbert,SD,Hand County,,city-us,53,44.426,-98.780,0

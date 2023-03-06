@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42764,Thelma,ND,,city-us,12,46.746,-100.112,0
-42763,Thelma,TX,,city-us,0,29.214,-98.502,999
-42765,Thelma,KY,,city-us,0,37.819,-82.766,436
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42764,Thelma,ND,Burleigh County,,city-us,12,46.746,-100.112,0
+42763,Thelma,TX,Bexar County,,city-us,0,29.214,-98.502,999
+42765,Thelma,KY,Johnson County,,city-us,0,37.819,-82.766,436

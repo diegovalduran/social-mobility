@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11296,Deer Creek,MI,,city-us,4170,42.750,-83.856,2294
-11290,Deer Creek,MO,,city-us,2387,38.438,-94.345,1391
-11304,Deer Creek,IL,,city-us,1403,40.608,-89.337,345
-11297,Deer Creek,OH,,city-us,945,39.943,-83.399,133
-11303,Deer Creek,WI,,city-us,681,45.084,-90.248,2662
-11305,Deer Creek,IL,,city-us,660,40.630,-89.332,3443
-11300,Deer Creek,WI,,city-us,629,44.546,-88.672,2011
-11294,Deer Creek,MO,,city-us,454,38.412,-93.694,162
-11298,Deer Creek,PA,,city-us,452,41.463,-80.134,1883
-11299,Deer Creek,MN,,city-us,398,46.419,-95.337,1866
-11292,Deer Creek,AZ,,city-us,145,34.069,-111.352,804
-11291,Deer Creek,IN,,city-us,115,40.614,-86.391,329
-11295,Deer Creek,IN,,city-us,115,41.421,-87.258,217
-11289,Deer Creek,KS,,city-us,107,37.996,-95.278,380
-11293,Deer Creek,OK,,city-us,76,36.806,-97.519,3343
-11301,Deer Creek,KS,,city-us,62,39.691,-99.226,10870
-11302,Deer Creek,WV,,city-us,0,38.386,-79.925,141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11296,Deer Creek,MI,Livingston County,,city-us,4170,42.750,-83.856,2294
+11290,Deer Creek,MO,Bates County,,city-us,2387,38.438,-94.345,1391
+11304,Deer Creek,IL,Tazewell County,,city-us,1403,40.608,-89.337,345
+11297,Deer Creek,OH,Madison County,,city-us,945,39.943,-83.399,133
+11303,Deer Creek,WI,Taylor County,,city-us,681,45.084,-90.248,2662
+11305,Deer Creek,IL,Tazewell County / Woodford County,,city-us,660,40.630,-89.332,3443
+11300,Deer Creek,WI,Outagamie County,,city-us,629,44.546,-88.672,2011
+11294,Deer Creek,MO,Henry County,,city-us,454,38.412,-93.694,162
+11298,Deer Creek,PA,Mercer County,,city-us,452,41.463,-80.134,1883
+11299,Deer Creek,MN,Otter Tail County,,city-us,398,46.419,-95.337,1866
+11292,Deer Creek,AZ,Gila County,,city-us,145,34.069,-111.352,804
+11291,Deer Creek,IN,Carroll County,,city-us,115,40.614,-86.391,329
+11295,Deer Creek,IN,Lake County,,city-us,115,41.421,-87.258,217
+11289,Deer Creek,KS,Allen County,,city-us,107,37.996,-95.278,380
+11293,Deer Creek,OK,Grant County,,city-us,76,36.806,-97.519,3343
+11301,Deer Creek,KS,Phillips County,,city-us,62,39.691,-99.226,10870
+11302,Deer Creek,WV,Pocahontas County,,city-us,0,38.386,-79.925,141

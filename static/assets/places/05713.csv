@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29422,Moose Lake,MN,,city-us,2565,46.454,-92.762,4693
-29421,Moose Lake,MN,,city-us,253,47.529,-94.486,261
-29423,Moose Lake,MN,,city-us,137,46.599,-94.623,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29422,Moose Lake,MN,Carlton County,,city-us,2565,46.454,-92.762,4693
+29421,Moose Lake,MN,Beltrami County,,city-us,253,47.529,-94.486,261
+29423,Moose Lake,MN,Cass County,,city-us,137,46.599,-94.623,261

@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27909,Mendon,NY,,city-us,9065,42.982,-77.556,13094
-27912,Mendon,MA,,city-us,6251,42.094,-71.545,9860
-27906,Mendon,UT,,city-us,1336,41.710,-111.978,2916
-27910,Mendon,VT,,city-us,1158,43.625,-72.910,2575
-27911,Mendon,MI,,city-us,871,42.006,-85.450,8246
-27905,Mendon,IL,,city-us,858,40.088,-91.284,2453
-27908,Mendon,OH,,city-us,622,40.673,-84.519,3449
-27907,Mendon,MO,,city-us,303,39.576,-93.145,124
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27909,Mendon,NY,Monroe County,,city-us,9065,42.982,-77.556,13094
+27912,Mendon,MA,Worcester County,,city-us,6251,42.094,-71.545,9860
+27906,Mendon,UT,Cache County,,city-us,1336,41.710,-111.978,2916
+27910,Mendon,VT,Rutland County,,city-us,1158,43.625,-72.910,2575
+27911,Mendon,MI,St. Joseph County,,city-us,871,42.006,-85.450,8246
+27905,Mendon,IL,Adams County,,city-us,858,40.088,-91.284,2453
+27908,Mendon,OH,Mercer County,,city-us,622,40.673,-84.519,3449
+27907,Mendon,MO,Chariton County,,city-us,303,39.576,-93.145,124

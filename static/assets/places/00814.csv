@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4171,Blackbird,NE,,city-us,1240,42.141,-96.352,191
-4170,Blackbird,DE,,city-us,0,39.371,-75.659,578
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4171,Blackbird,NE,Thurston County,,city-us,1240,42.141,-96.352,191
+4170,Blackbird,DE,New Castle County,,city-us,0,39.371,-75.659,578

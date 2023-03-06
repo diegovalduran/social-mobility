@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11109,Dawes,WV,,city-us,656,38.143,-81.452,184
-11110,Dawes,NE,,city-us,296,42.054,-96.472,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11109,Dawes,WV,Kanawha County,,city-us,656,38.143,-81.452,184
+11110,Dawes,NE,Thurston County,,city-us,296,42.054,-96.472,235

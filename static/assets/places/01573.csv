@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7961,Charlton,MA,,city-us,13317,42.134,-71.968,6053
-7959,Charlton,NY,,city-us,4339,42.959,-73.991,3708
-7958,Charlton,MI,,city-us,1368,44.983,-84.430,3623
-7960,Charlton,MD,,city-us,166,39.634,-77.894,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7961,Charlton,MA,Worcester County,,city-us,13317,42.134,-71.968,6053
+7959,Charlton,NY,Saratoga County,,city-us,4339,42.959,-73.991,3708
+7958,Charlton,MI,Otsego County,,city-us,1368,44.983,-84.430,3623
+7960,Charlton,MD,Washington County,,city-us,166,39.634,-77.894,252

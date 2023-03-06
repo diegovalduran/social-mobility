@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7860,Chapel Hill,NC,,city-us,61128,35.921,-79.045,19545
-7862,Chapel Hill,TN,,city-us,1753,35.626,-86.693,4607
-7895,Chappell Hill,TX,,city-us,600,30.143,-96.257,4849
-7857,Chapel Hill,KY,,city-us,0,36.720,-86.293,101
-7858,Chapel Hill,AL,,city-us,0,31.029,-86.231,138
-7859,Chapel Hill,GA,,city-us,0,33.686,-84.716,271
-7861,Chapel Hill,MO,,city-us,0,38.917,-94.058,409
-7863,Chapel Hill,NJ,,city-us,0,40.397,-74.071,1007
-7864,Chapel Hill,IN,,city-us,0,38.999,-86.449,466
-7865,Chapel Hill,OH,,city-us,0,39.624,-82.054,197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7860,Chapel Hill,NC,Durham County / Orange County,,city-us,61128,35.921,-79.045,19545
+7862,Chapel Hill,TN,Marshall County,,city-us,1753,35.626,-86.693,4607
+7895,Chappell Hill,TX,Washington County,,city-us,600,30.143,-96.257,4849
+7857,Chapel Hill,KY,Allen County,,city-us,0,36.720,-86.293,101
+7858,Chapel Hill,AL,Covington County,,city-us,0,31.029,-86.231,138
+7859,Chapel Hill,GA,Douglas County,,city-us,0,33.686,-84.716,271
+7861,Chapel Hill,MO,Lafayette County,,city-us,0,38.917,-94.058,409
+7863,Chapel Hill,NJ,Monmouth County,,city-us,0,40.397,-74.071,1007
+7864,Chapel Hill,IN,Monroe County,,city-us,0,38.999,-86.449,466
+7865,Chapel Hill,OH,Perry County,,city-us,0,39.624,-82.054,197

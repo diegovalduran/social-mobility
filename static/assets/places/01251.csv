@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6334,Butte,MT,,city-us,35411,45.896,-112.660,48620
-6331,Butte,AK,,city-us,3857,61.542,-149.033,4055
-6330,Butte,NE,,city-us,381,42.908,-98.831,329
-6332,Butte,ND,,city-us,69,47.838,-100.665,2570
-6333,Butte,SD,,city-us,1,43.429,-100.408,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6334,Butte,MT,Silver Bow County,,city-us,35411,45.896,-112.660,48620
+6331,Butte,AK,Matanuska-Susitna Borough,,city-us,3857,61.542,-149.033,4055
+6330,Butte,NE,Boyd County,,city-us,381,42.908,-98.831,329
+6332,Butte,ND,McLean County,,city-us,69,47.838,-100.665,2570
+6333,Butte,SD,Mellette County,,city-us,1,43.429,-100.408,0

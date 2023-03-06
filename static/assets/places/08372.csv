@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42307,Swiss,WI,,city-us,824,46.025,-92.283,2187
-42308,Swiss,WV,,city-us,0,38.233,-81.128,5192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42307,Swiss,WI,Burnett County,,city-us,824,46.025,-92.283,2187
+42308,Swiss,WV,Nicholas County,,city-us,0,38.233,-81.128,5192

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18490,Halls,TN,,city-us,9822,36.082,-83.933,3756
-18491,Halls,TN,,city-us,2081,35.876,-89.396,3756
-18488,Halls,GA,,city-us,0,34.298,-84.940,268
-18489,Halls,MO,,city-us,0,39.633,-94.973,328
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18490,Halls,TN,Knox County,,city-us,9822,36.082,-83.933,3756
+18491,Halls,TN,Lauderdale County,,city-us,2081,35.876,-89.396,3756
+18488,Halls,GA,Bartow County,,city-us,0,34.298,-84.940,268
+18489,Halls,MO,Buchanan County,,city-us,0,39.633,-94.973,328

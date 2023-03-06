@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39247,Shade,PA,,city-us,2432,40.114,-78.830,7233
-39244,Shade,OH,,city-us,0,39.226,-82.039,1273
-39245,Shade,KY,,city-us,0,37.642,-83.865,116
-39246,Shade,MO,,city-us,0,36.176,-89.767,154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39247,Shade,PA,Somerset County,,city-us,2432,40.114,-78.830,7233
+39244,Shade,OH,Athens County,,city-us,0,39.226,-82.039,1273
+39245,Shade,KY,Estill County,,city-us,0,37.642,-83.865,116
+39246,Shade,MO,Pemiscot County,,city-us,0,36.176,-89.767,154

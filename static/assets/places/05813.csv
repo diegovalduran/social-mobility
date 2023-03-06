@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29951,Mount Zion,IL,,city-us,7085,39.737,-88.860,679
-29947,Mount Zion,GA,,city-us,1894,33.634,-85.187,3428
-29945,Mount Zion,KY,,city-us,0,36.683,-86.057,103
-29946,Mount Zion,WV,,city-us,0,38.862,-81.124,566
-29948,Mount Zion,WI,,city-us,0,43.257,-90.734,408
-29949,Mount Zion,IN,,city-us,0,41.014,-86.149,162
-29950,Mount Zion,MO,,city-us,0,38.218,-93.638,274
-29952,Mount Zion,LA,,city-us,0,31.724,-92.860,88
-29953,Mount Zion,IN,,city-us,0,40.650,-85.335,337
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29951,Mount Zion,IL,Macon County,,city-us,7085,39.737,-88.860,679
+29947,Mount Zion,GA,Carroll County,,city-us,1894,33.634,-85.187,3428
+29945,Mount Zion,KY,Allen County,,city-us,0,36.683,-86.057,103
+29946,Mount Zion,WV,Calhoun County,,city-us,0,38.862,-81.124,566
+29948,Mount Zion,WI,Crawford County,,city-us,0,43.257,-90.734,408
+29949,Mount Zion,IN,Fulton County,,city-us,0,41.014,-86.149,162
+29950,Mount Zion,MO,Henry County,,city-us,0,38.218,-93.638,274
+29952,Mount Zion,LA,Red River Parish,,city-us,0,31.724,-92.860,88
+29953,Mount Zion,IN,Wells County,,city-us,0,40.650,-85.335,337

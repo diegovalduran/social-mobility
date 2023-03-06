@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30785,New Philadelphia,OH,,city-us,17585,40.490,-81.446,11280
-30784,New Philadelphia,PA,,city-us,1062,40.720,-76.116,2878
-30786,New Philadelphia,IN,,city-us,0,38.627,-85.970,499
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30785,New Philadelphia,OH,Tuscarawas County,,city-us,17585,40.490,-81.446,11280
+30784,New Philadelphia,PA,Schuylkill County,,city-us,1062,40.720,-76.116,2878
+30786,New Philadelphia,IN,Washington County,,city-us,0,38.627,-85.970,499

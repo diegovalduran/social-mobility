@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13774,Enid,OK,,city-us,50566,36.396,-97.878,35333
-13775,Enid,MS,,city-us,0,34.116,-89.939,327
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13774,Enid,OK,Garfield County,,city-us,50566,36.396,-97.878,35333
+13775,Enid,MS,Tallahatchie County,,city-us,0,34.116,-89.939,327

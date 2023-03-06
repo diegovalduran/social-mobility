@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18415,Hague,NY,,city-us,639,43.691,-73.550,6751
-18414,Hague,ND,,city-us,68,46.029,-99.996,3791
-18413,Hague,SD,,city-us,39,44.675,-97.796,0
-18416,Hague,VA,,city-us,0,38.072,-76.651,205
-18420,Haig,NE,,city-us,0,41.879,-103.759,397
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18415,Hague,NY,Warren County,,city-us,639,43.691,-73.550,6751
+18414,Hague,ND,Emmons County,,city-us,68,46.029,-99.996,3791
+18413,Hague,SD,Clark County,,city-us,39,44.675,-97.796,0
+18416,Hague,VA,Westmoreland County,,city-us,0,38.072,-76.651,205
+18420,Haig,NE,Scotts Bluff County,,city-us,0,41.879,-103.759,397

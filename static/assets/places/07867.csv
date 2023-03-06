@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39889,Silver Spring,MD,,city-us,81015,39.002,-77.021,38686
-39887,Silver Spring,PA,,city-us,20243,40.250,-77.057,4015
-39888,Silver Spring,PA,,city-us,0,40.064,-76.437,1288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39889,Silver Spring,MD,Montgomery County,,city-us,81015,39.002,-77.021,38686
+39887,Silver Spring,PA,Cumberland County,,city-us,20243,40.250,-77.057,4015
+39888,Silver Spring,PA,Lancaster County,,city-us,0,40.064,-76.437,1288

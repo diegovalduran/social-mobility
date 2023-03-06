@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20822,Hovey,PA,,city-us,73,41.132,-79.685,2703
-20823,Hovey,IN,,city-us,0,37.892,-87.942,286
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20822,Hovey,PA,Armstrong County,,city-us,73,41.132,-79.685,2703
+20823,Hovey,IN,Posey County,,city-us,0,37.892,-87.942,286

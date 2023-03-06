@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28055,Meta,MO,,city-us,179,38.313,-92.166,3454
-28056,Meta,KY,,city-us,0,37.570,-82.438,453
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28055,Meta,MO,Osage County,,city-us,179,38.313,-92.166,3454
+28056,Meta,KY,Pike County,,city-us,0,37.570,-82.438,453

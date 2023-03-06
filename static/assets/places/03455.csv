@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17477,Grand Ridge,FL,,city-us,896,30.712,-85.020,2384
-17478,Grand Ridge,IL,,city-us,512,41.237,-88.831,7235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17477,Grand Ridge,FL,Jackson County,,city-us,896,30.712,-85.020,2384
+17478,Grand Ridge,IL,LaSalle County,,city-us,512,41.237,-88.831,7235

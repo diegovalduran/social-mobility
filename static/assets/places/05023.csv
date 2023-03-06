@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25786,Lotus,CA,,city-us,238,38.802,-120.909,456
-25784,Lotus,KY,,city-us,0,37.919,-85.597,90
-25785,Lotus,IL,,city-us,0,40.319,-88.456,1439
-25787,Lotus,IN,,city-us,0,39.613,-84.890,255
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25786,Lotus,CA,El Dorado County,,city-us,238,38.802,-120.909,456
+25784,Lotus,KY,Bullitt County,,city-us,0,37.919,-85.597,90
+25785,Lotus,IL,Champaign County,,city-us,0,40.319,-88.456,1439
+25787,Lotus,IN,Union County,,city-us,0,39.613,-84.890,255

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23884,Land,MN,,city-us,270,45.796,-95.831,1736
-23885,Land,ND,,city-us,40,47.898,-100.532,214
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23884,Land,MN,Grant County,,city-us,270,45.796,-95.831,1736
+23885,Land,ND,McHenry County,,city-us,40,47.898,-100.532,214

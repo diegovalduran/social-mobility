@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28141,Middle Grove,MO,,city-us,57,39.395,-92.271,899
-28140,Middle Grove,OR,,city-us,0,44.970,-122.965,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28141,Middle Grove,MO,Monroe County,,city-us,57,39.395,-92.271,899
+28140,Middle Grove,OR,Marion County,,city-us,0,44.970,-122.965,86

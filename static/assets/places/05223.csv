@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26791,Marathon,FL,,city-us,9744,24.714,-81.090,9223
-26789,Marathon,MI,,city-us,4448,43.193,-83.398,2069
-26790,Marathon,WI,,city-us,998,44.894,-89.778,2202
-26788,Marathon,NY,,city-us,910,42.442,-76.032,3953
-26785,Marathon,TX,,city-us,427,30.205,-103.245,3474
-26786,Marathon,IA,,city-us,232,42.862,-94.982,3229
-26787,Marathon,OH,,city-us,0,39.145,-84.006,457
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26791,Marathon,FL,Monroe County,,city-us,9744,24.714,-81.090,9223
+26789,Marathon,MI,Lapeer County,,city-us,4448,43.193,-83.398,2069
+26790,Marathon,WI,Marathon County,,city-us,998,44.894,-89.778,2202
+26788,Marathon,NY,Cortland County,,city-us,910,42.442,-76.032,3953
+26785,Marathon,TX,Brewster County,,city-us,427,30.205,-103.245,3474
+26786,Marathon,IA,Buena Vista County,,city-us,232,42.862,-94.982,3229
+26787,Marathon,OH,Clermont County,,city-us,0,39.145,-84.006,457

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4909,Boyds,MD,,city-us,10460,39.184,-77.313,4900
-4908,Boyds,WA,,city-us,28,48.714,-118.133,500
-4907,Boyds,OH,,city-us,0,39.495,-83.383,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4909,Boyds,MD,Montgomery County,,city-us,10460,39.184,-77.313,4900
+4908,Boyds,WA,Ferry County,,city-us,28,48.714,-118.133,500
+4907,Boyds,OH,Fayette County,,city-us,0,39.495,-83.383,289

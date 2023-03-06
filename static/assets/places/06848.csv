@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34892,Pomeroy,OH,,city-us,1556,39.028,-82.034,10620
-34891,Pomeroy,WA,,city-us,1425,46.475,-117.603,6820
-34890,Pomeroy,PA,,city-us,977,39.964,-75.887,606
-34889,Pomeroy,IA,,city-us,522,42.551,-94.684,4066
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34892,Pomeroy,OH,Meigs County,,city-us,1556,39.028,-82.034,10620
+34891,Pomeroy,WA,Garfield County,,city-us,1425,46.475,-117.603,6820
+34890,Pomeroy,PA,Chester County,,city-us,977,39.964,-75.887,606
+34889,Pomeroy,IA,Calhoun County,,city-us,522,42.551,-94.684,4066

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42833,Thor,IA,,city-us,184,42.688,-94.049,3574
-42832,Thor,MN,,city-us,0,46.476,-93.421,298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42833,Thor,IA,Humboldt County,,city-us,184,42.688,-94.049,3574
+42832,Thor,MN,Aitkin County,,city-us,0,46.476,-93.421,298

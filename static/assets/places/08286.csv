@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41860,Sugarloaf,PA,,city-us,3885,41.000,-76.092,187
-41861,Sugarloaf,CA,,city-us,1816,34.243,-116.829,3527
-41859,Sugarloaf,PA,,city-us,894,41.273,-76.363,187
-41858,Sugarloaf,CO,,city-us,465,40.017,-105.407,2791
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41860,Sugarloaf,PA,Luzerne County,,city-us,3885,41.000,-76.092,187
+41861,Sugarloaf,CA,San Bernardino County,,city-us,1816,34.243,-116.829,3527
+41859,Sugarloaf,PA,Columbia County,,city-us,894,41.273,-76.363,187
+41858,Sugarloaf,CO,Boulder County,,city-us,465,40.017,-105.407,2791

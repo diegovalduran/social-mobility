@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23403,La Victoria,,Venezuela,city-international,214492,10.228,-67.334,494
-23402,La Victoria,TX,,city-us,188,26.341,-98.640,2316
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23403,La Victoria,,,Venezuela,city-international,214492,10.228,-67.334,494
+23402,La Victoria,TX,Starr County,,city-us,188,26.341,-98.640,2316

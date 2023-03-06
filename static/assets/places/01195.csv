@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6022,Buford,GA,,city-us,17683,34.120,-83.990,15965
-6023,Buford,OH,,city-us,428,39.077,-83.844,836
-6024,Buford,SC,,city-us,398,34.745,-80.617,755
-6020,Buford,WY,,city-us,0,41.124,-105.302,2917
-6021,Buford,AR,,city-us,0,36.246,-92.429,247
-6025,Buford,TX,,city-us,0,32.462,-100.857,1052
-6026,Buford,VA,,city-us,0,36.567,-79.546,132
-6027,Buford,CO,,city-us,0,39.987,-107.617,241
-6028,Buford,ND,,city-us,0,47.999,-103.991,277
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6022,Buford,GA,Gwinnett County / Hall County,,city-us,17683,34.120,-83.990,15965
+6023,Buford,OH,Highland County,,city-us,428,39.077,-83.844,836
+6024,Buford,SC,Lancaster County,,city-us,398,34.745,-80.617,755
+6020,Buford,WY,Albany County,,city-us,0,41.124,-105.302,2917
+6021,Buford,AR,Baxter County,,city-us,0,36.246,-92.429,247
+6025,Buford,TX,Mitchell County,,city-us,0,32.462,-100.857,1052
+6026,Buford,VA,Pittsylvania County,,city-us,0,36.567,-79.546,132
+6027,Buford,CO,Rio Blanco County,,city-us,0,39.987,-107.617,241
+6028,Buford,ND,Williams County,,city-us,0,47.999,-103.991,277

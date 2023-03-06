@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12021,Dorsey,MI,,city-us,1212,46.351,-86.966,3881
-12022,Dorsey,NE,,city-us,0,42.682,-98.345,246
-12023,Dorsey,MD,,city-us,0,39.177,-76.743,1577
-12024,Dorsey,MS,,city-us,0,34.252,-88.510,260
-12025,Dorsey,IL,,city-us,0,38.974,-90.001,325
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12021,Dorsey,MI,Alger County,,city-us,1212,46.351,-86.966,3881
+12022,Dorsey,NE,Holt County,,city-us,0,42.682,-98.345,246
+12023,Dorsey,MD,Howard County,,city-us,0,39.177,-76.743,1577
+12024,Dorsey,MS,Itawamba County,,city-us,0,34.252,-88.510,260
+12025,Dorsey,IL,Madison County,,city-us,0,38.974,-90.001,325

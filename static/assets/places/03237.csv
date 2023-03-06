@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16308,Garden Valley,CA,,city-us,2391,38.854,-120.859,742
-16307,Garden Valley,ID,,city-us,411,44.090,-115.952,726
-16309,Garden Valley,WI,,city-us,393,44.466,-90.984,1926
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16308,Garden Valley,CA,El Dorado County,,city-us,2391,38.854,-120.859,742
+16307,Garden Valley,ID,Boise County,,city-us,411,44.090,-115.952,726
+16309,Garden Valley,WI,Jackson County,,city-us,393,44.466,-90.984,1926

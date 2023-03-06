@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32431,Oregon City,OR,,city-us,37411,45.357,-122.607,20331
-32430,Oregon City,CA,,city-us,0,39.594,-121.529,919
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32431,Oregon City,OR,Clackamas County,,city-us,37411,45.357,-122.607,20331
+32430,Oregon City,CA,Butte County,,city-us,0,39.594,-121.529,919

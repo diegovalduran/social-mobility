@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9333,College Park,MD,,city-us,35110,38.981,-76.937,25088
-9332,College Park,GA,,city-us,13889,33.641,-84.463,16275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9333,College Park,MD,Prince George's County,,city-us,35110,38.981,-76.937,25088
+9332,College Park,GA,Clayton County / Fulton County,,city-us,13889,33.641,-84.463,16275

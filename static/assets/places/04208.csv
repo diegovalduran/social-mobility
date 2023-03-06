@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21613,Isabella,MI,,city-us,2186,43.683,-84.798,2200
-21611,Isabella,MI,,city-us,750,45.968,-86.538,2986
-21615,Isabella,OK,,city-us,114,36.236,-98.340,206
-21614,Isabella,MN,,city-us,40,47.617,-91.355,362
-21610,Isabella,AL,,city-us,0,32.828,-86.787,266
-21612,Isabella,PA,,city-us,0,39.944,-79.936,165
-21616,Isabella,MO,,city-us,0,36.581,-92.613,423
-21617,Isabella,GA,,city-us,0,31.569,-83.854,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21613,Isabella,MI,Isabella County,,city-us,2186,43.683,-84.798,2200
+21611,Isabella,MI,Delta County,,city-us,750,45.968,-86.538,2986
+21615,Isabella,OK,Major County,,city-us,114,36.236,-98.340,206
+21614,Isabella,MN,Lake County,,city-us,40,47.617,-91.355,362
+21610,Isabella,AL,Chilton County,,city-us,0,32.828,-86.787,266
+21612,Isabella,PA,Fayette County,,city-us,0,39.944,-79.936,165
+21616,Isabella,MO,Ozark County,,city-us,0,36.581,-92.613,423
+21617,Isabella,GA,Worth County,,city-us,0,31.569,-83.854,336

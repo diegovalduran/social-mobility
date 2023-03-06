@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35377,Pricetown,PA,,city-us,0,40.427,-75.822,258
-35378,Pricetown,OH,,city-us,0,39.143,-83.802,457
-35379,Pricetown,OH,,city-us,0,41.134,-80.965,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35377,Pricetown,PA,Berks County,,city-us,0,40.427,-75.822,258
+35378,Pricetown,OH,Highland County,,city-us,0,39.143,-83.802,457
+35379,Pricetown,OH,Mahoning County,,city-us,0,41.134,-80.965,179

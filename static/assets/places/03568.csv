@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18195,Grindstone,PA,,city-us,669,40.016,-79.831,691
-18196,Grindstone,SD,,city-us,0,44.139,-101.968,247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18195,Grindstone,PA,Fayette County,,city-us,669,40.016,-79.831,691
+18196,Grindstone,SD,Haakon County,,city-us,0,44.139,-101.968,247

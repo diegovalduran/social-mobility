@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35216,Pownal,ME,,city-us,1568,43.904,-70.182,4362
-35215,Pownal,VT,,city-us,568,42.766,-73.236,10987
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35216,Pownal,ME,Cumberland County,,city-us,1568,43.904,-70.182,4362
+35215,Pownal,VT,Bennington County,,city-us,568,42.766,-73.236,10987

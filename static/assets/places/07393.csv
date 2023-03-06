@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37554,Roseburg,OR,,city-us,23831,43.217,-123.342,17147
-37555,Roseburg,IN,,city-us,0,40.522,-85.729,249
-37556,Roseburg,IN,,city-us,0,39.589,-84.947,155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37554,Roseburg,OR,Douglas County,,city-us,23831,43.217,-123.342,17147
+37555,Roseburg,IN,Grant County,,city-us,0,40.522,-85.729,249
+37556,Roseburg,IN,Union County,,city-us,0,39.589,-84.947,155

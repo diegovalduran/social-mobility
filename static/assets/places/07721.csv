@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39083,Sedgwick,KS,,city-us,1749,37.955,-97.427,502
-39084,Sedgwick,KS,,city-us,1598,37.918,-97.420,4822
-39082,Sedgwick,ME,,city-us,1221,44.347,-68.634,5399
-39087,Sedgwick,CO,,city-us,169,40.936,-102.525,2488
-39085,Sedgwick,AR,,city-us,161,35.978,-90.864,2124
-39081,Sedgwick,WI,,city-us,0,46.467,-90.606,115
-39086,Sedgwick,MO,,city-us,0,40.008,-92.906,256
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39083,Sedgwick,KS,Harvey County,,city-us,1749,37.955,-97.427,502
+39084,Sedgwick,KS,Harvey County / Sedgwick County,,city-us,1598,37.918,-97.420,4822
+39082,Sedgwick,ME,Hancock County,,city-us,1221,44.347,-68.634,5399
+39087,Sedgwick,CO,Sedgwick County,,city-us,169,40.936,-102.525,2488
+39085,Sedgwick,AR,Lawrence County,,city-us,161,35.978,-90.864,2124
+39081,Sedgwick,WI,Ashland County,,city-us,0,46.467,-90.606,115
+39086,Sedgwick,MO,Linn County,,city-us,0,40.008,-92.906,256

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46765,Whitten,IA,,city-us,98,42.261,-93.005,4322
-47413,Witten,SD,,city-us,33,43.463,-100.066,2849
-46754,Whiton,AL,,city-us,0,34.356,-86.079,311
-46755,Whiton,MD,,city-us,0,38.289,-75.377,182
-46770,Whitton,IL,,city-us,0,42.226,-90.308,184
-46771,Whitton,AR,,city-us,0,35.511,-90.268,170
-46772,Whitton,TX,,city-us,0,32.483,-95.995,669
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46765,Whitten,IA,Hardin County,,city-us,98,42.261,-93.005,4322
+47413,Witten,SD,Tripp County,,city-us,33,43.463,-100.066,2849
+46754,Whiton,AL,DeKalb County,,city-us,0,34.356,-86.079,311
+46755,Whiton,MD,Wicomico County,,city-us,0,38.289,-75.377,182
+46770,Whitton,IL,Jo Daviess County,,city-us,0,42.226,-90.308,184
+46771,Whitton,AR,Mississippi County,,city-us,0,35.511,-90.268,170
+46772,Whitton,TX,Van Zandt County,,city-us,0,32.483,-95.995,669

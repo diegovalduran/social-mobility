@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6045,Bull Creek,MO,,city-us,426,36.715,-93.204,3370
-6046,Bull Creek,SD,,city-us,25,43.456,-99.589,0
-6044,Bull Creek,FL,,city-us,0,28.093,-80.980,2021
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6045,Bull Creek,MO,Taney County,,city-us,426,36.715,-93.204,3370
+6046,Bull Creek,SD,Tripp County,,city-us,25,43.456,-99.589,0
+6044,Bull Creek,FL,Osceola County,,city-us,0,28.093,-80.980,2021

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17111,Godfrey,IL,,city-us,17729,38.956,-90.187,4204
-17114,Godfrey,MN,,city-us,290,47.633,-96.266,1885
-17113,Godfrey,GA,,city-us,108,33.453,-83.505,1206
-17110,Godfrey,KS,,city-us,0,37.762,-94.710,240
-17112,Godfrey,WV,,city-us,0,37.365,-81.261,222
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17111,Godfrey,IL,Madison County,,city-us,17729,38.956,-90.187,4204
+17114,Godfrey,MN,Polk County,,city-us,290,47.633,-96.266,1885
+17113,Godfrey,GA,Morgan County,,city-us,108,33.453,-83.505,1206
+17110,Godfrey,KS,Bourbon County,,city-us,0,37.762,-94.710,240
+17112,Godfrey,WV,Mercer County,,city-us,0,37.365,-81.261,222

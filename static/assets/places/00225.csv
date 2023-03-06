@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1172,Anshan,,China,city-international,3645884,41.107,122.990,21018
-1173,Anshun,,China,city-international,2353100,26.246,105.934,9173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1172,Anshan,,,China,city-international,3645884,41.107,122.990,21018
+1173,Anshun,,,China,city-international,2353100,26.246,105.934,9173

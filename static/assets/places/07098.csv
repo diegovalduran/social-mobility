@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36001,Rea,MI,,city-us,8145,41.960,-83.674,2571
-36196,Ree,SD,,city-us,149,42.943,-98.279,0
-36000,Rea,MO,,city-us,47,40.062,-94.765,2752
-36197,Ree,ND,,city-us,28,48.423,-101.897,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36001,Rea,MI,Monroe County,,city-us,8145,41.960,-83.674,2571
+36196,Ree,SD,Charles Mix County,,city-us,149,42.943,-98.279,0
+36000,Rea,MO,Andrew County,,city-us,47,40.062,-94.765,2752
+36197,Ree,ND,Ward County,,city-us,28,48.423,-101.897,0

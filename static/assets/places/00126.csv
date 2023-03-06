@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-664,Allens Grove,IL,,city-us,459,40.283,-89.664,342
-648,Allen's Grove,WI,,city-us,174,42.580,-88.763,991
-665,Allens Grove,WI,,city-us,138,42.580,-88.763,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+664,Allens Grove,IL,Mason County,,city-us,459,40.283,-89.664,342
+648,Allen's Grove,WI,Walworth County,,city-us,174,42.580,-88.763,991
+665,Allens Grove,WI,Walworth County,,city-us,138,42.580,-88.763,0

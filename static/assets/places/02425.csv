@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12136,Downey,CA,,city-us,111645,33.940,-118.133,22454
-12134,Downey,ID,,city-us,562,42.429,-112.124,3992
-12135,Downey,IA,,city-us,112,41.616,-91.349,333
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12136,Downey,CA,Los Angeles County,,city-us,111645,33.940,-118.133,22454
+12134,Downey,ID,Bannock County,,city-us,562,42.429,-112.124,3992
+12135,Downey,IA,Cedar County,,city-us,112,41.616,-91.349,333

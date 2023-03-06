@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9457,Columbia Heights,MN,,city-us,21835,45.041,-93.263,7654
-9458,Columbia Heights,OR,,city-us,13817,45.859,-122.817,5854
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9457,Columbia Heights,MN,Anoka County,,city-us,21835,45.041,-93.263,7654
+9458,Columbia Heights,OR,Columbia County,,city-us,13817,45.859,-122.817,5854

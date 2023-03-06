@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39033,Seal,OH,,city-us,3377,39.077,-82.974,1299
-7516,Cele,TX,,city-us,0,30.441,-97.522,187
-39034,Seal,OH,,city-us,0,40.877,-83.151,206
-39035,Seale,AL,,city-us,0,32.297,-85.169,3236
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39033,Seal,OH,Pike County,,city-us,3377,39.077,-82.974,1299
+7516,Cele,TX,Travis County,,city-us,0,30.441,-97.522,187
+39034,Seal,OH,Wyandot County,,city-us,0,40.877,-83.151,206
+39035,Seale,AL,Russell County,,city-us,0,32.297,-85.169,3236

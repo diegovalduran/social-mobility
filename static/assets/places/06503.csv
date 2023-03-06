@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33145,Park View,IA,,city-us,2870,41.694,-90.546,2194
-33146,Park View,WV,,city-us,0,39.318,-80.028,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33145,Park View,IA,Scott County,,city-us,2870,41.694,-90.546,2194
+33146,Park View,WV,Taylor County,,city-us,0,39.318,-80.028,90

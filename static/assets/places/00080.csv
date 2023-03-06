@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-398,Alba,MO,,city-us,538,37.238,-94.417,3443
-399,Alba,TX,,city-us,483,32.787,-95.632,4107
-394,Alba,MI,,city-us,287,44.975,-84.969,924
-396,Alba,IL,,city-us,171,41.458,-89.913,1457
-397,Alba,MN,,city-us,165,43.720,-95.387,2173
-395,Alba,PA,,city-us,135,41.705,-76.828,2116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+398,Alba,MO,Jasper County,,city-us,538,37.238,-94.417,3443
+399,Alba,TX,Rains County / Wood County,,city-us,483,32.787,-95.632,4107
+394,Alba,MI,Antrim County,,city-us,287,44.975,-84.969,924
+396,Alba,IL,Henry County,,city-us,171,41.458,-89.913,1457
+397,Alba,MN,Jackson County,,city-us,165,43.720,-95.387,2173
+395,Alba,PA,Bradford County,,city-us,135,41.705,-76.828,2116

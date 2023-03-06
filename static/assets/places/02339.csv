@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11768,Dighton,MA,,city-us,8150,41.829,-71.152,11117
-11771,Dighton,MI,,city-us,1081,44.127,-85.392,2008
-11769,Dighton,KS,,city-us,954,38.482,-100.467,4907
-11770,Dighton,OK,,city-us,0,35.468,-95.893,348
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11768,Dighton,MA,Bristol County,,city-us,8150,41.829,-71.152,11117
+11771,Dighton,MI,Osceola County,,city-us,1081,44.127,-85.392,2008
+11769,Dighton,KS,Lane County,,city-us,954,38.482,-100.467,4907
+11770,Dighton,OK,Okmulgee County,,city-us,0,35.468,-95.893,348

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4810,Bountiful,UT,,city-us,45438,40.889,-111.881,6213
-4809,Bountiful,CO,,city-us,0,37.229,-105.977,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4810,Bountiful,UT,Davis County,,city-us,45438,40.889,-111.881,6213
+4809,Bountiful,CO,Conejos County,,city-us,0,37.229,-105.977,263

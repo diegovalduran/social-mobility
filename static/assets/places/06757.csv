@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34302,Piqua,OH,,city-us,20442,40.145,-84.242,21083
-34304,Piqua,KS,,city-us,64,37.923,-95.535,1097
-34303,Piqua,KY,,city-us,0,38.466,-84.045,452
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34302,Piqua,OH,Miami County,,city-us,20442,40.145,-84.242,21083
+34304,Piqua,KS,Woodson County,,city-us,64,37.923,-95.535,1097
+34303,Piqua,KY,Robertson County,,city-us,0,38.466,-84.045,452

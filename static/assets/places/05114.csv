@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26248,Machias,ME,,city-us,1837,44.696,-67.444,18148
-26247,Machias,WA,,city-us,1239,47.981,-122.046,2108
-26246,Machias,NY,,city-us,563,42.420,-78.494,4370
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26248,Machias,ME,Washington County,,city-us,1837,44.696,-67.444,18148
+26247,Machias,WA,Snohomish County,,city-us,1239,47.981,-122.046,2108
+26246,Machias,NY,Cattaraugus County,,city-us,563,42.420,-78.494,4370

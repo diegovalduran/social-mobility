@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39898,Silvercreek,OH,,city-us,3734,39.637,-83.708,1370
-39897,Silvercreek,NE,,city-us,126,42.567,-96.835,247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39898,Silvercreek,OH,Greene County,,city-us,3734,39.637,-83.708,1370
+39897,Silvercreek,NE,Dixon County,,city-us,126,42.567,-96.835,247

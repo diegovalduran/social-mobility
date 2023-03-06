@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45400,Washington Heights,NJ,,city-us,49715,40.426,-74.418,33020
-45401,Washington Heights,NY,,city-us,2041,41.470,-74.416,1987
-45399,Washington Heights,WV,,city-us,0,38.036,-81.831,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45400,Washington Heights,NJ,Middlesex County,,city-us,49715,40.426,-74.418,33020
+45401,Washington Heights,NY,Orange County,,city-us,2041,41.470,-74.416,1987
+45399,Washington Heights,WV,Boone County,,city-us,0,38.036,-81.831,195

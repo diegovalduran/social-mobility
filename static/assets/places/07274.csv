@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36848,River,MN,,city-us,63,47.949,-96.160,1723
-36847,River,KS,,city-us,62,38.218,-98.967,0
-36846,River,KY,,city-us,0,37.861,-82.726,1662
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36848,River,MN,Red Lake County,,city-us,63,47.949,-96.160,1723
+36847,River,KS,Pawnee County,,city-us,62,38.218,-98.967,0
+36846,River,KY,Johnson County,,city-us,0,37.861,-82.726,1662

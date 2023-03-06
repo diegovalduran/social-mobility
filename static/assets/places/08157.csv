@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41290,Star Lake,NY,,city-us,600,44.160,-75.032,2315
-41289,Star Lake,MN,,city-us,446,46.505,-95.834,1729
-41291,Star Lake,WI,,city-us,0,46.038,-89.472,526
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41290,Star Lake,NY,St. Lawrence County,,city-us,600,44.160,-75.032,2315
+41289,Star Lake,MN,Otter Tail County,,city-us,446,46.505,-95.834,1729
+41291,Star Lake,WI,Vilas County,,city-us,0,46.038,-89.472,526

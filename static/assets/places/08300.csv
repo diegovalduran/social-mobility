@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41992,Summit Lake,MN,,city-us,287,43.721,-95.745,3987
-41991,Summit Lake,WI,,city-us,52,45.378,-89.195,441
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41992,Summit Lake,MN,Nobles County,,city-us,287,43.721,-95.745,3987
+41991,Summit Lake,WI,Langlade County,,city-us,52,45.378,-89.195,441

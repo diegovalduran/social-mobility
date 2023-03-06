@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10340,Crest,CA,,city-us,2776,32.807,-116.868,4494
-10339,Crest,MO,,city-us,0,38.450,-93.135,187
-10341,Crest,GA,,city-us,0,32.932,-84.445,79
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10340,Crest,CA,San Diego County,,city-us,2776,32.807,-116.868,4494
+10339,Crest,MO,Benton County,,city-us,0,38.450,-93.135,187
+10341,Crest,GA,Upson County,,city-us,0,32.932,-84.445,79

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15778,Franklintown,PA,,city-us,522,40.077,-77.028,1930
-15776,Franklintown,WV,,city-us,0,39.205,-77.934,183
-15777,Franklintown,FL,,city-us,0,30.556,-81.450,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15778,Franklintown,PA,York County,,city-us,522,40.077,-77.028,1930
+15776,Franklintown,WV,Jefferson County,,city-us,0,39.205,-77.934,183
+15777,Franklintown,FL,Nassau County,,city-us,0,30.556,-81.450,221

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25694,Looneyville,TX,,city-us,0,31.763,-94.844,241
-25695,Looneyville,WV,,city-us,0,38.664,-81.303,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25694,Looneyville,TX,Nacogdoches County,,city-us,0,31.763,-94.844,241
+25695,Looneyville,WV,Roane County,,city-us,0,38.664,-81.303,272

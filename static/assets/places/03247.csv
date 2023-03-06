@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16421,Garrison,MD,,city-us,9727,39.406,-76.761,2915
-16428,Garrison,ND,,city-us,1432,47.652,-101.416,4012
-16426,Garrison,MN,,city-us,861,46.286,-93.880,1958
-16430,Garrison,TX,,city-us,793,31.824,-94.491,2642
-16427,Garrison,KY,,city-us,731,38.606,-83.173,475
-16422,Garrison,IA,,city-us,346,42.144,-92.144,3957
-16431,Garrison,MT,,city-us,89,46.523,-112.812,2885
-16424,Garrison,NE,,city-us,56,41.177,-97.167,3406
-16423,Garrison,WV,,city-us,0,37.996,-81.507,208
-16425,Garrison,MO,,city-us,0,36.839,-93.020,404
-16429,Garrison,UT,,city-us,0,38.934,-114.033,1411
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16421,Garrison,MD,Baltimore County,,city-us,9727,39.406,-76.761,2915
+16428,Garrison,ND,McLean County,,city-us,1432,47.652,-101.416,4012
+16426,Garrison,MN,Crow Wing County,,city-us,861,46.286,-93.880,1958
+16430,Garrison,TX,Nacogdoches County,,city-us,793,31.824,-94.491,2642
+16427,Garrison,KY,Lewis County,,city-us,731,38.606,-83.173,475
+16422,Garrison,IA,Benton County,,city-us,346,42.144,-92.144,3957
+16431,Garrison,MT,Powell County,,city-us,89,46.523,-112.812,2885
+16424,Garrison,NE,Butler County,,city-us,56,41.177,-97.167,3406
+16423,Garrison,WV,Boone County,,city-us,0,37.996,-81.507,208
+16425,Garrison,MO,Christian County,,city-us,0,36.839,-93.020,404
+16429,Garrison,UT,Millard County,,city-us,0,38.934,-114.033,1411

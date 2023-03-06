@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38152,Saint Benedict,PA,,city-us,0,40.627,-78.729,235
-38153,Saint Benedict,OR,,city-us,0,45.057,-122.774,735
-38154,Saint Benedict,LA,,city-us,0,30.527,-90.112,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38152,Saint Benedict,PA,Cambria County,,city-us,0,40.627,-78.729,235
+38153,Saint Benedict,OR,Marion County,,city-us,0,45.057,-122.774,735
+38154,Saint Benedict,LA,St. Tammany Parish,,city-us,0,30.527,-90.112,218

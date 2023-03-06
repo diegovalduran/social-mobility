@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44155,Valley Forge,TN,,city-us,0,36.306,-82.193,991
-44156,Valley Forge,PA,,city-us,0,40.097,-75.470,2170
-44157,Valley Forge,PA,,city-us,0,39.983,-76.709,857
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44155,Valley Forge,TN,Carter County,,city-us,0,36.306,-82.193,991
+44156,Valley Forge,PA,Chester County,,city-us,0,40.097,-75.470,2170
+44157,Valley Forge,PA,York County,,city-us,0,39.983,-76.709,857

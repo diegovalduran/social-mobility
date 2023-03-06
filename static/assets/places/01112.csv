@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5524,Brooks,MI,,city-us,3750,43.423,-85.719,2006
-5518,Brooks,MI,,city-us,3562,43.557,-83.958,3615
-5519,Brooks,KY,,city-us,2265,38.061,-85.710,2345
-5528,Brooks,ME,,city-us,1016,44.538,-69.122,3812
-5521,Brooks,GA,,city-us,570,33.291,-84.459,4795
-5523,Brooks,OR,,city-us,472,45.051,-122.955,3896
-5525,Brooks,MN,,city-us,118,47.814,-96.002,5208
-5522,Brooks,MT,,city-us,56,47.204,-109.421,327
-5516,Brooks,IA,,city-us,0,40.965,-94.805,170
-5517,Brooks,WI,,city-us,0,43.825,-89.644,323
-5520,Brooks,AL,,city-us,0,31.482,-86.685,226
-5526,Brooks,AR,,city-us,0,34.566,-92.448,157
-5527,Brooks,WV,,city-us,0,37.724,-80.886,263
-5529,Brooks,CA,,city-us,0,38.742,-122.148,961
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5524,Brooks,MI,Newaygo County,,city-us,3750,43.423,-85.719,2006
+5518,Brooks,MI,Bay County,,city-us,3562,43.557,-83.958,3615
+5519,Brooks,KY,Bullitt County,,city-us,2265,38.061,-85.710,2345
+5528,Brooks,ME,Waldo County,,city-us,1016,44.538,-69.122,3812
+5521,Brooks,GA,Fayette County,,city-us,570,33.291,-84.459,4795
+5523,Brooks,OR,Marion County,,city-us,472,45.051,-122.955,3896
+5525,Brooks,MN,Red Lake County,,city-us,118,47.814,-96.002,5208
+5522,Brooks,MT,Fergus County,,city-us,56,47.204,-109.421,327
+5516,Brooks,IA,Adams County,,city-us,0,40.965,-94.805,170
+5517,Brooks,WI,Adams County,,city-us,0,43.825,-89.644,323
+5520,Brooks,AL,Covington County,,city-us,0,31.482,-86.685,226
+5526,Brooks,AR,Saline County,,city-us,0,34.566,-92.448,157
+5527,Brooks,WV,Summers County,,city-us,0,37.724,-80.886,263
+5529,Brooks,CA,Yolo County,,city-us,0,38.742,-122.148,961

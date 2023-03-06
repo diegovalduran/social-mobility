@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10233,Crandall,TX,,city-us,4278,32.628,-96.456,1729
-10232,Crandall,IN,,city-us,138,38.288,-86.066,4706
-10231,Crandall,SD,,city-us,0,45.155,-97.956,352
-10234,Crandall,GA,,city-us,0,34.867,-84.746,270
-10237,Crandull,TN,,city-us,0,36.547,-81.896,325
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10233,Crandall,TX,Kaufman County,,city-us,4278,32.628,-96.456,1729
+10232,Crandall,IN,Harrison County,,city-us,138,38.288,-86.066,4706
+10231,Crandall,SD,Day County,,city-us,0,45.155,-97.956,352
+10234,Crandall,GA,Murray County,,city-us,0,34.867,-84.746,270
+10237,Crandull,TN,Johnson County,,city-us,0,36.547,-81.896,325

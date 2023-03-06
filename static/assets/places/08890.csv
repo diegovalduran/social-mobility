@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44605,Vincent,CA,,city-us,16399,34.501,-118.116,4398
-44608,Vincent,AL,,city-us,1997,33.383,-86.403,3165
-44610,Vincent,IA,,city-us,128,42.592,-94.020,3123
-44606,Vincent,KS,,city-us,0,39.192,-98.720,191
-44607,Vincent,KY,,city-us,0,37.468,-83.774,122
-44609,Vincent,OH,,city-us,0,39.375,-81.671,635
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44605,Vincent,CA,Los Angeles County,,city-us,16399,34.501,-118.116,4398
+44608,Vincent,AL,Shelby County / St. Clair County / Talladega County,,city-us,1997,33.383,-86.403,3165
+44610,Vincent,IA,Webster County,,city-us,128,42.592,-94.020,3123
+44606,Vincent,KS,Osborne County,,city-us,0,39.192,-98.720,191
+44607,Vincent,KY,Owsley County,,city-us,0,37.468,-83.774,122
+44609,Vincent,OH,Washington County,,city-us,0,39.375,-81.671,635

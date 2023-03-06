@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2329,Ballou,OK,,city-us,248,36.146,-95.190,1738
-2328,Ballou,WI,,city-us,0,46.318,-90.585,317
-2330,Ballou,OH,,city-us,0,40.200,-84.060,244
-2331,Ballou,IL,,city-us,0,41.278,-88.102,466
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2329,Ballou,OK,Mayes County,,city-us,248,36.146,-95.190,1738
+2328,Ballou,WI,Ashland County,,city-us,0,46.318,-90.585,317
+2330,Ballou,OH,Shelby County,,city-us,0,40.200,-84.060,244
+2331,Ballou,IL,Will County,,city-us,0,41.278,-88.102,466

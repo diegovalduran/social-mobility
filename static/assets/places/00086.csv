@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-437,Alberton,,South Africa,city-international,121536,-26.267,28.122,8061
-436,Alberton,MT,,city-us,505,47.002,-114.473,5450
-434,Alberton,AL,,city-us,0,31.278,-86.126,361
-435,Alberton,MD,,city-us,0,39.316,-76.814,1064
+id,name,state,county,country,level,population,latitude,longitude,wiki
+437,Alberton,,,South Africa,city-international,121536,-26.267,28.122,8061
+436,Alberton,MT,Mineral County,,city-us,505,47.002,-114.473,5450
+434,Alberton,AL,Coffee County,,city-us,0,31.278,-86.126,361
+435,Alberton,MD,Howard County,,city-us,0,39.316,-76.814,1064

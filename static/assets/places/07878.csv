@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39944,Sinclair,WY,,city-us,374,41.775,-107.113,5259
-39945,Sinclair,MN,,city-us,145,47.700,-95.252,1823
-39946,Sinclair,KS,,city-us,52,39.870,-97.987,872
-39948,Sinclair,ND,,city-us,37,46.758,-99.128,0
-39943,Sinclair,IA,,city-us,12,42.500,-92.732,662
-39947,Sinclair,WV,,city-us,0,39.268,-79.821,376
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39944,Sinclair,WY,Carbon County,,city-us,374,41.775,-107.113,5259
+39945,Sinclair,MN,Clearwater County,,city-us,145,47.700,-95.252,1823
+39946,Sinclair,KS,Jewell County,,city-us,52,39.870,-97.987,872
+39948,Sinclair,ND,Stutsman County,,city-us,37,46.758,-99.128,0
+39943,Sinclair,IA,Butler County,,city-us,12,42.500,-92.732,662
+39947,Sinclair,WV,Preston County,,city-us,0,39.268,-79.821,376

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46689,Whiteville,NC,,city-us,4688,34.339,-78.703,6590
-46691,Whiteville,TN,,city-us,2651,35.326,-89.150,3069
-46690,Whiteville,VA,,city-us,0,37.602,-78.168,96
-46692,Whiteville,LA,,city-us,0,30.788,-92.147,253
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46689,Whiteville,NC,Columbus County,,city-us,4688,34.339,-78.703,6590
+46691,Whiteville,TN,Hardeman County,,city-us,2651,35.326,-89.150,3069
+46690,Whiteville,VA,Cumberland County,,city-us,0,37.602,-78.168,96
+46692,Whiteville,LA,St. Landry Parish,,city-us,0,30.788,-92.147,253

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28959,Model,ND,,city-us,37,47.988,-102.054,0
-28958,Model,CO,,city-us,0,37.373,-104.245,391
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28959,Model,ND,Mountrail County,,city-us,37,47.988,-102.054,0
+28958,Model,CO,Las Animas County,,city-us,0,37.373,-104.245,391

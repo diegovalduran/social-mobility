@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26805,Marblehead,MA,,city-us,20397,42.500,-70.858,30037
-26807,Marblehead,OH,,city-us,842,41.540,-82.735,7604
-26804,Marblehead,IL,,city-us,0,39.840,-91.369,593
-26806,Marblehead,WI,,city-us,0,43.704,-88.384,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26805,Marblehead,MA,Essex County,,city-us,20397,42.500,-70.858,30037
+26807,Marblehead,OH,Ottawa County,,city-us,842,41.540,-82.735,7604
+26804,Marblehead,IL,Adams County,,city-us,0,39.840,-91.369,593
+26806,Marblehead,WI,Fond du Lac County,,city-us,0,43.704,-88.384,118

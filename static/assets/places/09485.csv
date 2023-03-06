@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47954,Yellow Creek,OH,,city-us,1923,40.615,-80.698,1449
-47956,Yellow Creek,MO,,city-us,358,39.815,-92.991,0
-47953,Yellow Creek,MO,,city-us,323,39.656,-93.045,170
-47952,Yellow Creek,KY,,city-us,0,36.587,-83.781,95
-47955,Yellow Creek,OH,,city-us,0,40.574,-80.668,555
-47957,Yellow Creek,IL,,city-us,0,42.306,-89.856,206
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47954,Yellow Creek,OH,Columbiana County,,city-us,1923,40.615,-80.698,1449
+47956,Yellow Creek,MO,Linn County,,city-us,358,39.815,-92.991,0
+47953,Yellow Creek,MO,Chariton County,,city-us,323,39.656,-93.045,170
+47952,Yellow Creek,KY,Bell County,,city-us,0,36.587,-83.781,95
+47955,Yellow Creek,OH,Jefferson County,,city-us,0,40.574,-80.668,555
+47957,Yellow Creek,IL,Stephenson County,,city-us,0,42.306,-89.856,206

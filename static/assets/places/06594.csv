@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33506,Pemberton,NJ,,city-us,26808,39.959,-74.605,16339
-33505,Pemberton,MN,,city-us,232,44.009,-93.783,3063
-33507,Pemberton,VA,,city-us,0,37.675,-78.085,1880
-33508,Pemberton,WV,,city-us,0,37.718,-81.219,250
-33509,Pemberton,OH,,city-us,0,40.295,-84.032,319
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33506,Pemberton,NJ,Burlington County,,city-us,26808,39.959,-74.605,16339
+33505,Pemberton,MN,Blue Earth County,,city-us,232,44.009,-93.783,3063
+33507,Pemberton,VA,Goochland County,,city-us,0,37.675,-78.085,1880
+33508,Pemberton,WV,Raleigh County,,city-us,0,37.718,-81.219,250
+33509,Pemberton,OH,Shelby County,,city-us,0,40.295,-84.032,319

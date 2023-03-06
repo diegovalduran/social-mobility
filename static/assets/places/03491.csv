@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17701,Gratis,OH,,city-us,839,39.648,-84.527,3215
-17702,Gratis,GA,,city-us,0,33.883,-83.663,1483
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17701,Gratis,OH,Preble County,,city-us,839,39.648,-84.527,3215
+17702,Gratis,GA,Walton County,,city-us,0,33.883,-83.663,1483

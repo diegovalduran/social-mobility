@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18244,Groveland,FL,,city-us,20398,28.558,-81.851,7031
-18243,Groveland,MA,,city-us,6737,42.754,-71.016,16192
-18248,Groveland,MI,,city-us,5897,42.837,-83.511,2877
-18246,Groveland,NY,,city-us,2474,42.710,-77.769,6868
-18242,Groveland,ID,,city-us,1027,43.220,-112.372,209
-18245,Groveland,IL,,city-us,559,40.971,-88.989,240
-18252,Groveland,CA,,city-us,495,37.838,-120.233,4221
-18250,Groveland,SD,,city-us,55,44.948,-98.652,0
-18247,Groveland,KS,,city-us,0,38.293,-97.729,338
-18249,Groveland,IN,,city-us,0,39.761,-86.720,299
-18251,Groveland,IL,,city-us,0,40.591,-89.533,679
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18244,Groveland,FL,Lake County,,city-us,20398,28.558,-81.851,7031
+18243,Groveland,MA,Essex County,,city-us,6737,42.754,-71.016,16192
+18248,Groveland,MI,Oakland County,,city-us,5897,42.837,-83.511,2877
+18246,Groveland,NY,Livingston County,,city-us,2474,42.710,-77.769,6868
+18242,Groveland,ID,Bingham County,,city-us,1027,43.220,-112.372,209
+18245,Groveland,IL,LaSalle County,,city-us,559,40.971,-88.989,240
+18252,Groveland,CA,Tuolumne County,,city-us,495,37.838,-120.233,4221
+18250,Groveland,SD,Spink County,,city-us,55,44.948,-98.652,0
+18247,Groveland,KS,McPherson County,,city-us,0,38.293,-97.729,338
+18249,Groveland,IN,Putnam County,,city-us,0,39.761,-86.720,299
+18251,Groveland,IL,Tazewell County,,city-us,0,40.591,-89.533,679

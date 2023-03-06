@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19824,Hiawatha,IA,,city-us,7147,42.036,-91.682,8668
-19826,Hiawatha,MI,,city-us,1304,46.235,-86.328,2056
-19823,Hiawatha,KS,,city-us,606,39.819,-95.496,589
-19825,Hiawatha,WV,,city-us,0,37.440,-81.244,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19824,Hiawatha,IA,Linn County,,city-us,7147,42.036,-91.682,8668
+19826,Hiawatha,MI,Schoolcraft County,,city-us,1304,46.235,-86.328,2056
+19823,Hiawatha,KS,Brown County,,city-us,606,39.819,-95.496,589
+19825,Hiawatha,WV,Mercer County,,city-us,0,37.440,-81.244,272

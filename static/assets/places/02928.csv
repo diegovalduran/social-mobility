@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14706,Farrington,IL,,city-us,567,38.431,-88.747,1347
-14703,Farrington,NC,,city-us,0,35.802,-79.014,525
-14704,Farrington,IL,,city-us,0,39.470,-87.546,134
-14705,Farrington,WA,,city-us,0,46.540,-118.579,166
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14706,Farrington,IL,Jefferson County,,city-us,567,38.431,-88.747,1347
+14703,Farrington,NC,Chatham County,,city-us,0,35.802,-79.014,525
+14704,Farrington,IL,Clark County,,city-us,0,39.470,-87.546,134
+14705,Farrington,WA,Franklin County,,city-us,0,46.540,-118.579,166

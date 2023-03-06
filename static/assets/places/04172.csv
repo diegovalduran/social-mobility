@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21441,Inlet,WI,,city-us,4559,42.627,-88.585,2232
-21440,Inlet,NY,,city-us,361,43.722,-74.714,5642
-21439,Inlet,OH,,city-us,0,41.654,-84.186,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21441,Inlet,WI,Walworth County,,city-us,4559,42.627,-88.585,2232
+21440,Inlet,NY,Hamilton County,,city-us,361,43.722,-74.714,5642
+21439,Inlet,OH,Fulton County,,city-us,0,41.654,-84.186,251

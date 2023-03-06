@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39617,Sherrill,NY,,city-us,3029,43.074,-75.598,3408
-39615,Sherrill,IA,,city-us,191,42.604,-90.785,4138
-39616,Sherrill,AR,,city-us,53,34.385,-91.951,3630
-39618,Sherrill,MO,,city-us,0,37.589,-91.876,487
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39617,Sherrill,NY,Oneida County,,city-us,3029,43.074,-75.598,3408
+39615,Sherrill,IA,Dubuque County,,city-us,191,42.604,-90.785,4138
+39616,Sherrill,AR,Jefferson County,,city-us,53,34.385,-91.951,3630
+39618,Sherrill,MO,Texas County,,city-us,0,37.589,-91.876,487

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34355,Pittsfield,MA,,city-us,43641,42.450,-73.245,34223
-34364,Pittsfield,MI,,city-us,39245,42.208,-83.716,4338
-34360,Pittsfield,IL,,city-us,4193,39.608,-90.805,11348
-34358,Pittsfield,NH,,city-us,4140,43.288,-71.309,4728
-34362,Pittsfield,ME,,city-us,3903,44.770,-69.434,5449
-34356,Pittsfield,WI,,city-us,2608,44.599,-88.245,2440
-34357,Pittsfield,OH,,city-us,1597,41.236,-82.216,2638
-34359,Pittsfield,NY,,city-us,1325,42.614,-75.271,5288
-34363,Pittsfield,PA,,city-us,1273,41.833,-79.427,1861
-34361,Pittsfield,VT,,city-us,504,43.804,-72.837,3680
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34355,Pittsfield,MA,Berkshire County,,city-us,43641,42.450,-73.245,34223
+34364,Pittsfield,MI,Washtenaw County,,city-us,39245,42.208,-83.716,4338
+34360,Pittsfield,IL,Pike County,,city-us,4193,39.608,-90.805,11348
+34358,Pittsfield,NH,Merrimack County,,city-us,4140,43.288,-71.309,4728
+34362,Pittsfield,ME,Somerset County,,city-us,3903,44.770,-69.434,5449
+34356,Pittsfield,WI,Brown County,,city-us,2608,44.599,-88.245,2440
+34357,Pittsfield,OH,Lorain County,,city-us,1597,41.236,-82.216,2638
+34359,Pittsfield,NY,Otsego County,,city-us,1325,42.614,-75.271,5288
+34363,Pittsfield,PA,Warren County,,city-us,1273,41.833,-79.427,1861
+34361,Pittsfield,VT,Rutland County,,city-us,504,43.804,-72.837,3680

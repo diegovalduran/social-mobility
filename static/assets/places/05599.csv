@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28853,Minneapolis,MN,,city-us,425336,44.980,-93.264,52019
-28854,Minneapolis,KS,,city-us,1948,39.122,-97.707,4320
-28852,Minneapolis,NC,,city-us,429,36.099,-81.987,800
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28853,Minneapolis,MN,Hennepin County,,city-us,425336,44.980,-93.264,52019
+28854,Minneapolis,KS,Ottawa County,,city-us,1948,39.122,-97.707,4320
+28852,Minneapolis,NC,Avery County,,city-us,429,36.099,-81.987,800

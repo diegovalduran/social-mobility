@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19225,Haskell,NJ,,city-us,4942,41.028,-74.296,1924
-19226,Haskell,AR,,city-us,4015,34.501,-92.637,2190
-19222,Haskell,TX,,city-us,3046,33.158,-99.734,3732
-19221,Haskell,KS,,city-us,1853,37.555,-100.880,508
-19224,Haskell,OK,,city-us,1670,35.820,-95.674,5800
-19223,Haskell,IN,,city-us,0,41.484,-86.902,362
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19225,Haskell,NJ,Passaic County,,city-us,4942,41.028,-74.296,1924
+19226,Haskell,AR,Saline County,,city-us,4015,34.501,-92.637,2190
+19222,Haskell,TX,Haskell County,,city-us,3046,33.158,-99.734,3732
+19221,Haskell,KS,Haskell County,,city-us,1853,37.555,-100.880,508
+19224,Haskell,OK,Muskogee County,,city-us,1670,35.820,-95.674,5800
+19223,Haskell,IN,LaPorte County,,city-us,0,41.484,-86.902,362

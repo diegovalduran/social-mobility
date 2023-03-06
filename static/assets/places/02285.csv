@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11504,Delta,,Canada,city-international,102238,49.085,-123.059,7249
-11495,Delta,MI,,city-us,33070,42.728,-84.661,4682
-11494,Delta,CO,,city-us,9224,38.742,-108.069,5581
-11499,Delta,UT,,city-us,3678,39.352,-112.577,9033
-11496,Delta,OH,,city-us,3340,41.574,-84.005,4884
-11503,Delta,PA,,city-us,707,39.727,-76.327,3469
-11492,Delta,MO,,city-us,378,37.197,-89.736,3276
-11491,Delta,WI,,city-us,273,46.473,-91.270,1916
-11493,Delta,AL,,city-us,260,33.440,-85.691,457
-11497,Delta,IA,,city-us,260,41.323,-92.330,3007
-11498,Delta,LA,,city-us,215,32.326,-90.927,2973
-11500,Delta,IL,,city-us,0,37.684,-88.703,186
-11501,Delta,NC,,city-us,0,36.474,-80.101,85
-11502,Delta,KY,,city-us,0,36.864,-84.657,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11504,Delta,,,Canada,city-international,102238,49.085,-123.059,7249
+11495,Delta,MI,Eaton County,,city-us,33070,42.728,-84.661,4682
+11494,Delta,CO,Delta County,,city-us,9224,38.742,-108.069,5581
+11499,Delta,UT,Millard County,,city-us,3678,39.352,-112.577,9033
+11496,Delta,OH,Fulton County,,city-us,3340,41.574,-84.005,4884
+11503,Delta,PA,York County,,city-us,707,39.727,-76.327,3469
+11492,Delta,MO,Cape Girardeau County,,city-us,378,37.197,-89.736,3276
+11491,Delta,WI,Bayfield County,,city-us,273,46.473,-91.270,1916
+11493,Delta,AL,Clay County,,city-us,260,33.440,-85.691,457
+11497,Delta,IA,Keokuk County,,city-us,260,41.323,-92.330,3007
+11498,Delta,LA,Madison Parish,,city-us,215,32.326,-90.927,2973
+11500,Delta,IL,Saline County,,city-us,0,37.684,-88.703,186
+11501,Delta,NC,Stokes County,,city-us,0,36.474,-80.101,85
+11502,Delta,KY,Wayne County,,city-us,0,36.864,-84.657,195

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37209,Rockhill,PA,,city-us,378,40.242,-77.900,3395
-37208,Rockhill,TX,,city-us,0,33.204,-96.802,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37209,Rockhill,PA,Huntingdon County,,city-us,378,40.242,-77.900,3395
+37208,Rockhill,TX,Collin County,,city-us,0,33.204,-96.802,95

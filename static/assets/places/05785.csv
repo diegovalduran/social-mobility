@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29761,Mount Hebron,CA,,city-us,48,41.787,-122.004,4133
-29759,Mount Hebron,AL,,city-us,0,32.874,-88.080,373
-29760,Mount Hebron,AL,,city-us,0,34.142,-86.289,308
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29761,Mount Hebron,CA,Siskiyou County,,city-us,48,41.787,-122.004,4133
+29759,Mount Hebron,AL,Greene County,,city-us,0,32.874,-88.080,373
+29760,Mount Hebron,AL,Marshall County,,city-us,0,34.142,-86.289,308

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24126,Lawndale,CA,,city-us,31121,33.887,-118.353,10675
-24128,Lawndale,MI,,city-us,24994,43.460,-84.007,3190
-24125,Lawndale,MI,,city-us,14854,42.297,-85.499,8028
-24124,Lawndale,NC,,city-us,577,35.414,-81.563,2198
-24127,Lawndale,IL,,city-us,157,40.621,-88.626,668
-24129,Lawndale,MN,,city-us,0,46.557,-96.360,434
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24126,Lawndale,CA,Los Angeles County,,city-us,31121,33.887,-118.353,10675
+24128,Lawndale,MI,Saginaw County,,city-us,24994,43.460,-84.007,3190
+24125,Lawndale,MI,Kalamazoo County,,city-us,14854,42.297,-85.499,8028
+24124,Lawndale,NC,Cleveland County,,city-us,577,35.414,-81.563,2198
+24127,Lawndale,IL,McLean County,,city-us,157,40.621,-88.626,668
+24129,Lawndale,MN,Wilkin County,,city-us,0,46.557,-96.360,434

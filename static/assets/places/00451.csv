@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2367,Bandon,OR,,city-us,3331,43.119,-124.408,13000
-2369,Bandon,MN,,city-us,128,44.586,-94.813,1840
-2368,Bandon,IN,,city-us,0,38.137,-86.600,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2367,Bandon,OR,Coos County,,city-us,3331,43.119,-124.408,13000
+2369,Bandon,MN,Renville County,,city-us,128,44.586,-94.813,1840
+2368,Bandon,IN,Perry County,,city-us,0,38.137,-86.600,285

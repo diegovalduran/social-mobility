@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-959,Amenia,NY,,city-us,780,41.849,-73.557,9647
-958,Amenia,ND,,city-us,92,47.026,-97.271,4225
-960,Amenia,IL,,city-us,0,40.022,-88.666,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+959,Amenia,NY,Dutchess County,,city-us,780,41.849,-73.557,9647
+958,Amenia,ND,Cass County,,city-us,92,47.026,-97.271,4225
+960,Amenia,IL,Piatt County,,city-us,0,40.022,-88.666,173

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3252,Belleview,FL,,city-us,5577,29.055,-82.062,2626
-3247,Belleview,KY,,city-us,308,38.986,-84.826,855
-3253,Belleview,SD,,city-us,60,44.152,-97.430,0
-3248,Belleview,IL,,city-us,0,39.351,-90.781,152
-3249,Belleview,MO,,city-us,0,37.688,-90.740,500
-3250,Belleview,IN,,city-us,0,38.856,-85.378,552
-3251,Belleview,VA,,city-us,0,37.484,-76.734,111
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3252,Belleview,FL,Marion County,,city-us,5577,29.055,-82.062,2626
+3247,Belleview,KY,Boone County,,city-us,308,38.986,-84.826,855
+3253,Belleview,SD,Miner County,,city-us,60,44.152,-97.430,0
+3248,Belleview,IL,Calhoun County,,city-us,0,39.351,-90.781,152
+3249,Belleview,MO,Iron County,,city-us,0,37.688,-90.740,500
+3250,Belleview,IN,Jefferson County,,city-us,0,38.856,-85.378,552
+3251,Belleview,VA,King and Queen County,,city-us,0,37.484,-76.734,111

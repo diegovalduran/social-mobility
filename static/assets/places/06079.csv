@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31137,Nicholson,MS,,city-us,2833,30.477,-89.694,318
-31138,Nicholson,MI,,city-us,2161,42.831,-84.096,2612
-31135,Nicholson,GA,,city-us,1853,34.114,-83.432,2737
-31134,Nicholson,PA,,city-us,1704,39.814,-79.866,186
-31139,Nicholson,PA,,city-us,697,41.626,-75.780,3270
-31136,Nicholson,KY,,city-us,0,38.907,-84.548,654
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31137,Nicholson,MS,Pearl River County,,city-us,2833,30.477,-89.694,318
+31138,Nicholson,MI,Shiawassee County,,city-us,2161,42.831,-84.096,2612
+31135,Nicholson,GA,Jackson County,,city-us,1853,34.114,-83.432,2737
+31134,Nicholson,PA,Fayette County,,city-us,1704,39.814,-79.866,186
+31139,Nicholson,PA,Wyoming County,,city-us,697,41.626,-75.780,3270
+31136,Nicholson,KY,Kenton County,,city-us,0,38.907,-84.548,654

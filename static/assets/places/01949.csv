@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9934,Cornell,WI,,city-us,1451,45.167,-91.149,3099
-9937,Cornell,IL,,city-us,438,40.990,-88.729,3617
-9933,Cornell,ND,,city-us,41,47.022,-97.642,0
-9935,Cornell,IA,,city-us,0,42.944,-95.140,209
-9936,Cornell,MI,,city-us,0,45.901,-87.222,802
-9938,Cornell,CA,,city-us,0,34.114,-118.778,1641
-9939,Cornell,CA,,city-us,0,41.799,-121.319,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9934,Cornell,WI,Chippewa County,,city-us,1451,45.167,-91.149,3099
+9937,Cornell,IL,Livingston County,,city-us,438,40.990,-88.729,3617
+9933,Cornell,ND,Cass County,,city-us,41,47.022,-97.642,0
+9935,Cornell,IA,Clay County,,city-us,0,42.944,-95.140,209
+9936,Cornell,MI,Delta County,,city-us,0,45.901,-87.222,802
+9938,Cornell,CA,Los Angeles County,,city-us,0,34.114,-118.778,1641
+9939,Cornell,CA,Modoc County,,city-us,0,41.799,-121.319,279

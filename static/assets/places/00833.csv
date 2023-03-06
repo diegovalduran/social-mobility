@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4272,Blairsville,PA,,city-us,3238,40.431,-79.261,3331
-4274,Blairsville,GA,,city-us,526,34.876,-83.958,10157
-4275,Blairsville,IL,,city-us,243,37.811,-89.124,191
-4270,Blairsville,OH,,city-us,0,38.992,-84.292,181
-4271,Blairsville,IL,,city-us,0,38.168,-88.464,192
-4273,Blairsville,IN,,city-us,0,38.079,-87.762,2419
-4276,Blairsville,SC,,city-us,0,34.915,-81.350,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4272,Blairsville,PA,Indiana County,,city-us,3238,40.431,-79.261,3331
+4274,Blairsville,GA,Union County,,city-us,526,34.876,-83.958,10157
+4275,Blairsville,IL,Williamson County,,city-us,243,37.811,-89.124,191
+4270,Blairsville,OH,Clermont County,,city-us,0,38.992,-84.292,181
+4271,Blairsville,IL,Hamilton County,,city-us,0,38.168,-88.464,192
+4273,Blairsville,IN,Posey County,,city-us,0,38.079,-87.762,2419
+4276,Blairsville,SC,York County,,city-us,0,34.915,-81.350,248

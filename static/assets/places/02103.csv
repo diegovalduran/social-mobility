@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10548,Cruger,MS,,city-us,261,33.321,-90.232,2364
-10549,Cruger,IL,,city-us,0,40.722,-89.310,275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10548,Cruger,MS,Holmes County,,city-us,261,33.321,-90.232,2364
+10549,Cruger,IL,Woodford County,,city-us,0,40.722,-89.310,275

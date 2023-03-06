@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10344,Crestline,CA,,city-us,9350,34.242,-117.286,5166
-10343,Crestline,OH,,city-us,4488,40.783,-82.748,8051
-10342,Crestline,KS,,city-us,116,37.171,-94.704,548
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10344,Crestline,CA,San Bernardino County,,city-us,9350,34.242,-117.286,5166
+10343,Crestline,OH,Crawford County / Richland County,,city-us,4488,40.783,-82.748,8051
+10342,Crestline,KS,Cherokee County,,city-us,116,37.171,-94.704,548

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34629,Pleasant Run,OH,,city-us,4773,39.300,-84.564,1938
-34630,Pleasant Run,NJ,,city-us,0,40.561,-74.793,308
-34631,Pleasant Run,WV,,city-us,0,39.044,-79.723,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34629,Pleasant Run,OH,Hamilton County,,city-us,4773,39.300,-84.564,1938
+34630,Pleasant Run,NJ,Hunterdon County,,city-us,0,40.561,-74.793,308
+34631,Pleasant Run,WV,Tucker County,,city-us,0,39.044,-79.723,93

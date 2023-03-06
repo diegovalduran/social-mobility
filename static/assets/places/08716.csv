@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43636,Tyler,TX,,city-us,107192,32.351,-95.301,28108
-43634,Tyler,MN,,city-us,1125,44.278,-96.135,4785
-43631,Tyler,AL,,city-us,0,32.339,-86.880,138
-43632,Tyler,KY,,city-us,0,36.508,-89.351,81
-43633,Tyler,FL,,city-us,0,29.651,-82.764,203
-43635,Tyler,MO,,city-us,0,36.034,-89.737,264
-43637,Tyler,WA,,city-us,0,47.436,-117.784,1121
-43638,Tyler,WV,,city-us,0,39.433,-80.827,250
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43636,Tyler,TX,Smith County,,city-us,107192,32.351,-95.301,28108
+43634,Tyler,MN,Lincoln County,,city-us,1125,44.278,-96.135,4785
+43631,Tyler,AL,Dallas County,,city-us,0,32.339,-86.880,138
+43632,Tyler,KY,Fulton County,,city-us,0,36.508,-89.351,81
+43633,Tyler,FL,Gilchrist County,,city-us,0,29.651,-82.764,203
+43635,Tyler,MO,Pemiscot County,,city-us,0,36.034,-89.737,264
+43637,Tyler,WA,Spokane County,,city-us,0,47.436,-117.784,1121
+43638,Tyler,WV,Tyler County,,city-us,0,39.433,-80.827,250

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46786,Wickliffe,OH,,city-us,12646,41.605,-81.453,8119
-46787,Wickliffe,OK,,city-us,869,36.312,-95.107,1824
-46783,Wickliffe,KY,,city-us,652,36.965,-89.089,3785
-46784,Wickliffe,VA,,city-us,0,39.166,-77.892,88
-46785,Wickliffe,IN,,city-us,0,38.368,-86.641,247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46786,Wickliffe,OH,Lake County,,city-us,12646,41.605,-81.453,8119
+46787,Wickliffe,OK,Mayes County,,city-us,869,36.312,-95.107,1824
+46783,Wickliffe,KY,Ballard County,,city-us,652,36.965,-89.089,3785
+46784,Wickliffe,VA,Clarke County,,city-us,0,39.166,-77.892,88
+46785,Wickliffe,IN,Crawford County,,city-us,0,38.368,-86.641,247

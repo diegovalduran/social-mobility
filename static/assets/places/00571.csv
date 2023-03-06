@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2882,Bearden,AR,,city-us,766,33.725,-92.616,2968
-2881,Bearden,OK,,city-us,136,35.348,-96.389,1914
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2882,Bearden,AR,Ouachita County,,city-us,766,33.725,-92.616,2968
+2881,Bearden,OK,Okfuskee County,,city-us,136,35.348,-96.389,1914

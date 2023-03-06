@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8014,Chautauqua,NY,,city-us,3992,42.242,-79.506,6937
-8013,Chautauqua,KS,,city-us,110,37.020,-96.177,3579
-8015,Chautauqua,IL,,city-us,0,38.964,-90.386,2671
-8016,Chautauqua,OH,,city-us,0,39.591,-84.296,666
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8014,Chautauqua,NY,Chautauqua County,,city-us,3992,42.242,-79.506,6937
+8013,Chautauqua,KS,Chautauqua County,,city-us,110,37.020,-96.177,3579
+8015,Chautauqua,IL,Jersey County,,city-us,0,38.964,-90.386,2671
+8016,Chautauqua,OH,Montgomery County,,city-us,0,39.591,-84.296,666

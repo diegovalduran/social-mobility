@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35296,Prattsville,NY,,city-us,786,42.320,-74.414,4586
-35295,Prattsville,AR,,city-us,291,34.315,-92.553,7141
-35297,Prattsville,OH,,city-us,0,39.239,-82.391,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35296,Prattsville,NY,Greene County,,city-us,786,42.320,-74.414,4586
+35295,Prattsville,AR,Grant County,,city-us,291,34.315,-92.553,7141
+35297,Prattsville,OH,Vinton County,,city-us,0,39.239,-82.391,223

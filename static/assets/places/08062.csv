@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40743,Spring Valley,NV,,city-us,217441,36.108,-115.245,9817
-40757,Spring Valley,NY,,city-us,33033,41.113,-74.044,9787
-40758,Spring Valley,CA,,city-us,32860,32.745,-116.999,6117
-40741,Spring Valley,IL,,city-us,5486,41.328,-89.200,9560
-40762,Spring Valley,AZ,,city-us,1636,34.345,-112.159,2043
-40755,Spring Valley,WI,,city-us,1400,44.852,-92.243,4395
-40742,Spring Valley,KS,,city-us,1010,37.068,-94.786,606
-40751,Spring Valley,CA,,city-us,789,39.076,-122.585,2026
-40756,Spring Valley,WI,,city-us,735,42.624,-89.310,2002
-40750,Spring Valley,KY,,city-us,669,38.297,-85.611,2241
-40748,Spring Valley,MN,,city-us,550,43.727,-92.383,1939
-40749,Spring Valley,OH,,city-us,413,39.609,-84.008,3217
-40753,Spring Valley,SD,,city-us,365,43.543,-97.189,0
-40754,Spring Valley,KS,,city-us,326,38.311,-97.428,136
-40760,Spring Valley,SD,,city-us,206,43.213,-97.220,0
-40744,Spring Valley,SD,,city-us,32,45.124,-97.823,0
-40746,Spring Valley,ND,,city-us,28,46.078,-98.922,0
-40740,Spring Valley,IL,,city-us,0,39.897,-90.979,176
-40745,Spring Valley,AL,,city-us,0,34.657,-87.617,1714
-40747,Spring Valley,CA,,city-us,0,38.779,-120.528,170
-40752,Spring Valley,WI,,city-us,0,43.939,-87.839,120
-40759,Spring Valley,VA,,city-us,0,38.331,-77.461,97
-40761,Spring Valley,AR,,city-us,0,36.176,-93.935,135
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40743,Spring Valley,NV,Clark County,,city-us,217441,36.108,-115.245,9817
+40757,Spring Valley,NY,Rockland County,,city-us,33033,41.113,-74.044,9787
+40758,Spring Valley,CA,San Diego County,,city-us,32860,32.745,-116.999,6117
+40741,Spring Valley,IL,Bureau County,,city-us,5486,41.328,-89.200,9560
+40762,Spring Valley,AZ,Yavapai County,,city-us,1636,34.345,-112.159,2043
+40755,Spring Valley,WI,Pierce County / St. Croix County,,city-us,1400,44.852,-92.243,4395
+40742,Spring Valley,KS,Cherokee County,,city-us,1010,37.068,-94.786,606
+40751,Spring Valley,CA,Lake County,,city-us,789,39.076,-122.585,2026
+40756,Spring Valley,WI,Rock County,,city-us,735,42.624,-89.310,2002
+40750,Spring Valley,KY,Jefferson County,,city-us,669,38.297,-85.611,2241
+40748,Spring Valley,MN,Fillmore County,,city-us,550,43.727,-92.383,1939
+40749,Spring Valley,OH,Greene County,,city-us,413,39.609,-84.008,3217
+40753,Spring Valley,SD,McCook County,,city-us,365,43.543,-97.189,0
+40754,Spring Valley,KS,McPherson County,,city-us,326,38.311,-97.428,136
+40760,Spring Valley,SD,Turner County,,city-us,206,43.213,-97.220,0
+40744,Spring Valley,SD,Clark County,,city-us,32,45.124,-97.823,0
+40746,Spring Valley,ND,Dickey County,,city-us,28,46.078,-98.922,0
+40740,Spring Valley,IL,Adams County,,city-us,0,39.897,-90.979,176
+40745,Spring Valley,AL,Colbert County,,city-us,0,34.657,-87.617,1714
+40747,Spring Valley,CA,El Dorado County,,city-us,0,38.779,-120.528,170
+40752,Spring Valley,WI,Manitowoc County,,city-us,0,43.939,-87.839,120
+40759,Spring Valley,VA,Stafford County,,city-us,0,38.331,-77.461,97
+40761,Spring Valley,AR,Washington County,,city-us,0,36.176,-93.935,135

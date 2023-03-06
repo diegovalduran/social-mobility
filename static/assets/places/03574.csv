@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18208,Groseclose,VA,,city-us,0,36.889,-81.347,104
-18209,Groseclose,VA,,city-us,0,36.908,-81.209,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18208,Groseclose,VA,Smyth County,,city-us,0,36.889,-81.347,104
+18209,Groseclose,VA,Wythe County,,city-us,0,36.908,-81.209,104

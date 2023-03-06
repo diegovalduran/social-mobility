@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22234,Johnsonville,SC,,city-us,1369,33.818,-79.449,7498
-22236,Johnsonville,MN,,city-us,124,44.319,-95.421,1857
-22239,Johnsonville,IL,,city-us,71,38.522,-88.537,1588
-22233,Johnsonville,AL,,city-us,0,31.295,-86.872,373
-22235,Johnsonville,NC,,city-us,0,35.283,-79.107,474
-22237,Johnsonville,WI,,city-us,0,43.798,-87.909,165
-22238,Johnsonville,IN,,city-us,0,40.227,-87.486,1762
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22234,Johnsonville,SC,Florence County,,city-us,1369,33.818,-79.449,7498
+22236,Johnsonville,MN,Redwood County,,city-us,124,44.319,-95.421,1857
+22239,Johnsonville,IL,Wayne County,,city-us,71,38.522,-88.537,1588
+22233,Johnsonville,AL,Conecuh County,,city-us,0,31.295,-86.872,373
+22235,Johnsonville,NC,Harnett County,,city-us,0,35.283,-79.107,474
+22237,Johnsonville,WI,Sheboygan County,,city-us,0,43.798,-87.909,165
+22238,Johnsonville,IN,Warren County,,city-us,0,40.227,-87.486,1762

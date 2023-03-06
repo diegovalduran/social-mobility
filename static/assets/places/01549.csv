@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7818,Champion,OH,,city-us,9367,41.310,-80.858,2369
-7816,Champion,NY,,city-us,4568,43.973,-75.706,4150
-7819,Champion,MN,,city-us,53,46.068,-96.330,1666
-7814,Champion,NE,,city-us,36,40.469,-101.749,514
-7820,Champion,ND,,city-us,13,48.410,-103.222,0
-7813,Champion,WI,,city-us,0,44.589,-87.794,1120
-7815,Champion,MO,,city-us,0,36.909,-92.362,149
-7817,Champion,MI,,city-us,0,46.514,-87.963,407
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7818,Champion,OH,Trumbull County,,city-us,9367,41.310,-80.858,2369
+7816,Champion,NY,Jefferson County,,city-us,4568,43.973,-75.706,4150
+7819,Champion,MN,Wilkin County,,city-us,53,46.068,-96.330,1666
+7814,Champion,NE,Chase County,,city-us,36,40.469,-101.749,514
+7820,Champion,ND,Williams County,,city-us,13,48.410,-103.222,0
+7813,Champion,WI,Brown County,,city-us,0,44.589,-87.794,1120
+7815,Champion,MO,Douglas County,,city-us,0,36.909,-92.362,149
+7817,Champion,MI,Marquette County,,city-us,0,46.514,-87.963,407

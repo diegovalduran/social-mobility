@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25191,Little Creek,DE,,city-us,194,39.167,-75.448,2768
-25190,Little Creek,GA,,city-us,0,33.887,-85.312,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25191,Little Creek,DE,Kent County,,city-us,194,39.167,-75.448,2768
+25190,Little Creek,GA,Haralson County,,city-us,0,33.887,-85.312,261

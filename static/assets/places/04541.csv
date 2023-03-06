@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23306,Kunkle,OH,,city-us,339,41.637,-84.495,515
-23305,Kunkle,PA,,city-us,0,41.378,-75.983,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23306,Kunkle,OH,Williams County,,city-us,339,41.637,-84.495,515
+23305,Kunkle,PA,Luzerne County,,city-us,0,41.378,-75.983,104

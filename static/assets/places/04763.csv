@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24296,Lee,NY,,city-us,6089,43.325,-75.519,4458
-24284,Lee,MA,,city-us,5755,42.303,-73.234,10292
-24299,Lee,NH,,city-us,4589,43.119,-71.007,4818
-24281,Lee,MI,,city-us,4015,42.462,-86.076,2874
-24292,Lee,MI,,city-us,4000,43.598,-84.427,1206
-24282,Lee,OH,,city-us,2774,39.240,-82.219,145
-24286,Lee,MI,,city-us,1051,42.385,-84.866,1206
-24287,Lee,OH,,city-us,1033,40.522,-80.980,145
-24297,Lee,ME,,city-us,909,45.376,-68.298,3323
-24293,Lee,OH,,city-us,892,39.645,-80.933,145
-24384,Leigh,NE,,city-us,431,41.705,-97.238,3230
-24291,Lee,FL,,city-us,375,30.420,-83.300,2505
-24288,Lee,IL,,city-us,312,41.795,-88.942,2917
-24285,Lee,IL,,city-us,260,39.968,-90.868,212
-24385,Leigh,MN,,city-us,216,46.043,-93.854,1910
-24290,Lee,IL,,city-us,209,40.584,-90.388,212
-24295,Lee,MN,,city-us,118,47.202,-96.766,234
-24298,Lee,SD,,city-us,66,45.450,-96.914,0
-24294,Lee,ND,,city-us,42,47.715,-98.076,0
-24280,Lee,MN,,city-us,40,46.458,-93.345,234
-24283,Lee,MN,,city-us,40,48.238,-95.518,234
-24289,Lee,WV,,city-us,0,37.883,-81.156,85
-24300,Lee,IN,,city-us,0,40.896,-86.968,2190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24296,Lee,NY,Oneida County,,city-us,6089,43.325,-75.519,4458
+24284,Lee,MA,Berkshire County,,city-us,5755,42.303,-73.234,10292
+24299,Lee,NH,Strafford County,,city-us,4589,43.119,-71.007,4818
+24281,Lee,MI,Allegan County,,city-us,4015,42.462,-86.076,2874
+24292,Lee,MI,Midland County,,city-us,4000,43.598,-84.427,1206
+24282,Lee,OH,Athens County,,city-us,2774,39.240,-82.219,145
+24286,Lee,MI,Calhoun County,,city-us,1051,42.385,-84.866,1206
+24287,Lee,OH,Carroll County,,city-us,1033,40.522,-80.980,145
+24297,Lee,ME,Penobscot County,,city-us,909,45.376,-68.298,3323
+24293,Lee,OH,Monroe County,,city-us,892,39.645,-80.933,145
+24384,Leigh,NE,Colfax County,,city-us,431,41.705,-97.238,3230
+24291,Lee,FL,Madison County,,city-us,375,30.420,-83.300,2505
+24288,Lee,IL,DeKalb County / Lee County,,city-us,312,41.795,-88.942,2917
+24285,Lee,IL,Brown County,,city-us,260,39.968,-90.868,212
+24385,Leigh,MN,Morrison County,,city-us,216,46.043,-93.854,1910
+24290,Lee,IL,Fulton County,,city-us,209,40.584,-90.388,212
+24295,Lee,MN,Norman County,,city-us,118,47.202,-96.766,234
+24298,Lee,SD,Roberts County,,city-us,66,45.450,-96.914,0
+24294,Lee,ND,Nelson County,,city-us,42,47.715,-98.076,0
+24280,Lee,MN,Aitkin County,,city-us,40,46.458,-93.345,234
+24283,Lee,MN,Beltrami County,,city-us,40,48.238,-95.518,234
+24289,Lee,WV,Fayette County,,city-us,0,37.883,-81.156,85
+24300,Lee,IN,White County,,city-us,0,40.896,-86.968,2190

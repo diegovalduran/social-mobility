@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21202,Idamay,WV,,city-us,783,39.497,-80.257,2162
-21201,Idamay,KY,,city-us,0,37.521,-83.766,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21202,Idamay,WV,Marion County,,city-us,783,39.497,-80.257,2162
+21201,Idamay,KY,Lee County,,city-us,0,37.521,-83.766,93

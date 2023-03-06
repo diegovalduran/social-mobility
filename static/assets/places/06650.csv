@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33844,Pettysville,MI,,city-us,21165,42.463,-83.848,4917
-33833,Pettisville,OH,,city-us,546,41.531,-84.230,1719
-33845,Pettysville,IN,,city-us,0,40.881,-85.982,494
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33844,Pettysville,MI,Livingston County,,city-us,21165,42.463,-83.848,4917
+33833,Pettisville,OH,Fulton County,,city-us,546,41.531,-84.230,1719
+33845,Pettysville,IN,Miami County,,city-us,0,40.881,-85.982,494

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-894,Alturas,FL,,city-us,4084,27.872,-81.715,337
-893,Alturas,CA,,city-us,2692,41.487,-120.542,7970
+id,name,state,county,country,level,population,latitude,longitude,wiki
+894,Alturas,FL,Polk County,,city-us,4084,27.872,-81.715,337
+893,Alturas,CA,Modoc County,,city-us,2692,41.487,-120.542,7970

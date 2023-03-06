@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8036,Chelsea,MA,,city-us,38889,42.392,-71.033,27349
-8035,Chelsea,AL,,city-us,15653,33.340,-86.630,4270
-8039,Chelsea,MI,,city-us,5393,42.318,-84.020,5292
-8032,Chelsea,ME,,city-us,2799,44.266,-69.730,3669
-8034,Chelsea,OK,,city-us,1994,36.536,-95.432,5798
-8033,Chelsea,VT,,city-us,461,43.990,-72.448,3707
-8026,Chelsea,KS,,city-us,275,37.935,-96.661,609
-8037,Chelsea,IA,,city-us,223,41.919,-92.395,3276
-8030,Chelsea,NE,,city-us,94,40.481,-97.539,217
-8038,Chelsea,WI,,city-us,84,45.290,-90.307,4196
-8029,Chelsea,SD,,city-us,18,45.169,-98.740,2757
-8027,Chelsea,GA,,city-us,0,34.523,-85.440,309
-8028,Chelsea,PA,,city-us,0,39.867,-75.468,1086
-8031,Chelsea,IN,,city-us,0,38.651,-85.525,567
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8036,Chelsea,MA,Suffolk County,,city-us,38889,42.392,-71.033,27349
+8035,Chelsea,AL,Shelby County,,city-us,15653,33.340,-86.630,4270
+8039,Chelsea,MI,Washtenaw County,,city-us,5393,42.318,-84.020,5292
+8032,Chelsea,ME,Kennebec County,,city-us,2799,44.266,-69.730,3669
+8034,Chelsea,OK,Rogers County,,city-us,1994,36.536,-95.432,5798
+8033,Chelsea,VT,Orange County,,city-us,461,43.990,-72.448,3707
+8026,Chelsea,KS,Butler County,,city-us,275,37.935,-96.661,609
+8037,Chelsea,IA,Tama County,,city-us,223,41.919,-92.395,3276
+8030,Chelsea,NE,Fillmore County,,city-us,94,40.481,-97.539,217
+8038,Chelsea,WI,Taylor County,,city-us,84,45.290,-90.307,4196
+8029,Chelsea,SD,Faulk County,,city-us,18,45.169,-98.740,2757
+8027,Chelsea,GA,Chattooga County,,city-us,0,34.523,-85.440,309
+8028,Chelsea,PA,Delaware County,,city-us,0,39.867,-75.468,1086
+8031,Chelsea,IN,Jefferson County,,city-us,0,38.651,-85.525,567

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4895,Boyce,LA,,city-us,877,31.390,-92.669,3876
-4894,Boyce,VA,,city-us,760,39.093,-78.059,11115
-4893,Boyce,PA,,city-us,0,40.318,-80.110,213
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4895,Boyce,LA,Rapides Parish,,city-us,877,31.390,-92.669,3876
+4894,Boyce,VA,Clarke County,,city-us,760,39.093,-78.059,11115
+4893,Boyce,PA,Allegheny County,,city-us,0,40.318,-80.110,213

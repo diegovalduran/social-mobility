@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15307,Fordsville,KY,,city-us,439,37.636,-86.717,1975
-15306,Fordsville,VA,,city-us,0,38.401,-78.116,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15307,Fordsville,KY,Ohio County,,city-us,439,37.636,-86.717,1975
+15306,Fordsville,VA,Madison County,,city-us,0,38.401,-78.116,95

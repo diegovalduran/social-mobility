@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32938,Palisades,TX,,city-us,275,35.062,-101.802,2056
-32936,Palisades,WA,,city-us,0,47.419,-119.914,292
-32937,Palisades,IL,,city-us,0,41.714,-87.934,897
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32938,Palisades,TX,Randall County,,city-us,275,35.062,-101.802,2056
+32936,Palisades,WA,Douglas County,,city-us,0,47.419,-119.914,292
+32937,Palisades,IL,DuPage County,,city-us,0,41.714,-87.934,897

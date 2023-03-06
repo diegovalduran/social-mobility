@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43688,Ulmer,SC,,city-us,63,33.097,-81.208,2060
-43687,Ulmar,CA,,city-us,0,37.703,-121.715,170
-43689,Ulmer,IA,,city-us,0,42.268,-94.950,899
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43688,Ulmer,SC,Allendale County,,city-us,63,33.097,-81.208,2060
+43687,Ulmar,CA,Alameda County,,city-us,0,37.703,-121.715,170
+43689,Ulmer,IA,Sac County,,city-us,0,42.268,-94.950,899

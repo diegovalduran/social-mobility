@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16730,Gibson,AR,,city-us,3863,34.884,-92.236,5717
-16727,Gibson,OH,,city-us,2106,40.379,-84.750,1272
-16726,Gibson,WI,,city-us,1322,44.282,-87.707,2293
-16720,Gibson,MI,,city-us,1109,43.951,-84.113,2729
-16724,Gibson,GA,,city-us,630,33.233,-82.595,3341
-16731,Gibson,NC,,city-us,459,34.759,-79.611,2845
-16723,Gibson,TN,,city-us,362,35.875,-88.847,1860
-16721,Gibson,PA,,city-us,174,41.306,-78.197,179
-16725,Gibson,IA,,city-us,59,41.481,-92.394,2705
-16722,Gibson,MO,,city-us,0,36.441,-90.031,338
-16728,Gibson,MS,,city-us,0,33.840,-88.684,156
-16729,Gibson,MO,,city-us,0,36.118,-89.845,339
-16732,Gibson,PA,,city-us,0,41.803,-75.644,120
-16733,Gibson,LA,,city-us,0,29.687,-90.991,396
-16734,Gibson,OK,,city-us,0,35.871,-95.352,366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16730,Gibson,AR,Pulaski County,,city-us,3863,34.884,-92.236,5717
+16727,Gibson,OH,Mercer County,,city-us,2106,40.379,-84.750,1272
+16726,Gibson,WI,Manitowoc County,,city-us,1322,44.282,-87.707,2293
+16720,Gibson,MI,Bay County,,city-us,1109,43.951,-84.113,2729
+16724,Gibson,GA,Glascock County,,city-us,630,33.233,-82.595,3341
+16731,Gibson,NC,Scotland County,,city-us,459,34.759,-79.611,2845
+16723,Gibson,TN,Gibson County,,city-us,362,35.875,-88.847,1860
+16721,Gibson,PA,Cameron County,,city-us,174,41.306,-78.197,179
+16725,Gibson,IA,Keokuk County,,city-us,59,41.481,-92.394,2705
+16722,Gibson,MO,Dunklin County,,city-us,0,36.441,-90.031,338
+16728,Gibson,MS,Monroe County,,city-us,0,33.840,-88.684,156
+16729,Gibson,MO,Pemiscot County,,city-us,0,36.118,-89.845,339
+16732,Gibson,PA,Susquehanna County,,city-us,0,41.803,-75.644,120
+16733,Gibson,LA,Terrebonne Parish,,city-us,0,29.687,-90.991,396
+16734,Gibson,OK,Wagoner County,,city-us,0,35.871,-95.352,366

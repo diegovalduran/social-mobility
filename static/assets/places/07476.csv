@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37986,Russell Springs,KY,,city-us,2742,37.056,-85.089,3653
-37985,Russell Springs,KS,,city-us,52,38.870,-101.261,3549
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37986,Russell Springs,KY,Russell County,,city-us,2742,37.056,-85.089,3653
+37985,Russell Springs,KS,Logan County,,city-us,52,38.870,-101.261,3549

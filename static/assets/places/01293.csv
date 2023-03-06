@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6529,Call,TX,,city-us,0,30.612,-93.874,595
-6530,Call,NC,,city-us,0,36.146,-81.078,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6529,Call,TX,Newton County,,city-us,0,30.612,-93.874,595
+6530,Call,NC,Wilkes County,,city-us,0,36.146,-81.078,86

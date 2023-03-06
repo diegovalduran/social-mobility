@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29654,Mosheim,TN,,city-us,2484,36.190,-82.958,5651
-29653,Mosheim,TX,,city-us,0,31.626,-97.600,466
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29654,Mosheim,TN,Greene County,,city-us,2484,36.190,-82.958,5651
+29653,Mosheim,TX,Bosque County,,city-us,0,31.626,-97.600,466

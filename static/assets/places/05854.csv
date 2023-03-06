@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30112,Murfreesboro,TN,,city-us,157519,35.846,-86.390,24177
-30110,Murfreesboro,NC,,city-us,2512,36.442,-77.099,6481
-30111,Murfreesboro,AR,,city-us,1451,34.062,-93.690,3195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30112,Murfreesboro,TN,Rutherford County,,city-us,157519,35.846,-86.390,24177
+30110,Murfreesboro,NC,Hertford County,,city-us,2512,36.442,-77.099,6481
+30111,Murfreesboro,AR,Pike County,,city-us,1451,34.062,-93.690,3195

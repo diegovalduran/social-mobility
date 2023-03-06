@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37380,Rolling Green,MN,,city-us,246,43.627,-94.562,1980
-37381,Rolling Green,ND,,city-us,82,48.144,-101.581,0
-37379,Rolling Green,SD,,city-us,31,45.781,-101.896,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37380,Rolling Green,MN,Martin County,,city-us,246,43.627,-94.562,1980
+37381,Rolling Green,ND,Ward County,,city-us,82,48.144,-101.581,0
+37379,Rolling Green,SD,Corson County,,city-us,31,45.781,-101.896,0

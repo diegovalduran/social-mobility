@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30767,New Middleton,OH,,city-us,0,40.864,-80.915,135
-30768,New Middleton,TN,,city-us,0,36.175,-86.006,543
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30767,New Middleton,OH,Columbiana County,,city-us,0,40.864,-80.915,135
+30768,New Middleton,TN,Smith County,,city-us,0,36.175,-86.006,543

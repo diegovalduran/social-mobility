@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-812,Alston,GA,,city-us,175,32.081,-82.478,2413
-811,Alston,OR,,city-us,0,46.099,-123.047,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+812,Alston,GA,Montgomery County,,city-us,175,32.081,-82.478,2413
+811,Alston,OR,Columbia County,,city-us,0,46.099,-123.047,248

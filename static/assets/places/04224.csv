@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21677,Ivan,AR,,city-us,135,33.912,-92.425,500
-21678,Ivan,WV,,city-us,0,38.984,-81.343,158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21677,Ivan,AR,Dallas County,,city-us,135,33.912,-92.425,500
+21678,Ivan,WV,Wirt County,,city-us,0,38.984,-81.343,158

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29800,Mount Liberty,WV,,city-us,0,39.079,-80.022,95
-29801,Mount Liberty,IN,,city-us,0,39.184,-86.130,286
-29802,Mount Liberty,OH,,city-us,0,40.347,-82.630,565
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29800,Mount Liberty,WV,Barbour County,,city-us,0,39.079,-80.022,95
+29801,Mount Liberty,IN,Brown County,,city-us,0,39.184,-86.130,286
+29802,Mount Liberty,OH,Knox County,,city-us,0,40.347,-82.630,565

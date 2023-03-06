@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41036,St. Jo,TX,,city-us,901,33.695,-97.523,4795
-41037,St. Joe,IN,,city-us,416,41.315,-84.901,4641
-41040,St. Joe,AR,,city-us,130,36.030,-92.805,8237
-41038,St. Joe,WI,,city-us,0,43.854,-88.189,574
-41039,St. Joe,IL,,city-us,0,38.233,-90.154,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41036,St. Jo,TX,Montague County,,city-us,901,33.695,-97.523,4795
+41037,St. Joe,IN,DeKalb County,,city-us,416,41.315,-84.901,4641
+41040,St. Joe,AR,Searcy County,,city-us,130,36.030,-92.805,8237
+41038,St. Joe,WI,Fond du Lac County,,city-us,0,43.854,-88.189,574
+41039,St. Joe,IL,Monroe County,,city-us,0,38.233,-90.154,231

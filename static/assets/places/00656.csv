@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3303,Bello,,Colombia,city-international,371591,6.332,-75.558,14356
-3368,Belo,WV,,city-us,0,37.774,-82.237,993
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3303,Bello,,,Colombia,city-international,371591,6.332,-75.558,14356
+3368,Belo,WV,Mingo County,,city-us,0,37.774,-82.237,993

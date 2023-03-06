@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28180,Middlecreek,PA,,city-us,2044,40.821,-76.971,192
-28181,Middlecreek,PA,,city-us,823,39.967,-79.273,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28180,Middlecreek,PA,Snyder County,,city-us,2044,40.821,-76.971,192
+28181,Middlecreek,PA,Somerset County,,city-us,823,39.967,-79.273,192

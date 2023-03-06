@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44982,Walls,MS,,city-us,1362,34.958,-90.152,3358
-44983,Walls,MN,,city-us,40,45.723,-96.583,1771
-44984,Walls,LA,,city-us,0,30.587,-91.326,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44982,Walls,MS,DeSoto County,,city-us,1362,34.958,-90.152,3358
+44983,Walls,MN,Traverse County,,city-us,40,45.723,-96.583,1771
+44984,Walls,LA,West Baton Rouge Parish,,city-us,0,30.587,-91.326,92

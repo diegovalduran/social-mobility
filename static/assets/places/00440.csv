@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2326,Ballentine,MS,,city-us,0,34.394,-90.096,239
-2327,Ballentine,SC,,city-us,0,34.124,-81.237,687
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2326,Ballentine,MS,Panola County,,city-us,0,34.394,-90.096,239
+2327,Ballentine,SC,Richland County,,city-us,0,34.124,-81.237,687

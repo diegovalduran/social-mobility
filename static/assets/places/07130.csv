@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36130,Red Wing,MN,,city-us,16763,44.562,-92.534,11986
-36131,Red Wing,CO,,city-us,0,37.736,-105.290,467
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36130,Red Wing,MN,Goodhue County,,city-us,16763,44.562,-92.534,11986
+36131,Red Wing,CO,Huerfano County,,city-us,0,37.736,-105.290,467

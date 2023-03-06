@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4910,Boydsville,MO,,city-us,0,38.816,-92.111,406
-4911,Boydsville,KY,,city-us,0,36.502,-88.523,327
-4912,Boydsville,TN,,city-us,0,36.502,-88.523,327
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4910,Boydsville,MO,Callaway County,,city-us,0,38.816,-92.111,406
+4911,Boydsville,KY,Graves County,,city-us,0,36.502,-88.523,327
+4912,Boydsville,TN,Weakley County,,city-us,0,36.502,-88.523,327

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43051,Todd,PA,,city-us,1600,39.974,-77.957,173
-43052,Todd,MN,,city-us,1489,46.943,-95.112,1959
-43049,Tod,OH,,city-us,634,40.841,-83.094,1337
-43050,Todd,NC,,city-us,0,36.309,-81.595,3290
-43053,Todd,PA,,city-us,0,40.260,-78.076,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43051,Todd,PA,Fulton County,,city-us,1600,39.974,-77.957,173
+43052,Todd,MN,Hubbard County,,city-us,1489,46.943,-95.112,1959
+43049,Tod,OH,Crawford County,,city-us,634,40.841,-83.094,1337
+43050,Todd,NC,Ashe County,,city-us,0,36.309,-81.595,3290
+43053,Todd,PA,Huntingdon County,,city-us,0,40.260,-78.076,229

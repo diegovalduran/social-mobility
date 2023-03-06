@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41995,Summitville,IN,,city-us,982,40.339,-85.644,3896
-41994,Summitville,OH,,city-us,108,40.678,-80.886,4090
-41993,Summitville,TN,,city-us,0,35.559,-85.993,479
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41995,Summitville,IN,Madison County,,city-us,982,40.339,-85.644,3896
+41994,Summitville,OH,Columbiana County,,city-us,108,40.678,-80.886,4090
+41993,Summitville,TN,Coffee County,,city-us,0,35.559,-85.993,479

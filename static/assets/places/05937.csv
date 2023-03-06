@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30451,Nero,WV,,city-us,0,39.176,-78.439,299
-30452,Nero,KY,,city-us,0,37.750,-82.748,200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30451,Nero,WV,Hampshire County,,city-us,0,39.176,-78.439,299
+30452,Nero,KY,Johnson County,,city-us,0,37.750,-82.748,200

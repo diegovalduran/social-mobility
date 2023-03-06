@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21206,Idaville,IN,,city-us,354,40.757,-86.649,589
-21204,Idaville,PA,,city-us,165,40.015,-77.203,579
-21205,Idaville,OR,,city-us,0,45.510,-123.866,278
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21206,Idaville,IN,White County,,city-us,354,40.757,-86.649,589
+21204,Idaville,PA,Adams County,,city-us,165,40.015,-77.203,579
+21205,Idaville,OR,Tillamook County,,city-us,0,45.510,-123.866,278

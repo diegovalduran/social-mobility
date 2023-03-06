@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12199,Dresden,,Germany,city-international,554907,51.050,13.740,60893
-12197,Dresden,TN,,city-us,3025,36.291,-88.708,3729
-12193,Dresden,ME,,city-us,1761,44.086,-69.737,5658
-12194,Dresden,OH,,city-us,1654,40.121,-82.011,12977
-12196,Dresden,NY,,city-us,539,43.591,-73.469,4580
-12192,Dresden,KS,,city-us,320,37.689,-98.419,864
-12198,Dresden,NY,,city-us,296,42.684,-76.956,3876
-12191,Dresden,KS,,city-us,97,39.602,-100.470,370
-12190,Dresden,ND,,city-us,0,48.827,-98.481,409
-12195,Dresden,MO,,city-us,0,38.753,-93.319,278
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12199,Dresden,,,Germany,city-international,554907,51.050,13.740,60893
+12197,Dresden,TN,Weakley County,,city-us,3025,36.291,-88.708,3729
+12193,Dresden,ME,Lincoln County,,city-us,1761,44.086,-69.737,5658
+12194,Dresden,OH,Muskingum County,,city-us,1654,40.121,-82.011,12977
+12196,Dresden,NY,Washington County,,city-us,539,43.591,-73.469,4580
+12192,Dresden,KS,Kingman County,,city-us,320,37.689,-98.419,864
+12198,Dresden,NY,Yates County,,city-us,296,42.684,-76.956,3876
+12191,Dresden,KS,Decatur County,,city-us,97,39.602,-100.470,370
+12190,Dresden,ND,Cavalier County,,city-us,0,48.827,-98.481,409
+12195,Dresden,MO,Pettis County,,city-us,0,38.753,-93.319,278

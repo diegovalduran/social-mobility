@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30218,Nancy,,France,city-international,104885,48.694,6.185,18409
-30216,Nancy,VA,,city-us,0,37.130,-82.278,252
-30217,Nancy,KY,,city-us,0,37.072,-84.748,505
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30218,Nancy,,,France,city-international,104885,48.694,6.185,18409
+30216,Nancy,VA,Dickenson County,,city-us,0,37.130,-82.278,252
+30217,Nancy,KY,Pulaski County,,city-us,0,37.072,-84.748,505

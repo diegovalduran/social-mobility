@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2983,Beaver Dam,WI,,city-us,4044,43.445,-88.814,10547
-2986,Beaver Dam,KY,,city-us,3536,37.402,-86.876,2518
-2985,Beaver Dam,AZ,,city-us,2076,36.899,-113.933,4498
-2981,Beaver Dam,TX,,city-us,0,33.636,-94.671,974
-2982,Beaver Dam,UT,,city-us,0,41.809,-112.059,361
-2984,Beaver Dam,IN,,city-us,0,41.086,-86.013,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2983,Beaver Dam,WI,Dodge County,,city-us,4044,43.445,-88.814,10547
+2986,Beaver Dam,KY,Ohio County,,city-us,3536,37.402,-86.876,2518
+2985,Beaver Dam,AZ,Mohave County,,city-us,2076,36.899,-113.933,4498
+2981,Beaver Dam,TX,Bowie County,,city-us,0,33.636,-94.671,974
+2982,Beaver Dam,UT,Box Elder County,,city-us,0,41.809,-112.059,361
+2984,Beaver Dam,IN,Kosciusko County,,city-us,0,41.086,-86.013,318

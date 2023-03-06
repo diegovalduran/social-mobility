@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2344,Balsam,MN,,city-us,551,47.490,-93.411,121
-2345,Balsam,NC,,city-us,49,35.256,-83.052,4369
-2342,Balsam,MN,,city-us,29,46.814,-93.101,121
-2343,Balsam,MI,,city-us,0,46.208,-88.381,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2344,Balsam,MN,Itasca County,,city-us,551,47.490,-93.411,121
+2345,Balsam,NC,Jackson County,,city-us,49,35.256,-83.052,4369
+2342,Balsam,MN,Aitkin County,,city-us,29,46.814,-93.101,121
+2343,Balsam,MI,Iron County,,city-us,0,46.208,-88.381,272

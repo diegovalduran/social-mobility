@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26076,Lykens,PA,,city-us,1860,40.567,-76.701,2522
-26075,Lykens,OH,,city-us,619,40.943,-83.026,1351
-26077,Lykens,WI,,city-us,0,45.424,-92.469,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26076,Lykens,PA,Dauphin County,,city-us,1860,40.567,-76.701,2522
+26075,Lykens,OH,Crawford County,,city-us,619,40.943,-83.026,1351
+26077,Lykens,WI,Polk County,,city-us,0,45.424,-92.469,203

@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45502,Waterville,ME,,city-us,15959,44.552,-69.632,14565
-45505,Waterville,OH,,city-us,7069,41.505,-83.780,1415
-45508,Waterville,NY,,city-us,1532,42.931,-75.380,9110
-45501,Waterville,WA,,city-us,1131,47.647,-120.071,3980
-45509,Waterville,WI,,city-us,835,44.635,-92.047,2084
-45507,Waterville,KS,,city-us,772,39.700,-96.747,3846
-45503,Waterville,VT,,city-us,691,44.738,-72.762,2844
-45504,Waterville,MN,,city-us,674,44.254,-93.596,2011
-45506,Waterville,PA,,city-us,264,41.336,-77.344,5791
-45499,Waterville,IA,,city-us,108,43.208,-91.298,3708
-45500,Waterville,TN,,city-us,0,35.108,-84.864,445
-45510,Waterville,WI,,city-us,0,43.020,-88.438,126
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45502,Waterville,ME,Kennebec County,,city-us,15959,44.552,-69.632,14565
+45505,Waterville,OH,Lucas County,,city-us,7069,41.505,-83.780,1415
+45508,Waterville,NY,Oneida County,,city-us,1532,42.931,-75.380,9110
+45501,Waterville,WA,Douglas County,,city-us,1131,47.647,-120.071,3980
+45509,Waterville,WI,Pepin County,,city-us,835,44.635,-92.047,2084
+45507,Waterville,KS,Marshall County,,city-us,772,39.700,-96.747,3846
+45503,Waterville,VT,Lamoille County,,city-us,691,44.738,-72.762,2844
+45504,Waterville,MN,Le Sueur County,,city-us,674,44.254,-93.596,2011
+45506,Waterville,PA,Lycoming County,,city-us,264,41.336,-77.344,5791
+45499,Waterville,IA,Allamakee County,,city-us,108,43.208,-91.298,3708
+45500,Waterville,TN,Bradley County,,city-us,0,35.108,-84.864,445
+45510,Waterville,WI,Waukesha County,,city-us,0,43.020,-88.438,126

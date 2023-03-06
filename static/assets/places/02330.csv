@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11740,Diboll,TX,,city-us,4449,31.187,-94.781,3204
-11739,Dibble,OK,,city-us,925,35.033,-97.630,4711
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11740,Diboll,TX,Angelina County,,city-us,4449,31.187,-94.781,3204
+11739,Dibble,OK,McClain County,,city-us,925,35.033,-97.630,4711

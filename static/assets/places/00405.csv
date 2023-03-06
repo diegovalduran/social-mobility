@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2160,Backus,MI,,city-us,300,44.273,-84.536,2639
-2158,Backus,MN,,city-us,267,46.820,-94.516,3172
-2159,Backus,WV,,city-us,0,37.854,-80.975,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2160,Backus,MI,Roscommon County,,city-us,300,44.273,-84.536,2639
+2158,Backus,MN,Cass County,,city-us,267,46.820,-94.516,3172
+2159,Backus,WV,Fayette County,,city-us,0,37.854,-80.975,195

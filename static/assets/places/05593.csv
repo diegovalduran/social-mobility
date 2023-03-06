@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28827,Mineral Springs,NC,,city-us,3235,34.938,-80.669,2661
-28822,Mineral Springs,AR,,city-us,1080,33.875,-93.914,2749
-28826,Mineral Springs,ND,,city-us,24,46.315,-103.229,0
-28819,Mineral Springs,OH,,city-us,0,38.887,-83.329,3461
-28820,Mineral Springs,IN,,city-us,0,39.132,-85.861,210
-28821,Mineral Springs,PA,,city-us,0,40.998,-78.364,239
-28823,Mineral Springs,IN,,city-us,0,41.326,-85.744,210
-28824,Mineral Springs,TN,,city-us,0,35.090,-85.534,92
-28825,Mineral Springs,TN,,city-us,0,36.162,-85.225,93
-28828,Mineral Springs,WV,,city-us,0,38.123,-82.582,103
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28827,Mineral Springs,NC,Union County,,city-us,3235,34.938,-80.669,2661
+28822,Mineral Springs,AR,Howard County,,city-us,1080,33.875,-93.914,2749
+28826,Mineral Springs,ND,Slope County,,city-us,24,46.315,-103.229,0
+28819,Mineral Springs,OH,Adams County,,city-us,0,38.887,-83.329,3461
+28820,Mineral Springs,IN,Bartholomew County,,city-us,0,39.132,-85.861,210
+28821,Mineral Springs,PA,Clearfield County,,city-us,0,40.998,-78.364,239
+28823,Mineral Springs,IN,Kosciusko County,,city-us,0,41.326,-85.744,210
+28824,Mineral Springs,TN,Marion County,,city-us,0,35.090,-85.534,92
+28825,Mineral Springs,TN,Overton County,,city-us,0,36.162,-85.225,93
+28828,Mineral Springs,WV,Wayne County,,city-us,0,38.123,-82.582,103

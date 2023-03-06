@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35424,Princeville,HI,,city-us,1969,22.218,-159.479,3472
-35425,Princeville,IL,,city-us,1620,40.930,-89.758,2420
-35423,Princeville,NC,,city-us,1246,35.890,-77.532,7240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35424,Princeville,HI,Kauai County,,city-us,1969,22.218,-159.479,3472
+35425,Princeville,IL,Peoria County,,city-us,1620,40.930,-89.758,2420
+35423,Princeville,NC,Edgecombe County,,city-us,1246,35.890,-77.532,7240

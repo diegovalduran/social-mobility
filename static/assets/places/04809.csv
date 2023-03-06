@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24545,Letcher,SD,,city-us,151,43.897,-98.139,3280
-24544,Letcher,KY,,city-us,0,37.145,-82.959,132
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24545,Letcher,SD,Sanborn County,,city-us,151,43.897,-98.139,3280
+24544,Letcher,KY,Letcher County,,city-us,0,37.145,-82.959,132

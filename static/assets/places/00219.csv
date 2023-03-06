@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1150,Annandale,VA,,city-us,41869,38.830,-77.196,15802
-1152,Annandale,MN,,city-us,3370,45.263,-94.124,4475
-1151,Annandale,NJ,,city-us,1742,40.641,-74.881,3184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1150,Annandale,VA,Fairfax County,,city-us,41869,38.830,-77.196,15802
+1152,Annandale,MN,Wright County,,city-us,3370,45.263,-94.124,4475
+1151,Annandale,NJ,Hunterdon County,,city-us,1742,40.641,-74.881,3184

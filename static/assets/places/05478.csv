@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28028,Merritt,MI,,city-us,1341,43.518,-83.749,2695
-28032,Merritt,IL,,city-us,48,39.714,-90.416,118
-28029,Merritt,WA,,city-us,0,47.781,-120.843,447
-28030,Merritt,MO,,city-us,0,36.899,-92.869,479
-28031,Merritt,MI,,city-us,0,44.330,-84.945,2741
-28033,Merritt,CA,,city-us,0,38.614,-121.761,578
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28028,Merritt,MI,Bay County,,city-us,1341,43.518,-83.749,2695
+28032,Merritt,IL,Scott County,,city-us,48,39.714,-90.416,118
+28029,Merritt,WA,Chelan County,,city-us,0,47.781,-120.843,447
+28030,Merritt,MO,Douglas County,,city-us,0,36.899,-92.869,479
+28031,Merritt,MI,Missaukee County,,city-us,0,44.330,-84.945,2741
+28033,Merritt,CA,Yolo County,,city-us,0,38.614,-121.761,578

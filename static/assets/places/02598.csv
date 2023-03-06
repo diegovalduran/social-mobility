@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12870,Eckles,MN,,city-us,2021,47.549,-95.003,2837
-12855,Eccles,WV,,city-us,0,37.783,-81.266,663
-12866,Echols,KY,,city-us,0,37.334,-86.964,330
-12867,Echols,MN,,city-us,0,43.924,-94.675,105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12870,Eckles,MN,Beltrami County,,city-us,2021,47.549,-95.003,2837
+12855,Eccles,WV,Raleigh County,,city-us,0,37.783,-81.266,663
+12866,Echols,KY,Ohio County,,city-us,0,37.334,-86.964,330
+12867,Echols,MN,Watonwan County,,city-us,0,43.924,-94.675,105

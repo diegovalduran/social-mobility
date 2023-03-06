@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37047,Robinson,PA,,city-us,15447,40.458,-80.134,188
-37054,Robinson,TX,,city-us,12755,31.468,-97.115,2350
-37049,Robinson,IL,,city-us,9319,39.015,-87.750,984
-37055,Robinson,MI,,city-us,6394,42.994,-86.087,2311
-37057,Robinson,PA,,city-us,1696,40.415,-80.301,188
-37052,Robinson,PA,,city-us,457,40.404,-79.139,310
-37048,Robinson,KS,,city-us,372,39.820,-95.390,482
-37053,Robinson,ND,,city-us,31,47.143,-99.781,3101
-37056,Robinson,MN,,city-us,20,47.859,-92.042,466
-37050,Robinson,IA,,city-us,0,42.342,-91.579,1075
-37051,Robinson,KY,,city-us,0,38.491,-84.348,348
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37047,Robinson,PA,Allegheny County,,city-us,15447,40.458,-80.134,188
+37054,Robinson,TX,McLennan County,,city-us,12755,31.468,-97.115,2350
+37049,Robinson,IL,Crawford County,,city-us,9319,39.015,-87.750,984
+37055,Robinson,MI,Ottawa County,,city-us,6394,42.994,-86.087,2311
+37057,Robinson,PA,Washington County,,city-us,1696,40.415,-80.301,188
+37052,Robinson,PA,Indiana County,,city-us,457,40.404,-79.139,310
+37048,Robinson,KS,Brown County,,city-us,372,39.820,-95.390,482
+37053,Robinson,ND,Kidder County,,city-us,31,47.143,-99.781,3101
+37056,Robinson,MN,St. Louis County,,city-us,20,47.859,-92.042,466
+37050,Robinson,IA,Delaware County,,city-us,0,42.342,-91.579,1075
+37051,Robinson,KY,Harrison County,,city-us,0,38.491,-84.348,348

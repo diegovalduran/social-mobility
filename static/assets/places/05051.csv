@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25918,Loyalton,CA,,city-us,753,39.676,-120.241,6493
-25916,Loyalton,PA,,city-us,0,40.762,-76.569,258
-25917,Loyalton,SD,,city-us,0,45.286,-99.279,410
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25918,Loyalton,CA,Sierra County,,city-us,753,39.676,-120.241,6493
+25916,Loyalton,PA,Dauphin County,,city-us,0,40.762,-76.569,258
+25917,Loyalton,SD,Edmunds County,,city-us,0,45.286,-99.279,410

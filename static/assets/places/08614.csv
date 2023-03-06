@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43211,Trail Creek,IN,,city-us,2055,41.698,-86.859,3768
-43210,Trail Creek,MO,,city-us,192,40.337,-93.827,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43211,Trail Creek,IN,LaPorte County,,city-us,2055,41.698,-86.859,3768
+43210,Trail Creek,MO,Harrison County,,city-us,192,40.337,-93.827,0

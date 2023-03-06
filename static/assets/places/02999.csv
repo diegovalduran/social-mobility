@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15001,Five Forks,SC,,city-us,19158,34.805,-82.230,5204
-14998,Five Forks,WV,,city-us,0,38.969,-81.061,271
-14999,Five Forks,VA,,city-us,0,38.777,-77.276,360
-15000,Five Forks,PA,,city-us,0,39.801,-77.609,382
-15002,Five Forks,GA,,city-us,0,33.886,-84.060,952
-15003,Five Forks,VA,,city-us,0,38.299,-78.135,95
-15004,Five Forks,VA,,city-us,0,37.579,-78.859,106
-15005,Five Forks,VA,,city-us,0,36.584,-80.278,157
-15006,Five Forks,VA,,city-us,0,37.238,-78.577,93
-15007,Five Forks,VA,,city-us,0,38.650,-78.168,119
-15008,Five Forks,WV,,city-us,0,39.176,-80.978,92
-15009,Five Forks,NC,,city-us,0,34.472,-79.200,220
-15010,Five Forks,WV,,city-us,0,39.006,-80.100,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15001,Five Forks,SC,Greenville County,,city-us,19158,34.805,-82.230,5204
+14998,Five Forks,WV,Calhoun County,,city-us,0,38.969,-81.061,271
+14999,Five Forks,VA,Fairfax County,,city-us,0,38.777,-77.276,360
+15000,Five Forks,PA,Franklin County,,city-us,0,39.801,-77.609,382
+15002,Five Forks,GA,Gwinnett County,,city-us,0,33.886,-84.060,952
+15003,Five Forks,VA,Madison County,,city-us,0,38.299,-78.135,95
+15004,Five Forks,VA,Nelson County,,city-us,0,37.579,-78.859,106
+15005,Five Forks,VA,Patrick County,,city-us,0,36.584,-80.278,157
+15006,Five Forks,VA,Prince Edward County,,city-us,0,37.238,-78.577,93
+15007,Five Forks,VA,Rappahannock County,,city-us,0,38.650,-78.168,119
+15008,Five Forks,WV,Ritchie County,,city-us,0,39.176,-80.978,92
+15009,Five Forks,NC,Robeson County,,city-us,0,34.472,-79.200,220
+15010,Five Forks,WV,Upshur County,,city-us,0,39.006,-80.100,91

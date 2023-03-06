@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2348,Baltic,CT,,city-us,1270,41.610,-72.082,2129
-2347,Baltic,SD,,city-us,1265,43.761,-96.740,4483
-2346,Baltic,OH,,city-us,836,40.444,-81.701,2202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2348,Baltic,CT,Southeastern Connecticut Planning Region,,city-us,1270,41.610,-72.082,2129
+2347,Baltic,SD,Minnehaha County,,city-us,1265,43.761,-96.740,4483
+2346,Baltic,OH,Coshocton County / Holmes County / Tuscarawas County,,city-us,836,40.444,-81.701,2202

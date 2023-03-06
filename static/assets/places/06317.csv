@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32259,Olustee,OK,,city-us,466,34.549,-99.422,2119
-32258,Olustee,FL,,city-us,0,30.204,-82.429,691
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32259,Olustee,OK,Jackson County,,city-us,466,34.549,-99.422,2119
+32258,Olustee,FL,Baker County,,city-us,0,30.204,-82.429,691

@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20994,Humboldt,TN,,city-us,7855,35.827,-88.904,5073
-20995,Humboldt,IA,,city-us,4773,42.721,-94.215,12526
-20991,Humboldt,WI,,city-us,1311,44.502,-87.826,2258
-21000,Humboldt,NE,,city-us,788,40.164,-95.945,3463
-20999,Humboldt,SD,,city-us,568,43.645,-97.074,3579
-20998,Humboldt,MI,,city-us,418,46.362,-87.922,1814
-20993,Humboldt,IL,,city-us,357,39.604,-88.319,2037
-20992,Humboldt,MN,,city-us,283,46.675,-96.351,1840
-20990,Humboldt,KS,,city-us,270,37.833,-95.414,434
-20996,Humboldt,MN,,city-us,40,48.921,-97.093,3111
-20997,Humboldt,PA,,city-us,0,40.937,-76.043,105
-21001,Humboldt,OH,,city-us,0,39.277,-83.314,314
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20994,Humboldt,TN,Gibson County / Madison County,,city-us,7855,35.827,-88.904,5073
+20995,Humboldt,IA,Humboldt County,,city-us,4773,42.721,-94.215,12526
+20991,Humboldt,WI,Brown County,,city-us,1311,44.502,-87.826,2258
+21000,Humboldt,NE,Richardson County,,city-us,788,40.164,-95.945,3463
+20999,Humboldt,SD,Minnehaha County,,city-us,568,43.645,-97.074,3579
+20998,Humboldt,MI,Marquette County,,city-us,418,46.362,-87.922,1814
+20993,Humboldt,IL,Coles County,,city-us,357,39.604,-88.319,2037
+20992,Humboldt,MN,Clay County,,city-us,283,46.675,-96.351,1840
+20990,Humboldt,KS,Allen County,,city-us,270,37.833,-95.414,434
+20996,Humboldt,MN,Kittson County,,city-us,40,48.921,-97.093,3111
+20997,Humboldt,PA,Luzerne County,,city-us,0,40.937,-76.043,105
+21001,Humboldt,OH,Ross County,,city-us,0,39.277,-83.314,314

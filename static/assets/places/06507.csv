@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33177,Parkersburg,WV,,city-us,29403,39.267,-81.562,17193
-33174,Parkersburg,IA,,city-us,2014,42.577,-92.787,8186
-33176,Parkersburg,IL,,city-us,186,38.590,-88.057,1745
-33175,Parkersburg,IN,,city-us,0,39.873,-86.903,403
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33177,Parkersburg,WV,Wood County,,city-us,29403,39.267,-81.562,17193
+33174,Parkersburg,IA,Butler County,,city-us,2014,42.577,-92.787,8186
+33176,Parkersburg,IL,Richland County,,city-us,186,38.590,-88.057,1745
+33175,Parkersburg,IN,Montgomery County,,city-us,0,39.873,-86.903,403

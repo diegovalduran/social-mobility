@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37042,Robertsville,NJ,,city-us,12365,40.346,-74.288,1868
-37041,Robertsville,MO,,city-us,0,38.415,-90.814,443
-37043,Robertsville,OH,,city-us,0,40.763,-81.189,536
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37042,Robertsville,NJ,Monmouth County,,city-us,12365,40.346,-74.288,1868
+37041,Robertsville,MO,Franklin County,,city-us,0,38.415,-90.814,443
+37043,Robertsville,OH,Stark County,,city-us,0,40.763,-81.189,536

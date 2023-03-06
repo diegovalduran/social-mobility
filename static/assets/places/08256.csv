@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41746,Strong,ME,,city-us,1134,44.786,-70.209,5140
-41745,Strong,KS,,city-us,531,38.469,-96.515,527
-41750,Strong,AR,,city-us,409,33.108,-92.335,2133
-41748,Strong,PA,,city-us,205,40.799,-76.438,444
-41749,Strong,ND,,city-us,37,47.087,-99.289,0
-41747,Strong,MS,,city-us,0,33.695,-88.604,253
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41746,Strong,ME,Franklin County,,city-us,1134,44.786,-70.209,5140
+41745,Strong,KS,Chase County,,city-us,531,38.469,-96.515,527
+41750,Strong,AR,Union County,,city-us,409,33.108,-92.335,2133
+41748,Strong,PA,Northumberland County,,city-us,205,40.799,-76.438,444
+41749,Strong,ND,Stutsman County,,city-us,37,47.087,-99.289,0
+41747,Strong,MS,Monroe County,,city-us,0,33.695,-88.604,253

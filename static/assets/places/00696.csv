@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3565,Benwood,WV,,city-us,1245,40.018,-80.734,15938
-3564,Benwood,IN,,city-us,0,39.561,-87.114,450
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3565,Benwood,WV,Marshall County,,city-us,1245,40.018,-80.734,15938
+3564,Benwood,IN,Clay County,,city-us,0,39.561,-87.114,450

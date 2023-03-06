@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13471,Elm Creek,TX,,city-us,3902,28.774,-100.492,1913
-13468,Elm Creek,NE,,city-us,986,40.719,-99.372,4774
-13472,Elm Creek,KS,,city-us,867,38.919,-97.659,0
-13470,Elm Creek,MN,,city-us,161,43.709,-94.802,1818
-13469,Elm Creek,KS,,city-us,151,39.783,-96.643,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13471,Elm Creek,TX,Maverick County,,city-us,3902,28.774,-100.492,1913
+13468,Elm Creek,NE,Buffalo County,,city-us,986,40.719,-99.372,4774
+13472,Elm Creek,KS,Saline County,,city-us,867,38.919,-97.659,0
+13470,Elm Creek,MN,Martin County,,city-us,161,43.709,-94.802,1818
+13469,Elm Creek,KS,Marshall County,,city-us,151,39.783,-96.643,0

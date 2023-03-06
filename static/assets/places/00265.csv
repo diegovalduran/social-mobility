@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1386,Arden,DE,,city-us,428,39.809,-75.487,9399
-1381,Arden,WV,,city-us,0,39.210,-79.993,584
-1382,Arden,WV,,city-us,0,39.416,-78.043,422
-1383,Arden,NC,,city-us,0,35.466,-82.516,1190
-1384,Arden,NV,,city-us,0,36.018,-115.230,2202
-1385,Arden,MO,,city-us,0,36.985,-92.805,532
-1387,Arden,WA,,city-us,0,48.460,-117.876,440
-1397,Ardon,IA,,city-us,0,41.395,-91.189,825
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1386,Arden,DE,New Castle County,,city-us,428,39.809,-75.487,9399
+1381,Arden,WV,Barbour County,,city-us,0,39.210,-79.993,584
+1382,Arden,WV,Berkeley County,,city-us,0,39.416,-78.043,422
+1383,Arden,NC,Buncombe County,,city-us,0,35.466,-82.516,1190
+1384,Arden,NV,Clark County,,city-us,0,36.018,-115.230,2202
+1385,Arden,MO,Douglas County,,city-us,0,36.985,-92.805,532
+1387,Arden,WA,Stevens County,,city-us,0,48.460,-117.876,440
+1397,Ardon,IA,Muscatine County,,city-us,0,41.395,-91.189,825

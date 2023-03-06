@@ -1,32 +1,32 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39338,Sharon,OH,,city-us,16930,40.101,-83.013,238
-39347,Sharon,PA,,city-us,13032,41.233,-80.493,8259
-39355,Sharon,OH,,city-us,9017,40.855,-82.694,238
-39350,Sharon,MA,,city-us,6132,42.124,-71.179,13642
-39346,Sharon,OH,,city-us,6012,41.102,-81.737,238
-39337,Sharon,IL,,city-us,2310,39.051,-89.104,959
-39353,Sharon,WI,,city-us,2117,44.627,-89.412,2170
-39341,Sharon,MS,,city-us,1870,31.790,-89.099,617
-39361,Sharon,MI,,city-us,1801,42.207,-84.082,3914
-39357,Sharon,NY,,city-us,1701,42.777,-74.613,4431
-39363,Sharon,VT,,city-us,1573,43.788,-72.435,4115
-39362,Sharon,TN,,city-us,952,36.233,-88.825,2175
-39360,Sharon,WI,,city-us,874,42.537,-88.718,2054
-39354,Sharon,PA,,city-us,782,41.958,-78.137,2588
-39343,Sharon,MN,,city-us,639,44.413,-93.818,1980
-39351,Sharon,CT,,city-us,484,41.879,-73.462,6736
-39365,Sharon,SC,,city-us,467,34.951,-81.341,2699
-39339,Sharon,NH,,city-us,356,42.816,-71.934,3278
-39335,Sharon,KS,,city-us,294,37.291,-98.406,1029
-39364,Sharon,OK,,city-us,130,36.276,-99.336,1771
-39359,Sharon,GA,,city-us,106,33.560,-82.795,2416
-39358,Sharon,ND,,city-us,89,47.597,-97.894,3198
-39340,Sharon,SD,,city-us,72,43.299,-97.816,0
-39336,Sharon,IN,,city-us,0,40.554,-86.391,118
-39342,Sharon,WV,,city-us,0,38.159,-81.447,1866
-39344,Sharon,CA,,city-us,0,37.098,-120.130,350
-39345,Sharon,MS,,city-us,0,32.658,-89.936,668
-39348,Sharon,NJ,,city-us,0,40.206,-74.536,572
-39349,Sharon,OH,,city-us,0,39.736,-81.565,253
-39352,Sharon,VA,,city-us,0,36.658,-79.530,94
-39356,Sharon,MO,,city-us,0,39.301,-93.133,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39338,Sharon,OH,Franklin County,,city-us,16930,40.101,-83.013,238
+39347,Sharon,PA,Mercer County,,city-us,13032,41.233,-80.493,8259
+39355,Sharon,OH,Richland County,,city-us,9017,40.855,-82.694,238
+39350,Sharon,MA,Norfolk County,,city-us,6132,42.124,-71.179,13642
+39346,Sharon,OH,Medina County,,city-us,6012,41.102,-81.737,238
+39337,Sharon,IL,Fayette County,,city-us,2310,39.051,-89.104,959
+39353,Sharon,WI,Portage County,,city-us,2117,44.627,-89.412,2170
+39341,Sharon,MS,Jones County,,city-us,1870,31.790,-89.099,617
+39361,Sharon,MI,Washtenaw County,,city-us,1801,42.207,-84.082,3914
+39357,Sharon,NY,Schoharie County,,city-us,1701,42.777,-74.613,4431
+39363,Sharon,VT,Windsor County,,city-us,1573,43.788,-72.435,4115
+39362,Sharon,TN,Weakley County,,city-us,952,36.233,-88.825,2175
+39360,Sharon,WI,Walworth County,,city-us,874,42.537,-88.718,2054
+39354,Sharon,PA,Potter County,,city-us,782,41.958,-78.137,2588
+39343,Sharon,MN,Le Sueur County,,city-us,639,44.413,-93.818,1980
+39351,Sharon,CT,Northwest Hills Planning Region,,city-us,484,41.879,-73.462,6736
+39365,Sharon,SC,York County,,city-us,467,34.951,-81.341,2699
+39339,Sharon,NH,Hillsborough County,,city-us,356,42.816,-71.934,3278
+39335,Sharon,KS,Barber County,,city-us,294,37.291,-98.406,1029
+39364,Sharon,OK,Woodward County,,city-us,130,36.276,-99.336,1771
+39359,Sharon,GA,Taliaferro County,,city-us,106,33.560,-82.795,2416
+39358,Sharon,ND,Steele County,,city-us,89,47.597,-97.894,3198
+39340,Sharon,SD,Hutchinson County,,city-us,72,43.299,-97.816,0
+39336,Sharon,IN,Carroll County,,city-us,0,40.554,-86.391,118
+39342,Sharon,WV,Kanawha County,,city-us,0,38.159,-81.447,1866
+39344,Sharon,CA,Madera County,,city-us,0,37.098,-120.130,350
+39345,Sharon,MS,Madison County,,city-us,0,32.658,-89.936,668
+39348,Sharon,NJ,Monmouth County,,city-us,0,40.206,-74.536,572
+39349,Sharon,OH,Noble County,,city-us,0,39.736,-81.565,253
+39352,Sharon,VA,Pittsylvania County,,city-us,0,36.658,-79.530,94
+39356,Sharon,MO,Saline County,,city-us,0,39.301,-93.133,235

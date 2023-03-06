@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43515,Turnersville,NJ,,city-us,3345,39.773,-75.051,2757
-43514,Turnersville,TX,,city-us,0,31.500,-97.625,3822
-43516,Turnersville,TN,,city-us,0,36.488,-87.040,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43515,Turnersville,NJ,Gloucester County,,city-us,3345,39.773,-75.051,2757
+43514,Turnersville,TX,Coryell County,,city-us,0,31.500,-97.625,3822
+43516,Turnersville,TN,Robertson County,,city-us,0,36.488,-87.040,92

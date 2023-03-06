@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28620,Millheim,PA,,city-us,835,40.891,-77.477,2214
-28619,Millheim,TX,,city-us,0,29.872,-96.248,1701
-28621,Millheim,MO,,city-us,0,37.617,-89.887,717
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28620,Millheim,PA,Centre County,,city-us,835,40.891,-77.477,2214
+28619,Millheim,TX,Austin County,,city-us,0,29.872,-96.248,1701
+28621,Millheim,MO,Perry County,,city-us,0,37.617,-89.887,717

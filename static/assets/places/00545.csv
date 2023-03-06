@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2782,Bays,KY,,city-us,0,37.646,-83.247,238
-2783,Bays,WV,,city-us,0,38.529,-80.716,219
-2784,Bays,OH,,city-us,0,41.269,-83.670,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2782,Bays,KY,Breathitt County,,city-us,0,37.646,-83.247,238
+2783,Bays,WV,Nicholas County,,city-us,0,38.529,-80.716,219
+2784,Bays,OH,Wood County,,city-us,0,41.269,-83.670,192

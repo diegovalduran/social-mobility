@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14952,Fisher,IL,,city-us,2023,40.315,-88.350,2309
-14958,Fisher,MN,,city-us,416,47.800,-96.801,3770
-14959,Fisher,LA,,city-us,196,31.494,-93.466,2791
-14957,Fisher,AR,,city-us,176,35.491,-90.974,2001
-14954,Fisher,ND,,city-us,9,46.246,-101.685,0
-14943,Fischer,TX,,city-us,0,29.979,-98.265,1622
-14953,Fisher,PA,,city-us,0,41.266,-79.243,184
-14955,Fisher,WV,,city-us,0,39.051,-79.003,390
-14956,Fisher,OR,,city-us,0,44.293,-123.844,1415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14952,Fisher,IL,Champaign County,,city-us,2023,40.315,-88.350,2309
+14958,Fisher,MN,Polk County,,city-us,416,47.800,-96.801,3770
+14959,Fisher,LA,Sabine Parish,,city-us,196,31.494,-93.466,2791
+14957,Fisher,AR,Poinsett County,,city-us,176,35.491,-90.974,2001
+14954,Fisher,ND,Grant County,,city-us,9,46.246,-101.685,0
+14943,Fischer,TX,Comal County,,city-us,0,29.979,-98.265,1622
+14953,Fisher,PA,Clarion County,,city-us,0,41.266,-79.243,184
+14955,Fisher,WV,Hardy County,,city-us,0,39.051,-79.003,390
+14956,Fisher,OR,Lincoln County,,city-us,0,44.293,-123.844,1415

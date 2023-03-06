@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25403,Lodge,SC,,city-us,80,33.068,-80.954,1972
-25402,Lodge,MO,,city-us,0,37.324,-90.128,172
-25404,Lodge,VA,,city-us,0,37.992,-76.543,95
-25405,Lodge,IL,,city-us,0,40.106,-88.560,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25403,Lodge,SC,Colleton County,,city-us,80,33.068,-80.954,1972
+25402,Lodge,MO,Bollinger County,,city-us,0,37.324,-90.128,172
+25404,Lodge,VA,Northumberland County,,city-us,0,37.992,-76.543,95
+25405,Lodge,IL,Piatt County,,city-us,0,40.106,-88.560,146

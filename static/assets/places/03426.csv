@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17348,Gouldsboro,ME,,city-us,1744,44.431,-68.077,4336
-17349,Gouldsboro,PA,,city-us,839,41.246,-75.442,3794
-17350,Gouldsboro,PA,,city-us,750,41.245,-75.456,3794
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17348,Gouldsboro,ME,Hancock County,,city-us,1744,44.431,-68.077,4336
+17349,Gouldsboro,PA,Monroe County / Wayne County,,city-us,839,41.246,-75.442,3794
+17350,Gouldsboro,PA,Wayne County,,city-us,750,41.245,-75.456,3794

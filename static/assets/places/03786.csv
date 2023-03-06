@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19391,Hayesville,OR,,city-us,21891,44.981,-122.972,2376
-19387,Hayesville,OH,,city-us,442,40.773,-82.262,3542
-19389,Hayesville,NC,,city-us,438,35.046,-83.818,5670
-19390,Hayesville,IA,,city-us,44,41.264,-92.249,2657
-19388,Hayesville,PA,,city-us,0,39.820,-75.965,175
-19392,Hayesville,OH,,city-us,0,39.537,-82.933,236
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19391,Hayesville,OR,Marion County,,city-us,21891,44.981,-122.972,2376
+19387,Hayesville,OH,Ashland County,,city-us,442,40.773,-82.262,3542
+19389,Hayesville,NC,Clay County,,city-us,438,35.046,-83.818,5670
+19390,Hayesville,IA,Keokuk County,,city-us,44,41.264,-92.249,2657
+19388,Hayesville,PA,Chester County,,city-us,0,39.820,-75.965,175
+19392,Hayesville,OH,Pickaway County,,city-us,0,39.537,-82.933,236

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18025,Greenview,IL,,city-us,733,40.083,-89.738,2425
-18024,Greenview,WV,,city-us,421,37.994,-81.816,210
-18026,Greenview,CA,,city-us,109,41.551,-122.906,4055
-18027,Greenview,ND,,city-us,52,47.449,-97.921,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18025,Greenview,IL,Menard County,,city-us,733,40.083,-89.738,2425
+18024,Greenview,WV,Boone County,,city-us,421,37.994,-81.816,210
+18026,Greenview,CA,Siskiyou County,,city-us,109,41.551,-122.906,4055
+18027,Greenview,ND,Steele County,,city-us,52,47.449,-97.921,0

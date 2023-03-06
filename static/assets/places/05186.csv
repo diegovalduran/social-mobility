@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26609,Mankato,MN,,city-us,44693,44.171,-93.976,18345
-26608,Mankato,MN,,city-us,1812,44.129,-93.932,2908
-26610,Mankato,KS,,city-us,848,39.787,-98.210,3976
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26609,Mankato,MN,Blue Earth County / Le Sueur County / Nicollet County,,city-us,44693,44.171,-93.976,18345
+26608,Mankato,MN,Blue Earth County,,city-us,1812,44.129,-93.932,2908
+26610,Mankato,KS,Jewell County,,city-us,848,39.787,-98.210,3976

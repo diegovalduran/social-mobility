@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-292,Agawam,MA,,city-us,28494,42.064,-72.653,12284
-291,Agawam,KY,,city-us,0,37.914,-84.088,190
-293,Agawam,MT,,city-us,0,48.000,-112.168,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+292,Agawam,MA,Hampden County,,city-us,28494,42.064,-72.653,12284
+291,Agawam,KY,Clark County,,city-us,0,37.914,-84.088,190
+293,Agawam,MT,Teton County,,city-us,0,48.000,-112.168,344

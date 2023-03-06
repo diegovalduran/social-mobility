@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4334,Blenheim,NY,,city-us,312,42.488,-74.523,3570
-4333,Blenheim,SC,,city-us,114,34.511,-79.653,1991
-4331,Blenheim,VA,,city-us,0,37.904,-78.488,290
-4332,Blenheim,NJ,,city-us,0,39.809,-75.078,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4334,Blenheim,NY,Schoharie County,,city-us,312,42.488,-74.523,3570
+4333,Blenheim,SC,Marlboro County,,city-us,114,34.511,-79.653,1991
+4331,Blenheim,VA,Albemarle County,,city-us,0,37.904,-78.488,290
+4332,Blenheim,NJ,Camden County,,city-us,0,39.809,-75.078,261

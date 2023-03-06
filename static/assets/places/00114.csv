@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-581,Algoma,MI,,city-us,12189,43.164,-85.616,3093
-586,Algoma,WI,,city-us,6912,44.023,-88.624,2488
-582,Algoma,WI,,city-us,3219,44.609,-87.433,6983
-585,Algoma,MS,,city-us,713,34.176,-89.031,2701
-583,Algoma,OR,,city-us,0,42.347,-121.816,2485
-584,Algoma,WV,,city-us,0,37.419,-81.426,372
+id,name,state,county,country,level,population,latitude,longitude,wiki
+581,Algoma,MI,Kent County,,city-us,12189,43.164,-85.616,3093
+586,Algoma,WI,Winnebago County,,city-us,6912,44.023,-88.624,2488
+582,Algoma,WI,Kewaunee County,,city-us,3219,44.609,-87.433,6983
+585,Algoma,MS,Pontotoc County,,city-us,713,34.176,-89.031,2701
+583,Algoma,OR,Klamath County,,city-us,0,42.347,-121.816,2485
+584,Algoma,WV,McDowell County,,city-us,0,37.419,-81.426,372

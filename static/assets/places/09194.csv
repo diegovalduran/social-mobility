@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46361,Weymouth,MA,,city-us,57670,42.207,-70.944,19592
-46359,Weymouth,NJ,,city-us,2640,39.396,-74.827,17046
-46360,Weymouth,OH,,city-us,0,41.186,-81.794,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46361,Weymouth,MA,Norfolk County,,city-us,57670,42.207,-70.944,19592
+46359,Weymouth,NJ,Atlantic County,,city-us,2640,39.396,-74.827,17046
+46360,Weymouth,OH,Medina County,,city-us,0,41.186,-81.794,344

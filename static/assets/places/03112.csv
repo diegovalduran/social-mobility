@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15559,Four Corners,FL,,city-us,49626,28.333,-81.647,5269
-15561,Four Corners,OR,,city-us,16740,44.929,-122.972,2350
-15556,Four Corners,TX,,city-us,11133,29.669,-95.658,6390
-15563,Four Corners,MD,,city-us,8131,39.020,-77.013,4807
-15557,Four Corners,MT,,city-us,5649,45.630,-111.186,2553
-15555,Four Corners,WI,,city-us,2058,46.532,-92.067,3684
-15554,Four Corners,WI,,city-us,823,45.671,-92.591,2336
-15560,Four Corners,WI,,city-us,495,45.168,-88.845,2309
-15564,Four Corners,MN,,city-us,90,46.853,-92.280,833
-15553,Four Corners,TX,,city-us,0,29.002,-95.646,854
-15558,Four Corners,OR,,city-us,0,42.389,-122.885,244
-15562,Four Corners,WI,,city-us,0,44.075,-90.914,242
-15565,Four Corners,OK,,city-us,0,36.762,-101.907,278
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15559,Four Corners,FL,Lake County / Orange County / Osceola County / Polk County,,city-us,49626,28.333,-81.647,5269
+15561,Four Corners,OR,Marion County,,city-us,16740,44.929,-122.972,2350
+15556,Four Corners,TX,Fort Bend County,,city-us,11133,29.669,-95.658,6390
+15563,Four Corners,MD,Montgomery County,,city-us,8131,39.020,-77.013,4807
+15557,Four Corners,MT,Gallatin County,,city-us,5649,45.630,-111.186,2553
+15555,Four Corners,WI,Douglas County,,city-us,2058,46.532,-92.067,3684
+15554,Four Corners,WI,Burnett County,,city-us,823,45.671,-92.591,2336
+15560,Four Corners,WI,Langlade County,,city-us,495,45.168,-88.845,2309
+15564,Four Corners,MN,St. Louis County,,city-us,90,46.853,-92.280,833
+15553,Four Corners,TX,Brazoria County,,city-us,0,29.002,-95.646,854
+15558,Four Corners,OR,Jackson County,,city-us,0,42.389,-122.885,244
+15562,Four Corners,WI,Monroe County,,city-us,0,44.075,-90.914,242
+15565,Four Corners,OK,Texas County,,city-us,0,36.762,-101.907,278

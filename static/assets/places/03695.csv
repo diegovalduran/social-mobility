@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18841,Hardwick,GA,,city-us,3360,33.068,-83.223,967
-18842,Hardwick,VT,,city-us,2951,44.520,-72.348,8275
-18846,Hardwick,MA,,city-us,2660,42.353,-72.217,5923
-18845,Hardwick,NJ,,city-us,1609,41.040,-75.007,12534
-18844,Hardwick,MN,,city-us,188,43.775,-96.199,3623
-18843,Hardwick,CA,,city-us,144,36.401,-119.719,3207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18841,Hardwick,GA,Baldwin County,,city-us,3360,33.068,-83.223,967
+18842,Hardwick,VT,Caledonia County,,city-us,2951,44.520,-72.348,8275
+18846,Hardwick,MA,Worcester County,,city-us,2660,42.353,-72.217,5923
+18845,Hardwick,NJ,Warren County,,city-us,1609,41.040,-75.007,12534
+18844,Hardwick,MN,Rock County,,city-us,188,43.775,-96.199,3623
+18843,Hardwick,CA,Kings County,,city-us,144,36.401,-119.719,3207

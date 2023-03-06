@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21633,Island Lake,MI,,city-us,19539,42.479,-83.727,3091
-21632,Island Lake,IL,,city-us,8027,42.279,-88.200,2274
-21635,Island Lake,MN,,city-us,314,47.455,-95.617,179
-21634,Island Lake,MN,,city-us,170,44.416,-96.009,179
-21637,Island Lake,MN,,city-us,40,47.013,-92.199,549
-21631,Island Lake,MN,,city-us,0,47.789,-95.018,269
-21636,Island Lake,WI,,city-us,0,45.319,-91.369,487
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21633,Island Lake,MI,Livingston County,,city-us,19539,42.479,-83.727,3091
+21632,Island Lake,IL,Lake County / McHenry County,,city-us,8027,42.279,-88.200,2274
+21635,Island Lake,MN,Mahnomen County,,city-us,314,47.455,-95.617,179
+21634,Island Lake,MN,Lyon County,,city-us,170,44.416,-96.009,179
+21637,Island Lake,MN,St. Louis County,,city-us,40,47.013,-92.199,549
+21631,Island Lake,MN,Beltrami County,,city-us,0,47.789,-95.018,269
+21636,Island Lake,WI,Rusk County,,city-us,0,45.319,-91.369,487

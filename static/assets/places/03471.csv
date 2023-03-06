@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17558,Granite,OK,,city-us,1752,34.962,-99.381,3135
-17563,Granite,UT,,city-us,750,40.576,-111.791,2587
-17561,Granite,MN,,city-us,473,46.027,-94.000,1776
-17557,Granite,OR,,city-us,30,44.809,-118.418,5293
-17562,Granite,KS,,city-us,22,39.952,-99.450,0
-17555,Granite,MD,,city-us,0,39.343,-76.856,894
-17556,Granite,CO,,city-us,0,39.044,-106.262,27025
-17559,Granite,WY,,city-us,0,41.100,-105.158,832
-17560,Granite,IA,,city-us,0,43.469,-96.556,1159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17558,Granite,OK,Greer County,,city-us,1752,34.962,-99.381,3135
+17563,Granite,UT,Salt Lake County,,city-us,750,40.576,-111.791,2587
+17561,Granite,MN,Morrison County,,city-us,473,46.027,-94.000,1776
+17557,Granite,OR,Grant County,,city-us,30,44.809,-118.418,5293
+17562,Granite,KS,Phillips County,,city-us,22,39.952,-99.450,0
+17555,Granite,MD,Baltimore County,,city-us,0,39.343,-76.856,894
+17556,Granite,CO,Chaffee County,,city-us,0,39.044,-106.262,27025
+17559,Granite,WY,Laramie County,,city-us,0,41.100,-105.158,832
+17560,Granite,IA,Lyon County,,city-us,0,43.469,-96.556,1159

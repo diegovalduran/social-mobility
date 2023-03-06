@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5286,Briggs,OK,,city-us,1105,35.927,-94.875,2532
-5285,Briggs,TX,,city-us,0,30.890,-97.925,1616
-5287,Briggs,VA,,city-us,0,39.108,-78.014,498
-5288,Briggs,NE,,city-us,0,41.350,-96.008,194
-5289,Briggs,OH,,city-us,0,39.326,-81.061,305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5286,Briggs,OK,Cherokee County,,city-us,1105,35.927,-94.875,2532
+5285,Briggs,TX,Burnet County,,city-us,0,30.890,-97.925,1616
+5287,Briggs,VA,Clarke County,,city-us,0,39.108,-78.014,498
+5288,Briggs,NE,Douglas County,,city-us,0,41.350,-96.008,194
+5289,Briggs,OH,Washington County,,city-us,0,39.326,-81.061,305

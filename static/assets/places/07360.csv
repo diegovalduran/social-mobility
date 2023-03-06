@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37371,Rolfe,IA,,city-us,511,42.813,-94.527,3361
-37370,Rolfe,WV,,city-us,0,37.418,-81.401,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37371,Rolfe,IA,Pocahontas County,,city-us,511,42.813,-94.527,3361
+37370,Rolfe,WV,McDowell County,,city-us,0,37.418,-81.401,121

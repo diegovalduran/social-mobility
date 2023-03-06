@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36377,Reynolds,MI,,city-us,5736,43.422,-85.528,2123
-36380,Reynolds,GA,,city-us,935,32.560,-84.096,2763
-36381,Reynolds,MN,,city-us,738,45.981,-94.962,1872
-36382,Reynolds,IN,,city-us,526,40.749,-86.872,4078
-36376,Reynolds,IL,,city-us,490,41.332,-90.672,1787
-36373,Reynolds,ND,,city-us,277,47.669,-97.106,3489
-36375,Reynolds,IL,,city-us,270,41.839,-89.107,444
-36374,Reynolds,NE,,city-us,58,40.060,-97.336,3148
-36372,Reynolds,MO,,city-us,0,37.639,-93.158,484
-36378,Reynolds,ID,,city-us,0,43.201,-116.744,224
-36379,Reynolds,MO,,city-us,0,37.401,-91.073,387
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36377,Reynolds,MI,Montcalm County,,city-us,5736,43.422,-85.528,2123
+36380,Reynolds,GA,Taylor County,,city-us,935,32.560,-84.096,2763
+36381,Reynolds,MN,Todd County,,city-us,738,45.981,-94.962,1872
+36382,Reynolds,IN,White County,,city-us,526,40.749,-86.872,4078
+36376,Reynolds,IL,Mercer County / Rock Island County,,city-us,490,41.332,-90.672,1787
+36373,Reynolds,ND,Grand Forks County / Traill County,,city-us,277,47.669,-97.106,3489
+36375,Reynolds,IL,Lee County,,city-us,270,41.839,-89.107,444
+36374,Reynolds,NE,Jefferson County,,city-us,58,40.060,-97.336,3148
+36372,Reynolds,MO,Dallas County,,city-us,0,37.639,-93.158,484
+36378,Reynolds,ID,Owyhee County,,city-us,0,43.201,-116.744,224
+36379,Reynolds,MO,Reynolds County,,city-us,0,37.401,-91.073,387

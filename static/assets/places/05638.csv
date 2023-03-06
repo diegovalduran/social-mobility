@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28998,Moland,MN,,city-us,259,46.928,-96.600,1894
-28999,Moland,MN,,city-us,0,44.197,-93.062,564
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28998,Moland,MN,Clay County,,city-us,259,46.928,-96.600,1894
+28999,Moland,MN,Rice County,,city-us,0,44.197,-93.062,564

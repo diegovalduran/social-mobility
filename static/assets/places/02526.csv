@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12606,Eagle Point,OR,,city-us,9865,42.473,-122.803,5890
-12605,Eagle Point,WI,,city-us,3053,45.032,-91.396,6156
-12610,Eagle Point,AL,,city-us,2794,33.393,-86.676,968
-12609,Eagle Point,IL,,city-us,194,41.978,-89.657,857
-12608,Eagle Point,MN,,city-us,11,48.508,-97.096,1791
-12604,Eagle Point,PA,,city-us,0,40.545,-75.761,193
-12607,Eagle Point,PA,,city-us,0,40.684,-75.522,490
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12606,Eagle Point,OR,Jackson County,,city-us,9865,42.473,-122.803,5890
+12605,Eagle Point,WI,Chippewa County,,city-us,3053,45.032,-91.396,6156
+12610,Eagle Point,AL,Shelby County,,city-us,2794,33.393,-86.676,968
+12609,Eagle Point,IL,Ogle County,,city-us,194,41.978,-89.657,857
+12608,Eagle Point,MN,Marshall County,,city-us,11,48.508,-97.096,1791
+12604,Eagle Point,PA,Berks County,,city-us,0,40.545,-75.761,193
+12607,Eagle Point,PA,Lehigh County,,city-us,0,40.684,-75.522,490

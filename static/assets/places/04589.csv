@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23490,Lahore,,Pakistan,city-international,11148000,31.550,74.344,62090
-23489,Lahore,VA,,city-us,1111,38.199,-77.968,1376
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23490,Lahore,,,Pakistan,city-international,11148000,31.550,74.344,62090
+23489,Lahore,VA,Orange County,,city-us,1111,38.199,-77.968,1376

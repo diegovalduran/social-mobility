@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6844,Canyon Creek,WA,,city-us,3373,48.110,-121.982,2129
-6842,Canyon Creek,TX,,city-us,916,32.394,-97.741,561
-6843,Canyon Creek,MT,,city-us,47,46.806,-112.264,456
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6844,Canyon Creek,WA,Snohomish County,,city-us,3373,48.110,-121.982,2129
+6842,Canyon Creek,TX,Hood County,,city-us,916,32.394,-97.741,561
+6843,Canyon Creek,MT,Lewis and Clark County,,city-us,47,46.806,-112.264,456

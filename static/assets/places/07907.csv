@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40041,Sligo,PA,,city-us,685,41.109,-79.490,2408
-40042,Sligo,NC,,city-us,0,36.452,-76.077,242
-40043,Sligo,MO,,city-us,0,37.774,-91.378,3247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40041,Sligo,PA,Clarion County,,city-us,685,41.109,-79.490,2408
+40042,Sligo,NC,Currituck County,,city-us,0,36.452,-76.077,242
+40043,Sligo,MO,Dent County,,city-us,0,37.774,-91.378,3247

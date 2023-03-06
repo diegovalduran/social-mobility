@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12164,Dozier,AL,,city-us,287,31.492,-86.365,1940
-12165,Dozier,NC,,city-us,0,36.192,-80.406,193
-12166,Dozier,CA,,city-us,0,38.286,-121.817,166
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12164,Dozier,AL,Crenshaw County,,city-us,287,31.492,-86.365,1940
+12165,Dozier,NC,Forsyth County,,city-us,0,36.192,-80.406,193
+12166,Dozier,CA,Solano County,,city-us,0,38.286,-121.817,166

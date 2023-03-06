@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30354,Nebraska,,United States,state,1967923,41.501,-99.681,37410
-30353,Nebraska,IL,,city-us,1287,40.881,-88.883,290
-30351,Nebraska,NC,,city-us,0,35.458,-76.063,383
-30352,Nebraska,IN,,city-us,0,39.064,-85.459,303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30354,Nebraska,,,United States,state,1967923,41.501,-99.681,37410
+30353,Nebraska,IL,Livingston County,,city-us,1287,40.881,-88.883,290
+30351,Nebraska,NC,Hyde County,,city-us,0,35.458,-76.063,383
+30352,Nebraska,IN,Jennings County,,city-us,0,39.064,-85.459,303

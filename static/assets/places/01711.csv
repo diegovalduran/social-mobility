@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8691,Clayville,NY,,city-us,338,42.980,-75.251,1982
-8693,Clayville,RI,,city-us,109,41.778,-71.676,766
-8692,Clayville,VA,,city-us,0,37.460,-77.817,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8691,Clayville,NY,Oneida County,,city-us,338,42.980,-75.251,1982
+8693,Clayville,RI,Providence County,,city-us,109,41.778,-71.676,766
+8692,Clayville,VA,Powhatan County,,city-us,0,37.460,-77.817,93

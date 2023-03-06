@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2164,Baden,PA,,city-us,3864,40.635,-80.228,3630
-2166,Baden,MD,,city-us,1832,38.659,-76.778,1300
-2167,Baden,ND,,city-us,35,48.588,-102.048,0
-2165,Baden,WV,,city-us,0,38.798,-81.887,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2164,Baden,PA,Beaver County,,city-us,3864,40.635,-80.228,3630
+2166,Baden,MD,Prince George's County,,city-us,1832,38.659,-76.778,1300
+2167,Baden,ND,Ward County,,city-us,35,48.588,-102.048,0
+2165,Baden,WV,Mason County,,city-us,0,38.798,-81.887,85

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26052,Luverne,MN,,city-us,4934,43.654,-96.213,10910
-26051,Luverne,AL,,city-us,2680,31.717,-86.264,6296
-26053,Luverne,ND,,city-us,26,47.251,-97.935,5015
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26052,Luverne,MN,Rock County,,city-us,4934,43.654,-96.213,10910
+26051,Luverne,AL,Crenshaw County,,city-us,2680,31.717,-86.264,6296
+26053,Luverne,ND,Steele County,,city-us,26,47.251,-97.935,5015

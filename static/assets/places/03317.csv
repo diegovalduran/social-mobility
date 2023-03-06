@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16799,Gilley,KY,,city-us,0,36.974,-83.112,118
-16800,Gilley,VA,,city-us,0,37.099,-82.675,80
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16799,Gilley,KY,Letcher County,,city-us,0,36.974,-83.112,118
+16800,Gilley,VA,Wise County,,city-us,0,37.099,-82.675,80

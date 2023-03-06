@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22178,Jimtown,WV,,city-us,1002,38.918,-80.001,1723
-22173,Jimtown,OR,,city-us,0,44.905,-117.145,563
-22174,Jimtown,IL,,city-us,0,39.902,-88.364,193
-22175,Jimtown,WV,,city-us,0,39.399,-80.403,140
-22176,Jimtown,OK,,city-us,0,33.862,-97.369,130
-22177,Jimtown,WV,,city-us,0,39.637,-78.218,293
-22179,Jimtown,WI,,city-us,0,43.353,-90.638,197
-22180,Jimtown,DE,,city-us,0,38.732,-75.187,1992
-22181,Jimtown,OH,,city-us,0,39.353,-82.722,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22178,Jimtown,WV,Randolph County,,city-us,1002,38.918,-80.001,1723
+22173,Jimtown,OR,Baker County,,city-us,0,44.905,-117.145,563
+22174,Jimtown,IL,Champaign County,,city-us,0,39.902,-88.364,193
+22175,Jimtown,WV,Harrison County,,city-us,0,39.399,-80.403,140
+22176,Jimtown,OK,Love County,,city-us,0,33.862,-97.369,130
+22177,Jimtown,WV,Morgan County,,city-us,0,39.637,-78.218,293
+22179,Jimtown,WI,Richland County,,city-us,0,43.353,-90.638,197
+22180,Jimtown,DE,Sussex County,,city-us,0,38.732,-75.187,1992
+22181,Jimtown,OH,Vinton County,,city-us,0,39.353,-82.722,226

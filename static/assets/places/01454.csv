@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7293,Catherine,KS,,city-us,280,39.024,-99.195,479
-7294,Catherine,CO,,city-us,214,39.407,-107.153,929
-7295,Catherine,AL,,city-us,0,32.185,-87.469,509
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7293,Catherine,KS,Ellis County,,city-us,280,39.024,-99.195,479
+7294,Catherine,CO,Garfield County,,city-us,214,39.407,-107.153,929
+7295,Catherine,AL,Wilcox County,,city-us,0,32.185,-87.469,509

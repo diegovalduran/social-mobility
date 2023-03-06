@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5537,Brookside,DE,,city-us,14202,39.667,-75.727,2365
-5532,Brookside,IL,,city-us,4523,38.532,-89.222,905
-5536,Brookside,NJ,,city-us,1767,40.794,-74.568,3031
-5535,Brookside,AL,,city-us,1232,33.638,-86.917,10026
-5530,Brookside,WI,,city-us,1130,43.861,-89.817,2016
-5531,Brookside,OH,,city-us,536,40.071,-80.761,3053
-5541,Brookside,UT,,city-us,483,37.360,-113.661,317
-5533,Brookside,CO,,city-us,242,38.415,-105.192,2041
-5534,Brookside,KY,,city-us,0,36.859,-83.249,208
-5538,Brookside,WI,,city-us,0,44.805,-87.998,292
-5539,Brookside,VA,,city-us,0,38.671,-78.436,89
-5540,Brookside,WV,,city-us,0,39.326,-79.526,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5537,Brookside,DE,New Castle County,,city-us,14202,39.667,-75.727,2365
+5532,Brookside,IL,Clinton County,,city-us,4523,38.532,-89.222,905
+5536,Brookside,NJ,Morris County,,city-us,1767,40.794,-74.568,3031
+5535,Brookside,AL,Jefferson County,,city-us,1232,33.638,-86.917,10026
+5530,Brookside,WI,Adams County,,city-us,1130,43.861,-89.817,2016
+5531,Brookside,OH,Belmont County,,city-us,536,40.071,-80.761,3053
+5541,Brookside,UT,Washington County,,city-us,483,37.360,-113.661,317
+5533,Brookside,CO,Fremont County,,city-us,242,38.415,-105.192,2041
+5534,Brookside,KY,Harlan County,,city-us,0,36.859,-83.249,208
+5538,Brookside,WI,Oconto County,,city-us,0,44.805,-87.998,292
+5539,Brookside,VA,Page County,,city-us,0,38.671,-78.436,89
+5540,Brookside,WV,Preston County,,city-us,0,39.326,-79.526,210

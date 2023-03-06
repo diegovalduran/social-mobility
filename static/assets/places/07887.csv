@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39971,Six Points,IN,,city-us,0,39.372,-86.986,249
-39972,Six Points,IN,,city-us,0,39.726,-86.336,208
-39973,Six Points,OH,,city-us,0,41.282,-83.555,403
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39971,Six Points,IN,Clay County,,city-us,0,39.372,-86.986,249
+39972,Six Points,IN,Hendricks County,,city-us,0,39.726,-86.336,208
+39973,Six Points,OH,Wood County,,city-us,0,41.282,-83.555,403

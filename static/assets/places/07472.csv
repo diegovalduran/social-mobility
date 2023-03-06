@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37950,Rushville,IN,,city-us,6187,39.609,-85.446,3918
-37951,Rushville,IL,,city-us,3026,40.121,-90.563,3311
-37952,Rushville,NE,,city-us,812,42.718,-102.464,3789
-37948,Rushville,NY,,city-us,670,42.761,-77.228,3303
-37946,Rushville,OH,,city-us,307,39.765,-82.432,3611
-37945,Rushville,MO,,city-us,220,39.587,-95.026,3066
-37949,Rushville,KS,,city-us,20,39.611,-99.347,0
-37947,Rushville,IA,,city-us,0,41.760,-92.946,850
-37953,Rushville,PA,,city-us,0,41.782,-76.122,236
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37950,Rushville,IN,Rush County,,city-us,6187,39.609,-85.446,3918
+37951,Rushville,IL,Schuyler County,,city-us,3026,40.121,-90.563,3311
+37952,Rushville,NE,Sheridan County,,city-us,812,42.718,-102.464,3789
+37948,Rushville,NY,Ontario County / Yates County,,city-us,670,42.761,-77.228,3303
+37946,Rushville,OH,Fairfield County,,city-us,307,39.765,-82.432,3611
+37945,Rushville,MO,Buchanan County,,city-us,220,39.587,-95.026,3066
+37949,Rushville,KS,Phillips County,,city-us,20,39.611,-99.347,0
+37947,Rushville,IA,Jasper County,,city-us,0,41.760,-92.946,850
+37953,Rushville,PA,Susquehanna County,,city-us,0,41.782,-76.122,236

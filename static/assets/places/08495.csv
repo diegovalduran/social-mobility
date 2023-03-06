@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42795,Thomastown,MN,,city-us,826,46.413,-94.853,2203
-42793,Thomastown,VA,,city-us,0,38.008,-79.841,91
-42794,Thomastown,MS,,city-us,0,32.864,-89.669,535
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42795,Thomastown,MN,Wadena County,,city-us,826,46.413,-94.853,2203
+42793,Thomastown,VA,Bath County,,city-us,0,38.008,-79.841,91
+42794,Thomastown,MS,Leake County,,city-us,0,32.864,-89.669,535

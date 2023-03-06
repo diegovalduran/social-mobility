@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5200,Briarwood,KY,,city-us,443,38.278,-85.593,2126
-5199,Briarwood,ND,,city-us,54,46.786,-96.797,2722
-5201,Briarwood,IN,,city-us,0,39.551,-86.507,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5200,Briarwood,KY,Jefferson County,,city-us,443,38.278,-85.593,2126
+5199,Briarwood,ND,Cass County,,city-us,54,46.786,-96.797,2722
+5201,Briarwood,IN,Morgan County,,city-us,0,39.551,-86.507,156

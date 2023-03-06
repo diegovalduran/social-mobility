@@ -1,27 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-448,Albion,NJ,,city-us,39907,39.702,-74.908,16328
-447,Albion,MI,,city-us,7970,42.243,-84.753,7520
-459,Albion,NY,,city-us,7815,43.226,-78.209,3302
-458,Albion,IN,,city-us,2225,41.396,-85.424,4003
-455,Albion,ME,,city-us,2035,44.508,-69.445,4586
-460,Albion,NY,,city-us,2033,43.489,-76.031,8368
-452,Albion,IL,,city-us,1921,38.378,-88.056,6483
-450,Albion,WI,,city-us,1823,42.879,-89.070,4605
-446,Albion,NE,,city-us,1706,41.691,-98.004,3892
-453,Albion,PA,,city-us,1515,41.891,-80.366,4127
-469,Albion,MN,,city-us,1265,45.194,-94.079,1919
-454,Albion,WI,,city-us,1200,44.288,-90.968,2223
-463,Albion,KS,,city-us,837,37.780,-97.964,262
-467,Albion,WI,,city-us,699,44.553,-91.479,1830
-468,Albion,WA,,city-us,544,46.791,-117.250,3606
-456,Albion,IA,,city-us,446,42.112,-92.989,3284
-457,Albion,CA,,city-us,274,39.224,-123.769,4061
-449,Albion,ID,,city-us,242,42.413,-113.578,4080
-464,Albion,KS,,city-us,130,39.958,-97.425,262
-461,Albion,OK,,city-us,59,34.663,-95.100,5713
-445,Albion,KS,,city-us,45,38.572,-98.870,262
-451,Albion,ND,,city-us,40,46.071,-98.686,110
-444,Albion,OH,,city-us,0,40.974,-82.164,267
-462,Albion,TX,,city-us,0,33.859,-95.031,140
-465,Albion,IN,,city-us,0,38.744,-85.734,247
-466,Albion,NC,,city-us,0,36.519,-80.449,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+448,Albion,NJ,Camden County,,city-us,39907,39.702,-74.908,16328
+447,Albion,MI,Calhoun County,,city-us,7970,42.243,-84.753,7520
+459,Albion,NY,Orleans County,,city-us,7815,43.226,-78.209,3302
+458,Albion,IN,Noble County,,city-us,2225,41.396,-85.424,4003
+455,Albion,ME,Kennebec County,,city-us,2035,44.508,-69.445,4586
+460,Albion,NY,Oswego County,,city-us,2033,43.489,-76.031,8368
+452,Albion,IL,Edwards County,,city-us,1921,38.378,-88.056,6483
+450,Albion,WI,Dane County,,city-us,1823,42.879,-89.070,4605
+446,Albion,NE,Boone County,,city-us,1706,41.691,-98.004,3892
+453,Albion,PA,Erie County,,city-us,1515,41.891,-80.366,4127
+469,Albion,MN,Wright County,,city-us,1265,45.194,-94.079,1919
+454,Albion,WI,Jackson County,,city-us,1200,44.288,-90.968,2223
+463,Albion,KS,Reno County,,city-us,837,37.780,-97.964,262
+467,Albion,WI,Trempealeau County,,city-us,699,44.553,-91.479,1830
+468,Albion,WA,Whitman County,,city-us,544,46.791,-117.250,3606
+456,Albion,IA,Marshall County,,city-us,446,42.112,-92.989,3284
+457,Albion,CA,Mendocino County,,city-us,274,39.224,-123.769,4061
+449,Albion,ID,Cassia County,,city-us,242,42.413,-113.578,4080
+464,Albion,KS,Republic County,,city-us,130,39.958,-97.425,262
+461,Albion,OK,Pushmataha County,,city-us,59,34.663,-95.100,5713
+445,Albion,KS,Barton County,,city-us,45,38.572,-98.870,262
+451,Albion,ND,Dickey County,,city-us,40,46.071,-98.686,110
+444,Albion,OH,Ashland County,,city-us,0,40.974,-82.164,267
+462,Albion,TX,Red River County,,city-us,0,33.859,-95.031,140
+465,Albion,IN,Scott County,,city-us,0,38.744,-85.734,247
+466,Albion,NC,Surry County,,city-us,0,36.519,-80.449,231

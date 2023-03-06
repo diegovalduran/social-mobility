@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42145,Superior,CO,,city-us,13271,39.931,-105.159,7032
-42158,Superior,MI,,city-us,13058,42.294,-83.606,5500
-42156,Superior,AZ,,city-us,2479,33.294,-111.096,6112
-42153,Superior,NE,,city-us,1798,40.021,-98.070,4937
-42151,Superior,KS,,city-us,1670,38.211,-97.751,126
-42159,Superior,OH,,city-us,1307,41.562,-84.636,1439
-42146,Superior,MI,,city-us,1265,46.377,-84.684,227
-42152,Superior,MT,,city-us,884,47.192,-114.892,4845
-42148,Superior,WI,,city-us,675,46.721,-92.104,15888
-42154,Superior,KS,,city-us,246,38.649,-95.779,0
-42157,Superior,WY,,city-us,182,41.760,-108.964,3346
-42147,Superior,IA,,city-us,133,43.430,-94.946,3209
-42149,Superior,ND,,city-us,68,47.635,-99.064,0
-42150,Superior,WV,,city-us,0,37.421,-81.542,236
-42155,Superior,IN,,city-us,0,39.629,-87.156,155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42145,Superior,CO,Boulder County / Jefferson County,,city-us,13271,39.931,-105.159,7032
+42158,Superior,MI,Washtenaw County,,city-us,13058,42.294,-83.606,5500
+42156,Superior,AZ,Pinal County,,city-us,2479,33.294,-111.096,6112
+42153,Superior,NE,Nuckolls County,,city-us,1798,40.021,-98.070,4937
+42151,Superior,KS,McPherson County,,city-us,1670,38.211,-97.751,126
+42159,Superior,OH,Williams County,,city-us,1307,41.562,-84.636,1439
+42146,Superior,MI,Chippewa County,,city-us,1265,46.377,-84.684,227
+42152,Superior,MT,Mineral County,,city-us,884,47.192,-114.892,4845
+42148,Superior,WI,Douglas County,,city-us,675,46.721,-92.104,15888
+42154,Superior,KS,Osage County,,city-us,246,38.649,-95.779,0
+42157,Superior,WY,Sweetwater County,,city-us,182,41.760,-108.964,3346
+42147,Superior,IA,Dickinson County,,city-us,133,43.430,-94.946,3209
+42149,Superior,ND,Eddy County,,city-us,68,47.635,-99.064,0
+42150,Superior,WV,McDowell County,,city-us,0,37.421,-81.542,236
+42155,Superior,IN,Parke County,,city-us,0,39.629,-87.156,155

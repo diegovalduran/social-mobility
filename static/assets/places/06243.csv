@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31944,Oakwood,MI,,city-us,20526,42.824,-83.271,8123
-31943,Oakwood,OH,,city-us,9471,39.725,-84.174,9992
-31940,Oakwood,GA,,city-us,5373,34.228,-83.884,2611
-31937,Oakwood,OH,,city-us,3531,41.365,-81.508,3700
-31947,Oakwood,IL,,city-us,3125,40.132,-87.838,1335
-31942,Oakwood,PA,,city-us,2227,41.011,-80.380,2924
-31945,Oakwood,OH,,city-us,549,41.096,-84.380,3088
-31939,Oakwood,TX,,city-us,394,31.585,-95.850,3085
-31948,Oakwood,MN,,city-us,387,44.245,-92.261,2156
-31949,Oakwood,ND,,city-us,201,48.412,-97.339,110
-31936,Oakwood,MO,,city-us,199,39.202,-94.570,3162
-31933,Oakwood,SD,,city-us,195,44.407,-96.959,0
-31938,Oakwood,OK,,city-us,73,35.932,-98.705,1943
-31934,Oakwood,VA,,city-us,0,37.213,-82.006,359
-31935,Oakwood,MD,,city-us,0,39.699,-76.180,155
-31941,Oakwood,IN,,city-us,0,41.678,-86.786,247
-31946,Oakwood,IN,,city-us,0,41.550,-84.914,154
-31950,Oakwood,WI,,city-us,0,44.046,-88.603,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31944,Oakwood,MI,Oakland County,,city-us,20526,42.824,-83.271,8123
+31943,Oakwood,OH,Montgomery County,,city-us,9471,39.725,-84.174,9992
+31940,Oakwood,GA,Hall County,,city-us,5373,34.228,-83.884,2611
+31937,Oakwood,OH,Cuyahoga County,,city-us,3531,41.365,-81.508,3700
+31947,Oakwood,IL,Vermilion County,,city-us,3125,40.132,-87.838,1335
+31942,Oakwood,PA,Lawrence County,,city-us,2227,41.011,-80.380,2924
+31945,Oakwood,OH,Paulding County,,city-us,549,41.096,-84.380,3088
+31939,Oakwood,TX,Freestone County / Leon County,,city-us,394,31.585,-95.850,3085
+31948,Oakwood,MN,Wabasha County,,city-us,387,44.245,-92.261,2156
+31949,Oakwood,ND,Walsh County,,city-us,201,48.412,-97.339,110
+31936,Oakwood,MO,Clay County,,city-us,199,39.202,-94.570,3162
+31933,Oakwood,SD,Brookings County,,city-us,195,44.407,-96.959,0
+31938,Oakwood,OK,Dewey County,,city-us,73,35.932,-98.705,1943
+31934,Oakwood,VA,Buchanan County,,city-us,0,37.213,-82.006,359
+31935,Oakwood,MD,Cecil County,,city-us,0,39.699,-76.180,155
+31941,Oakwood,IN,LaPorte County,,city-us,0,41.678,-86.786,247
+31946,Oakwood,IN,Steuben County,,city-us,0,41.550,-84.914,154
+31950,Oakwood,WI,Winnebago County,,city-us,0,44.046,-88.603,168

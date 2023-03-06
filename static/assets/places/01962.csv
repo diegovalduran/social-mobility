@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9993,Cortland,NY,,city-us,17220,42.601,-76.180,10962
-9997,Cortland,OH,,city-us,7088,41.330,-80.725,4062
-9994,Cortland,IL,,city-us,4391,41.920,-88.689,2582
-9995,Cortland,NE,,city-us,505,40.506,-96.706,3816
-9996,Cortland,IN,,city-us,0,38.973,-85.964,523
-9998,Cortland,WV,,city-us,0,39.067,-79.427,640
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9993,Cortland,NY,Cortland County,,city-us,17220,42.601,-76.180,10962
+9997,Cortland,OH,Trumbull County,,city-us,7088,41.330,-80.725,4062
+9994,Cortland,IL,DeKalb County,,city-us,4391,41.920,-88.689,2582
+9995,Cortland,NE,Gage County,,city-us,505,40.506,-96.706,3816
+9996,Cortland,IN,Jackson County,,city-us,0,38.973,-85.964,523
+9998,Cortland,WV,Tucker County,,city-us,0,39.067,-79.427,640

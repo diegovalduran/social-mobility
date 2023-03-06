@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46154,Westborough,MA,,city-us,4364,42.270,-71.616,13337
-46153,Westboro,WI,,city-us,701,45.335,-90.464,4278
-46151,Westboro,MO,,city-us,114,40.535,-95.319,3466
-46152,Westboro,OH,,city-us,0,39.281,-83.911,286
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46154,Westborough,MA,Worcester County,,city-us,4364,42.270,-71.616,13337
+46153,Westboro,WI,Taylor County,,city-us,701,45.335,-90.464,4278
+46151,Westboro,MO,Atchison County,,city-us,114,40.535,-95.319,3466
+46152,Westboro,OH,Clinton County,,city-us,0,39.281,-83.911,286

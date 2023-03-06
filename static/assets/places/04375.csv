@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22617,Kellerville,IL,,city-us,0,39.931,-90.934,176
-22618,Kellerville,IN,,city-us,0,38.482,-86.832,428
-22619,Kellerville,MO,,city-us,0,39.822,-92.135,298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22617,Kellerville,IL,Adams County,,city-us,0,39.931,-90.934,176
+22618,Kellerville,IN,Dubois County,,city-us,0,38.482,-86.832,428
+22619,Kellerville,MO,Shelby County,,city-us,0,39.822,-92.135,298

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46777,Wick,OH,,city-us,0,41.534,-80.647,239
-46778,Wick,WV,,city-us,0,39.413,-80.974,266
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46777,Wick,OH,Ashtabula County,,city-us,0,41.534,-80.647,239
+46778,Wick,WV,Tyler County,,city-us,0,39.413,-80.974,266

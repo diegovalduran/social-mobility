@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6412,Cabot,AR,,city-us,26655,34.975,-92.017,11678
-6413,Cabot,VT,,city-us,298,44.401,-72.312,3427
-6411,Cabot,PA,,city-us,0,40.765,-79.766,854
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6412,Cabot,AR,Lonoke County,,city-us,26655,34.975,-92.017,11678
+6413,Cabot,VT,Washington County,,city-us,298,44.401,-72.312,3427
+6411,Cabot,PA,Butler County,,city-us,0,40.765,-79.766,854

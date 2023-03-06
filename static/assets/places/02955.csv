@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14822,Fern,MI,,city-us,582,43.861,-86.231,2295
-14821,Fern,MN,,city-us,292,47.358,-95.109,2693
-14819,Fern,WI,,city-us,153,45.836,-88.386,1782
-14820,Fern,IA,,city-us,0,42.485,-92.771,821
-14823,Fern,WV,,city-us,0,39.348,-81.066,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14822,Fern,MI,Mason County,,city-us,582,43.861,-86.231,2295
+14821,Fern,MN,Hubbard County,,city-us,292,47.358,-95.109,2693
+14819,Fern,WI,Florence County,,city-us,153,45.836,-88.386,1782
+14820,Fern,IA,Grundy County,,city-us,0,42.485,-92.771,821
+14823,Fern,WV,Pleasants County,,city-us,0,39.348,-81.066,127

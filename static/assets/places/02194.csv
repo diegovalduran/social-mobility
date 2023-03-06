@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10980,Danvers,MA,,city-us,27966,42.575,-70.930,14958
-10982,Danvers,IL,,city-us,1845,40.544,-89.210,426
-10983,Danvers,MN,,city-us,103,45.282,-95.752,2894
-10981,Danvers,MT,,city-us,16,47.225,-109.717,315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10980,Danvers,MA,Essex County,,city-us,27966,42.575,-70.930,14958
+10982,Danvers,IL,McLean County,,city-us,1845,40.544,-89.210,426
+10983,Danvers,MN,Swift County,,city-us,103,45.282,-95.752,2894
+10981,Danvers,MT,Fergus County,,city-us,16,47.225,-109.717,315

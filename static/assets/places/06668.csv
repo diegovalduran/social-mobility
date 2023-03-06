@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33905,Philpot,KY,,city-us,991,37.733,-86.989,469
-33906,Philpott,VA,,city-us,0,36.790,-80.006,255
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33905,Philpot,KY,Daviess County,,city-us,991,37.733,-86.989,469
+33906,Philpott,VA,Henry County,,city-us,0,36.790,-80.006,255

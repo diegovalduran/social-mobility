@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6782,Cannelton,IN,,city-us,1523,37.911,-86.744,4676
-6780,Cannelton,PA,,city-us,0,40.799,-80.476,414
-6781,Cannelton,WV,,city-us,0,38.194,-81.296,2430
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6782,Cannelton,IN,Perry County,,city-us,1523,37.911,-86.744,4676
+6780,Cannelton,PA,Beaver County,,city-us,0,40.799,-80.476,414
+6781,Cannelton,WV,Fayette County,,city-us,0,38.194,-81.296,2430

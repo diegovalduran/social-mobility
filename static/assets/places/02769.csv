@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13779,Enlow,PA,,city-us,1038,40.454,-80.233,625
-13778,Enloe,TX,,city-us,0,33.433,-95.657,130
-21442,Inlow,OR,,city-us,0,44.041,-123.585,354
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13779,Enlow,PA,Allegheny County,,city-us,1038,40.454,-80.233,625
+13778,Enloe,TX,Delta County,,city-us,0,33.433,-95.657,130
+21442,Inlow,OR,Lane County,,city-us,0,44.041,-123.585,354

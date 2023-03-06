@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37987,Russells Point,OH,,city-us,1321,40.471,-83.893,4433
-38003,Russels Point,IN,,city-us,0,41.554,-84.925,166
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37987,Russells Point,OH,Logan County,,city-us,1321,40.471,-83.893,4433
+38003,Russels Point,IN,Steuben County,,city-us,0,41.554,-84.925,166

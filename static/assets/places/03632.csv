@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18422,Hailey,ID,,city-us,9463,43.520,-114.315,9719
-18445,Haley,ND,,city-us,41,45.976,-103.052,134
-18444,Haley,TN,,city-us,0,35.488,-86.311,373
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18422,Hailey,ID,Blaine County,,city-us,9463,43.520,-114.315,9719
+18445,Haley,ND,Bowman County,,city-us,41,45.976,-103.052,134
+18444,Haley,TN,Bedford County,,city-us,0,35.488,-86.311,373

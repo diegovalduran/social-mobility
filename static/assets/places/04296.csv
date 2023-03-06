@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22200,Johnsburg,IL,,city-us,6377,42.380,-88.242,6245
-22202,Johnsburg,NY,,city-us,2124,43.614,-74.067,3994
-22198,Johnsburg,IN,,city-us,0,38.218,-86.956,334
-22199,Johnsburg,WI,,city-us,0,43.877,-88.290,1121
-22201,Johnsburg,MN,,city-us,0,43.506,-92.769,101
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22200,Johnsburg,IL,McHenry County,,city-us,6377,42.380,-88.242,6245
+22202,Johnsburg,NY,Warren County,,city-us,2124,43.614,-74.067,3994
+22198,Johnsburg,IN,Dubois County,,city-us,0,38.218,-86.956,334
+22199,Johnsburg,WI,Fond du Lac County,,city-us,0,43.877,-88.290,1121
+22201,Johnsburg,MN,Mower County,,city-us,0,43.506,-92.769,101

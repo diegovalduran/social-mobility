@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14910,Finchville,NE,,city-us,0,41.371,-100.083,201
-14911,Finchville,KY,,city-us,0,38.154,-85.313,4754
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14910,Finchville,NE,Custer County,,city-us,0,41.371,-100.083,201
+14911,Finchville,KY,Shelby County,,city-us,0,38.154,-85.313,4754

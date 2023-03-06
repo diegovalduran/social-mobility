@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20794,Houghton,MI,,city-us,7622,47.122,-88.569,20839
-19285,Haughton,LA,,city-us,4484,32.533,-93.504,1321
-20792,Houghton,NY,,city-us,1681,42.423,-78.157,2202
-20796,Houghton,IA,,city-us,137,40.784,-91.603,3620
-20795,Houghton,MI,,city-us,72,48.096,-88.566,4043
-19354,Hawton,IN,,city-us,0,39.126,-87.311,224
-20793,Houghton,SD,,city-us,0,45.763,-98.210,525
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20794,Houghton,MI,Houghton County,,city-us,7622,47.122,-88.569,20839
+19285,Haughton,LA,Bossier Parish,,city-us,4484,32.533,-93.504,1321
+20792,Houghton,NY,Allegany County,,city-us,1681,42.423,-78.157,2202
+20796,Houghton,IA,Lee County,,city-us,137,40.784,-91.603,3620
+20795,Houghton,MI,Keweenaw County,,city-us,72,48.096,-88.566,4043
+19354,Hawton,IN,Sullivan County,,city-us,0,39.126,-87.311,224
+20793,Houghton,SD,Brown County,,city-us,0,45.763,-98.210,525

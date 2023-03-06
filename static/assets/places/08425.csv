@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42522,Tate,OH,,city-us,9223,38.952,-84.102,1375
-42524,Tate,IL,,city-us,283,37.886,-88.635,333
-42523,Tate,GA,,city-us,0,34.418,-84.383,1925
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42522,Tate,OH,Clermont County,,city-us,9223,38.952,-84.102,1375
+42524,Tate,IL,Saline County,,city-us,283,37.886,-88.635,333
+42523,Tate,GA,Pickens County,,city-us,0,34.418,-84.383,1925

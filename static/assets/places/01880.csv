@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9644,Confidence,IL,,city-us,0,38.923,-88.926,138
-9645,Confidence,WV,,city-us,0,38.572,-81.829,382
-9646,Confidence,CA,,city-us,0,38.047,-120.200,265
-9647,Confidence,IA,,city-us,0,40.863,-93.126,1843
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9644,Confidence,IL,Fayette County,,city-us,0,38.923,-88.926,138
+9645,Confidence,WV,Putnam County,,city-us,0,38.572,-81.829,382
+9646,Confidence,CA,Tuolumne County,,city-us,0,38.047,-120.200,265
+9647,Confidence,IA,Wayne County,,city-us,0,40.863,-93.126,1843

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48085,Yucatan,MO,,city-us,0,38.854,-91.751,373
-48086,Yucatan,MN,,city-us,0,43.681,-91.689,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48085,Yucatan,MO,Callaway County,,city-us,0,38.854,-91.751,373
+48086,Yucatan,MN,Houston County,,city-us,0,43.681,-91.689,88

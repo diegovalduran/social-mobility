@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22061,Jeffrey,WV,,city-us,0,37.971,-81.821,267
-22062,Jeffrey,KY,,city-us,0,36.751,-85.841,1374
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22061,Jeffrey,WV,Boone County,,city-us,0,37.971,-81.821,267
+22062,Jeffrey,KY,Monroe County,,city-us,0,36.751,-85.841,1374

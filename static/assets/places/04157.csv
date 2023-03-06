@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21383,Industry,PA,,city-us,1810,40.645,-80.416,3371
-21386,Industry,ME,,city-us,796,44.751,-70.049,3151
-21388,Industry,IL,,city-us,568,40.323,-90.620,339
-21382,Industry,TX,,city-us,273,29.972,-96.502,3099
-21387,Industry,CA,,city-us,245,34.020,-117.959,11604
-21384,Industry,AL,,city-us,0,31.604,-86.613,83
-21385,Industry,KS,,city-us,0,39.133,-97.171,548
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21383,Industry,PA,Beaver County,,city-us,1810,40.645,-80.416,3371
+21386,Industry,ME,Franklin County,,city-us,796,44.751,-70.049,3151
+21388,Industry,IL,McDonough County,,city-us,568,40.323,-90.620,339
+21382,Industry,TX,Austin County,,city-us,273,29.972,-96.502,3099
+21387,Industry,CA,Los Angeles County,,city-us,245,34.020,-117.959,11604
+21384,Industry,AL,Butler County,,city-us,0,31.604,-86.613,83
+21385,Industry,KS,Clay County,,city-us,0,39.133,-97.171,548

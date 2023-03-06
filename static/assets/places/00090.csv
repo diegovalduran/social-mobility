@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-471,Albright,WV,,city-us,261,39.494,-79.643,3513
-472,Albright,MN,,city-us,0,45.129,-94.114,316
-609,Allbright,MO,,city-us,0,37.329,-90.227,414
+id,name,state,county,country,level,population,latitude,longitude,wiki
+471,Albright,WV,Preston County,,city-us,261,39.494,-79.643,3513
+472,Albright,MN,Wright County,,city-us,0,45.129,-94.114,316
+609,Allbright,MO,Madison County,,city-us,0,37.329,-90.227,414

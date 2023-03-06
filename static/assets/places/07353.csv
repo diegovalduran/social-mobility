@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37335,Rodney,MI,,city-us,1975,43.682,-85.389,3168
-37336,Rodney,IA,,city-us,41,42.206,-95.953,3733
-37334,Rodney,OH,,city-us,0,38.849,-82.304,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37335,Rodney,MI,Mecosta County,,city-us,1975,43.682,-85.389,3168
+37336,Rodney,IA,Monona County,,city-us,41,42.206,-95.953,3733
+37334,Rodney,OH,Gallia County,,city-us,0,38.849,-82.304,180

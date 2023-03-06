@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13146,Ela,IL,,city-us,45300,42.196,-88.062,1759
-13384,Ella,WI,,city-us,325,44.537,-92.050,2014
-13147,Ela,NC,,city-us,0,35.449,-83.391,372
-13381,Ella,KY,,city-us,0,37.157,-85.140,115
-13382,Ella,PA,,city-us,0,41.310,-79.191,226
-13383,Ella,OR,,city-us,0,45.631,-119.809,653
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13146,Ela,IL,Lake County,,city-us,45300,42.196,-88.062,1759
+13384,Ella,WI,Pepin County,,city-us,325,44.537,-92.050,2014
+13147,Ela,NC,Swain County,,city-us,0,35.449,-83.391,372
+13381,Ella,KY,Adair County,,city-us,0,37.157,-85.140,115
+13382,Ella,PA,Jefferson County,,city-us,0,41.310,-79.191,226
+13383,Ella,OR,Morrow County,,city-us,0,45.631,-119.809,653

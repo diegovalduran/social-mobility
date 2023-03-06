@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40115,Smithton,IL,,city-us,4135,38.434,-89.985,722
-40114,Smithton,MO,,city-us,513,38.680,-93.093,3141
-40116,Smithton,PA,,city-us,343,40.154,-79.741,4390
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40115,Smithton,IL,St. Clair County,,city-us,4135,38.434,-89.985,722
+40114,Smithton,MO,Pettis County,,city-us,513,38.680,-93.093,3141
+40116,Smithton,PA,Westmoreland County,,city-us,343,40.154,-79.741,4390

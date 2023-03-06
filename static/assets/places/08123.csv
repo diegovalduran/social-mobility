@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41119,St. Patrick,MO,,city-us,0,40.264,-91.627,571
-41120,St. Patrick,MN,,city-us,0,44.595,-93.502,221
-41121,St. Patrick,OH,,city-us,0,40.371,-84.287,1106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41119,St. Patrick,MO,Clark County,,city-us,0,40.264,-91.627,571
+41120,St. Patrick,MN,Scott County,,city-us,0,44.595,-93.502,221
+41121,St. Patrick,OH,Shelby County,,city-us,0,40.371,-84.287,1106

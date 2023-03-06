@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4283,Blakes,IL,,city-us,0,41.459,-88.753,180
-4284,Blakes,VA,,city-us,0,37.499,-76.368,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4283,Blakes,IL,LaSalle County,,city-us,0,41.459,-88.753,180
+4284,Blakes,VA,Mathews County,,city-us,0,37.499,-76.368,221

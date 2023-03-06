@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14884,Filer,ID,,city-us,2824,42.570,-114.608,4004
-14883,Filer,MI,,city-us,2332,44.198,-86.315,2234
-14882,Filer,MO,,city-us,0,37.030,-92.415,366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14884,Filer,ID,Twin Falls County,,city-us,2824,42.570,-114.608,4004
+14883,Filer,MI,Manistee County,,city-us,2332,44.198,-86.315,2234
+14882,Filer,MO,Douglas County,,city-us,0,37.030,-92.415,366

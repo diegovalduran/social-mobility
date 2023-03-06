@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30039,Mukwonago,WI,,city-us,8373,42.853,-88.321,5413
-30040,Mukwonago,WI,,city-us,7782,42.890,-88.373,2105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30039,Mukwonago,WI,Walworth County / Waukesha County,,city-us,8373,42.853,-88.321,5413
+30040,Mukwonago,WI,Waukesha County,,city-us,7782,42.890,-88.373,2105

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12703,East Kingston,NH,,city-us,2437,42.926,-71.003,3764
-12704,East Kingston,NY,,city-us,308,41.954,-73.968,2504
-12702,East Kingston,WV,,city-us,0,37.978,-81.294,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12703,East Kingston,NH,Rockingham County,,city-us,2437,42.926,-71.003,3764
+12704,East Kingston,NY,Ulster County,,city-us,308,41.954,-73.968,2504
+12702,East Kingston,WV,Fayette County,,city-us,0,37.978,-81.294,95

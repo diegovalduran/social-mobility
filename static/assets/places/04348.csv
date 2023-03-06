@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22499,Kandiyohi,MN,,city-us,572,45.132,-94.931,3648
-22498,Kandiyohi,ND,,city-us,39,48.584,-102.296,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22499,Kandiyohi,MN,Kandiyohi County,,city-us,572,45.132,-94.931,3648
+22498,Kandiyohi,ND,Burke County,,city-us,39,48.584,-102.296,0

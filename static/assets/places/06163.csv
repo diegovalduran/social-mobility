@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31439,North Union,PA,,city-us,11660,39.908,-79.680,319
-31441,North Union,PA,,city-us,1420,40.908,-76.204,319
-31440,North Union,IN,,city-us,0,39.966,-86.903,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31439,North Union,PA,Fayette County,,city-us,11660,39.908,-79.680,319
+31441,North Union,PA,Schuylkill County,,city-us,1420,40.908,-76.204,319
+31440,North Union,IN,Montgomery County,,city-us,0,39.966,-86.903,280

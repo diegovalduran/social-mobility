@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2440,Bard,CA,,city-us,0,32.789,-114.556,758
-2441,Bard,IA,,city-us,0,41.240,-91.287,979
-2442,Bard,NM,,city-us,0,35.129,-103.246,480
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2440,Bard,CA,Imperial County,,city-us,0,32.789,-114.556,758
+2441,Bard,IA,Louisa County,,city-us,0,41.240,-91.287,979
+2442,Bard,NM,Quay County,,city-us,0,35.129,-103.246,480

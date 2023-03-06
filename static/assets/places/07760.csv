@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39285,Shady Shores,TX,,city-us,2849,33.165,-97.029,3451
-39286,Shady Shores,MI,,city-us,1361,44.378,-83.955,2019
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39285,Shady Shores,TX,Denton County,,city-us,2849,33.165,-97.029,3451
+39286,Shady Shores,MI,Ogemaw County,,city-us,1361,44.378,-83.955,2019

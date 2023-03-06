@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44942,Wall Lake,SD,,city-us,1244,43.543,-96.950,0
-44944,Wall Lake,IA,,city-us,747,42.271,-95.093,3459
-44941,Wall Lake,IN,,city-us,0,41.731,-85.201,0
-44943,Wall Lake,MN,,city-us,0,46.291,-95.965,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44942,Wall Lake,SD,Minnehaha County,,city-us,1244,43.543,-96.950,0
+44944,Wall Lake,IA,Sac County,,city-us,747,42.271,-95.093,3459
+44941,Wall Lake,IN,LaGrange County / Steuben County,,city-us,0,41.731,-85.201,0
+44943,Wall Lake,MN,Otter Tail County,,city-us,0,46.291,-95.965,229

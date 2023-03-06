@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42416,Taft,CA,,city-us,8651,35.142,-119.457,17740
-42422,Taft,TX,,city-us,2818,27.979,-97.399,3479
-42420,Taft,FL,,city-us,2221,28.429,-81.368,2184
-42425,Taft,WI,,city-us,309,45.097,-90.874,2935
-42418,Taft,TN,,city-us,256,35.021,-86.718,255
-42419,Taft,OK,,city-us,174,35.762,-95.546,3619
-42423,Taft,LA,,city-us,105,29.991,-90.448,1567
-42414,Taft,ND,,city-us,41,46.772,-100.248,0
-42424,Taft,MN,,city-us,20,46.994,-92.333,946
-42415,Taft,MO,,city-us,0,36.635,-90.538,227
-42417,Taft,VA,,city-us,0,37.633,-76.391,89
-42421,Taft,KY,,city-us,0,37.361,-83.687,115
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42416,Taft,CA,Kern County,,city-us,8651,35.142,-119.457,17740
+42422,Taft,TX,San Patricio County,,city-us,2818,27.979,-97.399,3479
+42420,Taft,FL,Orange County,,city-us,2221,28.429,-81.368,2184
+42425,Taft,WI,Taylor County,,city-us,309,45.097,-90.874,2935
+42418,Taft,TN,Lincoln County,,city-us,256,35.021,-86.718,255
+42419,Taft,OK,Muskogee County,,city-us,174,35.762,-95.546,3619
+42423,Taft,LA,St. Charles Parish,,city-us,105,29.991,-90.448,1567
+42414,Taft,ND,Burleigh County,,city-us,41,46.772,-100.248,0
+42424,Taft,MN,St. Louis County,,city-us,20,46.994,-92.333,946
+42415,Taft,MO,Butler County,,city-us,0,36.635,-90.538,227
+42417,Taft,VA,Lancaster County,,city-us,0,37.633,-76.391,89
+42421,Taft,KY,Owsley County,,city-us,0,37.361,-83.687,115

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39370,Sharp,MO,,city-us,0,36.600,-92.208,405
-39371,Sharpe,KS,,city-us,0,38.282,-95.692,236
-39372,Sharpe,KY,,city-us,0,36.969,-88.458,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39370,Sharp,MO,Ozark County,,city-us,0,36.600,-92.208,405
+39371,Sharpe,KS,Coffey County,,city-us,0,38.282,-95.692,236
+39372,Sharpe,KY,Marshall County,,city-us,0,36.969,-88.458,156

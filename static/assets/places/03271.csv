@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16519,Geneseo,NY,,city-us,8129,42.796,-77.817,8562
-16518,Geneseo,IL,,city-us,7519,41.455,-90.145,1361
-16521,Geneseo,SD,,city-us,288,45.363,-96.688,0
-16520,Geneseo,KS,,city-us,231,38.516,-98.157,4283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16519,Geneseo,NY,Livingston County,,city-us,8129,42.796,-77.817,8562
+16518,Geneseo,IL,Henry County,,city-us,7519,41.455,-90.145,1361
+16521,Geneseo,SD,Roberts County,,city-us,288,45.363,-96.688,0
+16520,Geneseo,KS,Rice County,,city-us,231,38.516,-98.157,4283

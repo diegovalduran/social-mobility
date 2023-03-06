@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16863,Gladesville,GA,,city-us,0,33.194,-83.778,291
-16864,Gladesville,WV,,city-us,0,39.467,-79.877,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16863,Gladesville,GA,Jasper County,,city-us,0,33.194,-83.778,291
+16864,Gladesville,WV,Preston County,,city-us,0,39.467,-79.877,261

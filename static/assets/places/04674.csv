@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23925,Langford,SD,,city-us,290,45.602,-97.830,3179
-23924,Langford,MD,,city-us,0,39.188,-76.141,181
-23926,Langford,MS,,city-us,0,32.347,-89.972,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23925,Langford,SD,Marshall County,,city-us,290,45.602,-97.830,3179
+23924,Langford,MD,Kent County,,city-us,0,39.188,-76.141,181
+23926,Langford,MS,Rankin County,,city-us,0,32.347,-89.972,199

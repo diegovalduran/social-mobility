@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14022,Eunice,LA,,city-us,9310,30.490,-92.419,7234
-14025,Eunice,NM,,city-us,2997,32.437,-103.159,2749
-14023,Eunice,KY,,city-us,0,37.183,-85.122,116
-14024,Eunice,AR,,city-us,0,33.547,-91.233,1411
-14026,Eunice,WV,,city-us,0,37.946,-81.543,73
-14027,Eunice,MO,,city-us,0,37.245,-91.780,357
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14022,Eunice,LA,Acadia Parish / St. Landry Parish,,city-us,9310,30.490,-92.419,7234
+14025,Eunice,NM,Lea County,,city-us,2997,32.437,-103.159,2749
+14023,Eunice,KY,Adair County,,city-us,0,37.183,-85.122,116
+14024,Eunice,AR,Chicot County,,city-us,0,33.547,-91.233,1411
+14026,Eunice,WV,Raleigh County,,city-us,0,37.946,-81.543,73
+14027,Eunice,MO,Texas County,,city-us,0,37.245,-91.780,357

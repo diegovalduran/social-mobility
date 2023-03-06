@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38389,Sampson,WI,,city-us,991,45.240,-91.434,3325
-38390,Sampson,WI,,city-us,0,44.765,-88.186,1040
-38391,Sampson,MO,,city-us,0,37.442,-92.843,393
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38389,Sampson,WI,Chippewa County,,city-us,991,45.240,-91.434,3325
+38390,Sampson,WI,Oconto County,,city-us,0,44.765,-88.186,1040
+38391,Sampson,MO,Webster County,,city-us,0,37.442,-92.843,393

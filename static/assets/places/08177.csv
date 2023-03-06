@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41373,Steele Creek,AK,,city-us,7399,64.926,-147.435,1328
-41366,Steel Creek,NE,,city-us,29,42.691,-98.368,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41373,Steele Creek,AK,Fairbanks North Star Borough,,city-us,7399,64.926,-147.435,1328
+41366,Steel Creek,NE,Holt County,,city-us,29,42.691,-98.368,248

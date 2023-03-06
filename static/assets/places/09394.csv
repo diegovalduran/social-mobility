@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47464,Womelsdorf,PA,,city-us,2888,40.362,-76.184,3396
-47465,Womelsdorf,WV,,city-us,189,38.898,-79.964,2750
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47464,Womelsdorf,PA,Berks County,,city-us,2888,40.362,-76.184,3396
+47465,Womelsdorf,WV,Randolph County,,city-us,189,38.898,-79.964,2750

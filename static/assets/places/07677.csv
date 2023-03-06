@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38879,Sciota,MI,,city-us,1675,42.908,-84.322,2056
-38876,Sciota,MN,,city-us,459,44.505,-93.056,1867
-38877,Sciota,IL,,city-us,450,40.589,-90.732,299
-38878,Sciota,PA,,city-us,0,40.929,-75.316,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38879,Sciota,MI,Shiawassee County,,city-us,1675,42.908,-84.322,2056
+38876,Sciota,MN,Dakota County,,city-us,459,44.505,-93.056,1867
+38877,Sciota,IL,McDonough County,,city-us,450,40.589,-90.732,299
+38878,Sciota,PA,Monroe County,,city-us,0,40.929,-75.316,223

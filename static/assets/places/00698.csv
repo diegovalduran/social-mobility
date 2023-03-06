@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3570,Berea,OH,,city-us,18682,41.366,-81.854,13520
-3574,Berea,KY,,city-us,15924,37.569,-84.296,5755
-3572,Berea,SC,,city-us,15892,34.885,-82.456,2231
-3575,Berea,WV,,city-us,83,39.136,-80.934,517
-3569,Berea,NE,,city-us,33,42.214,-102.980,1862
-3568,Berea,IA,,city-us,0,41.374,-94.680,1553
-3571,Berea,TN,,city-us,0,35.258,-86.968,147
-3573,Berea,TX,,city-us,0,31.334,-95.311,179
-3576,Berea,VA,,city-us,0,38.362,-77.520,89
-3577,Berea,TN,,city-us,0,35.809,-85.704,148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3570,Berea,OH,Cuyahoga County,,city-us,18682,41.366,-81.854,13520
+3574,Berea,KY,Madison County,,city-us,15924,37.569,-84.296,5755
+3572,Berea,SC,Greenville County,,city-us,15892,34.885,-82.456,2231
+3575,Berea,WV,Ritchie County,,city-us,83,39.136,-80.934,517
+3569,Berea,NE,Box Butte County,,city-us,33,42.214,-102.980,1862
+3568,Berea,IA,Adair County,,city-us,0,41.374,-94.680,1553
+3571,Berea,TN,Giles County,,city-us,0,35.258,-86.968,147
+3573,Berea,TX,Houston County,,city-us,0,31.334,-95.311,179
+3576,Berea,VA,Stafford County,,city-us,0,38.362,-77.520,89
+3577,Berea,TN,Warren County,,city-us,0,35.809,-85.704,148

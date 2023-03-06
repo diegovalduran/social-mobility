@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35277,Prairieville,LA,,city-us,34118,30.303,-90.972,2789
-35278,Prairieville,MI,,city-us,3397,42.472,-85.484,2003
-35279,Prairieville,MN,,city-us,231,44.320,-94.797,2489
-35280,Prairieville,AL,,city-us,0,32.510,-87.694,550
-35281,Prairieville,TX,,city-us,0,32.480,-96.103,2004
-35282,Prairieville,MN,,city-us,0,44.284,-93.192,269
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35277,Prairieville,LA,Ascension Parish,,city-us,34118,30.303,-90.972,2789
+35278,Prairieville,MI,Barry County,,city-us,3397,42.472,-85.484,2003
+35279,Prairieville,MN,Brown County,,city-us,231,44.320,-94.797,2489
+35280,Prairieville,AL,Hale County,,city-us,0,32.510,-87.694,550
+35281,Prairieville,TX,Kaufman County,,city-us,0,32.480,-96.103,2004
+35282,Prairieville,MN,Rice County,,city-us,0,44.284,-93.192,269

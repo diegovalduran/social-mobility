@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42388,Syria,,,country,22933531,34.802,38.997,79007
-42386,Syria,VA,,city-us,0,38.488,-78.326,1414
-42387,Syria,IN,,city-us,0,38.586,-86.402,301
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42388,Syria,,,,country,22933531,34.802,38.997,79007
+42386,Syria,VA,Madison County,,city-us,0,38.488,-78.326,1414
+42387,Syria,IN,Orange County,,city-us,0,38.586,-86.402,301

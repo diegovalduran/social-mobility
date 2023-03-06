@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41814,Sugar Bush,MN,,city-us,561,47.001,-95.676,178
-41815,Sugar Bush,MN,,city-us,218,47.530,-94.627,178
-41816,Sugar Bush,WI,,city-us,0,44.502,-87.786,207
-41817,Sugar Bush,WI,,city-us,0,44.482,-88.736,1186
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41814,Sugar Bush,MN,Becker County,,city-us,561,47.001,-95.676,178
+41815,Sugar Bush,MN,Beltrami County,,city-us,218,47.530,-94.627,178
+41816,Sugar Bush,WI,Brown County,,city-us,0,44.502,-87.786,207
+41817,Sugar Bush,WI,Outagamie County,,city-us,0,44.482,-88.736,1186

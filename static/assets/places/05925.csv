@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30387,Negley,OH,,city-us,391,40.790,-80.539,2794
-30388,Negley,TX,,city-us,0,33.760,-95.085,1006
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30387,Negley,OH,Columbiana County,,city-us,391,40.790,-80.539,2794
+30388,Negley,TX,Red River County,,city-us,0,33.760,-95.085,1006

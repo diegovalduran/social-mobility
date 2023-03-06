@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40764,Springboro,OH,,city-us,19263,39.562,-84.234,9845
-40763,Springboro,PA,,city-us,374,41.801,-80.369,2449
-40765,Springboro,IN,,city-us,0,40.595,-86.775,420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40764,Springboro,OH,Montgomery County / Warren County,,city-us,19263,39.562,-84.234,9845
+40763,Springboro,PA,Crawford County,,city-us,374,41.801,-80.369,2449
+40765,Springboro,IN,White County,,city-us,0,40.595,-86.775,420

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5213,Bridge Creek,WI,,city-us,2238,44.714,-91.049,2148
-5214,Bridge Creek,OK,,city-us,344,35.235,-97.737,1627
-5212,Bridge Creek,MO,,city-us,0,39.572,-93.385,487
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5213,Bridge Creek,WI,Eau Claire County,,city-us,2238,44.714,-91.049,2148
+5214,Bridge Creek,OK,Grady County,,city-us,344,35.235,-97.737,1627
+5212,Bridge Creek,MO,Carroll County,,city-us,0,39.572,-93.385,487

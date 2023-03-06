@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25717,Lordsburg,NM,,city-us,2273,32.350,-108.709,9973
-25716,Lordsburg,ND,,city-us,16,48.770,-100.229,141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25717,Lordsburg,NM,Hidalgo County,,city-us,2273,32.350,-108.709,9973
+25716,Lordsburg,ND,Bottineau County,,city-us,16,48.770,-100.229,141

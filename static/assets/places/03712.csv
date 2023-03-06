@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19718,Herald,CA,,city-us,1041,38.296,-121.244,2967
-18943,Harold,FL,,city-us,823,30.659,-86.880,432
-19104,Harrold,SD,,city-us,99,44.524,-99.739,3233
-18941,Harold,KY,,city-us,0,37.537,-82.633,490
-18942,Harold,MO,,city-us,0,37.378,-93.516,349
-19105,Harrold,TX,,city-us,0,34.081,-99.032,495
-19719,Herald,IL,,city-us,0,37.966,-88.181,259
-19775,Herold,WV,,city-us,0,38.567,-80.810,271
-19776,Herold,WI,,city-us,0,44.306,-91.842,328
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19718,Herald,CA,Sacramento County,,city-us,1041,38.296,-121.244,2967
+18943,Harold,FL,Santa Rosa County,,city-us,823,30.659,-86.880,432
+19104,Harrold,SD,Hughes County,,city-us,99,44.524,-99.739,3233
+18941,Harold,KY,Floyd County,,city-us,0,37.537,-82.633,490
+18942,Harold,MO,Greene County,,city-us,0,37.378,-93.516,349
+19105,Harrold,TX,Wilbarger County,,city-us,0,34.081,-99.032,495
+19719,Herald,IL,White County,,city-us,0,37.966,-88.181,259
+19775,Herold,WV,Braxton County,,city-us,0,38.567,-80.810,271
+19776,Herold,WI,Buffalo County,,city-us,0,44.306,-91.842,328

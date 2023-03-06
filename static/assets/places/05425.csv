@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27780,Media,PA,,city-us,5858,39.917,-75.388,18791
-27781,Media,IL,,city-us,357,40.763,-90.846,851
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27780,Media,PA,Delaware County,,city-us,5858,39.917,-75.388,18791
+27781,Media,IL,Henderson County,,city-us,357,40.763,-90.846,851

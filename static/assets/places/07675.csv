@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38870,Schuylkill,PA,,city-us,8778,40.108,-75.493,201
-38871,Schuylkill,PA,,city-us,1077,40.789,-76.012,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38870,Schuylkill,PA,Chester County,,city-us,8778,40.108,-75.493,201
+38871,Schuylkill,PA,Schuylkill County,,city-us,1077,40.789,-76.012,201

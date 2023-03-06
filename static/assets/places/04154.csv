@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21376,Indio,CA,,city-us,90416,33.721,-116.216,41433
-21377,Indio,TX,,city-us,0,26.549,-99.096,466
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21376,Indio,CA,Riverside County,,city-us,90416,33.721,-116.216,41433
+21377,Indio,TX,Starr County,,city-us,0,26.549,-99.096,466

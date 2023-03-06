@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1798,Atkins,MI,,city-us,5579,43.039,-82.588,3736
-1796,Atkins,AR,,city-us,2856,35.246,-92.937,3227
-1792,Atkins,IA,,city-us,2098,41.997,-91.862,3202
-1797,Atkins,VA,,city-us,1090,36.867,-81.423,1963
-1799,Atkins,ND,,city-us,22,48.430,-99.279,0
-1793,Atkins,LA,,city-us,0,32.310,-93.515,126
-1794,Atkins,WI,,city-us,0,45.665,-89.023,314
-1795,Atkins,NE,,city-us,0,41.724,-103.215,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1798,Atkins,MI,St. Clair County,,city-us,5579,43.039,-82.588,3736
+1796,Atkins,AR,Pope County,,city-us,2856,35.246,-92.937,3227
+1792,Atkins,IA,Benton County,,city-us,2098,41.997,-91.862,3202
+1797,Atkins,VA,Smyth County,,city-us,1090,36.867,-81.423,1963
+1799,Atkins,ND,Towner County,,city-us,22,48.430,-99.279,0
+1793,Atkins,LA,Bossier Parish,,city-us,0,32.310,-93.515,126
+1794,Atkins,WI,Forest County,,city-us,0,45.665,-89.023,314
+1795,Atkins,NE,Morrill County,,city-us,0,41.724,-103.215,202

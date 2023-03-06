@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14905,Fincastle,TN,,city-us,1074,36.410,-84.048,639
-14907,Fincastle,KY,,city-us,839,38.308,-85.542,2597
-14903,Fincastle,VA,,city-us,723,37.499,-79.877,3931
-14904,Fincastle,OH,,city-us,0,38.992,-83.715,249
-14906,Fincastle,TX,,city-us,0,32.129,-95.568,99
-14908,Fincastle,KY,,city-us,0,37.645,-83.649,82
-14909,Fincastle,IN,,city-us,0,39.808,-86.895,365
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14905,Fincastle,TN,Campbell County,,city-us,1074,36.410,-84.048,639
+14907,Fincastle,KY,Jefferson County,,city-us,839,38.308,-85.542,2597
+14903,Fincastle,VA,Botetourt County,,city-us,723,37.499,-79.877,3931
+14904,Fincastle,OH,Brown County,,city-us,0,38.992,-83.715,249
+14906,Fincastle,TX,Henderson County,,city-us,0,32.129,-95.568,99
+14908,Fincastle,KY,Lee County,,city-us,0,37.645,-83.649,82
+14909,Fincastle,IN,Putnam County,,city-us,0,39.808,-86.895,365

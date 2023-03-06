@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23394,La Salle,MI,,city-us,4894,41.844,-83.459,4568
-23396,La Salle,CO,,city-us,2342,40.349,-104.702,2534
-23395,La Salle,MN,,city-us,77,44.071,-94.570,2946
-23393,La Salle,TX,,city-us,0,28.792,-96.669,1627
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23394,La Salle,MI,Monroe County,,city-us,4894,41.844,-83.459,4568
+23396,La Salle,CO,Weld County,,city-us,2342,40.349,-104.702,2534
+23395,La Salle,MN,Watonwan County,,city-us,77,44.071,-94.570,2946
+23393,La Salle,TX,Jackson County,,city-us,0,28.792,-96.669,1627

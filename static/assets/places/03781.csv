@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19356,Hay,MI,,city-us,1283,43.951,-84.338,2481
-19355,Hay,ND,,city-us,28,48.761,-98.146,0
-19357,Hay,WA,,city-us,0,46.679,-117.916,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19356,Hay,MI,Gladwin County,,city-us,1283,43.951,-84.338,2481
+19355,Hay,ND,Cavalier County,,city-us,28,48.761,-98.146,0
+19357,Hay,WA,Whitman County,,city-us,0,46.679,-117.916,159

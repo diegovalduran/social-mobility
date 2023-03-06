@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5635,Brownsburg,IN,,city-us,30068,39.843,-86.398,5722
-5636,Brownsburg,WV,,city-us,0,38.268,-80.075,144
-5637,Brownsburg,VA,,city-us,0,37.928,-79.319,284
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5635,Brownsburg,IN,Hendricks County,,city-us,30068,39.843,-86.398,5722
+5636,Brownsburg,WV,Pocahontas County,,city-us,0,38.268,-80.075,144
+5637,Brownsburg,VA,Rockbridge County,,city-us,0,37.928,-79.319,284

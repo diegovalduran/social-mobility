@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43154,Torun,,Poland,city-international,201447,53.017,18.617,34346
-43153,Torun,WI,,city-us,0,44.614,-89.509,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43154,Torun,,,Poland,city-international,201447,53.017,18.617,34346
+43153,Torun,WI,Portage County,,city-us,0,44.614,-89.509,110

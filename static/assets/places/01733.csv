@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8842,Clifdale,VA,,city-us,0,37.681,-80.015,105
-8846,Cliffdale,IL,,city-us,0,39.361,-90.626,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8842,Clifdale,VA,Alleghany County,,city-us,0,37.681,-80.015,105
+8846,Cliffdale,IL,Calhoun County,,city-us,0,39.361,-90.626,300

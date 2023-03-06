@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44336,Venus,TX,,city-us,5727,32.432,-97.103,2839
-44335,Venus,PA,,city-us,0,41.367,-79.478,410
-44337,Venus,FL,,city-us,0,27.067,-81.357,677
-44338,Venus,NE,,city-us,0,42.457,-98.268,251
-44339,Venus,MO,,city-us,0,38.180,-92.034,238
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44336,Venus,TX,Ellis County / Johnson County,,city-us,5727,32.432,-97.103,2839
+44335,Venus,PA,Clarion County,,city-us,0,41.367,-79.478,410
+44337,Venus,FL,Highlands County,,city-us,0,27.067,-81.357,677
+44338,Venus,NE,Knox County,,city-us,0,42.457,-98.268,251
+44339,Venus,MO,Maries County,,city-us,0,38.180,-92.034,238

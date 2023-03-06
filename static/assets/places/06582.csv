@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33460,Pedro,AR,,city-us,0,36.168,-94.404,306
-33461,Pedro,OH,,city-us,0,38.630,-82.668,495
-33462,Pedro,WV,,city-us,0,37.663,-80.314,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33460,Pedro,AR,Benton County,,city-us,0,36.168,-94.404,306
+33461,Pedro,OH,Lawrence County,,city-us,0,38.630,-82.668,495
+33462,Pedro,WV,Monroe County,,city-us,0,37.663,-80.314,212

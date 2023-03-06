@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24304,Leech,IL,,city-us,448,38.322,-88.200,333
-24212,Leach,OK,,city-us,322,36.205,-94.922,2610
-24211,Leach,TN,,city-us,0,35.933,-88.487,232
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24304,Leech,IL,Wayne County,,city-us,448,38.322,-88.200,333
+24212,Leach,OK,Delaware County,,city-us,322,36.205,-94.922,2610
+24211,Leach,TN,Carroll County,,city-us,0,35.933,-88.487,232

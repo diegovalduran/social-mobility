@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32412,Orchid,FL,,city-us,522,27.773,-80.417,2397
-32411,Orchid,MO,,city-us,0,39.952,-94.530,321
-32413,Orchid,VA,,city-us,0,37.829,-77.895,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32412,Orchid,FL,Indian River County,,city-us,522,27.773,-80.417,2397
+32411,Orchid,MO,DeKalb County,,city-us,0,39.952,-94.530,321
+32413,Orchid,VA,Louisa County,,city-us,0,37.829,-77.895,82

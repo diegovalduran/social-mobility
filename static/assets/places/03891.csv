@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19904,Higgins,MI,,city-us,1880,44.414,-84.562,2515
-19903,Higgins,TX,,city-us,345,36.120,-100.024,2310
-19905,Higgins,NC,,city-us,0,35.960,-82.380,2305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19904,Higgins,MI,Roscommon County,,city-us,1880,44.414,-84.562,2515
+19903,Higgins,TX,Lipscomb County,,city-us,345,36.120,-100.024,2310
+19905,Higgins,NC,Yancey County,,city-us,0,35.960,-82.380,2305

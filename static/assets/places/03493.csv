@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17708,Gratz,PA,,city-us,742,40.612,-76.719,2620
-17709,Gratz,KY,,city-us,66,38.474,-84.953,5592
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17708,Gratz,PA,Dauphin County,,city-us,742,40.612,-76.719,2620
+17709,Gratz,KY,Owen County,,city-us,66,38.474,-84.953,5592

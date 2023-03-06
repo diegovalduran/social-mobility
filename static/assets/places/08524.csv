@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42921,Tice,FL,,city-us,5200,26.675,-81.815,2442
-42922,Tice,IL,,city-us,0,39.985,-89.795,120
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42921,Tice,FL,Lee County,,city-us,5200,26.675,-81.815,2442
+42922,Tice,IL,Menard County,,city-us,0,39.985,-89.795,120

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8262,Childress,TX,,city-us,5844,34.426,-100.204,5712
-8263,Childress,VA,,city-us,0,37.821,-77.984,139
-8264,Childress,VA,,city-us,0,37.056,-80.504,471
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8262,Childress,TX,Childress County,,city-us,5844,34.426,-100.204,5712
+8263,Childress,VA,Goochland County,,city-us,0,37.821,-77.984,139
+8264,Childress,VA,Montgomery County,,city-us,0,37.056,-80.504,471

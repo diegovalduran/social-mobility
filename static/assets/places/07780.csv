@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39390,Sharptown,MD,,city-us,690,38.543,-75.719,3144
-39389,Sharptown,IN,,city-us,0,39.367,-84.874,320
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39390,Sharptown,MD,Wicomico County,,city-us,690,38.543,-75.719,3144
+39389,Sharptown,IN,Franklin County,,city-us,0,39.367,-84.874,320

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11364,Deering,NH,,city-us,1903,43.083,-71.861,3932
-11235,Dearing,GA,,city-us,527,33.413,-82.385,2537
-11236,Dearing,KS,,city-us,376,37.059,-95.713,3415
-11366,Deering,AK,,city-us,169,66.076,-162.717,3689
-11365,Deering,ND,,city-us,92,48.396,-101.052,3315
-11367,Deering,MO,,city-us,61,36.191,-89.883,613
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11364,Deering,NH,Hillsborough County,,city-us,1903,43.083,-71.861,3932
+11235,Dearing,GA,McDuffie County,,city-us,527,33.413,-82.385,2537
+11236,Dearing,KS,Montgomery County,,city-us,376,37.059,-95.713,3415
+11366,Deering,AK,Northwest Arctic Borough,,city-us,169,66.076,-162.717,3689
+11365,Deering,ND,McHenry County,,city-us,92,48.396,-101.052,3315
+11367,Deering,MO,Pemiscot County,,city-us,61,36.191,-89.883,613

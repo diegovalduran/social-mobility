@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39752,Shubert,NE,,city-us,161,40.236,-95.682,3345
-38863,Schubert,PA,,city-us,143,40.498,-76.221,411
-38864,Schubert,MO,,city-us,0,38.517,-92.050,340
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39752,Shubert,NE,Richardson County,,city-us,161,40.236,-95.682,3345
+38863,Schubert,PA,Berks County,,city-us,143,40.498,-76.221,411
+38864,Schubert,MO,Cole County,,city-us,0,38.517,-92.050,340

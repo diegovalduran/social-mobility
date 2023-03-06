@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33345,Paw Paw,MI,,city-us,6833,42.199,-85.941,2223
-33341,Paw Paw,IL,,city-us,818,41.689,-88.981,6000
-33343,Paw Paw,WV,,city-us,413,39.532,-78.458,9355
-33339,Paw Paw,IL,,city-us,312,41.677,-88.882,869
-33340,Paw Paw,KS,,city-us,121,37.567,-96.227,344
-33342,Paw Paw,WV,,city-us,0,39.549,-80.153,88
-33344,Paw Paw,KY,,city-us,0,37.438,-82.111,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33345,Paw Paw,MI,Van Buren County,,city-us,6833,42.199,-85.941,2223
+33341,Paw Paw,IL,Lee County,,city-us,818,41.689,-88.981,6000
+33343,Paw Paw,WV,Morgan County,,city-us,413,39.532,-78.458,9355
+33339,Paw Paw,IL,DeKalb County,,city-us,312,41.677,-88.882,869
+33340,Paw Paw,KS,Elk County,,city-us,121,37.567,-96.227,344
+33342,Paw Paw,WV,Marion County,,city-us,0,39.549,-80.153,88
+33344,Paw Paw,KY,Pike County,,city-us,0,37.438,-82.111,139

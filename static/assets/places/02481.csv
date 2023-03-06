@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12384,Duncan,OK,,city-us,22745,34.502,-97.958,11306
-12382,Duncan,SC,,city-us,4151,34.938,-82.145,3876
-12374,Duncan,AZ,,city-us,677,32.721,-109.105,5035
-12381,Duncan,NE,,city-us,387,41.389,-97.495,7703
-12370,Duncan,MS,,city-us,272,34.045,-90.745,2826
-12379,Duncan,IL,,city-us,259,41.278,-90.845,339
-12377,Duncan,MI,,city-us,242,46.523,-88.807,2456
-12385,Duncan,PA,,city-us,189,41.651,-77.255,2350
-12375,Duncan,IA,,city-us,100,43.105,-93.711,684
-12371,Duncan,KY,,city-us,0,37.359,-84.728,193
-12372,Duncan,IN,,city-us,0,38.288,-85.925,242
-12373,Duncan,VA,,city-us,0,36.912,-80.490,81
-12376,Duncan,NC,,city-us,0,35.563,-78.872,712
-12378,Duncan,WV,,city-us,0,38.903,-81.573,266
-12380,Duncan,KY,,city-us,0,37.849,-84.990,317
-12383,Duncan,IL,,city-us,0,40.984,-89.789,267
-12386,Duncan,MO,,city-us,0,37.282,-92.692,509
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12384,Duncan,OK,Stephens County,,city-us,22745,34.502,-97.958,11306
+12382,Duncan,SC,Spartanburg County,,city-us,4151,34.938,-82.145,3876
+12374,Duncan,AZ,Greenlee County,,city-us,677,32.721,-109.105,5035
+12381,Duncan,NE,Platte County,,city-us,387,41.389,-97.495,7703
+12370,Duncan,MS,Bolivar County,,city-us,272,34.045,-90.745,2826
+12379,Duncan,IL,Mercer County,,city-us,259,41.278,-90.845,339
+12377,Duncan,MI,Houghton County,,city-us,242,46.523,-88.807,2456
+12385,Duncan,PA,Tioga County,,city-us,189,41.651,-77.255,2350
+12375,Duncan,IA,Hancock County,,city-us,100,43.105,-93.711,684
+12371,Duncan,KY,Casey County,,city-us,0,37.359,-84.728,193
+12372,Duncan,IN,Floyd County,,city-us,0,38.288,-85.925,242
+12373,Duncan,VA,Floyd County,,city-us,0,36.912,-80.490,81
+12376,Duncan,NC,Harnett County,,city-us,0,35.563,-78.872,712
+12378,Duncan,WV,Jackson County,,city-us,0,38.903,-81.573,266
+12380,Duncan,KY,Mercer County,,city-us,0,37.849,-84.990,317
+12383,Duncan,IL,Stark County,,city-us,0,40.984,-89.789,267
+12386,Duncan,MO,Webster County,,city-us,0,37.282,-92.692,509

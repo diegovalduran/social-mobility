@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32646,Otho,IA,,city-us,428,42.425,-94.150,3199
-32645,Otho,AL,,city-us,0,31.690,-85.130,154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32646,Otho,IA,Webster County,,city-us,428,42.425,-94.150,3199
+32645,Otho,AL,Henry County,,city-us,0,31.690,-85.130,154

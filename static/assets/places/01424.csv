@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7333,Cayce,SC,,city-us,13739,33.950,-81.040,7975
-7180,Case,MI,,city-us,816,45.277,-84.074,1846
-7332,Cayce,KY,,city-us,260,36.555,-89.036,2508
-7179,Case,MO,,city-us,0,37.844,-92.764,331
-7181,Case,MO,,city-us,0,38.735,-91.374,317
-7334,Cayce,MS,,city-us,0,34.955,-89.618,818
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7333,Cayce,SC,Lexington County / Richland County,,city-us,13739,33.950,-81.040,7975
+7180,Case,MI,Presque Isle County,,city-us,816,45.277,-84.074,1846
+7332,Cayce,KY,Fulton County,,city-us,260,36.555,-89.036,2508
+7179,Case,MO,Laclede County,,city-us,0,37.844,-92.764,331
+7181,Case,MO,Warren County,,city-us,0,38.735,-91.374,317
+7334,Cayce,MS,Marshall County,,city-us,0,34.955,-89.618,818

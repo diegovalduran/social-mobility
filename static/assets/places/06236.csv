@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31887,Oakland Park,FL,,city-us,43650,26.172,-80.132,7509
-31888,Oakland Park,VA,,city-us,0,37.511,-75.821,111
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31887,Oakland Park,FL,Broward County,,city-us,43650,26.172,-80.132,7509
+31888,Oakland Park,VA,Northampton County,,city-us,0,37.511,-75.821,111

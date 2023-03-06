@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8347,Christiansburg,VA,,city-us,22615,37.130,-80.409,17575
-8346,Christiansburg,OH,,city-us,500,40.055,-84.026,3466
-8345,Christiansburg,IN,,city-us,0,39.089,-86.156,317
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8347,Christiansburg,VA,Montgomery County,,city-us,22615,37.130,-80.409,17575
+8346,Christiansburg,OH,Champaign County,,city-us,500,40.055,-84.026,3466
+8345,Christiansburg,IN,Brown County,,city-us,0,39.089,-86.156,317

@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3801,Bethesda,MD,,city-us,66294,38.981,-77.100,21164
-3794,Bethesda,OH,,city-us,1205,40.016,-81.073,4817
-3799,Bethesda,AR,,city-us,199,35.791,-91.789,532
-3795,Bethesda,GA,,city-us,0,31.963,-81.094,194
-3796,Bethesda,NC,,city-us,0,35.879,-80.241,122
-3797,Bethesda,NC,,city-us,0,35.943,-78.838,330
-3798,Bethesda,GA,,city-us,0,33.634,-83.010,155
-3800,Bethesda,PA,,city-us,0,39.846,-76.304,298
-3802,Bethesda,IA,,city-us,0,40.843,-95.100,242
-3803,Bethesda,WI,,city-us,0,42.988,-88.318,255
-3804,Bethesda,WV,,city-us,0,38.189,-82.423,96
-3805,Bethesda,TN,,city-us,0,35.761,-86.793,1801
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3801,Bethesda,MD,Montgomery County,,city-us,66294,38.981,-77.100,21164
+3794,Bethesda,OH,Belmont County,,city-us,1205,40.016,-81.073,4817
+3799,Bethesda,AR,Independence County,,city-us,199,35.791,-91.789,532
+3795,Bethesda,GA,Chatham County,,city-us,0,31.963,-81.094,194
+3796,Bethesda,NC,Davidson County,,city-us,0,35.879,-80.241,122
+3797,Bethesda,NC,Durham County,,city-us,0,35.943,-78.838,330
+3798,Bethesda,GA,Greene County,,city-us,0,33.634,-83.010,155
+3800,Bethesda,PA,Lancaster County,,city-us,0,39.846,-76.304,298
+3802,Bethesda,IA,Page County,,city-us,0,40.843,-95.100,242
+3803,Bethesda,WI,Waukesha County,,city-us,0,42.988,-88.318,255
+3804,Bethesda,WV,Wayne County,,city-us,0,38.189,-82.423,96
+3805,Bethesda,TN,Williamson County,,city-us,0,35.761,-86.793,1801

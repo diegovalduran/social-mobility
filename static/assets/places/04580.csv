@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23432,Ladd,IL,,city-us,1407,41.383,-89.219,3537
-23431,Ladd,ND,,city-us,18,45.982,-103.442,133
-23430,Ladd,VA,,city-us,0,38.056,-78.953,358
-23433,Ladd,MO,,city-us,0,37.586,-92.112,577
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23432,Ladd,IL,Bureau County,,city-us,1407,41.383,-89.219,3537
+23431,Ladd,ND,Bowman County,,city-us,18,45.982,-103.442,133
+23430,Ladd,VA,Augusta County,,city-us,0,38.056,-78.953,358
+23433,Ladd,MO,Texas County,,city-us,0,37.586,-92.112,577

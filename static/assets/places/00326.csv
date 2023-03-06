@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1662,Ashford,CT,,city-us,4186,41.897,-72.171,7381
-1661,Ashford,AL,,city-us,2247,31.183,-85.236,9443
-1659,Ashford,NY,,city-us,1956,42.454,-78.652,3866
-1660,Ashford,WI,,city-us,1773,43.587,-88.371,2023
-1663,Ashford,WA,,city-us,657,46.758,-122.031,2790
-1658,Ashford,WV,,city-us,0,38.179,-81.711,2195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1662,Ashford,CT,Northeastern Connecticut Planning Region,,city-us,4186,41.897,-72.171,7381
+1661,Ashford,AL,Houston County,,city-us,2247,31.183,-85.236,9443
+1659,Ashford,NY,Cattaraugus County,,city-us,1956,42.454,-78.652,3866
+1660,Ashford,WI,Fond du Lac County,,city-us,1773,43.587,-88.371,2023
+1663,Ashford,WA,Pierce County,,city-us,657,46.758,-122.031,2790
+1658,Ashford,WV,Boone County,,city-us,0,38.179,-81.711,2195

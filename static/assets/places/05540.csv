@@ -1,33 +1,33 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28476,Milford,CT,,city-us,52390,41.225,-73.061,22487
-28483,Milford,MA,,city-us,30277,42.159,-71.521,9404
-28472,Milford,DE,,city-us,12272,38.910,-75.422,8519
-28458,Milford,PA,,city-us,10212,40.432,-75.416,548
-28467,Milford,NH,,city-us,8437,42.835,-71.649,7148
-28461,Milford,OH,,city-us,6497,39.165,-84.285,6348
-28477,Milford,MI,,city-us,6474,42.594,-83.599,6270
-28459,Milford,OH,,city-us,3524,39.519,-84.632,176
-28464,Milford,IA,,city-us,3347,43.325,-95.150,8139
-28479,Milford,ME,,city-us,3058,44.993,-68.576,4708
-28481,Milford,NE,,city-us,2145,40.774,-97.051,4180
-28471,Milford,PA,,city-us,1956,40.552,-77.471,548
-28473,Milford,OH,,city-us,1934,40.295,-82.612,176
-28474,Milford,IN,,city-us,1608,41.410,-85.846,4026
-28480,Milford,PA,,city-us,1556,41.363,-74.837,548
-28455,Milford,UT,,city-us,1507,38.397,-113.011,2905
-28482,Milford,PA,,city-us,1483,39.956,-79.171,548
-28469,Milford,IL,,city-us,1471,40.630,-87.713,799
-28468,Milford,NJ,,city-us,1231,40.569,-75.095,11249
-28463,Milford,OH,,city-us,1102,41.391,-84.740,176
-28470,Milford,WI,,city-us,1099,43.101,-88.847,2883
-28465,Milford,TX,,city-us,730,32.125,-96.945,5078
-28457,Milford,MN,,city-us,689,44.329,-94.568,2633
-28478,Milford,NY,,city-us,401,42.591,-74.945,4028
-28466,Milford,KS,,city-us,400,39.168,-96.913,4005
-28453,Milford,MO,,city-us,250,37.590,-94.116,535
-28462,Milford,IN,,city-us,121,39.350,-85.619,1703
-28475,Milford,CA,,city-us,103,40.171,-120.372,2661
-28454,Milford,SD,,city-us,69,44.588,-98.041,0
-28452,Milford,GA,,city-us,0,31.382,-84.544,262
-28456,Milford,KY,,city-us,0,38.582,-84.157,281
-28460,Milford,VA,,city-us,0,38.023,-77.373,334
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28476,Milford,CT,New Haven County,,city-us,52390,41.225,-73.061,22487
+28483,Milford,MA,Worcester County,,city-us,30277,42.159,-71.521,9404
+28472,Milford,DE,Kent County / Sussex County,,city-us,12272,38.910,-75.422,8519
+28458,Milford,PA,Bucks County,,city-us,10212,40.432,-75.416,548
+28467,Milford,NH,Hillsborough County,,city-us,8437,42.835,-71.649,7148
+28461,Milford,OH,Clermont County / Hamilton County,,city-us,6497,39.165,-84.285,6348
+28477,Milford,MI,Oakland County,,city-us,6474,42.594,-83.599,6270
+28459,Milford,OH,Butler County,,city-us,3524,39.519,-84.632,176
+28464,Milford,IA,Dickinson County,,city-us,3347,43.325,-95.150,8139
+28479,Milford,ME,Penobscot County,,city-us,3058,44.993,-68.576,4708
+28481,Milford,NE,Seward County,,city-us,2145,40.774,-97.051,4180
+28471,Milford,PA,Juniata County,,city-us,1956,40.552,-77.471,548
+28473,Milford,OH,Knox County,,city-us,1934,40.295,-82.612,176
+28474,Milford,IN,Kosciusko County,,city-us,1608,41.410,-85.846,4026
+28480,Milford,PA,Pike County,,city-us,1556,41.363,-74.837,548
+28455,Milford,UT,Beaver County,,city-us,1507,38.397,-113.011,2905
+28482,Milford,PA,Somerset County,,city-us,1483,39.956,-79.171,548
+28469,Milford,IL,Iroquois County,,city-us,1471,40.630,-87.713,799
+28468,Milford,NJ,Hunterdon County,,city-us,1231,40.569,-75.095,11249
+28463,Milford,OH,Defiance County,,city-us,1102,41.391,-84.740,176
+28470,Milford,WI,Jefferson County,,city-us,1099,43.101,-88.847,2883
+28465,Milford,TX,Ellis County,,city-us,730,32.125,-96.945,5078
+28457,Milford,MN,Brown County,,city-us,689,44.329,-94.568,2633
+28478,Milford,NY,Otsego County,,city-us,401,42.591,-74.945,4028
+28466,Milford,KS,Geary County,,city-us,400,39.168,-96.913,4005
+28453,Milford,MO,Barton County,,city-us,250,37.590,-94.116,535
+28462,Milford,IN,Decatur County,,city-us,121,39.350,-85.619,1703
+28475,Milford,CA,Lassen County,,city-us,103,40.171,-120.372,2661
+28454,Milford,SD,Beadle County,,city-us,69,44.588,-98.041,0
+28452,Milford,GA,Baker County,,city-us,0,31.382,-84.544,262
+28456,Milford,KY,Bracken County,,city-us,0,38.582,-84.157,281
+28460,Milford,VA,Caroline County,,city-us,0,38.023,-77.373,334

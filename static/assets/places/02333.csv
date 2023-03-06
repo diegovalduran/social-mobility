@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11749,Dickerson,MD,,city-us,1848,39.220,-77.424,5670
-11748,Dickerson,IL,,city-us,0,40.318,-88.422,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11749,Dickerson,MD,Montgomery County,,city-us,1848,39.220,-77.424,5670
+11748,Dickerson,IL,Champaign County,,city-us,0,40.318,-88.422,117

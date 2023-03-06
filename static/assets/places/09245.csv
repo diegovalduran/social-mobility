@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46640,Whitehall,PA,,city-us,29178,40.657,-75.504,14594
-46636,Whitehall,OH,,city-us,20101,39.967,-82.885,9014
-46634,Whitehall,PA,,city-us,14902,40.361,-79.991,5518
-46647,Whitehall,NY,,city-us,4002,43.539,-73.385,6294
-46642,Whitehall,MI,,city-us,2934,43.410,-86.349,7440
-46646,Whitehall,WI,,city-us,1635,44.367,-91.317,4675
-46637,Whitehall,MT,,city-us,1039,45.871,-112.097,5257
-46635,Whitehall,MD,,city-us,0,38.561,-76.013,128
-46638,Whitehall,VA,,city-us,0,37.734,-77.043,93
-46639,Whitehall,LA,,city-us,0,31.624,-92.042,254
-46641,Whitehall,LA,,city-us,0,30.289,-90.700,263
-46643,Whitehall,IN,,city-us,0,39.174,-86.684,376
-46644,Whitehall,AR,,city-us,0,35.480,-90.736,328
-46645,Whitehall,NJ,,city-us,0,40.964,-74.739,541
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46640,Whitehall,PA,Lehigh County,,city-us,29178,40.657,-75.504,14594
+46636,Whitehall,OH,Franklin County,,city-us,20101,39.967,-82.885,9014
+46634,Whitehall,PA,Allegheny County,,city-us,14902,40.361,-79.991,5518
+46647,Whitehall,NY,Washington County,,city-us,4002,43.539,-73.385,6294
+46642,Whitehall,MI,Muskegon County,,city-us,2934,43.410,-86.349,7440
+46646,Whitehall,WI,Trempealeau County,,city-us,1635,44.367,-91.317,4675
+46637,Whitehall,MT,Jefferson County,,city-us,1039,45.871,-112.097,5257
+46635,Whitehall,MD,Dorchester County,,city-us,0,38.561,-76.013,128
+46638,Whitehall,VA,King and Queen County,,city-us,0,37.734,-77.043,93
+46639,Whitehall,LA,LaSalle Parish,,city-us,0,31.624,-92.042,254
+46641,Whitehall,LA,Livingston Parish,,city-us,0,30.289,-90.700,263
+46643,Whitehall,IN,Owen County,,city-us,0,39.174,-86.684,376
+46644,Whitehall,AR,Poinsett County,,city-us,0,35.480,-90.736,328
+46645,Whitehall,NJ,Sussex County,,city-us,0,40.964,-74.739,541

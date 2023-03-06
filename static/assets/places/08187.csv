@@ -1,26 +1,26 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41418,Sterling,VA,,city-us,31202,39.006,-77.429,15483
-41427,Sterling,IL,,city-us,17221,41.814,-89.688,349
-41417,Sterling,CO,,city-us,13739,40.626,-103.208,5211
-41428,Sterling,MA,,city-us,8152,42.448,-71.776,10676
-41416,Sterling,AK,,city-us,6016,60.537,-150.765,3758
-41408,Sterling,OH,,city-us,4696,39.082,-83.975,1236
-41419,Sterling,CT,,city-us,3577,41.701,-71.816,3499
-41410,Sterling,NY,,city-us,3218,43.315,-76.659,5390
-41514,Stirling,NJ,,city-us,2555,40.672,-74.495,1721
-41421,Sterling,KS,,city-us,2318,38.210,-98.207,5654
-41412,Sterling,GA,,city-us,1891,31.272,-81.561,843
-41426,Sterling,PA,,city-us,1480,41.330,-75.405,1908
-41420,Sterling,WI,,city-us,732,45.609,-92.765,1977
-41411,Sterling,OK,,city-us,671,34.750,-98.172,2411
-41424,Sterling,WI,,city-us,562,43.482,-91.040,1902
-41415,Sterling,NE,,city-us,486,40.459,-96.378,4235
-41405,Sterling,MI,,city-us,454,44.033,-84.023,2970
-41407,Sterling,SD,,city-us,400,44.406,-96.818,0
-41422,Sterling,UT,,city-us,285,39.194,-111.692,1957
-41406,Sterling,MN,,city-us,242,43.895,-94.071,2701
-41409,Sterling,ND,,city-us,172,46.814,-100.291,365
-41413,Sterling,KS,,city-us,112,37.998,-99.678,499
-41414,Sterling,MO,,city-us,0,37.044,-92.008,385
-41423,Sterling,WA,,city-us,0,48.492,-122.281,480
-41425,Sterling,OH,,city-us,0,40.968,-81.848,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41418,Sterling,VA,Loudoun County,,city-us,31202,39.006,-77.429,15483
+41427,Sterling,IL,Whiteside County,,city-us,17221,41.814,-89.688,349
+41417,Sterling,CO,Logan County,,city-us,13739,40.626,-103.208,5211
+41428,Sterling,MA,Worcester County,,city-us,8152,42.448,-71.776,10676
+41416,Sterling,AK,Kenai Peninsula Borough,,city-us,6016,60.537,-150.765,3758
+41408,Sterling,OH,Brown County,,city-us,4696,39.082,-83.975,1236
+41419,Sterling,CT,Northeastern Connecticut Planning Region,,city-us,3577,41.701,-71.816,3499
+41410,Sterling,NY,Cayuga County,,city-us,3218,43.315,-76.659,5390
+41514,Stirling,NJ,Morris County,,city-us,2555,40.672,-74.495,1721
+41421,Sterling,KS,Rice County,,city-us,2318,38.210,-98.207,5654
+41412,Sterling,GA,Glynn County,,city-us,1891,31.272,-81.561,843
+41426,Sterling,PA,Wayne County,,city-us,1480,41.330,-75.405,1908
+41420,Sterling,WI,Polk County,,city-us,732,45.609,-92.765,1977
+41411,Sterling,OK,Comanche County,,city-us,671,34.750,-98.172,2411
+41424,Sterling,WI,Vernon County,,city-us,562,43.482,-91.040,1902
+41415,Sterling,NE,Johnson County,,city-us,486,40.459,-96.378,4235
+41405,Sterling,MI,Arenac County,,city-us,454,44.033,-84.023,2970
+41407,Sterling,SD,Brookings County,,city-us,400,44.406,-96.818,0
+41422,Sterling,UT,Sanpete County,,city-us,285,39.194,-111.692,1957
+41406,Sterling,MN,Blue Earth County,,city-us,242,43.895,-94.071,2701
+41409,Sterling,ND,Burleigh County,,city-us,172,46.814,-100.291,365
+41413,Sterling,KS,Hodgeman County,,city-us,112,37.998,-99.678,499
+41414,Sterling,MO,Howell County,,city-us,0,37.044,-92.008,385
+41423,Sterling,WA,Skagit County,,city-us,0,48.492,-122.281,480
+41425,Sterling,OH,Wayne County,,city-us,0,40.968,-81.848,184

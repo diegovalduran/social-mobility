@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12442,Dunleith,IL,,city-us,3525,42.481,-90.615,1459
-12443,Dunleith,DE,,city-us,0,39.709,-75.556,1339
-12444,Dunleith,MS,,city-us,0,33.436,-90.821,575
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12442,Dunleith,IL,Jo Daviess County,,city-us,3525,42.481,-90.615,1459
+12443,Dunleith,DE,New Castle County,,city-us,0,39.709,-75.556,1339
+12444,Dunleith,MS,Washington County,,city-us,0,33.436,-90.821,575

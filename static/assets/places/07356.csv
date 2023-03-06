@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37341,Roff,OK,,city-us,619,34.628,-96.841,4243
-37340,Roff,KY,,city-us,0,37.660,-86.423,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37341,Roff,OK,Pontotoc County,,city-us,619,34.628,-96.841,4243
+37340,Roff,KY,Breckinridge County,,city-us,0,37.660,-86.423,163

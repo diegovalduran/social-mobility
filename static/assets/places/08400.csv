@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42443,Tallapoosa,GA,,city-us,3247,33.745,-85.288,3039
-42444,Tallapoosa,MO,,city-us,77,36.508,-89.819,3099
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42443,Tallapoosa,GA,Haralson County,,city-us,3247,33.745,-85.288,3039
+42444,Tallapoosa,MO,New Madrid County,,city-us,77,36.508,-89.819,3099

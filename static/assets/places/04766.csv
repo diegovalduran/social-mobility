@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24307,Leedey,OK,,city-us,411,35.870,-99.347,2422
-24383,Leidy,PA,,city-us,156,41.384,-77.881,1969
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24307,Leedey,OK,Dewey County,,city-us,411,35.870,-99.347,2422
+24383,Leidy,PA,Clinton County,,city-us,156,41.384,-77.881,1969

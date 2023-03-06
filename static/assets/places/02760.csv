@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13733,Endicott,NY,,city-us,13510,42.098,-76.049,18106
-13736,Endicott,WA,,city-us,309,46.926,-117.683,3918
-13735,Endicott,NE,,city-us,112,40.083,-97.098,3196
-13734,Endicott,VA,,city-us,0,36.888,-80.150,3060
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13733,Endicott,NY,Broome County,,city-us,13510,42.098,-76.049,18106
+13736,Endicott,WA,Whitman County,,city-us,309,46.926,-117.683,3918
+13735,Endicott,NE,Jefferson County,,city-us,112,40.083,-97.098,3196
+13734,Endicott,VA,Franklin County,,city-us,0,36.888,-80.150,3060

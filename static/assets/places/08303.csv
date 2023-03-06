@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42024,Sumpter,MI,,city-us,9585,42.134,-83.471,5079
-42022,Sumpter,IL,,city-us,2007,39.277,-88.253,878
-42023,Sumpter,WI,,city-us,1058,43.367,-89.784,2552
-42020,Sumpter,OR,,city-us,210,44.746,-118.202,5897
-42021,Sumpter,AR,,city-us,0,33.486,-92.049,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42024,Sumpter,MI,Wayne County,,city-us,9585,42.134,-83.471,5079
+42022,Sumpter,IL,Cumberland County,,city-us,2007,39.277,-88.253,878
+42023,Sumpter,WI,Sauk County,,city-us,1058,43.367,-89.784,2552
+42020,Sumpter,OR,Baker County,,city-us,210,44.746,-118.202,5897
+42021,Sumpter,AR,Bradley County,,city-us,0,33.486,-92.049,300

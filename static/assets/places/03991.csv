@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20438,Holmwood,KS,,city-us,31,39.876,-98.204,884
-20437,Holmwood,LA,,city-us,0,30.126,-93.080,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20438,Holmwood,KS,Jewell County,,city-us,31,39.876,-98.204,884
+20437,Holmwood,LA,Calcasieu Parish,,city-us,0,30.126,-93.080,192

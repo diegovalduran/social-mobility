@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10203,Craddock,MO,,city-us,0,37.639,-91.846,428
-10204,Craddock,WV,,city-us,0,38.722,-80.266,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10203,Craddock,MO,Phelps County,,city-us,0,37.639,-91.846,428
+10204,Craddock,WV,Upshur County,,city-us,0,38.722,-80.266,89

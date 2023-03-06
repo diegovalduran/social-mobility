@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39917,Simmons,MI,,city-us,603,46.098,-84.521,1843
-39918,Simmons,KY,,city-us,0,37.358,-86.942,103
-39919,Simmons,MO,,city-us,0,37.231,-92.016,424
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39917,Simmons,MI,Mackinac County,,city-us,603,46.098,-84.521,1843
+39918,Simmons,KY,Ohio County,,city-us,0,37.358,-86.942,103
+39919,Simmons,MO,Texas County,,city-us,0,37.231,-92.016,424

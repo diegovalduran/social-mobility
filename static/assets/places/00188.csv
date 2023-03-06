@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-968,Americus,GA,,city-us,15989,32.072,-84.233,12002
-966,Americus,KS,,city-us,771,38.507,-96.262,4126
-969,Americus,IN,,city-us,359,40.526,-86.758,487
-965,Americus,ND,,city-us,187,47.723,-97.035,177
-964,Americus,CO,,city-us,0,38.903,-106.166,160
-967,Americus,MO,,city-us,0,38.780,-91.564,481
+id,name,state,county,country,level,population,latitude,longitude,wiki
+968,Americus,GA,Sumter County,,city-us,15989,32.072,-84.233,12002
+966,Americus,KS,Lyon County,,city-us,771,38.507,-96.262,4126
+969,Americus,IN,Tippecanoe County,,city-us,359,40.526,-86.758,487
+965,Americus,ND,Grand Forks County,,city-us,187,47.723,-97.035,177
+964,Americus,CO,Chaffee County,,city-us,0,38.903,-106.166,160
+967,Americus,MO,Montgomery County,,city-us,0,38.780,-91.564,481

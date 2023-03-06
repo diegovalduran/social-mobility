@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-571,Alger,MI,,city-us,1184,44.111,-84.087,3712
-572,Alger,OH,,city-us,841,40.706,-83.844,3389
-575,Alger,WA,,city-us,222,48.620,-122.341,2852
-574,Alger,ND,,city-us,61,48.237,-102.494,0
-573,Alger,MN,,city-us,0,47.147,-91.693,601
+id,name,state,county,country,level,population,latitude,longitude,wiki
+571,Alger,MI,Arenac County,,city-us,1184,44.111,-84.087,3712
+572,Alger,OH,Hardin County,,city-us,841,40.706,-83.844,3389
+575,Alger,WA,Skagit County,,city-us,222,48.620,-122.341,2852
+574,Alger,ND,Mountrail County,,city-us,61,48.237,-102.494,0
+573,Alger,MN,Lake County,,city-us,0,47.147,-91.693,601

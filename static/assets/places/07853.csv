@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39812,Silex,MO,,city-us,238,39.123,-91.054,7572
-39813,Silex,IN,,city-us,0,39.361,-86.660,665
-39814,Silex,AR,,city-us,0,35.501,-93.215,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39812,Silex,MO,Lincoln County,,city-us,238,39.123,-91.054,7572
+39813,Silex,IN,Owen County,,city-us,0,39.361,-86.660,665
+39814,Silex,AR,Pope County,,city-us,0,35.501,-93.215,96

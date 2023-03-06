@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11870,Dixon Springs,IL,,city-us,0,37.384,-88.669,257
-11871,Dixon Springs,TN,,city-us,0,36.359,-86.052,1258
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11870,Dixon Springs,IL,Pope County,,city-us,0,37.384,-88.669,257
+11871,Dixon Springs,TN,Smith County,,city-us,0,36.359,-86.052,1258

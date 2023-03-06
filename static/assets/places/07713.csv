@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39044,Seaton,IL,,city-us,212,41.102,-90.802,1698
-39043,Seaton,TX,,city-us,60,31.058,-97.234,1058
-39045,Seaton,MO,,city-us,0,37.808,-91.603,392
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39044,Seaton,IL,Mercer County,,city-us,212,41.102,-90.802,1698
+39043,Seaton,TX,Bell County,,city-us,60,31.058,-97.234,1058
+39045,Seaton,MO,Phelps County,,city-us,0,37.808,-91.603,392

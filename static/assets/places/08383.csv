@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42372,Sylvester,GA,,city-us,5549,31.531,-83.835,4982
-42371,Sylvester,MI,,city-us,1035,43.518,-85.259,4700
-42370,Sylvester,WI,,city-us,1004,42.640,-89.543,1788
-42368,Sylvester,WV,,city-us,162,38.010,-81.558,3185
-42369,Sylvester,TX,,city-us,0,32.721,-100.254,1883
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42372,Sylvester,GA,Worth County,,city-us,5549,31.531,-83.835,4982
+42371,Sylvester,MI,Mecosta County,,city-us,1035,43.518,-85.259,4700
+42370,Sylvester,WI,Green County,,city-us,1004,42.640,-89.543,1788
+42368,Sylvester,WV,Boone County,,city-us,162,38.010,-81.558,3185
+42369,Sylvester,TX,Fisher County,,city-us,0,32.721,-100.254,1883

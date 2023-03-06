@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12698,East Hanover,NJ,,city-us,11094,40.819,-74.364,13174
-12696,East Hanover,PA,,city-us,6002,40.391,-76.682,403
-12697,East Hanover,PA,,city-us,2653,40.406,-76.594,403
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12698,East Hanover,NJ,Morris County,,city-us,11094,40.819,-74.364,13174
+12696,East Hanover,PA,Dauphin County,,city-us,6002,40.391,-76.682,403
+12697,East Hanover,PA,Lebanon County,,city-us,2653,40.406,-76.594,403

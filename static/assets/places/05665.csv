@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29153,Montague,MA,,city-us,8580,42.557,-72.517,4773
-29159,Montague,NJ,,city-us,3803,41.281,-74.731,15690
-29156,Montague,MI,,city-us,2435,43.417,-86.357,7633
-29158,Montague,CA,,city-us,1224,41.728,-122.528,4902
-29155,Montague,TX,,city-us,248,33.665,-97.721,2359
-29154,Montague,NY,,city-us,95,43.715,-75.717,2880
-29152,Montague,MO,,city-us,0,36.928,-93.328,294
-29157,Montague,NC,,city-us,0,34.434,-78.066,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29153,Montague,MA,Franklin County,,city-us,8580,42.557,-72.517,4773
+29159,Montague,NJ,Sussex County,,city-us,3803,41.281,-74.731,15690
+29156,Montague,MI,Muskegon County,,city-us,2435,43.417,-86.357,7633
+29158,Montague,CA,Siskiyou County,,city-us,1224,41.728,-122.528,4902
+29155,Montague,TX,Montague County,,city-us,248,33.665,-97.721,2359
+29154,Montague,NY,Lewis County,,city-us,95,43.715,-75.717,2880
+29152,Montague,MO,Christian County,,city-us,0,36.928,-93.328,294
+29157,Montague,NC,Pender County,,city-us,0,34.434,-78.066,144

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36639,Riddle,OR,,city-us,1219,42.951,-123.364,6508
-36638,Riddle,IN,,city-us,0,38.251,-86.431,274
-36640,Riddle,ID,,city-us,0,42.187,-116.110,651
-36641,Riddle,WV,,city-us,0,39.195,-80.979,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36639,Riddle,OR,Douglas County,,city-us,1219,42.951,-123.364,6508
+36638,Riddle,IN,Crawford County,,city-us,0,38.251,-86.431,274
+36640,Riddle,ID,Owyhee County,,city-us,0,42.187,-116.110,651
+36641,Riddle,WV,Ritchie County,,city-us,0,39.195,-80.979,88

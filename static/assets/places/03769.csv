@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19301,Havelock,NC,,city-us,17052,34.879,-76.901,8150
-19300,Havelock,MN,,city-us,149,45.021,-95.553,2106
-19303,Havelock,IA,,city-us,128,42.836,-94.701,2971
-19302,Havelock,ND,,city-us,0,46.475,-102.744,900
-19304,Havelock,VA,,city-us,0,38.021,-76.839,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19301,Havelock,NC,Craven County,,city-us,17052,34.879,-76.901,8150
+19300,Havelock,MN,Chippewa County,,city-us,149,45.021,-95.553,2106
+19303,Havelock,IA,Pocahontas County,,city-us,128,42.836,-94.701,2971
+19302,Havelock,ND,Hettinger County,,city-us,0,46.475,-102.744,900
+19304,Havelock,VA,Richmond County,,city-us,0,38.021,-76.839,92

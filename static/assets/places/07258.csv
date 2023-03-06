@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36763,Rincon,GA,,city-us,11016,32.296,-81.235,7150
-36762,Rincon,NM,,city-us,350,32.673,-107.065,2595
-36764,Rincon,CA,,city-us,0,33.288,-116.958,442
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36763,Rincon,GA,Effingham County,,city-us,11016,32.296,-81.235,7150
+36762,Rincon,NM,Do��a Ana County,,city-us,350,32.673,-107.065,2595
+36764,Rincon,CA,San Diego County,,city-us,0,33.288,-116.958,442

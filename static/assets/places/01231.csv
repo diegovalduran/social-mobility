@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6207,Burnside,MI,,city-us,1864,43.221,-83.061,3397
-6209,Burnside,KY,,city-us,699,36.989,-84.600,4352
-6202,Burnside,AZ,,city-us,579,35.751,-109.625,2142
-6210,Burnside,WI,,city-us,508,44.386,-91.470,1965
-6204,Burnside,PA,,city-us,414,41.145,-77.973,183
-6205,Burnside,PA,,city-us,189,40.813,-78.786,2074
-6203,Burnside,LA,,city-us,0,30.133,-90.917,732
-6206,Burnside,IL,,city-us,0,40.504,-91.100,278
-6208,Burnside,MS,,city-us,0,32.853,-89.103,294
-6211,Burnside,IA,,city-us,0,42.346,-94.107,1274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6207,Burnside,MI,Lapeer County,,city-us,1864,43.221,-83.061,3397
+6209,Burnside,KY,Pulaski County,,city-us,699,36.989,-84.600,4352
+6202,Burnside,AZ,Apache County,,city-us,579,35.751,-109.625,2142
+6210,Burnside,WI,Trempealeau County,,city-us,508,44.386,-91.470,1965
+6204,Burnside,PA,Centre County,,city-us,414,41.145,-77.973,183
+6205,Burnside,PA,Clearfield County,,city-us,189,40.813,-78.786,2074
+6203,Burnside,LA,Ascension Parish,,city-us,0,30.133,-90.917,732
+6206,Burnside,IL,Hancock County,,city-us,0,40.504,-91.100,278
+6208,Burnside,MS,Neshoba County,,city-us,0,32.853,-89.103,294
+6211,Burnside,IA,Webster County,,city-us,0,42.346,-94.107,1274

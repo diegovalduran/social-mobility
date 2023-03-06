@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45888,Wellsburg,WV,,city-us,2401,40.272,-80.610,5736
-45890,Wellsburg,IA,,city-us,721,42.459,-92.939,3367
-45889,Wellsburg,NY,,city-us,493,42.016,-76.727,4204
-45887,Wellsburg,KY,,city-us,0,38.771,-84.104,86
-45891,Wellsburg,IN,,city-us,0,40.666,-85.221,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45888,Wellsburg,WV,Brooke County,,city-us,2401,40.272,-80.610,5736
+45890,Wellsburg,IA,Grundy County,,city-us,721,42.459,-92.939,3367
+45889,Wellsburg,NY,Chemung County,,city-us,493,42.016,-76.727,4204
+45887,Wellsburg,KY,Bracken County,,city-us,0,38.771,-84.104,86
+45891,Wellsburg,IN,Wells County,,city-us,0,40.666,-85.221,248

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37280,Rockwell,AR,,city-us,4297,34.464,-93.134,2085
-37282,Rockwell,NC,,city-us,2317,35.551,-80.406,3368
-37279,Rockwell,IA,,city-us,1060,42.985,-93.192,3781
-37281,Rockwell,MN,,city-us,53,47.209,-96.375,1806
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37280,Rockwell,AR,Garland County,,city-us,4297,34.464,-93.134,2085
+37282,Rockwell,NC,Rowan County,,city-us,2317,35.551,-80.406,3368
+37279,Rockwell,IA,Cerro Gordo County,,city-us,1060,42.985,-93.192,3781
+37281,Rockwell,MN,Norman County,,city-us,53,47.209,-96.375,1806

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38141,Saginaw,MI,,city-us,43854,43.419,-83.951,42922
-38144,Saginaw,TX,,city-us,24011,32.860,-97.364,4412
-38140,Saginaw,MO,,city-us,306,37.024,-94.468,3651
-38138,Saginaw,AR,,city-us,0,34.300,-92.936,340
-38139,Saginaw,OR,,city-us,0,43.833,-123.045,579
-38142,Saginaw,AL,,city-us,0,33.216,-86.792,1094
-38143,Saginaw,MN,,city-us,0,46.859,-92.444,1039
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38141,Saginaw,MI,Saginaw County,,city-us,43854,43.419,-83.951,42922
+38144,Saginaw,TX,Tarrant County,,city-us,24011,32.860,-97.364,4412
+38140,Saginaw,MO,Newton County,,city-us,306,37.024,-94.468,3651
+38138,Saginaw,AR,Hot Spring County,,city-us,0,34.300,-92.936,340
+38139,Saginaw,OR,Lane County,,city-us,0,43.833,-123.045,579
+38142,Saginaw,AL,Shelby County,,city-us,0,33.216,-86.792,1094
+38143,Saginaw,MN,St. Louis County,,city-us,0,46.859,-92.444,1039

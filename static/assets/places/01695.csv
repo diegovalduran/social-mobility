@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8558,Clarkson,NY,,city-us,6845,43.245,-77.932,5418
-8555,Clarkson,KY,,city-us,939,37.495,-86.221,2622
-8553,Clarkson,NE,,city-us,625,41.727,-97.122,5279
-8554,Clarkson,OH,,city-us,0,40.747,-80.613,1766
-8556,Clarkson,MD,,city-us,0,39.298,-76.936,304
-8557,Clarkson,MO,,city-us,0,37.049,-94.005,235
-8559,Clarkson,IA,,city-us,0,41.835,-93.753,924
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8558,Clarkson,NY,Monroe County,,city-us,6845,43.245,-77.932,5418
+8555,Clarkson,KY,Grayson County,,city-us,939,37.495,-86.221,2622
+8553,Clarkson,NE,Colfax County,,city-us,625,41.727,-97.122,5279
+8554,Clarkson,OH,Columbiana County,,city-us,0,40.747,-80.613,1766
+8556,Clarkson,MD,Howard County,,city-us,0,39.298,-76.936,304
+8557,Clarkson,MO,Lawrence County,,city-us,0,37.049,-94.005,235
+8559,Clarkson,IA,Warren County,,city-us,0,41.835,-93.753,924

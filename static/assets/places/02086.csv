@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10495,Crossville,TN,,city-us,12268,35.949,-85.027,9845
-10496,Crossville,AL,,city-us,1810,34.288,-85.994,8452
-10497,Crossville,IL,,city-us,630,38.162,-88.065,3316
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10495,Crossville,TN,Cumberland County,,city-us,12268,35.949,-85.027,9845
+10496,Crossville,AL,DeKalb County,,city-us,1810,34.288,-85.994,8452
+10497,Crossville,IL,White County,,city-us,630,38.162,-88.065,3316

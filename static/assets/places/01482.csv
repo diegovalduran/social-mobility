@@ -1,31 +1,31 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7423,Cedar Grove,NJ,,city-us,13430,40.858,-74.230,21113
-7417,Cedar Grove,FL,,city-us,3431,30.171,-85.625,2587
-7441,Cedar Grove,WI,,city-us,2100,43.570,-87.823,4923
-7440,Cedar Grove,NM,,city-us,879,35.171,-106.190,2278
-7429,Cedar Grove,WV,,city-us,700,38.221,-81.428,3953
-7422,Cedar Grove,CA,,city-us,472,38.745,-120.657,124
-7424,Cedar Grove,IN,,city-us,146,39.357,-84.938,2994
-7418,Cedar Grove,TN,,city-us,0,35.644,-86.626,140
-7419,Cedar Grove,VA,,city-us,0,36.604,-78.011,122
-7420,Cedar Grove,KY,,city-us,0,37.972,-85.631,96
-7421,Cedar Grove,TN,,city-us,0,35.817,-88.596,112
-7425,Cedar Grove,VA,,city-us,0,39.268,-78.189,181
-7426,Cedar Grove,CA,,city-us,0,36.791,-118.670,842
-7427,Cedar Grove,TN,,city-us,0,35.482,-88.268,168
-7428,Cedar Grove,TN,,city-us,0,35.946,-87.811,159
-7430,Cedar Grove,TX,,city-us,0,32.758,-96.087,99
-7431,Cedar Grove,GA,,city-us,0,32.250,-82.882,315
-7432,Cedar Grove,NJ,,city-us,0,40.368,-74.695,965
-7433,Cedar Grove,MS,,city-us,0,32.349,-89.186,280
-7434,Cedar Grove,VA,,city-us,0,37.173,-75.965,110
-7435,Cedar Grove,NC,,city-us,0,36.168,-79.168,299
-7436,Cedar Grove,TN,,city-us,0,36.557,-85.056,171
-7437,Cedar Grove,NC,,city-us,0,35.676,-79.889,95
-7438,Cedar Grove,TN,,city-us,0,35.845,-84.463,132
-7439,Cedar Grove,TN,,city-us,0,35.781,-86.619,184
-7442,Cedar Grove,TN,,city-us,0,36.573,-82.525,873
-7443,Cedar Grove,TN,,city-us,0,35.736,-85.562,166
-7444,Cedar Grove,GA,,city-us,0,34.717,-85.426,364
-7445,Cedar Grove,TN,,city-us,0,36.252,-86.528,156
-7446,Cedar Grove,WV,,city-us,0,39.228,-81.506,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7423,Cedar Grove,NJ,Essex County,,city-us,13430,40.858,-74.230,21113
+7417,Cedar Grove,FL,Bay County,,city-us,3431,30.171,-85.625,2587
+7441,Cedar Grove,WI,Sheboygan County,,city-us,2100,43.570,-87.823,4923
+7440,Cedar Grove,NM,Santa Fe County,,city-us,879,35.171,-106.190,2278
+7429,Cedar Grove,WV,Kanawha County,,city-us,700,38.221,-81.428,3953
+7422,Cedar Grove,CA,El Dorado County,,city-us,472,38.745,-120.657,124
+7424,Cedar Grove,IN,Franklin County,,city-us,146,39.357,-84.938,2994
+7418,Cedar Grove,TN,Bedford County,,city-us,0,35.644,-86.626,140
+7419,Cedar Grove,VA,Brunswick County,,city-us,0,36.604,-78.011,122
+7420,Cedar Grove,KY,Bullitt County,,city-us,0,37.972,-85.631,96
+7421,Cedar Grove,TN,Carroll County,,city-us,0,35.817,-88.596,112
+7425,Cedar Grove,VA,Frederick County,,city-us,0,39.268,-78.189,181
+7426,Cedar Grove,CA,Fresno County,,city-us,0,36.791,-118.670,842
+7427,Cedar Grove,TN,Henderson County,,city-us,0,35.482,-88.268,168
+7428,Cedar Grove,TN,Humphreys County,,city-us,0,35.946,-87.811,159
+7430,Cedar Grove,TX,Kaufman County,,city-us,0,32.758,-96.087,99
+7431,Cedar Grove,GA,Laurens County,,city-us,0,32.250,-82.882,315
+7432,Cedar Grove,NJ,Mercer County,,city-us,0,40.368,-74.695,965
+7433,Cedar Grove,MS,Newton County,,city-us,0,32.349,-89.186,280
+7434,Cedar Grove,VA,Northampton County,,city-us,0,37.173,-75.965,110
+7435,Cedar Grove,NC,Orange County,,city-us,0,36.168,-79.168,299
+7436,Cedar Grove,TN,Pickett County,,city-us,0,36.557,-85.056,171
+7437,Cedar Grove,NC,Randolph County,,city-us,0,35.676,-79.889,95
+7438,Cedar Grove,TN,Roane County,,city-us,0,35.845,-84.463,132
+7439,Cedar Grove,TN,Rutherford County,,city-us,0,35.781,-86.619,184
+7442,Cedar Grove,TN,Sullivan County,,city-us,0,36.573,-82.525,873
+7443,Cedar Grove,TN,Van Buren County,,city-us,0,35.736,-85.562,166
+7444,Cedar Grove,GA,Walker County,,city-us,0,34.717,-85.426,364
+7445,Cedar Grove,TN,Wilson County,,city-us,0,36.252,-86.528,156
+7446,Cedar Grove,WV,Wood County,,city-us,0,39.228,-81.506,208

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31657,O'Fallon,MO,,city-us,93644,38.811,-90.700,7774
-31658,O'Fallon,IL,,city-us,32292,38.592,-89.911,6068
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31657,O'Fallon,MO,St. Charles County,,city-us,93644,38.811,-90.700,7774
+31658,O'Fallon,IL,St. Clair County,,city-us,32292,38.592,-89.911,6068

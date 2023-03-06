@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40671,Spring Garden,PA,,city-us,13856,39.943,-76.723,4136
-40666,Spring Garden,IL,,city-us,2811,38.163,-88.873,1299
-40665,Spring Garden,AL,,city-us,169,33.973,-85.554,1459
-40667,Spring Garden,PA,,city-us,0,40.038,-76.033,213
-40668,Spring Garden,MO,,city-us,0,38.385,-92.423,381
-40669,Spring Garden,VA,,city-us,0,36.780,-79.305,101
-40670,Spring Garden,CA,,city-us,0,39.895,-120.786,3389
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40671,Spring Garden,PA,York County,,city-us,13856,39.943,-76.723,4136
+40666,Spring Garden,IL,Jefferson County,,city-us,2811,38.163,-88.873,1299
+40665,Spring Garden,AL,Cherokee County,,city-us,169,33.973,-85.554,1459
+40667,Spring Garden,PA,Lancaster County,,city-us,0,40.038,-76.033,213
+40668,Spring Garden,MO,Miller County,,city-us,0,38.385,-92.423,381
+40669,Spring Garden,VA,Pittsylvania County,,city-us,0,36.780,-79.305,101
+40670,Spring Garden,CA,Plumas County,,city-us,0,39.895,-120.786,3389

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8437,Claiborne,LA,,city-us,13147,32.516,-92.192,2298
-8436,Claiborne,VA,,city-us,0,38.160,-77.456,93
-8438,Claiborne,MD,,city-us,0,38.837,-76.278,10296
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8437,Claiborne,LA,Ouachita Parish,,city-us,13147,32.516,-92.192,2298
+8436,Claiborne,VA,Caroline County,,city-us,0,38.160,-77.456,93
+8438,Claiborne,MD,Talbot County,,city-us,0,38.837,-76.278,10296

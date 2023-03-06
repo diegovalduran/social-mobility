@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46346,Wetmore,MI,,city-us,2983,46.338,-86.571,6230
-46349,Wetmore,PA,,city-us,1598,41.672,-78.832,1845
-46350,Wetmore,KS,,city-us,468,39.610,-95.836,3475
-46347,Wetmore,TX,,city-us,0,29.564,-98.419,142
-46348,Wetmore,CO,,city-us,0,38.238,-105.084,342
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46346,Wetmore,MI,Alger County,,city-us,2983,46.338,-86.571,6230
+46349,Wetmore,PA,McKean County,,city-us,1598,41.672,-78.832,1845
+46350,Wetmore,KS,Nemaha County,,city-us,468,39.610,-95.836,3475
+46347,Wetmore,TX,Bexar County,,city-us,0,29.564,-98.419,142
+46348,Wetmore,CO,Custer County,,city-us,0,38.238,-105.084,342

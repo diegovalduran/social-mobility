@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36083,Red Lake,MN,,city-us,1526,47.876,-95.017,2275
-36085,Red Lake,AZ,,city-us,1382,35.361,-112.172,229
-36084,Red Lake,SD,,city-us,86,43.710,-99.207,0
-36086,Red Lake,ND,,city-us,31,46.421,-99.609,385
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36083,Red Lake,MN,Beltrami County,,city-us,1526,47.876,-95.017,2275
+36085,Red Lake,AZ,Coconino County,,city-us,1382,35.361,-112.172,229
+36084,Red Lake,SD,Brule County,,city-us,86,43.710,-99.207,0
+36086,Red Lake,ND,Logan County,,city-us,31,46.421,-99.609,385

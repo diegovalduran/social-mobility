@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16106,Fuller,SD,,city-us,300,45.014,-97.274,0
-16107,Fuller,IL,,city-us,0,39.594,-88.470,131
-16108,Fuller,KS,,city-us,0,37.522,-94.620,301
-16109,Fuller,PA,,city-us,0,41.098,-78.984,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16106,Fuller,SD,Codington County,,city-us,300,45.014,-97.274,0
+16107,Fuller,IL,Coles County,,city-us,0,39.594,-88.470,131
+16108,Fuller,KS,Crawford County,,city-us,0,37.522,-94.620,301
+16109,Fuller,PA,Jefferson County,,city-us,0,41.098,-78.984,221

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27074,Martell,WI,,city-us,1070,44.830,-92.398,2278
-27072,Martell,CA,,city-us,223,38.367,-120.796,2633
-27073,Martell,NE,,city-us,125,40.638,-96.759,572
-27071,Martel,OH,,city-us,0,40.669,-82.910,495
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27074,Martell,WI,Pierce County,,city-us,1070,44.830,-92.398,2278
+27072,Martell,CA,Amador County,,city-us,223,38.367,-120.796,2633
+27073,Martell,NE,Lancaster County,,city-us,125,40.638,-96.759,572
+27071,Martel,OH,Marion County,,city-us,0,40.669,-82.910,495

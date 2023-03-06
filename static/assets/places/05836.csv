@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30035,Muhlenberg,PA,,city-us,21955,40.395,-75.925,4916
-30036,Muhlenberg,OH,,city-us,843,39.699,-83.116,1134
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30035,Muhlenberg,PA,Berks County,,city-us,21955,40.395,-75.925,4916
+30036,Muhlenberg,OH,Pickaway County,,city-us,843,39.699,-83.116,1134

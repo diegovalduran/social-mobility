@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31739,Oak Hall,VA,,city-us,45,37.937,-75.546,406
-31740,Oak Hall,WI,,city-us,0,42.950,-89.437,472
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31739,Oak Hall,VA,Accomack County,,city-us,45,37.937,-75.546,406
+31740,Oak Hall,WI,Dane County,,city-us,0,42.950,-89.437,472

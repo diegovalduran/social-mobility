@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28064,Metcalfe,MS,,city-us,798,33.454,-91.007,2198
-28063,Metcalfe,GA,,city-us,0,30.700,-83.988,854
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28064,Metcalfe,MS,Washington County,,city-us,798,33.454,-91.007,2198
+28063,Metcalfe,GA,Thomas County,,city-us,0,30.700,-83.988,854

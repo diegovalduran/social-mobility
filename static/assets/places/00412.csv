@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2192,Bagley,MI,,city-us,5919,44.982,-84.651,2696
-2188,Bagley,MN,,city-us,1272,47.522,-95.398,3681
-2189,Bagley,WI,,city-us,356,42.906,-91.101,4315
-2191,Bagley,WI,,city-us,276,45.089,-88.287,1931
-2190,Bagley,IA,,city-us,229,41.846,-94.430,3612
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2192,Bagley,MI,Otsego County,,city-us,5919,44.982,-84.651,2696
+2188,Bagley,MN,Clearwater County,,city-us,1272,47.522,-95.398,3681
+2189,Bagley,WI,Grant County,,city-us,356,42.906,-91.101,4315
+2191,Bagley,WI,Oconto County,,city-us,276,45.089,-88.287,1931
+2190,Bagley,IA,Guthrie County,,city-us,229,41.846,-94.430,3612

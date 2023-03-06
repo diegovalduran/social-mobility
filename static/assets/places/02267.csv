@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11393,Delaney,AR,,city-us,0,35.852,-93.900,241
-11394,Delaney,WV,,city-us,0,39.332,-81.474,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11393,Delaney,AR,Madison County,,city-us,0,35.852,-93.900,241
+11394,Delaney,WV,Wood County,,city-us,0,39.332,-81.474,87

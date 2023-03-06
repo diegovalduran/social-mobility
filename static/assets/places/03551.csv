@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18080,Greenwich,CT,,city-us,63514,41.045,-73.634,21413
-18078,Greenwich,NJ,,city-us,5472,40.680,-75.119,11771
-18072,Greenwich,NJ,,city-us,4994,39.835,-75.288,9995
-18079,Greenwich,NY,,city-us,4848,43.148,-73.476,181
-18070,Greenwich,PA,,city-us,3431,40.563,-75.829,3154
-18073,Greenwich,OH,,city-us,1396,41.030,-82.516,3568
-18071,Greenwich,NJ,,city-us,774,39.396,-75.368,9915
-18077,Greenwich,KS,,city-us,64,37.783,-97.204,900
-18074,Greenwich,IL,,city-us,0,41.118,-87.927,179
-18075,Greenwich,UT,,city-us,0,38.431,-111.923,731
-18076,Greenwich,VA,,city-us,0,38.749,-77.648,2984
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18080,Greenwich,CT,Western Connecticut Planning Region,,city-us,63514,41.045,-73.634,21413
+18078,Greenwich,NJ,Warren County,,city-us,5472,40.680,-75.119,11771
+18072,Greenwich,NJ,Gloucester County,,city-us,4994,39.835,-75.288,9995
+18079,Greenwich,NY,Washington County,,city-us,4848,43.148,-73.476,181
+18070,Greenwich,PA,Berks County,,city-us,3431,40.563,-75.829,3154
+18073,Greenwich,OH,Huron County,,city-us,1396,41.030,-82.516,3568
+18071,Greenwich,NJ,Cumberland County,,city-us,774,39.396,-75.368,9915
+18077,Greenwich,KS,Sedgwick County,,city-us,64,37.783,-97.204,900
+18074,Greenwich,IL,Kankakee County,,city-us,0,41.118,-87.927,179
+18075,Greenwich,UT,Piute County,,city-us,0,38.431,-111.923,731
+18076,Greenwich,VA,Prince William County,,city-us,0,38.749,-77.648,2984

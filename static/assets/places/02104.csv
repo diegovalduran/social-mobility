@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10550,Cruise,KY,,city-us,0,37.318,-84.123,246
-10559,Cruse,IL,,city-us,0,38.822,-88.678,142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10550,Cruise,KY,Laurel County,,city-us,0,37.318,-84.123,246
+10559,Cruse,IL,Clay County,,city-us,0,38.822,-88.678,142

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33838,Pettus,TX,,city-us,640,28.618,-97.802,2143
-33839,Pettus,AR,,city-us,0,34.677,-91.912,82
-33840,Pettus,WV,,city-us,0,37.956,-81.537,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33838,Pettus,TX,Bee County,,city-us,640,28.618,-97.802,2143
+33839,Pettus,AR,Lonoke County,,city-us,0,34.677,-91.912,82
+33840,Pettus,WV,Raleigh County,,city-us,0,37.956,-81.537,179

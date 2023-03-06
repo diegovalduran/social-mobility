@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2717,Baxter,MN,,city-us,8830,46.343,-94.287,5385
-2727,Baxter,TN,,city-us,1637,36.154,-85.644,2373
-2721,Baxter,IA,,city-us,973,41.826,-93.152,3200
-2729,Baxter,MI,,city-us,587,44.468,-85.527,2767
-2723,Baxter,MN,,city-us,177,44.930,-95.916,1919
-2716,Baxter,WV,,city-us,0,39.557,-78.078,127
-2718,Baxter,AR,,city-us,0,33.529,-91.497,369
-2719,Baxter,KY,,city-us,0,36.860,-83.331,272
-2720,Baxter,TX,,city-us,0,32.169,-95.749,98
-2722,Baxter,PA,,city-us,0,41.134,-79.150,257
-2724,Baxter,WV,,city-us,0,39.544,-80.142,311
-2725,Baxter,CA,,city-us,0,39.213,-120.781,285
-2726,Baxter,CO,,city-us,0,38.276,-104.492,153
-2728,Baxter,GA,,city-us,0,34.739,-84.075,538
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2717,Baxter,MN,Crow Wing County,,city-us,8830,46.343,-94.287,5385
+2727,Baxter,TN,Putnam County,,city-us,1637,36.154,-85.644,2373
+2721,Baxter,IA,Jasper County,,city-us,973,41.826,-93.152,3200
+2729,Baxter,MI,Wexford County,,city-us,587,44.468,-85.527,2767
+2723,Baxter,MN,Lac qui Parle County,,city-us,177,44.930,-95.916,1919
+2716,Baxter,WV,Berkeley County,,city-us,0,39.557,-78.078,127
+2718,Baxter,AR,Drew County,,city-us,0,33.529,-91.497,369
+2719,Baxter,KY,Harlan County,,city-us,0,36.860,-83.331,272
+2720,Baxter,TX,Henderson County,,city-us,0,32.169,-95.749,98
+2722,Baxter,PA,Jefferson County,,city-us,0,41.134,-79.150,257
+2724,Baxter,WV,Marion County,,city-us,0,39.544,-80.142,311
+2725,Baxter,CA,Placer County,,city-us,0,39.213,-120.781,285
+2726,Baxter,CO,Pueblo County,,city-us,0,38.276,-104.492,153
+2728,Baxter,GA,Union County,,city-us,0,34.739,-84.075,538

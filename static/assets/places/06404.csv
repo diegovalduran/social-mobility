@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32663,Oto,IA,,city-us,72,42.284,-95.893,3540
-32662,Oto,MO,,city-us,0,36.859,-93.455,438
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32663,Oto,IA,Woodbury County,,city-us,72,42.284,-95.893,3540
+32662,Oto,MO,Stone County,,city-us,0,36.859,-93.455,438

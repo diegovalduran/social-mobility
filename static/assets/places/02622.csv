@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13023,Edith,GA,,city-us,0,30.679,-82.551,80
-13024,Edith,WV,,city-us,0,37.677,-81.607,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13023,Edith,GA,Clinch County,,city-us,0,30.679,-82.551,80
+13024,Edith,WV,Wyoming County,,city-us,0,37.677,-81.607,119

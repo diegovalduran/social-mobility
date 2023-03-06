@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27,Abel,AL,,city-us,0,33.549,-85.713,412
-28,Abell,MD,,city-us,0,38.254,-76.744,613
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27,Abel,AL,Cleburne County,,city-us,0,33.549,-85.713,412
+28,Abell,MD,St. Mary's County,,city-us,0,38.254,-76.744,613

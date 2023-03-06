@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19606,Hemenway,MO,,city-us,0,36.548,-90.652,414
-19607,Hemenway,IN,,city-us,0,38.204,-87.134,312
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19606,Hemenway,MO,Ripley County,,city-us,0,36.548,-90.652,414
+19607,Hemenway,IN,Warrick County,,city-us,0,38.204,-87.134,312

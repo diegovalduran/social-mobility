@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2786,Bayshore,NC,,city-us,3076,34.290,-77.787,2054
-2785,Bayshore,OR,,city-us,1067,44.439,-124.075,484
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2786,Bayshore,NC,New Hanover County,,city-us,3076,34.290,-77.787,2054
+2785,Bayshore,OR,Lincoln County,,city-us,1067,44.439,-124.075,484

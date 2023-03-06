@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-430,Alberta,MN,,city-us,827,45.780,-93.947,2584
-433,Alberta,AL,,city-us,784,32.232,-87.410,997
-431,Alberta,VA,,city-us,302,36.866,-77.886,3223
-432,Alberta,MN,,city-us,93,45.573,-96.048,2863
-429,Alberta,MI,,city-us,0,46.643,-88.479,2950
+id,name,state,county,country,level,population,latitude,longitude,wiki
+430,Alberta,MN,Benton County,,city-us,827,45.780,-93.947,2584
+433,Alberta,AL,Wilcox County,,city-us,784,32.232,-87.410,997
+431,Alberta,VA,Brunswick County,,city-us,302,36.866,-77.886,3223
+432,Alberta,MN,Stevens County,,city-us,93,45.573,-96.048,2863
+429,Alberta,MI,Baraga County,,city-us,0,46.643,-88.479,2950

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3050,Bee,NE,,city-us,167,41.006,-97.057,2872
-3049,Bee,OK,,city-us,135,34.122,-96.572,518
-3046,Bee,VA,,city-us,0,37.115,-82.172,306
-3047,Bee,KY,,city-us,0,37.269,-86.085,225
-3048,Bee,MN,,city-us,0,43.501,-91.571,640
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3050,Bee,NE,Seward County,,city-us,167,41.006,-97.057,2872
+3049,Bee,OK,Johnston County,,city-us,135,34.122,-96.572,518
+3046,Bee,VA,Dickenson County,,city-us,0,37.115,-82.172,306
+3047,Bee,KY,Hart County,,city-us,0,37.269,-86.085,225
+3048,Bee,MN,Houston County,,city-us,0,43.501,-91.571,640

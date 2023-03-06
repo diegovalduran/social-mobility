@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17085,Glory,MN,,city-us,0,46.417,-93.601,612
-17086,Glory,GA,,city-us,0,31.368,-83.144,194
-17087,Glory,TX,,city-us,0,33.533,-95.539,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17085,Glory,MN,Aitkin County,,city-us,0,46.417,-93.601,612
+17086,Glory,GA,Berrien County,,city-us,0,31.368,-83.144,194
+17087,Glory,TX,Lamar County,,city-us,0,33.533,-95.539,252

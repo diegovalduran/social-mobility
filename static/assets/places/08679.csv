@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43484,Turin,,Italy,city-international,870952,45.067,7.700,73307
-43481,Turin,NY,,city-us,768,43.661,-75.427,3598
-43480,Turin,GA,,city-us,467,33.327,-84.636,2154
-43482,Turin,MI,,city-us,114,46.191,-87.250,2067
-43483,Turin,IA,,city-us,70,42.019,-95.966,3038
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43484,Turin,,,Italy,city-international,870952,45.067,7.700,73307
+43481,Turin,NY,Lewis County,,city-us,768,43.661,-75.427,3598
+43480,Turin,GA,Coweta County,,city-us,467,33.327,-84.636,2154
+43482,Turin,MI,Marquette County,,city-us,114,46.191,-87.250,2067
+43483,Turin,IA,Monona County,,city-us,70,42.019,-95.966,3038

@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10268,Crawford,NY,,city-us,9170,41.571,-74.316,3256
-10258,Crawford,OH,,city-us,1945,40.409,-81.758,128
-10259,Crawford,KS,,city-us,1061,37.506,-94.861,201
-10257,Crawford,PA,,city-us,970,41.107,-77.255,2148
-10264,Crawford,TX,,city-us,903,31.534,-97.443,2880
-10267,Crawford,GA,,city-us,877,33.883,-83.155,3452
-10260,Crawford,NE,,city-us,822,42.683,-103.413,8671
-10256,Crawford,KS,,city-us,592,37.167,-94.768,201
-10263,Crawford,MS,,city-us,421,33.302,-88.615,2883
-10261,Crawford,CO,,city-us,405,38.704,-107.609,3285
-10275,Crawford,ME,,city-us,96,45.048,-67.576,3383
-10274,Crawford,ND,,city-us,21,46.320,-103.730,0
-10262,Crawford,WV,,city-us,0,38.872,-80.437,291
-10265,Crawford,AL,,city-us,0,30.764,-88.228,165
-10266,Crawford,FL,,city-us,0,30.509,-81.881,360
-10269,Crawford,TN,,city-us,0,36.269,-85.161,285
-10270,Crawford,KS,,city-us,0,38.513,-98.035,503
-10271,Crawford,OK,,city-us,0,35.827,-99.799,586
-10272,Crawford,AL,,city-us,0,32.457,-85.190,461
-10273,Crawford,MO,,city-us,0,40.475,-92.276,351
-10276,Crawford,OH,,city-us,0,40.920,-83.342,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10268,Crawford,NY,Orange County,,city-us,9170,41.571,-74.316,3256
+10258,Crawford,OH,Coshocton County,,city-us,1945,40.409,-81.758,128
+10259,Crawford,KS,Crawford County,,city-us,1061,37.506,-94.861,201
+10257,Crawford,PA,Clinton County,,city-us,970,41.107,-77.255,2148
+10264,Crawford,TX,McLennan County,,city-us,903,31.534,-97.443,2880
+10267,Crawford,GA,Oglethorpe County,,city-us,877,33.883,-83.155,3452
+10260,Crawford,NE,Dawes County,,city-us,822,42.683,-103.413,8671
+10256,Crawford,KS,Cherokee County,,city-us,592,37.167,-94.768,201
+10263,Crawford,MS,Lowndes County,,city-us,421,33.302,-88.615,2883
+10261,Crawford,CO,Delta County,,city-us,405,38.704,-107.609,3285
+10275,Crawford,ME,Washington County,,city-us,96,45.048,-67.576,3383
+10274,Crawford,ND,Slope County,,city-us,21,46.320,-103.730,0
+10262,Crawford,WV,Lewis County,,city-us,0,38.872,-80.437,291
+10265,Crawford,AL,Mobile County,,city-us,0,30.764,-88.228,165
+10266,Crawford,FL,Nassau County,,city-us,0,30.509,-81.881,360
+10269,Crawford,TN,Overton County,,city-us,0,36.269,-85.161,285
+10270,Crawford,KS,Rice County,,city-us,0,38.513,-98.035,503
+10271,Crawford,OK,Roger Mills County,,city-us,0,35.827,-99.799,586
+10272,Crawford,AL,Russell County,,city-us,0,32.457,-85.190,461
+10273,Crawford,MO,Scotland County,,city-us,0,40.475,-92.276,351
+10276,Crawford,OH,Wyandot County,,city-us,0,40.920,-83.342,359

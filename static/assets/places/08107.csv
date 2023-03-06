@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41042,St. John,IN,,city-us,21448,41.450,-87.470,5201
-41046,St. John,MO,,city-us,6588,38.715,-90.346,3538
-41047,St. John,KS,,city-us,978,38.037,-98.753,4382
-41048,St. John,WA,,city-us,594,47.092,-117.582,3842
-41045,St. John,ND,,city-us,321,48.944,-99.711,3401
-41041,St. John,WI,,city-us,0,44.169,-88.204,186
-41043,St. John,MO,,city-us,0,37.889,-92.380,286
-41044,St. John,MO,,city-us,0,40.540,-93.189,414
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41042,St. John,IN,Lake County,,city-us,21448,41.450,-87.470,5201
+41046,St. John,MO,St. Louis County,,city-us,6588,38.715,-90.346,3538
+41047,St. John,KS,Stafford County,,city-us,978,38.037,-98.753,4382
+41048,St. John,WA,Whitman County,,city-us,594,47.092,-117.582,3842
+41045,St. John,ND,Rolette County,,city-us,321,48.944,-99.711,3401
+41041,St. John,WI,Calumet County,,city-us,0,44.169,-88.204,186
+41043,St. John,MO,Pulaski County,,city-us,0,37.889,-92.380,286
+41044,St. John,MO,Putnam County,,city-us,0,40.540,-93.189,414

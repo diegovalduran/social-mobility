@@ -1,30 +1,30 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31066,Newton,MA,,city-us,87453,42.337,-71.209,23916
-31059,Newton,IA,,city-us,15667,41.700,-93.048,21290
-31054,Newton,NC,,city-us,13187,35.670,-81.221,4549
-31076,Newton,OH,,city-us,8582,41.170,-80.948,255
-31075,Newton,NJ,,city-us,8524,41.058,-74.753,25763
-31067,Newton,OH,,city-us,5234,39.863,-82.083,255
-31074,Newton,NH,,city-us,4835,42.870,-71.046,4229
-31065,Newton,OH,,city-us,3522,40.044,-84.355,255
-31061,Newton,OH,,city-us,3213,40.144,-82.420,255
-31069,Newton,MS,,city-us,3137,32.321,-89.163,3254
-31060,Newton,PA,,city-us,2866,41.449,-75.761,1808
-31053,Newton,MI,,city-us,2762,42.211,-85.125,204
-31058,Newton,IL,,city-us,2685,38.991,-88.163,5175
-31057,Newton,KS,,city-us,2246,38.046,-97.309,545
-31063,Newton,WI,,city-us,2241,43.994,-87.726,2977
-31070,Newton,TX,,city-us,1991,30.849,-93.757,4410
-31072,Newton,OH,,city-us,1798,39.040,-83.090,255
-31055,Newton,AL,,city-us,1607,31.335,-85.605,6325
-31071,Newton,MN,,city-us,808,46.499,-95.338,2001
-31052,Newton,UT,,city-us,794,41.863,-111.991,2305
-31051,Newton,GA,,city-us,588,31.313,-84.336,3102
-31064,Newton,WI,,city-us,544,43.948,-89.420,1867
-31062,Newton,MI,,city-us,440,46.032,-85.737,204
-31079,Newton,IL,,city-us,427,41.712,-90.147,345
-31056,Newton,WA,,city-us,0,47.081,-124.056,191
-31068,Newton,IN,,city-us,0,40.767,-87.386,154
-31073,Newton,WV,,city-us,0,38.591,-81.179,293
-31077,Newton,WI,,city-us,0,43.590,-91.063,194
-31078,Newton,IN,,city-us,0,40.967,-85.823,153
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31066,Newton,MA,Middlesex County,,city-us,87453,42.337,-71.209,23916
+31059,Newton,IA,Jasper County,,city-us,15667,41.700,-93.048,21290
+31054,Newton,NC,Catawba County,,city-us,13187,35.670,-81.221,4549
+31076,Newton,OH,Trumbull County,,city-us,8582,41.170,-80.948,255
+31075,Newton,NJ,Sussex County,,city-us,8524,41.058,-74.753,25763
+31067,Newton,OH,Muskingum County,,city-us,5234,39.863,-82.083,255
+31074,Newton,NH,Rockingham County,,city-us,4835,42.870,-71.046,4229
+31065,Newton,OH,Miami County,,city-us,3522,40.044,-84.355,255
+31061,Newton,OH,Licking County,,city-us,3213,40.144,-82.420,255
+31069,Newton,MS,Newton County,,city-us,3137,32.321,-89.163,3254
+31060,Newton,PA,Lackawanna County,,city-us,2866,41.449,-75.761,1808
+31053,Newton,MI,Calhoun County,,city-us,2762,42.211,-85.125,204
+31058,Newton,IL,Jasper County,,city-us,2685,38.991,-88.163,5175
+31057,Newton,KS,Harvey County,,city-us,2246,38.046,-97.309,545
+31063,Newton,WI,Manitowoc County,,city-us,2241,43.994,-87.726,2977
+31070,Newton,TX,Newton County,,city-us,1991,30.849,-93.757,4410
+31072,Newton,OH,Pike County,,city-us,1798,39.040,-83.090,255
+31055,Newton,AL,Dale County,,city-us,1607,31.335,-85.605,6325
+31071,Newton,MN,Otter Tail County,,city-us,808,46.499,-95.338,2001
+31052,Newton,UT,Cache County,,city-us,794,41.863,-111.991,2305
+31051,Newton,GA,Baker County,,city-us,588,31.313,-84.336,3102
+31064,Newton,WI,Marquette County,,city-us,544,43.948,-89.420,1867
+31062,Newton,MI,Mackinac County,,city-us,440,46.032,-85.737,204
+31079,Newton,IL,Whiteside County,,city-us,427,41.712,-90.147,345
+31056,Newton,WA,Grays Harbor County,,city-us,0,47.081,-124.056,191
+31068,Newton,IN,Newton County,,city-us,0,40.767,-87.386,154
+31073,Newton,WV,Roane County,,city-us,0,38.591,-81.179,293
+31077,Newton,WI,Vernon County,,city-us,0,43.590,-91.063,194
+31078,Newton,IN,Wabash County,,city-us,0,40.967,-85.823,153

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3236,Bellefontaine,OH,,city-us,14076,40.361,-83.760,17082
-3237,Bellefontaine,MO,,city-us,0,38.026,-90.700,265
-3238,Bellefontaine,MS,,city-us,0,33.649,-89.310,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3236,Bellefontaine,OH,Logan County,,city-us,14076,40.361,-83.760,17082
+3237,Bellefontaine,MO,Washington County,,city-us,0,38.026,-90.700,265
+3238,Bellefontaine,MS,Webster County,,city-us,0,33.649,-89.310,267

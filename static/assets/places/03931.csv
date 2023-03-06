@@ -1,27 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20111,Hillsboro,OR,,city-us,106633,45.523,-122.990,36072
-20116,Hillsborough,NJ,,city-us,42986,40.498,-74.671,20451
-20115,Hillsborough,CA,,city-us,11016,37.574,-122.379,13352
-20113,Hillsborough,NC,,city-us,9716,36.075,-79.100,15143
-20098,Hillsboro,TX,,city-us,8305,32.011,-97.130,6485
-20105,Hillsboro,IL,,city-us,6540,39.126,-89.523,480
-20097,Hillsboro,OH,,city-us,6483,39.202,-83.612,5346
-20112,Hillsborough,NH,,city-us,5958,43.147,-71.951,6651
-20100,Hillsboro,MO,,city-us,3497,38.232,-90.563,3997
-20104,Hillsboro,KS,,city-us,2740,38.352,-97.204,12555
-20093,Hillsboro,KY,,city-us,2010,38.293,-83.659,806
-20109,Hillsboro,ND,,city-us,1677,47.404,-97.062,11799
-20107,Hillsboro,MS,,city-us,1072,32.459,-89.511,455
-20110,Hillsboro,WI,,city-us,789,43.689,-90.369,4151
-20094,Hillsboro,IN,,city-us,504,40.109,-87.186,3222
-20102,Hillsboro,AL,,city-us,409,34.639,-87.192,3190
-20092,Hillsboro,TN,,city-us,272,35.413,-85.970,462
-20106,Hillsboro,WV,,city-us,231,38.135,-80.213,5855
-20096,Hillsboro,IA,,city-us,165,40.837,-91.716,3086
-20091,Hillsboro,MD,,city-us,128,38.917,-75.939,4360
-20108,Hillsboro,NM,,city-us,124,32.917,-107.567,3737
-20103,Hillsboro,VA,,city-us,114,39.198,-77.723,7509
-20095,Hillsboro,IN,,city-us,0,39.968,-85.332,597
-20099,Hillsboro,GA,,city-us,0,33.180,-83.641,1514
-20101,Hillsboro,VA,,city-us,0,37.710,-76.983,93
-20114,Hillsborough,MD,,city-us,0,39.119,-76.896,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20111,Hillsboro,OR,Washington County,,city-us,106633,45.523,-122.990,36072
+20116,Hillsborough,NJ,Somerset County,,city-us,42986,40.498,-74.671,20451
+20115,Hillsborough,CA,San Mateo County,,city-us,11016,37.574,-122.379,13352
+20113,Hillsborough,NC,Orange County,,city-us,9716,36.075,-79.100,15143
+20098,Hillsboro,TX,Hill County,,city-us,8305,32.011,-97.130,6485
+20105,Hillsboro,IL,Montgomery County,,city-us,6540,39.126,-89.523,480
+20097,Hillsboro,OH,Highland County,,city-us,6483,39.202,-83.612,5346
+20112,Hillsborough,NH,Hillsborough County,,city-us,5958,43.147,-71.951,6651
+20100,Hillsboro,MO,Jefferson County,,city-us,3497,38.232,-90.563,3997
+20104,Hillsboro,KS,Marion County,,city-us,2740,38.352,-97.204,12555
+20093,Hillsboro,KY,Fleming County,,city-us,2010,38.293,-83.659,806
+20109,Hillsboro,ND,Traill County,,city-us,1677,47.404,-97.062,11799
+20107,Hillsboro,MS,Scott County,,city-us,1072,32.459,-89.511,455
+20110,Hillsboro,WI,Vernon County,,city-us,789,43.689,-90.369,4151
+20094,Hillsboro,IN,Fountain County,,city-us,504,40.109,-87.186,3222
+20102,Hillsboro,AL,Lawrence County,,city-us,409,34.639,-87.192,3190
+20092,Hillsboro,TN,Coffee County,,city-us,272,35.413,-85.970,462
+20106,Hillsboro,WV,Pocahontas County,,city-us,231,38.135,-80.213,5855
+20096,Hillsboro,IA,Henry County,,city-us,165,40.837,-91.716,3086
+20091,Hillsboro,MD,Caroline County,,city-us,128,38.917,-75.939,4360
+20108,Hillsboro,NM,Sierra County,,city-us,124,32.917,-107.567,3737
+20103,Hillsboro,VA,Loudoun County,,city-us,114,39.198,-77.723,7509
+20095,Hillsboro,IN,Henry County,,city-us,0,39.968,-85.332,597
+20099,Hillsboro,GA,Jasper County,,city-us,0,33.180,-83.641,1514
+20101,Hillsboro,VA,King and Queen County,,city-us,0,37.710,-76.983,93
+20114,Hillsborough,MD,Prince George's County,,city-us,0,39.119,-76.896,199

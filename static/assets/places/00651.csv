@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3290,Bellflower,CA,,city-us,77408,33.882,-118.117,10507
-3291,Bellflower,IL,,city-us,534,40.335,-88.515,349
-3292,Bellflower,MO,,city-us,332,39.007,-91.355,3180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3290,Bellflower,CA,Los Angeles County,,city-us,77408,33.882,-118.117,10507
+3291,Bellflower,IL,McLean County,,city-us,534,40.335,-88.515,349
+3292,Bellflower,MO,Montgomery County,,city-us,332,39.007,-91.355,3180

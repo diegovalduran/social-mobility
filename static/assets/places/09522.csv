@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48129,Zenith,GA,,city-us,0,32.612,-83.978,237
-48130,Zenith,TN,,city-us,0,36.428,-84.737,85
-48131,Zenith,PA,,city-us,0,41.031,-76.189,107
-48132,Zenith,WV,,city-us,0,37.504,-80.531,203
-48133,Zenith,KS,,city-us,0,37.957,-98.492,335
-48134,Zenith,ND,,city-us,0,46.879,-103.097,85
-48135,Zenith,IL,,city-us,0,38.549,-88.623,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48129,Zenith,GA,Crawford County,,city-us,0,32.612,-83.978,237
+48130,Zenith,TN,Fentress County,,city-us,0,36.428,-84.737,85
+48131,Zenith,PA,Luzerne County,,city-us,0,41.031,-76.189,107
+48132,Zenith,WV,Monroe County,,city-us,0,37.504,-80.531,203
+48133,Zenith,KS,Stafford County,,city-us,0,37.957,-98.492,335
+48134,Zenith,ND,Stark County,,city-us,0,46.879,-103.097,85
+48135,Zenith,IL,Wayne County,,city-us,0,38.549,-88.623,168

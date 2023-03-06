@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7499,Cedarvale,TX,,city-us,0,32.570,-96.092,97
-7500,Cedarvale,NM,,city-us,0,34.371,-105.702,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7499,Cedarvale,TX,Kaufman County,,city-us,0,32.570,-96.092,97
+7500,Cedarvale,NM,Torrance County,,city-us,0,34.371,-105.702,267

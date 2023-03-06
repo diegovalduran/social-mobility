@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13750,Engle,TX,,city-us,0,29.681,-97.009,88
-13751,Engle,WV,,city-us,0,39.344,-77.781,312
-13752,Engle,NM,,city-us,0,33.177,-107.031,1173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13750,Engle,TX,Fayette County,,city-us,0,29.681,-97.009,88
+13751,Engle,WV,Jefferson County,,city-us,0,39.344,-77.781,312
+13752,Engle,NM,Sierra County,,city-us,0,33.177,-107.031,1173

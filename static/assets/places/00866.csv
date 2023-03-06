@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4428,Blooming Valley,PA,,city-us,341,41.681,-80.041,2655
-4430,Blooming Valley,SD,,city-us,182,45.253,-97.163,0
-4429,Blooming Valley,ND,,city-us,43,48.851,-103.136,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4428,Blooming Valley,PA,Crawford County,,city-us,341,41.681,-80.041,2655
+4430,Blooming Valley,SD,Grant County,,city-us,182,45.253,-97.163,0
+4429,Blooming Valley,ND,Divide County,,city-us,43,48.851,-103.136,0

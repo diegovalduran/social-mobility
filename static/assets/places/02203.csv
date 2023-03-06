@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11029,Darling,MN,,city-us,476,46.057,-94.442,1982
-11030,Darling,MS,,city-us,119,34.359,-90.274,495
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11029,Darling,MN,Morrison County,,city-us,476,46.057,-94.442,1982
+11030,Darling,MS,Quitman County,,city-us,119,34.359,-90.274,495

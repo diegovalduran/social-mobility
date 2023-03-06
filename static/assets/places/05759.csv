@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29658,Moss,TN,,city-us,0,36.589,-85.617,344
-29659,Moss,WV,,city-us,0,38.871,-80.805,223
-29660,Moss,MS,,city-us,0,31.815,-89.178,680
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29658,Moss,TN,Clay County,,city-us,0,36.589,-85.617,344
+29659,Moss,WV,Gilmer County,,city-us,0,38.871,-80.805,223
+29660,Moss,MS,Jasper County,,city-us,0,31.815,-89.178,680

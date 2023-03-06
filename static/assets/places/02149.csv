@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10770,Cuthbert,GA,,city-us,3091,31.771,-84.789,5731
-10769,Cuthbert,TX,,city-us,0,32.481,-101.032,1244
-10771,Cuthbert,SD,,city-us,0,43.968,-98.224,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10770,Cuthbert,GA,Randolph County,,city-us,3091,31.771,-84.789,5731
+10769,Cuthbert,TX,Mitchell County,,city-us,0,32.481,-101.032,1244
+10771,Cuthbert,SD,Sanborn County,,city-us,0,43.968,-98.224,221

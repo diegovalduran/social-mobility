@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16985,Glendo,WY,,city-us,239,42.503,-105.026,4044
-16984,Glendo,SD,,city-us,10,45.692,-102.919,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16985,Glendo,WY,Platte County,,city-us,239,42.503,-105.026,4044
+16984,Glendo,SD,Perkins County,,city-us,10,45.692,-102.919,0

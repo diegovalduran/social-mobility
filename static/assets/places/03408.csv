@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17237,Goodwill,SD,,city-us,895,45.596,-97.050,480
-17236,Goodwill,WV,,city-us,0,37.354,-81.289,205
-17238,Goodwill,TX,,city-us,0,30.242,-96.185,470
-17239,Goodwill,MD,,city-us,0,38.071,-75.492,733
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17237,Goodwill,SD,Roberts County,,city-us,895,45.596,-97.050,480
+17236,Goodwill,WV,Mercer County,,city-us,0,37.354,-81.289,205
+17238,Goodwill,TX,Washington County,,city-us,0,30.242,-96.185,470
+17239,Goodwill,MD,Worcester County,,city-us,0,38.071,-75.492,733

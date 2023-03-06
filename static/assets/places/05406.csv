@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27677,Meade,MI,,city-us,91663,42.659,-82.931,4416
-27673,Mead,WA,,city-us,7146,47.767,-117.355,1389
-27667,Mead,OH,,city-us,5388,39.944,-80.799,1308
-27675,Mead,CO,,city-us,5336,40.233,-104.999,3048
-27679,Meade,KS,,city-us,1506,37.286,-100.340,3491
-27674,Mead,PA,,city-us,1293,41.812,-79.018,2448
-27676,Meade,MI,,city-us,694,43.887,-83.067,269
-27672,Mead,NE,,city-us,626,41.228,-96.488,3587
-27669,Mead,WI,,city-us,351,44.809,-90.731,1808
-27668,Mead,OK,,city-us,229,34.000,-96.509,1924
-27678,Meade,MI,,city-us,181,44.118,-86.094,269
-27670,Mead,NE,,city-us,178,41.243,-98.019,240
-27671,Mead,WV,,city-us,0,37.624,-81.261,340
-27680,Meade,OH,,city-us,0,39.505,-82.877,729
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27677,Meade,MI,Macomb County,,city-us,91663,42.659,-82.931,4416
+27673,Mead,WA,Spokane County,,city-us,7146,47.767,-117.355,1389
+27667,Mead,OH,Belmont County,,city-us,5388,39.944,-80.799,1308
+27675,Mead,CO,Weld County,,city-us,5336,40.233,-104.999,3048
+27679,Meade,KS,Meade County,,city-us,1506,37.286,-100.340,3491
+27674,Mead,PA,Warren County,,city-us,1293,41.812,-79.018,2448
+27676,Meade,MI,Huron County,,city-us,694,43.887,-83.067,269
+27672,Mead,NE,Saunders County,,city-us,626,41.228,-96.488,3587
+27669,Mead,WI,Clark County,,city-us,351,44.809,-90.731,1808
+27668,Mead,OK,Bryan County,,city-us,229,34.000,-96.509,1924
+27678,Meade,MI,Mason County,,city-us,181,44.118,-86.094,269
+27670,Mead,NE,Merrick County,,city-us,178,41.243,-98.019,240
+27671,Mead,WV,Raleigh County,,city-us,0,37.624,-81.261,340
+27680,Meade,OH,Pickaway County,,city-us,0,39.505,-82.877,729

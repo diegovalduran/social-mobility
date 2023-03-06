@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21200,Idalia,CO,,city-us,54,39.704,-102.294,3968
-21199,Idalia,MO,,city-us,0,36.864,-89.861,1080
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21200,Idalia,CO,Yuma County,,city-us,54,39.704,-102.294,3968
+21199,Idalia,MO,Stoddard County,,city-us,0,36.864,-89.861,1080

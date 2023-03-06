@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44928,Walkerton,IN,,city-us,2088,41.467,-86.483,4677
-44927,Walkerton,VA,,city-us,0,37.726,-77.023,428
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44928,Walkerton,IN,St. Joseph County,,city-us,2088,41.467,-86.483,4677
+44927,Walkerton,VA,King and Queen County,,city-us,0,37.726,-77.023,428

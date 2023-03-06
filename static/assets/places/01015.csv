@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5092,Braswell,GA,,city-us,365,33.984,-84.958,1743
-5091,Braswell,MO,,city-us,0,36.714,-91.311,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5092,Braswell,GA,Paulding County / Polk County,,city-us,365,33.984,-84.958,1743
+5091,Braswell,MO,Oregon County,,city-us,0,36.714,-91.311,248

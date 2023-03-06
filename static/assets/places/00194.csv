@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1017,Amman,,Jordan,city-international,4007526,31.950,35.933,46233
-1020,Ammon,ID,,city-us,18673,43.470,-111.967,5827
-1018,Ammon,VA,,city-us,0,37.211,-77.768,1459
-1019,Ammon,NC,,city-us,0,34.800,-78.580,137
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1017,Amman,,,Jordan,city-international,4007526,31.950,35.933,46233
+1020,Ammon,ID,Bonneville County,,city-us,18673,43.470,-111.967,5827
+1018,Ammon,VA,Amelia County,,city-us,0,37.211,-77.768,1459
+1019,Ammon,NC,Bladen County,,city-us,0,34.800,-78.580,137

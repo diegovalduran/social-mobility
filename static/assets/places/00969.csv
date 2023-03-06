@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4851,Bowie,MD,,city-us,57644,38.943,-76.730,12282
-4850,Bowie,TX,,city-us,5534,33.559,-97.849,2352
-4848,Bowie,AZ,,city-us,406,32.326,-109.487,2643
-4849,Bowie,CO,,city-us,0,38.921,-107.540,256
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4851,Bowie,MD,Prince George's County,,city-us,57644,38.943,-76.730,12282
+4850,Bowie,TX,Montague County,,city-us,5534,33.559,-97.849,2352
+4848,Bowie,AZ,Cochise County,,city-us,406,32.326,-109.487,2643
+4849,Bowie,CO,Delta County,,city-us,0,38.921,-107.540,256

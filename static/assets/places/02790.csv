@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13889,Erin,WI,,city-us,3831,43.242,-88.352,5276
-13884,Erin,TN,,city-us,1208,36.318,-87.695,3220
-13887,Erin,MN,,city-us,843,44.406,-93.471,2012
-13883,Erin,NY,,city-us,515,42.186,-76.670,4073
-13888,Erin,IL,,city-us,377,42.328,-89.779,718
-13885,Erin,TX,,city-us,0,30.780,-93.997,312
-13886,Erin,WV,,city-us,0,37.441,-81.692,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13889,Erin,WI,Washington County,,city-us,3831,43.242,-88.352,5276
+13884,Erin,TN,Houston County,,city-us,1208,36.318,-87.695,3220
+13887,Erin,MN,Rice County,,city-us,843,44.406,-93.471,2012
+13883,Erin,NY,Chemung County,,city-us,515,42.186,-76.670,4073
+13888,Erin,IL,Stephenson County,,city-us,377,42.328,-89.779,718
+13885,Erin,TX,Jasper County,,city-us,0,30.780,-93.997,312
+13886,Erin,WV,McDowell County,,city-us,0,37.441,-81.692,121

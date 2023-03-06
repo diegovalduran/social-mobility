@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4830,Bowdre,IL,,city-us,627,39.706,-88.149,1100
-4831,Bowdre,MS,,city-us,0,34.797,-90.332,710
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4830,Bowdre,IL,Douglas County,,city-us,627,39.706,-88.149,1100
+4831,Bowdre,MS,Tunica County,,city-us,0,34.797,-90.332,710

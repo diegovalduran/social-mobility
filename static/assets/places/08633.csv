@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43285,Trimble,OH,,city-us,3961,39.506,-82.106,1525
-43286,Trimble,MO,,city-us,597,39.471,-94.565,3484
-43289,Trimble,TN,,city-us,539,36.202,-89.188,2097
-43287,Trimble,IL,,city-us,0,39.063,-87.684,153
-43288,Trimble,AL,,city-us,0,34.093,-86.949,249
-43290,Trimble,VA,,city-us,0,38.304,-79.619,288
-43291,Trimble,CO,,city-us,0,37.390,-107.846,274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43285,Trimble,OH,Athens County,,city-us,3961,39.506,-82.106,1525
+43286,Trimble,MO,Clinton County,,city-us,597,39.471,-94.565,3484
+43289,Trimble,TN,Dyer County / Obion County,,city-us,539,36.202,-89.188,2097
+43287,Trimble,IL,Crawford County,,city-us,0,39.063,-87.684,153
+43288,Trimble,AL,Cullman County,,city-us,0,34.093,-86.949,249
+43290,Trimble,VA,Highland County,,city-us,0,38.304,-79.619,288
+43291,Trimble,CO,La Plata County,,city-us,0,37.390,-107.846,274

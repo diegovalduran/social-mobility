@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11938,Dolph,MI,,city-us,248,44.209,-84.913,2702
-11937,Dolph,AR,,city-us,0,36.228,-92.113,161
-11939,Dolph,OR,,city-us,0,45.106,-123.790,2675
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11938,Dolph,MI,Missaukee County,,city-us,248,44.209,-84.913,2702
+11937,Dolph,AR,Izard County,,city-us,0,36.228,-92.113,161
+11939,Dolph,OR,Tillamook County,,city-us,0,45.106,-123.790,2675

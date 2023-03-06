@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33767,Peru,,,country,32440172,-9.190,-75.015,75921
-33763,Peru,IN,,city-us,11106,40.754,-86.069,9502
-33762,Peru,IL,,city-us,10085,41.324,-89.135,448
-33755,Peru,IL,,city-us,9842,41.347,-89.133,8817
-33758,Peru,NY,,city-us,6720,44.581,-73.564,4791
-33764,Peru,OH,,city-us,1506,40.387,-82.887,251
-33766,Peru,ME,,city-us,1491,44.461,-70.452,4119
-33761,Peru,OH,,city-us,1056,41.179,-82.691,251
-33754,Peru,MA,,city-us,804,42.408,-73.035,6466
-33765,Peru,NE,,city-us,636,40.474,-95.734,5148
-33753,Peru,VT,,city-us,528,43.278,-72.935,3671
-33759,Peru,WI,,city-us,231,44.720,-91.811,2014
-33757,Peru,KS,,city-us,105,37.089,-96.095,3565
-33756,Peru,PA,,city-us,26,40.855,-77.767,326
-33760,Peru,WV,,city-us,0,38.841,-79.074,129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33767,Peru,,,,country,32440172,-9.190,-75.015,75921
+33763,Peru,IN,Miami County,,city-us,11106,40.754,-86.069,9502
+33762,Peru,IL,LaSalle County,,city-us,10085,41.324,-89.135,448
+33755,Peru,IL,Bureau County / LaSalle County,,city-us,9842,41.347,-89.133,8817
+33758,Peru,NY,Clinton County,,city-us,6720,44.581,-73.564,4791
+33764,Peru,OH,Morrow County,,city-us,1506,40.387,-82.887,251
+33766,Peru,ME,Oxford County,,city-us,1491,44.461,-70.452,4119
+33761,Peru,OH,Huron County,,city-us,1056,41.179,-82.691,251
+33754,Peru,MA,Berkshire County,,city-us,804,42.408,-73.035,6466
+33765,Peru,NE,Nemaha County,,city-us,636,40.474,-95.734,5148
+33753,Peru,VT,Bennington County,,city-us,528,43.278,-72.935,3671
+33759,Peru,WI,Dunn County,,city-us,231,44.720,-91.811,2014
+33757,Peru,KS,Chautauqua County,,city-us,105,37.089,-96.095,3565
+33756,Peru,PA,Centre County,,city-us,26,40.855,-77.767,326
+33760,Peru,WV,Hardy County,,city-us,0,38.841,-79.074,129

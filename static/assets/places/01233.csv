@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6220,Burnt Factory,VA,,city-us,0,39.194,-78.076,252
-6221,Burnt Factory,WV,,city-us,0,39.656,-78.209,487
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6220,Burnt Factory,VA,Frederick County,,city-us,0,39.194,-78.076,252
+6221,Burnt Factory,WV,Morgan County,,city-us,0,39.656,-78.209,487

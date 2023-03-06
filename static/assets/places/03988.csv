@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20420,Holman,TX,,city-us,0,29.796,-96.796,234
-20421,Holman,WV,,city-us,0,39.716,-80.102,91
-20422,Holman,NM,,city-us,0,36.038,-105.384,281
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20420,Holman,TX,Fayette County,,city-us,0,29.796,-96.796,234
+20421,Holman,WV,Monongalia County,,city-us,0,39.716,-80.102,91
+20422,Holman,NM,Mora County,,city-us,0,36.038,-105.384,281

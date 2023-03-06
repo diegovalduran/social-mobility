@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17162,Goldsboro,NC,,city-us,32749,35.385,-77.993,16329
-17161,Goldsboro,FL,,city-us,2537,28.801,-81.280,3067
-17163,Goldsboro,PA,,city-us,928,40.153,-76.750,5598
-17158,Goldsboro,MD,,city-us,215,39.034,-75.787,3813
-17159,Goldsboro,TX,,city-us,0,32.060,-99.681,368
-17160,Goldsboro,OH,,city-us,0,39.117,-82.568,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17162,Goldsboro,NC,Wayne County,,city-us,32749,35.385,-77.993,16329
+17161,Goldsboro,FL,Seminole County,,city-us,2537,28.801,-81.280,3067
+17163,Goldsboro,PA,York County,,city-us,928,40.153,-76.750,5598
+17158,Goldsboro,MD,Caroline County,,city-us,215,39.034,-75.787,3813
+17159,Goldsboro,TX,Coleman County,,city-us,0,32.060,-99.681,368
+17160,Goldsboro,OH,Jackson County,,city-us,0,39.117,-82.568,180

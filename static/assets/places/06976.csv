@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35476,Prosper,TX,,city-us,34136,33.241,-96.812,5202
-35480,Prosper,MI,,city-us,882,44.206,-85.032,2873
-35478,Prosper,SD,,city-us,694,43.622,-98.036,0
-35479,Prosper,MN,,city-us,20,43.508,-91.870,565
-35475,Prosper,ND,,city-us,0,46.963,-97.020,256
-35477,Prosper,OR,,city-us,0,43.147,-124.374,834
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35476,Prosper,TX,Collin County / Denton County,,city-us,34136,33.241,-96.812,5202
+35480,Prosper,MI,Missaukee County,,city-us,882,44.206,-85.032,2873
+35478,Prosper,SD,Davison County,,city-us,694,43.622,-98.036,0
+35479,Prosper,MN,Fillmore County,,city-us,20,43.508,-91.870,565
+35475,Prosper,ND,Cass County,,city-us,0,46.963,-97.020,256
+35477,Prosper,OR,Coos County,,city-us,0,43.147,-124.374,834

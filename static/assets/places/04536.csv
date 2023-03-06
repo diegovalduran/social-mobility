@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23279,Kossuth,WI,,city-us,1988,44.191,-87.735,2282
-23276,Kossuth,MS,,city-us,161,34.872,-88.646,2826
-23277,Kossuth,OH,,city-us,0,40.659,-84.348,657
-23278,Kossuth,PA,,city-us,0,41.285,-79.574,299
-23280,Kossuth,IN,,city-us,0,38.704,-86.102,269
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23279,Kossuth,WI,Manitowoc County,,city-us,1988,44.191,-87.735,2282
+23276,Kossuth,MS,Alcorn County,,city-us,161,34.872,-88.646,2826
+23277,Kossuth,OH,Auglaize County,,city-us,0,40.659,-84.348,657
+23278,Kossuth,PA,Clarion County,,city-us,0,41.285,-79.574,299
+23280,Kossuth,IN,Washington County,,city-us,0,38.704,-86.102,269

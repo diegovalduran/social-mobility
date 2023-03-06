@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12264,Drywood,MO,,city-us,1225,37.700,-94.325,157
-12263,Drywood,WI,,city-us,759,45.048,-91.168,3628
-12262,Drywood,KS,,city-us,376,37.722,-94.696,512
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12264,Drywood,MO,Vernon County,,city-us,1225,37.700,-94.325,157
+12263,Drywood,WI,Chippewa County,,city-us,759,45.048,-91.168,3628
+12262,Drywood,KS,Bourbon County,,city-us,376,37.722,-94.696,512

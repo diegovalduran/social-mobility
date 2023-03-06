@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6518,Calico,WV,,city-us,0,37.474,-82.004,113
-6519,Calico,NC,,city-us,0,35.419,-77.255,351
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6518,Calico,WV,Mingo County,,city-us,0,37.474,-82.004,113
+6519,Calico,NC,Pitt County,,city-us,0,35.419,-77.255,351

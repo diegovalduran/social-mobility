@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14120,Everett,WA,,city-us,110812,47.979,-122.202,77801
-14118,Everett,NJ,,city-us,67106,40.405,-74.071,32958
-14117,Everett,MA,,city-us,48557,42.408,-71.054,13249
-14119,Everett,MI,,city-us,1991,43.511,-85.733,1892
-14112,Everett,PA,,city-us,1767,40.011,-78.373,4081
-14113,Everett,NE,,city-us,949,41.963,-96.500,189
-14116,Everett,GA,,city-us,158,31.391,-81.639,1584
-14114,Everett,MO,,city-us,0,38.504,-94.427,258
-14115,Everett,NE,,city-us,0,41.611,-96.617,237
-14121,Everett,OH,,city-us,0,41.204,-81.572,386
-14122,Everett,WV,,city-us,0,39.488,-81.034,114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14120,Everett,WA,Snohomish County,,city-us,110812,47.979,-122.202,77801
+14118,Everett,NJ,Monmouth County,,city-us,67106,40.405,-74.071,32958
+14117,Everett,MA,Middlesex County,,city-us,48557,42.408,-71.054,13249
+14119,Everett,MI,Newaygo County,,city-us,1991,43.511,-85.733,1892
+14112,Everett,PA,Bedford County,,city-us,1767,40.011,-78.373,4081
+14113,Everett,NE,Burt County,,city-us,949,41.963,-96.500,189
+14116,Everett,GA,Glynn County,,city-us,158,31.391,-81.639,1584
+14114,Everett,MO,Cass County,,city-us,0,38.504,-94.427,258
+14115,Everett,NE,Dodge County,,city-us,0,41.611,-96.617,237
+14121,Everett,OH,Summit County,,city-us,0,41.204,-81.572,386
+14122,Everett,WV,Tyler County,,city-us,0,39.488,-81.034,114

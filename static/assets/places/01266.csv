@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6405,Cabin Creek,CO,,city-us,0,39.741,-104.031,211
-6406,Cabin Creek,WV,,city-us,0,38.196,-81.478,988
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6405,Cabin Creek,CO,Adams County,,city-us,0,39.741,-104.031,211
+6406,Cabin Creek,WV,Kanawha County,,city-us,0,38.196,-81.478,988

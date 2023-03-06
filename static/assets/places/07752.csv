@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39228,Sewell,WV,,city-us,0,37.997,-81.021,455
-39229,Sewell,NJ,,city-us,0,39.766,-75.144,1882
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39228,Sewell,WV,Fayette County,,city-us,0,37.997,-81.021,455
+39229,Sewell,NJ,Gloucester County,,city-us,0,39.766,-75.144,1882

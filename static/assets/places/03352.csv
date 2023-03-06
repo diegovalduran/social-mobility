@@ -1,27 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16972,Glendale,AZ,,city-us,249630,33.539,-112.186,9661
-16971,Glendale,CA,,city-us,192366,34.143,-118.255,38960
-16973,Glendale,NJ,,city-us,37264,40.263,-74.799,24551
-16974,Glendale,WI,,city-us,13178,43.135,-87.936,6205
-16981,Glendale,MO,,city-us,6142,38.596,-90.377,3441
-16956,Glendale,CO,,city-us,4552,39.705,-104.934,7368
-16964,Glendale,OH,,city-us,2281,39.271,-84.459,3409
-16962,Glendale,MS,,city-us,1704,31.365,-89.306,461
-16961,Glendale,OR,,city-us,863,42.736,-123.423,3938
-16975,Glendale,WI,,city-us,579,43.782,-90.346,1901
-16969,Glendale,UT,,city-us,311,37.318,-112.597,3480
-16979,Glendale,SC,,city-us,275,34.945,-81.838,643
-16958,Glendale,CO,,city-us,86,40.082,-105.366,1137
-16970,Glendale,ND,,city-us,41,46.597,-99.710,388
-16965,Glendale,SD,,city-us,16,44.342,-99.125,0
-16980,Glendale,MN,,city-us,10,48.032,-92.831,300
-16957,Glendale,NH,,city-us,0,43.583,-71.387,278
-16959,Glendale,NV,,city-us,0,36.665,-114.567,975
-16960,Glendale,IN,,city-us,0,38.568,-87.077,320
-16963,Glendale,ID,,city-us,0,42.130,-111.705,284
-16966,Glendale,KY,,city-us,0,37.602,-85.906,5768
-16967,Glendale,CA,,city-us,0,40.900,-124.017,208
-16968,Glendale,WA,,city-us,0,47.939,-122.358,249
-16976,Glendale,IL,,city-us,0,37.456,-88.671,156
-16977,Glendale,MO,,city-us,0,40.487,-92.764,461
-16978,Glendale,KS,,city-us,0,38.898,-97.875,603
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16972,Glendale,AZ,Maricopa County,,city-us,249630,33.539,-112.186,9661
+16971,Glendale,CA,Los Angeles County,,city-us,192366,34.143,-118.255,38960
+16973,Glendale,NJ,Mercer County,,city-us,37264,40.263,-74.799,24551
+16974,Glendale,WI,Milwaukee County,,city-us,13178,43.135,-87.936,6205
+16981,Glendale,MO,St. Louis County,,city-us,6142,38.596,-90.377,3441
+16956,Glendale,CO,Arapahoe County,,city-us,4552,39.705,-104.934,7368
+16964,Glendale,OH,Hamilton County,,city-us,2281,39.271,-84.459,3409
+16962,Glendale,MS,Forrest County,,city-us,1704,31.365,-89.306,461
+16961,Glendale,OR,Douglas County,,city-us,863,42.736,-123.423,3938
+16975,Glendale,WI,Monroe County,,city-us,579,43.782,-90.346,1901
+16969,Glendale,UT,Kane County,,city-us,311,37.318,-112.597,3480
+16979,Glendale,SC,Spartanburg County,,city-us,275,34.945,-81.838,643
+16958,Glendale,CO,Boulder County,,city-us,86,40.082,-105.366,1137
+16970,Glendale,ND,Logan County,,city-us,41,46.597,-99.710,388
+16965,Glendale,SD,Hand County,,city-us,16,44.342,-99.125,0
+16980,Glendale,MN,St. Louis County,,city-us,10,48.032,-92.831,300
+16957,Glendale,NH,Belknap County,,city-us,0,43.583,-71.387,278
+16959,Glendale,NV,Clark County,,city-us,0,36.665,-114.567,975
+16960,Glendale,IN,Daviess County,,city-us,0,38.568,-87.077,320
+16963,Glendale,ID,Franklin County,,city-us,0,42.130,-111.705,284
+16966,Glendale,KY,Hardin County,,city-us,0,37.602,-85.906,5768
+16967,Glendale,CA,Humboldt County,,city-us,0,40.900,-124.017,208
+16968,Glendale,WA,Island County,,city-us,0,47.939,-122.358,249
+16976,Glendale,IL,Pope County,,city-us,0,37.456,-88.671,156
+16977,Glendale,MO,Putnam County,,city-us,0,40.487,-92.764,461
+16978,Glendale,KS,Saline County,,city-us,0,38.898,-97.875,603

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37508,Rose,MI,,city-us,6169,42.741,-83.625,252
-37514,Rose,NY,,city-us,2285,43.160,-76.900,4331
-37511,Rose,IL,,city-us,1894,39.395,-88.871,562
-37505,Rose,OH,,city-us,1468,40.604,-81.256,2580
-37509,Rose,MI,,city-us,1237,44.456,-84.087,252
-37506,Rose,PA,,city-us,1147,41.136,-79.112,2462
-37513,Rose,WI,,city-us,676,44.200,-89.298,1959
-37507,Rose,OK,,city-us,225,36.219,-95.030,1780
-37512,Rose,ND,,city-us,67,47.021,-98.529,0
-37510,Rose,NE,,city-us,0,42.181,-99.526,390
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37508,Rose,MI,Oakland County,,city-us,6169,42.741,-83.625,252
+37514,Rose,NY,Wayne County,,city-us,2285,43.160,-76.900,4331
+37511,Rose,IL,Shelby County,,city-us,1894,39.395,-88.871,562
+37505,Rose,OH,Carroll County,,city-us,1468,40.604,-81.256,2580
+37509,Rose,MI,Ogemaw County,,city-us,1237,44.456,-84.087,252
+37506,Rose,PA,Jefferson County,,city-us,1147,41.136,-79.112,2462
+37513,Rose,WI,Waushara County,,city-us,676,44.200,-89.298,1959
+37507,Rose,OK,Mayes County,,city-us,225,36.219,-95.030,1780
+37512,Rose,ND,Stutsman County,,city-us,67,47.021,-98.529,0
+37510,Rose,NE,Rock County,,city-us,0,42.181,-99.526,390

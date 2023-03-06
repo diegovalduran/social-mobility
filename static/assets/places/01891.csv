@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9674,Conneaut,OH,,city-us,12181,41.948,-80.554,8336
-9676,Conneaut,PA,,city-us,4100,41.883,-80.439,179
-9675,Conneaut,PA,,city-us,1326,41.700,-80.459,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9674,Conneaut,OH,Ashtabula County,,city-us,12181,41.948,-80.554,8336
+9676,Conneaut,PA,Erie County,,city-us,4100,41.883,-80.439,179
+9675,Conneaut,PA,Crawford County,,city-us,1326,41.700,-80.459,179

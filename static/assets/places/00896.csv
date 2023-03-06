@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4550,Bluff,UT,,city-us,246,37.284,-109.552,4785
-4551,Bluff,KS,,city-us,60,37.062,-97.748,0
-4548,Bluff,AL,,city-us,0,33.821,-87.906,271
-4549,Bluff,TX,,city-us,0,29.936,-96.886,72
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4550,Bluff,UT,San Juan County,,city-us,246,37.284,-109.552,4785
+4551,Bluff,KS,Sumner County,,city-us,60,37.062,-97.748,0
+4548,Bluff,AL,Fayette County,,city-us,0,33.821,-87.906,271
+4549,Bluff,TX,Fayette County,,city-us,0,29.936,-96.886,72

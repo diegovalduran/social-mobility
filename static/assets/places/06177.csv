@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31499,Northridge,OH,,city-us,8487,39.809,-84.190,2395
-31498,Northridge,OH,,city-us,7791,39.992,-83.779,2299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31499,Northridge,OH,Montgomery County,,city-us,8487,39.809,-84.190,2395
+31498,Northridge,OH,Clark County,,city-us,7791,39.992,-83.779,2299

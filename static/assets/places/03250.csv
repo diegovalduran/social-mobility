@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16439,Garwood,NJ,,city-us,4393,40.652,-74.323,12001
-16436,Garwood,TX,,city-us,0,29.450,-96.397,1133
-16437,Garwood,ID,,city-us,0,47.832,-116.778,402
-16438,Garwood,MO,,city-us,0,37.066,-90.878,401
-16440,Garwood,WV,,city-us,0,37.483,-81.323,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16439,Garwood,NJ,Union County,,city-us,4393,40.652,-74.323,12001
+16436,Garwood,TX,Colorado County,,city-us,0,29.450,-96.397,1133
+16437,Garwood,ID,Kootenai County,,city-us,0,47.832,-116.778,402
+16438,Garwood,MO,Reynolds County,,city-us,0,37.066,-90.878,401
+16440,Garwood,WV,Wyoming County,,city-us,0,37.483,-81.323,89

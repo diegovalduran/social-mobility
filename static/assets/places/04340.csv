@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22456,Juniper,MI,,city-us,2983,46.338,-86.571,6230
-22457,Juniper,GA,,city-us,0,32.531,-84.604,362
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22456,Juniper,MI,Alger County,,city-us,2983,46.338,-86.571,6230
+22457,Juniper,GA,Marion County,,city-us,0,32.531,-84.604,362

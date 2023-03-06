@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38111,Saco,ME,,city-us,20669,43.501,-70.443,11730
-38108,Saco,MT,,city-us,159,48.457,-107.343,3699
-38105,Saco,CA,,city-us,0,35.444,-119.092,345
-38106,Saco,MO,,city-us,0,37.366,-90.439,368
-38107,Saco,GA,,city-us,0,31.232,-84.209,305
-38109,Saco,AL,,city-us,0,31.955,-85.821,222
-38110,Saco,MN,,city-us,0,44.004,-93.266,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38111,Saco,ME,York County,,city-us,20669,43.501,-70.443,11730
+38108,Saco,MT,Phillips County,,city-us,159,48.457,-107.343,3699
+38105,Saco,CA,Kern County,,city-us,0,35.444,-119.092,345
+38106,Saco,MO,Madison County,,city-us,0,37.366,-90.439,368
+38107,Saco,GA,Mitchell County,,city-us,0,31.232,-84.209,305
+38109,Saco,AL,Pike County,,city-us,0,31.955,-85.821,222
+38110,Saco,MN,Steele County,,city-us,0,44.004,-93.266,279

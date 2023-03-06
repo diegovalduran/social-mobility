@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21373,Indiantown,FL,,city-us,6646,27.027,-80.486,6421
-21372,Indiantown,IL,,city-us,591,41.276,-89.573,2447
-21374,Indiantown,MI,,city-us,0,45.704,-87.377,222
-21375,Indiantown,SC,,city-us,0,33.725,-79.561,1319
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21373,Indiantown,FL,Martin County,,city-us,6646,27.027,-80.486,6421
+21372,Indiantown,IL,Bureau County,,city-us,591,41.276,-89.573,2447
+21374,Indiantown,MI,Menominee County,,city-us,0,45.704,-87.377,222
+21375,Indiantown,SC,Williamsburg County,,city-us,0,33.725,-79.561,1319

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28170,Middlebury,VT,,city-us,9064,44.002,-73.119,12113
-28175,Middlebury,CT,,city-us,7684,41.525,-73.123,4086
-28172,Middlebury,IN,,city-us,3449,41.675,-85.706,5034
-28176,Middlebury,MI,,city-us,1520,43.002,-84.318,2149
-28174,Middlebury,OH,,city-us,1407,40.517,-82.589,1421
-28179,Middlebury,NY,,city-us,1347,42.824,-78.133,2785
-28177,Middlebury,PA,,city-us,1306,41.864,-77.272,3520
-28171,Middlebury,IN,,city-us,0,39.264,-87.119,345
-28173,Middlebury,WI,,city-us,0,42.937,-89.883,106
-28178,Middlebury,OH,,city-us,0,40.846,-84.746,393
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28170,Middlebury,VT,Addison County,,city-us,9064,44.002,-73.119,12113
+28175,Middlebury,CT,Naugatuck Valley Planning Region,,city-us,7684,41.525,-73.123,4086
+28172,Middlebury,IN,Elkhart County,,city-us,3449,41.675,-85.706,5034
+28176,Middlebury,MI,Shiawassee County,,city-us,1520,43.002,-84.318,2149
+28174,Middlebury,OH,Knox County,,city-us,1407,40.517,-82.589,1421
+28179,Middlebury,NY,Wyoming County,,city-us,1347,42.824,-78.133,2785
+28177,Middlebury,PA,Tioga County,,city-us,1306,41.864,-77.272,3520
+28171,Middlebury,IN,Clay County,,city-us,0,39.264,-87.119,345
+28173,Middlebury,WI,Iowa County,,city-us,0,42.937,-89.883,106
+28178,Middlebury,OH,Van Wert County,,city-us,0,40.846,-84.746,393

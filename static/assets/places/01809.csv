@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9247,Coldstream,OH,,city-us,1461,39.045,-84.341,572
-9248,Coldstream,KY,,city-us,1285,38.315,-85.524,2334
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9247,Coldstream,OH,Hamilton County,,city-us,1461,39.045,-84.341,572
+9248,Coldstream,KY,Jefferson County,,city-us,1285,38.315,-85.524,2334

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38609,Sandy Valley,NV,,city-us,1723,35.817,-115.632,2880
-38610,Sandy Valley,CA,,city-us,4,35.814,-115.678,669
-38611,Sandy Valley,PA,,city-us,0,41.130,-78.886,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38609,Sandy Valley,NV,Clark County,,city-us,1723,35.817,-115.632,2880
+38610,Sandy Valley,CA,Inyo County,,city-us,4,35.814,-115.678,669
+38611,Sandy Valley,PA,Jefferson County,,city-us,0,41.130,-78.886,252

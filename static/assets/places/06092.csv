@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31178,Ninnescah,KS,,city-us,3367,37.524,-97.541,144
-31175,Ninnescah,KS,,city-us,920,37.353,-97.092,429
-31176,Ninnescah,KS,,city-us,276,37.597,-98.145,951
-31177,Ninnescah,KS,,city-us,219,37.757,-97.861,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31178,Ninnescah,KS,Sedgwick County,,city-us,3367,37.524,-97.541,144
+31175,Ninnescah,KS,Cowley County,,city-us,920,37.353,-97.092,429
+31176,Ninnescah,KS,Kingman County,,city-us,276,37.597,-98.145,951
+31177,Ninnescah,KS,Reno County,,city-us,219,37.757,-97.861,0

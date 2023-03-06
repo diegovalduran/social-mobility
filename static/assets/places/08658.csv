@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43413,Trumbull,CT,,city-us,36950,41.273,-73.212,25267
-43411,Trumbull,OH,,city-us,1370,41.690,-80.949,1834
-43410,Trumbull,NE,,city-us,197,40.680,-98.273,4247
-43412,Trumbull,TX,,city-us,0,32.490,-96.666,614
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43413,Trumbull,CT,Greater Bridgeport Planning Region,,city-us,36950,41.273,-73.212,25267
+43411,Trumbull,OH,Ashtabula County,,city-us,1370,41.690,-80.949,1834
+43410,Trumbull,NE,Adams County / Clay County,,city-us,197,40.680,-98.273,4247
+43412,Trumbull,TX,Ellis County,,city-us,0,32.490,-96.666,614

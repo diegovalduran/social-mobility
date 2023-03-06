@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23153,Klemme,IA,,city-us,433,43.007,-93.603,3823
-8771,Clem,WV,,city-us,0,38.634,-80.914,306
-8772,Clem,OR,,city-us,0,45.421,-120.203,513
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23153,Klemme,IA,Hancock County,,city-us,433,43.007,-93.603,3823
+8771,Clem,WV,Braxton County,,city-us,0,38.634,-80.914,306
+8772,Clem,OR,Gilliam County,,city-us,0,45.421,-120.203,513

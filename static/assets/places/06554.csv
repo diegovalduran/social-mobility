@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33355,Paxson,AK,,city-us,0,62.976,-145.758,2424
-33356,Paxson,VA,,city-us,0,39.096,-77.808,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33355,Paxson,AK,Copper River Census Area,,city-us,0,62.976,-145.758,2424
+33356,Paxson,VA,Loudoun County,,city-us,0,39.096,-77.808,202

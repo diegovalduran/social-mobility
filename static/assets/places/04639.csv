@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23734,Laketon,MI,,city-us,7707,43.271,-86.317,1888
-23735,Laketon,IN,,city-us,368,40.974,-85.836,313
-23733,Laketon,MI,,city-us,169,46.415,-85.748,2732
-23732,Laketon,SD,,city-us,167,44.510,-97.098,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23734,Laketon,MI,Muskegon County,,city-us,7707,43.271,-86.317,1888
+23735,Laketon,IN,Wabash County,,city-us,368,40.974,-85.836,313
+23733,Laketon,MI,Luce County,,city-us,169,46.415,-85.748,2732
+23732,Laketon,SD,Brookings County,,city-us,167,44.510,-97.098,0

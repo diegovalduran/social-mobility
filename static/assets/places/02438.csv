@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12188,Drayton,SC,,city-us,1115,34.968,-81.906,685
-12187,Drayton,ND,,city-us,746,48.571,-97.178,4587
-12186,Drayton,GA,,city-us,0,32.074,-83.956,402
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12188,Drayton,SC,Spartanburg County,,city-us,1115,34.968,-81.906,685
+12187,Drayton,ND,Pembina County,,city-us,746,48.571,-97.178,4587
+12186,Drayton,GA,Dooly County,,city-us,0,32.074,-83.956,402

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17686,Grass Lake,MI,,city-us,6189,42.252,-84.193,2533
-17685,Grass Lake,ND,,city-us,59,47.208,-100.675,0
-17687,Grass Lake,MN,,city-us,0,45.778,-93.168,109
-17688,Grass Lake,IL,,city-us,0,42.446,-88.136,164
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17686,Grass Lake,MI,Jackson County,,city-us,6189,42.252,-84.193,2533
+17685,Grass Lake,ND,Burleigh County,,city-us,59,47.208,-100.675,0
+17687,Grass Lake,MN,Kanabec County,,city-us,0,45.778,-93.168,109
+17688,Grass Lake,IL,Lake County,,city-us,0,42.446,-88.136,164

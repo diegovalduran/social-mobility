@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12667,East Brunswick,NJ,,city-us,49285,40.426,-74.418,33020
-12668,East Brunswick,PA,,city-us,1860,40.683,-75.983,3188
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12667,East Brunswick,NJ,Middlesex County,,city-us,49285,40.426,-74.418,33020
+12668,East Brunswick,PA,Schuylkill County,,city-us,1860,40.683,-75.983,3188

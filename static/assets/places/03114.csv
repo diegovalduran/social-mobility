@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15571,Four Mile,IL,,city-us,556,38.317,-88.651,339
-15569,Four Mile,SD,,city-us,0,43.733,-103.675,574
-15570,Four Mile,OH,,city-us,0,38.983,-82.642,249
-15572,Four Mile,WV,,city-us,0,39.587,-80.618,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15571,Four Mile,IL,Wayne County,,city-us,556,38.317,-88.651,339
+15569,Four Mile,SD,Custer County,,city-us,0,43.733,-103.675,574
+15570,Four Mile,OH,Jackson County,,city-us,0,38.983,-82.642,249
+15572,Four Mile,WV,Wetzel County,,city-us,0,39.587,-80.618,90

@@ -1,29 +1,29 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45478,Waterloo,,Canada,city-international,104986,43.467,-80.517,4449
-45452,Waterloo,IA,,city-us,66941,42.493,-92.343,30978
-45474,Waterloo,IL,,city-us,11062,38.336,-90.150,11779
-45473,Waterloo,NJ,,city-us,7343,40.362,-74.004,21567
-45477,Waterloo,NY,,city-us,7312,42.919,-76.913,5808
-45462,Waterloo,MI,,city-us,2856,42.344,-84.201,2477
-45451,Waterloo,OH,,city-us,2301,39.334,-82.231,2004
-45456,Waterloo,IN,,city-us,2114,41.432,-85.020,4635
-45457,Waterloo,NE,,city-us,923,41.287,-96.286,3532
-45476,Waterloo,CA,,city-us,913,38.035,-121.187,2232
-45463,Waterloo,WI,,city-us,864,43.151,-88.931,2096
-45459,Waterloo,WI,,city-us,558,42.727,-90.829,1992
-45471,Waterloo,KS,,city-us,237,38.688,-96.008,236
-45470,Waterloo,OR,,city-us,222,44.494,-122.825,3659
-45467,Waterloo,AL,,city-us,184,34.918,-88.064,4433
-45468,Waterloo,SC,,city-us,150,34.352,-82.059,2121
-45453,Waterloo,ND,,city-us,34,48.754,-98.530,0
-45454,Waterloo,MO,,city-us,0,40.449,-91.669,367
-45455,Waterloo,VA,,city-us,0,39.083,-78.083,220
-45458,Waterloo,IN,,city-us,0,39.704,-85.103,475
-45460,Waterloo,MD,,city-us,0,39.172,-76.785,2489
-45461,Waterloo,GA,,city-us,0,31.594,-83.474,320
-45464,Waterloo,IN,,city-us,0,39.563,-86.198,138
-45465,Waterloo,KS,,city-us,0,37.677,-97.941,301
-45466,Waterloo,MO,,city-us,0,39.133,-94.034,457
-45469,Waterloo,OH,,city-us,0,38.701,-82.474,375
-45472,Waterloo,WV,,city-us,0,38.731,-81.934,152
-45475,Waterloo,VA,,city-us,0,37.596,-77.168,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45478,Waterloo,,,Canada,city-international,104986,43.467,-80.517,4449
+45452,Waterloo,IA,Black Hawk County,,city-us,66941,42.493,-92.343,30978
+45474,Waterloo,IL,Monroe County,,city-us,11062,38.336,-90.150,11779
+45473,Waterloo,NJ,Monmouth County,,city-us,7343,40.362,-74.004,21567
+45477,Waterloo,NY,Seneca County,,city-us,7312,42.919,-76.913,5808
+45462,Waterloo,MI,Jackson County,,city-us,2856,42.344,-84.201,2477
+45451,Waterloo,OH,Athens County,,city-us,2301,39.334,-82.231,2004
+45456,Waterloo,IN,DeKalb County,,city-us,2114,41.432,-85.020,4635
+45457,Waterloo,NE,Douglas County,,city-us,923,41.287,-96.286,3532
+45476,Waterloo,CA,San Joaquin County,,city-us,913,38.035,-121.187,2232
+45463,Waterloo,WI,Jefferson County,,city-us,864,43.151,-88.931,2096
+45459,Waterloo,WI,Grant County,,city-us,558,42.727,-90.829,1992
+45471,Waterloo,KS,Lyon County,,city-us,237,38.688,-96.008,236
+45470,Waterloo,OR,Linn County,,city-us,222,44.494,-122.825,3659
+45467,Waterloo,AL,Lauderdale County,,city-us,184,34.918,-88.064,4433
+45468,Waterloo,SC,Laurens County,,city-us,150,34.352,-82.059,2121
+45453,Waterloo,ND,Cavalier County,,city-us,34,48.754,-98.530,0
+45454,Waterloo,MO,Clark County,,city-us,0,40.449,-91.669,367
+45455,Waterloo,VA,Clarke County,,city-us,0,39.083,-78.083,220
+45458,Waterloo,IN,Fayette County,,city-us,0,39.704,-85.103,475
+45460,Waterloo,MD,Howard County,,city-us,0,39.172,-76.785,2489
+45461,Waterloo,GA,Irwin County,,city-us,0,31.594,-83.474,320
+45464,Waterloo,IN,Johnson County,,city-us,0,39.563,-86.198,138
+45465,Waterloo,KS,Kingman County,,city-us,0,37.677,-97.941,301
+45466,Waterloo,MO,Lafayette County,,city-us,0,39.133,-94.034,457
+45469,Waterloo,OH,Lawrence County,,city-us,0,38.701,-82.474,375
+45472,Waterloo,WV,Mason County,,city-us,0,38.731,-81.934,152
+45475,Waterloo,VA,New Kent County,,city-us,0,37.596,-77.168,104

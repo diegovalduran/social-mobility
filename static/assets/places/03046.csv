@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15284,Foraker,OK,,city-us,15,36.872,-96.566,3792
-15281,Foraker,IN,,city-us,0,41.516,-85.924,436
-15282,Foraker,OH,,city-us,0,40.678,-83.742,333
-15283,Foraker,KY,,city-us,0,37.660,-83.137,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15284,Foraker,OK,Osage County,,city-us,15,36.872,-96.566,3792
+15281,Foraker,IN,Elkhart County,,city-us,0,41.516,-85.924,436
+15282,Foraker,OH,Hardin County,,city-us,0,40.678,-83.742,333
+15283,Foraker,KY,Magoffin County,,city-us,0,37.660,-83.137,223

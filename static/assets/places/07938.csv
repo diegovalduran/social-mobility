@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40166,Snell,WI,,city-us,0,45.059,-89.285,114
-40167,Snell,VA,,city-us,0,38.148,-77.601,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40166,Snell,WI,Marathon County,,city-us,0,45.059,-89.285,114
+40167,Snell,VA,Spotsylvania County,,city-us,0,38.148,-77.601,93

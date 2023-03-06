@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26846,Margaret,AL,,city-us,5427,33.686,-86.475,3654
-26847,Margaret,ND,,city-us,79,48.408,-101.114,0
-26845,Margaret,NC,,city-us,0,36.025,-78.226,315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26846,Margaret,AL,St. Clair County,,city-us,5427,33.686,-86.475,3654
+26847,Margaret,ND,Ward County,,city-us,79,48.408,-101.114,0
+26845,Margaret,NC,Franklin County,,city-us,0,36.025,-78.226,315

@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41872,Sullivan,NY,,city-us,14869,43.091,-75.884,3989
-41868,Sullivan,MO,,city-us,6855,38.213,-91.164,8943
-41873,Sullivan,IL,,city-us,6284,39.591,-88.651,227
-41880,Sullivan,IN,,city-us,4252,39.095,-87.406,6091
-41874,Sullivan,MI,,city-us,2590,43.165,-86.082,1824
-41881,Sullivan,PA,,city-us,1463,41.788,-76.970,2180
-41869,Sullivan,ME,,city-us,1257,44.535,-68.153,13595
-41867,Sullivan,NH,,city-us,666,43.021,-72.214,4455
-41870,Sullivan,WI,,city-us,644,43.013,-88.588,3989
-41871,Sullivan,IL,,city-us,642,40.885,-88.300,227
-41875,Sullivan,MN,,city-us,162,47.971,-96.923,1949
-41877,Sullivan,ND,,city-us,34,48.421,-98.779,0
-41866,Sullivan,OH,,city-us,0,41.028,-82.222,418
-41876,Sullivan,WV,,city-us,0,37.704,-81.194,165
-41878,Sullivan,WV,,city-us,0,38.907,-79.870,138
-41879,Sullivan,VA,,city-us,0,38.312,-77.409,92
-41882,Sullivan,KY,,city-us,0,37.498,-87.945,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41872,Sullivan,NY,Madison County,,city-us,14869,43.091,-75.884,3989
+41868,Sullivan,MO,Crawford County / Franklin County,,city-us,6855,38.213,-91.164,8943
+41873,Sullivan,IL,Moultrie County,,city-us,6284,39.591,-88.651,227
+41880,Sullivan,IN,Sullivan County,,city-us,4252,39.095,-87.406,6091
+41874,Sullivan,MI,Muskegon County,,city-us,2590,43.165,-86.082,1824
+41881,Sullivan,PA,Tioga County,,city-us,1463,41.788,-76.970,2180
+41869,Sullivan,ME,Hancock County,,city-us,1257,44.535,-68.153,13595
+41867,Sullivan,NH,Cheshire County,,city-us,666,43.021,-72.214,4455
+41870,Sullivan,WI,Jefferson County,,city-us,644,43.013,-88.588,3989
+41871,Sullivan,IL,Livingston County,,city-us,642,40.885,-88.300,227
+41875,Sullivan,MN,Polk County,,city-us,162,47.971,-96.923,1949
+41877,Sullivan,ND,Ramsey County,,city-us,34,48.421,-98.779,0
+41866,Sullivan,OH,Ashland County,,city-us,0,41.028,-82.222,418
+41876,Sullivan,WV,Raleigh County,,city-us,0,37.704,-81.194,165
+41878,Sullivan,WV,Randolph County,,city-us,0,38.907,-79.870,138
+41879,Sullivan,VA,Stafford County,,city-us,0,38.312,-77.409,92
+41882,Sullivan,KY,Union County,,city-us,0,37.498,-87.945,97

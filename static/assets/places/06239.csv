@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31905,Oakmont,PA,,city-us,6749,40.522,-79.842,9777
-31906,Oakmont,PA,,city-us,0,40.252,-76.690,181
-31907,Oakmont,WV,,city-us,0,39.367,-79.188,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31905,Oakmont,PA,Allegheny County,,city-us,6749,40.522,-79.842,9777
+31906,Oakmont,PA,Dauphin County,,city-us,0,40.252,-76.690,181
+31907,Oakmont,WV,Mineral County,,city-us,0,39.367,-79.188,175

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14001,Ettrick,VA,,city-us,5169,37.240,-77.430,4549
-14002,Ettrick,WI,,city-us,523,44.168,-91.269,170
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14001,Ettrick,VA,Chesterfield County,,city-us,5169,37.240,-77.430,4549
+14002,Ettrick,WI,Trempealeau County,,city-us,523,44.168,-91.269,170

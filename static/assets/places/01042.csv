@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5182,Brewer,ME,,city-us,9636,44.797,-68.761,8965
-5183,Brewer,MO,,city-us,361,37.781,-89.925,440
-5181,Brewer,MS,,city-us,0,34.148,-88.684,471
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5182,Brewer,ME,Penobscot County,,city-us,9636,44.797,-68.761,8965
+5183,Brewer,MO,Perry County,,city-us,361,37.781,-89.925,440
+5181,Brewer,MS,Lee County,,city-us,0,34.148,-88.684,471

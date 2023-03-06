@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10974,Dant,KY,,city-us,0,37.636,-85.456,107
-10975,Dant,OR,,city-us,0,45.038,-121.113,1242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10974,Dant,KY,Marion County,,city-us,0,37.636,-85.456,107
+10975,Dant,OR,Wasco County,,city-us,0,45.038,-121.113,1242

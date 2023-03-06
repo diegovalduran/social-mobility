@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21653,Israel,,,country,9043387,31.046,34.852,111010
-21652,Israel,OH,,city-us,1135,39.610,-84.756,1489
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21653,Israel,,,,country,9043387,31.046,34.852,111010
+21652,Israel,OH,Preble County,,city-us,1135,39.610,-84.756,1489

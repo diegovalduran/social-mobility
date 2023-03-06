@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39718,Shoreham,VT,,city-us,1248,43.899,-73.315,3878
-39719,Shoreham,MI,,city-us,867,42.059,-86.516,3113
-39720,Shoreham,NY,,city-us,522,40.957,-72.908,3402
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39718,Shoreham,VT,Addison County,,city-us,1248,43.899,-73.315,3878
+39719,Shoreham,MI,Berrien County,,city-us,867,42.059,-86.516,3113
+39720,Shoreham,NY,Suffolk County,,city-us,522,40.957,-72.908,3402

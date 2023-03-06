@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26857,Maricopa,AZ,,city-us,62720,33.058,-112.048,11114
-26856,Maricopa,CA,,city-us,1021,35.059,-119.401,6019
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26857,Maricopa,AZ,Pinal County,,city-us,62720,33.058,-112.048,11114
+26856,Maricopa,CA,Kern County,,city-us,1021,35.059,-119.401,6019

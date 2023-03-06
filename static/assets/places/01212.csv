@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6101,Burdette,AR,,city-us,138,35.817,-89.939,3216
-6100,Burdette,SD,,city-us,42,44.678,-98.766,0
-6098,Burdette,IA,,city-us,0,42.572,-93.360,244
-6099,Burdette,WV,,city-us,0,38.063,-80.799,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6101,Burdette,AR,Mississippi County,,city-us,138,35.817,-89.939,3216
+6100,Burdette,SD,Hand County,,city-us,42,44.678,-98.766,0
+6098,Burdette,IA,Franklin County,,city-us,0,42.572,-93.360,244
+6099,Burdette,WV,Greenbrier County,,city-us,0,38.063,-80.799,163

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43533,Turtle Lake,MN,,city-us,1304,47.619,-94.864,179
-43532,Turtle Lake,WI,,city-us,1042,45.391,-92.150,4629
-43534,Turtle Lake,MN,,city-us,824,47.072,-94.479,179
-43531,Turtle Lake,WI,,city-us,643,45.331,-92.104,2105
-43537,Turtle Lake,WI,,city-us,220,42.732,-88.678,475
-43535,Turtle Lake,MT,,city-us,133,47.669,-114.074,2110
-43536,Turtle Lake,ND,,city-us,57,47.549,-100.986,3023
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43533,Turtle Lake,MN,Beltrami County,,city-us,1304,47.619,-94.864,179
+43532,Turtle Lake,WI,Barron County / Polk County,,city-us,1042,45.391,-92.150,4629
+43534,Turtle Lake,MN,Cass County,,city-us,824,47.072,-94.479,179
+43531,Turtle Lake,WI,Barron County,,city-us,643,45.331,-92.104,2105
+43537,Turtle Lake,WI,Walworth County,,city-us,220,42.732,-88.678,475
+43535,Turtle Lake,MT,Lake County,,city-us,133,47.669,-114.074,2110
+43536,Turtle Lake,ND,McLean County,,city-us,57,47.549,-100.986,3023

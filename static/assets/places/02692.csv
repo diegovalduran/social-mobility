@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13353,Elkins,WV,,city-us,6895,38.926,-79.847,9262
-13354,Elkins,AR,,city-us,3743,36.001,-94.008,3375
-13352,Elkins,NH,,city-us,0,43.421,-71.937,2317
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13353,Elkins,WV,Randolph County,,city-us,6895,38.926,-79.847,9262
+13354,Elkins,AR,Washington County,,city-us,3743,36.001,-94.008,3375
+13352,Elkins,NH,Merrimack County,,city-us,0,43.421,-71.937,2317

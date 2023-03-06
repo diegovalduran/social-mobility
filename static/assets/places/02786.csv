@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13862,Equality,IL,,city-us,782,37.729,-88.308,1056
-13863,Equality,MN,,city-us,143,47.899,-95.763,1691
-13861,Equality,AL,,city-us,67,32.762,-86.102,761
-13864,Equality,ND,,city-us,55,48.333,-103.143,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13862,Equality,IL,Gallatin County,,city-us,782,37.729,-88.308,1056
+13863,Equality,MN,Red Lake County,,city-us,143,47.899,-95.763,1691
+13861,Equality,AL,Coosa County,,city-us,67,32.762,-86.102,761
+13864,Equality,ND,Williams County,,city-us,55,48.333,-103.143,0

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46706,Whitewood,SD,,city-us,898,44.461,-103.639,3074
-46704,Whitewood,VA,,city-us,485,37.236,-81.857,853
-46705,Whitewood,SD,,city-us,92,44.249,-97.386,3074
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46706,Whitewood,SD,Lawrence County,,city-us,898,44.461,-103.639,3074
+46704,Whitewood,VA,Buchanan County,,city-us,485,37.236,-81.857,853
+46705,Whitewood,SD,Kingsbury County,,city-us,92,44.249,-97.386,3074

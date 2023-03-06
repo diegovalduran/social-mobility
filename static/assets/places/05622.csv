@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28924,Missouri City,TX,,city-us,74850,29.563,-95.536,16626
-28923,Missouri City,MO,,city-us,216,39.241,-94.288,4555
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28924,Missouri City,TX,Fort Bend County / Harris County,,city-us,74850,29.563,-95.536,16626
+28923,Missouri City,MO,Clay County,,city-us,216,39.241,-94.288,4555

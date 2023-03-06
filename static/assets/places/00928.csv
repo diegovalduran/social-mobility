@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4674,Bombay,NY,,city-us,1208,44.909,-74.584,4532
-4675,Bombay,MN,,city-us,0,44.284,-92.892,386
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4674,Bombay,NY,Franklin County,,city-us,1208,44.909,-74.584,4532
+4675,Bombay,MN,Goodhue County,,city-us,0,44.284,-92.892,386

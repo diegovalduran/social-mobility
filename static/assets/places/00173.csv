@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-905,Alvarado,TX,,city-us,5111,32.407,-97.212,4712
-906,Alvarado,MN,,city-us,389,48.194,-96.996,3158
-907,Alvarado,IN,,city-us,0,41.573,-84.837,402
-908,Alvarado,VA,,city-us,0,36.650,-81.887,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+905,Alvarado,TX,Johnson County,,city-us,5111,32.407,-97.212,4712
+906,Alvarado,MN,Marshall County,,city-us,389,48.194,-96.996,3158
+907,Alvarado,IN,Steuben County,,city-us,0,41.573,-84.837,402
+908,Alvarado,VA,Washington County,,city-us,0,36.650,-81.887,267

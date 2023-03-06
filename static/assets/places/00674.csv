@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3419,Bena,MN,,city-us,148,47.341,-94.207,3443
-3420,Bena,VA,,city-us,0,37.271,-76.456,225
-3421,Bena,CA,,city-us,0,35.327,-118.740,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3419,Bena,MN,Cass County,,city-us,148,47.341,-94.207,3443
+3420,Bena,VA,Gloucester County,,city-us,0,37.271,-76.456,225
+3421,Bena,CA,Kern County,,city-us,0,35.327,-118.740,262

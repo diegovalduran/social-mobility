@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-801,Alpine,CA,,city-us,15648,32.835,-116.766,7460
-795,Alpine,MI,,city-us,14022,43.079,-85.737,4635
-804,Alpine,UT,,city-us,10359,40.453,-111.778,5247
-790,Alpine,TX,,city-us,5815,30.358,-103.661,19773
-789,Alpine,NJ,,city-us,1754,40.956,-73.931,19503
-796,Alpine,WY,,city-us,1262,43.164,-111.018,4438
-799,Alpine,TN,,city-us,497,36.395,-85.217,2591
-800,Alpine,CO,,city-us,265,37.689,-106.589,690
-787,Alpine,AZ,,city-us,136,33.848,-109.143,3049
-792,Alpine,AR,,city-us,134,34.229,-93.379,658
-788,Alpine,OR,,city-us,0,44.330,-123.359,1586
-791,Alpine,GA,,city-us,0,34.456,-85.492,483
-793,Alpine,AL,,city-us,0,34.505,-85.610,114
-794,Alpine,IN,,city-us,0,39.554,-85.176,474
-797,Alpine,CA,,city-us,0,34.539,-118.106,1965
-798,Alpine,AK,,city-us,0,70.238,-150.994,2667
-802,Alpine,AL,,city-us,0,33.349,-86.239,1025
-803,Alpine,MS,,city-us,0,34.495,-88.798,331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+801,Alpine,CA,San Diego County,,city-us,15648,32.835,-116.766,7460
+795,Alpine,MI,Kent County,,city-us,14022,43.079,-85.737,4635
+804,Alpine,UT,Utah County,,city-us,10359,40.453,-111.778,5247
+790,Alpine,TX,Brewster County,,city-us,5815,30.358,-103.661,19773
+789,Alpine,NJ,Bergen County,,city-us,1754,40.956,-73.931,19503
+796,Alpine,WY,Lincoln County,,city-us,1262,43.164,-111.018,4438
+799,Alpine,TN,Overton County,,city-us,497,36.395,-85.217,2591
+800,Alpine,CO,Rio Grande County,,city-us,265,37.689,-106.589,690
+787,Alpine,AZ,Apache County,,city-us,136,33.848,-109.143,3049
+792,Alpine,AR,Clark County,,city-us,134,34.229,-93.379,658
+788,Alpine,OR,Benton County,,city-us,0,44.330,-123.359,1586
+791,Alpine,GA,Chattooga County,,city-us,0,34.456,-85.492,483
+793,Alpine,AL,DeKalb County,,city-us,0,34.505,-85.610,114
+794,Alpine,IN,Fayette County,,city-us,0,39.554,-85.176,474
+797,Alpine,CA,Los Angeles County,,city-us,0,34.539,-118.106,1965
+798,Alpine,AK,North Slope Borough,,city-us,0,70.238,-150.994,2667
+802,Alpine,AL,Talladega County,,city-us,0,33.349,-86.239,1025
+803,Alpine,MS,Union County,,city-us,0,34.495,-88.798,331

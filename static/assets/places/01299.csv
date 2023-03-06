@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35613,Qom,,Iran,city-international,1201158,34.640,50.876,34767
-6548,Calm,MO,,city-us,0,36.552,-91.162,467
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35613,Qom,,,Iran,city-international,1201158,34.640,50.876,34767
+6548,Calm,MO,Oregon County,,city-us,0,36.552,-91.162,467

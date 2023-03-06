@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34065,Pin Hook,MO,,city-us,0,37.679,-90.736,237
-34066,Pin Hook,AL,,city-us,0,32.358,-87.872,164
-34067,Pin Hook,IN,,city-us,0,39.815,-87.127,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34065,Pin Hook,MO,Iron County,,city-us,0,37.679,-90.736,237
+34066,Pin Hook,AL,Marengo County,,city-us,0,32.358,-87.872,164
+34067,Pin Hook,IN,Parke County,,city-us,0,39.815,-87.127,156

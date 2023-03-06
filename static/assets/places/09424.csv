@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47625,Woodmoor,CO,,city-us,8840,39.101,-104.847,3220
-47626,Woodmore,MD,,city-us,4742,38.921,-76.803,6182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47625,Woodmoor,CO,El Paso County,,city-us,8840,39.101,-104.847,3220
+47626,Woodmore,MD,Prince George's County,,city-us,4742,38.921,-76.803,6182

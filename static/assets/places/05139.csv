@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27322,May,MN,,city-us,2650,45.164,-92.834,197
-27315,May,IL,,city-us,1890,39.564,-89.193,169
-27314,May,MN,,city-us,863,46.384,-94.591,197
-27318,May,IL,,city-us,255,41.621,-89.338,169
-27317,May,NE,,city-us,124,40.481,-98.781,290
-27316,May,OK,,city-us,30,36.617,-99.747,2222
-26387,Mae,MN,,city-us,0,46.832,-93.866,187
-26388,Mae,WA,,city-us,0,47.117,-119.396,240
-27313,May,TX,,city-us,0,31.980,-98.920,2039
-27319,May,ID,,city-us,0,44.604,-113.912,909
-27320,May,MO,,city-us,0,36.751,-94.522,467
-27321,May,WV,,city-us,0,38.653,-79.802,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27322,May,MN,Washington County,,city-us,2650,45.164,-92.834,197
+27315,May,IL,Christian County,,city-us,1890,39.564,-89.193,169
+27314,May,MN,Cass County,,city-us,863,46.384,-94.591,197
+27318,May,IL,Lee County,,city-us,255,41.621,-89.338,169
+27317,May,NE,Kearney County,,city-us,124,40.481,-98.781,290
+27316,May,OK,Harper County,,city-us,30,36.617,-99.747,2222
+26387,Mae,MN,Cass County,,city-us,0,46.832,-93.866,187
+26388,Mae,WA,Grant County,,city-us,0,47.117,-119.396,240
+27313,May,TX,Brown County,,city-us,0,31.980,-98.920,2039
+27319,May,ID,Lemhi County,,city-us,0,44.604,-113.912,909
+27320,May,MO,McDonald County,,city-us,0,36.751,-94.522,467
+27321,May,WV,Pocahontas County,,city-us,0,38.653,-79.802,119

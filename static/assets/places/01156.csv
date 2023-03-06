@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5768,Brutus,NY,,city-us,4290,43.046,-76.546,3069
-5769,Brutus,MI,,city-us,202,45.493,-84.781,1012
-5770,Brutus,VA,,city-us,0,37.011,-79.269,1540
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5768,Brutus,NY,Cayuga County,,city-us,4290,43.046,-76.546,3069
+5769,Brutus,MI,Emmet County,,city-us,202,45.493,-84.781,1012
+5770,Brutus,VA,Pittsylvania County,,city-us,0,37.011,-79.269,1540

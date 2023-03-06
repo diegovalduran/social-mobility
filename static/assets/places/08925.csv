@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44773,Wadesville,VA,,city-us,0,39.242,-78.039,10395
-44774,Wadesville,IN,,city-us,0,38.102,-87.786,1444
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44773,Wadesville,VA,Clarke County,,city-us,0,39.242,-78.039,10395
+44774,Wadesville,IN,Posey County,,city-us,0,38.102,-87.786,1444

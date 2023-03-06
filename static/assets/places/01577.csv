@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7997,Chatham,,Canada,city-international,101647,42.423,-82.132,14747
-7991,Chatham,NJ,,city-us,9253,40.741,-74.384,8075
-7993,Chatham,IL,,city-us,8403,39.661,-89.754,421
-7982,Chatham,MA,,city-us,6703,41.622,-69.982,14339
-7986,Chatham,NY,,city-us,4103,42.426,-73.582,5460
-7996,Chatham,MN,,city-us,1367,45.164,-93.960,1958
-7992,Chatham,VA,,city-us,1191,36.826,-79.398,4352
-7998,Chatom,AL,,city-us,1039,31.465,-88.254,3733
-7994,Chatham,PA,,city-us,604,41.865,-77.428,2285
-7987,Chatham,LA,,city-us,479,32.306,-92.450,2028
-7984,Chatham,NH,,city-us,349,44.127,-71.061,4552
-7981,Chatham,MI,,city-us,204,46.348,-86.929,4034
-7983,Chatham,KY,,city-us,0,38.715,-84.019,246
-7985,Chatham,PA,,city-us,0,39.853,-75.822,207
-7988,Chatham,OH,,city-us,0,40.157,-82.454,280
-7989,Chatham,OH,,city-us,0,41.099,-82.024,495
-7990,Chatham,FL,,city-us,0,25.714,-81.244,242
-7995,Chatham,MS,,city-us,0,33.101,-91.098,303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7997,Chatham,,,Canada,city-international,101647,42.423,-82.132,14747
+7991,Chatham,NJ,Morris County,,city-us,9253,40.741,-74.384,8075
+7993,Chatham,IL,Sangamon County,,city-us,8403,39.661,-89.754,421
+7982,Chatham,MA,Barnstable County,,city-us,6703,41.622,-69.982,14339
+7986,Chatham,NY,Columbia County,,city-us,4103,42.426,-73.582,5460
+7996,Chatham,MN,Wright County,,city-us,1367,45.164,-93.960,1958
+7992,Chatham,VA,Pittsylvania County,,city-us,1191,36.826,-79.398,4352
+7998,Chatom,AL,Washington County,,city-us,1039,31.465,-88.254,3733
+7994,Chatham,PA,Tioga County,,city-us,604,41.865,-77.428,2285
+7987,Chatham,LA,Jackson Parish,,city-us,479,32.306,-92.450,2028
+7984,Chatham,NH,Carroll County,,city-us,349,44.127,-71.061,4552
+7981,Chatham,MI,Alger County,,city-us,204,46.348,-86.929,4034
+7983,Chatham,KY,Bracken County,,city-us,0,38.715,-84.019,246
+7985,Chatham,PA,Chester County,,city-us,0,39.853,-75.822,207
+7988,Chatham,OH,Licking County,,city-us,0,40.157,-82.454,280
+7989,Chatham,OH,Medina County,,city-us,0,41.099,-82.024,495
+7990,Chatham,FL,Monroe County,,city-us,0,25.714,-81.244,242
+7995,Chatham,MS,Washington County,,city-us,0,33.101,-91.098,303

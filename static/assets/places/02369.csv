@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11888,Dodds,IL,,city-us,2693,38.255,-88.880,1701
-11889,Dodds,ND,,city-us,40,47.984,-98.322,0
-11890,Dodds,MO,,city-us,0,36.602,-89.674,483
-11891,Dodds,OH,,city-us,0,39.494,-84.153,324
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11888,Dodds,IL,Jefferson County,,city-us,2693,38.255,-88.880,1701
+11889,Dodds,ND,Nelson County,,city-us,40,47.984,-98.322,0
+11890,Dodds,MO,New Madrid County,,city-us,0,36.602,-89.674,483
+11891,Dodds,OH,Warren County,,city-us,0,39.494,-84.153,324

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13188,Eldon,MO,,city-us,4432,38.348,-92.582,4698
-13189,Eldon,IA,,city-us,785,40.919,-92.223,4556
-13186,Eldon,OK,,city-us,194,35.928,-94.840,2762
-13185,Eldon,ND,,city-us,30,48.072,-99.383,129
-13187,Eldon,WA,,city-us,0,47.546,-123.044,387
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13188,Eldon,MO,Miller County,,city-us,4432,38.348,-92.582,4698
+13189,Eldon,IA,Wapello County,,city-us,785,40.919,-92.223,4556
+13186,Eldon,OK,Cherokee County,,city-us,194,35.928,-94.840,2762
+13185,Eldon,ND,Benson County,,city-us,30,48.072,-99.383,129
+13187,Eldon,WA,Mason County,,city-us,0,47.546,-123.044,387

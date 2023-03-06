@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23139,Kissimmee,FL,,city-us,79436,28.292,-81.408,14760
-23140,Kissimmee,PA,,city-us,0,40.795,-77.085,67
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23139,Kissimmee,FL,Osceola County,,city-us,79436,28.292,-81.408,14760
+23140,Kissimmee,PA,Snyder County,,city-us,0,40.795,-77.085,67

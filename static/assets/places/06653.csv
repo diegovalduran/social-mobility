@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33842,Petty,IL,,city-us,621,38.798,-87.842,336
-33841,Petty,TX,,city-us,0,33.603,-95.810,189
-33843,Petty,GA,,city-us,0,31.260,-84.156,828
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33842,Petty,IL,Lawrence County,,city-us,621,38.798,-87.842,336
+33841,Petty,TX,Lamar County,,city-us,0,33.603,-95.810,189
+33843,Petty,GA,Mitchell County,,city-us,0,31.260,-84.156,828

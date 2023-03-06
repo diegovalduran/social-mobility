@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24825,Licking,OH,,city-us,4928,39.977,-82.418,125
-24827,Licking,MO,,city-us,2718,37.499,-91.857,3831
-24826,Licking,OH,,city-us,2352,40.052,-82.144,125
-24823,Licking,PA,,city-us,574,41.151,-79.554,2278
-24824,Licking,IL,,city-us,430,39.124,-87.894,916
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24825,Licking,OH,Licking County,,city-us,4928,39.977,-82.418,125
+24827,Licking,MO,Texas County,,city-us,2718,37.499,-91.857,3831
+24826,Licking,OH,Muskingum County,,city-us,2352,40.052,-82.144,125
+24823,Licking,PA,Clarion County,,city-us,574,41.151,-79.554,2278
+24824,Licking,IL,Crawford County,,city-us,430,39.124,-87.894,916

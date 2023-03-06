@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20768,Hortonia,WI,,city-us,1053,44.338,-88.686,1903
-20769,Hortonia,VT,,city-us,0,43.745,-73.223,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20768,Hortonia,WI,Outagamie County,,city-us,1053,44.338,-88.686,1903
+20769,Hortonia,VT,Rutland County,,city-us,0,43.745,-73.223,84

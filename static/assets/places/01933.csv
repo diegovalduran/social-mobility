@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9837,Corbin,KY,,city-us,7768,36.932,-84.101,14577
-9834,Corbin,GA,,city-us,0,34.220,-84.696,220
-9835,Corbin,VA,,city-us,0,38.199,-77.389,408
-9836,Corbin,MT,,city-us,0,46.381,-112.062,898
-9838,Corbin,LA,,city-us,0,30.496,-90.849,656
-9839,Corbin,KS,,city-us,0,37.126,-97.544,941
-9840,Corbin,WV,,city-us,0,39.309,-81.347,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9837,Corbin,KY,Knox County / Laurel County / Whitley County,,city-us,7768,36.932,-84.101,14577
+9834,Corbin,GA,Bartow County,,city-us,0,34.220,-84.696,220
+9835,Corbin,VA,Caroline County,,city-us,0,38.199,-77.389,408
+9836,Corbin,MT,Jefferson County,,city-us,0,46.381,-112.062,898
+9838,Corbin,LA,Livingston Parish,,city-us,0,30.496,-90.849,656
+9839,Corbin,KS,Sumner County,,city-us,0,37.126,-97.544,941
+9840,Corbin,WV,Wood County,,city-us,0,39.309,-81.347,86

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4204,Blackstone,MA,,city-us,9177,42.040,-71.532,3769
-4202,Blackstone,VA,,city-us,3354,37.080,-77.997,5369
-4201,Blackstone,IL,,city-us,0,41.084,-88.691,2659
-4203,Blackstone,PA,,city-us,0,40.662,-79.652,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4204,Blackstone,MA,Worcester County,,city-us,9177,42.040,-71.532,3769
+4202,Blackstone,VA,Nottoway County,,city-us,3354,37.080,-77.997,5369
+4201,Blackstone,IL,Livingston County,,city-us,0,41.084,-88.691,2659
+4203,Blackstone,PA,Westmoreland County,,city-us,0,40.662,-79.652,96

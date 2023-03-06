@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13715,Empire City,OK,,city-us,722,34.420,-98.027,2432
-13714,Empire City,KS,,city-us,0,37.089,-94.642,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13715,Empire City,OK,Stephens County,,city-us,722,34.420,-98.027,2432
+13714,Empire City,KS,Cherokee County,,city-us,0,37.089,-94.642,246

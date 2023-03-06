@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33366,Paxton,MA,,city-us,5028,42.312,-71.940,5153
-33358,Paxton,IL,,city-us,4459,40.460,-88.095,7273
-33363,Paxton,OH,,city-us,1894,39.212,-83.259,1305
-33362,Paxton,MN,,city-us,655,44.508,-95.037,2207
-33365,Paxton,FL,,city-us,594,30.982,-86.307,1953
-33359,Paxton,NE,,city-us,507,41.124,-101.356,3072
-33360,Paxton,KS,,city-us,28,38.744,-101.151,0
-33357,Paxton,WV,,city-us,0,38.498,-81.168,112
-33361,Paxton,CA,,city-us,0,40.038,-120.995,3470
-33364,Paxton,IN,,city-us,0,39.021,-87.389,933
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33366,Paxton,MA,Worcester County,,city-us,5028,42.312,-71.940,5153
+33358,Paxton,IL,Ford County,,city-us,4459,40.460,-88.095,7273
+33363,Paxton,OH,Ross County,,city-us,1894,39.212,-83.259,1305
+33362,Paxton,MN,Redwood County,,city-us,655,44.508,-95.037,2207
+33365,Paxton,FL,Walton County,,city-us,594,30.982,-86.307,1953
+33359,Paxton,NE,Keith County,,city-us,507,41.124,-101.356,3072
+33360,Paxton,KS,Logan County,,city-us,28,38.744,-101.151,0
+33357,Paxton,WV,Clay County,,city-us,0,38.498,-81.168,112
+33361,Paxton,CA,Plumas County,,city-us,0,40.038,-120.995,3470
+33364,Paxton,IN,Sullivan County,,city-us,0,39.021,-87.389,933

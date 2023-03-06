@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30301,Natchez,MS,,city-us,13824,31.560,-91.403,22819
-30304,Natchez,LA,,city-us,488,31.675,-93.045,3421
-30302,Natchez,IN,,city-us,0,38.617,-86.711,377
-30303,Natchez,AL,,city-us,0,31.728,-87.261,397
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30301,Natchez,MS,Adams County,,city-us,13824,31.560,-91.403,22819
+30304,Natchez,LA,Natchitoches Parish,,city-us,488,31.675,-93.045,3421
+30302,Natchez,IN,Martin County,,city-us,0,38.617,-86.711,377
+30303,Natchez,AL,Monroe County,,city-us,0,31.728,-87.261,397

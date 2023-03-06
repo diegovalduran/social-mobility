@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35273,Prairieton,IL,,city-us,423,39.611,-89.080,918
-35274,Prairieton,IN,,city-us,0,39.370,-87.474,1193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35273,Prairieton,IL,Christian County,,city-us,423,39.611,-89.080,918
+35274,Prairieton,IN,Vigo County,,city-us,0,39.370,-87.474,1193

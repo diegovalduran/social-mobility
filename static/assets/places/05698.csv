@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29362,Moonshine,LA,,city-us,168,29.970,-90.813,366
-29360,Moonshine,MN,,city-us,85,45.535,-96.313,2376
-29361,Moonshine,IL,,city-us,2,39.197,-87.901,2362
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29362,Moonshine,LA,St. James Parish,,city-us,168,29.970,-90.813,366
+29360,Moonshine,MN,Big Stone County,,city-us,85,45.535,-96.313,2376
+29361,Moonshine,IL,Clark County,,city-us,2,39.197,-87.901,2362

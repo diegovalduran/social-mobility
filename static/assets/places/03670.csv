@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18729,Hanna,IL,,city-us,2387,41.507,-90.266,1290
-18738,Hannah,MI,,city-us,1786,44.544,-85.651,3634
-18727,Hanna,WY,,city-us,683,41.870,-106.562,4998
-18694,Hana,HI,,city-us,657,20.774,-156.014,5072
-18730,Hanna,IN,,city-us,429,41.412,-86.780,691
-18732,Hanna,OK,,city-us,101,35.205,-95.890,2007
-18735,Hannah,ND,,city-us,8,48.972,-98.692,2852
-18728,Hanna,UT,,city-us,0,40.404,-110.765,1156
-18731,Hanna,SD,,city-us,0,44.262,-103.845,757
-18733,Hanna,LA,,city-us,0,31.961,-93.348,104
-18734,Hanna,WV,,city-us,0,39.168,-81.395,84
-18736,Hannah,GA,,city-us,0,33.587,-84.864,126
-18737,Hannah,SC,,city-us,0,33.883,-79.580,205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18729,Hanna,IL,Henry County,,city-us,2387,41.507,-90.266,1290
+18738,Hannah,MI,Grand Traverse County,,city-us,1786,44.544,-85.651,3634
+18727,Hanna,WY,Carbon County,,city-us,683,41.870,-106.562,4998
+18694,Hana,HI,Maui County,,city-us,657,20.774,-156.014,5072
+18730,Hanna,IN,LaPorte County,,city-us,429,41.412,-86.780,691
+18732,Hanna,OK,McIntosh County,,city-us,101,35.205,-95.890,2007
+18735,Hannah,ND,Cavalier County,,city-us,8,48.972,-98.692,2852
+18728,Hanna,UT,Duchesne County,,city-us,0,40.404,-110.765,1156
+18731,Hanna,SD,Lawrence County,,city-us,0,44.262,-103.845,757
+18733,Hanna,LA,Red River Parish,,city-us,0,31.961,-93.348,104
+18734,Hanna,WV,Wood County,,city-us,0,39.168,-81.395,84
+18736,Hannah,GA,Douglas County,,city-us,0,33.587,-84.864,126
+18737,Hannah,SC,Florence County,,city-us,0,33.883,-79.580,205

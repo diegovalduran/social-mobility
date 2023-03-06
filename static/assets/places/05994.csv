@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30663,New Hebron,MS,,city-us,380,31.731,-89.979,2273
-30662,New Hebron,IL,,city-us,0,38.950,-87.744,128
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30663,New Hebron,MS,Lawrence County,,city-us,380,31.731,-89.979,2273
+30662,New Hebron,IL,Crawford County,,city-us,0,38.950,-87.744,128

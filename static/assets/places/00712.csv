@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3673,Bernice,LA,,city-us,1337,32.822,-92.658,6456
-3670,Bernice,OK,,city-us,429,36.616,-94.918,3375
-3671,Bernice,AR,,city-us,0,35.250,-93.130,176
-3672,Bernice,OH,,city-us,0,40.264,-81.519,309
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3673,Bernice,LA,Union Parish,,city-us,1337,32.822,-92.658,6456
+3670,Bernice,OK,Delaware County,,city-us,429,36.616,-94.918,3375
+3671,Bernice,AR,Pope County,,city-us,0,35.250,-93.130,176
+3672,Bernice,OH,Tuscarawas County,,city-us,0,40.264,-81.519,309

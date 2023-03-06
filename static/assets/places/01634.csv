@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8293,China,,,country,1413142846,35.862,104.195,100593
-8291,China,ME,,city-us,4458,44.414,-69.535,6573
-8292,China,MI,,city-us,3491,42.772,-82.562,2262
-8290,China,TX,,city-us,1240,30.048,-94.336,5879
-8288,China,MO,,city-us,0,36.612,-91.900,493
-8289,China,IN,,city-us,0,38.826,-85.338,854
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8293,China,,,,country,1413142846,35.862,104.195,100593
+8291,China,ME,Kennebec County,,city-us,4458,44.414,-69.535,6573
+8292,China,MI,St. Clair County,,city-us,3491,42.772,-82.562,2262
+8290,China,TX,Jefferson County,,city-us,1240,30.048,-94.336,5879
+8288,China,MO,Howell County,,city-us,0,36.612,-91.900,493
+8289,China,IN,Jefferson County,,city-us,0,38.826,-85.338,854

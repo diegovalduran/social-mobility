@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3060,Beebe,AR,,city-us,8561,35.071,-91.880,7951
-3058,Beebe,MI,,city-us,966,43.344,-84.558,2175
-3055,Beebe,OH,,city-us,0,39.313,-81.858,229
-3056,Beebe,WI,,city-us,0,46.407,-91.839,256
-3057,Beebe,SD,,city-us,0,45.448,-99.195,345
-3059,Beebe,WV,,city-us,0,37.826,-82.062,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3060,Beebe,AR,White County,,city-us,8561,35.071,-91.880,7951
+3058,Beebe,MI,Gratiot County,,city-us,966,43.344,-84.558,2175
+3055,Beebe,OH,Athens County,,city-us,0,39.313,-81.858,229
+3056,Beebe,WI,Douglas County,,city-us,0,46.407,-91.839,256
+3057,Beebe,SD,Edmunds County,,city-us,0,45.448,-99.195,345
+3059,Beebe,WV,Logan County,,city-us,0,37.826,-82.062,231

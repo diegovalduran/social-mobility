@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11772,Dike,IA,,city-us,1302,42.464,-92.628,3493
-11773,Dike,TX,,city-us,0,33.239,-95.482,128
-12554,Dyke,VA,,city-us,0,38.254,-78.540,384
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11772,Dike,IA,Grundy County,,city-us,1302,42.464,-92.628,3493
+11773,Dike,TX,Hopkins County,,city-us,0,33.239,-95.482,128
+12554,Dyke,VA,Greene County,,city-us,0,38.254,-78.540,384

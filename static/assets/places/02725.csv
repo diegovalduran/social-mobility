@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13564,Elmwood Park,IL,,city-us,23945,41.921,-87.809,5571
-13563,Elmwood Park,NJ,,city-us,21267,40.904,-74.118,16337
-13565,Elmwood Park,WI,,city-us,506,42.692,-87.822,3717
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13564,Elmwood Park,IL,Cook County,,city-us,23945,41.921,-87.809,5571
+13563,Elmwood Park,NJ,Bergen County,,city-us,21267,40.904,-74.118,16337
+13565,Elmwood Park,WI,Racine County,,city-us,506,42.692,-87.822,3717

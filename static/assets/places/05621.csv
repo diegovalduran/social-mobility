@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28922,Missouri,,United States,state,6177957,38.305,-92.437,65892
-28921,Missouri,ND,,city-us,161,46.688,-100.640,0
-28920,Missouri,IL,,city-us,137,40.059,-90.742,2131
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28922,Missouri,,,United States,state,6177957,38.305,-92.437,65892
+28921,Missouri,ND,Burleigh County,,city-us,161,46.688,-100.640,0
+28920,Missouri,IL,Brown County,,city-us,137,40.059,-90.742,2131

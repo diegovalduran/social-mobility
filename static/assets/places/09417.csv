@@ -1,20 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47590,Woodlawn,MD,,city-us,42053,39.323,-76.728,4445
-47594,Woodlawn,VA,,city-us,22590,38.717,-77.133,591
-47606,Woodlawn,MD,,city-us,7819,38.950,-76.891,2606
-47596,Woodlawn,OH,,city-us,3888,39.252,-84.470,3197
-47592,Woodlawn,VA,,city-us,2260,36.722,-80.823,4652
-47589,Woodlawn,NC,,city-us,955,36.110,-79.295,1882
-47598,Woodlawn,IL,,city-us,607,38.330,-89.033,3014
-47591,Woodlawn,KY,,city-us,214,39.093,-84.475,2151
-47599,Woodlawn,ND,,city-us,118,46.843,-99.880,0
-47593,Woodlawn,AR,,city-us,69,33.967,-92.045,494
-47595,Woodlawn,WI,,city-us,0,45.432,-88.821,156
-47597,Woodlawn,TX,,city-us,0,32.668,-94.346,272
-47600,Woodlawn,AR,,city-us,0,34.922,-91.874,152
-47601,Woodlawn,MS,,city-us,0,33.623,-88.313,250
-47602,Woodlawn,MO,,city-us,0,39.578,-92.213,247
-47603,Woodlawn,TN,,city-us,0,36.542,-87.515,380
-47604,Woodlawn,KS,,city-us,0,39.783,-95.865,272
-47605,Woodlawn,VA,,city-us,0,36.810,-79.393,117
-47607,Woodlawn,LA,,city-us,0,30.062,-92.077,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47590,Woodlawn,MD,Baltimore County,,city-us,42053,39.323,-76.728,4445
+47594,Woodlawn,VA,Fairfax County,,city-us,22590,38.717,-77.133,591
+47606,Woodlawn,MD,Prince George's County,,city-us,7819,38.950,-76.891,2606
+47596,Woodlawn,OH,Hamilton County,,city-us,3888,39.252,-84.470,3197
+47592,Woodlawn,VA,Carroll County,,city-us,2260,36.722,-80.823,4652
+47589,Woodlawn,NC,Alamance County,,city-us,955,36.110,-79.295,1882
+47598,Woodlawn,IL,Jefferson County,,city-us,607,38.330,-89.033,3014
+47591,Woodlawn,KY,Campbell County,,city-us,214,39.093,-84.475,2151
+47599,Woodlawn,ND,Kidder County,,city-us,118,46.843,-99.880,0
+47593,Woodlawn,AR,Cleveland County,,city-us,69,33.967,-92.045,494
+47595,Woodlawn,WI,Forest County,,city-us,0,45.432,-88.821,156
+47597,Woodlawn,TX,Harrison County,,city-us,0,32.668,-94.346,272
+47600,Woodlawn,AR,Lonoke County,,city-us,0,34.922,-91.874,152
+47601,Woodlawn,MS,Lowndes County,,city-us,0,33.623,-88.313,250
+47602,Woodlawn,MO,Monroe County,,city-us,0,39.578,-92.213,247
+47603,Woodlawn,TN,Montgomery County,,city-us,0,36.542,-87.515,380
+47604,Woodlawn,KS,Nemaha County,,city-us,0,39.783,-95.865,272
+47605,Woodlawn,VA,Pittsylvania County,,city-us,0,36.810,-79.393,117
+47607,Woodlawn,LA,Vermilion Parish,,city-us,0,30.062,-92.077,86

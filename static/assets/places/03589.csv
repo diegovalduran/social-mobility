@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18286,Guelph,,Canada,city-international,131794,43.550,-80.250,48173
-18285,Guelph,KS,,city-us,142,37.065,-97.311,0
-18284,Guelph,ND,,city-us,0,46.023,-98.236,400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18286,Guelph,,,Canada,city-international,131794,43.550,-80.250,48173
+18285,Guelph,KS,Sumner County,,city-us,142,37.065,-97.311,0
+18284,Guelph,ND,Dickey County,,city-us,0,46.023,-98.236,400

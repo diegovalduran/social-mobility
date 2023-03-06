@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35563,Pumpkintown,SC,,city-us,0,35.003,-82.653,338
-35564,Pumpkintown,WV,,city-us,0,38.893,-80.024,94
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35563,Pumpkintown,SC,Pickens County,,city-us,0,35.003,-82.653,338
+35564,Pumpkintown,WV,Randolph County,,city-us,0,38.893,-80.024,94

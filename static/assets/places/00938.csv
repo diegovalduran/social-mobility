@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4715,Bono,AR,,city-us,2582,35.909,-90.803,2959
-4716,Bono,TX,,city-us,0,32.324,-97.504,1267
-4717,Bono,IN,,city-us,0,38.731,-86.321,265
-4718,Bono,OH,,city-us,0,41.636,-83.269,258
-4719,Bono,IN,,city-us,0,39.760,-87.494,517
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4715,Bono,AR,Craighead County,,city-us,2582,35.909,-90.803,2959
+4716,Bono,TX,Johnson County,,city-us,0,32.324,-97.504,1267
+4717,Bono,IN,Lawrence County,,city-us,0,38.731,-86.321,265
+4718,Bono,OH,Lucas County,,city-us,0,41.636,-83.269,258
+4719,Bono,IN,Vermillion County,,city-us,0,39.760,-87.494,517

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28901,Miranda,CA,,city-us,412,40.235,-123.824,4757
-28900,Miranda,SD,,city-us,0,44.972,-98.964,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28901,Miranda,CA,Humboldt County,,city-us,412,40.235,-123.824,4757
+28900,Miranda,SD,Faulk County,,city-us,0,44.972,-98.964,239

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22136,Jersey,,,country,102785,49.214,-2.131,47901
-22132,Jersey,IL,,city-us,9923,39.148,-90.305,1330
-22134,Jersey,OH,,city-us,355,40.054,-82.723,246
-22135,Jersey,GA,,city-us,149,33.716,-83.799,1940
-22131,Jersey,AR,,city-us,0,33.428,-92.314,217
-22133,Jersey,VA,,city-us,0,38.211,-77.139,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22136,Jersey,,,,country,102785,49.214,-2.131,47901
+22132,Jersey,IL,Jersey County,,city-us,9923,39.148,-90.305,1330
+22134,Jersey,OH,Licking County,,city-us,355,40.054,-82.723,246
+22135,Jersey,GA,Walton County,,city-us,149,33.716,-83.799,1940
+22131,Jersey,AR,Bradley County,,city-us,0,33.428,-92.314,217
+22133,Jersey,VA,King George County,,city-us,0,38.211,-77.139,87

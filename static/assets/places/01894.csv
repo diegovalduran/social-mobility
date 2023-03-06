@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9680,Connersville,IN,,city-us,13310,39.641,-85.141,28529
-9681,Connersville,KY,,city-us,0,38.380,-84.413,256
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9680,Connersville,IN,Fayette County,,city-us,13310,39.641,-85.141,28529
+9681,Connersville,KY,Harrison County,,city-us,0,38.380,-84.413,256

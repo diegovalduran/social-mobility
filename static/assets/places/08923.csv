@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44767,Wadena,MN,,city-us,4335,46.447,-95.127,8402
-44768,Wadena,MN,,city-us,916,46.406,-95.092,1878
-44766,Wadena,IA,,city-us,206,42.843,-91.657,4958
-44765,Wadena,IN,,city-us,0,40.693,-87.277,2242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44767,Wadena,MN,Otter Tail County / Wadena County,,city-us,4335,46.447,-95.127,8402
+44768,Wadena,MN,Wadena County,,city-us,916,46.406,-95.092,1878
+44766,Wadena,IA,Fayette County,,city-us,206,42.843,-91.657,4958
+44765,Wadena,IN,Benton County,,city-us,0,40.693,-87.277,2242

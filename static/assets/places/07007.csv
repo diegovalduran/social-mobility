@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35639,Queen,MN,,city-us,219,47.635,-95.626,1923
-35637,Queen,PA,,city-us,0,40.259,-78.507,211
-35638,Queen,NM,,city-us,0,32.191,-104.746,1795
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35639,Queen,MN,Polk County,,city-us,219,47.635,-95.626,1923
+35637,Queen,PA,Bedford County,,city-us,0,40.259,-78.507,211
+35638,Queen,NM,Eddy County,,city-us,0,32.191,-104.746,1795

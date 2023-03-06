@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7938,Charlesville,PA,,city-us,0,39.949,-78.504,93
-7939,Charlesville,MD,,city-us,0,39.488,-77.429,91
-7940,Charlesville,MN,,city-us,0,45.949,-96.269,154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7938,Charlesville,PA,Bedford County,,city-us,0,39.949,-78.504,93
+7939,Charlesville,MD,Frederick County,,city-us,0,39.488,-77.429,91
+7940,Charlesville,MN,Grant County,,city-us,0,45.949,-96.269,154

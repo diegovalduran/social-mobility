@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33540,Pendleton,OR,,city-us,16841,45.672,-118.789,11702
-33538,Pendleton,NY,,city-us,7013,43.104,-78.765,5627
-33537,Pendleton,IN,,city-us,4840,39.998,-85.747,11799
-33533,Pendleton,SC,,city-us,3553,34.642,-82.779,6233
-33536,Pendleton,IL,,city-us,1141,38.253,-88.754,1544
-33541,Pendleton,MO,,city-us,35,38.827,-91.235,1430
-33534,Pendleton,TX,,city-us,0,31.195,-97.349,362
-33535,Pendleton,KY,,city-us,0,38.462,-85.304,220
-33539,Pendleton,NC,,city-us,0,36.472,-77.199,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33540,Pendleton,OR,Umatilla County,,city-us,16841,45.672,-118.789,11702
+33538,Pendleton,NY,Niagara County,,city-us,7013,43.104,-78.765,5627
+33537,Pendleton,IN,Madison County,,city-us,4840,39.998,-85.747,11799
+33533,Pendleton,SC,Anderson County / Pickens County,,city-us,3553,34.642,-82.779,6233
+33536,Pendleton,IL,Jefferson County,,city-us,1141,38.253,-88.754,1544
+33541,Pendleton,MO,Warren County,,city-us,35,38.827,-91.235,1430
+33534,Pendleton,TX,Bell County,,city-us,0,31.195,-97.349,362
+33535,Pendleton,KY,Henry County,,city-us,0,38.462,-85.304,220
+33539,Pendleton,NC,Northampton County,,city-us,0,36.472,-77.199,252

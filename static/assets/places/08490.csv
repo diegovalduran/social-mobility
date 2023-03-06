@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42769,Theresa,WI,,city-us,1250,43.517,-88.451,3875
-42770,Theresa,NY,,city-us,764,44.215,-75.797,13490
-42768,Theresa,SD,,city-us,305,44.416,-98.278,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42769,Theresa,WI,Dodge County,,city-us,1250,43.517,-88.451,3875
+42770,Theresa,NY,Jefferson County,,city-us,764,44.215,-75.797,13490
+42768,Theresa,SD,Beadle County,,city-us,305,44.416,-98.278,0

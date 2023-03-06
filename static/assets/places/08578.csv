@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43100,Toney,WV,,city-us,299,38.011,-82.073,4705
-43105,Tony,WI,,city-us,101,45.483,-90.993,3289
-43101,Toney,AL,,city-us,0,34.898,-86.734,833
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43100,Toney,WV,Lincoln County,,city-us,299,38.011,-82.073,4705
+43105,Tony,WI,Rusk County,,city-us,101,45.483,-90.993,3289
+43101,Toney,AL,Madison County,,city-us,0,34.898,-86.734,833

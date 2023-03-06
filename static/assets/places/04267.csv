@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22066,Jena,,Germany,city-international,111407,50.927,11.586,39032
-22065,Jena,LA,,city-us,3757,31.683,-92.134,4956
-22063,Jena,FL,,city-us,0,29.664,-83.370,743
-22064,Jena,AL,,city-us,0,33.131,-87.847,309
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22066,Jena,,,Germany,city-international,111407,50.927,11.586,39032
+22065,Jena,LA,LaSalle Parish,,city-us,3757,31.683,-92.134,4956
+22063,Jena,FL,Dixie County,,city-us,0,29.664,-83.370,743
+22064,Jena,AL,Greene County,,city-us,0,33.131,-87.847,309

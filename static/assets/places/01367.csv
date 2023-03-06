@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6868,Capron,IL,,city-us,1393,42.400,-88.740,2219
-6869,Capron,VA,,city-us,138,36.711,-77.200,1774
-6870,Capron,OK,,city-us,0,36.897,-98.578,5858
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6868,Capron,IL,Boone County,,city-us,1393,42.400,-88.740,2219
+6869,Capron,VA,Southampton County,,city-us,138,36.711,-77.200,1774
+6870,Capron,OK,Woods County,,city-us,0,36.897,-98.578,5858

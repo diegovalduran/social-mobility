@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-264,Africa,OH,,city-us,0,40.182,-82.957,5722
-265,Africa,IN,,city-us,0,37.840,-87.073,196
+id,name,state,county,country,level,population,latitude,longitude,wiki
+264,Africa,OH,Delaware County,,city-us,0,40.182,-82.957,5722
+265,Africa,IN,Spencer County,,city-us,0,37.840,-87.073,196

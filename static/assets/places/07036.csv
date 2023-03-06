@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35741,Radium,KS,,city-us,24,38.174,-98.893,2755
-35740,Radium,MN,,city-us,20,48.229,-96.614,923
-35737,Radium,CO,,city-us,0,39.960,-106.541,1081
-35738,Radium,VA,,city-us,0,36.732,-77.628,218
-35739,Radium,TX,,city-us,0,32.829,-99.995,78
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35741,Radium,KS,Stafford County,,city-us,24,38.174,-98.893,2755
+35740,Radium,MN,Marshall County,,city-us,20,48.229,-96.614,923
+35737,Radium,CO,Grand County,,city-us,0,39.960,-106.541,1081
+35738,Radium,VA,Greensville County,,city-us,0,36.732,-77.628,218
+35739,Radium,TX,Jones County,,city-us,0,32.829,-99.995,78

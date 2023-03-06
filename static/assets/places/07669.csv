@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38855,Schofield,WI,,city-us,2143,44.910,-89.605,4087
-38856,Schofield,MO,,city-us,0,37.552,-93.207,232
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38855,Schofield,WI,Marathon County,,city-us,2143,44.910,-89.605,4087
+38856,Schofield,MO,Polk County,,city-us,0,37.552,-93.207,232

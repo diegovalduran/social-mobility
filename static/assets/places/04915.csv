@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26206,Lytton,IA,,city-us,280,42.423,-94.861,1938
-25262,Litton,MS,,city-us,0,33.646,-90.837,259
-26207,Lytton,OH,,city-us,0,41.656,-83.955,208
-26208,Lytton,WV,,city-us,0,39.460,-81.078,91
-26209,Lytton,CA,,city-us,0,38.659,-122.872,148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26206,Lytton,IA,Calhoun County / Sac County,,city-us,280,42.423,-94.861,1938
+25262,Litton,MS,Bolivar County,,city-us,0,33.646,-90.837,259
+26207,Lytton,OH,Fulton County,,city-us,0,41.656,-83.955,208
+26208,Lytton,WV,Pleasants County,,city-us,0,39.460,-81.078,91
+26209,Lytton,CA,Sonoma County,,city-us,0,38.659,-122.872,148

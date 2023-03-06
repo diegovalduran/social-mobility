@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20741,Horse Creek,WI,,city-us,1625,45.258,-92.583,2173
-20739,Horse Creek,SD,,city-us,153,43.533,-100.742,817
-20740,Horse Creek,SD,,city-us,38,45.904,-102.867,817
-20737,Horse Creek,TN,,city-us,0,36.163,-82.663,713
-20738,Horse Creek,WY,,city-us,0,41.415,-105.182,837
-20742,Horse Creek,CA,,city-us,0,41.824,-122.997,1628
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20741,Horse Creek,WI,Polk County,,city-us,1625,45.258,-92.583,2173
+20739,Horse Creek,SD,Mellette County,,city-us,153,43.533,-100.742,817
+20740,Horse Creek,SD,Perkins County,,city-us,38,45.904,-102.867,817
+20737,Horse Creek,TN,Greene County,,city-us,0,36.163,-82.663,713
+20738,Horse Creek,WY,Laramie County,,city-us,0,41.415,-105.182,837
+20742,Horse Creek,CA,Siskiyou County,,city-us,0,41.824,-122.997,1628

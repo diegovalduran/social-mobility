@@ -1,30 +1,30 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20345,Holland,NJ,,city-us,67106,40.405,-74.071,32958
-20347,Holland,MI,,city-us,39450,42.821,-86.076,2498
-20325,Holland,MI,,city-us,34024,42.768,-86.099,17407
-20338,Holland,NJ,,city-us,5193,40.598,-75.124,10798
-20341,Holland,WI,,city-us,4520,44.016,-91.315,2367
-20334,Holland,NY,,city-us,3271,42.670,-78.524,5118
-20337,Holland,MA,,city-us,2583,42.047,-72.180,4589
-20350,Holland,WI,,city-us,2271,43.591,-87.854,2267
-20343,Holland,OH,,city-us,1806,41.622,-83.712,5753
-20328,Holland,WI,,city-us,1558,44.274,-88.099,2036
-20327,Holland,TX,,city-us,1086,30.878,-97.402,4330
-20346,Holland,VT,,city-us,633,44.972,-71.987,3801
-20333,Holland,IN,,city-us,615,38.246,-87.036,3148
-20335,Holland,AR,,city-us,596,35.171,-92.274,2777
-20351,Holland,IL,,city-us,387,39.249,-88.750,970
-20340,Holland,MN,,city-us,363,44.958,-95.151,1909
-20336,Holland,IA,,city-us,269,42.399,-92.800,2916
-20344,Holland,MI,,city-us,218,44.211,-84.916,228
-20348,Holland,MO,,city-us,191,36.056,-89.871,3773
-20349,Holland,MN,,city-us,177,44.092,-96.189,3711
-20332,Holland,SD,,city-us,165,43.465,-98.541,0
-18371,Haaland,ND,,city-us,50,47.443,-99.703,0
-20326,Holland,KY,,city-us,0,36.699,-86.068,744
-20329,Holland,PA,,city-us,0,40.201,-74.972,4803
-20330,Holland,GA,,city-us,0,34.352,-85.373,373
-20331,Holland,KS,,city-us,0,38.762,-97.279,1233
-20339,Holland,OR,,city-us,0,42.128,-123.539,547
-20342,Holland,NE,,city-us,0,40.596,-96.592,410
-20352,Holland,NC,,city-us,0,35.573,-78.770,222
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20345,Holland,NJ,Monmouth County,,city-us,67106,40.405,-74.071,32958
+20347,Holland,MI,Ottawa County,,city-us,39450,42.821,-86.076,2498
+20325,Holland,MI,Allegan County / Ottawa County,,city-us,34024,42.768,-86.099,17407
+20338,Holland,NJ,Hunterdon County,,city-us,5193,40.598,-75.124,10798
+20341,Holland,WI,La Crosse County,,city-us,4520,44.016,-91.315,2367
+20334,Holland,NY,Erie County,,city-us,3271,42.670,-78.524,5118
+20337,Holland,MA,Hampden County,,city-us,2583,42.047,-72.180,4589
+20350,Holland,WI,Sheboygan County,,city-us,2271,43.591,-87.854,2267
+20343,Holland,OH,Lucas County,,city-us,1806,41.622,-83.712,5753
+20328,Holland,WI,Brown County,,city-us,1558,44.274,-88.099,2036
+20327,Holland,TX,Bell County,,city-us,1086,30.878,-97.402,4330
+20346,Holland,VT,Orleans County,,city-us,633,44.972,-71.987,3801
+20333,Holland,IN,Dubois County,,city-us,615,38.246,-87.036,3148
+20335,Holland,AR,Faulkner County,,city-us,596,35.171,-92.274,2777
+20351,Holland,IL,Shelby County,,city-us,387,39.249,-88.750,970
+20340,Holland,MN,Kandiyohi County,,city-us,363,44.958,-95.151,1909
+20336,Holland,IA,Grundy County,,city-us,269,42.399,-92.800,2916
+20344,Holland,MI,Missaukee County,,city-us,218,44.211,-84.916,228
+20348,Holland,MO,Pemiscot County,,city-us,191,36.056,-89.871,3773
+20349,Holland,MN,Pipestone County,,city-us,177,44.092,-96.189,3711
+20332,Holland,SD,Douglas County,,city-us,165,43.465,-98.541,0
+18371,Haaland,ND,Wells County,,city-us,50,47.443,-99.703,0
+20326,Holland,KY,Allen County,,city-us,0,36.699,-86.068,744
+20329,Holland,PA,Bucks County,,city-us,0,40.201,-74.972,4803
+20330,Holland,GA,Chattooga County,,city-us,0,34.352,-85.373,373
+20331,Holland,KS,Dickinson County,,city-us,0,38.762,-97.279,1233
+20339,Holland,OR,Josephine County,,city-us,0,42.128,-123.539,547
+20342,Holland,NE,Lancaster County,,city-us,0,40.596,-96.592,410
+20352,Holland,NC,Wake County,,city-us,0,35.573,-78.770,222

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4465,Blountsville,AL,,city-us,1827,34.081,-86.591,5910
-4466,Blountsville,IN,,city-us,98,40.060,-85.240,6159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4465,Blountsville,AL,Blount County,,city-us,1827,34.081,-86.591,5910
+4466,Blountsville,IN,Henry County,,city-us,98,40.060,-85.240,6159

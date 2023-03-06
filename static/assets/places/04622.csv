@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23643,Lake Shore,MD,,city-us,19388,39.107,-76.485,2818
-23645,Lake Shore,WA,,city-us,7169,45.691,-122.691,2452
-23647,Lake Shore,UT,,city-us,1128,40.122,-111.730,1930
-23644,Lake Shore,MN,,city-us,1090,46.486,-94.361,3166
-23646,Lake Shore,MN,,city-us,167,45.133,-96.165,1874
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23643,Lake Shore,MD,Anne Arundel County,,city-us,19388,39.107,-76.485,2818
+23645,Lake Shore,WA,Clark County,,city-us,7169,45.691,-122.691,2452
+23647,Lake Shore,UT,Utah County,,city-us,1128,40.122,-111.730,1930
+23644,Lake Shore,MN,Cass County,,city-us,1090,46.486,-94.361,3166
+23646,Lake Shore,MN,Lac qui Parle County,,city-us,167,45.133,-96.165,1874

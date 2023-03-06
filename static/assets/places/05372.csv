@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27496,McDaniels,KY,,city-us,0,37.607,-86.425,1949
-27497,McDaniels,GA,,city-us,0,34.455,-84.947,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27496,McDaniels,KY,Breckinridge County,,city-us,0,37.607,-86.425,1949
+27497,McDaniels,GA,Gordon County,,city-us,0,34.455,-84.947,289

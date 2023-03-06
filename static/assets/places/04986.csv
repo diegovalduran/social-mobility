@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25658,Longville,LA,,city-us,312,30.605,-93.232,325
-25659,Longville,MN,,city-us,160,46.986,-94.211,5623
-25660,Longville,CA,,city-us,0,40.148,-121.245,277
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25658,Longville,LA,Beauregard Parish,,city-us,312,30.605,-93.232,325
+25659,Longville,MN,Cass County,,city-us,160,46.986,-94.211,5623
+25660,Longville,CA,Plumas County,,city-us,0,40.148,-121.245,277

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20240,Hoard,WI,,city-us,761,44.994,-90.490,1832
-20241,Hoard,WV,,city-us,0,39.705,-79.932,145
-20728,Hord,IL,,city-us,0,38.884,-88.521,151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20240,Hoard,WI,Clark County,,city-us,761,44.994,-90.490,1832
+20241,Hoard,WV,Monongalia County,,city-us,0,39.705,-79.932,145
+20728,Hord,IL,Clay County,,city-us,0,38.884,-88.521,151

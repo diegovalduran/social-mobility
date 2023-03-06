@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33008,Palo Alto,CA,,city-us,66680,37.442,-122.143,47553
-33009,Palo Alto,PA,,city-us,971,40.687,-76.172,4901
-33007,Palo Alto,VA,,city-us,0,38.423,-79.370,415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33008,Palo Alto,CA,Santa Clara County,,city-us,66680,37.442,-122.143,47553
+33009,Palo Alto,PA,Schuylkill County,,city-us,971,40.687,-76.172,4901
+33007,Palo Alto,VA,Highland County,,city-us,0,38.423,-79.370,415

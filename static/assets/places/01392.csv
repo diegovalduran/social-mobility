@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7007,Caroline,NY,,city-us,3334,42.358,-76.335,4295
-7006,Caroline,WI,,city-us,393,44.721,-88.891,441
-7005,Caroline,OH,,city-us,0,41.052,-82.894,397
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7007,Caroline,NY,Tompkins County,,city-us,3334,42.358,-76.335,4295
+7006,Caroline,WI,Shawano County,,city-us,393,44.721,-88.891,441
+7005,Caroline,OH,Seneca County,,city-us,0,41.052,-82.894,397

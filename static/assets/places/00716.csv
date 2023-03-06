@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3685,Berryton,GA,,city-us,0,34.450,-85.386,357
-3686,Berryton,KS,,city-us,0,38.941,-95.632,1105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3685,Berryton,GA,Chattooga County,,city-us,0,34.450,-85.386,357
+3686,Berryton,KS,Shawnee County,,city-us,0,38.941,-95.632,1105

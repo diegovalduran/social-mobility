@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6892,Carbondale,IL,,city-us,24534,37.730,-89.210,1452
-6893,Carbondale,IL,,city-us,21741,37.722,-89.224,20350
-6894,Carbondale,PA,,city-us,8812,41.574,-75.502,8908
-6891,Carbondale,CO,,city-us,6491,39.402,-107.211,5193
-6896,Carbondale,KS,,city-us,1344,38.819,-95.689,5050
-6897,Carbondale,ND,,city-us,41,48.496,-101.915,0
-6887,Carbondale,CA,,city-us,0,38.409,-121.007,357
-6888,Carbondale,OH,,city-us,0,39.378,-82.271,1180
-6889,Carbondale,TX,,city-us,0,33.315,-94.441,658
-6890,Carbondale,WV,,city-us,0,38.186,-81.299,192
-6895,Carbondale,MI,,city-us,0,45.278,-87.616,313
-6898,Carbondale,IN,,city-us,0,40.360,-87.347,884
-6899,Carbondale,GA,,city-us,0,34.645,-84.994,376
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6892,Carbondale,IL,Jackson County,,city-us,24534,37.730,-89.210,1452
+6893,Carbondale,IL,Jackson County / Williamson County,,city-us,21741,37.722,-89.224,20350
+6894,Carbondale,PA,Lackawanna County,,city-us,8812,41.574,-75.502,8908
+6891,Carbondale,CO,Garfield County,,city-us,6491,39.402,-107.211,5193
+6896,Carbondale,KS,Osage County,,city-us,1344,38.819,-95.689,5050
+6897,Carbondale,ND,Ward County,,city-us,41,48.496,-101.915,0
+6887,Carbondale,CA,Amador County,,city-us,0,38.409,-121.007,357
+6888,Carbondale,OH,Athens County,,city-us,0,39.378,-82.271,1180
+6889,Carbondale,TX,Bowie County,,city-us,0,33.315,-94.441,658
+6890,Carbondale,WV,Fayette County,,city-us,0,38.186,-81.299,192
+6895,Carbondale,MI,Menominee County,,city-us,0,45.278,-87.616,313
+6898,Carbondale,IN,Warren County,,city-us,0,40.360,-87.347,884
+6899,Carbondale,GA,Whitfield County,,city-us,0,34.645,-84.994,376

@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-696,Alliance,OH,,city-us,21801,40.911,-81.120,11160
-692,Alliance,NE,,city-us,7971,42.102,-102.872,7472
-698,Alliance,NC,,city-us,729,35.145,-76.802,2265
-693,Alliance,MN,,city-us,202,46.674,-96.611,1895
-697,Alliance,SD,,city-us,93,43.896,-96.484,0
-691,Alliance,MO,,city-us,0,37.562,-89.997,578
-694,Alliance,TX,,city-us,0,33.000,-97.293,1311
-695,Alliance,IN,,city-us,0,40.033,-85.650,154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+696,Alliance,OH,Mahoning County / Stark County,,city-us,21801,40.911,-81.120,11160
+692,Alliance,NE,Box Butte County,,city-us,7971,42.102,-102.872,7472
+698,Alliance,NC,Pamlico County,,city-us,729,35.145,-76.802,2265
+693,Alliance,MN,Clay County,,city-us,202,46.674,-96.611,1895
+697,Alliance,SD,Moody County,,city-us,93,43.896,-96.484,0
+691,Alliance,MO,Bollinger County,,city-us,0,37.562,-89.997,578
+694,Alliance,TX,Denton County,,city-us,0,33.000,-97.293,1311
+695,Alliance,IN,Madison County,,city-us,0,40.033,-85.650,154

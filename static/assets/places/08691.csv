@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43527,Turtle Creek,PA,,city-us,5046,40.406,-79.825,2935
-43529,Turtle Creek,OH,,city-us,1555,40.323,-84.256,1912
-43530,Turtle Creek,MN,,city-us,267,46.152,-94.710,1864
-43528,Turtle Creek,WV,,city-us,0,38.030,-81.873,351
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43527,Turtle Creek,PA,Allegheny County,,city-us,5046,40.406,-79.825,2935
+43529,Turtle Creek,OH,Shelby County,,city-us,1555,40.323,-84.256,1912
+43530,Turtle Creek,MN,Todd County,,city-us,267,46.152,-94.710,1864
+43528,Turtle Creek,WV,Boone County,,city-us,0,38.030,-81.873,351

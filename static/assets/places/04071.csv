@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20908,Huber,IN,,city-us,0,39.686,-85.139,155
-20909,Huber,GA,,city-us,0,32.704,-83.556,219
-20910,Huber,OR,,city-us,0,45.492,-122.851,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20908,Huber,IN,Fayette County,,city-us,0,39.686,-85.139,155
+20909,Huber,GA,Twiggs County,,city-us,0,32.704,-83.556,219
+20910,Huber,OR,Washington County,,city-us,0,45.492,-122.851,318

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30576,New City,NY,,city-us,34118,41.148,-73.989,17226
-30578,New City,ND,,city-us,22,48.588,-99.435,0
-30577,New City,IL,,city-us,0,39.669,-89.539,2234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30576,New City,NY,Rockland County,,city-us,34118,41.148,-73.989,17226
+30578,New City,ND,Towner County,,city-us,22,48.588,-99.435,0
+30577,New City,IL,Sangamon County,,city-us,0,39.669,-89.539,2234

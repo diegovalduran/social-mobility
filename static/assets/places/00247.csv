@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1290,Applegate,MI,,city-us,229,43.355,-82.637,3096
-1288,Applegate,OR,,city-us,0,42.257,-123.167,684
-1289,Applegate,CA,,city-us,0,39.001,-120.993,1901
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1290,Applegate,MI,Sanilac County,,city-us,229,43.355,-82.637,3096
+1288,Applegate,OR,Jackson County,,city-us,0,42.257,-123.167,684
+1289,Applegate,CA,Placer County,,city-us,0,39.001,-120.993,1901

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2455,Barksdale,WI,,city-us,723,46.621,-90.932,2740
-2456,Barksdale,TX,,city-us,91,29.725,-100.034,445
-2457,Barksdale,SC,,city-us,0,34.570,-82.090,305
-2458,Barksdale,MS,,city-us,0,34.224,-90.395,102
-2459,Barksdale,WV,,city-us,0,37.708,-80.886,174
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2455,Barksdale,WI,Bayfield County,,city-us,723,46.621,-90.932,2740
+2456,Barksdale,TX,Edwards County,,city-us,91,29.725,-100.034,445
+2457,Barksdale,SC,Laurens County,,city-us,0,34.570,-82.090,305
+2458,Barksdale,MS,Quitman County,,city-us,0,34.224,-90.395,102
+2459,Barksdale,WV,Summers County,,city-us,0,37.708,-80.886,174

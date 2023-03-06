@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14153,Ewell,AL,,city-us,0,31.422,-85.575,285
-14154,Ewell,VA,,city-us,0,37.329,-76.742,2394
-14155,Ewell,MD,,city-us,0,37.996,-76.033,107
-14156,Ewell,KS,,city-us,0,37.340,-97.691,594
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14153,Ewell,AL,Dale County,,city-us,0,31.422,-85.575,285
+14154,Ewell,VA,James City County,,city-us,0,37.329,-76.742,2394
+14155,Ewell,MD,Somerset County,,city-us,0,37.996,-76.033,107
+14156,Ewell,KS,Sumner County,,city-us,0,37.340,-97.691,594

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6982,Carnation,WA,,city-us,2167,47.648,-121.914,6658
-6983,Carnation,OR,,city-us,0,45.508,-123.103,1331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6982,Carnation,WA,King County,,city-us,2167,47.648,-121.914,6658
+6983,Carnation,OR,Washington County,,city-us,0,45.508,-123.103,1331

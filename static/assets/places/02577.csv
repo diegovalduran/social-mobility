@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12762,Eastgate,NV,,city-us,0,39.306,-117.879,501
-12763,Eastgate,TX,,city-us,0,30.056,-95.012,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12762,Eastgate,NV,Churchill County,,city-us,0,39.306,-117.879,501
+12763,Eastgate,TX,Liberty County,,city-us,0,30.056,-95.012,165

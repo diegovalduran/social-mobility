@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-428,Albert,MI,,city-us,2478,44.891,-84.244,1924
-425,Albert,KS,,city-us,128,38.453,-99.011,3244
-426,Albert,ND,,city-us,48,48.057,-99.513,130
-427,Albert,OK,,city-us,0,35.233,-98.411,991
+id,name,state,county,country,level,population,latitude,longitude,wiki
+428,Albert,MI,Montmorency County,,city-us,2478,44.891,-84.244,1924
+425,Albert,KS,Barton County,,city-us,128,38.453,-99.011,3244
+426,Albert,ND,Benson County,,city-us,48,48.057,-99.513,130
+427,Albert,OK,Caddo County,,city-us,0,35.233,-98.411,991

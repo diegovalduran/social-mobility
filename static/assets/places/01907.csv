@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9740,Cooksville,IL,,city-us,154,40.543,-88.716,3912
-9738,Cooksville,GA,,city-us,0,33.239,-84.998,255
-9739,Cooksville,MD,,city-us,0,39.318,-77.020,0
-9741,Cooksville,WI,,city-us,0,42.835,-89.241,1224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9740,Cooksville,IL,McLean County,,city-us,154,40.543,-88.716,3912
+9738,Cooksville,GA,Heard County,,city-us,0,33.239,-84.998,255
+9739,Cooksville,MD,Howard County,,city-us,0,39.318,-77.020,0
+9741,Cooksville,WI,Rock County,,city-us,0,42.835,-89.241,1224

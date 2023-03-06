@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29972,Mountain Home,ID,,city-us,16235,43.133,-115.691,6092
-29969,Mountain Home,AR,,city-us,12993,36.335,-92.385,12662
-29973,Mountain Home,NC,,city-us,3873,35.370,-82.493,2617
-29970,Mountain Home,WV,,city-us,0,38.356,-81.054,92
-29971,Mountain Home,UT,,city-us,0,40.399,-110.389,1156
-29974,Mountain Home,TX,,city-us,0,30.175,-99.380,819
-29975,Mountain Home,CA,,city-us,0,37.121,-121.796,1276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29972,Mountain Home,ID,Elmore County,,city-us,16235,43.133,-115.691,6092
+29969,Mountain Home,AR,Baxter County,,city-us,12993,36.335,-92.385,12662
+29973,Mountain Home,NC,Henderson County,,city-us,3873,35.370,-82.493,2617
+29970,Mountain Home,WV,Clay County,,city-us,0,38.356,-81.054,92
+29971,Mountain Home,UT,Duchesne County,,city-us,0,40.399,-110.389,1156
+29974,Mountain Home,TX,Kerr County,,city-us,0,30.175,-99.380,819
+29975,Mountain Home,CA,Santa Clara County,,city-us,0,37.121,-121.796,1276

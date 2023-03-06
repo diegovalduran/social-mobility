@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14731,Faxon,PA,,city-us,1210,41.248,-76.977,571
-14732,Faxon,MN,,city-us,720,44.644,-93.841,2309
-14730,Faxon,OK,,city-us,113,34.457,-98.579,2030
-14729,Faxon,KY,,city-us,0,36.679,-88.147,83
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14731,Faxon,PA,Lycoming County,,city-us,1210,41.248,-76.977,571
+14732,Faxon,MN,Sibley County,,city-us,720,44.644,-93.841,2309
+14730,Faxon,OK,Comanche County,,city-us,113,34.457,-98.579,2030
+14729,Faxon,KY,Calloway County,,city-us,0,36.679,-88.147,83

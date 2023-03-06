@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11905,Dodgeville,WI,,city-us,4978,42.960,-90.130,15793
-11904,Dodgeville,MI,,city-us,3221,47.016,-88.609,3278
-11903,Dodgeville,IA,,city-us,0,40.943,-91.181,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11905,Dodgeville,WI,Iowa County,,city-us,4978,42.960,-90.130,15793
+11904,Dodgeville,MI,Houghton County,,city-us,3221,47.016,-88.609,3278
+11903,Dodgeville,IA,Des Moines County,,city-us,0,40.943,-91.181,264

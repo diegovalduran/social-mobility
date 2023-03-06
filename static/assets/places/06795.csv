@@ -1,40 +1,40 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34558,Pleasant Hill,CA,,city-us,34304,37.948,-122.061,10978
-34583,Pleasant Hill,IA,,city-us,10860,41.584,-93.520,4458
-34557,Pleasant Hill,MO,,city-us,8803,38.806,-94.272,6322
-34572,Pleasant Hill,PA,,city-us,3298,40.336,-76.442,1400
-34564,Pleasant Hill,MS,,city-us,1863,34.914,-89.894,707
-34575,Pleasant Hill,OH,,city-us,1239,40.052,-84.344,3502
-34584,Pleasant Hill,TX,,city-us,1060,31.009,-94.798,531
-34581,Pleasant Hill,IL,,city-us,916,39.443,-90.872,3392
-34590,Pleasant Hill,NC,,city-us,800,36.257,-80.883,2009
-34585,Pleasant Hill,LA,,city-us,615,31.820,-93.514,2834
-34562,Pleasant Hill,TN,,city-us,543,35.976,-85.194,4409
-34591,Pleasant Hill,MN,,city-us,530,43.890,-91.540,1930
-34569,Pleasant Hill,ND,,city-us,42,46.858,-100.014,0
-34555,Pleasant Hill,LA,,city-us,0,32.480,-93.077,93
-34556,Pleasant Hill,WV,,city-us,0,38.954,-81.061,180
-34559,Pleasant Hill,AR,,city-us,0,35.385,-92.587,145
-34560,Pleasant Hill,WA,,city-us,0,46.225,-122.894,509
-34561,Pleasant Hill,AR,,city-us,0,35.345,-90.719,168
-34563,Pleasant Hill,AL,,city-us,0,32.166,-86.912,1015
-34565,Pleasant Hill,AR,,city-us,0,34.456,-93.162,169
-34566,Pleasant Hill,AR,,city-us,0,35.778,-91.420,151
-34567,Pleasant Hill,WV,,city-us,0,38.877,-81.737,172
-34568,Pleasant Hill,LA,,city-us,0,32.207,-92.434,91
-34570,Pleasant Hill,SC,,city-us,0,34.620,-80.685,424
-34571,Pleasant Hill,OR,,city-us,0,43.967,-122.933,1426
-34573,Pleasant Hill,LA,,city-us,0,32.483,-92.734,91
-34574,Pleasant Hill,AR,,city-us,0,35.176,-93.765,734
-34576,Pleasant Hill,AR,,city-us,0,33.319,-94.028,168
-34577,Pleasant Hill,LA,,city-us,0,31.927,-93.377,93
-34578,Pleasant Hill,AR,,city-us,0,33.865,-93.428,174
-34579,Pleasant Hill,AR,,city-us,0,35.813,-93.147,162
-34580,Pleasant Hill,NC,,city-us,0,36.532,-77.536,713
-34582,Pleasant Hill,AR,,city-us,0,34.481,-94.418,129
-34586,Pleasant Hill,AR,,city-us,0,34.696,-92.616,463
-34587,Pleasant Hill,NE,,city-us,0,40.587,-97.082,285
-34588,Pleasant Hill,AR,,city-us,0,34.904,-94.124,161
-34589,Pleasant Hill,AR,,city-us,0,35.918,-92.298,146
-34592,Pleasant Hill,WV,,city-us,0,39.187,-81.591,148
-34593,Pleasant Hill,AR,,city-us,0,34.889,-93.538,149
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34558,Pleasant Hill,CA,Contra Costa County,,city-us,34304,37.948,-122.061,10978
+34583,Pleasant Hill,IA,Polk County,,city-us,10860,41.584,-93.520,4458
+34557,Pleasant Hill,MO,Cass County / Jackson County,,city-us,8803,38.806,-94.272,6322
+34572,Pleasant Hill,PA,Lebanon County,,city-us,3298,40.336,-76.442,1400
+34564,Pleasant Hill,MS,DeSoto County,,city-us,1863,34.914,-89.894,707
+34575,Pleasant Hill,OH,Miami County,,city-us,1239,40.052,-84.344,3502
+34584,Pleasant Hill,TX,Polk County,,city-us,1060,31.009,-94.798,531
+34581,Pleasant Hill,IL,Pike County,,city-us,916,39.443,-90.872,3392
+34590,Pleasant Hill,NC,Wilkes County,,city-us,800,36.257,-80.883,2009
+34585,Pleasant Hill,LA,Sabine Parish,,city-us,615,31.820,-93.514,2834
+34562,Pleasant Hill,TN,Cumberland County,,city-us,543,35.976,-85.194,4409
+34591,Pleasant Hill,MN,Winona County,,city-us,530,43.890,-91.540,1930
+34569,Pleasant Hill,ND,Kidder County,,city-us,42,46.858,-100.014,0
+34555,Pleasant Hill,LA,Bienville Parish,,city-us,0,32.480,-93.077,93
+34556,Pleasant Hill,WV,Calhoun County,,city-us,0,38.954,-81.061,180
+34559,Pleasant Hill,AR,Conway County,,city-us,0,35.385,-92.587,145
+34560,Pleasant Hill,WA,Cowlitz County,,city-us,0,46.225,-122.894,509
+34561,Pleasant Hill,AR,Cross County,,city-us,0,35.345,-90.719,168
+34563,Pleasant Hill,AL,Dallas County,,city-us,0,32.166,-86.912,1015
+34565,Pleasant Hill,AR,Garland County,,city-us,0,34.456,-93.162,169
+34566,Pleasant Hill,AR,Independence County,,city-us,0,35.778,-91.420,151
+34567,Pleasant Hill,WV,Jackson County,,city-us,0,38.877,-81.737,172
+34568,Pleasant Hill,LA,Jackson Parish,,city-us,0,32.207,-92.434,91
+34570,Pleasant Hill,SC,Lancaster County,,city-us,0,34.620,-80.685,424
+34571,Pleasant Hill,OR,Lane County,,city-us,0,43.967,-122.933,1426
+34573,Pleasant Hill,LA,Lincoln Parish,,city-us,0,32.483,-92.734,91
+34574,Pleasant Hill,AR,Logan County,,city-us,0,35.176,-93.765,734
+34576,Pleasant Hill,AR,Miller County,,city-us,0,33.319,-94.028,168
+34577,Pleasant Hill,LA,Natchitoches Parish,,city-us,0,31.927,-93.377,93
+34578,Pleasant Hill,AR,Nevada County,,city-us,0,33.865,-93.428,174
+34579,Pleasant Hill,AR,Newton County,,city-us,0,35.813,-93.147,162
+34580,Pleasant Hill,NC,Northampton County,,city-us,0,36.532,-77.536,713
+34582,Pleasant Hill,AR,Polk County,,city-us,0,34.481,-94.418,129
+34586,Pleasant Hill,AR,Saline County,,city-us,0,34.696,-92.616,463
+34587,Pleasant Hill,NE,Saline County,,city-us,0,40.587,-97.082,285
+34588,Pleasant Hill,AR,Scott County,,city-us,0,34.904,-94.124,161
+34589,Pleasant Hill,AR,Stone County,,city-us,0,35.918,-92.298,146
+34592,Pleasant Hill,WV,Wood County,,city-us,0,39.187,-81.591,148
+34593,Pleasant Hill,AR,Yell County,,city-us,0,34.889,-93.538,149

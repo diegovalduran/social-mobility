@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18933,Harmony Grove,CA,,city-us,1651,33.096,-117.135,0
-18931,Harmony Grove,WI,,city-us,0,43.372,-89.551,118
-18932,Harmony Grove,WV,,city-us,0,39.607,-79.990,214
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18933,Harmony Grove,CA,San Diego County,,city-us,1651,33.096,-117.135,0
+18931,Harmony Grove,WI,Columbia County,,city-us,0,43.372,-89.551,118
+18932,Harmony Grove,WV,Monongalia County,,city-us,0,39.607,-79.990,214

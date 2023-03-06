@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41270,Stapleton,AL,,city-us,2213,30.743,-87.793,2031
-41271,Stapleton,GA,,city-us,395,33.216,-82.468,2465
-41272,Stapleton,NE,,city-us,257,41.480,-100.513,3451
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41270,Stapleton,AL,Baldwin County,,city-us,2213,30.743,-87.793,2031
+41271,Stapleton,GA,Jefferson County,,city-us,395,33.216,-82.468,2465
+41272,Stapleton,NE,Logan County,,city-us,257,41.480,-100.513,3451

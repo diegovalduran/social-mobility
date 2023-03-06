@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21297,Indian Beach,NC,,city-us,224,34.687,-76.895,2188
-21298,Indian Beach,DE,,city-us,0,38.686,-75.073,178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21297,Indian Beach,NC,Carteret County,,city-us,224,34.687,-76.895,2188
+21298,Indian Beach,DE,Sussex County,,city-us,0,38.686,-75.073,178

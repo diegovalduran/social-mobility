@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24230,Leatherwood,IN,,city-us,0,39.752,-87.285,341
-24231,Leatherwood,KY,,city-us,0,37.033,-83.084,158
-24232,Leatherwood,TN,,city-us,0,35.394,-87.848,80
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24230,Leatherwood,IN,Parke County,,city-us,0,39.752,-87.285,341
+24231,Leatherwood,KY,Perry County,,city-us,0,37.033,-83.084,158
+24232,Leatherwood,TN,Wayne County,,city-us,0,35.394,-87.848,80

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14207,Experiment,GA,,city-us,2249,33.265,-84.282,2240
-14206,Experiment,AR,,city-us,0,33.203,-93.466,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14207,Experiment,GA,Spalding County,,city-us,2249,33.265,-84.282,2240
+14206,Experiment,AR,Columbia County,,city-us,0,33.203,-93.466,88

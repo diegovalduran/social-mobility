@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46374,Wheatfield,NY,,city-us,18570,43.095,-78.884,11436
-46375,Wheatfield,PA,,city-us,3195,40.402,-77.098,2043
-46372,Wheatfield,MI,,city-us,1661,42.636,-84.318,2105
-46373,Wheatfield,IN,,city-us,907,41.193,-87.056,3564
-46370,Wheatfield,IL,,city-us,441,38.697,-89.426,802
-46371,Wheatfield,ND,,city-us,67,48.064,-97.579,0
-46376,Wheatfield,VA,,city-us,0,39.073,-78.372,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46374,Wheatfield,NY,Niagara County,,city-us,18570,43.095,-78.884,11436
+46375,Wheatfield,PA,Perry County,,city-us,3195,40.402,-77.098,2043
+46372,Wheatfield,MI,Ingham County,,city-us,1661,42.636,-84.318,2105
+46373,Wheatfield,IN,Jasper County,,city-us,907,41.193,-87.056,3564
+46370,Wheatfield,IL,Clinton County,,city-us,441,38.697,-89.426,802
+46371,Wheatfield,ND,Grand Forks County,,city-us,67,48.064,-97.579,0
+46376,Wheatfield,VA,Shenandoah County,,city-us,0,39.073,-78.372,96

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24391,Leipsic,OH,,city-us,2165,41.098,-83.985,3853
-24389,Leipsic,DE,,city-us,180,39.241,-75.517,3246
-24390,Leipsic,IN,,city-us,0,38.671,-86.370,491
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24391,Leipsic,OH,Putnam County,,city-us,2165,41.098,-83.985,3853
+24389,Leipsic,DE,Kent County,,city-us,180,39.241,-75.517,3246
+24390,Leipsic,IN,Orange County,,city-us,0,38.671,-86.370,491

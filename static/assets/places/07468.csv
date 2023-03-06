@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37936,Rush River,WI,,city-us,491,44.905,-92.406,1794
-37934,Rush River,ND,,city-us,89,47.026,-97.145,0
-37935,Rush River,MN,,city-us,0,44.467,-94.051,278
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37936,Rush River,WI,St. Croix County,,city-us,491,44.905,-92.406,1794
+37934,Rush River,ND,Cass County,,city-us,89,47.026,-97.145,0
+37935,Rush River,MN,Sibley County,,city-us,0,44.467,-94.051,278

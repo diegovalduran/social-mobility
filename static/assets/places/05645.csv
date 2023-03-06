@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29019,Monaville,WV,,city-us,487,37.812,-81.995,1631
-29018,Monaville,IL,,city-us,0,42.399,-88.111,210
-29020,Monaville,TX,,city-us,0,29.951,-96.039,1411
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29019,Monaville,WV,Logan County,,city-us,487,37.812,-81.995,1631
+29018,Monaville,IL,Lake County,,city-us,0,42.399,-88.111,210
+29020,Monaville,TX,Waller County,,city-us,0,29.951,-96.039,1411

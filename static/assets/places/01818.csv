@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9321,Colima,,Mexico,city-international,150673,19.243,-103.725,171
-9320,Colima,GA,,city-us,0,34.543,-84.707,294
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9321,Colima,,,Mexico,city-international,150673,19.243,-103.725,171
+9320,Colima,GA,Gordon County,,city-us,0,34.543,-84.707,294

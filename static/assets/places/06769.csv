@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34375,Pittsville,MD,,city-us,1618,38.395,-75.413,3238
-34376,Pittsville,WI,,city-us,822,44.439,-90.125,3503
-34372,Pittsville,MO,,city-us,0,38.851,-93.990,290
-34373,Pittsville,VA,,city-us,0,36.982,-79.462,1880
-34374,Pittsville,PA,,city-us,0,41.256,-79.741,107
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34375,Pittsville,MD,Wicomico County,,city-us,1618,38.395,-75.413,3238
+34376,Pittsville,WI,Wood County,,city-us,822,44.439,-90.125,3503
+34372,Pittsville,MO,Johnson County,,city-us,0,38.851,-93.990,290
+34373,Pittsville,VA,Pittsylvania County,,city-us,0,36.982,-79.462,1880
+34374,Pittsville,PA,Venango County,,city-us,0,41.256,-79.741,107

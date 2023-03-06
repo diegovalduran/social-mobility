@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17876,Green Valley,AZ,,city-us,20729,31.854,-110.994,8019
-17865,Green Valley,MD,,city-us,12999,39.309,-77.297,2604
-17878,Green Valley,CA,,city-us,1672,38.253,-122.162,4270
-17875,Green Valley,SD,,city-us,1184,44.036,-103.111,1888
-17869,Green Valley,CA,,city-us,993,34.622,-118.414,3517
-17879,Green Valley,IL,,city-us,622,40.408,-89.643,1897
-17871,Green Valley,WI,,city-us,516,44.728,-89.898,1793
-17864,Green Valley,MN,,city-us,350,46.845,-95.234,2678
-17877,Green Valley,WI,,city-us,72,44.796,-88.270,2043
-17866,Green Valley,NE,,city-us,70,42.437,-99.118,249
-17873,Green Valley,SD,,city-us,42,44.067,-97.670,1888
-17863,Green Valley,VA,,city-us,0,38.080,-79.599,95
-17867,Green Valley,WV,,city-us,0,38.363,-81.787,142
-17868,Green Valley,OH,,city-us,0,40.425,-82.578,218
-17870,Green Valley,MN,,city-us,0,44.527,-95.757,591
-17872,Green Valley,WV,,city-us,0,37.311,-81.139,185
-17874,Green Valley,WV,,city-us,0,38.099,-80.699,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17876,Green Valley,AZ,Pima County,,city-us,20729,31.854,-110.994,8019
+17865,Green Valley,MD,Frederick County,,city-us,12999,39.309,-77.297,2604
+17878,Green Valley,CA,Solano County,,city-us,1672,38.253,-122.162,4270
+17875,Green Valley,SD,Pennington County,,city-us,1184,44.036,-103.111,1888
+17869,Green Valley,CA,Los Angeles County,,city-us,993,34.622,-118.414,3517
+17879,Green Valley,IL,Tazewell County,,city-us,622,40.408,-89.643,1897
+17871,Green Valley,WI,Marathon County,,city-us,516,44.728,-89.898,1793
+17864,Green Valley,MN,Becker County,,city-us,350,46.845,-95.234,2678
+17877,Green Valley,WI,Shawano County,,city-us,72,44.796,-88.270,2043
+17866,Green Valley,NE,Holt County,,city-us,70,42.437,-99.118,249
+17873,Green Valley,SD,Miner County,,city-us,42,44.067,-97.670,1888
+17863,Green Valley,VA,Bath County,,city-us,0,38.080,-79.599,95
+17867,Green Valley,WV,Kanawha County,,city-us,0,38.363,-81.787,142
+17868,Green Valley,OH,Knox County,,city-us,0,40.425,-82.578,218
+17870,Green Valley,MN,Lyon County,,city-us,0,44.527,-95.757,591
+17872,Green Valley,WV,Mercer County,,city-us,0,37.311,-81.139,185
+17874,Green Valley,WV,Nicholas County,,city-us,0,38.099,-80.699,173

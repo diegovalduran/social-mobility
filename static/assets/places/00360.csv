@@ -1,33 +1,33 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1897,Auburn,WA,,city-us,85699,47.304,-122.210,13353
-1898,Auburn,AL,,city-us,78564,32.610,-85.481,29038
-1889,Auburn,NY,,city-us,26664,42.932,-76.566,15472
-1886,Auburn,ME,,city-us,24033,44.098,-70.231,11706
-1917,Auburn,MA,,city-us,16830,42.199,-71.846,5758
-1904,Auburn,CA,,city-us,13845,38.897,-121.077,9792
-1893,Auburn,IN,,city-us,13593,41.367,-85.059,11395
-1887,Auburn,GA,,city-us,8094,34.015,-83.834,2411
-1896,Auburn,OH,,city-us,6615,41.386,-81.232,164
-1906,Auburn,NH,,city-us,6034,42.997,-71.366,8628
-1909,Auburn,IL,,city-us,5884,39.567,-89.758,277
-1903,Auburn,NE,,city-us,3478,40.393,-95.839,4219
-1911,Auburn,KS,,city-us,3295,38.914,-95.843,7888
-1895,Auburn,WI,,city-us,2379,43.594,-88.220,2315
-1888,Auburn,MI,,city-us,2046,43.603,-84.070,4132
-1912,Auburn,PA,,city-us,1740,41.690,-76.048,1729
-1902,Auburn,KY,,city-us,1605,36.864,-86.710,2354
-1913,Auburn,OH,,city-us,1116,40.456,-81.619,164
-1908,Auburn,NJ,,city-us,1057,39.711,-75.368,737
-1890,Auburn,WI,,city-us,787,45.152,-91.613,2258
-1892,Auburn,OH,,city-us,773,40.953,-82.757,164
-1910,Auburn,PA,,city-us,663,40.598,-76.093,2566
-1901,Auburn,WY,,city-us,577,42.792,-111.003,2090
-1907,Auburn,IA,,city-us,263,42.251,-94.878,3784
-1891,Auburn,IL,,city-us,233,39.379,-87.805,277
-1905,Auburn,WV,,city-us,79,39.096,-80.856,2892
-1915,Auburn,ND,,city-us,31,48.507,-97.440,1596
-1894,Auburn,TX,,city-us,0,32.297,-97.077,347
-1899,Auburn,MS,,city-us,0,31.359,-90.608,396
-1900,Auburn,MO,,city-us,0,39.127,-90.974,293
-1914,Auburn,NC,,city-us,0,35.693,-78.556,1390
-1916,Auburn,CO,,city-us,0,40.368,-104.637,1849
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1897,Auburn,WA,King County / Pierce County,,city-us,85699,47.304,-122.210,13353
+1898,Auburn,AL,Lee County,,city-us,78564,32.610,-85.481,29038
+1889,Auburn,NY,Cayuga County,,city-us,26664,42.932,-76.566,15472
+1886,Auburn,ME,Androscoggin County,,city-us,24033,44.098,-70.231,11706
+1917,Auburn,MA,Worcester County,,city-us,16830,42.199,-71.846,5758
+1904,Auburn,CA,Placer County,,city-us,13845,38.897,-121.077,9792
+1893,Auburn,IN,DeKalb County,,city-us,13593,41.367,-85.059,11395
+1887,Auburn,GA,Barrow County / Gwinnett County,,city-us,8094,34.015,-83.834,2411
+1896,Auburn,OH,Geauga County,,city-us,6615,41.386,-81.232,164
+1906,Auburn,NH,Rockingham County,,city-us,6034,42.997,-71.366,8628
+1909,Auburn,IL,Sangamon County,,city-us,5884,39.567,-89.758,277
+1903,Auburn,NE,Nemaha County,,city-us,3478,40.393,-95.839,4219
+1911,Auburn,KS,Shawnee County,,city-us,3295,38.914,-95.843,7888
+1895,Auburn,WI,Fond du Lac County,,city-us,2379,43.594,-88.220,2315
+1888,Auburn,MI,Bay County,,city-us,2046,43.603,-84.070,4132
+1912,Auburn,PA,Susquehanna County,,city-us,1740,41.690,-76.048,1729
+1902,Auburn,KY,Logan County,,city-us,1605,36.864,-86.710,2354
+1913,Auburn,OH,Tuscarawas County,,city-us,1116,40.456,-81.619,164
+1908,Auburn,NJ,Salem County,,city-us,1057,39.711,-75.368,737
+1890,Auburn,WI,Chippewa County,,city-us,787,45.152,-91.613,2258
+1892,Auburn,OH,Crawford County,,city-us,773,40.953,-82.757,164
+1910,Auburn,PA,Schuylkill County,,city-us,663,40.598,-76.093,2566
+1901,Auburn,WY,Lincoln County,,city-us,577,42.792,-111.003,2090
+1907,Auburn,IA,Sac County,,city-us,263,42.251,-94.878,3784
+1891,Auburn,IL,Clark County,,city-us,233,39.379,-87.805,277
+1905,Auburn,WV,Ritchie County,,city-us,79,39.096,-80.856,2892
+1915,Auburn,ND,Walsh County,,city-us,31,48.507,-97.440,1596
+1894,Auburn,TX,Ellis County,,city-us,0,32.297,-97.077,347
+1899,Auburn,MS,Lincoln County,,city-us,0,31.359,-90.608,396
+1900,Auburn,MO,Lincoln County,,city-us,0,39.127,-90.974,293
+1914,Auburn,NC,Wake County,,city-us,0,35.693,-78.556,1390
+1916,Auburn,CO,Weld County,,city-us,0,40.368,-104.637,1849

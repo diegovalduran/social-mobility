@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22187,Joanna,SC,,city-us,1470,34.415,-81.811,3159
-22186,Joanna,PA,,city-us,0,40.174,-75.862,598
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22187,Joanna,SC,Laurens County,,city-us,1470,34.415,-81.811,3159
+22186,Joanna,PA,Berks County,,city-us,0,40.174,-75.862,598

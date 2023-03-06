@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6121,Burke,VA,,city-us,44191,38.793,-77.272,11371
-6120,Burke,WI,,city-us,3265,43.136,-89.276,2349
-6118,Burke,VT,,city-us,1642,44.611,-71.931,3889
-6117,Burke,TX,,city-us,692,31.232,-94.769,3907
-6124,Burke,SD,,city-us,579,43.182,-99.292,3551
-6116,Burk,SD,,city-us,365,43.806,-96.830,0
-6126,Burke,MN,,city-us,209,43.988,-96.116,2140
-6122,Burke,NY,,city-us,159,44.905,-74.169,3911
-6125,Burke,ND,,city-us,49,48.240,-102.246,0
-6119,Burke,IL,,city-us,0,42.051,-90.037,119
-6123,Burke,WA,,city-us,0,47.088,-119.874,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6121,Burke,VA,Fairfax County,,city-us,44191,38.793,-77.272,11371
+6120,Burke,WI,Dane County,,city-us,3265,43.136,-89.276,2349
+6118,Burke,VT,Caledonia County,,city-us,1642,44.611,-71.931,3889
+6117,Burke,TX,Angelina County,,city-us,692,31.232,-94.769,3907
+6124,Burke,SD,Gregory County,,city-us,579,43.182,-99.292,3551
+6116,Burk,SD,Minnehaha County,,city-us,365,43.806,-96.830,0
+6126,Burke,MN,Pipestone County,,city-us,209,43.988,-96.116,2140
+6122,Burke,NY,Franklin County,,city-us,159,44.905,-74.169,3911
+6125,Burke,ND,Mountrail County,,city-us,49,48.240,-102.246,0
+6119,Burke,IL,Carroll County,,city-us,0,42.051,-90.037,119
+6123,Burke,WA,Grant County,,city-us,0,47.088,-119.874,245

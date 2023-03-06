@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22951,Kincaid,IL,,city-us,1388,39.589,-89.415,2150
-22952,Kincaid,WV,,city-us,302,38.041,-81.270,1959
-22950,Kincaid,KS,,city-us,106,38.084,-95.154,3651
-22949,Kincaid,VA,,city-us,0,37.951,-79.939,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22951,Kincaid,IL,Christian County,,city-us,1388,39.589,-89.415,2150
+22952,Kincaid,WV,Fayette County,,city-us,302,38.041,-81.270,1959
+22950,Kincaid,KS,Anderson County,,city-us,106,38.084,-95.154,3651
+22949,Kincaid,VA,Alleghany County,,city-us,0,37.951,-79.939,104

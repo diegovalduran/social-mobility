@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47848,Wyckoff,NJ,,city-us,17037,40.999,-74.169,30562
-47852,Wykoff,MN,,city-us,434,43.707,-92.268,3275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47848,Wyckoff,NJ,Bergen County,,city-us,17037,40.999,-74.169,30562
+47852,Wykoff,MN,Fillmore County,,city-us,434,43.707,-92.268,3275

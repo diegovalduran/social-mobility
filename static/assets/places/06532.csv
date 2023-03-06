@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33262,Paterson,NJ,,city-us,157794,40.917,-74.172,74292
-33296,Patterson,CA,,city-us,23808,37.472,-121.130,9386
-33294,Patterson,NY,,city-us,11539,41.484,-73.588,6804
-33295,Patterson,LA,,city-us,5793,29.693,-91.302,7836
-33284,Patterson,PA,,city-us,3095,40.744,-80.333,2353
-33287,Patterson,OH,,city-us,1425,40.317,-84.478,1466
-33293,Patterson,GA,,city-us,762,31.387,-82.140,2650
-33288,Patterson,IL,,city-us,395,39.472,-90.517,1080
-33298,Patterson,AR,,city-us,303,35.257,-91.235,1979
-33292,Patterson,IA,,city-us,175,41.348,-93.880,2825
-33289,Patterson,OH,,city-us,129,40.781,-83.526,3098
-33261,Paterson,WA,,city-us,0,45.937,-119.601,387
-33285,Patterson,VA,,city-us,0,37.264,-81.976,325
-33286,Patterson,NC,,city-us,0,35.999,-81.564,293
-33290,Patterson,KS,,city-us,0,37.943,-97.655,1163
-33291,Patterson,ID,,city-us,0,44.524,-113.712,122
-33297,Patterson,MO,,city-us,0,37.188,-90.551,679
-33299,Patterson,VA,,city-us,0,36.891,-80.785,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33262,Paterson,NJ,Passaic County,,city-us,157794,40.917,-74.172,74292
+33296,Patterson,CA,Stanislaus County,,city-us,23808,37.472,-121.130,9386
+33294,Patterson,NY,Putnam County,,city-us,11539,41.484,-73.588,6804
+33295,Patterson,LA,St. Mary Parish,,city-us,5793,29.693,-91.302,7836
+33284,Patterson,PA,Beaver County,,city-us,3095,40.744,-80.333,2353
+33287,Patterson,OH,Darke County,,city-us,1425,40.317,-84.478,1466
+33293,Patterson,GA,Pierce County,,city-us,762,31.387,-82.140,2650
+33288,Patterson,IL,Greene County,,city-us,395,39.472,-90.517,1080
+33298,Patterson,AR,Woodruff County,,city-us,303,35.257,-91.235,1979
+33292,Patterson,IA,Madison County,,city-us,175,41.348,-93.880,2825
+33289,Patterson,OH,Hardin County,,city-us,129,40.781,-83.526,3098
+33261,Paterson,WA,Benton County,,city-us,0,45.937,-119.601,387
+33285,Patterson,VA,Buchanan County,,city-us,0,37.264,-81.976,325
+33286,Patterson,NC,Caldwell County,,city-us,0,35.999,-81.564,293
+33290,Patterson,KS,Harvey County,,city-us,0,37.943,-97.655,1163
+33291,Patterson,ID,Lemhi County,,city-us,0,44.524,-113.712,122
+33297,Patterson,MO,Wayne County,,city-us,0,37.188,-90.551,679
+33299,Patterson,VA,Wythe County,,city-us,0,36.891,-80.785,173

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16443,Gary,IN,,city-us,68325,41.593,-87.346,37315
-16444,Gary,WV,,city-us,730,37.364,-81.550,5163
-16441,Gary,SD,,city-us,239,44.792,-96.456,3316
-16445,Gary,MN,,city-us,225,47.371,-96.268,3099
-16442,Gary,MD,,city-us,0,39.260,-77.009,368
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16443,Gary,IN,Lake County,,city-us,68325,41.593,-87.346,37315
+16444,Gary,WV,McDowell County,,city-us,730,37.364,-81.550,5163
+16441,Gary,SD,Deuel County,,city-us,239,44.792,-96.456,3316
+16445,Gary,MN,Norman County,,city-us,225,47.371,-96.268,3099
+16442,Gary,MD,Howard County,,city-us,0,39.260,-77.009,368

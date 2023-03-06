@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41561,Stoddard,NH,,city-us,1404,43.076,-72.114,6840
-41563,Stoddard,WI,,city-us,850,43.662,-91.218,4249
-41562,Stoddard,MO,,city-us,0,36.791,-90.034,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41561,Stoddard,NH,Cheshire County,,city-us,1404,43.076,-72.114,6840
+41563,Stoddard,WI,Vernon County,,city-us,850,43.662,-91.218,4249
+41562,Stoddard,MO,Stoddard County,,city-us,0,36.791,-90.034,177

@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15210,Florida,,United States,state,22244823,27.976,-83.833,79363
-15208,Florida,NY,,city-us,2940,41.332,-74.357,4127
-15207,Florida,NY,,city-us,2697,42.895,-74.201,6538
-15202,Florida,MA,,city-us,685,42.680,-73.016,7670
-15203,Florida,OH,,city-us,215,41.322,-84.204,4333
-15209,Florida,MN,,city-us,108,44.762,-96.395,1735
-15204,Florida,CO,,city-us,0,37.215,-107.752,244
-15205,Florida,IN,,city-us,0,40.160,-85.710,328
-15206,Florida,MO,,city-us,0,39.493,-91.787,7738
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15210,Florida,,,United States,state,22244823,27.976,-83.833,79363
+15208,Florida,NY,Orange County,,city-us,2940,41.332,-74.357,4127
+15207,Florida,NY,Montgomery County,,city-us,2697,42.895,-74.201,6538
+15202,Florida,MA,Berkshire County,,city-us,685,42.680,-73.016,7670
+15203,Florida,OH,Henry County,,city-us,215,41.322,-84.204,4333
+15209,Florida,MN,Yellow Medicine County,,city-us,108,44.762,-96.395,1735
+15204,Florida,CO,La Plata County,,city-us,0,37.215,-107.752,244
+15205,Florida,IN,Madison County,,city-us,0,40.160,-85.710,328
+15206,Florida,MO,Monroe County,,city-us,0,39.493,-91.787,7738

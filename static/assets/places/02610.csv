@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12945,Edgehill,VA,,city-us,0,37.413,-76.519,114
-12946,Edgehill,VA,,city-us,0,38.265,-77.144,168
-12947,Edgehill,MO,,city-us,0,37.588,-90.933,502
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12945,Edgehill,VA,Gloucester County,,city-us,0,37.413,-76.519,114
+12946,Edgehill,VA,King George County,,city-us,0,38.265,-77.144,168
+12947,Edgehill,MO,Reynolds County,,city-us,0,37.588,-90.933,502

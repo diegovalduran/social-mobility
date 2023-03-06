@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9118,Coalville,UT,,city-us,1526,40.918,-111.399,6515
-9119,Coalville,IA,,city-us,564,42.445,-94.126,3586
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9118,Coalville,UT,Summit County,,city-us,1526,40.918,-111.399,6515
+9119,Coalville,IA,Webster County,,city-us,564,42.445,-94.126,3586

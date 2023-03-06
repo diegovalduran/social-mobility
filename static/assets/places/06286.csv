@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32134,Old Forge,PA,,city-us,8552,41.371,-75.735,9651
-32133,Old Forge,NY,,city-us,638,43.710,-74.974,8757
-32132,Old Forge,PA,,city-us,0,39.794,-77.484,478
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32134,Old Forge,PA,Lackawanna County,,city-us,8552,41.371,-75.735,9651
+32133,Old Forge,NY,Herkimer County,,city-us,638,43.710,-74.974,8757
+32132,Old Forge,PA,Franklin County,,city-us,0,39.794,-77.484,478

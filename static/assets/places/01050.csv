@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5803,Bryceland,LA,,city-us,87,32.451,-92.979,1747
-5204,Briceland,CA,,city-us,0,40.108,-123.900,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5803,Bryceland,LA,Bienville Parish,,city-us,87,32.451,-92.979,1747
+5204,Briceland,CA,Humboldt County,,city-us,0,40.108,-123.900,263

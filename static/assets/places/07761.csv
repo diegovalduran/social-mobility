@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39288,Shadyside,OH,,city-us,3426,39.971,-80.751,5160
-39289,Shadyside,MI,,city-us,3063,41.863,-84.544,3405
-39290,Shadyside,VA,,city-us,0,37.398,-75.912,108
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39288,Shadyside,OH,Belmont County,,city-us,3426,39.971,-80.751,5160
+39289,Shadyside,MI,Hillsdale County,,city-us,3063,41.863,-84.544,3405
+39290,Shadyside,VA,Northampton County,,city-us,0,37.398,-75.912,108

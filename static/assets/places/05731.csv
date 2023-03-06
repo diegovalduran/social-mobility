@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29504,Morganville,NJ,,city-us,5061,40.377,-74.244,3594
-29502,Morganville,KS,,city-us,183,39.466,-97.202,3541
-29503,Morganville,GA,,city-us,0,34.936,-85.454,254
-29505,Morganville,OH,,city-us,0,39.632,-81.955,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29504,Morganville,NJ,Monmouth County,,city-us,5061,40.377,-74.244,3594
+29502,Morganville,KS,Clay County,,city-us,183,39.466,-97.202,3541
+29503,Morganville,GA,Dade County,,city-us,0,34.936,-85.454,254
+29505,Morganville,OH,Morgan County,,city-us,0,39.632,-81.955,221

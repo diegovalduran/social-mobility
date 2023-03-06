@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10989,Danville,CA,,city-us,43240,37.822,-122.000,14273
-10990,Danville,VA,,city-us,42215,36.586,-79.395,28182
-11003,Danville,IL,,city-us,28787,40.124,-87.630,17728
-10987,Danville,KY,,city-us,17303,37.646,-84.772,19651
-10995,Danville,IN,,city-us,10758,39.761,-86.526,6169
-11001,Danville,NH,,city-us,4512,42.928,-71.120,6700
-10998,Danville,PA,,city-us,4200,40.963,-76.613,15406
-11004,Danville,AR,,city-us,2009,35.054,-93.394,4254
-10996,Danville,OH,,city-us,1015,40.448,-82.260,3797
-10991,Danville,IA,,city-us,911,40.864,-91.315,3284
-10986,Danville,WV,,city-us,645,38.081,-81.834,4234
-10984,Danville,MD,,city-us,449,39.506,-78.928,412
-10988,Danville,VT,,city-us,416,44.411,-72.139,6142
-10985,Danville,MN,,city-us,223,43.894,-93.841,2807
-11002,Danville,GA,,city-us,166,32.606,-83.246,2401
-10992,Danville,WA,,city-us,66,48.992,-118.508,5668
-10994,Danville,KS,,city-us,28,37.286,-97.892,3009
-10993,Danville,TX,,city-us,0,32.401,-94.827,94
-10997,Danville,MO,,city-us,0,38.911,-91.535,794
-10999,Danville,AL,,city-us,0,34.414,-87.088,578
-11000,Danville,MD,,city-us,0,38.685,-76.922,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10989,Danville,CA,Contra Costa County,,city-us,43240,37.822,-122.000,14273
+10990,Danville,VA,Danville city,,city-us,42215,36.586,-79.395,28182
+11003,Danville,IL,Vermilion County,,city-us,28787,40.124,-87.630,17728
+10987,Danville,KY,Boyle County,,city-us,17303,37.646,-84.772,19651
+10995,Danville,IN,Hendricks County,,city-us,10758,39.761,-86.526,6169
+11001,Danville,NH,Rockingham County,,city-us,4512,42.928,-71.120,6700
+10998,Danville,PA,Montour County,,city-us,4200,40.963,-76.613,15406
+11004,Danville,AR,Yell County,,city-us,2009,35.054,-93.394,4254
+10996,Danville,OH,Knox County,,city-us,1015,40.448,-82.260,3797
+10991,Danville,IA,Des Moines County,,city-us,911,40.864,-91.315,3284
+10986,Danville,WV,Boone County,,city-us,645,38.081,-81.834,4234
+10984,Danville,MD,Allegany County,,city-us,449,39.506,-78.928,412
+10988,Danville,VT,Caledonia County,,city-us,416,44.411,-72.139,6142
+10985,Danville,MN,Blue Earth County,,city-us,223,43.894,-93.841,2807
+11002,Danville,GA,Twiggs County / Wilkinson County,,city-us,166,32.606,-83.246,2401
+10992,Danville,WA,Ferry County,,city-us,66,48.992,-118.508,5668
+10994,Danville,KS,Harper County,,city-us,28,37.286,-97.892,3009
+10993,Danville,TX,Gregg County,,city-us,0,32.401,-94.827,94
+10997,Danville,MO,Montgomery County,,city-us,0,38.911,-91.535,794
+10999,Danville,AL,Morgan County,,city-us,0,34.414,-87.088,578
+11000,Danville,MD,Prince George's County,,city-us,0,38.685,-76.922,252

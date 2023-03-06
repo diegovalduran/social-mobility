@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42265,Swatara,PA,,city-us,5033,40.433,-76.474,665
-42263,Swatara,MN,,city-us,0,46.896,-93.674,1292
-42264,Swatara,PA,,city-us,0,40.277,-76.666,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42265,Swatara,PA,Lebanon County,,city-us,5033,40.433,-76.474,665
+42263,Swatara,MN,Aitkin County,,city-us,0,46.896,-93.674,1292
+42264,Swatara,PA,Dauphin County,,city-us,0,40.277,-76.666,318

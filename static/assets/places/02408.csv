@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12028,Dorseyville,LA,,city-us,149,30.177,-91.161,697
-12026,Dorseyville,PA,,city-us,0,40.577,-79.889,6031
-12027,Dorseyville,MD,,city-us,0,39.261,-77.037,407
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12028,Dorseyville,LA,Iberville Parish,,city-us,149,30.177,-91.161,697
+12026,Dorseyville,PA,Allegheny County,,city-us,0,40.577,-79.889,6031
+12027,Dorseyville,MD,Howard County,,city-us,0,39.261,-77.037,407

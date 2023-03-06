@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3898,Big Bend,WI,,city-us,1492,42.881,-88.207,5845
-3896,Big Bend,WI,,city-us,404,45.341,-91.341,1939
-3891,Big Bend,MN,,city-us,253,45.097,-95.792,1818
-3894,Big Bend,ND,,city-us,175,46.406,-97.605,0
-3895,Big Bend,KS,,city-us,130,39.952,-97.872,162
-3897,Big Bend,CA,,city-us,124,41.021,-121.911,8978
-3892,Big Bend,ND,,city-us,32,47.884,-102.584,0
-3889,Big Bend,LA,,city-us,0,31.074,-91.792,165
-3890,Big Bend,CA,,city-us,0,39.698,-121.461,205
-3893,Big Bend,CA,,city-us,0,39.306,-120.518,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3898,Big Bend,WI,Waukesha County,,city-us,1492,42.881,-88.207,5845
+3896,Big Bend,WI,Rusk County,,city-us,404,45.341,-91.341,1939
+3891,Big Bend,MN,Chippewa County,,city-us,253,45.097,-95.792,1818
+3894,Big Bend,ND,Ransom County,,city-us,175,46.406,-97.605,0
+3895,Big Bend,KS,Republic County,,city-us,130,39.952,-97.872,162
+3897,Big Bend,CA,Shasta County,,city-us,124,41.021,-121.911,8978
+3892,Big Bend,ND,Mountrail County,,city-us,32,47.884,-102.584,0
+3889,Big Bend,LA,Avoyelles Parish,,city-us,0,31.074,-91.792,165
+3890,Big Bend,CA,Butte County,,city-us,0,39.698,-121.461,205
+3893,Big Bend,CA,Placer County,,city-us,0,39.306,-120.518,210

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1283,Apple Valley,CA,,city-us,76224,34.501,-117.186,16703
-1280,Apple Valley,MN,,city-us,55638,44.732,-93.218,9645
-1282,Apple Valley,OH,,city-us,5352,40.439,-82.354,427
-1284,Apple Valley,UT,,city-us,894,37.090,-113.124,933
-1279,Apple Valley,ND,,city-us,190,46.822,-100.598,494
-1281,Apple Valley,GA,,city-us,0,34.159,-83.509,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1283,Apple Valley,CA,San Bernardino County,,city-us,76224,34.501,-117.186,16703
+1280,Apple Valley,MN,Dakota County,,city-us,55638,44.732,-93.218,9645
+1282,Apple Valley,OH,Knox County,,city-us,5352,40.439,-82.354,427
+1284,Apple Valley,UT,Washington County,,city-us,894,37.090,-113.124,933
+1279,Apple Valley,ND,Burleigh County,,city-us,190,46.822,-100.598,494
+1281,Apple Valley,GA,Jackson County,,city-us,0,34.159,-83.509,240

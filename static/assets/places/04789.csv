@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24442,Lenora,KS,,city-us,206,39.611,-100.003,3323
-24441,Lenora,ND,,city-us,55,47.637,-98.045,216
-24439,Lenora,OK,,city-us,0,36.041,-99.062,264
-24440,Lenora,MN,,city-us,0,43.572,-91.882,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24442,Lenora,KS,Norton County,,city-us,206,39.611,-100.003,3323
+24441,Lenora,ND,Griggs County,,city-us,55,47.637,-98.045,216
+24439,Lenora,OK,Dewey County,,city-us,0,36.041,-99.062,264
+24440,Lenora,MN,Fillmore County,,city-us,0,43.572,-91.882,231

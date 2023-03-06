@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15840,Fredonia,NY,,city-us,9809,42.440,-79.332,8961
-15849,Fredonia,WI,,city-us,2281,43.471,-87.951,11273
-15851,Fredonia,KS,,city-us,2111,37.534,-95.827,6557
-15838,Fredonia,MI,,city-us,1571,42.199,-85.009,2379
-15841,Fredonia,AZ,,city-us,1322,36.946,-112.527,3205
-15848,Fredonia,PA,,city-us,431,41.322,-80.259,4876
-15837,Fredonia,KY,,city-us,375,37.208,-88.057,2389
-15850,Fredonia,AR,,city-us,301,34.819,-91.410,0
-15846,Fredonia,IA,,city-us,218,41.285,-91.339,3764
-15839,Fredonia,AL,,city-us,198,32.990,-85.289,1734
-15845,Fredonia,ND,,city-us,38,46.329,-99.096,2680
-15842,Fredonia,IN,,city-us,0,38.178,-86.383,718
-15843,Fredonia,TX,,city-us,0,32.404,-94.796,94
-15844,Fredonia,OH,,city-us,0,40.152,-82.520,310
-15847,Fredonia,TX,,city-us,0,30.932,-99.113,1566
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15840,Fredonia,NY,Chautauqua County,,city-us,9809,42.440,-79.332,8961
+15849,Fredonia,WI,Ozaukee County,,city-us,2281,43.471,-87.951,11273
+15851,Fredonia,KS,Wilson County,,city-us,2111,37.534,-95.827,6557
+15838,Fredonia,MI,Calhoun County,,city-us,1571,42.199,-85.009,2379
+15841,Fredonia,AZ,Coconino County,,city-us,1322,36.946,-112.527,3205
+15848,Fredonia,PA,Mercer County,,city-us,431,41.322,-80.259,4876
+15837,Fredonia,KY,Caldwell County,,city-us,375,37.208,-88.057,2389
+15850,Fredonia,AR,Prairie County,,city-us,301,34.819,-91.410,0
+15846,Fredonia,IA,Louisa County,,city-us,218,41.285,-91.339,3764
+15839,Fredonia,AL,Chambers County,,city-us,198,32.990,-85.289,1734
+15845,Fredonia,ND,Logan County,,city-us,38,46.329,-99.096,2680
+15842,Fredonia,IN,Crawford County,,city-us,0,38.178,-86.383,718
+15843,Fredonia,TX,Gregg County,,city-us,0,32.404,-94.796,94
+15844,Fredonia,OH,Licking County,,city-us,0,40.152,-82.520,310
+15847,Fredonia,TX,Mason County,,city-us,0,30.932,-99.113,1566

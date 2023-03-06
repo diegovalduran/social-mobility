@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1558,Arrington,VA,,city-us,953,37.684,-78.901,661
-1559,Arrington,IL,,city-us,310,38.366,-88.527,287
-1557,Arrington,KS,,city-us,0,39.463,-95.536,190
-1560,Arrington,TN,,city-us,0,35.868,-86.710,1851
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1558,Arrington,VA,Nelson County,,city-us,953,37.684,-78.901,661
+1559,Arrington,IL,Wayne County,,city-us,310,38.366,-88.527,287
+1557,Arrington,KS,Atchison County,,city-us,0,39.463,-95.536,190
+1560,Arrington,TN,Williamson County,,city-us,0,35.868,-86.710,1851

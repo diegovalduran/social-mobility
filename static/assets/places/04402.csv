@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22727,Kenney,IL,,city-us,304,40.097,-89.086,2409
-22726,Kenney,TX,,city-us,0,30.048,-96.327,2167
-22731,Kenny,CA,,city-us,0,39.922,-123.899,413
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22727,Kenney,IL,De Witt County,,city-us,304,40.097,-89.086,2409
+22726,Kenney,TX,Austin County,,city-us,0,30.048,-96.327,2167
+22731,Kenny,CA,Mendocino County,,city-us,0,39.922,-123.899,413

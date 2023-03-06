@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17540,Grange Hall,IL,,city-us,0,42.364,-87.963,136
-17541,Grange Hall,OH,,city-us,0,39.633,-83.185,103
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17540,Grange Hall,IL,Lake County,,city-us,0,42.364,-87.963,136
+17541,Grange Hall,OH,Pickaway County,,city-us,0,39.633,-83.185,103

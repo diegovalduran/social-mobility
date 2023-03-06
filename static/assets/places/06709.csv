@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34077,Pinckney,MI,,city-us,2441,42.457,-83.946,4598
-34076,Pinckney,NY,,city-us,319,43.834,-75.789,3043
-34078,Pinckney,MO,,city-us,0,38.679,-91.233,323
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34077,Pinckney,MI,Livingston County,,city-us,2441,42.457,-83.946,4598
+34076,Pinckney,NY,Lewis County,,city-us,319,43.834,-75.789,3043
+34078,Pinckney,MO,Warren County,,city-us,0,38.679,-91.233,323

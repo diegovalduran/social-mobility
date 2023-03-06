@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46537,White House,TN,,city-us,13661,36.465,-86.666,5087
-46535,White House,VA,,city-us,0,37.572,-77.042,749
-46536,White House,VA,,city-us,0,38.647,-78.533,394
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46537,White House,TN,Robertson County / Sumner County,,city-us,13661,36.465,-86.666,5087
+46535,White House,VA,New Kent County,,city-us,0,37.572,-77.042,749
+46536,White House,VA,Page County,,city-us,0,38.647,-78.533,394

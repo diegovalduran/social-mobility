@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6850,Cape Horn,CA,,city-us,0,39.136,-123.635,148
-6851,Cape Horn,CA,,city-us,0,39.129,-120.925,181
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6850,Cape Horn,CA,Mendocino County,,city-us,0,39.136,-123.635,148
+6851,Cape Horn,CA,Placer County,,city-us,0,39.129,-120.925,181

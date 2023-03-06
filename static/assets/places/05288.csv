@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27141,Mary,,Turkmenistan,city-international,208682,37.600,61.833,5353
-28036,Merry,NE,,city-us,66,42.226,-96.596,184
-27140,Mary,MN,,city-us,61,47.188,-96.616,1779
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27141,Mary,,,Turkmenistan,city-international,208682,37.600,61.833,5353
+28036,Merry,NE,Thurston County,,city-us,66,42.226,-96.596,184
+27140,Mary,MN,Norman County,,city-us,61,47.188,-96.616,1779

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6848,Capay,CA,,city-us,0,39.797,-122.084,182
-6849,Capay,CA,,city-us,0,38.708,-122.048,1066
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6848,Capay,CA,Glenn County,,city-us,0,39.797,-122.084,182
+6849,Capay,CA,Yolo County,,city-us,0,38.708,-122.048,1066

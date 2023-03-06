@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6805,Canova,NM,,city-us,545,36.159,-105.985,598
-6803,Canova,SD,,city-us,92,43.881,-97.505,3136
-6804,Canova,VA,,city-us,0,38.677,-77.442,421
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6805,Canova,NM,Rio Arriba County,,city-us,545,36.159,-105.985,598
+6803,Canova,SD,Miner County,,city-us,92,43.881,-97.505,3136
+6804,Canova,VA,Prince William County,,city-us,0,38.677,-77.442,421

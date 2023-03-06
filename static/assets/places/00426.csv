@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2263,Bakerton,TN,,city-us,0,36.513,-85.805,244
-2264,Bakerton,KY,,city-us,0,36.848,-85.334,222
-2265,Bakerton,WV,,city-us,0,39.363,-77.763,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2263,Bakerton,TN,Clay County,,city-us,0,36.513,-85.805,244
+2264,Bakerton,KY,Cumberland County,,city-us,0,36.848,-85.334,222
+2265,Bakerton,WV,Jefferson County,,city-us,0,39.363,-77.763,92

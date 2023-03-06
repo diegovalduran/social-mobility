@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4832,Bowen,IL,,city-us,458,40.233,-91.063,2186
-4835,Bowen,ND,,city-us,62,46.153,-97.695,0
-4833,Bowen,MO,,city-us,0,38.558,-93.591,572
-4834,Bowen,CO,,city-us,0,37.677,-106.350,324
-4836,Bowen,WV,,city-us,0,38.306,-82.343,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4832,Bowen,IL,Hancock County,,city-us,458,40.233,-91.063,2186
+4835,Bowen,ND,Sargent County,,city-us,62,46.153,-97.695,0
+4833,Bowen,MO,Henry County,,city-us,0,38.558,-93.591,572
+4834,Bowen,CO,Rio Grande County,,city-us,0,37.677,-106.350,324
+4836,Bowen,WV,Wayne County,,city-us,0,38.306,-82.343,93

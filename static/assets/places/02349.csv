@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11799,Dillwyn,VA,,city-us,440,37.543,-78.457,2239
-11800,Dillwyn,KS,,city-us,0,37.971,-98.880,381
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11799,Dillwyn,VA,Buckingham County,,city-us,440,37.543,-78.457,2239
+11800,Dillwyn,KS,Stafford County,,city-us,0,37.971,-98.880,381

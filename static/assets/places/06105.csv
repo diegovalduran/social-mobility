@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31233,Noon,OR,,city-us,0,44.545,-123.398,216
-31234,Noon,WA,,city-us,0,48.804,-122.399,276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31233,Noon,OR,Benton County,,city-us,0,44.545,-123.398,216
+31234,Noon,WA,Whatcom County,,city-us,0,48.804,-122.399,276

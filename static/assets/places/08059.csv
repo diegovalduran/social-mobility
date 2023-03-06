@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40733,Spring Mills,NJ,,city-us,5291,40.598,-75.124,10798
-40732,Spring Mills,PA,,city-us,385,40.853,-77.567,2014
-40730,Spring Mills,VA,,city-us,0,37.245,-78.919,218
-40731,Spring Mills,WV,,city-us,0,39.558,-77.954,148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40733,Spring Mills,NJ,Hunterdon County,,city-us,5291,40.598,-75.124,10798
+40732,Spring Mills,PA,Centre County,,city-us,385,40.853,-77.567,2014
+40730,Spring Mills,VA,Appomattox County,,city-us,0,37.245,-78.919,218
+40731,Spring Mills,WV,Berkeley County,,city-us,0,39.558,-77.954,148

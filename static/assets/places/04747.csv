@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24220,Leaf River,MN,,city-us,486,46.500,-95.093,1832
-24219,Leaf River,IL,,city-us,427,42.126,-89.404,1944
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24220,Leaf River,MN,Wadena County,,city-us,486,46.500,-95.093,1832
+24219,Leaf River,IL,Ogle County,,city-us,427,42.126,-89.404,1944

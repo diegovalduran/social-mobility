@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15436,Fort Defiance,AZ,,city-us,3723,35.744,-109.076,4990
-15437,Fort Defiance,VA,,city-us,780,38.240,-78.972,1127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15436,Fort Defiance,AZ,Apache County,,city-us,3723,35.744,-109.076,4990
+15437,Fort Defiance,VA,Augusta County,,city-us,780,38.240,-78.972,1127

@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38788,Savannah,GA,,city-us,147088,32.084,-81.100,41679
-38790,Savannah,TN,,city-us,7190,35.225,-88.249,4767
-38789,Savannah,TX,,city-us,6565,33.226,-96.908,1294
-38784,Savannah,MO,,city-us,5048,39.942,-94.830,4387
-38782,Savanna,IL,,city-us,3589,42.081,-90.144,2800
-38783,Savanna,OK,,city-us,618,34.829,-95.844,3725
-38792,Savannah,NY,,city-us,556,43.067,-76.760,5096
-38787,Savannah,NE,,city-us,549,41.346,-97.197,297
-38785,Savannah,OH,,city-us,319,40.965,-82.365,3201
-38786,Savannah,MN,,city-us,179,47.116,-95.264,2801
-38791,Savannah,NC,,city-us,0,35.319,-83.263,4901
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38788,Savannah,GA,Chatham County,,city-us,147088,32.084,-81.100,41679
+38790,Savannah,TN,Hardin County,,city-us,7190,35.225,-88.249,4767
+38789,Savannah,TX,Denton County,,city-us,6565,33.226,-96.908,1294
+38784,Savannah,MO,Andrew County,,city-us,5048,39.942,-94.830,4387
+38782,Savanna,IL,Carroll County,,city-us,3589,42.081,-90.144,2800
+38783,Savanna,OK,Pittsburg County,,city-us,618,34.829,-95.844,3725
+38792,Savannah,NY,Wayne County,,city-us,556,43.067,-76.760,5096
+38787,Savannah,NE,Butler County,,city-us,549,41.346,-97.197,297
+38785,Savannah,OH,Ashland County,,city-us,319,40.965,-82.365,3201
+38786,Savannah,MN,Becker County,,city-us,179,47.116,-95.264,2801
+38791,Savannah,NC,Jackson County,,city-us,0,35.319,-83.263,4901

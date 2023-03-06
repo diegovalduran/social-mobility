@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15780,Franklinville,NY,,city-us,2782,42.304,-78.498,7144
-15781,Franklinville,NJ,,city-us,1927,39.618,-75.076,1492
-15784,Franklinville,NC,,city-us,1211,35.744,-79.692,2065
-15779,Franklinville,MD,,city-us,0,39.448,-76.385,267
-15782,Franklinville,GA,,city-us,0,30.982,-83.283,154
-15783,Franklinville,IL,,city-us,0,42.277,-88.511,1076
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15780,Franklinville,NY,Cattaraugus County,,city-us,2782,42.304,-78.498,7144
+15781,Franklinville,NJ,Gloucester County,,city-us,1927,39.618,-75.076,1492
+15784,Franklinville,NC,Randolph County,,city-us,1211,35.744,-79.692,2065
+15779,Franklinville,MD,Baltimore County,,city-us,0,39.448,-76.385,267
+15782,Franklinville,GA,Lowndes County,,city-us,0,30.982,-83.283,154
+15783,Franklinville,IL,McHenry County,,city-us,0,42.277,-88.511,1076

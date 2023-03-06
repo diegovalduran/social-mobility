@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22670,Kempton,IN,,city-us,286,40.288,-86.230,3944
-22668,Kempton,IL,,city-us,175,40.936,-88.237,2328
-22667,Kempton,PA,,city-us,129,40.626,-75.852,806
-22669,Kempton,ND,,city-us,0,47.819,-97.614,265
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22670,Kempton,IN,Tipton County,,city-us,286,40.288,-86.230,3944
+22668,Kempton,IL,Ford County,,city-us,175,40.936,-88.237,2328
+22667,Kempton,PA,Berks County,,city-us,129,40.626,-75.852,806
+22669,Kempton,ND,Grand Forks County,,city-us,0,47.819,-97.614,265

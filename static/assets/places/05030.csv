@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25818,Louisville,KY,,city-us,760026,38.254,-85.759,61131
-25813,Louisville,CO,,city-us,20975,39.978,-105.132,7581
-25824,Louisville,OH,,city-us,9500,40.837,-81.260,9064
-25825,Louisville,MS,,city-us,6008,33.124,-89.055,5536
-25812,Louisville,TN,,city-us,4388,35.822,-84.048,3218
-25823,Louisville,NY,,city-us,3043,44.908,-75.012,4285
-25817,Louisville,GA,,city-us,2361,33.002,-82.411,5971
-25816,Louisville,IL,,city-us,1685,38.783,-88.530,922
-25814,Louisville,NE,,city-us,1357,40.998,-96.162,3644
-25822,Louisville,MN,,city-us,1357,44.745,-93.574,225
-25811,Louisville,AL,,city-us,391,31.784,-85.556,2049
-25821,Louisville,MN,,city-us,170,47.892,-96.421,225
-25820,Louisville,KS,,city-us,136,39.250,-96.315,5650
-25810,Louisville,OH,,city-us,0,38.993,-83.464,260
-25815,Louisville,MO,,city-us,0,39.242,-92.844,184
-25819,Louisville,MO,,city-us,0,39.200,-91.175,275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25818,Louisville,KY,Jefferson County,,city-us,760026,38.254,-85.759,61131
+25813,Louisville,CO,Boulder County,,city-us,20975,39.978,-105.132,7581
+25824,Louisville,OH,Stark County,,city-us,9500,40.837,-81.260,9064
+25825,Louisville,MS,Winston County,,city-us,6008,33.124,-89.055,5536
+25812,Louisville,TN,Blount County,,city-us,4388,35.822,-84.048,3218
+25823,Louisville,NY,St. Lawrence County,,city-us,3043,44.908,-75.012,4285
+25817,Louisville,GA,Jefferson County,,city-us,2361,33.002,-82.411,5971
+25816,Louisville,IL,Clay County,,city-us,1685,38.783,-88.530,922
+25814,Louisville,NE,Cass County,,city-us,1357,40.998,-96.162,3644
+25822,Louisville,MN,Scott County,,city-us,1357,44.745,-93.574,225
+25811,Louisville,AL,Barbour County,,city-us,391,31.784,-85.556,2049
+25821,Louisville,MN,Red Lake County,,city-us,170,47.892,-96.421,225
+25820,Louisville,KS,Pottawatomie County,,city-us,136,39.250,-96.315,5650
+25810,Louisville,OH,Adams County,,city-us,0,38.993,-83.464,260
+25815,Louisville,MO,Chariton County,,city-us,0,39.242,-92.844,184
+25819,Louisville,MO,Lincoln County,,city-us,0,39.200,-91.175,275

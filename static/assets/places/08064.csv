@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40766,Springbrook,IA,,city-us,145,42.164,-90.477,3188
-40768,Springbrook,ND,,city-us,31,48.253,-103.459,2946
-40767,Springbrook,WI,,city-us,0,45.949,-91.688,2006
-40769,Springbrook,OR,,city-us,0,45.318,-122.944,2090
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40766,Springbrook,IA,Jackson County,,city-us,145,42.164,-90.477,3188
+40768,Springbrook,ND,Williams County,,city-us,31,48.253,-103.459,2946
+40767,Springbrook,WI,Washburn County,,city-us,0,45.949,-91.688,2006
+40769,Springbrook,OR,Yamhill County,,city-us,0,45.318,-122.944,2090

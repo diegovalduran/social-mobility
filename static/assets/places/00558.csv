@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2825,Beagle,KY,,city-us,0,38.901,-84.255,84
-2826,Beagle,OR,,city-us,0,42.534,-122.925,370
-2827,Beagle,KS,,city-us,0,38.418,-94.955,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2825,Beagle,KY,Campbell County,,city-us,0,38.901,-84.255,84
+2826,Beagle,OR,Jackson County,,city-us,0,42.534,-122.925,370
+2827,Beagle,KS,Miami County,,city-us,0,38.418,-94.955,201

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47757,Worley,ID,,city-us,255,47.401,-116.917,3780
-45933,Werley,WI,,city-us,0,43.019,-90.765,516
-47758,Worley,KY,,city-us,0,36.699,-84.534,130
-47759,Worley,WV,,city-us,0,39.707,-80.148,255
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47757,Worley,ID,Kootenai County,,city-us,255,47.401,-116.917,3780
+45933,Werley,WI,Grant County,,city-us,0,43.019,-90.765,516
+47758,Worley,KY,McCreary County,,city-us,0,36.699,-84.534,130
+47759,Worley,WV,Monongalia County,,city-us,0,39.707,-80.148,255

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1744,Astoria,OR,,city-us,10343,46.188,-123.831,24218
-1746,Astoria,IL,,city-us,897,40.228,-90.360,1887
-1745,Astoria,SD,,city-us,132,44.558,-96.547,3031
-1747,Astoria,MO,,city-us,0,37.380,-92.289,488
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1744,Astoria,OR,Clatsop County,,city-us,10343,46.188,-123.831,24218
+1746,Astoria,IL,Fulton County,,city-us,897,40.228,-90.360,1887
+1745,Astoria,SD,Deuel County,,city-us,132,44.558,-96.547,3031
+1747,Astoria,MO,Wright County,,city-us,0,37.380,-92.289,488

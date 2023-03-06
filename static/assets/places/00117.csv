@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-593,Alhambra,CA,,city-us,81211,34.095,-118.127,13029
-594,Alhambra,IL,,city-us,582,38.888,-89.731,2384
-592,Alhambra,LA,,city-us,0,30.177,-91.123,645
+id,name,state,county,country,level,population,latitude,longitude,wiki
+593,Alhambra,CA,Los Angeles County,,city-us,81211,34.095,-118.127,13029
+594,Alhambra,IL,Madison County,,city-us,582,38.888,-89.731,2384
+592,Alhambra,LA,Iberville Parish,,city-us,0,30.177,-91.123,645

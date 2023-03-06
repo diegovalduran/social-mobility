@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11811,Dinsmore,OH,,city-us,3371,40.435,-84.158,1332
-11564,Densmore,KS,,city-us,0,39.638,-99.739,594
-11810,Dinsmore,CA,,city-us,0,40.492,-123.607,530
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11811,Dinsmore,OH,Shelby County,,city-us,3371,40.435,-84.158,1332
+11564,Densmore,KS,Norton County,,city-us,0,39.638,-99.739,594
+11810,Dinsmore,CA,Humboldt County,,city-us,0,40.492,-123.607,530

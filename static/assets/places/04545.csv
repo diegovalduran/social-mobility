@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23317,La Belle,MO,,city-us,665,40.117,-91.913,4521
-23318,La Belle,SD,,city-us,58,45.879,-97.410,0
-23315,La Belle,PA,,city-us,0,40.008,-79.979,220
-23316,La Belle,TX,,city-us,0,29.880,-94.161,1619
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23317,La Belle,MO,Lewis County,,city-us,665,40.117,-91.913,4521
+23318,La Belle,SD,Marshall County,,city-us,58,45.879,-97.410,0
+23315,La Belle,PA,Fayette County,,city-us,0,40.008,-79.979,220
+23316,La Belle,TX,Jefferson County,,city-us,0,29.880,-94.161,1619

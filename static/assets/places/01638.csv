@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8310,Chippewa,OH,,city-us,9827,40.944,-81.704,1395
-8306,Chippewa,PA,,city-us,7953,40.761,-80.379,2891
-8308,Chippewa,MI,,city-us,4615,43.590,-84.658,260
-8309,Chippewa,MI,,city-us,1169,43.777,-85.256,260
-8305,Chippewa,WI,,city-us,354,46.028,-90.701,1879
-8307,Chippewa,MI,,city-us,193,46.354,-85.004,260
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8310,Chippewa,OH,Wayne County,,city-us,9827,40.944,-81.704,1395
+8306,Chippewa,PA,Beaver County,,city-us,7953,40.761,-80.379,2891
+8308,Chippewa,MI,Isabella County,,city-us,4615,43.590,-84.658,260
+8309,Chippewa,MI,Mecosta County,,city-us,1169,43.777,-85.256,260
+8305,Chippewa,WI,Ashland County,,city-us,354,46.028,-90.701,1879
+8307,Chippewa,MI,Chippewa County,,city-us,193,46.354,-85.004,260

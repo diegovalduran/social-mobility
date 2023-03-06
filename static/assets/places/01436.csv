@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7223,Cassandra,PA,,city-us,161,40.409,-78.641,3359
-7224,Cassandra,GA,,city-us,0,34.784,-85.398,371
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7223,Cassandra,PA,Cambria County,,city-us,161,40.409,-78.641,3359
+7224,Cassandra,GA,Walker County,,city-us,0,34.784,-85.398,371

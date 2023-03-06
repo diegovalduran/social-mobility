@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39806,Sikes,LA,,city-us,111,32.081,-92.487,2178
-39805,Sikes,ND,,city-us,96,48.151,-102.386,84
-42339,Sykes,MS,,city-us,0,32.094,-88.592,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39806,Sikes,LA,Winn Parish,,city-us,111,32.081,-92.487,2178
+39805,Sikes,ND,Mountrail County,,city-us,96,48.151,-102.386,84
+42339,Sykes,MS,Clarke County,,city-us,0,32.094,-88.592,225

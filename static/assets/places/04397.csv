@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22707,Kennebec,SD,,city-us,297,43.904,-99.862,4140
-22708,Kennebec,NC,,city-us,0,35.540,-78.747,467
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22707,Kennebec,SD,Lyman County,,city-us,297,43.904,-99.862,4140
+22708,Kennebec,NC,Wake County,,city-us,0,35.540,-78.747,467

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36076,Red Hill,NJ,,city-us,67106,40.405,-74.071,32958
-36072,Red Hill,SC,,city-us,16060,33.778,-79.015,2436
-36077,Red Hill,PA,,city-us,2494,40.373,-75.481,2986
-36071,Red Hill,PA,,city-us,165,40.530,-78.435,374
-36070,Red Hill,KY,,city-us,0,36.741,-86.299,92
-36073,Red Hill,IN,,city-us,0,38.933,-86.598,162
-36074,Red Hill,AL,,city-us,0,34.256,-86.424,823
-36075,Red Hill,NC,,city-us,0,36.022,-82.228,1008
-36078,Red Hill,KY,,city-us,0,37.351,-83.341,91
-36079,Red Hill,WV,,city-us,0,39.248,-81.474,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36076,Red Hill,NJ,Monmouth County,,city-us,67106,40.405,-74.071,32958
+36072,Red Hill,SC,Horry County,,city-us,16060,33.778,-79.015,2436
+36077,Red Hill,PA,Montgomery County,,city-us,2494,40.373,-75.481,2986
+36071,Red Hill,PA,Blair County,,city-us,165,40.530,-78.435,374
+36070,Red Hill,KY,Allen County,,city-us,0,36.741,-86.299,92
+36073,Red Hill,IN,Lawrence County,,city-us,0,38.933,-86.598,162
+36074,Red Hill,AL,Marshall County,,city-us,0,34.256,-86.424,823
+36075,Red Hill,NC,Mitchell County,,city-us,0,36.022,-82.228,1008
+36078,Red Hill,KY,Perry County,,city-us,0,37.351,-83.341,91
+36079,Red Hill,WV,Wood County,,city-us,0,39.248,-81.474,87

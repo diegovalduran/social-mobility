@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19163,Hartman,AR,,city-us,515,35.433,-93.615,2038
-19164,Hartman,CO,,city-us,55,38.120,-102.220,2424
-19165,Hartman,NC,,city-us,0,36.422,-80.172,129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19163,Hartman,AR,Johnson County,,city-us,515,35.433,-93.615,2038
+19164,Hartman,CO,Prowers County,,city-us,55,38.120,-102.220,2424
+19165,Hartman,NC,Stokes County,,city-us,0,36.422,-80.172,129

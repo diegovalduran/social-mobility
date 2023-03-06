@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40680,Spring Grove,IL,,city-us,5511,42.444,-88.236,3091
-40686,Spring Grove,PA,,city-us,2373,39.875,-76.866,4834
-40678,Spring Grove,WI,,city-us,1258,43.815,-88.941,2262
-40684,Spring Grove,IL,,city-us,949,41.015,-90.620,423
-40677,Spring Grove,WI,,city-us,925,42.549,-89.425,2142
-40685,Spring Grove,IN,,city-us,344,39.848,-84.894,2974
-40679,Spring Grove,MN,,city-us,342,43.540,-91.684,1846
-40682,Spring Grove,SD,,city-us,139,45.432,-97.024,0
-40681,Spring Grove,ND,,city-us,38,47.893,-100.391,0
-40675,Spring Grove,FL,,city-us,0,29.454,-82.106,1010
-40676,Spring Grove,MO,,city-us,0,37.552,-93.038,414
-40683,Spring Grove,VA,,city-us,0,37.166,-76.973,368
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40680,Spring Grove,IL,McHenry County,,city-us,5511,42.444,-88.236,3091
+40686,Spring Grove,PA,York County,,city-us,2373,39.875,-76.866,4834
+40678,Spring Grove,WI,Green Lake County,,city-us,1258,43.815,-88.941,2262
+40684,Spring Grove,IL,Warren County,,city-us,949,41.015,-90.620,423
+40677,Spring Grove,WI,Green County,,city-us,925,42.549,-89.425,2142
+40685,Spring Grove,IN,Wayne County,,city-us,344,39.848,-84.894,2974
+40679,Spring Grove,MN,Houston County,,city-us,342,43.540,-91.684,1846
+40682,Spring Grove,SD,Roberts County,,city-us,139,45.432,-97.024,0
+40681,Spring Grove,ND,McHenry County,,city-us,38,47.893,-100.391,0
+40675,Spring Grove,FL,Alachua County,,city-us,0,29.454,-82.106,1010
+40676,Spring Grove,MO,Dallas County,,city-us,0,37.552,-93.038,414
+40683,Spring Grove,VA,Surry County,,city-us,0,37.166,-76.973,368

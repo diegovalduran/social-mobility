@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34101,Pine Brook,NJ,,city-us,19181,40.266,-74.096,20253
-34102,Pine Brook,NJ,,city-us,5675,40.860,-74.341,4814
-34100,Pine Brook,MN,,city-us,0,45.587,-93.389,466
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34101,Pine Brook,NJ,Monmouth County,,city-us,19181,40.266,-74.096,20253
+34102,Pine Brook,NJ,Morris County,,city-us,5675,40.860,-74.341,4814
+34100,Pine Brook,MN,Isanti County,,city-us,0,45.587,-93.389,466

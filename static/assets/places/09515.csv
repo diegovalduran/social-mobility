@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48114,Zearing,IA,,city-us,539,42.161,-93.297,5661
-48113,Zearing,IL,,city-us,0,41.446,-89.317,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48114,Zearing,IA,Story County,,city-us,539,42.161,-93.297,5661
+48113,Zearing,IL,Bureau County,,city-us,0,41.446,-89.317,252

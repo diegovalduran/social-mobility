@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33234,Parrott,VA,,city-us,203,37.205,-80.616,613
-33235,Parrott,GA,,city-us,114,31.893,-84.513,2729
-33232,Parrot,KY,,city-us,0,37.319,-84.059,457
-33233,Parrott,OH,,city-us,0,39.614,-83.532,265
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33234,Parrott,VA,Pulaski County,,city-us,203,37.205,-80.616,613
+33235,Parrott,GA,Terrell County,,city-us,114,31.893,-84.513,2729
+33232,Parrot,KY,Jackson County,,city-us,0,37.319,-84.059,457
+33233,Parrott,OH,Fayette County,,city-us,0,39.614,-83.532,265

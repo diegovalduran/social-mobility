@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46166,Westerly,RI,,city-us,23483,41.323,-71.802,9651
-46165,Westerly,WV,,city-us,0,37.992,-81.321,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46166,Westerly,RI,Washington County,,city-us,23483,41.323,-71.802,9651
+46165,Westerly,WV,Fayette County,,city-us,0,37.992,-81.321,136

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42988,Tinicum,PA,,city-us,3954,39.865,-75.253,3964
-42987,Tinicum,PA,,city-us,3816,40.486,-75.096,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42988,Tinicum,PA,Delaware County,,city-us,3954,39.865,-75.253,3964
+42987,Tinicum,PA,Bucks County,,city-us,3816,40.486,-75.096,147

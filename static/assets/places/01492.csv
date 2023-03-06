@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7482,Cedar Run,NJ,,city-us,28617,39.706,-74.264,17194
-7481,Cedar Run,PA,,city-us,0,41.523,-77.446,1970
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7482,Cedar Run,NJ,Ocean County,,city-us,28617,39.706,-74.264,17194
+7481,Cedar Run,PA,Lycoming County,,city-us,0,41.523,-77.446,1970

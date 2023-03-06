@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25314,Lleida,,Spain,city-international,140080,41.617,0.633,15643
-24832,Lida,,Belarus,city-international,103391,53.887,25.303,12274
-24831,Lida,MN,,city-us,773,46.565,-95.969,1845
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25314,Lleida,,,Spain,city-international,140080,41.617,0.633,15643
+24832,Lida,,,Belarus,city-international,103391,53.887,25.303,12274
+24831,Lida,MN,Otter Tail County,,city-us,773,46.565,-95.969,1845

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25757,Los Ebanos,TX,,city-us,666,26.411,-98.919,488
-25756,Los Ebanos,TX,,city-us,42,26.243,-98.562,2680
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25757,Los Ebanos,TX,Starr County,,city-us,666,26.411,-98.919,488
+25756,Los Ebanos,TX,Hidalgo County,,city-us,42,26.243,-98.562,2680

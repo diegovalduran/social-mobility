@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17382,Gradyville,KY,,city-us,0,37.063,-85.422,1113
-17383,Gradyville,PA,,city-us,0,39.943,-75.469,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17382,Gradyville,KY,Adair County,,city-us,0,37.063,-85.422,1113
+17383,Gradyville,PA,Delaware County,,city-us,0,39.943,-75.469,201

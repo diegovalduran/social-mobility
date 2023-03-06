@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21531,Ireland,,,country,5323991,53.413,-8.244,87373
-21529,Ireland,IN,,city-us,0,38.415,-86.999,1066
-21530,Ireland,WV,,city-us,0,38.816,-80.462,481
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21531,Ireland,,,,country,5323991,53.413,-8.244,87373
+21529,Ireland,IN,Dubois County,,city-us,0,38.415,-86.999,1066
+21530,Ireland,WV,Lewis County,,city-us,0,38.816,-80.462,481

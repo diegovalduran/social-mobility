@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42963,Tilton,NH,,city-us,4044,43.471,-71.576,5310
-42966,Tilton,IL,,city-us,2616,40.095,-87.648,2368
-42964,Tilton,KY,,city-us,0,38.346,-83.760,234
-42965,Tilton,IA,,city-us,0,41.510,-92.353,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42963,Tilton,NH,Belknap County,,city-us,4044,43.471,-71.576,5310
+42966,Tilton,IL,Vermilion County,,city-us,2616,40.095,-87.648,2368
+42964,Tilton,KY,Fleming County,,city-us,0,38.346,-83.760,234
+42965,Tilton,IA,Keokuk County,,city-us,0,41.510,-92.353,264

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31152,Nile,OH,,city-us,2343,38.703,-83.177,1636
-31153,Nile,MO,,city-us,0,37.360,-91.666,551
-31154,Nile,WA,,city-us,0,46.821,-120.940,745
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31152,Nile,OH,Scioto County,,city-us,2343,38.703,-83.177,1636
+31153,Nile,MO,Texas County,,city-us,0,37.360,-91.666,551
+31154,Nile,WA,Yakima County,,city-us,0,46.821,-120.940,745

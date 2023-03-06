@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38300,Salida,CA,,city-us,14690,37.706,-121.085,7998
-38298,Salida,CO,,city-us,5812,38.535,-105.999,4618
-38299,Salida,MN,,city-us,0,45.357,-93.819,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38300,Salida,CA,Stanislaus County,,city-us,14690,37.706,-121.085,7998
+38298,Salida,CO,Chaffee County,,city-us,5812,38.535,-105.999,4618
+38299,Salida,MN,Sherburne County,,city-us,0,45.357,-93.819,229

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10183,Coy,AR,,city-us,84,34.539,-91.874,2216
-10184,Coy,MO,,city-us,0,36.661,-94.532,438
-10185,Coy,AL,,city-us,0,31.895,-87.463,479
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10183,Coy,AR,Lonoke County,,city-us,84,34.539,-91.874,2216
+10184,Coy,MO,McDonald County,,city-us,0,36.661,-94.532,438
+10185,Coy,AL,Wilcox County,,city-us,0,31.895,-87.463,479

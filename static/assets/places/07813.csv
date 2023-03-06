@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39630,Sherwood,AR,,city-us,33020,34.815,-92.224,16062
-39633,Sherwood,OR,,city-us,20254,45.357,-122.840,8602
-39628,Sherwood,OH,,city-us,3485,39.085,-84.361,1766
-39622,Sherwood,WI,,city-us,3231,44.174,-88.260,3335
-39625,Sherwood,OH,,city-us,801,41.287,-84.554,3389
-39620,Sherwood,MI,,city-us,284,42.001,-85.239,3116
-39631,Sherwood,ND,,city-us,187,48.960,-101.633,5967
-39627,Sherwood,TN,,city-us,122,35.076,-85.923,5344
-39621,Sherwood,IA,,city-us,0,42.359,-94.727,243
-39623,Sherwood,MS,,city-us,0,33.488,-89.134,196
-39624,Sherwood,WI,,city-us,0,44.468,-90.356,1875
-39626,Sherwood,WV,,city-us,0,39.279,-80.677,113
-39629,Sherwood,OK,,city-us,0,34.331,-94.778,240
-39632,Sherwood,MD,,city-us,0,38.761,-76.319,375
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39630,Sherwood,AR,Pulaski County,,city-us,33020,34.815,-92.224,16062
+39633,Sherwood,OR,Washington County,,city-us,20254,45.357,-122.840,8602
+39628,Sherwood,OH,Hamilton County,,city-us,3485,39.085,-84.361,1766
+39622,Sherwood,WI,Calumet County,,city-us,3231,44.174,-88.260,3335
+39625,Sherwood,OH,Defiance County,,city-us,801,41.287,-84.554,3389
+39620,Sherwood,MI,Branch County,,city-us,284,42.001,-85.239,3116
+39631,Sherwood,ND,Renville County,,city-us,187,48.960,-101.633,5967
+39627,Sherwood,TN,Franklin County,,city-us,122,35.076,-85.923,5344
+39621,Sherwood,IA,Calhoun County,,city-us,0,42.359,-94.727,243
+39623,Sherwood,MS,Choctaw County,,city-us,0,33.488,-89.134,196
+39624,Sherwood,WI,Clark County,,city-us,0,44.468,-90.356,1875
+39626,Sherwood,WV,Doddridge County,,city-us,0,39.279,-80.677,113
+39629,Sherwood,OK,McCurtain County,,city-us,0,34.331,-94.778,240
+39632,Sherwood,MD,Talbot County,,city-us,0,38.761,-76.319,375

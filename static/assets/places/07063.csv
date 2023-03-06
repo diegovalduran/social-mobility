@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35831,Rand,WV,,city-us,899,38.283,-81.562,1453
-35830,Rand,CO,,city-us,0,40.454,-106.179,712
-35832,Rand,TX,,city-us,0,32.539,-96.176,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35831,Rand,WV,Kanawha County,,city-us,899,38.283,-81.562,1453
+35830,Rand,CO,Jackson County,,city-us,0,40.454,-106.179,712
+35832,Rand,TX,Kaufman County,,city-us,0,32.539,-96.176,92

@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27801,Medina,,Saudi Arabia,city-international,1180770,24.467,39.600,43196
-27798,Medina,IL,,city-us,13900,40.846,-89.585,713
-27795,Medina,OH,,city-us,9246,41.178,-81.823,2585
-27791,Medina,MN,,city-us,6809,45.035,-93.582,5195
-27796,Medina,NY,,city-us,5996,43.220,-78.387,18508
-27790,Medina,TN,,city-us,5234,35.803,-88.775,2688
-27800,Medina,TX,,city-us,5004,26.921,-99.259,2042
-27793,Medina,WA,,city-us,2886,47.621,-122.228,10528
-27789,Medina,WI,,city-us,1339,43.156,-89.064,2172
-27794,Medina,MI,,city-us,1109,41.762,-84.295,3683
-27788,Medina,TX,,city-us,515,29.797,-99.246,2715
-27799,Medina,ND,,city-us,270,46.894,-99.300,3712
-27792,Medina,WV,,city-us,0,38.999,-81.628,88
-27797,Medina,WI,,city-us,0,44.273,-88.638,1341
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27801,Medina,,,Saudi Arabia,city-international,1180770,24.467,39.600,43196
+27798,Medina,IL,Peoria County,,city-us,13900,40.846,-89.585,713
+27795,Medina,OH,Medina County,,city-us,9246,41.178,-81.823,2585
+27791,Medina,MN,Hennepin County,,city-us,6809,45.035,-93.582,5195
+27796,Medina,NY,Orleans County,,city-us,5996,43.220,-78.387,18508
+27790,Medina,TN,Gibson County,,city-us,5234,35.803,-88.775,2688
+27800,Medina,TX,Zapata County,,city-us,5004,26.921,-99.259,2042
+27793,Medina,WA,King County,,city-us,2886,47.621,-122.228,10528
+27789,Medina,WI,Dane County,,city-us,1339,43.156,-89.064,2172
+27794,Medina,MI,Lenawee County,,city-us,1109,41.762,-84.295,3683
+27788,Medina,TX,Bandera County,,city-us,515,29.797,-99.246,2715
+27799,Medina,ND,Stutsman County,,city-us,270,46.894,-99.300,3712
+27792,Medina,WV,Jackson County,,city-us,0,38.999,-81.628,88
+27797,Medina,WI,Outagamie County,,city-us,0,44.273,-88.638,1341

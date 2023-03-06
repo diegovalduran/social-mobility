@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22269,Joiner,AR,,city-us,486,35.508,-90.147,2552
-22390,Joyner,TN,,city-us,0,36.066,-84.456,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22269,Joiner,AR,Mississippi County,,city-us,486,35.508,-90.147,2552
+22390,Joyner,TN,Morgan County,,city-us,0,36.066,-84.456,273

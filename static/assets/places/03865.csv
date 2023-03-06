@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19806,Hesston,KS,,city-us,3495,38.138,-97.431,10673
-19807,Hesston,PA,,city-us,0,40.427,-78.117,2887
-19808,Hesston,IN,,city-us,0,41.753,-86.661,924
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19806,Hesston,KS,Harvey County,,city-us,3495,38.138,-97.431,10673
+19807,Hesston,PA,Huntingdon County,,city-us,0,40.427,-78.117,2887
+19808,Hesston,IN,LaPorte County,,city-us,0,41.753,-86.661,924

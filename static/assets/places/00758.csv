@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3952,Big Sandy,TX,,city-us,1263,32.584,-95.109,8051
-3950,Big Sandy,MT,,city-us,596,48.179,-110.112,5995
-3949,Big Sandy,TN,,city-us,483,36.235,-88.085,2003
-3951,Big Sandy,WV,,city-us,0,37.464,-81.698,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3952,Big Sandy,TX,Upshur County,,city-us,1263,32.584,-95.109,8051
+3950,Big Sandy,MT,Chouteau County,,city-us,596,48.179,-110.112,5995
+3949,Big Sandy,TN,Benton County,,city-us,483,36.235,-88.085,2003
+3951,Big Sandy,WV,McDowell County,,city-us,0,37.464,-81.698,329

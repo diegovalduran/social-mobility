@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38122,Saddlebrooke,AZ,,city-us,12574,32.540,-110.856,1028
-38121,Saddlebrooke,MO,,city-us,316,36.826,-93.203,1683
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38122,Saddlebrooke,AZ,Pinal County,,city-us,12574,32.540,-110.856,1028
+38121,Saddlebrooke,MO,Christian County / Taney County,,city-us,316,36.826,-93.203,1683

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14865,Field,IL,,city-us,1490,38.432,-88.867,1181
-14867,Field,MN,,city-us,349,47.870,-92.772,3690
-14866,Field,ND,,city-us,32,47.796,-98.065,0
-14864,Field,KY,,city-us,0,36.893,-83.602,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14865,Field,IL,Jefferson County,,city-us,1490,38.432,-88.867,1181
+14867,Field,MN,St. Louis County,,city-us,349,47.870,-92.772,3690
+14866,Field,ND,Nelson County,,city-us,32,47.796,-98.065,0
+14864,Field,KY,Bell County,,city-us,0,36.893,-83.602,87

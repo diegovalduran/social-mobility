@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10641,Cullom,IL,,city-us,506,40.878,-88.269,6727
-10642,Cullum,MS,,city-us,0,32.641,-88.608,186
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10641,Cullom,IL,Livingston County,,city-us,506,40.878,-88.269,6727
+10642,Cullum,MS,Kemper County,,city-us,0,32.641,-88.608,186

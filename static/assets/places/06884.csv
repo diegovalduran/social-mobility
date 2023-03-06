@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35006,Port Williams,KS,,city-us,0,39.456,-95.033,275
-35007,Port Williams,WA,,city-us,0,48.097,-123.046,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35006,Port Williams,KS,Atchison County,,city-us,0,39.456,-95.033,275
+35007,Port Williams,WA,Clallam County,,city-us,0,48.097,-123.046,257

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11395,Delano,CA,,city-us,52173,35.769,-119.247,11979
-11399,Delano,MN,,city-us,6638,45.042,-93.789,6371
-11397,Delano,TN,,city-us,777,35.265,-84.553,501
-11396,Delano,TN,,city-us,752,35.256,-84.562,501
-11398,Delano,PA,,city-us,410,40.854,-76.054,1943
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11395,Delano,CA,Kern County,,city-us,52173,35.769,-119.247,11979
+11399,Delano,MN,Wright County,,city-us,6638,45.042,-93.789,6371
+11397,Delano,TN,Polk County,,city-us,777,35.265,-84.553,501
+11396,Delano,TN,McMinn County / Polk County,,city-us,752,35.256,-84.562,501
+11398,Delano,PA,Schuylkill County,,city-us,410,40.854,-76.054,1943

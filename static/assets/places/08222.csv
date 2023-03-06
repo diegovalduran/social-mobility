@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41594,Stoneville,NC,,city-us,1312,36.467,-79.907,3946
-41595,Stoneville,MS,,city-us,39,33.424,-90.915,926
-41593,Stoneville,SD,,city-us,0,44.734,-102.655,364
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41594,Stoneville,NC,Rockingham County,,city-us,1312,36.467,-79.907,3946
+41595,Stoneville,MS,Washington County,,city-us,39,33.424,-90.915,926
+41593,Stoneville,SD,Meade County,,city-us,0,44.734,-102.655,364

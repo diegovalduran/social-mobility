@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11262,Decker,MI,,city-us,981,43.466,-83.055,1944
-11261,Decker,IL,,city-us,414,38.635,-88.214,471
-11259,Decker,IN,,city-us,200,38.519,-87.523,3241
-11258,Decker,MT,,city-us,76,45.012,-106.863,649
-11260,Decker,WI,,city-us,0,43.471,-87.862,172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11262,Decker,MI,Sanilac County,,city-us,981,43.466,-83.055,1944
+11261,Decker,IL,Richland County,,city-us,414,38.635,-88.214,471
+11259,Decker,IN,Knox County,,city-us,200,38.519,-87.523,3241
+11258,Decker,MT,Big Horn County,,city-us,76,45.012,-106.863,649
+11260,Decker,WI,Ozaukee County,,city-us,0,43.471,-87.862,172

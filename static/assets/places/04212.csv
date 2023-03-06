@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21628,Island Grove,NE,,city-us,68,40.126,-96.514,282
-21627,Island Grove,FL,,city-us,0,29.454,-82.106,594
-21629,Island Grove,IL,,city-us,0,39.102,-88.335,181
-21630,Island Grove,IL,,city-us,0,39.724,-89.961,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21628,Island Grove,NE,Gage County,,city-us,68,40.126,-96.514,282
+21627,Island Grove,FL,Alachua County,,city-us,0,29.454,-82.106,594
+21629,Island Grove,IL,Jasper County,,city-us,0,39.102,-88.335,181
+21630,Island Grove,IL,Sangamon County,,city-us,0,39.724,-89.961,198

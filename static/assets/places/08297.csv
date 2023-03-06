@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41940,Summersville,WV,,city-us,3408,38.281,-80.853,4672
-41939,Summersville,KY,,city-us,596,37.326,-85.544,473
-41941,Summersville,MO,,city-us,461,37.179,-91.658,3335
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41940,Summersville,WV,Nicholas County,,city-us,3408,38.281,-80.853,4672
+41939,Summersville,KY,Green County,,city-us,596,37.326,-85.544,473
+41941,Summersville,MO,Shannon County / Texas County,,city-us,461,37.179,-91.658,3335

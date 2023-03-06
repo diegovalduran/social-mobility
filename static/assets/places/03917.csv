@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20031,Hilger,MT,,city-us,24,47.254,-109.360,584
-20030,Hilger,TX,,city-us,0,33.622,-96.097,79
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20031,Hilger,MT,Fergus County,,city-us,24,47.254,-109.360,584
+20030,Hilger,TX,Fannin County,,city-us,0,33.622,-96.097,79

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14987,Fitzhugh,OK,,city-us,178,34.666,-96.775,1915
-14986,Fitzhugh,VA,,city-us,0,36.666,-77.764,101
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14987,Fitzhugh,OK,Pontotoc County,,city-us,178,34.666,-96.775,1915
+14986,Fitzhugh,VA,Brunswick County,,city-us,0,36.666,-77.764,101

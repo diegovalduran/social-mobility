@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9283,Colerain,OH,,city-us,58819,39.255,-84.624,165
-9284,Colerain,PA,,city-us,3913,39.855,-76.067,183
-9285,Colerain,OH,,city-us,1995,39.425,-82.800,165
-9286,Coleraine,MN,,city-us,1991,47.289,-93.428,3350
-9280,Colerain,PA,,city-us,1124,39.928,-78.506,183
-9282,Colerain,NC,,city-us,214,36.201,-76.769,2104
-9281,Colerain,OH,,city-us,0,40.126,-80.809,672
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9283,Colerain,OH,Hamilton County,,city-us,58819,39.255,-84.624,165
+9284,Colerain,PA,Lancaster County,,city-us,3913,39.855,-76.067,183
+9285,Colerain,OH,Ross County,,city-us,1995,39.425,-82.800,165
+9286,Coleraine,MN,Itasca County,,city-us,1991,47.289,-93.428,3350
+9280,Colerain,PA,Bedford County,,city-us,1124,39.928,-78.506,183
+9282,Colerain,NC,Bertie County,,city-us,214,36.201,-76.769,2104
+9281,Colerain,OH,Belmont County,,city-us,0,40.126,-80.809,672

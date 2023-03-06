@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44009,Urbana,OH,,city-us,14175,40.071,-83.744,1346
-44011,Urbana,MD,,city-us,12841,39.326,-77.351,9226
-44008,Urbana,IL,,city-us,7428,40.079,-88.150,5539
-44013,Urbana,NY,,city-us,2101,42.410,-77.227,3457
-44007,Urbana,IA,,city-us,1590,42.224,-91.874,3332
-44018,Urbanna,VA,,city-us,500,37.638,-76.574,3652
-44010,Urbana,MO,,city-us,391,37.842,-93.167,3395
-44014,Urbana,AR,,city-us,177,33.159,-92.446,723
-44012,Urbana,KS,,city-us,30,37.558,-95.399,709
-44006,Urbana,ND,,city-us,0,46.934,-98.412,86
-44015,Urbana,IN,,city-us,0,40.898,-85.793,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44009,Urbana,OH,Champaign County,,city-us,14175,40.071,-83.744,1346
+44011,Urbana,MD,Frederick County,,city-us,12841,39.326,-77.351,9226
+44008,Urbana,IL,Champaign County,,city-us,7428,40.079,-88.150,5539
+44013,Urbana,NY,Steuben County,,city-us,2101,42.410,-77.227,3457
+44007,Urbana,IA,Benton County,,city-us,1590,42.224,-91.874,3332
+44018,Urbanna,VA,Middlesex County,,city-us,500,37.638,-76.574,3652
+44010,Urbana,MO,Dallas County,,city-us,391,37.842,-93.167,3395
+44014,Urbana,AR,Union County,,city-us,177,33.159,-92.446,723
+44012,Urbana,KS,Neosho County,,city-us,30,37.558,-95.399,709
+44006,Urbana,ND,Barnes County,,city-us,0,46.934,-98.412,86
+44015,Urbana,IN,Wabash County,,city-us,0,40.898,-85.793,210

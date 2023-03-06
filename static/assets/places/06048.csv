@@ -1,23 +1,23 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30928,Newburgh,NY,,city-us,32170,41.557,-74.057,46211
-30896,Newberg,OR,,city-us,25477,45.300,-122.973,10512
-30920,Newburg,MI,,city-us,3624,42.060,-83.947,2101
-30931,Newburgh,IN,,city-us,3389,37.944,-87.405,13483
-30927,Newburg,MI,,city-us,2840,42.901,-84.088,2758
-30929,Newburgh,ME,,city-us,1614,44.705,-69.013,3120
-30895,Newberg,MI,,city-us,1605,41.947,-85.809,3403
-30923,Newburg,WI,,city-us,1137,43.432,-88.048,3878
-30925,Newburg,IL,,city-us,955,39.622,-90.747,347
-30917,Newburg,PA,,city-us,367,40.137,-77.555,2252
-30924,Newburg,MO,,city-us,333,37.914,-91.903,5181
-30926,Newburg,WV,,city-us,274,39.388,-79.853,3035
-30912,Newburg,PA,,city-us,175,40.522,-78.425,420
-30913,Newburg,ND,,city-us,96,48.715,-100.913,2996
-30930,Newburgh,ND,,city-us,85,47.629,-97.537,0
-30915,Newburg,PA,,city-us,78,40.835,-78.677,2275
-30914,Newburg,MD,,city-us,0,38.377,-76.953,534
-30916,Newburg,TX,,city-us,0,31.787,-98.522,1853
-30918,Newburg,MN,,city-us,0,43.567,-91.815,233
-30919,Newburg,IA,,city-us,0,41.819,-92.774,665
-30921,Newburg,IL,,city-us,0,39.981,-88.804,207
-30922,Newburg,PA,,city-us,0,40.703,-75.330,589
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30928,Newburgh,NY,Orange County,,city-us,32170,41.557,-74.057,46211
+30896,Newberg,OR,Yamhill County,,city-us,25477,45.300,-122.973,10512
+30920,Newburg,MI,Lenawee County,,city-us,3624,42.060,-83.947,2101
+30931,Newburgh,IN,Warrick County,,city-us,3389,37.944,-87.405,13483
+30927,Newburg,MI,Shiawassee County,,city-us,2840,42.901,-84.088,2758
+30929,Newburgh,ME,Penobscot County,,city-us,1614,44.705,-69.013,3120
+30895,Newberg,MI,Cass County,,city-us,1605,41.947,-85.809,3403
+30923,Newburg,WI,Ozaukee County / Washington County,,city-us,1137,43.432,-88.048,3878
+30925,Newburg,IL,Pike County,,city-us,955,39.622,-90.747,347
+30917,Newburg,PA,Cumberland County,,city-us,367,40.137,-77.555,2252
+30924,Newburg,MO,Phelps County,,city-us,333,37.914,-91.903,5181
+30926,Newburg,WV,Preston County,,city-us,274,39.388,-79.853,3035
+30912,Newburg,PA,Blair County,,city-us,175,40.522,-78.425,420
+30913,Newburg,ND,Bottineau County,,city-us,96,48.715,-100.913,2996
+30930,Newburgh,ND,Steele County,,city-us,85,47.629,-97.537,0
+30915,Newburg,PA,Clearfield County,,city-us,78,40.835,-78.677,2275
+30914,Newburg,MD,Charles County,,city-us,0,38.377,-76.953,534
+30916,Newburg,TX,Comanche County,,city-us,0,31.787,-98.522,1853
+30918,Newburg,MN,Fillmore County,,city-us,0,43.567,-91.815,233
+30919,Newburg,IA,Jasper County,,city-us,0,41.819,-92.774,665
+30921,Newburg,IL,Macon County,,city-us,0,39.981,-88.804,207
+30922,Newburg,PA,Northampton County,,city-us,0,40.703,-75.330,589

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23999,Larkin,MI,,city-us,5136,43.693,-84.234,1876
-24000,Larkin,MN,,city-us,178,43.720,-95.878,3098
-23998,Larkin,AL,,city-us,0,34.909,-86.215,227
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23999,Larkin,MI,Midland County,,city-us,5136,43.693,-84.234,1876
+24000,Larkin,MN,Nobles County,,city-us,178,43.720,-95.878,3098
+23998,Larkin,AL,Jackson County,,city-us,0,34.909,-86.215,227

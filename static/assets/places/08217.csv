@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41578,Stone Creek,OH,,city-us,151,40.397,-81.562,4573
-41576,Stone Creek,ND,,city-us,21,48.681,-100.734,143
-41577,Stone Creek,VA,,city-us,0,36.776,-83.057,149
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41578,Stone Creek,OH,Tuscarawas County,,city-us,151,40.397,-81.562,4573
+41576,Stone Creek,ND,Bottineau County,,city-us,21,48.681,-100.734,143
+41577,Stone Creek,VA,Lee County,,city-us,0,36.776,-83.057,149

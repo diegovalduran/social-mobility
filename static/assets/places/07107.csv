@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36284,Remer,MN,,city-us,390,47.056,-93.916,3903
-36036,Reamer,WV,,city-us,0,38.476,-81.371,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36284,Remer,MN,Cass County,,city-us,390,47.056,-93.916,3903
+36036,Reamer,WV,Kanawha County,,city-us,0,38.476,-81.371,117

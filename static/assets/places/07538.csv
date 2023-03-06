@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38292,Salem Heights,OH,,city-us,3501,39.072,-84.378,598
-38291,Salem Heights,OH,,city-us,287,40.901,-80.891,1110
-38293,Salem Heights,IN,,city-us,0,41.575,-86.622,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38292,Salem Heights,OH,Hamilton County,,city-us,3501,39.072,-84.378,598
+38291,Salem Heights,OH,Columbiana County,,city-us,287,40.901,-80.891,1110
+38293,Salem Heights,IN,LaPorte County,,city-us,0,41.575,-86.622,93

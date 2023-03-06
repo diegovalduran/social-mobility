@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24393,Leipzig,,Germany,city-international,597215,51.333,12.383,69234
-24392,Leipzig,ND,,city-us,49,46.509,-101.851,706
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24393,Leipzig,,,Germany,city-international,597215,51.333,12.383,69234
+24392,Leipzig,ND,Grant County,,city-us,49,46.509,-101.851,706

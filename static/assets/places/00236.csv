@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1248,Antrim,PA,,city-us,15723,39.827,-77.683,3554
-1247,Antrim,MI,,city-us,4311,44.906,-84.959,2991
-1250,Antrim,NH,,city-us,2666,43.050,-71.982,4692
-1251,Antrim,MI,,city-us,2100,42.828,-84.106,2612
-1254,Antrim,OH,,city-us,1149,40.754,-83.158,1318
-1253,Antrim,MN,,city-us,262,43.884,-94.419,1836
-1249,Antrim,OH,,city-us,0,40.121,-81.359,975
-1252,Antrim,PA,,city-us,0,41.634,-77.287,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1248,Antrim,PA,Franklin County,,city-us,15723,39.827,-77.683,3554
+1247,Antrim,MI,Antrim County,,city-us,4311,44.906,-84.959,2991
+1250,Antrim,NH,Hillsborough County,,city-us,2666,43.050,-71.982,4692
+1251,Antrim,MI,Shiawassee County,,city-us,2100,42.828,-84.106,2612
+1254,Antrim,OH,Wyandot County,,city-us,1149,40.754,-83.158,1318
+1253,Antrim,MN,Watonwan County,,city-us,262,43.884,-94.419,1836
+1249,Antrim,OH,Guernsey County,,city-us,0,40.121,-81.359,975
+1252,Antrim,PA,Tioga County,,city-us,0,41.634,-77.287,192

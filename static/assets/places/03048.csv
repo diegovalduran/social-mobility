@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15289,Forbush,IA,,city-us,0,40.769,-92.877,193
-15290,Forbush,NC,,city-us,0,36.198,-80.574,427
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15289,Forbush,IA,Appanoose County,,city-us,0,40.769,-92.877,193
+15290,Forbush,NC,Yadkin County,,city-us,0,36.198,-80.574,427

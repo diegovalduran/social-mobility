@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5336,Brisbin,PA,,city-us,421,40.838,-78.354,2246
-5337,Brisbin,MT,,city-us,0,45.523,-110.609,81
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5336,Brisbin,PA,Clearfield County,,city-us,421,40.838,-78.354,2246
+5337,Brisbin,MT,Park County,,city-us,0,45.523,-110.609,81

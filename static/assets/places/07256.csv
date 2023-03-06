@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36759,Rimini,,Italy,city-international,149403,44.059,12.568,47666
-36758,Rimini,MT,,city-us,82,46.488,-112.247,4727
-36757,Rimini,SC,,city-us,0,33.669,-80.500,1046
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36759,Rimini,,,Italy,city-international,149403,44.059,12.568,47666
+36758,Rimini,MT,Lewis and Clark County,,city-us,82,46.488,-112.247,4727
+36757,Rimini,SC,Clarendon County,,city-us,0,33.669,-80.500,1046

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4657,Bolivia,,,country,12186079,-16.290,-63.589,87597
-4655,Bolivia,NC,,city-us,152,34.068,-78.148,3186
-4656,Bolivia,IL,,city-us,0,39.742,-89.347,122
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4657,Bolivia,,,,country,12186079,-16.290,-63.589,87597
+4655,Bolivia,NC,Brunswick County,,city-us,152,34.068,-78.148,3186
+4656,Bolivia,IL,Christian County,,city-us,0,39.742,-89.347,122

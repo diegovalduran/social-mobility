@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30512,New Baltimore,MI,,city-us,12045,42.681,-82.737,9221
-30509,New Baltimore,VA,,city-us,11517,38.767,-77.728,4260
-30511,New Baltimore,OH,,city-us,1485,39.265,-84.667,549
-30510,New Baltimore,NY,,city-us,560,42.446,-73.788,3086
-30514,New Baltimore,PA,,city-us,136,39.986,-78.773,4311
-30513,New Baltimore,IN,,city-us,0,38.177,-87.884,395
-30515,New Baltimore,OH,,city-us,0,40.985,-81.250,224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30512,New Baltimore,MI,Macomb County,,city-us,12045,42.681,-82.737,9221
+30509,New Baltimore,VA,Fauquier County,,city-us,11517,38.767,-77.728,4260
+30511,New Baltimore,OH,Hamilton County,,city-us,1485,39.265,-84.667,549
+30510,New Baltimore,NY,Greene County,,city-us,560,42.446,-73.788,3086
+30514,New Baltimore,PA,Somerset County,,city-us,136,39.986,-78.773,4311
+30513,New Baltimore,IN,Posey County,,city-us,0,38.177,-87.884,395
+30515,New Baltimore,OH,Stark County,,city-us,0,40.985,-81.250,224

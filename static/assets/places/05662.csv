@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29143,Monrovia,,Liberia,city-international,1021762,6.311,-10.805,15010
-29140,Monrovia,CA,,city-us,37500,34.148,-117.999,16172
-29139,Monrovia,MD,,city-us,2306,39.372,-77.272,6181
-29142,Monrovia,IN,,city-us,1721,39.579,-86.482,4144
-29138,Monrovia,KS,,city-us,0,39.524,-95.346,489
-29141,Monrovia,AL,,city-us,0,34.786,-86.714,2066
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29143,Monrovia,,,Liberia,city-international,1021762,6.311,-10.805,15010
+29140,Monrovia,CA,Los Angeles County,,city-us,37500,34.148,-117.999,16172
+29139,Monrovia,MD,Frederick County,,city-us,2306,39.372,-77.272,6181
+29142,Monrovia,IN,Morgan County,,city-us,1721,39.579,-86.482,4144
+29138,Monrovia,KS,Atchison County,,city-us,0,39.524,-95.346,489
+29141,Monrovia,AL,Madison County,,city-us,0,34.786,-86.714,2066

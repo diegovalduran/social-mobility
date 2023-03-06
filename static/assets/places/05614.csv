@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28896,Mirage,NE,,city-us,893,40.481,-99.123,293
-28897,Mirage,KS,,city-us,42,39.655,-101.244,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28896,Mirage,NE,Kearney County,,city-us,893,40.481,-99.123,293
+28897,Mirage,KS,Rawlins County,,city-us,42,39.655,-101.244,202

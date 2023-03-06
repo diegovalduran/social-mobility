@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16095,Fruitville,FL,,city-us,14673,27.330,-82.458,4989
-16093,Fruitville,MN,,city-us,0,45.713,-94.079,366
-16094,Fruitville,MO,,city-us,0,36.616,-91.766,579
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16095,Fruitville,FL,Sarasota County,,city-us,14673,27.330,-82.458,4989
+16093,Fruitville,MN,Benton County,,city-us,0,45.713,-94.079,366
+16094,Fruitville,MO,Howell County,,city-us,0,36.616,-91.766,579

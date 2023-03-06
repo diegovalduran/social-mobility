@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19477,Hazle,PA,,city-us,10170,40.958,-76.014,10394
-19439,Hazel,KY,,city-us,398,36.502,-88.326,2568
-19440,Hazel,SD,,city-us,101,44.760,-97.380,3181
-19444,Hazel,ND,,city-us,37,48.590,-103.211,0
-19441,Hazel,MN,,city-us,0,48.020,-96.115,1965
-19442,Hazel,WA,,city-us,0,48.277,-121.809,493
-19443,Hazel,WV,,city-us,0,39.547,-80.512,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19477,Hazle,PA,Luzerne County,,city-us,10170,40.958,-76.014,10394
+19439,Hazel,KY,Calloway County,,city-us,398,36.502,-88.326,2568
+19440,Hazel,SD,Hamlin County,,city-us,101,44.760,-97.380,3181
+19444,Hazel,ND,Williams County,,city-us,37,48.590,-103.211,0
+19441,Hazel,MN,Pennington County,,city-us,0,48.020,-96.115,1965
+19442,Hazel,WA,Snohomish County,,city-us,0,48.277,-121.809,493
+19443,Hazel,WV,Wetzel County,,city-us,0,39.547,-80.512,86

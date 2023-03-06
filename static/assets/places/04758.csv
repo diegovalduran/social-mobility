@@ -1,29 +1,29 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24269,Lebanon,,,country,5331203,33.855,35.862,78539
-24267,Lebanon,TN,,city-us,40888,36.208,-86.291,7147
-24249,Lebanon,PA,,city-us,26581,40.341,-76.411,7665
-24264,Lebanon,OH,,city-us,21191,39.435,-84.203,11179
-24250,Lebanon,OR,,city-us,18945,44.537,-122.907,10594
-24242,Lebanon,IN,,city-us,16840,40.048,-86.469,10999
-24248,Lebanon,MO,,city-us,15054,37.681,-92.664,4945
-24245,Lebanon,NH,,city-us,15005,43.642,-72.252,12415
-24262,Lebanon,CT,,city-us,7108,41.633,-72.240,12713
-24268,Lebanon,ME,,city-us,6571,43.400,-70.913,5785
-24253,Lebanon,KY,,city-us,6355,37.570,-85.253,7888
-24247,Lebanon,NJ,,city-us,6210,40.726,-74.894,12053
-24263,Lebanon,IL,,city-us,4720,38.609,-89.767,377
-24260,Lebanon,VA,,city-us,3122,36.901,-82.080,2600
-24265,Lebanon,WI,,city-us,1615,44.459,-88.787,2043
-24244,Lebanon,WI,,city-us,1582,43.233,-88.594,2723
-24252,Lebanon,NY,,city-us,1330,42.780,-75.626,2912
-24256,Lebanon,OH,,city-us,901,38.993,-81.815,1294
-24266,Lebanon,PA,,city-us,678,41.698,-75.272,1736
-24243,Lebanon,MI,,city-us,594,43.072,-84.774,2448
-24254,Lebanon,OK,,city-us,210,33.982,-96.907,878
-24261,Lebanon,KS,,city-us,182,39.810,-98.556,5610
-24255,Lebanon,ND,,city-us,71,48.059,-100.810,0
-24259,Lebanon,NE,,city-us,47,40.051,-100.276,3473
-24258,Lebanon,SD,,city-us,30,45.070,-99.770,2944
-24246,Lebanon,TN,,city-us,0,35.370,-88.294,189
-24251,Lebanon,TX,,city-us,0,28.342,-98.047,4082
-24257,Lebanon,CO,,city-us,0,37.457,-108.591,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24269,Lebanon,,,,country,5331203,33.855,35.862,78539
+24267,Lebanon,TN,Wilson County,,city-us,40888,36.208,-86.291,7147
+24249,Lebanon,PA,Lebanon County,,city-us,26581,40.341,-76.411,7665
+24264,Lebanon,OH,Warren County,,city-us,21191,39.435,-84.203,11179
+24250,Lebanon,OR,Linn County,,city-us,18945,44.537,-122.907,10594
+24242,Lebanon,IN,Boone County,,city-us,16840,40.048,-86.469,10999
+24248,Lebanon,MO,Laclede County,,city-us,15054,37.681,-92.664,4945
+24245,Lebanon,NH,Grafton County,,city-us,15005,43.642,-72.252,12415
+24262,Lebanon,CT,Southeastern Connecticut Planning Region,,city-us,7108,41.633,-72.240,12713
+24268,Lebanon,ME,York County,,city-us,6571,43.400,-70.913,5785
+24253,Lebanon,KY,Marion County,,city-us,6355,37.570,-85.253,7888
+24247,Lebanon,NJ,Hunterdon County,,city-us,6210,40.726,-74.894,12053
+24263,Lebanon,IL,St. Clair County,,city-us,4720,38.609,-89.767,377
+24260,Lebanon,VA,Russell County,,city-us,3122,36.901,-82.080,2600
+24265,Lebanon,WI,Waupaca County,,city-us,1615,44.459,-88.787,2043
+24244,Lebanon,WI,Dodge County,,city-us,1582,43.233,-88.594,2723
+24252,Lebanon,NY,Madison County,,city-us,1330,42.780,-75.626,2912
+24256,Lebanon,OH,Meigs County,,city-us,901,38.993,-81.815,1294
+24266,Lebanon,PA,Wayne County,,city-us,678,41.698,-75.272,1736
+24243,Lebanon,MI,Clinton County,,city-us,594,43.072,-84.774,2448
+24254,Lebanon,OK,Marshall County,,city-us,210,33.982,-96.907,878
+24261,Lebanon,KS,Smith County,,city-us,182,39.810,-98.556,5610
+24255,Lebanon,ND,McHenry County,,city-us,71,48.059,-100.810,0
+24259,Lebanon,NE,Red Willow County,,city-us,47,40.051,-100.276,3473
+24258,Lebanon,SD,Potter County,,city-us,30,45.070,-99.770,2944
+24246,Lebanon,TN,Hardin County,,city-us,0,35.370,-88.294,189
+24251,Lebanon,TX,Live Oak County,,city-us,0,28.342,-98.047,4082
+24257,Lebanon,CO,Montezuma County,,city-us,0,37.457,-108.591,336

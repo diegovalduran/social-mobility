@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37148,Rock Mills,AL,,city-us,577,33.160,-85.287,2838
-37147,Rock Mills,OH,,city-us,0,39.443,-83.409,289
-37149,Rock Mills,VA,,city-us,0,38.655,-78.129,98
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37148,Rock Mills,AL,Randolph County,,city-us,577,33.160,-85.287,2838
+37147,Rock Mills,OH,Fayette County,,city-us,0,39.443,-83.409,289
+37149,Rock Mills,VA,Rappahannock County,,city-us,0,38.655,-78.129,98

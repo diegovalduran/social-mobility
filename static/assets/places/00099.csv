@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-509,Aldrich,MN,,city-us,455,46.413,-94.966,1850
-507,Aldrich,MO,,city-us,77,37.548,-93.555,3529
-508,Aldrich,AL,,city-us,0,33.108,-86.891,1340
+id,name,state,county,country,level,population,latitude,longitude,wiki
+509,Aldrich,MN,Wadena County,,city-us,455,46.413,-94.966,1850
+507,Aldrich,MO,Polk County,,city-us,77,37.548,-93.555,3529
+508,Aldrich,AL,Shelby County,,city-us,0,33.108,-86.891,1340

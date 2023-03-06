@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40983,St. Cloud,MN,,city-us,68818,45.527,-94.171,27011
-40986,St. Cloud,FL,,city-us,62043,28.249,-81.281,11070
-40985,St. Cloud,WI,,city-us,492,43.823,-88.167,3566
-40984,St. Cloud,MO,,city-us,48,38.169,-91.218,2962
-40987,St. Cloud,MO,,city-us,0,39.293,-94.018,465
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40983,St. Cloud,MN,Benton County / Sherburne County / Stearns County,,city-us,68818,45.527,-94.171,27011
+40986,St. Cloud,FL,Osceola County,,city-us,62043,28.249,-81.281,11070
+40985,St. Cloud,WI,Fond du Lac County,,city-us,492,43.823,-88.167,3566
+40984,St. Cloud,MO,Crawford County,,city-us,48,38.169,-91.218,2962
+40987,St. Cloud,MO,Ray County,,city-us,0,39.293,-94.018,465

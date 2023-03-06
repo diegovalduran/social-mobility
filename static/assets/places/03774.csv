@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19323,Hawkeye,IA,,city-us,434,42.939,-91.950,2574
-19324,Hawkeye,ND,,city-us,47,47.985,-102.844,0
-19322,Hawkeye,ND,,city-us,44,48.854,-103.266,0
-19325,Hawkeye,KS,,city-us,29,39.519,-98.875,204
-19326,Hawkeye,MO,,city-us,0,38.006,-92.393,633
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19323,Hawkeye,IA,Fayette County,,city-us,434,42.939,-91.950,2574
+19324,Hawkeye,ND,McKenzie County,,city-us,47,47.985,-102.844,0
+19322,Hawkeye,ND,Divide County,,city-us,44,48.854,-103.266,0
+19325,Hawkeye,KS,Osborne County,,city-us,29,39.519,-98.875,204
+19326,Hawkeye,MO,Pulaski County,,city-us,0,38.006,-92.393,633

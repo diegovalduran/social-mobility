@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25072,Lindley,NY,,city-us,1794,42.038,-77.149,2727
-25071,Lindley,MO,,city-us,111,40.525,-93.699,199
-25070,Lindley,MO,,city-us,0,40.082,-93.368,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25072,Lindley,NY,Steuben County,,city-us,1794,42.038,-77.149,2727
+25071,Lindley,MO,Mercer County,,city-us,111,40.525,-93.699,199
+25070,Lindley,MO,Grundy County,,city-us,0,40.082,-93.368,280

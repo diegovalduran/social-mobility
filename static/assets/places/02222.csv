@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11130,Dawsonville,GA,,city-us,4172,34.421,-84.119,4842
-11131,Dawsonville,VA,,city-us,0,38.265,-78.315,105
-11132,Dawsonville,MD,,city-us,0,39.128,-77.343,91
-11133,Dawsonville,MO,,city-us,0,40.464,-95.099,330
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11130,Dawsonville,GA,Dawson County,,city-us,4172,34.421,-84.119,4842
+11131,Dawsonville,VA,Greene County,,city-us,0,38.265,-78.315,105
+11132,Dawsonville,MD,Montgomery County,,city-us,0,39.128,-77.343,91
+11133,Dawsonville,MO,Nodaway County,,city-us,0,40.464,-95.099,330

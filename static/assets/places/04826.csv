@@ -1,27 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24657,Lexington,MA,,city-us,34235,42.447,-71.225,17393
-24655,Lexington,SC,,city-us,24208,33.982,-81.236,13505
-24644,Lexington,NC,,city-us,19516,35.824,-80.253,10255
-24645,Lexington,NE,,city-us,10360,40.781,-99.742,5826
-24647,Lexington,TN,,city-us,7915,35.651,-88.393,6411
-24654,Lexington,VA,,city-us,7456,37.784,-79.443,10703
-24663,Lexington,OH,,city-us,4920,40.954,-81.139,1522
-24660,Lexington,OH,,city-us,4852,40.679,-82.582,8548
-24650,Lexington,MO,,city-us,4564,39.185,-93.880,15179
-24643,Lexington,WA,,city-us,4347,46.187,-122.905,510
-24639,Lexington,MN,,city-us,2460,45.142,-93.163,3579
-24656,Lexington,IL,,city-us,2354,40.627,-88.755,342
-24642,Lexington,OK,,city-us,1996,35.015,-97.336,7231
-24648,Lexington,MS,,city-us,1547,33.113,-90.053,12343
-24649,Lexington,KS,,city-us,1496,38.914,-94.988,3278
-24653,Lexington,TX,,city-us,1231,30.419,-97.012,3336
-24661,Lexington,MI,,city-us,924,43.268,-82.531,4066
-24646,Lexington,NY,,city-us,781,42.209,-74.368,3775
-24651,Lexington,AL,,city-us,737,34.969,-87.371,2407
-24658,Lexington,OR,,city-us,241,45.445,-119.684,5003
-24659,Lexington,GA,,city-us,206,33.870,-83.112,3385
-24638,Lexington,VA,,city-us,0,38.197,-78.482,73
-24640,Lexington,IN,,city-us,0,40.459,-86.489,172
-24641,Lexington,KS,,city-us,0,37.294,-99.599,188
-24652,Lexington,MN,,city-us,0,44.443,-93.703,646
-24662,Lexington,IN,,city-us,0,38.652,-85.625,2331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24657,Lexington,MA,Middlesex County,,city-us,34235,42.447,-71.225,17393
+24655,Lexington,SC,Lexington County,,city-us,24208,33.982,-81.236,13505
+24644,Lexington,NC,Davidson County,,city-us,19516,35.824,-80.253,10255
+24645,Lexington,NE,Dawson County,,city-us,10360,40.781,-99.742,5826
+24647,Lexington,TN,Henderson County,,city-us,7915,35.651,-88.393,6411
+24654,Lexington,VA,Lexington city,,city-us,7456,37.784,-79.443,10703
+24663,Lexington,OH,Stark County,,city-us,4920,40.954,-81.139,1522
+24660,Lexington,OH,Richland County,,city-us,4852,40.679,-82.582,8548
+24650,Lexington,MO,Lafayette County,,city-us,4564,39.185,-93.880,15179
+24643,Lexington,WA,Cowlitz County,,city-us,4347,46.187,-122.905,510
+24639,Lexington,MN,Anoka County,,city-us,2460,45.142,-93.163,3579
+24656,Lexington,IL,McLean County,,city-us,2354,40.627,-88.755,342
+24642,Lexington,OK,Cleveland County,,city-us,1996,35.015,-97.336,7231
+24648,Lexington,MS,Holmes County,,city-us,1547,33.113,-90.053,12343
+24649,Lexington,KS,Johnson County,,city-us,1496,38.914,-94.988,3278
+24653,Lexington,TX,Lee County,,city-us,1231,30.419,-97.012,3336
+24661,Lexington,MI,Sanilac County,,city-us,924,43.268,-82.531,4066
+24646,Lexington,NY,Greene County,,city-us,781,42.209,-74.368,3775
+24651,Lexington,AL,Lauderdale County,,city-us,737,34.969,-87.371,2407
+24658,Lexington,OR,Morrow County,,city-us,241,45.445,-119.684,5003
+24659,Lexington,GA,Oglethorpe County,,city-us,206,33.870,-83.112,3385
+24638,Lexington,VA,Albemarle County,,city-us,0,38.197,-78.482,73
+24640,Lexington,IN,Carroll County,,city-us,0,40.459,-86.489,172
+24641,Lexington,KS,Clark County,,city-us,0,37.294,-99.599,188
+24652,Lexington,MN,Le Sueur County,,city-us,0,44.443,-93.703,646
+24662,Lexington,IN,Scott County,,city-us,0,38.652,-85.625,2331

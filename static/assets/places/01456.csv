@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7301,Catlin,IL,,city-us,3074,40.061,-87.725,1444
-7298,Catlin,NY,,city-us,2510,42.231,-76.896,3257
-7299,Catlin,KS,,city-us,181,38.211,-97.085,931
-7300,Catlin,IN,,city-us,0,39.694,-87.235,349
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7301,Catlin,IL,Vermilion County,,city-us,3074,40.061,-87.725,1444
+7298,Catlin,NY,Chemung County,,city-us,2510,42.231,-76.896,3257
+7299,Catlin,KS,Marion County,,city-us,181,38.211,-97.085,931
+7300,Catlin,IN,Parke County,,city-us,0,39.694,-87.235,349

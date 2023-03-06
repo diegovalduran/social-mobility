@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37557,Rosebush,MI,,city-us,357,43.699,-84.768,3731
-37558,Rosebush,OR,,city-us,0,45.297,-120.715,120
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37557,Rosebush,MI,Isabella County,,city-us,357,43.699,-84.768,3731
+37558,Rosebush,OR,Sherman County,,city-us,0,45.297,-120.715,120

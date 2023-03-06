@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47867,Wynnewood,PA,,city-us,13572,40.003,-75.271,8650
-47866,Wynnewood,OK,,city-us,1931,34.643,-97.164,7234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47867,Wynnewood,PA,Montgomery County,,city-us,13572,40.003,-75.271,8650
+47866,Wynnewood,OK,Garvin County,,city-us,1931,34.643,-97.164,7234

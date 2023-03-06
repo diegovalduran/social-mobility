@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8142,Cheshire,CT,,city-us,28628,41.512,-72.904,11229
-8137,Cheshire,MI,,city-us,2199,42.458,-85.955,2765
-8140,Cheshire,OH,,city-us,908,38.970,-82.160,1556
-8138,Cheshire,MA,,city-us,662,42.562,-73.163,10147
-8141,Cheshire,OR,,city-us,329,44.190,-123.284,718
-8139,Cheshire,OH,,city-us,0,40.238,-82.961,299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8142,Cheshire,CT,Naugatuck Valley Planning Region,,city-us,28628,41.512,-72.904,11229
+8137,Cheshire,MI,Allegan County,,city-us,2199,42.458,-85.955,2765
+8140,Cheshire,OH,Gallia County,,city-us,908,38.970,-82.160,1556
+8138,Cheshire,MA,Berkshire County,,city-us,662,42.562,-73.163,10147
+8141,Cheshire,OR,Lane County,,city-us,329,44.190,-123.284,718
+8139,Cheshire,OH,Delaware County,,city-us,0,40.238,-82.961,299

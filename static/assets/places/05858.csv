@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30139,Murraysville,NC,,city-us,15976,34.296,-77.847,2173
-30138,Murraysville,WV,,city-us,0,39.078,-81.806,338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30139,Murraysville,NC,New Hanover County,,city-us,15976,34.296,-77.847,2173
+30138,Murraysville,WV,Jackson County,,city-us,0,39.078,-81.806,338

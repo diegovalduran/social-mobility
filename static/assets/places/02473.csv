@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12333,Dull,TX,,city-us,0,28.445,-98.931,608
-12334,Dull,OH,,city-us,0,40.764,-84.667,390
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12333,Dull,TX,La Salle County,,city-us,0,28.445,-98.931,608
+12334,Dull,OH,Van Wert County,,city-us,0,40.764,-84.667,390

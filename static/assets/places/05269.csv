@@ -1,26 +1,26 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27028,Marshall,TX,,city-us,22662,32.545,-94.367,30613
-27033,Marshall,MN,,city-us,13641,44.447,-95.788,10145
-27041,Marshall,MO,,city-us,13506,39.123,-93.197,9619
-27020,Marshall,PA,,city-us,10217,40.645,-80.110,2650
-27022,Marshall,MI,,city-us,6780,42.272,-84.963,14833
-27023,Marshall,IL,,city-us,4505,39.401,-87.736,1163
-27025,Marshall,WI,,city-us,3823,43.168,-89.067,6170
-27027,Marshall,VA,,city-us,3114,38.865,-77.858,2007
-27037,Marshall,NY,,city-us,1936,42.967,-75.386,4443
-27042,Marshall,AR,,city-us,1328,35.909,-92.631,12438
-27034,Marshall,NC,,city-us,792,35.797,-82.684,2650
-27040,Marshall,WI,,city-us,664,45.336,-90.988,2476
-27039,Marshall,WI,,city-us,545,43.423,-90.489,2261
-27031,Marshall,AK,,city-us,493,61.878,-162.081,3484
-27035,Marshall,CA,,city-us,400,38.161,-122.894,1056
-27036,Marshall,MN,,city-us,315,43.629,-92.751,3147
-27038,Marshall,IN,,city-us,267,39.848,-87.188,3064
-27032,Marshall,OK,,city-us,217,36.154,-97.626,6967
-27044,Marshall,ND,,city-us,60,48.329,-103.410,244
-27024,Marshall,NE,,city-us,54,40.481,-97.995,862
-27021,Marshall,CO,,city-us,0,39.956,-105.230,924
-27026,Marshall,ND,,city-us,0,47.138,-102.333,244
-27029,Marshall,OH,,city-us,0,39.152,-83.485,4188
-27030,Marshall,WV,,city-us,0,38.825,-81.536,173
-27043,Marshall,WA,,city-us,0,47.565,-117.499,1960
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27028,Marshall,TX,Harrison County,,city-us,22662,32.545,-94.367,30613
+27033,Marshall,MN,Lyon County,,city-us,13641,44.447,-95.788,10145
+27041,Marshall,MO,Saline County,,city-us,13506,39.123,-93.197,9619
+27020,Marshall,PA,Allegheny County,,city-us,10217,40.645,-80.110,2650
+27022,Marshall,MI,Calhoun County,,city-us,6780,42.272,-84.963,14833
+27023,Marshall,IL,Clark County,,city-us,4505,39.401,-87.736,1163
+27025,Marshall,WI,Dane County,,city-us,3823,43.168,-89.067,6170
+27027,Marshall,VA,Fauquier County,,city-us,3114,38.865,-77.858,2007
+27037,Marshall,NY,Oneida County,,city-us,1936,42.967,-75.386,4443
+27042,Marshall,AR,Searcy County,,city-us,1328,35.909,-92.631,12438
+27034,Marshall,NC,Madison County,,city-us,792,35.797,-82.684,2650
+27040,Marshall,WI,Rusk County,,city-us,664,45.336,-90.988,2476
+27039,Marshall,WI,Richland County,,city-us,545,43.423,-90.489,2261
+27031,Marshall,AK,Kusilvak Census Area,,city-us,493,61.878,-162.081,3484
+27035,Marshall,CA,Marin County,,city-us,400,38.161,-122.894,1056
+27036,Marshall,MN,Mower County,,city-us,315,43.629,-92.751,3147
+27038,Marshall,IN,Parke County,,city-us,267,39.848,-87.188,3064
+27032,Marshall,OK,Logan County,,city-us,217,36.154,-97.626,6967
+27044,Marshall,ND,Williams County,,city-us,60,48.329,-103.410,244
+27024,Marshall,NE,Clay County,,city-us,54,40.481,-97.995,862
+27021,Marshall,CO,Boulder County,,city-us,0,39.956,-105.230,924
+27026,Marshall,ND,Dunn County,,city-us,0,47.138,-102.333,244
+27029,Marshall,OH,Highland County,,city-us,0,39.152,-83.485,4188
+27030,Marshall,WV,Jackson County,,city-us,0,38.825,-81.536,173
+27043,Marshall,WA,Spokane County,,city-us,0,47.565,-117.499,1960

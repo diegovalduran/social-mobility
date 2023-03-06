@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37390,Rollingwood,CA,,city-us,3535,37.965,-122.330,4592
-37391,Rollingwood,TX,,city-us,1440,30.277,-97.791,1931
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37390,Rollingwood,CA,Contra Costa County,,city-us,3535,37.965,-122.330,4592
+37391,Rollingwood,TX,Travis County,,city-us,1440,30.277,-97.791,1931

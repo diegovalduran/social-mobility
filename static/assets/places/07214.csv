@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36454,Richards,TX,,city-us,296,30.537,-95.846,743
-36456,Richards,MO,,city-us,43,37.907,-94.557,3315
-36455,Richards,IL,,city-us,0,41.179,-88.836,169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36454,Richards,TX,Grimes County,,city-us,296,30.537,-95.846,743
+36456,Richards,MO,Vernon County,,city-us,43,37.907,-94.557,3315
+36455,Richards,IL,LaSalle County,,city-us,0,41.179,-88.836,169

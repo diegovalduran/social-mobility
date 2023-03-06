@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22097,Jenny Lind,CA,,city-us,0,38.100,-120.867,1197
-22098,Jenny Lind,AR,,city-us,0,35.250,-94.319,278
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22097,Jenny Lind,CA,Calaveras County,,city-us,0,38.100,-120.867,1197
+22098,Jenny Lind,AR,Sebastian County,,city-us,0,35.250,-94.319,278

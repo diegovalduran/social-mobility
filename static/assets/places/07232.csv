@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36643,Riddleton,NJ,,city-us,3467,39.562,-75.311,9581
-36642,Riddleton,TN,,city-us,0,36.321,-86.018,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36643,Riddleton,NJ,Salem County,,city-us,3467,39.562,-75.311,9581
+36642,Riddleton,TN,Houston County,,city-us,0,36.321,-86.018,240

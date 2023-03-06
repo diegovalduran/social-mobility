@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37582,Rosefield,IL,,city-us,1209,40.748,-89.809,337
-37583,Rosefield,SD,,city-us,172,43.386,-97.341,0
-37581,Rosefield,ND,,city-us,44,47.621,-99.201,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37582,Rosefield,IL,Peoria County,,city-us,1209,40.748,-89.809,337
+37583,Rosefield,SD,Turner County,,city-us,172,43.386,-97.341,0
+37581,Rosefield,ND,Eddy County,,city-us,44,47.621,-99.201,0

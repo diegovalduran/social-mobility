@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39330,Sharkey,KY,,city-us,0,38.241,-83.535,888
-39331,Sharkey,MS,,city-us,0,33.905,-90.265,260
-39332,Sharkey,LA,,city-us,0,30.370,-90.421,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39330,Sharkey,KY,Rowan County,,city-us,0,38.241,-83.535,888
+39331,Sharkey,MS,Tallahatchie County,,city-us,0,33.905,-90.265,260
+39332,Sharkey,LA,Tangipahoa Parish,,city-us,0,30.370,-90.421,147

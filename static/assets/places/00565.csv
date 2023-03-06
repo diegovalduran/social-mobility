@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2863,Bear Lake,WI,,city-us,674,45.590,-91.850,1930
-2864,Bear Lake,MI,,city-us,366,44.718,-84.949,1043
-2865,Bear Lake,MI,,city-us,337,44.421,-86.148,10053
-2867,Bear Lake,PA,,city-us,150,41.993,-79.503,1786
-2866,Bear Lake,IN,,city-us,0,41.323,-85.518,1286
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2863,Bear Lake,WI,Barron County,,city-us,674,45.590,-91.850,1930
+2864,Bear Lake,MI,Kalkaska County,,city-us,366,44.718,-84.949,1043
+2865,Bear Lake,MI,Manistee County,,city-us,337,44.421,-86.148,10053
+2867,Bear Lake,PA,Warren County,,city-us,150,41.993,-79.503,1786
+2866,Bear Lake,IN,Noble County,,city-us,0,41.323,-85.518,1286

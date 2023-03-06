@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25496,Lohman,MO,,city-us,175,38.543,-92.364,2886
-25901,Lowman,ID,,city-us,21,44.084,-115.621,2555
-25512,Loman,MN,,city-us,0,48.513,-93.803,919
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25496,Lohman,MO,Cole County,,city-us,175,38.543,-92.364,2886
+25901,Lowman,ID,Boise County,,city-us,21,44.084,-115.621,2555
+25512,Loman,MN,Koochiching County,,city-us,0,48.513,-93.803,919

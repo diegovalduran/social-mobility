@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8526,Clarks,LA,,city-us,897,32.027,-92.139,2350
-8527,Clarks,NE,,city-us,344,41.215,-97.836,3271
-8524,Clarkes,OR,,city-us,0,45.215,-122.471,103
-8528,Clarks,IN,,city-us,0,41.133,-86.890,150
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8526,Clarks,LA,Caldwell Parish,,city-us,897,32.027,-92.139,2350
+8527,Clarks,NE,Merrick County,,city-us,344,41.215,-97.836,3271
+8524,Clarkes,OR,Clackamas County,,city-us,0,45.215,-122.471,103
+8528,Clarks,IN,Pulaski County,,city-us,0,41.133,-86.890,150

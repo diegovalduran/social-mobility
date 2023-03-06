@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11046,Darmstadt,,Germany,city-international,159207,49.867,8.650,34475
-11045,Darmstadt,IN,,city-us,1385,38.099,-87.579,4237
-11044,Darmstadt,IL,,city-us,0,38.321,-89.732,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11046,Darmstadt,,,Germany,city-international,159207,49.867,8.650,34475
+11045,Darmstadt,IN,Vanderburgh County,,city-us,1385,38.099,-87.579,4237
+11044,Darmstadt,IL,St. Clair County,,city-us,0,38.321,-89.732,336

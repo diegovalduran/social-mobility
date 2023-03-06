@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27515,McDowell,KY,,city-us,661,37.459,-82.730,171
-27514,McDowell,MO,,city-us,0,36.824,-93.793,441
-27516,McDowell,VA,,city-us,0,38.336,-79.491,773
-27517,McDowell,IL,,city-us,0,40.831,-88.585,1433
-27518,McDowell,WV,,city-us,0,37.403,-81.380,224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27515,McDowell,KY,Floyd County,,city-us,661,37.459,-82.730,171
+27514,McDowell,MO,Barry County,,city-us,0,36.824,-93.793,441
+27516,McDowell,VA,Highland County,,city-us,0,38.336,-79.491,773
+27517,McDowell,IL,Livingston County,,city-us,0,40.831,-88.585,1433
+27518,McDowell,WV,McDowell County,,city-us,0,37.403,-81.380,224

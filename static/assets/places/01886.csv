@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9661,Conifer,CO,,city-us,19683,39.521,-105.305,2520
-9662,Conifer,PA,,city-us,0,41.083,-79.139,232
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9661,Conifer,CO,Jefferson County,,city-us,19683,39.521,-105.305,2520
+9662,Conifer,PA,Jefferson County,,city-us,0,41.083,-79.139,232

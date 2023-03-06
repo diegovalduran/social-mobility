@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7766,Cerro Gordo,IL,,city-us,1920,39.854,-88.679,1001
-7763,Cerro Gordo,NC,,city-us,131,34.322,-78.926,2219
-7764,Cerro Gordo,TN,,city-us,0,35.304,-88.181,1224
-7765,Cerro Gordo,MN,,city-us,0,45.053,-96.032,135
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7766,Cerro Gordo,IL,Piatt County,,city-us,1920,39.854,-88.679,1001
+7763,Cerro Gordo,NC,Columbus County,,city-us,131,34.322,-78.926,2219
+7764,Cerro Gordo,TN,Hardin County,,city-us,0,35.304,-88.181,1224
+7765,Cerro Gordo,MN,Lac qui Parle County,,city-us,0,45.053,-96.032,135

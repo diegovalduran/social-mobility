@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43464,Tunis,,Tunisia,city-international,1056247,36.801,10.180,61871
-43462,Tunis,MI,,city-us,375,46.538,-88.524,3154
-43463,Tunis,TX,,city-us,16,30.545,-96.527,181
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43464,Tunis,,,Tunisia,city-international,1056247,36.801,10.180,61871
+43462,Tunis,MI,Baraga County,,city-us,375,46.538,-88.524,3154
+43463,Tunis,TX,Burleson County,,city-us,16,30.545,-96.527,181

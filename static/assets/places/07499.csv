@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38115,Sacramento,CA,,city-us,525041,38.582,-121.494,64566
-38112,Sacramento,KY,,city-us,425,37.416,-87.266,3166
-38113,Sacramento,NM,,city-us,17,32.793,-105.561,335
-38114,Sacramento,NE,,city-us,0,40.409,-99.275,361
-38116,Sacramento,PA,,city-us,0,40.634,-76.589,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38115,Sacramento,CA,Sacramento County,,city-us,525041,38.582,-121.494,64566
+38112,Sacramento,KY,McLean County,,city-us,425,37.416,-87.266,3166
+38113,Sacramento,NM,Otero County,,city-us,17,32.793,-105.561,335
+38114,Sacramento,NE,Phelps County,,city-us,0,40.409,-99.275,361
+38116,Sacramento,PA,Schuylkill County,,city-us,0,40.634,-76.589,280

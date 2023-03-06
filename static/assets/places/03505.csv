@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17775,Greeley,CO,,city-us,109323,40.423,-104.709,19917
-17774,Greeley,KS,,city-us,998,37.873,-97.655,142
-17773,Greeley,KS,,city-us,760,38.827,-97.525,121
-17767,Greeley,KS,,city-us,271,38.367,-95.127,7031
-17768,Greeley,IA,,city-us,217,42.586,-91.342,3500
-17771,Greeley,MN,,city-us,30,45.745,-93.068,1023
-17776,Greely,ND,,city-us,13,47.900,-101.020,0
-17769,Greeley,KY,,city-us,0,37.676,-83.753,80
-17770,Greeley,PA,,city-us,0,41.421,-74.995,3767
-17772,Greeley,MO,,city-us,0,37.515,-91.187,479
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17775,Greeley,CO,Weld County,,city-us,109323,40.423,-104.709,19917
+17774,Greeley,KS,Sedgwick County,,city-us,998,37.873,-97.655,142
+17773,Greeley,KS,Saline County,,city-us,760,38.827,-97.525,121
+17767,Greeley,KS,Anderson County,,city-us,271,38.367,-95.127,7031
+17768,Greeley,IA,Delaware County,,city-us,217,42.586,-91.342,3500
+17771,Greeley,MN,Pine County,,city-us,30,45.745,-93.068,1023
+17776,Greely,ND,Ward County,,city-us,13,47.900,-101.020,0
+17769,Greeley,KY,Lee County,,city-us,0,37.676,-83.753,80
+17770,Greeley,PA,Pike County,,city-us,0,41.421,-74.995,3767
+17772,Greeley,MO,Reynolds County,,city-us,0,37.515,-91.187,479

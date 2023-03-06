@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2145,Aztec,NM,,city-us,6163,36.822,-107.993,7484
-2146,Aztec,AZ,,city-us,0,32.824,-113.450,690
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2145,Aztec,NM,San Juan County,,city-us,6163,36.822,-107.993,7484
+2146,Aztec,AZ,Yuma County,,city-us,0,32.824,-113.450,690

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34144,Pine Hill,NJ,,city-us,10699,39.784,-74.992,8680
-34149,Pine Hill,AL,,city-us,756,31.980,-87.588,1899
-34148,Pine Hill,NY,,city-us,312,42.133,-74.480,2129
-34145,Pine Hill,TX,,city-us,0,32.105,-94.605,1803
-34146,Pine Hill,CA,,city-us,0,40.764,-124.174,314
-34147,Pine Hill,NC,,city-us,0,36.349,-80.590,314
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34144,Pine Hill,NJ,Camden County,,city-us,10699,39.784,-74.992,8680
+34149,Pine Hill,AL,Wilcox County,,city-us,756,31.980,-87.588,1899
+34148,Pine Hill,NY,Ulster County,,city-us,312,42.133,-74.480,2129
+34145,Pine Hill,TX,Cherokee County,,city-us,0,32.105,-94.605,1803
+34146,Pine Hill,CA,Humboldt County,,city-us,0,40.764,-124.174,314
+34147,Pine Hill,NC,Surry County,,city-us,0,36.349,-80.590,314

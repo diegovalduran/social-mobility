@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5056,Brandon,FL,,city-us,115330,27.938,-82.286,13244
-5063,Brandon,MS,,city-us,25373,32.273,-89.986,5534
-5061,Brandon,MI,,city-us,15323,42.843,-83.397,2996
-5065,Brandon,VT,,city-us,4106,43.805,-73.075,6595
-5053,Brandon,WI,,city-us,881,43.735,-88.781,3875
-5060,Brandon,SD,,city-us,814,43.641,-96.600,140
-5052,Brandon,MN,,city-us,774,45.976,-95.581,1932
-5054,Brandon,NY,,city-us,602,44.735,-74.415,3081
-5051,Brandon,IA,,city-us,335,42.314,-92.002,3995
-5059,Brandon,MT,,city-us,83,45.468,-112.140,379
-5064,Brandon,ND,,city-us,63,48.748,-101.571,0
-5050,Brandon,MO,,city-us,0,38.508,-93.423,233
-5055,Brandon,TX,,city-us,0,32.046,-96.961,4005
-5057,Brandon,CO,,city-us,0,38.446,-102.440,849
-5058,Brandon,OH,,city-us,0,40.312,-82.509,396
-5062,Brandon,NE,,city-us,0,40.803,-101.912,347
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5056,Brandon,FL,Hillsborough County,,city-us,115330,27.938,-82.286,13244
+5063,Brandon,MS,Rankin County,,city-us,25373,32.273,-89.986,5534
+5061,Brandon,MI,Oakland County,,city-us,15323,42.843,-83.397,2996
+5065,Brandon,VT,Rutland County,,city-us,4106,43.805,-73.075,6595
+5053,Brandon,WI,Fond du Lac County,,city-us,881,43.735,-88.781,3875
+5060,Brandon,SD,Minnehaha County,,city-us,814,43.641,-96.600,140
+5052,Brandon,MN,Douglas County,,city-us,774,45.976,-95.581,1932
+5054,Brandon,NY,Franklin County,,city-us,602,44.735,-74.415,3081
+5051,Brandon,IA,Buchanan County,,city-us,335,42.314,-92.002,3995
+5059,Brandon,MT,Madison County,,city-us,83,45.468,-112.140,379
+5064,Brandon,ND,Renville County,,city-us,63,48.748,-101.571,0
+5050,Brandon,MO,Benton County,,city-us,0,38.508,-93.423,233
+5055,Brandon,TX,Hill County,,city-us,0,32.046,-96.961,4005
+5057,Brandon,CO,Kiowa County,,city-us,0,38.446,-102.440,849
+5058,Brandon,OH,Knox County,,city-us,0,40.312,-82.509,396
+5062,Brandon,NE,Perkins County,,city-us,0,40.803,-101.912,347

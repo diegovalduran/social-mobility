@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30672,New Home,TX,,city-us,335,33.326,-101.912,2646
-30673,New Home,ND,,city-us,6,48.517,-103.212,0
-30671,New Home,MO,,city-us,0,38.144,-94.472,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30672,New Home,TX,Lynn County,,city-us,335,33.326,-101.912,2646
+30673,New Home,ND,Williams County,,city-us,6,48.517,-103.212,0
+30671,New Home,MO,Bates County,,city-us,0,38.144,-94.472,262

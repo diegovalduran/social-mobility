@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42957,Tillman,IN,,city-us,0,41.024,-84.893,189
-42958,Tillman,SC,,city-us,0,32.464,-81.107,390
-42959,Tillman,MO,,city-us,0,37.055,-89.864,290
-42962,Tilmon,TX,,city-us,0,29.798,-97.553,1252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42957,Tillman,IN,Allen County,,city-us,0,41.024,-84.893,189
+42958,Tillman,SC,Jasper County,,city-us,0,32.464,-81.107,390
+42959,Tillman,MO,Stoddard County,,city-us,0,37.055,-89.864,290
+42962,Tilmon,TX,Caldwell County,,city-us,0,29.798,-97.553,1252

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18937,Harmonyville,VT,,city-us,222,43.038,-72.663,667
-18936,Harmonyville,PA,,city-us,0,40.189,-75.723,169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18937,Harmonyville,VT,Windham County,,city-us,222,43.038,-72.663,667
+18936,Harmonyville,PA,Chester County,,city-us,0,40.189,-75.723,169

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7623,Centerton,NJ,,city-us,44633,39.949,-74.900,21297
-7622,Centerton,AR,,city-us,19984,36.360,-94.285,7060
-7624,Centerton,IN,,city-us,0,39.515,-86.395,705
-7625,Centerton,NJ,,city-us,0,39.525,-75.168,1089
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7623,Centerton,NJ,Burlington County,,city-us,44633,39.949,-74.900,21297
+7622,Centerton,AR,Benton County,,city-us,19984,36.360,-94.285,7060
+7624,Centerton,IN,Morgan County,,city-us,0,39.515,-86.395,705
+7625,Centerton,NJ,Salem County,,city-us,0,39.525,-75.168,1089

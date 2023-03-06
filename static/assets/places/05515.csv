@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28188,Middlefork,IL,,city-us,1328,40.316,-87.839,1541
-28186,Middlefork,IN,,city-us,0,40.416,-86.392,1083
-28187,Middlefork,IN,,city-us,0,38.854,-85.472,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28188,Middlefork,IL,Vermilion County,,city-us,1328,40.316,-87.839,1541
+28186,Middlefork,IN,Clinton County,,city-us,0,40.416,-86.392,1083
+28187,Middlefork,IN,Jefferson County,,city-us,0,38.854,-85.472,201

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-495,Alder,MI,,city-us,816,46.799,-87.734,3349
-496,Alder,WA,,city-us,189,46.800,-122.290,708
-494,Alder,MT,,city-us,135,45.324,-112.107,2449
-493,Alder,OR,,city-us,0,44.582,-123.509,923
+id,name,state,county,country,level,population,latitude,longitude,wiki
+495,Alder,MI,Marquette County,,city-us,816,46.799,-87.734,3349
+496,Alder,WA,Pierce County,,city-us,189,46.800,-122.290,708
+494,Alder,MT,Madison County,,city-us,135,45.324,-112.107,2449
+493,Alder,OR,Benton County,,city-us,0,44.582,-123.509,923

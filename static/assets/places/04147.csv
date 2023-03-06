@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21347,Indian Valley,ID,,city-us,0,44.557,-116.434,244
-21348,Indian Valley,VA,,city-us,0,36.909,-80.552,304
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21347,Indian Valley,ID,Adams County,,city-us,0,44.557,-116.434,244
+21348,Indian Valley,VA,Floyd County,,city-us,0,36.909,-80.552,304

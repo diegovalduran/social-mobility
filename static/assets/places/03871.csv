@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19827,Hibbard,ID,,city-us,0,43.855,-111.839,81
-19828,Hibbard,IN,,city-us,0,41.253,-86.387,445
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19827,Hibbard,ID,Madison County,,city-us,0,43.855,-111.839,81
+19828,Hibbard,IN,Marshall County,,city-us,0,41.253,-86.387,445

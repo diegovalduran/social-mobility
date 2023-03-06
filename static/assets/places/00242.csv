@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1269,Apple Creek,ND,,city-us,3492,46.750,-100.634,0
-1272,Apple Creek,OH,,city-us,1194,40.752,-81.839,3160
-1270,Apple Creek,WI,,city-us,0,44.326,-88.375,382
-1271,Apple Creek,MO,,city-us,0,37.613,-89.751,1603
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1269,Apple Creek,ND,Burleigh County,,city-us,3492,46.750,-100.634,0
+1272,Apple Creek,OH,Wayne County,,city-us,1194,40.752,-81.839,3160
+1270,Apple Creek,WI,Outagamie County,,city-us,0,44.326,-88.375,382
+1271,Apple Creek,MO,Perry County,,city-us,0,37.613,-89.751,1603

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23614,Lake Mary,FL,,city-us,16616,28.759,-81.318,5891
-23613,Lake Mary,MN,,city-us,1174,45.792,-95.460,1876
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23614,Lake Mary,FL,Seminole County,,city-us,16616,28.759,-81.318,5891
+23613,Lake Mary,MN,Douglas County,,city-us,1174,45.792,-95.460,1876

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22600,Keener,NC,,city-us,155,35.107,-78.319,1880
-22599,Keener,AL,,city-us,0,34.156,-85.951,444
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22600,Keener,NC,Sampson County,,city-us,155,35.107,-78.319,1880
+22599,Keener,AL,Etowah County,,city-us,0,34.156,-85.951,444

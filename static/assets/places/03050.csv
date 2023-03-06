@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15300,Ford City,CA,,city-us,4327,35.154,-119.456,4060
-15297,Ford City,PA,,city-us,2837,40.772,-79.530,6404
-15298,Ford City,AL,,city-us,0,34.786,-87.529,192
-15299,Ford City,MO,,city-us,0,40.112,-94.465,353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15300,Ford City,CA,Kern County,,city-us,4327,35.154,-119.456,4060
+15297,Ford City,PA,Armstrong County,,city-us,2837,40.772,-79.530,6404
+15298,Ford City,AL,Colbert County,,city-us,0,34.786,-87.529,192
+15299,Ford City,MO,Gentry County,,city-us,0,40.112,-94.465,353

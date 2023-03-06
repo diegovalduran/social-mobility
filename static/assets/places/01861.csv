@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9536,Compton,CA,,city-us,93597,33.896,-118.220,31609
-9538,Compton,MN,,city-us,805,46.406,-95.216,1884
-9535,Compton,IL,,city-us,269,41.694,-89.081,2205
-9537,Compton,AR,,city-us,0,36.097,-93.303,296
-9539,Compton,VA,,city-us,0,38.782,-78.369,87
-9540,Compton,MD,,city-us,0,38.275,-76.693,275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9536,Compton,CA,Los Angeles County,,city-us,93597,33.896,-118.220,31609
+9538,Compton,MN,Otter Tail County,,city-us,805,46.406,-95.216,1884
+9535,Compton,IL,Lee County,,city-us,269,41.694,-89.081,2205
+9537,Compton,AR,Newton County,,city-us,0,36.097,-93.303,296
+9539,Compton,VA,Page County,,city-us,0,38.782,-78.369,87
+9540,Compton,MD,St. Mary's County,,city-us,0,38.275,-76.693,275

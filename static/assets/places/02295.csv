@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11561,Denny,IL,,city-us,0,38.047,-89.327,122
-11562,Denny,CA,,city-us,0,40.944,-123.387,4384
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11561,Denny,IL,Perry County,,city-us,0,38.047,-89.327,122
+11562,Denny,CA,Trinity County,,city-us,0,40.944,-123.387,4384

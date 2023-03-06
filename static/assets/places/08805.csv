@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44187,Valona,CA,,city-us,0,38.052,-122.224,323
-44188,Valona,GA,,city-us,0,31.478,-81.344,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44187,Valona,CA,Contra Costa County,,city-us,0,38.052,-122.224,323
+44188,Valona,GA,McIntosh County,,city-us,0,31.478,-81.344,290

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9639,Conewago,PA,,city-us,8614,40.064,-76.796,234
-9636,Conewago,PA,,city-us,7860,39.798,-77.024,234
-9637,Conewago,PA,,city-us,2964,40.215,-76.616,234
-9638,Conewago,PA,,city-us,0,40.158,-76.660,209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9639,Conewago,PA,York County,,city-us,8614,40.064,-76.796,234
+9636,Conewago,PA,Adams County,,city-us,7860,39.798,-77.024,234
+9637,Conewago,PA,Dauphin County,,city-us,2964,40.215,-76.616,234
+9638,Conewago,PA,Lancaster County,,city-us,0,40.158,-76.660,209

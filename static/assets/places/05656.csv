@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29057,Monona,WI,,city-us,8779,43.062,-89.334,4999
-29056,Monona,IA,,city-us,1477,43.052,-91.389,3204
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29057,Monona,WI,Dane County,,city-us,8779,43.062,-89.334,4999
+29056,Monona,IA,Clayton County,,city-us,1477,43.052,-91.389,3204

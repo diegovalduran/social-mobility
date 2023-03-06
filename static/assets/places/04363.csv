@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22565,Kearny,NJ,,city-us,40370,40.768,-74.145,29040
-22561,Kearney,NE,,city-us,33959,40.699,-99.081,13339
-22562,Kearney,MO,,city-us,10741,39.368,-94.362,5811
-22566,Kearny,AZ,,city-us,1789,33.057,-110.911,3418
-22560,Kearney,MI,,city-us,1782,44.997,-85.137,1964
-22563,Kearney,NC,,city-us,0,36.225,-78.273,315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22565,Kearny,NJ,Hudson County,,city-us,40370,40.768,-74.145,29040
+22561,Kearney,NE,Buffalo County,,city-us,33959,40.699,-99.081,13339
+22562,Kearney,MO,Clay County,,city-us,10741,39.368,-94.362,5811
+22566,Kearny,AZ,Pinal County,,city-us,1789,33.057,-110.911,3418
+22560,Kearney,MI,Antrim County,,city-us,1782,44.997,-85.137,1964
+22563,Kearney,NC,Franklin County,,city-us,0,36.225,-78.273,315

@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25289,Livingston,NJ,,city-us,31087,40.786,-74.329,41651
-25296,Livingston,CA,,city-us,14528,37.387,-120.724,9672
-25300,Livingston,MT,,city-us,8386,45.662,-110.561,13857
-25301,Livingston,TX,,city-us,5829,30.711,-94.933,8356
-25299,Livingston,TN,,city-us,3994,36.383,-85.323,3239
-25288,Livingston,NY,,city-us,3663,42.139,-73.797,3729
-25303,Livingston,AL,,city-us,3153,32.584,-88.187,6546
-25298,Livingston,MI,,city-us,2674,45.076,-84.676,2176
-25293,Livingston,LA,,city-us,1912,30.502,-90.748,4013
-25294,Livingston,IL,,city-us,766,38.968,-89.764,2416
-25291,Livingston,WI,,city-us,640,42.900,-90.434,3529
-25302,Livingston,KY,,city-us,165,37.298,-84.215,3104
-25297,Livingston,SC,,city-us,130,33.553,-81.119,1833
-25287,Livingston,IL,,city-us,0,39.407,-87.646,150
-25290,Livingston,GA,,city-us,0,34.213,-85.349,288
-25292,Livingston,WV,,city-us,0,38.157,-81.407,136
-25295,Livingston,MS,,city-us,0,32.553,-90.216,1613
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25289,Livingston,NJ,Essex County,,city-us,31087,40.786,-74.329,41651
+25296,Livingston,CA,Merced County,,city-us,14528,37.387,-120.724,9672
+25300,Livingston,MT,Park County,,city-us,8386,45.662,-110.561,13857
+25301,Livingston,TX,Polk County,,city-us,5829,30.711,-94.933,8356
+25299,Livingston,TN,Overton County,,city-us,3994,36.383,-85.323,3239
+25288,Livingston,NY,Columbia County,,city-us,3663,42.139,-73.797,3729
+25303,Livingston,AL,Sumter County,,city-us,3153,32.584,-88.187,6546
+25298,Livingston,MI,Otsego County,,city-us,2674,45.076,-84.676,2176
+25293,Livingston,LA,Livingston Parish,,city-us,1912,30.502,-90.748,4013
+25294,Livingston,IL,Madison County,,city-us,766,38.968,-89.764,2416
+25291,Livingston,WI,Grant County / Iowa County,,city-us,640,42.900,-90.434,3529
+25302,Livingston,KY,Rockcastle County,,city-us,165,37.298,-84.215,3104
+25297,Livingston,SC,Orangeburg County,,city-us,130,33.553,-81.119,1833
+25287,Livingston,IL,Clark County,,city-us,0,39.407,-87.646,150
+25290,Livingston,GA,Floyd County,,city-us,0,34.213,-85.349,288
+25292,Livingston,WV,Kanawha County,,city-us,0,38.157,-81.407,136
+25295,Livingston,MS,Madison County,,city-us,0,32.553,-90.216,1613

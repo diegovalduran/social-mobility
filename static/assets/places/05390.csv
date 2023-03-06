@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27599,McKittrick,CA,,city-us,113,35.306,-119.623,4865
-27600,McKittrick,MO,,city-us,79,38.735,-91.444,2858
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27599,McKittrick,CA,Kern County,,city-us,113,35.306,-119.623,4865
+27600,McKittrick,MO,Montgomery County,,city-us,79,38.735,-91.444,2858

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13912,Eskdale,WV,,city-us,0,38.091,-81.444,204
-13913,EskDale,UT,,city-us,0,39.107,-113.953,780
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13912,Eskdale,WV,Kanawha County,,city-us,0,38.091,-81.444,204
+13913,EskDale,UT,Millard County,,city-us,0,39.107,-113.953,780

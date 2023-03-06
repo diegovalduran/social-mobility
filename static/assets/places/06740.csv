@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34247,Pineville,LA,,city-us,14501,31.322,-92.434,7967
-34246,Pineville,NC,,city-us,10678,35.083,-80.892,5921
-34241,Pineville,KY,,city-us,1662,36.762,-83.695,7649
-34245,Pineville,MO,,city-us,804,36.595,-94.384,4575
-34249,Pineville,WV,,city-us,638,37.583,-81.537,5521
-34244,Pineville,AR,,city-us,159,36.163,-92.107,1561
-34242,Pineville,SC,,city-us,0,33.428,-80.029,470
-34243,Pineville,PA,,city-us,0,40.296,-75.006,1579
-34248,Pineville,MN,,city-us,0,47.536,-92.294,193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34247,Pineville,LA,Rapides Parish,,city-us,14501,31.322,-92.434,7967
+34246,Pineville,NC,Mecklenburg County,,city-us,10678,35.083,-80.892,5921
+34241,Pineville,KY,Bell County,,city-us,1662,36.762,-83.695,7649
+34245,Pineville,MO,McDonald County,,city-us,804,36.595,-94.384,4575
+34249,Pineville,WV,Wyoming County,,city-us,638,37.583,-81.537,5521
+34244,Pineville,AR,Izard County,,city-us,159,36.163,-92.107,1561
+34242,Pineville,SC,Berkeley County,,city-us,0,33.428,-80.029,470
+34243,Pineville,PA,Bucks County,,city-us,0,40.296,-75.006,1579
+34248,Pineville,MN,St. Louis County,,city-us,0,47.536,-92.294,193

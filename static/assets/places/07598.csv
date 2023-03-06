@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38544,Sandersville,GA,,city-us,5654,32.982,-82.810,6061
-38543,Sandersville,MS,,city-us,632,31.787,-89.032,3157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38544,Sandersville,GA,Washington County,,city-us,5654,32.982,-82.810,6061
+38543,Sandersville,MS,Jones County,,city-us,632,31.787,-89.032,3157

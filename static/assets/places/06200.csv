@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31641,Nutterville,WV,,city-us,0,38.087,-80.814,144
-31642,Nutterville,WI,,city-us,0,45.004,-89.527,191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31641,Nutterville,WV,Greenbrier County,,city-us,0,38.087,-80.814,144
+31642,Nutterville,WI,Marathon County,,city-us,0,45.004,-89.527,191

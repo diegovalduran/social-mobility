@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26003,Lumber City,GA,,city-us,1021,31.929,-82.680,2729
-26002,Lumber City,PA,,city-us,252,40.660,-77.601,286
-26001,Lumber City,PA,,city-us,76,40.932,-78.580,2632
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26003,Lumber City,GA,Telfair County,,city-us,1021,31.929,-82.680,2729
+26002,Lumber City,PA,Mifflin County,,city-us,252,40.660,-77.601,286
+26001,Lumber City,PA,Clearfield County,,city-us,76,40.932,-78.580,2632

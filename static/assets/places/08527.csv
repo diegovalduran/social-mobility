@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42927,Tiffany,WI,,city-us,622,45.080,-92.072,1917
-42928,Tiffany,ND,,city-us,26,47.715,-98.848,0
-42929,Tiffany,CO,,city-us,0,37.033,-107.538,284
-42930,Tiffany,WI,,city-us,0,42.583,-88.927,170
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42927,Tiffany,WI,Dunn County,,city-us,622,45.080,-92.072,1917
+42928,Tiffany,ND,Eddy County,,city-us,26,47.715,-98.848,0
+42929,Tiffany,CO,La Plata County,,city-us,0,37.033,-107.538,284
+42930,Tiffany,WI,Rock County,,city-us,0,42.583,-88.927,170

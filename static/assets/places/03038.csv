@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15243,Flushing,MI,,city-us,8344,43.063,-83.851,16273
-15242,Flushing,OH,,city-us,823,40.150,-81.066,3352
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15243,Flushing,MI,Genesee County,,city-us,8344,43.063,-83.851,16273
+15242,Flushing,OH,Belmont County,,city-us,823,40.150,-81.066,3352

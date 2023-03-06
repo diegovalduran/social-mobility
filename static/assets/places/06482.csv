@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33028,Panama,,,country,4404108,8.538,-80.782,63059
-33024,Panama,OK,,city-us,1285,35.167,-94.672,3565
-33021,Panama,NY,,city-us,461,42.075,-79.483,3441
-33020,Panama,IL,,city-us,338,39.029,-89.524,2389
-33023,Panama,NE,,city-us,233,40.598,-96.511,4105
-33025,Panama,IA,,city-us,233,41.726,-95.472,3328
-33022,Panama,CA,,city-us,0,35.267,-119.057,320
-33026,Panama,IN,,city-us,0,41.706,-85.108,154
-33027,Panama,MO,,city-us,0,38.047,-94.355,517
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33028,Panama,,,,country,4404108,8.538,-80.782,63059
+33024,Panama,OK,Le Flore County,,city-us,1285,35.167,-94.672,3565
+33021,Panama,NY,Chautauqua County,,city-us,461,42.075,-79.483,3441
+33020,Panama,IL,Bond County / Montgomery County,,city-us,338,39.029,-89.524,2389
+33023,Panama,NE,Lancaster County,,city-us,233,40.598,-96.511,4105
+33025,Panama,IA,Shelby County,,city-us,233,41.726,-95.472,3328
+33022,Panama,CA,Kern County,,city-us,0,35.267,-119.057,320
+33026,Panama,IN,Steuben County,,city-us,0,41.706,-85.108,154
+33027,Panama,MO,Vernon County,,city-us,0,38.047,-94.355,517

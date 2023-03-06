@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47388,Wisdom,MT,,city-us,132,45.618,-113.451,4942
-47389,Wisdom,MO,,city-us,0,38.167,-93.477,329
-47390,Wisdom,KY,,city-us,0,37.004,-85.720,6621
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47388,Wisdom,MT,Beaverhead County,,city-us,132,45.618,-113.451,4942
+47389,Wisdom,MO,Benton County,,city-us,0,38.167,-93.477,329
+47390,Wisdom,KY,Metcalfe County,,city-us,0,37.004,-85.720,6621

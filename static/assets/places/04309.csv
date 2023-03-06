@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22277,Jolly,TX,,city-us,173,33.864,-98.349,1859
-22276,Jolley,IA,,city-us,28,42.479,-94.719,3198
-22278,Jolly,MO,,city-us,0,36.896,-94.070,669
-22279,Jolly,GA,,city-us,0,33.122,-84.390,292
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22277,Jolly,TX,Clay County,,city-us,173,33.864,-98.349,1859
+22276,Jolley,IA,Calhoun County,,city-us,28,42.479,-94.719,3198
+22278,Jolly,MO,Newton County,,city-us,0,36.896,-94.070,669
+22279,Jolly,GA,Pike County,,city-us,0,33.122,-84.390,292

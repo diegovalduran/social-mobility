@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47302,Winnebago,IL,,city-us,4944,42.247,-89.227,283
-47299,Winnebago,MN,,city-us,1377,43.768,-94.166,4254
-47301,Winnebago,NE,,city-us,905,42.236,-96.473,4153
-47300,Winnebago,MN,,city-us,226,43.540,-91.439,1760
-47303,Winnebago,WI,,city-us,0,44.076,-88.525,907
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47302,Winnebago,IL,Winnebago County,,city-us,4944,42.247,-89.227,283
+47299,Winnebago,MN,Faribault County,,city-us,1377,43.768,-94.166,4254
+47301,Winnebago,NE,Thurston County,,city-us,905,42.236,-96.473,4153
+47300,Winnebago,MN,Houston County,,city-us,226,43.540,-91.439,1760
+47303,Winnebago,WI,Winnebago County,,city-us,0,44.076,-88.525,907

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23471,Laflin,PA,,city-us,1446,41.289,-75.805,2779
-23470,Laflin,MO,,city-us,0,37.277,-89.888,528
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23471,Laflin,PA,Luzerne County,,city-us,1446,41.289,-75.805,2779
+23470,Laflin,MO,Bollinger County,,city-us,0,37.277,-89.888,528

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19435,Haywood,OK,,city-us,150,34.887,-95.948,481
-19431,Haywood,KY,,city-us,0,36.946,-85.974,123
-19432,Haywood,NC,,city-us,0,35.620,-79.064,2185
-19433,Haywood,WV,,city-us,0,39.381,-80.336,447
-19434,Haywood,VA,,city-us,0,38.453,-78.252,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19435,Haywood,OK,Pittsburg County,,city-us,150,34.887,-95.948,481
+19431,Haywood,KY,Barren County,,city-us,0,36.946,-85.974,123
+19432,Haywood,NC,Chatham County,,city-us,0,35.620,-79.064,2185
+19433,Haywood,WV,Harrison County,,city-us,0,39.381,-80.336,447
+19434,Haywood,VA,Madison County,,city-us,0,38.453,-78.252,92

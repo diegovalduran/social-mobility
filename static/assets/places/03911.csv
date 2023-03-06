@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20017,Hilbert,WI,,city-us,1223,44.140,-88.164,3133
-20018,Hilbert,WV,,city-us,0,38.922,-81.367,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20017,Hilbert,WI,Calumet County,,city-us,1223,44.140,-88.164,3133
+20018,Hilbert,WV,Wirt County,,city-us,0,38.922,-81.367,86

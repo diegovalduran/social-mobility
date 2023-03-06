@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-211,Adelaide,,Australia,city-international,1295714,-34.928,138.600,67448
-209,Adelaide,ND,,city-us,24,46.163,-103.677,169
-210,Adelaide,GA,,city-us,0,31.267,-84.149,190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+211,Adelaide,,,Australia,city-international,1295714,-34.928,138.600,67448
+209,Adelaide,ND,Bowman County,,city-us,24,46.163,-103.677,169
+210,Adelaide,GA,Mitchell County,,city-us,0,31.267,-84.149,190

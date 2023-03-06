@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5877,Buckley,WA,,city-us,5321,47.163,-122.027,9340
-5878,Buckley,MI,,city-us,774,44.504,-85.677,3450
-5876,Buckley,IL,,city-us,485,40.597,-88.038,2394
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5877,Buckley,WA,Pierce County,,city-us,5321,47.163,-122.027,9340
+5878,Buckley,MI,Wexford County,,city-us,774,44.504,-85.677,3450
+5876,Buckley,IL,Iroquois County,,city-us,485,40.597,-88.038,2394

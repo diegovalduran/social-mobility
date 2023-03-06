@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47295,Winkler,MO,,city-us,0,37.836,-91.557,397
-47296,Winkler,KS,,city-us,0,39.482,-96.832,371
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47295,Winkler,MO,Phelps County,,city-us,0,37.836,-91.557,397
+47296,Winkler,KS,Riley County,,city-us,0,39.482,-96.832,371

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28137,Middle Fork,WV,,city-us,0,39.062,-80.047,93
-28138,Middle Fork,TN,,city-us,0,35.536,-88.487,6256
-28139,Middle Fork,KY,,city-us,0,37.150,-83.157,94
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28137,Middle Fork,WV,Barbour County,,city-us,0,39.062,-80.047,93
+28138,Middle Fork,TN,Henderson County,,city-us,0,35.536,-88.487,6256
+28139,Middle Fork,KY,Perry County,,city-us,0,37.150,-83.157,94

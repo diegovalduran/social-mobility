@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14702,Farrell,PA,,city-us,4223,41.212,-80.497,5640
-14701,Farrell,MS,,city-us,259,34.264,-90.672,824
-14840,Ferrell,NJ,,city-us,0,39.675,-75.199,418
-14841,Ferrell,WV,,city-us,0,38.353,-81.833,314
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14702,Farrell,PA,Mercer County,,city-us,4223,41.212,-80.497,5640
+14701,Farrell,MS,Coahoma County,,city-us,259,34.264,-90.672,824
+14840,Ferrell,NJ,Gloucester County,,city-us,0,39.675,-75.199,418
+14841,Ferrell,WV,Kanawha County,,city-us,0,38.353,-81.833,314

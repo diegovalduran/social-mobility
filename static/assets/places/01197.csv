@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6032,Bug Tussle,OK,,city-us,87,35.031,-95.690,0
-6030,Bug Tussle,AL,,city-us,0,33.994,-86.970,1443
-6031,Bug Tussle,TX,,city-us,0,33.484,-95.944,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6032,Bug Tussle,OK,Pittsburg County,,city-us,87,35.031,-95.690,0
+6030,Bug Tussle,AL,Cullman County,,city-us,0,33.994,-86.970,1443
+6031,Bug Tussle,TX,Fannin County,,city-us,0,33.484,-95.944,245

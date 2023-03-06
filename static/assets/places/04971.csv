@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25588,Long Beach,CA,,city-us,456062,33.767,-118.189,70298
-25589,Long Beach,NY,,city-us,34778,40.588,-73.658,21926
-25586,Long Beach,MS,,city-us,16856,30.350,-89.153,5182
-25590,Long Beach,NJ,,city-us,3143,39.602,-74.226,15635
-25585,Long Beach,MD,,city-us,2126,38.461,-76.469,239
-25591,Long Beach,WA,,city-us,1719,46.352,-124.054,6860
-25587,Long Beach,IN,,city-us,1187,41.739,-86.857,5749
-25592,Long Beach,MN,,city-us,341,45.655,-95.418,3060
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25588,Long Beach,CA,Los Angeles County,,city-us,456062,33.767,-118.189,70298
+25589,Long Beach,NY,Nassau County,,city-us,34778,40.588,-73.658,21926
+25586,Long Beach,MS,Harrison County,,city-us,16856,30.350,-89.153,5182
+25590,Long Beach,NJ,Ocean County,,city-us,3143,39.602,-74.226,15635
+25585,Long Beach,MD,Calvert County,,city-us,2126,38.461,-76.469,239
+25591,Long Beach,WA,Pacific County,,city-us,1719,46.352,-124.054,6860
+25587,Long Beach,IN,LaPorte County,,city-us,1187,41.739,-86.857,5749
+25592,Long Beach,MN,Pope County,,city-us,341,45.655,-95.418,3060

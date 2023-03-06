@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21520,Ipswich,,United Kingdom,city-international,290000,52.059,1.156,30272
-21519,Ipswich,,Australia,city-international,163000,-27.617,152.767,25727
-21517,Ipswich,MA,,city-us,4659,42.679,-70.841,15757
-21516,Ipswich,SD,,city-us,929,45.444,-99.029,3425
-21518,Ipswich,WI,,city-us,0,42.708,-90.410,321
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21520,Ipswich,,,United Kingdom,city-international,290000,52.059,1.156,30272
+21519,Ipswich,,,Australia,city-international,163000,-27.617,152.767,25727
+21517,Ipswich,MA,Essex County,,city-us,4659,42.679,-70.841,15757
+21516,Ipswich,SD,Edmunds County,,city-us,929,45.444,-99.029,3425
+21518,Ipswich,WI,Lafayette County,,city-us,0,42.708,-90.410,321

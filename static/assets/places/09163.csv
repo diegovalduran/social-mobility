@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46161,Westby,WI,,city-us,2350,43.657,-90.854,6997
-46160,Westby,MT,,city-us,166,48.870,-104.052,3891
-46159,Westby,ND,,city-us,40,48.868,-103.969,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46161,Westby,WI,Vernon County,,city-us,2350,43.657,-90.854,6997
+46160,Westby,MT,Sheridan County,,city-us,166,48.870,-104.052,3891
+46159,Westby,ND,Divide County,,city-us,40,48.868,-103.969,0

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34894,Pomfret,NY,,city-us,13150,42.409,-79.331,5262
-34895,Pomfret,CT,,city-us,4271,41.868,-71.972,7170
-34896,Pomfret,VT,,city-us,931,43.700,-72.512,3702
-34893,Pomfret,MD,,city-us,462,38.577,-77.031,4576
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34894,Pomfret,NY,Chautauqua County,,city-us,13150,42.409,-79.331,5262
+34895,Pomfret,CT,Northeastern Connecticut Planning Region,,city-us,4271,41.868,-71.972,7170
+34896,Pomfret,VT,Windsor County,,city-us,931,43.700,-72.512,3702
+34893,Pomfret,MD,Charles County,,city-us,462,38.577,-77.031,4576

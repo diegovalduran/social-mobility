@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31395,North Liberty,IA,,city-us,20875,41.749,-91.598,6294
-31397,North Liberty,IN,,city-us,1626,41.534,-86.427,3587
-31396,North Liberty,OH,,city-us,0,40.538,-82.408,224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31395,North Liberty,IA,Johnson County,,city-us,20875,41.749,-91.598,6294
+31397,North Liberty,IN,St. Joseph County,,city-us,1626,41.534,-86.427,3587
+31396,North Liberty,OH,Knox County,,city-us,0,40.538,-82.408,224

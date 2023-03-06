@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10167,Cowan,TN,,city-us,1770,35.165,-86.011,3907
-10169,Cowan,CA,,city-us,595,37.560,-120.989,2217
-10173,Cowen,WV,,city-us,479,38.410,-80.558,2977
-10166,Cowan,IN,,city-us,0,40.106,-85.389,872
-10168,Cowan,VA,,city-us,0,37.185,-80.577,88
-10170,Cowan,PA,,city-us,0,40.958,-77.014,283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10167,Cowan,TN,Franklin County,,city-us,1770,35.165,-86.011,3907
+10169,Cowan,CA,Stanislaus County,,city-us,595,37.560,-120.989,2217
+10173,Cowen,WV,Webster County,,city-us,479,38.410,-80.558,2977
+10166,Cowan,IN,Delaware County,,city-us,0,40.106,-85.389,872
+10168,Cowan,VA,Pulaski County,,city-us,0,37.185,-80.577,88
+10170,Cowan,PA,Union County,,city-us,0,40.958,-77.014,283

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35003,Port Washington,NY,,city-us,16807,40.826,-73.698,12691
-35004,Port Washington,WI,,city-us,1556,43.427,-87.880,29061
-35005,Port Washington,OH,,city-us,546,40.328,-81.521,3410
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35003,Port Washington,NY,Nassau County,,city-us,16807,40.826,-73.698,12691
+35004,Port Washington,WI,Ozaukee County,,city-us,1556,43.427,-87.880,29061
+35005,Port Washington,OH,Tuscarawas County,,city-us,546,40.328,-81.521,3410

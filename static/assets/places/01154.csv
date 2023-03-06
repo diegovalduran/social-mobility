@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5764,Brushy Creek,TX,,city-us,22972,30.514,-97.740,3161
-5763,Brushy Creek,TX,,city-us,0,31.958,-95.615,2353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5764,Brushy Creek,TX,Williamson County,,city-us,22972,30.514,-97.740,3161
+5763,Brushy Creek,TX,Anderson County,,city-us,0,31.958,-95.615,2353

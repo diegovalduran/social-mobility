@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6978,Carmen,,Philippines,city-international,107603,7.200,124.783,44499
-6976,Carmen,OK,,city-us,369,36.579,-98.462,1951
-6981,Carmine,TX,,city-us,244,30.149,-96.686,2549
-6967,Carman,IL,,city-us,67,40.741,-91.060,245
-6977,Carmen,ID,,city-us,0,45.242,-113.893,548
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6978,Carmen,,,Philippines,city-international,107603,7.200,124.783,44499
+6976,Carmen,OK,Alfalfa County,,city-us,369,36.579,-98.462,1951
+6981,Carmine,TX,Fayette County,,city-us,244,30.149,-96.686,2549
+6967,Carman,IL,Henderson County,,city-us,67,40.741,-91.060,245
+6977,Carmen,ID,Lemhi County,,city-us,0,45.242,-113.893,548

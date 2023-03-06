@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27357,Mayflower,AR,,city-us,2027,34.957,-92.427,4108
-27356,Mayflower,MO,,city-us,0,36.511,-94.052,256
-27358,Mayflower,VA,,city-us,0,36.830,-83.081,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27357,Mayflower,AR,Faulkner County,,city-us,2027,34.957,-92.427,4108
+27356,Mayflower,MO,Barry County,,city-us,0,36.511,-94.052,256
+27358,Mayflower,VA,Lee County,,city-us,0,36.830,-83.081,82

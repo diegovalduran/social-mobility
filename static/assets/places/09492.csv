@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47982,Yoder,KS,,city-us,798,37.963,-97.876,1345
-47981,Yoder,WY,,city-us,133,41.917,-104.296,1921
-47978,Yoder,IN,,city-us,0,40.931,-85.177,206
-47979,Yoder,OR,,city-us,0,45.138,-122.681,1033
-47980,Yoder,CO,,city-us,0,38.839,-104.222,434
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47982,Yoder,KS,Reno County,,city-us,798,37.963,-97.876,1345
+47981,Yoder,WY,Goshen County,,city-us,133,41.917,-104.296,1921
+47978,Yoder,IN,Allen County,,city-us,0,40.931,-85.177,206
+47979,Yoder,OR,Clackamas County,,city-us,0,45.138,-122.681,1033
+47980,Yoder,CO,El Paso County,,city-us,0,38.839,-104.222,434

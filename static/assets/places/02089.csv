@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10505,Crow,SD,,city-us,10,44.072,-98.861,0
-10506,Crow,OR,,city-us,0,43.993,-123.338,491
-10507,Crow,WV,,city-us,0,37.759,-81.077,228
-10508,Crow,TX,,city-us,0,32.616,-95.310,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10505,Crow,SD,Jerauld County,,city-us,10,44.072,-98.861,0
+10506,Crow,OR,Lane County,,city-us,0,43.993,-123.338,491
+10507,Crow,WV,Raleigh County,,city-us,0,37.759,-81.077,228
+10508,Crow,TX,Wood County,,city-us,0,32.616,-95.310,261

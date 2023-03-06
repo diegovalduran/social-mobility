@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21451,Ino,WI,,city-us,0,46.531,-91.179,222
-21452,Ino,AL,,city-us,0,31.271,-86.095,419
-21453,Ino,VA,,city-us,0,37.763,-76.798,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21451,Ino,WI,Bayfield County,,city-us,0,46.531,-91.179,222
+21452,Ino,AL,Coffee County,,city-us,0,31.271,-86.095,419
+21453,Ino,VA,King and Queen County,,city-us,0,37.763,-76.798,87

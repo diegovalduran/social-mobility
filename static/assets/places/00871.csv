@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4464,Blount,IL,,city-us,3233,40.213,-87.702,1811
-4462,Blount,WV,,city-us,0,38.321,-81.426,261
-4463,Blount,GA,,city-us,0,33.180,-83.959,319
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4464,Blount,IL,Vermilion County,,city-us,3233,40.213,-87.702,1811
+4462,Blount,WV,Kanawha County,,city-us,0,38.321,-81.426,261
+4463,Blount,GA,Monroe County,,city-us,0,33.180,-83.959,319

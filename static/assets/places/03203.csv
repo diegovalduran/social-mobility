@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16190,Gale,WI,,city-us,1719,44.104,-91.295,1994
-16189,Gale,KS,,city-us,239,38.393,-97.094,881
-16168,Gail,TX,,city-us,173,32.770,-101.445,3706
-16187,Gale,IL,,city-us,0,37.249,-89.448,189
-16188,Gale,IN,,city-us,0,39.767,-86.467,365
-16191,Gale,WV,,city-us,0,38.904,-80.103,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16190,Gale,WI,Trempealeau County,,city-us,1719,44.104,-91.295,1994
+16189,Gale,KS,Marion County,,city-us,239,38.393,-97.094,881
+16168,Gail,TX,Borden County,,city-us,173,32.770,-101.445,3706
+16187,Gale,IL,Alexander County,,city-us,0,37.249,-89.448,189
+16188,Gale,IN,Hendricks County,,city-us,0,39.767,-86.467,365
+16191,Gale,WV,Upshur County,,city-us,0,38.904,-80.103,85

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9203,Cokesbury,SC,,city-us,428,34.289,-82.208,2403
-9204,Cokesbury,NC,,city-us,0,35.525,-78.909,1445
-9205,Cokesbury,NJ,,city-us,0,40.683,-74.836,1422
-9206,Cokesbury,MD,,city-us,0,38.127,-75.579,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9203,Cokesbury,SC,Greenwood County,,city-us,428,34.289,-82.208,2403
+9204,Cokesbury,NC,Harnett County,,city-us,0,35.525,-78.909,1445
+9205,Cokesbury,NJ,Hunterdon County,,city-us,0,40.683,-74.836,1422
+9206,Cokesbury,MD,Somerset County,,city-us,0,38.127,-75.579,318

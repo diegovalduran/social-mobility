@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21472,Inverness,FL,,city-us,7624,28.836,-82.330,8365
-21473,Inverness,IL,,city-us,7449,42.118,-88.096,5581
-21469,Inverness,CO,,city-us,2342,39.577,-104.861,1340
-21471,Inverness,MI,,city-us,2167,45.589,-84.545,2663
-21475,Inverness,CA,,city-us,1660,38.101,-122.857,5263
-21478,Inverness,MS,,city-us,839,33.354,-90.593,4810
-21474,Inverness,MT,,city-us,50,48.557,-110.684,1955
-21470,Inverness,AL,,city-us,0,32.015,-85.746,453
-21476,Inverness,AL,,city-us,0,33.407,-86.711,890
-21477,Inverness,IN,,city-us,0,41.701,-85.094,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21472,Inverness,FL,Citrus County,,city-us,7624,28.836,-82.330,8365
+21473,Inverness,IL,Cook County,,city-us,7449,42.118,-88.096,5581
+21469,Inverness,CO,Arapahoe County,,city-us,2342,39.577,-104.861,1340
+21471,Inverness,MI,Cheboygan County,,city-us,2167,45.589,-84.545,2663
+21475,Inverness,CA,Marin County,,city-us,1660,38.101,-122.857,5263
+21478,Inverness,MS,Sunflower County,,city-us,839,33.354,-90.593,4810
+21474,Inverness,MT,Hill County,,city-us,50,48.557,-110.684,1955
+21470,Inverness,AL,Bullock County,,city-us,0,32.015,-85.746,453
+21476,Inverness,AL,Shelby County,,city-us,0,33.407,-86.711,890
+21477,Inverness,IN,Steuben County,,city-us,0,41.701,-85.094,159

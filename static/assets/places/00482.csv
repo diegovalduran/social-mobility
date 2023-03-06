@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2503,Barnhill,OH,,city-us,376,40.448,-81.369,3007
-2504,Barnhill,IL,,city-us,0,38.284,-88.364,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2503,Barnhill,OH,Tuscarawas County,,city-us,376,40.448,-81.369,3007
+2504,Barnhill,IL,Wayne County,,city-us,0,38.284,-88.364,202

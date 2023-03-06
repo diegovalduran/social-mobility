@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44558,Vienna,,Austria,city-international,1911191,48.208,16.372,76545
-44540,Vienna,VA,,city-us,16329,38.901,-77.265,14648
-44542,Vienna,MI,,city-us,13225,43.180,-83.761,3995
-44557,Vienna,WV,,city-us,10576,39.327,-81.548,4054
-44550,Vienna,NY,,city-us,5188,43.232,-75.772,3838
-44548,Vienna,MI,,city-us,4299,41.772,-83.489,6887
-44555,Vienna,OH,,city-us,3970,41.234,-80.667,8246
-44538,Vienna,GA,,city-us,2912,32.092,-83.795,4537
-44537,Vienna,WI,,city-us,1664,43.248,-89.429,2287
-44544,Vienna,IL,,city-us,1473,37.415,-88.898,6024
-44556,Vienna,NJ,,city-us,849,40.869,-74.889,1310
-44543,Vienna,IL,,city-us,665,41.242,-88.523,704
-44545,Vienna,ME,,city-us,590,44.555,-70.000,2894
-44549,Vienna,MI,,city-us,540,45.032,-84.342,258
-44547,Vienna,MO,,city-us,528,38.187,-91.947,3762
-44546,Vienna,LA,,city-us,475,32.591,-92.648,2809
-44539,Vienna,MD,,city-us,270,38.485,-75.825,5409
-44553,Vienna,MN,,city-us,150,43.714,-96.123,2183
-44552,Vienna,KS,,city-us,90,39.427,-96.174,0
-44536,Vienna,SD,,city-us,46,44.703,-97.501,2987
-44541,Vienna,NC,,city-us,0,36.138,-80.402,359
-44551,Vienna,AL,,city-us,0,33.019,-88.192,724
-44554,Vienna,IN,,city-us,0,38.649,-85.769,315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44558,Vienna,,,Austria,city-international,1911191,48.208,16.372,76545
+44540,Vienna,VA,Fairfax County,,city-us,16329,38.901,-77.265,14648
+44542,Vienna,MI,Genesee County,,city-us,13225,43.180,-83.761,3995
+44557,Vienna,WV,Wood County,,city-us,10576,39.327,-81.548,4054
+44550,Vienna,NY,Oneida County,,city-us,5188,43.232,-75.772,3838
+44548,Vienna,MI,Monroe County,,city-us,4299,41.772,-83.489,6887
+44555,Vienna,OH,Trumbull County,,city-us,3970,41.234,-80.667,8246
+44538,Vienna,GA,Dooly County,,city-us,2912,32.092,-83.795,4537
+44537,Vienna,WI,Dane County,,city-us,1664,43.248,-89.429,2287
+44544,Vienna,IL,Johnson County,,city-us,1473,37.415,-88.898,6024
+44556,Vienna,NJ,Warren County,,city-us,849,40.869,-74.889,1310
+44543,Vienna,IL,Grundy County,,city-us,665,41.242,-88.523,704
+44545,Vienna,ME,Kennebec County,,city-us,590,44.555,-70.000,2894
+44549,Vienna,MI,Montmorency County,,city-us,540,45.032,-84.342,258
+44547,Vienna,MO,Maries County,,city-us,528,38.187,-91.947,3762
+44546,Vienna,LA,Lincoln Parish,,city-us,475,32.591,-92.648,2809
+44539,Vienna,MD,Dorchester County,,city-us,270,38.485,-75.825,5409
+44553,Vienna,MN,Rock County,,city-us,150,43.714,-96.123,2183
+44552,Vienna,KS,Pottawatomie County,,city-us,90,39.427,-96.174,0
+44536,Vienna,SD,Clark County,,city-us,46,44.703,-97.501,2987
+44541,Vienna,NC,Forsyth County,,city-us,0,36.138,-80.402,359
+44551,Vienna,AL,Pickens County,,city-us,0,33.019,-88.192,724
+44554,Vienna,IN,Scott County,,city-us,0,38.649,-85.769,315

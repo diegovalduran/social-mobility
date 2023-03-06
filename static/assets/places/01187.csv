@@ -1,29 +1,29 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5928,Buena Vista,NJ,,city-us,7046,39.513,-74.880,12986
-5931,Buena Vista,VA,,city-us,6601,37.734,-79.354,9086
-5949,Buena Vista,MI,,city-us,5855,43.420,-83.899,2816
-5933,Buena Vista,CO,,city-us,2988,38.842,-106.131,7046
-5948,Buena Vista,WI,,city-us,1815,43.238,-90.246,2122
-5950,Buena Vista,IL,,city-us,1796,40.141,-90.619,344
-5942,Buena Vista,GA,,city-us,1502,32.319,-84.517,4222
-5946,Buena Vista,WI,,city-us,1138,44.371,-89.459,2223
-5927,Buena Vista,CA,,city-us,838,38.294,-120.913,2707
-5952,Buena Vista,TX,,city-us,73,26.294,-98.611,386
-5930,Buena Vista,ND,,city-us,21,46.243,-103.058,140
-5926,Buena Vista,PA,,city-us,0,40.277,-79.799,603
-5929,Buena Vista,TX,,city-us,0,29.271,-98.461,699
-5932,Buena Vista,TN,,city-us,0,35.976,-88.289,112
-5934,Buena Vista,MS,,city-us,0,33.884,-88.838,1602
-5935,Buena Vista,IA,,city-us,0,41.742,-90.740,2473
-5936,Buena Vista,OH,,city-us,0,39.422,-83.494,630
-5937,Buena Vista,IN,,city-us,0,39.439,-85.272,254
-5938,Buena Vista,WI,,city-us,0,42.713,-90.688,1847
-5939,Buena Vista,IN,,city-us,0,38.059,-85.980,715
-5940,Buena Vista,KY,,city-us,0,38.436,-84.168,309
-5941,Buena Vista,OH,,city-us,0,39.550,-82.671,273
-5943,Buena Vista,AL,,city-us,0,31.793,-87.259,232
-5944,Buena Vista,NM,,city-us,0,35.914,-105.249,227
-5945,Buena Vista,OR,,city-us,0,44.770,-123.149,2637
-5947,Buena Vista,IN,,city-us,0,40.121,-85.073,230
-5951,Buena Vista,OH,,city-us,0,38.630,-83.261,325
-5953,Buena Vista,IL,,city-us,0,42.426,-89.678,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5928,Buena Vista,NJ,Atlantic County,,city-us,7046,39.513,-74.880,12986
+5931,Buena Vista,VA,Buena Vista city,,city-us,6601,37.734,-79.354,9086
+5949,Buena Vista,MI,Saginaw County,,city-us,5855,43.420,-83.899,2816
+5933,Buena Vista,CO,Chaffee County,,city-us,2988,38.842,-106.131,7046
+5948,Buena Vista,WI,Richland County,,city-us,1815,43.238,-90.246,2122
+5950,Buena Vista,IL,Schuyler County,,city-us,1796,40.141,-90.619,344
+5942,Buena Vista,GA,Marion County,,city-us,1502,32.319,-84.517,4222
+5946,Buena Vista,WI,Portage County,,city-us,1138,44.371,-89.459,2223
+5927,Buena Vista,CA,Amador County,,city-us,838,38.294,-120.913,2707
+5952,Buena Vista,TX,Starr County,,city-us,73,26.294,-98.611,386
+5930,Buena Vista,ND,Bowman County,,city-us,21,46.243,-103.058,140
+5926,Buena Vista,PA,Allegheny County,,city-us,0,40.277,-79.799,603
+5929,Buena Vista,TX,Bexar County,,city-us,0,29.271,-98.461,699
+5932,Buena Vista,TN,Carroll County,,city-us,0,35.976,-88.289,112
+5934,Buena Vista,MS,Chickasaw County,,city-us,0,33.884,-88.838,1602
+5935,Buena Vista,IA,Clinton County,,city-us,0,41.742,-90.740,2473
+5936,Buena Vista,OH,Fayette County,,city-us,0,39.422,-83.494,630
+5937,Buena Vista,IN,Franklin County,,city-us,0,39.439,-85.272,254
+5938,Buena Vista,WI,Grant County,,city-us,0,42.713,-90.688,1847
+5939,Buena Vista,IN,Harrison County,,city-us,0,38.059,-85.980,715
+5940,Buena Vista,KY,Harrison County,,city-us,0,38.436,-84.168,309
+5941,Buena Vista,OH,Hocking County,,city-us,0,39.550,-82.671,273
+5943,Buena Vista,AL,Monroe County,,city-us,0,31.793,-87.259,232
+5944,Buena Vista,NM,Mora County,,city-us,0,35.914,-105.249,227
+5945,Buena Vista,OR,Polk County,,city-us,0,44.770,-123.149,2637
+5947,Buena Vista,IN,Randolph County,,city-us,0,40.121,-85.073,230
+5951,Buena Vista,OH,Scioto County,,city-us,0,38.630,-83.261,325
+5953,Buena Vista,IL,Stephenson County,,city-us,0,42.426,-89.678,285

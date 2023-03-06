@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4632,Bois D'Arc,IL,,city-us,921,39.490,-89.602,820
-4629,Bois d'Arc,TX,,city-us,0,31.959,-95.753,1643
-4630,Bois d'Arc,KS,,city-us,0,37.596,-96.925,1414
-4631,Bois D'Arc,MO,,city-us,0,37.256,-93.508,419
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4632,Bois D'Arc,IL,Montgomery County,,city-us,921,39.490,-89.602,820
+4629,Bois d'Arc,TX,Anderson County,,city-us,0,31.959,-95.753,1643
+4630,Bois d'Arc,KS,Butler County,,city-us,0,37.596,-96.925,1414
+4631,Bois D'Arc,MO,Greene County,,city-us,0,37.256,-93.508,419

@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27404,Mayville,WI,,city-us,5144,43.494,-88.545,5790
-27409,Mayville,ND,,city-us,1783,47.498,-97.325,6173
-27402,Mayville,NY,,city-us,1468,42.254,-79.504,5792
-27403,Mayville,WI,,city-us,966,44.992,-90.388,1891
-27410,Mayville,MI,,city-us,917,43.337,-83.352,3789
-27406,Mayville,MN,,city-us,364,43.633,-91.440,1986
-27405,Mayville,OR,,city-us,0,45.082,-120.192,555
-27407,Mayville,PA,,city-us,0,41.087,-80.312,123
-27408,Mayville,MN,,city-us,0,43.764,-92.909,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27404,Mayville,WI,Dodge County,,city-us,5144,43.494,-88.545,5790
+27409,Mayville,ND,Traill County,,city-us,1783,47.498,-97.325,6173
+27402,Mayville,NY,Chautauqua County,,city-us,1468,42.254,-79.504,5792
+27403,Mayville,WI,Clark County,,city-us,966,44.992,-90.388,1891
+27410,Mayville,MI,Tuscola County,,city-us,917,43.337,-83.352,3789
+27406,Mayville,MN,Houston County,,city-us,364,43.633,-91.440,1986
+27405,Mayville,OR,Gilliam County,,city-us,0,45.082,-120.192,555
+27407,Mayville,PA,Lawrence County,,city-us,0,41.087,-80.312,123
+27408,Mayville,MN,Mower County,,city-us,0,43.764,-92.909,84

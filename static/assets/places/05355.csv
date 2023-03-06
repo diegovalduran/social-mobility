@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27601,McLain,MS,,city-us,323,31.109,-88.827,3671
-27454,McClain,WV,,city-us,0,38.995,-81.536,89
-27602,McLain,KS,,city-us,0,37.999,-97.263,654
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27601,McLain,MS,Greene County,,city-us,323,31.109,-88.827,3671
+27454,McClain,WV,Jackson County,,city-us,0,38.995,-81.536,89
+27602,McLain,KS,Harvey County,,city-us,0,37.999,-97.263,654

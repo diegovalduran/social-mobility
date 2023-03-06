@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3587,Berkeley,CA,,city-us,117145,37.872,-122.273,62688
-3591,Berkeley,NJ,,city-us,44348,39.913,-74.193,16415
-3597,Berkley,MI,,city-us,15085,42.503,-83.184,12367
-3593,Berkley,CO,,city-us,10920,39.804,-105.026,2540
-3592,Berkeley,MO,,city-us,8148,38.755,-90.331,5980
-3595,Berkley,MA,,city-us,6785,41.838,-71.078,6810
-3590,Berkeley,IL,,city-us,5214,41.889,-87.903,6384
-3594,Berkley,IA,,city-us,23,41.945,-94.115,2837
-3588,Berkeley,VA,,city-us,0,38.079,-78.486,72
-3589,Berkeley,WV,,city-us,0,39.503,-77.927,332
-3596,Berkley,MD,,city-us,0,39.661,-76.209,161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3587,Berkeley,CA,Alameda County,,city-us,117145,37.872,-122.273,62688
+3591,Berkeley,NJ,Ocean County,,city-us,44348,39.913,-74.193,16415
+3597,Berkley,MI,Oakland County,,city-us,15085,42.503,-83.184,12367
+3593,Berkley,CO,Adams County,,city-us,10920,39.804,-105.026,2540
+3592,Berkeley,MO,St. Louis County,,city-us,8148,38.755,-90.331,5980
+3595,Berkley,MA,Bristol County,,city-us,6785,41.838,-71.078,6810
+3590,Berkeley,IL,Cook County,,city-us,5214,41.889,-87.903,6384
+3594,Berkley,IA,Boone County,,city-us,23,41.945,-94.115,2837
+3588,Berkeley,VA,Albemarle County,,city-us,0,38.079,-78.486,72
+3589,Berkeley,WV,Berkeley County,,city-us,0,39.503,-77.927,332
+3596,Berkley,MD,Harford County,,city-us,0,39.661,-76.209,161

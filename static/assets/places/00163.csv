@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-846,Altmar,NY,,city-us,312,43.510,-76.002,3431
-845,Altmar,IL,,city-us,0,41.142,-88.892,227
+id,name,state,county,country,level,population,latitude,longitude,wiki
+846,Altmar,NY,Oswego County,,city-us,312,43.510,-76.002,3431
+845,Altmar,IL,LaSalle County,,city-us,0,41.142,-88.892,227

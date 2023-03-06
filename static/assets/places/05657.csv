@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29059,Monongahela,PA,,city-us,4121,40.203,-79.926,7601
-29058,Monongahela,PA,,city-us,1466,39.815,-79.947,2841
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29059,Monongahela,PA,Washington County,,city-us,4121,40.203,-79.926,7601
+29058,Monongahela,PA,Greene County,,city-us,1466,39.815,-79.947,2841

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3240,Bellefonte,PA,,city-us,6079,40.913,-77.778,12410
-3242,Bellefonte,DE,,city-us,1220,39.766,-75.509,3913
-3241,Bellefonte,KY,,city-us,910,38.493,-82.690,7188
-3239,Bellefonte,AR,,city-us,422,36.201,-93.049,4780
-3235,Bellefont,KS,,city-us,0,37.873,-99.658,241
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3240,Bellefonte,PA,Centre County,,city-us,6079,40.913,-77.778,12410
+3242,Bellefonte,DE,New Castle County,,city-us,1220,39.766,-75.509,3913
+3241,Bellefonte,KY,Greenup County,,city-us,910,38.493,-82.690,7188
+3239,Bellefonte,AR,Boone County,,city-us,422,36.201,-93.049,4780
+3235,Bellefont,KS,Ford County,,city-us,0,37.873,-99.658,241

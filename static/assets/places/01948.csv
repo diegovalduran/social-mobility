@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9931,Cornelius,NC,,city-us,31650,35.487,-80.860,3768
-9932,Cornelius,OR,,city-us,13416,45.520,-123.060,6558
-9929,Cornelius,IN,,city-us,0,39.300,-86.298,316
-9930,Cornelius,KY,,city-us,0,37.314,-84.009,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9931,Cornelius,NC,Mecklenburg County,,city-us,31650,35.487,-80.860,3768
+9932,Cornelius,OR,Washington County,,city-us,13416,45.520,-123.060,6558
+9929,Cornelius,IN,Brown County,,city-us,0,39.300,-86.298,316
+9930,Cornelius,KY,Jackson County,,city-us,0,37.314,-84.009,86

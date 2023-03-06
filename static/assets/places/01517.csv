@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7627,Centertown,KY,,city-us,416,37.417,-86.996,2252
-7628,Centertown,TN,,city-us,303,35.725,-85.921,1833
-7626,Centertown,MO,,city-us,286,38.619,-92.412,3341
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7627,Centertown,KY,Ohio County,,city-us,416,37.417,-86.996,2252
+7628,Centertown,TN,Warren County,,city-us,303,35.725,-85.921,1833
+7626,Centertown,MO,Cole County,,city-us,286,38.619,-92.412,3341

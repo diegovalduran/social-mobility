@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10519,Crowfoot,NJ,,city-us,46826,39.857,-74.901,20237
-10520,Crowfoot,ND,,city-us,16,48.496,-102.191,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10519,Crowfoot,NJ,Burlington County,,city-us,46826,39.857,-74.901,20237
+10520,Crowfoot,ND,Mountrail County,,city-us,16,48.496,-102.191,0

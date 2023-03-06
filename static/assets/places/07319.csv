@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37150,Rock Point,AZ,,city-us,540,36.718,-109.626,2430
-37151,Rock Point,MD,,city-us,135,38.272,-76.841,2372
-37152,Rock Point,OR,,city-us,0,42.432,-123.099,1035
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37150,Rock Point,AZ,Apache County,,city-us,540,36.718,-109.626,2430
+37151,Rock Point,MD,Charles County,,city-us,135,38.272,-76.841,2372
+37152,Rock Point,OR,Jackson County,,city-us,0,42.432,-123.099,1035

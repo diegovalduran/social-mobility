@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12733,East Salem,PA,,city-us,114,40.609,-77.238,296
-12732,East Salem,WV,,city-us,0,39.289,-80.536,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12733,East Salem,PA,Juniata County,,city-us,114,40.609,-77.238,296
+12732,East Salem,WV,Harrison County,,city-us,0,39.289,-80.536,156

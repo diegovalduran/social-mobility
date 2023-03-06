@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31328,North Beach,MD,,city-us,2164,38.707,-76.531,4939
-31329,North Beach,OR,,city-us,0,43.893,-124.110,176
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31328,North Beach,MD,Calvert County,,city-us,2164,38.707,-76.531,4939
+31329,North Beach,OR,Lane County,,city-us,0,43.893,-124.110,176

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39998,Skylight,KY,,city-us,0,38.432,-85.522,117
-39999,Skylight,AR,,city-us,0,35.842,-94.394,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39998,Skylight,KY,Oldham County,,city-us,0,38.432,-85.522,117
+39999,Skylight,AR,Washington County,,city-us,0,35.842,-94.394,203

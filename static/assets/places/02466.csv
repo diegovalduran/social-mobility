@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12317,Dudley,MA,,city-us,11884,42.054,-71.935,4618
-12308,Dudley,OH,,city-us,1467,40.606,-83.475,1378
-12309,Dudley,KS,,city-us,1362,37.566,-101.008,469
-12316,Dudley,NC,,city-us,826,35.267,-78.037,2889
-12311,Dudley,GA,,city-us,590,32.542,-83.070,2801
-12306,Dudley,MN,,city-us,427,47.623,-95.249,2336
-12310,Dudley,PA,,city-us,183,40.205,-78.181,1984
-12315,Dudley,MO,,city-us,102,36.789,-90.093,3061
-12305,Dudley,SD,,city-us,81,43.637,-98.387,701
-12307,Dudley,SD,,city-us,13,43.311,-103.818,701
-12312,Dudley,WI,,city-us,0,45.336,-89.465,241
-12313,Dudley,MN,,city-us,0,44.425,-95.691,227
-12314,Dudley,OH,,city-us,0,39.701,-81.509,355
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12317,Dudley,MA,Worcester County,,city-us,11884,42.054,-71.935,4618
+12308,Dudley,OH,Hardin County,,city-us,1467,40.606,-83.475,1378
+12309,Dudley,KS,Haskell County,,city-us,1362,37.566,-101.008,469
+12316,Dudley,NC,Wayne County,,city-us,826,35.267,-78.037,2889
+12311,Dudley,GA,Laurens County,,city-us,590,32.542,-83.070,2801
+12306,Dudley,MN,Clearwater County,,city-us,427,47.623,-95.249,2336
+12310,Dudley,PA,Huntingdon County,,city-us,183,40.205,-78.181,1984
+12315,Dudley,MO,Stoddard County,,city-us,102,36.789,-90.093,3061
+12305,Dudley,SD,Aurora County,,city-us,81,43.637,-98.387,701
+12307,Dudley,SD,Fall River County,,city-us,13,43.311,-103.818,701
+12312,Dudley,WI,Lincoln County,,city-us,0,45.336,-89.465,241
+12313,Dudley,MN,Lyon County,,city-us,0,44.425,-95.691,227
+12314,Dudley,OH,Noble County,,city-us,0,39.701,-81.509,355

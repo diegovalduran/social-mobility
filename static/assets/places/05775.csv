@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29721,Mount Auburn,IL,,city-us,941,39.735,-89.315,992
-29720,Mount Auburn,IA,,city-us,164,42.255,-92.093,3142
-29724,Mount Auburn,IN,,city-us,125,39.813,-85.190,2807
-29722,Mount Auburn,IN,,city-us,0,39.508,-85.194,246
-29723,Mount Auburn,IN,,city-us,0,39.392,-85.894,842
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29721,Mount Auburn,IL,Christian County,,city-us,941,39.735,-89.315,992
+29720,Mount Auburn,IA,Benton County,,city-us,164,42.255,-92.093,3142
+29724,Mount Auburn,IN,Wayne County,,city-us,125,39.813,-85.190,2807
+29722,Mount Auburn,IN,Franklin County,,city-us,0,39.508,-85.194,246
+29723,Mount Auburn,IN,Shelby County,,city-us,0,39.392,-85.894,842

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22502,Kane,PA,,city-us,3560,41.663,-78.811,11560
-22501,Kane,IL,,city-us,758,39.215,-90.375,1174
-22500,Kane,ND,,city-us,51,48.756,-100.917,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22502,Kane,PA,McKean County,,city-us,3560,41.663,-78.811,11560
+22501,Kane,IL,Greene County,,city-us,758,39.215,-90.375,1174
+22500,Kane,ND,Bottineau County,,city-us,51,48.756,-100.917,136

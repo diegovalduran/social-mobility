@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46933,Williamsfield,IL,,city-us,563,40.923,-90.015,2220
-46932,Williamsfield,OH,,city-us,0,41.533,-80.571,396
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46933,Williamsfield,IL,Knox County,,city-us,563,40.923,-90.015,2220
+46932,Williamsfield,OH,Ashtabula County,,city-us,0,41.533,-80.571,396

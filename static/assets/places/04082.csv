@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20985,Hull,MA,,city-us,10144,42.340,-70.883,14624
-20986,Hull,WI,,city-us,5274,44.565,-89.559,2010
-20987,Hull,IA,,city-us,2417,43.189,-96.134,5581
-20982,Hull,WI,,city-us,762,44.895,-90.248,1931
-20980,Hull,TX,,city-us,669,30.146,-94.642,557
-20984,Hull,IL,,city-us,384,39.707,-91.207,1794
-20981,Hull,GA,,city-us,233,34.015,-83.294,2540
-20978,Hull,FL,,city-us,0,27.119,-81.942,286
-20979,Hull,ND,,city-us,0,46.029,-100.125,254
-20983,Hull,WV,,city-us,0,37.487,-81.844,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20985,Hull,MA,Plymouth County,,city-us,10144,42.340,-70.883,14624
+20986,Hull,WI,Portage County,,city-us,5274,44.565,-89.559,2010
+20987,Hull,IA,Sioux County,,city-us,2417,43.189,-96.134,5581
+20982,Hull,WI,Marathon County,,city-us,762,44.895,-90.248,1931
+20980,Hull,TX,Liberty County,,city-us,669,30.146,-94.642,557
+20984,Hull,IL,Pike County,,city-us,384,39.707,-91.207,1794
+20981,Hull,GA,Madison County,,city-us,233,34.015,-83.294,2540
+20978,Hull,FL,DeSoto County,,city-us,0,27.119,-81.942,286
+20979,Hull,ND,Emmons County,,city-us,0,46.029,-100.125,254
+20983,Hull,WV,McDowell County,,city-us,0,37.487,-81.844,87

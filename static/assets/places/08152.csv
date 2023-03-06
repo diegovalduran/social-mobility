@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41265,Stanwood,WA,,city-us,8438,48.241,-122.371,24610
-41263,Stanwood,IA,,city-us,630,41.893,-91.151,3327
-41264,Stanwood,MI,,city-us,194,43.579,-85.449,3422
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41265,Stanwood,WA,Snohomish County,,city-us,8438,48.241,-122.371,24610
+41263,Stanwood,IA,Cedar County,,city-us,630,41.893,-91.151,3327
+41264,Stanwood,MI,Mecosta County,,city-us,194,43.579,-85.449,3422

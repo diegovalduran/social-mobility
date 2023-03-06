@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42934,Tiffin,OH,,city-us,17841,41.114,-83.178,12872
-42933,Tiffin,IA,,city-us,5282,41.706,-91.663,3732
-42931,Tiffin,OH,,city-us,5223,38.821,-83.500,118
-42932,Tiffin,OH,,city-us,1572,41.384,-84.412,118
-42935,Tiffin,MO,,city-us,0,37.955,-93.938,540
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42934,Tiffin,OH,Seneca County,,city-us,17841,41.114,-83.178,12872
+42933,Tiffin,IA,Johnson County,,city-us,5282,41.706,-91.663,3732
+42931,Tiffin,OH,Adams County,,city-us,5223,38.821,-83.500,118
+42932,Tiffin,OH,Defiance County,,city-us,1572,41.384,-84.412,118
+42935,Tiffin,MO,St. Clair County,,city-us,0,37.955,-93.938,540

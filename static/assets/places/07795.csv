@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39483,Shell Lake,WI,,city-us,1385,45.739,-91.925,5596
-39481,Shell Lake,MN,,city-us,292,46.924,-95.455,2459
-39482,Shell Lake,AR,,city-us,0,35.129,-90.489,194
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39483,Shell Lake,WI,Washburn County,,city-us,1385,45.739,-91.925,5596
+39481,Shell Lake,MN,Becker County,,city-us,292,46.924,-95.455,2459
+39482,Shell Lake,AR,St. Francis County,,city-us,0,35.129,-90.489,194

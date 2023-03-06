@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9207,Cokeville,WY,,city-us,503,42.082,-110.955,5044
-9208,Cokeville,PA,,city-us,0,40.418,-79.256,1456
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9207,Cokeville,WY,Lincoln County,,city-us,503,42.082,-110.955,5044
+9208,Cokeville,PA,Westmoreland County,,city-us,0,40.418,-79.256,1456

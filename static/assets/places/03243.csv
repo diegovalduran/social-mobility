@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16404,Garner,NC,,city-us,31935,35.711,-78.614,10079
-16400,Garner,IA,,city-us,3051,43.102,-93.602,8098
-16405,Garner,AR,,city-us,216,35.141,-91.786,1914
-16399,Garner,ND,,city-us,12,46.764,-103.793,0
-16398,Garner,KY,,city-us,0,38.295,-82.736,218
-16401,Garner,KY,,city-us,0,37.358,-82.925,294
-16402,Garner,MO,,city-us,0,39.966,-92.977,430
-16403,Garner,TX,,city-us,0,32.833,-97.985,1222
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16404,Garner,NC,Wake County,,city-us,31935,35.711,-78.614,10079
+16400,Garner,IA,Hancock County,,city-us,3051,43.102,-93.602,8098
+16405,Garner,AR,White County,,city-us,216,35.141,-91.786,1914
+16399,Garner,ND,Golden Valley County,,city-us,12,46.764,-103.793,0
+16398,Garner,KY,Boyd County,,city-us,0,38.295,-82.736,218
+16401,Garner,KY,Knott County,,city-us,0,37.358,-82.925,294
+16402,Garner,MO,Linn County,,city-us,0,39.966,-92.977,430
+16403,Garner,TX,Parker County,,city-us,0,32.833,-97.985,1222

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10518,Crowell,TX,,city-us,749,33.984,-99.725,6048
-10517,Crowell,NE,,city-us,0,41.728,-96.708,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10518,Crowell,TX,Foard County,,city-us,749,33.984,-99.725,6048
+10517,Crowell,NE,Dodge County,,city-us,0,41.728,-96.708,225

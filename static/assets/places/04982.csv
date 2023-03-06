@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25642,Longfellow,PA,,city-us,136,40.505,-77.674,260
-25641,Longfellow,ND,,city-us,39,47.451,-101.246,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25642,Longfellow,PA,Mifflin County,,city-us,136,40.505,-77.674,260
+25641,Longfellow,ND,McLean County,,city-us,39,47.451,-101.246,0

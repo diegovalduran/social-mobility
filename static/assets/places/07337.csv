@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37253,Rockton,IL,,city-us,7781,42.453,-89.072,3376
-37251,Rockton,PA,,city-us,0,41.076,-78.653,222
-37252,Rockton,WI,,city-us,0,43.641,-90.602,288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37253,Rockton,IL,Winnebago County,,city-us,7781,42.453,-89.072,3376
+37251,Rockton,PA,Clearfield County,,city-us,0,41.076,-78.653,222
+37252,Rockton,WI,Vernon County,,city-us,0,43.641,-90.602,288

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4377,Bloomer,MI,,city-us,4074,43.161,-84.898,1938
-4373,Bloomer,WI,,city-us,3711,45.100,-91.489,2869
-4375,Bloomer,MN,,city-us,72,48.326,-96.957,1846
-4374,Bloomer,IN,,city-us,0,40.084,-85.768,138
-4376,Bloomer,OH,,city-us,0,40.188,-84.413,305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4377,Bloomer,MI,Montcalm County,,city-us,4074,43.161,-84.898,1938
+4373,Bloomer,WI,Chippewa County,,city-us,3711,45.100,-91.489,2869
+4375,Bloomer,MN,Marshall County,,city-us,72,48.326,-96.957,1846
+4374,Bloomer,IN,Madison County,,city-us,0,40.084,-85.768,138
+4376,Bloomer,OH,Miami County,,city-us,0,40.188,-84.413,305

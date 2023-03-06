@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8351,Christine,TX,,city-us,344,28.789,-98.497,2745
-8352,Christine,ND,,city-us,151,46.574,-96.802,4176
-8350,Christine,KY,,city-us,0,37.142,-85.207,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8351,Christine,TX,Atascosa County,,city-us,344,28.789,-98.497,2745
+8352,Christine,ND,Richland County,,city-us,151,46.574,-96.802,4176
+8350,Christine,KY,Adair County,,city-us,0,37.142,-85.207,119

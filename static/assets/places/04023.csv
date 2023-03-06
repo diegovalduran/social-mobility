@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20623,Hopeville,IA,,city-us,0,40.943,-93.997,179
-20624,Hopeville,WV,,city-us,0,38.967,-79.287,344
-20625,Hopeville,IN,,city-us,0,39.704,-84.974,161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20623,Hopeville,IA,Clarke County,,city-us,0,40.943,-93.997,179
+20624,Hopeville,WV,Grant County,,city-us,0,38.967,-79.287,344
+20625,Hopeville,IN,Union County,,city-us,0,39.704,-84.974,161

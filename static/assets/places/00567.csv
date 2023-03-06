@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2871,Bear Valley,CA,,city-us,84,37.569,-120.119,4480
-2870,Bear Valley,CA,,city-us,78,38.465,-120.040,4313
-2872,Bear Valley,PA,,city-us,0,40.773,-76.577,240
-2873,Bear Valley,WI,,city-us,0,43.308,-90.195,303
-2874,Bear Valley,MN,,city-us,0,44.303,-92.478,771
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2871,Bear Valley,CA,Mariposa County,,city-us,84,37.569,-120.119,4480
+2870,Bear Valley,CA,Alpine County,,city-us,78,38.465,-120.040,4313
+2872,Bear Valley,PA,Northumberland County,,city-us,0,40.773,-76.577,240
+2873,Bear Valley,WI,Richland County,,city-us,0,43.308,-90.195,303
+2874,Bear Valley,MN,Wabasha County,,city-us,0,44.303,-92.478,771

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38399,San Antonito,NM,,city-us,823,35.163,-106.348,360
-38400,San Antonito,NM,,city-us,0,33.893,-106.874,302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38399,San Antonito,NM,Bernalillo County,,city-us,823,35.163,-106.348,360
+38400,San Antonito,NM,Socorro County,,city-us,0,33.893,-106.874,302

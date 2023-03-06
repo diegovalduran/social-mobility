@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9077,Coal,PA,,city-us,10041,40.775,-76.517,2014
-9075,Coal,OH,,city-us,1959,39.108,-82.610,111
-9078,Coal,OH,,city-us,943,39.575,-82.216,111
-9262,Cole,OK,,city-us,636,35.102,-97.573,2235
-9079,Coal,MO,,city-us,243,37.813,-94.563,152
-9074,Coal,MO,,city-us,0,38.326,-93.615,476
-9076,Coal,WV,,city-us,0,38.114,-81.455,148
-9261,Cole,IN,,city-us,0,40.480,-85.787,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9077,Coal,PA,Northumberland County,,city-us,10041,40.775,-76.517,2014
+9075,Coal,OH,Jackson County,,city-us,1959,39.108,-82.610,111
+9078,Coal,OH,Perry County,,city-us,943,39.575,-82.216,111
+9262,Cole,OK,McClain County,,city-us,636,35.102,-97.573,2235
+9079,Coal,MO,Vernon County,,city-us,243,37.813,-94.563,152
+9074,Coal,MO,Henry County,,city-us,0,38.326,-93.615,476
+9076,Coal,WV,Kanawha County,,city-us,0,38.114,-81.455,148
+9261,Cole,IN,Grant County,,city-us,0,40.480,-85.787,195

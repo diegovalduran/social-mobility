@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42412,Tacoma,WA,,city-us,219205,47.253,-122.444,44848
-42413,Tacoma,VA,,city-us,204,36.938,-82.534,212
-42411,Tacoma,ND,,city-us,66,48.669,-100.853,138
-42410,Tacoma,OH,,city-us,0,39.997,-81.146,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42412,Tacoma,WA,Pierce County,,city-us,219205,47.253,-122.444,44848
+42413,Tacoma,VA,Wise County,,city-us,204,36.938,-82.534,212
+42411,Tacoma,ND,Bottineau County,,city-us,66,48.669,-100.853,138
+42410,Tacoma,OH,Belmont County,,city-us,0,39.997,-81.146,271

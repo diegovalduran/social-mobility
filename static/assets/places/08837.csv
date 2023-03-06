@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44314,Velma,OK,,city-us,562,34.460,-97.674,2305
-44311,Velma,NE,,city-us,0,41.631,-101.942,168
-44312,Velma,IL,,city-us,0,39.515,-89.233,283
-44313,Velma,VA,,city-us,0,37.647,-76.716,89
-44315,Velma,LA,,city-us,0,30.324,-90.407,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44314,Velma,OK,Stephens County,,city-us,562,34.460,-97.674,2305
+44311,Velma,NE,Arthur County,,city-us,0,41.631,-101.942,168
+44312,Velma,IL,Christian County,,city-us,0,39.515,-89.233,283
+44313,Velma,VA,King and Queen County,,city-us,0,37.647,-76.716,89
+44315,Velma,LA,Tangipahoa Parish,,city-us,0,30.324,-90.407,144

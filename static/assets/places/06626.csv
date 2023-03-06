@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33652,Pernell,OK,,city-us,0,34.561,-97.510,412
-35584,Purnell,NC,,city-us,0,36.012,-78.553,282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33652,Pernell,OK,Garvin County,,city-us,0,34.561,-97.510,412
+35584,Purnell,NC,Wake County,,city-us,0,36.012,-78.553,282

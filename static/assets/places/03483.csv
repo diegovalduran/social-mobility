@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17679,Grapevine,TX,,city-us,50872,32.935,-97.076,16024
-17680,Grapevine,AR,,city-us,0,34.146,-92.316,419
-17681,Grapevine,KY,,city-us,0,37.300,-87.486,651
-17682,Grapevine,CA,,city-us,0,34.941,-118.931,3089
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17679,Grapevine,TX,Dallas County / Denton County / Tarrant County,,city-us,50872,32.935,-97.076,16024
+17680,Grapevine,AR,Grant County,,city-us,0,34.146,-92.316,419
+17681,Grapevine,KY,Hopkins County,,city-us,0,37.300,-87.486,651
+17682,Grapevine,CA,Kern County,,city-us,0,34.941,-118.931,3089

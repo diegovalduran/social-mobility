@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47623,Woodmont,CT,,city-us,1849,41.222,-72.995,2833
-47622,Woodmont,WV,,city-us,0,39.628,-78.311,203
-47624,Woodmont,MD,,city-us,0,39.632,-78.304,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47623,Woodmont,CT,South Central Connecticut Planning Region,,city-us,1849,41.222,-72.995,2833
+47622,Woodmont,WV,Morgan County,,city-us,0,39.628,-78.311,203
+47624,Woodmont,MD,Washington County,,city-us,0,39.632,-78.304,221

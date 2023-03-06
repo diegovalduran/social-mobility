@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37450,Rondo,AR,,city-us,165,34.659,-90.821,2064
-37451,Rondo,VA,,city-us,0,36.829,-79.532,161
-37452,Rondo,MO,,city-us,0,37.766,-93.450,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37450,Rondo,AR,Lee County,,city-us,165,34.659,-90.821,2064
+37451,Rondo,VA,Pittsylvania County,,city-us,0,36.829,-79.532,161
+37452,Rondo,MO,Polk County,,city-us,0,37.766,-93.450,242

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18476,Halleck,MO,,city-us,0,39.578,-94.821,256
-18477,Halleck,NV,,city-us,0,40.951,-115.453,1616
-18478,Halleck,WV,,city-us,0,39.479,-79.939,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18476,Halleck,MO,Buchanan County,,city-us,0,39.578,-94.821,256
+18477,Halleck,NV,Elko County,,city-us,0,40.951,-115.453,1616
+18478,Halleck,WV,Monongalia County,,city-us,0,39.479,-79.939,146

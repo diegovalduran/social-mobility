@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4495,Blue Hill,ME,,city-us,2831,44.402,-68.528,6052
-4497,Blue Hill,MN,,city-us,2558,45.515,-93.693,1931
-4498,Blue Hill,NE,,city-us,830,40.333,-98.449,3846
-4496,Blue Hill,KS,,city-us,28,39.257,-98.329,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4495,Blue Hill,ME,Hancock County,,city-us,2831,44.402,-68.528,6052
+4497,Blue Hill,MN,Sherburne County,,city-us,2558,45.515,-93.693,1931
+4498,Blue Hill,NE,Webster County,,city-us,830,40.333,-98.449,3846
+4496,Blue Hill,KS,Mitchell County,,city-us,28,39.257,-98.329,173

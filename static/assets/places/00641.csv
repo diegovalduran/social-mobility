@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3229,Belle Prairie,MN,,city-us,668,46.034,-94.276,2209
-3228,Belle Prairie,IL,,city-us,131,40.644,-88.517,570
-3227,Belle Prairie,NE,,city-us,114,40.394,-97.539,208
-3226,Belle Prairie,SD,,city-us,46,44.238,-97.914,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3229,Belle Prairie,MN,Morrison County,,city-us,668,46.034,-94.276,2209
+3228,Belle Prairie,IL,Livingston County,,city-us,131,40.644,-88.517,570
+3227,Belle Prairie,NE,Fillmore County,,city-us,114,40.394,-97.539,208
+3226,Belle Prairie,SD,Beadle County,,city-us,46,44.238,-97.914,0

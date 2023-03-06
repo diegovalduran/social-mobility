@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46508,White Cloud,MI,,city-us,1396,43.550,-85.772,4837
-46509,White Cloud,MO,,city-us,492,40.204,-94.878,169
-46505,White Cloud,KS,,city-us,115,39.976,-95.297,4735
-46506,White Cloud,IN,,city-us,0,38.228,-86.224,316
-46507,White Cloud,MO,,city-us,0,38.021,-93.373,270
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46508,White Cloud,MI,Newaygo County,,city-us,1396,43.550,-85.772,4837
+46509,White Cloud,MO,Nodaway County,,city-us,492,40.204,-94.878,169
+46505,White Cloud,KS,Doniphan County,,city-us,115,39.976,-95.297,4735
+46506,White Cloud,IN,Harrison County,,city-us,0,38.228,-86.224,316
+46507,White Cloud,MO,Hickory County,,city-us,0,38.021,-93.373,270

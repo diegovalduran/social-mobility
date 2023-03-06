@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5892,Bucks,OH,,city-us,1876,40.398,-81.673,1416
-5891,Bucks,AL,,city-us,13,31.010,-88.024,1142
-5890,Bucks,IL,,city-us,0,40.265,-88.970,116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5892,Bucks,OH,Tuscarawas County,,city-us,1876,40.398,-81.673,1416
+5891,Bucks,AL,Mobile County,,city-us,13,31.010,-88.024,1142
+5890,Bucks,IL,DeWitt County,,city-us,0,40.265,-88.970,116

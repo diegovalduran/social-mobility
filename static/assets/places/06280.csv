@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32111,Okolona,MS,,city-us,2487,34.002,-88.755,5775
-32112,Okolona,AR,,city-us,98,33.997,-93.338,2758
-32113,Okolona,OH,,city-us,0,41.355,-84.218,624
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32111,Okolona,MS,Chickasaw County,,city-us,2487,34.002,-88.755,5775
+32112,Okolona,AR,Clark County,,city-us,98,33.997,-93.338,2758
+32113,Okolona,OH,Henry County,,city-us,0,41.355,-84.218,624

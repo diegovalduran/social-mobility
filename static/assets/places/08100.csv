@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41006,St. Francisville,LA,,city-us,1579,30.780,-91.376,9562
-41005,St. Francisville,IL,,city-us,555,38.591,-87.647,3089
-41004,St. Francisville,MO,,city-us,137,40.458,-91.569,429
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41006,St. Francisville,LA,West Feliciana Parish,,city-us,1579,30.780,-91.376,9562
+41005,St. Francisville,IL,Lawrence County,,city-us,555,38.591,-87.647,3089
+41004,St. Francisville,MO,Clark County,,city-us,137,40.458,-91.569,429

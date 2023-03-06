@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19795,Hersey,MI,,city-us,361,43.849,-85.444,3461
-19794,Hersey,MN,,city-us,188,43.725,-95.523,3281
-19793,Hersey,ME,,city-us,72,46.077,-68.358,2686
-19796,Hersey,WI,,city-us,0,44.963,-92.212,423
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19795,Hersey,MI,Osceola County,,city-us,361,43.849,-85.444,3461
+19794,Hersey,MN,Nobles County,,city-us,188,43.725,-95.523,3281
+19793,Hersey,ME,Aroostook County,,city-us,72,46.077,-68.358,2686
+19796,Hersey,WI,St. Croix County,,city-us,0,44.963,-92.212,423

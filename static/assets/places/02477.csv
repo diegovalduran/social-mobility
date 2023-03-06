@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12346,Dumont,NJ,,city-us,18196,40.941,-73.997,17147
-12347,Dumont,IA,,city-us,629,42.752,-92.975,3407
-12349,Dumont,TX,,city-us,85,33.810,-100.516,1274
-12350,Dumont,MN,,city-us,75,45.716,-96.426,3155
-12348,Dumont,CO,,city-us,0,39.764,-105.599,560
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12346,Dumont,NJ,Bergen County,,city-us,18196,40.941,-73.997,17147
+12347,Dumont,IA,Butler County,,city-us,629,42.752,-92.975,3407
+12349,Dumont,TX,King County,,city-us,85,33.810,-100.516,1274
+12350,Dumont,MN,Traverse County,,city-us,75,45.716,-96.426,3155
+12348,Dumont,CO,Clear Creek County,,city-us,0,39.764,-105.599,560

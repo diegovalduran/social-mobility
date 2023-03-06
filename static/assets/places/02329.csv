@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11735,Diana,NY,,city-us,1612,44.108,-75.373,4551
-11736,Diana,SD,,city-us,42,43.973,-97.901,0
-11737,Diana,TX,,city-us,0,32.710,-94.752,2031
-11738,Diana,WV,,city-us,0,38.573,-80.458,155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11735,Diana,NY,Lewis County,,city-us,1612,44.108,-75.373,4551
+11736,Diana,SD,Sanborn County,,city-us,42,43.973,-97.901,0
+11737,Diana,TX,Upshur County,,city-us,0,32.710,-94.752,2031
+11738,Diana,WV,Webster County,,city-us,0,38.573,-80.458,155

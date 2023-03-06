@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40176,Snow,ND,,city-us,143,47.629,-101.248,0
-40175,Snow,KY,,city-us,0,36.750,-85.156,112
-40177,Snow,OK,,city-us,0,34.396,-95.413,1163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40176,Snow,ND,McLean County,,city-us,143,47.629,-101.248,0
+40175,Snow,KY,Clinton County,,city-us,0,36.750,-85.156,112
+40177,Snow,OK,Pushmataha County,,city-us,0,34.396,-95.413,1163

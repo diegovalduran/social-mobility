@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17031,Glenview,IL,,city-us,47856,42.070,-87.788,19589
-17032,Glenview,KY,,city-us,589,38.308,-85.650,4236
-17030,Glenview,ND,,city-us,213,47.019,-100.834,0
-17033,Glenview,CA,,city-us,0,38.900,-122.759,152
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17031,Glenview,IL,Cook County,,city-us,47856,42.070,-87.788,19589
+17032,Glenview,KY,Jefferson County,,city-us,589,38.308,-85.650,4236
+17030,Glenview,ND,Burleigh County,,city-us,213,47.019,-100.834,0
+17033,Glenview,CA,Lake County,,city-us,0,38.900,-122.759,152

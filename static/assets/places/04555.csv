@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23349,La Grange,IL,,city-us,15978,41.805,-87.869,17122
-23355,La Grange,KY,,city-us,10183,38.408,-85.379,4000
-23351,La Grange,TX,,city-us,4423,29.905,-96.877,9380
-23352,La Grange,NC,,city-us,2672,35.307,-77.788,3871
-23357,La Grange,WI,,city-us,2472,42.800,-88.602,2227
-23354,La Grange,WI,,city-us,1933,44.038,-90.478,1939
-23353,La Grange,MO,,city-us,839,40.043,-91.498,4419
-23350,La Grange,TN,,city-us,126,35.045,-89.244,2586
-23348,La Grange,IL,,city-us,0,39.947,-90.537,193
-23356,La Grange,CA,,city-us,0,37.664,-120.464,3017
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23349,La Grange,IL,Cook County,,city-us,15978,41.805,-87.869,17122
+23355,La Grange,KY,Oldham County,,city-us,10183,38.408,-85.379,4000
+23351,La Grange,TX,Fayette County,,city-us,4423,29.905,-96.877,9380
+23352,La Grange,NC,Lenoir County,,city-us,2672,35.307,-77.788,3871
+23357,La Grange,WI,Walworth County,,city-us,2472,42.800,-88.602,2227
+23354,La Grange,WI,Monroe County,,city-us,1933,44.038,-90.478,1939
+23353,La Grange,MO,Lewis County,,city-us,839,40.043,-91.498,4419
+23350,La Grange,TN,Fayette County,,city-us,126,35.045,-89.244,2586
+23348,La Grange,IL,Brown County,,city-us,0,39.947,-90.537,193
+23356,La Grange,CA,Stanislaus County,,city-us,0,37.664,-120.464,3017

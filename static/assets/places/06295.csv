@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32160,Oldenburg,,Germany,city-international,168210,53.144,8.214,1933
-32159,Oldenburg,IN,,city-us,639,39.340,-85.204,3513
-32158,Oldenburg,TX,,city-us,0,29.977,-96.765,217
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32160,Oldenburg,,,Germany,city-international,168210,53.144,8.214,1933
+32159,Oldenburg,IN,Franklin County,,city-us,639,39.340,-85.204,3513
+32158,Oldenburg,TX,Fayette County,,city-us,0,29.977,-96.765,217

@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10883,Dallas,TX,,city-us,1288457,32.793,-96.767,89463
-10893,Dallas,OR,,city-us,17285,44.919,-123.317,7701
-10891,Dallas,GA,,city-us,14423,33.924,-84.841,16847
-10889,Dallas,PA,,city-us,9168,41.356,-75.966,3669
-10886,Dallas,NC,,city-us,6016,35.317,-81.176,5468
-10882,Dallas,MI,,city-us,2412,42.993,-84.767,2141
-10881,Dallas,WI,,city-us,574,45.251,-91.857,1864
-10884,Dallas,OH,,city-us,444,40.727,-83.050,1297
-10885,Dallas,MO,,city-us,273,39.986,-94.261,176
-10888,Dallas,MO,,city-us,216,40.338,-94.157,205
-10887,Dallas,SD,,city-us,84,43.236,-99.517,3452
-10890,Dallas,WV,,city-us,0,40.016,-80.527,680
-10892,Dallas,AR,,city-us,0,34.536,-94.219,1465
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10883,Dallas,TX,Collin County / Dallas County / Denton County / Kaufman County / Rockwall County,,city-us,1288457,32.793,-96.767,89463
+10893,Dallas,OR,Polk County,,city-us,17285,44.919,-123.317,7701
+10891,Dallas,GA,Paulding County,,city-us,14423,33.924,-84.841,16847
+10889,Dallas,PA,Luzerne County,,city-us,9168,41.356,-75.966,3669
+10886,Dallas,NC,Gaston County,,city-us,6016,35.317,-81.176,5468
+10882,Dallas,MI,Clinton County,,city-us,2412,42.993,-84.767,2141
+10881,Dallas,WI,Barron County,,city-us,574,45.251,-91.857,1864
+10884,Dallas,OH,Crawford County,,city-us,444,40.727,-83.050,1297
+10885,Dallas,MO,DeKalb County,,city-us,273,39.986,-94.261,176
+10888,Dallas,MO,Harrison County,,city-us,216,40.338,-94.157,205
+10887,Dallas,SD,Gregory County,,city-us,84,43.236,-99.517,3452
+10890,Dallas,WV,Marshall County,,city-us,0,40.016,-80.527,680
+10892,Dallas,AR,Polk County,,city-us,0,34.536,-94.219,1465

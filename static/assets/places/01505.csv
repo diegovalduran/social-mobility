@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7529,Centennial,CO,,city-us,106966,39.579,-104.877,6852
-7528,Centennial,WY,,city-us,344,41.298,-106.142,5405
-7530,Centennial,IN,,city-us,0,40.011,-87.243,301
-7531,Centennial,MI,,city-us,0,47.258,-88.429,106
-7532,Centennial,WV,,city-us,0,37.583,-80.329,154
-7533,Centennial,TX,,city-us,0,32.226,-94.083,2847
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7529,Centennial,CO,Arapahoe County,,city-us,106966,39.579,-104.877,6852
+7528,Centennial,WY,Albany County,,city-us,344,41.298,-106.142,5405
+7530,Centennial,IN,Fountain County,,city-us,0,40.011,-87.243,301
+7531,Centennial,MI,Houghton County,,city-us,0,47.258,-88.429,106
+7532,Centennial,WV,Monroe County,,city-us,0,37.583,-80.329,154
+7533,Centennial,TX,Panola County,,city-us,0,32.226,-94.083,2847

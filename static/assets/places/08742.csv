@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43863,Union Gap,WA,,city-us,6530,46.557,-120.475,4286
-43862,Union Gap,OR,,city-us,0,43.443,-123.551,77
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43863,Union Gap,WA,Yakima County,,city-us,6530,46.557,-120.475,4286
+43862,Union Gap,OR,Douglas County,,city-us,0,43.443,-123.551,77

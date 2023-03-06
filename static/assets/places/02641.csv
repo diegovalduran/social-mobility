@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13113,Egypt,,,country,109546720,26.821,30.802,92268
-13109,Egypt,PA,,city-us,2588,40.680,-75.530,5946
-13104,Egypt,AL,,city-us,845,34.074,-86.156,155
-13100,Egypt,MO,,city-us,817,39.283,-93.705,134
-13102,Egypt,AR,,city-us,111,35.868,-90.946,3384
-13098,Egypt,OH,,city-us,0,40.386,-84.433,1160
-13099,Egypt,OH,,city-us,0,40.085,-81.128,417
-13101,Egypt,MS,,city-us,0,33.898,-88.730,827
-13103,Egypt,GA,,city-us,0,32.462,-81.474,258
-13105,Egypt,MS,,city-us,0,33.341,-90.277,177
-13106,Egypt,KY,,city-us,0,37.313,-83.896,328
-13107,Egypt,IN,,city-us,0,40.859,-87.204,311
-13108,Egypt,WV,,city-us,0,39.352,-77.948,176
-13110,Egypt,AL,,city-us,0,34.344,-86.534,116
-13111,Egypt,TX,,city-us,0,30.221,-95.562,425
-13112,Egypt,TX,,city-us,0,29.405,-96.237,349
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13113,Egypt,,,,country,109546720,26.821,30.802,92268
+13109,Egypt,PA,Lehigh County,,city-us,2588,40.680,-75.530,5946
+13104,Egypt,AL,Etowah County,,city-us,845,34.074,-86.156,155
+13100,Egypt,MO,Carroll County,,city-us,817,39.283,-93.705,134
+13102,Egypt,AR,Craighead County,,city-us,111,35.868,-90.946,3384
+13098,Egypt,OH,Auglaize County,,city-us,0,40.386,-84.433,1160
+13099,Egypt,OH,Belmont County,,city-us,0,40.085,-81.128,417
+13101,Egypt,MS,Chickasaw County,,city-us,0,33.898,-88.730,827
+13103,Egypt,GA,Effingham County,,city-us,0,32.462,-81.474,258
+13105,Egypt,MS,Holmes County,,city-us,0,33.341,-90.277,177
+13106,Egypt,KY,Jackson County,,city-us,0,37.313,-83.896,328
+13107,Egypt,IN,Jasper County,,city-us,0,40.859,-87.204,311
+13108,Egypt,WV,Jefferson County,,city-us,0,39.352,-77.948,176
+13110,Egypt,AL,Marshall County,,city-us,0,34.344,-86.534,116
+13111,Egypt,TX,Montgomery County,,city-us,0,30.221,-95.562,425
+13112,Egypt,TX,Wharton County,,city-us,0,29.405,-96.237,349

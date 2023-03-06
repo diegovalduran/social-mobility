@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48116,Zebulon,NC,,city-us,7974,35.830,-78.314,9968
-48117,Zebulon,GA,,city-us,1255,33.102,-84.343,3304
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48116,Zebulon,NC,Johnston County / Wake County,,city-us,7974,35.830,-78.314,9968
+48117,Zebulon,GA,Pike County,,city-us,1255,33.102,-84.343,3304

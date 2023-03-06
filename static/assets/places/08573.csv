@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43087,Tolna,ND,,city-us,138,47.827,-98.440,3237
-43088,Tolna,PA,,city-us,0,39.762,-76.652,129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43087,Tolna,ND,Nelson County,,city-us,138,47.827,-98.440,3237
+43088,Tolna,PA,York County,,city-us,0,39.762,-76.652,129

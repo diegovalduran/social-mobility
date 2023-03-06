@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28978,Moe,MN,,city-us,775,45.879,-95.562,1918
-27727,Meaux,LA,,city-us,0,30.021,-92.183,309
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28978,Moe,MN,Douglas County,,city-us,775,45.879,-95.562,1918
+27727,Meaux,LA,Vermilion Parish,,city-us,0,30.021,-92.183,309

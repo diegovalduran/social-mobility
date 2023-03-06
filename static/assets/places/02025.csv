@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10229,Cranberry Lake,WI,,city-us,1711,45.640,-90.347,2002
-10230,Cranberry Lake,NY,,city-us,136,44.223,-74.836,1063
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10229,Cranberry Lake,WI,Price County,,city-us,1711,45.640,-90.347,2002
+10230,Cranberry Lake,NY,St. Lawrence County,,city-us,136,44.223,-74.836,1063

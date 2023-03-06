@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12726,East Providence,RI,,city-us,46929,41.814,-71.370,8023
-12725,East Providence,PA,,city-us,1765,40.003,-78.263,2692
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12726,East Providence,RI,Providence County,,city-us,46929,41.814,-71.370,8023
+12725,East Providence,PA,Bedford County,,city-us,1765,40.003,-78.263,2692

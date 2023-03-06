@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22230,Johnsontown,WV,,city-us,0,39.578,-78.039,322
-22231,Johnsontown,WV,,city-us,0,39.339,-77.887,95
-22232,Johnsontown,VA,,city-us,0,37.425,-75.914,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22230,Johnsontown,WV,Berkeley County,,city-us,0,39.578,-78.039,322
+22231,Johnsontown,WV,Jefferson County,,city-us,0,39.339,-77.887,95
+22232,Johnsontown,VA,Northampton County,,city-us,0,37.425,-75.914,110

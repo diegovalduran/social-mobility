@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8135,Chesapeake Beach,MD,,city-us,6436,38.686,-76.535,8806
-8136,Chesapeake Beach,VA,,city-us,0,37.841,-76.250,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8135,Chesapeake Beach,MD,Calvert County,,city-us,6436,38.686,-76.535,8806
+8136,Chesapeake Beach,VA,Northumberland County,,city-us,0,37.841,-76.250,106

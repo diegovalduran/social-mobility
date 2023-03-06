@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21309,Indian Grove,IL,,city-us,4109,40.710,-88.530,437
-21308,Indian Grove,MO,,city-us,0,39.511,-93.035,597
-21310,Indian Grove,NC,,city-us,0,36.519,-80.449,260
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21309,Indian Grove,IL,Livingston County,,city-us,4109,40.710,-88.530,437
+21308,Indian Grove,MO,Chariton County,,city-us,0,39.511,-93.035,597
+21310,Indian Grove,NC,Surry County,,city-us,0,36.519,-80.449,260

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6249,Burt,MI,,city-us,1194,43.237,-83.906,2277
-6246,Burt,MI,,city-us,716,45.521,-84.651,226
-6245,Burt,MI,,city-us,408,46.573,-86.101,226
-6248,Burt,IA,,city-us,404,43.197,-94.220,4214
-6250,Burt,ND,,city-us,107,48.160,-101.458,319
-3695,Bert,WV,,city-us,0,39.451,-80.959,111
-6247,Burt,ND,,city-us,0,46.365,-102.155,319
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6249,Burt,MI,Saginaw County,,city-us,1194,43.237,-83.906,2277
+6246,Burt,MI,Cheboygan County,,city-us,716,45.521,-84.651,226
+6245,Burt,MI,Alger County,,city-us,408,46.573,-86.101,226
+6248,Burt,IA,Kossuth County,,city-us,404,43.197,-94.220,4214
+6250,Burt,ND,Ward County,,city-us,107,48.160,-101.458,319
+3695,Bert,WV,Tyler County,,city-us,0,39.451,-80.959,111
+6247,Burt,ND,Hettinger County,,city-us,0,46.365,-102.155,319

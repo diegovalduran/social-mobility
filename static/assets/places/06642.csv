@@ -1,28 +1,28 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33804,Petersburg,VA,,city-us,33429,37.228,-77.402,45334
-33799,Petersburg,NJ,,city-us,20538,41.001,-74.551,14471
-33803,Petersburg,AK,,city-us,3259,56.811,-132.951,11685
-33805,Petersburg,IN,,city-us,2275,38.492,-87.279,4482
-33787,Petersburg,WV,,city-us,2253,38.993,-79.124,4932
-33797,Petersburg,IL,,city-us,2231,40.012,-89.848,6900
-33798,Petersburg,MI,,city-us,1180,41.901,-83.715,3911
-33788,Petersburg,TX,,city-us,982,33.870,-101.597,3457
-33794,Petersburg,TN,,city-us,531,35.317,-86.641,2944
-33779,Petersburg,KY,,city-us,500,39.069,-84.867,1229
-33790,Petersburg,PA,,city-us,416,40.573,-78.047,2344
-33796,Petersburg,OH,,city-us,405,40.913,-80.530,1425
-33780,Petersburg,NE,,city-us,330,41.853,-98.079,3426
-33801,Petersburg,ND,,city-us,45,47.964,-97.948,3465
-33781,Petersburg,NC,,city-us,0,35.706,-81.671,288
-33782,Petersburg,NJ,,city-us,0,39.254,-74.727,1072
-33783,Petersburg,OH,,city-us,0,40.514,-81.112,940
-33784,Petersburg,WI,,city-us,0,43.272,-90.838,207
-33785,Petersburg,IA,,city-us,0,42.555,-91.213,1365
-33786,Petersburg,GA,,city-us,0,34.587,-84.716,352
-33789,Petersburg,MO,,city-us,0,38.519,-93.847,470
-33791,Petersburg,MN,,city-us,0,43.530,-94.919,109
-33792,Petersburg,OH,,city-us,0,38.990,-82.744,322
-33793,Petersburg,DE,,city-us,0,39.049,-75.648,170
-33795,Petersburg,NC,,city-us,0,35.822,-82.611,254
-33800,Petersburg,IA,,city-us,0,41.560,-90.794,200
-33802,Petersburg,NC,,city-us,0,34.928,-77.539,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33804,Petersburg,VA,Petersburg city,,city-us,33429,37.228,-77.402,45334
+33799,Petersburg,NJ,Morris County,,city-us,20538,41.001,-74.551,14471
+33803,Petersburg,AK,Petersburg Borough,,city-us,3259,56.811,-132.951,11685
+33805,Petersburg,IN,Pike County,,city-us,2275,38.492,-87.279,4482
+33787,Petersburg,WV,Grant County,,city-us,2253,38.993,-79.124,4932
+33797,Petersburg,IL,Menard County,,city-us,2231,40.012,-89.848,6900
+33798,Petersburg,MI,Monroe County,,city-us,1180,41.901,-83.715,3911
+33788,Petersburg,TX,Hale County,,city-us,982,33.870,-101.597,3457
+33794,Petersburg,TN,Lincoln County / Marshall County,,city-us,531,35.317,-86.641,2944
+33779,Petersburg,KY,Boone County,,city-us,500,39.069,-84.867,1229
+33790,Petersburg,PA,Huntingdon County,,city-us,416,40.573,-78.047,2344
+33796,Petersburg,OH,Mahoning County,,city-us,405,40.913,-80.530,1425
+33780,Petersburg,NE,Boone County,,city-us,330,41.853,-98.079,3426
+33801,Petersburg,ND,Nelson County,,city-us,45,47.964,-97.948,3465
+33781,Petersburg,NC,Burke County,,city-us,0,35.706,-81.671,288
+33782,Petersburg,NJ,Cape May County,,city-us,0,39.254,-74.727,1072
+33783,Petersburg,OH,Carroll County,,city-us,0,40.514,-81.112,940
+33784,Petersburg,WI,Crawford County,,city-us,0,43.272,-90.838,207
+33785,Petersburg,IA,Delaware County,,city-us,0,42.555,-91.213,1365
+33786,Petersburg,GA,Gordon County,,city-us,0,34.587,-84.716,352
+33789,Petersburg,MO,Henry County,,city-us,0,38.519,-93.847,470
+33791,Petersburg,MN,Jackson County,,city-us,0,43.530,-94.919,109
+33792,Petersburg,OH,Jackson County,,city-us,0,38.990,-82.744,322
+33793,Petersburg,DE,Kent County,,city-us,0,39.049,-75.648,170
+33795,Petersburg,NC,Madison County,,city-us,0,35.822,-82.611,254
+33800,Petersburg,IA,Muscatine County,,city-us,0,41.560,-90.794,200
+33802,Petersburg,NC,Onslow County,,city-us,0,34.928,-77.539,218

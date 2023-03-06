@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21539,Iron City,GA,,city-us,319,31.014,-84.813,5817
-21538,Iron City,TN,,city-us,151,35.024,-87.581,3590
-21537,Iron City,AL,,city-us,0,33.668,-85.664,452
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21539,Iron City,GA,Seminole County,,city-us,319,31.014,-84.813,5817
+21538,Iron City,TN,Lawrence County,,city-us,151,35.024,-87.581,3590
+21537,Iron City,AL,Calhoun County,,city-us,0,33.668,-85.664,452

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10101,Council Hill,OK,,city-us,110,35.556,-95.651,3017
-10100,Council Hill,IL,,city-us,0,42.489,-90.354,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10101,Council Hill,OK,Muskogee County,,city-us,110,35.556,-95.651,3017
+10100,Council Hill,IL,Jo Daviess County,,city-us,0,42.489,-90.354,279

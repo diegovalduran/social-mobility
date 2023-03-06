@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14205,Exmore,VA,,city-us,1451,37.532,-75.823,3093
-14204,Exmoor,AL,,city-us,0,32.057,-87.874,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14205,Exmore,VA,Northampton County,,city-us,1451,37.532,-75.823,3093
+14204,Exmoor,AL,Marengo County,,city-us,0,32.057,-87.874,280

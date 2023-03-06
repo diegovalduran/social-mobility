@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13644,Emerson,NJ,,city-us,7244,40.976,-74.026,17089
-13643,Emerson,GA,,city-us,1446,34.127,-84.755,2907
-13649,Emerson,MI,,city-us,848,43.338,-84.537,2175
-13646,Emerson,NE,,city-us,824,42.278,-96.726,3680
-13647,Emerson,NE,,city-us,480,42.330,-96.755,198
-13653,Emerson,IA,,city-us,401,41.017,-95.402,2915
-13645,Emerson,AR,,city-us,290,33.098,-93.193,3210
-13648,Emerson,SD,,city-us,37,45.200,-99.013,0
-13650,Emerson,OH,,city-us,0,40.178,-80.823,689
-13651,Emerson,KY,,city-us,0,38.354,-83.252,257
-13652,Emerson,MO,,city-us,0,39.889,-91.698,647
-13654,Emerson,WV,,city-us,0,37.941,-81.498,74
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13644,Emerson,NJ,Bergen County,,city-us,7244,40.976,-74.026,17089
+13643,Emerson,GA,Bartow County,,city-us,1446,34.127,-84.755,2907
+13649,Emerson,MI,Gratiot County,,city-us,848,43.338,-84.537,2175
+13646,Emerson,NE,Dakota County / Dixon County / Thurston County,,city-us,824,42.278,-96.726,3680
+13647,Emerson,NE,Dixon County,,city-us,480,42.330,-96.755,198
+13653,Emerson,IA,Mills County,,city-us,401,41.017,-95.402,2915
+13645,Emerson,AR,Columbia County,,city-us,290,33.098,-93.193,3210
+13648,Emerson,SD,Faulk County,,city-us,37,45.200,-99.013,0
+13650,Emerson,OH,Jefferson County,,city-us,0,40.178,-80.823,689
+13651,Emerson,KY,Lewis County,,city-us,0,38.354,-83.252,257
+13652,Emerson,MO,Marion County,,city-us,0,39.889,-91.698,647
+13654,Emerson,WV,Raleigh County,,city-us,0,37.941,-81.498,74

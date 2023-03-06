@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2757,Bay View,WA,,city-us,658,48.484,-122.478,2035
-2755,Bay View,OH,,city-us,603,41.469,-82.827,3298
-2754,Bay View,MI,,city-us,191,45.386,-84.930,21230
-2753,Bay View,MD,,city-us,0,39.643,-75.961,254
-2756,Bay View,WI,,city-us,0,44.633,-87.744,392
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2757,Bay View,WA,Skagit County,,city-us,658,48.484,-122.478,2035
+2755,Bay View,OH,Erie County,,city-us,603,41.469,-82.827,3298
+2754,Bay View,MI,Emmet County,,city-us,191,45.386,-84.930,21230
+2753,Bay View,MD,Cecil County,,city-us,0,39.643,-75.961,254
+2756,Bay View,WI,Kewaunee County,,city-us,0,44.633,-87.744,392

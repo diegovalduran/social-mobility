@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33485,Pelham,AL,,city-us,24688,33.286,-86.810,5744
-33483,Pelham,NH,,city-us,14309,42.731,-71.337,7510
-33487,Pelham,NY,,city-us,7199,40.910,-73.808,8205
-33484,Pelham,GA,,city-us,3416,31.128,-84.152,3422
-33482,Pelham,MA,,city-us,1267,42.372,-72.412,6513
-33481,Pelham,TN,,city-us,371,35.310,-85.881,547
-33480,Pelham,NC,,city-us,0,36.510,-79.472,686
-33486,Pelham,SC,,city-us,0,34.857,-82.224,697
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33485,Pelham,AL,Shelby County,,city-us,24688,33.286,-86.810,5744
+33483,Pelham,NH,Hillsborough County,,city-us,14309,42.731,-71.337,7510
+33487,Pelham,NY,Westchester County,,city-us,7199,40.910,-73.808,8205
+33484,Pelham,GA,Mitchell County,,city-us,3416,31.128,-84.152,3422
+33482,Pelham,MA,Hampshire County,,city-us,1267,42.372,-72.412,6513
+33481,Pelham,TN,Grundy County,,city-us,371,35.310,-85.881,547
+33480,Pelham,NC,Caswell County,,city-us,0,36.510,-79.472,686
+33486,Pelham,SC,Spartanburg County,,city-us,0,34.857,-82.224,697

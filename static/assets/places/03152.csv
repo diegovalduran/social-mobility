@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15892,Freehold,NJ,,city-us,35596,40.224,-74.299,47345
-15893,Freehold,PA,,city-us,1202,41.959,-79.451,1841
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15892,Freehold,NJ,Monmouth County,,city-us,35596,40.224,-74.299,47345
+15893,Freehold,PA,Warren County,,city-us,1202,41.959,-79.451,1841

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4181,Blackhawk,CA,,city-us,9637,37.821,-121.908,7103
-4184,Blackhawk,IL,,city-us,9426,41.437,-90.595,489
-4183,Blackhawk,SD,,city-us,3081,44.151,-103.308,2534
-4180,Blackhawk,IL,,city-us,0,42.188,-90.224,149
-4182,Blackhawk,WV,,city-us,0,38.334,-81.587,91
-4185,Blackhawk,IN,,city-us,0,39.309,-87.300,464
-4186,Blackhawk,OH,,city-us,0,39.322,-84.072,219
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4181,Blackhawk,CA,Contra Costa County,,city-us,9637,37.821,-121.908,7103
+4184,Blackhawk,IL,Rock Island County,,city-us,9426,41.437,-90.595,489
+4183,Blackhawk,SD,Meade County,,city-us,3081,44.151,-103.308,2534
+4180,Blackhawk,IL,Carroll County,,city-us,0,42.188,-90.224,149
+4182,Blackhawk,WV,Kanawha County,,city-us,0,38.334,-81.587,91
+4185,Blackhawk,IN,Vigo County,,city-us,0,39.309,-87.300,464
+4186,Blackhawk,OH,Warren County,,city-us,0,39.322,-84.072,219

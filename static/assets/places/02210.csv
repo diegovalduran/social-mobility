@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11067,Dauphin,PA,,city-us,795,40.367,-76.931,11371
-11068,Dauphin,TX,,city-us,0,32.187,-95.917,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11067,Dauphin,PA,Dauphin County,,city-us,795,40.367,-76.931,11371
+11068,Dauphin,TX,Henderson County,,city-us,0,32.187,-95.917,97

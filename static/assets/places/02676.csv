@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13268,Elizabeth,NJ,,city-us,135407,40.664,-74.211,47088
-13264,Elizabeth,PA,,city-us,3983,40.222,-76.307,199
-13265,Elizabeth,OH,,city-us,2499,38.625,-82.684,204
-13260,Elizabeth,CO,,city-us,2004,39.360,-104.597,2932
-13266,Elizabeth,OH,,city-us,1671,40.006,-84.097,204
-13257,Elizabeth,PA,,city-us,1392,40.269,-79.890,4895
-13267,Elizabeth,MN,,city-us,842,46.409,-96.074,1930
-13270,Elizabeth,WV,,city-us,706,39.063,-81.395,3734
-13263,Elizabeth,IL,,city-us,699,42.318,-90.222,2939
-13258,Elizabeth,LA,,city-us,400,30.869,-92.793,2799
-13262,Elizabeth,IN,,city-us,202,38.121,-85.974,4882
-13269,Elizabeth,MS,,city-us,127,33.424,-90.881,480
-13259,Elizabeth,GA,,city-us,0,33.976,-84.547,2456
-13261,Elizabeth,AR,,city-us,0,36.331,-92.096,277
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13268,Elizabeth,NJ,Union County,,city-us,135407,40.664,-74.211,47088
+13264,Elizabeth,PA,Lancaster County,,city-us,3983,40.222,-76.307,199
+13265,Elizabeth,OH,Lawrence County,,city-us,2499,38.625,-82.684,204
+13260,Elizabeth,CO,Elbert County,,city-us,2004,39.360,-104.597,2932
+13266,Elizabeth,OH,Miami County,,city-us,1671,40.006,-84.097,204
+13257,Elizabeth,PA,Allegheny County,,city-us,1392,40.269,-79.890,4895
+13267,Elizabeth,MN,Otter Tail County,,city-us,842,46.409,-96.074,1930
+13270,Elizabeth,WV,Wirt County,,city-us,706,39.063,-81.395,3734
+13263,Elizabeth,IL,Jo Daviess County,,city-us,699,42.318,-90.222,2939
+13258,Elizabeth,LA,Allen Parish,,city-us,400,30.869,-92.793,2799
+13262,Elizabeth,IN,Harrison County,,city-us,202,38.121,-85.974,4882
+13269,Elizabeth,MS,Washington County,,city-us,127,33.424,-90.881,480
+13259,Elizabeth,GA,Cobb County,,city-us,0,33.976,-84.547,2456
+13261,Elizabeth,AR,Fulton County,,city-us,0,36.331,-92.096,277

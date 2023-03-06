@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11363,Deerhorn,MN,,city-us,87,46.587,-96.593,1927
-11362,Deerhorn,OR,,city-us,0,44.082,-122.748,372
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11363,Deerhorn,MN,Wilkin County,,city-us,87,46.587,-96.593,1927
+11362,Deerhorn,OR,Lane County,,city-us,0,44.082,-122.748,372

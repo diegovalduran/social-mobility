@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7235,Cassville,NJ,,city-us,58544,40.091,-74.361,21362
-7229,Cassville,MO,,city-us,3192,36.677,-93.869,6341
-7234,Cassville,WV,,city-us,1365,39.666,-80.064,2104
-7231,Cassville,WI,,city-us,775,42.714,-90.991,6362
-7233,Cassville,PA,,city-us,136,40.293,-78.027,2128
-7230,Cassville,GA,,city-us,0,34.244,-84.853,6219
-7232,Cassville,IN,,city-us,0,40.560,-86.123,458
-7269,Casville,NC,,city-us,0,36.390,-79.504,694
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7235,Cassville,NJ,Ocean County,,city-us,58544,40.091,-74.361,21362
+7229,Cassville,MO,Barry County,,city-us,3192,36.677,-93.869,6341
+7234,Cassville,WV,Monongalia County,,city-us,1365,39.666,-80.064,2104
+7231,Cassville,WI,Grant County,,city-us,775,42.714,-90.991,6362
+7233,Cassville,PA,Huntingdon County,,city-us,136,40.293,-78.027,2128
+7230,Cassville,GA,Bartow County,,city-us,0,34.244,-84.853,6219
+7232,Cassville,IN,Howard County,,city-us,0,40.560,-86.123,458
+7269,Casville,NC,Caswell County,,city-us,0,36.390,-79.504,694

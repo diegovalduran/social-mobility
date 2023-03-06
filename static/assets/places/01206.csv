@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6059,Bullock,NJ,,city-us,0,39.882,-74.450,536
-6060,Bullock,NC,,city-us,0,36.491,-78.545,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6059,Bullock,NJ,Burlington County,,city-us,0,39.882,-74.450,536
+6060,Bullock,NC,Granville County,,city-us,0,36.491,-78.545,254

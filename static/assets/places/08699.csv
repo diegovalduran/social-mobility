@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43571,Tuxedo,NY,,city-us,3771,41.242,-74.172,10385
-43569,Tuxedo,NC,,city-us,0,35.225,-82.429,1242
-43570,Tuxedo,TX,,city-us,0,32.933,-99.952,78
-43572,Tuxedo,MD,,city-us,0,38.917,-76.921,1912
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43571,Tuxedo,NY,Orange County,,city-us,3771,41.242,-74.172,10385
+43569,Tuxedo,NC,Henderson County,,city-us,0,35.225,-82.429,1242
+43570,Tuxedo,TX,Jones County,,city-us,0,32.933,-99.952,78
+43572,Tuxedo,MD,Prince George's County,,city-us,0,38.917,-76.921,1912

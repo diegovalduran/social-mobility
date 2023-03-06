@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22853,Keyport,NJ,,city-us,7196,40.433,-74.200,13832
-22852,Keyport,WA,,city-us,270,47.702,-122.621,3646
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22853,Keyport,NJ,Monmouth County,,city-us,7196,40.433,-74.200,13832
+22852,Keyport,WA,Kitsap County,,city-us,270,47.702,-122.621,3646

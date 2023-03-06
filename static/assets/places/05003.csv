@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25723,Lorenzo,TX,,city-us,964,33.671,-101.535,2690
-25724,Lorenzo,IL,,city-us,26,41.347,-88.222,350
-25722,Lorenzo,NE,,city-us,0,41.047,-103.068,474
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25723,Lorenzo,TX,Crosby County,,city-us,964,33.671,-101.535,2690
+25724,Lorenzo,IL,Will County,,city-us,26,41.347,-88.222,350
+25722,Lorenzo,NE,Cheyenne County,,city-us,0,41.047,-103.068,474

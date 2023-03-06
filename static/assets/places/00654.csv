@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3301,Bellmore,NY,,city-us,16603,40.669,-73.527,7558
-3298,Bellmawr,NJ,,city-us,11656,39.868,-75.095,14137
-3366,Belmore,OH,,city-us,61,41.153,-83.939,3476
-3302,Bellmore,IN,,city-us,0,39.759,-87.105,355
-3367,Belmore,WA,,city-us,0,46.987,-122.963,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3301,Bellmore,NY,Nassau County,,city-us,16603,40.669,-73.527,7558
+3298,Bellmawr,NJ,Camden County,,city-us,11656,39.868,-75.095,14137
+3366,Belmore,OH,Putnam County,,city-us,61,41.153,-83.939,3476
+3302,Bellmore,IN,Parke County,,city-us,0,39.759,-87.105,355
+3367,Belmore,WA,Thurston County,,city-us,0,46.987,-122.963,231

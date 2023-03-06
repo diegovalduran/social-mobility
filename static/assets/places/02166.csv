@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10844,Daisy,KY,,city-us,1758,37.113,-83.093,315
-10840,Daisy,GA,,city-us,157,32.152,-81.835,2733
-10845,Daisy,AR,,city-us,84,34.237,-93.742,1924
-11186,Dazey,ND,,city-us,76,47.191,-98.202,3336
-10841,Daisy,MD,,city-us,28,39.294,-77.069,2049
-10838,Daisy,OK,,city-us,0,34.536,-95.740,883
-10839,Daisy,MO,,city-us,0,37.405,-89.464,356
-10842,Daisy,VA,,city-us,0,37.761,-76.922,89
-10843,Daisy,WV,,city-us,0,38.009,-82.054,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10844,Daisy,KY,Perry County,,city-us,1758,37.113,-83.093,315
+10840,Daisy,GA,Evans County,,city-us,157,32.152,-81.835,2733
+10845,Daisy,AR,Pike County,,city-us,84,34.237,-93.742,1924
+11186,Dazey,ND,Barnes County,,city-us,76,47.191,-98.202,3336
+10841,Daisy,MD,Howard County,,city-us,28,39.294,-77.069,2049
+10838,Daisy,OK,Atoka County,,city-us,0,34.536,-95.740,883
+10839,Daisy,MO,Cape Girardeau County,,city-us,0,37.405,-89.464,356
+10842,Daisy,VA,King and Queen County,,city-us,0,37.761,-76.922,89
+10843,Daisy,WV,Logan County,,city-us,0,38.009,-82.054,85

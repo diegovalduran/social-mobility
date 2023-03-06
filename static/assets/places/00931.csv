@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4691,Bond,IL,,city-us,574,38.814,-87.696,270
-4692,Bond,MS,,city-us,506,30.894,-89.169,2805
-4689,Bond,CO,,city-us,183,39.874,-106.688,1627
-4690,Bond,TN,,city-us,0,35.724,-87.401,160
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4691,Bond,IL,Lawrence County,,city-us,574,38.814,-87.696,270
+4692,Bond,MS,Stone County,,city-us,506,30.894,-89.169,2805
+4689,Bond,CO,Eagle County,,city-us,183,39.874,-106.688,1627
+4690,Bond,TN,Hickman County,,city-us,0,35.724,-87.401,160

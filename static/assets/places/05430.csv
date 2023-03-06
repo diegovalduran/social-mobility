@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27804,Medo,MN,,city-us,319,43.977,-93.841,2594
-27805,Medo,WV,,city-us,0,38.055,-80.927,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27804,Medo,MN,Blue Earth County,,city-us,319,43.977,-93.841,2594
+27805,Medo,WV,Fayette County,,city-us,0,38.055,-80.927,86

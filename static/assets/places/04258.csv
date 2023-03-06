@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21955,Jay,ME,,city-us,4677,44.517,-70.202,10624
-21954,Jay,NY,,city-us,2472,44.378,-73.696,6136
-21952,Jay,OK,,city-us,2388,36.421,-94.797,4921
-21953,Jay,PA,,city-us,1939,41.319,-78.486,2363
-21957,Jay,VT,,city-us,547,44.957,-72.507,4163
-21958,Jay,FL,,city-us,545,30.953,-87.151,5158
-21956,Jay,MN,,city-us,229,43.624,-94.804,1924
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21955,Jay,ME,Franklin County,,city-us,4677,44.517,-70.202,10624
+21954,Jay,NY,Essex County,,city-us,2472,44.378,-73.696,6136
+21952,Jay,OK,Delaware County,,city-us,2388,36.421,-94.797,4921
+21953,Jay,PA,Elk County,,city-us,1939,41.319,-78.486,2363
+21957,Jay,VT,Orleans County,,city-us,547,44.957,-72.507,4163
+21958,Jay,FL,Santa Rosa County,,city-us,545,30.953,-87.151,5158
+21956,Jay,MN,Martin County,,city-us,229,43.624,-94.804,1924

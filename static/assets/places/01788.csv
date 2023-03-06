@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9157,Cochran,GA,,city-us,5070,32.387,-83.355,7096
-9160,Cochrane,WI,,city-us,421,44.227,-91.835,3841
-9156,Cochran,TX,,city-us,0,30.029,-96.129,1372
-9158,Cochran,VA,,city-us,0,36.843,-77.905,661
-9159,Cochran,TN,,city-us,0,35.423,-86.802,240
-9161,Cochrane,AL,,city-us,0,33.366,-88.120,472
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9157,Cochran,GA,Bleckley County,,city-us,5070,32.387,-83.355,7096
+9160,Cochrane,WI,Buffalo County,,city-us,421,44.227,-91.835,3841
+9156,Cochran,TX,Austin County,,city-us,0,30.029,-96.129,1372
+9158,Cochran,VA,Brunswick County,,city-us,0,36.843,-77.905,661
+9159,Cochran,TN,Marshall County,,city-us,0,35.423,-86.802,240
+9161,Cochrane,AL,Pickens County,,city-us,0,33.366,-88.120,472

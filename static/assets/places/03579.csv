@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18227,Grove,OK,,city-us,7033,36.594,-94.769,9554
-18232,Grove,KS,,city-us,742,39.170,-95.857,770
-18230,Grove,IL,,city-us,595,39.128,-88.282,1255
-18224,Grove,NY,,city-us,496,42.480,-77.894,3129
-18233,Grove,MN,,city-us,483,45.623,-94.823,1984
-18225,Grove,PA,,city-us,107,41.400,-78.059,2123
-18231,Grove,KS,,city-us,43,37.861,-98.408,0
-18226,Grove,MD,,city-us,0,38.749,-75.877,73
-18228,Grove,WV,,city-us,0,39.147,-80.772,173
-18229,Grove,VA,,city-us,0,37.230,-76.630,29442
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18227,Grove,OK,Delaware County,,city-us,7033,36.594,-94.769,9554
+18232,Grove,KS,Shawnee County,,city-us,742,39.170,-95.857,770
+18230,Grove,IL,Jasper County,,city-us,595,39.128,-88.282,1255
+18224,Grove,NY,Allegany County,,city-us,496,42.480,-77.894,3129
+18233,Grove,MN,Stearns County,,city-us,483,45.623,-94.823,1984
+18225,Grove,PA,Cameron County,,city-us,107,41.400,-78.059,2123
+18231,Grove,KS,Reno County,,city-us,43,37.861,-98.408,0
+18226,Grove,MD,Caroline County,,city-us,0,38.749,-75.877,73
+18228,Grove,WV,Doddridge County,,city-us,0,39.147,-80.772,173
+18229,Grove,VA,James City County,,city-us,0,37.230,-76.630,29442

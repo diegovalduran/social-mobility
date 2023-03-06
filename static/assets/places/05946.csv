@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30488,Nevins,WI,,city-us,0,44.496,-90.365,209
-30489,Nevins,IL,,city-us,0,39.534,-87.639,81
-30490,Nevins,FL,,city-us,0,27.612,-80.385,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30488,Nevins,WI,Clark County,,city-us,0,44.496,-90.365,209
+30489,Nevins,IL,Edgar County,,city-us,0,39.534,-87.639,81
+30490,Nevins,FL,Indian River County,,city-us,0,27.612,-80.385,87

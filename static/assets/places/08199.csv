@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41488,Stickney,IL,,city-us,6963,41.821,-87.783,3382
-41486,Stickney,SD,,city-us,321,43.589,-98.437,3267
-41487,Stickney,KS,,city-us,0,38.638,-98.829,929
-41489,Stickney,MO,,city-us,0,38.068,-91.936,518
-41490,Stickney,WV,,city-us,0,37.901,-81.528,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41488,Stickney,IL,Cook County,,city-us,6963,41.821,-87.783,3382
+41486,Stickney,SD,Aurora County,,city-us,321,43.589,-98.437,3267
+41487,Stickney,KS,Barton County,,city-us,0,38.638,-98.829,929
+41489,Stickney,MO,Maries County,,city-us,0,38.068,-91.936,518
+41490,Stickney,WV,Raleigh County,,city-us,0,37.901,-81.528,163

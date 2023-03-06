@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25909,Lowville,NY,,city-us,4879,43.814,-75.518,5766
-25908,Lowville,WI,,city-us,987,43.383,-89.327,2746
-25910,Lowville,MN,,city-us,0,44.067,-95.867,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25909,Lowville,NY,Lewis County,,city-us,4879,43.814,-75.518,5766
+25908,Lowville,WI,Columbia County,,city-us,987,43.383,-89.327,2746
+25910,Lowville,MN,Murray County,,city-us,0,44.067,-95.867,251

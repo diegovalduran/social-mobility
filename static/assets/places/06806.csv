@@ -1,54 +1,54 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34661,Pleasant Valley,MI,,city-us,19144,42.564,-83.736,4100
-34651,Pleasant Valley,NY,,city-us,9744,41.771,-73.805,6044
-34652,Pleasant Valley,WI,,city-us,3828,44.662,-91.468,2014
-34662,Pleasant Valley,WV,,city-us,3492,39.455,-80.142,2186
-34646,Pleasant Valley,MO,,city-us,2743,39.216,-94.484,3469
-34639,Pleasant Valley,MI,,city-us,2312,42.031,-86.291,3721
-34653,Pleasant Valley,CA,,city-us,1967,38.683,-120.663,219
-34667,Pleasant Valley,MI,,city-us,1145,43.509,-84.548,1973
-34635,Pleasant Valley,MI,,city-us,877,45.083,-85.158,1937
-34648,Pleasant Valley,KS,,city-us,804,37.166,-96.984,1635
-34654,Pleasant Valley,AK,,city-us,754,64.881,-146.869,2264
-34677,Pleasant Valley,WI,,city-us,570,44.906,-92.466,1942
-34676,Pleasant Valley,KS,,city-us,376,38.912,-97.784,1635
-34684,Pleasant Valley,TX,,city-us,356,33.939,-98.590,2520
-34670,Pleasant Valley,CT,,city-us,345,41.908,-72.992,297
-34669,Pleasant Valley,MN,,city-us,292,43.798,-92.629,2645
-34663,Pleasant Valley,SD,,city-us,179,45.806,-97.665,0
-34656,Pleasant Valley,SD,,city-us,167,43.046,-99.007,0
-34686,Pleasant Valley,KS,,city-us,167,37.601,-95.606,1635
-34647,Pleasant Valley,SD,,city-us,157,42.953,-96.983,0
-34685,Pleasant Valley,ND,,city-us,152,48.328,-102.893,0
-34655,Pleasant Valley,KS,,city-us,141,38.178,-100.774,1635
-34671,Pleasant Valley,KS,,city-us,84,38.044,-99.077,1635
-34673,Pleasant Valley,PA,,city-us,75,41.865,-78.177,1892
-34658,Pleasant Valley,SD,,city-us,31,44.248,-99.017,0
-34680,Pleasant Valley,SD,,city-us,29,43.466,-99.712,0
-34636,Pleasant Valley,SD,,city-us,20,43.910,-98.626,0
-34649,Pleasant Valley,KS,,city-us,19,39.689,-100.233,1635
-34634,Pleasant Valley,MD,,city-us,0,39.710,-78.641,93
-34637,Pleasant Valley,OR,,city-us,0,44.674,-117.631,1623
-34638,Pleasant Valley,PA,,city-us,0,40.396,-76.134,211
-34640,Pleasant Valley,VA,,city-us,0,37.468,-78.470,101
-34641,Pleasant Valley,PA,,city-us,0,40.521,-75.293,1703
-34642,Pleasant Valley,MD,,city-us,0,38.667,-76.603,92
-34643,Pleasant Valley,MN,,city-us,0,46.538,-92.385,349
-34644,Pleasant Valley,AR,,city-us,0,36.387,-93.610,142
-34645,Pleasant Valley,MD,,city-us,0,39.633,-77.046,195
-34650,Pleasant Valley,NE,,city-us,0,41.616,-96.857,210
-34657,Pleasant Valley,WV,,city-us,0,40.427,-80.537,138
-34659,Pleasant Valley,IL,,city-us,0,42.226,-90.027,95
-34660,Pleasant Valley,OR,,city-us,0,42.557,-123.386,314
-34664,Pleasant Valley,WV,,city-us,0,39.917,-80.626,162
-34665,Pleasant Valley,IN,,city-us,0,38.632,-86.801,367
-34666,Pleasant Valley,NJ,,city-us,0,40.336,-74.896,1168
-34668,Pleasant Valley,NJ,,city-us,0,40.367,-74.213,5644
-34672,Pleasant Valley,AR,,city-us,0,35.433,-93.133,105
-34674,Pleasant Valley,TX,,city-us,0,35.258,-101.831,157
-34675,Pleasant Valley,VA,,city-us,0,38.385,-78.897,173
-34678,Pleasant Valley,IN,,city-us,0,41.694,-86.074,260
-34679,Pleasant Valley,OR,,city-us,0,45.365,-123.804,491
-34681,Pleasant Valley,WI,,city-us,0,43.721,-91.173,120
-34682,Pleasant Valley,NJ,,city-us,0,40.751,-75.008,2856
-34683,Pleasant Valley,NV,,city-us,0,39.352,-119.776,523
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34661,Pleasant Valley,MI,Livingston County,,city-us,19144,42.564,-83.736,4100
+34651,Pleasant Valley,NY,Dutchess County,,city-us,9744,41.771,-73.805,6044
+34652,Pleasant Valley,WI,Eau Claire County,,city-us,3828,44.662,-91.468,2014
+34662,Pleasant Valley,WV,Marion County,,city-us,3492,39.455,-80.142,2186
+34646,Pleasant Valley,MO,Clay County,,city-us,2743,39.216,-94.484,3469
+34639,Pleasant Valley,MI,Berrien County,,city-us,2312,42.031,-86.291,3721
+34653,Pleasant Valley,CA,El Dorado County,,city-us,1967,38.683,-120.663,219
+34667,Pleasant Valley,MI,Midland County,,city-us,1145,43.509,-84.548,1973
+34635,Pleasant Valley,MI,Antrim County,,city-us,877,45.083,-85.158,1937
+34648,Pleasant Valley,KS,Cowley County,,city-us,804,37.166,-96.984,1635
+34654,Pleasant Valley,AK,Fairbanks North Star Borough,,city-us,754,64.881,-146.869,2264
+34677,Pleasant Valley,WI,St. Croix County,,city-us,570,44.906,-92.466,1942
+34676,Pleasant Valley,KS,Saline County,,city-us,376,38.912,-97.784,1635
+34684,Pleasant Valley,TX,Wichita County,,city-us,356,33.939,-98.590,2520
+34670,Pleasant Valley,CT,Northwest Hills Planning Region,,city-us,345,41.908,-72.992,297
+34669,Pleasant Valley,MN,Mower County,,city-us,292,43.798,-92.629,2645
+34663,Pleasant Valley,SD,Marshall County,,city-us,179,45.806,-97.665,0
+34656,Pleasant Valley,SD,Gregory County,,city-us,167,43.046,-99.007,0
+34686,Pleasant Valley,KS,Wilson County,,city-us,167,37.601,-95.606,1635
+34647,Pleasant Valley,SD,Clay County,,city-us,157,42.953,-96.983,0
+34685,Pleasant Valley,ND,Williams County,,city-us,152,48.328,-102.893,0
+34655,Pleasant Valley,KS,Finney County,,city-us,141,38.178,-100.774,1635
+34671,Pleasant Valley,KS,Pawnee County,,city-us,84,38.044,-99.077,1635
+34673,Pleasant Valley,PA,Potter County,,city-us,75,41.865,-78.177,1892
+34658,Pleasant Valley,SD,Hand County,,city-us,31,44.248,-99.017,0
+34680,Pleasant Valley,SD,Tripp County,,city-us,29,43.466,-99.712,0
+34636,Pleasant Valley,SD,Aurora County,,city-us,20,43.910,-98.626,0
+34649,Pleasant Valley,KS,Decatur County,,city-us,19,39.689,-100.233,1635
+34634,Pleasant Valley,MD,Allegany County,,city-us,0,39.710,-78.641,93
+34637,Pleasant Valley,OR,Baker County,,city-us,0,44.674,-117.631,1623
+34638,Pleasant Valley,PA,Berks County,,city-us,0,40.396,-76.134,211
+34640,Pleasant Valley,VA,Buckingham County,,city-us,0,37.468,-78.470,101
+34641,Pleasant Valley,PA,Bucks County,,city-us,0,40.521,-75.293,1703
+34642,Pleasant Valley,MD,Calvert County,,city-us,0,38.667,-76.603,92
+34643,Pleasant Valley,MN,Carlton County,,city-us,0,46.538,-92.385,349
+34644,Pleasant Valley,AR,Carroll County,,city-us,0,36.387,-93.610,142
+34645,Pleasant Valley,MD,Carroll County,,city-us,0,39.633,-77.046,195
+34650,Pleasant Valley,NE,Dodge County,,city-us,0,41.616,-96.857,210
+34657,Pleasant Valley,WV,Hancock County,,city-us,0,40.427,-80.537,138
+34659,Pleasant Valley,IL,Jo Daviess County,,city-us,0,42.226,-90.027,95
+34660,Pleasant Valley,OR,Josephine County,,city-us,0,42.557,-123.386,314
+34664,Pleasant Valley,WV,Marshall County,,city-us,0,39.917,-80.626,162
+34665,Pleasant Valley,IN,Martin County,,city-us,0,38.632,-86.801,367
+34666,Pleasant Valley,NJ,Mercer County,,city-us,0,40.336,-74.896,1168
+34668,Pleasant Valley,NJ,Monmouth County,,city-us,0,40.367,-74.213,5644
+34672,Pleasant Valley,AR,Pope County,,city-us,0,35.433,-93.133,105
+34674,Pleasant Valley,TX,Potter County,,city-us,0,35.258,-101.831,157
+34675,Pleasant Valley,VA,Rockingham County,,city-us,0,38.385,-78.897,173
+34678,Pleasant Valley,IN,St. Joseph County,,city-us,0,41.694,-86.074,260
+34679,Pleasant Valley,OR,Tillamook County,,city-us,0,45.365,-123.804,491
+34681,Pleasant Valley,WI,Vernon County,,city-us,0,43.721,-91.173,120
+34682,Pleasant Valley,NJ,Warren County,,city-us,0,40.751,-75.008,2856
+34683,Pleasant Valley,NV,Washoe County,,city-us,0,39.352,-119.776,523

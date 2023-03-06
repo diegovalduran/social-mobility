@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10035,Cottage Hill,KS,,city-us,122,39.603,-96.759,0
-10033,Cottage Hill,TX,,city-us,0,29.533,-98.523,1232
-10034,Cottage Hill,IN,,city-us,0,39.517,-87.149,200
-10036,Cottage Hill,OH,,city-us,0,40.016,-82.188,293
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10035,Cottage Hill,KS,Marshall County,,city-us,122,39.603,-96.759,0
+10033,Cottage Hill,TX,Bexar County,,city-us,0,29.533,-98.523,1232
+10034,Cottage Hill,IN,Clay County,,city-us,0,39.517,-87.149,200
+10036,Cottage Hill,OH,Muskingum County,,city-us,0,40.016,-82.188,293

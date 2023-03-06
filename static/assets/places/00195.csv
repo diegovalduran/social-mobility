@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1022,Amo,IN,,city-us,410,39.688,-86.614,5079
-1021,Amo,MN,,city-us,123,43.970,-95.272,2070
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1022,Amo,IN,Hendricks County,,city-us,410,39.688,-86.614,5079
+1021,Amo,MN,Cottonwood County,,city-us,123,43.970,-95.272,2070

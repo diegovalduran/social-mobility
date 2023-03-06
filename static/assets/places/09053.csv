@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45681,Waynesville,NC,,city-us,10178,35.489,-82.989,13270
-45682,Waynesville,MO,,city-us,5427,37.829,-92.201,8798
-45683,Waynesville,OH,,city-us,2728,39.530,-84.087,4514
-45680,Waynesville,IL,,city-us,628,40.253,-89.091,3584
-45678,Waynesville,GA,,city-us,331,31.229,-81.789,870
-45677,Waynesville,IN,,city-us,0,39.115,-85.892,398
-45679,Waynesville,PA,,city-us,0,40.452,-76.879,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45681,Waynesville,NC,Haywood County,,city-us,10178,35.489,-82.989,13270
+45682,Waynesville,MO,Pulaski County,,city-us,5427,37.829,-92.201,8798
+45683,Waynesville,OH,Warren County,,city-us,2728,39.530,-84.087,4514
+45680,Waynesville,IL,De Witt County,,city-us,628,40.253,-89.091,3584
+45678,Waynesville,GA,Brantley County,,city-us,331,31.229,-81.789,870
+45677,Waynesville,IN,Bartholomew County,,city-us,0,39.115,-85.892,398
+45679,Waynesville,PA,Dauphin County,,city-us,0,40.452,-76.879,199

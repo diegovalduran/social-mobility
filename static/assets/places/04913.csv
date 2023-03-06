@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25251,Littleton,CO,,city-us,45191,39.590,-105.020,12290
-25257,Littleton,MA,,city-us,10121,42.536,-71.491,26142
-25255,Littleton,NH,,city-us,6043,44.343,-71.795,5650
-25252,Littleton,ME,,city-us,989,46.236,-67.843,3261
-25256,Littleton,NC,,city-us,560,36.435,-77.912,3061
-25258,Littleton,IL,,city-us,284,40.234,-90.622,275
-25260,Littleton,WV,,city-us,141,39.698,-80.517,2121
-25253,Littleton,IA,,city-us,0,42.533,-92.024,1103
-25254,Littleton,KY,,city-us,0,37.163,-83.755,140
-25259,Littleton,VA,,city-us,0,36.903,-77.149,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25251,Littleton,CO,Arapahoe County / Douglas County / Jefferson County,,city-us,45191,39.590,-105.020,12290
+25257,Littleton,MA,Middlesex County,,city-us,10121,42.536,-71.491,26142
+25255,Littleton,NH,Grafton County,,city-us,6043,44.343,-71.795,5650
+25252,Littleton,ME,Aroostook County,,city-us,989,46.236,-67.843,3261
+25256,Littleton,NC,Halifax County,,city-us,560,36.435,-77.912,3061
+25258,Littleton,IL,Schuyler County,,city-us,284,40.234,-90.622,275
+25260,Littleton,WV,Wetzel County,,city-us,141,39.698,-80.517,2121
+25253,Littleton,IA,Buchanan County,,city-us,0,42.533,-92.024,1103
+25254,Littleton,KY,Clay County,,city-us,0,37.163,-83.755,140
+25259,Littleton,VA,Sussex County,,city-us,0,36.903,-77.149,245

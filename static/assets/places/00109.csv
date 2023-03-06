@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-563,Alford,FL,,city-us,493,30.694,-85.392,999
-562,Alford,MA,,city-us,484,42.254,-73.427,7210
-564,Alford,IN,,city-us,0,38.491,-87.243,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+563,Alford,FL,Jackson County,,city-us,493,30.694,-85.392,999
+562,Alford,MA,Berkshire County,,city-us,484,42.254,-73.427,7210
+564,Alford,IN,Pike County,,city-us,0,38.491,-87.243,220

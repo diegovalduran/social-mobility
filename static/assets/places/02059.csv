@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10378,Crichton,WV,,city-us,0,38.056,-80.716,813
-10379,Crichton,LA,,city-us,0,32.125,-93.434,112
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10378,Crichton,WV,Greenbrier County,,city-us,0,38.056,-80.716,813
+10379,Crichton,LA,Red River Parish,,city-us,0,32.125,-93.434,112

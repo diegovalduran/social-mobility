@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28783,Minco,OK,,city-us,1521,35.313,-97.944,8809
-28782,Minco,ND,,city-us,19,47.869,-98.598,129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28783,Minco,OK,Grady County,,city-us,1521,35.313,-97.944,8809
+28782,Minco,ND,Benson County,,city-us,19,47.869,-98.598,129

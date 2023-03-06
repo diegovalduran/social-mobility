@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2595,Barton City,MO,,city-us,256,37.605,-94.446,465
-2594,Barton City,MI,,city-us,0,44.684,-83.606,1408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2595,Barton City,MO,Barton County,,city-us,256,37.605,-94.446,465
+2594,Barton City,MI,Alcona County,,city-us,0,44.684,-83.606,1408

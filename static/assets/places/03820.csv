@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19562,Heizer,KS,,city-us,0,38.422,-98.889,3839
-20221,Hiser,WV,,city-us,0,38.962,-79.115,113
-20222,Hiser,IN,,city-us,0,39.815,-85.078,149
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19562,Heizer,KS,Barton County,,city-us,0,38.422,-98.889,3839
+20221,Hiser,WV,Grant County,,city-us,0,38.962,-79.115,113
+20222,Hiser,IN,Wayne County,,city-us,0,39.815,-85.078,149

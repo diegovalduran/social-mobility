@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40978,St. Clair,IL,,city-us,35552,38.534,-89.980,620
-40975,St. Clair,OH,,city-us,7739,40.700,-80.569,130
-40979,St. Clair,MI,,city-us,7073,42.861,-82.554,3418
-40974,St. Clair,OH,,city-us,6694,39.449,-84.537,130
-40976,St. Clair,MO,,city-us,4764,38.345,-90.981,4729
-40977,St. Clair,PA,,city-us,2762,40.721,-76.191,3378
-40980,St. Clair,PA,,city-us,1328,40.352,-79.032,2785
-40973,St. Clair,MN,,city-us,750,44.082,-93.858,3501
-40972,St. Clair,PA,,city-us,67,40.479,-78.230,664
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40978,St. Clair,IL,St. Clair County,,city-us,35552,38.534,-89.980,620
+40975,St. Clair,OH,Columbiana County,,city-us,7739,40.700,-80.569,130
+40979,St. Clair,MI,St. Clair County,,city-us,7073,42.861,-82.554,3418
+40974,St. Clair,OH,Butler County,,city-us,6694,39.449,-84.537,130
+40976,St. Clair,MO,Franklin County,,city-us,4764,38.345,-90.981,4729
+40977,St. Clair,PA,Schuylkill County,,city-us,2762,40.721,-76.191,3378
+40980,St. Clair,PA,Westmoreland County,,city-us,1328,40.352,-79.032,2785
+40973,St. Clair,MN,Blue Earth County,,city-us,750,44.082,-93.858,3501
+40972,St. Clair,PA,Blair County,,city-us,67,40.479,-78.230,664

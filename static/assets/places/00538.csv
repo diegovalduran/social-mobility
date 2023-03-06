@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2760,Bayard,NM,,city-us,2097,32.762,-108.131,2890
-2763,Bayard,NE,,city-us,1131,41.755,-103.324,3471
-2762,Bayard,IA,,city-us,402,41.852,-94.558,3435
-2761,Bayard,WV,,city-us,199,39.273,-79.364,3525
-2758,Bayard,KS,,city-us,0,37.994,-95.163,1255
-2759,Bayard,OH,,city-us,0,40.751,-81.065,205
-2764,Bayard,DE,,city-us,0,38.500,-75.132,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2760,Bayard,NM,Grant County,,city-us,2097,32.762,-108.131,2890
+2763,Bayard,NE,Morrill County,,city-us,1131,41.755,-103.324,3471
+2762,Bayard,IA,Guthrie County,,city-us,402,41.852,-94.558,3435
+2761,Bayard,WV,Grant County,,city-us,199,39.273,-79.364,3525
+2758,Bayard,KS,Allen County,,city-us,0,37.994,-95.163,1255
+2759,Bayard,OH,Columbiana County,,city-us,0,40.751,-81.065,205
+2764,Bayard,DE,Sussex County,,city-us,0,38.500,-75.132,177

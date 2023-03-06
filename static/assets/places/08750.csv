@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43892,Uniondale,NY,,city-us,32791,40.700,-73.593,4343
-43893,Uniondale,IN,,city-us,272,40.831,-85.242,3042
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43892,Uniondale,NY,Nassau County,,city-us,32791,40.700,-73.593,4343
+43893,Uniondale,IN,Wells County,,city-us,272,40.831,-85.242,3042

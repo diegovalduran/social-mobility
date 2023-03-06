@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21338,Indian Springs,GA,,city-us,1932,34.958,-85.164,2031
-21339,Indian Springs,NV,,city-us,794,36.570,-115.671,6421
-21345,Indian Springs,TX,,city-us,684,30.696,-94.753,381
-21346,Indian Springs,MD,,city-us,68,39.646,-78.002,2501
-21340,Indian Springs,MT,,city-us,0,48.958,-115.044,176
-21341,Indian Springs,CA,,city-us,0,34.332,-118.334,199
-21342,Indian Springs,CA,,city-us,0,37.051,-119.733,183
-21343,Indian Springs,IN,,city-us,0,38.796,-86.765,326
-21344,Indian Springs,CA,,city-us,0,39.734,-123.374,205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21338,Indian Springs,GA,Catoosa County,,city-us,1932,34.958,-85.164,2031
+21339,Indian Springs,NV,Clark County,,city-us,794,36.570,-115.671,6421
+21345,Indian Springs,TX,Polk County,,city-us,684,30.696,-94.753,381
+21346,Indian Springs,MD,Washington County,,city-us,68,39.646,-78.002,2501
+21340,Indian Springs,MT,Lincoln County,,city-us,0,48.958,-115.044,176
+21341,Indian Springs,CA,Los Angeles County,,city-us,0,34.332,-118.334,199
+21342,Indian Springs,CA,Madera County,,city-us,0,37.051,-119.733,183
+21343,Indian Springs,IN,Martin County,,city-us,0,38.796,-86.765,326
+21344,Indian Springs,CA,Mendocino County,,city-us,0,39.734,-123.374,205

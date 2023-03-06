@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36765,Rinehart,KS,,city-us,204,38.907,-96.973,335
-36392,Rhinehart,MN,,city-us,134,47.886,-97.010,1781
-36391,Rhinehart,LA,,city-us,0,31.638,-92.007,233
-36766,Rinehart,WV,,city-us,0,39.424,-80.516,279
-36767,Rinehart,MO,,city-us,0,37.956,-94.499,253
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36765,Rinehart,KS,Dickinson County,,city-us,204,38.907,-96.973,335
+36392,Rhinehart,MN,Polk County,,city-us,134,47.886,-97.010,1781
+36391,Rhinehart,LA,Catahoula Parish,,city-us,0,31.638,-92.007,233
+36766,Rinehart,WV,Harrison County,,city-us,0,39.424,-80.516,279
+36767,Rinehart,MO,Vernon County,,city-us,0,37.956,-94.499,253

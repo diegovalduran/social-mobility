@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16634,Gerald,MO,,city-us,1357,38.400,-91.331,4792
-16632,Gerald,IL,,city-us,0,40.271,-87.930,150
-16633,Gerald,AL,,city-us,0,31.324,-85.757,340
-16635,Gerald,OH,,city-us,0,41.457,-84.144,250
-16636,Gerald,IN,,city-us,0,38.008,-86.573,307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16634,Gerald,MO,Franklin County,,city-us,1357,38.400,-91.331,4792
+16632,Gerald,IL,Champaign County,,city-us,0,40.271,-87.930,150
+16633,Gerald,AL,Dale County,,city-us,0,31.324,-85.757,340
+16635,Gerald,OH,Henry County,,city-us,0,41.457,-84.144,250
+16636,Gerald,IN,Perry County,,city-us,0,38.008,-86.573,307

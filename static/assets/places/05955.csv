@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30524,New Berlin,WI,,city-us,40375,42.976,-88.108,7359
-30522,New Berlin,IL,,city-us,1567,39.717,-89.890,631
-30520,New Berlin,NY,,city-us,892,42.624,-75.332,4452
-30523,New Berlin,PA,,city-us,785,40.879,-76.987,3250
-30521,New Berlin,TX,,city-us,679,29.464,-98.101,2632
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30524,New Berlin,WI,Waukesha County,,city-us,40375,42.976,-88.108,7359
+30522,New Berlin,IL,Sangamon County,,city-us,1567,39.717,-89.890,631
+30520,New Berlin,NY,Chenango County,,city-us,892,42.624,-75.332,4452
+30523,New Berlin,PA,Union County,,city-us,785,40.879,-76.987,3250
+30521,New Berlin,TX,Guadalupe County,,city-us,679,29.464,-98.101,2632

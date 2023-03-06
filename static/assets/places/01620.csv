@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8242,Chichester,PA,,city-us,30648,39.835,-75.444,1995
-8243,Chichester,NH,,city-us,2737,43.265,-71.409,3742
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8242,Chichester,PA,Delaware County,,city-us,30648,39.835,-75.444,1995
+8243,Chichester,NH,Merrimack County,,city-us,2737,43.265,-71.409,3742

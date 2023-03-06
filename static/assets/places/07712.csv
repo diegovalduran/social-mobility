@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39041,Seaside,CA,,city-us,32085,36.611,-121.845,9443
-39040,Seaside,OR,,city-us,7234,45.993,-123.923,9679
-39042,Seaside,FL,,city-us,0,30.320,-86.138,6483
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39041,Seaside,CA,Monterey County,,city-us,32085,36.611,-121.845,9443
+39040,Seaside,OR,Clatsop County,,city-us,7234,45.993,-123.923,9679
+39042,Seaside,FL,Walton County,,city-us,0,30.320,-86.138,6483

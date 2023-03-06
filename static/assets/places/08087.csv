@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40943,St. Anna,ND,,city-us,27,47.624,-99.704,0
-40941,St. Anna,WI,,city-us,0,43.893,-88.121,2056
-40942,St. Anna,MN,,city-us,0,45.662,-94.475,313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40943,St. Anna,ND,Wells County,,city-us,27,47.624,-99.704,0
+40941,St. Anna,WI,Calumet County,,city-us,0,43.893,-88.121,2056
+40942,St. Anna,MN,Stearns County,,city-us,0,45.662,-94.475,313

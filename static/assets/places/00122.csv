@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-606,Alida,MN,,city-us,0,47.384,-95.235,328
-607,Alida,IN,,city-us,0,41.511,-86.903,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+606,Alida,MN,Clearwater County,,city-us,0,47.384,-95.235,328
+607,Alida,IN,LaPorte County,,city-us,0,41.511,-86.903,264

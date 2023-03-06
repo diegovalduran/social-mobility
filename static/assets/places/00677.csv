@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3437,Benedict,NE,,city-us,204,41.006,-97.606,3155
-3431,Benedict,MD,,city-us,132,38.509,-76.680,1980
-3436,Benedict,KS,,city-us,71,37.625,-95.751,3606
-3433,Benedict,ND,,city-us,65,47.830,-101.082,2848
-3435,Benedict,SD,,city-us,26,44.068,-97.911,0
-3432,Benedict,MN,,city-us,0,47.158,-94.691,397
-3434,Benedict,GA,,city-us,0,33.974,-85.257,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3437,Benedict,NE,York County,,city-us,204,41.006,-97.606,3155
+3431,Benedict,MD,Charles County,,city-us,132,38.509,-76.680,1980
+3436,Benedict,KS,Wilson County,,city-us,71,37.625,-95.751,3606
+3433,Benedict,ND,McLean County,,city-us,65,47.830,-101.082,2848
+3435,Benedict,SD,Sanborn County,,city-us,26,44.068,-97.911,0
+3432,Benedict,MN,Hubbard County,,city-us,0,47.158,-94.691,397
+3434,Benedict,GA,Polk County,,city-us,0,33.974,-85.257,182

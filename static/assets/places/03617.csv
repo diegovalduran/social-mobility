@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18375,Hackberry,TX,,city-us,2961,33.152,-96.918,1061
-18374,Hackberry,LA,,city-us,970,29.996,-93.342,3831
-18376,Hackberry,KS,,city-us,397,37.060,-95.212,294
-18377,Hackberry,AZ,,city-us,103,35.369,-113.727,4583
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18375,Hackberry,TX,Denton County,,city-us,2961,33.152,-96.918,1061
+18374,Hackberry,LA,Cameron Parish,,city-us,970,29.996,-93.342,3831
+18376,Hackberry,KS,Labette County,,city-us,397,37.060,-95.212,294
+18377,Hackberry,AZ,Mohave County,,city-us,103,35.369,-113.727,4583

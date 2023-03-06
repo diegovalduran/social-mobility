@@ -1,20 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25154,Lisbon,,Portugal,city-international,506654,38.708,-9.139,54235
-25152,Lisbon,WI,,city-us,10561,43.158,-88.250,3198
-25136,Lisbon,ME,,city-us,9674,44.020,-70.079,5054
-25151,Lisbon,NY,,city-us,4241,44.697,-75.306,5565
-25150,Lisbon,CT,,city-us,4198,41.603,-72.012,2999
-25139,Lisbon,OH,,city-us,2579,40.772,-80.768,9926
-25147,Lisbon,IA,,city-us,2215,41.921,-91.385,3590
-25149,Lisbon,ND,,city-us,2190,46.442,-97.681,4520
-25144,Lisbon,WI,,city-us,1698,43.856,-90.132,1934
-25141,Lisbon,NH,,city-us,848,44.213,-71.911,4176
-25145,Lisbon,IL,,city-us,781,41.503,-88.424,777
-25153,Lisbon,MN,,city-us,176,44.852,-95.783,1807
-25137,Lisbon,LA,,city-us,159,32.796,-92.865,2571
-25146,Lisbon,FL,,city-us,143,28.871,-81.790,2178
-25140,Lisbon,SD,,city-us,113,43.629,-98.146,0
-25142,Lisbon,MD,,city-us,35,39.336,-77.071,2014
-25138,Lisbon,OH,,city-us,0,39.861,-83.635,115
-25143,Lisbon,MO,,city-us,0,39.106,-92.906,251
-25148,Lisbon,IN,,city-us,0,41.411,-85.260,390
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25154,Lisbon,,,Portugal,city-international,506654,38.708,-9.139,54235
+25152,Lisbon,WI,Waukesha County,,city-us,10561,43.158,-88.250,3198
+25136,Lisbon,ME,Androscoggin County,,city-us,9674,44.020,-70.079,5054
+25151,Lisbon,NY,St. Lawrence County,,city-us,4241,44.697,-75.306,5565
+25150,Lisbon,CT,Southeastern Connecticut Planning Region,,city-us,4198,41.603,-72.012,2999
+25139,Lisbon,OH,Columbiana County,,city-us,2579,40.772,-80.768,9926
+25147,Lisbon,IA,Linn County,,city-us,2215,41.921,-91.385,3590
+25149,Lisbon,ND,Ransom County,,city-us,2190,46.442,-97.681,4520
+25144,Lisbon,WI,Juneau County,,city-us,1698,43.856,-90.132,1934
+25141,Lisbon,NH,Grafton County,,city-us,848,44.213,-71.911,4176
+25145,Lisbon,IL,Kendall County,,city-us,781,41.503,-88.424,777
+25153,Lisbon,MN,Yellow Medicine County,,city-us,176,44.852,-95.783,1807
+25137,Lisbon,LA,Claiborne Parish,,city-us,159,32.796,-92.865,2571
+25146,Lisbon,FL,Lake County,,city-us,143,28.871,-81.790,2178
+25140,Lisbon,SD,Davison County,,city-us,113,43.629,-98.146,0
+25142,Lisbon,MD,Howard County,,city-us,35,39.336,-77.071,2014
+25138,Lisbon,OH,Clark County,,city-us,0,39.861,-83.635,115
+25143,Lisbon,MO,Howard County,,city-us,0,39.106,-92.906,251
+25148,Lisbon,IN,Noble County,,city-us,0,41.411,-85.260,390

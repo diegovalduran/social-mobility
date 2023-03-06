@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33143,Park Ridge,IL,,city-us,38810,42.011,-87.841,12568
-33142,Park Ridge,NJ,,city-us,9434,41.038,-74.041,20426
-33144,Park Ridge,WI,,city-us,526,44.519,-89.546,3203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33143,Park Ridge,IL,Cook County,,city-us,38810,42.011,-87.841,12568
+33142,Park Ridge,NJ,Bergen County,,city-us,9434,41.038,-74.041,20426
+33144,Park Ridge,WI,Portage County,,city-us,526,44.519,-89.546,3203

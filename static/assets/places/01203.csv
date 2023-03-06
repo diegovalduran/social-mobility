@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6053,Bull Run,VA,,city-us,16709,38.784,-77.521,2030
-6051,Bull Run,VA,,city-us,7526,38.840,-77.490,159
-6050,Bull Run,OR,,city-us,0,45.430,-122.232,1768
-6052,Bull Run,WV,,city-us,0,39.584,-79.770,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6053,Bull Run,VA,Prince William County,,city-us,16709,38.784,-77.521,2030
+6051,Bull Run,VA,Fairfax County,,city-us,7526,38.840,-77.490,159
+6050,Bull Run,OR,Clackamas County,,city-us,0,45.430,-122.232,1768
+6052,Bull Run,WV,Preston County,,city-us,0,39.584,-79.770,90

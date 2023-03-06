@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18795,Happy Valley,OR,,city-us,25679,45.447,-122.530,5606
-18796,Happy Valley,NM,,city-us,918,32.428,-104.290,705
-18797,Happy Valley,AK,,city-us,700,59.947,-151.732,2390
-18793,Happy Valley,TN,,city-us,529,35.609,-83.957,5243
-18794,Happy Valley,CA,,city-us,0,38.300,-120.684,126
-18798,Happy Valley,KY,,city-us,0,37.291,-83.228,96
-18799,Happy Valley,CA,,city-us,0,40.472,-122.407,439
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18795,Happy Valley,OR,Clackamas County,,city-us,25679,45.447,-122.530,5606
+18796,Happy Valley,NM,Eddy County,,city-us,918,32.428,-104.290,705
+18797,Happy Valley,AK,Kenai Peninsula Borough,,city-us,700,59.947,-151.732,2390
+18793,Happy Valley,TN,Blount County,,city-us,529,35.609,-83.957,5243
+18794,Happy Valley,CA,Calaveras County,,city-us,0,38.300,-120.684,126
+18798,Happy Valley,KY,Perry County,,city-us,0,37.291,-83.228,96
+18799,Happy Valley,CA,Shasta County,,city-us,0,40.472,-122.407,439

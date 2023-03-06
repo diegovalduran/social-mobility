@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36797,Rio Bravo,TX,,city-us,4400,27.364,-99.480,3150
-36796,Rio Bravo,CA,,city-us,0,35.398,-119.291,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36797,Rio Bravo,TX,Webb County,,city-us,4400,27.364,-99.480,3150
+36796,Rio Bravo,CA,Kern County,,city-us,0,35.398,-119.291,273

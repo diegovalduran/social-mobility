@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17715,Gravelton,IN,,city-us,0,41.436,-85.924,358
-17716,Gravelton,MO,,city-us,0,37.298,-90.254,469
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17715,Gravelton,IN,Elkhart County,,city-us,0,41.436,-85.924,358
+17716,Gravelton,MO,Wayne County,,city-us,0,37.298,-90.254,469

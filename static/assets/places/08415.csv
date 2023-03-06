@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42495,Tannersville,NY,,city-us,582,42.196,-74.134,5845
-42496,Tannersville,PA,,city-us,0,41.040,-75.306,1144
-42497,Tannersville,VA,,city-us,0,36.973,-81.625,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42495,Tannersville,NY,Greene County,,city-us,582,42.196,-74.134,5845
+42496,Tannersville,PA,Monroe County,,city-us,0,41.040,-75.306,1144
+42497,Tannersville,VA,Tazewell County,,city-us,0,36.973,-81.625,199

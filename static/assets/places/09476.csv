@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47923,Yankeetown,FL,,city-us,603,29.030,-82.716,2207
-47919,Yankeetown,MN,,city-us,0,45.491,-96.740,107
-47920,Yankeetown,WI,,city-us,0,43.380,-90.798,637
-47921,Yankeetown,OH,,city-us,0,39.930,-84.722,225
-47922,Yankeetown,OH,,city-us,0,39.661,-83.268,275
-47924,Yankeetown,VA,,city-us,0,38.671,-78.941,217
-47925,Yankeetown,IN,,city-us,0,37.917,-87.298,363
-47926,Yankeetown,TN,,city-us,0,35.988,-85.423,105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47923,Yankeetown,FL,Levy County,,city-us,603,29.030,-82.716,2207
+47919,Yankeetown,MN,Big Stone County,,city-us,0,45.491,-96.740,107
+47920,Yankeetown,WI,Crawford County,,city-us,0,43.380,-90.798,637
+47921,Yankeetown,OH,Darke County,,city-us,0,39.930,-84.722,225
+47922,Yankeetown,OH,Fayette County,,city-us,0,39.661,-83.268,275
+47924,Yankeetown,VA,Rockingham County,,city-us,0,38.671,-78.941,217
+47925,Yankeetown,IN,Warrick County,,city-us,0,37.917,-87.298,363
+47926,Yankeetown,TN,White County,,city-us,0,35.988,-85.423,105

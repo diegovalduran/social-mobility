@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31383,North Hero,VT,,city-us,956,44.835,-73.226,3156
-31384,North Hero,MN,,city-us,152,44.247,-95.421,1945
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31383,North Hero,VT,Grand Isle County,,city-us,956,44.835,-73.226,3156
+31384,North Hero,MN,Redwood County,,city-us,152,44.247,-95.421,1945

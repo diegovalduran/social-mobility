@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27134,Marvel,CO,,city-us,95,37.112,-108.127,1035
-27132,Marvel,AL,,city-us,0,33.147,-87.003,808
-27133,Marvel,WV,,city-us,0,38.174,-81.076,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27134,Marvel,CO,La Plata County,,city-us,95,37.112,-108.127,1035
+27132,Marvel,AL,Bibb County,,city-us,0,33.147,-87.003,808
+27133,Marvel,WV,Fayette County,,city-us,0,38.174,-81.076,88

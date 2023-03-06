@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40672,Spring Glen,UT,,city-us,1039,39.659,-110.853,2870
-40673,Spring Glen,WA,,city-us,0,47.561,-121.861,72
-40674,Spring Glen,PA,,city-us,0,40.626,-76.621,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40672,Spring Glen,UT,Carbon County,,city-us,1039,39.659,-110.853,2870
+40673,Spring Glen,WA,King County,,city-us,0,47.561,-121.861,72
+40674,Spring Glen,PA,Schuylkill County,,city-us,0,40.626,-76.621,257

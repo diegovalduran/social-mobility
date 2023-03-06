@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22884,Kickapoo,WI,,city-us,738,43.455,-90.715,1850
-22882,Kickapoo,ND,,city-us,19,48.237,-102.010,0
-22881,Kickapoo,KS,,city-us,0,39.399,-94.971,386
-22883,Kickapoo,IL,,city-us,0,40.790,-89.751,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22884,Kickapoo,WI,Vernon County,,city-us,738,43.455,-90.715,1850
+22882,Kickapoo,ND,Mountrail County,,city-us,19,48.237,-102.010,0
+22881,Kickapoo,KS,Leavenworth County,,city-us,0,39.399,-94.971,386
+22883,Kickapoo,IL,Peoria County,,city-us,0,40.790,-89.751,221

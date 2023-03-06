@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12501,Durham,NC,,city-us,285527,35.978,-78.900,52629
-12510,Durham,NH,,city-us,15539,43.117,-70.919,13042
-12506,Durham,CT,,city-us,7231,41.469,-72.685,7729
-12500,Durham,CA,,city-us,5989,39.646,-121.800,4638
-12498,Durham,ME,,city-us,4240,43.956,-70.132,4842
-12503,Durham,NY,,city-us,2664,42.374,-74.153,6134
-12514,Durham,OR,,city-us,1916,45.402,-122.753,4635
-12507,Durham,KS,,city-us,86,38.486,-97.228,8919
-12511,Durham,ND,,city-us,49,47.199,-98.649,0
-12509,Durham,OK,,city-us,21,35.842,-99.925,908
-12508,Durham,KS,,city-us,14,39.195,-97.419,8919
-12499,Durham,PA,,city-us,0,40.576,-75.223,185
-12502,Durham,IN,,city-us,0,38.260,-87.581,88
-12504,Durham,IL,,city-us,0,40.597,-91.090,338
-12505,Durham,MO,,city-us,0,39.976,-91.668,345
-12512,Durham,GA,,city-us,0,34.858,-85.433,253
-12513,Durham,AR,,city-us,0,35.949,-93.981,514
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12501,Durham,NC,Durham County / Orange County / Wake County,,city-us,285527,35.978,-78.900,52629
+12510,Durham,NH,Strafford County,,city-us,15539,43.117,-70.919,13042
+12506,Durham,CT,Lower Connecticut River Valley Planning Region,,city-us,7231,41.469,-72.685,7729
+12500,Durham,CA,Butte County,,city-us,5989,39.646,-121.800,4638
+12498,Durham,ME,Androscoggin County,,city-us,4240,43.956,-70.132,4842
+12503,Durham,NY,Greene County,,city-us,2664,42.374,-74.153,6134
+12514,Durham,OR,Washington County,,city-us,1916,45.402,-122.753,4635
+12507,Durham,KS,Marion County,,city-us,86,38.486,-97.228,8919
+12511,Durham,ND,Stutsman County,,city-us,49,47.199,-98.649,0
+12509,Durham,OK,Roger Mills County,,city-us,21,35.842,-99.925,908
+12508,Durham,KS,Ottawa County,,city-us,14,39.195,-97.419,8919
+12499,Durham,PA,Bucks County,,city-us,0,40.576,-75.223,185
+12502,Durham,IN,Gibson County,,city-us,0,38.260,-87.581,88
+12504,Durham,IL,Hancock County,,city-us,0,40.597,-91.090,338
+12505,Durham,MO,Lewis County,,city-us,0,39.976,-91.668,345
+12512,Durham,GA,Walker County,,city-us,0,34.858,-85.433,253
+12513,Durham,AR,Washington County,,city-us,0,35.949,-93.981,514

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28196,Middlesex,NJ,,city-us,14501,40.573,-74.493,14039
-28195,Middlesex,PA,,city-us,7078,40.254,-77.133,188
-28194,Middlesex,PA,,city-us,7054,40.707,-79.927,188
-28198,Middlesex,VT,,city-us,1774,44.319,-72.632,6744
-28199,Middlesex,NY,,city-us,1371,42.718,-77.289,4542
-28197,Middlesex,NC,,city-us,911,35.790,-78.204,2088
-28193,Middlesex,VA,,city-us,0,37.584,-75.810,181
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28196,Middlesex,NJ,Middlesex County,,city-us,14501,40.573,-74.493,14039
+28195,Middlesex,PA,Cumberland County,,city-us,7078,40.254,-77.133,188
+28194,Middlesex,PA,Butler County,,city-us,7054,40.707,-79.927,188
+28198,Middlesex,VT,Washington County,,city-us,1774,44.319,-72.632,6744
+28199,Middlesex,NY,Yates County,,city-us,1371,42.718,-77.289,4542
+28197,Middlesex,NC,Nash County,,city-us,911,35.790,-78.204,2088
+28193,Middlesex,VA,Accomack County,,city-us,0,37.584,-75.810,181

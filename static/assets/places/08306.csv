@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42032,Sun,LA,,city-us,400,30.649,-89.893,2045
-42031,Sun,WV,,city-us,0,37.919,-81.170,99
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42032,Sun,LA,St. Tammany Parish,,city-us,400,30.649,-89.893,2045
+42031,Sun,WV,Fayette County,,city-us,0,37.919,-81.170,99

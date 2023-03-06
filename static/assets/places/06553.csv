@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33353,Pawnee,IL,,city-us,3000,39.573,-89.582,356
-33352,Pawnee,OK,,city-us,1921,36.338,-96.804,6817
-33351,Pawnee,KS,,city-us,832,38.223,-99.176,9743
-33348,Pawnee,KS,,city-us,261,37.716,-94.827,474
-33347,Pawnee,TX,,city-us,85,28.653,-98.003,3117
-33354,Pawnee,KS,,city-us,26,39.952,-98.664,9743
-33349,Pawnee,MO,,city-us,0,40.522,-94.051,520
-33350,Pawnee,OH,,city-us,0,41.068,-82.077,292
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33353,Pawnee,IL,Sangamon County,,city-us,3000,39.573,-89.582,356
+33352,Pawnee,OK,Pawnee County,,city-us,1921,36.338,-96.804,6817
+33351,Pawnee,KS,Pawnee County,,city-us,832,38.223,-99.176,9743
+33348,Pawnee,KS,Bourbon County,,city-us,261,37.716,-94.827,474
+33347,Pawnee,TX,Bee County,,city-us,85,28.653,-98.003,3117
+33354,Pawnee,KS,Smith County,,city-us,26,39.952,-98.664,9743
+33349,Pawnee,MO,Harrison County,,city-us,0,40.522,-94.051,520
+33350,Pawnee,OH,Medina County,,city-us,0,41.068,-82.077,292

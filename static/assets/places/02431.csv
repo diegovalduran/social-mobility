@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12152,Doyle,CA,,city-us,959,40.028,-120.104,2977
-12157,Doyle,MI,,city-us,563,46.175,-86.055,3844
-12158,Doyle,TN,,city-us,502,35.853,-85.512,2976
-12151,Doyle,WI,,city-us,496,45.509,-91.601,2162
-12154,Doyle,KS,,city-us,39,38.215,-96.878,711
-12153,Doyle,LA,,city-us,0,30.504,-90.739,785
-12155,Doyle,IN,,city-us,0,40.808,-86.074,237
-12156,Doyle,MO,,city-us,0,36.600,-90.910,240
-12159,Doyle,WV,,city-us,0,39.283,-81.376,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12152,Doyle,CA,Lassen County,,city-us,959,40.028,-120.104,2977
+12157,Doyle,MI,Schoolcraft County,,city-us,563,46.175,-86.055,3844
+12158,Doyle,TN,White County,,city-us,502,35.853,-85.512,2976
+12151,Doyle,WI,Barron County,,city-us,496,45.509,-91.601,2162
+12154,Doyle,KS,Marion County,,city-us,39,38.215,-96.878,711
+12153,Doyle,LA,Livingston Parish,,city-us,0,30.504,-90.739,785
+12155,Doyle,IN,Miami County,,city-us,0,40.808,-86.074,237
+12156,Doyle,MO,Ripley County,,city-us,0,36.600,-90.910,240
+12159,Doyle,WV,Wood County,,city-us,0,39.283,-81.376,84

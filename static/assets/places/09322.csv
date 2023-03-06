@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47037,Willow Lake,IL,,city-us,795,42.333,-89.636,327
-47034,Willow Lake,SD,,city-us,238,44.627,-97.637,3146
-47035,Willow Lake,MN,,city-us,207,44.327,-95.162,2012
-47036,Willow Lake,ND,,city-us,51,47.276,-97.879,0
-47033,Willow Lake,SD,,city-us,49,43.816,-98.830,3146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47037,Willow Lake,IL,Stephenson County,,city-us,795,42.333,-89.636,327
+47034,Willow Lake,SD,Clark County,,city-us,238,44.627,-97.637,3146
+47035,Willow Lake,MN,Redwood County,,city-us,207,44.327,-95.162,2012
+47036,Willow Lake,ND,Steele County,,city-us,51,47.276,-97.879,0
+47033,Willow Lake,SD,Brule County,,city-us,49,43.816,-98.830,3146

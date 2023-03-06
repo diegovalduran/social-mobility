@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24570,Levittown,NY,,city-us,52540,40.726,-73.514,27528
-24569,Levittown,PA,,city-us,51100,40.155,-74.829,21751
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24570,Levittown,NY,Nassau County,,city-us,52540,40.726,-73.514,27528
+24569,Levittown,PA,Bucks County,,city-us,51100,40.155,-74.829,21751

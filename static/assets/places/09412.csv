@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47573,Woodland Beach,MI,,city-us,1899,41.940,-83.313,2627
-47571,Woodland Beach,MD,,city-us,0,38.932,-76.553,190
-47572,Woodland Beach,DE,,city-us,0,39.333,-75.475,835
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47573,Woodland Beach,MI,Monroe County,,city-us,1899,41.940,-83.313,2627
+47571,Woodland Beach,MD,Anne Arundel County,,city-us,0,38.932,-76.553,190
+47572,Woodland Beach,DE,Kent County,,city-us,0,39.333,-75.475,835

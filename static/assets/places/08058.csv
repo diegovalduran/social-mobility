@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40728,Spring Mill,KY,,city-us,290,38.143,-85.631,1726
-40729,Spring Mill,PA,,city-us,0,40.075,-75.285,4091
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40728,Spring Mill,KY,Jefferson County,,city-us,290,38.143,-85.631,1726
+40729,Spring Mill,PA,Montgomery County,,city-us,0,40.075,-75.285,4091

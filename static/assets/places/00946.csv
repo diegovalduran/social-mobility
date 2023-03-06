@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4751,Booth,AL,,city-us,0,32.500,-86.572,405
-4752,Booth,TX,,city-us,0,29.530,-95.650,2224
-4753,Booth,WV,,city-us,0,39.597,-80.015,319
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4751,Booth,AL,Autauga County,,city-us,0,32.500,-86.572,405
+4752,Booth,TX,Fort Bend County,,city-us,0,29.530,-95.650,2224
+4753,Booth,WV,Monongalia County,,city-us,0,39.597,-80.015,319

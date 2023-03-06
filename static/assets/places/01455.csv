@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7296,Catlettsburg,KY,,city-us,1737,38.405,-82.600,12232
-7297,Catlettsburg,TN,,city-us,0,35.904,-83.581,405
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7296,Catlettsburg,KY,Boyd County,,city-us,1737,38.405,-82.600,12232
+7297,Catlettsburg,TN,Sevier County,,city-us,0,35.904,-83.581,405

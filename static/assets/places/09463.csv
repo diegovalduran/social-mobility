@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47850,Wyeth,MO,,city-us,0,40.025,-94.802,443
-47851,Wyeth,OR,,city-us,0,45.691,-121.770,1090
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47850,Wyeth,MO,Andrew County,,city-us,0,40.025,-94.802,443
+47851,Wyeth,OR,Hood River County,,city-us,0,45.691,-121.770,1090

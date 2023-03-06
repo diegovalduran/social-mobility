@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46340,Westwood,MA,,city-us,16213,42.220,-71.217,10043
-46330,Westwood,NJ,,city-us,11203,40.991,-74.033,21432
-46338,Westwood,MI,,city-us,9621,42.303,-85.634,2374
-46331,Westwood,KY,,city-us,4662,38.483,-82.670,3739
-46333,Westwood,PA,,city-us,1807,39.972,-75.853,468
-46337,Westwood,KS,,city-us,1739,39.041,-94.617,6879
-46332,Westwood,PA,,city-us,1624,40.325,-78.955,526
-46339,Westwood,CA,,city-us,1393,40.306,-121.006,8723
-46336,Westwood,KY,,city-us,571,38.280,-85.583,1939
-46341,Westwood,MO,,city-us,314,38.644,-90.440,2936
-46335,Westwood,IA,,city-us,102,40.966,-91.624,2621
-46334,Westwood,IN,,city-us,0,39.919,-85.417,219
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46340,Westwood,MA,Norfolk County,,city-us,16213,42.220,-71.217,10043
+46330,Westwood,NJ,Bergen County,,city-us,11203,40.991,-74.033,21432
+46338,Westwood,MI,Kalamazoo County,,city-us,9621,42.303,-85.634,2374
+46331,Westwood,KY,Boyd County,,city-us,4662,38.483,-82.670,3739
+46333,Westwood,PA,Chester County,,city-us,1807,39.972,-75.853,468
+46337,Westwood,KS,Johnson County,,city-us,1739,39.041,-94.617,6879
+46332,Westwood,PA,Cambria County,,city-us,1624,40.325,-78.955,526
+46339,Westwood,CA,Lassen County,,city-us,1393,40.306,-121.006,8723
+46336,Westwood,KY,Jefferson County,,city-us,571,38.280,-85.583,1939
+46341,Westwood,MO,St. Louis County,,city-us,314,38.644,-90.440,2936
+46335,Westwood,IA,Henry County,,city-us,102,40.966,-91.624,2621
+46334,Westwood,IN,Henry County,,city-us,0,39.919,-85.417,219

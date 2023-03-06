@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34169,Pine Level,AL,,city-us,3955,32.584,-86.466,451
-34171,Pine Level,NC,,city-us,2139,35.513,-78.244,4812
-34172,Pine Level,AL,,city-us,1782,32.068,-86.060,820
-34173,Pine Level,FL,,city-us,227,30.889,-87.169,202
-34170,Pine Level,AL,,city-us,0,31.476,-86.186,161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34169,Pine Level,AL,Autauga County,,city-us,3955,32.584,-86.466,451
+34171,Pine Level,NC,Johnston County,,city-us,2139,35.513,-78.244,4812
+34172,Pine Level,AL,Montgomery County,,city-us,1782,32.068,-86.060,820
+34173,Pine Level,FL,Santa Rosa County,,city-us,227,30.889,-87.169,202
+34170,Pine Level,AL,Coffee County,,city-us,0,31.476,-86.186,161

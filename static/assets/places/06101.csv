@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31225,Nokomis,FL,,city-us,3481,27.119,-82.444,3149
-31222,Nokomis,IL,,city-us,2759,39.298,-89.315,684
-31224,Nokomis,WI,,city-us,1391,45.606,-89.732,2035
-31221,Nokomis,AL,,city-us,0,31.010,-87.565,466
-31223,Nokomis,VA,,city-us,0,37.944,-76.480,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31225,Nokomis,FL,Sarasota County,,city-us,3481,27.119,-82.444,3149
+31222,Nokomis,IL,Montgomery County,,city-us,2759,39.298,-89.315,684
+31224,Nokomis,WI,Oneida County,,city-us,1391,45.606,-89.732,2035
+31221,Nokomis,AL,Escambia County,,city-us,0,31.010,-87.565,466
+31223,Nokomis,VA,Northumberland County,,city-us,0,37.944,-76.480,97

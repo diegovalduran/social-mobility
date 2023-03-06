@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12981,Edgewood,MD,,city-us,25004,39.419,-76.294,4679
-12988,Edgewood,WA,,city-us,12665,47.250,-122.294,5288
-12984,Edgewood,KY,,city-us,8387,39.019,-84.582,3527
-12976,Edgewood,NM,,city-us,6154,35.131,-106.220,4951
-12975,Edgewood,OH,,city-us,4441,41.873,-80.773,2113
-12974,Edgewood,PA,,city-us,3093,40.432,-79.881,4327
-12987,Edgewood,FL,,city-us,2666,28.486,-81.372,2268
-12986,Edgewood,PA,,city-us,2237,40.788,-76.572,1948
-12985,Edgewood,IN,,city-us,2050,40.103,-85.734,3193
-12991,Edgewood,TX,,city-us,1592,32.698,-95.885,963
-12978,Edgewood,IA,,city-us,897,42.644,-91.402,3588
-12980,Edgewood,MI,,city-us,656,43.335,-84.425,2234
-12979,Edgewood,IL,,city-us,391,38.921,-88.661,2606
-12990,Edgewood,CA,,city-us,47,41.458,-122.432,4191
-12977,Edgewood,IL,,city-us,0,42.241,-88.921,139
-12982,Edgewood,MN,,city-us,0,45.536,-93.231,594
-12983,Edgewood,WV,,city-us,0,38.380,-81.644,90
-12989,Edgewood,MO,,city-us,0,39.272,-91.075,440
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12981,Edgewood,MD,Harford County,,city-us,25004,39.419,-76.294,4679
+12988,Edgewood,WA,Pierce County,,city-us,12665,47.250,-122.294,5288
+12984,Edgewood,KY,Kenton County,,city-us,8387,39.019,-84.582,3527
+12976,Edgewood,NM,Bernalillo County / Sandoval County / Santa Fe County,,city-us,6154,35.131,-106.220,4951
+12975,Edgewood,OH,Ashtabula County,,city-us,4441,41.873,-80.773,2113
+12974,Edgewood,PA,Allegheny County,,city-us,3093,40.432,-79.881,4327
+12987,Edgewood,FL,Orange County,,city-us,2666,28.486,-81.372,2268
+12986,Edgewood,PA,Northumberland County,,city-us,2237,40.788,-76.572,1948
+12985,Edgewood,IN,Madison County,,city-us,2050,40.103,-85.734,3193
+12991,Edgewood,TX,Van Zandt County,,city-us,1592,32.698,-95.885,963
+12978,Edgewood,IA,Clayton County / Delaware County,,city-us,897,42.644,-91.402,3588
+12980,Edgewood,MI,Gratiot County,,city-us,656,43.335,-84.425,2234
+12979,Edgewood,IL,Effingham County,,city-us,391,38.921,-88.661,2606
+12990,Edgewood,CA,Siskiyou County,,city-us,47,41.458,-122.432,4191
+12977,Edgewood,IL,Boone County,,city-us,0,42.241,-88.921,139
+12982,Edgewood,MN,Isanti County,,city-us,0,45.536,-93.231,594
+12983,Edgewood,WV,Kanawha County,,city-us,0,38.380,-81.644,90
+12989,Edgewood,MO,Pike County,,city-us,0,39.272,-91.075,440

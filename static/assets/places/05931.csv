@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30429,Nemo,SD,,city-us,546,44.194,-103.504,1653
-30428,Nemo,MO,,city-us,0,37.877,-93.262,244
-30430,Nemo,TX,,city-us,0,32.260,-97.652,1191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30429,Nemo,SD,Lawrence County,,city-us,546,44.194,-103.504,1653
+30428,Nemo,MO,Hickory County,,city-us,0,37.877,-93.262,244
+30430,Nemo,TX,Somervell County,,city-us,0,32.260,-97.652,1191

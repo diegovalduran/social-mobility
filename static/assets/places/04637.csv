@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23726,Lakeside Park,KY,,city-us,2820,39.036,-84.569,2607
-23727,Lakeside Park,IN,,city-us,0,41.252,-85.849,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23726,Lakeside Park,KY,Kenton County,,city-us,2820,39.036,-84.569,2607
+23727,Lakeside Park,IN,Kosciusko County,,city-us,0,41.252,-85.849,167

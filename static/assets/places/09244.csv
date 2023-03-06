@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46633,Whiteford,MI,,city-us,4601,41.772,-83.710,4930
-46632,Whiteford,MN,,city-us,40,48.396,-95.957,1655
-46631,Whiteford,MD,,city-us,0,39.709,-76.346,742
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46633,Whiteford,MI,Monroe County,,city-us,4601,41.772,-83.710,4930
+46632,Whiteford,MN,Marshall County,,city-us,40,48.396,-95.957,1655
+46631,Whiteford,MD,Harford County,,city-us,0,39.709,-76.346,742

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7292,Catharine,NY,,city-us,1634,42.338,-76.734,4372
-7289,Catharine,PA,,city-us,769,40.525,-78.206,3188
-7290,Catharine,KS,,city-us,110,38.927,-99.217,2945
-22544,Kathryn,ND,,city-us,64,46.678,-97.969,2816
-7291,Catharine,IL,,city-us,0,41.523,-88.719,753
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7292,Catharine,NY,Schuyler County,,city-us,1634,42.338,-76.734,4372
+7289,Catharine,PA,Blair County,,city-us,769,40.525,-78.206,3188
+7290,Catharine,KS,Ellis County,,city-us,110,38.927,-99.217,2945
+22544,Kathryn,ND,Barnes County,,city-us,64,46.678,-97.969,2816
+7291,Catharine,IL,LaSalle County,,city-us,0,41.523,-88.719,753

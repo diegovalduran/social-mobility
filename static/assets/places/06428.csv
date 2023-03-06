@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32758,Owasco,NY,,city-us,3533,42.894,-76.493,4221
-32757,Owasco,IN,,city-us,0,40.461,-86.628,284
-32759,Owasco,NE,,city-us,0,41.239,-103.575,231
-32760,Owasco,MO,,city-us,0,40.138,-92.978,504
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32758,Owasco,NY,Cayuga County,,city-us,3533,42.894,-76.493,4221
+32757,Owasco,IN,Carroll County,,city-us,0,40.461,-86.628,284
+32759,Owasco,NE,Kimball County,,city-us,0,41.239,-103.575,231
+32760,Owasco,MO,Sullivan County,,city-us,0,40.138,-92.978,504

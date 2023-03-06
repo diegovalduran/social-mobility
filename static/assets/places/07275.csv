@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36849,River Bend,NC,,city-us,2881,35.069,-77.147,2174
-36850,River Bend,MO,,city-us,5,39.179,-94.395,2603
-36851,River Bend,WV,,city-us,0,38.351,-81.848,320
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36849,River Bend,NC,Craven County,,city-us,2881,35.069,-77.147,2174
+36850,River Bend,MO,Jackson County,,city-us,5,39.179,-94.395,2603
+36851,River Bend,WV,Kanawha County,,city-us,0,38.351,-81.848,320

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41236,Stanleyville,NC,,city-us,0,36.202,-80.281,480
-41237,Stanleyville,OH,,city-us,0,39.472,-81.411,321
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41236,Stanleyville,NC,Forsyth County,,city-us,0,36.202,-80.281,480
+41237,Stanleyville,OH,Washington County,,city-us,0,39.472,-81.411,321

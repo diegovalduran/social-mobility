@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6796,Canoe,PA,,city-us,1425,40.865,-78.951,2209
-6794,Canoe,KY,,city-us,0,37.449,-83.449,275
-6795,Canoe,AL,,city-us,0,31.026,-87.412,1342
-6797,Canoe,IA,,city-us,0,43.351,-91.654,256
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6796,Canoe,PA,Indiana County,,city-us,1425,40.865,-78.951,2209
+6794,Canoe,KY,Breathitt County,,city-us,0,37.449,-83.449,275
+6795,Canoe,AL,Escambia County,,city-us,0,31.026,-87.412,1342
+6797,Canoe,IA,Winneshiek County,,city-us,0,43.351,-91.654,256

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31737,Oak Grove Heights,AR,,city-us,1137,36.121,-90.511,2029
-31738,Oak Grove Heights,MO,,city-us,0,37.174,-93.119,489
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31737,Oak Grove Heights,AR,Greene County,,city-us,1137,36.121,-90.511,2029
+31738,Oak Grove Heights,MO,Greene County,,city-us,0,37.174,-93.119,489

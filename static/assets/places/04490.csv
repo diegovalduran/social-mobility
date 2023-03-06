@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23113,Kirkpatrick,OR,,city-us,160,45.680,-118.650,1831
-23111,Kirkpatrick,OH,,city-us,0,40.689,-83.009,2075
-23112,Kirkpatrick,IN,,city-us,0,40.206,-86.819,316
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23113,Kirkpatrick,OR,Umatilla County,,city-us,160,45.680,-118.650,1831
+23111,Kirkpatrick,OH,Marion County,,city-us,0,40.689,-83.009,2075
+23112,Kirkpatrick,IN,Montgomery County,,city-us,0,40.206,-86.819,316

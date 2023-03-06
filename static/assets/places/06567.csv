@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33415,Peacock,MI,,city-us,444,44.022,-85.856,2399
-33416,Peacock,TX,,city-us,0,33.182,-100.399,825
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33415,Peacock,MI,Lake County,,city-us,444,44.022,-85.856,2399
+33416,Peacock,TX,Stonewall County,,city-us,0,33.182,-100.399,825

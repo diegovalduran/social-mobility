@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32414,Ordinary,KY,,city-us,0,38.155,-83.195,141
-32415,Ordinary,VA,,city-us,0,37.316,-76.513,367
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32414,Ordinary,KY,Elliott County,,city-us,0,38.155,-83.195,141
+32415,Ordinary,VA,Gloucester County,,city-us,0,37.316,-76.513,367

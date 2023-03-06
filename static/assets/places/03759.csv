@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19246,Hatch,NM,,city-us,1552,32.665,-107.153,4217
-19247,Hatch,UT,,city-us,136,37.650,-112.434,2563
-19245,Hatch,ID,,city-us,0,42.819,-111.852,434
-19248,Hatch,MO,,city-us,0,39.589,-91.618,274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19246,Hatch,NM,Do��a Ana County,,city-us,1552,32.665,-107.153,4217
+19247,Hatch,UT,Garfield County,,city-us,136,37.650,-112.434,2563
+19245,Hatch,ID,Caribou County,,city-us,0,42.819,-111.852,434
+19248,Hatch,MO,Ralls County,,city-us,0,39.589,-91.618,274

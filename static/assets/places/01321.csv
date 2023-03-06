@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6702,Campbellton,FL,,city-us,194,30.949,-85.402,3340
-6699,Campbellton,TX,,city-us,0,28.747,-98.302,2644
-6700,Campbellton,MO,,city-us,0,38.540,-91.161,576
-6701,Campbellton,GA,,city-us,0,33.650,-84.669,461
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6702,Campbellton,FL,Jackson County,,city-us,194,30.949,-85.402,3340
+6699,Campbellton,TX,Atascosa County,,city-us,0,28.747,-98.302,2644
+6700,Campbellton,MO,Franklin County,,city-us,0,38.540,-91.161,576
+6701,Campbellton,GA,Fulton County,,city-us,0,33.650,-84.669,461

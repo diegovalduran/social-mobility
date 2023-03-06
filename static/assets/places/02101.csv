@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10543,Croydon,PA,,city-us,9860,40.087,-74.903,4028
-10545,Croydon,NH,,city-us,823,43.444,-72.178,3932
-10544,Croydon,UT,,city-us,0,41.069,-111.514,853
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10543,Croydon,PA,Bucks County,,city-us,9860,40.087,-74.903,4028
+10545,Croydon,NH,Sullivan County,,city-us,823,43.444,-72.178,3932
+10544,Croydon,UT,Morgan County,,city-us,0,41.069,-111.514,853

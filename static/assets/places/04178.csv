@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21459,Interior,MI,,city-us,272,46.444,-89.052,2815
-21458,Interior,SD,,city-us,70,43.727,-101.984,4695
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21459,Interior,MI,Ontonagon County,,city-us,272,46.444,-89.052,2815
+21458,Interior,SD,Jackson County,,city-us,70,43.727,-101.984,4695

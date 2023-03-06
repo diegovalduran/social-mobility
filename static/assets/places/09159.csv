@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46147,West Windsor,NJ,,city-us,29447,40.290,-74.628,26926
-46148,West Windsor,VT,,city-us,1354,43.471,-72.503,2525
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46147,West Windsor,NJ,Mercer County,,city-us,29447,40.290,-74.628,26926
+46148,West Windsor,VT,Windsor County,,city-us,1354,43.471,-72.503,2525

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14965,Fisherville,WI,,city-us,81359,44.241,-87.680,5945
-14962,Fisherville,MI,,city-us,4772,43.609,-84.119,3053
-14963,Fisherville,PA,,city-us,27,40.473,-78.172,517
-14964,Fisherville,PA,,city-us,0,40.501,-76.884,300
-14966,Fisherville,TN,,city-us,0,35.159,-89.664,865
-14967,Fisherville,IN,,city-us,0,38.085,-87.441,164
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14965,Fisherville,WI,Manitowoc County,,city-us,81359,44.241,-87.680,5945
+14962,Fisherville,MI,Bay County,,city-us,4772,43.609,-84.119,3053
+14963,Fisherville,PA,Blair County,,city-us,27,40.473,-78.172,517
+14964,Fisherville,PA,Dauphin County,,city-us,0,40.501,-76.884,300
+14966,Fisherville,TN,Shelby County,,city-us,0,35.159,-89.664,865
+14967,Fisherville,IN,Warrick County,,city-us,0,38.085,-87.441,164

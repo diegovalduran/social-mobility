@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6347,Butternut,WI,,city-us,367,46.013,-90.490,3213
-6348,Butternut,MN,,city-us,0,44.138,-94.329,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6347,Butternut,WI,Ashland County,,city-us,367,46.013,-90.490,3213
+6348,Butternut,MN,Blue Earth County,,city-us,0,44.138,-94.329,117

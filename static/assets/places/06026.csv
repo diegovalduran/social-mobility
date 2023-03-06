@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30810,New Richmond,WI,,city-us,10350,45.123,-92.537,9142
-30807,New Richmond,MI,,city-us,3312,42.642,-86.075,3795
-30808,New Richmond,OH,,city-us,2748,38.949,-84.280,8410
-30811,New Richmond,WV,,city-us,339,37.570,-81.489,200
-30809,New Richmond,IN,,city-us,310,40.196,-86.979,4047
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30810,New Richmond,WI,St. Croix County,,city-us,10350,45.123,-92.537,9142
+30807,New Richmond,MI,Allegan County,,city-us,3312,42.642,-86.075,3795
+30808,New Richmond,OH,Clermont County,,city-us,2748,38.949,-84.280,8410
+30811,New Richmond,WV,Wyoming County,,city-us,339,37.570,-81.489,200
+30809,New Richmond,IN,Montgomery County,,city-us,310,40.196,-86.979,4047

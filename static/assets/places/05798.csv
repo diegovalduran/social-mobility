@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29832,Mount Olive,NJ,,city-us,28895,40.866,-74.742,15280
-29825,Mount Olive,AL,,city-us,4427,33.684,-86.875,3891
-29822,Mount Olive,NC,,city-us,4036,35.200,-78.066,5622
-29828,Mount Olive,IL,,city-us,3089,39.065,-89.753,617
-29821,Mount Olive,MS,,city-us,889,31.761,-89.655,3212
-29820,Mount Olive,AL,,city-us,214,33.070,-86.135,131
-29824,Mount Olive,AR,,city-us,17,36.001,-92.093,481
-29816,Mount Olive,AR,,city-us,0,33.372,-91.682,136
-29817,Mount Olive,AR,,city-us,0,33.429,-92.059,576
-29818,Mount Olive,OH,,city-us,0,38.887,-84.092,246
-29819,Mount Olive,AR,,city-us,0,35.197,-92.555,161
-29823,Mount Olive,WV,,city-us,0,38.238,-81.233,340
-29826,Mount Olive,MO,,city-us,0,38.901,-93.695,269
-29827,Mount Olive,KY,,city-us,0,37.615,-83.730,84
-29829,Mount Olive,IN,,city-us,0,38.799,-86.694,365
-29830,Mount Olive,WV,,city-us,0,38.524,-82.069,131
-29831,Mount Olive,WV,,city-us,0,37.412,-81.194,131
-29833,Mount Olive,AR,,city-us,0,35.483,-90.413,207
-29834,Mount Olive,WV,,city-us,0,38.822,-81.427,140
-29835,Mount Olive,NC,,city-us,0,36.328,-80.336,240
-29836,Mount Olive,AR,,city-us,0,36.002,-93.951,269
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29832,Mount Olive,NJ,Morris County,,city-us,28895,40.866,-74.742,15280
+29825,Mount Olive,AL,Jefferson County,,city-us,4427,33.684,-86.875,3891
+29822,Mount Olive,NC,Duplin County / Wayne County,,city-us,4036,35.200,-78.066,5622
+29828,Mount Olive,IL,Macoupin County,,city-us,3089,39.065,-89.753,617
+29821,Mount Olive,MS,Covington County,,city-us,889,31.761,-89.655,3212
+29820,Mount Olive,AL,Coosa County,,city-us,214,33.070,-86.135,131
+29824,Mount Olive,AR,Izard County,,city-us,17,36.001,-92.093,481
+29816,Mount Olive,AR,Ashley County,,city-us,0,33.372,-91.682,136
+29817,Mount Olive,AR,Bradley County,,city-us,0,33.429,-92.059,576
+29818,Mount Olive,OH,Clermont County,,city-us,0,38.887,-84.092,246
+29819,Mount Olive,AR,Conway County,,city-us,0,35.197,-92.555,161
+29823,Mount Olive,WV,Fayette County,,city-us,0,38.238,-81.233,340
+29826,Mount Olive,MO,Johnson County,,city-us,0,38.901,-93.695,269
+29827,Mount Olive,KY,Lee County,,city-us,0,37.615,-83.730,84
+29829,Mount Olive,IN,Martin County,,city-us,0,38.799,-86.694,365
+29830,Mount Olive,WV,Mason County,,city-us,0,38.524,-82.069,131
+29831,Mount Olive,WV,Mercer County,,city-us,0,37.412,-81.194,131
+29833,Mount Olive,AR,Poinsett County,,city-us,0,35.483,-90.413,207
+29834,Mount Olive,WV,Roane County,,city-us,0,38.822,-81.427,140
+29835,Mount Olive,NC,Stokes County,,city-us,0,36.328,-80.336,240
+29836,Mount Olive,AR,Washington County,,city-us,0,36.002,-93.951,269

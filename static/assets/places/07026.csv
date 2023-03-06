@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35706,Raber,MI,,city-us,647,46.065,-84.155,4282
-35707,Raber,SD,,city-us,30,44.301,-99.834,128
-35708,Raber,IN,,city-us,0,41.086,-85.433,286
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35706,Raber,MI,Chippewa County,,city-us,647,46.065,-84.155,4282
+35707,Raber,SD,Hughes County,,city-us,30,44.301,-99.834,128
+35708,Raber,IN,Whitley County,,city-us,0,41.086,-85.433,286

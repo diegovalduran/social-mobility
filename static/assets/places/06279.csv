@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32108,Oklahoma,,United States,state,4019800,35.310,-98.717,71099
-32106,Oklahoma,PA,,city-us,1125,41.114,-78.733,218
-32107,Oklahoma,PA,,city-us,779,40.581,-79.574,2123
-32105,Oklahoma,MS,,city-us,0,33.334,-90.168,249
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32108,Oklahoma,,,United States,state,4019800,35.310,-98.717,71099
+32106,Oklahoma,PA,Clearfield County,,city-us,1125,41.114,-78.733,218
+32107,Oklahoma,PA,Westmoreland County,,city-us,779,40.581,-79.574,2123
+32105,Oklahoma,MS,Carroll County,,city-us,0,33.334,-90.168,249

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6881,Carbon,PA,,city-us,317,40.222,-78.170,1918
-6880,Carbon,TX,,city-us,286,32.271,-98.829,2222
-6879,Carbon,IN,,city-us,259,39.598,-87.119,3107
-6877,Carbon,IA,,city-us,32,41.050,-94.823,6203
-6878,Carbon,WY,,city-us,0,41.849,-106.377,215
-6882,Carbon,WV,,city-us,0,38.019,-81.406,209
-6883,Carbon,PA,,city-us,0,40.290,-79.560,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6881,Carbon,PA,Huntingdon County,,city-us,317,40.222,-78.170,1918
+6880,Carbon,TX,Eastland County,,city-us,286,32.271,-98.829,2222
+6879,Carbon,IN,Clay County,,city-us,259,39.598,-87.119,3107
+6877,Carbon,IA,Adams County,,city-us,32,41.050,-94.823,6203
+6878,Carbon,WY,Carbon County,,city-us,0,41.849,-106.377,215
+6882,Carbon,WV,Kanawha County,,city-us,0,38.019,-81.406,209
+6883,Carbon,PA,Westmoreland County,,city-us,0,40.290,-79.560,106

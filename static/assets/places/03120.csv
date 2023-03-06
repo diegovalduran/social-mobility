@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15594,Fox,PA,,city-us,3569,41.318,-78.618,166
-15592,Fox,OH,,city-us,966,40.598,-80.910,1838
-15600,Fox,IL,,city-us,443,38.900,-88.106,156
-15605,Fox,PA,,city-us,310,41.535,-76.752,166
-15604,Fox,AR,,city-us,237,35.791,-92.298,5963
-15596,Fox,AK,,city-us,169,64.958,-147.618,2682
-15591,Fox,MT,,city-us,100,45.277,-109.217,654
-15593,Fox,OK,,city-us,92,34.364,-97.492,469
-15595,Fox,KY,,city-us,0,37.759,-84.067,114
-15597,Fox,IN,,city-us,0,40.640,-85.695,278
-15598,Fox,OR,,city-us,0,44.649,-119.144,784
-15599,Fox,VA,,city-us,0,36.609,-81.293,446
-15601,Fox,IL,,city-us,0,41.623,-88.500,393
-15602,Fox,OH,,city-us,0,39.643,-83.013,242
-15603,Fox,MN,,city-us,0,48.839,-95.899,426
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15594,Fox,PA,Elk County,,city-us,3569,41.318,-78.618,166
+15592,Fox,OH,Carroll County,,city-us,966,40.598,-80.910,1838
+15600,Fox,IL,Jasper County,,city-us,443,38.900,-88.106,156
+15605,Fox,PA,Sullivan County,,city-us,310,41.535,-76.752,166
+15604,Fox,AR,Stone County,,city-us,237,35.791,-92.298,5963
+15596,Fox,AK,Fairbanks North Star Borough,,city-us,169,64.958,-147.618,2682
+15591,Fox,MT,Carbon County,,city-us,100,45.277,-109.217,654
+15593,Fox,OK,Carter County,,city-us,92,34.364,-97.492,469
+15595,Fox,KY,Estill County,,city-us,0,37.759,-84.067,114
+15597,Fox,IN,Grant County,,city-us,0,40.640,-85.695,278
+15598,Fox,OR,Grant County,,city-us,0,44.649,-119.144,784
+15599,Fox,VA,Grayson County,,city-us,0,36.609,-81.293,446
+15601,Fox,IL,Kendall County,,city-us,0,41.623,-88.500,393
+15602,Fox,OH,Pickaway County,,city-us,0,39.643,-83.013,242
+15603,Fox,MN,Roseau County,,city-us,0,48.839,-95.899,426

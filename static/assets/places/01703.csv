@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8602,Claxton,GA,,city-us,2580,32.162,-81.904,6498
-8600,Claxton,TN,,city-us,0,36.042,-84.110,1028
-8601,Claxton,KY,,city-us,0,37.104,-87.766,93
-8603,Claxton,TN,,city-us,0,35.304,-84.644,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8602,Claxton,GA,Evans County,,city-us,2580,32.162,-81.904,6498
+8600,Claxton,TN,Anderson County,,city-us,0,36.042,-84.110,1028
+8601,Claxton,KY,Caldwell County,,city-us,0,37.104,-87.766,93
+8603,Claxton,TN,McMinn County,,city-us,0,35.304,-84.644,267

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32514,Orton,MN,,city-us,201,46.681,-94.840,2111
-32513,Orton,WV,,city-us,0,38.835,-80.928,247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32514,Orton,MN,Wadena County,,city-us,201,46.681,-94.840,2111
+32513,Orton,WV,Gilmer County,,city-us,0,38.835,-80.928,247

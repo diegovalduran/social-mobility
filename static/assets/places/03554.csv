@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18142,Gregg,PA,,city-us,4335,41.114,-76.935,215
-18139,Gregg,PA,,city-us,2267,40.865,-77.569,215
-18140,Gregg,CA,,city-us,0,36.882,-119.937,423
-18141,Gregg,MO,,city-us,0,37.052,-94.564,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18142,Gregg,PA,Union County,,city-us,4335,41.114,-76.935,215
+18139,Gregg,PA,Centre County,,city-us,2267,40.865,-77.569,215
+18140,Gregg,CA,Madera County,,city-us,0,36.882,-119.937,423
+18141,Gregg,MO,Newton County,,city-us,0,37.052,-94.564,243

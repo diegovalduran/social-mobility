@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44455,Vesper,WI,,city-us,517,44.482,-89.964,4267
-44453,Vesper,OR,,city-us,0,45.980,-123.368,2527
-44454,Vesper,KS,,city-us,0,39.032,-98.280,726
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44455,Vesper,WI,Wood County,,city-us,517,44.482,-89.964,4267
+44453,Vesper,OR,Clatsop County,,city-us,0,45.980,-123.368,2527
+44454,Vesper,KS,Lincoln County,,city-us,0,39.032,-98.280,726

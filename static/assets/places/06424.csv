@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32742,Overton,TX,,city-us,2274,32.276,-94.973,7957
-32741,Overton,NE,,city-us,595,40.739,-99.538,3928
-32739,Overton,PA,,city-us,239,41.619,-76.582,2209
-32738,Overton,VA,,city-us,0,37.957,-78.468,96
-32740,Overton,MO,,city-us,0,38.948,-92.576,608
-32743,Overton,OH,,city-us,0,40.865,-82.010,313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32742,Overton,TX,Rusk County / Smith County,,city-us,2274,32.276,-94.973,7957
+32741,Overton,NE,Dawson County,,city-us,595,40.739,-99.538,3928
+32739,Overton,PA,Bradford County,,city-us,239,41.619,-76.582,2209
+32738,Overton,VA,Albemarle County,,city-us,0,37.957,-78.468,96
+32740,Overton,MO,Cooper County,,city-us,0,38.948,-92.576,608
+32743,Overton,OH,Wayne County,,city-us,0,40.865,-82.010,313

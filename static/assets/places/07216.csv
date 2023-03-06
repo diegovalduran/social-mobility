@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36463,Richardsville,VA,,city-us,0,38.400,-77.729,335
-36464,Richardsville,PA,,city-us,0,41.240,-79.012,266
-36465,Richardsville,KY,,city-us,0,37.105,-86.471,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36463,Richardsville,VA,Culpeper County,,city-us,0,38.400,-77.729,335
+36464,Richardsville,PA,Jefferson County,,city-us,0,41.240,-79.012,266
+36465,Richardsville,KY,Warren County,,city-us,0,37.105,-86.471,208

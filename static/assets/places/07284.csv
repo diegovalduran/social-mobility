@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36877,Riverdale,GA,,city-us,14912,33.573,-84.413,6508
-36878,Riverdale,IL,,city-us,10397,41.643,-87.636,3768
-36890,Riverdale,UT,,city-us,9409,41.177,-112.004,3069
-36886,Riverdale,NJ,,city-us,4103,40.994,-74.303,9746
-36880,Riverdale,CA,,city-us,2513,36.431,-119.860,4384
-36883,Riverdale,VA,,city-us,951,36.687,-78.900,1078
-36887,Riverdale,IA,,city-us,378,41.544,-90.458,6478
-36889,Riverdale,MN,,city-us,286,44.064,-94.558,1939
-36881,Riverdale,MI,,city-us,281,43.386,-84.836,3508
-36875,Riverdale,NE,,city-us,251,40.784,-99.162,3184
-36884,Riverdale,ND,,city-us,222,47.498,-101.371,3960
-36879,Riverdale,ND,,city-us,100,46.059,-98.081,3960
-36876,Riverdale,MO,,city-us,0,36.995,-93.290,844
-36882,Riverdale,MS,,city-us,0,33.843,-89.825,230
-36885,Riverdale,CA,,city-us,0,39.888,-123.748,211
-36888,Riverdale,KS,,city-us,0,37.372,-97.390,648
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36877,Riverdale,GA,Clayton County,,city-us,14912,33.573,-84.413,6508
+36878,Riverdale,IL,Cook County,,city-us,10397,41.643,-87.636,3768
+36890,Riverdale,UT,Weber County,,city-us,9409,41.177,-112.004,3069
+36886,Riverdale,NJ,Morris County,,city-us,4103,40.994,-74.303,9746
+36880,Riverdale,CA,Fresno County,,city-us,2513,36.431,-119.860,4384
+36883,Riverdale,VA,Halifax County,,city-us,951,36.687,-78.900,1078
+36887,Riverdale,IA,Scott County,,city-us,378,41.544,-90.458,6478
+36889,Riverdale,MN,Watonwan County,,city-us,286,44.064,-94.558,1939
+36881,Riverdale,MI,Gratiot County,,city-us,281,43.386,-84.836,3508
+36875,Riverdale,NE,Buffalo County,,city-us,251,40.784,-99.162,3184
+36884,Riverdale,ND,McLean County,,city-us,222,47.498,-101.371,3960
+36879,Riverdale,ND,Dickey County,,city-us,100,46.059,-98.081,3960
+36876,Riverdale,MO,Christian County,,city-us,0,36.995,-93.290,844
+36882,Riverdale,MS,Grenada County,,city-us,0,33.843,-89.825,230
+36885,Riverdale,CA,Mendocino County,,city-us,0,39.888,-123.748,211
+36888,Riverdale,KS,Sumner County,,city-us,0,37.372,-97.390,648

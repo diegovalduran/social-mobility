@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10380,Crider,KY,,city-us,0,37.157,-87.974,197
-10381,Crider,MO,,city-us,0,36.718,-92.078,316
-23300,Krider,NE,,city-us,0,40.071,-96.746,150
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10380,Crider,KY,Caldwell County,,city-us,0,37.157,-87.974,197
+10381,Crider,MO,Howell County,,city-us,0,36.718,-92.078,316
+23300,Krider,NE,Gage County,,city-us,0,40.071,-96.746,150

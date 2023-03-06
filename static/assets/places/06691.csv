@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34016,Pike,OH,,city-us,6642,39.683,-82.200,373
-34005,Pike,OH,,city-us,4107,39.003,-83.950,373
-34022,Pike,OH,,city-us,3805,40.687,-81.374,373
-34006,Pike,OH,,city-us,3716,40.000,-83.980,373
-34023,Pike,MO,,city-us,3616,37.031,-89.846,151
-34007,Pike,PA,,city-us,2295,40.996,-78.535,266
-34010,Pike,OH,,city-us,1734,41.623,-84.056,373
-34012,Pike,OH,,city-us,1698,40.499,-82.410,373
-34002,Pike,PA,,city-us,1594,40.403,-75.684,266
-34024,Pike,NY,,city-us,987,42.567,-78.136,3059
-34014,Pike,KS,,city-us,806,38.392,-96.279,209
-34009,Pike,OH,,city-us,684,40.200,-82.138,373
-34004,Pike,PA,,city-us,631,41.849,-76.176,266
-34015,Pike,OH,,city-us,545,40.081,-83.443,373
-34021,Pike,MN,,city-us,384,47.685,-92.364,2488
-34018,Pike,PA,,city-us,327,41.773,-77.665,266
-34013,Pike,IL,,city-us,215,40.792,-88.767,350
-34020,Pike,CA,,city-us,154,39.439,-120.998,2514
-34003,Pike,IN,,city-us,0,40.124,-86.482,352
-34008,Pike,TX,,city-us,0,33.322,-96.303,135
-34011,Pike,NH,,city-us,0,44.031,-72.008,803
-34017,Pike,IL,,city-us,0,39.460,-91.035,198
-34019,Pike,WV,,city-us,0,39.283,-81.081,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34016,Pike,OH,Perry County,,city-us,6642,39.683,-82.200,373
+34005,Pike,OH,Brown County,,city-us,4107,39.003,-83.950,373
+34022,Pike,OH,Stark County,,city-us,3805,40.687,-81.374,373
+34006,Pike,OH,Clark County,,city-us,3716,40.000,-83.980,373
+34023,Pike,MO,Stoddard County,,city-us,3616,37.031,-89.846,151
+34007,Pike,PA,Clearfield County,,city-us,2295,40.996,-78.535,266
+34010,Pike,OH,Fulton County,,city-us,1734,41.623,-84.056,373
+34012,Pike,OH,Knox County,,city-us,1698,40.499,-82.410,373
+34002,Pike,PA,Berks County,,city-us,1594,40.403,-75.684,266
+34024,Pike,NY,Wyoming County,,city-us,987,42.567,-78.136,3059
+34014,Pike,KS,Lyon County,,city-us,806,38.392,-96.279,209
+34009,Pike,OH,Coshocton County,,city-us,684,40.200,-82.138,373
+34004,Pike,PA,Bradford County,,city-us,631,41.849,-76.176,266
+34015,Pike,OH,Madison County,,city-us,545,40.081,-83.443,373
+34021,Pike,MN,St. Louis County,,city-us,384,47.685,-92.364,2488
+34018,Pike,PA,Potter County,,city-us,327,41.773,-77.665,266
+34013,Pike,IL,Livingston County,,city-us,215,40.792,-88.767,350
+34020,Pike,CA,Sierra County,,city-us,154,39.439,-120.998,2514
+34003,Pike,IN,Boone County,,city-us,0,40.124,-86.482,352
+34008,Pike,TX,Collin County,,city-us,0,33.322,-96.303,135
+34011,Pike,NH,Grafton County,,city-us,0,44.031,-72.008,803
+34017,Pike,IL,Pike County,,city-us,0,39.460,-91.035,198
+34019,Pike,WV,Ritchie County,,city-us,0,39.283,-81.081,168

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45100,Wann,NE,,city-us,102,41.147,-96.356,221
-45099,Wann,OK,,city-us,96,36.915,-95.804,2849
-45091,Wan,VA,,city-us,0,37.425,-76.506,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45100,Wann,NE,Saunders County,,city-us,102,41.147,-96.356,221
+45099,Wann,OK,Nowata County,,city-us,96,36.915,-95.804,2849
+45091,Wan,VA,Gloucester County,,city-us,0,37.425,-76.506,90

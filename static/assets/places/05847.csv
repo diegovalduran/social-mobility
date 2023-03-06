@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30078,Munday,TX,,city-us,1240,33.449,-99.623,5482
-30079,Munday,WV,,city-us,0,39.005,-81.206,338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30078,Munday,TX,Knox County,,city-us,1240,33.449,-99.623,5482
+30079,Munday,WV,Wirt County,,city-us,0,39.005,-81.206,338

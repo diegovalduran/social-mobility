@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29415,Moorland,MI,,city-us,1664,43.247,-85.965,1817
-29414,Moorland,KY,,city-us,431,38.272,-85.584,1868
-29416,Moorland,IA,,city-us,176,42.442,-94.295,3210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29415,Moorland,MI,Muskegon County,,city-us,1664,43.247,-85.965,1817
+29414,Moorland,KY,Jefferson County,,city-us,431,38.272,-85.584,1868
+29416,Moorland,IA,Webster County,,city-us,176,42.442,-94.295,3210

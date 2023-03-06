@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7274,Catalpa,NE,,city-us,0,42.776,-98.869,200
-7275,Catalpa,MO,,city-us,0,36.883,-89.294,185
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7274,Catalpa,NE,Holt County,,city-us,0,42.776,-98.869,200
+7275,Catalpa,MO,Mississippi County,,city-us,0,36.883,-89.294,185

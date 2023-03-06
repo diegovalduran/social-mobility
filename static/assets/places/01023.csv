@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5112,Brazil,,,country,218689757,-14.235,-51.925,89709
-5108,Brazil,IN,,city-us,8154,39.524,-87.125,8266
-5107,Brazil,IA,,city-us,0,40.758,-92.954,179
-5109,Brazil,TN,,city-us,0,35.917,-89.063,184
-5110,Brazil,KY,,city-us,0,37.525,-84.042,154
-5111,Brazil,MS,,city-us,0,34.026,-90.281,842
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5112,Brazil,,,,country,218689757,-14.235,-51.925,89709
+5108,Brazil,IN,Clay County,,city-us,8154,39.524,-87.125,8266
+5107,Brazil,IA,Appanoose County,,city-us,0,40.758,-92.954,179
+5109,Brazil,TN,Gibson County,,city-us,0,35.917,-89.063,184
+5110,Brazil,KY,Jackson County,,city-us,0,37.525,-84.042,154
+5111,Brazil,MS,Tallahatchie County,,city-us,0,34.026,-90.281,842

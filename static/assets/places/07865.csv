@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39872,Silver Lake,NC,,city-us,5690,34.149,-77.914,2084
-39864,Silver Lake,NJ,,city-us,4159,40.780,-74.183,439
-39867,Silver Lake,FL,,city-us,2552,28.842,-81.798,2314
-39876,Silver Lake,OH,,city-us,2498,41.159,-81.454,4039
-39875,Silver Lake,KS,,city-us,1910,39.102,-95.859,4724
-39877,Silver Lake,PA,,city-us,1521,41.952,-75.938,2146
-39863,Silver Lake,NJ,,city-us,1299,39.468,-75.240,474
-39866,Silver Lake,IN,,city-us,871,41.072,-85.892,3461
-39871,Silver Lake,MN,,city-us,856,44.903,-94.196,3148
-39869,Silver Lake,MN,,city-us,454,43.544,-94.433,1876
-39879,Silver Lake,NJ,,city-us,358,40.932,-74.950,477
-39868,Silver Lake,OR,,city-us,159,43.128,-121.047,2230
-39865,Silver Lake,SD,,city-us,102,43.466,-97.451,0
-39881,Silver Lake,ND,,city-us,13,47.401,-99.836,0
-39861,Silver Lake,NH,,city-us,0,43.888,-71.175,444
-39862,Silver Lake,WA,,city-us,0,46.297,-122.811,3494
-39870,Silver Lake,IL,,city-us,0,42.235,-88.245,185
-39873,Silver Lake,MO,,city-us,0,37.684,-89.990,1839
-39874,Silver Lake,WV,,city-us,0,39.254,-79.498,2488
-39878,Silver Lake,TX,,city-us,0,32.670,-95.596,1866
-39880,Silver Lake,WI,,city-us,0,44.055,-89.226,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39872,Silver Lake,NC,New Hanover County,,city-us,5690,34.149,-77.914,2084
+39864,Silver Lake,NJ,Essex County,,city-us,4159,40.780,-74.183,439
+39867,Silver Lake,FL,Lake County,,city-us,2552,28.842,-81.798,2314
+39876,Silver Lake,OH,Summit County,,city-us,2498,41.159,-81.454,4039
+39875,Silver Lake,KS,Shawnee County,,city-us,1910,39.102,-95.859,4724
+39877,Silver Lake,PA,Susquehanna County,,city-us,1521,41.952,-75.938,2146
+39863,Silver Lake,NJ,Cumberland County,,city-us,1299,39.468,-75.240,474
+39866,Silver Lake,IN,Kosciusko County,,city-us,871,41.072,-85.892,3461
+39871,Silver Lake,MN,McLeod County,,city-us,856,44.903,-94.196,3148
+39869,Silver Lake,MN,Martin County,,city-us,454,43.544,-94.433,1876
+39879,Silver Lake,NJ,Warren County,,city-us,358,40.932,-74.950,477
+39868,Silver Lake,OR,Lake County,,city-us,159,43.128,-121.047,2230
+39865,Silver Lake,SD,Hutchinson County,,city-us,102,43.466,-97.451,0
+39881,Silver Lake,ND,Wells County,,city-us,13,47.401,-99.836,0
+39861,Silver Lake,NH,Carroll County,,city-us,0,43.888,-71.175,444
+39862,Silver Lake,WA,Cowlitz County,,city-us,0,46.297,-122.811,3494
+39870,Silver Lake,IL,McHenry County,,city-us,0,42.235,-88.245,185
+39873,Silver Lake,MO,Perry County,,city-us,0,37.684,-89.990,1839
+39874,Silver Lake,WV,Preston County,,city-us,0,39.254,-79.498,2488
+39878,Silver Lake,TX,Van Zandt County,,city-us,0,32.670,-95.596,1866
+39880,Silver Lake,WI,Waushara County,,city-us,0,44.055,-89.226,110

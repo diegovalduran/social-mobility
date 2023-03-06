@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34711,Pleasanton,CA,,city-us,78252,37.662,-121.875,16382
-34712,Pleasanton,TX,,city-us,10780,28.967,-98.479,5920
-34716,Pleasanton,KS,,city-us,1238,38.178,-94.711,5061
-34717,Pleasanton,MI,,city-us,817,44.467,-86.131,1860
-34713,Pleasanton,NE,,city-us,367,40.968,-99.086,6202
-34714,Pleasanton,NM,,city-us,348,33.272,-108.873,734
-34715,Pleasanton,IA,,city-us,32,40.581,-93.744,2829
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34711,Pleasanton,CA,Alameda County,,city-us,78252,37.662,-121.875,16382
+34712,Pleasanton,TX,Atascosa County,,city-us,10780,28.967,-98.479,5920
+34716,Pleasanton,KS,Linn County,,city-us,1238,38.178,-94.711,5061
+34717,Pleasanton,MI,Manistee County,,city-us,817,44.467,-86.131,1860
+34713,Pleasanton,NE,Buffalo County,,city-us,367,40.968,-99.086,6202
+34714,Pleasanton,NM,Catron County,,city-us,348,33.272,-108.873,734
+34715,Pleasanton,IA,Decatur County,,city-us,32,40.581,-93.744,2829

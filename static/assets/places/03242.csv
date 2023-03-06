@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16387,Garland,TX,,city-us,242035,32.910,-96.630,23649
-16384,Garland,UT,,city-us,2615,41.741,-112.162,2801
-16393,Garland,ME,,city-us,1015,45.077,-69.159,3895
-16394,Garland,NC,,city-us,595,34.786,-78.394,3589
-16396,Garland,TN,,city-us,284,35.588,-89.753,1847
-16392,Garland,WY,,city-us,234,44.780,-108.660,1772
-16395,Garland,NE,,city-us,208,40.945,-96.986,5083
-16391,Garland,AR,,city-us,196,33.363,-93.710,2764
-16385,Garland,SD,,city-us,72,45.643,-98.394,0
-16383,Garland,KS,,city-us,31,37.732,-94.623,702
-16386,Garland,AL,,city-us,0,31.557,-86.823,642
-16388,Garland,MO,,city-us,0,38.443,-93.854,528
-16389,Garland,WV,,city-us,0,37.401,-81.784,298
-16390,Garland,OH,,city-us,0,39.935,-84.369,220
-16397,Garland,PA,,city-us,0,41.816,-79.444,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16387,Garland,TX,Collin County / Dallas County / Rockwall County,,city-us,242035,32.910,-96.630,23649
+16384,Garland,UT,Box Elder County,,city-us,2615,41.741,-112.162,2801
+16393,Garland,ME,Penobscot County,,city-us,1015,45.077,-69.159,3895
+16394,Garland,NC,Sampson County,,city-us,595,34.786,-78.394,3589
+16396,Garland,TN,Tipton County,,city-us,284,35.588,-89.753,1847
+16392,Garland,WY,Park County,,city-us,234,44.780,-108.660,1772
+16395,Garland,NE,Seward County,,city-us,208,40.945,-96.986,5083
+16391,Garland,AR,Miller County,,city-us,196,33.363,-93.710,2764
+16385,Garland,SD,Brown County,,city-us,72,45.643,-98.394,0
+16383,Garland,KS,Bourbon County,,city-us,31,37.732,-94.623,702
+16386,Garland,AL,Butler County,,city-us,0,31.557,-86.823,642
+16388,Garland,MO,Henry County,,city-us,0,38.443,-93.854,528
+16389,Garland,WV,McDowell County,,city-us,0,37.401,-81.784,298
+16390,Garland,OH,Miami County,,city-us,0,39.935,-84.369,220
+16397,Garland,PA,Warren County,,city-us,0,41.816,-79.444,215

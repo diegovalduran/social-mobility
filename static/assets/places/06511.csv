@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33194,Parksville,SC,,city-us,125,33.786,-82.220,1911
-33193,Parksville,KY,,city-us,0,37.598,-84.891,3578
-33195,Parksville,TN,,city-us,0,35.099,-84.651,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33194,Parksville,SC,McCormick County,,city-us,125,33.786,-82.220,1911
+33193,Parksville,KY,Boyle County,,city-us,0,37.598,-84.891,3578
+33195,Parksville,TN,Polk County,,city-us,0,35.099,-84.651,171

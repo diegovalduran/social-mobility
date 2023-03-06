@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23343,La Gloria,TX,,city-us,0,27.281,-98.133,1095
-23344,La Gloria,TX,,city-us,0,26.720,-98.521,607
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23343,La Gloria,TX,Jim Wells County,,city-us,0,27.281,-98.133,1095
+23344,La Gloria,TX,Starr County,,city-us,0,26.720,-98.521,607

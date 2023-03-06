@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23953,Lansford,PA,,city-us,4181,40.832,-75.882,5707
-23952,Lansford,ND,,city-us,68,48.582,-101.375,140
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23953,Lansford,PA,Carbon County,,city-us,4181,40.832,-75.882,5707
+23952,Lansford,ND,Bottineau County,,city-us,68,48.582,-101.375,140

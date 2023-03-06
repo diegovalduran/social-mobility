@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17274,Gordonville,TX,,city-us,1714,33.796,-96.853,285
-17273,Gordonville,MO,,city-us,625,37.311,-89.679,4132
-17275,Gordonville,PA,,city-us,559,40.020,-76.134,7151
-17276,Gordonville,AL,,city-us,239,32.152,-86.715,1981
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17274,Gordonville,TX,Grayson County,,city-us,1714,33.796,-96.853,285
+17273,Gordonville,MO,Cape Girardeau County,,city-us,625,37.311,-89.679,4132
+17275,Gordonville,PA,Lancaster County,,city-us,559,40.020,-76.134,7151
+17276,Gordonville,AL,Lowndes County,,city-us,239,32.152,-86.715,1981

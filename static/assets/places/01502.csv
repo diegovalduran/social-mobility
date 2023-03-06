@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38305,Salina,KS,,city-us,46481,38.840,-97.611,28923
-38304,Salina,NY,,city-us,33101,43.105,-76.171,5478
-7519,Celina,TX,,city-us,23811,33.319,-96.796,10723
-7520,Celina,OH,,city-us,10898,40.549,-84.570,7428
-38306,Salina,UT,,city-us,2514,38.958,-111.860,7148
-7518,Celina,TN,,city-us,1393,36.550,-85.505,3727
-38302,Salina,IL,,city-us,1205,41.161,-88.069,1387
-38303,Salina,OK,,city-us,1078,36.293,-95.153,7132
-7522,Celina,MN,,city-us,10,47.866,-93.062,433
-7521,Celina,IN,,city-us,0,38.188,-86.613,397
-38301,Salina,CO,,city-us,0,40.051,-105.373,825
-38307,Salina,PA,,city-us,0,40.522,-79.498,1622
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38305,Salina,KS,Saline County,,city-us,46481,38.840,-97.611,28923
+38304,Salina,NY,Onondaga County,,city-us,33101,43.105,-76.171,5478
+7519,Celina,TX,Collin County / Denton County,,city-us,23811,33.319,-96.796,10723
+7520,Celina,OH,Mercer County,,city-us,10898,40.549,-84.570,7428
+38306,Salina,UT,Sevier County,,city-us,2514,38.958,-111.860,7148
+7518,Celina,TN,Clay County,,city-us,1393,36.550,-85.505,3727
+38302,Salina,IL,Kankakee County,,city-us,1205,41.161,-88.069,1387
+38303,Salina,OK,Mayes County,,city-us,1078,36.293,-95.153,7132
+7522,Celina,MN,St. Louis County,,city-us,10,47.866,-93.062,433
+7521,Celina,IN,Perry County,,city-us,0,38.188,-86.613,397
+38301,Salina,CO,Boulder County,,city-us,0,40.051,-105.373,825
+38307,Salina,PA,Westmoreland County,,city-us,0,40.522,-79.498,1622

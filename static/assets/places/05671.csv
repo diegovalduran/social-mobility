@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29184,Monte Vista,CO,,city-us,4194,37.579,-106.148,2648
-29183,Monte Vista,CA,,city-us,0,39.187,-120.833,213
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29184,Monte Vista,CO,Rio Grande County,,city-us,4194,37.579,-106.148,2648
+29183,Monte Vista,CA,Placer County,,city-us,0,39.187,-120.833,213

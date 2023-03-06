@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35628,Quarry,IL,,city-us,1092,38.989,-90.475,1134
-35629,Quarry,IA,,city-us,0,42.018,-92.806,618
-35630,Quarry,TX,,city-us,0,30.308,-96.511,687
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35628,Quarry,IL,Jersey County,,city-us,1092,38.989,-90.475,1134
+35629,Quarry,IA,Marshall County,,city-us,0,42.018,-92.806,618
+35630,Quarry,TX,Washington County,,city-us,0,30.308,-96.511,687

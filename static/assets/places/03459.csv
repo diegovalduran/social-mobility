@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17495,Grand View,MI,,city-us,4894,41.844,-83.459,4568
-17496,Grand View,ID,,city-us,458,42.990,-116.093,3488
-17494,Grand View,WI,,city-us,86,46.367,-91.108,658
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17495,Grand View,MI,Monroe County,,city-us,4894,41.844,-83.459,4568
+17496,Grand View,ID,Owyhee County,,city-us,458,42.990,-116.093,3488
+17494,Grand View,WI,Bayfield County,,city-us,86,46.367,-91.108,658

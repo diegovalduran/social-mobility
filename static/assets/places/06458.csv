@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32898,Paint Rock,TX,,city-us,350,31.508,-99.920,3172
-32899,Paint Rock,AL,,city-us,181,34.661,-86.329,3076
-32900,Paint Rock,NC,,city-us,0,35.931,-82.890,487
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32898,Paint Rock,TX,Concho County,,city-us,350,31.508,-99.920,3172
+32899,Paint Rock,AL,Jackson County,,city-us,181,34.661,-86.329,3076
+32900,Paint Rock,NC,Madison County,,city-us,0,35.931,-82.890,487

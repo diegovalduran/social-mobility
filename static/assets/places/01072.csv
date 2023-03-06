@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5324,Brimfield,MA,,city-us,3690,42.128,-72.205,5215
-5327,Brimfield,OH,,city-us,3585,41.100,-81.347,2679
-5326,Brimfield,IL,,city-us,768,40.839,-89.886,2074
-5325,Brimfield,IN,,city-us,0,41.454,-85.398,374
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5324,Brimfield,MA,Hampden County,,city-us,3690,42.128,-72.205,5215
+5327,Brimfield,OH,Portage County,,city-us,3585,41.100,-81.347,2679
+5326,Brimfield,IL,Peoria County,,city-us,768,40.839,-89.886,2074
+5325,Brimfield,IN,Noble County,,city-us,0,41.454,-85.398,374

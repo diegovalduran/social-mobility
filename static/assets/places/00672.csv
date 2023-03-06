@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3412,Ben Hur,TX,,city-us,100,31.510,-96.728,801
-3411,Ben Hur,VA,,city-us,0,36.733,-83.082,464
-3413,Ben Hur,CA,,city-us,0,37.352,-119.958,289
-3414,Ben Hur,AR,,city-us,0,35.730,-92.973,224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3412,Ben Hur,TX,Limestone County,,city-us,100,31.510,-96.728,801
+3411,Ben Hur,VA,Lee County,,city-us,0,36.733,-83.082,464
+3413,Ben Hur,CA,Mariposa County,,city-us,0,37.352,-119.958,289
+3414,Ben Hur,AR,Newton County,,city-us,0,35.730,-92.973,224

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6770,Caney,KS,,city-us,1756,37.011,-95.935,5284
-6768,Caney,OK,,city-us,277,35.830,-94.840,679
-6767,Caney,OK,,city-us,202,34.232,-96.214,2556
-6769,Caney,TX,,city-us,0,28.964,-95.855,238
-6771,Caney,KY,,city-us,0,37.801,-83.259,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6770,Caney,KS,Montgomery County,,city-us,1756,37.011,-95.935,5284
+6768,Caney,OK,Cherokee County,,city-us,277,35.830,-94.840,679
+6767,Caney,OK,Atoka County,,city-us,202,34.232,-96.214,2556
+6769,Caney,TX,Matagorda County,,city-us,0,28.964,-95.855,238
+6771,Caney,KY,Morgan County,,city-us,0,37.801,-83.259,223

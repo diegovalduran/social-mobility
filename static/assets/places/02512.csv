@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12541,Dwight,IL,,city-us,4235,41.072,-88.409,537
-12539,Dwight,IL,,city-us,3998,41.098,-88.425,14006
-12540,Dwight,MI,,city-us,701,43.991,-82.957,2199
-12538,Dwight,NE,,city-us,231,41.084,-97.020,3098
-12542,Dwight,KS,,city-us,215,38.844,-96.593,4290
-12543,Dwight,ND,,city-us,79,46.304,-96.738,2897
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12541,Dwight,IL,Livingston County,,city-us,4235,41.072,-88.409,537
+12539,Dwight,IL,Grundy County / Livingston County,,city-us,3998,41.098,-88.425,14006
+12540,Dwight,MI,Huron County,,city-us,701,43.991,-82.957,2199
+12538,Dwight,NE,Butler County,,city-us,231,41.084,-97.020,3098
+12542,Dwight,KS,Morris County,,city-us,215,38.844,-96.593,4290
+12543,Dwight,ND,Richland County,,city-us,79,46.304,-96.738,2897

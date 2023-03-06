@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42430,Taiping,,China,city-international,407594,32.069,108.035,6148
-42431,Taiping,,Malaysia,city-international,237095,4.850,100.733,6148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42430,Taiping,,,China,city-international,407594,32.069,108.035,6148
+42431,Taiping,,,Malaysia,city-international,237095,4.850,100.733,6148

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3003,Beaverton,OR,,city-us,98216,45.487,-122.804,18397
-3000,Beaverton,MI,,city-us,1870,43.852,-84.570,2076
-3001,Beaverton,AL,,city-us,183,33.931,-88.020,1913
-3002,Beaverton,MT,,city-us,0,48.424,-107.254,418
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3003,Beaverton,OR,Washington County,,city-us,98216,45.487,-122.804,18397
+3000,Beaverton,MI,Gladwin County,,city-us,1870,43.852,-84.570,2076
+3001,Beaverton,AL,Lamar County,,city-us,183,33.931,-88.020,1913
+3002,Beaverton,MT,Valley County,,city-us,0,48.424,-107.254,418

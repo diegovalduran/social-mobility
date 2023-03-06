@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33057,Panther Valley,NJ,,city-us,4377,40.909,-74.842,767
-33058,Panther Valley,MO,,city-us,0,37.189,-93.018,419
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33057,Panther Valley,NJ,Warren County,,city-us,4377,40.909,-74.842,767
+33058,Panther Valley,MO,Webster County,,city-us,0,37.189,-93.018,419

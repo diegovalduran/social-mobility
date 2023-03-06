@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7107,Cartersville,GA,,city-us,23222,34.165,-84.800,9745
-7108,Cartersville,IA,,city-us,0,42.994,-93.083,308
-7109,Cartersville,VA,,city-us,0,37.667,-78.088,748
-7110,Cartersville,AL,,city-us,0,34.356,-86.079,341
-7111,Cartersville,SC,,city-us,0,34.086,-80.029,367
-7112,Cartersville,VA,,city-us,0,36.727,-79.384,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7107,Cartersville,GA,Bartow County,,city-us,23222,34.165,-84.800,9745
+7108,Cartersville,IA,Cerro Gordo County,,city-us,0,42.994,-93.083,308
+7109,Cartersville,VA,Cumberland County,,city-us,0,37.667,-78.088,748
+7110,Cartersville,AL,DeKalb County,,city-us,0,34.356,-86.079,341
+7111,Cartersville,SC,Florence County,,city-us,0,34.086,-80.029,367
+7112,Cartersville,VA,Pittsylvania County,,city-us,0,36.727,-79.384,121

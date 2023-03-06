@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17241,Goodwin,SD,,city-us,194,44.841,-96.814,3366
-17242,Goodwin,AR,,city-us,113,34.938,-91.021,525
-17240,Goodwin,NE,,city-us,0,42.455,-96.655,283
-17243,Goodwin,WV,,city-us,0,38.928,-80.160,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17241,Goodwin,SD,Deuel County,,city-us,194,44.841,-96.814,3366
+17242,Goodwin,AR,St. Francis County,,city-us,113,34.938,-91.021,525
+17240,Goodwin,NE,Dakota County,,city-us,0,42.455,-96.655,283
+17243,Goodwin,WV,Upshur County,,city-us,0,38.928,-80.160,88

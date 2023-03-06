@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17229,Goodsprings,NV,,city-us,84,35.832,-115.434,4332
-17230,Goodsprings,TN,,city-us,0,35.333,-84.560,88
-17231,Goodsprings,AL,,city-us,0,33.669,-87.232,189
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17229,Goodsprings,NV,Clark County,,city-us,84,35.832,-115.434,4332
+17230,Goodsprings,TN,McMinn County,,city-us,0,35.333,-84.560,88
+17231,Goodsprings,AL,Walker County,,city-us,0,33.669,-87.232,189

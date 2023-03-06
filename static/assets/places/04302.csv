@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22243,Johnston,RI,,city-us,29534,41.827,-71.520,6142
-22242,Johnston,IA,,city-us,24195,41.673,-93.698,5006
-22240,Johnston,SC,,city-us,2044,33.832,-81.801,4185
-22244,Johnston,OH,,city-us,1734,41.388,-80.665,1615
-22241,Johnston,PA,,city-us,0,39.758,-77.755,124
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22243,Johnston,RI,Providence County,,city-us,29534,41.827,-71.520,6142
+22242,Johnston,IA,Polk County,,city-us,24195,41.673,-93.698,5006
+22240,Johnston,SC,Edgefield County,,city-us,2044,33.832,-81.801,4185
+22244,Johnston,OH,Trumbull County,,city-us,1734,41.388,-80.665,1615
+22241,Johnston,PA,Franklin County,,city-us,0,39.758,-77.755,124

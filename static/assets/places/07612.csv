@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38607,Sandy Springs,GA,,city-us,107180,33.924,-84.379,31662
-38606,Sandy Springs,SC,,city-us,1002,34.595,-82.750,696
-38605,Sandy Springs,OH,,city-us,0,38.611,-83.297,280
-38608,Sandy Springs,TN,,city-us,0,36.448,-87.011,100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38607,Sandy Springs,GA,Fulton County,,city-us,107180,33.924,-84.379,31662
+38606,Sandy Springs,SC,Anderson County,,city-us,1002,34.595,-82.750,696
+38605,Sandy Springs,OH,Adams County,,city-us,0,38.611,-83.297,280
+38608,Sandy Springs,TN,Robertson County,,city-us,0,36.448,-87.011,100

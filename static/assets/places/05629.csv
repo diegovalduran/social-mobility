@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28956,Moccasin,AZ,,city-us,91,36.909,-112.759,465
-28955,Moccasin,MT,,city-us,23,47.053,-109.911,1548
-28954,Moccasin,IL,,city-us,0,39.147,-88.758,315
-28957,Moccasin,CA,,city-us,0,37.811,-120.300,3585
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28956,Moccasin,AZ,Mohave County,,city-us,91,36.909,-112.759,465
+28955,Moccasin,MT,Judith Basin County,,city-us,23,47.053,-109.911,1548
+28954,Moccasin,IL,Effingham County,,city-us,0,39.147,-88.758,315
+28957,Moccasin,CA,Tuolumne County,,city-us,0,37.811,-120.300,3585

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19106,Harshaville,OH,,city-us,0,38.908,-83.544,521
-19107,Harshaville,PA,,city-us,0,40.542,-80.411,293
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19106,Harshaville,OH,Adams County,,city-us,0,38.908,-83.544,521
+19107,Harshaville,PA,Beaver County,,city-us,0,40.542,-80.411,293

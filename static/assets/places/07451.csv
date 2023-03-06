@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37870,Rudolph,WI,,city-us,436,44.496,-89.808,3724
-37869,Rudolph,OH,,city-us,365,41.298,-83.670,1004
-37868,Rudolph,SD,,city-us,0,45.348,-98.536,299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37870,Rudolph,WI,Wood County,,city-us,436,44.496,-89.808,3724
+37869,Rudolph,OH,Wood County,,city-us,365,41.298,-83.670,1004
+37868,Rudolph,SD,Brown County,,city-us,0,45.348,-98.536,299

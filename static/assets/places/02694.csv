@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13360,Elkmont,AL,,city-us,429,34.929,-86.974,3653
-13361,Elkmount,ND,,city-us,40,48.150,-97.831,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13360,Elkmont,AL,Limestone County,,city-us,429,34.929,-86.974,3653
+13361,Elkmount,ND,Grand Forks County,,city-us,40,48.150,-97.831,0

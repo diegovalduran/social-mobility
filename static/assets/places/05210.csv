@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26720,Maple Grove,MN,,city-us,70726,45.072,-93.456,10054
-26725,Maple Grove,MI,,city-us,2662,43.178,-83.992,367
-26713,Maple Grove,MI,,city-us,1593,42.552,-85.132,1954
-26722,Maple Grove,MI,,city-us,1353,44.389,-85.983,367
-26727,Maple Grove,WI,,city-us,939,44.628,-88.301,2052
-26712,Maple Grove,WI,,city-us,879,45.337,-91.849,2171
-26723,Maple Grove,WI,,city-us,852,44.189,-87.924,2101
-26718,Maple Grove,MN,,city-us,733,46.297,-94.014,231
-26724,Maple Grove,MI,,city-us,628,46.777,-89.061,2297
-26714,Maple Grove,MN,,city-us,499,47.095,-95.760,231
-26715,Maple Grove,MI,,city-us,139,44.708,-85.853,685
-26716,Maple Grove,PA,,city-us,0,40.491,-75.615,192
-26717,Maple Grove,WA,,city-us,0,48.081,-123.705,201
-26719,Maple Grove,IL,,city-us,0,38.533,-88.094,140
-26721,Maple Grove,MO,,city-us,0,37.254,-94.126,312
-26726,Maple Grove,OH,,city-us,0,41.214,-83.226,228
-26728,Maple Grove,VA,,city-us,0,38.252,-77.031,100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26720,Maple Grove,MN,Hennepin County,,city-us,70726,45.072,-93.456,10054
+26725,Maple Grove,MI,Saginaw County,,city-us,2662,43.178,-83.992,367
+26713,Maple Grove,MI,Barry County,,city-us,1593,42.552,-85.132,1954
+26722,Maple Grove,MI,Manistee County,,city-us,1353,44.389,-85.983,367
+26727,Maple Grove,WI,Shawano County,,city-us,939,44.628,-88.301,2052
+26712,Maple Grove,WI,Barron County,,city-us,879,45.337,-91.849,2171
+26723,Maple Grove,WI,Manitowoc County,,city-us,852,44.189,-87.924,2101
+26718,Maple Grove,MN,Crow Wing County,,city-us,733,46.297,-94.014,231
+26724,Maple Grove,MI,Ontonagon County,,city-us,628,46.777,-89.061,2297
+26714,Maple Grove,MN,Becker County,,city-us,499,47.095,-95.760,231
+26715,Maple Grove,MI,Benzie County,,city-us,139,44.708,-85.853,685
+26716,Maple Grove,PA,Berks County,,city-us,0,40.491,-75.615,192
+26717,Maple Grove,WA,Clallam County,,city-us,0,48.081,-123.705,201
+26719,Maple Grove,IL,Edwards County,,city-us,0,38.533,-88.094,140
+26721,Maple Grove,MO,Jasper County,,city-us,0,37.254,-94.126,312
+26726,Maple Grove,OH,Seneca County,,city-us,0,41.214,-83.226,228
+26728,Maple Grove,VA,Westmoreland County,,city-us,0,38.252,-77.031,100

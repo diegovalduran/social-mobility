@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24051,Latta,OK,,city-us,1465,34.747,-96.706,293
-24050,Latta,SC,,city-us,1283,34.337,-79.431,5747
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24051,Latta,OK,Pontotoc County,,city-us,1465,34.747,-96.706,293
+24050,Latta,SC,Dillon County,,city-us,1283,34.337,-79.431,5747

@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7060,Carrollton,TX,,city-us,133251,32.989,-96.900,11706
-7053,Carrollton,GA,,city-us,27493,33.580,-85.077,16907
-7064,Carrollton,VA,,city-us,7171,36.947,-76.561,4087
-7066,Carrollton,MI,,city-us,6103,43.459,-83.939,3154
-7055,Carrollton,KY,,city-us,3895,38.681,-85.179,4659
-7057,Carrollton,MO,,city-us,3782,39.395,-93.474,590
-7058,Carrollton,OH,,city-us,3092,40.573,-81.086,4829
-7061,Carrollton,IL,,city-us,2851,39.330,-90.436,1156
-7059,Carrollton,NY,,city-us,1208,42.056,-78.638,5017
-7065,Carrollton,AL,,city-us,998,33.262,-88.095,4322
-7056,Carrollton,MS,,city-us,347,33.508,-89.920,3979
-7051,Carrollton,WV,,city-us,0,39.090,-80.087,231
-7052,Carrollton,AR,,city-us,0,36.263,-93.322,1552
-7054,Carrollton,IN,,city-us,0,40.518,-86.392,335
-7062,Carrollton,IN,,city-us,0,39.706,-85.821,176
-7063,Carrollton,IN,,city-us,0,39.706,-85.820,154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7060,Carrollton,TX,Collin County / Dallas County / Denton County,,city-us,133251,32.989,-96.900,11706
+7053,Carrollton,GA,Carroll County,,city-us,27493,33.580,-85.077,16907
+7064,Carrollton,VA,Isle of Wight County,,city-us,7171,36.947,-76.561,4087
+7066,Carrollton,MI,Saginaw County,,city-us,6103,43.459,-83.939,3154
+7055,Carrollton,KY,Carroll County,,city-us,3895,38.681,-85.179,4659
+7057,Carrollton,MO,Carroll County,,city-us,3782,39.395,-93.474,590
+7058,Carrollton,OH,Carroll County,,city-us,3092,40.573,-81.086,4829
+7061,Carrollton,IL,Greene County,,city-us,2851,39.330,-90.436,1156
+7059,Carrollton,NY,Cattaraugus County,,city-us,1208,42.056,-78.638,5017
+7065,Carrollton,AL,Pickens County,,city-us,998,33.262,-88.095,4322
+7056,Carrollton,MS,Carroll County,,city-us,347,33.508,-89.920,3979
+7051,Carrollton,WV,Barbour County,,city-us,0,39.090,-80.087,231
+7052,Carrollton,AR,Carroll County,,city-us,0,36.263,-93.322,1552
+7054,Carrollton,IN,Carroll County,,city-us,0,40.518,-86.392,335
+7062,Carrollton,IN,Hancock County,,city-us,0,39.706,-85.821,176
+7063,Carrollton,IN,Hancock County / Shelby County,,city-us,0,39.706,-85.820,154

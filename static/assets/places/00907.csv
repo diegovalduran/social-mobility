@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4828,Bowdon,GA,,city-us,2168,33.538,-85.253,5006
-4829,Bowdon,ND,,city-us,138,47.470,-99.708,3136
-4600,Boden,OH,,city-us,0,40.115,-81.702,263
-4601,Boden,IL,,city-us,0,41.258,-90.587,163
-4826,Bowden,OK,,city-us,0,36.063,-96.087,491
-4827,Bowden,WV,,city-us,0,38.909,-79.710,278
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4828,Bowdon,GA,Carroll County,,city-us,2168,33.538,-85.253,5006
+4829,Bowdon,ND,Wells County,,city-us,138,47.470,-99.708,3136
+4600,Boden,OH,Guernsey County,,city-us,0,40.115,-81.702,263
+4601,Boden,IL,Mercer County,,city-us,0,41.258,-90.587,163
+4826,Bowden,OK,Creek County,,city-us,0,36.063,-96.087,491
+4827,Bowden,WV,Randolph County,,city-us,0,38.909,-79.710,278

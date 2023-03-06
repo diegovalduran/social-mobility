@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25772,Lost River,ID,,city-us,0,43.687,-113.615,2865
-25773,Lost River,WV,,city-us,0,38.954,-78.804,363
-25774,Lost River,IN,,city-us,0,38.607,-86.451,306
-25775,Lost River,KY,,city-us,0,36.953,-86.475,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25772,Lost River,ID,Custer County,,city-us,0,43.687,-113.615,2865
+25773,Lost River,WV,Hardy County,,city-us,0,38.954,-78.804,363
+25774,Lost River,IN,Orange County,,city-us,0,38.607,-86.451,306
+25775,Lost River,KY,Warren County,,city-us,0,36.953,-86.475,86

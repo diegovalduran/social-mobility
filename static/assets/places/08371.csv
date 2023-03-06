@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42306,Swink,CO,,city-us,602,38.014,-103.628,2021
-42305,Swink,OK,,city-us,57,34.018,-95.202,3425
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42306,Swink,CO,Otero County,,city-us,602,38.014,-103.628,2021
+42305,Swink,OK,Choctaw County,,city-us,57,34.018,-95.202,3425

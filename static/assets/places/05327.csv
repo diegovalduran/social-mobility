@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27305,Maxwell,CA,,city-us,1107,39.276,-122.191,2953
-27310,Maxwell,IA,,city-us,875,41.892,-93.400,7001
-27308,Maxwell,NE,,city-us,256,41.079,-100.525,3338
-27304,Maxwell,NM,,city-us,232,36.540,-104.543,2869
-27309,Maxwell,IL,,city-us,211,39.649,-89.916,390
-27307,Maxwell,MN,,city-us,156,44.852,-96.036,2813
-27303,Maxwell,TX,,city-us,0,29.881,-97.793,3879
-27306,Maxwell,IN,,city-us,0,39.858,-85.770,462
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27305,Maxwell,CA,Colusa County,,city-us,1107,39.276,-122.191,2953
+27310,Maxwell,IA,Story County,,city-us,875,41.892,-93.400,7001
+27308,Maxwell,NE,Lincoln County,,city-us,256,41.079,-100.525,3338
+27304,Maxwell,NM,Colfax County,,city-us,232,36.540,-104.543,2869
+27309,Maxwell,IL,Sangamon County,,city-us,211,39.649,-89.916,390
+27307,Maxwell,MN,Lac qui Parle County,,city-us,156,44.852,-96.036,2813
+27303,Maxwell,TX,Caldwell County,,city-us,0,29.881,-97.793,3879
+27306,Maxwell,IN,Hancock County,,city-us,0,39.858,-85.770,462

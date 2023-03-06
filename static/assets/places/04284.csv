@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22154,Jet,OK,,city-us,202,36.666,-98.181,3831
-22156,Jette,MT,,city-us,200,47.717,-114.192,2126
-22155,Jett,KY,,city-us,0,38.179,-84.814,424
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22154,Jet,OK,Alfalfa County,,city-us,202,36.666,-98.181,3831
+22156,Jette,MT,Lake County,,city-us,200,47.717,-114.192,2126
+22155,Jett,KY,Franklin County,,city-us,0,38.179,-84.814,424

@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13,Abbot,ME,,city-us,660,45.193,-69.494,3106
-21,Abbott,TX,,city-us,357,31.885,-97.073,2833
-22,Abbott,PA,,city-us,228,41.612,-77.714,1829
-17,Abbott,MS,,city-us,0,33.680,-88.774,603
-18,Abbott,VA,,city-us,0,37.429,-80.134,186
-19,Abbott,NE,,city-us,0,40.975,-98.481,369
-20,Abbott,IA,,city-us,0,42.485,-93.066,432
-23,Abbott,AR,,city-us,0,35.073,-94.194,151
-24,Abbott,WV,,city-us,0,38.922,-80.321,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13,Abbot,ME,Piscataquis County,,city-us,660,45.193,-69.494,3106
+21,Abbott,TX,Hill County,,city-us,357,31.885,-97.073,2833
+22,Abbott,PA,Potter County,,city-us,228,41.612,-77.714,1829
+17,Abbott,MS,Clay County,,city-us,0,33.680,-88.774,603
+18,Abbott,VA,Craig County,,city-us,0,37.429,-80.134,186
+19,Abbott,NE,Hall County,,city-us,0,40.975,-98.481,369
+20,Abbott,IA,Hardin County,,city-us,0,42.485,-93.066,432
+23,Abbott,AR,Scott County,,city-us,0,35.073,-94.194,151
+24,Abbott,WV,Upshur County,,city-us,0,38.922,-80.321,239

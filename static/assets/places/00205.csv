@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1059,Andalusia,AL,,city-us,8715,31.308,-86.483,7606
-1060,Andalusia,IL,,city-us,2242,41.436,-90.721,422
-1058,Andalusia,PA,,city-us,0,40.069,-74.971,2280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1059,Andalusia,AL,Covington County,,city-us,8715,31.308,-86.483,7606
+1060,Andalusia,IL,Rock Island County,,city-us,2242,41.436,-90.721,422
+1058,Andalusia,PA,Bucks County,,city-us,0,40.069,-74.971,2280

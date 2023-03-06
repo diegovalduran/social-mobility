@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28817,Mineral Point,WI,,city-us,981,42.871,-90.146,10156
-28818,Mineral Point,MO,,city-us,230,37.945,-90.724,3653
-28815,Mineral Point,PA,,city-us,0,40.379,-78.835,648
-28816,Mineral Point,WI,,city-us,0,42.712,-89.467,109
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28817,Mineral Point,WI,Iowa County,,city-us,981,42.871,-90.146,10156
+28818,Mineral Point,MO,Washington County,,city-us,230,37.945,-90.724,3653
+28815,Mineral Point,PA,Cambria County,,city-us,0,40.379,-78.835,648
+28816,Mineral Point,WI,Green County,,city-us,0,42.712,-89.467,109

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34326,Pitman,NJ,,city-us,8814,39.733,-75.132,11041
-34327,Pitman,IL,,city-us,400,39.395,-89.644,624
-34329,Pittman,FL,,city-us,233,29.000,-81.642,2174
-34328,Pitman,PA,,city-us,0,40.715,-76.521,809
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34326,Pitman,NJ,Gloucester County,,city-us,8814,39.733,-75.132,11041
+34327,Pitman,IL,Montgomery County,,city-us,400,39.395,-89.644,624
+34329,Pittman,FL,Lake County,,city-us,233,29.000,-81.642,2174
+34328,Pitman,PA,Schuylkill County,,city-us,0,40.715,-76.521,809

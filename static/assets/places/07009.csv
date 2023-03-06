@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35642,Queen City,TX,,city-us,1409,33.149,-94.150,2435
-35643,Queen City,MO,,city-us,543,40.409,-92.568,4382
-35644,Queen City,CA,,city-us,0,39.665,-120.940,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35642,Queen City,TX,Cass County,,city-us,1409,33.149,-94.150,2435
+35643,Queen City,MO,Schuyler County,,city-us,543,40.409,-92.568,4382
+35644,Queen City,CA,Sierra County,,city-us,0,39.665,-120.940,88

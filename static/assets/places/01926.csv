@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9809,Copley,MN,,city-us,878,47.542,-95.353,1924
-9810,Copley,IL,,city-us,389,41.026,-90.151,1101
-9811,Copley,WV,,city-us,0,38.969,-80.647,86
-9812,Copley,OH,,city-us,0,41.099,-81.644,420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9809,Copley,MN,Clearwater County,,city-us,878,47.542,-95.353,1924
+9810,Copley,IL,Knox County,,city-us,389,41.026,-90.151,1101
+9811,Copley,WV,Lewis County,,city-us,0,38.969,-80.647,86
+9812,Copley,OH,Summit County,,city-us,0,41.099,-81.644,420

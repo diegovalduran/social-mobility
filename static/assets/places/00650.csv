@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3403,Belwood,NC,,city-us,868,35.477,-81.523,2365
-3289,Bellewood,KY,,city-us,338,38.258,-85.660,2009
-3288,Bellewood,MS,,city-us,0,33.232,-90.559,486
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3403,Belwood,NC,Cleveland County,,city-us,868,35.477,-81.523,2365
+3289,Bellewood,KY,Jefferson County,,city-us,338,38.258,-85.660,2009
+3288,Bellewood,MS,Humphreys County,,city-us,0,33.232,-90.559,486

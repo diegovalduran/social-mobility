@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6915,Carl,GA,,city-us,215,34.006,-83.811,2041
-6916,Carl,SD,,city-us,27,45.816,-98.776,359
-6917,Carl,WV,,city-us,0,38.111,-80.684,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6915,Carl,GA,Barrow County,,city-us,215,34.006,-83.811,2041
+6916,Carl,SD,McPherson County,,city-us,27,45.816,-98.776,359
+6917,Carl,WV,Nicholas County,,city-us,0,38.111,-80.684,246

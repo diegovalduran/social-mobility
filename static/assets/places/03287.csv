@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16652,Germania,NJ,,city-us,992,39.512,-74.599,657
-16657,Germania,MN,,city-us,528,46.238,-94.958,1924
-16655,Germania,WI,,city-us,343,44.725,-89.163,1639
-16656,Germania,ND,,city-us,19,46.663,-99.257,0
-16653,Germania,WI,,city-us,0,43.891,-89.257,625
-16654,Germania,TX,,city-us,0,32.065,-101.940,138
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16652,Germania,NJ,Atlantic County,,city-us,992,39.512,-74.599,657
+16657,Germania,MN,Todd County,,city-us,528,46.238,-94.958,1924
+16655,Germania,WI,Shawano County,,city-us,343,44.725,-89.163,1639
+16656,Germania,ND,Stutsman County,,city-us,19,46.663,-99.257,0
+16653,Germania,WI,Marquette County,,city-us,0,43.891,-89.257,625
+16654,Germania,TX,Midland County,,city-us,0,32.065,-101.940,138

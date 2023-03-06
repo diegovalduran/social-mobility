@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35652,Queenstown,,South Africa,city-international,105309,-31.900,26.883,6930
-35650,Queenstown,MD,,city-us,723,38.991,-76.158,3955
-35649,Queenstown,VA,,city-us,0,37.681,-76.487,95
-35651,Queenstown,WI,,city-us,0,45.352,-90.288,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35652,Queenstown,,,South Africa,city-international,105309,-31.900,26.883,6930
+35650,Queenstown,MD,Queen Anne's County,,city-us,723,38.991,-76.158,3955
+35649,Queenstown,VA,Lancaster County,,city-us,0,37.681,-76.487,95
+35651,Queenstown,WI,Taylor County,,city-us,0,45.352,-90.288,117

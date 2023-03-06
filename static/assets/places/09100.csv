@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45931,Wentworth,NC,,city-us,2657,36.400,-79.774,6000
-45928,Wentworth,NH,,city-us,853,43.859,-71.924,4608
-45929,Wentworth,SD,,city-us,500,43.972,-96.939,3313
-45930,Wentworth,MO,,city-us,98,36.993,-94.074,3406
-45927,Wentworth,WI,,city-us,0,46.600,-91.836,231
-45932,Wentworth,TX,,city-us,0,32.573,-95.806,872
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45931,Wentworth,NC,Rockingham County,,city-us,2657,36.400,-79.774,6000
+45928,Wentworth,NH,Grafton County,,city-us,853,43.859,-71.924,4608
+45929,Wentworth,SD,Lake County,,city-us,500,43.972,-96.939,3313
+45930,Wentworth,MO,Newton County,,city-us,98,36.993,-94.074,3406
+45927,Wentworth,WI,Douglas County,,city-us,0,46.600,-91.836,231
+45932,Wentworth,TX,Van Zandt County,,city-us,0,32.573,-95.806,872

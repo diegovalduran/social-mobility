@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4713,Bonnie,IL,,city-us,370,38.203,-88.903,3901
-4711,Bonney,TX,,city-us,183,29.317,-95.448,4135
-4712,Bonnie,WV,,city-us,0,38.769,-80.693,162
-4714,Bonny,KY,,city-us,0,37.908,-83.362,109
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4713,Bonnie,IL,Jefferson County,,city-us,370,38.203,-88.903,3901
+4711,Bonney,TX,Brazoria County,,city-us,183,29.317,-95.448,4135
+4712,Bonnie,WV,Braxton County,,city-us,0,38.769,-80.693,162
+4714,Bonny,KY,Morgan County,,city-us,0,37.908,-83.362,109

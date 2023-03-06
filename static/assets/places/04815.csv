@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24558,Level Cross,NC,,city-us,0,35.888,-79.808,588
-24559,Level Cross,NC,,city-us,0,36.345,-80.629,457
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24558,Level Cross,NC,Randolph County,,city-us,0,35.888,-79.808,588
+24559,Level Cross,NC,Surry County,,city-us,0,36.345,-80.629,457

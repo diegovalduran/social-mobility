@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45564,Waupun,WI,,city-us,11515,43.632,-88.738,11843
-45565,Waupun,WI,,city-us,1383,43.686,-88.698,11843
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45564,Waupun,WI,Dodge County / Fond du Lac County,,city-us,11515,43.632,-88.738,11843
+45565,Waupun,WI,Fond du Lac County,,city-us,1383,43.686,-88.698,11843

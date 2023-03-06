@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12840,Eau Pleine,WI,,city-us,1060,44.655,-89.750,2185
-12839,Eau Pleine,WI,,city-us,770,44.815,-90.133,2075
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12840,Eau Pleine,WI,Portage County,,city-us,1060,44.655,-89.750,2185
+12839,Eau Pleine,WI,Marathon County,,city-us,770,44.815,-90.133,2075

@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26963,Markham,,Canada,city-international,328966,43.877,-79.263,34603
-26956,Markham,IL,,city-us,11399,41.594,-87.695,7465
-26959,Markham,TX,,city-us,983,28.960,-96.065,2411
-26958,Markham,WA,,city-us,144,46.905,-123.998,1877
-26830,Marcum,KY,,city-us,0,37.111,-83.560,436
-26957,Markham,VA,,city-us,0,38.904,-78.002,720
-26960,Markham,IL,,city-us,0,39.746,-90.328,106
-26961,Markham,VA,,city-us,0,36.879,-79.242,116
-26962,Markham,MN,,city-us,0,47.299,-92.219,1197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26963,Markham,,,Canada,city-international,328966,43.877,-79.263,34603
+26956,Markham,IL,Cook County,,city-us,11399,41.594,-87.695,7465
+26959,Markham,TX,Matagorda County,,city-us,983,28.960,-96.065,2411
+26958,Markham,WA,Grays Harbor County,,city-us,144,46.905,-123.998,1877
+26830,Marcum,KY,Clay County,,city-us,0,37.111,-83.560,436
+26957,Markham,VA,Fauquier County,,city-us,0,38.904,-78.002,720
+26960,Markham,IL,Morgan County,,city-us,0,39.746,-90.328,106
+26961,Markham,VA,Pittsylvania County,,city-us,0,36.879,-79.242,116
+26962,Markham,MN,St. Louis County,,city-us,0,47.299,-92.219,1197

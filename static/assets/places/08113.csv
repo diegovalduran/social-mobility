@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41084,St. Louis,MO,,city-us,293310,38.627,-90.198,69779
-41082,St. Louis,MI,,city-us,6862,43.408,-84.607,7298
-41083,St. Louis,OK,,city-us,128,35.074,-96.853,2575
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41084,St. Louis,MO,St. Louis city,,city-us,293310,38.627,-90.198,69779
+41082,St. Louis,MI,Gratiot County,,city-us,6862,43.408,-84.607,7298
+41083,St. Louis,OK,Pottawatomie County,,city-us,128,35.074,-96.853,2575

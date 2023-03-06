@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30248,Naples,,Italy,city-international,966144,40.833,14.250,66216
-30240,Naples,FL,,city-us,19372,26.142,-81.795,19702
-30247,Naples,UT,,city-us,2334,40.427,-109.499,2630
-30243,Naples,TX,,city-us,1391,33.203,-94.680,859
-30244,Naples,NY,,city-us,981,42.615,-77.402,5090
-30238,Naples,WI,,city-us,705,44.545,-91.581,1991
-30241,Naples,ME,,city-us,421,43.972,-70.609,6110
-30246,Naples,IL,,city-us,99,39.757,-90.607,1875
-30239,Naples,SD,,city-us,37,44.772,-97.512,2576
-30237,Naples,ID,,city-us,0,48.572,-116.395,901
-30242,Naples,NC,,city-us,0,35.392,-82.501,541
-30245,Naples,CA,,city-us,0,34.441,-119.959,519
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30248,Naples,,,Italy,city-international,966144,40.833,14.250,66216
+30240,Naples,FL,Collier County,,city-us,19372,26.142,-81.795,19702
+30247,Naples,UT,Uintah County,,city-us,2334,40.427,-109.499,2630
+30243,Naples,TX,Morris County,,city-us,1391,33.203,-94.680,859
+30244,Naples,NY,Ontario County,,city-us,981,42.615,-77.402,5090
+30238,Naples,WI,Buffalo County,,city-us,705,44.545,-91.581,1991
+30241,Naples,ME,Cumberland County,,city-us,421,43.972,-70.609,6110
+30246,Naples,IL,Scott County,,city-us,99,39.757,-90.607,1875
+30239,Naples,SD,Clark County,,city-us,37,44.772,-97.512,2576
+30237,Naples,ID,Boundary County,,city-us,0,48.572,-116.395,901
+30242,Naples,NC,Henderson County,,city-us,0,35.392,-82.501,541
+30245,Naples,CA,Santa Barbara County,,city-us,0,34.441,-119.959,519

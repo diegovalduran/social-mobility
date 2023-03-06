@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-441,Albin,MN,,city-us,313,44.154,-94.671,2341
-443,Albin,WY,,city-us,167,41.418,-104.098,3426
-442,Albin,VA,,city-us,0,39.222,-78.199,200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+441,Albin,MN,Brown County,,city-us,313,44.154,-94.671,2341
+443,Albin,WY,Laramie County,,city-us,167,41.418,-104.098,3426
+442,Albin,VA,Frederick County,,city-us,0,39.222,-78.199,200

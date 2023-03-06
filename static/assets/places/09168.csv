@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46180,Westfall,PA,,city-us,2619,41.388,-74.771,1968
-46177,Westfall,KS,,city-us,0,38.930,-98.011,311
-46178,Westfall,OR,,city-us,0,43.992,-117.709,495
-46179,Westfall,OH,,city-us,0,39.558,-82.999,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46180,Westfall,PA,Pike County,,city-us,2619,41.388,-74.771,1968
+46177,Westfall,KS,Lincoln County,,city-us,0,38.930,-98.011,311
+46178,Westfall,OR,Malheur County,,city-us,0,43.992,-117.709,495
+46179,Westfall,OH,Pickaway County,,city-us,0,39.558,-82.999,359

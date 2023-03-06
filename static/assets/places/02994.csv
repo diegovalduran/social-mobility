@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14981,Fitchburg,MA,,city-us,41732,42.583,-71.802,27036
-14978,Fitchburg,WI,,city-us,30674,42.961,-89.470,4353
-14980,Fitchburg,MI,,city-us,1966,42.462,-84.321,2462
-14979,Fitchburg,KY,,city-us,0,37.733,-83.852,307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14981,Fitchburg,MA,Worcester County,,city-us,41732,42.583,-71.802,27036
+14978,Fitchburg,WI,Dane County,,city-us,30674,42.961,-89.470,4353
+14980,Fitchburg,MI,Ingham County,,city-us,1966,42.462,-84.321,2462
+14979,Fitchburg,KY,Estill County,,city-us,0,37.733,-83.852,307

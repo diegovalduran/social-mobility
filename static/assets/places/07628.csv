@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38681,Santa Rita,,Venezuela,city-international,169158,10.200,-67.551,173
-38680,Santa Rita,,Brazil,city-international,134940,-7.114,-34.978,1951
-38679,Santa Rita,MT,,city-us,38,48.701,-112.320,340
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38681,Santa Rita,,,Venezuela,city-international,169158,10.200,-67.551,173
+38680,Santa Rita,,,Brazil,city-international,134940,-7.114,-34.978,1951
+38679,Santa Rita,MT,Glacier County,,city-us,38,48.701,-112.320,340

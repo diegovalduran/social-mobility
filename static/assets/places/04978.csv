@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25631,Long Point,IL,,city-us,445,40.973,-88.873,291
-25630,Long Point,TX,,city-us,0,29.391,-95.733,3235
-25632,Long Point,IA,,city-us,0,41.945,-92.484,309
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25631,Long Point,IL,Livingston County,,city-us,445,40.973,-88.873,291
+25630,Long Point,TX,Fort Bend County,,city-us,0,29.391,-95.733,3235
+25632,Long Point,IA,Tama County,,city-us,0,41.945,-92.484,309

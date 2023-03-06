@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42312,Switzer,WV,,city-us,212,37.793,-81.988,2222
-42311,Switzer,KY,,city-us,0,38.254,-84.754,116
-42313,Switzer,SC,,city-us,0,34.805,-82.028,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42312,Switzer,WV,Logan County,,city-us,212,37.793,-81.988,2222
+42311,Switzer,KY,Franklin County,,city-us,0,38.254,-84.754,116
+42313,Switzer,SC,Spartanburg County,,city-us,0,34.805,-82.028,279

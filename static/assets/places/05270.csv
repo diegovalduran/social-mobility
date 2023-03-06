@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27047,Marshallton,PA,,city-us,1221,40.787,-76.539,1906
-27045,Marshallton,PA,,city-us,500,39.950,-75.680,1021
-27046,Marshallton,DE,,city-us,0,39.726,-75.654,1565
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27047,Marshallton,PA,Northumberland County,,city-us,1221,40.787,-76.539,1906
+27045,Marshallton,PA,Chester County,,city-us,500,39.950,-75.680,1021
+27046,Marshallton,DE,New Castle County,,city-us,0,39.726,-75.654,1565

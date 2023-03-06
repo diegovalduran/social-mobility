@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44794,Wagon Wheel,AZ,,city-us,1096,34.198,-110.027,239
-44795,Wagon Wheel,NM,,city-us,0,35.005,-105.823,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44794,Wagon Wheel,AZ,Navajo County,,city-us,1096,34.198,-110.027,239
+44795,Wagon Wheel,NM,Torrance County,,city-us,0,35.005,-105.823,264

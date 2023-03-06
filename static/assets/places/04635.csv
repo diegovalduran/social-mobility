@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23700,Lakeshore,LA,,city-us,1988,32.535,-92.029,493
-23698,Lakeshore,CA,,city-us,0,37.253,-119.175,213
-23699,Lakeshore,MS,,city-us,0,30.247,-89.436,599
-23701,Lakeshore,FL,,city-us,0,27.857,-81.412,618
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23700,Lakeshore,LA,Ouachita Parish,,city-us,1988,32.535,-92.029,493
+23698,Lakeshore,CA,Fresno County,,city-us,0,37.253,-119.175,213
+23699,Lakeshore,MS,Hancock County,,city-us,0,30.247,-89.436,599
+23701,Lakeshore,FL,Polk County,,city-us,0,27.857,-81.412,618

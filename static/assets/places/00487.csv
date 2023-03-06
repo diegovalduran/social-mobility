@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2545,Barron,WI,,city-us,820,45.437,-91.853,2124
-2528,Barren,IL,,city-us,536,38.071,-88.992,1120
-2517,Baron,OK,,city-us,0,35.900,-94.600,339
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2545,Barron,WI,Barron County,,city-us,820,45.437,-91.853,2124
+2528,Barren,IL,Franklin County,,city-us,536,38.071,-88.992,1120
+2517,Baron,OK,Adair County,,city-us,0,35.900,-94.600,339

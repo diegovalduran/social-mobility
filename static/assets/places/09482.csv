@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47946,Yatesville,PA,,city-us,639,41.303,-75.787,2029
-47947,Yatesville,GA,,city-us,389,32.914,-84.143,2225
-47945,Yatesville,OH,,city-us,0,39.678,-83.449,276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47946,Yatesville,PA,Luzerne County,,city-us,639,41.303,-75.787,2029
+47947,Yatesville,GA,Upson County,,city-us,389,32.914,-84.143,2225
+47945,Yatesville,OH,Fayette County,,city-us,0,39.678,-83.449,276

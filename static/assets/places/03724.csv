@@ -1,60 +1,60 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19069,Harrison,NY,,city-us,28774,40.969,-73.713,21541
-19043,Harrison,MI,,city-us,24101,42.587,-82.817,4360
-19048,Harrison,OH,,city-us,21727,39.823,-84.231,850
-19033,Harrison,NJ,,city-us,19212,40.746,-74.156,23431
-19030,Harrison,OH,,city-us,14521,39.259,-84.791,850
-19027,Harrison,NJ,,city-us,13841,39.726,-75.205,11537
-19014,Harrison,AR,,city-us,13195,36.230,-93.108,14542
-19016,Harrison,WI,,city-us,13179,44.192,-88.294,532
-19012,Harrison,PA,,city-us,10021,40.637,-79.717,3800
-19040,Harrison,OH,,city-us,8661,40.003,-82.621,850
-19053,Harrison,OH,,city-us,8409,39.746,-82.976,850
-19031,Harrison,TN,,city-us,8383,35.114,-85.138,3817
-19052,Harrison,OH,,city-us,5142,39.770,-82.109,850
-19055,Harrison,OH,,city-us,4288,39.874,-84.534,850
-19058,Harrison,OH,,city-us,4232,38.807,-82.859,850
-19021,Harrison,ME,,city-us,2479,44.103,-70.652,7177
-19017,Harrison,OH,,city-us,2313,40.605,-81.157,850
-19022,Harrison,OH,,city-us,2160,39.964,-84.755,850
-19019,Harrison,MI,,city-us,2157,44.019,-84.799,4814
-19042,Harrison,OH,,city-us,2031,40.374,-83.818,850
-19066,Harrison,ND,,city-us,1786,48.244,-101.367,0
-19049,Harrison,OH,,city-us,1553,39.827,-81.908,850
-19051,Harrison,OH,,city-us,1508,41.114,-84.739,850
-19032,Harrison,OH,,city-us,1268,41.380,-84.065,850
-19057,Harrison,OH,,city-us,1176,39.341,-82.807,850
-19064,Harrison,OH,,city-us,1049,39.236,-82.701,850
-19054,Harrison,PA,,city-us,1020,41.958,-77.674,3800
-19061,Harrison,OH,,city-us,1009,40.862,-84.729,850
-19026,Harrison,OH,,city-us,962,38.722,-82.294,850
-19013,Harrison,PA,,city-us,925,39.958,-78.627,3800
-19034,Harrison,IL,,city-us,872,37.797,-89.337,131
-19038,Harrison,OH,,city-us,871,40.349,-82.320,850
-19018,Harrison,OH,,city-us,860,40.240,-83.834,850
-19041,Harrison,WI,,city-us,833,45.477,-89.507,2343
-19036,Harrison,MN,,city-us,551,45.193,-94.811,2040
-19028,Harrison,WI,,city-us,536,42.726,-90.603,1782
-19068,Harrison,WI,,city-us,460,44.639,-89.171,1993
-19025,Harrison,KS,,city-us,443,38.572,-95.221,515
-19067,Harrison,GA,,city-us,330,32.826,-82.725,2150
-19045,Harrison,WI,,city-us,317,45.068,-89.306,1981
-19050,Harrison,KS,,city-us,308,39.696,-95.955,0
-19059,Harrison,NE,,city-us,238,42.687,-103.883,4846
-19039,Harrison,ID,,city-us,229,47.454,-116.785,9495
-19062,Harrison,MO,,city-us,223,37.701,-94.552,177
-19046,Harrison,MO,,city-us,214,40.422,-93.695,220
-19056,Harrison,KS,,city-us,155,38.393,-98.205,0
-19023,Harrison,MO,,city-us,151,39.817,-93.829,178
-19029,Harrison,MO,,city-us,101,40.177,-93.701,177
-19037,Harrison,NE,,city-us,74,42.655,-97.779,195
-19065,Harrison,KS,,city-us,72,38.765,-101.567,0
-19035,Harrison,KS,,city-us,33,39.966,-98.203,538
-19044,Harrison,MT,,city-us,33,45.701,-111.786,2457
-19060,Harrison,SD,,city-us,28,44.755,-98.150,2049
-19024,Harrison,SD,,city-us,8,43.430,-98.527,2049
-19015,Harrison,WI,,city-us,0,44.214,-88.400,532
-19020,Harrison,WV,,city-us,0,38.513,-80.953,123
-19047,Harrison,WV,,city-us,0,39.377,-79.204,284
-19063,Harrison,IN,,city-us,0,39.529,-87.422,429
-19070,Harrison,IL,,city-us,0,42.427,-89.191,178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19069,Harrison,NY,Westchester County,,city-us,28774,40.969,-73.713,21541
+19043,Harrison,MI,Macomb County,,city-us,24101,42.587,-82.817,4360
+19048,Harrison,OH,Montgomery County,,city-us,21727,39.823,-84.231,850
+19033,Harrison,NJ,Hudson County,,city-us,19212,40.746,-74.156,23431
+19030,Harrison,OH,Hamilton County,,city-us,14521,39.259,-84.791,850
+19027,Harrison,NJ,Gloucester County,,city-us,13841,39.726,-75.205,11537
+19014,Harrison,AR,Boone County,,city-us,13195,36.230,-93.108,14542
+19016,Harrison,WI,Calumet County / Outagamie County,,city-us,13179,44.192,-88.294,532
+19012,Harrison,PA,Allegheny County,,city-us,10021,40.637,-79.717,3800
+19040,Harrison,OH,Licking County,,city-us,8661,40.003,-82.621,850
+19053,Harrison,OH,Pickaway County,,city-us,8409,39.746,-82.976,850
+19031,Harrison,TN,Hamilton County,,city-us,8383,35.114,-85.138,3817
+19052,Harrison,OH,Perry County,,city-us,5142,39.770,-82.109,850
+19055,Harrison,OH,Preble County,,city-us,4288,39.874,-84.534,850
+19058,Harrison,OH,Scioto County,,city-us,4232,38.807,-82.859,850
+19021,Harrison,ME,Cumberland County,,city-us,2479,44.103,-70.652,7177
+19017,Harrison,OH,Carroll County,,city-us,2313,40.605,-81.157,850
+19022,Harrison,OH,Darke County,,city-us,2160,39.964,-84.755,850
+19019,Harrison,MI,Clare County,,city-us,2157,44.019,-84.799,4814
+19042,Harrison,OH,Logan County,,city-us,2031,40.374,-83.818,850
+19066,Harrison,ND,Ward County,,city-us,1786,48.244,-101.367,0
+19049,Harrison,OH,Muskingum County,,city-us,1553,39.827,-81.908,850
+19051,Harrison,OH,Paulding County,,city-us,1508,41.114,-84.739,850
+19032,Harrison,OH,Henry County,,city-us,1268,41.380,-84.065,850
+19057,Harrison,OH,Ross County,,city-us,1176,39.341,-82.807,850
+19064,Harrison,OH,Vinton County,,city-us,1049,39.236,-82.701,850
+19054,Harrison,PA,Potter County,,city-us,1020,41.958,-77.674,3800
+19061,Harrison,OH,Van Wert County,,city-us,1009,40.862,-84.729,850
+19026,Harrison,OH,Gallia County,,city-us,962,38.722,-82.294,850
+19013,Harrison,PA,Bedford County,,city-us,925,39.958,-78.627,3800
+19034,Harrison,IL,Jackson County,,city-us,872,37.797,-89.337,131
+19038,Harrison,OH,Knox County,,city-us,871,40.349,-82.320,850
+19018,Harrison,OH,Champaign County,,city-us,860,40.240,-83.834,850
+19041,Harrison,WI,Lincoln County,,city-us,833,45.477,-89.507,2343
+19036,Harrison,MN,Kandiyohi County,,city-us,551,45.193,-94.811,2040
+19028,Harrison,WI,Grant County,,city-us,536,42.726,-90.603,1782
+19068,Harrison,WI,Waupaca County,,city-us,460,44.639,-89.171,1993
+19025,Harrison,KS,Franklin County,,city-us,443,38.572,-95.221,515
+19067,Harrison,GA,Washington County,,city-us,330,32.826,-82.725,2150
+19045,Harrison,WI,Marathon County,,city-us,317,45.068,-89.306,1981
+19050,Harrison,KS,Nemaha County,,city-us,308,39.696,-95.955,0
+19059,Harrison,NE,Sioux County,,city-us,238,42.687,-103.883,4846
+19039,Harrison,ID,Kootenai County,,city-us,229,47.454,-116.785,9495
+19062,Harrison,MO,Vernon County,,city-us,223,37.701,-94.552,177
+19046,Harrison,MO,Mercer County,,city-us,214,40.422,-93.695,220
+19056,Harrison,KS,Rice County,,city-us,155,38.393,-98.205,0
+19023,Harrison,MO,Daviess County,,city-us,151,39.817,-93.829,178
+19029,Harrison,MO,Grundy County,,city-us,101,40.177,-93.701,177
+19037,Harrison,NE,Knox County,,city-us,74,42.655,-97.779,195
+19065,Harrison,KS,Wallace County,,city-us,72,38.765,-101.567,0
+19035,Harrison,KS,Jewell County,,city-us,33,39.966,-98.203,538
+19044,Harrison,MT,Madison County,,city-us,33,45.701,-111.786,2457
+19060,Harrison,SD,Spink County,,city-us,28,44.755,-98.150,2049
+19024,Harrison,SD,Douglas County,,city-us,8,43.430,-98.527,2049
+19015,Harrison,WI,Calumet County,,city-us,0,44.214,-88.400,532
+19020,Harrison,WV,Clay County,,city-us,0,38.513,-80.953,123
+19047,Harrison,WV,Mineral County,,city-us,0,39.377,-79.204,284
+19063,Harrison,IN,Vigo County,,city-us,0,39.529,-87.422,429
+19070,Harrison,IL,Winnebago County,,city-us,0,42.427,-89.191,178

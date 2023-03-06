@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35912,Raritan,NJ,,city-us,23855,40.547,-74.896,13747
-35913,Raritan,NJ,,city-us,9096,40.570,-74.633,15497
-35911,Raritan,IL,,city-us,246,40.678,-90.846,739
-35909,Raritan,ND,,city-us,98,46.669,-97.732,132
-35910,Raritan,SD,,city-us,75,45.442,-97.541,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35912,Raritan,NJ,Hunterdon County,,city-us,23855,40.547,-74.896,13747
+35913,Raritan,NJ,Somerset County,,city-us,9096,40.570,-74.633,15497
+35911,Raritan,IL,Henderson County,,city-us,246,40.678,-90.846,739
+35909,Raritan,ND,Barnes County,,city-us,98,46.669,-97.732,132
+35910,Raritan,SD,Day County,,city-us,75,45.442,-97.541,0

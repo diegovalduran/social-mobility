@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19445,Hazel Dell,WA,,city-us,21650,45.672,-122.663,5204
-19446,Hazel Dell,TX,,city-us,0,31.882,-98.332,1906
-19447,Hazel Dell,IL,,city-us,0,39.202,-88.041,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19445,Hazel Dell,WA,Clark County,,city-us,21650,45.672,-122.663,5204
+19446,Hazel Dell,TX,Comanche County,,city-us,0,31.882,-98.332,1906
+19447,Hazel Dell,IL,Cumberland County,,city-us,0,39.202,-88.041,136

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20948,Huffman,WV,,city-us,0,39.068,-79.917,90
-20949,Huffman,VA,,city-us,0,37.348,-80.402,163
-20950,Huffman,TX,,city-us,0,30.027,-95.086,3681
-20951,Huffman,IN,,city-us,0,38.102,-86.777,415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20948,Huffman,WV,Barbour County,,city-us,0,39.068,-79.917,90
+20949,Huffman,VA,Craig County,,city-us,0,37.348,-80.402,163
+20950,Huffman,TX,Harris County,,city-us,0,30.027,-95.086,3681
+20951,Huffman,IN,Spencer County,,city-us,0,38.102,-86.777,415

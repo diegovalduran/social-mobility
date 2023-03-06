@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11761,Dickinson,ND,,city-us,25167,46.879,-102.790,10826
-11759,Dickinson,TX,,city-us,21697,29.461,-95.051,8779
-11757,Dickinson,PA,,city-us,5355,40.091,-77.264,2388
-11755,Dickinson,NY,,city-us,5036,42.130,-75.910,3212
-11758,Dickinson,NY,,city-us,930,44.728,-74.540,3536
-11756,Dickinson,AL,,city-us,0,31.763,-87.710,196
-11760,Dickinson,WV,,city-us,0,38.204,-81.502,333
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11761,Dickinson,ND,Stark County,,city-us,25167,46.879,-102.790,10826
+11759,Dickinson,TX,Galveston County,,city-us,21697,29.461,-95.051,8779
+11757,Dickinson,PA,Cumberland County,,city-us,5355,40.091,-77.264,2388
+11755,Dickinson,NY,Broome County,,city-us,5036,42.130,-75.910,3212
+11758,Dickinson,NY,Franklin County,,city-us,930,44.728,-74.540,3536
+11756,Dickinson,AL,Clarke County,,city-us,0,31.763,-87.710,196
+11760,Dickinson,WV,Kanawha County,,city-us,0,38.204,-81.502,333

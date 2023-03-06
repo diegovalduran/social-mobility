@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15899,Freeland,MI,,city-us,7630,43.525,-84.123,4772
-15897,Freeland,PA,,city-us,3815,41.017,-75.897,6660
-15895,Freeland,WA,,city-us,1997,48.010,-122.526,4939
-15896,Freeland,MN,,city-us,89,44.849,-96.277,1779
-15894,Freeland,MD,,city-us,0,39.705,-76.684,153
-15898,Freeland,OH,,city-us,0,39.881,-81.775,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15899,Freeland,MI,Saginaw County,,city-us,7630,43.525,-84.123,4772
+15897,Freeland,PA,Luzerne County,,city-us,3815,41.017,-75.897,6660
+15895,Freeland,WA,Island County,,city-us,1997,48.010,-122.526,4939
+15896,Freeland,MN,Lac qui Parle County,,city-us,89,44.849,-96.277,1779
+15894,Freeland,MD,Baltimore County,,city-us,0,39.705,-76.684,153
+15898,Freeland,OH,Muskingum County,,city-us,0,39.881,-81.775,235

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23950,Lansdowne,VA,,city-us,13029,39.085,-77.484,2818
-23948,Lansdowne,PA,,city-us,11008,39.938,-75.272,8847
-23947,Lansdowne,MD,,city-us,9310,39.245,-76.661,5805
-23949,Lansdowne,NJ,,city-us,0,40.608,-74.906,445
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23950,Lansdowne,VA,Loudoun County,,city-us,13029,39.085,-77.484,2818
+23948,Lansdowne,PA,Delaware County,,city-us,11008,39.938,-75.272,8847
+23947,Lansdowne,MD,Baltimore County,,city-us,9310,39.245,-76.661,5805
+23949,Lansdowne,NJ,Hunterdon County,,city-us,0,40.608,-74.906,445

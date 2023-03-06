@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37818,Royal,IA,,city-us,382,43.066,-95.284,3009
-37817,Royal,IL,,city-us,286,40.193,-87.973,4310
-37819,Royal,KS,,city-us,245,37.877,-100.118,341
-37822,Royal,MN,,city-us,142,44.499,-96.270,1954
-37816,Royal,NE,,city-us,56,42.332,-98.126,3424
-37825,Royal,ND,,city-us,18,48.500,-98.790,0
-37820,Royal,NC,,city-us,0,36.015,-78.358,394
-37821,Royal,AR,,city-us,0,34.511,-93.241,221
-37823,Royal,MO,,city-us,0,38.128,-91.580,341
-37824,Royal,WV,,city-us,0,37.853,-81.068,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37818,Royal,IA,Clay County,,city-us,382,43.066,-95.284,3009
+37817,Royal,IL,Champaign County,,city-us,286,40.193,-87.973,4310
+37819,Royal,KS,Ford County,,city-us,245,37.877,-100.118,341
+37822,Royal,MN,Lincoln County,,city-us,142,44.499,-96.270,1954
+37816,Royal,NE,Antelope County,,city-us,56,42.332,-98.126,3424
+37825,Royal,ND,Ramsey County,,city-us,18,48.500,-98.790,0
+37820,Royal,NC,Franklin County,,city-us,0,36.015,-78.358,394
+37821,Royal,AR,Garland County,,city-us,0,34.511,-93.241,221
+37823,Royal,MO,Phelps County,,city-us,0,38.128,-91.580,341
+37824,Royal,WV,Raleigh County,,city-us,0,37.853,-81.068,88

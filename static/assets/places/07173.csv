@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36299,Rennes,,France,city-international,217728,48.115,-1.679,23016
-47796,Wrens,GA,,city-us,2180,33.208,-82.392,3043
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36299,Rennes,,,France,city-international,217728,48.115,-1.679,23016
+47796,Wrens,GA,Jefferson County,,city-us,2180,33.208,-82.392,3043

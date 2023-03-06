@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39891,Silver Springs,NV,,city-us,4684,39.415,-119.225,2833
-39892,Silver Springs,FL,,city-us,2844,29.216,-82.058,3608
-39894,Silver Springs,NY,,city-us,727,42.661,-78.086,2252
-39890,Silver Springs,AK,,city-us,134,62.019,-145.358,1880
-39893,Silver Springs,MO,,city-us,0,37.999,-90.525,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39891,Silver Springs,NV,Lyon County,,city-us,4684,39.415,-119.225,2833
+39892,Silver Springs,FL,Marion County,,city-us,2844,29.216,-82.058,3608
+39894,Silver Springs,NY,Wyoming County,,city-us,727,42.661,-78.086,2252
+39890,Silver Springs,AK,Copper River Census Area,,city-us,134,62.019,-145.358,1880
+39893,Silver Springs,MO,St. Francois County,,city-us,0,37.999,-90.525,272

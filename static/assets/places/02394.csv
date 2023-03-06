@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11978,Donnelly,ID,,city-us,260,44.731,-116.078,4536
-11976,Donnelly,MN,,city-us,90,45.724,-96.078,173
-11975,Donnelly,MN,,city-us,20,48.500,-96.977,173
-11977,Donnelly,AK,,city-us,0,63.674,-145.883,660
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11978,Donnelly,ID,Valley County,,city-us,260,44.731,-116.078,4536
+11976,Donnelly,MN,Stevens County,,city-us,90,45.724,-96.078,173
+11975,Donnelly,MN,Marshall County,,city-us,20,48.500,-96.977,173
+11977,Donnelly,AK,Unorganized Borough,,city-us,0,63.674,-145.883,660

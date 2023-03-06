@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15343,Forest Glen,MD,,city-us,6942,39.015,-77.055,5328
-15342,Forest Glen,IN,,city-us,0,41.327,-85.764,202
-15344,Forest Glen,CA,,city-us,0,40.373,-123.325,4277
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15343,Forest Glen,MD,Montgomery County,,city-us,6942,39.015,-77.055,5328
+15342,Forest Glen,IN,Kosciusko County,,city-us,0,41.327,-85.764,202
+15344,Forest Glen,CA,Trinity County,,city-us,0,40.373,-123.325,4277

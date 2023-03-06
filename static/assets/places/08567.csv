@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43065,Togo,,,country,8703961,8.620,0.825,32039
-43063,Togo,TX,,city-us,0,29.951,-97.219,141
-43064,Togo,MN,,city-us,0,47.821,-93.156,2276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43065,Togo,,,,country,8703961,8.620,0.825,32039
+43063,Togo,TX,Bastrop County,,city-us,0,29.951,-97.219,141
+43064,Togo,MN,Itasca County,,city-us,0,47.821,-93.156,2276

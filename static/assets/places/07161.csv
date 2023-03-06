@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36249,Rehobeth,AL,,city-us,1821,31.123,-85.453,4026
-36250,Rehobeth,MD,,city-us,0,38.039,-75.663,432
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36249,Rehobeth,AL,Houston County,,city-us,1821,31.123,-85.453,4026
+36250,Rehobeth,MD,Somerset County,,city-us,0,38.039,-75.663,432

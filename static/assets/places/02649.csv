@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13137,El Portal,FL,,city-us,1932,25.855,-80.193,4569
-13136,El Portal,CA,,city-us,363,37.675,-119.784,3512
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13137,El Portal,FL,Miami-Dade County,,city-us,1932,25.855,-80.193,4569
+13136,El Portal,CA,Mariposa County,,city-us,363,37.675,-119.784,3512

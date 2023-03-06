@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6435,Cadmus,MI,,city-us,1787,41.851,-84.169,2428
-6436,Cadmus,KS,,city-us,0,38.346,-94.899,306
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6435,Cadmus,MI,Lenawee County,,city-us,1787,41.851,-84.169,2428
+6436,Cadmus,KS,Linn County,,city-us,0,38.346,-94.899,306

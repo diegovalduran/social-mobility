@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41767,Stuart,FL,,city-us,17531,27.198,-80.253,10118
-41764,Stuart,IA,,city-us,1795,41.500,-94.318,4701
-41768,Stuart,VA,,city-us,1346,36.641,-80.266,11083
-41765,Stuart,NE,,city-us,793,42.588,-99.158,294
-41461,Stewart,PA,,city-us,610,39.876,-79.481,3117
-41466,Stewart,MN,,city-us,482,44.725,-94.486,3064
-41766,Stuart,OK,,city-us,197,34.901,-96.099,4238
-41467,Stewart,MS,,city-us,99,33.451,-89.436,838
-41469,Stewart,SD,,city-us,81,43.126,-99.712,0
-41460,Stewart,ND,,city-us,70,47.023,-98.150,132
-41464,Stewart,ND,,city-us,20,47.284,-99.910,0
-41468,Stewart,TX,,city-us,15,32.298,-94.648,720
-41459,Stewart,OH,,city-us,0,39.308,-81.894,619
-41462,Stewart,AL,,city-us,0,32.911,-87.706,654
-41463,Stewart,TN,,city-us,0,36.321,-87.841,108
-41465,Stewart,MN,,city-us,0,47.103,-91.709,556
-41470,Stewart,IN,,city-us,0,40.360,-87.476,714
-41471,Stewart,WV,,city-us,0,39.242,-81.516,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41767,Stuart,FL,Martin County,,city-us,17531,27.198,-80.253,10118
+41764,Stuart,IA,Adair County / Guthrie County,,city-us,1795,41.500,-94.318,4701
+41768,Stuart,VA,Patrick County,,city-us,1346,36.641,-80.266,11083
+41765,Stuart,NE,Holt County,,city-us,793,42.588,-99.158,294
+41461,Stewart,PA,Fayette County,,city-us,610,39.876,-79.481,3117
+41466,Stewart,MN,McLeod County,,city-us,482,44.725,-94.486,3064
+41766,Stuart,OK,Hughes County,,city-us,197,34.901,-96.099,4238
+41467,Stewart,MS,Montgomery County,,city-us,99,33.451,-89.436,838
+41469,Stewart,SD,Tripp County,,city-us,81,43.126,-99.712,0
+41460,Stewart,ND,Barnes County,,city-us,70,47.023,-98.150,132
+41464,Stewart,ND,Kidder County,,city-us,20,47.284,-99.910,0
+41468,Stewart,TX,Rusk County,,city-us,15,32.298,-94.648,720
+41459,Stewart,OH,Athens County,,city-us,0,39.308,-81.894,619
+41462,Stewart,AL,Hale County,,city-us,0,32.911,-87.706,654
+41463,Stewart,TN,Houston County,,city-us,0,36.321,-87.841,108
+41465,Stewart,MN,Lake County,,city-us,0,47.103,-91.709,556
+41470,Stewart,IN,Warren County,,city-us,0,40.360,-87.476,714
+41471,Stewart,WV,Wood County,,city-us,0,39.242,-81.516,86

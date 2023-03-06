@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11983,Dooley,AR,,city-us,0,33.469,-93.858,163
-11984,Dooley,VA,,city-us,0,36.931,-82.654,130
-11985,Doolie,NC,,city-us,0,35.602,-80.897,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11983,Dooley,AR,Miller County,,city-us,0,33.469,-93.858,163
+11984,Dooley,VA,Wise County,,city-us,0,36.931,-82.654,130
+11985,Doolie,NC,Iredell County,,city-us,0,35.602,-80.897,225

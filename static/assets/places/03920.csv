@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20043,Hill City,KS,,city-us,1518,39.400,-99.816,672
-20044,Hill City,SD,,city-us,922,43.932,-103.575,20783
-20040,Hill City,MN,,city-us,619,46.993,-93.599,5059
-20041,Hill City,ID,,city-us,26,43.301,-115.051,884
-20042,Hill City,GA,,city-us,0,34.599,-85.006,349
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20043,Hill City,KS,Graham County,,city-us,1518,39.400,-99.816,672
+20044,Hill City,SD,Pennington County,,city-us,922,43.932,-103.575,20783
+20040,Hill City,MN,Aitkin County,,city-us,619,46.993,-93.599,5059
+20041,Hill City,ID,Camas County,,city-us,26,43.301,-115.051,884
+20042,Hill City,GA,Gordon County,,city-us,0,34.599,-85.006,349

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40428,South Troy,MO,,city-us,0,38.957,-90.994,87
-40429,South Troy,MN,,city-us,0,44.206,-92.433,1083
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40428,South Troy,MO,Lincoln County,,city-us,0,38.957,-90.994,87
+40429,South Troy,MN,Wabasha County,,city-us,0,44.206,-92.433,1083

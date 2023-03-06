@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9120,Coalwood,MI,,city-us,1019,46.353,-86.752,4214
-9121,Coalwood,WV,,city-us,900,37.387,-81.653,3499
-9122,Coalwood,MT,,city-us,0,45.728,-105.591,683
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9120,Coalwood,MI,Alger County,,city-us,1019,46.353,-86.752,4214
+9121,Coalwood,WV,McDowell County,,city-us,900,37.387,-81.653,3499
+9122,Coalwood,MT,Powder River County,,city-us,0,45.728,-105.591,683

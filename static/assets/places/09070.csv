@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45770,Weed,CA,,city-us,2873,41.423,-122.386,16803
-45768,Weed,NM,,city-us,112,32.803,-105.517,4256
-45767,Weed,KY,,city-us,0,37.039,-85.471,358
-45769,Weed,AR,,city-us,0,35.540,-90.427,204
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45770,Weed,CA,Siskiyou County,,city-us,2873,41.423,-122.386,16803
+45768,Weed,NM,Otero County,,city-us,112,32.803,-105.517,4256
+45767,Weed,KY,Adair County,,city-us,0,37.039,-85.471,358
+45769,Weed,AR,Poinsett County,,city-us,0,35.540,-90.427,204

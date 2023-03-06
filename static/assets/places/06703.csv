@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34062,Pilsen,WI,,city-us,217,46.569,-91.176,1758
-34063,Pilsen,WI,,city-us,210,44.444,-87.725,1758
-34064,Pilsen,KS,,city-us,65,38.471,-97.040,5295
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34062,Pilsen,WI,Bayfield County,,city-us,217,46.569,-91.176,1758
+34063,Pilsen,WI,Kewaunee County,,city-us,210,44.444,-87.725,1758
+34064,Pilsen,KS,Marion County,,city-us,65,38.471,-97.040,5295

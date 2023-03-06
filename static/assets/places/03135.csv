@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15772,Franklin Square,NY,,city-us,32381,40.707,-73.676,11472
-15771,Franklin Square,OH,,city-us,0,40.856,-80.792,302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15772,Franklin Square,NY,Nassau County,,city-us,32381,40.707,-73.676,11472
+15771,Franklin Square,OH,Columbiana County,,city-us,0,40.856,-80.792,302

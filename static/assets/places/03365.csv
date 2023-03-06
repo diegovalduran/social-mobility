@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17028,Glenrock,WY,,city-us,2407,42.861,-105.872,6947
-17029,Glenrock,NE,,city-us,0,40.444,-95.891,282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17028,Glenrock,WY,Converse County,,city-us,2407,42.861,-105.872,6947
+17029,Glenrock,NE,Nemaha County,,city-us,0,40.444,-95.891,282

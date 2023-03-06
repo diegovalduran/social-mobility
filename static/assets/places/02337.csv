@@ -1,23 +1,23 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11866,Dixon,CA,,city-us,18974,38.445,-121.823,9984
-11859,Dixon,IL,,city-us,17467,41.868,-89.459,1009
-11763,Dickson,TN,,city-us,16085,36.077,-87.388,4710
-11762,Dickson,OK,,city-us,1338,34.187,-96.984,3319
-11861,Dixon,MO,,city-us,1226,37.992,-92.094,4670
-11852,Dixon,MI,,city-us,1019,46.353,-86.752,4214
-11765,Dickson,MI,,city-us,982,44.299,-85.946,2736
-11869,Dixon,KY,,city-us,890,37.518,-87.690,3231
-11862,Dixon,NM,,city-us,655,36.199,-105.889,3480
-11867,Dixon,KS,,city-us,600,37.256,-97.747,0
-11860,Dixon,OH,,city-us,542,39.699,-84.761,1307
-11863,Dixon,MT,,city-us,309,47.317,-114.314,2289
-11864,Dixon,IA,,city-us,202,41.743,-90.782,2998
-11865,Dixon,OK,,city-us,173,35.160,-96.522,265
-11858,Dixon,SD,,city-us,127,44.667,-97.421,276
-11855,Dixon,NE,,city-us,78,42.416,-96.997,2775
-11854,Dixon,WY,,city-us,77,41.033,-107.536,3129
-11764,Dickson,WV,,city-us,0,37.769,-80.346,175
-11853,Dixon,IN,,city-us,0,40.950,-84.803,224
-11856,Dixon,IN,,city-us,0,39.071,-87.033,244
-11857,Dixon,SD,,city-us,0,43.383,-99.473,276
-11868,Dixon,OH,,city-us,0,40.950,-84.803,224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11866,Dixon,CA,Solano County,,city-us,18974,38.445,-121.823,9984
+11859,Dixon,IL,Lee County,,city-us,17467,41.868,-89.459,1009
+11763,Dickson,TN,Dickson County,,city-us,16085,36.077,-87.388,4710
+11762,Dickson,OK,Carter County,,city-us,1338,34.187,-96.984,3319
+11861,Dixon,MO,Pulaski County,,city-us,1226,37.992,-92.094,4670
+11852,Dixon,MI,Alger County,,city-us,1019,46.353,-86.752,4214
+11765,Dickson,MI,Manistee County,,city-us,982,44.299,-85.946,2736
+11869,Dixon,KY,Webster County,,city-us,890,37.518,-87.690,3231
+11862,Dixon,NM,Rio Arriba County,,city-us,655,36.199,-105.889,3480
+11867,Dixon,KS,Sumner County,,city-us,600,37.256,-97.747,0
+11860,Dixon,OH,Preble County,,city-us,542,39.699,-84.761,1307
+11863,Dixon,MT,Sanders County,,city-us,309,47.317,-114.314,2289
+11864,Dixon,IA,Scott County,,city-us,202,41.743,-90.782,2998
+11865,Dixon,OK,Seminole County,,city-us,173,35.160,-96.522,265
+11858,Dixon,SD,Hamlin County,,city-us,127,44.667,-97.421,276
+11855,Dixon,NE,Dixon County,,city-us,78,42.416,-96.997,2775
+11854,Dixon,WY,Carbon County,,city-us,77,41.033,-107.536,3129
+11764,Dickson,WV,Greenbrier County,,city-us,0,37.769,-80.346,175
+11853,Dixon,IN,Allen County,,city-us,0,40.950,-84.803,224
+11856,Dixon,IN,Greene County,,city-us,0,39.071,-87.033,244
+11857,Dixon,SD,Gregory County,,city-us,0,43.383,-99.473,276
+11868,Dixon,OH,Van Wert County,,city-us,0,40.950,-84.803,224

@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40103,Smithfield,RI,,city-us,21838,41.901,-71.529,6386
-40090,Smithfield,UT,,city-us,14067,41.838,-111.833,3249
-40100,Smithfield,NC,,city-us,11630,35.508,-78.339,5463
-40097,Smithfield,VA,,city-us,8693,36.982,-76.631,8037
-40102,Smithfield,PA,,city-us,8042,41.023,-75.133,403
-40096,Smithfield,PA,,city-us,4431,40.478,-78.029,403
-40089,Smithfield,PA,,city-us,1459,41.853,-76.610,403
-40101,Smithfield,NY,,city-us,1116,42.965,-75.664,2927
-40104,Smithfield,ME,,city-us,936,44.642,-69.800,3218
-40099,Smithfield,OH,,city-us,869,40.271,-80.781,4122
-40092,Smithfield,PA,,city-us,817,39.803,-79.808,2105
-40093,Smithfield,IL,,city-us,183,40.473,-90.292,2569
-40095,Smithfield,KY,,city-us,121,38.387,-85.257,2019
-40105,Smithfield,WV,,city-us,101,39.500,-80.562,2966
-40094,Smithfield,NE,,city-us,59,40.573,-99.742,3026
-40091,Smithfield,IN,,city-us,0,40.170,-85.269,285
-40098,Smithfield,MO,,city-us,0,37.169,-94.603,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40103,Smithfield,RI,Providence County,,city-us,21838,41.901,-71.529,6386
+40090,Smithfield,UT,Cache County,,city-us,14067,41.838,-111.833,3249
+40100,Smithfield,NC,Johnston County,,city-us,11630,35.508,-78.339,5463
+40097,Smithfield,VA,Isle of Wight County,,city-us,8693,36.982,-76.631,8037
+40102,Smithfield,PA,Monroe County,,city-us,8042,41.023,-75.133,403
+40096,Smithfield,PA,Huntingdon County,,city-us,4431,40.478,-78.029,403
+40089,Smithfield,PA,Bradford County,,city-us,1459,41.853,-76.610,403
+40101,Smithfield,NY,Madison County,,city-us,1116,42.965,-75.664,2927
+40104,Smithfield,ME,Somerset County,,city-us,936,44.642,-69.800,3218
+40099,Smithfield,OH,Jefferson County,,city-us,869,40.271,-80.781,4122
+40092,Smithfield,PA,Fayette County,,city-us,817,39.803,-79.808,2105
+40093,Smithfield,IL,Fulton County,,city-us,183,40.473,-90.292,2569
+40095,Smithfield,KY,Henry County,,city-us,121,38.387,-85.257,2019
+40105,Smithfield,WV,Wetzel County,,city-us,101,39.500,-80.562,2966
+40094,Smithfield,NE,Gosper County,,city-us,59,40.573,-99.742,3026
+40091,Smithfield,IN,Delaware County,,city-us,0,40.170,-85.269,285
+40098,Smithfield,MO,Jasper County,,city-us,0,37.169,-94.603,242

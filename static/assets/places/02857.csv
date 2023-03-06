@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14214,Fabius,MI,,city-us,3300,41.939,-85.699,1996
-14213,Fabius,NY,,city-us,332,42.835,-75.986,3862
-14211,Fabius,WV,,city-us,0,39.094,-78.837,204
-14212,Fabius,MO,,city-us,0,40.289,-92.138,490
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14214,Fabius,MI,St. Joseph County,,city-us,3300,41.939,-85.699,1996
+14213,Fabius,NY,Onondaga County,,city-us,332,42.835,-75.986,3862
+14211,Fabius,WV,Hardy County,,city-us,0,39.094,-78.837,204
+14212,Fabius,MO,Knox County,,city-us,0,40.289,-92.138,490

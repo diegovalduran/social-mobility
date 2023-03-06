@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24905,Limestone,IL,,city-us,18089,40.668,-89.702,239
-24900,Limestone,IL,,city-us,4930,41.129,-87.959,239
-24902,Limestone,PA,,city-us,1961,41.139,-77.159,340
-24907,Limestone,PA,,city-us,1716,40.895,-77.021,340
-24894,Limestone,ME,,city-us,1529,46.907,-67.863,5281
-24904,Limestone,PA,,city-us,995,41.064,-76.733,340
-24906,Limestone,OK,,city-us,611,36.316,-95.749,1978
-24895,Limestone,NY,,city-us,484,42.027,-78.629,3508
-24893,Limestone,MI,,city-us,438,46.229,-87.017,4057
-24908,Limestone,PA,,city-us,308,41.672,-79.328,340
-24898,Limestone,FL,,city-us,157,27.366,-81.899,411
-24901,Limestone,MN,,city-us,133,44.496,-96.130,1927
-24899,Limestone,KS,,city-us,49,39.779,-98.329,825
-24896,Limestone,PA,,city-us,0,41.129,-79.327,225
-24897,Limestone,TN,,city-us,0,36.228,-82.631,2087
-24903,Limestone,WV,,city-us,0,39.934,-80.645,172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24905,Limestone,IL,Peoria County,,city-us,18089,40.668,-89.702,239
+24900,Limestone,IL,Kankakee County,,city-us,4930,41.129,-87.959,239
+24902,Limestone,PA,Lycoming County,,city-us,1961,41.139,-77.159,340
+24907,Limestone,PA,Union County,,city-us,1716,40.895,-77.021,340
+24894,Limestone,ME,Aroostook County,,city-us,1529,46.907,-67.863,5281
+24904,Limestone,PA,Montour County,,city-us,995,41.064,-76.733,340
+24906,Limestone,OK,Rogers County,,city-us,611,36.316,-95.749,1978
+24895,Limestone,NY,Cattaraugus County,,city-us,484,42.027,-78.629,3508
+24893,Limestone,MI,Alger County,,city-us,438,46.229,-87.017,4057
+24908,Limestone,PA,Warren County,,city-us,308,41.672,-79.328,340
+24898,Limestone,FL,Hardee County,,city-us,157,27.366,-81.899,411
+24901,Limestone,MN,Lincoln County,,city-us,133,44.496,-96.130,1927
+24899,Limestone,KS,Jewell County,,city-us,49,39.779,-98.329,825
+24896,Limestone,PA,Clarion County,,city-us,0,41.129,-79.327,225
+24897,Limestone,TN,Greene County,,city-us,0,36.228,-82.631,2087
+24903,Limestone,WV,Marshall County,,city-us,0,39.934,-80.645,172

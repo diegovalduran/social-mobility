@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23198,Knob Lick,MO,,city-us,147,37.664,-90.386,885
-23195,Knob Lick,KY,,city-us,0,37.500,-84.868,109
-23196,Knob Lick,KY,,city-us,0,37.630,-84.108,129
-23197,Knob Lick,KY,,city-us,0,37.078,-85.694,739
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23198,Knob Lick,MO,St. Francois County,,city-us,147,37.664,-90.386,885
+23195,Knob Lick,KY,Casey County,,city-us,0,37.500,-84.868,109
+23196,Knob Lick,KY,Estill County,,city-us,0,37.630,-84.108,129
+23197,Knob Lick,KY,Metcalfe County,,city-us,0,37.078,-85.694,739

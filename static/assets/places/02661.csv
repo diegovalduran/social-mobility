@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13363,Elko,NV,,city-us,20613,40.832,-115.763,12406
-13179,Elco,PA,,city-us,261,40.078,-79.869,2466
-13362,Elko,SC,,city-us,141,33.380,-81.380,1919
-13178,Elco,IL,,city-us,0,37.301,-89.266,243
-13364,Elko,GA,,city-us,0,32.331,-83.706,3146
-13365,Elko,MO,,city-us,0,40.415,-92.865,268
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13363,Elko,NV,Elko County,,city-us,20613,40.832,-115.763,12406
+13179,Elco,PA,Washington County,,city-us,261,40.078,-79.869,2466
+13362,Elko,SC,Barnwell County,,city-us,141,33.380,-81.380,1919
+13178,Elco,IL,Alexander County,,city-us,0,37.301,-89.266,243
+13364,Elko,GA,Houston County,,city-us,0,32.331,-83.706,3146
+13365,Elko,MO,Putnam County,,city-us,0,40.415,-92.865,268

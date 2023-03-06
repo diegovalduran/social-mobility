@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17344,Gould,AR,,city-us,684,33.985,-91.561,7157
-17339,Gould,MN,,city-us,232,47.201,-94.205,2418
-17341,Gould,OK,,city-us,98,34.671,-99.771,1893
-17340,Gould,TX,,city-us,0,32.056,-95.151,831
-17342,Gould,CO,,city-us,0,40.526,-106.027,3430
-17343,Gould,OH,,city-us,0,40.318,-80.653,245
-17345,Gould,WV,,city-us,0,38.901,-80.255,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17344,Gould,AR,Lincoln County,,city-us,684,33.985,-91.561,7157
+17339,Gould,MN,Cass County,,city-us,232,47.201,-94.205,2418
+17341,Gould,OK,Harmon County,,city-us,98,34.671,-99.771,1893
+17340,Gould,TX,Cherokee County,,city-us,0,32.056,-95.151,831
+17342,Gould,CO,Jackson County,,city-us,0,40.526,-106.027,3430
+17343,Gould,OH,Jefferson County,,city-us,0,40.318,-80.653,245
+17345,Gould,WV,Upshur County,,city-us,0,38.901,-80.255,86

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45096,Wanda,MN,,city-us,72,44.316,-95.212,2983
-45093,Wanda,WV,,city-us,0,37.859,-81.928,236
-45094,Wanda,IL,,city-us,0,38.834,-90.039,82
-45095,Wanda,MO,,city-us,0,36.811,-94.200,411
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45096,Wanda,MN,Redwood County,,city-us,72,44.316,-95.212,2983
+45093,Wanda,WV,Logan County,,city-us,0,37.859,-81.928,236
+45094,Wanda,IL,Madison County,,city-us,0,38.834,-90.039,82
+45095,Wanda,MO,Newton County,,city-us,0,36.811,-94.200,411

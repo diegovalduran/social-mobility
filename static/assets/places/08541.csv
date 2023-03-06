@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42980,Timothy,MN,,city-us,174,46.767,-94.224,1815
-42981,Timothy,IL,,city-us,0,39.303,-88.129,133
-42982,Timothy,TN,,city-us,0,36.442,-85.345,314
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42980,Timothy,MN,Crow Wing County,,city-us,174,46.767,-94.224,1815
+42981,Timothy,IL,Cumberland County,,city-us,0,39.303,-88.129,133
+42982,Timothy,TN,Overton County,,city-us,0,36.442,-85.345,314

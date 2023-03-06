@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15936,Freetown,,Sierra Leone,city-international,951000,8.483,-13.233,27731
-15933,Freetown,MA,,city-us,9202,41.779,-71.020,19891
-15934,Freetown,NY,,city-us,764,42.520,-76.023,2784
-15935,Freetown,IN,,city-us,378,38.973,-86.129,910
-15932,Freetown,VA,,city-us,0,38.048,-78.712,234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15936,Freetown,,,Sierra Leone,city-international,951000,8.483,-13.233,27731
+15933,Freetown,MA,Bristol County,,city-us,9202,41.779,-71.020,19891
+15934,Freetown,NY,Cortland County,,city-us,764,42.520,-76.023,2784
+15935,Freetown,IN,Jackson County,,city-us,378,38.973,-86.129,910
+15932,Freetown,VA,Albemarle County,,city-us,0,38.048,-78.712,234

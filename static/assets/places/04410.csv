@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22772,Kentuck,WV,,city-us,0,38.656,-81.590,384
-22773,Kentuck,VA,,city-us,0,36.660,-79.298,114
-22774,Kentuck,AL,,city-us,0,33.531,-85.831,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22772,Kentuck,WV,Jackson County,,city-us,0,38.656,-81.590,384
+22773,Kentuck,VA,Pittsylvania County,,city-us,0,36.660,-79.298,114
+22774,Kentuck,AL,Talladega County,,city-us,0,33.531,-85.831,110

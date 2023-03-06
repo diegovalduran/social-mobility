@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6416,Cache,OK,,city-us,2993,34.630,-98.629,3404
-7196,Cash,MI,,city-us,1376,43.373,-82.818,3207
-7190,Cash,SC,,city-us,445,34.619,-79.877,593
-7191,Cash,AR,,city-us,281,35.794,-90.937,2440
-6415,Cache,UT,,city-us,106,41.829,-112.006,1850
-7197,Cash,ND,,city-us,36,46.323,-103.491,0
-7195,Cash,SD,,city-us,16,45.599,-102.629,134
-6414,Cache,IL,,city-us,0,37.100,-89.261,531
-6417,Cache,ID,,city-us,0,43.788,-111.163,350
-7192,Cash,GA,,city-us,0,34.490,-84.819,370
-7193,Cash,KY,,city-us,0,37.444,-86.003,217
-7194,Cash,TX,,city-us,0,32.994,-96.108,1536
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6416,Cache,OK,Comanche County,,city-us,2993,34.630,-98.629,3404
+7196,Cash,MI,Sanilac County,,city-us,1376,43.373,-82.818,3207
+7190,Cash,SC,Chesterfield County,,city-us,445,34.619,-79.877,593
+7191,Cash,AR,Craighead County,,city-us,281,35.794,-90.937,2440
+6415,Cache,UT,Cache County,,city-us,106,41.829,-112.006,1850
+7197,Cash,ND,Slope County,,city-us,36,46.323,-103.491,0
+7195,Cash,SD,Perkins County,,city-us,16,45.599,-102.629,134
+6414,Cache,IL,Alexander County,,city-us,0,37.100,-89.261,531
+6417,Cache,ID,Teton County,,city-us,0,43.788,-111.163,350
+7192,Cash,GA,Gordon County,,city-us,0,34.490,-84.819,370
+7193,Cash,KY,Hart County,,city-us,0,37.444,-86.003,217
+7194,Cash,TX,Hunt County,,city-us,0,32.994,-96.108,1536

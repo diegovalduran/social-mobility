@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11256,Decaturville,TN,,city-us,793,35.584,-88.119,2054
-11255,Decaturville,MO,,city-us,0,37.908,-92.700,541
-11257,Decaturville,OH,,city-us,0,39.335,-81.755,346
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11256,Decaturville,TN,Decatur County,,city-us,793,35.584,-88.119,2054
+11255,Decaturville,MO,Camden County,,city-us,0,37.908,-92.700,541
+11257,Decaturville,OH,Washington County,,city-us,0,39.335,-81.755,346

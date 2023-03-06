@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37006,Roann,IN,,city-us,431,40.912,-85.924,3533
-37005,Roane,VA,,city-us,0,37.448,-76.705,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37006,Roann,IN,Wabash County,,city-us,431,40.912,-85.924,3533
+37005,Roane,VA,King and Queen County,,city-us,0,37.448,-76.705,89

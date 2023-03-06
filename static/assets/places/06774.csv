@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34395,Plain City,UT,,city-us,8147,41.298,-112.086,3926
-34394,Plain City,OH,,city-us,4425,40.108,-83.274,7331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34395,Plain City,UT,Weber County,,city-us,8147,41.298,-112.086,3926
+34394,Plain City,OH,Madison County / Union County,,city-us,4425,40.108,-83.274,7331

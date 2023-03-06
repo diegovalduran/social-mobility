@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9700,Constantine,,Algeria,city-international,448374,36.365,6.615,9526
-9699,Constantine,MI,,city-us,4007,41.848,-85.700,2162
-9698,Constantine,KY,,city-us,0,37.675,-86.236,129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9700,Constantine,,,Algeria,city-international,448374,36.365,6.615,9526
+9699,Constantine,MI,St. Joseph County,,city-us,4007,41.848,-85.700,2162
+9698,Constantine,KY,Breckinridge County,,city-us,0,37.675,-86.236,129

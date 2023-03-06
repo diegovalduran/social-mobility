@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39698,Shirley,NY,,city-us,28059,40.801,-72.868,3528
-39695,Shirley,MA,,city-us,7279,42.574,-71.641,7016
-39693,Shirley,PA,,city-us,2407,40.345,-77.839,2224
-39692,Shirley,IN,,city-us,826,39.891,-85.580,3435
-39694,Shirley,IL,,city-us,378,40.407,-89.063,1203
-39696,Shirley,ME,,city-us,262,45.358,-69.630,2975
-39700,Shirley,AR,,city-us,242,35.656,-92.319,2279
-39691,Shirley,KS,,city-us,146,39.532,-97.435,566
-39690,Shirley,WI,,city-us,0,44.357,-87.948,301
-39697,Shirley,MN,,city-us,0,47.869,-96.614,141
-39699,Shirley,WV,,city-us,0,39.398,-80.765,234
-39701,Shirley,MO,,city-us,0,37.915,-90.919,509
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39698,Shirley,NY,Suffolk County,,city-us,28059,40.801,-72.868,3528
+39695,Shirley,MA,Middlesex County,,city-us,7279,42.574,-71.641,7016
+39693,Shirley,PA,Huntingdon County,,city-us,2407,40.345,-77.839,2224
+39692,Shirley,IN,Hancock County / Henry County,,city-us,826,39.891,-85.580,3435
+39694,Shirley,IL,McLean County,,city-us,378,40.407,-89.063,1203
+39696,Shirley,ME,Piscataquis County,,city-us,262,45.358,-69.630,2975
+39700,Shirley,AR,Van Buren County,,city-us,242,35.656,-92.319,2279
+39691,Shirley,KS,Cloud County,,city-us,146,39.532,-97.435,566
+39690,Shirley,WI,Brown County,,city-us,0,44.357,-87.948,301
+39697,Shirley,MN,Polk County,,city-us,0,47.869,-96.614,141
+39699,Shirley,WV,Tyler County,,city-us,0,39.398,-80.765,234
+39701,Shirley,MO,Washington County,,city-us,0,37.915,-90.919,509

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37772,Rowan,IA,,city-us,120,42.741,-93.553,4359
-37776,Rowen,CA,,city-us,0,35.241,-118.577,143
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37772,Rowan,IA,Wright County,,city-us,120,42.741,-93.553,4359
+37776,Rowen,CA,Kern County,,city-us,0,35.241,-118.577,143

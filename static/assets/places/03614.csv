@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18370,Ha'il,,Saudi Arabia,city-international,385257,27.524,41.700,13160
-18438,Hale,MI,,city-us,3799,44.405,-83.780,2468
-18437,Hale,OH,,city-us,1545,40.535,-83.512,1405
-18441,Hale,WI,,city-us,988,44.466,-91.263,2001
-18440,Hale,MN,,city-us,920,44.931,-94.200,2009
-18435,Hale,MO,,city-us,371,39.604,-93.342,1843
-18442,Hale,IL,,city-us,323,40.930,-90.737,283
-18421,Haile,FL,,city-us,0,29.691,-82.573,225
-18436,Hale,KS,,city-us,0,37.235,-96.055,262
-18439,Hale,IA,,city-us,0,42.013,-91.059,236
-18443,Hale,CO,,city-us,0,39.631,-102.144,250
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18370,Ha'il,,,Saudi Arabia,city-international,385257,27.524,41.700,13160
+18438,Hale,MI,Iosco County,,city-us,3799,44.405,-83.780,2468
+18437,Hale,OH,Hardin County,,city-us,1545,40.535,-83.512,1405
+18441,Hale,WI,Trempealeau County,,city-us,988,44.466,-91.263,2001
+18440,Hale,MN,McLeod County,,city-us,920,44.931,-94.200,2009
+18435,Hale,MO,Carroll County,,city-us,371,39.604,-93.342,1843
+18442,Hale,IL,Warren County,,city-us,323,40.930,-90.737,283
+18421,Haile,FL,Alachua County,,city-us,0,29.691,-82.573,225
+18436,Hale,KS,Chautauqua County,,city-us,0,37.235,-96.055,262
+18439,Hale,IA,Jones County,,city-us,0,42.013,-91.059,236
+18443,Hale,CO,Yuma County,,city-us,0,39.631,-102.144,250

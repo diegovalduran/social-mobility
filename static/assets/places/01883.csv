@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9652,Congleton,KY,,city-us,0,37.552,-83.717,114
-9653,Congleton,KY,,city-us,0,37.609,-87.449,209
-9654,Congleton,NC,,city-us,0,35.752,-77.231,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9652,Congleton,KY,Lee County,,city-us,0,37.552,-83.717,114
+9653,Congleton,KY,McLean County,,city-us,0,37.609,-87.449,209
+9654,Congleton,NC,Pitt County,,city-us,0,35.752,-77.231,139

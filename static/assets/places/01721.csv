@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8759,Clearwater,FL,,city-us,116674,27.966,-82.800,20549
-8750,Clearwater,SC,,city-us,3985,33.497,-81.892,3075
-8760,Clearwater,KS,,city-us,2626,37.503,-97.504,3914
-8756,Clearwater,MI,,city-us,2512,44.811,-85.271,5689
-8762,Clearwater,MN,,city-us,2083,45.410,-94.045,4103
-8763,Clearwater,MN,,city-us,1388,45.366,-94.045,2190
-8751,Clearwater,NE,,city-us,320,42.170,-98.188,3372
-8757,Clearwater,SD,,city-us,227,43.979,-97.430,0
-8758,Clearwater,ND,,city-us,26,48.418,-102.303,0
-8752,Clearwater,OR,,city-us,0,43.263,-122.422,293
-8753,Clearwater,TX,,city-us,0,33.000,-95.201,1601
-8754,Clearwater,ID,,city-us,0,46.023,-115.891,165
-8755,Clearwater,WA,,city-us,0,47.578,-124.293,620
-8761,Clearwater,MO,,city-us,0,37.766,-90.138,517
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8759,Clearwater,FL,Pinellas County,,city-us,116674,27.966,-82.800,20549
+8750,Clearwater,SC,Aiken County,,city-us,3985,33.497,-81.892,3075
+8760,Clearwater,KS,Sedgwick County,,city-us,2626,37.503,-97.504,3914
+8756,Clearwater,MI,Kalkaska County,,city-us,2512,44.811,-85.271,5689
+8762,Clearwater,MN,Stearns County / Wright County,,city-us,2083,45.410,-94.045,4103
+8763,Clearwater,MN,Wright County,,city-us,1388,45.366,-94.045,2190
+8751,Clearwater,NE,Antelope County,,city-us,320,42.170,-98.188,3372
+8757,Clearwater,SD,Miner County,,city-us,227,43.979,-97.430,0
+8758,Clearwater,ND,Mountrail County,,city-us,26,48.418,-102.303,0
+8752,Clearwater,OR,Douglas County,,city-us,0,43.263,-122.422,293
+8753,Clearwater,TX,Franklin County,,city-us,0,33.000,-95.201,1601
+8754,Clearwater,ID,Idaho County,,city-us,0,46.023,-115.891,165
+8755,Clearwater,WA,Jefferson County,,city-us,0,47.578,-124.293,620
+8761,Clearwater,MO,Ste. Genevieve County,,city-us,0,37.766,-90.138,517

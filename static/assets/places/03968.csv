@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20291,Hogeye,TX,,city-us,0,33.297,-96.163,281
-20292,Hogeye,AR,,city-us,0,35.920,-94.268,1409
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20291,Hogeye,TX,Hunt County,,city-us,0,33.297,-96.163,281
+20292,Hogeye,AR,Washington County,,city-us,0,35.920,-94.268,1409

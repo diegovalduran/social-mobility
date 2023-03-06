@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22122,Jerome,ID,,city-us,12555,42.724,-114.519,4116
-22123,Jerome,MI,,city-us,4597,43.683,-84.419,2016
-22120,Jerome,MI,,city-us,4532,42.051,-84.419,3612
-22126,Jerome,IL,,city-us,1670,39.768,-89.681,1932
-22127,Jerome,PA,,city-us,668,40.209,-78.984,28040
-22129,Jerome,AZ,,city-us,467,34.749,-112.114,24571
-22119,Jerome,KS,,city-us,122,38.771,-100.482,493
-22118,Jerome,AR,,city-us,24,33.400,-91.470,2118
-22116,Jerome,IA,,city-us,0,40.719,-93.028,156
-22117,Jerome,FL,,city-us,0,25.997,-81.347,387
-22121,Jerome,IN,,city-us,0,40.455,-85.931,378
-22124,Jerome,WV,,city-us,0,39.584,-78.457,1062
-22125,Jerome,MO,,city-us,0,37.926,-91.978,391
-22128,Jerome,OH,,city-us,0,40.166,-83.176,530
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22122,Jerome,ID,Jerome County,,city-us,12555,42.724,-114.519,4116
+22123,Jerome,MI,Midland County,,city-us,4597,43.683,-84.419,2016
+22120,Jerome,MI,Hillsdale County,,city-us,4532,42.051,-84.419,3612
+22126,Jerome,IL,Sangamon County,,city-us,1670,39.768,-89.681,1932
+22127,Jerome,PA,Somerset County,,city-us,668,40.209,-78.984,28040
+22129,Jerome,AZ,Yavapai County,,city-us,467,34.749,-112.114,24571
+22119,Jerome,KS,Gove County,,city-us,122,38.771,-100.482,493
+22118,Jerome,AR,Drew County,,city-us,24,33.400,-91.470,2118
+22116,Jerome,IA,Appanoose County,,city-us,0,40.719,-93.028,156
+22117,Jerome,FL,Collier County,,city-us,0,25.997,-81.347,387
+22121,Jerome,IN,Howard County,,city-us,0,40.455,-85.931,378
+22124,Jerome,WV,Morgan County,,city-us,0,39.584,-78.457,1062
+22125,Jerome,MO,Phelps County,,city-us,0,37.926,-91.978,391
+22128,Jerome,OH,Union County,,city-us,0,40.166,-83.176,530

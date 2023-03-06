@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9503,Comet,NC,,city-us,0,36.482,-81.554,115
-9504,Comet,MO,,city-us,0,37.397,-93.632,363
-9505,Comet,OH,,city-us,0,39.116,-82.551,391
-9506,Comet,AR,,city-us,0,33.684,-94.244,87
-9507,Comet,OH,,city-us,0,40.922,-81.526,356
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9503,Comet,NC,Ashe County,,city-us,0,36.482,-81.554,115
+9504,Comet,MO,Dade County,,city-us,0,37.397,-93.632,363
+9505,Comet,OH,Jackson County,,city-us,0,39.116,-82.551,391
+9506,Comet,AR,Little River County,,city-us,0,33.684,-94.244,87
+9507,Comet,OH,Summit County,,city-us,0,40.922,-81.526,356

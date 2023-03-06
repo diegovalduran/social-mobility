@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9551,Conasauga,TN,,city-us,0,35.330,-84.477,86
-9552,Conasauga,TN,,city-us,0,35.004,-84.729,623
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9551,Conasauga,TN,McMinn County,,city-us,0,35.330,-84.477,86
+9552,Conasauga,TN,Polk County,,city-us,0,35.004,-84.729,623

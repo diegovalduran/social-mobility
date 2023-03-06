@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14165,Ewing,NJ,,city-us,37264,40.270,-74.800,24551
-14160,Ewing,NE,,city-us,417,42.230,-98.365,300
-14163,Ewing,MO,,city-us,412,40.006,-91.714,3387
-14162,Ewing,VA,,city-us,394,36.637,-83.432,2691
-14159,Ewing,IL,,city-us,297,38.089,-88.852,2121
-14158,Ewing,KY,,city-us,230,38.427,-83.863,2350
-14164,Ewing,MI,,city-us,152,46.101,-87.294,1782
-14161,Ewing,IN,,city-us,0,38.885,-86.055,316
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14165,Ewing,NJ,Mercer County,,city-us,37264,40.270,-74.800,24551
+14160,Ewing,NE,Holt County,,city-us,417,42.230,-98.365,300
+14163,Ewing,MO,Lewis County,,city-us,412,40.006,-91.714,3387
+14162,Ewing,VA,Lee County,,city-us,394,36.637,-83.432,2691
+14159,Ewing,IL,Franklin County,,city-us,297,38.089,-88.852,2121
+14158,Ewing,KY,Fleming County,,city-us,230,38.427,-83.863,2350
+14164,Ewing,MI,Marquette County,,city-us,152,46.101,-87.294,1782
+14161,Ewing,IN,Jackson County,,city-us,0,38.885,-86.055,316

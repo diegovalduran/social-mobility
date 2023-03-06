@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12173,Drake,ND,,city-us,286,47.924,-100.372,3891
-12170,Drake,IL,,city-us,14,39.459,-90.474,243
-12169,Drake,MO,,city-us,0,38.468,-91.465,347
-12171,Drake,CO,,city-us,0,40.431,-105.340,483
-12172,Drake,SC,,city-us,0,34.473,-79.667,192
-12174,Drake,KY,,city-us,0,36.836,-86.410,387
-12175,Drake,AZ,,city-us,0,34.982,-112.376,2993
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12173,Drake,ND,McHenry County,,city-us,286,47.924,-100.372,3891
+12170,Drake,IL,Greene County,,city-us,14,39.459,-90.474,243
+12169,Drake,MO,Gasconade County,,city-us,0,38.468,-91.465,347
+12171,Drake,CO,Larimer County,,city-us,0,40.431,-105.340,483
+12172,Drake,SC,Marlboro County,,city-us,0,34.473,-79.667,192
+12174,Drake,KY,Warren County,,city-us,0,36.836,-86.410,387
+12175,Drake,AZ,Yavapai County,,city-us,0,34.982,-112.376,2993

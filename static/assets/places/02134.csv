@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10699,Curlew,WA,,city-us,76,48.885,-118.599,3374
-10700,Curlew,IA,,city-us,38,42.979,-94.741,3088
-10701,Curlew,SD,,city-us,37,43.546,-100.158,0
-10702,Curlew,KY,,city-us,0,37.578,-88.087,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10699,Curlew,WA,Ferry County,,city-us,76,48.885,-118.599,3374
+10700,Curlew,IA,Palo Alto County,,city-us,38,42.979,-94.741,3088
+10701,Curlew,SD,Tripp County,,city-us,37,43.546,-100.158,0
+10702,Curlew,KY,Union County,,city-us,0,37.578,-88.087,192

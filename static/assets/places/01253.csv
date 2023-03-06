@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6339,Butte Valley,CA,,city-us,869,39.669,-121.646,2277
-6338,Butte Valley,ND,,city-us,41,48.139,-99.499,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6339,Butte Valley,CA,Butte County,,city-us,869,39.669,-121.646,2277
+6338,Butte Valley,ND,Benson County,,city-us,41,48.139,-99.499,136

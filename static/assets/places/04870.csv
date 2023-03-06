@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25040,Lindale,TX,,city-us,6313,32.516,-95.409,4089
-25039,Lindale,GA,,city-us,4283,34.194,-85.174,3580
-25038,Lindale,OH,,city-us,0,38.991,-84.211,315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25040,Lindale,TX,Smith County,,city-us,6313,32.516,-95.409,4089
+25039,Lindale,GA,Floyd County,,city-us,4283,34.194,-85.174,3580
+25038,Lindale,OH,Clermont County,,city-us,0,38.991,-84.211,315

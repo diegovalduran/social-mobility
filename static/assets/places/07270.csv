@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36828,Ripon,CA,,city-us,16440,37.742,-121.124,4129
-36827,Ripon,WI,,city-us,7792,43.842,-88.836,7637
-36830,Rippon,WV,,city-us,223,39.218,-77.905,5068
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36828,Ripon,CA,San Joaquin County,,city-us,16440,37.742,-121.124,4129
+36827,Ripon,WI,Fond du Lac County,,city-us,7792,43.842,-88.836,7637
+36830,Rippon,WV,Jefferson County,,city-us,223,39.218,-77.905,5068

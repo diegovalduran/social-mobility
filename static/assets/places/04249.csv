@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21907,Jamison,PA,,city-us,8488,40.255,-75.089,231
-21906,Jamieson,OR,,city-us,0,44.182,-117.438,281
-21908,Jamison,IA,,city-us,0,41.122,-93.725,249
-21909,Jamison,NE,,city-us,0,42.998,-99.308,430
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21907,Jamison,PA,Bucks County,,city-us,8488,40.255,-75.089,231
+21906,Jamieson,OR,Malheur County,,city-us,0,44.182,-117.438,281
+21908,Jamison,IA,Clarke County,,city-us,0,41.122,-93.725,249
+21909,Jamison,NE,Keya Paha County,,city-us,0,42.998,-99.308,430

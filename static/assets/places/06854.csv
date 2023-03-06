@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34913,Pond,IL,,city-us,0,37.445,-88.833,164
-34914,Pond,CA,,city-us,0,35.718,-119.329,508
-34915,Pond,MO,,city-us,0,38.580,-90.656,297
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34913,Pond,IL,Johnson County,,city-us,0,37.445,-88.833,164
+34914,Pond,CA,Kern County,,city-us,0,35.718,-119.329,508
+34915,Pond,MO,St. Louis County,,city-us,0,38.580,-90.656,297

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24882,Lime Lake,NY,,city-us,763,42.435,-78.480,1427
-24883,Lime Lake,MN,,city-us,172,43.986,-95.653,2192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24882,Lime Lake,NY,Cattaraugus County,,city-us,763,42.435,-78.480,1427
+24883,Lime Lake,MN,Murray County,,city-us,172,43.986,-95.653,2192

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47416,Wittenberg,WI,,city-us,828,44.799,-89.161,5056
-47414,Wittenberg,SD,,city-us,289,43.321,-97.708,0
-47415,Wittenberg,MO,,city-us,0,37.653,-89.524,3243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47416,Wittenberg,WI,Shawano County,,city-us,828,44.799,-89.161,5056
+47414,Wittenberg,SD,Hutchinson County,,city-us,289,43.321,-97.708,0
+47415,Wittenberg,MO,Perry County,,city-us,0,37.653,-89.524,3243

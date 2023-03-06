@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41518,Stites,IL,,city-us,642,38.653,-90.162,558
-41517,Stites,ID,,city-us,177,46.092,-115.976,3810
-41516,Stites,KY,,city-us,0,38.017,-85.905,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41518,Stites,IL,St. Clair County,,city-us,642,38.653,-90.162,558
+41517,Stites,ID,Idaho County,,city-us,177,46.092,-115.976,3810
+41516,Stites,KY,Bullitt County,,city-us,0,38.017,-85.905,93

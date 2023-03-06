@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21208,Ideal,MN,,city-us,1242,46.673,-94.201,1876
-21209,Ideal,GA,,city-us,397,32.370,-84.188,2504
-21210,Ideal,SD,,city-us,86,43.543,-99.921,316
-21207,Ideal,IL,,city-us,0,41.975,-89.988,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21208,Ideal,MN,Crow Wing County,,city-us,1242,46.673,-94.201,1876
+21209,Ideal,GA,Macon County,,city-us,397,32.370,-84.188,2504
+21210,Ideal,SD,Tripp County,,city-us,86,43.543,-99.921,316
+21207,Ideal,IL,Carroll County,,city-us,0,41.975,-89.988,144

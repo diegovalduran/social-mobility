@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-304,Agnew,NE,,city-us,30,41.017,-96.815,293
-302,Agnew,WA,,city-us,0,48.106,-123.425,701
-303,Agnew,WV,,city-us,0,38.212,-81.143,129
-305,Agnew,MI,,city-us,0,42.965,-86.177,908
+id,name,state,county,country,level,population,latitude,longitude,wiki
+304,Agnew,NE,Lancaster County,,city-us,30,41.017,-96.815,293
+302,Agnew,WA,Clallam County,,city-us,0,48.106,-123.425,701
+303,Agnew,WV,Fayette County,,city-us,0,38.212,-81.143,129
+305,Agnew,MI,Ottawa County,,city-us,0,42.965,-86.177,908

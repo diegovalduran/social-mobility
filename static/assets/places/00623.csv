@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3142,Belfast,,United Kingdom,city-international,333871,54.596,-5.930,68158
-3141,Belfast,ME,,city-us,6968,44.426,-69.006,14683
-3134,Belfast,PA,,city-us,1354,39.881,-78.141,1860
-3140,Belfast,PA,,city-us,1250,40.781,-75.278,2536
-3131,Belfast,NY,,city-us,678,42.343,-78.111,7557
-3138,Belfast,MN,,city-us,171,43.884,-95.513,2185
-3132,Belfast,GA,,city-us,0,31.824,-81.292,327
-3133,Belfast,OH,,city-us,0,39.174,-84.141,677
-3135,Belfast,OH,,city-us,0,39.063,-83.532,307
-3136,Belfast,CA,,city-us,0,40.444,-120.452,276
-3137,Belfast,TN,,city-us,0,35.421,-86.703,544
-3139,Belfast,MO,,city-us,0,36.866,-94.454,562
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3142,Belfast,,,United Kingdom,city-international,333871,54.596,-5.930,68158
+3141,Belfast,ME,Waldo County,,city-us,6968,44.426,-69.006,14683
+3134,Belfast,PA,Fulton County,,city-us,1354,39.881,-78.141,1860
+3140,Belfast,PA,Northampton County,,city-us,1250,40.781,-75.278,2536
+3131,Belfast,NY,Allegany County,,city-us,678,42.343,-78.111,7557
+3138,Belfast,MN,Murray County,,city-us,171,43.884,-95.513,2185
+3132,Belfast,GA,Bryan County,,city-us,0,31.824,-81.292,327
+3133,Belfast,OH,Clermont County,,city-us,0,39.174,-84.141,677
+3135,Belfast,OH,Highland County,,city-us,0,39.063,-83.532,307
+3136,Belfast,CA,Lassen County,,city-us,0,40.444,-120.452,276
+3137,Belfast,TN,Marshall County,,city-us,0,35.421,-86.703,544
+3139,Belfast,MO,Newton County,,city-us,0,36.866,-94.454,562

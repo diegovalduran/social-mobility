@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2420,Baptist,KY,,city-us,0,38.477,-84.186,250
-2421,Baptist,LA,,city-us,0,30.505,-90.533,143
-2422,Baptist,KY,,city-us,0,37.732,-83.479,250
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2420,Baptist,KY,Harrison County,,city-us,0,38.477,-84.186,250
+2421,Baptist,LA,Tangipahoa Parish,,city-us,0,30.505,-90.533,143
+2422,Baptist,KY,Wolfe County,,city-us,0,37.732,-83.479,250

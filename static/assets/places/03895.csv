@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19916,High Hill,MO,,city-us,185,38.878,-91.383,3219
-19915,High Hill,TX,,city-us,0,29.718,-96.927,13263
-19917,High Hill,OH,,city-us,0,39.832,-81.765,330
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19916,High Hill,MO,Montgomery County,,city-us,185,38.878,-91.383,3219
+19915,High Hill,TX,Fayette County,,city-us,0,29.718,-96.927,13263
+19917,High Hill,OH,Muskingum County,,city-us,0,39.832,-81.765,330

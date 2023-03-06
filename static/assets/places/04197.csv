@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21543,Iron River,MI,,city-us,3004,46.093,-88.642,4578
-21542,Iron River,WI,,city-us,671,46.564,-91.408,2706
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21543,Iron River,MI,Iron County,,city-us,3004,46.093,-88.642,4578
+21542,Iron River,WI,Bayfield County,,city-us,671,46.564,-91.408,2706

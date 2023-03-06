@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6018,Buffington,PA,,city-us,1236,40.513,-78.956,2139
-6017,Buffington,PA,,city-us,95,39.929,-79.841,306
-6016,Buffington,GA,,city-us,0,34.241,-84.421,485
-6019,Buffington,MO,,city-us,0,36.831,-89.743,275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6018,Buffington,PA,Indiana County,,city-us,1236,40.513,-78.956,2139
+6017,Buffington,PA,Fayette County,,city-us,95,39.929,-79.841,306
+6016,Buffington,GA,Cherokee County,,city-us,0,34.241,-84.421,485
+6019,Buffington,MO,Stoddard County,,city-us,0,36.831,-89.743,275

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21565,Ironville,KY,,city-us,782,38.456,-82.692,577
-21564,Ironville,PA,,city-us,0,40.658,-78.216,791
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21565,Ironville,KY,Boyd County,,city-us,782,38.456,-82.692,577
+21564,Ironville,PA,Blair County,,city-us,0,40.658,-78.216,791

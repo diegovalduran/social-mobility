@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30617,New Germany,MN,,city-us,466,44.884,-93.971,3756
-30618,New Germany,OH,,city-us,0,39.775,-84.080,299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30617,New Germany,MN,Carver County,,city-us,466,44.884,-93.971,3756
+30618,New Germany,OH,Greene County,,city-us,0,39.775,-84.080,299

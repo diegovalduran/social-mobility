@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8279,Chillicothe,OH,,city-us,22009,39.333,-82.982,19429
-8277,Chillicothe,MO,,city-us,9371,39.787,-93.532,9078
-8278,Chillicothe,IL,,city-us,8150,40.929,-89.495,356
-8276,Chillicothe,TX,,city-us,554,34.256,-99.517,4070
-8280,Chillicothe,IA,,city-us,76,41.086,-92.529,4127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8279,Chillicothe,OH,Ross County,,city-us,22009,39.333,-82.982,19429
+8277,Chillicothe,MO,Livingston County,,city-us,9371,39.787,-93.532,9078
+8278,Chillicothe,IL,Peoria County,,city-us,8150,40.929,-89.495,356
+8276,Chillicothe,TX,Hardeman County,,city-us,554,34.256,-99.517,4070
+8280,Chillicothe,IA,Wapello County,,city-us,76,41.086,-92.529,4127

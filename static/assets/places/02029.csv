@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10250,Cranesville,PA,,city-us,567,41.905,-80.344,2655
-10251,Cranesville,WV,,city-us,0,39.553,-79.495,408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10250,Cranesville,PA,Erie County,,city-us,567,41.905,-80.344,2655
+10251,Cranesville,WV,Preston County,,city-us,0,39.553,-79.495,408

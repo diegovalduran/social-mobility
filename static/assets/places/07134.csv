@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36148,Reddington,IN,,city-us,0,39.032,-85.833,327
-36160,Redington,NE,,city-us,0,41.584,-103.273,259
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36148,Reddington,IN,Jackson County,,city-us,0,39.032,-85.833,327
+36160,Redington,NE,Morrill County,,city-us,0,41.584,-103.273,259

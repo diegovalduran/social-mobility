@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39283,Shady Lane,IN,,city-us,0,39.546,-87.134,248
-39284,Shady Lane,VA,,city-us,0,37.715,-79.022,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39283,Shady Lane,IN,Clay County,,city-us,0,39.546,-87.134,248
+39284,Shady Lane,VA,Nelson County,,city-us,0,37.715,-79.022,104

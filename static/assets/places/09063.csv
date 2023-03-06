@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45721,Webb City,MO,,city-us,13251,37.146,-94.463,7358
-45722,Webb City,OK,,city-us,59,36.807,-96.709,3490
-45720,Webb City,AR,,city-us,0,35.468,-93.832,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45721,Webb City,MO,Jasper County,,city-us,13251,37.146,-94.463,7358
+45722,Webb City,OK,Osage County,,city-us,59,36.807,-96.709,3490
+45720,Webb City,AR,Franklin County,,city-us,0,35.468,-93.832,251

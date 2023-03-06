@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-515,Aleppo,,Syria,city-international,1916781,36.200,37.150,74303
-513,Aleppo,PA,,city-us,1806,40.533,-80.143,220
-514,Aleppo,PA,,city-us,0,39.824,-80.446,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+515,Aleppo,,,Syria,city-international,1916781,36.200,37.150,74303
+513,Aleppo,PA,Allegheny County,,city-us,1806,40.533,-80.143,220
+514,Aleppo,PA,Greene County,,city-us,0,39.824,-80.446,229

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3323,Bellwood,IL,,city-us,18331,41.881,-87.883,5572
-3322,Bellwood,VA,,city-us,8138,37.422,-77.437,2027
-3320,Bellwood,PA,,city-us,1812,40.603,-78.325,3788
-3321,Bellwood,NE,,city-us,408,41.343,-97.238,2816
-3324,Bellwood,WV,,city-us,0,37.922,-80.830,139
-3325,Bellwood,AL,,city-us,0,31.173,-85.793,486
-3326,Bellwood,LA,,city-us,0,31.527,-93.206,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3323,Bellwood,IL,Cook County,,city-us,18331,41.881,-87.883,5572
+3322,Bellwood,VA,Chesterfield County,,city-us,8138,37.422,-77.437,2027
+3320,Bellwood,PA,Blair County,,city-us,1812,40.603,-78.325,3788
+3321,Bellwood,NE,Butler County,,city-us,408,41.343,-97.238,2816
+3324,Bellwood,WV,Fayette County,,city-us,0,37.922,-80.830,139
+3325,Bellwood,AL,Geneva County,,city-us,0,31.173,-85.793,486
+3326,Bellwood,LA,Natchitoches Parish,,city-us,0,31.527,-93.206,89

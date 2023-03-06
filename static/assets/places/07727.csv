@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39105,Selden,NY,,city-us,21265,40.866,-73.036,7228
-39104,Selden,KS,,city-us,189,39.541,-100.568,4337
-39102,Selden,TX,,city-us,0,32.144,-98.107,997
-39103,Selden,VA,,city-us,0,37.356,-76.469,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39105,Selden,NY,Suffolk County,,city-us,21265,40.866,-73.036,7228
+39104,Selden,KS,Sheridan County,,city-us,189,39.541,-100.568,4337
+39102,Selden,TX,Erath County,,city-us,0,32.144,-98.107,997
+39103,Selden,VA,Gloucester County,,city-us,0,37.356,-76.469,180

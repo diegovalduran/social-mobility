@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12596,Eagle Lake,TX,,city-us,3484,29.590,-96.334,3582
-12595,Eagle Lake,MN,,city-us,3286,44.165,-93.881,3574
-12599,Eagle Lake,FL,,city-us,3174,27.978,-81.756,6644
-12600,Eagle Lake,WI,,city-us,1039,42.707,-88.128,2479
-12594,Eagle Lake,ME,,city-us,803,47.058,-68.656,3304
-12598,Eagle Lake,MN,,city-us,394,46.149,-95.697,2674
-12601,Eagle Lake,IL,,city-us,76,41.367,-87.554,354
-12597,Eagle Lake,PA,,city-us,0,41.285,-75.488,286
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12596,Eagle Lake,TX,Colorado County,,city-us,3484,29.590,-96.334,3582
+12595,Eagle Lake,MN,Blue Earth County,,city-us,3286,44.165,-93.881,3574
+12599,Eagle Lake,FL,Polk County,,city-us,3174,27.978,-81.756,6644
+12600,Eagle Lake,WI,Racine County,,city-us,1039,42.707,-88.128,2479
+12594,Eagle Lake,ME,Aroostook County,,city-us,803,47.058,-68.656,3304
+12598,Eagle Lake,MN,Otter Tail County,,city-us,394,46.149,-95.697,2674
+12601,Eagle Lake,IL,Will County,,city-us,76,41.367,-87.554,354
+12597,Eagle Lake,PA,Lackawanna County,,city-us,0,41.285,-75.488,286

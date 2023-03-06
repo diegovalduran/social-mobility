@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31365,North Fork,CA,,city-us,3250,37.230,-119.509,3025
-31367,North Fork,AZ,,city-us,1852,34.011,-109.960,1321
-31363,North Fork,IL,,city-us,373,37.819,-88.320,981
-31368,North Fork,MN,,city-us,278,45.543,-95.069,1861
-31362,North Fork,NV,,city-us,0,41.483,-115.817,391
-31364,North Fork,ID,,city-us,0,45.406,-113.994,1647
-31366,North Fork,MO,,city-us,0,39.611,-91.919,256
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31365,North Fork,CA,Madera County,,city-us,3250,37.230,-119.509,3025
+31367,North Fork,AZ,Navajo County,,city-us,1852,34.011,-109.960,1321
+31363,North Fork,IL,Gallatin County,,city-us,373,37.819,-88.320,981
+31368,North Fork,MN,Stearns County,,city-us,278,45.543,-95.069,1861
+31362,North Fork,NV,Elko County,,city-us,0,41.483,-115.817,391
+31364,North Fork,ID,Lemhi County,,city-us,0,45.406,-113.994,1647
+31366,North Fork,MO,Monroe County,,city-us,0,39.611,-91.919,256

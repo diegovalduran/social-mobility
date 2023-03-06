@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35780,Raintown,IN,,city-us,0,39.878,-86.510,269
-35781,Raintown,WV,,city-us,0,38.177,-80.230,249
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35780,Raintown,IN,Hendricks County,,city-us,0,39.878,-86.510,269
+35781,Raintown,WV,Pocahontas County,,city-us,0,38.177,-80.230,249

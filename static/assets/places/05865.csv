@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30154,Muskegon,MI,,city-us,37552,43.234,-86.248,28665
-30155,Muskegon,MS,,city-us,0,32.348,-89.352,153
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30154,Muskegon,MI,Muskegon County,,city-us,37552,43.234,-86.248,28665
+30155,Muskegon,MS,Scott County,,city-us,0,32.348,-89.352,153

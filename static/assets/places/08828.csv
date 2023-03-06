@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44276,Varner,WV,,city-us,0,38.907,-81.704,88
-44277,Varner,KS,,city-us,0,37.719,-98.036,315
-44278,Varner,AR,,city-us,0,34.038,-91.619,788
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44276,Varner,WV,Jackson County,,city-us,0,38.907,-81.704,88
+44277,Varner,KS,Kingman County,,city-us,0,37.719,-98.036,315
+44278,Varner,AR,Lincoln County,,city-us,0,34.038,-91.619,788

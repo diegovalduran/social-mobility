@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42512,Tarboro,NC,,city-us,10569,35.897,-77.536,18678
-42513,Tarboro,SC,,city-us,0,32.532,-81.154,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42512,Tarboro,NC,Edgecombe County,,city-us,10569,35.897,-77.536,18678
+42513,Tarboro,SC,Jasper County,,city-us,0,32.532,-81.154,173

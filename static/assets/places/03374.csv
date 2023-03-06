@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17099,Glover,VT,,city-us,318,44.707,-72.187,5558
-17097,Glover,SD,,city-us,30,45.383,-99.369,0
-17095,Glover,IL,,city-us,0,40.114,-88.019,441
-17096,Glover,ND,,city-us,0,46.242,-98.139,176
-17098,Glover,MO,,city-us,0,37.486,-90.691,467
-17100,Glover,WI,,city-us,0,44.913,-92.681,160
-17101,Glover,WV,,city-us,0,37.587,-81.590,102
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17099,Glover,VT,Orleans County,,city-us,318,44.707,-72.187,5558
+17097,Glover,SD,Edmunds County,,city-us,30,45.383,-99.369,0
+17095,Glover,IL,Champaign County,,city-us,0,40.114,-88.019,441
+17096,Glover,ND,Dickey County,,city-us,0,46.242,-98.139,176
+17098,Glover,MO,Iron County,,city-us,0,37.486,-90.691,467
+17100,Glover,WI,St. Croix County,,city-us,0,44.913,-92.681,160
+17101,Glover,WV,Wyoming County,,city-us,0,37.587,-81.590,102

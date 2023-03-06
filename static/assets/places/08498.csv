@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42821,Thompsonville,CT,,city-us,8134,41.992,-72.597,2880
-42828,Thompsonville,PA,,city-us,3817,40.291,-80.108,1824
-42822,Thompsonville,IL,,city-us,480,37.918,-88.762,2058
-42820,Thompsonville,MI,,city-us,477,44.520,-85.944,4982
-42825,Thompsonville,TX,,city-us,46,27.255,-98.784,1097
-42823,Thompsonville,TX,,city-us,0,29.703,-97.382,100
-42824,Thompsonville,KS,,city-us,0,39.106,-95.434,2001
-42826,Thompsonville,DE,,city-us,0,38.999,-75.390,199
-42827,Thompsonville,UT,,city-us,0,38.417,-112.217,425
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42821,Thompsonville,CT,Capitol Planning Region,,city-us,8134,41.992,-72.597,2880
+42828,Thompsonville,PA,Washington County,,city-us,3817,40.291,-80.108,1824
+42822,Thompsonville,IL,Franklin County,,city-us,480,37.918,-88.762,2058
+42820,Thompsonville,MI,Benzie County,,city-us,477,44.520,-85.944,4982
+42825,Thompsonville,TX,Jim Hogg County,,city-us,46,27.255,-98.784,1097
+42823,Thompsonville,TX,Gonzales County,,city-us,0,29.703,-97.382,100
+42824,Thompsonville,KS,Jefferson County,,city-us,0,39.106,-95.434,2001
+42826,Thompsonville,DE,Kent County,,city-us,0,38.999,-75.390,199
+42827,Thompsonville,UT,Piute County,,city-us,0,38.417,-112.217,425

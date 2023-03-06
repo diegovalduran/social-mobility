@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26998,Marne,OH,,city-us,410,40.071,-82.309,1460
-26996,Marne,IA,,city-us,107,41.451,-95.111,3165
-26997,Marne,WV,,city-us,0,38.473,-81.197,84
-26999,Marne,MI,,city-us,0,43.036,-85.828,1812
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26998,Marne,OH,Licking County,,city-us,410,40.071,-82.309,1460
+26996,Marne,IA,Cass County,,city-us,107,41.451,-95.111,3165
+26997,Marne,WV,Clay County,,city-us,0,38.473,-81.197,84
+26999,Marne,MI,Ottawa County,,city-us,0,43.036,-85.828,1812

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25746,Los Alamos,NM,,city-us,13270,35.888,-106.307,18201
-25747,Los Alamos,CA,,city-us,1343,34.744,-120.278,9315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25746,Los Alamos,NM,Los Alamos County,,city-us,13270,35.888,-106.307,18201
+25747,Los Alamos,CA,Santa Barbara County,,city-us,1343,34.744,-120.278,9315

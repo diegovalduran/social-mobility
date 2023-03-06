@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28969,Modesto,CA,,city-us,218771,37.639,-120.997,37660
-28967,Modesto,IL,,city-us,177,39.478,-89.982,2068
-28968,Modesto,IN,,city-us,0,39.270,-86.548,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28969,Modesto,CA,Stanislaus County,,city-us,218771,37.639,-120.997,37660
+28967,Modesto,IL,Macoupin County,,city-us,177,39.478,-89.982,2068
+28968,Modesto,IN,Monroe County,,city-us,0,39.270,-86.548,359

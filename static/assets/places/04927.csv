@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25517,Lome,,Togo,city-international,837437,6.132,1.223,21152
-25326,Loam,ND,,city-us,36,48.854,-98.155,0
-25327,Loam,KY,,city-us,0,37.407,-84.130,679
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25517,Lome,,,Togo,city-international,837437,6.132,1.223,21152
+25326,Loam,ND,Cavalier County,,city-us,36,48.854,-98.155,0
+25327,Loam,KY,Jackson County,,city-us,0,37.407,-84.130,679

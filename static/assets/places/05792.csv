@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29797,Mount Lebanon,PA,,city-us,33586,40.377,-80.049,12128
-29799,Mount Lebanon,NJ,,city-us,6195,40.726,-74.894,12053
-29798,Mount Lebanon,LA,,city-us,67,32.504,-93.049,3612
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29797,Mount Lebanon,PA,Allegheny County,,city-us,33586,40.377,-80.049,12128
+29799,Mount Lebanon,NJ,Hunterdon County,,city-us,6195,40.726,-74.894,12053
+29798,Mount Lebanon,LA,Bienville Parish,,city-us,67,32.504,-93.049,3612

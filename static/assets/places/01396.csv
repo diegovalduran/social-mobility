@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7028,Carpentersville,IL,,city-us,37598,42.121,-88.258,8687
-7029,Carpentersville,IN,,city-us,0,39.806,-86.806,371
-7030,Carpentersville,NJ,,city-us,0,40.636,-75.189,925
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7028,Carpentersville,IL,Kane County,,city-us,37598,42.121,-88.258,8687
+7029,Carpentersville,IN,Putnam County,,city-us,0,39.806,-86.806,371
+7030,Carpentersville,NJ,Warren County,,city-us,0,40.636,-75.189,925

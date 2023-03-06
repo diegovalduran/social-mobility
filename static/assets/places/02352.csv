@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11808,Dingess,WV,,city-us,0,37.872,-82.175,2120
-11809,Dingus,KY,,city-us,0,37.908,-83.102,420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11808,Dingess,WV,Mingo County,,city-us,0,37.872,-82.175,2120
+11809,Dingus,KY,Morgan County,,city-us,0,37.908,-83.102,420

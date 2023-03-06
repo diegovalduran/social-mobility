@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18149,Gregory,TX,,city-us,1740,27.922,-97.290,2720
-18144,Gregory,SD,,city-us,1189,43.232,-99.430,3784
-18148,Gregory,OK,,city-us,304,36.171,-95.572,1869
-18146,Gregory,MN,,city-us,58,47.463,-95.858,1841
-18150,Gregory,AR,,city-us,43,35.155,-91.343,2072
-18143,Gregory,NC,,city-us,0,36.384,-76.123,269
-18145,Gregory,MI,,city-us,0,42.458,-84.084,5770
-18147,Gregory,MN,,city-us,0,45.939,-94.356,367
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18149,Gregory,TX,San Patricio County,,city-us,1740,27.922,-97.290,2720
+18144,Gregory,SD,Gregory County,,city-us,1189,43.232,-99.430,3784
+18148,Gregory,OK,Rogers County,,city-us,304,36.171,-95.572,1869
+18146,Gregory,MN,Mahnomen County,,city-us,58,47.463,-95.858,1841
+18150,Gregory,AR,Woodruff County,,city-us,43,35.155,-91.343,2072
+18143,Gregory,NC,Currituck County,,city-us,0,36.384,-76.123,269
+18145,Gregory,MI,Livingston County,,city-us,0,42.458,-84.084,5770
+18147,Gregory,MN,Morrison County,,city-us,0,45.939,-94.356,367

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15156,Flora,IL,,city-us,4753,38.669,-88.486,7919
-15154,Flora,IL,,city-us,2969,42.206,-88.891,2660
-15155,Flora,IN,,city-us,2110,40.547,-86.524,3309
-15158,Flora,MS,,city-us,1653,32.543,-90.309,5398
-15161,Flora,MN,,city-us,165,44.666,-95.167,1868
-15157,Flora,KS,,city-us,145,39.085,-97.314,413
-15153,Flora,ND,,city-us,0,47.950,-99.418,264
-15159,Flora,IN,,city-us,0,40.734,-86.100,169
-15160,Flora,LA,,city-us,0,31.613,-93.098,256
-15162,Flora,OR,,city-us,0,45.900,-117.310,931
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15156,Flora,IL,Clay County,,city-us,4753,38.669,-88.486,7919
+15154,Flora,IL,Boone County,,city-us,2969,42.206,-88.891,2660
+15155,Flora,IN,Carroll County,,city-us,2110,40.547,-86.524,3309
+15158,Flora,MS,Madison County,,city-us,1653,32.543,-90.309,5398
+15161,Flora,MN,Renville County,,city-us,165,44.666,-95.167,1868
+15157,Flora,KS,Dickinson County,,city-us,145,39.085,-97.314,413
+15153,Flora,ND,Benson County,,city-us,0,47.950,-99.418,264
+15159,Flora,IN,Miami County,,city-us,0,40.734,-86.100,169
+15160,Flora,LA,Natchitoches Parish,,city-us,0,31.613,-93.098,256
+15162,Flora,OR,Wallowa County,,city-us,0,45.900,-117.310,931

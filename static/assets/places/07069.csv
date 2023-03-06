@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35876,Ranger,TX,,city-us,2276,32.470,-98.679,3947
-35877,Ranger,GA,,city-us,107,34.501,-84.710,2235
-35875,Ranger,MO,,city-us,0,37.558,-91.732,220
-35878,Ranger,WV,,city-us,0,38.121,-82.186,379
-35879,Ranger,IN,,city-us,0,38.096,-86.686,469
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35876,Ranger,TX,Eastland County,,city-us,2276,32.470,-98.679,3947
+35877,Ranger,GA,Gordon County,,city-us,107,34.501,-84.710,2235
+35875,Ranger,MO,Dent County,,city-us,0,37.558,-91.732,220
+35878,Ranger,WV,Lincoln County,,city-us,0,38.121,-82.186,379
+35879,Ranger,IN,Perry County,,city-us,0,38.096,-86.686,469

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16839,Gilpin,PA,,city-us,2396,40.670,-79.604,8285
-16840,Gilpin,KY,,city-us,0,37.257,-84.882,232
-16841,Gilpin,NV,,city-us,0,39.598,-119.336,649
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16839,Gilpin,PA,Armstrong County,,city-us,2396,40.670,-79.604,8285
+16840,Gilpin,KY,Casey County,,city-us,0,37.257,-84.882,232
+16841,Gilpin,NV,Storey County,,city-us,0,39.598,-119.336,649

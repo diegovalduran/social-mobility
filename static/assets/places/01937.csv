@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9858,Cordova,TN,,city-us,68779,35.156,-89.776,10725
-9849,Cordova,AK,,city-us,2528,60.530,-145.642,15579
-9860,Cordova,AL,,city-us,1681,33.760,-87.183,9225
-9854,Cordova,NC,,city-us,1242,34.913,-79.822,465
-9856,Cordova,IL,,city-us,849,41.715,-90.284,341
-9859,Cordova,MD,,city-us,318,38.876,-75.996,2577
-9855,Cordova,NM,,city-us,185,36.007,-105.861,1198
-9853,Cordova,SC,,city-us,135,33.435,-80.921,1808
-9857,Cordova,NE,,city-us,92,40.717,-97.353,3356
-9850,Cordova,KY,,city-us,0,38.541,-84.515,266
-9851,Cordova,WV,,city-us,0,38.064,-80.422,196
-9852,Cordova,MN,,city-us,0,44.336,-93.672,623
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9858,Cordova,TN,Shelby County,,city-us,68779,35.156,-89.776,10725
+9849,Cordova,AK,Chugach Census Area,,city-us,2528,60.530,-145.642,15579
+9860,Cordova,AL,Walker County,,city-us,1681,33.760,-87.183,9225
+9854,Cordova,NC,Richmond County,,city-us,1242,34.913,-79.822,465
+9856,Cordova,IL,Rock Island County,,city-us,849,41.715,-90.284,341
+9859,Cordova,MD,Talbot County,,city-us,318,38.876,-75.996,2577
+9855,Cordova,NM,Rio Arriba County,,city-us,185,36.007,-105.861,1198
+9853,Cordova,SC,Orangeburg County,,city-us,135,33.435,-80.921,1808
+9857,Cordova,NE,Seward County,,city-us,92,40.717,-97.353,3356
+9850,Cordova,KY,Grant County,,city-us,0,38.541,-84.515,266
+9851,Cordova,WV,Greenbrier County,,city-us,0,38.064,-80.422,196
+9852,Cordova,MN,Le Sueur County,,city-us,0,44.336,-93.672,623

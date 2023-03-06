@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43590,Twin Grove,IL,,city-us,1506,40.493,-89.080,147
-43589,Twin Grove,KS,,city-us,408,37.643,-96.223,894
-43588,Twin Grove,WI,,city-us,0,42.531,-89.543,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43590,Twin Grove,IL,McLean County,,city-us,1506,40.493,-89.080,147
+43589,Twin Grove,KS,Greenwood County,,city-us,408,37.643,-96.223,894
+43588,Twin Grove,WI,Green County,,city-us,0,42.531,-89.543,117

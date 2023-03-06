@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14174,Excelsior,MN,,city-us,2299,44.903,-93.566,7788
-14179,Excelsior,WI,,city-us,1609,43.520,-89.879,1895
-14175,Excelsior,MI,,city-us,993,44.720,-85.036,2659
-14176,Excelsior,ND,,city-us,28,46.938,-100.023,0
-14173,Excelsior,GA,,city-us,0,32.314,-81.966,298
-14177,Excelsior,MO,,city-us,0,38.478,-92.722,196
-14178,Excelsior,WI,,city-us,0,43.252,-90.628,408
-14180,Excelsior,WV,,city-us,0,38.956,-80.139,155
-14181,Excelsior,WV,,city-us,0,38.455,-80.472,130
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14174,Excelsior,MN,Hennepin County,,city-us,2299,44.903,-93.566,7788
+14179,Excelsior,WI,Sauk County,,city-us,1609,43.520,-89.879,1895
+14175,Excelsior,MI,Kalkaska County,,city-us,993,44.720,-85.036,2659
+14176,Excelsior,ND,Kidder County,,city-us,28,46.938,-100.023,0
+14173,Excelsior,GA,Candler County,,city-us,0,32.314,-81.966,298
+14177,Excelsior,MO,Morgan County,,city-us,0,38.478,-92.722,196
+14178,Excelsior,WI,Richland County,,city-us,0,43.252,-90.628,408
+14180,Excelsior,WV,Upshur County,,city-us,0,38.956,-80.139,155
+14181,Excelsior,WV,Webster County,,city-us,0,38.455,-80.472,130

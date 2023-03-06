@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22504,Kangley,IL,,city-us,231,41.146,-88.874,2150
-22503,Kangley,WA,,city-us,0,47.362,-121.881,2376
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22504,Kangley,IL,LaSalle County,,city-us,231,41.146,-88.874,2150
+22503,Kangley,WA,King County,,city-us,0,47.362,-121.881,2376

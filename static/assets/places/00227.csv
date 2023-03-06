@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1179,Anson,TX,,city-us,2347,32.757,-99.896,4416
-1177,Anson,WI,,city-us,2076,44.981,-91.287,3518
-1180,Anson,ME,,city-us,833,44.798,-69.889,5570
-1178,Anson,MO,,city-us,0,40.577,-91.766,498
-1181,Anson,KS,,city-us,0,37.365,-97.530,546
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1179,Anson,TX,Jones County,,city-us,2347,32.757,-99.896,4416
+1177,Anson,WI,Chippewa County,,city-us,2076,44.981,-91.287,3518
+1180,Anson,ME,Somerset County,,city-us,833,44.798,-69.889,5570
+1178,Anson,MO,Clark County,,city-us,0,40.577,-91.766,498
+1181,Anson,KS,Sumner County,,city-us,0,37.365,-97.530,546

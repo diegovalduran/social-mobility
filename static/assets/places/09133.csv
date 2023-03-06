@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46042,West Lafayette,IN,,city-us,44672,40.426,-86.908,13541
-46041,West Lafayette,OH,,city-us,2427,40.275,-81.751,5415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46042,West Lafayette,IN,Tippecanoe County,,city-us,44672,40.426,-86.908,13541
+46041,West Lafayette,OH,Coshocton County,,city-us,2427,40.275,-81.751,5415

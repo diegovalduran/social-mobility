@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9455,Columbia Falls,MT,,city-us,5545,48.372,-114.182,7578
-9456,Columbia Falls,ME,,city-us,484,44.699,-67.714,4392
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9455,Columbia Falls,MT,Flathead County,,city-us,5545,48.372,-114.182,7578
+9456,Columbia Falls,ME,Washington County,,city-us,484,44.699,-67.714,4392

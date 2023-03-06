@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5901,Bucktown,PA,,city-us,0,40.175,-75.662,1194
-5902,Bucktown,MD,,city-us,0,38.459,-76.031,351
-5903,Bucktown,TN,,city-us,0,35.270,-88.195,113
-5904,Bucktown,CA,,city-us,0,38.391,-122.024,127
-5905,Bucktown,IN,,city-us,0,38.995,-87.260,230
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5901,Bucktown,PA,Chester County,,city-us,0,40.175,-75.662,1194
+5902,Bucktown,MD,Dorchester County,,city-us,0,38.459,-76.031,351
+5903,Bucktown,TN,Hardin County,,city-us,0,35.270,-88.195,113
+5904,Bucktown,CA,Solano County,,city-us,0,38.391,-122.024,127
+5905,Bucktown,IN,Sullivan County,,city-us,0,38.995,-87.260,230

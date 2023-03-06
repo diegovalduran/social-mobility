@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35684,Quinn,SD,,city-us,63,43.988,-102.126,3088
-35683,Quinn,KY,,city-us,0,37.293,-87.086,83
-35685,Quinn,MO,,city-us,0,40.407,-93.169,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35684,Quinn,SD,Pennington County,,city-us,63,43.988,-102.126,3088
+35683,Quinn,KY,Caldwell County,,city-us,0,37.293,-87.086,83
+35685,Quinn,MO,Putnam County,,city-us,0,40.407,-93.169,248

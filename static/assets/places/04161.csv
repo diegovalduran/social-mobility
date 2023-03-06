@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21402,Ingham,MI,,city-us,2393,42.560,-84.309,2166
-21403,Ingham,VA,,city-us,0,38.529,-78.578,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21402,Ingham,MI,Ingham County,,city-us,2393,42.560,-84.309,2166
+21403,Ingham,VA,Page County,,city-us,0,38.529,-78.578,86

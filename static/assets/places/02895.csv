@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14521,Fall River,MA,,city-us,93884,41.701,-71.155,47570
-14522,Fall River,WI,,city-us,1807,43.384,-89.045,3756
-14524,Fall River,IL,,city-us,785,41.303,-88.771,430
-14525,Fall River,KS,,city-us,327,37.547,-95.925,183
-14523,Fall River,KS,,city-us,188,37.716,-96.215,498
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14521,Fall River,MA,Bristol County,,city-us,93884,41.701,-71.155,47570
+14522,Fall River,WI,Columbia County,,city-us,1807,43.384,-89.045,3756
+14524,Fall River,IL,LaSalle County,,city-us,785,41.303,-88.771,430
+14525,Fall River,KS,Wilson County,,city-us,327,37.547,-95.925,183
+14523,Fall River,KS,Greenwood County,,city-us,188,37.716,-96.215,498

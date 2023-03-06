@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2532,Barrett,TX,,city-us,5223,29.872,-95.062,3798
-2533,Barrett,PA,,city-us,4061,41.208,-75.239,4258
-2531,Barrett,MN,,city-us,374,45.911,-95.890,5489
-2536,Barrett,KS,,city-us,115,39.508,-101.271,0
-2529,Barrett,SD,,city-us,106,44.577,-97.921,131
-2534,Barrett,SD,,city-us,17,45.791,-102.509,131
-2530,Barrett,WV,,city-us,0,37.887,-81.670,306
-2535,Barrett,IN,,city-us,0,38.201,-87.869,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2532,Barrett,TX,Harris County,,city-us,5223,29.872,-95.062,3798
+2533,Barrett,PA,Monroe County,,city-us,4061,41.208,-75.239,4258
+2531,Barrett,MN,Grant County,,city-us,374,45.911,-95.890,5489
+2536,Barrett,KS,Thomas County,,city-us,115,39.508,-101.271,0
+2529,Barrett,SD,Beadle County,,city-us,106,44.577,-97.921,131
+2534,Barrett,SD,Perkins County,,city-us,17,45.791,-102.509,131
+2530,Barrett,WV,Boone County,,city-us,0,37.887,-81.670,306
+2535,Barrett,IN,Posey County,,city-us,0,38.201,-87.869,289

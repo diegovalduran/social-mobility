@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6135,Burleigh,MI,,city-us,726,44.203,-83.822,1879
-6134,Burleigh,NJ,,city-us,403,39.046,-74.852,1112
-6133,Burleigh,TX,,city-us,0,29.920,-96.150,1481
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6135,Burleigh,MI,Iosco County,,city-us,726,44.203,-83.822,1879
+6134,Burleigh,NJ,Cape May County,,city-us,403,39.046,-74.852,1112
+6133,Burleigh,TX,Austin County,,city-us,0,29.920,-96.150,1481

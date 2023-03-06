@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36152,Redfield,AR,,city-us,1507,34.445,-92.183,3941
-36151,Redfield,IA,,city-us,734,41.589,-94.196,4301
-36154,Redfield,NY,,city-us,479,43.587,-75.829,3057
-36155,Redfield,SD,,city-us,373,44.856,-98.536,236
-36153,Redfield,TX,,city-us,117,31.680,-94.665,270
-36150,Redfield,KS,,city-us,92,37.837,-94.881,3711
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36152,Redfield,AR,Jefferson County,,city-us,1507,34.445,-92.183,3941
+36151,Redfield,IA,Dallas County,,city-us,734,41.589,-94.196,4301
+36154,Redfield,NY,Oswego County,,city-us,479,43.587,-75.829,3057
+36155,Redfield,SD,Spink County,,city-us,373,44.856,-98.536,236
+36153,Redfield,TX,Nacogdoches County,,city-us,117,31.680,-94.665,270
+36150,Redfield,KS,Bourbon County,,city-us,92,37.837,-94.881,3711

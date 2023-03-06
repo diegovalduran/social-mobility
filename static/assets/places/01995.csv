@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10114,Courtenay,ND,,city-us,41,47.189,-98.524,2972
-10113,Courtenay,FL,,city-us,0,28.457,-80.710,1076
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10114,Courtenay,ND,Stutsman County,,city-us,41,47.189,-98.524,2972
+10113,Courtenay,FL,Brevard County,,city-us,0,28.457,-80.710,1076

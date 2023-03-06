@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43036,Tobacco,MI,,city-us,2467,43.853,-84.413,2713
-43035,Tobacco,VA,,city-us,0,36.890,-77.938,100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43036,Tobacco,MI,Gladwin County,,city-us,2467,43.853,-84.413,2713
+43035,Tobacco,VA,Brunswick County,,city-us,0,36.890,-77.938,100

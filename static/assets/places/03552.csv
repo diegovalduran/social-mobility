@@ -1,52 +1,52 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18105,Greenwood,IN,,city-us,64918,39.614,-86.107,18321
-18101,Greenwood,SC,,city-us,22221,34.195,-82.162,11649
-18107,Greenwood,MS,,city-us,14037,33.516,-90.180,11016
-18119,Greenwood,AR,,city-us,9605,35.216,-94.256,11101
-18087,Greenwood,MO,,city-us,6052,38.842,-94.334,5207
-18083,Greenwood,PA,,city-us,3564,40.536,-78.358,395
-18085,Greenwood,LA,,city-us,3103,32.443,-93.973,7074
-18108,Greenwood,MI,,city-us,1952,46.430,-87.800,4493
-18094,Greenwood,PA,,city-us,1895,41.150,-76.472,537
-18120,Greenwood,MI,,city-us,1499,43.122,-82.690,2659
-18095,Greenwood,PA,,city-us,1419,41.530,-80.217,537
-18115,Greenwood,MI,,city-us,1174,44.767,-84.311,397
-18113,Greenwood,MI,,city-us,1167,43.503,-86.094,397
-18091,Greenwood,WI,,city-us,1117,44.770,-90.599,4004
-18090,Greenwood,MI,,city-us,1113,44.024,-84.899,2033
-18117,Greenwood,PA,,city-us,1037,40.557,-77.107,537
-18121,Greenwood,MN,,city-us,1031,47.865,-92.341,1108
-18123,Greenwood,DE,,city-us,1026,38.807,-75.591,2905
-18097,Greenwood,CA,,city-us,1007,38.897,-120.913,666
-18114,Greenwood,MI,,city-us,927,44.206,-84.192,2235
-18116,Greenwood,ME,,city-us,778,44.346,-70.656,3987
-18126,Greenwood,WI,,city-us,770,43.564,-90.418,1856
-18122,Greenwood,NY,,city-us,762,42.147,-77.662,4748
-18102,Greenwood,MN,,city-us,718,44.915,-93.553,3348
-18129,Greenwood,MI,,city-us,642,44.478,-85.526,397
-18124,Greenwood,WI,,city-us,630,45.245,-90.200,2541
-18086,Greenwood,NE,,city-us,604,40.963,-96.441,3264
-18103,Greenwood,FL,,city-us,546,30.870,-85.162,2187
-18106,Greenwood,PA,,city-us,536,40.629,-77.115,537
-18098,Greenwood,KS,,city-us,390,38.560,-95.444,1500
-18092,Greenwood,PA,,city-us,359,40.920,-78.661,537
-18109,Greenwood,IL,,city-us,321,42.393,-88.389,2066
-18089,Greenwood,IL,,city-us,202,39.393,-89.307,1108
-18093,Greenwood,MN,,city-us,81,47.792,-95.397,1108
-18118,Greenwood,KS,,city-us,48,39.876,-99.235,0
-18125,Greenwood,SD,,city-us,7,43.645,-100.035,3956
-18081,Greenwood,VA,,city-us,0,38.056,-78.771,709
-18082,Greenwood,VA,,city-us,0,37.954,-79.966,186
-18084,Greenwood,WV,,city-us,0,37.855,-81.631,188
-18088,Greenwood,SD,,city-us,0,42.923,-98.388,269
-18096,Greenwood,WV,,city-us,0,39.275,-80.891,172
-18099,Greenwood,PA,,city-us,0,39.906,-77.519,280
-18100,Greenwood,CA,,city-us,0,39.696,-122.194,178
-18104,Greenwood,ID,,city-us,0,42.577,-114.049,833
-18110,Greenwood,TX,,city-us,0,32.028,-101.896,344
-18111,Greenwood,GA,,city-us,0,31.198,-84.340,639
-18112,Greenwood,WV,,city-us,0,39.443,-78.233,130
-18127,Greenwood,IN,,city-us,0,39.810,-84.885,206
-18128,Greenwood,IN,,city-us,0,40.844,-85.177,159
-18130,Greenwood,WA,,city-us,0,48.914,-122.442,243
-18131,Greenwood,TX,,city-us,0,33.381,-97.474,1365
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18105,Greenwood,IN,Johnson County,,city-us,64918,39.614,-86.107,18321
+18101,Greenwood,SC,Greenwood County,,city-us,22221,34.195,-82.162,11649
+18107,Greenwood,MS,Leflore County,,city-us,14037,33.516,-90.180,11016
+18119,Greenwood,AR,Sebastian County,,city-us,9605,35.216,-94.256,11101
+18087,Greenwood,MO,Cass County / Jackson County,,city-us,6052,38.842,-94.334,5207
+18083,Greenwood,PA,Blair County,,city-us,3564,40.536,-78.358,395
+18085,Greenwood,LA,Caddo Parish,,city-us,3103,32.443,-93.973,7074
+18108,Greenwood,MI,Marquette County,,city-us,1952,46.430,-87.800,4493
+18094,Greenwood,PA,Columbia County,,city-us,1895,41.150,-76.472,537
+18120,Greenwood,MI,St. Clair County,,city-us,1499,43.122,-82.690,2659
+18095,Greenwood,PA,Crawford County,,city-us,1419,41.530,-80.217,537
+18115,Greenwood,MI,Oscoda County,,city-us,1174,44.767,-84.311,397
+18113,Greenwood,MI,Oceana County,,city-us,1167,43.503,-86.094,397
+18091,Greenwood,WI,Clark County,,city-us,1117,44.770,-90.599,4004
+18090,Greenwood,MI,Clare County,,city-us,1113,44.024,-84.899,2033
+18117,Greenwood,PA,Perry County,,city-us,1037,40.557,-77.107,537
+18121,Greenwood,MN,St. Louis County,,city-us,1031,47.865,-92.341,1108
+18123,Greenwood,DE,Sussex County,,city-us,1026,38.807,-75.591,2905
+18097,Greenwood,CA,El Dorado County,,city-us,1007,38.897,-120.913,666
+18114,Greenwood,MI,Ogemaw County,,city-us,927,44.206,-84.192,2235
+18116,Greenwood,ME,Oxford County,,city-us,778,44.346,-70.656,3987
+18126,Greenwood,WI,Vernon County,,city-us,770,43.564,-90.418,1856
+18122,Greenwood,NY,Steuben County,,city-us,762,42.147,-77.662,4748
+18102,Greenwood,MN,Hennepin County,,city-us,718,44.915,-93.553,3348
+18129,Greenwood,MI,Wexford County,,city-us,642,44.478,-85.526,397
+18124,Greenwood,WI,Taylor County,,city-us,630,45.245,-90.200,2541
+18086,Greenwood,NE,Cass County,,city-us,604,40.963,-96.441,3264
+18103,Greenwood,FL,Jackson County,,city-us,546,30.870,-85.162,2187
+18106,Greenwood,PA,Juniata County,,city-us,536,40.629,-77.115,537
+18098,Greenwood,KS,Franklin County,,city-us,390,38.560,-95.444,1500
+18092,Greenwood,PA,Clearfield County,,city-us,359,40.920,-78.661,537
+18109,Greenwood,IL,McHenry County,,city-us,321,42.393,-88.389,2066
+18089,Greenwood,IL,Christian County,,city-us,202,39.393,-89.307,1108
+18093,Greenwood,MN,Clearwater County,,city-us,81,47.792,-95.397,1108
+18118,Greenwood,KS,Phillips County,,city-us,48,39.876,-99.235,0
+18125,Greenwood,SD,Tripp County,,city-us,7,43.645,-100.035,3956
+18081,Greenwood,VA,Albemarle County,,city-us,0,38.056,-78.771,709
+18082,Greenwood,VA,Bath County,,city-us,0,37.954,-79.966,186
+18084,Greenwood,WV,Boone County,,city-us,0,37.855,-81.631,188
+18088,Greenwood,SD,Charles Mix County,,city-us,0,42.923,-98.388,269
+18096,Greenwood,WV,Doddridge County,,city-us,0,39.275,-80.891,172
+18099,Greenwood,PA,Franklin County,,city-us,0,39.906,-77.519,280
+18100,Greenwood,CA,Glenn County,,city-us,0,39.696,-122.194,178
+18104,Greenwood,ID,Jerome County,,city-us,0,42.577,-114.049,833
+18110,Greenwood,TX,Midland County,,city-us,0,32.028,-101.896,344
+18111,Greenwood,GA,Mitchell County,,city-us,0,31.198,-84.340,639
+18112,Greenwood,WV,Morgan County,,city-us,0,39.443,-78.233,130
+18127,Greenwood,IN,Wayne County,,city-us,0,39.810,-84.885,206
+18128,Greenwood,IN,Wells County,,city-us,0,40.844,-85.177,159
+18130,Greenwood,WA,Whatcom County,,city-us,0,48.914,-122.442,243
+18131,Greenwood,TX,Wise County,,city-us,0,33.381,-97.474,1365

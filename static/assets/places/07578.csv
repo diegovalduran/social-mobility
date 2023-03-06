@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38452,San Marino,,,country,34892,43.942,12.458,37793
-38451,San Marino,CA,,city-us,12254,34.121,-118.106,24603
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38452,San Marino,,,,country,34892,43.942,12.458,37793
+38451,San Marino,CA,Los Angeles County,,city-us,12254,34.121,-118.106,24603

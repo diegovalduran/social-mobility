@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26622,Mannheim,,Germany,city-international,309721,49.488,8.466,37215
-26584,Manheim,PA,,city-us,5039,40.163,-76.395,4984
-26585,Manheim,PA,,city-us,3469,39.758,-76.867,419
-26583,Manheim,NY,,city-us,3069,43.058,-74.799,4062
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26622,Mannheim,,,Germany,city-international,309721,49.488,8.466,37215
+26584,Manheim,PA,Lancaster County,,city-us,5039,40.163,-76.395,4984
+26585,Manheim,PA,York County,,city-us,3469,39.758,-76.867,419
+26583,Manheim,NY,Herkimer County,,city-us,3069,43.058,-74.799,4062

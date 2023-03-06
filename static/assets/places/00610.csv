@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3086,Beech Hill,TN,,city-us,0,35.222,-86.294,242
-3087,Beech Hill,TN,,city-us,0,35.230,-86.889,177
-3088,Beech Hill,TN,,city-us,0,36.471,-86.106,177
-3089,Beech Hill,WV,,city-us,0,38.765,-82.003,172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3086,Beech Hill,TN,Franklin County,,city-us,0,35.222,-86.294,242
+3087,Beech Hill,TN,Giles County,,city-us,0,35.230,-86.889,177
+3088,Beech Hill,TN,Macon County,,city-us,0,36.471,-86.106,177
+3089,Beech Hill,WV,Mason County,,city-us,0,38.765,-82.003,172

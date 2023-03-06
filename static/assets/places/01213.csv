@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6102,Burdick,KS,,city-us,62,38.564,-96.846,5225
-6103,Burdick,SD,,city-us,23,45.782,-102.384,131
-6104,Burdick,IN,,city-us,0,41.601,-86.973,345
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6102,Burdick,KS,Morris County,,city-us,62,38.564,-96.846,5225
+6103,Burdick,SD,Perkins County,,city-us,23,45.782,-102.384,131
+6104,Burdick,IN,Porter County,,city-us,0,41.601,-86.973,345

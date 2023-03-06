@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40954,St. Benedict,KS,,city-us,50,39.887,-96.099,868
-40953,St. Benedict,IA,,city-us,23,43.038,-94.064,405
-40955,St. Benedict,MN,,city-us,0,44.588,-93.614,283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40954,St. Benedict,KS,Nemaha County,,city-us,50,39.887,-96.099,868
+40953,St. Benedict,IA,Kossuth County,,city-us,23,43.038,-94.064,405
+40955,St. Benedict,MN,Scott County,,city-us,0,44.588,-93.614,283

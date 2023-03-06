@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3386,Belvidere,IL,,city-us,29230,42.282,-88.891,2944
-3396,Belvidere,NJ,,city-us,2521,40.830,-75.078,13116
-3393,Belvidere,MI,,city-us,2243,43.423,-85.144,3293
-3389,Belvidere,MN,,city-us,476,44.430,-92.494,2203
-3387,Belvidere,WI,,city-us,404,44.272,-91.831,2246
-3392,Belvidere,VT,,city-us,355,44.773,-72.690,2493
-3395,Belvidere,NE,,city-us,50,40.252,-97.558,3030
-3390,Belvidere,SD,,city-us,44,43.832,-101.272,3322
-3388,Belvidere,TN,,city-us,0,35.125,-86.192,237
-3391,Belvidere,KS,,city-us,0,37.450,-99.080,735
-3394,Belvidere,NC,,city-us,0,36.269,-76.536,928
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3386,Belvidere,IL,Boone County,,city-us,29230,42.282,-88.891,2944
+3396,Belvidere,NJ,Warren County,,city-us,2521,40.830,-75.078,13116
+3393,Belvidere,MI,Montcalm County,,city-us,2243,43.423,-85.144,3293
+3389,Belvidere,MN,Goodhue County,,city-us,476,44.430,-92.494,2203
+3387,Belvidere,WI,Buffalo County,,city-us,404,44.272,-91.831,2246
+3392,Belvidere,VT,Lamoille County,,city-us,355,44.773,-72.690,2493
+3395,Belvidere,NE,Thayer County,,city-us,50,40.252,-97.558,3030
+3390,Belvidere,SD,Jackson County,,city-us,44,43.832,-101.272,3322
+3388,Belvidere,TN,Franklin County,,city-us,0,35.125,-86.192,237
+3391,Belvidere,KS,Kiowa County,,city-us,0,37.450,-99.080,735
+3394,Belvidere,NC,Perquimans County,,city-us,0,36.269,-76.536,928

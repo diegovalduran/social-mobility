@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24815,Libertyville,IL,,city-us,53967,42.284,-87.945,2298
-24814,Libertyville,IA,,city-us,265,40.958,-92.051,3072
-24813,Libertyville,AL,,city-us,109,31.242,-86.461,1868
-24816,Libertyville,MO,,city-us,0,37.704,-90.288,502
-24817,Libertyville,IN,,city-us,0,39.603,-87.519,366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24815,Libertyville,IL,Lake County,,city-us,53967,42.284,-87.945,2298
+24814,Libertyville,IA,Jefferson County,,city-us,265,40.958,-92.051,3072
+24813,Libertyville,AL,Covington County,,city-us,109,31.242,-86.461,1868
+24816,Libertyville,MO,St. Francois County,,city-us,0,37.704,-90.288,502
+24817,Libertyville,IN,Vigo County,,city-us,0,39.603,-87.519,366

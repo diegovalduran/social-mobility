@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-659,Allenhurst,GA,,city-us,831,31.784,-81.608,2570
-661,Allenhurst,NJ,,city-us,470,40.236,-74.001,15708
-660,Allenhurst,TX,,city-us,0,29.009,-95.845,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+659,Allenhurst,GA,Liberty County,,city-us,831,31.784,-81.608,2570
+661,Allenhurst,NJ,Monmouth County,,city-us,470,40.236,-74.001,15708
+660,Allenhurst,TX,Matagorda County,,city-us,0,29.009,-95.845,243

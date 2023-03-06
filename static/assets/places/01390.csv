@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6991,Carney,MD,,city-us,29873,39.394,-76.524,5906
-6993,Carney,OK,,city-us,551,35.808,-97.013,2115
-6994,Carney,MI,,city-us,178,45.587,-87.557,3404
-6992,Carney,WV,,city-us,0,38.551,-81.586,116
-6995,Carney,MT,,city-us,0,45.765,-110.124,416
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6991,Carney,MD,Baltimore County,,city-us,29873,39.394,-76.524,5906
+6993,Carney,OK,Lincoln County,,city-us,551,35.808,-97.013,2115
+6994,Carney,MI,Menominee County,,city-us,178,45.587,-87.557,3404
+6992,Carney,WV,Kanawha County,,city-us,0,38.551,-81.586,116
+6995,Carney,MT,Sweet Grass County,,city-us,0,45.765,-110.124,416

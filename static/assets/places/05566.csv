@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28616,Millett,MI,,city-us,33119,42.727,-84.660,4682
-28617,Millett,TX,,city-us,0,28.582,-99.199,1207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28616,Millett,MI,Eaton County,,city-us,33119,42.727,-84.660,4682
+28617,Millett,TX,La Salle County,,city-us,0,28.582,-99.199,1207

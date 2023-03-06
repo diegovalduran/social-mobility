@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34846,Poland,,,country,37991766,51.919,19.145,74076
-34840,Poland,ME,,city-us,5966,44.048,-70.394,9456
-34845,Poland,OH,,city-us,2420,41.024,-80.615,5902
-34842,Poland,NY,,city-us,2183,42.130,-79.121,3590
-34844,Poland,NY,,city-us,484,43.226,-75.061,3918
-34841,Poland,WI,,city-us,0,44.444,-87.826,565
-34843,Poland,IN,,city-us,0,39.444,-86.951,4127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34846,Poland,,,,country,37991766,51.919,19.145,74076
+34840,Poland,ME,Androscoggin County,,city-us,5966,44.048,-70.394,9456
+34845,Poland,OH,Mahoning County,,city-us,2420,41.024,-80.615,5902
+34842,Poland,NY,Chautauqua County,,city-us,2183,42.130,-79.121,3590
+34844,Poland,NY,Herkimer County,,city-us,484,43.226,-75.061,3918
+34841,Poland,WI,Brown County,,city-us,0,44.444,-87.826,565
+34843,Poland,IN,Clay County,,city-us,0,39.444,-86.951,4127

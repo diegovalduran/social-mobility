@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12710,East Liberty,OH,,city-us,366,40.331,-83.582,1538
-12708,East Liberty,IN,,city-us,0,40.936,-84.862,314
-12709,East Liberty,OH,,city-us,0,40.327,-82.817,205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12710,East Liberty,OH,Logan County,,city-us,366,40.331,-83.582,1538
+12708,East Liberty,IN,Allen County,,city-us,0,40.936,-84.862,314
+12709,East Liberty,OH,Delaware County,,city-us,0,40.327,-82.817,205

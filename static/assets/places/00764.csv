@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3983,Bigelow,MN,,city-us,368,43.555,-95.619,3227
-3984,Bigelow,AR,,city-us,347,35.001,-92.630,2886
-3982,Bigelow,KS,,city-us,40,39.608,-96.531,537
-3981,Bigelow,MO,,city-us,5,40.111,-95.290,2832
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3983,Bigelow,MN,Nobles County,,city-us,368,43.555,-95.619,3227
+3984,Bigelow,AR,Perry County,,city-us,347,35.001,-92.630,2886
+3982,Bigelow,KS,Marshall County,,city-us,40,39.608,-96.531,537
+3981,Bigelow,MO,Holt County,,city-us,5,40.111,-95.290,2832

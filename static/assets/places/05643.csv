@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29011,Mona,UT,,city-us,1815,39.816,-111.855,3299
-29010,Mona,IL,,city-us,261,40.894,-88.187,903
-29012,Mona,IA,,city-us,35,43.487,-92.941,784
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29011,Mona,UT,Juab County,,city-us,1815,39.816,-111.855,3299
+29010,Mona,IL,Ford County,,city-us,261,40.894,-88.187,903
+29012,Mona,IA,Mitchell County,,city-us,35,43.487,-92.941,784

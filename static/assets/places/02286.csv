@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11508,Delton,WI,,city-us,2472,43.565,-89.795,2354
-11506,Delton,MI,,city-us,854,42.500,-85.408,1224
-11507,Delton,MN,,city-us,130,44.058,-95.050,2145
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11508,Delton,WI,Sauk County,,city-us,2472,43.565,-89.795,2354
+11506,Delton,MI,Barry County,,city-us,854,42.500,-85.408,1224
+11507,Delton,MN,Cottonwood County,,city-us,130,44.058,-95.050,2145

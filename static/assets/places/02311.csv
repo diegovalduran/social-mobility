@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11652,Detour,MI,,city-us,679,46.004,-84.011,2533
-11651,Detour,MD,,city-us,0,39.604,-77.268,725
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11652,Detour,MI,Chippewa County,,city-us,679,46.004,-84.011,2533
+11651,Detour,MD,Carroll County,,city-us,0,39.604,-77.268,725

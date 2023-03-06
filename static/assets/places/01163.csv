@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5829,Buck Creek,IN,,city-us,183,40.488,-86.761,964
-5827,Buck Creek,KS,,city-us,0,39.050,-95.282,292
-5828,Buck Creek,MO,,city-us,0,38.231,-92.769,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5829,Buck Creek,IN,Tippecanoe County,,city-us,183,40.488,-86.761,964
+5827,Buck Creek,KS,Jefferson County,,city-us,0,39.050,-95.282,292
+5828,Buck Creek,MO,Morgan County,,city-us,0,38.231,-92.769,359

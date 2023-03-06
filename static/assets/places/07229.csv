@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36625,Richwood,TX,,city-us,4761,29.056,-95.410,2940
-36631,Richwood,LA,,city-us,4013,32.449,-92.085,2518
-36628,Richwood,NJ,,city-us,3878,39.723,-75.165,845
-36633,Richwood,OH,,city-us,2323,40.426,-83.297,11443
-36630,Richwood,WV,,city-us,1637,38.225,-80.533,11298
-36632,Richwood,WI,,city-us,531,43.246,-90.614,2054
-36629,Richwood,IL,,city-us,514,39.133,-90.545,1088
-36623,Richwood,MN,,city-us,0,46.975,-95.823,168
-36624,Richwood,KY,,city-us,0,38.921,-84.625,241
-36626,Richwood,WI,,city-us,0,43.241,-88.783,105
-36627,Richwood,GA,,city-us,0,32.042,-83.786,298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36625,Richwood,TX,Brazoria County,,city-us,4761,29.056,-95.410,2940
+36631,Richwood,LA,Ouachita Parish,,city-us,4013,32.449,-92.085,2518
+36628,Richwood,NJ,Gloucester County,,city-us,3878,39.723,-75.165,845
+36633,Richwood,OH,Union County,,city-us,2323,40.426,-83.297,11443
+36630,Richwood,WV,Nicholas County,,city-us,1637,38.225,-80.533,11298
+36632,Richwood,WI,Richland County,,city-us,531,43.246,-90.614,2054
+36629,Richwood,IL,Jersey County,,city-us,514,39.133,-90.545,1088
+36623,Richwood,MN,Becker County,,city-us,0,46.975,-95.823,168
+36624,Richwood,KY,Boone County,,city-us,0,38.921,-84.625,241
+36626,Richwood,WI,Dodge County,,city-us,0,43.241,-88.783,105
+36627,Richwood,GA,Dooly County,,city-us,0,32.042,-83.786,298

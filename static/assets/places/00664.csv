@@ -1,38 +1,38 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3358,Belmont,CA,,city-us,27225,37.520,-122.276,9961
-3351,Belmont,MA,,city-us,27056,42.396,-71.179,16051
-3341,Belmont,NC,,city-us,15136,35.243,-81.037,17059
-3349,Belmont,VA,,city-us,9589,39.065,-77.510,1268
-3331,Belmont,NH,,city-us,7380,43.474,-71.482,5905
-3340,Belmont,IL,,city-us,5250,41.793,-88.038,1083
-3336,Belmont,PA,,city-us,2933,40.287,-78.889,2281
-3344,Belmont,IL,,city-us,2424,40.730,-87.708,973
-3362,Belmont,MS,,city-us,1856,34.510,-88.209,3613
-3364,Belmont,ME,,city-us,1003,44.389,-69.119,3510
-3354,Belmont,WV,,city-us,862,39.380,-81.258,3355
-3329,Belmont,NY,,city-us,853,42.223,-78.034,2658
-3348,Belmont,WI,,city-us,796,42.788,-90.363,3945
-3355,Belmont,WI,,city-us,618,44.286,-89.297,2249
-3332,Belmont,OH,,city-us,410,40.029,-81.039,3886
-3357,Belmont,LA,,city-us,305,31.716,-93.509,325
-3356,Belmont,VT,,city-us,245,43.416,-72.822,168
-3345,Belmont,MN,,city-us,217,43.715,-95.032,2139
-3353,Belmont,KS,,city-us,82,39.698,-99.459,217
-3363,Belmont,ND,,city-us,78,47.621,-96.912,0
-3359,Belmont,SD,,city-us,66,44.676,-98.402,0
-3339,Belmont,SD,,city-us,64,43.305,-98.160,0
-3347,Belmont,KS,,city-us,44,37.514,-98.190,217
-3342,Belmont,TX,,city-us,36,29.523,-97.684,5006
-3330,Belmont,TN,,city-us,0,36.246,-84.031,157
-3333,Belmont,KY,,city-us,0,38.605,-84.119,93
-3334,Belmont,IN,,city-us,0,39.152,-86.347,1385
-3335,Belmont,KY,,city-us,0,37.896,-85.714,182
-3337,Belmont,TN,,city-us,0,35.421,-86.113,181
-3338,Belmont,AR,,city-us,0,35.560,-94.179,156
-3343,Belmont,GA,,city-us,0,34.186,-83.761,251
-3346,Belmont,TN,,city-us,0,36.010,-83.317,155
-3350,Belmont,AZ,,city-us,0,33.548,-112.160,1939
-3352,Belmont,VA,,city-us,0,37.163,-80.447,195
-3360,Belmont,VA,,city-us,0,38.154,-77.866,2367
-3361,Belmont,AL,,city-us,0,32.559,-87.942,459
-3365,Belmont,WA,,city-us,0,47.088,-117.161,598
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3358,Belmont,CA,San Mateo County,,city-us,27225,37.520,-122.276,9961
+3351,Belmont,MA,Middlesex County,,city-us,27056,42.396,-71.179,16051
+3341,Belmont,NC,Gaston County,,city-us,15136,35.243,-81.037,17059
+3349,Belmont,VA,Loudoun County,,city-us,9589,39.065,-77.510,1268
+3331,Belmont,NH,Belknap County,,city-us,7380,43.474,-71.482,5905
+3340,Belmont,IL,DuPage County,,city-us,5250,41.793,-88.038,1083
+3336,Belmont,PA,Cambria County,,city-us,2933,40.287,-78.889,2281
+3344,Belmont,IL,Iroquois County,,city-us,2424,40.730,-87.708,973
+3362,Belmont,MS,Tishomingo County,,city-us,1856,34.510,-88.209,3613
+3364,Belmont,ME,Waldo County,,city-us,1003,44.389,-69.119,3510
+3354,Belmont,WV,Pleasants County,,city-us,862,39.380,-81.258,3355
+3329,Belmont,NY,Allegany County,,city-us,853,42.223,-78.034,2658
+3348,Belmont,WI,Lafayette County,,city-us,796,42.788,-90.363,3945
+3355,Belmont,WI,Portage County,,city-us,618,44.286,-89.297,2249
+3332,Belmont,OH,Belmont County,,city-us,410,40.029,-81.039,3886
+3357,Belmont,LA,Sabine Parish,,city-us,305,31.716,-93.509,325
+3356,Belmont,VT,Rutland County,,city-us,245,43.416,-72.822,168
+3345,Belmont,MN,Jackson County,,city-us,217,43.715,-95.032,2139
+3353,Belmont,KS,Phillips County,,city-us,82,39.698,-99.459,217
+3363,Belmont,ND,Traill County,,city-us,78,47.621,-96.912,0
+3359,Belmont,SD,Spink County,,city-us,66,44.676,-98.402,0
+3339,Belmont,SD,Douglas County,,city-us,64,43.305,-98.160,0
+3347,Belmont,KS,Kingman County,,city-us,44,37.514,-98.190,217
+3342,Belmont,TX,Gonzales County,,city-us,36,29.523,-97.684,5006
+3330,Belmont,TN,Anderson County,,city-us,0,36.246,-84.031,157
+3333,Belmont,KY,Bracken County,,city-us,0,38.605,-84.119,93
+3334,Belmont,IN,Brown County,,city-us,0,39.152,-86.347,1385
+3335,Belmont,KY,Bullitt County,,city-us,0,37.896,-85.714,182
+3337,Belmont,TN,Coffee County,,city-us,0,35.421,-86.113,181
+3338,Belmont,AR,Crawford County,,city-us,0,35.560,-94.179,156
+3343,Belmont,GA,Hall County,,city-us,0,34.186,-83.761,251
+3346,Belmont,TN,Jefferson County,,city-us,0,36.010,-83.317,155
+3350,Belmont,AZ,Maricopa County,,city-us,0,33.548,-112.160,1939
+3352,Belmont,VA,Montgomery County,,city-us,0,37.163,-80.447,195
+3360,Belmont,VA,Spotsylvania County,,city-us,0,38.154,-77.866,2367
+3361,Belmont,AL,Sumter County,,city-us,0,32.559,-87.942,459
+3365,Belmont,WA,Whitman County,,city-us,0,47.088,-117.161,598

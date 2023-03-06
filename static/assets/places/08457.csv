@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42663,Tennyson,WI,,city-us,349,42.690,-90.685,2972
-42664,Tennyson,IN,,city-us,219,38.082,-87.118,3467
-42662,Tennyson,TX,,city-us,0,31.742,-100.286,750
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42663,Tennyson,WI,Grant County,,city-us,349,42.690,-90.685,2972
+42664,Tennyson,IN,Warrick County,,city-us,219,38.082,-87.118,3467
+42662,Tennyson,TX,Coke County,,city-us,0,31.742,-100.286,750

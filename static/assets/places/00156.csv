@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-808,Alsen,ND,,city-us,30,48.631,-98.705,3200
-809,Alsen,LA,,city-us,0,30.571,-91.204,500
-810,Alsen,SD,,city-us,0,42.961,-96.805,1344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+808,Alsen,ND,Cavalier County,,city-us,30,48.631,-98.705,3200
+809,Alsen,LA,East Baton Rouge Parish,,city-us,0,30.571,-91.204,500
+810,Alsen,SD,Union County,,city-us,0,42.961,-96.805,1344

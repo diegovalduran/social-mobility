@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30424,Nemaha,NE,,city-us,721,40.485,-96.628,209
-30425,Nemaha,KS,,city-us,128,39.957,-96.070,0
-30426,Nemaha,NE,,city-us,115,40.338,-95.673,3261
-30427,Nemaha,IA,,city-us,67,42.516,-95.088,3317
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30424,Nemaha,NE,Gage County,,city-us,721,40.485,-96.628,209
+30425,Nemaha,KS,Nemaha County,,city-us,128,39.957,-96.070,0
+30426,Nemaha,NE,Nemaha County,,city-us,115,40.338,-95.673,3261
+30427,Nemaha,IA,Sac County,,city-us,67,42.516,-95.088,3317

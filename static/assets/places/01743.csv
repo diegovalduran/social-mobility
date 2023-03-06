@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8973,Clintondale,NY,,city-us,1857,41.695,-74.051,2202
-8972,Clintondale,PA,,city-us,110,41.017,-77.521,933
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8973,Clintondale,NY,Ulster County,,city-us,1857,41.695,-74.051,2202
+8972,Clintondale,PA,Clinton County,,city-us,110,41.017,-77.521,933

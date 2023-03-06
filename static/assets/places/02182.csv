@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10952,Danby,NY,,city-us,3423,42.332,-76.472,7219
-10948,Danby,MI,,city-us,3063,42.806,-84.901,1930
-10950,Danby,VT,,city-us,199,43.346,-72.995,3557
-10949,Danby,MO,,city-us,0,38.109,-90.308,502
-10951,Danby,CA,,city-us,0,34.636,-115.348,476
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10952,Danby,NY,Tompkins County,,city-us,3423,42.332,-76.472,7219
+10948,Danby,MI,Ionia County,,city-us,3063,42.806,-84.901,1930
+10950,Danby,VT,Rutland County,,city-us,199,43.346,-72.995,3557
+10949,Danby,MO,Jefferson County,,city-us,0,38.109,-90.308,502
+10951,Danby,CA,San Bernardino County,,city-us,0,34.636,-115.348,476

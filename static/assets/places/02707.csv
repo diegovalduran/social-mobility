@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13435,Elliston,VA,,city-us,1141,37.217,-80.233,1310
-13436,Elliston,MT,,city-us,197,46.562,-112.431,2259
-13437,Elliston,SD,,city-us,29,43.216,-99.589,0
-13434,Elliston,IN,,city-us,0,39.027,-86.969,884
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13435,Elliston,VA,Montgomery County,,city-us,1141,37.217,-80.233,1310
+13436,Elliston,MT,Powell County,,city-us,197,46.562,-112.431,2259
+13437,Elliston,SD,Tripp County,,city-us,29,43.216,-99.589,0
+13434,Elliston,IN,Greene County,,city-us,0,39.027,-86.969,884

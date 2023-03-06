@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13664,Eminence,KY,,city-us,2708,38.370,-85.181,4122
-13667,Eminence,MO,,city-us,516,37.151,-91.358,4223
-13665,Eminence,IL,,city-us,380,40.276,-89.317,351
-13666,Eminence,IN,,city-us,0,39.521,-86.641,718
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13664,Eminence,KY,Henry County,,city-us,2708,38.370,-85.181,4122
+13667,Eminence,MO,Shannon County,,city-us,516,37.151,-91.358,4223
+13665,Eminence,IL,Logan County,,city-us,380,40.276,-89.317,351
+13666,Eminence,IN,Morgan County,,city-us,0,39.521,-86.641,718

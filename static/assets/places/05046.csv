@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25899,Lowland,ND,,city-us,26,48.507,-102.025,0
-25898,Lowland,TN,,city-us,0,36.158,-83.208,800
-25900,Lowland,NC,,city-us,0,35.299,-76.564,288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25899,Lowland,ND,Mountrail County,,city-us,26,48.507,-102.025,0
+25898,Lowland,TN,Hamblen County,,city-us,0,36.158,-83.208,800
+25900,Lowland,NC,Pamlico County,,city-us,0,35.299,-76.564,288

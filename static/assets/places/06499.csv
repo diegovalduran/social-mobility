@@ -1,27 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33122,Paris,,France,city-international,11027000,48.857,2.352,107698
-33120,Paris,OH,,city-us,27854,40.248,-83.380,187
-33108,Paris,TX,,city-us,24407,33.661,-95.556,14595
-33103,Paris,TN,,city-us,10341,36.302,-88.327,9718
-33098,Paris,KY,,city-us,10209,38.210,-84.253,8531
-33100,Paris,IL,,city-us,9037,39.628,-87.710,1301
-33116,Paris,ME,,city-us,5265,44.248,-70.491,7638
-33115,Paris,NY,,city-us,4267,42.973,-75.272,3739
-33112,Paris,AR,,city-us,3213,35.292,-93.730,11223
-33113,Paris,MI,,city-us,3209,43.773,-85.504,3465
-33117,Paris,OH,,city-us,1659,41.173,-81.038,1768
-33106,Paris,WI,,city-us,1397,42.634,-88.051,2489
-33114,Paris,MO,,city-us,1133,39.481,-92.001,4583
-33121,Paris,PA,,city-us,691,40.404,-80.513,366
-33102,Paris,WI,,city-us,662,42.647,-90.617,1689
-33097,Paris,ID,,city-us,553,42.227,-111.401,4584
-33111,Paris,KS,,city-us,547,38.205,-94.828,148
-33104,Paris,MI,,city-us,487,43.735,-82.829,2610
-33107,Paris,MS,,city-us,163,34.179,-89.460,627
-33119,Paris,ND,,city-us,18,47.132,-99.154,0
-33099,Paris,NH,,city-us,0,44.651,-71.321,474
-33101,Paris,VA,,city-us,0,39.004,-77.951,4891
-33105,Paris,IN,,city-us,0,38.824,-85.634,265
-33109,Paris,OR,,city-us,0,44.252,-123.771,461
-33110,Paris,IA,,city-us,0,42.239,-91.579,924
-33118,Paris,OH,,city-us,0,40.798,-81.167,496
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33122,Paris,,,France,city-international,11027000,48.857,2.352,107698
+33120,Paris,OH,Union County,,city-us,27854,40.248,-83.380,187
+33108,Paris,TX,Lamar County,,city-us,24407,33.661,-95.556,14595
+33103,Paris,TN,Henry County,,city-us,10341,36.302,-88.327,9718
+33098,Paris,KY,Bourbon County,,city-us,10209,38.210,-84.253,8531
+33100,Paris,IL,Edgar County,,city-us,9037,39.628,-87.710,1301
+33116,Paris,ME,Oxford County,,city-us,5265,44.248,-70.491,7638
+33115,Paris,NY,Oneida County,,city-us,4267,42.973,-75.272,3739
+33112,Paris,AR,Logan County,,city-us,3213,35.292,-93.730,11223
+33113,Paris,MI,Mecosta County,,city-us,3209,43.773,-85.504,3465
+33117,Paris,OH,Portage County,,city-us,1659,41.173,-81.038,1768
+33106,Paris,WI,Kenosha County,,city-us,1397,42.634,-88.051,2489
+33114,Paris,MO,Monroe County,,city-us,1133,39.481,-92.001,4583
+33121,Paris,PA,Washington County,,city-us,691,40.404,-80.513,366
+33102,Paris,WI,Grant County,,city-us,662,42.647,-90.617,1689
+33097,Paris,ID,Bear Lake County,,city-us,553,42.227,-111.401,4584
+33111,Paris,KS,Linn County,,city-us,547,38.205,-94.828,148
+33104,Paris,MI,Huron County,,city-us,487,43.735,-82.829,2610
+33107,Paris,MS,Lafayette County,,city-us,163,34.179,-89.460,627
+33119,Paris,ND,Stutsman County,,city-us,18,47.132,-99.154,0
+33099,Paris,NH,Co��s County,,city-us,0,44.651,-71.321,474
+33101,Paris,VA,Fauquier County,,city-us,0,39.004,-77.951,4891
+33105,Paris,IN,Jefferson County,,city-us,0,38.824,-85.634,265
+33109,Paris,OR,Lane County,,city-us,0,44.252,-123.771,461
+33110,Paris,IA,Linn County,,city-us,0,42.239,-91.579,924
+33118,Paris,OH,Stark County,,city-us,0,40.798,-81.167,496

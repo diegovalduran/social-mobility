@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37389,Rolling Prairie,IN,,city-us,334,41.671,-86.616,1586
-37388,Rolling Prairie,ND,,city-us,34,47.443,-98.681,0
-37387,Rolling Prairie,WI,,city-us,0,43.459,-88.734,176
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37389,Rolling Prairie,IN,LaPorte County,,city-us,334,41.671,-86.616,1586
+37388,Rolling Prairie,ND,Foster County,,city-us,34,47.443,-98.681,0
+37387,Rolling Prairie,WI,Dodge County,,city-us,0,43.459,-88.734,176

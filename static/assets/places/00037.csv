@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-320,Aid,OH,,city-us,794,38.643,-82.535,1424
-203,Ade,IN,,city-us,0,40.868,-87.445,437
-321,Aid,MO,,city-us,0,36.877,-90.041,372
+id,name,state,county,country,level,population,latitude,longitude,wiki
+320,Aid,OH,Lawrence County,,city-us,794,38.643,-82.535,1424
+203,Ade,IN,Newton County,,city-us,0,40.868,-87.445,437
+321,Aid,MO,Stoddard County,,city-us,0,36.877,-90.041,372

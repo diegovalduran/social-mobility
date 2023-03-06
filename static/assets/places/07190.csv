@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36362,Revere,MA,,city-us,59075,42.408,-71.012,21013
-36361,Revere,MN,,city-us,92,44.224,-95.364,2982
-36359,Revere,MO,,city-us,76,40.495,-91.678,3552
-36358,Revere,PA,,city-us,0,40.515,-75.161,257
-36360,Revere,NC,,city-us,0,35.903,-82.703,827
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36362,Revere,MA,Suffolk County,,city-us,59075,42.408,-71.012,21013
+36361,Revere,MN,Redwood County,,city-us,92,44.224,-95.364,2982
+36359,Revere,MO,Clark County,,city-us,76,40.495,-91.678,3552
+36358,Revere,PA,Bucks County,,city-us,0,40.515,-75.161,257
+36360,Revere,NC,Madison County,,city-us,0,35.903,-82.703,827

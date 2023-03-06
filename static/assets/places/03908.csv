@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20007,Highpoint,OH,,city-us,1558,39.288,-84.350,583
-20008,Highpoint,KS,,city-us,30,38.330,-99.693,0
-20009,Highpoint,FL,,city-us,0,27.917,-82.713,444
-20010,Highpoint,MS,,city-us,0,33.188,-89.146,181
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20007,Highpoint,OH,Hamilton County,,city-us,1558,39.288,-84.350,583
+20008,Highpoint,KS,Ness County,,city-us,30,38.330,-99.693,0
+20009,Highpoint,FL,Pinellas County,,city-us,0,27.917,-82.713,444
+20010,Highpoint,MS,Winston County,,city-us,0,33.188,-89.146,181

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14976,Fisk,MO,,city-us,314,36.782,-90.209,3914
-14975,Fisk,IA,,city-us,0,41.201,-94.528,854
-14977,Fisk,WI,,city-us,0,43.956,-88.678,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14976,Fisk,MO,Butler County,,city-us,314,36.782,-90.209,3914
+14975,Fisk,IA,Adair County,,city-us,0,41.201,-94.528,854
+14977,Fisk,WI,Winnebago County,,city-us,0,43.956,-88.678,272

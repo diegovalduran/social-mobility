@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-824,Alta Sierra,CA,,city-us,7769,39.142,-121.054,4928
-823,Alta Sierra,CA,,city-us,0,35.729,-118.549,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+824,Alta Sierra,CA,Nevada County,,city-us,7769,39.142,-121.054,4928
+823,Alta Sierra,CA,Kern County,,city-us,0,35.729,-118.549,199

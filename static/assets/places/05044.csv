@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25887,Lowell,MA,,city-us,113994,42.633,-71.316,43148
-25881,Lowell,IN,,city-us,10972,41.291,-87.421,5144
-25873,Lowell,AR,,city-us,10177,36.255,-94.131,5577
-25880,Lowell,MI,,city-us,6289,42.896,-85.373,2714
-25876,Lowell,NC,,city-us,3701,35.268,-81.103,5396
-25882,Lowell,OR,,city-us,1221,43.918,-122.784,4175
-25889,Lowell,VT,,city-us,885,44.793,-72.458,7073
-25874,Lowell,KS,,city-us,671,37.103,-94.673,439
-25894,Lowell,OH,,city-us,561,39.530,-81.506,6803
-25890,Lowell,ME,,city-us,368,45.214,-68.507,2925
-25875,Lowell,WI,,city-us,307,43.340,-88.817,3321
-25891,Lowell,MN,,city-us,274,47.805,-96.678,2007
-25877,Lowell,IA,,city-us,70,40.831,-91.436,759
-25886,Lowell,SD,,city-us,53,45.726,-97.803,0
-25878,Lowell,ID,,city-us,30,46.144,-115.597,1120
-25872,Lowell,IN,,city-us,0,39.253,-85.946,187
-25879,Lowell,NE,,city-us,0,40.648,-98.847,199
-25883,Lowell,IL,,city-us,0,41.251,-89.011,800
-25884,Lowell,MO,,city-us,0,39.851,-93.355,243
-25885,Lowell,FL,,city-us,0,29.330,-82.192,589
-25888,Lowell,CA,,city-us,0,38.174,-122.253,259
-25892,Lowell,OH,,city-us,0,41.207,-83.055,291
-25893,Lowell,WV,,city-us,0,37.654,-80.729,3053
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25887,Lowell,MA,Middlesex County,,city-us,113994,42.633,-71.316,43148
+25881,Lowell,IN,Lake County,,city-us,10972,41.291,-87.421,5144
+25873,Lowell,AR,Benton County,,city-us,10177,36.255,-94.131,5577
+25880,Lowell,MI,Kent County,,city-us,6289,42.896,-85.373,2714
+25876,Lowell,NC,Gaston County,,city-us,3701,35.268,-81.103,5396
+25882,Lowell,OR,Lane County,,city-us,1221,43.918,-122.784,4175
+25889,Lowell,VT,Orleans County,,city-us,885,44.793,-72.458,7073
+25874,Lowell,KS,Cherokee County,,city-us,671,37.103,-94.673,439
+25894,Lowell,OH,Washington County,,city-us,561,39.530,-81.506,6803
+25890,Lowell,ME,Penobscot County,,city-us,368,45.214,-68.507,2925
+25875,Lowell,WI,Dodge County,,city-us,307,43.340,-88.817,3321
+25891,Lowell,MN,Polk County,,city-us,274,47.805,-96.678,2007
+25877,Lowell,IA,Henry County,,city-us,70,40.831,-91.436,759
+25886,Lowell,SD,Marshall County,,city-us,53,45.726,-97.803,0
+25878,Lowell,ID,Idaho County,,city-us,30,46.144,-115.597,1120
+25872,Lowell,IN,Bartholomew County,,city-us,0,39.253,-85.946,187
+25879,Lowell,NE,Kearney County,,city-us,0,40.648,-98.847,199
+25883,Lowell,IL,LaSalle County,,city-us,0,41.251,-89.011,800
+25884,Lowell,MO,Linn County,,city-us,0,39.851,-93.355,243
+25885,Lowell,FL,Marion County,,city-us,0,29.330,-82.192,589
+25888,Lowell,CA,Napa County,,city-us,0,38.174,-122.253,259
+25892,Lowell,OH,Seneca County,,city-us,0,41.207,-83.055,291
+25893,Lowell,WV,Summers County,,city-us,0,37.654,-80.729,3053

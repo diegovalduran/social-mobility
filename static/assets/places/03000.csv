@@ -1,30 +1,30 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15027,Five Points,MI,,city-us,11362,42.811,-83.625,3787
-15031,Five Points,MI,,city-us,4821,42.998,-84.211,4968
-15016,Five Points,WI,,city-us,2153,43.016,-89.533,2194
-15035,Five Points,OH,,city-us,1443,39.569,-84.193,2033
-15023,Five Points,NC,,city-us,1221,35.017,-79.361,2326
-15015,Five Points,FL,,city-us,1111,30.209,-82.637,1830
-15030,Five Points,WI,,city-us,444,43.320,-90.595,1862
-15013,Five Points,AL,,city-us,118,33.018,-85.350,3150
-15011,Five Points,IN,,city-us,0,41.123,-84.940,252
-15012,Five Points,PA,,city-us,0,40.362,-75.835,565
-15014,Five Points,OH,,city-us,0,40.101,-83.544,279
-15017,Five Points,IL,,city-us,0,42.002,-88.740,128
-15018,Five Points,IA,,city-us,0,42.551,-90.858,130
-15019,Five Points,TX,,city-us,0,32.279,-96.902,759
-15020,Five Points,NC,,city-us,0,35.962,-78.291,292
-15021,Five Points,CA,,city-us,0,36.429,-120.103,199
-15022,Five Points,TN,,city-us,0,35.182,-86.934,178
-15024,Five Points,TN,,city-us,0,35.046,-87.311,452
-15025,Five Points,TN,,city-us,0,35.518,-88.666,171
-15026,Five Points,IN,,city-us,0,39.581,-86.317,255
-15028,Five Points,OH,,city-us,0,39.674,-83.180,354
-15029,Five Points,TN,,city-us,0,35.445,-85.017,275
-15032,Five Points,MN,,city-us,0,45.608,-94.261,190
-15033,Five Points,IN,,city-us,0,38.747,-85.175,165
-15034,Five Points,IN,,city-us,0,39.712,-84.852,162
-15036,Five Points,FL,,city-us,0,30.713,-85.751,228
-15037,Five Points,IN,,city-us,0,40.582,-85.320,161
-15038,Five Points,WV,,city-us,0,39.682,-80.724,78
-15039,Five Points,IN,,city-us,0,41.193,-85.491,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15027,Five Points,MI,Oakland County,,city-us,11362,42.811,-83.625,3787
+15031,Five Points,MI,Shiawassee County,,city-us,4821,42.998,-84.211,4968
+15016,Five Points,WI,Dane County,,city-us,2153,43.016,-89.533,2194
+15035,Five Points,OH,Warren County,,city-us,1443,39.569,-84.193,2033
+15023,Five Points,NC,Hoke County,,city-us,1221,35.017,-79.361,2326
+15015,Five Points,FL,Columbia County,,city-us,1111,30.209,-82.637,1830
+15030,Five Points,WI,Richland County,,city-us,444,43.320,-90.595,1862
+15013,Five Points,AL,Chambers County,,city-us,118,33.018,-85.350,3150
+15011,Five Points,IN,Allen County,,city-us,0,41.123,-84.940,252
+15012,Five Points,PA,Berks County,,city-us,0,40.362,-75.835,565
+15014,Five Points,OH,Champaign County,,city-us,0,40.101,-83.544,279
+15017,Five Points,IL,DeKalb County,,city-us,0,42.002,-88.740,128
+15018,Five Points,IA,Dubuque County,,city-us,0,42.551,-90.858,130
+15019,Five Points,TX,Ellis County,,city-us,0,32.279,-96.902,759
+15020,Five Points,NC,Franklin County,,city-us,0,35.962,-78.291,292
+15021,Five Points,CA,Fresno County,,city-us,0,36.429,-120.103,199
+15022,Five Points,TN,Giles County,,city-us,0,35.182,-86.934,178
+15024,Five Points,TN,Lawrence County,,city-us,0,35.046,-87.311,452
+15025,Five Points,TN,Madison County,,city-us,0,35.518,-88.666,171
+15026,Five Points,IN,Morgan County,,city-us,0,39.581,-86.317,255
+15028,Five Points,OH,Pickaway County,,city-us,0,39.674,-83.180,354
+15029,Five Points,TN,Rhea County,,city-us,0,35.445,-85.017,275
+15032,Five Points,MN,Stearns County,,city-us,0,45.608,-94.261,190
+15033,Five Points,IN,Switzerland County,,city-us,0,38.747,-85.175,165
+15034,Five Points,IN,Union County,,city-us,0,39.712,-84.852,162
+15036,Five Points,FL,Washington County,,city-us,0,30.713,-85.751,228
+15037,Five Points,IN,Wells County,,city-us,0,40.582,-85.320,161
+15038,Five Points,WV,Wetzel County,,city-us,0,39.682,-80.724,78
+15039,Five Points,IN,Whitley County,,city-us,0,41.193,-85.491,165

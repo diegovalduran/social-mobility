@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16269,Garber,OK,,city-us,720,36.437,-97.586,3767
-16268,Garber,IA,,city-us,77,42.742,-91.262,2899
-16270,Garber,MO,,city-us,0,36.692,-93.299,400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16269,Garber,OK,Garfield County,,city-us,720,36.437,-97.586,3767
+16268,Garber,IA,Clayton County,,city-us,77,42.742,-91.262,2899
+16270,Garber,MO,Taney County,,city-us,0,36.692,-93.299,400

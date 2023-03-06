@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37838,Royalton,NY,,city-us,7503,43.156,-78.556,4791
-37831,Royalton,MI,,city-us,5152,42.018,-86.428,3635
-37841,Royalton,VT,,city-us,2770,43.815,-72.553,5417
-37840,Royalton,WI,,city-us,1523,44.413,-88.863,2086
-37836,Royalton,OH,,city-us,1493,41.692,-84.045,1318
-37830,Royalton,MN,,city-us,1277,45.830,-94.293,5084
-37833,Royalton,PA,,city-us,1132,40.187,-76.730,3246
-37839,Royalton,MN,,city-us,1072,45.769,-93.072,1972
-37835,Royalton,IL,,city-us,1049,37.877,-89.115,3579
-37832,Royalton,IN,,city-us,0,39.927,-86.338,488
-37834,Royalton,OH,,city-us,0,39.727,-82.767,619
-37837,Royalton,KY,,city-us,0,37.675,-83.022,1259
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37838,Royalton,NY,Niagara County,,city-us,7503,43.156,-78.556,4791
+37831,Royalton,MI,Berrien County,,city-us,5152,42.018,-86.428,3635
+37841,Royalton,VT,Windsor County,,city-us,2770,43.815,-72.553,5417
+37840,Royalton,WI,Waupaca County,,city-us,1523,44.413,-88.863,2086
+37836,Royalton,OH,Fulton County,,city-us,1493,41.692,-84.045,1318
+37830,Royalton,MN,Benton County / Morrison County,,city-us,1277,45.830,-94.293,5084
+37833,Royalton,PA,Dauphin County,,city-us,1132,40.187,-76.730,3246
+37839,Royalton,MN,Pine County,,city-us,1072,45.769,-93.072,1972
+37835,Royalton,IL,Franklin County,,city-us,1049,37.877,-89.115,3579
+37832,Royalton,IN,Boone County,,city-us,0,39.927,-86.338,488
+37834,Royalton,OH,Fairfield County,,city-us,0,39.727,-82.767,619
+37837,Royalton,KY,Magoffin County,,city-us,0,37.675,-83.022,1259

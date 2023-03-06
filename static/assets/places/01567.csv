@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7906,Charleston,SC,,city-us,151612,32.828,-79.973,76346
-7916,Charleston,WV,,city-us,48018,38.350,-81.633,44640
-7908,Charleston,NJ,,city-us,31889,40.028,-74.887,25788
-7910,Charleston,IL,,city-us,19393,39.481,-88.187,1168
-7918,Charleston,MO,,city-us,4987,36.921,-89.351,7230
-7924,Charleston,PA,,city-us,3546,41.745,-77.223,2895
-7912,Charleston,AR,,city-us,2623,35.297,-94.036,5084
-7915,Charleston,MI,,city-us,1891,42.294,-85.347,2679
-7923,Charleston,MS,,city-us,1765,34.007,-90.057,4529
-7921,Charleston,ME,,city-us,1607,45.078,-69.031,4786
-7919,Charleston,NY,,city-us,1360,42.825,-74.356,3767
-7909,Charleston,MI,,city-us,1112,42.023,-85.939,5563
-7920,Charleston,VT,,city-us,1013,44.871,-72.025,5080
-7922,Charleston,MI,,city-us,930,43.653,-82.649,2939
-7911,Charleston,OR,,city-us,795,43.340,-124.330,1133
-7907,Charleston,TN,,city-us,672,35.287,-84.758,9327
-7925,Charleston,UT,,city-us,437,40.466,-111.470,2593
-7926,Charleston,KS,,city-us,64,39.880,-96.967,353
-7913,Charleston,KS,,city-us,0,37.865,-100.565,353
-7914,Charleston,NC,,city-us,0,36.003,-77.622,323
-7917,Charleston,IA,,city-us,0,40.591,-91.531,1349
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7906,Charleston,SC,Berkeley County / Charleston County,,city-us,151612,32.828,-79.973,76346
+7916,Charleston,WV,Kanawha County,,city-us,48018,38.350,-81.633,44640
+7908,Charleston,NJ,Burlington County,,city-us,31889,40.028,-74.887,25788
+7910,Charleston,IL,Coles County,,city-us,19393,39.481,-88.187,1168
+7918,Charleston,MO,Mississippi County,,city-us,4987,36.921,-89.351,7230
+7924,Charleston,PA,Tioga County,,city-us,3546,41.745,-77.223,2895
+7912,Charleston,AR,Franklin County,,city-us,2623,35.297,-94.036,5084
+7915,Charleston,MI,Kalamazoo County,,city-us,1891,42.294,-85.347,2679
+7923,Charleston,MS,Tallahatchie County,,city-us,1765,34.007,-90.057,4529
+7921,Charleston,ME,Penobscot County,,city-us,1607,45.078,-69.031,4786
+7919,Charleston,NY,Montgomery County,,city-us,1360,42.825,-74.356,3767
+7909,Charleston,MI,Cass County,,city-us,1112,42.023,-85.939,5563
+7920,Charleston,VT,Orleans County,,city-us,1013,44.871,-72.025,5080
+7922,Charleston,MI,Sanilac County,,city-us,930,43.653,-82.649,2939
+7911,Charleston,OR,Coos County,,city-us,795,43.340,-124.330,1133
+7907,Charleston,TN,Bradley County,,city-us,672,35.287,-84.758,9327
+7925,Charleston,UT,Wasatch County,,city-us,437,40.466,-111.470,2593
+7926,Charleston,KS,Washington County,,city-us,64,39.880,-96.967,353
+7913,Charleston,KS,Gray County,,city-us,0,37.865,-100.565,353
+7914,Charleston,NC,Halifax County,,city-us,0,36.003,-77.622,323
+7917,Charleston,IA,Lee County,,city-us,0,40.591,-91.531,1349

@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6588,Cambria,PA,,city-us,5730,40.494,-78.741,2928
-6594,Cambria,NY,,city-us,5717,43.177,-78.820,6037
-6597,Cambria,CA,,city-us,5487,35.564,-121.081,17813
-6599,Cambria,IL,,city-us,1759,37.781,-89.119,3229
-6590,Cambria,WI,,city-us,775,43.542,-89.107,9985
-6596,Cambria,KS,,city-us,393,38.918,-97.529,114
-6592,Cambria,MI,,city-us,258,41.822,-84.665,1392
-6587,Cambria,SD,,city-us,123,45.545,-98.289,0
-6586,Cambria,MN,,city-us,0,44.239,-94.314,292
-6589,Cambria,IN,,city-us,0,40.366,-86.559,410
-6591,Cambria,MD,,city-us,0,39.711,-76.349,217
-6593,Cambria,VA,,city-us,0,37.143,-80.396,561
-6595,Cambria,WV,,city-us,0,38.265,-81.199,117
-6598,Cambria,IA,,city-us,0,40.838,-93.403,1082
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6588,Cambria,PA,Cambria County,,city-us,5730,40.494,-78.741,2928
+6594,Cambria,NY,Niagara County,,city-us,5717,43.177,-78.820,6037
+6597,Cambria,CA,San Luis Obispo County,,city-us,5487,35.564,-121.081,17813
+6599,Cambria,IL,Williamson County,,city-us,1759,37.781,-89.119,3229
+6590,Cambria,WI,Columbia County,,city-us,775,43.542,-89.107,9985
+6596,Cambria,KS,Saline County,,city-us,393,38.918,-97.529,114
+6592,Cambria,MI,Hillsdale County,,city-us,258,41.822,-84.665,1392
+6587,Cambria,SD,Brown County,,city-us,123,45.545,-98.289,0
+6586,Cambria,MN,Blue Earth County,,city-us,0,44.239,-94.314,292
+6589,Cambria,IN,Clinton County,,city-us,0,40.366,-86.559,410
+6591,Cambria,MD,Harford County,,city-us,0,39.711,-76.349,217
+6593,Cambria,VA,Montgomery County,,city-us,0,37.143,-80.396,561
+6595,Cambria,WV,Nicholas County,,city-us,0,38.265,-81.199,117
+6598,Cambria,IA,Wayne County,,city-us,0,40.838,-93.403,1082

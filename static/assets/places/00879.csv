@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4487,Blue Creek,OH,,city-us,706,41.033,-84.631,1441
-4485,Blue Creek,OH,,city-us,0,38.778,-83.330,412
-4486,Blue Creek,WV,,city-us,0,38.451,-81.457,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4487,Blue Creek,OH,Paulding County,,city-us,706,41.033,-84.631,1441
+4485,Blue Creek,OH,Adams County,,city-us,0,38.778,-83.330,412
+4486,Blue Creek,WV,Kanawha County,,city-us,0,38.451,-81.457,229

@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47373,Winthrop,MA,,city-us,18505,42.376,-70.971,14818
-47368,Winthrop,ME,,city-us,6144,44.310,-69.963,11154
-47371,Winthrop,MN,,city-us,1328,44.543,-94.366,3121
-47366,Winthrop,IA,,city-us,820,42.473,-91.734,3545
-47370,Winthrop,WA,,city-us,529,48.478,-120.186,4916
-47372,Winthrop,NY,,city-us,136,44.795,-74.787,869
-47369,Winthrop,AR,,city-us,116,33.832,-94.355,2342
-47367,Winthrop,MO,,city-us,0,39.560,-95.108,693
-47374,Winthrop,IN,,city-us,0,40.370,-87.234,790
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47373,Winthrop,MA,Suffolk County,,city-us,18505,42.376,-70.971,14818
+47368,Winthrop,ME,Kennebec County,,city-us,6144,44.310,-69.963,11154
+47371,Winthrop,MN,Sibley County,,city-us,1328,44.543,-94.366,3121
+47366,Winthrop,IA,Buchanan County,,city-us,820,42.473,-91.734,3545
+47370,Winthrop,WA,Okanogan County,,city-us,529,48.478,-120.186,4916
+47372,Winthrop,NY,St. Lawrence County,,city-us,136,44.795,-74.787,869
+47369,Winthrop,AR,Little River County,,city-us,116,33.832,-94.355,2342
+47367,Winthrop,MO,Buchanan County,,city-us,0,39.560,-95.108,693
+47374,Winthrop,IN,Warren County,,city-us,0,40.370,-87.234,790

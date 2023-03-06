@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9397,Colony,KS,,city-us,377,38.071,-95.366,3858
-9398,Colony,AL,,city-us,270,33.941,-86.902,3546
-9400,Colony,OK,,city-us,111,35.349,-98.677,3712
-9399,Colony,MO,,city-us,0,40.254,-91.991,506
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9397,Colony,KS,Anderson County,,city-us,377,38.071,-95.366,3858
+9398,Colony,AL,Cullman County,,city-us,270,33.941,-86.902,3546
+9400,Colony,OK,Washita County,,city-us,111,35.349,-98.677,3712
+9399,Colony,MO,Knox County,,city-us,0,40.254,-91.991,506

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28048,Mesita,NM,,city-us,1214,35.018,-107.313,2354
-28049,Mesita,CO,,city-us,0,37.098,-105.602,456
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28048,Mesita,NM,Cibola County,,city-us,1214,35.018,-107.313,2354
+28049,Mesita,CO,Costilla County,,city-us,0,37.098,-105.602,456

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21671,Iuka,MS,,city-us,3066,34.812,-88.190,5146
-21669,Iuka,IL,,city-us,504,38.616,-88.790,2855
-21670,Iuka,KS,,city-us,155,37.729,-98.735,3101
-21667,Iuka,TX,,city-us,0,29.046,-98.738,657
-21668,Iuka,KY,,city-us,0,37.081,-88.237,84
-21672,Iuka,WV,,city-us,0,39.515,-80.790,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21671,Iuka,MS,Tishomingo County,,city-us,3066,34.812,-88.190,5146
+21669,Iuka,IL,Marion County,,city-us,504,38.616,-88.790,2855
+21670,Iuka,KS,Pratt County,,city-us,155,37.729,-98.735,3101
+21667,Iuka,TX,Atascosa County,,city-us,0,29.046,-98.738,657
+21668,Iuka,KY,Livingston County,,city-us,0,37.081,-88.237,84
+21672,Iuka,WV,Tyler County,,city-us,0,39.515,-80.790,127

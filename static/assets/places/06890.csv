@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35063,Porterville,CA,,city-us,62742,36.065,-119.017,26329
-35061,Porterville,MS,,city-us,34,32.688,-88.472,859
-35059,Porterville,KS,,city-us,0,37.718,-95.069,257
-35060,Porterville,IL,,city-us,0,39.090,-87.801,360
-35062,Porterville,UT,,city-us,0,40.981,-111.678,2567
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35063,Porterville,CA,Tulare County,,city-us,62742,36.065,-119.017,26329
+35061,Porterville,MS,Kemper County,,city-us,34,32.688,-88.472,859
+35059,Porterville,KS,Bourbon County,,city-us,0,37.718,-95.069,257
+35060,Porterville,IL,Crawford County,,city-us,0,39.090,-87.801,360
+35062,Porterville,UT,Morgan County,,city-us,0,40.981,-111.678,2567

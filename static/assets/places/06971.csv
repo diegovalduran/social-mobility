@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35444,Progress,PA,,city-us,11286,40.285,-76.831,2632
-35447,Progress,ND,,city-us,18,47.378,-99.715,0
-35443,Progress,TX,,city-us,0,34.283,-102.810,673
-35445,Progress,IN,,city-us,0,40.120,-85.442,274
-35446,Progress,MS,,city-us,0,31.046,-90.327,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35444,Progress,PA,Dauphin County,,city-us,11286,40.285,-76.831,2632
+35447,Progress,ND,Wells County,,city-us,18,47.378,-99.715,0
+35443,Progress,TX,Bailey County,,city-us,0,34.283,-102.810,673
+35445,Progress,IN,Delaware County,,city-us,0,40.120,-85.442,274
+35446,Progress,MS,Pike County,,city-us,0,31.046,-90.327,252

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14003,Eubanks,VA,,city-us,0,39.158,-77.770,201
-14004,Eubanks,NC,,city-us,0,35.970,-79.076,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14003,Eubanks,VA,Loudoun County,,city-us,0,39.158,-77.770,201
+14004,Eubanks,NC,Orange County,,city-us,0,35.970,-79.076,251

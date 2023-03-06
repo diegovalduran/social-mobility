@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30966,Newfield,MI,,city-us,2351,43.603,-86.108,2119
-30965,Newfield,NJ,,city-us,1801,39.547,-75.025,11121
-30968,Newfield,ME,,city-us,1660,43.638,-70.876,5782
-30967,Newfield,NY,,city-us,793,42.362,-76.591,4423
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30966,Newfield,MI,Oceana County,,city-us,2351,43.603,-86.108,2119
+30965,Newfield,NJ,Gloucester County,,city-us,1801,39.547,-75.025,11121
+30968,Newfield,ME,York County,,city-us,1660,43.638,-70.876,5782
+30967,Newfield,NY,Tompkins County,,city-us,793,42.362,-76.591,4423

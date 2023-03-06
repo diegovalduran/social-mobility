@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26253,Mackay,ID,,city-us,473,43.915,-113.613,4812
-26254,Mackay,TX,,city-us,0,29.270,-96.150,2536
-27560,McKay,OR,,city-us,0,45.500,-118.616,388
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26253,Mackay,ID,Custer County,,city-us,473,43.915,-113.613,4812
+26254,Mackay,TX,Wharton County,,city-us,0,29.270,-96.150,2536
+27560,McKay,OR,Umatilla County,,city-us,0,45.500,-118.616,388

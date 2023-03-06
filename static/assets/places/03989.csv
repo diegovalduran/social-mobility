@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20424,Holmes,OH,,city-us,1243,40.870,-83.031,1358
-20427,Holmes,MI,,city-us,340,45.525,-87.734,1771
-20423,Holmes,KY,,city-us,0,37.208,-85.270,116
-20425,Holmes,PA,,city-us,0,39.904,-75.309,338
-20426,Holmes,CA,,city-us,0,40.418,-123.941,304
-20428,Holmes,IA,,city-us,0,42.739,-93.834,430
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20424,Holmes,OH,Crawford County,,city-us,1243,40.870,-83.031,1358
+20427,Holmes,MI,Menominee County,,city-us,340,45.525,-87.734,1771
+20423,Holmes,KY,Adair County,,city-us,0,37.208,-85.270,116
+20425,Holmes,PA,Delaware County,,city-us,0,39.904,-75.309,338
+20426,Holmes,CA,Humboldt County,,city-us,0,40.418,-123.941,304
+20428,Holmes,IA,Wright County,,city-us,0,42.739,-93.834,430

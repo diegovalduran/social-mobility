@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43680,Ukiah,CA,,city-us,16728,39.150,-123.208,16713
-43681,Ukiah,OR,,city-us,163,45.134,-118.932,4552
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43680,Ukiah,CA,Mendocino County,,city-us,16728,39.150,-123.208,16713
+43681,Ukiah,OR,Umatilla County,,city-us,163,45.134,-118.932,4552

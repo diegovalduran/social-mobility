@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33635,Percy,IL,,city-us,879,38.016,-89.619,1914
-33634,Percy,MN,,city-us,36,48.770,-96.604,1761
-33636,Percy,MS,,city-us,0,33.109,-90.879,185
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33635,Percy,IL,Randolph County,,city-us,879,38.016,-89.619,1914
+33634,Percy,MN,Kittson County,,city-us,36,48.770,-96.604,1761
+33636,Percy,MS,Washington County,,city-us,0,33.109,-90.879,185

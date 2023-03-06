@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39298,Shake Rag,MS,,city-us,0,34.002,-88.825,77
-39299,Shake Rag,GA,,city-us,0,34.056,-84.132,340
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39298,Shake Rag,MS,Chickasaw County,,city-us,0,34.002,-88.825,77
+39299,Shake Rag,GA,Forsyth County,,city-us,0,34.056,-84.132,340

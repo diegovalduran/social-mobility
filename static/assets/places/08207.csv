@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41519,Stock,OH,,city-us,444,40.328,-81.130,115
-41520,Stock,OH,,city-us,337,39.738,-81.347,115
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41519,Stock,OH,Harrison County,,city-us,444,40.328,-81.130,115
+41520,Stock,OH,Noble County,,city-us,337,39.738,-81.347,115

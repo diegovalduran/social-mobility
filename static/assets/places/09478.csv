@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47929,Yards,WV,,city-us,0,37.292,-81.310,360
-47930,Yards,VA,,city-us,0,37.292,-81.310,360
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47929,Yards,WV,Mercer County,,city-us,0,37.292,-81.310,360
+47930,Yards,VA,Tazewell County,,city-us,0,37.292,-81.310,360

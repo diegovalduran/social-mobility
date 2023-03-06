@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8256,Chicopee,MA,,city-us,55190,42.149,-72.608,28379
-8254,Chicopee,KS,,city-us,344,37.382,-94.742,836
-8253,Chicopee,MO,,city-us,0,36.985,-91.006,397
-8255,Chicopee,GA,,city-us,0,34.253,-83.844,988
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8256,Chicopee,MA,Hampden County,,city-us,55190,42.149,-72.608,28379
+8254,Chicopee,KS,Crawford County,,city-us,344,37.382,-94.742,836
+8253,Chicopee,MO,Carter County,,city-us,0,36.985,-91.006,397
+8255,Chicopee,GA,Hall County,,city-us,0,34.253,-83.844,988

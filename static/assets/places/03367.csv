@@ -1,32 +1,32 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17047,Glenwood,IL,,city-us,8477,41.543,-87.602,3001
-17061,Glenwood,IA,,city-us,5170,41.047,-95.743,15041
-17065,Glenwood,MN,,city-us,2664,45.650,-95.390,3886
-17062,Glenwood,AR,,city-us,2036,34.328,-93.527,5700
-17073,Glenwood,GA,,city-us,843,32.180,-82.670,2302
-17068,Glenwood,WI,,city-us,755,45.080,-92.207,1973
-17044,Glenwood,NE,,city-us,525,40.755,-99.081,936
-17059,Glenwood,NC,,city-us,501,35.614,-81.982,553
-17067,Glenwood,UT,,city-us,484,38.763,-111.990,5691
-17050,Glenwood,IN,,city-us,235,39.626,-85.302,2869
-17046,Glenwood,SD,,city-us,221,43.047,-96.855,0
-17052,Glenwood,NE,,city-us,183,40.043,-96.870,272
-17066,Glenwood,MO,,city-us,181,40.518,-92.576,3947
-17071,Glenwood,ND,,city-us,161,48.499,-97.600,188
-17048,Glenwood,AL,,city-us,152,31.665,-86.171,1949
-17049,Glenwood,SD,,city-us,102,44.842,-96.544,0
-17045,Glenwood,NM,,city-us,46,33.317,-108.883,1831
-17063,Glenwood,KS,,city-us,45,39.964,-99.231,0
-17051,Glenwood,GA,,city-us,0,34.312,-85.172,155
-17053,Glenwood,MD,,city-us,0,39.515,-76.322,124
-17054,Glenwood,MD,,city-us,0,39.287,-77.028,0
-17055,Glenwood,WA,,city-us,0,47.425,-122.689,124
-17056,Glenwood,WA,,city-us,0,46.019,-121.291,1957
-17057,Glenwood,OR,,city-us,0,44.044,-123.034,850
-17058,Glenwood,WV,,city-us,0,38.592,-82.187,601
-17060,Glenwood,WV,,city-us,0,37.336,-81.149,132
-17064,Glenwood,VA,,city-us,0,36.589,-79.366,96
-17069,Glenwood,NJ,,city-us,0,41.251,-74.490,379
-17070,Glenwood,FL,,city-us,0,29.086,-81.354,1864
-17072,Glenwood,OR,,city-us,0,45.649,-123.271,2287
-17074,Glenwood,WA,,city-us,0,46.928,-117.280,249
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17047,Glenwood,IL,Cook County,,city-us,8477,41.543,-87.602,3001
+17061,Glenwood,IA,Mills County,,city-us,5170,41.047,-95.743,15041
+17065,Glenwood,MN,Pope County,,city-us,2664,45.650,-95.390,3886
+17062,Glenwood,AR,Montgomery County / Pike County,,city-us,2036,34.328,-93.527,5700
+17073,Glenwood,GA,Wheeler County,,city-us,843,32.180,-82.670,2302
+17068,Glenwood,WI,St. Croix County,,city-us,755,45.080,-92.207,1973
+17044,Glenwood,NE,Buffalo County,,city-us,525,40.755,-99.081,936
+17059,Glenwood,NC,McDowell County,,city-us,501,35.614,-81.982,553
+17067,Glenwood,UT,Sevier County,,city-us,484,38.763,-111.990,5691
+17050,Glenwood,IN,Fayette County / Rush County,,city-us,235,39.626,-85.302,2869
+17046,Glenwood,SD,Clay County,,city-us,221,43.047,-96.855,0
+17052,Glenwood,NE,Gage County,,city-us,183,40.043,-96.870,272
+17066,Glenwood,MO,Schuyler County,,city-us,181,40.518,-92.576,3947
+17071,Glenwood,ND,Walsh County,,city-us,161,48.499,-97.600,188
+17048,Glenwood,AL,Crenshaw County,,city-us,152,31.665,-86.171,1949
+17049,Glenwood,SD,Deuel County,,city-us,102,44.842,-96.544,0
+17045,Glenwood,NM,Catron County,,city-us,46,33.317,-108.883,1831
+17063,Glenwood,KS,Phillips County,,city-us,45,39.964,-99.231,0
+17051,Glenwood,GA,Floyd County,,city-us,0,34.312,-85.172,155
+17053,Glenwood,MD,Harford County,,city-us,0,39.515,-76.322,124
+17054,Glenwood,MD,Howard County,,city-us,0,39.287,-77.028,0
+17055,Glenwood,WA,Kitsap County,,city-us,0,47.425,-122.689,124
+17056,Glenwood,WA,Klickitat County,,city-us,0,46.019,-121.291,1957
+17057,Glenwood,OR,Lane County,,city-us,0,44.044,-123.034,850
+17058,Glenwood,WV,Mason County,,city-us,0,38.592,-82.187,601
+17060,Glenwood,WV,Mercer County,,city-us,0,37.336,-81.149,132
+17064,Glenwood,VA,Pittsylvania County,,city-us,0,36.589,-79.366,96
+17069,Glenwood,NJ,Sussex County,,city-us,0,41.251,-74.490,379
+17070,Glenwood,FL,Volusia County,,city-us,0,29.086,-81.354,1864
+17072,Glenwood,OR,Washington County,,city-us,0,45.649,-123.271,2287
+17074,Glenwood,WA,Whitman County,,city-us,0,46.928,-117.280,249

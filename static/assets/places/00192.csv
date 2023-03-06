@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-999,Amity,PA,,city-us,13421,40.291,-75.746,158
-997,Amity,NY,,city-us,2161,42.226,-78.003,3167
-1013,Amity,OR,,city-us,1767,45.116,-123.207,3887
-1005,Amity,PA,,city-us,977,41.972,-79.834,158
-1009,Amity,IL,,city-us,750,40.971,-88.765,1535
-1002,Amity,AR,,city-us,679,34.265,-93.461,11992
-998,Amity,ME,,city-us,251,45.913,-67.845,4462
-1000,Amity,ND,,city-us,37,48.761,-100.376,266
-1004,Amity,MO,,city-us,26,39.871,-94.436,2801
-1001,Amity,PA,,city-us,0,40.509,-75.286,782
-1003,Amity,TX,,city-us,0,32.059,-98.884,828
-1006,Amity,IN,,city-us,0,39.426,-86.001,283
-1007,Amity,OH,,city-us,0,40.471,-82.379,355
-1008,Amity,GA,,city-us,0,33.676,-82.489,298
-1010,Amity,OH,,city-us,0,40.069,-83.251,2212
-1011,Amity,OH,,city-us,0,39.789,-84.368,199
-1012,Amity,PA,,city-us,0,40.040,-80.205,255
+id,name,state,county,country,level,population,latitude,longitude,wiki
+999,Amity,PA,Berks County,,city-us,13421,40.291,-75.746,158
+997,Amity,NY,Allegany County,,city-us,2161,42.226,-78.003,3167
+1013,Amity,OR,Yamhill County,,city-us,1767,45.116,-123.207,3887
+1005,Amity,PA,Erie County,,city-us,977,41.972,-79.834,158
+1009,Amity,IL,Livingston County,,city-us,750,40.971,-88.765,1535
+1002,Amity,AR,Clark County,,city-us,679,34.265,-93.461,11992
+998,Amity,ME,Aroostook County,,city-us,251,45.913,-67.845,4462
+1000,Amity,ND,Bottineau County,,city-us,37,48.761,-100.376,266
+1004,Amity,MO,DeKalb County,,city-us,26,39.871,-94.436,2801
+1001,Amity,PA,Bucks County,,city-us,0,40.509,-75.286,782
+1003,Amity,TX,Comanche County,,city-us,0,32.059,-98.884,828
+1006,Amity,IN,Johnson County,,city-us,0,39.426,-86.001,283
+1007,Amity,OH,Knox County,,city-us,0,40.471,-82.379,355
+1008,Amity,GA,Lincoln County,,city-us,0,33.676,-82.489,298
+1010,Amity,OH,Madison County,,city-us,0,40.069,-83.251,2212
+1011,Amity,OH,Montgomery County,,city-us,0,39.789,-84.368,199
+1012,Amity,PA,Washington County,,city-us,0,40.040,-80.205,255

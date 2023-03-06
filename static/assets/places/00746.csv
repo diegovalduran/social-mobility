@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3887,Big Bay,MI,,city-us,257,46.816,-87.728,3058
-3888,Big Bay,IL,,city-us,0,37.317,-88.722,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3887,Big Bay,MI,Marquette County,,city-us,257,46.816,-87.728,3058
+3888,Big Bay,IL,Massac County,,city-us,0,37.317,-88.722,123

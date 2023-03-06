@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39028,Seaford,NY,,city-us,15636,40.666,-73.488,9095
-39029,Seaford,DE,,city-us,8250,38.641,-75.611,12582
-39030,Seaford,VA,,city-us,0,37.198,-76.433,2582
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39028,Seaford,NY,Nassau County,,city-us,15636,40.666,-73.488,9095
+39029,Seaford,DE,Sussex County,,city-us,8250,38.641,-75.611,12582
+39030,Seaford,VA,York County,,city-us,0,37.198,-76.433,2582

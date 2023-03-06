@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1599,Arvilla,ND,,city-us,0,47.919,-97.495,777
-1600,Arvilla,WV,,city-us,0,39.435,-81.071,137
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1599,Arvilla,ND,Grand Forks County,,city-us,0,47.919,-97.495,777
+1600,Arvilla,WV,Pleasants County,,city-us,0,39.435,-81.071,137

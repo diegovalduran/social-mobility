@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43989,Upper,OH,,city-us,14250,38.541,-82.657,1844
-43988,Upper,NJ,,city-us,12465,39.258,-74.727,13191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43989,Upper,OH,Lawrence County,,city-us,14250,38.541,-82.657,1844
+43988,Upper,NJ,Cape May County,,city-us,12465,39.258,-74.727,13191

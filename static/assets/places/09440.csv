@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47732,Woolwich,NJ,,city-us,13192,39.743,-75.326,12348
-47733,Woolwich,ME,,city-us,3142,43.960,-69.769,6976
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47732,Woolwich,NJ,Gloucester County,,city-us,13192,39.743,-75.326,12348
+47733,Woolwich,ME,Sagadahoc County,,city-us,3142,43.960,-69.769,6976

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24884,Lime Ridge,PA,,city-us,855,41.028,-76.339,2658
-24885,Lime Ridge,WI,,city-us,158,43.468,-90.155,4229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24884,Lime Ridge,PA,Columbia County,,city-us,855,41.028,-76.339,2658
+24885,Lime Ridge,WI,Sauk County,,city-us,158,43.468,-90.155,4229

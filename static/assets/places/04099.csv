@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21110,Hurley,NY,,city-us,6192,41.959,-74.123,7446
-21105,Hurley,WI,,city-us,1560,46.450,-90.187,20207
-21106,Hurley,MS,,city-us,1386,30.661,-88.494,2862
-21103,Hurley,NM,,city-us,1247,32.699,-108.132,2434
-21109,Hurley,SD,,city-us,381,43.283,-97.089,2938
-21108,Hurley,MO,,city-us,177,36.931,-93.499,3106
-21107,Hurley,ND,,city-us,64,48.844,-101.549,0
-21101,Hurley,VA,,city-us,0,37.419,-82.022,1179
-21102,Hurley,AL,,city-us,0,34.275,-85.623,260
-21104,Hurley,TN,,city-us,0,35.138,-88.366,194
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21110,Hurley,NY,Ulster County,,city-us,6192,41.959,-74.123,7446
+21105,Hurley,WI,Iron County,,city-us,1560,46.450,-90.187,20207
+21106,Hurley,MS,Jackson County,,city-us,1386,30.661,-88.494,2862
+21103,Hurley,NM,Grant County,,city-us,1247,32.699,-108.132,2434
+21109,Hurley,SD,Turner County,,city-us,381,43.283,-97.089,2938
+21108,Hurley,MO,Stone County,,city-us,177,36.931,-93.499,3106
+21107,Hurley,ND,Renville County,,city-us,64,48.844,-101.549,0
+21101,Hurley,VA,Buchanan County,,city-us,0,37.419,-82.022,1179
+21102,Hurley,AL,Cherokee County,,city-us,0,34.275,-85.623,260
+21104,Hurley,TN,Hardin County,,city-us,0,35.138,-88.366,194

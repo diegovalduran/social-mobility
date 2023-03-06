@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12658,East,OH,,city-us,814,40.695,-80.954,1470
-12659,East,WV,,city-us,0,38.219,-81.936,114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12658,East,OH,Carroll County,,city-us,814,40.695,-80.954,1470
+12659,East,WV,Lincoln County,,city-us,0,38.219,-81.936,114

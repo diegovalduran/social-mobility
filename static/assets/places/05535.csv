@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28431,Milburn,OK,,city-us,256,34.241,-96.549,3151
-28429,Milburn,NE,,city-us,63,41.701,-99.636,259
-28428,Milburn,KY,,city-us,0,36.799,-88.900,899
-28430,Milburn,WV,,city-us,0,37.998,-81.339,160
-28432,Milburn,UT,,city-us,0,39.704,-111.425,378
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28431,Milburn,OK,Johnston County,,city-us,256,34.241,-96.549,3151
+28429,Milburn,NE,Custer County,,city-us,63,41.701,-99.636,259
+28428,Milburn,KY,Carlisle County,,city-us,0,36.799,-88.900,899
+28430,Milburn,WV,Fayette County,,city-us,0,37.998,-81.339,160
+28432,Milburn,UT,Sanpete County,,city-us,0,39.704,-111.425,378

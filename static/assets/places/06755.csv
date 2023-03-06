@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34298,Pipersville,PA,,city-us,6336,40.425,-75.139,416
-34299,Pipersville,WI,,city-us,0,43.142,-88.650,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34298,Pipersville,PA,Bucks County,,city-us,6336,40.425,-75.139,416
+34299,Pipersville,WI,Jefferson County,,city-us,0,43.142,-88.650,220

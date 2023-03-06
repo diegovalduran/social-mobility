@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14900,Fillmore,CA,,city-us,16496,34.399,-118.918,13683
-14888,Fillmore,MI,,city-us,2770,42.715,-86.068,2606
-14897,Fillmore,UT,,city-us,2624,38.969,-112.324,4958
-14889,Fillmore,NY,,city-us,590,42.466,-78.115,1229
-14899,Fillmore,IN,,city-us,530,39.668,-86.753,3536
-14898,Fillmore,IL,,city-us,305,39.115,-89.279,2088
-14890,Fillmore,MO,,city-us,174,40.025,-94.974,2837
-14892,Fillmore,ND,,city-us,98,48.945,-103.257,134
-14891,Fillmore,LA,,city-us,0,32.563,-93.515,313
-14893,Fillmore,IA,,city-us,0,42.319,-90.917,396
-14894,Fillmore,MN,,city-us,0,43.749,-92.268,207
-14895,Fillmore,OK,,city-us,0,34.274,-96.496,226
-14896,Fillmore,KY,,city-us,0,37.604,-83.550,179
-14901,Fillmore,OH,,city-us,0,39.303,-81.745,247
-14902,Fillmore,WI,,city-us,0,43.498,-88.061,697
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14900,Fillmore,CA,Ventura County,,city-us,16496,34.399,-118.918,13683
+14888,Fillmore,MI,Allegan County,,city-us,2770,42.715,-86.068,2606
+14897,Fillmore,UT,Millard County,,city-us,2624,38.969,-112.324,4958
+14889,Fillmore,NY,Allegany County,,city-us,590,42.466,-78.115,1229
+14899,Fillmore,IN,Putnam County,,city-us,530,39.668,-86.753,3536
+14898,Fillmore,IL,Montgomery County,,city-us,305,39.115,-89.279,2088
+14890,Fillmore,MO,Andrew County,,city-us,174,40.025,-94.974,2837
+14892,Fillmore,ND,Divide County,,city-us,98,48.945,-103.257,134
+14891,Fillmore,LA,Bossier Parish,,city-us,0,32.563,-93.515,313
+14893,Fillmore,IA,Dubuque County,,city-us,0,42.319,-90.917,396
+14894,Fillmore,MN,Fillmore County,,city-us,0,43.749,-92.268,207
+14895,Fillmore,OK,Johnston County,,city-us,0,34.274,-96.496,226
+14896,Fillmore,KY,Lee County,,city-us,0,37.604,-83.550,179
+14901,Fillmore,OH,Washington County,,city-us,0,39.303,-81.745,247
+14902,Fillmore,WI,Washington County,,city-us,0,43.498,-88.061,697

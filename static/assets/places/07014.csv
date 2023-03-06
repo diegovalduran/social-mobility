@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35656,Quentin,PA,,city-us,663,40.280,-76.438,2865
-35655,Quentin,MS,,city-us,0,31.506,-90.754,292
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35656,Quentin,PA,Lebanon County,,city-us,663,40.280,-76.438,2865
+35655,Quentin,MS,Franklin County,,city-us,0,31.506,-90.754,292

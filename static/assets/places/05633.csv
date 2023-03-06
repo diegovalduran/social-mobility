@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28973,Modoc,SC,,city-us,485,33.733,-82.206,2303
-28975,Modoc,IL,,city-us,221,38.053,-90.037,1539
-28976,Modoc,IN,,city-us,160,40.045,-85.126,4942
-28970,Modoc,OH,,city-us,0,39.468,-82.130,292
-28971,Modoc,GA,,city-us,0,32.656,-82.309,346
-28972,Modoc,WV,,city-us,0,38.024,-80.345,171
-28974,Modoc,AR,,city-us,0,34.336,-90.779,322
-28977,Modoc,KS,,city-us,0,38.487,-101.082,311
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28973,Modoc,SC,McCormick County,,city-us,485,33.733,-82.206,2303
+28975,Modoc,IL,Randolph County,,city-us,221,38.053,-90.037,1539
+28976,Modoc,IN,Randolph County,,city-us,160,40.045,-85.126,4942
+28970,Modoc,OH,Athens County,,city-us,0,39.468,-82.130,292
+28971,Modoc,GA,Emanuel County,,city-us,0,32.656,-82.309,346
+28972,Modoc,WV,Greenbrier County,,city-us,0,38.024,-80.345,171
+28974,Modoc,AR,Phillips County,,city-us,0,34.336,-90.779,322
+28977,Modoc,KS,Scott County,,city-us,0,38.487,-101.082,311

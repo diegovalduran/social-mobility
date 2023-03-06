@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21586,Irvington,NJ,,city-us,60403,40.724,-74.233,21626
-21591,Irvington,NY,,city-us,6532,41.039,-73.868,65896
-21583,Irvington,KY,,city-us,1241,37.880,-86.284,2821
-21590,Irvington,IL,,city-us,578,38.439,-89.163,2016
-21588,Irvington,VA,,city-us,477,37.662,-76.419,4713
-21587,Irvington,IA,,city-us,46,43.007,-94.196,792
-21584,Irvington,NE,,city-us,0,41.321,-96.055,1951
-21585,Irvington,WI,,city-us,0,44.836,-91.955,301
-21589,Irvington,AL,,city-us,0,30.507,-88.234,632
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21586,Irvington,NJ,Essex County,,city-us,60403,40.724,-74.233,21626
+21591,Irvington,NY,Westchester County,,city-us,6532,41.039,-73.868,65896
+21583,Irvington,KY,Breckinridge County,,city-us,1241,37.880,-86.284,2821
+21590,Irvington,IL,Washington County,,city-us,578,38.439,-89.163,2016
+21588,Irvington,VA,Lancaster County,,city-us,477,37.662,-76.419,4713
+21587,Irvington,IA,Kossuth County,,city-us,46,43.007,-94.196,792
+21584,Irvington,NE,Douglas County,,city-us,0,41.321,-96.055,1951
+21585,Irvington,WI,Dunn County,,city-us,0,44.836,-91.955,301
+21589,Irvington,AL,Mobile County,,city-us,0,30.507,-88.234,632

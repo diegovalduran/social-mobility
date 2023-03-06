@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42916,Thurston,NY,,city-us,1235,42.225,-77.279,2976
-42914,Thurston,OH,,city-us,608,39.840,-82.546,3209
-42917,Thurston,NE,,city-us,116,42.177,-96.701,2927
-42915,Thurston,OR,,city-us,0,44.053,-122.916,851
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42916,Thurston,NY,Steuben County,,city-us,1235,42.225,-77.279,2976
+42914,Thurston,OH,Fairfield County,,city-us,608,39.840,-82.546,3209
+42917,Thurston,NE,Thurston County,,city-us,116,42.177,-96.701,2927
+42915,Thurston,OR,Lane County,,city-us,0,44.053,-122.916,851

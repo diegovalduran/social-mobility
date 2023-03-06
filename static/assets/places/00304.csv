@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1570,Artesia,CA,,city-us,15944,33.866,-118.083,10210
-1568,Artesia,NM,,city-us,12458,32.842,-104.403,6701
-1569,Artesia,IL,,city-us,823,40.612,-88.019,1013
-1571,Artesia,MS,,city-us,304,33.415,-88.644,3094
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1570,Artesia,CA,Los Angeles County,,city-us,15944,33.866,-118.083,10210
+1568,Artesia,NM,Eddy County,,city-us,12458,32.842,-104.403,6701
+1569,Artesia,IL,Iroquois County,,city-us,823,40.612,-88.019,1013
+1571,Artesia,MS,Lowndes County,,city-us,304,33.415,-88.644,3094

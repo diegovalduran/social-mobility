@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4337,Blessing,TX,,city-us,249,28.871,-96.218,2276
-4335,Blessing,IA,,city-us,0,42.312,-92.456,527
-4336,Blessing,OH,,city-us,0,39.703,-83.604,227
-4338,Blessing,VA,,city-us,0,36.936,-81.205,83
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4337,Blessing,TX,Matagorda County,,city-us,249,28.871,-96.218,2276
+4335,Blessing,IA,Black Hawk County,,city-us,0,42.312,-92.456,527
+4336,Blessing,OH,Fayette County,,city-us,0,39.703,-83.604,227
+4338,Blessing,VA,Wythe County,,city-us,0,36.936,-81.205,83

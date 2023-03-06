@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3068,Beech Creek,PA,,city-us,966,41.154,-77.729,1941
-3069,Beech Creek,OR,,city-us,0,44.619,-119.149,530
-3070,Beech Creek,KY,,city-us,0,37.177,-87.063,220
-3071,Beech Creek,TN,,city-us,0,35.420,-87.981,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3068,Beech Creek,PA,Clinton County,,city-us,966,41.154,-77.729,1941
+3069,Beech Creek,OR,Grant County,,city-us,0,44.619,-119.149,530
+3070,Beech Creek,KY,Muhlenberg County,,city-us,0,37.177,-87.063,220
+3071,Beech Creek,TN,Wayne County,,city-us,0,35.420,-87.981,147

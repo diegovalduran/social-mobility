@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19858,Hickory Creek,TX,,city-us,5244,33.122,-97.043,2648
-19859,Hickory Creek,MO,,city-us,0,39.998,-93.669,420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19858,Hickory Creek,TX,Denton County,,city-us,5244,33.122,-97.043,2648
+19859,Hickory Creek,MO,Grundy County,,city-us,0,39.998,-93.669,420

@@ -1,36 +1,36 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18053,Greenville,NC,,city-us,88728,35.613,-77.366,31478
-18037,Greenville,SC,,city-us,72095,34.853,-82.394,39834
-18039,Greenville,TX,,city-us,29578,33.138,-96.111,15904
-18058,Greenville,MS,,city-us,28777,33.410,-91.062,16641
-18034,Greenville,OH,,city-us,17067,40.116,-84.640,1728
-18051,Greenville,WI,,city-us,12264,44.300,-88.536,8073
-18061,Greenville,NY,,city-us,9417,40.993,-73.820,9485
-18047,Greenville,MI,,city-us,9190,43.178,-85.253,9958
-18055,Greenville,RI,,city-us,8955,41.871,-71.552,3553
-18032,Greenville,AL,,city-us,7263,31.830,-86.618,6845
-18030,Greenville,IL,,city-us,6507,38.892,-89.413,21973
-18044,Greenville,PA,,city-us,5499,41.404,-80.391,6795
-18050,Greenville,NY,,city-us,4706,41.374,-74.598,3302
-18048,Greenville,KY,,city-us,4469,37.201,-87.179,5198
-18049,Greenville,DE,,city-us,2763,39.779,-75.598,3862
-18038,Greenville,NH,,city-us,1971,42.758,-71.799,5015
-18052,Greenville,ME,,city-us,1488,45.462,-69.544,5910
-18028,Greenville,VA,,city-us,1476,38.003,-79.156,3405
-18035,Greenville,IN,,city-us,1449,38.373,-85.986,10445
-18045,Greenville,GA,,city-us,796,33.029,-84.713,4368
-18043,Greenville,FL,,city-us,762,30.469,-83.630,3418
-18056,Greenville,PA,,city-us,756,39.754,-78.971,2227
-18054,Greenville,CA,,city-us,648,40.140,-120.951,6481
-18036,Greenville,NY,,city-us,629,42.415,-74.022,3124
-18059,Greenville,MO,,city-us,391,37.127,-90.450,6146
-18031,Greenville,IL,,city-us,343,41.542,-89.673,2335
-18042,Greenville,OK,,city-us,152,34.007,-97.126,411
-18033,Greenville,IA,,city-us,69,43.017,-95.146,3668
-18040,Greenville,ND,,city-us,64,46.416,-98.100,177
-18029,Greenville,UT,,city-us,0,38.254,-112.713,664
-18041,Greenville,WV,,city-us,0,37.721,-81.872,459
-18046,Greenville,WV,,city-us,0,37.543,-80.683,328
-18057,Greenville,IN,,city-us,0,39.141,-87.302,241
-18060,Greenville,IN,,city-us,0,40.654,-85.226,195
-18062,Greenville,CA,,city-us,0,39.437,-121.177,274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18053,Greenville,NC,Pitt County,,city-us,88728,35.613,-77.366,31478
+18037,Greenville,SC,Greenville County,,city-us,72095,34.853,-82.394,39834
+18039,Greenville,TX,Hunt County,,city-us,29578,33.138,-96.111,15904
+18058,Greenville,MS,Washington County,,city-us,28777,33.410,-91.062,16641
+18034,Greenville,OH,Darke County,,city-us,17067,40.116,-84.640,1728
+18051,Greenville,WI,Outagamie County,,city-us,12264,44.300,-88.536,8073
+18061,Greenville,NY,Westchester County,,city-us,9417,40.993,-73.820,9485
+18047,Greenville,MI,Montcalm County,,city-us,9190,43.178,-85.253,9958
+18055,Greenville,RI,Providence County,,city-us,8955,41.871,-71.552,3553
+18032,Greenville,AL,Butler County,,city-us,7263,31.830,-86.618,6845
+18030,Greenville,IL,Bond County,,city-us,6507,38.892,-89.413,21973
+18044,Greenville,PA,Mercer County,,city-us,5499,41.404,-80.391,6795
+18050,Greenville,NY,Orange County,,city-us,4706,41.374,-74.598,3302
+18048,Greenville,KY,Muhlenberg County,,city-us,4469,37.201,-87.179,5198
+18049,Greenville,DE,New Castle County,,city-us,2763,39.779,-75.598,3862
+18038,Greenville,NH,Hillsborough County,,city-us,1971,42.758,-71.799,5015
+18052,Greenville,ME,Piscataquis County,,city-us,1488,45.462,-69.544,5910
+18028,Greenville,VA,Augusta County,,city-us,1476,38.003,-79.156,3405
+18035,Greenville,IN,Floyd County,,city-us,1449,38.373,-85.986,10445
+18045,Greenville,GA,Meriwether County,,city-us,796,33.029,-84.713,4368
+18043,Greenville,FL,Madison County,,city-us,762,30.469,-83.630,3418
+18056,Greenville,PA,Somerset County,,city-us,756,39.754,-78.971,2227
+18054,Greenville,CA,Plumas County,,city-us,648,40.140,-120.951,6481
+18036,Greenville,NY,Greene County,,city-us,629,42.415,-74.022,3124
+18059,Greenville,MO,Wayne County,,city-us,391,37.127,-90.450,6146
+18031,Greenville,IL,Bureau County,,city-us,343,41.542,-89.673,2335
+18042,Greenville,OK,Love County,,city-us,152,34.007,-97.126,411
+18033,Greenville,IA,Clay County,,city-us,69,43.017,-95.146,3668
+18040,Greenville,ND,LaMoure County,,city-us,64,46.416,-98.100,177
+18029,Greenville,UT,Beaver County,,city-us,0,38.254,-112.713,664
+18041,Greenville,WV,Logan County,,city-us,0,37.721,-81.872,459
+18046,Greenville,WV,Monroe County,,city-us,0,37.543,-80.683,328
+18057,Greenville,IN,Sullivan County,,city-us,0,39.141,-87.302,241
+18060,Greenville,IN,Wells County,,city-us,0,40.654,-85.226,195
+18062,Greenville,CA,Yuba County,,city-us,0,39.437,-121.177,274

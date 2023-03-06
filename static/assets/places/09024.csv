@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45430,Waterfall,PA,,city-us,0,40.127,-78.063,272
-45431,Waterfall,VA,,city-us,0,38.862,-77.672,231
-45432,Waterfall,AK,,city-us,0,55.297,-133.241,514
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45430,Waterfall,PA,Fulton County,,city-us,0,40.127,-78.063,272
+45431,Waterfall,VA,Prince William County,,city-us,0,38.862,-77.672,231
+45432,Waterfall,AK,Unorganized Borough,,city-us,0,55.297,-133.241,514

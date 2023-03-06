@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38984,Scottsburg,IN,,city-us,7267,38.686,-85.770,5655
-38981,Scottsburg,VA,,city-us,123,36.757,-78.790,1998
-38982,Scottsburg,NY,,city-us,113,42.664,-77.714,789
-38979,Scottsburg,KY,,city-us,0,37.079,-87.821,102
-38980,Scottsburg,OR,,city-us,0,43.654,-123.816,857
-38983,Scottsburg,IN,,city-us,0,38.289,-87.219,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38984,Scottsburg,IN,Scott County,,city-us,7267,38.686,-85.770,5655
+38981,Scottsburg,VA,Halifax County,,city-us,123,36.757,-78.790,1998
+38982,Scottsburg,NY,Livingston County,,city-us,113,42.664,-77.714,789
+38979,Scottsburg,KY,Caldwell County,,city-us,0,37.079,-87.821,102
+38980,Scottsburg,OR,Douglas County,,city-us,0,43.654,-123.816,857
+38983,Scottsburg,IN,Pike County,,city-us,0,38.289,-87.219,157

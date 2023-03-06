@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20903,Hubbardston,MA,,city-us,4312,42.495,-72.002,5641
-20902,Hubbardston,MI,,city-us,348,43.094,-84.843,2898
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20903,Hubbardston,MA,Worcester County,,city-us,4312,42.495,-72.002,5641
+20902,Hubbardston,MI,Clinton County / Ionia County,,city-us,348,43.094,-84.843,2898

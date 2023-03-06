@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18333,Gurley,AL,,city-us,825,34.702,-86.376,3865
-18331,Gurley,NE,,city-us,186,41.322,-102.971,4707
-18332,Gurley,LA,,city-us,0,30.869,-91.134,372
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18333,Gurley,AL,Madison County,,city-us,825,34.702,-86.376,3865
+18331,Gurley,NE,Cheyenne County,,city-us,186,41.322,-102.971,4707
+18332,Gurley,LA,East Feliciana Parish,,city-us,0,30.869,-91.134,372

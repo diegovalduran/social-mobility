@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8046,Chemung,IL,,city-us,9081,42.455,-88.648,504
-8044,Chemung,NY,,city-us,2332,42.056,-76.606,4959
-8045,Chemung,PA,,city-us,0,41.591,-76.839,234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8046,Chemung,IL,McHenry County,,city-us,9081,42.455,-88.648,504
+8044,Chemung,NY,Chemung County,,city-us,2332,42.056,-76.606,4959
+8045,Chemung,PA,Lycoming County,,city-us,0,41.591,-76.839,234

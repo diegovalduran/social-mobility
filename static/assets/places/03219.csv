@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16240,Galva,IL,,city-us,2699,41.184,-90.038,1211
-16242,Galva,KS,,city-us,870,38.382,-97.538,9051
-16241,Galva,IA,,city-us,435,42.507,-95.417,3160
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16240,Galva,IL,Henry County,,city-us,2699,41.184,-90.038,1211
+16242,Galva,KS,McPherson County,,city-us,870,38.382,-97.538,9051
+16241,Galva,IA,Ida County,,city-us,435,42.507,-95.417,3160

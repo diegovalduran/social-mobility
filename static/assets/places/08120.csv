@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41114,St. Michael,MN,,city-us,19001,45.210,-93.665,6497
-41113,St. Michael,AK,,city-us,449,63.478,-162.039,3863
-41112,St. Michael,PA,,city-us,404,40.337,-78.771,756
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41114,St. Michael,MN,Wright County,,city-us,19001,45.210,-93.665,6497
+41113,St. Michael,AK,Nome Census Area,,city-us,449,63.478,-162.039,3863
+41112,St. Michael,PA,Cambria County,,city-us,404,40.337,-78.771,756

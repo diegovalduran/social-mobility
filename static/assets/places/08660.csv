@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43418,Truro,OH,,city-us,30248,39.958,-82.807,2041
-43417,Truro,MA,,city-us,2486,42.014,-70.064,11147
-43420,Truro,IA,,city-us,517,41.210,-93.847,3735
-43416,Truro,SD,,city-us,61,43.542,-98.498,0
-43419,Truro,IL,,city-us,0,40.958,-90.042,827
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43418,Truro,OH,Franklin County,,city-us,30248,39.958,-82.807,2041
+43417,Truro,MA,Barnstable County,,city-us,2486,42.014,-70.064,11147
+43420,Truro,IA,Madison County,,city-us,517,41.210,-93.847,3735
+43416,Truro,SD,Aurora County,,city-us,61,43.542,-98.498,0
+43419,Truro,IL,Knox County,,city-us,0,40.958,-90.042,827

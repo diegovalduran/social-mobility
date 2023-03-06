@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17732,Grayling,MI,,city-us,5755,44.678,-84.643,5057
-17733,Grayling,AK,,city-us,208,62.904,-160.065,2362
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17732,Grayling,MI,Crawford County,,city-us,5755,44.678,-84.643,5057
+17733,Grayling,AK,Yukon-Koyukuk Census Area,,city-us,208,62.904,-160.065,2362

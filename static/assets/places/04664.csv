@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23889,Lander,WY,,city-us,7550,42.833,-108.731,15097
-23888,Lander,MD,,city-us,0,39.309,-77.559,132
-23890,Lander,PA,,city-us,0,41.967,-79.238,109
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23889,Lander,WY,Fremont County,,city-us,7550,42.833,-108.731,15097
+23888,Lander,MD,Frederick County,,city-us,0,39.309,-77.559,132
+23890,Lander,PA,Warren County,,city-us,0,41.967,-79.238,109

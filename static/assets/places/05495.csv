@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28107,Miami,FL,,city-us,439890,25.774,-80.194,56003
-28108,Miami,OH,,city-us,51977,39.627,-84.264,273
-28098,Miami,OH,,city-us,44133,39.199,-84.244,273
-28102,Miami,OH,,city-us,15840,39.165,-84.741,273
-28109,Miami,OK,,city-us,12885,36.875,-94.877,8409
-28101,Miami,OH,,city-us,4934,39.799,-83.872,273
-28104,Miami,OH,,city-us,2107,40.294,-83.942,273
-28100,Miami,AZ,,city-us,1541,33.399,-110.869,5611
-28106,Miami,KS,,city-us,521,38.455,-94.743,0
-28111,Miami,TX,,city-us,521,35.691,-100.638,2359
-28110,Miami,KS,,city-us,371,37.777,-98.409,0
-28112,Miami,MO,,city-us,154,39.321,-93.228,3419
-28099,Miami,NM,,city-us,0,36.350,-104.793,766
-28103,Miami,WV,,city-us,0,38.152,-81.448,236
-28105,Miami,IN,,city-us,0,40.614,-86.106,408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28107,Miami,FL,Miami-Dade County,,city-us,439890,25.774,-80.194,56003
+28108,Miami,OH,Montgomery County,,city-us,51977,39.627,-84.264,273
+28098,Miami,OH,Clermont County,,city-us,44133,39.199,-84.244,273
+28102,Miami,OH,Hamilton County,,city-us,15840,39.165,-84.741,273
+28109,Miami,OK,Ottawa County,,city-us,12885,36.875,-94.877,8409
+28101,Miami,OH,Greene County,,city-us,4934,39.799,-83.872,273
+28104,Miami,OH,Logan County,,city-us,2107,40.294,-83.942,273
+28100,Miami,AZ,Gila County,,city-us,1541,33.399,-110.869,5611
+28106,Miami,KS,Miami County,,city-us,521,38.455,-94.743,0
+28111,Miami,TX,Roberts County,,city-us,521,35.691,-100.638,2359
+28110,Miami,KS,Reno County,,city-us,371,37.777,-98.409,0
+28112,Miami,MO,Saline County,,city-us,154,39.321,-93.228,3419
+28099,Miami,NM,Colfax County,,city-us,0,36.350,-104.793,766
+28103,Miami,WV,Kanawha County,,city-us,0,38.152,-81.448,236
+28105,Miami,IN,Miami County,,city-us,0,40.614,-86.106,408

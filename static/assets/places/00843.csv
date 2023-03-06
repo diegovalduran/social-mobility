@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4320,Blandville,KY,,city-us,71,36.944,-88.964,2170
-4321,Blandville,WV,,city-us,0,39.257,-80.711,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4320,Blandville,KY,Ballard County,,city-us,71,36.944,-88.964,2170
+4321,Blandville,WV,Doddridge County,,city-us,0,39.257,-80.711,261

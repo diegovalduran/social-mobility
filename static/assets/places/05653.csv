@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29038,Monitor,MI,,city-us,10612,43.609,-83.990,2814
-29039,Monitor,WA,,city-us,0,47.487,-120.418,2810
-29040,Monitor,WV,,city-us,0,37.793,-82.053,186
-29041,Monitor,OR,,city-us,0,45.101,-122.748,1226
-29042,Monitor,WV,,city-us,0,37.656,-80.490,146
-29043,Monitor,IN,,city-us,0,40.420,-86.757,566
-29044,Monitor,KY,,city-us,0,38.655,-85.266,209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29038,Monitor,MI,Bay County,,city-us,10612,43.609,-83.990,2814
+29039,Monitor,WA,Chelan County,,city-us,0,47.487,-120.418,2810
+29040,Monitor,WV,Logan County,,city-us,0,37.793,-82.053,186
+29041,Monitor,OR,Marion County,,city-us,0,45.101,-122.748,1226
+29042,Monitor,WV,Monroe County,,city-us,0,37.656,-80.490,146
+29043,Monitor,IN,Tippecanoe County,,city-us,0,40.420,-86.757,566
+29044,Monitor,KY,Trimble County,,city-us,0,38.655,-85.266,209

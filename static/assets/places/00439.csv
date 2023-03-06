@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2324,Ballard,UT,,city-us,1161,40.289,-109.943,1584
-2323,Ballard,CA,,city-us,862,34.636,-120.113,3783
-2320,Ballard,KY,,city-us,0,37.930,-84.991,280
-2321,Ballard,MO,,city-us,0,38.361,-94.143,747
-2322,Ballard,WV,,city-us,0,37.475,-80.779,611
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2324,Ballard,UT,Uintah County,,city-us,1161,40.289,-109.943,1584
+2323,Ballard,CA,Santa Barbara County,,city-us,862,34.636,-120.113,3783
+2320,Ballard,KY,Anderson County,,city-us,0,37.930,-84.991,280
+2321,Ballard,MO,Bates County,,city-us,0,38.361,-94.143,747
+2322,Ballard,WV,Monroe County,,city-us,0,37.475,-80.779,611

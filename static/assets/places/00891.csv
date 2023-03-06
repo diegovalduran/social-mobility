@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4532,Blue River,CO,,city-us,884,39.430,-106.044,2554
-4530,Blue River,WI,,city-us,457,43.188,-90.567,3194
-4529,Blue River,KY,,city-us,0,37.619,-82.844,85
-4531,Blue River,OR,,city-us,0,44.155,-122.340,1736
-4533,Blue River,IN,,city-us,0,38.530,-85.939,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4532,Blue River,CO,Summit County,,city-us,884,39.430,-106.044,2554
+4530,Blue River,WI,Grant County,,city-us,457,43.188,-90.567,3194
+4529,Blue River,KY,Floyd County,,city-us,0,37.619,-82.844,85
+4531,Blue River,OR,Lane County,,city-us,0,44.155,-122.340,1736
+4533,Blue River,IN,Washington County,,city-us,0,38.530,-85.939,273

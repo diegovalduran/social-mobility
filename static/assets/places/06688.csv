@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33988,Piermont,NY,,city-us,2512,41.042,-73.918,11660
-33986,Piermont,NH,,city-us,776,43.962,-72.001,4913
-33987,Piermont,LA,,city-us,0,31.952,-93.282,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33988,Piermont,NY,Rockland County,,city-us,2512,41.042,-73.918,11660
+33986,Piermont,NH,Grafton County,,city-us,776,43.962,-72.001,4913
+33987,Piermont,LA,Red River Parish,,city-us,0,31.952,-93.282,88

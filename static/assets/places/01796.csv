@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9193,Cohasset,MA,,city-us,8373,42.262,-70.799,10211
-9192,Cohasset,MN,,city-us,2698,47.264,-93.620,3261
-9190,Cohasset,CA,,city-us,480,39.925,-121.731,4916
-9191,Cohasset,VA,,city-us,0,37.770,-78.303,2621
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9193,Cohasset,MA,Norfolk County,,city-us,8373,42.262,-70.799,10211
+9192,Cohasset,MN,Itasca County,,city-us,2698,47.264,-93.620,3261
+9190,Cohasset,CA,Butte County,,city-us,480,39.925,-121.731,4916
+9191,Cohasset,VA,Fluvanna County,,city-us,0,37.770,-78.303,2621

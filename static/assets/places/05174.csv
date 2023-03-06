@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26560,Mandan,ND,,city-us,24447,46.827,-100.890,17796
-26561,Mandan,ND,,city-us,59,48.248,-101.718,17796
-26559,Mandan,MI,,city-us,0,47.425,-88.016,640
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26560,Mandan,ND,Morton County,,city-us,24447,46.827,-100.890,17796
+26561,Mandan,ND,Ward County,,city-us,59,48.248,-101.718,17796
+26559,Mandan,MI,Keweenaw County,,city-us,0,47.425,-88.016,640

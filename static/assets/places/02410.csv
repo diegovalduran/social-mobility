@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12032,Dot,KY,,city-us,0,36.678,-86.953,454
-12035,Dott,PA,,city-us,0,39.814,-78.189,107
-12036,Dott,WV,,city-us,0,37.469,-81.246,284
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12032,Dot,KY,Logan County,,city-us,0,36.678,-86.953,454
+12035,Dott,PA,Fulton County,,city-us,0,39.814,-78.189,107
+12036,Dott,WV,Mercer County,,city-us,0,37.469,-81.246,284

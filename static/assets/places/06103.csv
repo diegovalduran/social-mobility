@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31228,Nolin,KY,,city-us,0,37.561,-85.903,256
-31229,Nolin,OR,,city-us,0,45.683,-119.101,1231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31228,Nolin,KY,Hardin County,,city-us,0,37.561,-85.903,256
+31229,Nolin,OR,Umatilla County,,city-us,0,45.683,-119.101,1231

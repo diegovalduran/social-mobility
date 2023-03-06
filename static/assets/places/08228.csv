@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41627,Stony Ridge,OH,,city-us,521,41.510,-83.507,694
-41626,Stony Ridge,IN,,city-us,0,41.327,-85.777,197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41627,Stony Ridge,OH,Wood County,,city-us,521,41.510,-83.507,694
+41626,Stony Ridge,IN,Kosciusko County,,city-us,0,41.327,-85.777,197

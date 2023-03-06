@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21408,Inglenook,CT,,city-us,1081,41.523,-73.474,352
-21406,Inglenook,PA,,city-us,0,40.413,-76.981,181
-21407,Inglenook,CA,,city-us,0,39.530,-123.759,449
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21408,Inglenook,CT,Western Connecticut Planning Region,,city-us,1081,41.523,-73.474,352
+21406,Inglenook,PA,Dauphin County,,city-us,0,40.413,-76.981,181
+21407,Inglenook,CA,Mendocino County,,city-us,0,39.530,-123.759,449

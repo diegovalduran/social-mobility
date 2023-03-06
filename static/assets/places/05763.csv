@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29667,Mossville,LA,,city-us,0,30.248,-93.309,5808
-29668,Mossville,PA,,city-us,0,41.272,-76.279,110
-29669,Mossville,AR,,city-us,0,35.895,-93.390,127
-29670,Mossville,IL,,city-us,0,40.816,-89.568,2319
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29667,Mossville,LA,Calcasieu Parish,,city-us,0,30.248,-93.309,5808
+29668,Mossville,PA,Luzerne County,,city-us,0,41.272,-76.279,110
+29669,Mossville,AR,Newton County,,city-us,0,35.895,-93.390,127
+29670,Mossville,IL,Peoria County,,city-us,0,40.816,-89.568,2319

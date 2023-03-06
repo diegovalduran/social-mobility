@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34034,Pikeville,KY,,city-us,7327,37.479,-82.519,11686
-34030,Pikeville,TN,,city-us,1855,35.606,-85.189,5822
-34035,Pikeville,NC,,city-us,706,35.497,-77.982,4877
-34032,Pikeville,AL,,city-us,121,34.744,-86.039,247
-34029,Pikeville,PA,,city-us,0,40.398,-75.724,245
-34031,Pikeville,OH,,city-us,0,40.163,-84.605,314
-34033,Pikeville,IN,,city-us,0,38.322,-87.111,349
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34034,Pikeville,KY,Pike County,,city-us,7327,37.479,-82.519,11686
+34030,Pikeville,TN,Bledsoe County,,city-us,1855,35.606,-85.189,5822
+34035,Pikeville,NC,Wayne County,,city-us,706,35.497,-77.982,4877
+34032,Pikeville,AL,Jackson County,,city-us,121,34.744,-86.039,247
+34029,Pikeville,PA,Berks County,,city-us,0,40.398,-75.724,245
+34031,Pikeville,OH,Darke County,,city-us,0,40.163,-84.605,314
+34033,Pikeville,IN,Pike County,,city-us,0,38.322,-87.111,349

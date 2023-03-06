@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35661,Quinby,SC,,city-us,911,34.237,-79.735,2218
-35659,Quinby,VA,,city-us,299,37.554,-75.734,497
-35662,Quinby,ND,,city-us,2,47.034,-99.812,0
-35660,Quinby,KS,,city-us,0,37.988,-100.929,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35661,Quinby,SC,Florence County,,city-us,911,34.237,-79.735,2218
+35659,Quinby,VA,Accomack County,,city-us,299,37.554,-75.734,497
+35662,Quinby,ND,Kidder County,,city-us,2,47.034,-99.812,0
+35660,Quinby,KS,Finney County,,city-us,0,37.988,-100.929,175

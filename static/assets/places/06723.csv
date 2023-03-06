@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34165,Pine Lake,WI,,city-us,2764,45.687,-89.400,2362
-34166,Pine Lake,MN,,city-us,771,46.581,-95.476,305
-34162,Pine Lake,GA,,city-us,733,33.794,-84.206,4435
-34167,Pine Lake,MN,,city-us,589,46.194,-92.999,305
-34161,Pine Lake,MN,,city-us,448,47.695,-95.504,305
-34160,Pine Lake,MN,,city-us,189,47.020,-94.348,305
-34164,Pine Lake,AZ,,city-us,99,35.089,-113.874,1941
-34163,Pine Lake,WI,,city-us,0,46.256,-90.141,189
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34165,Pine Lake,WI,Oneida County,,city-us,2764,45.687,-89.400,2362
+34166,Pine Lake,MN,Otter Tail County,,city-us,771,46.581,-95.476,305
+34162,Pine Lake,GA,DeKalb County,,city-us,733,33.794,-84.206,4435
+34167,Pine Lake,MN,Pine County,,city-us,589,46.194,-92.999,305
+34161,Pine Lake,MN,Clearwater County,,city-us,448,47.695,-95.504,305
+34160,Pine Lake,MN,Cass County,,city-us,189,47.020,-94.348,305
+34164,Pine Lake,AZ,Mohave County,,city-us,99,35.089,-113.874,1941
+34163,Pine Lake,WI,Iron County,,city-us,0,46.256,-90.141,189

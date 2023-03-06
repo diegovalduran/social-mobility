@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8485,Clarendon,NY,,city-us,3274,43.174,-78.056,4382
-8486,Clarendon,VT,,city-us,2392,43.532,-72.989,4862
-8483,Clarendon,TX,,city-us,1867,34.938,-100.888,7722
-8484,Clarendon,AR,,city-us,1498,34.693,-91.314,7669
-8481,Clarendon,MI,,city-us,1139,42.118,-84.867,3820
-8487,Clarendon,PA,,city-us,408,41.780,-79.093,1860
-8482,Clarendon,NC,,city-us,0,34.210,-78.845,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8485,Clarendon,NY,Orleans County,,city-us,3274,43.174,-78.056,4382
+8486,Clarendon,VT,Rutland County,,city-us,2392,43.532,-72.989,4862
+8483,Clarendon,TX,Donley County,,city-us,1867,34.938,-100.888,7722
+8484,Clarendon,AR,Monroe County,,city-us,1498,34.693,-91.314,7669
+8481,Clarendon,MI,Calhoun County,,city-us,1139,42.118,-84.867,3820
+8487,Clarendon,PA,Warren County,,city-us,408,41.780,-79.093,1860
+8482,Clarendon,NC,Columbus County,,city-us,0,34.210,-78.845,254

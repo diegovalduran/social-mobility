@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4821,Bovina,TX,,city-us,1703,34.514,-102.883,4107
-4820,Bovina,WI,,city-us,1169,44.458,-88.552,1193
-4818,Bovina,NY,,city-us,655,42.274,-74.757,2864
-4822,Bovina,MS,,city-us,516,32.352,-90.735,500
-4819,Bovina,CO,,city-us,0,39.462,-103.942,844
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4821,Bovina,TX,Parmer County,,city-us,1703,34.514,-102.883,4107
+4820,Bovina,WI,Outagamie County,,city-us,1169,44.458,-88.552,1193
+4818,Bovina,NY,Delaware County,,city-us,655,42.274,-74.757,2864
+4822,Bovina,MS,Warren County,,city-us,516,32.352,-90.735,500
+4819,Bovina,CO,Lincoln County,,city-us,0,39.462,-103.942,844

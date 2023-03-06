@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5383,Broad Creek,NC,,city-us,2231,34.721,-76.936,1785
-5384,Broad Creek,DE,,city-us,0,38.586,-75.584,298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5383,Broad Creek,NC,Carteret County,,city-us,2231,34.721,-76.936,1785
+5384,Broad Creek,DE,Sussex County,,city-us,0,38.586,-75.584,298

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28118,Micco,FL,,city-us,8618,27.881,-80.500,2588
-28119,Micco,WV,,city-us,0,37.783,-81.990,295
-28131,Mico,TX,,city-us,0,29.544,-98.923,1798
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28118,Micco,FL,Brevard County,,city-us,8618,27.881,-80.500,2588
+28119,Micco,WV,Logan County,,city-us,0,37.783,-81.990,295
+28131,Mico,TX,Medina County,,city-us,0,29.544,-98.923,1798

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19167,Hartsburg,IL,,city-us,255,40.251,-89.441,2507
-19166,Hartsburg,MO,,city-us,134,38.695,-92.309,3963
-19168,Hartsburg,OH,,city-us,0,41.093,-84.324,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19167,Hartsburg,IL,Logan County,,city-us,255,40.251,-89.441,2507
+19166,Hartsburg,MO,Boone County,,city-us,134,38.695,-92.309,3963
+19168,Hartsburg,OH,Putnam County,,city-us,0,41.093,-84.324,212

@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32484,Orleans,,France,city-international,116238,47.903,1.909,28097
-32475,Orleans,MA,,city-us,6411,41.766,-69.966,8910
-32480,Orleans,NY,,city-us,2803,44.224,-75.955,5786
-32479,Orleans,MI,,city-us,2777,43.076,-85.135,2894
-32482,Orleans,IN,,city-us,2103,38.662,-86.452,3396
-32483,Orleans,VT,,city-us,795,44.817,-72.233,9035
-32476,Orleans,IA,,city-us,524,43.447,-95.092,3096
-32477,Orleans,NE,,city-us,345,40.129,-99.455,3240
-32474,Orleans,IA,,city-us,0,40.726,-92.657,224
-32478,Orleans,CA,,city-us,0,41.301,-123.541,1047
-32481,Orleans,MN,,city-us,0,48.926,-96.937,528
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32484,Orleans,,,France,city-international,116238,47.903,1.909,28097
+32475,Orleans,MA,Barnstable County,,city-us,6411,41.766,-69.966,8910
+32480,Orleans,NY,Jefferson County,,city-us,2803,44.224,-75.955,5786
+32479,Orleans,MI,Ionia County,,city-us,2777,43.076,-85.135,2894
+32482,Orleans,IN,Orange County,,city-us,2103,38.662,-86.452,3396
+32483,Orleans,VT,Orleans County,,city-us,795,44.817,-72.233,9035
+32476,Orleans,IA,Dickinson County,,city-us,524,43.447,-95.092,3096
+32477,Orleans,NE,Harlan County,,city-us,345,40.129,-99.455,3240
+32474,Orleans,IA,Appanoose County,,city-us,0,40.726,-92.657,224
+32478,Orleans,CA,Humboldt County,,city-us,0,41.301,-123.541,1047
+32481,Orleans,MN,Kittson County,,city-us,0,48.926,-96.937,528

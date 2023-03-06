@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12769,Eastland,TX,,city-us,3621,32.402,-98.818,4460
-12770,Eastland,UT,,city-us,0,37.804,-109.134,161
-12771,Eastland,MS,,city-us,0,33.651,-90.522,140
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12769,Eastland,TX,Eastland County,,city-us,3621,32.402,-98.818,4460
+12770,Eastland,UT,San Juan County,,city-us,0,37.804,-109.134,161
+12771,Eastland,MS,Sunflower County,,city-us,0,33.651,-90.522,140

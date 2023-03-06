@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13218,Eldridge,IA,,city-us,6745,41.658,-90.585,5770
-13219,Eldridge,CA,,city-us,944,38.349,-122.511,4071
-13221,Eldridge,AL,,city-us,128,33.923,-87.617,2222
-13217,Eldridge,MO,,city-us,0,37.830,-92.749,386
-13220,Eldridge,ND,,city-us,0,46.903,-98.852,255
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13218,Eldridge,IA,Scott County,,city-us,6745,41.658,-90.585,5770
+13219,Eldridge,CA,Sonoma County,,city-us,944,38.349,-122.511,4071
+13221,Eldridge,AL,Walker County,,city-us,128,33.923,-87.617,2222
+13217,Eldridge,MO,Laclede County,,city-us,0,37.830,-92.749,386
+13220,Eldridge,ND,Stutsman County,,city-us,0,46.903,-98.852,255

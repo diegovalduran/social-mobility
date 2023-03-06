@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40395,South Lebanon,PA,,city-us,10472,40.306,-76.384,2180
-40397,South Lebanon,OH,,city-us,6541,39.371,-84.213,3944
-40396,South Lebanon,OR,,city-us,1228,44.509,-122.904,2225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40395,South Lebanon,PA,Lebanon County,,city-us,10472,40.306,-76.384,2180
+40397,South Lebanon,OH,Warren County,,city-us,6541,39.371,-84.213,3944
+40396,South Lebanon,OR,Linn County,,city-us,1228,44.509,-122.904,2225

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46077,West Newbury,MA,,city-us,4544,42.800,-70.964,11561
-46078,West Newbury,VT,,city-us,0,44.064,-72.125,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46077,West Newbury,MA,Essex County,,city-us,4544,42.800,-70.964,11561
+46078,West Newbury,VT,Orange County,,city-us,0,44.064,-72.125,245

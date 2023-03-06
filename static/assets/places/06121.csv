@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31297,Normania,ND,,city-us,38,48.232,-99.256,132
-31298,Normania,MN,,city-us,0,44.647,-95.809,113
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31297,Normania,ND,Benson County,,city-us,38,48.232,-99.256,132
+31298,Normania,MN,Yellow Medicine County,,city-us,0,44.647,-95.809,113

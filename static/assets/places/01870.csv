@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9615,Concordia,,Argentina,city-international,149450,-31.392,-58.017,1874
-9610,Concordia,KS,,city-us,5032,39.571,-97.663,18055
-9613,Concordia,NJ,,city-us,2746,40.311,-74.448,2079
-9611,Concordia,MO,,city-us,2351,38.983,-93.569,4621
-9612,Concordia,KY,,city-us,0,38.059,-86.428,245
-9614,Concordia,TX,,city-us,0,27.603,-97.707,142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9615,Concordia,,,Argentina,city-international,149450,-31.392,-58.017,1874
+9610,Concordia,KS,Cloud County,,city-us,5032,39.571,-97.663,18055
+9613,Concordia,NJ,Middlesex County,,city-us,2746,40.311,-74.448,2079
+9611,Concordia,MO,Lafayette County,,city-us,2351,38.983,-93.569,4621
+9612,Concordia,KY,Meade County,,city-us,0,38.059,-86.428,245
+9614,Concordia,TX,Nueces County,,city-us,0,27.603,-97.707,142

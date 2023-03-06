@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20149,Hillsville,VA,,city-us,2876,36.763,-80.735,8808
-20150,Hillsville,PA,,city-us,0,41.008,-80.497,672
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20149,Hillsville,VA,Carroll County,,city-us,2876,36.763,-80.735,8808
+20150,Hillsville,PA,Lawrence County,,city-us,0,41.008,-80.497,672

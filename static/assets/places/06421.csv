@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32731,Overbrook,KS,,city-us,999,38.781,-95.557,4095
-32730,Overbrook,OK,,city-us,0,34.067,-97.141,577
-32732,Overbrook,DE,,city-us,0,38.767,-75.215,1827
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32731,Overbrook,KS,Osage County,,city-us,999,38.781,-95.557,4095
+32730,Overbrook,OK,Love County,,city-us,0,34.067,-97.141,577
+32732,Overbrook,DE,Sussex County,,city-us,0,38.767,-75.215,1827

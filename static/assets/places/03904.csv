@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19991,Highland Park,IL,,city-us,30177,42.182,-87.800,10836
-19992,Highland Park,NJ,,city-us,14968,40.496,-74.424,32972
-19996,Highland Park,MI,,city-us,8902,42.406,-83.097,19843
-19989,Highland Park,TX,,city-us,8747,32.833,-96.792,8921
-19993,Highland Park,PA,,city-us,1361,40.621,-77.568,2384
-19994,Highland Park,FL,,city-us,260,27.865,-81.562,2048
-19990,Highland Park,WI,,city-us,0,43.894,-88.347,116
-19995,Highland Park,VA,,city-us,0,37.123,-80.998,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19991,Highland Park,IL,Lake County,,city-us,30177,42.182,-87.800,10836
+19992,Highland Park,NJ,Middlesex County,,city-us,14968,40.496,-74.424,32972
+19996,Highland Park,MI,Wayne County,,city-us,8902,42.406,-83.097,19843
+19989,Highland Park,TX,Dallas County,,city-us,8747,32.833,-96.792,8921
+19993,Highland Park,PA,Mifflin County,,city-us,1361,40.621,-77.568,2384
+19994,Highland Park,FL,Polk County,,city-us,260,27.865,-81.562,2048
+19990,Highland Park,WI,Fond du Lac County,,city-us,0,43.894,-88.347,116
+19995,Highland Park,VA,Pulaski County,,city-us,0,37.123,-80.998,96

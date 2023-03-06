@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37540,Rose Valley,PA,,city-us,1011,39.896,-75.385,11558
-37541,Rose Valley,KS,,city-us,45,37.861,-98.756,0
-37539,Rose Valley,WA,,city-us,0,46.097,-122.826,447
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37540,Rose Valley,PA,Delaware County,,city-us,1011,39.896,-75.385,11558
+37541,Rose Valley,KS,Stafford County,,city-us,45,37.861,-98.756,0
+37539,Rose Valley,WA,Cowlitz County,,city-us,0,46.097,-122.826,447

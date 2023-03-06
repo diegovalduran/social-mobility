@@ -1,30 +1,30 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1486,Arlington,TX,,city-us,392786,32.736,-97.108,33176
-1462,Arlington,VA,,city-us,235764,38.890,-77.084,51638
-1477,Arlington,MA,,city-us,46045,42.415,-71.156,16281
-1485,Arlington,WA,,city-us,20075,48.199,-122.125,36234
-1483,Arlington,TN,,city-us,14448,35.296,-89.661,5757
-1470,Arlington,NY,,city-us,2651,41.696,-73.897,2417
-1463,Arlington,VT,,city-us,2453,43.062,-73.222,6105
-1488,Arlington,MI,,city-us,1967,42.291,-86.045,1909
-1473,Arlington,OH,,city-us,1474,40.894,-83.650,3319
-1489,Arlington,NE,,city-us,1309,41.453,-96.351,3941
-1466,Arlington,GA,,city-us,1225,31.437,-84.730,2898
-1464,Arlington,SD,,city-us,921,44.364,-97.134,4225
-1469,Arlington,WI,,city-us,849,43.338,-89.380,3442
-1472,Arlington,OR,,city-us,634,45.717,-120.201,7285
-1481,Arlington,KS,,city-us,569,37.862,-98.202,6226
-1484,Arlington,MN,,city-us,477,44.586,-94.072,1694
-1471,Arlington,IA,,city-us,418,42.749,-91.671,3410
-1482,Arlington,IN,,city-us,408,39.642,-85.576,488
-1468,Arlington,KY,,city-us,259,36.790,-89.013,3041
-1465,Arlington,IL,,city-us,166,41.474,-89.249,3617
-1476,Arlington,AZ,,city-us,113,33.326,-112.764,1142
-1467,Arlington,WY,,city-us,0,41.595,-106.208,1112
-1474,Arlington,WV,,city-us,0,39.308,-80.347,174
-1475,Arlington,CO,,city-us,0,38.336,-103.343,896
-1478,Arlington,OH,,city-us,0,39.866,-84.426,423
-1479,Arlington,VA,,city-us,0,37.220,-76.004,112
-1480,Arlington,MO,,city-us,0,37.920,-91.971,2565
-1487,Arlington,WV,,city-us,0,38.800,-80.343,399
-1490,Arlington,AL,,city-us,0,32.057,-87.589,326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1486,Arlington,TX,Tarrant County,,city-us,392786,32.736,-97.108,33176
+1462,Arlington,VA,Arlington County,,city-us,235764,38.890,-77.084,51638
+1477,Arlington,MA,Middlesex County,,city-us,46045,42.415,-71.156,16281
+1485,Arlington,WA,Snohomish County,,city-us,20075,48.199,-122.125,36234
+1483,Arlington,TN,Shelby County,,city-us,14448,35.296,-89.661,5757
+1470,Arlington,NY,Dutchess County,,city-us,2651,41.696,-73.897,2417
+1463,Arlington,VT,Bennington County,,city-us,2453,43.062,-73.222,6105
+1488,Arlington,MI,Van Buren County,,city-us,1967,42.291,-86.045,1909
+1473,Arlington,OH,Hancock County,,city-us,1474,40.894,-83.650,3319
+1489,Arlington,NE,Washington County,,city-us,1309,41.453,-96.351,3941
+1466,Arlington,GA,Calhoun County / Early County,,city-us,1225,31.437,-84.730,2898
+1464,Arlington,SD,Brookings County / Kingsbury County,,city-us,921,44.364,-97.134,4225
+1469,Arlington,WI,Columbia County,,city-us,849,43.338,-89.380,3442
+1472,Arlington,OR,Gilliam County,,city-us,634,45.717,-120.201,7285
+1481,Arlington,KS,Reno County,,city-us,569,37.862,-98.202,6226
+1484,Arlington,MN,Sibley County,,city-us,477,44.586,-94.072,1694
+1471,Arlington,IA,Fayette County,,city-us,418,42.749,-91.671,3410
+1482,Arlington,IN,Rush County,,city-us,408,39.642,-85.576,488
+1468,Arlington,KY,Carlisle County,,city-us,259,36.790,-89.013,3041
+1465,Arlington,IL,Bureau County,,city-us,166,41.474,-89.249,3617
+1476,Arlington,AZ,Maricopa County,,city-us,113,33.326,-112.764,1142
+1467,Arlington,WY,Carbon County,,city-us,0,41.595,-106.208,1112
+1474,Arlington,WV,Harrison County,,city-us,0,39.308,-80.347,174
+1475,Arlington,CO,Kiowa County,,city-us,0,38.336,-103.343,896
+1478,Arlington,OH,Montgomery County,,city-us,0,39.866,-84.426,423
+1479,Arlington,VA,Northampton County,,city-us,0,37.220,-76.004,112
+1480,Arlington,MO,Phelps County,,city-us,0,37.920,-91.971,2565
+1487,Arlington,WV,Upshur County,,city-us,0,38.800,-80.343,399
+1490,Arlington,AL,Wilcox County,,city-us,0,32.057,-87.589,326

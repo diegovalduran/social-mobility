@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23907,Lane,SC,,city-us,478,33.522,-79.879,2452
-23898,Lane,OK,,city-us,306,34.299,-95.988,688
-23902,Lane,KS,,city-us,244,38.440,-95.082,4944
-23906,Lane,KS,,city-us,106,39.785,-98.899,4944
-23899,Lane,IL,,city-us,102,40.123,-88.856,0
-23900,Lane,IL,,city-us,95,40.123,-88.856,296
-23903,Lane,KS,,city-us,77,37.973,-96.012,409
-23904,Lane,SD,,city-us,46,44.070,-98.425,2959
-23901,Lane,NE,,city-us,0,41.242,-96.161,191
-23905,Lane,ID,,city-us,0,47.507,-116.536,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23907,Lane,SC,Williamsburg County,,city-us,478,33.522,-79.879,2452
+23898,Lane,OK,Atoka County,,city-us,306,34.299,-95.988,688
+23902,Lane,KS,Franklin County,,city-us,244,38.440,-95.082,4944
+23906,Lane,KS,Smith County,,city-us,106,39.785,-98.899,4944
+23899,Lane,IL,De Witt County,,city-us,102,40.123,-88.856,0
+23900,Lane,IL,DeWitt County,,city-us,95,40.123,-88.856,296
+23903,Lane,KS,Greenwood County,,city-us,77,37.973,-96.012,409
+23904,Lane,SD,Jerauld County,,city-us,46,44.070,-98.425,2959
+23901,Lane,NE,Douglas County,,city-us,0,41.242,-96.161,191
+23905,Lane,ID,Kootenai County,,city-us,0,47.507,-116.536,318

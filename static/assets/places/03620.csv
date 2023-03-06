@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18383,Hackney,KS,,city-us,0,37.174,-97.031,710
-18384,Hackney,MO,,city-us,0,37.345,-93.396,458
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18383,Hackney,KS,Cowley County,,city-us,0,37.174,-97.031,710
+18384,Hackney,MO,Greene County,,city-us,0,37.345,-93.396,458

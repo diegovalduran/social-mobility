@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24375,Lehman,PA,,city-us,11078,41.153,-74.992,174
-24320,Leeman,WI,,city-us,0,44.574,-88.556,441
-24321,Leemon,MO,,city-us,0,37.464,-89.588,351
-24374,Lehman,PA,,city-us,0,41.317,-76.022,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24375,Lehman,PA,Pike County,,city-us,11078,41.153,-74.992,174
+24320,Leeman,WI,Outagamie County,,city-us,0,44.574,-88.556,441
+24321,Leemon,MO,Cape Girardeau County,,city-us,0,37.464,-89.588,351
+24374,Lehman,PA,Luzerne County,,city-us,0,41.317,-76.022,272

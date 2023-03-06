@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36263,Reidville,SC,,city-us,1682,34.863,-82.114,2184
-36222,Reedville,TX,,city-us,0,29.880,-97.846,1551
-36223,Reedville,VA,,city-us,0,37.842,-76.276,3986
-36224,Reedville,OR,,city-us,0,45.498,-122.901,1736
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36263,Reidville,SC,Spartanburg County,,city-us,1682,34.863,-82.114,2184
+36222,Reedville,TX,Caldwell County,,city-us,0,29.880,-97.846,1551
+36223,Reedville,VA,Northumberland County,,city-us,0,37.842,-76.276,3986
+36224,Reedville,OR,Washington County,,city-us,0,45.498,-122.901,1736

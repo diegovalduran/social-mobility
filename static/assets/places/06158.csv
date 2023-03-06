@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31421,North Santee,SC,,city-us,497,33.521,-80.427,917
-31422,North Santee,SC,,city-us,0,33.230,-79.377,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31421,North Santee,SC,Clarendon County,,city-us,497,33.521,-80.427,917
+31422,North Santee,SC,Georgetown County,,city-us,0,33.230,-79.377,223

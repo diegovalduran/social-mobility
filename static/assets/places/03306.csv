@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16745,Gifford,FL,,city-us,5511,27.672,-80.416,4289
-16742,Gifford,IL,,city-us,899,40.306,-88.021,2594
-16743,Gifford,SC,,city-us,268,32.860,-81.239,2129
-16744,Gifford,IA,,city-us,0,42.288,-93.091,865
-16746,Gifford,IN,,city-us,0,41.071,-87.052,312
-16747,Gifford,PA,,city-us,0,41.858,-78.596,192
-16748,Gifford,ID,,city-us,0,46.443,-116.557,388
-16749,Gifford,WA,,city-us,0,48.306,-118.146,643
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16745,Gifford,FL,Indian River County,,city-us,5511,27.672,-80.416,4289
+16742,Gifford,IL,Champaign County,,city-us,899,40.306,-88.021,2594
+16743,Gifford,SC,Hampton County,,city-us,268,32.860,-81.239,2129
+16744,Gifford,IA,Hardin County,,city-us,0,42.288,-93.091,865
+16746,Gifford,IN,Jasper County,,city-us,0,41.071,-87.052,312
+16747,Gifford,PA,McKean County,,city-us,0,41.858,-78.596,192
+16748,Gifford,ID,Nez Perce County,,city-us,0,46.443,-116.557,388
+16749,Gifford,WA,Stevens County,,city-us,0,48.306,-118.146,643

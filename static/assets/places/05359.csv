@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27464,McClusky,ND,,city-us,67,47.451,-100.492,4300
-27463,McClusky,IL,,city-us,0,39.043,-90.320,260
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27464,McClusky,ND,Sheridan County,,city-us,67,47.451,-100.492,4300
+27463,McClusky,IL,Jersey County,,city-us,0,39.043,-90.320,260

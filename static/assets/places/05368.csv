@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27656,McRae,AR,,city-us,614,35.113,-91.822,2315
-27487,McCrea,MN,,city-us,249,48.228,-96.696,1792
-27488,McCrea,LA,,city-us,0,30.869,-91.789,2672
-27653,McRae,FL,,city-us,0,29.818,-81.923,132
-27654,McRae,AL,,city-us,0,31.059,-86.261,147
-27655,McRae,VA,,city-us,0,37.461,-78.282,332
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27656,McRae,AR,White County,,city-us,614,35.113,-91.822,2315
+27487,McCrea,MN,Marshall County,,city-us,249,48.228,-96.696,1792
+27488,McCrea,LA,Pointe Coupee Parish,,city-us,0,30.869,-91.789,2672
+27653,McRae,FL,Clay County,,city-us,0,29.818,-81.923,132
+27654,McRae,AL,Covington County,,city-us,0,31.059,-86.261,147
+27655,McRae,VA,Cumberland County,,city-us,0,37.461,-78.282,332

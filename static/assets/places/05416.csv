@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27719,Meadows,MN,,city-us,54,46.413,-96.466,1652
-27716,Meadows,IL,,city-us,0,40.744,-88.805,2914
-27717,Meadows,MD,,city-us,0,38.816,-76.849,182
-27718,Meadows,NC,,city-us,0,36.369,-80.182,178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27719,Meadows,MN,Wilkin County,,city-us,54,46.413,-96.466,1652
+27716,Meadows,IL,McLean County,,city-us,0,40.744,-88.805,2914
+27717,Meadows,MD,Prince George's County,,city-us,0,38.816,-76.849,182
+27718,Meadows,NC,Stokes County,,city-us,0,36.369,-80.182,178

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46532,White Horse,NJ,,city-us,9710,40.191,-74.702,4480
-46534,White Horse,SD,,city-us,186,43.308,-100.597,1884
-46530,White Horse,PA,,city-us,0,40.374,-75.312,172
-46531,White Horse,PA,,city-us,0,40.035,-76.002,312
-46533,White Horse,CA,,city-us,0,41.311,-121.398,499
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46532,White Horse,NJ,Mercer County,,city-us,9710,40.191,-74.702,4480
+46534,White Horse,SD,Todd County,,city-us,186,43.308,-100.597,1884
+46530,White Horse,PA,Bucks County,,city-us,0,40.374,-75.312,172
+46531,White Horse,PA,Lancaster County,,city-us,0,40.035,-76.002,312
+46533,White Horse,CA,Modoc County,,city-us,0,41.311,-121.398,499

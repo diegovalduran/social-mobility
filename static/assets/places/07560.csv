@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38387,Samoa,,,country,207501,-13.759,-172.105,41811
-38385,Samoa,CA,,city-us,237,40.819,-124.186,9040
-38386,Samoa,MO,,city-us,0,37.274,-91.913,473
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38387,Samoa,,,,country,207501,-13.759,-172.105,41811
+38385,Samoa,CA,Humboldt County,,city-us,237,40.819,-124.186,9040
+38386,Samoa,MO,Texas County,,city-us,0,37.274,-91.913,473

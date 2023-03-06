@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24784,Liberty Center,OH,,city-us,1097,41.443,-84.009,3374
-24785,Liberty Center,IA,,city-us,0,41.204,-93.500,753
-24786,Liberty Center,IN,,city-us,0,40.699,-85.281,445
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24784,Liberty Center,OH,Henry County,,city-us,1097,41.443,-84.009,3374
+24785,Liberty Center,IA,Warren County,,city-us,0,41.204,-93.500,753
+24786,Liberty Center,IN,Wells County,,city-us,0,40.699,-85.281,445

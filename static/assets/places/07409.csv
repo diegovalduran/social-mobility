@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37715,Rosy,MN,,city-us,10,47.658,-94.306,759
-37650,Rosie,AR,,city-us,0,35.668,-91.538,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37715,Rosy,MN,Itasca County,,city-us,10,47.658,-94.306,759
+37650,Rosie,AR,Independence County,,city-us,0,35.668,-91.538,203

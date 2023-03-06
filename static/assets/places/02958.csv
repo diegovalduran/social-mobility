@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14851,Ferrysburg,MI,,city-us,2944,43.084,-86.220,4075
-14845,Ferrisburgh,VT,,city-us,2639,44.203,-73.279,7508
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14851,Ferrysburg,MI,Ottawa County,,city-us,2944,43.084,-86.220,4075
+14845,Ferrisburgh,VT,Addison County,,city-us,2639,44.203,-73.279,7508

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32214,Olive Hill,KY,,city-us,1573,38.300,-83.174,4454
-32215,Olive Hill,NC,,city-us,0,36.396,-79.091,200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32214,Olive Hill,KY,Carter County,,city-us,1573,38.300,-83.174,4454
+32215,Olive Hill,NC,Person County,,city-us,0,36.396,-79.091,200

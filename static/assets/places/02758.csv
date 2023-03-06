@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13729,Endee,KY,,city-us,0,37.430,-83.754,116
-13730,Endee,NM,,city-us,0,35.138,-103.108,491
-13737,Endy,NC,,city-us,0,35.305,-80.276,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13729,Endee,KY,Owsley County,,city-us,0,37.430,-83.754,116
+13730,Endee,NM,Quay County,,city-us,0,35.138,-103.108,491
+13737,Endy,NC,Stanly County,,city-us,0,35.305,-80.276,86

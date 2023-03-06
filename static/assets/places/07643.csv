@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38765,Satsuma,AL,,city-us,6785,30.853,-88.056,6779
-38763,Satsuma,TX,,city-us,0,29.903,-95.603,1584
-38764,Satsuma,LA,,city-us,0,30.503,-90.800,1674
-38766,Satsuma,FL,,city-us,0,29.555,-81.656,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38765,Satsuma,AL,Mobile County,,city-us,6785,30.853,-88.056,6779
+38763,Satsuma,TX,Harris County,,city-us,0,29.903,-95.603,1584
+38764,Satsuma,LA,Livingston Parish,,city-us,0,30.503,-90.800,1674
+38766,Satsuma,FL,Putnam County,,city-us,0,29.555,-81.656,215

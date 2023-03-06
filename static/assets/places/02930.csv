@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14846,Ferron,UT,,city-us,1480,39.094,-111.133,2923
-14709,Farron,WA,,city-us,0,46.405,-120.521,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14846,Ferron,UT,Emery County,,city-us,1480,39.094,-111.133,2923
+14709,Farron,WA,Yakima County,,city-us,0,46.405,-120.521,246

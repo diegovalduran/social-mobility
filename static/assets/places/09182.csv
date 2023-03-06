@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46284,Westover Hills,TX,,city-us,641,32.745,-97.414,3545
-46283,Westover Hills,DE,,city-us,0,39.763,-75.591,214
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46284,Westover Hills,TX,Tarrant County,,city-us,641,32.745,-97.414,3545
+46283,Westover Hills,DE,New Castle County,,city-us,0,39.763,-75.591,214

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38125,Sadsbury,PA,,city-us,4218,39.980,-75.908,237
-38127,Sadsbury,PA,,city-us,3529,39.939,-76.017,237
-38126,Sadsbury,PA,,city-us,2739,41.606,-80.330,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38125,Sadsbury,PA,Chester County,,city-us,4218,39.980,-75.908,237
+38127,Sadsbury,PA,Lancaster County,,city-us,3529,39.939,-76.017,237
+38126,Sadsbury,PA,Crawford County,,city-us,2739,41.606,-80.330,237

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24502,Leopold,IN,,city-us,720,38.104,-86.583,1371
-24500,Leopold,MO,,city-us,65,37.258,-89.926,9023
-24501,Leopold,WV,,city-us,0,39.125,-80.741,185
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24502,Leopold,IN,Perry County,,city-us,720,38.104,-86.583,1371
+24500,Leopold,MO,Bollinger County,,city-us,65,37.258,-89.926,9023
+24501,Leopold,WV,Doddridge County,,city-us,0,39.125,-80.741,185

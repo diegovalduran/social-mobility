@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19086,Harristown,IL,,city-us,1718,39.841,-89.092,592
-19087,Harristown,IN,,city-us,0,38.598,-86.024,355
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19086,Harristown,IL,Macon County,,city-us,1718,39.841,-89.092,592
+19087,Harristown,IN,Washington County,,city-us,0,38.598,-86.024,355

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1491,Arlington Heights,IL,,city-us,76000,42.088,-87.981,19062
-1493,Arlington Heights,PA,,city-us,6356,40.990,-75.216,2242
-1494,Arlington Heights,WA,,city-us,2774,48.202,-122.062,1947
-1492,Arlington Heights,OH,,city-us,809,39.215,-84.456,6285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1491,Arlington Heights,IL,Cook County,,city-us,76000,42.088,-87.981,19062
+1493,Arlington Heights,PA,Monroe County,,city-us,6356,40.990,-75.216,2242
+1494,Arlington Heights,WA,Snohomish County,,city-us,2774,48.202,-122.062,1947
+1492,Arlington Heights,OH,Hamilton County,,city-us,809,39.215,-84.456,6285

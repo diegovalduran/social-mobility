@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10205,Crafton,PA,,city-us,6004,40.435,-80.066,3509
-10206,Crafton,VA,,city-us,0,37.920,-78.295,91
-10207,Crafton,CA,,city-us,0,34.055,-117.121,6305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10205,Crafton,PA,Allegheny County,,city-us,6004,40.435,-80.066,3509
+10206,Crafton,VA,Fluvanna County,,city-us,0,37.920,-78.295,91
+10207,Crafton,CA,San Bernardino County,,city-us,0,34.055,-117.121,6305

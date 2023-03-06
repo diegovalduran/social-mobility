@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36731,Rifle,CO,,city-us,10518,39.535,-107.783,7494
-36732,Rifle,ND,,city-us,28,46.581,-102.602,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36731,Rifle,CO,Garfield County,,city-us,10518,39.535,-107.783,7494
+36732,Rifle,ND,Hettinger County,,city-us,28,46.581,-102.602,0

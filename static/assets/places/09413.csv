@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47576,Woodland Hills,UT,,city-us,1558,40.015,-111.649,2042
-47574,Woodland Hills,KY,,city-us,726,38.240,-85.524,3065
-47575,Woodland Hills,NE,,city-us,232,40.751,-96.421,400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47576,Woodland Hills,UT,Utah County,,city-us,1558,40.015,-111.649,2042
+47574,Woodland Hills,KY,Jefferson County,,city-us,726,38.240,-85.524,3065
+47575,Woodland Hills,NE,Otoe County,,city-us,232,40.751,-96.421,400

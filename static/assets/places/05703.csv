@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29391,Moores Mill,AL,,city-us,5659,34.844,-86.518,3948
-29390,Moores Mill,PA,,city-us,0,40.495,-78.268,670
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29391,Moores Mill,AL,Madison County,,city-us,5659,34.844,-86.518,3948
+29390,Moores Mill,PA,Blair County,,city-us,0,40.495,-78.268,670

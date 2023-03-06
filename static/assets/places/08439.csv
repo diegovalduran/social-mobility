@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42600,Teasdale,UT,,city-us,113,38.286,-111.477,1187
-42599,Teasdale,MS,,city-us,0,34.116,-90.022,174
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42600,Teasdale,UT,Wayne County,,city-us,113,38.286,-111.477,1187
+42599,Teasdale,MS,Tallahatchie County,,city-us,0,34.116,-90.022,174

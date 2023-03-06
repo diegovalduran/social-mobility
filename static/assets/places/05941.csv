@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30468,Netherlands,,,country,17463930,52.133,5.291,104242
-30467,Netherlands,MO,,city-us,0,36.299,-89.751,298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30468,Netherlands,,,,country,17463930,52.133,5.291,104242
+30467,Netherlands,MO,Pemiscot County,,city-us,0,36.299,-89.751,298

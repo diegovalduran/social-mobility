@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42070,Sunfield,MI,,city-us,534,42.762,-84.993,2972
-42071,Sunfield,IL,,city-us,0,38.064,-89.240,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42070,Sunfield,MI,Eaton County,,city-us,534,42.762,-84.993,2972
+42071,Sunfield,IL,Perry County,,city-us,0,38.064,-89.240,262

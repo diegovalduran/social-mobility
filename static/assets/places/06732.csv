@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34214,Pinecroft,PA,,city-us,588,40.569,-78.350,388
-34215,Pinecroft,CA,,city-us,0,39.076,-120.978,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34214,Pinecroft,PA,Blair County,,city-us,588,40.569,-78.350,388
+34215,Pinecroft,CA,Placer County,,city-us,0,39.076,-120.978,165

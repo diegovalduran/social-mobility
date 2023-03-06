@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11210,De Witt,NY,,city-us,25774,43.054,-76.072,8401
-11212,De Witt,NE,,city-us,507,40.394,-96.923,4461
-11208,De Witt,IL,,city-us,419,40.168,-88.763,2123
-11207,De Witt,MO,,city-us,84,39.384,-93.221,3029
-11211,De Witt,SD,,city-us,42,45.790,-102.099,131
-11209,De Witt,ND,,city-us,31,48.954,-103.787,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11210,De Witt,NY,Onondaga County,,city-us,25774,43.054,-76.072,8401
+11212,De Witt,NE,Saline County,,city-us,507,40.394,-96.923,4461
+11208,De Witt,IL,De Witt County,,city-us,419,40.168,-88.763,2123
+11207,De Witt,MO,Carroll County,,city-us,84,39.384,-93.221,3029
+11211,De Witt,SD,Perkins County,,city-us,42,45.790,-102.099,131
+11209,De Witt,ND,Divide County,,city-us,31,48.954,-103.787,0

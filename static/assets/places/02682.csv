@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13317,Elk Creek,KY,,city-us,1986,38.100,-85.371,532
-13311,Elk Creek,PA,,city-us,1780,41.887,-80.292,2192
-13319,Elk Creek,WI,,city-us,988,44.427,-91.400,2001
-13312,Elk Creek,CA,,city-us,153,39.605,-122.539,3114
-13310,Elk Creek,NE,,city-us,130,41.108,-99.325,248
-13316,Elk Creek,KS,,city-us,109,39.705,-97.419,157
-13315,Elk Creek,NE,,city-us,67,40.286,-96.129,3480
-13313,Elk Creek,ND,,city-us,6,47.101,-103.860,0
-13314,Elk Creek,VA,,city-us,0,36.721,-81.177,280
-13318,Elk Creek,MO,,city-us,0,37.189,-91.997,283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13317,Elk Creek,KY,Spencer County,,city-us,1986,38.100,-85.371,532
+13311,Elk Creek,PA,Erie County,,city-us,1780,41.887,-80.292,2192
+13319,Elk Creek,WI,Trempealeau County,,city-us,988,44.427,-91.400,2001
+13312,Elk Creek,CA,Glenn County,,city-us,153,39.605,-122.539,3114
+13310,Elk Creek,NE,Custer County,,city-us,130,41.108,-99.325,248
+13316,Elk Creek,KS,Republic County,,city-us,109,39.705,-97.419,157
+13315,Elk Creek,NE,Johnson County,,city-us,67,40.286,-96.129,3480
+13313,Elk Creek,ND,Golden Valley County,,city-us,6,47.101,-103.860,0
+13314,Elk Creek,VA,Grayson County,,city-us,0,36.721,-81.177,280
+13318,Elk Creek,MO,Texas County,,city-us,0,37.189,-91.997,283

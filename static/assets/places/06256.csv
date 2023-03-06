@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31992,Oconee,IL,,city-us,781,39.278,-89.084,334
-31993,Oconee,GA,,city-us,189,32.855,-82.950,2558
-31991,Oconee,NE,,city-us,0,41.470,-97.519,510
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31992,Oconee,IL,Shelby County,,city-us,781,39.278,-89.084,334
+31993,Oconee,GA,Washington County,,city-us,189,32.855,-82.950,2558
+31991,Oconee,NE,Platte County,,city-us,0,41.470,-97.519,510

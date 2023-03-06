@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25112,Linton,IN,,city-us,5147,39.035,-87.166,7632
-25111,Linton,ND,,city-us,1058,46.267,-100.233,9064
-25110,Linton,OH,,city-us,628,40.185,-81.761,1390
-25116,Linton,ND,,city-us,24,48.071,-101.745,9064
-25113,Linton,GA,,city-us,0,33.117,-82.993,294
-25114,Linton,KY,,city-us,0,36.687,-87.919,113
-25115,Linton,WI,,city-us,0,42.534,-88.502,111
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25112,Linton,IN,Greene County,,city-us,5147,39.035,-87.166,7632
+25111,Linton,ND,Emmons County,,city-us,1058,46.267,-100.233,9064
+25110,Linton,OH,Coshocton County,,city-us,628,40.185,-81.761,1390
+25116,Linton,ND,Ward County,,city-us,24,48.071,-101.745,9064
+25113,Linton,GA,Hancock County,,city-us,0,33.117,-82.993,294
+25114,Linton,KY,Trigg County,,city-us,0,36.687,-87.919,113
+25115,Linton,WI,Walworth County,,city-us,0,42.534,-88.502,111

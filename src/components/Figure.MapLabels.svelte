@@ -1,6 +1,7 @@
 <script>
 	import { getContext } from "svelte";
 	import checkOverlap from "$actions/checkOverlap.js";
+	import keepWithinBox from "$actions/keepWithinBox.js";
 
 	export let features;
 	export let fill = "#000";
@@ -24,7 +25,7 @@
 		{@const transform = `translate(${x}, ${y})`}
 		{@const className = feature.properties.className}
 		{#if hasCoords}
-			<g {transform} class={className}>
+			<g {transform} class={className} use:keepWithinBox={{ width: $width }}>
 				{#each [0, 1] as i}
 					{@const isStroke = i === 0 && stroke !== "none"}
 					{@const isRender = isStroke || i > 0}

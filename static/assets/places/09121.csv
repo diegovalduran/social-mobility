@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46002,West End,FL,,city-us,213839,25.632,-80.435,6768
-46005,West End,NY,,city-us,2181,42.459,-75.100,2052
-46007,West End,ND,,city-us,52,46.326,-97.218,0
-46000,West End,IL,,city-us,0,37.890,-88.706,328
-46001,West End,VA,,city-us,0,37.438,-76.699,95
-46003,West End,NJ,,city-us,0,40.286,-73.998,464
-46004,West End,NC,,city-us,0,35.240,-79.567,971
-46006,West End,WV,,city-us,0,39.390,-79.771,181
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46002,West End,FL,Miami-Dade County,,city-us,213839,25.632,-80.435,6768
+46005,West End,NY,Otsego County,,city-us,2181,42.459,-75.100,2052
+46007,West End,ND,Richland County,,city-us,52,46.326,-97.218,0
+46000,West End,IL,Franklin County,,city-us,0,37.890,-88.706,328
+46001,West End,VA,Gloucester County,,city-us,0,37.438,-76.699,95
+46003,West End,NJ,Monmouth County,,city-us,0,40.286,-73.998,464
+46004,West End,NC,Moore County,,city-us,0,35.240,-79.567,971
+46006,West End,WV,Preston County,,city-us,0,39.390,-79.771,181

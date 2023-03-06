@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18634,Hammett,GA,,city-us,0,32.657,-84.019,267
-18635,Hammett,ID,,city-us,0,42.946,-115.466,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18634,Hammett,GA,Crawford County,,city-us,0,32.657,-84.019,267
+18635,Hammett,ID,Elmore County,,city-us,0,42.946,-115.466,252

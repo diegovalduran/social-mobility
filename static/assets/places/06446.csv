@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32858,Packwood,WA,,city-us,319,46.604,-121.678,5533
-32857,Packwood,IA,,city-us,177,41.133,-92.083,3118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32858,Packwood,WA,Lewis County,,city-us,319,46.604,-121.678,5533
+32857,Packwood,IA,Jefferson County,,city-us,177,41.133,-92.083,3118

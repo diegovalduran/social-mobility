@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31082,Newtonville,NJ,,city-us,742,39.559,-74.866,241
-31083,Newtonville,AL,,city-us,0,33.545,-87.801,307
-31084,Newtonville,IN,,city-us,0,38.002,-86.943,343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31082,Newtonville,NJ,Atlantic County,,city-us,742,39.559,-74.866,241
+31083,Newtonville,AL,Fayette County,,city-us,0,33.545,-87.801,307
+31084,Newtonville,IN,Spencer County,,city-us,0,38.002,-86.943,343

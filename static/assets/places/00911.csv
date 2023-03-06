@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4608,Boggs,PA,,city-us,2727,40.997,-77.792,224
-4609,Boggs,PA,,city-us,1652,40.940,-78.352,224
-4607,Boggs,PA,,city-us,805,40.889,-79.414,224
-4610,Boggs,WV,,city-us,0,38.469,-80.625,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4608,Boggs,PA,Centre County,,city-us,2727,40.997,-77.792,224
+4609,Boggs,PA,Clearfield County,,city-us,1652,40.940,-78.352,224
+4607,Boggs,PA,Armstrong County,,city-us,805,40.889,-79.414,224
+4610,Boggs,WV,Webster County,,city-us,0,38.469,-80.625,147

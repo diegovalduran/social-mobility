@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33946,Pickett,OK,,city-us,721,34.782,-96.775,330
-33945,Pickett,KY,,city-us,0,37.123,-85.476,117
-33947,Pickett,WI,,city-us,0,43.911,-88.730,734
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33946,Pickett,OK,Pontotoc County,,city-us,721,34.782,-96.775,330
+33945,Pickett,KY,Adair County,,city-us,0,37.123,-85.476,117
+33947,Pickett,WI,Winnebago County,,city-us,0,43.911,-88.730,734

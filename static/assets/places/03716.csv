@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18966,Harpster,OH,,city-us,159,40.739,-83.254,2827
-18965,Harpster,ID,,city-us,0,45.987,-115.964,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18966,Harpster,OH,Wyandot County,,city-us,159,40.739,-83.254,2827
+18965,Harpster,ID,Idaho County,,city-us,0,45.987,-115.964,215

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6858,Capital,IL,,city-us,111563,39.791,-89.645,47189
-6857,Capital,SD,,city-us,81,43.212,-97.697,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6858,Capital,IL,Sangamon County,,city-us,111563,39.791,-89.645,47189
+6857,Capital,SD,Hutchinson County,,city-us,81,43.212,-97.697,0

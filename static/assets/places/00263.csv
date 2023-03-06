@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1367,Arco,ID,,city-us,908,43.637,-113.300,6143
-1368,Arco,MN,,city-us,85,44.384,-96.184,2815
-1453,Arkoe,MO,,city-us,52,40.258,-94.828,6127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1367,Arco,ID,Butte County,,city-us,908,43.637,-113.300,6143
+1368,Arco,MN,Lincoln County,,city-us,85,44.384,-96.184,2815
+1453,Arkoe,MO,Nodaway County,,city-us,52,40.258,-94.828,6127

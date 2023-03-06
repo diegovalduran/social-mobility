@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40266,Somerdale,NJ,,city-us,5536,39.844,-75.023,9259
-40267,Somerdale,OH,,city-us,0,40.566,-81.361,482
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40266,Somerdale,NJ,Camden County,,city-us,5536,39.844,-75.023,9259
+40267,Somerdale,OH,Tuscarawas County,,city-us,0,40.566,-81.361,482

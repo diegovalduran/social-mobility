@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32869,Padua,MN,,city-us,11,45.614,-95.057,185
-32867,Padua,IL,,city-us,0,40.450,-88.764,81
-32868,Padua,OH,,city-us,0,40.508,-84.784,1193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32869,Padua,MN,Stearns County,,city-us,11,45.614,-95.057,185
+32867,Padua,IL,McLean County,,city-us,0,40.450,-88.764,81
+32868,Padua,OH,Mercer County,,city-us,0,40.508,-84.784,1193

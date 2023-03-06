@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21461,Interlachen,FL,,city-us,1448,29.624,-81.890,3769
-21460,Interlachen,OR,,city-us,0,45.552,-122.447,1616
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21461,Interlachen,FL,Putnam County,,city-us,1448,29.624,-81.890,3769
+21460,Interlachen,OR,Multnomah County,,city-us,0,45.552,-122.447,1616

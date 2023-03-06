@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20717,Hopson,KY,,city-us,0,36.990,-87.847,196
-20718,Hopson,MS,,city-us,0,34.159,-90.546,700
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20717,Hopson,KY,Caldwell County,,city-us,0,36.990,-87.847,196
+20718,Hopson,MS,Coahoma County,,city-us,0,34.159,-90.546,700

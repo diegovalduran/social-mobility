@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41356,Stavanger,,Norway,city-international,129300,58.970,5.733,51577
-41355,Stavanger,ND,,city-us,106,47.628,-97.027,0
-41354,Stavanger,IL,,city-us,0,41.399,-88.614,219
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41356,Stavanger,,,Norway,city-international,129300,58.970,5.733,51577
+41355,Stavanger,ND,Traill County,,city-us,106,47.628,-97.027,0
+41354,Stavanger,IL,LaSalle County,,city-us,0,41.399,-88.614,219

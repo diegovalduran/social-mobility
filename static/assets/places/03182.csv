@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16054,Frontier,MI,,city-us,1421,41.781,-84.651,2965
-16053,Frontier,ND,,city-us,194,46.801,-96.833,3204
-16055,Frontier,MN,,city-us,0,48.656,-94.257,600
-16056,Frontier,WY,,city-us,0,41.814,-110.537,343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16054,Frontier,MI,Hillsdale County,,city-us,1421,41.781,-84.651,2965
+16053,Frontier,ND,Cass County,,city-us,194,46.801,-96.833,3204
+16055,Frontier,MN,Koochiching County,,city-us,0,48.656,-94.257,600
+16056,Frontier,WY,Lincoln County,,city-us,0,41.814,-110.537,343

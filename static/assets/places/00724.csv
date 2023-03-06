@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3720,Berwyn,IL,,city-us,55772,41.851,-87.794,21738
-3719,Berwyn,PA,,city-us,3620,40.045,-75.439,4388
-3721,Berwyn,NE,,city-us,74,41.351,-99.500,3050
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3720,Berwyn,IL,Cook County,,city-us,55772,41.851,-87.794,21738
+3719,Berwyn,PA,Chester County,,city-us,3620,40.045,-75.439,4388
+3721,Berwyn,NE,Custer County,,city-us,74,41.351,-99.500,3050

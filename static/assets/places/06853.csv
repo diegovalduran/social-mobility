@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34911,Ponce de Leon,FL,,city-us,512,30.723,-85.937,2820
-34912,Ponce de Leon,MO,,city-us,0,36.876,-93.351,1148
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34911,Ponce de Leon,FL,Holmes County,,city-us,512,30.723,-85.937,2820
+34912,Ponce de Leon,MO,Stone County,,city-us,0,36.876,-93.351,1148

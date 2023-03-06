@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27236,Mathias,MI,,city-us,532,46.215,-86.870,3012
-27237,Mathias,WV,,city-us,0,38.878,-78.866,819
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27236,Mathias,MI,Alger County,,city-us,532,46.215,-86.870,3012
+27237,Mathias,WV,Hardy County,,city-us,0,38.878,-78.866,819

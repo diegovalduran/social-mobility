@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38773,Saunders,WI,,city-us,2058,46.639,-92.109,3684
-38774,Saunders,WV,,city-us,0,37.800,-81.672,233
-38775,Saunders,KS,,city-us,0,37.471,-102.039,135
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38773,Saunders,WI,Douglas County,,city-us,2058,46.639,-92.109,3684
+38774,Saunders,WV,Logan County,,city-us,0,37.800,-81.672,233
+38775,Saunders,KS,Stanton County,,city-us,0,37.471,-102.039,135

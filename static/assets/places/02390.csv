@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11964,Donegal,PA,,city-us,2378,40.138,-80.459,351
-11965,Donegal,PA,,city-us,2186,40.102,-79.332,351
-11963,Donegal,PA,,city-us,1804,40.922,-79.733,351
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11964,Donegal,PA,Washington County,,city-us,2378,40.138,-80.459,351
+11965,Donegal,PA,Westmoreland County,,city-us,2186,40.102,-79.332,351
+11963,Donegal,PA,Butler County,,city-us,1804,40.922,-79.733,351

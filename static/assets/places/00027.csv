@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-101,Acton,MA,,city-us,23846,42.484,-71.438,30841
-98,Acton,CA,,city-us,6809,34.470,-118.197,7826
-107,Acton,ME,,city-us,2697,43.537,-70.940,5695
-102,Acton,NJ,,city-us,1475,39.623,-75.415,11629
-105,Acton,ND,,city-us,95,48.425,-97.202,76
-106,Acton,MT,,city-us,48,45.931,-108.681,735
-95,Acton,GA,,city-us,0,32.653,-85.010,342
-96,Acton,TX,,city-us,0,32.447,-97.690,1178
-97,Acton,AL,,city-us,0,33.427,-86.735,1521
-99,Acton,TN,,city-us,0,35.008,-88.459,157
-100,Acton,MN,,city-us,0,45.084,-94.661,1144
-103,Acton,AL,,city-us,0,33.356,-86.807,1874
-104,Acton,KY,,city-us,0,37.347,-85.248,209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+101,Acton,MA,Middlesex County,,city-us,23846,42.484,-71.438,30841
+98,Acton,CA,Los Angeles County,,city-us,6809,34.470,-118.197,7826
+107,Acton,ME,York County,,city-us,2697,43.537,-70.940,5695
+102,Acton,NJ,Salem County,,city-us,1475,39.623,-75.415,11629
+105,Acton,ND,Walsh County,,city-us,95,48.425,-97.202,76
+106,Acton,MT,Yellowstone County,,city-us,48,45.931,-108.681,735
+95,Acton,GA,Harris County,,city-us,0,32.653,-85.010,342
+96,Acton,TX,Hood County,,city-us,0,32.447,-97.690,1178
+97,Acton,AL,Jefferson County,,city-us,0,33.427,-86.735,1521
+99,Acton,TN,McNairy County,,city-us,0,35.008,-88.459,157
+100,Acton,MN,Meeker County,,city-us,0,45.084,-94.661,1144
+103,Acton,AL,Shelby County,,city-us,0,33.356,-86.807,1874
+104,Acton,KY,Taylor County,,city-us,0,37.347,-85.248,209

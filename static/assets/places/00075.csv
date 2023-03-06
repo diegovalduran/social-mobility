@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-369,Alabama,,United States,state,5074296,32.601,-86.681,79033
-368,Alabama,NY,,city-us,1590,43.090,-78.366,5220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+369,Alabama,,,United States,state,5074296,32.601,-86.681,79033
+368,Alabama,NY,Genesee County,,city-us,1590,43.090,-78.366,5220

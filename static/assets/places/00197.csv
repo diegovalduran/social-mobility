@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1026,Amos,KY,,city-us,0,36.653,-86.088,79
-1027,Amos,NV,,city-us,0,41.390,-117.809,254
-1028,Amos,MO,,city-us,0,38.016,-94.580,638
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1026,Amos,KY,Allen County,,city-us,0,36.653,-86.088,79
+1027,Amos,NV,Humboldt County,,city-us,0,41.390,-117.809,254
+1028,Amos,MO,Vernon County,,city-us,0,38.016,-94.580,638

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21223,Illinoi,IL,,city-us,0,41.190,-87.526,477
-21224,Illinoi,IN,,city-us,0,41.190,-87.526,477
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21223,Illinoi,IL,Kankakee County,,city-us,0,41.190,-87.526,477
+21224,Illinoi,IN,Lake County,,city-us,0,41.190,-87.526,477

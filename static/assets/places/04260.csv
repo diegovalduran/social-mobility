@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21964,Jeddo,MI,,city-us,1891,43.126,-82.596,2951
-21963,Jeddo,PA,,city-us,109,40.996,-75.896,2401
-21961,Jeddo,TX,,city-us,0,29.809,-97.315,1530
-21962,Jeddo,MO,,city-us,0,40.100,-91.969,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21964,Jeddo,MI,St. Clair County,,city-us,1891,43.126,-82.596,2951
+21963,Jeddo,PA,Luzerne County,,city-us,109,40.996,-75.896,2401
+21961,Jeddo,TX,Bastrop County,,city-us,0,29.809,-97.315,1530
+21962,Jeddo,MO,Knox County,,city-us,0,40.100,-91.969,262

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6341,Butterfield,IL,,city-us,4636,41.836,-88.042,1593
-6344,Butterfield,MN,,city-us,594,43.958,-94.795,3948
-6343,Butterfield,MI,,city-us,489,44.298,-84.921,2898
-6340,Butterfield,MO,,city-us,385,36.750,-93.908,3429
-6342,Butterfield,TX,,city-us,110,31.835,-106.096,1915
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6341,Butterfield,IL,DuPage County,,city-us,4636,41.836,-88.042,1593
+6344,Butterfield,MN,Watonwan County,,city-us,594,43.958,-94.795,3948
+6343,Butterfield,MI,Missaukee County,,city-us,489,44.298,-84.921,2898
+6340,Butterfield,MO,Barry County,,city-us,385,36.750,-93.908,3429
+6342,Butterfield,TX,El Paso County,,city-us,110,31.835,-106.096,1915

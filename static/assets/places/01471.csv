@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7364,Cecil,PA,,city-us,1676,40.280,-80.143,603
-7357,Cecil,MI,,city-us,661,45.774,-84.763,2499
-7362,Cecil,WI,,city-us,528,44.810,-88.452,3280
-7356,Cecil,GA,,city-us,289,31.045,-83.392,2198
-7361,Cecil,OH,,city-us,142,41.219,-84.602,3180
-7358,Cecil,AR,,city-us,0,35.439,-93.945,619
-7359,Cecil,AL,,city-us,0,32.303,-86.009,358
-7360,Cecil,OR,,city-us,0,45.618,-119.959,1119
-7363,Cecil,WV,,city-us,0,39.271,-79.987,335
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7364,Cecil,PA,Washington County,,city-us,1676,40.280,-80.143,603
+7357,Cecil,MI,Emmet County,,city-us,661,45.774,-84.763,2499
+7362,Cecil,WI,Shawano County,,city-us,528,44.810,-88.452,3280
+7356,Cecil,GA,Cook County,,city-us,289,31.045,-83.392,2198
+7361,Cecil,OH,Paulding County,,city-us,142,41.219,-84.602,3180
+7358,Cecil,AR,Franklin County,,city-us,0,35.439,-93.945,619
+7359,Cecil,AL,Montgomery County,,city-us,0,32.303,-86.009,358
+7360,Cecil,OR,Morrow County,,city-us,0,45.618,-119.959,1119
+7363,Cecil,WV,Taylor County,,city-us,0,39.271,-79.987,335

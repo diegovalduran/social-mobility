@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21659,Itasca,IL,,city-us,9430,41.975,-88.007,13785
-21660,Itasca,TX,,city-us,1625,32.160,-97.150,3008
-21661,Itasca,KS,,city-us,300,39.306,-101.668,1181
-21658,Itasca,MN,,city-us,131,47.293,-95.243,1952
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21659,Itasca,IL,DuPage County,,city-us,9430,41.975,-88.007,13785
+21660,Itasca,TX,Hill County,,city-us,1625,32.160,-97.150,3008
+21661,Itasca,KS,Sherman County,,city-us,300,39.306,-101.668,1181
+21658,Itasca,MN,Clearwater County,,city-us,131,47.293,-95.243,1952

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45059,Walter,MN,,city-us,132,45.110,-96.403,1766
-45058,Walter,AL,,city-us,0,34.119,-86.677,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45059,Walter,MN,Lac qui Parle County,,city-us,132,45.110,-96.403,1766
+45058,Walter,AL,Cullman County,,city-us,0,34.119,-86.677,289

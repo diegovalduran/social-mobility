@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15775,Franklinton,LA,,city-us,3581,30.847,-90.153,6872
-15774,Franklinton,NC,,city-us,2572,36.102,-78.458,9863
-15773,Franklinton,GA,,city-us,0,32.804,-83.536,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15775,Franklinton,LA,Washington Parish,,city-us,3581,30.847,-90.153,6872
+15774,Franklinton,NC,Franklin County,,city-us,2572,36.102,-78.458,9863
+15773,Franklinton,GA,Bibb County,,city-us,0,32.804,-83.536,139

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38195,Saint Paul,IL,,city-us,0,38.853,-88.953,87
-38196,Saint Paul,KY,,city-us,0,37.551,-86.194,137
-38197,Saint Paul,KY,,city-us,0,38.671,-83.087,187
-38198,Saint Paul,OH,,city-us,0,39.747,-82.913,275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38195,Saint Paul,IL,Fayette County,,city-us,0,38.853,-88.953,87
+38196,Saint Paul,KY,Grayson County,,city-us,0,37.551,-86.194,137
+38197,Saint Paul,KY,Lewis County,,city-us,0,38.671,-83.087,187
+38198,Saint Paul,OH,Pickaway County,,city-us,0,39.747,-82.913,275

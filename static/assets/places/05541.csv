@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28485,Mill,OH,,city-us,9735,40.365,-81.325,1445
-28484,Mill,MO,,city-us,0,37.889,-90.347,249
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28485,Mill,OH,Tuscarawas County,,city-us,9735,40.365,-81.325,1445
+28484,Mill,MO,Ste. Genevieve County,,city-us,0,37.889,-90.347,249

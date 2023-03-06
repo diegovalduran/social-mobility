@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7893,Chappell,NE,,city-us,853,41.093,-102.471,3653
-7853,Chapel,PA,,city-us,0,40.436,-75.546,351
-7854,Chapel,WV,,city-us,0,38.748,-80.805,167
-7855,Chapel,MO,,city-us,0,36.936,-91.676,457
-7856,Chapel,MO,,city-us,0,40.541,-92.730,273
-7891,Chappel,GA,,city-us,0,33.178,-84.097,181
-7892,Chappel,TX,,city-us,0,31.056,-98.571,2113
-7894,Chappell,KY,,city-us,0,37.011,-83.350,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7893,Chappell,NE,Deuel County,,city-us,853,41.093,-102.471,3653
+7853,Chapel,PA,Berks County,,city-us,0,40.436,-75.546,351
+7854,Chapel,WV,Braxton County,,city-us,0,38.748,-80.805,167
+7855,Chapel,MO,Howell County,,city-us,0,36.936,-91.676,457
+7856,Chapel,MO,Putnam County,,city-us,0,40.541,-92.730,273
+7891,Chappel,GA,Lamar County,,city-us,0,33.178,-84.097,181
+7892,Chappel,TX,San Saba County,,city-us,0,31.056,-98.571,2113
+7894,Chappell,KY,Leslie County,,city-us,0,37.011,-83.350,84

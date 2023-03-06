@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41273,Star,ID,,city-us,12912,43.701,-116.491,4048
-41274,Star,MI,,city-us,2983,46.338,-86.571,6230
-41275,Star,MI,,city-us,1047,44.981,-84.918,2219
-41281,Star,NC,,city-us,812,35.402,-79.784,6946
-41325,Starr,KS,,city-us,550,39.347,-97.426,356
-41324,Starr,SC,,city-us,167,34.377,-82.696,2509
-41278,Star,KS,,city-us,154,38.229,-95.593,346
-41327,Starr,SD,,city-us,130,43.463,-98.055,0
-41277,Star,SD,,city-us,124,43.046,-97.091,0
-41282,Star,MN,,city-us,98,48.064,-95.668,1763
-41276,Star,ND,,city-us,53,46.242,-103.421,133
-41279,Star,NE,,city-us,0,42.611,-98.340,163
-41280,Star,TX,,city-us,0,31.469,-98.316,2085
-41283,Star,MS,,city-us,0,32.094,-90.046,1733
-41326,Starr,OH,,city-us,0,39.397,-82.361,211
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41273,Star,ID,Ada County / Canyon County,,city-us,12912,43.701,-116.491,4048
+41274,Star,MI,Alger County,,city-us,2983,46.338,-86.571,6230
+41275,Star,MI,Antrim County,,city-us,1047,44.981,-84.918,2219
+41281,Star,NC,Montgomery County,,city-us,812,35.402,-79.784,6946
+41325,Starr,KS,Cloud County,,city-us,550,39.347,-97.426,356
+41324,Starr,SC,Anderson County,,city-us,167,34.377,-82.696,2509
+41278,Star,KS,Coffey County,,city-us,154,38.229,-95.593,346
+41327,Starr,SD,Hutchinson County,,city-us,130,43.463,-98.055,0
+41277,Star,SD,Clay County,,city-us,124,43.046,-97.091,0
+41282,Star,MN,Pennington County,,city-us,98,48.064,-95.668,1763
+41276,Star,ND,Bowman County,,city-us,53,46.242,-103.421,133
+41279,Star,NE,Holt County,,city-us,0,42.611,-98.340,163
+41280,Star,TX,Mills County,,city-us,0,31.469,-98.316,2085
+41283,Star,MS,Rankin County,,city-us,0,32.094,-90.046,1733
+41326,Starr,OH,Hocking County,,city-us,0,39.397,-82.361,211

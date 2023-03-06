@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9385,Coloma,IL,,city-us,10508,41.772,-89.691,413
-9381,Coloma,MI,,city-us,5017,42.208,-86.306,2759
-9384,Coloma,WI,,city-us,741,44.026,-89.534,4163
-9382,Coloma,CA,,city-us,392,38.800,-120.890,4470
-9383,Coloma,IN,,city-us,0,39.788,-87.292,406
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9385,Coloma,IL,Whiteside County,,city-us,10508,41.772,-89.691,413
+9381,Coloma,MI,Berrien County,,city-us,5017,42.208,-86.306,2759
+9384,Coloma,WI,Waushara County,,city-us,741,44.026,-89.534,4163
+9382,Coloma,CA,El Dorado County,,city-us,392,38.800,-120.890,4470
+9383,Coloma,IN,Parke County,,city-us,0,39.788,-87.292,406

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35262,Prairie Home,MO,,city-us,267,38.813,-92.590,3537
-35263,Prairie Home,NE,,city-us,38,40.865,-96.521,457
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35262,Prairie Home,MO,Cooper County,,city-us,267,38.813,-92.590,3537
+35263,Prairie Home,NE,Lancaster County,,city-us,38,40.865,-96.521,457

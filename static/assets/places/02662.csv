@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13180,Elder,PA,,city-us,1024,40.675,-78.690,2205
-13181,Elder,GA,,city-us,0,33.768,-83.347,206
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13180,Elder,PA,Cambria County,,city-us,1024,40.675,-78.690,2205
+13181,Elder,GA,Oconee County,,city-us,0,33.768,-83.347,206

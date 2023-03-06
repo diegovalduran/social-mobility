@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30970,Newfoundland,NJ,,city-us,1145,41.046,-74.435,1376
-30969,Newfoundland,KY,,city-us,0,38.131,-83.099,243
-30971,Newfoundland,PA,,city-us,0,41.307,-75.287,2276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30970,Newfoundland,NJ,Passaic County,,city-us,1145,41.046,-74.435,1376
+30969,Newfoundland,KY,Elliott County,,city-us,0,38.131,-83.099,243
+30971,Newfoundland,PA,Wayne County,,city-us,0,41.307,-75.287,2276

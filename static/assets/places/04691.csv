@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23997,Larke,PA,,city-us,62,40.428,-78.206,434
-23996,Lark,ND,,city-us,50,46.415,-101.362,0
-23995,Lark,WI,,city-us,0,44.314,-87.950,143
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23997,Larke,PA,Blair County,,city-us,62,40.428,-78.206,434
+23996,Lark,ND,Grant County,,city-us,50,46.415,-101.362,0
+23995,Lark,WI,Brown County,,city-us,0,44.314,-87.950,143

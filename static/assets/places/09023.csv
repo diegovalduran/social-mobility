@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45427,Waterbury,CT,,city-us,113811,41.559,-73.037,31231
-45429,Waterbury,VT,,city-us,5320,44.388,-72.740,8007
-45428,Waterbury,MN,,city-us,166,44.317,-95.297,2018
-45424,Waterbury,NE,,city-us,70,42.458,-96.735,3001
-45425,Waterbury,WI,,city-us,0,44.385,-90.598,117
-45426,Waterbury,FL,,city-us,0,27.446,-82.303,2123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45427,Waterbury,CT,Naugatuck Valley Planning Region,,city-us,113811,41.559,-73.037,31231
+45429,Waterbury,VT,Washington County,,city-us,5320,44.388,-72.740,8007
+45428,Waterbury,MN,Redwood County,,city-us,166,44.317,-95.297,2018
+45424,Waterbury,NE,Dixon County,,city-us,70,42.458,-96.735,3001
+45425,Waterbury,WI,Jackson County,,city-us,0,44.385,-90.598,117
+45426,Waterbury,FL,Manatee County,,city-us,0,27.446,-82.303,2123

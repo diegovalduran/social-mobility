@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23365,La Madera,NM,,city-us,447,35.223,-106.371,536
-23364,La Madera,NM,,city-us,378,36.377,-106.043,2580
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23365,La Madera,NM,Sandoval County,,city-us,447,35.223,-106.371,536
+23364,La Madera,NM,Rio Arriba County,,city-us,378,36.377,-106.043,2580

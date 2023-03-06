@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20746,Horsepen,WV,,city-us,0,37.620,-81.892,215
-20747,Horsepen,VA,,city-us,0,37.228,-81.520,518
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20746,Horsepen,WV,Mingo County,,city-us,0,37.620,-81.892,215
+20747,Horsepen,VA,Tazewell County,,city-us,0,37.228,-81.520,518

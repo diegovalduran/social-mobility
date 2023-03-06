@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1286,Appleby,TX,,city-us,548,31.716,-94.605,2761
-1285,Appleby,SD,,city-us,0,44.817,-97.051,294
-1287,Appleby,AR,,city-us,0,36.021,-94.246,205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1286,Appleby,TX,Nacogdoches County,,city-us,548,31.716,-94.605,2761
+1285,Appleby,SD,Codington County,,city-us,0,44.817,-97.051,294
+1287,Appleby,AR,Washington County,,city-us,0,36.021,-94.246,205

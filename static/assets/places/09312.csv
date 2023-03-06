@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46999,Williston,ND,,city-us,27332,48.147,-103.618,18395
-46995,Williston,VT,,city-us,10094,44.429,-73.096,7527
-46997,Williston,FL,,city-us,3064,29.387,-82.447,3161
-46993,Williston,SC,,city-us,2879,33.403,-81.420,3138
-46998,Williston,OH,,city-us,439,41.604,-83.340,553
-46996,Williston,TN,,city-us,346,35.158,-89.368,2064
-46994,Williston,MD,,city-us,137,38.831,-75.851,744
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46999,Williston,ND,Williams County,,city-us,27332,48.147,-103.618,18395
+46995,Williston,VT,Chittenden County,,city-us,10094,44.429,-73.096,7527
+46997,Williston,FL,Levy County,,city-us,3064,29.387,-82.447,3161
+46993,Williston,SC,Barnwell County,,city-us,2879,33.403,-81.420,3138
+46998,Williston,OH,Ottawa County,,city-us,439,41.604,-83.340,553
+46996,Williston,TN,Fayette County,,city-us,346,35.158,-89.368,2064
+46994,Williston,MD,Caroline County,,city-us,137,38.831,-75.851,744

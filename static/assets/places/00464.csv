@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2424,Barber,OK,,city-us,354,35.757,-94.868,594
-2425,Barber,MN,,city-us,238,43.721,-93.947,1857
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2424,Barber,OK,Cherokee County,,city-us,354,35.757,-94.868,594
+2425,Barber,MN,Faribault County,,city-us,238,43.721,-93.947,1857

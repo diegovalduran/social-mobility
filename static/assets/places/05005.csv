@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25733,Loretto,TN,,city-us,1762,35.078,-87.440,4842
-25729,Loretto,PA,,city-us,1144,40.503,-78.630,2967
-25730,Loretto,MI,,city-us,880,45.819,-87.778,2395
-25734,Loretto,KY,,city-us,728,37.635,-85.401,2958
-25732,Loretto,MN,,city-us,634,45.055,-93.636,3701
-25728,Loretto,NE,,city-us,110,41.765,-98.081,1067
-25731,Loretto,VA,,city-us,0,38.076,-77.051,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25733,Loretto,TN,Lawrence County,,city-us,1762,35.078,-87.440,4842
+25729,Loretto,PA,Cambria County,,city-us,1144,40.503,-78.630,2967
+25730,Loretto,MI,Dickinson County,,city-us,880,45.819,-87.778,2395
+25734,Loretto,KY,Marion County,,city-us,728,37.635,-85.401,2958
+25732,Loretto,MN,Hennepin County,,city-us,634,45.055,-93.636,3701
+25728,Loretto,NE,Boone County,,city-us,110,41.765,-98.081,1067
+25731,Loretto,VA,Essex County,,city-us,0,38.076,-77.051,212

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48078,Youngtown,AZ,,city-us,7012,33.594,-112.303,2880
-48077,Youngtown,AL,,city-us,0,34.483,-87.355,129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48078,Youngtown,AZ,Maricopa County,,city-us,7012,33.594,-112.303,2880
+48077,Youngtown,AL,Lawrence County,,city-us,0,34.483,-87.355,129

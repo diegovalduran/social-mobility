@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31654,O'Brien,OR,,city-us,470,42.069,-123.721,1929
-31653,O'Brien,TX,,city-us,92,33.380,-99.844,2107
-31652,O'Brien,MN,,city-us,46,47.783,-94.771,2574
-31651,O'Brien,WV,,city-us,0,39.052,-80.031,90
-31655,O'Brien,CA,,city-us,0,40.812,-122.324,302
-31656,O'Brien,FL,,city-us,0,30.038,-82.940,219
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31654,O'Brien,OR,Josephine County,,city-us,470,42.069,-123.721,1929
+31653,O'Brien,TX,Haskell County,,city-us,92,33.380,-99.844,2107
+31652,O'Brien,MN,Beltrami County,,city-us,46,47.783,-94.771,2574
+31651,O'Brien,WV,Barbour County,,city-us,0,39.052,-80.031,90
+31655,O'Brien,CA,Shasta County,,city-us,0,40.812,-122.324,302
+31656,O'Brien,FL,Suwannee County,,city-us,0,30.038,-82.940,219

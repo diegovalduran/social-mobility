@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10083,Cottonwood,AZ,,city-us,12440,34.739,-112.010,3375
-10081,Cottonwood,CA,,city-us,5912,40.386,-122.281,6617
-10076,Cottonwood,CA,,city-us,3381,35.347,-118.985,6617
-10077,Cottonwood,MN,,city-us,1147,44.609,-95.674,3289
-10072,Cottonwood,AL,,city-us,1046,31.049,-85.305,4084
-10070,Cottonwood,CO,,city-us,931,39.562,-104.802,1187
-10064,Cottonwood,MN,,city-us,852,44.237,-94.443,2765
-10073,Cottonwood,ID,,city-us,847,46.048,-116.350,4862
-10069,Cottonwood,IL,,city-us,480,39.340,-88.241,991
-10063,Cottonwood,AZ,,city-us,224,36.073,-109.892,333
-10075,Cottonwood,TX,,city-us,194,32.468,-96.389,2141
-10066,Cottonwood,KS,,city-us,170,38.291,-96.749,624
-10067,Cottonwood,SD,,city-us,75,45.123,-97.699,2591
-10065,Cottonwood,TX,,city-us,65,32.206,-99.204,2565
-10079,Cottonwood,NE,,city-us,63,41.336,-98.225,262
-10078,Cottonwood,ND,,city-us,41,48.430,-102.529,0
-10074,Cottonwood,SD,,city-us,11,43.967,-101.906,2591
-10068,Cottonwood,OK,,city-us,0,34.556,-96.204,209
-10071,Cottonwood,IL,,city-us,0,37.889,-88.213,139
-10080,Cottonwood,OK,,city-us,0,35.368,-94.549,486
-10082,Cottonwood,TX,,city-us,0,32.191,-97.889,955
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10083,Cottonwood,AZ,Yavapai County,,city-us,12440,34.739,-112.010,3375
+10081,Cottonwood,CA,Shasta County,,city-us,5912,40.386,-122.281,6617
+10076,Cottonwood,CA,Kern County,,city-us,3381,35.347,-118.985,6617
+10077,Cottonwood,MN,Lyon County,,city-us,1147,44.609,-95.674,3289
+10072,Cottonwood,AL,Houston County,,city-us,1046,31.049,-85.305,4084
+10070,Cottonwood,CO,Douglas County,,city-us,931,39.562,-104.802,1187
+10064,Cottonwood,MN,Brown County,,city-us,852,44.237,-94.443,2765
+10073,Cottonwood,ID,Idaho County,,city-us,847,46.048,-116.350,4862
+10069,Cottonwood,IL,Cumberland County,,city-us,480,39.340,-88.241,991
+10063,Cottonwood,AZ,Apache County,,city-us,224,36.073,-109.892,333
+10075,Cottonwood,TX,Kaufman County,,city-us,194,32.468,-96.389,2141
+10066,Cottonwood,KS,Chase County,,city-us,170,38.291,-96.749,624
+10067,Cottonwood,SD,Clark County,,city-us,75,45.123,-97.699,2591
+10065,Cottonwood,TX,Callahan County,,city-us,65,32.206,-99.204,2565
+10079,Cottonwood,NE,Nance County,,city-us,63,41.336,-98.225,262
+10078,Cottonwood,ND,Mountrail County,,city-us,41,48.430,-102.529,0
+10074,Cottonwood,SD,Jackson County,,city-us,11,43.967,-101.906,2591
+10068,Cottonwood,OK,Coal County,,city-us,0,34.556,-96.204,209
+10071,Cottonwood,IL,Gallatin County,,city-us,0,37.889,-88.213,139
+10080,Cottonwood,OK,Sequoyah County,,city-us,0,35.368,-94.549,486
+10082,Cottonwood,TX,Somervell County,,city-us,0,32.191,-97.889,955

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21527,Irby,WA,,city-us,0,47.359,-118.850,457
-21528,Irby,VA,,city-us,0,37.032,-78.043,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21527,Irby,WA,Lincoln County,,city-us,0,47.359,-118.850,457
+21528,Irby,VA,Nottoway County,,city-us,0,37.032,-78.043,82

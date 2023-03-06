@@ -1,23 +1,23 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20503,Homer,IL,,city-us,40737,41.592,-87.964,975
-20489,Homer,NY,,city-us,6255,42.662,-76.170,5072
-20494,Homer,AK,,city-us,5719,59.642,-151.548,11440
-20497,Homer,MI,,city-us,3992,43.608,-84.336,275
-20486,Homer,MI,,city-us,2872,42.117,-84.776,275
-20488,Homer,LA,,city-us,2541,32.792,-93.056,7404
-20496,Homer,OH,,city-us,1608,41.031,-82.117,115
-20484,Homer,GA,,city-us,1360,34.334,-83.499,2940
-20487,Homer,IL,,city-us,1049,40.035,-87.958,5097
-20498,Homer,OH,,city-us,979,39.507,-82.000,115
-20490,Homer,NE,,city-us,517,42.322,-96.489,3393
-20499,Homer,PA,,city-us,434,41.694,-78.017,1927
-20485,Homer,MO,,city-us,369,38.262,-94.564,1277
-20502,Homer,ND,,city-us,335,46.841,-98.618,0
-20504,Homer,MN,,city-us,136,44.021,-91.557,881
-20491,Homer,SD,,city-us,43,45.551,-97.787,0
-20483,Homer,TX,,city-us,0,31.289,-94.638,3503
-20492,Homer,WI,,city-us,0,43.085,-90.617,108
-20493,Homer,IA,,city-us,0,42.374,-93.924,1056
-20495,Homer,OH,,city-us,0,40.253,-82.519,470
-20500,Homer,IN,,city-us,0,39.578,-85.578,786
-20501,Homer,KS,,city-us,0,38.869,-98.797,1042
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20503,Homer,IL,Will County,,city-us,40737,41.592,-87.964,975
+20489,Homer,NY,Cortland County,,city-us,6255,42.662,-76.170,5072
+20494,Homer,AK,Kenai Peninsula Borough,,city-us,5719,59.642,-151.548,11440
+20497,Homer,MI,Midland County,,city-us,3992,43.608,-84.336,275
+20486,Homer,MI,Calhoun County,,city-us,2872,42.117,-84.776,275
+20488,Homer,LA,Claiborne Parish,,city-us,2541,32.792,-93.056,7404
+20496,Homer,OH,Medina County,,city-us,1608,41.031,-82.117,115
+20484,Homer,GA,Banks County,,city-us,1360,34.334,-83.499,2940
+20487,Homer,IL,Champaign County,,city-us,1049,40.035,-87.958,5097
+20498,Homer,OH,Morgan County,,city-us,979,39.507,-82.000,115
+20490,Homer,NE,Dakota County,,city-us,517,42.322,-96.489,3393
+20499,Homer,PA,Potter County,,city-us,434,41.694,-78.017,1927
+20485,Homer,MO,Bates County,,city-us,369,38.262,-94.564,1277
+20502,Homer,ND,Stutsman County,,city-us,335,46.841,-98.618,0
+20504,Homer,MN,Winona County,,city-us,136,44.021,-91.557,881
+20491,Homer,SD,Day County,,city-us,43,45.551,-97.787,0
+20483,Homer,TX,Angelina County,,city-us,0,31.289,-94.638,3503
+20492,Homer,WI,Grant County,,city-us,0,43.085,-90.617,108
+20493,Homer,IA,Hamilton County,,city-us,0,42.374,-93.924,1056
+20495,Homer,OH,Licking County,,city-us,0,40.253,-82.519,470
+20500,Homer,IN,Rush County,,city-us,0,39.578,-85.578,786
+20501,Homer,KS,Russell County,,city-us,0,38.869,-98.797,1042

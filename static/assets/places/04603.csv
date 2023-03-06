@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23575,Lake Creek,SD,,city-us,41,44.012,-102.041,137
-23572,Lake Creek,MO,,city-us,0,38.511,-93.134,266
-23573,Lake Creek,TX,,city-us,0,33.447,-95.588,240
-23574,Lake Creek,OR,,city-us,0,42.422,-122.625,2163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23575,Lake Creek,SD,Pennington County,,city-us,41,44.012,-102.041,137
+23572,Lake Creek,MO,Benton County,,city-us,0,38.511,-93.134,266
+23573,Lake Creek,TX,Delta County,,city-us,0,33.447,-95.588,240
+23574,Lake Creek,OR,Jackson County,,city-us,0,42.422,-122.625,2163

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17282,Gore,KS,,city-us,1905,37.427,-97.192,0
-17278,Gore,VA,,city-us,1655,39.264,-78.332,556
-17281,Gore,OK,,city-us,942,35.529,-95.117,4592
-17280,Gore,MI,,city-us,150,43.949,-82.714,1988
-17277,Gore,GA,,city-us,0,34.466,-85.269,311
-17279,Gore,OH,,city-us,0,39.580,-82.295,404
-17283,Gore,MO,,city-us,0,38.714,-91.323,485
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17282,Gore,KS,Sumner County,,city-us,1905,37.427,-97.192,0
+17278,Gore,VA,Frederick County,,city-us,1655,39.264,-78.332,556
+17281,Gore,OK,Sequoyah County,,city-us,942,35.529,-95.117,4592
+17280,Gore,MI,Huron County,,city-us,150,43.949,-82.714,1988
+17277,Gore,GA,Chattooga County,,city-us,0,34.466,-85.269,311
+17279,Gore,OH,Hocking County,,city-us,0,39.580,-82.295,404
+17283,Gore,MO,Warren County,,city-us,0,38.714,-91.323,485

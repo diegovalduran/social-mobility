@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17491,Grand Valley,ND,,city-us,32,46.069,-98.819,0
-17492,Grand Valley,MI,,city-us,0,42.974,-85.870,649
-17493,Grand Valley,PA,,city-us,0,41.721,-79.537,113
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17491,Grand Valley,ND,Dickey County,,city-us,32,46.069,-98.819,0
+17492,Grand Valley,MI,Ottawa County,,city-us,0,42.974,-85.870,649
+17493,Grand Valley,PA,Warren County,,city-us,0,41.721,-79.537,113

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8387,Churchtown,PA,,city-us,307,40.133,-75.965,956
-8388,Churchtown,NJ,,city-us,0,39.672,-75.510,349
-8389,Churchtown,OH,,city-us,0,39.467,-81.548,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8387,Churchtown,PA,Lancaster County,,city-us,307,40.133,-75.965,956
+8388,Churchtown,NJ,Salem County,,city-us,0,39.672,-75.510,349
+8389,Churchtown,OH,Washington County,,city-us,0,39.467,-81.548,271

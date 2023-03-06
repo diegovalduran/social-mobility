@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35520,Provo,UT,,city-us,114084,40.234,-111.659,22381
-35518,Provo,KY,,city-us,0,37.233,-86.828,121
-35519,Provo,SD,,city-us,0,43.191,-103.825,298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35520,Provo,UT,Utah County,,city-us,114084,40.234,-111.659,22381
+35518,Provo,KY,Butler County,,city-us,0,37.233,-86.828,121
+35519,Provo,SD,Fall River County,,city-us,0,43.191,-103.825,298

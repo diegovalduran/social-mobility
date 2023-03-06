@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-805,Alsace,PA,,city-us,3849,40.387,-75.857,2595
-806,Alsace,CA,,city-us,0,33.979,-118.416,2967
+id,name,state,county,country,level,population,latitude,longitude,wiki
+805,Alsace,PA,Berks County,,city-us,3849,40.387,-75.857,2595
+806,Alsace,CA,Los Angeles County,,city-us,0,33.979,-118.416,2967

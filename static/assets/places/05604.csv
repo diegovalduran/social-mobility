@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28867,Minnesota,,United States,state,5717184,46.442,-93.366,58850
-28866,Minnesota,SD,,city-us,96,45.871,-97.032,0
-28865,Minnesota,ND,,city-us,29,48.858,-102.185,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28867,Minnesota,,,United States,state,5717184,46.442,-93.366,58850
+28866,Minnesota,SD,Roberts County,,city-us,96,45.871,-97.032,0
+28865,Minnesota,ND,Burke County,,city-us,29,48.858,-102.185,0

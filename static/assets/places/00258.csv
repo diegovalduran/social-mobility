@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1326,Arbuckle,CA,,city-us,3325,39.017,-122.058,5553
-1327,Arbuckle,PA,,city-us,0,41.983,-79.864,86
-1328,Arbuckle,WV,,city-us,0,38.713,-81.948,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1326,Arbuckle,CA,Colusa County,,city-us,3325,39.017,-122.058,5553
+1327,Arbuckle,PA,Erie County,,city-us,0,41.983,-79.864,86
+1328,Arbuckle,WV,Mason County,,city-us,0,38.713,-81.948,165

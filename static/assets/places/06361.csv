@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32462,Oriskany,NY,,city-us,1325,43.157,-75.333,5633
-32461,Oriskany,VA,,city-us,0,37.616,-79.984,576
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32462,Oriskany,NY,Oneida County,,city-us,1325,43.157,-75.333,5633
+32461,Oriskany,VA,Botetourt County,,city-us,0,37.616,-79.984,576

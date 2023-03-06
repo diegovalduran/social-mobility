@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32510,Orrville,OH,,city-us,8471,40.844,-81.764,4047
-32520,Orvil,IL,,city-us,959,40.272,-89.432,345
-32508,Orrville,AL,,city-us,145,32.306,-87.246,3591
-32509,Orrville,IN,,city-us,0,38.458,-87.686,257
-32521,Orville,WV,,city-us,0,37.814,-81.892,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32510,Orrville,OH,Wayne County,,city-us,8471,40.844,-81.764,4047
+32520,Orvil,IL,Logan County,,city-us,959,40.272,-89.432,345
+32508,Orrville,AL,Dallas County,,city-us,145,32.306,-87.246,3591
+32509,Orrville,IN,Knox County,,city-us,0,38.458,-87.686,257
+32521,Orville,WV,Logan County,,city-us,0,37.814,-81.892,87

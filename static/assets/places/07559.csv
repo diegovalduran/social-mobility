@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38382,Samaria,IN,,city-us,0,39.404,-86.186,320
-38383,Samaria,MI,,city-us,0,41.808,-83.578,2136
-38384,Samaria,ID,,city-us,0,42.118,-112.337,663
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38382,Samaria,IN,Johnson County,,city-us,0,39.404,-86.186,320
+38383,Samaria,MI,Monroe County,,city-us,0,41.808,-83.578,2136
+38384,Samaria,ID,Oneida County,,city-us,0,42.118,-112.337,663

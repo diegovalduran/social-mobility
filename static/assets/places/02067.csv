@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10404,Crofte,ND,,city-us,173,47.026,-100.686,0
-10402,Croft,IL,,city-us,0,40.048,-89.588,133
-10403,Croft,KS,,city-us,0,37.503,-98.995,483
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10404,Crofte,ND,Burleigh County,,city-us,173,47.026,-100.686,0
+10402,Croft,IL,Menard County,,city-us,0,40.048,-89.588,133
+10403,Croft,KS,Pratt County,,city-us,0,37.503,-98.995,483

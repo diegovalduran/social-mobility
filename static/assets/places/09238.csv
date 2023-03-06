@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46612,White Sulphur Springs,WV,,city-us,2198,37.797,-80.298,6077
-46614,White Sulphur Springs,MT,,city-us,1052,46.548,-110.902,3865
-46613,White Sulphur Springs,GA,,city-us,0,34.333,-83.750,328
-46615,White Sulphur Springs,GA,,city-us,0,32.908,-84.803,462
-46616,White Sulphur Springs,IN,,city-us,0,38.386,-87.092,405
-46617,White Sulphur Springs,NC,,city-us,0,36.540,-80.575,401
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46612,White Sulphur Springs,WV,Greenbrier County,,city-us,2198,37.797,-80.298,6077
+46614,White Sulphur Springs,MT,Meagher County,,city-us,1052,46.548,-110.902,3865
+46613,White Sulphur Springs,GA,Hall County,,city-us,0,34.333,-83.750,328
+46615,White Sulphur Springs,GA,Meriwether County,,city-us,0,32.908,-84.803,462
+46616,White Sulphur Springs,IN,Pike County,,city-us,0,38.386,-87.092,405
+46617,White Sulphur Springs,NC,Surry County,,city-us,0,36.540,-80.575,401

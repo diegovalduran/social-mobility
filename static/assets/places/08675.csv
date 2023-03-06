@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43469,Tunnel Hill,GA,,city-us,964,34.841,-85.043,4086
-43467,Tunnel Hill,OH,,city-us,0,40.255,-82.049,465
-43468,Tunnel Hill,IL,,city-us,0,37.524,-88.839,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43469,Tunnel Hill,GA,Whitfield County,,city-us,964,34.841,-85.043,4086
+43467,Tunnel Hill,OH,Coshocton County,,city-us,0,40.255,-82.049,465
+43468,Tunnel Hill,IL,Johnson County,,city-us,0,37.524,-88.839,271

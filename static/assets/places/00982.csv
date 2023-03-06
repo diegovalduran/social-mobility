@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4926,Boylston,MA,,city-us,4882,42.355,-71.716,4848
-4925,Boylston,NY,,city-us,511,43.658,-75.953,2753
-4923,Boylston,WI,,city-us,0,46.597,-92.129,252
-4924,Boylston,AL,,city-us,0,32.428,-86.279,371
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4926,Boylston,MA,Worcester County,,city-us,4882,42.355,-71.716,4848
+4925,Boylston,NY,Oswego County,,city-us,511,43.658,-75.953,2753
+4923,Boylston,WI,Douglas County,,city-us,0,46.597,-92.129,252
+4924,Boylston,AL,Montgomery County,,city-us,0,32.428,-86.279,371

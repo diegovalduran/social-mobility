@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36126,Red Sulphur Springs,TN,,city-us,0,35.007,-88.237,284
-36127,Red Sulphur Springs,WV,,city-us,0,37.514,-80.765,821
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36126,Red Sulphur Springs,TN,Hardin County,,city-us,0,35.007,-88.237,284
+36127,Red Sulphur Springs,WV,Monroe County,,city-us,0,37.514,-80.765,821

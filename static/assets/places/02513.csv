@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12544,Dwyer,NM,,city-us,0,32.628,-107.867,662
-12545,Dwyer,WY,,city-us,0,42.242,-104.956,80
-12546,Dwyer,MS,,city-us,0,33.564,-90.529,211
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12544,Dwyer,NM,Grant County,,city-us,0,32.628,-107.867,662
+12545,Dwyer,WY,Platte County,,city-us,0,42.242,-104.956,80
+12546,Dwyer,MS,Sunflower County,,city-us,0,33.564,-90.529,211

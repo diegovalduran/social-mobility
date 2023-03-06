@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21601,Irwin,PA,,city-us,3862,40.325,-79.701,3143
-21595,Irwin,SC,,city-us,1276,34.694,-80.822,2473
-21600,Irwin,PA,,city-us,1229,41.226,-79.951,1942
-21597,Irwin,IA,,city-us,318,41.792,-95.206,3364
-21593,Irwin,ID,,city-us,273,43.409,-111.299,2943
-21594,Irwin,IL,,city-us,66,41.052,-87.984,1977
-21592,Irwin,MO,,city-us,47,37.589,-94.286,587
-21598,Irwin,SD,,city-us,20,43.300,-99.561,0
-21596,Irwin,CA,,city-us,0,37.397,-120.850,418
-21599,Irwin,OH,,city-us,0,40.123,-83.489,534
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21601,Irwin,PA,Westmoreland County,,city-us,3862,40.325,-79.701,3143
+21595,Irwin,SC,Lancaster County,,city-us,1276,34.694,-80.822,2473
+21600,Irwin,PA,Venango County,,city-us,1229,41.226,-79.951,1942
+21597,Irwin,IA,Shelby County,,city-us,318,41.792,-95.206,3364
+21593,Irwin,ID,Bonneville County,,city-us,273,43.409,-111.299,2943
+21594,Irwin,IL,Kankakee County,,city-us,66,41.052,-87.984,1977
+21592,Irwin,MO,Barton County,,city-us,47,37.589,-94.286,587
+21598,Irwin,SD,Tripp County,,city-us,20,43.300,-99.561,0
+21596,Irwin,CA,Merced County,,city-us,0,37.397,-120.850,418
+21599,Irwin,OH,Union County,,city-us,0,40.123,-83.489,534

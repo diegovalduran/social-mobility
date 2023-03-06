@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18153,Grellton,WI,,city-us,0,43.135,-88.788,193
-18154,Grelton,OH,,city-us,0,41.342,-84.000,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18153,Grellton,WI,Jefferson County,,city-us,0,43.135,-88.788,193
+18154,Grelton,OH,Henry County,,city-us,0,41.342,-84.000,251

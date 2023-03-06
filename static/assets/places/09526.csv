@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48151,Zion,IL,,city-us,24494,42.446,-87.833,7191
-48159,Zion,WI,,city-us,3517,43.997,-88.662,1995
-48149,Zion,PA,,city-us,2403,40.914,-77.685,2433
-48156,Zion,MN,,city-us,306,45.449,-94.692,1937
-48153,Zion,SC,,city-us,96,34.260,-79.318,637
-48147,Zion,OK,,city-us,39,35.783,-94.635,1719
-48157,Zion,ND,,city-us,33,48.494,-99.418,0
-48146,Zion,IA,,city-us,0,41.201,-94.299,750
-48148,Zion,MD,,city-us,0,39.676,-75.965,167
-48150,Zion,AR,,city-us,0,36.080,-91.770,79
-48152,Zion,MO,,city-us,0,37.422,-90.310,439
-48154,Zion,AL,,city-us,0,33.421,-87.877,150
-48155,Zion,NJ,,city-us,0,40.441,-74.739,303
-48158,Zion,WV,,city-us,0,38.773,-80.264,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48151,Zion,IL,Lake County,,city-us,24494,42.446,-87.833,7191
+48159,Zion,WI,Winnebago County,,city-us,3517,43.997,-88.662,1995
+48149,Zion,PA,Centre County,,city-us,2403,40.914,-77.685,2433
+48156,Zion,MN,Stearns County,,city-us,306,45.449,-94.692,1937
+48153,Zion,SC,Marion County,,city-us,96,34.260,-79.318,637
+48147,Zion,OK,Adair County,,city-us,39,35.783,-94.635,1719
+48157,Zion,ND,Towner County,,city-us,33,48.494,-99.418,0
+48146,Zion,IA,Adair County,,city-us,0,41.201,-94.299,750
+48148,Zion,MD,Cecil County,,city-us,0,39.676,-75.965,167
+48150,Zion,AR,Izard County,,city-us,0,36.080,-91.770,79
+48152,Zion,MO,Madison County,,city-us,0,37.422,-90.310,439
+48154,Zion,AL,Pickens County,,city-us,0,33.421,-87.877,150
+48155,Zion,NJ,Somerset County,,city-us,0,40.441,-74.739,303
+48158,Zion,WV,Upshur County,,city-us,0,38.773,-80.264,85

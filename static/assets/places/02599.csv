@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12857,Echo,MI,,city-us,971,45.085,-85.156,1937
-12863,Echo,OR,,city-us,637,45.742,-119.196,4500
-12861,Echo,LA,,city-us,352,31.110,-92.242,588
-12865,Echo,MN,,city-us,235,44.617,-95.418,2975
-12862,Echo,UT,,city-us,52,40.978,-111.443,2402
-12858,Echo,PA,,city-us,0,40.850,-79.327,268
-12859,Echo,AL,,city-us,0,31.476,-85.466,685
-12860,Echo,KY,,city-us,0,37.028,-85.748,254
-12864,Echo,WV,,city-us,0,38.178,-82.482,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12857,Echo,MI,Antrim County,,city-us,971,45.085,-85.156,1937
+12863,Echo,OR,Umatilla County,,city-us,637,45.742,-119.196,4500
+12861,Echo,LA,Rapides Parish,,city-us,352,31.110,-92.242,588
+12865,Echo,MN,Yellow Medicine County,,city-us,235,44.617,-95.418,2975
+12862,Echo,UT,Summit County,,city-us,52,40.978,-111.443,2402
+12858,Echo,PA,Armstrong County,,city-us,0,40.850,-79.327,268
+12859,Echo,AL,Dale County,,city-us,0,31.476,-85.466,685
+12860,Echo,KY,Metcalfe County,,city-us,0,37.028,-85.748,254
+12864,Echo,WV,Wayne County,,city-us,0,38.178,-82.482,92

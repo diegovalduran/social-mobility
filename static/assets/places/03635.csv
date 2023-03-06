@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18430,Hainesville,IL,,city-us,3528,42.345,-88.068,6614
-19407,Haynesville,LA,,city-us,1905,32.962,-93.140,5204
-19406,Haynesville,ME,,city-us,103,45.783,-67.993,2908
-19410,Haynesville,TX,,city-us,60,34.091,-98.916,734
-18428,Hainesville,WV,,city-us,0,39.526,-77.919,135
-18429,Hainesville,WV,,city-us,0,39.358,-78.567,344
-18431,Hainesville,NJ,,city-us,0,41.252,-74.803,1473
-18432,Hainesville,TX,,city-us,0,32.718,-95.364,933
-19408,Haynesville,MO,,city-us,0,39.461,-94.316,538
-19409,Haynesville,VA,,city-us,0,37.950,-76.662,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18430,Hainesville,IL,Lake County,,city-us,3528,42.345,-88.068,6614
+19407,Haynesville,LA,Claiborne Parish,,city-us,1905,32.962,-93.140,5204
+19406,Haynesville,ME,Aroostook County,,city-us,103,45.783,-67.993,2908
+19410,Haynesville,TX,Wichita County,,city-us,60,34.091,-98.916,734
+18428,Hainesville,WV,Berkeley County,,city-us,0,39.526,-77.919,135
+18429,Hainesville,WV,Hampshire County,,city-us,0,39.358,-78.567,344
+18431,Hainesville,NJ,Sussex County,,city-us,0,41.252,-74.803,1473
+18432,Hainesville,TX,Wood County,,city-us,0,32.718,-95.364,933
+19408,Haynesville,MO,Clinton County,,city-us,0,39.461,-94.316,538
+19409,Haynesville,VA,Richmond County,,city-us,0,37.950,-76.662,146

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26293,Macy,NE,,city-us,915,42.113,-96.356,2618
-26292,Macy,IN,,city-us,202,40.959,-86.127,3524
-26291,Macy,IA,,city-us,0,42.539,-93.148,541
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26293,Macy,NE,Thurston County,,city-us,915,42.113,-96.356,2618
+26292,Macy,IN,Miami County,,city-us,202,40.959,-86.127,3524
+26291,Macy,IA,Hardin County,,city-us,0,42.539,-93.148,541

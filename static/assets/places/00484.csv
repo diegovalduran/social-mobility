@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2507,Barnum,MN,,city-us,620,46.503,-92.689,3448
-2512,Barnum,IA,,city-us,178,42.509,-94.365,3200
-2508,Barnum,WI,,city-us,0,43.219,-90.840,355
-2509,Barnum,WY,,city-us,0,43.664,-106.909,1020
-2510,Barnum,WV,,city-us,0,39.442,-79.114,648
-2511,Barnum,TX,,city-us,0,30.945,-94.673,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2507,Barnum,MN,Carlton County,,city-us,620,46.503,-92.689,3448
+2512,Barnum,IA,Webster County,,city-us,178,42.509,-94.365,3200
+2508,Barnum,WI,Crawford County,,city-us,0,43.219,-90.840,355
+2509,Barnum,WY,Johnson County,,city-us,0,43.664,-106.909,1020
+2510,Barnum,WV,Mineral County,,city-us,0,39.442,-79.114,648
+2511,Barnum,TX,Polk County,,city-us,0,30.945,-94.673,329

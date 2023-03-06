@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42137,Sunset Village,GA,,city-us,776,32.898,-84.404,1923
-42136,Sunset Village,IN,,city-us,0,38.457,-85.534,158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42137,Sunset Village,GA,Upson County,,city-us,776,32.898,-84.404,1923
+42136,Sunset Village,IN,Clark County,,city-us,0,38.457,-85.534,158

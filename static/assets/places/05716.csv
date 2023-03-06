@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29431,Moraine,IL,,city-us,34228,42.186,-87.806,930
-29432,Moraine,OH,,city-us,6464,39.706,-84.219,8459
-29430,Moraine,ND,,city-us,66,47.892,-97.827,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29431,Moraine,IL,Lake County,,city-us,34228,42.186,-87.806,930
+29432,Moraine,OH,Montgomery County,,city-us,6464,39.706,-84.219,8459
+29430,Moraine,ND,Grand Forks County,,city-us,66,47.892,-97.827,0

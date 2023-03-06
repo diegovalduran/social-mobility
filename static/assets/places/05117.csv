@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27576,McKenzie,TN,,city-us,5456,36.137,-88.507,2943
-27575,McKenzie,AL,,city-us,503,31.546,-86.726,2254
-26255,Mackenzie,MO,,city-us,134,38.580,-90.317,3027
-27574,McKenzie,ND,,city-us,83,46.822,-100.415,360
-27573,McKenzie,MD,,city-us,0,39.567,-78.829,745
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27576,McKenzie,TN,Carroll County / Henry County / Weakley County,,city-us,5456,36.137,-88.507,2943
+27575,McKenzie,AL,Butler County / Conecuh County,,city-us,503,31.546,-86.726,2254
+26255,Mackenzie,MO,St. Louis County,,city-us,134,38.580,-90.317,3027
+27574,McKenzie,ND,Burleigh County,,city-us,83,46.822,-100.415,360
+27573,McKenzie,MD,Allegany County,,city-us,0,39.567,-78.829,745

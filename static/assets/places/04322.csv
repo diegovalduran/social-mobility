@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22371,Josephine,TX,,city-us,4565,33.063,-96.317,2670
-22369,Josephine,AL,,city-us,0,30.327,-87.531,946
-22370,Josephine,ND,,city-us,0,47.940,-99.314,743
-22372,Josephine,PA,,city-us,0,40.477,-79.181,185
-22373,Josephine,WV,,city-us,0,37.620,-81.224,187
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22371,Josephine,TX,Collin County / Hunt County,,city-us,4565,33.063,-96.317,2670
+22369,Josephine,AL,Baldwin County,,city-us,0,30.327,-87.531,946
+22370,Josephine,ND,Benson County,,city-us,0,47.940,-99.314,743
+22372,Josephine,PA,Indiana County,,city-us,0,40.477,-79.181,185
+22373,Josephine,WV,Raleigh County,,city-us,0,37.620,-81.224,187

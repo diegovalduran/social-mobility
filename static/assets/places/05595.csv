@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28834,Minersville,PA,,city-us,4393,40.691,-76.262,6509
-28832,Minersville,UT,,city-us,886,38.214,-112.924,2797
-28831,Minersville,WI,,city-us,0,46.407,-90.797,118
-28833,Minersville,OH,,city-us,0,39.023,-81.994,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28834,Minersville,PA,Schuylkill County,,city-us,4393,40.691,-76.262,6509
+28832,Minersville,UT,Beaver County,,city-us,886,38.214,-112.924,2797
+28831,Minersville,WI,Ashland County,,city-us,0,46.407,-90.797,118
+28833,Minersville,OH,Meigs County,,city-us,0,39.023,-81.994,106

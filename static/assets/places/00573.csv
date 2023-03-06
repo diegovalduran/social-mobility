@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2885,Beartown,PA,,city-us,0,40.111,-75.978,205
-2886,Beartown,WV,,city-us,0,37.386,-81.811,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2885,Beartown,PA,Lancaster County,,city-us,0,40.111,-75.978,205
+2886,Beartown,WV,McDowell County,,city-us,0,37.386,-81.811,165

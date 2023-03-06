@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8522,Clarkdale,AZ,,city-us,4635,34.771,-112.058,8962
-8521,Clarkdale,GA,,city-us,0,33.831,-84.650,1698
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8522,Clarkdale,AZ,Yavapai County,,city-us,4635,34.771,-112.058,8962
+8521,Clarkdale,GA,Cobb County,,city-us,0,33.831,-84.650,1698

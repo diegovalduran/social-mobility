@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19854,Hickory Corners,MI,,city-us,313,42.441,-85.376,1471
-19855,Hickory Corners,TN,,city-us,0,35.343,-88.703,715
-19856,Hickory Corners,OH,,city-us,0,40.973,-80.856,288
-19857,Hickory Corners,WI,,city-us,0,45.005,-88.254,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19854,Hickory Corners,MI,Barry County,,city-us,313,42.441,-85.376,1471
+19855,Hickory Corners,TN,Chester County,,city-us,0,35.343,-88.703,715
+19856,Hickory Corners,OH,Mahoning County,,city-us,0,40.973,-80.856,288
+19857,Hickory Corners,WI,Oconto County,,city-us,0,45.005,-88.254,146

@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9005,Clover,SC,,city-us,6949,35.111,-81.226,5207
-9002,Clover,WI,,city-us,2241,44.038,-87.702,2977
-8998,Clover,IL,,city-us,840,41.194,-90.266,1136
-8997,Clover,VA,,city-us,596,36.833,-78.733,1548
-9000,Clover,PA,,city-us,424,41.136,-79.173,2232
-9003,Clover,MN,,city-us,371,46.032,-92.610,297
-8993,Clover,WI,,city-us,261,46.781,-91.215,1992
-9001,Clover,MN,,city-us,135,47.363,-95.590,297
-8999,Clover,MN,,city-us,129,47.099,-95.071,297
-8995,Clover,MN,,city-us,88,47.772,-95.280,297
-8994,Clover,WV,,city-us,0,38.583,-82.228,182
-8996,Clover,OH,,city-us,0,38.999,-84.043,288
-9004,Clover,WV,,city-us,0,38.723,-81.289,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9005,Clover,SC,York County,,city-us,6949,35.111,-81.226,5207
+9002,Clover,WI,Manitowoc County,,city-us,2241,44.038,-87.702,2977
+8998,Clover,IL,Henry County,,city-us,840,41.194,-90.266,1136
+8997,Clover,VA,Halifax County,,city-us,596,36.833,-78.733,1548
+9000,Clover,PA,Jefferson County,,city-us,424,41.136,-79.173,2232
+9003,Clover,MN,Pine County,,city-us,371,46.032,-92.610,297
+8993,Clover,WI,Bayfield County,,city-us,261,46.781,-91.215,1992
+9001,Clover,MN,Mahnomen County,,city-us,135,47.363,-95.590,297
+8999,Clover,MN,Hubbard County,,city-us,129,47.099,-95.071,297
+8995,Clover,MN,Clearwater County,,city-us,88,47.772,-95.280,297
+8994,Clover,WV,Cabell County,,city-us,0,38.583,-82.228,182
+8996,Clover,OH,Clermont County,,city-us,0,38.999,-84.043,288
+9004,Clover,WV,Roane County,,city-us,0,38.723,-81.289,215

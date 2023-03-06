@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36444,Rich Creek,VA,,city-us,726,37.382,-80.823,2287
-36445,Rich Creek,TN,,city-us,0,35.567,-86.700,283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36444,Rich Creek,VA,Giles County,,city-us,726,37.382,-80.823,2287
+36445,Rich Creek,TN,Marshall County,,city-us,0,35.567,-86.700,283

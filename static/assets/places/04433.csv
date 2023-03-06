@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35634,Quay,OK,,city-us,39,36.160,-96.711,2614
-35635,Quay,OK,,city-us,11,36.161,-96.708,2614
-22838,Key,OH,,city-us,0,39.975,-80.870,293
-22839,Key,AL,,city-us,0,34.102,-85.534,242
-22840,Key,WV,,city-us,0,38.771,-79.396,87
-35636,Quay,NM,,city-us,0,34.934,-103.761,1034
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35634,Quay,OK,Pawnee County,,city-us,39,36.160,-96.711,2614
+35635,Quay,OK,Pawnee County / Payne County,,city-us,11,36.161,-96.708,2614
+22838,Key,OH,Belmont County,,city-us,0,39.975,-80.870,293
+22839,Key,AL,Cherokee County,,city-us,0,34.102,-85.534,242
+22840,Key,WV,Pendleton County,,city-us,0,38.771,-79.396,87
+35636,Quay,NM,Quay County,,city-us,0,34.934,-103.761,1034

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35691,Quitman,GA,,city-us,4101,30.785,-83.560,4249
-35696,Quitman,TX,,city-us,1991,32.796,-95.451,5635
-35692,Quitman,MS,,city-us,1964,32.040,-88.728,4678
-35693,Quitman,AR,,city-us,690,35.382,-92.215,2301
-35694,Quitman,LA,,city-us,155,32.349,-92.722,2893
-35695,Quitman,MO,,city-us,42,40.373,-95.077,3808
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35691,Quitman,GA,Brooks County,,city-us,4101,30.785,-83.560,4249
+35696,Quitman,TX,Wood County,,city-us,1991,32.796,-95.451,5635
+35692,Quitman,MS,Clarke County,,city-us,1964,32.040,-88.728,4678
+35693,Quitman,AR,Cleburne County / Faulkner County,,city-us,690,35.382,-92.215,2301
+35694,Quitman,LA,Jackson Parish,,city-us,155,32.349,-92.722,2893
+35695,Quitman,MO,Nodaway County,,city-us,42,40.373,-95.077,3808

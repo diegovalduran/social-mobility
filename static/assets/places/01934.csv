@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9842,Corcoran,CA,,city-us,22535,36.098,-119.560,9912
-9841,Corcoran,MN,,city-us,6770,45.095,-93.547,3888
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9842,Corcoran,CA,Kings County,,city-us,22535,36.098,-119.560,9912
+9841,Corcoran,MN,Hennepin County,,city-us,6770,45.095,-93.547,3888

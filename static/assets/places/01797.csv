@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9198,Coin,IA,,city-us,174,40.654,-95.230,3447
-9195,Coin,AR,,city-us,0,36.330,-93.348,263
-9196,Coin,NV,,city-us,0,40.883,-115.716,133
-9197,Coin,MN,,city-us,0,45.735,-93.307,869
-9199,Coin,KY,,city-us,0,37.175,-84.510,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9198,Coin,IA,Page County,,city-us,174,40.654,-95.230,3447
+9195,Coin,AR,Carroll County,,city-us,0,36.330,-93.348,263
+9196,Coin,NV,Elko County,,city-us,0,40.883,-115.716,133
+9197,Coin,MN,Kanabec County,,city-us,0,45.735,-93.307,869
+9199,Coin,KY,Pulaski County,,city-us,0,37.175,-84.510,127

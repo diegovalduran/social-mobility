@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3212,Belle Center,OH,,city-us,804,40.507,-83.748,6234
-3185,Bell Center,WI,,city-us,110,43.292,-90.827,3070
-3186,Bell Center,IN,,city-us,0,40.869,-86.639,158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3212,Belle Center,OH,Logan County,,city-us,804,40.507,-83.748,6234
+3185,Bell Center,WI,Crawford County,,city-us,110,43.292,-90.827,3070
+3186,Bell Center,IN,White County,,city-us,0,40.869,-86.639,158

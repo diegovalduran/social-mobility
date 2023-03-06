@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4697,Bondville,IL,,city-us,380,40.113,-88.370,2133
-4696,Bondville,VT,,city-us,0,43.145,-72.876,396
-4698,Bondville,KY,,city-us,0,37.922,-84.872,150
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4697,Bondville,IL,Champaign County,,city-us,380,40.113,-88.370,2133
+4696,Bondville,VT,Bennington County,,city-us,0,43.145,-72.876,396
+4698,Bondville,KY,Mercer County,,city-us,0,37.922,-84.872,150

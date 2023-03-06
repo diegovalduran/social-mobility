@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36278,Relief,NC,,city-us,0,36.034,-82.293,663
-36279,Relief,KY,,city-us,0,37.945,-82.995,414
-36280,Relief,CA,,city-us,0,39.361,-120.861,5177
-36281,Relief,OH,,city-us,0,39.589,-81.688,276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36278,Relief,NC,Mitchell County,,city-us,0,36.034,-82.293,663
+36279,Relief,KY,Morgan County,,city-us,0,37.945,-82.995,414
+36280,Relief,CA,Nevada County,,city-us,0,39.361,-120.861,5177
+36281,Relief,OH,Washington County,,city-us,0,39.589,-81.688,276

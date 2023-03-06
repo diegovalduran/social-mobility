@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13402,Ellington,CT,,city-us,16630,41.914,-72.446,9352
-13405,Ellington,WI,,city-us,3237,44.373,-88.551,2162
-13401,Ellington,IL,,city-us,2773,39.994,-91.314,2798
-13403,Ellington,NY,,city-us,1500,42.218,-79.116,4676
-13407,Ellington,MI,,city-us,1332,43.543,-83.302,2193
-13406,Ellington,MO,,city-us,808,37.242,-90.969,4286
-13404,Ellington,MN,,city-us,212,44.142,-92.981,1895
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13402,Ellington,CT,Capitol Planning Region,,city-us,16630,41.914,-72.446,9352
+13405,Ellington,WI,Outagamie County,,city-us,3237,44.373,-88.551,2162
+13401,Ellington,IL,Adams County,,city-us,2773,39.994,-91.314,2798
+13403,Ellington,NY,Chautauqua County,,city-us,1500,42.218,-79.116,4676
+13407,Ellington,MI,Tuscola County,,city-us,1332,43.543,-83.302,2193
+13406,Ellington,MO,Reynolds County,,city-us,808,37.242,-90.969,4286
+13404,Ellington,MN,Dodge County,,city-us,212,44.142,-92.981,1895

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32119,Ola,AR,,city-us,930,35.032,-93.223,3154
-32115,Ola,SD,,city-us,104,43.637,-99.232,281
-32033,Oella,MD,,city-us,0,39.269,-76.783,113
-32116,Ola,ID,,city-us,0,44.178,-116.293,2279
-32117,Ola,GA,,city-us,0,33.435,-84.042,774
-32118,Ola,TX,,city-us,0,32.575,-96.176,891
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32119,Ola,AR,Yell County,,city-us,930,35.032,-93.223,3154
+32115,Ola,SD,Brule County,,city-us,104,43.637,-99.232,281
+32033,Oella,MD,Baltimore County,,city-us,0,39.269,-76.783,113
+32116,Ola,ID,Gem County,,city-us,0,44.178,-116.293,2279
+32117,Ola,GA,Henry County,,city-us,0,33.435,-84.042,774
+32118,Ola,TX,Kaufman County,,city-us,0,32.575,-96.176,891

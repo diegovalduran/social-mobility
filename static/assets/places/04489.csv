@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23106,Kirkland,WA,,city-us,92107,47.681,-122.209,20605
-23108,Kirkland,NY,,city-us,10111,43.037,-75.385,3431
-23105,Kirkland,IL,,city-us,1637,42.093,-88.851,2127
-23110,Kirkland,AZ,,city-us,1637,34.417,-112.712,937
-23104,Kirkland,GA,,city-us,0,31.308,-82.908,251
-23107,Kirkland,TN,,city-us,0,35.062,-86.629,167
-23109,Kirkland,TN,,city-us,0,35.807,-86.663,161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23106,Kirkland,WA,King County,,city-us,92107,47.681,-122.209,20605
+23108,Kirkland,NY,Oneida County,,city-us,10111,43.037,-75.385,3431
+23105,Kirkland,IL,DeKalb County,,city-us,1637,42.093,-88.851,2127
+23110,Kirkland,AZ,Yavapai County,,city-us,1637,34.417,-112.712,937
+23104,Kirkland,GA,Atkinson County,,city-us,0,31.308,-82.908,251
+23107,Kirkland,TN,Lincoln County,,city-us,0,35.062,-86.629,167
+23109,Kirkland,TN,Williamson County,,city-us,0,35.807,-86.663,161

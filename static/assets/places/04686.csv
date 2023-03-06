@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23983,Laporte,MI,,city-us,3018,43.525,-84.232,2659
-23982,Laporte,CO,,city-us,2201,40.626,-105.138,5367
-23984,Laporte,PA,,city-us,407,41.414,-76.454,2016
-23981,Laporte,MN,,city-us,139,47.214,-94.754,3540
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23983,Laporte,MI,Midland County,,city-us,3018,43.525,-84.232,2659
+23982,Laporte,CO,Larimer County,,city-us,2201,40.626,-105.138,5367
+23984,Laporte,PA,Sullivan County,,city-us,407,41.414,-76.454,2016
+23981,Laporte,MN,Hubbard County,,city-us,139,47.214,-94.754,3540

@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28092,Mexico,,,country,129875529,23.635,-102.553,128737
-28091,Mexico,,Philippines,city-international,173403,15.067,120.717,128737
-28081,Mexico,MO,,city-us,11523,39.170,-91.883,8248
-28088,Mexico,NY,,city-us,5274,43.455,-76.205,6583
-28089,Mexico,ME,,city-us,2771,44.553,-70.495,5877
-28086,Mexico,IN,,city-us,1244,40.822,-86.116,2405
-28085,Mexico,PA,,city-us,447,40.538,-77.353,2563
-28080,Mexico,MD,,city-us,0,39.604,-78.743,130
-28082,Mexico,MD,,city-us,0,39.601,-76.944,128
-28083,Mexico,KY,,city-us,0,37.225,-88.097,117
-28084,Mexico,TX,,city-us,0,33.197,-96.153,105
-28087,Mexico,PA,,city-us,0,41.021,-76.748,485
-28090,Mexico,OH,,city-us,0,40.986,-83.193,546
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28092,Mexico,,,,country,129875529,23.635,-102.553,128737
+28091,Mexico,,,Philippines,city-international,173403,15.067,120.717,128737
+28081,Mexico,MO,Audrain County,,city-us,11523,39.170,-91.883,8248
+28088,Mexico,NY,Oswego County,,city-us,5274,43.455,-76.205,6583
+28089,Mexico,ME,Oxford County,,city-us,2771,44.553,-70.495,5877
+28086,Mexico,IN,Miami County,,city-us,1244,40.822,-86.116,2405
+28085,Mexico,PA,Juniata County,,city-us,447,40.538,-77.353,2563
+28080,Mexico,MD,Allegany County,,city-us,0,39.604,-78.743,130
+28082,Mexico,MD,Carroll County,,city-us,0,39.601,-76.944,128
+28083,Mexico,KY,Crittenden County,,city-us,0,37.225,-88.097,117
+28084,Mexico,TX,Hunt County,,city-us,0,33.197,-96.153,105
+28087,Mexico,PA,Montour County,,city-us,0,41.021,-76.748,485
+28090,Mexico,OH,Wyandot County,,city-us,0,40.986,-83.193,546

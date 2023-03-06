@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33726,Perryton,TX,,city-us,8289,36.400,-100.803,3715
-33725,Perryton,IL,,city-us,453,41.288,-90.718,337
-33724,Perryton,OH,,city-us,0,40.144,-82.201,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33726,Perryton,TX,Ochiltree County,,city-us,8289,36.400,-100.803,3715
+33725,Perryton,IL,Mercer County,,city-us,453,41.288,-90.718,337
+33724,Perryton,OH,Licking County,,city-us,0,40.144,-82.201,263

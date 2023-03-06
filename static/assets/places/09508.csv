@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48089,Yukon,OK,,city-us,24623,35.507,-97.763,8393
-48093,Yukon,PA,,city-us,481,40.213,-79.683,423
-48090,Yukon,GA,,city-us,0,34.627,-84.468,255
-48091,Yukon,WV,,city-us,0,37.319,-81.696,397
-48092,Yukon,MO,,city-us,0,37.273,-91.848,356
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48089,Yukon,OK,Canadian County,,city-us,24623,35.507,-97.763,8393
+48093,Yukon,PA,Westmoreland County,,city-us,481,40.213,-79.683,423
+48090,Yukon,GA,Gilmer County,,city-us,0,34.627,-84.468,255
+48091,Yukon,WV,McDowell County,,city-us,0,37.319,-81.696,397
+48092,Yukon,MO,Texas County,,city-us,0,37.273,-91.848,356

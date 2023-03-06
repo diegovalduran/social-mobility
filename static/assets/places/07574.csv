@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38436,San Juan,,Argentina,city-international,471389,-31.538,-68.536,12631
-38439,San Juan,,Puerto Rico,city-international,323279,18.404,-66.064,63768
-38437,San Juan,,Dominican Republic,city-international,132177,18.810,-71.230,4544
-38438,San Juan,,Philippines,city-international,114068,13.826,121.396,4955
-38434,San Juan,TX,,city-us,35577,26.189,-98.155,4035
-38435,San Juan,TX,,city-us,69,26.415,-98.944,437
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38436,San Juan,,,Argentina,city-international,471389,-31.538,-68.536,12631
+38439,San Juan,,,Puerto Rico,city-international,323279,18.404,-66.064,63768
+38437,San Juan,,,Dominican Republic,city-international,132177,18.810,-71.230,4544
+38438,San Juan,,,Philippines,city-international,114068,13.826,121.396,4955
+38434,San Juan,TX,Hidalgo County,,city-us,35577,26.189,-98.155,4035
+38435,San Juan,TX,Starr County,,city-us,69,26.415,-98.944,437

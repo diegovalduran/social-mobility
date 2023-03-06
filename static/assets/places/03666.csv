@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18653,Hampden,PA,,city-us,33660,40.260,-76.981,4015
-18659,Hampden,ME,,city-us,7772,44.733,-68.883,6838
-18655,Hampden,MA,,city-us,4935,42.071,-72.418,10742
-18652,Hampden,WI,,city-us,586,43.332,-89.177,1932
-18651,Hampden,KS,,city-us,144,38.193,-95.680,620
-18656,Hampden,MN,,city-us,33,48.848,-96.995,1663
-18660,Hampden,ND,,city-us,29,48.540,-98.654,2776
-18654,Hampden,OH,,city-us,0,41.604,-81.146,244
-18657,Hampden,AL,,city-us,0,32.082,-87.629,401
-18658,Hampden,WV,,city-us,0,37.639,-81.949,238
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18653,Hampden,PA,Cumberland County,,city-us,33660,40.260,-76.981,4015
+18659,Hampden,ME,Penobscot County,,city-us,7772,44.733,-68.883,6838
+18655,Hampden,MA,Hampden County,,city-us,4935,42.071,-72.418,10742
+18652,Hampden,WI,Columbia County,,city-us,586,43.332,-89.177,1932
+18651,Hampden,KS,Coffey County,,city-us,144,38.193,-95.680,620
+18656,Hampden,MN,Kittson County,,city-us,33,48.848,-96.995,1663
+18660,Hampden,ND,Ramsey County,,city-us,29,48.540,-98.654,2776
+18654,Hampden,OH,Geauga County,,city-us,0,41.604,-81.146,244
+18657,Hampden,AL,Marengo County,,city-us,0,32.082,-87.629,401
+18658,Hampden,WV,Mingo County,,city-us,0,37.639,-81.949,238

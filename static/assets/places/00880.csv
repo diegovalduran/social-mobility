@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4488,Blue Diamond,NV,,city-us,299,36.046,-115.404,3253
-4489,Blue Diamond,KY,,city-us,0,37.308,-83.216,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4488,Blue Diamond,NV,Clark County,,city-us,299,36.046,-115.404,3253
+4489,Blue Diamond,KY,Perry County,,city-us,0,37.308,-83.216,95

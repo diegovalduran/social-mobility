@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35055,Portersville,PA,,city-us,227,40.923,-80.142,3369
-35056,Portersville,IN,,city-us,0,38.499,-86.978,467
-35057,Portersville,WV,,city-us,0,38.335,-82.131,279
-35058,Portersville,OH,,city-us,0,39.675,-82.031,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35055,Portersville,PA,Butler County,,city-us,227,40.923,-80.142,3369
+35056,Portersville,IN,Dubois County,,city-us,0,38.499,-86.978,467
+35057,Portersville,WV,Lincoln County,,city-us,0,38.335,-82.131,279
+35058,Portersville,OH,Perry County,,city-us,0,39.675,-82.031,329

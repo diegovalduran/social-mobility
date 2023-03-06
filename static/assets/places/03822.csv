@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19575,Helena,MT,,city-us,33120,46.593,-112.036,21929
-19574,Helena,AL,,city-us,21560,33.283,-86.879,16093
-19580,Helena,MN,,city-us,1810,44.588,-93.595,1957
-19571,Helena,MI,,city-us,1470,43.822,-82.673,2137
-19567,Helena,OK,,city-us,1413,36.546,-98.270,4040
-19569,Helena,MI,,city-us,954,44.896,-85.267,2348
-19573,Helena,MS,,city-us,834,30.495,-88.496,2608
-19578,Helena,SC,,city-us,579,34.283,-81.641,694
-19579,Helena,OH,,city-us,212,41.341,-83.292,3107
-19570,Helena,ND,,city-us,30,47.376,-98.320,216
-19568,Helena,MO,,city-us,0,39.913,-94.649,500
-19572,Helena,WI,,city-us,0,43.171,-90.022,2492
-19576,Helena,MI,,city-us,0,46.218,-87.272,303
-19577,Helena,KY,,city-us,0,38.493,-83.775,81
-19581,Helena,LA,,city-us,0,31.871,-91.393,83
-19582,Helena,CA,,city-us,0,40.774,-123.128,2004
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19575,Helena,MT,Lewis and Clark County,,city-us,33120,46.593,-112.036,21929
+19574,Helena,AL,Jefferson County / Shelby County,,city-us,21560,33.283,-86.879,16093
+19580,Helena,MN,Scott County,,city-us,1810,44.588,-93.595,1957
+19571,Helena,MI,Huron County,,city-us,1470,43.822,-82.673,2137
+19567,Helena,OK,Alfalfa County,,city-us,1413,36.546,-98.270,4040
+19569,Helena,MI,Antrim County,,city-us,954,44.896,-85.267,2348
+19573,Helena,MS,Jackson County,,city-us,834,30.495,-88.496,2608
+19578,Helena,SC,Newberry County,,city-us,579,34.283,-81.641,694
+19579,Helena,OH,Sandusky County,,city-us,212,41.341,-83.292,3107
+19570,Helena,ND,Griggs County,,city-us,30,47.376,-98.320,216
+19568,Helena,MO,Andrew County,,city-us,0,39.913,-94.649,500
+19572,Helena,WI,Iowa County,,city-us,0,43.171,-90.022,2492
+19576,Helena,MI,Marquette County,,city-us,0,46.218,-87.272,303
+19577,Helena,KY,Mason County,,city-us,0,38.493,-83.775,81
+19581,Helena,LA,Tensas Parish,,city-us,0,31.871,-91.393,83
+19582,Helena,CA,Trinity County,,city-us,0,40.774,-123.128,2004

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27188,Mason City,IA,,city-us,27138,43.154,-93.201,16675
-27190,Mason City,IL,,city-us,2293,40.186,-89.661,357
-27189,Mason City,NE,,city-us,148,41.223,-99.300,3119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27188,Mason City,IA,Cerro Gordo County,,city-us,27138,43.154,-93.201,16675
+27190,Mason City,IL,Mason County,,city-us,2293,40.186,-89.661,357
+27189,Mason City,NE,Custer County,,city-us,148,41.223,-99.300,3119

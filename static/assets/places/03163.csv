@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15978,Frenchtown,MI,,city-us,21643,41.961,-83.358,8818
-15977,Frenchtown,MT,,city-us,1734,47.015,-114.230,4699
-15976,Frenchtown,NJ,,city-us,1377,40.526,-75.062,15509
-15974,Frenchtown,CA,,city-us,364,38.641,-120.911,295
-15971,Frenchtown,MD,,city-us,0,39.575,-76.082,2520
-15972,Frenchtown,PA,,city-us,0,41.612,-80.022,173
-15973,Frenchtown,OH,,city-us,0,40.246,-84.524,1065
-15975,Frenchtown,IN,,city-us,0,38.315,-86.214,327
-15979,Frenchtown,OH,,city-us,0,41.029,-83.344,176
-15980,Frenchtown,CA,,city-us,0,39.388,-121.255,219
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15978,Frenchtown,MI,Monroe County,,city-us,21643,41.961,-83.358,8818
+15977,Frenchtown,MT,Missoula County,,city-us,1734,47.015,-114.230,4699
+15976,Frenchtown,NJ,Hunterdon County,,city-us,1377,40.526,-75.062,15509
+15974,Frenchtown,CA,El Dorado County,,city-us,364,38.641,-120.911,295
+15971,Frenchtown,MD,Cecil County,,city-us,0,39.575,-76.082,2520
+15972,Frenchtown,PA,Crawford County,,city-us,0,41.612,-80.022,173
+15973,Frenchtown,OH,Darke County,,city-us,0,40.246,-84.524,1065
+15975,Frenchtown,IN,Harrison County,,city-us,0,38.315,-86.214,327
+15979,Frenchtown,OH,Seneca County,,city-us,0,41.029,-83.344,176
+15980,Frenchtown,CA,Yuba County,,city-us,0,39.388,-121.255,219

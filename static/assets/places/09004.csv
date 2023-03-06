@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45188,Warrendale,PA,,city-us,0,40.653,-80.079,503
-45189,Warrendale,OR,,city-us,0,45.613,-122.016,2758
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45188,Warrendale,PA,Allegheny County,,city-us,0,40.653,-80.079,503
+45189,Warrendale,OR,Multnomah County,,city-us,0,45.613,-122.016,2758

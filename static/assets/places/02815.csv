@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13964,Ethel,MS,,city-us,341,33.120,-89.466,2145
-13968,Ethel,MO,,city-us,47,39.895,-92.738,3107
-13963,Ethel,AR,,city-us,0,34.286,-91.164,269
-13965,Ethel,LA,,city-us,0,30.791,-91.131,324
-13966,Ethel,WA,,city-us,0,46.532,-122.747,1314
-13967,Ethel,WV,,city-us,0,37.866,-81.912,6883
-13969,Ethel,IN,,city-us,0,38.404,-86.524,304
-13970,Ethel,VA,,city-us,0,37.996,-76.781,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13964,Ethel,MS,Attala County,,city-us,341,33.120,-89.466,2145
+13968,Ethel,MO,Macon County,,city-us,47,39.895,-92.738,3107
+13963,Ethel,AR,Arkansas County,,city-us,0,34.286,-91.164,269
+13965,Ethel,LA,East Feliciana Parish,,city-us,0,30.791,-91.131,324
+13966,Ethel,WA,Lewis County,,city-us,0,46.532,-122.747,1314
+13967,Ethel,WV,Logan County,,city-us,0,37.866,-81.912,6883
+13969,Ethel,IN,Orange County,,city-us,0,38.404,-86.524,304
+13970,Ethel,VA,Richmond County,,city-us,0,37.996,-76.781,89

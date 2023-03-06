@@ -1,20 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24573,Lewis,OH,,city-us,2404,38.832,-83.992,1421
-24585,Lewis,PA,,city-us,1938,41.114,-76.770,302
-24589,Lewis,PA,,city-us,1449,40.953,-77.122,302
-24577,Lewis,NY,,city-us,1289,44.318,-73.581,4114
-24582,Lewis,PA,,city-us,860,41.425,-77.052,302
-24581,Lewis,NY,,city-us,838,43.477,-75.565,3778
-24576,Lewis,KS,,city-us,390,37.936,-99.253,3573
-24574,Lewis,IA,,city-us,357,41.306,-95.083,3091
-24584,Lewis,CO,,city-us,164,37.500,-108.669,998
-24586,Lewis,WI,,city-us,150,45.711,-92.402,1015
-24575,Lewis,NE,,city-us,124,40.565,-97.987,239
-24583,Lewis,MN,,city-us,53,46.019,-93.515,1696
-24572,Lewis,ND,,city-us,30,48.676,-101.125,137
-24578,Lewis,KS,,city-us,12,38.787,-100.707,422
-24579,Lewis,NC,,city-us,0,36.376,-78.595,188
-24580,Lewis,MO,,city-us,0,38.435,-93.692,344
-24587,Lewis,IN,,city-us,0,39.260,-87.257,919
-24588,Lewis,IN,,city-us,0,39.260,-87.255,919
-24590,Lewis,OR,,city-us,0,45.691,-117.095,510
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24573,Lewis,OH,Brown County,,city-us,2404,38.832,-83.992,1421
+24585,Lewis,PA,Northumberland County,,city-us,1938,41.114,-76.770,302
+24589,Lewis,PA,Union County,,city-us,1449,40.953,-77.122,302
+24577,Lewis,NY,Essex County,,city-us,1289,44.318,-73.581,4114
+24582,Lewis,PA,Lycoming County,,city-us,860,41.425,-77.052,302
+24581,Lewis,NY,Lewis County,,city-us,838,43.477,-75.565,3778
+24576,Lewis,KS,Edwards County,,city-us,390,37.936,-99.253,3573
+24574,Lewis,IA,Cass County,,city-us,357,41.306,-95.083,3091
+24584,Lewis,CO,Montezuma County,,city-us,164,37.500,-108.669,998
+24586,Lewis,WI,Polk County,,city-us,150,45.711,-92.402,1015
+24575,Lewis,NE,Clay County,,city-us,124,40.565,-97.987,239
+24583,Lewis,MN,Mille Lacs County,,city-us,53,46.019,-93.515,1696
+24572,Lewis,ND,Bottineau County,,city-us,30,48.676,-101.125,137
+24578,Lewis,KS,Gove County,,city-us,12,38.787,-100.707,422
+24579,Lewis,NC,Granville County,,city-us,0,36.376,-78.595,188
+24580,Lewis,MO,Henry County,,city-us,0,38.435,-93.692,344
+24587,Lewis,IN,Sullivan County,,city-us,0,39.260,-87.257,919
+24588,Lewis,IN,Sullivan County / Vigo County,,city-us,0,39.260,-87.255,919
+24590,Lewis,OR,Wallowa County,,city-us,0,45.691,-117.095,510

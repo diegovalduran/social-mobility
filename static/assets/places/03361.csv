@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17009,Glenmoore,NJ,,city-us,17491,40.356,-74.812,16151
-17007,Glenmoor,OH,,city-us,1841,40.666,-80.623,2715
-17008,Glenmoore,PA,,city-us,0,40.089,-75.772,659
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17009,Glenmoore,NJ,Mercer County,,city-us,17491,40.356,-74.812,16151
+17007,Glenmoor,OH,Columbiana County,,city-us,1841,40.666,-80.623,2715
+17008,Glenmoore,PA,Chester County,,city-us,0,40.089,-75.772,659

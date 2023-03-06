@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35526,Pueblo,CO,,city-us,112368,38.254,-104.609,35120
-35527,Pueblo,NM,,city-us,0,35.327,-105.435,458
-35528,Pueblo,IN,,city-us,0,37.826,-87.110,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35526,Pueblo,CO,Pueblo County,,city-us,112368,38.254,-104.609,35120
+35527,Pueblo,NM,San Miguel County,,city-us,0,35.327,-105.435,458
+35528,Pueblo,IN,Spencer County,,city-us,0,37.826,-87.110,261

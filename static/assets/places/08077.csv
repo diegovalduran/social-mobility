@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40912,Spruce,MI,,city-us,1161,44.828,-83.614,2945
-40914,Spruce,WI,,city-us,835,44.953,-88.165,2138
-40916,Spruce,MN,,city-us,576,48.841,-95.670,2037
-40913,Spruce,MO,,city-us,0,38.266,-94.133,381
-40915,Spruce,WV,,city-us,0,38.457,-79.956,695
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40912,Spruce,MI,Alcona County,,city-us,1161,44.828,-83.614,2945
+40914,Spruce,WI,Oconto County,,city-us,835,44.953,-88.165,2138
+40916,Spruce,MN,Roseau County,,city-us,576,48.841,-95.670,2037
+40913,Spruce,MO,Bates County,,city-us,0,38.266,-94.133,381
+40915,Spruce,WV,Pocahontas County,,city-us,0,38.457,-79.956,695

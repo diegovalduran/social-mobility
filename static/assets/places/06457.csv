@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32896,Paint Creek,TX,,city-us,324,33.063,-99.673,1405
-32897,Paint Creek,MI,,city-us,0,42.230,-83.680,5318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32896,Paint Creek,TX,Haskell County,,city-us,324,33.063,-99.673,1405
+32897,Paint Creek,MI,Washtenaw County,,city-us,0,42.230,-83.680,5318

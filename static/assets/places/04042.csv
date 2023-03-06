@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20772,Hortonville,WI,,city-us,3085,44.335,-88.638,8179
-20774,Hortonville,NY,,city-us,305,41.764,-75.030,329
-20770,Hortonville,IN,,city-us,0,40.086,-86.161,295
-20771,Hortonville,NM,,city-us,0,32.911,-105.536,88
-20773,Hortonville,VT,,city-us,0,43.470,-72.805,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20772,Hortonville,WI,Outagamie County,,city-us,3085,44.335,-88.638,8179
+20774,Hortonville,NY,Sullivan County,,city-us,305,41.764,-75.030,329
+20770,Hortonville,IN,Hamilton County,,city-us,0,40.086,-86.161,295
+20771,Hortonville,NM,Otero County,,city-us,0,32.911,-105.536,88
+20773,Hortonville,VT,Rutland County,,city-us,0,43.470,-72.805,87

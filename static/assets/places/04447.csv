@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22907,Kilbourne,IL,,city-us,468,40.170,-89.987,336
-22908,Kilbourne,LA,,city-us,336,33.000,-91.315,2102
-22905,Kilborn,SD,,city-us,151,45.283,-96.801,0
-22906,Kilbourne,OH,,city-us,29,40.330,-82.957,427
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22907,Kilbourne,IL,Mason County,,city-us,468,40.170,-89.987,336
+22908,Kilbourne,LA,West Carroll Parish,,city-us,336,33.000,-91.315,2102
+22905,Kilborn,SD,Grant County,,city-us,151,45.283,-96.801,0
+22906,Kilbourne,OH,Delaware County,,city-us,29,40.330,-82.957,427

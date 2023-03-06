@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11083,Davidson,NC,,city-us,15132,35.481,-80.821,13333
-11084,Davidson,PA,,city-us,547,41.328,-76.438,2200
-11085,Davidson,OK,,city-us,249,34.241,-99.076,2930
-11082,Davidson,IN,,city-us,0,37.968,-86.047,232
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11083,Davidson,NC,Iredell County / Mecklenburg County,,city-us,15132,35.481,-80.821,13333
+11084,Davidson,PA,Sullivan County,,city-us,547,41.328,-76.438,2200
+11085,Davidson,OK,Tillman County,,city-us,249,34.241,-99.076,2930
+11082,Davidson,IN,Harrison County,,city-us,0,37.968,-86.047,232

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42231,Swan,OH,,city-us,912,39.357,-82.472,1427
-42232,Swan,IL,,city-us,236,40.679,-90.612,348
-42226,Swan,IA,,city-us,75,41.465,-93.311,2881
-42224,Swan,NE,,city-us,39,42.218,-99.122,241
-42228,Swan,KS,,city-us,36,39.872,-99.011,0
-42225,Swan,WI,,city-us,0,44.931,-90.119,117
-42227,Swan,IN,,city-us,0,41.316,-85.213,301
-42229,Swan,TX,,city-us,0,32.435,-95.367,510
-42230,Swan,MO,,city-us,0,36.795,-93.063,350
-42245,Swann,WV,,city-us,0,38.523,-82.159,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42231,Swan,OH,Vinton County,,city-us,912,39.357,-82.472,1427
+42232,Swan,IL,Warren County,,city-us,236,40.679,-90.612,348
+42226,Swan,IA,Marion County,,city-us,75,41.465,-93.311,2881
+42224,Swan,NE,Holt County,,city-us,39,42.218,-99.122,241
+42228,Swan,KS,Smith County,,city-us,36,39.872,-99.011,0
+42225,Swan,WI,Marathon County,,city-us,0,44.931,-90.119,117
+42227,Swan,IN,Noble County,,city-us,0,41.316,-85.213,301
+42229,Swan,TX,Smith County,,city-us,0,32.435,-95.367,510
+42230,Swan,MO,Taney County,,city-us,0,36.795,-93.063,350
+42245,Swann,WV,Cabell County,,city-us,0,38.523,-82.159,86

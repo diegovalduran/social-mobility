@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24371,Lehigh,PA,,city-us,10776,40.765,-75.543,304
-24372,Lehigh,PA,,city-us,1868,41.247,-75.403,304
-24367,Lehigh,PA,,city-us,426,40.957,-75.755,304
-24373,Lehigh,IA,,city-us,401,42.360,-94.052,7264
-24370,Lehigh,KS,,city-us,313,38.385,-97.307,798
-24368,Lehigh,OK,,city-us,273,34.469,-96.216,3408
-24365,Lehigh,WV,,city-us,0,39.036,-79.961,89
-24366,Lehigh,WI,,city-us,0,45.441,-91.551,111
-24369,Lehigh,IL,,city-us,0,41.110,-88.018,193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24371,Lehigh,PA,Northampton County,,city-us,10776,40.765,-75.543,304
+24372,Lehigh,PA,Wayne County,,city-us,1868,41.247,-75.403,304
+24367,Lehigh,PA,Carbon County,,city-us,426,40.957,-75.755,304
+24373,Lehigh,IA,Webster County,,city-us,401,42.360,-94.052,7264
+24370,Lehigh,KS,Marion County,,city-us,313,38.385,-97.307,798
+24368,Lehigh,OK,Coal County,,city-us,273,34.469,-96.216,3408
+24365,Lehigh,WV,Barbour County,,city-us,0,39.036,-79.961,89
+24366,Lehigh,WI,Barron County,,city-us,0,45.441,-91.551,111
+24369,Lehigh,IL,Kankakee County,,city-us,0,41.110,-88.018,193

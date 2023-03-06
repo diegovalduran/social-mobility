@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15041,Flag,AR,,city-us,0,35.819,-92.394,79
-15042,Flagg,OR,,city-us,0,44.025,-123.499,357
-15043,Flagg,IL,,city-us,0,41.896,-89.141,302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15041,Flag,AR,Stone County,,city-us,0,35.819,-92.394,79
+15042,Flagg,OR,Lane County,,city-us,0,44.025,-123.499,357
+15043,Flagg,IL,Ogle County,,city-us,0,41.896,-89.141,302

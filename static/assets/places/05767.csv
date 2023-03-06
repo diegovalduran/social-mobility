@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29683,Moultrie,GA,,city-us,14587,31.180,-83.789,8204
-29684,Moultrie,OH,,city-us,0,40.796,-81.071,281
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29683,Moultrie,GA,Colquitt County,,city-us,14587,31.180,-83.789,8204
+29684,Moultrie,OH,Columbiana County,,city-us,0,40.796,-81.071,281

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1727,Ashwood,SC,,city-us,57,34.109,-80.316,892
-1726,Ashwood,VA,,city-us,0,37.972,-79.850,124
-1728,Ashwood,TX,,city-us,0,29.104,-95.871,1381
-1729,Ashwood,TN,,city-us,0,35.580,-87.144,741
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1727,Ashwood,SC,Lee County,,city-us,57,34.109,-80.316,892
+1726,Ashwood,VA,Bath County,,city-us,0,37.972,-79.850,124
+1728,Ashwood,TX,Matagorda County,,city-us,0,29.104,-95.871,1381
+1729,Ashwood,TN,Maury County,,city-us,0,35.580,-87.144,741

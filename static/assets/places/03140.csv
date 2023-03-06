@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15788,Franktown,CO,,city-us,217,39.391,-104.753,5200
-15789,Franktown,VA,,city-us,61,37.479,-75.879,677
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15788,Franktown,CO,Douglas County,,city-us,217,39.391,-104.753,5200
+15789,Franktown,VA,Northampton County,,city-us,61,37.479,-75.879,677

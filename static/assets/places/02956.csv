@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14831,Ferndale,MI,,city-us,19109,42.461,-83.135,8740
-14825,Ferndale,MD,,city-us,17113,39.183,-76.640,2638
-14834,Ferndale,WA,,city-us,15476,48.846,-122.591,4613
-14827,Ferndale,PA,,city-us,1532,40.289,-78.915,2541
-14829,Ferndale,CA,,city-us,1396,40.576,-124.264,33530
-14830,Ferndale,FL,,city-us,480,28.622,-81.703,2024
-14826,Ferndale,PA,,city-us,0,40.534,-75.179,215
-14828,Ferndale,KY,,city-us,0,37.206,-84.797,117
-14832,Ferndale,IN,,city-us,0,39.707,-87.067,374
-14833,Ferndale,OR,,city-us,0,45.981,-118.397,575
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14831,Ferndale,MI,Oakland County,,city-us,19109,42.461,-83.135,8740
+14825,Ferndale,MD,Anne Arundel County,,city-us,17113,39.183,-76.640,2638
+14834,Ferndale,WA,Whatcom County,,city-us,15476,48.846,-122.591,4613
+14827,Ferndale,PA,Cambria County,,city-us,1532,40.289,-78.915,2541
+14829,Ferndale,CA,Humboldt County,,city-us,1396,40.576,-124.264,33530
+14830,Ferndale,FL,Lake County,,city-us,480,28.622,-81.703,2024
+14826,Ferndale,PA,Bucks County,,city-us,0,40.534,-75.179,215
+14828,Ferndale,KY,Casey County,,city-us,0,37.206,-84.797,117
+14832,Ferndale,IN,Parke County,,city-us,0,39.707,-87.067,374
+14833,Ferndale,OR,Umatilla County,,city-us,0,45.981,-118.397,575

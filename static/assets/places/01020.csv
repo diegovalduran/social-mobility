@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5101,Brayton,IA,,city-us,142,41.544,-94.924,3286
-5102,Brayton,NE,,city-us,0,41.463,-98.478,867
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5101,Brayton,IA,Audubon County,,city-us,142,41.544,-94.924,3286
+5102,Brayton,NE,Greeley County,,city-us,0,41.463,-98.478,867

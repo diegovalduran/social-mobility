@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18372,Habersham,TN,,city-us,0,36.498,-84.074,291
-18373,Habersham,GA,,city-us,0,34.648,-83.550,325
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18372,Habersham,TN,Campbell County,,city-us,0,36.498,-84.074,291
+18373,Habersham,GA,Habersham County,,city-us,0,34.648,-83.550,325

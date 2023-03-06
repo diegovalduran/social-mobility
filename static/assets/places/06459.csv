@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32901,Paintersville,OH,,city-us,0,39.586,-83.820,311
-32902,Paintersville,CA,,city-us,0,38.320,-121.576,310
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32901,Paintersville,OH,Greene County,,city-us,0,39.586,-83.820,311
+32902,Paintersville,CA,Sacramento County,,city-us,0,38.320,-121.576,310

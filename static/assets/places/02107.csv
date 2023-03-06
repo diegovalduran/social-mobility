@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10557,Crumpler,WV,,city-us,271,37.425,-81.342,202
-10556,Crumpler,NC,,city-us,0,36.504,-81.394,514
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10557,Crumpler,WV,McDowell County,,city-us,271,37.425,-81.342,202
+10556,Crumpler,NC,Ashe County,,city-us,0,36.504,-81.394,514

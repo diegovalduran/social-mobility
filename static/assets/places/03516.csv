@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17833,Green Lake,MI,,city-us,7001,42.728,-85.614,2920
-17834,Green Lake,MI,,city-us,6632,44.644,-85.753,3790
-17836,Green Lake,MN,,city-us,1633,45.190,-94.938,1935
-17835,Green Lake,WI,,city-us,985,43.844,-88.960,6277
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17833,Green Lake,MI,Allegan County,,city-us,7001,42.728,-85.614,2920
+17834,Green Lake,MI,Grand Traverse County,,city-us,6632,44.644,-85.753,3790
+17836,Green Lake,MN,Kandiyohi County,,city-us,1633,45.190,-94.938,1935
+17835,Green Lake,WI,Green Lake County,,city-us,985,43.844,-88.960,6277

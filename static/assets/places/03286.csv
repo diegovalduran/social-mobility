@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16649,German,OH,,city-us,8722,39.624,-84.403,243
-16643,German,OH,,city-us,7530,39.995,-83.873,243
-16646,German,OH,,city-us,6541,41.540,-84.300,243
-16645,German,PA,,city-us,4598,39.880,-79.867,3390
-16641,German,OH,,city-us,3694,40.444,-84.397,243
-16647,German,OH,,city-us,724,40.392,-80.916,243
-16650,German,IL,,city-us,323,38.799,-87.972,397
-16642,German,NY,,city-us,307,42.504,-75.824,2659
-16648,German,SD,,city-us,93,43.298,-97.934,0
-16651,German,KS,,city-us,31,39.947,-99.013,0
-16644,German,ND,,city-us,19,46.157,-98.922,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16649,German,OH,Montgomery County,,city-us,8722,39.624,-84.403,243
+16643,German,OH,Clark County,,city-us,7530,39.995,-83.873,243
+16646,German,OH,Fulton County,,city-us,6541,41.540,-84.300,243
+16645,German,PA,Fayette County,,city-us,4598,39.880,-79.867,3390
+16641,German,OH,Auglaize County,,city-us,3694,40.444,-84.397,243
+16647,German,OH,Harrison County,,city-us,724,40.392,-80.916,243
+16650,German,IL,Richland County,,city-us,323,38.799,-87.972,397
+16642,German,NY,Chenango County,,city-us,307,42.504,-75.824,2659
+16648,German,SD,Hutchinson County,,city-us,93,43.298,-97.934,0
+16651,German,KS,Smith County,,city-us,31,39.947,-99.013,0
+16644,German,ND,Dickey County,,city-us,19,46.157,-98.922,0

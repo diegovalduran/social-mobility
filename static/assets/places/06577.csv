@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33994,Pierson,MI,,city-us,3554,43.353,-85.498,2284
-33442,Pearson,GA,,city-us,1847,31.298,-82.852,2749
-33996,Pierson,FL,,city-us,1552,29.239,-81.466,1454
-33997,Pierson,IA,,city-us,337,42.544,-95.868,8575
-33443,Pearson,WI,,city-us,0,45.364,-89.016,648
-33444,Pearson,TX,,city-us,0,29.273,-98.875,515
-33445,Pearson,OK,,city-us,0,35.073,-96.918,179
-33995,Pierson,IL,,city-us,0,39.798,-88.528,206
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33994,Pierson,MI,Montcalm County,,city-us,3554,43.353,-85.498,2284
+33442,Pearson,GA,Atkinson County,,city-us,1847,31.298,-82.852,2749
+33996,Pierson,FL,Volusia County,,city-us,1552,29.239,-81.466,1454
+33997,Pierson,IA,Woodbury County,,city-us,337,42.544,-95.868,8575
+33443,Pearson,WI,Langlade County,,city-us,0,45.364,-89.016,648
+33444,Pearson,TX,Medina County,,city-us,0,29.273,-98.875,515
+33445,Pearson,OK,Pottawatomie County,,city-us,0,35.073,-96.918,179
+33995,Pierson,IL,Piatt County,,city-us,0,39.798,-88.528,206

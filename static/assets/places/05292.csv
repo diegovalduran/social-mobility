@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27159,Marysville,WA,,city-us,71144,48.052,-122.177,40052
-27161,Marysville,OH,,city-us,26223,40.236,-83.367,18373
-27163,Marysville,CA,,city-us,12664,39.146,-121.591,22229
-27160,Marysville,MI,,city-us,9924,42.913,-82.487,11385
-27155,Marysville,KS,,city-us,3417,39.841,-96.647,5441
-27157,Marysville,PA,,city-us,2661,40.343,-76.930,2420
-27156,Marysville,KS,,city-us,2450,38.669,-94.859,5441
-27162,Marysville,MN,,city-us,2038,45.111,-93.960,2238
-27153,Marysville,MT,,city-us,82,46.751,-112.300,2109
-27154,Marysville,IA,,city-us,47,41.181,-92.949,5044
-27152,Marysville,TX,,city-us,15,33.771,-97.334,5045
-27150,Marysville,FL,,city-us,0,30.294,-85.098,188
-27151,Marysville,IN,,city-us,0,38.586,-85.644,775
-27158,Marysville,IN,,city-us,0,38.352,-87.278,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27159,Marysville,WA,Snohomish County,,city-us,71144,48.052,-122.177,40052
+27161,Marysville,OH,Union County,,city-us,26223,40.236,-83.367,18373
+27163,Marysville,CA,Yuba County,,city-us,12664,39.146,-121.591,22229
+27160,Marysville,MI,St. Clair County,,city-us,9924,42.913,-82.487,11385
+27155,Marysville,KS,Marshall County,,city-us,3417,39.841,-96.647,5441
+27157,Marysville,PA,Perry County,,city-us,2661,40.343,-76.930,2420
+27156,Marysville,KS,Miami County,,city-us,2450,38.669,-94.859,5441
+27162,Marysville,MN,Wright County,,city-us,2038,45.111,-93.960,2238
+27153,Marysville,MT,Lewis and Clark County,,city-us,82,46.751,-112.300,2109
+27154,Marysville,IA,Marion County,,city-us,47,41.181,-92.949,5044
+27152,Marysville,TX,Cooke County,,city-us,15,33.771,-97.334,5045
+27150,Marysville,FL,Calhoun County,,city-us,0,30.294,-85.098,188
+27151,Marysville,IN,Clark County,,city-us,0,38.586,-85.644,775
+27158,Marysville,IN,Pike County,,city-us,0,38.352,-87.278,157

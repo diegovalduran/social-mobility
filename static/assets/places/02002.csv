@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10146,Covert,MI,,city-us,2509,42.283,-86.279,2782
-10145,Covert,NY,,city-us,2125,42.584,-76.697,4793
-10144,Covert,KS,,city-us,0,39.280,-98.811,1079
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10146,Covert,MI,Van Buren County,,city-us,2509,42.283,-86.279,2782
+10145,Covert,NY,Seneca County,,city-us,2125,42.584,-76.697,4793
+10144,Covert,KS,Osborne County,,city-us,0,39.280,-98.811,1079

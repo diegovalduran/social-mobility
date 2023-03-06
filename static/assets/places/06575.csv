@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33439,Pearl River,NY,,city-us,16387,41.059,-74.022,11769
-33438,Pearl River,MS,,city-us,3884,32.783,-89.228,2473
-33440,Pearl River,LA,,city-us,2630,30.376,-89.748,3937
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33439,Pearl River,NY,Rockland County,,city-us,16387,41.059,-74.022,11769
+33438,Pearl River,MS,Neshoba County,,city-us,3884,32.783,-89.228,2473
+33440,Pearl River,LA,St. Tammany Parish,,city-us,2630,30.376,-89.748,3937

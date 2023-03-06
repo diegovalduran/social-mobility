@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3206,Bellamy,AL,,city-us,363,32.449,-88.134,349
-3205,Bellamy,VA,,city-us,0,37.398,-76.573,94
-3207,Bellamy,MO,,city-us,0,37.685,-94.181,304
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3206,Bellamy,AL,Sumter County,,city-us,363,32.449,-88.134,349
+3205,Bellamy,VA,Gloucester County,,city-us,0,37.398,-76.573,94
+3207,Bellamy,MO,Vernon County,,city-us,0,37.685,-94.181,304

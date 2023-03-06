@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-497,Alder Springs,TN,,city-us,0,36.369,-84.006,180
-498,Alder Springs,CA,,city-us,0,37.066,-119.402,175
-499,Alder Springs,CA,,city-us,0,39.651,-122.726,972
-500,Alder Springs,TN,,city-us,0,36.238,-83.865,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+497,Alder Springs,TN,Campbell County,,city-us,0,36.369,-84.006,180
+498,Alder Springs,CA,Fresno County,,city-us,0,37.066,-119.402,175
+499,Alder Springs,CA,Glenn County,,city-us,0,39.651,-122.726,972
+500,Alder Springs,TN,Union County,,city-us,0,36.238,-83.865,173

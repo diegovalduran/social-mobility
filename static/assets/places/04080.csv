@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20972,Hugo,MN,,city-us,16109,45.160,-92.993,5716
-20965,Hugo,OK,,city-us,5174,34.011,-95.510,12767
-20968,Hugo,CO,,city-us,786,39.136,-103.470,4872
-20971,Hugo,ND,,city-us,29,47.369,-97.666,0
-20964,Hugo,MO,,city-us,0,37.995,-92.659,500
-20966,Hugo,IL,,city-us,0,39.754,-88.149,122
-20967,Hugo,OR,,city-us,0,42.585,-123.403,1000
-20969,Hugo,AL,,city-us,0,32.267,-87.689,216
-20970,Hugo,WV,,city-us,0,38.584,-81.857,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20972,Hugo,MN,Washington County,,city-us,16109,45.160,-92.993,5716
+20965,Hugo,OK,Choctaw County,,city-us,5174,34.011,-95.510,12767
+20968,Hugo,CO,Lincoln County,,city-us,786,39.136,-103.470,4872
+20971,Hugo,ND,Steele County,,city-us,29,47.369,-97.666,0
+20964,Hugo,MO,Camden County,,city-us,0,37.995,-92.659,500
+20966,Hugo,IL,Douglas County,,city-us,0,39.754,-88.149,122
+20967,Hugo,OR,Josephine County,,city-us,0,42.585,-123.403,1000
+20969,Hugo,AL,Marengo County,,city-us,0,32.267,-87.689,216
+20970,Hugo,WV,Putnam County,,city-us,0,38.584,-81.857,85

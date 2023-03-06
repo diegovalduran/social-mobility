@@ -1,26 +1,26 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19632,Henderson,NV,,city-us,322178,36.040,-114.982,18969
-19633,Henderson,KY,,city-us,27716,37.836,-87.590,17543
-19647,Henderson,NC,,city-us,14954,36.330,-78.399,4414
-19643,Henderson,TX,,city-us,13502,32.153,-94.799,11606
-19631,Henderson,TN,,city-us,6309,35.439,-88.641,4439
-19630,Henderson,GA,,city-us,2729,32.008,-81.259,985
-19637,Henderson,PA,,city-us,1921,41.005,-78.849,191
-19646,Henderson,LA,,city-us,1603,30.313,-91.790,1390
-19650,Henderson,NE,,city-us,1093,40.780,-97.812,2882
-19645,Henderson,MN,,city-us,966,44.528,-93.908,7113
-19635,Henderson,PA,,city-us,922,40.494,-77.936,191
-19644,Henderson,MI,,city-us,413,43.086,-84.195,1420
-19627,Henderson,AR,,city-us,309,36.381,-92.228,540
-19636,Henderson,NY,,city-us,273,43.847,-76.182,7752
-19638,Henderson,IL,,city-us,259,41.025,-90.356,1970
-19639,Henderson,WV,,city-us,228,38.834,-82.138,3791
-19649,Henderson,MI,,city-us,183,44.213,-85.632,2271
-19628,Henderson,MD,,city-us,160,39.074,-75.766,2017
-19640,Henderson,IA,,city-us,143,41.141,-95.431,3218
-19629,Henderson,ND,,city-us,32,48.683,-98.780,0
-19626,Henderson,CO,,city-us,0,39.922,-104.868,1658
-19634,Henderson,GA,,city-us,0,32.341,-83.789,267
-19641,Henderson,AL,,city-us,0,31.667,-86.073,563
-19642,Henderson,IN,,city-us,0,39.669,-85.520,322
-19648,Henderson,MO,,city-us,0,37.141,-93.060,230
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19632,Henderson,NV,Clark County,,city-us,322178,36.040,-114.982,18969
+19633,Henderson,KY,Henderson County,,city-us,27716,37.836,-87.590,17543
+19647,Henderson,NC,Vance County,,city-us,14954,36.330,-78.399,4414
+19643,Henderson,TX,Rusk County,,city-us,13502,32.153,-94.799,11606
+19631,Henderson,TN,Chester County,,city-us,6309,35.439,-88.641,4439
+19630,Henderson,GA,Chatham County,,city-us,2729,32.008,-81.259,985
+19637,Henderson,PA,Jefferson County,,city-us,1921,41.005,-78.849,191
+19646,Henderson,LA,St. Martin Parish,,city-us,1603,30.313,-91.790,1390
+19650,Henderson,NE,York County,,city-us,1093,40.780,-97.812,2882
+19645,Henderson,MN,Sibley County,,city-us,966,44.528,-93.908,7113
+19635,Henderson,PA,Huntingdon County,,city-us,922,40.494,-77.936,191
+19644,Henderson,MI,Shiawassee County,,city-us,413,43.086,-84.195,1420
+19627,Henderson,AR,Baxter County,,city-us,309,36.381,-92.228,540
+19636,Henderson,NY,Jefferson County,,city-us,273,43.847,-76.182,7752
+19638,Henderson,IL,Knox County,,city-us,259,41.025,-90.356,1970
+19639,Henderson,WV,Mason County,,city-us,228,38.834,-82.138,3791
+19649,Henderson,MI,Wexford County,,city-us,183,44.213,-85.632,2271
+19628,Henderson,MD,Caroline County,,city-us,160,39.074,-75.766,2017
+19640,Henderson,IA,Mills County,,city-us,143,41.141,-95.431,3218
+19629,Henderson,ND,Cavalier County,,city-us,32,48.683,-98.780,0
+19626,Henderson,CO,Adams County,,city-us,0,39.922,-104.868,1658
+19634,Henderson,GA,Houston County,,city-us,0,32.341,-83.789,267
+19641,Henderson,AL,Pike County,,city-us,0,31.667,-86.073,563
+19642,Henderson,IN,Rush County,,city-us,0,39.669,-85.520,322
+19648,Henderson,MO,Webster County,,city-us,0,37.141,-93.060,230

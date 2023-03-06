@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-744,Almena,MI,,city-us,5309,42.286,-85.819,2578
-742,Almena,WI,,city-us,891,45.435,-92.103,2528
-743,Almena,KS,,city-us,366,39.892,-99.707,4177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+744,Almena,MI,Van Buren County,,city-us,5309,42.286,-85.819,2578
+742,Almena,WI,Barron County,,city-us,891,45.435,-92.103,2528
+743,Almena,KS,Norton County,,city-us,366,39.892,-99.707,4177

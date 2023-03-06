@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9293,Colesville,MD,,city-us,14468,39.076,-77.002,7862
-9291,Colesville,NY,,city-us,4832,42.179,-75.650,3919
-9292,Colesville,PA,,city-us,0,40.572,-75.392,568
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9293,Colesville,MD,Montgomery County,,city-us,14468,39.076,-77.002,7862
+9291,Colesville,NY,Broome County,,city-us,4832,42.179,-75.650,3919
+9292,Colesville,PA,Lehigh County,,city-us,0,40.572,-75.392,568

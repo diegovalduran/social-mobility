@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13280,Elizabethtown,KY,,city-us,31931,37.694,-85.859,14211
-13281,Elizabethtown,PA,,city-us,11533,40.153,-76.603,7127
-13274,Elizabethtown,NC,,city-us,3132,34.629,-78.605,2803
-13276,Elizabethtown,NY,,city-us,596,44.216,-73.591,5630
-13273,Elizabethtown,IN,,city-us,410,39.135,-85.813,3936
-13278,Elizabethtown,OH,,city-us,240,39.159,-84.805,771
-13279,Elizabethtown,IL,,city-us,218,37.446,-88.305,3284
-13275,Elizabethtown,NM,,city-us,0,36.619,-105.284,1803
-13277,Elizabethtown,OH,,city-us,0,40.036,-81.406,129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13280,Elizabethtown,KY,Hardin County,,city-us,31931,37.694,-85.859,14211
+13281,Elizabethtown,PA,Lancaster County,,city-us,11533,40.153,-76.603,7127
+13274,Elizabethtown,NC,Bladen County,,city-us,3132,34.629,-78.605,2803
+13276,Elizabethtown,NY,Essex County,,city-us,596,44.216,-73.591,5630
+13273,Elizabethtown,IN,Bartholomew County,,city-us,410,39.135,-85.813,3936
+13278,Elizabethtown,OH,Hamilton County,,city-us,240,39.159,-84.805,771
+13279,Elizabethtown,IL,Hardin County,,city-us,218,37.446,-88.305,3284
+13275,Elizabethtown,NM,Colfax County,,city-us,0,36.619,-105.284,1803
+13277,Elizabethtown,OH,Guernsey County,,city-us,0,40.036,-81.406,129

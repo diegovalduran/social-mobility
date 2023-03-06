@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2138,Ayrshire,IA,,city-us,129,43.039,-94.833,4306
-2139,Ayrshire,IN,,city-us,0,38.372,-87.241,308
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2138,Ayrshire,IA,Palo Alto County,,city-us,129,43.039,-94.833,4306
+2139,Ayrshire,IN,Pike County,,city-us,0,38.372,-87.241,308

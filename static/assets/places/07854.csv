@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39818,Silica,MN,,city-us,50,47.265,-93.021,493
-39815,Silica,WI,,city-us,0,43.850,-88.342,439
-39816,Silica,WV,,city-us,0,38.687,-80.240,89
-39817,Silica,KS,,city-us,0,38.352,-98.462,725
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39818,Silica,MN,St. Louis County,,city-us,50,47.265,-93.021,493
+39815,Silica,WI,Fond du Lac County,,city-us,0,43.850,-88.342,439
+39816,Silica,WV,Randolph County,,city-us,0,38.687,-80.240,89
+39817,Silica,KS,Rice County,,city-us,0,38.352,-98.462,725

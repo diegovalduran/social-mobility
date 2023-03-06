@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15807,Freda,ND,,city-us,13,46.311,-101.084,740
-15805,Fred,LA,,city-us,0,30.649,-91.105,567
-15806,Fred,TX,,city-us,0,30.577,-94.176,174
-15808,Freda,MI,,city-us,0,47.135,-88.819,3040
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15807,Freda,ND,Grant County,,city-us,13,46.311,-101.084,740
+15805,Fred,LA,East Baton Rouge Parish,,city-us,0,30.649,-91.105,567
+15806,Fred,TX,Tyler County,,city-us,0,30.577,-94.176,174
+15808,Freda,MI,Houghton County,,city-us,0,47.135,-88.819,3040

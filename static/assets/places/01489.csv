@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7471,Cedar Point,NC,,city-us,1782,34.688,-77.072,2442
-7475,Cedar Point,TX,,city-us,425,30.801,-95.079,318
-7474,Cedar Point,IL,,city-us,264,41.263,-89.126,2126
-7472,Cedar Point,KS,,city-us,22,38.260,-96.820,6397
-7473,Cedar Point,VA,,city-us,0,37.692,-77.909,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7471,Cedar Point,NC,Carteret County,,city-us,1782,34.688,-77.072,2442
+7475,Cedar Point,TX,Polk County,,city-us,425,30.801,-95.079,318
+7474,Cedar Point,IL,LaSalle County,,city-us,264,41.263,-89.126,2126
+7472,Cedar Point,KS,Chase County,,city-us,22,38.260,-96.820,6397
+7473,Cedar Point,VA,Goochland County,,city-us,0,37.692,-77.909,273

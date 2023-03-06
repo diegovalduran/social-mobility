@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44365,Verdon,NE,,city-us,162,40.148,-95.713,3235
-44363,Verdon,MN,,city-us,41,46.896,-93.377,2129
-44364,Verdon,SD,,city-us,6,45.244,-98.098,2193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44365,Verdon,NE,Richardson County,,city-us,162,40.148,-95.713,3235
+44363,Verdon,MN,Aitkin County,,city-us,41,46.896,-93.377,2129
+44364,Verdon,SD,Brown County,,city-us,6,45.244,-98.098,2193

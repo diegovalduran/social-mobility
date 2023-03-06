@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16559,Gentry,AR,,city-us,4000,36.268,-94.485,7952
-16560,Gentry,MO,,city-us,53,40.332,-94.420,2928
-16561,Gentry,TX,,city-us,0,35.296,-101.993,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16559,Gentry,AR,Benton County,,city-us,4000,36.268,-94.485,7952
+16560,Gentry,MO,Gentry County,,city-us,53,40.332,-94.420,2928
+16561,Gentry,TX,Potter County,,city-us,0,35.296,-101.993,93

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30604,New Era,MI,,city-us,465,43.559,-86.346,3392
-30600,New Era,OR,,city-us,0,45.301,-122.659,387
-30601,New Era,LA,,city-us,0,31.367,-91.827,451
-30602,New Era,IN,,city-us,0,41.294,-85.121,201
-30603,New Era,WV,,city-us,0,38.909,-81.664,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30604,New Era,MI,Oceana County,,city-us,465,43.559,-86.346,3392
+30600,New Era,OR,Clackamas County,,city-us,0,45.301,-122.659,387
+30601,New Era,LA,Concordia Parish,,city-us,0,31.367,-91.827,451
+30602,New Era,IN,DeKalb County,,city-us,0,41.294,-85.121,201
+30603,New Era,WV,Jackson County,,city-us,0,38.909,-81.664,163

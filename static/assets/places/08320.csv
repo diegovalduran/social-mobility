@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42077,Sunflower,MS,,city-us,933,33.543,-90.537,2944
-42074,Sunflower,AZ,,city-us,0,33.864,-111.468,598
-42075,Sunflower,WI,,city-us,0,45.803,-89.642,217
-42076,Sunflower,WV,,city-us,0,38.905,-81.478,89
-42078,Sunflower,AL,,city-us,0,31.383,-88.008,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42077,Sunflower,MS,Sunflower County,,city-us,933,33.543,-90.537,2944
+42074,Sunflower,AZ,Maricopa County,,city-us,0,33.864,-111.468,598
+42075,Sunflower,WI,Oneida County,,city-us,0,45.803,-89.642,217
+42076,Sunflower,WV,Roane County,,city-us,0,38.905,-81.478,89
+42078,Sunflower,AL,Washington County,,city-us,0,31.383,-88.008,171

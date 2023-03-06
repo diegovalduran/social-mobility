@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15339,Forest City,FL,,city-us,14011,28.667,-81.443,2198
-15418,Forrest City,AR,,city-us,12972,35.008,-90.790,7930
-15338,Forest City,NC,,city-us,7354,35.334,-81.865,6080
-15332,Forest City,IA,,city-us,4238,43.257,-93.637,5931
-15340,Forest City,PA,,city-us,1741,41.651,-75.467,8055
-15335,Forest City,IL,,city-us,463,40.340,-89.827,274
-15333,Forest City,MO,,city-us,245,39.983,-95.192,3293
-15331,Forest City,KS,,city-us,0,37.322,-98.731,241
-15334,Forest City,IN,,city-us,0,41.195,-87.267,193
-15336,Forest City,MN,,city-us,0,45.206,-94.466,488
-15337,Forest City,SD,,city-us,0,45.003,-100.300,250
-15341,Forest City,ME,,city-us,0,45.660,-67.730,373
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15339,Forest City,FL,Seminole County,,city-us,14011,28.667,-81.443,2198
+15418,Forrest City,AR,St. Francis County,,city-us,12972,35.008,-90.790,7930
+15338,Forest City,NC,Rutherford County,,city-us,7354,35.334,-81.865,6080
+15332,Forest City,IA,Hancock County / Winnebago County,,city-us,4238,43.257,-93.637,5931
+15340,Forest City,PA,Susquehanna County,,city-us,1741,41.651,-75.467,8055
+15335,Forest City,IL,Mason County,,city-us,463,40.340,-89.827,274
+15333,Forest City,MO,Holt County,,city-us,245,39.983,-95.192,3293
+15331,Forest City,KS,Barber County,,city-us,0,37.322,-98.731,241
+15334,Forest City,IN,Jasper County,,city-us,0,41.195,-87.267,193
+15336,Forest City,MN,Meeker County,,city-us,0,45.206,-94.466,488
+15337,Forest City,SD,Potter County,,city-us,0,45.003,-100.300,250
+15341,Forest City,ME,Washington County,,city-us,0,45.660,-67.730,373

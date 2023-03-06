@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17710,Gravel Hill,IN,,city-us,0,40.650,-87.370,257
-17711,Gravel Hill,VA,,city-us,0,37.584,-78.375,223
-17712,Gravel Hill,MO,,city-us,0,37.358,-89.840,329
-17713,Gravel Hill,NJ,,city-us,0,40.300,-74.419,301
-17714,Gravel Hill,DE,,city-us,0,38.714,-75.316,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17710,Gravel Hill,IN,Benton County,,city-us,0,40.650,-87.370,257
+17711,Gravel Hill,VA,Buckingham County,,city-us,0,37.584,-78.375,223
+17712,Gravel Hill,MO,Cape Girardeau County,,city-us,0,37.358,-89.840,329
+17713,Gravel Hill,NJ,Middlesex County,,city-us,0,40.300,-74.419,301
+17714,Gravel Hill,DE,Sussex County,,city-us,0,38.714,-75.316,210

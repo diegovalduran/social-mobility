@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3190,Bell Creek,NE,,city-us,229,41.878,-96.399,278
-3213,Belle Creek,MN,,city-us,0,44.438,-92.771,473
-3214,Belle Creek,MT,,city-us,0,45.126,-105.105,470
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3190,Bell Creek,NE,Burt County,,city-us,229,41.878,-96.399,278
+3213,Belle Creek,MN,Goodhue County,,city-us,0,44.438,-92.771,473
+3214,Belle Creek,MT,Powder River County,,city-us,0,45.126,-105.105,470

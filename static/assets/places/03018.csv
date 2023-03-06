@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15249,Flynn,MI,,city-us,1004,43.292,-82.936,2595
-15126,Flinn,MS,,city-us,0,34.046,-88.429,188
-15127,Flinn,WV,,city-us,0,39.075,-81.691,111
-15247,Flynn,OR,,city-us,0,44.541,-123.386,244
-15248,Flynn,TX,,city-us,0,31.151,-96.124,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15249,Flynn,MI,Sanilac County,,city-us,1004,43.292,-82.936,2595
+15126,Flinn,MS,Monroe County,,city-us,0,34.046,-88.429,188
+15127,Flinn,WV,Wood County,,city-us,0,39.075,-81.691,111
+15247,Flynn,OR,Benton County,,city-us,0,44.541,-123.386,244
+15248,Flynn,TX,Leon County,,city-us,0,31.151,-96.124,171

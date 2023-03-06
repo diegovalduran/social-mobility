@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1163,Annetta,TX,,city-us,3153,32.709,-97.676,2316
-1120,Aneta,ND,,city-us,234,47.679,-97.988,4325
-1162,Anneta,KY,,city-us,0,37.371,-86.245,476
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1163,Annetta,TX,Parker County,,city-us,3153,32.709,-97.676,2316
+1120,Aneta,ND,Nelson County,,city-us,234,47.679,-97.988,4325
+1162,Anneta,KY,Grayson County,,city-us,0,37.371,-86.245,476

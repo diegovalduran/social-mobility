@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4683,Bonanza,GA,,city-us,3832,33.466,-84.337,2282
-4687,Bonanza,AR,,city-us,594,35.239,-94.426,3420
-4685,Bonanza,OR,,city-us,409,42.199,-121.406,5017
-4686,Bonanza,CO,,city-us,15,38.295,-106.142,2289
-4682,Bonanza,MO,,city-us,0,39.644,-93.973,237
-4684,Bonanza,KY,,city-us,0,37.692,-82.864,121
-4688,Bonanza,UT,,city-us,0,40.021,-109.177,831
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4683,Bonanza,GA,Clayton County,,city-us,3832,33.466,-84.337,2282
+4687,Bonanza,AR,Sebastian County,,city-us,594,35.239,-94.426,3420
+4685,Bonanza,OR,Klamath County,,city-us,409,42.199,-121.406,5017
+4686,Bonanza,CO,Saguache County,,city-us,15,38.295,-106.142,2289
+4682,Bonanza,MO,Caldwell County,,city-us,0,39.644,-93.973,237
+4684,Bonanza,KY,Floyd County,,city-us,0,37.692,-82.864,121
+4688,Bonanza,UT,Uintah County,,city-us,0,40.021,-109.177,831

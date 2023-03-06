@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22783,Kenwood,OH,,city-us,8143,39.211,-84.367,2000
-22785,Kenwood,CA,,city-us,1028,38.414,-122.546,7269
-22781,Kenwood,OK,,city-us,980,36.301,-94.998,444
-22782,Kenwood,GA,,city-us,0,33.511,-84.436,214
-22784,Kenwood,MO,,city-us,0,40.196,-92.287,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22783,Kenwood,OH,Hamilton County,,city-us,8143,39.211,-84.367,2000
+22785,Kenwood,CA,Sonoma County,,city-us,1028,38.414,-122.546,7269
+22781,Kenwood,OK,Delaware County / Mayes County,,city-us,980,36.301,-94.998,444
+22782,Kenwood,GA,Fayette County,,city-us,0,33.511,-84.436,214
+22784,Kenwood,MO,Knox County,,city-us,0,40.196,-92.287,246

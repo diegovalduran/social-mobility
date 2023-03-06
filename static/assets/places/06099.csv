@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31216,Nodaway,MO,,city-us,799,40.441,-95.016,155
-31214,Nodaway,IA,,city-us,74,40.937,-94.895,2828
-31215,Nodaway,MO,,city-us,0,39.909,-94.968,253
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31216,Nodaway,MO,Nodaway County,,city-us,799,40.441,-95.016,155
+31214,Nodaway,IA,Adams County,,city-us,74,40.937,-94.895,2828
+31215,Nodaway,MO,Andrew County,,city-us,0,39.909,-94.968,253

@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30105,Murdock,FL,,city-us,60625,26.990,-82.106,8650
-30103,Murdock,KS,,city-us,440,37.869,-97.097,1340
-30109,Murdock,MN,,city-us,306,45.224,-95.393,4040
-30104,Murdock,NE,,city-us,274,40.926,-96.280,3099
-30107,Murdock,KS,,city-us,37,37.611,-97.931,704
-30102,Murdoch,OH,,city-us,0,39.292,-84.206,435
-30106,Murdock,IL,,city-us,0,39.801,-88.078,770
-30108,Murdock,IN,,city-us,0,38.910,-86.508,132
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30105,Murdock,FL,Charlotte County,,city-us,60625,26.990,-82.106,8650
+30103,Murdock,KS,Butler County,,city-us,440,37.869,-97.097,1340
+30109,Murdock,MN,Swift County,,city-us,306,45.224,-95.393,4040
+30104,Murdock,NE,Cass County,,city-us,274,40.926,-96.280,3099
+30107,Murdock,KS,Kingman County,,city-us,37,37.611,-97.931,704
+30102,Murdoch,OH,Warren County,,city-us,0,39.292,-84.206,435
+30106,Murdock,IL,Douglas County,,city-us,0,39.801,-88.078,770
+30108,Murdock,IN,Lawrence County,,city-us,0,38.910,-86.508,132

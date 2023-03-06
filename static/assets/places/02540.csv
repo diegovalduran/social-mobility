@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12655,Easley,SC,,city-us,23422,34.820,-82.582,7292
-12656,Easley,MO,,city-us,0,38.802,-92.376,432
-12657,Easley,IA,,city-us,0,42.311,-94.399,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12655,Easley,SC,Anderson County / Pickens County,,city-us,23422,34.820,-82.582,7292
+12656,Easley,MO,Boone County,,city-us,0,38.802,-92.376,432
+12657,Easley,IA,Calhoun County,,city-us,0,42.311,-94.399,159

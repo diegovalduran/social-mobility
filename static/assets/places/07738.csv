@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39169,Seney,MO,,city-us,0,39.847,-92.582,238
-39170,Seney,IA,,city-us,0,42.853,-96.131,2884
-39171,Seney,MI,,city-us,0,46.346,-85.946,1995
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39169,Seney,MO,Macon County,,city-us,0,39.847,-92.582,238
+39170,Seney,IA,Plymouth County,,city-us,0,42.853,-96.131,2884
+39171,Seney,MI,Schoolcraft County,,city-us,0,46.346,-85.946,1995

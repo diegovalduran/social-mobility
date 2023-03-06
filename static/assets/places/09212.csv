@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46472,Whitby,,Canada,city-international,128377,43.883,-78.942,38399
-46471,Whitby,WV,,city-us,0,37.666,-81.184,981
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46472,Whitby,,,Canada,city-international,128377,43.883,-78.942,38399
+46471,Whitby,WV,Raleigh County,,city-us,0,37.666,-81.184,981

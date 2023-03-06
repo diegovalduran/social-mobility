@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20057,Hillcrest,CA,,city-us,11443,35.380,-118.956,156
-20061,Hillcrest,NY,,city-us,8667,41.128,-74.041,5807
-20062,Hillcrest,MI,,city-us,1370,44.479,-84.779,2621
-20059,Hillcrest,IL,,city-us,1216,41.951,-89.065,1804
-20053,Hillcrest,TX,,city-us,693,29.393,-95.259,2290
-20054,Hillcrest,VA,,city-us,0,37.483,-78.274,95
-20055,Hillcrest,IL,,city-us,0,39.786,-88.280,144
-20056,Hillcrest,WI,,city-us,0,46.503,-91.898,118
-20058,Hillcrest,DE,,city-us,0,39.763,-75.507,229
-20060,Hillcrest,IN,,city-us,0,41.516,-87.051,248
-20063,Hillcrest,OH,,city-us,0,39.402,-84.256,1120
-20064,Hillcrest,WV,,city-us,0,39.254,-81.489,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20057,Hillcrest,CA,Kern County,,city-us,11443,35.380,-118.956,156
+20061,Hillcrest,NY,Rockland County,,city-us,8667,41.128,-74.041,5807
+20062,Hillcrest,MI,Roscommon County,,city-us,1370,44.479,-84.779,2621
+20059,Hillcrest,IL,Ogle County,,city-us,1216,41.951,-89.065,1804
+20053,Hillcrest,TX,Brazoria County,,city-us,693,29.393,-95.259,2290
+20054,Hillcrest,VA,Cumberland County,,city-us,0,37.483,-78.274,95
+20055,Hillcrest,IL,Douglas County,,city-us,0,39.786,-88.280,144
+20056,Hillcrest,WI,Douglas County,,city-us,0,46.503,-91.898,118
+20058,Hillcrest,DE,New Castle County,,city-us,0,39.763,-75.507,229
+20060,Hillcrest,IN,Porter County,,city-us,0,41.516,-87.051,248
+20063,Hillcrest,OH,Warren County,,city-us,0,39.402,-84.256,1120
+20064,Hillcrest,WV,Wood County,,city-us,0,39.254,-81.489,88

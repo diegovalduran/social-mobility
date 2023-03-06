@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23610,Lake Lorraine,FL,,city-us,7283,30.442,-86.565,3365
-23611,Lake Lorraine,WI,,city-us,284,42.730,-88.740,160
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23610,Lake Lorraine,FL,Okaloosa County,,city-us,7283,30.442,-86.565,3365
+23611,Lake Lorraine,WI,Walworth County,,city-us,284,42.730,-88.740,160

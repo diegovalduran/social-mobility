@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37708,Rostock,,Germany,city-international,209061,54.083,12.133,29237
-37709,Rostok,WI,,city-us,0,44.502,-87.501,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37708,Rostock,,,Germany,city-international,209061,54.083,12.133,29237
+37709,Rostok,WI,Kewaunee County,,city-us,0,44.502,-87.501,210

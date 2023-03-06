@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33033,Pandora,OH,,city-us,1181,40.948,-83.961,4071
-33034,Pandora,CO,,city-us,0,37.933,-107.786,1334
-33035,Pandora,PA,,city-us,0,40.324,-79.360,140
-33036,Pandora,TX,,city-us,0,29.250,-97.838,485
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33033,Pandora,OH,Putnam County,,city-us,1181,40.948,-83.961,4071
+33034,Pandora,CO,San Miguel County,,city-us,0,37.933,-107.786,1334
+33035,Pandora,PA,Westmoreland County,,city-us,0,40.324,-79.360,140
+33036,Pandora,TX,Wilson County,,city-us,0,29.250,-97.838,485

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47289,Wingville,WI,,city-us,385,42.987,-90.486,1999
-47288,Wingville,OR,,city-us,0,44.840,-117.922,658
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47289,Wingville,WI,Grant County,,city-us,385,42.987,-90.486,1999
+47288,Wingville,OR,Baker County,,city-us,0,44.840,-117.922,658

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46673,Whiteside,TN,,city-us,274,34.987,-85.498,2560
-46672,Whiteside,MO,,city-us,59,39.185,-91.017,3197
-46671,Whiteside,SD,,city-us,38,44.502,-98.641,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46673,Whiteside,TN,Marion County,,city-us,274,34.987,-85.498,2560
+46672,Whiteside,MO,Lincoln County,,city-us,59,39.185,-91.017,3197
+46671,Whiteside,SD,Beadle County,,city-us,38,44.502,-98.641,0

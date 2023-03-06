@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22455,Juniata,MI,,city-us,1541,43.436,-83.520,2500
-22454,Juniata,PA,,city-us,1538,40.471,-77.217,279
-22451,Juniata,PA,,city-us,960,40.398,-78.529,279
-22450,Juniata,PA,,city-us,896,39.987,-78.723,279
-22449,Juniata,NE,,city-us,740,40.590,-98.506,4485
-22453,Juniata,PA,,city-us,432,40.419,-78.019,279
-22452,Juniata,IA,,city-us,0,42.580,-95.148,722
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22455,Juniata,MI,Tuscola County,,city-us,1541,43.436,-83.520,2500
+22454,Juniata,PA,Perry County,,city-us,1538,40.471,-77.217,279
+22451,Juniata,PA,Blair County,,city-us,960,40.398,-78.529,279
+22450,Juniata,PA,Bedford County,,city-us,896,39.987,-78.723,279
+22449,Juniata,NE,Adams County,,city-us,740,40.590,-98.506,4485
+22453,Juniata,PA,Huntingdon County,,city-us,432,40.419,-78.019,279
+22452,Juniata,IA,Buena Vista County,,city-us,0,42.580,-95.148,722

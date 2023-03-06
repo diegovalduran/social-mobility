@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20791,Hough,OK,,city-us,20,36.871,-101.577,626
-20945,Huff,KY,,city-us,0,37.249,-86.368,843
-20946,Huff,MO,,city-us,0,38.244,-90.885,251
-20947,Huff,ND,,city-us,0,46.624,-100.652,606
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20791,Hough,OK,Texas County,,city-us,20,36.871,-101.577,626
+20945,Huff,KY,Edmonson County,,city-us,0,37.249,-86.368,843
+20946,Huff,MO,Franklin County,,city-us,0,38.244,-90.885,251
+20947,Huff,ND,Morton County,,city-us,0,46.624,-100.652,606

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4586,Boaz,AL,,city-us,10161,34.199,-86.155,6041
-4590,Boaz,WV,,city-us,1506,39.361,-81.502,3046
-4589,Boaz,WI,,city-us,127,43.331,-90.526,3100
-4585,Boaz,MO,,city-us,0,37.019,-93.401,427
-4587,Boaz,KY,,city-us,0,36.886,-88.634,1123
-4588,Boaz,IL,,city-us,0,37.292,-88.900,143
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4586,Boaz,AL,Etowah County / Marshall County,,city-us,10161,34.199,-86.155,6041
+4590,Boaz,WV,Wood County,,city-us,1506,39.361,-81.502,3046
+4589,Boaz,WI,Richland County,,city-us,127,43.331,-90.526,3100
+4585,Boaz,MO,Christian County,,city-us,0,37.019,-93.401,427
+4587,Boaz,KY,Graves County,,city-us,0,36.886,-88.634,1123
+4588,Boaz,IL,Massac County,,city-us,0,37.292,-88.900,143

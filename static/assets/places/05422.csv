@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27749,Mechanicsville,VA,,city-us,37767,37.609,-77.373,6703
-27753,Mechanicsville,NJ,,city-us,20125,40.426,-74.169,12804
-27752,Mechanicsville,NJ,,city-us,9411,40.486,-74.279,16092
-27760,Mechanicsville,MD,,city-us,1857,38.443,-76.744,5016
-27747,Mechanicsville,IA,,city-us,1006,41.904,-91.255,3412
-27755,Mechanicsville,CT,,city-us,630,41.951,-71.885,560
-27758,Mechanicsville,PA,,city-us,464,40.690,-76.186,2178
-27746,Mechanicsville,PA,,city-us,0,40.344,-75.075,213
-27748,Mechanicsville,GA,,city-us,0,33.928,-84.242,358
-27750,Mechanicsville,NJ,,city-us,0,40.616,-74.731,880
-27751,Mechanicsville,VA,,city-us,0,39.220,-77.744,167
-27754,Mechanicsville,DE,,city-us,0,39.717,-75.784,457
-27756,Mechanicsville,VA,,city-us,0,37.713,-79.406,143
-27757,Mechanicsville,VA,,city-us,0,38.668,-78.788,149
-27759,Mechanicsville,MO,,city-us,0,38.693,-90.798,331
-27761,Mechanicsville,IN,,city-us,0,38.034,-87.562,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27749,Mechanicsville,VA,Hanover County,,city-us,37767,37.609,-77.373,6703
+27753,Mechanicsville,NJ,Monmouth County,,city-us,20125,40.426,-74.169,12804
+27752,Mechanicsville,NJ,Middlesex County,,city-us,9411,40.486,-74.279,16092
+27760,Mechanicsville,MD,St. Mary's County,,city-us,1857,38.443,-76.744,5016
+27747,Mechanicsville,IA,Cedar County,,city-us,1006,41.904,-91.255,3412
+27755,Mechanicsville,CT,Northeastern Connecticut Planning Region,,city-us,630,41.951,-71.885,560
+27758,Mechanicsville,PA,Schuylkill County,,city-us,464,40.690,-76.186,2178
+27746,Mechanicsville,PA,Bucks County,,city-us,0,40.344,-75.075,213
+27748,Mechanicsville,GA,Gwinnett County,,city-us,0,33.928,-84.242,358
+27750,Mechanicsville,NJ,Hunterdon County,,city-us,0,40.616,-74.731,880
+27751,Mechanicsville,VA,Loudoun County,,city-us,0,39.220,-77.744,167
+27754,Mechanicsville,DE,New Castle County,,city-us,0,39.717,-75.784,457
+27756,Mechanicsville,VA,Rockbridge County,,city-us,0,37.713,-79.406,143
+27757,Mechanicsville,VA,Rockingham County,,city-us,0,38.668,-78.788,149
+27759,Mechanicsville,MO,St. Charles County,,city-us,0,38.693,-90.798,331
+27761,Mechanicsville,IN,Vanderburgh County,,city-us,0,38.034,-87.562,344

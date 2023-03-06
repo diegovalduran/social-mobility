@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38206,Saks,AL,,city-us,9956,33.708,-85.844,2956
-38813,Sax,MN,,city-us,10,47.212,-92.603,681
-38814,Saxe,VA,,city-us,0,36.930,-78.663,326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38206,Saks,AL,Calhoun County,,city-us,9956,33.708,-85.844,2956
+38813,Sax,MN,St. Louis County,,city-us,10,47.212,-92.603,681
+38814,Saxe,VA,Charlotte County,,city-us,0,36.930,-78.663,326

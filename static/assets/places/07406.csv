@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37632,Roseville,CA,,city-us,151901,38.752,-121.288,14565
-37630,Roseville,MI,,city-us,47154,42.497,-82.937,6643
-37633,Roseville,MN,,city-us,35874,45.006,-93.157,8243
-37631,Roseville,OH,,city-us,1746,39.807,-82.076,4135
-37637,Roseville,IL,,city-us,873,40.732,-90.665,2042
-37629,Roseville,MN,,city-us,638,45.366,-94.820,216
-37635,Roseville,PA,,city-us,176,41.866,-76.957,3186
-37626,Roseville,MN,,city-us,100,45.807,-95.950,216
-37636,Roseville,ND,,city-us,90,47.454,-97.410,0
-37623,Roseville,KY,,city-us,0,36.887,-85.926,288
-37624,Roseville,WV,,city-us,0,37.928,-81.261,92
-37625,Roseville,IA,,city-us,0,43.009,-92.810,362
-37627,Roseville,KY,,city-us,0,37.717,-86.755,165
-37628,Roseville,PA,,city-us,0,41.178,-79.146,160
-37634,Roseville,VA,,city-us,0,38.465,-77.504,214
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37632,Roseville,CA,Placer County,,city-us,151901,38.752,-121.288,14565
+37630,Roseville,MI,Macomb County,,city-us,47154,42.497,-82.937,6643
+37633,Roseville,MN,Ramsey County,,city-us,35874,45.006,-93.157,8243
+37631,Roseville,OH,Muskingum County / Perry County,,city-us,1746,39.807,-82.076,4135
+37637,Roseville,IL,Warren County,,city-us,873,40.732,-90.665,2042
+37629,Roseville,MN,Kandiyohi County,,city-us,638,45.366,-94.820,216
+37635,Roseville,PA,Tioga County,,city-us,176,41.866,-76.957,3186
+37626,Roseville,MN,Grant County,,city-us,100,45.807,-95.950,216
+37636,Roseville,ND,Traill County,,city-us,90,47.454,-97.410,0
+37623,Roseville,KY,Barren County,,city-us,0,36.887,-85.926,288
+37624,Roseville,WV,Fayette County,,city-us,0,37.928,-81.261,92
+37625,Roseville,IA,Floyd County,,city-us,0,43.009,-92.810,362
+37627,Roseville,KY,Hancock County,,city-us,0,37.717,-86.755,165
+37628,Roseville,PA,Jefferson County,,city-us,0,41.178,-79.146,160
+37634,Roseville,VA,Stafford County,,city-us,0,38.465,-77.504,214

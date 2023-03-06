@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28629,Milliken,CO,,city-us,8696,40.329,-104.855,3624
-28622,Millican,OR,,city-us,150,43.879,-120.920,2233
-28628,Milliken,WV,,city-us,0,38.402,-81.546,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28629,Milliken,CO,Weld County,,city-us,8696,40.329,-104.855,3624
+28622,Millican,OR,Deschutes County,,city-us,150,43.879,-120.920,2233
+28628,Milliken,WV,Kanawha County,,city-us,0,38.402,-81.546,123

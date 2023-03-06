@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36311,Reno,NV,,city-us,268851,39.530,-119.814,41245
-36309,Reno,KS,,city-us,4313,38.053,-97.975,6226
-36305,Reno,TX,,city-us,3460,33.663,-95.462,2959
-36307,Reno,TX,,city-us,3100,32.949,-97.566,144
-36304,Reno,MI,,city-us,630,44.285,-83.817,1840
-36308,Reno,MN,,city-us,434,45.727,-95.453,1867
-36371,Reyno,AR,,city-us,395,36.363,-90.754,3011
-36300,Reno,IL,,city-us,0,38.975,-89.514,809
-36301,Reno,GA,,city-us,0,30.774,-84.292,352
-36302,Reno,IN,,city-us,0,39.710,-86.670,397
-36303,Reno,MN,,city-us,0,43.601,-91.275,610
-36306,Reno,KS,,city-us,0,39.051,-95.120,384
-36310,Reno,OH,,city-us,0,39.373,-81.396,552
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36311,Reno,NV,Washoe County,,city-us,268851,39.530,-119.814,41245
+36309,Reno,KS,Reno County,,city-us,4313,38.053,-97.975,6226
+36305,Reno,TX,Lamar County,,city-us,3460,33.663,-95.462,2959
+36307,Reno,TX,Parker County / Tarrant County,,city-us,3100,32.949,-97.566,144
+36304,Reno,MI,Iosco County,,city-us,630,44.285,-83.817,1840
+36308,Reno,MN,Pope County,,city-us,434,45.727,-95.453,1867
+36371,Reyno,AR,Randolph County,,city-us,395,36.363,-90.754,3011
+36300,Reno,IL,Bond County,,city-us,0,38.975,-89.514,809
+36301,Reno,GA,Grady County,,city-us,0,30.774,-84.292,352
+36302,Reno,IN,Hendricks County,,city-us,0,39.710,-86.670,397
+36303,Reno,MN,Houston County,,city-us,0,43.601,-91.275,610
+36306,Reno,KS,Leavenworth County,,city-us,0,39.051,-95.120,384
+36310,Reno,OH,Washington County,,city-us,0,39.373,-81.396,552

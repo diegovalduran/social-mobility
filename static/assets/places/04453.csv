@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22931,Kimballton,IA,,city-us,287,41.629,-95.073,4034
-22932,Kimballton,VA,,city-us,0,37.366,-80.677,303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22931,Kimballton,IA,Audubon County,,city-us,287,41.629,-95.073,4034
+22932,Kimballton,VA,Giles County,,city-us,0,37.366,-80.677,303

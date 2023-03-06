@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25334,Locke,NY,,city-us,1888,42.655,-76.419,4118
-25336,Locke,MI,,city-us,1801,42.734,-84.206,1896
-25333,Lock,OH,,city-us,0,40.271,-82.611,210
-25335,Locke,IN,,city-us,0,41.472,-86.012,195
-25337,Locke,CA,,city-us,0,38.251,-121.509,9634
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25334,Locke,NY,Cayuga County,,city-us,1888,42.655,-76.419,4118
+25336,Locke,MI,Ingham County,,city-us,1801,42.734,-84.206,1896
+25333,Lock,OH,Knox County,,city-us,0,40.271,-82.611,210
+25335,Locke,IN,Elkhart County,,city-us,0,41.472,-86.012,195
+25337,Locke,CA,Sacramento County,,city-us,0,38.251,-121.509,9634

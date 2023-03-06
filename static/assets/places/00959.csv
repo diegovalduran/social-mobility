@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4814,Bourbon,IN,,city-us,1694,41.296,-86.116,3893
-4812,Bourbon,MO,,city-us,1562,38.155,-91.244,3793
-4811,Bourbon,MO,,city-us,0,39.239,-92.315,451
-4813,Bourbon,IL,,city-us,0,39.746,-88.379,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4814,Bourbon,IN,Marshall County,,city-us,1694,41.296,-86.116,3893
+4812,Bourbon,MO,Crawford County,,city-us,1562,38.155,-91.244,3793
+4811,Bourbon,MO,Boone County,,city-us,0,39.239,-92.315,451
+4813,Bourbon,IL,Douglas County,,city-us,0,39.746,-88.379,123

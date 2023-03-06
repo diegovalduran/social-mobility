@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20398,Holly Ridge,NC,,city-us,4420,34.495,-77.555,3045
-20399,Holly Ridge,LA,,city-us,0,32.468,-91.627,275
-20400,Holly Ridge,MS,,city-us,0,33.446,-90.753,590
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20398,Holly Ridge,NC,Onslow County,,city-us,4420,34.495,-77.555,3045
+20399,Holly Ridge,LA,Richland Parish,,city-us,0,32.468,-91.627,275
+20400,Holly Ridge,MS,Sunflower County,,city-us,0,33.446,-90.753,590

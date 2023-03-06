@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13776,Enigma,GA,,city-us,1064,31.413,-83.329,6500
-13777,Enigma,TN,,city-us,0,36.231,-85.794,288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13776,Enigma,GA,Berrien County,,city-us,1064,31.413,-83.329,6500
+13777,Enigma,TN,Smith County,,city-us,0,36.231,-85.794,288

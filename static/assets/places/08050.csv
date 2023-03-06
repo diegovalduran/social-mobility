@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40633,Spring City,PA,,city-us,3478,40.177,-75.548,2542
-40635,Spring City,TN,,city-us,1964,35.692,-84.861,4337
-40636,Spring City,UT,,city-us,978,39.482,-111.496,4230
-40634,Spring City,MO,,city-us,286,36.987,-94.534,383
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40633,Spring City,PA,Chester County,,city-us,3478,40.177,-75.548,2542
+40635,Spring City,TN,Rhea County,,city-us,1964,35.692,-84.861,4337
+40636,Spring City,UT,Sanpete County,,city-us,978,39.482,-111.496,4230
+40634,Spring City,MO,Newton County,,city-us,286,36.987,-94.534,383

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37597,Roselle,IL,,city-us,22660,41.980,-88.086,6107
-37599,Roselle,NJ,,city-us,22432,40.664,-74.263,17292
-37845,Rozel,KS,,city-us,98,38.196,-99.403,3586
-37598,Roselle,MO,,city-us,0,37.599,-90.526,630
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37597,Roselle,IL,Cook County / DuPage County,,city-us,22660,41.980,-88.086,6107
+37599,Roselle,NJ,Union County,,city-us,22432,40.664,-74.263,17292
+37845,Rozel,KS,Pawnee County,,city-us,98,38.196,-99.403,3586
+37598,Roselle,MO,Madison County,,city-us,0,37.599,-90.526,630

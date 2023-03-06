@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20162,Hillview,KY,,city-us,8669,38.070,-85.686,2923
-20163,Hillview,IL,,city-us,91,39.451,-90.541,3607
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20162,Hillview,KY,Bullitt County,,city-us,8669,38.070,-85.686,2923
+20163,Hillview,IL,Greene County,,city-us,91,39.451,-90.541,3607

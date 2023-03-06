@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2562,Barstow,CA,,city-us,25442,34.899,-117.023,24864
-2563,Barstow,TX,,city-us,257,31.461,-103.394,2736
-2561,Barstow,IL,,city-us,89,41.518,-90.357,561
-2559,Barstow,WA,,city-us,59,48.777,-118.143,656
-2558,Barstow,MD,,city-us,0,38.527,-76.615,673
-2560,Barstow,CA,,city-us,0,36.815,-119.970,446
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2562,Barstow,CA,San Bernardino County,,city-us,25442,34.899,-117.023,24864
+2563,Barstow,TX,Ward County,,city-us,257,31.461,-103.394,2736
+2561,Barstow,IL,Rock Island County,,city-us,89,41.518,-90.357,561
+2559,Barstow,WA,Ferry County,,city-us,59,48.777,-118.143,656
+2558,Barstow,MD,Calvert County,,city-us,0,38.527,-76.615,673
+2560,Barstow,CA,Fresno County,,city-us,0,36.815,-119.970,446

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29330,Montserrat,,,country,5440,16.742,-62.187,38608
-29329,Montserrat,MO,,city-us,0,38.775,-93.622,418
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29330,Montserrat,,,,country,5440,16.742,-62.187,38608
+29329,Montserrat,MO,Johnson County,,city-us,0,38.775,-93.622,418

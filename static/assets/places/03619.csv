@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18382,Hackett,AR,,city-us,810,35.190,-94.411,2629
-18381,Hackett,WI,,city-us,187,45.605,-90.273,1941
-18380,Hackett,MN,,city-us,0,48.816,-94.719,459
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18382,Hackett,AR,Sebastian County,,city-us,810,35.190,-94.411,2629
+18381,Hackett,WI,Price County,,city-us,187,45.605,-90.273,1941
+18380,Hackett,MN,Lake of the Woods County,,city-us,0,48.816,-94.719,459

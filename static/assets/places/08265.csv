@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41778,Studley,VA,,city-us,0,37.676,-77.291,332
-41779,Studley,KS,,city-us,0,39.353,-100.164,1539
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41778,Studley,VA,Hanover County,,city-us,0,37.676,-77.291,332
+41779,Studley,KS,Sheridan County,,city-us,0,39.353,-100.164,1539

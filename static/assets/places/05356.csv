@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27456,McClellan,IL,,city-us,1205,38.256,-88.984,1735
-27455,McClellan,ND,,city-us,29,48.151,-99.396,133
-27611,McLellan,FL,,city-us,0,30.987,-86.886,166
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27456,McClellan,IL,Jefferson County,,city-us,1205,38.256,-88.984,1735
+27455,McClellan,ND,Benson County,,city-us,29,48.151,-99.396,133
+27611,McLellan,FL,Santa Rosa County,,city-us,0,30.987,-86.886,166

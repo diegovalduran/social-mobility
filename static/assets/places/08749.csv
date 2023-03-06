@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43889,Union Valley,TX,,city-us,398,32.927,-96.251,6265
-43890,Union Valley,TX,,city-us,0,32.697,-96.301,100
-43891,Union Valley,NJ,,city-us,0,40.304,-74.456,429
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43889,Union Valley,TX,Hunt County,,city-us,398,32.927,-96.251,6265
+43890,Union Valley,TX,Kaufman County,,city-us,0,32.697,-96.301,100
+43891,Union Valley,NJ,Middlesex County,,city-us,0,40.304,-74.456,429

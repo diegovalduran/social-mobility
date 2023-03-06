@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4065,Birmingham,,United Kingdom,city-international,1137100,52.480,-1.903,73225
-4059,Birmingham,AL,,city-us,197575,33.527,-86.797,57028
-4061,Birmingham,MI,,city-us,21755,42.547,-83.211,15058
-4053,Birmingham,PA,,city-us,4074,39.898,-75.602,4306
-4064,Birmingham,IA,,city-us,373,40.879,-91.947,3409
-4054,Birmingham,MO,,city-us,189,39.166,-94.451,3372
-4062,Birmingham,IL,,city-us,135,40.238,-90.853,275
-4057,Birmingham,PA,,city-us,89,40.648,-78.195,2640
-4052,Birmingham,NJ,,city-us,33,39.976,-74.710,716
-4055,Birmingham,OH,,city-us,0,41.330,-82.361,666
-4056,Birmingham,OH,,city-us,0,40.175,-81.437,423
-4058,Birmingham,KS,,city-us,0,39.409,-95.683,266
-4060,Birmingham,IN,,city-us,0,40.938,-86.109,431
-4063,Birmingham,IN,,city-us,0,40.469,-86.849,276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4065,Birmingham,,,United Kingdom,city-international,1137100,52.480,-1.903,73225
+4059,Birmingham,AL,Jefferson County / Shelby County,,city-us,197575,33.527,-86.797,57028
+4061,Birmingham,MI,Oakland County,,city-us,21755,42.547,-83.211,15058
+4053,Birmingham,PA,Chester County,,city-us,4074,39.898,-75.602,4306
+4064,Birmingham,IA,Van Buren County,,city-us,373,40.879,-91.947,3409
+4054,Birmingham,MO,Clay County,,city-us,189,39.166,-94.451,3372
+4062,Birmingham,IL,Schuyler County,,city-us,135,40.238,-90.853,275
+4057,Birmingham,PA,Huntingdon County,,city-us,89,40.648,-78.195,2640
+4052,Birmingham,NJ,Burlington County,,city-us,33,39.976,-74.710,716
+4055,Birmingham,OH,Erie County,,city-us,0,41.330,-82.361,666
+4056,Birmingham,OH,Guernsey County,,city-us,0,40.175,-81.437,423
+4058,Birmingham,KS,Jackson County,,city-us,0,39.409,-95.683,266
+4060,Birmingham,IN,Miami County,,city-us,0,40.938,-86.109,431
+4063,Birmingham,IN,Tippecanoe County,,city-us,0,40.469,-86.849,276

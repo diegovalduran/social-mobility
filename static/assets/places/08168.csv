@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41343,Stateline,NV,,city-us,916,38.962,-119.940,6353
-41344,Stateline,KS,,city-us,234,39.318,-102.004,1314
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41343,Stateline,NV,Douglas County,,city-us,916,38.962,-119.940,6353
+41344,Stateline,KS,Sherman County,,city-us,234,39.318,-102.004,1314

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28117,Mica,WA,,city-us,563,47.556,-117.212,2558
-28115,Mica,VA,,city-us,0,38.141,-77.356,88
-28116,Mica,GA,,city-us,0,34.358,-84.273,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28117,Mica,WA,Spokane County,,city-us,563,47.556,-117.212,2558
+28115,Mica,VA,Caroline County,,city-us,0,38.141,-77.356,88
+28116,Mica,GA,Cherokee County,,city-us,0,34.358,-84.273,252

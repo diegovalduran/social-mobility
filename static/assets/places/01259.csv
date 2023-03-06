@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6360,Buxton,ME,,city-us,8454,43.636,-70.539,6715
-6355,Buxton,NC,,city-us,1551,35.268,-75.542,3854
-6357,Buxton,ND,,city-us,356,47.602,-97.097,4214
-6356,Buxton,MS,,city-us,0,34.548,-90.198,85
-6358,Buxton,OR,,city-us,0,45.689,-123.190,1530
-6359,Buxton,KS,,city-us,0,37.448,-95.921,350
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6360,Buxton,ME,York County,,city-us,8454,43.636,-70.539,6715
+6355,Buxton,NC,Dare County,,city-us,1551,35.268,-75.542,3854
+6357,Buxton,ND,Traill County,,city-us,356,47.602,-97.097,4214
+6356,Buxton,MS,Panola County,,city-us,0,34.548,-90.198,85
+6358,Buxton,OR,Washington County,,city-us,0,45.689,-123.190,1530
+6359,Buxton,KS,Wilson County,,city-us,0,37.448,-95.921,350

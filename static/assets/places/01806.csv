@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9230,Cold Spring,KY,,city-us,6243,39.022,-84.440,3215
-9235,Cold Spring,MN,,city-us,4205,45.456,-94.429,7467
-9233,Cold Spring,NY,,city-us,1993,41.420,-73.955,16591
-9232,Cold Spring,WI,,city-us,727,42.891,-88.774,2206
-9234,Cold Spring,IL,,city-us,323,39.302,-88.965,579
-9229,Cold Spring,TN,,city-us,0,35.660,-85.146,247
-9231,Cold Spring,NJ,,city-us,0,38.967,-74.916,1960
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9230,Cold Spring,KY,Campbell County,,city-us,6243,39.022,-84.440,3215
+9235,Cold Spring,MN,Stearns County,,city-us,4205,45.456,-94.429,7467
+9233,Cold Spring,NY,Putnam County,,city-us,1993,41.420,-73.955,16591
+9232,Cold Spring,WI,Jefferson County,,city-us,727,42.891,-88.774,2206
+9234,Cold Spring,IL,Shelby County,,city-us,323,39.302,-88.965,579
+9229,Cold Spring,TN,Bledsoe County,,city-us,0,35.660,-85.146,247
+9231,Cold Spring,NJ,Cape May County,,city-us,0,38.967,-74.916,1960

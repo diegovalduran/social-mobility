@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24279,Ledyard,CT,,city-us,15336,41.431,-72.020,8942
-24277,Ledyard,NY,,city-us,1646,42.745,-76.674,3891
-24278,Ledyard,IA,,city-us,121,43.422,-94.162,3162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24279,Ledyard,CT,Southeastern Connecticut Planning Region,,city-us,15336,41.431,-72.020,8942
+24277,Ledyard,NY,Cayuga County,,city-us,1646,42.745,-76.674,3891
+24278,Ledyard,IA,Kossuth County,,city-us,121,43.422,-94.162,3162

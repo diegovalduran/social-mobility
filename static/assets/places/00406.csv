@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2163,Bacon,MO,,city-us,605,37.993,-94.119,169
-2161,Bacon,MO,,city-us,0,38.709,-92.454,261
-2162,Bacon,IN,,city-us,0,38.411,-86.433,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2163,Bacon,MO,Vernon County,,city-us,605,37.993,-94.119,169
+2161,Bacon,MO,Moniteau County,,city-us,0,38.709,-92.454,261
+2162,Bacon,IN,Orange County,,city-us,0,38.411,-86.433,262

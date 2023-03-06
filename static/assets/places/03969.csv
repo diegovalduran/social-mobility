@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20300,Holbrook,NY,,city-us,26958,40.812,-73.078,5314
-20297,Holbrook,MA,,city-us,11344,42.155,-71.009,6032
-20296,Holbrook,AZ,,city-us,4842,34.902,-110.158,9880
-20293,Holbrook,NE,,city-us,204,40.305,-100.010,3227
-20294,Holbrook,PA,,city-us,0,39.855,-80.314,259
-20295,Holbrook,OR,,city-us,0,45.660,-122.863,408
-20298,Holbrook,ID,,city-us,0,42.162,-112.654,675
-20299,Holbrook,WV,,city-us,0,39.152,-80.856,122
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20300,Holbrook,NY,Suffolk County,,city-us,26958,40.812,-73.078,5314
+20297,Holbrook,MA,Norfolk County,,city-us,11344,42.155,-71.009,6032
+20296,Holbrook,AZ,Navajo County,,city-us,4842,34.902,-110.158,9880
+20293,Holbrook,NE,Furnas County,,city-us,204,40.305,-100.010,3227
+20294,Holbrook,PA,Greene County,,city-us,0,39.855,-80.314,259
+20295,Holbrook,OR,Multnomah County,,city-us,0,45.660,-122.863,408
+20298,Holbrook,ID,Oneida County,,city-us,0,42.162,-112.654,675
+20299,Holbrook,WV,Ritchie County,,city-us,0,39.152,-80.856,122

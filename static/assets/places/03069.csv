@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15423,Forreston,IL,,city-us,1976,42.163,-89.638,547
-15389,Foreston,MN,,city-us,560,45.734,-93.711,3273
-15421,Forreston,TX,,city-us,238,32.256,-96.865,2236
-15388,Foreston,SC,,city-us,133,33.632,-80.062,664
-15422,Forreston,MS,,city-us,0,33.337,-88.314,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15423,Forreston,IL,Ogle County,,city-us,1976,42.163,-89.638,547
+15389,Foreston,MN,Mille Lacs County,,city-us,560,45.734,-93.711,3273
+15421,Forreston,TX,Ellis County,,city-us,238,32.256,-96.865,2236
+15388,Foreston,SC,Clarendon County,,city-us,133,33.632,-80.062,664
+15422,Forreston,MS,Lowndes County,,city-us,0,33.337,-88.314,146

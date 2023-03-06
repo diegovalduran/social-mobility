@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17645,Grant City,MO,,city-us,828,40.487,-94.411,3919
-17643,Grant City,IN,,city-us,0,39.866,-85.543,445
-17644,Grant City,IA,,city-us,0,42.267,-94.888,341
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17645,Grant City,MO,Worth County,,city-us,828,40.487,-94.411,3919
+17643,Grant City,IN,Henry County,,city-us,0,39.866,-85.543,445
+17644,Grant City,IA,Sac County,,city-us,0,42.267,-94.888,341

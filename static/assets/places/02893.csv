@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14516,Falkner,MS,,city-us,441,34.842,-88.934,2202
-14718,Faulkner,MD,,city-us,0,38.439,-76.978,559
-14719,Faulkner,KS,,city-us,0,37.101,-95.012,333
-14720,Faulkner,IA,,city-us,0,42.615,-93.086,266
-14721,Faulkner,WV,,city-us,0,38.909,-79.726,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14516,Falkner,MS,Tippah County,,city-us,441,34.842,-88.934,2202
+14718,Faulkner,MD,Charles County,,city-us,0,38.439,-76.978,559
+14719,Faulkner,KS,Cherokee County,,city-us,0,37.101,-95.012,333
+14720,Faulkner,IA,Franklin County,,city-us,0,42.615,-93.086,266
+14721,Faulkner,WV,Randolph County,,city-us,0,38.909,-79.726,91

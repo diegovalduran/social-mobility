@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44285,Vaucluse,SC,,city-us,111,33.612,-81.810,2179
-44286,Vaucluse,VA,,city-us,0,39.058,-78.247,141
-44287,Vaucluse,WV,,city-us,0,39.385,-81.231,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44285,Vaucluse,SC,Aiken County,,city-us,111,33.612,-81.810,2179
+44286,Vaucluse,VA,Frederick County,,city-us,0,39.058,-78.247,141
+44287,Vaucluse,WV,Pleasants County,,city-us,0,39.385,-81.231,144

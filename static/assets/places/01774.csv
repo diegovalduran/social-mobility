@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9414,Colton,CA,,city-us,54285,34.074,-117.314,9280
-9413,Colton,SD,,city-us,725,43.786,-96.928,4406
-9115,Coalton,OH,,city-us,441,39.114,-82.611,3289
-9416,Colton,WA,,city-us,397,46.568,-117.129,4101
-9415,Colton,NY,,city-us,314,44.553,-74.940,5241
-9116,Coalton,IL,,city-us,312,39.283,-89.301,2317
-9114,Coalton,KY,,city-us,0,38.370,-82.769,1322
-9117,Coalton,OK,,city-us,0,35.498,-95.939,768
-9411,Colton,OR,,city-us,0,45.204,-122.448,1286
-9412,Colton,OH,,city-us,0,41.465,-83.953,360
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9414,Colton,CA,San Bernardino County,,city-us,54285,34.074,-117.314,9280
+9413,Colton,SD,Minnehaha County,,city-us,725,43.786,-96.928,4406
+9115,Coalton,OH,Jackson County,,city-us,441,39.114,-82.611,3289
+9416,Colton,WA,Whitman County,,city-us,397,46.568,-117.129,4101
+9415,Colton,NY,St. Lawrence County,,city-us,314,44.553,-74.940,5241
+9116,Coalton,IL,Montgomery County,,city-us,312,39.283,-89.301,2317
+9114,Coalton,KY,Boyd County,,city-us,0,38.370,-82.769,1322
+9117,Coalton,OK,Okmulgee County,,city-us,0,35.498,-95.939,768
+9411,Colton,OR,Clackamas County,,city-us,0,45.204,-122.448,1286
+9412,Colton,OH,Henry County,,city-us,0,41.465,-83.953,360

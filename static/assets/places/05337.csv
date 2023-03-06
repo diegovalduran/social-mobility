@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27363,Mayland,TN,,city-us,371,36.047,-85.200,718
-27365,Mayland,ND,,city-us,66,48.416,-101.647,0
-27364,Mayland,VA,,city-us,0,38.589,-78.771,322
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27363,Mayland,TN,Cumberland County,,city-us,371,36.047,-85.200,718
+27365,Mayland,ND,Ward County,,city-us,66,48.416,-101.647,0
+27364,Mayland,VA,Rockingham County,,city-us,0,38.589,-78.771,322

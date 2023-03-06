@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29730,Mount Carbon,WV,,city-us,392,38.138,-81.286,424
-29732,Mount Carbon,PA,,city-us,88,40.675,-76.188,6159
-29731,Mount Carbon,IL,,city-us,0,37.752,-89.321,111
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29730,Mount Carbon,WV,Fayette County,,city-us,392,38.138,-81.286,424
+29732,Mount Carbon,PA,Schuylkill County,,city-us,88,40.675,-76.188,6159
+29731,Mount Carbon,IL,Jackson County,,city-us,0,37.752,-89.321,111

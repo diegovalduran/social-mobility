@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39038,Seaman,OH,,city-us,979,38.942,-83.572,4191
-39133,Seman,AL,,city-us,0,32.733,-86.112,412
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39038,Seaman,OH,Adams County,,city-us,979,38.942,-83.572,4191
+39133,Seman,AL,Elmore County,,city-us,0,32.733,-86.112,412

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7827,Chance,MD,,city-us,344,38.172,-75.941,2248
-7824,Chance,OK,,city-us,263,36.060,-94.655,325
-7823,Chance,KY,,city-us,0,36.975,-85.325,119
-7825,Chance,VA,,city-us,0,38.057,-77.008,162
-7826,Chance,SD,,city-us,0,45.410,-102.281,499
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7827,Chance,MD,Somerset County,,city-us,344,38.172,-75.941,2248
+7824,Chance,OK,Adair County,,city-us,263,36.060,-94.655,325
+7823,Chance,KY,Adair County,,city-us,0,36.975,-85.325,119
+7825,Chance,VA,Essex County,,city-us,0,38.057,-77.008,162
+7826,Chance,SD,Perkins County,,city-us,0,45.410,-102.281,499

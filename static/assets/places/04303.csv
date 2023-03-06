@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22246,Johnstonville,CA,,city-us,1221,40.384,-120.587,2970
-22245,Johnstonville,GA,,city-us,0,33.089,-84.074,354
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22246,Johnstonville,CA,Lassen County,,city-us,1221,40.384,-120.587,2970
+22245,Johnstonville,GA,Lamar County,,city-us,0,33.089,-84.074,354

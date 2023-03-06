@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1457,Arkwright,SC,,city-us,2480,34.924,-81.933,846
-1455,Arkwright,NY,,city-us,999,42.389,-79.248,3877
-1454,Arkwright,GA,,city-us,0,32.933,-83.703,209
-1456,Arkwright,AL,,city-us,0,33.371,-86.403,1145
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1457,Arkwright,SC,Spartanburg County,,city-us,2480,34.924,-81.933,846
+1455,Arkwright,NY,Chautauqua County,,city-us,999,42.389,-79.248,3877
+1454,Arkwright,GA,Bibb County,,city-us,0,32.933,-83.703,209
+1456,Arkwright,AL,Shelby County,,city-us,0,33.371,-86.403,1145

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-205,Adel,IA,,city-us,6276,41.614,-94.017,6191
-204,Adel,GA,,city-us,5507,31.137,-83.423,4073
-213,Adell,WI,,city-us,495,43.619,-87.952,3478
-206,Adel,OR,,city-us,0,42.178,-119.897,4569
-207,Adel,IN,,city-us,0,39.192,-86.796,777
-208,Adel,OK,,city-us,0,34.579,-95.594,1529
-212,Adele,KY,,city-us,0,37.757,-83.301,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+205,Adel,IA,Dallas County,,city-us,6276,41.614,-94.017,6191
+204,Adel,GA,Cook County,,city-us,5507,31.137,-83.423,4073
+213,Adell,WI,Sheboygan County,,city-us,495,43.619,-87.952,3478
+206,Adel,OR,Lake County,,city-us,0,42.178,-119.897,4569
+207,Adel,IN,Owen County,,city-us,0,39.192,-86.796,777
+208,Adel,OK,Pushmataha County,,city-us,0,34.579,-95.594,1529
+212,Adele,KY,Morgan County,,city-us,0,37.757,-83.301,226

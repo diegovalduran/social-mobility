@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12689,East Franklin,NJ,,city-us,8375,40.493,-74.471,388
-12688,East Franklin,PA,,city-us,3808,40.867,-79.561,2872
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12689,East Franklin,NJ,Somerset County,,city-us,8375,40.493,-74.471,388
+12688,East Franklin,PA,Armstrong County,,city-us,3808,40.867,-79.561,2872

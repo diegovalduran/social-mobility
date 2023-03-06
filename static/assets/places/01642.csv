@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8318,Chita,,Russia,city-international,347088,52.033,113.500,5707
-8317,Chita,TX,,city-us,81,30.937,-95.208,191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8318,Chita,,,Russia,city-international,347088,52.033,113.500,5707
+8317,Chita,TX,Trinity County,,city-us,81,30.937,-95.208,191

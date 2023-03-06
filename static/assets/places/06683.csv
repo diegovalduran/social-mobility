@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33953,Picture Rocks,AZ,,city-us,9084,32.346,-111.246,1847
-33952,Picture Rocks,PA,,city-us,636,41.280,-76.713,5579
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33953,Picture Rocks,AZ,Pima County,,city-us,9084,32.346,-111.246,1847
+33952,Picture Rocks,PA,Lycoming County,,city-us,636,41.280,-76.713,5579

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1805,Atkinson,NH,,city-us,7231,42.839,-71.167,5230
-1803,Atkinson,NE,,city-us,1732,42.587,-98.981,299
-1802,Atkinson,IL,,city-us,954,41.421,-90.015,1918
-1804,Atkinson,NC,,city-us,312,34.529,-78.171,2041
-1800,Atkinson,IN,,city-us,0,40.563,-87.247,2067
-1801,Atkinson,MN,,city-us,0,46.612,-92.566,504
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1805,Atkinson,NH,Rockingham County,,city-us,7231,42.839,-71.167,5230
+1803,Atkinson,NE,Holt County,,city-us,1732,42.587,-98.981,299
+1802,Atkinson,IL,Henry County,,city-us,954,41.421,-90.015,1918
+1804,Atkinson,NC,Pender County,,city-us,312,34.529,-78.171,2041
+1800,Atkinson,IN,Benton County,,city-us,0,40.563,-87.247,2067
+1801,Atkinson,MN,Carlton County,,city-us,0,46.612,-92.566,504

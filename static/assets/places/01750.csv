@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9006,Clover Bottom,MO,,city-us,0,38.504,-91.120,337
-9007,Clover Bottom,KY,,city-us,0,37.499,-84.151,603
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9006,Clover Bottom,MO,Franklin County,,city-us,0,38.504,-91.120,337
+9007,Clover Bottom,KY,Jackson County,,city-us,0,37.499,-84.151,603

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12422,Dunham,IL,,city-us,2783,42.369,-88.650,590
-12420,Dunham,MI,,city-us,0,46.383,-89.783,285
-12421,Dunham,KY,,city-us,0,37.190,-82.648,450
-12423,Dunham,OH,,city-us,0,39.335,-81.628,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12422,Dunham,IL,McHenry County,,city-us,2783,42.369,-88.650,590
+12420,Dunham,MI,Gogebic County,,city-us,0,46.383,-89.783,285
+12421,Dunham,KY,Letcher County,,city-us,0,37.190,-82.648,450
+12423,Dunham,OH,Washington County,,city-us,0,39.335,-81.628,252

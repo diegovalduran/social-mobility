@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19540,Hedrick,IA,,city-us,723,41.173,-92.309,4522
-19487,Headrick,OK,,city-us,73,34.628,-99.138,1972
-19541,Hedrick,IN,,city-us,67,40.302,-87.491,1480
-19539,Hedrick,MO,,city-us,0,37.632,-91.666,247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19540,Hedrick,IA,Keokuk County,,city-us,723,41.173,-92.309,4522
+19487,Headrick,OK,Jackson County,,city-us,73,34.628,-99.138,1972
+19541,Hedrick,IN,Warren County,,city-us,67,40.302,-87.491,1480
+19539,Hedrick,MO,Dent County,,city-us,0,37.632,-91.666,247

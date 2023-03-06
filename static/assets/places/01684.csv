@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8491,Clarington,OH,,city-us,278,39.766,-80.871,5502
-8490,Clarington,PA,,city-us,0,41.333,-79.123,352
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8491,Clarington,OH,Monroe County,,city-us,278,39.766,-80.871,5502
+8490,Clarington,PA,Forest County,,city-us,0,41.333,-79.123,352

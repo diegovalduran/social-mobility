@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9380,Cologne,,Germany,city-international,1083498,50.942,6.958,53711
-9378,Cologne,MN,,city-us,2075,44.772,-93.781,4058
-9377,Cologne,NJ,,city-us,1461,39.505,-74.613,250
-9379,Cologne,VA,,city-us,0,37.531,-76.691,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9380,Cologne,,,Germany,city-international,1083498,50.942,6.958,53711
+9378,Cologne,MN,Carver County,,city-us,2075,44.772,-93.781,4058
+9377,Cologne,NJ,Atlantic County,,city-us,1461,39.505,-74.613,250
+9379,Cologne,VA,King and Queen County,,city-us,0,37.531,-76.691,182

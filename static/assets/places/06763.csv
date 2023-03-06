@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34331,Pittsboro,NC,,city-us,4592,35.720,-79.177,12373
-34332,Pittsboro,IN,,city-us,3930,39.864,-86.467,12415
-34330,Pittsboro,MS,,city-us,144,33.940,-89.338,2437
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34331,Pittsboro,NC,Chatham County,,city-us,4592,35.720,-79.177,12373
+34332,Pittsboro,IN,Hendricks County,,city-us,3930,39.864,-86.467,12415
+34330,Pittsboro,MS,Calhoun County,,city-us,144,33.940,-89.338,2437

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7931,Charlestown,IN,,city-us,8147,38.453,-85.670,10308
-7937,Charlestown,RI,,city-us,8072,41.371,-71.680,6630
-7930,Charlestown,PA,,city-us,6223,40.091,-75.560,3181
-7934,Charlestown,OH,,city-us,1749,41.170,-81.138,1740
-7929,Charlestown,MD,,city-us,1495,39.574,-75.975,4097
-7936,Charlestown,NH,,city-us,929,43.239,-72.425,9046
-7928,Charlestown,WI,,city-us,760,44.013,-88.071,2426
-7935,Charlestown,MN,,city-us,177,44.246,-95.184,1925
-7932,Charlestown,PA,,city-us,0,40.088,-75.554,169
-7933,Charlestown,NJ,,city-us,0,40.689,-74.972,274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7931,Charlestown,IN,Clark County,,city-us,8147,38.453,-85.670,10308
+7937,Charlestown,RI,Washington County,,city-us,8072,41.371,-71.680,6630
+7930,Charlestown,PA,Chester County,,city-us,6223,40.091,-75.560,3181
+7934,Charlestown,OH,Portage County,,city-us,1749,41.170,-81.138,1740
+7929,Charlestown,MD,Cecil County,,city-us,1495,39.574,-75.975,4097
+7936,Charlestown,NH,Sullivan County,,city-us,929,43.239,-72.425,9046
+7928,Charlestown,WI,Calumet County,,city-us,760,44.013,-88.071,2426
+7935,Charlestown,MN,Redwood County,,city-us,177,44.246,-95.184,1925
+7932,Charlestown,PA,Franklin County,,city-us,0,40.088,-75.554,169
+7933,Charlestown,NJ,Hunterdon County,,city-us,0,40.689,-74.972,274

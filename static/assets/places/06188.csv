@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31582,Norwich,,United Kingdom,city-international,195971,52.630,1.297,92203
-31580,Norwich,CT,,city-us,40014,41.548,-72.089,19409
-31571,Norwich,OH,,city-us,37669,40.036,-83.151,119
-31570,Norwich,NY,,city-us,6840,42.531,-75.524,10473
-31572,Norwich,OH,,city-us,1034,41.106,-82.785,119
-31581,Norwich,VT,,city-us,673,43.715,-72.308,8046
-31576,Norwich,MI,,city-us,638,44.473,-84.977,177
-31578,Norwich,MI,,city-us,553,43.681,-85.633,177
-31575,Norwich,PA,,city-us,494,41.671,-78.353,2006
-31573,Norwich,KS,,city-us,433,37.457,-97.849,3792
-31577,Norwich,OH,,city-us,89,39.985,-81.792,3154
-31574,Norwich,ND,,city-us,0,48.246,-100.989,812
-31579,Norwich,IA,,city-us,0,40.742,-95.257,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31582,Norwich,,,United Kingdom,city-international,195971,52.630,1.297,92203
+31580,Norwich,CT,Southeastern Connecticut Planning Region,,city-us,40014,41.548,-72.089,19409
+31571,Norwich,OH,Franklin County,,city-us,37669,40.036,-83.151,119
+31570,Norwich,NY,Chenango County,,city-us,6840,42.531,-75.524,10473
+31572,Norwich,OH,Huron County,,city-us,1034,41.106,-82.785,119
+31581,Norwich,VT,Windsor County,,city-us,673,43.715,-72.308,8046
+31576,Norwich,MI,Missaukee County,,city-us,638,44.473,-84.977,177
+31578,Norwich,MI,Newaygo County,,city-us,553,43.681,-85.633,177
+31575,Norwich,PA,McKean County,,city-us,494,41.671,-78.353,2006
+31573,Norwich,KS,Kingman County,,city-us,433,37.457,-97.849,3792
+31577,Norwich,OH,Muskingum County,,city-us,89,39.985,-81.792,3154
+31574,Norwich,ND,McHenry County,,city-us,0,48.246,-100.989,812
+31579,Norwich,IA,Page County,,city-us,0,40.742,-95.257,248

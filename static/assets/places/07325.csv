@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37170,Rockbridge,WI,,city-us,721,43.448,-90.364,2318
-37167,Rockbridge,IL,,city-us,174,39.269,-90.204,1967
-37168,Rockbridge,OH,,city-us,54,39.580,-82.522,680
-37169,Rockbridge,MO,,city-us,0,36.789,-92.409,2284
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37170,Rockbridge,WI,Richland County,,city-us,721,43.448,-90.364,2318
+37167,Rockbridge,IL,Greene County,,city-us,174,39.269,-90.204,1967
+37168,Rockbridge,OH,Hocking County,,city-us,54,39.580,-82.522,680
+37169,Rockbridge,MO,Ozark County,,city-us,0,36.789,-92.409,2284

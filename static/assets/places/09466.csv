@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47869,Wyola,MT,,city-us,191,45.129,-107.393,2627
-47870,Wyola,PA,,city-us,0,40.008,-75.419,431
-47871,Wyola,AR,,city-us,0,35.879,-94.047,191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47869,Wyola,MT,Big Horn County,,city-us,191,45.129,-107.393,2627
+47870,Wyola,PA,Delaware County,,city-us,0,40.008,-75.419,431
+47871,Wyola,AR,Washington County,,city-us,0,35.879,-94.047,191

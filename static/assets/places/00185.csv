@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-954,Amelia,OH,,city-us,12575,39.029,-84.221,6702
-957,Amelia,LA,,city-us,1995,29.666,-91.102,2372
-955,Amelia,NE,,city-us,0,42.236,-98.912,386
-956,Amelia,WV,,city-us,0,38.289,-81.296,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+954,Amelia,OH,Clermont County,,city-us,12575,39.029,-84.221,6702
+957,Amelia,LA,St. Mary Parish,,city-us,1995,29.666,-91.102,2372
+955,Amelia,NE,Holt County,,city-us,0,42.236,-98.912,386
+956,Amelia,WV,Kanawha County,,city-us,0,38.289,-81.296,88

@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3469,Bennington,VT,,city-us,8772,42.878,-73.197,24142
-3476,Bennington,OH,,city-us,3281,40.384,-82.794,131
-3481,Bennington,NY,,city-us,3259,42.817,-78.388,9244
-3479,Bennington,MI,,city-us,3168,42.919,-84.218,3758
-3471,Bennington,NE,,city-us,2000,41.365,-96.158,3388
-3474,Bennington,OH,,city-us,1735,40.226,-82.612,131
-3475,Bennington,IL,,city-us,1570,40.971,-89.104,412
-3478,Bennington,KS,,city-us,635,39.031,-97.594,4946
-3473,Bennington,NH,,city-us,297,43.003,-71.925,4848
-3470,Bennington,OK,,city-us,286,34.005,-96.038,3289
-3477,Bennington,MN,,city-us,147,43.631,-92.509,2594
-3468,Bennington,ID,,city-us,127,42.391,-111.322,1048
-3472,Bennington,IL,,city-us,0,38.524,-88.131,128
-3480,Bennington,IN,,city-us,0,38.859,-85.141,630
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3469,Bennington,VT,Bennington County,,city-us,8772,42.878,-73.197,24142
+3476,Bennington,OH,Morrow County,,city-us,3281,40.384,-82.794,131
+3481,Bennington,NY,Wyoming County,,city-us,3259,42.817,-78.388,9244
+3479,Bennington,MI,Shiawassee County,,city-us,3168,42.919,-84.218,3758
+3471,Bennington,NE,Douglas County,,city-us,2000,41.365,-96.158,3388
+3474,Bennington,OH,Licking County,,city-us,1735,40.226,-82.612,131
+3475,Bennington,IL,Marshall County,,city-us,1570,40.971,-89.104,412
+3478,Bennington,KS,Ottawa County,,city-us,635,39.031,-97.594,4946
+3473,Bennington,NH,Hillsborough County,,city-us,297,43.003,-71.925,4848
+3470,Bennington,OK,Bryan County,,city-us,286,34.005,-96.038,3289
+3477,Bennington,MN,Mower County,,city-us,147,43.631,-92.509,2594
+3468,Bennington,ID,Bear Lake County,,city-us,127,42.391,-111.322,1048
+3472,Bennington,IL,Edwards County,,city-us,0,38.524,-88.131,128
+3480,Bennington,IN,Switzerland County,,city-us,0,38.859,-85.141,630

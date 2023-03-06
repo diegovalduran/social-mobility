@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12533,Duvall,WA,,city-us,8410,47.742,-121.986,4934
-12532,Duvall,WI,,city-us,0,44.661,-87.713,297
-12534,Duvall,OH,,city-us,0,39.772,-82.959,234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12533,Duvall,WA,King County,,city-us,8410,47.742,-121.986,4934
+12532,Duvall,WI,Kewaunee County,,city-us,0,44.661,-87.713,297
+12534,Duvall,OH,Pickaway County,,city-us,0,39.772,-82.959,234

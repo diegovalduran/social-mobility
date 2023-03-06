@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22519,Kapioma,KS,,city-us,259,39.485,-95.506,623
-6856,Capioma,KS,,city-us,0,39.777,-95.820,321
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22519,Kapioma,KS,Atchison County,,city-us,259,39.485,-95.506,623
+6856,Capioma,KS,Nemaha County,,city-us,0,39.777,-95.820,321

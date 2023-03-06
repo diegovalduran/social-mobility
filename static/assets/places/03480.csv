@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17657,Grantville,GA,,city-us,3276,33.235,-84.836,3005
-17659,Grantville,KS,,city-us,256,39.083,-95.561,1786
-17658,Grantville,PA,,city-us,0,40.377,-76.644,29
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17657,Grantville,GA,Coweta County,,city-us,3276,33.235,-84.836,3005
+17659,Grantville,KS,Jefferson County,,city-us,256,39.083,-95.561,1786
+17658,Grantville,PA,Dauphin County,,city-us,0,40.377,-76.644,29

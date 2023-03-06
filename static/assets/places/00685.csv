@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3467,Bennettsville,SC,,city-us,6955,34.617,-79.685,7484
-3465,Bennettsville,IN,,city-us,0,38.426,-85.809,357
-3466,Bennettsville,IA,,city-us,0,42.360,-90.728,694
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3467,Bennettsville,SC,Marlboro County,,city-us,6955,34.617,-79.685,7484
+3465,Bennettsville,IN,Clark County,,city-us,0,38.426,-85.809,357
+3466,Bennettsville,IA,Dubuque County,,city-us,0,42.360,-90.728,694

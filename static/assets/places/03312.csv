@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16782,Gilead,OH,,city-us,5943,40.554,-82.832,1339
-16778,Gilead,MI,,city-us,661,41.783,-85.109,2541
-16783,Gilead,ME,,city-us,195,44.403,-70.943,3927
-16784,Gilead,NE,,city-us,31,40.146,-97.413,2756
-16779,Gilead,IL,,city-us,0,39.124,-90.667,352
-16780,Gilead,MO,,city-us,0,40.019,-91.682,262
-16781,Gilead,IN,,city-us,0,40.970,-86.019,377
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16782,Gilead,OH,Morrow County,,city-us,5943,40.554,-82.832,1339
+16778,Gilead,MI,Branch County,,city-us,661,41.783,-85.109,2541
+16783,Gilead,ME,Oxford County,,city-us,195,44.403,-70.943,3927
+16784,Gilead,NE,Thayer County,,city-us,31,40.146,-97.413,2756
+16779,Gilead,IL,Calhoun County,,city-us,0,39.124,-90.667,352
+16780,Gilead,MO,Lewis County,,city-us,0,40.019,-91.682,262
+16781,Gilead,IN,Miami County,,city-us,0,40.970,-86.019,377

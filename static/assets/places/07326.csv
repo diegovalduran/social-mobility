@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37172,Rockdale,KY,,city-us,288649,38.419,-82.698,638
-37179,Rockdale,TX,,city-us,5398,30.655,-97.001,4930
-37180,Rockdale,IL,,city-us,1990,41.506,-88.115,1881
-37174,Rockdale,PA,,city-us,1360,41.807,-79.967,2817
-37175,Rockdale,WI,,city-us,210,42.972,-89.031,3253
-37177,Rockdale,SD,,city-us,142,44.407,-99.135,0
-37173,Rockdale,WV,,city-us,0,40.305,-80.580,104
-37176,Rockdale,IN,,city-us,0,39.317,-84.847,247
-37178,Rockdale,PA,,city-us,0,41.808,-79.966,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37172,Rockdale,KY,Boyd County,,city-us,288649,38.419,-82.698,638
+37179,Rockdale,TX,Milam County,,city-us,5398,30.655,-97.001,4930
+37180,Rockdale,IL,Will County,,city-us,1990,41.506,-88.115,1881
+37174,Rockdale,PA,Crawford County,,city-us,1360,41.807,-79.967,2817
+37175,Rockdale,WI,Dane County,,city-us,210,42.972,-89.031,3253
+37177,Rockdale,SD,Hand County,,city-us,142,44.407,-99.135,0
+37173,Rockdale,WV,Brooke County,,city-us,0,40.305,-80.580,104
+37176,Rockdale,IN,Franklin County,,city-us,0,39.317,-84.847,247
+37178,Rockdale,PA,Jefferson County,,city-us,0,41.808,-79.966,146

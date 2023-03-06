@@ -10,7 +10,7 @@
 	$: bottom = features.slice(max);
 	$: others = bottom[0]?.properties;
 	$: suffix = others?.name.endsWith("s") ? "" : "s";
-	$: summary = `Other ${others?.name}${suffix}`;
+	$: otherLabel = `Other ${others?.name}${suffix}`;
 </script>
 
 <div class="key">
@@ -59,28 +59,11 @@
 							><span class="text">maybe</span></span
 						>
 					</span>
-					<span class="label">{summary}</span>
+					<span class="label">{otherLabel}</span>
 				</li>
 			{/if}
 		</ul>
 	</div>
-
-	{#if others}
-		<div class="bottom">
-			<details>
-				<summary style:color={others.fill}>{summary}</summary>
-				<ul>
-					{#each bottom as { properties }}
-						{@const { level, fill, label } = properties}
-						{@const background = fill}
-						<li style:color={fill} class={level}>
-							<span class="text">{label}</span>
-						</li>
-					{/each}
-				</ul>
-			</details>
-		</div>
-	{/if}
 </div>
 
 <style>
@@ -100,6 +83,7 @@
 		flex-direction: column;
 		font-weight: 700;
 		letter-spacing: 0.02em;
+		flex: 1 1 0;
 		width: calc(22.22% - 16px);
 	}
 
@@ -141,11 +125,11 @@
 	}
 
 	span.text {
-		display: none;
+		visibility: hidden;
 	}
 
 	.top li:nth-of-type(2) span.text {
-		display: inline-block;
+		visibility: visible;
 	}
 
 	/* .top li:first-of-type:before {

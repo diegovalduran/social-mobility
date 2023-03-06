@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40982,St. Clairsville,OH,,city-us,5048,40.081,-80.900,7318
-40981,St. Clairsville,PA,,city-us,75,40.157,-78.510,2331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40982,St. Clairsville,OH,Belmont County,,city-us,5048,40.081,-80.900,7318
+40981,St. Clairsville,PA,Bedford County,,city-us,75,40.157,-78.510,2331

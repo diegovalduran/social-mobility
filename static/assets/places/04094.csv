@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21052,Huntingdon,PA,,city-us,6818,40.485,-78.010,12559
-21051,Huntingdon,TN,,city-us,4433,36.001,-88.428,3764
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21052,Huntingdon,PA,Huntingdon County,,city-us,6818,40.485,-78.010,12559
+21051,Huntingdon,TN,Carroll County,,city-us,4433,36.001,-88.428,3764

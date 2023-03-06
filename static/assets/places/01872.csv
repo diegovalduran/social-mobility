@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9619,Condit,MI,,city-us,1123,42.196,-84.763,2533
-9620,Condit,IL,,city-us,470,40.257,-88.280,2530
-9621,Condit,OH,,city-us,0,40.260,-82.788,358
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9619,Condit,MI,Calhoun County,,city-us,1123,42.196,-84.763,2533
+9620,Condit,IL,Champaign County,,city-us,470,40.257,-88.280,2530
+9621,Condit,OH,Delaware County,,city-us,0,40.260,-82.788,358

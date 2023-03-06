@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32053,Ogema,WI,,city-us,728,45.426,-90.385,2157
-32052,Ogema,MN,,city-us,365,46.034,-92.477,1989
-32051,Ogema,MN,,city-us,205,47.103,-95.925,2879
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32053,Ogema,WI,Price County,,city-us,728,45.426,-90.385,2157
+32052,Ogema,MN,Pine County,,city-us,365,46.034,-92.477,1989
+32051,Ogema,MN,Becker County,,city-us,205,47.103,-95.925,2879

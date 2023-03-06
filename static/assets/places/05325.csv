@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27293,Max,ND,,city-us,331,47.821,-101.299,4545
-27291,Max,NE,,city-us,153,40.114,-101.403,493
-27290,Max,IN,,city-us,0,40.010,-86.582,255
-27292,Max,MN,,city-us,0,47.615,-94.068,668
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27293,Max,ND,McLean County,,city-us,331,47.821,-101.299,4545
+27291,Max,NE,Dundy County,,city-us,153,40.114,-101.403,493
+27290,Max,IN,Boone County,,city-us,0,40.010,-86.582,255
+27292,Max,MN,Itasca County,,city-us,0,47.615,-94.068,668

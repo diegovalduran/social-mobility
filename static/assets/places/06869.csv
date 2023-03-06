@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34964,Poplar Springs,MD,,city-us,48,39.343,-77.096,756
-34963,Poplar Springs,GA,,city-us,0,34.904,-85.139,146
-34965,Poplar Springs,NC,,city-us,0,36.280,-80.321,168
-34966,Poplar Springs,NC,,city-us,0,36.311,-80.833,633
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34964,Poplar Springs,MD,Howard County,,city-us,48,39.343,-77.096,756
+34963,Poplar Springs,GA,Catoosa County,,city-us,0,34.904,-85.139,146
+34965,Poplar Springs,NC,Stokes County,,city-us,0,36.280,-80.321,168
+34966,Poplar Springs,NC,Surry County,,city-us,0,36.311,-80.833,633

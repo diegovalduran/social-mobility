@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45705,Weaver,AL,,city-us,3401,33.752,-85.811,3127
-46353,Wever,IA,,city-us,101,40.711,-91.231,3389
-45710,Weaver,SD,,city-us,36,43.300,-99.949,0
-45706,Weaver,IL,,city-us,0,39.418,-87.599,695
-45707,Weaver,KS,,city-us,0,38.962,-95.067,671
-45708,Weaver,IN,,city-us,0,40.465,-85.729,5568
-45709,Weaver,WV,,city-us,0,38.969,-79.931,153
-45711,Weaver,MN,,city-us,0,44.215,-91.929,862
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45705,Weaver,AL,Calhoun County,,city-us,3401,33.752,-85.811,3127
+46353,Wever,IA,Lee County,,city-us,101,40.711,-91.231,3389
+45710,Weaver,SD,Tripp County,,city-us,36,43.300,-99.949,0
+45706,Weaver,IL,Clark County,,city-us,0,39.418,-87.599,695
+45707,Weaver,KS,Douglas County,,city-us,0,38.962,-95.067,671
+45708,Weaver,IN,Grant County,,city-us,0,40.465,-85.729,5568
+45709,Weaver,WV,Randolph County,,city-us,0,38.969,-79.931,153
+45711,Weaver,MN,Wabasha County,,city-us,0,44.215,-91.929,862

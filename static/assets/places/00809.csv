@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4152,Black Oak,AR,,city-us,230,35.839,-90.368,3558
-4154,Black Oak,AR,,city-us,209,35.983,-94.080,369
-4151,Black Oak,MO,,city-us,0,39.547,-93.839,300
-4153,Black Oak,IN,,city-us,0,38.663,-87.081,190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4152,Black Oak,AR,Craighead County,,city-us,230,35.839,-90.368,3558
+4154,Black Oak,AR,Washington County,,city-us,209,35.983,-94.080,369
+4151,Black Oak,MO,Caldwell County,,city-us,0,39.547,-93.839,300
+4153,Black Oak,IN,Daviess County,,city-us,0,38.663,-87.081,190

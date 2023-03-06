@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20302,Holcomb,KS,,city-us,2228,37.986,-100.989,6220
-20301,Holcomb,MO,,city-us,612,36.399,-90.024,3581
-20307,Holcombe,WI,,city-us,161,45.224,-91.117,467
-20305,Holcomb,IL,,city-us,149,42.065,-89.096,427
-20303,Holcomb,MS,,city-us,117,33.761,-89.976,1513
-20304,Holcomb,WV,,city-us,0,38.256,-80.601,229
-20306,Holcomb,WA,,city-us,0,46.572,-123.618,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20302,Holcomb,KS,Finney County,,city-us,2228,37.986,-100.989,6220
+20301,Holcomb,MO,Dunklin County,,city-us,612,36.399,-90.024,3581
+20307,Holcombe,WI,Chippewa County,,city-us,161,45.224,-91.117,467
+20305,Holcomb,IL,Ogle County,,city-us,149,42.065,-89.096,427
+20303,Holcomb,MS,Grenada County,,city-us,117,33.761,-89.976,1513
+20304,Holcomb,WV,Nicholas County,,city-us,0,38.256,-80.601,229
+20306,Holcomb,WA,Pacific County,,city-us,0,46.572,-123.618,239

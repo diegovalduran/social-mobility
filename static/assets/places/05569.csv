@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28624,Milligan,NE,,city-us,241,40.500,-97.388,3273
-28623,Milligan,TX,,city-us,0,33.186,-96.547,95
-28625,Milligan,FL,,city-us,0,30.753,-86.641,443
-28626,Milligan,IN,,city-us,0,39.846,-87.038,390
-28627,Milligan,OH,,city-us,0,39.728,-82.102,768
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28624,Milligan,NE,Fillmore County,,city-us,241,40.500,-97.388,3273
+28623,Milligan,TX,Collin County,,city-us,0,33.186,-96.547,95
+28625,Milligan,FL,Okaloosa County,,city-us,0,30.753,-86.641,443
+28626,Milligan,IN,Parke County,,city-us,0,39.846,-87.038,390
+28627,Milligan,OH,Perry County,,city-us,0,39.728,-82.102,768

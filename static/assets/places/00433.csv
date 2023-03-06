@@ -1,22 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2302,Baldwin,NY,,city-us,33352,40.656,-73.609,12843
-2287,Baldwin,PA,,city-us,21197,40.338,-79.979,4165
-2304,Baldwin,MN,,city-us,7248,45.518,-93.552,1924
-2305,Baldwin,WI,,city-us,4288,44.967,-92.374,2761
-2289,Baldwin,GA,,city-us,3755,34.488,-83.547,5995
-2306,Baldwin,LA,,city-us,1719,29.838,-91.544,3103
-2298,Baldwin,MI,,city-us,1616,44.304,-83.481,216
-2294,Baldwin,ME,,city-us,1538,43.839,-70.745,4750
-2296,Baldwin,FL,,city-us,1373,30.303,-81.975,6362
-2300,Baldwin,MI,,city-us,935,43.901,-85.852,6315
-2293,Baldwin,NY,,city-us,805,42.102,-76.657,9162
-2295,Baldwin,MI,,city-us,698,46.002,-87.098,216
-2303,Baldwin,IL,,city-us,301,38.183,-89.843,1971
-2299,Baldwin,IA,,city-us,99,42.074,-90.842,3276
-2290,Baldwin,ND,,city-us,34,47.200,-97.892,131
-2288,Baldwin,MD,,city-us,0,39.495,-76.470,317
-2291,Baldwin,VA,,city-us,0,37.740,-79.851,86
-2292,Baldwin,ND,,city-us,0,47.027,-100.749,1022
-2297,Baldwin,WV,,city-us,0,38.973,-80.754,170
-2301,Baldwin,KY,,city-us,0,37.747,-84.425,172
-2307,Baldwin,AR,,city-us,0,36.048,-94.097,250
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2302,Baldwin,NY,Nassau County,,city-us,33352,40.656,-73.609,12843
+2287,Baldwin,PA,Allegheny County,,city-us,21197,40.338,-79.979,4165
+2304,Baldwin,MN,Sherburne County,,city-us,7248,45.518,-93.552,1924
+2305,Baldwin,WI,St. Croix County,,city-us,4288,44.967,-92.374,2761
+2289,Baldwin,GA,Banks County / Habersham County,,city-us,3755,34.488,-83.547,5995
+2306,Baldwin,LA,St. Mary Parish,,city-us,1719,29.838,-91.544,3103
+2298,Baldwin,MI,Iosco County,,city-us,1616,44.304,-83.481,216
+2294,Baldwin,ME,Cumberland County,,city-us,1538,43.839,-70.745,4750
+2296,Baldwin,FL,Duval County,,city-us,1373,30.303,-81.975,6362
+2300,Baldwin,MI,Lake County,,city-us,935,43.901,-85.852,6315
+2293,Baldwin,NY,Chemung County,,city-us,805,42.102,-76.657,9162
+2295,Baldwin,MI,Delta County,,city-us,698,46.002,-87.098,216
+2303,Baldwin,IL,Randolph County,,city-us,301,38.183,-89.843,1971
+2299,Baldwin,IA,Jackson County,,city-us,99,42.074,-90.842,3276
+2290,Baldwin,ND,Barnes County,,city-us,34,47.200,-97.892,131
+2288,Baldwin,MD,Baltimore County,,city-us,0,39.495,-76.470,317
+2291,Baldwin,VA,Botetourt County,,city-us,0,37.740,-79.851,86
+2292,Baldwin,ND,Burleigh County,,city-us,0,47.027,-100.749,1022
+2297,Baldwin,WV,Gilmer County,,city-us,0,38.973,-80.754,170
+2301,Baldwin,KY,Madison County,,city-us,0,37.747,-84.425,172
+2307,Baldwin,AR,Washington County,,city-us,0,36.048,-94.097,250

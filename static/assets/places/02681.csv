@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13305,Elk City,OK,,city-us,11570,35.412,-99.404,13257
-13309,Elk City,KS,,city-us,254,37.289,-95.912,3484
-13307,Elk City,ID,,city-us,100,45.827,-115.437,1031
-13304,Elk City,WV,,city-us,0,39.142,-80.108,329
-13306,Elk City,NE,,city-us,0,41.372,-96.268,233
-13308,Elk City,OR,,city-us,0,44.619,-123.879,2771
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13305,Elk City,OK,Beckham County,,city-us,11570,35.412,-99.404,13257
+13309,Elk City,KS,Montgomery County,,city-us,254,37.289,-95.912,3484
+13307,Elk City,ID,Idaho County,,city-us,100,45.827,-115.437,1031
+13304,Elk City,WV,Barbour County,,city-us,0,39.142,-80.108,329
+13306,Elk City,NE,Douglas County,,city-us,0,41.372,-96.268,233
+13308,Elk City,OR,Lincoln County,,city-us,0,44.619,-123.879,2771

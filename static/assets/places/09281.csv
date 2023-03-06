@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46801,Wilber,NE,,city-us,1960,40.481,-96.961,4025
-46805,Wilbur,WA,,city-us,914,47.759,-118.706,6084
-46800,Wilber,MI,,city-us,721,44.378,-83.518,1887
-46803,Wilbur,SD,,city-us,103,43.637,-98.844,0
-46804,Wilbur,OR,,city-us,0,43.321,-123.341,935
-46806,Wilbur,IN,,city-us,0,39.516,-86.489,377
-46807,Wilbur,WV,,city-us,0,39.376,-80.824,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46801,Wilber,NE,Saline County,,city-us,1960,40.481,-96.961,4025
+46805,Wilbur,WA,Lincoln County,,city-us,914,47.759,-118.706,6084
+46800,Wilber,MI,Iosco County,,city-us,721,44.378,-83.518,1887
+46803,Wilbur,SD,Brule County,,city-us,103,43.637,-98.844,0
+46804,Wilbur,OR,Douglas County,,city-us,0,43.321,-123.341,935
+46806,Wilbur,IN,Morgan County,,city-us,0,39.516,-86.489,377
+46807,Wilbur,WV,Tyler County,,city-us,0,39.376,-80.824,225

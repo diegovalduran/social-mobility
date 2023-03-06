@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26667,Manson,IA,,city-us,1695,42.529,-94.534,5138
-26668,Manson,WA,,city-us,1294,47.885,-120.158,904
-26669,Manson,IN,,city-us,0,40.240,-86.590,402
-26670,Manson,NC,,city-us,0,36.422,-78.283,665
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26667,Manson,IA,Calhoun County,,city-us,1695,42.529,-94.534,5138
+26668,Manson,WA,Chelan County,,city-us,1294,47.885,-120.158,904
+26669,Manson,IN,Clinton County,,city-us,0,40.240,-86.590,402
+26670,Manson,NC,Warren County,,city-us,0,36.422,-78.283,665

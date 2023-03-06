@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47398,Wiseman,AK,,city-us,13,67.410,-150.107,3553
-47397,Wiseman,AR,,city-us,0,36.234,-91.816,322
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47398,Wiseman,AK,Yukon-Koyukuk Census Area,,city-us,13,67.410,-150.107,3553
+47397,Wiseman,AR,Izard County,,city-us,0,36.234,-91.816,322

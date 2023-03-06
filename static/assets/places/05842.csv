@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30064,Mulga,AL,,city-us,777,33.550,-86.974,2361
-30063,Mulga,OH,,city-us,0,39.117,-82.469,277
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30064,Mulga,AL,Jefferson County,,city-us,777,33.550,-86.974,2361
+30063,Mulga,OH,Jackson County,,city-us,0,39.117,-82.469,277

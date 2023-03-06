@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16117,Fullerton,CA,,city-us,141874,33.870,-117.925,31638
-16115,Fullerton,PA,,city-us,16131,40.632,-75.473,4420
-16116,Fullerton,NE,,city-us,1257,41.363,-97.969,3830
-16114,Fullerton,ND,,city-us,59,46.165,-98.427,3426
-16112,Fullerton,MD,,city-us,0,39.372,-76.511,2927
-16113,Fullerton,IL,,city-us,0,40.210,-88.744,178
-16118,Fullerton,LA,,city-us,0,30.993,-92.982,4282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16117,Fullerton,CA,Orange County,,city-us,141874,33.870,-117.925,31638
+16115,Fullerton,PA,Lehigh County,,city-us,16131,40.632,-75.473,4420
+16116,Fullerton,NE,Nance County,,city-us,1257,41.363,-97.969,3830
+16114,Fullerton,ND,Dickey County,,city-us,59,46.165,-98.427,3426
+16112,Fullerton,MD,Baltimore County,,city-us,0,39.372,-76.511,2927
+16113,Fullerton,IL,DeWitt County,,city-us,0,40.210,-88.744,178
+16118,Fullerton,LA,Vernon Parish,,city-us,0,30.993,-92.982,4282

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8780,Clements,CA,,city-us,857,38.191,-121.088,406
-8779,Clements,MN,,city-us,154,44.382,-95.052,2997
-8777,Clements,WV,,city-us,0,39.053,-80.014,76
-8778,Clements,KS,,city-us,0,38.300,-96.741,2977
-8781,Clements,MD,,city-us,0,38.326,-76.727,287
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8780,Clements,CA,San Joaquin County,,city-us,857,38.191,-121.088,406
+8779,Clements,MN,Redwood County,,city-us,154,44.382,-95.052,2997
+8777,Clements,WV,Barbour County,,city-us,0,39.053,-80.014,76
+8778,Clements,KS,Chase County,,city-us,0,38.300,-96.741,2977
+8781,Clements,MD,St. Mary's County,,city-us,0,38.326,-76.727,287

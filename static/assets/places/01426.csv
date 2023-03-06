@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7188,Caseyville,IL,,city-us,4389,38.637,-90.026,2996
-7187,Caseyville,MS,,city-us,0,31.673,-90.656,353
-7189,Caseyville,KY,,city-us,0,37.538,-88.064,736
-22533,Kaseyville,MO,,city-us,0,39.624,-92.663,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7188,Caseyville,IL,St. Clair County,,city-us,4389,38.637,-90.026,2996
+7187,Caseyville,MS,Lincoln County,,city-us,0,31.673,-90.656,353
+7189,Caseyville,KY,Union County,,city-us,0,37.538,-88.064,736
+22533,Kaseyville,MO,Macon County,,city-us,0,39.624,-92.663,261

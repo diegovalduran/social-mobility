@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40037,Slick Rock,KY,,city-us,0,37.006,-85.798,86
-40038,Slick Rock,CO,,city-us,0,38.043,-108.889,597
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40037,Slick Rock,KY,Barren County,,city-us,0,37.006,-85.798,86
+40038,Slick Rock,CO,San Miguel County,,city-us,0,38.043,-108.889,597

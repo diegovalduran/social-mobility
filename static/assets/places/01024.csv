@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5113,Brazos,TX,,city-us,0,32.661,-98.122,174
-5114,Brazos,NM,,city-us,0,36.751,-106.561,444
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5113,Brazos,TX,Palo Pinto County,,city-us,0,32.661,-98.122,174
+5114,Brazos,NM,Rio Arriba County,,city-us,0,36.751,-106.561,444

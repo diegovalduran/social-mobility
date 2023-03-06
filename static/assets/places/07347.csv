@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37307,Rocky Hill,CT,,city-us,20746,41.657,-72.662,4590
-37310,Rocky Hill,NJ,,city-us,736,40.400,-74.634,14116
-37306,Rocky Hill,KY,,city-us,0,36.940,-86.071,375
-37308,Rocky Hill,KY,,city-us,0,37.069,-86.136,1035
-37309,Rocky Hill,OH,,city-us,0,38.989,-82.545,689
-37311,Rocky Hill,CA,,city-us,0,36.287,-119.085,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37307,Rocky Hill,CT,Capitol Planning Region,,city-us,20746,41.657,-72.662,4590
+37310,Rocky Hill,NJ,Somerset County,,city-us,736,40.400,-74.634,14116
+37306,Rocky Hill,KY,Barren County,,city-us,0,36.940,-86.071,375
+37308,Rocky Hill,KY,Edmonson County,,city-us,0,37.069,-86.136,1035
+37309,Rocky Hill,OH,Jackson County,,city-us,0,38.989,-82.545,689
+37311,Rocky Hill,CA,Tulare County,,city-us,0,36.287,-119.085,119

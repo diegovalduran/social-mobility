@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34817,Point,PA,,city-us,3818,40.932,-76.773,2010
-34818,Point,TX,,city-us,765,32.932,-95.871,2534
-34816,Point,MS,,city-us,0,32.311,-88.891,521
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34817,Point,PA,Northumberland County,,city-us,3818,40.932,-76.773,2010
+34818,Point,TX,Rains County,,city-us,765,32.932,-95.871,2534
+34816,Point,MS,Lauderdale County,,city-us,0,32.311,-88.891,521

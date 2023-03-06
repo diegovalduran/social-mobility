@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4891,Box Springs,GA,,city-us,184,32.533,-84.661,1026
-4889,Box Springs,AR,,city-us,0,33.262,-93.368,89
-4890,Box Springs,CA,,city-us,0,33.947,-117.296,3369
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4891,Box Springs,GA,Talbot County,,city-us,184,32.533,-84.661,1026
+4889,Box Springs,AR,Columbia County,,city-us,0,33.262,-93.368,89
+4890,Box Springs,CA,Riverside County,,city-us,0,33.947,-117.296,3369

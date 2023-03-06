@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43200,Tracy,CA,,city-us,95387,37.740,-121.425,14828
-43196,Tracy,MN,,city-us,2066,44.233,-95.619,4193
-43199,Tracy,MO,,city-us,291,39.377,-94.793,3328
-43194,Tracy,MT,,city-us,98,47.413,-111.154,412
-43193,Tracy,KY,,city-us,0,36.798,-85.971,81
-43195,Tracy,IN,,city-us,0,41.485,-86.683,327
-43197,Tracy,IA,,city-us,0,41.276,-92.876,480
-43198,Tracy,NJ,,city-us,0,40.303,-74.384,399
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43200,Tracy,CA,San Joaquin County,,city-us,95387,37.740,-121.425,14828
+43196,Tracy,MN,Lyon County,,city-us,2066,44.233,-95.619,4193
+43199,Tracy,MO,Platte County,,city-us,291,39.377,-94.793,3328
+43194,Tracy,MT,Cascade County,,city-us,98,47.413,-111.154,412
+43193,Tracy,KY,Barren County,,city-us,0,36.798,-85.971,81
+43195,Tracy,IN,LaPorte County,,city-us,0,41.485,-86.683,327
+43197,Tracy,IA,Marion County,,city-us,0,41.276,-92.876,480
+43198,Tracy,NJ,Middlesex County,,city-us,0,40.303,-74.384,399

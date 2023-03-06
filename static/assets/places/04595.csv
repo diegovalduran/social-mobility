@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23538,Lake Arrowhead,CA,,city-us,9647,34.248,-117.189,12510
-23539,Lake Arrowhead,ME,,city-us,3007,43.664,-70.735,2891
-23536,Lake Arrowhead,WI,,city-us,837,44.204,-89.845,152
-23537,Lake Arrowhead,MO,,city-us,190,39.484,-94.319,2538
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23538,Lake Arrowhead,CA,San Bernardino County,,city-us,9647,34.248,-117.189,12510
+23539,Lake Arrowhead,ME,York County,,city-us,3007,43.664,-70.735,2891
+23536,Lake Arrowhead,WI,Adams County,,city-us,837,44.204,-89.845,152
+23537,Lake Arrowhead,MO,Clinton County,,city-us,190,39.484,-94.319,2538

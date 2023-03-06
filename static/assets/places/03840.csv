@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19671,Henning,TN,,city-us,880,35.673,-89.573,4146
-19672,Henning,MN,,city-us,860,46.322,-95.445,3539
-19673,Henning,IL,,city-us,207,40.305,-87.701,2260
-19670,Henning,WV,,city-us,0,37.896,-80.360,134
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19671,Henning,TN,Lauderdale County,,city-us,880,35.673,-89.573,4146
+19672,Henning,MN,Otter Tail County,,city-us,860,46.322,-95.445,3539
+19673,Henning,IL,Vermilion County,,city-us,207,40.305,-87.701,2260
+19670,Henning,WV,Greenbrier County,,city-us,0,37.896,-80.360,134

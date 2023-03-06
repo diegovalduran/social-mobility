@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28814,Mineral City,OH,,city-us,644,40.601,-81.361,3477
-28811,Mineral City,IN,,city-us,0,38.994,-86.880,313
-28812,Mineral City,WV,,city-us,0,37.734,-81.824,230
-28813,Mineral City,MO,,city-us,0,37.716,-90.534,312
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28814,Mineral City,OH,Tuscarawas County,,city-us,644,40.601,-81.361,3477
+28811,Mineral City,IN,Greene County,,city-us,0,38.994,-86.880,313
+28812,Mineral City,WV,Logan County,,city-us,0,37.734,-81.824,230
+28813,Mineral City,MO,St. Francois County,,city-us,0,37.716,-90.534,312

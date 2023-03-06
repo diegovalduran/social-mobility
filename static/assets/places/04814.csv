@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24556,Level,MD,,city-us,0,39.580,-76.193,283
-24557,Level,OH,,city-us,0,39.285,-84.050,468
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24556,Level,MD,Harford County,,city-us,0,39.580,-76.193,283
+24557,Level,OH,Warren County,,city-us,0,39.285,-84.050,468

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44256,Vanderbilt,MI,,city-us,518,45.143,-84.660,4193
-44254,Vanderbilt,PA,,city-us,408,40.033,-79.661,2103
-44255,Vanderbilt,TX,,city-us,395,28.822,-96.616,2847
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44256,Vanderbilt,MI,Otsego County,,city-us,518,45.143,-84.660,4193
+44254,Vanderbilt,PA,Fayette County,,city-us,408,40.033,-79.661,2103
+44255,Vanderbilt,TX,Jackson County,,city-us,395,28.822,-96.616,2847

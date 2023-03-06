@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9374,Colmar,KY,,city-us,0,36.666,-83.652,88
-9375,Colmar,IL,,city-us,0,40.345,-90.891,234
-9376,Colmar,PA,,city-us,0,40.267,-75.254,824
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9374,Colmar,KY,Bell County,,city-us,0,36.666,-83.652,88
+9375,Colmar,IL,McDonough County,,city-us,0,40.345,-90.891,234
+9376,Colmar,PA,Montgomery County,,city-us,0,40.267,-75.254,824

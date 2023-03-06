@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9214,Colburn,WI,,city-us,856,45.040,-91.045,3312
-9212,Colburn,WI,,city-us,217,44.110,-89.678,2010
-9216,Colburn,IN,,city-us,164,40.519,-86.714,646
-9213,Colburn,ID,,city-us,0,48.397,-116.535,245
-9215,Colburn,IN,,city-us,0,41.549,-86.268,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9214,Colburn,WI,Chippewa County,,city-us,856,45.040,-91.045,3312
+9212,Colburn,WI,Adams County,,city-us,217,44.110,-89.678,2010
+9216,Colburn,IN,Tippecanoe County,,city-us,164,40.519,-86.714,646
+9213,Colburn,ID,Bonner County,,city-us,0,48.397,-116.535,245
+9215,Colburn,IN,St. Joseph County,,city-us,0,41.549,-86.268,246

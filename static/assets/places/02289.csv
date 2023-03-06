@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11518,Denio,OR,,city-us,34,41.990,-118.633,3734
-11519,Denio,NV,,city-us,0,41.990,-118.634,3734
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11518,Denio,OR,Harney County,,city-us,34,41.990,-118.633,3734
+11519,Denio,NV,Humboldt County,,city-us,0,41.990,-118.634,3734

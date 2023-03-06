@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19661,Hendrickson,MN,,city-us,317,47.194,-94.872,2028
-19662,Hendrickson,ND,,city-us,50,48.159,-100.830,0
-19660,Hendrickson,MO,,city-us,0,36.904,-90.469,751
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19661,Hendrickson,MN,Hubbard County,,city-us,317,47.194,-94.872,2028
+19662,Hendrickson,ND,McHenry County,,city-us,50,48.159,-100.830,0
+19660,Hendrickson,MO,Butler County,,city-us,0,36.904,-90.469,751

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15484,Foss,OK,,city-us,102,35.454,-99.170,4113
-15483,Foss,OR,,city-us,0,45.696,-123.797,695
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15484,Foss,OK,Washita County,,city-us,102,35.454,-99.170,4113
+15483,Foss,OR,Tillamook County,,city-us,0,45.696,-123.797,695

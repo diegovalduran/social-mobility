@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22375,Joshua,TX,,city-us,8098,32.462,-97.388,7178
-22374,Joshua,IL,,city-us,422,40.589,-90.158,1016
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22375,Joshua,TX,Johnson County,,city-us,8098,32.462,-97.388,7178
+22374,Joshua,IL,Fulton County,,city-us,422,40.589,-90.158,1016

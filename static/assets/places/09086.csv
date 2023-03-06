@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45836,Wellford,SC,,city-us,3415,34.951,-82.106,2406
-45834,Wellford,WV,,city-us,0,38.531,-81.340,259
-45835,Wellford,VA,,city-us,0,37.886,-76.766,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45836,Wellford,SC,Spartanburg County,,city-us,3415,34.951,-82.106,2406
+45834,Wellford,WV,Kanawha County,,city-us,0,38.531,-81.340,259
+45835,Wellford,VA,Richmond County,,city-us,0,37.886,-76.766,92

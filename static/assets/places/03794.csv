@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19436,Hazard,KY,,city-us,5111,37.250,-83.193,4428
-19437,Hazard,NE,,city-us,59,41.091,-99.079,3538
-19438,Hazard,WA,,city-us,0,47.878,-117.519,689
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19436,Hazard,KY,Perry County,,city-us,5111,37.250,-83.193,4428
+19437,Hazard,NE,Sherman County,,city-us,59,41.091,-99.079,3538
+19438,Hazard,WA,Spokane County,,city-us,0,47.878,-117.519,689

@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20798,Houlton,ME,,city-us,6088,46.140,-67.842,11505
-20454,Holton,KS,,city-us,3329,39.465,-95.736,6350
-20457,Holton,MI,,city-us,2514,43.421,-86.104,4822
-20455,Holton,WI,,city-us,855,44.996,-90.248,1831
-20458,Holton,IN,,city-us,422,39.075,-85.387,3261
-20799,Houlton,WI,,city-us,39,45.061,-92.791,326
-20456,Holton,WV,,city-us,0,39.602,-78.070,468
-20459,Holton,LA,,city-us,0,30.744,-90.364,145
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20798,Houlton,ME,Aroostook County,,city-us,6088,46.140,-67.842,11505
+20454,Holton,KS,Jackson County,,city-us,3329,39.465,-95.736,6350
+20457,Holton,MI,Muskegon County,,city-us,2514,43.421,-86.104,4822
+20455,Holton,WI,Marathon County,,city-us,855,44.996,-90.248,1831
+20458,Holton,IN,Ripley County,,city-us,422,39.075,-85.387,3261
+20799,Houlton,WI,St. Croix County,,city-us,39,45.061,-92.791,326
+20456,Holton,WV,Morgan County,,city-us,0,39.602,-78.070,468
+20459,Holton,LA,Tangipahoa Parish,,city-us,0,30.744,-90.364,145

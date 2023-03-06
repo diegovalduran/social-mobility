@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9544,Comstock,MI,,city-us,14854,42.297,-85.499,8028
-9545,Comstock,MN,,city-us,120,48.228,-96.566,1876
-9542,Comstock,MN,,city-us,100,46.659,-96.748,2801
-9543,Comstock,NE,,city-us,69,41.557,-99.241,3522
-9541,Comstock,WI,,city-us,0,45.478,-92.075,360
-9546,Comstock,TX,,city-us,0,29.684,-101.173,1633
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9544,Comstock,MI,Kalamazoo County,,city-us,14854,42.297,-85.499,8028
+9545,Comstock,MN,Marshall County,,city-us,120,48.228,-96.566,1876
+9542,Comstock,MN,Clay County,,city-us,100,46.659,-96.748,2801
+9543,Comstock,NE,Custer County,,city-us,69,41.557,-99.241,3522
+9541,Comstock,WI,Barron County,,city-us,0,45.478,-92.075,360
+9546,Comstock,TX,Val Verde County,,city-us,0,29.684,-101.173,1633

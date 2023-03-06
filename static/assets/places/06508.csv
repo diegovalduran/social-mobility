@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33181,Parkland,WA,,city-us,38092,47.155,-122.434,4304
-33178,Parkland,FL,,city-us,35265,26.310,-80.237,3952
-33179,Parkland,WI,,city-us,1240,46.648,-91.998,2367
-33180,Parkland,OK,,city-us,0,35.840,-96.842,1234
-33182,Parkland,IL,,city-us,0,40.462,-89.751,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33181,Parkland,WA,Pierce County,,city-us,38092,47.155,-122.434,4304
+33178,Parkland,FL,Broward County,,city-us,35265,26.310,-80.237,3952
+33179,Parkland,WI,Douglas County,,city-us,1240,46.648,-91.998,2367
+33180,Parkland,OK,Lincoln County,,city-us,0,35.840,-96.842,1234
+33182,Parkland,IL,Tazewell County,,city-us,0,40.462,-89.751,184

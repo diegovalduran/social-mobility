@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27700,Meadowbrook,VA,,city-us,19574,37.449,-77.474,284
-27708,Meadowbrook,AL,,city-us,9688,33.404,-86.691,3557
-27706,Meadowbrook,CA,,city-us,3874,33.726,-117.285,2223
-27707,Meadowbrook,WI,,city-us,138,45.675,-91.133,1902
-27701,Meadowbrook,WV,,city-us,0,39.352,-80.319,243
-27702,Meadowbrook,WV,,city-us,0,38.381,-81.562,174
-27703,Meadowbrook,IL,,city-us,0,38.898,-90.006,367
-27704,Meadowbrook,PA,,city-us,0,40.112,-75.078,1060
-27705,Meadowbrook,DE,,city-us,0,39.753,-75.723,216
-27709,Meadowbrook,IN,,city-us,0,40.420,-86.811,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27700,Meadowbrook,VA,Chesterfield County,,city-us,19574,37.449,-77.474,284
+27708,Meadowbrook,AL,Shelby County,,city-us,9688,33.404,-86.691,3557
+27706,Meadowbrook,CA,Riverside County,,city-us,3874,33.726,-117.285,2223
+27707,Meadowbrook,WI,Sawyer County,,city-us,138,45.675,-91.133,1902
+27701,Meadowbrook,WV,Harrison County,,city-us,0,39.352,-80.319,243
+27702,Meadowbrook,WV,Kanawha County,,city-us,0,38.381,-81.562,174
+27703,Meadowbrook,IL,Madison County,,city-us,0,38.898,-90.006,367
+27704,Meadowbrook,PA,Montgomery County,,city-us,0,40.112,-75.078,1060
+27705,Meadowbrook,DE,New Castle County,,city-us,0,39.753,-75.723,216
+27709,Meadowbrook,IN,Tippecanoe County,,city-us,0,40.420,-86.811,271

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32718,Otway,OH,,city-us,93,38.866,-83.187,3701
-32716,Ottway,TN,,city-us,0,36.267,-82.867,252
-32717,Otway,NC,,city-us,0,34.776,-76.558,593
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32718,Otway,OH,Scioto County,,city-us,93,38.866,-83.187,3701
+32716,Ottway,TN,Greene County,,city-us,0,36.267,-82.867,252
+32717,Otway,NC,Carteret County,,city-us,0,34.776,-76.558,593

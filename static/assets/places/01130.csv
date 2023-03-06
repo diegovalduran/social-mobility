@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5628,Browns Valley,MN,,city-us,546,45.595,-96.833,5434
-5626,Browns Valley,MN,,city-us,132,45.542,-96.710,2486
-5627,Browns Valley,IN,,city-us,0,39.903,-86.992,468
-5629,Browns Valley,CA,,city-us,0,39.242,-121.409,1665
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5628,Browns Valley,MN,Traverse County,,city-us,546,45.595,-96.833,5434
+5626,Browns Valley,MN,Big Stone County,,city-us,132,45.542,-96.710,2486
+5627,Browns Valley,IN,Montgomery County,,city-us,0,39.903,-86.992,468
+5629,Browns Valley,CA,Yuba County,,city-us,0,39.242,-121.409,1665

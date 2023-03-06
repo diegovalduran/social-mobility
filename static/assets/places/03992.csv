@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20440,Holstein,IA,,city-us,1477,42.489,-95.545,3978
-20439,Holstein,NE,,city-us,187,40.465,-98.652,3253
-20441,Holstein,MO,,city-us,0,38.655,-91.171,357
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20440,Holstein,IA,Ida County,,city-us,1477,42.489,-95.545,3978
+20439,Holstein,NE,Adams County,,city-us,187,40.465,-98.652,3253
+20441,Holstein,MO,Warren County,,city-us,0,38.655,-91.171,357

@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32266,Omaha,NE,,city-us,487300,41.259,-95.938,65789
-32271,Omaha,GA,,city-us,1611,32.146,-85.013,2512
-32272,Omaha,NE,,city-us,1032,42.147,-96.479,238
-32268,Omaha,TX,,city-us,936,33.181,-94.744,2080
-32267,Omaha,IL,,city-us,423,37.885,-88.320,948
-32264,Omaha,AR,,city-us,130,36.452,-93.189,5423
-32265,Omaha,VA,,city-us,0,37.097,-82.435,257
-32269,Omaha,MO,,city-us,0,40.532,-92.801,287
-32270,Omaha,AL,,city-us,0,33.303,-85.310,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32266,Omaha,NE,Douglas County,,city-us,487300,41.259,-95.938,65789
+32271,Omaha,GA,Stewart County,,city-us,1611,32.146,-85.013,2512
+32272,Omaha,NE,Thurston County,,city-us,1032,42.147,-96.479,238
+32268,Omaha,TX,Morris County,,city-us,936,33.181,-94.744,2080
+32267,Omaha,IL,Gallatin County,,city-us,423,37.885,-88.320,948
+32264,Omaha,AR,Boone County,,city-us,130,36.452,-93.189,5423
+32265,Omaha,VA,Dickenson County,,city-us,0,37.097,-82.435,257
+32269,Omaha,MO,Putnam County,,city-us,0,40.532,-92.801,287
+32270,Omaha,AL,Randolph County,,city-us,0,33.303,-85.310,82

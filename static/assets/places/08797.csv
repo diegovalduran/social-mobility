@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44161,Valley Hill,NC,,city-us,2262,35.298,-82.483,2330
-44160,Valley Hill,MS,,city-us,0,33.504,-90.061,395
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44161,Valley Hill,NC,Henderson County,,city-us,2262,35.298,-82.483,2330
+44160,Valley Hill,MS,Carroll County,,city-us,0,33.504,-90.061,395

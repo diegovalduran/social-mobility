@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39061,Sebring,FL,,city-us,11087,27.496,-81.441,9866
-39062,Sebring,OH,,city-us,4177,40.923,-81.019,4234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39061,Sebring,FL,Highlands County,,city-us,11087,27.496,-81.441,9866
+39062,Sebring,OH,Mahoning County,,city-us,4177,40.923,-81.019,4234

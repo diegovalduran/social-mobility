@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3914,Big Falls,MN,,city-us,174,48.191,-93.807,3057
-3915,Big Falls,WI,,city-us,113,45.614,-90.971,1721
-3916,Big Falls,WI,,city-us,59,44.616,-89.016,2915
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3914,Big Falls,MN,Koochiching County,,city-us,174,48.191,-93.807,3057
+3915,Big Falls,WI,Rusk County,,city-us,113,45.614,-90.971,1721
+3916,Big Falls,WI,Waupaca County,,city-us,59,44.616,-89.016,2915

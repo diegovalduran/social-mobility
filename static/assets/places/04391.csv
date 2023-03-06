@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22689,Kendrick,ID,,city-us,291,46.614,-116.647,3130
-22690,Kendrick,OK,,city-us,91,35.785,-96.778,2045
-22688,Kendrick,MS,,city-us,0,34.970,-88.382,308
-22691,Kendrick,FL,,city-us,0,29.254,-82.168,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22689,Kendrick,ID,Latah County,,city-us,291,46.614,-116.647,3130
+22690,Kendrick,OK,Lincoln County,,city-us,91,35.785,-96.778,2045
+22688,Kendrick,MS,Alcorn County,,city-us,0,34.970,-88.382,308
+22691,Kendrick,FL,Marion County,,city-us,0,29.254,-82.168,262

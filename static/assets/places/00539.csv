@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2767,Bayfield,CO,,city-us,2887,37.226,-107.598,2637
-2765,Bayfield,WI,,city-us,779,46.880,-90.954,6243
-2766,Bayfield,IN,,city-us,0,41.275,-85.707,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2767,Bayfield,CO,La Plata County,,city-us,2887,37.226,-107.598,2637
+2765,Bayfield,WI,Bayfield County,,city-us,779,46.880,-90.954,6243
+2766,Bayfield,IN,Kosciusko County,,city-us,0,41.275,-85.707,192

@@ -1,21 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37969,Russell,OH,,city-us,5433,41.470,-81.342,2734
-37970,Russell,KY,,city-us,3686,38.517,-82.698,7518
-37981,Russell,NY,,city-us,1885,44.402,-75.141,4569
-37965,Russell,GA,,city-us,1737,33.979,-83.700,635
-37966,Russell,WI,,city-us,1575,46.947,-90.847,2195
-37976,Russell,WI,,city-us,701,45.360,-89.505,2365
-37971,Russell,MA,,city-us,586,42.190,-72.859,10500
-37977,Russell,IA,,city-us,476,40.982,-93.199,4879
-37980,Russell,WI,,city-us,382,43.859,-88.103,2179
-37975,Russell,IL,,city-us,376,38.816,-87.570,409
-37978,Russell,MN,,city-us,351,44.319,-95.952,3206
-37984,Russell,AR,,city-us,183,35.363,-91.508,1819
-37979,Russell,KS,,city-us,87,38.914,-98.831,3374
-37973,Russell,ND,,city-us,40,46.503,-98.588,698
-37967,Russell,ND,,city-us,0,48.671,-100.902,698
-37968,Russell,CO,,city-us,0,37.555,-105.288,262
-37972,Russell,IL,,city-us,0,42.491,-87.912,515
-37974,Russell,MS,,city-us,0,32.411,-88.594,328
-37982,Russell,WI,,city-us,0,44.428,-91.479,244
-37983,Russell,PA,,city-us,0,41.941,-79.135,325
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37969,Russell,OH,Geauga County,,city-us,5433,41.470,-81.342,2734
+37970,Russell,KY,Greenup County,,city-us,3686,38.517,-82.698,7518
+37981,Russell,NY,St. Lawrence County,,city-us,1885,44.402,-75.141,4569
+37965,Russell,GA,Barrow County,,city-us,1737,33.979,-83.700,635
+37966,Russell,WI,Bayfield County,,city-us,1575,46.947,-90.847,2195
+37976,Russell,WI,Lincoln County,,city-us,701,45.360,-89.505,2365
+37971,Russell,MA,Hampden County,,city-us,586,42.190,-72.859,10500
+37977,Russell,IA,Lucas County,,city-us,476,40.982,-93.199,4879
+37980,Russell,WI,Sheboygan County,,city-us,382,43.859,-88.103,2179
+37975,Russell,IL,Lawrence County,,city-us,376,38.816,-87.570,409
+37978,Russell,MN,Lyon County,,city-us,351,44.319,-95.952,3206
+37984,Russell,AR,White County,,city-us,183,35.363,-91.508,1819
+37979,Russell,KS,Russell County,,city-us,87,38.914,-98.831,3374
+37973,Russell,ND,LaMoure County,,city-us,40,46.503,-98.588,698
+37967,Russell,ND,Bottineau County,,city-us,0,48.671,-100.902,698
+37968,Russell,CO,Costilla County,,city-us,0,37.555,-105.288,262
+37972,Russell,IL,Lake County,,city-us,0,42.491,-87.912,515
+37974,Russell,MS,Lauderdale County,,city-us,0,32.411,-88.594,328
+37982,Russell,WI,Trempealeau County,,city-us,0,44.428,-91.479,244
+37983,Russell,PA,Warren County,,city-us,0,41.941,-79.135,325

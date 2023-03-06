@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21498,Ione,CA,,city-us,5323,38.353,-120.933,7225
-21500,Ione,WA,,city-us,451,48.741,-117.417,4841
-21499,Ione,OR,,city-us,337,45.501,-119.825,4744
-21501,Ione,CO,,city-us,0,40.149,-104.811,297
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21498,Ione,CA,Amador County,,city-us,5323,38.353,-120.933,7225
+21500,Ione,WA,Pend Oreille County,,city-us,451,48.741,-117.417,4841
+21499,Ione,OR,Morrow County,,city-us,337,45.501,-119.825,4744
+21501,Ione,CO,Weld County,,city-us,0,40.149,-104.811,297

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6671,Camp Springs,MD,,city-us,22903,38.804,-76.907,6949
-6669,Camp Springs,KY,,city-us,0,39.002,-84.365,730
-6670,Camp Springs,NC,,city-us,0,36.296,-79.492,1247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6671,Camp Springs,MD,Prince George's County,,city-us,22903,38.804,-76.907,6949
+6669,Camp Springs,KY,Campbell County,,city-us,0,39.002,-84.365,730
+6670,Camp Springs,NC,Caswell County,,city-us,0,36.296,-79.492,1247

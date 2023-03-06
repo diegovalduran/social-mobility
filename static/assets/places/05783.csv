@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29756,Mount Gilead,OH,,city-us,3504,40.549,-82.827,8799
-29755,Mount Gilead,NC,,city-us,1174,35.215,-80.002,7090
-29753,Mount Gilead,TN,,city-us,0,35.766,-88.540,383
-29754,Mount Gilead,VA,,city-us,0,39.059,-77.664,1938
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29756,Mount Gilead,OH,Morrow County,,city-us,3504,40.549,-82.827,8799
+29755,Mount Gilead,NC,Montgomery County,,city-us,1174,35.215,-80.002,7090
+29753,Mount Gilead,TN,Henderson County,,city-us,0,35.766,-88.540,383
+29754,Mount Gilead,VA,Loudoun County,,city-us,0,39.059,-77.664,1938

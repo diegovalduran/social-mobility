@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5409,Broadwell,IL,,city-us,3640,40.088,-89.433,445
-5408,Broadwell,KY,,city-us,0,38.329,-84.359,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5409,Broadwell,IL,Logan County,,city-us,3640,40.088,-89.433,445
+5408,Broadwell,KY,Harrison County,,city-us,0,38.329,-84.359,156

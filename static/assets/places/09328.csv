@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47062,Wilmer,TX,,city-us,5332,32.589,-96.685,6347
-47061,Wilmar,AR,,city-us,389,33.629,-91.932,2262
-47063,Wilmer,AL,,city-us,0,30.823,-88.361,1419
-47064,Wilmer,LA,,city-us,0,30.814,-90.362,232
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47062,Wilmer,TX,Dallas County,,city-us,5332,32.589,-96.685,6347
+47061,Wilmar,AR,Drew County,,city-us,389,33.629,-91.932,2262
+47063,Wilmer,AL,Mobile County,,city-us,0,30.823,-88.361,1419
+47064,Wilmer,LA,Tangipahoa Parish,,city-us,0,30.814,-90.362,232

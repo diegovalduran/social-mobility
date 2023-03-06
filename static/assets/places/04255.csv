@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21929,Jarvis,IL,,city-us,16025,38.703,-89.867,2600
-21928,Jarvis,MO,,city-us,0,38.268,-90.494,351
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21929,Jarvis,IL,Madison County,,city-us,16025,38.703,-89.867,2600
+21928,Jarvis,MO,Jefferson County,,city-us,0,38.268,-90.494,351

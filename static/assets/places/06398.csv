@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32640,Otego,IL,,city-us,1489,38.934,-88.978,1174
-32642,Otego,NY,,city-us,939,42.397,-75.174,3971
-32641,Otego,KS,,city-us,0,39.827,-98.347,306
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32640,Otego,IL,Fayette County,,city-us,1489,38.934,-88.978,1174
+32642,Otego,NY,Otsego County,,city-us,939,42.397,-75.174,3971
+32641,Otego,KS,Jewell County,,city-us,0,39.827,-98.347,306

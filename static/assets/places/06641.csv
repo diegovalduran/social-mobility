@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33778,Peters,PA,,city-us,23029,40.273,-80.082,181
-33773,Peters,PA,,city-us,4423,39.877,-77.882,181
-33777,Peters,MI,,city-us,4105,42.774,-82.677,3289
-33776,Peters,CA,,city-us,457,37.981,-121.048,2297
-33774,Peters,KS,,city-us,105,37.504,-98.297,818
-33772,Peters,TX,,city-us,0,29.860,-96.187,1903
-33775,Peters,FL,,city-us,0,25.600,-80.350,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33778,Peters,PA,Washington County,,city-us,23029,40.273,-80.082,181
+33773,Peters,PA,Franklin County,,city-us,4423,39.877,-77.882,181
+33777,Peters,MI,St. Clair County,,city-us,4105,42.774,-82.677,3289
+33776,Peters,CA,San Joaquin County,,city-us,457,37.981,-121.048,2297
+33774,Peters,KS,Kingman County,,city-us,105,37.504,-98.297,818
+33772,Peters,TX,Austin County,,city-us,0,29.860,-96.187,1903
+33775,Peters,FL,Miami-Dade County,,city-us,0,25.600,-80.350,225

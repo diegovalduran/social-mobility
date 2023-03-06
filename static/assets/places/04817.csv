@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24563,Leverett,MA,,city-us,1862,42.469,-72.485,5648
-24562,Leverett,IL,,city-us,0,40.189,-88.210,146
-24564,Leverett,MS,,city-us,0,33.883,-90.076,313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24563,Leverett,MA,Franklin County,,city-us,1862,42.469,-72.485,5648
+24562,Leverett,IL,Champaign County,,city-us,0,40.189,-88.210,146
+24564,Leverett,MS,Tallahatchie County,,city-us,0,33.883,-90.076,313

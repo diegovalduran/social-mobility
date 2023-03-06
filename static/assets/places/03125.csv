@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15618,Frances,KY,,city-us,0,37.220,-88.141,158
-15619,Frances,IN,,city-us,0,39.606,-86.169,164
-15620,Frances,WA,,city-us,0,46.542,-123.504,249
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15618,Frances,KY,Crittenden County,,city-us,0,37.220,-88.141,158
+15619,Frances,IN,Johnson County,,city-us,0,39.606,-86.169,164
+15620,Frances,WA,Pacific County,,city-us,0,46.542,-123.504,249

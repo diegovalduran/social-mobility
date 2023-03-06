@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19504,Heaton,NC,,city-us,0,36.173,-81.942,258
-19505,Heaton,ND,,city-us,0,47.478,-99.548,798
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19504,Heaton,NC,Avery County,,city-us,0,36.173,-81.942,258
+19505,Heaton,ND,Wells County,,city-us,0,47.478,-99.548,798

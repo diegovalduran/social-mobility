@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19213,Harwood,ND,,city-us,804,46.979,-96.881,3427
-19214,Harwood,IL,,city-us,628,40.364,-88.069,1044
-19218,Harwood,MO,,city-us,29,37.956,-94.154,3108
-19212,Harwood,MD,,city-us,0,38.865,-76.620,843
-19215,Harwood,AR,,city-us,0,33.163,-91.128,148
-19216,Harwood,TX,,city-us,0,29.666,-97.505,1726
-19217,Harwood,IN,,city-us,0,38.003,-87.574,211
-19219,Harwood,WA,,city-us,0,46.582,-120.656,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19213,Harwood,ND,Cass County,,city-us,804,46.979,-96.881,3427
+19214,Harwood,IL,Champaign County,,city-us,628,40.364,-88.069,1044
+19218,Harwood,MO,Vernon County,,city-us,29,37.956,-94.154,3108
+19212,Harwood,MD,Anne Arundel County,,city-us,0,38.865,-76.620,843
+19215,Harwood,AR,Chicot County,,city-us,0,33.163,-91.128,148
+19216,Harwood,TX,Gonzales County,,city-us,0,29.666,-97.505,1726
+19217,Harwood,IN,Vanderburgh County,,city-us,0,38.003,-87.574,211
+19219,Harwood,WA,Yakima County,,city-us,0,46.582,-120.656,121

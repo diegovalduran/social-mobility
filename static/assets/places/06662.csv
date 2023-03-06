@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33882,Philadelphia,PA,,city-us,1576251,39.952,-75.164,88346
-33881,Philadelphia,MS,,city-us,6995,32.772,-89.117,8639
-33878,Philadelphia,NY,,city-us,1974,44.143,-75.705,4739
-33879,Philadelphia,TN,,city-us,629,35.680,-84.404,3534
-33880,Philadelphia,MO,,city-us,206,39.839,-91.739,424
-33876,Philadelphia,IL,,city-us,0,39.924,-90.117,290
-33877,Philadelphia,IN,,city-us,0,39.781,-85.846,392
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33882,Philadelphia,PA,Philadelphia County,,city-us,1576251,39.952,-75.164,88346
+33881,Philadelphia,MS,Neshoba County,,city-us,6995,32.772,-89.117,8639
+33878,Philadelphia,NY,Jefferson County,,city-us,1974,44.143,-75.705,4739
+33879,Philadelphia,TN,Loudon County,,city-us,629,35.680,-84.404,3534
+33880,Philadelphia,MO,Marion County,,city-us,206,39.839,-91.739,424
+33876,Philadelphia,IL,Cass County,,city-us,0,39.924,-90.117,290
+33877,Philadelphia,IN,Hancock County,,city-us,0,39.781,-85.846,392

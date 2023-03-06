@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25037,Lind,WI,,city-us,1569,44.285,-89.044,3367
-25034,Lind,WA,,city-us,531,46.972,-118.615,8141
-26110,Lynd,MN,,city-us,432,44.386,-95.890,3714
-25035,Lind,ND,,city-us,54,47.715,-97.689,0
-25036,Lind,MN,,city-us,31,48.588,-96.323,1596
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25037,Lind,WI,Waupaca County,,city-us,1569,44.285,-89.044,3367
+25034,Lind,WA,Adams County,,city-us,531,46.972,-118.615,8141
+26110,Lynd,MN,Lyon County,,city-us,432,44.386,-95.890,3714
+25035,Lind,ND,Grand Forks County,,city-us,54,47.715,-97.689,0
+25036,Lind,MN,Roseau County,,city-us,31,48.588,-96.323,1596

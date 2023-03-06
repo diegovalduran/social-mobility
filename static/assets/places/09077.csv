@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47170,Wimer,OR,,city-us,690,42.539,-123.149,962
-45784,Weimer,MN,,city-us,156,43.803,-95.272,2360
-45783,Weimer,ND,,city-us,42,47.022,-97.769,130
-47859,Wymer,WV,,city-us,0,38.859,-80.422,129
-47860,Wymer,WV,,city-us,0,38.893,-79.619,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47170,Wimer,OR,Jackson County,,city-us,690,42.539,-123.149,962
+45784,Weimer,MN,Jackson County,,city-us,156,43.803,-95.272,2360
+45783,Weimer,ND,Barnes County,,city-us,42,47.022,-97.769,130
+47859,Wymer,WV,Lewis County,,city-us,0,38.859,-80.422,129
+47860,Wymer,WV,Randolph County,,city-us,0,38.893,-79.619,220

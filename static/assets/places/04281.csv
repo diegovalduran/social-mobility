@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22147,Jessie,ND,,city-us,22,47.542,-98.238,522
-22146,Jesse,WV,,city-us,0,37.668,-81.573,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22147,Jessie,ND,Griggs County,,city-us,22,47.542,-98.238,522
+22146,Jesse,WV,Wyoming County,,city-us,0,37.668,-81.573,156

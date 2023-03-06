@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42341,Sykesville,NJ,,city-us,7963,40.090,-74.585,13096
-42342,Sykesville,MD,,city-us,4335,39.374,-76.968,9081
-42343,Sykesville,PA,,city-us,1104,41.050,-78.822,2527
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42341,Sykesville,NJ,Burlington County,,city-us,7963,40.090,-74.585,13096
+42342,Sykesville,MD,Carroll County,,city-us,4335,39.374,-76.968,9081
+42343,Sykesville,PA,Jefferson County,,city-us,1104,41.050,-78.822,2527

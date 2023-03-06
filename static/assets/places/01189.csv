@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5999,Buffalo City,WI,,city-us,1015,44.231,-91.864,3810
-5998,Buffalo City,AR,,city-us,26,36.168,-92.442,464
-6000,Buffalo City,NC,,city-us,0,35.843,-75.917,5711
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5999,Buffalo City,WI,Buffalo County,,city-us,1015,44.231,-91.864,3810
+5998,Buffalo City,AR,Baxter County,,city-us,26,36.168,-92.442,464
+6000,Buffalo City,NC,Dare County,,city-us,0,35.843,-75.917,5711

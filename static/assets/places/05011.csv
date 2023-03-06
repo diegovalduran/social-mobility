@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25751,Los Angeles,CA,,city-us,3849297,34.052,-118.244,60575
-25753,Los Angeles,,Chile,city-international,143023,-37.471,-72.352,3765
-25752,Los Angeles,TX,,city-us,366,26.495,-97.787,2045
-25750,Los Angeles,TX,,city-us,0,28.466,-99.000,516
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25751,Los Angeles,CA,Los Angeles County,,city-us,3849297,34.052,-118.244,60575
+25753,Los Angeles,,,Chile,city-international,143023,-37.471,-72.352,3765
+25752,Los Angeles,TX,Willacy County,,city-us,366,26.495,-97.787,2045
+25750,Los Angeles,TX,La Salle County,,city-us,0,28.466,-99.000,516

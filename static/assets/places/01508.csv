@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7739,Centre Grove,NJ,,city-us,1286,39.356,-75.122,390
-7593,Center Grove,TX,,city-us,0,31.168,-95.384,533
-7594,Center Grove,TN,,city-us,0,36.264,-85.608,358
-7595,Center Grove,IN,,city-us,0,39.577,-86.197,4656
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7739,Centre Grove,NJ,Cumberland County,,city-us,1286,39.356,-75.122,390
+7593,Center Grove,TX,Houston County,,city-us,0,31.168,-95.384,533
+7594,Center Grove,TN,Jackson County,,city-us,0,36.264,-85.608,358
+7595,Center Grove,IN,Johnson County,,city-us,0,39.577,-86.197,4656

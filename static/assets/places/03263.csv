@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16480,Gateway,FL,,city-us,10772,26.578,-81.750,1048
-16481,Gateway,AK,,city-us,6305,61.573,-149.241,2208
-16478,Gateway,AR,,city-us,442,36.490,-93.932,2487
-16479,Gateway,OR,,city-us,0,44.775,-121.083,1086
-16482,Gateway,CO,,city-us,0,38.678,-108.980,1283
-16483,Gateway,CA,,city-us,0,39.326,-120.204,158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16480,Gateway,FL,Lee County,,city-us,10772,26.578,-81.750,1048
+16481,Gateway,AK,Matanuska-Susitna Borough,,city-us,6305,61.573,-149.241,2208
+16478,Gateway,AR,Benton County,,city-us,442,36.490,-93.932,2487
+16479,Gateway,OR,Jefferson County,,city-us,0,44.775,-121.083,1086
+16482,Gateway,CO,Mesa County,,city-us,0,38.678,-108.980,1283
+16483,Gateway,CA,Nevada County,,city-us,0,39.326,-120.204,158

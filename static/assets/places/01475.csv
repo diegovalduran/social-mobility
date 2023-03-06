@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7386,Cedar Bluff,MI,,city-us,2823,42.471,-86.209,4142
-7389,Cedar Bluff,AL,,city-us,1864,34.220,-85.608,3146
-7390,Cedar Bluff,VA,,city-us,1051,37.088,-81.759,3476
-7387,Cedar Bluff,KY,,city-us,0,37.088,-87.845,102
-7388,Cedar Bluff,IA,,city-us,0,41.786,-91.308,259
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7386,Cedar Bluff,MI,Allegan County,,city-us,2823,42.471,-86.209,4142
+7389,Cedar Bluff,AL,Cherokee County,,city-us,1864,34.220,-85.608,3146
+7390,Cedar Bluff,VA,Tazewell County,,city-us,1051,37.088,-81.759,3476
+7387,Cedar Bluff,KY,Caldwell County,,city-us,0,37.088,-87.845,102
+7388,Cedar Bluff,IA,Cedar County,,city-us,0,41.786,-91.308,259

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41935,Summerhill,PA,,city-us,1181,41.724,-80.332,190
-41934,Summerhill,NY,,city-us,1104,42.653,-76.321,4022
-41933,Summerhill,PA,,city-us,476,40.378,-78.761,3759
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41935,Summerhill,PA,Crawford County,,city-us,1181,41.724,-80.332,190
+41934,Summerhill,NY,Cayuga County,,city-us,1104,42.653,-76.321,4022
+41933,Summerhill,PA,Cambria County,,city-us,476,40.378,-78.761,3759

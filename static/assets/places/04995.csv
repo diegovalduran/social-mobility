@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25693,Loon Lake,WA,,city-us,783,48.062,-117.633,320
-25691,Loon Lake,MN,,city-us,637,46.592,-94.365,2183
-25692,Loon Lake,IL,,city-us,0,42.447,-88.090,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25693,Loon Lake,WA,Stevens County,,city-us,783,48.062,-117.633,320
+25691,Loon Lake,MN,Cass County,,city-us,637,46.592,-94.365,2183
+25692,Loon Lake,IL,Lake County,,city-us,0,42.447,-88.090,218

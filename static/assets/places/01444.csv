@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7260,Castleton,VT,,city-us,4594,43.653,-73.161,8149
-7256,Castleton,MI,,city-us,3366,42.642,-85.129,2185
-7259,Castleton,KS,,city-us,315,37.863,-97.951,1057
-7257,Castleton,MD,,city-us,0,39.675,-76.215,86
-7258,Castleton,VA,,city-us,0,38.606,-78.107,453
-7261,Castleton,IL,,city-us,0,41.118,-89.706,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7260,Castleton,VT,Rutland County,,city-us,4594,43.653,-73.161,8149
+7256,Castleton,MI,Barry County,,city-us,3366,42.642,-85.129,2185
+7259,Castleton,KS,Reno County,,city-us,315,37.863,-97.951,1057
+7257,Castleton,MD,Harford County,,city-us,0,39.675,-76.215,86
+7258,Castleton,VA,Rappahannock County,,city-us,0,38.606,-78.107,453
+7261,Castleton,IL,Stark County,,city-us,0,41.118,-89.706,280

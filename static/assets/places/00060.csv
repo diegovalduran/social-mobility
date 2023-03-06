@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-310,Agricola,MS,,city-us,346,30.808,-88.520,533
-309,Agricola,KS,,city-us,0,38.419,-95.535,318
-311,Agricola,GA,,city-us,0,33.195,-82.720,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+310,Agricola,MS,George County,,city-us,346,30.808,-88.520,533
+309,Agricola,KS,Coffey County,,city-us,0,38.419,-95.535,318
+311,Agricola,GA,Glascock County,,city-us,0,33.195,-82.720,223

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12168,Dragoon,KS,,city-us,205,38.717,-95.839,0
-12167,Dragoon,AZ,,city-us,178,32.028,-110.039,3226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12168,Dragoon,KS,Osage County,,city-us,205,38.717,-95.839,0
+12167,Dragoon,AZ,Cochise County,,city-us,178,32.028,-110.039,3226

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8319,Chittenden,VT,,city-us,186,43.708,-72.948,2963
-8320,Chittenden,CA,,city-us,0,36.901,-121.605,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8319,Chittenden,VT,Rutland County,,city-us,186,43.708,-72.948,2963
+8320,Chittenden,CA,Santa Cruz County,,city-us,0,36.901,-121.605,252

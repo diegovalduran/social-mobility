@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31327,North Bay,WI,,city-us,208,42.765,-87.780,3225
-31326,North Bay,NY,,city-us,50,43.230,-75.748,97
-31325,North Bay,WI,,city-us,0,45.146,-87.083,334
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31327,North Bay,WI,Racine County,,city-us,208,42.765,-87.780,3225
+31326,North Bay,NY,Oneida County,,city-us,50,43.230,-75.748,97
+31325,North Bay,WI,Door County,,city-us,0,45.146,-87.083,334

@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25574,Lone Tree,CO,,city-us,14206,39.531,-104.862,6020
-25577,Lone Tree,IA,,city-us,1355,41.488,-91.426,4433
-25579,Lone Tree,NE,,city-us,626,41.115,-98.032,206
-25578,Lone Tree,KS,,city-us,517,38.304,-97.538,128
-25572,Lone Tree,MN,,city-us,238,45.028,-95.315,1924
-25581,Lone Tree,KS,,city-us,226,39.525,-96.292,0
-25571,Lone Tree,SD,,city-us,166,43.033,-98.162,0
-25575,Lone Tree,ND,,city-us,154,46.713,-103.951,0
-25573,Lone Tree,NE,,city-us,91,40.474,-98.123,206
-25580,Lone Tree,SD,,city-us,29,45.424,-102.383,0
-25582,Lone Tree,SD,,city-us,11,43.536,-100.031,0
-25570,Lone Tree,MO,,city-us,0,38.572,-94.361,273
-25576,Lone Tree,IN,,city-us,0,39.126,-87.129,209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25574,Lone Tree,CO,Douglas County,,city-us,14206,39.531,-104.862,6020
+25577,Lone Tree,IA,Johnson County,,city-us,1355,41.488,-91.426,4433
+25579,Lone Tree,NE,Merrick County,,city-us,626,41.115,-98.032,206
+25578,Lone Tree,KS,McPherson County,,city-us,517,38.304,-97.538,128
+25572,Lone Tree,MN,Chippewa County,,city-us,238,45.028,-95.315,1924
+25581,Lone Tree,KS,Pottawatomie County,,city-us,226,39.525,-96.292,0
+25571,Lone Tree,SD,Charles Mix County,,city-us,166,43.033,-98.162,0
+25575,Lone Tree,ND,Golden Valley County,,city-us,154,46.713,-103.951,0
+25573,Lone Tree,NE,Clay County,,city-us,91,40.474,-98.123,206
+25580,Lone Tree,SD,Perkins County,,city-us,29,45.424,-102.383,0
+25582,Lone Tree,SD,Tripp County,,city-us,11,43.536,-100.031,0
+25570,Lone Tree,MO,Cass County,,city-us,0,38.572,-94.361,273
+25576,Lone Tree,IN,Greene County,,city-us,0,39.126,-87.129,209

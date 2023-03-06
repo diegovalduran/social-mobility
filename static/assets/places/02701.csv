@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13397,Ellery,NY,,city-us,4080,42.190,-79.354,6379
-13398,Ellery,IL,,city-us,0,38.355,-88.149,2671
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13397,Ellery,NY,Chautauqua County,,city-us,4080,42.190,-79.354,6379
+13398,Ellery,IL,Edwards County,,city-us,0,38.355,-88.149,2671

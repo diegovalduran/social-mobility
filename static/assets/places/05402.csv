@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27660,McVille,ND,,city-us,383,47.764,-98.177,4203
-27657,McVille,PA,,city-us,0,40.726,-79.603,853
-27658,McVille,KY,,city-us,0,38.977,-84.824,222
-27659,McVille,IN,,city-us,0,39.153,-86.739,357
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27660,McVille,ND,Nelson County,,city-us,383,47.764,-98.177,4203
+27657,McVille,PA,Armstrong County,,city-us,0,40.726,-79.603,853
+27658,McVille,KY,Boone County,,city-us,0,38.977,-84.824,222
+27659,McVille,IN,Greene County,,city-us,0,39.153,-86.739,357

@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12634,Earl,PA,,city-us,7108,40.110,-76.099,276
-12630,Earl,PA,,city-us,3096,40.348,-75.704,276
-12636,Earl,IL,,city-us,2439,41.592,-88.881,286
-12638,Earle,AR,,city-us,1785,35.275,-90.467,4318
-12632,Earl,NC,,city-us,197,35.193,-81.533,1927
-12633,Earl,OK,,city-us,44,34.202,-96.898,134
-12631,Earl,MO,,city-us,0,38.931,-92.061,250
-12635,Earl,CO,,city-us,0,37.333,-104.278,387
-12637,Earl,WI,,city-us,0,45.911,-91.761,625
-12639,Earle,IN,,city-us,0,38.086,-87.513,429
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12634,Earl,PA,Lancaster County,,city-us,7108,40.110,-76.099,276
+12630,Earl,PA,Berks County,,city-us,3096,40.348,-75.704,276
+12636,Earl,IL,LaSalle County,,city-us,2439,41.592,-88.881,286
+12638,Earle,AR,Crittenden County,,city-us,1785,35.275,-90.467,4318
+12632,Earl,NC,Cleveland County,,city-us,197,35.193,-81.533,1927
+12633,Earl,OK,Johnston County,,city-us,44,34.202,-96.898,134
+12631,Earl,MO,Callaway County,,city-us,0,38.931,-92.061,250
+12635,Earl,CO,Las Animas County,,city-us,0,37.333,-104.278,387
+12637,Earl,WI,Washburn County,,city-us,0,45.911,-91.761,625
+12639,Earle,IN,Vanderburgh County,,city-us,0,38.086,-87.513,429

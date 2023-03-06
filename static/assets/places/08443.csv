@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42611,Teegarden,OH,,city-us,0,40.823,-80.829,296
-42612,Teegarden,IN,,city-us,0,41.465,-86.377,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42611,Teegarden,OH,Columbiana County,,city-us,0,40.823,-80.829,296
+42612,Teegarden,IN,Marshall County,,city-us,0,41.465,-86.377,218

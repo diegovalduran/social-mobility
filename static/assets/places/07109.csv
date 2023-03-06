@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36039,Rector,AR,,city-us,1816,36.263,-90.293,3191
-36040,Rector,IL,,city-us,66,37.884,-88.427,333
-36041,Rector,PA,,city-us,0,40.197,-79.239,394
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36039,Rector,AR,Clay County,,city-us,1816,36.263,-90.293,3191
+36040,Rector,IL,Saline County,,city-us,66,37.884,-88.427,333
+36041,Rector,PA,Westmoreland County,,city-us,0,40.197,-79.239,394

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33465,Peeksville,WI,,city-us,141,46.098,-90.530,1756
-33417,Peaksville,MO,,city-us,0,40.507,-91.697,266
-33466,Peeksville,GA,,city-us,0,33.378,-84.005,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33465,Peeksville,WI,Ashland County,,city-us,141,46.098,-90.530,1756
+33417,Peaksville,MO,Clark County,,city-us,0,40.507,-91.697,266
+33466,Peeksville,GA,Henry County,,city-us,0,33.378,-84.005,264

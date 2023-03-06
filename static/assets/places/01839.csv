@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9395,Colonial Heights,VA,,city-us,18273,37.244,-77.410,16570
-9396,Colonial Heights,TN,,city-us,2877,36.485,-82.503,2471
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9395,Colonial Heights,VA,Colonial Heights city,,city-us,18273,37.244,-77.410,16570
+9396,Colonial Heights,TN,Sullivan County,,city-us,2877,36.485,-82.503,2471

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12481,Durand,MI,,city-us,3529,42.912,-83.985,5156
-12482,Durand,IL,,city-us,2303,42.410,-89.349,349
-12480,Durand,WI,,city-us,713,44.632,-91.931,5271
-12477,Durand,MN,,city-us,231,47.694,-94.842,2537
-12478,Durand,VA,,city-us,0,36.720,-77.588,238
-12479,Durand,GA,,city-us,0,32.917,-84.774,519
-12483,Durand,KS,,city-us,0,37.890,-95.693,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12481,Durand,MI,Shiawassee County,,city-us,3529,42.912,-83.985,5156
+12482,Durand,IL,Winnebago County,,city-us,2303,42.410,-89.349,349
+12480,Durand,WI,Pepin County,,city-us,713,44.632,-91.931,5271
+12477,Durand,MN,Beltrami County,,city-us,231,47.694,-94.842,2537
+12478,Durand,VA,Greensville County,,city-us,0,36.720,-77.588,238
+12479,Durand,GA,Meriwether County,,city-us,0,32.917,-84.774,519
+12483,Durand,KS,Woodson County,,city-us,0,37.890,-95.693,201

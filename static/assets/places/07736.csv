@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39142,Seminole,FL,,city-us,19316,27.840,-82.791,4375
-39143,Seminole,OK,,city-us,7068,35.225,-96.671,4980
-39139,Seminole,TX,,city-us,7026,32.719,-102.645,3955
-39137,Seminole,PA,,city-us,0,40.955,-79.343,236
-39138,Seminole,AL,,city-us,0,30.515,-87.474,443
-39140,Seminole,NC,,city-us,0,35.440,-79.037,488
-39141,Seminole,WV,,city-us,0,39.379,-80.321,197
-39144,Seminole,WV,,city-us,0,37.555,-80.842,188
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39142,Seminole,FL,Pinellas County,,city-us,19316,27.840,-82.791,4375
+39143,Seminole,OK,Seminole County,,city-us,7068,35.225,-96.671,4980
+39139,Seminole,TX,Gaines County,,city-us,7026,32.719,-102.645,3955
+39137,Seminole,PA,Armstrong County,,city-us,0,40.955,-79.343,236
+39138,Seminole,AL,Baldwin County,,city-us,0,30.515,-87.474,443
+39140,Seminole,NC,Harnett County,,city-us,0,35.440,-79.037,488
+39141,Seminole,WV,Harrison County,,city-us,0,39.379,-80.321,197
+39144,Seminole,WV,Summers County,,city-us,0,37.555,-80.842,188

@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-628,Allen,TX,,city-us,106874,33.103,-96.671,13631
-643,Allen,PA,,city-us,5476,40.708,-75.488,294
-644,Allen,OH,,city-us,3737,41.590,-83.357,192
-633,Allen,OH,,city-us,2852,41.128,-83.654,192
-646,Allen,OH,,city-us,2508,40.245,-83.487,192
-629,Allen,OH,,city-us,1003,40.304,-84.667,192
-635,Allen,OK,,city-us,789,34.878,-96.413,3659
-627,Allen,SD,,city-us,732,43.281,-101.924,3662
-639,Allen,IL,,city-us,502,41.151,-88.644,779
-625,Allen,NY,,city-us,488,42.397,-78.004,2477
-647,Allen,MD,,city-us,433,38.287,-75.688,370
-630,Allen,NE,,city-us,348,42.416,-96.845,3293
-634,Allen,MI,,city-us,222,41.957,-84.768,3914
-632,Allen,KY,,city-us,178,37.610,-82.728,2656
-641,Allen,KS,,city-us,159,38.656,-96.170,3733
-638,Allen,KS,,city-us,112,37.519,-97.871,186
-626,Allen,SD,,city-us,75,44.508,-98.512,3662
-637,Allen,ND,,city-us,53,46.915,-99.883,0
-636,Allen,KS,,city-us,15,39.614,-97.981,186
-631,Allen,WI,,city-us,0,44.661,-91.367,506
-640,Allen,WV,,city-us,0,38.123,-82.075,88
-642,Allen,LA,,city-us,0,31.836,-93.289,302
-645,Allen,MS,,city-us,0,34.146,-90.234,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+628,Allen,TX,Collin County,,city-us,106874,33.103,-96.671,13631
+643,Allen,PA,Northampton County,,city-us,5476,40.708,-75.488,294
+644,Allen,OH,Ottawa County,,city-us,3737,41.590,-83.357,192
+633,Allen,OH,Hancock County,,city-us,2852,41.128,-83.654,192
+646,Allen,OH,Union County,,city-us,2508,40.245,-83.487,192
+629,Allen,OH,Darke County,,city-us,1003,40.304,-84.667,192
+635,Allen,OK,Hughes County / Pontotoc County,,city-us,789,34.878,-96.413,3659
+627,Allen,SD,Bennett County,,city-us,732,43.281,-101.924,3662
+639,Allen,IL,LaSalle County,,city-us,502,41.151,-88.644,779
+625,Allen,NY,Allegany County,,city-us,488,42.397,-78.004,2477
+647,Allen,MD,Wicomico County,,city-us,433,38.287,-75.688,370
+630,Allen,NE,Dixon County,,city-us,348,42.416,-96.845,3293
+634,Allen,MI,Hillsdale County,,city-us,222,41.957,-84.768,3914
+632,Allen,KY,Floyd County,,city-us,178,37.610,-82.728,2656
+641,Allen,KS,Lyon County,,city-us,159,38.656,-96.170,3733
+638,Allen,KS,Kingman County,,city-us,112,37.519,-97.871,186
+626,Allen,SD,Beadle County,,city-us,75,44.508,-98.512,3662
+637,Allen,ND,Kidder County,,city-us,53,46.915,-99.883,0
+636,Allen,KS,Jewell County,,city-us,15,39.614,-97.981,186
+631,Allen,WI,Eau Claire County,,city-us,0,44.661,-91.367,506
+640,Allen,WV,Lincoln County,,city-us,0,38.123,-82.075,88
+642,Allen,LA,Natchitoches Parish,,city-us,0,31.836,-93.289,302
+645,Allen,MS,Quitman County,,city-us,0,34.146,-90.234,136

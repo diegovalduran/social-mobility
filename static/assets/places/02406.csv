@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12018,Dorset,VT,,city-us,470,43.255,-73.099,9063
-12017,Dorset,OH,,city-us,0,41.680,-80.667,457
-12019,Dorset,MN,,city-us,0,46.956,-94.953,1567
-12020,Dorset,VA,,city-us,0,37.468,-77.805,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12018,Dorset,VT,Bennington County,,city-us,470,43.255,-73.099,9063
+12017,Dorset,OH,Ashtabula County,,city-us,0,41.680,-80.667,457
+12019,Dorset,MN,Hubbard County,,city-us,0,46.956,-94.953,1567
+12020,Dorset,VA,Powhatan County,,city-us,0,37.468,-77.805,90

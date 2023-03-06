@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32989,Palmyra,PA,,city-us,7755,40.309,-76.593,16305
-32983,Palmyra,KS,,city-us,7712,38.798,-95.147,2184
-32982,Palmyra,NJ,,city-us,7424,40.007,-75.028,15384
-33002,Palmyra,NY,,city-us,7361,43.080,-77.189,1520
-32986,Palmyra,NJ,,city-us,4938,40.595,-75.027,11383
-32994,Palmyra,MO,,city-us,3621,39.794,-91.523,4906
-32997,Palmyra,PA,,city-us,3287,41.397,-75.218,175
-32998,Palmyra,OH,,city-us,2799,41.088,-81.041,1758
-32992,Palmyra,MI,,city-us,2016,41.868,-83.955,2000
-33000,Palmyra,ME,,city-us,1954,44.843,-69.368,3226
-32987,Palmyra,WI,,city-us,1699,42.878,-88.586,4287
-33003,Palmyra,PA,,city-us,1246,41.515,-75.193,175
-32985,Palmyra,IN,,city-us,906,38.408,-86.110,4779
-32993,Palmyra,IL,,city-us,599,39.435,-89.996,3454
-32996,Palmyra,NE,,city-us,553,40.704,-96.388,3132
-33001,Palmyra,UT,,city-us,492,40.140,-111.699,2522
-32999,Palmyra,MN,,city-us,164,44.673,-94.813,1936
-32984,Palmyra,VA,,city-us,96,37.861,-78.263,2504
-32981,Palmyra,SD,,city-us,61,45.885,-98.673,0
-32988,Palmyra,OH,,city-us,0,40.544,-82.541,234
-32990,Palmyra,GA,,city-us,0,31.638,-84.194,537
-32991,Palmyra,IL,,city-us,0,41.852,-89.578,80
-32995,Palmyra,TN,,city-us,0,36.438,-87.486,1155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32989,Palmyra,PA,Lebanon County,,city-us,7755,40.309,-76.593,16305
+32983,Palmyra,KS,Douglas County,,city-us,7712,38.798,-95.147,2184
+32982,Palmyra,NJ,Burlington County,,city-us,7424,40.007,-75.028,15384
+33002,Palmyra,NY,Wayne County,,city-us,7361,43.080,-77.189,1520
+32986,Palmyra,NJ,Hunterdon County,,city-us,4938,40.595,-75.027,11383
+32994,Palmyra,MO,Marion County,,city-us,3621,39.794,-91.523,4906
+32997,Palmyra,PA,Pike County,,city-us,3287,41.397,-75.218,175
+32998,Palmyra,OH,Portage County,,city-us,2799,41.088,-81.041,1758
+32992,Palmyra,MI,Lenawee County,,city-us,2016,41.868,-83.955,2000
+33000,Palmyra,ME,Somerset County,,city-us,1954,44.843,-69.368,3226
+32987,Palmyra,WI,Jefferson County,,city-us,1699,42.878,-88.586,4287
+33003,Palmyra,PA,Wayne County,,city-us,1246,41.515,-75.193,175
+32985,Palmyra,IN,Harrison County,,city-us,906,38.408,-86.110,4779
+32993,Palmyra,IL,Macoupin County,,city-us,599,39.435,-89.996,3454
+32996,Palmyra,NE,Otoe County,,city-us,553,40.704,-96.388,3132
+33001,Palmyra,UT,Utah County,,city-us,492,40.140,-111.699,2522
+32999,Palmyra,MN,Renville County,,city-us,164,44.673,-94.813,1936
+32984,Palmyra,VA,Fluvanna County,,city-us,96,37.861,-78.263,2504
+32981,Palmyra,SD,Brown County,,city-us,61,45.885,-98.673,0
+32988,Palmyra,OH,Knox County,,city-us,0,40.544,-82.541,234
+32990,Palmyra,GA,Lee County,,city-us,0,31.638,-84.194,537
+32991,Palmyra,IL,Lee County,,city-us,0,41.852,-89.578,80
+32995,Palmyra,TN,Montgomery County,,city-us,0,36.438,-87.486,1155

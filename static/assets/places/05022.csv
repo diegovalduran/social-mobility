@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25779,Lothair,MT,,city-us,0,48.472,-111.232,339
-25780,Lothair,KY,,city-us,0,37.242,-83.181,131
-25781,Lothair,GA,,city-us,0,32.355,-82.655,316
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25779,Lothair,MT,Liberty County,,city-us,0,48.472,-111.232,339
+25780,Lothair,KY,Perry County,,city-us,0,37.242,-83.181,131
+25781,Lothair,GA,Treutlen County,,city-us,0,32.355,-82.655,316

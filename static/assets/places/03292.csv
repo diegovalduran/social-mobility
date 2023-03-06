@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16687,Gerry,NY,,city-us,1775,42.227,-79.231,4683
-22099,Jere,WV,,city-us,0,39.667,-80.035,451
-22130,Jerry,WA,,city-us,0,46.324,-117.109,547
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16687,Gerry,NY,Chautauqua County,,city-us,1775,42.227,-79.231,4683
+22099,Jere,WV,Monongalia County,,city-us,0,39.667,-80.035,451
+22130,Jerry,WA,Asotin County,,city-us,0,46.324,-117.109,547

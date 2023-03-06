@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32180,Olena,IL,,city-us,0,40.786,-90.939,362
-32181,Olena,OH,,city-us,0,41.154,-82.541,321
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32180,Olena,IL,Henderson County,,city-us,0,40.786,-90.939,362
+32181,Olena,OH,Huron County,,city-us,0,41.154,-82.541,321

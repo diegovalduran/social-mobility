@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32328,Opal,VA,,city-us,601,38.621,-77.800,923
-32330,Opal,WY,,city-us,63,41.769,-110.326,2919
-32329,Opal,MO,,city-us,0,37.021,-93.770,289
-32331,Opal,SD,,city-us,0,44.892,-102.451,164
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32328,Opal,VA,Fauquier County,,city-us,601,38.621,-77.800,923
+32330,Opal,WY,Lincoln County,,city-us,63,41.769,-110.326,2919
+32329,Opal,MO,Lawrence County,,city-us,0,37.021,-93.770,289
+32331,Opal,SD,Meade County,,city-us,0,44.892,-102.451,164

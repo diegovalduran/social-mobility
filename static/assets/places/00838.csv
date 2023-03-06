@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4307,Blanche,TN,,city-us,359,35.043,-86.754,696
-4289,Blanch,NC,,city-us,0,36.508,-79.295,217
-4306,Blanche,MO,,city-us,0,36.820,-92.303,370
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4307,Blanche,TN,Lincoln County,,city-us,359,35.043,-86.754,696
+4289,Blanch,NC,Caswell County,,city-us,0,36.508,-79.295,217
+4306,Blanche,MO,Douglas County,,city-us,0,36.820,-92.303,370

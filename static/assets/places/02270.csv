@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11406,Delavan,WI,,city-us,8594,42.633,-88.644,6374
-11405,Delavan,IL,,city-us,1927,40.361,-89.545,435
-11403,Delavan,MN,,city-us,239,43.804,-94.089,1933
-11404,Delavan,KS,,city-us,0,38.656,-96.813,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11406,Delavan,WI,Walworth County,,city-us,8594,42.633,-88.644,6374
+11405,Delavan,IL,Tazewell County,,city-us,1927,40.361,-89.545,435
+11403,Delavan,MN,Faribault County,,city-us,239,43.804,-94.089,1933
+11404,Delavan,KS,Morris County,,city-us,0,38.656,-96.813,262

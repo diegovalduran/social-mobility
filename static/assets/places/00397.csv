@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2140,Azalea,NC,,city-us,0,35.580,-82.471,239
-2141,Azalea,OR,,city-us,0,42.796,-123.259,1003
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2140,Azalea,NC,Buncombe County,,city-us,0,35.580,-82.471,239
+2141,Azalea,OR,Douglas County,,city-us,0,42.796,-123.259,1003

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18019,Greenup,IL,,city-us,2243,39.229,-88.146,1281
-18020,Greenup,KY,,city-us,1053,38.573,-82.830,5011
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18019,Greenup,IL,Cumberland County,,city-us,2243,39.229,-88.146,1281
+18020,Greenup,KY,Greenup County,,city-us,1053,38.573,-82.830,5011

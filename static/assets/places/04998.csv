@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25703,Lorain,OH,,city-us,65430,41.453,-82.182,14075
-25702,Lorain,PA,,city-us,589,40.299,-78.892,2782
-25709,Loraine,TX,,city-us,550,32.411,-100.712,2463
-25705,Lorain,WI,,city-us,313,45.680,-92.220,1772
-25704,Lorain,MN,,city-us,296,43.629,-95.504,3370
-25706,Loraine,IL,,city-us,296,40.154,-91.222,1917
-25707,Loraine,IL,,city-us,259,41.540,-90.030,1117
-25740,Lorraine,KS,,city-us,140,38.569,-98.317,3486
-25741,Lorraine,NY,,city-us,98,43.766,-75.959,3365
-25739,Lorraine,ND,,city-us,34,45.990,-98.826,0
-25710,Loraine,ND,,city-us,8,48.866,-101.568,2832
-25708,Loraine,CA,,city-us,0,35.305,-118.437,459
-25742,Lorraine,FL,,city-us,0,27.432,-82.395,1130
-25743,Lorraine,LA,,city-us,0,30.506,-90.278,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25703,Lorain,OH,Lorain County,,city-us,65430,41.453,-82.182,14075
+25702,Lorain,PA,Cambria County,,city-us,589,40.299,-78.892,2782
+25709,Loraine,TX,Mitchell County,,city-us,550,32.411,-100.712,2463
+25705,Lorain,WI,Polk County,,city-us,313,45.680,-92.220,1772
+25704,Lorain,MN,Nobles County,,city-us,296,43.629,-95.504,3370
+25706,Loraine,IL,Adams County,,city-us,296,40.154,-91.222,1917
+25707,Loraine,IL,Henry County,,city-us,259,41.540,-90.030,1117
+25740,Lorraine,KS,Ellsworth County,,city-us,140,38.569,-98.317,3486
+25741,Lorraine,NY,Jefferson County,,city-us,98,43.766,-75.959,3365
+25739,Lorraine,ND,Dickey County,,city-us,34,45.990,-98.826,0
+25710,Loraine,ND,Renville County,,city-us,8,48.866,-101.568,2832
+25708,Loraine,CA,Kern County,,city-us,0,35.305,-118.437,459
+25742,Lorraine,FL,Manatee County,,city-us,0,27.432,-82.395,1130
+25743,Lorraine,LA,Tangipahoa Parish,,city-us,0,30.506,-90.278,147

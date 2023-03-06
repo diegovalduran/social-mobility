@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40552,Speedwell,NJ,,city-us,6776,39.821,-74.653,15893
-40555,Speedwell,ND,,city-us,49,47.456,-99.585,0
-40553,Speedwell,TN,,city-us,0,36.459,-83.872,368
-40554,Speedwell,KY,,city-us,0,37.674,-84.175,305
-40556,Speedwell,VA,,city-us,0,36.814,-81.172,590
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40552,Speedwell,NJ,Burlington County,,city-us,6776,39.821,-74.653,15893
+40555,Speedwell,ND,Wells County,,city-us,49,47.456,-99.585,0
+40553,Speedwell,TN,Claiborne County,,city-us,0,36.459,-83.872,368
+40554,Speedwell,KY,Madison County,,city-us,0,37.674,-84.175,305
+40556,Speedwell,VA,Wythe County,,city-us,0,36.814,-81.172,590

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13972,Ethridge,TN,,city-us,541,35.324,-87.304,3994
-13971,Ethridge,KY,,city-us,0,38.771,-84.953,94
-13973,Ethridge,MT,,city-us,0,48.558,-112.121,572
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13972,Ethridge,TN,Lawrence County,,city-us,541,35.324,-87.304,3994
+13971,Ethridge,KY,Gallatin County,,city-us,0,38.771,-84.953,94
+13973,Ethridge,MT,Toole County,,city-us,0,48.558,-112.121,572

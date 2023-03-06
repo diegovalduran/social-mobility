@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15834,Fredericktown,MO,,city-us,4326,37.560,-90.294,9900
-15833,Fredericktown,OH,,city-us,2645,40.481,-82.541,4652
-15836,Fredericktown,PA,,city-us,209,40.003,-79.998,492
-15831,Fredericktown,MD,,city-us,0,39.366,-75.884,742
-15832,Fredericktown,OH,,city-us,0,40.714,-80.548,1462
-15835,Fredericktown,KY,,city-us,0,37.758,-85.342,345
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15834,Fredericktown,MO,Madison County,,city-us,4326,37.560,-90.294,9900
+15833,Fredericktown,OH,Knox County,,city-us,2645,40.481,-82.541,4652
+15836,Fredericktown,PA,Washington County,,city-us,209,40.003,-79.998,492
+15831,Fredericktown,MD,Cecil County,,city-us,0,39.366,-75.884,742
+15832,Fredericktown,OH,Columbiana County,,city-us,0,40.714,-80.548,1462
+15835,Fredericktown,KY,Washington County,,city-us,0,37.758,-85.342,345

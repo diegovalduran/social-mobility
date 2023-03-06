@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26691,Manville,NJ,,city-us,10812,40.541,-74.588,18596
-26688,Manville,SC,,city-us,459,34.154,-80.303,823
-26690,Manville,WY,,city-us,94,42.779,-104.618,3209
-26689,Manville,IL,,city-us,5,41.055,-88.766,140
-26687,Manville,IN,,city-us,0,38.788,-85.286,1894
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26691,Manville,NJ,Somerset County,,city-us,10812,40.541,-74.588,18596
+26688,Manville,SC,Lee County,,city-us,459,34.154,-80.303,823
+26690,Manville,WY,Niobrara County,,city-us,94,42.779,-104.618,3209
+26689,Manville,IL,Livingston County,,city-us,5,41.055,-88.766,140
+26687,Manville,IN,Jefferson County,,city-us,0,38.788,-85.286,1894

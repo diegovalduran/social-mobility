@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43592,Twin Lake,MI,,city-us,2056,43.363,-86.165,2764
-43593,Twin Lake,SD,,city-us,92,43.989,-98.281,0
-43591,Twin Lake,ND,,city-us,27,48.233,-99.675,133
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43592,Twin Lake,MI,Muskegon County,,city-us,2056,43.363,-86.165,2764
+43593,Twin Lake,SD,Sanborn County,,city-us,92,43.989,-98.281,0
+43591,Twin Lake,ND,Benson County,,city-us,27,48.233,-99.675,133

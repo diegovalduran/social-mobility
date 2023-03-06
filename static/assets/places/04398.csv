@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22709,Kennedy,PA,,city-us,8604,40.476,-80.102,4971
-22717,Kennedy,CA,,city-us,2632,37.930,-121.253,3899
-22715,Kennedy,AL,,city-us,427,33.587,-87.984,2248
-22711,Kennedy,NY,,city-us,248,42.157,-79.102,1246
-22713,Kennedy,MN,,city-us,176,48.642,-96.909,2887
-22710,Kennedy,SD,,city-us,55,43.211,-98.292,0
-22712,Kennedy,ND,,city-us,33,46.330,-102.872,0
-22714,Kennedy,IL,,city-us,0,42.242,-87.871,81
-22716,Kennedy,WI,,city-us,0,45.910,-90.657,2733
-22718,Kennedy,IN,,city-us,0,38.081,-86.922,361
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22709,Kennedy,PA,Allegheny County,,city-us,8604,40.476,-80.102,4971
+22717,Kennedy,CA,San Joaquin County,,city-us,2632,37.930,-121.253,3899
+22715,Kennedy,AL,Lamar County,,city-us,427,33.587,-87.984,2248
+22711,Kennedy,NY,Chautauqua County,,city-us,248,42.157,-79.102,1246
+22713,Kennedy,MN,Kittson County,,city-us,176,48.642,-96.909,2887
+22710,Kennedy,SD,Charles Mix County,,city-us,55,43.211,-98.292,0
+22712,Kennedy,ND,Hettinger County,,city-us,33,46.330,-102.872,0
+22714,Kennedy,IL,Lake County,,city-us,0,42.242,-87.871,81
+22716,Kennedy,WI,Price County,,city-us,0,45.910,-90.657,2733
+22718,Kennedy,IN,Spencer County,,city-us,0,38.081,-86.922,361

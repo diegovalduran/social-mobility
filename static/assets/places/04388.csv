@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22673,Kenansville,NC,,city-us,692,34.962,-77.962,3037
-22674,Kenansville,FL,,city-us,0,27.876,-80.988,1575
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22673,Kenansville,NC,Duplin County,,city-us,692,34.962,-77.962,3037
+22674,Kenansville,FL,Osceola County,,city-us,0,27.876,-80.988,1575

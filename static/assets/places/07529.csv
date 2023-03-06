@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38200,Saint Petersburg,,Russia,city-international,5384342,59.950,30.317,81066
-38199,Saint Petersburg,CO,,city-us,0,40.556,-102.817,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38200,Saint Petersburg,,,Russia,city-international,5384342,59.950,30.317,81066
+38199,Saint Petersburg,CO,Logan County,,city-us,0,40.556,-102.817,212

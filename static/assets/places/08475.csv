@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42724,Thane,,India,city-international,1886941,19.180,72.963,8206
-42740,Thayne,WY,,city-us,391,42.921,-111.002,3424
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42724,Thane,,,India,city-international,1886941,19.180,72.963,8206
+42740,Thayne,WY,Lincoln County,,city-us,391,42.921,-111.002,3424

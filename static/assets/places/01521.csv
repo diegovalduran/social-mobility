@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7715,Central City,KY,,city-us,5912,37.294,-87.123,8227
-7714,Central City,NE,,city-us,3032,41.116,-98.002,10717
-7712,Central City,IA,,city-us,1254,42.204,-91.524,3383
-7713,Central City,IL,,city-us,1100,38.549,-89.127,2271
-7717,Central City,PA,,city-us,989,40.111,-78.802,4453
-7709,Central City,CO,,city-us,785,39.795,-105.509,6766
-7716,Central City,AR,,city-us,464,35.319,-94.252,2282
-7711,Central City,SD,,city-us,97,44.366,-103.772,3316
-7710,Central City,AL,,city-us,0,31.243,-85.885,309
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7715,Central City,KY,Muhlenberg County,,city-us,5912,37.294,-87.123,8227
+7714,Central City,NE,Merrick County,,city-us,3032,41.116,-98.002,10717
+7712,Central City,IA,Linn County,,city-us,1254,42.204,-91.524,3383
+7713,Central City,IL,Marion County,,city-us,1100,38.549,-89.127,2271
+7717,Central City,PA,Somerset County,,city-us,989,40.111,-78.802,4453
+7709,Central City,CO,Clear Creek County / Gilpin County,,city-us,785,39.795,-105.509,6766
+7716,Central City,AR,Sebastian County,,city-us,464,35.319,-94.252,2282
+7711,Central City,SD,Lawrence County,,city-us,97,44.366,-103.772,3316
+7710,Central City,AL,Coffee County,,city-us,0,31.243,-85.885,309

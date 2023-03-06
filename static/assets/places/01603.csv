@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8123,Cherryvale,SC,,city-us,2912,33.956,-80.458,2036
-8122,Cherryvale,KS,,city-us,2159,37.270,-95.552,6305
-8121,Cherryvale,IN,,city-us,0,39.463,-87.239,436
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8123,Cherryvale,SC,Sumter County,,city-us,2912,33.956,-80.458,2036
+8122,Cherryvale,KS,Montgomery County,,city-us,2159,37.270,-95.552,6305
+8121,Cherryvale,IN,Clay County,,city-us,0,39.463,-87.239,436

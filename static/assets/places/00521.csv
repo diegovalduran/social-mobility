@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2665,Bates,MI,,city-us,4456,44.781,-85.479,4791
-2668,Bates,MI,,city-us,918,46.245,-88.617,2059
-2667,Bates,SD,,city-us,41,44.241,-98.762,0
-2664,Bates,SD,,city-us,26,45.280,-98.034,0
-2666,Bates,OR,,city-us,0,44.593,-118.509,592
-2669,Bates,IL,,city-us,0,39.724,-89.849,180
-2670,Bates,AR,,city-us,0,34.908,-94.387,349
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2665,Bates,MI,Grand Traverse County,,city-us,4456,44.781,-85.479,4791
+2668,Bates,MI,Iron County,,city-us,918,46.245,-88.617,2059
+2667,Bates,SD,Hand County,,city-us,41,44.241,-98.762,0
+2664,Bates,SD,Brown County,,city-us,26,45.280,-98.034,0
+2666,Bates,OR,Grant County,,city-us,0,44.593,-118.509,592
+2669,Bates,IL,Sangamon County,,city-us,0,39.724,-89.849,180
+2670,Bates,AR,Scott County,,city-us,0,34.908,-94.387,349

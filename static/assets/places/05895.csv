@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30262,Narrows,VA,,city-us,2063,37.332,-80.811,2943
-30261,Narrows,GA,,city-us,0,34.379,-83.464,463
-30263,Narrows,OR,,city-us,0,43.279,-118.962,582
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30262,Narrows,VA,Giles County,,city-us,2063,37.332,-80.811,2943
+30261,Narrows,GA,Banks County,,city-us,0,34.379,-83.464,463
+30263,Narrows,OR,Harney County,,city-us,0,43.279,-118.962,582

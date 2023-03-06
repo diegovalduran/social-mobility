@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4724,Bookwalter,OH,,city-us,0,39.704,-83.530,302
-4725,Bookwalter,NE,,city-us,0,40.062,-96.369,284
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4724,Bookwalter,OH,Fayette County,,city-us,0,39.704,-83.530,302
+4725,Bookwalter,NE,Pawnee County,,city-us,0,40.062,-96.369,284

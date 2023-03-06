@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31259,Nordland,MN,,city-us,1006,46.466,-93.635,179
-31260,Nordland,MN,,city-us,187,44.501,-96.019,179
-31261,Nordland,SD,,city-us,28,45.830,-97.528,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31259,Nordland,MN,Aitkin County,,city-us,1006,46.466,-93.635,179
+31260,Nordland,MN,Lyon County,,city-us,187,44.501,-96.019,179
+31261,Nordland,SD,Marshall County,,city-us,28,45.830,-97.528,0

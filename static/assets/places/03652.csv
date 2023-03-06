@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18505,Halltown,NJ,,city-us,1475,39.623,-75.415,11629
-18504,Halltown,MO,,city-us,103,37.193,-93.625,2959
-18502,Halltown,AL,,city-us,0,34.453,-88.061,343
-18503,Halltown,WV,,city-us,0,39.314,-77.798,648
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18505,Halltown,NJ,Salem County,,city-us,1475,39.623,-75.415,11629
+18504,Halltown,MO,Lawrence County,,city-us,103,37.193,-93.625,2959
+18502,Halltown,AL,Franklin County,,city-us,0,34.453,-88.061,343
+18503,Halltown,WV,Jefferson County,,city-us,0,39.314,-77.798,648

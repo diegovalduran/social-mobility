@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11017,Darbyville,OH,,city-us,186,39.697,-83.114,3009
-11015,Darbyville,IA,,city-us,0,40.816,-92.873,291
-11016,Darbyville,VA,,city-us,0,36.830,-83.052,83
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11017,Darbyville,OH,Pickaway County,,city-us,186,39.697,-83.114,3009
+11015,Darbyville,IA,Appanoose County,,city-us,0,40.816,-92.873,291
+11016,Darbyville,VA,Lee County,,city-us,0,36.830,-83.052,83

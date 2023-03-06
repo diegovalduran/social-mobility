@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19584,Helendale,CA,,city-us,6317,34.744,-117.324,7137
-19583,Helendale,ND,,city-us,104,46.580,-97.209,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19584,Helendale,CA,San Bernardino County,,city-us,6317,34.744,-117.324,7137
+19583,Helendale,ND,Richland County,,city-us,104,46.580,-97.209,0

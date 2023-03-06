@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32790,Oxbow,MI,,city-us,30019,42.648,-83.496,5329
-32788,Oxbow,ND,,city-us,375,46.673,-96.810,2832
-32789,Oxbow,NY,,city-us,89,44.287,-75.623,746
-32787,Oxbow,OR,,city-us,0,44.975,-116.863,1163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32790,Oxbow,MI,Oakland County,,city-us,30019,42.648,-83.496,5329
+32788,Oxbow,ND,Cass County,,city-us,375,46.673,-96.810,2832
+32789,Oxbow,NY,Jefferson County,,city-us,89,44.287,-75.623,746
+32787,Oxbow,OR,Baker County,,city-us,0,44.975,-116.863,1163

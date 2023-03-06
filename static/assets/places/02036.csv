@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10288,Creamery,WV,,city-us,0,37.642,-80.678,120
-10289,Creamery,PA,,city-us,0,40.220,-75.416,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10288,Creamery,WV,Monroe County,,city-us,0,37.642,-80.678,120
+10289,Creamery,PA,Montgomery County,,city-us,0,40.220,-75.416,198

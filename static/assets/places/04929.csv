@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25331,Lochiel,IN,,city-us,0,40.664,-87.274,359
-25332,Lochiel,PA,,city-us,0,40.948,-76.954,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25331,Lochiel,IN,Benton County,,city-us,0,40.664,-87.274,359
+25332,Lochiel,PA,Union County,,city-us,0,40.948,-76.954,123

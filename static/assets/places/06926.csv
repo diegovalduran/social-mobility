@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35213,Powhattan,KS,,city-us,858,39.724,-95.709,548
-35209,Powhatan,AR,,city-us,104,36.082,-91.118,3210
-35211,Powhatan,LA,,city-us,102,31.873,-93.201,2129
-35208,Powhatan,NC,,city-us,0,35.614,-78.418,568
-35210,Powhatan,WV,,city-us,0,37.401,-81.420,217
-35212,Powhatan,VA,,city-us,0,37.542,-77.919,1111
-35214,Powhattan,OH,,city-us,0,40.042,-83.690,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35213,Powhattan,KS,Brown County,,city-us,858,39.724,-95.709,548
+35209,Powhatan,AR,Lawrence County,,city-us,104,36.082,-91.118,3210
+35211,Powhatan,LA,Natchitoches Parish,,city-us,102,31.873,-93.201,2129
+35208,Powhatan,NC,Johnston County,,city-us,0,35.614,-78.418,568
+35210,Powhatan,WV,McDowell County,,city-us,0,37.401,-81.420,217
+35212,Powhatan,VA,Powhatan County,,city-us,0,37.542,-77.919,1111
+35214,Powhattan,OH,Champaign County,,city-us,0,40.042,-83.690,184

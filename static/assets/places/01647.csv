@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8334,Chrisman,IL,,city-us,1204,39.804,-87.674,2068
-10384,Crisman,CO,,city-us,163,40.041,-105.361,2298
-8335,Chrisman,OH,,city-us,0,39.833,-83.373,543
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8334,Chrisman,IL,Edgar County,,city-us,1204,39.804,-87.674,2068
+10384,Crisman,CO,Boulder County,,city-us,163,40.041,-105.361,2298
+8335,Chrisman,OH,Madison County,,city-us,0,39.833,-83.373,543

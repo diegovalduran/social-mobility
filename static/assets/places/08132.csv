@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41156,Stacy,MN,,city-us,1713,45.398,-92.987,3414
-41155,Stacy,VA,,city-us,0,37.321,-81.996,261
-41157,Stacy,KY,,city-us,0,37.403,-83.210,152
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41156,Stacy,MN,Chisago County,,city-us,1713,45.398,-92.987,3414
+41155,Stacy,VA,Buchanan County,,city-us,0,37.321,-81.996,261
+41157,Stacy,KY,Perry County,,city-us,0,37.403,-83.210,152

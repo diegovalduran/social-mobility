@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18162,Grenville,SD,,city-us,75,45.461,-97.422,2944
-18163,Grenville,NM,,city-us,23,36.593,-103.616,2116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18162,Grenville,SD,Day County,,city-us,75,45.461,-97.422,2944
+18163,Grenville,NM,Union County,,city-us,23,36.593,-103.616,2116

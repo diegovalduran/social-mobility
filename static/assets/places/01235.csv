@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6226,Burr,NE,,city-us,53,40.536,-96.300,3031
-6227,Burr,WV,,city-us,0,38.066,-80.105,128
-6228,Burr,MO,,city-us,0,36.502,-90.986,236
-6229,Burr,TX,,city-us,0,29.308,-96.007,3286
-6230,Burr,MN,,city-us,0,44.748,-96.359,342
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6226,Burr,NE,Otoe County,,city-us,53,40.536,-96.300,3031
+6227,Burr,WV,Pocahontas County,,city-us,0,38.066,-80.105,128
+6228,Burr,MO,Ripley County,,city-us,0,36.502,-90.986,236
+6229,Burr,TX,Wharton County,,city-us,0,29.308,-96.007,3286
+6230,Burr,MN,Yellow Medicine County,,city-us,0,44.748,-96.359,342

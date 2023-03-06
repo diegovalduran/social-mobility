@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26978,Marlborough,MA,,city-us,41110,42.346,-71.552,15255
-26981,Marlborough,NY,,city-us,8794,41.636,-73.987,3532
-26976,Marlborough,CT,,city-us,6093,41.636,-72.454,6251
-26974,Marlboro,NY,,city-us,3758,41.606,-73.972,3404
-26979,Marlborough,PA,,city-us,3524,40.361,-75.451,3757
-26980,Marlborough,MO,,city-us,2208,38.570,-90.337,3163
-26977,Marlborough,NH,,city-us,2133,42.886,-72.178,3920
-26975,Marlboro,VT,,city-us,1568,42.876,-72.738,5958
-26970,Marlboro,OH,,city-us,305,40.417,-83.064,124
-26973,Marlboro,OH,,city-us,247,40.951,-81.214,476
-26969,Marlboro,NJ,,city-us,55,39.485,-75.328,531
-26971,Marlboro,VA,,city-us,0,39.081,-78.322,258
-26972,Marlboro,NJ,,city-us,0,40.315,-74.246,548
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26978,Marlborough,MA,Middlesex County,,city-us,41110,42.346,-71.552,15255
+26981,Marlborough,NY,Ulster County,,city-us,8794,41.636,-73.987,3532
+26976,Marlborough,CT,Capitol Planning Region,,city-us,6093,41.636,-72.454,6251
+26974,Marlboro,NY,Ulster County,,city-us,3758,41.606,-73.972,3404
+26979,Marlborough,PA,Montgomery County,,city-us,3524,40.361,-75.451,3757
+26980,Marlborough,MO,St. Louis County,,city-us,2208,38.570,-90.337,3163
+26977,Marlborough,NH,Cheshire County,,city-us,2133,42.886,-72.178,3920
+26975,Marlboro,VT,Windham County,,city-us,1568,42.876,-72.738,5958
+26970,Marlboro,OH,Delaware County,,city-us,305,40.417,-83.064,124
+26973,Marlboro,OH,Stark County,,city-us,247,40.951,-81.214,476
+26969,Marlboro,NJ,Cumberland County,,city-us,55,39.485,-75.328,531
+26971,Marlboro,VA,Frederick County,,city-us,0,39.081,-78.322,258
+26972,Marlboro,NJ,Monmouth County,,city-us,0,40.315,-74.246,548

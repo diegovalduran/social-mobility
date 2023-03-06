@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26518,Man,,C��te d'Ivoire,city-international,146974,7.400,-7.550,2877
-26517,Man,WV,,city-us,759,37.740,-81.878,3398
-26620,Mann,PA,,city-us,502,39.771,-78.412,2164
-26621,Mann,WI,,city-us,0,44.700,-90.217,112
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26518,Man,,,C��te d'Ivoire,city-international,146974,7.400,-7.550,2877
+26517,Man,WV,Logan County,,city-us,759,37.740,-81.878,3398
+26620,Mann,PA,Bedford County,,city-us,502,39.771,-78.412,2164
+26621,Mann,WI,Marathon County,,city-us,0,44.700,-90.217,112

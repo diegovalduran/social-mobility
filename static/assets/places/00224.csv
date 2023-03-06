@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1169,Anoka,MN,,city-us,17847,45.198,-93.387,9731
-1170,Anoka,NE,,city-us,12,42.947,-98.831,2707
-1171,Anoka,IN,,city-us,0,40.722,-86.282,302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1169,Anoka,MN,Anoka County,,city-us,17847,45.198,-93.387,9731
+1170,Anoka,NE,Boyd County,,city-us,12,42.947,-98.831,2707
+1171,Anoka,IN,Cass County,,city-us,0,40.722,-86.282,302

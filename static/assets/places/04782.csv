@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24397,Leith,ND,,city-us,29,46.358,-101.637,4661
-24398,Leith,OH,,city-us,0,39.455,-81.150,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24397,Leith,ND,Grant County,,city-us,29,46.358,-101.637,4661
+24398,Leith,OH,Washington County,,city-us,0,39.455,-81.150,248

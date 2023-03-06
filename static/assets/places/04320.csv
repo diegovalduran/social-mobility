@@ -1,24 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22364,Jordan,,,country,11086716,30.585,36.238,73581
-22361,Jordan,MN,,city-us,6777,44.667,-93.627,5204
-22359,Jordan,NY,,city-us,1229,43.065,-76.473,3545
-22343,Jordan,MI,,city-us,904,45.070,-85.039,2405
-22363,Jordan,IL,,city-us,850,41.880,-89.696,282
-22356,Jordan,PA,,city-us,847,41.243,-76.527,237
-22358,Jordan,PA,,city-us,778,40.667,-76.747,237
-22352,Jordan,WI,,city-us,602,42.640,-89.769,2556
-22347,Jordan,PA,,city-us,477,40.839,-78.564,237
-22349,Jordan,MN,,city-us,388,43.804,-92.269,1930
-22351,Jordan,MT,,city-us,351,47.321,-106.910,5353
-22362,Jordan,SD,,city-us,45,43.393,-100.064,0
-22342,Jordan,VA,,city-us,0,37.676,-75.693,69
-22344,Jordan,TX,,city-us,0,29.941,-97.355,142
-22345,Jordan,IA,,city-us,0,42.049,-93.784,1066
-22346,Jordan,SC,,city-us,0,33.606,-80.209,211
-22348,Jordan,IN,,city-us,0,38.689,-87.207,169
-22350,Jordan,KY,,city-us,0,36.503,-89.037,201
-22353,Jordan,MO,,city-us,0,38.021,-93.141,262
-22354,Jordan,NC,,city-us,0,35.669,-78.307,213
-22355,Jordan,OR,,city-us,0,44.727,-122.699,600
-22357,Jordan,WV,,city-us,0,39.549,-80.081,250
-22360,Jordan,IN,,city-us,0,39.398,-86.917,537
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22364,Jordan,,,,country,11086716,30.585,36.238,73581
+22361,Jordan,MN,Scott County,,city-us,6777,44.667,-93.627,5204
+22359,Jordan,NY,Onondaga County,,city-us,1229,43.065,-76.473,3545
+22343,Jordan,MI,Antrim County,,city-us,904,45.070,-85.039,2405
+22363,Jordan,IL,Whiteside County,,city-us,850,41.880,-89.696,282
+22356,Jordan,PA,Lycoming County,,city-us,847,41.243,-76.527,237
+22358,Jordan,PA,Northumberland County,,city-us,778,40.667,-76.747,237
+22352,Jordan,WI,Green County,,city-us,602,42.640,-89.769,2556
+22347,Jordan,PA,Clearfield County,,city-us,477,40.839,-78.564,237
+22349,Jordan,MN,Fillmore County,,city-us,388,43.804,-92.269,1930
+22351,Jordan,MT,Garfield County,,city-us,351,47.321,-106.910,5353
+22362,Jordan,SD,Tripp County,,city-us,45,43.393,-100.064,0
+22342,Jordan,VA,Accomack County,,city-us,0,37.676,-75.693,69
+22344,Jordan,TX,Bastrop County,,city-us,0,29.941,-97.355,142
+22345,Jordan,IA,Boone County,,city-us,0,42.049,-93.784,1066
+22346,Jordan,SC,Clarendon County,,city-us,0,33.606,-80.209,211
+22348,Jordan,IN,Daviess County,,city-us,0,38.689,-87.207,169
+22350,Jordan,KY,Fulton County,,city-us,0,36.503,-89.037,201
+22353,Jordan,MO,Hickory County,,city-us,0,38.021,-93.141,262
+22354,Jordan,NC,Johnston County,,city-us,0,35.669,-78.307,213
+22355,Jordan,OR,Linn County,,city-us,0,44.727,-122.699,600
+22357,Jordan,WV,Marion County,,city-us,0,39.549,-80.081,250
+22360,Jordan,IN,Owen County,,city-us,0,39.398,-86.917,537

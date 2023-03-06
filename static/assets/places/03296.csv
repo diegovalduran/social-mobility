@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16700,Ghent,NY,,city-us,5334,42.315,-73.649,3720
-16702,Ghent,WV,,city-us,575,37.617,-81.115,5012
-16701,Ghent,MN,,city-us,374,44.513,-95.891,3041
-16699,Ghent,KY,,city-us,363,38.738,-85.058,4383
-16703,Ghent,OH,,city-us,0,41.158,-81.637,670
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16700,Ghent,NY,Columbia County,,city-us,5334,42.315,-73.649,3720
+16702,Ghent,WV,Raleigh County,,city-us,575,37.617,-81.115,5012
+16701,Ghent,MN,Lyon County,,city-us,374,44.513,-95.891,3041
+16699,Ghent,KY,Carroll County,,city-us,363,38.738,-85.058,4383
+16703,Ghent,OH,Summit County,,city-us,0,41.158,-81.637,670

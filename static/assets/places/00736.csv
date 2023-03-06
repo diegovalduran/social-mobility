@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3865,Beverly Beach,FL,,city-us,484,29.515,-81.144,2416
-3851,Beverley Beach,MD,,city-us,0,38.875,-76.508,5137
-3866,Beverly Beach,OR,,city-us,0,44.721,-124.057,547
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3865,Beverly Beach,FL,Flagler County,,city-us,484,29.515,-81.144,2416
+3851,Beverley Beach,MD,Anne Arundel County,,city-us,0,38.875,-76.508,5137
+3866,Beverly Beach,OR,Lincoln County,,city-us,0,44.721,-124.057,547

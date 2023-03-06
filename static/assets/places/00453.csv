@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2379,Bangor,ME,,city-us,31921,44.801,-68.778,35220
-2371,Bangor,MI,,city-us,13907,43.651,-83.895,3858
-2378,Bangor,PA,,city-us,5172,40.866,-75.207,4426
-2375,Bangor,NY,,city-us,2140,44.838,-74.430,3519
-2381,Bangor,MI,,city-us,1997,42.313,-86.113,4334
-2376,Bangor,WI,,city-us,613,43.854,-90.970,3702
-2374,Bangor,CA,,city-us,420,39.389,-121.405,4368
-2380,Bangor,MN,,city-us,169,45.535,-95.185,1839
-2373,Bangor,SD,,city-us,164,44.319,-97.059,0
-2372,Bangor,AL,,city-us,0,33.974,-86.757,1035
-2377,Bangor,IA,,city-us,0,42.173,-93.094,508
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2379,Bangor,ME,Penobscot County,,city-us,31921,44.801,-68.778,35220
+2371,Bangor,MI,Bay County,,city-us,13907,43.651,-83.895,3858
+2378,Bangor,PA,Northampton County,,city-us,5172,40.866,-75.207,4426
+2375,Bangor,NY,Franklin County,,city-us,2140,44.838,-74.430,3519
+2381,Bangor,MI,Van Buren County,,city-us,1997,42.313,-86.113,4334
+2376,Bangor,WI,La Crosse County,,city-us,613,43.854,-90.970,3702
+2374,Bangor,CA,Butte County,,city-us,420,39.389,-121.405,4368
+2380,Bangor,MN,Pope County,,city-us,169,45.535,-95.185,1839
+2373,Bangor,SD,Brookings County,,city-us,164,44.319,-97.059,0
+2372,Bangor,AL,Blount County,,city-us,0,33.974,-86.757,1035
+2377,Bangor,IA,Marshall County,,city-us,0,42.173,-93.094,508

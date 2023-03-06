@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7630,Centerview,MO,,city-us,188,38.744,-93.845,3365
-7629,Centerview,KS,,city-us,0,37.815,-99.269,247
-7631,Centerview,OK,,city-us,0,35.434,-96.665,303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7630,Centerview,MO,Johnson County,,city-us,188,38.744,-93.845,3365
+7629,Centerview,KS,Edwards County,,city-us,0,37.815,-99.269,247
+7631,Centerview,OK,Pottawatomie County,,city-us,0,35.434,-96.665,303

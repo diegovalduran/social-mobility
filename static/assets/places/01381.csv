@@ -1,26 +1,26 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6927,Carlisle,MI,,city-us,20317,42.813,-85.724,4454
-6923,Carlisle,PA,,city-us,20144,40.201,-77.189,18860
-6929,Carlisle,OH,,city-us,7143,41.308,-82.122,1292
-6931,Carlisle,OH,,city-us,5569,39.579,-84.321,4590
-6930,Carlisle,MA,,city-us,5181,42.537,-71.361,5293
-6937,Carlisle,IA,,city-us,4201,41.514,-93.497,3995
-6966,Carlyle,IL,,city-us,3800,38.610,-89.359,1142
-6932,Carlisle,KY,,city-us,2121,38.312,-84.027,2375
-6928,Carlisle,AR,,city-us,2004,34.783,-91.747,3496
-6938,Carlisle,NY,,city-us,1780,42.739,-74.439,3296
-6924,Carlisle,MI,,city-us,1742,42.554,-85.005,2564
-6939,Carlisle,OK,,city-us,671,35.501,-95.026,2025
-6940,Carlisle,IN,,city-us,620,38.968,-87.406,3440
-6942,Carlisle,SC,,city-us,318,34.593,-81.463,2059
-6935,Carlisle,ND,,city-us,99,48.804,-97.360,0
-6965,Carlyle,SD,,city-us,83,44.233,-98.386,0
-6941,Carlisle,TX,,city-us,68,30.874,-95.207,265
-6921,Carlisle,SD,,city-us,32,45.642,-98.661,0
-6922,Carlisle,MS,,city-us,0,32.003,-90.784,871
-6925,Carlisle,WV,,city-us,0,37.961,-81.180,261
-6926,Carlisle,NE,,city-us,0,40.351,-97.765,309
-6933,Carlisle,OH,,city-us,0,39.746,-81.364,206
-6934,Carlisle,MN,,city-us,0,46.368,-96.190,207
-6936,Carlisle,LA,,city-us,0,29.687,-89.962,218
-6964,Carlyle,KS,,city-us,0,37.994,-95.391,2395
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6927,Carlisle,MI,Kent County,,city-us,20317,42.813,-85.724,4454
+6923,Carlisle,PA,Cumberland County,,city-us,20144,40.201,-77.189,18860
+6929,Carlisle,OH,Lorain County,,city-us,7143,41.308,-82.122,1292
+6931,Carlisle,OH,Montgomery County / Warren County,,city-us,5569,39.579,-84.321,4590
+6930,Carlisle,MA,Middlesex County,,city-us,5181,42.537,-71.361,5293
+6937,Carlisle,IA,Polk County / Warren County,,city-us,4201,41.514,-93.497,3995
+6966,Carlyle,IL,Clinton County,,city-us,3800,38.610,-89.359,1142
+6932,Carlisle,KY,Nicholas County,,city-us,2121,38.312,-84.027,2375
+6928,Carlisle,AR,Lonoke County,,city-us,2004,34.783,-91.747,3496
+6938,Carlisle,NY,Schoharie County,,city-us,1780,42.739,-74.439,3296
+6924,Carlisle,MI,Eaton County,,city-us,1742,42.554,-85.005,2564
+6939,Carlisle,OK,Sequoyah County,,city-us,671,35.501,-95.026,2025
+6940,Carlisle,IN,Sullivan County,,city-us,620,38.968,-87.406,3440
+6942,Carlisle,SC,Union County,,city-us,318,34.593,-81.463,2059
+6935,Carlisle,ND,Pembina County,,city-us,99,48.804,-97.360,0
+6965,Carlyle,SD,Beadle County,,city-us,83,44.233,-98.386,0
+6941,Carlisle,TX,Trinity County,,city-us,68,30.874,-95.207,265
+6921,Carlisle,SD,Brown County,,city-us,32,45.642,-98.661,0
+6922,Carlisle,MS,Claiborne County,,city-us,0,32.003,-90.784,871
+6925,Carlisle,WV,Fayette County,,city-us,0,37.961,-81.180,261
+6926,Carlisle,NE,Fillmore County,,city-us,0,40.351,-97.765,309
+6933,Carlisle,OH,Noble County,,city-us,0,39.746,-81.364,206
+6934,Carlisle,MN,Otter Tail County,,city-us,0,46.368,-96.190,207
+6936,Carlisle,LA,Plaquemines Parish,,city-us,0,29.687,-89.962,218
+6964,Carlyle,KS,Allen County,,city-us,0,37.994,-95.391,2395

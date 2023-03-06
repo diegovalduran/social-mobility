@@ -1,26 +1,26 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5229,Bridgeport,CT,,city-us,148333,41.187,-73.196,66811
-5231,Bridgeport,WV,,city-us,9257,39.286,-80.256,6113
-5240,Bridgeport,MI,,city-us,6571,43.359,-83.882,3117
-5244,Bridgeport,TX,,city-us,5972,33.210,-97.755,4641
-5237,Bridgeport,PA,,city-us,5032,40.105,-75.345,4624
-5233,Bridgeport,IL,,city-us,2276,38.701,-87.780,345
-5232,Bridgeport,AL,,city-us,2257,34.948,-85.714,7611
-5226,Bridgeport,WA,,city-us,2137,48.008,-119.671,4696
-5221,Bridgeport,OH,,city-us,1569,40.070,-80.740,4537
-5234,Bridgeport,NY,,city-us,1567,43.159,-75.964,2730
-5238,Bridgeport,NE,,city-us,1463,41.665,-103.099,3890
-5225,Bridgeport,WI,,city-us,946,43.009,-91.058,2614
-5236,Bridgeport,CA,,city-us,424,38.256,-119.231,5714
-5228,Bridgeport,NJ,,city-us,389,39.801,-75.347,1652
-5223,Bridgeport,OK,,city-us,104,35.546,-98.385,2897
-5241,Bridgeport,KS,,city-us,64,38.628,-97.613,1141
-5220,Bridgeport,OR,,city-us,0,44.486,-117.745,235
-5222,Bridgeport,VA,,city-us,0,37.710,-78.334,96
-5224,Bridgeport,TN,,city-us,0,35.953,-83.117,134
-5227,Bridgeport,KY,,city-us,0,38.160,-84.951,1583
-5230,Bridgeport,IN,,city-us,0,38.176,-85.906,225
-5235,Bridgeport,CA,,city-us,0,37.433,-120.004,299
-5239,Bridgeport,OR,,city-us,0,44.848,-123.386,156
-5242,Bridgeport,OH,,city-us,0,40.161,-83.395,417
-5243,Bridgeport,MO,,city-us,0,38.744,-91.400,193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5229,Bridgeport,CT,Greater Bridgeport Planning Region,,city-us,148333,41.187,-73.196,66811
+5231,Bridgeport,WV,Harrison County,,city-us,9257,39.286,-80.256,6113
+5240,Bridgeport,MI,Saginaw County,,city-us,6571,43.359,-83.882,3117
+5244,Bridgeport,TX,Wise County,,city-us,5972,33.210,-97.755,4641
+5237,Bridgeport,PA,Montgomery County,,city-us,5032,40.105,-75.345,4624
+5233,Bridgeport,IL,Lawrence County,,city-us,2276,38.701,-87.780,345
+5232,Bridgeport,AL,Jackson County,,city-us,2257,34.948,-85.714,7611
+5226,Bridgeport,WA,Douglas County,,city-us,2137,48.008,-119.671,4696
+5221,Bridgeport,OH,Belmont County,,city-us,1569,40.070,-80.740,4537
+5234,Bridgeport,NY,Madison County / Onondaga County,,city-us,1567,43.159,-75.964,2730
+5238,Bridgeport,NE,Morrill County,,city-us,1463,41.665,-103.099,3890
+5225,Bridgeport,WI,Crawford County,,city-us,946,43.009,-91.058,2614
+5236,Bridgeport,CA,Mono County,,city-us,424,38.256,-119.231,5714
+5228,Bridgeport,NJ,Gloucester County,,city-us,389,39.801,-75.347,1652
+5223,Bridgeport,OK,Caddo County,,city-us,104,35.546,-98.385,2897
+5241,Bridgeport,KS,Saline County,,city-us,64,38.628,-97.613,1141
+5220,Bridgeport,OR,Baker County,,city-us,0,44.486,-117.745,235
+5222,Bridgeport,VA,Buckingham County,,city-us,0,37.710,-78.334,96
+5224,Bridgeport,TN,Cocke County,,city-us,0,35.953,-83.117,134
+5227,Bridgeport,KY,Franklin County,,city-us,0,38.160,-84.951,1583
+5230,Bridgeport,IN,Harrison County,,city-us,0,38.176,-85.906,225
+5235,Bridgeport,CA,Mariposa County,,city-us,0,37.433,-120.004,299
+5239,Bridgeport,OR,Polk County,,city-us,0,44.848,-123.386,156
+5242,Bridgeport,OH,Union County,,city-us,0,40.161,-83.395,417
+5243,Bridgeport,MO,Warren County,,city-us,0,38.744,-91.400,193

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7492,Cedar Valley,OK,,city-us,414,35.864,-97.562,3075
-7493,Cedar Valley,MN,,city-us,182,47.136,-93.034,3759
-7491,Cedar Valley,TX,,city-us,0,30.906,-97.677,676
-7494,Cedar Valley,OH,,city-us,0,40.872,-82.025,393
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7492,Cedar Valley,OK,Logan County,,city-us,414,35.864,-97.562,3075
+7493,Cedar Valley,MN,St. Louis County,,city-us,182,47.136,-93.034,3759
+7491,Cedar Valley,TX,Bell County,,city-us,0,30.906,-97.677,676
+7494,Cedar Valley,OH,Wayne County,,city-us,0,40.872,-82.025,393

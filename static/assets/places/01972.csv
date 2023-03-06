@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10032,Cottage Grove,MN,,city-us,39926,44.828,-92.944,9054
-10029,Cottage Grove,OR,,city-us,10637,43.798,-123.060,10200
-10027,Cottage Grove,WI,,city-us,7338,43.076,-89.200,3435
-10026,Cottage Grove,KS,,city-us,221,37.755,-95.352,479
-10028,Cottage Grove,TN,,city-us,66,36.379,-88.479,2138
-10030,Cottage Grove,IL,,city-us,0,37.748,-88.411,302
-10031,Cottage Grove,IN,,city-us,0,39.596,-84.862,282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10032,Cottage Grove,MN,Washington County,,city-us,39926,44.828,-92.944,9054
+10029,Cottage Grove,OR,Lane County,,city-us,10637,43.798,-123.060,10200
+10027,Cottage Grove,WI,Dane County,,city-us,7338,43.076,-89.200,3435
+10026,Cottage Grove,KS,Allen County,,city-us,221,37.755,-95.352,479
+10028,Cottage Grove,TN,Henry County,,city-us,66,36.379,-88.479,2138
+10030,Cottage Grove,IL,Saline County,,city-us,0,37.748,-88.411,302
+10031,Cottage Grove,IN,Union County,,city-us,0,39.596,-84.862,282

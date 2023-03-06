@@ -1,48 +1,48 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31838,Oakland,CA,,city-us,433823,37.804,-122.271,69563
-31873,Oakland,MI,,city-us,20177,42.753,-83.154,9770
-31839,Oakland,NJ,,city-us,12669,41.013,-74.264,21743
-31855,Oakland,TN,,city-us,9520,35.229,-89.515,6163
-31862,Oakland,ME,,city-us,6260,44.579,-69.733,5905
-31874,Oakland,FL,,city-us,3499,28.555,-81.633,4006
-31876,Oakland,NJ,,city-us,3467,39.562,-75.311,9581
-31861,Oakland,WI,,city-us,3213,42.985,-88.947,2387
-31844,Oakland,PA,,city-us,2741,40.917,-79.829,264
-31859,Oakland,MD,,city-us,1817,39.408,-79.407,9004
-31845,Oakland,PA,,city-us,1615,40.306,-78.888,284
-31875,Oakland,IA,,city-us,1510,41.309,-95.397,3465
-31865,Oakland,PA,,city-us,1488,40.990,-80.370,2306
-31843,Oakland,NE,,city-us,1378,41.836,-96.467,4232
-31878,Oakland,MO,,city-us,1375,38.576,-90.386,3178
-31882,Oakland,PA,,city-us,1336,41.497,-79.761,264
-31854,Oakland,WI,,city-us,1186,46.495,-91.990,2242
-31879,Oakland,SC,,city-us,1038,33.983,-80.488,2074
-31853,Oakland,OR,,city-us,940,43.422,-123.298,4416
-31869,Oakland,OK,,city-us,857,34.100,-96.794,2258
-31842,Oakland,WI,,city-us,827,45.938,-92.369,2128
-31851,Oakland,IL,,city-us,732,39.654,-88.026,3217
-31880,Oakland,PA,,city-us,562,41.950,-75.605,2108
-31884,Oakland,MS,,city-us,466,34.056,-89.916,2838
-31867,Oakland,MN,,city-us,264,47.191,-95.746,210
-31883,Oakland,KY,,city-us,198,37.042,-86.248,2167
-31877,Oakland,IL,,city-us,133,40.234,-90.508,272
-31868,Oakland,AR,,city-us,72,36.461,-92.571,799
-31850,Oakland,KS,,city-us,34,39.359,-97.530,391
-31872,Oakland,ND,,city-us,30,48.157,-102.109,0
-31840,Oakland,KY,,city-us,0,38.622,-84.068,177
-31841,Oakland,TX,,city-us,0,28.993,-95.444,284
-31846,Oakland,MD,,city-us,0,38.989,-75.876,85
-31847,Oakland,AL,,city-us,0,33.014,-85.239,84
-31848,Oakland,TX,,city-us,0,31.814,-95.219,843
-31849,Oakland,OH,,city-us,0,39.483,-83.913,269
-31852,Oakland,TX,,city-us,0,29.602,-96.830,1009
-31856,Oakland,IA,,city-us,0,42.581,-93.443,182
-31857,Oakland,OH,,city-us,0,40.051,-82.778,214
-31858,Oakland,MN,,city-us,0,43.674,-93.089,497
-31860,Oakland,OH,,city-us,0,39.084,-82.713,411
-31863,Oakland,MO,,city-us,0,37.636,-92.559,417
-31864,Oakland,AL,,city-us,0,34.842,-87.799,716
-31866,Oakland,AL,,city-us,0,34.729,-86.807,155
-31870,Oakland,WA,,city-us,0,47.227,-123.066,261
-31871,Oakland,WV,,city-us,0,39.481,-78.252,288
-31881,Oakland,TX,,city-us,0,32.571,-95.756,718
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31838,Oakland,CA,Alameda County,,city-us,433823,37.804,-122.271,69563
+31873,Oakland,MI,Oakland County,,city-us,20177,42.753,-83.154,9770
+31839,Oakland,NJ,Bergen County,,city-us,12669,41.013,-74.264,21743
+31855,Oakland,TN,Fayette County,,city-us,9520,35.229,-89.515,6163
+31862,Oakland,ME,Kennebec County,,city-us,6260,44.579,-69.733,5905
+31874,Oakland,FL,Orange County,,city-us,3499,28.555,-81.633,4006
+31876,Oakland,NJ,Salem County,,city-us,3467,39.562,-75.311,9581
+31861,Oakland,WI,Jefferson County,,city-us,3213,42.985,-88.947,2387
+31844,Oakland,PA,Butler County,,city-us,2741,40.917,-79.829,264
+31859,Oakland,MD,Garrett County,,city-us,1817,39.408,-79.407,9004
+31845,Oakland,PA,Cambria County,,city-us,1615,40.306,-78.888,284
+31875,Oakland,IA,Pottawattamie County,,city-us,1510,41.309,-95.397,3465
+31865,Oakland,PA,Lawrence County,,city-us,1488,40.990,-80.370,2306
+31843,Oakland,NE,Burt County,,city-us,1378,41.836,-96.467,4232
+31878,Oakland,MO,St. Louis County,,city-us,1375,38.576,-90.386,3178
+31882,Oakland,PA,Venango County,,city-us,1336,41.497,-79.761,264
+31854,Oakland,WI,Douglas County,,city-us,1186,46.495,-91.990,2242
+31879,Oakland,SC,Sumter County,,city-us,1038,33.983,-80.488,2074
+31853,Oakland,OR,Douglas County,,city-us,940,43.422,-123.298,4416
+31869,Oakland,OK,Marshall County,,city-us,857,34.100,-96.794,2258
+31842,Oakland,WI,Burnett County,,city-us,827,45.938,-92.369,2128
+31851,Oakland,IL,Coles County,,city-us,732,39.654,-88.026,3217
+31880,Oakland,PA,Susquehanna County,,city-us,562,41.950,-75.605,2108
+31884,Oakland,MS,Yalobusha County,,city-us,466,34.056,-89.916,2838
+31867,Oakland,MN,Mahnomen County,,city-us,264,47.191,-95.746,210
+31883,Oakland,KY,Warren County,,city-us,198,37.042,-86.248,2167
+31877,Oakland,IL,Schuyler County,,city-us,133,40.234,-90.508,272
+31868,Oakland,AR,Marion County,,city-us,72,36.461,-92.571,799
+31850,Oakland,KS,Cloud County,,city-us,34,39.359,-97.530,391
+31872,Oakland,ND,Mountrail County,,city-us,30,48.157,-102.109,0
+31840,Oakland,KY,Bracken County,,city-us,0,38.622,-84.068,177
+31841,Oakland,TX,Brazoria County,,city-us,0,28.993,-95.444,284
+31846,Oakland,MD,Caroline County,,city-us,0,38.989,-75.876,85
+31847,Oakland,AL,Chambers County,,city-us,0,33.014,-85.239,84
+31848,Oakland,TX,Cherokee County,,city-us,0,31.814,-95.219,843
+31849,Oakland,OH,Clinton County,,city-us,0,39.483,-83.913,269
+31852,Oakland,TX,Colorado County,,city-us,0,29.602,-96.830,1009
+31856,Oakland,IA,Franklin County,,city-us,0,42.581,-93.443,182
+31857,Oakland,OH,Franklin County,,city-us,0,40.051,-82.778,214
+31858,Oakland,MN,Freeborn County,,city-us,0,43.674,-93.089,497
+31860,Oakland,OH,Jackson County,,city-us,0,39.084,-82.713,411
+31863,Oakland,MO,Laclede County,,city-us,0,37.636,-92.559,417
+31864,Oakland,AL,Lauderdale County,,city-us,0,34.842,-87.799,716
+31866,Oakland,AL,Limestone County,,city-us,0,34.729,-86.807,155
+31870,Oakland,WA,Mason County,,city-us,0,47.227,-123.066,261
+31871,Oakland,WV,Morgan County,,city-us,0,39.481,-78.252,288
+31881,Oakland,TX,Van Zandt County,,city-us,0,32.571,-95.756,718

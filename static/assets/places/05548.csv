@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28516,Millard,MO,,city-us,77,40.107,-92.546,3326
-28517,Millard,VA,,city-us,0,37.133,-82.386,265
-28518,Millard,WI,,city-us,0,42.734,-88.621,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28516,Millard,MO,Adair County,,city-us,77,40.107,-92.546,3326
+28517,Millard,VA,Dickenson County,,city-us,0,37.133,-82.386,265
+28518,Millard,WI,Walworth County,,city-us,0,42.734,-88.621,201

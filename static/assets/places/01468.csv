@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7342,Cayuga,IN,,city-us,946,39.949,-87.460,3895
-7337,Cayuga,NY,,city-us,475,42.919,-76.726,2343
-7338,Cayuga,OK,,city-us,128,36.634,-94.680,2358
-7341,Cayuga,ND,,city-us,40,46.074,-97.384,2624
-7336,Cayuga,TX,,city-us,0,31.957,-95.975,2982
-7339,Cayuga,MS,,city-us,0,32.159,-90.694,409
-7340,Cayuga,IL,,city-us,0,40.941,-88.584,868
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7342,Cayuga,IN,Vermillion County,,city-us,946,39.949,-87.460,3895
+7337,Cayuga,NY,Cayuga County,,city-us,475,42.919,-76.726,2343
+7338,Cayuga,OK,Delaware County,,city-us,128,36.634,-94.680,2358
+7341,Cayuga,ND,Sargent County,,city-us,40,46.074,-97.384,2624
+7336,Cayuga,TX,Anderson County,,city-us,0,31.957,-95.975,2982
+7339,Cayuga,MS,Hinds County,,city-us,0,32.159,-90.694,409
+7340,Cayuga,IL,Livingston County,,city-us,0,40.941,-88.584,868

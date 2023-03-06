@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37392,Rollins,MT,,city-us,137,47.906,-114.198,2690
-37394,Rollins,MN,,city-us,20,47.257,-91.845,666
-37393,Rollins,GA,,city-us,0,33.866,-84.902,253
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37392,Rollins,MT,Lake County,,city-us,137,47.906,-114.198,2690
+37394,Rollins,MN,St. Louis County,,city-us,20,47.257,-91.845,666
+37393,Rollins,GA,Paulding County,,city-us,0,33.866,-84.902,253

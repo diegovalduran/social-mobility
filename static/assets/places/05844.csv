@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30071,Mulvane,KS,,city-us,6587,37.476,-97.235,4687
-30070,Mulvane,WV,,city-us,0,38.161,-81.049,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30071,Mulvane,KS,Sedgwick County / Sumner County,,city-us,6587,37.476,-97.235,4687
+30070,Mulvane,WV,Fayette County,,city-us,0,38.161,-81.049,175

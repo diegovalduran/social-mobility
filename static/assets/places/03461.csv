@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17501,Grandin,MO,,city-us,231,36.829,-90.823,3454
-17502,Grandin,ND,,city-us,188,47.237,-97.003,4013
-17500,Grandin,NC,,city-us,0,36.044,-81.416,362
-17503,Grandin,NJ,,city-us,0,40.617,-74.934,478
-17504,Grandin,FL,,city-us,0,29.727,-81.919,506
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17501,Grandin,MO,Carter County,,city-us,231,36.829,-90.823,3454
+17502,Grandin,ND,Cass County / Traill County,,city-us,188,47.237,-97.003,4013
+17500,Grandin,NC,Caldwell County,,city-us,0,36.044,-81.416,362
+17503,Grandin,NJ,Hunterdon County,,city-us,0,40.617,-74.934,478
+17504,Grandin,FL,Putnam County,,city-us,0,29.727,-81.919,506

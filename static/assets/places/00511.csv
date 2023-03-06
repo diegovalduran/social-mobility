@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2616,Basham,VA,,city-us,0,37.036,-80.343,391
-2617,Basham,AL,,city-us,0,34.515,-87.018,368
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2616,Basham,VA,Montgomery County,,city-us,0,37.036,-80.343,391
+2617,Basham,AL,Morgan County,,city-us,0,34.515,-87.018,368

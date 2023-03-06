@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36231,Reese,MI,,city-us,1260,43.453,-83.689,9885
-36198,Reece,KS,,city-us,0,37.799,-96.446,429
-36229,Reese,PA,,city-us,0,40.435,-78.302,405
-36230,Reese,TX,,city-us,0,32.023,-95.392,5626
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36231,Reese,MI,Saginaw County / Tuscola County,,city-us,1260,43.453,-83.689,9885
+36198,Reece,KS,Greenwood County,,city-us,0,37.799,-96.446,429
+36229,Reese,PA,Blair County,,city-us,0,40.435,-78.302,405
+36230,Reese,TX,Cherokee County,,city-us,0,32.023,-95.392,5626

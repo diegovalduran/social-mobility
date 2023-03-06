@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31515,Northwest,OH,,city-us,1110,41.658,-84.746,1797
-31512,Northwest,NC,,city-us,777,34.313,-78.161,2399
-31514,Northwest,ND,,city-us,20,47.272,-100.041,0
-31513,Northwest,ND,,city-us,15,46.237,-98.933,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31515,Northwest,OH,Williams County,,city-us,1110,41.658,-84.746,1797
+31512,Northwest,NC,Brunswick County,,city-us,777,34.313,-78.161,2399
+31514,Northwest,ND,Kidder County,,city-us,20,47.272,-100.041,0
+31513,Northwest,ND,Dickey County,,city-us,15,46.237,-98.933,0

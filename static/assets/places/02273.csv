@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11433,Delft,,Netherlands,city-international,100011,52.012,4.359,18694
-11432,Delft,MN,,city-us,0,43.986,-95.089,1977
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11433,Delft,,,Netherlands,city-international,100011,52.012,4.359,18694
+11432,Delft,MN,Cottonwood County,,city-us,0,43.986,-95.089,1977

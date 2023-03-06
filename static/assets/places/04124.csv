@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21230,Illinois,,United States,state,12582032,39.739,-89.504,76195
-21228,Illinois,KS,,city-us,2042,37.604,-97.542,143
-21226,Illinois,KS,,city-us,534,39.692,-96.067,0
-21229,Illinois,KS,,city-us,171,37.420,-97.540,0
-21227,Illinois,KS,,city-us,49,38.632,-99.190,0
-21225,Illinois,ND,,city-us,32,47.980,-98.466,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21230,Illinois,,,United States,state,12582032,39.739,-89.504,76195
+21228,Illinois,KS,Sedgwick County,,city-us,2042,37.604,-97.542,143
+21226,Illinois,KS,Nemaha County,,city-us,534,39.692,-96.067,0
+21229,Illinois,KS,Sumner County,,city-us,171,37.420,-97.540,0
+21227,Illinois,KS,Rush County,,city-us,49,38.632,-99.190,0
+21225,Illinois,ND,Nelson County,,city-us,32,47.980,-98.466,0

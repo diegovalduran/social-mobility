@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7215,Cass,OH,,city-us,1802,40.126,-82.056,156
-7218,Cass,PA,,city-us,1772,40.712,-76.266,220
-7217,Cass,OH,,city-us,1618,40.944,-82.613,156
-7220,Cass,MO,,city-us,1114,37.196,-91.979,274
-7213,Cass,OH,,city-us,1069,41.123,-83.574,156
-7214,Cass,PA,,city-us,1008,40.289,-78.042,220
-7212,Cass,IL,,city-us,536,40.493,-90.282,1240
-7216,Cass,WV,,city-us,12,38.397,-79.915,2287
-7219,Cass,IN,,city-us,0,39.087,-87.278,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7215,Cass,OH,Muskingum County,,city-us,1802,40.126,-82.056,156
+7218,Cass,PA,Schuylkill County,,city-us,1772,40.712,-76.266,220
+7217,Cass,OH,Richland County,,city-us,1618,40.944,-82.613,156
+7220,Cass,MO,Texas County,,city-us,1114,37.196,-91.979,274
+7213,Cass,OH,Hancock County,,city-us,1069,41.123,-83.574,156
+7214,Cass,PA,Huntingdon County,,city-us,1008,40.289,-78.042,220
+7212,Cass,IL,Fulton County,,city-us,536,40.493,-90.282,1240
+7216,Cass,WV,Pocahontas County,,city-us,12,38.397,-79.915,2287
+7219,Cass,IN,Sullivan County,,city-us,0,39.087,-87.278,329

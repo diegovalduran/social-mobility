@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9533,Como,WI,,city-us,2372,42.612,-88.482,1897
-9531,Como,MS,,city-us,1101,34.511,-89.940,3718
-9527,Como,TX,,city-us,732,33.061,-95.472,803
-9534,Como,IL,,city-us,663,41.766,-89.767,129
-9532,Como,CO,,city-us,439,39.316,-105.892,1726
-9526,Como,NC,,city-us,67,36.502,-77.009,2405
-9524,Como,SD,,city-us,46,44.244,-99.248,0
-9529,Como,MN,,city-us,43,48.500,-96.059,1647
-9525,Como,TN,,city-us,0,36.293,-88.512,114
-9528,Como,IN,,city-us,0,40.385,-85.087,302
-9530,Como,MO,,city-us,0,36.620,-89.755,298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9533,Como,WI,Walworth County,,city-us,2372,42.612,-88.482,1897
+9531,Como,MS,Panola County,,city-us,1101,34.511,-89.940,3718
+9527,Como,TX,Hopkins County,,city-us,732,33.061,-95.472,803
+9534,Como,IL,Whiteside County,,city-us,663,41.766,-89.767,129
+9532,Como,CO,Park County,,city-us,439,39.316,-105.892,1726
+9526,Como,NC,Hertford County,,city-us,67,36.502,-77.009,2405
+9524,Como,SD,Hand County,,city-us,46,44.244,-99.248,0
+9529,Como,MN,Marshall County,,city-us,43,48.500,-96.059,1647
+9525,Como,TN,Henry County,,city-us,0,36.293,-88.512,114
+9528,Como,IN,Jay County,,city-us,0,40.385,-85.087,302
+9530,Como,MO,New Madrid County,,city-us,0,36.620,-89.755,298

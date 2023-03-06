@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25668,Lonoke,AR,,city-us,4146,34.784,-91.900,6388
-25667,Lonoak,CA,,city-us,0,36.278,-120.943,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25668,Lonoke,AR,Lonoke County,,city-us,4146,34.784,-91.900,6388
+25667,Lonoak,CA,Monterey County,,city-us,0,36.278,-120.943,272

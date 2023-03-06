@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1791,Athol,MA,,city-us,9154,42.596,-72.227,24562
-1787,Athol,ID,,city-us,724,47.948,-116.708,2498
-1789,Athol,KS,,city-us,42,39.765,-98.920,3262
-1788,Athol,KY,,city-us,0,37.553,-83.563,246
-1790,Athol,SD,,city-us,0,45.009,-98.596,732
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1791,Athol,MA,Worcester County,,city-us,9154,42.596,-72.227,24562
+1787,Athol,ID,Kootenai County,,city-us,724,47.948,-116.708,2498
+1789,Athol,KS,Smith County,,city-us,42,39.765,-98.920,3262
+1788,Athol,KY,Lee County,,city-us,0,37.553,-83.563,246
+1790,Athol,SD,Spink County,,city-us,0,45.009,-98.596,732

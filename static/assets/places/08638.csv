@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43316,Tripp,SD,,city-us,566,43.226,-97.966,3307
-43315,Tripp,WI,,city-us,247,46.625,-91.375,3587
-43317,Tripp,WV,,city-us,0,37.925,-82.480,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43316,Tripp,SD,Hutchinson County,,city-us,566,43.226,-97.966,3307
+43315,Tripp,WI,Bayfield County,,city-us,247,46.625,-91.375,3587
+43317,Tripp,WV,Wayne County,,city-us,0,37.925,-82.480,93

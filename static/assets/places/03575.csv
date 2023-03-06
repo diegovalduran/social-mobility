@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18210,Gross,NE,,city-us,3,42.946,-98.572,2463
-18211,Gross,KS,,city-us,0,37.601,-94.733,435
-18212,Gross,IL,,city-us,0,37.533,-88.291,114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18210,Gross,NE,Boyd County,,city-us,3,42.946,-98.572,2463
+18211,Gross,KS,Crawford County,,city-us,0,37.601,-94.733,435
+18212,Gross,IL,Hardin County,,city-us,0,37.533,-88.291,114

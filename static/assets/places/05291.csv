@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27148,Maryland,,United States,state,6164660,38.806,-77.268,79390
-27146,Maryland,NY,,city-us,1772,42.551,-74.866,4155
-27145,Maryland,IL,,city-us,506,42.165,-89.526,797
-27147,Maryland,ND,,city-us,66,48.343,-101.074,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27148,Maryland,,,United States,state,6164660,38.806,-77.268,79390
+27146,Maryland,NY,Otsego County,,city-us,1772,42.551,-74.866,4155
+27145,Maryland,IL,Ogle County,,city-us,506,42.165,-89.526,797
+27147,Maryland,ND,Ward County,,city-us,66,48.343,-101.074,0

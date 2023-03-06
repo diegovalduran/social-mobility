@@ -1,26 +1,26 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5652,Brownsville,TX,,city-us,187831,25.902,-97.497,42390
-5668,Brownsville,FL,,city-us,16583,25.821,-80.240,5611
-5659,Brownsville,TN,,city-us,9661,35.594,-89.262,10897
-5669,Brownsville,LA,,city-us,4353,32.487,-92.154,532
-5666,Brownsville,OR,,city-us,1706,44.393,-122.985,5070
-5655,Brownsville,KY,,city-us,934,37.193,-86.268,3202
-5654,Brownsville,WI,,city-us,602,43.616,-88.491,3694
-5661,Brownsville,MN,,city-us,562,43.694,-91.280,3705
-5657,Brownsville,PA,,city-us,527,40.025,-79.869,2816
-5665,Brownsville,OH,,city-us,305,39.947,-82.257,1457
-5672,Brownsville,MD,,city-us,34,39.382,-77.660,2720
-5650,Brownsville,VA,,city-us,0,38.052,-78.699,75
-5651,Brownsville,PA,,city-us,0,40.367,-76.076,655
-5653,Brownsville,AL,,city-us,0,33.126,-86.047,540
-5656,Brownsville,FL,,city-us,0,30.431,-87.253,1082
-5658,Brownsville,KY,,city-us,0,36.535,-89.217,87
-5660,Brownsville,MS,,city-us,0,32.449,-90.437,1078
-5662,Brownsville,DE,,city-us,0,38.914,-75.680,256
-5663,Brownsville,WA,,city-us,0,47.656,-122.615,602
-5664,Brownsville,WV,,city-us,0,39.002,-80.476,91
-5667,Brownsville,SC,,city-us,0,34.392,-79.592,195
-5670,Brownsville,GA,,city-us,0,33.799,-84.757,256
-5671,Brownsville,IN,,city-us,0,39.664,-85.005,231
-5673,Brownsville,IL,,city-us,0,38.041,-88.245,203
-5674,Brownsville,VT,,city-us,0,43.465,-72.475,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5652,Brownsville,TX,Cameron County,,city-us,187831,25.902,-97.497,42390
+5668,Brownsville,FL,Miami-Dade County,,city-us,16583,25.821,-80.240,5611
+5659,Brownsville,TN,Haywood County,,city-us,9661,35.594,-89.262,10897
+5669,Brownsville,LA,Ouachita Parish,,city-us,4353,32.487,-92.154,532
+5666,Brownsville,OR,Linn County,,city-us,1706,44.393,-122.985,5070
+5655,Brownsville,KY,Edmonson County,,city-us,934,37.193,-86.268,3202
+5654,Brownsville,WI,Dodge County,,city-us,602,43.616,-88.491,3694
+5661,Brownsville,MN,Houston County,,city-us,562,43.694,-91.280,3705
+5657,Brownsville,PA,Fayette County,,city-us,527,40.025,-79.869,2816
+5665,Brownsville,OH,Licking County,,city-us,305,39.947,-82.257,1457
+5672,Brownsville,MD,Washington County,,city-us,34,39.382,-77.660,2720
+5650,Brownsville,VA,Albemarle County,,city-us,0,38.052,-78.699,75
+5651,Brownsville,PA,Berks County,,city-us,0,40.367,-76.076,655
+5653,Brownsville,AL,Clay County,,city-us,0,33.126,-86.047,540
+5656,Brownsville,FL,Escambia County,,city-us,0,30.431,-87.253,1082
+5658,Brownsville,KY,Fulton County,,city-us,0,36.535,-89.217,87
+5660,Brownsville,MS,Hinds County,,city-us,0,32.449,-90.437,1078
+5662,Brownsville,DE,Kent County,,city-us,0,38.914,-75.680,256
+5663,Brownsville,WA,Kitsap County,,city-us,0,47.656,-122.615,602
+5664,Brownsville,WV,Lewis County,,city-us,0,39.002,-80.476,91
+5667,Brownsville,SC,Marlboro County,,city-us,0,34.392,-79.592,195
+5670,Brownsville,GA,Paulding County,,city-us,0,33.799,-84.757,256
+5671,Brownsville,IN,Union County,,city-us,0,39.664,-85.005,231
+5673,Brownsville,IL,White County,,city-us,0,38.041,-88.245,203
+5674,Brownsville,VT,Windsor County,,city-us,0,43.465,-72.475,0

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41363,Stebbins,CA,,city-us,834,35.406,-119.314,0
-41364,Stebbins,AK,,city-us,626,63.522,-162.288,3248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41363,Stebbins,CA,Kern County,,city-us,834,35.406,-119.314,0
+41364,Stebbins,AK,Nome Census Area,,city-us,626,63.522,-162.288,3248

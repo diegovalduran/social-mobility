@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18157,Grenada,,,country,114299,12.263,-61.604,33471
-18155,Grenada,MS,,city-us,12471,33.769,-89.808,8605
-18156,Grenada,CA,,city-us,321,41.647,-122.520,4019
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18157,Grenada,,,,country,114299,12.263,-61.604,33471
+18155,Grenada,MS,Grenada County,,city-us,12471,33.769,-89.808,8605
+18156,Grenada,CA,Siskiyou County,,city-us,321,41.647,-122.520,4019

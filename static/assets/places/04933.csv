@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25353,Lockport,IL,,city-us,58931,41.599,-88.091,631
-25351,Lockport,NY,,city-us,20738,43.171,-78.690,17697
-25352,Lockport,MI,,city-us,3709,41.937,-85.580,1963
-25350,Lockport,LA,,city-us,2490,29.646,-90.539,4746
-25348,Lockport,KS,,city-us,453,37.560,-100.727,349
-25347,Lockport,IN,,city-us,0,40.699,-86.574,554
-25349,Lockport,KY,,city-us,0,38.436,-84.967,311
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25353,Lockport,IL,Will County,,city-us,58931,41.599,-88.091,631
+25351,Lockport,NY,Niagara County,,city-us,20738,43.171,-78.690,17697
+25352,Lockport,MI,St. Joseph County,,city-us,3709,41.937,-85.580,1963
+25350,Lockport,LA,Lafourche Parish,,city-us,2490,29.646,-90.539,4746
+25348,Lockport,KS,Haskell County,,city-us,453,37.560,-100.727,349
+25347,Lockport,IN,Carroll County,,city-us,0,40.699,-86.574,554
+25349,Lockport,KY,Henry County,,city-us,0,38.436,-84.967,311

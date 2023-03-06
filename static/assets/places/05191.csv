@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26633,Mannsville,OK,,city-us,747,34.186,-96.881,2334
-26632,Mannsville,NY,,city-us,327,43.713,-76.063,4924
-26634,Mannsville,KY,,city-us,0,37.373,-85.197,431
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26633,Mannsville,OK,Johnston County,,city-us,747,34.186,-96.881,2334
+26632,Mannsville,NY,Jefferson County,,city-us,327,43.713,-76.063,4924
+26634,Mannsville,KY,Taylor County,,city-us,0,37.373,-85.197,431

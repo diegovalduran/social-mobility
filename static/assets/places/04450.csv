@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22917,Kilgore,TX,,city-us,13383,32.397,-94.860,11031
-22915,Kilgore,NE,,city-us,67,42.938,-100.956,4032
-22914,Kilgore,OH,,city-us,0,40.464,-81.002,664
-22916,Kilgore,ID,,city-us,0,44.402,-111.894,301
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22917,Kilgore,TX,Gregg County / Rusk County,,city-us,13383,32.397,-94.860,11031
+22915,Kilgore,NE,Cherry County,,city-us,67,42.938,-100.956,4032
+22914,Kilgore,OH,Carroll County,,city-us,0,40.464,-81.002,664
+22916,Kilgore,ID,Clark County,,city-us,0,44.402,-111.894,301

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6113,Burgess,SC,,city-us,31037,33.607,-79.056,1838
-6111,Burgess,IL,,city-us,2289,38.785,-89.547,2527
-6112,Burgess,MI,,city-us,1919,45.325,-85.148,4171
-6110,Burgess,MO,,city-us,19,37.556,-94.615,2980
-6114,Burgess,IL,,city-us,0,41.127,-90.641,140
-6115,Burgess,VA,,city-us,0,37.882,-76.345,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6113,Burgess,SC,Horry County,,city-us,31037,33.607,-79.056,1838
+6111,Burgess,IL,Bond County,,city-us,2289,38.785,-89.547,2527
+6112,Burgess,MI,Charlevoix County,,city-us,1919,45.325,-85.148,4171
+6110,Burgess,MO,Barton County,,city-us,19,37.556,-94.615,2980
+6114,Burgess,IL,Mercer County,,city-us,0,41.127,-90.641,140
+6115,Burgess,VA,Northumberland County,,city-us,0,37.882,-76.345,198

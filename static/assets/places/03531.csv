@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17893,Greenbrier,TN,,city-us,6930,36.428,-86.805,3819
-17890,Greenbrier,AR,,city-us,5862,35.234,-92.388,5732
-17891,Greenbrier,AL,,city-us,30,34.671,-86.844,1436
-17889,Greenbrier,MO,,city-us,0,37.111,-90.026,436
-17892,Greenbrier,IN,,city-us,0,38.463,-86.556,297
-17894,Greenbrier,IN,,city-us,0,38.121,-87.284,362
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17893,Greenbrier,TN,Robertson County,,city-us,6930,36.428,-86.805,3819
+17890,Greenbrier,AR,Faulkner County,,city-us,5862,35.234,-92.388,5732
+17891,Greenbrier,AL,Limestone County,,city-us,30,34.671,-86.844,1436
+17889,Greenbrier,MO,Bollinger County,,city-us,0,37.111,-90.026,436
+17892,Greenbrier,IN,Orange County,,city-us,0,38.463,-86.556,297
+17894,Greenbrier,IN,Warrick County,,city-us,0,38.121,-87.284,362

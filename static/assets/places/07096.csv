@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35997,Rayville,LA,,city-us,3283,32.477,-91.755,3645
-35996,Rayville,MO,,city-us,332,39.348,-94.063,3128
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35997,Rayville,LA,Richland Parish,,city-us,3283,32.477,-91.755,3645
+35996,Rayville,MO,Ray County,,city-us,332,39.348,-94.063,3128

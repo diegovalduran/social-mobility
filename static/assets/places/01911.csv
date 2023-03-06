@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9750,Cool Spring,VA,,city-us,0,36.834,-77.826,104
-9751,Cool Spring,SC,,city-us,0,33.975,-79.137,395
-9752,Cool Spring,DE,,city-us,0,38.732,-75.248,250
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9750,Cool Spring,VA,Brunswick County,,city-us,0,36.834,-77.826,104
+9751,Cool Spring,SC,Horry County,,city-us,0,33.975,-79.137,395
+9752,Cool Spring,DE,Sussex County,,city-us,0,38.732,-75.248,250

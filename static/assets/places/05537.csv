@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28439,Miles,PA,,city-us,2008,40.965,-77.371,3733
-28446,Miles,TX,,city-us,907,31.597,-100.182,2110
-28440,Miles,IA,,city-us,406,42.048,-90.316,4169
-28441,Miles,WA,,city-us,0,47.911,-118.293,354
-28442,Miles,WI,,city-us,0,45.229,-87.779,929
-28443,Miles,VA,,city-us,0,37.409,-76.363,224
-28444,Miles,NC,,city-us,0,36.086,-79.226,132
-28445,Miles,WV,,city-us,0,38.756,-79.127,169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28439,Miles,PA,Centre County,,city-us,2008,40.965,-77.371,3733
+28446,Miles,TX,Runnels County,,city-us,907,31.597,-100.182,2110
+28440,Miles,IA,Jackson County,,city-us,406,42.048,-90.316,4169
+28441,Miles,WA,Lincoln County,,city-us,0,47.911,-118.293,354
+28442,Miles,WI,Marinette County,,city-us,0,45.229,-87.779,929
+28443,Miles,VA,Mathews County,,city-us,0,37.409,-76.363,224
+28444,Miles,NC,Orange County,,city-us,0,36.086,-79.226,132
+28445,Miles,WV,Pendleton County,,city-us,0,38.756,-79.127,169

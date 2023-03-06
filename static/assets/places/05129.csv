@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26298,Maddox,TN,,city-us,0,35.161,-88.219,184
-26299,Maddox,MD,,city-us,0,38.333,-76.812,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26298,Maddox,TN,Hardin County,,city-us,0,35.161,-88.219,184
+26299,Maddox,MD,St. Mary's County,,city-us,0,38.333,-76.812,86

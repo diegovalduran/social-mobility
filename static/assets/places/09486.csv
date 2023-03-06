@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47958,Yellow Pine,ID,,city-us,305,44.965,-115.494,2849
-47959,Yellow Pine,AL,,city-us,0,31.406,-88.430,204
-47960,Yellow Pine,LA,,city-us,0,32.477,-93.324,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47958,Yellow Pine,ID,Valley County,,city-us,305,44.965,-115.494,2849
+47959,Yellow Pine,AL,Washington County,,city-us,0,31.406,-88.430,204
+47960,Yellow Pine,LA,Webster Parish,,city-us,0,32.477,-93.324,252

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35207,Powersville,MO,,city-us,44,40.549,-93.300,3343
-35204,Powersville,KY,,city-us,0,38.657,-84.112,1047
-35205,Powersville,IA,,city-us,0,42.936,-92.687,114
-35206,Powersville,GA,,city-us,0,32.604,-83.793,366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35207,Powersville,MO,Putnam County,,city-us,44,40.549,-93.300,3343
+35204,Powersville,KY,Bracken County,,city-us,0,38.657,-84.112,1047
+35205,Powersville,IA,Floyd County,,city-us,0,42.936,-92.687,114
+35206,Powersville,GA,Peach County,,city-us,0,32.604,-83.793,366

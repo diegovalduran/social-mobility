@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30575,New Chicago,IN,,city-us,1980,41.558,-87.274,3375
-30573,New Chicago,CA,,city-us,25,38.437,-120.836,193
-30574,New Chicago,MT,,city-us,0,46.627,-113.142,656
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30575,New Chicago,IN,Lake County,,city-us,1980,41.558,-87.274,3375
+30573,New Chicago,CA,Amador County,,city-us,25,38.437,-120.836,193
+30574,New Chicago,MT,Granite County,,city-us,0,46.627,-113.142,656

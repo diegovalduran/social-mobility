@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35567,Purcell,OK,,city-us,6602,35.024,-97.374,14435
-35569,Purcell,MO,,city-us,317,37.242,-94.435,3354
-35571,Purcell,ND,,city-us,88,48.247,-102.353,0
-35568,Purcell,KS,,city-us,0,39.681,-95.331,505
-35570,Purcell,IN,,city-us,0,38.596,-87.519,326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35567,Purcell,OK,Cleveland County / McClain County,,city-us,6602,35.024,-97.374,14435
+35569,Purcell,MO,Jasper County,,city-us,317,37.242,-94.435,3354
+35571,Purcell,ND,Mountrail County,,city-us,88,48.247,-102.353,0
+35568,Purcell,KS,Doniphan County,,city-us,0,39.681,-95.331,505
+35570,Purcell,IN,Knox County,,city-us,0,38.596,-87.519,326

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30988,Newlin,PA,,city-us,1355,39.923,-75.737,2982
-30989,Newlin,TX,,city-us,0,34.590,-100.444,143
-30990,Newlyn,WV,,city-us,0,38.074,-81.083,103
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30988,Newlin,PA,Chester County,,city-us,1355,39.923,-75.737,2982
+30989,Newlin,TX,Hall County,,city-us,0,34.590,-100.444,143
+30990,Newlyn,WV,Fayette County,,city-us,0,38.074,-81.083,103

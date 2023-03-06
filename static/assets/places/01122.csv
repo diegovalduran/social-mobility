@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5597,Brownfield,TX,,city-us,8916,33.181,-102.274,8774
-5595,Brownfield,ME,,city-us,1667,43.931,-70.919,5050
-5593,Brownfield,PA,,city-us,0,39.857,-79.712,192
-5594,Brownfield,MO,,city-us,0,37.667,-92.345,503
-5596,Brownfield,IL,,city-us,0,37.346,-88.607,197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5597,Brownfield,TX,Terry County,,city-us,8916,33.181,-102.274,8774
+5595,Brownfield,ME,Oxford County,,city-us,1667,43.931,-70.919,5050
+5593,Brownfield,PA,Fayette County,,city-us,0,39.857,-79.712,192
+5594,Brownfield,MO,Laclede County,,city-us,0,37.667,-92.345,503
+5596,Brownfield,IL,Pope County,,city-us,0,37.346,-88.607,197

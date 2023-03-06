@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6255,Burton,MI,,city-us,29500,42.999,-83.616,6885
-6252,Burton,SC,,city-us,7818,32.436,-80.724,2510
-6261,Burton,IL,,city-us,4892,42.455,-88.217,210
-6262,Burton,MI,,city-us,4821,42.998,-84.211,4968
-6254,Burton,OH,,city-us,4382,41.463,-81.143,1389
-6263,Burton,TX,,city-us,283,30.182,-96.596,2925
-6265,Burton,MN,,city-us,138,44.667,-96.041,1814
-6251,Burton,IL,,city-us,103,39.905,-91.249,769
-6258,Burton,NE,,city-us,11,42.912,-99.592,2625
-6253,Burton,KY,,city-us,0,37.359,-82.724,95
-6256,Burton,WI,,city-us,0,42.718,-90.817,233
-6257,Burton,MO,,city-us,0,39.215,-92.612,256
-6259,Burton,WA,,city-us,0,47.389,-122.459,534
-6260,Burton,ID,,city-us,0,43.797,-111.858,298
-6264,Burton,WV,,city-us,0,39.664,-80.431,3892
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6255,Burton,MI,Genesee County,,city-us,29500,42.999,-83.616,6885
+6252,Burton,SC,Beaufort County,,city-us,7818,32.436,-80.724,2510
+6261,Burton,IL,McHenry County,,city-us,4892,42.455,-88.217,210
+6262,Burton,MI,Shiawassee County,,city-us,4821,42.998,-84.211,4968
+6254,Burton,OH,Geauga County,,city-us,4382,41.463,-81.143,1389
+6263,Burton,TX,Washington County,,city-us,283,30.182,-96.596,2925
+6265,Burton,MN,Yellow Medicine County,,city-us,138,44.667,-96.041,1814
+6251,Burton,IL,Adams County,,city-us,103,39.905,-91.249,769
+6258,Burton,NE,Keya Paha County,,city-us,11,42.912,-99.592,2625
+6253,Burton,KY,Floyd County,,city-us,0,37.359,-82.724,95
+6256,Burton,WI,Grant County,,city-us,0,42.718,-90.817,233
+6257,Burton,MO,Howard County,,city-us,0,39.215,-92.612,256
+6259,Burton,WA,King County,,city-us,0,47.389,-122.459,534
+6260,Burton,ID,Madison County,,city-us,0,43.797,-111.858,298
+6264,Burton,WV,Wetzel County,,city-us,0,39.664,-80.431,3892

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37161,Rock Springs,WY,,city-us,23196,41.587,-109.203,13585
-37158,Rock Springs,NM,,city-us,1104,35.609,-108.829,2442
-37159,Rock Springs,WI,,city-us,330,43.492,-89.919,3661
-37160,Rock Springs,MO,,city-us,0,37.756,-90.483,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37161,Rock Springs,WY,Sweetwater County,,city-us,23196,41.587,-109.203,13585
+37158,Rock Springs,NM,McKinley County,,city-us,1104,35.609,-108.829,2442
+37159,Rock Springs,WI,Sauk County,,city-us,330,43.492,-89.919,3661
+37160,Rock Springs,MO,St. Francois County,,city-us,0,37.756,-90.483,231

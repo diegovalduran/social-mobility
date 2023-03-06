@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32766,Owen,IL,,city-us,3599,42.383,-89.107,347
-32765,Owen,WI,,city-us,909,44.949,-90.564,4817
-32764,Owen,IN,,city-us,0,38.458,-85.542,430
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32766,Owen,IL,Winnebago County,,city-us,3599,42.383,-89.107,347
+32765,Owen,WI,Clark County,,city-us,909,44.949,-90.564,4817
+32764,Owen,IN,Clark County,,city-us,0,38.458,-85.542,430

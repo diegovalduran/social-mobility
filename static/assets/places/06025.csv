@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30806,New Richland,MN,,city-us,434,43.884,-93.460,2035
-30805,New Richland,OH,,city-us,0,40.486,-83.773,282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30806,New Richland,MN,Waseca County,,city-us,434,43.884,-93.460,2035
+30805,New Richland,OH,Logan County,,city-us,0,40.486,-83.773,282

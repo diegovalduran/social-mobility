@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8639,Clay City,KY,,city-us,1202,37.859,-83.919,3810
-8638,Clay City,IN,,city-us,879,39.277,-87.113,3558
-8637,Clay City,IL,,city-us,838,38.689,-88.354,5163
-8636,Clay City,AL,,city-us,0,30.486,-87.807,496
-8640,Clay City,IN,,city-us,0,38.083,-86.952,155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8639,Clay City,KY,Powell County,,city-us,1202,37.859,-83.919,3810
+8638,Clay City,IN,Clay County,,city-us,879,39.277,-87.113,3558
+8637,Clay City,IL,Clay County,,city-us,838,38.689,-88.354,5163
+8636,Clay City,AL,Baldwin County,,city-us,0,30.486,-87.807,496
+8640,Clay City,IN,Spencer County,,city-us,0,38.083,-86.952,155

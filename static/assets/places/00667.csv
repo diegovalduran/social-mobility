@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3381,Belvedere,SC,,city-us,5330,33.531,-81.945,3168
-3383,Belvedere,CA,,city-us,2104,37.873,-122.464,4930
-3382,Belvedere,OH,,city-us,0,40.358,-80.765,330
-3384,Belvedere,DE,,city-us,0,39.722,-75.616,1432
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3381,Belvedere,SC,Aiken County,,city-us,5330,33.531,-81.945,3168
+3383,Belvedere,CA,Marin County,,city-us,2104,37.873,-122.464,4930
+3382,Belvedere,OH,Jefferson County,,city-us,0,40.358,-80.765,330
+3384,Belvedere,DE,New Castle County,,city-us,0,39.722,-75.616,1432

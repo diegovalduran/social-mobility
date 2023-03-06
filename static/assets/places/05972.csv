@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30581,New Columbus,PA,,city-us,218,41.173,-76.294,2390
-30582,New Columbus,IN,,city-us,0,40.019,-85.656,1965
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30581,New Columbus,PA,Luzerne County,,city-us,218,41.173,-76.294,2390
+30582,New Columbus,IN,Madison County,,city-us,0,40.019,-85.656,1965

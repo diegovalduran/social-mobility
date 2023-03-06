@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14776,Felix,IL,,city-us,4451,41.311,-88.295,1156
-14775,Felix,CA,,city-us,0,38.028,-120.716,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14776,Felix,IL,Grundy County,,city-us,4451,41.311,-88.295,1156
+14775,Felix,CA,Calaveras County,,city-us,0,38.028,-120.716,226

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15454,Fort Mitchell,KY,,city-us,8662,39.059,-84.547,4317
-15455,Fort Mitchell,VA,,city-us,0,36.918,-78.486,316
-15456,Fort Mitchell,AL,,city-us,0,32.342,-85.022,1282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15454,Fort Mitchell,KY,Kenton County,,city-us,8662,39.059,-84.547,4317
+15455,Fort Mitchell,VA,Lunenburg County,,city-us,0,36.918,-78.486,316
+15456,Fort Mitchell,AL,Russell County,,city-us,0,32.342,-85.022,1282

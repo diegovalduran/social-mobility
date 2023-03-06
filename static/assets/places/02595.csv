@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12841,Ebenezer,TX,,city-us,0,32.972,-94.881,1381
-12842,Ebenezer,PA,,city-us,0,40.235,-76.776,206
-12843,Ebenezer,MO,,city-us,0,37.340,-93.307,416
-12844,Ebenezer,MS,,city-us,0,32.971,-90.091,1840
-12845,Ebenezer,TX,,city-us,0,31.038,-94.161,422
-12846,Ebenezer,WI,,city-us,0,43.138,-88.738,166
-12847,Ebenezer,KY,,city-us,0,37.880,-84.815,119
-12848,Ebenezer,KY,,city-us,0,37.204,-87.081,138
-12849,Ebenezer,VA,,city-us,0,36.817,-79.191,96
-12850,Ebenezer,OH,,city-us,0,39.842,-84.697,244
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12841,Ebenezer,TX,Camp County,,city-us,0,32.972,-94.881,1381
+12842,Ebenezer,PA,Dauphin County,,city-us,0,40.235,-76.776,206
+12843,Ebenezer,MO,Greene County,,city-us,0,37.340,-93.307,416
+12844,Ebenezer,MS,Holmes County,,city-us,0,32.971,-90.091,1840
+12845,Ebenezer,TX,Jasper County,,city-us,0,31.038,-94.161,422
+12846,Ebenezer,WI,Jefferson County,,city-us,0,43.138,-88.738,166
+12847,Ebenezer,KY,Mercer County,,city-us,0,37.880,-84.815,119
+12848,Ebenezer,KY,Muhlenberg County,,city-us,0,37.204,-87.081,138
+12849,Ebenezer,VA,Pittsylvania County,,city-us,0,36.817,-79.191,96
+12850,Ebenezer,OH,Preble County,,city-us,0,39.842,-84.697,244

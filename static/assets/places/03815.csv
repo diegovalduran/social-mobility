@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19531,Hecla,SD,,city-us,29,45.889,-98.148,4158
-19532,Hecla,KY,,city-us,0,37.285,-87.527,266
-19533,Hecla,MO,,city-us,0,39.940,-93.304,399
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19531,Hecla,SD,Brown County,,city-us,29,45.889,-98.148,4158
+19532,Hecla,KY,Hopkins County,,city-us,0,37.285,-87.527,266
+19533,Hecla,MO,Linn County,,city-us,0,39.940,-93.304,399

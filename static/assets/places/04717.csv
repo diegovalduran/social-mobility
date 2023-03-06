@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24092,Laurel Grove,OR,,city-us,0,43.026,-124.415,168
-24093,Laurel Grove,VA,,city-us,0,36.679,-79.213,156
-24094,Laurel Grove,VA,,city-us,0,38.199,-76.963,101
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24092,Laurel Grove,OR,Coos County,,city-us,0,43.026,-124.415,168
+24093,Laurel Grove,VA,Pittsylvania County,,city-us,0,36.679,-79.213,156
+24094,Laurel Grove,VA,Westmoreland County,,city-us,0,38.199,-76.963,101

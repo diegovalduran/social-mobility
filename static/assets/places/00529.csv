@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4798,Bougher,NJ,,city-us,44633,39.949,-74.900,21297
-2713,Bauer,MI,,city-us,7081,42.904,-85.951,3169
-2712,Bauer,IA,,city-us,0,41.204,-93.307,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4798,Bougher,NJ,Burlington County,,city-us,44633,39.949,-74.900,21297
+2713,Bauer,MI,Ottawa County,,city-us,7081,42.904,-85.951,3169
+2712,Bauer,IA,Marion County,,city-us,0,41.204,-93.307,359

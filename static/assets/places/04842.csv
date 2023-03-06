@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24835,Liggett,CO,,city-us,0,40.045,-105.134,1066
-24836,Liggett,IN,,city-us,0,39.479,-87.484,304
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24835,Liggett,CO,Boulder County,,city-us,0,40.045,-105.134,1066
+24836,Liggett,IN,Vigo County,,city-us,0,39.479,-87.484,304

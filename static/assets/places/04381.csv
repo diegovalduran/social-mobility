@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22654,Keltner,KY,,city-us,0,37.095,-85.510,117
-22655,Keltner,MO,,city-us,0,36.969,-92.948,572
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22654,Keltner,KY,Adair County,,city-us,0,37.095,-85.510,117
+22655,Keltner,MO,Christian County,,city-us,0,36.969,-92.948,572

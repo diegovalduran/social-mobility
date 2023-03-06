@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10670,Cumming,GA,,city-us,7235,34.207,-84.140,13748
-10671,Cumming,MI,,city-us,720,44.381,-84.069,2993
-10672,Cumming,IA,,city-us,460,41.483,-93.762,3380
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10670,Cumming,GA,Forsyth County,,city-us,7235,34.207,-84.140,13748
+10671,Cumming,MI,Ogemaw County,,city-us,720,44.381,-84.069,2993
+10672,Cumming,IA,Warren County,,city-us,460,41.483,-93.762,3380

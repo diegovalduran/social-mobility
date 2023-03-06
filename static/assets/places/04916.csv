@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25265,Live Oak,CA,,city-us,16948,36.984,-121.981,9156
-25263,Live Oak,TX,,city-us,15840,29.565,-98.336,1856
-25266,Live Oak,CA,,city-us,9285,39.276,-121.660,7461
-25267,Live Oak,FL,,city-us,6843,30.295,-82.984,16507
-25264,Live Oak,SC,,city-us,83,34.056,-78.939,488
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25265,Live Oak,CA,Santa Cruz County,,city-us,16948,36.984,-121.981,9156
+25263,Live Oak,TX,Bexar County,,city-us,15840,29.565,-98.336,1856
+25266,Live Oak,CA,Sutter County,,city-us,9285,39.276,-121.660,7461
+25267,Live Oak,FL,Suwannee County,,city-us,6843,30.295,-82.984,16507
+25264,Live Oak,SC,Horry County,,city-us,83,34.056,-78.939,488

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22171,Jewtown,GA,,city-us,0,31.162,-81.397,752
-22172,Jewtown,PA,,city-us,0,40.631,-78.906,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22171,Jewtown,GA,Glynn County,,city-us,0,31.162,-81.397,752
+22172,Jewtown,PA,Indiana County,,city-us,0,40.631,-78.906,359

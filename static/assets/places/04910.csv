@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25244,Little York,IL,,city-us,276,41.011,-90.746,1824
-25245,Little York,IN,,city-us,188,38.703,-85.905,3146
-25242,Little York,NJ,,city-us,0,40.611,-75.076,1833
-25243,Little York,OH,,city-us,0,39.859,-84.258,551
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25244,Little York,IL,Warren County,,city-us,276,41.011,-90.746,1824
+25245,Little York,IN,Washington County,,city-us,188,38.703,-85.905,3146
+25242,Little York,NJ,Hunterdon County,,city-us,0,40.611,-75.076,1833
+25243,Little York,OH,Montgomery County,,city-us,0,39.859,-84.258,551

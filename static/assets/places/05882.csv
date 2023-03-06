@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30212,Namur,,Belgium,city-international,110939,50.467,4.867,8653
-30211,Namur,WI,,city-us,0,44.734,-87.670,966
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30212,Namur,,,Belgium,city-international,110939,50.467,4.867,8653
+30211,Namur,WI,Door County,,city-us,0,44.734,-87.670,966

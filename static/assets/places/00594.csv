@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3005,Beavertown,PA,,city-us,1002,40.754,-77.169,2748
-3004,Beavertown,PA,,city-us,35,40.372,-78.237,718
-3006,Beavertown,OH,,city-us,0,39.472,-81.113,189
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3005,Beavertown,PA,Snyder County,,city-us,1002,40.754,-77.169,2748
+3004,Beavertown,PA,Blair County,,city-us,35,40.372,-78.237,718
+3006,Beavertown,OH,Washington County,,city-us,0,39.472,-81.113,189

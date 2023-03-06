@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21697,Jacinto,MS,,city-us,52,34.760,-88.428,1553
-21698,Jacinto,CA,,city-us,0,39.581,-122.007,446
-21699,Jacinto,NE,,city-us,0,41.226,-103.404,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21697,Jacinto,MS,Alcorn County,,city-us,52,34.760,-88.428,1553
+21698,Jacinto,CA,Glenn County,,city-us,0,39.581,-122.007,446
+21699,Jacinto,NE,Kimball County,,city-us,0,41.226,-103.404,198

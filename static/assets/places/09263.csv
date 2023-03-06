@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46734,Whitman,MA,,city-us,15279,42.079,-70.939,11747
-46732,Whitman,WV,,city-us,1250,37.813,-82.024,3605
-47418,Wittmann,AZ,,city-us,686,33.776,-112.528,3608
-46731,Whitman,NE,,city-us,0,42.042,-101.523,543
-46733,Whitman,ND,,city-us,0,48.159,-98.120,976
-46735,Whitman,MN,,city-us,0,44.153,-91.806,107
-47417,Wittman,MD,,city-us,0,38.794,-76.294,320
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46734,Whitman,MA,Plymouth County,,city-us,15279,42.079,-70.939,11747
+46732,Whitman,WV,Logan County,,city-us,1250,37.813,-82.024,3605
+47418,Wittmann,AZ,Maricopa County,,city-us,686,33.776,-112.528,3608
+46731,Whitman,NE,Grant County,,city-us,0,42.042,-101.523,543
+46733,Whitman,ND,Nelson County,,city-us,0,48.159,-98.120,976
+46735,Whitman,MN,Winona County,,city-us,0,44.153,-91.806,107
+47417,Wittman,MD,Talbot County,,city-us,0,38.794,-76.294,320

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16708,Gibbon,NE,,city-us,1889,40.748,-98.845,3781
-16710,Gibbon,MN,,city-us,790,44.534,-94.526,2536
-16707,Gibbon,WA,,city-us,0,46.236,-119.662,353
-16709,Gibbon,OK,,city-us,0,36.943,-97.982,662
-16711,Gibbon,OR,,city-us,0,45.699,-118.365,1529
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16708,Gibbon,NE,Buffalo County,,city-us,1889,40.748,-98.845,3781
+16710,Gibbon,MN,Sibley County,,city-us,790,44.534,-94.526,2536
+16707,Gibbon,WA,Benton County,,city-us,0,46.236,-119.662,353
+16709,Gibbon,OK,Grant County,,city-us,0,36.943,-97.982,662
+16711,Gibbon,OR,Umatilla County,,city-us,0,45.699,-118.365,1529

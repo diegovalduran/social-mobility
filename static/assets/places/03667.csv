@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18661,Hampshire,IL,,city-us,9013,42.112,-88.530,374
-18662,Hampshire,TN,,city-us,1473,35.597,-87.293,745
-18663,Hampshire,WV,,city-us,0,39.472,-79.077,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18661,Hampshire,IL,Kane County,,city-us,9013,42.112,-88.530,374
+18662,Hampshire,TN,Maury County,,city-us,1473,35.597,-87.293,745
+18663,Hampshire,WV,Mineral County,,city-us,0,39.472,-79.077,267

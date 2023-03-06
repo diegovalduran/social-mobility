@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44139,Valley Brook,KS,,city-us,1516,38.615,-95.672,0
-44138,Valley Brook,OK,,city-us,657,35.402,-97.481,2721
-44140,Valley Brook,IN,,city-us,0,40.806,-85.845,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44139,Valley Brook,KS,Osage County,,city-us,1516,38.615,-95.672,0
+44138,Valley Brook,OK,Oklahoma County,,city-us,657,35.402,-97.481,2721
+44140,Valley Brook,IN,Wabash County,,city-us,0,40.806,-85.845,246

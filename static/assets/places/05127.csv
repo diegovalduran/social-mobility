@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26295,Mad River,OH,,city-us,10944,39.870,-83.926,212
-26294,Mad River,OH,,city-us,2759,40.081,-83.859,212
-26296,Mad River,CA,,city-us,347,40.452,-123.510,5899
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26295,Mad River,OH,Clark County,,city-us,10944,39.870,-83.926,212
+26294,Mad River,OH,Champaign County,,city-us,2759,40.081,-83.859,212
+26296,Mad River,CA,Trinity County,,city-us,347,40.452,-123.510,5899

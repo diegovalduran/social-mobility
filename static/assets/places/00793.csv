@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4086,Bismarck,ND,,city-us,74138,46.808,-100.784,25754
-4094,Bismark,MI,,city-us,1997,42.728,-85.010,3284
-4091,Bismarck,MO,,city-us,1255,37.769,-90.625,5109
-4092,Bismarck,IL,,city-us,575,40.264,-87.608,3189
-4095,Bismark,NE,,city-us,433,41.526,-97.304,298
-4089,Bismarck,MI,,city-us,360,45.275,-83.931,2500
-4090,Bismarck,MN,,city-us,305,44.590,-94.447,1809
-4088,Bismarck,AR,,city-us,229,34.316,-93.171,671
-4093,Bismark,NE,,city-us,146,41.874,-96.961,298
-4087,Bismarck,WV,,city-us,0,39.218,-79.233,409
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4086,Bismarck,ND,Burleigh County,,city-us,74138,46.808,-100.784,25754
+4094,Bismark,MI,Eaton County,,city-us,1997,42.728,-85.010,3284
+4091,Bismarck,MO,St. Francois County,,city-us,1255,37.769,-90.625,5109
+4092,Bismarck,IL,Vermilion County,,city-us,575,40.264,-87.608,3189
+4095,Bismark,NE,Platte County,,city-us,433,41.526,-97.304,298
+4089,Bismarck,MI,Presque Isle County,,city-us,360,45.275,-83.931,2500
+4090,Bismarck,MN,Sibley County,,city-us,305,44.590,-94.447,1809
+4088,Bismarck,AR,Hot Spring County,,city-us,229,34.316,-93.171,671
+4093,Bismark,NE,Cuming County,,city-us,146,41.874,-96.961,298
+4087,Bismarck,WV,Grant County,,city-us,0,39.218,-79.233,409

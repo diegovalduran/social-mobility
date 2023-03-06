@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9622,Condon,OR,,city-us,707,45.234,-120.185,8618
-9623,Condon,MT,,city-us,285,47.528,-113.711,1118
-9624,Condon,SD,,city-us,41,43.549,-99.687,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9622,Condon,OR,Gilliam County,,city-us,707,45.234,-120.185,8618
+9623,Condon,MT,Missoula County,,city-us,285,47.528,-113.711,1118
+9624,Condon,SD,Tripp County,,city-us,41,43.549,-99.687,0

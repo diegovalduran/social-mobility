@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17552,Grangeville,ID,,city-us,3431,45.927,-116.122,5580
-17553,Grangeville,CA,,city-us,316,36.344,-119.709,4613
-17554,Grangeville,LA,,city-us,0,30.742,-90.834,714
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17552,Grangeville,ID,Idaho County,,city-us,3431,45.927,-116.122,5580
+17553,Grangeville,CA,Kings County,,city-us,316,36.344,-119.709,4613
+17554,Grangeville,LA,St. Helena Parish,,city-us,0,30.742,-90.834,714

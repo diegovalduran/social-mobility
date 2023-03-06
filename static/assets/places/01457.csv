@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7306,Cato,MI,,city-us,3029,43.417,-85.273,2061
-7305,Cato,WI,,city-us,1616,44.143,-87.861,2728
-7303,Cato,NY,,city-us,542,43.168,-76.573,196
-7308,Cato,ND,,city-us,13,48.322,-98.609,0
-7302,Cato,MO,,city-us,0,36.721,-93.680,422
-7304,Cato,KS,,city-us,0,37.668,-94.740,1134
-7307,Cato,IN,,city-us,0,38.437,-87.186,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7306,Cato,MI,Montcalm County,,city-us,3029,43.417,-85.273,2061
+7305,Cato,WI,Manitowoc County,,city-us,1616,44.143,-87.861,2728
+7303,Cato,NY,Cayuga County,,city-us,542,43.168,-76.573,196
+7308,Cato,ND,Ramsey County,,city-us,13,48.322,-98.609,0
+7302,Cato,MO,Barry County,,city-us,0,36.721,-93.680,422
+7304,Cato,KS,Crawford County,,city-us,0,37.668,-94.740,1134
+7307,Cato,IN,Pike County,,city-us,0,38.437,-87.186,336

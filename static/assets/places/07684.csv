@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38905,Scotchtown,NY,,city-us,10644,41.481,-74.360,3207
-38906,Scotchtown,IN,,city-us,0,39.075,-87.298,230
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38905,Scotchtown,NY,Orange County,,city-us,10644,41.481,-74.360,3207
+38906,Scotchtown,IN,Sullivan County,,city-us,0,39.075,-87.298,230

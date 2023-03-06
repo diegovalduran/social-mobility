@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-715,Alloway,NJ,,city-us,3286,39.558,-75.318,9581
-714,Alloway,TN,,city-us,0,35.800,-84.876,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+715,Alloway,NJ,Salem County,,city-us,3286,39.558,-75.318,9581
+714,Alloway,TN,Cumberland County,,city-us,0,35.800,-84.876,167

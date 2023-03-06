@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26473,Malden,MA,,city-us,65074,42.425,-71.066,16529
-26471,Malden,MO,,city-us,3634,36.557,-89.966,5997
-26470,Malden,IL,,city-us,311,41.424,-89.369,1868
-26476,Malden,WA,,city-us,221,47.229,-117.473,3863
-26469,Malden,TX,,city-us,0,35.090,-101.308,1241
-26472,Malden,WV,,city-us,0,38.301,-81.557,957
-26474,Malden,IN,,city-us,0,41.376,-87.027,819
-26475,Malden,PA,,city-us,0,40.022,-79.559,7469
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26473,Malden,MA,Middlesex County,,city-us,65074,42.425,-71.066,16529
+26471,Malden,MO,Dunklin County,,city-us,3634,36.557,-89.966,5997
+26470,Malden,IL,Bureau County,,city-us,311,41.424,-89.369,1868
+26476,Malden,WA,Whitman County,,city-us,221,47.229,-117.473,3863
+26469,Malden,TX,Armstrong County,,city-us,0,35.090,-101.308,1241
+26472,Malden,WV,Kanawha County,,city-us,0,38.301,-81.557,957
+26474,Malden,IN,Porter County,,city-us,0,41.376,-87.027,819
+26475,Malden,PA,Washington County,,city-us,0,40.022,-79.559,7469

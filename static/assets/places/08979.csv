@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45053,Walsh,CO,,city-us,543,37.386,-102.278,2687
-45054,Walsh,WI,,city-us,0,45.179,-87.763,2049
-45055,Walsh,IL,,city-us,0,38.089,-89.851,162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45053,Walsh,CO,Baca County,,city-us,543,37.386,-102.278,2687
+45054,Walsh,WI,Marinette County,,city-us,0,45.179,-87.763,2049
+45055,Walsh,IL,Randolph County,,city-us,0,38.089,-89.851,162

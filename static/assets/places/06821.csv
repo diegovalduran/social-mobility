@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34757,Plum Grove,TX,,city-us,1344,30.215,-95.095,1951
-34756,Plum Grove,KS,,city-us,595,37.959,-96.979,538
-34758,Plum Grove,MS,,city-us,0,33.310,-88.440,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34757,Plum Grove,TX,Liberty County,,city-us,1344,30.215,-95.095,1951
+34756,Plum Grove,KS,Butler County,,city-us,595,37.959,-96.979,538
+34758,Plum Grove,MS,Lowndes County,,city-us,0,33.310,-88.440,144

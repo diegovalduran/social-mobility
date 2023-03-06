@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16314,Gardendale,AL,,city-us,16444,33.660,-86.813,18394
-16315,Gardendale,MI,,city-us,11108,43.039,-82.477,2947
-16313,Gardendale,TX,,city-us,1574,32.023,-102.378,2379
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16314,Gardendale,AL,Jefferson County,,city-us,16444,33.660,-86.813,18394
+16315,Gardendale,MI,St. Clair County,,city-us,11108,43.039,-82.477,2947
+16313,Gardendale,TX,Ector County,,city-us,1574,32.023,-102.378,2379

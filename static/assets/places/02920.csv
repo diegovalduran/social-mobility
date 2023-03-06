@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14635,Farmingdale,NY,,city-us,8426,40.733,-73.445,8708
-14633,Farmingdale,ME,,city-us,3000,44.261,-69.828,4447
-14634,Farmingdale,NJ,,city-us,1502,40.197,-74.168,10776
-14636,Farmingdale,SD,,city-us,0,43.959,-102.884,280
-14637,Farmingdale,IL,,city-us,0,39.823,-89.806,142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14635,Farmingdale,NY,Nassau County,,city-us,8426,40.733,-73.445,8708
+14633,Farmingdale,ME,Kennebec County,,city-us,3000,44.261,-69.828,4447
+14634,Farmingdale,NJ,Monmouth County,,city-us,1502,40.197,-74.168,10776
+14636,Farmingdale,SD,Pennington County,,city-us,0,43.959,-102.884,280
+14637,Farmingdale,IL,Sangamon County,,city-us,0,39.823,-89.806,142

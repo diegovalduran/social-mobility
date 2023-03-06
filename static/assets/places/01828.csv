@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9349,Collins,NY,,city-us,5895,42.492,-78.868,5653
-9347,Collins,MS,,city-us,2242,31.645,-89.555,9729
-9356,Collins,GA,,city-us,518,32.181,-82.109,2423
-9355,Collins,IA,,city-us,511,41.903,-93.306,3834
-9350,Collins,OH,,city-us,458,41.259,-82.491,1147
-9352,Collins,MN,,city-us,435,44.762,-94.436,1798
-9351,Collins,WI,,city-us,221,44.086,-87.983,876
-9346,Collins,SD,,city-us,181,44.587,-97.675,0
-9348,Collins,AR,,city-us,149,33.532,-91.565,493
-9354,Collins,MO,,city-us,127,37.891,-93.623,3108
-9353,Collins,CA,,city-us,0,38.166,-122.252,270
-9357,Collins,IN,,city-us,0,41.197,-85.387,686
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9349,Collins,NY,Erie County,,city-us,5895,42.492,-78.868,5653
+9347,Collins,MS,Covington County,,city-us,2242,31.645,-89.555,9729
+9356,Collins,GA,Tattnall County,,city-us,518,32.181,-82.109,2423
+9355,Collins,IA,Story County,,city-us,511,41.903,-93.306,3834
+9350,Collins,OH,Huron County,,city-us,458,41.259,-82.491,1147
+9352,Collins,MN,McLeod County,,city-us,435,44.762,-94.436,1798
+9351,Collins,WI,Manitowoc County,,city-us,221,44.086,-87.983,876
+9346,Collins,SD,Clark County,,city-us,181,44.587,-97.675,0
+9348,Collins,AR,Drew County,,city-us,149,33.532,-91.565,493
+9354,Collins,MO,St. Clair County,,city-us,127,37.891,-93.623,3108
+9353,Collins,CA,Napa County,,city-us,0,38.166,-122.252,270
+9357,Collins,IN,Whitley County,,city-us,0,41.197,-85.387,686

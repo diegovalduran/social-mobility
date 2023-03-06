@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43176,Townley,IN,,city-us,0,41.018,-84.864,153
-43177,Townley,MO,,city-us,0,36.617,-89.970,270
-43178,Townley,AL,,city-us,0,33.829,-87.432,965
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43176,Townley,IN,Allen County,,city-us,0,41.018,-84.864,153
+43177,Townley,MO,Dunklin County,,city-us,0,36.617,-89.970,270
+43178,Townley,AL,Walker County,,city-us,0,33.829,-87.432,965

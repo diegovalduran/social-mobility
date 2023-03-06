@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32609,Oskaloosa,IA,,city-us,11536,41.296,-92.644,14554
-32608,Oskaloosa,KS,,city-us,2158,39.218,-95.312,896
-32606,Oskaloosa,MO,,city-us,0,37.639,-94.593,527
-32607,Oskaloosa,IL,,city-us,0,38.760,-88.649,116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32609,Oskaloosa,IA,Mahaska County,,city-us,11536,41.296,-92.644,14554
+32608,Oskaloosa,KS,Jefferson County,,city-us,2158,39.218,-95.312,896
+32606,Oskaloosa,MO,Barton County,,city-us,0,37.639,-94.593,527
+32607,Oskaloosa,IL,Clay County,,city-us,0,38.760,-88.649,116

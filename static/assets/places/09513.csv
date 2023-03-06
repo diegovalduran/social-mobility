@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48109,Zanesville,OH,,city-us,24721,39.940,-82.013,13490
-48107,Zanesville,IN,,city-us,584,40.915,-85.280,3632
-48108,Zanesville,IL,,city-us,0,39.322,-89.653,472
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48109,Zanesville,OH,Muskingum County,,city-us,24721,39.940,-82.013,13490
+48107,Zanesville,IN,Allen County / Wells County,,city-us,584,40.915,-85.280,3632
+48108,Zanesville,IL,Montgomery County,,city-us,0,39.322,-89.653,472

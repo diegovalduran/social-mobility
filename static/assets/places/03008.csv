@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15064,Flat Iron,IN,,city-us,0,40.053,-87.490,854
-15065,Flat Iron,VA,,city-us,0,38.148,-76.921,98
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15064,Flat Iron,IN,Vermillion County,,city-us,0,40.053,-87.490,854
+15065,Flat Iron,VA,Westmoreland County,,city-us,0,38.148,-76.921,98

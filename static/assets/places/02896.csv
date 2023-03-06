@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14528,Falling Spring,WV,,city-us,168,37.992,-80.354,5611
-14527,Falling Spring,VA,,city-us,0,37.886,-79.979,756
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14528,Falling Spring,WV,Greenbrier County,,city-us,168,37.992,-80.354,5611
+14527,Falling Spring,VA,Alleghany County,,city-us,0,37.886,-79.979,756

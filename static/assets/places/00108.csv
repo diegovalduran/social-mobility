@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-558,Alfalfa,OK,,city-us,0,35.219,-98.607,488
-559,Alfalfa,OR,,city-us,0,44.078,-121.016,1866
-560,Alfalfa,AL,,city-us,0,32.510,-87.764,505
-561,Alfalfa,LA,,city-us,0,31.370,-92.619,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+558,Alfalfa,OK,Caddo County,,city-us,0,35.219,-98.607,488
+559,Alfalfa,OR,Deschutes County,,city-us,0,44.078,-121.016,1866
+560,Alfalfa,AL,Marengo County,,city-us,0,32.510,-87.764,505
+561,Alfalfa,LA,Rapides Parish,,city-us,0,31.370,-92.619,85

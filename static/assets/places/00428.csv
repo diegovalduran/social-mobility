@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2268,Bakerville,TN,,city-us,0,35.944,-87.874,501
-2269,Bakerville,IL,,city-us,0,38.258,-88.897,89
-2270,Bakerville,IL,,city-us,0,40.063,-89.197,127
-2271,Bakerville,MO,,city-us,0,36.234,-89.918,359
-2272,Bakerville,WI,,city-us,0,44.627,-90.218,347
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2268,Bakerville,TN,Humphreys County,,city-us,0,35.944,-87.874,501
+2269,Bakerville,IL,Jefferson County,,city-us,0,38.258,-88.897,89
+2270,Bakerville,IL,Logan County,,city-us,0,40.063,-89.197,127
+2271,Bakerville,MO,Pemiscot County,,city-us,0,36.234,-89.918,359
+2272,Bakerville,WI,Wood County,,city-us,0,44.627,-90.218,347

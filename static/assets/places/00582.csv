@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2918,Beaumont,TX,,city-us,112556,30.086,-94.102,38601
-2922,Beaumont,CA,,city-us,55280,33.929,-116.977,15853
-2920,Beaumont,MS,,city-us,675,31.169,-88.920,2691
-2917,Beaumont,KS,,city-us,36,37.658,-96.533,2795
-2916,Beaumont,OH,,city-us,0,39.386,-82.138,260
-2919,Beaumont,KY,,city-us,0,36.876,-85.652,86
-2921,Beaumont,VA,,city-us,0,37.666,-77.908,427
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2918,Beaumont,TX,Jefferson County,,city-us,112556,30.086,-94.102,38601
+2922,Beaumont,CA,Riverside County,,city-us,55280,33.929,-116.977,15853
+2920,Beaumont,MS,Perry County,,city-us,675,31.169,-88.920,2691
+2917,Beaumont,KS,Butler County,,city-us,36,37.658,-96.533,2795
+2916,Beaumont,OH,Athens County,,city-us,0,39.386,-82.138,260
+2919,Beaumont,KY,Metcalfe County,,city-us,0,36.876,-85.652,86
+2921,Beaumont,VA,Powhatan County,,city-us,0,37.666,-77.908,427

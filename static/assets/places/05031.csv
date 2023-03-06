@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25835,Love,IL,,city-us,232,39.917,-87.580,968
-25830,Love,VA,,city-us,0,37.885,-79.010,1076
-25831,Love,KY,,city-us,0,37.283,-86.527,410
-25832,Love,TX,,city-us,0,32.971,-94.609,252
-25833,Love,MS,,city-us,0,34.753,-89.970,1067
-25834,Love,TX,,city-us,0,34.540,-101.576,474
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25835,Love,IL,Vermilion County,,city-us,232,39.917,-87.580,968
+25830,Love,VA,Augusta County,,city-us,0,37.885,-79.010,1076
+25831,Love,KY,Butler County,,city-us,0,37.283,-86.527,410
+25832,Love,TX,Cass County,,city-us,0,32.971,-94.609,252
+25833,Love,MS,DeSoto County,,city-us,0,34.753,-89.970,1067
+25834,Love,TX,Swisher County,,city-us,0,34.540,-101.576,474

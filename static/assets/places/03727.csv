@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19075,Harrisonville,MO,,city-us,10042,38.653,-94.349,5553
-19077,Harrisonville,NJ,,city-us,306,39.685,-75.266,429
-19076,Harrisonville,PA,,city-us,0,39.987,-78.059,536
-19078,Harrisonville,OH,,city-us,0,39.126,-82.134,491
-19079,Harrisonville,IL,,city-us,0,38.278,-90.350,852
-19080,Harrisonville,KY,,city-us,0,38.088,-85.067,120
-19081,Harrisonville,GA,,city-us,0,33.176,-84.989,347
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19075,Harrisonville,MO,Cass County,,city-us,10042,38.653,-94.349,5553
+19077,Harrisonville,NJ,Gloucester County,,city-us,306,39.685,-75.266,429
+19076,Harrisonville,PA,Fulton County,,city-us,0,39.987,-78.059,536
+19078,Harrisonville,OH,Meigs County,,city-us,0,39.126,-82.134,491
+19079,Harrisonville,IL,Monroe County,,city-us,0,38.278,-90.350,852
+19080,Harrisonville,KY,Shelby County,,city-us,0,38.088,-85.067,120
+19081,Harrisonville,GA,Troup County,,city-us,0,33.176,-84.989,347

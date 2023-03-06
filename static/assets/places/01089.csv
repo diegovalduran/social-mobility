@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5401,Broadwater,NE,,city-us,99,41.596,-102.853,3270
-5402,Broadwater,MO,,city-us,0,36.582,-89.921,253
-5403,Broadwater,VA,,city-us,0,37.393,-75.709,476
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5401,Broadwater,NE,Morrill County,,city-us,99,41.596,-102.853,3270
+5402,Broadwater,MO,New Madrid County,,city-us,0,36.582,-89.921,253
+5403,Broadwater,VA,Northampton County,,city-us,0,37.393,-75.709,476

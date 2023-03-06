@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43703,Una,MS,,city-us,0,33.797,-88.807,304
-43704,Una,SC,,city-us,0,34.270,-80.134,191
-43705,Una,SC,,city-us,0,34.969,-81.970,227
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43703,Una,MS,Clay County,,city-us,0,33.797,-88.807,304
+43704,Una,SC,Darlington County,,city-us,0,34.270,-80.134,191
+43705,Una,SC,Spartanburg County,,city-us,0,34.969,-81.970,227

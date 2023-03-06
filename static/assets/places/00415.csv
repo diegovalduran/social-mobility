@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2206,Bailey,CO,,city-us,8042,39.405,-105.472,3957
-2204,Bailey,MI,,city-us,2805,43.253,-85.847,2249
-2205,Bailey,NC,,city-us,563,35.781,-78.119,2103
-2199,Bailey,TX,,city-us,231,33.432,-96.166,2890
-2202,Bailey,SD,,city-us,13,43.785,-99.696,0
-2200,Bailey,MO,,city-us,0,38.225,-90.431,345
-2201,Bailey,MS,,city-us,0,32.468,-88.723,205
-2203,Bailey,IA,,city-us,0,43.465,-92.608,5185
-2207,Bailey,MN,,city-us,0,45.317,-93.665,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2206,Bailey,CO,Park County,,city-us,8042,39.405,-105.472,3957
+2204,Bailey,MI,Muskegon County,,city-us,2805,43.253,-85.847,2249
+2205,Bailey,NC,Nash County,,city-us,563,35.781,-78.119,2103
+2199,Bailey,TX,Fannin County,,city-us,231,33.432,-96.166,2890
+2202,Bailey,SD,Lyman County,,city-us,13,43.785,-99.696,0
+2200,Bailey,MO,Jefferson County,,city-us,0,38.225,-90.431,345
+2201,Bailey,MS,Lauderdale County,,city-us,0,32.468,-88.723,205
+2203,Bailey,IA,Mitchell County,,city-us,0,43.465,-92.608,5185
+2207,Bailey,MN,Sherburne County,,city-us,0,45.317,-93.665,300

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22902,Kiel,,Germany,city-international,246601,54.323,10.139,20514
-22900,Kiel,WI,,city-us,3961,43.916,-88.026,7596
-22901,Kiel,MO,,city-us,0,38.522,-91.244,378
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22902,Kiel,,,Germany,city-international,246601,54.323,10.139,20514
+22900,Kiel,WI,Calumet County / Manitowoc County,,city-us,3961,43.916,-88.026,7596
+22901,Kiel,MO,Franklin County,,city-us,0,38.522,-91.244,378

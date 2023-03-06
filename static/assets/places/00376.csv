@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2023,Ava,MO,,city-us,2885,36.952,-92.660,5603
-2026,Ava,NY,,city-us,679,43.414,-75.441,6173
-14067,Eva,AL,,city-us,589,34.332,-86.759,5126
-2024,Ava,IL,,city-us,546,37.888,-89.495,2392
-14065,Eva,TN,,city-us,63,36.065,-88.004,1451
-2025,Ava,OH,,city-us,0,39.832,-81.575,374
-2027,Ava,AR,,city-us,0,34.869,-93.206,381
-2028,Ava,AL,,city-us,0,33.343,-85.478,209
-14066,Eva,LA,,city-us,0,31.429,-91.787,83
-14068,Eva,FL,,city-us,0,28.326,-81.833,0
-14069,Eva,WV,,city-us,0,39.033,-81.028,250
-14070,Eva,OK,,city-us,0,36.798,-101.907,510
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2023,Ava,MO,Douglas County,,city-us,2885,36.952,-92.660,5603
+2026,Ava,NY,Oneida County,,city-us,679,43.414,-75.441,6173
+14067,Eva,AL,Morgan County,,city-us,589,34.332,-86.759,5126
+2024,Ava,IL,Jackson County,,city-us,546,37.888,-89.495,2392
+14065,Eva,TN,Benton County,,city-us,63,36.065,-88.004,1451
+2025,Ava,OH,Noble County,,city-us,0,39.832,-81.575,374
+2027,Ava,AR,Perry County,,city-us,0,34.869,-93.206,381
+2028,Ava,AL,Randolph County,,city-us,0,33.343,-85.478,209
+14066,Eva,LA,Concordia Parish,,city-us,0,31.429,-91.787,83
+14068,Eva,FL,Polk County,,city-us,0,28.326,-81.833,0
+14069,Eva,WV,Ritchie County,,city-us,0,39.033,-81.028,250
+14070,Eva,OK,Texas County,,city-us,0,36.798,-101.907,510

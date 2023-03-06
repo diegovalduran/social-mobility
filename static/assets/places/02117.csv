@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10627,Cuba,,,country,10985974,21.522,-77.781,78998
-10621,Cuba,IL,,city-us,17222,42.196,-88.163,1915
-10616,Cuba,MO,,city-us,3163,38.063,-91.403,5853
-10611,Cuba,NY,,city-us,3131,42.208,-78.243,9951
-10618,Cuba,IL,,city-us,1156,40.493,-90.191,2360
-10625,Cuba,NM,,city-us,635,36.022,-106.958,2218
-10626,Cuba,AL,,city-us,306,32.428,-88.376,4335
-10614,Cuba,MN,,city-us,304,46.934,-96.110,2627
-10624,Cuba,KS,,city-us,139,39.803,-97.456,4197
-10612,Cuba,IN,,city-us,0,41.186,-84.939,410
-10613,Cuba,ND,,city-us,0,46.821,-97.862,84
-10615,Cuba,OH,,city-us,0,41.053,-84.199,498
-10617,Cuba,GA,,city-us,0,31.293,-84.864,285
-10619,Cuba,KY,,city-us,0,36.585,-88.629,533
-10620,Cuba,WV,,city-us,0,38.991,-81.669,87
-10622,Cuba,IN,,city-us,0,39.378,-86.798,1213
-10623,Cuba,OH,,city-us,0,41.053,-84.198,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10627,Cuba,,,,country,10985974,21.522,-77.781,78998
+10621,Cuba,IL,Lake County,,city-us,17222,42.196,-88.163,1915
+10616,Cuba,MO,Crawford County,,city-us,3163,38.063,-91.403,5853
+10611,Cuba,NY,Allegany County,,city-us,3131,42.208,-78.243,9951
+10618,Cuba,IL,Fulton County,,city-us,1156,40.493,-90.191,2360
+10625,Cuba,NM,Sandoval County,,city-us,635,36.022,-106.958,2218
+10626,Cuba,AL,Sumter County,,city-us,306,32.428,-88.376,4335
+10614,Cuba,MN,Becker County,,city-us,304,46.934,-96.110,2627
+10624,Cuba,KS,Republic County,,city-us,139,39.803,-97.456,4197
+10612,Cuba,IN,Allen County,,city-us,0,41.186,-84.939,410
+10613,Cuba,ND,Barnes County,,city-us,0,46.821,-97.862,84
+10615,Cuba,OH,Clinton County,,city-us,0,41.053,-84.199,498
+10617,Cuba,GA,Early County,,city-us,0,31.293,-84.864,285
+10619,Cuba,KY,Graves County,,city-us,0,36.585,-88.629,533
+10620,Cuba,WV,Jackson County,,city-us,0,38.991,-81.669,87
+10622,Cuba,IN,Owen County,,city-us,0,39.378,-86.798,1213
+10623,Cuba,OH,Putnam County,,city-us,0,41.053,-84.198,226

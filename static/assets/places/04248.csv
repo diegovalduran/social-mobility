@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21902,Jamesville,NC,,city-us,418,35.811,-76.897,2164
-21905,Jamesville,SD,,city-us,236,43.133,-97.468,0
-21903,Jamesville,VA,,city-us,0,37.515,-75.931,109
-21904,Jamesville,MO,,city-us,0,36.960,-93.371,397
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21902,Jamesville,NC,Martin County,,city-us,418,35.811,-76.897,2164
+21905,Jamesville,SD,Yankton County,,city-us,236,43.133,-97.468,0
+21903,Jamesville,VA,Northampton County,,city-us,0,37.515,-75.931,109
+21904,Jamesville,MO,Stone County,,city-us,0,36.960,-93.371,397

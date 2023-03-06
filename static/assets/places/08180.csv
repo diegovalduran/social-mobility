@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41377,Steiner,ND,,city-us,32,46.496,-102.230,0
-41378,Steiner,MI,,city-us,0,41.989,-83.388,1612
-41379,Steiner,MS,,city-us,0,33.616,-90.618,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41377,Steiner,ND,Hettinger County,,city-us,32,46.496,-102.230,0
+41378,Steiner,MI,Monroe County,,city-us,0,41.989,-83.388,1612
+41379,Steiner,MS,Sunflower County,,city-us,0,33.616,-90.618,215

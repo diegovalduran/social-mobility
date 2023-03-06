@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13358,Elkland,MI,,city-us,3514,43.631,-83.174,1899
-13357,Elkland,PA,,city-us,1816,41.986,-77.311,17185
-13356,Elkland,PA,,city-us,549,41.530,-76.652,3137
-13359,Elkland,MO,,city-us,0,37.443,-93.031,708
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13358,Elkland,MI,Tuscola County,,city-us,3514,43.631,-83.174,1899
+13357,Elkland,PA,Tioga County,,city-us,1816,41.986,-77.311,17185
+13356,Elkland,PA,Sullivan County,,city-us,549,41.530,-76.652,3137
+13359,Elkland,MO,Webster County,,city-us,0,37.443,-93.031,708

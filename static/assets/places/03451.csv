@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17462,Grand Mound,WA,,city-us,3301,46.804,-123.010,5021
-17461,Grand Mound,IA,,city-us,616,41.824,-90.648,5229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17462,Grand Mound,WA,Thurston County,,city-us,3301,46.804,-123.010,5021
+17461,Grand Mound,IA,Clinton County,,city-us,616,41.824,-90.648,5229

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19880,Hicks,IL,,city-us,0,37.543,-88.376,128
-19881,Hicks,LA,,city-us,0,31.185,-93.016,391
-19882,Hicks,OH,,city-us,0,39.358,-84.056,163
-19883,Hicks,AR,,city-us,0,35.939,-94.048,155
-20231,Hix,TX,,city-us,0,30.698,-96.662,1193
-20232,Hix,GA,,city-us,0,34.182,-83.342,233
-20233,Hix,WV,,city-us,0,37.730,-80.819,283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19880,Hicks,IL,Hardin County,,city-us,0,37.543,-88.376,128
+19881,Hicks,LA,Vernon Parish,,city-us,0,31.185,-93.016,391
+19882,Hicks,OH,Warren County,,city-us,0,39.358,-84.056,163
+19883,Hicks,AR,Washington County,,city-us,0,35.939,-94.048,155
+20231,Hix,TX,Burleson County,,city-us,0,30.698,-96.662,1193
+20232,Hix,GA,Madison County,,city-us,0,34.182,-83.342,233
+20233,Hix,WV,Summers County,,city-us,0,37.730,-80.819,283

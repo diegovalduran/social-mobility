@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38352,Salt Lick,OH,,city-us,1080,39.620,-82.200,1321
-38351,Salt Lick,KY,,city-us,249,38.120,-83.615,3620
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38352,Salt Lick,OH,Perry County,,city-us,1080,39.620,-82.200,1321
+38351,Salt Lick,KY,Bath County,,city-us,249,38.120,-83.615,3620

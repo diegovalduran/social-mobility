@@ -1,12 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38061,Rutledge,TN,,city-us,1277,36.281,-83.515,6198
-38064,Rutledge,GA,,city-us,875,33.626,-83.612,2773
-38060,Rutledge,PA,,city-us,778,39.902,-75.329,5166
-38058,Rutledge,AL,,city-us,350,31.730,-86.310,2246
-38065,Rutledge,MN,,city-us,215,46.264,-92.867,4397
-38059,Rutledge,IL,,city-us,149,40.258,-88.757,871
-38066,Rutledge,MO,,city-us,84,40.314,-92.088,3259
-38057,Rutledge,FL,,city-us,0,29.682,-82.410,1049
-38062,Rutledge,WI,,city-us,0,42.555,-90.634,115
-38063,Rutledge,WV,,city-us,0,38.364,-81.540,90
-38067,Rutledge,OR,,city-us,0,45.338,-120.647,408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38061,Rutledge,TN,Grainger County,,city-us,1277,36.281,-83.515,6198
+38064,Rutledge,GA,Morgan County,,city-us,875,33.626,-83.612,2773
+38060,Rutledge,PA,Delaware County,,city-us,778,39.902,-75.329,5166
+38058,Rutledge,AL,Crenshaw County,,city-us,350,31.730,-86.310,2246
+38065,Rutledge,MN,Pine County,,city-us,215,46.264,-92.867,4397
+38059,Rutledge,IL,De Witt County,,city-us,149,40.258,-88.757,871
+38066,Rutledge,MO,Scotland County,,city-us,84,40.314,-92.088,3259
+38057,Rutledge,FL,Alachua County,,city-us,0,29.682,-82.410,1049
+38062,Rutledge,WI,Grant County,,city-us,0,42.555,-90.634,115
+38063,Rutledge,WV,Kanawha County,,city-us,0,38.364,-81.540,90
+38067,Rutledge,OR,Sherman County,,city-us,0,45.338,-120.647,408

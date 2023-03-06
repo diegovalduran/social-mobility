@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13638,Emerald,WI,,city-us,848,45.084,-92.309,2066
-13637,Emerald,OH,,city-us,767,41.213,-84.525,1187
-13634,Emerald,MN,,city-us,207,43.634,-93.951,1901
-13635,Emerald,NE,,city-us,45,40.814,-96.835,396
-13636,Emerald,PA,,city-us,0,40.745,-75.635,599
-13639,Emerald,WA,,city-us,0,46.303,-120.081,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13638,Emerald,WI,St. Croix County,,city-us,848,45.084,-92.309,2066
+13637,Emerald,OH,Paulding County,,city-us,767,41.213,-84.525,1187
+13634,Emerald,MN,Faribault County,,city-us,207,43.634,-93.951,1901
+13635,Emerald,NE,Lancaster County,,city-us,45,40.814,-96.835,396
+13636,Emerald,PA,Lehigh County,,city-us,0,40.745,-75.635,599
+13639,Emerald,WA,Yakima County,,city-us,0,46.303,-120.081,123

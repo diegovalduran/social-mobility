@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13521,Elmira,NY,,city-us,6740,42.095,-76.779,25076
-13523,Elmira,MI,,city-us,1742,42.554,-85.005,2564
-13526,Elmira,OR,,city-us,546,44.066,-123.354,1488
-13522,Elmira,SD,,city-us,441,44.939,-97.057,0
-13527,Elmira,MN,,city-us,355,43.891,-92.138,1751
-13530,Elmira,CA,,city-us,202,38.348,-121.910,3559
-13529,Elmira,MO,,city-us,37,39.507,-94.155,3220
-13519,Elmira,ID,,city-us,0,48.480,-116.463,298
-13520,Elmira,WV,,city-us,0,38.651,-80.991,122
-13524,Elmira,OH,,city-us,0,41.579,-84.307,444
-13525,Elmira,IN,,city-us,0,41.592,-85.204,178
-13528,Elmira,MI,,city-us,0,45.064,-84.856,5402
-13531,Elmira,IL,,city-us,0,41.180,-89.832,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13521,Elmira,NY,Chemung County,,city-us,6740,42.095,-76.779,25076
+13523,Elmira,MI,Eaton County,,city-us,1742,42.554,-85.005,2564
+13526,Elmira,OR,Lane County,,city-us,546,44.066,-123.354,1488
+13522,Elmira,SD,Codington County,,city-us,441,44.939,-97.057,0
+13527,Elmira,MN,Olmsted County,,city-us,355,43.891,-92.138,1751
+13530,Elmira,CA,Solano County,,city-us,202,38.348,-121.910,3559
+13529,Elmira,MO,Ray County,,city-us,37,39.507,-94.155,3220
+13519,Elmira,ID,Bonner County,,city-us,0,48.480,-116.463,298
+13520,Elmira,WV,Braxton County,,city-us,0,38.651,-80.991,122
+13524,Elmira,OH,Fulton County,,city-us,0,41.579,-84.307,444
+13525,Elmira,IN,LaGrange County,,city-us,0,41.592,-85.204,178
+13528,Elmira,MI,Otsego County,,city-us,0,45.064,-84.856,5402
+13531,Elmira,IL,Stark County,,city-us,0,41.180,-89.832,144

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45394,Washington Center,MO,,city-us,0,40.427,-94.157,478
-45395,Washington Center,IN,,city-us,0,41.325,-85.597,174
-45396,Washington Center,IN,,city-us,0,41.048,-85.509,295
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45394,Washington Center,MO,Harrison County,,city-us,0,40.427,-94.157,478
+45395,Washington Center,IN,Noble County,,city-us,0,41.325,-85.597,174
+45396,Washington Center,IN,Whitley County,,city-us,0,41.048,-85.509,295

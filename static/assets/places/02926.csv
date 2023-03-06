@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14699,Farrar,MO,,city-us,65,37.702,-89.689,2091
-14696,Farrar,NC,,city-us,0,35.896,-77.543,330
-14697,Farrar,GA,,city-us,0,33.463,-83.634,346
-14698,Farrar,TX,,city-us,0,31.457,-96.281,767
-14700,Farrar,IA,,city-us,0,41.806,-93.370,587
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14699,Farrar,MO,Perry County,,city-us,65,37.702,-89.689,2091
+14696,Farrar,NC,Edgecombe County,,city-us,0,35.896,-77.543,330
+14697,Farrar,GA,Jasper County,,city-us,0,33.463,-83.634,346
+14698,Farrar,TX,Limestone County,,city-us,0,31.457,-96.281,767
+14700,Farrar,IA,Polk County,,city-us,0,41.806,-93.370,587

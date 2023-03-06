@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23293,Kremlin,OK,,city-us,243,36.547,-97.831,2516
-23294,Kremlin,MT,,city-us,51,48.570,-110.087,2378
-23295,Kremlin,WI,,city-us,0,45.651,-87.845,1895
-23296,Kremlin,VA,,city-us,0,38.029,-76.691,74
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23293,Kremlin,OK,Garfield County,,city-us,243,36.547,-97.831,2516
+23294,Kremlin,MT,Hill County,,city-us,51,48.570,-110.087,2378
+23295,Kremlin,WI,Marinette County,,city-us,0,45.651,-87.845,1895
+23296,Kremlin,VA,Westmoreland County,,city-us,0,38.029,-76.691,74

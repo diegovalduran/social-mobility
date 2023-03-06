@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5415,Brockport,NY,,city-us,6961,43.214,-77.939,7470
-5414,Brockport,PA,,city-us,0,41.260,-78.727,126
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5415,Brockport,NY,Monroe County,,city-us,6961,43.214,-77.939,7470
+5414,Brockport,PA,Elk County,,city-us,0,41.260,-78.727,126

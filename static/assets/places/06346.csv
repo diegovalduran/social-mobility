@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32404,Oraville,IL,,city-us,0,37.865,-89.383,206
-32405,Oraville,MD,,city-us,0,38.418,-76.694,466
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32404,Oraville,IL,Jackson County,,city-us,0,37.865,-89.383,206
+32405,Oraville,MD,St. Mary's County,,city-us,0,38.418,-76.694,466

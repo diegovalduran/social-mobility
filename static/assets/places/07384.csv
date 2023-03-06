@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37487,Rosario,,Argentina,city-international,1193605,-32.958,-60.639,63061
-37488,Rosario,,Philippines,city-international,110807,14.417,120.850,63061
-37486,Rosario,WA,,city-us,0,48.649,-122.878,297
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37487,Rosario,,,Argentina,city-international,1193605,-32.958,-60.639,63061
+37488,Rosario,,,Philippines,city-international,110807,14.417,120.850,63061
+37486,Rosario,WA,San Juan County,,city-us,0,48.649,-122.878,297

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10405,Crofton,MD,,city-us,29812,39.002,-76.687,12424
-10407,Crofton,MI,,city-us,1479,44.646,-85.278,2519
-10408,Crofton,NE,,city-us,766,42.729,-97.496,3389
-10406,Crofton,KY,,city-us,638,37.048,-87.485,2400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10405,Crofton,MD,Anne Arundel County,,city-us,29812,39.002,-76.687,12424
+10407,Crofton,MI,Kalkaska County,,city-us,1479,44.646,-85.278,2519
+10408,Crofton,NE,Knox County,,city-us,766,42.729,-97.496,3389
+10406,Crofton,KY,Christian County,,city-us,638,37.048,-87.485,2400

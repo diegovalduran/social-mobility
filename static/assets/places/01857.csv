@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9512,Comfort,TX,,city-us,2363,29.969,-98.907,5785
-9511,Comfort,MN,,city-us,1236,45.860,-93.207,1985
-9508,Comfort,WV,,city-us,152,38.130,-81.616,307
-9509,Comfort,WI,,city-us,0,44.775,-92.036,154
-9510,Comfort,NC,,city-us,0,35.006,-77.509,99
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9512,Comfort,TX,Kendall County,,city-us,2363,29.969,-98.907,5785
+9511,Comfort,MN,Kanabec County,,city-us,1236,45.860,-93.207,1985
+9508,Comfort,WV,Boone County,,city-us,152,38.130,-81.616,307
+9509,Comfort,WI,Dunn County,,city-us,0,44.775,-92.036,154
+9510,Comfort,NC,Jones County,,city-us,0,35.006,-77.509,99

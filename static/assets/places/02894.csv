@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14518,Fall Creek,WI,,city-us,1424,44.764,-91.277,3636
-14517,Fall Creek,IL,,city-us,31,39.779,-91.302,973
-14519,Fall Creek,TX,,city-us,0,32.398,-97.651,3022
-14520,Fall Creek,OR,,city-us,0,43.960,-122.819,814
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14518,Fall Creek,WI,Eau Claire County,,city-us,1424,44.764,-91.277,3636
+14517,Fall Creek,IL,Adams County,,city-us,31,39.779,-91.302,973
+14519,Fall Creek,TX,Harris County,,city-us,0,32.398,-97.651,3022
+14520,Fall Creek,OR,Lane County,,city-us,0,43.960,-122.819,814

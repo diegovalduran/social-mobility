@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4098,Bison,SD,,city-us,303,45.520,-102.461,3261
-4099,Bison,KS,,city-us,178,38.523,-99.197,3847
-4097,Bison,OK,,city-us,70,36.196,-97.890,1767
-4096,Bison,WV,,city-us,0,38.655,-80.742,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4098,Bison,SD,Perkins County,,city-us,303,45.520,-102.461,3261
+4099,Bison,KS,Rush County,,city-us,178,38.523,-99.197,3847
+4097,Bison,OK,Garfield County,,city-us,70,36.196,-97.890,1767
+4096,Bison,WV,Braxton County,,city-us,0,38.655,-80.742,87

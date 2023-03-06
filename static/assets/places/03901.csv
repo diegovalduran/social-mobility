@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19981,Highland Center,ND,,city-us,38,48.505,-98.373,0
-19980,Highland Center,IN,,city-us,0,39.322,-85.004,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19981,Highland Center,ND,Ramsey County,,city-us,38,48.505,-98.373,0
+19980,Highland Center,IN,Franklin County,,city-us,0,39.322,-85.004,239

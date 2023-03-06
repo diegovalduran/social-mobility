@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31998,Octa,OH,,city-us,55,39.604,-83.613,3348
-31997,Octa,MO,,city-us,0,36.171,-90.123,217
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31998,Octa,OH,Fayette County,,city-us,55,39.604,-83.613,3348
+31997,Octa,MO,Dunklin County,,city-us,0,36.171,-90.123,217

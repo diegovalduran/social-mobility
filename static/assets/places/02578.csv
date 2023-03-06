@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12765,Eastham,MA,,city-us,5832,41.842,-69.989,9665
-12764,Eastham,VA,,city-us,0,38.072,-78.412,71
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12765,Eastham,MA,Barnstable County,,city-us,5832,41.842,-69.989,9665
+12764,Eastham,VA,Albemarle County,,city-us,0,38.072,-78.412,71

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42468,Tamarac,FL,,city-us,71541,26.213,-80.250,5559
-42469,Tamarac,MN,,city-us,73,48.412,-96.845,1751
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42468,Tamarac,FL,Broward County,,city-us,71541,26.213,-80.250,5559
+42469,Tamarac,MN,Marshall County,,city-us,73,48.412,-96.845,1751

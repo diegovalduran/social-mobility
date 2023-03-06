@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19358,Hay Creek,ND,,city-us,4330,46.873,-100.798,424
-19359,Hay Creek,WI,,city-us,0,44.622,-91.075,124
-19360,Hay Creek,MN,,city-us,0,44.492,-92.544,538
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19358,Hay Creek,ND,Burleigh County,,city-us,4330,46.873,-100.798,424
+19359,Hay Creek,WI,Eau Claire County,,city-us,0,44.622,-91.075,124
+19360,Hay Creek,MN,Goodhue County,,city-us,0,44.492,-92.544,538

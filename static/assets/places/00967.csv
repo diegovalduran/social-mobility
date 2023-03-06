@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4844,Bowersville,GA,,city-us,448,34.373,-83.083,2177
-4843,Bowersville,OH,,city-us,258,39.581,-83.725,3322
-4845,Bowersville,PA,,city-us,0,40.923,-78.864,302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4844,Bowersville,GA,Hart County,,city-us,448,34.373,-83.083,2177
+4843,Bowersville,OH,Greene County,,city-us,258,39.581,-83.725,3322
+4845,Bowersville,PA,Jefferson County,,city-us,0,40.923,-78.864,302

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34598,Pleasant Lake,ND,,city-us,69,48.326,-99.761,137
-34597,Pleasant Lake,SD,,city-us,61,43.629,-98.498,0
-34599,Pleasant Lake,MI,,city-us,0,42.380,-84.349,651
-34600,Pleasant Lake,IN,,city-us,0,41.575,-85.016,377
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34598,Pleasant Lake,ND,Benson County,,city-us,69,48.326,-99.761,137
+34597,Pleasant Lake,SD,Aurora County,,city-us,61,43.629,-98.498,0
+34599,Pleasant Lake,MI,Jackson County,,city-us,0,42.380,-84.349,651
+34600,Pleasant Lake,IN,Steuben County,,city-us,0,41.575,-85.016,377

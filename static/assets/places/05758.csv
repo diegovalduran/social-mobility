@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29657,Mosier,OR,,city-us,468,45.683,-121.397,4364
-29655,Mosher,SD,,city-us,0,43.468,-100.298,326
-29656,Mosher,MO,,city-us,0,37.971,-90.077,453
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29657,Mosier,OR,Wasco County,,city-us,468,45.683,-121.397,4364
+29655,Mosher,SD,Mellette County,,city-us,0,43.468,-100.298,326
+29656,Mosher,MO,Ste. Genevieve County,,city-us,0,37.971,-90.077,453

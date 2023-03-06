@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3944,Big Run,PA,,city-us,641,40.967,-78.878,2358
-3943,Big Run,OH,,city-us,0,39.355,-81.873,352
-3945,Big Run,WV,,city-us,0,39.471,-80.377,152
-3946,Big Run,WV,,city-us,0,39.798,-80.557,106
-3947,Big Run,WV,,city-us,0,38.600,-80.472,126
-3948,Big Run,WV,,city-us,0,39.584,-80.578,137
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3944,Big Run,PA,Jefferson County,,city-us,641,40.967,-78.878,2358
+3943,Big Run,OH,Athens County,,city-us,0,39.355,-81.873,352
+3945,Big Run,WV,Marion County,,city-us,0,39.471,-80.377,152
+3946,Big Run,WV,Marshall County,,city-us,0,39.798,-80.557,106
+3947,Big Run,WV,Webster County,,city-us,0,38.600,-80.472,126
+3948,Big Run,WV,Wetzel County,,city-us,0,39.584,-80.578,137

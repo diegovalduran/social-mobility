@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23584,Lake Geneva,WI,,city-us,8504,42.592,-88.433,8144
-23583,Lake Geneva,FL,,city-us,0,29.772,-82.010,367
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23584,Lake Geneva,WI,Walworth County,,city-us,8504,42.592,-88.433,8144
+23583,Lake Geneva,FL,Clay County,,city-us,0,29.772,-82.010,367

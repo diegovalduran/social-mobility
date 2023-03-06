@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3019,Beckton,KY,,city-us,0,36.984,-86.036,83
-3025,Becton,TX,,city-us,0,33.784,-101.648,2669
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3019,Beckton,KY,Barren County,,city-us,0,36.984,-86.036,83
+3025,Becton,TX,Lubbock County,,city-us,0,33.784,-101.648,2669

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30585,New Cumberland,PA,,city-us,7553,40.232,-76.885,2947
-30586,New Cumberland,WV,,city-us,1007,40.497,-80.607,5882
-30587,New Cumberland,OH,,city-us,0,40.539,-81.300,486
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30585,New Cumberland,PA,Cumberland County,,city-us,7553,40.232,-76.885,2947
+30586,New Cumberland,WV,Hancock County,,city-us,1007,40.497,-80.607,5882
+30587,New Cumberland,OH,Tuscarawas County,,city-us,0,40.539,-81.300,486

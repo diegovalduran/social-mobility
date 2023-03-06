@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1648,Ashby,MA,,city-us,3170,42.676,-71.833,13927
-1645,Ashby,MN,,city-us,478,46.093,-95.818,4242
-1647,Ashby,ND,,city-us,6,46.245,-102.435,0
-1644,Ashby,VA,,city-us,0,37.578,-78.175,115
-1646,Ashby,NE,,city-us,0,42.023,-101.929,557
-1649,Ashby,VA,,city-us,0,39.011,-78.135,126
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1648,Ashby,MA,Middlesex County,,city-us,3170,42.676,-71.833,13927
+1645,Ashby,MN,Grant County,,city-us,478,46.093,-95.818,4242
+1647,Ashby,ND,Hettinger County,,city-us,6,46.245,-102.435,0
+1644,Ashby,VA,Cumberland County,,city-us,0,37.578,-78.175,115
+1646,Ashby,NE,Grant County,,city-us,0,42.023,-101.929,557
+1649,Ashby,VA,Warren County,,city-us,0,39.011,-78.135,126

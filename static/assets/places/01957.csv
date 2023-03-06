@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9978,Corona,CA,,city-us,159743,33.875,-117.566,23564
-9976,Corona,NM,,city-us,130,34.251,-105.597,2160
-9979,Corona,SD,,city-us,67,45.334,-96.763,2920
-9975,Corona,MN,,city-us,0,46.671,-92.766,357
-9977,Corona,MO,,city-us,0,36.551,-91.412,242
-9980,Corona,TN,,city-us,0,35.445,-90.082,1599
-9981,Corona,AL,,city-us,0,33.708,-87.469,373
-23268,Korona,FL,,city-us,0,29.407,-81.197,299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9978,Corona,CA,Riverside County,,city-us,159743,33.875,-117.566,23564
+9976,Corona,NM,Lincoln County,,city-us,130,34.251,-105.597,2160
+9979,Corona,SD,Roberts County,,city-us,67,45.334,-96.763,2920
+9975,Corona,MN,Carlton County,,city-us,0,46.671,-92.766,357
+9977,Corona,MO,Oregon County,,city-us,0,36.551,-91.412,242
+9980,Corona,TN,Tipton County,,city-us,0,35.445,-90.082,1599
+9981,Corona,AL,Walker County,,city-us,0,33.708,-87.469,373
+23268,Korona,FL,Flagler County,,city-us,0,29.407,-81.197,299

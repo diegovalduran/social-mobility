@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47610,Woodleaf,CA,,city-us,0,38.589,-122.607,170
-47611,Woodleaf,NC,,city-us,0,35.769,-80.591,568
-47612,Woodleaf,CA,,city-us,0,39.517,-121.192,512
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47610,Woodleaf,CA,Napa County,,city-us,0,38.589,-122.607,170
+47611,Woodleaf,NC,Rowan County,,city-us,0,35.769,-80.591,568
+47612,Woodleaf,CA,Yuba County,,city-us,0,39.517,-121.192,512

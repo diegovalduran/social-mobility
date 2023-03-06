@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8402,Cimarron,KS,,city-us,2436,37.791,-100.290,238
-8401,Cimarron,NM,,city-us,808,36.511,-104.916,7251
-8404,Cimarron,KS,,city-us,80,37.091,-100.528,238
-8403,Cimarron,TX,,city-us,0,29.771,-95.758,922
-8405,Cimarron,CO,,city-us,0,38.442,-107.556,1141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8402,Cimarron,KS,Gray County,,city-us,2436,37.791,-100.290,238
+8401,Cimarron,NM,Colfax County,,city-us,808,36.511,-104.916,7251
+8404,Cimarron,KS,Meade County,,city-us,80,37.091,-100.528,238
+8403,Cimarron,TX,Harris County,,city-us,0,29.771,-95.758,922
+8405,Cimarron,CO,Montrose County,,city-us,0,38.442,-107.556,1141

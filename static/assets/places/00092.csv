@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-476,Alcalde,NM,,city-us,239,36.089,-106.054,2078
-475,Alcalde,KY,,city-us,0,37.055,-84.551,170
+id,name,state,county,country,level,population,latitude,longitude,wiki
+476,Alcalde,NM,Rio Arriba County,,city-us,239,36.089,-106.054,2078
+475,Alcalde,KY,Pulaski County,,city-us,0,37.055,-84.551,170

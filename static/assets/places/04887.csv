@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25121,Linwood,NJ,,city-us,6947,39.340,-74.575,17216
-25127,Linwood,PA,,city-us,3083,39.827,-75.425,3965
-25133,Linwood,WI,,city-us,1066,44.488,-89.665,1736
-25129,Linwood,KS,,city-us,419,39.001,-95.039,7795
-25123,Linwood,NE,,city-us,93,41.412,-96.931,3638
-25130,Linwood,NY,,city-us,14,42.895,-77.949,803
-25120,Linwood,MN,,city-us,0,45.357,-93.112,256
-25122,Linwood,MI,,city-us,0,43.739,-83.962,2290
-25124,Linwood,MD,,city-us,0,39.563,-77.143,209
-25125,Linwood,TX,,city-us,0,31.664,-94.991,1487
-25126,Linwood,NC,,city-us,0,35.751,-80.318,998
-25128,Linwood,MD,,city-us,0,39.277,-76.805,83
-25131,Linwood,IN,,city-us,0,40.194,-85.682,237
-25132,Linwood,WV,,city-us,0,38.421,-80.044,292
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25121,Linwood,NJ,Atlantic County,,city-us,6947,39.340,-74.575,17216
+25127,Linwood,PA,Delaware County,,city-us,3083,39.827,-75.425,3965
+25133,Linwood,WI,Portage County,,city-us,1066,44.488,-89.665,1736
+25129,Linwood,KS,Leavenworth County,,city-us,419,39.001,-95.039,7795
+25123,Linwood,NE,Butler County,,city-us,93,41.412,-96.931,3638
+25130,Linwood,NY,Livingston County,,city-us,14,42.895,-77.949,803
+25120,Linwood,MN,Anoka County,,city-us,0,45.357,-93.112,256
+25122,Linwood,MI,Bay County,,city-us,0,43.739,-83.962,2290
+25124,Linwood,MD,Carroll County,,city-us,0,39.563,-77.143,209
+25125,Linwood,TX,Cherokee County,,city-us,0,31.664,-94.991,1487
+25126,Linwood,NC,Davidson County,,city-us,0,35.751,-80.318,998
+25128,Linwood,MD,Howard County,,city-us,0,39.277,-76.805,83
+25131,Linwood,IN,Madison County,,city-us,0,40.194,-85.682,237
+25132,Linwood,WV,Pocahontas County,,city-us,0,38.421,-80.044,292

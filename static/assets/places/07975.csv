@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40330,Sorrento,LA,,city-us,1542,30.184,-90.859,1019
-40331,Sorrento,ME,,city-us,282,44.476,-68.180,3112
-40332,Sorrento,FL,,city-us,145,28.808,-81.564,2204
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40330,Sorrento,LA,Ascension Parish,,city-us,1542,30.184,-90.859,1019
+40331,Sorrento,ME,Hancock County,,city-us,282,44.476,-68.180,3112
+40332,Sorrento,FL,Lake County,,city-us,145,28.808,-81.564,2204

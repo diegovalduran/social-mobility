@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11569,Dent,OH,,city-us,11069,39.186,-84.651,2627
-11570,Dent,MN,,city-us,170,46.554,-95.716,3093
-11567,Dent,WV,,city-us,0,39.294,-79.877,86
-11568,Dent,ID,,city-us,0,46.624,-116.203,225
-11571,Dent,MO,,city-us,0,37.553,-91.974,228
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11569,Dent,OH,Hamilton County,,city-us,11069,39.186,-84.651,2627
+11570,Dent,MN,Otter Tail County,,city-us,170,46.554,-95.716,3093
+11567,Dent,WV,Barbour County,,city-us,0,39.294,-79.877,86
+11568,Dent,ID,Clearwater County,,city-us,0,46.624,-116.203,225
+11571,Dent,MO,Texas County,,city-us,0,37.553,-91.974,228

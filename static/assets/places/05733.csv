@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29509,Moriah,NY,,city-us,4692,44.055,-73.533,7891
-29508,Moriah,IL,,city-us,0,39.217,-87.939,122
-29510,Moriah,NC,,city-us,0,36.258,-78.829,150
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29509,Moriah,NY,Essex County,,city-us,4692,44.055,-73.533,7891
+29508,Moriah,IL,Clark County,,city-us,0,39.217,-87.939,122
+29510,Moriah,NC,Person County,,city-us,0,36.258,-78.829,150

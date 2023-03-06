@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16741,Gideon,MO,,city-us,764,36.452,-89.919,4031
-16740,Gideon,OK,,city-us,245,36.010,-95.033,465
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16741,Gideon,MO,New Madrid County,,city-us,764,36.452,-89.919,4031
+16740,Gideon,OK,Cherokee County,,city-us,245,36.010,-95.033,465

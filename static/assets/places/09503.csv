@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48066,Youngstown,OH,,city-us,60270,41.099,-80.646,53905
-48067,Youngstown,NY,,city-us,1856,43.247,-79.050,8202
-48071,Youngstown,PA,,city-us,249,40.280,-79.366,10185
-48064,Youngstown,MO,,city-us,0,40.175,-92.682,274
-48065,Youngstown,FL,,city-us,0,30.364,-85.438,489
-48068,Youngstown,CA,,city-us,0,38.174,-121.243,99
-48069,Youngstown,IN,,city-us,0,39.362,-87.382,629
-48070,Youngstown,IL,,city-us,0,40.661,-90.617,137
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48066,Youngstown,OH,Mahoning County / Trumbull County,,city-us,60270,41.099,-80.646,53905
+48067,Youngstown,NY,Niagara County,,city-us,1856,43.247,-79.050,8202
+48071,Youngstown,PA,Westmoreland County,,city-us,249,40.280,-79.366,10185
+48064,Youngstown,MO,Adair County,,city-us,0,40.175,-92.682,274
+48065,Youngstown,FL,Bay County,,city-us,0,30.364,-85.438,489
+48068,Youngstown,CA,San Joaquin County,,city-us,0,38.174,-121.243,99
+48069,Youngstown,IN,Vigo County,,city-us,0,39.362,-87.382,629
+48070,Youngstown,IL,Warren County,,city-us,0,40.661,-90.617,137

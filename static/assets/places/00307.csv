@@ -1,16 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1582,Arthur,IL,,city-us,2227,39.714,-88.470,4325
-1589,Arthur,MI,,city-us,1960,43.432,-83.770,3093
-1586,Arthur,MN,,city-us,1793,45.867,-93.325,205
-1579,Arthur,WI,,city-us,783,45.060,-91.156,3628
-1581,Arthur,MI,,city-us,682,43.949,-84.675,2501
-1585,Arthur,IA,,city-us,223,42.335,-95.347,3282
-1577,Arthur,NE,,city-us,130,41.572,-101.692,6220
-1578,Arthur,ND,,city-us,67,47.108,-97.263,135
-1590,Arthur,MN,,city-us,57,45.637,-96.704,205
-1580,Arthur,TN,,city-us,0,36.548,-83.671,1421
-1583,Arthur,NV,,city-us,0,40.797,-115.191,748
-1584,Arthur,WV,,city-us,0,39.067,-79.112,152
-1587,Arthur,OH,,city-us,0,41.195,-84.361,148
-1588,Arthur,IN,,city-us,0,38.341,-87.246,385
-1591,Arthur,MO,,city-us,0,38.013,-94.369,386
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1582,Arthur,IL,Douglas County / Moultrie County,,city-us,2227,39.714,-88.470,4325
+1589,Arthur,MI,Saginaw County,,city-us,1960,43.432,-83.770,3093
+1586,Arthur,MN,Kanabec County,,city-us,1793,45.867,-93.325,205
+1579,Arthur,WI,Chippewa County,,city-us,783,45.060,-91.156,3628
+1581,Arthur,MI,Clare County,,city-us,682,43.949,-84.675,2501
+1585,Arthur,IA,Ida County,,city-us,223,42.335,-95.347,3282
+1577,Arthur,NE,Arthur County,,city-us,130,41.572,-101.692,6220
+1578,Arthur,ND,Cass County,,city-us,67,47.108,-97.263,135
+1590,Arthur,MN,Traverse County,,city-us,57,45.637,-96.704,205
+1580,Arthur,TN,Claiborne County,,city-us,0,36.548,-83.671,1421
+1583,Arthur,NV,Elko County,,city-us,0,40.797,-115.191,748
+1584,Arthur,WV,Grant County,,city-us,0,39.067,-79.112,152
+1587,Arthur,OH,Paulding County,,city-us,0,41.195,-84.361,148
+1588,Arthur,IN,Pike County,,city-us,0,38.341,-87.246,385
+1591,Arthur,MO,Vernon County,,city-us,0,38.013,-94.369,386

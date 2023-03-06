@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2895,Beatrice,NE,,city-us,12209,40.268,-96.747,10816
-2896,Beatrice,AL,,city-us,203,31.733,-87.205,2584
-2897,Beatrice,WV,,city-us,0,39.084,-81.140,202
-2898,Beatrice,GA,,city-us,0,32.007,-84.905,238
-2899,Beatrice,MS,,city-us,0,30.739,-88.947,1604
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2895,Beatrice,NE,Gage County,,city-us,12209,40.268,-96.747,10816
+2896,Beatrice,AL,Monroe County,,city-us,203,31.733,-87.205,2584
+2897,Beatrice,WV,Ritchie County,,city-us,0,39.084,-81.140,202
+2898,Beatrice,GA,Stewart County,,city-us,0,32.007,-84.905,238
+2899,Beatrice,MS,Stone County,,city-us,0,30.739,-88.947,1604

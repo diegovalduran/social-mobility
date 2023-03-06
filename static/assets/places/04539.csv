@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23298,Kress,TX,,city-us,608,34.366,-101.749,2186
-23297,Kress,VA,,city-us,0,36.931,-77.810,98
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23298,Kress,TX,Swisher County,,city-us,608,34.366,-101.749,2186
+23297,Kress,VA,Brunswick County,,city-us,0,36.931,-77.810,98

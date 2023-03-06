@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30797,New Prairie,ND,,city-us,263,48.153,-101.079,0
-30796,New Prairie,MN,,city-us,181,45.636,-95.686,1915
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30797,New Prairie,ND,Ward County,,city-us,263,48.153,-101.079,0
+30796,New Prairie,MN,Pope County,,city-us,181,45.636,-95.686,1915

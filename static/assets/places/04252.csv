@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21921,Jansen,CO,,city-us,202,37.157,-104.538,870
-21920,Jansen,NE,,city-us,99,40.185,-97.084,2969
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21921,Jansen,CO,Las Animas County,,city-us,202,37.157,-104.538,870
+21920,Jansen,NE,Jefferson County,,city-us,99,40.185,-97.084,2969

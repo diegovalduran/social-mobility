@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24240,Leawood,KS,,city-us,33743,38.967,-94.617,8318
-24241,Leawood,MO,,city-us,627,37.037,-94.497,3234
-24359,Leewood,WV,,city-us,0,38.068,-81.450,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24240,Leawood,KS,Johnson County,,city-us,33743,38.967,-94.617,8318
+24241,Leawood,MO,Newton County,,city-us,627,37.037,-94.497,3234
+24359,Leewood,WV,Kanawha County,,city-us,0,38.068,-81.450,147

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12046,Dougherty,OK,,city-us,194,34.400,-97.056,2553
-12045,Dougherty,TX,,city-us,109,33.942,-101.087,763
-12043,Dougherty,IA,,city-us,62,42.922,-93.042,3097
-12042,Dougherty,CA,,city-us,0,37.711,-121.910,1670
-12044,Dougherty,GA,,city-us,0,34.382,-84.065,498
-12047,Dougherty,TX,,city-us,0,32.956,-95.769,152
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12046,Dougherty,OK,Murray County,,city-us,194,34.400,-97.056,2553
+12045,Dougherty,TX,Floyd County,,city-us,109,33.942,-101.087,763
+12043,Dougherty,IA,Cerro Gordo County,,city-us,62,42.922,-93.042,3097
+12042,Dougherty,CA,Alameda County,,city-us,0,37.711,-121.910,1670
+12044,Dougherty,GA,Dawson County,,city-us,0,34.382,-84.065,498
+12047,Dougherty,TX,Rains County,,city-us,0,32.956,-95.769,152

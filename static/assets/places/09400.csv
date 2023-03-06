@@ -1,17 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47525,Woodbury,MN,,city-us,76990,44.924,-92.959,11571
-47523,Woodbury,NY,,city-us,12321,41.328,-74.102,14544
-47518,Woodbury,NJ,,city-us,10086,39.838,-75.153,18577
-47522,Woodbury,CT,,city-us,9761,41.562,-73.206,12930
-47521,Woodbury,NY,,city-us,9111,40.826,-73.468,3412
-47515,Woodbury,TN,,city-us,2711,35.828,-86.072,3512
-47517,Woodbury,MI,,city-us,1997,42.728,-85.010,3284
-47513,Woodbury,PA,,city-us,1438,40.445,-78.207,449
-47526,Woodbury,VT,,city-us,919,44.458,-72.379,2897
-47520,Woodbury,GA,,city-us,905,32.984,-84.583,2941
-47512,Woodbury,PA,,city-us,285,40.226,-78.367,2140
-47524,Woodbury,ND,,city-us,230,46.841,-98.766,0
-47514,Woodbury,KY,,city-us,71,37.183,-86.634,2019
-47484,Woodberry,ND,,city-us,33,46.323,-103.113,0
-47516,Woodbury,IL,,city-us,0,39.196,-88.303,156
-47519,Woodbury,IN,,city-us,0,39.909,-85.895,303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47525,Woodbury,MN,Washington County,,city-us,76990,44.924,-92.959,11571
+47523,Woodbury,NY,Orange County,,city-us,12321,41.328,-74.102,14544
+47518,Woodbury,NJ,Gloucester County,,city-us,10086,39.838,-75.153,18577
+47522,Woodbury,CT,Naugatuck Valley Planning Region,,city-us,9761,41.562,-73.206,12930
+47521,Woodbury,NY,Nassau County,,city-us,9111,40.826,-73.468,3412
+47515,Woodbury,TN,Cannon County,,city-us,2711,35.828,-86.072,3512
+47517,Woodbury,MI,Eaton County,,city-us,1997,42.728,-85.010,3284
+47513,Woodbury,PA,Blair County,,city-us,1438,40.445,-78.207,449
+47526,Woodbury,VT,Washington County,,city-us,919,44.458,-72.379,2897
+47520,Woodbury,GA,Meriwether County,,city-us,905,32.984,-84.583,2941
+47512,Woodbury,PA,Bedford County,,city-us,285,40.226,-78.367,2140
+47524,Woodbury,ND,Stutsman County,,city-us,230,46.841,-98.766,0
+47514,Woodbury,KY,Butler County,,city-us,71,37.183,-86.634,2019
+47484,Woodberry,ND,Slope County,,city-us,33,46.323,-103.113,0
+47516,Woodbury,IL,Cumberland County,,city-us,0,39.196,-88.303,156
+47519,Woodbury,IN,Hancock County,,city-us,0,39.909,-85.895,303

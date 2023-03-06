@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9745,Cookville,MO,,city-us,0,37.649,-92.210,564
-9746,Cookville,TX,,city-us,0,33.186,-94.854,374
-9747,Cookville,KS,,city-us,0,37.820,-95.592,313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9745,Cookville,MO,Pulaski County,,city-us,0,37.649,-92.210,564
+9746,Cookville,TX,Titus County,,city-us,0,33.186,-94.854,374
+9747,Cookville,KS,Woodson County,,city-us,0,37.820,-95.592,313

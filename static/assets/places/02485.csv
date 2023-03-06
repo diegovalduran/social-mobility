@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12419,Dungannon,VA,,city-us,254,36.828,-82.472,2483
-12417,Dungannon,OH,,city-us,0,40.734,-80.879,517
-12418,Dungannon,OH,,city-us,0,39.615,-81.572,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12419,Dungannon,VA,Scott County,,city-us,254,36.828,-82.472,2483
+12417,Dungannon,OH,Columbiana County,,city-us,0,40.734,-80.879,517
+12418,Dungannon,OH,Noble County,,city-us,0,39.615,-81.572,223

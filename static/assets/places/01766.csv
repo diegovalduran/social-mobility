@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9092,Coal Mountain,GA,,city-us,0,34.271,-84.101,683
-9093,Coal Mountain,WV,,city-us,0,37.670,-81.729,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9092,Coal Mountain,GA,Forsyth County,,city-us,0,34.271,-84.101,683
+9093,Coal Mountain,WV,Wyoming County,,city-us,0,37.670,-81.729,95

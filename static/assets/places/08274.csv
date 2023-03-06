@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41806,Sudbury,MA,,city-us,19059,42.383,-71.421,13391
-41807,Sudbury,VT,,city-us,543,43.798,-73.174,1938
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41806,Sudbury,MA,Middlesex County,,city-us,19059,42.383,-71.421,13391
+41807,Sudbury,VT,Rutland County,,city-us,543,43.798,-73.174,1938

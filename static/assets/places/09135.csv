@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46056,West Liberty,IA,,city-us,3826,41.570,-91.264,14353
-46054,West Liberty,KY,,city-us,3247,37.921,-83.260,7357
-46053,West Liberty,OH,,city-us,1766,40.252,-83.756,4163
-46057,West Liberty,WV,,city-us,1548,40.170,-80.594,3249
-46050,West Liberty,PA,,city-us,328,41.007,-80.053,2097
-46051,West Liberty,IL,,city-us,96,38.853,-88.084,183
-46052,West Liberty,IN,,city-us,0,40.533,-84.996,155
-46055,West Liberty,OH,,city-us,0,40.378,-82.891,307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46056,West Liberty,IA,Muscatine County,,city-us,3826,41.570,-91.264,14353
+46054,West Liberty,KY,Morgan County,,city-us,3247,37.921,-83.260,7357
+46053,West Liberty,OH,Logan County,,city-us,1766,40.252,-83.756,4163
+46057,West Liberty,WV,Ohio County,,city-us,1548,40.170,-80.594,3249
+46050,West Liberty,PA,Butler County,,city-us,328,41.007,-80.053,2097
+46051,West Liberty,IL,Jasper County,,city-us,96,38.853,-88.084,183
+46052,West Liberty,IN,Jay County,,city-us,0,40.533,-84.996,155
+46055,West Liberty,OH,Morrow County,,city-us,0,40.378,-82.891,307

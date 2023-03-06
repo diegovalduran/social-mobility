@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14530,Fallon,NV,,city-us,9325,39.474,-118.777,8593
-14560,Falun,WI,,city-us,649,45.462,-92.314,2329
-14217,Fahlun,MN,,city-us,335,45.025,-94.923,2145
-14532,Fallon,MT,,city-us,330,46.836,-105.119,2281
-14562,Falun,KS,,city-us,255,38.661,-97.806,117
-14561,Falun,MN,,city-us,240,48.756,-95.548,1712
-14529,Fallon,OK,,city-us,0,33.998,-95.417,113
-14531,Fallon,CA,,city-us,0,38.275,-122.906,1141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14530,Fallon,NV,Churchill County,,city-us,9325,39.474,-118.777,8593
+14560,Falun,WI,Burnett County,,city-us,649,45.462,-92.314,2329
+14217,Fahlun,MN,Kandiyohi County,,city-us,335,45.025,-94.923,2145
+14532,Fallon,MT,Prairie County,,city-us,330,46.836,-105.119,2281
+14562,Falun,KS,Saline County,,city-us,255,38.661,-97.806,117
+14561,Falun,MN,Roseau County,,city-us,240,48.756,-95.548,1712
+14529,Fallon,OK,Choctaw County,,city-us,0,33.998,-95.417,113
+14531,Fallon,CA,Marin County,,city-us,0,38.275,-122.906,1141

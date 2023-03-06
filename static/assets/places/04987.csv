@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25664,Longwood,FL,,city-us,15110,28.703,-81.338,5935
-25662,Longwood,WI,,city-us,698,44.887,-90.598,1895
-25661,Longwood,NC,,city-us,0,34.004,-78.542,3472
-25663,Longwood,MO,,city-us,0,38.899,-93.170,456
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25664,Longwood,FL,Seminole County,,city-us,15110,28.703,-81.338,5935
+25662,Longwood,WI,Clark County,,city-us,698,44.887,-90.598,1895
+25661,Longwood,NC,Brunswick County,,city-us,0,34.004,-78.542,3472
+25663,Longwood,MO,Pettis County,,city-us,0,38.899,-93.170,456

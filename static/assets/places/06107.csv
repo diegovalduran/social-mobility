@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31238,Noonday,TX,,city-us,616,32.236,-95.406,3118
-31237,Noonday,GA,,city-us,0,34.062,-84.521,425
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31238,Noonday,TX,Smith County,,city-us,616,32.236,-95.406,3118
+31237,Noonday,GA,Cobb County,,city-us,0,34.062,-84.521,425

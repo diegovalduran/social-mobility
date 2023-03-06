@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46164,Westchester,FL,,city-us,54238,25.755,-80.327,5421
-46162,Westchester,IL,,city-us,16492,41.851,-87.882,9179
-46163,Westchester,IN,,city-us,0,40.498,-84.895,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46164,Westchester,FL,Miami-Dade County,,city-us,54238,25.755,-80.327,5421
+46162,Westchester,IL,Cook County,,city-us,16492,41.851,-87.882,9179
+46163,Westchester,IN,Jay County,,city-us,0,40.498,-84.895,254

@@ -1,15 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19699,Henry,OH,,city-us,4083,41.205,-83.717,1383
-19692,Henry,IL,,city-us,2553,41.119,-89.386,390
-19691,Henry,TN,,city-us,442,36.204,-88.420,2087
-19698,Henry,MO,,city-us,216,38.007,-94.554,258
-19695,Henry,NE,,city-us,128,41.999,-104.047,3437
-19686,Henry,SD,,city-us,124,45.458,-98.206,3246
-19687,Henry,SD,,city-us,92,44.840,-97.421,3246
-19693,Henry,KS,,city-us,28,39.079,-97.873,0
-19689,Henry,ND,,city-us,23,47.234,-103.989,0
-19688,Henry,VA,,city-us,0,36.829,-79.992,210
-19690,Henry,WV,,city-us,0,39.223,-79.421,369
-19694,Henry,IN,,city-us,0,39.786,-85.588,146
-19696,Henry,VA,,city-us,0,36.797,-77.393,155
-19697,Henry,LA,,city-us,0,29.883,-92.079,83
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19699,Henry,OH,Wood County,,city-us,4083,41.205,-83.717,1383
+19692,Henry,IL,Marshall County,,city-us,2553,41.119,-89.386,390
+19691,Henry,TN,Henry County,,city-us,442,36.204,-88.420,2087
+19698,Henry,MO,Vernon County,,city-us,216,38.007,-94.554,258
+19695,Henry,NE,Scotts Bluff County,,city-us,128,41.999,-104.047,3437
+19686,Henry,SD,Brown County,,city-us,124,45.458,-98.206,3246
+19687,Henry,SD,Codington County,,city-us,92,44.840,-97.421,3246
+19693,Henry,KS,Ottawa County,,city-us,28,39.079,-97.873,0
+19689,Henry,ND,Golden Valley County,,city-us,23,47.234,-103.989,0
+19688,Henry,VA,Franklin County,,city-us,0,36.829,-79.992,210
+19690,Henry,WV,Grant County,,city-us,0,39.223,-79.421,369
+19694,Henry,IN,Rush County,,city-us,0,39.786,-85.588,146
+19696,Henry,VA,Sussex County,,city-us,0,36.797,-77.393,155
+19697,Henry,LA,Vermilion Parish,,city-us,0,29.883,-92.079,83

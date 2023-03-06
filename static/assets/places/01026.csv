@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5124,Breckenridge,TX,,city-us,5244,32.756,-98.902,5574
-5125,Breckenridge,CO,,city-us,5024,39.482,-106.038,11542
-5126,Breckenridge,MN,,city-us,3398,46.264,-96.588,4663
-5120,Breckenridge,MI,,city-us,1278,43.408,-84.475,3320
-5118,Breckenridge,MO,,city-us,442,39.742,-93.813,447
-5119,Breckenridge,OK,,city-us,200,36.457,-97.725,2100
-5121,Breckenridge,IL,,city-us,0,40.244,-91.287,149
-5122,Breckenridge,IN,,city-us,0,38.218,-86.033,213
-5123,Breckenridge,IL,,city-us,0,39.699,-89.448,183
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5124,Breckenridge,TX,Stephens County,,city-us,5244,32.756,-98.902,5574
+5125,Breckenridge,CO,Summit County,,city-us,5024,39.482,-106.038,11542
+5126,Breckenridge,MN,Wilkin County,,city-us,3398,46.264,-96.588,4663
+5120,Breckenridge,MI,Gratiot County,,city-us,1278,43.408,-84.475,3320
+5118,Breckenridge,MO,Caldwell County,,city-us,442,39.742,-93.813,447
+5119,Breckenridge,OK,Garfield County,,city-us,200,36.457,-97.725,2100
+5121,Breckenridge,IL,Hancock County,,city-us,0,40.244,-91.287,149
+5122,Breckenridge,IN,Harrison County,,city-us,0,38.218,-86.033,213
+5123,Breckenridge,IL,Sangamon County,,city-us,0,39.699,-89.448,183

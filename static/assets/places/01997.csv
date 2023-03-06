@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10123,Courtney,MO,,city-us,0,39.156,-94.394,249
-10124,Courtney,PA,,city-us,0,40.219,-79.969,327
-10125,Courtney,NC,,city-us,0,36.049,-80.615,3134
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10123,Courtney,MO,Jackson County,,city-us,0,39.156,-94.394,249
+10124,Courtney,PA,Washington County,,city-us,0,40.219,-79.969,327
+10125,Courtney,NC,Yadkin County,,city-us,0,36.049,-80.615,3134

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10000,Cortlandt,NY,,city-us,42092,41.252,-73.907,4304
-9999,Cortlandt,SD,,city-us,594,45.454,-98.774,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10000,Cortlandt,NY,Westchester County,,city-us,42092,41.252,-73.907,4304
+9999,Cortlandt,SD,Edmunds County,,city-us,594,45.454,-98.774,0

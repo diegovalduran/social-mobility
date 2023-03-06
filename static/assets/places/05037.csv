@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25852,Loveville,DE,,city-us,0,39.771,-75.664,2663
-25853,Loveville,MD,,city-us,0,38.362,-76.683,532
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25852,Loveville,DE,New Castle County,,city-us,0,39.771,-75.664,2663
+25853,Loveville,MD,St. Mary's County,,city-us,0,38.362,-76.683,532

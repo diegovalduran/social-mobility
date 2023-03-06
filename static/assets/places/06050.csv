@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30910,Newberry,PA,,city-us,15742,40.129,-76.791,6610
-30909,Newberry,SC,,city-us,10487,34.275,-81.619,5486
-30905,Newberry,FL,,city-us,7662,29.646,-82.606,7017
-30932,Newbury,MA,,city-us,6701,42.770,-70.872,9291
-30908,Newberry,OH,,city-us,6427,40.145,-84.371,1352
-30933,Newbury,OH,,city-us,5244,41.455,-81.229,1806
-30934,Newbury,NH,,city-us,2219,43.314,-72.025,4518
-30907,Newberry,MI,,city-us,1547,46.355,-85.510,7353
-30935,Newbury,VT,,city-us,451,44.079,-72.058,164
-30906,Newberry,IN,,city-us,161,38.925,-87.019,3353
-30937,Newbury,KS,,city-us,78,39.085,-96.175,574
-30936,Newbury,ND,,city-us,39,46.757,-99.423,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30910,Newberry,PA,York County,,city-us,15742,40.129,-76.791,6610
+30909,Newberry,SC,Newberry County,,city-us,10487,34.275,-81.619,5486
+30905,Newberry,FL,Alachua County,,city-us,7662,29.646,-82.606,7017
+30932,Newbury,MA,Essex County,,city-us,6701,42.770,-70.872,9291
+30908,Newberry,OH,Miami County,,city-us,6427,40.145,-84.371,1352
+30933,Newbury,OH,Geauga County,,city-us,5244,41.455,-81.229,1806
+30934,Newbury,NH,Merrimack County,,city-us,2219,43.314,-72.025,4518
+30907,Newberry,MI,Luce County,,city-us,1547,46.355,-85.510,7353
+30935,Newbury,VT,Orange County,,city-us,451,44.079,-72.058,164
+30906,Newberry,IN,Greene County,,city-us,161,38.925,-87.019,3353
+30937,Newbury,KS,Wabaunsee County,,city-us,78,39.085,-96.175,574
+30936,Newbury,ND,Stutsman County,,city-us,39,46.757,-99.423,0

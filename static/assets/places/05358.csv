@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27462,McClure,PA,,city-us,883,40.707,-77.314,3084
-27460,McClure,OH,,city-us,692,41.371,-83.942,5457
-27458,McClure,IL,,city-us,247,37.318,-89.431,2999
-27461,McClure,NE,,city-us,48,42.225,-98.556,244
-27459,McClure,VA,,city-us,0,37.102,-82.376,377
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27462,McClure,PA,Snyder County,,city-us,883,40.707,-77.314,3084
+27460,McClure,OH,Henry County,,city-us,692,41.371,-83.942,5457
+27458,McClure,IL,Alexander County,,city-us,247,37.318,-89.431,2999
+27461,McClure,NE,Holt County,,city-us,48,42.225,-98.556,244
+27459,McClure,VA,Dickenson County,,city-us,0,37.102,-82.376,377

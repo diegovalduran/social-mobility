@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34251,Pinewood,FL,,city-us,17110,25.869,-80.217,2953
-34252,Pinewood,SC,,city-us,501,33.740,-80.463,2032
-34250,Pinewood,MN,,city-us,0,47.597,-95.128,505
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34251,Pinewood,FL,Miami-Dade County,,city-us,17110,25.869,-80.217,2953
+34252,Pinewood,SC,Sumter County,,city-us,501,33.740,-80.463,2032
+34250,Pinewood,MN,Beltrami County,,city-us,0,47.597,-95.128,505

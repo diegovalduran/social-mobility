@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25208,Little Italy,WV,,city-us,0,38.523,-81.033,228
-25209,Little Italy,AR,,city-us,0,34.938,-92.586,2608
-25210,Little Italy,WV,,city-us,0,38.794,-79.549,311
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25208,Little Italy,WV,Clay County,,city-us,0,38.523,-81.033,228
+25209,Little Italy,AR,Perry County,,city-us,0,34.938,-92.586,2608
+25210,Little Italy,WV,Randolph County,,city-us,0,38.794,-79.549,311

@@ -1,25 +1,25 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5499,Brooklyn,NY,,city-us,2636735,40.625,-73.952,71310
-5491,Brooklyn,OH,,city-us,11177,41.440,-81.735,5505
-5503,Brooklyn,CT,,city-us,8488,41.787,-71.957,5190
-5502,Brooklyn,IN,,city-us,2541,39.539,-86.369,3879
-5496,Brooklyn,WI,,city-us,1822,43.858,-88.963,2369
-5492,Brooklyn,WI,,city-us,1521,42.850,-89.376,283
-5504,Brooklyn,IA,,city-us,1491,41.734,-92.445,4850
-5498,Brooklyn,MI,,city-us,1370,42.106,-84.248,4723
-5495,Brooklyn,WI,,city-us,1118,42.808,-89.432,2306
-5500,Brooklyn,IL,,city-us,693,41.674,-89.109,1146
-5507,Brooklyn,IL,,city-us,641,38.659,-90.166,13870
-5509,Brooklyn,WI,,city-us,313,46.006,-91.854,1931
-5501,Brooklyn,SD,,city-us,211,43.127,-96.863,630
-5511,Brooklyn,ND,,city-us,18,48.234,-103.271,0
-5488,Brooklyn,AL,,city-us,0,31.313,-86.171,121
-5489,Brooklyn,AL,,city-us,0,31.263,-86.771,437
-5490,Brooklyn,AL,,city-us,0,34.226,-86.615,119
-5493,Brooklyn,WV,,city-us,0,37.991,-81.049,124
-5494,Brooklyn,MS,,city-us,0,31.056,-89.186,2221
-5497,Brooklyn,MO,,city-us,0,40.398,-94.041,614
-5505,Brooklyn,VA,,city-us,0,37.151,-80.560,91
-5506,Brooklyn,IL,,city-us,0,40.226,-90.763,155
-5508,Brooklyn,PA,,city-us,0,41.751,-75.807,260
-5510,Brooklyn,WV,,city-us,0,39.635,-80.863,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5499,Brooklyn,NY,Kings County,,city-us,2636735,40.625,-73.952,71310
+5491,Brooklyn,OH,Cuyahoga County,,city-us,11177,41.440,-81.735,5505
+5503,Brooklyn,CT,Northeastern Connecticut Planning Region,,city-us,8488,41.787,-71.957,5190
+5502,Brooklyn,IN,Morgan County,,city-us,2541,39.539,-86.369,3879
+5496,Brooklyn,WI,Green Lake County,,city-us,1822,43.858,-88.963,2369
+5492,Brooklyn,WI,Dane County / Green County,,city-us,1521,42.850,-89.376,283
+5504,Brooklyn,IA,Poweshiek County,,city-us,1491,41.734,-92.445,4850
+5498,Brooklyn,MI,Jackson County,,city-us,1370,42.106,-84.248,4723
+5495,Brooklyn,WI,Green County,,city-us,1118,42.808,-89.432,2306
+5500,Brooklyn,IL,Lee County,,city-us,693,41.674,-89.109,1146
+5507,Brooklyn,IL,St. Clair County,,city-us,641,38.659,-90.166,13870
+5509,Brooklyn,WI,Washburn County,,city-us,313,46.006,-91.854,1931
+5501,Brooklyn,SD,Lincoln County,,city-us,211,43.127,-96.863,630
+5511,Brooklyn,ND,Williams County,,city-us,18,48.234,-103.271,0
+5488,Brooklyn,AL,Coffee County,,city-us,0,31.313,-86.171,121
+5489,Brooklyn,AL,Conecuh County,,city-us,0,31.263,-86.771,437
+5490,Brooklyn,AL,Cullman County,,city-us,0,34.226,-86.615,119
+5493,Brooklyn,WV,Fayette County,,city-us,0,37.991,-81.049,124
+5494,Brooklyn,MS,Forrest County,,city-us,0,31.056,-89.186,2221
+5497,Brooklyn,MO,Harrison County,,city-us,0,40.398,-94.041,614
+5505,Brooklyn,VA,Pulaski County,,city-us,0,37.151,-80.560,91
+5506,Brooklyn,IL,Schuyler County,,city-us,0,40.226,-90.763,155
+5508,Brooklyn,PA,Susquehanna County,,city-us,0,41.751,-75.807,260
+5510,Brooklyn,WV,Wetzel County,,city-us,0,39.635,-80.863,89

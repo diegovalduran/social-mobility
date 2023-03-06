@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26095,Lyme,CT,,city-us,2344,41.399,-72.332,8320
-26094,Lyme,NY,,city-us,2299,44.025,-76.229,6089
-26092,Lyme,NH,,city-us,1753,43.817,-72.094,6863
-24881,Lime,MN,,city-us,942,44.218,-93.953,2558
-26093,Lyme,OH,,city-us,866,41.249,-82.780,2122
-24880,Lime,OR,,city-us,0,44.407,-117.311,1567
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26095,Lyme,CT,Lower Connecticut River Valley Planning Region,,city-us,2344,41.399,-72.332,8320
+26094,Lyme,NY,Jefferson County,,city-us,2299,44.025,-76.229,6089
+26092,Lyme,NH,Grafton County,,city-us,1753,43.817,-72.094,6863
+24881,Lime,MN,Blue Earth County,,city-us,942,44.218,-93.953,2558
+26093,Lyme,OH,Huron County,,city-us,866,41.249,-82.780,2122
+24880,Lime,OR,Baker County,,city-us,0,44.407,-117.311,1567

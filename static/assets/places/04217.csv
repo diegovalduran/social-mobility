@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21649,Isom,VA,,city-us,0,37.187,-82.462,252
-21650,Isom,KY,,city-us,0,37.188,-82.899,2180
-21651,Isom,WV,,city-us,0,37.944,-81.870,69
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21649,Isom,VA,Dickenson County,,city-us,0,37.187,-82.462,252
+21650,Isom,KY,Letcher County,,city-us,0,37.188,-82.899,2180
+21651,Isom,WV,Logan County,,city-us,0,37.944,-81.870,69

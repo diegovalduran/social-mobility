@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10307,Creola,AL,,city-us,1936,30.892,-88.040,6050
-10306,Creola,LA,,city-us,246,31.474,-92.505,2263
-10308,Creola,OH,,city-us,0,39.315,-82.466,358
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10307,Creola,AL,Mobile County,,city-us,1936,30.892,-88.040,6050
+10306,Creola,LA,Grant Parish,,city-us,246,31.474,-92.505,2263
+10308,Creola,OH,Vinton County,,city-us,0,39.315,-82.466,358

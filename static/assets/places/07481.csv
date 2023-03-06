@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38014,Rustic,NJ,,city-us,22950,40.888,-74.651,15079
-38012,Rustic,VA,,city-us,0,37.292,-76.934,106
-38013,Rustic,CO,,city-us,0,40.699,-105.581,716
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38014,Rustic,NJ,Morris County,,city-us,22950,40.888,-74.651,15079
+38012,Rustic,VA,Charles City County,,city-us,0,37.292,-76.934,106
+38013,Rustic,CO,Larimer County,,city-us,0,40.699,-105.581,716

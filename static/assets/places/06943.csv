@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35283,Prather,IN,,city-us,0,38.382,-85.693,250
-35284,Prather,CA,,city-us,0,37.038,-119.514,528
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35283,Prather,IN,Clark County,,city-us,0,38.382,-85.693,250
+35284,Prather,CA,Fresno County,,city-us,0,37.038,-119.514,528

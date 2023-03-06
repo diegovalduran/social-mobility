@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11745,Dickens,TX,,city-us,404,33.622,-100.837,2603
-11744,Dickens,IA,,city-us,149,43.131,-95.024,3157
-11743,Dickens,MD,,city-us,0,39.707,-78.693,218
-11746,Dickens,NE,,city-us,0,40.826,-100.993,502
-11747,Dickens,MO,,city-us,0,36.727,-93.047,483
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11745,Dickens,TX,Dickens County,,city-us,404,33.622,-100.837,2603
+11744,Dickens,IA,Clay County,,city-us,149,43.131,-95.024,3157
+11743,Dickens,MD,Allegany County,,city-us,0,39.707,-78.693,218
+11746,Dickens,NE,Lincoln County,,city-us,0,40.826,-100.993,502
+11747,Dickens,MO,Taney County,,city-us,0,36.727,-93.047,483

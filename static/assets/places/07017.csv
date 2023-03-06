@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35677,Quincy,MA,,city-us,101119,42.253,-71.002,37546
-35663,Quincy,IL,,city-us,39131,39.936,-91.410,30122
-35670,Quincy,WA,,city-us,8053,47.234,-119.853,6896
-35669,Quincy,FL,,city-us,8004,30.587,-84.583,14687
-35666,Quincy,MI,,city-us,4109,41.941,-84.883,131
-35680,Quincy,CA,,city-us,1786,39.937,-120.947,6202
-35665,Quincy,WI,,city-us,1178,43.889,-89.915,2244
-35675,Quincy,OH,,city-us,538,40.299,-83.969,3743
-35673,Quincy,MI,,city-us,362,47.155,-88.595,131
-35678,Quincy,MN,,city-us,330,44.064,-92.139,1815
-35664,Quincy,IA,,city-us,0,41.040,-94.790,276
-35667,Quincy,OR,,city-us,0,46.144,-123.160,623
-35668,Quincy,PA,,city-us,0,39.803,-77.574,236
-35671,Quincy,KS,,city-us,0,37.882,-95.993,306
-35672,Quincy,MO,,city-us,0,38.008,-93.472,509
-35674,Quincy,KY,,city-us,0,38.624,-83.131,218
-35676,Quincy,MS,,city-us,0,33.910,-88.367,171
-35679,Quincy,IN,,city-us,0,39.454,-86.713,2670
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35677,Quincy,MA,Norfolk County,,city-us,101119,42.253,-71.002,37546
+35663,Quincy,IL,Adams County,,city-us,39131,39.936,-91.410,30122
+35670,Quincy,WA,Grant County,,city-us,8053,47.234,-119.853,6896
+35669,Quincy,FL,Gadsden County,,city-us,8004,30.587,-84.583,14687
+35666,Quincy,MI,Branch County,,city-us,4109,41.941,-84.883,131
+35680,Quincy,CA,Plumas County,,city-us,1786,39.937,-120.947,6202
+35665,Quincy,WI,Adams County,,city-us,1178,43.889,-89.915,2244
+35675,Quincy,OH,Logan County,,city-us,538,40.299,-83.969,3743
+35673,Quincy,MI,Houghton County,,city-us,362,47.155,-88.595,131
+35678,Quincy,MN,Olmsted County,,city-us,330,44.064,-92.139,1815
+35664,Quincy,IA,Adams County,,city-us,0,41.040,-94.790,276
+35667,Quincy,OR,Columbia County,,city-us,0,46.144,-123.160,623
+35668,Quincy,PA,Franklin County,,city-us,0,39.803,-77.574,236
+35671,Quincy,KS,Greenwood County,,city-us,0,37.882,-95.993,306
+35672,Quincy,MO,Hickory County,,city-us,0,38.008,-93.472,509
+35674,Quincy,KY,Lewis County,,city-us,0,38.624,-83.131,218
+35676,Quincy,MS,Monroe County,,city-us,0,33.910,-88.367,171
+35679,Quincy,IN,Owen County,,city-us,0,39.454,-86.713,2670

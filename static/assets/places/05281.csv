@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27105,Martinez,CA,,city-us,36819,38.019,-122.134,15301
-27104,Martinez,GA,,city-us,33829,33.517,-82.076,3927
-27106,Martinez,CA,,city-us,0,33.563,-116.153,512
-27107,Martinez,TX,,city-us,0,26.422,-98.753,354
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27105,Martinez,CA,Contra Costa County,,city-us,36819,38.019,-122.134,15301
+27104,Martinez,GA,Columbia County,,city-us,33829,33.517,-82.076,3927
+27106,Martinez,CA,Riverside County,,city-us,0,33.563,-116.153,512
+27107,Martinez,TX,Starr County,,city-us,0,26.422,-98.753,354

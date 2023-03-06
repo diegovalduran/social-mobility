@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33656,Perrin,TX,,city-us,54,33.034,-98.069,1851
-33654,Perrin,MO,,city-us,0,39.660,-94.403,253
-33655,Perrin,VA,,city-us,0,37.270,-76.424,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33656,Perrin,TX,Jack County,,city-us,54,33.034,-98.069,1851
+33654,Perrin,MO,Clinton County,,city-us,0,39.660,-94.403,253
+33655,Perrin,VA,Gloucester County,,city-us,0,37.270,-76.424,93

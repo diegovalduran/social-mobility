@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44293,Vaughan,,Canada,city-international,306233,43.833,-79.500,24038
-44294,Vaughn,MT,,city-us,840,47.561,-111.546,4733
-44296,Vaughn,NM,,city-us,281,34.602,-105.208,3572
-44288,Vaughan,TX,,city-us,0,31.914,-97.173,1205
-44289,Vaughan,WV,,city-us,0,38.278,-81.144,312
-44290,Vaughan,IN,,city-us,0,37.900,-87.630,154
-44291,Vaughan,NC,,city-us,0,36.427,-78.004,359
-44292,Vaughan,MS,,city-us,0,32.806,-90.042,1852
-44295,Vaughn,PA,,city-us,0,40.322,-76.785,310
-44297,Vaughn,OR,,city-us,0,44.024,-123.437,1232
-44298,Vaughn,VA,,city-us,0,38.719,-78.397,86
-44299,Vaughn,WA,,city-us,0,47.344,-122.763,846
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44293,Vaughan,,,Canada,city-international,306233,43.833,-79.500,24038
+44294,Vaughn,MT,Cascade County,,city-us,840,47.561,-111.546,4733
+44296,Vaughn,NM,Guadalupe County,,city-us,281,34.602,-105.208,3572
+44288,Vaughan,TX,Hill County,,city-us,0,31.914,-97.173,1205
+44289,Vaughan,WV,Nicholas County,,city-us,0,38.278,-81.144,312
+44290,Vaughan,IN,Vanderburgh County,,city-us,0,37.900,-87.630,154
+44291,Vaughan,NC,Warren County,,city-us,0,36.427,-78.004,359
+44292,Vaughan,MS,Yazoo County,,city-us,0,32.806,-90.042,1852
+44295,Vaughn,PA,Dauphin County,,city-us,0,40.322,-76.785,310
+44297,Vaughn,OR,Lane County,,city-us,0,44.024,-123.437,1232
+44298,Vaughn,VA,Page County,,city-us,0,38.719,-78.397,86
+44299,Vaughn,WA,Pierce County,,city-us,0,47.344,-122.763,846

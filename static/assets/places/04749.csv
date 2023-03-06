@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24224,Leander,TX,,city-us,67124,30.574,-97.862,4589
-24222,Leander,WV,,city-us,0,38.191,-81.008,190
-24223,Leander,KY,,city-us,0,37.753,-82.872,233
-24225,Leander,LA,,city-us,0,31.149,-92.847,362
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24224,Leander,TX,Travis County / Williamson County,,city-us,67124,30.574,-97.862,4589
+24222,Leander,WV,Fayette County,,city-us,0,38.191,-81.008,190
+24223,Leander,KY,Johnson County,,city-us,0,37.753,-82.872,233
+24225,Leander,LA,Vernon Parish,,city-us,0,31.149,-92.847,362

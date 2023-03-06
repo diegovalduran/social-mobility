@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22696,Kenilworth,NJ,,city-us,8335,40.676,-74.291,17823
-22695,Kenilworth,IL,,city-us,2451,42.086,-87.718,8717
-22694,Kenilworth,PA,,city-us,2106,40.231,-75.634,2295
-22693,Kenilworth,UT,,city-us,89,39.688,-110.806,1344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22696,Kenilworth,NJ,Union County,,city-us,8335,40.676,-74.291,17823
+22695,Kenilworth,IL,Cook County,,city-us,2451,42.086,-87.718,8717
+22694,Kenilworth,PA,Chester County,,city-us,2106,40.231,-75.634,2295
+22693,Kenilworth,UT,Carbon County,,city-us,89,39.688,-110.806,1344

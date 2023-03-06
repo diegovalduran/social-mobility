@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9227,Colcord,OK,,city-us,747,36.264,-94.693,5323
-9228,Colcord,WV,,city-us,0,37.944,-81.437,274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9227,Colcord,OK,Delaware County,,city-us,747,36.264,-94.693,5323
+9228,Colcord,WV,Raleigh County,,city-us,0,37.944,-81.437,274

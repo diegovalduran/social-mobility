@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43125,Topsy,MO,,city-us,0,40.353,-93.480,207
-43126,Topsy,TN,,city-us,0,35.426,-87.703,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43125,Topsy,MO,Mercer County,,city-us,0,40.353,-93.480,207
+43126,Topsy,TN,Wayne County,,city-us,0,35.426,-87.703,271

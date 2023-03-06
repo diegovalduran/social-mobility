@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8126,Cherryville,NC,,city-us,6132,35.379,-81.379,11094
-8128,Cherryville,PA,,city-us,1594,40.754,-75.539,1031
-8124,Cherryville,OR,,city-us,0,45.367,-122.155,972
-8125,Cherryville,MO,,city-us,0,37.852,-91.277,405
-8127,Cherryville,NJ,,city-us,0,40.561,-74.903,448
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8126,Cherryville,NC,Gaston County,,city-us,6132,35.379,-81.379,11094
+8128,Cherryville,PA,Northampton County,,city-us,1594,40.754,-75.539,1031
+8124,Cherryville,OR,Clackamas County,,city-us,0,45.367,-122.155,972
+8125,Cherryville,MO,Crawford County,,city-us,0,37.852,-91.277,405
+8127,Cherryville,NJ,Hunterdon County,,city-us,0,40.561,-74.903,448

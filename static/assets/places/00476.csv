@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2473,Barnes,WI,,city-us,830,46.307,-91.485,2218
-2478,Barnes,KS,,city-us,219,39.697,-96.862,3635
-2474,Barnes,ND,,city-us,22,46.869,-96.923,0
-2475,Barnes,AL,,city-us,0,31.543,-85.674,477
-2476,Barnes,VA,,city-us,0,38.221,-78.448,100
-2477,Barnes,IL,,city-us,0,40.503,-88.902,628
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2473,Barnes,WI,Bayfield County,,city-us,830,46.307,-91.485,2218
+2478,Barnes,KS,Washington County,,city-us,219,39.697,-96.862,3635
+2474,Barnes,ND,Cass County,,city-us,22,46.869,-96.923,0
+2475,Barnes,AL,Dale County,,city-us,0,31.543,-85.674,477
+2476,Barnes,VA,Greene County,,city-us,0,38.221,-78.448,100
+2477,Barnes,IL,McLean County,,city-us,0,40.503,-88.902,628

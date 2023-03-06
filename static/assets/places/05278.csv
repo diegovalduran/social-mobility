@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27075,Martha,NJ,,city-us,1355,39.658,-74.448,13084
-27076,Martha,OK,,city-us,162,34.725,-99.387,1849
-27077,Martha,KY,,city-us,0,38.009,-82.913,117
-27078,Martha,TN,,city-us,0,36.230,-86.427,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27075,Martha,NJ,Burlington County,,city-us,1355,39.658,-74.448,13084
+27076,Martha,OK,Jackson County,,city-us,162,34.725,-99.387,1849
+27077,Martha,KY,Lawrence County,,city-us,0,38.009,-82.913,117
+27078,Martha,TN,Wilson County,,city-us,0,36.230,-86.427,279

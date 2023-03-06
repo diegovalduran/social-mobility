@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1575,Artesian,SD,,city-us,127,44.009,-97.921,3302
-1574,Artesian,IA,,city-us,0,42.728,-92.337,372
-1576,Artesian,WA,,city-us,0,46.552,-120.355,296
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1575,Artesian,SD,Sanborn County,,city-us,127,44.009,-97.921,3302
+1574,Artesian,IA,Bremer County,,city-us,0,42.728,-92.337,372
+1576,Artesian,WA,Yakima County,,city-us,0,46.552,-120.355,296

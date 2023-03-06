@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23946,Lanier,OH,,city-us,3711,39.693,-84.533,1430
-23944,Lanier,GA,,city-us,0,32.130,-81.537,436
-23945,Lanier,FL,,city-us,0,30.335,-83.819,2894
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23946,Lanier,OH,Preble County,,city-us,3711,39.693,-84.533,1430
+23944,Lanier,GA,Bryan County,,city-us,0,32.130,-81.537,436
+23945,Lanier,FL,Lake County,,city-us,0,30.335,-83.819,2894

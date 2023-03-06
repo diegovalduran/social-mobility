@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14007,Euclid,OH,,city-us,48928,41.593,-81.527,12134
-14008,Euclid,MN,,city-us,132,47.972,-96.639,663
-14005,Euclid,PA,,city-us,0,40.993,-79.929,185
-14006,Euclid,WV,,city-us,0,38.733,-81.044,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14007,Euclid,OH,Cuyahoga County,,city-us,48928,41.593,-81.527,12134
+14008,Euclid,MN,Polk County,,city-us,132,47.972,-96.639,663
+14005,Euclid,PA,Butler County,,city-us,0,40.993,-79.929,185
+14006,Euclid,WV,Calhoun County,,city-us,0,38.733,-81.044,231

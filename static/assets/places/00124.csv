@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-623,Allegheny,PA,,city-us,8273,40.615,-79.640,631
-617,Allegheny,PA,,city-us,6509,40.453,-78.475,631
-619,Allegheny,PA,,city-us,2758,40.540,-78.616,631
-618,Allegheny,PA,,city-us,620,41.137,-79.738,631
-621,Allegheny,PA,,city-us,610,39.943,-78.807,631
-622,Allegheny,PA,,city-us,278,41.565,-79.541,631
-616,Alleghany,CA,,city-us,93,39.470,-120.843,3231
-615,Alleghany,ND,,city-us,53,46.319,-97.836,0
-614,Alleghany,VA,,city-us,0,37.747,-80.240,106
-620,Allegheny,KY,,city-us,0,37.271,-82.485,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+623,Allegheny,PA,Westmoreland County,,city-us,8273,40.615,-79.640,631
+617,Allegheny,PA,Blair County,,city-us,6509,40.453,-78.475,631
+619,Allegheny,PA,Cambria County,,city-us,2758,40.540,-78.616,631
+618,Allegheny,PA,Butler County,,city-us,620,41.137,-79.738,631
+621,Allegheny,PA,Somerset County,,city-us,610,39.943,-78.807,631
+622,Allegheny,PA,Venango County,,city-us,278,41.565,-79.541,631
+616,Alleghany,CA,Sierra County,,city-us,93,39.470,-120.843,3231
+615,Alleghany,ND,Ransom County,,city-us,53,46.319,-97.836,0
+614,Alleghany,VA,Alleghany County,,city-us,0,37.747,-80.240,106
+620,Allegheny,KY,Pike County,,city-us,0,37.271,-82.485,192

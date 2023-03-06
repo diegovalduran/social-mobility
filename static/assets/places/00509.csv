@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2611,Basco,IL,,city-us,78,40.328,-91.200,1747
-2610,Basco,WI,,city-us,0,42.912,-89.515,259
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2611,Basco,IL,Hancock County,,city-us,78,40.328,-91.200,1747
+2610,Basco,WI,Dane County,,city-us,0,42.912,-89.515,259

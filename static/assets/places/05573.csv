@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28654,Millsboro,DE,,city-us,7139,38.592,-75.291,4877
-28655,Millsboro,PA,,city-us,374,39.987,-79.994,472
-28653,Millsboro,WV,,city-us,0,39.732,-80.666,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28654,Millsboro,DE,Sussex County,,city-us,7139,38.592,-75.291,4877
+28655,Millsboro,PA,Washington County,,city-us,374,39.987,-79.994,472
+28653,Millsboro,WV,Marshall County,,city-us,0,39.732,-80.666,92

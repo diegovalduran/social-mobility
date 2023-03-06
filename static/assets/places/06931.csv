@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35228,Prairie,OH,,city-us,17187,39.939,-83.186,122
-35230,Prairie,OH,,city-us,3053,40.630,-81.935,122
-35236,Prairie,IL,,city-us,1210,39.281,-88.638,1144
-35226,Prairie,IL,,city-us,573,39.136,-87.791,1144
-35229,Prairie,IL,,city-us,382,40.408,-91.206,1144
-35238,Prairie,SD,,city-us,239,43.035,-96.735,0
-35227,Prairie,IL,,city-us,208,39.829,-87.596,1144
-35224,Prairie,MO,,city-us,153,38.081,-94.227,1378
-35231,Prairie,KS,,city-us,141,39.618,-98.091,850
-35225,Prairie,MO,,city-us,135,39.391,-93.708,147
-35240,Prairie,KS,,city-us,113,37.602,-95.823,171
-35232,Prairie,ND,,city-us,53,46.594,-98.223,0
-35233,Prairie,MS,,city-us,0,33.797,-88.668,816
-35234,Prairie,IN,,city-us,0,37.921,-87.982,151
-35235,Prairie,IL,,city-us,0,38.173,-89.943,123
-35237,Prairie,WA,,city-us,0,48.602,-122.235,235
-35239,Prairie,AL,,city-us,0,32.154,-87.440,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35228,Prairie,OH,Franklin County,,city-us,17187,39.939,-83.186,122
+35230,Prairie,OH,Holmes County,,city-us,3053,40.630,-81.935,122
+35236,Prairie,IL,Shelby County,,city-us,1210,39.281,-88.638,1144
+35226,Prairie,IL,Crawford County,,city-us,573,39.136,-87.791,1144
+35229,Prairie,IL,Hancock County,,city-us,382,40.408,-91.206,1144
+35238,Prairie,SD,Union County,,city-us,239,43.035,-96.735,0
+35227,Prairie,IL,Edgar County,,city-us,208,39.829,-87.596,1144
+35224,Prairie,MO,Bates County,,city-us,153,38.081,-94.227,1378
+35231,Prairie,KS,Jewell County,,city-us,141,39.618,-98.091,850
+35225,Prairie,MO,Carroll County,,city-us,135,39.391,-93.708,147
+35240,Prairie,KS,Wilson County,,city-us,113,37.602,-95.823,171
+35232,Prairie,ND,LaMoure County,,city-us,53,46.594,-98.223,0
+35233,Prairie,MS,Monroe County,,city-us,0,33.797,-88.668,816
+35234,Prairie,IN,Posey County,,city-us,0,37.921,-87.982,151
+35235,Prairie,IL,Randolph County,,city-us,0,38.173,-89.943,123
+35237,Prairie,WA,Skagit County,,city-us,0,48.602,-122.235,235
+35239,Prairie,AL,Wilcox County,,city-us,0,32.154,-87.440,168

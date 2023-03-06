@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1738,Assumption,IL,,city-us,1345,39.516,-89.081,841
-1736,Assumption,NE,,city-us,0,40.510,-98.572,270
-1737,Assumption,MN,,city-us,0,44.688,-93.889,608
-1739,Assumption,OH,,city-us,0,41.672,-83.912,928
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1738,Assumption,IL,Christian County,,city-us,1345,39.516,-89.081,841
+1736,Assumption,NE,Adams County,,city-us,0,40.510,-98.572,270
+1737,Assumption,MN,Carver County,,city-us,0,44.688,-93.889,608
+1739,Assumption,OH,Fulton County,,city-us,0,41.672,-83.912,928

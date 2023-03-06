@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8381,Churchill,PA,,city-us,3109,40.438,-79.843,3323
-8386,Churchill,OH,,city-us,2014,41.162,-80.665,2038
-8384,Churchill,MI,,city-us,1544,44.297,-84.069,2050
-8383,Churchill,MT,,city-us,1031,45.751,-111.304,2453
-8382,Churchill,MN,,city-us,0,45.022,-95.867,88
-8385,Churchill,MN,,city-us,0,44.818,-94.671,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8381,Churchill,PA,Allegheny County,,city-us,3109,40.438,-79.843,3323
+8386,Churchill,OH,Trumbull County,,city-us,2014,41.162,-80.665,2038
+8384,Churchill,MI,Ogemaw County,,city-us,1544,44.297,-84.069,2050
+8383,Churchill,MT,Gallatin County,,city-us,1031,45.751,-111.304,2453
+8382,Churchill,MN,Chippewa County,,city-us,0,45.022,-95.867,88
+8385,Churchill,MN,Renville County,,city-us,0,44.818,-94.671,88

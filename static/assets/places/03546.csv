@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18022,Greenvale,NY,,city-us,947,40.811,-73.628,4843
-18021,Greenvale,MN,,city-us,792,44.520,-93.220,1885
-18023,Greenvale,TN,,city-us,0,36.000,-86.198,368
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18022,Greenvale,NY,Nassau County,,city-us,947,40.811,-73.628,4843
+18021,Greenvale,MN,Dakota County,,city-us,792,44.520,-93.220,1885
+18023,Greenvale,TN,Wilson County,,city-us,0,36.000,-86.198,368

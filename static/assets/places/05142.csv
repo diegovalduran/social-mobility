@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26392,Magnet,NE,,city-us,46,42.455,-97.470,5123
-26393,Magnet,IL,,city-us,0,39.439,-88.398,149
-26394,Magnet,IN,,city-us,0,38.097,-86.463,1514
-26395,Magnet,TX,,city-us,0,29.151,-95.987,2985
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26392,Magnet,NE,Cedar County,,city-us,46,42.455,-97.470,5123
+26393,Magnet,IL,Coles County,,city-us,0,39.439,-88.398,149
+26394,Magnet,IN,Perry County,,city-us,0,38.097,-86.463,1514
+26395,Magnet,TX,Wharton County,,city-us,0,29.151,-95.987,2985

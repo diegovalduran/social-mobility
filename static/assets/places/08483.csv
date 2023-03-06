@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42751,The Oaks,VA,,city-us,0,37.894,-75.511,127
-42752,The Oaks,CA,,city-us,0,38.905,-123.226,156
-42753,The Oaks,CA,,city-us,0,39.219,-121.081,164
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42751,The Oaks,VA,Accomack County,,city-us,0,37.894,-75.511,127
+42752,The Oaks,CA,Mendocino County,,city-us,0,38.905,-123.226,156
+42753,The Oaks,CA,Nevada County,,city-us,0,39.219,-121.081,164

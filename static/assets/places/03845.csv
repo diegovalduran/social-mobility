@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19707,Hensley,IL,,city-us,1019,40.186,-88.298,1924
-19709,Hensley,AR,,city-us,79,34.505,-92.206,2656
-19708,Hensley,WV,,city-us,0,37.474,-81.700,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19707,Hensley,IL,Champaign County,,city-us,1019,40.186,-88.298,1924
+19709,Hensley,AR,Pulaski County,,city-us,79,34.505,-92.206,2656
+19708,Hensley,WV,McDowell County,,city-us,0,37.474,-81.700,251

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18177,Gridley,CA,,city-us,7356,39.364,-121.694,8470
-18180,Gridley,IL,,city-us,1846,40.718,-88.890,412
-18178,Gridley,KS,,city-us,312,38.098,-95.884,3839
-18179,Gridley,IA,,city-us,0,43.399,-94.573,401
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18177,Gridley,CA,Butte County,,city-us,7356,39.364,-121.694,8470
+18180,Gridley,IL,McLean County,,city-us,1846,40.718,-88.890,412
+18178,Gridley,KS,Coffey County,,city-us,312,38.098,-95.884,3839
+18179,Gridley,IA,Emmet County,,city-us,0,43.399,-94.573,401

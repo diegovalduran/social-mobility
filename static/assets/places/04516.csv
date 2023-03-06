@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23201,Knollwood,IL,,city-us,2121,42.272,-87.896,6026
-23200,Knollwood,TX,,city-us,776,33.690,-96.619,2343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23201,Knollwood,IL,Lake County,,city-us,2121,42.272,-87.896,6026
+23200,Knollwood,TX,Grayson County,,city-us,776,33.690,-96.619,2343

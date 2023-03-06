@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7346,Cazenovia,NY,,city-us,6694,42.916,-75.862,5332
-7347,Cazenovia,WI,,city-us,362,43.525,-90.204,3795
-7348,Cazenovia,IL,,city-us,0,40.850,-89.332,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7346,Cazenovia,NY,Madison County,,city-us,6694,42.916,-75.862,5332
+7347,Cazenovia,WI,Richland County / Sauk County,,city-us,362,43.525,-90.204,3795
+7348,Cazenovia,IL,Woodford County,,city-us,0,40.850,-89.332,192

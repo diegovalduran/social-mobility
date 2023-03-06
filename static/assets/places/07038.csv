@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35744,Radley,KS,,city-us,105,37.484,-94.760,436
-35745,Radley,IN,,city-us,0,40.436,-85.734,319
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35744,Radley,KS,Crawford County,,city-us,105,37.484,-94.760,436
+35745,Radley,IN,Grant County,,city-us,0,40.436,-85.734,319

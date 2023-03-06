@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30782,New Paris,OH,,city-us,1488,39.857,-84.793,4169
-30781,New Paris,IN,,city-us,1434,41.500,-85.828,2879
-30780,New Paris,PA,,city-us,201,40.106,-78.645,2640
-30783,New Paris,WI,,city-us,0,43.733,-87.972,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30782,New Paris,OH,Preble County,,city-us,1488,39.857,-84.793,4169
+30781,New Paris,IN,Elkhart County,,city-us,1434,41.500,-85.828,2879
+30780,New Paris,PA,Bedford County,,city-us,201,40.106,-78.645,2640
+30783,New Paris,WI,Sheboygan County,,city-us,0,43.733,-87.972,177

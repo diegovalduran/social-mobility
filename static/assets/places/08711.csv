@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43618,Twin Valley,MN,,city-us,718,47.260,-96.259,3317
-43617,Twin Valley,ND,,city-us,250,48.045,-103.187,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43618,Twin Valley,MN,Norman County,,city-us,718,47.260,-96.259,3317
+43617,Twin Valley,ND,McKenzie County,,city-us,250,48.045,-103.187,0

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24543,Letart,OH,,city-us,736,38.917,-81.881,1542
-24542,Letart,WV,,city-us,0,38.895,-81.933,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24543,Letart,OH,Meigs County,,city-us,736,38.917,-81.881,1542
+24542,Letart,WV,Mason County,,city-us,0,38.895,-81.933,267

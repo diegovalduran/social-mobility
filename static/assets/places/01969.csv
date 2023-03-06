@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10020,Cosgrove,AR,,city-us,0,33.306,-91.399,84
-10021,Cosgrove,IA,,city-us,0,41.643,-91.736,120
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10020,Cosgrove,AR,Chicot County,,city-us,0,33.306,-91.399,84
+10021,Cosgrove,IA,Johnson County,,city-us,0,41.643,-91.736,120

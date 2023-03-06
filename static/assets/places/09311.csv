@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46988,Willis,TX,,city-us,6710,30.425,-95.480,9562
-46990,Willis,ND,,city-us,126,48.061,-101.196,0
-46982,Willis,KS,,city-us,24,39.725,-95.506,3205
-46983,Willis,FL,,city-us,0,30.553,-85.187,179
-46984,Willis,NE,,city-us,0,42.475,-96.629,201
-46985,Willis,VA,,city-us,0,36.858,-80.481,452
-46986,Willis,IN,,city-us,0,38.553,-87.357,239
-46987,Willis,OK,,city-us,0,33.886,-96.829,1656
-46989,Willis,VA,,city-us,0,36.868,-82.114,136
-46991,Willis,MI,,city-us,0,42.158,-83.559,1762
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46988,Willis,TX,Montgomery County,,city-us,6710,30.425,-95.480,9562
+46990,Willis,ND,Ward County,,city-us,126,48.061,-101.196,0
+46982,Willis,KS,Brown County,,city-us,24,39.725,-95.506,3205
+46983,Willis,FL,Calhoun County,,city-us,0,30.553,-85.187,179
+46984,Willis,NE,Dakota County,,city-us,0,42.475,-96.629,201
+46985,Willis,VA,Floyd County,,city-us,0,36.858,-80.481,452
+46986,Willis,IN,Knox County,,city-us,0,38.553,-87.357,239
+46987,Willis,OK,Marshall County,,city-us,0,33.886,-96.829,1656
+46989,Willis,VA,Russell County,,city-us,0,36.868,-82.114,136
+46991,Willis,MI,Washtenaw County,,city-us,0,42.158,-83.559,1762

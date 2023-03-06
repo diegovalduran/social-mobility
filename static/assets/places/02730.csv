@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13581,Elsie,MI,,city-us,941,43.089,-84.387,3419
-13583,Elsie,NE,,city-us,100,40.847,-101.388,3222
-13579,Elsey,MO,,city-us,0,36.854,-93.541,401
-13580,Elsie,OR,,city-us,0,45.866,-123.595,783
-13582,Elsie,KY,,city-us,0,37.778,-83.136,323
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13581,Elsie,MI,Clinton County,,city-us,941,43.089,-84.387,3419
+13583,Elsie,NE,Perkins County,,city-us,100,40.847,-101.388,3222
+13579,Elsey,MO,Stone County,,city-us,0,36.854,-93.541,401
+13580,Elsie,OR,Clatsop County,,city-us,0,45.866,-123.595,783
+13582,Elsie,KY,Magoffin County,,city-us,0,37.778,-83.136,323

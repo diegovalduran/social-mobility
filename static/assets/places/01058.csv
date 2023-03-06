@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5283,Bridgman,MI,,city-us,2080,41.943,-86.557,4185
-5219,Bridgeman,MN,,city-us,0,46.384,-94.581,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5283,Bridgman,MI,Berrien County,,city-us,2080,41.943,-86.557,4185
+5219,Bridgeman,MN,Cass County,,city-us,0,46.384,-94.581,195

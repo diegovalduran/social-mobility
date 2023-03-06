@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24302,Lee Creek,AR,,city-us,0,35.636,-94.404,342
-24303,Lee Creek,WV,,city-us,0,39.153,-81.739,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24302,Lee Creek,AR,Crawford County,,city-us,0,35.636,-94.404,342
+24303,Lee Creek,WV,Wood County,,city-us,0,39.153,-81.739,88

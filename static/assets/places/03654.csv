@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18509,Halsey,OR,,city-us,958,44.384,-123.110,3737
-18510,Halsey,WI,,city-us,635,45.082,-90.027,1845
-18508,Halsey,NE,,city-us,64,41.903,-100.270,2950
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18509,Halsey,OR,Linn County,,city-us,958,44.384,-123.110,3737
+18510,Halsey,WI,Marathon County,,city-us,635,45.082,-90.027,1845
+18508,Halsey,NE,Blaine County / Thomas County,,city-us,64,41.903,-100.270,2950

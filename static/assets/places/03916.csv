@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20028,Hiles,WI,,city-us,311,45.704,-88.977,1841
-20029,Hiles,WI,,city-us,153,44.394,-90.277,3091
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20028,Hiles,WI,Forest County,,city-us,311,45.704,-88.977,1841
+20029,Hiles,WI,Wood County,,city-us,153,44.394,-90.277,3091

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14103,Evelyn,MI,,city-us,2983,46.338,-86.571,6230
-14104,Evelyn,TX,,city-us,0,32.307,-95.533,96
-14105,Evelyn,WV,,city-us,0,38.938,-81.344,71
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14103,Evelyn,MI,Alger County,,city-us,2983,46.338,-86.571,6230
+14104,Evelyn,TX,Henderson County,,city-us,0,32.307,-95.533,96
+14105,Evelyn,WV,Wirt County,,city-us,0,38.938,-81.344,71

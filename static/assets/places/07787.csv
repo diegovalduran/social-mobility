@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39417,Shawtown,OH,,city-us,0,41.108,-83.872,285
-39418,Shawtown,NC,,city-us,0,35.384,-78.831,405
-39419,Shawtown,OH,,city-us,0,40.483,-82.964,206
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39417,Shawtown,OH,Hancock County,,city-us,0,41.108,-83.872,285
+39418,Shawtown,NC,Harnett County,,city-us,0,35.384,-78.831,405
+39419,Shawtown,OH,Morrow County,,city-us,0,40.483,-82.964,206

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16281,Garden Acres,CA,,city-us,10411,37.964,-121.229,4295
-16282,Garden Acres,TX,,city-us,0,32.594,-97.302,217
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16281,Garden Acres,CA,San Joaquin County,,city-us,10411,37.964,-121.229,4295
+16282,Garden Acres,TX,Tarrant County,,city-us,0,32.594,-97.302,217

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41717,Strawn,TX,,city-us,549,32.552,-98.498,2820
-41705,Straughn,IN,,city-us,258,39.809,-85.291,3044
-41716,Strawn,IL,,city-us,102,40.653,-88.396,3277
-41704,Straughn,AL,,city-us,0,31.388,-86.418,394
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41717,Strawn,TX,Palo Pinto County,,city-us,549,32.552,-98.498,2820
+41705,Straughn,IN,Henry County,,city-us,258,39.809,-85.291,3044
+41716,Strawn,IL,Livingston County,,city-us,102,40.653,-88.396,3277
+41704,Straughn,AL,Covington County,,city-us,0,31.388,-86.418,394

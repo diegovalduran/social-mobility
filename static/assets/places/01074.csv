@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5332,Brink,VA,,city-us,0,36.618,-77.634,219
-5333,Brink,WV,,city-us,0,39.548,-80.493,133
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5332,Brink,VA,Greensville County,,city-us,0,36.618,-77.634,219
+5333,Brink,WV,Marion County,,city-us,0,39.548,-80.493,133

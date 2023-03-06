@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10790,Cynthiana,KY,,city-us,6361,38.390,-84.294,7659
-10792,Cynthiana,IN,,city-us,547,38.188,-87.710,4307
-10791,Cynthiana,OH,,city-us,23,39.174,-83.349,244
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10790,Cynthiana,KY,Harrison County,,city-us,6361,38.390,-84.294,7659
+10792,Cynthiana,IN,Posey County,,city-us,547,38.188,-87.710,4307
+10791,Cynthiana,OH,Pike County,,city-us,23,39.174,-83.349,244

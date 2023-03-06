@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15095,Fleetwood,PA,,city-us,4051,40.454,-75.818,3940
-15094,Fleetwood,NC,,city-us,0,36.306,-81.513,274
-15096,Fleetwood,OK,,city-us,0,33.897,-97.851,221
-15097,Fleetwood,OR,,city-us,0,43.356,-120.874,9761
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15095,Fleetwood,PA,Berks County,,city-us,4051,40.454,-75.818,3940
+15094,Fleetwood,NC,Ashe County,,city-us,0,36.306,-81.513,274
+15096,Fleetwood,OK,Jefferson County,,city-us,0,33.897,-97.851,221
+15097,Fleetwood,OR,Lake County,,city-us,0,43.356,-120.874,9761

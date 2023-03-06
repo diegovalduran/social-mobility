@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6141,Burlingame,CA,,city-us,30106,37.584,-122.366,13008
-6140,Burlingame,KS,,city-us,966,38.754,-95.835,5050
-6139,Burlingame,IL,,city-us,0,39.924,-90.163,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6141,Burlingame,CA,San Mateo County,,city-us,30106,37.584,-122.366,13008
+6140,Burlingame,KS,Osage County,,city-us,966,38.754,-95.835,5050
+6139,Burlingame,IL,Cass County,,city-us,0,39.924,-90.163,121

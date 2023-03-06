@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47720,Woodworth,OH,,city-us,1784,40.988,-80.663,527
-47721,Woodworth,LA,,city-us,1717,31.147,-92.497,6543
-47722,Woodworth,ND,,city-us,46,47.142,-99.303,3090
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47720,Woodworth,OH,Mahoning County,,city-us,1784,40.988,-80.663,527
+47721,Woodworth,LA,Rapides Parish,,city-us,1717,31.147,-92.497,6543
+47722,Woodworth,ND,Stutsman County,,city-us,46,47.142,-99.303,3090

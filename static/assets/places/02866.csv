@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14256,Fairchild,WI,,city-us,457,44.645,-90.987,3717
-14257,Fairchild,GA,,city-us,0,30.825,-84.907,311
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14256,Fairchild,WI,Eau Claire County,,city-us,457,44.645,-90.987,3717
+14257,Fairchild,GA,Seminole County,,city-us,0,30.825,-84.907,311

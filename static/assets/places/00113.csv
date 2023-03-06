@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-580,Algiers,,Algeria,city-international,3415811,36.776,3.059,34330
-578,Algiers,IN,,city-us,0,38.487,-87.175,708
-579,Algiers,VT,,city-us,0,42.817,-72.575,2000
+id,name,state,county,country,level,population,latitude,longitude,wiki
+580,Algiers,,,Algeria,city-international,3415811,36.776,3.059,34330
+578,Algiers,IN,Pike County,,city-us,0,38.487,-87.175,708
+579,Algiers,VT,Windham County,,city-us,0,42.817,-72.575,2000

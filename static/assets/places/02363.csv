@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11874,Dixonville,PA,,city-us,413,40.716,-79.007,2123
-11876,Dixonville,FL,,city-us,181,30.986,-87.041,442
-11872,Dixonville,OR,,city-us,0,43.208,-123.241,70
-11873,Dixonville,AL,,city-us,0,31.001,-87.036,188
-11875,Dixonville,IN,,city-us,0,38.802,-86.284,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11874,Dixonville,PA,Indiana County,,city-us,413,40.716,-79.007,2123
+11876,Dixonville,FL,Santa Rosa County,,city-us,181,30.986,-87.041,442
+11872,Dixonville,OR,Douglas County,,city-us,0,43.208,-123.241,70
+11873,Dixonville,AL,Escambia County,,city-us,0,31.001,-87.036,188
+11875,Dixonville,IN,Lawrence County,,city-us,0,38.802,-86.284,237

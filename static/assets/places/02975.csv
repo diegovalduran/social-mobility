@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14914,Findlay,OH,,city-us,39942,41.044,-83.650,15538
-14912,Findlay,PA,,city-us,6457,40.478,-80.281,2910
-14916,Findley,PA,,city-us,2860,41.204,-80.174,2030
-14915,Findlay,IL,,city-us,657,39.523,-88.754,2219
-14913,Findlay,GA,,city-us,0,32.154,-83.772,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14914,Findlay,OH,Hancock County,,city-us,39942,41.044,-83.650,15538
+14912,Findlay,PA,Allegheny County,,city-us,6457,40.478,-80.281,2910
+14916,Findley,PA,Mercer County,,city-us,2860,41.204,-80.174,2030
+14915,Findlay,IL,Shelby County,,city-us,657,39.523,-88.754,2219
+14913,Findlay,GA,Dooly County,,city-us,0,32.154,-83.772,262

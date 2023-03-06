@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44158,Valley Head,AL,,city-us,582,34.569,-85.615,2484
-44159,Valley Head,WV,,city-us,69,38.545,-80.036,800
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44158,Valley Head,AL,DeKalb County,,city-us,582,34.569,-85.615,2484
+44159,Valley Head,WV,Randolph County,,city-us,69,38.545,-80.036,800

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11271,Deep Creek,VA,,city-us,0,37.767,-75.753,462
-11272,Deep Creek,FL,,city-us,0,26.990,-82.106,829
-11273,Deep Creek,WA,,city-us,0,47.643,-117.712,2417
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11271,Deep Creek,VA,Accomack County,,city-us,0,37.767,-75.753,462
+11272,Deep Creek,FL,Charlotte County,,city-us,0,26.990,-82.106,829
+11273,Deep Creek,WA,Spokane County,,city-us,0,47.643,-117.712,2417

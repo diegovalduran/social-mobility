@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14781,Felt,OK,,city-us,94,36.568,-102.794,1649
-14782,Felt,ID,,city-us,0,43.873,-111.185,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14781,Felt,OK,Cimarron County,,city-us,94,36.568,-102.794,1649
+14782,Felt,ID,Teton County,,city-us,0,43.873,-111.185,248

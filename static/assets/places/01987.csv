@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10092,Coulter,IA,,city-us,218,42.737,-93.370,2853
-10091,Coulter,PA,,city-us,0,40.296,-79.801,959
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10092,Coulter,IA,Franklin County,,city-us,218,42.737,-93.370,2853
+10091,Coulter,PA,Allegheny County,,city-us,0,40.296,-79.801,959

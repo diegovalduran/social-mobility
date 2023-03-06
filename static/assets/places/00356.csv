@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1864,Atwell,WV,,city-us,0,37.349,-81.763,165
-1865,Atwell,MO,,city-us,0,38.038,-92.213,476
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1864,Atwell,WV,McDowell County,,city-us,0,37.349,-81.763,165
+1865,Atwell,MO,Miller County,,city-us,0,38.038,-92.213,476

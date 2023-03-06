@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45995,West Concord,MA,,city-us,7003,42.458,-71.395,1905
-45994,West Concord,MN,,city-us,853,44.154,-92.900,4262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45995,West Concord,MA,Middlesex County,,city-us,7003,42.458,-71.395,1905
+45994,West Concord,MN,Dodge County,,city-us,853,44.154,-92.900,4262

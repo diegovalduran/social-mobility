@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4007,Bingham,MI,,city-us,2924,42.979,-84.536,255
-4011,Bingham,MI,,city-us,2609,44.914,-85.643,255
-4010,Bingham,MI,,city-us,1636,43.723,-82.935,255
-4015,Bingham,ME,,city-us,865,45.018,-69.813,4709
-4013,Bingham,PA,,city-us,616,41.963,-77.811,1962
-4016,Bingham,ND,,city-us,70,47.548,-96.909,0
-4008,Bingham,IL,,city-us,63,39.114,-89.213,1889
-4009,Bingham,WV,,city-us,0,38.034,-80.794,171
-4012,Bingham,IA,,city-us,0,40.734,-95.289,229
-4014,Bingham,NE,,city-us,0,42.021,-102.089,453
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4007,Bingham,MI,Clinton County,,city-us,2924,42.979,-84.536,255
+4011,Bingham,MI,Leelanau County,,city-us,2609,44.914,-85.643,255
+4010,Bingham,MI,Huron County,,city-us,1636,43.723,-82.935,255
+4015,Bingham,ME,Somerset County,,city-us,865,45.018,-69.813,4709
+4013,Bingham,PA,Potter County,,city-us,616,41.963,-77.811,1962
+4016,Bingham,ND,Traill County,,city-us,70,47.548,-96.909,0
+4008,Bingham,IL,Fayette County,,city-us,63,39.114,-89.213,1889
+4009,Bingham,WV,Greenbrier County,,city-us,0,38.034,-80.794,171
+4012,Bingham,IA,Page County,,city-us,0,40.734,-95.289,229
+4014,Bingham,NE,Sheridan County,,city-us,0,42.021,-102.089,453

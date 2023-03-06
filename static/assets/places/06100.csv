@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31219,Nogales,,Mexico,city-international,264782,31.183,-111.000,776
-31218,Nogales,AZ,,city-us,19766,31.340,-110.934,13157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31219,Nogales,,,Mexico,city-international,264782,31.183,-111.000,776
+31218,Nogales,AZ,Santa Cruz County,,city-us,19766,31.340,-110.934,13157

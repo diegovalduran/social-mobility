@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19311,Haverhill,MA,,city-us,67361,42.776,-71.077,31225
-19312,Haverhill,NH,,city-us,4607,44.076,-72.005,7124
-19315,Haverhill,FL,,city-us,2182,26.691,-80.120,4413
-19314,Haverhill,MN,,city-us,1485,44.067,-92.373,1894
-19313,Haverhill,IA,,city-us,163,41.945,-92.961,5221
-19310,Haverhill,KS,,city-us,0,37.686,-96.883,440
-19316,Haverhill,OH,,city-us,0,38.585,-82.832,422
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19311,Haverhill,MA,Essex County,,city-us,67361,42.776,-71.077,31225
+19312,Haverhill,NH,Grafton County,,city-us,4607,44.076,-72.005,7124
+19315,Haverhill,FL,Palm Beach County,,city-us,2182,26.691,-80.120,4413
+19314,Haverhill,MN,Olmsted County,,city-us,1485,44.067,-92.373,1894
+19313,Haverhill,IA,Marshall County,,city-us,163,41.945,-92.961,5221
+19310,Haverhill,KS,Butler County,,city-us,0,37.686,-96.883,440
+19316,Haverhill,OH,Scioto County,,city-us,0,38.585,-82.832,422

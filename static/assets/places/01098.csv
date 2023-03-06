@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5436,Bromley,KY,,city-us,718,39.082,-84.560,3156
-5435,Bromley,AL,,city-us,0,30.739,-87.868,416
-5437,Bromley,IA,,city-us,0,42.119,-93.130,1209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5436,Bromley,KY,Kenton County,,city-us,718,39.082,-84.560,3156
+5435,Bromley,AL,Baldwin County,,city-us,0,30.739,-87.868,416
+5437,Bromley,IA,Marshall County,,city-us,0,42.119,-93.130,1209

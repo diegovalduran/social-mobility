@@ -1,10 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-378,Alamo,TX,,city-us,20017,26.184,-98.123,4682
-376,Alamo,CA,,city-us,15314,37.850,-122.032,14892
-379,Alamo,MI,,city-us,3801,42.381,-85.694,2420
-377,Alamo,TN,,city-us,2322,35.785,-89.117,3230
-380,Alamo,NV,,city-us,1154,37.365,-115.164,2324
-382,Alamo,NM,,city-us,912,34.421,-107.511,2950
-383,Alamo,GA,,city-us,783,32.147,-82.778,2619
-381,Alamo,IN,,city-us,62,39.982,-87.057,3602
-384,Alamo,ND,,city-us,52,48.582,-103.470,2988
+id,name,state,county,country,level,population,latitude,longitude,wiki
+378,Alamo,TX,Hidalgo County,,city-us,20017,26.184,-98.123,4682
+376,Alamo,CA,Contra Costa County,,city-us,15314,37.850,-122.032,14892
+379,Alamo,MI,Kalamazoo County,,city-us,3801,42.381,-85.694,2420
+377,Alamo,TN,Crockett County,,city-us,2322,35.785,-89.117,3230
+380,Alamo,NV,Lincoln County,,city-us,1154,37.365,-115.164,2324
+382,Alamo,NM,Socorro County,,city-us,912,34.421,-107.511,2950
+383,Alamo,GA,Wheeler County,,city-us,783,32.147,-82.778,2619
+381,Alamo,IN,Montgomery County,,city-us,62,39.982,-87.057,3602
+384,Alamo,ND,Williams County,,city-us,52,48.582,-103.470,2988

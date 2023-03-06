@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33827,Petrolia,TX,,city-us,516,34.013,-98.232,2614
-33826,Petrolia,PA,,city-us,178,41.017,-79.718,2035
-33825,Petrolia,KS,,city-us,0,37.746,-95.472,943
-33828,Petrolia,CA,,city-us,0,40.325,-124.287,10977
-33829,Petrolia,IL,,city-us,0,38.761,-87.779,138
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33827,Petrolia,TX,Clay County,,city-us,516,34.013,-98.232,2614
+33826,Petrolia,PA,Butler County,,city-us,178,41.017,-79.718,2035
+33825,Petrolia,KS,Allen County,,city-us,0,37.746,-95.472,943
+33828,Petrolia,CA,Humboldt County,,city-us,0,40.325,-124.287,10977
+33829,Petrolia,IL,Lawrence County,,city-us,0,38.761,-87.779,138

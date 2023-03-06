@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22559,Keansburg,NJ,,city-us,9751,40.442,-74.130,19496
-22601,Keensburg,IL,,city-us,180,38.351,-87.869,1862
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22559,Keansburg,NJ,Monmouth County,,city-us,9751,40.442,-74.130,19496
+22601,Keensburg,IL,Wabash County,,city-us,180,38.351,-87.869,1862

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30196,Mystic,CT,,city-us,4354,41.356,-71.956,13499
-30192,Mystic,IA,,city-us,327,40.778,-92.944,4853
-30193,Mystic,KY,,city-us,0,37.897,-86.443,244
-30194,Mystic,GA,,city-us,0,31.622,-83.336,1222
-30195,Mystic,SD,,city-us,0,44.077,-103.642,345
-30197,Mystic,MO,,city-us,0,40.156,-92.932,499
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30196,Mystic,CT,Southeastern Connecticut Planning Region,,city-us,4354,41.356,-71.956,13499
+30192,Mystic,IA,Appanoose County,,city-us,327,40.778,-92.944,4853
+30193,Mystic,KY,Breckinridge County,,city-us,0,37.897,-86.443,244
+30194,Mystic,GA,Irwin County,,city-us,0,31.622,-83.336,1222
+30195,Mystic,SD,Pennington County,,city-us,0,44.077,-103.642,345
+30197,Mystic,MO,Sullivan County,,city-us,0,40.156,-92.932,499

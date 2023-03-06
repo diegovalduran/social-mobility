@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1319,Ararat,PA,,city-us,524,41.807,-75.516,3280
-1317,Ararat,VA,,city-us,0,36.599,-80.511,2218
-1318,Ararat,NC,,city-us,0,36.404,-80.561,983
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1319,Ararat,PA,Susquehanna County,,city-us,524,41.807,-75.516,3280
+1317,Ararat,VA,Patrick County,,city-us,0,36.599,-80.511,2218
+1318,Ararat,NC,Surry County,,city-us,0,36.404,-80.561,983

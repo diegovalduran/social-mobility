@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33398,Peabody,MA,,city-us,54119,42.528,-70.929,13223
-33399,Peabody,KS,,city-us,932,38.169,-97.107,32498
-33396,Peabody,ND,,city-us,14,48.857,-100.632,139
-33397,Peabody,KY,,city-us,0,37.139,-83.591,2887
-33400,Peabody,IN,,city-us,0,41.085,-85.489,331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33398,Peabody,MA,Essex County,,city-us,54119,42.528,-70.929,13223
+33399,Peabody,KS,Marion County,,city-us,932,38.169,-97.107,32498
+33396,Peabody,ND,Bottineau County,,city-us,14,48.857,-100.632,139
+33397,Peabody,KY,Clay County,,city-us,0,37.139,-83.591,2887
+33400,Peabody,IN,Whitley County,,city-us,0,41.085,-85.489,331

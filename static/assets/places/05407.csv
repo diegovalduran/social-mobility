@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27681,Meador,KY,,city-us,0,36.891,-86.176,189
-27682,Meador,WV,,city-us,0,37.619,-82.062,519
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27681,Meador,KY,Allen County,,city-us,0,36.891,-86.176,189
+27682,Meador,WV,Mingo County,,city-us,0,37.619,-82.062,519

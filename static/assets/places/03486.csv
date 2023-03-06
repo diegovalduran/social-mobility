@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17689,Grass Valley,CA,,city-us,13754,39.219,-121.061,13083
-17690,Grass Valley,NV,,city-us,931,40.797,-117.760,567
-17691,Grass Valley,OR,,city-us,155,45.360,-120.786,3232
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17689,Grass Valley,CA,Nevada County,,city-us,13754,39.219,-121.061,13083
+17690,Grass Valley,NV,Pershing County,,city-us,931,40.797,-117.760,567
+17691,Grass Valley,OR,Sherman County,,city-us,155,45.360,-120.786,3232

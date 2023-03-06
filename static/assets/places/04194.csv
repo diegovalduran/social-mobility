@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21533,Irene,SD,,city-us,427,43.084,-97.158,3580
-21532,Irene,IL,,city-us,0,42.170,-88.900,147
-21534,Irene,TX,,city-us,0,31.992,-96.871,505
-21535,Irene,WV,,city-us,0,38.193,-81.847,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21533,Irene,SD,Clay County / Turner County / Yankton County,,city-us,427,43.084,-97.158,3580
+21532,Irene,IL,Boone County,,city-us,0,42.170,-88.900,147
+21534,Irene,TX,Hill County,,city-us,0,31.992,-96.871,505
+21535,Irene,WV,Lincoln County,,city-us,0,38.193,-81.847,87

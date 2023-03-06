@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35096,Posen,IL,,city-us,5497,41.632,-87.681,4385
-35097,Posen,MI,,city-us,817,45.251,-83.691,2206
-35099,Posen,MN,,city-us,217,44.578,-95.534,1900
-35098,Posen,IL,,city-us,0,38.258,-89.336,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35096,Posen,IL,Cook County,,city-us,5497,41.632,-87.681,4385
+35097,Posen,MI,Presque Isle County,,city-us,817,45.251,-83.691,2206
+35099,Posen,MN,Yellow Medicine County,,city-us,217,44.578,-95.534,1900
+35098,Posen,IL,Washington County,,city-us,0,38.258,-89.336,248

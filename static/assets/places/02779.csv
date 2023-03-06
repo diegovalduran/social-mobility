@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13842,Eola,IL,,city-us,108,41.778,-88.243,636
-13843,Eola,OR,,city-us,60,44.932,-123.119,3654
-13841,Eola,TX,,city-us,0,31.399,-100.089,505
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13842,Eola,IL,DuPage County,,city-us,108,41.778,-88.243,636
+13843,Eola,OR,Polk County,,city-us,60,44.932,-123.119,3654
+13841,Eola,TX,Concho County,,city-us,0,31.399,-100.089,505

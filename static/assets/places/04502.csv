@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23151,Klein,TX,,city-us,200805,30.046,-95.536,6972
-23157,Kline,PA,,city-us,1478,40.879,-76.050,3160
-23152,Klein,MT,,city-us,223,46.404,-108.549,1861
-23154,Kline,SC,,city-us,147,33.126,-81.343,1893
-23155,Kline,CO,,city-us,0,37.144,-108.119,268
-23156,Kline,WV,,city-us,0,38.779,-79.225,347
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23151,Klein,TX,Harris County,,city-us,200805,30.046,-95.536,6972
+23157,Kline,PA,Schuylkill County,,city-us,1478,40.879,-76.050,3160
+23152,Klein,MT,Musselshell County,,city-us,223,46.404,-108.549,1861
+23154,Kline,SC,Barnwell County,,city-us,147,33.126,-81.343,1893
+23155,Kline,CO,La Plata County,,city-us,0,37.144,-108.119,268
+23156,Kline,WV,Pendleton County,,city-us,0,38.779,-79.225,347

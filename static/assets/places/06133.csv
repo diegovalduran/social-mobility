@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31339,North Bloomfield,OH,,city-us,1841,40.675,-82.732,1516
-31340,North Bloomfield,CA,,city-us,0,39.368,-120.899,1549
-31341,North Bloomfield,OH,,city-us,0,41.308,-80.956,503
-31342,North Bloomfield,WI,,city-us,0,42.574,-88.355,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31339,North Bloomfield,OH,Morrow County,,city-us,1841,40.675,-82.732,1516
+31340,North Bloomfield,CA,Nevada County,,city-us,0,39.368,-120.899,1549
+31341,North Bloomfield,OH,Trumbull County,,city-us,0,41.308,-80.956,503
+31342,North Bloomfield,WI,Walworth County,,city-us,0,42.574,-88.355,119

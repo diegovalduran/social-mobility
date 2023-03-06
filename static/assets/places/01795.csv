@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22549,Kaufman,TX,,city-us,7379,32.589,-96.309,2536
-9188,Coffman,KY,,city-us,0,37.463,-87.102,317
-9189,Coffman,MO,,city-us,0,37.794,-90.194,697
-22550,Kaufman,IL,,city-us,0,38.862,-89.777,190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22549,Kaufman,TX,Kaufman County,,city-us,7379,32.589,-96.309,2536
+9188,Coffman,KY,Ohio County,,city-us,0,37.463,-87.102,317
+9189,Coffman,MO,Ste. Genevieve County,,city-us,0,37.794,-90.194,697
+22550,Kaufman,IL,Madison County,,city-us,0,38.862,-89.777,190

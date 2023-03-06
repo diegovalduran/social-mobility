@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3450,Benjamin,UT,,city-us,1018,40.098,-111.731,2294
-3448,Benjamin,TX,,city-us,200,33.584,-99.792,3788
-3449,Benjamin,MO,,city-us,0,40.162,-91.634,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3450,Benjamin,UT,Utah County,,city-us,1018,40.098,-111.731,2294
+3448,Benjamin,TX,Knox County,,city-us,200,33.584,-99.792,3788
+3449,Benjamin,MO,Lewis County,,city-us,0,40.162,-91.634,251

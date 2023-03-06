@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4800,Boulder,CO,,city-us,104175,40.015,-105.271,30635
-4803,Boulder,MT,,city-us,1214,46.237,-112.121,8439
-4802,Boulder,UT,,city-us,236,37.923,-111.432,2985
-4804,Boulder,WY,,city-us,19,42.748,-109.718,2123
-4799,Boulder,WV,,city-us,0,39.069,-80.103,529
-4801,Boulder,IL,,city-us,0,38.697,-89.226,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4800,Boulder,CO,Boulder County,,city-us,104175,40.015,-105.271,30635
+4803,Boulder,MT,Jefferson County,,city-us,1214,46.237,-112.121,8439
+4802,Boulder,UT,Garfield County,,city-us,236,37.923,-111.432,2985
+4804,Boulder,WY,Sublette County,,city-us,19,42.748,-109.718,2123
+4799,Boulder,WV,Barbour County,,city-us,0,39.069,-80.103,529
+4801,Boulder,IL,Clinton County,,city-us,0,38.697,-89.226,201

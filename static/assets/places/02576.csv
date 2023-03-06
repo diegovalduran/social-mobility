@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12759,Eastern,IL,,city-us,577,37.991,-88.761,891
-12760,Eastern,NE,,city-us,253,42.743,-97.546,240
-12761,Eastern,MN,,city-us,252,46.160,-95.225,1900
-12758,Eastern,KY,,city-us,0,37.517,-82.806,714
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12759,Eastern,IL,Franklin County,,city-us,577,37.991,-88.761,891
+12760,Eastern,NE,Knox County,,city-us,253,42.743,-97.546,240
+12761,Eastern,MN,Otter Tail County,,city-us,252,46.160,-95.225,1900
+12758,Eastern,KY,Floyd County,,city-us,0,37.517,-82.806,714

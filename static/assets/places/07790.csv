@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39437,Shelburne,VT,,city-us,7803,44.389,-73.243,7358
-39439,Shelburne,MA,,city-us,1889,42.619,-72.679,7704
-39436,Shelburn,IN,,city-us,1107,39.178,-87.394,4544
-39438,Shelburne,NH,,city-us,345,44.367,-71.087,4121
-39440,Shelburne,MN,,city-us,190,44.243,-96.027,1818
-39435,Shelburn,OR,,city-us,0,44.736,-122.871,302
-39441,Shelburne,IN,,city-us,0,39.435,-86.393,161
-39490,Shellburne,DE,,city-us,0,39.781,-75.512,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39437,Shelburne,VT,Chittenden County,,city-us,7803,44.389,-73.243,7358
+39439,Shelburne,MA,Franklin County,,city-us,1889,42.619,-72.679,7704
+39436,Shelburn,IN,Sullivan County,,city-us,1107,39.178,-87.394,4544
+39438,Shelburne,NH,Coos County,,city-us,345,44.367,-71.087,4121
+39440,Shelburne,MN,Lyon County,,city-us,190,44.243,-96.027,1818
+39435,Shelburn,OR,Linn County,,city-us,0,44.736,-122.871,302
+39441,Shelburne,IN,Morgan County,,city-us,0,39.435,-86.393,161
+39490,Shellburne,DE,New Castle County,,city-us,0,39.781,-75.512,180

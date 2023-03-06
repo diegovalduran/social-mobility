@@ -1,18 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27187,Mason,OH,,city-us,35089,39.360,-84.310,12863
-27178,Mason,MI,,city-us,8235,42.579,-84.444,7820
-27173,Mason,MI,,city-us,2843,41.785,-85.931,204
-27182,Mason,TX,,city-us,2119,30.749,-99.231,5679
-27176,Mason,NH,,city-us,1449,42.742,-71.751,5585
-27186,Mason,TN,,city-us,1361,35.412,-89.533,3124
-27179,Mason,OH,,city-us,975,38.632,-82.427,1336
-27183,Mason,WV,,city-us,854,39.022,-82.029,3496
-27171,Mason,MI,,city-us,750,44.126,-83.865,204
-27174,Mason,IL,,city-us,321,38.953,-88.624,2600
-27172,Mason,WI,,city-us,292,46.459,-91.115,3439
-27184,Mason,MN,,city-us,275,44.061,-95.758,2273
-27175,Mason,KY,,city-us,0,38.576,-84.585,241
-27177,Mason,MI,,city-us,0,47.141,-88.466,3673
-27180,Mason,NV,,city-us,0,38.950,-119.190,300
-27181,Mason,KY,,city-us,0,37.721,-83.050,171
-27185,Mason,OK,,city-us,0,35.566,-96.352,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27187,Mason,OH,Warren County,,city-us,35089,39.360,-84.310,12863
+27178,Mason,MI,Ingham County,,city-us,8235,42.579,-84.444,7820
+27173,Mason,MI,Cass County,,city-us,2843,41.785,-85.931,204
+27182,Mason,TX,Mason County,,city-us,2119,30.749,-99.231,5679
+27176,Mason,NH,Hillsborough County,,city-us,1449,42.742,-71.751,5585
+27186,Mason,TN,Tipton County,,city-us,1361,35.412,-89.533,3124
+27179,Mason,OH,Lawrence County,,city-us,975,38.632,-82.427,1336
+27183,Mason,WV,Mason County,,city-us,854,39.022,-82.029,3496
+27171,Mason,MI,Arenac County,,city-us,750,44.126,-83.865,204
+27174,Mason,IL,Effingham County,,city-us,321,38.953,-88.624,2600
+27172,Mason,WI,Bayfield County,,city-us,292,46.459,-91.115,3439
+27184,Mason,MN,Murray County,,city-us,275,44.061,-95.758,2273
+27175,Mason,KY,Grant County,,city-us,0,38.576,-84.585,241
+27177,Mason,MI,Houghton County,,city-us,0,47.141,-88.466,3673
+27180,Mason,NV,Lyon County,,city-us,0,38.950,-119.190,300
+27181,Mason,KY,Magoffin County,,city-us,0,37.721,-83.050,171
+27185,Mason,OK,Okfuskee County,,city-us,0,35.566,-96.352,198

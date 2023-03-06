@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27722,Meadville,PA,,city-us,12849,41.641,-80.151,13336
-27723,Meadville,MS,,city-us,437,31.472,-90.897,2260
-27725,Meadville,MO,,city-us,418,39.784,-93.302,3514
-27724,Meadville,NE,,city-us,0,42.759,-99.849,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27722,Meadville,PA,Crawford County,,city-us,12849,41.641,-80.151,13336
+27723,Meadville,MS,Franklin County,,city-us,437,31.472,-90.897,2260
+27725,Meadville,MO,Linn County,,city-us,418,39.784,-93.302,3514
+27724,Meadville,NE,Keya Paha County,,city-us,0,42.759,-99.849,210

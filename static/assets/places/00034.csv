@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-179,Adamsville,AL,,city-us,4294,33.601,-86.956,4995
-176,Adamsville,TN,,city-us,2245,35.238,-88.378,8738
-182,Adamsville,OH,,city-us,138,40.070,-81.882,3184
-174,Adamsville,PA,,city-us,86,41.511,-80.370,1849
-172,Adamsville,UT,,city-us,0,38.258,-112.794,965
-173,Adamsville,MI,,city-us,0,41.785,-85.994,258
-175,Adamsville,OH,,city-us,0,38.875,-82.356,121
-177,Adamsville,WV,,city-us,0,39.395,-80.244,120
-178,Adamsville,FL,,city-us,0,27.815,-82.384,550
-180,Adamsville,DE,,city-us,0,38.831,-75.689,268
-181,Adamsville,TX,,city-us,0,31.301,-98.169,3067
-183,Adamsville,KS,,city-us,0,37.173,-97.176,540
-184,Adamsville,FL,,city-us,0,28.800,-82.021,406
+id,name,state,county,country,level,population,latitude,longitude,wiki
+179,Adamsville,AL,Jefferson County,,city-us,4294,33.601,-86.956,4995
+176,Adamsville,TN,Hardin County / McNairy County,,city-us,2245,35.238,-88.378,8738
+182,Adamsville,OH,Muskingum County,,city-us,138,40.070,-81.882,3184
+174,Adamsville,PA,Crawford County,,city-us,86,41.511,-80.370,1849
+172,Adamsville,UT,Beaver County,,city-us,0,38.258,-112.794,965
+173,Adamsville,MI,Cass County,,city-us,0,41.785,-85.994,258
+175,Adamsville,OH,Gallia County,,city-us,0,38.875,-82.356,121
+177,Adamsville,WV,Harrison County,,city-us,0,39.395,-80.244,120
+178,Adamsville,FL,Hillsborough County,,city-us,0,27.815,-82.384,550
+180,Adamsville,DE,Kent County,,city-us,0,38.831,-75.689,268
+181,Adamsville,TX,Lampasas County,,city-us,0,31.301,-98.169,3067
+183,Adamsville,KS,Sumner County,,city-us,0,37.173,-97.176,540
+184,Adamsville,FL,Sumter County,,city-us,0,28.800,-82.021,406

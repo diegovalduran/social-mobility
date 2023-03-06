@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24376,Lehr,ND,,city-us,83,46.282,-99.353,2856
-23494,Lair,KY,,city-us,0,38.342,-84.308,440
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24376,Lehr,ND,Logan County / McIntosh County,,city-us,83,46.282,-99.353,2856
+23494,Lair,KY,Harrison County,,city-us,0,38.342,-84.308,440

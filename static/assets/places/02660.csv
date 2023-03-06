@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13177,Elbridge,NY,,city-us,973,43.035,-76.448,9844
-13176,Elbridge,MI,,city-us,971,43.679,-86.228,2445
-13175,Elbridge,IL,,city-us,679,39.531,-87.588,878
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13177,Elbridge,NY,Onondaga County,,city-us,973,43.035,-76.448,9844
+13176,Elbridge,MI,Oceana County,,city-us,971,43.679,-86.228,2445
+13175,Elbridge,IL,Edgar County,,city-us,679,39.531,-87.588,878

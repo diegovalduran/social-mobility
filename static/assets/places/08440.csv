@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42601,Teatersville,KY,,city-us,0,37.689,-84.507,116
-42613,Teetersville,KY,,city-us,0,36.813,-83.336,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42601,Teatersville,KY,Garrard County,,city-us,0,37.689,-84.507,116
+42613,Teetersville,KY,Harlan County,,city-us,0,36.813,-83.336,88

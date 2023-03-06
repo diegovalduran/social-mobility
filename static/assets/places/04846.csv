@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26080,Lyle,MN,,city-us,524,43.505,-92.944,4628
-26079,Lyle,WA,,city-us,269,45.696,-121.286,5382
-24844,Lile,WV,,city-us,0,38.127,-80.620,125
-26078,Lyle,KS,,city-us,0,39.958,-100.216,303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26080,Lyle,MN,Mower County,,city-us,524,43.505,-92.944,4628
+26079,Lyle,WA,Klickitat County,,city-us,269,45.696,-121.286,5382
+24844,Lile,WV,Greenbrier County,,city-us,0,38.127,-80.620,125
+26078,Lyle,KS,Decatur County,,city-us,0,39.958,-100.216,303

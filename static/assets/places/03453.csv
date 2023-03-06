@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17465,Grand Prairie,TX,,city-us,197347,32.686,-97.021,14788
-17467,Grand Prairie,OH,,city-us,1564,40.667,-83.133,1342
-17466,Grand Prairie,IL,,city-us,893,38.430,-89.090,1254
-17469,Grand Prairie,NE,,city-us,329,41.605,-97.417,403
-17468,Grand Prairie,MN,,city-us,207,43.551,-95.985,4422
-17464,Grand Prairie,ND,,city-us,51,47.110,-97.897,137
-17470,Grand Prairie,LA,,city-us,0,30.683,-92.147,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17465,Grand Prairie,TX,Dallas County / Ellis County / Tarrant County,,city-us,197347,32.686,-97.021,14788
+17467,Grand Prairie,OH,Marion County,,city-us,1564,40.667,-83.133,1342
+17466,Grand Prairie,IL,Jefferson County,,city-us,893,38.430,-89.090,1254
+17469,Grand Prairie,NE,Platte County,,city-us,329,41.605,-97.417,403
+17468,Grand Prairie,MN,Nobles County,,city-us,207,43.551,-95.985,4422
+17464,Grand Prairie,ND,Barnes County,,city-us,51,47.110,-97.897,137
+17470,Grand Prairie,LA,St. Landry Parish,,city-us,0,30.683,-92.147,336

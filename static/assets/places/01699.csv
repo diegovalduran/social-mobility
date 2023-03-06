@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8588,Clarno,WI,,city-us,1079,42.546,-89.655,1893
-8589,Clarno,SD,,city-us,68,43.885,-97.319,0
-8590,Clarno,OR,,city-us,0,44.913,-120.473,1485
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8588,Clarno,WI,Green County,,city-us,1079,42.546,-89.655,1893
+8589,Clarno,SD,Lake County,,city-us,68,43.885,-97.319,0
+8590,Clarno,OR,Wasco County,,city-us,0,44.913,-120.473,1485

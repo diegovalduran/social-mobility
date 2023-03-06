@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46450,Whetstone,AZ,,city-us,2734,31.719,-110.292,2250
-46451,Whetstone,OH,,city-us,1949,40.768,-82.913,1754
-46449,Whetstone,WV,,city-us,0,38.502,-81.056,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46450,Whetstone,AZ,Cochise County,,city-us,2734,31.719,-110.292,2250
+46451,Whetstone,OH,Crawford County,,city-us,1949,40.768,-82.913,1754
+46449,Whetstone,WV,Clay County,,city-us,0,38.502,-81.056,88

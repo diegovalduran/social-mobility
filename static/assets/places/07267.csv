@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36808,Rio Vista,CA,,city-us,10217,38.156,-121.691,8720
-36806,Rio Vista,TX,,city-us,1078,32.233,-97.374,2542
-36807,Rio Vista,VA,,city-us,0,37.569,-77.523,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36808,Rio Vista,CA,Solano County,,city-us,10217,38.156,-121.691,8720
+36806,Rio Vista,TX,Johnson County,,city-us,1078,32.233,-97.374,2542
+36807,Rio Vista,VA,Richmond County,,city-us,0,37.569,-77.523,93

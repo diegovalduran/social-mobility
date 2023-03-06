@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30436,Neola,IA,,city-us,913,41.449,-95.616,3568
-30433,Neola,UT,,city-us,433,40.433,-110.030,2156
-30434,Neola,WV,,city-us,0,37.966,-80.130,613
-30435,Neola,PA,,city-us,0,40.959,-75.340,196
-30437,Neola,KS,,city-us,0,37.869,-98.509,376
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30436,Neola,IA,Pottawattamie County,,city-us,913,41.449,-95.616,3568
+30433,Neola,UT,Duchesne County,,city-us,433,40.433,-110.030,2156
+30434,Neola,WV,Greenbrier County,,city-us,0,37.966,-80.130,613
+30435,Neola,PA,Monroe County,,city-us,0,40.959,-75.340,196
+30437,Neola,KS,Stafford County,,city-us,0,37.869,-98.509,376

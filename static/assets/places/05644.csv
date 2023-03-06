@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29013,Monarch,MT,,city-us,26,47.098,-110.839,726
-29014,Monarch,CO,,city-us,0,38.553,-106.294,293
-29015,Monarch,WV,,city-us,0,38.215,-81.457,89
-29016,Monarch,VA,,city-us,0,36.835,-83.031,80
-29017,Monarch,WY,,city-us,0,44.903,-107.035,338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29013,Monarch,MT,Cascade County,,city-us,26,47.098,-110.839,726
+29014,Monarch,CO,Chaffee County,,city-us,0,38.553,-106.294,293
+29015,Monarch,WV,Kanawha County,,city-us,0,38.215,-81.457,89
+29016,Monarch,VA,Lee County,,city-us,0,36.835,-83.031,80
+29017,Monarch,WY,Sheridan County,,city-us,0,44.903,-107.035,338

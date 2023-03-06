@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19264,Hathaway,WV,,city-us,0,38.858,-81.083,90
-19265,Hathaway,LA,,city-us,0,30.350,-92.672,266
-19266,Hathaway,MT,,city-us,0,46.276,-106.197,421
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19264,Hathaway,WV,Calhoun County,,city-us,0,38.858,-81.083,90
+19265,Hathaway,LA,Jefferson Davis Parish,,city-us,0,30.350,-92.672,266
+19266,Hathaway,MT,Rosebud County,,city-us,0,46.276,-106.197,421

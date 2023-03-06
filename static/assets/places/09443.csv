@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47747,Worcester,MA,,city-us,205918,42.263,-71.802,53337
-47748,Worcester,,United Kingdom,city-international,101891,52.192,-2.220,42550
-47745,Worcester,WI,,city-us,1711,45.604,-90.292,2002
-47746,Worcester,VT,,city-us,956,44.425,-72.595,2924
-47744,Worcester,NY,,city-us,781,42.591,-74.750,4631
-47742,Worcester,MO,,city-us,0,39.274,-91.754,293
-47743,Worcester,PA,,city-us,0,40.201,-75.347,283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47747,Worcester,MA,Worcester County,,city-us,205918,42.263,-71.802,53337
+47748,Worcester,,,United Kingdom,city-international,101891,52.192,-2.220,42550
+47745,Worcester,WI,Price County,,city-us,1711,45.604,-90.292,2002
+47746,Worcester,VT,Washington County,,city-us,956,44.425,-72.595,2924
+47744,Worcester,NY,Otsego County,,city-us,781,42.591,-74.750,4631
+47742,Worcester,MO,Audrain County,,city-us,0,39.274,-91.754,293
+47743,Worcester,PA,Montgomery County,,city-us,0,40.201,-75.347,283

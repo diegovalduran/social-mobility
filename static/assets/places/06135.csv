@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31351,North Caldwell,NJ,,city-us,6625,40.865,-74.258,13537
-31352,North Caldwell,WV,,city-us,0,37.784,-80.401,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31351,North Caldwell,NJ,Essex County,,city-us,6625,40.865,-74.258,13537
+31352,North Caldwell,WV,Greenbrier County,,city-us,0,37.784,-80.401,229

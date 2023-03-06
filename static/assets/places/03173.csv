@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16023,Friendswood,TX,,city-us,41004,29.508,-95.201,7224
-16024,Friendswood,IN,,city-us,0,39.646,-86.333,352
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16023,Friendswood,TX,Galveston County / Harris County,,city-us,41004,29.508,-95.201,7224
+16024,Friendswood,IN,Hendricks County,,city-us,0,39.646,-86.333,352

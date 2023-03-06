@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45123,Warden,WA,,city-us,2527,46.968,-119.040,6325
-45124,Warden,LA,,city-us,0,32.538,-91.497,415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45123,Warden,WA,Grant County,,city-us,2527,46.968,-119.040,6325
+45124,Warden,LA,Richland Parish,,city-us,0,32.538,-91.497,415

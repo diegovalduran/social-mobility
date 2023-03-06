@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43161,Towanda,PA,,city-us,2789,41.768,-76.443,5183
-43162,Towanda,KS,,city-us,2608,37.773,-96.988,625
-43163,Towanda,IL,,city-us,426,40.564,-88.899,12747
-43164,Towanda,KS,,city-us,25,39.614,-99.573,4235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43161,Towanda,PA,Bradford County,,city-us,2789,41.768,-76.443,5183
+43162,Towanda,KS,Butler County,,city-us,2608,37.773,-96.988,625
+43163,Towanda,IL,McLean County,,city-us,426,40.564,-88.899,12747
+43164,Towanda,KS,Phillips County,,city-us,25,39.614,-99.573,4235

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19369,Haydenville,OH,,city-us,438,39.482,-82.328,1619
-19370,Haydenville,MN,,city-us,0,45.009,-96.310,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19369,Haydenville,OH,Hocking County,,city-us,438,39.482,-82.328,1619
+19370,Haydenville,MN,Lac qui Parle County,,city-us,0,45.009,-96.310,221

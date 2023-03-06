@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29891,Mount Savage,MD,,city-us,639,39.696,-78.880,7266
-29892,Mount Savage,KY,,city-us,0,38.265,-82.891,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29891,Mount Savage,MD,Allegany County,,city-us,639,39.696,-78.880,7266
+29892,Mount Savage,KY,Carter County,,city-us,0,38.265,-82.891,257

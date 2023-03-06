@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27470,McConnelsville,OH,,city-us,1644,39.649,-81.853,6509
-27469,McConnelsville,OH,,city-us,0,39.649,-81.853,268
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27470,McConnelsville,OH,Morgan County,,city-us,1644,39.649,-81.853,6509
+27469,McConnelsville,OH,Jefferson County,,city-us,0,39.649,-81.853,268

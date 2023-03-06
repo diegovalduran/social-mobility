@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26734,Maple Hill,KS,,city-us,646,39.085,-96.028,4267
-26731,Maple Hill,WI,,city-us,0,45.017,-90.984,117
-26732,Maple Hill,IA,,city-us,0,43.392,-94.625,235
-26733,Maple Hill,NC,,city-us,0,34.661,-77.696,450
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26734,Maple Hill,KS,Wabaunsee County,,city-us,646,39.085,-96.028,4267
+26731,Maple Hill,WI,Chippewa County,,city-us,0,45.017,-90.984,117
+26732,Maple Hill,IA,Emmet County,,city-us,0,43.392,-94.625,235
+26733,Maple Hill,NC,Pender County,,city-us,0,34.661,-77.696,450

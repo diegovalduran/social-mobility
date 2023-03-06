@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41797,Sublette,KS,,city-us,1376,37.482,-100.844,4750
-41798,Sublette,IL,,city-us,683,41.621,-89.226,496
-41796,Sublette,MO,,city-us,0,40.301,-92.572,348
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41797,Sublette,KS,Haskell County,,city-us,1376,37.482,-100.844,4750
+41798,Sublette,IL,Lee County,,city-us,683,41.621,-89.226,496
+41796,Sublette,MO,Adair County,,city-us,0,40.301,-92.572,348

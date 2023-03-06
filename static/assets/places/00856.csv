@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4356,Blodgett,MO,,city-us,205,37.004,-89.527,3208
-4355,Blodgett,OR,,city-us,42,44.597,-123.519,996
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4356,Blodgett,MO,Scott County,,city-us,205,37.004,-89.527,3208
+4355,Blodgett,OR,Benton County,,city-us,42,44.597,-123.519,996

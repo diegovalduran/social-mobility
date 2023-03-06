@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27904,Mendenhall,MS,,city-us,2181,31.962,-89.870,5971
-27903,Mendenhall,PA,,city-us,0,39.854,-75.641,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27904,Mendenhall,MS,Simpson County,,city-us,2181,31.962,-89.870,5971
+27903,Mendenhall,PA,Chester County,,city-us,0,39.854,-75.641,199

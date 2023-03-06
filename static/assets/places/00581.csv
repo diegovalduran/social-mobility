@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2915,Beaulieu,ND,,city-us,171,48.755,-97.893,0
-2914,Beaulieu,MN,,city-us,99,47.371,-95.732,1914
-2913,Beaulieu,GA,,city-us,0,31.933,-81.113,761
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2915,Beaulieu,ND,Pembina County,,city-us,171,48.755,-97.893,0
+2914,Beaulieu,MN,Mahnomen County,,city-us,99,47.371,-95.732,1914
+2913,Beaulieu,GA,Chatham County,,city-us,0,31.933,-81.113,761

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10599,Crystal Lakes,NJ,,city-us,11079,41.008,-74.206,20831
-10600,Crystal Lakes,OH,,city-us,1629,39.889,-84.027,2856
-10601,Crystal Lakes,MO,,city-us,388,39.359,-94.190,3132
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10599,Crystal Lakes,NJ,Bergen County,,city-us,11079,41.008,-74.206,20831
+10600,Crystal Lakes,OH,Clark County,,city-us,1629,39.889,-84.027,2856
+10601,Crystal Lakes,MO,Ray County,,city-us,388,39.359,-94.190,3132

@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8902,Climax,MI,,city-us,726,42.238,-85.335,3857
-8898,Climax,GA,,city-us,266,30.876,-84.431,3115
-8905,Climax,MN,,city-us,244,47.608,-96.817,3570
-8899,Climax,KS,,city-us,44,37.720,-96.223,3207
-8907,Climax,ND,,city-us,10,48.501,-103.986,0
-8896,Climax,PA,,city-us,0,40.984,-79.376,215
-8897,Climax,TX,,city-us,0,33.205,-96.450,93
-8900,Climax,NC,,city-us,0,35.911,-79.718,1147
-8901,Climax,OR,,city-us,0,42.295,-122.620,267
-8903,Climax,OH,,city-us,0,40.631,-82.888,263
-8904,Climax,VA,,city-us,0,36.887,-79.489,294
-8906,Climax,KY,,city-us,0,37.470,-84.225,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8902,Climax,MI,Kalamazoo County,,city-us,726,42.238,-85.335,3857
+8898,Climax,GA,Decatur County,,city-us,266,30.876,-84.431,3115
+8905,Climax,MN,Polk County,,city-us,244,47.608,-96.817,3570
+8899,Climax,KS,Greenwood County,,city-us,44,37.720,-96.223,3207
+8907,Climax,ND,Williams County,,city-us,10,48.501,-103.986,0
+8896,Climax,PA,Armstrong County,,city-us,0,40.984,-79.376,215
+8897,Climax,TX,Collin County,,city-us,0,33.205,-96.450,93
+8900,Climax,NC,Guilford County,,city-us,0,35.911,-79.718,1147
+8901,Climax,OR,Jackson County,,city-us,0,42.295,-122.620,267
+8903,Climax,OH,Morrow County,,city-us,0,40.631,-82.888,263
+8904,Climax,VA,Pittsylvania County,,city-us,0,36.887,-79.489,294
+8906,Climax,KY,Rockcastle County,,city-us,0,37.470,-84.225,192

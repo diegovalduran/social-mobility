@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33874,Phenix,IL,,city-us,1681,41.530,-90.145,1241
-33872,Phenix,VA,,city-us,231,37.080,-78.748,1940
-33873,Phenix,MO,,city-us,0,37.379,-93.546,2638
-33875,Phenix,IN,,city-us,0,40.582,-85.107,265
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33874,Phenix,IL,Henry County,,city-us,1681,41.530,-90.145,1241
+33872,Phenix,VA,Charlotte County,,city-us,231,37.080,-78.748,1940
+33873,Phenix,MO,Greene County,,city-us,0,37.379,-93.546,2638
+33875,Phenix,IN,Wells County,,city-us,0,40.582,-85.107,265

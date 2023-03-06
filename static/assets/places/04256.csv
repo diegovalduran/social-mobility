@@ -1,19 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21930,Jasper,IN,,city-us,16713,38.391,-86.931,7904
-21946,Jasper,AL,,city-us,14354,33.831,-87.278,6513
-21935,Jasper,TX,,city-us,7285,30.920,-93.997,9683
-21942,Jasper,GA,,city-us,4235,34.468,-84.429,4326
-21932,Jasper,FL,,city-us,3661,30.518,-82.948,8915
-21939,Jasper,TN,,city-us,3625,35.074,-85.626,4219
-21947,Jasper,IL,,city-us,1729,38.427,-88.306,336
-21945,Jasper,NY,,city-us,1404,42.144,-77.533,3088
-21940,Jasper,MI,,city-us,1073,43.517,-84.543,1973
-21934,Jasper,MO,,city-us,890,37.336,-94.301,4166
-21936,Jasper,OR,,city-us,793,43.997,-122.905,691
-21931,Jasper,OH,,city-us,684,39.570,-83.590,1359
-21944,Jasper,MN,,city-us,601,43.849,-96.400,4066
-21941,Jasper,AR,,city-us,498,36.008,-93.187,2429
-21938,Jasper,MI,,city-us,371,41.793,-84.041,1212
-21933,Jasper,SD,,city-us,162,43.717,-97.787,0
-21937,Jasper,VA,,city-us,0,36.768,-82.823,250
-21943,Jasper,OH,,city-us,0,39.050,-83.057,402
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21930,Jasper,IN,Dubois County,,city-us,16713,38.391,-86.931,7904
+21946,Jasper,AL,Walker County,,city-us,14354,33.831,-87.278,6513
+21935,Jasper,TX,Jasper County,,city-us,7285,30.920,-93.997,9683
+21942,Jasper,GA,Pickens County,,city-us,4235,34.468,-84.429,4326
+21932,Jasper,FL,Hamilton County,,city-us,3661,30.518,-82.948,8915
+21939,Jasper,TN,Marion County,,city-us,3625,35.074,-85.626,4219
+21947,Jasper,IL,Wayne County,,city-us,1729,38.427,-88.306,336
+21945,Jasper,NY,Steuben County,,city-us,1404,42.144,-77.533,3088
+21940,Jasper,MI,Midland County,,city-us,1073,43.517,-84.543,1973
+21934,Jasper,MO,Jasper County,,city-us,890,37.336,-94.301,4166
+21936,Jasper,OR,Lane County,,city-us,793,43.997,-122.905,691
+21931,Jasper,OH,Fayette County,,city-us,684,39.570,-83.590,1359
+21944,Jasper,MN,Pipestone County / Rock County,,city-us,601,43.849,-96.400,4066
+21941,Jasper,AR,Newton County,,city-us,498,36.008,-93.187,2429
+21938,Jasper,MI,Lenawee County,,city-us,371,41.793,-84.041,1212
+21933,Jasper,SD,Hanson County,,city-us,162,43.717,-97.787,0
+21937,Jasper,VA,Lee County,,city-us,0,36.768,-82.823,250
+21943,Jasper,OH,Pike County,,city-us,0,39.050,-83.057,402

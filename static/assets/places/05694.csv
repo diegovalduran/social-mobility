@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29348,Moody,AL,,city-us,13563,33.591,-86.491,3050
-29347,Moody,TX,,city-us,1411,31.308,-97.361,2173
-29345,Moody,MO,,city-us,0,36.529,-91.989,500
-29346,Moody,IN,,city-us,0,40.992,-87.024,191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29348,Moody,AL,St. Clair County,,city-us,13563,33.591,-86.491,3050
+29347,Moody,TX,McLennan County,,city-us,1411,31.308,-97.361,2173
+29345,Moody,MO,Howell County,,city-us,0,36.529,-91.989,500
+29346,Moody,IN,Jasper County,,city-us,0,40.992,-87.024,191

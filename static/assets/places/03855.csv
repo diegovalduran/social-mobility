@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19757,Hermosa,SD,,city-us,373,43.840,-103.191,3402
-19756,Hermosa,WY,,city-us,0,41.083,-105.487,124
-19758,Hermosa,CO,,city-us,0,37.415,-107.835,899
-19759,Hermosa,VA,,city-us,0,36.940,-79.121,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19757,Hermosa,SD,Custer County,,city-us,373,43.840,-103.191,3402
+19756,Hermosa,WY,Albany County,,city-us,0,41.083,-105.487,124
+19758,Hermosa,CO,La Plata County,,city-us,0,37.415,-107.835,899
+19759,Hermosa,VA,Pittsylvania County,,city-us,0,36.940,-79.121,95

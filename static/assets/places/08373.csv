@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42309,Swissvale,PA,,city-us,8490,40.424,-79.883,4348
-42310,Swissvale,CO,,city-us,0,38.479,-105.892,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42309,Swissvale,PA,Allegheny County,,city-us,8490,40.424,-79.883,4348
+42310,Swissvale,CO,Fremont County,,city-us,0,38.479,-105.892,157

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22977,King City,CA,,city-us,13443,36.213,-121.126,10952
-22978,King City,OR,,city-us,5105,45.403,-122.804,4033
-22975,King City,MO,,city-us,809,40.051,-94.524,6249
-22976,King City,KS,,city-us,497,38.303,-97.647,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22977,King City,CA,Monterey County,,city-us,13443,36.213,-121.126,10952
+22978,King City,OR,Washington County,,city-us,5105,45.403,-122.804,4033
+22975,King City,MO,Gentry County,,city-us,809,40.051,-94.524,6249
+22976,King City,KS,McPherson County,,city-us,497,38.303,-97.647,179

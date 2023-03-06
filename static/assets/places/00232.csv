@@ -1,31 +1,31 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1216,Antioch,CA,,city-us,114794,38.005,-121.806,25898
-1229,Antioch,IL,,city-us,27636,42.465,-88.114,2021
-1238,Antioch,MI,,city-us,908,44.384,-85.637,2539
-1222,Antioch,GA,,city-us,427,32.678,-85.058,516
-1232,Antioch,OH,,city-us,74,39.660,-81.068,2907
-1219,Antioch,TX,,city-us,25,33.378,-95.800,468
-1209,Antioch,AL,,city-us,0,32.945,-86.999,799
-1210,Antioch,TX,,city-us,0,33.185,-94.256,202
-1211,Antioch,AL,,city-us,0,34.231,-85.638,69
-1212,Antioch,LA,,city-us,0,32.865,-92.925,87
-1213,Antioch,MO,,city-us,0,40.325,-91.693,296
-1214,Antioch,AL,,city-us,0,31.624,-87.855,317
-1215,Antioch,IN,,city-us,0,40.228,-86.506,124
-1217,Antioch,AL,,city-us,0,31.386,-86.383,492
-1218,Antioch,AR,,city-us,0,35.929,-90.577,86
-1220,Antioch,VA,,city-us,0,37.847,-78.421,97
-1221,Antioch,IN,,city-us,0,39.099,-87.237,1044
-1223,Antioch,KY,,city-us,0,38.566,-84.293,209
-1224,Antioch,TX,,city-us,0,32.233,-95.564,97
-1225,Antioch,FL,,city-us,0,28.047,-82.249,667
-1226,Antioch,LA,,city-us,0,32.317,-92.689,85
-1227,Antioch,IN,,city-us,0,40.368,-84.942,193
-1228,Antioch,SC,,city-us,0,34.240,-80.508,395
-1230,Antioch,LA,,city-us,0,32.586,-92.739,85
-1231,Antioch,WV,,city-us,0,39.324,-79.017,1489
-1233,Antioch,GA,,city-us,0,33.953,-85.161,176
-1234,Antioch,VA,,city-us,0,38.859,-77.686,180
-1235,Antioch,TX,,city-us,0,32.202,-95.259,93
-1236,Antioch,IN,,city-us,0,38.859,-84.884,269
-1237,Antioch,GA,,city-us,0,33.108,-85.170,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1216,Antioch,CA,Contra Costa County,,city-us,114794,38.005,-121.806,25898
+1229,Antioch,IL,Lake County,,city-us,27636,42.465,-88.114,2021
+1238,Antioch,MI,Wexford County,,city-us,908,44.384,-85.637,2539
+1222,Antioch,GA,Harris County,,city-us,427,32.678,-85.058,516
+1232,Antioch,OH,Monroe County,,city-us,74,39.660,-81.068,2907
+1219,Antioch,TX,Delta County,,city-us,25,33.378,-95.800,468
+1209,Antioch,AL,Bibb County,,city-us,0,32.945,-86.999,799
+1210,Antioch,TX,Cass County,,city-us,0,33.185,-94.256,202
+1211,Antioch,AL,Cherokee County,,city-us,0,34.231,-85.638,69
+1212,Antioch,LA,Claiborne Parish,,city-us,0,32.865,-92.925,87
+1213,Antioch,MO,Clark County,,city-us,0,40.325,-91.693,296
+1214,Antioch,AL,Clarke County,,city-us,0,31.624,-87.855,317
+1215,Antioch,IN,Clinton County,,city-us,0,40.228,-86.506,124
+1217,Antioch,AL,Covington County,,city-us,0,31.386,-86.383,492
+1218,Antioch,AR,Craighead County,,city-us,0,35.929,-90.577,86
+1220,Antioch,VA,Fluvanna County,,city-us,0,37.847,-78.421,97
+1221,Antioch,IN,Greene County,,city-us,0,39.099,-87.237,1044
+1223,Antioch,KY,Harrison County,,city-us,0,38.566,-84.293,209
+1224,Antioch,TX,Henderson County,,city-us,0,32.233,-95.564,97
+1225,Antioch,FL,Hillsborough County,,city-us,0,28.047,-82.249,667
+1226,Antioch,LA,Jackson Parish,,city-us,0,32.317,-92.689,85
+1227,Antioch,IN,Jay County,,city-us,0,40.368,-84.942,193
+1228,Antioch,SC,Kershaw County,,city-us,0,34.240,-80.508,395
+1230,Antioch,LA,Lincoln Parish,,city-us,0,32.586,-92.739,85
+1231,Antioch,WV,Mineral County,,city-us,0,39.324,-79.017,1489
+1233,Antioch,GA,Polk County,,city-us,0,33.953,-85.161,176
+1234,Antioch,VA,Prince William County,,city-us,0,38.859,-77.686,180
+1235,Antioch,TX,Smith County,,city-us,0,32.202,-95.259,93
+1236,Antioch,IN,Switzerland County,,city-us,0,38.859,-84.884,269
+1237,Antioch,GA,Troup County,,city-us,0,33.108,-85.170,223

@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-718,Allred,TN,,city-us,0,36.331,-85.190,108
-719,Allred,TX,,city-us,0,32.986,-102.888,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+718,Allred,TN,Overton County,,city-us,0,36.331,-85.190,108
+719,Allred,TX,Yoakum County,,city-us,0,32.986,-102.888,257

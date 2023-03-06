@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20279,Hodges,MN,,city-us,303,45.556,-95.828,1837
-20277,Hodges,AL,,city-us,263,34.327,-87.926,2644
-20278,Hodges,SC,,city-us,161,34.288,-82.244,2405
-20276,Hodges,WV,,city-us,0,38.362,-82.429,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20279,Hodges,MN,Stevens County,,city-us,303,45.556,-95.828,1837
+20277,Hodges,AL,Franklin County,,city-us,263,34.327,-87.926,2644
+20278,Hodges,SC,Greenwood County,,city-us,161,34.288,-82.244,2405
+20276,Hodges,WV,Cabell County,,city-us,0,38.362,-82.429,87

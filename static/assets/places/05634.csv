@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28981,Moffatt,MI,,city-us,1162,44.119,-84.109,3712
-28979,Moffat,TX,,city-us,800,31.200,-97.468,2056
-28980,Moffat,CO,,city-us,106,37.999,-105.910,2556
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28981,Moffatt,MI,Arenac County,,city-us,1162,44.119,-84.109,3712
+28979,Moffat,TX,Bell County,,city-us,800,31.200,-97.468,2056
+28980,Moffat,CO,Saguache County,,city-us,106,37.999,-105.910,2556

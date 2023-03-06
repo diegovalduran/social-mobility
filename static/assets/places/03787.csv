@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19395,Hayfield,VA,,city-us,4348,38.752,-77.136,928
-19393,Hayfield,PA,,city-us,2762,41.711,-80.204,3257
-19394,Hayfield,MN,,city-us,480,43.891,-92.861,1888
-19397,Hayfield,IA,,city-us,60,43.177,-93.695,431
-19396,Hayfield,VA,,city-us,0,39.234,-78.290,441
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19395,Hayfield,VA,Fairfax County,,city-us,4348,38.752,-77.136,928
+19393,Hayfield,PA,Crawford County,,city-us,2762,41.711,-80.204,3257
+19394,Hayfield,MN,Dodge County,,city-us,480,43.891,-92.861,1888
+19397,Hayfield,IA,Hancock County,,city-us,60,43.177,-93.695,431
+19396,Hayfield,VA,Frederick County,,city-us,0,39.234,-78.290,441

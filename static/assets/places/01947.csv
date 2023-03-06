@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9926,Cornelia,GA,,city-us,4791,34.511,-83.527,8978
-9925,Cornelia,WI,,city-us,497,42.689,-90.578,1782
-9927,Cornelia,MO,,city-us,0,38.644,-93.739,512
-9928,Cornelia,IA,,city-us,0,42.790,-93.683,519
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9926,Cornelia,GA,Habersham County,,city-us,4791,34.511,-83.527,8978
+9925,Cornelia,WI,Grant County,,city-us,497,42.689,-90.578,1782
+9927,Cornelia,MO,Johnson County,,city-us,0,38.644,-93.739,512
+9928,Cornelia,IA,Wright County,,city-us,0,42.790,-93.683,519

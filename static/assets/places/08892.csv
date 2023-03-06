@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44614,Vineland,NJ,,city-us,61156,39.486,-75.026,27491
-44617,Vineland,MN,,city-us,869,46.164,-93.757,2435
-44620,Vineland,CO,,city-us,405,38.246,-104.459,1003
-44619,Vineland,MN,,city-us,89,47.632,-96.791,1781
-44615,Vineland,MO,,city-us,0,38.095,-90.613,270
-44616,Vineland,AL,,city-us,0,32.036,-87.659,1077
-44618,Vineland,FL,,city-us,0,28.395,-81.503,2327
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44614,Vineland,NJ,Cumberland County,,city-us,61156,39.486,-75.026,27491
+44617,Vineland,MN,Mille Lacs County,,city-us,869,46.164,-93.757,2435
+44620,Vineland,CO,Pueblo County,,city-us,405,38.246,-104.459,1003
+44619,Vineland,MN,Polk County,,city-us,89,47.632,-96.791,1781
+44615,Vineland,MO,Jefferson County,,city-us,0,38.095,-90.613,270
+44616,Vineland,AL,Marengo County,,city-us,0,32.036,-87.659,1077
+44618,Vineland,FL,Orange County,,city-us,0,28.395,-81.503,2327

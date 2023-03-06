@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32841,Ozona,TX,,city-us,2343,30.710,-101.201,5863
-32842,Ozona,FL,,city-us,0,28.069,-82.776,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32841,Ozona,TX,Crockett County,,city-us,2343,30.710,-101.201,5863
+32842,Ozona,FL,Pinellas County,,city-us,0,28.069,-82.776,167

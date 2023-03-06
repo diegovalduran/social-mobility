@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20702,Hopkins,MN,,city-us,18573,44.925,-93.463,14544
-20706,Hopkins,IL,,city-us,1998,41.797,-89.809,370
-20704,Hopkins,SC,,city-us,1757,33.904,-80.877,2147
-20701,Hopkins,MI,,city-us,629,42.624,-85.760,4472
-20703,Hopkins,MO,,city-us,595,40.538,-94.814,167
-20700,Hopkins,VA,,city-us,0,37.791,-75.704,85
-20705,Hopkins,NC,,city-us,0,35.885,-78.352,266
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20702,Hopkins,MN,Hennepin County,,city-us,18573,44.925,-93.463,14544
+20706,Hopkins,IL,Whiteside County,,city-us,1998,41.797,-89.809,370
+20704,Hopkins,SC,Richland County,,city-us,1757,33.904,-80.877,2147
+20701,Hopkins,MI,Allegan County,,city-us,629,42.624,-85.760,4472
+20703,Hopkins,MO,Nodaway County,,city-us,595,40.538,-94.814,167
+20700,Hopkins,VA,Accomack County,,city-us,0,37.791,-75.704,85
+20705,Hopkins,NC,Wake County,,city-us,0,35.885,-78.352,266

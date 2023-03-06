@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32681,Ottawa,,Canada,city-international,989567,45.425,-75.695,52140
-32674,Ottawa,IL,,city-us,18749,41.346,-88.843,11095
-32679,Ottawa,OH,,city-us,7994,41.037,-84.051,1427
-32676,Ottawa,MI,,city-us,4299,41.772,-83.489,6887
-32680,Ottawa,WI,,city-us,3646,42.976,-88.450,2612
-32673,Ottawa,KS,,city-us,819,38.647,-95.277,610
-32677,Ottawa,KS,,city-us,35,39.096,-97.412,10171
-32672,Ottawa,WV,,city-us,0,37.959,-81.816,265
-32675,Ottawa,MN,,city-us,0,44.382,-93.946,855
-32678,Ottawa,OK,,city-us,0,36.857,-94.788,410
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32681,Ottawa,,,Canada,city-international,989567,45.425,-75.695,52140
+32674,Ottawa,IL,LaSalle County,,city-us,18749,41.346,-88.843,11095
+32679,Ottawa,OH,Putnam County,,city-us,7994,41.037,-84.051,1427
+32676,Ottawa,MI,Monroe County,,city-us,4299,41.772,-83.489,6887
+32680,Ottawa,WI,Waukesha County,,city-us,3646,42.976,-88.450,2612
+32673,Ottawa,KS,Franklin County,,city-us,819,38.647,-95.277,610
+32677,Ottawa,KS,Ottawa County,,city-us,35,39.096,-97.412,10171
+32672,Ottawa,WV,Boone County,,city-us,0,37.959,-81.816,265
+32675,Ottawa,MN,Le Sueur County,,city-us,0,44.382,-93.946,855
+32678,Ottawa,OK,Ottawa County,,city-us,0,36.857,-94.788,410

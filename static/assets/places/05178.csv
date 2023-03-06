@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26574,Manhattan,NY,,city-us,1644518,40.728,-73.994,100863
-26576,Manhattan,KS,,city-us,54763,39.188,-96.606,27485
-26579,Manhattan,IL,,city-us,12206,41.425,-87.962,396
-26578,Manhattan,KS,,city-us,2300,39.140,-96.529,27485
-26572,Manhattan,MT,,city-us,2128,45.857,-111.332,4344
-26575,Manhattan,NV,,city-us,124,38.539,-117.075,7132
-26573,Manhattan,FL,,city-us,0,27.508,-82.319,3158
-26577,Manhattan,IN,,city-us,0,39.555,-86.927,465
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26574,Manhattan,NY,New York County,,city-us,1644518,40.728,-73.994,100863
+26576,Manhattan,KS,Pottawatomie County / Riley County,,city-us,54763,39.188,-96.606,27485
+26579,Manhattan,IL,Will County,,city-us,12206,41.425,-87.962,396
+26578,Manhattan,KS,Riley County,,city-us,2300,39.140,-96.529,27485
+26572,Manhattan,MT,Gallatin County,,city-us,2128,45.857,-111.332,4344
+26575,Manhattan,NV,Nye County,,city-us,124,38.539,-117.075,7132
+26573,Manhattan,FL,Manatee County,,city-us,0,27.508,-82.319,3158
+26577,Manhattan,IN,Putnam County,,city-us,0,39.555,-86.927,465

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3232,Belle River,MI,,city-us,4070,42.854,-82.683,4026
-3231,Belle River,MN,,city-us,344,45.962,-95.215,1919
-3230,Belle River,LA,,city-us,0,29.888,-91.206,1090
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3232,Belle River,MI,St. Clair County,,city-us,4070,42.854,-82.683,4026
+3231,Belle River,MN,Douglas County,,city-us,344,45.962,-95.215,1919
+3230,Belle River,LA,Assumption Parish,,city-us,0,29.888,-91.206,1090

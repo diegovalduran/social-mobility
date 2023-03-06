@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47510,Woodburn,OR,,city-us,26054,45.144,-122.855,12818
-47507,Woodburn,VA,,city-us,10168,38.847,-77.236,795
-47505,Woodburn,IN,,city-us,1567,41.125,-84.853,5799
-47511,Woodburn,KY,,city-us,311,36.843,-86.527,2667
-47509,Woodburn,IL,,city-us,175,39.047,-90.012,11877
-47506,Woodburn,IA,,city-us,144,41.012,-93.599,4084
-47508,Woodburn,VA,,city-us,0,39.090,-77.619,618
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47510,Woodburn,OR,Marion County,,city-us,26054,45.144,-122.855,12818
+47507,Woodburn,VA,Fairfax County,,city-us,10168,38.847,-77.236,795
+47505,Woodburn,IN,Allen County,,city-us,1567,41.125,-84.853,5799
+47511,Woodburn,KY,Warren County,,city-us,311,36.843,-86.527,2667
+47509,Woodburn,IL,Macoupin County,,city-us,175,39.047,-90.012,11877
+47506,Woodburn,IA,Clarke County,,city-us,144,41.012,-93.599,4084
+47508,Woodburn,VA,Loudoun County,,city-us,0,39.090,-77.619,618

@@ -1,13 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13001,Edinburg,TX,,city-us,102483,26.302,-98.163,13824
-13006,Edinburg,OH,,city-us,2369,41.099,-81.146,1553
-13007,Edinburg,NY,,city-us,1348,43.223,-74.070,6678
-13009,Edinburg,VA,,city-us,1197,38.821,-78.566,2560
-12999,Edinburg,IL,,city-us,1117,39.657,-89.390,2091
-13010,Edinburg,ND,,city-us,196,48.497,-97.862,3205
-13005,Edinburg,ME,,city-us,132,45.169,-68.689,3583
-13000,Edinburg,MO,,city-us,80,40.081,-93.694,1008
-13002,Edinburg,PA,,city-us,0,41.014,-80.437,280
-13003,Edinburg,MS,,city-us,0,32.799,-89.336,639
-13004,Edinburg,NJ,,city-us,0,40.258,-74.616,441
-13008,Edinburg,MO,,city-us,0,40.374,-92.185,313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13001,Edinburg,TX,Hidalgo County,,city-us,102483,26.302,-98.163,13824
+13006,Edinburg,OH,Portage County,,city-us,2369,41.099,-81.146,1553
+13007,Edinburg,NY,Saratoga County,,city-us,1348,43.223,-74.070,6678
+13009,Edinburg,VA,Shenandoah County,,city-us,1197,38.821,-78.566,2560
+12999,Edinburg,IL,Christian County,,city-us,1117,39.657,-89.390,2091
+13010,Edinburg,ND,Walsh County,,city-us,196,48.497,-97.862,3205
+13005,Edinburg,ME,Penobscot County,,city-us,132,45.169,-68.689,3583
+13000,Edinburg,MO,Grundy County,,city-us,80,40.081,-93.694,1008
+13002,Edinburg,PA,Lawrence County,,city-us,0,41.014,-80.437,280
+13003,Edinburg,MS,Leake County,,city-us,0,32.799,-89.336,639
+13004,Edinburg,NJ,Mercer County,,city-us,0,40.258,-74.616,441
+13008,Edinburg,MO,Scotland County,,city-us,0,40.374,-92.185,313

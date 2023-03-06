@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25399,Loda,IL,,city-us,350,40.518,-88.072,2664
-25401,Loda,KS,,city-us,91,37.783,-98.191,0
-25400,Loda,WV,,city-us,0,38.801,-80.082,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25399,Loda,IL,Iroquois County,,city-us,350,40.518,-88.072,2664
+25401,Loda,KS,Reno County,,city-us,91,37.783,-98.191,0
+25400,Loda,WV,Randolph County,,city-us,0,38.801,-80.082,87

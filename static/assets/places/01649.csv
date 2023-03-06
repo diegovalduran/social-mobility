@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8341,Christiana,TN,,city-us,4305,35.710,-86.399,506
-8338,Christiana,WI,,city-us,1231,42.972,-89.091,2652
-8339,Christiana,PA,,city-us,1094,39.955,-75.997,3614
-8342,Christiana,WI,,city-us,991,43.681,-90.846,2020
-8340,Christiana,DE,,city-us,0,39.665,-75.660,1298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8341,Christiana,TN,Rutherford County,,city-us,4305,35.710,-86.399,506
+8338,Christiana,WI,Dane County,,city-us,1231,42.972,-89.091,2652
+8339,Christiana,PA,Lancaster County,,city-us,1094,39.955,-75.997,3614
+8342,Christiana,WI,Vernon County,,city-us,991,43.681,-90.846,2020
+8340,Christiana,DE,New Castle County,,city-us,0,39.665,-75.660,1298

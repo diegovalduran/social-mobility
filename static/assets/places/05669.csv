@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29173,Montcalm,MI,,city-us,3580,43.243,-85.263,3239
-29172,Montcalm,WV,,city-us,622,37.354,-81.253,6202
-29171,Montcalm,NH,,city-us,0,43.597,-72.167,806
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29173,Montcalm,MI,Montcalm County,,city-us,3580,43.243,-85.263,3239
+29172,Montcalm,WV,Mercer County,,city-us,622,37.354,-81.253,6202
+29171,Montcalm,NH,Grafton County,,city-us,0,43.597,-72.167,806

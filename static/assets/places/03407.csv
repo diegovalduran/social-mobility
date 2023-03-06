@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17235,Goodwell,OK,,city-us,1073,36.595,-101.637,3778
-17234,Goodwell,MI,,city-us,539,43.600,-85.612,1904
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17235,Goodwell,OK,Texas County,,city-us,1073,36.595,-101.637,3778
+17234,Goodwell,MI,Newaygo County,,city-us,539,43.600,-85.612,1904

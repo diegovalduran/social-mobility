@@ -1,14 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24603,Lewiston,ME,,city-us,36617,44.100,-70.215,43808
-24608,Lewiston,ID,,city-us,34447,46.417,-117.018,21005
-24609,Lewiston,NY,,city-us,2529,43.173,-79.036,10813
-24604,Lewiston,UT,,city-us,1951,41.976,-111.856,2401
-24613,Lewiston,CA,,city-us,1817,40.707,-122.808,5365
-24615,Lewiston,MN,,city-us,1520,43.984,-91.869,3779
-24605,Lewiston,WI,,city-us,1187,43.581,-89.636,2082
-24607,Lewiston,MI,,city-us,996,44.884,-84.306,3430
-24610,Lewiston,NE,,city-us,54,40.243,-96.404,2883
-24606,Lewiston,IN,,city-us,0,41.027,-87.046,191
-24611,Lewiston,VA,,city-us,0,38.069,-77.742,96
-24612,Lewiston,LA,,city-us,0,30.941,-90.422,148
-24614,Lewiston,VT,,city-us,0,43.704,-72.301,1486
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24603,Lewiston,ME,Androscoggin County,,city-us,36617,44.100,-70.215,43808
+24608,Lewiston,ID,Nez Perce County,,city-us,34447,46.417,-117.018,21005
+24609,Lewiston,NY,Niagara County,,city-us,2529,43.173,-79.036,10813
+24604,Lewiston,UT,Cache County,,city-us,1951,41.976,-111.856,2401
+24613,Lewiston,CA,Trinity County,,city-us,1817,40.707,-122.808,5365
+24615,Lewiston,MN,Winona County,,city-us,1520,43.984,-91.869,3779
+24605,Lewiston,WI,Columbia County,,city-us,1187,43.581,-89.636,2082
+24607,Lewiston,MI,Montmorency County,,city-us,996,44.884,-84.306,3430
+24610,Lewiston,NE,Pawnee County,,city-us,54,40.243,-96.404,2883
+24606,Lewiston,IN,Jasper County,,city-us,0,41.027,-87.046,191
+24611,Lewiston,VA,Spotsylvania County,,city-us,0,38.069,-77.742,96
+24612,Lewiston,LA,Tangipahoa Parish,,city-us,0,30.941,-90.422,148
+24614,Lewiston,VT,Windsor County,,city-us,0,43.704,-72.301,1486

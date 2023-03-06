@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21959,Jean,OR,,city-us,0,45.398,-122.740,81
-21960,Jean,NV,,city-us,0,35.780,-115.330,4111
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21959,Jean,OR,Clackamas County,,city-us,0,45.398,-122.740,81
+21960,Jean,NV,Clark County,,city-us,0,35.780,-115.330,4111

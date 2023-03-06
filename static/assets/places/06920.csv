@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35189,Powellton,WV,,city-us,534,38.099,-81.324,1923
-35188,Powellton,VA,,city-us,0,36.667,-77.792,81
-35190,Powellton,IL,,city-us,0,40.536,-91.269,173
-35193,Powelton,GA,,city-us,0,33.429,-82.871,402
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35189,Powellton,WV,Fayette County,,city-us,534,38.099,-81.324,1923
+35188,Powellton,VA,Brunswick County,,city-us,0,36.667,-77.792,81
+35190,Powellton,IL,Hancock County,,city-us,0,40.536,-91.269,173
+35193,Powelton,GA,Hancock County,,city-us,0,33.429,-82.871,402

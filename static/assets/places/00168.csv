@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-891,Altura,NJ,,city-us,37264,40.263,-74.799,24551
-892,Altura,MN,,city-us,469,44.072,-91.940,3027
+id,name,state,county,country,level,population,latitude,longitude,wiki
+891,Altura,NJ,Mercer County,,city-us,37264,40.263,-74.799,24551
+892,Altura,MN,Winona County,,city-us,469,44.072,-91.940,3027

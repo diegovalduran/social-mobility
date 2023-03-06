@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23248,Kodak,KY,,city-us,0,37.205,-83.031,123
-23249,Kodak,TN,,city-us,0,35.974,-83.627,2609
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23248,Kodak,KY,Perry County,,city-us,0,37.205,-83.031,123
+23249,Kodak,TN,Sevier County,,city-us,0,35.974,-83.627,2609

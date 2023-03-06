@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29217,Montevideo,,Uruguay,city-international,1319108,-34.867,-56.167,86951
-29215,Montevideo,MN,,city-us,5292,44.942,-95.724,5655
-29216,Montevideo,GA,,city-us,0,34.272,-82.822,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29217,Montevideo,,,Uruguay,city-international,1319108,-34.867,-56.167,86951
+29215,Montevideo,MN,Chippewa County,,city-us,5292,44.942,-95.724,5655
+29216,Montevideo,GA,Elbert County,,city-us,0,34.272,-82.822,262

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41625,Stony Point,NY,,city-us,14768,41.252,-74.004,12766
-41624,Stony Point,MI,,city-us,1784,41.941,-83.265,2238
-41622,Stony Point,NC,,city-us,1558,35.868,-81.044,2555
-41606,Stoney Point,OK,,city-us,169,35.596,-94.663,1969
-41607,Stoney Point,LA,,city-us,0,30.818,-90.279,152
-41621,Stony Point,VA,,city-us,0,38.113,-78.371,1033
-41623,Stony Point,KY,,city-us,0,38.121,-84.194,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41625,Stony Point,NY,Rockland County,,city-us,14768,41.252,-74.004,12766
+41624,Stony Point,MI,Monroe County,,city-us,1784,41.941,-83.265,2238
+41622,Stony Point,NC,Alexander County / Iredell County,,city-us,1558,35.868,-81.044,2555
+41606,Stoney Point,OK,Sequoyah County,,city-us,169,35.596,-94.663,1969
+41607,Stoney Point,LA,Washington Parish,,city-us,0,30.818,-90.279,152
+41621,Stony Point,VA,Albemarle County,,city-us,0,38.113,-78.371,1033
+41623,Stony Point,KY,Bourbon County,,city-us,0,38.121,-84.194,271

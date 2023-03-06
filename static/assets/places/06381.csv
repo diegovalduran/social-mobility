@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32549,Osakis,MN,,city-us,1740,45.865,-95.153,3950
-32548,Osakis,MN,,city-us,692,45.904,-95.206,1844
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32549,Osakis,MN,Douglas County / Todd County,,city-us,1740,45.865,-95.153,3950
+32548,Osakis,MN,Douglas County,,city-us,692,45.904,-95.206,1844

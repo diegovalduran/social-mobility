@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28437,Mildred,PA,,city-us,430,41.478,-76.378,361
-28435,Mildred,TX,,city-us,413,32.035,-96.377,2907
-28433,Mildred,KS,,city-us,25,38.023,-95.174,3891
-28434,Mildred,MN,,city-us,0,46.755,-94.465,317
-28436,Mildred,MT,,city-us,0,46.676,-104.960,229
-28438,Mildred,MO,,city-us,0,36.637,-93.099,348
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28437,Mildred,PA,Sullivan County,,city-us,430,41.478,-76.378,361
+28435,Mildred,TX,Navarro County,,city-us,413,32.035,-96.377,2907
+28433,Mildred,KS,Allen County,,city-us,25,38.023,-95.174,3891
+28434,Mildred,MN,Cass County,,city-us,0,46.755,-94.465,317
+28436,Mildred,MT,Prairie County,,city-us,0,46.676,-104.960,229
+28438,Mildred,MO,Taney County,,city-us,0,36.637,-93.099,348

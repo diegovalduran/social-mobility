@@ -1,21 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36712,Ridgeway,NY,,city-us,6527,43.262,-78.377,4629
-36723,Ridgway,PA,,city-us,4005,41.420,-78.729,7801
-36709,Ridgeway,AK,,city-us,2689,60.532,-151.085,2374
-36713,Ridgeway,KS,,city-us,2394,38.815,-95.674,0
-36710,Ridgeway,MI,,city-us,1519,41.973,-83.835,2092
-36725,Ridgway,CO,,city-us,1207,38.153,-107.762,13030
-36724,Ridgway,IL,,city-us,855,37.827,-88.201,1055
-36707,Ridgeway,VA,,city-us,746,36.577,-79.858,3036
-36708,Ridgeway,WI,,city-us,646,43.002,-89.990,3541
-36706,Ridgeway,MO,,city-us,377,40.378,-93.937,3682
-36703,Ridgeway,OH,,city-us,314,40.512,-83.569,3482
-36716,Ridgeway,IA,,city-us,268,43.298,-91.988,3279
-36702,Ridgeway,SC,,city-us,267,34.308,-80.960,2600
-36701,Ridgeway,WV,,city-us,0,39.297,-78.072,379
-36704,Ridgeway,KY,,city-us,0,36.898,-83.126,244
-36705,Ridgeway,GA,,city-us,0,32.635,-84.722,303
-36711,Ridgeway,NJ,,city-us,0,40.031,-74.284,316
-36714,Ridgeway,VA,,city-us,0,36.989,-79.483,117
-36715,Ridgeway,NC,,city-us,0,36.436,-78.237,333
-36717,Ridgeway,MN,,city-us,0,43.912,-91.560,436
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36712,Ridgeway,NY,Orleans County,,city-us,6527,43.262,-78.377,4629
+36723,Ridgway,PA,Elk County,,city-us,4005,41.420,-78.729,7801
+36709,Ridgeway,AK,Kenai Peninsula Borough,,city-us,2689,60.532,-151.085,2374
+36713,Ridgeway,KS,Osage County,,city-us,2394,38.815,-95.674,0
+36710,Ridgeway,MI,Lenawee County,,city-us,1519,41.973,-83.835,2092
+36725,Ridgway,CO,Ouray County,,city-us,1207,38.153,-107.762,13030
+36724,Ridgway,IL,Gallatin County,,city-us,855,37.827,-88.201,1055
+36707,Ridgeway,VA,Henry County,,city-us,746,36.577,-79.858,3036
+36708,Ridgeway,WI,Iowa County,,city-us,646,43.002,-89.990,3541
+36706,Ridgeway,MO,Harrison County,,city-us,377,40.378,-93.937,3682
+36703,Ridgeway,OH,Hardin County / Logan County,,city-us,314,40.512,-83.569,3482
+36716,Ridgeway,IA,Winneshiek County,,city-us,268,43.298,-91.988,3279
+36702,Ridgeway,SC,Fairfield County,,city-us,267,34.308,-80.960,2600
+36701,Ridgeway,WV,Berkeley County,,city-us,0,39.297,-78.072,379
+36704,Ridgeway,KY,Harlan County,,city-us,0,36.898,-83.126,244
+36705,Ridgeway,GA,Harris County,,city-us,0,32.635,-84.722,303
+36711,Ridgeway,NJ,Ocean County,,city-us,0,40.031,-74.284,316
+36714,Ridgeway,VA,Pittsylvania County,,city-us,0,36.989,-79.483,117
+36715,Ridgeway,NC,Warren County,,city-us,0,36.436,-78.237,333
+36717,Ridgeway,MN,Winona County,,city-us,0,43.912,-91.560,436

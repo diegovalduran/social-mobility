@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22615,Keller,TX,,city-us,45397,32.935,-97.252,12789
-22614,Keller,WA,,city-us,207,48.079,-118.685,2876
-22611,Keller,VA,,city-us,141,37.619,-75.764,1788
-22613,Keller,ND,,city-us,37,48.850,-102.872,0
-22612,Keller,GA,,city-us,0,31.843,-81.254,1150
-22616,Keller,IN,,city-us,0,39.360,-87.324,537
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22615,Keller,TX,Tarrant County,,city-us,45397,32.935,-97.252,12789
+22614,Keller,WA,Ferry County,,city-us,207,48.079,-118.685,2876
+22611,Keller,VA,Accomack County,,city-us,141,37.619,-75.764,1788
+22613,Keller,ND,Burke County,,city-us,37,48.850,-102.872,0
+22612,Keller,GA,Bryan County,,city-us,0,31.843,-81.254,1150
+22616,Keller,IN,Vigo County,,city-us,0,39.360,-87.324,537

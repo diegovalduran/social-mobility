@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22609,Keithsburg,IL,,city-us,642,41.120,-90.937,339
-22608,Keithsburg,GA,,city-us,0,34.274,-84.452,1154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22609,Keithsburg,IL,Mercer County,,city-us,642,41.120,-90.937,339
+22608,Keithsburg,GA,Cherokee County,,city-us,0,34.274,-84.452,1154

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4175,Blackburn,,United Kingdom,city-international,117963,53.748,-2.482,49465
-4172,Blackburn,MO,,city-us,230,39.105,-93.486,3346
-4173,Blackburn,OK,,city-us,68,36.373,-96.596,2615
-4174,Blackburn,AR,,city-us,0,35.816,-94.220,281
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4175,Blackburn,,,United Kingdom,city-international,117963,53.748,-2.482,49465
+4172,Blackburn,MO,Lafayette County / Saline County,,city-us,230,39.105,-93.486,3346
+4173,Blackburn,OK,Pawnee County,,city-us,68,36.373,-96.596,2615
+4174,Blackburn,AR,Washington County,,city-us,0,35.816,-94.220,281

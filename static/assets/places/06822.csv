@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34762,Plummer,ID,,city-us,1048,47.335,-116.889,3601
-34765,Plummer,MN,,city-us,279,47.911,-96.042,2929
-34763,Plummer,SD,,city-us,21,43.892,-98.868,0
-34764,Plummer,IN,,city-us,0,38.982,-86.972,339
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34762,Plummer,ID,Benewah County,,city-us,1048,47.335,-116.889,3601
+34765,Plummer,MN,Red Lake County,,city-us,279,47.911,-96.042,2929
+34763,Plummer,SD,Brule County,,city-us,21,43.892,-98.868,0
+34764,Plummer,IN,Greene County,,city-us,0,38.982,-86.972,339

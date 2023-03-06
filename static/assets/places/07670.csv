@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38859,Schoolcraft,MI,,city-us,9156,42.112,-85.586,183
-38857,Schoolcraft,MI,,city-us,2041,47.197,-88.290,183
-38858,Schoolcraft,MN,,city-us,141,47.291,-94.973,1922
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38859,Schoolcraft,MI,Kalamazoo County,,city-us,9156,42.112,-85.586,183
+38857,Schoolcraft,MI,Houghton County,,city-us,2041,47.197,-88.290,183
+38858,Schoolcraft,MN,Hubbard County,,city-us,141,47.291,-94.973,1922

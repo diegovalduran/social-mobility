@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33609,Penton,AL,,city-us,77,33.007,-85.466,242
-33610,Penton,NJ,,city-us,0,39.578,-75.402,795
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33609,Penton,AL,Chambers County,,city-us,77,33.007,-85.466,242
+33610,Penton,NJ,Salem County,,city-us,0,39.578,-75.402,795

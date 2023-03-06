@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21146,Hutchins,TX,,city-us,5566,32.649,-96.713,4800
-21150,Hutchins,WI,,city-us,501,44.983,-89.034,1695
-21147,Hutchins,IA,,city-us,33,43.092,-93.881,251
-21148,Hutchins,GA,,city-us,0,33.842,-83.168,332
-21149,Hutchins,KS,,city-us,0,38.440,-100.916,131
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21146,Hutchins,TX,Dallas County,,city-us,5566,32.649,-96.713,4800
+21150,Hutchins,WI,Shawano County,,city-us,501,44.983,-89.034,1695
+21147,Hutchins,IA,Hancock County,,city-us,33,43.092,-93.881,251
+21148,Hutchins,GA,Oglethorpe County,,city-us,0,33.842,-83.168,332
+21149,Hutchins,KS,Scott County,,city-us,0,38.440,-100.916,131

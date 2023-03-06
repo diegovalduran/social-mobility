@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15479,Forward,PA,,city-us,3253,40.780,-80.026,179
-15478,Forward,PA,,city-us,3023,40.232,-79.907,179
-15481,Forward,ND,,city-us,95,47.716,-99.876,0
-15480,Forward,WI,,city-us,0,42.897,-89.756,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15479,Forward,PA,Butler County,,city-us,3253,40.780,-80.026,179
+15478,Forward,PA,Allegheny County,,city-us,3023,40.232,-79.907,179
+15481,Forward,ND,Wells County,,city-us,95,47.716,-99.876,0
+15480,Forward,WI,Dane County,,city-us,0,42.897,-89.756,156

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19593,Helton,NC,,city-us,0,36.548,-81.469,326
-19594,Helton,KY,,city-us,0,36.954,-83.391,201
-19595,Helton,MO,,city-us,0,39.775,-91.421,306
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19593,Helton,NC,Ashe County,,city-us,0,36.548,-81.469,326
+19594,Helton,KY,Leslie County,,city-us,0,36.954,-83.391,201
+19595,Helton,MO,Marion County,,city-us,0,39.775,-91.421,306

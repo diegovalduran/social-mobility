@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32728,Overall,TN,,city-us,0,35.810,-86.475,232
-32729,Overall,VA,,city-us,0,38.804,-78.348,1235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32728,Overall,TN,Rutherford County,,city-us,0,35.810,-86.475,232
+32729,Overall,VA,Warren County,,city-us,0,38.804,-78.348,1235

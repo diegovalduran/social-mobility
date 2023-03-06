@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16149,Furnace,KY,,city-us,0,37.762,-83.832,399
-16150,Furnace,IN,,city-us,0,39.014,-86.913,142
-16151,Furnace,WV,,city-us,0,39.032,-78.603,88
-16152,Furnace,VA,,city-us,0,38.447,-78.558,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16149,Furnace,KY,Estill County,,city-us,0,37.762,-83.832,399
+16150,Furnace,IN,Greene County,,city-us,0,39.014,-86.913,142
+16151,Furnace,WV,Hardy County,,city-us,0,39.032,-78.603,88
+16152,Furnace,VA,Page County,,city-us,0,38.447,-78.558,87

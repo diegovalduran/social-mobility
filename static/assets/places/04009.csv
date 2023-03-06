@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20550,Honey Grove,TX,,city-us,1753,33.583,-95.910,5956
-20549,Honey Grove,KY,,city-us,0,36.890,-87.310,369
-20551,Honey Grove,PA,,city-us,0,40.402,-77.552,312
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20550,Honey Grove,TX,Fannin County,,city-us,1753,33.583,-95.910,5956
+20549,Honey Grove,KY,Christian County,,city-us,0,36.890,-87.310,369
+20551,Honey Grove,PA,Juniata County,,city-us,0,40.402,-77.552,312

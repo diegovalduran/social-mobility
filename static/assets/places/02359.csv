@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11829,Divide,CO,,city-us,162,38.942,-105.157,1468
-11826,Divide,ND,,city-us,85,46.236,-98.064,0
-11827,Divide,WV,,city-us,0,38.067,-80.966,88
-11828,Divide,IL,,city-us,0,38.447,-88.830,269
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11829,Divide,CO,Teller County,,city-us,162,38.942,-105.157,1468
+11826,Divide,ND,Dickey County,,city-us,85,46.236,-98.064,0
+11827,Divide,WV,Fayette County,,city-us,0,38.067,-80.966,88
+11828,Divide,IL,Jefferson County,,city-us,0,38.447,-88.830,269

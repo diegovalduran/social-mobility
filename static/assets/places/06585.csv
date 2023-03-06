@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33469,Peerless,MT,,city-us,23,48.782,-105.831,425
-33470,Peerless,IN,,city-us,0,38.924,-86.503,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33469,Peerless,MT,Daniels County,,city-us,23,48.782,-105.831,425
+33470,Peerless,IN,Lawrence County,,city-us,0,38.924,-86.503,329

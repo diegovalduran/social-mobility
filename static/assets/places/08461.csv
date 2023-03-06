@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42676,Terre Haute,IN,,city-us,58525,39.467,-87.414,34383
-42673,Terre Haute,OH,,city-us,0,40.049,-83.878,357
-42674,Terre Haute,IA,,city-us,0,40.683,-93.867,179
-42675,Terre Haute,IL,,city-us,0,40.666,-90.981,112
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42676,Terre Haute,IN,Vigo County,,city-us,58525,39.467,-87.414,34383
+42673,Terre Haute,OH,Champaign County,,city-us,0,40.049,-83.878,357
+42674,Terre Haute,IA,Decatur County,,city-us,0,40.683,-93.867,179
+42675,Terre Haute,IL,Henderson County,,city-us,0,40.666,-90.981,112

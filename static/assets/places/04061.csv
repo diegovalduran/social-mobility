@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20873,Howland,OH,,city-us,19027,41.238,-80.752,4350
-20872,Howland,ME,,city-us,1096,45.267,-68.715,3305
-20871,Howland,VA,,city-us,0,37.871,-76.455,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20873,Howland,OH,Trumbull County,,city-us,19027,41.238,-80.752,4350
+20872,Howland,ME,Penobscot County,,city-us,1096,45.267,-68.715,3305
+20871,Howland,VA,Northumberland County,,city-us,0,37.871,-76.455,97

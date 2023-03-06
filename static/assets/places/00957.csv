@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4807,Boulder Park,MI,,city-us,1645,45.326,-85.251,3375
-4808,Boulder Park,CA,,city-us,0,32.659,-116.101,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4807,Boulder Park,MI,Charlevoix County,,city-us,1645,45.326,-85.251,3375
+4808,Boulder Park,CA,Imperial County,,city-us,0,32.659,-116.101,192
