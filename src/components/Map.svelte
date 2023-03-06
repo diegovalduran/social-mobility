@@ -17,7 +17,8 @@
 	import MapPoints from "$components/Figure.MapPoints.svelte";
 	import MapLabels from "$components/Figure.MapLabels.svelte";
 	import MapKey from "$components/Map.Key.svelte";
-	import MapTable from "$components/Map.Table.svelte";
+	import CountyTable from "$components/CountyTable.svelte";
+	import PlaceTable from "$components/PlaceTable.svelte";
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$data/addDataToCounties.js";
 	import variables from "$data/variables.json";
@@ -208,10 +209,14 @@
 		tier: d.properties.topTier
 	}));
 
+	$: byLabel = groups(topPlaces, (d) => d.label);
+
 	// TODO double for strong association?
-	$: tally = groups(topPlaces, (d) => d.label).map(([label, values]) => ({
+	$: tally = byLabel.map(([label, values]) => ({
 		label,
-		count: values.filter((v) => v.tier).length
+		count: values.filter((v) => v.tier).length,
+		countProbably: values.filter((v) => v.tier === 2).length,
+		countMaybe: values.filter((v) => v.tier === 1).length
 	}));
 
 	$: {
@@ -247,19 +252,23 @@
 		return prev;
 	}, {});
 
-	$: placeFeaturesRender = placeFeaturesWithOrder.map((d) => ({
-		...d,
-		properties: {
-			...d.properties,
-			fills: colorMap[d.properties.label],
-			fill: colorMap[d.properties.label].probably
-		}
-	}));
+	$: placeFeaturesRender = placeFeaturesWithOrder.map((d) => {
+		const match = tally.find((t) => t.label === d.properties.label);
+		return {
+			...d,
+			properties: {
+				...d.properties,
+				...match,
+				fills: colorMap[d.properties.label],
+				fill: colorMap[d.properties.label].probably
+			}
+		};
+	});
 
 	$: countyFeaturesRender = countyFeatures.map((d) => {
 		const fill = d.properties.topTier
 			? colorMap[d.properties.topLabel][
-					d.properties.topTier === 1 ? "maybe" : "probably"
+					d.properties.topTier === 2 ? "probably" : "maybe"
 			  ]
 			: COLOR_TOSS.probably;
 
@@ -271,8 +280,6 @@
 			}
 		};
 	});
-
-	$: console.log(placeFeaturesRender);
 
 	// $: tallyUpper = groups(
 	// 	topPlaces.filter((d) => d[valueProp] >= thresholdUpper * maxValue),
@@ -303,9 +310,10 @@
 
 	$: topPlace = placeFeaturesRender[0].properties;
 	$: topLabel = topPlace.label;
-	$: topColorMaybe = topPlace.fills[0];
-	$: topColorProbably = topPlace.fills[1];
-	$: topColorText = topPlace.fills[2];
+	$: topColorMaybe = topPlace.fills.maybe;
+	$: topColorProbably = topPlace.fills.probably;
+	$: topColorTextProbably = topPlace.fills.textProbably;
+	$: topColorTextMaybe = topPlace.fills.textMaybe;
 </script>
 
 <div class="info">
@@ -314,27 +322,35 @@
 	</h2>
 
 	<h2>
-		In the US, <strong style:color={topColorText}>{topLabel}</strong> is most
-		often what someone means by <strong>{placeName}.</strong>
+		In the US, <strong style:color={topColorProbably}>{topLabel}</strong> is
+		most often what someone means by <strong>{placeName}.</strong>
 	</h2>
 	<h2>
 		In most counties, <strong>{placeName}</strong> means
-		<strong style:color={topColorText}>{topLabel}.</strong>
-		<mark style:background={topColorProbably}>Probably.</mark>
-		<mark style:background={topColorMaybe}>Maybe?</mark>
+		<strong style:color={topColorProbably}>{topLabel}.</strong>
+		<mark style:background={topColorProbably} style:color={topColorTextProbably}
+			>Probably.</mark
+		>
+		<mark style:background={topColorMaybe} style:color={topColorTextMaybe}
+			>Maybe?</mark
+		>
 	</h2>
 
 	<h2>
 		If someone in the US refers to <strong>{placeName}</strong>, they
-		<mark style="--fill: {topColorProbably};">probably</mark>
-		<mark style="--fill: {topColorMaybe};">(maybe)</mark> mean
-		<strong style:color={topColorText}>{topLabel}.</strong>
+		<mark style="--bg: {topColorProbably}; --fg:{topColorTextProbably};"
+			>probably</mark
+		>
+		<mark style="--bg: {topColorMaybe}; --fg:{topColorTextMaybe};">(maybe)</mark
+		>
+		mean
+		<strong style:color={topColorProbably}>{topLabel}.</strong>
 	</h2>
 
 	<h2>
 		In most parts of the US, saying <strong>{placeName}</strong> usually refers
 		to
-		<strong style:color={topColorText}>{topLabel}.</strong>
+		<strong style:color={topColorProbably}>{topLabel}.</strong>
 	</h2>
 </div>
 
@@ -382,7 +398,8 @@
 	colorToss={COLOR_TOSS.probably}
 	colorTossText={COLOR_TOSS.textProbably}
 />
-<MapTable {rows} {columns} />
+<PlaceTable places={placeFeaturesRender} />
+<CountyTable {rows} {columns} />
 
 <style>
 	:global(g .other text) {
@@ -397,9 +414,10 @@
 		background-image: linear-gradient(
 			to bottom,
 			transparent 0%,
-			var(--fill) 0%,
-			var(--fill) 100%
+			var(--bg) 0%,
+			var(--bg) 100%
 		);
+		color: var(--fg);
 	}
 
 	.info {

@@ -18,7 +18,7 @@
 	let currentName;
 	let placeData;
 	let location;
-	let options = [];
+	let options;
 
 	function onChangePlace({ name, phoneme }) {
 		currentPhoneme = phoneme;
@@ -28,8 +28,8 @@
 	onMount(async () => {
 		try {
 			// TODO remove test
-			const test = true;
-			const storageLocation = storage.get("pudding_samename");
+			const test = false;
+			const storageLocation = undefined; // storage.get("pudding_samename");
 			location = storageLocation || (await getLocation(test)) || {};
 			if (!storageLocation && location?.state)
 				storage.set("pudding_samename", location);
@@ -69,19 +69,24 @@
 		{/each}
 	</ul>
 
-	<h3>{copy.locate}</h3>
-	<ul>
-		{#each options as d}
-			{@const { name, phone, state } = d}
-			<li>
-				<button on:click={() => onChangePlace(d)}>{name}, {state}</button>
-			</li>
-		{/each}
-	</ul>
+	{#if options && options.length}
+		<h3>{copy.locate}</h3>
+		<ul>
+			{#each options as d}
+				{@const { name, phone, state } = d}
+				<li>
+					<button on:click={() => onChangePlace(d)}>{name}, {state}</button>
+				</li>
+			{/each}
+		</ul>
+	{/if}
+
+	{#if (location && !location.state) || placeData}
+		<Select on:change={({ detail }) => onChangePlace(detail)} />
+	{/if}
 
 	<section id="interactive">
 		{#if placeData}
-			<Select on:change={({ detail }) => onChangePlace(detail)} />
 			<Map {placeData} placeName={currentName} {location} />
 			<p>{@html copy.help}</p>
 		{/if}
