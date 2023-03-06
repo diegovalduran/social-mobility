@@ -12,28 +12,32 @@
     "bg": "#fffaf0",
     "fg": "#433f37",
     "c0": {
-      "a": "#f80700",
-      "b": "#ff5651",
-      "text": "#e80700"
+      "probably": "#e80700",
+      "maybe": "#ff5651",
+      "textProbably": "#fffafa",
+      "textMaybe": "#5d0300"
     },
     "c1": {
-      "a": "#408689",
-      "b": "#4b9ea2",
-      "text": "#3c7d7f"
+      "probably": "#3c7d7f",
+      "maybe": "#4b9ea2",
+      "textProbably": "#f5fafa",
+      "textMaybe": "#162e30"
     },
     "c2": {
-      "a": "#b648e0",
-      "b": "#c56de6",
-      "text": "#b039dd"
+      "probably": "#b039dd",
+      "maybe": "#c56de6",
+      "textProbably": "#fdf9fe",
+      "textMaybe": "#460f5a"
     },
     "other": {
-      "a": "#8C7A54",
-      "b": "#9F8F60",
-      "text": "#83724E"
+      "probably": "#83724E",
+      "maybe": "#9F8F60",
+      "textProbably": "#fcfbfa",
+      "textMaybe": "#2e291c"
     },
     "toss": {
-      "a": "#CECBC5",
-      "text": "#58554B"
+      "probably": "#d6cdbb",
+      "textProbably": "#63563b"
     }
   },
   "cat3": {

@@ -18,7 +18,6 @@ const isOverlapping = (nodes) => {
 		if (node.classList.contains("is-overlap")) return false;
 		const r = node.getBoundingClientRect();
 		const b = [r.left, r.top, r.right, r.bottom];
-		console.log(node, intersects(a, b));
 		return intersects(a, b);
 	});
 

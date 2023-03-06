@@ -11,11 +11,11 @@
 	"cat2": {
 		"bg": {"value": "#fffaf0"},
 		"fg": {"value":"#433f37"},
-		"c0": { "a": { "value": "#f80700"}, "b": {"value": "#ff5651"}, "text": {"value": "#e80700" } },
-		"c1": { "a": { "value": "#408689" }, "b": { "value": "#4b9ea2"}, "text": {"value": "#3c7d7f" } },
-		"c2": { "a": { "value": "#b648e0" }, "b": { "value": "#c56de6"}, "text": {"value": "#b039dd" } },
-		"other": { "a": {"value": "#8C7A54"}, "b": {"value": "#9F8F60" }, "text": {"value": "#83724E"}  },
-		"toss": { "a": {"value": "#CECBC5"}, "text": {"value": "#58554B"} }
+		"c0": { "probably": { "value": "#e80700"}, "maybe": {"value": "#ff5651"}, "textProbably": {"value": "#fffafa" }, "textMaybe": {"value": "#5d0300"} },
+		"c1": { "probably": { "value": "#3c7d7f" }, "maybe": { "value": "#4b9ea2"}, "textProbably": {"value": "#f5fafa" }, "textMaybe": {"value": "#162e30"} },
+		"c2": { "probably": { "value": "#b039dd" }, "maybe": { "value": "#c56de6"}, "textProbably": {"value": "#fdf9fe" }, "textMaybe": {"value": "#460f5a"} },
+		"other": { "probably": {"value": "#83724E"}, "maybe": {"value": "#9F8F60" }, "textProbably": {"value": "#fcfbfa"} , "textMaybe": {"value": "#2e291c"} },
+		"toss": { "probably": {"value": "#d6cdbb"}, "textProbably": {"value": "#63563b"} }
 	},
 	"cat3": {
 		"bg": { "value": "#071C3E"},

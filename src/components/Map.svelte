@@ -25,22 +25,17 @@
 	const CAT = "cat2";
 
 	const COLORS_RAW = [
-		[variables[CAT].c0.b, variables[CAT].c0.text, variables[CAT].c0.text],
-		[variables[CAT].c1.b, variables[CAT].c1.text, variables[CAT].c1.text],
-		[variables[CAT].c2.b, variables[CAT].c2.text, variables[CAT].c2.text]
+		variables[CAT].c0,
+		variables[CAT].c1,
+		variables[CAT].c2
 		// [variables[CAT].c3.b, variables[CAT].c3.text, variables[CAT].c3.text]
 	];
 
 	const MAX_COLORS = COLORS_RAW.length;
 
-	const COLOR_OTHER = [
-		variables[CAT].other.b,
-		variables[CAT].other.a,
-		variables[CAT].other.text
-	];
+	const COLOR_OTHER = variables[CAT].other;
 
-	const COLOR_TOSS = variables[CAT].toss.a;
-	const COLOR_TOSS_TEXT = variables[CAT].toss.text;
+	const COLOR_TOSS = variables[CAT].toss;
 
 	const COLOR_BG = variables[CAT].bg;
 	const COLOR_FG = variables[CAT].fg;
@@ -248,8 +243,7 @@
 	}
 
 	$: colorMap = placeFeaturesWithOrder.reduce((prev, d, i) => {
-		const fill = i < MAX_COLORS ? colors[i] : COLOR_OTHER;
-		prev[d.properties.label] = fill;
+		prev[d.properties.label] = i < MAX_COLORS ? colors[i] : COLOR_OTHER;
 		return prev;
 	}, {});
 
@@ -258,16 +252,16 @@
 		properties: {
 			...d.properties,
 			fills: colorMap[d.properties.label],
-			fill: colorMap[d.properties.label].slice(-1)[0]
+			fill: colorMap[d.properties.label].probably
 		}
 	}));
 
-	$: console.log(placeFeaturesRender);
-
 	$: countyFeaturesRender = countyFeatures.map((d) => {
 		const fill = d.properties.topTier
-			? colorMap[d.properties.topLabel][d.properties.topTier - 1]
-			: COLOR_TOSS;
+			? colorMap[d.properties.topLabel][
+					d.properties.topTier === 1 ? "maybe" : "probably"
+			  ]
+			: COLOR_TOSS.probably;
 
 		return {
 			...d,
@@ -277,6 +271,8 @@
 			}
 		};
 	});
+
+	$: console.log(placeFeaturesRender);
 
 	// $: tallyUpper = groups(
 	// 	topPlaces.filter((d) => d[valueProp] >= thresholdUpper * maxValue),
@@ -383,8 +379,8 @@
 <MapKey
 	max={MAX_COLORS}
 	features={keyFeatures}
-	colorToss={COLOR_TOSS}
-	colorTossText={COLOR_TOSS_TEXT}
+	colorToss={COLOR_TOSS.probably}
+	colorTossText={COLOR_TOSS.textProbably}
 />
 <MapTable {rows} {columns} />
 

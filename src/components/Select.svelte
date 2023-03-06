@@ -23,8 +23,8 @@
 
 <style>
 	:global([data-svelte-typeahead]) {
-		background: var(--color-fg);
-		color: var(--color-bg);
+		background: var(--color-bg);
+		color: var(--color-fg);
 	}
 
 	:global([data-svelte-typeahead] mark) {
