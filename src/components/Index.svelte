@@ -32,6 +32,7 @@
 
 	onMount(async () => {
 		onChangePlace(classics[0]);
+
 		try {
 			// TODO remove test
 			const test = true;
@@ -62,6 +63,7 @@
 	<section id="intro">
 		<h1>{copy.title}</h1>
 		<p>{copy.intro}</p>
+
 		<div class="discover">
 			<details {open}>
 				<summary>{copy.discoverySummary}</summary>
@@ -111,10 +113,12 @@
 				{placeData}
 				placeName={currentName}
 				{location}
-				countyTableIntro={copy.countyTableIntro}
+				tableIntro={copy.tableIntro}
 				{countiesByDist}
 			/>
 			<p>{@html copy.help}</p>
+		{:else}
+			<p class="loading">loading...</p>
 		{/if}
 
 		<div class="share">
@@ -194,5 +198,9 @@
 		text-transform: uppercase;
 		font-weight: bold;
 		font-size: var(--16px) !important;
+	}
+
+	.loading {
+		text-align: center;
 	}
 </style>

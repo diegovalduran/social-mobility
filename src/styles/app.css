@@ -77,7 +77,7 @@ strong {
 }
 
 body {
-	background: url("assets/bg/a.png");
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAACgAgMAAADm7QMnAAAADFBMVEWHh4eysrKurq60tLTxWZFvAAAABHRSTlOAOBYpKphJMgAAAEVJREFUeNpjYA3FAA4Mq17tWrcalVhBtOBK7IL/McFfErSPWjRq0ahFoxaNWjRMLMJRoYzWR6MWjVo0atGoRaMWDYL6CAA67a9qtD47OgAAAABJRU5ErkJggg==);
 }
 
 table caption {
@@ -93,7 +93,7 @@ summary {
 }
 
 @media only screen and (min-width: 1280px) {
-	p, details, li, input, button {
+	p, details, li, input {
 		font-size: var(--20px) !important;
 	}
 }

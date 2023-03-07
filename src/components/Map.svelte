@@ -76,7 +76,7 @@
 	export let thresholdUpper = 0.75;
 	export let valueProp = "share";
 
-	export let countyTableIntro;
+	export let tableIntro;
 	export let countiesByDist = [];
 
 	function getLabel(d) {
@@ -469,6 +469,9 @@
 	colorToss={COLOR_TOSS.primary}
 	colorTossText={COLOR_TOSS.textPrimary}
 />
+
+<p class="table-intro">{@html tableIntro}</p>
+
 <PlaceTable
 	caption="Details for every place named {placeName}"
 	rows={placeRows}
@@ -476,7 +479,6 @@
 />
 
 <CountyTable
-	{countyTableIntro}
 	caption="The top scoring {plural} for each county"
 	rows={countyRows}
 	columns={countyColumns}
@@ -509,5 +511,10 @@
 	h2 {
 		margin: 32px auto;
 		text-align: center;
+	}
+
+	p.table-intro {
+		margin: 32px auto;
+		max-width: var(--col-width);
 	}
 </style>
