@@ -1,3 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12821,Lake Sherwood,CA,,city-us,1729,34.13,-118.88,7974
-12822,Lake Sherwood,WI,,city-us,398,44.21,-89.79,151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6495,Caledonia,WI,Racine County,,city-us,25229,42.808,-87.924,6707
+6487,Caledonia,IL,Boone County,,city-us,7259,42.371,-88.901,2674
+6496,Caledonia,MI,Shiawassee County,,city-us,4404,43.001,-84.103,2707
+6492,Caledonia,NY,Livingston County,,city-us,4071,42.959,-77.815,7120
+6502,Caledonia,WI,Waupaca County,,city-us,1705,44.294,-88.787,2102
+6491,Caledonia,MI,Kent County,,city-us,1686,42.789,-85.517,4057
+6489,Caledonia,WI,Columbia County,,city-us,1498,43.471,-89.548,2236
+6493,Caledonia,MS,Lowndes County,,city-us,1137,33.683,-88.324,3586
+6486,Caledonia,MI,Alcona County,,city-us,1040,44.827,-83.613,358
+6498,Caledonia,WI,Trempealeau County,,city-us,935,44.018,-91.359,1848
+6490,Caledonia,MN,Houston County,,city-us,633,43.628,-91.560,4586
+6494,Caledonia,OH,Marion County,,city-us,563,40.636,-82.969,3989
+6501,Caledonia,MO,Washington County,,city-us,133,37.763,-90.773,3894
+6497,Caledonia,ND,Traill County,,city-us,37,47.458,-96.889,1279
+6488,Caledonia,TX,Cherokee County,,city-us,0,31.924,-94.527,1116
+6499,Caledonia,KY,Trigg County,,city-us,0,36.820,-87.695,118
+6500,Caledonia,AR,Union County,,city-us,0,33.056,-92.654,215

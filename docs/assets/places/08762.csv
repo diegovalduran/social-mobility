@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46327,Zero,IA,,city-us,0,40.98,-93.13,1131
-46328,Zero,MS,,city-us,0,32.30,-88.65,520
-46329,Zero,MT,,city-us,0,46.67,-105.49,107
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43972,Uno,KY,Hart County,,city-us,0,37.189,-85.824,337
+43973,Uno,VA,Madison County,,city-us,0,38.259,-78.231,403
+43974,Uno,AR,Poinsett County,,city-us,0,35.649,-91.028,81
+43975,Uno,OH,Shelby County,,city-us,0,40.344,-84.266,247
+43976,Uno,WV,Wyoming County,,city-us,0,37.629,-81.737,177

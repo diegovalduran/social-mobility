@@ -1,5 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32420,Poole,,United Kingdom,city-international,144800,50.72,-1.98,45191
-32417,Poole,KY,,city-us,117,37.64,-87.65,341
-32418,Poole,NE,,city-us,15,40.98,-98.97,674
-32419,Pool,WV,,city-us,0,38.16,-80.86,494
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23161,Klondike,MD,Allegany County,,city-us,162,39.609,-78.963,477
+23160,Klondike,IL,Alexander County,,city-us,0,37.063,-89.232,187
+23162,Klondike,KS,Crawford County,,city-us,0,37.368,-94.760,231
+23163,Klondike,TX,Dawson County,,city-us,0,32.559,-101.957,219
+23164,Klondike,GA,DeKalb County,,city-us,0,33.646,-84.127,143
+23165,Klondike,TX,Delta County,,city-us,0,33.330,-95.758,2108
+23166,Klondike,GA,Hall County,,city-us,0,34.195,-83.778,170
+23167,Klondike,WI,Kenosha County,,city-us,0,42.590,-88.119,708
+23168,Klondike,PA,McKean County,,city-us,0,41.860,-78.800,212
+23169,Klondike,WV,Monongalia County,,city-us,0,39.634,-80.287,93
+23170,Klondike,WI,Oconto County,,city-us,0,45.068,-88.160,307
+23171,Klondike,OR,Sherman County,,city-us,0,45.583,-120.614,630
+23172,Klondike,MO,St. Charles County,,city-us,0,38.578,-90.843,494
+23173,Klondike,IN,Tippecanoe County,,city-us,0,40.468,-86.962,490

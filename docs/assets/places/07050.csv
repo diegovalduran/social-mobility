@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41291,Wintersville,OH,,city-us,3745,40.38,-80.70,4656
-41292,Wintersville,MO,,city-us,0,40.27,-93.33,378
-41293,Wintersville,PA,,city-us,0,40.42,-76.27,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35780,Raintown,IN,Hendricks County,,city-us,0,39.878,-86.510,269
+35781,Raintown,WV,Pocahontas County,,city-us,0,38.177,-80.230,249

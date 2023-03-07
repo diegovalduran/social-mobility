@@ -1,18 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1801,Cuba,,,country,10985974,21.52,-77.78,78998
-1787,Cuba,IL,,city-us,17222,42.20,-88.16,1915
-1790,Cuba,MO,,city-us,3163,38.06,-91.40,5853
-1793,Cuba,NY,,city-us,3131,42.21,-78.24,9951
-1786,Cuba,IL,,city-us,1156,40.49,-90.19,2360
-1792,Cuba,NM,,city-us,635,36.02,-106.96,2218
-1785,Cuba,AL,,city-us,306,32.43,-88.38,4335
-1789,Cuba,MN,,city-us,304,46.93,-96.11,2627
-1788,Cuba,KS,,city-us,139,39.80,-97.46,4197
-1791,Cuba,ND,,city-us,0,46.82,-97.86,84
-1794,Cuba,GA,,city-us,0,31.29,-84.86,285
-1795,Cuba,IN,,city-us,0,41.19,-84.94,410
-1796,Cuba,IN,,city-us,0,39.38,-86.80,1213
-1797,Cuba,KY,,city-us,0,36.59,-88.63,533
-1798,Cuba,OH,,city-us,0,41.05,-84.20,498
-1799,Cuba,OH,,city-us,0,41.05,-84.20,226
-1800,Cuba,WV,,city-us,0,38.99,-81.67,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+923,Amanda,OH,Allen County,,city-us,2026,40.735,-84.273,160
+925,Amanda,OH,Hancock County,,city-us,1063,40.955,-83.507,160
+924,Amanda,OH,Fairfield County,,city-us,675,39.650,-82.744,3502

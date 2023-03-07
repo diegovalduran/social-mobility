@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18212,Longwood,FL,,city-us,15110,28.70,-81.34,5935
-18213,Longwood,WI,,city-us,698,44.89,-90.60,1895
-18214,Longwood,MO,,city-us,0,38.90,-93.17,456
-18215,Longwood,NC,,city-us,0,34.00,-78.54,3472
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10391,Crocker,WA,Pierce County,,city-us,1230,47.091,-122.127,217
+10394,Crocker,MO,Pulaski County,,city-us,923,37.949,-92.264,5175
+10390,Crocker,SD,Clark County,,city-us,26,45.105,-97.785,499
+10392,Crocker,IA,Polk County,,city-us,0,41.775,-93.670,335
+10393,Crocker,IN,Porter County,,city-us,0,41.588,-87.122,450

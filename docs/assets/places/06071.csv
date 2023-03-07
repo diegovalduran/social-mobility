@@ -1,8 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38363,Middlesex,NJ,,city-us,14501,40.57,-74.49,14039
-38366,Middlesex,PA,,city-us,7078,40.25,-77.13,188
-38365,Middlesex,PA,,city-us,7054,40.71,-79.93,188
-38367,Middlesex,VT,,city-us,1774,44.32,-72.63,6744
-38364,Middlesex,NY,,city-us,1371,42.72,-77.29,4542
-38362,Middlesex,NC,,city-us,911,35.79,-78.20,2088
-38368,Middlesex,VA,,city-us,0,37.58,-75.81,181
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31103,Newtown,CT,Western Connecticut Planning Region,,city-us,27522,41.400,-73.294,17603
+31087,Newtown,PA,Delaware County,,city-us,15113,39.991,-75.411,391
+31093,Newtown,OH,Hamilton County,,city-us,2671,39.124,-84.362,4141
+31086,Newtown,PA,Bucks County,,city-us,2274,40.229,-74.937,9632
+31088,Newtown,SC,Dillon County,,city-us,882,34.407,-79.357,663
+31096,Newtown,IL,Livingston County,,city-us,666,41.064,-88.761,353
+31100,Newtown,PA,Schuylkill County,,city-us,230,40.651,-76.348,1632
+31091,Newtown,IN,Fountain County,,city-us,213,40.204,-87.148,3177
+31101,Newtown,MO,Sullivan County,,city-us,114,40.376,-93.335,3350
+31089,Newtown,CA,El Dorado County,,city-us,4,38.704,-120.679,518
+31085,Newtown,VA,Albemarle County,,city-us,0,38.046,-78.787,71
+31090,Newtown,WV,Fayette County,,city-us,0,37.996,-81.154,135
+31092,Newtown,VA,Greene County,,city-us,0,38.237,-78.337,101
+31094,Newtown,VA,King and Queen County,,city-us,0,37.913,-77.129,303
+31095,Newtown,VA,Lancaster County,,city-us,0,37.789,-76.484,92
+31097,Newtown,NJ,Middlesex County,,city-us,0,40.552,-74.461,123
+31098,Newtown,WV,Mingo County,,city-us,0,37.628,-82.086,262
+31099,Newtown,CA,Nevada County,,city-us,0,39.253,-121.103,275
+31102,Newtown,IL,Vermilion County,,city-us,0,40.167,-87.769,876

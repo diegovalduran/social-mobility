@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43814,Roby,TX,,city-us,594,32.74,-100.38,4975
-43815,Roby,IL,,city-us,0,39.74,-89.40,146
-43816,Roby,MO,,city-us,0,37.52,-92.14,440
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39634,Sherwood Forest,MD,Anne Arundel County,,city-us,0,39.028,-76.544,1947
+39635,Sherwood Forest,MD,Frederick County,,city-us,0,39.388,-77.236,94
+39636,Sherwood Forest,MD,Montgomery County,,city-us,0,39.079,-77.013,3123
+39637,Sherwood Forest,MD,Worcester County,,city-us,0,38.367,-75.151,161

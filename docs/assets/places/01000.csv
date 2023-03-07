@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10625,Valle Vista,CA,,city-us,19550,33.75,-116.89,4365
-10624,Valle Vista,AZ,,city-us,2746,35.41,-113.86,335
-10626,Valle Vista,NM,,city-us,778,35.58,-106.06,669
-10627,Valle Vista,TX,,city-us,699,26.32,-98.65,407
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5027,Bramble,MN,Koochiching County,,city-us,0,47.905,-93.165,953
+5028,Bramble,IN,Martin County,,city-us,0,38.779,-86.909,329

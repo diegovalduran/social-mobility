@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20483,Sunny Side,GA,,city-us,204,33.34,-84.29,1902
-20484,Sunny Side,MD,,city-us,0,39.34,-77.52,280
-20485,Sunny Side,TX,,city-us,0,29.89,-96.07,177
-20486,Sunny Side,VA,,city-us,0,37.48,-78.16,371
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12032,Dot,KY,Logan County,,city-us,0,36.678,-86.953,454
+12035,Dott,PA,Fulton County,,city-us,0,39.814,-78.189,107
+12036,Dott,WV,Mercer County,,city-us,0,37.469,-81.246,284

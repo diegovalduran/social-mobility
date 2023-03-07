@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28218,Sandoval,IL,,city-us,2192,38.60,-89.11,954
-28219,Sandoval,TX,,city-us,0,26.42,-99.08,464
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18613,Hamlet,NC,Richmond County,,city-us,6022,34.885,-79.694,10827
+18614,Hamlet,IN,Starke County,,city-us,765,41.548,-86.582,4521
+18612,Hamlet,ND,Renville County,,city-us,39,48.756,-101.683,211
+18608,Hamlet,NE,Hayes County,,city-us,30,40.385,-101.235,3109
+18610,Hamlet,IL,Mercer County,,city-us,21,41.314,-90.735,178
+18605,Hamlet,OR,Clatsop County,,city-us,0,45.846,-123.701,1130
+18606,Hamlet,OH,Clermont County,,city-us,0,39.019,-84.200,126
+18607,Hamlet,AR,Faulkner County,,city-us,0,35.078,-92.305,341
+18609,Hamlet,CA,Marin County,,city-us,0,38.208,-122.926,343
+18611,Hamlet,WV,Raleigh County,,city-us,0,37.828,-81.001,132
+18615,Hamlet,ND,Williams County,,city-us,0,48.629,-103.052,211

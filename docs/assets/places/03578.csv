@@ -1,23 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27698,Penn,PA,,city-us,17746,39.80,-76.96,1050
-27693,Penn,PA,,city-us,10233,40.19,-76.38,1050
-27689,Penn,PA,,city-us,5640,39.82,-75.87,1050
-27687,Penn,PA,,city-us,4926,40.79,-79.93,1050
-27696,Penn,PA,,city-us,4043,40.81,-76.90,1050
-27695,Penn,PA,,city-us,3119,40.35,-77.04,1050
-27691,Penn,PA,,city-us,2901,40.10,-77.34,1050
-27686,Penn,PA,,city-us,2129,40.43,-76.08,1050
-27682,Penn,MI,,city-us,1759,41.93,-85.93,2578
-27684,Penn,OH,,city-us,1551,39.29,-83.60,111
-27688,Penn,PA,,city-us,1212,40.86,-77.49,1050
-27690,Penn,PA,,city-us,1195,40.96,-78.64,1050
-27692,Penn,PA,,city-us,1075,40.38,-78.11,1050
-27694,Penn,PA,,city-us,896,41.28,-76.64,1050
-27685,Penn,OH,,city-us,645,39.58,-81.87,111
-27697,Penn,PA,,city-us,432,40.33,-79.64,1841
-27683,Penn,MN,,city-us,328,44.67,-94.31,1955
-27680,Penn,IL,,city-us,310,41.10,-89.69,329
-27681,Penn,KS,,city-us,134,39.43,-98.67,0
-27679,Penn,IL,,city-us,87,39.62,-88.87,267
-27699,Penn,ND,,city-us,0,48.22,-99.09,582
-27700,Penn,OR,,city-us,0,44.03,-123.53,678
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18222,Grovania,PA,Columbia County,,city-us,0,40.974,-76.525,247
+18223,Grovania,GA,Houston County,,city-us,0,32.366,-83.663,401

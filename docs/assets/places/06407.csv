@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39408,Hershey,PA,,city-us,14619,40.29,-76.65,9934
-39407,Hershey,NE,,city-us,645,41.16,-101.00,7054
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32682,Otter,KS,Cowley County,,city-us,33,37.160,-96.548,455
+32683,Otter,MT,Powder River County,,city-us,0,45.208,-106.202,1048
+32684,Otter,OH,Union County,,city-us,0,40.276,-83.419,450

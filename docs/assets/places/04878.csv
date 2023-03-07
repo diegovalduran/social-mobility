@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33826,Readfield,ME,,city-us,2611,44.38,-69.95,5807
-33827,Readfield,WI,,city-us,0,44.27,-88.77,2519
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26157,Lynnfield,MA,Essex County,,city-us,12955,42.534,-71.038,12053
+25090,Linfield,PA,Montgomery County,,city-us,0,40.210,-75.570,1163
+26158,Lynnfield,DE,New Castle County,,city-us,0,39.789,-75.508,1366

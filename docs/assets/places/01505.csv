@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14282,Signal Hill,CA,,city-us,11563,33.80,-118.17,12401
-14283,Signal Hill,IL,,city-us,0,38.58,-90.06,1189
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7529,Centennial,CO,Arapahoe County,,city-us,106966,39.579,-104.877,6852
+7528,Centennial,WY,Albany County,,city-us,344,41.298,-106.142,5405
+7530,Centennial,IN,Fountain County,,city-us,0,40.011,-87.243,301
+7531,Centennial,MI,Houghton County,,city-us,0,47.258,-88.429,106
+7532,Centennial,WV,Monroe County,,city-us,0,37.583,-80.329,154
+7533,Centennial,TX,Panola County,,city-us,0,32.226,-94.083,2847

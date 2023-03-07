@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19081,Bostwick,GA,,city-us,379,33.74,-83.51,2307
-19082,Bostwick,FL,,city-us,0,29.77,-81.64,348
-19083,Bostwick,NE,,city-us,0,40.05,-98.18,263
-19084,Bostwick,OH,,city-us,0,41.65,-81.08,283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11083,Davidson,NC,Iredell County / Mecklenburg County,,city-us,15132,35.481,-80.821,13333
+11084,Davidson,PA,Sullivan County,,city-us,547,41.328,-76.438,2200
+11085,Davidson,OK,Tillman County,,city-us,249,34.241,-99.076,2930
+11082,Davidson,IN,Harrison County,,city-us,0,37.968,-86.047,232

@@ -1,11 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15435,Holly,MI,,city-us,5958,42.79,-83.63,6037
-15437,Holley,NY,,city-us,1725,43.23,-78.03,3886
-15434,Holley,FL,,city-us,1630,30.45,-86.91,873
-15433,Holly,CO,,city-us,840,38.05,-102.12,3896
-15438,Holley,OR,,city-us,390,44.35,-122.78,330
-15436,Holly,MN,,city-us,93,44.15,-95.52,2176
-15439,Holley,GA,,city-us,0,34.66,-84.83,309
-15440,Holly,TX,,city-us,0,31.13,-95.34,277
-15441,Holly,WA,,city-us,0,47.56,-122.98,545
-15442,Holly,WV,,city-us,0,38.06,-81.44,115
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8422,Circleville,OH,Pickaway County,,city-us,2560,39.636,-82.923,1267
+8423,Circleville,UT,Piute County,,city-us,550,38.172,-112.270,4875
+8420,Circleville,KS,Jackson County,,city-us,155,39.508,-95.859,3626
+8421,Circleville,WV,Pendleton County,,city-us,0,38.671,-79.491,598
+8424,Circleville,IN,Rush County,,city-us,0,39.600,-85.439,162
+38895,Scircleville,IN,Clinton County,,city-us,0,40.288,-86.300,610

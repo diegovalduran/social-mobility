@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11784,Discovery Bay,CA,,city-us,15704,37.91,-121.60,7002
-11785,Discovery Bay,WA,,city-us,0,47.99,-122.89,7890
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5767,Brussels,,,Belgium,city-international,1743000,50.835,4.331,82716
+5766,Brussels,WI,Door County,,city-us,1136,44.736,-87.621,4175
+5765,Brussels,IL,Calhoun County,,city-us,114,38.949,-90.589,3432

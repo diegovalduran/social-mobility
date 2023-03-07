@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40787,Bratton,OH,,city-us,1387,39.01,-83.44,1412
-40788,Bratton,PA,,city-us,1192,40.49,-77.67,1842
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35003,Port Washington,NY,Nassau County,,city-us,16807,40.826,-73.698,12691
+35004,Port Washington,WI,Ozaukee County,,city-us,1556,43.427,-87.880,29061
+35005,Port Washington,OH,Tuscarawas County,,city-us,546,40.328,-81.521,3410

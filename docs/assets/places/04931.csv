@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34080,Bohemia,NY,,city-us,9504,40.77,-73.12,8619
-34079,Bohemia,NE,,city-us,150,41.41,-96.84,204
-34077,Bohemia,MI,,city-us,72,46.83,-88.94,2012
-34078,Bohemia,NE,,city-us,42,42.65,-98.13,204
-34081,Bohemia,LA,,city-us,0,29.54,-89.76,698
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25339,Lockhart,TX,Caldwell County,,city-us,14844,29.885,-97.670,6978
+25343,Lockhart,FL,Orange County,,city-us,14390,28.619,-81.443,2080
+25340,Lockhart,AL,Covington County,,city-us,445,31.010,-86.350,4267
+25344,Lockhart,SC,Union County,,city-us,378,34.787,-81.462,2184
+25341,Lockhart,WV,Jackson County,,city-us,0,38.965,-81.615,241
+25342,Lockhart,MN,Norman County,,city-us,0,47.440,-96.551,449

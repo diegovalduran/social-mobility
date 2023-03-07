@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36229,Mountain Lake,NJ,,city-us,571,40.86,-74.99,483
-36228,Mountain Lake,MN,,city-us,299,43.88,-94.91,7003
-36230,Mountain Lake,FL,,city-us,0,28.48,-82.31,1473
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27918,Mendoza,,,Argentina,city-international,114822,-32.883,-68.833,12186
+27917,Mendoza,TX,Caldwell County,,city-us,0,30.005,-97.686,2304

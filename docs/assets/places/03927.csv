@@ -1,11 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29707,Hobart,,Australia,city-international,222356,-42.88,147.32,40841
-29698,Hobart,IN,,city-us,29521,41.53,-87.26,8735
-29704,Hobart,WI,,city-us,10351,44.50,-88.15,4994
-29703,Hobart,WA,,city-us,7201,47.42,-121.97,3577
-29702,Hobart,OK,,city-us,3376,35.03,-99.09,4750
-29706,Hobart,MI,,city-us,2467,44.20,-85.41,2979
-29699,Hobart,MN,,city-us,802,46.68,-95.75,1840
-29701,Hobart,NY,,city-us,397,42.37,-74.67,3031
-29700,Hobart,ND,,city-us,145,46.94,-98.12,131
-29705,Hobart,LA,,city-us,0,30.32,-90.94,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20076,Hilliards,MI,Allegan County,,city-us,2601,42.639,-85.724,3225
+20077,Hilliards,PA,Butler County,,city-us,0,41.086,-79.833,1305

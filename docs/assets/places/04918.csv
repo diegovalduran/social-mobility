@@ -1,11 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34010,Bellaire,TX,,city-us,16983,29.71,-95.46,37314
-34009,Bellaire,OH,,city-us,3837,40.02,-80.74,12293
-34008,Bellaire,MI,,city-us,1014,44.98,-85.21,4770
-34011,Bellaire,AR,,city-us,0,33.50,-91.36,116
-34012,Bellair,FL,,city-us,0,30.18,-81.74,80
-34013,Bellair,IL,,city-us,0,39.14,-87.95,127
-34014,Bellaire,KS,,city-us,0,39.80,-98.68,519
-34015,Bellaire,MN,,city-us,0,45.07,-92.99,321
-34016,Bellair,MO,,city-us,0,38.83,-92.84,374
-34017,Bellair,VA,,city-us,0,38.04,-78.53,71
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25273,Livermore,CA,Alameda County,,city-us,86803,37.682,-121.768,42684
+25274,Livermore,ME,Androscoggin County,,city-us,2167,44.412,-70.216,10825
+25277,Livermore,KY,McLean County,,city-us,1221,37.493,-87.132,4291
+25275,Livermore,IA,Humboldt County,,city-us,385,42.869,-94.185,5499
+25276,Livermore,CO,Larimer County,,city-us,0,40.794,-105.217,448

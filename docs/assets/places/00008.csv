@@ -1,5 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-145,Birch Creek,WI,,city-us,503,45.25,-91.22,2540
-144,Birch Creek,MN,,city-us,230,46.38,-93.01,1849
-143,Birch Creek,AK,,city-us,3,66.26,-145.82,2109
-146,Birch Creek,MI,,city-us,0,45.20,-87.61,313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45,Aberdeen,,,United Kingdom,city-international,200680,57.150,-2.110,57023
+39,Aberdeen,NJ,Monmouth County,,city-us,19327,40.430,-74.225,19995
+36,Aberdeen,WA,Grays Harbor County,,city-us,17191,46.975,-123.816,13818
+37,Aberdeen,MD,Harford County,,city-us,16889,39.510,-76.164,12633
+42,Aberdeen,NC,Moore County,,city-us,9036,35.132,-79.429,4484
+41,Aberdeen,MS,Monroe County,,city-us,4856,33.825,-88.544,6913
+44,Aberdeen,IN,Porter County,,city-us,1955,41.439,-87.111,472
+31,Aberdeen,ID,Bingham County,,city-us,1797,42.944,-112.838,3975
+32,Aberdeen,OH,Brown County,,city-us,1517,38.656,-83.761,3653
+33,Aberdeen,SD,Brown County,,city-us,896,45.454,-98.521,128
+34,Aberdeen,KY,Butler County,,city-us,0,37.254,-86.682,679
+35,Aberdeen,TX,Collingsworth County,,city-us,0,35.038,-100.149,213
+38,Aberdeen,WV,Lewis County,,city-us,0,39.058,-80.316,109
+40,Aberdeen,AR,Monroe County,,city-us,0,34.603,-91.342,919
+43,Aberdeen,IN,Ohio County,,city-us,0,38.905,-84.987,486

@@ -1,5 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18441,Pinecrest,FL,,city-us,17987,25.67,-80.31,9090
-18442,Pinecrest,CA,,city-us,0,39.16,-120.97,211
-18443,Pinecrest,CA,,city-us,0,38.19,-119.99,2407
-18444,Pinecrest,FL,,city-us,0,27.85,-82.15,896
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10594,Crystal Lake,IL,McHenry County,,city-us,40411,42.241,-88.316,31021
+10596,Crystal Lake,FL,Polk County,,city-us,5862,28.036,-81.908,2163
+10591,Crystal Lake,CT,Capitol Planning Region,,city-us,2421,41.933,-72.381,2341
+10590,Crystal Lake,MI,Benzie County,,city-us,1076,44.638,-86.188,2237
+10589,Crystal Lake,WI,Barron County,,city-us,749,45.510,-92.098,2252
+10593,Crystal Lake,WI,Marquette County,,city-us,464,43.949,-89.303,1991
+10592,Crystal Lake,IA,Hancock County,,city-us,250,43.223,-93.792,3278
+10588,Crystal Lake,SD,Aurora County,,city-us,42,43.635,-98.604,0
+10598,Crystal Lake,ND,Wells County,,city-us,31,47.548,-99.973,0
+10587,Crystal Lake,TX,Anderson County,,city-us,0,31.690,-95.505,1089
+10595,Crystal Lake,CA,Nevada County,,city-us,0,39.323,-120.570,267
+10597,Crystal Lake,FL,Washington County,,city-us,0,30.444,-85.689,216

@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31426,Menoken,KS,,city-us,1628,39.14,-95.77,0
-31427,Menoken,ND,,city-us,72,46.82,-100.53,1430
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22145,Jerusalem,,,Israel,city-international,919438,31.783,35.217,89417
+22144,Jerusalem,NY,Yates County,,city-us,4370,42.613,-77.158,4779
+22143,Jerusalem,MI,Washtenaw County,,city-us,3307,42.299,-83.966,3554
+22141,Jerusalem,OH,Lucas County,,city-us,2907,41.739,-83.106,2094
+22139,Jerusalem,AR,Conway County,,city-us,137,35.405,-92.817,929
+22142,Jerusalem,OH,Monroe County,,city-us,125,39.852,-81.092,2923
+22140,Jerusalem,MD,Harford County,,city-us,0,39.463,-76.389,358

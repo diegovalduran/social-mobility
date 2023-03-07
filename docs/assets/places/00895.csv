@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10004,Cutter,WI,,city-us,1240,46.63,-91.96,2367
-10003,Cutter,AZ,,city-us,178,33.35,-110.65,338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4544,Bluewater,AZ,La Paz County,,city-us,802,34.169,-114.265,2195
+4546,Bluewater,NM,McKinley County,,city-us,194,35.315,-108.176,745
+4547,Bluewater,CA,San Bernardino County,,city-us,141,34.174,-114.271,4092
+4545,Bluewater,NM,Lincoln County,,city-us,0,33.558,-105.186,126

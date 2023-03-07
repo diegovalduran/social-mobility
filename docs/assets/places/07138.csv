@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41583,Ringling,OK,,city-us,882,34.18,-97.59,2847
-41584,Ringling,MT,,city-us,0,46.27,-110.81,1843
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36166,Redland,MD,Montgomery County,,city-us,17965,39.145,-77.144,2204
+36165,Redland,FL,Miami-Dade County,,city-us,10138,25.528,-80.490,17968
+36164,Redland,AL,Elmore County,,city-us,5301,32.481,-86.144,180
+36162,Redland,TX,Angelina County,,city-us,1319,31.404,-94.721,539
+36161,Redland,VA,Albemarle County,,city-us,0,37.954,-78.529,71
+36163,Redland,OR,Clackamas County,,city-us,0,45.342,-122.491,450
+36167,Redland,OK,Sequoyah County,,city-us,0,35.305,-94.624,234

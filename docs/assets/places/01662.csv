@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15394,Grand Lake,MN,,city-us,2700,46.93,-92.36,3933
-15393,Grand Lake,CO,,city-us,410,40.25,-105.82,7662
-15395,Grand Lake,AR,,city-us,0,33.09,-91.21,386
-15396,Grand Lake,LA,,city-us,0,30.02,-93.19,5660
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8387,Churchtown,PA,Lancaster County,,city-us,307,40.133,-75.965,956
+8388,Churchtown,NJ,Salem County,,city-us,0,39.672,-75.510,349
+8389,Churchtown,OH,Washington County,,city-us,0,39.467,-81.548,271

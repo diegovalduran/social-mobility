@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15992,Sunshine,NM,,city-us,408,32.14,-107.75,419
-15991,Sunshine,CO,,city-us,210,40.07,-105.37,1233
-15993,Sunshine,AR,,city-us,0,33.19,-91.53,173
-15994,Sunshine,AR,,city-us,0,34.47,-93.24,282
-15995,Sunshine,KY,,city-us,0,38.71,-82.95,93
-15996,Sunshine,KY,,city-us,0,36.84,-83.33,111
-15997,Sunshine,TX,,city-us,0,31.86,-98.14,83
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9073,Coahoma,TX,Howard County,,city-us,914,32.297,-101.306,2267
+9072,Coahoma,MS,Coahoma County,,city-us,223,34.367,-90.523,2687

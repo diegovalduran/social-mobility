@@ -1,3 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36589,Sobieski,WI,,city-us,281,44.72,-88.07,670
-36588,Sobieski,MN,,city-us,212,45.92,-94.46,3864
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28569,Miller,MI,St. Clair County,,city-us,9066,42.611,-82.592,4157
+28558,Miller,OH,Knox County,,city-us,1060,40.305,-82.528,1415
+28566,Miller,PA,Perry County,,city-us,966,40.455,-77.087,178
+28560,Miller,MO,Lawrence County,,city-us,707,37.215,-93.840,3663
+28559,Miller,IL,LaSalle County,,city-us,584,41.409,-88.643,453
+28561,Miller,OH,Lawrence County,,city-us,556,38.537,-82.302,621
+28556,Miller,PA,Huntingdon County,,city-us,456,40.575,-77.871,178
+28553,Miller,MO,Gentry County,,city-us,443,40.103,-94.326,145
+28563,Miller,SD,Marshall County,,city-us,194,45.812,-97.800,3917
+28555,Miller,SD,Hand County,,city-us,184,44.496,-99.013,145
+28557,Miller,NE,Knox County,,city-us,154,42.474,-98.004,291
+28551,Miller,NE,Buffalo County,,city-us,131,40.928,-99.393,3126
+28554,Miller,IA,Hancock County,,city-us,40,43.184,-93.600,475
+28552,Miller,KY,Fulton County,,city-us,0,36.518,-89.339,82
+28562,Miller,KS,Lyon County,,city-us,0,38.634,-95.991,754
+28564,Miller,IN,Morgan County,,city-us,0,39.621,-86.282,152
+28565,Miller,KY,Perry County,,city-us,0,37.387,-83.242,89
+28567,Miller,OK,Pushmataha County,,city-us,0,34.316,-95.745,1589
+28568,Miller,OR,Sherman County,,city-us,0,45.640,-120.893,278

@@ -1,11 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27943,Ramsey,MN,,city-us,28202,45.26,-93.45,3760
-27944,Ramsey,NJ,,city-us,14693,41.06,-74.14,21435
-27942,Ramsay,MI,,city-us,1176,46.42,-90.00,3395
-27940,Ramsey,IL,,city-us,948,39.14,-89.11,2444
-27945,Ramsey,SD,,city-us,99,43.80,-97.19,0
-27941,Ramsey,IN,,city-us,0,38.32,-86.15,461
-27946,Ramsey,MN,,city-us,0,43.71,-92.97,257
-27947,Ramsey,OH,,city-us,0,40.19,-80.83,232
-27948,Ramsey,VA,,city-us,0,37.85,-78.96,100
-27949,Ramsey,WV,,city-us,0,38.17,-81.03,232
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18382,Hackett,AR,Sebastian County,,city-us,810,35.190,-94.411,2629
+18381,Hackett,WI,Price County,,city-us,187,45.605,-90.273,1941
+18380,Hackett,MN,Lake of the Woods County,,city-us,0,48.816,-94.719,459

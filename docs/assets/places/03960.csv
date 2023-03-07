@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29850,Linton,IN,,city-us,5147,39.03,-87.17,7632
-29851,Linton,ND,,city-us,1058,46.27,-100.23,9064
-29853,Linton,OH,,city-us,628,40.18,-81.76,1390
-29852,Linton,ND,,city-us,24,48.07,-101.75,9064
-29854,Linton,GA,,city-us,0,33.12,-82.99,294
-29855,Linton,KY,,city-us,0,36.69,-87.92,113
-29856,Linton,WI,,city-us,0,42.53,-88.50,111
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20258,Hoboken,NJ,Hudson County,,city-us,58690,40.744,-74.032,48193
+20257,Hoboken,GA,Brantley County,,city-us,483,31.181,-82.135,3078
+20259,Hoboken,AL,Marengo County,,city-us,0,32.026,-87.877,227

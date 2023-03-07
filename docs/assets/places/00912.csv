@@ -1,18 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10124,Green Valley,AZ,,city-us,20729,31.85,-110.99,8019
-10128,Green Valley,MD,,city-us,12999,39.31,-77.30,2604
-10126,Green Valley,CA,,city-us,1672,38.25,-122.16,4270
-10132,Green Valley,SD,,city-us,1184,44.04,-103.11,1888
-10125,Green Valley,CA,,city-us,993,34.62,-118.41,3517
-10127,Green Valley,IL,,city-us,622,40.41,-89.64,1897
-10133,Green Valley,WI,,city-us,516,44.73,-89.90,1793
-10129,Green Valley,MN,,city-us,350,46.84,-95.23,2678
-10134,Green Valley,WI,,city-us,72,44.80,-88.27,2043
-10130,Green Valley,NE,,city-us,70,42.44,-99.12,249
-10131,Green Valley,SD,,city-us,42,44.07,-97.67,1888
-10135,Green Valley,MN,,city-us,0,44.53,-95.76,591
-10136,Green Valley,OH,,city-us,0,40.42,-82.58,218
-10137,Green Valley,VA,,city-us,0,38.08,-79.60,95
-10138,Green Valley,WV,,city-us,0,38.36,-81.79,142
-10139,Green Valley,WV,,city-us,0,37.31,-81.14,185
-10140,Green Valley,WV,,city-us,0,38.10,-80.70,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4615,Bogota,,,Colombia,city-international,7743955,4.613,-74.070,75209
+4612,Bogota,NJ,Bergen County,,city-us,9194,40.876,-74.030,17149
+4613,Bogota,TN,Dyer County,,city-us,0,36.164,-89.438,944
+4614,Bogota,IL,Jasper County,,city-us,0,38.918,-88.240,172

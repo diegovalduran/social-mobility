@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15104,Crook,IL,,city-us,286,38.08,-88.43,1277
-15103,Crook,CO,,city-us,129,40.86,-102.80,2419
-15105,Crook,MO,,city-us,0,38.55,-91.78,294
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8256,Chicopee,MA,Hampden County,,city-us,55190,42.149,-72.608,28379
+8254,Chicopee,KS,Crawford County,,city-us,344,37.382,-94.742,836
+8253,Chicopee,MO,Carter County,,city-us,0,36.985,-91.006,397
+8255,Chicopee,GA,Hall County,,city-us,0,34.253,-83.844,988

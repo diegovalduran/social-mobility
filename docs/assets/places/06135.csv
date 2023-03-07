@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38542,Addie,ND,,city-us,46,47.54,-98.30,349
-38543,Addy,WA,,city-us,0,48.36,-117.84,1738
-38544,Addie,NC,,city-us,0,35.41,-83.16,826
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31351,North Caldwell,NJ,Essex County,,city-us,6625,40.865,-74.258,13537
+31352,North Caldwell,WV,Greenbrier County,,city-us,0,37.784,-80.401,229

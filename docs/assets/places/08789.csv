@@ -1,4 +1,36 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46396,Saunders,WI,,city-us,2058,46.64,-92.11,3684
-46394,Saunders,KS,,city-us,0,37.47,-102.04,135
-46395,Saunders,WV,,city-us,0,37.80,-81.67,233
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44106,Valley,AL,Chambers County,,city-us,10513,32.819,-85.179,4146
+44107,Valley,PA,Chester County,,city-us,7954,39.986,-75.850,228
+44117,Valley,NJ,Hunterdon County,,city-us,3979,40.665,-75.012,14315
+44131,Valley,OH,Scioto County,,city-us,3467,38.899,-82.992,117
+44111,Valley,NE,Douglas County,,city-us,3074,41.313,-96.346,4159
+44101,Valley,MI,Allegan County,,city-us,2221,42.548,-85.930,1875
+44126,Valley,PA,Montour County,,city-us,2132,41.006,-76.635,228
+44114,Valley,OH,Guernsey County,,city-us,2024,39.921,-81.568,117
+44134,Valley,WA,Stevens County,,city-us,1915,48.175,-117.725,1622
+44125,Valley,KS,Miami County,,city-us,1319,38.524,-94.855,6226
+44129,Valley,KS,Reno County,,city-us,836,38.009,-97.751,6226
+44102,Valley,PA,Armstrong County,,city-us,649,40.826,-79.414,228
+44104,Valley,ND,Barnes County,,city-us,522,46.957,-97.960,131
+44113,Valley,KS,Ellsworth County,,city-us,488,38.558,-98.434,383
+44133,Valley,IL,Stark County,,city-us,265,41.018,-89.696,269
+44105,Valley,SD,Beadle County,,city-us,250,44.420,-98.125,0
+44130,Valley,KS,Rice County,,city-us,202,38.208,-98.298,119
+44118,Valley,SD,Hutchinson County,,city-us,170,43.299,-97.460,0
+44122,Valley,NE,Knox County,,city-us,146,42.568,-97.896,300
+44124,Valley,MN,Marshall County,,city-us,132,48.324,-95.658,1771
+44112,Valley,SD,Douglas County,,city-us,131,43.370,-98.285,0
+44103,Valley,KS,Barber County,,city-us,124,37.412,-98.513,424
+44123,Valley,KS,Linn County,,city-us,104,38.262,-94.691,6226
+44121,Valley,KS,Kingman County,,city-us,84,37.428,-98.081,904
+44132,Valley,KS,Smith County,,city-us,63,39.691,-99.001,6226
+44135,Valley,SD,Tripp County,,city-us,56,43.032,-99.576,0
+44109,Valley,SD,Day County,,city-us,41,45.276,-97.787,0
+44116,Valley,KS,Hodgeman County,,city-us,41,38.204,-99.902,347
+44120,Valley,ND,Kidder County,,city-us,40,46.748,-99.648,0
+44127,Valley,KS,Osborne County,,city-us,36,39.179,-98.768,6226
+44128,Valley,KS,Phillips County,,city-us,25,39.612,-99.120,6226
+44110,Valley,ND,Dickey County,,city-us,23,46.241,-98.566,0
+44119,Valley,SD,Hyde County,,city-us,12,44.656,-99.585,0
+44108,Valley,OH,Columbiana County,,city-us,0,40.866,-80.948,368
+44115,Valley,WV,Hampshire County,,city-us,0,39.349,-78.760,7624

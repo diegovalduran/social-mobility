@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22666,Nevada,,United States,state,3177772,38.50,-117.02,57956
-22662,Nevada,MO,,city-us,8198,37.84,-94.35,9611
-22658,Nevada,IA,,city-us,7057,42.02,-93.45,7894
-22664,Nevada,TX,,city-us,1331,33.04,-96.37,1635
-22663,Nevada,OH,,city-us,702,40.82,-83.13,3291
-22660,Nevada,KS,,city-us,355,38.63,-99.91,0
-22661,Nevada,MN,,city-us,343,43.54,-92.87,2791
-22659,Nevada,IL,,city-us,0,41.09,-88.55,370
-22665,Nevada,IN,,city-us,0,40.40,-86.00,866
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13642,Emerick,NE,Madison County,,city-us,0,41.902,-97.737,257
+13677,Emmerich,WI,Marathon County,,city-us,0,45.091,-89.829,184

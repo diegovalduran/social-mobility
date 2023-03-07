@@ -1,8 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28999,Western,IL,,city-us,2914,41.37,-90.38,1406
-29005,Western,NY,,city-us,1807,43.35,-75.41,4668
-29004,Western,NE,,city-us,220,40.39,-97.20,3115
-29001,Western,MN,,city-us,120,46.15,-96.20,1855
-29002,Western,ND,,city-us,78,47.71,-99.99,0
-29003,Western,NE,,city-us,51,42.71,-98.25,238
-29000,Western,KS,,city-us,47,38.88,-101.40,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19395,Hayfield,VA,Fairfax County,,city-us,4348,38.752,-77.136,928
+19393,Hayfield,PA,Crawford County,,city-us,2762,41.711,-80.204,3257
+19394,Hayfield,MN,Dodge County,,city-us,480,43.891,-92.861,1888
+19397,Hayfield,IA,Hancock County,,city-us,60,43.177,-93.695,431
+19396,Hayfield,VA,Frederick County,,city-us,0,39.234,-78.290,441

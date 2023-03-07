@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37931,Charlo,MT,,city-us,249,47.44,-114.17,3693
-37932,Charloe,OH,,city-us,0,41.13,-84.43,571
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30500,New Alexandria,PA,Westmoreland County,,city-us,493,40.399,-79.422,2194
+30499,New Alexandria,OH,Jefferson County,,city-us,228,40.291,-80.679,4758
+30498,New Alexandria,VA,Fairfax County,,city-us,0,38.776,-77.057,225

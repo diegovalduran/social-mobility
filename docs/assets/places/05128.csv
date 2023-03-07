@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35011,Rives,MI,,city-us,4788,42.37,-84.42,3082
-35013,Rives,TN,,city-us,242,36.36,-89.05,1892
-35012,Rives,MO,,city-us,40,36.09,-90.01,3021
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26297,Madan,,,Iran,city-international,370180,30.331,48.280,1341
+26437,Maiden,NC,Catawba County / Lincoln County,,city-us,3726,35.571,-81.207,3931

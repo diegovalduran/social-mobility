@@ -1,13 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6085,Cache,OK,,city-us,2993,34.63,-98.63,3404
-6093,Cash,MI,,city-us,1376,43.37,-82.82,3207
-6086,Cash,SC,,city-us,445,34.62,-79.88,593
-6083,Cash,AR,,city-us,281,35.79,-90.94,2440
-6088,Cache,UT,,city-us,106,41.83,-112.01,1850
-6084,Cash,ND,,city-us,36,46.32,-103.49,0
-6087,Cash,SD,,city-us,16,45.60,-102.63,134
-6089,Cash,GA,,city-us,0,34.49,-84.82,370
-6090,Cache,ID,,city-us,0,43.79,-111.16,350
-6091,Cache,IL,,city-us,0,37.10,-89.26,531
-6092,Cash,KY,,city-us,0,37.44,-86.00,217
-6094,Cash,TX,,city-us,0,32.99,-96.11,1536
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2775,Bayou Meto,AR,Arkansas County,,city-us,0,34.224,-91.521,314
+2776,Bayou Meto,AR,Lonoke County,,city-us,0,34.709,-91.871,128

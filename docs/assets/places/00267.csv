@@ -1,13 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3035,Holt,MI,,city-us,25625,42.64,-84.52,3718
-3034,Holt,AL,,city-us,3413,33.23,-87.49,4063
-3038,Holt,MO,,city-us,469,39.45,-94.34,3817
-3039,Holt,NE,,city-us,458,40.39,-96.74,258
-3036,Holt,MN,,city-us,241,43.70,-91.90,198
-3037,Holt,MN,,city-us,91,48.29,-96.19,2693
-3040,Holt,CA,,city-us,0,37.93,-121.43,543
-3041,Holt,FL,,city-us,0,30.72,-86.75,398
-3042,Holt,KY,,city-us,0,37.91,-86.58,1048
-3043,Holt,KY,,city-us,0,37.26,-87.10,225
-3044,Holt,OH,,city-us,0,40.51,-80.75,481
-3045,Holt,WI,,city-us,0,44.72,-89.33,200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1399,Ardsley,NY,Westchester County,,city-us,5006,41.011,-73.844,8261
+1398,Ardsley,PA,Montgomery County,,city-us,0,40.121,-75.155,1574

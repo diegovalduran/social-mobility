@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39395,Gross,NE,,city-us,3,42.95,-98.57,2463
-39396,Gross,IL,,city-us,0,37.53,-88.29,114
-39397,Gross,KS,,city-us,0,37.60,-94.73,435
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32661,Otisville,NY,Orange County,,city-us,1016,41.473,-74.538,3005
+32660,Otisville,MI,Genesee County,,city-us,814,43.166,-83.524,3803

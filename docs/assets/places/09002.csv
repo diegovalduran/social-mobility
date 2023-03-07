@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46916,Snowshoe,WV,,city-us,163,38.41,-80.01,2592
-46915,Snowshoe,MI,,city-us,76,47.24,-88.23,2663
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45149,Warner,OK,Muskogee County,,city-us,1556,35.494,-95.306,3091
+45147,Warner,WI,Clark County,,city-us,629,44.811,-90.617,1934
+45146,Warner,SD,Brown County,,city-us,523,45.334,-98.529,3771
+45148,Warner,NH,Merrimack County,,city-us,423,43.281,-71.817,7885
+45145,Warner,MI,Antrim County,,city-us,366,45.068,-84.930,1844
+45150,Warner,OH,Washington County,,city-us,0,39.563,-81.418,213

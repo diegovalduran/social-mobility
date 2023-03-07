@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37360,Montgomery City,MO,,city-us,2822,38.98,-91.50,4151
-37361,Montgomery City,CA,,city-us,0,37.83,-118.43,162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29745,Mount Clare,IL,Macoupin County,,city-us,306,39.099,-89.826,2278
+29744,Mount Clare,WV,Harrison County,,city-us,0,39.215,-80.346,328
+29746,Mount Clare,NE,Nuckolls County,,city-us,0,40.183,-98.218,360

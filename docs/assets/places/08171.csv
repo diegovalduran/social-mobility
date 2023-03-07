@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44832,Ewell,AL,,city-us,0,31.42,-85.57,285
-44833,Ewell,KS,,city-us,0,37.34,-97.69,594
-44834,Ewell,MD,,city-us,0,38.00,-76.03,107
-44835,Ewell,VA,,city-us,0,37.33,-76.74,2394
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41353,Staunton,VA,Staunton city,,city-us,25661,38.150,-79.072,26496
+41351,Staunton,IL,Macoupin County,,city-us,5433,39.020,-89.753,593
+41352,Staunton,OH,Miami County,,city-us,2432,40.070,-84.185,1216
+41349,Staunton,IN,Clay County,,city-us,471,39.488,-87.189,3540
+41350,Staunton,OH,Fayette County,,city-us,0,39.475,-83.483,307

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35612,Cologne,,Germany,city-international,1083498,50.94,6.96,53711
-35609,Cologne,MN,,city-us,2075,44.77,-93.78,4058
-35610,Cologne,NJ,,city-us,1461,39.50,-74.61,250
-35611,Cologne,VA,,city-us,0,37.53,-76.69,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27075,Martha,NJ,Burlington County,,city-us,1355,39.658,-74.448,13084
+27076,Martha,OK,Jackson County,,city-us,162,34.725,-99.387,1849
+27077,Martha,KY,Lawrence County,,city-us,0,38.009,-82.913,117
+27078,Martha,TN,Wilson County,,city-us,0,36.230,-86.427,279

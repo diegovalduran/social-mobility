@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10893,Arbuckle,CA,,city-us,3325,39.02,-122.06,5553
-10894,Arbuckle,PA,,city-us,0,41.98,-79.86,86
-10895,Arbuckle,WV,,city-us,0,38.71,-81.95,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5157,Brenton,IL,Ford County,,city-us,862,40.717,-88.180,1097
+5158,Brenton,WV,Wyoming County,,city-us,82,37.596,-81.636,228

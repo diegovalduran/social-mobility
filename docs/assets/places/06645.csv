@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40177,Tatum,TX,,city-us,1340,32.32,-94.52,4936
-40175,Tatum,NM,,city-us,697,33.26,-103.32,2463
-40176,Tatum,SC,,city-us,74,34.64,-79.59,1940
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33818,Petersville,ND,Kidder County,,city-us,17,47.180,-99.555,0
+33815,Petersville,IN,Bartholomew County,,city-us,0,39.224,-85.820,337
+33816,Petersville,IA,Clinton County,,city-us,0,41.968,-90.534,416
+33817,Petersville,MD,Frederick County,,city-us,0,39.346,-77.611,5753
+33819,Petersville,AK,Matanuska-Susitna Borough,,city-us,0,62.496,-150.766,2555
+33820,Petersville,IL,Mercer County,,city-us,0,41.279,-90.939,194

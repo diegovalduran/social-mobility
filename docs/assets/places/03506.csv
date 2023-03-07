@@ -1,5 +1,48 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27250,Nebraska,,United States,state,1967923,41.50,-99.68,37410
-27247,Nebraska,IL,,city-us,1287,40.88,-88.88,290
-27248,Nebraska,IN,,city-us,0,39.06,-85.46,303
-27249,Nebraska,NC,,city-us,0,35.46,-76.06,383
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17790,Green,OH,Hamilton County,,city-us,59844,39.165,-84.642,1164
+17804,Green,OH,Summit County,,city-us,27337,40.946,-81.483,7069
+17927,Greene,PA,Franklin County,,city-us,18393,39.956,-77.568,643
+17806,Green,OH,Wayne County,,city-us,12305,40.855,-81.818,1164
+17785,Green,OR,Douglas County,,city-us,7614,43.160,-123.368,3119
+17789,Green,OH,Gallia County,,city-us,5415,38.810,-82.279,1164
+17800,Green,OH,Ross County,,city-us,5215,39.433,-82.923,1164
+17924,Greene,NY,Chenango County,,city-us,5215,42.308,-75.754,5792
+17926,Greene,PA,Erie County,,city-us,4461,42.053,-79.949,643
+17802,Green,OH,Scioto County,,city-us,4076,38.639,-82.806,1164
+17779,Green,OH,Ashland County,,city-us,3711,40.685,-82.282,1164
+17805,Green,NJ,Sussex County,,city-us,3651,40.974,-74.803,12780
+17781,Green,OH,Brown County,,city-us,3597,39.075,-83.903,1164
+17933,Greene,PA,Pike County,,city-us,3526,41.305,-75.246,643
+17793,Green,PA,Indiana County,,city-us,3445,40.689,-78.901,403
+17795,Green,OH,Mahoning County,,city-us,3367,40.951,-80.797,1164
+17792,Green,OH,Hocking County,,city-us,3252,39.511,-82.338,1164
+17796,Green,MI,Mecosta County,,city-us,3113,43.773,-85.500,3465
+17782,Green,OH,Clark County,,city-us,2680,39.835,-83.781,1164
+17784,Green,OH,Clinton County,,city-us,2529,39.367,-83.706,1164
+17922,Greene,PA,Beaver County,,city-us,2199,40.591,-80.471,643
+17925,Greene,PA,Clinton County,,city-us,1766,41.049,-77.258,643
+17791,Green,OH,Harrison County,,city-us,1713,40.299,-80.931,1164
+17931,Greene,IL,Mercer County,,city-us,1434,41.198,-90.614,227
+17778,Green,MI,Alpena County,,city-us,1130,45.007,-83.797,2976
+17932,Greene,PA,Mercer County,,city-us,1043,41.462,-80.450,643
+17930,Greene,RI,Kent County,,city-us,1032,41.691,-71.746,3220
+17923,Greene,IA,Butler County / Floyd County,,city-us,988,42.897,-92.804,5212
+17936,Greene,OH,Trumbull County,,city-us,945,41.463,-80.761,1544
+17803,Green,OH,Shelby County,,city-us,890,40.228,-84.065,1164
+17921,Greene,ME,Androscoggin County,,city-us,805,44.190,-70.140,4082
+17777,Green,OH,Adams County,,city-us,559,38.682,-83.362,1164
+17787,Green,OH,Fayette County,,city-us,503,39.411,-83.528,1164
+17937,Greene,IL,Woodford County,,city-us,447,40.798,-89.093,227
+17797,Green,OH,Monroe County,,city-us,428,39.703,-80.993,1164
+17788,Green,PA,Forest County,,city-us,416,41.484,-79.350,403
+17928,Greene,PA,Greene County,,city-us,395,39.822,-80.026,643
+17794,Green,MO,Livingston County,,city-us,286,39.735,-93.599,193
+17801,Green,NE,Saunders County,,city-us,265,41.090,-96.518,247
+17798,Green,MO,Nodaway County,,city-us,208,40.355,-95.091,169
+17799,Green,KS,Pottawatomie County,,city-us,208,39.364,-96.593,3421
+17934,Greene,ND,Ransom County,,city-us,116,46.580,-97.459,615
+17783,Green,KS,Clay County,,city-us,97,39.428,-97.002,3421
+17780,Green,ND,Barnes County,,city-us,94,46.841,-98.113,129
+17935,Greene,KS,Sumner County,,city-us,73,37.175,-97.307,0
+17786,Green,KY,Elliott County,,city-us,0,38.141,-83.075,243
+17929,Greene,IN,Jay County,,city-us,0,40.408,-85.100,280

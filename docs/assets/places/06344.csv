@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39212,Trier,,Germany,city-international,110636,49.76,6.64,18268
-39211,Trier,ND,,city-us,35,48.68,-98.90,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32394,Orangeburg,SC,Orangeburg County,,city-us,12482,33.492,-80.856,18141
+32395,Orangeburg,NY,Rockland County,,city-us,4606,41.046,-73.950,4696
+32393,Orangeburg,KY,Mason County,,city-us,0,38.568,-83.689,295

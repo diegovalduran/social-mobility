@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47209,Lingo,MO,,city-us,0,39.77,-92.82,1909
-47210,Lingo,NM,,city-us,0,33.79,-103.11,766
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46023,West Grove,NJ,Monmouth County,,city-us,28061,40.214,-74.054,18436
+46021,West Grove,PA,Chester County,,city-us,2767,39.822,-75.827,5817
+46022,West Grove,IA,Davis County,,city-us,0,40.725,-92.560,699
+46024,West Grove,IN,Wayne County,,city-us,0,39.845,-85.014,158

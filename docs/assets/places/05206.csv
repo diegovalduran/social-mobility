@@ -1,9 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35342,Alliance,OH,,city-us,21801,40.91,-81.12,11160
-35341,Alliance,NE,,city-us,7971,42.10,-102.87,7472
-35340,Alliance,NC,,city-us,729,35.14,-76.80,2265
-35339,Alliance,MN,,city-us,202,46.67,-96.61,1895
-35343,Alliance,SD,,city-us,93,43.90,-96.48,0
-35344,Alliance,IN,,city-us,0,40.03,-85.65,154
-35345,Alliance,MO,,city-us,0,37.56,-90.00,578
-35346,Alliance,TX,,city-us,0,33.00,-97.29,1311
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26699,Maple,KS,Cowley County,,city-us,745,37.433,-97.096,395
+26703,Maple,WI,Douglas County,,city-us,649,46.590,-91.721,2400
+26698,Maple,MN,Cass County,,city-us,429,46.597,-94.469,2339
+26702,Maple,NE,Dodge County,,city-us,318,41.521,-96.626,241
+26701,Maple,ND,Dickey County,,city-us,48,46.147,-98.452,135
+26696,Maple,TX,Bailey County,,city-us,0,33.849,-102.899,1199
+26697,Maple,MN,Carver County,,city-us,0,44.882,-93.816,177
+26700,Maple,NC,Currituck County,,city-us,0,36.419,-76.034,1669
+26704,Maple,WV,Monongalia County,,city-us,0,39.709,-80.358,90
+26705,Maple,TX,Red River County,,city-us,0,33.460,-94.996,111

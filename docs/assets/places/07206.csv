@@ -1,4 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41907,Aleppo,,Syria,city-international,1916781,36.20,37.15,74303
-41905,Aleppo,PA,,city-us,1806,40.53,-80.14,220
-41906,Aleppo,PA,,city-us,0,39.82,-80.45,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36415,Rice,PA,Luzerne County,,city-us,3660,41.160,-75.923,3763
+36418,Rice,VA,Prince Edward County,,city-us,2256,37.275,-78.291,2293
+36411,Rice,MN,Benton County,,city-us,2053,45.752,-94.220,6676
+36421,Rice,OH,Sandusky County,,city-us,1237,41.438,-83.114,1341
+36416,Rice,TX,Navarro County,,city-us,1236,32.244,-96.499,2567
+36412,Rice,MN,Clearwater County,,city-us,160,47.275,-95.361,1853
+36422,Rice,WA,Stevens County,,city-us,40,48.429,-118.170,1645
+36413,Rice,KS,Cloud County,,city-us,0,39.572,-97.556,562
+36414,Rice,IL,Jo Daviess County,,city-us,0,42.339,-90.394,84
+36417,Rice,IL,Perry County,,city-us,0,38.201,-89.384,79
+36419,Rice,OH,Putnam County,,city-us,0,41.151,-84.294,223
+36420,Rice,CA,San Bernardino County,,city-us,0,34.084,-114.850,3862
+36423,Rice,OR,Wasco County,,city-us,0,45.505,-121.044,412

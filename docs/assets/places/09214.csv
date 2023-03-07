@@ -1,4 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47407,Engle,NM,,city-us,0,33.18,-107.03,1173
-47408,Engle,TX,,city-us,0,29.68,-97.01,88
-47409,Engle,WV,,city-us,0,39.34,-77.78,312
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46480,White,PA,Indiana County,,city-us,15175,40.648,-79.123,439
+46486,White,NJ,Warren County,,city-us,4630,40.821,-75.031,10379
+46485,White,MN,St. Louis County,,city-us,3115,47.499,-92.252,4093
+46476,White,PA,Beaver County,,city-us,1300,40.767,-80.336,439
+46478,White,PA,Cambria County,,city-us,927,40.671,-78.537,439
+46475,White,GA,Bartow County,,city-us,660,34.283,-84.745,2783
+46477,White,SD,Brookings County,,city-us,529,44.435,-96.650,3197
+46482,White,KS,Kingman County,,city-us,353,37.692,-98.079,727
+46483,White,SD,Marshall County,,city-us,89,45.885,-97.677,3197
+46484,White,ND,Pierce County,,city-us,42,47.898,-100.130,0
+46479,White,PA,Fayette County,,city-us,0,40.070,-79.437,219
+46481,White,WA,King County,,city-us,0,47.708,-122.089,241
+46776,Whyte,WV,Randolph County,,city-us,0,38.989,-79.831,88

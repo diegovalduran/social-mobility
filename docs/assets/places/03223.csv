@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25404,Erin,WI,,city-us,3831,43.24,-88.35,5276
-25403,Erin,TN,,city-us,1208,36.32,-87.69,3220
-25401,Erin,MN,,city-us,843,44.41,-93.47,2012
-25402,Erin,NY,,city-us,515,42.19,-76.67,4073
-25400,Erin,IL,,city-us,377,42.33,-89.78,718
-25405,Erin,TX,,city-us,0,30.78,-94.00,312
-25406,Erin,WV,,city-us,0,37.44,-81.69,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16253,Gandy,FL,Pinellas County,,city-us,2031,27.869,-82.625,2283
+16251,Gandy,NE,Logan County,,city-us,32,41.470,-100.458,3224
+16252,Gandy,UT,Millard County,,city-us,0,39.450,-113.983,609

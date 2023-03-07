@@ -1,7 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8533,Poplar Grove,IL,,city-us,5124,42.37,-88.82,2719
-8535,Poplar Grove,ND,,city-us,276,48.08,-99.01,0
-8532,Poplar Grove,AR,,city-us,215,34.55,-90.85,781
-8534,Poplar Grove,MN,,city-us,77,48.58,-95.94,1691
-8536,Poplar Grove,IN,,city-us,0,40.56,-86.35,199
-8537,Poplar Grove,VA,,city-us,0,37.59,-77.04,108
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3956,Big Spring,TX,Howard County,,city-us,25735,32.250,-101.479,16427
+3959,Big Spring,MI,Ottawa County,,city-us,3147,43.076,-85.843,3552
+3961,Big Spring,OH,Seneca County,,city-us,1677,41.033,-83.358,1636
+3962,Big Spring,IL,Shelby County,,city-us,613,39.311,-88.525,585
+3958,Big Spring,MO,Montgomery County,,city-us,207,38.803,-91.478,263
+3963,Big Spring,MD,Washington County,,city-us,85,39.629,-77.939,301
+3953,Big Spring,WI,Adams County,,city-us,0,43.669,-89.644,400
+3954,Big Spring,KY,Breckinridge County,,city-us,0,37.799,-86.152,463
+3955,Big Spring,TN,Carter County,,city-us,0,36.317,-82.243,87
+3957,Big Spring,TN,Meigs County,,city-us,0,35.393,-84.901,229
+3960,Big Spring,VA,Page County,,city-us,0,38.725,-78.423,136

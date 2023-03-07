@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23516,Winterset,IA,,city-us,5385,41.33,-94.01,6348
-23517,Winterset,KS,,city-us,54,38.73,-98.99,2575
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14503,Faith,NC,Rowan County,,city-us,826,35.587,-80.463,2720
+14500,Faith,SD,Meade County,,city-us,368,45.023,-102.036,6367
+14501,Faith,MO,Miller County,,city-us,0,38.054,-92.398,598
+14502,Faith,MN,Norman County,,city-us,0,47.287,-96.099,355

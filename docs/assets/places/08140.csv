@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44738,Story,WY,,city-us,887,44.57,-106.89,5777
-44739,Story,AR,,city-us,0,34.69,-93.52,499
-44740,Storey,CA,,city-us,0,36.97,-120.02,812
-44741,Story,IN,,city-us,0,39.10,-86.21,11179
-44742,Story,NE,,city-us,0,42.93,-103.94,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41187,Stamford,CT,Western Connecticut Planning Region,,city-us,136309,41.080,-73.546,33254
+41185,Stamford,TX,Haskell County / Jones County,,city-us,2977,33.046,-99.597,13588
+41183,Stamford,NY,Delaware County,,city-us,1993,42.339,-74.666,2492
+41182,Stamford,VT,Bennington County,,city-us,864,42.808,-73.076,2549
+41184,Stamford,NE,Harlan County,,city-us,162,40.133,-99.593,3397
+41186,Stamford,SD,Jackson County,,city-us,0,43.895,-101.089,259

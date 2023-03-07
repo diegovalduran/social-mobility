@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31654,Reserve,LA,,city-us,8688,30.05,-90.55,5104
-31657,Reserve,PA,,city-us,3204,40.49,-79.99,2233
-31658,Reserve,WI,,city-us,318,45.88,-91.39,1904
-31656,Reserve,NM,,city-us,301,33.71,-108.76,4542
-31653,Reserve,KS,,city-us,70,39.98,-95.56,3396
-31655,Reserve,MT,,city-us,31,48.61,-104.46,1925
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22398,Juddville,MI,Shiawassee County,,city-us,2071,43.092,-83.982,3587
+22397,Juddville,WI,Door County,,city-us,0,45.084,-87.250,478

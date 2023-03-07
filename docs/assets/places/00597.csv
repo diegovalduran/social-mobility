@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6666,Etowah,NC,,city-us,7464,35.32,-82.59,2637
-6668,Etowah,TN,,city-us,3632,35.32,-84.52,6812
-6665,Etowah,AR,,city-us,246,35.73,-90.23,3397
-6667,Etowah,OK,,city-us,164,35.13,-97.17,1544
-6669,Etowah,WV,,city-us,0,38.38,-81.60,135
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3017,Beckett,NJ,Gloucester County,,city-us,5371,39.754,-75.357,2041
+3018,Beckett,OH,Washington County,,city-us,0,39.584,-81.708,262

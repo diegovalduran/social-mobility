@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39198,Teddy,ND,,city-us,25,48.75,-99.08,0
-39199,Teddy,KY,,city-us,0,37.18,-85.94,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32433,Orel,,,Russia,city-international,311625,52.969,36.069,1402
+32354,Oral,,,Kazakhstan,city-international,271900,51.222,51.373,1346
+32432,Orel,IL,Wayne County,,city-us,1342,38.306,-88.555,333
+32353,Oral,SD,Fall River County,,city-us,66,43.405,-103.269,561

@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25627,Geneseo,NY,,city-us,8129,42.80,-77.82,8562
-25625,Geneseo,IL,,city-us,7519,41.46,-90.15,1361
-25628,Geneseo,SD,,city-us,288,45.36,-96.69,0
-25626,Geneseo,KS,,city-us,231,38.52,-98.16,4283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16472,Gates Corner,MN,Beltrami County,,city-us,0,48.453,-95.319,91
+16473,Gates Corner,IN,Delaware County,,city-us,0,40.106,-85.253,187
+16474,Gates Corner,MN,Koochiching County,,city-us,0,48.219,-94.103,94

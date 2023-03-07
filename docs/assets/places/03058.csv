@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24481,Bowen,IL,,city-us,458,40.23,-91.06,2186
-24482,Bowen,ND,,city-us,62,46.15,-97.70,0
-24483,Bowen,CO,,city-us,0,37.68,-106.35,324
-24484,Bowen,MO,,city-us,0,38.56,-93.59,572
-24485,Bowen,WV,,city-us,0,38.31,-82.34,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15343,Forest Glen,MD,Montgomery County,,city-us,6942,39.015,-77.055,5328
+15342,Forest Glen,IN,Kosciusko County,,city-us,0,41.327,-85.764,202
+15344,Forest Glen,CA,Trinity County,,city-us,0,40.373,-123.325,4277

@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31588,Pilsen,WI,,city-us,217,46.57,-91.18,1758
-31589,Pilsen,WI,,city-us,210,44.44,-87.72,1758
-31587,Pilsen,KS,,city-us,65,38.47,-97.04,5295
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22300,Jonesboro,AR,Craighead County,,city-us,79324,35.842,-90.704,14355
+22297,Jonesboro,GA,Clayton County,,city-us,4510,33.522,-84.354,4937
+22302,Jonesboro,LA,Jackson Parish,,city-us,4181,32.241,-92.716,7253
+22304,Jonesboro,IL,Union County,,city-us,1703,37.452,-89.268,2593
+22301,Jonesboro,IN,Grant County,,city-us,1502,40.480,-85.628,4278
+22305,Jonesboro,ME,Washington County,,city-us,592,44.666,-67.595,3548
+22298,Jonesboro,OH,Clinton County,,city-us,0,39.302,-83.825,181
+22299,Jonesboro,TX,Coryell County,,city-us,0,31.615,-97.877,2108
+22303,Jonesboro,VA,Nelson County,,city-us,0,37.784,-78.978,105

@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29824,Laotto,IN,,city-us,0,41.29,-85.20,0
-29825,LaOtto,IN,,city-us,0,41.29,-85.20,2175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21179,Hyrum,UT,Cache County,,city-us,10036,41.634,-111.852,4180
+20215,Hiram,GA,Paulding County,,city-us,5080,33.876,-84.762,3866
+20214,Hiram,ME,Oxford County,,city-us,1636,43.849,-70.831,5848
+20216,Hiram,OH,Portage County,,city-us,954,41.313,-81.144,3732
+20212,Hiram,MN,Cass County,,city-us,358,46.937,-94.627,2467
+20213,Hiram,TX,Kaufman County,,city-us,0,32.643,-96.108,881
+20217,Hiram,WV,Preston County,,city-us,0,39.293,-79.932,87
+20218,Hiram,MO,Wayne County,,city-us,0,37.179,-90.315,817

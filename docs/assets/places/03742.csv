@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28696,Towanda,PA,,city-us,2789,41.77,-76.44,5183
-28694,Towanda,KS,,city-us,2608,37.77,-96.99,625
-28693,Towanda,IL,,city-us,426,40.56,-88.90,12747
-28695,Towanda,KS,,city-us,25,39.61,-99.57,4235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19167,Hartsburg,IL,Logan County,,city-us,255,40.251,-89.441,2507
+19166,Hartsburg,MO,Boone County,,city-us,134,38.695,-92.309,3963
+19168,Hartsburg,OH,Putnam County,,city-us,0,41.093,-84.324,212

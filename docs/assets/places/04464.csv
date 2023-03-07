@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32278,Hindman,KY,,city-us,688,37.34,-82.98,3139
-32279,Hindman,TX,,city-us,0,32.89,-101.88,80
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22984,Kingman,AZ,Mohave County,,city-us,33822,35.189,-114.053,16996
+22983,Kingman,KS,Kingman County,,city-us,3062,37.646,-98.114,4300
+22982,Kingman,IN,Fountain County,,city-us,557,39.968,-87.278,3223
+22985,Kingman,MN,Renville County,,city-us,171,44.848,-94.935,1813
+22981,Kingman,OH,Clinton County,,city-us,0,39.501,-83.940,317

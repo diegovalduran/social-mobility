@@ -1,4 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38947,Mandan,ND,,city-us,24447,46.83,-100.89,17796
-38948,Mandan,ND,,city-us,59,48.25,-101.72,17796
-38949,Mandan,MI,,city-us,0,47.42,-88.02,640
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32015,Odessa,TX,Ector County / Midland County,,city-us,112483,31.880,-102.345,18737
+32024,Odessa,FL,Pasco County,,city-us,7682,28.194,-82.592,3377
+32021,Odessa,MO,Lafayette County,,city-us,5585,38.999,-93.954,6626
+32018,Odessa,MI,Ionia County,,city-us,4068,42.807,-85.143,1900
+32022,Odessa,WA,Lincoln County,,city-us,915,47.333,-118.691,5137
+32027,Odessa,NY,Schuyler County,,city-us,557,42.337,-76.789,6923
+32023,Odessa,DE,New Castle County,,city-us,361,39.457,-75.661,3969
+32012,Odessa,MN,Big Stone County,,city-us,146,45.284,-96.303,2669
+32013,Odessa,NE,Buffalo County,,city-us,90,40.702,-99.257,616
+32026,Odessa,KS,Rice County,,city-us,53,38.499,-97.984,0
+32025,Odessa,ND,Ramsey County,,city-us,41,47.969,-98.588,0
+32019,Odessa,KS,Jewell County,,city-us,22,39.698,-98.431,879
+32016,Odessa,SD,Edmunds County,,city-us,19,45.369,-99.616,0
+32017,Odessa,ND,Hettinger County,,city-us,10,46.583,-102.104,0
+32014,Odessa,WV,Clay County,,city-us,0,38.429,-81.238,206
+32020,Odessa,OR,Klamath County,,city-us,0,42.437,-122.087,824

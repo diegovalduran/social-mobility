@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39708,Dutch Neck,NJ,,city-us,105,39.40,-75.28,303
-39709,Dutch Neck,NJ,,city-us,0,40.28,-74.61,571
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33137,Park City,KS,Sedgwick County,,city-us,8503,37.800,-97.318,4768
+33139,Park City,UT,Summit County / Wasatch County,,city-us,8457,40.652,-111.502,18594
+33135,Park City,IL,Lake County,,city-us,7867,42.348,-87.884,5844
+33136,Park City,TN,Lincoln County,,city-us,2422,35.082,-86.571,466
+33138,Park City,MT,Stillwater County,,city-us,1065,45.633,-108.918,3122
+33134,Park City,KY,Barren County,,city-us,611,37.093,-86.048,4388

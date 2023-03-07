@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46236,Moonlight,IN,,city-us,0,41.58,-85.03,159
-46237,Moonlight,KS,,city-us,0,39.00,-97.10,294
-46238,Moonlight,VA,,city-us,0,36.73,-77.51,207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43677,Uba,,,Brazil,city-international,113300,-21.120,-42.943,939
+48084,Yuba,WI,Richland County,,city-us,51,43.539,-90.430,2845
+48082,Yuba,OK,Bryan County,,city-us,0,33.809,-96.204,557
+48083,Yuba,MI,Grand Traverse County,,city-us,0,44.823,-85.459,780

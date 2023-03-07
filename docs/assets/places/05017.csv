@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34513,Hematite,MI,,city-us,271,46.34,-88.48,2299
-34514,Hematite,MO,,city-us,0,38.20,-90.48,419
-34515,Hematite,VA,,city-us,0,37.74,-80.18,105
-34516,Hematite,WI,,city-us,0,45.91,-88.21,189
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25767,Lost Lake,WI,Dodge County,,city-us,0,43.459,-88.989,120
+25768,Lost Lake,MS,Tunica County,,city-us,0,34.784,-90.244,88

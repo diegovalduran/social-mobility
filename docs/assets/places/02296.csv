@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19610,Hilltop,SC,,city-us,3161,34.98,-81.96,989
-19608,Hilltop,MN,,city-us,957,45.05,-93.25,9054
-19609,Hilltop,OH,,city-us,751,41.16,-80.74,1981
-19613,Hilltop,WV,,city-us,731,37.94,-81.15,257
-19611,Hilltop,TX,,city-us,287,28.69,-99.17,2114
-19612,Hilltop,TX,,city-us,204,26.40,-98.92,451
-19607,Hilltop,GA,,city-us,192,33.10,-84.44,2079
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11811,Dinsmore,OH,Shelby County,,city-us,3371,40.435,-84.158,1332
+11564,Densmore,KS,Norton County,,city-us,0,39.638,-99.739,594
+11810,Dinsmore,CA,Humboldt County,,city-us,0,40.492,-123.607,530

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33552,Silver Spring,MD,,city-us,81015,39.00,-77.02,38686
-33553,Silver Spring,PA,,city-us,20243,40.25,-77.06,4015
-33554,Silver Spring,PA,,city-us,0,40.06,-76.44,1288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24555,Levee,IL,Pike County,,city-us,51,39.725,-91.307,453
+24571,Levy,MO,Washington County,,city-us,0,37.913,-90.945,237

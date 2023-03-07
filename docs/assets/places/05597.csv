@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36726,Torning,MN,,city-us,415,45.27,-95.55,1871
-36727,Torning,ND,,city-us,62,48.07,-101.48,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28843,Mingo,IA,Jasper County,,city-us,306,41.767,-93.284,3381
+28841,Mingo,MO,Bates County,,city-us,230,38.428,-94.113,1346
+28842,Mingo,OH,Champaign County,,city-us,0,40.208,-83.638,340
+28844,Mingo,PA,Montgomery County,,city-us,0,40.169,-75.523,215
+28845,Mingo,WV,Randolph County,,city-us,0,38.499,-80.054,250
+28846,Mingo,MO,Stoddard County,,city-us,0,36.937,-90.200,320
+28847,Mingo,KS,Thomas County,,city-us,0,39.278,-100.963,687
+28848,Mingo,MS,Tishomingo County,,city-us,0,34.632,-88.150,160

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40205,Blue Diamond,NV,,city-us,299,36.05,-115.40,3253
-40206,Blue Diamond,KY,,city-us,0,37.31,-83.22,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33842,Petty,IL,Lawrence County,,city-us,621,38.798,-87.842,336
+33841,Petty,TX,Lamar County,,city-us,0,33.603,-95.810,189
+33843,Petty,GA,Mitchell County,,city-us,0,31.260,-84.156,828

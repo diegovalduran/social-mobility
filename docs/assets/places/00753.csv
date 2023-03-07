@@ -1,10 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8488,Pineville,LA,,city-us,14501,31.32,-92.43,7967
-8490,Pineville,NC,,city-us,10678,35.08,-80.89,5921
-8487,Pineville,KY,,city-us,1662,36.76,-83.69,7649
-8489,Pineville,MO,,city-us,804,36.59,-94.38,4575
-8491,Pineville,WV,,city-us,638,37.58,-81.54,5521
-8486,Pineville,AR,,city-us,159,36.16,-92.11,1561
-8492,Pineville,MN,,city-us,0,47.54,-92.29,193
-8493,Pineville,PA,,city-us,0,40.30,-75.01,1579
-8494,Pineville,SC,,city-us,0,33.43,-80.03,470
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3928,Big Lake,MN,Sherburne County,,city-us,8080,45.342,-93.715,2158
+3925,Big Lake,AK,Matanuska-Susitna Borough,,city-us,2888,61.545,-149.818,3531
+3927,Big Lake,TX,Reagan County,,city-us,2850,31.192,-101.460,6480
+3929,Big Lake,WA,Skagit County,,city-us,2279,48.403,-122.241,2803
+3923,Big Lake,MN,Carlton County,,city-us,337,46.701,-92.621,499
+3924,Big Lake,MO,Holt County,,city-us,71,40.082,-95.350,3375
+3926,Big Lake,IN,Noble County,,city-us,0,41.269,-85.498,0

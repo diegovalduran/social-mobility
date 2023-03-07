@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31775,Smoky Hill,KS,,city-us,9010,39.05,-96.90,175
-31776,Smoky Hill,KS,,city-us,303,38.56,-97.65,175
-31777,Smoky Hill,KS,,city-us,249,38.83,-97.65,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22527,Karnes City,TX,Karnes County,,city-us,3270,28.885,-97.901,4037
+22530,Karns City,PA,Butler County,,city-us,169,40.994,-79.725,2129

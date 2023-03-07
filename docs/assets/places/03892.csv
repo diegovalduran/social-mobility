@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29556,Fairland,MD,,city-us,25324,39.08,-76.96,2266
-29557,Fairland,OK,,city-us,1107,36.75,-94.85,3734
-29555,Fairland,IN,,city-us,541,39.59,-85.86,6284
-29558,Fairland,IL,,city-us,0,39.88,-88.10,156
-29559,Fairland,TX,,city-us,0,30.64,-98.28,2602
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19907,Higginsville,MO,Lafayette County,,city-us,4690,39.073,-93.717,4922
+19906,Higginsville,WV,Hampshire County,,city-us,0,39.418,-78.580,273

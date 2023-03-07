@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43344,Karns,TN,,city-us,3536,35.98,-84.11,2870
-43345,Carnes,IA,,city-us,0,42.93,-96.06,394
-43346,Carnes,MS,,city-us,0,30.99,-89.26,1066
-43347,Karns,PA,,city-us,0,40.63,-79.70,944
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38831,Sayre,PA,Bradford County,,city-us,5446,41.979,-76.516,9502
+38830,Sayre,OK,Beckham County,,city-us,4400,35.291,-99.640,7706
+38832,Sayre,AL,Jefferson County,,city-us,0,33.712,-86.974,239

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47349,Coxs Corner,NJ,,city-us,44633,39.95,-74.90,21297
-47350,Coxs Corner,NJ,,city-us,0,40.18,-74.51,1719
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46343,Wethersfield,CT,Capitol Planning Region,,city-us,27162,41.702,-72.669,14953
+46344,Wethersfield,IL,Henry County,,city-us,3759,41.192,-89.926,1378
+46345,Wethersfield,NY,Wyoming County,,city-us,758,42.648,-78.245,3578

@@ -1,9 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5460,White Plains,NY,,city-us,59526,41.03,-73.76,30376
-5459,White Plains,NC,,city-us,1043,36.45,-80.63,2077
-5458,White Plains,KY,,city-us,828,37.18,-87.38,2588
-5456,White Plains,AL,,city-us,646,33.75,-85.69,553
-5457,White Plains,GA,,city-us,252,33.47,-83.04,2258
-5461,White Plains,AL,,city-us,0,32.99,-85.40,163
-5462,White Plains,MD,,city-us,0,38.59,-76.94,865
-5463,White Plains,VA,,city-us,0,36.64,-77.96,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2461,Barlow,KY,Ballard County,,city-us,653,37.052,-89.047,2215
+2462,Barlow,OR,Clackamas County,,city-us,135,45.252,-122.721,3611
+2460,Barlow,PA,Adams County,,city-us,0,39.757,-77.231,1302
+2463,Barlow,ND,Foster County,,city-us,0,47.570,-99.138,325
+2464,Barlow,OH,Washington County,,city-us,0,39.399,-81.665,424

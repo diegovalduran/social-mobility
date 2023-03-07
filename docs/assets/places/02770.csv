@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22793,Park View,IA,,city-us,2870,41.69,-90.55,2194
-22794,Park View,WV,,city-us,0,39.32,-80.03,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13781,Ennis,TX,Ellis County,,city-us,21210,32.329,-96.625,22489
+13782,Ennis,MT,Madison County,,city-us,972,45.349,-111.730,8239
+13780,Ennice,NC,Alleghany County,,city-us,0,36.553,-80.996,279
+13783,Ennis,WV,McDowell County,,city-us,0,37.376,-81.393,444
+13784,Ennis,KY,Muhlenberg County,,city-us,0,37.198,-87.974,93

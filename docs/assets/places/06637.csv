@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40151,Rock Springs,WY,,city-us,23196,41.59,-109.20,13585
-40149,Rock Springs,NM,,city-us,1104,35.61,-108.83,2442
-40150,Rock Springs,WI,,city-us,330,43.49,-89.92,3661
-40152,Rock Springs,MO,,city-us,0,37.76,-90.48,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33752,Perth,,,Australia,city-international,2039200,-31.952,115.859,54197
+33747,Perth,NY,Fulton County,,city-us,3584,43.005,-74.204,3286
+33751,Perth,ND,Walsh County,,city-us,36,48.231,-98.087,313
+33750,Perth,ND,Towner County,,city-us,6,48.716,-99.458,2745
+33745,Perth,MN,Blue Earth County,,city-us,0,44.069,-94.359,269
+33746,Perth,IN,Clay County,,city-us,0,39.593,-87.162,462
+33748,Perth,DE,New Castle County,,city-us,0,39.804,-75.524,279
+33749,Perth,KS,Sumner County,,city-us,0,37.175,-97.505,727

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26673,Lisle,IL,,city-us,23887,41.80,-88.07,7332
-26674,Lisle,NY,,city-us,334,42.35,-76.00,5869
-26675,Lisle,MO,,city-us,0,38.55,-94.59,605
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17233,Goodview,MN,Winona County,,city-us,4138,44.062,-91.696,3017
+17232,Goodview,VA,Bedford County,,city-us,0,37.214,-79.725,175

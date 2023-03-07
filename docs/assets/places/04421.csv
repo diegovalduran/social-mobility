@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32109,Cannonsburg,KY,,city-us,686,38.39,-82.70,3172
-32110,Cannonsburg,MI,,city-us,203,43.05,-85.47,2370
-32111,Cannonsburg,MS,,city-us,0,31.63,-91.21,999
-32112,Cannonsburg,OH,,city-us,0,40.91,-83.78,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22805,Kerr,MT,Lake County,,city-us,156,47.680,-114.192,1592
+22803,Kerr,IL,Champaign County,,city-us,151,40.350,-87.969,1337
+22804,Kerr,OH,Gallia County,,city-us,0,38.875,-82.261,329

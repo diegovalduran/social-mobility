@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29248,Azalia,IN,,city-us,0,39.09,-85.85,488
-29249,Azalia,MI,,city-us,0,42.02,-83.67,1418
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19598,Helvetia,IL,Madison County,,city-us,8323,38.703,-89.652,405
+19601,Helvetia,WI,Waupaca County,,city-us,700,44.544,-89.032,1890
+19599,Helvetia,WV,Randolph County,,city-us,41,38.706,-80.201,3952
+19597,Helvetia,PA,Clearfield County,,city-us,0,41.048,-78.774,5239
+19600,Helvetia,OR,Washington County,,city-us,0,45.595,-122.916,934

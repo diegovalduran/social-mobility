@@ -1,4 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24256,Barr,PA,,city-us,2044,40.61,-78.82,2247
-24255,Barr,IL,,city-us,0,39.40,-90.10,117
-24257,Barr,IL,,city-us,0,39.96,-89.70,169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15103,Fleming,MI,Livingston County,,city-us,6702,42.632,-83.969,2734
+15099,Fleming,NY,Cayuga County,,city-us,2466,42.874,-76.578,3263
+15104,Fleming,CO,Logan County,,city-us,424,40.680,-102.839,2441
+15098,Fleming,MN,Aitkin County,,city-us,337,46.637,-93.513,165
+15105,Fleming,MN,Pine County,,city-us,129,46.215,-92.593,165
+15106,Fleming,MO,Ray County,,city-us,113,39.199,-94.066,3064
+15100,Fleming,KS,Crawford County,,city-us,0,37.368,-94.783,317
+15101,Fleming,IN,Jackson County,,city-us,0,38.974,-85.806,324
+15102,Fleming,GA,Liberty County,,city-us,0,31.881,-81.426,2660
+15107,Fleming,OH,Washington County,,city-us,0,39.392,-81.611,492
+15108,Fleming,WV,Wayne County,,city-us,0,38.088,-82.471,167

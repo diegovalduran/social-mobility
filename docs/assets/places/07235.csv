@@ -1,5 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41993,Buffington,PA,,city-us,1236,40.51,-78.96,2139
-41992,Buffington,PA,,city-us,95,39.93,-79.84,306
-41994,Buffington,GA,,city-us,0,34.24,-84.42,485
-41995,Buffington,MO,,city-us,0,36.83,-89.74,275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36656,Ridge,NY,Suffolk County,,city-us,12931,40.894,-72.896,5176
+36657,Ridge,OH,Van Wert County,,city-us,3343,40.858,-84.522,118
+36658,Ridge,OH,Wyandot County,,city-us,507,40.944,-83.444,118
+36654,Ridge,IL,Shelby County,,city-us,410,39.479,-88.863,333
+36647,Ridge,MO,Carroll County,,city-us,334,39.480,-93.374,233
+36649,Ridge,KS,Dickinson County,,city-us,141,38.746,-97.097,1352
+36648,Ridge,MT,Carter County,,city-us,0,45.047,-105.020,440
+36650,Ridge,LA,Lafayette Parish,,city-us,0,30.238,-92.092,667
+36651,Ridge,TX,Mills County,,city-us,0,31.481,-98.797,133
+36652,Ridge,WV,Morgan County,,city-us,0,39.463,-78.313,387
+36653,Ridge,TX,Robertson County,,city-us,0,31.146,-96.322,682
+36655,Ridge,MD,St. Mary's County,,city-us,0,38.119,-76.374,871

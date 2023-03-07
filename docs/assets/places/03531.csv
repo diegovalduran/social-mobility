@@ -1,8 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27391,Northville,MI,,city-us,31587,42.42,-83.49,10184
-27390,Northville,MI,,city-us,6074,42.44,-83.49,13985
-27393,Northville,NY,,city-us,1792,40.97,-72.62,2403
-27392,Northville,NY,,city-us,1010,43.23,-74.17,6902
-27394,Northville,SD,,city-us,156,45.15,-98.63,3227
-27389,Northville,IL,,city-us,0,41.56,-88.71,433
-27395,Northville,OH,,city-us,0,40.18,-83.81,137
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17893,Greenbrier,TN,Robertson County,,city-us,6930,36.428,-86.805,3819
+17890,Greenbrier,AR,Faulkner County,,city-us,5862,35.234,-92.388,5732
+17891,Greenbrier,AL,Limestone County,,city-us,30,34.671,-86.844,1436
+17889,Greenbrier,MO,Bollinger County,,city-us,0,37.111,-90.026,436
+17892,Greenbrier,IN,Orange County,,city-us,0,38.463,-86.556,297
+17894,Greenbrier,IN,Warrick County,,city-us,0,38.121,-87.284,362

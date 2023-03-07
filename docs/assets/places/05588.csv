@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36692,Tamarack,MN,,city-us,59,46.64,-93.13,3706
-36693,Tamarack,CA,,city-us,0,38.44,-120.08,1322
-36694,Tamarack,WI,,city-us,0,44.17,-91.45,227
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28799,Mineola,NY,Nassau County,,city-us,21433,40.749,-73.641,17376
+28800,Mineola,TX,Wood County,,city-us,4949,32.663,-95.488,9005
+28797,Mineola,IA,Mills County,,city-us,154,41.143,-95.696,243
+28795,Mineola,AR,Howard County,,city-us,0,34.313,-94.031,369
+28796,Mineola,GA,Lowndes County,,city-us,0,30.908,-83.344,354
+28798,Mineola,MO,Montgomery County,,city-us,0,38.888,-91.572,806

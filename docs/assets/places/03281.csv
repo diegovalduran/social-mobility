@@ -1,11 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25753,Hainesville,IL,,city-us,3528,42.35,-88.07,6614
-25754,Haynesville,LA,,city-us,1905,32.96,-93.14,5204
-25755,Haynesville,ME,,city-us,103,45.78,-67.99,2908
-25758,Haynesville,TX,,city-us,60,34.09,-98.92,734
-25756,Haynesville,MO,,city-us,0,39.46,-94.32,538
-25757,Hainesville,NJ,,city-us,0,41.25,-74.80,1473
-25759,Hainesville,TX,,city-us,0,32.72,-95.36,933
-25760,Haynesville,VA,,city-us,0,37.95,-76.66,146
-25761,Hainesville,WV,,city-us,0,39.53,-77.92,135
-25762,Hainesville,WV,,city-us,0,39.36,-78.57,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16628,Georgia,,,United States,state,10912876,32.678,-83.223,3333
+16629,Georgia,,,,country,4936390,42.315,43.357,3333
+16624,Georgia,VT,Franklin County,,city-us,4883,44.722,-73.128,3396
+16625,Georgia,SD,Grant County,,city-us,78,45.015,-96.689,0
+16623,Georgia,NE,Cherry County,,city-us,0,42.474,-101.162,154
+16626,Georgia,IN,Lawrence County,,city-us,0,38.710,-86.572,330
+16627,Georgia,NJ,Monmouth County,,city-us,0,40.187,-74.285,444

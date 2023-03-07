@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45763,Mauk,GA,,city-us,0,32.50,-84.42,251
-45764,Mauck,VA,,city-us,0,38.56,-78.45,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42980,Timothy,MN,Crow Wing County,,city-us,174,46.767,-94.224,1815
+42981,Timothy,IL,Cumberland County,,city-us,0,39.303,-88.129,133
+42982,Timothy,TN,Overton County,,city-us,0,36.442,-85.345,314

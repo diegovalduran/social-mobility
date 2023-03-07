@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35156,Thetford,MI,,city-us,6579,43.17,-83.63,7743
-35157,Thetford,VT,,city-us,2799,43.84,-72.25,5563
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26501,Malta,,,,country,467138,35.937,14.375,103446
+26500,Malta,NY,Saratoga County,,city-us,17391,42.982,-73.789,8410
+26499,Malta,MT,Phillips County,,city-us,1847,48.360,-107.874,7198
+26496,Malta,IL,DeKalb County,,city-us,1523,41.933,-88.883,994
+26497,Malta,OH,Morgan County,,city-us,556,39.649,-81.862,3625
+26495,Malta,ID,Cassia County,,city-us,169,42.306,-113.369,3812
+26493,Malta,MN,Big Stone County,,city-us,81,45.448,-96.312,2246
+26494,Malta,TX,Bowie County,,city-us,0,33.488,-94.522,1242
+26498,Malta,PA,Northumberland County,,city-us,0,40.618,-76.909,555

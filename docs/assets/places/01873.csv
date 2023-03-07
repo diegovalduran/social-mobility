@@ -1,17 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16952,Salisbury,NC,,city-us,35760,35.67,-80.47,18484
-16950,Salisbury,MD,,city-us,32930,38.36,-75.60,24435
-16958,Salisbury,PA,,city-us,13622,40.60,-75.43,187
-16955,Salisbury,NY,,city-us,12643,40.75,-73.56,3073
-16957,Salisbury,PA,,city-us,11483,40.04,-76.00,187
-16949,Salisbury,MA,,city-us,9212,42.84,-70.84,8597
-16956,Salisbury,OH,,city-us,5445,39.07,-82.05,1608
-16948,Salisbury,CT,,city-us,4112,41.99,-73.43,9403
-16951,Salisbury,MO,,city-us,2424,39.41,-92.79,285
-16954,Salisbury,NY,,city-us,1835,43.22,-74.80,4314
-16953,Salisbury,NH,,city-us,1465,43.39,-71.77,3457
-16960,Salisbury,VT,,city-us,1214,43.93,-73.11,3496
-16959,Salisbury,PA,,city-us,700,39.75,-79.08,2625
-16961,Salisbury,IL,,city-us,0,39.89,-89.80,537
-16962,Salisbury,OR,,city-us,0,44.65,-117.87,629
-16963,Salisbury,VA,,city-us,0,37.61,-79.78,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9622,Condon,OR,Gilliam County,,city-us,707,45.234,-120.185,8618
+9623,Condon,MT,Missoula County,,city-us,285,47.528,-113.711,1118
+9624,Condon,SD,Tripp County,,city-us,41,43.549,-99.687,0

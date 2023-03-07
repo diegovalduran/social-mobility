@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44854,Bass,AL,,city-us,0,34.93,-85.91,632
-44855,Bass,AR,,city-us,0,35.90,-93.00,185
-44856,Bass,KY,,city-us,0,37.34,-85.14,79
-44857,Bass,MO,,city-us,0,38.43,-92.33,237
-44858,Bass,WV,,city-us,0,38.95,-79.00,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41376,Steelville,MO,Crawford County,,city-us,1388,37.968,-91.355,7865
+41375,Steelville,PA,Chester County,,city-us,0,39.905,-75.994,1427

@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34680,Krakow,,Poland,city-international,766739,50.06,19.94,62243
-34676,Krakow,MI,,city-us,672,45.29,-83.60,2004
-34677,Krakow,WI,,city-us,317,44.76,-88.25,555
-34678,Krakow,MO,,city-us,0,38.50,-91.05,384
-34679,Krakow,NE,,city-us,0,41.39,-97.75,188
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25918,Loyalton,CA,Sierra County,,city-us,753,39.676,-120.241,6493
+25916,Loyalton,PA,Dauphin County,,city-us,0,40.762,-76.569,258
+25917,Loyalton,SD,Edmunds County,,city-us,0,45.286,-99.279,410

@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36876,Wyckoff,NJ,,city-us,17037,41.00,-74.17,30562
-36875,Wykoff,MN,,city-us,434,43.71,-92.27,3275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28992,Mohawk,NY,Montgomery County,,city-us,3582,42.956,-74.402,4688
+28987,Mohawk,NY,Herkimer County,,city-us,2405,43.011,-75.004,5894
+28988,Mohawk,MI,Keweenaw County,,city-us,388,47.304,-88.365,737
+28985,Mohawk,TN,Greene County,,city-us,0,36.200,-83.053,1619
+28986,Mohawk,IN,Hancock County,,city-us,0,39.844,-85.841,326
+28989,Mohawk,OR,Lane County,,city-us,0,44.142,-122.916,711
+28990,Mohawk,VA,Lee County,,city-us,0,36.849,-82.889,80
+28991,Mohawk,WV,McDowell County,,city-us,0,37.505,-81.915,269
+28993,Mohawk,CA,Plumas County,,city-us,0,39.779,-120.636,323
+28994,Mohawk,AZ,Yuma County,,city-us,0,32.727,-113.755,1500

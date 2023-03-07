@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32956,Braintree,MA,,city-us,38822,42.21,-71.00,14854
-32957,Braintree,VT,,city-us,1211,43.97,-72.71,2563
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23801,Lakin,KS,Kearny County,,city-us,2455,37.996,-101.271,780
+23803,Lakin,MN,Morrison County,,city-us,461,45.866,-93.828,1854
+23800,Lakin,KS,Harvey County,,city-us,362,37.954,-97.539,365
+23799,Lakin,KS,Barton County,,city-us,243,38.384,-98.564,497
+23802,Lakin,WV,Mason County,,city-us,0,38.959,-82.087,711

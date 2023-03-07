@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26526,Levan,UT,,city-us,872,39.56,-111.86,2860
-26525,Levan,IL,,city-us,831,37.82,-89.44,1150
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17189,Good Intent,KS,Atchison County,,city-us,0,39.600,-95.217,251
+17190,Good Intent,NJ,Gloucester County,,city-us,0,39.804,-75.078,919
+17191,Good Intent,PA,Washington County,,city-us,0,40.037,-80.445,1545

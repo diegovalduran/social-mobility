@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35569,Ceresco,NE,,city-us,932,41.06,-96.64,3870
-35568,Ceresco,MN,,city-us,183,43.98,-94.30,2589
-35570,Ceresco,MI,,city-us,0,42.27,-85.06,1055
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27009,Marrowbone,IL,Moultrie County,,city-us,1610,39.630,-88.762,610
+27008,Marrowbone,KY,Cumberland County,,city-us,67,36.828,-85.507,496
+27010,Marrowbone,KY,Pike County,,city-us,0,37.366,-82.414,121

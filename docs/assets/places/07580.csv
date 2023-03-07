@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43093,Hiland,SD,,city-us,35,44.33,-98.86,0
-43094,Hiland,WY,,city-us,0,43.12,-107.35,826
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38458,San Mateo,,,Philippines,city-international,273306,14.697,121.122,1273
+38457,San Mateo,CA,San Mateo County,,city-us,102200,37.563,-122.326,28072
+38455,San Mateo,NM,Cibola County,,city-us,0,35.331,-107.643,527
+38456,San Mateo,FL,Putnam County,,city-us,0,29.607,-81.585,466

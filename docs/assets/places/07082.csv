@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41404,Eagle City,OK,,city-us,40,35.93,-98.59,566
-41405,Eagle City,OH,,city-us,0,39.98,-83.83,319
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35934,Ravenna,,,Italy,city-international,159115,44.416,12.202,18943
+35932,Ravenna,OH,Portage County,,city-us,9059,41.168,-81.245,1686
+35931,Ravenna,MI,Muskegon County,,city-us,2987,43.169,-85.967,1882
+35928,Ravenna,MN,Dakota County,,city-us,2330,44.688,-92.770,1918
+35927,Ravenna,NE,Buffalo County,,city-us,1439,41.026,-98.913,3738
+35929,Ravenna,KY,Estill County,,city-us,564,37.685,-83.953,4589
+35930,Ravenna,TX,Fannin County,,city-us,183,33.673,-96.242,2116
+35933,Ravenna,SD,Sanborn County,,city-us,41,43.894,-97.911,0

@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46740,Arizona,,United States,state,7359197,34.17,-111.93,63573
-46738,Arizona,LA,,city-us,0,32.79,-92.96,368
-46739,Arizona,NE,,city-us,0,41.81,-96.13,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44790,Wagner,SD,Charles Mix County,,city-us,1467,43.080,-98.293,3540
+44791,Wagner,WI,Marinette County,,city-us,722,45.302,-87.736,2320
+44789,Wagner,MN,Aitkin County,,city-us,338,46.210,-93.112,2556
+44792,Wagner,PA,Mifflin County,,city-us,57,40.681,-77.388,269
+44793,Wagner,MT,Phillips County,,city-us,0,48.371,-108.078,153

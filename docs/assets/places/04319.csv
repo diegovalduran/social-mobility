@@ -1,4 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31611,Plum Creek,VA,,city-us,920,37.13,-80.50,158
-31610,Plum Creek,NE,,city-us,169,41.09,-97.08,248
-31609,Plum Creek,KS,,city-us,124,39.52,-98.09,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22339,Joppa,MD,Harford County,,city-us,12304,39.434,-76.358,2885
+22337,Joppa,AL,Cullman County / Marshall County,,city-us,681,34.300,-86.550,1068
+22341,Joppa,IL,Massac County,,city-us,342,37.206,-88.845,3196
+22334,Joppa,KY,Adair County,,city-us,0,37.052,-85.242,115
+22335,Joppa,WV,Braxton County,,city-us,0,38.779,-80.488,159
+22336,Joppa,TX,Burnet County,,city-us,0,30.826,-98.032,1862
+22338,Joppa,TN,Grainger County,,city-us,0,36.238,-83.616,12456
+22340,Joppa,IN,Hendricks County,,city-us,0,39.632,-86.432,301

@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11970,Elmira,NY,,city-us,6740,42.10,-76.78,25076
-11975,Elmira,MI,,city-us,1742,42.55,-85.01,2564
-11971,Elmira,OR,,city-us,546,44.07,-123.35,1488
-11972,Elmira,SD,,city-us,441,44.94,-97.06,0
-11968,Elmira,MN,,city-us,355,43.89,-92.14,1751
-11965,Elmira,CA,,city-us,202,38.35,-121.91,3559
-11969,Elmira,MO,,city-us,37,39.51,-94.15,3220
-11966,Elmira,IL,,city-us,0,41.18,-89.83,144
-11967,Elmira,MI,,city-us,0,45.06,-84.86,5402
-11973,Elmira,ID,,city-us,0,48.48,-116.46,298
-11974,Elmira,IN,,city-us,0,41.59,-85.20,178
-11976,Elmira,OH,,city-us,0,41.58,-84.31,444
-11977,Elmira,WV,,city-us,0,38.65,-80.99,122
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5894,Buckskin,OH,Ross County,,city-us,2042,39.364,-83.307,1230
+5893,Buckskin,IN,Gibson County,,city-us,79,38.228,-87.412,690

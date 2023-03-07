@@ -1,20 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23014,Rose Hill,VA,,city-us,21466,38.79,-77.11,6282
-23008,Rose Hill,KS,,city-us,4269,37.56,-97.14,4884
-23010,Rose Hill,NC,,city-us,1364,34.83,-78.02,2712
-23015,Rose Hill,VA,,city-us,705,36.67,-83.37,3483
-23006,Rose Hill,IA,,city-us,158,41.32,-92.46,2893
-23009,Rose Hill,MN,,city-us,131,43.98,-95.40,2077
-23007,Rose Hill,IL,,city-us,84,39.10,-88.15,1968
-23011,Rose Hill,ND,,city-us,77,47.45,-98.94,0
-23012,Rose Hill,ND,,city-us,32,48.26,-100.66,0
-23013,Rose Hill,SD,,city-us,30,44.33,-98.76,0
-23016,Rose Hill,AL,,city-us,0,31.45,-86.34,326
-23017,Rose Hill,LA,,city-us,0,29.92,-92.13,87
-23018,Rose Hill,MS,,city-us,0,32.14,-89.00,646
-23019,Rose Hill,MS,,city-us,0,32.36,-90.81,88
-23020,Rose Hill,MO,,city-us,0,38.63,-94.07,308
-23021,Rose Hill,OH,,city-us,0,40.31,-84.73,270
-23022,Rose Hill,TX,,city-us,0,30.07,-95.70,685
-23023,Rose Hill,VA,,city-us,0,37.99,-78.42,73
-23024,Rose Hill,VA,,city-us,0,38.72,-78.13,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13916,Esmond,ND,Benson County,,city-us,91,48.036,-99.762,2921
+13917,Esmond,IL,DeKalb County,,city-us,0,42.034,-88.936,197
+13918,Esmond,SD,Kingsbury County,,city-us,0,44.262,-97.771,501

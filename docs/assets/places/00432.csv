@@ -1,15 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4917,Stockton,CA,,city-us,322120,37.96,-121.29,49561
-4928,Stockton,WI,,city-us,2896,44.51,-89.47,2214
-4920,Stockton,IL,,city-us,2256,42.33,-90.04,1027
-4926,Stockton,NY,,city-us,2016,42.30,-79.36,8192
-4924,Stockton,MO,,city-us,1776,37.70,-93.80,3938
-4921,Stockton,KS,,city-us,1380,39.44,-99.27,4798
-4923,Stockton,MN,,city-us,811,44.03,-91.77,3466
-4927,Stockton,UT,,city-us,624,40.45,-112.36,4369
-4916,Stockton,AL,,city-us,557,30.99,-87.86,1473
-4925,Stockton,NJ,,city-us,496,40.41,-74.98,14125
-4919,Stockton,IA,,city-us,176,41.59,-90.86,3127
-4918,Stockton,GA,,city-us,135,30.94,-83.01,1164
-4922,Stockton,MD,,city-us,36,38.05,-75.41,4688
-4929,Stockton,IN,,city-us,0,39.24,-87.02,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2285,Balderson,KS,Marshall County,,city-us,72,39.955,-96.526,0
+2286,Balderson,WV,Wood County,,city-us,0,39.159,-81.672,97

@@ -1,18 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9855,Buckeye,AZ,,city-us,101315,33.37,-112.58,8388
-9861,Buckeye,MI,,city-us,1370,43.94,-84.42,2513
-9857,Buckeye,IL,,city-us,1180,42.42,-89.63,495
-9859,Buckeye,KS,,city-us,433,39.03,-99.34,238
-9860,Buckeye,KS,,city-us,118,39.00,-97.53,238
-9856,Buckeye,IA,,city-us,83,42.42,-93.37,2851
-9862,Buckeye,ND,,city-us,29,47.03,-99.65,0
-9858,Buckeye,KS,,city-us,0,39.05,-97.17,472
-9863,Buckeye,CA,,city-us,0,38.92,-120.80,162
-9864,Buckeye,CO,,city-us,0,40.83,-105.09,5108
-9865,Buckeye,IN,,city-us,0,40.69,-85.35,346
-9866,Buckeye,KY,,city-us,0,37.72,-84.51,213
-9867,Buckeye,MO,,city-us,0,36.90,-89.49,302
-9868,Buckeye,OH,,city-us,0,39.05,-82.46,319
-9869,Buckeye,TX,,city-us,0,28.90,-96.05,849
-9870,Buckeye,WA,,city-us,0,47.84,-117.37,2414
-9871,Buckeye,WV,,city-us,0,38.19,-80.13,753
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4465,Blountsville,AL,Blount County,,city-us,1827,34.081,-86.591,5910
+4466,Blountsville,IN,Henry County,,city-us,98,40.060,-85.240,6159

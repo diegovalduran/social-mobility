@@ -1,11 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5893,Bismarck,ND,,city-us,74138,46.81,-100.78,25754
-5896,Bismark,MI,,city-us,1997,42.73,-85.01,3284
-5892,Bismarck,MO,,city-us,1255,37.77,-90.62,5109
-5889,Bismarck,IL,,city-us,575,40.26,-87.61,3189
-5895,Bismark,NE,,city-us,433,41.53,-97.30,298
-5890,Bismarck,MI,,city-us,360,45.28,-83.93,2500
-5891,Bismarck,MN,,city-us,305,44.59,-94.45,1809
-5888,Bismarck,AR,,city-us,229,34.32,-93.17,671
-5894,Bismark,NE,,city-us,146,41.87,-96.96,298
-5897,Bismarck,WV,,city-us,0,39.22,-79.23,409
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2649,Bastrop,TX,Bastrop County,,city-us,10434,30.110,-97.315,9259
+2650,Bastrop,LA,Morehouse Parish,,city-us,9467,32.756,-91.872,13831

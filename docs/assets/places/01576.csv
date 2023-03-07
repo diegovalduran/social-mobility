@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14771,Wilsonia,CA,,city-us,0,36.73,-118.96,1395
-14772,Wilsonia,WV,,city-us,0,39.21,-79.45,260
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7979,Chatfield,MN,Fillmore County / Olmsted County,,city-us,2997,43.844,-92.183,4763
+7977,Chatfield,OH,Crawford County,,city-us,693,40.950,-82.923,1297
+7978,Chatfield,MN,Fillmore County,,city-us,531,43.802,-92.148,1769
+7976,Chatfield,ND,Bottineau County,,city-us,39,48.588,-101.121,141
+7980,Chatfield,TX,Navarro County,,city-us,0,32.242,-96.407,1595

@@ -1,6 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38849,Hague,NY,,city-us,639,43.69,-73.55,6751
-38848,Hague,ND,,city-us,68,46.03,-100.00,3791
-38850,Hague,SD,,city-us,39,44.67,-97.80,0
-38851,Haig,NE,,city-us,0,41.88,-103.76,397
-38852,Hague,VA,,city-us,0,38.07,-76.65,205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31821,Oakdale,MN,Washington County,,city-us,27974,44.963,-92.965,5347
+31818,Oakdale,CA,Stanislaus County,,city-us,23235,37.767,-120.847,9823
+31819,Oakdale,NY,Suffolk County,,city-us,7276,40.744,-73.139,7002
+31811,Oakdale,LA,Allen Parish,,city-us,6985,30.816,-92.660,3157
+31810,Oakdale,PA,Allegheny County,,city-us,1464,40.398,-80.186,4471
+31815,Oakdale,WI,Monroe County,,city-us,753,43.923,-90.372,2988
+31820,Oakdale,IL,Washington County,,city-us,546,38.257,-89.541,397
+31812,Oakdale,NE,Antelope County,,city-us,273,42.070,-97.969,3839
+31816,Oakdale,TN,Morgan County,,city-us,193,35.986,-84.553,5085
+31813,Oakdale,IA,Johnson County,,city-us,0,41.706,-91.603,2868
+31814,Oakdale,IN,Miami County,,city-us,0,40.768,-86.054,227
+31817,Oakdale,MO,Shelby County,,city-us,0,39.761,-91.933,219

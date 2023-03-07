@@ -1,5 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37321,Meadville,PA,,city-us,12849,41.64,-80.15,13336
-37320,Meadville,MS,,city-us,437,31.47,-90.90,2260
-37319,Meadville,MO,,city-us,418,39.78,-93.30,3514
-37322,Meadville,NE,,city-us,0,42.76,-99.85,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29688,Mound,MN,Hennepin County,,city-us,9187,44.937,-93.666,6792
+29687,Mound,IL,Effingham County,,city-us,3519,39.045,-88.749,593
+29692,Mound,KS,McPherson County,,city-us,2383,38.214,-97.532,120
+29685,Mound,MO,Bates County,,city-us,759,38.349,-94.346,1220
+29693,Mound,KS,Miami County,,city-us,708,38.429,-95.000,0
+29691,Mound,IL,McDonough County,,city-us,235,40.497,-90.504,593
+29695,Mound,MN,Rock County,,city-us,232,43.715,-96.232,2179
+29694,Mound,KS,Phillips County,,city-us,119,39.785,-99.459,0
+29696,Mound,ND,Slope County,,city-us,17,46.406,-103.731,0
+29690,Mound,LA,Madison Parish,,city-us,13,32.339,-91.024,1592
+29686,Mound,TX,Coryell County,,city-us,0,31.352,-97.638,741
+29689,Mound,WV,Kanawha County,,city-us,0,38.371,-81.709,115

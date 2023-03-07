@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42399,Moon,PA,,city-us,26956,40.51,-80.21,18233
-42400,Moon,KY,,city-us,0,37.97,-83.05,304
-42401,Moon,VA,,city-us,0,37.44,-76.29,833
-42402,Moon,WI,,city-us,0,44.77,-89.79,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37389,Rolling Prairie,IN,LaPorte County,,city-us,334,41.671,-86.616,1586
+37388,Rolling Prairie,ND,Foster County,,city-us,34,47.443,-98.681,0
+37387,Rolling Prairie,WI,Dodge County,,city-us,0,43.459,-88.734,176

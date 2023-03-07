@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36698,Tara,MN,,city-us,91,45.36,-95.80,169
-36699,Tara,MN,,city-us,71,45.61,-96.46,169
-36700,Tara,FL,,city-us,0,27.43,-82.47,719
-36701,Terra,UT,,city-us,0,40.32,-112.63,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28810,Mineral,PA,Venango County,,city-us,488,41.319,-79.966,1852
+28808,Mineral,VA,Louisa County,,city-us,485,38.011,-77.909,2752
+28805,Mineral,IL,Bureau County,,city-us,441,41.368,-89.795,2635
+28806,Mineral,KS,Cherokee County,,city-us,213,37.259,-94.791,394
+28809,Mineral,CA,Tehama County,,city-us,210,40.348,-121.595,4363
+28807,Mineral,WA,Lewis County,,city-us,100,46.717,-122.181,3622
+28803,Mineral,OH,Athens County,,city-us,0,39.324,-82.265,621
+28804,Mineral,TX,Bee County,,city-us,0,28.549,-97.904,2786

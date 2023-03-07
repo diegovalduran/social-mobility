@@ -1,7 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41016,Millcreek,UT,,city-us,64110,40.69,-111.88,5182
-41014,Millcreek,PA,,city-us,53751,42.09,-80.12,291
-41015,Millcreek,PA,,city-us,4357,40.33,-76.21,291
-41012,Millcreek,OH,,city-us,1377,40.20,-83.23,1469
-41013,Millcreek,PA,,city-us,365,41.26,-79.25,291
-41017,Millcreek,MO,,city-us,0,37.53,-90.31,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35326,Prescott,AZ,Yavapai County,,city-us,46833,34.540,-112.469,28177
+35320,Prescott,WI,Pierce County,,city-us,4346,44.749,-92.802,6158
+35318,Prescott,AR,Nevada County,,city-us,3017,33.803,-93.381,11009
+35325,Prescott,WA,Walla Walla County,,city-us,377,46.300,-118.315,3155
+35319,Prescott,MI,Ogemaw County,,city-us,223,44.192,-83.931,2884
+35317,Prescott,KS,Linn County,,city-us,207,38.064,-94.696,3373
+35314,Prescott,IA,Adams County,,city-us,189,41.023,-94.614,2977
+35316,Prescott,MN,Faribault County,,city-us,187,43.721,-94.073,1865
+35315,Prescott,OR,Columbia County,,city-us,80,46.049,-122.887,3506
+35321,Prescott,ND,Renville County,,city-us,32,48.495,-101.114,0
+35322,Prescott,IN,Shelby County,,city-us,0,39.479,-85.708,345
+35323,Prescott,AL,St. Clair County,,city-us,0,33.568,-86.446,153
+35324,Prescott,MO,Texas County,,city-us,0,37.437,-91.922,464

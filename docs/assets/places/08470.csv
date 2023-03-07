@@ -1,4 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45596,Cork,,Ireland,city-international,208669,51.90,-8.47,1402
-45594,Cork,GA,,city-us,0,33.22,-83.86,214
-45595,Cork,KY,,city-us,0,37.04,-85.58,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42715,Texas,,,United States,state,30029572,31.169,-100.077,97634
+42710,Texas,NJ,Middlesex County,,city-us,66876,40.405,-74.309,34109
+42707,Texas,MI,Kalamazoo County,,city-us,18014,42.208,-85.705,2496
+42714,Texas,PA,Wayne County,,city-us,2293,41.552,-75.259,2024
+42708,Texas,WI,Marathon County,,city-us,1611,45.072,-89.557,1910
+42704,Texas,IL,De Witt County,,city-us,1243,40.099,-88.972,0
+42703,Texas,OH,Crawford County,,city-us,316,40.950,-83.093,1378
+42705,Texas,GA,Heard County,,city-us,0,33.241,-85.199,226
+42706,Texas,OH,Henry County,,city-us,0,41.424,-83.952,318
+42709,Texas,AL,Marion County,,city-us,0,33.930,-87.679,227
+42711,Texas,MS,Stone County,,city-us,0,30.886,-89.272,214
+42712,Texas,WV,Tucker County,,city-us,0,39.167,-79.805,228
+42713,Texas,KY,Washington County,,city-us,0,37.656,-85.110,232

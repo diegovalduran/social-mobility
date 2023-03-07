@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40350,Cementon,PA,,city-us,1512,40.69,-75.51,1685
-40349,Cementon,NY,,city-us,253,42.14,-73.92,479
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34099,Pine Bluff,AR,Jefferson County,,city-us,40244,34.228,-92.003,36637
+34097,Pine Bluff,WI,Dane County,,city-us,0,43.061,-89.656,186
+34098,Pine Bluff,WV,Harrison County,,city-us,0,39.418,-80.327,205

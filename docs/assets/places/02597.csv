@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21671,Fertile,MN,,city-us,788,47.54,-96.28,6392
-21670,Fertile,IA,,city-us,302,43.26,-93.42,3713
-21673,Fertile,ND,,city-us,233,48.41,-97.60,188
-21672,Fertile,ND,,city-us,51,47.88,-102.17,0
-21674,Fertile,MO,,city-us,0,38.07,-90.69,379
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12853,Eby,WV,Taylor County,,city-us,0,39.319,-79.899,84
+12854,Eby,IN,Warrick County,,city-us,0,38.142,-87.261,409

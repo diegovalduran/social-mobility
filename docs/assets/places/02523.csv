@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21242,Carroll,IA,,city-us,10224,42.07,-94.87,5509
-21253,Carroll,PA,,city-us,6934,40.11,-77.02,338
-21252,Carroll,PA,,city-us,5346,40.18,-79.93,338
-21251,Carroll,PA,,city-us,5251,40.35,-77.18,338
-21248,Carroll,NY,,city-us,3422,42.04,-79.10,4635
-21250,Carroll,OH,,city-us,2101,41.61,-83.10,1236
-21244,Carroll,MO,,city-us,1053,37.19,-91.70,174
-21247,Carroll,NH,,city-us,806,44.31,-71.50,6934
-21249,Carroll,OH,,city-us,504,39.80,-82.70,3699
-21243,Carroll,IL,,city-us,502,39.93,-87.74,1352
-21246,Carroll,NE,,city-us,194,42.28,-97.19,3113
-21245,Carroll,ND,,city-us,13,46.41,-102.99,0
-21254,Carroll,TX,,city-us,0,32.48,-95.52,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12592,Eagle Harbor,MI,Keweenaw County,,city-us,69,47.458,-88.162,6358
+12593,Eagle Harbor,MD,Prince George's County,,city-us,66,38.568,-76.686,4993

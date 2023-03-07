@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40704,Washingtonville,NY,,city-us,5783,41.43,-74.17,8274
-40705,Washingtonville,OH,,city-us,707,40.90,-80.77,3845
-40706,Washingtonville,PA,,city-us,202,41.05,-76.67,2896
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34911,Ponce de Leon,FL,Holmes County,,city-us,512,30.723,-85.937,2820
+34912,Ponce de Leon,MO,Stone County,,city-us,0,36.876,-93.351,1148

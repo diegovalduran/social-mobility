@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47668,Bucksville,PA,,city-us,0,40.51,-75.19,196
-47669,Bucksville,SC,,city-us,0,33.72,-79.06,1305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47083,Wilmore,KY,Jessamine County,,city-us,6027,37.862,-84.662,3365
+47081,Wilmore,PA,Cambria County,,city-us,207,40.389,-78.719,7730
+47082,Wilmore,KS,Comanche County,,city-us,36,37.336,-99.210,3120
+47084,Wilmore,WV,McDowell County,,city-us,0,37.459,-81.752,90

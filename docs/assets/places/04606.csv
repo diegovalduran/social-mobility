@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32798,Rayne,LA,,city-us,7160,30.23,-92.27,4148
-32800,Rayne,PA,,city-us,2796,40.71,-79.10,2552
-32799,Reine,MN,,city-us,91,48.60,-95.56,1730
-32801,Rain,KY,,city-us,0,36.72,-83.94,132
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23584,Lake Geneva,WI,Walworth County,,city-us,8504,42.592,-88.433,8144
+23583,Lake Geneva,FL,Clay County,,city-us,0,29.772,-82.010,367

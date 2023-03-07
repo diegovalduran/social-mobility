@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40637,Savona,NY,,city-us,684,42.29,-77.22,2602
-40638,Savona,OH,,city-us,0,39.99,-84.66,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34807,Pocahontas,AR,Randolph County,,city-us,7521,36.261,-90.971,7831
+34806,Pocahontas,IA,Pocahontas County,,city-us,1870,42.736,-94.669,5071
+34801,Pocahontas,IL,Bond County,,city-us,731,38.828,-89.540,2563
+34808,Pocahontas,VA,Tazewell County,,city-us,264,37.304,-81.340,9204
+34804,Pocahontas,TN,Hardeman County,,city-us,176,35.053,-88.804,910
+34802,Pocahontas,MO,Cape Girardeau County,,city-us,94,37.501,-89.639,5829
+34803,Pocahontas,TN,Coffee County,,city-us,0,35.637,-86.045,87
+34805,Pocahontas,MS,Hinds County,,city-us,0,32.474,-90.286,556

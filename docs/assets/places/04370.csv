@@ -1,7 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31841,Tyro,NC,,city-us,3382,35.81,-80.37,1110
-31842,Tiro,OH,,city-us,219,40.91,-82.77,3410
-31839,Tyro,KS,,city-us,173,37.04,-95.82,3375
-31840,Tyro,MN,,city-us,143,44.77,-95.90,1808
-31843,Tyro,MS,,city-us,0,34.58,-89.71,364
-31844,Tyro,VA,,city-us,0,37.82,-79.00,363
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22587,Keene,NH,Cheshire County,,city-us,23106,42.934,-72.278,23312
+22593,Keene,TX,Johnson County,,city-us,6346,32.397,-97.324,4010
+22591,Keene,MI,Ionia County,,city-us,1793,42.992,-85.250,1914
+22590,Keene,NY,Essex County,,city-us,1136,44.123,-73.883,6347
+22585,Keene,IL,Adams County,,city-us,597,40.145,-91.203,2612
+22595,Keene,CA,Kern County,,city-us,282,35.224,-118.562,5507
+22588,Keene,MN,Clay County,,city-us,155,47.015,-96.374,1825
+22592,Keene,KY,Jessamine County,,city-us,102,37.943,-84.642,1644
+22596,Keene,ND,McKenzie County,,city-us,35,47.927,-102.942,510
+22586,Keene,VA,Albemarle County,,city-us,0,37.865,-78.555,704
+22589,Keene,OH,Coshocton County,,city-us,0,40.345,-81.868,349
+22594,Keene,NE,Kearney County,,city-us,0,40.425,-99.066,203
+22597,Keene,WI,Portage County,,city-us,0,44.367,-89.474,278
+22598,Keene,KS,Wabaunsee County,,city-us,0,38.958,-96.039,398

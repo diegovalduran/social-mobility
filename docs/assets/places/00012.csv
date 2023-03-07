@@ -1,18 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-161,Central,LA,,city-us,29958,30.55,-91.04,7095
-160,Central,IL,,city-us,7459,38.87,-89.43,2869
-166,Central,SC,,city-us,5296,34.72,-82.78,5709
-167,Central,TN,,city-us,1888,36.33,-82.29,2324
-168,Central,UT,,city-us,927,37.42,-113.62,949
-162,Central,MO,,city-us,532,37.52,-94.42,435
-159,Central,AZ,,city-us,434,32.87,-109.79,3490
-171,Central,MI,,city-us,103,47.42,-88.30,4043
-164,Central,NE,,city-us,79,42.57,-97.78,203
-165,Central,NE,,city-us,62,41.17,-97.91,203
-158,Central,AK,,city-us,51,65.57,-144.80,2405
-163,Central,ND,,city-us,33,47.88,-98.19,0
-169,Central,AL,,city-us,0,32.68,-86.10,246
-170,Central,IN,,city-us,0,38.10,-86.16,1136
-172,Central,MN,,city-us,0,48.70,-94.34,730
-173,Central,TX,,city-us,0,31.43,-94.81,920
-174,Central,WV,,city-us,0,39.35,-81.52,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+56,Abingdon,VA,Washington County,,city-us,8321,36.710,-81.977,12191
+53,Abingdon,MD,Harford County,,city-us,5320,39.462,-76.279,2151
+55,Abingdon,IL,Knox County,,city-us,2892,40.804,-90.402,3493
+54,Abingdon,IA,Jefferson County,,city-us,0,41.082,-92.139,524

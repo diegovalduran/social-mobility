@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39068,Potter,PA,,city-us,3586,40.80,-77.66,175
-39066,Potter,NY,,city-us,1830,42.71,-77.18,12244
-39067,Potter,PA,,city-us,516,40.65,-80.36,175
-39065,Potter,NE,,city-us,345,41.22,-103.32,3467
-39069,Potter,WI,,city-us,238,44.12,-88.10,3763
-39064,Potter,ND,,city-us,43,46.94,-98.26,130
-39070,Potter,AR,,city-us,0,34.55,-94.34,104
-39071,Potter,KS,,city-us,0,39.43,-95.14,434
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32188,Olin,IA,Jones County,,city-us,670,41.998,-91.142,3710
+32186,Olin,TX,Hamilton County,,city-us,0,31.877,-98.107,1201
+32187,Olin,NC,Iredell County,,city-us,0,35.953,-80.840,920

@@ -1,9 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25618,Garrett,IN,,city-us,6546,41.35,-85.14,7130
-25621,Garrett,WA,,city-us,1755,46.05,-118.40,2036
-25617,Garrett,IL,,city-us,1328,39.83,-88.41,994
-25620,Garrett,TX,,city-us,854,32.36,-96.65,3270
-25619,Garrett,PA,,city-us,413,39.86,-79.06,4920
-25622,Garrett,KY,,city-us,0,37.48,-82.83,689
-25623,Garrett,KY,,city-us,0,37.90,-86.11,82
-25624,Garrett,WY,,city-us,0,42.11,-105.61,598
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16470,Gates,NY,Monroe County,,city-us,5220,43.156,-77.692,3738
+16468,Gates,TN,Lauderdale County,,city-us,664,35.838,-89.406,2482
+16469,Gates,OR,Linn County / Marion County,,city-us,493,44.756,-122.420,4986
+16466,Gates,ND,Eddy County,,city-us,45,47.804,-99.084,0
+16467,Gates,NC,Gates County,,city-us,0,36.504,-76.769,303
+16471,Gates,WV,Monroe County,,city-us,0,37.566,-80.490,115

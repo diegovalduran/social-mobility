@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27753,Pilot,IL,,city-us,1929,41.06,-88.08,1649
-27754,Pilot,IL,,city-us,528,40.22,-87.85,1649
-27755,Pilot,NC,,city-us,0,35.88,-80.13,187
-27756,Pilot,NC,,city-us,0,35.88,-78.27,238
-27757,Pilot,VA,,city-us,0,37.05,-80.36,495
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18290,Guernsey,,,,country,67642,49.466,-2.585,42997
+18288,Guernsey,WY,Platte County,,city-us,1138,42.270,-104.742,3780
+18289,Guernsey,IA,Poweshiek County,,city-us,62,41.649,-92.343,3058
+18287,Guernsey,OH,Guernsey County,,city-us,0,40.182,-81.592,272

@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35368,Angus,TX,,city-us,457,32.01,-96.43,2009
-35367,Angus,MN,,city-us,83,48.06,-96.70,1961
-35369,Angus,IA,,city-us,0,41.88,-94.16,395
-35370,Angus,NE,,city-us,0,40.28,-97.98,455
-35371,Angus,OH,,city-us,0,41.20,-83.28,257
-35372,Angus,WI,,city-us,0,45.64,-91.60,403
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26734,Maple Hill,KS,Wabaunsee County,,city-us,646,39.085,-96.028,4267
+26731,Maple Hill,WI,Chippewa County,,city-us,0,45.017,-90.984,117
+26732,Maple Hill,IA,Emmet County,,city-us,0,43.392,-94.625,235
+26733,Maple Hill,NC,Pender County,,city-us,0,34.661,-77.696,450

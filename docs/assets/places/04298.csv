@@ -1,5 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31510,Ninnescah,KS,,city-us,3367,37.52,-97.54,144
-31507,Ninnescah,KS,,city-us,920,37.35,-97.09,429
-31508,Ninnescah,KS,,city-us,276,37.60,-98.14,951
-31509,Ninnescah,KS,,city-us,219,37.76,-97.86,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22223,Johnson City,TN,Carter County / Sullivan County / Washington County,,city-us,71278,36.342,-82.381,18603
+22222,Johnson City,NY,Broome County,,city-us,15203,42.116,-75.959,5765
+22221,Johnson City,TX,Blanco County,,city-us,1717,30.277,-98.412,3802
+22226,Johnson City,KS,Stanton County,,city-us,1440,37.571,-101.751,4306
+22224,Johnson City,OR,Clackamas County,,city-us,539,45.405,-122.579,4688
+22225,Johnson City,MO,St. Clair County,,city-us,0,38.117,-93.928,281

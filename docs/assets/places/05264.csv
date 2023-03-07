@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35566,Center Creek,MN,,city-us,214,43.72,-94.30,1853
-35567,Center Creek,UT,,city-us,0,40.48,-111.36,134
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27005,Marquette,MI,Marquette County,,city-us,4175,46.603,-87.515,3017
+27006,Marquette,KS,McPherson County,,city-us,731,38.569,-97.857,7733
+27004,Marquette,MI,Mackinac County,,city-us,619,46.076,-84.566,230
+27002,Marquette,WI,Green Lake County,,city-us,527,43.758,-89.165,3138
+27001,Marquette,IA,Clayton County,,city-us,430,43.044,-91.178,4401
+27003,Marquette,NE,Hamilton County,,city-us,237,41.003,-98.010,3268
+27000,Marquette,IL,Bureau County,,city-us,0,41.331,-89.263,131

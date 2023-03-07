@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39291,Bradshaw,NE,,city-us,279,40.88,-97.75,3487
-39292,Bradshaw,WV,,city-us,218,37.35,-81.80,2035
-39293,Bradshaw,KY,,city-us,0,37.42,-83.95,311
-39294,Bradshaw,MD,,city-us,0,39.42,-76.38,276
-39295,Bradshaw,VA,,city-us,0,37.30,-80.22,977
-39296,Bradshaw,WV,,city-us,0,37.80,-82.03,131
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32498,Oroville,CA,Butte County,,city-us,19893,39.514,-121.556,20604
+32499,Oroville,WA,Okanogan County,,city-us,1780,48.939,-119.436,6028

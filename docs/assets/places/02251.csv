@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19333,Cumming,GA,,city-us,7235,34.21,-84.14,13748
-19335,Cumming,MI,,city-us,720,44.38,-84.07,2993
-19334,Cumming,IA,,city-us,460,41.48,-93.76,3380
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11308,Deer Lake,PA,Schuylkill County,,city-us,673,40.625,-76.060,2384
+11307,Deer Lake,PA,Fayette County,,city-us,417,39.850,-79.589,301
+11309,Deer Lake,ND,Stutsman County,,city-us,37,47.044,-99.045,0

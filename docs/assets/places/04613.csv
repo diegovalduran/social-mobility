@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32821,Sikes,LA,,city-us,111,32.08,-92.49,2178
-32822,Sikes,ND,,city-us,96,48.15,-102.39,84
-32823,Sykes,MS,,city-us,0,32.09,-88.59,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23610,Lake Lorraine,FL,Okaloosa County,,city-us,7283,30.442,-86.565,3365
+23611,Lake Lorraine,WI,Walworth County,,city-us,284,42.730,-88.740,160

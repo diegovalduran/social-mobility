@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47483,Liberia,,,country,5506280,6.43,-9.43,53508
-47482,Liberia,NC,,city-us,0,36.36,-78.10,618
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46654,Whitehouse,TX,Smith County,,city-us,8734,32.227,-95.225,6901
+46653,Whitehouse,OH,Lucas County,,city-us,5025,41.519,-83.804,3880
+46650,Whitehouse,GA,Henry County,,city-us,0,33.543,-84.138,325
+46651,Whitehouse,NJ,Hunterdon County,,city-us,0,40.618,-74.744,1444
+46652,Whitehouse,KY,Johnson County,,city-us,0,37.874,-82.699,650

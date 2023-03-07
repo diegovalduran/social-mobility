@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42570,Roots,MI,,city-us,4705,42.38,-84.31,4454
-42569,Roots,PA,,city-us,220,40.61,-78.36,519
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37712,Roswell,GA,Cobb County / Fulton County,,city-us,92530,34.039,-84.351,15730
+37711,Roswell,NM,Chaves County,,city-us,48081,33.394,-104.523,12826
+37714,Roswell,OH,Tuscarawas County,,city-us,216,40.476,-81.350,2917
+37713,Roswell,SD,Miner County,,city-us,52,43.975,-97.663,2796
+37710,Roswell,ID,Canyon County,,city-us,0,43.749,-116.962,344

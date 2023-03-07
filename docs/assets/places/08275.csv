@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45108,Dooley,AR,,city-us,0,33.47,-93.86,163
-45109,Doolie,NC,,city-us,0,35.60,-80.90,225
-45110,Dooley,VA,,city-us,0,36.93,-82.65,130
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41811,Suez,,,Egypt,city-international,516959,29.967,32.533,12134
+41810,Suez,IL,Mercer County,,city-us,598,41.110,-90.608,343

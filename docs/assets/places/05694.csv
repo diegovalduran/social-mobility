@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37063,Dawn,MO,,city-us,100,39.67,-93.64,665
-37064,Dawn,OH,,city-us,0,40.22,-84.58,571
-37065,Dawn,TX,,city-us,0,34.91,-102.20,1033
-37066,Dawn,VA,,city-us,0,37.84,-77.36,550
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29348,Moody,AL,St. Clair County,,city-us,13563,33.591,-86.491,3050
+29347,Moody,TX,McLennan County,,city-us,1411,31.308,-97.361,2173
+29345,Moody,MO,Howell County,,city-us,0,36.529,-91.989,500
+29346,Moody,IN,Jasper County,,city-us,0,40.992,-87.024,191

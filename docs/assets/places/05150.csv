@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35095,Soo,MI,,city-us,3004,46.28,-84.18,2598
-35096,Sioux,ND,,city-us,151,47.91,-103.87,0
-35097,Soo,ND,,city-us,32,48.94,-102.47,0
-35098,Sue,WV,,city-us,0,37.96,-80.21,136
-35099,Sioux,WI,,city-us,0,46.74,-90.88,505
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26428,Mahomet,IL,Champaign County,,city-us,9589,40.195,-88.404,5388
+26427,Mahomet,TX,Burnet County,,city-us,0,30.822,-97.932,1414

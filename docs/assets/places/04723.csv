@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33258,Bartonsville,MD,,city-us,2176,39.39,-77.36,705
-33259,Bartonsville,PA,,city-us,0,41.01,-75.28,2462
-33260,Bartonsville,VA,,city-us,0,39.11,-78.21,565
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24109,Lausanne,,,Switzerland,city-international,138905,46.533,6.633,45211
+24108,Lausanne,PA,Carbon County,,city-us,226,40.968,-75.821,6027

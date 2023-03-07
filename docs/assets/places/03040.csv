@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24389,Big Foot Prairie,WI,,city-us,71,42.50,-88.60,1008
-24388,Big Foot Prairie,IL,,city-us,0,42.50,-88.60,1008
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15250,Foley,AL,Baldwin County,,city-us,22063,30.407,-87.684,6402
+15251,Foley,MN,Benton County,,city-us,2720,45.665,-93.910,3333
+15252,Foley,MO,Lincoln County,,city-us,93,39.046,-90.742,3111

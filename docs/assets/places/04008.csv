@@ -1,7 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30081,Osgood,IN,,city-us,1584,39.13,-85.29,3909
-30083,Osgood,OH,,city-us,304,40.34,-84.50,2978
-30082,Osgood,MO,,city-us,24,40.20,-93.35,3321
-30084,Osgood,ID,,city-us,0,43.57,-112.10,1227
-30085,Osgood,IA,,city-us,0,43.19,-94.70,255
-30086,Osgood,WV,,city-us,0,39.57,-80.08,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20543,Honey Creek,IL,Crawford County,,city-us,1455,38.903,-87.733,297
+20548,Honey Creek,WI,Sauk County,,city-us,748,43.339,-89.921,2933
+20541,Honey Creek,IL,Adams County,,city-us,713,40.066,-91.201,297
+20545,Honey Creek,MO,Henry County,,city-us,188,38.421,-93.898,165
+20542,Honey Creek,MO,Cole County,,city-us,0,38.463,-92.242,238
+20544,Honey Creek,IN,Henry County,,city-us,0,40.034,-85.486,267
+20546,Honey Creek,IA,Pottawattamie County,,city-us,0,41.431,-95.866,518
+20547,Honey Creek,WI,Racine County,,city-us,0,42.748,-88.308,1569

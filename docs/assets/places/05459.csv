@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36248,Nett Lake,MN,,city-us,246,48.11,-93.08,284
-36249,Nett Lake,MN,,city-us,0,48.11,-93.08,1861
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27935,Menominee,MI,Menominee County,,city-us,8384,45.108,-87.614,12813
+27936,Menominee,WI,Menominee County,,city-us,4289,44.991,-88.669,5029
+27934,Menominee,IL,Jo Daviess County,,city-us,210,42.488,-90.533,2122
+27933,Menominee,NE,Cedar County,,city-us,0,42.787,-97.374,198

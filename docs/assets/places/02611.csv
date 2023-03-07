@@ -1,9 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21739,Gilman,IL,,city-us,1731,40.77,-87.99,8666
-21744,Gilman,WI,,city-us,1017,44.81,-92.31,2028
-21738,Gilman,IA,,city-us,535,41.88,-92.79,3041
-21745,Gilman,WI,,city-us,379,45.17,-90.81,6194
-21741,Gilman,MN,,city-us,222,45.74,-93.95,2792
-21740,Gilman,KS,,city-us,199,39.87,-95.95,0
-21742,Gilman,MT,,city-us,24,47.51,-112.37,609
-21743,Gilman,VT,,city-us,0,44.41,-71.72,366
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12950,Edgemont,SD,Fall River County,,city-us,759,43.301,-103.825,4467
+12953,Edgemont,MD,Washington County,,city-us,218,39.677,-77.547,252
+12948,Edgemont,AR,Cleburne County,,city-us,56,35.602,-92.196,949
+12952,Edgemont,ND,Sheridan County,,city-us,17,47.394,-100.628,0
+12949,Edgemont,PA,Dauphin County,,city-us,0,40.285,-76.849,1241
+12951,Edgemont,CA,Riverside County,,city-us,0,33.917,-117.279,512

@@ -1,3 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37866,Tunica,MS,,city-us,987,34.68,-90.38,6585
-37867,Tunica,LA,,city-us,0,30.93,-91.56,1453
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30406,Nelson,MI,Kent County,,city-us,4894,43.257,-85.486,2980
+30412,Nelson,OH,Portage County,,city-us,3123,41.314,-81.043,1844
+30413,Nelson,MI,Saginaw County,,city-us,2096,43.341,-84.224,2444
+30408,Nelson,NY,Madison County,,city-us,1915,42.886,-75.745,3080
+30399,Nelson,GA,Cherokee County / Pickens County,,city-us,1164,34.379,-84.371,3978
+30407,Nelson,IL,Lee County,,city-us,757,41.788,-89.573,442
+30411,Nelson,AZ,Pima County,,city-us,701,32.429,-111.270,1427
+30400,Nelson,NH,Cheshire County,,city-us,645,42.999,-72.122,5320
+30397,Nelson,WI,Buffalo County,,city-us,575,44.441,-91.974,2768
+30416,Nelson,PA,Tioga County,,city-us,549,41.974,-77.284,2804
+30410,Nelson,NE,Nuckolls County,,city-us,459,40.202,-98.068,3493
+30417,Nelson,MN,Watonwan County,,city-us,236,44.064,-94.670,1913
+30404,Nelson,MN,Douglas County,,city-us,183,45.889,-95.264,3175
+30414,Nelson,MO,Saline County,,city-us,158,38.995,-93.033,4161
+30403,Nelson,KS,Cloud County,,city-us,106,39.524,-97.536,393
+30395,Nelson,ND,Barnes County,,city-us,44,46.776,-98.003,130
+30402,Nelson,NV,Clark County,,city-us,38,35.708,-114.825,4327
+30396,Nelson,WV,Boone County,,city-us,0,38.069,-81.623,119
+30398,Nelson,CA,Butte County,,city-us,0,39.552,-121.766,369
+30401,Nelson,OK,Choctaw County,,city-us,0,34.127,-95.685,1181
+30405,Nelson,NC,Durham County,,city-us,0,35.882,-78.850,700
+30409,Nelson,VA,Mecklenburg County,,city-us,0,36.563,-78.705,277
+30415,Nelson,AL,Shelby County,,city-us,0,33.215,-86.581,1138

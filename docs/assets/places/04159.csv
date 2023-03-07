@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30785,Colorado,,United States,state,5839926,39.00,-105.55,81068
-30783,Colorado,KS,,city-us,232,39.00,-97.98,0
-30784,Colorado,TX,,city-us,0,29.99,-97.13,697
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21396,Ingalls,IN,Madison County,,city-us,2506,39.957,-85.805,3261
+21395,Ingalls,KS,Gray County,,city-us,574,37.773,-100.552,360
+21398,Ingalls,OK,Payne County,,city-us,192,36.102,-96.881,2446
+21393,Ingalls,NC,Avery County,,city-us,0,35.971,-82.012,296
+21394,Ingalls,AR,Bradley County,,city-us,0,33.383,-92.151,2390
+21397,Ingalls,MI,Menominee County,,city-us,0,45.377,-87.611,566

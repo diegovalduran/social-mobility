@@ -1,4 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41375,Chattanooga,TN,,city-us,182113,35.05,-85.31,79025
-41376,Chattanooga,OH,,city-us,4118,40.64,-84.78,370
-41374,Chattanooga,OK,,city-us,404,34.42,-98.65,2183
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35884,Rankin,MI,Genesee County,,city-us,15082,42.914,-83.751,8836
+35881,Rankin,PA,Allegheny County,,city-us,1864,40.413,-79.879,2986
+35887,Rankin,TX,Upton County,,city-us,759,31.223,-101.938,3629
+35888,Rankin,IL,Vermilion County,,city-us,487,40.465,-87.896,3481
+35883,Rankin,TX,Ellis County,,city-us,40,32.211,-96.707,433
+35882,Rankin,MO,Andrew County,,city-us,0,40.067,-94.918,492
+35885,Rankin,WI,Kewaunee County,,city-us,0,44.596,-87.503,243
+35886,Rankin,OK,Roger Mills County,,city-us,0,35.624,-99.924,434

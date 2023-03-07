@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33111,Seabrook,NJ,,city-us,46872,39.50,-75.22,2153
-33106,Seabrook,MD,,city-us,19558,38.97,-76.84,4583
-33109,Seabrook,TX,,city-us,13560,29.59,-94.99,12269
-33107,Seabrook,NH,,city-us,8437,42.88,-70.86,4098
-33108,Seabrook,SC,,city-us,1255,32.53,-80.77,1503
-33105,Seabrook,MA,,city-us,606,41.58,-70.50,2479
-33110,Seabrook,GA,,city-us,0,31.74,-81.33,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23979,Laplace,LA,St. John the Baptist Parish,,city-us,29129,30.067,-90.480,8538
+23978,LaPlace,IL,Piatt County,,city-us,199,39.800,-88.718,253

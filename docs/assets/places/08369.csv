@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45345,Grays Flat,CA,,city-us,0,40.02,-121.06,189
-45346,Grays Flat,WV,,city-us,0,39.56,-80.18,338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42299,Swift,AL,Baldwin County,,city-us,0,30.376,-87.626,145
+42300,Swift,IL,DuPage County,,city-us,0,41.920,-88.042,104
+42301,Swift,TN,Hardin County,,city-us,0,35.344,-88.141,308
+42302,Swift,MN,Roseau County,,city-us,0,48.853,-95.221,440

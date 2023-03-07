@@ -1,5 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2054,Equality,IL,,city-us,782,37.73,-88.31,1056
-2055,Equality,MN,,city-us,143,47.90,-95.76,1691
-2053,Equality,AL,,city-us,67,32.76,-86.10,761
-2056,Equality,ND,,city-us,55,48.33,-103.14,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1074,Anderson,IN,Madison County,,city-us,54817,40.105,-85.680,14836
+1070,Anderson,OH,Hamilton County,,city-us,43707,39.088,-84.354,9891
+1061,Anderson,SC,Anderson County,,city-us,29284,34.503,-82.650,13620
+1079,Anderson,CA,Shasta County,,city-us,11386,40.448,-122.298,7565
+1075,Anderson,MO,McDonald County,,city-us,1992,36.651,-94.444,3451
+1081,Anderson,NJ,Warren County,,city-us,586,40.771,-74.919,606
+1065,Anderson,IL,Clark County,,city-us,429,39.304,-87.727,969
+1063,Anderson,WI,Burnett County,,city-us,414,45.670,-92.776,2352
+1076,Anderson,SD,Minnehaha County,,city-us,388,43.516,-96.625,375
+1072,Anderson,AL,Lauderdale County,,city-us,256,34.928,-87.266,3480
+1069,Anderson,TX,Grimes County,,city-us,195,30.487,-95.987,10290
+1066,Anderson,AK,Denali Borough,,city-us,169,64.344,-149.187,4825
+1080,Anderson,NE,Thurston County,,city-us,123,42.071,-96.332,210
+1068,Anderson,IA,Fremont County,,city-us,56,40.801,-95.604,104
+1071,Anderson,WI,Iron County,,city-us,53,46.334,-90.464,1937
+1062,Anderson,ND,Barnes County,,city-us,39,47.038,-98.256,132
+1064,Anderson,IL,Cass County,,city-us,0,39.982,-90.159,117
+1067,Anderson,AL,Etowah County,,city-us,0,34.071,-85.921,527
+1073,Anderson,IL,Macoupin County,,city-us,0,39.344,-89.845,86
+1077,Anderson,OH,Ross County,,city-us,0,39.362,-83.071,275
+1078,Anderson,AR,Scott County,,city-us,0,34.912,-94.122,231

@@ -1,11 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12174,Forestville,MD,,city-us,10575,38.85,-76.87,4812
-12178,Forestville,OH,,city-us,10485,39.08,-84.34,1780
-12173,Forestville,CA,,city-us,3768,38.47,-122.89,6543
-12177,Forestville,NY,,city-us,731,42.47,-79.18,4570
-12180,Forestville,WI,,city-us,484,44.69,-87.48,3189
-12179,Forestville,PA,,city-us,446,40.69,-76.30,1629
-12176,Forestville,MN,,city-us,371,43.63,-92.27,1961
-12175,Forestville,MI,,city-us,86,43.66,-82.61,3173
-12181,Forestville,IA,,city-us,0,42.60,-91.53,1198
-12182,Forestville,NC,,city-us,0,35.96,-78.52,303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6022,Buford,GA,Gwinnett County / Hall County,,city-us,17683,34.120,-83.990,15965
+6023,Buford,OH,Highland County,,city-us,428,39.077,-83.844,836
+6024,Buford,SC,Lancaster County,,city-us,398,34.745,-80.617,755
+6020,Buford,WY,Albany County,,city-us,0,41.124,-105.302,2917
+6021,Buford,AR,Baxter County,,city-us,0,36.246,-92.429,247
+6025,Buford,TX,Mitchell County,,city-us,0,32.462,-100.857,1052
+6026,Buford,VA,Pittsylvania County,,city-us,0,36.567,-79.546,132
+6027,Buford,CO,Rio Blanco County,,city-us,0,39.987,-107.617,241
+6028,Buford,ND,Williams County,,city-us,0,47.999,-103.991,277

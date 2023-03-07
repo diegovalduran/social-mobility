@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28720,Twigg,IL,,city-us,486,37.99,-88.54,937
-28721,Twig,MN,,city-us,60,46.89,-92.36,600
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19191,Harvard,IL,McHenry County,,city-us,9459,42.422,-88.614,12483
+19192,Harvard,MA,Worcester County,,city-us,6844,42.504,-71.589,14127
+19189,Harvard,NE,Clay County,,city-us,939,40.619,-98.097,3998
+19188,Harvard,TX,Camp County,,city-us,0,33.060,-94.968,1416
+19190,Harvard,ID,Latah County,,city-us,0,46.917,-116.730,1226

@@ -1,22 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1333,Camden,NJ,,city-us,71773,39.93,-75.12,119785
-1323,Camden,AR,,city-us,10369,33.58,-92.83,13525
-1337,Camden,SC,,city-us,7907,34.25,-80.61,12636
-1327,Camden,ME,,city-us,5278,44.22,-69.06,17075
-1334,Camden,NY,,city-us,4723,43.35,-75.77,5287
-1324,Camden,DE,,city-us,4248,39.11,-75.54,5867
-1338,Camden,TN,,city-us,3685,36.06,-88.10,5216
-1336,Camden,OH,,city-us,1984,39.63,-84.65,3856
-1322,Camden,AL,,city-us,1832,31.99,-87.29,6627
-1330,Camden,MO,,city-us,1676,39.89,-94.39,161
-1335,Camden,OH,,city-us,1500,41.24,-82.31,1346
-1341,Camden,TX,,city-us,1200,30.92,-94.73,1326
-1329,Camden,MN,,city-us,922,44.85,-93.95,2704
-1332,Camden,NC,,city-us,753,36.33,-76.17,926
-1326,Camden,IN,,city-us,596,40.61,-86.54,3529
-1328,Camden,MI,,city-us,513,41.75,-84.76,3602
-1331,Camden,MO,,city-us,174,39.20,-94.02,3336
-1325,Camden,IL,,city-us,64,40.15,-90.77,1635
-1339,Camden,CA,,city-us,0,36.43,-119.80,198
-1340,Camden,MS,,city-us,0,32.78,-89.84,1002
-1342,Camden,WV,,city-us,0,39.05,-80.57,304
+id,name,state,county,country,level,population,latitude,longitude,wiki
+746,Almeria,,,Spain,city-international,200753,36.840,-2.468,19742
+745,Almeria,NE,Loup County,,city-us,0,41.826,-99.522,421

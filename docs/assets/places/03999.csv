@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30050,New Point,IN,,city-us,318,39.31,-85.33,6517
-30051,New Point,MO,,city-us,0,40.05,-95.08,325
-30052,New Point,VA,,city-us,0,37.35,-76.28,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20482,Homeland,CA,Riverside County,,city-us,6717,33.743,-117.109,3928
+20479,Homeland,GA,Charlton County,,city-us,918,30.856,-82.021,2215
+20481,Homeland,FL,Polk County,,city-us,305,27.817,-81.825,825
+20480,Homeland,MO,Howell County,,city-us,0,36.667,-91.919,462

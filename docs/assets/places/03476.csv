@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27101,Millington,TN,,city-us,10508,35.34,-89.90,12994
-27099,Millington,MI,,city-us,4187,43.26,-83.52,2143
-27100,Millington,NJ,,city-us,3038,40.68,-74.52,2561
-27097,Millington,IL,,city-us,620,41.56,-88.60,7529
-27098,Millington,MD,,city-us,547,39.26,-75.84,4224
-27102,Millington,OR,,city-us,0,43.33,-124.20,259
-27103,Millington,VA,,city-us,0,38.12,-78.61,145
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17645,Grant City,MO,Worth County,,city-us,828,40.487,-94.411,3919
+17643,Grant City,IN,Henry County,,city-us,0,39.866,-85.543,445
+17644,Grant City,IA,Sac County,,city-us,0,42.267,-94.888,341

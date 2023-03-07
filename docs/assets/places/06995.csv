@@ -1,5 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41128,Range,OH,,city-us,0,39.73,-83.42,409
-41129,Range,AL,,city-us,0,31.31,-87.24,197
-41130,Range,OR,,city-us,0,44.89,-118.97,210
-41131,Range,WI,,city-us,0,45.40,-92.28,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35593,Putnam,CT,Northeastern Connecticut Planning Region,,city-us,9227,41.908,-71.870,6796
+35591,Putnam,MI,Livingston County,,city-us,7920,42.465,-83.969,3153
+35597,Putnam,NY,Washington County,,city-us,563,43.747,-73.418,4275
+35596,Putnam,PA,Tioga County,,city-us,399,41.744,-77.082,2079
+35587,Putnam,KS,Anderson County,,city-us,286,38.353,-95.262,487
+35592,Putnam,AL,Marengo County,,city-us,172,32.023,-88.031,836
+35588,Putnam,TX,Callahan County,,city-us,65,32.371,-99.193,2571
+35589,Putnam,OK,Dewey County,,city-us,28,35.856,-98.968,1929
+35595,Putnam,KS,Stafford County,,city-us,13,38.166,-98.522,487
+35590,Putnam,KS,Harvey County,,city-us,0,37.969,-97.388,589
+35594,Putnam,IL,Putnam County,,city-us,0,41.185,-89.396,514

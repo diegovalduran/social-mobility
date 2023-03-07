@@ -1,12 +1,41 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21699,Fredericksburg,VA,,city-us,28367,38.30,-77.46,25731
-21698,Fredericksburg,TX,,city-us,11072,30.28,-98.87,14009
-21697,Fredericksburg,PA,,city-us,1831,40.44,-76.43,3657
-21692,Fredericksburg,IA,,city-us,969,42.97,-92.20,3866
-21696,Fredericksburg,PA,,city-us,892,41.65,-80.18,2432
-21694,Fredericksburg,OH,,city-us,409,40.68,-81.87,5249
-21695,Fredericksburg,PA,,city-us,142,40.32,-78.52,634
-21700,Fredericksburg,CA,,city-us,72,38.83,-119.79,396
-21693,Fredericksburg,IN,,city-us,26,38.43,-86.19,3879
-21701,Fredericksburg,MO,,city-us,0,38.61,-91.64,456
-21702,Fredericksburg,OH,,city-us,0,41.07,-80.98,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12918,Eden,NC,Rockingham County,,city-us,15319,36.488,-79.767,16682
+12897,Eden,NY,Erie County,,city-us,7534,42.655,-78.882,4594
+12906,Eden,PA,Lancaster County,,city-us,2254,39.920,-76.141,2381
+12919,Eden,OH,Seneca County,,city-us,1993,41.039,-83.128,152
+12895,Eden,TX,Concho County,,city-us,1543,31.216,-99.846,4600
+12907,Eden,IL,LaSalle County,,city-us,1366,41.236,-89.106,284
+12905,Eden,VT,Lamoille County,,city-us,1335,44.714,-72.539,5666
+12908,Eden,OH,Licking County,,city-us,1298,40.204,-82.321,152
+12927,Eden,OH,Wyandot County,,city-us,1005,40.867,-83.161,152
+12899,Eden,WI,Fond du Lac County,,city-us,898,43.694,-88.361,187
+12920,Eden,MD,Somerset County,,city-us,855,38.281,-75.651,2400
+12926,Eden,UT,Weber County,,city-us,855,41.300,-111.812,1939
+12911,Eden,MI,Mason County,,city-us,599,43.862,-86.230,190
+12904,Eden,MI,Lake County,,city-us,536,44.122,-85.856,190
+12921,Eden,KS,Sumner County,,city-us,407,37.430,-97.752,372
+12903,Eden,ID,Jerome County,,city-us,397,42.606,-114.211,3191
+12902,Eden,WI,Iowa County,,city-us,343,42.998,-90.351,1795
+12915,Eden,MN,Pipestone County,,city-us,228,43.896,-96.374,244
+12891,Eden,MN,Brown County,,city-us,210,44.420,-94.815,244
+12916,Eden,MN,Polk County,,city-us,187,47.724,-95.638,244
+12922,Eden,WY,Sweetwater County,,city-us,184,42.051,-109.437,2016
+12909,Eden,SD,Lincoln County,,city-us,178,43.126,-96.511,3057
+12928,Eden,MS,Yazoo County,,city-us,133,32.985,-90.323,2357
+12894,Eden,SD,Codington County,,city-us,100,45.116,-97.443,3057
+12910,Eden,SD,Marshall County,,city-us,93,45.617,-97.420,3057
+12912,Eden,KS,Ness County,,city-us,71,38.477,-100.151,372
+12893,Eden,SD,Clark County,,city-us,50,44.928,-97.556,3057
+12925,Eden,ND,Walsh County,,city-us,43,48.238,-97.709,183
+12889,Eden,KS,Atchison County,,city-us,0,39.635,-95.264,372
+12890,Eden,WV,Boone County,,city-us,0,38.132,-81.629,84
+12892,Eden,KY,Butler County,,city-us,0,37.276,-86.704,111
+12896,Eden,MN,Dodge County,,city-us,0,44.088,-92.885,539
+12898,Eden,IA,Fayette County,,city-us,0,43.024,-91.981,357
+12900,Eden,AZ,Graham County,,city-us,0,32.961,-109.896,828
+12901,Eden,IN,Hancock County,,city-us,0,39.906,-85.770,386
+12913,Eden,WV,Ohio County,,city-us,0,40.067,-80.638,128
+12914,Eden,IL,Peoria County,,city-us,0,40.689,-89.833,414
+12917,Eden,IL,Randolph County,,city-us,0,38.121,-89.668,390
+12923,Eden,WV,Upshur County,,city-us,0,38.744,-80.328,85
+12924,Eden,WA,Wahkiakum County,,city-us,0,46.298,-123.653,233

@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31862,Valley Falls,RI,,city-us,12064,41.91,-71.39,2650
-31863,Valley Falls,SC,,city-us,7583,35.02,-81.97,2101
-31860,Valley Falls,KS,,city-us,1086,39.34,-95.46,4713
-31861,Valley Falls,NY,,city-us,459,42.90,-73.56,3666
-31864,Valley Falls,OR,,city-us,0,42.48,-120.28,5019
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22617,Kellerville,IL,Adams County,,city-us,0,39.931,-90.934,176
+22618,Kellerville,IN,Dubois County,,city-us,0,38.482,-86.832,428
+22619,Kellerville,MO,Shelby County,,city-us,0,39.822,-92.135,298

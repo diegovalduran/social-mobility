@@ -1,10 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19013,Bainbridge,GA,,city-us,14292,30.90,-84.58,6975
-19018,Bainbridge,OH,,city-us,8833,41.39,-81.34,2972
-19017,Bainbridge,NY,,city-us,3034,42.30,-75.48,4862
-19016,Bainbridge,MI,,city-us,2644,42.11,-86.28,2571
-19020,Bainbridge,PA,,city-us,1269,40.09,-76.67,1541
-19019,Bainbridge,OH,,city-us,760,39.23,-83.27,3794
-19015,Bainbridge,IN,,city-us,681,39.76,-86.81,3201
-19014,Bainbridge,IL,,city-us,584,40.05,-90.51,337
-19021,Bainbridge,MO,,city-us,0,37.41,-89.44,288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11046,Darmstadt,,,Germany,city-international,159207,49.867,8.650,34475
+11045,Darmstadt,IN,Vanderburgh County,,city-us,1385,38.099,-87.579,4237
+11044,Darmstadt,IL,St. Clair County,,city-us,0,38.321,-89.732,336

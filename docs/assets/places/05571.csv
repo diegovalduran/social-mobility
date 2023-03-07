@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36639,St. Martin,MS,,city-us,7984,30.44,-88.87,3188
-36638,St. Martin,MN,,city-us,442,45.54,-94.70,2034
-36640,St. Martin,OH,,city-us,200,39.21,-83.89,2993
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28641,Millport,AL,Lamar County,,city-us,982,33.563,-88.081,3986
+28638,Millport,NY,Chemung County,,city-us,288,42.265,-76.835,2858
+28639,Millport,OH,Columbiana County,,city-us,0,40.700,-80.886,427
+28640,Millport,MO,Knox County,,city-us,0,40.267,-92.093,251
+28642,Millport,OH,Pickaway County,,city-us,0,39.716,-82.973,427
+28643,Millport,IN,Washington County,,city-us,0,38.764,-86.103,272

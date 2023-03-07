@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22694,Northwood,OH,,city-us,5179,41.61,-83.47,7252
-22693,Northwood,NH,,city-us,4664,43.21,-71.22,6623
-22691,Northwood,IA,,city-us,2063,43.44,-93.22,3683
-22692,Northwood,ND,,city-us,964,47.73,-97.57,3620
-22695,Northwood,PA,,city-us,152,40.69,-78.23,230
-22696,Northwood,OH,,city-us,0,40.47,-83.73,2679
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13716,Emporia,VA,Emporia city,,city-us,5667,36.686,-77.542,10520
+13717,Emporia,KS,Lyon County,,city-us,947,38.368,-96.168,110
+13718,Emporia,IN,Madison County,,city-us,0,40.004,-85.634,471
+13719,Emporia,FL,Volusia County,,city-us,0,29.202,-81.468,202

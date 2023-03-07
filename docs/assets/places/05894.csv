@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37754,Lumberton,NC,,city-us,18694,34.62,-79.01,8977
-37757,Lumberton,TX,,city-us,13802,30.27,-94.20,6476
-37755,Lumberton,NJ,,city-us,12779,39.96,-74.80,14213
-37753,Lumberton,MS,,city-us,1640,31.01,-89.46,3328
-37756,Lumberton,NM,,city-us,275,36.93,-106.94,288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30260,Narita,,,Japan,city-international,130689,35.783,140.317,9050
+30259,Narita,IL,Logan County,,city-us,0,39.983,-89.219,258

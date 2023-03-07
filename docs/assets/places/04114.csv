@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30554,Barnes,WI,,city-us,830,46.31,-91.48,2218
-30552,Barnes,KS,,city-us,219,39.70,-96.86,3635
-30553,Barnes,ND,,city-us,22,46.87,-96.92,0
-30555,Barnes,AL,,city-us,0,31.54,-85.67,477
-30556,Barnes,IL,,city-us,0,40.50,-88.90,628
-30557,Barnes,VA,,city-us,0,38.22,-78.45,100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21192,Ida,MN,Douglas County,,city-us,1421,45.988,-95.453,1964
+21193,Ida,MI,Monroe County,,city-us,790,41.911,-83.574,4271
+21189,Ida,LA,Caddo Parish,,city-us,214,33.004,-93.895,2548
+21190,Ida,AR,Cleburne County,,city-us,0,35.588,-91.928,247
+21191,Ida,KY,Clinton County,,city-us,0,36.767,-85.168,111
+21194,Ida,VA,Page County,,city-us,0,38.589,-78.424,83

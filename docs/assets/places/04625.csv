@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32868,Terrytown,LA,,city-us,25388,29.91,-90.03,6291
-32869,Terrytown,NE,,city-us,1055,41.85,-103.66,3727
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23654,Lake Valley,MN,Traverse County,,city-us,194,45.796,-96.521,1997
+23653,Lake Valley,NM,San Juan County,,city-us,111,36.092,-108.157,358
+23652,Lake Valley,CA,El Dorado County,,city-us,0,38.930,-120.005,441

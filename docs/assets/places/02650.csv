@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22065,Huxley,IA,,city-us,4514,41.90,-93.60,3467
-22066,Huxley,TX,,city-us,359,31.76,-93.88,2030
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13139,El Rancho,NM,Santa Fe County,,city-us,1342,35.889,-106.080,2129
+13140,El Rancho,CA,Tulare County,,city-us,48,36.221,-119.068,2094
+13138,El Rancho,WY,Platte County,,city-us,21,42.268,-105.044,374

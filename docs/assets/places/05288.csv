@@ -1,10 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35640,Crosby,OH,,city-us,6040,39.28,-84.72,4165
-35636,Crosby,MN,,city-us,2314,46.48,-93.96,4952
-35641,Crosby,TX,,city-us,1823,29.91,-95.06,8428
-35639,Crosby,ND,,city-us,1061,48.91,-103.29,4079
-35638,Crosby,MS,,city-us,231,31.27,-91.06,1118
-35637,Crosby,MN,,city-us,89,45.96,-92.65,1775
-35642,Crosby,AL,,city-us,0,31.04,-85.09,229
-35643,Crosby,PA,,city-us,0,41.74,-78.39,223
-35644,Crosby,WA,,city-us,0,47.58,-122.87,216
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27141,Mary,,,Turkmenistan,city-international,208682,37.600,61.833,5353
+28036,Merry,NE,Thurston County,,city-us,66,42.226,-96.596,184
+27140,Mary,MN,Norman County,,city-us,61,47.188,-96.616,1779

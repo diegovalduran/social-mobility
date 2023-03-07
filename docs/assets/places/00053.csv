@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-475,Minto,ND,,city-us,614,48.29,-97.37,3790
-473,Minto,AK,,city-us,151,65.15,-149.35,5144
-474,Minto,ND,,city-us,23,48.83,-98.65,3790
+id,name,state,county,country,level,population,latitude,longitude,wiki
+287,Agate,CO,Elbert County,,city-us,0,39.462,-103.942,2415
+288,Agate,MI,Ontonagon County,,city-us,0,46.474,-89.070,183
+289,Agate,ND,Rolette County,,city-us,0,48.623,-99.493,586
+290,Agate,NE,Sioux County,,city-us,0,42.420,-103.794,531

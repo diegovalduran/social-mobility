@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32817,Sarepta,LA,,city-us,687,32.89,-93.45,2870
-32818,Sarepta,MS,,city-us,0,34.12,-89.29,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23601,Lake Holiday,IL,LaSalle County,,city-us,5581,41.613,-88.672,3437
+23600,Lake Holiday,VA,Frederick County,,city-us,2324,39.307,-78.325,2235
+23602,Lake Holiday,IN,Montgomery County,,city-us,921,39.967,-86.967,2442

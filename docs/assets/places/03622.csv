@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27965,Rantoul,IL,,city-us,12119,40.31,-88.16,7123
-27967,Rantoul,WI,,city-us,730,44.11,-88.10,2299
-27966,Rantoul,KS,,city-us,168,38.55,-95.10,3069
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19366,Hayden,ID,Kootenai County,,city-us,16194,47.766,-116.787,9188
+19368,Hayden,CO,Routt County,,city-us,1967,40.495,-107.257,3981
+19363,Hayden,AL,Blount County,,city-us,1332,33.893,-86.758,3638
+19365,Hayden,IN,Jennings County,,city-us,869,38.983,-85.741,1289
+19364,Hayden,AZ,Gila County / Pinal County,,city-us,518,32.995,-110.780,3277
+18387,Haden,VA,Botetourt County,,city-us,0,37.716,-79.834,84
+19367,Hayden,MO,Maries County,,city-us,0,38.075,-91.977,417

@@ -1,3 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37515,Rocky Comfort,MO,,city-us,176,36.75,-94.09,878
-37516,Rocky Comfort,AR,,city-us,0,33.70,-94.41,403
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30005,Mountain View,CA,Santa Clara County,,city-us,81516,37.386,-122.084,25004
+29990,Mountain View,NC,Catawba County,,city-us,3486,35.683,-81.369,2852
+29995,Mountain View,HI,Hawaii County,,city-us,3467,19.553,-155.104,2061
+30008,Mountain View,AR,Stone County,,city-us,2873,35.868,-92.118,8496
+29996,Mountain View,MO,Howell County,,city-us,2563,36.995,-91.704,5192
+29994,Mountain View,CA,Contra Costa County,,city-us,1868,38.009,-122.117,3856
+30009,Mountain View,WY,Uinta County,,city-us,1287,41.269,-110.340,3715
+29999,Mountain View,OK,Kiowa County,,city-us,735,35.098,-98.746,2952
+29998,Mountain View,CO,Jefferson County,,city-us,536,39.774,-105.056,6208
+29992,Mountain View,NM,Cibola County,,city-us,68,35.005,-108.398,413
+29991,Mountain View,NM,Chaves County,,city-us,0,33.340,-104.523,142
+29993,Mountain View,GA,Clayton County,,city-us,0,33.642,-84.390,3559
+29997,Mountain View,OR,Jackson County,,city-us,0,42.112,-122.384,312
+30000,Mountain View,WV,Logan County,,city-us,0,37.650,-81.995,232
+30001,Mountain View,NM,Luna County,,city-us,0,32.230,-107.751,281
+30002,Mountain View,WY,Natrona County,,city-us,0,42.854,-106.389,1938
+30003,Mountain View,WV,Preston County,,city-us,0,39.361,-79.732,260
+30004,Mountain View,VA,Pulaski County,,city-us,0,37.088,-80.620,98
+30006,Mountain View,CA,Stanislaus County,,city-us,0,37.386,-122.084,200
+30007,Mountain View,NC,Stokes County,,city-us,0,36.309,-80.304,138
+30010,Mountain View,WA,Whatcom County,,city-us,0,48.848,-122.673,278

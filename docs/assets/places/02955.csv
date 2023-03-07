@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23882,Parma,,Italy,city-international,195687,44.80,10.33,21563
-23881,Parma,OH,,city-us,79982,41.40,-81.72,20734
-23880,Parma,NY,,city-us,16179,43.27,-77.80,2982
-23877,Parma,ID,,city-us,2114,43.79,-116.94,3985
-23878,Parma,MI,,city-us,777,42.26,-84.60,8785
-23879,Parma,MO,,city-us,543,36.61,-89.82,6092
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14822,Fern,MI,Mason County,,city-us,582,43.861,-86.231,2295
+14821,Fern,MN,Hubbard County,,city-us,292,47.358,-95.109,2693
+14819,Fern,WI,Florence County,,city-us,153,45.836,-88.386,1782
+14820,Fern,IA,Grundy County,,city-us,0,42.485,-92.771,821
+14823,Fern,WV,Pleasants County,,city-us,0,39.348,-81.066,127

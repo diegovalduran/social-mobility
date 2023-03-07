@@ -1,3 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37265,Kennett,MO,,city-us,10288,36.24,-90.06,5920
-37266,Kennett,PA,,city-us,8724,39.84,-75.68,3002
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29616,Morton,IL,Tazewell County,,city-us,17768,40.615,-89.440,456
+29608,Morton,MI,Mecosta County,,city-us,4338,43.596,-85.264,2455
+29614,Morton,MS,Scott County,,city-us,3615,32.354,-89.655,2576
+29615,Morton,KS,Sedgwick County,,city-us,2786,37.612,-97.746,141
+29604,Morton,PA,Delaware County,,city-us,2752,39.910,-75.324,4274
+29602,Morton,TX,Cochran County,,city-us,1668,33.725,-102.759,5369
+29607,Morton,WA,Lewis County,,city-us,1061,46.558,-122.275,3494
+29609,Morton,KS,Ottawa County,,city-us,408,39.005,-97.867,0
+29613,Morton,MN,Renville County,,city-us,406,44.551,-94.984,3509
+29606,Morton,NE,Knox County,,city-us,163,42.568,-97.662,184
+29600,Morton,NE,Boyd County,,city-us,94,42.937,-98.595,184
+29603,Morton,SD,Day County,,city-us,74,45.276,-97.438,0
+29601,Morton,ND,Burleigh County,,city-us,73,46.668,-100.384,0
+29610,Morton,KS,Pawnee County,,city-us,45,38.218,-99.296,0
+29605,Morton,WY,Fremont County,,city-us,0,43.201,-108.774,180
+29611,Morton,IN,Putnam County,,city-us,0,39.763,-86.936,414
+29612,Morton,MO,Ray County,,city-us,0,39.319,-93.861,513

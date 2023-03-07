@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37100,Eagle Rock,VA,,city-us,210,37.64,-79.80,4857
-37099,Eagle Rock,MO,,city-us,193,36.55,-93.75,733
-37101,Eagle Rock,NC,,city-us,0,35.79,-78.41,515
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29394,Moorestown,NJ,Burlington County,,city-us,21396,39.979,-74.943,30916
+29396,Moorestown,MI,Missaukee County,,city-us,611,44.481,-84.955,2089
+29395,Moorestown,IN,Lawrence County,,city-us,0,38.719,-86.616,146
+29397,Moorestown,PA,Northampton County,,city-us,0,40.779,-75.370,357

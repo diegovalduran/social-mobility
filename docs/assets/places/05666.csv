@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36976,Callao,,Peru,city-international,1129854,-12.06,-77.13,7569
-36973,Callao,MO,,city-us,248,39.76,-92.62,3464
-36974,Callao,UT,,city-us,0,39.90,-113.71,797
-36975,Callao,VA,,city-us,0,37.97,-76.56,527
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29166,Montana,,,United States,state,1122867,46.680,-110.045,93187
+29160,Montana,WI,Buffalo County,,city-us,284,44.341,-91.665,2012
+29161,Montana,KS,Jewell County,,city-us,71,39.965,-98.108,615
+29162,Montana,AR,Johnson County,,city-us,0,35.425,-93.545,235
+29163,Montana,KS,Labette County,,city-us,0,37.275,-95.124,338
+29164,Montana,WV,Marion County,,city-us,0,39.523,-80.109,156
+29165,Montana,NJ,Warren County,,city-us,0,40.765,-75.067,260

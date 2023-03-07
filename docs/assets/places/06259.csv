@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38937,Lordsburg,NM,,city-us,2273,32.35,-108.71,9973
-38936,Lordsburg,ND,,city-us,16,48.77,-100.23,141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31999,Octagon,VA,Brunswick County,,city-us,0,36.903,-77.899,100
+32000,Octagon,AL,Marengo County,,city-us,0,32.204,-87.755,593
+32001,Octagon,IN,Tippecanoe County,,city-us,0,40.526,-86.992,379

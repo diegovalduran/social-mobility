@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46824,Millers,MD,,city-us,0,39.67,-76.85,559
-46825,Millers,MO,,city-us,0,37.86,-90.27,326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44976,Wallingford,CT,South Central Connecticut Planning Region,,city-us,44194,41.459,-72.805,7771
+44975,Wallingford,VT,Rutland County,,city-us,926,43.472,-72.977,2119
+44973,Wallingford,IA,Emmet County,,city-us,162,43.320,-94.793,3088
+44972,Wallingford,PA,Delaware County,,city-us,0,39.891,-75.363,4632
+44974,Wallingford,KY,Fleming County,,city-us,0,38.405,-83.612,218

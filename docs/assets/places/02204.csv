@@ -1,3 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19010,Avera,GA,,city-us,218,33.19,-82.53,1908
-19011,Avera,MS,,city-us,0,31.30,-88.74,662
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11032,Darlington,NJ,Bergen County,,city-us,25487,41.082,-74.183,25016
+11035,Darlington,SC,Darlington County,,city-us,6092,34.300,-79.876,14127
+11039,Darlington,WI,Lafayette County,,city-us,928,42.653,-90.114,12466
+11040,Darlington,IN,Montgomery County,,city-us,711,40.110,-86.772,5888
+11038,Darlington,KS,Harvey County,,city-us,541,37.955,-97.314,400
+11031,Darlington,PA,Beaver County,,city-us,244,40.810,-80.423,2537
+11033,Darlington,SD,Charles Mix County,,city-us,107,43.382,-98.761,257
+11036,Darlington,MO,Gentry County,,city-us,66,40.198,-94.396,2989
+11034,Darlington,SD,Clark County,,city-us,54,44.762,-97.796,257
+11037,Darlington,MD,Harford County,,city-us,0,39.639,-76.203,0
+11041,Darlington,OH,Muskingum County,,city-us,0,39.881,-82.033,227
+11042,Darlington,LA,St. Helena Parish,,city-us,0,30.878,-90.781,529
+11043,Darlington,FL,Walton County,,city-us,0,30.944,-86.058,86

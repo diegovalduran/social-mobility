@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42026,Charleroi,,Belgium,city-international,201816,50.42,4.44,20513
-42025,Charleroi,PA,,city-us,4210,40.14,-79.90,5981
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36718,Ridgewood,NJ,Bergen County,,city-us,26202,40.979,-74.117,36079
+36721,Ridgewood,IL,Will County,,city-us,2879,41.536,-88.040,379
+36719,Ridgewood,OH,Hamilton County,,city-us,482,39.190,-84.434,462
+36720,Ridgewood,FL,Putnam County,,city-us,0,29.631,-81.839,1129

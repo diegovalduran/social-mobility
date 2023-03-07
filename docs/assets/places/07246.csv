@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42021,Catawissa,PA,,city-us,908,40.95,-76.44,3714
-42022,Catawissa,MO,,city-us,0,38.42,-90.78,687
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36695,Ridgeville,MI,Lenawee County,,city-us,1756,41.778,-84.069,3507
+36692,Ridgeville,SC,Dorchester County,,city-us,1548,33.096,-80.315,2506
+36694,Ridgeville,OH,Henry County,,city-us,1096,41.457,-84.285,1461
+36699,Ridgeville,IN,Randolph County,,city-us,685,40.289,-85.029,3340
+36698,Ridgeville,WI,Monroe County,,city-us,491,43.886,-90.562,1939
+36693,Ridgeville,AL,Etowah County,,city-us,84,34.056,-86.102,2289
+36696,Ridgeville,GA,McIntosh County,,city-us,0,31.406,-81.401,347
+36697,Ridgeville,WV,Mineral County,,city-us,0,39.348,-78.991,300
+36700,Ridgeville,OH,Warren County,,city-us,0,39.529,-84.177,469

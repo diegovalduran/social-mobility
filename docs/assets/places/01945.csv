@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17516,Allentown,PA,,city-us,125944,40.61,-75.49,64714
-17515,Allentown,NJ,,city-us,1736,40.18,-74.58,12866
-17513,Allentown,FL,,city-us,894,30.76,-87.04,760
-17514,Allentown,GA,,city-us,191,32.59,-83.23,3260
-17517,Allentown,AZ,,city-us,0,35.29,-109.16,461
-17518,Allentown,IL,,city-us,0,40.56,-89.40,1842
-17519,Allentown,OH,,city-us,0,40.76,-84.19,212
-17520,Allentown,VA,,city-us,0,37.70,-75.69,72
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9922,Corliss,MN,Otter Tail County,,city-us,624,46.678,-95.470,1893
+9921,Corliss,WV,Fayette County,,city-us,0,38.034,-80.870,89

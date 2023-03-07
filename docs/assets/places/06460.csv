@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39576,Dunbarton,WI,,city-us,16611,42.56,-90.13,4302
-39575,Dunbarton,NH,,city-us,3080,43.11,-71.61,3839
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32904,Paisley,FL,Lake County,,city-us,1115,28.984,-81.542,2853
+32905,Paisley,OR,Lake County,,city-us,252,42.694,-120.546,6046
+32903,Paisley,PA,Greene County,,city-us,0,39.874,-79.944,302

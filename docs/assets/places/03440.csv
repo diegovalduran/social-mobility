@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26880,Markham,,Canada,city-international,328966,43.88,-79.26,34603
-26872,Markham,IL,,city-us,11399,41.59,-87.69,7465
-26873,Markham,TX,,city-us,983,28.96,-96.07,2411
-26874,Markham,WA,,city-us,144,46.91,-124.00,1877
-26875,Markham,IL,,city-us,0,39.75,-90.33,106
-26876,Marcum,KY,,city-us,0,37.11,-83.56,436
-26877,Markham,MN,,city-us,0,47.30,-92.22,1197
-26878,Markham,VA,,city-us,0,38.90,-78.00,720
-26879,Markham,VA,,city-us,0,36.88,-79.24,116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17421,Grainfield,KS,Gove County,,city-us,402,39.070,-100.495,365
+17422,Grainfield,ND,Towner County,,city-us,34,48.667,-99.421,0

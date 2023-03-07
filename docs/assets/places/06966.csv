@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41048,Neville,PA,,city-us,1091,40.51,-80.11,4068
-41047,Neville,OH,,city-us,87,38.81,-84.21,3483
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35424,Princeville,HI,Kauai County,,city-us,1969,22.218,-159.479,3472
+35425,Princeville,IL,Peoria County,,city-us,1620,40.930,-89.758,2420
+35423,Princeville,NC,Edgecombe County,,city-us,1246,35.890,-77.532,7240

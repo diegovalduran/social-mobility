@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37687,Coahoma,TX,,city-us,914,32.30,-101.31,2267
-37686,Coahoma,MS,,city-us,223,34.37,-90.52,2687
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30189,Myrtle,MS,Union County,,city-us,483,34.558,-89.119,2480
+30184,Myrtle,NE,Custer County,,city-us,98,41.373,-99.264,243
+30187,Myrtle,ND,Mountrail County,,city-us,54,48.329,-102.767,0
+30185,Myrtle,MN,Freeborn County,,city-us,48,43.564,-93.164,2760
+30186,Myrtle,WV,Mingo County,,city-us,0,37.768,-82.191,264
+30188,Myrtle,MO,Oregon County,,city-us,0,36.509,-91.267,564

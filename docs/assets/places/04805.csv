@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33529,Rawlings,MD,,city-us,403,39.53,-78.88,435
-33530,Rawlings,VA,,city-us,0,36.95,-77.78,1056
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24532,Lesslie,SC,York County,,city-us,3534,34.891,-80.956,2857
+24527,Leslie,MI,Ingham County,,city-us,2301,42.473,-84.416,2105
+24531,Leslie,MN,Todd County,,city-us,667,45.973,-95.085,2041
+24529,Leslie,AR,Searcy County,,city-us,376,35.830,-92.558,4592
+24530,Leslie,GA,Sumter County,,city-us,341,31.955,-84.087,2104
+24524,Leslie,MO,Carroll County,,city-us,154,39.482,-93.584,136
+24525,Leslie,MO,Franklin County,,city-us,138,38.418,-91.232,2923
+24526,Leslie,WV,Greenbrier County,,city-us,0,38.044,-80.723,159
+24528,Leslie,WI,Lafayette County,,city-us,0,42.771,-90.366,412

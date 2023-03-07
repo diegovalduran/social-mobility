@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17859,Ebro,FL,,city-us,237,30.45,-85.87,2567
-17860,Ebro,MN,,city-us,104,47.50,-95.53,343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10116,Courtland,MI,Kent County,,city-us,9016,43.169,-85.486,3205
+10122,Courtland,VA,Southampton County,,city-us,1295,36.716,-77.068,3171
+10118,Courtland,MN,Nicollet County,,city-us,743,44.268,-94.340,3447
+10121,Courtland,CA,Sacramento County,,city-us,669,38.331,-121.569,2600
+10117,Courtland,AL,Lawrence County,,city-us,584,34.669,-87.309,5570
+10115,Courtland,WI,Columbia County,,city-us,494,43.500,-89.060,1872
+10119,Courtland,MS,Panola County,,city-us,472,34.241,-89.943,2328
+10120,Courtland,KS,Republic County,,city-us,379,39.783,-97.876,127

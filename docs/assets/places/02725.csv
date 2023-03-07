@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22554,Mingo,IA,,city-us,306,41.77,-93.28,3381
-22555,Mingo,MO,,city-us,230,38.43,-94.11,1346
-22556,Mingo,KS,,city-us,0,39.28,-100.96,687
-22557,Mingo,MS,,city-us,0,34.63,-88.15,160
-22558,Mingo,MO,,city-us,0,36.94,-90.20,320
-22559,Mingo,OH,,city-us,0,40.21,-83.64,340
-22560,Mingo,PA,,city-us,0,40.17,-75.52,215
-22561,Mingo,WV,,city-us,0,38.50,-80.05,250
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13564,Elmwood Park,IL,Cook County,,city-us,23945,41.921,-87.809,5571
+13563,Elmwood Park,NJ,Bergen County,,city-us,21267,40.904,-74.118,16337
+13565,Elmwood Park,WI,Racine County,,city-us,506,42.692,-87.822,3717

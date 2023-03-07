@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32759,Mount Lebanon,PA,,city-us,33586,40.38,-80.05,12128
-32760,Mount Lebanon,NJ,,city-us,6195,40.73,-74.89,12053
-32758,Mount Lebanon,LA,,city-us,67,32.50,-93.05,3612
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23544,Lake Butler,FL,Orange County,,city-us,15400,28.486,-81.554,3090
+23545,Lake Butler,FL,Union County,,city-us,1950,30.023,-82.340,3074

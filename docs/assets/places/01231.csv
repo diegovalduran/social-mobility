@@ -1,7 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12422,Hardwick,GA,,city-us,3360,33.07,-83.22,967
-12426,Hardwick,VT,,city-us,2951,44.52,-72.35,8275
-12423,Hardwick,MA,,city-us,2660,42.35,-72.22,5923
-12425,Hardwick,NJ,,city-us,1609,41.04,-75.01,12534
-12424,Hardwick,MN,,city-us,188,43.77,-96.20,3623
-12421,Hardwick,CA,,city-us,144,36.40,-119.72,3207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6207,Burnside,MI,Lapeer County,,city-us,1864,43.221,-83.061,3397
+6209,Burnside,KY,Pulaski County,,city-us,699,36.989,-84.600,4352
+6202,Burnside,AZ,Apache County,,city-us,579,35.751,-109.625,2142
+6210,Burnside,WI,Trempealeau County,,city-us,508,44.386,-91.470,1965
+6204,Burnside,PA,Centre County,,city-us,414,41.145,-77.973,183
+6205,Burnside,PA,Clearfield County,,city-us,189,40.813,-78.786,2074
+6203,Burnside,LA,Ascension Parish,,city-us,0,30.133,-90.917,732
+6206,Burnside,IL,Hancock County,,city-us,0,40.504,-91.100,278
+6208,Burnside,MS,Neshoba County,,city-us,0,32.853,-89.103,294
+6211,Burnside,IA,Webster County,,city-us,0,42.346,-94.107,1274

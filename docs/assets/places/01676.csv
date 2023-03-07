@@ -1,10 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15503,Hugo,MN,,city-us,16109,45.16,-92.99,5716
-15505,Hugo,OK,,city-us,5174,34.01,-95.51,12767
-15502,Hugo,CO,,city-us,786,39.14,-103.47,4872
-15504,Hugo,ND,,city-us,29,47.37,-97.67,0
-15506,Hugo,AL,,city-us,0,32.27,-87.69,216
-15507,Hugo,IL,,city-us,0,39.75,-88.15,122
-15508,Hugo,MO,,city-us,0,38.00,-92.66,500
-15509,Hugo,OR,,city-us,0,42.58,-123.40,1000
-15510,Hugo,WV,,city-us,0,38.58,-81.86,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8449,Clara,MS,Wayne County,,city-us,386,31.581,-88.696,285
+8446,Clara,PA,Potter County,,city-us,177,41.866,-78.119,1825
+8445,Clara,ND,Nelson County,,city-us,30,48.137,-98.357,0
+8447,Clara,FL,Taylor County,,city-us,0,29.797,-83.320,462
+8448,Clara,MO,Texas County,,city-us,0,37.300,-92.021,420

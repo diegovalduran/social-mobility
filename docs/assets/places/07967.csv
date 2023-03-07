@@ -1,3 +1,25 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44245,LaCrosse,WA,,city-us,294,46.81,-117.88,4381
-44246,LaCrosse,AR,,city-us,0,36.09,-91.84,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40284,Somerset,NJ,Mercer County,,city-us,37264,40.263,-74.799,24551
+40293,Somerset,NJ,Somerset County,,city-us,24827,40.498,-74.488,6548
+40277,Somerset,MA,Bristol County,,city-us,18271,41.770,-71.129,11482
+40291,Somerset,KY,Pulaski County,,city-us,11954,37.092,-84.604,11684
+40294,Somerset,PA,Somerset County,,city-us,5992,40.008,-79.078,6015
+40280,Somerset,MI,Hillsdale County,,city-us,4532,42.051,-84.419,3612
+40295,Somerset,WI,St. Croix County,,city-us,4346,45.145,-92.703,5300
+40281,Somerset,IL,Jackson County,,city-us,3956,37.818,-89.304,1308
+40278,Somerset,CA,El Dorado County,,city-us,3642,38.648,-120.686,800
+40287,Somerset,NY,Niagara County,,city-us,2583,43.336,-78.548,4140
+40298,Somerset,PA,Washington County,,city-us,2570,40.146,-80.058,229
+40276,Somerset,TX,Bexar County,,city-us,1765,29.226,-98.658,3895
+40289,Somerset,OH,Perry County,,city-us,1457,39.807,-82.297,5268
+40275,Somerset,OH,Belmont County,,city-us,1240,39.902,-81.173,1194
+40286,Somerset,MD,Montgomery County,,city-us,1175,38.966,-77.096,5499
+40296,Somerset,MN,Steele County,,city-us,718,43.975,-93.216,1890
+40297,Somerset,IN,Wabash County,,city-us,361,40.669,-85.828,428
+40283,Somerset,MO,Mercer County,,city-us,92,40.522,-93.438,203
+40285,Somerset,KS,Miami County,,city-us,90,38.605,-94.769,393
+40279,Somerset,CO,Gunnison County,,city-us,61,38.926,-107.470,747
+40282,Somerset,NE,Lincoln County,,city-us,0,40.825,-100.861,272
+40288,Somerset,VA,Orange County,,city-us,0,38.208,-78.218,825
+40290,Somerset,NC,Person County,,city-us,0,36.354,-78.979,179
+40292,Somerset,IL,Saline County,,city-us,0,37.654,-88.457,175

@@ -1,5 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9986,Coolidge,AZ,,city-us,14709,32.98,-111.52,6903
-9989,Coolidge,TX,,city-us,777,31.75,-96.65,2882
-9987,Coolidge,GA,,city-us,531,31.01,-83.87,2473
-9988,Coolidge,KS,,city-us,78,38.04,-102.01,3501
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4520,Blue Ridge,VA,Botetourt County,,city-us,3078,37.378,-79.807,3904
+4523,Blue Ridge,AL,Elmore County,,city-us,1442,32.493,-86.191,3750
+4524,Blue Ridge,GA,Fannin County,,city-us,1244,34.864,-84.324,5147
+4522,Blue Ridge,TX,Collin County,,city-us,1187,33.298,-96.402,2452
+4521,Blue Ridge,AZ,Coconino County,,city-us,981,34.634,-111.110,178
+4528,Blue Ridge,ND,Williams County,,city-us,20,48.587,-103.570,0
+4525,Blue Ridge,MO,Harrison County,,city-us,0,40.192,-93.936,536
+4526,Blue Ridge,IL,Piatt County,,city-us,0,40.268,-88.488,193
+4527,Blue Ridge,IN,Shelby County,,city-us,0,39.519,-85.636,442

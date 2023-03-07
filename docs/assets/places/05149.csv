@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35094,Sodus,NY,,city-us,7984,43.22,-77.05,6216
-35092,Sodus,MI,,city-us,1932,42.04,-86.38,4057
-35093,Sodus,MN,,city-us,262,44.33,-95.78,1946
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26425,Mahnomen,MN,Mahnomen County,,city-us,1244,47.315,-95.969,3504
+26426,Mahnomen,MN,St. Louis County,,city-us,150,46.773,-92.542,483

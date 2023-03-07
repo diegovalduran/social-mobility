@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24166,Aroma,IL,,city-us,4826,41.07,-87.79,1643
-24167,Aroma,IN,,city-us,0,40.20,-85.87,404
-24168,Aroma,MO,,city-us,0,36.86,-94.26,461
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14991,Five Corners,WA,Clark County,,city-us,20428,45.685,-122.575,2447
+14992,Five Corners,MI,Crawford County,,city-us,5827,44.678,-84.642,5057
+14994,Five Corners,WI,Lafayette County,,city-us,856,42.654,-89.896,3781
+14997,Five Corners,WI,Shawano County,,city-us,485,44.811,-89.043,1908
+14993,Five Corners,OH,Knox County,,city-us,0,40.317,-82.591,312
+14995,Five Corners,OR,Lake County,,city-us,0,42.186,-120.434,149
+14996,Five Corners,WI,Outagamie County,,city-us,0,44.458,-88.456,314

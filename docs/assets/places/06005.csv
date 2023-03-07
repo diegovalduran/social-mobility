@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38129,Westby,WI,,city-us,2350,43.66,-90.85,6997
-38127,Westby,MT,,city-us,166,48.87,-104.05,3891
-38128,Westby,ND,,city-us,40,48.87,-103.97,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30726,New Light,LA,Richland Parish,,city-us,0,32.261,-91.784,304
+30727,New Light,NC,Wake County,,city-us,0,36.013,-78.597,567

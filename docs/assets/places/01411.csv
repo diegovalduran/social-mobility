@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13617,Palo Alto,CA,,city-us,66680,37.44,-122.14,47553
-13618,Palo Alto,PA,,city-us,971,40.69,-76.17,4901
-13619,Palo Alto,VA,,city-us,0,38.42,-79.37,415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7107,Cartersville,GA,Bartow County,,city-us,23222,34.165,-84.800,9745
+7108,Cartersville,IA,Cerro Gordo County,,city-us,0,42.994,-93.083,308
+7109,Cartersville,VA,Cumberland County,,city-us,0,37.667,-78.088,748
+7110,Cartersville,AL,DeKalb County,,city-us,0,34.356,-86.079,341
+7111,Cartersville,SC,Florence County,,city-us,0,34.086,-80.029,367
+7112,Cartersville,VA,Pittsylvania County,,city-us,0,36.727,-79.384,121

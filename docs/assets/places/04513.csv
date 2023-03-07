@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32448,Simpsonville,SC,,city-us,24685,34.74,-82.25,7608
-32447,Simpsonville,KY,,city-us,2997,38.22,-85.36,6287
-32449,Simpsonville,MD,,city-us,0,39.19,-76.89,2690
-32450,Simpsonville,TX,,city-us,0,32.86,-95.07,618
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23193,Knippa,TX,Uvalde County,,city-us,808,29.295,-99.637,2237
+31181,Nippa,KY,Johnson County,,city-us,0,37.866,-82.787,192

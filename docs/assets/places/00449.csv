@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5062,Twin,OH,,city-us,4210,39.97,-84.54,223
-5064,Twin,OH,,city-us,3396,39.29,-83.16,223
-5063,Twin,OH,,city-us,2659,39.79,-84.54,223
-5061,Twin,AL,,city-us,361,34.01,-87.86,1008
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2354,Banco,WV,Logan County,,city-us,0,38.002,-82.008,85
+2355,Banco,VA,Madison County,,city-us,0,38.451,-78.282,90

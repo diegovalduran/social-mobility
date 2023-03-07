@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37112,Ethel,MS,,city-us,341,33.12,-89.47,2145
-37111,Ethel,MO,,city-us,47,39.89,-92.74,3107
-37113,Ethel,AR,,city-us,0,34.29,-91.16,269
-37114,Ethel,IN,,city-us,0,38.40,-86.52,304
-37115,Ethel,LA,,city-us,0,30.79,-91.13,324
-37116,Ethel,VA,,city-us,0,38.00,-76.78,89
-37117,Ethel,WA,,city-us,0,46.53,-122.75,1314
-37118,Ethel,WV,,city-us,0,37.87,-81.91,6883
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29408,Mooreville,MS,Lee County,,city-us,859,34.265,-88.577,1802
+29407,Mooreville,TX,Falls County,,city-us,95,31.302,-97.142,376
+29409,Mooreville,MI,Washtenaw County,,city-us,0,42.103,-83.733,4131

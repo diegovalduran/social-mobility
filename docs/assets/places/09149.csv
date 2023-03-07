@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47255,Edgehill,MO,,city-us,0,37.59,-90.93,502
-47256,Edgehill,VA,,city-us,0,37.41,-76.52,114
-47257,Edgehill,VA,,city-us,0,38.26,-77.14,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46090,West Plains,MO,Howell County,,city-us,12170,36.728,-91.852,17829
+46091,West Plains,KS,Meade County,,city-us,1148,37.251,-100.536,0

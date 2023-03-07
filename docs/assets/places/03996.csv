@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30042,New Middletown,OH,,city-us,1482,40.96,-80.56,3726
-30041,New Middletown,IN,,city-us,89,38.16,-86.05,2871
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20463,Holy Cross,IA,Dubuque County,,city-us,356,42.601,-90.996,4225
+20466,Holy Cross,AK,Yukon-Koyukuk Census Area,,city-us,179,62.199,-159.771,2275
+20462,Holy Cross,MN,Clay County,,city-us,112,46.673,-96.733,1677
+20464,Holy Cross,KY,Marion County,,city-us,0,37.674,-85.447,192
+20465,Holy Cross,WI,Ozaukee County,,city-us,0,43.470,-87.896,406

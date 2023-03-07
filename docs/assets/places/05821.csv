@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37504,Richards,TX,,city-us,296,30.54,-95.85,743
-37503,Richards,MO,,city-us,43,37.91,-94.56,3315
-37505,Richards,IL,,city-us,0,41.18,-88.84,169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29980,Mountain Lake,NJ,Warren County,,city-us,571,40.860,-74.988,483
+29978,Mountain Lake,MN,Cottonwood County,,city-us,299,43.883,-94.910,7003
+29979,Mountain Lake,FL,Polk County,,city-us,0,28.481,-82.311,1473

@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23326,Tripoli,,Libya,city-international,1126000,32.88,13.19,30895
-23327,Tripoli,,Lebanon,city-international,530000,34.43,35.83,31716
-23324,Tripoli,IA,,city-us,1197,42.81,-92.26,3242
-23325,Tripoli,WI,,city-us,0,45.56,-89.99,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14201,Exline,IA,Appanoose County,,city-us,162,40.649,-92.840,3926
+14203,Exline,SD,Spink County,,city-us,61,44.836,-98.638,0
+14202,Exline,IL,Kankakee County,,city-us,0,41.150,-87.768,188

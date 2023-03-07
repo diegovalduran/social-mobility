@@ -1,6 +1,28 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41361,Caddo,OK,,city-us,1034,34.13,-96.26,4824
-41362,Caddo,AL,,city-us,0,34.57,-87.14,2693
-41363,Caddoa,CO,,city-us,0,38.05,-102.96,836
-41364,Caddo,MO,,city-us,0,37.34,-93.05,453
-41365,Caddo,TX,,city-us,0,32.72,-98.67,1158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35860,Randolph,MA,Norfolk County,,city-us,34715,42.179,-71.053,10291
+35859,Randolph,NJ,Morris County,,city-us,26480,40.842,-74.579,21294
+35863,Randolph,OH,Portage County,,city-us,5317,41.027,-81.254,1698
+35861,Randolph,VT,Orange County,,city-us,4799,43.922,-72.611,7577
+35849,Randolph,WI,Columbia County / Dodge County,,city-us,1786,43.539,-89.003,4170
+35856,Randolph,ME,Kennebec County,,city-us,1745,44.237,-69.751,3954
+35852,Randolph,PA,Crawford County,,city-us,1706,41.621,-79.948,2038
+35842,Randolph,AL,Bibb County,,city-us,1169,32.899,-86.911,372
+35844,Randolph,NY,Cattaraugus County,,city-us,962,42.162,-78.975,4293
+35845,Randolph,NE,Cedar County / Pierce County,,city-us,874,42.378,-97.358,3491
+35848,Randolph,WI,Columbia County,,city-us,764,43.615,-89.035,4170
+35853,Randolph,MN,Dakota County,,city-us,760,44.535,-92.969,2045
+35865,Randolph,UT,Rich County,,city-us,493,41.666,-111.182,3130
+35850,Randolph,NH,Coos County,,city-us,322,44.397,-71.305,5467
+35855,Randolph,IA,Fremont County,,city-us,189,40.873,-95.566,3409
+35866,Randolph,KS,Riley County,,city-us,167,39.431,-96.760,4417
+35847,Randolph,MO,Clay County,,city-us,56,39.158,-94.496,3527
+35857,Randolph,ND,McKenzie County,,city-us,22,47.809,-103.733,0
+35843,Randolph,SD,Brown County,,city-us,0,45.243,-98.210,291
+35846,Randolph,VA,Charlotte County,,city-us,0,36.894,-78.698,596
+35851,Randolph,OR,Coos County,,city-us,0,43.168,-124.356,4170
+35854,Randolph,TX,Fannin County,,city-us,0,33.484,-96.252,204
+35858,Randolph,IL,McLean County,,city-us,0,40.376,-88.980,338
+35862,Randolph,MS,Pontotoc County,,city-us,0,34.181,-89.168,2367
+35864,Randolph,IN,Randolph County,,city-us,0,40.266,-84.976,378
+35867,Randolph,PA,Somerset County,,city-us,0,40.151,-79.002,163
+35868,Randolph,TN,Tipton County,,city-us,0,35.516,-89.889,0

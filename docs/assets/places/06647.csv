@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40182,Timberlake,VA,,city-us,12972,37.32,-79.26,2864
-40181,Timberlake,OH,,city-us,621,41.67,-81.44,3374
-40180,Timberlake,NM,,city-us,421,35.20,-108.48,444
-40183,Timberlake,NC,,city-us,0,36.29,-78.95,1288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33822,Petroleum,KY,Allen County,,city-us,0,36.695,-86.248,84
+33823,Petroleum,WV,Ritchie County,,city-us,0,39.191,-81.268,439
+33824,Petroleum,IN,Wells County,,city-us,0,40.611,-85.151,312

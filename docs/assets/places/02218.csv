@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19097,Braswell,GA,,city-us,365,33.98,-84.96,1743
-19098,Braswell,MO,,city-us,0,36.71,-91.31,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11104,Davisville,NJ,Burlington County,,city-us,0,40.110,-74.618,392
+11105,Davisville,MO,Crawford County,,city-us,0,37.808,-91.185,479
+11106,Davisville,OH,Jackson County,,city-us,0,39.098,-82.612,184
+11107,Davisville,WV,Wood County,,city-us,0,39.201,-81.498,258

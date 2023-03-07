@@ -1,40 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8209,Newport,,United Kingdom,city-international,145700,51.58,-3.00,9262
-8190,Newport,RI,,city-us,25156,41.49,-71.31,28126
-8175,Newport,KY,,city-us,14113,39.09,-84.50,12202
-8187,Newport,OR,,city-us,10496,44.64,-124.05,8020
-8171,Newport,AR,,city-us,7852,35.60,-91.28,4938
-8193,Newport,TN,,city-us,6916,35.97,-83.19,22355
-8173,Newport,IL,,city-us,6792,42.45,-87.95,3160
-8182,Newport,NH,,city-us,6352,43.37,-72.20,9015
-8201,Newport,NJ,,city-us,6195,40.73,-74.89,12053
-8179,Newport,NC,,city-us,4459,34.79,-76.86,5779
-8188,Newport,PA,,city-us,4453,41.19,-76.04,6271
-8191,Newport,SC,,city-us,4441,34.99,-81.10,2259
-8194,Newport,VT,,city-us,4440,44.94,-72.21,86
-8177,Newport,MN,,city-us,4328,44.87,-93.00,3477
-8176,Newport,ME,,city-us,3112,44.87,-69.22,5855
-8195,Newport,WA,,city-us,2132,48.18,-117.04,5786
-8186,Newport,OH,,city-us,1913,39.40,-81.29,2068
-8189,Newport,PA,,city-us,1492,40.48,-77.13,3484
-8172,Newport,DE,,city-us,893,39.71,-75.61,7048
-8196,Newport,WI,,city-us,607,43.61,-89.71,2195
-8184,Newport,NY,,city-us,561,43.19,-75.01,3540
-8174,Newport,IN,,city-us,411,39.88,-87.41,5770
-8185,Newport,OH,,city-us,122,40.30,-84.37,729
-8180,Newport,ND,,city-us,102,48.33,-100.43,0
-8181,Newport,NE,,city-us,69,42.60,-99.33,3174
-8192,Newport,SD,,city-us,62,45.62,-97.92,0
-8178,Newport,MO,,city-us,0,37.53,-94.10,286
-8183,Newport,NJ,,city-us,0,39.30,-75.18,1587
-8197,Newport,CA,,city-us,0,39.58,-123.77,301
-8198,Newport,FL,,city-us,0,30.20,-84.18,4633
-8199,Newport,MD,,city-us,0,38.42,-76.90,283
-8200,Newport,MI,,city-us,0,42.00,-83.31,3994
-8202,Newport,OH,,city-us,0,39.84,-83.47,1281
-8203,Newport,OH,,city-us,0,40.36,-81.34,597
-8204,Newport,OK,,city-us,0,34.25,-97.27,118
-8205,Newport,VA,,city-us,0,38.00,-79.30,282
-8206,Newport,VA,,city-us,0,37.29,-80.50,518
-8207,Newport,VA,,city-us,0,38.58,-78.60,249
-8208,Newport,WV,,city-us,0,39.26,-81.56,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3801,Bethesda,MD,Montgomery County,,city-us,66294,38.981,-77.100,21164
+3794,Bethesda,OH,Belmont County,,city-us,1205,40.016,-81.073,4817
+3799,Bethesda,AR,Independence County,,city-us,199,35.791,-91.789,532
+3795,Bethesda,GA,Chatham County,,city-us,0,31.963,-81.094,194
+3796,Bethesda,NC,Davidson County,,city-us,0,35.879,-80.241,122
+3797,Bethesda,NC,Durham County,,city-us,0,35.943,-78.838,330
+3798,Bethesda,GA,Greene County,,city-us,0,33.634,-83.010,155
+3800,Bethesda,PA,Lancaster County,,city-us,0,39.846,-76.304,298
+3802,Bethesda,IA,Page County,,city-us,0,40.843,-95.100,242
+3803,Bethesda,WI,Waukesha County,,city-us,0,42.988,-88.318,255
+3804,Bethesda,WV,Wayne County,,city-us,0,38.189,-82.423,96
+3805,Bethesda,TN,Williamson County,,city-us,0,35.761,-86.793,1801

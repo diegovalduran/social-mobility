@@ -1,3 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42771,Womelsdorf,PA,,city-us,2888,40.36,-76.18,3396
-42772,Womelsdorf,WV,,city-us,189,38.90,-79.96,2750
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38045,Rutland,IL,Kane County,,city-us,27077,42.108,-88.412,216
+38056,Rutland,MA,Worcester County,,city-us,9169,42.388,-71.970,6197
+38039,Rutland,MI,Barry County,,city-us,4179,42.639,-85.371,2000
+38052,Rutland,VT,Rutland County,,city-us,3913,43.645,-72.953,136
+38047,Rutland,IL,LaSalle County,,city-us,3578,41.390,-88.754,216
+38044,Rutland,NY,Jefferson County,,city-us,3038,43.944,-75.786,3682
+38041,Rutland,WI,Dane County,,city-us,1977,42.879,-89.350,2729
+38055,Rutland,PA,Tioga County,,city-us,777,41.875,-76.977,2232
+38050,Rutland,OH,Meigs County,,city-us,424,39.045,-82.130,4737
+38049,Rutland,MN,Martin County,,city-us,372,43.720,-94.424,1948
+38051,Rutland,KS,Montgomery County,,city-us,262,37.190,-95.883,7649
+38043,Rutland,IA,Humboldt County,,city-us,118,42.759,-94.298,3216
+38053,Rutland,ND,Sargent County,,city-us,53,46.068,-97.550,2997
+38040,Rutland,GA,Bibb County,,city-us,0,32.724,-83.653,141
+38042,Rutland,KY,Harrison County,,city-us,0,38.445,-84.451,297
+38046,Rutland,SD,Lake County,,city-us,0,44.089,-96.967,265
+38048,Rutland,IN,Marshall County,,city-us,0,41.244,-86.357,335
+38054,Rutland,FL,Sumter County,,city-us,0,28.853,-82.213,770

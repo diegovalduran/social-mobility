@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21580,Elkader,IA,,city-us,1194,42.85,-91.41,5467
-21581,Elkader,KS,,city-us,13,38.89,-100.88,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12773,Eastman,GA,Dodge County,,city-us,5595,32.198,-83.178,8240
+12772,Eastman,WI,Crawford County,,city-us,735,43.185,-90.956,3054
+12774,Eastman,ND,Foster County,,city-us,15,47.363,-98.553,0

@@ -1,26 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4811,Shiloh,IL,,city-us,14352,38.56,-89.90,3822
-4816,Shiloh,PA,,city-us,11098,39.98,-76.80,1882
-4814,Shiloh,OH,,city-us,10952,39.81,-84.23,2318
-4810,Shiloh,IL,,city-us,6556,38.34,-88.98,277
-4815,Shiloh,OH,,city-us,620,40.97,-82.60,4343
-4812,Shiloh,KS,,city-us,563,37.42,-95.46,119
-4813,Shiloh,NJ,,city-us,445,39.46,-75.30,9320
-4808,Shiloh,GA,,city-us,415,32.81,-84.70,2734
-4807,Shiloh,AL,,city-us,323,34.46,-85.88,2053
-4817,Shiloh,SC,,city-us,188,33.94,-80.04,2002
-4809,Shiloh,IL,,city-us,132,39.75,-87.86,277
-4818,Shiloh,TN,,city-us,0,35.12,-88.36,3513
-4819,Shiloh,AL,,city-us,0,32.13,-87.74,304
-4820,Shiloh,AR,,city-us,0,35.32,-93.14,1924
-4821,Shiloh,IN,,city-us,0,39.04,-87.29,351
-4822,Shiloh,KY,,city-us,0,36.69,-88.21,84
-4823,Shiloh,TX,,city-us,0,32.57,-94.86,3168
-4824,Shiloh,TX,,city-us,0,29.98,-95.93,319
-4825,Shiloh,VA,,city-us,0,38.09,-79.65,87
-4826,Shiloh,VA,,city-us,0,38.22,-77.11,87
-4827,Shiloh,VA,,city-us,0,37.02,-80.71,89
-4828,Shiloh,VA,,city-us,0,38.50,-77.50,90
-4829,Shiloh,WV,,city-us,0,39.18,-78.43,368
-4830,Shiloh,WV,,city-us,0,37.80,-81.39,149
-4831,Shiloh,WV,,city-us,0,39.46,-81.01,1026
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2206,Bailey,CO,Park County,,city-us,8042,39.405,-105.472,3957
+2204,Bailey,MI,Muskegon County,,city-us,2805,43.253,-85.847,2249
+2205,Bailey,NC,Nash County,,city-us,563,35.781,-78.119,2103
+2199,Bailey,TX,Fannin County,,city-us,231,33.432,-96.166,2890
+2202,Bailey,SD,Lyman County,,city-us,13,43.785,-99.696,0
+2200,Bailey,MO,Jefferson County,,city-us,0,38.225,-90.431,345
+2201,Bailey,MS,Lauderdale County,,city-us,0,32.468,-88.723,205
+2203,Bailey,IA,Mitchell County,,city-us,0,43.465,-92.608,5185
+2207,Bailey,MN,Sherburne County,,city-us,0,45.317,-93.665,300

@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34029,Bertrand,MO,,city-us,718,36.91,-89.45,3322
-34030,Bertrand,NE,,city-us,704,40.53,-99.63,3411
-34028,Bertrand,MI,,city-us,0,41.77,-86.26,893
-34031,Bertrand,VA,,city-us,0,37.67,-76.52,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25310,Livonia,MI,Wayne County,,city-us,94422,42.368,-83.353,13762
+25305,Livonia,NY,Livingston County,,city-us,7365,42.809,-77.654,6387
+25308,Livonia,MN,Sherburne County,,city-us,6295,45.434,-93.563,1974
+25306,Livonia,LA,Pointe Coupee Parish,,city-us,1191,30.559,-91.556,4063
+25309,Livonia,IN,Washington County,,city-us,99,38.557,-86.277,3134
+25307,Livonia,MO,Putnam County,,city-us,56,40.491,-92.700,3683
+25304,Livonia,PA,Centre County,,city-us,0,40.981,-77.292,755

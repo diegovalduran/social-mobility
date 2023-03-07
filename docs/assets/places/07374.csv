@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42429,New Columbia,PA,,city-us,922,41.04,-76.87,1269
-42430,New Columbia,IL,,city-us,0,37.31,-88.78,131
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37446,Ronald,MI,Ionia County,,city-us,1940,43.079,-85.020,2975
+37447,Ronald,WA,Kittitas County,,city-us,158,47.235,-121.023,2424
+37445,Ronald,MN,Aitkin County,,city-us,0,46.447,-93.055,432

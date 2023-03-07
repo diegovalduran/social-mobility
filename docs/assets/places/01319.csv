@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13055,Lookout,KS,,city-us,536,38.76,-99.45,479
-13054,Lookout,CA,,city-us,43,41.21,-121.16,4393
-13056,Lookout,IN,,city-us,0,39.20,-85.21,266
-13057,Lookout,KY,,city-us,0,37.31,-82.47,189
-13058,Lookout,OK,,city-us,0,36.94,-99.28,628
-13059,Lookout,PA,,city-us,0,41.78,-75.18,236
-13060,Lookout,WV,,city-us,0,38.07,-80.97,321
-13061,Lookout,WI,,city-us,0,44.46,-91.58,186
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6695,Campbellsport,WI,Fond du Lac County,,city-us,1901,43.598,-88.279,6824
+6696,Campbellsport,OH,Portage County,,city-us,0,41.136,-81.197,606

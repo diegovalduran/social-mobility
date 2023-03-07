@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40022,Alcalde,NM,,city-us,239,36.09,-106.05,2078
-40023,Alcalde,KY,,city-us,0,37.05,-84.55,170
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33520,Pembroke,MA,Plymouth County,,city-us,18410,42.068,-70.806,17934
+33518,Pembroke,NH,Merrimack County,,city-us,7482,43.168,-71.439,6233
+33515,Pembroke,NY,Genesee County,,city-us,4227,43.002,-78.385,4845
+33521,Pembroke,NC,Robeson County,,city-us,2812,34.680,-79.195,6903
+33513,Pembroke,GA,Bryan County,,city-us,2624,32.136,-81.622,3783
+33517,Pembroke,IL,Kankakee County,,city-us,1785,41.065,-87.592,4353
+33516,Pembroke,VA,Giles County,,city-us,1136,37.320,-80.639,2285
+33514,Pembroke,KY,Christian County,,city-us,852,36.776,-87.356,2404
+33522,Pembroke,ME,Washington County,,city-us,799,44.917,-67.135,4490
+33519,Pembroke,IN,Newton County,,city-us,0,41.100,-87.277,214

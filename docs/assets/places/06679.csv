@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40270,Allegany,NY,,city-us,7324,42.09,-78.53,5203
-40271,Allegany,PA,,city-us,393,41.87,-77.90,2625
-40272,Allegany,OR,,city-us,0,43.43,-124.02,1011
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33941,Pickerel,WI,Langlade County,,city-us,0,45.359,-88.911,452
+33942,Pickerel,VA,Pittsylvania County,,city-us,0,36.977,-79.411,96

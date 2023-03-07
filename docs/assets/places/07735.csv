@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43577,Grape Creek,TX,,city-us,4024,31.58,-100.55,3274
-43578,Grape Creek,NC,,city-us,0,35.12,-84.09,265
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39135,Seminary,IL,Fayette County,,city-us,506,38.864,-89.204,950
+39134,Seminary,MS,Covington County,,city-us,299,31.562,-89.498,6366
+39136,Seminary,VA,Lee County,,city-us,0,36.811,-82.834,342

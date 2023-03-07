@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13459,Nice,,France,city-international,341032,43.70,7.27,45654
-13458,Nice,CA,,city-us,2655,39.12,-122.85,3980
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6969,Carmel,IN,Hamilton County,,city-us,100777,39.978,-86.118,13650
+6973,Carmel,NY,Putnam County,,city-us,6814,41.430,-73.680,9787
+6971,Carmel,ME,Penobscot County,,city-us,2881,44.800,-69.003,3914
+6968,Carmel,MI,Eaton County,,city-us,2835,42.546,-84.905,2704
+6970,Carmel,OH,Highland County,,city-us,0,39.167,-83.408,261
+6972,Carmel,WV,Preston County,,city-us,0,39.331,-79.278,262
+6974,Carmel,VA,Shenandoah County,,city-us,0,38.827,-78.433,205

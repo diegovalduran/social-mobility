@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32859,Sugartown,LA,,city-us,0,30.84,-93.01,4850
-32860,Sugartown,PA,,city-us,0,40.00,-75.51,989
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23643,Lake Shore,MD,Anne Arundel County,,city-us,19388,39.107,-76.485,2818
+23645,Lake Shore,WA,Clark County,,city-us,7169,45.691,-122.691,2452
+23647,Lake Shore,UT,Utah County,,city-us,1128,40.122,-111.730,1930
+23644,Lake Shore,MN,Cass County,,city-us,1090,46.486,-94.361,3166
+23646,Lake Shore,MN,Lac qui Parle County,,city-us,167,45.133,-96.165,1874

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40987,McConnelsville,OH,,city-us,1644,39.65,-81.85,6509
-40988,McConnelsville,OH,,city-us,0,39.65,-81.85,268
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35298,Prattville,AL,Autauga County / Elmore County,,city-us,38286,32.449,-86.449,7368
+35299,Prattville,MI,Hillsdale County,,city-us,1542,41.763,-84.413,3048
+35300,Prattville,CA,Plumas County,,city-us,56,40.209,-121.157,3266

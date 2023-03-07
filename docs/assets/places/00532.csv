@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5993,Briarcliff,TX,,city-us,2133,30.41,-98.04,3162
-5992,Briarcliff,AR,,city-us,237,36.28,-92.29,2459
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2735,Bay City,MI,Bay County,,city-us,32404,43.594,-83.889,25850
+2737,Bay City,TX,Matagorda County,,city-us,17882,28.983,-95.969,5507
+2740,Bay City,OR,Tillamook County,,city-us,1404,45.523,-123.889,3680
+2738,Bay City,WI,Pierce County,,city-us,442,44.586,-92.450,2949
+2736,Bay City,WA,Grays Harbor County,,city-us,0,46.864,-124.059,200
+2739,Bay City,IL,Pope County,,city-us,0,37.249,-88.497,464

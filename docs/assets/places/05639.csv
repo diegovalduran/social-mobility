@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36881,Zimmerman,MN,,city-us,6395,45.44,-93.59,5993
-36882,Zimmerman,PA,,city-us,0,40.05,-79.11,105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29002,Moline,IL,Rock Island County,,city-us,42418,41.507,-90.515,38910
+29000,Moline,MI,Allegan County,,city-us,7922,42.736,-85.717,4527
+29001,Moline,KS,Elk County,,city-us,331,37.360,-96.304,9617
+29003,Moline,OH,Wood County,,city-us,0,41.559,-83.511,633

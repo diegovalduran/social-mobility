@@ -1,13 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34399,Freeman,SD,,city-us,1322,43.35,-97.44,4509
-34395,Freeman,MI,,city-us,1131,43.96,-85.03,2116
-34400,Freeman,WI,,city-us,721,43.37,-91.08,2034
-34397,Freeman,MO,,city-us,484,38.62,-94.51,3256
-34396,Freeman,MN,,city-us,437,43.54,-93.35,2349
-34398,Freeman,ND,,city-us,49,46.41,-97.22,0
-34401,Freeman,GA,,city-us,0,31.36,-85.06,221
-34402,Freeman,IL,,city-us,0,42.12,-88.39,181
-34403,Freeman,IN,,city-us,0,39.20,-86.73,1092
-34404,Freeman,VA,,city-us,0,36.76,-77.69,1308
-34405,Freeman,WA,,city-us,0,47.52,-117.20,2658
-34406,Freeman,WV,,city-us,0,38.92,-80.33,131
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25690,Loomis,CA,Placer County,,city-us,6868,38.821,-121.193,8031
+25689,Loomis,NE,Phelps County,,city-us,391,40.478,-99.507,3131
+25686,Loomis,MI,Isabella County,,city-us,194,43.793,-84.667,757
+25688,Loomis,WA,Okanogan County,,city-us,35,48.821,-119.633,3001
+25685,Loomis,SD,Davison County,,city-us,0,43.794,-98.105,1738
+25687,Loomis,WI,Marinette County,,city-us,0,45.193,-87.899,946

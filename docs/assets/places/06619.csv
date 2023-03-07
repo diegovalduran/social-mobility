@@ -1,3 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40092,House,NM,,city-us,55,34.65,-103.90,2017
-40093,House,NC,,city-us,0,35.65,-77.36,155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33620,Peoria,AZ,Maricopa County / Yavapai County,,city-us,194917,33.786,-112.308,13203
+33623,Peoria,IL,Peoria County,,city-us,111666,40.694,-89.589,31900
+33617,Peoria,NE,Knox County,,city-us,139,42.656,-97.662,239
+33622,Peoria,OK,Ottawa County,,city-us,131,36.915,-94.670,3415
+33618,Peoria,OR,Linn County,,city-us,103,44.449,-123.207,1134
+33614,Peoria,CO,Arapahoe County,,city-us,53,39.680,-104.114,938
+33615,Peoria,IN,Franklin County,,city-us,0,39.433,-84.817,397
+33616,Peoria,KS,Franklin County,,city-us,0,38.585,-95.149,405
+33619,Peoria,IA,Mahaska County,,city-us,0,41.462,-92.801,237
+33621,Peoria,IN,Miami County,,city-us,0,40.719,-85.961,2772
+33624,Peoria,OH,Union County,,city-us,0,40.314,-83.446,2038
+33625,Peoria,MO,Washington County,,city-us,0,37.756,-90.884,518

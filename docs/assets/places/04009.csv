@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30090,Otisco,NY,,city-us,2379,42.86,-76.23,3986
-30088,Otisco,MI,,city-us,2364,43.08,-85.26,5084
-30087,Otisco,IN,,city-us,0,38.54,-85.67,487
-30089,Otisco,MN,,city-us,0,43.98,-93.50,327
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20550,Honey Grove,TX,Fannin County,,city-us,1753,33.583,-95.910,5956
+20549,Honey Grove,KY,Christian County,,city-us,0,36.890,-87.310,369
+20551,Honey Grove,PA,Juniata County,,city-us,0,40.402,-77.552,312

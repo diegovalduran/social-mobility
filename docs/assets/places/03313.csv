@@ -1,6 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25988,Hinckley,IL,,city-us,1991,41.77,-88.64,3822
-25992,Hinkley,CA,,city-us,1692,34.93,-117.20,3217
-25989,Hinckley,MN,,city-us,756,46.03,-93.01,1975
-25991,Hinckley,UT,,city-us,617,39.32,-112.67,2757
-25990,Hinckley,OH,,city-us,0,41.24,-81.75,695
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18304,Guilford,CT,South Central Connecticut Planning Region,,city-us,22031,41.339,-72.706,9493
+16785,Gilford,NH,Belknap County,,city-us,7804,43.520,-71.376,5019
+18298,Guilford,PA,Franklin County,,city-us,3570,39.917,-77.599,2179
+18301,Guilford,OH,Medina County,,city-us,3097,41.027,-81.830,1399
+18296,Guilford,NY,Chenango County,,city-us,2719,42.402,-75.451,4814
+18306,Guilford,VT,Windham County,,city-us,2148,42.774,-72.619,4690
+16786,Gilford,MI,Tuscola County,,city-us,741,43.530,-83.652,2443
+18303,Guilford,ME,Piscataquis County,,city-us,527,45.169,-69.384,4267
+18305,Guilford,KS,Wilson County,,city-us,163,37.605,-95.726,153
+18302,Guilford,MO,Nodaway County,,city-us,56,40.170,-94.736,3673
+18295,Guilford,VA,Accomack County,,city-us,0,37.825,-75.652,147
+18297,Guilford,IN,Dearborn County,,city-us,0,39.168,-84.912,1042
+18299,Guilford,MD,Howard County,,city-us,0,39.170,-76.831,0
+18300,Guilford,IL,Jo Daviess County,,city-us,0,42.417,-90.300,88

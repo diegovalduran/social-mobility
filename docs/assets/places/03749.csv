@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28716,Tuscola,IL,,city-us,5451,39.82,-88.28,1340
-28717,Tuscola,MI,,city-us,2082,43.35,-83.64,2882
-28718,Tuscola,TX,,city-us,847,32.21,-99.80,2694
-28719,Tuscola,MS,,city-us,0,32.62,-89.53,483
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19186,Hartwood,VA,Stafford County,,city-us,0,38.402,-77.565,468
+19187,Hartwood,OH,Tuscarawas County,,city-us,0,40.279,-81.484,274

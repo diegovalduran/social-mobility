@@ -1,8 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25705,Grand Prairie,TX,,city-us,197347,32.69,-97.02,14788
-25704,Grand Prairie,OH,,city-us,1564,40.67,-83.13,1342
-25700,Grand Prairie,IL,,city-us,893,38.43,-89.09,1254
-25703,Grand Prairie,NE,,city-us,329,41.61,-97.42,403
-25701,Grand Prairie,MN,,city-us,207,43.55,-95.99,4422
-25702,Grand Prairie,ND,,city-us,51,47.11,-97.90,137
-25706,Grand Prairie,LA,,city-us,0,30.68,-92.15,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16556,Genoa,,,Italy,city-international,580097,44.407,8.934,74285
+16546,Genoa,OH,Delaware County,,city-us,25684,40.173,-82.898,6833
+16549,Genoa,MI,Livingston County,,city-us,20831,42.551,-83.859,2990
+16545,Genoa,IL,DeKalb County,,city-us,5530,42.105,-88.656,961
+16553,Genoa,OH,Ottawa County,,city-us,2212,41.518,-83.359,6987
+16544,Genoa,NY,Cayuga County,,city-us,1815,42.647,-76.569,4363
+16550,Genoa,AR,Miller County,,city-us,972,33.384,-93.909,1020
+16547,Genoa,NV,Douglas County,,city-us,958,39.004,-119.847,3746
+16551,Genoa,NE,Nance County,,city-us,898,41.449,-97.731,3891
+16554,Genoa,WI,Vernon County,,city-us,758,43.546,-91.173,3555
+16548,Genoa,CO,Lincoln County,,city-us,156,39.278,-103.500,2274
+16552,Genoa,MN,Olmsted County,,city-us,0,44.110,-92.608,492
+16555,Genoa,WV,Wayne County,,city-us,0,38.122,-82.460,276

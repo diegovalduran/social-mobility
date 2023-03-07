@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41969,Boggs,PA,,city-us,2727,41.00,-77.79,224
-41970,Boggs,PA,,city-us,1652,40.94,-78.35,224
-41968,Boggs,PA,,city-us,805,40.89,-79.41,224
-41971,Boggs,WV,,city-us,0,38.47,-80.63,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36616,Richmond Hill,,,Canada,city-international,195022,43.867,-79.433,30071
+36614,Richmond Hill,GA,Bryan County,,city-us,17556,31.938,-81.303,9233
+36615,Richmond Hill,NC,Yadkin County,,city-us,0,36.245,-80.611,1095

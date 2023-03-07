@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46811,West River,WY,,city-us,321,44.10,-107.98,2284
-46810,West River,MD,,city-us,0,38.85,-76.60,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44934,Walkerville,MT,Silver Bow County,,city-us,643,46.034,-112.536,4773
+44932,Walkerville,MI,Oceana County,,city-us,266,43.714,-86.125,4181
+44931,Walkerville,IL,Greene County,,city-us,161,39.405,-90.543,1031
+44933,Walkerville,IN,Shelby County,,city-us,0,39.528,-85.763,216

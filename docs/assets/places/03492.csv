@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27186,Mound City,MO,,city-us,1005,40.13,-95.23,4917
-27185,Mound City,KS,,city-us,651,38.14,-94.81,4009
-27184,Mound City,IL,,city-us,524,37.09,-89.16,4581
-27187,Mound City,SD,,city-us,67,45.73,-100.07,3062
-27188,Mound City,AR,,city-us,0,35.19,-90.13,1441
-27189,Mound City,TX,,city-us,0,31.58,-95.41,1261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17706,Grattan,MI,Kent County,,city-us,3817,43.078,-85.362,3350
+17703,Graton,CA,Sonoma County,,city-us,1802,38.436,-122.870,5888
+17707,Gratton,VA,Tazewell County,,city-us,1009,37.135,-81.414,114
+17704,Grattan,NE,Holt County,,city-us,833,42.441,-98.664,246
+17705,Grattan,MN,Itasca County,,city-us,10,47.818,-94.089,919

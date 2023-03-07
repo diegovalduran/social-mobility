@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41918,Armagh,PA,,city-us,4032,40.76,-77.48,1846
-41917,Armagh,PA,,city-us,103,40.45,-79.03,3135
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36448,Rich Hill,MO,Livingston County,,city-us,1434,39.838,-93.474,179
+36446,Rich Hill,MO,Bates County,,city-us,1242,38.096,-94.361,4108
+36449,Rich Hill,OH,Muskingum County,,city-us,503,39.889,-81.736,1243
+36447,Rich Hill,OH,Knox County,,city-us,0,40.321,-82.727,365

@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23590,Amman,,Jordan,city-international,4007526,31.95,35.93,46233
-23587,Ammon,ID,,city-us,18673,43.47,-111.97,5827
-23588,Ammon,NC,,city-us,0,34.80,-78.58,137
-23589,Ammon,VA,,city-us,0,37.21,-77.77,1459
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14558,Falmouth,VA,Stafford County,,city-us,4536,38.324,-77.468,5707
+14552,Falmouth,MA,Barnstable County,,city-us,3895,41.551,-70.615,17219
+14557,Falmouth,KY,Pendleton County,,city-us,2198,38.677,-84.330,5450
+14553,Falmouth,ME,Cumberland County,,city-us,1728,43.730,-70.242,13749
+14555,Falmouth,PA,Lancaster County,,city-us,397,40.129,-76.714,1022
+14556,Falmouth,MI,Missaukee County,,city-us,183,44.243,-85.087,1137
+14554,Falmouth,IN,Fayette County,,city-us,0,39.701,-85.301,990
+14559,Falmouth,FL,Suwannee County,,city-us,0,30.363,-83.131,687

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35687,Denham,MN,,city-us,37,46.36,-92.94,3175
-35688,Denham,IN,,city-us,0,41.15,-86.71,523
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27210,Massie,OH,Warren County,,city-us,1198,39.490,-84.021,1981
+27205,Massey,IA,Dubuque County,,city-us,0,42.430,-90.585,79
+27206,Massey,MD,Kent County,,city-us,0,39.310,-75.825,611
+27207,Massey,AL,Morgan County,,city-us,0,34.370,-87.022,118

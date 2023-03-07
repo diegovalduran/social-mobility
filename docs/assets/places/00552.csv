@@ -1,9 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6265,Cincinnati,OH,,city-us,308935,39.10,-84.52,56086
-6264,Cincinnati,IL,,city-us,8801,40.52,-89.66,219
-6261,Cincinnati,AR,,city-us,306,36.04,-94.51,1432
-6262,Cincinnati,IA,,city-us,289,40.63,-92.92,3775
-6263,Cincinnati,IL,,city-us,24,39.63,-91.19,219
-6266,Cincinnati,IN,,city-us,0,39.02,-86.73,622
-6267,Cincinnati,IN,,city-us,0,39.86,-87.23,162
-6268,Cincinnati,MO,,city-us,0,39.56,-91.59,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2812,Beach,ND,Golden Valley County,,city-us,996,46.918,-104.004,5132
+2813,Beach,GA,Ware County,,city-us,0,31.440,-82.504,219
+2814,Beach,MO,Webster County,,city-us,0,37.431,-92.959,443
+2815,Beach,WA,Whatcom County,,city-us,0,48.716,-122.684,260
+3061,Beech,KY,Breathitt County,,city-us,0,37.370,-83.429,99
+3062,Beech,WV,Calhoun County,,city-us,0,38.763,-81.172,87
+3063,Beech,IA,Warren County,,city-us,0,41.375,-93.352,536
+3064,Beech,MI,Wayne County,,city-us,0,42.378,-83.296,850

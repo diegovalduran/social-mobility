@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44598,Beech Bottom,WV,,city-us,540,40.23,-80.65,3399
-44599,Beech Bottom,TN,,city-us,0,36.47,-86.01,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40935,St. Albans,WV,Kanawha County,,city-us,10635,38.386,-81.836,4483
+40933,St. Albans,VT,Franklin County,,city-us,6948,44.811,-73.146,479
+40936,St. Albans,OH,Licking County,,city-us,2567,40.079,-82.618,1347
+40937,St. Albans,ME,Somerset County,,city-us,2066,44.927,-69.387,3051
+40934,St. Albans,IL,Hancock County,,city-us,306,40.239,-91.217,774
+40932,St. Albans,MO,Franklin County,,city-us,0,38.579,-90.775,1119

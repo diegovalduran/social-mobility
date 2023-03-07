@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43224,Wacker,SD,,city-us,16,45.87,-99.04,349
-43225,Wacker,IL,,city-us,0,42.06,-90.05,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38643,Santa Anna,IL,De Witt County,,city-us,2270,40.236,-88.651,0
+38642,Santa Anna,TX,Coleman County,,city-us,1022,31.742,-99.322,5681
+38644,Santa Anna,TX,Starr County,,city-us,11,26.668,-98.564,279

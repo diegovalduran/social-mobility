@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3263,Kinsey,AL,,city-us,2243,31.30,-85.34,3868
-3264,Kinsey,IN,,city-us,0,41.10,-85.70,311
-3265,Kinsey,MO,,city-us,0,38.03,-90.30,385
-3266,Kinsey,MT,,city-us,0,46.57,-105.66,310
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1449,Arkansas City,KS,Cowley County,,city-us,11929,37.062,-97.038,13291
+1450,Arkansas City,AR,Desha County,,city-us,369,33.609,-91.207,3639

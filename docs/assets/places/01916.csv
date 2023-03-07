@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17278,Arden,DE,,city-us,428,39.81,-75.49,9399
-17279,Ardon,IA,,city-us,0,41.40,-91.19,825
-17280,Arden,MO,,city-us,0,36.99,-92.80,532
-17281,Arden,NV,,city-us,0,36.02,-115.23,2202
-17282,Arden,NC,,city-us,0,35.47,-82.52,1190
-17283,Arden,WA,,city-us,0,48.46,-117.88,440
-17284,Arden,WV,,city-us,0,39.21,-79.99,584
-17285,Arden,WV,,city-us,0,39.42,-78.04,422
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9763,Coon Rapids,MN,Anoka County,,city-us,63385,45.120,-93.288,7566
+9764,Coon Rapids,IA,Carroll County / Guthrie County,,city-us,1294,41.875,-94.678,12494

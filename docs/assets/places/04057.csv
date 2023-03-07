@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30317,Spurgeon,TN,,city-us,3966,36.44,-82.46,2540
-30316,Spurgeon,IN,,city-us,169,38.25,-87.26,3132
-30318,Spurgeon,MO,,city-us,0,36.93,-94.47,367
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20861,Howell,NJ,Monmouth County,,city-us,53801,40.178,-74.206,23313
+20860,Howell,MI,Livingston County,,city-us,7941,42.645,-83.974,6052
+20858,Howell,UT,Box Elder County,,city-us,237,41.796,-112.444,4348
+20863,Howell,ND,Towner County,,city-us,35,48.765,-99.335,0
+20859,Howell,GA,Echols County,,city-us,0,30.828,-83.054,315
+20862,Howell,MO,St. Charles County,,city-us,0,38.743,-90.611,374

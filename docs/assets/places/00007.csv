@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-139,Big Lake,MN,,city-us,8080,45.34,-93.71,2158
-136,Big Lake,AK,,city-us,2888,61.54,-149.82,3531
-141,Big Lake,TX,,city-us,2850,31.19,-101.46,6480
-142,Big Lake,WA,,city-us,2279,48.40,-122.24,2803
-138,Big Lake,MN,,city-us,337,46.70,-92.62,499
-140,Big Lake,MO,,city-us,71,40.08,-95.35,3375
-137,Big Lake,IN,,city-us,0,41.27,-85.50,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30,Abercrombie,ND,Richland County,,city-us,255,46.448,-96.730,4984
+29,Abercrombie,AL,Bibb County,,city-us,0,32.849,-87.165,425

@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39791,Lake Como,NJ,,city-us,1692,40.16,-74.03,13211
-39792,Lake Como,FL,,city-us,0,29.48,-81.57,406
-39793,Lake Como,MS,,city-us,0,31.96,-89.21,303
-39794,Lake Como,PA,,city-us,0,41.85,-75.34,586
-39795,Lake Como,WI,,city-us,0,42.59,-88.50,116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33253,Pasley,MO,Barry County,,city-us,0,36.628,-93.889,296
+33254,Pasley,NC,Duplin County,,city-us,0,34.786,-77.901,88

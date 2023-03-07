@@ -1,11 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18762,Venice,,Italy,city-international,261321,45.44,12.33,80544
-18753,Venice,FL,,city-us,26047,27.10,-82.45,6976
-18754,Venice,IL,,city-us,4631,38.71,-90.17,425
-18756,Venice,MI,,city-us,2414,43.01,-84.00,2016
-18759,Venice,OH,,city-us,1663,41.03,-82.89,1397
-18758,Venice,NY,,city-us,1246,42.72,-76.54,3060
-18755,Venice,LA,,city-us,162,29.28,-89.35,2542
-18757,Venice,NE,,city-us,27,41.23,-96.35,306
-18760,Venice,MO,,city-us,0,37.21,-91.40,344
-18761,Venice,UT,,city-us,0,38.80,-112.01,3261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10862,Dale,MI,Gladwin County,,city-us,2566,43.867,-84.433,2713
+10870,Dale,IN,Spencer County,,city-us,1524,38.169,-86.990,4687
+10867,Dale,IL,McLean County,,city-us,1218,40.436,-89.102,405
+10860,Dale,PA,Cambria County,,city-us,997,40.313,-78.904,2166
+10868,Dale,WI,Outagamie County,,city-us,705,44.273,-88.678,2655
+10855,Dale,SC,Beaufort County,,city-us,633,32.557,-80.690,2533
+10869,Dale,OK,Pottawatomie County,,city-us,175,35.390,-97.045,741
+10861,Dale,MN,Cottonwood County,,city-us,145,43.975,-95.165,2175
+10866,Dale,KS,Kingman County,,city-us,127,37.607,-97.963,842
+10858,Dale,ND,Burke County,,city-us,31,48.852,-102.477,0
+10856,Dale,PA,Berks County,,city-us,0,40.416,-75.616,171
+10857,Dale,IN,Boone County,,city-us,0,40.017,-86.400,142
+10859,Dale,TX,Caldwell County,,city-us,0,29.927,-97.564,3476
+10863,Dale,OR,Grant County,,city-us,0,44.988,-118.947,1235
+10864,Dale,IA,Guthrie County,,city-us,0,41.596,-94.342,311
+10865,Dale,IL,Hamilton County,,city-us,0,37.995,-88.492,413
+10871,Dale,WV,Tyler County,,city-us,0,39.458,-80.650,220

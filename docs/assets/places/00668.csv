@@ -1,15 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7475,Jerome,ID,,city-us,12555,42.72,-114.52,4116
-7479,Jerome,MI,,city-us,4597,43.68,-84.42,2016
-7484,Jerome,MI,,city-us,4532,42.05,-84.42,3612
-7476,Jerome,IL,,city-us,1670,39.77,-89.68,1932
-7481,Jerome,PA,,city-us,668,40.21,-78.98,28040
-7474,Jerome,AZ,,city-us,467,34.75,-112.11,24571
-7478,Jerome,KS,,city-us,122,38.77,-100.48,493
-7473,Jerome,AR,,city-us,24,33.40,-91.47,2118
-7477,Jerome,IN,,city-us,0,40.46,-85.93,378
-7480,Jerome,OH,,city-us,0,40.17,-83.18,530
-7482,Jerome,FL,,city-us,0,26.00,-81.35,387
-7483,Jerome,IA,,city-us,0,40.72,-93.03,156
-7485,Jerome,MO,,city-us,0,37.93,-91.98,391
-7486,Jerome,WV,,city-us,0,39.58,-78.46,1062
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3386,Belvidere,IL,Boone County,,city-us,29230,42.282,-88.891,2944
+3396,Belvidere,NJ,Warren County,,city-us,2521,40.830,-75.078,13116
+3393,Belvidere,MI,Montcalm County,,city-us,2243,43.423,-85.144,3293
+3389,Belvidere,MN,Goodhue County,,city-us,476,44.430,-92.494,2203
+3387,Belvidere,WI,Buffalo County,,city-us,404,44.272,-91.831,2246
+3392,Belvidere,VT,Lamoille County,,city-us,355,44.773,-72.690,2493
+3395,Belvidere,NE,Thayer County,,city-us,50,40.252,-97.558,3030
+3390,Belvidere,SD,Jackson County,,city-us,44,43.832,-101.272,3322
+3388,Belvidere,TN,Franklin County,,city-us,0,35.125,-86.192,237
+3391,Belvidere,KS,Kiowa County,,city-us,0,37.450,-99.080,735
+3394,Belvidere,NC,Perquimans County,,city-us,0,36.269,-76.536,928

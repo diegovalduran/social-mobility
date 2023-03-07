@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36810,Walters,MI,,city-us,34681,42.74,-83.38,7914
-36809,Walters,OK,,city-us,2390,34.36,-98.31,6917
-36807,Walters,MN,,city-us,69,43.61,-93.67,3059
-36808,Walters,ND,,city-us,46,47.28,-99.03,0
-36811,Walters,VA,,city-us,0,36.77,-76.85,954
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28915,Mission Creek,KS,Wabaunsee County,,city-us,521,38.932,-96.041,0
+28914,Mission Creek,MN,Pine County,,city-us,0,45.970,-92.950,862

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44033,Dillwyn,VA,,city-us,440,37.54,-78.46,2239
-44034,Dillwyn,KS,,city-us,0,37.97,-98.88,381
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40001,Skyline,AL,Jackson County,,city-us,837,34.814,-86.115,2889
+40000,Skyline,MN,Blue Earth County,,city-us,287,44.142,-94.031,3196
+40002,Skyline,KY,Letcher County,,city-us,0,37.076,-82.982,353
+40003,Skyline,WV,Mineral County,,city-us,0,39.324,-79.129,242

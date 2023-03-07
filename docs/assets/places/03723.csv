@@ -1,6 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28606,Sumpter,MI,,city-us,9585,42.13,-83.47,5079
-28605,Sumpter,IL,,city-us,2007,39.28,-88.25,878
-28608,Sumpter,WI,,city-us,1058,43.37,-89.78,2552
-28607,Sumpter,OR,,city-us,210,44.75,-118.20,5897
-28609,Sumpter,AR,,city-us,0,33.49,-92.05,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19000,Harrisburg,PA,Dauphin County,,city-us,50135,40.274,-76.884,64449
+18998,Harrisburg,NC,Cabarrus County,,city-us,19463,35.324,-80.656,3058
+19010,Harrisburg,IL,Saline County,,city-us,9897,37.731,-88.541,341
+19006,Harrisburg,SD,Lincoln County,,city-us,7638,43.431,-96.697,4521
+19007,Harrisburg,OR,Linn County,,city-us,3684,44.274,-123.171,3194
+19009,Harrisburg,AR,Poinsett County,,city-us,2199,35.564,-90.717,2600
+19008,Harrisburg,MI,Ottawa County,,city-us,2017,43.162,-85.851,5829
+19005,Harrisburg,NY,Lewis County,,city-us,482,43.837,-75.666,2837
+19002,Harrisburg,OH,Franklin County / Pickaway County,,city-us,313,39.811,-83.168,3999
+18997,Harrisburg,MO,Boone County,,city-us,280,39.142,-92.463,5146
+18996,Harrisburg,NE,Banner County,,city-us,66,41.556,-103.739,3989
+18999,Harrisburg,VA,Charlotte County,,city-us,0,37.027,-78.748,205
+19001,Harrisburg,IN,Fayette County,,city-us,0,39.687,-85.180,280
+19003,Harrisburg,OH,Gallia County,,city-us,0,38.899,-82.345,239
+19004,Harrisburg,CA,Inyo County,,city-us,0,36.364,-117.111,258
+19011,Harrisburg,OH,Stark County,,city-us,0,40.893,-81.227,289

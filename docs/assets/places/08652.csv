@@ -1,3 +1,47 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46049,Capehart,IN,,city-us,0,38.75,-87.19,150
-46050,Capehart,WV,,city-us,0,38.71,-81.88,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43377,Troy,MI,Oakland County,,city-us,86836,42.606,-83.150,18253
+43386,Troy,NY,Rensselaer County,,city-us,50394,42.728,-73.692,37521
+43394,Troy,IL,Will County,,city-us,49550,41.508,-88.197,463
+43373,Troy,OH,Miami County,,city-us,26432,40.039,-84.203,8491
+43381,Troy,AL,Pike County,,city-us,17609,31.809,-85.970,27865
+43370,Troy,MO,Lincoln County,,city-us,13358,38.979,-90.981,5642
+43372,Troy,IL,Madison County,,city-us,11175,38.729,-89.883,3575
+43388,Troy,OH,Richland County,,city-us,7128,40.685,-82.616,340
+43390,Troy,WI,St. Croix County,,city-us,5551,44.905,-92.682,2334
+43396,Troy,OH,Wood County,,city-us,4114,41.477,-83.460,340
+43362,Troy,VA,Fluvanna County,,city-us,3954,37.951,-78.246,2507
+43374,Troy,NC,Montgomery County,,city-us,2913,35.358,-79.894,3121
+43363,Troy,OH,Geauga County,,city-us,2786,41.381,-81.149,340
+43353,Troy,TX,Bell County,,city-us,2468,31.207,-97.303,3080
+43352,Troy,OH,Athens County,,city-us,2430,39.227,-81.776,340
+43393,Troy,WI,Walworth County,,city-us,2355,42.779,-88.445,2246
+43359,Troy,OH,Delaware County,,city-us,2174,40.364,-83.072,340
+43379,Troy,VT,Orleans County,,city-us,1728,44.932,-72.385,5023
+43354,Troy,PA,Bradford County,,city-us,1583,41.761,-76.782,173
+43378,Troy,TN,Obion County,,city-us,1400,36.339,-89.164,2424
+43375,Troy,OH,Morrow County,,city-us,1194,40.677,-82.655,340
+43351,Troy,OH,Ashland County,,city-us,1089,41.031,-82.303,340
+43391,Troy,ME,Waldo County,,city-us,1052,44.674,-69.252,3494
+43356,Troy,PA,Crawford County,,city-us,1051,41.633,-79.833,173
+43361,Troy,KS,Doniphan County,,city-us,954,39.783,-95.090,4146
+43355,Troy,NH,Cheshire County,,city-us,928,42.824,-72.181,5789
+43369,Troy,ID,Latah County,,city-us,906,46.737,-116.770,4980
+43371,Troy,MT,Lincoln County,,city-us,833,48.463,-115.890,14178
+43389,Troy,WI,Sauk County,,city-us,787,43.246,-89.922,2070
+43380,Troy,IN,Perry County,,city-us,356,37.995,-86.798,3386
+43376,Troy,MI,Newaygo County,,city-us,260,43.779,-85.981,1825
+43387,Troy,MN,Renville County,,city-us,249,44.752,-95.061,216
+43382,Troy,MN,Pipestone County,,city-us,241,44.069,-96.384,216
+43385,Troy,KS,Reno County,,city-us,132,37.869,-98.082,4146
+43366,Troy,SC,Greenwood County,,city-us,87,33.988,-82.298,2054
+43360,Troy,ND,Divide County,,city-us,35,48.858,-103.389,0
+43358,Troy,SD,Day County,,city-us,32,45.195,-97.797,241
+43357,Troy,IA,Davis County,,city-us,0,40.749,-92.203,172
+43364,Troy,WV,Gilmer County,,city-us,0,39.020,-80.763,317
+43365,Troy,SD,Grant County,,city-us,0,45.038,-96.865,241
+43367,Troy,KY,Jessamine County,,city-us,0,37.910,-84.695,482
+43368,Troy,OK,Johnston County,,city-us,0,34.327,-96.782,281
+43383,Troy,CA,Placer County,,city-us,0,39.312,-120.463,187
+43384,Troy,MS,Pontotoc County,,city-us,0,34.119,-88.885,862
+43392,Troy,OR,Wallowa County,,city-us,0,45.947,-117.452,1390
+43395,Troy,MN,Winona County,,city-us,0,43.871,-92.068,595

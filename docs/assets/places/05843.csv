@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37571,Trimble,OH,,city-us,3961,39.51,-82.11,1525
-37570,Trimble,MO,,city-us,597,39.47,-94.56,3484
-37572,Trimble,TN,,city-us,539,36.20,-89.19,2097
-37573,Trimble,AL,,city-us,0,34.09,-86.95,249
-37574,Trimble,CO,,city-us,0,37.39,-107.85,274
-37575,Trimble,IL,,city-us,0,39.06,-87.68,153
-37576,Trimble,VA,,city-us,0,38.30,-79.62,288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30066,Mullan,ID,Shoshone County,,city-us,666,47.470,-115.802,6527
+30068,Mullen,NE,Hooker County,,city-us,511,42.043,-101.043,5198
+30067,Mullen,NE,Boyd County,,city-us,21,42.925,-98.507,235
+30069,Mullen,SD,Jones County,,city-us,3,43.776,-100.759,0

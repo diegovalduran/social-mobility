@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34955,Pine River,MI,,city-us,2357,43.43,-84.67,2159
-34959,Pine River,MI,,city-us,1900,43.95,-83.90,2406
-34956,Pine River,MN,,city-us,895,46.72,-94.40,3783
-34958,Pine River,WI,,city-us,117,44.15,-89.08,324
-34957,Pine River,WI,,city-us,0,45.13,-89.62,120
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26244,Maceio,,,Brazil,city-international,1025360,-9.666,-35.735,12928
+26245,Maceo,KY,Daviess County,,city-us,404,37.864,-86.994,1291

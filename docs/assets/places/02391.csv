@@ -1,31 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20352,Rome,,Italy,city-international,2872800,41.89,12.48,95406
-20323,Rome,GA,,city-us,37746,34.26,-85.16,31580
-20330,Rome,NY,,city-us,31974,43.21,-75.46,19209
-20333,Rome,OH,,city-us,8648,38.52,-82.34,185
-20340,Rome,WI,,city-us,2720,44.22,-89.81,3000
-20336,Rome,PA,,city-us,1980,41.74,-79.69,173
-20331,Rome,OH,,city-us,1861,41.61,-80.86,1795
-20328,Rome,MI,,city-us,1804,41.94,-84.19,2007
-20339,Rhome,TX,,city-us,1737,33.05,-97.47,520
-20325,Rome,IL,,city-us,1642,38.43,-88.97,1291
-20326,Rome,IL,,city-us,1556,40.88,-89.50,1830
-20332,Rome,OH,,city-us,1210,39.32,-81.91,185
-20327,Rome,ME,,city-us,1155,44.57,-69.89,4463
-20341,Rome,WI,,city-us,645,42.98,-88.63,2329
-20335,Rome,PA,,city-us,383,41.86,-76.34,2326
-20337,Rome,SD,,city-us,258,43.55,-98.03,0
-20329,Rome,MN,,city-us,121,43.54,-93.96,1839
-20324,Rome,IA,,city-us,118,40.98,-91.68,3142
-20334,Rome,OH,,city-us,80,38.67,-83.38,3451
-20338,Rome,SD,,city-us,76,44.93,-96.83,0
-20342,Rome,AL,,city-us,0,31.14,-86.67,357
-20343,Rome,IN,,city-us,0,37.92,-86.52,1363
-20344,Rome,KS,,city-us,0,37.16,-97.39,523
-20345,Rome,KY,,city-us,0,37.72,-87.18,269
-20346,Rome,MS,,city-us,0,33.96,-90.48,1305
-20347,Rome,MO,,city-us,0,36.84,-92.77,1084
-20348,Rome,OH,,city-us,0,40.25,-82.91,320
-20349,Rome,OH,,city-us,0,40.93,-82.53,275
-20350,Rome,OR,,city-us,0,42.84,-117.63,1525
-20351,Rome,TN,,city-us,0,36.26,-86.07,204
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11968,Dongola,IL,Union County,,city-us,666,37.361,-89.166,2425
+11966,Dongola,MO,Bollinger County,,city-us,0,37.168,-89.960,377
+11967,Dongola,IN,Gibson County,,city-us,0,38.372,-87.340,276

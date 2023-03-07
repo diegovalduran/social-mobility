@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15820,Paoli,PA,,city-us,5838,40.04,-75.48,9333
-15818,Paoli,IN,,city-us,3625,38.56,-86.47,4671
-15819,Paoli,OK,,city-us,583,34.83,-97.26,2507
-15817,Paoli,CO,,city-us,48,40.61,-102.47,1792
-15821,Paoli,GA,,city-us,0,34.09,-83.09,390
-15822,Paoli,KY,,city-us,0,36.68,-85.14,709
-15823,Paoli,WI,,city-us,0,42.93,-89.52,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8775,Clement,MI,Gladwin County,,city-us,896,44.115,-84.332,2135
+8773,Clement,IL,Clinton County,,city-us,448,38.618,-89.281,891
+8774,Clement,ND,Dickey County,,city-us,128,46.175,-98.194,0
+8776,Clement,MO,Ste. Genevieve County,,city-us,0,38.057,-90.165,646

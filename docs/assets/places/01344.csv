@@ -1,8 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13188,Maywood,CA,,city-us,24562,33.99,-118.19,21874
-13189,Maywood,IL,,city-us,23112,41.88,-87.84,10417
-13192,Maywood,NJ,,city-us,10014,40.90,-74.06,17828
-13190,Maywood,MN,,city-us,970,45.69,-93.82,2539
-13191,Maywood,NE,,city-us,270,40.66,-100.62,3156
-13193,Maywood,MO,,city-us,0,39.95,-91.60,496
-13194,Maywood,WV,,city-us,0,37.97,-80.81,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6783,Cannon,MI,Kent County,,city-us,14421,43.075,-85.489,4797
+6800,Canon,GA,Franklin County / Hart County,,city-us,656,34.342,-83.112,2791
+7349,Cañon,NM,Sandoval County,,city-us,372,35.672,-106.753,0
+6784,Cannon,MN,Kittson County,,city-us,14,48.835,-96.581,1765
+6785,Cannon,KY,Knox County,,city-us,0,36.914,-83.858,185
+6786,Cannon,DE,Sussex County,,city-us,0,38.699,-75.615,209

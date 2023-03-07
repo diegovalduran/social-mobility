@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-189,College,AK,,city-us,11797,64.86,-147.80,4255
-191,College,PA,,city-us,10695,40.81,-77.82,1735
-190,College,OH,,city-us,2531,40.37,-82.40,1212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+68,Accident,MD,Garrett County,,city-us,338,39.629,-79.320,5910
+67,Accident,AR,Benton County,,city-us,0,36.228,-94.102,152

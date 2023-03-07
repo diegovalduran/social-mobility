@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38274,Elon,NC,,city-us,11350,36.10,-79.51,3906
-38275,Elon,IA,,city-us,0,43.26,-91.32,232
-38276,Elon,VA,,city-us,0,37.52,-79.19,1307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30871,New York,,,United States,state,19677151,40.706,-73.980,4448
+30868,New York,MO,Caldwell County,,city-us,258,39.655,-93.928,449
+30867,New York,KY,Ballard County,,city-us,0,36.989,-88.953,173
+30869,New York,TX,Henderson County,,city-us,0,32.170,-95.670,1252
+30870,New York,FL,Santa Rosa County,,city-us,0,30.839,-87.201,137

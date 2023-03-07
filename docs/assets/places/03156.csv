@@ -1,3 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24984,Cruger,MS,,city-us,261,33.32,-90.23,2364
-24983,Cruger,IL,,city-us,0,40.72,-89.31,275
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15922,Freeport,NY,Nassau County,,city-us,44199,40.658,-73.583,29486
+15926,Freeport,IL,Stephenson County,,city-us,23650,42.297,-89.621,12494
+15916,Freeport,TX,Brazoria County,,city-us,10594,28.954,-95.360,5614
+15917,Freeport,ME,Cumberland County,,city-us,8767,43.845,-70.090,8801
+15927,Freeport,FL,Walton County,,city-us,6283,30.498,-86.136,3687
+15914,Freeport,PA,Armstrong County,,city-us,1728,40.674,-79.685,7371
+15921,Freeport,OH,Harrison County,,city-us,737,40.199,-81.280,1464
+15925,Freeport,MN,Stearns County,,city-us,680,45.663,-94.690,4345
+15915,Freeport,MI,Barry County,,city-us,541,42.766,-85.313,3199
+15919,Freeport,PA,Greene County,,city-us,264,39.750,-80.420,2069
+15920,Freeport,KS,Harper County,,city-us,5,37.197,-97.856,3600
+15918,Freeport,VA,Gloucester County,,city-us,0,37.539,-76.507,95
+15923,Freeport,CA,Sacramento County,,city-us,0,38.462,-121.502,2837
+15924,Freeport,IN,Shelby County,,city-us,0,39.659,-85.726,362
+15928,Freeport,IA,Winneshiek County,,city-us,0,43.302,-91.744,426
+15929,Freeport,WV,Wirt County,,city-us,0,39.143,-81.338,275

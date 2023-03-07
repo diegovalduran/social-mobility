@@ -1,19 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27399,Norton,MA,,city-us,19278,41.97,-71.18,12323
-27402,Norton,OH,,city-us,11571,41.03,-81.65,7302
-27403,Norton,VA,,city-us,3666,36.93,-82.63,3794
-27398,Norton,KS,,city-us,2758,39.83,-99.89,7132
-27396,Norton,IL,,city-us,914,41.06,-88.19,1616
-27397,Norton,KS,,city-us,856,39.39,-95.31,888
-27400,Norton,MN,,city-us,522,44.06,-91.90,1984
-27405,Norton,WV,,city-us,281,38.93,-79.97,542
-27404,Norton,VT,,city-us,155,44.98,-71.80,3048
-27401,Norton,ND,,city-us,54,48.33,-97.98,109
-27406,Norton,CA,,city-us,0,38.59,-121.97,194
-27407,Norton,IN,,city-us,0,38.49,-86.68,267
-27408,Norton,MO,,city-us,0,39.20,-93.14,286
-27409,Norton,NJ,,city-us,0,40.66,-74.98,947
-27410,Norton,NC,,city-us,0,35.13,-83.16,319
-27411,Norton,OH,,city-us,0,40.43,-83.08,238
-27412,Norton,TX,,city-us,0,31.87,-100.13,481
-27413,Norton,WI,,city-us,0,45.02,-91.83,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17898,Greenbush,MI,Clinton County,,city-us,2142,43.067,-84.534,305
+17904,Greenbush,WI,Sheboygan County,,city-us,1841,43.777,-88.101,2301
+17901,Greenbush,ME,Penobscot County,,city-us,1447,45.072,-68.589,3066
+17900,Greenbush,MN,Mille Lacs County,,city-us,1312,45.595,-93.706,1937
+17896,Greenbush,MI,Alcona County,,city-us,1275,44.555,-83.335,2991
+17903,Greenbush,MN,Roseau County,,city-us,682,48.701,-96.182,6214
+17895,Greenbush,VA,Accomack County,,city-us,25,37.741,-75.681,538
+17905,Greenbush,ND,Ward County,,city-us,20,48.590,-101.908,0
+17897,Greenbush,OH,Brown County,,city-us,0,39.075,-83.925,200
+17899,Greenbush,KS,Crawford County,,city-us,0,37.514,-94.988,485
+17902,Greenbush,OH,Preble County,,city-us,0,39.601,-84.499,213
+17906,Greenbush,IL,Warren County,,city-us,0,40.712,-90.535,132

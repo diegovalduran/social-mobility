@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15617,Loma,CO,,city-us,1471,39.20,-108.81,6682
-15618,Loma,MT,,city-us,97,47.94,-110.50,2809
-15620,Loma,NE,,city-us,54,41.13,-96.94,713
-15619,Loma,ND,,city-us,8,48.63,-98.53,2779
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8562,Clarkston,GA,DeKalb County,,city-us,14538,33.810,-84.240,5765
+8560,Clarkston,WA,Asotin County,,city-us,7194,46.416,-117.045,5882
+8561,Clarkston,UT,Cache County,,city-us,760,41.920,-112.050,4254

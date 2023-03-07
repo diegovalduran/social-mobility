@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39044,Picton,ND,,city-us,19,48.95,-99.45,0
-39045,Pickton,TX,,city-us,0,33.03,-95.39,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32164,Oldham,SD,Kingsbury County,,city-us,120,44.227,-97.308,3117
+32163,Oldham,MO,Boone County,,city-us,0,38.731,-92.263,274
+32165,Oldham,TN,Sevier County,,city-us,0,35.776,-83.482,188
+32166,Oldham,MS,Tishomingo County,,city-us,0,34.773,-88.128,216

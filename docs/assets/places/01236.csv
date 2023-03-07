@@ -1,8 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12461,Hayward,CA,,city-us,159827,37.67,-122.08,26579
-12464,Hayward,WI,,city-us,3787,45.99,-91.41,12962
-12462,Hayward,MN,,city-us,339,43.63,-93.24,1930
-12463,Hayward,MO,,city-us,72,36.40,-89.67,3138
-12465,Hayward,CA,,city-us,0,37.64,-120.37,313
-12466,Hayward,OK,,city-us,0,36.28,-97.51,191
-12467,Hayward,OR,,city-us,0,45.64,-123.22,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6237,Burr Oak,MI,St. Joseph County,,city-us,768,41.847,-85.319,3480
+6234,Burr Oak,KS,Jewell County,,city-us,202,39.875,-98.337,199
+6233,Burr Oak,KS,Doniphan County,,city-us,182,39.852,-94.972,199
+6238,Burr Oak,IA,Winneshiek County,,city-us,171,43.458,-91.868,3078
+6232,Burr Oak,SD,Beadle County,,city-us,35,44.239,-98.643,0
+6231,Burr Oak,OH,Athens County,,city-us,0,39.551,-82.064,326
+6235,Burr Oak,IN,Marshall County,,city-us,0,41.256,-86.415,166
+6236,Burr Oak,IN,Noble County,,city-us,0,41.323,-85.433,331

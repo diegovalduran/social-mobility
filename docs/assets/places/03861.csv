@@ -1,11 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29404,Charlestown,IN,,city-us,8147,38.45,-85.67,10308
-29410,Charlestown,RI,,city-us,8072,41.37,-71.68,6630
-29409,Charlestown,PA,,city-us,6223,40.09,-75.56,3181
-29408,Charlestown,OH,,city-us,1749,41.17,-81.14,1740
-29405,Charlestown,MD,,city-us,1495,39.57,-75.97,4097
-29407,Charlestown,NH,,city-us,929,43.24,-72.42,9046
-29411,Charlestown,WI,,city-us,760,44.01,-88.07,2426
-29406,Charlestown,MN,,city-us,177,44.25,-95.18,1925
-29412,Charlestown,NJ,,city-us,0,40.69,-74.97,274
-29413,Charlestown,PA,,city-us,0,40.09,-75.55,169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19795,Hersey,MI,Osceola County,,city-us,361,43.849,-85.444,3461
+19794,Hersey,MN,Nobles County,,city-us,188,43.725,-95.523,3281
+19793,Hersey,ME,Aroostook County,,city-us,72,46.077,-68.358,2686
+19796,Hersey,WI,St. Croix County,,city-us,0,44.963,-92.212,423

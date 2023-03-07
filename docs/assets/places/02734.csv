@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22598,Morley,MO,,city-us,642,37.04,-89.61,3511
-22597,Morley,MI,,city-us,487,43.49,-85.44,3649
-22596,Morley,IA,,city-us,97,42.01,-91.25,3013
-22599,Morley,TN,,city-us,0,36.55,-84.05,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13594,Elwin,IL,Macon County,,city-us,119,39.852,-88.944,933
+13607,Elwyn,PA,Delaware County,,city-us,0,39.908,-75.410,537

@@ -1,5 +1,32 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33284,Carlos,MN,,city-us,496,45.97,-95.29,2949
-33283,Carlos,MD,,city-us,54,39.62,-78.96,297
-33285,Carlos,IN,,city-us,0,40.03,-85.03,403
-33286,Carlos,WV,,city-us,0,37.40,-81.80,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24135,Lawrence,KS,Douglas County,,city-us,95256,38.972,-95.235,71753
+24137,Lawrence,MA,Essex County,,city-us,88508,42.707,-71.163,42796
+24143,Lawrence,IN,Marion County,,city-us,49357,39.839,-86.025,6051
+24146,Lawrence,NJ,Mercer County,,city-us,33016,40.296,-74.720,23372
+24154,Lawrence,OH,Stark County,,city-us,13506,40.867,-81.599,217
+24132,Lawrence,PA,Clearfield County,,city-us,7459,41.084,-78.466,184
+24147,Lawrence,NY,Nassau County,,city-us,6796,40.616,-73.730,10665
+24130,Lawrence,WI,Brown County,,city-us,6468,44.399,-88.143,2514
+24141,Lawrence,IL,Lawrence County,,city-us,6161,38.732,-87.695,343
+24156,Lawrence,OH,Tuscarawas County,,city-us,5850,40.619,-81.461,217
+24157,Lawrence,MI,Van Buren County,,city-us,3297,42.201,-86.047,1957
+24134,Lawrence,NJ,Cumberland County,,city-us,3101,39.335,-75.185,9373
+24142,Lawrence,OH,Lawrence County,,city-us,2333,38.557,-82.536,217
+24153,Lawrence,NY,St. Lawrence County,,city-us,1724,44.746,-74.676,3786
+24155,Lawrence,PA,Tioga County,,city-us,1605,41.970,-77.136,184
+24159,Lawrence,PA,Washington County,,city-us,976,40.306,-80.121,461
+24158,Lawrence,OH,Washington County,,city-us,800,39.489,-81.313,217
+24139,Lawrence,MN,Itasca County,,city-us,485,47.416,-93.387,211
+24131,Lawrence,SD,Charles Mix County,,city-us,481,43.030,-98.277,0
+24152,Lawrence,WI,Rusk County,,city-us,301,45.422,-90.843,1743
+24149,Lawrence,NE,Nuckolls County,,city-us,271,40.292,-98.260,3034
+24151,Lawrence,SD,Roberts County,,city-us,227,45.519,-96.941,0
+24145,Lawrence,IL,McHenry County,,city-us,220,42.441,-88.641,1299
+24133,Lawrence,KS,Cloud County,,city-us,132,39.611,-97.536,571
+24138,Lawrence,MN,Grant County,,city-us,96,46.072,-96.201,211
+24150,Lawrence,KS,Osborne County,,city-us,24,39.533,-98.765,71753
+24136,Lawrence,UT,Emery County,,city-us,0,39.296,-110.929,324
+24140,Lawrence,TX,Kaufman County,,city-us,0,32.742,-96.343,1464
+24144,Lawrence,WI,Marquette County,,city-us,0,43.884,-89.544,119
+24148,Lawrence,MS,Newton County,,city-us,0,32.325,-89.233,720
+24160,Lawrence,WA,Whatcom County,,city-us,0,48.858,-122.294,279

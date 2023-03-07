@@ -1,36 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7577,Kingston,,Jamaica,city-international,580000,17.97,-76.79,24713
-7561,Kingston,PA,,city-us,7096,41.33,-75.91,5907
-7562,Kingston,RI,,city-us,6496,41.48,-71.52,3838
-7553,Kingston,NH,,city-us,6226,42.91,-71.07,7964
-7563,Kingston,TN,,city-us,6023,35.88,-84.51,6102
-7548,Kingston,MA,,city-us,6013,41.99,-70.72,12533
-7547,Kingston,IL,,city-us,3456,42.11,-88.76,924
-7565,Kingston,WA,,city-us,2912,47.80,-122.50,5930
-7558,Kingston,OH,,city-us,2495,40.32,-82.89,2368
-7560,Kingston,OK,,city-us,1448,34.00,-96.72,5757
-7559,Kingston,OH,,city-us,1262,39.47,-82.91,3369
-7554,Kingston,NJ,,city-us,1041,40.38,-74.61,7061
-7557,Kingston,NY,,city-us,934,41.98,-74.04,23318
-7544,Kingston,GA,,city-us,745,34.24,-84.94,8668
-7551,Kingston,MO,,city-us,527,39.66,-94.04,501
-7549,Kingston,MI,,city-us,395,43.41,-83.19,3215
-7566,Kingston,WI,,city-us,288,43.70,-89.13,2007
-7550,Kingston,MN,,city-us,183,45.20,-94.31,3308
-7564,Kingston,UT,,city-us,142,38.21,-112.19,3399
-7543,Kingston,AR,,city-us,97,36.05,-93.52,1158
-7552,Kingston,ND,,city-us,91,46.06,-97.31,0
-7556,Kingston,NV,,city-us,90,39.21,-117.07,618
-7545,Kingston,IA,,city-us,81,40.98,-91.04,450
-7555,Kingston,NM,,city-us,66,32.92,-107.71,2192
-7567,Kingston,WI,,city-us,61,44.18,-90.25,1861
-7546,Kingston,IL,,city-us,20,39.82,-91.03,753
-7568,Kingston,AL,,city-us,0,32.57,-86.60,718
-7569,Kingston,ID,,city-us,0,47.55,-116.27,339
-7570,Kingston,IN,,city-us,0,39.38,-85.39,123
-7571,Kingston,LA,,city-us,0,32.18,-93.71,282
-7572,Kingston,MD,,city-us,0,38.07,-75.73,2468
-7573,Kingston,MS,,city-us,0,31.41,-91.28,2111
-7574,Kingston,OR,,city-us,0,44.78,-122.77,159
-7575,Kingston,TX,,city-us,0,33.25,-96.18,1247
-7576,Kingston,WV,,city-us,0,37.97,-81.30,190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3437,Benedict,NE,York County,,city-us,204,41.006,-97.606,3155
+3431,Benedict,MD,Charles County,,city-us,132,38.509,-76.680,1980
+3436,Benedict,KS,Wilson County,,city-us,71,37.625,-95.751,3606
+3433,Benedict,ND,McLean County,,city-us,65,47.830,-101.082,2848
+3435,Benedict,SD,Sanborn County,,city-us,26,44.068,-97.911,0
+3432,Benedict,MN,Hubbard County,,city-us,0,47.158,-94.691,397
+3434,Benedict,GA,Polk County,,city-us,0,33.974,-85.257,182

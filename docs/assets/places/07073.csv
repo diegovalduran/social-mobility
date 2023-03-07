@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41384,Colcord,OK,,city-us,747,36.26,-94.69,5323
-41385,Colcord,WV,,city-us,0,37.94,-81.44,274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35899,Rantoul,IL,Champaign County,,city-us,12119,40.308,-88.156,7123
+35898,Rantoul,WI,Calumet County,,city-us,730,44.110,-88.099,2299
+35900,Rantoul,KS,Franklin County,,city-us,168,38.549,-95.100,3069

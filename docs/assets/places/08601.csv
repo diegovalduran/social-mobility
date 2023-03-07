@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45919,New Delhi,,India,city-international,249998,28.61,77.21,35932
-45918,New Delhi,IL,,city-us,0,39.03,-90.26,164
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43166,Tower,MI,Cheboygan County,,city-us,1045,45.291,-84.299,2190
+43167,Tower,MN,St. Louis County,,city-us,424,47.805,-92.275,6647
+43165,Tower,ND,Cass County,,city-us,112,46.942,-97.609,3212

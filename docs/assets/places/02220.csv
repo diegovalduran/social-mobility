@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19113,Brookhaven,NY,,city-us,485430,40.86,-72.96,19936
-19111,Brookhaven,GA,,city-us,55366,33.86,-84.34,23026
-19112,Brookhaven,MS,,city-us,11812,31.58,-90.44,7211
-19114,Brookhaven,PA,,city-us,8236,39.87,-75.38,9125
-19115,Brookhaven,WV,,city-us,6606,39.61,-79.90,2543
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11114,Dawn,MO,Livingston County,,city-us,100,39.668,-93.635,665
+11111,Dawn,VA,Caroline County,,city-us,0,37.835,-77.363,550
+11112,Dawn,OH,Darke County,,city-us,0,40.217,-84.579,571
+11113,Dawn,TX,Deaf Smith County,,city-us,0,34.910,-102.200,1033

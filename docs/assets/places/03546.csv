@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27489,Olmsted,OH,,city-us,14499,41.38,-81.93,2627
-27488,Olmsted,IL,,city-us,286,37.18,-89.09,1920
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18022,Greenvale,NY,Nassau County,,city-us,947,40.811,-73.628,4843
+18021,Greenvale,MN,Dakota County,,city-us,792,44.520,-93.220,1885
+18023,Greenvale,TN,Wilson County,,city-us,0,36.000,-86.198,368

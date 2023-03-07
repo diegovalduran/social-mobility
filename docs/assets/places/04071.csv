@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30379,Twelve Mile,ND,,city-us,94,48.12,-103.42,0
-30378,Twelve Mile,IN,,city-us,0,40.87,-86.23,1025
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20908,Huber,IN,Fayette County,,city-us,0,39.686,-85.139,155
+20909,Huber,GA,Twiggs County,,city-us,0,32.704,-83.556,219
+20910,Huber,OR,Washington County,,city-us,0,45.492,-122.851,318

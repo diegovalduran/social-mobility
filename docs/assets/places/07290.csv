@@ -1,4 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42167,Enlow,PA,,city-us,1038,40.45,-80.23,625
-42168,Inlow,OR,,city-us,0,44.04,-123.58,354
-42169,Enloe,TX,,city-us,0,33.43,-95.66,130
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36972,Riverview,FL,Hillsborough County,,city-us,98928,27.866,-82.326,5747
+36986,Riverview,MI,Wayne County,,city-us,12390,42.174,-83.179,5677
+36980,Riverview,MI,Newaygo County,,city-us,3042,43.417,-85.624,2893
+36984,Riverview,MO,St. Louis County,,city-us,2373,38.748,-90.212,2732
+36973,Riverview,DE,Kent County,,city-us,2091,39.026,-75.511,2445
+36989,Riverview,SC,York County,,city-us,1989,35.003,-80.980,1955
+36982,Riverview,WI,Oconto County,,city-us,834,45.244,-88.446,2089
+36987,Riverview,VA,Wise County,,city-us,618,36.935,-82.482,134
+36971,Riverview,AL,Escambia County,,city-us,161,31.060,-87.060,2326
+36977,Riverview,SD,Moody County,,city-us,125,44.144,-96.703,0
+36976,Riverview,ND,McKenzie County,,city-us,9,48.035,-102.681,0
+36969,Riverview,OH,Belmont County,,city-us,0,40.059,-80.736,413
+36970,Riverview,NC,Columbus County,,city-us,0,34.188,-78.558,265
+36974,Riverview,NE,Keya Paha County,,city-us,0,42.729,-99.589,272
+36975,Riverview,OR,Lane County,,city-us,0,44.186,-123.164,203
+36978,Riverview,MO,Morgan County,,city-us,0,38.276,-93.070,398
+36979,Riverview,OR,Multnomah County,,city-us,0,45.664,-122.821,222
+36981,Riverview,WY,Niobrara County,,city-us,0,43.421,-104.195,95
+36983,Riverview,MS,Quitman County,,city-us,0,34.284,-90.249,94
+36985,Riverview,IN,Sullivan County,,city-us,0,39.200,-87.584,500
+36988,Riverview,CA,Yolo County,,city-us,0,38.504,-121.560,313

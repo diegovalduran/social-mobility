@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33920,Almira,MI,,city-us,3917,44.74,-85.89,2890
-33921,Almira,WA,,city-us,326,47.71,-118.94,6660
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25200,Little Falls,NJ,Passaic County,,city-us,13357,40.876,-74.217,15134
+25199,Little Falls,MN,Morrison County,,city-us,9061,45.976,-94.362,16756
+25196,Little Falls,NY,Herkimer County,,city-us,4572,43.043,-74.860,7951
+25198,Little Falls,WI,Monroe County,,city-us,1512,44.098,-90.877,2094
+25195,Little Falls,ME,Cumberland County,,city-us,501,43.731,-70.428,779
+25197,Little Falls,WV,Monongalia County,,city-us,0,39.557,-80.000,266
+25201,Little Falls,WI,Polk County,,city-us,0,45.274,-92.419,315
+25202,Little Falls,VA,Stafford County,,city-us,0,38.273,-77.421,96

@@ -1,3 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39348,Cuming,NE,,city-us,208,41.70,-96.61,161
-39347,Cuming,NE,,city-us,191,41.78,-96.62,161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32578,Osceola,AR,Mississippi County,,city-us,6779,35.705,-89.970,15036
+32572,Osceola,IA,Clarke County,,city-us,5536,41.034,-93.766,5768
+32581,Osceola,WI,Polk County,,city-us,3073,45.342,-92.621,2199
+32585,Osceola,IN,St. Joseph County,,city-us,2592,41.665,-86.076,4060
+32575,Osceola,MI,Houghton County,,city-us,1887,47.193,-88.482,228
+32573,Osceola,WI,Fond du Lac County,,city-us,1843,43.681,-88.217,2291
+32579,Osceola,MI,Osceola County,,city-us,956,43.958,-85.257,228
+32584,Osceola,MO,St. Clair County,,city-us,919,38.047,-93.704,5722
+32586,Osceola,IL,Stark County,,city-us,878,41.196,-89.693,338
+32580,Osceola,NE,Polk County,,city-us,863,41.180,-97.548,8027
+32588,Osceola,PA,Tioga County,,city-us,584,41.980,-77.373,2407
+32577,Osceola,NY,Lewis County,,city-us,243,43.540,-75.681,3097
+32583,Osceola,MN,Renville County,,city-us,128,44.848,-94.813,1827
+32574,Osceola,SD,Grant County,,city-us,118,45.283,-96.915,406
+32571,Osceola,SD,Brown County,,city-us,39,45.887,-98.528,406
+32576,Osceola,SD,Kingsbury County,,city-us,0,44.468,-97.839,406
+32582,Osceola,WV,Randolph County,,city-us,0,38.714,-79.633,739
+32587,Osceola,LA,Tangipahoa Parish,,city-us,0,30.651,-90.311,749
+32589,Osceola,OH,Warren County,,city-us,0,39.342,-84.055,235

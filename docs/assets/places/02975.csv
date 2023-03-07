@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23989,Abingdon,VA,,city-us,8321,36.71,-81.98,12191
-23988,Abingdon,MD,,city-us,5320,39.46,-76.28,2151
-23987,Abingdon,IL,,city-us,2892,40.80,-90.40,3493
-23990,Abingdon,IA,,city-us,0,41.08,-92.14,524
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14914,Findlay,OH,Hancock County,,city-us,39942,41.044,-83.650,15538
+14912,Findlay,PA,Allegheny County,,city-us,6457,40.478,-80.281,2910
+14916,Findley,PA,Mercer County,,city-us,2860,41.204,-80.174,2030
+14915,Findlay,IL,Shelby County,,city-us,657,39.523,-88.754,2219
+14913,Findlay,GA,Dooly County,,city-us,0,32.154,-83.772,262

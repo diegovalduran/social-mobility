@@ -1,3 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43898,Valera,,Venezuela,city-international,191167,9.32,-70.61,2995
-43897,Valera,TX,,city-us,0,31.75,-99.55,399
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42338,Sydney,,,Australia,city-international,4840600,-33.865,151.209,96685
+39786,Sidney,OH,Shelby County,,city-us,20421,40.284,-84.156,16332
+39772,Sidney,NE,Cheyenne County,,city-us,6439,41.143,-102.978,6163
+39784,Sidney,MT,Richland County,,city-us,6197,47.717,-104.156,7427
+39775,Sidney,NY,Delaware County,,city-us,5521,42.307,-75.276,4704
+39778,Sidney,ME,Kennebec County,,city-us,4724,44.438,-69.756,3404
+39777,Sidney,NJ,Hunterdon County,,city-us,3195,40.569,-74.931,11224
+39780,Sidney,MI,Montcalm County,,city-us,2563,43.248,-85.131,2857
+39771,Sidney,IL,Champaign County,,city-us,1668,40.004,-88.077,2574
+39776,Sidney,IA,Fremont County,,city-us,1052,40.748,-95.647,3789
+39785,Sidney,AR,Sharp County,,city-us,196,36.003,-91.660,1846
+39779,Sidney,IN,Kosciusko County,,city-us,129,41.106,-85.744,3084
+42337,Sydney,ND,Stutsman County,,city-us,82,46.754,-98.744,0
+39787,Sidney,ND,Towner County,,city-us,32,48.936,-99.317,0
+39781,Sidney,SD,Perkins County,,city-us,9,45.708,-102.790,0
+39773,Sidney,WI,Clark County,,city-us,0,44.553,-90.639,115
+39774,Sidney,TX,Comanche County,,city-us,0,31.949,-98.737,1226
+39782,Sidney,KY,Pike County,,city-us,0,37.620,-82.357,367
+39783,Sidney,MO,Putnam County,,city-us,0,40.354,-92.819,239
+39788,Sidney,WV,Wayne County,,city-us,0,38.157,-82.473,123
+42336,Sydney,FL,Hillsborough County,,city-us,0,27.963,-82.207,209

@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37649,Benoit,MS,,city-us,359,33.65,-91.01,3064
-37650,Benoit,AL,,city-us,0,33.75,-87.16,81
-37651,Benoit,MN,,city-us,0,47.70,-96.39,81
-37652,Benoit,TX,,city-us,0,31.78,-99.83,80
-37653,Benoit,WI,,city-us,0,46.50,-91.08,423
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30153,Muskego,WI,Waukesha County,,city-us,25242,42.906,-88.139,6906
+30152,Muskego,ND,Renville County,,city-us,31,48.510,-101.506,0

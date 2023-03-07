@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39741,Galloway,NJ,,city-us,37925,39.49,-74.47,20304
-39742,Galloway,WV,,city-us,101,39.23,-80.12,425
-39743,Galloway,MI,,city-us,0,43.33,-84.37,776
-39744,Galloway,OH,,city-us,0,39.91,-83.16,1261
-39745,Galloway,TX,,city-us,0,32.05,-94.08,843
-39746,Galloway,WI,,city-us,0,44.71,-89.26,384
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33198,Parkville,MD,Baltimore County,,city-us,30783,39.377,-76.540,3311
+33202,Parkville,PA,York County,,city-us,8131,39.781,-76.963,1833
+33200,Parkville,MO,Platte County,,city-us,7810,39.195,-94.682,5572
+33199,Parkville,IL,Champaign County,,city-us,0,39.892,-88.361,166
+33201,Parkville,MI,St. Joseph County,,city-us,0,42.016,-85.548,1854

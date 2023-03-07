@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42702,Twilight,PA,,city-us,214,40.11,-79.89,1917
-42703,Twilight,WV,,city-us,71,37.93,-81.62,455
-42704,Twilight,WV,,city-us,0,40.04,-80.59,462
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37916,Ruraldale,OH,Muskingum County,,city-us,0,39.782,-81.844,430
+37917,Ruraldale,WV,Upshur County,,city-us,0,39.067,-80.232,202

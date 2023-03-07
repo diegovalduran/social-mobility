@@ -1,9 +1,39 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20530,Temple,TX,,city-us,85416,31.10,-97.34,12468
-20525,Temple,GA,,city-us,5623,33.73,-85.03,2753
-20529,Temple,PA,,city-us,2092,40.41,-75.92,410
-20527,Temple,NH,,city-us,1377,42.83,-71.88,3818
-20528,Temple,OK,,city-us,841,34.27,-98.24,2427
-20526,Temple,ME,,city-us,538,44.70,-70.27,5076
-20532,Temple,MI,,city-us,459,44.03,-85.03,2853
-20531,Temple,IN,,city-us,0,38.34,-86.42,320
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12097,Dover,DE,Kent County,,city-us,38992,39.158,-75.524,24609
+12115,Dover,NH,Strafford County,,city-us,33171,43.198,-70.874,13477
+12121,Dover,PA,York County,,city-us,22850,40.002,-76.872,2870
+12105,Dover,NJ,Morris County,,city-us,18427,40.884,-74.562,22233
+12093,Dover,NY,Dutchess County,,city-us,8343,41.679,-73.569,10514
+12119,Dover,MI,Washtenaw County,,city-us,6042,42.403,-83.951,4020
+12106,Dover,MA,Norfolk County,,city-us,5892,42.234,-71.291,9924
+12116,Dover,OH,Tuscarawas County,,city-us,4481,40.533,-81.501,327
+12111,Dover,WI,Racine County,,city-us,4324,42.720,-88.121,2392
+12089,Dover,MI,Cass County,,city-us,3878,41.788,-86.184,2904
+12096,Dover,FL,Hillsborough County,,city-us,3444,27.994,-82.220,2665
+12090,Dover,MI,Clare County,,city-us,3360,43.865,-84.798,2736
+12084,Dover,OH,Athens County,,city-us,3247,39.446,-82.124,327
+12117,Dover,OH,Union County,,city-us,2457,40.263,-83.286,327
+12120,Dover,VT,Windham County,,city-us,1837,42.965,-72.847,2384
+12101,Dover,MI,Lenawee County,,city-us,1787,41.851,-84.169,2428
+12114,Dover,TN,Stewart County,,city-us,1749,36.488,-87.838,3073
+12094,Dover,OH,Fulton County,,city-us,1599,41.610,-84.161,327
+12109,Dover,AR,Pope County,,city-us,1328,35.401,-93.114,6316
+12085,Dover,ID,Bonner County,,city-us,917,48.252,-116.611,3014
+12107,Dover,MN,Olmsted County,,city-us,795,43.974,-92.139,3209
+12108,Dover,MI,Otsego County,,city-us,632,45.067,-84.567,268
+12087,Dover,WI,Buffalo County,,city-us,520,44.473,-91.577,1896
+12088,Dover,IL,Bureau County,,city-us,493,41.451,-89.452,2412
+12118,Dover,MO,Vernon County,,city-us,469,37.702,-94.221,116
+12100,Dover,MI,Lake County,,city-us,434,44.119,-85.625,268
+12098,Dover,OK,Kingfisher County,,city-us,405,35.981,-97.911,3627
+12091,Dover,NC,Craven County,,city-us,342,35.216,-77.437,1945
+12110,Dover,WI,Price County,,city-us,325,45.672,-90.188,1943
+12104,Dover,KY,Mason County,,city-us,219,38.758,-83.883,2140
+12099,Dover,MO,Lafayette County,,city-us,85,39.193,-93.688,3315
+12095,Dover,ND,Griggs County,,city-us,37,47.277,-98.394,214
+12086,Dover,IN,Boone County,,city-us,0,40.054,-86.620,329
+12092,Dover,IN,Dearborn County,,city-us,0,39.241,-84.948,178
+12102,Dover,MO,Lewis County,,city-us,0,40.012,-91.596,162
+12103,Dover,VA,Loudoun County,,city-us,0,38.976,-77.674,2977
+12112,Dover,GA,Screven County,,city-us,0,32.577,-81.715,439
+12113,Dover,KS,Shawnee County,,city-us,0,38.965,-95.938,5970

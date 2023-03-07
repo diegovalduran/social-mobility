@@ -1,3 +1,47 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47676,Pleasant Corners,PA,,city-us,0,40.81,-75.78,201
-47677,Pleasant Corners,PA,,city-us,0,40.68,-75.69,529
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47143,Wilson,NC,Wilson County,,city-us,47731,35.721,-77.916,14454
+47131,Wilson,PA,Northampton County,,city-us,8222,40.684,-75.242,4203
+47130,Wilson,NY,Niagara County,,city-us,5820,43.273,-78.813,4881
+47138,Wilson,WI,Sheboygan County,,city-us,3471,43.673,-87.760,2899
+47099,Wilson,MI,Alpena County,,city-us,1977,45.009,-83.620,1521
+47106,Wilson,MI,Charlevoix County,,city-us,1874,45.166,-85.029,1521
+47104,Wilson,OK,Carter County,,city-us,1420,34.162,-97.426,2857
+47141,Wilson,WY,Teton County,,city-us,1407,43.501,-110.875,3463
+47115,Wilson,KS,Ellsworth County,,city-us,922,38.834,-98.421,294
+47129,Wilson,AR,Mississippi County,,city-us,747,35.568,-90.042,6890
+47105,Wilson,MN,Cass County,,city-us,671,46.687,-94.390,215
+47135,Wilson,MO,Putnam County,,city-us,559,40.422,-93.027,437
+47109,Wilson,OH,Clinton County,,city-us,523,39.528,-83.694,1920
+47112,Wilson,WI,Dunn County,,city-us,513,45.155,-91.839,1792
+47126,Wilson,TX,Lynn County,,city-us,444,33.317,-101.724,4070
+47114,Wilson,WI,Eau Claire County,,city-us,420,44.828,-91.023,1923
+47113,Wilson,LA,East Feliciana Parish,,city-us,355,30.920,-91.116,707
+47117,Wilson,MO,Gentry County,,city-us,345,40.330,-94.542,437
+47119,Wilson,MO,Grundy County,,city-us,345,40.004,-93.425,437
+47125,Wilson,WI,Lincoln County,,city-us,321,45.525,-89.870,2244
+47139,Wilson,WI,St. Croix County,,city-us,209,44.954,-92.174,3145
+47127,Wilson,KS,Marion County,,city-us,197,38.300,-97.106,294
+47100,Wilson,OH,Belmont County / Monroe County,,city-us,133,39.861,-81.069,2703
+47111,Wilson,IL,De Witt County,,city-us,124,40.261,-88.871,876
+47137,Wilson,WI,Rusk County,,city-us,119,45.583,-91.490,1659
+47142,Wilson,SD,Tripp County,,city-us,103,43.291,-99.822,0
+47136,Wilson,KS,Rice County,,city-us,98,38.302,-98.091,294
+47123,Wilson,KS,Lane County,,city-us,66,38.627,-100.469,294
+47101,Wilson,ND,Burleigh County,,city-us,33,47.277,-100.695,0
+47133,Wilson,SD,Perkins County,,city-us,25,45.775,-102.871,0
+47102,Wilson,WV,Cabell County,,city-us,0,38.426,-82.330,167
+47103,Wilson,MD,Calvert County,,city-us,0,38.603,-76.522,182
+47107,Wilson,SC,Clarendon County,,city-us,0,33.663,-80.118,2277
+47108,Wilson,IN,Clark County,,city-us,0,38.444,-85.830,142
+47110,Wilson,TX,Comanche County,,city-us,0,31.932,-98.267,820
+47116,Wilson,MD,Garrett County,,city-us,0,39.432,-79.270,164
+47118,Wilson,WV,Grant County,,city-us,0,39.254,-79.398,367
+47120,Wilson,WV,Kanawha County,,city-us,0,38.385,-81.593,131
+47121,Wilson,TX,Kaufman County,,city-us,0,32.682,-96.292,94
+47122,Wilson,IL,Lake County,,city-us,0,42.347,-87.906,1469
+47124,Wilson,WA,Lewis County,,city-us,0,46.453,-122.555,747
+47128,Wilson,MI,Menominee County,,city-us,0,45.705,-87.438,1932
+47132,Wilson,OK,Okmulgee County,,city-us,0,35.508,-96.035,494
+47134,Wilson,AR,Pope County,,city-us,0,35.210,-92.930,99
+47140,Wilson,CA,Sutter County,,city-us,0,38.978,-121.626,84
+47144,Wilson,MN,Winona County,,city-us,0,43.960,-91.685,455

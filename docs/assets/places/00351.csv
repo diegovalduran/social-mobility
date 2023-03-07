@@ -1,30 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4163,Newton,MA,,city-us,87453,42.34,-71.21,23916
-4159,Newton,IA,,city-us,15667,41.70,-93.05,21290
-4168,Newton,NC,,city-us,13187,35.67,-81.22,4549
-4175,Newton,OH,,city-us,8582,41.17,-80.95,255
-4170,Newton,NJ,,city-us,8524,41.06,-74.75,25763
-4173,Newton,OH,,city-us,5234,39.86,-82.08,255
-4169,Newton,NH,,city-us,4835,42.87,-71.05,4229
-4172,Newton,OH,,city-us,3522,40.04,-84.36,255
-4171,Newton,OH,,city-us,3213,40.14,-82.42,255
-4167,Newton,MS,,city-us,3137,32.32,-89.16,3254
-4176,Newton,PA,,city-us,2866,41.45,-75.76,1808
-4164,Newton,MI,,city-us,2762,42.21,-85.13,204
-4160,Newton,IL,,city-us,2685,38.99,-88.16,5175
-4162,Newton,KS,,city-us,2246,38.05,-97.31,545
-4179,Newton,WI,,city-us,2241,43.99,-87.73,2977
-4177,Newton,TX,,city-us,1991,30.85,-93.76,4410
-4174,Newton,OH,,city-us,1798,39.04,-83.09,255
-4157,Newton,AL,,city-us,1607,31.34,-85.61,6325
-4166,Newton,MN,,city-us,808,46.50,-95.34,2001
-4178,Newton,UT,,city-us,794,41.86,-111.99,2305
-4158,Newton,GA,,city-us,588,31.31,-84.34,3102
-4180,Newton,WI,,city-us,544,43.95,-89.42,1867
-4165,Newton,MI,,city-us,440,46.03,-85.74,204
-4161,Newton,IL,,city-us,427,41.71,-90.15,345
-4181,Newton,IN,,city-us,0,40.77,-87.39,154
-4182,Newton,IN,,city-us,0,40.97,-85.82,153
-4183,Newton,WA,,city-us,0,47.08,-124.06,191
-4184,Newton,WV,,city-us,0,38.59,-81.18,293
-4185,Newton,WI,,city-us,0,43.59,-91.06,194
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1836,Atlas,MI,Genesee County,,city-us,7993,42.921,-83.509,3819
+1839,Atlas,PA,Northumberland County,,city-us,753,40.800,-76.428,276
+1837,Atlas,TX,Lamar County,,city-us,0,33.569,-95.617,297
+1838,Atlas,CA,Napa County,,city-us,0,38.429,-122.248,351
+1840,Atlas,IL,Pike County,,city-us,0,39.514,-90.969,320
+1841,Atlas,WV,Upshur County,,city-us,0,38.977,-80.280,86

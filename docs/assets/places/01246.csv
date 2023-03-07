@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12518,Hood,CA,,city-us,243,38.37,-121.52,2482
-12519,Hood,PA,,city-us,0,40.36,-74.96,502
-12520,Hood,VA,,city-us,0,38.35,-78.38,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6287,Bushnell,FL,Sumter County,,city-us,3027,28.665,-82.113,3494
+6285,Bushnell,IL,McDonough County,,city-us,2845,40.563,-90.503,343
+6286,Bushnell,MI,Montcalm County,,city-us,1594,43.170,-85.010,2055
+6284,Bushnell,NE,Kimball County,,city-us,115,41.232,-103.892,3369
+6282,Bushnell,SD,Brookings County,,city-us,70,44.329,-96.643,2950
+6281,Bushnell,MO,Barton County,,city-us,0,37.497,-94.151,242
+6283,Bushnell,GA,Coffee County,,city-us,0,31.560,-82.960,501

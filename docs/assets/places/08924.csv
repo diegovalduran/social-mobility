@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46722,Bearwallow,KY,,city-us,0,37.70,-85.32,463
-46723,Bearwallow,NC,,city-us,0,35.46,-82.32,1122
-46724,Bearwallow,VA,,city-us,0,37.24,-81.74,571
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44769,Wadesboro,NC,Anson County,,city-us,5038,34.968,-80.077,5755
+44770,Wadesboro,KY,Calloway County,,city-us,0,36.748,-88.321,224
+44771,Wadesboro,FL,Leon County,,city-us,0,30.505,-84.066,1199
+44772,Wadesboro,LA,Tangipahoa Parish,,city-us,0,30.423,-90.504,720

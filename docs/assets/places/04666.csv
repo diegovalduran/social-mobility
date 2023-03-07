@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33041,Leverett,MA,,city-us,1862,42.47,-72.48,5648
-33042,Leverett,IL,,city-us,0,40.19,-88.21,146
-33043,Leverett,MS,,city-us,0,33.88,-90.08,313
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23895,Landisburg,PA,Perry County,,city-us,222,40.343,-77.307,2542
+23894,Landisburg,WV,Fayette County,,city-us,0,37.977,-80.940,345

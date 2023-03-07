@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13196,McArthur,OH,,city-us,1925,40.44,-83.80,1737
-13197,McArthur,OH,,city-us,1770,39.25,-82.48,4207
-13198,MacArthur,WV,,city-us,1559,37.76,-81.21,2121
-13195,McArthur,CA,,city-us,418,41.05,-121.40,4412
-13199,McArthur,AR,,city-us,0,33.69,-91.33,469
-13200,McArthur,CA,,city-us,0,41.33,-120.54,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6788,Cannon Ball,ND,Sioux County,,city-us,847,46.389,-100.594,2203
+6787,Cannon Ball,ND,Hettinger County,,city-us,39,46.327,-102.110,2203

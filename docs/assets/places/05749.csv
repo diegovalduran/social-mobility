@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37261,Joplin,MO,,city-us,51846,37.08,-94.50,31175
-37262,Joplin,MT,,city-us,298,48.56,-110.77,3112
-37263,Joplin,TX,,city-us,30,33.09,-97.99,598
-37264,Joplin,WV,,city-us,0,38.34,-81.68,724
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29598,Morse,MN,St. Louis County,,city-us,1178,47.845,-91.974,2470
+29593,Morse,LA,Acadia Parish,,city-us,592,30.122,-92.498,2323
+29596,Morse,MN,Itasca County,,city-us,580,47.350,-93.854,2470
+29594,Morse,WI,Ashland County,,city-us,493,46.222,-90.628,1936
+29595,Morse,TX,Hansford County,,city-us,251,36.063,-101.475,2309
+29597,Morse,IA,Johnson County,,city-us,0,41.749,-91.435,665
+29599,Morse,IL,Stark County,,city-us,0,41.230,-89.645,169

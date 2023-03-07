@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28824,Versailles,KY,,city-us,10431,38.05,-84.73,5499
-28826,Versailles,OH,,city-us,2693,40.22,-84.48,4637
-28825,Versailles,MO,,city-us,2536,38.43,-92.84,4374
-28823,Versailles,IN,,city-us,2167,39.07,-85.25,4034
-28827,Versailles,PA,,city-us,1458,40.32,-79.83,3200
-28822,Versailles,IL,,city-us,667,39.89,-90.63,2585
-28828,Versailles,LA,,city-us,0,29.95,-89.96,6014
-28829,Versailles,TN,,city-us,0,35.73,-86.54,259
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19268,Hatley,WI,Marathon County,,city-us,665,44.887,-89.339,4208
+19269,Hatley,MS,Monroe County,,city-us,494,33.977,-88.421,2389
+19267,Hatley,GA,Crisp County,,city-us,0,31.899,-83.613,296

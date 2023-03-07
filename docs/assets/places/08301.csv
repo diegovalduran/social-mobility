@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45174,Marcella,AR,,city-us,0,35.79,-91.88,906
-45175,Marcella,MS,,city-us,0,33.13,-90.30,503
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41995,Summitville,IN,Madison County,,city-us,982,40.339,-85.644,3896
+41994,Summitville,OH,Columbiana County,,city-us,108,40.678,-80.886,4090
+41993,Summitville,TN,Coffee County,,city-us,0,35.559,-85.993,479

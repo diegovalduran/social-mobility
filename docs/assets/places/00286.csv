@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3309,Langston,OK,,city-us,1744,35.95,-97.26,4347
-3308,Langston,AL,,city-us,268,34.54,-86.07,3409
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1491,Arlington Heights,IL,Cook County,,city-us,76000,42.088,-87.981,19062
+1493,Arlington Heights,PA,Monroe County,,city-us,6356,40.990,-75.216,2242
+1494,Arlington Heights,WA,Snohomish County,,city-us,2774,48.202,-122.062,1947
+1492,Arlington Heights,OH,Hamilton County,,city-us,809,39.215,-84.456,6285

@@ -1,21 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-630,Ridgeway,NY,,city-us,6527,43.26,-78.38,4629
-632,Ridgway,PA,,city-us,4005,41.42,-78.73,7801
-623,Ridgeway,AK,,city-us,2689,60.53,-151.09,2374
-627,Ridgeway,KS,,city-us,2394,38.82,-95.67,0
-628,Ridgeway,MI,,city-us,1519,41.97,-83.83,2092
-624,Ridgway,CO,,city-us,1207,38.15,-107.76,13030
-626,Ridgway,IL,,city-us,855,37.83,-88.20,1055
-634,Ridgeway,VA,,city-us,746,36.58,-79.86,3036
-635,Ridgeway,WI,,city-us,646,43.00,-89.99,3541
-629,Ridgeway,MO,,city-us,377,40.38,-93.94,3682
-631,Ridgeway,OH,,city-us,314,40.51,-83.57,3482
-625,Ridgeway,IA,,city-us,268,43.30,-91.99,3279
-633,Ridgeway,SC,,city-us,267,34.31,-80.96,2600
-636,Ridgeway,GA,,city-us,0,32.64,-84.72,303
-637,Ridgeway,KY,,city-us,0,36.90,-83.13,244
-638,Ridgeway,MN,,city-us,0,43.91,-91.56,436
-639,Ridgeway,NJ,,city-us,0,40.03,-74.28,316
-640,Ridgeway,NC,,city-us,0,36.44,-78.24,333
-641,Ridgeway,VA,,city-us,0,36.99,-79.48,117
-642,Ridgeway,WV,,city-us,0,39.30,-78.07,379
+id,name,state,county,country,level,population,latitude,longitude,wiki
+339,Airville,TX,Bell County,,city-us,0,31.077,-97.164,649
+340,Airville,PA,York County,,city-us,0,39.832,-76.406,1025

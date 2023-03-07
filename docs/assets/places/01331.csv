@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13103,Mad River,OH,,city-us,10944,39.87,-83.93,212
-13102,Mad River,OH,,city-us,2759,40.08,-83.86,212
-13101,Mad River,CA,,city-us,347,40.45,-123.51,5899
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6738,Canada,,,,country,38516736,56.130,-106.347,72958
+6735,Canada,KS,Labette County,,city-us,198,37.112,-95.450,4404
+6736,Canada,KS,Marion County,,city-us,0,38.354,-97.113,4404
+6737,Canada,KY,Pike County,,city-us,0,37.606,-82.324,570

@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36500,Rosewood,MN,,city-us,322,45.01,-95.67,2010
-36501,Rosewood,OH,,city-us,283,40.22,-83.96,445
-36502,Rosewood,CA,,city-us,0,40.77,-124.17,353
-36503,Rosewood,CA,,city-us,0,40.28,-122.55,767
-36504,Rosewood,IN,,city-us,0,38.04,-85.93,205
-36505,Rosewood,KY,,city-us,0,37.09,-87.09,457
-36506,Rosewood,MN,,city-us,0,48.19,-96.29,87
-36507,Rosewood,MO,,city-us,0,40.42,-92.92,246
-36508,Rosewood,NC,,city-us,0,35.41,-78.07,2441
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28426,Milbank,SD,Grant County,,city-us,3474,45.219,-96.636,4586
+28427,Milbank,VA,King George County,,city-us,0,38.190,-77.199,88

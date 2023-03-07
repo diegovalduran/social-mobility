@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24512,Broadwell,IL,,city-us,3640,40.09,-89.43,445
-24513,Broadwell,KY,,city-us,0,38.33,-84.36,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15384,Forestburgh,NY,Sullivan County,,city-us,826,41.562,-74.710,12849
+15383,Forestburg,SD,Sanborn County,,city-us,45,44.022,-98.108,568
+15382,Forestburg,TX,Montague County,,city-us,0,33.533,-97.557,373

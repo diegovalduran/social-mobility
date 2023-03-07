@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34729,Ludington,MI,,city-us,7721,43.96,-86.45,11254
-34730,Ludington,WI,,city-us,998,44.83,-91.13,1970
-34731,Ludington,MT,,city-us,0,47.83,-104.06,86
-34732,Ludington,OH,,city-us,0,39.59,-82.16,116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25967,Lucy,ND,Burke County,,city-us,46,48.691,-102.549,0
+25968,Lucy,AL,Houston County,,city-us,0,31.020,-85.041,193
+25969,Lucy,LA,St. John the Baptist Parish,,city-us,0,30.047,-90.507,692

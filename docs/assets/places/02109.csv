@@ -1,6 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18423,Parkland,WA,,city-us,38092,47.16,-122.43,4304
-18422,Parkland,FL,,city-us,35265,26.31,-80.24,3952
-18424,Parkland,WI,,city-us,1240,46.65,-92.00,2367
-18425,Parkland,IL,,city-us,0,40.46,-89.75,184
-18426,Parkland,OK,,city-us,0,35.84,-96.84,1234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10565,Crystal,MN,Hennepin County,,city-us,22711,45.033,-93.360,5075
+10568,Crystal,MI,Montcalm County,,city-us,888,43.262,-84.915,435
+10570,Crystal,MI,Oceana County,,city-us,687,43.776,-86.218,209
+10566,Crystal,NM,McKinley County / San Juan County,,city-us,305,36.030,-108.989,5245
+10573,Crystal,WI,Washburn County,,city-us,280,45.864,-91.732,1797
+10562,Crystal,ME,Aroostook County,,city-us,247,45.989,-68.384,2984
+10571,Crystal,ND,Pembina County,,city-us,73,48.586,-97.732,3296
+10572,Crystal,KS,Phillips County,,city-us,44,39.869,-99.118,0
+10563,Crystal,NV,Clark County,,city-us,0,36.501,-114.763,571
+10564,Crystal,IN,Dubois County,,city-us,0,38.492,-86.754,292
+10567,Crystal,WV,Mercer County,,city-us,0,37.373,-81.271,264
+10569,Crystal,NV,Nye County,,city-us,0,36.492,-116.168,610

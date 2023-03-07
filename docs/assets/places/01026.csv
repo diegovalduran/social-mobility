@@ -1,11 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10808,Allegheny,PA,,city-us,8273,40.61,-79.64,631
-10803,Allegheny,PA,,city-us,6509,40.45,-78.48,631
-10805,Allegheny,PA,,city-us,2758,40.54,-78.62,631
-10804,Allegheny,PA,,city-us,620,41.14,-79.74,631
-10806,Allegheny,PA,,city-us,610,39.94,-78.81,631
-10807,Allegheny,PA,,city-us,278,41.57,-79.54,631
-10801,Alleghany,CA,,city-us,93,39.47,-120.84,3231
-10802,Alleghany,ND,,city-us,53,46.32,-97.84,0
-10809,Allegheny,KY,,city-us,0,37.27,-82.49,192
-10810,Alleghany,VA,,city-us,0,37.75,-80.24,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5124,Breckenridge,TX,Stephens County,,city-us,5244,32.756,-98.902,5574
+5125,Breckenridge,CO,Summit County,,city-us,5024,39.482,-106.038,11542
+5126,Breckenridge,MN,Wilkin County,,city-us,3398,46.264,-96.588,4663
+5120,Breckenridge,MI,Gratiot County,,city-us,1278,43.408,-84.475,3320
+5118,Breckenridge,MO,Caldwell County,,city-us,442,39.742,-93.813,447
+5119,Breckenridge,OK,Garfield County,,city-us,200,36.457,-97.725,2100
+5121,Breckenridge,IL,Hancock County,,city-us,0,40.244,-91.287,149
+5122,Breckenridge,IN,Harrison County,,city-us,0,38.218,-86.033,213
+5123,Breckenridge,IL,Sangamon County,,city-us,0,39.699,-89.448,183

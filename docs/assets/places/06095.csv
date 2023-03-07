@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38435,River Road,OR,,city-us,9526,44.08,-123.13,1056
-38434,River Road,NC,,city-us,3244,35.51,-76.99,2279
-38436,River Road,WA,,city-us,1056,48.07,-123.13,2280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31187,Nixon,TX,Gonzales County / Wilson County,,city-us,2355,29.270,-97.766,13880
+31185,Nixon,PA,Butler County,,city-us,1351,40.783,-79.930,2027
+31188,Nixon,TN,Hardin County,,city-us,514,35.115,-88.257,169
+31186,Nixon,IL,De Witt County,,city-us,484,40.106,-88.755,0
+31190,Nixon,NV,Washoe County,,city-us,304,39.832,-119.358,2025
+31189,Nixon,NJ,Middlesex County,,city-us,0,40.514,-74.368,560

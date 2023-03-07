@@ -1,17 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16136,Andover,MN,,city-us,32926,45.23,-93.29,4991
-16133,Andover,KS,,city-us,15435,37.71,-97.14,11577
-16134,Andover,MA,,city-us,8958,42.66,-71.14,22148
-16139,Andover,NJ,,city-us,6172,41.03,-74.73,11410
-16130,Andover,CT,,city-us,3133,41.73,-72.37,2893
-16138,Andover,NH,,city-us,2425,43.45,-71.79,4683
-16141,Andover,OH,,city-us,958,41.61,-80.57,5453
-16140,Andover,NY,,city-us,912,42.16,-77.80,2879
-16135,Andover,ME,,city-us,881,44.59,-70.77,6629
-16132,Andover,IL,,city-us,878,41.28,-90.26,1112
-16143,Andover,VT,,city-us,576,43.29,-72.72,2144
-16137,Andover,MN,,city-us,109,47.72,-96.68,1832
-16131,Andover,IA,,city-us,107,41.98,-90.25,2934
-16142,Andover,SD,,city-us,67,45.41,-97.90,3038
-16144,Andover,MO,,city-us,0,40.56,-93.90,476
-16145,Andover,VA,,city-us,0,36.92,-82.80,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9124,Coatesville,PA,Chester County,,city-us,13299,39.983,-75.824,15880
+9125,Coatesville,IN,Hendricks County,,city-us,558,39.688,-86.670,3826

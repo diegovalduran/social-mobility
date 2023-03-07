@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30256,Circleville,OH,,city-us,2560,39.64,-82.92,1267
-30257,Circleville,UT,,city-us,550,38.17,-112.27,4875
-30255,Circleville,KS,,city-us,155,39.51,-95.86,3626
-30254,Scircleville,IN,,city-us,0,40.29,-86.30,610
-30258,Circleville,IN,,city-us,0,39.60,-85.44,162
-30259,Circleville,WV,,city-us,0,38.67,-79.49,598
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20772,Hortonville,WI,Outagamie County,,city-us,3085,44.335,-88.638,8179
+20774,Hortonville,NY,Sullivan County,,city-us,305,41.764,-75.030,329
+20770,Hortonville,IN,Hamilton County,,city-us,0,40.086,-86.161,295
+20771,Hortonville,NM,Otero County,,city-us,0,32.911,-105.536,88
+20773,Hortonville,VT,Rutland County,,city-us,0,43.470,-72.805,87

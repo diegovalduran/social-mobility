@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35142,Swan Creek,OH,,city-us,8517,41.54,-83.95,1381
-35141,Swan Creek,MI,,city-us,2456,43.35,-84.13,2661
-35143,Swan Creek,IL,,city-us,0,40.67,-90.65,127
-35144,Swan Creek,NC,,city-us,0,36.10,-80.76,714
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26473,Malden,MA,Middlesex County,,city-us,65074,42.425,-71.066,16529
+26471,Malden,MO,Dunklin County,,city-us,3634,36.557,-89.966,5997
+26470,Malden,IL,Bureau County,,city-us,311,41.424,-89.369,1868
+26476,Malden,WA,Whitman County,,city-us,221,47.229,-117.473,3863
+26469,Malden,TX,Armstrong County,,city-us,0,35.090,-101.308,1241
+26472,Malden,WV,Kanawha County,,city-us,0,38.301,-81.557,957
+26474,Malden,IN,Porter County,,city-us,0,41.376,-87.027,819
+26475,Malden,PA,Washington County,,city-us,0,40.022,-79.559,7469

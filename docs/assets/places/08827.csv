@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46485,Bug,KY,,city-us,0,36.65,-85.11,157
-46486,Bugg,KY,,city-us,0,36.69,-88.91,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44275,Varna,,,Bulgaria,city-international,347924,43.211,27.911,61974
+44274,Varna,NY,Tompkins County,,city-us,734,42.455,-76.438,337
+44273,Varna,IL,Marshall County,,city-us,373,41.036,-89.226,2781

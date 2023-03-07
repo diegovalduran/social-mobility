@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39512,Ridgeley,WV,,city-us,584,39.64,-78.77,8065
-39511,Ridgeley,NE,,city-us,0,41.62,-96.73,176
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32790,Oxbow,MI,Oakland County,,city-us,30019,42.648,-83.496,5329
+32788,Oxbow,ND,Cass County,,city-us,375,46.673,-96.810,2832
+32789,Oxbow,NY,Jefferson County,,city-us,89,44.287,-75.623,746
+32787,Oxbow,OR,Baker County,,city-us,0,44.975,-116.863,1163

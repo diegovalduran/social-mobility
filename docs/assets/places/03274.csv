@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25708,Grand Rapids,MI,,city-us,197416,42.96,-85.67,68869
-25709,Grand Rapids,MN,,city-us,11220,47.24,-93.53,10815
-25712,Grand Rapids,WI,,city-us,7613,44.38,-89.75,4106
-25711,Grand Rapids,OH,,city-us,924,41.41,-83.86,4950
-25707,Grand Rapids,IL,,city-us,278,41.24,-88.76,289
-25710,Grand Rapids,ND,,city-us,0,46.44,-98.37,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16558,Genola,UT,Utah County,,city-us,1593,39.996,-111.843,2109
+16557,Genola,MN,Morrison County,,city-us,72,45.960,-94.116,2973

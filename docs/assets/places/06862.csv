@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40731,Ai,OH,,city-us,0,41.63,-83.94,714
-40732,Ai,AL,,city-us,0,33.65,-85.45,207
-40733,Ai,GA,,city-us,0,34.83,-84.45,284
-40734,Ai,NC,,city-us,0,36.32,-78.96,122
-40735,Eye,WV,,city-us,0,38.28,-80.85,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34938,Pontotoc,MS,Pontotoc County,,city-us,5684,34.248,-88.999,7412
+34936,Pontotoc,OK,Johnston County,,city-us,81,34.489,-96.625,237
+34937,Pontotoc,TX,Mason County,,city-us,0,30.909,-98.980,2764

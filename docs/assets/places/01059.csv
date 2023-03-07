@@ -1,38 +1,26 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11074,Belmont,CA,,city-us,27225,37.52,-122.28,9961
-11079,Belmont,MA,,city-us,27056,42.40,-71.18,16051
-11083,Belmont,NC,,city-us,15136,35.24,-81.04,17059
-11091,Belmont,VA,,city-us,9589,39.06,-77.51,1268
-11085,Belmont,NH,,city-us,7380,43.47,-71.48,5905
-11099,Belmont,IL,,city-us,5250,41.79,-88.04,1083
-11088,Belmont,PA,,city-us,2933,40.29,-78.89,2281
-11075,Belmont,IL,,city-us,2424,40.73,-87.71,973
-11082,Belmont,MS,,city-us,1856,34.51,-88.21,3613
-11080,Belmont,ME,,city-us,1003,44.39,-69.12,3510
-11094,Belmont,WV,,city-us,862,39.38,-81.26,3355
-11086,Belmont,NY,,city-us,853,42.22,-78.03,2658
-11092,Belmont,WI,,city-us,796,42.79,-90.36,3945
-11093,Belmont,WI,,city-us,618,44.29,-89.30,2249
-11087,Belmont,OH,,city-us,410,40.03,-81.04,3886
-11078,Belmont,LA,,city-us,305,31.72,-93.51,325
-11107,Belmont,VT,,city-us,245,43.42,-72.82,168
-11081,Belmont,MN,,city-us,217,43.72,-95.03,2139
-11077,Belmont,KS,,city-us,82,39.70,-99.46,217
-11084,Belmont,ND,,city-us,78,47.62,-96.91,0
-11090,Belmont,SD,,city-us,66,44.68,-98.40,0
-11089,Belmont,SD,,city-us,64,43.30,-98.16,0
-11076,Belmont,KS,,city-us,44,37.51,-98.19,217
-11106,Belmont,TX,,city-us,36,29.52,-97.68,5006
-11095,Belmont,AL,,city-us,0,32.56,-87.94,459
-11096,Belmont,AZ,,city-us,0,33.55,-112.16,1939
-11097,Belmont,AR,,city-us,0,35.56,-94.18,156
-11098,Belmont,GA,,city-us,0,34.19,-83.76,251
-11100,Belmont,IN,,city-us,0,39.15,-86.35,1385
-11101,Belmont,KY,,city-us,0,38.60,-84.12,93
-11102,Belmont,KY,,city-us,0,37.90,-85.71,182
-11103,Belmont,TN,,city-us,0,36.25,-84.03,157
-11104,Belmont,TN,,city-us,0,35.42,-86.11,181
-11105,Belmont,TN,,city-us,0,36.01,-83.32,155
-11108,Belmont,VA,,city-us,0,37.16,-80.45,195
-11109,Belmont,VA,,city-us,0,38.15,-77.87,2367
-11110,Belmont,WA,,city-us,0,47.09,-117.16,598
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5229,Bridgeport,CT,Greater Bridgeport Planning Region,,city-us,148333,41.187,-73.196,66811
+5231,Bridgeport,WV,Harrison County,,city-us,9257,39.286,-80.256,6113
+5240,Bridgeport,MI,Saginaw County,,city-us,6571,43.359,-83.882,3117
+5244,Bridgeport,TX,Wise County,,city-us,5972,33.210,-97.755,4641
+5237,Bridgeport,PA,Montgomery County,,city-us,5032,40.105,-75.345,4624
+5233,Bridgeport,IL,Lawrence County,,city-us,2276,38.701,-87.780,345
+5232,Bridgeport,AL,Jackson County,,city-us,2257,34.948,-85.714,7611
+5226,Bridgeport,WA,Douglas County,,city-us,2137,48.008,-119.671,4696
+5221,Bridgeport,OH,Belmont County,,city-us,1569,40.070,-80.740,4537
+5234,Bridgeport,NY,Madison County / Onondaga County,,city-us,1567,43.159,-75.964,2730
+5238,Bridgeport,NE,Morrill County,,city-us,1463,41.665,-103.099,3890
+5225,Bridgeport,WI,Crawford County,,city-us,946,43.009,-91.058,2614
+5236,Bridgeport,CA,Mono County,,city-us,424,38.256,-119.231,5714
+5228,Bridgeport,NJ,Gloucester County,,city-us,389,39.801,-75.347,1652
+5223,Bridgeport,OK,Caddo County,,city-us,104,35.546,-98.385,2897
+5241,Bridgeport,KS,Saline County,,city-us,64,38.628,-97.613,1141
+5220,Bridgeport,OR,Baker County,,city-us,0,44.486,-117.745,235
+5222,Bridgeport,VA,Buckingham County,,city-us,0,37.710,-78.334,96
+5224,Bridgeport,TN,Cocke County,,city-us,0,35.953,-83.117,134
+5227,Bridgeport,KY,Franklin County,,city-us,0,38.160,-84.951,1583
+5230,Bridgeport,IN,Harrison County,,city-us,0,38.176,-85.906,225
+5235,Bridgeport,CA,Mariposa County,,city-us,0,37.433,-120.004,299
+5239,Bridgeport,OR,Polk County,,city-us,0,44.848,-123.386,156
+5242,Bridgeport,OH,Union County,,city-us,0,40.161,-83.395,417
+5243,Bridgeport,MO,Warren County,,city-us,0,38.744,-91.400,193

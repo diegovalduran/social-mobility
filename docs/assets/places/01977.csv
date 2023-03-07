@@ -1,31 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17723,Cedar Grove,NJ,,city-us,13430,40.86,-74.23,21113
-17721,Cedar Grove,FL,,city-us,3431,30.17,-85.63,2587
-17725,Cedar Grove,WI,,city-us,2100,43.57,-87.82,4923
-17724,Cedar Grove,NM,,city-us,879,35.17,-106.19,2278
-17726,Cedar Grove,WV,,city-us,700,38.22,-81.43,3953
-17727,Cedar Grove,CA,,city-us,472,38.74,-120.66,124
-17722,Cedar Grove,IN,,city-us,146,39.36,-84.94,2994
-17728,Cedar Grove,CA,,city-us,0,36.79,-118.67,842
-17729,Cedar Grove,GA,,city-us,0,32.25,-82.88,315
-17730,Cedar Grove,GA,,city-us,0,34.72,-85.43,364
-17731,Cedar Grove,KY,,city-us,0,37.97,-85.63,96
-17732,Cedar Grove,MS,,city-us,0,32.35,-89.19,280
-17733,Cedar Grove,NJ,,city-us,0,40.37,-74.69,965
-17734,Cedar Grove,NC,,city-us,0,36.17,-79.17,299
-17735,Cedar Grove,NC,,city-us,0,35.68,-79.89,95
-17736,Cedar Grove,TN,,city-us,0,35.64,-86.63,140
-17737,Cedar Grove,TN,,city-us,0,35.82,-88.60,112
-17738,Cedar Grove,TN,,city-us,0,35.48,-88.27,168
-17739,Cedar Grove,TN,,city-us,0,35.95,-87.81,159
-17740,Cedar Grove,TN,,city-us,0,36.56,-85.06,171
-17741,Cedar Grove,TN,,city-us,0,35.84,-84.46,132
-17742,Cedar Grove,TN,,city-us,0,35.78,-86.62,184
-17743,Cedar Grove,TN,,city-us,0,36.57,-82.52,873
-17744,Cedar Grove,TN,,city-us,0,35.74,-85.56,166
-17745,Cedar Grove,TN,,city-us,0,36.25,-86.53,156
-17746,Cedar Grove,TX,,city-us,0,32.76,-96.09,99
-17747,Cedar Grove,VA,,city-us,0,36.60,-78.01,122
-17748,Cedar Grove,VA,,city-us,0,39.27,-78.19,181
-17749,Cedar Grove,VA,,city-us,0,37.17,-75.96,110
-17750,Cedar Grove,WV,,city-us,0,39.23,-81.51,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10046,Cotton,MN,St. Louis County,,city-us,60,47.169,-92.476,846
+10044,Cotton,GA,Mitchell County,,city-us,0,31.162,-84.067,626
+10045,Cotton,WV,Roane County,,city-us,0,38.545,-81.350,121

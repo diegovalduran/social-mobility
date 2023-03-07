@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32781,Pearl River,NY,,city-us,16387,41.06,-74.02,11769
-32780,Pearl River,MS,,city-us,3884,32.78,-89.23,2473
-32779,Pearl River,LA,,city-us,2630,30.38,-89.75,3937
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23568,Lake Como,NJ,Monmouth County,,city-us,1692,40.160,-74.028,13211
+23567,Lake Como,MS,Jasper County,,city-us,0,31.962,-89.213,303
+23569,Lake Como,FL,Putnam County,,city-us,0,29.484,-81.573,406
+23570,Lake Como,WI,Walworth County,,city-us,0,42.590,-88.502,116
+23571,Lake Como,PA,Wayne County,,city-us,0,41.850,-75.337,586

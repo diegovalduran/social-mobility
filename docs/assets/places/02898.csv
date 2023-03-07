@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23568,Zearing,IA,,city-us,539,42.16,-93.30,5661
-23569,Zearing,IL,,city-us,0,41.45,-89.32,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14545,Falls City,NE,Richardson County,,city-us,4074,40.061,-95.602,7961
+14544,Falls City,OR,Polk County,,city-us,1068,44.866,-123.436,3942
+14543,Falls City,TX,Karnes County,,city-us,544,28.983,-98.017,2900
+14542,Falls City,WI,Dunn County,,city-us,0,44.797,-91.769,2064

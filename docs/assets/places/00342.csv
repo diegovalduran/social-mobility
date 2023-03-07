@@ -1,4 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4086,Munford,TN,,city-us,6385,35.45,-89.82,4548
-4085,Munford,AL,,city-us,1333,33.53,-85.95,2858
-4087,Munford,VA,,city-us,0,37.51,-79.61,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1782,Athens,,,Greece,city-international,664046,37.984,23.728,73957
+1762,Athens,GA,Clarke County,,city-us,128711,33.952,-83.367,35384
+1757,Athens,OH,Athens County,,city-us,30484,39.329,-82.124,120
+1772,Athens,AL,Limestone County,,city-us,27027,34.803,-86.972,11822
+1775,Athens,TN,McMinn County,,city-us,14225,35.443,-84.593,10766
+1768,Athens,TX,Henderson County,,city-us,12890,32.205,-95.856,5654
+1758,Athens,PA,Bradford County,,city-us,5185,41.955,-76.559,146
+1766,Athens,NY,Greene County,,city-us,3981,42.277,-73.859,5462
+1765,Athens,MO,Gentry County,,city-us,2109,40.229,-94.290,164
+1776,Athens,IL,Menard County,,city-us,1944,39.961,-89.724,2084
+1774,Athens,WI,Marathon County,,city-us,1064,45.033,-90.074,4577
+1759,Athens,MI,Calhoun County,,city-us,956,42.089,-85.235,3285
+1779,Athens,ME,Somerset County,,city-us,951,44.965,-69.667,3425
+1777,Athens,WV,Mercer County,,city-us,933,37.422,-81.016,4253
+1763,Athens,PA,Crawford County,,city-us,635,41.750,-79.847,146
+1781,Athens,VT,Windham County,,city-us,385,43.118,-72.587,2459
+1767,Athens,OH,Harrison County,,city-us,373,40.203,-81.014,120
+1761,Athens,LA,Claiborne Parish,,city-us,224,32.650,-93.026,3576
+1771,Athens,KS,Jewell County,,city-us,67,39.611,-98.331,733
+1780,Athens,ND,Williams County,,city-us,39,48.404,-103.609,0
+1760,Athens,VA,Caroline County,,city-us,0,37.992,-77.417,164
+1764,Athens,IN,Fulton County,,city-us,0,41.054,-86.125,792
+1769,Athens,AR,Howard County,,city-us,0,34.314,-93.977,1307
+1770,Athens,MN,Isanti County,,city-us,0,45.443,-93.249,644
+1773,Athens,CA,Los Angeles County,,city-us,0,33.920,-118.281,2409
+1778,Athens,MS,Monroe County,,city-us,0,33.872,-88.442,472

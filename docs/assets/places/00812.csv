@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9152,Strawberry,CA,,city-us,5371,37.90,-122.51,7442
-9151,Strawberry,AZ,,city-us,935,34.41,-111.49,2808
-9150,Strawberry,AR,,city-us,265,35.97,-91.32,2625
-9153,Strawberry,CA,,city-us,125,38.20,-120.01,2819
-9154,Strawberry,KS,,city-us,110,39.70,-97.19,2886
-9155,Strawberry,CA,,city-us,0,38.80,-120.15,592
-9156,Strawberry,SC,,city-us,0,33.09,-80.03,278
-9157,Strawberry,UT,,city-us,0,40.15,-110.58,6742
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4166,Black Wolf,WI,Winnebago County,,city-us,2409,43.940,-88.479,2389
+4164,Black Wolf,KS,Ellsworth County,,city-us,0,38.758,-98.362,631
+4165,Black Wolf,WV,McDowell County,,city-us,0,37.336,-81.486,179

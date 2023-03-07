@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33505,Pittsville,MD,,city-us,1618,38.40,-75.41,3238
-33506,Pittsville,WI,,city-us,822,44.44,-90.12,3503
-33507,Pittsville,MO,,city-us,0,38.85,-93.99,290
-33508,Pittsville,PA,,city-us,0,41.26,-79.74,107
-33509,Pittsville,VA,,city-us,0,36.98,-79.46,1880
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24485,Leona,TX,Leon County,,city-us,157,31.155,-95.969,2127
+24483,Leona,KS,Doniphan County,,city-us,40,39.787,-95.322,3281
+24484,Leona,OR,Douglas County,,city-us,0,43.695,-123.289,240

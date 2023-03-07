@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43687,Llano,TX,,city-us,3347,30.76,-98.68,11556
-43688,Llano,CA,,city-us,1201,34.49,-117.79,1097
-43689,Llano,NM,,city-us,0,36.14,-105.68,996
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39307,Shamrock,TX,Wheeler County,,city-us,1773,35.214,-100.249,8020
+39301,Shamrock,MN,Aitkin County,,city-us,1242,46.729,-93.274,2889
+39305,Shamrock,NE,Holt County,,city-us,40,42.304,-98.728,245
+39303,Shamrock,OK,Creek County,,city-us,27,35.910,-96.584,4227
+39302,Shamrock,MO,Callaway County,,city-us,0,39.003,-91.694,832
+39304,Shamrock,FL,Dixie County,,city-us,0,29.643,-83.145,703
+39306,Shamrock,WI,Jackson County,,city-us,0,44.174,-90.804,212

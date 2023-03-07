@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45678,Fortson,GA,,city-us,0,32.61,-84.94,881
-45679,Fortson,WA,,city-us,0,48.27,-121.73,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42840,Thornburg,PA,Allegheny County,,city-us,461,40.435,-80.082,1988
+42841,Thornburg,IA,Keokuk County,,city-us,46,41.455,-92.336,2983
+42842,Thornburg,KS,Smith County,,city-us,0,39.944,-98.786,336
+42843,Thornburg,VA,Spotsylvania County,,city-us,0,38.133,-77.522,481

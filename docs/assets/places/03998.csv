@@ -1,5 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30047,New Paris,OH,,city-us,1488,39.86,-84.79,4169
-30046,New Paris,IN,,city-us,1434,41.50,-85.83,2879
-30048,New Paris,PA,,city-us,201,40.11,-78.64,2640
-30049,New Paris,WI,,city-us,0,43.73,-87.97,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20474,Home,MI,Montcalm County,,city-us,2779,43.437,-85.033,272
+20477,Home,WA,Pierce County,,city-us,1377,47.277,-122.766,8000
+20475,Home,KS,Nemaha County,,city-us,527,39.706,-96.184,931
+20471,Home,MN,Brown County,,city-us,496,44.353,-94.688,2611
+20478,Home,SD,Turner County,,city-us,394,43.466,-96.984,0
+20476,Home,MI,Newaygo County,,city-us,241,43.770,-85.724,272
+20473,Home,KS,Marshall County,,city-us,84,39.842,-96.520,931
+20470,Home,WV,Braxton County,,city-us,0,38.726,-80.813,122
+20472,Home,PA,Indiana County,,city-us,0,40.739,-79.106,740

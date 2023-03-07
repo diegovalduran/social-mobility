@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29104,Williamsville,NY,,city-us,5469,42.96,-78.74,11641
-29102,Williamsville,IL,,city-us,1424,39.95,-89.55,2087
-29103,Williamsville,MO,,city-us,278,36.97,-90.55,3239
-29105,Williamsville,DE,,city-us,0,38.90,-75.51,422
-29106,Williamsville,DE,,city-us,0,38.46,-75.13,228
-29107,Williamsville,MS,,city-us,0,33.03,-89.57,197
-29108,Williamsville,VT,,city-us,0,42.95,-72.68,310
-29109,Williamsville,VA,,city-us,0,38.19,-79.57,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19455,Hazelgreen,MO,Laclede County,,city-us,0,37.767,-92.427,504
+19456,Hazelgreen,WV,Ritchie County,,city-us,0,39.082,-80.987,253

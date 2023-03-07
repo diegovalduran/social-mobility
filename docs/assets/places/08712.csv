@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46206,Sassafras,IN,,city-us,0,38.19,-86.69,357
-46207,Sassafras,KY,,city-us,0,37.22,-83.06,214
-46208,Sassafras,MD,,city-us,0,39.37,-75.80,684
-46209,Sassafras,VA,,city-us,0,37.41,-76.61,96
-46210,Sassafras,WV,,city-us,0,38.93,-82.01,142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43619,Twining,MI,Arenac County,,city-us,142,44.113,-83.807,2958
+43620,Twining,NM,Taos County,,city-us,0,36.595,-105.450,691

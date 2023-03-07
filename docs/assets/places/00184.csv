@@ -1,36 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1833,Dayton,OH,,city-us,137571,39.78,-84.20,50570
-1831,Dayton,NV,,city-us,15036,39.24,-119.59,7091
-1839,Dayton,TX,,city-us,9134,30.05,-94.89,6353
-1827,Dayton,MN,,city-us,8226,45.19,-93.47,5437
-1830,Dayton,NJ,,city-us,8185,40.37,-74.51,3964
-1838,Dayton,TN,,city-us,7139,35.49,-85.01,7891
-1823,Dayton,KY,,city-us,5673,39.11,-84.47,5723
-1834,Dayton,OR,,city-us,2688,45.22,-123.08,6258
-1848,Dayton,MI,,city-us,2657,41.79,-86.37,3791
-1843,Dayton,WI,,city-us,2623,44.28,-89.16,1061
-1841,Dayton,WA,,city-us,2493,46.32,-117.97,4413
-1824,Dayton,ME,,city-us,2158,43.55,-70.57,6095
-1847,Dayton,MD,,city-us,2114,39.29,-77.07,2243
-1825,Dayton,MI,,city-us,1997,43.51,-85.99,203
-1826,Dayton,MI,,city-us,1773,43.46,-83.29,2435
-1840,Dayton,VA,,city-us,1712,38.41,-78.94,4711
-1832,Dayton,NY,,city-us,1676,42.38,-79.00,3668
-1820,Dayton,IN,,city-us,1340,40.37,-86.77,3541
-1850,Dayton,WI,,city-us,1261,42.83,-89.51,2018
-1844,Dayton,WY,,city-us,828,44.88,-107.26,3893
-1817,Dayton,IA,,city-us,779,42.26,-94.07,3998
-1836,Dayton,SD,,city-us,725,43.38,-96.62,0
-1842,Dayton,WI,,city-us,719,43.34,-90.49,1965
-1835,Dayton,PA,,city-us,548,40.88,-79.24,2135
-1818,Dayton,ID,,city-us,526,42.11,-111.99,3961
-1819,Dayton,IL,,city-us,463,41.38,-88.79,2009
-1828,Dayton,MT,,city-us,122,47.87,-114.28,1929
-1822,Dayton,KS,,city-us,115,38.92,-97.42,119
-1829,Dayton,ND,,city-us,81,47.80,-98.45,0
-1821,Dayton,KS,,city-us,40,39.87,-99.46,0
-1816,Dayton,AL,,city-us,28,32.35,-87.64,3021
-1837,Dayton,SD,,city-us,27,45.90,-97.92,0
-1845,Dayton,CA,,city-us,0,39.65,-121.87,854
-1846,Dayton,IL,,city-us,0,41.49,-90.32,399
-1849,Dayton,MO,,city-us,0,38.49,-94.19,737
+id,name,state,county,country,level,population,latitude,longitude,wiki
+951,Ambrose,GA,Coffee County,,city-us,329,31.594,-83.014,1882
+952,Ambrose,ND,Divide County,,city-us,31,48.945,-103.542,3252
+953,Ambrose,IA,Iowa County,,city-us,0,41.531,-92.234,805

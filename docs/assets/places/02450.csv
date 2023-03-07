@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20743,Keokea,HI,,city-us,2199,20.70,-156.36,1285
-20744,Keokea,HI,,city-us,0,19.42,-155.88,775
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12235,Dry Branch,GA,Bibb County,,city-us,0,32.801,-83.499,487
+12236,Dry Branch,WV,Kanawha County,,city-us,0,38.180,-81.467,264
+12237,Dry Branch,VA,Pulaski County,,city-us,0,37.234,-80.618,93

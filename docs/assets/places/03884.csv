@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29520,Dunkirk,NY,,city-us,12614,42.48,-79.33,10466
-29519,Dunkirk,MD,,city-us,2299,38.72,-76.66,2463
-29518,Dunkirk,IN,,city-us,2140,40.37,-85.21,5904
-29522,Dunkirk,WI,,city-us,2053,42.88,-89.21,2001
-29521,Dunkirk,OH,,city-us,771,40.79,-83.64,3528
-29523,Dunkirk,IN,,city-us,0,40.76,-86.39,224
-29524,Dunkirk,KS,,city-us,0,37.48,-94.74,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20234,Hixon,WI,Clark County,,city-us,897,44.994,-90.620,3031
+19884,Hickson,ND,Cass County,,city-us,0,46.669,-96.810,317
+20235,Hixson,TN,Hamilton County,,city-us,0,35.049,-85.333,3208

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31706,Sappa,KS,,city-us,23,39.79,-100.69,281
-31707,Sapa,MS,,city-us,0,33.55,-89.20,441
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22466,Jupiter,FL,Palm Beach County,,city-us,60802,26.934,-80.094,10030
+22465,Jupiter,MN,Kittson County,,city-us,110,48.668,-96.705,1704
+22464,Jupiter,NC,Buncombe County,,city-us,0,35.761,-82.593,223
+22467,Jupiter,CA,Tuolumne County,,city-us,0,38.123,-120.283,194

@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14654,Wasco,CA,,city-us,28173,35.59,-119.34,7302
-14655,Wasco,OR,,city-us,423,45.59,-120.70,3422
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7869,Chapin,SC,Lexington County,,city-us,1841,34.166,-81.350,11992
+7871,Chapin,MI,Saginaw County,,city-us,1060,43.165,-84.316,2336
+7870,Chapin,IL,Morgan County,,city-us,461,39.766,-90.399,1792
+7866,Chapin,IA,Franklin County,,city-us,160,42.834,-93.222,1178
+7867,Chapin,MO,Howell County,,city-us,0,36.691,-91.772,392
+7868,Chapin,WI,Kenosha County,,city-us,0,42.621,-87.973,415
+7872,Chapin,ID,Teton County,,city-us,0,43.643,-111.111,303

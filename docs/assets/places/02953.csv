@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23871,Oldtown,ID,,city-us,235,48.18,-117.04,3543
-23872,Oldtown,MD,,city-us,67,39.54,-78.61,4296
-23873,Oldtown,KY,,city-us,0,38.44,-82.90,280
-23874,Oldtown,OH,,city-us,0,39.73,-83.94,540
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14810,Fergus,MI,Saginaw County,,city-us,3330,43.276,-84.131,2501
+14809,Fergus,CA,Merced County,,city-us,0,37.319,-120.538,186

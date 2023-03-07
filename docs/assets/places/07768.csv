@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43697,Los Ebanos,TX,,city-us,666,26.41,-98.92,488
-43696,Los Ebanos,TX,,city-us,42,26.24,-98.56,2680
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39325,Shannondale,WV,Jefferson County,,city-us,3441,39.217,-77.807,3351
+39323,Shannondale,IN,Boone County,,city-us,0,40.055,-86.696,381
+39324,Shannondale,MO,Chariton County,,city-us,0,39.359,-92.850,263
+39326,Shannondale,MO,Shannon County,,city-us,0,37.390,-91.438,261

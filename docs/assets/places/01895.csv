@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17158,Thompsonville,CT,,city-us,8134,41.99,-72.60,2880
-17161,Thompsonville,PA,,city-us,3817,40.29,-80.11,1824
-17159,Thompsonville,IL,,city-us,480,37.92,-88.76,2058
-17160,Thompsonville,MI,,city-us,477,44.52,-85.94,4982
-17162,Thompsonville,TX,,city-us,46,27.25,-98.78,1097
-17163,Thompsonville,DE,,city-us,0,39.00,-75.39,199
-17164,Thompsonville,KS,,city-us,0,39.11,-95.43,2001
-17165,Thompsonville,TX,,city-us,0,29.70,-97.38,100
-17166,Thompsonville,UT,,city-us,0,38.42,-112.22,425
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9682,Connerton,FL,Pasco County,,city-us,5914,28.308,-82.465,823
+9683,Connerton,PA,Schuylkill County,,city-us,0,40.799,-76.274,141

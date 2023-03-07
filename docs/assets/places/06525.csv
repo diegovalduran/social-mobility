@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39782,Johnsonburg,PA,,city-us,2378,41.49,-78.68,6696
-39781,Johnsonburg,NJ,,city-us,367,40.96,-74.88,1555
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33245,Partridge,IL,Woodford County,,city-us,578,40.866,-89.461,340
+33243,Partridge,MN,Pine County,,city-us,569,46.208,-92.738,2330
+33244,Partridge,KS,Reno County,,city-us,209,37.967,-98.093,4260
+33242,Partridge,KY,Letcher County,,city-us,0,37.006,-82.898,86

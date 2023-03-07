@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33594,White Marsh,MD,,city-us,9663,39.38,-76.43,5804
-33595,White Marsh,VA,,city-us,0,37.34,-76.52,322
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24598,Lewisburg,TN,Marshall County,,city-us,12483,35.449,-86.789,6768
+24602,Lewisburg,PA,Union County,,city-us,5232,40.965,-76.884,7836
+24596,Lewisburg,WV,Greenbrier County,,city-us,3868,37.802,-80.446,13243
+24600,Lewisburg,OH,Preble County,,city-us,1738,39.846,-84.540,4490
+24597,Lewisburg,KY,Logan County,,city-us,764,36.986,-86.947,2739
+24601,Lewisburg,LA,St. Tammany Parish,,city-us,420,30.370,-90.103,461
+24593,Lewisburg,OR,Benton County,,city-us,0,44.629,-123.241,491
+24594,Lewisburg,IN,Cass County,,city-us,0,40.747,-86.218,389
+24595,Lewisburg,MS,DeSoto County,,city-us,0,34.862,-89.833,757
+24599,Lewisburg,IL,Menard County,,city-us,0,39.970,-89.832,165

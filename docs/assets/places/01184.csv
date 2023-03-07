@@ -1,18 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12087,Fairfax,VA,,city-us,24276,38.85,-77.31,19087
-12077,Fairfax,CA,,city-us,7521,37.99,-122.59,7190
-12088,Fairfax,VT,,city-us,5140,44.70,-73.00,2964
-12078,Fairfax,IA,,city-us,2860,41.92,-91.78,3411
-12076,Fairfax,CA,,city-us,1986,35.35,-118.93,7190
-12083,Fairfax,OH,,city-us,1749,39.15,-84.39,3057
-12085,Fairfax,SC,,city-us,1482,32.96,-81.24,2249
-12081,Fairfax,MN,,city-us,1241,44.53,-94.72,3592
-12084,Fairfax,OK,,city-us,1119,36.57,-96.70,3927
-12082,Fairfax,MO,,city-us,634,40.34,-95.39,3290
-12079,Fairfax,KS,,city-us,616,38.72,-95.67,4630
-12080,Fairfax,MN,,city-us,160,47.72,-96.55,1998
-12086,Fairfax,SD,,city-us,99,43.03,-98.89,2939
-12089,Fairfax,GA,,city-us,0,31.26,-82.61,330
-12090,Fairfax,IN,,city-us,0,39.01,-86.48,319
-12091,Fairfax,OH,,city-us,0,39.05,-83.59,285
-12092,Fairfax,WV,,city-us,0,39.19,-79.48,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5919,Budapest,,,Hungary,city-international,1723836,47.498,19.041,84116
+5917,Budapest,GA,Haralson County,,city-us,0,33.715,-85.218,2604
+5918,Budapest,MO,Ripley County,,city-us,0,36.769,-90.711,298

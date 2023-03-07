@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31685,Rose Creek,MN,,city-us,400,43.60,-92.83,3017
-31684,Rose Creek,KS,,city-us,107,39.96,-97.54,161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22431,Junction,TX,Kimble County,,city-us,2494,30.489,-99.772,8894
+22433,Junction,KS,Osage County,,city-us,1207,38.680,-95.562,0
+22435,Junction,UT,Piute County,,city-us,219,38.237,-112.220,2325
+22429,Junction,IL,Gallatin County,,city-us,56,37.723,-88.237,3594
+22428,Junction,WI,Clark County,,city-us,0,45.010,-90.902,2151
+22430,Junction,WV,Hampshire County,,city-us,0,39.313,-78.863,452
+22432,Junction,ID,Lemhi County,,city-us,0,44.701,-113.371,360
+22434,Junction,OH,Paulding County,,city-us,0,41.193,-84.459,618

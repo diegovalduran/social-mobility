@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34903,Nottawa,MI,,city-us,3999,41.93,-85.48,2493
-34902,Nottawa,MI,,city-us,2223,43.68,-84.91,172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26167,Lynwood,CA,Los Angeles County,,city-us,65505,33.930,-118.211,8970
+26165,Lynnwood,WA,Snohomish County,,city-us,40592,47.821,-122.315,27638
+26166,Lynwood,IL,Cook County,,city-us,8978,41.526,-87.539,3039

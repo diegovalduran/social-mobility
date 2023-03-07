@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39311,Brule,WI,,city-us,611,46.58,-91.61,3645
-39308,Brule,NE,,city-us,326,41.09,-101.89,3617
-39310,Brule,SD,,city-us,248,42.78,-96.75,0
-39309,Brule,SD,,city-us,173,43.72,-99.33,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32514,Orton,MN,Wadena County,,city-us,201,46.681,-94.840,2111
+32513,Orton,WV,Gilmer County,,city-us,0,38.835,-80.928,247

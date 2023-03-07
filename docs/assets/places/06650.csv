@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40192,Valencia,,Venezuela,city-international,1484430,10.17,-68.00,14203
-40193,Valencia,,Spain,city-international,789744,39.47,-0.38,55980
-40194,Valencia,,Philippines,city-international,216546,7.90,125.08,55980
-40190,Valencia,NM,,city-us,2236,34.80,-106.70,2071
-40191,Valencia,PA,,city-us,683,40.67,-79.99,2850
-40189,Valencia,NM,,city-us,81,35.58,-105.79,698
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33844,Pettysville,MI,Livingston County,,city-us,21165,42.463,-83.848,4917
+33833,Pettisville,OH,Fulton County,,city-us,546,41.531,-84.230,1719
+33845,Pettysville,IN,Miami County,,city-us,0,40.881,-85.982,494

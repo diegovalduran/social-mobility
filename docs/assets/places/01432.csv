@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13774,Placerville,CA,,city-us,10869,38.73,-120.80,13139
-13775,Placerville,CO,,city-us,362,38.01,-108.04,2731
-13776,Placerville,ID,,city-us,46,43.94,-115.95,7144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22539,Kasson,MN,Dodge County,,city-us,6931,44.030,-92.751,7922
+22540,Kasson,MI,Leelanau County,,city-us,1671,44.829,-85.878,2598
+7209,Cason,TX,Morris County,,city-us,0,33.039,-94.815,451
+22538,Kasson,WV,Barbour County,,city-us,0,39.225,-79.875,197
+22541,Kasson,IN,Vanderburgh County,,city-us,0,38.017,-87.636,1507

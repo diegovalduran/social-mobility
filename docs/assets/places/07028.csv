@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41223,Sugarcreek,OH,,city-us,9553,39.63,-84.05,1562
-41226,Sugarcreek,PA,,city-us,4773,41.42,-79.88,2031
-41224,Sugarcreek,OH,,city-us,2341,40.50,-81.64,4876
-41225,Sugarcreek,PA,,city-us,1336,40.93,-79.64,2776
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35716,Raceland,LA,Lafourche Parish,,city-us,11002,29.727,-90.599,2876
+35715,Raceland,KY,Greenup County,,city-us,2332,38.540,-82.728,3982

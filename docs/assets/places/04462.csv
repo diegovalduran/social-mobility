@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32274,Highland Heights,OH,,city-us,8612,41.55,-81.48,4352
-32273,Highland Heights,KY,,city-us,6812,39.03,-84.45,3628
-32275,Highland Heights,VA,,city-us,0,37.55,-75.83,115
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22977,King City,CA,Monterey County,,city-us,13443,36.213,-121.126,10952
+22978,King City,OR,Washington County,,city-us,5105,45.403,-122.804,4033
+22975,King City,MO,Gentry County,,city-us,809,40.051,-94.524,6249
+22976,King City,KS,McPherson County,,city-us,497,38.303,-97.647,179

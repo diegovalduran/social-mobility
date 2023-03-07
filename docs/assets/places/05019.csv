@@ -1,13 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34528,Henrietta,NY,,city-us,46634,43.05,-77.64,7614
-34523,Henrietta,MI,,city-us,4724,42.38,-84.32,4454
-34531,Henrietta,TX,,city-us,3102,33.82,-98.20,7867
-34529,Henrietta,OH,,city-us,1786,41.32,-82.30,1182
-34524,Henrietta,MN,,city-us,1537,46.93,-94.96,1908
-34532,Henrietta,WI,,city-us,440,43.51,-90.38,1747
-34526,Henrietta,NC,,city-us,393,35.26,-81.80,124
-34525,Henrietta,MO,,city-us,281,39.23,-93.94,3468
-34530,Henrietta,PA,,city-us,230,40.26,-78.30,520
-34527,Henrietta,ND,,city-us,81,46.41,-98.46,0
-34533,Henrietta,MO,,city-us,0,38.60,-93.62,258
-34534,Henrietta,WV,,city-us,0,38.91,-81.04,301
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25772,Lost River,ID,Custer County,,city-us,0,43.687,-113.615,2865
+25773,Lost River,WV,Hardy County,,city-us,0,38.954,-78.804,363
+25774,Lost River,IN,Orange County,,city-us,0,38.607,-86.451,306
+25775,Lost River,KY,Warren County,,city-us,0,36.953,-86.475,86

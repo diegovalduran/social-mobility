@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45894,Disco,IL,,city-us,0,40.62,-91.02,340
-45895,Disco,TN,,city-us,0,35.79,-84.16,230
-45896,Disco,WI,,city-us,0,44.26,-91.01,162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43140,Toronto,,,Canada,city-international,5429524,43.742,-79.373,81346
+43138,Toronto,OH,Jefferson County,,city-us,5283,40.464,-80.601,5329
+43139,Toronto,KS,Woodson County,,city-us,447,37.816,-95.915,3818
+43137,Toronto,SD,Deuel County,,city-us,195,44.573,-96.643,3158
+43136,Toronto,IA,Clinton County,,city-us,100,41.905,-90.864,3341
+43135,Toronto,MO,Camden County,,city-us,0,38.004,-92.526,482

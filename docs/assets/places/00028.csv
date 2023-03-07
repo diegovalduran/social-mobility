@@ -1,10 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-276,Fairbanks,AK,,city-us,32702,64.84,-147.72,38883
-281,Fairbanks,WI,,city-us,532,44.72,-89.05,2121
-278,Fairbanks,MI,,city-us,295,45.61,-86.69,3408
-280,Fairbanks,ND,,city-us,32,48.77,-101.94,0
-279,Fairbanks,MN,,city-us,10,47.37,-91.93,1011
-277,Fairbanks,IN,,city-us,0,39.22,-87.52,548
-282,Fairbanks,FL,,city-us,0,29.72,-82.26,1048
-283,Fairbanks,LA,,city-us,0,32.64,-92.04,255
-284,Fairbanks,OR,,city-us,0,45.62,-121.00,612
+id,name,state,county,country,level,population,latitude,longitude,wiki
+119,Ada,OK,Pontotoc County,,city-us,16842,34.775,-96.678,11681
+112,Ada,MI,Kent County,,city-us,13142,42.975,-85.492,6931
+111,Ada,OH,Hardin County,,city-us,5256,40.770,-83.823,5527
+116,Ada,MN,Norman County,,city-us,1743,47.300,-96.515,6349
+117,Ada,KS,Ottawa County,,city-us,86,39.151,-97.889,1065
+110,Ada,ND,Dickey County,,city-us,42,45.980,-98.319,1291
+118,Ada,SD,Perkins County,,city-us,11,45.342,-102.391,101
+113,Ada,OR,Lane County,,city-us,0,43.875,-124.045,808
+114,Ada,WV,Mercer County,,city-us,0,37.295,-81.147,202
+115,Ada,AL,Montgomery County,,city-us,0,32.106,-86.276,436
+120,Ada,WI,Sheboygan County,,city-us,0,43.877,-87.896,190

@@ -1,4 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25812,Hampshire,IL,,city-us,9013,42.11,-88.53,374
-25813,Hampshire,TN,,city-us,1473,35.60,-87.29,745
-25814,Hampshire,WV,,city-us,0,39.47,-79.08,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16671,Germantown,MD,Montgomery County,,city-us,90235,39.173,-77.272,25065
+16673,Germantown,TN,Shelby County,,city-us,41034,35.087,-89.810,13627
+16672,Germantown,OH,Montgomery County,,city-us,5791,39.626,-84.369,5408
+16661,Germantown,IL,Clinton County,,city-us,2074,38.517,-89.541,907
+16663,Germantown,NY,Columbia County,,city-us,1947,42.137,-73.870,13502
+16670,Germantown,WI,Juneau County,,city-us,1715,43.912,-90.029,1899
+16674,Germantown,SD,Turner County,,city-us,348,43.388,-96.984,325
+16676,Germantown,WI,Washington County,,city-us,241,43.277,-88.158,5721
+16664,Germantown,MN,Cottonwood County,,city-us,173,44.152,-95.151,2229
+16662,Germantown,SD,Codington County,,city-us,163,45.108,-97.085,325
+16660,Germantown,KY,Bracken County / Mason County,,city-us,140,38.656,-83.964,3090
+16677,Germantown,ND,Wells County,,city-us,40,47.624,-99.448,0
+16658,Germantown,MD,Anne Arundel County,,city-us,0,38.892,-76.523,147
+16659,Germantown,MD,Baltimore County,,city-us,0,39.417,-76.459,121
+16665,Germantown,IN,Decatur County,,city-us,0,39.415,-85.626,239
+16666,Germantown,VA,Fauquier County,,city-us,0,38.614,-77.742,1936
+16667,Germantown,PA,Franklin County,,city-us,0,39.921,-77.546,153
+16668,Germantown,MO,Henry County,,city-us,0,38.290,-94.019,323
+16669,Germantown,NC,Hyde County,,city-us,0,35.432,-76.463,1116
+16675,Germantown,OH,Washington County,,city-us,0,39.584,-81.317,278
+16678,Germantown,MD,Worcester County,,city-us,0,38.308,-75.210,203

@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20023,Mount Airy,NC,,city-us,10551,36.50,-80.61,8851
-20022,Mount Airy,MD,,city-us,9755,39.37,-77.15,15433
-20021,Mount Airy,GA,,city-us,1435,34.52,-83.50,2915
-20024,Mount Airy,LA,,city-us,0,30.05,-90.64,124
-20025,Mount Airy,MO,,city-us,0,39.38,-92.64,332
-20026,Mount Airy,NJ,,city-us,0,40.40,-74.91,375
-20027,Mount Airy,VA,,city-us,0,37.35,-76.92,110
-20028,Mount Airy,VA,,city-us,0,36.94,-79.19,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11806,Dimple,KY,Butler County,,city-us,0,37.103,-86.720,185
+11807,Dimple,AR,Mississippi County,,city-us,0,35.468,-90.251,182

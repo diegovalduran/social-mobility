@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8568,Powhattan,KS,,city-us,858,39.72,-95.71,548
-8567,Powhatan,AR,,city-us,104,36.08,-91.12,3210
-8569,Powhatan,LA,,city-us,102,31.87,-93.20,2129
-8570,Powhatan,VA,,city-us,0,37.54,-77.92,1111
-8571,Powhatan,NC,,city-us,0,35.61,-78.42,568
-8572,Powhattan,OH,,city-us,0,40.04,-83.69,184
-8573,Powhatan,WV,,city-us,0,37.40,-81.42,217
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3979,Big Timber,MT,Sweet Grass County,,city-us,1673,45.835,-109.955,6423
+3978,Big Timber,KS,Rush County,,city-us,139,38.640,-99.311,0

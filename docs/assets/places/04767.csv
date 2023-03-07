@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33408,Huntingtown,MI,,city-us,4702,43.17,-83.52,3790
-33407,Huntingtown,MD,,city-us,3065,38.62,-76.61,2200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24317,Leeds,,,United Kingdom,city-international,789194,53.800,-1.549,74759
+24313,Leeds,AL,Jefferson County / Shelby County / St. Clair County,,city-us,12271,33.547,-86.571,7776
+24308,Leeds,ME,Androscoggin County,,city-us,2291,44.295,-70.133,3785
+24316,Leeds,UT,Washington County,,city-us,877,37.239,-113.359,3112
+24311,Leeds,WI,Columbia County,,city-us,813,43.311,-89.324,2629
+24312,Leeds,NY,Greene County,,city-us,375,42.255,-73.902,2420
+24315,Leeds,MN,Murray County,,city-us,186,43.974,-95.892,2136
+24309,Leeds,ND,Benson County,,city-us,46,48.329,-99.389,129
+24310,Leeds,SC,Chester County,,city-us,0,34.629,-81.396,216
+24314,Leeds,IL,LaSalle County,,city-us,0,41.021,-88.988,212

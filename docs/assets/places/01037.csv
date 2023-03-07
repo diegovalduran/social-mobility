@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10919,Armona,CA,,city-us,4521,36.32,-119.71,8020
-10920,Armona,TN,,city-us,0,35.79,-84.01,177
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5167,Breslau,TX,Lavaca County,,city-us,0,29.523,-96.997,178
+5168,Breslau,PA,Luzerne County,,city-us,0,41.233,-75.935,276
+5169,Breslau,NE,Pierce County,,city-us,0,42.353,-97.699,550

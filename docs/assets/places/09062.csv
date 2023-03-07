@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47051,Cockrum,MS,,city-us,0,34.80,-89.81,209
-47052,Cockrum,MO,,city-us,0,36.01,-90.34,259
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45715,Webb,NY,Herkimer County,,city-us,1799,43.822,-75.040,8508
+45716,Webb,AL,Houston County,,city-us,1283,31.260,-85.273,3691
+45717,Webb,MS,Tallahatchie County,,city-us,377,33.947,-90.344,3380
+45714,Webb,IA,Clay County,,city-us,142,42.949,-95.012,3117
+45719,Webb,TX,Webb County,,city-us,40,27.793,-99.423,573
+45718,Webb,WV,Wayne County,,city-us,0,37.970,-82.483,92

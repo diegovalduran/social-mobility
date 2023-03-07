@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35136,Sugar Island,MI,,city-us,658,46.43,-84.20,3120
-35137,Sugar Island,IL,,city-us,0,41.01,-87.82,330
-35138,Sugar Island,WI,,city-us,0,43.23,-88.58,661
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26463,Malaga,,,Spain,city-international,577405,36.719,-4.420,36299
+26461,Malaga,NJ,Gloucester County,,city-us,1475,39.570,-75.048,863
+26460,Malaga,CA,Fresno County,,city-us,931,36.684,-119.734,2223
+26459,Malaga,NM,Eddy County,,city-us,172,32.224,-104.072,545
+26458,Malaga,WA,Chelan County,,city-us,0,47.372,-120.201,223
+26462,Malaga,OH,Monroe County,,city-us,0,39.855,-81.149,294

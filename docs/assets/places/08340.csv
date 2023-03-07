@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45274,Cinco,CA,,city-us,0,35.26,-118.04,493
-45275,Cinco,WV,,city-us,0,38.34,-81.47,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42174,Surrey,,,Canada,city-international,517887,49.190,-122.849,29824
+42171,Surrey,MI,Clare County,,city-us,3661,43.857,-84.911,2389
+42176,Surry,ME,Hancock County,,city-us,1666,44.467,-68.507,7111
+42175,Surry,NH,Cheshire County,,city-us,847,43.019,-72.343,2579
+42173,Surrey,ND,Ward County,,city-us,375,48.240,-101.074,3825
+42177,Surry,VA,Surry County,,city-us,208,37.138,-76.835,2041
+42172,Surrey,IN,Jasper County,,city-us,0,40.998,-87.200,340

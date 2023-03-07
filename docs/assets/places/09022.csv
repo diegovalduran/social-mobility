@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46958,Carrs Corner,NJ,,city-us,10566,40.21,-74.43,16564
-46957,Karrs Corner,MI,,city-us,1567,43.44,-83.52,2500
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45423,Water Valley,MS,Yalobusha County,,city-us,3301,34.151,-89.631,2521
+45421,Water Valley,KY,Graves County,,city-us,101,36.566,-88.811,1803
+45422,Water Valley,TX,Tom Green County,,city-us,0,31.668,-100.717,1859

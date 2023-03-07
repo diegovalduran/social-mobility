@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42827,Dentsville,SC,,city-us,15245,34.06,-80.96,2199
-42828,Dentsville,MD,,city-us,0,38.48,-76.89,472
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38125,Sadsbury,PA,Chester County,,city-us,4218,39.980,-75.908,237
+38127,Sadsbury,PA,Lancaster County,,city-us,3529,39.939,-76.017,237
+38126,Sadsbury,PA,Crawford County,,city-us,2739,41.606,-80.330,237

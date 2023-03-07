@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43304,Enville,TN,,city-us,185,35.39,-88.43,2021
-43305,Enville,OK,,city-us,0,33.98,-96.99,959
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38778,Savage,MN,Scott County,,city-us,32983,44.779,-93.336,9136
+38776,Savage,MD,Howard County,,city-us,7841,39.138,-76.824,5789
+38777,Savage,MT,Richland County,,city-us,303,47.454,-104.343,979
+38779,Savage,MS,Tate County,,city-us,0,34.630,-90.223,199

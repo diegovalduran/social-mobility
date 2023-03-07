@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37395,New Home,TX,,city-us,335,33.33,-101.91,2646
-37394,New Home,ND,,city-us,6,48.52,-103.21,0
-37393,New Home,MO,,city-us,0,38.14,-94.47,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29794,Mount Joy,PA,Lancaster County,,city-us,8323,40.110,-76.503,3456
+29793,Mount Joy,NJ,Hunterdon County,,city-us,5291,40.598,-75.124,10798
+29792,Mount Joy,PA,Adams County,,city-us,3782,39.767,-77.180,186
+29795,Mount Joy,OH,Scioto County,,city-us,0,38.951,-83.174,324

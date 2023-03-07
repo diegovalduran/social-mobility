@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40135,Quemado,NM,,city-us,157,34.34,-108.50,897
-40136,Quemado,TX,,city-us,112,28.95,-100.62,1900
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33735,Perryville,MO,Perry County,,city-us,8475,37.724,-89.861,9081
+33729,Perryville,MD,Cecil County,,city-us,4404,39.560,-76.071,8302
+33734,Perryville,AR,Perry County,,city-us,1375,35.005,-92.803,4074
+33728,Perryville,KY,Boyle County,,city-us,782,37.650,-84.952,4364
+33732,Perryville,AK,Lake and Peninsula Borough,,city-us,74,55.914,-159.163,2894
+33727,Perryville,IN,Adams County,,city-us,0,40.591,-85.041,199
+33730,Perryville,TN,Decatur County,,city-us,0,35.621,-88.042,294
+33731,Perryville,NJ,Hunterdon County,,city-us,0,40.636,-74.969,592
+33733,Perryville,AL,Perry County,,city-us,0,32.617,-87.114,338

@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9979,Colorado City,TX,,city-us,4391,32.39,-100.86,3826
-9977,Colorado City,AZ,,city-us,2520,36.99,-112.98,9292
-9978,Colorado City,CO,,city-us,2315,37.95,-104.84,2267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4513,Blue Mound,TX,Tarrant County,,city-us,2359,32.857,-97.339,3750
+4511,Blue Mound,IL,Macon County,,city-us,794,39.773,-89.087,222
+4510,Blue Mound,MO,Livingston County,,city-us,479,39.661,-93.598,218
+4509,Blue Mound,KS,Linn County,,city-us,434,38.095,-95.006,3102
+4514,Blue Mound,MO,Vernon County,,city-us,396,37.989,-94.221,173
+4512,Blue Mound,IL,McLean County,,city-us,383,40.530,-88.748,222

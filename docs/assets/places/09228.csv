@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47439,Crisp,NC,,city-us,0,35.75,-77.63,2220
-47440,Crisp,TX,,city-us,0,32.40,-96.58,844
-47441,Crisp,WV,,city-us,0,39.37,-81.12,130
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46545,White Marsh,MD,Baltimore County,,city-us,9663,39.384,-76.432,5804
+46546,White Marsh,VA,Gloucester County,,city-us,0,37.343,-76.521,322

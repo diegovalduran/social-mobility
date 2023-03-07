@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38153,Wyola,MT,,city-us,191,45.13,-107.39,2627
-38154,Wyola,AR,,city-us,0,35.88,-94.05,191
-38155,Wyola,PA,,city-us,0,40.01,-75.42,431
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30767,New Middleton,OH,Columbiana County,,city-us,0,40.864,-80.915,135
+30768,New Middleton,TN,Smith County,,city-us,0,36.175,-86.006,543

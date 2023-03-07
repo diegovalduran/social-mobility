@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32301,Knottsville,KY,,city-us,183,37.77,-86.90,5766
-32302,Knottsville,WV,,city-us,0,39.31,-79.97,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23007,Kingsbury,NY,Washington County,,city-us,12901,43.335,-73.551,4770
+23003,Kingsbury,NV,Douglas County,,city-us,1981,38.977,-119.907,3226
+23005,Kingsbury,IN,LaPorte County,,city-us,190,41.528,-86.700,3404
+23004,Kingsbury,TX,Guadalupe County,,city-us,134,29.648,-97.828,3583
+23006,Kingsbury,OH,Meigs County,,city-us,0,39.111,-82.006,247

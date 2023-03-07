@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40952,Leetonia,OH,,city-us,1816,40.88,-80.76,5946
-40953,Leetonia,PA,,city-us,0,41.60,-77.50,1826
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35259,Prairie Hill,MO,Chariton County,,city-us,50,39.519,-92.738,484
+35260,Prairie Hill,TX,Limestone County,,city-us,0,31.655,-96.789,795
+35261,Prairie Hill,TX,Washington County,,city-us,0,30.249,-96.377,2134

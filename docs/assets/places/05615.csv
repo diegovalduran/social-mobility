@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36799,Wagner,SD,,city-us,1467,43.08,-98.29,3540
-36800,Wagner,WI,,city-us,722,45.30,-87.74,2320
-36797,Wagner,MN,,city-us,338,46.21,-93.11,2556
-36798,Wagner,PA,,city-us,57,40.68,-77.39,269
-36801,Wagner,MT,,city-us,0,48.37,-108.08,153
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28898,Miramar,FL,Broward County,,city-us,135077,25.987,-80.232,10932
+28899,Miramar,,,Mexico,city-international,118614,22.337,-97.869,2618

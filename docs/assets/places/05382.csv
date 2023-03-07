@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35996,Kandiyohi,MN,,city-us,572,45.13,-94.93,3648
-35997,Kandiyohi,ND,,city-us,39,48.58,-102.30,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27559,McIntyre,GA,Wilkinson County,,city-us,568,32.846,-83.191,2212
+27558,McIntyre,PA,Lycoming County,,city-us,457,41.507,-76.976,4589
+27547,McIntire,IA,Mitchell County,,city-us,115,43.436,-92.594,3036
+27556,McIntyre,PA,Indiana County,,city-us,0,40.570,-79.296,189
+27557,McIntyre,OH,Jefferson County,,city-us,0,40.307,-80.781,218

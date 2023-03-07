@@ -1,20 +1,28 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9338,Viola,NY,,city-us,7068,41.14,-74.08,3382
-9335,Viola,IL,,city-us,859,41.20,-90.59,1825
-9341,Viola,WI,,city-us,676,43.51,-90.67,3617
-9336,Viola,KS,,city-us,522,37.51,-97.65,138
-9331,Viola,AR,,city-us,360,36.40,-91.98,2617
-9334,Viola,IL,,city-us,303,41.76,-89.11,547
-9332,Viola,DE,,city-us,139,39.04,-75.57,2809
-9340,Viola,TN,,city-us,94,35.54,-85.86,2784
-9339,Viola,SD,,city-us,29,43.99,-98.50,0
-9333,Viola,ID,,city-us,0,46.84,-117.02,262
-9337,Viola,MN,,city-us,0,44.06,-92.27,606
-9342,Viola,CA,,city-us,0,40.52,-121.68,163
-9343,Viola,GA,,city-us,0,33.25,-85.15,226
-9344,Viola,IA,,city-us,0,42.09,-91.44,494
-9345,Viola,KY,,city-us,0,36.86,-88.64,81
-9346,Viola,MO,,city-us,0,36.57,-93.58,547
-9347,Viola,PA,,city-us,0,40.75,-78.40,222
-9348,Viola,WV,,city-us,0,39.51,-80.10,86
-9349,Viola,WV,,city-us,0,39.97,-80.59,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4227,Blaine,MN,Anoka County / Ramsey County,,city-us,70935,45.171,-93.206,11327
+4252,Blaine,WA,Whatcom County,,city-us,5976,48.994,-122.747,17011
+4236,Blaine,TN,Grainger County,,city-us,2093,36.154,-83.704,9371
+4248,Blaine,MI,St. Clair County,,city-us,1891,43.126,-82.596,2951
+4228,Blaine,ME,Aroostook County,,city-us,659,46.488,-67.847,3606
+4239,Blaine,NE,Kearney County,,city-us,620,40.592,-99.132,273
+4251,Blaine,PA,Washington County,,city-us,615,40.179,-80.395,2942
+4230,Blaine,MI,Benzie County,,city-us,495,44.552,-86.178,4229
+4226,Blain,PA,Perry County,,city-us,226,40.338,-77.512,3024
+4233,Blaine,WI,Burnett County,,city-us,206,46.128,-92.180,2629
+4235,Blaine,NE,Cuming County,,city-us,135,42.040,-96.966,273
+4243,Blaine,KS,Ottawa County,,city-us,106,39.169,-97.646,286
+4238,Blaine,SD,Jerauld County,,city-us,71,43.986,-98.394,0
+4241,Blaine,KY,Lawrence County,,city-us,69,38.028,-82.843,3069
+4234,Blaine,SD,Clark County,,city-us,35,45.105,-97.566,0
+4247,Blaine,KS,Smith County,,city-us,28,39.785,-98.672,286
+4232,Blaine,ND,Bottineau County,,city-us,22,48.683,-101.375,1654
+4229,Blaine,OH,Belmont County,,city-us,0,40.068,-80.817,340
+4231,Blaine,IL,Boone County,,city-us,0,42.447,-88.803,148
+4237,Blaine,IN,Jay County,,city-us,0,40.403,-85.056,386
+4240,Blaine,ID,Latah County,,city-us,0,46.657,-116.949,202
+4242,Blaine,WV,Mineral County,,city-us,0,39.386,-79.180,313
+4244,Blaine,GA,Pickens County,,city-us,0,34.511,-84.557,360
+4245,Blaine,WI,Portage County,,city-us,0,44.309,-89.315,1036
+4246,Blaine,KS,Pottawatomie County,,city-us,0,39.497,-96.403,3272
+4249,Blaine,MS,Sunflower County,,city-us,0,33.608,-90.522,190
+4250,Blaine,MO,Vernon County,,city-us,0,37.949,-94.385,290

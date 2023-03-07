@@ -1,12 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4515,Ray,MI,,city-us,3772,42.76,-82.92,4131
-4514,Wray,CO,,city-us,2308,40.08,-102.22,2878
-4517,Ray,ND,,city-us,706,48.34,-103.17,3545
-4513,Ray,AL,,city-us,399,32.89,-86.04,152
-4516,Ray,ND,,city-us,61,46.42,-98.84,3545
-4518,Wray,GA,,city-us,0,31.62,-83.06,210
-4519,Ray,IN,,city-us,0,41.76,-84.87,1225
-4520,Ray,MI,,city-us,0,41.76,-84.87,1225
-4521,Ray,MN,,city-us,0,48.41,-93.21,1076
-4522,Ray,OH,,city-us,0,39.20,-82.68,479
-4523,Ray,VA,,city-us,0,36.94,-79.31,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2117,Axtel,KY,Breckinridge County,,city-us,0,37.644,-87.723,627
+2118,Axtel,OH,Erie County,,city-us,0,41.369,-82.364,268

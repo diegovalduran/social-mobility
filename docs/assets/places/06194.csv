@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38728,Dickinson,ND,,city-us,25167,46.88,-102.79,10826
-38732,Dickinson,TX,,city-us,21697,29.46,-95.05,8779
-38731,Dickinson,PA,,city-us,5355,40.09,-77.26,2388
-38729,Dickinson,NY,,city-us,5036,42.13,-75.91,3212
-38730,Dickinson,NY,,city-us,930,44.73,-74.54,3536
-38733,Dickinson,AL,,city-us,0,31.76,-87.71,196
-38734,Dickinson,WV,,city-us,0,38.20,-81.50,333
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31623,Nuckles,AR,Jackson County,,city-us,0,35.568,-91.357,84
+31624,Nuckolls,WV,Kanawha County,,city-us,0,38.093,-81.391,104
+31625,Nuckols,VA,Buckingham County,,city-us,0,37.594,-78.321,93
+31626,Nuckols,KY,McLean County,,city-us,0,37.523,-87.112,250

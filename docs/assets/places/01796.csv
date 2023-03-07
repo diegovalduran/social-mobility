@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16354,Chaplin,CT,,city-us,2143,41.79,-72.13,2203
-16355,Chaplin,KY,,city-us,440,37.90,-85.22,428
-16356,Chaplin,WV,,city-us,0,39.65,-80.03,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9193,Cohasset,MA,Norfolk County,,city-us,8373,42.262,-70.799,10211
+9192,Cohasset,MN,Itasca County,,city-us,2698,47.264,-93.620,3261
+9190,Cohasset,CA,Butte County,,city-us,480,39.925,-121.731,4916
+9191,Cohasset,VA,Fluvanna County,,city-us,0,37.770,-78.303,2621

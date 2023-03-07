@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4872,Spring Garden,PA,,city-us,13856,39.94,-76.72,4136
-4871,Spring Garden,IL,,city-us,2811,38.16,-88.87,1299
-4869,Spring Garden,AL,,city-us,169,33.97,-85.55,1459
-4870,Spring Garden,CA,,city-us,0,39.89,-120.79,3389
-4873,Spring Garden,MO,,city-us,0,38.39,-92.42,381
-4874,Spring Garden,PA,,city-us,0,40.04,-76.03,213
-4875,Spring Garden,VA,,city-us,0,36.78,-79.30,101
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2255,Bakersfield,CA,Kern County,,city-us,407615,35.373,-119.019,49382
+2254,Bakersfield,VT,Franklin County,,city-us,409,44.782,-72.803,5552
+2256,Bakersfield,MO,Ozark County,,city-us,187,36.523,-92.142,3308
+2257,Bakersfield,TX,Pecos County,,city-us,0,30.891,-102.298,1282

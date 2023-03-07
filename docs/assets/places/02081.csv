@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18296,Mount Dora,FL,,city-us,16665,28.80,-81.64,12985
-18297,Mount Dora,NM,,city-us,0,36.52,-103.49,342
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10461,Cross Keys,NJ,Gloucester County,,city-us,37117,39.660,-74.969,11617
+10460,Cross Keys,PA,Blair County,,city-us,538,40.446,-78.433,723
+10459,Cross Keys,PA,Adams County,,city-us,0,39.871,-77.028,205
+10462,Cross Keys,AL,Macon County,,city-us,0,32.334,-85.893,391
+10463,Cross Keys,VA,Rockingham County,,city-us,0,38.358,-78.846,1110
+10464,Cross Keys,DE,Sussex County,,city-us,0,38.566,-75.368,124
+10465,Cross Keys,SC,Union County,,city-us,0,34.632,-81.776,1165

@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45775,Mossy Creek,GA,,city-us,0,34.54,-83.69,269
-45776,Mossy Creek,VA,,city-us,0,38.36,-79.03,325
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42999,Tioga,NY,Tioga County,,city-us,4404,42.106,-76.369,5197
+42998,Tioga,LA,Rapides Parish,,city-us,1965,31.387,-92.426,2218
+42993,Tioga,TX,Grayson County,,city-us,1192,33.467,-96.918,2748
+43000,Tioga,PA,Tioga County,,city-us,939,41.898,-77.089,2777
+42996,Tioga,KS,Neosho County,,city-us,864,37.721,-95.418,0
+42991,Tioga,MI,Baraga County,,city-us,375,46.538,-88.524,3154
+42997,Tioga,WV,Nicholas County,,city-us,269,38.420,-80.656,527
+43001,Tioga,ND,Williams County,,city-us,86,48.423,-102.962,3490
+42992,Tioga,WI,Clark County,,city-us,0,44.684,-90.793,102
+42994,Tioga,IL,Hancock County,,city-us,0,40.211,-91.347,173
+42995,Tioga,IA,Mahaska County,,city-us,0,41.297,-92.422,276

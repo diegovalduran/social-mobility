@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35056,Schoolcraft,MI,,city-us,9156,42.11,-85.59,183
-35055,Schoolcraft,MI,,city-us,2041,47.20,-88.29,183
-35057,Schoolcraft,MN,,city-us,141,47.29,-94.97,1922
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26389,Magee,MS,Simpson County,,city-us,3888,31.874,-89.734,7684
+27526,McGee,WV,Taylor County,,city-us,0,39.361,-80.127,86
+27527,McGee,MO,Wayne County,,city-us,0,37.074,-90.196,459
+27528,McGhee,AL,Cherokee County,,city-us,0,34.168,-85.733,254

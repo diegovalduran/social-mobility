@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35952,Holmesville,MN,,city-us,549,46.94,-95.74,2683
-35954,Holmesville,OH,,city-us,374,40.63,-81.92,3142
-35953,Holmesville,NE,,city-us,47,40.20,-96.66,616
-35955,Holmesville,GA,,city-us,0,31.70,-82.32,443
-35956,Holmesville,IN,,city-us,0,41.60,-86.88,329
-35957,Holmesville,MS,,city-us,0,31.20,-90.31,1888
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27509,McDonaldsville,MN,Norman County,,city-us,163,47.274,-96.490,1811
+27510,McDonaldsville,OH,Stark County,,city-us,0,40.886,-81.479,395

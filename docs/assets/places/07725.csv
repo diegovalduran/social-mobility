@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43549,Edom,TX,,city-us,349,32.37,-95.61,2074
-43550,Edom,VA,,city-us,0,38.53,-78.86,662
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39097,Selby,IL,Bureau County,,city-us,2124,41.370,-89.339,2683
+39099,Selby,SD,Walworth County,,city-us,660,45.506,-100.032,2976
+39098,Selby,CA,Contra Costa County,,city-us,0,38.057,-122.244,901

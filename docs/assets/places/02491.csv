@@ -1,15 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20991,Baxter,MN,,city-us,8830,46.34,-94.29,5385
-20993,Baxter,TN,,city-us,1637,36.15,-85.64,2373
-20990,Baxter,IA,,city-us,973,41.83,-93.15,3200
-21000,Baxter,MI,,city-us,587,44.47,-85.53,2767
-20992,Baxter,MN,,city-us,177,44.93,-95.92,1919
-20994,Baxter,WV,,city-us,0,39.54,-80.14,311
-20995,Baxter,AR,,city-us,0,33.53,-91.50,369
-20996,Baxter,CA,,city-us,0,39.21,-120.78,285
-20997,Baxter,CO,,city-us,0,38.28,-104.49,153
-20998,Baxter,GA,,city-us,0,34.74,-84.07,538
-20999,Baxter,KY,,city-us,0,36.86,-83.33,272
-21001,Baxter,PA,,city-us,0,41.13,-79.15,257
-21002,Baxter,TX,,city-us,0,32.17,-95.75,98
-21003,Baxter,WV,,city-us,0,39.56,-78.08,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12446,Dunlow,WV,Wayne County,,city-us,1105,38.023,-82.432,3527
+12445,Dunlo,PA,Cambria County,,city-us,450,40.295,-78.721,333

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23075,Salix,PA,,city-us,1221,40.30,-78.77,2185
-23074,Salix,IA,,city-us,292,42.31,-96.29,3248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13949,Estes,TX,Aransas County,,city-us,0,27.964,-97.100,1376
+13950,Estes,MO,Pike County,,city-us,0,39.237,-91.376,380
+13951,Estes,VA,Rappahannock County,,city-us,0,38.619,-78.061,93

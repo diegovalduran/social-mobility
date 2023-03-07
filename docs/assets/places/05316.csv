@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35750,Eden Valley,MN,,city-us,1029,45.33,-94.55,3283
-35751,Eden Valley,ND,,city-us,42,48.94,-101.55,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27256,Mattoon,IL,Coles County,,city-us,16805,39.483,-88.373,19872
+27258,Mattoon,WI,Shawano County,,city-us,357,45.004,-89.042,3132
+27257,Mattoon,KY,Crittenden County,,city-us,0,37.403,-88.023,91

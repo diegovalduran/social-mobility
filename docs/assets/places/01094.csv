@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11403,Campo,CA,,city-us,3597,32.61,-116.47,7657
-11404,Campo,CO,,city-us,103,37.11,-102.58,2702
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5417,Brockton,MA,Plymouth County,,city-us,105446,42.083,-71.018,18132
+5427,Brocton,NY,Chautauqua County,,city-us,1326,42.389,-79.441,4128
+5418,Brockton,MT,Roosevelt County,,city-us,365,48.151,-104.917,3300
+5428,Brocton,IL,Edgar County,,city-us,269,39.716,-87.933,2230
+5416,Brockton,GA,Jackson County,,city-us,0,34.120,-83.495,163
+5419,Brockton,PA,Schuylkill County,,city-us,0,40.748,-76.069,285

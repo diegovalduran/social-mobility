@@ -1,4 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2818,Gurley,AL,,city-us,825,34.70,-86.38,3865
-2819,Gurley,NE,,city-us,186,41.32,-102.97,4707
-2820,Gurley,LA,,city-us,0,30.87,-91.13,372
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1292,Appleton,WI,Calumet County / Outagamie County / Winnebago County,,city-us,74854,44.279,-88.388,18453
+1296,Appleton,ME,Knox County,,city-us,1434,44.298,-69.270,3784
+1294,Appleton,KS,Clark County,,city-us,897,37.391,-99.914,533
+1299,Appleton,AR,Pope County,,city-us,399,35.425,-92.874,542
+1300,Appleton,MN,Swift County,,city-us,197,45.197,-96.057,2043
+1291,Appleton,SC,Allendale County,,city-us,0,33.044,-81.363,346
+1293,Appleton,MD,Cecil County,,city-us,0,39.698,-75.814,203
+1295,Appleton,WA,Klickitat County,,city-us,0,45.812,-121.271,269
+1297,Appleton,TN,Lawrence County,,city-us,0,35.024,-87.233,115
+1298,Appleton,OH,Licking County,,city-us,0,40.209,-82.616,208

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40320,Black Brook,WI,,city-us,1448,45.25,-92.33,1780
-40319,Black Brook,NY,,city-us,1437,44.52,-73.82,4415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34049,Pilot Grove,MO,Cooper County,,city-us,664,38.875,-92.912,3489
+34051,Pilot Grove,IL,Hancock County,,city-us,245,40.507,-91.075,972
+34050,Pilot Grove,MN,Faribault County,,city-us,0,43.529,-94.228,113
+34052,Pilot Grove,IA,Lee County,,city-us,0,40.763,-91.537,745

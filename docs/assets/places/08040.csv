@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44447,Lublin,,Poland,city-international,339850,51.23,22.57,34898
-44446,Lublin,WI,,city-us,117,45.08,-90.72,3191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40596,Split Rock,SD,Minnehaha County,,city-us,3150,43.550,-96.582,0
+40595,Split Rock,MN,Carlton County,,city-us,163,46.463,-92.992,2432
+40597,Split Rock,WI,Shawano County,,city-us,0,44.705,-89.026,442

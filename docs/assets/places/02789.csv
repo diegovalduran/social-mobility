@@ -1,22 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22923,Raymond,ME,,city-us,4563,43.92,-70.47,5909
-22934,Raymond,WI,,city-us,3926,42.80,-88.01,2653
-22930,Raymond,NH,,city-us,3778,43.04,-71.18,6123
-22933,Raymond,WA,,city-us,3146,46.69,-123.73,4756
-22926,Raymond,MS,,city-us,1857,32.26,-90.42,3871
-22921,Raymond,IL,,city-us,938,39.32,-89.57,2525
-22924,Raymond,MN,,city-us,794,45.02,-95.24,3468
-22919,Raymond,IA,,city-us,752,42.47,-92.22,3317
-22920,Raymond,IL,,city-us,345,39.92,-88.07,224
-22925,Raymond,MN,,city-us,238,45.63,-95.08,1909
-22927,Raymond,ND,,city-us,226,46.94,-96.98,0
-22928,Raymond,NE,,city-us,184,42.78,-98.18,289
-22929,Raymond,NE,,city-us,159,40.96,-96.78,4352
-22922,Raymond,KS,,city-us,85,38.28,-98.42,3683
-22932,Raymond,SD,,city-us,49,44.91,-97.94,3526
-22931,Raymond,OH,,city-us,0,40.33,-83.47,868
-22935,Raymond,CA,,city-us,0,37.22,-119.91,1443
-22936,Raymond,GA,,city-us,0,33.34,-84.71,248
-22937,Raymond,IN,,city-us,0,39.47,-84.85,253
-22938,Raymond,KY,,city-us,0,37.94,-86.37,163
-22939,Raymond,MT,,city-us,0,48.88,-104.58,735
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13873,Erie,PA,Erie County,,city-us,93999,42.129,-80.085,33765
+13871,Erie,CO,Boulder County / Weld County,,city-us,31686,40.040,-105.038,7475
+13877,Erie,MI,Monroe County,,city-us,4299,41.772,-83.489,6887
+13882,Erie,IL,Whiteside County,,city-us,1880,41.647,-90.125,400
+13870,Erie,MN,Becker County,,city-us,1726,46.853,-95.752,2679
+13878,Erie,KS,Neosho County,,city-us,1259,37.602,-95.305,4846
+13879,Erie,OH,Ottawa County,,city-us,1160,41.545,-83.013,1328
+13881,Erie,KS,Sedgwick County,,city-us,108,37.519,-97.759,137
+13872,Erie,ND,Cass County,,city-us,54,47.116,-97.389,2090
+13874,Erie,IN,Lawrence County,,city-us,0,38.883,-86.381,286
+13875,Erie,MO,McDonald County,,city-us,0,36.728,-94.363,343
+13876,Erie,IN,Miami County,,city-us,0,40.801,-85.991,148
+13880,Erie,MN,Pennington County,,city-us,0,48.070,-95.722,353

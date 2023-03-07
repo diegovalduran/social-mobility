@@ -1,8 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1635,Clio,MI,,city-us,2498,43.18,-83.73,5047
-1632,Clio,AL,,city-us,1203,31.71,-85.61,2594
-1636,Clio,SC,,city-us,605,34.58,-79.55,2144
-1633,Clio,CA,,city-us,170,39.74,-120.58,4201
-1634,Clio,IA,,city-us,67,40.64,-93.45,3759
-1637,Clio,LA,,city-us,0,30.31,-90.61,900
-1638,Clio,WV,,city-us,0,38.58,-81.30,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+867,Alton,IL,Madison County,,city-us,25422,38.891,-90.184,27940
+862,Alton,TX,Hidalgo County,,city-us,18860,26.287,-98.313,5151
+871,Alton,IA,Sioux County,,city-us,1242,42.987,-96.011,4098
+870,Alton,ME,Penobscot County,,city-us,824,45.043,-68.774,3177
+868,Alton,MO,Oregon County,,city-us,687,36.694,-91.399,3691
+874,Alton,MN,Waseca County,,city-us,420,44.047,-93.708,2044
+859,Alton,SD,Brookings County,,city-us,246,44.319,-96.578,0
+857,Alton,KY,Anderson County,,city-us,200,38.089,-84.935,286
+865,Alton,UT,Kane County,,city-us,118,37.438,-112.483,1471
+869,Alton,KS,Osborne County,,city-us,100,39.471,-98.948,4690
+858,Alton,NH,Belknap County,,city-us,80,43.452,-71.218,6824
+860,Alton,IN,Crawford County,,city-us,30,38.123,-86.418,3026
+861,Alton,VA,Halifax County,,city-us,0,36.573,-79.003,221
+863,Alton,CA,Humboldt County,,city-us,0,40.547,-124.141,1480
+864,Alton,AL,Jefferson County,,city-us,0,33.579,-86.638,483
+866,Alton,FL,Lafayette County,,city-us,0,30.053,-83.138,176
+872,Alton,LA,St. Tammany Parish,,city-us,0,30.331,-89.762,177
+873,Alton,WV,Upshur County,,city-us,0,38.819,-80.214,608

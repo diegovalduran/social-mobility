@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24228,Ball,IL,,city-us,7519,39.66,-89.64,446
-24229,Ball,LA,,city-us,3885,31.42,-92.41,4453
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15079,Flat Top,VA,Dickenson County,,city-us,0,37.029,-82.397,179
+15080,Flat Top,AL,Jefferson County,,city-us,0,33.666,-87.024,202
+15081,Flat Top,WV,Mercer County,,city-us,0,37.589,-81.107,763

@@ -1,12 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14696,Westminster,,United Kingdom,city-international,255324,51.49,-0.14,13978
-14687,Westminster,CO,,city-us,114561,39.88,-105.06,10760
-14686,Westminster,CA,,city-us,90195,33.76,-118.01,9509
-14691,Westminster,MD,,city-us,20062,39.58,-77.00,10778
-14690,Westminster,MA,,city-us,8275,42.55,-71.91,4849
-14695,Westminster,VT,,city-us,3050,43.07,-72.51,4183
-14689,Westminster,LA,,city-us,2635,30.41,-91.09,2598
-14693,Westminster,SC,,city-us,2363,34.66,-83.10,5902
-14694,Westminster,TX,,city-us,861,33.36,-96.45,7809
-14688,Westminster,KS,,city-us,188,37.96,-98.20,0
-14692,Westminster,OH,,city-us,0,40.69,-83.98,665
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7905,Charles City,IA,Floyd County,,city-us,7281,43.066,-92.672,10512
+7904,Charles City,VA,Charles City County,,city-us,73,37.343,-77.073,1048

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35876,Glyndon,MN,,city-us,319,46.84,-96.61,1879
-35877,Glyndon,MD,,city-us,0,39.48,-76.81,15000
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27436,McAlpin,WV,Harrison County,,city-us,0,39.344,-80.237,178
+27437,McAlpin,WV,Raleigh County,,city-us,0,37.692,-81.278,242
+27438,McAlpin,FL,Suwannee County,,city-us,0,30.139,-82.952,541

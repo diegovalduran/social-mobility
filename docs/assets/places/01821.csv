@@ -1,15 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16502,Guilford,CT,,city-us,22031,41.34,-72.71,9493
-16508,Gilford,NH,,city-us,7804,43.52,-71.38,5019
-16511,Guilford,PA,,city-us,3570,39.92,-77.60,2179
-16510,Guilford,OH,,city-us,3097,41.03,-81.83,1399
-16509,Guilford,NY,,city-us,2719,42.40,-75.45,4814
-16512,Guilford,VT,,city-us,2148,42.77,-72.62,4690
-16506,Gilford,MI,,city-us,741,43.53,-83.65,2443
-16505,Guilford,ME,,city-us,527,45.17,-69.38,4267
-16504,Guilford,KS,,city-us,163,37.61,-95.73,153
-16507,Guilford,MO,,city-us,56,40.17,-94.74,3673
-16503,Guilford,IL,,city-us,0,42.42,-90.30,88
-16513,Guilford,IN,,city-us,0,39.17,-84.91,1042
-16514,Guilford,MD,,city-us,0,39.17,-76.83,0
-16515,Guilford,VA,,city-us,0,37.82,-75.65,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9328,College Hill,TX,Bowie County,,city-us,0,33.416,-94.613,980
+9329,College Hill,KY,Madison County,,city-us,0,37.787,-84.123,323

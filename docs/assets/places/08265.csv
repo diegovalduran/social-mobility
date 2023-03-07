@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45079,Pfeiffer,AR,,city-us,0,35.82,-91.59,154
-45080,Pfeifer,KS,,city-us,0,38.71,-99.17,1314
-45081,Pfeiffer,OH,,city-us,0,40.62,-83.50,323
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41778,Studley,VA,Hanover County,,city-us,0,37.676,-77.291,332
+41779,Studley,KS,Sheridan County,,city-us,0,39.353,-100.164,1539

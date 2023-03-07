@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45857,Kibbie,MI,,city-us,2823,42.47,-86.21,4142
-45856,Kibbie,IL,,city-us,0,39.07,-87.94,126
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43100,Toney,WV,Lincoln County,,city-us,299,38.011,-82.073,4705
+43105,Tony,WI,Rusk County,,city-us,101,45.483,-90.993,3289
+43101,Toney,AL,Madison County,,city-us,0,34.898,-86.734,833

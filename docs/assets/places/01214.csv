@@ -1,13 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12319,Glenville,NY,,city-us,29308,42.89,-73.99,3871
-12315,Glennville,GA,,city-us,3707,31.94,-81.93,3779
-12314,Glenville,CT,,city-us,2940,41.04,-73.66,2445
-12320,Glenville,WV,,city-us,1112,38.93,-80.84,7300
-12316,Glenville,MN,,city-us,566,43.57,-93.28,3298
-12318,Glenvil,NE,,city-us,389,40.48,-98.22,241
-12317,Glenville,NC,,city-us,115,35.17,-83.13,3897
-12313,Glennville,CA,,city-us,0,35.73,-118.70,2670
-12321,Glenville,AL,,city-us,0,32.13,-85.18,2217
-12322,Glenville,KY,,city-us,0,37.59,-87.19,1040
-12323,Glenville,MS,,city-us,0,34.53,-89.74,264
-12324,Glenville,PA,,city-us,0,39.76,-76.82,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6106,Burdine,MO,Texas County,,city-us,3189,37.119,-92.080,175
+6105,Burdine,KY,Letcher County,,city-us,0,37.189,-82.599,389

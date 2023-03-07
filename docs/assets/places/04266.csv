@@ -1,13 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31358,Lyon,,France,city-international,518635,45.76,4.84,39690
-31352,Lyon,MI,,city-us,23669,42.48,-83.60,4474
-31353,Lyon,MI,,city-us,1264,44.47,-84.79,205
-31347,Lyon,KS,,city-us,319,37.05,-94.88,356
-31354,Lyon,MS,,city-us,283,34.22,-90.54,2793
-31351,Lyon,KS,,city-us,276,38.92,-96.86,440
-31350,Lyon,KS,,city-us,212,38.65,-96.99,399
-31348,Lyon,KS,,city-us,102,39.37,-97.76,486
-31356,Lyon,SD,,city-us,29,43.91,-99.02,0
-31355,Lyon,ND,,city-us,18,47.20,-98.78,0
-31349,Lyon,KS,,city-us,13,39.61,-100.35,282
-31357,Lyon,MO,,city-us,0,38.51,-91.17,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22061,Jeffrey,WV,Boone County,,city-us,0,37.971,-81.821,267
+22062,Jeffrey,KY,Monroe County,,city-us,0,36.751,-85.841,1374

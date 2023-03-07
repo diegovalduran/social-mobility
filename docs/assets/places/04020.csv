@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30131,Pittsboro,NC,,city-us,4592,35.72,-79.18,12373
-30129,Pittsboro,IN,,city-us,3930,39.86,-86.47,12415
-30130,Pittsboro,MS,,city-us,144,33.94,-89.34,2437
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20616,Hopedale,MA,Worcester County,,city-us,5998,42.123,-71.531,7844
+20613,Hopedale,OH,Harrison County,,city-us,904,40.325,-80.901,3054
+20615,Hopedale,IL,Tazewell County,,city-us,813,40.421,-89.415,2113
+20614,Hopedale,LA,St. Bernard Parish,,city-us,0,29.821,-89.657,303

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46164,Bramble,IN,,city-us,0,38.78,-86.91,329
-46165,Bramble,MN,,city-us,0,47.91,-93.16,953
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43561,Tustin,CA,Orange County,,city-us,79430,33.746,-117.826,10644
+43562,Tustin,MI,Osceola County,,city-us,253,44.103,-85.459,3504
+43563,Tustin,WI,Waushara County,,city-us,111,44.163,-88.892,281

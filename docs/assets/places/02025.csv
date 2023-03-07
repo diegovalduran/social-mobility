@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17990,Highland Park,IL,,city-us,30177,42.18,-87.80,10836
-17992,Highland Park,NJ,,city-us,14968,40.50,-74.42,32972
-17991,Highland Park,MI,,city-us,8902,42.41,-83.10,19843
-17994,Highland Park,TX,,city-us,8747,32.83,-96.79,8921
-17993,Highland Park,PA,,city-us,1361,40.62,-77.57,2384
-17989,Highland Park,FL,,city-us,260,27.87,-81.56,2048
-17995,Highland Park,VA,,city-us,0,37.12,-81.00,96
-17996,Highland Park,WI,,city-us,0,43.89,-88.35,116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10229,Cranberry Lake,WI,Price County,,city-us,1711,45.640,-90.347,2002
+10230,Cranberry Lake,NY,St. Lawrence County,,city-us,136,44.223,-74.836,1063

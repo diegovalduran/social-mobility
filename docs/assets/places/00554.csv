@@ -1,24 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6287,Clarksville,TN,,city-us,170957,36.53,-87.36,33079
-6278,Clarksville,IN,,city-us,22071,38.30,-85.76,9968
-6276,Clarksville,AR,,city-us,9476,35.47,-93.47,8136
-6288,Clarksville,TX,,city-us,2790,33.61,-95.05,8283
-6289,Clarksville,VA,,city-us,1298,36.62,-78.56,5411
-6277,Clarksville,IA,,city-us,1254,42.78,-92.67,3521
-6283,Clarksville,NY,,city-us,973,42.14,-78.25,2855
-6281,Clarksville,NE,,city-us,640,41.25,-97.86,296
-6284,Clarksville,OH,,city-us,538,39.40,-83.98,3437
-6279,Clarksville,MI,,city-us,413,42.84,-85.24,1795
-6280,Clarksville,MO,,city-us,378,39.37,-90.91,4575
-6282,Clarksville,NH,,city-us,282,45.02,-71.33,3934
-6286,Clarksville,PA,,city-us,190,39.97,-80.04,2499
-6290,Clarksville,CA,,city-us,9,38.66,-121.05,258
-6285,Clarksville,OK,,city-us,0,35.83,-95.51,145
-6291,Clarksville,DE,,city-us,0,38.55,-75.15,740
-6292,Clarksville,FL,,city-us,0,30.44,-85.19,262
-6293,Clarksville,ID,,city-us,0,47.75,-116.73,233
-6294,Clarksville,IL,,city-us,0,39.45,-87.80,1839
-6295,Clarksville,IN,,city-us,0,40.03,-85.91,572
-6296,Clarksville,MD,,city-us,0,39.21,-76.94,3461
-6297,Clarksville,NJ,,city-us,0,40.30,-74.68,613
-6298,Clarksville,OH,,city-us,0,39.71,-82.29,158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2819,Beach Haven,NJ,Ocean County,,city-us,1057,39.559,-74.243,13145
+2818,Beach Haven,PA,Luzerne County,,city-us,0,41.068,-76.176,295

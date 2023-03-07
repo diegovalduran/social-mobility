@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41018,Miller City,OH,,city-us,130,41.10,-84.13,3101
-41019,Miller City,IL,,city-us,0,37.11,-89.36,193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35327,Presque Isle,ME,Aroostook County,,city-us,8777,46.681,-68.016,12856
+35328,Presque Isle,MI,Presque Isle County,,city-us,1656,45.287,-83.474,5004
+35329,Presque Isle,WI,Vilas County,,city-us,616,46.247,-89.729,3320

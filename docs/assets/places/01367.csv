@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13363,Montague,MA,,city-us,8580,42.56,-72.52,4773
-13365,Montague,NJ,,city-us,3803,41.28,-74.73,15690
-13364,Montague,MI,,city-us,2435,43.42,-86.36,7633
-13362,Montague,CA,,city-us,1224,41.73,-122.53,4902
-13367,Montague,TX,,city-us,248,33.66,-97.72,2359
-13366,Montague,NY,,city-us,95,43.72,-75.72,2880
-13368,Montague,MO,,city-us,0,36.93,-93.33,294
-13369,Montague,NC,,city-us,0,34.43,-78.07,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6868,Capron,IL,Boone County,,city-us,1393,42.400,-88.740,2219
+6869,Capron,VA,Southampton County,,city-us,138,36.711,-77.200,1774
+6870,Capron,OK,Woods County,,city-us,0,36.897,-98.578,5858

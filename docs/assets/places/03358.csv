@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26296,Keith,IL,,city-us,380,38.58,-88.48,330
-26297,Keith,GA,,city-us,0,34.92,-85.04,286
-26298,Keith,OH,,city-us,0,39.66,-81.56,377
-26299,Keith,VA,,city-us,0,37.84,-77.26,87
-26300,Keith,WV,,city-us,0,38.04,-81.57,99
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17001,Glengary,MI,Oakland County,,city-us,40186,42.579,-83.488,4695
+17002,Glengary,MI,Wexford County,,city-us,1755,44.388,-85.746,3465
+17000,Glengary,NE,Fillmore County,,city-us,339,40.486,-97.435,240
+16999,Glengary,WV,Berkeley County,,city-us,277,39.384,-78.156,438

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40509,Loudonville,NY,,city-us,10152,42.70,-73.75,2603
-40510,Loudonville,OH,,city-us,2782,40.63,-82.23,5552
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34398,Plain View,NC,Sampson County,,city-us,971,35.248,-78.555,1974
+34396,Plain View,VA,King and Queen County,,city-us,0,37.496,-76.668,94
+34397,Plain View,VA,Powhatan County,,city-us,0,37.538,-77.888,111

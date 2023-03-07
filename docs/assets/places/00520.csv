@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5903,Black Rock,NM,,city-us,1365,35.09,-108.79,2865
-5902,Black Rock,AR,,city-us,588,36.11,-91.10,2935
-5904,Black Rock,OR,,city-us,0,44.87,-123.50,3110
-5905,Black Rock,UT,,city-us,0,38.71,-112.96,748
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2662,Bateman,TX,Bastrop County,,city-us,0,29.951,-97.475,880
+2663,Bateman,WI,Chippewa County,,city-us,0,44.931,-91.268,280

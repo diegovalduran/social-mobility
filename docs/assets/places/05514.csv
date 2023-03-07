@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36421,Prairie Lake,WI,,city-us,1661,45.33,-91.73,2614
-36420,Prairie Lake,MN,,city-us,44,46.82,-93.01,2460
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28182,Middlefield,OH,Geauga County,,city-us,4545,41.468,-81.039,1730
+28184,Middlefield,CT,Lower Connecticut River Valley Planning Region,,city-us,4274,41.514,-72.718,7684
+28185,Middlefield,NY,Otsego County,,city-us,1893,42.697,-74.856,4114
+28183,Middlefield,MA,Hampshire County,,city-us,388,42.367,-73.024,3221

@@ -1,8 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34292,Dryden,MI,,city-us,4799,42.94,-83.17,2370
-34294,Dryden,NY,,city-us,1947,42.49,-76.30,6183
-34295,Dryden,VA,,city-us,878,36.78,-82.94,2489
-34298,Dryden,WA,,city-us,519,47.54,-120.56,3156
-34293,Dryden,MN,,city-us,305,44.60,-94.18,1935
-34296,Dryden,OR,,city-us,0,42.27,-123.54,481
-34297,Dryden,TX,,city-us,0,30.04,-102.11,1504
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25588,Long Beach,CA,Los Angeles County,,city-us,456062,33.767,-118.189,70298
+25589,Long Beach,NY,Nassau County,,city-us,34778,40.588,-73.658,21926
+25586,Long Beach,MS,Harrison County,,city-us,16856,30.350,-89.153,5182
+25590,Long Beach,NJ,Ocean County,,city-us,3143,39.602,-74.226,15635
+25585,Long Beach,MD,Calvert County,,city-us,2126,38.461,-76.469,239
+25591,Long Beach,WA,Pacific County,,city-us,1719,46.352,-124.054,6860
+25587,Long Beach,IN,LaPorte County,,city-us,1187,41.739,-86.857,5749
+25592,Long Beach,MN,Pope County,,city-us,341,45.655,-95.418,3060

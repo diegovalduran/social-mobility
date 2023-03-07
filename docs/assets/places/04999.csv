@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34436,Gibraltar,,Gibraltar,city-international,187083,36.13,-5.38,51195
-34437,Gibraltar,,,country,29629,36.14,-5.35,51195
-34432,Gibraltar,MI,,city-us,4943,42.10,-83.19,4216
-34434,Gibraltar,WI,,city-us,1251,45.17,-87.27,2159
-34433,Gibraltar,PA,,city-us,745,40.28,-75.87,789
-34435,Gibraltar,WA,,city-us,0,48.43,-122.58,145
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25712,Lorane,PA,Berks County,,city-us,4620,40.288,-75.855,2259
+25713,Lorane,GA,Bibb County,,city-us,0,32.914,-83.774,303
+25714,Lorane,OR,Lane County,,city-us,0,43.837,-123.239,4533
+25715,Lorane,IN,Whitley County,,city-us,0,41.207,-85.559,729

@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27252,Nekoma,ND,,city-us,38,48.59,-98.38,2898
-27251,Nekoma,IL,,city-us,23,41.17,-90.19,251
-27253,Nekoma,KS,,city-us,0,38.47,-99.44,547
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17811,Green Acres,CA,Riverside County,,city-us,3205,33.738,-117.076,2190
+17812,Green Acres,ND,Rolette County,,city-us,759,48.838,-99.690,233
+17807,Green Acres,OR,Coos County,,city-us,0,43.258,-124.205,819
+17808,Green Acres,IN,Lake County,,city-us,0,41.484,-87.297,261
+17809,Green Acres,DE,New Castle County,,city-us,0,39.790,-75.497,1589
+17810,Green Acres,VA,Pittsylvania County,,city-us,0,36.579,-79.350,99

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28633,Taylorville,IL,,city-us,11822,39.57,-89.32,1116
-28635,Taylorville,IN,,city-us,38,39.46,-87.42,1787
-28634,Taylorville,AL,,city-us,0,33.14,-87.55,557
-28636,Taylorville,WV,,city-us,0,37.66,-82.16,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19086,Harristown,IL,Macon County,,city-us,1718,39.841,-89.092,592
+19087,Harristown,IN,Washington County,,city-us,0,38.598,-86.024,355

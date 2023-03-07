@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11407,Canby,OR,,city-us,18138,45.26,-122.69,8635
-11406,Canby,MN,,city-us,1695,44.71,-96.28,8570
-11405,Canby,CA,,city-us,277,41.44,-120.87,4242
-11408,Canby,IA,,city-us,0,41.42,-94.57,314
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5426,Brockway,MN,Stearns County,,city-us,2926,45.719,-94.310,2252
+5421,Brockway,WI,Jackson County,,city-us,2580,44.285,-90.840,2387
+5422,Brockway,PA,Jefferson County,,city-us,2256,41.249,-78.799,6455
+5425,Brockway,MI,St. Clair County,,city-us,2022,43.122,-82.808,2295
+5423,Brockway,MT,McCone County,,city-us,14,47.300,-105.763,961
+5420,Brockway,OR,Douglas County,,city-us,0,43.109,-123.455,548
+5424,Brockway,CA,Placer County,,city-us,0,39.227,-120.012,1704

@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44935,Basham,AL,,city-us,0,34.51,-87.02,368
-44936,Basham,VA,,city-us,0,37.04,-80.34,391
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41532,Stockdale,TX,Wilson County,,city-us,1435,29.237,-97.960,2813
+41531,Stockdale,PA,Washington County,,city-us,422,40.083,-79.848,1916
+41528,Stockdale,MO,Clay County,,city-us,0,39.291,-94.343,155
+41529,Stockdale,IN,Miami County,,city-us,0,40.915,-85.944,386
+41530,Stockdale,OH,Pike County,,city-us,0,38.956,-82.858,390

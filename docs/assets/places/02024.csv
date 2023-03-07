@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17986,Highland Beach,FL,,city-us,4277,26.40,-80.07,3074
-17987,Highland Beach,MD,,city-us,118,38.93,-76.47,9286
-17988,Highland Beach,WI,,city-us,0,44.19,-88.32,224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10224,Cranberry,PA,Butler County,,city-us,33768,40.710,-80.106,183
+10225,Cranberry,OH,Crawford County,,city-us,1409,40.955,-82.839,1374
+10223,Cranberry,NC,Avery County,,city-us,0,36.143,-81.967,1140
+10226,Cranberry,PA,Luzerne County,,city-us,0,40.954,-75.998,106
+10227,Cranberry,WV,Raleigh County,,city-us,0,37.822,-81.195,186
+10228,Cranberry,PA,Venango County,,city-us,0,41.350,-79.710,143

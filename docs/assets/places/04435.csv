@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32159,Crofton,MD,,city-us,29812,39.00,-76.69,12424
-32161,Crofton,MI,,city-us,1479,44.65,-85.28,2519
-32160,Crofton,NE,,city-us,766,42.73,-97.50,3389
-32158,Crofton,KY,,city-us,638,37.05,-87.48,2400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22849,Keyes,CA,Stanislaus County,,city-us,5483,37.557,-120.915,5676
+22854,Keys,OK,Cherokee County,,city-us,1061,35.798,-94.968,2076
+22848,Keyes,OK,Cimarron County,,city-us,267,36.810,-102.255,2845

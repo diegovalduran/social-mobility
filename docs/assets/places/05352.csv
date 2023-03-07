@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35878,Goodview,MN,,city-us,4138,44.06,-91.70,3017
-35879,Goodview,VA,,city-us,0,37.21,-79.72,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27446,McBride,MI,Montcalm County,,city-us,228,43.354,-85.043,3450
+27445,McBride,OK,Marshall County,,city-us,110,33.935,-96.633,2714
+27444,McBride,MS,Jefferson County,,city-us,0,31.766,-90.782,162
+27447,McBride,MO,Perry County,,city-us,0,37.833,-89.840,927

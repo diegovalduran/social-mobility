@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38124,Virginia City,NV,,city-us,770,39.31,-119.65,19934
-38123,Virginia City,MT,,city-us,223,45.29,-111.95,9437
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30719,New Lexington,OH,Perry County,,city-us,4434,39.714,-82.208,5046
+30720,New Lexington,OH,Preble County,,city-us,0,39.760,-84.534,351
+30721,New Lexington,AL,Tuscaloosa County,,city-us,0,33.562,-87.657,602

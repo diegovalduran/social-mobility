@@ -1,17 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1991,Egypt,,,country,109546720,26.82,30.80,92268
-1979,Egypt,PA,,city-us,2588,40.68,-75.53,5946
-1976,Egypt,AL,,city-us,845,34.07,-86.16,155
-1978,Egypt,MO,,city-us,817,39.28,-93.70,134
-1977,Egypt,AR,,city-us,111,35.87,-90.95,3384
-1980,Egypt,AL,,city-us,0,34.34,-86.53,116
-1981,Egypt,GA,,city-us,0,32.46,-81.47,258
-1982,Egypt,IN,,city-us,0,40.86,-87.20,311
-1983,Egypt,KY,,city-us,0,37.31,-83.90,328
-1984,Egypt,MS,,city-us,0,33.90,-88.73,827
-1985,Egypt,MS,,city-us,0,33.34,-90.28,177
-1986,Egypt,OH,,city-us,0,40.39,-84.43,1160
-1987,Egypt,OH,,city-us,0,40.09,-81.13,417
-1988,Egypt,TX,,city-us,0,30.22,-95.56,425
-1989,Egypt,TX,,city-us,0,29.41,-96.24,349
-1990,Egypt,WV,,city-us,0,39.35,-77.95,176
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1041,Amy,MO,Howell County,,city-us,0,36.606,-92.004,335
+1042,Amy,MS,Jones County,,city-us,0,31.777,-89.258,207
+1043,Amy,KS,Lane County,,city-us,0,38.482,-100.602,393
+1044,Amy,AR,Ouachita County,,city-us,0,33.732,-92.816,154

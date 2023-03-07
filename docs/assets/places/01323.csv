@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13072,Los Angeles,CA,,city-us,3849297,34.05,-118.24,60575
-13075,Los Angeles,,Chile,city-international,143023,-37.47,-72.35,3765
-13073,Los Angeles,TX,,city-us,366,26.50,-97.79,2045
-13074,Los Angeles,TX,,city-us,0,28.47,-99.00,516
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6707,Campo,CA,San Diego County,,city-us,3597,32.606,-116.469,7657
+6706,Campo,CO,Baca County,,city-us,103,37.105,-102.580,2702

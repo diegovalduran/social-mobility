@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34543,Hill,MI,,city-us,1249,44.38,-83.92,2019
-34548,Hill,NH,,city-us,1031,43.53,-71.77,3151
-34547,Hill,NE,,city-us,757,42.77,-97.81,292
-34549,Hill,WI,,city-us,370,45.41,-90.24,1923
-34545,Hill,MO,,city-us,216,39.56,-93.60,153
-34546,Hill,ND,,city-us,53,46.85,-97.62,0
-34544,Hill,MN,,city-us,24,48.85,-97.12,1695
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25779,Lothair,MT,Liberty County,,city-us,0,48.472,-111.232,339
+25780,Lothair,KY,Perry County,,city-us,0,37.242,-83.181,131
+25781,Lothair,GA,Treutlen County,,city-us,0,32.355,-82.655,316

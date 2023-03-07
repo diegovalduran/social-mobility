@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46057,Saint Johns,IN,,city-us,0,41.31,-85.11,232
-46058,Saint Johns,KY,,city-us,0,36.97,-88.67,141
-46059,Saint Johns,PA,,city-us,0,41.03,-76.01,214
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43404,Truesdale,MO,Warren County,,city-us,910,38.812,-91.130,4166
+43403,Truesdale,IA,Buena Vista County,,city-us,65,42.729,-95.183,2815

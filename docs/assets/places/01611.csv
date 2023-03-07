@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15036,Castle Rock,CO,,city-us,76353,39.37,-104.86,21260
-15039,Castle Rock,WA,,city-us,2446,46.28,-122.91,6536
-15040,Castle Rock,WI,,city-us,236,43.07,-90.49,1719
-15038,Castle Rock,ND,,city-us,72,46.32,-102.37,0
-15037,Castle Rock,MN,,city-us,0,44.54,-93.15,757
-15041,Castle Rock,OR,,city-us,0,45.84,-119.84,846
-15042,Castle Rock,SD,,city-us,0,44.96,-103.42,365
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8200,Chestertown,MD,Kent County,,city-us,5603,39.209,-76.067,11443
+8201,Chestertown,NY,Warren County,,city-us,587,43.653,-73.801,2318

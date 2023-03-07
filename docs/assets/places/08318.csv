@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45221,Lotus,CA,,city-us,238,38.80,-120.91,456
-45222,Lotus,IL,,city-us,0,40.32,-88.46,1439
-45223,Lotus,IN,,city-us,0,39.61,-84.89,255
-45224,Lotus,KY,,city-us,0,37.92,-85.60,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42070,Sunfield,MI,Eaton County,,city-us,534,42.762,-84.993,2972
+42071,Sunfield,IL,Perry County,,city-us,0,38.064,-89.240,262

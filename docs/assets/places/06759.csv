@@ -1,3 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40470,Hempstead,NY,,city-us,790982,40.63,-73.61,16807
-40471,Hempstead,TX,,city-us,6028,30.10,-96.08,12426
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34313,Pisgah,AL,Jackson County,,city-us,682,34.681,-85.848,2392
+34312,Pisgah,IA,Harrison County,,city-us,252,41.831,-95.926,3208
+34308,Pisgah,OH,Butler County,,city-us,0,39.318,-84.369,283
+34309,Pisgah,MD,Charles County,,city-us,0,38.546,-77.135,83
+34310,Pisgah,MO,Cooper County,,city-us,0,38.776,-92.649,578
+34311,Pisgah,GA,Gilmer County,,city-us,0,34.725,-84.282,262
+34314,Pisgah,IL,Morgan County,,city-us,0,39.669,-90.126,155
+34315,Pisgah,TX,Navarro County,,city-us,0,31.883,-96.491,935
+34316,Pisgah,WV,Preston County,,city-us,0,39.645,-79.757,339
+34317,Pisgah,NC,Randolph County,,city-us,0,35.550,-79.871,137
+34318,Pisgah,MS,Rankin County,,city-us,0,32.470,-89.870,85
+34319,Pisgah,VA,Tazewell County,,city-us,0,37.121,-81.573,77
+34320,Pisgah,KY,Woodford County,,city-us,0,38.057,-84.655,501

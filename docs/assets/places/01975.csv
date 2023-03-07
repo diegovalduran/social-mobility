@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17712,Campbellton,FL,,city-us,194,30.95,-85.40,3340
-17713,Campbellton,GA,,city-us,0,33.65,-84.67,461
-17714,Campbellton,MO,,city-us,0,38.54,-91.16,576
-17715,Campbellton,TX,,city-us,0,28.75,-98.30,2644
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10040,Cotter,AR,Baxter County,,city-us,907,36.271,-92.535,7656
+10041,Cotter,IA,Louisa County,,city-us,39,41.292,-91.462,2858

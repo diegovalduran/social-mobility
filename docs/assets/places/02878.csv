@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23440,West Branch,MI,,city-us,2578,44.30,-84.17,385
-23435,West Branch,IA,,city-us,2564,41.67,-91.34,6764
-23438,West Branch,MI,,city-us,1715,46.38,-87.29,385
-23436,West Branch,KS,,city-us,1012,38.21,-97.32,1299
-23439,West Branch,MI,,city-us,450,44.38,-85.03,385
-23441,West Branch,PA,,city-us,397,41.68,-77.71,2345
-23437,West Branch,MI,,city-us,55,46.16,-87.71,385
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14381,Fairplain,MI,Montcalm County,,city-us,1893,43.155,-85.132,3200
+14380,Fairplain,WV,Jackson County,,city-us,0,38.752,-81.686,254

@@ -1,5 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40282,Arkwright,SC,,city-us,2480,34.92,-81.93,846
-40281,Arkwright,NY,,city-us,999,42.39,-79.25,3877
-40283,Arkwright,AL,,city-us,0,33.37,-86.40,1145
-40284,Arkwright,GA,,city-us,0,32.93,-83.70,209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33954,Piedmont,CA,Alameda County,,city-us,11107,37.824,-122.232,18722
+33958,Piedmont,OK,Canadian County / Kingfisher County,,city-us,7884,35.675,-97.754,6172
+33955,Piedmont,SC,Anderson County / Greenville County,,city-us,5581,34.706,-82.467,4427
+33957,Piedmont,AL,Calhoun County / Cherokee County,,city-us,4810,33.928,-85.615,12597
+33967,Piedmont,MO,Wayne County,,city-us,1860,37.154,-90.696,6807
+33962,Piedmont,SD,Meade County,,city-us,965,44.232,-103.389,2825
+33964,Piedmont,WV,Mineral County,,city-us,707,39.480,-79.048,7904
+33960,Piedmont,KS,Greenwood County,,city-us,52,37.624,-96.366,614
+33956,Piedmont,VA,Augusta County,,city-us,0,38.214,-78.899,828
+33959,Piedmont,WA,Clallam County,,city-us,0,48.094,-123.792,366
+33961,Piedmont,OH,Harrison County,,city-us,0,40.188,-81.196,245
+33963,Piedmont,WV,Mercer County,,city-us,0,37.451,-81.264,130
+33965,Piedmont,VA,Montgomery County,,city-us,0,37.100,-80.219,443
+33966,Piedmont,VA,Nelson County,,city-us,0,37.611,-78.922,104

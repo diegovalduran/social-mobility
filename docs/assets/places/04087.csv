@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30436,West Middleton,IN,,city-us,250,40.44,-86.22,449
-30437,West Middleton,WI,,city-us,0,43.06,-89.57,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21017,Hunnewell,MO,Shelby County,,city-us,136,39.668,-91.862,3534
+21018,Hunnewell,KS,Sumner County,,city-us,46,37.005,-97.405,3814
+21016,Hunnewell,KY,Greenup County,,city-us,0,38.413,-82.846,538

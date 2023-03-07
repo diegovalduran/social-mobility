@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34770,Maple Valley,WA,,city-us,28153,47.39,-122.05,10676
-34773,Maple Valley,MI,,city-us,3731,44.35,-84.42,3403
-34768,Maple Valley,MI,,city-us,2008,43.34,-85.39,184
-34769,Maple Valley,MI,,city-us,1175,43.19,-82.93,184
-34771,Maple Valley,WI,,city-us,661,44.99,-88.30,1953
-34772,Maple Valley,IN,,city-us,0,39.87,-85.59,458
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25998,Lumber,PA,Cameron County,,city-us,174,41.496,-78.151,2205
+25999,Lumber,AR,Columbia County,,city-us,0,33.350,-93.347,91
+26000,Lumber,WV,Randolph County,,city-us,0,38.915,-79.774,75

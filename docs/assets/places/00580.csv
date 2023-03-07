@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6539,DeWitt,IA,,city-us,5520,41.82,-90.54,4479
-6540,DeWitt,MI,,city-us,4801,42.84,-84.57,6492
-6538,DeWitt,AR,,city-us,2898,34.29,-91.34,7887
-6541,DeWitt,GA,,city-us,0,31.42,-84.14,247
-6542,Dewitt,KY,,city-us,0,36.88,-83.74,88
-6543,DeWitt,VA,,city-us,0,37.04,-77.64,790
-6544,Dewitt,WV,,city-us,0,37.93,-81.13,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2910,Beaufort,SC,Beaufort County,,city-us,12960,32.432,-80.670,29193
+2911,Beaufort,NC,Carteret County,,city-us,4569,34.718,-76.664,6248
+2912,Beaufort,MO,Franklin County,,city-us,0,38.421,-91.189,574

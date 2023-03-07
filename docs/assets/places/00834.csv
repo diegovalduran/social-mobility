@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9359,Waldron,AR,,city-us,3316,34.90,-94.09,3523
-9360,Waldron,IN,,city-us,805,39.45,-85.67,1230
-9362,Waldron,MI,,city-us,545,41.73,-84.42,3795
-9361,Waldron,KS,,city-us,9,37.00,-98.18,3015
-9363,Waldron,MO,,city-us,0,39.22,-94.79,525
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4282,Blakely,PA,Lackawanna County,,city-us,6660,41.481,-75.595,2581
+4279,Blakely,GA,Early County,,city-us,5252,31.378,-84.934,5718
+4280,Blakely,NE,Gage County,,city-us,306,40.300,-96.851,210
+4281,Blakely,KS,Geary County,,city-us,101,38.924,-96.751,407
+4277,Blakeley,WV,Kanawha County,,city-us,0,38.296,-81.304,90
+4278,Blakeley,MN,Scott County,,city-us,0,44.611,-93.853,634

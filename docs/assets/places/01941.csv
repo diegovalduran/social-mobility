@@ -1,10 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17470,Townsend,MA,,city-us,8983,42.66,-71.71,4133
-17469,Townsend,DE,,city-us,2788,39.40,-75.69,3976
-17471,Townsend,MT,,city-us,1917,46.32,-111.52,4644
-17472,Townsend,OH,,city-us,1554,41.25,-82.50,124
-17473,Townsend,OH,,city-us,1528,41.38,-82.90,124
-17474,Townsend,TN,,city-us,574,35.68,-83.76,10339
-17475,Townsend,WI,,city-us,88,45.33,-88.59,2044
-17476,Townsend,GA,,city-us,0,31.54,-81.52,524
-17477,Townsend,VA,,city-us,0,37.18,-75.96,107
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9866,Corinne,UT,Box Elder County,,city-us,861,41.551,-112.110,6203
+9870,Corinne,WV,Wyoming County,,city-us,468,37.573,-81.356,216
+9867,Corinne,MI,Mackinac County,,city-us,427,46.079,-85.706,3360
+9869,Corinne,ND,Stutsman County,,city-us,38,47.269,-98.520,0
+9868,Corinne,OK,Pushmataha County,,city-us,0,34.186,-95.291,1738

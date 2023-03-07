@@ -1,3 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44566,Wescott,WI,,city-us,3256,44.82,-88.56,1881
-44567,Wescott,NE,,city-us,0,41.54,-99.27,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40900,Springville,UT,Utah County,,city-us,36135,40.165,-111.611,9470
+40896,Springville,AL,St. Clair County,,city-us,4935,33.775,-86.472,4376
+40889,Springville,NY,Erie County,,city-us,4204,42.508,-78.667,5573
+40903,Springville,MI,Wexford County,,city-us,1764,44.378,-85.765,3465
+40901,Springville,WI,Vernon County,,city-us,1314,43.584,-90.940,205
+40888,Springville,WI,Adams County,,city-us,1303,43.778,-89.788,2115
+40898,Springville,VA,Tazewell County,,city-us,1223,37.197,-81.403,447
+40893,Springville,IA,Linn County,,city-us,1154,42.059,-91.443,3324
+40899,Springville,CA,Tulare County,,city-us,480,36.130,-118.818,5309
+40890,Springville,TN,Henry County,,city-us,0,36.249,-88.153,110
+40891,Springville,IN,LaPorte County,,city-us,0,41.676,-86.663,2020
+40892,Springville,IN,Lawrence County,,city-us,0,38.936,-86.619,210
+40894,Springville,LA,Livingston Parish,,city-us,0,30.436,-90.683,111
+40895,Springville,MS,Pontotoc County,,city-us,0,34.232,-89.104,266
+40897,Springville,PA,Susquehanna County,,city-us,0,41.697,-75.918,273
+40902,Springville,OH,Wayne County,,city-us,0,40.736,-82.033,333

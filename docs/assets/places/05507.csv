@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36402,Pleasant Prairie,WI,,city-us,21392,42.55,-87.93,17257
-36400,Pleasant Prairie,MN,,city-us,224,43.64,-94.32,1975
-36401,Pleasant Prairie,ND,,city-us,21,47.62,-98.94,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28148,Middle Valley,TN,Hamilton County,,city-us,11569,35.196,-85.185,2292
+28149,Middle Valley,NJ,Morris County,,city-us,0,40.761,-74.821,1701

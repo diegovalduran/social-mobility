@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45823,Cliffdale,IL,,city-us,0,39.36,-90.63,300
-45824,Clifdale,VA,,city-us,0,37.68,-80.01,105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43056,Toddville,MD,Dorchester County,,city-us,0,38.300,-76.071,180
+43057,Toddville,SC,Horry County,,city-us,0,33.759,-79.076,255
+43058,Toddville,IA,Linn County,,city-us,0,42.099,-91.717,1778

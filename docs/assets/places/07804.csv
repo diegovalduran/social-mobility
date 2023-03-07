@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43788,Post,TX,,city-us,4791,33.19,-101.38,7721
-43789,Post,OR,,city-us,0,44.16,-120.49,854
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39511,Shepherd,TX,San Jacinto County,,city-us,2045,30.498,-94.997,4532
+39510,Shepherd,MI,Isabella County,,city-us,1521,43.524,-84.695,4188
+39513,Shepherd,MT,Yellowstone County,,city-us,825,45.944,-108.342,2291
+39512,Shepherd,ND,Walsh County,,city-us,28,48.332,-98.222,111
+39509,Shepherd,IN,Boone County,,city-us,0,39.967,-86.431,266
+39516,Sheppard,WI,Jackson County,,city-us,0,44.261,-90.781,192
+39517,Shepperd,MD,Baltimore County,,city-us,0,39.593,-76.569,190

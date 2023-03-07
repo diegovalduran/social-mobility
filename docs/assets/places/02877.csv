@@ -1,4 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23433,West Bend,WI,,city-us,4452,43.39,-88.23,20115
-23432,West Bend,IA,,city-us,778,42.96,-94.45,4201
-23434,West Bend,MO,,city-us,0,37.46,-93.46,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14374,Fairmount,NY,Onondaga County,,city-us,10292,43.047,-76.239,4099
+14371,Fairmount,CO,Jefferson County,,city-us,9939,39.793,-105.171,1375
+14367,Fairmount,IN,Grant County,,city-us,2655,40.415,-85.651,7312
+14368,Fairmount,TN,Hamilton County,,city-us,1607,35.181,-85.324,2022
+14373,Fairmount,PA,Luzerne County,,city-us,1209,41.292,-76.263,5604
+14366,Fairmount,GA,Gordon County,,city-us,774,34.436,-84.700,2933
+14379,Fairmount,IL,Vermilion County,,city-us,601,40.046,-87.831,2741
+14365,Fairmount,KS,Butler County,,city-us,486,38.050,-97.099,453
+14377,Fairmount,MD,Somerset County,,city-us,402,38.090,-75.817,2334
+14375,Fairmount,IL,Pike County,,city-us,159,39.793,-90.862,271
+14376,Fairmount,ND,Richland County,,city-us,94,46.024,-96.602,3569
+14369,Fairmount,NJ,Hunterdon County,,city-us,0,40.727,-74.776,1134
+14370,Fairmount,IA,Jasper County,,city-us,0,41.567,-93.159,761
+14372,Fairmount,KS,Leavenworth County,,city-us,0,39.192,-94.936,953
+14378,Fairmount,DE,Sussex County,,city-us,0,38.666,-75.221,426

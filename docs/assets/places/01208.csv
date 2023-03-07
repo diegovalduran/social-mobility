@@ -1,4 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12293,Gardena,CA,,city-us,59702,33.89,-118.31,18060
-12294,Gardena,ND,,city-us,23,48.70,-100.50,2655
-12295,Gardena,ID,,city-us,0,43.98,-116.19,125
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6066,Bunker Hill,WV,Berkeley County,,city-us,5319,39.333,-78.054,3984
+6072,Bunker Hill,IL,Macoupin County,,city-us,3126,39.027,-89.983,615
+6067,Bunker Hill,OR,Coos County,,city-us,2438,43.356,-124.205,1892
+6071,Bunker Hill,MI,Ingham County,,city-us,1966,42.462,-84.321,2462
+6073,Bunker Hill,IN,Miami County,,city-us,821,40.660,-86.103,3395
+6076,Bunker Hill,KS,Russell County,,city-us,106,38.876,-98.704,7146
+6068,Bunker Hill,WA,Cowlitz County,,city-us,0,46.202,-123.139,525
+6069,Bunker Hill,IN,Fayette County,,city-us,0,39.633,-85.213,146
+6070,Bunker Hill,MO,Howard County,,city-us,0,39.218,-92.531,337
+6074,Bunker Hill,IN,Morgan County,,city-us,0,39.566,-86.441,161
+6075,Bunker Hill,TN,Perry County,,city-us,0,35.730,-87.997,234
+6077,Bunker Hill,MO,Stoddard County,,city-us,0,36.706,-89.970,256

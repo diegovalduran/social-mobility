@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38903,Lake Williams,ND,,city-us,71,47.55,-100.85,220
-38902,Lake Williams,ND,,city-us,0,47.13,-99.61,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31959,Oasis,CA,Riverside County,,city-us,2790,33.466,-116.099,2226
+31961,Oasis,WI,Waushara County,,city-us,387,44.201,-89.424,1918
+31960,Oasis,NM,Sierra County,,city-us,96,32.925,-107.317,739
+31954,Oasis,NV,Elko County,,city-us,36,41.029,-114.487,638
+31957,Oasis,UT,Millard County,,city-us,29,39.294,-112.628,4353
+31955,Oasis,IA,Johnson County,,city-us,0,41.706,-91.386,1563
+31956,Oasis,CA,Mendocino County,,city-us,0,38.983,-123.004,135
+31958,Oasis,CA,Mono County,,city-us,0,37.488,-117.916,338

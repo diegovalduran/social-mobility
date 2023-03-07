@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39684,Centre Grove,NJ,,city-us,1286,39.36,-75.12,390
-39685,Center Grove,IN,,city-us,0,39.58,-86.20,4656
-39686,Center Grove,TN,,city-us,0,36.26,-85.61,358
-39687,Center Grove,TX,,city-us,0,31.17,-95.38,533
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33088,Paradise Hill,OK,Sequoyah County,,city-us,67,35.626,-95.067,2269
+33086,Paradise Hill,OH,Ashland County,,city-us,0,40.866,-82.403,257
+33087,Paradise Hill,NV,Humboldt County,,city-us,0,41.279,-117.691,368

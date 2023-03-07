@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35303,Wolverine,MI,,city-us,6263,47.25,-88.44,9811
-35301,Wolverine,MI,,city-us,283,45.27,-84.60,5113
-35302,Wolverine,KY,,city-us,0,37.58,-83.41,102
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26667,Manson,IA,Calhoun County,,city-us,1695,42.529,-94.534,5138
+26668,Manson,WA,Chelan County,,city-us,1294,47.885,-120.158,904
+26669,Manson,IN,Clinton County,,city-us,0,40.240,-86.590,402
+26670,Manson,NC,Warren County,,city-us,0,36.422,-78.283,665

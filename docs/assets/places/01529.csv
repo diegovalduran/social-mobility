@@ -1,12 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14441,Taylorsville,UT,,city-us,59242,40.67,-111.94,26393
-14440,Taylorsville,NC,,city-us,2320,35.92,-81.18,4712
-14438,Taylorsville,KY,,city-us,1268,38.03,-85.34,3536
-14439,Taylorsville,MS,,city-us,1130,31.83,-89.43,6119
-14437,Taylorsville,IN,,city-us,668,39.30,-85.95,2095
-14436,Taylorsville,GA,,city-us,253,34.09,-84.99,3822
-14435,Taylorsville,CA,,city-us,29,40.08,-120.84,3918
-14442,Taylorsville,MD,,city-us,0,39.46,-77.09,278
-14443,Taylorsville,OH,,city-us,0,39.08,-83.73,338
-14444,Taylorsville,TN,,city-us,0,36.28,-86.20,197
-14445,Taylorsville,TX,,city-us,0,29.90,-97.50,1333
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7762,Ceresco,NE,Saunders County,,city-us,932,41.057,-96.645,3870
+7760,Ceresco,MN,Blue Earth County,,city-us,183,43.977,-94.305,2589
+7761,Ceresco,MI,Calhoun County,,city-us,0,42.272,-85.061,1055

@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21978,Hayesville,OR,,city-us,21891,44.98,-122.97,2376
-21977,Hayesville,OH,,city-us,442,40.77,-82.26,3542
-21976,Hayesville,NC,,city-us,438,35.05,-83.82,5670
-21975,Hayesville,IA,,city-us,44,41.26,-92.25,2657
-21979,Hayesville,OH,,city-us,0,39.54,-82.93,236
-21980,Hayesville,PA,,city-us,0,39.82,-75.96,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13078,Effner,IL,Iroquois County,,city-us,0,40.771,-87.526,791
+13079,Effner,IN,Newton County,,city-us,0,40.771,-87.526,791

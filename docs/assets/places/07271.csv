@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42113,Crown,PA,,city-us,265,41.39,-79.27,240
-42114,Crown,MN,,city-us,0,45.44,-93.46,4476
-42115,Crown,MO,,city-us,0,37.26,-92.95,446
-42116,Crown,TX,,city-us,0,28.94,-98.74,1257
-42117,Crown,WV,,city-us,0,37.76,-81.84,268
-42118,Crown,WV,,city-us,0,39.58,-80.10,190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36831,Rising Sun,MD,Cecil County,,city-us,2744,39.698,-76.063,6254
+36834,Rising Sun,IN,Ohio County,,city-us,2246,38.950,-84.854,4388
+36832,Rising Sun,WI,Crawford County,,city-us,0,43.418,-90.958,695
+36833,Rising Sun,MS,Leflore County,,city-us,0,33.459,-90.209,574
+36835,Rising Sun,IL,Pope County,,city-us,0,37.407,-88.578,126
+36836,Rising Sun,IL,White County,,city-us,0,38.000,-88.028,148

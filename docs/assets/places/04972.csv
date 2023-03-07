@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34301,Eagle River,WI,,city-us,1678,45.92,-89.24,8263
-34300,Eagle River,MI,,city-us,65,47.41,-88.30,2477
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25596,Long Branch,NJ,Monmouth County,,city-us,32383,40.304,-73.992,31139
+25594,Long Branch,VA,Fairfax County,,city-us,7734,38.831,-77.270,979
+25599,Long Branch,PA,Washington County,,city-us,419,40.104,-79.869,1972
+25598,Long Branch,IL,Saline County,,city-us,242,37.887,-88.539,340
+25593,Long Branch,VA,Caroline County,,city-us,0,38.188,-77.393,95
+25595,Long Branch,WV,Fayette County,,city-us,0,37.923,-81.276,327
+25597,Long Branch,TX,Panola County,,city-us,0,32.073,-94.568,518
+25600,Long Branch,WV,Wyoming County,,city-us,0,37.618,-81.764,169

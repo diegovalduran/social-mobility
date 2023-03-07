@@ -1,6 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31599,Plevna,MT,,city-us,172,46.42,-104.52,3638
-31597,Plevna,KS,,city-us,82,37.97,-98.31,3395
-31598,Plevna,MO,,city-us,7,39.97,-92.09,501
-31600,Plevna,AL,,city-us,0,34.96,-86.42,334
-31601,Plevna,IN,,city-us,0,40.54,-85.98,1162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22329,Jonesville,NC,Yadkin County,,city-us,2314,36.239,-80.845,11511
+22324,Jonesville,MI,Hillsdale County,,city-us,2159,41.984,-84.662,4448
+22319,Jonesville,LA,Catahoula Parish,,city-us,1650,31.627,-91.818,4358
+22326,Jonesville,VA,Lee County,,city-us,867,36.689,-83.111,3574
+22328,Jonesville,SC,Union County,,city-us,840,34.836,-81.681,2106
+22317,Jonesville,IN,Bartholomew County,,city-us,178,39.061,-85.890,3472
+22316,Jonesville,FL,Alachua County,,city-us,0,29.654,-82.523,3573
+22318,Jonesville,CA,Butte County,,city-us,0,40.112,-121.467,180
+22320,Jonesville,VT,Chittenden County,,city-us,0,44.384,-72.938,181
+22321,Jonesville,KY,Grant County,,city-us,0,38.640,-84.776,214
+22322,Jonesville,TX,Harrison County,,city-us,0,32.498,-94.111,271
+22323,Jonesville,KY,Hart County,,city-us,0,37.388,-85.768,165
+22325,Jonesville,IL,LaSalle County,,city-us,0,41.311,-89.071,641
+22327,Jonesville,AL,Pike County,,city-us,0,31.893,-85.904,173

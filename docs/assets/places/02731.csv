@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22588,Moorhead,MN,,city-us,44668,46.87,-96.77,15357
-22589,Moorhead,MS,,city-us,1909,33.45,-90.51,4261
-22587,Moorhead,IA,,city-us,193,41.92,-95.85,3416
-22590,Moorhead,MT,,city-us,1,45.06,-105.87,2161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13585,Elsmere,KY,Kenton County,,city-us,9165,39.013,-84.605,2239
+13586,Elsmere,DE,New Castle County,,city-us,6157,39.739,-75.598,7307
+13584,Elsmere,NE,Cherry County,,city-us,0,42.165,-100.185,518

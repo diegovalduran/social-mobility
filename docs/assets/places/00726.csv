@@ -1,18 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8119,Mulberry,OH,,city-us,4275,39.19,-84.24,2391
-8114,Mulberry,FL,,city-us,4002,27.90,-81.97,8269
-8118,Mulberry,NC,,city-us,2215,36.24,-81.18,2527
-8113,Mulberry,AR,,city-us,1542,35.50,-94.05,2453
-8115,Mulberry,IN,,city-us,1258,40.34,-86.67,3881
-8116,Mulberry,KS,,city-us,411,37.56,-94.62,3694
-8121,Mulberry,SC,,city-us,213,33.95,-80.33,2064
-8120,Mulberry,OK,,city-us,79,35.87,-94.70,402
-8117,Mulberry,KS,,city-us,33,38.83,-97.98,486
-8122,Mulberry,AL,,city-us,0,32.46,-86.78,84
-8123,Mulberry,AL,,city-us,0,32.67,-86.72,84
-8124,Mulberry,AL,,city-us,0,31.59,-86.43,85
-8125,Mulberry,GA,,city-us,0,34.04,-83.72,255
-8126,Mulberry,KY,,city-us,0,38.27,-85.13,88
-8127,Mulberry,NC,,city-us,0,36.33,-80.80,812
-8128,Mulberry,TN,,city-us,0,35.21,-86.46,324
-8129,Mulberry,TX,,city-us,0,33.72,-96.28,158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3728,Bessemer,AL,Jefferson County,,city-us,25615,33.402,-86.954,13332
+3727,Bessemer,MI,Gogebic County,,city-us,1792,46.481,-90.053,6562
+3729,Bessemer,PA,Lawrence County,,city-us,1064,40.975,-80.494,2222
+3724,Bessemer,OH,Athens County,,city-us,0,39.465,-82.198,226
+3725,Bessemer,WV,Berkeley County,,city-us,0,39.514,-77.930,106
+3726,Bessemer,VA,Botetourt County,,city-us,0,37.647,-79.811,140

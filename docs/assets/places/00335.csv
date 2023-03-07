@@ -1,9 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4002,Mooresville,NC,,city-us,51594,35.58,-80.81,14440
-4000,Mooresville,IN,,city-us,9584,39.61,-86.37,6648
-4001,Mooresville,MO,,city-us,294,39.74,-93.72,4377
-3999,Mooresville,AL,,city-us,45,34.63,-86.88,5036
-4003,Mooresville,KY,,city-us,0,37.80,-85.27,126
-4004,Mooresville,OH,,city-us,0,39.33,-82.85,354
-4005,Mooresville,TN,,city-us,0,35.44,-86.91,256
-4006,Mooresville,WV,,city-us,0,39.69,-80.15,170
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1738,Assumption,IL,Christian County,,city-us,1345,39.516,-89.081,841
+1736,Assumption,NE,Adams County,,city-us,0,40.510,-98.572,270
+1737,Assumption,MN,Carver County,,city-us,0,44.688,-93.889,608
+1739,Assumption,OH,Fulton County,,city-us,0,41.672,-83.912,928

@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27890,Port Byron,IL,,city-us,1641,41.61,-90.34,3594
-27891,Port Byron,NY,,city-us,1096,43.03,-76.62,4591
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18348,Guthrie,OK,Logan County,,city-us,11029,35.879,-97.425,11771
+18350,Guthrie,MI,Washtenaw County,,city-us,2833,42.303,-84.058,3895
+18349,Guthrie,KY,Todd County,,city-us,1334,36.648,-87.166,3596
+18344,Guthrie,MN,Hubbard County,,city-us,624,47.283,-94.834,1947
+18346,Guthrie,TX,King County,,city-us,160,33.621,-100.323,3777
+18342,Guthrie,MO,Callaway County,,city-us,0,38.757,-92.097,634
+18343,Guthrie,IL,Ford County,,city-us,0,40.508,-88.325,440
+18345,Guthrie,WV,Kanawha County,,city-us,0,38.406,-81.661,89
+18347,Guthrie,IN,Lawrence County,,city-us,0,38.977,-86.509,223
+18351,Guthrie,WI,Waukesha County,,city-us,0,42.925,-88.200,237

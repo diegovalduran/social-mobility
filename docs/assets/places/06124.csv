@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38513,Wadesboro,NC,,city-us,5038,34.97,-80.08,5755
-38514,Wadesboro,FL,,city-us,0,30.51,-84.07,1199
-38515,Wadesboro,KY,,city-us,0,36.75,-88.32,224
-38516,Wadesboro,LA,,city-us,0,30.42,-90.50,720
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31304,Norris,TN,Anderson County,,city-us,1586,36.196,-84.068,6787
+31309,Norris,SC,Pickens County,,city-us,745,34.760,-82.754,2039
+31308,Norris,SD,Mellette County,,city-us,175,43.439,-101.191,465
+31305,Norris,IL,Fulton County,,city-us,168,40.626,-90.032,1475
+31307,Norris,MT,Madison County,,city-us,46,45.568,-111.691,694
+31306,Norris,MO,Henry County,,city-us,0,38.521,-93.896,330
+31310,Norris,MS,Scott County,,city-us,0,32.294,-89.436,174

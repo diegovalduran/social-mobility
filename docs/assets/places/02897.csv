@@ -1,11 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23562,Yorktown,NY,,city-us,35953,41.27,-73.82,11805
-23560,Yorktown,IN,,city-us,11562,40.17,-85.49,9298
-23563,Yorktown,TX,,city-us,1811,28.98,-97.50,10760
-23559,Yorktown,IL,,city-us,437,41.54,-89.92,1291
-23564,Yorktown,VA,,city-us,256,37.24,-76.51,10940
-23558,Yorktown,IA,,city-us,60,40.73,-95.16,4366
-23561,Yorktown,ND,,city-us,43,46.15,-98.32,181
-23565,Yorktown,AR,,city-us,0,34.02,-91.82,232
-23566,Yorktown,IL,,city-us,0,41.57,-89.85,148
-23567,Yorktown,OH,,city-us,0,40.45,-81.52,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14534,Falls,PA,Bucks County,,city-us,34633,40.173,-74.790,169
+14537,Falls,OH,Hocking County,,city-us,11875,39.540,-82.416,163
+14538,Falls,OH,Muskingum County,,city-us,8710,40.002,-82.051,163
+14535,Falls,KS,Chase County,,city-us,1028,38.345,-96.543,664
+14539,Falls,KS,Sumner County,,city-us,136,37.063,-97.528,6779
+14536,Falls,WV,Grant County,,city-us,0,39.175,-79.119,112
+14540,Falls,NC,Wake County,,city-us,0,35.940,-78.579,3403
+14541,Falls,PA,Wyoming County,,city-us,0,41.461,-75.849,230

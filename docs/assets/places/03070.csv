@@ -1,18 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24537,Brown,OH,,city-us,7309,40.69,-81.16,352
-24546,Brown,PA,,city-us,4147,40.67,-77.65,228
-24540,Brown,OH,,city-us,3810,40.00,-83.23,352
-24541,Brown,OH,,city-us,2066,40.51,-82.32,352
-24534,Brown,IL,,city-us,2064,40.35,-88.39,3374
-24538,Brown,OH,,city-us,2041,40.22,-84.66,352
-24543,Brown,OH,,city-us,1906,41.12,-84.39,352
-24542,Brown,OH,,city-us,1604,40.15,-84.07,352
-24539,Brown,OH,,city-us,1456,40.32,-82.99,352
-24535,Brown,MI,,city-us,708,44.31,-86.11,2512
-24544,Brown,OH,,city-us,255,39.34,-82.36,352
-24545,Brown,PA,,city-us,92,41.51,-77.50,228
-24536,Brown,ND,,city-us,69,47.98,-100.90,0
-24547,Brown,CA,,city-us,0,35.77,-117.85,522
-24548,Brown,LA,,city-us,0,32.18,-93.05,160
-24549,Brown,OK,,city-us,0,34.09,-96.48,245
-24550,Brown,WV,,city-us,0,39.39,-80.46,599
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15395,Forestville,MD,Prince George's County,,city-us,10575,38.845,-76.875,4812
+15394,Forestville,OH,Hamilton County,,city-us,10485,39.075,-84.345,1780
+15398,Forestville,CA,Sonoma County,,city-us,3768,38.474,-122.890,6543
+15390,Forestville,NY,Chautauqua County,,city-us,731,42.468,-79.177,4570
+15392,Forestville,WI,Door County,,city-us,484,44.690,-87.479,3189
+15397,Forestville,PA,Schuylkill County,,city-us,446,40.692,-76.301,1629
+15393,Forestville,MN,Fillmore County,,city-us,371,43.631,-92.269,1961
+15396,Forestville,MI,Sanilac County,,city-us,86,43.662,-82.609,3173
+15391,Forestville,IA,Delaware County,,city-us,0,42.597,-91.529,1198
+15399,Forestville,NC,Wake County,,city-us,0,35.962,-78.518,303

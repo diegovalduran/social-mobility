@@ -1,9 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22468,Melvin,IL,,city-us,416,40.57,-88.25,1979
-22467,Melvin,IA,,city-us,200,43.29,-95.61,3509
-22469,Melvin,MI,,city-us,153,43.19,-82.86,2836
-22471,Melvin,TX,,city-us,124,31.20,-99.58,2095
-22470,Melvin,ND,,city-us,41,47.88,-98.08,0
-22472,Melvin,AL,,city-us,0,31.93,-88.46,105
-22473,Melvin,KY,,city-us,0,37.35,-82.69,95
-22474,Melvin,OH,,city-us,0,39.47,-83.72,176
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13494,Elma,NY,Erie County,,city-us,11668,42.828,-78.648,8394
+13495,Elma,WA,Grays Harbor County,,city-us,3477,47.003,-123.409,5813
+13496,Elma,IA,Howard County,,city-us,512,43.247,-92.436,3532
+13498,Elma,ND,Richland County,,city-us,75,45.976,-96.981,0
+13497,Elma,VA,Nelson County,,city-us,0,37.754,-78.795,98

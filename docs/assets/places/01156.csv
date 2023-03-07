@@ -1,23 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11786,Dixon,CA,,city-us,18974,38.45,-121.82,9984
-11788,Dixon,IL,,city-us,17467,41.87,-89.46,1009
-11801,Dickson,TN,,city-us,16085,36.08,-87.39,4710
-11797,Dickson,OK,,city-us,1338,34.19,-96.98,3319
-11792,Dixon,MO,,city-us,1226,37.99,-92.09,4670
-11805,Dixon,MI,,city-us,1019,46.35,-86.75,4214
-11791,Dickson,MI,,city-us,982,44.30,-85.95,2736
-11790,Dixon,KY,,city-us,890,37.52,-87.69,3231
-11795,Dixon,NM,,city-us,655,36.20,-105.89,3480
-11789,Dixon,KS,,city-us,600,37.26,-97.75,0
-11796,Dixon,OH,,city-us,542,39.70,-84.76,1307
-11793,Dixon,MT,,city-us,309,47.32,-114.31,2289
-11787,Dixon,IA,,city-us,202,41.74,-90.78,2998
-11798,Dixon,OK,,city-us,173,35.16,-96.52,265
-11800,Dixon,SD,,city-us,127,44.67,-97.42,276
-11794,Dixon,NE,,city-us,78,42.42,-97.00,2775
-11802,Dixon,WY,,city-us,77,41.03,-107.54,3129
-11799,Dixon,SD,,city-us,0,43.38,-99.47,276
-11803,Dixon,IN,,city-us,0,40.95,-84.80,224
-11804,Dixon,IN,,city-us,0,39.07,-87.03,244
-11806,Dixon,OH,,city-us,0,40.95,-84.80,224
-11807,Dickson,WV,,city-us,0,37.77,-80.35,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5768,Brutus,NY,Cayuga County,,city-us,4290,43.046,-76.546,3069
+5769,Brutus,MI,Emmet County,,city-us,202,45.493,-84.781,1012
+5770,Brutus,VA,Pittsylvania County,,city-us,0,37.011,-79.269,1540

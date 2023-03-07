@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34592,Ingham,MI,,city-us,2393,42.56,-84.31,2166
-34593,Ingham,VA,,city-us,0,38.53,-78.58,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25839,Loveland,CO,Larimer County,,city-us,77194,40.398,-105.075,14982
+25838,Loveland,OH,Clermont County / Hamilton County / Warren County,,city-us,13191,39.268,-84.275,26049
+25840,Loveland,IA,Pottawattamie County,,city-us,36,41.497,-95.890,406
+25841,Loveland,OK,Tillman County,,city-us,15,34.305,-98.772,1736

@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28419,Smithton,IL,,city-us,4135,38.43,-89.98,722
-28420,Smithton,MO,,city-us,513,38.68,-93.09,3141
-28421,Smithton,PA,,city-us,343,40.15,-79.74,4390
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18840,Hardscrabble,ND,Williams County,,city-us,105,48.071,-103.943,0
+18837,Hardscrabble,OH,Coshocton County,,city-us,0,40.275,-81.826,93
+18838,Hardscrabble,VA,Highland County,,city-us,0,38.561,-79.573,260
+18839,Hardscrabble,IN,Madison County,,city-us,0,40.020,-85.843,366

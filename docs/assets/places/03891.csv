@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29553,Eugene,OR,,city-us,175096,44.05,-123.09,55402
-29552,Eugene,MO,,city-us,140,38.35,-92.40,399
-29551,Eugene,MO,,city-us,137,39.31,-93.36,124
-29550,Eugene,IN,,city-us,0,39.97,-87.47,850
-29554,Eugene,FL,,city-us,0,29.61,-83.09,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19904,Higgins,MI,Roscommon County,,city-us,1880,44.414,-84.562,2515
+19903,Higgins,TX,Lipscomb County,,city-us,345,36.120,-100.024,2310
+19905,Higgins,NC,Yancey County,,city-us,0,35.960,-82.380,2305

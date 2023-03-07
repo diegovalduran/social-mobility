@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42134,Dauphin,PA,,city-us,795,40.37,-76.93,11371
-42135,Dauphin,TX,,city-us,0,32.19,-95.92,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36855,River Falls,WI,Pierce County / St. Croix County,,city-us,16618,44.861,-92.624,7838
+36854,River Falls,WI,Pierce County,,city-us,2221,44.816,-92.574,7838
+36852,River Falls,AL,Covington County,,city-us,485,31.353,-86.539,2791
+36853,River Falls,MN,Pennington County,,city-us,186,47.990,-96.148,1874

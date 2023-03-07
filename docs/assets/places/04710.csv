@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33204,West Springfield,MA,,city-us,28629,42.13,-72.65,32709
-33205,West Springfield,VA,,city-us,23562,38.77,-77.22,2880
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24059,Lauderdale,MN,Ramsey County,,city-us,2212,44.999,-93.206,4251
+24058,Lauderdale,MS,Lauderdale County,,city-us,395,32.521,-88.511,868
+24060,Lauderdale,WI,Walworth County,,city-us,0,42.765,-88.556,323

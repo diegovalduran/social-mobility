@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28540,Strawn,TX,,city-us,549,32.55,-98.50,2820
-28539,Straughn,IN,,city-us,258,39.81,-85.29,3044
-28538,Strawn,IL,,city-us,102,40.65,-88.40,3277
-28541,Straughn,AL,,city-us,0,31.39,-86.42,394
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18961,Harpers Ferry,WV,Jefferson County,,city-us,269,39.325,-77.739,32930
+18960,Harpers Ferry,IA,Allamakee County,,city-us,264,43.201,-91.153,2988

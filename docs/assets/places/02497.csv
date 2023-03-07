@@ -1,7 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21038,Belle Plaine,KS,,city-us,3060,37.42,-97.29,6779
-21036,Belle Plaine,IA,,city-us,2332,41.90,-92.28,5188
-21041,Belle Plaine,WI,,city-us,1867,44.72,-88.67,2307
-21039,Belle Plaine,MN,,city-us,883,44.58,-93.71,1930
-21037,Bell Plain,IL,,city-us,314,40.97,-89.21,486
-21040,Belle Plaine,SD,,city-us,82,44.86,-98.17,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12469,DuPont,WA,Pierce County,,city-us,10112,47.097,-122.631,9975
+12468,Dupont,PA,Luzerne County,,city-us,2541,41.325,-75.745,2355
+12470,Dupont,LA,Pointe Coupee Parish,,city-us,900,30.644,-91.479,675
+12472,Dupont,WI,Waupaca County,,city-us,742,44.635,-88.927,1948
+12467,Dupont,IN,Jefferson County,,city-us,348,38.890,-85.514,3089
+12471,Dupont,OH,Putnam County,,city-us,209,41.056,-84.304,3187
+12465,Dupont,CO,Adams County,,city-us,0,39.838,-104.912,557
+12466,Dupont,FL,Flagler County,,city-us,0,29.427,-81.223,261

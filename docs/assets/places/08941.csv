@@ -1,3 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46768,Crichton,LA,,city-us,0,32.12,-93.43,112
-46769,Crichton,WV,,city-us,0,38.06,-80.72,813
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44832,Wakefield,MA,Middlesex County,,city-us,27104,42.504,-71.064,34452
+44828,Wakefield,VA,Fairfax County,,city-us,11534,38.825,-77.243,1711
+44824,Wakefield,NH,Carroll County,,city-us,5362,43.593,-71.008,6209
+44836,Wakefield,MN,Stearns County,,city-us,2779,45.467,-94.461,2262
+44827,Wakefield,NE,Dixon County / Wayne County,,city-us,1524,42.267,-96.863,3843
+44826,Wakefield,NE,Dixon County,,city-us,1382,42.314,-96.850,249
+44825,Wakefield,KS,Clay County,,city-us,846,39.213,-97.006,4014
+44837,Wakefield,VA,Sussex County,,city-us,720,36.968,-76.990,2868
+44831,Wakefield,PA,Lancaster County,,city-us,609,39.774,-76.179,1401
+44829,Wakefield,MI,Gogebic County,,city-us,310,46.548,-89.873,2779
+44830,Wakefield,IN,Jefferson County,,city-us,0,38.787,-85.560,484
+44833,Wakefield,OH,Pike County,,city-us,0,38.970,-83.020,324
+44834,Wakefield,IL,Richland County,,city-us,0,38.840,-88.244,322
+44835,Wakefield,KY,Spencer County,,city-us,0,37.972,-85.308,428
+44838,Wakefield,NC,Wake County,,city-us,0,35.842,-78.307,330
+44839,Wakefield,LA,West Feliciana Parish,,city-us,0,30.889,-91.350,550

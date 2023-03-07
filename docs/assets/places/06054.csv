@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38316,Holly Ridge,NC,,city-us,4420,34.50,-77.55,3045
-38317,Holly Ridge,LA,,city-us,0,32.47,-91.63,275
-38318,Holly Ridge,MS,,city-us,0,33.45,-90.75,590
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30963,Newfane,NY,Niagara County,,city-us,9267,43.290,-78.693,5204
+30964,Newfane,VT,Windham County,,city-us,95,42.986,-72.656,5398

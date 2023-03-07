@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29798,Kokomo,IN,,city-us,59691,40.49,-86.13,43225
-29799,Kokomo,MS,,city-us,150,31.20,-90.00,2934
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20187,Hines,OR,Harney County,,city-us,1665,43.564,-119.081,4126
+20182,Hines,MN,Beltrami County,,city-us,0,47.686,-94.633,242
+20183,Hines,IL,Cook County,,city-us,0,41.854,-87.839,421
+20184,Hines,FL,Dixie County,,city-us,0,29.739,-83.236,385
+20185,Hines,WI,Douglas County,,city-us,0,46.543,-91.908,251
+20186,Hines,WV,Greenbrier County,,city-us,0,37.983,-80.718,389

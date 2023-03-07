@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18651,St. Marks,FL,,city-us,286,30.16,-84.21,5953
-18652,St. Marks,KS,,city-us,124,37.74,-97.56,705
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10777,Cutler,CA,Tulare County,,city-us,5172,36.523,-119.287,4861
+10774,Cutler,KS,Franklin County,,city-us,795,38.525,-95.120,467
+10778,Cutler,ME,Washington County,,city-us,534,44.649,-67.225,3403
+10776,Cutler,IL,Perry County,,city-us,361,38.032,-89.566,1869
+10775,Cutler,WI,Juneau County,,city-us,282,44.026,-90.237,1986
+10772,Cutler,MN,Aitkin County,,city-us,0,46.358,-93.757,197
+10773,Cutler,IN,Carroll County,,city-us,0,40.476,-86.524,776
+10779,Cutler,OH,Washington County,,city-us,0,39.354,-81.790,749

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13070,Los Altos,CA,,city-us,30700,37.39,-122.11,15914
-13071,Los Altos,TX,,city-us,113,27.49,-99.39,567
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6703,Campbelltown,PA,Lebanon County,,city-us,5541,40.278,-76.585,3296
+6704,Campbelltown,IN,Pike County,,city-us,0,38.421,-87.240,224
+6705,Campbelltown,WV,Pocahontas County,,city-us,0,38.242,-80.091,167

@@ -1,27 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10794,Albion,NJ,,city-us,39907,39.70,-74.91,16328
-10781,Albion,MI,,city-us,7970,42.24,-84.75,7520
-10785,Albion,NY,,city-us,7815,43.23,-78.21,3302
-10776,Albion,IN,,city-us,2225,41.40,-85.42,4003
-10780,Albion,ME,,city-us,2035,44.51,-69.45,4586
-10786,Albion,NY,,city-us,2033,43.49,-76.03,8368
-10775,Albion,IL,,city-us,1921,38.38,-88.06,6483
-10790,Albion,WI,,city-us,1823,42.88,-89.07,4605
-10784,Albion,NE,,city-us,1706,41.69,-98.00,3892
-10788,Albion,PA,,city-us,1515,41.89,-80.37,4127
-10782,Albion,MN,,city-us,1265,45.19,-94.08,1919
-10791,Albion,WI,,city-us,1200,44.29,-90.97,2223
-10778,Albion,KS,,city-us,837,37.78,-97.96,262
-10792,Albion,WI,,city-us,699,44.55,-91.48,1830
-10789,Albion,WA,,city-us,544,46.79,-117.25,3606
-10773,Albion,IA,,city-us,446,42.11,-92.99,3284
-10772,Albion,CA,,city-us,274,39.22,-123.77,4061
-10774,Albion,ID,,city-us,242,42.41,-113.58,4080
-10779,Albion,KS,,city-us,130,39.96,-97.43,262
-10787,Albion,OK,,city-us,59,34.66,-95.10,5713
-10777,Albion,KS,,city-us,45,38.57,-98.87,262
-10783,Albion,ND,,city-us,40,46.07,-98.69,110
-10793,Albion,IN,,city-us,0,38.74,-85.73,247
-10795,Albion,NC,,city-us,0,36.52,-80.45,231
-10796,Albion,OH,,city-us,0,40.97,-82.16,267
-10797,Albion,TX,,city-us,0,33.86,-95.03,140
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5113,Brazos,TX,Palo Pinto County,,city-us,0,32.661,-98.122,174
+5114,Brazos,NM,Rio Arriba County,,city-us,0,36.751,-106.561,444

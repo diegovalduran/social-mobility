@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18501,Rockledge,FL,,city-us,28316,28.35,-80.73,14995
-18502,Rockledge,PA,,city-us,2623,40.08,-75.09,3171
-18503,Rockledge,GA,,city-us,0,32.44,-82.70,531
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10678,Cumminsville,NY,Livingston County,,city-us,107,42.571,-77.720,398
+10677,Cumminsville,KY,Bracken County,,city-us,0,38.718,-84.105,97

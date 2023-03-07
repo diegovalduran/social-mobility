@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46861,Maddox,MD,,city-us,0,38.33,-76.81,86
-46862,Maddox,TN,,city-us,0,35.16,-88.22,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45053,Walsh,CO,Baca County,,city-us,543,37.386,-102.278,2687
+45054,Walsh,WI,Marinette County,,city-us,0,45.179,-87.763,2049
+45055,Walsh,IL,Randolph County,,city-us,0,38.089,-89.851,162

@@ -1,34 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12385,Greenfield,WI,,city-us,37352,42.96,-88.01,5026
-12364,Greenfield,IN,,city-us,24009,39.79,-85.77,10033
-12360,Greenfield,CA,,city-us,19076,36.32,-121.24,10754
-12366,Greenfield,MA,,city-us,17652,42.59,-72.60,20782
-12373,Greenfield,NY,,city-us,8033,43.14,-73.87,5244
-12374,Greenfield,OH,,city-us,5768,39.78,-82.67,176
-12376,Greenfield,OH,,city-us,4335,39.35,-83.39,8748
-12359,Greenfield,CA,,city-us,3836,35.27,-119.00,2176
-12379,Greenfield,PA,,city-us,3762,40.31,-78.51,465
-12367,Greenfield,MN,,city-us,2895,45.10,-93.69,6366
-12381,Greenfield,PA,,city-us,2268,41.61,-75.59,465
-12384,Greenfield,WI,,city-us,2184,43.77,-91.08,2183
-12383,Greenfield,TN,,city-us,2075,36.15,-88.80,2423
-12361,Greenfield,IA,,city-us,2073,41.31,-94.46,13328
-12380,Greenfield,PA,,city-us,1799,42.12,-79.84,465
-12372,Greenfield,NH,,city-us,1710,42.94,-71.88,4266
-12377,Greenfield,OH,,city-us,1351,41.11,-82.69,176
-12368,Greenfield,MN,,city-us,1319,44.32,-91.98,1729
-12369,Greenfield,MO,,city-us,1200,37.42,-93.84,4109
-12362,Greenfield,IL,,city-us,1035,39.34,-90.21,2396
-12363,Greenfield,IL,,city-us,1003,41.15,-88.27,1792
-12387,Greenfield,WI,,city-us,911,43.46,-89.65,1760
-12386,Greenfield,WI,,city-us,679,44.05,-90.60,2041
-12375,Greenfield,OH,,city-us,476,38.81,-82.52,176
-12365,Greenfield,KS,,city-us,254,37.37,-96.46,544
-12378,Greenfield,OK,,city-us,112,35.73,-98.38,1879
-12371,Greenfield,ND,,city-us,86,47.28,-97.26,0
-12370,Greenfield,ND,,city-us,85,47.28,-98.15,225
-12382,Greenfield,SD,,city-us,35,45.80,-98.30,0
-12388,Greenfield,AR,,city-us,0,35.63,-90.71,1006
-12389,Greenfield,MS,,city-us,0,32.25,-90.05,397
-12390,Greenfield,VA,,city-us,0,37.93,-78.84,104
-12391,Greenfield,VA,,city-us,0,36.94,-79.28,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6137,Burley,ID,Cassia County / Minidoka County,,city-us,11863,42.537,-113.791,7657
+6138,Burley,WA,Kitsap County,,city-us,2499,47.418,-122.631,1873

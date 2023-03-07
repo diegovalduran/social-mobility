@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29335,Browns Crossing,IN,,city-us,0,39.41,-86.51,0
-29336,Browns Crossing,GA,,city-us,0,33.05,-83.36,338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19702,Henryville,IN,Clark County,,city-us,1791,38.542,-85.768,3588
+19705,Henryville,MN,Renville County,,city-us,177,44.672,-95.056,1834
+19703,Henryville,TN,Lawrence County,,city-us,0,35.392,-87.394,499
+19704,Henryville,PA,Monroe County,,city-us,0,41.094,-75.241,350

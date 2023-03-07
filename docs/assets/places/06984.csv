@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41095,Paint,OH,,city-us,4844,39.24,-83.45,306
-41096,Paint,OH,,city-us,4542,40.63,-81.71,306
-41099,Paint,OH,,city-us,3503,40.71,-81.72,306
-41094,Paint,OH,,city-us,1814,39.66,-83.46,306
-41100,Paint,PA,,city-us,1634,41.24,-79.41,364
-41098,Paint,OH,,city-us,1311,39.28,-83.32,306
-41101,Paint,PA,,city-us,899,40.24,-78.85,2226
-41097,Paint,OH,,city-us,580,39.82,-83.51,306
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35526,Pueblo,CO,Pueblo County,,city-us,112368,38.254,-104.609,35120
+35527,Pueblo,NM,San Miguel County,,city-us,0,35.327,-105.435,458
+35528,Pueblo,IN,Spencer County,,city-us,0,37.826,-87.110,261

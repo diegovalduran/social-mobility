@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14473,Tobin,SD,,city-us,116,43.54,-98.14,0
-14472,Tobin,CA,,city-us,0,39.94,-121.31,3546
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7777,Chaffee,MO,Scott County,,city-us,3033,37.180,-89.655,4555
+7775,Chaffee,ND,Cass County,,city-us,0,46.774,-97.353,471
+7776,Chaffee,WV,Mineral County,,city-us,0,39.406,-79.162,314
+7778,Chaffey,WI,Douglas County,,city-us,0,46.398,-92.164,355

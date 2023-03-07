@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27629,Partridge,IL,,city-us,578,40.87,-89.46,340
-27631,Partridge,MN,,city-us,569,46.21,-92.74,2330
-27630,Partridge,KS,,city-us,209,37.97,-98.09,4260
-27632,Partridge,KY,,city-us,0,37.01,-82.90,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18201,Griswold,CT,Southeastern Connecticut Planning Region,,city-us,11407,41.585,-71.921,4029
+18199,Griswold,IA,Cass County,,city-us,993,41.235,-95.137,3304
+18200,Griswold,MO,Oregon County,,city-us,0,36.511,-91.145,277

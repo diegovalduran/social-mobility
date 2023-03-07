@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33970,Backus,MI,,city-us,300,44.27,-84.54,2639
-33971,Backus,MN,,city-us,267,46.82,-94.52,3172
-33972,Backus,WV,,city-us,0,37.85,-80.97,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25247,Littlefield,TX,Lamb County,,city-us,5871,33.917,-102.325,10636
+25246,Littlefield,MI,Emmet County,,city-us,3215,45.432,-84.785,2472
+25248,Littlefield,AZ,Mohave County,,city-us,74,36.887,-113.930,1806

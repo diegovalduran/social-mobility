@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40619,Red House,NY,,city-us,30,42.07,-78.74,9223
-40620,Red House,VA,,city-us,0,37.19,-78.81,93
-40621,Red House,WV,,city-us,0,38.54,-81.90,2194
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34755,Plum Creek,VA,Montgomery County,,city-us,920,37.130,-80.501,158
+34753,Plum Creek,NE,Butler County,,city-us,169,41.094,-97.078,248
+34754,Plum Creek,KS,Mitchell County,,city-us,124,39.520,-98.095,0

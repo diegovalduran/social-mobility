@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26270,Junction,TX,,city-us,2494,30.49,-99.77,8894
-26269,Junction,KS,,city-us,1207,38.68,-95.56,0
-26271,Junction,UT,,city-us,219,38.24,-112.22,2325
-26268,Junction,IL,,city-us,56,37.72,-88.24,3594
-26272,Junction,ID,,city-us,0,44.70,-113.37,360
-26273,Junction,OH,,city-us,0,41.19,-84.46,618
-26274,Junction,WV,,city-us,0,39.31,-78.86,452
-26275,Junction,WI,,city-us,0,45.01,-90.90,2151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16933,Glenbrook,NV,Douglas County,,city-us,253,39.089,-119.939,1849
+16932,Glenbrook,OR,Benton County,,city-us,0,44.314,-123.406,190

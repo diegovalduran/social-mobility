@@ -1,8 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30287,South Bend,IN,,city-us,103353,41.68,-86.25,49715
-30292,South Bend,WA,,city-us,1760,46.66,-123.80,4205
-30289,South Bend,MN,,city-us,1577,44.14,-94.09,3740
-30288,South Bend,KS,,city-us,565,38.30,-98.75,406
-30290,South Bend,NE,,city-us,97,41.00,-96.25,3266
-30291,South Bend,PA,,city-us,0,40.63,-79.37,221
-30293,South Bend,TX,,city-us,0,33.00,-98.67,1324
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20804,Houston,TX,Fort Bend County / Harris County / Montgomery County / Waller County,,city-us,2288250,29.786,-95.389,84422
+20803,Houston,MS,Chickasaw County,,city-us,3772,33.898,-88.999,6446
+20815,Houston,MO,Texas County,,city-us,2134,37.326,-91.956,3983
+20809,Houston,AK,Matanuska-Susitna Borough,,city-us,2067,61.630,-149.818,4674
+20817,Houston,PA,Washington County,,city-us,1158,40.246,-80.211,3414
+20806,Houston,MN,Houston County,,city-us,983,43.763,-91.568,5740
+20808,Houston,DE,Kent County,,city-us,389,38.918,-75.505,2344
+20802,Houston,IL,Adams County,,city-us,210,40.157,-91.093,2356
+20810,Houston,AR,Perry County,,city-us,144,35.033,-92.695,2098
+20813,Houston,KS,Smith County,,city-us,128,39.615,-98.886,219
+20805,Houston,GA,Heard County,,city-us,0,33.159,-85.138,412
+20807,Houston,IN,Jackson County,,city-us,0,39.016,-86.191,329
+20811,Houston,IL,Randolph County,,city-us,0,38.159,-89.781,161
+20812,Houston,OH,Shelby County,,city-us,0,40.254,-84.337,1569
+20814,Houston,FL,Suwannee County,,city-us,0,30.257,-82.903,328
+20816,Houston,NC,Union County,,city-us,0,34.958,-80.628,101
+20818,Houston,TN,Wayne County,,city-us,0,35.241,-87.918,711
+20819,Houston,AL,Winston County,,city-us,0,34.141,-87.258,482
+20820,Houston,NE,York County,,city-us,0,40.916,-97.540,262

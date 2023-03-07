@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41744,Crabtree,OR,,city-us,406,44.63,-122.90,2211
-41745,Crabtree,PA,,city-us,148,40.36,-79.47,2606
-41746,Crabtree,CA,,city-us,0,36.84,-119.09,286
-41747,Crabtree,NC,,city-us,0,35.60,-82.94,545
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36291,Remus,MI,Mecosta County,,city-us,1474,43.597,-85.146,3036
+36292,Remus,GA,Paulding County,,city-us,0,33.986,-84.893,305
+36293,Remus,WV,Wood County,,city-us,0,39.161,-81.691,85

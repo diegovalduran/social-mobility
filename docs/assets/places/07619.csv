@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43219,Tea,SD,,city-us,6256,43.45,-96.84,3551
-43220,Ti,OK,,city-us,0,34.71,-95.66,247
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38637,Sans Souci,SC,Greenville County,,city-us,8421,34.878,-82.424,2602
+38638,Sans Souci,AR,Mississippi County,,city-us,0,35.653,-89.949,174
+38639,Sans Souci,MI,St. Clair County,,city-us,0,42.579,-82.564,1347

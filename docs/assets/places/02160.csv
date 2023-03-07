@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18704,Three Oaks,FL,,city-us,5158,26.47,-81.79,2405
-18705,Three Oaks,MI,,city-us,2293,41.79,-86.62,1972
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10819,Daggett,MI,Menominee County,,city-us,606,45.476,-87.550,1867
+10821,Daggett,CA,San Bernardino County,,city-us,200,34.863,-116.888,7905
+10820,Daggett,IN,Owen County,,city-us,0,39.216,-87.039,464
+10822,Daggett,PA,Tioga County,,city-us,0,41.949,-76.926,361

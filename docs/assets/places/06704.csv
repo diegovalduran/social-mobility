@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40332,Brockport,NY,,city-us,6961,43.21,-77.94,7470
-40333,Brockport,PA,,city-us,0,41.26,-78.73,126
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34065,Pin Hook,MO,Iron County,,city-us,0,37.679,-90.736,237
+34066,Pin Hook,AL,Marengo County,,city-us,0,32.358,-87.872,164
+34067,Pin Hook,IN,Parke County,,city-us,0,39.815,-87.127,156

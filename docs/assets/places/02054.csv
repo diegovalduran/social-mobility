@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18147,Lake Placid,FL,,city-us,2424,27.29,-81.36,7298
-18148,Lake Placid,NY,,city-us,2245,44.28,-73.98,16336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10362,Crestview,FL,Okaloosa County,,city-us,27820,30.762,-86.571,15223
+10359,Crestview,KY,Campbell County,,city-us,447,39.025,-84.417,2435
+10360,Crestview,NM,McKinley County,,city-us,193,35.487,-108.854,665
+10358,Crestview,GA,Baker County,,city-us,0,31.267,-84.149,2003
+10361,Crestview,CA,Mono County,,city-us,0,37.752,-118.984,254

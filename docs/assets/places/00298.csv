@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3538,Lipscomb,AL,,city-us,2049,33.43,-86.93,4331
-3539,Lipscomb,TX,,city-us,37,36.23,-100.27,2363
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1551,Aroma,IL,Kankakee County,,city-us,4826,41.073,-87.785,1643
+1550,Aroma,IN,Hamilton County,,city-us,0,40.199,-85.874,404
+1552,Aroma,MO,Newton County,,city-us,0,36.864,-94.265,461

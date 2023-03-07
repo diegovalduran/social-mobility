@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41357,Bug Tussle,OK,,city-us,87,35.03,-95.69,0
-41358,Bug Tussle,AL,,city-us,0,33.99,-86.97,1443
-41359,Bug Tussle,TX,,city-us,0,33.48,-95.94,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35840,Randlett,OK,Cotton County,,city-us,290,34.177,-98.464,2375
+35841,Randlett,UT,Uintah County,,city-us,49,40.233,-109.808,2124

@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47223,Catalpa,MO,,city-us,0,36.88,-89.29,185
-47224,Catalpa,NE,,city-us,0,42.78,-98.87,200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46047,West Lebanon,PA,Lebanon County,,city-us,832,40.343,-76.447,1988
+46048,West Lebanon,IN,Warren County,,city-us,685,40.270,-87.387,4148
+46045,West Lebanon,NH,Grafton County,,city-us,0,43.649,-72.310,1117
+46046,West Lebanon,PA,Indiana County,,city-us,0,40.602,-79.354,1230
+46049,West Lebanon,OH,Wayne County,,city-us,0,40.724,-81.668,372

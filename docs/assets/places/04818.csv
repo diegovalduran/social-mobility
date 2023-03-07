@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33582,Trappe,PA,,city-us,4008,40.20,-75.48,4892
-33581,Trappe,MD,,city-us,1182,38.66,-76.06,4442
-33583,Trapp,KY,,city-us,0,37.88,-84.06,378
-33584,Trapp,VA,,city-us,0,39.06,-77.87,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24568,Levis,,,Canada,city-international,143414,46.800,-71.183,1509
+24566,Levis,WI,Clark County,,city-us,443,44.472,-90.639,1831
+24567,Levis,WI,Jackson County,,city-us,0,44.539,-91.105,231

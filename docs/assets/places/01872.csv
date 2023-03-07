@@ -1,13 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16940,Roxbury,NJ,,city-us,23161,40.89,-74.65,15079
-16936,Roxbury,CT,,city-us,2269,41.56,-73.30,5654
-16941,Roxbury,NY,,city-us,2243,42.32,-74.53,4083
-16943,Roxbury,WI,,city-us,1700,43.25,-89.68,11614
-16942,Roxbury,VT,,city-us,669,44.07,-72.73,7690
-16938,Roxbury,ME,,city-us,367,44.66,-70.60,4243
-16939,Roxbury,NH,,city-us,224,42.95,-72.20,3529
-16937,Roxbury,KS,,city-us,14,38.55,-97.43,1211
-16944,Roxbury,IL,,city-us,0,41.70,-89.04,153
-16945,Roxbury,OH,,city-us,0,39.52,-81.75,208
-16946,Roxbury,PA,,city-us,0,40.11,-77.66,349
-16947,Roxbury,VA,,city-us,0,37.47,-77.14,107
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9619,Condit,MI,Calhoun County,,city-us,1123,42.196,-84.763,2533
+9620,Condit,IL,Champaign County,,city-us,470,40.257,-88.280,2530
+9621,Condit,OH,Delaware County,,city-us,0,40.260,-82.788,358

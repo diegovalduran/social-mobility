@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47601,Whipple,OH,,city-us,0,39.52,-81.41,635
-47602,Whipple,WV,,city-us,0,37.96,-81.17,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46939,Williamson,NY,Wayne County,,city-us,6839,43.246,-77.194,9008
+46940,Williamson,AZ,Yavapai County,,city-us,5651,34.690,-112.541,2075
+46937,Williamson,WV,Mingo County,,city-us,2968,37.674,-82.277,6384
+46938,Williamson,GA,Pike County,,city-us,706,33.182,-84.362,2613
+46936,Williamson,IL,Madison County,,city-us,182,38.986,-89.764,2289
+46935,Williamson,IA,Lucas County,,city-us,121,41.088,-93.255,4036
+46934,Williamson,PA,Franklin County,,city-us,0,39.853,-77.797,641

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26144,Hurst,TX,,city-us,40055,32.82,-97.17,5680
-26143,Hurst,IL,,city-us,757,37.83,-89.14,2729
-26145,Hearst,CA,,city-us,0,39.49,-123.21,830
-26146,Hurst,WV,,city-us,0,39.07,-80.70,241
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16844,Gipsy,MO,Bollinger County,,city-us,0,37.147,-90.179,714
+16845,Gipsy,PA,Indiana County,,city-us,0,40.807,-78.876,210

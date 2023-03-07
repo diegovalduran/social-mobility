@@ -1,4 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46778,Saint Benedict,LA,,city-us,0,30.53,-90.11,218
-46779,Saint Benedict,OR,,city-us,0,45.06,-122.77,735
-46780,Saint Benedict,PA,,city-us,0,40.63,-78.73,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44858,Walden,NY,Orange County,,city-us,6829,41.561,-74.188,15087
+44855,Walden,TN,Hamilton County,,city-us,2005,35.165,-85.301,2768
+44853,Walden,VT,Caledonia County,,city-us,958,44.488,-72.225,2452
+44856,Walden,CO,Jackson County,,city-us,597,40.732,-106.284,3468
+44854,Walden,MN,Cass County,,city-us,552,46.667,-94.471,160
+44859,Walden,MN,Pope County,,city-us,181,45.539,-95.685,160
+44852,Walden,GA,Bibb County,,city-us,0,32.708,-83.666,297
+44857,Walden,OR,Lane County,,city-us,0,43.775,-123.005,1289

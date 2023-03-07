@@ -1,22 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4651,Rock Creek,MN,,city-us,1738,45.76,-92.96,3267
-4642,Rock Creek,AL,,city-us,1520,33.48,-87.08,3693
-4655,Rock Creek,WI,,city-us,999,44.73,-91.72,2173
-4645,Rock Creek,KS,,city-us,925,38.39,-95.59,447
-4649,Rock Creek,KS,,city-us,678,39.44,-96.41,447
-4653,Rock Creek,OH,,city-us,667,41.66,-80.86,3930
-4648,Rock Creek,KS,,city-us,453,39.86,-95.85,447
-4643,Rock Creek,IL,,city-us,317,40.51,-91.19,1068
-4644,Rock Creek,KS,,city-us,300,37.51,-96.89,447
-4652,Rock Creek,NE,,city-us,283,41.09,-96.74,252
-4646,Rock Creek,KS,,city-us,260,37.43,-96.98,447
-4654,Rock Creek,SD,,city-us,74,43.90,-97.67,0
-4650,Rock Creek,KS,,city-us,50,38.79,-96.29,447
-4647,Rock Creek,KS,,city-us,0,39.25,-95.54,624
-4656,Rock Creek,IL,,city-us,0,40.05,-91.40,291
-4657,Rock Creek,IL,,city-us,0,37.54,-88.23,243
-4658,Rock Creek,OR,,city-us,0,44.91,-118.04,423
-4659,Rock Creek,OR,,city-us,0,45.57,-120.30,554
-4660,Rock Creek,TX,,city-us,0,32.19,-97.72,629
-4661,Rock Creek,WV,,city-us,0,38.10,-81.85,166
-4662,Rock Creek,WV,,city-us,0,37.85,-81.45,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2147,Babcock,MI,Calhoun County,,city-us,1123,42.196,-84.763,2533
+2149,Babcock,WI,Wood County,,city-us,82,44.302,-90.111,756
+2148,Babcock,GA,Miller County,,city-us,0,31.113,-84.642,420

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43771,Panhandle,TX,,city-us,2337,35.35,-101.38,4269
-43772,Panhandle,OH,,city-us,0,40.36,-80.87,412
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39491,Shelley,ID,Bingham County,,city-us,5032,43.381,-112.123,6132
+39495,Shelly,MN,Norman County,,city-us,89,47.452,-96.780,1823
+39494,Shelly,PA,Bucks County,,city-us,0,40.481,-75.372,273

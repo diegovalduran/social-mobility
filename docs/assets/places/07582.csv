@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43102,Horse Creek,WI,,city-us,1625,45.26,-92.58,2173
-43098,Horse Creek,SD,,city-us,153,43.53,-100.74,817
-43099,Horse Creek,SD,,city-us,38,45.90,-102.87,817
-43100,Horse Creek,CA,,city-us,0,41.82,-123.00,1628
-43101,Horse Creek,TN,,city-us,0,36.16,-82.66,713
-43103,Horse Creek,WY,,city-us,0,41.41,-105.18,837
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38470,San Pablo,,,Philippines,city-international,285348,14.070,121.325,2025
+38466,San Pablo,CA,Contra Costa County,,city-us,31773,37.962,-122.346,9038
+38468,San Pablo,NM,Do��a Ana County,,city-us,1041,32.250,-106.773,394
+38467,San Pablo,CO,Costilla County,,city-us,0,37.147,-105.395,574
+38469,San Pablo,AZ,Maricopa County,,city-us,0,33.426,-111.933,561

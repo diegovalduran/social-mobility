@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38494,Sylva,NC,,city-us,2618,35.37,-83.23,7437
-38495,Silva,MO,,city-us,0,37.18,-90.46,588
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31277,Normal,IL,McLean County,,city-us,53594,40.514,-88.991,29995
+31276,Normal,ND,McHenry County,,city-us,52,48.496,-100.330,0
+31274,Normal,KY,Boyd County,,city-us,0,38.444,-82.612,1974
+31275,Normal,IN,Grant County,,city-us,0,40.465,-85.825,260

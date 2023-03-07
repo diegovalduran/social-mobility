@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46034,Howesville,IN,,city-us,0,39.18,-87.15,344
-46035,Howesville,WV,,city-us,0,39.44,-79.76,1473
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43340,Trout Lake,MN,Itasca County,,city-us,1063,47.240,-93.382,8297
+43341,Trout Lake,WA,Klickitat County,,city-us,732,45.997,-121.528,2125
+43339,Trout Lake,MI,Chippewa County,,city-us,337,46.208,-84.952,2176

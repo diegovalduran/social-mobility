@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10690,Whitman,MA,,city-us,15279,42.08,-70.94,11747
-10695,Whitman,WV,,city-us,1250,37.81,-82.02,3605
-10689,Wittmann,AZ,,city-us,686,33.78,-112.53,3608
-10691,Wittman,MD,,city-us,0,38.79,-76.29,320
-10692,Whitman,MN,,city-us,0,44.15,-91.81,107
-10693,Whitman,NE,,city-us,0,42.04,-101.52,543
-10694,Whitman,ND,,city-us,0,48.16,-98.12,976
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5085,Brantford,SD,Hamlin County,,city-us,137,44.768,-97.400,0
+5086,Brantford,KS,Washington County,,city-us,71,39.693,-97.311,0

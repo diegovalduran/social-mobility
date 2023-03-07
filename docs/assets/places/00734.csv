@@ -1,8 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8273,Odin,IL,,city-us,913,38.62,-89.05,13470
-8275,Oden,MI,,city-us,358,45.42,-84.83,877
-8272,Oden,AR,,city-us,182,34.62,-93.78,2604
-8276,Odin,MN,,city-us,162,43.89,-94.80,1918
-8274,Odin,KS,,city-us,88,38.57,-98.61,902
-8277,Odin,ND,,city-us,47,47.99,-100.64,0
-8278,Odin,MO,,city-us,0,37.27,-92.62,426
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3843,Beulah,AL,Lee County,,city-us,6173,32.711,-85.182,579
+3845,Beulah,ND,Mercer County,,city-us,3038,47.263,-101.778,3891
+3842,Beulah,SD,Hanson County,,city-us,534,43.529,-97.798,0
+3838,Beulah,SD,Davison County,,city-us,350,43.711,-98.137,0
+3832,Beulah,MI,Benzie County,,city-us,306,44.632,-86.091,3236
+3833,Beulah,MS,Bolivar County,,city-us,244,33.787,-90.980,5559
+3834,Beulah,MN,Cass County,,city-us,72,46.862,-93.853,2253
+3835,Beulah,IA,Clayton County,,city-us,0,43.027,-91.308,161
+3836,Beulah,KS,Crawford County,,city-us,0,37.440,-94.828,529
+3837,Beulah,WY,Crook County,,city-us,0,44.544,-104.089,1506
+3839,Beulah,MD,Dorchester County,,city-us,0,38.678,-75.899,153
+3840,Beulah,GA,Douglas County,,city-us,0,33.933,-82.629,143
+3841,Beulah,VA,Gloucester County,,city-us,0,37.384,-76.442,93
+3844,Beulah,OR,Malheur County,,city-us,0,43.907,-118.153,466
+3846,Beulah,MO,Phelps County,,city-us,0,37.624,-91.917,490
+3847,Beulah,CO,Pueblo County,,city-us,0,38.076,-104.986,4195
+6039,Bula,TX,Bailey County,,city-us,0,33.911,-102.638,1693

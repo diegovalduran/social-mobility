@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30146,Poland,,,country,37991766,51.92,19.15,74076
-30141,Poland,ME,,city-us,5966,44.05,-70.39,9456
-30144,Poland,OH,,city-us,2420,41.02,-80.61,5902
-30142,Poland,NY,,city-us,2183,42.13,-79.12,3590
-30143,Poland,NY,,city-us,484,43.23,-75.06,3918
-30140,Poland,IN,,city-us,0,39.44,-86.95,4127
-30145,Poland,WI,,city-us,0,44.44,-87.83,565
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20623,Hopeville,IA,Clarke County,,city-us,0,40.943,-93.997,179
+20624,Hopeville,WV,Grant County,,city-us,0,38.967,-79.287,344
+20625,Hopeville,IN,Union County,,city-us,0,39.704,-84.974,161

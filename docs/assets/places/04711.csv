@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33206,Weymouth,MA,,city-us,57670,42.21,-70.94,19592
-33207,Weymouth,NJ,,city-us,2640,39.40,-74.83,17046
-33208,Weymouth,OH,,city-us,0,41.19,-81.79,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24061,Lauderdale Lakes,FL,Broward County,,city-us,35609,26.166,-80.208,5173
+24062,Lauderdale Lakes,WI,Walworth County,,city-us,1370,42.772,-88.581,804

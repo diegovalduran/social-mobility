@@ -1,3 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40287,Babylon,NY,,city-us,218296,40.64,-73.32,6640
-40288,Babylon,IL,,city-us,0,40.59,-90.35,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33973,Pierce,OH,Clermont County,,city-us,15199,39.024,-84.268,1452
+33978,Pierce,NE,Pierce County,,city-us,1832,42.199,-97.527,3383
+33981,Pierce,CO,Weld County,,city-us,1097,40.636,-104.755,2740
+33976,Pierce,WI,Kewaunee County,,city-us,776,44.536,-87.490,1930
+33972,Pierce,ID,Clearwater County,,city-us,472,46.491,-115.799,3112
+33979,Pierce,MO,Texas County,,city-us,472,37.093,-91.843,326
+33974,Pierce,IL,DeKalb County,,city-us,435,41.848,-88.658,950
+33971,Pierce,ND,Barnes County,,city-us,67,47.203,-98.392,130
+33975,Pierce,KY,Green County,,city-us,0,37.186,-85.608,210
+33977,Pierce,OK,McIntosh County,,city-us,0,35.435,-95.716,195
+33980,Pierce,WV,Tucker County,,city-us,0,39.174,-79.510,169
+33982,Pierce,TX,Wharton County,,city-us,0,29.239,-96.200,1372

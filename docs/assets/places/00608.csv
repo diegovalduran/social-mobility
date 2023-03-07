@@ -1,11 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6765,Floyd,NY,,city-us,3691,43.24,-75.32,3862
-6767,Floyd,VA,,city-us,450,36.91,-80.32,3902
-6763,Floyd,IL,,city-us,406,40.85,-90.50,284
-6761,Floyd,AR,,city-us,377,35.19,-91.97,2517
-6762,Floyd,IA,,city-us,308,43.13,-92.74,3039
-6764,Floyd,NM,,city-us,85,34.21,-103.58,1920
-6766,Floyd,SD,,city-us,64,44.15,-98.03,0
-6768,Floyd,MO,,city-us,0,39.19,-94.11,490
-6769,Floyd,MO,,city-us,0,37.95,-90.95,265
-6770,Floyd,TX,,city-us,0,33.15,-96.25,1489
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3068,Beech Creek,PA,Clinton County,,city-us,966,41.154,-77.729,1941
+3069,Beech Creek,OR,Grant County,,city-us,0,44.619,-119.149,530
+3070,Beech Creek,KY,Muhlenberg County,,city-us,0,37.177,-87.063,220
+3071,Beech Creek,TN,Wayne County,,city-us,0,35.420,-87.981,147

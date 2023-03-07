@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24505,Broadlands,VA,,city-us,14835,39.02,-77.52,2248
-24504,Broadlands,IL,,city-us,308,39.91,-87.99,3244
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15373,Forest Lake,MN,Washington County,,city-us,20608,45.279,-92.985,7558
+15371,Forest Lake,IL,Lake County,,city-us,1476,42.208,-88.056,2678
+15372,Forest Lake,PA,Susquehanna County,,city-us,1117,41.882,-76.000,1897
+15370,Forest Lake,MI,Alger County,,city-us,1019,46.353,-86.752,4214

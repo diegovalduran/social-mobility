@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11953,Elk Grove,CA,,city-us,178997,38.41,-121.37,8248
-11954,Elk Grove,IL,,city-us,93384,42.03,-87.98,2850
-11955,Elk Grove,WI,,city-us,551,42.67,-90.39,2017
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5888,Buckner,KY,Oldham County,,city-us,5435,38.384,-85.440,1925
+5886,Buckner,MO,Jackson County,,city-us,2920,39.133,-94.199,4495
+5885,Buckner,IL,Franklin County,,city-us,401,37.983,-89.016,2762
+5887,Buckner,AR,Lafayette County,,city-us,157,33.358,-93.436,2142
+5884,Buckner,TX,Collin County,,city-us,0,33.218,-96.664,94
+5889,Buckner,LA,Richland Parish,,city-us,0,32.301,-91.939,142

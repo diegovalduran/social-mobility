@@ -1,11 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37240,Hurley,NY,,city-us,6192,41.96,-74.12,7446
-37242,Hurley,WI,,city-us,1560,46.45,-90.19,20207
-37237,Hurley,MS,,city-us,1386,30.66,-88.49,2862
-37239,Hurley,NM,,city-us,1247,32.70,-108.13,2434
-37241,Hurley,SD,,city-us,381,43.28,-97.09,2938
-37236,Hurley,MO,,city-us,177,36.93,-93.50,3106
-37238,Hurley,ND,,city-us,64,48.84,-101.55,0
-37243,Hurley,AL,,city-us,0,34.27,-85.62,260
-37244,Hurley,TN,,city-us,0,35.14,-88.37,194
-37245,Hurley,VA,,city-us,0,37.42,-82.02,1179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29536,Morrill,ME,Waldo County,,city-us,991,44.428,-69.170,7823
+29535,Morrill,NE,Scotts Bluff County,,city-us,930,41.963,-103.926,3991
+29533,Morrill,KS,Brown County,,city-us,478,39.954,-95.724,493
+29534,Morrill,MN,Morrison County,,city-us,0,45.839,-93.970,340

@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6182,Central City,KY,,city-us,5912,37.29,-87.12,8227
-6183,Central City,NE,,city-us,3032,41.12,-98.00,10717
-6180,Central City,IA,,city-us,1254,42.20,-91.52,3383
-6181,Central City,IL,,city-us,1100,38.55,-89.13,2271
-6184,Central City,PA,,city-us,989,40.11,-78.80,4453
-6179,Central City,CO,,city-us,785,39.80,-105.51,6766
-6178,Central City,AR,,city-us,464,35.32,-94.25,2282
-6185,Central City,SD,,city-us,97,44.37,-103.77,3316
-6186,Central City,AL,,city-us,0,31.24,-85.89,309
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2793,Baytown,TX,Chambers County / Harris County,,city-us,82480,29.765,-94.967,22098
+2794,Baytown,MN,Washington County,,city-us,2129,45.009,-92.825,2178

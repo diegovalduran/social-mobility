@@ -1,16 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29086,White Rock,NM,,city-us,5716,35.83,-106.20,8522
-29084,White Rock,KS,,city-us,73,39.87,-97.87,168
-29085,White Rock,KS,,city-us,29,39.86,-98.56,1400
-29083,White Rock,KS,,city-us,9,38.63,-100.31,1400
-29087,White Rock,SD,,city-us,8,45.92,-96.57,3055
-29082,White Rock,IL,,city-us,0,42.04,-89.13,153
-29088,White Rock,AR,,city-us,0,35.58,-93.97,130
-29089,White Rock,AR,,city-us,0,36.08,-94.25,234
-29090,White Rock,MI,,city-us,0,43.71,-82.61,2836
-29091,White Rock,MN,,city-us,0,44.46,-92.77,439
-29092,White Rock,MO,,city-us,0,39.33,-93.28,581
-29093,White Rock,NM,,city-us,0,36.09,108.27,395
-29094,White Rock,NC,,city-us,0,35.95,-82.70,281
-29095,White Rock,SC,,city-us,0,34.15,-81.28,874
-29096,White Rock,VA,,city-us,0,37.89,-79.06,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19445,Hazel Dell,WA,Clark County,,city-us,21650,45.672,-122.663,5204
+19446,Hazel Dell,TX,Comanche County,,city-us,0,31.882,-98.332,1906
+19447,Hazel Dell,IL,Cumberland County,,city-us,0,39.202,-88.041,136

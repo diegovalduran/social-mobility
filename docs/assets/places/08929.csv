@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46736,Three States,LA,,city-us,0,33.02,-94.04,404
-46737,Three States,TX,,city-us,0,33.02,-94.04,404
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44797,Wagoner,OK,Wagoner County,,city-us,7846,35.960,-95.369,7632
+44786,Wagener,SC,Aiken County,,city-us,645,33.652,-81.361,3605
+44787,Waggoner,IL,Montgomery County,,city-us,179,39.378,-89.653,2068
+44796,Wagoner,WV,Mineral County,,city-us,0,39.538,-78.672,299

@@ -1,3 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41944,Ben Avon,SC,,city-us,2175,34.94,-81.88,968
-41943,Ben Avon,PA,,city-us,1893,40.51,-80.08,4422
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36475,Richfield,MN,Hennepin County,,city-us,36527,44.883,-93.283,14327
+36489,Richfield,WI,Washington County,,city-us,11810,43.256,-88.194,7094
+36474,Richfield,MI,Genesee County,,city-us,8970,43.097,-83.525,323
+36484,Richfield,UT,Sevier County,,city-us,8262,38.772,-112.084,10386
+36487,Richfield,OH,Summit County,,city-us,6406,41.246,-81.641,211
+36482,Richfield,MI,Roscommon County,,city-us,3567,44.342,-84.451,323
+36481,Richfield,NY,Otsego County,,city-us,2082,42.851,-75.048,6686
+36479,Richfield,OH,Lucas County,,city-us,1584,41.690,-83.830,211
+36490,Richfield,WI,Wood County,,city-us,1581,44.548,-90.132,2079
+36476,Richfield,OH,Henry County,,city-us,614,41.298,-83.941,211
+36486,Richfield,NC,Stanly County,,city-us,587,35.470,-80.258,2444
+36488,Richfield,CA,Tehama County,,city-us,499,39.975,-122.177,2759
+36478,Richfield,ID,Lincoln County,,city-us,442,43.049,-114.156,3122
+36477,Richfield,PA,Juniata County / Snyder County,,city-us,387,40.684,-77.124,2441
+36472,Richfield,WI,Adams County,,city-us,140,44.024,-89.645,1791
+36483,Richfield,NE,Sarpy County,,city-us,47,41.108,-96.075,818
+36480,Richfield,KS,Morton County,,city-us,28,37.266,-101.782,3545
+36471,Richfield,IL,Adams County,,city-us,26,39.815,-91.116,135
+36485,Richfield,SD,Spink County,,city-us,22,44.849,-98.028,0
+36473,Richfield,IA,Fayette County,,city-us,0,42.950,-92.063,82

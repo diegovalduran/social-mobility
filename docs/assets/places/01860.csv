@@ -1,22 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16825,Plainfield,IL,,city-us,82572,41.59,-88.20,830
-16831,Plainfield,NJ,,city-us,54936,40.63,-74.41,50207
-16824,Plainfield,IL,,city-us,45398,41.63,-88.25,11067
-16826,Plainfield,IN,,city-us,35592,39.70,-86.40,8734
-16829,Plainfield,MI,,city-us,33713,43.07,-85.61,4702
-16822,Plainfield,CT,,city-us,14959,41.69,-71.90,5499
-16835,Plainfield,PA,,city-us,6257,40.82,-75.26,2931
-16828,Plainfield,MI,,city-us,3375,44.42,-83.77,205
-16842,Plainfield,MI,,city-us,3366,42.46,-84.07,5767
-16830,Plainfield,NH,,city-us,2468,43.54,-72.30,5633
-16832,Plainfield,NY,,city-us,933,42.83,-75.19,3116
-16838,Plainfield,WI,,city-us,930,44.21,-89.49,3828
-16827,Plainfield,MA,,city-us,628,42.51,-72.92,5061
-16823,Plainfield,IA,,city-us,394,42.85,-92.54,3622
-16837,Plainfield,VT,,city-us,363,44.28,-72.43,5855
-16834,Plainfield,PA,,city-us,278,40.20,-77.29,2214
-16833,Plainfield,OH,,city-us,141,40.21,-81.72,2995
-16836,Plainfield,SD,,city-us,39,43.71,-98.84,0
-16839,Plainfield,CA,,city-us,0,38.59,-121.80,443
-16840,Plainfield,GA,,city-us,0,32.29,-83.11,1888
-16841,Plainfield,IN,,city-us,0,41.71,-86.48,360
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9533,Como,WI,Walworth County,,city-us,2372,42.612,-88.482,1897
+9531,Como,MS,Panola County,,city-us,1101,34.511,-89.940,3718
+9527,Como,TX,Hopkins County,,city-us,732,33.061,-95.472,803
+9534,Como,IL,Whiteside County,,city-us,663,41.766,-89.767,129
+9532,Como,CO,Park County,,city-us,439,39.316,-105.892,1726
+9526,Como,NC,Hertford County,,city-us,67,36.502,-77.009,2405
+9524,Como,SD,Hand County,,city-us,46,44.244,-99.248,0
+9529,Como,MN,Marshall County,,city-us,43,48.500,-96.059,1647
+9525,Como,TN,Henry County,,city-us,0,36.293,-88.512,114
+9528,Como,IN,Jay County,,city-us,0,40.385,-85.087,302
+9530,Como,MO,New Madrid County,,city-us,0,36.620,-89.755,298

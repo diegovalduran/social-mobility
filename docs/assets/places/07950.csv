@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44187,Maidstone,,United Kingdom,city-international,107627,51.27,0.53,23240
-44186,Maidstone,VT,,city-us,209,44.65,-71.63,3128
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40207,Snydertown,PA,Centre County,,city-us,543,40.984,-77.586,616
+40209,Snydertown,PA,Northumberland County,,city-us,324,40.880,-76.666,2202
+40208,Snydertown,NJ,Hunterdon County,,city-us,0,40.399,-74.834,296

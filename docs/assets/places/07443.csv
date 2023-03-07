@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42640,South Woodbury,PA,,city-us,2069,40.16,-78.41,2347
-42641,South Woodbury,OH,,city-us,0,40.42,-82.86,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37827,Royal Oak,MI,Oakland County,,city-us,57953,42.489,-83.145,18680
+37828,Royal Oak,MO,Oregon County,,city-us,0,36.734,-91.472,473
+37829,Royal Oak,MD,Talbot County,,city-us,0,38.742,-76.178,428

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20766,Waimea,HI,,city-us,10422,20.02,-155.67,6642
-20767,Waimea,HI,,city-us,1863,21.96,-159.67,6593
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12264,Drywood,MO,Vernon County,,city-us,1225,37.700,-94.325,157
+12263,Drywood,WI,Chippewa County,,city-us,759,45.048,-91.168,3628
+12262,Drywood,KS,Bourbon County,,city-us,376,37.722,-94.696,512

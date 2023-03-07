@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39388,Gothenburg,,Sweden,city-international,604829,57.67,11.98,37918
-39387,Gothenburg,NE,,city-us,3421,40.93,-100.16,6019
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32647,Otis,MA,Berkshire County,,city-us,1629,42.204,-73.085,7424
+32648,Otis,ME,Hancock County,,city-us,681,44.722,-68.490,2960
+32655,Otis,CO,Washington County,,city-us,521,40.149,-102.963,2397
+32654,Otis,KS,Rush County,,city-us,297,38.535,-99.053,3886
+32652,Otis,ND,McLean County,,city-us,37,47.799,-100.897,0
+32649,Otis,IN,LaPorte County,,city-us,0,41.599,-86.906,1312
+32650,Otis,OR,Lincoln County,,city-us,0,45.024,-123.945,1854
+32651,Otis,WI,Lincoln County,,city-us,0,45.269,-89.693,111
+32653,Otis,LA,Rapides Parish,,city-us,0,31.216,-92.728,105

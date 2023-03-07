@@ -1,4 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12929,Leggett,TX,,city-us,500,30.82,-94.87,752
-12927,Leggett,CA,,city-us,45,39.87,-123.71,3868
-12928,Leggett,NC,,city-us,38,35.99,-77.58,2469
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6550,Calumet,IL,Cook County,,city-us,18138,41.658,-87.657,1120
+6551,Calumet,WI,Fond du Lac County,,city-us,1416,43.911,-88.291,2675
+6558,Calumet,PA,Westmoreland County,,city-us,1209,40.211,-79.485,5657
+6552,Calumet,MI,Houghton County,,city-us,694,47.247,-88.454,14130
+6549,Calumet,OK,Canadian County,,city-us,458,35.601,-98.119,3206
+6553,Calumet,MN,Itasca County,,city-us,326,47.322,-93.277,3261
+6556,Calumet,IA,O'Brien County,,city-us,146,42.946,-95.550,3099
+6554,Calumet,OH,Jefferson County,,city-us,0,40.482,-80.607,1352
+6555,Calumet,AR,Mississippi County,,city-us,0,35.982,-89.986,192
+6557,Calumet,MO,Pike County,,city-us,0,39.327,-91.012,440

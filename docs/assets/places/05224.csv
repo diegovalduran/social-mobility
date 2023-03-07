@@ -1,4 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35405,Bashaw,WI,,city-us,1089,45.77,-91.98,1899
-35404,Bashaw,MN,,city-us,222,44.15,-94.91,2496
-35406,Bashaw,WI,,city-us,0,45.77,-92.06,176
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26795,Marble,MN,Itasca County,,city-us,611,47.320,-93.299,3069
+26792,Marble,NC,Cherokee County,,city-us,542,35.175,-83.925,6807
+26798,Marble,NE,Saunders County,,city-us,465,41.171,-96.395,248
+26796,Marble,MN,Lincoln County,,city-us,169,44.588,-96.281,1914
+26794,Marble,CO,Gunnison County,,city-us,134,39.072,-107.189,3019
+26793,Marble,PA,Clarion County,,city-us,0,41.339,-79.438,218
+26797,Marble,AR,Madison County,,city-us,0,36.140,-93.588,303
+26799,Marble,WA,Stevens County,,city-us,0,48.849,-117.902,903

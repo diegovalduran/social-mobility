@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42833,Estill,SC,,city-us,1825,32.75,-81.24,2325
-42834,Estill,KY,,city-us,0,37.46,-82.82,129
-42835,Estill,MO,,city-us,0,39.05,-92.74,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38132,Sagamore,MA,Barnstable County,,city-us,4229,41.770,-70.528,1667
+38131,Sagamore,PA,Armstrong County,,city-us,0,40.780,-79.228,186
+38133,Sagamore,PA,Fayette County,,city-us,0,40.032,-79.398,89

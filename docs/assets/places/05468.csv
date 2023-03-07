@@ -1,7 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36271,Norden,SD,,city-us,640,44.59,-97.16,0
-36268,Norden,MN,,city-us,363,48.14,-96.30,1888
-36270,Norden,SD,,city-us,288,44.68,-96.56,0
-36269,Norden,ND,,city-us,55,46.34,-98.97,0
-36272,Norden,CA,,city-us,27,39.32,-120.36,881
-36273,Norden,NE,,city-us,0,42.87,-100.07,707
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27981,Meriden,CT,South Central Connecticut Planning Region,,city-us,60517,41.537,-72.795,24439
+27978,Meriden,KS,Jefferson County,,city-us,740,39.189,-95.570,3332
+27977,Meriden,IA,Cherokee County,,city-us,161,42.795,-95.634,2891
+27976,Meriden,WV,Barbour County,,city-us,0,39.164,-80.024,103
+27979,Meriden,WY,Laramie County,,city-us,0,41.544,-104.319,1079
+27980,Meriden,IL,LaSalle County,,city-us,0,41.571,-89.035,1785
+27982,Meriden,MN,Steele County,,city-us,0,44.074,-93.387,376
+27983,Meriden,NH,Sullivan County,,city-us,0,43.544,-72.252,397

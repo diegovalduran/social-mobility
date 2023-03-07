@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42197,Forks,PA,,city-us,16295,40.73,-75.23,143
-42199,Forks,WA,,city-us,3385,47.95,-124.39,15271
-42198,Forks,PA,,city-us,374,41.49,-76.55,143
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37028,Robbinsville,NJ,Mercer County,,city-us,15345,40.224,-74.595,15171
+37027,Robbinsville,NC,Graham County,,city-us,533,35.323,-83.807,3600

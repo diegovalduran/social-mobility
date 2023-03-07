@@ -1,10 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-179,Chase,WI,,city-us,2082,44.72,-88.16,2322
-177,Chase,MI,,city-us,1194,43.88,-85.62,2887
-178,Chase,PA,,city-us,1010,41.28,-75.96,565
-176,Chase,KS,,city-us,390,38.36,-98.35,4677
-175,Chase,AK,,city-us,0,62.45,-150.10,1917
-180,Chase,AL,,city-us,0,34.78,-86.55,375
-181,Chase,IN,,city-us,0,40.52,-87.34,729
-182,Chase,LA,,city-us,0,32.10,-91.70,107
-183,Chase,MD,,city-us,0,39.36,-76.37,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+58,Abington,PA,Montgomery County,,city-us,58471,40.114,-75.114,15534
+59,Abington,MA,Plymouth County,,city-us,17094,42.116,-70.957,9965
+57,Abington,IL,Mercer County,,city-us,371,41.113,-90.842,274
+60,Abington,LA,Red River Parish,,city-us,0,32.112,-93.479,88
+61,Abington,IN,Wayne County,,city-us,0,39.733,-84.963,493

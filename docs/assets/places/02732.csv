@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22593,Moorland,MI,,city-us,1664,43.25,-85.97,1817
-22592,Moorland,KY,,city-us,431,38.27,-85.58,1868
-22591,Moorland,IA,,city-us,176,42.44,-94.29,3210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13588,Elton,LA,Jefferson Davis Parish,,city-us,1001,30.481,-92.696,1560
+13587,Elton,PA,Cambria County,,city-us,0,40.280,-78.802,262
+13589,Elton,WI,Langlade County,,city-us,0,45.168,-88.886,230
+13590,Elton,WV,Summers County,,city-us,0,37.828,-80.803,391

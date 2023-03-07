@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31910,Weare,NH,,city-us,9156,43.08,-71.70,5924
-31908,Weare,MI,,city-us,1210,43.77,-86.34,1830
-31911,Weir,TX,,city-us,714,30.67,-97.58,3743
-31907,Weir,KS,,city-us,566,37.31,-94.77,4192
-31909,Weir,MS,,city-us,440,33.27,-89.29,3062
-31912,Weir,IL,,city-us,0,39.27,-87.79,119
-31913,Weir,KY,,city-us,0,37.12,-87.21,296
-31914,Weir,WV,,city-us,0,38.46,-81.39,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22664,Kemper,SC,Dillon County,,city-us,0,34.328,-79.199,223
+22665,Kemper,IL,Jersey County,,city-us,0,39.216,-90.164,188

@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27621,Park City,KS,,city-us,8503,37.80,-97.32,4768
-27625,Park City,UT,,city-us,8457,40.65,-111.50,18594
-27620,Park City,IL,,city-us,7867,42.35,-87.88,5844
-27624,Park City,TN,,city-us,2422,35.08,-86.57,466
-27623,Park City,MT,,city-us,1065,45.63,-108.92,3122
-27622,Park City,KY,,city-us,611,37.09,-86.05,4388
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18195,Grindstone,PA,Fayette County,,city-us,669,40.016,-79.831,691
+18196,Grindstone,SD,Haakon County,,city-us,0,44.139,-101.968,247

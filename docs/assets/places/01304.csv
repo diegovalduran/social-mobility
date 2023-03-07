@@ -1,14 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12953,Lewiston,ME,,city-us,36617,44.10,-70.21,43808
-12952,Lewiston,ID,,city-us,34447,46.42,-117.02,21005
-12957,Lewiston,NY,,city-us,2529,43.17,-79.04,10813
-12958,Lewiston,UT,,city-us,1951,41.98,-111.86,2401
-12951,Lewiston,CA,,city-us,1817,40.71,-122.81,5365
-12955,Lewiston,MN,,city-us,1520,43.98,-91.87,3779
-12959,Lewiston,WI,,city-us,1187,43.58,-89.64,2082
-12954,Lewiston,MI,,city-us,996,44.88,-84.31,3430
-12956,Lewiston,NE,,city-us,54,40.24,-96.40,2883
-12960,Lewiston,IN,,city-us,0,41.03,-87.05,191
-12961,Lewiston,LA,,city-us,0,30.94,-90.42,148
-12962,Lewiston,VT,,city-us,0,43.70,-72.30,1486
-12963,Lewiston,VA,,city-us,0,38.07,-77.74,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6571,Calvin,MI,Cass County,,city-us,1996,41.856,-85.922,2829
+6573,Calvin,OK,Hughes County,,city-us,319,34.968,-96.249,3758
+6578,Calvin,LA,Winn Parish,,city-us,236,31.966,-92.776,1833
+6575,Calvin,KS,Jewell County,,city-us,49,39.706,-98.215,682
+6572,Calvin,ND,Cavalier County,,city-us,14,48.853,-98.935,2729
+6570,Calvin,KY,Bell County,,city-us,0,36.722,-83.622,408
+6574,Calvin,PA,Huntingdon County,,city-us,0,40.337,-78.027,217
+6576,Calvin,VA,Lee County,,city-us,0,36.852,-82.942,259
+6577,Calvin,WV,Nicholas County,,city-us,0,38.337,-80.714,214

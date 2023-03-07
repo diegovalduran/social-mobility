@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46949,Laing,MI,,city-us,770,43.54,-82.93,2776
-46950,Laing,WV,,city-us,0,38.04,-81.43,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45404,Washington Mills,NY,Oneida County,,city-us,2133,43.050,-75.273,188
+45402,Washington Mills,IA,Dubuque County,,city-us,0,42.301,-90.782,156
+45403,Washington Mills,OH,Greene County,,city-us,0,39.648,-84.047,220

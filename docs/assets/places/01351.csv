@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13220,Mendota,CA,,city-us,12735,36.75,-120.38,6783
-13221,Mendota,IL,,city-us,7095,41.58,-89.10,440
-13222,Mendota,MN,,city-us,183,44.89,-93.16,5126
-13223,Mendota,VA,,city-us,135,36.71,-82.30,3695
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6805,Canova,NM,Rio Arriba County,,city-us,545,36.159,-105.985,598
+6803,Canova,SD,Miner County,,city-us,92,43.881,-97.505,3136
+6804,Canova,VA,Prince William County,,city-us,0,38.677,-77.442,421

@@ -1,6 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31661,Rinehart,KS,,city-us,204,38.91,-96.97,335
-31662,Rhinehart,MN,,city-us,134,47.89,-97.01,1781
-31663,Rhinehart,LA,,city-us,0,31.64,-92.01,233
-31664,Rinehart,MO,,city-us,0,37.96,-94.50,253
-31665,Rinehart,WV,,city-us,0,39.42,-80.52,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22403,Judson,SC,Greenville County,,city-us,1513,34.833,-82.428,2485
+22409,Judson,ND,Williams County,,city-us,340,48.160,-103.795,0
+22405,Judson,IN,Howard County,,city-us,61,40.504,-86.271,236
+22401,Judson,MN,Blue Earth County,,city-us,0,44.196,-94.195,244
+22402,Judson,NC,Cumberland County,,city-us,0,35.002,-78.809,84
+22404,Judson,TX,Gregg County,,city-us,0,32.583,-94.754,717
+22406,Judson,IN,Parke County,,city-us,0,39.813,-87.134,384
+22407,Judson,MO,Sullivan County,,city-us,0,40.312,-93.231,235
+22408,Judson,WV,Summers County,,city-us,0,37.711,-80.776,138

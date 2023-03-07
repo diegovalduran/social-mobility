@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17127,Staples,CT,,city-us,7125,41.16,-73.33,375
-17128,Staples,MN,,city-us,2998,46.37,-94.82,5578
-17129,Staples,MN,,city-us,597,46.31,-94.85,2014
-17130,Staples,TX,,city-us,188,29.78,-97.84,1698
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9672,Conn,LA,Caddo Parish,,city-us,0,32.591,-93.772,80
+9673,Conn,MS,Copiah County,,city-us,0,31.898,-90.710,175

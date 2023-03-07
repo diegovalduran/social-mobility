@@ -1,9 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9580,Weldon,CA,,city-us,2261,35.67,-118.29,4107
-9584,Weldon,NC,,city-us,1426,36.43,-77.60,4646
-9583,Weldon,MI,,city-us,587,44.56,-86.00,2130
-9582,Weldon,IL,,city-us,366,40.12,-88.75,1958
-9581,Weldon,IA,,city-us,135,40.90,-93.73,3187
-9585,Weldon,TX,,city-us,131,31.02,-95.57,680
-9579,Weldon,AR,,city-us,60,35.45,-91.23,2367
-9586,Weldon,VA,,city-us,0,37.09,-80.81,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4317,Bland,MO,Gasconade County / Osage County,,city-us,510,38.300,-91.633,4064
+4316,Bland,VA,Bland County,,city-us,296,37.102,-81.116,489
+4314,Bland,FL,Alachua County,,city-us,0,29.902,-82.499,539
+4315,Bland,AR,Benton County,,city-us,0,36.333,-93.924,81

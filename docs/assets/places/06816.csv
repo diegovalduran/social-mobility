@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40611,Radisson,NY,,city-us,7215,43.19,-76.29,4854
-40612,Radisson,WI,,city-us,442,45.82,-91.20,3278
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34737,Plevna,MT,Fallon County,,city-us,172,46.418,-104.521,3638
+34741,Plevna,KS,Reno County,,city-us,82,37.972,-98.309,3395
+34739,Plevna,MO,Knox County,,city-us,7,39.974,-92.086,501
+34738,Plevna,IN,Howard County,,city-us,0,40.536,-85.976,1162
+34740,Plevna,AL,Madison County,,city-us,0,34.962,-86.417,334

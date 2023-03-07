@@ -1,3 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37623,Wooldridge,MO,,city-us,29,38.91,-92.52,3307
-37624,Wooldridge,TN,,city-us,0,36.58,-84.18,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30132,Murray,UT,Salt Lake County,,city-us,49729,40.667,-111.888,32797
+30124,Murray,KY,Calloway County,,city-us,17311,36.610,-88.315,17434
+30131,Murray,NY,Orleans County,,city-us,4740,43.258,-78.057,3368
+30127,Murray,CT,Greater Bridgeport Planning Region,,city-us,821,41.197,-73.290,431
+30126,Murray,IA,Clarke County,,city-us,663,41.042,-93.949,3232
+30129,Murray,KS,Marshall County,,city-us,603,39.864,-96.285,0
+30125,Murray,NE,Cass County,,city-us,489,40.915,-95.930,3276
+30142,Murry,WI,Rusk County,,city-us,275,45.601,-91.201,2007
+30130,Murray,MN,Murray County,,city-us,161,44.063,-95.630,2231
+30128,Murray,WV,Jackson County,,city-us,0,38.896,-81.640,88
+30133,Murray,ID,Shoshone County,,city-us,0,47.627,-115.859,1554
+30134,Murray,IN,Wells County,,city-us,0,40.792,-85.201,461
+30135,Murray,TX,Young County,,city-us,0,33.056,-98.895,174

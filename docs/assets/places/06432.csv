@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39498,Prague,,Czechia,city-international,1335084,50.08,14.42,56027
-39497,Prague,OK,,city-us,2368,35.50,-96.70,5991
-39496,Prague,NE,,city-us,292,41.31,-96.81,3467
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32776,Owensville,MO,Gasconade County,,city-us,2742,38.346,-91.502,4603
+32777,Owensville,IN,Gibson County,,city-us,1340,38.272,-87.688,7040
+32775,Owensville,OH,Clermont County,,city-us,792,39.123,-84.136,3725
+32773,Owensville,VA,Albemarle County,,city-us,0,38.101,-78.575,147
+32774,Owensville,MD,Anne Arundel County,,city-us,0,38.736,-76.644,92

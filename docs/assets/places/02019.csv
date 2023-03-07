@@ -1,4 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17954,Gulfport,MS,,city-us,72105,30.37,-89.09,15897
-17952,Gulfport,FL,,city-us,11709,27.75,-82.70,7086
-17953,Gulfport,IL,,city-us,0,40.81,-91.09,2424
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10213,Craig,CO,Moffat County,,city-us,8969,40.515,-107.546,4961
+10215,Craig,AK,Prince of Wales-Hyder Census Area,,city-us,1029,55.476,-133.148,7995
+10208,Craig,NE,Burt County,,city-us,198,41.786,-96.364,4449
+10211,Craig,MO,Holt County,,city-us,104,40.195,-95.371,3188
+10214,Craig,IA,Plymouth County,,city-us,78,42.896,-96.310,2727
+10212,Craig,MT,Lewis and Clark County,,city-us,39,47.074,-111.963,610
+10209,Craig,IN,Decatur County,,city-us,0,39.332,-85.519,133
+10210,Craig,OH,Guernsey County,,city-us,0,40.024,-81.517,228

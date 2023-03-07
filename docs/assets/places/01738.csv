@@ -1,4 +1,33 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15862,Ramer,TN,,city-us,329,35.07,-88.62,1863
-15861,Raymer,CO,,city-us,109,40.61,-103.84,3639
-15863,Ramer,AL,,city-us,0,32.05,-86.22,604
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8880,Clifton,NJ,Passaic County,,city-us,89367,40.858,-74.164,28500
+8877,Clifton,CO,Mesa County,,city-us,20122,39.092,-108.449,5806
+8871,Clifton,AZ,Greenlee County,,city-us,3847,33.051,-109.296,3626
+8862,Clifton,TX,Bosque County,,city-us,3488,31.782,-97.577,8740
+8891,Clifton,TN,Wayne County,,city-us,2603,35.387,-87.995,4183
+8882,Clifton,WI,Pierce County,,city-us,2193,44.817,-92.723,1897
+8874,Clifton,PA,Lackawanna County,,city-us,1492,41.251,-75.531,1852
+8873,Clifton,IL,Iroquois County,,city-us,1334,40.935,-87.934,2662
+8881,Clifton,ME,Penobscot County,,city-us,839,44.795,-68.479,3153
+8885,Clifton,SC,Spartanburg County,,city-us,771,34.980,-81.818,529
+8878,Clifton,WI,Monroe County,,city-us,693,43.879,-90.357,1677
+8887,Clifton,NY,St. Lawrence County,,city-us,681,44.201,-74.886,4009
+8867,Clifton,KS,Clay County / Washington County,,city-us,455,39.568,-97.281,3872
+8869,Clifton,ID,Franklin County,,city-us,428,42.190,-112.008,3656
+8870,Clifton,WI,Grant County,,city-us,382,42.899,-90.488,1850
+8890,Clifton,KS,Washington County,,city-us,364,39.603,-97.303,218
+8875,Clifton,MN,Lyon County,,city-us,265,44.407,-95.645,206
+8868,Clifton,VA,Fairfax County,,city-us,241,38.780,-77.387,17122
+8861,Clifton,SD,Beadle County,,city-us,141,44.240,-98.154,0
+8865,Clifton,OH,Clark County / Greene County,,city-us,132,39.797,-83.825,3690
+8864,Clifton,ND,Cass County,,city-us,69,46.753,-97.629,0
+8888,Clifton,MN,Traverse County,,city-us,59,45.803,-96.320,206
+8886,Clifton,SD,Spink County,,city-us,38,45.025,-98.309,0
+8860,Clifton,NC,Ashe County,,city-us,0,36.447,-81.571,156
+8863,Clifton,KY,Boyle County,,city-us,0,37.649,-84.688,172
+8866,Clifton,OR,Clatsop County,,city-us,0,46.211,-123.463,2920
+8872,Clifton,OR,Hood River County,,city-us,0,45.707,-121.558,307
+8876,Clifton,WV,Mason County,,city-us,0,39.002,-82.042,360
+8879,Clifton,MO,Oregon County,,city-us,0,36.557,-91.530,171
+8883,Clifton,LA,Rapides Parish,,city-us,0,31.305,-92.871,108
+8884,Clifton,MO,Schuyler County,,city-us,0,40.427,-92.484,284
+8889,Clifton,IN,Union County,,city-us,0,39.691,-84.956,269

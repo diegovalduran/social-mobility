@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23272,Tabor,IA,,city-us,999,40.89,-95.67,5039
-23274,Tabor,SD,,city-us,392,42.95,-97.66,3334
-23273,Tabor,MN,,city-us,113,48.06,-96.82,1814
-23275,Tabor,IL,,city-us,0,40.18,-89.13,124
-23276,Tabor,TX,,city-us,0,30.80,-96.37,1734
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14147,Everton,MO,Dade County,,city-us,281,37.343,-93.702,3665
+14146,Everton,AR,Boone County,,city-us,102,36.155,-92.907,2421
+14148,Everton,IN,Fayette County,,city-us,0,39.563,-85.090,415

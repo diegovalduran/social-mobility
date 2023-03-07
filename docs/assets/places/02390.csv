@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20319,Rockingham,NC,,city-us,9031,34.94,-79.77,9448
-20320,Rockingham,VT,,city-us,4873,43.17,-72.51,8866
-20318,Rockingham,GA,,city-us,230,31.55,-82.42,510
-20321,Rockingham,MO,,city-us,0,39.36,-93.78,477
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11964,Donegal,PA,Washington County,,city-us,2378,40.138,-80.459,351
+11965,Donegal,PA,Westmoreland County,,city-us,2186,40.102,-79.332,351
+11963,Donegal,PA,Butler County,,city-us,1804,40.922,-79.733,351

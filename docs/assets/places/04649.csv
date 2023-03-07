@@ -1,6 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32965,Cedar Crest,MA,,city-us,2838,42.08,-70.67,1183
-32966,Cedar Crest,NM,,city-us,796,35.11,-106.37,2116
-32967,Cedar Crest,OK,,city-us,232,36.11,-95.23,1950
-32968,Cedar Crest,PA,,city-us,117,40.40,-77.89,257
-32969,Cedar Crest,CA,,city-us,0,37.24,-119.20,283
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23817,Lamar,CO,Prowers County,,city-us,7656,38.087,-102.621,5517
+23808,Lamar,MO,Barton County,,city-us,4301,37.495,-94.277,4565
+23814,Lamar,AR,Johnson County,,city-us,1724,35.441,-93.388,2898
+23812,Lamar,SC,Darlington County,,city-us,860,34.169,-80.063,3175
+23807,Lamar,TX,Aransas County,,city-us,636,28.140,-96.988,1207
+23811,Lamar,PA,Clinton County,,city-us,589,41.016,-77.531,706
+23813,Lamar,OK,Hughes County,,city-us,121,35.100,-96.127,3938
+23809,Lamar,MS,Benton County,,city-us,39,34.917,-89.318,1138
+23810,Lamar,NE,Chase County,,city-us,24,40.572,-101.979,3175
+23815,Lamar,WV,Mercer County,,city-us,0,37.454,-81.305,229
+23816,Lamar,WI,Polk County,,city-us,0,45.426,-92.570,250
+23818,Lamar,IN,Spencer County,,city-us,0,38.069,-86.906,206
+23819,Lamar,TN,Washington County,,city-us,0,36.216,-82.470,131

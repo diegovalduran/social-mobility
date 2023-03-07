@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26201,Iuka,MS,,city-us,3066,34.81,-88.19,5146
-26199,Iuka,IL,,city-us,504,38.62,-88.79,2855
-26200,Iuka,KS,,city-us,155,37.73,-98.74,3101
-26202,Iuka,KY,,city-us,0,37.08,-88.24,84
-26203,Iuka,TX,,city-us,0,29.05,-98.74,657
-26204,Iuka,WV,,city-us,0,39.52,-80.79,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16914,Glen Arbor,CA,Santa Cruz County,,city-us,6337,37.083,-122.084,6531
+16913,Glen Arbor,MI,Leelanau County,,city-us,261,44.898,-85.985,3017

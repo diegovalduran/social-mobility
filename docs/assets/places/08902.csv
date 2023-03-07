@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46667,Simmons,MI,,city-us,603,46.10,-84.52,1843
-46666,Simmons,KY,,city-us,0,37.36,-86.94,103
-46668,Simmons,MO,,city-us,0,37.23,-92.02,424
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44673,Virgie,KY,Pike County,,city-us,470,37.335,-82.580,1105
+44672,Virgie,IN,Jasper County,,city-us,0,41.115,-87.180,255

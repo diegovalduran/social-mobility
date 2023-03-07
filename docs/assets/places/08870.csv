@@ -1,4 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46588,Helton,KY,,city-us,0,36.95,-83.39,201
-46589,Helton,MO,,city-us,0,39.77,-91.42,306
-46590,Helton,NC,,city-us,0,36.55,-81.47,326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44524,Victoria,,,Canada,city-international,335696,48.428,-123.365,52356
+44522,Victoria,TX,Victoria County,,city-us,65377,28.805,-97.004,14455
+44506,Victoria,MN,Carver County,,city-us,11042,44.859,-93.662,4404
+44514,Victoria,VA,Lunenburg County,,city-us,1742,36.995,-78.227,11451
+44515,Victoria,MS,Marshall County,,city-us,1066,34.846,-89.618,549
+44510,Victoria,KS,Ellis County,,city-us,823,38.813,-99.124,460
+44513,Victoria,IL,Knox County,,city-us,365,41.019,-90.052,902
+44509,Victoria,NE,Custer County,,city-us,326,41.636,-99.790,296
+44521,Victoria,KS,Rice County,,city-us,315,38.475,-98.203,753
+44519,Victoria,MI,Ontonagon County,,city-us,226,46.722,-89.212,3173
+44516,Victoria,ND,McLean County,,city-us,73,47.537,-101.258,0
+44517,Victoria,AR,Mississippi County,,city-us,18,35.757,-90.056,2902
+44507,Victoria,GA,Cherokee County,,city-us,0,34.137,-84.609,265
+44508,Victoria,AL,Coffee County,,city-us,0,31.530,-85.938,1045
+44511,Victoria,IN,Greene County,,city-us,0,39.046,-87.223,188
+44512,Victoria,MO,Jefferson County,,city-us,0,38.178,-90.526,304
+44518,Victoria,LA,Natchitoches Parish,,city-us,0,31.664,-93.226,326
+44520,Victoria,WV,Preston County,,city-us,0,39.418,-79.889,127
+44523,Victoria,IN,Warrick County,,city-us,0,38.005,-87.359,1140

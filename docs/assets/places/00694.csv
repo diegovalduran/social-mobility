@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7726,Lonsdale,MN,,city-us,4809,44.48,-93.43,7276
-7725,Lonsdale,AR,,city-us,101,34.54,-92.81,2239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3556,Bentonville,AR,Benton County,,city-us,56734,36.373,-94.209,24620
+3555,Bentonville,OH,Adams County,,city-us,223,38.750,-83.613,1043
+3557,Bentonville,MO,Benton County,,city-us,0,38.101,-93.449,338
+3558,Bentonville,IN,Fayette County,,city-us,0,39.745,-85.194,1619
+3559,Bentonville,TX,Jim Wells County,,city-us,0,27.776,-97.958,831
+3560,Bentonville,VA,Warren County,,city-us,0,38.832,-78.316,272

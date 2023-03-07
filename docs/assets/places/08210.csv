@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44937,Sprott,AL,,city-us,0,32.68,-87.22,489
-44938,Sprott,MO,,city-us,0,37.86,-90.33,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41540,Stockholm,,,Sweden,city-international,975819,59.329,18.069,55536
+41537,Stockholm,NY,St. Lawrence County,,city-us,3833,44.746,-74.856,3966
+41538,Stockholm,NJ,Sussex County,,city-us,3457,41.089,-74.517,1469
+41534,Stockholm,ME,Aroostook County,,city-us,248,47.069,-68.123,3938
+41535,Stockholm,SD,Grant County,,city-us,96,45.104,-96.819,3073
+41536,Stockholm,WI,Pepin County,,city-us,76,44.483,-92.262,2612
+41539,Stockholm,MN,Wright County,,city-us,0,45.036,-94.221,352

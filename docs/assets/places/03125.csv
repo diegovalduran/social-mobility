@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24835,Cisco,TX,,city-us,3883,32.39,-98.98,7669
-24834,Cisco,IL,,city-us,259,40.01,-88.73,1421
-24836,Cisco,CA,,city-us,0,39.30,-120.55,1040
-24837,Cisco,GA,,city-us,0,34.95,-84.74,433
-24838,Cisco,KY,,city-us,0,37.85,-83.14,191
-24839,Cisco,WV,,city-us,0,39.13,-81.28,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15618,Frances,KY,Crittenden County,,city-us,0,37.220,-88.141,158
+15619,Frances,IN,Johnson County,,city-us,0,39.606,-86.169,164
+15620,Frances,WA,Pacific County,,city-us,0,46.542,-123.504,249

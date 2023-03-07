@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4536,Reform,AL,,city-us,1495,33.38,-88.02,4410
-4537,Reform,MS,,city-us,0,33.43,-89.15,498
-4538,Reform,MO,,city-us,0,38.77,-91.78,476
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2130,Ayers,IL,Champaign County,,city-us,419,39.923,-87.974,3405
+2127,Ayers,IL,Bond County,,city-us,0,38.964,-89.452,113
+2128,Ayers,WV,Calhoun County,,city-us,0,38.978,-81.098,115
+2129,Ayers,IL,Carroll County,,city-us,0,42.054,-90.116,142

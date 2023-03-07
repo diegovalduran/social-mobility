@@ -1,15 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29258,Beech Grove,IN,,city-us,14541,39.72,-86.09,23100
-29259,Beech Grove,KY,,city-us,282,37.62,-87.40,462
-29260,Beech Grove,AR,,city-us,0,36.17,-90.62,216
-29261,Beech Grove,IN,,city-us,0,39.52,-86.45,159
-29262,Beech Grove,KY,,city-us,0,37.93,-85.76,175
-29263,Beech Grove,KY,,city-us,0,38.31,-82.93,162
-29264,Beech Grove,TN,,city-us,0,36.23,-84.19,175
-29265,Beech Grove,TN,,city-us,0,35.92,-89.35,171
-29266,Beech Grove,TN,,city-us,0,36.37,-83.47,175
-29267,Beech Grove,TN,,city-us,0,36.15,-83.91,171
-29268,Beech Grove,TN,,city-us,0,36.42,-86.09,176
-29269,Beech Grove,TX,,city-us,0,30.86,-94.12,783
-29270,Beech Grove,VA,,city-us,0,37.88,-78.94,107
-29271,Beech Grove,WV,,city-us,0,39.32,-81.00,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19609,Hemlock,PA,Columbia County,,city-us,2228,41.022,-76.521,2803
+19616,Hemlock,MI,Saginaw County,,city-us,1408,43.415,-84.231,2645
+19614,Hemlock,NY,Livingston County,,city-us,640,42.794,-77.606,1350
+19615,Hemlock,OH,Perry County,,city-us,143,39.589,-82.155,3258
+19608,Hemlock,WI,Clark County,,city-us,0,44.824,-90.612,111
+19610,Hemlock,WV,Fayette County,,city-us,0,37.874,-80.974,89
+19611,Hemlock,VA,Floyd County,,city-us,0,37.069,-80.216,82
+19612,Hemlock,IN,Howard County,,city-us,0,40.420,-86.041,432
+19613,Hemlock,WV,Jackson County,,city-us,0,38.895,-81.741,89
+19617,Hemlock,OR,Tillamook County,,city-us,0,45.316,-123.837,420

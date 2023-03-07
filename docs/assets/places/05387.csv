@@ -1,5 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36014,Kildare,WI,,city-us,703,43.73,-89.91,1877
-36012,Kildare,MN,,city-us,137,45.28,-95.43,1802
-36013,Kildare,OK,,city-us,88,36.81,-97.05,2702
-36015,Kildare,TX,,city-us,0,32.94,-94.25,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27580,McKinley,MI,Emmet County,,city-us,1300,45.587,-84.788,307
+27586,McKinley,MI,Oscoda County,,city-us,1143,44.609,-84.021,2922
+27589,McKinley,WI,Taylor County,,city-us,412,45.341,-90.858,4301
+27581,McKinley,MI,Huron County,,city-us,402,43.875,-83.295,307
+27587,McKinley,WI,Polk County,,city-us,347,45.571,-92.177,2139
+27577,McKinley,MN,Cass County,,city-us,144,46.775,-94.734,2690
+27590,McKinley,ND,Ward County,,city-us,134,48.331,-101.200,0
+27588,McKinley,MN,St. Louis County,,city-us,104,47.513,-92.411,3383
+27584,McKinley,SD,Marshall County,,city-us,29,45.784,-97.268,0
+27578,McKinley,OR,Coos County,,city-us,0,43.189,-124.026,396
+27579,McKinley,PA,Elk County,,city-us,0,41.603,-78.855,104
+27582,McKinley,MO,Lawrence County,,city-us,0,37.061,-93.627,299
+27583,McKinley,AL,Marengo County,,city-us,0,32.298,-87.540,1421
+27585,McKinley,PA,Montgomery County,,city-us,0,40.085,-75.117,249
+27591,McKinley,IN,Washington County,,city-us,0,38.745,-86.211,317

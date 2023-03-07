@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33544,Severn,MD,,city-us,53955,39.14,-76.70,3927
-33545,Severn,NC,,city-us,188,36.52,-77.19,2157
-33546,Severn,ND,,city-us,55,46.69,-98.77,0
-33547,Severn,VA,,city-us,0,37.29,-76.42,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24548,Letts,IA,Louisa County,,city-us,362,41.328,-91.237,3573
+24547,Letts,IN,Decatur County,,city-us,0,39.235,-85.565,359

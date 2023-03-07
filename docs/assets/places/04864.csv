@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33778,Mariaville,ME,,city-us,486,44.75,-68.39,3064
-33779,Mariaville,NE,,city-us,0,42.78,-99.34,228
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25022,Lincoln Park,MI,Wayne County,,city-us,39643,42.251,-83.179,7683
+25019,Lincoln Park,NJ,Morris County,,city-us,10900,40.924,-74.302,12714
+25018,Lincoln Park,CO,Fremont County,,city-us,3724,38.429,-105.220,3309
+25020,Lincoln Park,NY,Ulster County,,city-us,2371,41.951,-73.994,1836
+25017,Lincoln Park,PA,Berks County,,city-us,1669,40.315,-75.985,267
+25021,Lincoln Park,GA,Upson County,,city-us,670,32.868,-84.330,1841

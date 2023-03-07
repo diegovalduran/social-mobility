@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24764,Cedar Point,NC,,city-us,1782,34.69,-77.07,2442
-24765,Cedar Point,TX,,city-us,425,30.80,-95.08,318
-24762,Cedar Point,IL,,city-us,264,41.26,-89.13,2126
-24763,Cedar Point,KS,,city-us,22,38.26,-96.82,6397
-24766,Cedar Point,VA,,city-us,0,37.69,-77.91,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15543,Fountain Park,MI,Hillsdale County,,city-us,3063,41.863,-84.544,3405
+15542,Fountain Park,OH,Champaign County,,city-us,0,40.165,-83.554,228
+15544,Fountain Park,IN,Steuben County,,city-us,0,41.563,-84.914,166

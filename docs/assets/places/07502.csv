@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42820,Cottageville,SC,,city-us,701,32.94,-80.48,2851
-42821,Cottageville,WV,,city-us,0,38.87,-81.82,1423
-42822,Cottageville,NJ,,city-us,0,40.41,-74.48,540
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38122,Saddlebrooke,AZ,Pinal County,,city-us,12574,32.540,-110.856,1028
+38121,Saddlebrooke,MO,Christian County / Taney County,,city-us,316,36.826,-93.203,1683

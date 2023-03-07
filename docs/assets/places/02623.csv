@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21882,Grinnell,IA,,city-us,9513,41.74,-92.72,20013
-21883,Grinnell,KS,,city-us,396,39.06,-100.67,364
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13027,Edmond,OK,Oklahoma County,,city-us,95341,35.653,-97.478,14189
+13037,Edmund,SC,Lexington County,,city-us,847,33.862,-81.200,687
+13036,Edmund,WI,Iowa County,,city-us,141,42.967,-90.265,428
+13026,Edmond,KS,Norton County,,city-us,28,39.627,-99.823,2974
+13025,Edmond,WV,Fayette County,,city-us,0,38.062,-81.027,170

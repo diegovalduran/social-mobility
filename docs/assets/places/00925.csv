@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10196,Mammoth,AZ,,city-us,1113,32.72,-110.64,2960
-10198,Mammoth,PA,,city-us,376,40.20,-79.46,2470
-10199,Mammoth,WY,,city-us,59,44.98,-110.70,333
-10197,Mammoth,MT,,city-us,0,45.67,-112.02,562
-10200,Mammoth,MO,,city-us,0,36.54,-92.40,938
-10201,Mammoth,WV,,city-us,0,38.26,-81.37,200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4657,Bolivia,,,,country,12186079,-16.290,-63.589,87597
+4655,Bolivia,NC,Brunswick County,,city-us,152,34.068,-78.148,3186
+4656,Bolivia,IL,Christian County,,city-us,0,39.742,-89.347,122

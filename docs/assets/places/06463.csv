@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39584,Grantham,NH,,city-us,3459,43.52,-72.15,3939
-39585,Grantham,NC,,city-us,0,35.30,-78.16,1929
-39586,Grantham,PA,,city-us,0,40.16,-77.00,3142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32918,Palermo,,,Colombia,city-international,800000,2.888,-75.434,220
+32919,Palermo,,,Italy,city-international,668405,38.111,13.352,42029
+32911,Palermo,CA,Butte County,,city-us,5387,39.435,-121.538,4817
+32916,Palermo,NY,Oswego County,,city-us,3463,43.367,-76.260,3126
+32912,Palermo,NJ,Cape May County,,city-us,3183,39.240,-74.672,1436
+32917,Palermo,ME,Waldo County,,city-us,1599,44.396,-69.431,4669
+32915,Palermo,ND,Mountrail County,,city-us,36,48.327,-102.251,2976
+32913,Palermo,KS,Doniphan County,,city-us,0,39.733,-94.977,243
+32914,Palermo,WV,Lincoln County,,city-us,0,38.169,-82.058,297

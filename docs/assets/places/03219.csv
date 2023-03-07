@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25380,Eminence,KY,,city-us,2708,38.37,-85.18,4122
-25381,Eminence,MO,,city-us,516,37.15,-91.36,4223
-25378,Eminence,IL,,city-us,380,40.28,-89.32,351
-25379,Eminence,IN,,city-us,0,39.52,-86.64,718
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16240,Galva,IL,Henry County,,city-us,2699,41.184,-90.038,1211
+16242,Galva,KS,McPherson County,,city-us,870,38.382,-97.538,9051
+16241,Galva,IA,Ida County,,city-us,435,42.507,-95.417,3160

@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17696,Bushnell,FL,,city-us,3027,28.66,-82.11,3494
-17697,Bushnell,IL,,city-us,2845,40.56,-90.50,343
-17698,Bushnell,MI,,city-us,1594,43.17,-85.01,2055
-17699,Bushnell,NE,,city-us,115,41.23,-103.89,3369
-17700,Bushnell,SD,,city-us,70,44.33,-96.64,2950
-17701,Bushnell,GA,,city-us,0,31.56,-82.96,501
-17702,Bushnell,MO,,city-us,0,37.50,-94.15,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10032,Cottage Grove,MN,Washington County,,city-us,39926,44.828,-92.944,9054
+10029,Cottage Grove,OR,Lane County,,city-us,10637,43.798,-123.060,10200
+10027,Cottage Grove,WI,Dane County,,city-us,7338,43.076,-89.200,3435
+10026,Cottage Grove,KS,Allen County,,city-us,221,37.755,-95.352,479
+10028,Cottage Grove,TN,Henry County,,city-us,66,36.379,-88.479,2138
+10030,Cottage Grove,IL,Saline County,,city-us,0,37.748,-88.411,302
+10031,Cottage Grove,IN,Union County,,city-us,0,39.596,-84.862,282

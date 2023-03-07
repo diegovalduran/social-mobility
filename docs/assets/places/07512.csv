@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42871,Iva,MI,,city-us,4144,43.42,-84.22,2184
-42869,Iva,SC,,city-us,1139,34.31,-82.66,2354
-42870,Iva,IN,,city-us,0,38.50,-87.12,254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38155,Saint Bernard,NE,Platte County,,city-us,0,41.722,-97.629,322
+38156,Saint Bernard,LA,St. Bernard Parish,,city-us,0,29.867,-89.859,477

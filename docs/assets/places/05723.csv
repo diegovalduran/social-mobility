@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37168,Goodman,MO,,city-us,1214,36.74,-94.40,3488
-37169,Goodman,MS,,city-us,1188,32.97,-89.91,3781
-37170,Goodman,WI,,city-us,603,45.64,-88.32,3201
-37171,Goodman,AL,,city-us,0,31.28,-85.99,165
-37172,Goodman,WV,,city-us,0,37.69,-82.30,122
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29451,Moreland,ID,Bingham County,,city-us,1249,43.223,-112.442,130
+29453,Moreland,PA,Lycoming County,,city-us,1017,41.195,-76.649,5539
+29452,Moreland,GA,Coweta County,,city-us,386,33.287,-84.768,3958
+29511,Morland,KS,Graham County,,city-us,115,39.349,-100.076,3584
+29454,Moreland,AR,Pope County,,city-us,0,35.367,-92.933,270
+29455,Moreland,OH,Wayne County,,city-us,0,40.712,-81.945,360

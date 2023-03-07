@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44209,Carnation,WA,,city-us,2167,47.65,-121.91,6658
-44210,Carnation,OR,,city-us,0,45.51,-123.10,1331
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40228,Sofia,,,Bulgaria,city-international,1277411,42.698,23.322,54408
+40325,Sophia,WV,Raleigh County,,city-us,1107,37.708,-81.251,3010
+40227,Sofia,NM,Union County,,city-us,0,36.452,-103.829,1417
+40326,Sophia,NC,Randolph County,,city-us,0,35.823,-79.861,265

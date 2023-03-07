@@ -1,24 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7731,Lowell,MA,,city-us,113994,42.63,-71.32,43148
-7729,Lowell,IN,,city-us,10972,41.29,-87.42,5144
-7727,Lowell,AR,,city-us,10177,36.26,-94.13,5577
-7733,Lowell,MI,,city-us,6289,42.90,-85.37,2714
-7735,Lowell,NC,,city-us,3701,35.27,-81.10,5396
-7738,Lowell,OR,,city-us,1221,43.92,-122.78,4175
-7740,Lowell,VT,,city-us,885,44.79,-72.46,7073
-7730,Lowell,KS,,city-us,671,37.10,-94.67,439
-7737,Lowell,OH,,city-us,561,39.53,-81.51,6803
-7732,Lowell,ME,,city-us,368,45.21,-68.51,2925
-7741,Lowell,WI,,city-us,307,43.34,-88.82,3321
-7734,Lowell,MN,,city-us,274,47.81,-96.68,2007
-7728,Lowell,IA,,city-us,70,40.83,-91.44,759
-7739,Lowell,SD,,city-us,53,45.73,-97.80,0
-7744,Lowell,ID,,city-us,30,46.14,-115.60,1120
-7736,Lowell,NE,,city-us,0,40.65,-98.85,199
-7742,Lowell,CA,,city-us,0,38.17,-122.25,259
-7743,Lowell,FL,,city-us,0,29.33,-82.19,589
-7745,Lowell,IL,,city-us,0,41.25,-89.01,800
-7746,Lowell,IN,,city-us,0,39.25,-85.95,187
-7747,Lowell,MO,,city-us,0,39.85,-93.35,243
-7748,Lowell,OH,,city-us,0,41.21,-83.06,291
-7749,Lowell,WV,,city-us,0,37.65,-80.73,3053
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3562,Benville,MN,Beltrami County,,city-us,98,48.324,-95.529,2181
+3563,Benville,IL,Brown County,,city-us,0,39.864,-90.865,228

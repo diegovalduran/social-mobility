@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13915,Ramona,CA,,city-us,21853,33.04,-116.87,25732
-13917,Ramona,OK,,city-us,536,36.53,-95.92,3215
-13918,Ramona,SD,,city-us,156,44.12,-97.22,3020
-13916,Ramona,KS,,city-us,79,38.60,-97.06,7313
-13919,Ramona,CA,,city-us,0,34.07,-117.84,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7260,Castleton,VT,Rutland County,,city-us,4594,43.653,-73.161,8149
+7256,Castleton,MI,Barry County,,city-us,3366,42.642,-85.129,2185
+7259,Castleton,KS,Reno County,,city-us,315,37.863,-97.951,1057
+7257,Castleton,MD,Harford County,,city-us,0,39.675,-76.215,86
+7258,Castleton,VA,Rappahannock County,,city-us,0,38.606,-78.107,453
+7261,Castleton,IL,Stark County,,city-us,0,41.118,-89.706,280

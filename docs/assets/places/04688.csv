@@ -1,11 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33132,Southampton,,United Kingdom,city-international,271173,50.90,-1.40,59763
-33125,Southampton,NY,,city-us,69325,40.88,-72.46,8948
-33124,Southampton,NJ,,city-us,10286,39.92,-74.72,12106
-33128,Southampton,PA,,city-us,8508,40.02,-77.55,542
-33127,Southampton,PA,,city-us,7761,40.04,-77.46,542
-33123,Southampton,MA,,city-us,6187,42.23,-72.74,3250
-33126,Southampton,PA,,city-us,839,39.78,-78.53,542
-33129,Southampton,PA,,city-us,599,39.77,-78.83,542
-33130,Southampton,PA,,city-us,0,40.17,-75.04,5653
-33131,Southampton,VA,,city-us,0,37.56,-77.55,100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23989,Laredo,TX,Webb County,,city-us,256153,27.506,-99.508,57576
+23987,Laredo,MO,Grundy County,,city-us,154,40.026,-93.447,3435
+23988,Laredo,MT,Hill County,,city-us,37,48.719,-110.475,234

@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34795,McBride,MI,,city-us,228,43.35,-85.04,3450
-34796,McBride,OK,,city-us,110,33.94,-96.63,2714
-34797,McBride,MS,,city-us,0,31.77,-90.78,162
-34798,McBride,MO,,city-us,0,37.83,-89.84,927
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26023,Lunenburg,MA,Worcester County,,city-us,1686,42.595,-71.725,5102
+26020,Lunenburg,VT,Essex County,,city-us,333,44.463,-71.682,3519
+26022,Lunenburg,VA,Lunenburg County,,city-us,128,36.961,-78.266,921
+26021,Lunenburg,AR,Izard County,,city-us,0,36.002,-91.908,126

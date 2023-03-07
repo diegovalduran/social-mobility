@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17778,Cobbtown,GA,,city-us,326,32.28,-82.14,2385
-17777,Cobbtown,FL,,city-us,67,30.88,-87.12,293
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10058,Cottonville,WI,Adams County,,city-us,0,44.058,-89.806,354
+10059,Cottonville,IA,Jackson County,,city-us,0,42.237,-90.602,1117
+10060,Cottonville,AL,Marshall County,,city-us,0,34.453,-86.336,88
+10061,Cottonville,NC,Stanly County,,city-us,0,35.199,-80.190,93
+10062,Cottonville,MS,Tate County,,city-us,0,34.659,-90.185,113

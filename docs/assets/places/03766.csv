@@ -1,8 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28839,Virgil,NY,,city-us,485,42.51,-76.19,5235
-28838,Virgil,MO,,city-us,474,37.79,-94.12,157
-28836,Virgil,IL,,city-us,287,41.96,-88.54,2102
-28837,Virgil,KS,,city-us,48,37.98,-96.01,3461
-28840,Virgil,SD,,city-us,26,44.29,-98.42,2683
-28841,Virgil,SD,,city-us,7,44.05,-100.52,2683
-28842,Virgil,WV,,city-us,0,38.61,-81.34,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20794,Houghton,MI,Houghton County,,city-us,7622,47.122,-88.569,20839
+19285,Haughton,LA,Bossier Parish,,city-us,4484,32.533,-93.504,1321
+20792,Houghton,NY,Allegany County,,city-us,1681,42.423,-78.157,2202
+20796,Houghton,IA,Lee County,,city-us,137,40.784,-91.603,3620
+20795,Houghton,MI,Keweenaw County,,city-us,72,48.096,-88.566,4043
+19354,Hawton,IN,Sullivan County,,city-us,0,39.126,-87.311,224
+20793,Houghton,SD,Brown County,,city-us,0,45.763,-98.210,525

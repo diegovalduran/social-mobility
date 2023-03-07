@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43507,Childress,TX,,city-us,5844,34.43,-100.20,5712
-43508,Childress,VA,,city-us,0,37.82,-77.98,139
-43509,Childress,VA,,city-us,0,37.06,-80.50,471
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39036,Sealy,TX,Austin County,,city-us,6775,29.781,-96.157,3697
+39091,Seeley,CA,Imperial County,,city-us,1781,32.793,-115.691,5922
+39093,Seely,MN,Faribault County,,city-us,161,43.536,-93.819,1846
+39090,Seeley,NJ,Cumberland County,,city-us,55,39.482,-75.258,434
+39037,Sealy,ND,Logan County,,city-us,28,46.595,-99.863,351
+39092,Seeley,WI,Sawyer County,,city-us,0,46.121,-91.361,112

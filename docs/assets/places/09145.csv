@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47246,Yancy Mills,MO,,city-us,0,37.79,-91.83,568
-47247,Yancey Mills,VA,,city-us,0,38.05,-78.73,835
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46082,West Newton,PA,Westmoreland County,,city-us,2636,40.210,-79.767,4460
+46080,West Newton,MN,Nicollet County,,city-us,427,44.407,-94.561,2289
+46079,West Newton,OH,Allen County,,city-us,0,40.654,-83.893,218
+46081,West Newton,MN,Wabasha County,,city-us,0,44.265,-91.901,89

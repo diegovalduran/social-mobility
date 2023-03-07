@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26317,Kewanee,IL,,city-us,9685,41.27,-89.92,1524
-26318,Kewanee,KY,,city-us,0,37.44,-82.52,95
-26319,Kewanee,MS,,city-us,0,32.42,-88.44,465
-26320,Kewanee,MO,,city-us,0,36.67,-89.57,400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17026,Glenrio,TX,Deaf Smith County,,city-us,0,35.179,-103.042,5925
+17027,Glenrio,NM,Quay County,,city-us,0,35.179,-103.042,5925

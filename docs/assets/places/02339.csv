@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19936,Millen,GA,,city-us,2934,32.80,-81.95,5133
-19937,Millen,MI,,city-us,363,44.64,-83.64,2304
-19938,Millen,WV,,city-us,0,39.52,-78.63,420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11768,Dighton,MA,Bristol County,,city-us,8150,41.829,-71.152,11117
+11771,Dighton,MI,Osceola County,,city-us,1081,44.127,-85.392,2008
+11769,Dighton,KS,Lane County,,city-us,954,38.482,-100.467,4907
+11770,Dighton,OK,Okmulgee County,,city-us,0,35.468,-95.893,348

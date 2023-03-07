@@ -1,10 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24730,Cass,OH,,city-us,1802,40.13,-82.06,156
-24733,Cass,PA,,city-us,1772,40.71,-76.27,220
-24731,Cass,OH,,city-us,1618,40.94,-82.61,156
-24728,Cass,MO,,city-us,1114,37.20,-91.98,274
-24729,Cass,OH,,city-us,1069,41.12,-83.57,156
-24732,Cass,PA,,city-us,1008,40.29,-78.04,220
-24726,Cass,IL,,city-us,536,40.49,-90.28,1240
-24734,Cass,WV,,city-us,12,38.40,-79.91,2287
-24727,Cass,IN,,city-us,0,39.09,-87.28,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15520,Fostoria,OH,Hancock County / Seneca County / Wood County,,city-us,13053,41.160,-83.412,8161
+15522,Fostoria,MI,Tuscola County,,city-us,664,43.253,-83.372,640
+15519,Fostoria,IA,Clay County,,city-us,232,43.242,-95.156,3353
+15518,Fostoria,PA,Blair County,,city-us,0,40.618,-78.321,449
+15521,Fostoria,KS,Pottawatomie County,,city-us,0,39.440,-96.508,592

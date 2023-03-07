@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40982,Matamoras,PA,,city-us,2408,41.37,-74.70,3221
-40981,Matamoras,OH,,city-us,697,39.52,-81.07,4220
-40983,Matamoras,IN,,city-us,0,40.55,-85.26,411
-40984,Matamoras,PA,,city-us,0,40.93,-76.44,306
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35294,Prattsburgh,NY,Steuben County,,city-us,842,42.524,-77.289,3375
+35293,Prattsburg,IN,Ripley County,,city-us,0,39.162,-85.188,358

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45899,Olena,IL,,city-us,0,40.79,-90.94,362
-45900,Olena,OH,,city-us,0,41.15,-82.54,321
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43145,Torreon,,,Mexico,city-international,716672,25.539,-103.449,9256
+43143,Torreon,NM,Sandoval County,,city-us,456,35.797,-107.214,2994
+43144,Torreon,NM,Torrance County,,city-us,212,34.722,-106.299,3120

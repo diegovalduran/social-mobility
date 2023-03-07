@@ -1,3 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47116,Racket,MO,,city-us,0,38.29,-93.49,157
-47117,Racket,WV,,city-us,0,39.04,-80.94,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45886,Wellsboro,PA,Tioga County,,city-us,3458,41.749,-77.301,4081
+45885,Wellsboro,IN,LaPorte County,,city-us,0,41.497,-86.765,357

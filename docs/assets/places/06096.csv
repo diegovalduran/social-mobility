@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38438,Robbinsville,NJ,,city-us,15345,40.22,-74.59,15171
-38437,Robbinsville,NC,,city-us,533,35.32,-83.81,3600
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31191,Noah,TN,Coffee County,,city-us,0,35.573,-86.191,1250
+31192,Noah,GA,Jefferson County,,city-us,0,33.216,-82.286,247
+31193,Noah,IN,Shelby County,,city-us,0,39.588,-85.759,1092

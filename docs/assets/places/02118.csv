@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18459,Pitman,NJ,,city-us,8814,39.73,-75.13,11041
-18458,Pitman,IL,,city-us,400,39.39,-89.64,624
-18457,Pittman,FL,,city-us,233,29.00,-81.64,2174
-18460,Pitman,PA,,city-us,0,40.72,-76.52,809
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10628,Cudahy,CA,Los Angeles County,,city-us,22294,33.961,-118.185,9576
+10629,Cudahy,WI,Milwaukee County,,city-us,17946,42.960,-87.861,4569

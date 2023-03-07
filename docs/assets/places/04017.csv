@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30122,Perrysville,OH,,city-us,726,40.66,-82.31,7909
-30121,Perrysville,IN,,city-us,452,40.05,-87.43,4124
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20585,Hoosier,KS,Kingman County,,city-us,153,37.704,-98.200,750
+20583,Hoosier,IL,Clay County,,city-us,0,38.804,-88.455,122
+20584,Hoosier,IN,Greene County,,city-us,0,39.067,-87.186,180

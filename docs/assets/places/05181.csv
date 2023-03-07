@@ -1,4 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35220,West Bloomfield,MI,,city-us,65560,42.57,-83.39,7127
-35221,West Bloomfield,NY,,city-us,2746,42.89,-77.50,8614
-35222,West Bloomfield,WI,,city-us,0,44.22,-88.97,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26593,Manila,,,Philippines,city-international,23971000,14.600,120.983,75594
+26591,Manila,AR,Mississippi County,,city-us,3662,35.880,-90.167,3979
+26595,Manilla,IA,Crawford County,,city-us,758,41.890,-95.232,3785
+26589,Manila,CA,Humboldt County,,city-us,716,40.852,-124.162,2724
+26596,Manilla,IN,Rush County,,city-us,366,39.574,-85.619,369
+26587,Manila,UT,Daggett County,,city-us,324,40.988,-109.723,3435
+26594,Manilla,ND,Cavalier County,,city-us,87,48.761,-98.277,0
+26586,Manila,WV,Boone County,,city-us,0,37.987,-81.943,375
+26588,Manila,AL,Dallas County,,city-us,0,32.448,-86.921,93
+26590,Manila,KY,Johnson County,,city-us,0,37.843,-82.916,301
+26592,Manila,MO,Pettis County,,city-us,0,38.551,-93.336,449

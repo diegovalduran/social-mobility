@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13643,Parkwood,WA,,city-us,7115,47.53,-122.61,2040
-13642,Parkwood,CA,,city-us,2496,36.93,-120.04,4307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7132,Cartwright,IL,Sangamon County,,city-us,1505,39.841,-89.909,1319
+7130,Cartwright,OK,Bryan County,,city-us,726,33.853,-96.562,898
+7131,Cartwright,ND,McKenzie County,,city-us,0,47.860,-103.926,626
+7133,Cartwright,TX,Wood County,,city-us,0,32.872,-95.371,1604

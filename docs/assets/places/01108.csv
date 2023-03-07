@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11455,Castroville,CA,,city-us,7515,36.77,-121.76,15987
-11456,Castroville,TX,,city-us,3005,29.36,-98.88,4338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5486,Brookline,MA,Norfolk County,,city-us,62726,42.324,-71.142,29274
+5485,Brookline,NH,Hillsborough County,,city-us,5715,42.749,-71.676,6144
+5487,Brookline,VT,Windham County,,city-us,548,43.025,-72.611,1771

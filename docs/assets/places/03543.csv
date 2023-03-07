@@ -1,16 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27468,Olive,OH,,city-us,5744,39.70,-81.52,112
-27464,Olive,MI,,city-us,5085,42.90,-86.09,209
-27466,Olive,NY,,city-us,4247,41.95,-74.27,4725
-27463,Olive,MI,,city-us,2535,42.90,-84.55,209
-27461,Olive,IL,,city-us,1705,38.96,-89.75,680
-27467,Olive,OH,,city-us,1674,39.13,-81.79,112
-27465,Olive,NE,,city-us,216,41.27,-97.19,243
-27469,Olive,OK,,city-us,110,36.03,-96.48,521
-27462,Olive,KS,,city-us,51,39.87,-100.45,416
-27470,Olive,CA,,city-us,0,33.84,-117.85,2897
-27471,Olive,IN,,city-us,0,41.70,-86.45,273
-27472,Olive,MO,,city-us,0,37.46,-93.11,538
-27473,Olive,MT,,city-us,0,45.55,-105.53,306
-27474,Olive,VA,,city-us,0,38.22,-77.44,93
-27475,Olive,WV,,city-us,0,38.56,-79.82,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18013,Greensburg,PA,Westmoreland County,,city-us,14939,40.301,-79.539,29108
+18005,Greensburg,IN,Decatur County,,city-us,12193,39.337,-85.484,11846
+18006,Greensburg,KY,Green County,,city-us,2195,37.261,-85.499,5078
+18009,Greensburg,OH,Putnam County,,city-us,1434,41.041,-84.181,1210
+18007,Greensburg,KS,Kiowa County,,city-us,714,37.603,-99.293,12049
+18010,Greensburg,LA,St. Helena Parish,,city-us,639,30.831,-90.672,2088
+18012,Greensburg,MD,Washington County,,city-us,236,39.681,-77.562,254
+18004,Greensburg,WV,Berkeley County,,city-us,0,39.484,-77.884,151
+18008,Greensburg,MO,Knox County,,city-us,0,40.296,-92.217,270
+18011,Greensburg,OH,Summit County,,city-us,0,40.932,-81.465,329

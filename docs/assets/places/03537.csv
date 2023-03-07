@@ -1,7 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27430,Odell,OR,,city-us,2328,45.63,-121.55,2614
-27428,Odell,IL,,city-us,989,41.00,-88.53,9381
-27429,Odell,NE,,city-us,255,40.05,-96.80,3294
-27431,Odell,AR,,city-us,0,35.77,-94.42,520
-27432,Odell,IN,,city-us,0,40.29,-87.07,605
-27433,Odell,TX,,city-us,0,34.35,-99.42,1704
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17982,Greenland,,,,country,57777,71.707,-42.604,62084
+17979,Greenland,NH,Rockingham County,,city-us,4084,43.040,-70.846,4112
+17981,Greenland,AR,Washington County,,city-us,1218,35.994,-94.175,3609
+17977,Greenland,SD,McCook County,,city-us,322,43.623,-97.179,0
+17978,Greenland,MI,Ontonagon County,,city-us,146,46.779,-89.102,380
+17973,Greenland,ND,Barnes County,,city-us,41,46.675,-98.376,133
+17974,Greenland,CO,Douglas County,,city-us,0,39.182,-104.855,1375
+17975,Greenland,WV,Grant County,,city-us,0,39.192,-79.153,461
+17976,Greenland,MN,Le Sueur County,,city-us,0,44.207,-93.728,377
+17980,Greenland,OH,Ross County,,city-us,0,39.445,-83.121,301

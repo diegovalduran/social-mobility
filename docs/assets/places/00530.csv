@@ -1,18 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5971,Bradley,IL,,city-us,15039,41.14,-87.86,4122
-5979,Bradley,MI,,city-us,3088,42.64,-85.61,2940
-5976,Bradley,WI,,city-us,2408,45.54,-89.76,2754
-5970,Bradley,IL,,city-us,1887,37.91,-89.57,4935
-5977,Bradley,WV,,city-us,1844,37.87,-81.19,2072
-5972,Bradley,ME,,city-us,863,44.92,-68.63,3432
-5968,Bradley,AR,,city-us,403,33.10,-93.65,2762
-5974,Bradley,SC,,city-us,139,34.05,-82.24,1987
-5973,Bradley,OK,,city-us,80,34.88,-97.71,1681
-5969,Bradley,CA,,city-us,69,35.86,-120.80,4527
-5975,Bradley,SD,,city-us,58,45.09,-97.64,3029
-5978,Bradley,GA,,city-us,0,33.05,-83.56,495
-5980,Bradley,MS,,city-us,0,33.37,-88.98,208
-5981,Bradley,NE,,city-us,0,41.77,-103.38,206
-5982,Bradley,OH,,city-us,0,40.25,-80.78,280
-5983,Bradley,WV,,city-us,0,38.16,-81.72,87
-5984,Bradley,WI,,city-us,0,44.80,-90.01,222
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2717,Baxter,MN,Crow Wing County,,city-us,8830,46.343,-94.287,5385
+2727,Baxter,TN,Putnam County,,city-us,1637,36.154,-85.644,2373
+2721,Baxter,IA,Jasper County,,city-us,973,41.826,-93.152,3200
+2729,Baxter,MI,Wexford County,,city-us,587,44.468,-85.527,2767
+2723,Baxter,MN,Lac qui Parle County,,city-us,177,44.930,-95.916,1919
+2716,Baxter,WV,Berkeley County,,city-us,0,39.557,-78.078,127
+2718,Baxter,AR,Drew County,,city-us,0,33.529,-91.497,369
+2719,Baxter,KY,Harlan County,,city-us,0,36.860,-83.331,272
+2720,Baxter,TX,Henderson County,,city-us,0,32.169,-95.749,98
+2722,Baxter,PA,Jefferson County,,city-us,0,41.134,-79.150,257
+2724,Baxter,WV,Marion County,,city-us,0,39.544,-80.142,311
+2725,Baxter,CA,Placer County,,city-us,0,39.213,-120.781,285
+2726,Baxter,CO,Pueblo County,,city-us,0,38.276,-104.492,153
+2728,Baxter,GA,Union County,,city-us,0,34.739,-84.075,538

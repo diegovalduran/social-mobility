@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38304,Gibsonville,NC,,city-us,9013,36.10,-79.54,6668
-38305,Gibsonville,CA,,city-us,0,39.74,-120.91,207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30948,Newcastle,,,United Kingdom,city-international,300196,55.008,-1.658,8309
+30947,Newcastle,,,Australia,city-international,152984,-32.917,151.750,42738
+30941,Newcastle,WA,King County,,city-us,12969,47.539,-122.156,11784
+30943,Newcastle,OK,McClain County,,city-us,12204,35.247,-97.600,8275
+30945,Newcastle,WY,Weston County,,city-us,3204,43.855,-104.205,4927
+30944,Newcastle,CA,Placer County,,city-us,1224,38.874,-121.133,3578
+30942,Newcastle,ME,Lincoln County,,city-us,709,44.035,-69.537,5363
+30946,Newcastle,TX,Young County,,city-us,531,33.194,-98.739,2439
+30938,Newcastle,OH,Coshocton County,,city-us,471,40.347,-82.125,1507
+30939,Newcastle,NE,Dixon County,,city-us,436,42.670,-96.852,275
+30940,Newcastle,UT,Iron County,,city-us,254,37.667,-113.549,1157

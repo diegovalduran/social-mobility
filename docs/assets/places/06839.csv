@@ -1,4 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40669,Thornwood,NY,,city-us,4375,41.12,-73.78,5758
-40670,Thornwood,WA,,city-us,0,48.58,-122.23,257
-40671,Thornwood,WV,,city-us,0,38.56,-79.74,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34860,Polk,MO,Nodaway County,,city-us,14639,40.354,-94.865,652
+34859,Polk,PA,Monroe County,,city-us,7478,40.925,-75.503,172
+34864,Polk,WI,Washington County,,city-us,3984,43.350,-88.211,5208
+34854,Polk,OH,Crawford County,,city-us,1945,40.744,-82.829,1215
+34855,Polk,MO,DeKalb County,,city-us,742,39.984,-94.532,652
+34863,Polk,PA,Venango County,,city-us,698,41.367,-79.929,2157
+34858,Polk,IL,Macoupin County,,city-us,578,39.220,-89.975,633
+34862,Polk,NE,Polk County,,city-us,342,41.077,-97.784,3011
+34853,Polk,OH,Ashland County,,city-us,303,40.944,-82.215,3199
+34857,Polk,PA,Jefferson County,,city-us,279,41.302,-78.938,172
+34856,Polk,WV,Jackson County,,city-us,0,39.051,-81.796,86
+34861,Polk,MO,Polk County,,city-us,0,37.729,-93.299,384
+34865,Polk,IL,Will County,,city-us,0,41.312,-87.608,147

@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43417,Alvin,TX,,city-us,27576,29.42,-95.24,7223
-43420,Alvin,MI,,city-us,947,44.56,-83.53,3911
-43418,Alvin,WI,,city-us,157,45.98,-88.83,1923
-43419,Alvin,GA,,city-us,0,34.23,-83.32,236
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38913,Scotia,NY,Schenectady County,,city-us,7257,42.826,-73.964,5964
+38911,Scotia,CA,Humboldt County,,city-us,470,40.482,-124.101,10831
+38909,Scotia,NE,Greeley County,,city-us,294,41.466,-98.703,3351
+38910,Scotia,SC,Hampton County,,city-us,166,32.681,-81.243,2137
+38907,Scotia,ND,Bottineau County,,city-us,68,48.945,-100.896,138
+38908,Scotia,MO,Crawford County,,city-us,0,38.028,-91.214,459
+38912,Scotia,AR,Pope County,,city-us,0,35.331,-93.293,80

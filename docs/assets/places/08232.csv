@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44995,Waterfall,AK,,city-us,0,55.30,-133.24,514
-44996,Waterfall,PA,,city-us,0,40.13,-78.06,272
-44997,Waterfall,VA,,city-us,0,38.86,-77.67,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41637,Story,WY,Sheridan County,,city-us,887,44.575,-106.887,5777
+41634,Storey,CA,Madera County,,city-us,0,36.974,-120.019,812
+41635,Story,IN,Brown County,,city-us,0,39.099,-86.214,11179
+41636,Story,AR,Montgomery County,,city-us,0,34.693,-93.518,499
+41638,Story,NE,Sioux County,,city-us,0,42.930,-103.939,257

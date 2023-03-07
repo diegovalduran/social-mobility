@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40296,Barneveld,WI,,city-us,1323,43.02,-89.90,5183
-40295,Barneveld,NY,,city-us,139,43.27,-75.19,3169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33991,Pierpont,SD,Day County,,city-us,125,45.496,-97.831,3949
+33990,Pierpont,MO,Boone County,,city-us,65,38.862,-92.315,1532
+33989,Pierpont,OH,Ashtabula County,,city-us,0,41.749,-80.568,504
+33992,Pierpont,WV,Monongalia County,,city-us,0,39.654,-79.889,189
+33993,Pierpont,WV,Wyoming County,,city-us,0,37.627,-81.392,189

@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23378,Wadena,MN,,city-us,4335,46.45,-95.13,8402
-23379,Wadena,MN,,city-us,916,46.41,-95.09,1878
-23377,Wadena,IA,,city-us,206,42.84,-91.66,4958
-23380,Wadena,IN,,city-us,0,40.69,-87.28,2242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14259,Fairdale,PA,Greene County,,city-us,2211,39.887,-79.968,1961
+14258,Fairdale,IL,DeKalb County,,city-us,152,42.100,-88.933,2569
+14262,Fairdale,ND,Walsh County,,city-us,29,48.491,-98.231,3025
+14260,Fairdale,IN,Harrison County,,city-us,0,38.326,-86.171,123
+14261,Fairdale,WV,Raleigh County,,city-us,0,37.781,-81.363,209

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1174,Blountsville,AL,,city-us,1827,34.08,-86.59,5910
-1175,Blountsville,IN,,city-us,98,40.06,-85.24,6159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+659,Allenhurst,GA,Liberty County,,city-us,831,31.784,-81.608,2570
+661,Allenhurst,NJ,Monmouth County,,city-us,470,40.236,-74.001,15708
+660,Allenhurst,TX,Matagorda County,,city-us,0,29.009,-95.845,243

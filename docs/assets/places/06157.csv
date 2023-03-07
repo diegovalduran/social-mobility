@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38610,Binford,ND,,city-us,170,47.56,-98.35,4358
-38611,Binford,MS,,city-us,0,33.75,-88.58,141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31420,North Salem,NY,Westchester County,,city-us,5195,41.334,-73.614,7599
+31417,North Salem,IN,Hendricks County,,city-us,465,39.860,-86.642,3751
+31416,North Salem,OH,Guernsey County,,city-us,0,40.143,-81.546,266
+31418,North Salem,MO,Linn County,,city-us,0,40.031,-92.989,679
+31419,North Salem,NH,Rockingham County,,city-us,0,42.837,-71.221,615

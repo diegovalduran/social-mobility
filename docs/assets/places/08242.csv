@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45021,Pedro,AR,,city-us,0,36.17,-94.40,306
-45022,Pedro,OH,,city-us,0,38.63,-82.67,495
-45023,Pedro,WV,,city-us,0,37.66,-80.31,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41665,Strain,MO,Franklin County,,city-us,0,38.292,-91.303,246
+41666,Strain,AR,Washington County,,city-us,0,36.013,-94.066,359

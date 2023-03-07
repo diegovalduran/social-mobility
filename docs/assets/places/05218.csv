@@ -1,5 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35388,Augsburg,,Germany,city-international,295830,48.37,10.90,36429
-35385,Augsburg,MN,,city-us,68,48.50,-96.71,1795
-35386,Augsburg,AR,,city-us,0,35.41,-93.24,1407
-35387,Augsburg,IL,,city-us,0,38.87,-89.01,181
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26751,Maple Valley,WA,King County,,city-us,28153,47.393,-122.046,10676
+26754,Maple Valley,MI,Roscommon County,,city-us,3731,44.350,-84.425,3403
+26752,Maple Valley,MI,Montcalm County,,city-us,2008,43.344,-85.394,184
+26755,Maple Valley,MI,Sanilac County,,city-us,1175,43.194,-82.933,184
+26753,Maple Valley,WI,Oconto County,,city-us,661,44.995,-88.299,1953
+26750,Maple Valley,IN,Henry County,,city-us,0,39.867,-85.587,458

@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40227,Goodsprings,NV,,city-us,84,35.83,-115.43,4332
-40228,Goodsprings,AL,,city-us,0,33.67,-87.23,189
-40229,Goodsprings,TN,,city-us,0,35.33,-84.56,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33874,Phenix,IL,Henry County,,city-us,1681,41.530,-90.145,1241
+33872,Phenix,VA,Charlotte County,,city-us,231,37.080,-78.748,1940
+33873,Phenix,MO,Greene County,,city-us,0,37.379,-93.546,2638
+33875,Phenix,IN,Wells County,,city-us,0,40.582,-85.107,265

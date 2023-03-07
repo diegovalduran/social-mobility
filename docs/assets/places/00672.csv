@@ -1,10 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7514,Jonesboro,AR,,city-us,79324,35.84,-90.70,14355
-7515,Jonesboro,GA,,city-us,4510,33.52,-84.35,4937
-7518,Jonesboro,LA,,city-us,4181,32.24,-92.72,7253
-7516,Jonesboro,IL,,city-us,1703,37.45,-89.27,2593
-7517,Jonesboro,IN,,city-us,1502,40.48,-85.63,4278
-7519,Jonesboro,ME,,city-us,592,44.67,-67.59,3548
-7520,Jonesboro,OH,,city-us,0,39.30,-83.83,181
-7521,Jonesboro,TX,,city-us,0,31.61,-97.88,2108
-7522,Jonesboro,VA,,city-us,0,37.78,-78.98,105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3412,Ben Hur,TX,Limestone County,,city-us,100,31.510,-96.728,801
+3411,Ben Hur,VA,Lee County,,city-us,0,36.733,-83.082,464
+3413,Ben Hur,CA,Mariposa County,,city-us,0,37.352,-119.958,289
+3414,Ben Hur,AR,Newton County,,city-us,0,35.730,-92.973,224

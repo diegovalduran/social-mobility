@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44466,Mosul,,Iraq,city-international,1694000,36.37,43.12,51261
-44465,Mosel,WI,,city-us,839,43.81,-87.74,2174
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40611,Sprague,CT,Southeastern Connecticut Planning Region,,city-us,2950,41.636,-72.078,4114
+40609,Sprague,WA,Lincoln County,,city-us,520,47.300,-117.976,4574
+40608,Sprague,NE,Lancaster County,,city-us,137,40.626,-96.745,4054
+40606,Sprague,MO,Bates County,,city-us,0,38.096,-94.460,498
+40607,Sprague,WI,Juneau County,,city-us,0,44.148,-90.131,467
+40610,Sprague,WV,Raleigh County,,city-us,0,37.793,-81.184,507

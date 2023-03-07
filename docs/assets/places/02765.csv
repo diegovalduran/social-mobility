@@ -1,4 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22772,Ottumwa,IA,,city-us,25350,41.02,-92.41,16640
-22773,Ottumwa,KS,,city-us,0,38.28,-95.80,244
-22774,Ottumwa,SD,,city-us,0,44.23,-101.35,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13755,Englewood,CO,Arapahoe County,,city-us,33516,39.648,-104.988,10205
+13756,Englewood,NJ,Bergen County,,city-us,29113,40.893,-73.973,21040
+13758,Englewood,FL,Charlotte County / Sarasota County,,city-us,19683,26.969,-82.348,4386
+13764,Englewood,OH,Montgomery County,,city-us,13396,39.878,-84.302,6447
+13763,Englewood,TN,McMinn County,,city-us,1503,35.425,-84.487,5066
+13760,Englewood,WI,Columbia County,,city-us,810,43.429,-89.075,2288
+13766,Englewood,PA,Schuylkill County,,city-us,775,40.784,-76.242,1582
+13759,Englewood,KS,Clark County,,city-us,54,37.038,-99.983,3207
+13765,Englewood,SD,Perkins County,,city-us,16,45.240,-102.127,407
+13757,Englewood,MO,Boone County,,city-us,0,38.822,-92.184,236
+13761,Englewood,CA,Humboldt County,,city-us,0,40.397,-123.939,1173
+13762,Englewood,SD,Lawrence County,,city-us,0,44.297,-103.785,407

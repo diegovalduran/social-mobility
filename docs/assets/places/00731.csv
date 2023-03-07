@@ -1,13 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8218,Norman,OK,,city-us,128097,35.22,-97.44,37939
-8212,Norman,MI,,city-us,1579,44.20,-85.94,4809
-8211,Norman,IL,,city-us,324,41.31,-88.52,714
-8210,Norman,AR,,city-us,310,34.46,-93.68,3065
-8213,Norman,MN,,city-us,308,46.30,-92.73,306
-8214,Norman,MN,,city-us,229,44.67,-96.29,306
-8215,Norman,NC,,city-us,99,35.17,-79.72,1766
-8216,Norman,ND,,city-us,41,47.37,-97.41,0
-8217,Norman,NE,,city-us,36,40.48,-98.79,2756
-8219,Norman,CA,,city-us,0,39.41,-122.19,399
-8220,Norman,IN,,city-us,0,38.95,-86.28,719
-8221,Norman,WI,,city-us,0,44.37,-87.60,174
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3818,Bethlehem,PA,Lehigh County / Northampton County,,city-us,75624,40.626,-75.368,34807
+3806,Bethlehem,NY,Albany County,,city-us,34924,42.585,-73.827,14897
+3821,Bethlehem,PA,Northampton County,,city-us,25966,40.664,-75.314,6939
+3824,Bethlehem,OH,Stark County,,city-us,5502,40.690,-81.482,129
+3817,Bethlehem,NJ,Hunterdon County,,city-us,3748,40.665,-75.012,14315
+3807,Bethlehem,NC,Alexander County,,city-us,3593,35.826,-81.307,2304
+3820,Bethlehem,CT,Naugatuck Valley Planning Region,,city-us,3386,41.636,-73.211,7733
+3822,Bethlehem,WV,Ohio County,,city-us,2558,40.044,-80.691,2968
+3811,Bethlehem,OH,Coshocton County,,city-us,1060,40.352,-81.948,129
+3812,Bethlehem,NH,Grafton County,,city-us,956,44.280,-71.688,8177
+3808,Bethlehem,GA,Barrow County,,city-us,732,33.932,-83.714,13594
+3815,Bethlehem,MO,Henry County,,city-us,701,38.322,-93.683,202
+3819,Bethlehem,MS,Marshall County,,city-us,319,34.578,-89.328,680
+3809,Bethlehem,MD,Caroline County,,city-us,0,38.746,-75.944,558
+3810,Bethlehem,IN,Clark County,,city-us,0,38.539,-85.421,3150
+3813,Bethlehem,WV,Harrison County,,city-us,0,39.392,-80.281,193
+3814,Bethlehem,KY,Henry County,,city-us,0,38.401,-85.069,921
+3816,Bethlehem,FL,Holmes County,,city-us,0,30.925,-85.739,294
+3823,Bethlehem,OH,Richland County,,city-us,0,40.839,-82.720,274
+3825,Bethlehem,TN,Wayne County,,city-us,0,35.156,-87.588,78
+3826,Bethlehem,LA,Winn Parish,,city-us,0,32.006,-92.774,82

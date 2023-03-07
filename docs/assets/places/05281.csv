@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35618,Comfort,TX,,city-us,2363,29.97,-98.91,5785
-35617,Comfort,MN,,city-us,1236,45.86,-93.21,1985
-35619,Comfort,WV,,city-us,152,38.13,-81.62,307
-35620,Comfort,NC,,city-us,0,35.01,-77.51,99
-35621,Comfort,WI,,city-us,0,44.77,-92.04,154
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27105,Martinez,CA,Contra Costa County,,city-us,36819,38.019,-122.134,15301
+27104,Martinez,GA,Columbia County,,city-us,33829,33.517,-82.076,3927
+27106,Martinez,CA,Riverside County,,city-us,0,33.563,-116.153,512
+27107,Martinez,TX,Starr County,,city-us,0,26.422,-98.753,354

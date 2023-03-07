@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29818,Laketon,MI,,city-us,7707,43.27,-86.32,1888
-29817,Laketon,IN,,city-us,368,40.97,-85.84,313
-29820,Laketon,MI,,city-us,169,46.41,-85.75,2732
-29819,Laketon,SD,,city-us,167,44.51,-97.10,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20205,Hinson,FL,Gadsden County,,city-us,0,30.648,-84.417,182
+21178,Hynson,MD,Caroline County,,city-us,0,38.703,-75.858,368

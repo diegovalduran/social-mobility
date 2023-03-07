@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28068,Rockbridge,WI,,city-us,721,43.45,-90.36,2318
-28066,Rockbridge,IL,,city-us,174,39.27,-90.20,1967
-28067,Rockbridge,OH,,city-us,54,39.58,-82.52,680
-28069,Rockbridge,MO,,city-us,0,36.79,-92.41,2284
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18450,Halfmoon,NY,Saratoga County,,city-us,26092,42.861,-73.731,4274
+18449,Halfmoon,PA,Centre County,,city-us,2809,40.773,-78.024,2825

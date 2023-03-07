@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38688,Corinne,UT,,city-us,861,41.55,-112.11,6203
-38689,Corinne,WV,,city-us,468,37.57,-81.36,216
-38690,Corinne,MI,,city-us,427,46.08,-85.71,3360
-38687,Corinne,ND,,city-us,38,47.27,-98.52,0
-38691,Corinne,OK,,city-us,0,34.19,-95.29,1738
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31515,Northwest,OH,Williams County,,city-us,1110,41.658,-84.746,1797
+31512,Northwest,NC,Brunswick County,,city-us,777,34.313,-78.161,2399
+31514,Northwest,ND,Kidder County,,city-us,20,47.272,-100.041,0
+31513,Northwest,ND,Dickey County,,city-us,15,46.237,-98.933,0

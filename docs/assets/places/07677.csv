@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43387,Three Way,TN,,city-us,1879,35.78,-88.86,2159
-43388,Three Way,AZ,,city-us,0,32.95,-109.23,0
-43389,Three Way,TX,,city-us,0,32.16,-98.03,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38879,Sciota,MI,Shiawassee County,,city-us,1675,42.908,-84.322,2056
+38876,Sciota,MN,Dakota County,,city-us,459,44.505,-93.056,1867
+38877,Sciota,IL,McDonough County,,city-us,450,40.589,-90.732,299
+38878,Sciota,PA,Monroe County,,city-us,0,40.929,-75.316,223

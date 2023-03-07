@@ -1,9 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3790,McIntosh,MN,,city-us,591,47.64,-95.89,3581
-3791,McIntosh,NM,,city-us,517,34.86,-106.05,377
-3789,McIntosh,FL,,city-us,479,29.45,-82.22,2138
-3788,McIntosh,AL,,city-us,201,31.27,-88.03,3074
-3792,McIntosh,SD,,city-us,112,45.92,-101.35,2642
-3793,McIntosh,GA,,city-us,0,31.83,-81.52,710
-3794,McIntosh,MO,,city-us,0,39.40,-90.97,169
-3795,McIntosh,WA,,city-us,0,46.86,-122.78,429
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1627,Ash Grove,MO,Greene County,,city-us,1513,37.315,-93.585,3798
+1628,Ash Grove,IL,Iroquois County,,city-us,649,40.624,-87.855,221
+1630,Ash Grove,IL,Shelby County,,city-us,412,39.402,-88.523,221
+1626,Ash Grove,NE,Franklin County,,city-us,109,40.177,-99.119,130
+1625,Ash Grove,IA,Davis County,,city-us,0,40.871,-92.553,158
+1629,Ash Grove,KS,Lincoln County,,city-us,0,39.161,-98.362,318
+1631,Ash Grove,IN,Tippecanoe County,,city-us,0,40.548,-86.848,399

@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25431,Fall Creek,WI,,city-us,1424,44.76,-91.28,3636
-25430,Fall Creek,IL,,city-us,31,39.78,-91.30,973
-25432,Fall Creek,OR,,city-us,0,43.96,-122.82,814
-25433,Fall Creek,TX,,city-us,0,32.40,-97.65,3022
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16269,Garber,OK,Garfield County,,city-us,720,36.437,-97.586,3767
+16268,Garber,IA,Clayton County,,city-us,77,42.742,-91.262,2899
+16270,Garber,MO,Taney County,,city-us,0,36.692,-93.299,400

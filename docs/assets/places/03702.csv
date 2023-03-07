@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28489,St. Ann,MO,,city-us,12900,38.73,-90.38,6376
-28488,St. Anne,IL,,city-us,1941,41.04,-87.72,1355
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18873,Harlan,OH,Warren County,,city-us,5036,39.305,-84.073,2917
+18871,Harlan,IA,Shelby County,,city-us,4912,41.653,-95.326,6076
+18867,Harlan,IN,Allen County,,city-us,1754,41.196,-84.920,934
+18869,Harlan,KY,Harlan County,,city-us,1718,36.843,-83.322,7994
+18874,Harlan,MI,Wexford County,,city-us,1072,44.461,-85.748,4325
+18868,Harlan,KS,Decatur County,,city-us,35,39.948,-100.350,355
+18870,Harlan,OR,Lincoln County,,city-us,0,44.540,-123.693,1312
+18872,Harlan,KS,Smith County,,city-us,0,39.606,-98.767,467

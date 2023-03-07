@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27219,Mulberry Grove,IL,,city-us,543,38.93,-89.27,2553
-27220,Mulberry Grove,GA,,city-us,0,32.66,-84.96,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17748,Graysville,AL,Jefferson County,,city-us,1915,33.621,-86.971,4669
+17751,Graysville,TN,Rhea County,,city-us,1470,35.447,-85.084,3075
+17749,Graysville,OH,Monroe County,,city-us,66,39.666,-81.174,2943
+17745,Graysville,VA,Accomack County,,city-us,0,37.713,-75.679,73
+17746,Graysville,GA,Catoosa County,,city-us,0,34.976,-85.141,620
+17747,Graysville,PA,Greene County,,city-us,0,39.932,-80.385,249
+17750,Graysville,MO,Putnam County,,city-us,0,40.446,-92.779,394
+17752,Graysville,IN,Sullivan County,,city-us,0,39.117,-87.556,348

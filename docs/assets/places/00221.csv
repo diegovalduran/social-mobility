@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2341,Forkland,AL,,city-us,444,32.65,-87.88,2923
-2342,Forkland,KY,,city-us,0,37.55,-84.98,446
-2343,Forkland,VA,,city-us,0,37.01,-77.96,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1161,Annawan,IL,Henry County,,city-us,1113,41.373,-89.912,1252
+1160,Annawan,IL,Bureau County / Henry County,,city-us,879,41.396,-89.891,6233

@@ -1,15 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15408,Grover,IL,,city-us,3542,38.36,-88.31,338
-15412,Grover,WI,,city-us,1738,45.06,-87.86,2146
-15414,Grover,WY,,city-us,1269,42.79,-110.94,2084
-15409,Grover,NC,,city-us,808,35.17,-81.45,9683
-15411,Grover,SC,,city-us,297,33.11,-80.59,481
-15413,Grover,WI,,city-us,213,45.20,-90.62,3504
-15407,Grover,CO,,city-us,154,40.87,-104.23,2742
-15410,Grover,ND,,city-us,16,48.86,-101.81,0
-15415,Grover,KS,,city-us,0,39.06,-95.46,276
-15416,Grover,MO,,city-us,0,38.58,-90.64,277
-15417,Grover,NE,,city-us,0,40.78,-97.04,249
-15418,Grover,PA,,city-us,0,41.61,-76.87,335
-15419,Grover,SD,,city-us,0,44.81,-97.27,272
-15420,Grover,UT,,city-us,0,38.23,-111.35,3296
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8396,Cicero,IL,Cook County,,city-us,83161,41.846,-87.754,12745
+8398,Cicero,NY,Onondaga County,,city-us,31413,43.172,-76.056,7109
+8397,Cicero,IN,Hamilton County,,city-us,5433,40.124,-86.013,4325
+8399,Cicero,WI,Outagamie County,,city-us,1092,44.544,-88.446,2635
+8400,Cicero,KS,Sumner County,,city-us,0,37.334,-97.341,443

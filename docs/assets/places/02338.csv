@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19931,Milledgeville,GA,,city-us,17165,33.08,-83.23,15242
-19932,Milledgeville,IL,,city-us,1085,41.96,-89.77,3071
-19934,Milledgeville,TN,,city-us,274,35.38,-88.37,2133
-19933,Milledgeville,OH,,city-us,100,39.59,-83.59,3088
-19935,Milledgeville,IN,,city-us,0,39.97,-86.50,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11767,Dietrich,ID,Lincoln County,,city-us,293,42.909,-114.265,2970
+11766,Dietrich,PA,Dauphin County,,city-us,0,40.528,-76.690,198

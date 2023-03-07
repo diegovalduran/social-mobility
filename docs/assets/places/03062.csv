@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24498,Brenton,IL,,city-us,862,40.72,-88.18,1097
-24499,Brenton,WV,,city-us,82,37.60,-81.64,228
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15365,Forest Hills,MI,Kent County,,city-us,28573,42.948,-85.492,2499
+15360,Forest Hills,PA,Allegheny County,,city-us,6333,40.420,-79.850,4001
+15361,Forest Hills,TN,Davidson County,,city-us,4758,36.068,-86.844,14720
+15363,Forest Hills,KY,Jefferson County,,city-us,438,38.215,-85.586,2228
+15362,Forest Hills,NC,Jackson County,,city-us,310,35.297,-83.193,2945
+15364,Forest Hills,WV,Kanawha County,,city-us,0,38.352,-81.668,94
+15366,Forest Hills,VA,Page County,,city-us,0,38.657,-78.472,170
+15419,Forrest Hills,TN,Wayne County,,city-us,0,35.301,-87.768,82

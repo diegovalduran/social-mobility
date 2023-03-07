@@ -1,3 +1,28 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46840,Broad Run,MD,,city-us,0,39.39,-77.60,2444
-46841,Broad Run,VA,,city-us,0,38.83,-77.72,2127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45001,Walnut,CA,Los Angeles County,,city-us,27830,34.020,-117.865,12561
+44997,Walnut,OH,Fairfield County,,city-us,6729,39.876,-82.522,200
+44993,Walnut,IL,Bureau County,,city-us,1574,41.544,-89.579,2290
+44998,Walnut,OH,Gallia County,,city-us,1002,38.721,-82.412,200
+45010,Walnut,IA,Pottawattamie County,,city-us,732,41.477,-95.222,3843
+45014,Walnut,MS,Tippah County,,city-us,706,34.946,-88.900,2969
+44994,Walnut,KS,Butler County,,city-us,692,37.621,-96.985,453
+44995,Walnut,KS,Cowley County,,city-us,629,37.256,-96.961,453
+44992,Walnut,KS,Brown County,,city-us,549,39.848,-95.709,453
+45013,Walnut,KS,Saline County,,city-us,523,38.734,-97.531,453
+44996,Walnut,KS,Crawford County,,city-us,488,37.622,-95.014,453
+44988,Walnut,KS,Atchison County,,city-us,394,39.463,-95.063,453
+44990,Walnut,MO,Bates County,,city-us,332,38.166,-94.551,1270
+44989,Walnut,KS,Barton County,,city-us,327,38.478,-98.978,453
+44991,Walnut,KS,Bourbon County,,city-us,119,37.719,-94.996,453
+45005,Walnut,KS,Marshall County,,city-us,115,39.791,-96.746,453
+45012,Walnut,KS,Reno County,,city-us,96,38.130,-98.308,453
+45006,Walnut,KS,Pawnee County,,city-us,72,38.299,-99.086,453
+44999,Walnut,KS,Jewell County,,city-us,62,39.966,-98.334,453
+45007,Walnut,KS,Phillips County,,city-us,19,39.959,-99.346,453
+45000,Walnut,NE,Knox County,,city-us,0,42.549,-98.209,257
+45002,Walnut,MO,Macon County,,city-us,0,39.990,-92.718,233
+45003,Walnut,NC,Madison County,,city-us,0,35.849,-82.739,393
+45004,Walnut,IN,Marshall County,,city-us,0,41.176,-86.212,454
+45008,Walnut,OH,Pickaway County,,city-us,0,39.709,-82.852,220
+45009,Walnut,WV,Pocahontas County,,city-us,0,38.423,-80.074,127
+45011,Walnut,MS,Quitman County,,city-us,0,34.149,-90.399,139

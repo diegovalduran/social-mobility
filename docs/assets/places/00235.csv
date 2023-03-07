@@ -1,20 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2565,Glencoe,IL,,city-us,8687,42.14,-87.76,14874
-2570,Glencoe,MN,,city-us,5710,44.77,-94.15,3702
-2563,Glencoe,AL,,city-us,5412,33.95,-85.93,3929
-2564,Glencoe,FL,,city-us,1074,29.03,-80.97,1924
-2577,Glencoe,MI,,city-us,930,43.98,-82.96,2199
-2572,Glencoe,OK,,city-us,515,36.23,-96.93,5346
-2573,Glencoe,WI,,city-us,485,44.28,-91.61,1906
-2568,Glencoe,KY,,city-us,353,38.71,-84.82,2762
-2569,Glencoe,LA,,city-us,240,29.81,-91.67,658
-2566,Glencoe,KS,,city-us,177,37.69,-96.61,472
-2571,Glencoe,OH,,city-us,130,40.01,-80.89,622
-2567,Glencoe,KS,,city-us,67,38.91,-99.65,0
-2574,Glencoe,AR,,city-us,0,36.29,-91.75,300
-2575,Glencoe,CA,,city-us,0,38.35,-120.58,904
-2576,Glencoe,MD,,city-us,0,39.55,-76.64,158
-2578,Glencoe,MO,,city-us,0,38.54,-90.62,349
-2579,Glencoe,NM,,city-us,0,33.41,-105.45,6156
-2580,Glencoe,NC,,city-us,0,36.14,-79.43,656
-2581,Glencoe,OR,,city-us,0,45.60,-122.99,2479
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1244,Anton,TX,Hockley County,,city-us,883,33.811,-102.164,3518
+1245,Anton,KY,Hopkins County,,city-us,0,37.352,-87.395,90
+1246,Anton,CO,Washington County,,city-us,0,39.741,-103.218,474

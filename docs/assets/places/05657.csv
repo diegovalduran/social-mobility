@@ -1,13 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36940,Bolivar,MO,,city-us,10949,37.61,-93.41,5264
-36945,Bolivar,TN,,city-us,5144,35.26,-88.99,3236
-36942,Bolivar,NY,,city-us,2030,42.02,-78.13,4429
-36946,Bolivar,WV,,city-us,1033,39.32,-77.75,4377
-36943,Bolivar,OH,,city-us,997,40.65,-81.45,3809
-36944,Bolivar,PA,,city-us,433,40.40,-79.15,5347
-36941,Bolivar,MS,,city-us,39,33.66,-91.05,2756
-36947,Bolivar,AL,,city-us,0,34.91,-85.78,759
-36948,Bolivar,GA,,city-us,0,34.37,-84.71,404
-36949,Bolivar,IN,,city-us,0,40.96,-85.79,398
-36950,Bolivar,LA,,city-us,0,30.87,-90.39,150
-36951,Bolivar,TX,,city-us,0,33.36,-97.25,1894
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29059,Monongahela,PA,Washington County,,city-us,4121,40.203,-79.926,7601
+29058,Monongahela,PA,Greene County,,city-us,1466,39.815,-79.947,2841

@@ -1,10 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19805,Locust Grove,VA,,city-us,12696,38.28,-77.73,6805
-19797,Locust Grove,GA,,city-us,9750,33.35,-84.11,4650
-19798,Locust Grove,OK,,city-us,1375,36.20,-95.17,6022
-19799,Locust Grove,AR,,city-us,0,35.72,-91.74,314
-19800,Locust Grove,IN,,city-us,0,39.77,-84.85,162
-19801,Locust Grove,OH,,city-us,0,38.99,-83.38,415
-19802,Locust Grove,OH,,city-us,0,40.00,-82.44,135
-19803,Locust Grove,OH,,city-us,0,40.94,-80.76,174
-19804,Locust Grove,OR,,city-us,0,45.60,-120.79,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11685,Dewey,OK,Washington County,,city-us,3379,36.796,-95.936,2777
+11679,Dewey,WI,Portage County,,city-us,961,44.642,-89.577,2089
+11676,Dewey,WI,Burnett County,,city-us,555,45.774,-92.083,1994
+11681,Dewey,WI,Rusk County,,city-us,541,45.504,-90.978,1888
+11677,Dewey,IL,Champaign County,,city-us,105,40.319,-88.282,1682
+11680,Dewey,MN,Roseau County,,city-us,98,48.675,-96.323,1881
+11684,Dewey,ND,Walsh County,,city-us,28,48.422,-98.249,184
+11675,Dewey,MT,Beaverhead County,,city-us,12,45.777,-112.855,497
+11678,Dewey,SD,Custer County,,city-us,7,43.530,-104.038,1856
+11682,Dewey,WA,Skagit County,,city-us,0,48.425,-122.609,445
+11683,Dewey,IN,Vigo County,,city-us,0,39.509,-87.376,270

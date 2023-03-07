@@ -1,25 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18581,Spring Hill,FL,,city-us,114706,28.48,-82.53,9808
-18589,Spring Hill,TN,,city-us,53339,35.75,-86.92,9549
-18584,Spring Hill,KS,,city-us,8547,38.76,-94.82,8568
-18585,Spring Hill,KS,,city-us,1996,38.79,-94.78,360
-18587,Spring Hill,PA,,city-us,843,40.38,-78.67,2021
-18599,Spring Hill,FL,,city-us,160,30.77,-86.94,326
-18583,Spring Hill,IN,,city-us,94,39.83,-86.19,2920
-18582,Spring Hill,IA,,city-us,68,41.41,-93.64,2654
-18586,Spring Hill,MN,,city-us,67,45.52,-94.83,2701
-18588,Spring Hill,SD,,city-us,29,44.41,-99.27,0
-18590,Spring Hill,AL,,city-us,0,32.08,-85.34,344
-18591,Spring Hill,AL,,city-us,0,31.87,-86.57,159
-18592,Spring Hill,AL,,city-us,0,31.95,-88.14,166
-18593,Spring Hill,AL,,city-us,0,31.36,-86.79,183
-18594,Spring Hill,AL,,city-us,0,34.19,-86.96,148
-18595,Spring Hill,AL,,city-us,0,31.11,-87.04,155
-18596,Spring Hill,AL,,city-us,0,31.69,-85.96,205
-18597,Spring Hill,AL,,city-us,0,33.98,-87.56,133
-18598,Spring Hill,CA,,city-us,0,39.23,-121.04,178
-18600,Spring Hill,GA,,city-us,0,33.87,-84.48,469
-18601,Spring Hill,IN,,city-us,0,39.41,-87.38,241
-18602,Spring Hill,TX,,city-us,0,33.60,-94.67,694
-18603,Spring Hill,TX,,city-us,0,32.56,-94.80,582
-18604,Spring Hill,VA,,city-us,0,38.26,-79.05,415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10733,Curtisville,MI,Alcona County,,city-us,1236,44.557,-83.761,4280
+10734,Curtisville,PA,Allegheny County,,city-us,1041,40.642,-79.851,2093
+10735,Curtisville,IN,Tipton County,,city-us,0,40.318,-85.899,1250

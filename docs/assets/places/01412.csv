@@ -1,21 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13628,Paradise,NV,,city-us,189852,36.10,-115.15,7154
-13629,Paradise,PA,,city-us,5680,39.99,-76.10,232
-13620,Paradise,CA,,city-us,5268,39.76,-121.62,16642
-13624,Paradise,MI,,city-us,5000,44.58,-85.50,3066
-13631,Paradise,PA,,city-us,3983,39.91,-76.95,232
-13630,Paradise,PA,,city-us,2916,41.11,-75.28,232
-13633,Paradise,UT,,city-us,1006,41.57,-111.84,1998
-13632,Paradise,TX,,city-us,522,33.15,-97.69,785
-13621,Paradise,CA,,city-us,201,37.48,-118.60,3665
-13626,Paradise,MT,,city-us,157,47.39,-114.80,2522
-13625,Paradise,MO,,city-us,75,39.43,-94.52,1023
-13623,Paradise,KS,,city-us,34,39.11,-98.92,7277
-13627,Paradise,ND,,city-us,32,47.61,-98.57,0
-13622,Paradise,IL,,city-us,0,39.41,-88.44,175
-13634,Paradise,FL,,city-us,0,29.70,-82.35,761
-13635,Paradise,IN,,city-us,0,38.00,-87.38,520
-13636,Paradise,MI,,city-us,0,46.63,-85.04,1743
-13637,Paradise,OH,,city-us,0,41.10,-80.70,99
-13638,Paradise,OR,,city-us,0,45.94,-117.22,1068
-13639,Paradise,WV,,city-us,0,38.58,-81.80,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7115,Carterville,IL,Williamson County,,city-us,5828,37.760,-89.077,4472
+7113,Carterville,MO,Jasper County,,city-us,1847,37.149,-94.443,4643
+7114,Carterville,MT,Rosebud County,,city-us,0,46.299,-106.468,1503

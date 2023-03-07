@@ -1,6 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41278,Whitehouse,TX,,city-us,8734,32.23,-95.23,6901
-41277,Whitehouse,OH,,city-us,5025,41.52,-83.80,3880
-41279,Whitehouse,GA,,city-us,0,33.54,-84.14,325
-41280,Whitehouse,KY,,city-us,0,37.87,-82.70,650
-41281,Whitehouse,NJ,,city-us,0,40.62,-74.74,1444
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35765,Rainbow,CA,San Diego County,,city-us,2129,33.410,-117.148,4263
+35763,Rainbow,SD,Perkins County,,city-us,22,45.502,-102.410,0
+35768,Rainbow,ND,Williams County,,city-us,18,48.509,-103.335,0
+35760,Rainbow,VA,Fairfax County,,city-us,0,38.758,-77.335,180
+35761,Rainbow,OR,Lane County,,city-us,0,44.167,-122.237,324
+35762,Rainbow,AL,Madison County,,city-us,0,34.752,-86.736,199
+35764,Rainbow,CA,Placer County,,city-us,0,39.310,-120.509,164
+35766,Rainbow,TX,Somervell County,,city-us,0,32.266,-97.714,966
+35767,Rainbow,OH,Washington County,,city-us,0,39.494,-81.465,306

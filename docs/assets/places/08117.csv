@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44678,Peterstown,WV,,city-us,454,37.40,-80.80,3386
-44679,Peterstown,IL,,city-us,0,41.50,-89.15,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41096,St. Mary,MO,Ste. Genevieve County,,city-us,318,37.879,-89.949,3874
+41095,St. Mary,ND,McLean County,,city-us,202,47.625,-101.494,0
+41094,St. Mary,KY,Marion County,,city-us,142,37.581,-85.346,1716
+41092,St. Mary,MT,Glacier County,,city-us,54,48.744,-113.428,1227
+41093,St. Mary,IL,Hancock County,,city-us,0,40.346,-90.934,178
+41097,St. Mary,MN,Waseca County,,city-us,0,44.028,-93.602,244

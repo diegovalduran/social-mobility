@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35119,Spur,TX,,city-us,740,33.48,-100.86,4274
-35118,Spurr,MI,,city-us,261,46.48,-88.25,3743
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26449,Maine,,,United States,state,1385340,45.219,-69.015,48982
+26443,Maine,IL,Cook County,,city-us,137650,42.034,-87.864,207
+26442,Maine,NY,Broome County,,city-us,5125,42.196,-76.017,3421
+26446,Maine,WI,Marathon County,,city-us,2607,45.027,-89.690,2224
+26440,Main,PA,Columbia County,,city-us,1276,40.977,-76.378,3468
+26448,Maine,WI,Outagamie County,,city-us,857,44.548,-88.560,2101
+26447,Maine,MN,Otter Tail County,,city-us,666,46.406,-95.852,2104
+26445,Maine,IL,Grundy County,,city-us,309,41.240,-88.330,207
+26441,Maine,ND,Adams County,,city-us,10,46.244,-102.560,122
+26444,Maine,NC,Davie County,,city-us,0,35.931,-80.546,239

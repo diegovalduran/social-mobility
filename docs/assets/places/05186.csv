@@ -1,15 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35242,Whitehall,PA,,city-us,29178,40.66,-75.50,14594
-35240,Whitehall,OH,,city-us,20101,39.97,-82.89,9014
-35241,Whitehall,PA,,city-us,14902,40.36,-79.99,5518
-35239,Whitehall,NY,,city-us,4002,43.54,-73.39,6294
-35237,Whitehall,MI,,city-us,2934,43.41,-86.35,7440
-35243,Whitehall,WI,,city-us,1635,44.37,-91.32,4675
-35238,Whitehall,MT,,city-us,1039,45.87,-112.10,5257
-35244,Whitehall,AR,,city-us,0,35.48,-90.74,328
-35245,Whitehall,IN,,city-us,0,39.17,-86.68,376
-35246,Whitehall,LA,,city-us,0,31.62,-92.04,254
-35247,Whitehall,LA,,city-us,0,30.29,-90.70,263
-35248,Whitehall,MD,,city-us,0,38.56,-76.01,128
-35249,Whitehall,NJ,,city-us,0,40.96,-74.74,541
-35250,Whitehall,VA,,city-us,0,37.73,-77.04,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26609,Mankato,MN,Blue Earth County / Le Sueur County / Nicollet County,,city-us,44693,44.171,-93.976,18345
+26608,Mankato,MN,Blue Earth County,,city-us,1812,44.129,-93.932,2908
+26610,Mankato,KS,Jewell County,,city-us,848,39.787,-98.210,3976

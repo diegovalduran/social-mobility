@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34961,Pipestone,MN,,city-us,4160,44.00,-96.32,8401
-34960,Pipestone,MI,,city-us,2152,42.02,-86.29,3721
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26248,Machias,ME,Washington County,,city-us,1837,44.696,-67.444,18148
+26247,Machias,WA,Snohomish County,,city-us,1239,47.981,-122.046,2108
+26246,Machias,NY,Cattaraugus County,,city-us,563,42.420,-78.494,4370

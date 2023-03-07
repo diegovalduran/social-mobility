@@ -1,14 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5621,Alexander,AR,,city-us,3603,34.62,-92.45,2388
-5629,Alexander,OH,,city-us,2739,39.24,-82.13,1331
-5625,Alexander,ME,,city-us,531,45.09,-67.48,3122
-5628,Alexander,NY,,city-us,508,42.90,-78.26,3928
-5626,Alexander,ND,,city-us,298,47.84,-103.64,3135
-5622,Alexander,IA,,city-us,165,42.81,-93.48,3147
-5623,Alexander,IL,,city-us,155,39.72,-90.04,309
-5624,Alexander,KS,,city-us,49,38.47,-99.55,5353
-5627,Alexander,ND,,city-us,18,46.67,-99.00,3135
-5630,Alexander,GA,,city-us,0,33.02,-81.88,314
-5631,Alexander,NC,,city-us,0,35.70,-82.62,285
-5632,Alexander,TX,,city-us,0,32.06,-98.21,1353
-5633,Alexander,WV,,city-us,0,38.78,-80.22,424
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2507,Barnum,MN,Carlton County,,city-us,620,46.503,-92.689,3448
+2512,Barnum,IA,Webster County,,city-us,178,42.509,-94.365,3200
+2508,Barnum,WI,Crawford County,,city-us,0,43.219,-90.840,355
+2509,Barnum,WY,Johnson County,,city-us,0,43.664,-106.909,1020
+2510,Barnum,WV,Mineral County,,city-us,0,39.442,-79.114,648
+2511,Barnum,TX,Polk County,,city-us,0,30.945,-94.673,329

@@ -1,24 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15755,Norwood,MA,,city-us,31441,42.19,-71.20,11162
-15761,Norwood,OH,,city-us,18790,39.16,-84.46,64858
-15763,Norwood,PA,,city-us,5894,39.89,-75.30,4610
-15759,Norwood,NJ,,city-us,5595,41.00,-73.96,15479
-15758,Norwood,NC,,city-us,2403,35.22,-80.12,8656
-15760,Norwood,NY,,city-us,1563,44.75,-74.99,4283
-15762,Norwood,OK,,city-us,1561,35.84,-95.15,519
-15764,Norwood,WI,,city-us,906,45.08,-89.04,2232
-15757,Norwood,MO,,city-us,587,37.11,-92.41,3587
-15750,Norwood,CO,,city-us,533,38.13,-108.29,2499
-15752,Norwood,IL,,city-us,430,40.71,-89.70,2043
-15753,Norwood,KY,,city-us,375,38.25,-85.61,1929
-15754,Norwood,LA,,city-us,282,30.97,-91.10,854
-15751,Norwood,GA,,city-us,206,33.46,-82.71,1748
-15756,Norwood,MI,,city-us,144,45.22,-85.38,1743
-15765,Norwood,AR,,city-us,0,36.12,-94.46,292
-15766,Norwood,IA,,city-us,0,41.12,-93.48,221
-15767,Norwood,KS,,city-us,0,38.71,-95.25,662
-15768,Norwood,KY,,city-us,0,37.15,-84.63,200
-15769,Norwood,MD,,city-us,0,39.13,-77.03,958
-15770,Norwood,OR,,city-us,0,45.36,-122.75,161
-15771,Norwood,VA,,city-us,0,38.14,-78.47,71
-15772,Norwood,VA,,city-us,0,37.64,-78.81,255
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8730,Clear Springs,KY,Graves County,,city-us,0,36.828,-88.539,89
+8731,Clear Springs,MO,Texas County,,city-us,0,37.108,-91.851,457

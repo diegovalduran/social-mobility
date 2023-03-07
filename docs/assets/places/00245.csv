@@ -1,36 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2790,Greenville,NC,,city-us,88728,35.61,-77.37,31478
-2801,Greenville,SC,,city-us,72095,34.85,-82.39,39834
-2802,Greenville,TX,,city-us,29578,33.14,-96.11,15904
-2789,Greenville,MS,,city-us,28777,33.41,-91.06,16641
-2796,Greenville,OH,,city-us,17067,40.12,-84.64,1728
-2804,Greenville,WI,,city-us,12264,44.30,-88.54,8073
-2795,Greenville,NY,,city-us,9417,40.99,-73.82,9485
-2787,Greenville,MI,,city-us,9190,43.18,-85.25,9958
-2800,Greenville,RI,,city-us,8955,41.87,-71.55,3553
-2776,Greenville,AL,,city-us,7263,31.83,-86.62,6845
-2782,Greenville,IL,,city-us,6507,38.89,-89.41,21973
-2798,Greenville,PA,,city-us,5499,41.40,-80.39,6795
-2794,Greenville,NY,,city-us,4706,41.37,-74.60,3302
-2785,Greenville,KY,,city-us,4469,37.20,-87.18,5198
-2778,Greenville,DE,,city-us,2763,39.78,-75.60,3862
-2792,Greenville,NH,,city-us,1971,42.76,-71.80,5015
-2786,Greenville,ME,,city-us,1488,45.46,-69.54,5910
-2803,Greenville,VA,,city-us,1476,38.00,-79.16,3405
-2784,Greenville,IN,,city-us,1449,38.37,-85.99,10445
-2780,Greenville,GA,,city-us,796,33.03,-84.71,4368
-2779,Greenville,FL,,city-us,762,30.47,-83.63,3418
-2799,Greenville,PA,,city-us,756,39.75,-78.97,2227
-2777,Greenville,CA,,city-us,648,40.14,-120.95,6481
-2793,Greenville,NY,,city-us,629,42.42,-74.02,3124
-2788,Greenville,MO,,city-us,391,37.13,-90.45,6146
-2783,Greenville,IL,,city-us,343,41.54,-89.67,2335
-2797,Greenville,OK,,city-us,152,34.01,-97.13,411
-2781,Greenville,IA,,city-us,69,43.02,-95.15,3668
-2791,Greenville,ND,,city-us,64,46.42,-98.10,177
-2805,Greenville,WV,,city-us,0,37.72,-81.87,459
-2806,Greenville,CA,,city-us,0,39.44,-121.18,274
-2807,Greenville,IN,,city-us,0,39.14,-87.30,241
-2808,Greenville,IN,,city-us,0,40.65,-85.23,195
-2809,Greenville,UT,,city-us,0,38.25,-112.71,664
-2810,Greenville,WV,,city-us,0,37.54,-80.68,328
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1283,Apple Valley,CA,San Bernardino County,,city-us,76224,34.501,-117.186,16703
+1280,Apple Valley,MN,Dakota County,,city-us,55638,44.732,-93.218,9645
+1282,Apple Valley,OH,Knox County,,city-us,5352,40.439,-82.354,427
+1284,Apple Valley,UT,Washington County,,city-us,894,37.090,-113.124,933
+1279,Apple Valley,ND,Burleigh County,,city-us,190,46.822,-100.598,494
+1281,Apple Valley,GA,Jackson County,,city-us,0,34.159,-83.509,240

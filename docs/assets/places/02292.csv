@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19597,Hazlehurst,GA,,city-us,4065,31.87,-82.59,2137
-19598,Hazlehurst,MS,,city-us,3552,31.86,-90.40,7512
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11544,Denning,IL,Franklin County,,city-us,4709,37.910,-88.985,1182
+11545,Denning,NY,Ulster County,,city-us,491,41.955,-74.482,4278
+11543,Denning,AR,Franklin County,,city-us,200,35.429,-93.757,2548

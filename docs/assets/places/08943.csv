@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46772,Four Forks,LA,,city-us,0,32.32,-91.87,155
-46773,Four Forks,VA,,city-us,0,37.58,-78.84,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44845,Walcott,IA,Muscatine County / Scott County,,city-us,1550,41.587,-90.781,7507
+44846,Walcott,MN,Rice County,,city-us,936,44.235,-93.215,2135
+44847,Walcott,ND,Richland County,,city-us,350,46.587,-96.927,3188
+44844,Walcott,AR,Greene County,,city-us,152,36.043,-90.671,540
+44843,Walcott,WY,Carbon County,,city-us,0,41.761,-106.845,445

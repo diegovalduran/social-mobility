@@ -1,9 +1,27 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11261,Brentwood,NY,,city-us,66035,40.78,-73.25,12831
-11257,Brentwood,CA,,city-us,64870,37.93,-121.70,23434
-11263,Brentwood,TN,,city-us,45491,36.03,-86.78,14434
-11262,Brentwood,PA,,city-us,9939,40.37,-79.97,14386
-11259,Brentwood,MO,,city-us,8164,38.62,-90.35,5680
-11260,Brentwood,NH,,city-us,4554,42.98,-71.05,9165
-11258,Brentwood,MD,,city-us,3770,38.94,-76.96,8472
-11264,Brentwood,AR,,city-us,0,35.86,-94.11,284
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5366,Bristol,,,United Kingdom,city-international,567111,51.450,-2.583,65314
+5359,Bristol,CT,Naugatuck Valley Planning Region,,city-us,60661,41.682,-72.941,18749
+5364,Bristol,TN,Sullivan County,,city-us,27530,36.595,-82.189,9617
+5345,Bristol,RI,Bristol County,,city-us,22226,41.676,-71.273,12422
+5344,Bristol,VA,Bristol city,,city-us,17054,36.596,-82.188,14948
+5346,Bristol,PA,Bucks County,,city-us,9852,40.101,-74.852,15282
+5355,Bristol,WI,Kenosha County,,city-us,5217,42.559,-88.049,3586
+5347,Bristol,WI,Dane County,,city-us,4442,43.244,-89.175,2203
+5341,Bristol,VT,Addison County,,city-us,3752,44.098,-73.049,3575
+5352,Bristol,NH,Grafton County,,city-us,3286,43.624,-71.710,5827
+5357,Bristol,ME,Lincoln County,,city-us,2904,43.892,-69.473,7925
+5365,Bristol,OH,Trumbull County,,city-us,2700,41.383,-80.863,123
+5360,Bristol,NY,Ontario County,,city-us,2286,42.808,-77.426,3857
+5349,Bristol,IN,Elkhart County,,city-us,1781,41.721,-85.817,4398
+5356,Bristol,FL,Liberty County,,city-us,911,30.432,-84.976,3227
+5350,Bristol,TX,Ellis County,,city-us,504,32.462,-96.570,3677
+5351,Bristol,MN,Fillmore County,,city-us,427,43.544,-92.149,1780
+5348,Bristol,SD,Day County,,city-us,56,45.377,-97.813,4398
+5362,Bristol,GA,Pierce County,,city-us,42,31.449,-82.215,883
+5343,Bristol,SD,Aurora County,,city-us,35,43.879,-98.525,4398
+5342,Bristol,MD,Anne Arundel County,,city-us,0,38.792,-76.672,1416
+5353,Bristol,WV,Harrison County,,city-us,0,39.288,-80.524,373
+5354,Bristol,IL,Kendall County,,city-us,0,41.686,-88.428,1101
+5358,Bristol,OH,Morgan County,,city-us,0,39.698,-81.731,290
+5361,Bristol,OH,Perry County,,city-us,0,39.736,-82.078,433
+5363,Bristol,CO,Prowers County,,city-us,0,38.122,-102.311,437

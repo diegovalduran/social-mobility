@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42740,West Nottingham,PA,,city-us,2790,39.73,-76.04,2920
-42741,West Nottingham,NH,,city-us,0,43.17,-71.14,452
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38005,Russett,MD,Anne Arundel County,,city-us,13000,39.108,-76.803,4323
+38004,Russet,WV,Calhoun County,,city-us,0,38.873,-81.056,88
+38006,Russett,OK,Johnston County,,city-us,0,34.190,-96.805,138

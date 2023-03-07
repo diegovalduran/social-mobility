@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18689,Tampa,FL,,city-us,387050,27.95,-82.46,71452
-18690,Tampa,KS,,city-us,108,38.55,-97.15,7308
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10804,Cyrus,MN,Pope County,,city-us,312,45.615,-95.738,2944
+10805,Cyrus,MO,Stoddard County,,city-us,0,36.659,-90.056,443
+10806,Cyrus,WV,Wayne County,,city-us,0,38.305,-82.573,117

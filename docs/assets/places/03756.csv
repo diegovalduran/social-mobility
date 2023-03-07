@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28773,Valley City,ND,,city-us,6559,46.92,-98.00,6035
-28774,Valley City,OH,,city-us,943,41.24,-81.94,1725
-28772,Valley City,IL,,city-us,12,39.71,-90.65,1683
-28775,Valley City,IN,,city-us,0,38.09,-86.22,454
-28776,Valley City,MO,,city-us,0,38.87,-93.61,551
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19228,Haskins,OH,Wood County,,city-us,1252,41.465,-83.706,3310
+19227,Haskins,IA,Washington County,,city-us,0,41.328,-91.537,83

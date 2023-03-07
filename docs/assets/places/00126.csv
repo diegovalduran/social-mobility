@@ -1,15 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1167,Birmingham,,United Kingdom,city-international,1137100,52.48,-1.90,73225
-1154,Birmingham,AL,,city-us,197575,33.53,-86.80,57028
-1157,Birmingham,MI,,city-us,21755,42.55,-83.21,15058
-1160,Birmingham,PA,,city-us,4074,39.90,-75.60,4306
-1155,Birmingham,IA,,city-us,373,40.88,-91.95,3409
-1158,Birmingham,MO,,city-us,189,39.17,-94.45,3372
-1156,Birmingham,IL,,city-us,135,40.24,-90.85,275
-1161,Birmingham,PA,,city-us,89,40.65,-78.20,2640
-1165,Birmingham,NJ,,city-us,33,39.98,-74.71,716
-1159,Birmingham,OH,,city-us,0,41.33,-82.36,666
-1162,Birmingham,IN,,city-us,0,40.94,-86.11,431
-1163,Birmingham,IN,,city-us,0,40.47,-86.85,276
-1164,Birmingham,KS,,city-us,0,39.41,-95.68,266
-1166,Birmingham,OH,,city-us,0,40.18,-81.44,423
+id,name,state,county,country,level,population,latitude,longitude,wiki
+664,Allens Grove,IL,Mason County,,city-us,459,40.283,-89.664,342
+648,Allen's Grove,WI,Walworth County,,city-us,174,42.580,-88.763,991
+665,Allens Grove,WI,Walworth County,,city-us,138,42.580,-88.763,0

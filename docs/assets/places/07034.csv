@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41241,Tiverton,RI,,city-us,8240,41.63,-71.21,10068
-41240,Tiverton,OH,,city-us,473,40.41,-82.12,1375
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35734,Radford,VA,Radford city,,city-us,16499,37.132,-80.576,18060
+35732,Radford,IL,Christian County,,city-us,0,39.578,-89.034,444
+35733,Radford,AL,Perry County,,city-us,0,32.589,-87.200,372

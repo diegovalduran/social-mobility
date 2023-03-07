@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45425,Conifer,CO,,city-us,19683,39.52,-105.31,2520
-45426,Conifer,PA,,city-us,0,41.08,-79.14,232
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42448,Tallmadge,OH,Portage County / Summit County,,city-us,18305,41.106,-81.425,8939
+42447,Tallmadge,MI,Ottawa County,,city-us,7575,42.990,-85.838,3297
+42452,Talmadge,ME,Washington County,,city-us,72,45.338,-67.772,2747

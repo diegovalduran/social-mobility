@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46281,Middleboro,IN,,city-us,0,39.89,-84.83,528
-46282,Middleboro,OH,,city-us,0,39.35,-84.04,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43867,Union Grove,WI,Racine County,,city-us,4925,42.688,-88.051,4670
+43866,Union Grove,MN,Meeker County,,city-us,684,45.283,-94.693,2326
+43868,Union Grove,TX,Upshur County,,city-us,453,32.571,-94.920,1956
+43865,Union Grove,AL,Marshall County,,city-us,70,34.402,-86.449,2732
+43864,Union Grove,TX,Bell County,,city-us,0,31.001,-97.602,904
+43869,Union Grove,IL,Whiteside County,,city-us,0,41.834,-90.026,233

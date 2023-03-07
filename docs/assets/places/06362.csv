@@ -1,5 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39262,Agnew,NE,,city-us,30,41.02,-96.81,293
-39263,Agnew,MI,,city-us,0,42.97,-86.18,908
-39264,Agnew,WA,,city-us,0,48.11,-123.42,701
-39265,Agnew,WV,,city-us,0,38.21,-81.14,129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32463,Orland,IL,Cook County,,city-us,96470,41.599,-87.850,3021
+32464,Orland,CA,Glenn County,,city-us,8322,39.747,-122.196,6720
+32465,Orland,ME,Hancock County,,city-us,2257,44.576,-68.670,3083
+32467,Orland,IN,Steuben County,,city-us,396,41.731,-85.172,6182
+32466,Orland,SD,Lake County,,city-us,89,43.884,-97.179,0
+32468,Orland,GA,Treutlen County,,city-us,0,32.434,-82.672,302

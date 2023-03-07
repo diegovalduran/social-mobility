@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40681,Tuxedo,NY,,city-us,3771,41.24,-74.17,10385
-40682,Tuxedo,MD,,city-us,0,38.92,-76.92,1912
-40683,Tuxedo,NC,,city-us,0,35.23,-82.43,1242
-40684,Tuxedo,TX,,city-us,0,32.93,-99.95,78
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34877,Pollock,LA,Grant Parish,,city-us,398,31.526,-92.407,5315
+34876,Pollock,SD,Campbell County,,city-us,230,45.901,-100.288,3618
+34879,Pollock,MO,Sullivan County,,city-us,47,40.359,-93.085,6097
+34878,Pollock,ID,Idaho County,,city-us,0,45.313,-116.359,197
+34880,Pollok,TX,Angelina County,,city-us,0,31.449,-94.859,3302

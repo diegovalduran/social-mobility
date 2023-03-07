@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46072,Duff,IN,,city-us,0,38.33,-87.03,382
-46073,Duff,NE,,city-us,0,42.20,-99.60,233
-46074,Duff,TN,,city-us,0,36.45,-84.07,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43427,Tryon,NC,Polk County,,city-us,1565,35.208,-82.238,23554
+43425,Tryon,OK,Lincoln County,,city-us,384,35.870,-96.964,1831
+43426,Tryon,NE,McPherson County,,city-us,107,41.556,-100.967,1739
+43424,Tryon,NC,Gaston County,,city-us,0,35.340,-81.322,1266

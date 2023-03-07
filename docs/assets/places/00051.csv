@@ -1,3 +1,23 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-469,McGrath,AK,,city-us,298,62.96,-155.60,3870
-470,McGrath,MN,,city-us,41,46.24,-93.27,3415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+263,Affton,MO,St. Louis County,,city-us,18925,38.551,-90.333,2643
+286,Afton,MN,Washington County,,city-us,2949,44.903,-92.784,4255
+277,Afton,WY,Lincoln County,,city-us,2213,42.725,-110.932,4554
+283,Afton,KS,Sedgwick County,,city-us,1557,37.612,-97.653,140
+273,Afton,IL,DeKalb County,,city-us,900,41.856,-88.764,1139
+284,Afton,IA,Union County,,city-us,859,41.027,-94.198,3442
+285,Afton,ND,Ward County,,city-us,834,48.149,-101.334,75
+270,Afton,NY,Chenango County,,city-us,794,42.228,-75.527,5113
+279,Afton,OK,Ottawa County,,city-us,732,36.694,-94.963,5429
+269,Afton,MI,Cheboygan County,,city-us,596,45.323,-84.552,2154
+267,Afton,VA,Albemarle County / Nelson County,,city-us,344,38.022,-78.833,745
+266,Afton,VA,Albemarle County,,city-us,313,38.032,-78.839,745
+268,Afton,SD,Brookings County,,city-us,214,44.412,-96.707,160
+282,Afton,SD,Sanborn County,,city-us,31,44.153,-97.910,78
+271,Afton,OH,Clermont County,,city-us,0,39.062,-84.101,347
+272,Afton,GA,Dawson County,,city-us,0,34.500,-84.246,88
+274,Afton,TX,Dickens County,,city-us,0,33.763,-100.817,826
+275,Afton,CA,Glenn County,,city-us,0,39.420,-121.966,427
+276,Afton,TN,Greene County,,city-us,0,36.194,-82.739,654
+278,Afton,LA,Madison Parish,,city-us,0,32.245,-91.191,91
+280,Afton,WV,Preston County,,city-us,0,39.536,-79.539,209
+281,Afton,WI,Rock County,,city-us,0,42.604,-89.071,382

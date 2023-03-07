@@ -1,4 +1,40 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32744,Morgan City,LA,,city-us,11156,29.71,-91.19,7371
-32745,Morgan City,MS,,city-us,202,33.38,-90.35,3159
-32746,Morgan City,AL,,city-us,0,34.47,-86.57,705
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23529,Lake,OH,Stark County,,city-us,30208,40.945,-81.355,183
+23514,Lake,OH,Logan County,,city-us,12713,40.374,-83.751,183
+23535,Lake,OH,Wood County,,city-us,11211,41.552,-83.468,183
+23534,Lake,PA,Wayne County,,city-us,4851,41.458,-75.375,215
+23502,Lake,MI,Berrien County,,city-us,3294,41.919,-86.540,2873
+23521,Lake,MI,Missaukee County,,city-us,2834,44.302,-85.286,676
+23516,Lake,PA,Luzerne County,,city-us,1999,41.345,-76.094,215
+23527,Lake,MN,Roseau County,,city-us,1987,48.937,-95.419,195
+23497,Lake,LA,Ascension Parish,,city-us,1200,30.300,-90.853,303
+23517,Lake,WI,Marinette County,,city-us,1196,45.201,-87.887,1997
+23526,Lake,MI,Roscommon County,,city-us,1127,44.377,-84.799,676
+23524,Lake,WI,Price County,,city-us,1110,45.920,-90.563,2065
+23512,Lake,MI,Lake County,,city-us,912,43.861,-85.979,676
+23506,Lake,IL,Clinton County,,city-us,811,38.521,-89.322,180
+23498,Lake,OH,Ashland County,,city-us,706,40.700,-82.174,183
+23501,Lake,MI,Benzie County,,city-us,703,44.711,-86.144,676
+23520,Lake,PA,Mercer County,,city-us,701,41.343,-80.139,215
+23507,Lake,SD,Codington County,,city-us,665,44.957,-97.158,0
+23511,Lake,MI,Huron County,,city-us,651,43.986,-83.170,676
+23519,Lake,MI,Menominee County,,city-us,499,45.412,-87.758,676
+23522,Lake,MS,Newton County / Scott County,,city-us,471,32.330,-89.314,2558
+23533,Lake,MN,Wabasha County,,city-us,433,44.388,-92.254,195
+23525,Lake,SD,Roberts County,,city-us,260,45.449,-96.791,0
+23518,Lake,SD,Marshall County,,city-us,210,45.714,-97.421,0
+23532,Lake,MO,Vernon County,,city-us,196,37.901,-94.443,157
+23505,Lake,SD,Clark County,,city-us,172,44.691,-97.672,0
+23509,Lake,KS,Harvey County,,city-us,158,37.951,-97.643,431
+23528,Lake,SD,Spink County,,city-us,102,44.757,-98.636,0
+23510,Lake,NE,Holt County,,city-us,56,42.132,-98.551,263
+23499,Lake,SD,Aurora County,,city-us,52,43.814,-98.741,0
+23530,Lake,SD,Tripp County,,city-us,52,43.126,-99.839,0
+23503,Lake,ND,Cass County,,city-us,34,47.101,-97.638,0
+23500,Lake,MD,Baltimore County,,city-us,0,39.391,-76.641,150
+23504,Lake,MI,Clare County,,city-us,0,43.852,-85.005,4309
+23508,Lake,ID,Fremont County,,city-us,0,44.667,-111.393,420
+23513,Lake,KY,Laurel County,,city-us,0,37.089,-83.886,80
+23515,Lake,WV,Logan County,,city-us,0,37.930,-81.900,262
+23523,Lake,VA,Northumberland County,,city-us,0,37.974,-76.470,153
+23531,Lake,OK,Tulsa County,,city-us,0,36.140,-96.082,257

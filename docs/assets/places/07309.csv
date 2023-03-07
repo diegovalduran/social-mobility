@@ -1,4 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42221,Gilpin,PA,,city-us,2396,40.67,-79.60,8285
-42222,Gilpin,KY,,city-us,0,37.26,-84.88,232
-42223,Gilpin,NV,,city-us,0,39.60,-119.34,649
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37076,Rochester,NY,Monroe County,,city-us,210606,43.155,-77.616,66512
+37083,Rochester,NH,Strafford County,,city-us,32869,43.305,-70.976,22804
+37078,Rochester,MI,Oakland County,,city-us,12937,42.681,-83.134,15413
+37085,Rochester,NY,Ulster County,,city-us,7355,41.813,-74.271,4323
+37072,Rochester,IN,Fulton County,,city-us,6258,41.065,-86.216,5055
+37084,Rochester,WA,Thurston County,,city-us,6065,46.822,-123.096,3180
+37080,Rochester,MA,Plymouth County,,city-us,5762,41.761,-70.839,7851
+37082,Rochester,IL,Sangamon County,,city-us,5493,39.746,-89.534,346
+37081,Rochester,WI,Racine County,,city-us,3767,42.741,-88.224,4965
+37068,Rochester,PA,Beaver County,,city-us,3437,40.702,-80.286,5169
+37079,Rochester,MN,Olmsted County,,city-us,2126,43.971,-92.508,1925
+37075,Rochester,OH,Lorain County,,city-us,792,41.096,-82.309,1355
+37087,Rochester,VT,Windsor County,,city-us,330,43.875,-72.808,4336
+37073,Rochester,TX,Haskell County,,city-us,248,33.316,-99.856,2799
+37074,Rochester,KS,Kingman County,,city-us,136,37.429,-98.287,835
+37069,Rochester,KY,Butler County,,city-us,112,37.213,-86.893,3296
+37071,Rochester,IA,Cedar County,,city-us,62,41.674,-91.158,811
+37070,Rochester,ND,Cass County,,city-us,45,47.196,-97.642,0
+37067,Rochester,MO,Andrew County,,city-us,0,39.912,-94.685,265
+37077,Rochester,OH,Noble County,,city-us,0,39.831,-81.523,251
+37086,Rochester,IL,Wabash County,,city-us,0,38.346,-87.828,150

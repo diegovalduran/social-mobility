@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34254,Curtis,MI,,city-us,1104,44.55,-83.78,4280
-34255,Curtis,NE,,city-us,805,40.63,-100.52,3529
-34256,Curtis,AL,,city-us,0,31.40,-86.16,192
-34257,Curtis,AR,,city-us,0,34.00,-93.11,202
-34258,Curtis,FL,,city-us,0,29.74,-82.90,200
-34259,Curtis,IL,,city-us,0,40.06,-89.79,121
-34260,Curtis,MI,,city-us,0,46.21,-85.75,5348
-34261,Curtis,WA,,city-us,0,46.59,-123.11,904
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25540,Lone Elm,KS,Anderson County,,city-us,23,38.080,-95.243,3047
+25541,Lone Elm,MO,Cooper County,,city-us,0,38.825,-92.737,389
+25542,Lone Elm,MO,Jasper County,,city-us,0,37.114,-94.526,205

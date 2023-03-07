@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18338,Nokomis,FL,,city-us,3481,27.12,-82.44,3149
-18339,Nokomis,IL,,city-us,2759,39.30,-89.32,684
-18340,Nokomis,WI,,city-us,1391,45.61,-89.73,2035
-18341,Nokomis,AL,,city-us,0,31.01,-87.56,466
-18342,Nokomis,VA,,city-us,0,37.94,-76.48,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10505,Crow,SD,Jerauld County,,city-us,10,44.072,-98.861,0
+10506,Crow,OR,Lane County,,city-us,0,43.993,-123.338,491
+10507,Crow,WV,Raleigh County,,city-us,0,37.759,-81.077,228
+10508,Crow,TX,Wood County,,city-us,0,32.616,-95.310,261

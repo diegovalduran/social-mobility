@@ -1,11 +1,40 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6605,Earl,PA,,city-us,7108,40.11,-76.10,276
-6604,Earl,PA,,city-us,3096,40.35,-75.70,276
-6601,Earl,IL,,city-us,2439,41.59,-88.88,286
-6600,Earle,AR,,city-us,1785,35.28,-90.47,4318
-6602,Earl,NC,,city-us,197,35.19,-81.53,1927
-6603,Earl,OK,,city-us,44,34.20,-96.90,134
-6606,Earl,CO,,city-us,0,37.33,-104.28,387
-6607,Earle,IN,,city-us,0,38.09,-87.51,429
-6608,Earl,MO,,city-us,0,38.93,-92.06,250
-6609,Earl,WI,,city-us,0,45.91,-91.76,625
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2949,Beaver,OH,Mahoning County,,city-us,6749,40.955,-80.686,157
+2932,Beaver,PA,Beaver County,,city-us,4398,40.695,-80.305,6376
+2933,Beaver,UT,Beaver County,,city-us,3498,38.277,-112.641,10188
+2930,Beaver,MI,Bay County,,city-us,2885,43.699,-84.097,3819
+2938,Beaver,PA,Clarion County,,city-us,1830,41.201,-79.523,469
+2958,Beaver,WV,Raleigh County,,city-us,1308,37.748,-81.142,2700
+2931,Beaver,OK,Beaver County,,city-us,1238,36.816,-100.520,7611
+2950,Beaver,WI,Marinette County,,city-us,1123,45.138,-88.018,1992
+2940,Beaver,PA,Columbia County,,city-us,886,40.961,-76.271,469
+2939,Beaver,WI,Clark County,,city-us,822,44.810,-90.500,1905
+2957,Beaver,WI,Polk County,,city-us,809,45.425,-92.214,2068
+2942,Beaver,PA,Crawford County,,city-us,790,41.810,-80.456,469
+2944,Beaver,MI,Delta County,,city-us,759,45.979,-87.103,2348
+2954,Beaver,OH,Noble County,,city-us,756,39.902,-81.277,157
+2963,Beaver,PA,Snyder County,,city-us,499,40.753,-77.152,469
+2947,Beaver,IL,Iroquois County,,city-us,470,40.900,-87.589,907
+2953,Beaver,MI,Newaygo County,,city-us,468,43.689,-85.972,1849
+2948,Beaver,PA,Jefferson County,,city-us,465,41.068,-79.174,469
+2956,Beaver,OH,Pike County,,city-us,440,39.031,-82.824,3362
+2961,Beaver,KS,Scott County,,city-us,244,38.640,-101.028,476
+2945,Beaver,MN,Fillmore County,,city-us,213,43.544,-92.389,403
+2941,Beaver,KS,Cowley County,,city-us,191,37.180,-97.086,476
+2964,Beaver,OR,Tillamook County,,city-us,163,45.277,-123.826,2613
+2952,Beaver,NE,Nance County,,city-us,105,41.498,-97.826,1849
+2959,Beaver,KS,Republic County,,city-us,102,39.690,-97.883,476
+2960,Beaver,MN,Roseau County,,city-us,95,48.672,-95.554,403
+2966,Beaver,AK,Yukon-Koyukuk Census Area,,city-us,93,66.385,-147.288,2349
+2943,Beaver,KS,Decatur County,,city-us,69,39.950,-100.564,476
+2936,Beaver,AR,Carroll County,,city-us,68,36.474,-93.767,3481
+2928,Beaver,MN,Aitkin County,,city-us,64,46.463,-93.117,403
+2929,Beaver,KS,Barton County,,city-us,52,38.640,-98.667,627
+2962,Beaver,KS,Smith County,,city-us,52,39.966,-98.793,476
+2935,Beaver,IA,Boone County,,city-us,46,42.038,-94.142,2986
+2955,Beaver,KS,Phillips County,,city-us,43,39.785,-99.581,476
+2951,Beaver,SD,Miner County,,city-us,32,43.885,-97.797,0
+2934,Beaver,ND,Benson County,,city-us,27,48.243,-99.513,130
+2937,Beaver,WA,Clallam County,,city-us,0,48.057,-124.347,875
+2946,Beaver,KY,Floyd County,,city-us,0,37.397,-82.654,81
+2965,Beaver,MN,Winona County,,city-us,0,44.153,-92.020,2039

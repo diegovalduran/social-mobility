@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43194,Rosette,SD,,city-us,117,45.55,-99.04,0
-43195,Rosette,UT,,city-us,0,41.82,-113.41,451
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38598,Sandy Ridge,PA,Centre County,,city-us,279,40.815,-78.236,2364
+38599,Sandy Ridge,NJ,Hunterdon County,,city-us,0,40.423,-74.953,853
+38600,Sandy Ridge,AL,Lowndes County,,city-us,0,32.025,-86.452,347
+38601,Sandy Ridge,NC,Stokes County,,city-us,0,36.499,-80.104,181

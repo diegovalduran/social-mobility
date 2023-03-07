@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22776,Packwood,WA,,city-us,319,46.60,-121.68,5533
-22775,Packwood,IA,,city-us,177,41.13,-92.08,3118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13769,English,IN,Crawford County,,city-us,687,38.334,-86.464,5133
+13770,English,IL,Jersey County,,city-us,469,39.139,-90.423,1057
+13767,English,TX,Brazoria County,,city-us,0,29.374,-95.528,951
+13768,English,KY,Carroll County,,city-us,0,38.628,-85.128,300
+13771,English,WV,McDowell County,,city-us,0,37.338,-81.715,318
+13772,English,TX,Red River County,,city-us,0,33.627,-94.859,465

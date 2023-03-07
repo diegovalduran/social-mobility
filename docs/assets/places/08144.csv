@@ -1,11 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44749,Crossroads,AL,,city-us,0,30.84,-87.86,240
-44750,Crossroads,IL,,city-us,0,37.35,-88.82,161
-44751,Crossroads,IN,,city-us,0,38.10,-87.65,257
-44752,Crossroads,MS,,city-us,0,30.89,-88.71,278
-44753,Crossroads,NJ,,city-us,0,39.92,-74.83,230
-44754,Crossroads,NM,,city-us,0,33.51,-103.34,372
-44755,Crossroads,TN,,city-us,0,35.30,-88.12,348
-44756,Crossroads,TN,,city-us,0,35.06,-87.73,79
-44757,Crossroads,WV,,city-us,0,39.66,-80.30,95
-44758,Crossroads,WV,,city-us,0,37.71,-80.81,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41203,Stanfield,OR,Umatilla County,,city-us,2153,45.780,-119.217,3739
+41202,Stanfield,NC,Stanly County,,city-us,1614,35.233,-80.427,2706
+41201,Stanfield,AZ,Pinal County,,city-us,428,32.883,-111.962,1782
+41200,Stanfield,TX,Clay County,,city-us,0,33.969,-98.000,1013

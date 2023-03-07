@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21070,Bernard,IA,,city-us,114,42.31,-90.83,3919
-21071,Bernard,LA,,city-us,0,30.60,-92.78,81
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12487,Durango,,,Mexico,city-international,654876,24.017,-104.667,253
+12486,Durango,CO,La Plata County,,city-us,19223,37.275,-107.880,13819
+12484,Durango,IA,Dubuque County,,city-us,22,42.560,-90.776,2582
+12485,Durango,TX,Falls County,,city-us,0,31.205,-97.130,126

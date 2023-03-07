@@ -1,10 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31056,Granite,OK,,city-us,1752,34.96,-99.38,3135
-31058,Granite,UT,,city-us,750,40.58,-111.79,2587
-31055,Granite,MN,,city-us,473,46.03,-94.00,1776
-31057,Granite,OR,,city-us,30,44.81,-118.42,5293
-31054,Granite,KS,,city-us,22,39.95,-99.45,0
-31059,Granite,CO,,city-us,0,39.04,-106.26,27025
-31060,Granite,IA,,city-us,0,43.47,-96.56,1159
-31061,Granite,MD,,city-us,0,39.34,-76.86,894
-31062,Granite,WY,,city-us,0,41.10,-105.16,832
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21628,Island Grove,NE,Gage County,,city-us,68,40.126,-96.514,282
+21627,Island Grove,FL,Alachua County,,city-us,0,29.454,-82.106,594
+21629,Island Grove,IL,Jasper County,,city-us,0,39.102,-88.335,181
+21630,Island Grove,IL,Sangamon County,,city-us,0,39.724,-89.961,198

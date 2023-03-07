@@ -1,3 +1,42 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37435,Passaic,NJ,,city-us,69633,40.86,-74.13,24588
-37434,Passaic,MO,,city-us,26,38.32,-94.35,2923
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29854,Mount Pleasant,SC,Charleston County,,city-us,92398,32.794,-79.863,18521
+29884,Mount Pleasant,NY,Westchester County,,city-us,45300,41.112,-73.816,3405
+29875,Mount Pleasant,WI,Racine County,,city-us,27646,42.697,-87.856,7597
+29865,Mount Pleasant,MI,Isabella County,,city-us,21243,43.598,-84.768,9623
+29877,Mount Pleasant,TX,Titus County,,city-us,16079,33.157,-94.968,5034
+29863,Mount Pleasant,IA,Henry County,,city-us,8982,40.964,-91.558,9171
+29849,Mount Pleasant,MO,Bates County,,city-us,4949,38.268,-94.348,1374
+29872,Mount Pleasant,TN,Maury County,,city-us,4835,35.534,-87.207,5170
+29886,Mount Pleasant,IL,Whiteside County,,city-us,4756,41.803,-89.907,356
+29846,Mount Pleasant,PA,Adams County,,city-us,4654,39.825,-77.108,360
+29885,Mount Pleasant,PA,Westmoreland County,,city-us,4210,40.149,-79.541,5695
+29876,Mount Pleasant,UT,Sanpete County,,city-us,3754,39.547,-111.455,7145
+29881,Mount Pleasant,PA,Washington County,,city-us,3299,40.304,-80.305,360
+29847,Mount Pleasant,MI,Allegan County,,city-us,2823,42.471,-86.209,4142
+29852,Mount Pleasant,NC,Cabarrus County,,city-us,1708,35.399,-80.436,2776
+29856,Mount Pleasant,PA,Columbia County,,city-us,1514,41.065,-76.480,360
+29883,Mount Pleasant,PA,Wayne County,,city-us,1430,41.740,-75.401,360
+29869,Mount Pleasant,KS,Labette County,,city-us,1270,37.165,-95.320,584
+29848,Mount Pleasant,KS,Atchison County,,city-us,876,39.474,-95.170,584
+29862,Mount Pleasant,WI,Green County,,city-us,622,42.726,-89.543,1917
+29880,Mount Pleasant,MN,Wabasha County,,city-us,449,44.423,-92.337,2119
+29867,Mount Pleasant,OH,Jefferson County,,city-us,391,40.175,-80.798,4662
+29866,Mount Pleasant,AR,Izard County,,city-us,369,35.962,-91.756,2498
+29870,Mount Pleasant,MS,Marshall County,,city-us,293,34.956,-89.516,943
+29855,Mount Pleasant,SD,Clark County,,city-us,235,44.935,-97.677,0
+29850,Mount Pleasant,PA,Bucks County,,city-us,0,40.330,-75.238,297
+29851,Mount Pleasant,NJ,Burlington County,,city-us,0,40.066,-74.668,4763
+29853,Mount Pleasant,IN,Cass County,,city-us,0,40.849,-86.325,247
+29857,Mount Pleasant,IN,Delaware County,,city-us,0,40.089,-85.306,232
+29858,Mount Pleasant,GA,Evans County,,city-us,0,32.184,-81.857,161
+29859,Mount Pleasant,VA,Frederick County,,city-us,0,39.172,-78.295,183
+29860,Mount Pleasant,FL,Gadsden County,,city-us,0,30.657,-84.691,1172
+29861,Mount Pleasant,MO,Gentry County,,city-us,0,40.227,-94.501,344
+29864,Mount Pleasant,NJ,Hunterdon County,,city-us,0,40.580,-75.050,1083
+29868,Mount Pleasant,IN,Johnson County,,city-us,0,39.460,-86.119,149
+29871,Mount Pleasant,IN,Martin County,,city-us,0,38.652,-86.892,317
+29873,Mount Pleasant,DE,New Castle County,,city-us,0,39.511,-75.711,324
+29874,Mount Pleasant,IN,Perry County,,city-us,0,38.122,-86.518,313
+29878,Mount Pleasant,KY,Trimble County,,city-us,0,38.613,-85.384,150
+29879,Mount Pleasant,OH,Vinton County,,city-us,0,39.393,-82.457,244
+29882,Mount Pleasant,GA,Wayne County,,city-us,0,31.434,-81.679,268

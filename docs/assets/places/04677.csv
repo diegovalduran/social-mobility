@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33082,Ocean Grove,NJ,,city-us,2962,40.21,-74.01,28098
-33081,Ocean Grove,MA,,city-us,2604,41.73,-71.21,1950
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23940,Lanham,NE,Gage County,,city-us,0,40.003,-96.874,552
+23941,Lanham,MD,Prince George's County,,city-us,0,38.969,-76.862,56
+23942,Lanham,WV,Putnam County,,city-us,0,38.477,-81.739,161
+23943,Lanham,KS,Washington County,,city-us,0,40.003,-96.874,552

@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12688,Johnsville,CA,,city-us,0,39.76,-120.70,3882
-12689,Johnsville,AR,,city-us,0,33.37,-92.02,150
-12690,Johnsville,KY,,city-us,0,38.75,-84.15,255
-12691,Johnsville,MD,,city-us,0,39.53,-77.23,2547
-12692,Johnsville,OH,,city-us,0,40.62,-82.66,409
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6375,Byram,MS,Hinds County,,city-us,12456,32.179,-90.245,3691
+6377,Byram,NJ,Sussex County,,city-us,8061,40.960,-74.713,19058
+6378,Byram,CT,Western Connecticut Planning Region,,city-us,4994,41.001,-73.654,1513
+6376,Byram,NJ,Hunterdon County,,city-us,0,40.424,-75.060,738

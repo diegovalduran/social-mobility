@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40874,Felicity,OH,,city-us,650,38.84,-84.10,3654
-40875,Felicity,CA,,city-us,0,32.75,-114.77,1324
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35146,Pottawatomie,KS,Pottawatomie County,,city-us,671,39.335,-96.454,0
+35145,Pottawatomie,KS,Franklin County,,city-us,595,38.440,-95.126,1028
+35144,Pottawatomie,KS,Coffey County,,city-us,192,38.308,-95.590,458

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11338,Burney,CA,,city-us,3377,40.88,-121.66,5035
-11340,Bernie,MO,,city-us,1849,36.67,-89.97,2878
-11341,Birney,MT,,city-us,103,45.32,-106.52,2982
-11339,Burney,IN,,city-us,0,39.32,-85.64,508
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5394,Broadmoor,CA,San Mateo County,,city-us,4411,37.693,-122.479,7735
+5393,Broadmoor,IL,Marshall County,,city-us,0,41.146,-89.629,197

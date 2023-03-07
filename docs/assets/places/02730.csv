@@ -1,16 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22579,Montpelier,VT,,city-us,8002,44.26,-72.58,20308
-22586,Montpelier,VA,,city-us,7067,37.82,-77.68,874
-22577,Montpelier,OH,,city-us,3899,41.58,-84.61,4997
-22573,Montpelier,ID,,city-us,2669,42.32,-111.30,4935
-22574,Montpelier,IN,,city-us,1534,40.55,-85.28,12658
-22580,Montpelier,WI,,city-us,1363,44.46,-87.71,2056
-22575,Montpelier,LA,,city-us,199,30.68,-90.65,870
-22572,Montpelier,IA,,city-us,186,41.46,-90.81,1007
-22576,Montpelier,ND,,city-us,88,46.70,-98.59,3061
-22578,Montpelier,SD,,city-us,39,45.38,-99.27,0
-22581,Montpelier,CA,,city-us,0,37.55,-120.71,233
-22582,Montpelier,KY,,city-us,0,37.02,-85.19,120
-22583,Montpelier,MD,,city-us,0,39.06,-76.85,1017
-22584,Montpelier,MS,,city-us,0,33.72,-88.95,407
-22585,Montpelier,VA,,city-us,0,37.38,-77.16,105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13581,Elsie,MI,Clinton County,,city-us,941,43.089,-84.387,3419
+13583,Elsie,NE,Perkins County,,city-us,100,40.847,-101.388,3222
+13579,Elsey,MO,Stone County,,city-us,0,36.854,-93.541,401
+13580,Elsie,OR,Clatsop County,,city-us,0,45.866,-123.595,783
+13582,Elsie,KY,Magoffin County,,city-us,0,37.778,-83.136,323

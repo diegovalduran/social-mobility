@@ -1,10 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26690,Liverpool,,United Kingdom,city-international,513441,53.41,-2.99,98392
-26685,Liverpool,OH,,city-us,5751,41.23,-81.93,184
-26684,Liverpool,OH,,city-us,3837,40.65,-80.60,184
-26683,Liverpool,NY,,city-us,2295,43.11,-76.22,4824
-26686,Liverpool,PA,,city-us,963,40.57,-76.99,3113
-26687,Liverpool,TX,,city-us,494,29.29,-95.28,3769
-26682,Liverpool,IL,,city-us,92,40.39,-90.00,2503
-26688,Liverpool,LA,,city-us,0,30.92,-90.68,171
-26689,Liverpool,WV,,city-us,0,38.89,-81.53,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17237,Goodwill,SD,Roberts County,,city-us,895,45.596,-97.050,480
+17236,Goodwill,WV,Mercer County,,city-us,0,37.354,-81.289,205
+17238,Goodwill,TX,Washington County,,city-us,0,30.242,-96.185,470
+17239,Goodwill,MD,Worcester County,,city-us,0,38.071,-75.492,733

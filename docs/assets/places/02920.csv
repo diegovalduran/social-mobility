@@ -1,41 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23687,Eden,NC,,city-us,15319,36.49,-79.77,16682
-23689,Eden,NY,,city-us,7534,42.65,-78.88,4594
-23693,Eden,PA,,city-us,2254,39.92,-76.14,2381
-23691,Eden,OH,,city-us,1993,41.04,-83.13,152
-23698,Eden,TX,,city-us,1543,31.22,-99.85,4600
-23676,Eden,IL,,city-us,1366,41.24,-89.11,284
-23700,Eden,VT,,city-us,1335,44.71,-72.54,5666
-23690,Eden,OH,,city-us,1298,40.20,-82.32,152
-23692,Eden,OH,,city-us,1005,40.87,-83.16,152
-23701,Eden,WI,,city-us,898,43.69,-88.36,187
-23680,Eden,MD,,city-us,855,38.28,-75.65,2400
-23699,Eden,UT,,city-us,855,41.30,-111.81,1939
-23682,Eden,MI,,city-us,599,43.86,-86.23,190
-23681,Eden,MI,,city-us,536,44.12,-85.86,190
-23679,Eden,KS,,city-us,407,37.43,-97.75,372
-23675,Eden,ID,,city-us,397,42.61,-114.21,3191
-23702,Eden,WI,,city-us,343,43.00,-90.35,1795
-23684,Eden,MN,,city-us,228,43.90,-96.37,244
-23683,Eden,MN,,city-us,210,44.42,-94.82,244
-23685,Eden,MN,,city-us,187,47.72,-95.64,244
-23703,Eden,WY,,city-us,184,42.05,-109.44,2016
-23696,Eden,SD,,city-us,178,43.13,-96.51,3057
-23686,Eden,MS,,city-us,133,32.98,-90.32,2357
-23695,Eden,SD,,city-us,100,45.12,-97.44,3057
-23697,Eden,SD,,city-us,93,45.62,-97.42,3057
-23678,Eden,KS,,city-us,71,38.48,-100.15,372
-23694,Eden,SD,,city-us,50,44.93,-97.56,3057
-23688,Eden,ND,,city-us,43,48.24,-97.71,183
-23677,Eden,IN,,city-us,0,39.91,-85.77,386
-23704,Eden,AZ,,city-us,0,32.96,-109.90,828
-23705,Eden,IL,,city-us,0,40.69,-89.83,414
-23706,Eden,IL,,city-us,0,38.12,-89.67,390
-23707,Eden,IA,,city-us,0,43.02,-91.98,357
-23708,Eden,KS,,city-us,0,39.63,-95.26,372
-23709,Eden,KY,,city-us,0,37.28,-86.70,111
-23710,Eden,MN,,city-us,0,44.09,-92.89,539
-23711,Eden,WA,,city-us,0,46.30,-123.65,233
-23712,Eden,WV,,city-us,0,38.13,-81.63,84
-23713,Eden,WV,,city-us,0,40.07,-80.64,128
-23714,Eden,WV,,city-us,0,38.74,-80.33,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14635,Farmingdale,NY,Nassau County,,city-us,8426,40.733,-73.445,8708
+14633,Farmingdale,ME,Kennebec County,,city-us,3000,44.261,-69.828,4447
+14634,Farmingdale,NJ,Monmouth County,,city-us,1502,40.197,-74.168,10776
+14636,Farmingdale,SD,Pennington County,,city-us,0,43.959,-102.884,280
+14637,Farmingdale,IL,Sangamon County,,city-us,0,39.823,-89.806,142

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24786,Chemung,IL,,city-us,9081,42.45,-88.65,504
-24787,Chemung,NY,,city-us,2332,42.06,-76.61,4959
-24788,Chemung,PA,,city-us,0,41.59,-76.84,234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15573,Fourmile,KY,Bell County,,city-us,0,36.792,-83.743,553
+15574,Fourmile,AL,Shelby County,,city-us,0,33.249,-86.553,1256

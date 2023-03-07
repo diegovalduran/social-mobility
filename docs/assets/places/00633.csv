@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7087,Gregory,TX,,city-us,1740,27.92,-97.29,2720
-7086,Gregory,SD,,city-us,1189,43.23,-99.43,3784
-7085,Gregory,OK,,city-us,304,36.17,-95.57,1869
-7084,Gregory,MN,,city-us,58,47.46,-95.86,1841
-7083,Gregory,AR,,city-us,43,35.16,-91.34,2072
-7088,Gregory,MI,,city-us,0,42.46,-84.08,5770
-7089,Gregory,MN,,city-us,0,45.94,-94.36,367
-7090,Gregory,NC,,city-us,0,36.38,-76.12,269
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3189,Bell City,MO,Stoddard County,,city-us,461,37.024,-89.820,3685
+3187,Bell City,LA,Calcasieu Parish,,city-us,0,30.109,-92.920,9428
+3188,Bell City,KY,Graves County,,city-us,0,36.538,-88.501,85

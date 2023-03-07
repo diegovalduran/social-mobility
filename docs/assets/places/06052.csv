@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38306,Grandy,NC,,city-us,2715,36.24,-75.88,709
-38307,Grandy,MN,,city-us,0,45.64,-93.20,689
-38308,Grandy,VA,,city-us,0,36.80,-77.96,688
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30950,Newcomb,IL,Champaign County,,city-us,1342,40.264,-88.401,1896
+30952,Newcomb,NM,San Juan County,,city-us,467,36.285,-108.706,2380
+30951,Newcomb,NY,Essex County,,city-us,418,44.007,-74.100,5212
+30949,Newcomb,TN,Campbell County,,city-us,0,36.554,-84.166,467
+30953,Newcomb,MD,Talbot County,,city-us,0,38.754,-76.176,299

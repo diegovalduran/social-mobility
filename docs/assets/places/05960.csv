@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37965,Elliston,VA,,city-us,1141,37.22,-80.23,1310
-37963,Elliston,MT,,city-us,197,46.56,-112.43,2259
-37964,Elliston,SD,,city-us,29,43.22,-99.59,0
-37966,Elliston,IN,,city-us,0,39.03,-86.97,884
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30543,New Brunswick,NJ,Middlesex County,,city-us,55708,40.486,-74.452,57642
+30542,New Brunswick,IN,Boone County,,city-us,0,39.944,-86.523,320

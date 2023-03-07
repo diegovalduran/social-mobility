@@ -1,18 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41643,Stringtown,OK,,city-us,454,34.47,-96.05,7348
-41644,Stringtown,IN,,city-us,0,39.79,-85.71,139
-41645,Stringtown,IN,,city-us,0,39.10,-85.16,278
-41646,Stringtown,IN,,city-us,0,39.05,-87.30,231
-41647,Stringtown,IN,,city-us,0,38.02,-87.56,530
-41648,Stringtown,KY,,city-us,0,39.08,-84.65,85
-41649,Stringtown,MS,,city-us,0,33.57,-90.98,427
-41650,Stringtown,MO,,city-us,0,36.75,-90.58,282
-41651,Stringtown,MO,,city-us,0,38.52,-92.35,292
-41652,Stringtown,OH,,city-us,0,39.69,-83.85,176
-41653,Stringtown,OH,,city-us,0,39.50,-82.77,239
-41654,Stringtown,PA,,city-us,0,39.91,-79.94,261
-41655,Stringtown,VA,,city-us,0,39.19,-77.98,78
-41656,Stringtown,WV,,city-us,0,39.03,-79.91,461
-41657,Stringtown,WV,,city-us,0,39.48,-80.35,91
-41658,Stringtown,WV,,city-us,0,38.67,-81.34,158
-41659,Stringtown,WV,,city-us,0,39.45,-80.70,554
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36231,Reese,MI,Saginaw County / Tuscola County,,city-us,1260,43.453,-83.689,9885
+36198,Reece,KS,Greenwood County,,city-us,0,37.799,-96.446,429
+36229,Reese,PA,Blair County,,city-us,0,40.435,-78.302,405
+36230,Reese,TX,Cherokee County,,city-us,0,32.023,-95.392,5626

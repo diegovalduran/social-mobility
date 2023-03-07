@@ -1,4 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12427,Harmony Grove,CA,,city-us,1651,33.10,-117.14,0
-12428,Harmony Grove,WV,,city-us,0,39.61,-79.99,214
-12429,Harmony Grove,WI,,city-us,0,43.37,-89.55,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6216,Burnsville,MN,Dakota County,,city-us,63943,44.768,-93.278,22355
+6219,Burnsville,NC,Yancey County,,city-us,1635,35.917,-82.301,6230
+6218,Burnsville,MS,Tishomingo County,,city-us,862,34.841,-88.315,3139
+6215,Burnsville,WV,Braxton County,,city-us,393,38.856,-80.655,3591
+6212,Burnsville,NC,Anson County,,city-us,0,35.112,-80.245,231
+6213,Burnsville,IN,Bartholomew County,,city-us,0,39.173,-85.740,296
+6214,Burnsville,VA,Bath County,,city-us,0,38.178,-79.647,91
+6217,Burnsville,AL,Dallas County,,city-us,0,32.474,-86.892,390

@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33637,Brewer,ME,,city-us,9636,44.80,-68.76,8965
-33638,Brewer,MO,,city-us,361,37.78,-89.93,440
-33639,Brewer,MS,,city-us,0,34.15,-88.68,471
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24673,Liberal,MO,Barton County,,city-us,632,37.558,-94.520,5642
+24675,Liberal,KS,Seward County,,city-us,613,37.127,-100.967,4321
+24674,Liberal,OR,Clackamas County,,city-us,0,45.193,-122.585,1331
+24676,Liberal,IN,Spencer County,,city-us,0,38.046,-86.943,264

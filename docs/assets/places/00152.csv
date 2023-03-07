@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1390,Casselberry,FL,,city-us,29093,28.68,-81.33,3747
-1389,Castleberry,AL,,city-us,480,31.30,-87.02,2408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+768,Alpena,MI,Alpena County,,city-us,9110,45.093,-83.409,2807
+769,Alpena,AR,Boone County / Carroll County,,city-us,374,36.293,-93.304,3665
+770,Alpena,SD,Jerauld County,,city-us,84,44.153,-98.402,3424
+771,Alpena,WV,Randolph County,,city-us,0,38.910,-79.651,331

@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10658,Wye,MT,,city-us,1078,46.95,-114.12,2111
-10657,Why,AZ,,city-us,0,32.27,-112.74,1179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5084,Brant,MI,Saginaw County,,city-us,2012,43.262,-84.220,2734
+5083,Brant,NY,Erie County,,city-us,1915,42.595,-79.025,5292
+5068,Brandt,SD,Deuel County,,city-us,137,44.674,-96.703,3253
+5070,Brandt,MN,Polk County,,city-us,49,48.065,-96.566,1717
+5069,Brandt,OH,Miami County,,city-us,0,39.902,-84.092,1170
+5082,Brant,WI,Calumet County,,city-us,0,44.073,-88.204,361

@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46436,Constance,KY,,city-us,0,39.07,-84.64,581
-46437,Constance,NE,,city-us,0,42.71,-97.44,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44200,Van,,,Turkey,city-international,353419,38.502,43.417,15510
+44199,Van,TX,Van Zandt County,,city-us,2745,32.525,-95.637,5107
+44195,Van,MI,Emmet County,,city-us,1297,45.587,-84.788,2446
+44194,Van,WV,Boone County,,city-us,117,37.971,-81.711,3322
+44193,Van,AR,Arkansas County,,city-us,0,34.327,-91.234,141
+44196,Van,OR,Harney County,,city-us,0,43.990,-118.688,482
+44197,Van,VA,Lee County,,city-us,0,36.614,-83.156,258
+44198,Van,MO,Polk County,,city-us,0,37.561,-93.287,257

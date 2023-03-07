@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13340,Modesto,CA,,city-us,218771,37.64,-121.00,37660
-13341,Modesto,IL,,city-us,177,39.48,-89.98,2068
-13342,Modesto,IN,,city-us,0,39.27,-86.55,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6858,Capital,IL,Sangamon County,,city-us,111563,39.791,-89.645,47189
+6857,Capital,SD,Hutchinson County,,city-us,81,43.212,-97.697,0

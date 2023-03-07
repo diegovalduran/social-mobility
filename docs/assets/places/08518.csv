@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45713,Lovett,GA,,city-us,0,32.64,-82.77,411
-45714,Lovett,IN,,city-us,0,38.91,-85.63,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42904,Three Way,TN,Madison County,,city-us,1879,35.776,-88.859,2159
+42902,Three Way,TX,Erath County,,city-us,0,32.158,-98.030,86
+42903,Three Way,AZ,Greenlee County,,city-us,0,32.948,-109.230,0

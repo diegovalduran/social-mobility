@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29709,Hobbs,NM,,city-us,39756,32.70,-103.14,6089
-29708,Hobbs,IN,,city-us,0,40.28,-85.95,944
-29710,Hobbs,KY,,city-us,0,37.93,-85.63,126
-29711,Hobbs,MD,,city-us,0,38.86,-75.78,139
-29712,Hobbs,TX,,city-us,0,32.78,-100.59,2007
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20082,Hillman,MI,Montmorency County,,city-us,2065,45.072,-84.004,1953
+20079,Hillman,MI,Alpena County / Montmorency County,,city-us,661,45.067,-83.894,3589
+20081,Hillman,MN,Kanabec County,,city-us,427,46.030,-93.349,208
+20083,Hillman,MN,Morrison County,,city-us,22,46.004,-93.894,2761
+20080,Hillman,MT,Gallatin County,,city-us,0,45.889,-111.198,196
+20084,Hillman,GA,Taliaferro County,,city-us,0,33.601,-82.798,1149

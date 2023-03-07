@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40291,Barker,NY,,city-us,2496,42.27,-75.91,2939
-40292,Barker,NY,,city-us,582,43.33,-78.55,2289
-40293,Barker,TX,,city-us,0,29.78,-95.69,692
-40294,Barker,WV,,city-us,0,39.58,-80.66,114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33988,Piermont,NY,Rockland County,,city-us,2512,41.042,-73.918,11660
+33986,Piermont,NH,Grafton County,,city-us,776,43.962,-72.001,4913
+33987,Piermont,LA,Red River Parish,,city-us,0,31.952,-93.282,88

@@ -1,3 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10381,Pinon,AZ,,city-us,860,36.10,-110.23,2245
-10382,Pi��on,NM,,city-us,24,32.62,-105.39,1996
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4785,Boston,MA,Suffolk County,,city-us,654776,42.358,-71.060,69275
+4779,Boston,NY,Erie County,,city-us,7932,42.653,-78.755,4719
+4781,Boston,MI,Ionia County,,city-us,6254,42.894,-85.253,1966
+4787,Boston,GA,Thomas County,,city-us,1209,30.792,-83.790,2482
+4773,Boston,VA,Accomack County,,city-us,629,37.609,-75.843,460
+4774,Boston,PA,Allegheny County,,city-us,317,40.312,-79.823,263
+4777,Boston,TX,Bowie County,,city-us,200,33.442,-94.420,1792
+4789,Boston,IN,Wayne County,,city-us,149,39.741,-84.852,3177
+4784,Boston,KY,Nelson County,,city-us,128,37.788,-85.673,1071
+4775,Boston,MO,Barton County,,city-us,0,37.413,-94.282,665
+4776,Boston,OH,Belmont County,,city-us,0,39.888,-81.198,187
+4778,Boston,VA,Culpeper County,,city-us,0,38.541,-78.132,256
+4780,Boston,OH,Highland County,,city-us,0,39.215,-83.511,273
+4782,Boston,OH,Licking County,,city-us,0,40.076,-82.227,192
+4783,Boston,AR,Madison County,,city-us,0,35.801,-93.600,779
+4786,Boston,OH,Summit County,,city-us,0,41.263,-81.559,719
+4788,Boston,LA,Vermilion Parish,,city-us,0,29.883,-92.056,86
+4790,Boston,TN,Williamson County,,city-us,0,35.843,-87.032,228

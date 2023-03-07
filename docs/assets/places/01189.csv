@@ -1,16 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12131,Fillmore,CA,,city-us,16496,34.40,-118.92,13683
-12134,Fillmore,MI,,city-us,2770,42.71,-86.07,2606
-12139,Fillmore,UT,,city-us,2624,38.97,-112.32,4958
-12138,Fillmore,NY,,city-us,590,42.47,-78.12,1229
-12133,Fillmore,IN,,city-us,530,39.67,-86.75,3536
-12132,Fillmore,IL,,city-us,305,39.12,-89.28,2088
-12136,Fillmore,MO,,city-us,174,40.03,-94.97,2837
-12137,Fillmore,ND,,city-us,98,48.95,-103.26,134
-12135,Fillmore,MN,,city-us,0,43.75,-92.27,207
-12140,Fillmore,IA,,city-us,0,42.32,-90.92,396
-12141,Fillmore,KY,,city-us,0,37.60,-83.55,179
-12142,Fillmore,LA,,city-us,0,32.56,-93.52,313
-12143,Fillmore,OH,,city-us,0,39.30,-81.75,247
-12144,Fillmore,OK,,city-us,0,34.27,-96.50,226
-12145,Fillmore,WI,,city-us,0,43.50,-88.06,697
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5999,Buffalo City,WI,Buffalo County,,city-us,1015,44.231,-91.864,3810
+5998,Buffalo City,AR,Baxter County,,city-us,26,36.168,-92.442,464
+6000,Buffalo City,NC,Dare County,,city-us,0,35.843,-75.917,5711

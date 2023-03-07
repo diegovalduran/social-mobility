@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41320,Arnett,WV,,city-us,914,38.81,-80.72,128
-41315,Arnett,OK,,city-us,497,36.14,-99.77,5258
-41316,Arnett,AR,,city-us,0,35.90,-94.04,303
-41317,Arnett,KY,,city-us,0,37.41,-83.57,131
-41318,Arnett,MO,,city-us,0,36.56,-94.22,228
-41319,Arnett,OK,,city-us,0,34.75,-99.97,282
-41321,Arnett,WV,,city-us,0,37.83,-81.43,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35807,Ramer,TN,McNairy County,,city-us,329,35.070,-88.622,1863
+35961,Raymer,CO,Weld County,,city-us,109,40.608,-103.844,3639
+35808,Ramer,AL,Montgomery County,,city-us,0,32.051,-86.221,604

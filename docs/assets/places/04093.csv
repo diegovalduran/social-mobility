@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30469,Wyatt,MO,,city-us,222,36.91,-89.22,3979
-30468,Wyatt,IN,,city-us,117,41.53,-86.17,664
-30470,Wyatt,WV,,city-us,0,39.44,-80.35,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21046,Huntersville,NC,Mecklenburg County,,city-us,61839,35.411,-80.843,7376
+21047,Huntersville,WV,Pocahontas County,,city-us,79,38.189,-80.016,1088
+21044,Huntersville,IN,Franklin County,,city-us,0,39.304,-85.233,183
+21045,Huntersville,OH,Hardin County,,city-us,0,40.718,-83.767,268
+21048,Huntersville,MD,St. Mary's County,,city-us,0,38.469,-76.730,177
+21049,Huntersville,MN,Wadena County,,city-us,0,46.776,-94.893,112

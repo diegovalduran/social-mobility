@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42675,Telford,,United Kingdom,city-international,142723,52.68,-2.45,29947
-42672,Telford,PA,,city-us,4914,40.33,-75.33,6925
-42673,Telford,TN,,city-us,909,36.25,-82.55,1797
-42674,Telford,WA,,city-us,0,47.69,-118.41,249
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37875,Ruff,WA,Grant County,,city-us,0,47.170,-118.998,313
+37876,Ruff,VA,Mathews County,,city-us,0,37.410,-76.313,88

@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39002,Nash,TX,,city-us,3831,33.44,-94.13,5035
-39001,Nash,OK,,city-us,191,36.67,-98.05,2091
-38999,Nash,ND,,city-us,42,48.06,-97.95,2011
-39000,Nash,ND,,city-us,13,48.47,-97.51,2011
-39003,Nash,VA,,city-us,0,37.86,-79.05,98
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32126,Olcott,NY,Niagara County,,city-us,1120,43.338,-78.715,3658
+32124,Olcott,KY,Bell County,,city-us,0,36.686,-83.834,88
+32125,Olcott,WV,Kanawha County,,city-us,0,38.234,-81.724,208

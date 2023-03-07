@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37379,Mountain Grove,MO,,city-us,4417,37.13,-92.27,7163
-37380,Mountain Grove,PA,,city-us,0,40.98,-76.21,112
-37381,Mountain Grove,VA,,city-us,0,38.10,-79.89,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29765,Mount Hermon,VA,Pittsylvania County,,city-us,4242,36.678,-79.422,146
+29766,Mount Hermon,CA,Santa Cruz County,,city-us,1037,37.051,-122.058,3636
+29767,Mount Hermon,NJ,Warren County,,city-us,200,40.925,-74.994,478
+29762,Mount Herman,NC,Surry County,,city-us,0,36.534,-80.469,218
+29763,Mount Hermon,NC,Alamance County,,city-us,0,35.984,-79.413,222
+29764,Mount Hermon,KY,Monroe County,,city-us,0,36.807,-85.821,101
+29768,Mount Hermon,LA,Washington Parish,,city-us,0,30.960,-90.296,805

@@ -1,5 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40518,Mannheim,,Germany,city-international,309721,49.49,8.47,37215
-40516,Manheim,PA,,city-us,5039,40.16,-76.39,4984
-40517,Manheim,PA,,city-us,3469,39.76,-76.87,419
-40515,Manheim,NY,,city-us,3069,43.06,-74.80,4062
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34432,Plainview,NY,Nassau County,,city-us,26665,40.776,-73.467,17595
+34428,Plainview,TX,Hale County,,city-us,19739,34.185,-101.707,7208
+34439,Plainview,TN,Union County,,city-us,2091,36.181,-83.793,4711
+34434,Plainview,NE,Pierce County,,city-us,1273,42.350,-97.792,5402
+34438,Plainview,CA,Tulare County,,city-us,493,36.144,-119.134,2119
+34443,Plainview,AR,Yell County,,city-us,466,34.990,-93.297,2522
+34440,Plainview,MN,Wabasha County,,city-us,463,44.143,-92.133,1867
+34437,Plainview,SD,Tripp County,,city-us,47,43.393,-99.702,5982
+34436,Plainview,ND,Stutsman County,,city-us,35,47.103,-98.901,0
+34433,Plainview,KS,Phillips County,,city-us,28,39.613,-99.460,0
+34435,Plainview,IA,Scott County,,city-us,19,41.668,-90.783,297
+34427,Plainview,OR,Deschutes County,,city-us,0,44.233,-121.464,172
+34429,Plainview,IL,Macoupin County,,city-us,0,39.159,-89.990,305
+34430,Plainview,SD,Meade County,,city-us,0,44.602,-102.162,1524
+34431,Plainview,GA,Morgan County,,city-us,0,33.573,-83.426,752
+34441,Plainview,LA,Washington Parish,,city-us,0,30.752,-89.969,146
+34442,Plainview,AR,White County,,city-us,0,35.313,-91.677,212

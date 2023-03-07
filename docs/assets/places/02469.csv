@@ -1,19 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20841,Alton,IL,,city-us,25422,38.89,-90.18,27940
-20849,Alton,TX,,city-us,18860,26.29,-98.31,5151
-20840,Alton,IA,,city-us,1242,42.99,-96.01,4098
-20844,Alton,ME,,city-us,824,45.04,-68.77,3177
-20846,Alton,MO,,city-us,687,36.69,-91.40,3691
-20845,Alton,MN,,city-us,420,44.05,-93.71,2044
-20848,Alton,SD,,city-us,246,44.32,-96.58,0
-20854,Alton,KY,,city-us,200,38.09,-84.94,286
-20850,Alton,UT,,city-us,118,37.44,-112.48,1471
-20843,Alton,KS,,city-us,100,39.47,-98.95,4690
-20847,Alton,NH,,city-us,80,43.45,-71.22,6824
-20842,Alton,IN,,city-us,30,38.12,-86.42,3026
-20851,Alton,AL,,city-us,0,33.58,-86.64,483
-20852,Alton,CA,,city-us,0,40.55,-124.14,1480
-20853,Alton,FL,,city-us,0,30.05,-83.14,176
-20855,Alton,LA,,city-us,0,30.33,-89.76,177
-20856,Alton,VA,,city-us,0,36.57,-79.00,221
-20857,Alton,WV,,city-us,0,38.82,-80.21,608
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12324,Duffee,MS,Newton County,,city-us,0,32.489,-88.927,1251
+12327,Duffy,WV,Lewis County,,city-us,0,38.791,-80.444,149
+12328,Duffy,OH,Monroe County,,city-us,0,39.644,-80.872,105

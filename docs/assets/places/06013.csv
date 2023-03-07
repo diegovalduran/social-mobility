@@ -1,10 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38165,Bailey,CO,,city-us,8042,39.41,-105.47,3957
-38167,Bailey,MI,,city-us,2805,43.25,-85.85,2249
-38162,Bailey,NC,,city-us,563,35.78,-78.12,2103
-38164,Bailey,TX,,city-us,231,33.43,-96.17,2890
-38163,Bailey,SD,,city-us,13,43.78,-99.70,0
-38166,Bailey,IA,,city-us,0,43.47,-92.61,5185
-38168,Bailey,MN,,city-us,0,45.32,-93.67,300
-38169,Bailey,MS,,city-us,0,32.47,-88.72,205
-38170,Bailey,MO,,city-us,0,38.23,-90.43,345
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30771,New Milford,NJ,Bergen County,,city-us,16893,40.935,-74.019,16680
+30774,New Milford,CT,Western Connecticut Planning Region,,city-us,7011,41.580,-73.404,16650
+30773,New Milford,PA,Susquehanna County,,city-us,814,41.873,-75.727,1836
+30775,New Milford,IL,Winnebago County,,city-us,787,42.187,-89.068,2555
+30772,New Milford,OH,Portage County,,city-us,0,41.105,-81.214,366

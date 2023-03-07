@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32658,Grand Isle,VT,,city-us,2120,44.72,-73.30,3157
-32656,Grand Isle,LA,,city-us,1003,29.24,-89.99,21958
-32657,Grand Isle,ME,,city-us,359,47.25,-68.14,3328
-32659,Grand Isle,LA,,city-us,0,29.27,-89.24,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23403,La Victoria,,,Venezuela,city-international,214492,10.228,-67.334,494
+23402,La Victoria,TX,Starr County,,city-us,188,26.341,-98.640,2316

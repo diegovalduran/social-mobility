@@ -1,18 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17508,Wyoming,,United States,state,581381,43.00,-107.55,38683
-17496,Wyoming,MI,,city-us,76749,42.91,-85.71,37702
-17500,Wyoming,OH,,city-us,8692,39.23,-84.47,5598
-17497,Wyoming,MN,,city-us,8063,45.34,-93.00,3830
-17501,Wyoming,PA,,city-us,3103,41.31,-75.84,6070
-17492,Wyoming,DE,,city-us,1801,39.12,-75.56,5625
-17495,Wyoming,IL,,city-us,1278,41.06,-89.77,4038
-17494,Wyoming,IL,,city-us,1233,41.68,-88.99,472
-17493,Wyoming,IA,,city-us,540,42.06,-91.01,3227
-17499,Wyoming,NY,,city-us,388,42.83,-78.09,3715
-17503,Wyoming,WI,,city-us,364,43.13,-90.11,2349
-17504,Wyoming,WI,,city-us,318,44.65,-89.04,1895
-17505,Wyoming,MI,,city-us,275,47.41,-87.96,5972
-17502,Wyoming,RI,,city-us,182,41.52,-71.70,2375
-17498,Wyoming,NE,,city-us,77,42.18,-98.94,244
-17506,Wyoming,NE,,city-us,0,40.74,-95.92,349
-17507,Wyoming,WV,,city-us,0,37.58,-81.60,341
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9915,Cork,,,Ireland,city-international,208669,51.900,-8.473,1402
+9913,Cork,GA,Butts County,,city-us,0,33.217,-83.863,214
+9914,Cork,KY,Metcalfe County,,city-us,0,37.038,-85.583,90

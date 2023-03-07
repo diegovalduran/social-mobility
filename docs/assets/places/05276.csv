@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35606,Collegeville,PA,,city-us,4976,40.19,-75.45,7764
-35605,Collegeville,MN,,city-us,0,45.59,-94.36,446
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27069,Marston,MO,New Madrid County,,city-us,385,36.519,-89.613,3477
+27068,Marston,IL,Mercer County,,city-us,0,41.307,-90.802,134
+27070,Marston,NC,Richmond County,,city-us,0,34.988,-79.582,843

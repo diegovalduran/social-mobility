@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32961,Carver,MA,,city-us,11668,41.88,-70.75,9147
-32962,Carver,MN,,city-us,6401,44.76,-93.63,10144
-32963,Carver,OR,,city-us,0,45.39,-122.50,2065
-32964,Carver,WV,,city-us,0,38.08,-81.08,74
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23806,Lallie,ND,Benson County,,city-us,0,47.978,-99.216,286
+24120,Lawley,AL,Bibb County,,city-us,0,32.859,-86.951,237

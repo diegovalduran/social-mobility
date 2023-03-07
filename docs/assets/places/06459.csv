@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39573,Croydon,PA,,city-us,9860,40.09,-74.90,4028
-39572,Croydon,NH,,city-us,823,43.44,-72.18,3932
-39574,Croydon,UT,,city-us,0,41.07,-111.51,853
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32901,Paintersville,OH,Greene County,,city-us,0,39.586,-83.820,311
+32902,Paintersville,CA,Sacramento County,,city-us,0,38.320,-121.576,310

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26359,Knollwood,IL,,city-us,2121,42.27,-87.90,6026
-26360,Knollwood,TX,,city-us,776,33.69,-96.62,2343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17094,Gloucester,,,United Kingdom,city-international,145563,51.864,-2.244,41015
+17091,Gloucester,NJ,Camden County,,city-us,65842,39.792,-75.036,15356
+17093,Gloucester,MA,Essex County,,city-us,29952,42.616,-70.662,31528
+17092,Gloucester,NC,Carteret County,,city-us,497,34.726,-76.541,662

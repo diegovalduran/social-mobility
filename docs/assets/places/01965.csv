@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17634,Bowling Green,KY,,city-us,73529,36.99,-86.44,30771
-17640,Bowling Green,OH,,city-us,30677,41.37,-83.65,12667
-17637,Bowling Green,MO,,city-us,4219,39.34,-91.20,5295
-17631,Bowling Green,FL,,city-us,2469,27.64,-81.82,2075
-17638,Bowling Green,OH,,city-us,1819,39.93,-82.31,140
-17635,Bowling Green,MD,,city-us,1282,39.62,-78.80,914
-17641,Bowling Green,VA,,city-us,1174,38.05,-77.35,5985
-17639,Bowling Green,OH,,city-us,570,40.54,-83.37,140
-17632,Bowling Green,IL,,city-us,437,39.19,-88.94,677
-17636,Bowling Green,MO,,city-us,94,39.37,-92.99,195
-17633,Bowling Green,IN,,city-us,0,39.38,-87.01,1122
-17642,Bowling Green,PA,,city-us,0,39.92,-75.38,316
-17643,Bowling Green,SC,,city-us,0,35.15,-81.21,191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10003,Corvallis,OR,Benton County,,city-us,59864,44.565,-123.262,24362
+10004,Corvallis,MT,Ravalli County,,city-us,1604,46.314,-114.113,2514

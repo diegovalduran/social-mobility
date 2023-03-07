@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46585,Saint Helens,,United Kingdom,city-international,102629,53.45,-2.75,2411
-46584,Saint Helens,KY,,city-us,0,37.58,-83.65,546
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44488,Vicksburg,MS,Warren County,,city-us,20904,32.353,-90.878,27860
+44484,Vicksburg,MI,Kalamazoo County,,city-us,3810,42.120,-85.533,3968
+44485,Vicksburg,AZ,La Paz County,,city-us,521,33.744,-113.752,271
+44487,Vicksburg,PA,Union County,,city-us,136,40.939,-76.988,276
+44481,Vicksburg,PA,Blair County,,city-us,38,40.368,-78.415,571
+44483,Vicksburg,KS,Jewell County,,city-us,25,39.705,-97.996,786
+44482,Vicksburg,IN,Greene County,,city-us,0,39.091,-87.198,327
+44486,Vicksburg,MO,Pemiscot County,,city-us,0,36.154,-89.870,256

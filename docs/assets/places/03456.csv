@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26975,McCook,NE,,city-us,7356,40.20,-100.63,10457
-26974,McCook,IL,,city-us,243,41.80,-87.84,3433
-26976,McCook,TX,,city-us,0,26.48,-98.39,463
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17483,Grand River,MO,DeKalb County,,city-us,4356,39.786,-94.266,170
+17487,Grand River,KS,Sedgwick County,,city-us,689,37.684,-97.757,144
+17484,Grand River,OH,Lake County,,city-us,394,41.736,-81.281,3487
+17479,Grand River,MO,Bates County,,city-us,295,38.422,-94.226,1079
+17481,Grand River,MO,Daviess County,,city-us,293,40.011,-93.964,144
+17485,Grand River,MO,Livingston County,,city-us,223,39.665,-93.357,0
+17482,Grand River,IA,Decatur County,,city-us,193,40.819,-93.962,2946
+17486,Grand River,SD,Perkins County,,city-us,18,45.888,-102.624,0
+17480,Grand River,ND,Bowman County,,city-us,16,45.996,-103.561,140

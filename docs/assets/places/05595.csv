@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36720,Todd,PA,,city-us,1600,39.97,-77.96,173
-36718,Todd,MN,,city-us,1489,46.94,-95.11,1959
-36719,Tod,OH,,city-us,634,40.84,-83.09,1337
-36721,Todd,PA,,city-us,0,40.26,-78.08,229
-36722,Todd,NC,,city-us,0,36.31,-81.60,3290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28834,Minersville,PA,Schuylkill County,,city-us,4393,40.691,-76.262,6509
+28832,Minersville,UT,Beaver County,,city-us,886,38.214,-112.924,2797
+28831,Minersville,WI,Ashland County,,city-us,0,46.407,-90.797,118
+28833,Minersville,OH,Meigs County,,city-us,0,39.023,-81.994,106

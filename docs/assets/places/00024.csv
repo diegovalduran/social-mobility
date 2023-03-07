@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-257,Eagle Village,AK,,city-us,33,64.78,-141.11,3124
-258,Eagle Village,IN,,city-us,0,39.96,-86.25,769
+id,name,state,county,country,level,population,latitude,longitude,wiki
+108,Acworth,GA,Cobb County,,city-us,22284,34.066,-84.677,9420
+109,Acworth,NH,Sullivan County,,city-us,879,43.214,-72.287,5094
+82,Ackworth,IA,Warren County,,city-us,119,41.367,-93.473,3016

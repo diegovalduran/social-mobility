@@ -1,12 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33881,Turner,OR,,city-us,2454,44.84,-122.95,3569
-33877,Turner,ME,,city-us,654,44.26,-70.26,6770
-33878,Turner,MI,,city-us,519,44.13,-83.75,1994
-33882,Turner,SD,,city-us,191,43.22,-96.99,0
-33879,Turner,MN,,city-us,140,46.82,-93.24,2407
-33880,Turner,MT,,city-us,90,48.84,-108.41,1370
-33883,Turner,AR,,city-us,0,35.84,-90.06,426
-33884,Turner,AR,,city-us,0,34.48,-91.02,417
-33885,Turner,IN,,city-us,0,39.50,-87.16,660
-33886,Turner,WA,,city-us,0,46.41,-117.85,247
-33887,Turner,WV,,city-us,0,38.48,-81.31,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25157,Lisle,IL,DuPage County,,city-us,23887,41.801,-88.075,7332
+25155,Lisle,NY,Broome County,,city-us,334,42.351,-76.003,5869
+25156,Lisle,MO,Cass County,,city-us,0,38.549,-94.595,605

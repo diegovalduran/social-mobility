@@ -1,3 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44943,Dancy,AL,,city-us,0,33.01,-88.29,204
-44944,Dancy,WI,,city-us,0,44.69,-89.71,330
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41557,Stockton,CA,San Joaquin County,,city-us,322120,37.958,-121.291,49561
+41555,Stockton,WI,Portage County,,city-us,2896,44.511,-89.467,2214
+41551,Stockton,IL,Jo Daviess County,,city-us,2256,42.328,-90.040,1027
+41549,Stockton,NY,Chautauqua County,,city-us,2016,42.299,-79.357,8192
+41548,Stockton,MO,Cedar County,,city-us,1776,37.699,-93.796,3938
+41556,Stockton,KS,Rooks County,,city-us,1380,39.438,-99.265,4798
+41559,Stockton,MN,Winona County,,city-us,811,44.027,-91.770,3466
+41558,Stockton,UT,Tooele County,,city-us,624,40.453,-112.361,4369
+41547,Stockton,AL,Baldwin County,,city-us,557,30.994,-87.858,1473
+41550,Stockton,NJ,Hunterdon County,,city-us,496,40.408,-74.978,14125
+41553,Stockton,IA,Muscatine County,,city-us,176,41.591,-90.859,3127
+41552,Stockton,GA,Lanier County,,city-us,135,30.941,-83.009,1164
+41560,Stockton,MD,Worcester County,,city-us,36,38.054,-75.410,4688
+41554,Stockton,IN,Owen County,,city-us,0,39.239,-87.022,300

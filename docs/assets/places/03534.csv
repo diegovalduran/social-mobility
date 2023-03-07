@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27419,Oakford,IL,,city-us,232,40.10,-89.96,1987
-27420,Oakford,IN,,city-us,0,40.42,-86.10,679
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17918,Greendale,WI,Milwaukee County,,city-us,14652,42.941,-87.996,13157
+17915,Greendale,IN,Dearborn County,,city-us,4584,39.113,-84.864,3222
+17917,Greendale,MI,Midland County,,city-us,1730,43.596,-84.540,2513
+17920,Greendale,MO,St. Louis County,,city-us,640,38.695,-90.313,3114
+17919,Greendale,ND,Richland County,,city-us,146,45.979,-96.831,0
+17913,Greendale,PA,Armstrong County,,city-us,0,40.805,-79.387,279
+17914,Greendale,IL,Clay County,,city-us,0,38.630,-88.698,166
+17916,Greendale,OH,Hocking County,,city-us,0,39.542,-82.276,179

@@ -1,4 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5909,Blue Mountain,MS,,city-us,816,34.67,-89.03,2903
-5908,Blue Mountain,AR,,city-us,86,35.13,-93.71,2528
-5910,Blue Mountain,CO,,city-us,0,40.25,-108.86,286
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2677,Batesville,AR,Independence County,,city-us,11166,35.770,-91.641,6927
+2679,Batesville,MS,Panola County,,city-us,7326,34.312,-89.944,3820
+2674,Batesville,IN,Franklin County / Ripley County,,city-us,7236,39.298,-85.213,13688
+2680,Batesville,TX,Zavala County,,city-us,1090,28.951,-99.618,2546
+2678,Batesville,OH,Noble County,,city-us,101,39.914,-81.281,2885
+2671,Batesville,VA,Albemarle County,,city-us,59,37.996,-78.722,2466
+2672,Batesville,AL,Barbour County,,city-us,0,32.009,-85.311,494
+2673,Batesville,MO,Butler County,,city-us,0,36.699,-90.246,446
+2675,Batesville,SC,Greenville County,,city-us,0,34.851,-82.231,322
+2676,Batesville,GA,Habersham County,,city-us,0,34.748,-83.612,1035

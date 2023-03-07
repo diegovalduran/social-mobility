@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45318,Belfort,CA,,city-us,0,38.42,-119.27,209
-45319,Belfort,OH,,city-us,0,40.81,-81.25,204
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42260,Swanville,ME,Waldo County,,city-us,1402,44.517,-69.012,4317
+42258,Swanville,MN,Morrison County,,city-us,517,45.896,-94.575,1858
+42259,Swanville,MN,Morrison County / Todd County,,city-us,332,45.916,-94.639,3143
+42257,Swanville,IN,Jefferson County,,city-us,0,38.686,-85.559,257

@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43190,Rhoda,SD,,city-us,122,43.30,-98.75,0
-43191,Rhoda,KY,,city-us,0,37.16,-86.23,664
-43192,Roda,VA,,city-us,0,36.97,-82.83,100
-43193,Rhoda,WV,,city-us,0,38.98,-81.12,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38595,Sandy Point,TX,Brazoria County,,city-us,212,29.386,-95.481,1332
+38596,Sandy Point,VA,Northumberland County,,city-us,0,37.820,-76.308,101
+38597,Sandy Point,VA,Westmoreland County,,city-us,0,38.068,-76.536,100

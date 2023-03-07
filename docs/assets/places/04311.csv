@@ -1,5 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31572,Parsons,KS,,city-us,9479,37.34,-95.26,11398
-31573,Parsons,TN,,city-us,2082,35.65,-88.13,3579
-31574,Parsons,WV,,city-us,1307,39.10,-79.68,5036
-31575,Parsons,MO,,city-us,0,40.08,-93.27,305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22290,Jones,OK,Oklahoma County,,city-us,2941,35.566,-97.287,3706
+22285,Jones,MI,Cass County,,city-us,1632,41.933,-85.809,3403
+22287,Jones,PA,Elk County,,city-us,1556,41.582,-78.629,2478
+22284,Jones,MN,Beltrami County,,city-us,268,47.469,-95.084,2630
+22288,Jones,SD,Gregory County,,city-us,76,43.125,-99.357,0
+22282,Jones,AL,Autauga County,,city-us,0,32.584,-86.897,526
+22283,Jones,WV,Barbour County,,city-us,0,39.058,-79.991,87
+22286,Jones,IL,Coles County,,city-us,0,39.453,-88.336,116
+22289,Jones,LA,Morehouse Parish,,city-us,0,32.968,-91.648,211
+22291,Jones,KY,Perry County,,city-us,0,37.364,-83.230,88

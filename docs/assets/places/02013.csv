@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17933,Graceville,FL,,city-us,2171,30.96,-85.52,6273
-17934,Graceville,MN,,city-us,527,45.57,-96.43,6905
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10189,Coyote,NM,Rio Arriba County,,city-us,51,36.168,-106.616,363
+10188,Coyote,NM,Lincoln County,,city-us,0,33.813,-105.824,161
+10190,Coyote,CA,Santa Clara County,,city-us,0,37.217,-121.741,2117

@@ -1,9 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16843,Plainville,CT,,city-us,17445,41.67,-72.85,5249
-16848,Plainville,MA,,city-us,9896,42.01,-71.34,6301
-16847,Plainville,KS,,city-us,1762,39.23,-99.30,8529
-16850,Plainville,WI,,city-us,1590,43.71,-89.81,2425
-16846,Plainville,IN,,city-us,492,38.81,-87.15,3106
-16844,Plainville,GA,,city-us,355,34.41,-85.04,2254
-16845,Plainville,IL,,city-us,265,39.79,-91.19,2267
-16849,Plainville,OH,,city-us,152,39.14,-84.36,789
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9536,Compton,CA,Los Angeles County,,city-us,93597,33.896,-118.220,31609
+9538,Compton,MN,Otter Tail County,,city-us,805,46.406,-95.216,1884
+9535,Compton,IL,Lee County,,city-us,269,41.694,-89.081,2205
+9537,Compton,AR,Newton County,,city-us,0,36.097,-93.303,296
+9539,Compton,VA,Page County,,city-us,0,38.782,-78.369,87
+9540,Compton,MD,St. Mary's County,,city-us,0,38.275,-76.693,275

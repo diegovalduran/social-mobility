@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23806,Lohman,MO,,city-us,175,38.54,-92.36,2886
-23805,Lowman,ID,,city-us,21,44.08,-115.62,2555
-23807,Loman,MN,,city-us,0,48.51,-93.80,919
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14776,Felix,IL,Grundy County,,city-us,4451,41.311,-88.295,1156
+14775,Felix,CA,Calaveras County,,city-us,0,38.028,-120.716,226

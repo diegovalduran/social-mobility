@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41289,Wills,OH,,city-us,1503,40.03,-81.39,1255
-41290,Wills,WI,,city-us,0,46.54,-91.54,112
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35776,Rainsville,AL,DeKalb County,,city-us,5604,34.494,-85.848,4798
+35778,Rainsville,IN,Warren County,,city-us,28,40.416,-87.316,525
+35777,Rainsville,NM,Mora County,,city-us,0,35.979,-105.209,347

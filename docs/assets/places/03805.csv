@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29132,Witt,IL,,city-us,777,39.26,-89.35,1903
-29133,Witt,KY,,city-us,0,37.67,-84.03,115
-29134,Witt,TN,,city-us,0,36.15,-83.28,1540
-29135,Whitt,TX,,city-us,0,32.96,-98.02,1643
-29136,Witt,VA,,city-us,0,36.68,-79.40,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19484,Headquarters,ID,Clearwater County,,city-us,0,46.630,-115.809,654
+19485,Headquarters,NJ,Hunterdon County,,city-us,0,40.443,-74.923,2035
+19486,Headquarters,KY,Nicholas County,,city-us,0,38.358,-84.114,711

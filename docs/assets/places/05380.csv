@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35982,Jeffers,MN,,city-us,357,44.06,-95.20,5279
-35983,Jeffers,MT,,city-us,7,45.35,-111.71,350
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27535,McGregor,FL,Lee County,,city-us,7924,26.561,-81.915,2668
+27534,McGregor,TX,Coryell County / McLennan County,,city-us,5522,31.420,-97.426,3790
+27537,McGregor,MI,Sanilac County,,city-us,911,43.467,-82.705,2952
+27533,McGregor,IA,Clayton County,,city-us,723,43.018,-91.183,7172
+27531,McGregor,MN,Aitkin County,,city-us,378,46.607,-93.314,3567
+27538,McGregor,ND,Williams County,,city-us,47,48.595,-102.928,465
+27532,McGregor,PA,Armstrong County,,city-us,0,40.938,-79.220,266
+27536,McGregor,GA,Montgomery County,,city-us,0,32.197,-82.505,274

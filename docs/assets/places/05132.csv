@@ -1,3 +1,60 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35024,Rosebush,MI,,city-us,357,43.70,-84.77,3731
-35025,Rosebush,OR,,city-us,0,45.30,-120.71,120
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26337,Madison,AL,Limestone County / Madison County,,city-us,58357,34.711,-86.762,8794
+26340,Madison,MS,Madison County,,city-us,27719,32.462,-90.115,5909
+26320,Madison,OH,Franklin County,,city-us,26039,39.836,-82.865,966
+26359,Madison,CT,South Central Connecticut Planning Region,,city-us,17619,41.344,-72.625,9631
+26348,Madison,NJ,Morris County,,city-us,16948,40.760,-74.417,28537
+26330,Madison,IN,Jefferson County,,city-us,12266,38.736,-85.380,16686
+26353,Madison,OH,Richland County,,city-us,11104,40.792,-82.484,966
+26354,Madison,KS,Riley County,,city-us,8693,39.211,-96.809,4167
+26308,Madison,OH,Butler County,,city-us,8554,39.536,-84.426,966
+26335,Madison,MI,Lenawee County,,city-us,8423,41.853,-84.073,0
+26328,Madison,OH,Highland County,,city-us,6447,39.331,-83.422,966
+26314,Madison,WI,Dane County,,city-us,6220,43.041,-89.391,58043
+26334,Madison,SD,Lake County,,city-us,6071,44.006,-97.114,5175
+26347,Madison,GA,Morgan County,,city-us,4894,33.596,-83.468,17804
+26358,Madison,ME,Somerset County,,city-us,4720,44.826,-69.800,6553
+26357,Madison,OH,Scioto County,,city-us,3889,38.912,-82.836,966
+26356,Madison,OH,Sandusky County,,city-us,3580,41.377,-83.358,966
+26333,Madison,OH,Lake County,,city-us,3420,41.771,-81.050,3650
+26336,Madison,OH,Licking County,,city-us,3293,40.066,-82.334,966
+26344,Madison,IL,Madison County / St. Clair County,,city-us,3129,38.686,-90.102,3337
+26339,Madison,FL,Madison County,,city-us,2947,30.469,-83.413,5680
+26313,Madison,OH,Columbiana County,,city-us,2864,40.681,-80.687,966
+26307,Madison,WV,Boone County,,city-us,2838,38.067,-81.819,4700
+26309,Madison,NH,Carroll County,,city-us,2645,43.908,-71.154,3612
+26311,Madison,OH,Clark County,,city-us,2517,39.812,-83.651,966
+26332,Madison,PA,Lackawanna County,,city-us,2479,41.349,-75.468,500
+26341,Madison,NE,Madison County,,city-us,2216,41.828,-97.455,4456
+26355,Madison,NC,Rockingham County,,city-us,2120,36.385,-79.959,3573
+26329,Madison,OH,Jackson County,,city-us,2102,38.890,-82.503,966
+26317,Madison,OH,Fairfield County,,city-us,1774,39.598,-82.668,966
+26351,Madison,OH,Pickaway County,,city-us,1754,39.776,-82.895,966
+26312,Madison,PA,Columbia County,,city-us,1567,41.099,-76.570,500
+26350,Madison,OH,Perry County,,city-us,1383,39.861,-82.185,966
+26310,Madison,PA,Clarion County,,city-us,1158,41.007,-79.520,500
+26318,Madison,OH,Fayette County,,city-us,1089,39.660,-83.308,966
+26324,Madison,OH,Guernsey County,,city-us,997,40.105,-81.384,966
+26322,Madison,KS,Greenwood County,,city-us,985,38.124,-96.203,653
+26363,Madison,OH,Williams County,,city-us,903,41.658,-84.524,966
+26325,Madison,OH,Hancock County,,city-us,841,40.865,-83.660,966
+26306,Madison,PA,Armstrong County,,city-us,820,40.959,-79.453,500
+26352,Madison,IL,Richland County,,city-us,784,38.615,-88.088,375
+26360,Madison,AR,St. Francis County,,city-us,731,35.013,-90.723,2081
+26319,Madison,NE,Fillmore County,,city-us,650,40.568,-97.539,247
+26323,Madison,MO,Grundy County,,city-us,596,40.060,-93.709,258
+26361,Madison,OH,Vinton County,,city-us,548,39.249,-82.368,966
+26346,Madison,MO,Monroe County,,city-us,523,39.474,-92.210,3882
+26364,Madison,CA,Yolo County,,city-us,478,38.679,-121.968,2846
+26349,Madison,OH,Muskingum County,,city-us,476,40.097,-81.951,966
+26326,Madison,MO,Harrison County,,city-us,426,40.427,-93.820,154
+26362,Madison,PA,Westmoreland County,,city-us,360,40.247,-79.677,1879
+26342,Madison,NY,Madison County,,city-us,318,42.899,-75.512,3190
+26345,Madison,MO,Mercer County,,city-us,245,40.313,-93.724,124
+26343,Madison,VA,Madison County,,city-us,207,38.380,-78.257,2638
+26331,Madison,MN,Lac qui Parle County,,city-us,206,45.016,-96.145,1837
+26315,Madison,MD,Dorchester County,,city-us,145,38.512,-76.220,878
+26321,Madison,SD,Grant County,,city-us,131,45.106,-96.698,5175
+26338,Madison,KS,Lincoln County,,city-us,79,38.920,-97.975,4167
+26327,Madison,ND,Hettinger County,,city-us,46,46.587,-102.487,0
+26316,Madison,SD,Edmunds County,,city-us,14,45.295,-99.525,5175

@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32241,Gracey,KY,,city-us,99,36.88,-87.66,821
-32242,Gracey,OH,,city-us,0,39.44,-81.29,222
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22933,Kimberley,,,South Africa,city-international,165264,-28.739,24.759,40746
+22939,Kimberly,WI,Outagamie County,,city-us,7465,44.272,-88.339,4910
+22941,Kimberly,ID,Twin Falls County,,city-us,4824,42.534,-114.365,4147
+22937,Kimberly,AL,Jefferson County,,city-us,3946,33.773,-86.814,4734
+22935,Kimberly,WV,Fayette County,,city-us,290,38.136,-81.303,246
+22934,Kimberly,MN,Aitkin County,,city-us,0,46.561,-93.466,579
+22936,Kimberly,OR,Grant County,,city-us,0,44.759,-119.643,792
+22938,Kimberly,WV,Monongalia County,,city-us,0,39.694,-80.289,178
+22940,Kimberly,MO,Randolph County,,city-us,0,39.432,-92.489,319

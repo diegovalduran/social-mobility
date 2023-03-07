@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17863,Ensley,FL,,city-us,22015,30.52,-87.27,2522
-17864,Ensley,MI,,city-us,2633,43.33,-85.63,1953
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10132,Cove,OR,Union County,,city-us,612,45.297,-117.808,4907
+10127,Cove,TX,Chambers County,,city-us,559,29.827,-94.802,4117
+10126,Cove,UT,Cache County,,city-us,471,41.964,-111.806,1708
+10131,Cove,AR,Polk County,,city-us,323,34.435,-94.411,2587
+10128,Cove,MO,McDonald County,,city-us,0,36.581,-94.103,316
+10129,Cove,MN,Mille Lacs County,,city-us,0,46.109,-93.619,196
+10130,Cove,PA,Perry County,,city-us,0,40.355,-76.978,236

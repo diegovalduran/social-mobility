@@ -1,4 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13544,Oceanside,CA,,city-us,172982,33.20,-117.38,14234
-13545,Oceanside,NY,,city-us,31182,40.64,-73.64,11588
-13546,Oceanside,OR,,city-us,366,45.46,-123.97,2159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7038,Carroll,IA,Carroll County,,city-us,10224,42.066,-94.867,5509
+7050,Carroll,PA,York County,,city-us,6934,40.110,-77.021,338
+7048,Carroll,PA,Washington County,,city-us,5346,40.178,-79.929,338
+7043,Carroll,PA,Perry County,,city-us,5251,40.345,-77.180,338
+7039,Carroll,NY,Chautauqua County,,city-us,3422,42.040,-79.099,4635
+7042,Carroll,OH,Ottawa County,,city-us,2101,41.606,-83.103,1236
+7046,Carroll,MO,Texas County,,city-us,1053,37.187,-91.700,174
+7040,Carroll,NH,Coos County,,city-us,806,44.305,-71.497,6934
+7041,Carroll,OH,Fairfield County,,city-us,504,39.799,-82.701,3699
+7047,Carroll,IL,Vermilion County,,city-us,502,39.928,-87.744,1352
+7049,Carroll,NE,Wayne County,,city-us,194,42.276,-97.189,3113
+7044,Carroll,ND,Slope County,,city-us,13,46.411,-102.989,0
+7045,Carroll,TX,Smith County,,city-us,0,32.477,-95.520,237

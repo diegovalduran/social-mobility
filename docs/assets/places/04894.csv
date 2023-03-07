@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33895,Weld,ME,,city-us,386,44.69,-70.45,7013
-33896,Weld,ND,,city-us,32,46.95,-99.13,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25176,Littell,WA,Lewis County,,city-us,0,46.637,-123.035,1039
+25177,Little,KY,Breathitt County,,city-us,0,37.440,-83.362,173
+25178,Little,OK,Seminole County,,city-us,0,35.348,-96.672,407
+25179,Little,WV,Tyler County,,city-us,0,39.475,-80.997,123

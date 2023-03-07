@@ -1,9 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36630,Stillwater,OK,,city-us,48134,36.12,-97.06,31692
-36626,Stillwater,MN,,city-us,19389,45.06,-92.81,12282
-36629,Stillwater,NY,,city-us,9108,42.97,-73.69,5219
-36628,Stillwater,NJ,,city-us,4020,41.07,-74.87,17379
-36631,Stillwater,PA,,city-us,200,41.15,-76.37,3086
-36627,Stillwater,ND,,city-us,18,46.24,-103.18,133
-36632,Stillwater,OH,,city-us,0,40.32,-81.31,320
-36633,Stillwater,WA,,city-us,0,47.68,-121.92,326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28624,Milligan,NE,Fillmore County,,city-us,241,40.500,-97.388,3273
+28623,Milligan,TX,Collin County,,city-us,0,33.186,-96.547,95
+28625,Milligan,FL,Okaloosa County,,city-us,0,30.753,-86.641,443
+28626,Milligan,IN,Parke County,,city-us,0,39.846,-87.038,390
+28627,Milligan,OH,Perry County,,city-us,0,39.728,-82.102,768

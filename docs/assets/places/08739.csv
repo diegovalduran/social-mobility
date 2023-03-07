@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46272,Red Bush,IN,,city-us,0,37.94,-87.27,271
-46273,Red Bush,KY,,city-us,0,38.18,-83.68,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43846,Union Church,MS,Jefferson County,,city-us,0,31.683,-90.787,4878
+43847,Union Church,AL,Mobile County,,city-us,0,30.566,-88.344,95
+43848,Union Church,WI,Racine County,,city-us,0,42.844,-88.069,327

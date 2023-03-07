@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-293,Flat,TX,,city-us,157,31.31,-97.63,1224
-292,Flat,AK,,city-us,0,62.45,-158.01,3718
-294,Flat,KY,,city-us,0,37.65,-83.55,213
-295,Flat,MO,,city-us,0,37.75,-91.93,626
+id,name,state,county,country,level,population,latitude,longitude,wiki
+165,Adams Crossroads,AL,Cherokee County,,city-us,0,34.078,-85.488,281
+166,Adams Crossroads,DE,Sussex County,,city-us,0,38.797,-75.701,298

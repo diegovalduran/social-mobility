@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47786,Beech Hill,TN,,city-us,0,35.22,-86.29,242
-47787,Beech Hill,TN,,city-us,0,35.23,-86.89,177
-47788,Beech Hill,TN,,city-us,0,36.47,-86.11,177
-47789,Beech Hill,WV,,city-us,0,38.76,-82.00,172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47422,Woden,IA,Hancock County,,city-us,184,43.233,-93.909,4657
+47423,Woden,TX,Nacogdoches County,,city-us,0,31.503,-94.527,1182

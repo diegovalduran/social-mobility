@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27414,Nunda,IL,,city-us,38401,42.29,-88.27,602
-27417,Nunda,NY,,city-us,2654,42.57,-77.88,5095
-27415,Nunda,MI,,city-us,1202,45.24,-84.48,2348
-27416,Nunda,MN,,city-us,308,43.54,-93.47,1915
-27418,Nunda,SD,,city-us,47,44.16,-97.02,2929
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17910,Greencastle,IN,Putnam County,,city-us,9983,39.644,-86.865,16583
+17908,Greencastle,PA,Franklin County,,city-us,4206,39.790,-77.728,8407
+17911,Greencastle,MO,Sullivan County,,city-us,220,40.263,-92.878,4260
+17907,Greencastle,OH,Fairfield County,,city-us,0,39.774,-82.761,272
+17909,Greencastle,WV,Kanawha County,,city-us,0,38.063,-81.373,144
+17912,Greencastle,WV,Wirt County,,city-us,0,39.131,-81.379,444

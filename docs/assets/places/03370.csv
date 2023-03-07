@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26348,Kings,IL,,city-us,146,42.00,-89.11,129
-26349,Kings,IL,,city-us,0,39.68,-87.99,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17082,Globe,AZ,Gila County,,city-us,7162,33.394,-110.787,14288
+17080,Globe,WI,Clark County,,city-us,638,44.644,-90.612,1948
+17081,Globe,KS,Douglas County,,city-us,0,38.782,-95.400,1304
+17083,Globe,VA,King William County,,city-us,0,37.813,-77.200,87
+17084,Globe,OR,Lane County,,city-us,0,44.009,-123.605,340

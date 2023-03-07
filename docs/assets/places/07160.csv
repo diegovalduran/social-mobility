@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41703,Wynnewood,PA,,city-us,13572,40.00,-75.27,8650
-41702,Wynnewood,OK,,city-us,1931,34.64,-97.16,7234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36248,Regina,,,Canada,city-international,215106,50.455,-104.607,47122
+36247,Regina,NM,Sandoval County,,city-us,67,36.184,-106.957,2096
+36245,Regina,MO,Jefferson County,,city-us,0,38.326,-90.592,241
+36246,Regina,VA,Lancaster County,,city-us,0,37.804,-76.418,112

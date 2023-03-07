@@ -1,15 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27371,Northfield,IL,,city-us,89863,42.11,-87.84,2172
-27376,Northfield,MN,,city-us,20729,44.45,-93.18,15490
-27375,Northfield,MI,,city-us,8514,42.40,-83.74,4575
-27380,Northfield,NJ,,city-us,8428,39.37,-74.55,13434
-27382,Northfield,VT,,city-us,6291,44.15,-72.69,4424
-27379,Northfield,NH,,city-us,4955,43.40,-71.56,8957
-27381,Northfield,OH,,city-us,3522,41.35,-81.53,5097
-27372,Northfield,KY,,city-us,995,38.29,-85.64,2783
-27373,Northfield,MA,,city-us,900,42.70,-72.45,12459
-27377,Northfield,MN,,city-us,865,44.42,-93.10,1894
-27383,Northfield,WI,,city-us,586,44.46,-91.10,2612
-27374,Northfield,ME,,city-us,181,44.82,-67.62,2783
-27378,Northfield,ND,,city-us,32,48.50,-98.64,0
-27384,Northfield,IN,,city-us,0,40.03,-86.28,305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17885,Greenbank,WA,Island County,,city-us,0,48.098,-122.572,2423
+17886,Greenbank,DE,New Castle County,,city-us,0,39.739,-75.636,804

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15578,La Salle,MI,,city-us,4894,41.84,-83.46,4568
-15577,La Salle,CO,,city-us,2342,40.35,-104.70,2534
-15579,La Salle,MN,,city-us,77,44.07,-94.57,2946
-15580,La Salle,TX,,city-us,0,28.79,-96.67,1627
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8535,Clarksboro,NJ,Gloucester County,,city-us,0,39.800,-75.224,1058
+8536,Clarksboro,GA,Jackson County,,city-us,0,34.041,-83.498,268

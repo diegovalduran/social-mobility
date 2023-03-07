@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32199,Fincastle,TN,,city-us,1074,36.41,-84.05,639
-32198,Fincastle,KY,,city-us,839,38.31,-85.54,2597
-32200,Fincastle,VA,,city-us,723,37.50,-79.88,3931
-32201,Fincastle,IN,,city-us,0,39.81,-86.89,365
-32202,Fincastle,KY,,city-us,0,37.65,-83.65,82
-32203,Fincastle,OH,,city-us,0,38.99,-83.71,249
-32204,Fincastle,TX,,city-us,0,32.13,-95.57,99
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22895,Kidds Store,KY,Casey County,,city-us,0,37.415,-84.854,319
+22896,Kidds Store,VA,Fluvanna County,,city-us,0,37.804,-78.362,801

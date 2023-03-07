@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46469,Hopson,KY,,city-us,0,36.99,-87.85,196
-46470,Hopson,MS,,city-us,0,34.16,-90.55,700
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44251,Vandalia,OH,Montgomery County,,city-us,15090,39.891,-84.199,9820
+44248,Vandalia,IL,Fayette County,,city-us,6836,38.961,-89.094,7111
+44246,Vandalia,MO,Audrain County / Ralls County,,city-us,3462,39.308,-91.489,4697
+44247,Vandalia,MI,Cass County,,city-us,329,41.917,-85.915,3957
+44249,Vandalia,IA,Jasper County,,city-us,0,41.539,-93.306,1119
+44250,Vandalia,WV,Lewis County,,city-us,0,38.927,-80.404,265
+44252,Vandalia,IN,Owen County,,city-us,0,39.313,-86.866,914
+44253,Vandalia,MT,Valley County,,city-us,0,48.354,-106.909,559

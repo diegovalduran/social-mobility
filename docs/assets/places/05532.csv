@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36493,Rosemount,MN,,city-us,26642,44.74,-93.13,5476
-36494,Rosemount,OH,,city-us,2075,38.79,-82.98,2195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28405,Milam,TX,Sabine County,,city-us,1697,31.432,-93.846,3010
+28404,Milam,WV,Hardy County,,city-us,0,38.814,-79.099,329
+28406,Milam,WV,Wyoming County,,city-us,0,37.681,-81.473,141

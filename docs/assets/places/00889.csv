@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9985,Congress,OH,,city-us,4491,40.95,-82.07,117
-9984,Congress,OH,,city-us,2941,40.59,-82.74,117
-9983,Congress,AZ,,city-us,1665,34.16,-112.85,3142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4519,Blue Mountain,MS,Tippah County,,city-us,816,34.671,-89.026,2903
+4517,Blue Mountain,AR,Logan County,,city-us,86,35.130,-93.712,2528
+4518,Blue Mountain,CO,Moffat County,,city-us,0,40.248,-108.862,286

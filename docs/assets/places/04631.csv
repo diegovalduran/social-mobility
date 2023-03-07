@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32907,West Monroe,LA,,city-us,12856,32.52,-92.15,5965
-32909,West Monroe,NY,,city-us,4094,43.31,-76.09,2879
-32908,West Monroe,MI,,city-us,3227,41.91,-83.43,2035
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23684,Lakemont,PA,Blair County,,city-us,1584,40.473,-78.388,432
+23685,Lakemont,GA,Rabun County,,city-us,0,34.782,-83.416,368

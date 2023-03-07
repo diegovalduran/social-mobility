@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25101,Delavan,WI,,city-us,8594,42.63,-88.64,6374
-25099,Delavan,IL,,city-us,1927,40.36,-89.54,435
-25100,Delavan,MN,,city-us,239,43.80,-94.09,1933
-25102,Delavan,KS,,city-us,0,38.66,-96.81,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16018,Friendsville,TN,Blount County,,city-us,901,35.760,-84.136,3466
+16019,Friendsville,MD,Garrett County,,city-us,437,39.664,-79.405,3808
+16021,Friendsville,PA,Susquehanna County,,city-us,100,41.917,-76.045,2850
+16020,Friendsville,OH,Medina County,,city-us,0,41.027,-81.966,389
+16022,Friendsville,IL,Wabash County,,city-us,0,38.503,-87.816,139

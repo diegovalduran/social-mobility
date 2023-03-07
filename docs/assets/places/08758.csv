@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46318,Temple Hill,IA,,city-us,0,42.23,-90.98,338
-46319,Temple Hill,KY,,city-us,0,36.89,-85.85,1276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43960,University,FL,Hillsborough County,,city-us,48367,28.077,-82.433,3388
+43962,University,FL,Orange County,,city-us,31084,28.590,-81.204,896
+43961,University,MS,Lafayette County,,city-us,3541,34.366,-89.525,984

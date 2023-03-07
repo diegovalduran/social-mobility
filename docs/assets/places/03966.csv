@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29875,Mackey,IN,,city-us,129,38.25,-87.39,3650
-29876,Mackey,IA,,city-us,0,42.17,-93.76,410
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20282,Hoffman,MN,Grant County,,city-us,711,45.829,-95.792,3325
+20281,Hoffman,IL,Clinton County,,city-us,431,38.541,-89.264,2152
+20287,Hoffman,NC,Richmond County,,city-us,415,35.032,-79.548,1865
+20286,Hoffman,OK,Okmulgee County,,city-us,87,35.489,-95.843,2512
+20284,Hoffman,SD,McPherson County,,city-us,19,45.803,-99.017,361
+20280,Hoffman,ND,Bottineau County,,city-us,13,48.845,-101.417,139
+20283,Hoffman,MO,Johnson County,,city-us,0,38.924,-93.760,266
+20285,Hoffman,NJ,Middlesex County,,city-us,0,40.318,-74.412,496

@@ -1,23 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21791,Grandview,MO,,city-us,25844,38.89,-94.53,4272
-21799,Grandview,WA,,city-us,10891,46.25,-119.90,3965
-21798,Grandview,TX,,city-us,1889,32.27,-97.18,2733
-21787,Grandview,IL,,city-us,1391,39.82,-89.62,1920
-21795,Grandview,OK,,city-us,1211,35.96,-95.00,498
-21793,Grandview,OH,,city-us,1122,39.19,-84.72,3171
-21788,Grandview,IN,,city-us,693,37.93,-86.98,3941
-21786,Grandview,IL,,city-us,518,39.55,-87.83,1056
-21789,Grandview,KS,,city-us,515,37.82,-99.93,530
-21800,Grandview,WI,,city-us,510,46.31,-91.07,0
-21785,Grandview,IA,,city-us,441,41.28,-91.19,3575
-21790,Grandview,MN,,city-us,261,44.50,-95.90,1891
-21797,Grandview,SD,,city-us,118,43.39,-97.47,0
-21796,Grandview,SD,,city-us,75,43.38,-98.41,0
-21792,Grandview,ND,,city-us,47,46.50,-98.34,0
-21794,Grandview,OH,,city-us,0,39.51,-81.08,415
-21801,Grandview,TN,,city-us,0,36.26,-82.72,169
-21802,Grandview,TN,,city-us,0,35.38,-88.12,161
-21803,Grandview,TN,,city-us,0,35.91,-83.86,135
-21804,Grandview,TN,,city-us,0,36.21,-85.48,178
-21805,Grandview,TN,,city-us,0,35.74,-84.84,364
-21806,Grandview,WV,,city-us,0,37.83,-81.07,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12996,Edina,MN,Hennepin County,,city-us,53318,44.890,-93.350,20316
+12997,Edina,MO,Knox County,,city-us,1014,40.168,-92.173,4461

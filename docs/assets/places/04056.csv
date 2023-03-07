@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30314,Springport,NY,,city-us,2218,42.85,-76.67,4238
-30315,Springport,MI,,city-us,1348,44.65,-83.33,2802
-30313,Springport,MI,,city-us,834,42.38,-84.70,3862
-30312,Springport,IN,,city-us,134,40.05,-85.39,3156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20846,Howardsville,VA,Albemarle County,,city-us,0,37.735,-78.647,7833
+20847,Howardsville,VA,Loudoun County,,city-us,0,39.038,-77.839,749
+20848,Howardsville,CO,San Juan County,,city-us,0,37.836,-107.594,1077

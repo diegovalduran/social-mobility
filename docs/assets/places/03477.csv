@@ -1,10 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27107,Mills,WY,,city-us,4221,42.84,-106.37,3356
-27106,Mills,MI,,city-us,3974,44.20,-84.07,239
-27105,Mills,MI,,city-us,1781,43.78,-84.23,239
-27104,Mills,IL,,city-us,495,38.79,-89.42,2562
-27108,Mills,KY,,city-us,0,36.92,-83.64,198
-27109,Mills,NE,,city-us,0,42.94,-99.44,611
-27110,Mills,NM,,city-us,0,36.09,-104.26,352
-27111,Mills,PA,,city-us,0,41.95,-77.69,213
-27112,Mills,UT,,city-us,0,39.48,-112.03,385
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17647,Grantham,NH,Sullivan County,,city-us,3459,43.517,-72.149,3939
+17646,Grantham,PA,Cumberland County,,city-us,0,40.156,-76.996,3142
+17648,Grantham,NC,Wayne County,,city-us,0,35.297,-78.164,1929

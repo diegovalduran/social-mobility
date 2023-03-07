@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33403,Hughesville,MD,,city-us,2475,38.53,-76.78,3329
-33405,Hughesville,PA,,city-us,2140,41.24,-76.72,3188
-33404,Hughesville,MO,,city-us,151,38.84,-93.30,3568
-33406,Hughesville,NJ,,city-us,0,40.62,-75.16,398
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24307,Leedey,OK,Dewey County,,city-us,411,35.870,-99.347,2422
+24383,Leidy,PA,Clinton County,,city-us,156,41.384,-77.881,1969

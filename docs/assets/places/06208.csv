@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38779,Fairville,ND,,city-us,28,47.63,-99.31,0
-38780,Fairville,IA,,city-us,0,43.16,-94.46,229
-38781,Fairville,MO,,city-us,0,39.23,-93.22,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31668,Oak,MN,Stearns County,,city-us,631,45.617,-94.706,2243
+31667,Oak,KS,Smith County,,city-us,242,39.785,-98.560,0
+31666,Oak,NE,Nuckolls County,,city-us,55,40.237,-97.903,2983
+31664,Oak,AL,Baldwin County,,city-us,0,30.318,-87.706,141
+31665,Oak,MO,DeKalb County,,city-us,0,39.894,-94.530,373
+31669,Oak,WV,Wood County,,city-us,0,39.132,-81.696,83

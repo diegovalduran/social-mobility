@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23348,Urbandale,IA,,city-us,45923,41.64,-93.78,7767
-23349,Urbandale,IL,,city-us,0,37.05,-89.19,286
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14220,Fair Haven,NJ,Monmouth County,,city-us,6204,40.361,-74.038,14276
+14221,Fair Haven,VT,Rutland County,,city-us,2719,43.621,-73.260,5123
+14222,Fair Haven,MN,Stearns County,,city-us,1538,45.358,-94.195,2137
+14219,Fair Haven,NY,Cayuga County,,city-us,783,43.316,-76.702,6098
+14218,Fair Haven,IL,Carroll County,,city-us,0,41.946,-89.929,139
+14223,Fair Haven,MO,Vernon County,,city-us,0,37.976,-94.173,486

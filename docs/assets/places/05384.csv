@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36003,Kelso,WA,,city-us,12719,46.15,-122.91,11024
-36001,Kelso,MO,,city-us,548,37.19,-89.55,3592
-36000,Kelso,MN,,city-us,270,44.50,-94.07,1862
-36002,Kelso,ND,,city-us,78,47.28,-97.01,0
-36004,Kelso,AR,,city-us,0,33.80,-91.27,173
-36005,Kelso,OR,,city-us,0,45.42,-122.31,250
-36006,Kelso,TN,,city-us,0,35.13,-86.47,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27562,McKean,OH,Licking County,,city-us,1614,40.149,-82.512,1157
+27561,McKean,PA,Erie County,,city-us,482,41.998,-80.140,2424
+27568,McKeen,IL,Clark County,,city-us,0,39.458,-87.614,144

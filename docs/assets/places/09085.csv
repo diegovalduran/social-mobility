@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47103,Fame,MS,,city-us,0,33.66,-89.20,301
-47104,Fame,OK,,city-us,0,35.36,-95.65,167
-47105,Fame,WV,,city-us,0,38.74,-79.16,133
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45832,Wellfleet,MA,Barnstable County,,city-us,3635,41.917,-70.027,10564
+45833,Wellfleet,NE,Lincoln County,,city-us,72,40.752,-100.730,3206

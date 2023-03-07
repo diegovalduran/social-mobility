@@ -1,3 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46851,Level,MD,,city-us,0,39.58,-76.19,283
-46852,Level,OH,,city-us,0,39.28,-84.05,468
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45042,Walnut Grove,GA,Walton County,,city-us,1347,33.743,-83.852,1901
+45039,Walnut Grove,CA,Sacramento County,,city-us,1143,38.242,-121.512,12490
+45041,Walnut Grove,TN,Sumner County,,city-us,809,36.484,-86.613,2049
+45026,Walnut Grove,AL,Etowah County,,city-us,773,34.066,-86.306,4245
+45038,Walnut Grove,MN,Redwood County,,city-us,743,44.223,-95.469,4831
+45030,Walnut Grove,IL,Knox County,,city-us,665,41.108,-90.156,238
+45027,Walnut Grove,MO,Greene County,,city-us,642,37.411,-93.550,4110
+45032,Walnut Grove,MS,Leake County,,city-us,481,32.590,-89.458,7636
+45029,Walnut Grove,TN,Hardin County,,city-us,396,35.040,-88.051,237
+45035,Walnut Grove,KS,Neosho County,,city-us,319,37.595,-95.170,366
+45025,Walnut Grove,SD,Douglas County,,city-us,111,43.463,-98.420,0
+45031,Walnut Grove,NE,Knox County,,city-us,79,42.508,-98.243,243
+45024,Walnut Grove,TX,Collin County,,city-us,0,32.177,-95.256,99
+45028,Walnut Grove,IN,Hamilton County,,city-us,0,40.162,-85.940,164
+45033,Walnut Grove,OH,Logan County,,city-us,0,40.428,-83.623,297
+45034,Walnut Grove,IL,McDonough County,,city-us,0,40.616,-90.559,410
+45036,Walnut Grove,AR,Pope County,,city-us,0,35.475,-92.939,156
+45037,Walnut Grove,IL,Putnam County,,city-us,0,41.177,-89.361,137
+45040,Walnut Grove,TX,Smith County,,city-us,0,32.177,-95.256,98
+45043,Walnut Grove,AR,Washington County,,city-us,0,36.004,-94.267,169

@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32065,Barlow,KY,,city-us,653,37.05,-89.05,2215
-32067,Barlow,OR,,city-us,135,45.25,-122.72,3611
-32066,Barlow,OH,,city-us,0,39.40,-81.66,424
-32068,Barlow,ND,,city-us,0,47.57,-99.14,325
-32069,Barlow,PA,,city-us,0,39.76,-77.23,1302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22768,Kenton,OH,Hardin County,,city-us,7951,40.647,-83.610,5830
+22767,Kenton,TN,Gibson County / Obion County,,city-us,1193,36.202,-89.018,2750
+22769,Kenton,MI,Houghton County,,city-us,280,46.495,-88.836,2456
+22770,Kenton,DE,Kent County,,city-us,214,39.228,-75.663,3881
+22766,Kenton,OK,Cimarron County,,city-us,4,36.903,-102.963,5537
+22771,Kenton,KY,Kenton County,,city-us,0,38.868,-84.456,267

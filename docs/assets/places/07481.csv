@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42744,Whitaker,PA,,city-us,1166,40.40,-79.89,2280
-42745,Whitaker,IL,,city-us,0,41.25,-87.73,162
-42746,Whitaker,IN,,city-us,0,39.38,-86.61,264
-42747,Whitaker,KY,,city-us,0,37.21,-83.26,91
-42748,Whittaker,MI,,city-us,0,42.13,-83.60,1913
-42749,Whitacre,VA,,city-us,0,39.33,-78.33,356
-42750,Whittaker,WV,,city-us,0,38.08,-81.38,125
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38014,Rustic,NJ,Morris County,,city-us,22950,40.888,-74.651,15079
+38012,Rustic,VA,Charles City County,,city-us,0,37.292,-76.934,106
+38013,Rustic,CO,Larimer County,,city-us,0,40.699,-105.581,716

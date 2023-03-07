@@ -1,7 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19085,Bowdon,GA,,city-us,2168,33.54,-85.25,5006
-19086,Bowdon,ND,,city-us,138,47.47,-99.71,3136
-19087,Bowden,WV,,city-us,0,38.91,-79.71,278
-19088,Boden,IL,,city-us,0,41.26,-90.59,163
-19089,Boden,OH,,city-us,0,40.12,-81.70,263
-19090,Bowden,OK,,city-us,0,36.06,-96.09,491
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11099,Davis,CA,Yolo County,,city-us,66799,38.545,-121.741,29892
+11095,Davis,MI,Macomb County,,city-us,3780,42.758,-82.921,4131
+11090,Davis,OK,Garvin County / Murray County,,city-us,2801,34.429,-97.174,4510
+11088,Davis,MO,Caldwell County,,city-us,1086,39.573,-93.816,545
+11097,Davis,WV,Tucker County,,city-us,588,39.129,-79.465,4059
+11096,Davis,IL,Stephenson County,,city-us,582,42.423,-89.414,2023
+11091,Davis,MO,Henry County,,city-us,236,38.343,-93.910,174
+11089,Davis,NC,Carteret County,,city-us,223,34.797,-76.460,697
+11098,Davis,SD,Turner County,,city-us,56,43.257,-96.996,2789
+11092,Davis,MN,Kittson County,,city-us,33,48.586,-96.839,1746
+11087,Davis,TX,Atascosa County,,city-us,0,28.800,-98.757,877
+11093,Davis,MO,Lincoln County,,city-us,0,39.058,-91.020,243
+11094,Davis,WV,Logan County,,city-us,0,37.827,-82.084,140

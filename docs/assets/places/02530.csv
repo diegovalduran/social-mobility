@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21301,Chapin,SC,,city-us,1841,34.17,-81.35,11992
-21300,Chapin,MI,,city-us,1060,43.16,-84.32,2336
-21299,Chapin,IL,,city-us,461,39.77,-90.40,1792
-21298,Chapin,IA,,city-us,160,42.83,-93.22,1178
-21302,Chapin,ID,,city-us,0,43.64,-111.11,303
-21303,Chapin,MO,,city-us,0,36.69,-91.77,392
-21304,Chapin,WI,,city-us,0,42.62,-87.97,415
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12619,Eagles Nest,MN,St. Louis County,,city-us,222,47.839,-92.104,2573
+12618,Eagles Nest,MS,Coahoma County,,city-us,0,34.292,-90.467,623

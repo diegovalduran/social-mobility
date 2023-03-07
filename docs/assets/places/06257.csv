@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38933,Lome,,Togo,city-international,837437,6.13,1.22,21152
-38931,Loam,ND,,city-us,36,48.85,-98.16,0
-38932,Loam,KY,,city-us,0,37.41,-84.13,679
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31995,Oconto,WI,Oconto County,,city-us,4575,44.887,-87.865,8095
+31994,Oconto,NE,Custer County,,city-us,141,41.141,-99.763,4027

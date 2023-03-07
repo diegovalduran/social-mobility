@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15852,Pitkin,LA,,city-us,586,30.94,-92.94,1246
-15851,Pitkin,CO,,city-us,76,38.61,-106.52,2213
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8845,Cliff,NM,Grant County,,city-us,143,32.962,-108.611,1017
+8843,Cliff,NE,Custer County,,city-us,126,41.488,-99.972,244
+8844,Cliff,KY,Floyd County,,city-us,0,37.681,-82.781,128

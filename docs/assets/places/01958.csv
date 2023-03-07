@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17590,Bayport,NY,,city-us,8813,40.74,-73.05,9114
-17589,Bayport,MN,,city-us,3885,45.02,-92.78,5544
-17588,Bayport,FL,,city-us,45,28.55,-82.65,3589
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10014,Corydon,IN,Harrison County,,city-us,3102,38.212,-86.122,22772
+10017,Corydon,IA,Wayne County,,city-us,1519,40.757,-93.319,6700
+10015,Corydon,KY,Henderson County,,city-us,727,37.743,-87.704,2399
+10016,Corydon,PA,McKean County,,city-us,280,41.936,-78.866,2442
+9982,Corridon,MO,Reynolds County,,city-us,0,37.382,-91.072,350

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8531,Ponca,NE,,city-us,894,42.56,-96.71,3747
-8530,Ponca,AR,,city-us,30,36.02,-93.36,741
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3952,Big Sandy,TX,Upshur County,,city-us,1263,32.584,-95.109,8051
+3950,Big Sandy,MT,Chouteau County,,city-us,596,48.179,-110.112,5995
+3949,Big Sandy,TN,Benton County,,city-us,483,36.235,-88.085,2003
+3951,Big Sandy,WV,McDowell County,,city-us,0,37.464,-81.698,329

@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25946,Hickory Hill,IL,,city-us,376,38.42,-88.64,340
-25947,Hickory Hill,KY,,city-us,118,38.29,-85.57,1912
-25948,Hickory Hill,MO,,city-us,0,38.40,-92.36,234
-25949,Hickory Hill,PA,,city-us,0,39.75,-75.92,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16745,Gifford,FL,Indian River County,,city-us,5511,27.672,-80.416,4289
+16742,Gifford,IL,Champaign County,,city-us,899,40.306,-88.021,2594
+16743,Gifford,SC,Hampton County,,city-us,268,32.860,-81.239,2129
+16744,Gifford,IA,Hardin County,,city-us,0,42.288,-93.091,865
+16746,Gifford,IN,Jasper County,,city-us,0,41.071,-87.052,312
+16747,Gifford,PA,McKean County,,city-us,0,41.858,-78.596,192
+16748,Gifford,ID,Nez Perce County,,city-us,0,46.443,-116.557,388
+16749,Gifford,WA,Stevens County,,city-us,0,48.306,-118.146,643

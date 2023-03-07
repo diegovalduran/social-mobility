@@ -1,10 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10341,Phoenix,AZ,,city-us,1624569,33.45,-112.07,77536
-10344,Phoenix,OR,,city-us,4258,42.28,-122.82,6639
-10343,Phoenix,NY,,city-us,2219,43.23,-76.30,3803
-10342,Phoenix,IL,,city-us,1666,41.61,-87.63,5673
-10345,Phoenix,GA,,city-us,0,33.37,-83.28,298
-10346,Phoenix,LA,,city-us,0,29.65,-89.94,419
-10347,Phoenix,MD,,city-us,0,39.52,-76.62,2931
-10348,Phoenix,MI,,city-us,0,47.39,-88.28,890
-10349,Phoenix,MS,,city-us,0,32.58,-90.56,205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4751,Booth,AL,Autauga County,,city-us,0,32.500,-86.572,405
+4752,Booth,TX,Fort Bend County,,city-us,0,29.530,-95.650,2224
+4753,Booth,WV,Monongalia County,,city-us,0,39.597,-80.015,319

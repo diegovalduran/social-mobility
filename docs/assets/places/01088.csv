@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11342,Butte Valley,CA,,city-us,869,39.67,-121.65,2277
-11343,Butte Valley,ND,,city-us,41,48.14,-99.50,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5396,Broadview,IL,Cook County,,city-us,7956,41.864,-87.853,3208
+5400,Broadview,MT,Yellowstone County,,city-us,139,46.098,-108.877,3311
+5395,Broadview,NM,Cibola County,,city-us,106,35.229,-107.872,354
+5399,Broadview,ND,Griggs County,,city-us,47,47.281,-98.012,222
+5397,Broadview,NM,Curry County,,city-us,0,34.819,-103.214,239
+5398,Broadview,TN,Franklin County,,city-us,0,35.186,-86.199,202

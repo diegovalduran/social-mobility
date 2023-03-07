@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36935,Blodgett,MO,,city-us,205,37.00,-89.53,3208
-36936,Blodgett,OR,,city-us,42,44.60,-123.52,996
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29052,Monmouth,OR,Polk County,,city-us,11023,44.848,-123.234,7313
+29054,Monmouth,IL,Warren County,,city-us,9799,40.931,-90.609,466
+29051,Monmouth,ME,Kennebec County,,city-us,4101,44.233,-70.015,5148
+29053,Monmouth,KS,Shawnee County,,city-us,3182,38.935,-95.570,1126
+29050,Monmouth,IA,Jackson County,,city-us,128,42.077,-90.880,2947
+29049,Monmouth,CA,Fresno County,,city-us,111,36.566,-119.740,2176
+29047,Monmouth,IN,Adams County,,city-us,0,40.868,-84.944,324
+29048,Monmouth,KS,Crawford County,,city-us,0,37.363,-94.937,1207

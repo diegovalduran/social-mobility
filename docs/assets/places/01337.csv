@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13152,Martell,WI,,city-us,1070,44.83,-92.40,2278
-13150,Martell,CA,,city-us,223,38.37,-120.80,2633
-13151,Martell,NE,,city-us,125,40.64,-96.76,572
-13153,Martel,OH,,city-us,0,40.67,-82.91,495
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6754,Candler,NC,Buncombe County,,city-us,0,35.536,-82.693,728
+6755,Candler,GA,Hall County,,city-us,0,34.210,-83.781,300
+6756,Candler,FL,Marion County,,city-us,0,29.071,-81.968,492

@@ -1,3 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25097,DeKalb,IL,,city-us,42912,41.94,-88.77,1016
-25098,DeKalb,SC,,city-us,0,34.38,-80.60,209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16006,Friendship,WI,Fond du Lac County,,city-us,2772,43.852,-88.468,1888
+16009,Friendship,ME,Knox County,,city-us,1158,43.953,-69.347,6654
+16005,Friendship,MI,Emmet County,,city-us,954,45.513,-85.040,1965
+16000,Friendship,NY,Allegany County,,city-us,841,42.206,-78.138,4127
+15999,Friendship,WI,Adams County,,city-us,651,43.971,-89.817,161
+16004,Friendship,TN,Crockett County,,city-us,617,35.909,-89.245,2068
+16013,Friendship,OH,Scioto County,,city-us,588,38.698,-83.094,570
+16001,Friendship,MD,Anne Arundel County,,city-us,390,38.737,-76.589,496
+16017,Friendship,MN,Yellow Medicine County,,city-us,174,44.759,-95.785,1848
+16007,Friendship,AR,Hot Spring County,,city-us,160,34.223,-93.003,2317
+16008,Friendship,OK,Jackson County,,city-us,22,34.696,-99.229,3761
+16002,Friendship,KY,Caldwell County,,city-us,0,37.057,-87.766,88
+16003,Friendship,NC,Cherokee County,,city-us,0,35.075,-84.192,245
+16010,Friendship,SC,Marion County,,city-us,0,34.017,-79.435,236
+16011,Friendship,IN,Ripley County,,city-us,0,38.970,-85.148,5287
+16012,Friendship,NJ,Salem County,,city-us,0,39.622,-75.183,250
+16014,Friendship,NC,Wake County,,city-us,0,35.699,-78.900,953
+16015,Friendship,VA,Washington County,,city-us,0,36.730,-81.741,96
+16016,Friendship,MD,Worcester County,,city-us,0,38.372,-75.211,159

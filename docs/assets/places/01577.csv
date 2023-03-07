@@ -1,37 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14808,Windsor,,Canada,city-international,276165,42.28,-83.00,142
-14774,Windsor,CO,,city-us,35788,40.48,-104.92,12819
-14775,Windsor,CT,,city-us,29376,41.87,-72.68,23779
-14773,Windsor,CA,,city-us,26039,38.55,-122.82,17833
-14798,Windsor,PA,,city-us,17853,39.95,-76.62,1111
-14803,Windsor,WI,,city-us,8925,43.22,-89.34,4902
-14783,Windsor,MI,,city-us,7122,42.64,-84.66,2134
-14802,Windsor,VT,,city-us,3572,43.48,-72.42,8014
-14788,Windsor,MO,,city-us,3372,38.51,-93.55,154
-14789,Windsor,NC,,city-us,3354,36.00,-76.95,5300
-14801,Windsor,VA,,city-us,2826,36.81,-76.74,4381
-14787,Windsor,MO,,city-us,2805,38.53,-93.52,4497
-14782,Windsor,ME,,city-us,2652,44.32,-69.57,3578
-14794,Windsor,OH,,city-us,2651,41.54,-80.95,203
-14797,Windsor,PA,,city-us,2502,40.57,-75.95,1111
-14795,Windsor,OH,,city-us,1989,38.55,-82.42,203
-14784,Winsor,MI,,city-us,1936,43.81,-83.29,2512
-14796,Windsor,OH,,city-us,1894,39.54,-81.77,203
-14778,Windsor,IL,,city-us,1370,39.47,-88.65,1779
-14793,Windsor,NY,,city-us,887,42.08,-75.64,6257
-14781,Windsor,MA,,city-us,821,42.52,-73.05,6349
-14777,Windsor,IL,,city-us,664,41.20,-90.44,2212
-14792,Windsor,NJ,,city-us,330,40.24,-74.58,2474
-14776,Windsor,FL,,city-us,273,27.79,-80.41,2381
-14791,Windsor,NH,,city-us,256,43.11,-72.01,2774
-14780,Windsor,KS,,city-us,153,37.35,-96.59,470
-14800,Winsor,SD,,city-us,149,44.41,-97.08,0
-14786,Winsor,MN,,city-us,121,47.81,-95.51,1774
-14799,Windsor,SC,,city-us,116,33.48,-81.51,2742
-14785,Windsor,MN,,city-us,74,45.70,-96.69,1734
-14779,Windsor,IN,,city-us,0,40.16,-85.21,361
-14790,Windsor,ND,,city-us,0,46.90,-99.04,236
-14804,Windsor,FL,,city-us,0,29.65,-82.19,1015
-14805,Windsor,GA,,city-us,0,33.88,-83.84,269
-14806,Windsor,IN,,city-us,0,40.15,-85.21,361
-14807,Windsor,KY,,city-us,0,37.13,-85.91,122
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7997,Chatham,,,Canada,city-international,101647,42.423,-82.132,14747
+7991,Chatham,NJ,Morris County,,city-us,9253,40.741,-74.384,8075
+7993,Chatham,IL,Sangamon County,,city-us,8403,39.661,-89.754,421
+7982,Chatham,MA,Barnstable County,,city-us,6703,41.622,-69.982,14339
+7986,Chatham,NY,Columbia County,,city-us,4103,42.426,-73.582,5460
+7996,Chatham,MN,Wright County,,city-us,1367,45.164,-93.960,1958
+7992,Chatham,VA,Pittsylvania County,,city-us,1191,36.826,-79.398,4352
+7998,Chatom,AL,Washington County,,city-us,1039,31.465,-88.254,3733
+7994,Chatham,PA,Tioga County,,city-us,604,41.865,-77.428,2285
+7987,Chatham,LA,Jackson Parish,,city-us,479,32.306,-92.450,2028
+7984,Chatham,NH,Carroll County,,city-us,349,44.127,-71.061,4552
+7981,Chatham,MI,Alger County,,city-us,204,46.348,-86.929,4034
+7983,Chatham,KY,Bracken County,,city-us,0,38.715,-84.019,246
+7985,Chatham,PA,Chester County,,city-us,0,39.853,-75.822,207
+7988,Chatham,OH,Licking County,,city-us,0,40.157,-82.454,280
+7989,Chatham,OH,Medina County,,city-us,0,41.099,-82.024,495
+7990,Chatham,FL,Monroe County,,city-us,0,25.714,-81.244,242
+7995,Chatham,MS,Washington County,,city-us,0,33.101,-91.098,303

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22448,Maurice,LA,,city-us,2273,30.11,-92.12,3913
-22447,Maurice,IA,,city-us,269,42.97,-96.18,3139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13491,Elm River,IL,Wayne County,,city-us,246,38.519,-88.309,337
+13489,Elm River,MI,Houghton County,,city-us,212,46.893,-88.844,2928
+13490,Elm River,ND,Traill County,,city-us,28,47.281,-96.891,0

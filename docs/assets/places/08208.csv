@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44934,Wau,,South Sudan,city-international,163442,7.70,27.98,7138
-44932,Waugh,AL,,city-us,0,32.37,-86.05,1027
-44933,Waugh,IN,,city-us,0,40.08,-86.31,258
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41524,Stockbridge,GA,Henry County,,city-us,29163,33.544,-84.234,12016
+41525,Stockbridge,MI,Ingham County,,city-us,3909,42.465,-84.201,3017
+41522,Stockbridge,MA,Berkshire County,,city-us,2003,42.302,-73.323,15215
+41526,Stockbridge,NY,Madison County,,city-us,1989,42.986,-75.591,3579
+41527,Stockbridge,VT,Windsor County,,city-us,726,43.751,-72.761,2757
+41523,Stockbridge,WI,Calumet County,,city-us,672,44.072,-88.299,2300

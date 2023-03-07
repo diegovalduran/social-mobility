@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14837,Yankee Hill,CA,,city-us,327,39.70,-121.52,2410
-14838,Yankee Hill,NE,,city-us,286,40.76,-96.73,302
-14839,Yankee Hill,CA,,city-us,0,38.04,-120.38,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8021,Cheek,OK,Carter County,,city-us,0,34.078,-97.282,116
+8022,Cheek,TX,Jefferson County,,city-us,0,29.984,-94.203,6193

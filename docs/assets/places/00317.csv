@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3798,McKenzie,TN,,city-us,5456,36.14,-88.51,2943
-3796,McKenzie,AL,,city-us,503,31.55,-86.73,2254
-3800,Mackenzie,MO,,city-us,134,38.58,-90.32,3027
-3797,McKenzie,ND,,city-us,83,46.82,-100.42,360
-3799,McKenzie,MD,,city-us,0,39.57,-78.83,745
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1632,Ash Hill,MO,Butler County,,city-us,0,36.776,-90.233,508
+1633,Ash Hill,CA,San Bernardino County,,city-us,0,34.707,-116.055,534
+1634,Ash Hill,NC,Surry County,,city-us,0,36.393,-80.573,352

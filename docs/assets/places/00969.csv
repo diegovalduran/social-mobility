@@ -1,9 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10475,Santa Rosa,,Philippines,city-international,414812,14.32,121.12,4636
-10470,Santa Rosa,CA,,city-us,176938,38.44,-122.71,37914
-10476,Santa Rosa,,Argentina,city-international,103860,-36.62,-64.29,2497
-10471,Santa Rosa,NM,,city-us,2846,34.94,-104.68,6761
-10472,Santa Rosa,TX,,city-us,2423,26.26,-97.83,2452
-10469,Santa Rosa,AZ,,city-us,743,32.32,-112.04,1797
-10473,Santa Rosa,TX,,city-us,324,26.35,-98.77,467
-10474,Santa Rosa,MO,,city-us,0,39.98,-94.21,438
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4851,Bowie,MD,Prince George's County,,city-us,57644,38.943,-76.730,12282
+4850,Bowie,TX,Montague County,,city-us,5534,33.559,-97.849,2352
+4848,Bowie,AZ,Cochise County,,city-us,406,32.326,-109.487,2643
+4849,Bowie,CO,Delta County,,city-us,0,38.921,-107.540,256

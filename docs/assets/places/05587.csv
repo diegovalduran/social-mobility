@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36690,Sweet,SD,,city-us,352,43.20,-97.59,0
-36689,Sweet,MN,,city-us,300,43.98,-96.38,2523
-36691,Sweet,ID,,city-us,0,43.97,-116.32,1009
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28792,Minden,LA,Webster Parish,,city-us,11769,32.615,-93.287,2958
+28788,Minden,NY,Montgomery County,,city-us,4215,42.931,-74.697,5294
+28785,Minden,NV,Douglas County,,city-us,3335,38.954,-119.766,6550
+28786,Minden,NE,Kearney County,,city-us,3111,40.499,-98.948,4517
+28784,Minden,MN,Benton County,,city-us,1513,45.613,-94.063,2665
+28789,Minden,IA,Pottawattamie County,,city-us,599,41.467,-95.543,2861
+28791,Minden,MI,Sanilac County,,city-us,554,43.640,-82.820,2976
+28787,Minden,MO,Lawrence County,,city-us,0,36.979,-93.916,340
+28790,Minden,TX,Rusk County,,city-us,0,32.014,-94.707,1720

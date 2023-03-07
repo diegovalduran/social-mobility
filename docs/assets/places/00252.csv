@@ -1,23 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2907,Hartford,CT,,city-us,120576,41.77,-72.68,57159
-2920,Hartford,WI,,city-us,15747,43.32,-88.38,16117
-2921,Hartford,WI,,city-us,3397,43.33,-88.36,16117
-2913,Hartford,MI,,city-us,3002,42.17,-86.18,1963
-2911,Hartford,KY,,city-us,2662,37.45,-86.91,8589
-2905,Hartford,AL,,city-us,2651,31.10,-85.70,3730
-2915,Hartford,NY,,city-us,2177,43.36,-73.41,3183
-2912,Hartford,ME,,city-us,1227,44.39,-70.33,3572
-2909,Hartford,IL,,city-us,1189,38.83,-90.10,4347
-2926,Hartford,TN,,city-us,814,35.82,-83.14,8634
-2908,Hartford,IA,,city-us,730,41.46,-93.40,3303
-2918,Hartford,SD,,city-us,694,43.64,-96.96,3349
-2914,Hartford,MN,,city-us,646,46.06,-94.82,1871
-2906,Hartford,AR,,city-us,501,35.02,-94.38,4348
-2916,Hartford,OH,,city-us,404,40.24,-82.69,3387
-2910,Hartford,KS,,city-us,356,38.31,-95.96,3454
-2917,Hartford,OH,,city-us,0,41.31,-80.57,581
-2919,Hartford,VT,,city-us,0,43.66,-72.34,2337
-2922,Hartford,GA,,city-us,0,32.29,-83.45,584
-2923,Hartford,IN,,city-us,0,38.99,-84.96,563
-2924,Hartford,MO,,city-us,0,40.47,-92.84,294
-2925,Hartford,NJ,,city-us,0,39.98,-74.89,701
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1310,Arago,MN,Hubbard County,,city-us,621,47.015,-95.103,1920
+1309,Arago,OR,Coos County,,city-us,0,43.102,-124.192,504

@@ -1,4 +1,32 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23184,Sperry,OK,,city-us,1123,36.30,-96.00,4657
-23183,Sperry,IA,,city-us,124,40.96,-91.16,976
-23185,Sperry,MO,,city-us,0,40.28,-92.49,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14037,Eureka,CA,Humboldt County,,city-us,26489,40.802,-124.164,43102
+14038,Eureka,MO,Jefferson County / St. Louis County,,city-us,12154,38.498,-90.645,7445
+14058,Eureka,IL,Woodford County,,city-us,5193,40.721,-89.273,5051
+14046,Eureka,MI,Montcalm County,,city-us,4417,43.160,-85.252,2045
+14050,Eureka,WI,Polk County,,city-us,1769,45.518,-92.609,2261
+14042,Eureka,MT,Lincoln County,,city-us,1433,48.880,-115.053,6091
+14033,Eureka,MN,Dakota County,,city-us,1375,44.582,-93.216,3475
+14044,Eureka,SD,McPherson County,,city-us,810,45.769,-99.620,4251
+14039,Eureka,UT,Juab County,,city-us,658,39.954,-112.120,4514
+14052,Eureka,KS,Saline County,,city-us,628,38.744,-97.419,119
+14055,Eureka,ND,Ward County,,city-us,377,48.328,-101.338,0
+14036,Eureka,KS,Greenwood County,,city-us,360,37.855,-96.322,545
+14057,Eureka,WI,Winnebago County,,city-us,348,44.004,-88.842,3882
+14034,Eureka,NV,Eureka County,,city-us,340,39.513,-115.961,5490
+14047,Eureka,TX,Navarro County,,city-us,321,32.013,-96.296,2418
+14032,Eureka,MI,Clinton County,,city-us,233,43.104,-84.514,2556
+14056,Eureka,NC,Wayne County,,city-us,209,35.543,-77.876,2880
+14030,Eureka,SD,Brookings County,,city-us,177,44.500,-96.827,4251
+14040,Eureka,KS,Kingman County,,city-us,90,37.681,-98.298,709
+14029,Eureka,KS,Barton County,,city-us,85,38.477,-98.867,369
+14028,Eureka,SD,Aurora County,,city-us,40,43.716,-98.635,4251
+14051,Eureka,KS,Rice County,,city-us,35,38.478,-98.313,5779
+14045,Eureka,KS,Mitchell County,,city-us,20,39.255,-97.980,5779
+14031,Eureka,PA,Bucks County,,city-us,0,40.244,-75.192,247
+14035,Eureka,TX,Franklin County,,city-us,0,33.349,-95.306,662
+14041,Eureka,IN,Lawrence County,,city-us,0,38.871,-86.563,274
+14043,Eureka,FL,Marion County,,city-us,0,29.372,-81.911,386
+14048,Eureka,MO,Perry County,,city-us,0,37.679,-89.737,244
+14049,Eureka,WV,Pleasants County,,city-us,0,39.373,-81.281,328
+14053,Eureka,IN,Spencer County,,city-us,0,37.881,-87.215,627
+14054,Eureka,WA,Walla Walla County,,city-us,0,46.303,-118.617,252

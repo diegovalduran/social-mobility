@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45513,Holder,FL,,city-us,0,28.97,-82.42,300
-45514,Holder,IL,,city-us,0,40.45,-88.80,1007
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42588,Taylorville,IL,Christian County,,city-us,11822,39.569,-89.317,1116
+42591,Taylorville,IN,Vigo County,,city-us,38,39.462,-87.424,1787
+42589,Taylorville,WV,Mingo County,,city-us,0,37.664,-82.156,118
+42590,Taylorville,AL,Tuscaloosa County,,city-us,0,33.143,-87.547,557

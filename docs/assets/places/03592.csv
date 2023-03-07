@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27763,Pilot Knob,MO,,city-us,658,37.62,-90.64,3679
-27762,Pilot Knob,IL,,city-us,513,38.25,-89.43,343
-27764,Pilot Knob,IN,,city-us,0,38.28,-86.35,322
-27765,Pilot Knob,TX,,city-us,0,30.16,-97.69,362
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18293,Guild,NH,Sullivan County,,city-us,0,43.377,-72.138,639
+18294,Guild,MO,Texas County,,city-us,0,37.070,-91.802,617

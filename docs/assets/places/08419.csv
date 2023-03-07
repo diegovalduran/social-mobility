@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45466,State Road,DE,,city-us,0,39.65,-75.62,711
-45467,State Road,IL,,city-us,0,40.08,-87.96,171
-45468,State Road,NC,,city-us,0,36.40,-80.89,848
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42509,Tara,MN,Swift County,,city-us,91,45.361,-95.800,169
+42510,Tara,MN,Traverse County,,city-us,71,45.609,-96.460,169
+42508,Tara,FL,Manatee County,,city-us,0,27.431,-82.472,719
+42667,Terra,UT,Tooele County,,city-us,0,40.321,-112.627,156

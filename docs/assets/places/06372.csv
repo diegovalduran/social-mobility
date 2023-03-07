@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39300,Brock,NE,,city-us,121,40.48,-95.96,3051
-39301,Brock,MO,,city-us,0,40.55,-92.15,248
-39302,Brock,OH,,city-us,0,40.27,-84.56,259
-39303,Brock,OK,,city-us,0,34.12,-97.24,116
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32507,Orrum,NC,Robeson County,,city-us,58,34.466,-79.009,2120
+32518,Orum,NE,Washington County,,city-us,0,41.546,-96.271,193

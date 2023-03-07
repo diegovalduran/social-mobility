@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40215,Denio,OR,,city-us,34,41.99,-118.63,3734
-40214,Denio,NV,,city-us,0,41.99,-118.63,3734
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33855,Pfeifer,KS,Ellis County,,city-us,0,38.708,-99.166,1314
+33856,Pfeiffer,OH,Hardin County,,city-us,0,40.622,-83.498,323
+33857,Pfeiffer,AR,Independence County,,city-us,0,35.824,-91.588,154

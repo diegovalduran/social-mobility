@@ -1,23 +1,23 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20780,Affton,MO,,city-us,18925,38.55,-90.33,2643
-20779,Afton,MN,,city-us,2949,44.90,-92.78,4255
-20787,Afton,WY,,city-us,2213,42.72,-110.93,4554
-20778,Afton,KS,,city-us,1557,37.61,-97.65,140
-20777,Afton,IL,,city-us,900,41.86,-88.76,1139
-20776,Afton,IA,,city-us,859,41.03,-94.20,3442
-20781,Afton,ND,,city-us,834,48.15,-101.33,75
-20782,Afton,NY,,city-us,794,42.23,-75.53,5113
-20783,Afton,OK,,city-us,732,36.69,-94.96,5429
-20791,Afton,MI,,city-us,596,45.32,-84.55,2154
-20786,Afton,VA,,city-us,344,38.02,-78.83,745
-20795,Afton,VA,,city-us,313,38.03,-78.84,745
-20784,Afton,SD,,city-us,214,44.41,-96.71,160
-20785,Afton,SD,,city-us,31,44.15,-97.91,78
-20788,Afton,CA,,city-us,0,39.42,-121.97,427
-20789,Afton,GA,,city-us,0,34.50,-84.25,88
-20790,Afton,LA,,city-us,0,32.24,-91.19,91
-20792,Afton,OH,,city-us,0,39.06,-84.10,347
-20793,Afton,TN,,city-us,0,36.19,-82.74,654
-20794,Afton,TX,,city-us,0,33.76,-100.82,826
-20796,Afton,WV,,city-us,0,39.54,-79.54,209
-20797,Afton,WI,,city-us,0,42.60,-89.07,382
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12290,Dublin,,,Ireland,city-international,553165,53.350,-6.260,57593
+12269,Dublin,CA,Alameda County,,city-us,71674,37.702,-121.936,19294
+12275,Dublin,OH,Delaware County / Franklin County / Union County,,city-us,49085,40.113,-83.146,19193
+12282,Dublin,GA,Laurens County,,city-us,16121,32.540,-82.904,12504
+12276,Dublin,TX,Erath County,,city-us,3433,32.085,-98.342,8448
+12286,Dublin,VA,Pulaski County,,city-us,2640,37.106,-80.685,3579
+12272,Dublin,PA,Bucks County,,city-us,2177,40.372,-75.202,6389
+12284,Dublin,OH,Mercer County,,city-us,2047,40.684,-84.624,1352
+12283,Dublin,MI,Manistee County,,city-us,1676,44.213,-85.954,4809
+12273,Dublin,NH,Cheshire County,,city-us,1561,42.889,-72.070,8615
+12277,Dublin,PA,Fulton County,,city-us,1195,40.060,-77.956,347
+12280,Dublin,PA,Huntingdon County,,city-us,1189,40.147,-77.846,347
+12288,Dublin,IN,Wayne County,,city-us,674,39.812,-85.209,3256
+12271,Dublin,NC,Bladen County,,city-us,265,34.657,-78.726,1757
+12287,Dublin,MN,Swift County,,city-us,172,45.189,-95.442,1775
+12274,Dublin,MS,Coahoma County,,city-us,24,34.072,-90.491,930
+12289,Dublin,ND,Williams County,,city-us,9,48.410,-103.468,0
+12270,Dublin,MO,Barton County,,city-us,0,0.000,0.000,1548
+12278,Dublin,KY,Graves County,,city-us,0,36.725,-88.802,132
+12279,Dublin,MD,Harford County,,city-us,0,39.651,-76.267,10651
+12281,Dublin,FL,Lake County,,city-us,0,28.789,-81.627,136
+12285,Dublin,AL,Montgomery County,,city-us,0,32.032,-86.159,316

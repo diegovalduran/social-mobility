@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43863,South Mountain,TX,,city-us,402,31.43,-97.68,2083
-43864,South Mountain,PA,,city-us,0,39.85,-77.49,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39725,Shorewood Hills,WI,Dane County,,city-us,2146,43.078,-89.446,6900
+39724,Shorewood Hills,MI,Berrien County,,city-us,1249,41.886,-86.618,4554
+39726,Shorewood Hills,AR,Garland County,,city-us,0,34.438,-92.896,312

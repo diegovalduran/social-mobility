@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1907,Dodge City,KS,,city-us,27690,37.75,-100.02,29459
-1906,Dodge City,AL,,city-us,562,34.04,-86.89,2040
+id,name,state,county,country,level,population,latitude,longitude,wiki
+980,Ames,IA,Story County,,city-us,66424,42.035,-93.620,23877
+970,Ames,OH,Athens County,,city-us,1205,39.404,-81.995,1311
+974,Ames,TX,Liberty County,,city-us,1009,30.054,-94.744,2245
+975,Ames,OK,Major County,,city-us,193,36.246,-98.185,4049
+978,Ames,NY,Montgomery County,,city-us,141,42.838,-74.602,2320
+971,Ames,KS,Cloud County,,city-us,33,39.569,-97.442,964
+972,Ames,NE,Dodge County,,city-us,0,41.452,-96.624,771
+973,Ames,WV,Fayette County,,city-us,0,38.086,-81.086,138
+976,Ames,IL,Monroe County,,city-us,0,38.147,-90.054,308
+977,Ames,IN,Montgomery County,,city-us,0,40.033,-86.887,262
+979,Ames,CO,San Miguel County,,city-us,0,37.865,-107.882,304

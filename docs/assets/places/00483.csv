@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5618,Acorn,AR,,city-us,376,34.64,-94.20,1081
-5619,Acorn,CA,,city-us,0,34.65,-120.49,96
-5620,Acorn,VA,,city-us,0,36.96,-78.98,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2506,Barnsley,,,United Kingdom,city-international,245199,53.555,-1.479,24584
+2505,Barnsley,KY,Hopkins County,,city-us,0,37.257,-87.490,326

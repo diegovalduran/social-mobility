@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45909,Bakerville,IL,,city-us,0,38.26,-88.90,89
-45910,Bakerville,IL,,city-us,0,40.06,-89.20,127
-45911,Bakerville,MO,,city-us,0,36.23,-89.92,359
-45912,Bakerville,TN,,city-us,0,35.94,-87.87,501
-45913,Bakerville,WI,,city-us,0,44.63,-90.22,347
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43157,Toulon,,,France,city-international,176198,43.126,5.931,23655
+43156,Toulon,IL,Stark County,,city-us,2145,41.105,-89.806,338
+43155,Toulon,KS,Ellis County,,city-us,0,38.852,-99.241,1045

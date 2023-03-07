@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40264,Valmy,NV,,city-us,32,40.79,-117.13,1243
-40265,Valmy,WI,,city-us,0,44.91,-87.26,353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33929,Picacho,AZ,Pinal County,,city-us,315,32.716,-111.495,991
+33927,Picacho,CA,Imperial County,,city-us,0,33.023,-114.611,3949
+33928,Picacho,NM,Lincoln County,,city-us,0,33.352,-105.145,240

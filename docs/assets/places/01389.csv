@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13467,North Shore,VA,,city-us,3188,37.08,-79.66,2682
-13466,North Shore,CA,,city-us,2982,33.51,-115.91,4298
-13468,North Shore,WI,,city-us,832,42.91,-88.92,2638
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22529,Karns,TN,Knox County,,city-us,3536,35.982,-84.114,2870
+6989,Carnes,MS,Forrest County,,city-us,0,30.994,-89.260,1066
+6990,Carnes,IA,Sioux County,,city-us,0,42.927,-96.057,394
+22528,Karns,PA,Allegheny County,,city-us,0,40.630,-79.704,944

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47272,Pyletown,MO,,city-us,0,36.72,-90.02,447
-47273,Pyletown,VA,,city-us,0,39.11,-78.04,134
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46142,West Valley,NY,Cattaraugus County,,city-us,613,42.403,-78.610,3028
+46143,West Valley,MN,Marshall County,,city-us,155,48.413,-96.453,1765
+46141,West Valley,PA,Armstrong County,,city-us,0,40.836,-79.423,94

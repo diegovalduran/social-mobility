@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19258,Cochran,GA,,city-us,5070,32.39,-83.35,7096
-19259,Cochrane,WI,,city-us,421,44.23,-91.84,3841
-19260,Cochrane,AL,,city-us,0,33.37,-88.12,472
-19261,Cochran,TN,,city-us,0,35.42,-86.80,240
-19262,Cochran,TX,,city-us,0,30.03,-96.13,1372
-19263,Cochran,VA,,city-us,0,36.84,-77.91,661
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11262,Decker,MI,Sanilac County,,city-us,981,43.466,-83.055,1944
+11261,Decker,IL,Richland County,,city-us,414,38.635,-88.214,471
+11259,Decker,IN,Knox County,,city-us,200,38.519,-87.523,3241
+11258,Decker,MT,Big Horn County,,city-us,76,45.012,-106.863,649
+11260,Decker,WI,Ozaukee County,,city-us,0,43.471,-87.862,172

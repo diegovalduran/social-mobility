@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46669,Endee,KY,,city-us,0,37.43,-83.75,116
-46670,Endee,NM,,city-us,0,35.14,-103.11,491
-46671,Endy,NC,,city-us,0,35.30,-80.28,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44675,Virgil,NY,Cortland County,,city-us,485,42.511,-76.194,5235
+44680,Virgil,MO,Vernon County,,city-us,474,37.791,-94.120,157
+44678,Virgil,IL,Kane County,,city-us,287,41.956,-88.537,2102
+44676,Virgil,KS,Greenwood County,,city-us,48,37.981,-96.010,3461
+44674,Virgil,SD,Beadle County,,city-us,26,44.291,-98.424,2683
+44677,Virgil,SD,Jones County,,city-us,7,44.046,-100.519,2683
+44679,Virgil,WV,Roane County,,city-us,0,38.614,-81.341,87

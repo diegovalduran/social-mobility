@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31676,Rock,WI,,city-us,2984,42.63,-89.08,2102
-31677,Rock,WI,,city-us,795,44.55,-90.25,2998
-31672,Rock,MI,,city-us,181,46.07,-87.17,1319
-31673,Rock,MN,,city-us,163,44.06,-96.12,2153
-31671,Rock,KS,,city-us,141,39.78,-96.40,72
-31670,Rock,KS,,city-us,94,37.44,-97.01,1631
-31674,Rock,ND,,city-us,29,47.90,-99.08,2040
-31675,Rock,ND,,city-us,21,46.33,-101.74,0
-31678,Rock,WV,,city-us,0,37.37,-81.22,301
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22415,Julesburg,CO,Sedgwick County,,city-us,1266,40.988,-102.264,5085
+22414,Julesburg,MO,Schuyler County,,city-us,0,40.462,-92.606,400

@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28437,Spring,TX,,city-us,62569,30.08,-95.42,21160
-28431,Spring,PA,,city-us,28458,40.31,-76.03,319
-28432,Spring,PA,,city-us,8043,40.89,-77.73,319
-28434,Spring,PA,,city-us,2298,40.34,-77.25,319
-28435,Spring,PA,,city-us,1625,40.77,-77.24,319
-28430,Spring,KS,,city-us,1489,37.69,-96.88,497
-28433,Spring,PA,,city-us,1402,41.81,-80.34,319
-28429,Spring,IL,,city-us,865,42.20,-88.76,2541
-28436,Spring,SD,,city-us,27,44.94,-98.04,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18858,Hardyville,KY,Hart County,,city-us,155,37.254,-85.786,529
+18859,Hardyville,VA,Middlesex County,,city-us,0,37.557,-76.372,249

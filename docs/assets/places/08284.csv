@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45134,Kingtown,NJ,,city-us,3195,40.57,-74.93,11224
-45133,Kingtown,AR,,city-us,0,34.50,-90.89,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41850,Sugar Valley,GA,Gordon County,,city-us,0,34.558,-85.012,1032
+41851,Sugar Valley,WV,Pleasants County,,city-us,0,39.419,-81.087,234
+41852,Sugar Valley,OH,Preble County,,city-us,0,39.692,-84.713,193
+41853,Sugar Valley,WV,Preston County,,city-us,0,39.611,-79.640,94

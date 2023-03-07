@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15603,Lincoln Park,MI,,city-us,39643,42.25,-83.18,7683
-15604,Lincoln Park,NJ,,city-us,10900,40.92,-74.30,12714
-15601,Lincoln Park,CO,,city-us,3724,38.43,-105.22,3309
-15605,Lincoln Park,NY,,city-us,2371,41.95,-73.99,1836
-15606,Lincoln Park,PA,,city-us,1669,40.31,-75.99,267
-15602,Lincoln Park,GA,,city-us,670,32.87,-84.33,1841
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8550,Clarksdale,MS,Coahoma County,,city-us,14410,34.200,-90.571,21197
+8551,Clarksdale,MO,DeKalb County,,city-us,251,39.814,-94.551,3310
+8548,Clarksdale,IN,Brown County,,city-us,0,39.200,-86.126,216
+8549,Clarksdale,IL,Christian County,,city-us,0,39.489,-89.368,163

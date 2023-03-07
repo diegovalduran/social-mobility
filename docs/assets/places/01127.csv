@@ -1,25 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11618,Colfax,WA,,city-us,2766,46.88,-117.36,12737
-11601,Colfax,IA,,city-us,2252,41.68,-93.25,5492
-11600,Colfax,CA,,city-us,2018,39.10,-120.95,6861
-11610,Colfax,MI,,city-us,1885,43.68,-85.38,334
-11609,Colfax,MI,,city-us,1760,43.81,-83.07,334
-11607,Colfax,LA,,city-us,1419,31.52,-92.71,7508
-11619,Colfax,WI,,city-us,1234,44.99,-91.71,3725
-11603,Colfax,IL,,city-us,979,40.57,-88.62,7395
-11612,Colfax,MI,,city-us,907,44.40,-85.53,334
-11615,Colfax,MO,,city-us,708,39.79,-94.38,175
-11604,Colfax,IN,,city-us,698,40.20,-86.67,4018
-11608,Colfax,MI,,city-us,686,44.55,-85.86,334
-11614,Colfax,MO,,city-us,638,39.82,-94.16,173
-11613,Colfax,MN,,city-us,613,45.37,-95.08,2015
-11616,Colfax,MO,,city-us,579,40.51,-93.95,0
-11611,Colfax,MI,,city-us,462,43.76,-86.09,1997
-11606,Colfax,KS,,city-us,393,37.69,-95.60,230
-11617,Colfax,ND,,city-us,267,46.50,-96.93,2900
-11602,Colfax,IL,,city-us,232,40.02,-88.40,2181
-11605,Colfax,KS,,city-us,33,39.44,-97.42,230
-11620,Colfax,NC,,city-us,0,36.11,-80.01,1979
-11621,Colfax,OH,,city-us,0,39.74,-82.50,337
-11622,Colfax,TX,,city-us,0,32.51,-95.73,2074
-11623,Colfax,WV,,city-us,0,39.43,-80.13,178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5619,Browns Creek,KS,Jewell County,,city-us,45,39.599,-98.210,733
+5620,Browns Creek,MN,Red Lake County,,city-us,43,47.949,-96.288,1658

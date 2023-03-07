@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44381,Glen Haven,WI,,city-us,56,42.83,-91.07,1730
-44382,Glen Haven,CO,,city-us,0,40.45,-105.45,2091
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40465,Southport,NY,Chemung County,,city-us,9515,42.050,-76.877,3592
+40464,Southport,NC,Brunswick County,,city-us,4124,33.922,-78.020,7480
+40468,Southport,IN,Marion County,,city-us,2092,39.665,-86.128,4200
+40466,Southport,CT,Greater Bridgeport Planning Region,,city-us,1719,41.135,-73.287,11218
+40467,Southport,ME,Lincoln County,,city-us,632,43.813,-69.663,5121
+40463,Southport,FL,Bay County,,city-us,0,30.289,-85.641,798
+40469,Southport,IN,Owen County,,city-us,0,39.277,-86.762,159

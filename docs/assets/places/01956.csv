@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17582,Bascom,OH,,city-us,155,41.13,-83.29,448
-17581,Bascom,FL,,city-us,86,30.93,-85.12,2228
-17583,Bascom,MT,,city-us,0,46.63,-107.75,82
-17584,Bascom,TX,,city-us,0,32.32,-95.22,299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9974,Coro,,,Venezuela,city-international,284266,11.395,-69.682,19642
+23267,Koro,WI,Winnebago County,,city-us,0,43.968,-88.844,351

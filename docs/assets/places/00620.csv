@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6896,Gentry,AR,,city-us,4000,36.27,-94.48,7952
-6897,Gentry,MO,,city-us,53,40.33,-94.42,2928
-6898,Gentry,TX,,city-us,0,35.30,-101.99,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3123,Belden,NE,Cedar County,,city-us,111,42.413,-97.207,2964
+3124,Belden,OH,Lorain County,,city-us,0,41.238,-82.023,503
+3125,Belden,IL,McHenry County,,city-us,0,42.474,-88.347,83
+3126,Belden,CA,Plumas County,,city-us,0,40.006,-121.249,3596

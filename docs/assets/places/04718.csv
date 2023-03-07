@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33230,Baden,PA,,city-us,3864,40.64,-80.23,3630
-33228,Baden,MD,,city-us,1832,38.66,-76.78,1300
-33229,Baden,ND,,city-us,35,48.59,-102.05,0
-33231,Baden,WV,,city-us,0,38.80,-81.89,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24095,Laurel Hill,VA,Fairfax County,,city-us,8415,38.717,-77.237,1019
+24098,Laurel Hill,NC,Scotland County,,city-us,1125,34.809,-79.548,1340
+24097,Laurel Hill,FL,Okaloosa County,,city-us,586,30.966,-86.460,3892
+24096,Laurel Hill,NC,Lincoln County,,city-us,0,35.554,-81.503,214

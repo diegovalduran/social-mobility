@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46013,Lochiel,IN,,city-us,0,40.66,-87.27,359
-46014,Lochiel,PA,,city-us,0,40.95,-76.95,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43323,Triumph,PA,Warren County,,city-us,274,41.677,-79.453,2749
+43321,Triumph,LA,Plaquemines Parish,,city-us,268,29.339,-89.477,1146
+43319,Triumph,NE,Custer County,,city-us,107,41.371,-99.997,246
+43322,Triumph,ND,Ramsey County,,city-us,34,48.333,-98.498,0
+43318,Triumph,ID,Blaine County,,city-us,0,43.645,-114.254,2815
+43320,Triumph,IL,LaSalle County,,city-us,0,41.499,-89.022,604

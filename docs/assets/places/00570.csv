@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6478,Daisy,KY,,city-us,1758,37.11,-83.09,315
-6476,Daisy,GA,,city-us,157,32.15,-81.83,2733
-6475,Daisy,AR,,city-us,84,34.24,-93.74,1924
-6477,Dazey,ND,,city-us,76,47.19,-98.20,3336
-6479,Daisy,MD,,city-us,28,39.29,-77.07,2049
-6480,Daisy,MO,,city-us,0,37.41,-89.46,356
-6481,Daisy,OK,,city-us,0,34.54,-95.74,883
-6482,Daisy,VA,,city-us,0,37.76,-76.92,89
-6483,Daisy,WV,,city-us,0,38.01,-82.05,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2879,Beard,IN,Clinton County,,city-us,0,40.374,-86.451,213
+2880,Beard,WV,Pocahontas County,,city-us,0,38.077,-80.227,244

@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20573,Unadilla,NY,,city-us,4143,42.37,-75.33,5292
-20571,Unadilla,MI,,city-us,3363,42.47,-84.07,5767
-20570,Unadilla,GA,,city-us,2847,32.26,-83.74,2737
-20572,Unadilla,NE,,city-us,295,40.68,-96.27,3234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12141,Downing,MO,Schuyler County,,city-us,301,40.488,-92.369,5647
+12140,Downing,WI,Dunn County,,city-us,230,45.046,-92.132,3076
+12139,Downing,TX,Comanche County,,city-us,0,32.024,-98.551,1335

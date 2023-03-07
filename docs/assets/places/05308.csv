@@ -1,16 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35713,Dunbar,WV,,city-us,7330,38.36,-81.74,5206
-35709,Dunbar,PA,,city-us,999,39.98,-79.61,2273
-35710,Dunbar,SC,,city-us,615,33.55,-79.36,508
-35706,Dunbar,MN,,city-us,252,43.81,-93.71,1847
-35708,Dunbar,NE,,city-us,164,40.67,-96.03,5183
-35712,Dunbar,WI,,city-us,95,45.65,-88.17,2907
-35707,Dunbar,ND,,city-us,89,46.16,-97.56,0
-35711,Dunbar,VA,,city-us,79,36.97,-82.75,201
-35717,Dunbar,MN,,city-us,20,47.66,-94.22,816
-35714,Dunbar,GA,,city-us,0,32.66,-83.70,1248
-35715,Dunbar,IA,,city-us,0,41.94,-92.78,752
-35716,Dunbar,KY,,city-us,0,37.19,-86.76,438
-35718,Dunbar,OH,,city-us,0,39.36,-81.74,279
-35719,Dunbar,SC,,city-us,0,34.53,-79.56,193
-35720,Dunbar,TN,,city-us,0,35.46,-88.14,210
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27226,Mather,CA,Sacramento County,,city-us,4707,38.548,-121.284,2476
+27224,Mather,PA,Greene County,,city-us,509,39.935,-80.074,355
+27225,Mather,WI,Juneau County,,city-us,0,44.143,-90.309,651
+27227,Mather,CA,Tuolumne County,,city-us,0,37.882,-119.856,230

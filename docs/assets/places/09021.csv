@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46955,Bradleyville,MI,,city-us,690,43.60,-83.63,3826
-46956,Bradleyville,MO,,city-us,80,36.78,-92.91,554
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45420,Watauga,TX,Tarrant County,,city-us,23313,32.858,-97.255,5173
+45417,Watauga,TN,Carter County / Washington County,,city-us,360,36.368,-82.292,3926
+45419,Watauga,SD,Corson County,,city-us,29,45.920,-101.526,246
+45418,Watauga,KY,Clinton County,,city-us,0,36.817,-85.065,115

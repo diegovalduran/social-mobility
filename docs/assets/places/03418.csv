@@ -1,13 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26731,Long Lake,MI,,city-us,9956,44.72,-85.75,7432
-26740,Long Lake,MI,,city-us,3799,44.41,-83.78,2468
-26730,Long Lake,IL,,city-us,2941,42.37,-88.13,2840
-26733,Long Lake,MN,,city-us,1705,44.99,-93.57,6699
-26732,Long Lake,MN,,city-us,1134,46.28,-94.13,178
-26736,Long Lake,NY,,city-us,791,43.97,-74.63,9857
-26739,Long Lake,WI,,city-us,637,45.69,-91.72,1859
-26734,Long Lake,MN,,city-us,336,43.91,-94.65,178
-26735,Long Lake,ND,,city-us,88,46.67,-100.27,5119
-26738,Long Lake,WI,,city-us,54,45.84,-88.67,2237
-26737,Long Lake,SD,,city-us,24,45.86,-99.21,2800
-26741,Long Lake,TX,,city-us,0,31.65,-95.78,1587
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17291,Gorman,NC,Durham County,,city-us,1051,36.037,-78.823,2400
+17292,Gorman,TX,Eastland County,,city-us,990,32.214,-98.671,2529
+17295,Gorman,MN,Otter Tail County,,city-us,506,46.679,-95.596,1920
+17293,Gorman,MD,Garrett County,,city-us,189,39.295,-79.346,489
+17294,Gorman,CA,Los Angeles County,,city-us,0,34.796,-118.852,13546
+17296,Gorman,SD,Potter County,,city-us,0,44.927,-100.075,1367
+17297,Gorman,OR,Sherman County,,city-us,0,45.819,-118.501,236

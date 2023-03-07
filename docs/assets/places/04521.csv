@@ -1,3 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32473,Tolu,KY,,city-us,81,37.43,-88.25,2510
-32474,Tolu,AR,,city-us,0,35.81,-94.50,429
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23221,Knox,IL,Knox County,,city-us,4849,40.929,-90.265,888
+23219,Knox,OH,Jefferson County,,city-us,4300,40.508,-80.675,235
+23215,Knox,OH,Columbiana County,,city-us,3997,40.855,-81.026,235
+23225,Knox,IN,Starke County,,city-us,3585,41.296,-86.625,5235
+23211,Knox,NY,Albany County,,city-us,2616,42.685,-74.106,3261
+23218,Knox,OH,Holmes County,,city-us,1164,40.556,-82.139,235
+23220,Knox,PA,Jefferson County,,city-us,998,41.100,-79.038,223
+23213,Knox,PA,Clarion County,,city-us,995,41.314,-79.379,223
+23227,Knox,ME,Waldo County,,city-us,813,44.518,-69.217,3703
+23214,Knox,PA,Clearfield County,,city-us,594,40.888,-78.492,223
+23216,Knox,OH,Guernsey County,,city-us,528,40.113,-81.662,235
+23224,Knox,WI,Price County,,city-us,315,45.546,-90.110,2033
+23212,Knox,ND,Benson County,,city-us,28,48.328,-99.644,128
+23217,Knox,IN,Henry County,,city-us,0,39.823,-85.542,124
+23222,Knox,OH,Knox County,,city-us,0,40.458,-82.529,170
+23223,Knox,MO,Polk County,,city-us,0,37.474,-93.611,631
+23226,Knox,OH,Vinton County,,city-us,0,39.266,-82.286,280

@@ -1,7 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39050,Plain,OH,,city-us,53419,40.87,-81.37,225
-39049,Plain,OH,,city-us,12734,40.09,-82.80,225
-39051,Plain,OH,,city-us,3085,40.78,-82.05,225
-39052,Plain,OH,,city-us,1632,41.38,-83.72,225
-39053,Plain,WI,,city-us,744,43.28,-90.04,7957
-39048,Plain,ND,,city-us,23,48.51,-101.64,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32172,Olean,NY,Cattaraugus County,,city-us,1873,42.061,-78.424,17011
+32174,Olean,MO,Miller County,,city-us,116,38.411,-92.529,4170
+32176,Olean,SD,Spink County,,city-us,40,45.110,-98.043,0
+32173,Olean,NE,Colfax County,,city-us,0,41.736,-96.945,191
+32175,Olean,IN,Ripley County,,city-us,0,38.990,-85.219,576
+32177,Olean,NE,Valley County,,city-us,0,41.561,-98.808,131

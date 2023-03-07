@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43591,Herne,,Germany,city-international,156374,51.54,7.22,10241
-43590,Hearne,TX,,city-us,4531,30.88,-96.59,7151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39175,Sentinel,OK,Washita County,,city-us,765,35.158,-99.175,4701
+39173,Sentinel,ND,Golden Valley County,,city-us,63,46.886,-103.719,0
+39174,Sentinel,MO,Polk County,,city-us,0,37.794,-93.296,495

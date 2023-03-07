@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32345,Madisonville,KY,,city-us,19420,37.33,-87.50,8949
-32347,Madisonville,TN,,city-us,5121,35.52,-84.36,3942
-32348,Madisonville,TX,,city-us,4565,30.95,-95.91,2926
-32346,Madisonville,LA,,city-us,871,30.40,-90.16,6152
-32349,Madisonville,MO,,city-us,0,39.46,-91.50,397
-32350,Madisonville,PA,,city-us,0,41.36,-75.48,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23080,Kinsman,OH,Trumbull County,,city-us,574,41.446,-80.588,1338
+23079,Kinsman,IL,Grundy County,,city-us,90,41.190,-88.570,2092

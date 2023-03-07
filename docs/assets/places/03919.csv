@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29659,Hartford City,IN,,city-us,6067,40.45,-85.37,16625
-29660,Hartford City,WV,,city-us,504,39.00,-81.99,3653
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20038,Hill,MI,Ogemaw County,,city-us,1249,44.381,-83.924,2019
+20037,Hill,NH,Merrimack County,,city-us,1031,43.528,-71.769,3151
+20036,Hill,NE,Knox County,,city-us,757,42.767,-97.813,292
+20039,Hill,WI,Price County,,city-us,370,45.413,-90.237,1923
+20033,Hill,MO,Carroll County,,city-us,216,39.564,-93.598,153
+20034,Hill,ND,Cass County,,city-us,53,46.847,-97.619,0
+20035,Hill,MN,Kittson County,,city-us,24,48.855,-97.117,1695

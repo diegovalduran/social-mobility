@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12965,Lincoln Village,OH,,city-us,9720,39.95,-83.13,4880
-12964,Lincoln Village,CA,,city-us,3503,38.01,-121.33,4100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6582,Camargo,KY,Montgomery County,,city-us,1024,37.994,-83.888,2189
+6581,Camargo,IL,Douglas County,,city-us,452,39.800,-88.164,2197
+6580,Camargo,OK,Dewey County,,city-us,185,36.017,-99.289,2799
+9496,Comargo,KY,McCreary County,,city-us,0,36.678,-84.541,85

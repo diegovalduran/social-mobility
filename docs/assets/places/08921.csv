@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46715,Finchville,KY,,city-us,0,38.15,-85.31,4754
-46716,Finchville,NE,,city-us,0,41.37,-100.08,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44752,Waco,TX,McLennan County,,city-us,139594,31.549,-97.147,37534
+44753,Waco,KS,Sedgwick County,,city-us,636,37.600,-97.435,139
+44749,Waco,GA,Haralson County,,city-us,539,33.703,-85.183,2385
+44746,Waco,NC,Cleveland County,,city-us,314,35.362,-81.429,1951
+44755,Waco,NE,York County,,city-us,291,40.897,-97.463,3312
+44750,Waco,MO,Jasper County,,city-us,73,37.247,-94.599,2993
+44747,Waco,IN,Daviess County,,city-us,0,38.535,-87.040,228
+44748,Waco,TN,Giles County,,city-us,0,35.376,-87.032,169
+44751,Waco,KY,Madison County,,city-us,0,37.742,-84.144,352
+44754,Waco,OH,Stark County,,city-us,0,40.779,-81.347,452

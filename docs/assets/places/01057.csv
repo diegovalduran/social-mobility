@@ -1,17 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11055,Bell,CA,,city-us,32831,33.98,-118.19,18558
-11065,Bell,PA,,city-us,2071,40.51,-79.51,264
-11064,Bell,PA,,city-us,1995,40.95,-78.93,264
-11059,Belle,MO,,city-us,1384,38.29,-91.72,4084
-11068,Belle,WV,,city-us,1146,38.23,-81.54,3656
-11063,Bell,PA,,city-us,681,40.92,-78.75,264
-11056,Bell,FL,,city-us,525,29.76,-82.86,2793
-11067,Bell,WI,,city-us,360,46.78,-91.12,1793
-11062,Bell,OK,,city-us,328,35.72,-94.58,3276
-11066,Belle,SD,,city-us,137,45.55,-98.91,0
-11057,Bell,KS,,city-us,71,37.78,-98.29,177
-11060,Bell,ND,,city-us,41,47.20,-97.13,0
-11061,Belle,NE,,city-us,41,42.66,-98.84,242
-11058,Bell,KS,,city-us,9,38.20,-98.40,177
-11069,Bell,IL,,city-us,0,40.19,-89.39,155
-11070,Bel,LA,,city-us,0,30.52,-93.08,77
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5218,Bridgehampton,NY,Suffolk County,,city-us,1447,40.938,-72.301,3939
+5217,Bridgehampton,MI,Sanilac County,,city-us,741,43.474,-82.684,2952

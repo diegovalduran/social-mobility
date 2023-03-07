@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33956,Ash,MI,,city-us,7898,42.06,-83.37,3933
-33958,Ash,SD,,city-us,23,44.22,-102.19,0
-33957,Ash,SD,,city-us,21,45.01,-97.91,0
-33959,Ash,MO,,city-us,0,39.52,-92.29,277
-33960,Ash,NC,,city-us,0,34.07,-78.53,254
-33961,Ash,OR,,city-us,0,43.55,-123.82,831
-33962,Ash,TX,,city-us,0,31.20,-95.69,312
-33963,Ash,WV,,city-us,0,38.83,-81.97,83
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25239,Little Valley,NY,Cattaraugus County,,city-us,1663,42.224,-78.759,8558
+25241,Little Valley,KS,McPherson County,,city-us,412,38.214,-97.867,136
+25240,Little Valley,CA,Lassen County,,city-us,84,40.894,-121.177,238

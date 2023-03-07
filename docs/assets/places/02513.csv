@@ -1,10 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21128,Bristow,VA,,city-us,29346,38.72,-77.54,4152
-21122,Bristow,OK,,city-us,4260,35.83,-96.39,9262
-21120,Bristow,IA,,city-us,144,42.77,-92.91,3025
-21121,Bristow,NE,,city-us,69,42.84,-98.58,3174
-21123,Bristow,IN,,city-us,0,38.14,-86.72,289
-21124,Bristow,KY,,city-us,0,37.02,-86.36,76
-21125,Bristow,MS,,city-us,0,34.01,-88.36,167
-21126,Bristow,MO,,city-us,0,37.80,-94.26,289
-21127,Bristow,SC,,city-us,0,34.42,-79.62,197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12544,Dwyer,NM,Grant County,,city-us,0,32.628,-107.867,662
+12545,Dwyer,WY,Platte County,,city-us,0,42.242,-104.956,80
+12546,Dwyer,MS,Sunflower County,,city-us,0,33.564,-90.529,211

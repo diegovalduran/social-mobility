@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44951,Sumterville,AL,,city-us,0,32.71,-88.24,529
-44952,Sumterville,FL,,city-us,0,28.75,-82.06,2096
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41570,Stone,WI,Dane County,,city-us,0,42.875,-89.310,109
+41571,Stone,MT,Granite County,,city-us,0,46.505,-113.226,273
+41572,Stone,ID,Oneida County,,city-us,0,42.016,-112.695,150
+41573,Stone,KY,Pike County,,city-us,0,37.586,-82.271,702
+41574,Stone,IN,Randolph County,,city-us,0,40.234,-85.004,243

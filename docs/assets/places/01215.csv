@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12326,Gonzales,LA,,city-us,12574,30.24,-90.92,8417
-12325,Gonzales,CA,,city-us,8576,36.51,-121.44,8293
-12327,Gonzales,TX,,city-us,7098,29.50,-97.45,9621
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6109,Burg,ND,Divide County,,city-us,24,48.779,-103.511,0
+6108,Burg,MO,Bollinger County,,city-us,0,37.368,-89.803,470

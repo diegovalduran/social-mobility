@@ -1,28 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18727,Trenton,NJ,,city-us,90457,40.22,-74.74,41473
-18722,Trenton,MI,,city-us,18295,42.14,-83.18,19939
-18729,Trenton,OH,,city-us,13305,39.48,-84.46,4506
-18723,Trenton,MO,,city-us,5970,40.07,-93.58,191
-18738,Trenton,WI,,city-us,4537,43.40,-88.09,4496
-18733,Trenton,TN,,city-us,4263,35.98,-88.94,5465
-18728,Trenton,NY,,city-us,4244,43.26,-75.21,3992
-18718,Trenton,IL,,city-us,2649,38.61,-89.68,4913
-18730,Trenton,OH,,city-us,2372,40.24,-82.80,1451
-18716,Trenton,GA,,city-us,2201,34.87,-85.51,5266
-18715,Trenton,FL,,city-us,2070,29.61,-82.82,5764
-18737,Trenton,WI,,city-us,1737,44.60,-92.56,2208
-18721,Trenton,ME,,city-us,1622,44.47,-68.39,3385
-18736,Trenton,WI,,city-us,1216,43.57,-88.84,1741
-18734,Trenton,TX,,city-us,773,33.43,-96.34,5365
-18735,Trenton,UT,,city-us,516,41.92,-111.94,2354
-18726,Trenton,NE,,city-us,492,40.18,-101.01,3757
-18725,Trenton,ND,,city-us,488,48.07,-103.84,727
-18720,Trenton,KY,,city-us,328,36.72,-87.26,1077
-18719,Trenton,KS,,city-us,244,37.85,-99.52,298
-18724,Trenton,NC,,city-us,234,35.07,-77.35,2317
-18731,Trenton,SC,,city-us,202,33.74,-81.84,2946
-18732,Trenton,SD,,city-us,172,44.23,-96.70,0
-18717,Trenton,IA,,city-us,65,41.06,-91.64,308
-18739,Trenton,AL,,city-us,0,34.74,-86.25,285
-18740,Trenton,IN,,city-us,0,40.45,-85.24,3935
-18741,Trenton,KS,,city-us,0,38.89,-97.65,408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11632,Derry,NH,Rockingham County,,city-us,34354,42.888,-71.282,12487
+11626,Derry,PA,Dauphin County,,city-us,24846,40.268,-76.653,346
+11627,Derry,PA,Mifflin County,,city-us,7201,40.636,-77.534,346
+11634,Derry,PA,Westmoreland County,,city-us,2615,40.334,-79.300,6585
+11628,Derry,PA,Montour County,,city-us,1082,41.052,-76.641,346
+11630,Derry,IL,Pike County,,city-us,212,39.624,-90.973,266
+10835,Dairy,OR,Klamath County,,city-us,0,42.235,-121.520,1573
+11629,Derry,LA,Natchitoches Parish,,city-us,0,31.534,-92.948,197
+11631,Derry,OR,Polk County,,city-us,0,44.930,-123.213,639
+11633,Derry,NM,Sierra County,,city-us,0,32.788,-107.282,547

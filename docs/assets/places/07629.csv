@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43248,Worthing,,United Kingdom,city-international,109120,50.81,-0.37,43521
-43247,Worthing,SD,,city-us,928,43.33,-96.76,2827
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38689,Santa Rosa,,,Philippines,city-international,414812,14.317,121.117,4636
+38686,Santa Rosa,CA,Sonoma County,,city-us,176938,38.440,-122.714,37914
+38688,Santa Rosa,,,Argentina,city-international,103860,-36.620,-64.291,2497
+38684,Santa Rosa,NM,Guadalupe County,,city-us,2846,34.939,-104.682,6761
+38682,Santa Rosa,TX,Cameron County,,city-us,2423,26.257,-97.825,2452
+38685,Santa Rosa,AZ,Pima County,,city-us,743,32.324,-112.041,1797
+38687,Santa Rosa,TX,Starr County,,city-us,324,26.349,-98.770,467
+38683,Santa Rosa,MO,DeKalb County,,city-us,0,39.980,-94.206,438

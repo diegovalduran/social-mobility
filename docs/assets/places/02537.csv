@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21345,Clarion,PA,,city-us,3880,41.21,-79.39,3669
-21343,Clarion,IA,,city-us,2783,42.73,-93.73,11332
-21346,Clarion,MI,,city-us,1403,45.25,-84.92,3987
-21344,Clarion,IL,,city-us,0,41.51,-89.19,602
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12649,Earlville,IL,LaSalle County,,city-us,1600,41.589,-88.922,4173
+12647,Earlville,NY,Chenango County / Madison County,,city-us,793,42.740,-75.544,3714
+12648,Earlville,IA,Delaware County,,city-us,721,42.482,-91.272,3318
+12646,Earlville,PA,Berks County,,city-us,0,40.317,-75.737,235

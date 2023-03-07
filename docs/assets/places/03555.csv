@@ -1,7 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27542,Orion,MI,,city-us,38304,42.76,-83.26,5419
-27541,Orion,IL,,city-us,1741,41.35,-90.38,1431
-27540,Orion,IL,,city-us,1114,40.59,-89.93,959
-27544,Orion,WI,,city-us,628,43.20,-90.43,2099
-27543,Orion,MN,,city-us,556,43.89,-92.26,1883
-27545,Orion,AL,,city-us,0,31.96,-86.01,804
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18149,Gregory,TX,San Patricio County,,city-us,1740,27.922,-97.290,2720
+18144,Gregory,SD,Gregory County,,city-us,1189,43.232,-99.430,3784
+18148,Gregory,OK,Rogers County,,city-us,304,36.171,-95.572,1869
+18146,Gregory,MN,Mahnomen County,,city-us,58,47.463,-95.858,1841
+18150,Gregory,AR,Woodruff County,,city-us,43,35.155,-91.343,2072
+18143,Gregory,NC,Currituck County,,city-us,0,36.384,-76.123,269
+18145,Gregory,MI,Livingston County,,city-us,0,42.458,-84.084,5770
+18147,Gregory,MN,Morrison County,,city-us,0,45.939,-94.356,367

@@ -1,3 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32485,Van Lear,MD,,city-us,3000,39.54,-77.75,1235
-32484,Van Lear,KY,,city-us,893,37.77,-82.76,3956
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23238,Knoxville,TN,Knox County,,city-us,192648,35.961,-83.921,67139
+23239,Knoxville,IA,Marion County,,city-us,7472,41.321,-93.109,8109
+23236,Knoxville,IL,Knox County,,city-us,2852,40.908,-90.285,6432
+23243,Knoxville,PA,Tioga County,,city-us,677,41.957,-77.439,3883
+23235,Knoxville,AR,Johnson County,,city-us,655,35.382,-93.364,1811
+23230,Knoxville,GA,Crawford County,,city-us,65,32.724,-83.998,4749
+23231,Knoxville,MS,Franklin County,,city-us,0,31.379,-91.121,386
+23232,Knoxville,MD,Frederick County,,city-us,0,39.327,-77.664,1907
+23233,Knoxville,AL,Greene County,,city-us,0,32.992,-87.791,467
+23234,Knoxville,OH,Jefferson County,,city-us,0,40.492,-80.681,279
+23237,Knoxville,NE,Knox County,,city-us,0,42.669,-98.296,280
+23240,Knoxville,WV,Marshall County,,city-us,0,39.888,-80.633,168
+23241,Knoxville,CA,Napa County,,city-us,0,38.828,-122.341,357
+23242,Knoxville,MO,Ray County,,city-us,0,39.446,-94.017,1737

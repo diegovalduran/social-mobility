@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45578,Rydal,GA,,city-us,4087,34.34,-84.72,1200
-45579,Rydal,KS,,city-us,0,39.81,-97.71,342
-45580,Rydal,PA,,city-us,0,40.11,-75.11,1875
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42690,Terrytown,LA,Jefferson Parish,,city-us,25388,29.910,-90.033,6291
+42691,Terrytown,NE,Scotts Bluff County,,city-us,1055,41.847,-103.662,3727

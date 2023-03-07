@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40431,Franklin Square,NY,,city-us,32381,40.71,-73.68,11472
-40432,Franklin Square,OH,,city-us,0,40.86,-80.79,302
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34257,Piney,MO,Texas County,,city-us,4861,37.322,-91.973,157
+34255,Piney,AR,Garland County,,city-us,4744,34.503,-93.126,2238
+34254,Piney,PA,Clarion County,,city-us,397,41.144,-79.468,2251
+34253,Piney,OK,Adair County,,city-us,29,35.885,-94.542,1872
+34256,Piney,AR,Pope County,,city-us,0,35.441,-93.190,96

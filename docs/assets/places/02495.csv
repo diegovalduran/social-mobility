@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21015,Beaverdale,IA,,city-us,880,40.85,-91.21,1880
-21016,Beaverdale,PA,,city-us,612,40.32,-78.70,2502
-21017,Beaverdale,GA,,city-us,0,34.92,-84.84,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12458,Dunnville,KY,Casey County,,city-us,0,37.200,-85.010,661
+12459,Dunnville,WI,Dunn County,,city-us,0,44.719,-91.906,185

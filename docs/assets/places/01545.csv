@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14522,Ukiah,CA,,city-us,16728,39.15,-123.21,16713
-14523,Ukiah,OR,,city-us,163,45.13,-118.93,4552
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7804,Chambersburg,PA,Franklin County,,city-us,22354,39.938,-77.661,37087
+7802,Chambersburg,MO,Clark County,,city-us,0,40.524,-91.799,311
+7803,Chambersburg,OH,Columbiana County,,city-us,0,40.788,-81.032,323
+7805,Chambersburg,IN,Orange County,,city-us,0,38.518,-86.392,445
+7806,Chambersburg,IL,Pike County,,city-us,0,39.817,-90.657,138

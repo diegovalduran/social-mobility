@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39458,Milburn,OK,,city-us,256,34.24,-96.55,3151
-39457,Milburn,NE,,city-us,63,41.70,-99.64,259
-39459,Milburn,KY,,city-us,0,36.80,-88.90,899
-39460,Milburn,UT,,city-us,0,39.70,-111.42,378
-39461,Milburn,WV,,city-us,0,38.00,-81.34,160
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32731,Overbrook,KS,Osage County,,city-us,999,38.781,-95.557,4095
+32730,Overbrook,OK,Love County,,city-us,0,34.067,-97.141,577
+32732,Overbrook,DE,Sussex County,,city-us,0,38.767,-75.215,1827

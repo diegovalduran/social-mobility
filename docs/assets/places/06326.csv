@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39150,Springer,NM,,city-us,942,36.36,-104.60,4454
-39151,Springer,OK,,city-us,689,34.31,-97.14,2575
-39149,Springer,ND,,city-us,61,46.50,-97.85,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32291,Oneco,FL,Manatee County,,city-us,0,27.450,-82.550,834
+32292,Oneco,IL,Stephenson County,,city-us,0,42.487,-89.664,634

@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5774,Ovilla,TX,,city-us,4349,32.54,-96.88,4160
-5771,Avilla,IN,,city-us,2451,41.37,-85.24,3542
-5770,Avilla,AR,,city-us,1239,34.68,-92.59,334
-5773,Avilla,MO,,city-us,99,37.20,-94.13,29227
-5772,Avilla,KS,,city-us,66,37.09,-99.31,326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2578,Bartley,NE,Red Willow County,,city-us,266,40.249,-100.312,3019
+2576,Bartley,ND,Griggs County,,city-us,43,47.282,-98.278,218
+2577,Bartley,WV,McDowell County,,city-us,0,37.341,-81.738,1492

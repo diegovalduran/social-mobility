@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17206,West Hartford,CT,,city-us,64034,41.77,-72.75,26559
-17207,West Hartford,MO,,city-us,0,39.41,-91.61,286
-17208,West Hartford,VT,,city-us,0,43.72,-72.42,5518
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9730,Cook,PA,Westmoreland County,,city-us,1873,40.167,-79.288,2421
+9729,Cook,MN,St. Louis County,,city-us,523,47.852,-92.690,4067
+9728,Cook,NE,Johnson County,,city-us,325,40.510,-96.164,3172
+9731,Cooke,PA,Cumberland County,,city-us,204,40.033,-77.322,3648
+9726,Cook,KS,Decatur County,,city-us,20,39.604,-100.676,340
+9727,Cook,OH,Fayette County,,city-us,0,39.683,-83.307,555

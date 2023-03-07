@@ -1,4 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33483,Nanticoke,PA,,city-us,10603,41.21,-76.00,10502
-33482,Nanticoke,NY,,city-us,1570,42.28,-76.03,3190
-33481,Nanticoke,MD,,city-us,359,38.27,-75.91,408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24437,Lennox,CA,Los Angeles County,,city-us,21514,33.938,-118.353,6843
+24452,Lenox,MI,Macomb County,,city-us,12306,42.761,-82.798,2600
+24453,Lenox,NY,Madison County,,city-us,8777,43.112,-75.757,3452
+24447,Lenox,MA,Berkshire County,,city-us,5099,42.368,-73.270,12796
+24436,Lennox,SD,Lincoln County,,city-us,2405,43.354,-96.892,3586
+24446,Lenox,OH,Ashtabula County,,city-us,1384,41.682,-80.776,1430
+24445,Lenox,IA,Adams County / Taylor County,,city-us,1344,40.883,-94.558,3827
+24449,Lenox,GA,Cook County,,city-us,756,31.272,-83.465,2558
+24451,Lenox,TN,Dyer County,,city-us,308,36.089,-89.498,105
+24457,Lenox,IL,Warren County,,city-us,264,40.848,-90.614,285
+24448,Lenox,AL,Conecuh County,,city-us,37,31.337,-87.186,545
+24438,Lennox,WI,Oneida County,,city-us,0,45.512,-89.072,389
+24450,Lenox,MO,Dent County,,city-us,0,37.653,-91.761,511
+24454,Lenox,KY,Morgan County,,city-us,0,37.957,-83.201,228
+24455,Lenox,WV,Preston County,,city-us,0,39.567,-79.590,120
+24456,Lenox,PA,Susquehanna County,,city-us,0,41.712,-75.673,114

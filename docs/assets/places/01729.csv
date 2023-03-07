@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15829,Perry Park,CO,,city-us,1646,39.26,-104.98,5511
-15830,Perry Park,KY,,city-us,0,38.55,-85.00,4763
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8784,Clemmons,NC,Forsyth County,,city-us,21517,36.022,-80.382,4752
+8785,Clemons,IA,Marshall County,,city-us,134,42.114,-93.156,2874
+8786,Clemons,KY,Perry County,,city-us,0,37.296,-83.233,257

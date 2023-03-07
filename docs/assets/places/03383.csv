@@ -1,3 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26436,Lamotte,IL,,city-us,1877,39.02,-87.62,1217
-26437,Lamotte,MI,,city-us,762,43.46,-83.05,1944
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17137,Golden,CO,Jefferson County,,city-us,19871,39.756,-105.221,21740
+17140,Golden,MI,Oceana County,,city-us,1682,43.690,-86.452,4005
+17132,Golden,IL,Adams County,,city-us,640,40.109,-91.018,2357
+17133,Golden,MO,Barry County,,city-us,275,36.524,-93.654,495
+17142,Golden,MS,Tishomingo County,,city-us,176,34.488,-88.189,3207
+17135,Golden,NE,Holt County,,city-us,101,42.318,-98.395,312
+17143,Golden,ND,Walsh County,,city-us,83,48.407,-97.853,185
+17139,Golden,OK,McCurtain County,,city-us,71,34.034,-94.896,274
+17134,Golden,IA,Delaware County,,city-us,0,42.391,-91.471,815
+17136,Golden,ID,Idaho County,,city-us,0,45.812,-115.680,220
+17138,Golden,WV,Marshall County,,city-us,0,39.983,-80.537,89
+17141,Golden,NM,Santa Fe County,,city-us,0,35.267,-106.214,2931
+17144,Golden,TX,Wood County,,city-us,0,32.729,-95.563,1946

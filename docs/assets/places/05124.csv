@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34998,Redmond,WA,,city-us,76354,47.67,-122.12,16610
-34996,Redmond,OR,,city-us,35582,44.27,-121.17,11903
-34997,Redmond,UT,,city-us,786,39.01,-111.86,2345
-34994,Readmond,MI,,city-us,562,45.57,-85.04,2516
-34995,Redmond,ND,,city-us,18,48.42,-102.15,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26270,Macomb,MI,Macomb County,,city-us,91663,42.659,-82.931,4416
+26273,Macomb,NY,St. Lawrence County,,city-us,931,44.439,-75.571,3705
+26271,Macomb,IL,McDonough County,,city-us,446,40.503,-90.613,273
+26272,Macomb,OK,Pottawatomie County,,city-us,24,35.147,-97.009,3169
+26274,Macomb,MO,Wright County,,city-us,0,37.094,-92.492,327

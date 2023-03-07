@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35699,Doran,VA,,city-us,9874,37.09,-81.83,455
-35698,Doran,MN,,city-us,34,46.18,-96.48,2944
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27217,Matamoras,PA,Pike County,,city-us,2408,41.369,-74.700,3221
+27218,Matamoras,OH,Washington County,,city-us,697,39.518,-81.073,4220
+27215,Matamoras,IN,Blackford County,,city-us,0,40.554,-85.263,411
+27216,Matamoras,PA,Dauphin County,,city-us,0,40.933,-76.440,306

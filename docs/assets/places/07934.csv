@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44145,Shawsville,VA,,city-us,1628,37.17,-80.26,3489
-44146,Shawsville,MD,,city-us,0,39.64,-76.56,166
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40143,Smoky Hill,KS,Geary County,,city-us,9010,39.053,-96.898,175
+40144,Smoky Hill,KS,McPherson County,,city-us,303,38.564,-97.646,175
+40145,Smoky Hill,KS,Saline County,,city-us,249,38.832,-97.655,175

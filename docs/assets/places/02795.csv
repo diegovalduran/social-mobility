@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22971,Robins,IA,,city-us,3331,42.07,-91.67,3444
-22972,Robins,OH,,city-us,0,39.96,-81.51,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13904,Erwin,NY,Steuben County,,city-us,8001,42.138,-77.141,3350
+13905,Erwin,TN,Unicoi County,,city-us,5994,36.145,-82.417,6803
+13901,Erwin,NC,Harnett County,,city-us,4604,35.327,-78.676,5003
+13900,Erwin,MI,Gogebic County,,city-us,270,46.382,-90.088,2141
+13902,Erwin,SD,Kingsbury County,,city-us,40,44.487,-97.445,2942
+13903,Erwin,IN,Posey County,,city-us,0,37.980,-87.919,207
+13906,Erwin,MS,Washington County,,city-us,0,33.104,-91.044,449

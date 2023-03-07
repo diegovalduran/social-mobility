@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31835,Tribune,KS,,city-us,784,38.47,-101.75,4943
-31836,Tribune,KY,,city-us,0,37.35,-87.99,126
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22582,Keeler,MI,Van Buren County,,city-us,1966,42.108,-86.154,2694
+22903,Kieler,WI,Grant County,,city-us,546,42.581,-90.603,951
+22581,Keeler,CA,Inyo County,,city-us,31,36.487,-117.874,5614

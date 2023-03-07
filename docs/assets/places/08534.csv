@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45747,Remus,MI,,city-us,1474,43.60,-85.15,3036
-45746,Remus,GA,,city-us,0,33.99,-84.89,305
-45748,Remus,WV,,city-us,0,39.16,-81.69,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42957,Tillman,IN,Allen County,,city-us,0,41.024,-84.893,189
+42958,Tillman,SC,Jasper County,,city-us,0,32.464,-81.107,390
+42959,Tillman,MO,Stoddard County,,city-us,0,37.055,-89.864,290
+42962,Tilmon,TX,Caldwell County,,city-us,0,29.798,-97.553,1252

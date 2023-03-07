@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37730,Jacinto,MS,,city-us,52,34.76,-88.43,1553
-37731,Jacinto,CA,,city-us,0,39.58,-122.01,446
-37732,Jacinto,NE,,city-us,0,41.23,-103.40,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30257,Nappanee,IN,Elkhart County / Kosciusko County,,city-us,6882,41.446,-85.997,16229
+30232,Napanee,MS,Washington County,,city-us,0,33.506,-90.871,663

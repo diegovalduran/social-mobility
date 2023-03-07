@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45478,Cool Spring,DE,,city-us,0,38.73,-75.25,250
-45479,Cool Spring,SC,,city-us,0,33.98,-79.14,395
-45480,Cool Spring,VA,,city-us,0,36.83,-77.83,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42520,Tarrytown,NY,Westchester County,,city-us,11718,41.076,-73.859,17194
+42518,Tarrytown,GA,Montgomery County,,city-us,64,32.319,-82.559,2322
+42519,Tarrytown,FL,Sumter County,,city-us,0,28.555,-82.054,854

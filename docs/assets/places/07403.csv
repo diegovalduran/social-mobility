@@ -1,9 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42507,Price,UT,,city-us,8267,39.60,-110.81,5818
-42506,Price,PA,,city-us,3711,41.11,-75.22,4110
-42508,Price,WI,,city-us,223,45.26,-88.98,2175
-42509,Price,MD,,city-us,0,39.10,-75.96,246
-42510,Price,NC,,city-us,0,36.54,-79.91,148
-42511,Price,TX,,city-us,0,32.13,-94.94,868
-42512,Price,WV,,city-us,0,39.71,-80.13,90
-42513,Price,WI,,city-us,0,44.58,-91.05,382
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37618,Rosendale,NY,Ulster County,,city-us,5790,41.847,-74.080,14207
+37616,Rosendale,WI,Fond du Lac County,,city-us,739,43.853,-88.706,4175
+37619,Rosendale,MN,Watonwan County,,city-us,272,43.979,-94.554,2088
+37615,Rosendale,MO,Andrew County,,city-us,119,40.044,-94.821,3079
+37617,Rosendale,MN,Meeker County,,city-us,0,45.041,-94.707,322

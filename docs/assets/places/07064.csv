@@ -1,6 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41352,Briggs,OK,,city-us,1105,35.93,-94.87,2532
-41353,Briggs,TX,,city-us,0,30.89,-97.93,1616
-41354,Briggs,NE,,city-us,0,41.35,-96.01,194
-41355,Briggs,OH,,city-us,0,39.33,-81.06,305
-41356,Briggs,VA,,city-us,0,39.11,-78.01,498
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35836,Randall,WI,Kenosha County,,city-us,3304,42.543,-88.215,2275
+35838,Randall,MN,Morrison County,,city-us,609,46.091,-94.504,4852
+35834,Randall,IA,Hamilton County,,city-us,155,42.238,-93.601,2936
+35835,Randall,KS,Jewell County,,city-us,80,39.643,-98.045,3490
+35833,Randall,WI,Burnett County,,city-us,0,45.696,-92.835,115
+35837,Randall,WV,Monongalia County,,city-us,0,39.660,-79.994,123
+35839,Randle,WA,Lewis County,,city-us,0,46.535,-121.957,2613

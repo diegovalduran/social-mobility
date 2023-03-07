@@ -1,16 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12075,Exeter,,United Kingdom,city-international,124180,50.72,-3.53,57800
-12069,Exeter,PA,,city-us,25483,40.31,-75.84,260
-12061,Exeter,CA,,city-us,10324,36.30,-119.14,6874
-12067,Exeter,NH,,city-us,9908,42.98,-70.95,12615
-12072,Exeter,RI,,city-us,6617,41.57,-71.63,3887
-12070,Exeter,PA,,city-us,5510,41.32,-75.82,5786
-12064,Exeter,MI,,city-us,3968,42.03,-83.48,3110
-12073,Exeter,WI,,city-us,1261,42.79,-89.58,2018
-12063,Exeter,ME,,city-us,963,44.96,-69.13,3834
-12068,Exeter,NY,,city-us,850,42.80,-75.08,3455
-12065,Exeter,MO,,city-us,738,36.67,-93.94,4406
-12071,Exeter,PA,,city-us,622,41.43,-75.85,260
-12066,Exeter,NE,,city-us,514,40.64,-97.45,6151
-12062,Exeter,IL,,city-us,86,39.72,-90.50,1799
-12074,Exeter,VA,,city-us,0,36.88,-82.85,102
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5916,Buda,TX,Hays County,,city-us,15643,30.085,-97.840,7087
+5915,Buda,IL,Bureau County,,city-us,472,41.326,-89.679,3375
+5914,Buda,NE,Buffalo County,,city-us,0,40.714,-98.994,400

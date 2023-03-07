@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30549,Barnard,MI,,city-us,1714,45.25,-85.25,3357
-30547,Barnard,VT,,city-us,1001,43.73,-72.63,4276
-30546,Barnard,MO,,city-us,185,40.17,-94.82,3984
-30545,Barnard,KS,,city-us,57,39.19,-98.04,3719
-30551,Barnard,SD,,city-us,36,45.73,-98.49,696
-30548,Barnard,IN,,city-us,0,39.85,-86.70,448
-30550,Barnard,NC,,city-us,0,35.84,-82.75,536
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21186,Iconium,IA,Appanoose County,,city-us,0,40.891,-92.955,278
+21187,Iconium,TN,Cannon County,,city-us,0,35.776,-86.022,162
+21188,Iconium,MO,St. Clair County,,city-us,0,38.106,-93.544,493

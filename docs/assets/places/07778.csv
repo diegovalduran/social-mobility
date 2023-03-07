@@ -1,4 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43717,McDade,TX,,city-us,1376,30.28,-97.24,845
-43718,McDade,AL,,city-us,0,32.32,-86.05,385
-43719,McDade,NC,,city-us,0,36.19,-79.17,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39377,Sharpsburg,PA,Allegheny County,,city-us,3138,40.495,-79.926,18179
+39382,Sharpsburg,NC,Edgecombe County / Nash County / Wilson County,,city-us,1693,35.866,-77.831,2454
+39386,Sharpsburg,MD,Washington County,,city-us,560,39.458,-77.749,7659
+39379,Sharpsburg,KY,Bath County,,city-us,366,38.202,-83.929,2655
+39381,Sharpsburg,GA,Coweta County,,city-us,329,33.339,-84.649,2844
+39385,Sharpsburg,IA,Taylor County,,city-us,69,40.802,-94.642,3079
+39378,Sharpsburg,OH,Athens County,,city-us,0,39.436,-81.912,599
+39380,Sharpsburg,IL,Christian County,,city-us,0,39.614,-89.351,220
+39383,Sharpsburg,MO,Marion County,,city-us,0,39.687,-91.763,329
+39384,Sharpsburg,OH,Mercer County,,city-us,0,40.368,-84.710,220

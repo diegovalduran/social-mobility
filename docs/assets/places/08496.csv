@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45659,Jewtown,GA,,city-us,0,31.16,-81.40,752
-45660,Jewtown,PA,,city-us,0,40.63,-78.91,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42798,Thomasville,NC,Davidson County / Randolph County,,city-us,27203,35.882,-80.080,10195
+42800,Thomasville,GA,Thomas County,,city-us,18867,30.837,-83.979,8189
+42801,Thomasville,PA,York County,,city-us,3647,39.895,-76.850,514
+42796,Thomasville,AL,Clarke County,,city-us,3548,31.913,-87.736,8963
+42799,Thomasville,MO,Oregon County,,city-us,23,36.789,-91.532,412
+42797,Thomasville,IA,Clayton County,,city-us,0,42.754,-91.581,162

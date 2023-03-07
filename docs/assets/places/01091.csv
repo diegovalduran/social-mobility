@@ -1,15 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11375,Cambria,PA,,city-us,5730,40.49,-78.74,2928
-11374,Cambria,NY,,city-us,5717,43.18,-78.82,6037
-11369,Cambria,CA,,city-us,5487,35.56,-121.08,17813
-11370,Cambria,IL,,city-us,1759,37.78,-89.12,3229
-11377,Cambria,WI,,city-us,775,43.54,-89.11,9985
-11371,Cambria,KS,,city-us,393,38.92,-97.53,114
-11372,Cambria,MI,,city-us,258,41.82,-84.67,1392
-11376,Cambria,SD,,city-us,123,45.55,-98.29,0
-11373,Cambria,MN,,city-us,0,44.24,-94.31,292
-11378,Cambria,IN,,city-us,0,40.37,-86.56,410
-11379,Cambria,IA,,city-us,0,40.84,-93.40,1082
-11380,Cambria,MD,,city-us,0,39.71,-76.35,217
-11381,Cambria,VA,,city-us,0,37.14,-80.40,561
-11382,Cambria,WV,,city-us,0,38.27,-81.20,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5409,Broadwell,IL,Logan County,,city-us,3640,40.088,-89.433,445
+5408,Broadwell,KY,Harrison County,,city-us,0,38.329,-84.359,156

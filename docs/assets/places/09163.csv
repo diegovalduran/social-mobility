@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47288,Sunlight,MO,,city-us,0,37.78,-90.91,257
-47289,Sunlight,WV,,city-us,0,37.99,-80.46,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46161,Westby,WI,Vernon County,,city-us,2350,43.657,-90.854,6997
+46160,Westby,MT,Sheridan County,,city-us,166,48.870,-104.052,3891
+46159,Westby,ND,Divide County,,city-us,40,48.868,-103.969,0

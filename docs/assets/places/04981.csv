@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34340,Ewen,MI,,city-us,229,46.53,-89.28,331
-34341,Ewan,NJ,,city-us,0,39.70,-75.19,708
-34342,Ewan,WA,,city-us,0,47.12,-117.73,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25640,Longdale,OK,Blaine County,,city-us,182,36.133,-98.551,3711
+25639,Longdale,VA,Alleghany County,,city-us,0,37.833,-79.776,105

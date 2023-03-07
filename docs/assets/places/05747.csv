@@ -1,4 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37256,Jefferson City,MO,,city-us,42772,38.57,-92.18,13720
-37258,Jefferson City,TN,,city-us,8262,36.12,-83.49,6770
-37257,Jefferson City,MT,,city-us,438,46.39,-112.03,2613
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29583,Morrisville,NC,Durham County / Wake County,,city-us,31278,35.836,-78.839,10443
+29581,Morrisville,PA,Bucks County,,city-us,9778,40.212,-74.788,9168
+29586,Morrisville,VT,Lamoille County,,city-us,2210,44.562,-72.598,2858
+29587,Morrisville,NY,Madison County,,city-us,1518,42.899,-75.640,3045
+29585,Morrisville,PA,Greene County,,city-us,1168,39.895,-80.162,1926
+29588,Morrisville,MO,Polk County,,city-us,381,37.481,-93.427,3700
+29582,Morrisville,OH,Clinton County,,city-us,0,39.355,-83.803,290
+29584,Morrisville,VA,Fauquier County,,city-us,0,38.502,-77.700,248

@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23994,Abington,PA,,city-us,58471,40.11,-75.11,15534
-23993,Abington,MA,,city-us,17094,42.12,-70.96,9965
-23991,Abington,IL,,city-us,371,41.11,-90.84,274
-23992,Abington,IN,,city-us,0,39.73,-84.96,493
-23995,Abington,LA,,city-us,0,32.11,-93.48,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14934,Finney,TX,King County,,city-us,70,33.810,-100.516,739
+14917,Finey,MO,Henry County,,city-us,0,38.234,-93.546,548
+14933,Finney,KY,Barren County,,city-us,0,36.915,-86.105,177

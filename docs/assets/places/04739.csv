@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33314,Clear Spring,MD,,city-us,368,39.66,-77.93,4285
-33315,Clear Spring,IN,,city-us,0,38.92,-86.21,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24199,Le Grand,CA,Merced County,,city-us,1635,37.229,-120.248,4418
+24198,Le Grand,IA,Marshall County / Tama County,,city-us,898,42.007,-92.775,3799
+24200,Le Grand,AL,Montgomery County,,city-us,0,32.163,-86.269,370

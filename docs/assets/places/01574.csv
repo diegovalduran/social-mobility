@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14765,Willits,CA,,city-us,4969,39.41,-123.36,12303
-14766,Willets,NC,,city-us,0,35.41,-83.12,824
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7963,Charter Oak,CA,Los Angeles County,,city-us,9825,34.103,-117.846,6494
+7962,Charter Oak,IA,Crawford County,,city-us,522,42.068,-95.592,2999
+7964,Charter Oak,MO,Stoddard County,,city-us,0,36.715,-89.720,382

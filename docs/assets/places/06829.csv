@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40645,South Hill,WA,,city-us,66713,47.14,-122.27,7703
-40643,South Hill,NY,,city-us,7045,42.43,-76.49,2207
-40644,South Hill,VA,,city-us,4709,36.73,-78.13,4229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34817,Point,PA,Northumberland County,,city-us,3818,40.932,-76.773,2010
+34818,Point,TX,Rains County,,city-us,765,32.932,-95.871,2534
+34816,Point,MS,Lauderdale County,,city-us,0,32.311,-88.891,521

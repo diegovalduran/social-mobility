@@ -1,16 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5842,Belleville,IL,,city-us,41751,38.52,-89.98,12248
-5847,Belleville,NJ,,city-us,37774,40.79,-74.16,18090
-5846,Belleville,MI,,city-us,3963,42.20,-83.49,5700
-5850,Belleville,WI,,city-us,2559,42.86,-89.54,4278
-5849,Belleville,PA,,city-us,1851,40.61,-77.73,2861
-5844,Belleville,KS,,city-us,522,37.06,-96.15,203
-5848,Belleville,NY,,city-us,334,43.78,-76.12,788
-5841,Belleville,AR,,city-us,312,35.09,-93.45,2284
-5845,Belleville,KS,,city-us,204,39.78,-97.65,203
-5843,Belleville,IN,,city-us,0,39.68,-86.49,933
-5851,Belleville,AL,,city-us,0,31.43,-87.11,573
-5852,Belleville,MO,,city-us,0,37.12,-94.59,271
-5853,Belleville,ND,,city-us,0,48.15,-97.80,199
-5854,Belleville,TN,,city-us,0,35.27,-86.55,277
-5855,Belleville,WV,,city-us,0,39.14,-81.74,5358
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2616,Basham,VA,Montgomery County,,city-us,0,37.036,-80.343,391
+2617,Basham,AL,Morgan County,,city-us,0,34.515,-87.018,368

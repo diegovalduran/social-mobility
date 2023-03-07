@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41132,Rawson,OH,,city-us,564,40.96,-83.78,3366
-41133,Rawson,ND,,city-us,6,47.82,-103.54,1854
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35600,Putney,GA,Dougherty County,,city-us,3155,31.470,-84.118,2453
+35603,Putney,VT,Windham County,,city-us,450,42.975,-72.522,6470
+35599,Putney,SD,Brown County,,city-us,0,45.560,-98.175,269
+35601,Putney,KY,Harlan County,,city-us,0,36.905,-83.226,96
+35602,Putney,WV,Kanawha County,,city-us,0,38.296,-81.373,177

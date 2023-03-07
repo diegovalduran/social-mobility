@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28851,Virginia,,United States,state,8683619,38.00,-79.46,92828
-28844,Virginia,MN,,city-us,8337,47.52,-92.54,9676
-28843,Virginia,IL,,city-us,1653,39.93,-90.22,2631
-28847,Virginia,OH,,city-us,554,40.19,-81.94,1650
-28848,Virginia,SD,,city-us,254,43.01,-96.53,0
-28846,Virginia,NE,,city-us,73,40.25,-96.50,2957
-28845,Virginia,ND,,city-us,15,48.75,-99.19,0
-28849,Virginia,ID,,city-us,0,42.49,-112.17,192
-28850,Virginia,MO,,city-us,0,38.27,-94.50,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19287,Hauser,ID,Kootenai County,,city-us,770,47.773,-117.028,3336
+19286,Hauser,OR,Coos County,,city-us,0,43.493,-124.219,895

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33226,Aspen Hill,MD,,city-us,53850,39.08,-77.07,8871
-33227,Aspen Hill,TN,,city-us,0,35.10,-87.00,338
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24092,Laurel Grove,OR,Coos County,,city-us,0,43.026,-124.415,168
+24093,Laurel Grove,VA,Pittsylvania County,,city-us,0,36.679,-79.213,156
+24094,Laurel Grove,VA,Westmoreland County,,city-us,0,38.199,-76.963,101

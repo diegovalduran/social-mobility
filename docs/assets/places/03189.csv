@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25184,Dunham,IL,,city-us,2783,42.37,-88.65,590
-25185,Dunham,OH,,city-us,0,39.33,-81.63,252
-25186,Dunham,KY,,city-us,0,37.19,-82.65,450
-25187,Dunham,MI,,city-us,0,46.38,-89.78,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16095,Fruitville,FL,Sarasota County,,city-us,14673,27.330,-82.458,4989
+16093,Fruitville,MN,Benton County,,city-us,0,45.713,-94.079,366
+16094,Fruitville,MO,Howell County,,city-us,0,36.616,-91.766,579

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23774,Hammett,ID,,city-us,0,42.95,-115.47,252
-23775,Hammett,GA,,city-us,0,32.66,-84.02,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14728,Fawn,PA,York County,,city-us,3006,39.756,-76.466,168
+14726,Fawn,PA,Allegheny County,,city-us,2165,40.650,-79.767,168
+14727,Fawn,MO,Dent County,,city-us,0,37.544,-91.476,245

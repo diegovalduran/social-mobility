@@ -1,10 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32997,Florida,,United States,state,22244823,27.98,-83.83,79363
-32993,Florida,NY,,city-us,2940,41.33,-74.36,4127
-32992,Florida,NY,,city-us,2697,42.89,-74.20,6538
-32989,Florida,MA,,city-us,685,42.68,-73.02,7670
-32994,Florida,OH,,city-us,215,41.32,-84.20,4333
-32990,Florida,MN,,city-us,108,44.76,-96.40,1735
-32991,Florida,MO,,city-us,0,39.49,-91.79,7738
-32995,Florida,CO,,city-us,0,37.22,-107.75,244
-32996,Florida,IN,,city-us,0,40.16,-85.71,328
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24419,Lemont,IL,Cook County,,city-us,22436,41.669,-87.962,1677
+24420,Lemont,IL,Cook County / DuPage County / Will County,,city-us,17529,41.667,-87.984,12857
+23848,Lamont,CA,Kern County,,city-us,14269,35.260,-118.914,6103
+23850,Lamont,MI,Ottawa County,,city-us,7575,42.990,-85.838,3297
+24418,Lemont,PA,Centre County,,city-us,2335,40.811,-77.818,3374
+23843,Lamont,IA,Buchanan County,,city-us,431,42.599,-91.642,3657
+23849,Lamont,WI,Lafayette County,,city-us,314,42.705,-89.985,2053
+23845,Lamont,OK,Grant County,,city-us,296,36.691,-97.556,1919
+23847,Lamont,FL,Jefferson County,,city-us,170,30.377,-83.813,1033
+23852,Lamont,WA,Whitman County,,city-us,79,47.202,-117.905,5673
+23842,Lamont,MS,Bolivar County,,city-us,0,33.535,-91.076,514
+23844,Lamont,NE,Dundy County,,city-us,0,40.321,-101.873,304
+23846,Lamont,KS,Greenwood County,,city-us,0,38.112,-96.027,748
+23851,Lamont,KY,Perry County,,city-us,0,37.350,-83.314,130

@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47671,Pipersville,PA,,city-us,6336,40.43,-75.14,416
-47672,Pipersville,WI,,city-us,0,43.14,-88.65,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47095,Wilmot,MI,Tuscola County,,city-us,1574,43.449,-83.176,2465
+47091,Wilmot,NH,Merrimack County,,city-us,1435,43.443,-71.922,4075
+47086,Wilmot,PA,Bradford County,,city-us,1125,41.595,-76.260,2450
+47087,Wilmot,MI,Cheboygan County,,city-us,824,45.247,-84.664,2181
+47093,Wilmot,SD,Roberts County,,city-us,420,45.409,-96.858,3754
+47085,Wilmot,AR,Ashley County,,city-us,409,33.057,-91.573,2744
+47094,Wilmot,OH,Stark County,,city-us,280,40.656,-81.632,3148
+47088,Wilmot,KS,Cowley County,,city-us,0,37.376,-96.876,299
+47089,Wilmot,NC,Jackson County,,city-us,0,35.402,-83.313,421
+47090,Wilmot,VA,King George County,,city-us,0,38.156,-77.072,87
+47092,Wilmot,IN,Noble County,,city-us,0,41.310,-85.642,303

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23423,Wellman,IA,,city-us,1511,41.46,-91.84,6609
-23424,Wellman,TX,,city-us,224,33.05,-102.43,2143
-23425,Wellman,OH,,city-us,0,39.48,-84.03,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14356,Fairlee,MD,Kent County,,city-us,478,39.223,-76.172,462
+14357,Fairlee,VT,Orange County,,city-us,125,43.908,-72.143,3298

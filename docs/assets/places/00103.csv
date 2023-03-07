@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-884,Andalusia,AL,,city-us,8715,31.31,-86.48,7606
-885,Andalusia,IL,,city-us,2242,41.44,-90.72,422
-886,Andalusia,PA,,city-us,0,40.07,-74.97,2280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+517,Alert,IN,Decatur County,,city-us,90,39.160,-85.678,113
+516,Alert,OH,Butler County,,city-us,0,39.325,-84.775,329
+518,Alert,NC,Franklin County,,city-us,0,36.231,-78.222,316

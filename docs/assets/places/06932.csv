@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40938,Lanier,OH,,city-us,3711,39.69,-84.53,1430
-40939,Lanier,FL,,city-us,0,30.34,-83.82,2894
-40940,Lanier,GA,,city-us,0,32.13,-81.54,436
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35242,Prairie Center,SD,Clay County,,city-us,188,42.872,-96.873,0
+35244,Prairie Center,SD,Spink County,,city-us,117,44.934,-98.152,0
+35245,Prairie Centre,ND,Walsh County,,city-us,89,48.325,-97.579,117
+35241,Prairie Center,NE,Buffalo County,,city-us,0,40.859,-99.055,277
+35243,Prairie Center,IL,LaSalle County,,city-us,0,41.469,-88.934,163

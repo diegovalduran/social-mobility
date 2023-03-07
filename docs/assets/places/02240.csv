@@ -1,13 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19248,Climax,MI,,city-us,726,42.24,-85.33,3857
-19246,Climax,GA,,city-us,266,30.88,-84.43,3115
-19249,Climax,MN,,city-us,244,47.61,-96.82,3570
-19247,Climax,KS,,city-us,44,37.72,-96.22,3207
-19250,Climax,ND,,city-us,10,48.50,-103.99,0
-19251,Climax,KY,,city-us,0,37.47,-84.22,192
-19252,Climax,NC,,city-us,0,35.91,-79.72,1147
-19253,Climax,OH,,city-us,0,40.63,-82.89,263
-19254,Climax,OR,,city-us,0,42.30,-122.62,267
-19255,Climax,PA,,city-us,0,40.98,-79.38,215
-19256,Climax,TX,,city-us,0,33.20,-96.45,93
-19257,Climax,VA,,city-us,0,36.89,-79.49,294
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11256,Decaturville,TN,Decatur County,,city-us,793,35.584,-88.119,2054
+11255,Decaturville,MO,Camden County,,city-us,0,37.908,-92.700,541
+11257,Decaturville,OH,Washington County,,city-us,0,39.335,-81.755,346

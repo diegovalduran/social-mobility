@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41448,Hitchcock,TX,,city-us,7408,29.35,-95.02,4896
-41447,Hitchcock,SD,,city-us,107,44.63,-98.41,3339
-41446,Hitchcock,OK,,city-us,99,35.97,-98.35,1934
-41449,Hitchcock,IN,,city-us,0,38.64,-86.17,1021
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35998,Raywood,TX,Liberty County,,city-us,0,30.042,-94.672,174
+35999,Raywood,WV,Pocahontas County,,city-us,0,38.368,-79.934,133

@@ -1,5 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34999,Redford,MI,,city-us,48816,42.39,-83.29,7273
-35000,Redford,NY,,city-us,253,44.61,-73.80,2264
-35001,Redford,TX,,city-us,43,29.45,-104.19,2294
-35002,Redford,MO,,city-us,0,37.32,-90.90,474
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26275,Macon,GA,Bibb County,,city-us,156762,32.809,-83.694,33875
+26284,Macon,MO,Macon County,,city-us,5475,39.742,-92.473,6223
+26285,Macon,MS,Noxubee County,,city-us,2523,33.105,-88.561,6441
+26282,Macon,MI,Lenawee County,,city-us,1317,42.040,-83.828,1976
+26283,Macon,IL,Macon County,,city-us,1144,39.713,-88.997,4129
+26281,Macon,KS,Harvey County,,city-us,498,38.044,-97.429,489
+26276,Macon,IL,Bureau County,,city-us,203,41.274,-89.674,2370
+26287,Macon,NC,Warren County,,city-us,114,36.439,-78.084,3716
+26279,Macon,NE,Franklin County,,city-us,73,40.220,-99.009,162
+26277,Macon,AL,Calhoun County,,city-us,0,33.731,-86.077,374
+26278,Macon,TN,Fayette County,,city-us,0,35.153,-89.490,373
+26280,Macon,TX,Franklin County,,city-us,0,33.089,-95.128,877
+26286,Macon,VA,Powhatan County,,city-us,0,37.522,-77.962,396

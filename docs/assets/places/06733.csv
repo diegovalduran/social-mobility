@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40409,Duane,NY,,city-us,176,44.60,-74.23,3892
-40410,Duane,VA,,city-us,0,37.87,-77.25,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34218,Pinedale,WY,Sublette County,,city-us,2262,42.867,-109.861,6562
+34216,Pinedale,NM,McKinley County,,city-us,485,35.604,-108.447,323
+34217,Pinedale,AZ,Navajo County,,city-us,482,34.300,-110.233,6168

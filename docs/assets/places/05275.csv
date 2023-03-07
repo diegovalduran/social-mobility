@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35601,Colerain,OH,,city-us,58819,39.25,-84.62,165
-35604,Colerain,PA,,city-us,3913,39.86,-76.07,183
-35602,Colerain,OH,,city-us,1995,39.42,-82.80,165
-35598,Coleraine,MN,,city-us,1991,47.29,-93.43,3350
-35603,Colerain,PA,,city-us,1124,39.93,-78.51,183
-35599,Colerain,NC,,city-us,214,36.20,-76.77,2104
-35600,Colerain,OH,,city-us,0,40.13,-80.81,672
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27067,Marshville,NC,Union County,,city-us,2565,34.988,-80.367,2890
+27066,Marshville,WV,Harrison County,,city-us,0,39.321,-80.464,214

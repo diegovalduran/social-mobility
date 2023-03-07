@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46373,Jingo,KS,,city-us,0,38.40,-94.70,282
-46374,Jingo,WV,,city-us,0,38.72,-81.48,134
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44064,Valdez,AK,Chugach Census Area,,city-us,3907,61.084,-146.317,11590
+44065,Valdez,CO,Las Animas County,,city-us,25,37.122,-104.702,2806
+44066,Valdez,NM,Taos County,,city-us,0,36.534,-105.584,282
+44067,Valdez,FL,Volusia County,,city-us,0,28.845,-81.322,853
+44068,Valdez,CA,Yolo County,,city-us,0,38.326,-121.613,181

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36905,Barton City,MO,,city-us,256,37.60,-94.45,465
-36906,Barton City,MI,,city-us,0,44.68,-83.61,1408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29019,Monaville,WV,Logan County,,city-us,487,37.812,-81.995,1631
+29018,Monaville,IL,Lake County,,city-us,0,42.399,-88.111,210
+29020,Monaville,TX,Waller County,,city-us,0,29.951,-96.039,1411

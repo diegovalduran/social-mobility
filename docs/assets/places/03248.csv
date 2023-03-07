@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25532,Forreston,IL,,city-us,1976,42.16,-89.64,547
-25533,Foreston,MN,,city-us,560,45.73,-93.71,3273
-25536,Forreston,TX,,city-us,238,32.26,-96.87,2236
-25534,Foreston,SC,,city-us,133,33.63,-80.06,664
-25535,Forreston,MS,,city-us,0,33.34,-88.31,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16432,Garryowen,MT,Big Horn County,,city-us,2,45.528,-107.418,4436
+16433,Garryowen,IA,Jackson County,,city-us,0,42.283,-90.832,1497

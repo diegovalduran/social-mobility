@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43890,Union Valley,TX,,city-us,398,32.93,-96.25,6265
-43891,Union Valley,NJ,,city-us,0,40.30,-74.46,429
-43892,Union Valley,TX,,city-us,0,32.70,-96.30,100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39763,Sibley,IA,Osceola County,,city-us,2841,43.399,-95.752,6467
+39765,Sibley,LA,Webster Parish,,city-us,1084,32.539,-93.296,5291
+39761,Sibley,MO,Jackson County,,city-us,314,39.179,-94.193,3339
+39760,Sibley,IL,Ford County,,city-us,285,40.587,-88.381,2209
+39764,Sibley,MN,Sibley County,,city-us,238,44.495,-94.186,167
+39759,Sibley,KS,Cloud County,,city-us,160,39.631,-97.674,462
+39762,Sibley,ND,Kidder County,,city-us,91,46.828,-99.780,3561
+39758,Sibley,ND,Barnes County,,city-us,20,47.217,-97.965,3561
+39757,Sibley,MS,Adams County,,city-us,0,31.379,-91.399,655

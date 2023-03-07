@@ -1,3 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45239,Hub,CA,,city-us,0,36.40,-119.81,289
-45240,Hub,MS,,city-us,0,31.15,-89.75,442
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42104,Sunnyside,WA,Yakima County,,city-us,16346,46.324,-120.009,10457
+42092,Sunnyside,CA,Fresno County,,city-us,4468,36.749,-119.699,2271
+42093,Sunnyside,NJ,Hunterdon County,,city-us,3195,40.569,-74.931,11224
+42101,Sunnyside,GA,Ware County,,city-us,1290,31.239,-82.342,2541
+42103,Sunnyside,MN,Wilkin County,,city-us,129,46.239,-96.450,1776
+42097,Sunnyside,SD,Pennington County,,city-us,15,44.211,-102.326,0
+42087,Sunnyside,FL,Bay County,,city-us,0,30.250,-85.948,304
+42088,Sunnyside,TX,Castro County,,city-us,0,34.348,-102.304,185
+42089,Sunnyside,OR,Clackamas County,,city-us,0,45.432,-122.557,2121
+42090,Sunnyside,WI,Douglas County,,city-us,0,46.604,-92.057,239
+42091,Sunnyside,WV,Fayette County,,city-us,0,38.096,-81.099,106
+42094,Sunnyside,MS,Leflore County,,city-us,0,33.696,-90.295,486
+42095,Sunnyside,TX,Menard County,,city-us,0,29.183,-96.261,69
+42096,Sunnyside,NV,Nye County,,city-us,0,38.423,-115.021,1107
+42098,Sunnyside,CA,Placer County,,city-us,0,39.143,-120.154,319
+42099,Sunnyside,WV,Tyler County,,city-us,0,39.423,-80.818,89
+42100,Sunnyside,OR,Umatilla County,,city-us,0,45.962,-118.402,476
+42102,Sunnyside,KY,Warren County,,city-us,0,37.028,-86.308,85

@@ -1,19 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1495,Chatham,,Canada,city-international,101647,42.42,-82.13,14747
-1485,Chatham,NJ,,city-us,9253,40.74,-74.38,8075
-1479,Chatham,IL,,city-us,8403,39.66,-89.75,421
-1481,Chatham,MA,,city-us,6703,41.62,-69.98,14339
-1486,Chatham,NY,,city-us,4103,42.43,-73.58,5460
-1483,Chatham,MN,,city-us,1367,45.16,-93.96,1958
-1489,Chatham,VA,,city-us,1191,36.83,-79.40,4352
-1478,Chatom,AL,,city-us,1039,31.47,-88.25,3733
-1488,Chatham,PA,,city-us,604,41.86,-77.43,2285
-1480,Chatham,LA,,city-us,479,32.31,-92.45,2028
-1484,Chatham,NH,,city-us,349,44.13,-71.06,4552
-1482,Chatham,MI,,city-us,204,46.35,-86.93,4034
-1487,Chatham,OH,,city-us,0,41.10,-82.02,495
-1490,Chatham,FL,,city-us,0,25.71,-81.24,242
-1491,Chatham,KY,,city-us,0,38.72,-84.02,246
-1492,Chatham,MS,,city-us,0,33.10,-91.10,303
-1493,Chatham,OH,,city-us,0,40.16,-82.45,280
-1494,Chatham,PA,,city-us,0,39.85,-75.82,207
+id,name,state,county,country,level,population,latitude,longitude,wiki
+814,Alta,IA,Buena Vista County,,city-us,2078,42.674,-95.291,3886
+819,Alta,CA,Placer County,,city-us,645,39.207,-120.811,3302
+821,Alta,WY,Teton County,,city-us,367,43.754,-111.037,2817
+817,Alta,KS,Harvey County,,city-us,229,38.129,-97.644,422
+820,Alta,UT,Salt Lake County,,city-us,216,40.589,-111.638,3689
+813,Alta,ND,Barnes County,,city-us,96,46.935,-97.873,224
+815,Alta,WV,Fayette County,,city-us,0,38.207,-81.177,153
+816,Alta,WV,Greenbrier County,,city-us,0,37.869,-80.543,205
+818,Alta,IL,Peoria County,,city-us,0,40.811,-89.634,492
+822,Alta,IN,Vermillion County,,city-us,0,39.772,-87.387,405

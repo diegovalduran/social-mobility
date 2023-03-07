@@ -1,3 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19632,Homerville,GA,,city-us,2317,31.04,-82.75,5294
-19633,Homerville,OH,,city-us,0,41.03,-82.13,656
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11589,Denver,CO,Denver County,,city-us,711463,39.739,-104.985,76874
+11594,Denver,PA,Lancaster County,,city-us,3770,40.233,-76.137,5511
+11595,Denver,NC,Lincoln County,,city-us,2827,35.531,-81.030,20093
+11597,Denver,MI,Newaygo County,,city-us,2041,43.594,-85.983,204
+11587,Denver,IA,Bremer County,,city-us,1931,42.671,-92.337,3635
+11591,Denver,MI,Isabella County,,city-us,1152,43.691,-84.662,204
+11596,Denver,IN,Miami County,,city-us,477,40.866,-86.077,3158
+11599,Denver,IL,Richland County,,city-us,405,38.801,-88.205,396
+11593,Denver,SD,Kingsbury County,,city-us,211,44.391,-97.200,0
+11600,Denver,MN,Rock County,,city-us,162,43.807,-96.234,2206
+11602,Denver,ND,Sargent County,,city-us,63,46.233,-97.934,0
+11604,Denver,MO,Worth County,,city-us,33,40.397,-94.323,3414
+11588,Denver,AR,Carroll County,,city-us,0,36.392,-93.315,508
+11590,Denver,IL,Hancock County,,city-us,0,40.291,-91.107,547
+11592,Denver,KY,Johnson County,,city-us,0,37.776,-82.855,137
+11598,Denver,WV,Preston County,,city-us,0,39.382,-79.770,160
+11601,Denver,OH,Ross County,,city-us,0,39.193,-83.056,499
+11603,Denver,OH,Wood County,,city-us,0,41.183,-83.707,151

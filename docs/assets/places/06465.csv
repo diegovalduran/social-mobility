@@ -1,8 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39592,Londonderry,NH,,city-us,26146,42.88,-71.39,14150
-39596,Londonderry,PA,,city-us,4885,40.18,-76.70,368
-39595,Londonderry,PA,,city-us,2523,39.88,-75.88,368
-39597,Londonderry,VT,,city-us,1935,43.20,-72.80,3386
-39594,Londonderry,PA,,city-us,1630,39.83,-78.73,368
-39593,Londonderry,OH,,city-us,0,40.15,-81.30,303
-39598,Londonderry,OH,,city-us,0,39.27,-82.79,514
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32934,Palisade,CO,Mesa County,,city-us,2584,39.110,-108.351,3214
+32935,Palisade,SD,Minnehaha County,,city-us,392,43.694,-96.481,0
+32933,Palisade,NE,Hayes County / Hitchcock County,,city-us,291,40.348,-101.107,3466
+32931,Palisade,MN,Aitkin County,,city-us,156,46.713,-93.489,4025
+32932,Palisade,NV,Eureka County,,city-us,0,40.610,-116.199,2936

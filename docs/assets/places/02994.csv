@@ -1,13 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24154,Arcola,NJ,,city-us,26698,40.95,-74.07,46062
-24145,Arcola,IL,,city-us,3228,39.71,-88.29,940
-24150,Arcola,VA,,city-us,2258,38.95,-77.53,2968
-24149,Arcola,TX,,city-us,2156,29.50,-95.47,4922
-24148,Arcola,MS,,city-us,294,33.27,-90.88,2376
-24147,Arcola,MO,,city-us,39,37.55,-93.88,2880
-24146,Arcola,IN,,city-us,33,41.10,-85.29,875
-24151,Arcola,GA,,city-us,0,32.34,-81.60,132
-24152,Arcola,LA,,city-us,0,30.78,-90.51,901
-24153,Arcola,MN,,city-us,0,45.12,-92.77,507
-24155,Arcola,PA,,city-us,0,40.15,-75.46,173
-24156,Arcola,WV,,city-us,0,38.47,-80.52,171
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14981,Fitchburg,MA,Worcester County,,city-us,41732,42.583,-71.802,27036
+14978,Fitchburg,WI,Dane County,,city-us,30674,42.961,-89.470,4353
+14980,Fitchburg,MI,Ingham County,,city-us,1966,42.462,-84.321,2462
+14979,Fitchburg,KY,Estill County,,city-us,0,37.733,-83.852,307

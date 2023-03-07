@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46401,Cookville,KS,,city-us,0,37.82,-95.59,313
-46402,Cookville,MO,,city-us,0,37.65,-92.21,564
-46403,Cookville,TX,,city-us,0,33.19,-94.85,374
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44142,Valley Center,CA,San Diego County,,city-us,11435,33.218,-117.034,10351
+44143,Valley Center,KS,Sedgwick County,,city-us,7419,37.835,-97.373,4594
+44141,Valley Center,KS,Pawnee County,,city-us,26,38.051,-98.959,4594

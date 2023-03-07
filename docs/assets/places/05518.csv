@@ -1,7 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36441,Racine,WI,,city-us,77127,42.73,-87.78,24563
-36439,Racine,OH,,city-us,680,38.97,-81.91,3426
-36442,Racine,WV,,city-us,492,38.14,-81.66,398
-36438,Racine,MN,,city-us,482,43.78,-92.48,2756
-36440,Racine,SD,,city-us,97,45.37,-97.42,0
-36443,Racine,MO,,city-us,0,36.90,-94.53,1130
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28200,Middleton,ID,Canyon County,,city-us,10169,43.707,-116.620,4493
+28203,Middleton,MA,Essex County,,city-us,9767,42.611,-71.007,7458
+28202,Middleton,WI,Dane County,,city-us,6777,43.078,-89.570,13462
+28211,Middleton,OH,Wood County,,city-us,5637,41.466,-83.668,166
+28204,Middleton,MI,Gratiot County,,city-us,2413,43.163,-84.673,2340
+28208,Middleton,NH,Strafford County,,city-us,1845,43.483,-71.071,4402
+28205,Middleton,TN,Hardeman County,,city-us,667,35.065,-88.891,5816
+28209,Middleton,SD,Turner County,,city-us,258,43.301,-96.980,0
+28201,Middleton,OH,Columbiana County,,city-us,0,40.843,-80.651,284
+28206,Middleton,CO,San Juan County,,city-us,0,37.855,-107.572,126
+28207,Middleton,KY,Simpson County,,city-us,0,36.750,-86.733,454
+28210,Middleton,OR,Washington County,,city-us,0,45.344,-122.865,477

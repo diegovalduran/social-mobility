@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36107,Lund,MN,,city-us,350,46.06,-95.72,1914
-36109,Lund,NV,,city-us,145,38.86,-115.01,1305
-36108,Lund,ND,,city-us,55,48.06,-101.85,0
-36110,Lund,TX,,city-us,0,30.41,-97.40,94
-36111,Lund,UT,,city-us,0,38.01,-113.43,2379
-36112,Lund,WI,,city-us,0,44.54,-92.21,682
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27719,Meadows,MN,Wilkin County,,city-us,54,46.413,-96.466,1652
+27716,Meadows,IL,McLean County,,city-us,0,40.744,-88.805,2914
+27717,Meadows,MD,Prince George's County,,city-us,0,38.816,-76.849,182
+27718,Meadows,NC,Stokes County,,city-us,0,36.369,-80.182,178

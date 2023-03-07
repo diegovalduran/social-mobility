@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43446,Bayside,WI,,city-us,4421,43.18,-87.90,6249
-43444,Bayside,TX,,city-us,275,28.09,-97.21,2366
-43445,Bayside,VA,,city-us,215,37.75,-75.72,499
-43447,Bayside,CA,,city-us,0,40.84,-124.06,0
-43448,Bayside,VA,,city-us,0,38.11,-76.65,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38975,Scotts Corner,NJ,Middlesex County,,city-us,24084,40.338,-74.582,22201
+38973,Scotts Corner,CA,Alameda County,,city-us,0,37.589,-121.871,270
+38974,Scotts Corner,MN,Carlton County,,city-us,0,46.598,-92.429,374
+38976,Scotts Corner,DE,Sussex County,,city-us,0,38.781,-75.667,194

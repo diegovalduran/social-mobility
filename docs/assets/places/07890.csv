@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44020,Camptown,VA,,city-us,697,36.69,-76.89,980
-44021,Camptown,PA,,city-us,0,41.73,-76.23,369
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39981,Skelton,MN,Carlton County,,city-us,418,46.547,-92.766,2309
+39982,Skelton,IN,Gibson County,,city-us,0,38.341,-87.782,338
+39983,Skelton,IL,Logan County,,city-us,0,40.143,-89.254,177
+39984,Skelton,WV,Raleigh County,,city-us,0,37.811,-81.187,282

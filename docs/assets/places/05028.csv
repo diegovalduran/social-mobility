@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34574,Hubbell,MI,,city-us,908,47.17,-88.43,2735
-34575,Hubbell,NE,,city-us,61,40.01,-97.50,2981
-34576,Hubbell,IN,,city-us,0,39.18,-87.01,1410
-34577,Hubble,KY,,city-us,0,37.60,-84.65,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25807,Louise,TX,Wharton County,,city-us,1061,29.111,-96.403,8130
+25806,Louise,MS,Humphreys County,,city-us,174,32.982,-90.589,3551
+25805,Louise,WV,Brooke County,,city-us,0,40.304,-80.565,87

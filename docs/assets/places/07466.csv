@@ -1,3 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42705,Tylersville,PA,,city-us,0,40.99,-77.42,235
-42706,Tylersville,OH,,city-us,0,39.36,-84.42,706
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37919,Rush,PA,Centre County,,city-us,3655,40.830,-78.181,333
+37924,Rush,NY,Monroe County,,city-us,3462,42.971,-77.673,4612
+37926,Rush,PA,Schuylkill County,,city-us,3440,40.850,-75.971,333
+37927,Rush,OH,Scioto County,,city-us,2887,38.840,-83.047,279
+37920,Rush,OH,Champaign County,,city-us,2792,40.173,-83.546,279
+37918,Rush,KY,Boyd County,,city-us,2755,38.298,-82.748,740
+37928,Rush,MI,Shiawassee County,,city-us,1252,43.085,-84.230,2192
+37925,Rush,PA,Northumberland County,,city-us,1190,40.913,-76.624,333
+37929,Rush,PA,Susquehanna County,,city-us,1134,41.783,-76.063,333
+37930,Rush,OH,Tuscarawas County,,city-us,844,40.316,-81.362,279
+37923,Rush,IL,Jo Daviess County,,city-us,384,42.415,-90.043,1005
+37921,Rush,PA,Dauphin County,,city-us,225,40.519,-76.645,333
+37922,Rush,CO,El Paso County,,city-us,0,38.846,-104.092,539

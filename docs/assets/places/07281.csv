@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42146,Dunmore,PA,,city-us,13989,41.42,-75.63,8358
-42147,Dunmore,WV,,city-us,0,38.36,-79.88,644
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36866,River Ridge,LA,Jefferson Parish,,city-us,13435,29.960,-90.216,5257
+36868,River Ridge,FL,Pasco County,,city-us,4702,28.267,-82.625,581
+36865,River Ridge,IN,Clark County,,city-us,0,38.379,-85.646,153
+36867,River Ridge,AL,Monroe County,,city-us,0,31.714,-87.313,154

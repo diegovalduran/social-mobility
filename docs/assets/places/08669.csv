@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46094,Vine,IN,,city-us,0,40.30,-87.14,264
-46095,Vine,TN,,city-us,0,36.03,-86.36,4653
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43448,Tulip,OH,Adams County,,city-us,0,38.734,-83.415,173
+43449,Tulip,MO,Audrain County,,city-us,0,39.343,-92.157,537
+43450,Tulip,AR,Dallas County,,city-us,0,34.082,-92.654,1113
+43451,Tulip,IN,Greene County,,city-us,0,39.082,-86.887,363

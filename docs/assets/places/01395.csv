@@ -1,15 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13499,Oakley,CA,,city-us,43771,38.00,-121.71,10791
-13503,Oakley,KS,,city-us,2146,39.03,-100.88,6541
-13502,Oakley,KS,,city-us,2026,39.12,-100.84,6541
-13505,Oakley,UT,,city-us,1590,40.71,-111.30,10245
-13512,Oakley,WI,,city-us,861,42.55,-89.43,2142
-13500,Oakley,ID,,city-us,804,42.24,-113.88,5608
-13504,Oakley,MI,,city-us,286,43.14,-84.17,5225
-13501,Oakley,IL,,city-us,0,39.88,-88.81,720
-13506,Oakley,WY,,city-us,0,41.75,-110.53,1834
-13507,Oakley,DE,,city-us,0,38.81,-75.49,196
-13508,Oakley,IN,,city-us,0,40.70,-86.01,149
-13509,Oakley,IA,,city-us,0,41.10,-93.37,242
-13510,Oakley,MD,,city-us,0,38.27,-76.74,201
-13511,Oakley,NC,,city-us,0,35.76,-77.29,187
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7024,Carpenter's Station,KY,Casey County,,city-us,0,37.441,-84.860,594
+7025,Carpenter's Station,TN,Lawrence County,,city-us,0,35.139,-87.387,218
+7026,Carpenter's Station,AL,Mobile County,,city-us,0,30.857,-87.866,1480
+7027,Carpenter's Station,LA,Richland Parish,,city-us,0,32.463,-91.568,675

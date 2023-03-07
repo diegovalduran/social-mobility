@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10887,Apple Valley,CA,,city-us,76224,34.50,-117.19,16703
-10888,Apple Valley,MN,,city-us,55638,44.73,-93.22,9645
-10890,Apple Valley,OH,,city-us,5352,40.44,-82.35,427
-10891,Apple Valley,UT,,city-us,894,37.09,-113.12,933
-10889,Apple Valley,ND,,city-us,190,46.82,-100.60,494
-10892,Apple Valley,GA,,city-us,0,34.16,-83.51,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5154,Brent,FL,Escambia County,,city-us,21717,30.469,-87.236,2565
+5153,Brent,AL,Bibb County,,city-us,2977,32.937,-87.165,4146
+5156,Brent,OK,Sequoyah County,,city-us,673,35.368,-94.794,2412
+5155,Brent,GA,Monroe County,,city-us,0,32.982,-84.010,281

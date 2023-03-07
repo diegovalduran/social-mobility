@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41204,Springboro,OH,,city-us,19263,39.56,-84.23,9845
-41205,Springboro,PA,,city-us,374,41.80,-80.37,2449
-41206,Springboro,IN,,city-us,0,40.59,-86.78,420
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35691,Quitman,GA,Brooks County,,city-us,4101,30.785,-83.560,4249
+35696,Quitman,TX,Wood County,,city-us,1991,32.796,-95.451,5635
+35692,Quitman,MS,Clarke County,,city-us,1964,32.040,-88.728,4678
+35693,Quitman,AR,Cleburne County / Faulkner County,,city-us,690,35.382,-92.215,2301
+35694,Quitman,LA,Jackson Parish,,city-us,155,32.349,-92.722,2893
+35695,Quitman,MO,Nodaway County,,city-us,42,40.373,-95.077,3808

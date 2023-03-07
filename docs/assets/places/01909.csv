@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17234,Willimantic,CT,,city-us,18150,41.72,-72.21,17240
-17235,Willimantic,ME,,city-us,138,45.30,-69.38,3100
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9745,Cookville,MO,Pulaski County,,city-us,0,37.649,-92.210,564
+9746,Cookville,TX,Titus County,,city-us,0,33.186,-94.854,374
+9747,Cookville,KS,Woodson County,,city-us,0,37.820,-95.592,313

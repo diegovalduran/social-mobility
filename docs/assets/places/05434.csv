@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36177,Meadowlands,PA,,city-us,342,40.22,-80.22,262
-36176,Meadowlands,MN,,city-us,304,47.05,-92.65,2830
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27818,Meeker,CO,Rio Blanco County,,city-us,2336,40.037,-107.913,5052
+27816,Meeker,OK,Lincoln County,,city-us,1012,35.503,-96.903,3716
+27817,Meeker,OH,Marion County,,city-us,0,40.644,-83.306,421
+27819,Meeker,WV,Tyler County,,city-us,0,39.466,-80.788,183

@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47363,Locust Corner,NJ,,city-us,30045,40.26,-74.53,19046
-47364,Locust Corner,OH,,city-us,0,39.02,-84.28,301
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46366,Wharton,TX,Wharton County,,city-us,8589,29.312,-96.103,8730
+46364,Wharton,NJ,Morris County,,city-us,7239,40.893,-74.582,13820
+46363,Wharton,PA,Fayette County,,city-us,3339,39.780,-79.612,177
+46367,Wharton,OH,Wyandot County,,city-us,326,40.861,-83.462,3150
+46365,Wharton,PA,Potter County,,city-us,118,41.550,-77.936,177
+46362,Wharton,WV,Boone County,,city-us,0,37.903,-81.677,567

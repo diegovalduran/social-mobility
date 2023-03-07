@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27270,New Berlin,WI,,city-us,40375,42.98,-88.11,7359
-27266,New Berlin,IL,,city-us,1567,39.72,-89.89,631
-27267,New Berlin,NY,,city-us,892,42.62,-75.33,4452
-27268,New Berlin,PA,,city-us,785,40.88,-76.99,3250
-27269,New Berlin,TX,,city-us,679,29.46,-98.10,2632
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17824,Green Haven,MD,Anne Arundel County,,city-us,17415,39.138,-76.542,2892
+17823,Green Haven,MI,Alger County,,city-us,522,46.604,-86.049,3216

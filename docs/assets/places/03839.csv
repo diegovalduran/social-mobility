@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29322,Bridgeton,NJ,,city-us,26610,39.43,-75.23,25761
-29320,Bridgeton,MO,,city-us,11380,38.77,-90.41,9160
-29319,Bridgeton,MI,,city-us,2248,43.34,-85.97,1999
-29323,Bridgeton,PA,,city-us,1232,40.55,-75.12,5796
-29321,Bridgeton,NC,,city-us,343,35.12,-77.02,2399
-29318,Bridgeton,IN,,city-us,0,39.65,-87.18,8266
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19669,Hennepin,IL,Putnam County,,city-us,745,41.254,-89.342,4474
+19668,Hennepin,OK,Garvin County,,city-us,143,34.509,-97.347,546

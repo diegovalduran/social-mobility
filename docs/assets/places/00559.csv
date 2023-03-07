@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6376,Colt,AR,,city-us,286,35.13,-90.81,2468
-6377,Colt,LA,,city-us,0,30.30,-89.83,110
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2830,Beale,PA,Juniata County,,city-us,774,40.504,-77.515,3273
+2828,Beal,IN,Knox County,,city-us,0,38.577,-87.630,233
+2831,Beale,WV,Mason County,,city-us,0,38.767,-82.197,253

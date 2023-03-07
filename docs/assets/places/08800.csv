@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46419,Beckton,KY,,city-us,0,36.98,-86.04,83
-46420,Becton,TX,,city-us,0,33.78,-101.65,2669
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44169,Valley Park,MO,St. Louis County,,city-us,6826,38.549,-90.493,12328
+44167,Valley Park,MS,Issaquena County,,city-us,71,32.633,-90.867,1619
+44168,Valley Park,OK,Rogers County,,city-us,20,36.293,-95.737,1787

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17170,Torrington,CT,,city-us,35357,41.83,-73.13,21612
-17171,Torrington,WY,,city-us,6132,42.06,-104.18,9986
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9688,Conover,NC,Catawba County,,city-us,8478,35.707,-81.219,6417
+9690,Conover,WI,Vilas County,,city-us,1137,46.055,-89.258,4442
+9689,Conover,OH,Miami County,,city-us,0,40.135,-84.046,493

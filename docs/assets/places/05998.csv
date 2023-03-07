@@ -1,3 +1,33 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38101,Trego,WI,,city-us,907,45.92,-91.84,2126
-38100,Trego,MT,,city-us,824,48.71,-114.87,2463
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30685,New Hope,MN,Hennepin County,,city-us,21356,45.038,-93.387,4009
+30688,New Hope,MS,Lowndes County,,city-us,3478,33.468,-88.327,3200
+30689,New Hope,AL,Madison County,,city-us,2891,34.537,-86.394,4926
+30677,New Hope,PA,Bucks County,,city-us,2624,40.364,-74.951,12100
+30686,New Hope,OR,Josephine County,,city-us,1572,42.362,-123.368,471
+30690,New Hope,TN,Marion County,,city-us,976,35.005,-85.658,6559
+30705,New Hope,NC,Wayne County,,city-us,887,35.376,-77.883,971
+30698,New Hope,WI,Portage County,,city-us,709,44.551,-89.282,2110
+30674,New Hope,VA,Augusta County,,city-us,707,38.198,-78.906,322
+30680,New Hope,TX,Collin County,,city-us,664,33.210,-96.565,2009
+30693,New Hope,KY,Nelson County,,city-us,139,37.632,-85.508,372
+30676,New Hope,SD,Brown County,,city-us,101,45.294,-98.671,125
+30675,New Hope,OH,Brown County,,city-us,0,38.964,-83.912,243
+30678,New Hope,VA,Charles City County,,city-us,0,37.341,-77.061,108
+30679,New Hope,TX,Cherokee County,,city-us,0,31.924,-95.309,1041
+30681,New Hope,GA,Early County,,city-us,0,31.271,-84.826,258
+30682,New Hope,NC,Franklin County,,city-us,0,35.969,-78.336,318
+30683,New Hope,TX,Franklin County,,city-us,0,33.018,-95.169,604
+30684,New Hope,TX,Henderson County,,city-us,0,32.251,-95.596,98
+30687,New Hope,MO,Lincoln County,,city-us,0,39.137,-90.864,215
+30691,New Hope,WV,Mercer County,,city-us,0,37.339,-81.166,170
+30692,New Hope,WV,Morgan County,,city-us,0,39.597,-78.174,185
+30694,New Hope,IN,Owen County,,city-us,0,39.183,-86.828,2547
+30695,New Hope,GA,Paulding County,,city-us,0,33.967,-84.841,1393
+30696,New Hope,NC,Perquimans County,,city-us,0,36.154,-76.314,245
+30697,New Hope,AR,Pope County,,city-us,0,35.221,-93.114,101
+30699,New Hope,OH,Preble County,,city-us,0,39.792,-84.713,563
+30700,New Hope,IL,Saline County,,city-us,0,37.794,-88.689,142
+30701,New Hope,TX,Smith County,,city-us,0,32.171,-95.315,186
+30702,New Hope,NC,Surry County,,city-us,0,36.420,-80.712,520
+30703,New Hope,IN,Warrick County,,city-us,0,37.990,-87.223,154
+30704,New Hope,FL,Washington County,,city-us,0,30.578,-85.809,170

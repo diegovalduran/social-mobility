@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17209,West Haven,CT,,city-us,55294,41.27,-72.97,13594
-17210,West Haven,UT,,city-us,19880,41.20,-112.05,5086
-17212,West Haven,OR,,city-us,9299,45.52,-122.77,2936
-17211,West Haven,VT,,city-us,240,43.64,-73.36,1794
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9733,Cooks Mills,NJ,Monmouth County,,city-us,9957,40.293,-74.168,18740
+9732,Cooks Mills,IL,Coles County,,city-us,0,39.583,-88.406,190

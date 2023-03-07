@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44179,Chittenden,VT,,city-us,186,43.71,-72.95,2963
-44180,Chittenden,CA,,city-us,0,36.90,-121.61,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40193,Snowflake,AZ,Navajo County,,city-us,6364,34.513,-110.078,4320
+40192,Snowflake,WV,Greenbrier County,,city-us,0,37.747,-80.554,185
+40194,Snowflake,VA,Scott County,,city-us,0,36.690,-82.490,122

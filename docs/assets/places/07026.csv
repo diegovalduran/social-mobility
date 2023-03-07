@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41217,Stockdale,TX,,city-us,1435,29.24,-97.96,2813
-41216,Stockdale,PA,,city-us,422,40.08,-79.85,1916
-41215,Stockdale,OH,,city-us,0,38.96,-82.86,390
-41218,Stockdale,IN,,city-us,0,40.91,-85.94,386
-41219,Stockdale,MO,,city-us,0,39.29,-94.34,155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35706,Raber,MI,Chippewa County,,city-us,647,46.065,-84.155,4282
+35707,Raber,SD,Hughes County,,city-us,30,44.301,-99.834,128
+35708,Raber,IN,Whitley County,,city-us,0,41.086,-85.433,286

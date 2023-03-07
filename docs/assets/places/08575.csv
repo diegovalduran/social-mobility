@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45847,Cooks Mills,NJ,,city-us,9957,40.29,-74.17,18740
-45846,Cooks Mills,IL,,city-us,0,39.58,-88.41,190
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43093,Toluca,,,Mexico,city-international,223876,19.293,-99.657,35438
+43092,Toluca,IL,Marshall County,,city-us,1336,41.002,-89.133,3374
+43091,Toluca,NC,Cleveland County,,city-us,0,35.529,-81.511,105

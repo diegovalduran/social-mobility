@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47659,Mount Nebo,PA,,city-us,0,40.55,-80.11,174
-47660,Mount Nebo,WV,,city-us,0,38.20,-80.85,882
-47661,Mount Nebo,WV,,city-us,0,39.60,-79.71,132
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47062,Wilmer,TX,Dallas County,,city-us,5332,32.589,-96.685,6347
+47061,Wilmar,AR,Drew County,,city-us,389,33.629,-91.932,2262
+47063,Wilmer,AL,Mobile County,,city-us,0,30.823,-88.361,1419
+47064,Wilmer,LA,Tangipahoa Parish,,city-us,0,30.814,-90.362,232

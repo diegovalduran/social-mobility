@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35151,Sylvan Lake,MI,,city-us,1704,42.61,-83.33,3605
-35152,Sylvan Lake,IL,,city-us,0,42.24,-88.05,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26482,Malmo,,,Sweden,city-international,269349,55.583,13.033,32251
+26481,Malmo,NE,Saunders County,,city-us,95,41.266,-96.722,3069
+26480,Malmo,MN,Aitkin County,,city-us,0,46.334,-93.519,487

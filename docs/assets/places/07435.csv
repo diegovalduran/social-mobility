@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42618,Slippery Rock,PA,,city-us,6955,41.06,-80.03,430
-42619,Slippery Rock,PA,,city-us,2903,40.96,-80.22,430
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37771,Rover,AR,Yell County,,city-us,159,34.946,-93.406,1522
+37769,Rover,MO,Oregon County,,city-us,0,36.722,-91.621,378
+37770,Rover,WV,Wirt County,,city-us,0,39.014,-81.427,84

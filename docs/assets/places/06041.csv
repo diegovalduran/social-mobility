@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38266,Eastover,NC,,city-us,3675,35.10,-78.80,2904
-38267,Eastover,SC,,city-us,619,33.88,-80.69,3101
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30860,New Washington,OH,Crawford County,,city-us,860,40.962,-82.854,3075
+30858,New Washington,IN,Clark County,,city-us,490,38.563,-85.540,2333
+30859,New Washington,PA,Clearfield County,,city-us,52,40.823,-78.705,2013

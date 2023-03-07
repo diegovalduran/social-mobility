@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7624,Lacey,WA,,city-us,54461,47.03,-122.82,5999
-7623,Lacey,NJ,,city-us,29273,39.86,-74.27,18810
-7621,Lacey,AR,,city-us,139,33.45,-91.85,510
-7622,Lacey,KS,,city-us,129,39.44,-100.89,0
-7625,Lacy,IN,,city-us,0,38.63,-86.78,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3450,Benjamin,UT,Utah County,,city-us,1018,40.098,-111.731,2294
+3448,Benjamin,TX,Knox County,,city-us,200,33.584,-99.792,3788
+3449,Benjamin,MO,Lewis County,,city-us,0,40.162,-91.634,251

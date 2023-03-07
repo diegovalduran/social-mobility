@@ -1,14 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16318,Canaan,OH,,city-us,5117,40.99,-81.89,198
-16320,Canaan,PA,,city-us,3965,41.57,-75.38,2438
-16314,Canaan,NH,,city-us,3810,43.69,-72.04,6299
-16317,Canaan,OH,,city-us,2732,40.06,-83.31,198
-16313,Canaan,ME,,city-us,2191,44.78,-69.55,3060
-16316,Canaan,OH,,city-us,1589,39.31,-82.00,198
-16315,Canaan,NY,,city-us,1572,42.40,-73.46,5117
-16311,Canaan,CT,,city-us,1243,42.04,-73.33,3706
-16319,Canaan,OH,,city-us,906,40.60,-82.91,198
-16321,Canaan,VT,,city-us,898,44.99,-71.60,3964
-16312,Canaan,IN,,city-us,87,38.87,-85.30,4879
-16322,Canaan,MS,,city-us,0,34.93,-89.13,176
-16323,Canaan,WV,,city-us,0,38.74,-80.30,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9182,Coffee Creek,CA,Trinity County,,city-us,299,41.089,-122.709,2887
+9180,Coffee Creek,MT,Fergus County,,city-us,22,47.348,-110.082,1004
+9181,Coffee Creek,KY,Morgan County,,city-us,0,37.888,-83.066,88

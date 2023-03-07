@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29304,Borden,IN,,city-us,798,38.47,-85.95,9466
-29305,Borden,CA,,city-us,0,36.93,-120.03,804
-29306,Borden,TX,,city-us,0,29.69,-96.70,2205
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19656,Hendricks,MN,Lincoln County,,city-us,610,44.507,-96.424,5434
+19659,Hendricks,WV,Tucker County,,city-us,221,39.075,-79.631,3121
+19657,Hendricks,MI,Mackinac County,,city-us,118,46.129,-85.148,3522
+19663,Hendrix,OK,Bryan County,,city-us,62,33.774,-96.406,2592
+19658,Hendricks,KY,Magoffin County,,city-us,0,37.700,-83.123,216
+19664,Hendrix,IL,McLean County,,city-us,0,40.419,-88.978,245

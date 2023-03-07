@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22343,Luther,OK,,city-us,1496,35.66,-97.20,2795
-22341,Luther,MI,,city-us,337,44.04,-85.68,3557
-22340,Luther,IA,,city-us,149,41.97,-93.82,4061
-22342,Luther,MT,,city-us,30,45.28,-109.43,521
-22344,Luther,IN,,city-us,0,41.00,-85.57,404
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13360,Elkmont,AL,Limestone County,,city-us,429,34.929,-86.974,3653
+13361,Elkmount,ND,Grand Forks County,,city-us,40,48.150,-97.831,0

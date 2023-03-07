@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35336,Aldrich,MN,,city-us,455,46.41,-94.97,1850
-35337,Aldrich,MO,,city-us,77,37.55,-93.55,3529
-35338,Aldrich,AL,,city-us,0,33.11,-86.89,1340
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26695,Manzanita,OR,Tillamook County,,city-us,617,45.718,-123.935,4582
+26694,Manzanita,CA,San Diego County,,city-us,0,32.669,-116.290,232

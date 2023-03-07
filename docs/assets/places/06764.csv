@@ -1,3 +1,23 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40483,Horicon,WI,,city-us,3800,43.45,-88.63,5130
-40482,Horicon,NY,,city-us,1475,43.72,-73.71,3354
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34354,Pittsburgh,PA,Allegheny County,,city-us,300431,40.441,-79.996,87330
+34336,Pittsburg,CA,Contra Costa County,,city-us,76544,38.028,-121.885,17451
+34338,Pittsburg,KS,Crawford County,,city-us,20738,37.411,-94.705,14351
+34333,Pittsburg,TX,Camp County,,city-us,4374,32.995,-94.966,3916
+34349,Pittsburg,MI,Shiawassee County,,city-us,3168,42.919,-84.218,3758
+34337,Pittsburg,NH,Coos County,,city-us,795,45.145,-71.255,6372
+34353,Pittsburg,IL,Williamson County,,city-us,563,37.777,-88.850,2295
+34346,Pittsburg,KS,Mitchell County,,city-us,263,39.348,-98.440,1206
+34347,Pittsburg,OK,Pittsburg County,,city-us,177,34.713,-95.850,2593
+34334,Pittsburg,IN,Carroll County,,city-us,0,40.593,-86.702,618
+34335,Pittsburg,OR,Columbia County,,city-us,0,45.901,-123.151,784
+34339,Pittsburg,GA,DeKalb County,,city-us,0,33.881,-84.219,568
+34340,Pittsburg,IL,Fayette County,,city-us,0,38.871,-89.212,429
+34341,Pittsburg,SC,Greenwood County,,city-us,0,33.987,-82.003,248
+34342,Pittsburg,MO,Hickory County,,city-us,0,37.834,-93.301,376
+34343,Pittsburg,AR,Johnson County,,city-us,0,35.434,-93.376,280
+34344,Pittsburg,KY,Laurel County,,city-us,0,37.160,-84.104,207
+34345,Pittsburg,AL,Lawrence County,,city-us,0,34.525,-87.206,239
+34348,Pittsburg,FL,Polk County,,city-us,0,27.654,-81.502,414
+34350,Pittsburg,MS,Tishomingo County,,city-us,0,34.551,-88.206,232
+34351,Pittsburg,IA,Van Buren County,,city-us,0,40.746,-91.992,421
+34352,Pittsburg,GA,Walker County,,city-us,0,34.859,-85.433,415

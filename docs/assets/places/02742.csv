@@ -1,5 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22651,Nemaha,NE,,city-us,721,40.49,-96.63,209
-22650,Nemaha,KS,,city-us,128,39.96,-96.07,0
-22652,Nemaha,NE,,city-us,115,40.34,-95.67,3261
-22649,Nemaha,IA,,city-us,67,42.52,-95.09,3317
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13638,Emerald,WI,St. Croix County,,city-us,848,45.084,-92.309,2066
+13637,Emerald,OH,Paulding County,,city-us,767,41.213,-84.525,1187
+13634,Emerald,MN,Faribault County,,city-us,207,43.634,-93.951,1901
+13635,Emerald,NE,Lancaster County,,city-us,45,40.814,-96.835,396
+13636,Emerald,PA,Lehigh County,,city-us,0,40.745,-75.635,599
+13639,Emerald,WA,Yakima County,,city-us,0,46.303,-120.081,123

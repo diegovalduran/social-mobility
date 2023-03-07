@@ -1,16 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23637,Cary,NC,,city-us,176987,35.78,-78.82,33263
-23635,Cary,IL,,city-us,17848,42.21,-88.24,3835
-23638,Carey,OH,,city-us,3546,40.95,-83.38,6511
-23634,Carey,ID,,city-us,691,43.31,-113.94,4298
-23640,Cary,WI,,city-us,409,44.46,-90.25,2845
-23636,Cary,MS,,city-us,236,32.81,-90.93,1944
-23639,Carey,WI,,city-us,173,46.29,-90.20,1825
-23647,Carey,TX,,city-us,60,34.47,-100.33,153
-23641,Cary,GA,,city-us,0,32.52,-83.31,459
-23642,Carey,GA,,city-us,0,33.55,-83.27,262
-23643,Cary,IN,,city-us,0,39.71,-86.82,146
-23644,Carrie,KY,,city-us,0,37.33,-83.03,189
-23645,Carie,MO,,city-us,0,36.64,-90.94,213
-23646,Kerry,OR,,city-us,0,46.12,-123.35,326
-23648,Carrie,VA,,city-us,0,37.03,-82.21,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14591,Fargo,MI,St. Clair County,,city-us,1538,43.128,-82.698,2659
+14590,Fargo,KS,Seward County,,city-us,1259,37.127,-100.752,198
+14592,Fargo,WI,Vernon County,,city-us,923,43.456,-90.957,1970
+14586,Fargo,OK,Ellis County,,city-us,318,36.376,-99.624,3442
+14585,Fargo,GA,Clinch County,,city-us,254,30.682,-82.567,2770
+14587,Fargo,AR,Monroe County,,city-us,58,34.951,-91.180,2574
+14584,Fargo,ND,Cass County,,city-us,2,46.944,-96.795,31179
+14582,Fargo,IN,Benton County,,city-us,0,40.519,-87.279,180
+14583,Fargo,IL,Brown County,,city-us,0,39.974,-90.855,122
+14588,Fargo,OH,Morrow County,,city-us,0,40.358,-82.831,453
+14589,Fargo,IN,Orange County,,city-us,0,38.400,-86.483,403

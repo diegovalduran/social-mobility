@@ -1,11 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27272,New Boston,NH,,city-us,6167,42.98,-71.68,6812
-27275,New Boston,TX,,city-us,4579,33.46,-94.42,7003
-27273,New Boston,OH,,city-us,2282,38.75,-82.94,4353
-27271,New Boston,IL,,city-us,611,41.17,-91.00,2977
-27274,New Boston,PA,,city-us,124,40.80,-76.15,718
-27276,New Boston,IN,,city-us,0,38.00,-86.01,179
-27277,New Boston,IN,,city-us,0,38.06,-86.81,394
-27278,New Boston,IA,,city-us,0,40.56,-91.51,608
-27279,New Boston,MI,,city-us,0,42.16,-83.40,1424
-27280,New Boston,MO,,city-us,0,39.95,-92.86,390
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17828,Green Hill,TN,Wilson County,,city-us,7018,36.223,-86.549,3282
+17826,Green Hill,IN,Warren County,,city-us,125,40.414,-87.111,1876
+17825,Green Hill,AL,Lauderdale County,,city-us,0,34.973,-87.512,278
+17827,Green Hill,WV,Wetzel County,,city-us,0,39.638,-80.775,139

@@ -1,12 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30416,Walton,KY,,city-us,5530,38.86,-84.62,4092
-30419,Walton,NY,,city-us,5236,42.17,-75.13,4127
-30417,Walton,MI,,city-us,2011,42.47,-84.89,3716
-30413,Walton,IN,,city-us,951,40.66,-86.24,3538
-30414,Walton,KS,,city-us,475,38.12,-97.20,366
-30418,Walton,NE,,city-us,351,40.80,-96.56,1154
-30415,Walton,KS,,city-us,307,37.06,-97.20,8422
-30420,Walton,MI,,city-us,0,44.52,-85.40,1382
-30421,Walton,OR,,city-us,0,44.03,-123.58,676
-30422,Walton,TX,,city-us,0,32.36,-95.85,1709
-30423,Walton,WV,,city-us,0,38.64,-81.40,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20985,Hull,MA,Plymouth County,,city-us,10144,42.340,-70.883,14624
+20986,Hull,WI,Portage County,,city-us,5274,44.565,-89.559,2010
+20987,Hull,IA,Sioux County,,city-us,2417,43.189,-96.134,5581
+20982,Hull,WI,Marathon County,,city-us,762,44.895,-90.248,1931
+20980,Hull,TX,Liberty County,,city-us,669,30.146,-94.642,557
+20984,Hull,IL,Pike County,,city-us,384,39.707,-91.207,1794
+20981,Hull,GA,Madison County,,city-us,233,34.015,-83.294,2540
+20978,Hull,FL,DeSoto County,,city-us,0,27.119,-81.942,286
+20979,Hull,ND,Emmons County,,city-us,0,46.029,-100.125,254
+20983,Hull,WV,McDowell County,,city-us,0,37.487,-81.844,87

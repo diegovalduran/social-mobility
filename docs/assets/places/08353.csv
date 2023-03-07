@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45303,Twin Rocks,CA,,city-us,0,39.82,-123.57,122
-45304,Twin Rocks,OR,,city-us,0,45.60,-123.94,642
-45305,Twin Rocks,PA,,city-us,0,40.50,-78.87,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42233,Swan Creek,OH,Fulton County,,city-us,8517,41.537,-83.950,1381
+42234,Swan Creek,MI,Saginaw County,,city-us,2456,43.355,-84.126,2661
+42235,Swan Creek,IL,Warren County,,city-us,0,40.668,-90.655,127
+42236,Swan Creek,NC,Yadkin County,,city-us,0,36.098,-80.760,714

@@ -1,14 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4748,Sanford,FL,,city-us,60681,28.80,-81.27,16932
-4752,Sanford,NC,,city-us,30678,35.48,-79.18,10419
-4749,Sanford,ME,,city-us,22135,43.44,-70.77,12534
-4753,Sanford,NY,,city-us,2221,42.09,-75.50,4147
-4747,Sanford,CO,,city-us,905,37.26,-105.90,2256
-4750,Sanford,MI,,city-us,757,43.67,-84.38,4684
-4746,Sanford,AL,,city-us,258,31.30,-86.39,2005
-4751,Sanford,MN,,city-us,142,45.97,-95.95,1802
-4754,Sanford,TX,,city-us,134,35.70,-101.53,2505
-4755,Sanford,VA,,city-us,50,37.93,-75.66,576
-4756,Sanford,GA,,city-us,0,31.98,-84.94,316
-4757,Sanford,KS,,city-us,0,38.18,-99.31,239
-4758,Sanford,MS,,city-us,0,31.49,-89.43,2902
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2841,Bear,DE,New Castle County,,city-us,21625,39.629,-75.658,8737
+2180,Baer,ND,Hettinger County,,city-us,23,46.242,-102.055,0
+2839,Bear,ID,Adams County,,city-us,0,45.024,-116.672,193
+2840,Bear,AR,Garland County,,city-us,0,34.534,-93.274,1690

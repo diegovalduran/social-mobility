@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43007,Cow Creek,SD,,city-us,52,44.55,-100.48,311
-43008,Cow Creek,KY,,city-us,0,37.44,-83.61,378
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38377,Saluda,SC,Saluda County,,city-us,3069,34.002,-81.772,3377
+38376,Saluda,VA,Middlesex County,,city-us,625,37.606,-76.595,881
+38373,Saluda,NC,Henderson County / Polk County,,city-us,613,35.238,-82.347,8968
+38374,Saluda,IN,Jefferson County,,city-us,0,38.651,-85.485,285
+38375,Saluda,IL,Knox County,,city-us,0,40.872,-90.394,73

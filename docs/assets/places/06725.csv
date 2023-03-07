@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40387,Corfu,NY,,city-us,698,42.96,-78.41,2833
-40388,Corfu,WA,,city-us,0,46.81,-119.46,792
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34175,Pine Mountain,GA,Harris County / Meriwether County,,city-us,1254,32.852,-84.852,460
+34174,Pine Mountain,KY,Harlan County,,city-us,0,36.949,-83.182,537
+34176,Pine Mountain,GA,Rabun County,,city-us,0,34.940,-83.187,1146

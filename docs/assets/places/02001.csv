@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17881,Fort Meade,MD,,city-us,11253,39.11,-76.74,5216
-17880,Fort Meade,FL,,city-us,5148,27.75,-81.80,8096
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10142,Coventry,,,United Kingdom,city-international,362690,52.408,-1.511,69180
+10139,Coventry,RI,Kent County,,city-us,35676,41.698,-71.663,10129
+10137,Coventry,CT,Capitol Planning Region,,city-us,12205,41.780,-72.344,11817
+10141,Coventry,OH,Summit County,,city-us,10170,41.005,-81.535,2770
+10138,Coventry,NY,Chenango County,,city-us,1504,42.291,-75.629,3359
+10140,Coventry,VT,Orleans County,,city-us,44,44.866,-72.265,6645

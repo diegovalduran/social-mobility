@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18400,Oviedo,,Spain,city-international,217552,43.36,-5.84,26679
-18399,Oviedo,FL,,city-us,39559,28.67,-81.21,17643
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10543,Croydon,PA,Bucks County,,city-us,9860,40.087,-74.903,4028
+10545,Croydon,NH,Sullivan County,,city-us,823,43.444,-72.178,3932
+10544,Croydon,UT,Morgan County,,city-us,0,41.069,-111.514,853

@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5988,Branch,PA,,city-us,1759,40.67,-76.26,1786
-5986,Branch,LA,,city-us,444,30.35,-92.27,312
-5985,Branch,AR,,city-us,301,35.31,-93.95,2172
-5987,Branch,MI,,city-us,238,43.95,-85.98,3068
-5989,Branch,MO,,city-us,0,37.91,-93.01,404
-5990,Branch,TX,,city-us,0,33.10,-96.52,4987
-5991,Branch,WI,,city-us,0,44.15,-87.76,266
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2732,Bay,AR,Craighead County,,city-us,1851,35.742,-90.562,3337
+2731,Bay,MI,Charlevoix County,,city-us,1147,45.299,-85.048,2672
+2734,Bay,OH,Ottawa County,,city-us,1122,41.483,-83.016,1383
+2733,Bay,MO,Gasconade County,,city-us,0,38.508,-91.559,339

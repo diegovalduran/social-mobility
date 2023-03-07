@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9937,Citrus Park,FL,,city-us,27440,28.07,-82.56,3735
-9936,Citrus Park,AZ,,city-us,5640,33.55,-112.44,767
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4495,Blue Hill,ME,Hancock County,,city-us,2831,44.402,-68.528,6052
+4497,Blue Hill,MN,Sherburne County,,city-us,2558,45.515,-93.693,1931
+4498,Blue Hill,NE,Webster County,,city-us,830,40.333,-98.449,3846
+4496,Blue Hill,KS,Mitchell County,,city-us,28,39.257,-98.329,173

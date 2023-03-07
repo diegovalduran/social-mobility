@@ -1,18 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3549,Livingston,NJ,,city-us,31087,40.79,-74.33,41651
-3543,Livingston,CA,,city-us,14528,37.39,-120.72,9672
-3548,Livingston,MT,,city-us,8386,45.66,-110.56,13857
-3553,Livingston,TX,,city-us,5829,30.71,-94.93,8356
-3552,Livingston,TN,,city-us,3994,36.38,-85.32,3239
-3550,Livingston,NY,,city-us,3663,42.14,-73.80,3729
-3542,Livingston,AL,,city-us,3153,32.58,-88.19,6546
-3547,Livingston,MI,,city-us,2674,45.08,-84.68,2176
-3546,Livingston,LA,,city-us,1912,30.50,-90.75,4013
-3544,Livingston,IL,,city-us,766,38.97,-89.76,2416
-3554,Livingston,WI,,city-us,640,42.90,-90.43,3529
-3545,Livingston,KY,,city-us,165,37.30,-84.21,3104
-3551,Livingston,SC,,city-us,130,33.55,-81.12,1833
-3555,Livingston,GA,,city-us,0,34.21,-85.35,288
-3556,Livingston,IL,,city-us,0,39.41,-87.65,150
-3557,Livingston,MS,,city-us,0,32.55,-90.22,1613
-3558,Livingston,WV,,city-us,0,38.16,-81.41,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1558,Arrington,VA,Nelson County,,city-us,953,37.684,-78.901,661
+1559,Arrington,IL,Wayne County,,city-us,310,38.366,-88.527,287
+1557,Arrington,KS,Atchison County,,city-us,0,39.463,-95.536,190
+1560,Arrington,TN,Williamson County,,city-us,0,35.868,-86.710,1851

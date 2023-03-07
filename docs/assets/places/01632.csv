@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15159,Eads,CO,,city-us,675,38.48,-102.78,3372
-15160,Eads,TN,,city-us,0,35.20,-89.65,1575
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8282,Chilton,WI,Calumet County,,city-us,3990,44.029,-88.163,2385
+8284,Chilton,TX,Falls County,,city-us,988,31.280,-97.064,786
+8285,Chilton,ND,Hettinger County,,city-us,17,46.331,-102.495,0
+8283,Chilton,MO,Carter County,,city-us,0,36.933,-90.921,375

@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44744,Thane,,India,city-international,1886941,19.18,72.96,8206
-44743,Thayne,WY,,city-us,391,42.92,-111.00,3424
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41190,Standard,IL,Putnam County,,city-us,223,41.257,-89.181,2469
+41188,Standard,WV,Kanawha County,,city-us,0,38.136,-81.401,216
+41189,Standard,LA,LaSalle Parish,,city-us,0,31.918,-92.220,193
+41191,Standard,IN,Sullivan County,,city-us,0,39.196,-87.389,229
+41192,Standard,CA,Tuolumne County,,city-us,0,37.967,-120.312,447
+41193,Standard,LA,Vernon Parish,,city-us,0,31.156,-93.361,85

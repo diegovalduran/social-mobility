@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36055,Lauderdale,MN,,city-us,2212,45.00,-93.21,4251
-36056,Lauderdale,MS,,city-us,395,32.52,-88.51,868
-36057,Lauderdale,WI,,city-us,0,42.77,-88.56,323
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27647,McNutt,WV,Braxton County,,city-us,0,38.695,-80.669,88
+27648,McNutt,MS,Leflore County,,city-us,0,33.647,-90.372,1358

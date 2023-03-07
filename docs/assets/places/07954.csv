@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44202,Boyds,MD,,city-us,10460,39.18,-77.31,4900
-44201,Boyds,WA,,city-us,28,48.71,-118.13,500
-44203,Boyds,OH,,city-us,0,39.49,-83.38,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40218,Soda Springs,ID,Caribou County,,city-us,3118,42.654,-111.605,4633
+40220,Soda Springs,CA,Nevada County,,city-us,54,39.323,-120.380,3440
+40217,Soda Springs,TX,Caldwell County,,city-us,0,29.719,-97.599,1319
+40219,Soda Springs,CA,Mendocino County,,city-us,0,39.423,-123.434,495
+40221,Soda Springs,CA,Placer County,,city-us,0,39.247,-120.325,584

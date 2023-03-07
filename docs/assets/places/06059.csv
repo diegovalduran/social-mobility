@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38333,Keener,NC,,city-us,155,35.11,-78.32,1880
-38334,Keener,AL,,city-us,0,34.16,-85.95,444
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30980,Newkirk,OK,Kay County,,city-us,2186,36.882,-97.053,7979
+30981,Newkirk,MI,Lake County,,city-us,739,44.093,-85.746,1903
+30979,Newkirk,NM,Guadalupe County,,city-us,0,35.068,-104.265,785
+30982,Newkirk,PA,Schuylkill County,,city-us,0,40.791,-75.993,133

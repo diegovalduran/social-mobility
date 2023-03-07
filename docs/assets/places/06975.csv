@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41070,Nile,OH,,city-us,2343,38.70,-83.18,1636
-41071,Nile,WA,,city-us,0,46.82,-120.94,745
-41072,Nile,MO,,city-us,0,37.36,-91.67,551
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35473,Prospect Park,NJ,Mercer County,,city-us,37264,40.263,-74.799,24551
+35472,Prospect Park,PA,Delaware County,,city-us,6378,39.888,-75.308,4479
+35474,Prospect Park,NJ,Passaic County,,city-us,6285,40.937,-74.174,12111
+35471,Prospect Park,PA,Cameron County,,city-us,416,41.517,-78.216,297

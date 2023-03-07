@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8574,Prairie Creek,AR,,city-us,2274,36.34,-94.06,2632
-8575,Prairie Creek,IL,,city-us,394,40.27,-89.55,291
-8577,Prairie Creek,NE,,city-us,327,41.11,-98.21,278
-8578,Prairie Creek,NE,,city-us,117,41.36,-97.76,278
-8576,Prairie Creek,IN,,city-us,0,39.27,-87.50,1051
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3983,Bigelow,MN,Nobles County,,city-us,368,43.555,-95.619,3227
+3984,Bigelow,AR,Perry County,,city-us,347,35.001,-92.630,2886
+3982,Bigelow,KS,Marshall County,,city-us,40,39.608,-96.531,537
+3981,Bigelow,MO,Holt County,,city-us,5,40.111,-95.290,2832

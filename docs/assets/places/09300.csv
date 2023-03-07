@@ -1,3 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47593,Merrittstown,OH,,city-us,0,39.49,-84.20,183
-47594,Merrittstown,PA,,city-us,0,39.97,-79.88,230
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46911,Williams,PA,Northampton County,,city-us,6573,40.630,-75.226,187
+46902,Williams,CA,Colusa County,,city-us,5615,39.155,-122.149,4338
+46899,Williams,MI,Bay County,,city-us,5014,43.619,-84.113,3053
+46912,Williams,IL,Sangamon County,,city-us,3420,39.925,-89.545,342
+46900,Williams,AZ,Coconino County,,city-us,3267,35.249,-112.191,9805
+46905,Williams,OR,Josephine County,,city-us,1102,42.219,-123.273,1718
+46903,Williams,PA,Dauphin County,,city-us,1064,40.591,-76.630,187
+46904,Williams,IA,Hamilton County,,city-us,305,42.488,-93.545,4352
+46907,Williams,MN,Lake of the Woods County,,city-us,156,48.768,-94.955,3834
+46908,Williams,IN,Lawrence County,,city-us,129,38.804,-86.647,2750
+46898,Williams,MN,Aitkin County,,city-us,123,46.201,-93.244,2565
+46901,Williams,SC,Colleton County,,city-us,96,33.035,-80.843,2012
+46910,Williams,ND,Nelson County,,city-us,35,47.984,-98.194,0
+46906,Williams,ND,Kidder County,,city-us,13,46.926,-99.490,0
+46897,Williams,IN,Adams County,,city-us,0,40.919,-84.975,400
+46909,Williams,VA,Mathews County,,city-us,0,37.401,-76.328,185

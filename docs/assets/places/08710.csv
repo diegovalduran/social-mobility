@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46198,Stumptown,IN,,city-us,0,39.85,-87.27,154
-46199,Stumptown,VA,,city-us,0,39.21,-77.55,127
-46200,Stumptown,VA,,city-us,0,37.34,-75.95,108
-46201,Stumptown,WV,,city-us,0,38.85,-80.99,399
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43614,Twin Rocks,PA,Cambria County,,city-us,0,40.497,-78.866,251
+43615,Twin Rocks,CA,Mendocino County,,city-us,0,39.823,-123.565,122
+43616,Twin Rocks,OR,Tillamook County,,city-us,0,45.598,-123.945,642

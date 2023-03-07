@@ -1,3 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41426,Foss,OK,,city-us,102,35.45,-99.17,4113
-41427,Foss,OR,,city-us,0,45.70,-123.80,695
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35969,Raymond,ME,Cumberland County,,city-us,4563,43.918,-70.468,5909
+35977,Raymond,WI,Racine County,,city-us,3926,42.801,-88.013,2653
+35979,Raymond,NH,Rockingham County,,city-us,3778,43.036,-71.183,6123
+35976,Raymond,WA,Pacific County,,city-us,3146,46.686,-123.733,4756
+35971,Raymond,MS,Hinds County,,city-us,1857,32.259,-90.423,3871
+35975,Raymond,IL,Montgomery County,,city-us,938,39.319,-89.572,2525
+35966,Raymond,MN,Chippewa County / Kandiyohi County,,city-us,794,45.018,-95.237,3468
+35962,Raymond,IA,Black Hawk County,,city-us,752,42.469,-92.220,3317
+35965,Raymond,IL,Champaign County,,city-us,345,39.923,-88.066,224
+35981,Raymond,MN,Stearns County,,city-us,238,45.627,-95.085,1909
+35964,Raymond,ND,Cass County,,city-us,226,46.941,-96.979,0
+35972,Raymond,NE,Knox County,,city-us,184,42.783,-98.183,289
+35973,Raymond,NE,Lancaster County,,city-us,159,40.957,-96.783,4352
+35978,Raymond,KS,Rice County,,city-us,85,38.277,-98.416,3683
+35967,Raymond,SD,Clark County,,city-us,49,44.912,-97.939,3526
+35963,Raymond,KY,Breckinridge County,,city-us,0,37.939,-86.365,163
+35968,Raymond,GA,Coweta County,,city-us,0,33.339,-84.715,248
+35970,Raymond,IN,Franklin County,,city-us,0,39.472,-84.849,253
+35974,Raymond,CA,Madera County,,city-us,0,37.217,-119.906,1443
+35980,Raymond,MT,Sheridan County,,city-us,0,48.876,-104.580,735
+35982,Raymond,OH,Union County,,city-us,0,40.335,-83.466,868

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24254,Barnhill,OH,,city-us,376,40.45,-81.37,3007
-24253,Barnhill,IL,,city-us,0,38.28,-88.36,202
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15095,Fleetwood,PA,Berks County,,city-us,4051,40.454,-75.818,3940
+15094,Fleetwood,NC,Ashe County,,city-us,0,36.306,-81.513,274
+15096,Fleetwood,OK,Jefferson County,,city-us,0,33.897,-97.851,221
+15097,Fleetwood,OR,Lake County,,city-us,0,43.356,-120.874,9761

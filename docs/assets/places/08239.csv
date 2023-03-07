@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45012,Creech,AR,,city-us,0,36.23,-94.04,192
-45013,Creech,KY,,city-us,0,36.77,-83.39,150
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41653,Stow,OH,Summit County,,city-us,34342,41.160,-81.440,11486
+41651,Stow,MA,Middlesex County,,city-us,7059,42.430,-71.513,13851
+41654,Stowe,PA,Allegheny County,,city-us,6334,40.480,-80.070,4093
+41657,Stowe,PA,Montgomery County,,city-us,3616,40.253,-75.677,2633
+41655,Stowe,VT,Lamoille County,,city-us,823,44.465,-72.685,15399
+41652,Stow,ME,Oxford County,,city-us,409,44.201,-70.972,2957
+41656,Stowe,WV,Logan County,,city-us,0,37.806,-81.759,168

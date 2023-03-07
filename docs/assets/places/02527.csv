@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21280,Cedar Falls,IA,,city-us,40388,42.53,-92.45,13545
-21281,Cedar Falls,NC,,city-us,0,35.75,-79.73,254
-21282,Cedar Falls,WA,,city-us,0,47.43,-121.78,384
-21283,Cedar Falls,WI,,city-us,0,44.94,-91.88,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12612,Eagle River,WI,Vilas County,,city-us,1678,45.917,-89.244,8263
+12611,Eagle River,MI,Keweenaw County,,city-us,65,47.414,-88.296,2477

@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41493,Long,OK,,city-us,339,35.50,-94.58,2383
-41494,Long,WA,,city-us,0,46.29,-118.03,130
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36047,Red Bank,NJ,Gloucester County,,city-us,22197,39.842,-75.185,13331
+36050,Red Bank,NJ,Monmouth County,,city-us,12920,40.347,-74.064,27114
+36048,Red Bank,TN,Hamilton County,,city-us,11873,35.112,-85.294,6063
+36049,Red Bank,SC,Lexington County,,city-us,10070,33.932,-81.238,2947
+36045,Red Bank,TX,Bowie County,,city-us,0,33.525,-94.243,847
+36046,Red Bank,MO,Douglas County,,city-us,0,36.938,-92.811,498
+36051,Red Bank,VA,Northampton County,,city-us,0,37.445,-75.842,107
+36052,Red Bank,CA,Tehama County,,city-us,0,40.099,-122.445,272
+36053,Red Bank,IN,Vanderburgh County,,city-us,0,37.971,-87.626,1105

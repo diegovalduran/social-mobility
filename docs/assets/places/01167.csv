@@ -1,19 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11908,Edgewood,MD,,city-us,25004,39.42,-76.29,4679
-11914,Edgewood,WA,,city-us,12665,47.25,-122.29,5288
-11907,Edgewood,KY,,city-us,8387,39.02,-84.58,3527
-11909,Edgewood,NM,,city-us,6154,35.13,-106.22,4951
-11910,Edgewood,OH,,city-us,4441,41.87,-80.77,2113
-11911,Edgewood,PA,,city-us,3093,40.43,-79.88,4327
-11903,Edgewood,FL,,city-us,2666,28.49,-81.37,2268
-11912,Edgewood,PA,,city-us,2237,40.79,-76.57,1948
-11906,Edgewood,IN,,city-us,2050,40.10,-85.73,3193
-11913,Edgewood,TX,,city-us,1592,32.70,-95.89,963
-11904,Edgewood,IA,,city-us,897,42.64,-91.40,3588
-11916,Edgewood,MI,,city-us,656,43.34,-84.43,2234
-11905,Edgewood,IL,,city-us,391,38.92,-88.66,2606
-11902,Edgewood,CA,,city-us,47,41.46,-122.43,4191
-11915,Edgewood,IL,,city-us,0,42.24,-88.92,139
-11917,Edgewood,MN,,city-us,0,45.54,-93.23,594
-11918,Edgewood,MO,,city-us,0,39.27,-91.07,440
-11919,Edgewood,WV,,city-us,0,38.38,-81.64,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5854,Buckhorn,CA,Amador County,,city-us,2522,38.452,-120.529,2302
+5858,Buckhorn,PA,Columbia County,,city-us,513,41.019,-76.501,3099
+5862,Buckhorn,KY,Perry County,,city-us,81,37.349,-83.476,2478
+5859,Buckhorn,NM,Grant County,,city-us,72,33.037,-108.708,315
+5855,Buckhorn,TX,Austin County,,city-us,0,30.039,-96.200,1214
+5856,Buckhorn,MI,Berrien County,,city-us,0,42.002,-86.404,190
+5857,Buckhorn,IL,Brown County,,city-us,0,39.937,-90.836,129
+5860,Buckhorn,MO,Madison County,,city-us,0,37.338,-90.289,555
+5861,Buckhorn,NC,Orange County,,city-us,0,36.071,-79.225,138
+5863,Buckhorn,MO,Pulaski County,,city-us,0,37.783,-92.269,605
+5864,Buckhorn,CA,Ventura County,,city-us,0,34.401,-118.816,1256

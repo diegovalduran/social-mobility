@@ -1,3 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1815,Daviston,SC,,city-us,249,33.89,-79.38,534
-1814,Daviston,AL,,city-us,174,33.05,-85.64,3826
+id,name,state,county,country,level,population,latitude,longitude,wiki
+944,Amboy,IL,Lee County,,city-us,2795,41.713,-89.343,1070
+942,Amboy,OH,Fulton County,,city-us,1862,41.693,-83.928,1565
+940,Amboy,WA,Clark County,,city-us,1832,45.910,-122.446,3202
+946,Amboy,NY,Oswego County,,city-us,1258,43.377,-75.918,18925
+943,Amboy,MI,Hillsdale County,,city-us,1164,41.716,-84.602,3073
+939,Amboy,MN,Blue Earth County,,city-us,531,43.888,-94.157,5787
+945,Amboy,IN,Miami County,,city-us,319,40.601,-85.929,3193
+941,Amboy,MN,Cottonwood County,,city-us,140,44.065,-95.160,2046
+948,Amboy,CA,San Bernardino County,,city-us,5,34.557,-115.745,7194
+947,Amboy,WV,Preston County,,city-us,0,39.348,-79.568,87
+949,Amboy,GA,Turner County,,city-us,0,31.792,-83.587,267
+950,Amboy,NE,Webster County,,city-us,0,40.090,-98.439,278

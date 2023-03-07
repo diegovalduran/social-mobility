@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17315,Ellendale,MN,,city-us,673,43.87,-93.30,3140
-17314,Ellendale,DE,,city-us,511,38.81,-75.42,20718
-17316,Ellendale,ND,,city-us,132,45.97,-98.58,141
-17317,Ellendale,TN,,city-us,0,35.23,-89.83,957
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9797,Cope,SC,Orangeburg County,,city-us,33,33.378,-81.007,1937
+9796,Cope,IN,Morgan County,,city-us,0,39.450,-86.319,255
+9798,Cope,CO,Washington County,,city-us,0,39.669,-102.850,803

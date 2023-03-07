@@ -1,11 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31371,Maple,KS,,city-us,745,37.43,-97.10,395
-31375,Maple,WI,,city-us,649,46.59,-91.72,2400
-31372,Maple,MN,,city-us,429,46.60,-94.47,2339
-31374,Maple,NE,,city-us,318,41.52,-96.63,241
-31373,Maple,ND,,city-us,48,46.15,-98.45,135
-31376,Maple,MN,,city-us,0,44.88,-93.82,177
-31377,Maple,NC,,city-us,0,36.42,-76.03,1669
-31378,Maple,TX,,city-us,0,33.85,-102.90,1199
-31379,Maple,TX,,city-us,0,33.46,-95.00,111
-31380,Maple,WV,,city-us,0,39.71,-80.36,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22074,Jenkinsville,SC,Fairfield County,,city-us,39,34.267,-81.288,776
+22075,Jenkinsville,WI,Lafayette County,,city-us,0,42.635,-90.370,120
+22076,Jenkinsville,IN,Putnam County,,city-us,0,39.533,-86.875,163

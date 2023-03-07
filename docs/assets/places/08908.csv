@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46680,Kodak,KY,,city-us,0,37.21,-83.03,123
-46681,Kodak,TN,,city-us,0,35.97,-83.63,2609
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44699,Vista,CA,San Diego County,,city-us,98655,33.200,-117.243,18822
+44700,Vista,MO,St. Clair County,,city-us,36,37.988,-93.664,1429
+44698,Vista,IA,Buchanan County,,city-us,0,42.413,-91.987,357
+44701,Vista,MN,Waseca County,,city-us,0,43.957,-93.467,99

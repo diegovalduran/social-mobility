@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14551,Verdi,NV,,city-us,1094,39.52,-119.99,3589
-14549,Verdi,CA,,city-us,165,39.52,-120.01,2663
-14550,Verdi,MN,,city-us,0,44.21,-96.35,495
-14552,Verdi,IA,,city-us,0,41.24,-91.78,229
-14553,Verdi,KS,,city-us,0,38.99,-97.50,337
-14554,Verdi,TX,,city-us,0,29.05,-98.40,2857
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7821,Champlain,NY,Clinton County,,city-us,5694,44.966,-73.437,5184
+7822,Champlain,VA,Essex County,,city-us,0,38.013,-76.993,332

@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18233,Marathon,FL,,city-us,9744,24.71,-81.09,9223
-18235,Marathon,MI,,city-us,4448,43.19,-83.40,2069
-18239,Marathon,WI,,city-us,998,44.89,-89.78,2202
-18236,Marathon,NY,,city-us,910,42.44,-76.03,3953
-18238,Marathon,TX,,city-us,427,30.21,-103.24,3474
-18234,Marathon,IA,,city-us,232,42.86,-94.98,3229
-18237,Marathon,OH,,city-us,0,39.14,-84.01,457
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10409,Cromers,GA,Franklin County,,city-us,0,34.276,-83.266,403
+10410,Cromers,OH,Seneca County,,city-us,0,41.182,-83.215,229

@@ -1,13 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30775,Coldwater,OH,,city-us,4721,40.48,-84.63,4249
-30772,Coldwater,MI,,city-us,3416,41.92,-84.97,215
-30774,Coldwater,MS,,city-us,1394,34.69,-89.98,5137
-30771,Coldwater,KS,,city-us,890,37.20,-99.19,808
-30773,Coldwater,MI,,city-us,822,43.77,-85.02,215
-30779,Coldwater,TX,,city-us,53,36.46,-102.63,160
-30776,Coldwater,GA,,city-us,0,34.22,-82.80,197
-30777,Coldwater,KY,,city-us,0,36.65,-88.46,250
-30778,Coldwater,MO,,city-us,0,37.30,-90.41,525
-30780,Coldwater,TX,,city-us,0,32.90,-95.24,179
-30781,Coldwater,VA,,city-us,0,37.65,-76.73,93
-30782,Coldwater,WV,,city-us,0,39.17,-80.63,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21392,Inez,TX,Victoria County,,city-us,2385,28.904,-96.788,3064
+21391,Inez,KY,Martin County,,city-us,535,37.866,-82.539,4121
+21389,Inez,WV,Cabell County,,city-us,0,38.357,-82.239,85
+21390,Inez,NE,Holt County,,city-us,0,42.291,-99.001,168

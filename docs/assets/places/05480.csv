@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36305,Olivia,MN,,city-us,2337,44.78,-94.99,4711
-36307,Olivia,PA,,city-us,59,40.71,-78.20,538
-36306,Olivia,ND,,city-us,36,47.90,-100.77,0
-36308,Olivia,NC,,city-us,0,35.36,-79.11,1030
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28040,Merton,WI,Waukesha County,,city-us,8279,43.157,-88.364,2719
+28038,Merton,SD,Clark County,,city-us,35,44.769,-97.646,4967
+28039,Merton,MN,Steele County,,city-us,0,44.146,-93.147,344

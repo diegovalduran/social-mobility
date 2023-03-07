@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40018,Wrightstown,WI,,city-us,3237,44.33,-88.18,4131
-40019,Wrightstown,WI,,city-us,2621,44.33,-88.10,3379
-40016,Wrightstown,NJ,,city-us,717,40.04,-74.62,13232
-40017,Wrightstown,PA,,city-us,0,40.27,-74.98,227
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33506,Pemberton,NJ,Burlington County,,city-us,26808,39.959,-74.605,16339
+33505,Pemberton,MN,Blue Earth County,,city-us,232,44.009,-93.783,3063
+33507,Pemberton,VA,Goochland County,,city-us,0,37.675,-78.085,1880
+33508,Pemberton,WV,Raleigh County,,city-us,0,37.718,-81.219,250
+33509,Pemberton,OH,Shelby County,,city-us,0,40.295,-84.032,319

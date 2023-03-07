@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45584,Dry Branch,GA,,city-us,0,32.80,-83.50,487
-45585,Dry Branch,VA,,city-us,0,37.23,-80.62,93
-45586,Dry Branch,WV,,city-us,0,38.18,-81.47,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42695,Teton,ID,Fremont County,,city-us,806,43.887,-111.678,3113
+42696,Teton,SD,Stanley County,,city-us,0,44.287,-100.508,153

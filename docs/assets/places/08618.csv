@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45964,Daysville,IL,,city-us,0,41.98,-89.32,283
-45965,Daysville,WV,,city-us,0,38.96,-80.16,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43220,Trappe,PA,Montgomery County,,city-us,4008,40.199,-75.476,4892
+43221,Trappe,MD,Talbot County,,city-us,1182,38.658,-76.058,4442
+43218,Trapp,KY,Clark County,,city-us,0,37.883,-84.055,378
+43219,Trapp,VA,Loudoun County,,city-us,0,39.058,-77.866,123

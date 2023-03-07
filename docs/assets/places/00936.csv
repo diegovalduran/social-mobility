@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10276,New River,AZ,,city-us,17731,33.92,-112.14,5873
-10277,New River,VA,,city-us,412,37.13,-80.59,357
-10278,New River,TN,,city-us,0,36.38,-84.55,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4710,Bonn,,,Germany,city-international,330579,50.734,7.100,39124
+4709,Bonn,OH,Washington County,,city-us,0,39.531,-81.385,297

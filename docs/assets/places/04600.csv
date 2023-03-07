@@ -1,12 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32766,Oil City,PA,,city-us,9496,41.43,-79.71,14473
-32770,Oil City,MI,,city-us,1788,43.60,-84.55,2513
-32765,Oil City,LA,,city-us,876,32.74,-93.97,3516
-32774,Oil City,WA,,city-us,5,47.75,-124.43,1112
-32767,Oil City,CA,,city-us,0,35.43,-118.96,338
-32768,Oil City,KY,,city-us,0,37.03,-85.98,84
-32769,Oil City,MD,,city-us,0,38.91,-75.81,148
-32771,Oil City,MS,,city-us,0,32.69,-90.43,620
-32772,Oil City,OK,,city-us,0,34.27,-97.42,323
-32773,Oil City,PA,,city-us,0,40.40,-78.64,306
-32775,Oil City,WI,,city-us,0,43.75,-90.59,511
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23549,Lake Cherokee,TX,Gregg County / Rusk County,,city-us,3336,32.360,-94.650,1892
+23548,Lake Cherokee,TX,Gregg County,,city-us,2980,32.357,-94.651,1892

@@ -1,19 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25524,Forest,VA,,city-us,11045,37.36,-79.29,7035
-25522,Forest,MS,,city-us,5339,32.36,-89.47,3634
-25518,Forest,MI,,city-us,4418,43.18,-83.53,214
-25514,Forrest,IL,,city-us,1393,40.72,-88.42,437
-25523,Forest,OH,,city-us,1351,40.80,-83.51,3388
-25521,Forest,MN,,city-us,1338,44.41,-93.34,206
-25519,Forest,MI,,city-us,1199,44.38,-85.16,214
-25517,Forest,MI,,city-us,979,45.29,-84.32,214
-25525,Forest,WI,,city-us,974,43.75,-88.21,2198
-25528,Forest,WI,,city-us,619,43.69,-90.49,1774
-25527,Forest,WI,,city-us,590,45.14,-92.26,1946
-25526,Forest,WI,,city-us,334,43.51,-90.63,1912
-25516,Forest,LA,,city-us,288,32.79,-91.41,2810
-25520,Forest,MN,,city-us,124,47.11,-95.36,206
-25515,Forest,IN,,city-us,0,40.37,-86.33,1357
-25529,Forest,CA,,city-us,0,39.49,-120.85,1727
-25530,Forest,TX,,city-us,0,31.52,-95.01,1340
-25531,Forest,WA,,city-us,0,46.60,-122.86,779
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16421,Garrison,MD,Baltimore County,,city-us,9727,39.406,-76.761,2915
+16428,Garrison,ND,McLean County,,city-us,1432,47.652,-101.416,4012
+16426,Garrison,MN,Crow Wing County,,city-us,861,46.286,-93.880,1958
+16430,Garrison,TX,Nacogdoches County,,city-us,793,31.824,-94.491,2642
+16427,Garrison,KY,Lewis County,,city-us,731,38.606,-83.173,475
+16422,Garrison,IA,Benton County,,city-us,346,42.144,-92.144,3957
+16431,Garrison,MT,Powell County,,city-us,89,46.523,-112.812,2885
+16424,Garrison,NE,Butler County,,city-us,56,41.177,-97.167,3406
+16423,Garrison,WV,Boone County,,city-us,0,37.996,-81.507,208
+16425,Garrison,MO,Christian County,,city-us,0,36.839,-93.020,404
+16429,Garrison,UT,Millard County,,city-us,0,38.934,-114.033,1411

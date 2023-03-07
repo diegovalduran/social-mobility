@@ -1,7 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24942,Cortland,NY,,city-us,17220,42.60,-76.18,10962
-24943,Cortland,OH,,city-us,7088,41.33,-80.73,4062
-24939,Cortland,IL,,city-us,4391,41.92,-88.69,2582
-24941,Cortland,NE,,city-us,505,40.51,-96.71,3816
-24940,Cortland,IN,,city-us,0,38.97,-85.96,523
-24944,Cortland,WV,,city-us,0,39.07,-79.43,640
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15796,Fraser,MI,Macomb County,,city-us,14572,42.539,-82.949,4831
+15799,Frazer,PA,Chester County,,city-us,3903,40.032,-75.556,933
+15793,Fraser,MI,Bay County,,city-us,2959,43.789,-83.979,2896
+15795,Fraser,CO,Grand County,,city-us,1420,39.945,-105.817,5419
+15798,Frazer,PA,Allegheny County,,city-us,1147,40.606,-79.796,2261
+15800,Frazer,MT,Valley County,,city-us,440,48.059,-106.042,1183
+15797,Fraser,MN,Martin County,,city-us,271,43.721,-94.562,1833
+15794,Fraser,IA,Boone County,,city-us,103,42.127,-93.965,3188

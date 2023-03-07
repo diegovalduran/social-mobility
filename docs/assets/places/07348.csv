@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42349,Mahoning,PA,,city-us,4604,40.96,-76.60,553
-42347,Mahoning,PA,,city-us,4283,40.81,-75.77,553
-42348,Mahoning,PA,,city-us,2689,41.03,-80.47,553
-42346,Mahoning,PA,,city-us,1393,40.96,-79.34,553
-42350,Mahoning,OH,,city-us,0,41.26,-81.05,498
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37313,Rocky Mount,NC,Edgecombe County / Nash County,,city-us,53957,35.969,-77.804,27812
+37314,Rocky Mount,VA,Franklin County,,city-us,4900,36.998,-79.892,13611
+37312,Rocky Mount,LA,Bossier Parish,,city-us,0,32.815,-93.629,332
+37315,Rocky Mount,GA,Meriwether County,,city-us,0,33.165,-84.673,387
+37316,Rocky Mount,MO,Miller County,,city-us,0,38.324,-92.665,641
+37317,Rocky Mount,MO,Morgan County,,city-us,0,38.271,-92.720,375

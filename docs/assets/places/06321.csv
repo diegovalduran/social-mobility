@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39132,Sheyenne,ND,,city-us,185,47.83,-99.12,12341
-39133,Sheyenne,ND,,city-us,58,46.51,-97.22,12341
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32276,Omega,GA,Colquitt County / Tift County,,city-us,1295,31.339,-83.594,2425
+32279,Omega,IL,Marion County,,city-us,445,38.695,-88.750,807
+32277,Omega,IN,Hamilton County,,city-us,0,40.198,-85.939,365
+32278,Omega,OK,Kingfisher County,,city-us,0,35.870,-98.198,194
+32280,Omega,OH,Pike County,,city-us,0,39.152,-82.910,354

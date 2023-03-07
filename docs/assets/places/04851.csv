@@ -1,4 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33719,Frenchville,WI,,city-us,1426,44.15,-91.32,1994
-33717,Frenchville,ME,,city-us,1052,47.27,-68.40,3571
-33718,Frenchville,PA,,city-us,0,41.10,-78.22,738
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24877,Lima,,,Peru,city-international,8992000,-12.060,-77.037,67322
+24865,Lima,OH,Allen County,,city-us,35868,40.743,-84.105,37957
+24871,Lima,NY,Livingston County,,city-us,4091,42.896,-77.609,5133
+24876,Lima,MI,Washtenaw County,,city-us,3993,42.293,-83.946,3554
+24875,Lima,WI,Sheboygan County,,city-us,2953,43.669,-87.867,2492
+24868,Lima,PA,Delaware County,,city-us,2284,39.917,-75.440,3165
+24873,Lima,WI,Rock County,,city-us,1282,42.799,-88.841,1942
+24870,Lima,WI,Grant County,,city-us,779,42.816,-90.489,1909
+24872,Lima,WI,Pepin County,,city-us,693,44.634,-91.873,1935
+24864,Lima,IL,Adams County,,city-us,504,40.162,-91.406,2554
+24866,Lima,MT,Beaverhead County,,city-us,210,44.637,-112.592,3746
+24867,Lima,MN,Cass County,,city-us,86,47.007,-93.801,2455
+24874,Lima,OK,Seminole County,,city-us,66,35.174,-96.600,3138
+24869,Lima,IA,Fayette County,,city-us,0,42.868,-91.743,280

@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34816,McMillan,WI,,city-us,1968,44.74,-90.16,1994
-34815,McMillan,MI,,city-us,412,46.49,-89.31,223
-34814,McMillan,MI,,city-us,0,46.34,-85.69,4488
-34817,McMillan,OK,,city-us,0,34.09,-96.94,412
-34818,McMillan,TX,,city-us,0,31.32,-98.65,846
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26028,Lura,MN,Faribault County,,city-us,157,43.807,-93.949,1882
+26029,Lura,SD,Grant County,,city-us,50,45.188,-97.138,0

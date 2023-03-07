@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44022,Cana,VA,,city-us,1469,36.59,-80.67,2113
-44023,Cana,CA,,city-us,0,39.84,-121.99,393
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39987,Skidmore,TX,Bee County,,city-us,1265,28.254,-97.686,2374
+39991,Skidmore,MO,Nodaway County,,city-us,225,40.289,-95.081,7136
+39986,Skidmore,MD,Anne Arundel County,,city-us,0,39.021,-76.415,296
+39988,Skidmore,KS,Cherokee County,,city-us,0,37.240,-94.832,333
+39989,Skidmore,MI,Dickinson County,,city-us,0,45.792,-88.074,106
+39990,Skidmore,WV,Jackson County,,city-us,0,38.761,-81.646,90

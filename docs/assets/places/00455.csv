@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5245,Valley Head,AL,,city-us,582,34.57,-85.61,2484
-5246,Valley Head,WV,,city-us,69,38.55,-80.04,800
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2391,Banks,OR,Washington County,,city-us,1829,45.619,-123.114,3742
+2384,Banks,MI,Antrim County,,city-us,1614,45.168,-85.305,3081
+2387,Banks,PA,Carbon County,,city-us,1179,40.928,-75.921,173
+2388,Banks,PA,Indiana County,,city-us,909,40.860,-78.858,173
+2389,Banks,AL,Pike County,,city-us,155,31.815,-85.843,2688
+2386,Banks,AR,Bradley County,,city-us,83,33.575,-92.269,2331
+2385,Banks,ID,Boise County,,city-us,7,44.080,-116.124,850
+2390,Banks,MS,Tunica County,,city-us,0,34.826,-90.230,511

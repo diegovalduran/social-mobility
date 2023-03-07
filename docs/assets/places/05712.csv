@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37131,Fisk,MO,,city-us,314,36.78,-90.21,3914
-37132,Fisk,IA,,city-us,0,41.20,-94.53,854
-37133,Fisk,WI,,city-us,0,43.96,-88.68,272
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29420,Moose Creek,AK,Fairbanks North Star Borough,,city-us,547,64.710,-147.144,4318
+29419,Moose Creek,MN,Clearwater County,,city-us,257,47.456,-95.248,1899

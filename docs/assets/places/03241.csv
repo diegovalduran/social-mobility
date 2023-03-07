@@ -1,4 +1,49 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25473,Flagg,IL,,city-us,0,41.90,-89.14,302
-25474,Flag,AR,,city-us,0,35.82,-92.39,79
-25475,Flagg,OR,,city-us,0,44.02,-123.50,357
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16337,Garfield,NJ,Bergen County,,city-us,32469,40.881,-74.113,17505
+16355,Garfield,MI,Grand Traverse County,,city-us,19499,44.721,-85.641,4575
+16380,Garfield,TX,Travis County,,city-us,2932,30.187,-97.558,2836
+16367,Garfield,MI,Newaygo County,,city-us,2496,43.427,-85.863,479
+16376,Garfield,MI,Saginaw County,,city-us,2456,43.355,-84.126,2661
+16342,Garfield,MI,Clare County,,city-us,1824,43.863,-85.051,479
+16372,Garfield,WI,Polk County,,city-us,1765,45.348,-92.488,2006
+16335,Garfield,MI,Bay County,,city-us,1743,43.789,-84.097,2280
+16356,Garfield,IL,Grundy County,,city-us,1446,41.149,-88.329,916
+16364,Garfield,MI,Mackinac County,,city-us,1171,46.182,-85.501,479
+16361,Garfield,MI,Kalkaska County,,city-us,994,44.556,-85.029,479
+16360,Garfield,WI,Jackson County,,city-us,758,44.558,-91.116,2098
+16336,Garfield,AR,Benton County,,city-us,604,36.448,-93.974,2442
+16381,Garfield,KS,Wabaunsee County,,city-us,573,38.876,-96.442,3184
+16382,Garfield,WA,Whitman County,,city-us,563,47.008,-117.141,3367
+16371,Garfield,MN,Polk County,,city-us,515,47.546,-96.246,181
+16349,Garfield,MN,Douglas County,,city-us,347,45.941,-95.492,2975
+16354,Garfield,KS,Finney County,,city-us,299,38.133,-100.448,2194
+16353,Garfield,GA,Emanuel County,,city-us,254,32.650,-82.098,2023
+16344,Garfield,SD,Clay County,,city-us,198,42.953,-96.865,0
+16345,Garfield,NE,Cuming County,,city-us,188,41.865,-96.604,337
+16348,Garfield,KS,Dickinson County,,city-us,186,38.827,-97.308,337
+16370,Garfield,KS,Pawnee County,,city-us,181,38.051,-99.279,3184
+16379,Garfield,ND,Traill County,,city-us,176,47.628,-97.409,0
+16374,Garfield,SD,Roberts County,,city-us,125,45.368,-96.793,0
+16357,Garfield,SD,Hamlin County,,city-us,116,44.580,-97.421,0
+16362,Garfield,MN,Lac qui Parle County,,city-us,114,44.922,-96.299,181
+16375,Garfield,KS,Rush County,,city-us,110,38.420,-99.079,3184
+16346,Garfield,NE,Custer County,,city-us,105,41.507,-99.526,337
+16369,Garfield,KS,Ottawa County,,city-us,88,39.172,-97.753,3184
+16350,Garfield,SD,Douglas County,,city-us,77,43.465,-98.301,0
+16352,Garfield,KS,Ellsworth County,,city-us,53,38.817,-98.098,292
+16378,Garfield,SD,Spink County,,city-us,52,44.677,-98.524,0
+16343,Garfield,SD,Clark County,,city-us,47,44.921,-97.790,0
+16347,Garfield,KS,Decatur County,,city-us,30,39.784,-100.236,348
+16377,Garfield,KS,Smith County,,city-us,26,39.618,-98.673,3184
+16338,Garfield,ID,Bonner County,,city-us,0,48.184,-116.429,327
+16339,Garfield,ID,Bonneville County,,city-us,0,43.635,-111.964,246
+16340,Garfield,KY,Breckinridge County,,city-us,0,37.783,-86.358,704
+16341,Garfield,CO,Chaffee County,,city-us,0,38.552,-106.292,872
+16351,Garfield,NM,Do��a Ana County,,city-us,0,32.757,-107.264,552
+16358,Garfield,OH,Jackson County,,city-us,0,39.124,-82.620,175
+16359,Garfield,WV,Jackson County,,city-us,0,38.955,-81.544,90
+16363,Garfield,IL,LaSalle County,,city-us,0,41.085,-88.956,300
+16365,Garfield,OH,Mahoning County,,city-us,0,40.918,-80.955,434
+16366,Garfield,IN,Montgomery County,,city-us,0,40.083,-86.824,574
+16368,Garfield,MO,Oregon County,,city-us,0,36.585,-91.326,420
+16373,Garfield,WI,Portage County,,city-us,0,44.562,-89.294,563

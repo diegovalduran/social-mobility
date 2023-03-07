@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22995,Rock Falls,IL,,city-us,8724,41.78,-89.69,4642
-22998,Rock Falls,WI,,city-us,637,45.31,-89.74,2124
-22994,Rock Falls,IA,,city-us,147,43.21,-93.08,3095
-22996,Rock Falls,NE,,city-us,45,42.65,-98.72,247
-22997,Rock Falls,WI,,city-us,0,44.72,-91.69,429
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13908,Escatawpa,MS,Jackson County,,city-us,2954,30.440,-88.544,5246
+13909,Escatawpa,AL,Washington County,,city-us,0,31.290,-88.387,681

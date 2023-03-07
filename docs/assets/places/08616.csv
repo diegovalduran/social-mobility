@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45957,Hill Top,IL,,city-us,0,39.99,-89.88,128
-45958,Hill Top,KY,,city-us,0,38.36,-83.84,727
-45959,Hill Top,KY,,city-us,0,36.72,-84.53,298
-45960,Hill Top,KY,,city-us,0,37.99,-83.62,154
-45961,Hill Top,WV,,city-us,0,37.47,-80.91,149
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43214,Trammel,KY,Allen County,,city-us,0,36.785,-86.353,95
+43215,Trammel,VA,Dickenson County,,city-us,0,37.014,-82.294,726

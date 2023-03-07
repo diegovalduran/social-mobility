@@ -1,13 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3327,Leesburg,VA,,city-us,48908,39.12,-77.56,21384
-3321,Leesburg,FL,,city-us,27810,28.81,-81.88,8347
-3322,Leesburg,GA,,city-us,3506,31.73,-84.17,4089
-3326,Leesburg,OH,,city-us,1489,40.34,-83.30,1250
-3325,Leesburg,OH,,city-us,1268,39.35,-83.55,3341
-3320,Leesburg,AL,,city-us,915,34.18,-85.76,3372
-3324,Leesburg,NJ,,city-us,601,39.26,-74.99,1832
-3323,Leesburg,IN,,city-us,551,41.33,-85.85,3548
-3328,Leesburg,IL,,city-us,0,40.25,-90.32,215
-3329,Leesburg,KY,,city-us,0,38.29,-84.42,326
-3330,Leesburg,MS,,city-us,0,32.44,-89.76,87
-3331,Leesburg,TX,,city-us,0,32.99,-95.08,1661
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1500,Armenia,,,,country,2989091,40.069,45.038,77356
+1499,Armenia,,,Colombia,city-international,301226,4.539,-75.672,10718
+1498,Armenia,WI,Juneau County,,city-us,709,44.179,-90.011,2042
+1497,Armenia,PA,Bradford County,,city-us,203,41.733,-76.878,2275

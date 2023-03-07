@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45464,Loveville,DE,,city-us,0,39.77,-75.66,2663
-45465,Loveville,MD,,city-us,0,38.36,-76.68,532
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42505,Tappan,MI,St. Clair County,,city-us,10654,42.967,-82.471,2279
+42504,Tappan,NY,Rockland County,,city-us,7153,41.022,-73.947,11398
+42507,Tappen,ND,Kidder County,,city-us,212,46.875,-99.636,3478
+42503,Tappan,OH,Harrison County,,city-us,0,40.357,-81.207,150
+42506,Tappan,WV,Taylor County,,city-us,0,39.376,-80.158,87

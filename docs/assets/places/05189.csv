@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35262,White River,MI,,city-us,1415,43.43,-86.42,1861
-35264,White River,WI,,city-us,921,46.54,-90.85,1962
-35263,White River,SD,,city-us,532,43.57,-100.75,3517
-35265,White River,CA,,city-us,0,35.81,-118.84,1690
-35266,White River,IN,,city-us,0,38.39,-87.75,143
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26624,Manning,SC,Clarendon County,,city-us,3859,33.695,-80.211,8599
+26623,Manning,IA,Carroll County,,city-us,1448,41.909,-95.065,5927
+26626,Manning,ND,Kidder County,,city-us,62,46.706,-99.876,1307
+26625,Manning,ND,Dunn County,,city-us,47,47.229,-102.769,1307
+26627,Manning,KS,Scott County,,city-us,0,38.555,-100.724,259
+26628,Manning,OR,Washington County,,city-us,0,45.665,-123.162,811

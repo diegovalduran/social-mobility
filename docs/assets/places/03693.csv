@@ -1,18 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28413,Smithfield,RI,,city-us,21838,41.90,-71.53,6386
-28414,Smithfield,UT,,city-us,14067,41.84,-111.83,3249
-28405,Smithfield,NC,,city-us,11630,35.51,-78.34,5463
-28415,Smithfield,VA,,city-us,8693,36.98,-76.63,8037
-28412,Smithfield,PA,,city-us,8042,41.02,-75.13,403
-28411,Smithfield,PA,,city-us,4431,40.48,-78.03,403
-28409,Smithfield,PA,,city-us,1459,41.85,-76.61,403
-28407,Smithfield,NY,,city-us,1116,42.96,-75.66,2927
-28404,Smithfield,ME,,city-us,936,44.64,-69.80,3218
-28408,Smithfield,OH,,city-us,869,40.27,-80.78,4122
-28410,Smithfield,PA,,city-us,817,39.80,-79.81,2105
-28402,Smithfield,IL,,city-us,183,40.47,-90.29,2569
-28403,Smithfield,KY,,city-us,121,38.39,-85.26,2019
-28416,Smithfield,WV,,city-us,101,39.50,-80.56,2966
-28406,Smithfield,NE,,city-us,59,40.57,-99.74,3026
-28417,Smithfield,IN,,city-us,0,40.17,-85.27,285
-28418,Smithfield,MO,,city-us,0,37.17,-94.60,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18833,Hardinsburg,KY,Breckinridge County,,city-us,2397,37.780,-86.461,5301
+18835,Hardinsburg,IN,Washington County,,city-us,219,38.461,-86.279,3105
+18834,Hardinsburg,IN,Dearborn County,,city-us,0,39.122,-84.847,365

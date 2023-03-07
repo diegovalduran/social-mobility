@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35904,Hansonville,MN,,city-us,78,44.58,-96.39,1702
-35905,Hansonville,VA,,city-us,0,36.82,-82.15,151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27473,McCook,NE,Red Willow County,,city-us,7356,40.202,-100.626,10457
+27471,McCook,IL,Cook County,,city-us,243,41.798,-87.845,3433
+27472,McCook,TX,Hidalgo County,,city-us,0,26.484,-98.391,463

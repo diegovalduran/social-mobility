@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7856,Melbourne,,Australia,city-international,4529500,-37.81,144.96,64637
-7851,Melbourne,FL,,city-us,85064,28.08,-80.61,32460
-7850,Melbourne,AR,,city-us,1888,36.06,-91.91,2454
-7852,Melbourne,IA,,city-us,777,41.94,-93.10,3518
-7853,Melbourne,KY,,city-us,466,39.03,-84.37,2435
-7854,Melbourne,MO,,city-us,0,40.14,-93.79,540
-7855,Melbern,OH,,city-us,0,41.47,-84.65,676
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3654,Bernadotte,IL,Fulton County,,city-us,247,40.407,-90.272,1173
+3655,Bernadotte,MN,Nicollet County,,city-us,0,44.455,-94.301,820

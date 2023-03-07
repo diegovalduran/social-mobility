@@ -1,11 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25827,Harding,NJ,,city-us,3877,40.74,-74.50,16661
-25828,Harding,OH,,city-us,725,41.62,-83.84,1248
-25829,Harding,WI,,city-us,368,45.30,-89.85,1960
-25824,Harding,IL,,city-us,133,41.52,-88.85,783
-25825,Harding,MN,,city-us,123,46.12,-94.04,2631
-25826,Harding,ND,,city-us,27,48.33,-98.74,0
-25830,Harding,GA,,city-us,0,31.53,-83.43,257
-25831,Harding,KS,,city-us,0,37.99,-94.82,313
-25832,Harding,SD,,city-us,0,45.40,-103.83,236
-25833,Harding,WV,,city-us,0,38.95,-79.96,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16683,Geronimo,OK,Comanche County,,city-us,1162,34.481,-98.383,3993
+16684,Geronimo,TX,Guadalupe County,,city-us,1032,29.666,-97.966,4610

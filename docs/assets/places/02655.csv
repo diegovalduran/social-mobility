@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22099,Jamaica,,,country,2820982,18.11,-77.30,87605
-22093,Jamaica,IA,,city-us,193,41.85,-94.31,4540
-22095,Jamaica,VT,,city-us,57,43.10,-72.78,8000
-22094,Jamaica,IL,,city-us,0,39.99,-87.81,620
-22096,Jamaica,GA,,city-us,0,31.25,-81.65,262
-22097,Jamaica,NE,,city-us,0,40.70,-96.69,1259
-22098,Jamaica,VA,,city-us,0,37.72,-76.69,260
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13159,Elberon,NJ,Monmouth County,,city-us,31038,40.269,-73.992,2376
+13161,Elberon,IA,Tama County,,city-us,180,42.006,-92.317,3117
+13160,Elberon,VA,Surry County,,city-us,0,37.074,-76.884,296

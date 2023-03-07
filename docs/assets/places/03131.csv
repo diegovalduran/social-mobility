@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24871,Cobden,IL,,city-us,1023,37.53,-89.25,4372
-24872,Cobden,MN,,city-us,33,44.29,-94.85,2981
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15643,Frankford,NJ,Sussex County,,city-us,5362,41.164,-74.738,23225
+15642,Frankford,DE,Sussex County,,city-us,828,38.517,-75.235,2749
+15640,Frankford,MN,Mower County,,city-us,387,43.713,-92.501,3889
+15641,Frankford,MO,Pike County,,city-us,348,39.490,-91.320,3212
+15639,Frankford,WV,Greenbrier County,,city-us,0,37.925,-80.384,700

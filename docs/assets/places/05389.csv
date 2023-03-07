@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36018,Knute,MN,,city-us,554,47.62,-96.01,1882
-36019,Newt,KY,,city-us,0,37.18,-85.56,72
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27598,McKinnon,WY,Sweetwater County,,city-us,67,41.028,-109.936,1985
+27596,McKinnon,ND,Foster County,,city-us,25,47.363,-98.702,0
+27597,McKinnon,TN,Houston County,,city-us,0,36.316,-87.907,544

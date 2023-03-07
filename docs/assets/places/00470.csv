@@ -1,24 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5432,West Point,UT,,city-us,11430,41.12,-112.08,3016
-5428,West Point,MS,,city-us,9983,33.61,-88.65,7340
-5430,West Point,NY,,city-us,6386,41.39,-73.96,7156
-5421,West Point,GA,,city-us,3748,32.90,-85.14,7598
-5429,West Point,NE,,city-us,3473,41.84,-96.71,5899
-5433,West Point,VA,,city-us,3419,37.53,-76.80,6992
-5424,West Point,IL,,city-us,3160,42.42,-89.87,1523
-5434,West Point,WI,,city-us,2039,43.33,-89.65,2043
-5426,West Point,KY,,city-us,943,38.00,-85.94,5151
-5422,West Point,IA,,city-us,912,40.72,-91.45,4165
-5420,West Point,CA,,city-us,769,38.40,-120.53,4776
-5418,West Point,AL,,city-us,601,34.24,-86.96,2060
-5427,West Point,MO,,city-us,440,38.36,-94.56,1236
-5425,West Point,IN,,city-us,318,40.34,-87.04,2696
-5419,West Point,AR,,city-us,170,35.21,-91.61,2545
-5423,West Point,IL,,city-us,140,40.26,-91.18,1759
-5431,West Point,SD,,city-us,109,43.88,-99.27,0
-5435,West Point,IL,,city-us,0,37.90,-89.62,191
-5436,West Point,MN,,city-us,0,45.56,-93.39,484
-5437,West Point,OH,,city-us,0,40.71,-80.70,1568
-5438,West Point,OH,,city-us,0,40.64,-82.78,342
-5439,West Point,PA,,city-us,0,40.21,-75.30,455
-5440,West Point,TX,,city-us,0,29.94,-97.04,1612
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2445,Bardwell,KY,Carlisle County,,city-us,710,36.871,-89.010,4327
+2446,Bardwell,TX,Ellis County,,city-us,637,32.269,-96.696,3282

@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35327,Alberta,MN,,city-us,827,45.78,-93.95,2584
-35330,Alberta,AL,,city-us,784,32.23,-87.41,997
-35329,Alberta,VA,,city-us,302,36.87,-77.89,3223
-35328,Alberta,MN,,city-us,93,45.57,-96.05,2863
-35331,Alberta,MI,,city-us,0,46.64,-88.48,2950
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26691,Manville,NJ,Somerset County,,city-us,10812,40.541,-74.588,18596
+26688,Manville,SC,Lee County,,city-us,459,34.154,-80.303,823
+26690,Manville,WY,Niobrara County,,city-us,94,42.779,-104.618,3209
+26689,Manville,IL,Livingston County,,city-us,5,41.055,-88.766,140
+26687,Manville,IN,Jefferson County,,city-us,0,38.788,-85.286,1894

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38886,Jud,ND,,city-us,68,46.53,-98.90,3404
-38887,Judd,IA,,city-us,0,42.47,-94.05,533
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31905,Oakmont,PA,Allegheny County,,city-us,6749,40.522,-79.842,9777
+31906,Oakmont,PA,Dauphin County,,city-us,0,40.252,-76.690,181
+31907,Oakmont,WV,Mineral County,,city-us,0,39.367,-79.188,175

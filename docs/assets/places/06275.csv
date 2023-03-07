@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38984,Minnesota,,United States,state,5717184,46.44,-93.37,58850
-38983,Minnesota,SD,,city-us,96,45.87,-97.03,0
-38982,Minnesota,ND,,city-us,29,48.86,-102.18,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32092,Oilton,OK,Creek County,,city-us,877,36.085,-96.584,3073
+32093,Oilton,TX,Webb County,,city-us,108,27.466,-98.974,2772

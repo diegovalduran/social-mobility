@@ -1,4 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47321,Breslau,NE,,city-us,0,42.35,-97.70,550
-47322,Breslau,PA,,city-us,0,41.23,-75.93,276
-47323,Breslau,TX,,city-us,0,29.52,-97.00,178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46240,Westminster,,,United Kingdom,city-international,255324,51.495,-0.135,13978
+46230,Westminster,CO,Adams County / Jefferson County,,city-us,114561,39.880,-105.062,10760
+46236,Westminster,CA,Orange County,,city-us,90195,33.759,-118.007,9509
+46232,Westminster,MD,Carroll County,,city-us,20062,39.575,-76.996,10778
+46239,Westminster,MA,Worcester County,,city-us,8275,42.555,-71.905,4849
+46238,Westminster,VT,Windham County,,city-us,3050,43.075,-72.508,4183
+46234,Westminster,LA,East Baton Rouge Parish,,city-us,2635,30.414,-91.088,2598
+46235,Westminster,SC,Oconee County,,city-us,2363,34.665,-83.097,5902
+46233,Westminster,TX,Collin County,,city-us,861,33.355,-96.447,7809
+46237,Westminster,KS,Reno County,,city-us,188,37.956,-98.197,0
+46231,Westminster,OH,Allen County,,city-us,0,40.693,-83.980,665

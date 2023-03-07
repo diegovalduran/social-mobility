@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43727,Milam,TX,,city-us,1697,31.43,-93.85,3010
-43728,Milam,WV,,city-us,0,38.81,-79.10,329
-43729,Milam,WV,,city-us,0,37.68,-81.47,141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39393,Shaw,MS,Bolivar County / Sunflower County,,city-us,1437,33.601,-90.772,4641
+39398,Shaw,MN,St. Louis County,,city-us,10,47.113,-92.353,522
+39394,Shaw,MO,Boone County,,city-us,0,38.974,-92.203,345
+39395,Shaw,LA,Concordia Parish,,city-us,0,31.192,-91.631,84
+39396,Shaw,OR,Marion County,,city-us,0,44.873,-122.872,848
+39397,Shaw,KS,Neosho County,,city-us,0,37.602,-95.317,256

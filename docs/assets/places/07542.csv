@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42963,West Columbia,SC,,city-us,17466,33.99,-81.07,4643
-42964,West Columbia,TX,,city-us,3611,29.14,-95.65,5911
-42965,West Columbia,WV,,city-us,0,38.98,-82.06,568
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38313,Saline,MI,Washtenaw County,,city-us,8961,42.167,-83.782,5659
+38310,Saline,IL,Madison County,,city-us,6910,38.782,-89.644,598
+38309,Saline,OH,Jefferson County,,city-us,1157,40.551,-80.697,1478
+38308,Saline,LA,Bienville Parish,,city-us,264,32.165,-92.974,3934
+38311,Saline,ND,McHenry County,,city-us,14,48.422,-100.875,0
+38312,Saline,TX,Menard County,,city-us,0,30.723,-99.553,172

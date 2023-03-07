@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44013,Bull Run,VA,,city-us,16709,38.78,-77.52,2030
-44012,Bull Run,VA,,city-us,7526,38.84,-77.49,159
-44014,Bull Run,OR,,city-us,0,45.43,-122.23,1768
-44015,Bull Run,WV,,city-us,0,39.58,-79.77,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39971,Six Points,IN,Clay County,,city-us,0,39.372,-86.986,249
+39972,Six Points,IN,Hendricks County,,city-us,0,39.726,-86.336,208
+39973,Six Points,OH,Wood County,,city-us,0,41.282,-83.555,403

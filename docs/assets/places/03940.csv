@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29777,Judson,SC,,city-us,1513,34.83,-82.43,2485
-29776,Judson,ND,,city-us,340,48.16,-103.79,0
-29778,Judson,IN,,city-us,61,40.50,-86.27,236
-29774,Judson,IN,,city-us,0,39.81,-87.13,384
-29775,Judson,MN,,city-us,0,44.20,-94.20,244
-29779,Judson,MO,,city-us,0,40.31,-93.23,235
-29780,Judson,NC,,city-us,0,35.00,-78.81,84
-29781,Judson,TX,,city-us,0,32.58,-94.75,717
-29782,Judson,WV,,city-us,0,37.71,-80.78,138
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20170,Hilton Village,WV,Fayette County,,city-us,0,38.015,-80.901,186
+20171,Hilton Village,VA,Pulaski County,,city-us,0,37.085,-80.786,97

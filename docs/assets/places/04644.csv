@@ -1,5 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32948,Blackstone,MA,,city-us,9177,42.04,-71.53,3769
-32949,Blackstone,VA,,city-us,3354,37.08,-78.00,5369
-32950,Blackstone,IL,,city-us,0,41.08,-88.69,2659
-32951,Blackstone,PA,,city-us,0,40.66,-79.65,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23783,Lakewood,CO,Jefferson County,,city-us,156605,39.705,-105.081,12592
+23784,Lakewood,CA,Los Angeles County,,city-us,80611,33.854,-118.134,10092
+23787,Lakewood,NJ,Ocean County,,city-us,66752,40.098,-74.218,29108
+23789,Lakewood,WA,Pierce County,,city-us,63331,47.172,-122.518,8160
+23780,Lakewood,OH,Cuyahoga County,,city-us,50104,41.482,-81.798,23153
+23777,Lakewood,MI,Alpena County,,city-us,9116,45.085,-83.440,2807
+23786,Lakewood,IL,McHenry County,,city-us,4296,42.229,-88.355,4353
+23778,Lakewood,NY,Chautauqua County,,city-us,2973,42.104,-79.333,4438
+23793,Lakewood,SC,Sumter County,,city-us,2862,33.847,-80.350,2050
+23792,Lakewood,MN,St. Louis County,,city-us,2295,46.904,-91.988,220
+23788,Lakewood,WI,Oconto County,,city-us,845,45.339,-88.434,3995
+23779,Lakewood,OR,Clackamas County,,city-us,0,45.413,-122.666,85
+23781,Lakewood,IL,DuPage County,,city-us,0,41.917,-88.198,164
+23782,Lakewood,NM,Eddy County,,city-us,0,32.632,-104.369,252
+23785,Lakewood,IL,Mason County,,city-us,0,40.247,-90.085,171
+23790,Lakewood,VA,Pittsylvania County,,city-us,0,36.581,-79.305,123
+23791,Lakewood,IL,Shelby County,,city-us,0,39.325,-88.899,267
+23794,Lakewood,IN,Vigo County,,city-us,0,39.397,-87.302,0
+23795,Lakewood,FL,Walton County,,city-us,0,30.989,-86.282,379
+23796,Lakewood,PA,Wayne County,,city-us,0,41.852,-75.381,832

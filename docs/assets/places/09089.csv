@@ -1,5 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47112,Lively,MO,,city-us,0,38.21,-93.11,293
-47113,Lively,TX,,city-us,0,32.41,-96.32,124
-47114,Lively,VA,,city-us,0,37.78,-76.51,624
-47115,Lively,WV,,city-us,0,37.94,-81.26,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45884,Wells,ME,York County,,city-us,11550,43.311,-70.633,9936
+45865,Wells,MI,Delta County,,city-us,4857,45.783,-87.173,2207
+45870,Wells,OH,Jefferson County,,city-us,2434,40.272,-80.703,1492
+45867,Wells,MN,Faribault County,,city-us,2418,43.746,-93.729,4007
+45882,Wells,MI,Tuscola County,,city-us,1574,43.453,-83.282,520
+45880,Wells,MN,Rice County,,city-us,1560,44.334,-93.344,2010
+45866,Wells,NV,Elko County,,city-us,1243,41.112,-114.964,3370
+45862,Wells,PA,Bradford County,,city-us,1157,41.953,-76.868,173
+45864,Wells,TX,Cherokee County,,city-us,867,31.489,-94.940,5633
+45869,Wells,NY,Hamilton County,,city-us,684,43.476,-74.285,10091
+45876,Wells,WI,Monroe County,,city-us,557,43.856,-90.731,1968
+45868,Wells,PA,Fulton County,,city-us,490,40.091,-78.140,173
+45881,Wells,VT,Rutland County,,city-us,451,43.417,-73.204,2925
+45872,Wells,MI,Marquette County,,city-us,216,46.064,-87.481,520
+45873,Wells,KS,Marshall County,,city-us,117,39.696,-96.530,142
+45883,Wells,ND,Wells County,,city-us,87,47.811,-99.855,0
+45878,Wells,KS,Ottawa County,,city-us,45,39.139,-97.551,540
+45879,Wells,SD,Perkins County,,city-us,22,45.341,-102.891,0
+45863,Wells,WI,Calumet County,,city-us,0,44.096,-88.043,282
+45871,Wells,MS,Lowndes County,,city-us,0,33.598,-88.394,208
+45874,Wells,WV,Marshall County,,city-us,0,39.783,-80.592,74
+45875,Wells,IN,Miami County,,city-us,0,40.732,-86.111,159
+45877,Wells,SC,Orangeburg County,,city-us,0,33.372,-80.481,186

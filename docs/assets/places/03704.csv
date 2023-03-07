@@ -1,10 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28495,St. Clair,IL,,city-us,35552,38.53,-89.98,620
-28500,St. Clair,OH,,city-us,7739,40.70,-80.57,130
-28496,St. Clair,MI,,city-us,7073,42.86,-82.55,3418
-28499,St. Clair,OH,,city-us,6694,39.45,-84.54,130
-28498,St. Clair,MO,,city-us,4764,38.35,-90.98,4729
-28502,St. Clair,PA,,city-us,2762,40.72,-76.19,3378
-28503,St. Clair,PA,,city-us,1328,40.35,-79.03,2785
-28497,St. Clair,MN,,city-us,750,44.08,-93.86,3501
-28501,St. Clair,PA,,city-us,67,40.48,-78.23,664
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18879,Harlem,GA,Columbia County,,city-us,3866,33.415,-82.313,2829
+18881,Harlem,FL,Hendry County,,city-us,2511,26.738,-80.951,1963
+18883,Harlem,IL,Stephenson County,,city-us,1988,42.334,-89.701,232
+18878,Harlem,MT,Blaine County,,city-us,765,48.533,-108.784,3810
+18882,Harlem,ND,Sargent County,,city-us,34,46.149,-97.799,0
+18877,Harlem,PA,Berks County,,city-us,0,40.458,-75.588,478
+18880,Harlem,OH,Delaware County,,city-us,0,40.152,-82.840,269
+18884,Harlem,IL,Winnebago County,,city-us,0,42.340,-89.018,643

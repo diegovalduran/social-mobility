@@ -1,4 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36571,Sherburne,NY,,city-us,3922,42.69,-75.48,12218
-36570,Sherburn,MN,,city-us,1062,43.65,-94.73,8830
-36572,Sherburne,KY,,city-us,0,38.28,-83.80,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28522,Millbrook,AL,Autauga County / Elmore County,,city-us,17217,32.501,-86.374,7094
+28524,Millbrook,NY,Dutchess County,,city-us,1447,41.785,-73.694,5415
+28528,Millbrook,MI,Mecosta County,,city-us,1081,43.504,-85.142,1903
+28529,Millbrook,IL,Peoria County,,city-us,402,40.926,-89.935,338
+28527,Millbrook,IL,Kendall County,,city-us,276,41.598,-88.553,754
+28525,Millbrook,KS,Graham County,,city-us,114,39.313,-99.878,442
+28521,Millbrook,WY,Albany County,,city-us,0,41.321,-105.920,84
+28523,Millbrook,MO,Cole County,,city-us,0,38.499,-92.357,244
+28526,Millbrook,WV,Hampshire County,,city-us,0,39.216,-78.547,224
+28530,Millbrook,NJ,Warren County,,city-us,0,41.073,-74.963,881
+28531,Millbrook,OH,Wayne County,,city-us,0,40.727,-82.008,213

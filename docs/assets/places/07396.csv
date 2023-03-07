@@ -1,3 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42480,Pen Mar,PA,,city-us,1309,39.72,-77.51,750
-42481,Pen Mar,MD,,city-us,0,39.72,-77.51,3414
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37561,Rosedale,MD,Baltimore County,,city-us,20296,39.320,-76.516,6656
+37570,Rosedale,CA,Kern County,,city-us,18875,35.384,-119.145,3977
+37578,Rosedale,WA,Pierce County,,city-us,4421,47.331,-122.652,386
+37562,Rosedale,MS,Bolivar County,,city-us,1552,33.853,-91.028,6093
+37568,Rosedale,LA,Iberville Parish,,city-us,629,30.441,-91.452,3081
+37577,Rosedale,IN,Parke County,,city-us,629,39.623,-87.283,3508
+37571,Rosedale,OH,Madison County,,city-us,580,40.075,-83.458,2537
+37567,Rosedale,SD,Hanson County,,city-us,277,43.629,-97.911,0
+37566,Rosedale,NM,Grant County,,city-us,269,32.765,-108.243,371
+37572,Rosedale,MN,Mahnomen County,,city-us,119,47.279,-95.877,1910
+37564,Rosedale,SD,Clark County,,city-us,69,44.585,-97.795,0
+37574,Rosedale,OK,McClain County,,city-us,65,34.918,-97.184,1853
+37580,Rosedale,SD,Tripp County,,city-us,47,43.289,-100.090,0
+37563,Rosedale,WV,Braxton County,,city-us,0,38.739,-80.943,264
+37565,Rosedale,OH,Defiance County,,city-us,0,41.291,-84.690,253
+37569,Rosedale,IL,Jersey County,,city-us,0,39.044,-90.548,163
+37573,Rosedale,OR,Marion County,,city-us,0,44.853,-123.061,771
+37575,Rosedale,NJ,Mercer County,,city-us,0,40.296,-74.720,372
+37576,Rosedale,WV,Monongalia County,,city-us,0,39.687,-79.965,93
+37579,Rosedale,VA,Russell County,,city-us,0,36.959,-81.931,678

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37507,Rich Hill,MO,,city-us,1434,39.84,-93.47,179
-37506,Rich Hill,MO,,city-us,1242,38.10,-94.36,4108
-37508,Rich Hill,OH,,city-us,503,39.89,-81.74,1243
-37509,Rich Hill,OH,,city-us,0,40.32,-82.73,365
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29982,Mountain Lakes,NJ,Morris County,,city-us,4565,40.895,-74.433,16315
+29981,Mountain Lakes,NH,Grafton County,,city-us,563,44.121,-71.955,2458

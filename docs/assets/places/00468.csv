@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5409,West Jefferson,OH,,city-us,4253,39.94,-83.27,4526
-5408,West Jefferson,NC,,city-us,1234,36.40,-81.49,4485
-5407,West Jefferson,AL,,city-us,417,33.65,-87.07,1866
-5410,West Jefferson,OH,,city-us,0,41.57,-84.56,447
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2433,Barclay,NJ,Camden County,,city-us,4397,39.901,-75.001,694
+2434,Barclay,MN,Cass County,,city-us,542,46.765,-94.378,2897
+2438,Barclay,MD,Queen Anne's County,,city-us,185,39.144,-75.864,3432
+2435,Barclay,TX,Falls County,,city-us,58,31.076,-97.109,222
+2436,Barclay,NV,Lincoln County,,city-us,0,37.513,-114.252,466
+2437,Barclay,KS,Osage County,,city-us,0,38.577,-95.880,538
+2439,Barclay,IL,Sangamon County,,city-us,0,39.875,-89.518,226

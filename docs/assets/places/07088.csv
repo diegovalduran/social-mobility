@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41420,Fitzhugh,OK,,city-us,178,34.67,-96.78,1915
-41421,Fitzhugh,VA,,city-us,0,36.67,-77.76,101
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35951,Ray,MI,Macomb County,,city-us,3772,42.762,-82.920,4131
+47790,Wray,CO,Yuma County,,city-us,2308,40.076,-102.223,2878
+35955,Ray,ND,Williams County,,city-us,706,48.344,-103.165,3545
+35948,Ray,AL,Coosa County,,city-us,399,32.887,-86.038,152
+35950,Ray,ND,LaMoure County,,city-us,61,46.417,-98.841,3545
+35947,Ray,MI,Branch County,,city-us,0,41.760,-84.872,1225
+35949,Ray,MN,Koochiching County,,city-us,0,48.411,-93.211,1076
+35952,Ray,VA,Pittsylvania County,,city-us,0,36.936,-79.311,91
+35953,Ray,IN,Steuben County,,city-us,0,41.760,-84.872,1225
+35954,Ray,OH,Vinton County,,city-us,0,39.204,-82.684,479
+47789,Wray,GA,Irwin County,,city-us,0,31.622,-83.055,210

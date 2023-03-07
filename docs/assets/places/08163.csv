@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44811,Pride,AL,,city-us,0,34.72,-87.82,566
-44812,Pride,LA,,city-us,0,30.69,-90.98,1064
-44813,Pride,OH,,city-us,0,39.23,-82.90,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41318,Starks,ME,Somerset County,,city-us,601,44.737,-69.954,4105
+41315,Starks,LA,Calcasieu Parish,,city-us,219,30.315,-93.662,546
+41316,Starks,IL,Kane County,,city-us,0,42.088,-88.457,423
+41317,Starks,WI,Oneida County,,city-us,0,45.663,-89.222,221
+41319,Starks,AR,Washington County,,city-us,0,36.028,-94.267,172

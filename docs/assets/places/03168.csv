@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25063,Darmstadt,,Germany,city-international,159207,49.87,8.65,34475
-25062,Darmstadt,IN,,city-us,1385,38.10,-87.58,4237
-25061,Darmstadt,IL,,city-us,0,38.32,-89.73,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15993,Friberg,MN,Otter Tail County,,city-us,800,46.412,-95.970,1883
+16096,Fryburg,OH,Auglaize County,,city-us,0,40.516,-84.149,588
+16097,Fryburg,ND,Billings County,,city-us,0,46.871,-103.303,194

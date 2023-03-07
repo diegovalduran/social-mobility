@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26379,Ladd,IL,,city-us,1407,41.38,-89.22,3537
-26380,Ladd,ND,,city-us,18,45.98,-103.44,133
-26381,Ladd,MO,,city-us,0,37.59,-92.11,577
-26382,Ladd,VA,,city-us,0,38.06,-78.95,358
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17104,Glyndon,MN,Clay County,,city-us,319,46.841,-96.614,1879
+17103,Glyndon,MD,Baltimore County,,city-us,0,39.477,-76.814,15000

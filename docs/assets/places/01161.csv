@@ -1,10 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11821,Doyle,CA,,city-us,959,40.03,-120.10,2977
-11823,Doyle,MI,,city-us,563,46.17,-86.05,3844
-11824,Doyle,TN,,city-us,502,35.85,-85.51,2976
-11825,Doyle,WI,,city-us,496,45.51,-91.60,2162
-11822,Doyle,KS,,city-us,39,38.22,-96.88,711
-11826,Doyle,IN,,city-us,0,40.81,-86.07,237
-11827,Doyle,LA,,city-us,0,30.50,-90.74,785
-11828,Doyle,MO,,city-us,0,36.60,-90.91,240
-11829,Doyle,WV,,city-us,0,39.28,-81.38,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5816,Buchanan,WI,Outagamie County,,city-us,6880,44.269,-88.237,1241
+5807,Buchanan,MI,Berrien County,,city-us,4225,41.827,-86.361,6828
+5820,Buchanan,NY,Westchester County,,city-us,2257,41.262,-73.938,2861
+5809,Buchanan,VA,Botetourt County,,city-us,1210,37.527,-79.680,4668
+5812,Buchanan,GA,Haralson County,,city-us,937,33.803,-85.189,2934
+5818,Buchanan,ND,Stutsman County,,city-us,93,47.015,-98.775,3089
+5808,Buchanan,MO,Bollinger County,,city-us,0,37.211,-90.192,390
+5810,Buchanan,IA,Cedar County,,city-us,0,41.765,-91.247,277
+5811,Buchanan,IN,Floyd County,,city-us,0,38.216,-85.899,165
+5813,Buchanan,OR,Harney County,,city-us,0,43.642,-118.629,1473
+5814,Buchanan,TN,Henry County,,city-us,0,36.437,-88.208,431
+5815,Buchanan,KY,Lawrence County,,city-us,0,38.244,-82.611,1356
+5817,Buchanan,OH,Pike County,,city-us,0,39.150,-83.124,263
+5819,Buchanan,CA,Tuolumne County,,city-us,0,37.915,-120.189,133

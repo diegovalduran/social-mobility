@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5191,Union Grove,WI,,city-us,4925,42.69,-88.05,4670
-5189,Union Grove,MN,,city-us,684,45.28,-94.69,2326
-5190,Union Grove,TX,,city-us,453,32.57,-94.92,1956
-5187,Union Grove,AL,,city-us,70,34.40,-86.45,2732
-5188,Union Grove,IL,,city-us,0,41.83,-90.03,233
-5192,Union Grove,TX,,city-us,0,31.00,-97.60,904
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2367,Bandon,OR,Coos County,,city-us,3331,43.119,-124.408,13000
+2369,Bandon,MN,Renville County,,city-us,128,44.586,-94.813,1840
+2368,Bandon,IN,Perry County,,city-us,0,38.137,-86.600,285

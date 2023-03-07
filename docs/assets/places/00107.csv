@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-899,Argo,AL,,city-us,4401,33.69,-86.51,3490
-901,Argo,SD,,city-us,213,44.51,-96.70,0
-900,Argo,IA,,city-us,0,41.63,-90.43,450
-902,Argo,AL,,city-us,0,33.80,-87.12,270
-903,Argo,KY,,city-us,0,37.48,-82.06,92
-904,Argo,MO,,city-us,0,38.18,-91.33,447
+id,name,state,county,country,level,population,latitude,longitude,wiki
+556,Alexis,IL,Mercer County / Warren County,,city-us,779,41.063,-90.555,2798
+553,Alexis,NE,Butler County,,city-us,723,41.358,-97.304,244
+555,Alexis,NC,Gaston County,,city-us,589,35.400,-81.118,769
+554,Alexis,AL,Cherokee County,,city-us,0,34.179,-85.512,408

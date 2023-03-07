@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47823,Naruna,TX,,city-us,0,30.99,-98.32,1334
-47824,Naruna,VA,,city-us,0,37.11,-79.00,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47628,Woodridge,IL,Cook County / DuPage County / Will County,,city-us,33826,41.737,-88.044,9670
+47483,Wood-Ridge,NJ,Bergen County,,city-us,10089,40.846,-74.088,14217
+47629,Woodridge,NY,Sullivan County,,city-us,717,41.711,-74.574,4755
+47627,Woodridge,VA,Albemarle County,,city-us,0,37.897,-78.436,73

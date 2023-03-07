@@ -1,17 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1876,Deer Park,TX,,city-us,33676,29.71,-95.12,8590
-1874,Deer Park,NY,,city-us,26803,40.76,-73.33,4651
-1875,Deer Park,OH,,city-us,5354,39.21,-84.39,4019
-1877,Deer Park,WA,,city-us,4685,47.95,-117.48,6648
-1870,Deer Park,IL,,city-us,3656,42.17,-88.09,3046
-1869,Deer Park,CA,,city-us,697,38.53,-122.47,4750
-1871,Deer Park,IL,,city-us,475,41.29,-88.99,351
-1872,Deer Park,MD,,city-us,306,39.42,-79.33,4520
-1878,Deer Park,WI,,city-us,250,45.19,-92.39,3524
-1868,Deer Park,AL,,city-us,141,31.22,-88.32,482
-1873,Deer Park,MN,,city-us,124,47.99,-95.77,1743
-1879,Deer Park,FL,,city-us,0,28.09,-80.90,1423
-1880,Deer Park,IN,,city-us,0,41.16,-87.20,136
-1881,Deer Park,LA,,city-us,0,31.42,-91.58,89
-1882,Deer Park,MI,,city-us,0,46.67,-85.62,2413
-1883,Deer Park,MO,,city-us,0,38.86,-92.25,398
+id,name,state,county,country,level,population,latitude,longitude,wiki
+959,Amenia,NY,Dutchess County,,city-us,780,41.849,-73.557,9647
+958,Amenia,ND,Cass County,,city-us,92,47.026,-97.271,4225
+960,Amenia,IL,Piatt County,,city-us,0,40.022,-88.666,173

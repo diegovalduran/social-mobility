@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36389,Perley,MN,,city-us,110,47.18,-96.81,1856
-36390,Pearly,VA,,city-us,0,37.27,-82.14,241
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28137,Middle Fork,WV,Barbour County,,city-us,0,39.062,-80.047,93
+28138,Middle Fork,TN,Henderson County,,city-us,0,35.536,-88.487,6256
+28139,Middle Fork,KY,Perry County,,city-us,0,37.150,-83.157,94

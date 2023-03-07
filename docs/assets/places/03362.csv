@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26311,Kenney,IL,,city-us,304,40.10,-89.09,2409
-26312,Kenny,CA,,city-us,0,39.92,-123.90,413
-26313,Kenney,TX,,city-us,0,30.05,-96.33,2167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17011,Glenmore,WI,Brown County,,city-us,1135,44.386,-87.927,2150
+17013,Glenmore,ND,LaMoure County,,city-us,49,46.500,-98.725,0
+17010,Glenmore,VA,Albemarle County,,city-us,0,37.672,-78.590,460
+17012,Glenmore,VA,Buckingham County,,city-us,0,37.672,-78.590,113
+17014,Glenmore,OH,Van Wert County,,city-us,0,40.785,-84.698,465
+17015,Glenmore,KY,Warren County,,city-us,0,37.168,-86.399,1594

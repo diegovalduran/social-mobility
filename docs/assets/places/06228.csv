@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38847,Grassland,TX,,city-us,61,33.14,-101.60,2158
-38846,Grassland,ND,,city-us,34,48.68,-101.63,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31806,Oak Valley,NJ,Gloucester County,,city-us,4322,39.801,-75.162,2614
+31807,Oak Valley,TX,Navarro County,,city-us,418,32.033,-96.513,2013
+31808,Oak Valley,MN,Otter Tail County,,city-us,363,46.322,-95.214,1718
+31804,Oak Valley,ND,Bottineau County,,city-us,57,48.777,-100.512,142
+31805,Oak Valley,KS,Elk County,,city-us,0,37.343,-96.010,399
+31809,Oak Valley,CA,Yuba County,,city-us,0,39.499,-121.038,901

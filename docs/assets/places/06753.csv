@@ -1,3 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40457,Hagaman,NY,,city-us,1135,42.97,-74.15,2233
-40458,Hagaman,IL,,city-us,0,39.31,-90.08,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34283,Pioneer,CA,Amador County,,city-us,1450,38.432,-120.572,3329
+34294,Pioneer,OH,Williams County,,city-us,1420,41.680,-84.553,2827
+34288,Pioneer,FL,Hendry County,,city-us,752,26.726,-81.219,293
+34289,Pioneer,MI,Missaukee County,,city-us,451,44.478,-85.161,2022
+34291,Pioneer,KS,Rush County,,city-us,361,38.529,-99.082,198
+34293,Pioneer,LA,West Carroll Parish,,city-us,144,32.736,-91.433,2574
+34290,Pioneer,KS,Rice County,,city-us,68,38.384,-98.434,121
+34287,Pioneer,KS,Graham County,,city-us,21,39.494,-99.667,394
+34286,Pioneer,SD,Faulk County,,city-us,17,45.009,-98.780,0
+34284,Pioneer,MO,Barry County,,city-us,0,36.836,-94.055,231
+34285,Pioneer,TN,Campbell County,,city-us,0,36.417,-84.314,234
+34292,Pioneer,IN,Wabash County,,city-us,0,40.738,-85.896,264

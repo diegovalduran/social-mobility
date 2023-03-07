@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37225,Highlandville,MO,,city-us,975,36.93,-93.28,3134
-37226,Highlandville,IA,,city-us,0,43.44,-91.67,1333
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29524,Morningside,MD,Prince George's County,,city-us,1222,38.830,-76.891,5972
+29523,Morningside,NM,Eddy County,,city-us,648,32.861,-104.397,521
+29522,Morningside,SD,Beadle County,,city-us,76,44.366,-98.188,602

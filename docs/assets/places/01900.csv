@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17181,Waterbury,CT,,city-us,113811,41.56,-73.04,31231
-17184,Waterbury,VT,,city-us,5320,44.39,-72.74,8007
-17182,Waterbury,MN,,city-us,166,44.32,-95.30,2018
-17183,Waterbury,NE,,city-us,70,42.46,-96.73,3001
-17185,Waterbury,FL,,city-us,0,27.45,-82.30,2123
-17186,Waterbury,WI,,city-us,0,44.39,-90.60,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9700,Constantine,,,Algeria,city-international,448374,36.365,6.615,9526
+9699,Constantine,MI,St. Joseph County,,city-us,4007,41.848,-85.700,2162
+9698,Constantine,KY,Breckinridge County,,city-us,0,37.675,-86.236,129

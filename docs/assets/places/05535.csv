@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36510,Round Prairie,MN,,city-us,722,45.89,-94.82,1867
-36511,Round Prairie,ND,,city-us,376,48.15,-103.96,0
-36512,Round Prairie,OR,,city-us,0,43.09,-123.37,211
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28431,Milburn,OK,Johnston County,,city-us,256,34.241,-96.549,3151
+28429,Milburn,NE,Custer County,,city-us,63,41.701,-99.636,259
+28428,Milburn,KY,Carlisle County,,city-us,0,36.799,-88.900,899
+28430,Milburn,WV,Fayette County,,city-us,0,37.998,-81.339,160
+28432,Milburn,UT,Sanpete County,,city-us,0,39.704,-111.425,378

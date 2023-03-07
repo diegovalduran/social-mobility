@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29664,Hartsville,TN,,city-us,12035,36.39,-86.16,7207
-29663,Hartsville,SC,,city-us,7588,34.37,-80.07,17254
-29662,Hartsville,NY,,city-us,554,42.22,-77.66,2954
-29661,Hartsville,IN,,city-us,318,39.27,-85.70,3924
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20043,Hill City,KS,Graham County,,city-us,1518,39.400,-99.816,672
+20044,Hill City,SD,Pennington County,,city-us,922,43.932,-103.575,20783
+20040,Hill City,MN,Aitkin County,,city-us,619,46.993,-93.599,5059
+20041,Hill City,ID,Camas County,,city-us,26,43.301,-115.051,884
+20042,Hill City,GA,Gordon County,,city-us,0,34.599,-85.006,349

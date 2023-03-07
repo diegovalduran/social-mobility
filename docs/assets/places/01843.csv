@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16708,Murray,UT,,city-us,49729,40.67,-111.89,32797
-16704,Murray,KY,,city-us,17311,36.61,-88.31,17434
-16707,Murray,NY,,city-us,4740,43.26,-78.06,3368
-16701,Murray,CT,,city-us,821,41.20,-73.29,431
-16702,Murray,IA,,city-us,663,41.04,-93.95,3232
-16703,Murray,KS,,city-us,603,39.86,-96.29,0
-16706,Murray,NE,,city-us,489,40.92,-95.93,3276
-16709,Murry,WI,,city-us,275,45.60,-91.20,2007
-16705,Murray,MN,,city-us,161,44.06,-95.63,2231
-16710,Murray,ID,,city-us,0,47.63,-115.86,1554
-16711,Murray,IN,,city-us,0,40.79,-85.20,461
-16712,Murray,TX,,city-us,0,33.06,-98.89,174
-16713,Murray,WV,,city-us,0,38.90,-81.64,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9408,Colquitt,GA,Miller County,,city-us,1933,31.171,-84.733,5504
+9407,Colquitt,TX,Kaufman County,,city-us,0,32.795,-96.358,792

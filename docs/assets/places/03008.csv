@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24221,Baileyville,ME,,city-us,1337,45.18,-67.44,5281
-24223,Baileyville,IL,,city-us,187,42.20,-89.59,168
-24222,Baileyville,PA,,city-us,159,40.71,-77.99,368
-24219,Baileyville,IL,,city-us,153,42.20,-89.59,168
-24220,Baileyville,KS,,city-us,104,39.84,-96.19,1161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15064,Flat Iron,IN,Vermillion County,,city-us,0,40.053,-87.490,854
+15065,Flat Iron,VA,Westmoreland County,,city-us,0,38.148,-76.921,98

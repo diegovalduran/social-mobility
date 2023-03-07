@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14762,Whitmore,IL,,city-us,4223,39.93,-88.85,616
-14761,Whittemore,IA,,city-us,487,43.06,-94.43,3375
-14763,Whittemore,MI,,city-us,417,44.23,-83.80,3530
-14760,Whitmore,CA,,city-us,0,40.63,-121.92,951
-14764,Whitmore,OH,,city-us,0,41.39,-82.89,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7961,Charlton,MA,Worcester County,,city-us,13317,42.134,-71.968,6053
+7959,Charlton,NY,Saratoga County,,city-us,4339,42.959,-73.991,3708
+7958,Charlton,MI,Otsego County,,city-us,1368,44.983,-84.430,3623
+7960,Charlton,MD,Washington County,,city-us,166,39.634,-77.894,252

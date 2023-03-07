@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24338,Bellwood,IL,,city-us,18331,41.88,-87.88,5572
-24341,Bellwood,VA,,city-us,8138,37.42,-77.44,2027
-24340,Bellwood,PA,,city-us,1812,40.60,-78.32,3788
-24339,Bellwood,NE,,city-us,408,41.34,-97.24,2816
-24342,Bellwood,AL,,city-us,0,31.17,-85.79,486
-24343,Bellwood,LA,,city-us,0,31.53,-93.21,89
-24344,Bellwood,WV,,city-us,0,37.92,-80.83,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15219,Florissant,MO,St. Louis County,,city-us,52003,38.789,-90.323,10664
+15220,Florissant,CO,Teller County,,city-us,131,38.946,-105.289,2174

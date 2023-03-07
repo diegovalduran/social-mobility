@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32609,Edgefield,SC,,city-us,2375,33.79,-81.93,25416
-32608,Edgefield,LA,,city-us,201,32.05,-93.33,1998
-32610,Edgefield,OH,,city-us,0,39.61,-83.64,295
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23362,La Joya,TX,Hidalgo County,,city-us,4587,26.247,-98.481,4245
+23363,La Joya,NM,Socorro County,,city-us,65,34.346,-106.846,495

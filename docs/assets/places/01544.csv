@@ -1,17 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14508,Twin Lakes,CO,,city-us,7635,39.82,-105.00,2112
-14518,Twin Lakes,WI,,city-us,6388,42.53,-88.25,4407
-14507,Twin Lakes,CA,,city-us,5369,36.97,-122.00,4084
-14511,Twin Lakes,MN,,city-us,2092,46.62,-92.49,236
-14516,Twin Lakes,VA,,city-us,1552,38.25,-78.44,676
-14514,Twin Lakes,NM,,city-us,1082,35.71,-108.77,2041
-14513,Twin Lakes,MN,,city-us,759,47.28,-95.58,227
-14510,Twin Lakes,IA,,city-us,511,42.48,-94.64,745
-14509,Twin Lakes,CO,,city-us,145,39.08,-106.38,2609
-14512,Twin Lakes,MN,,city-us,131,43.56,-93.42,3093
-14515,Twin Lakes,OK,,city-us,124,35.87,-97.67,442
-14506,Twin Lakes,CA,,city-us,92,38.15,-119.35,481
-14517,Twin Lakes,WA,,city-us,87,48.26,-118.36,721
-14519,Twin Lakes,GA,,city-us,0,30.70,-83.21,179
-14520,Twin Lakes,IN,,city-us,0,41.30,-86.36,267
-14521,Twin Lakes,KY,,city-us,0,36.96,-88.19,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7800,Chambers,NE,Holt County,,city-us,427,42.219,-98.768,298
+7799,Chambers,AZ,Apache County,,city-us,0,35.189,-109.433,1935
+7801,Chambers,WV,Logan County,,city-us,0,37.821,-81.880,88

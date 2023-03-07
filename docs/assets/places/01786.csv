@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16216,Branford,CT,,city-us,28176,41.28,-72.79,16855
-16217,Branford,FL,,city-us,734,29.96,-82.93,1869
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9149,Coburg,OR,Lane County,,city-us,1318,44.137,-123.066,6322
+9150,Coburg,IA,Montgomery County,,city-us,27,40.917,-95.264,2651
+9148,Coburg,KY,Adair County,,city-us,0,37.201,-85.336,116
+9151,Coburg,IN,Porter County,,city-us,0,41.519,-86.949,404

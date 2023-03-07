@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41400,Disney,OK,,city-us,223,36.48,-95.01,4846
-41401,Dizney,KY,,city-us,0,36.85,-83.12,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35923,Raven,VA,Russell County / Tazewell County,,city-us,2133,37.093,-81.859,1851
+35920,Raven,NE,Brown County,,city-us,0,42.276,-99.866,190
+35921,Raven,IL,Edgar County,,city-us,0,39.804,-87.546,130
+35922,Raven,KY,Knott County,,city-us,0,37.403,-82.806,111

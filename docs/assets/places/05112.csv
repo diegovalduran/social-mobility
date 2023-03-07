@@ -1,4 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34952,Pinckney,MI,,city-us,2441,42.46,-83.95,4598
-34953,Pinckney,NY,,city-us,319,43.83,-75.79,3043
-34954,Pinckney,MO,,city-us,0,38.68,-91.23,323
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26243,Macedonia,,,,country,2133410,41.609,21.745,3201
+26237,Macedonia,NJ,Monmouth County,,city-us,19181,40.266,-74.096,20253
+26240,Macedonia,OH,Summit County,,city-us,12203,41.314,-81.508,2936
+26239,Macedonia,IA,Pottawattamie County,,city-us,267,41.193,-95.426,3200
+26238,Macedonia,AL,Pickens County,,city-us,176,33.392,-88.233,2095
+26234,Macedonia,IL,Franklin County / Hamilton County,,city-us,29,38.054,-88.703,1984
+26230,Macedonia,VA,Accomack County,,city-us,0,37.826,-75.605,76
+26231,Macedonia,GA,Cherokee County,,city-us,0,34.254,-84.360,4532
+26232,Macedonia,SC,Cherokee County,,city-us,0,35.071,-81.760,174
+26233,Macedonia,KY,Estill County,,city-us,0,37.627,-83.869,93
+26235,Macedonia,IN,Harrison County,,city-us,0,38.054,-85.960,135
+26236,Macedonia,TX,Liberty County,,city-us,0,30.263,-94.890,966
+26241,Macedonia,TN,White County,,city-us,0,36.036,-85.531,219
+26242,Macedonia,TX,Williamson County,,city-us,0,30.641,-97.681,445

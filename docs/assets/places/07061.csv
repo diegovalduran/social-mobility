@@ -1,7 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41338,Blackwell,OK,,city-us,6069,36.80,-97.28,12346
-41340,Blackwell,WI,,city-us,332,45.51,-88.61,2077
-41339,Blackwell,TX,,city-us,254,32.09,-100.32,1957
-41341,Blackwell,MO,,city-us,0,38.04,-90.62,471
-41342,Blackwell,PA,,city-us,0,41.56,-77.38,334
-41343,Blackwell,VA,,city-us,0,36.83,-81.86,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35819,Ramsey,MN,Anoka County,,city-us,28202,45.261,-93.450,3760
+35820,Ramsey,NJ,Bergen County,,city-us,14693,41.057,-74.141,21435
+35818,Ramsay,MI,Gogebic County,,city-us,1176,46.421,-89.998,3395
+35821,Ramsey,IL,Fayette County,,city-us,948,39.144,-89.109,2444
+35825,Ramsey,SD,McCook County,,city-us,99,43.802,-97.189,0
+35822,Ramsey,WV,Fayette County,,city-us,0,38.170,-81.031,232
+35823,Ramsey,IN,Harrison County,,city-us,0,38.324,-86.155,461
+35824,Ramsey,OH,Jefferson County,,city-us,0,40.193,-80.833,232
+35826,Ramsey,MN,Mower County,,city-us,0,43.710,-92.970,257
+35827,Ramsey,VA,Nelson County,,city-us,0,37.855,-78.962,100

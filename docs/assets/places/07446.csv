@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42650,Sproul,PA,,city-us,0,40.27,-78.46,261
-42651,Sproul,WV,,city-us,0,38.25,-81.80,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37847,Rubicon,WI,Dodge County,,city-us,2005,43.340,-88.457,2226
+37849,Rubicon,MI,Huron County,,city-us,701,43.918,-82.688,1910
+37848,Rubicon,IL,Greene County,,city-us,292,39.393,-90.188,884

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33333,Fairlee,MD,,city-us,478,39.22,-76.17,462
-33334,Fairlee,VT,,city-us,125,43.91,-72.14,3298
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24319,Leef,IL,Madison County,,city-us,621,38.874,-89.660,449
+24215,Leaf,MS,Greene County,,city-us,62,31.026,-88.796,1785
+24216,Leaf,GA,White County,,city-us,0,34.574,-83.661,210

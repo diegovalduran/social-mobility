@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44713,Bear River,WY,,city-us,525,41.38,-111.03,1560
-44714,Bear River,MN,,city-us,10,47.78,-93.08,1064
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41146,St. Stephens,NC,Catawba County,,city-us,9396,35.765,-81.273,2543
+41148,St. Stephens,AL,Washington County,,city-us,422,31.540,-88.055,7124
+41147,St. Stephens,WY,Fremont County,,city-us,0,42.984,-108.421,422

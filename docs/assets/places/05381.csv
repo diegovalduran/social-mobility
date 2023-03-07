@@ -1,11 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35985,Jones,OK,,city-us,2941,35.57,-97.29,3706
-35992,Jones,MI,,city-us,1632,41.93,-85.81,3403
-35986,Jones,PA,,city-us,1556,41.58,-78.63,2478
-35984,Jones,MN,,city-us,268,47.47,-95.08,2630
-35987,Jones,SD,,city-us,76,43.13,-99.36,0
-35988,Jones,AL,,city-us,0,32.58,-86.90,526
-35989,Jones,IL,,city-us,0,39.45,-88.34,116
-35990,Jones,KY,,city-us,0,37.36,-83.23,88
-35991,Jones,LA,,city-us,0,32.97,-91.65,211
-35993,Jones,WV,,city-us,0,39.06,-79.99,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27542,McHenry,IL,McHenry County,,city-us,46441,42.372,-88.280,557
+27543,McHenry,KY,Ohio County,,city-us,368,37.382,-86.922,1937
+27541,McHenry,PA,Lycoming County,,city-us,121,41.433,-77.440,5597
+27539,McHenry,ND,Foster County,,city-us,64,47.576,-98.591,3282
+27540,McHenry,MD,Garrett County,,city-us,0,39.558,-79.353,364
+27544,McHenry,VA,Spotsylvania County,,city-us,0,38.172,-77.706,95
+27545,McHenry,CA,Stanislaus County,,city-us,0,37.708,-121.004,416
+27546,McHenry,MS,Stone County,,city-us,0,30.707,-89.138,1821

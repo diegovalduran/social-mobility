@@ -1,4 +1,61 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40113,Luna,NM,,city-us,50,33.82,-108.95,1370
-40114,Luna,AR,,city-us,0,33.38,-91.20,306
-40115,Luna,MN,,city-us,0,48.25,-96.79,509
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33707,Perry,OH,Stark County,,city-us,28224,40.771,-81.468,1106
+33680,Perry,GA,Houston County / Peach County,,city-us,22029,32.472,-83.726,9241
+33667,Perry,OH,Columbiana County,,city-us,16201,40.900,-80.860,1106
+33684,Perry,OH,Lake County,,city-us,8839,41.818,-81.106,1106
+33669,Perry,IA,Dallas County,,city-us,7929,41.839,-94.107,4932
+33708,Perry,FL,Taylor County,,city-us,6920,30.117,-83.582,4907
+33685,Perry,OH,Lawrence County,,city-us,6427,38.493,-82.588,1106
+33692,Perry,OH,Montgomery County,,city-us,5818,39.788,-84.425,1106
+33716,Perry,NY,Wyoming County,,city-us,5768,42.754,-78.011,4613
+33662,Perry,UT,Box Elder County,,city-us,5752,41.465,-112.032,4682
+33663,Perry,OH,Brown County,,city-us,4652,39.189,-83.932,1106
+33695,Perry,OK,Noble County,,city-us,4527,36.289,-97.288,10722
+33705,Perry,MI,Shiawassee County,,city-us,4130,42.800,-84.188,2387
+33675,Perry,OH,Franklin County,,city-us,3842,40.127,-83.049,1106
+33658,Perry,OH,Allen County,,city-us,3314,40.675,-84.041,1106
+33694,Perry,OH,Muskingum County,,city-us,2752,39.976,-81.866,1106
+33661,Perry,PA,Berks County,,city-us,2487,40.511,-75.941,513
+33679,Perry,OH,Hocking County,,city-us,2404,39.515,-82.679,1106
+33674,Perry,PA,Fayette County,,city-us,2303,40.102,-79.769,513
+33706,Perry,PA,Snyder County,,city-us,2052,40.696,-77.017,513
+33660,Perry,OH,Ashland County,,city-us,1980,40.858,-82.172,1106
+33693,Perry,OH,Morrow County,,city-us,1967,40.593,-82.657,1106
+33686,Perry,PA,Lawrence County,,city-us,1843,40.891,-80.207,513
+33687,Perry,OH,Licking County,,city-us,1684,40.130,-82.237,1106
+33714,Perry,OH,Wood County,,city-us,1572,41.211,-83.479,1106
+33676,Perry,OH,Gallia County,,city-us,1488,38.810,-82.398,1106
+33703,Perry,OH,Richland County,,city-us,1456,40.594,-82.597,1106
+33677,Perry,PA,Greene County,,city-us,1386,39.766,-80.122,513
+33690,Perry,PA,Mercer County,,city-us,1322,41.393,-80.224,513
+33697,Perry,OH,Pickaway County,,city-us,1278,39.555,-83.210,1106
+33682,Perry,PA,Jefferson County,,city-us,1237,40.937,-79.064,513
+33712,Perry,LA,Vermilion Parish,,city-us,1171,29.949,-92.157,884
+33673,Perry,OH,Fayette County,,city-us,1095,39.415,-83.437,1106
+33700,Perry,OH,Putnam County,,city-us,985,41.052,-84.282,1106
+33689,Perry,OH,Logan County,,city-us,966,40.349,-83.570,1106
+33704,Perry,OH,Shelby County,,city-us,960,40.297,-84.071,1106
+33666,Perry,PA,Clarion County,,city-us,923,41.094,-79.645,513
+33664,Perry,OH,Carroll County,,city-us,894,40.454,-81.091,1106
+33699,Perry,OH,Pike County,,city-us,891,39.172,-83.314,1106
+33681,Perry,KS,Jefferson County,,city-us,858,39.076,-95.393,4154
+33688,Perry,SD,Lincoln County,,city-us,841,43.394,-96.858,220
+33713,Perry,ME,Washington County,,city-us,814,44.984,-67.101,4051
+33670,Perry,WI,Dane County,,city-us,740,42.901,-89.779,1747
+33701,Perry,MO,Ralls County,,city-us,673,39.431,-91.675,3321
+33668,Perry,OH,Coshocton County,,city-us,659,40.271,-82.140,1106
+33698,Perry,IL,Pike County,,city-us,481,39.798,-90.734,345
+33710,Perry,OH,Tuscarawas County,,city-us,439,40.253,-81.391,1106
+33691,Perry,OH,Monroe County,,city-us,422,39.651,-81.075,1106
+33659,Perry,PA,Armstrong County,,city-us,365,41.033,-79.656,513
+33671,Perry,SD,Davison County,,city-us,291,43.826,-98.022,220
+33696,Perry,AR,Perry County,,city-us,261,35.048,-92.794,2463
+33709,Perry,NE,Thurston County,,city-us,229,42.246,-96.722,248
+33657,Perry,SC,Aiken County,,city-us,196,33.627,-81.311,2113
+33715,Perry,KS,Woodson County,,city-us,105,37.784,-95.590,4154
+33683,Perry,MN,Lac qui Parle County,,city-us,89,45.116,-96.299,1994
+33672,Perry,TX,Falls County,,city-us,76,31.418,-96.915,173
+33665,Perry,ND,Cavalier County,,city-us,43,48.688,-98.378,0
+33678,Perry,WV,Hardy County,,city-us,0,38.971,-78.675,145
+33702,Perry,NE,Red Willow County,,city-us,0,40.210,-100.723,212
+33711,Perry,OR,Union County,,city-us,0,45.348,-118.167,873

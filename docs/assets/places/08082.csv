@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44589,Alum Creek,WV,,city-us,1194,38.29,-81.84,4632
-44591,Alum Creek,TX,,city-us,70,30.07,-97.22,1807
-44590,Alum Creek,OH,,city-us,0,40.27,-82.94,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40926,Spur,TX,Dickens County,,city-us,740,33.476,-100.856,4274
+40930,Spurr,MI,Baraga County,,city-us,261,46.479,-88.245,3743

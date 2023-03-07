@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14408,Sunnyvale,CA,,city-us,152258,37.37,-122.04,21102
-14409,Sunnyvale,TX,,city-us,8062,32.80,-96.56,6615
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7731,Centralia,WA,Lewis County,,city-us,18629,46.716,-122.954,13313
+7732,Centralia,IL,Marion County,,city-us,14191,38.513,-89.082,951
+7727,Centralia,IL,Clinton County / Jefferson County / Marion County / Washington County,,city-us,12033,38.522,-89.124,16117
+7724,Centralia,MO,Audrain County / Boone County,,city-us,4657,39.211,-92.134,6162
+7733,Centralia,KS,Nemaha County,,city-us,486,39.726,-96.127,4183
+7730,Centralia,IA,Dubuque County,,city-us,115,42.472,-90.837,3086
+7734,Centralia,TX,Trinity County,,city-us,53,31.258,-95.040,936
+7728,Centralia,PA,Columbia County,,city-us,4,40.804,-76.341,22126
+7725,Centralia,WV,Braxton County,,city-us,0,38.623,-80.568,240
+7726,Centralia,VA,Chesterfield County,,city-us,0,37.381,-77.460,1096
+7729,Centralia,OK,Craig County,,city-us,0,36.797,-95.353,1230

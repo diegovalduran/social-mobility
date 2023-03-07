@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16126,Woodmoor,CO,,city-us,8840,39.10,-104.85,3220
-16127,Woodmore,MD,,city-us,4742,38.92,-76.80,6182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9120,Coalwood,MI,Alger County,,city-us,1019,46.353,-86.752,4214
+9121,Coalwood,WV,McDowell County,,city-us,900,37.387,-81.653,3499
+9122,Coalwood,MT,Powder River County,,city-us,0,45.728,-105.591,683

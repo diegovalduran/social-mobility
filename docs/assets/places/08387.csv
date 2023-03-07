@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45389,Auckland,,New Zealand,city-international,1346091,-36.85,174.78,58126
-45388,Auckland,CA,,city-us,0,36.59,-119.11,161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42391,Tabb,VA,York County,,city-us,23807,37.123,-76.457,3884
+42389,Tab,IN,Warren County,,city-us,36,40.411,-87.473,1219
+42390,Tabb,WV,Berkeley County,,city-us,0,39.514,-77.968,88

@@ -1,12 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19496,Everett,WA,,city-us,110812,47.98,-122.20,77801
-19498,Everett,NJ,,city-us,67106,40.40,-74.07,32958
-19491,Everett,MA,,city-us,48557,42.41,-71.05,13249
-19492,Everett,MI,,city-us,1991,43.51,-85.73,1892
-19495,Everett,PA,,city-us,1767,40.01,-78.37,4081
-19493,Everett,NE,,city-us,949,41.96,-96.50,189
-19490,Everett,GA,,city-us,158,31.39,-81.64,1584
-19494,Everett,NE,,city-us,0,41.61,-96.62,237
-19497,Everett,MO,,city-us,0,38.50,-94.43,258
-19499,Everett,OH,,city-us,0,41.20,-81.57,386
-19500,Everett,WV,,city-us,0,39.49,-81.03,114
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11449,Delhi,,,India,city-international,31870000,28.667,77.217,51979
+11440,Delhi,OH,Hamilton County,,city-us,28610,39.102,-84.634,9706
+11441,Delhi,MI,Ingham County,,city-us,27770,42.626,-84.533,3228
+11444,Delhi,CA,Merced County,,city-us,10921,37.432,-120.779,5574
+11438,Delhi,NY,Delaware County,,city-us,4928,42.272,-74.908,3957
+11447,Delhi,LA,Richland Parish,,city-us,2584,32.458,-91.493,6155
+11437,Delhi,IA,Delaware County,,city-us,420,42.430,-91.331,3366
+11446,Delhi,MN,Redwood County,,city-us,44,44.599,-95.211,3413
+11439,Delhi,ND,Golden Valley County,,city-us,39,47.017,-103.852,0
+11445,Delhi,KS,Osborne County,,city-us,32,39.201,-98.548,196
+11434,Delhi,OK,Beckham County,,city-us,0,35.175,-99.676,241
+11435,Delhi,TX,Caldwell County,,city-us,0,29.828,-97.396,3135
+11436,Delhi,MO,Crawford County,,city-us,0,38.128,-91.348,415
+11442,Delhi,IL,Jersey County,,city-us,0,39.045,-90.256,697
+11443,Delhi,CO,Las Animas County,,city-us,0,37.642,-104.018,643
+11448,Delhi,GA,Wilkes County,,city-us,0,33.914,-82.674,215

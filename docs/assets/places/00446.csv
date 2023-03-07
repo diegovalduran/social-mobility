@@ -1,9 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5006,Trinity,FL,,city-us,18191,28.18,-82.68,4103
-5007,Trinity,NC,,city-us,7072,35.89,-79.99,3481
-5005,Trinity,AL,,city-us,2542,34.60,-87.08,4227
-5008,Trinity,TX,,city-us,2377,30.95,-95.38,8342
-5009,Trinity,IN,,city-us,0,40.54,-84.85,378
-5010,Trinity,KY,,city-us,0,38.22,-82.74,236
-5011,Trinity,MS,,city-us,0,33.35,-88.46,220
-5012,Trinity,VA,,city-us,0,37.46,-79.89,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2344,Balsam,MN,Itasca County,,city-us,551,47.490,-93.411,121
+2345,Balsam,NC,Jackson County,,city-us,49,35.256,-83.052,4369
+2342,Balsam,MN,Aitkin County,,city-us,29,46.814,-93.101,121
+2343,Balsam,MI,Iron County,,city-us,0,46.208,-88.381,272

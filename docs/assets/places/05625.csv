@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36841,White Bear,MN,,city-us,10742,45.10,-93.02,2904
-36842,White Bear,MO,,city-us,0,39.70,-91.46,318
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28946,Mize,MS,Smith County,,city-us,318,31.868,-89.556,3037
+28945,Mize,KY,Morgan County,,city-us,0,37.859,-83.374,287
+28947,Mize,GA,Stephens County,,city-us,0,34.473,-83.337,238

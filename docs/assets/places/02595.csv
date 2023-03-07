@@ -1,11 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21656,Fenton,MI,,city-us,16961,42.83,-83.75,5559
-21655,Fenton,MI,,city-us,11989,42.80,-83.72,7099
-21659,Fenton,NY,,city-us,6364,42.20,-75.80,4650
-21658,Fenton,MO,,city-us,3968,38.51,-90.44,8856
-21652,Fenton,IA,,city-us,265,43.22,-94.43,3364
-21654,Fenton,LA,,city-us,224,30.37,-92.92,2219
-21657,Fenton,MN,,city-us,142,43.89,-95.88,2191
-21653,Fenton,IL,,city-us,0,41.73,-90.03,169
-21660,Fenton,KY,,city-us,0,36.78,-88.10,81
-21661,Fenton,WY,,city-us,0,44.40,-108.57,99
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12841,Ebenezer,TX,Camp County,,city-us,0,32.972,-94.881,1381
+12842,Ebenezer,PA,Dauphin County,,city-us,0,40.235,-76.776,206
+12843,Ebenezer,MO,Greene County,,city-us,0,37.340,-93.307,416
+12844,Ebenezer,MS,Holmes County,,city-us,0,32.971,-90.091,1840
+12845,Ebenezer,TX,Jasper County,,city-us,0,31.038,-94.161,422
+12846,Ebenezer,WI,Jefferson County,,city-us,0,43.138,-88.738,166
+12847,Ebenezer,KY,Mercer County,,city-us,0,37.880,-84.815,119
+12848,Ebenezer,KY,Muhlenberg County,,city-us,0,37.204,-87.081,138
+12849,Ebenezer,VA,Pittsylvania County,,city-us,0,36.817,-79.191,96
+12850,Ebenezer,OH,Preble County,,city-us,0,39.842,-84.697,244

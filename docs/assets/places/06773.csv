@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40505,Levittown,NY,,city-us,52540,40.73,-73.51,27528
-40506,Levittown,PA,,city-us,51100,40.16,-74.83,21751
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34391,Plain,OH,Stark County,,city-us,53419,40.871,-81.367,225
+34388,Plain,OH,Franklin County,,city-us,12734,40.094,-82.801,225
+34392,Plain,OH,Wayne County,,city-us,3085,40.775,-82.046,225
+34393,Plain,OH,Wood County,,city-us,1632,41.379,-83.716,225
+34390,Plain,WI,Sauk County,,city-us,744,43.279,-90.044,7957
+34389,Plain,ND,Renville County,,city-us,23,48.510,-101.636,0

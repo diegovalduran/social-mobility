@@ -1,4 +1,32 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24968,Creek,IL,,city-us,475,40.09,-88.87,0
-24969,Creek,KS,,city-us,201,37.34,-97.75,0
-24970,Creek,TX,,city-us,0,31.17,-95.61,459
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15877,Freedom,WI,Outagamie County,,city-us,6200,44.386,-88.289,3768
+15884,Freedom,CA,Santa Cruz County,,city-us,3399,36.935,-121.773,3989
+15863,Freedom,PA,Blair County,,city-us,2997,40.362,-78.463,174
+15880,Freedom,OH,Portage County,,city-us,2671,41.239,-81.141,160
+15890,Freedom,OH,Wood County,,city-us,2643,41.380,-83.467,160
+15868,Freedom,NY,Cattaraugus County,,city-us,2244,42.471,-78.377,3838
+15867,Freedom,NH,Carroll County,,city-us,1728,43.842,-71.075,4083
+15862,Freedom,PA,Beaver County,,city-us,1479,40.686,-80.252,5498
+15889,Freedom,MI,Washtenaw County,,city-us,1322,42.213,-83.964,3143
+15873,Freedom,OH,Henry County,,city-us,926,41.457,-84.172,160
+15866,Freedom,IL,Carroll County,,city-us,835,42.158,-89.928,231
+15861,Freedom,PA,Adams County,,city-us,819,39.758,-77.297,174
+15886,Freedom,ME,Waldo County,,city-us,729,44.494,-69.348,4158
+15874,Freedom,IL,LaSalle County,,city-us,602,41.499,-88.876,231
+15864,Freedom,KS,Bourbon County,,city-us,593,37.986,-94.767,597
+15885,Freedom,WI,Sauk County,,city-us,452,43.415,-89.901,1969
+15888,Freedom,MN,Waseca County,,city-us,337,43.982,-93.711,1833
+15871,Freedom,WI,Forest County,,city-us,323,45.442,-88.736,1803
+15865,Freedom,ID,Caribou County,,city-us,214,42.983,-111.044,3347
+15891,Freedom,OK,Woods County,,city-us,176,36.769,-99.113,4469
+15875,Freedom,WY,Lincoln County,,city-us,168,42.985,-111.030,3347
+15887,Freedom,ND,Ward County,,city-us,158,48.064,-101.335,0
+15881,Freedom,KS,Republic County,,city-us,134,39.873,-97.650,103
+15869,Freedom,KS,Ellis County,,city-us,97,38.733,-99.125,417
+15879,Freedom,KS,Phillips County,,city-us,74,39.872,-99.342,0
+15870,Freedom,SD,Faulk County,,city-us,32,45.211,-99.142,0
+15872,Freedom,NE,Frontier County,,city-us,0,40.424,-100.369,439
+15876,Freedom,MO,Osage County,,city-us,0,38.464,-91.691,372
+15878,Freedom,IN,Owen County,,city-us,0,39.207,-86.869,1759
+15882,Freedom,KY,Russell County,,city-us,0,36.923,-85.106,92
+15883,Freedom,UT,Sanpete County,,city-us,0,39.542,-111.649,559

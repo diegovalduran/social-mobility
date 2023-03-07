@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48051,Coban,,Guatemala,city-international,228664,15.48,-90.37,266
-48050,Cobban,WI,,city-us,0,45.10,-91.21,400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48024,York Center,WI,Dane County,,city-us,0,43.239,-89.070,186
+48025,York Center,IL,DuPage County,,city-us,0,41.857,-87.988,2902
+48026,York Center,OH,Union County,,city-us,0,40.408,-83.453,362

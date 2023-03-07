@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48012,Wickham,WV,,city-us,0,39.21,-78.87,335
-48013,Wickham,WV,,city-us,0,37.78,-81.22,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47939,Yates,MI,Macomb County,,city-us,79408,42.671,-83.033,7444
+47941,Yates,NY,Orleans County,,city-us,2542,43.339,-78.388,3537
+47938,Yates,MI,Lake County,,city-us,833,43.853,-85.747,2168
+47940,Yates,IL,McLean County,,city-us,278,40.721,-88.632,520
+47942,Yates,MO,Randolph County,,city-us,0,39.310,-92.599,401
+47943,Yates,WV,Taylor County,,city-us,0,39.295,-80.024,190
+47944,Yates,MT,Wibaux County,,city-us,0,46.951,-104.131,209

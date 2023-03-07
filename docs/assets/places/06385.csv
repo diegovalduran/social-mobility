@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39345,Corner,NE,,city-us,23,41.70,-99.27,243
-39346,Corner,AL,,city-us,0,33.80,-86.94,1751
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32569,Oscar,LA,Pointe Coupee Parish,,city-us,900,30.615,-91.461,1799
+32568,Oscar,MN,Otter Tail County,,city-us,208,46.426,-96.233,1807
+32563,Oscar,PA,Armstrong County,,city-us,0,40.840,-79.371,315
+32564,Oscar,KY,Ballard County,,city-us,0,37.136,-89.027,134
+32565,Oscar,TX,Bell County,,city-us,0,31.051,-97.262,932
+32566,Oscar,WV,Greenbrier County,,city-us,0,38.059,-80.368,141
+32567,Oscar,OK,Jefferson County,,city-us,0,33.984,-97.753,446
+32570,Oscar,MO,Texas County,,city-us,0,37.414,-91.831,366

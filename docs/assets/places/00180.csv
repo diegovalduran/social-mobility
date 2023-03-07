@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1805,Dadeville,AL,,city-us,2998,32.83,-85.76,5924
-1806,Dadeville,MO,,city-us,229,37.48,-93.67,3536
+id,name,state,county,country,level,population,latitude,longitude,wiki
+933,Amber,MI,Mason County,,city-us,2568,43.959,-86.346,2005
+931,Amber,OK,Grady County,,city-us,426,35.160,-97.879,2019
+932,Amber,IA,Jones County,,city-us,0,42.128,-91.180,1841
+934,Amber,WA,Spokane County,,city-us,0,47.352,-117.713,561

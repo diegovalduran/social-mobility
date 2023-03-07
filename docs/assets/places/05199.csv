@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35313,Ypsilanti,MI,,city-us,55499,42.21,-83.60,6152
-35314,Ypsilanti,ND,,city-us,109,46.78,-98.56,2081
-35315,Ypsilanti,GA,,city-us,0,32.74,-84.41,293
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26675,Manteo,NC,Dare County,,city-us,1625,35.908,-75.676,7047
+26674,Manteo,VA,Buckingham County,,city-us,0,37.677,-78.663,92

@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35112,Springvale,MI,,city-us,2150,45.34,-84.80,2840
-35116,Springvale,WI,,city-us,679,43.76,-88.70,1701
-35115,Springvale,WI,,city-us,545,43.50,-89.19,2086
-35114,Springvale,ND,,city-us,57,46.85,-97.74,134
-35113,Springvale,MN,,city-us,0,45.63,-93.31,388
-35117,Springvale,GA,,city-us,0,31.83,-84.88,414
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26439,Maidstone,,,United Kingdom,city-international,107627,51.272,0.529,23240
+26438,Maidstone,VT,Essex County,,city-us,209,44.648,-71.632,3128

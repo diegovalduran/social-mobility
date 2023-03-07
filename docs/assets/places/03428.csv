@@ -1,12 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26809,Lyman,SC,,city-us,6321,34.95,-82.13,4172
-26805,Lyman,ME,,city-us,4563,43.50,-70.65,5503
-26812,Lyman,WY,,city-us,2175,41.33,-110.29,3395
-26806,Lyman,MS,,city-us,1824,30.49,-89.13,2642
-26808,Lyman,NH,,city-us,595,44.26,-71.93,3063
-26804,Lyman,IL,,city-us,513,40.63,-88.19,1168
-26811,Lyman,WA,,city-us,420,48.53,-122.06,3680
-26807,Lyman,NE,,city-us,256,41.92,-104.04,3757
-26810,Lyman,UT,,city-us,206,38.40,-111.59,1933
-26813,Lyman,IA,,city-us,0,41.23,-94.98,226
-26814,Lyman,SD,,city-us,0,43.88,-99.74,239
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17358,Graball,TN,Sumner County,,city-us,131,36.483,-86.438,157
+17355,Graball,TN,Gibson County,,city-us,0,35.873,-88.745,209
+17356,Graball,AL,Henry County,,city-us,0,31.587,-85.276,133
+17357,Graball,TN,Marshall County,,city-us,0,35.309,-86.809,161

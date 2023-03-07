@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39159,Stavanger,,Norway,city-international,129300,58.97,5.73,51577
-39157,Stavanger,ND,,city-us,106,47.63,-97.03,0
-39158,Stavanger,IL,,city-us,0,41.40,-88.61,219
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32309,Ono,PA,Lebanon County,,city-us,0,40.403,-76.535,805
+32310,Ono,WI,Pierce County,,city-us,0,44.656,-92.256,608
+32311,Ono,KY,Russell County,,city-us,0,36.989,-84.967,177
+32312,Ono,CA,Shasta County,,city-us,0,40.475,-122.618,913

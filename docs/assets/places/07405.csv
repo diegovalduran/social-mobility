@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42520,Quakertown,PA,,city-us,9307,40.44,-75.34,13314
-42521,Quakertown,DE,,city-us,0,38.76,-75.16,187
-42522,Quakertown,IN,,city-us,0,39.58,-85.00,320
-42523,Quakertown,NJ,,city-us,0,40.57,-74.94,1950
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37622,Rosette,SD,Edmunds County,,city-us,117,45.549,-99.038,0
+37621,Rosette,UT,Box Elder County,,city-us,0,41.819,-113.413,451

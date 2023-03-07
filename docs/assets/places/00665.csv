@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7455,Ivan,AR,,city-us,135,33.91,-92.42,500
-7456,Ivan,WV,,city-us,0,38.98,-81.34,158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3374,Beloit,WI,Rock County,,city-us,7822,42.553,-89.073,14703
+3373,Beloit,KS,Mitchell County,,city-us,3407,39.456,-98.106,8463
+3372,Beloit,OH,Mahoning County,,city-us,891,40.923,-80.994,4304
+3369,Beloit,AL,Dallas County,,city-us,0,32.212,-87.085,157
+3370,Beloit,GA,Lee County,,city-us,0,31.674,-84.077,347
+3371,Beloit,IA,Lyon County,,city-us,0,43.281,-96.575,525

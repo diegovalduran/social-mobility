@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39375,Friend,NE,,city-us,908,40.65,-97.29,4323
-39376,Friend,KS,,city-us,0,38.26,-100.91,768
-39377,Friend,OR,,city-us,0,45.35,-121.27,744
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32633,Oswego,IL,Kendall County,,city-us,56851,41.676,-88.318,979
+32634,Oswego,IL,Kendall County / Will County,,city-us,35316,41.683,-88.339,7708
+32637,Oswego,NY,Oswego County,,city-us,7501,43.402,-76.555,16593
+32631,Oswego,KS,Cherokee County / Labette County,,city-us,1658,37.168,-95.112,16760
+32638,Oswego,SC,Sumter County,,city-us,348,34.007,-80.288,1771
+32636,Oswego,KS,Labette County,,city-us,334,37.143,-95.137,16760
+32632,Oswego,NC,Franklin County,,city-us,0,36.150,-78.197,311
+32635,Oswego,IN,Kosciusko County,,city-us,0,41.320,-85.787,372
+32639,Oswego,MT,Valley County,,city-us,0,48.059,-105.881,687

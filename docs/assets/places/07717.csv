@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43527,Damon,MI,,city-us,843,44.44,-84.27,2128
-43525,Damon,TX,,city-us,154,29.29,-95.73,5228
-43526,Damon,IL,,city-us,0,40.08,-90.83,268
-43528,Damon,VA,,city-us,0,37.82,-78.66,69
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39060,Sebree,KY,Webster County,,city-us,1539,37.607,-87.529,3849
+39059,Sebree,MO,Howard County,,city-us,0,39.127,-92.531,235

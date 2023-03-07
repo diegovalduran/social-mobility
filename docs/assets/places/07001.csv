@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41147,Rossburg,OH,,city-us,159,40.28,-84.64,3689
-41148,Rossburg,IN,,city-us,0,39.33,-85.33,290
-41149,Rossburg,MN,,city-us,0,46.54,-93.58,418
-41150,Rossburg,OH,,city-us,0,39.31,-84.12,336
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35617,Quaker,IN,Vermillion County,,city-us,0,39.863,-87.528,312
+35618,Quaker,MO,Washington County,,city-us,0,37.781,-91.002,706
+35619,Quaker,WV,Wayne County,,city-us,0,38.052,-82.428,94

@@ -1,6 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13494,Oakhurst,CA,,city-us,5272,37.33,-119.65,9153
-13495,Oakhurst,NJ,,city-us,3810,40.27,-74.02,3105
-13496,Oakhurst,OK,,city-us,2290,36.08,-96.06,2512
-13498,Oakhurst,MI,,city-us,690,43.60,-83.63,3826
-13497,Oakhurst,TX,,city-us,233,30.74,-95.31,2278
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7015,Carpenter,WY,Laramie County,,city-us,163,41.046,-104.367,1523
+7014,Carpenter,MN,Itasca County,,city-us,151,47.835,-93.249,2254
+7017,Carpenter,IA,Mitchell County,,city-us,90,43.415,-93.015,3440
+7020,Carpenter,ND,Steele County,,city-us,44,47.282,-97.771,741
+7010,Carpenter,NM,Bernalillo County,,city-us,0,0.000,0.000,387
+7011,Carpenter,SD,Clark County,,city-us,0,44.638,-97.916,501
+7012,Carpenter,MS,Copiah County,,city-us,0,32.034,-90.680,1886
+7013,Carpenter,OK,Custer County,,city-us,0,35.530,-99.372,405
+7016,Carpenter,OH,Meigs County,,city-us,0,39.163,-82.219,455
+7018,Carpenter,DE,New Castle County,,city-us,0,39.818,-75.464,338
+7019,Carpenter,ND,Rolette County,,city-us,0,48.960,-99.977,741
+7021,Carpenter,NC,Wake County,,city-us,0,35.821,-78.872,648
+7022,Carpenter,KY,Whitley County,,city-us,0,36.716,-83.971,628
+7023,Carpenter,TX,Wilson County,,city-us,0,29.378,-98.185,720

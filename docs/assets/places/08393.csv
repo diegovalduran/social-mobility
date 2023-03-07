@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45402,Cabin Creek,CO,,city-us,0,39.74,-104.03,211
-45403,Cabin Creek,WV,,city-us,0,38.20,-81.48,988
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42412,Tacoma,WA,Pierce County,,city-us,219205,47.253,-122.444,44848
+42413,Tacoma,VA,Wise County,,city-us,204,36.938,-82.534,212
+42411,Tacoma,ND,Bottineau County,,city-us,66,48.669,-100.853,138
+42410,Tacoma,OH,Belmont County,,city-us,0,39.997,-81.146,271

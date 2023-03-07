@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4849,Somerville,MA,,city-us,79815,42.39,-71.10,49704
-4855,Summerville,SC,,city-us,51216,33.01,-80.18,6562
-4851,Somerville,NJ,,city-us,12559,40.57,-74.61,25413
-4847,Summerville,GA,,city-us,4400,34.48,-85.35,3594
-4856,Somerville,TN,,city-us,3423,35.24,-89.35,3839
-4857,Somerville,TX,,city-us,1329,30.35,-96.53,2550
-4846,Somerville,AL,,city-us,799,34.47,-86.80,3107
-4850,Somerville,ME,,city-us,618,44.29,-69.49,3326
-4854,Summerville,PA,,city-us,506,41.12,-79.19,2194
-4852,Somerville,OH,,city-us,258,39.56,-84.64,4426
-4848,Somerville,IN,,city-us,252,38.28,-87.38,3784
-4853,Summerville,OR,,city-us,119,45.49,-118.00,4158
-4858,Somerville,VA,,city-us,0,38.52,-77.61,2251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2230,Bairdstown,OH,Wood County,,city-us,117,41.173,-83.608,3146
+2229,Bairdstown,GA,Greene County,,city-us,0,33.698,-83.119,414

@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44005,Bluefield,WV,,city-us,9499,37.27,-81.22,13731
-44004,Bluefield,VA,,city-us,5018,37.25,-81.27,6310
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39964,Sitka,AK,Sitka City and Borough,,city-us,8407,57.053,-135.330,28641
+39962,Sitka,KS,Clark County,,city-us,0,37.175,-99.651,554
+39963,Sitka,KY,Johnson County,,city-us,0,37.881,-82.838,208
+39965,Sitka,OH,Washington County,,city-us,0,39.448,-81.338,451
+39966,Sitka,IN,White County,,city-us,0,40.826,-86.735,377

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43529,Deanville,TX,,city-us,63,30.43,-96.76,248
-43530,Deanville,PA,,city-us,0,40.95,-79.40,737
-43531,Deanville,WV,,city-us,0,38.99,-80.21,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39061,Sebring,FL,Highlands County,,city-us,11087,27.496,-81.441,9866
+39062,Sebring,OH,Mahoning County,,city-us,4177,40.923,-81.019,4234

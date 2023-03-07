@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32393,Panther,KY,,city-us,144,37.64,-87.22,327
-32394,Panther,PA,,city-us,0,41.28,-75.30,699
-32395,Panther,WV,,city-us,0,37.48,-81.90,347
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23143,Kitchen,OH,Jackson County,,city-us,0,38.870,-82.543,376
+23144,Kitchen,WV,Logan County,,city-us,0,37.981,-82.034,122

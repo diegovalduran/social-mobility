@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4510,Rainsville,AL,,city-us,5604,34.49,-85.85,4798
-4511,Rainsville,IN,,city-us,28,40.42,-87.32,525
-4512,Rainsville,NM,,city-us,0,35.98,-105.21,347
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2110,Avondale,AZ,Maricopa County,,city-us,90564,33.436,-112.350,10998
+2109,Avondale,LA,Jefferson Parish,,city-us,4969,29.913,-90.204,3078
+2107,Avondale,PA,Chester County,,city-us,1267,39.823,-75.783,2773
+2113,Avondale,CO,Pueblo County,,city-us,436,38.237,-104.351,2341
+2108,Avondale,MO,Clay County,,city-us,434,39.154,-94.547,3495
+2106,Avondale,GA,Bibb County,,city-us,0,32.985,-83.882,204
+2111,Avondale,WV,McDowell County,,city-us,0,37.413,-81.784,352
+2112,Avondale,MD,Prince George's County,,city-us,0,38.949,-76.975,10849
+2114,Avondale,OH,Stark County,,city-us,0,40.826,-81.414,475

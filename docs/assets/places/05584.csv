@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36681,Sverdrup,SD,,city-us,875,43.71,-96.70,0
-36679,Sverdrup,MN,,city-us,644,46.33,-95.84,2134
-36680,Sverdrup,ND,,city-us,76,47.38,-98.07,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28772,Milwaukee,WI,Milwaukee County / Washington County / Waukesha County,,city-us,569330,43.063,-87.967,80744
+28774,Milwaukie,OR,Clackamas County / Multnomah County,,city-us,20946,45.445,-122.621,10709
+28773,Milwaukee,NC,Northampton County,,city-us,157,36.406,-77.232,435
+28771,Milwaukee,PA,Lackawanna County,,city-us,0,41.422,-75.778,93

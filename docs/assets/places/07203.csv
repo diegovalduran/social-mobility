@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41890,Troutdale,OR,,city-us,15989,45.54,-122.39,8315
-41891,Troutdale,VA,,city-us,140,36.70,-81.44,2778
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36401,Rhodes,MI,Gladwin County,,city-us,844,43.862,-84.196,2363
+36402,Rhodes,IA,Marshall County,,city-us,269,41.926,-93.186,3282
+36400,Rhodes,MT,Flathead County,,city-us,225,48.279,-114.474,340
+36403,Rhodes,IN,Vermillion County,,city-us,0,39.609,-87.413,207
+37002,Roads,MO,Carroll County,,city-us,0,39.467,-93.701,270
+37003,Roads,OH,Jackson County,,city-us,0,39.081,-82.538,773

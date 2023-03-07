@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39024,Orin,WY,,city-us,78,42.65,-105.19,909
-39023,Orrin,ND,,city-us,7,48.09,-100.16,1522
-39025,Orin,WA,,city-us,0,48.49,-117.91,308
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32151,Old Town,ME,Penobscot County,,city-us,7372,44.934,-68.645,8488
+32150,Old Town,IL,McLean County,,city-us,3387,40.445,-88.860,343
+32146,Old Town,NC,Brunswick County,,city-us,0,34.137,-77.961,75
+32147,Old Town,FL,Dixie County,,city-us,0,29.601,-82.982,1022
+32148,Old Town,CA,Kern County,,city-us,0,35.143,-118.495,335
+32149,Old Town,NM,Luna County,,city-us,0,32.553,-107.915,567

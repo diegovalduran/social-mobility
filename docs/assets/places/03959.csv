@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29848,Ligonier,PA,,city-us,6025,40.23,-79.22,4361
-29847,Ligonier,IN,,city-us,4566,41.47,-85.59,5701
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20255,Hobbs,NM,Lea County,,city-us,39756,32.703,-103.136,6089
+20252,Hobbs,KY,Bullitt County,,city-us,0,37.927,-85.625,126
+20253,Hobbs,MD,Caroline County,,city-us,0,38.861,-75.784,139
+20254,Hobbs,TX,Fisher County,,city-us,0,32.781,-100.592,2007
+20256,Hobbs,IN,Tipton County,,city-us,0,40.284,-85.948,944

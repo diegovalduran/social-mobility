@@ -1,5 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21752,Graf,IA,,city-us,74,42.49,-90.87,2673
-21753,Graf,ND,,city-us,17,46.67,-99.51,0
-21754,Graff,MN,,city-us,0,46.57,-94.55,205
-21755,Graff,MO,,city-us,0,37.32,-92.28,428
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12971,Edgewater,FL,Volusia County,,city-us,23241,28.989,-80.902,3377
+12967,Edgewater,NJ,Bergen County,,city-us,14647,40.827,-73.976,30881
+12966,Edgewater,MD,Anne Arundel County,,city-us,9075,38.957,-76.550,1647
+12969,Edgewater,CO,Jefferson County,,city-us,4951,39.753,-105.064,4789
+12968,Edgewater,AL,Jefferson County,,city-us,836,33.527,-86.958,2634
+12970,Edgewater,WI,Sawyer County,,city-us,586,45.742,-91.475,2073

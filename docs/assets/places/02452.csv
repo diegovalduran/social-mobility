@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20751,Pearl City,IL,,city-us,779,42.27,-89.83,2947
-20750,Pearl City,HI,,city-us,0,21.39,-157.97,0
-20752,Pearl City,TX,,city-us,0,29.31,-97.24,368
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12245,Dry Fork,WV,Randolph County,,city-us,781,38.969,-79.503,973
+12246,Dry Fork,ND,Williams County,,city-us,46,48.240,-102.891,0
+12242,Dry Fork,KY,Barren County,,city-us,0,36.815,-85.925,98
+12243,Dry Fork,VA,Bland County,,city-us,0,37.273,-81.063,89
+12244,Dry Fork,VA,Pittsylvania County,,city-us,0,36.754,-79.400,98

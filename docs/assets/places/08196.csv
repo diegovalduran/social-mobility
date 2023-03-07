@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44899,Nicholsville,AL,,city-us,0,32.01,-87.90,356
-44900,Nicholsville,OH,,city-us,0,38.96,-84.17,511
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41476,Stewartstown,PA,York County,,city-us,2153,39.754,-76.591,3617
+41474,Stewartstown,NH,Coos County,,city-us,843,44.961,-71.407,2881
+41475,Stewartstown,WV,Monongalia County,,city-us,0,39.704,-79.901,577

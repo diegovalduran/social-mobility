@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46225,Pleasure Valley,IN,,city-us,0,39.40,-85.71,241
-46226,Pleasure Valley,WV,,city-us,0,39.11,-79.84,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43645,Tyner,NC,Chowan County,,city-us,0,36.215,-76.611,209
+43646,Tyner,KY,Jackson County,,city-us,0,37.345,-83.904,375
+43647,Tyner,IN,Marshall County,,city-us,0,41.410,-86.403,687
+43648,Tyner,WV,Wood County,,city-us,0,39.143,-81.643,109

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6520,Deer,AR,,city-us,135,35.83,-93.21,911
-6521,Deer,MN,,city-us,110,48.59,-96.19,1744
-6522,Deer,MO,,city-us,0,38.62,-91.80,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2887,Bearville,MN,Itasca County,,city-us,205,47.722,-93.150,2036
+2888,Bearville,KY,Knott County,,city-us,0,37.369,-83.067,145

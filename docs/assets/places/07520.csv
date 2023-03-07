@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42898,Olympia,WA,,city-us,55919,47.04,-122.90,23206
-42897,Olympia,SC,,city-us,1289,33.98,-81.03,1228
-42899,Olympia,KY,,city-us,0,38.10,-83.70,208
-42900,Olympia,MO,,city-us,0,37.73,-94.03,446
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38173,Saint Johns,IN,DeKalb County,,city-us,0,41.309,-85.114,232
+38174,Saint Johns,PA,Luzerne County,,city-us,0,41.028,-76.006,214
+38175,Saint Johns,KY,McCracken County,,city-us,0,36.966,-88.672,141

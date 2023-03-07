@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39760,Grenloch,NJ,,city-us,863,39.79,-75.06,296
-39759,Grenloch,NJ,,city-us,726,39.78,-75.06,296
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33214,Parma,,,Italy,city-international,195687,44.801,10.328,21563
+33210,Parma,OH,Cuyahoga County,,city-us,79982,41.405,-81.723,20734
+33212,Parma,NY,Monroe County,,city-us,16179,43.269,-77.800,2982
+33209,Parma,ID,Canyon County,,city-us,2114,43.785,-116.943,3985
+33211,Parma,MI,Jackson County,,city-us,777,42.258,-84.600,8785
+33213,Parma,MO,New Madrid County,,city-us,543,36.614,-89.816,6092

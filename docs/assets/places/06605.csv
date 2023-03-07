@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40054,Chama,NM,,city-us,912,36.90,-106.58,3796
-40055,Chama,CO,,city-us,0,37.16,-105.38,1004
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33579,Pennington,NJ,Mercer County,,city-us,2793,40.328,-74.791,16876
+33577,Pennington,AL,Choctaw County,,city-us,330,32.207,-88.056,2029
+33578,Pennington,TX,Houston County,,city-us,67,31.191,-95.236,1324
+33576,Pennington,MN,Beltrami County,,city-us,0,47.484,-94.480,209
+33580,Pennington,GA,Morgan County,,city-us,0,33.485,-83.561,259

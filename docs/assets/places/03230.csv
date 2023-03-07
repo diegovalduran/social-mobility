@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25437,Fall River,MA,,city-us,93884,41.70,-71.16,47570
-25438,Fall River,WI,,city-us,1807,43.38,-89.05,3756
-25434,Fall River,IL,,city-us,785,41.30,-88.77,430
-25436,Fall River,KS,,city-us,327,37.55,-95.92,183
-25435,Fall River,KS,,city-us,188,37.72,-96.22,498
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16272,Garcia,,,Mexico,city-international,145867,25.817,-100.583,1759
+16271,Garcia,CO,Costilla County,,city-us,0,37.003,-105.537,471

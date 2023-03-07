@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-438,King Salmon,AK,,city-us,399,58.69,-156.66,5164
-439,King Salmon,CA,,city-us,0,40.74,-124.22,1025
+id,name,state,county,country,level,population,latitude,longitude,wiki
+244,Advance,NC,Davie County,,city-us,1471,35.941,-80.409,3913
+248,Advance,MO,Stoddard County,,city-us,1336,37.105,-89.911,6159
+242,Advance,IN,Boone County,,city-us,508,39.996,-86.620,3529
+243,Advance,MI,Charlevoix County,,city-us,340,45.219,-85.071,1026
+246,Advance,ND,Pembina County,,city-us,136,48.834,-97.753,869
+245,Advance,OH,Fulton County,,city-us,0,41.641,-84.112,1129
+247,Advance,WI,Shawano County,,city-us,0,44.788,-88.332,211
+249,Advance,CA,Tulare County,,city-us,0,36.516,-118.903,317

@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30954,Eskridge,KS,,city-us,413,38.86,-96.11,4686
-30955,Eskridge,MS,,city-us,0,33.58,-89.70,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21526,Ira,MI,St. Clair County,,city-us,4970,42.697,-82.658,4128
+21521,Ira,NY,Cayuga County,,city-us,2129,43.209,-76.531,3350
+21524,Ira,VT,Rutland County,,city-us,370,43.569,-73.098,2220
+21522,Ira,IA,Jasper County,,city-us,0,41.778,-93.206,395
+21523,Ira,MO,Laclede County,,city-us,0,37.873,-92.850,419
+21525,Ira,TX,Scurry County,,city-us,0,32.582,-101.002,1162

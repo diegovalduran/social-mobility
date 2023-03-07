@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37695,Doddsville,MS,,city-us,67,33.66,-90.52,4426
-37696,Doddsville,IL,,city-us,0,40.28,-90.65,268
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30204,Nada,,,China,city-international,977700,19.500,109.583,2663
+30203,Nada,KY,Powell County,,city-us,52,37.815,-83.720,436
+30202,Nada,TX,Colorado County,,city-us,0,29.405,-96.386,1474

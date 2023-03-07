@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37119,Excello,MO,,city-us,24,39.64,-92.48,342
-37120,Excello,OH,,city-us,0,39.48,-84.42,983
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29410,Moorhead,MN,Clay County,,city-us,44668,46.874,-96.768,15357
+29413,Moorhead,MS,Sunflower County,,city-us,1909,33.450,-90.506,4261
+29411,Moorhead,IA,Monona County,,city-us,193,41.922,-95.851,3416
+29412,Moorhead,MT,Powder River County,,city-us,1,45.065,-105.871,2161

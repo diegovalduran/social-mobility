@@ -1,13 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17111,Stafford,NJ,,city-us,29498,39.71,-74.26,17194
-17115,Stafford,TX,,city-us,17364,29.63,-95.57,13631
-17107,Stafford,CT,,city-us,11412,41.98,-72.31,8991
-17112,Stafford,NY,,city-us,2405,42.99,-78.08,3707
-17114,Stafford,OR,,city-us,1895,45.36,-122.72,1841
-17108,Stafford,KS,,city-us,936,37.96,-98.60,4402
-17109,Stafford,MN,,city-us,262,48.76,-95.81,1873
-17113,Stafford,OH,,city-us,66,39.71,-81.28,3911
-17110,Stafford,ND,,city-us,33,48.94,-101.95,0
-17116,Stafford,CA,,city-us,0,40.45,-124.05,494
-17117,Stafford,NE,,city-us,0,42.33,-98.45,206
-17118,Stafford,OK,,city-us,0,35.54,-99.12,1091
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9663,Conklin,NY,Broome County,,city-us,4962,42.041,-75.835,4427
+9665,Conklin,MI,Ottawa County,,city-us,2017,43.162,-85.851,5829
+9666,Conklin,ND,Stutsman County,,city-us,11,47.294,-99.299,0
+9664,Conklin,VA,Loudoun County,,city-us,0,38.896,-77.517,301
+9667,Conklin,MO,Webster County,,city-us,0,37.385,-93.019,416

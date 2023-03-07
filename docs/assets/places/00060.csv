@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-512,Pelican,WI,,city-us,2845,45.59,-89.34,2216
-511,Pelican,SD,,city-us,749,44.84,-97.20,0
-509,Pelican,MN,,city-us,576,46.60,-96.10,226
-508,Pelican,MN,,city-us,520,46.59,-94.19,226
-507,Pelican,AK,,city-us,86,57.96,-136.23,10591
-510,Pelican,ND,,city-us,24,48.17,-99.11,0
-513,Pelican,LA,,city-us,0,31.88,-93.59,279
+id,name,state,county,country,level,population,latitude,longitude,wiki
+310,Agricola,MS,George County,,city-us,346,30.808,-88.520,533
+309,Agricola,KS,Coffey County,,city-us,0,38.419,-95.535,318
+311,Agricola,GA,Glascock County,,city-us,0,33.195,-82.720,223

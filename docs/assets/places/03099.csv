@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24716,Cartwright,IL,,city-us,1505,39.84,-89.91,1319
-24717,Cartwright,OK,,city-us,726,33.85,-96.56,898
-24718,Cartwright,ND,,city-us,0,47.86,-103.93,626
-24719,Cartwright,TX,,city-us,0,32.87,-95.37,1604
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15511,Foster City,CA,San Mateo County,,city-us,32517,37.559,-122.271,12904
+15510,Foster City,MI,Dickinson County,,city-us,499,45.963,-87.728,2990

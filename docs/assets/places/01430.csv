@@ -1,23 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13756,Pittsburgh,PA,,city-us,300431,40.44,-80.00,87330
-13749,Pittsburg,CA,,city-us,76544,38.03,-121.88,17451
-13752,Pittsburg,KS,,city-us,20738,37.41,-94.70,14351
-13757,Pittsburg,TX,,city-us,4374,33.00,-94.97,3916
-13766,Pittsburg,MI,,city-us,3168,42.92,-84.22,3758
-13754,Pittsburg,NH,,city-us,795,45.15,-71.25,6372
-13750,Pittsburg,IL,,city-us,563,37.78,-88.85,2295
-13753,Pittsburg,KS,,city-us,263,39.35,-98.44,1206
-13755,Pittsburg,OK,,city-us,177,34.71,-95.85,2593
-13751,Pittsburg,IN,,city-us,0,40.59,-86.70,618
-13758,Pittsburg,AL,,city-us,0,34.53,-87.21,239
-13759,Pittsburg,AR,,city-us,0,35.43,-93.38,280
-13760,Pittsburg,FL,,city-us,0,27.65,-81.50,414
-13761,Pittsburg,GA,,city-us,0,33.88,-84.22,568
-13762,Pittsburg,GA,,city-us,0,34.86,-85.43,415
-13763,Pittsburg,IL,,city-us,0,38.87,-89.21,429
-13764,Pittsburg,IA,,city-us,0,40.75,-91.99,421
-13765,Pittsburg,KY,,city-us,0,37.16,-84.10,207
-13767,Pittsburg,MS,,city-us,0,34.55,-88.21,232
-13768,Pittsburg,MO,,city-us,0,37.83,-93.30,376
-13769,Pittsburg,OR,,city-us,0,45.90,-123.15,784
-13770,Pittsburg,SC,,city-us,0,33.99,-82.00,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7205,Casner,IL,Jefferson County,,city-us,1157,38.340,-89.094,1412
+7206,Casner,IL,Macon County,,city-us,0,39.800,-88.791,171

@@ -1,7 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11133,Beverly Hills,CA,,city-us,31896,34.07,-118.40,23562
-11135,Beverly Hills,MI,,city-us,10521,42.52,-83.22,4992
-11134,Beverly Hills,FL,,city-us,9961,28.92,-82.46,4178
-11137,Beverly Hills,TX,,city-us,1876,31.52,-97.15,2039
-11136,Beverly Hills,MO,,city-us,467,38.70,-90.29,3365
-11138,Beverly Hills,WV,,city-us,0,39.48,-80.17,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5275,Bridgewater,NJ,Somerset County,,city-us,46350,40.592,-74.604,30614
+5272,Bridgewater,MA,Plymouth County,,city-us,28805,41.972,-70.979,13862
+5274,Bridgewater,VA,Rockingham County,,city-us,6177,38.382,-78.977,7757
+5276,Bridgewater,PA,Susquehanna County,,city-us,2579,41.833,-75.854,2086
+5273,Bridgewater,MN,Rice County,,city-us,1842,44.423,-93.231,2125
+5277,Bridgewater,MI,Washtenaw County,,city-us,1674,42.130,-83.960,3773
+5278,Bridgewater,CT,Western Connecticut Planning Region,,city-us,1658,41.520,-73.361,7542
+5271,Bridgewater,NY,Oneida County,,city-us,1486,42.904,-75.265,2873
+5279,Bridgewater,OH,Williams County,,city-us,1417,41.660,-84.635,1393
+5268,Bridgewater,NH,Grafton County,,city-us,1174,43.651,-71.686,2750
+5280,Bridgewater,VT,Windsor County,,city-us,911,43.640,-72.690,2247
+5267,Bridgewater,PA,Beaver County,,city-us,735,40.705,-80.301,3215
+5266,Bridgewater,ME,Aroostook County,,city-us,524,46.414,-67.849,3995
+5269,Bridgewater,NY,Madison County / Oneida County,,city-us,518,42.879,-75.252,2873
+5270,Bridgewater,SD,McCook County,,city-us,513,43.552,-97.508,3990
+5265,Bridgewater,IA,Adair County,,city-us,149,41.245,-94.669,3402

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32549,Bryceland,LA,,city-us,87,32.45,-92.98,1747
-32550,Briceland,CA,,city-us,0,40.11,-123.90,263
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23311,Kyle,TX,Hays County,,city-us,51789,29.989,-97.877,6389
+23313,Kyle,SD,Oglala Lakota County,,city-us,1398,43.425,-102.177,2638
+23310,Kyle,IN,Dearborn County,,city-us,0,39.138,-84.988,241
+23312,Kyle,WV,McDowell County,,city-us,0,37.408,-81.426,294

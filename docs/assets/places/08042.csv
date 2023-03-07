@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44452,Maple Creek,WI,,city-us,593,44.47,-88.69,1947
-44453,Maple Creek,CA,,city-us,0,40.76,-123.87,498
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40602,Spokane,WA,Spokane County,,city-us,229071,47.659,-117.426,74863
+40601,Spokane,LA,Concordia Parish,,city-us,544,31.699,-91.460,401
+40600,Spokane,MO,Christian County,,city-us,203,36.868,-93.297,3750

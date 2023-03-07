@@ -1,3 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45662,Colima,,Mexico,city-international,150673,19.24,-103.72,171
-45661,Colima,GA,,city-us,0,34.54,-84.71,294
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42815,Thompson,NY,Sullivan County,,city-us,16821,41.647,-74.677,3023
+42812,Thompson,CT,Northeastern Connecticut Planning Region,,city-us,9226,41.990,-71.867,8184
+42814,Thompson,OH,Seneca County,,city-us,1396,41.203,-82.889,207
+42807,Thompson,ND,Grand Forks County,,city-us,1101,47.774,-97.110,4719
+42805,Thompson,PA,Fulton County,,city-us,1038,39.786,-78.113,186
+42809,Thompson,IL,Jo Daviess County,,city-us,838,42.418,-90.154,957
+42813,Thompson,MI,Schoolcraft County,,city-us,810,45.969,-86.354,2686
+42804,Thompson,OH,Delaware County,,city-us,695,40.394,-83.212,207
+42819,Thompson,IA,Winnebago County,,city-us,500,43.371,-93.774,8025
+42816,Thompson,PA,Susquehanna County,,city-us,439,41.870,-75.525,186
+42810,Thompson,MN,Kittson County,,city-us,137,48.765,-96.853,1748
+42802,Thompson,MO,Audrain County,,city-us,0,39.189,-91.983,352
+42803,Thompson,AL,Bullock County,,city-us,0,32.185,-85.818,269
+42806,Thompson,OH,Geauga County,,city-us,0,41.690,-81.051,542
+42808,Thompson,NE,Jefferson County,,city-us,0,40.068,-97.259,225
+42811,Thompson,CA,Napa County,,city-us,0,38.239,-122.282,204
+42817,Thompson,TX,Trinity County,,city-us,0,31.098,-95.316,281
+42818,Thompson,WI,Washington County,,city-us,0,43.259,-88.371,140

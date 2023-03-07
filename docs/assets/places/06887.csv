@@ -1,3 +1,26 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40801,Chippewa Lake,MI,,city-us,1239,43.77,-85.27,2082
-40800,Chippewa Lake,OH,,city-us,660,41.07,-81.90,4355
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35039,Porter,TX,Montgomery County,,city-us,25769,30.102,-95.230,5062
+35047,Porter,OH,Scioto County,,city-us,9741,38.734,-82.845,119
+35041,Porter,NY,Niagara County,,city-us,6506,43.258,-78.970,5543
+35044,Porter,IN,Porter County,,city-us,5234,41.616,-87.074,6010
+35027,Porter,MI,Cass County,,city-us,3923,41.822,-85.826,247
+35049,Porter,MI,Van Buren County,,city-us,2542,42.120,-85.815,247
+35031,Porter,OH,Delaware County,,city-us,2206,40.315,-82.796,119
+35046,Porter,PA,Schuylkill County,,city-us,2157,40.609,-76.516,428
+35035,Porter,PA,Huntingdon County,,city-us,1901,40.540,-78.105,428
+35042,Porter,ME,Oxford County,,city-us,1621,43.838,-70.947,4793
+35037,Porter,PA,Lycoming County,,city-us,1528,41.214,-77.281,428
+35030,Porter,PA,Clinton County,,city-us,1482,41.030,-77.504,428
+35028,Porter,PA,Clarion County,,city-us,1286,41.049,-79.405,428
+35038,Porter,MI,Midland County,,city-us,1271,43.505,-84.421,247
+35045,Porter,WI,Rock County,,city-us,984,42.810,-89.177,2273
+35050,Porter,OK,Wagoner County,,city-us,582,35.871,-95.522,2006
+35043,Porter,PA,Pike County,,city-us,566,41.218,-75.074,428
+35051,Porter,MN,Yellow Medicine County,,city-us,162,44.636,-96.166,4331
+35034,Porter,WA,Grays Harbor County,,city-us,111,46.939,-123.311,1282
+35032,Porter,ND,Dickey County,,city-us,49,46.234,-98.451,193
+35029,Porter,WV,Clay County,,city-us,0,38.483,-81.256,112
+35033,Porter,OH,Gallia County,,city-us,0,38.928,-82.282,273
+35036,Porter,PA,Jefferson County,,city-us,0,40.934,-79.169,276
+35040,Porter,DE,New Castle County,,city-us,0,39.600,-75.690,285
+35048,Porter,MO,Scott County,,city-us,0,36.980,-89.478,208

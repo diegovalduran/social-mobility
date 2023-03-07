@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46781,Balmoral,LA,,city-us,0,32.12,-91.22,106
-46782,Balmoral,MD,,city-us,0,39.42,-77.30,87
-46783,Balmoral,TN,,city-us,0,35.11,-85.35,87
-46784,Balmoral,WI,,city-us,0,43.23,-90.46,264
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44860,Waldenburg,MI,Macomb County,,city-us,91663,42.659,-82.931,4416
+44861,Waldenburg,AR,Poinsett County,,city-us,53,35.565,-90.934,2111

@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17121,Stamford,CT,,city-us,136309,41.08,-73.55,33254
-17124,Stamford,TX,,city-us,2977,33.05,-99.60,13588
-17123,Stamford,NY,,city-us,1993,42.34,-74.67,2492
-17125,Stamford,VT,,city-us,864,42.81,-73.08,2549
-17122,Stamford,NE,,city-us,162,40.13,-99.59,3397
-17126,Stamford,SD,,city-us,0,43.90,-101.09,259
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9670,Conley,GA,Clayton County,,city-us,6930,33.645,-84.326,3202
+9671,Conley,NE,Holt County,,city-us,58,42.145,-98.787,243

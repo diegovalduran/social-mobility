@@ -1,3 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42488,Pinecroft,PA,,city-us,588,40.57,-78.35,388
-42489,Pinecroft,CA,,city-us,0,39.08,-120.98,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37588,Roseland,NJ,Essex County,,city-us,6219,40.821,-74.294,12084
+37593,Roseland,OH,Richland County,,city-us,1840,40.789,-82.543,447
+37590,Roseland,FL,Indian River County,,city-us,1591,27.835,-80.489,2722
+37595,Roseland,LA,Tangipahoa Parish,,city-us,896,30.765,-90.512,2544
+37594,Roseland,IN,St. Joseph County,,city-us,851,41.716,-86.253,4027
+37585,Roseland,NE,Adams County,,city-us,259,40.470,-98.559,3186
+37587,Roseland,KS,Cherokee County,,city-us,73,37.281,-94.851,2902
+37596,Roseland,SD,Tripp County,,city-us,42,43.642,-99.689,0
+37586,Roseland,ND,Burke County,,city-us,25,48.685,-102.303,0
+37589,Roseland,MO,Henry County,,city-us,0,38.393,-93.543,250
+37591,Roseland,MN,Kandiyohi County,,city-us,0,44.943,-95.106,292
+37592,Roseland,VA,Nelson County,,city-us,0,37.748,-78.976,316

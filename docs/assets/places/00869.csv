@@ -1,5 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9841,Bluewater,AZ,,city-us,802,34.17,-114.26,2195
-9843,Bluewater,NM,,city-us,194,35.31,-108.18,745
-9842,Bluewater,CA,,city-us,141,34.17,-114.27,4092
-9844,Bluewater,NM,,city-us,0,33.56,-105.19,126
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4451,Bloomington,MN,Hennepin County,,city-us,89298,44.841,-93.298,27984
+4454,Bloomington,IN,Monroe County,,city-us,79968,39.165,-86.526,20611
+4453,Bloomington,IL,McLean County,,city-us,78283,40.484,-88.994,34298
+4456,Bloomington,CA,San Bernardino County,,city-us,22107,34.070,-117.396,6728
+4457,Bloomington,TX,Victoria County,,city-us,1321,28.648,-96.892,2312
+4450,Bloomington,WI,Grant County,,city-us,743,42.885,-90.923,3111
+4446,Bloomington,KS,Butler County,,city-us,497,37.607,-96.881,439
+4445,Bloomington,ID,Bear Lake County,,city-us,206,42.192,-111.401,2898
+4449,Bloomington,MD,Garrett County,,city-us,201,39.480,-79.071,1380
+4448,Bloomington,NE,Franklin County,,city-us,113,40.094,-99.037,3082
+4447,Bloomington,OH,Clinton County,,city-us,0,39.537,-83.706,285
+4452,Bloomington,MO,Macon County,,city-us,0,39.797,-92.560,283
+4455,Bloomington,KS,Osborne County,,city-us,0,39.452,-98.787,487

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32575,Cullen,LA,,city-us,689,32.97,-93.45,3331
-32576,Cullen,KY,,city-us,0,37.59,-87.88,221
-32577,Cullen,VA,,city-us,0,37.12,-78.65,237
-32578,Cullen,WI,,city-us,0,44.96,-87.85,195
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23338,La Fayette,AL,Chambers County,,city-us,2588,32.900,-85.401,5984
+23339,La Fayette,IL,Stark County,,city-us,159,41.108,-89.972,2457

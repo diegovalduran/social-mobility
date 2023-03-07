@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43930,Yancey,TX,,city-us,0,29.14,-99.14,398
-43931,Yancey,KY,,city-us,0,36.77,-83.32,123
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39818,Silica,MN,St. Louis County,,city-us,50,47.265,-93.021,493
+39815,Silica,WI,Fond du Lac County,,city-us,0,43.850,-88.342,439
+39816,Silica,WV,Randolph County,,city-us,0,38.687,-80.240,89
+39817,Silica,KS,Rice County,,city-us,0,38.352,-98.462,725

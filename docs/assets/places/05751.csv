@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37268,Kidder,PA,,city-us,1816,41.06,-75.65,5461
-37267,Kidder,MO,,city-us,273,39.78,-94.10,3749
-37269,Kidder,SD,,city-us,61,45.38,-97.66,477
-37270,Kidder,SD,,city-us,9,45.88,-97.71,477
-37271,Kidder,KY,,city-us,0,36.91,-84.65,108
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29619,Morven,GA,Brooks County,,city-us,519,30.942,-83.499,4734
+29618,Morven,NC,Anson County,,city-us,334,34.864,-80.001,2086
+29617,Morven,VA,Amelia County,,city-us,0,37.418,-78.076,1660
+29620,Morven,IN,Shelby County,,city-us,0,39.421,-85.661,302

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35655,Cyrus,MN,,city-us,312,45.61,-95.74,2944
-35656,Cyrus,MO,,city-us,0,36.66,-90.06,443
-35657,Cyrus,WV,,city-us,0,38.31,-82.57,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27164,Marytown,WI,Fond du Lac County,,city-us,0,43.914,-88.202,1313
+27165,Marytown,WV,McDowell County,,city-us,0,37.470,-81.679,91

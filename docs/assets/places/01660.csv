@@ -1,8 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15384,Granby,CT,,city-us,10953,41.97,-72.83,6819
-15388,Granby,NY,,city-us,6518,43.29,-76.44,3676
-15385,Granby,MA,,city-us,6061,42.24,-72.50,4855
-15383,Granby,CO,,city-us,2132,40.09,-105.94,6610
-15387,Granby,MO,,city-us,2066,36.92,-94.26,3740
-15386,Granby,MN,,city-us,221,44.33,-94.20,1855
-15389,Granby,VT,,city-us,81,44.60,-71.75,2021
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8375,Church Hill,TN,Hawkins County,,city-us,7049,36.522,-82.713,5558
+8378,Church Hill,PA,Mifflin County,,city-us,1702,40.682,-77.599,251
+8379,Church Hill,MD,Queen Anne's County,,city-us,811,39.141,-75.986,3845
+8376,Church Hill,MS,Jefferson County,,city-us,107,31.716,-91.238,6912
+8373,Church Hill,TX,Cherokee County,,city-us,0,32.191,-94.665,1552
+8374,Church Hill,PA,Franklin County,,city-us,0,39.838,-77.862,188
+8377,Church Hill,GA,Marion County,,city-us,0,32.163,-84.546,161
+8380,Church Hill,AL,Tallapoosa County,,city-us,0,32.648,-85.748,321

@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39667,Bellmore,NY,,city-us,16603,40.67,-73.53,7558
-39666,Bellmawr,NJ,,city-us,11656,39.87,-75.09,14137
-39668,Belmore,OH,,city-us,61,41.15,-83.94,3476
-39669,Bellmore,IN,,city-us,0,39.76,-87.11,355
-39670,Belmore,WA,,city-us,0,46.99,-122.96,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33052,Pantego,TX,Tarrant County,,city-us,2528,32.714,-97.156,5576
+33051,Pantego,NC,Beaufort County,,city-us,163,35.589,-76.662,3480

@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37484,Queen City,TX,,city-us,1409,33.15,-94.15,2435
-37483,Queen City,MO,,city-us,543,40.41,-92.57,4382
-37485,Queen City,CA,,city-us,0,39.66,-120.94,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29954,Mountain,WI,Oconto County,,city-us,851,45.163,-88.429,2111
+29957,Mountain,IL,Saline County,,city-us,357,37.638,-88.432,334
+29955,Mountain,ND,Pembina County,,city-us,80,48.688,-97.865,4236
+29956,Mountain,WV,Ritchie County,,city-us,0,39.362,-80.910,627

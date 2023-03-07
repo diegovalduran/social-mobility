@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26650,Licking,OH,,city-us,4928,39.98,-82.42,125
-26649,Licking,MO,,city-us,2718,37.50,-91.86,3831
-26651,Licking,OH,,city-us,2352,40.05,-82.14,125
-26652,Licking,PA,,city-us,574,41.15,-79.55,2278
-26648,Licking,IL,,city-us,430,39.12,-87.89,916
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17212,Goodlow,TX,Navarro County,,city-us,180,32.108,-96.216,2012
+17211,Goodloe,VA,Lee County,,city-us,0,36.861,-82.860,81

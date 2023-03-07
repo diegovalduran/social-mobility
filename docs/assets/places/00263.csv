@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3010,Hobson,AL,,city-us,197,31.47,-88.15,160
-3011,Hobson,MT,,city-us,189,47.00,-109.87,5133
-3012,Hobson,AL,,city-us,0,33.28,-85.41,125
-3013,Hobson,MO,,city-us,0,37.76,-91.63,254
-3014,Hobson,TX,,city-us,0,28.96,-97.99,647
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1367,Arco,ID,Butte County,,city-us,908,43.637,-113.300,6143
+1368,Arco,MN,Lincoln County,,city-us,85,44.384,-96.184,2815
+1453,Arkoe,MO,Nodaway County,,city-us,52,40.258,-94.828,6127

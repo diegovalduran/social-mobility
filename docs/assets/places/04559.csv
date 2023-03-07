@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32612,Eagan,MN,,city-us,68642,44.80,-93.17,11008
-32611,Egan,LA,,city-us,1132,30.24,-92.51,2802
-32614,Egan,SD,,city-us,243,44.00,-96.65,3075
-32613,Egan,ND,,city-us,43,48.33,-101.98,0
-32615,Egan,IL,,city-us,0,42.19,-89.41,117
-32616,Eagan,TN,,city-us,0,36.55,-83.98,566
-32617,Egan,TN,,city-us,0,36.22,-86.35,81
-32618,Egan,TX,,city-us,0,32.45,-97.30,931
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23365,La Madera,NM,Sandoval County,,city-us,447,35.223,-106.371,536
+23364,La Madera,NM,Rio Arriba County,,city-us,378,36.377,-106.043,2580

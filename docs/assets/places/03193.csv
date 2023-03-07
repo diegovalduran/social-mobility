@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25204,Eagle Creek,IL,,city-us,164,37.65,-88.33,980
-25205,Eagle Creek,PA,,city-us,140,40.90,-77.89,829
-25206,Eagle Creek,OR,,city-us,0,45.36,-122.36,871
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16106,Fuller,SD,Codington County,,city-us,300,45.014,-97.274,0
+16107,Fuller,IL,Coles County,,city-us,0,39.594,-88.470,131
+16108,Fuller,KS,Crawford County,,city-us,0,37.522,-94.620,301
+16109,Fuller,PA,Jefferson County,,city-us,0,41.098,-78.984,221

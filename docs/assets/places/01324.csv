@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13077,Los Banos,,Philippines,city-international,115353,14.17,121.22,14657
-13076,Los Banos,CA,,city-us,46398,37.06,-120.85,10436
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6709,Campton,IL,Kane County,,city-us,17010,41.940,-88.428,738
+6708,Campton,NH,Grafton County,,city-us,3390,43.831,-71.646,4262
+6712,Campton,KY,Wolfe County,,city-us,313,37.734,-83.547,2866
+6710,Campton,SC,Spartanburg County,,city-us,0,35.029,-82.064,260
+6711,Campton,GA,Walton County,,city-us,0,33.872,-83.720,612

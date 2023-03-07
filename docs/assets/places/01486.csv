@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14208,San Marino,,,country,34892,43.94,12.46,37793
-14207,San Marino,CA,,city-us,12254,34.12,-118.11,24603
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7463,Cedar Lake,IN,Lake County,,city-us,14693,41.365,-87.441,5739
+7465,Cedar Lake,MI,Montcalm County,,city-us,2708,43.412,-85.031,3623
+7461,Cedar Lake,WI,Barron County,,city-us,1086,45.594,-91.598,2630
+7462,Cedar Lake,OK,Canadian County,,city-us,377,35.427,-98.189,356
+7464,Cedar Lake,TX,Matagorda County,,city-us,0,28.901,-95.637,243
+7466,Cedar Lake,MN,Scott County,,city-us,0,44.587,-93.440,220

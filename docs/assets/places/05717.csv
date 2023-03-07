@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37151,Frisbee,MO,,city-us,107,36.35,-90.03,353
-37152,Frisby,KY,,city-us,0,36.85,-84.91,81
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29435,Moran,MI,Mackinac County,,city-us,594,46.046,-84.843,3703
+29440,Moran,MN,Todd County,,city-us,493,46.235,-94.843,2172
+29433,Moran,KS,Allen County,,city-us,467,37.916,-95.170,3975
+29438,Moran,TX,Shackelford County,,city-us,236,32.548,-99.166,5470
+29437,Moran,ND,Richland County,,city-us,63,46.053,-97.065,0
+29434,Moran,IN,Clinton County,,city-us,0,40.388,-86.515,492
+29436,Moran,VA,Prince Edward County,,city-us,0,37.229,-78.259,466
+29439,Moran,WY,Teton County,,city-us,0,43.842,-110.508,3908

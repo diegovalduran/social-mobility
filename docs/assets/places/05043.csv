@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34634,Ithaca,NY,,city-us,31710,42.44,-76.50,46528
-34632,Ithaca,MI,,city-us,2854,43.29,-84.61,4869
-34636,Ithaca,WI,,city-us,648,43.34,-90.28,2348
-34633,Ithaca,NE,,city-us,161,41.16,-96.54,3042
-34635,Ithaca,OH,,city-us,80,39.94,-84.55,3008
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25865,Lowden,IA,Cedar County,,city-us,788,41.858,-90.928,3430
+25866,Lowden,WA,Walla Walla County,,city-us,0,46.056,-118.586,835

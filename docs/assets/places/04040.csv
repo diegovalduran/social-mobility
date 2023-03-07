@@ -1,5 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30240,Sardinia,NY,,city-us,2709,42.56,-78.53,5921
-30241,Sardinia,OH,,city-us,1085,39.01,-83.80,3917
-30239,Sardinia,IN,,city-us,0,39.15,-85.63,218
-30242,Sardinia,SC,,city-us,0,33.83,-80.08,220
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20762,Horton,AL,Marshall County,,city-us,4450,34.201,-86.297,360
+20759,Horton,MI,Jackson County,,city-us,3695,42.109,-84.527,2323
+20755,Horton,KS,Brown County,,city-us,1514,39.661,-95.526,4189
+20756,Horton,PA,Elk County,,city-us,1354,41.296,-78.715,2521
+20763,Horton,MI,Ogemaw County,,city-us,906,44.205,-84.185,2235
+20765,Horton,MN,Stevens County,,city-us,184,45.448,-95.922,1885
+20754,Horton,IA,Bremer County,,city-us,0,42.847,-92.476,737
+20757,Horton,MO,Howell County,,city-us,0,36.870,-92.074,575
+20758,Horton,MN,Hubbard County,,city-us,0,46.811,-95.097,150
+20760,Horton,OR,Lane County,,city-us,0,44.210,-123.493,600
+20761,Horton,OH,Logan County,,city-us,0,40.453,-83.555,62
+20764,Horton,WV,Randolph County,,city-us,0,38.807,-79.543,89
+20766,Horton,MO,Vernon County,,city-us,0,37.974,-94.368,394

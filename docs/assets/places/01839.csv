@@ -1,11 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16687,Middlebury,VT,,city-us,9064,44.00,-73.12,12113
-16680,Middlebury,CT,,city-us,7684,41.52,-73.12,4086
-16682,Middlebury,IN,,city-us,3449,41.68,-85.71,5034
-16683,Middlebury,MI,,city-us,1520,43.00,-84.32,2149
-16685,Middlebury,OH,,city-us,1407,40.52,-82.59,1421
-16684,Middlebury,NY,,city-us,1347,42.82,-78.13,2785
-16686,Middlebury,PA,,city-us,1306,41.86,-77.27,3520
-16681,Middlebury,IN,,city-us,0,39.26,-87.12,345
-16688,Middlebury,OH,,city-us,0,40.85,-84.75,393
-16689,Middlebury,WI,,city-us,0,42.94,-89.88,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9395,Colonial Heights,VA,Colonial Heights city,,city-us,18273,37.244,-77.410,16570
+9396,Colonial Heights,TN,Sullivan County,,city-us,2877,36.485,-82.503,2471

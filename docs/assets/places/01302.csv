@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12933,Lemon Grove,CA,,city-us,27413,32.74,-117.03,9109
-12934,Lemon Grove,FL,,city-us,637,27.56,-81.68,693
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6566,Calvert,TX,Robertson County,,city-us,962,30.978,-96.674,7873
+6564,Calvert,AL,Mobile County / Washington County,,city-us,70,31.150,-88.022,1684
+6563,Calvert,MD,Cecil County,,city-us,0,39.700,-75.983,533
+6565,Calvert,KS,Norton County,,city-us,0,39.850,-99.758,239

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39965,The Hills,NJ,,city-us,11027,40.66,-74.62,908
-39966,The Hills,TX,,city-us,2535,30.35,-97.99,2888
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33448,Pease,OH,Belmont County,,city-us,12721,40.104,-80.767,1860
+33450,Pease,MN,Mille Lacs County,,city-us,241,45.698,-93.648,3072
+33449,Pease,MO,Laclede County,,city-us,0,37.495,-92.633,404

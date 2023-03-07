@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39850,Mount Tabor,VT,,city-us,210,43.35,-72.92,2280
-39849,Mount Tabor,NJ,,city-us,0,40.87,-74.48,16194
-39851,Mount Tabor,IN,,city-us,0,39.31,-86.63,402
-39852,Mount Tabor,OH,,city-us,0,40.52,-81.37,428
-39853,Mount Tabor,PA,,city-us,0,40.01,-77.24,196
-39854,Mount Tabor,PA,,city-us,0,40.99,-79.22,666
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33317,Pattonsville,OH,Jackson County,,city-us,0,39.032,-82.498,220
+33318,Pattonsville,VA,Scott County,,city-us,0,36.699,-82.851,275

@@ -1,13 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33629,Belfast,,United Kingdom,city-international,333871,54.60,-5.93,68158
-33618,Belfast,ME,,city-us,6968,44.43,-69.01,14683
-33621,Belfast,PA,,city-us,1354,39.88,-78.14,1860
-33622,Belfast,PA,,city-us,1250,40.78,-75.28,2536
-33620,Belfast,NY,,city-us,678,42.34,-78.11,7557
-33619,Belfast,MN,,city-us,171,43.88,-95.51,2185
-33623,Belfast,CA,,city-us,0,40.44,-120.45,276
-33624,Belfast,GA,,city-us,0,31.82,-81.29,327
-33625,Belfast,MO,,city-us,0,36.87,-94.45,562
-33626,Belfast,OH,,city-us,0,39.17,-84.14,677
-33627,Belfast,OH,,city-us,0,39.06,-83.53,307
-33628,Belfast,TN,,city-us,0,35.42,-86.70,544
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24664,Leyden,IL,Cook County,,city-us,91421,41.938,-87.869,2283
+24667,Leyden,NY,Lewis County,,city-us,1578,43.534,-75.382,3263
+24665,Leyden,MA,Franklin County,,city-us,738,42.698,-72.628,7148
+26067,Lyden,NM,Rio Arriba County,,city-us,172,36.146,-106.006,555
+24666,Leyden,CO,Jefferson County,,city-us,0,39.845,-105.184,2465
+24668,Leyden,WI,Rock County,,city-us,0,42.731,-89.129,286

@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9276,Tupelo,MS,,city-us,37667,34.26,-88.70,20132
-9277,Tupelo,OK,,city-us,323,34.60,-96.42,2966
-9275,Tupelo,AR,,city-us,73,35.39,-91.23,1794
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4204,Blackstone,MA,Worcester County,,city-us,9177,42.040,-71.532,3769
+4202,Blackstone,VA,Nottoway County,,city-us,3354,37.080,-77.997,5369
+4201,Blackstone,IL,Livingston County,,city-us,0,41.084,-88.691,2659
+4203,Blackstone,PA,Westmoreland County,,city-us,0,40.662,-79.652,96

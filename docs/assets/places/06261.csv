@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38941,Lowland,ND,,city-us,26,48.51,-102.03,0
-38942,Lowland,NC,,city-us,0,35.30,-76.56,288
-38943,Lowland,TN,,city-us,0,36.16,-83.21,800
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32029,Odin,IL,Marion County,,city-us,913,38.617,-89.052,13470
+32008,Oden,MI,Emmet County,,city-us,358,45.423,-84.828,877
+32009,Oden,AR,Montgomery County,,city-us,182,34.619,-93.777,2604
+32031,Odin,MN,Watonwan County,,city-us,162,43.892,-94.799,1918
+32028,Odin,KS,Barton County,,city-us,88,38.566,-98.609,902
+32030,Odin,ND,McHenry County,,city-us,47,47.987,-100.637,0
+32032,Odin,MO,Wright County,,city-us,0,37.268,-92.618,426

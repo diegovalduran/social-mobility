@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45653,Coal Mountain,GA,,city-us,0,34.27,-84.10,683
-45654,Coal Mountain,WV,,city-us,0,37.67,-81.73,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42781,Thomas,MI,Oakland County,,city-us,20526,42.824,-83.271,8123
+42782,Thomas,MI,Saginaw County,,city-us,11898,43.437,-84.117,2367
+42784,Thomas,MI,Tuscola County,,city-us,1503,43.642,-83.526,3247
+42777,Thomas,OK,Custer County,,city-us,1136,35.744,-98.748,3881
+42783,Thomas,WV,Tucker County,,city-us,614,39.149,-79.498,4852
+42779,Thomas,KS,Ellsworth County,,city-us,67,38.566,-98.192,279
+42775,Thomas,VA,Buchanan County,,city-us,0,37.345,-82.168,147
+42776,Thomas,IL,Bureau County,,city-us,0,41.512,-89.819,111
+42778,Thomas,IN,Daviess County,,city-us,0,38.613,-87.232,141
+42780,Thomas,SD,Hamlin County,,city-us,0,44.761,-97.209,248

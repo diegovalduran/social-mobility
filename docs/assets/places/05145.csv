@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35079,Shoreham,VT,,city-us,1248,43.90,-73.32,3878
-35077,Shoreham,MI,,city-us,867,42.06,-86.52,3113
-35078,Shoreham,NY,,city-us,522,40.96,-72.91,3402
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26417,Magnolia Beach,TX,Calhoun County,,city-us,217,28.560,-96.543,732
+26418,Magnolia Beach,WA,King County,,city-us,0,47.382,-122.483,307

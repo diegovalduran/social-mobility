@@ -1,4 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23223,Stanwood,WA,,city-us,8438,48.24,-122.37,24610
-23221,Stanwood,IA,,city-us,630,41.89,-91.15,3327
-23222,Stanwood,MI,,city-us,194,43.58,-85.45,3422
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14096,Evansville,IN,Vanderburgh County,,city-us,116486,37.975,-87.556,45035
+14094,Evansville,WI,Rock County,,city-us,5791,42.780,-89.299,14485
+14091,Evansville,WY,Natrona County,,city-us,2749,42.860,-106.268,4049
+14089,Evansville,MN,Douglas County,,city-us,590,46.004,-95.683,3043
+14093,Evansville,IL,Randolph County,,city-us,521,38.090,-89.938,2401
+14097,Evansville,AR,Washington County,,city-us,102,35.795,-94.497,767
+14098,Evansville,AK,Yukon-Koyukuk Census Area,,city-us,17,66.923,-151.508,3803
+14088,Evansville,PA,Berks County,,city-us,0,40.384,-75.733,217
+14090,Evansville,MO,Monroe County,,city-us,0,39.450,-92.302,262
+14092,Evansville,WV,Preston County,,city-us,0,39.333,-79.869,295
+14095,Evansville,MS,Tunica County,,city-us,0,34.640,-90.389,309

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36127,Madison Lake,MN,,city-us,1260,44.20,-93.82,4953
-36128,Madison Lake,OH,,city-us,0,39.87,-83.38,216
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27745,Mechanicstown,NY,Orange County,,city-us,7777,41.443,-74.388,2402
+27743,Mechanicstown,OH,Carroll County,,city-us,0,40.619,-80.951,743
+27744,Mechanicstown,WV,Jefferson County,,city-us,0,39.261,-77.829,262

@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34250,Croton,MI,,city-us,3397,43.42,-85.63,2893
-34251,Croton,IA,,city-us,0,40.59,-91.69,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25536,Londonderry,NH,Rockingham County,,city-us,26146,42.880,-71.392,14150
+25534,Londonderry,PA,Dauphin County,,city-us,4885,40.184,-76.697,368
+25533,Londonderry,PA,Chester County,,city-us,2523,39.878,-75.879,368
+25538,Londonderry,VT,Windham County,,city-us,1935,43.201,-72.799,3386
+25532,Londonderry,PA,Bedford County,,city-us,1630,39.828,-78.730,368
+25535,Londonderry,OH,Guernsey County,,city-us,0,40.155,-81.300,303
+25537,Londonderry,OH,Ross County,,city-us,0,39.267,-82.790,514

@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29789,Kentland,IN,,city-us,1620,40.77,-87.45,4588
-29790,Kentland,MD,,city-us,0,38.92,-76.88,963
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20175,Hinckley,IL,DeKalb County,,city-us,1991,41.769,-88.641,3822
+20199,Hinkley,CA,San Bernardino County,,city-us,1692,34.933,-117.200,3217
+20178,Hinckley,MN,Pine County,,city-us,756,46.026,-93.012,1975
+20177,Hinckley,UT,Millard County,,city-us,617,39.325,-112.671,2757
+20176,Hinckley,OH,Medina County,,city-us,0,41.238,-81.745,695

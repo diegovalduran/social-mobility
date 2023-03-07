@@ -1,24 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20625,Vienna,,Austria,city-international,1911191,48.21,16.37,76545
-20618,Vienna,VA,,city-us,16329,38.90,-77.27,14648
-20610,Vienna,MI,,city-us,13225,43.18,-83.76,3995
-20620,Vienna,WV,,city-us,10576,39.33,-81.55,4054
-20615,Vienna,NY,,city-us,5188,43.23,-75.77,3838
-20623,Vienna,MI,,city-us,4299,41.77,-83.49,6887
-20616,Vienna,OH,,city-us,3970,41.23,-80.67,8246
-20603,Vienna,GA,,city-us,2912,32.09,-83.80,4537
-20619,Vienna,WI,,city-us,1664,43.25,-89.43,2287
-20605,Vienna,IL,,city-us,1473,37.42,-88.90,6024
-20614,Vienna,NJ,,city-us,849,40.87,-74.89,1310
-20604,Vienna,IL,,city-us,665,41.24,-88.52,704
-20609,Vienna,ME,,city-us,590,44.55,-70.00,2894
-20611,Vienna,MI,,city-us,540,45.03,-84.34,258
-20613,Vienna,MO,,city-us,528,38.19,-91.95,3762
-20607,Vienna,LA,,city-us,475,32.59,-92.65,2809
-20608,Vienna,MD,,city-us,270,38.48,-75.82,5409
-20612,Vienna,MN,,city-us,150,43.71,-96.12,2183
-20606,Vienna,KS,,city-us,90,39.43,-96.17,0
-20617,Vienna,SD,,city-us,46,44.70,-97.50,2987
-20621,Vienna,AL,,city-us,0,33.02,-88.19,724
-20622,Vienna,IN,,city-us,0,38.65,-85.77,315
-20624,Vienna,NC,,city-us,0,36.14,-80.40,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12150,Dows,IA,Franklin County / Wright County,,city-us,516,42.658,-93.502,6647
+12149,Dows,ND,Cass County,,city-us,35,47.195,-97.388,0

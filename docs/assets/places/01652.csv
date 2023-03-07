@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15317,Fruitvale,CO,,city-us,7883,39.08,-108.50,2390
-15318,Fruitvale,TX,,city-us,490,32.68,-95.80,3752
-15319,Fruitvale,CA,,city-us,0,35.38,-119.08,181
-15320,Fruitvale,ID,,city-us,0,44.82,-116.44,188
-15321,Fruitvale,TN,,city-us,0,35.75,-89.03,3215
-15322,Fruitvale,WA,,city-us,0,46.62,-120.55,378
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8361,Christy,IL,Lawrence County,,city-us,3152,38.698,-87.856,340
+8349,Christie,WI,Clark County,,city-us,638,44.644,-90.612,1948
+8348,Christie,OK,Adair County,,city-us,143,35.958,-94.690,1966

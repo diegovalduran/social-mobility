@@ -1,10 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33901,Acme,WA,,city-us,108,48.72,-122.21,2803
-33902,Acme,IN,,city-us,30,38.98,-86.06,295
-33900,Acme,ND,,city-us,19,46.51,-102.35,125
-33899,Acme,MI,,city-us,0,44.77,-85.50,1953
-33903,Acme,KS,,city-us,0,38.84,-97.26,307
-33904,Acme,LA,,city-us,0,31.29,-91.82,198
-33905,Acme,NC,,city-us,0,34.33,-78.20,278
-33906,Acme,PA,,city-us,0,40.13,-79.43,5835
-33907,Acme,WV,,city-us,0,38.04,-81.46,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25184,Little Chicago,WI,Marathon County,,city-us,0,45.047,-89.844,820
+25185,Little Chicago,OH,Pickaway County,,city-us,0,39.722,-82.953,352
+25186,Little Chicago,MN,Rice County,,city-us,0,44.479,-93.322,351
+25187,Little Chicago,SC,Spartanburg County,,city-us,0,35.063,-82.184,231

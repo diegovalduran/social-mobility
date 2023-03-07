@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24592,Buck,OH,,city-us,2346,40.61,-83.61,1381
-24593,Buck,PA,,city-us,381,41.17,-75.65,2660
-24591,Buck,IL,,city-us,236,39.64,-87.82,819
-24594,Buck,PA,,city-us,0,39.87,-76.23,237
-24595,Buck,WV,,city-us,0,37.60,-80.82,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15425,Forsyth,MI,Marquette County,,city-us,6238,46.247,-87.449,2878
+15426,Forsyth,GA,Monroe County,,city-us,4512,33.034,-83.938,4364
+15424,Forsyth,IL,Macon County,,city-us,3683,39.933,-88.951,3441
+15428,Forsyth,MO,Taney County,,city-us,2705,36.685,-93.120,3588
+15427,Forsyth,MT,Rosebud County,,city-us,1591,46.266,-106.678,6105

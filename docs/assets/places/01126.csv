@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11596,Cold Springs,NV,,city-us,10920,39.68,-119.98,2627
-11594,Cold Springs,CA,,city-us,665,38.74,-120.87,2261
-11595,Cold Springs,CA,,city-us,0,38.16,-120.05,2238
-11597,Cold Springs,IN,,city-us,0,39.07,-85.07,246
-11598,Cold Springs,MO,,city-us,0,38.23,-93.38,167
-11599,Cold Springs,OR,,city-us,0,45.88,-119.17,1035
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5616,Browns,IL,Edwards County,,city-us,135,38.377,-87.983,2760
+5614,Browns,MO,Boone County,,city-us,0,39.050,-92.261,417
+5615,Browns,AL,Dallas County,,city-us,0,32.437,-87.366,254
+5617,Browns,OH,Preble County,,city-us,0,39.903,-84.600,271
+5618,Browns,MO,Scott County,,city-us,0,36.862,-89.633,280

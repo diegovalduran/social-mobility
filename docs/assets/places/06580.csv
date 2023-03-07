@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39973,Tuckahoe,VA,,city-us,48187,37.59,-77.56,3013
-39972,Tuckahoe,NY,,city-us,6974,40.95,-73.83,5086
-39971,Tuckahoe,NY,,city-us,1161,40.90,-72.41,2126
-39970,Tuckahoe,NJ,,city-us,357,39.29,-74.75,1524
-39974,Tuckahoe,MO,,city-us,0,37.13,-94.53,243
-39975,Tuckahoe,WV,,city-us,0,37.75,-80.27,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33452,Pebble,OH,Pike County,,city-us,2458,39.135,-83.108,1131
+33451,Pebble,NE,Dodge County,,city-us,412,41.692,-96.723,299

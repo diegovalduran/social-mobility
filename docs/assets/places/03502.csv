@@ -1,9 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27230,Murdock,FL,,city-us,60625,26.99,-82.11,8650
-27226,Murdock,KS,,city-us,440,37.87,-97.10,1340
-27228,Murdock,MN,,city-us,306,45.22,-95.39,4040
-27229,Murdock,NE,,city-us,274,40.93,-96.28,3099
-27227,Murdock,KS,,city-us,37,37.61,-97.93,704
-27225,Murdock,IL,,city-us,0,39.80,-88.08,770
-27231,Murdock,IN,,city-us,0,38.91,-86.51,132
-27232,Murdoch,OH,,city-us,0,39.29,-84.21,435
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17755,Great Bend,KS,Barton County,,city-us,14580,38.364,-98.765,15066
+17757,Great Bend,NY,Jefferson County,,city-us,1348,44.034,-75.719,2795
+17760,Great Bend,PA,Susquehanna County,,city-us,632,41.972,-75.743,2734
+17756,Great Bend,MN,Cottonwood County,,city-us,317,43.902,-95.186,2264
+17758,Great Bend,ND,Richland County,,city-us,52,46.154,-96.802,3503
+17759,Great Bend,SD,Spink County,,city-us,41,44.932,-98.401,0

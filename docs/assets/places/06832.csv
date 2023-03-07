@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40651,Starkey,NY,,city-us,3371,42.52,-76.94,3702
-40652,Starkey,OR,,city-us,0,45.22,-118.43,738
-40653,Starkey,VA,,city-us,0,37.20,-80.00,1593
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34824,Point Lookout,NY,Nassau County,,city-us,1168,40.592,-73.581,8683
+34825,Point Lookout,WV,Pleasants County,,city-us,0,39.451,-81.080,97
+34826,Point Lookout,MO,Taney County,,city-us,0,36.617,-93.239,708

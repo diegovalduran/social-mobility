@@ -1,10 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23122,Sibley,IA,,city-us,2841,43.40,-95.75,6467
-23125,Sibley,LA,,city-us,1084,32.54,-93.30,5291
-23127,Sibley,MO,,city-us,314,39.18,-94.19,3339
-23123,Sibley,IL,,city-us,285,40.59,-88.38,2209
-23126,Sibley,MN,,city-us,238,44.49,-94.19,167
-23124,Sibley,KS,,city-us,160,39.63,-97.67,462
-23129,Sibley,ND,,city-us,91,46.83,-99.78,3561
-23128,Sibley,ND,,city-us,20,47.22,-97.96,3561
-23130,Sibley,MS,,city-us,0,31.38,-91.40,655
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14000,Etta,MS,Union County,,city-us,1120,34.470,-89.228,157
+13999,Etta,OK,Cherokee County,,city-us,73,35.825,-94.885,698
+13998,Etta,VA,Caroline County,,city-us,0,38.143,-77.173,88

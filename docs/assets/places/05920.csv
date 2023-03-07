@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37836,Renova,MS,,city-us,697,33.78,-90.72,2660
-37837,Renova,MN,,city-us,0,43.74,-92.77,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30360,Needham,MA,Norfolk County,,city-us,32048,42.282,-71.242,17008
+30358,Needham,AL,Choctaw County,,city-us,73,31.988,-88.337,1765
+30359,Needham,IN,Johnson County,,city-us,0,39.530,-85.971,274

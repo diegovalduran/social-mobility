@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17319,Elsmere,KY,,city-us,9165,39.01,-84.60,2239
-17318,Elsmere,DE,,city-us,6157,39.74,-75.60,7307
-17320,Elsmere,NE,,city-us,0,42.17,-100.19,518
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9802,Copeland,OK,Delaware County,,city-us,1553,36.656,-94.828,2473
+9803,Copeland,KS,Gray County,,city-us,517,37.577,-100.608,298
+9799,Copeland,VA,Bath County,,city-us,0,37.888,-79.699,89
+9800,Copeland,ID,Boundary County,,city-us,0,48.902,-116.389,438
+9801,Copeland,FL,Collier County,,city-us,0,25.954,-81.356,2233
+9804,Copeland,TX,Smith County,,city-us,0,32.240,-95.272,94
+9805,Copeland,NC,Surry County,,city-us,0,36.338,-80.650,508

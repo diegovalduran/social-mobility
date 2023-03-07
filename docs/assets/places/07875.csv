@@ -1,3 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43979,Teasdale,UT,,city-us,113,38.29,-111.48,1187
-43980,Teasdale,MS,,city-us,0,34.12,-90.02,174
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42376,Symmes,OH,Hamilton County,,city-us,15529,39.259,-84.304,121
+39937,Sims,MI,Arenac County,,city-us,982,44.051,-83.582,1968
+42375,Symmes,IL,Edgar County,,city-us,964,39.537,-87.707,965
+39922,Simms,OK,Muskogee County,,city-us,489,35.384,-95.199,1869
+42377,Symmes,OH,Lawrence County,,city-us,421,38.731,-82.543,121
+39942,Sims,NC,Wilson County,,city-us,321,35.761,-78.059,2461
+39921,Simms,MT,Cascade County,,city-us,310,47.492,-111.928,3044
+39941,Sims,IL,Wayne County,,city-us,166,38.360,-88.531,1519
+39938,Sims,IN,Grant County,,city-us,97,40.500,-85.855,670
+39920,Simms,TX,Bowie County,,city-us,0,33.350,-94.507,1079
+39939,Sims,WV,Greenbrier County,,city-us,0,37.943,-80.802,165
+39940,Sims,AR,Montgomery County,,city-us,0,34.659,-93.691,424

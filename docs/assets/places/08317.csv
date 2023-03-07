@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45219,Requa,CA,,city-us,0,41.55,-124.07,1186
-45220,Requa,WI,,city-us,0,44.59,-91.14,262
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42067,Sundown,TX,Hockley County,,city-us,1265,33.456,-102.489,2043
+42069,Sundown,MN,Redwood County,,city-us,173,44.319,-95.057,1872
+42068,Sundown,MO,Ozark County,,city-us,62,36.566,-92.637,1943

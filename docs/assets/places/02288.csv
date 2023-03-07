@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19581,Griffin,GA,,city-us,23643,33.25,-84.26,11202
-19582,Griffin,IN,,city-us,144,38.20,-87.91,3745
-19583,Griffin,ND,,city-us,54,46.67,-99.12,0
-19584,Griffin,MO,,city-us,0,37.08,-93.38,248
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11515,Denham,MN,Pine County,,city-us,37,46.364,-92.943,3175
+11516,Denham,IN,Pulaski County,,city-us,0,41.152,-86.714,523

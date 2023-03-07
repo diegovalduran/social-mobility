@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45535,Rocky Creek,FL,,city-us,0,28.00,-82.58,615
-45536,Rocky Creek,TX,,city-us,0,30.25,-98.53,1011
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42621,Tell,PA,Huntingdon County,,city-us,550,40.256,-77.775,1677
+42619,Tell,WI,Buffalo County,,city-us,0,44.381,-91.866,177
+42620,Tell,TX,Childress County,,city-us,0,34.376,-100.395,603

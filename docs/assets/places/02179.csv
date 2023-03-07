@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18813,Westgate,FL,,city-us,8981,26.70,-80.10,2263
-18814,Westgate,IA,,city-us,189,42.77,-92.00,3236
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10933,Damon,MI,Ogemaw County,,city-us,843,44.439,-84.274,2128
+10931,Damon,TX,Brazoria County,,city-us,154,29.291,-95.735,5228
+10930,Damon,VA,Albemarle County,,city-us,0,37.823,-78.659,69
+10932,Damon,IL,Brown County,,city-us,0,40.083,-90.830,268

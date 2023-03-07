@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24690,Campton,IL,,city-us,17010,41.94,-88.43,738
-24692,Campton,NH,,city-us,3390,43.83,-71.65,4262
-24691,Campton,KY,,city-us,313,37.73,-83.55,2866
-24693,Campton,GA,,city-us,0,33.87,-83.72,612
-24694,Campton,SC,,city-us,0,35.03,-82.06,260
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15468,Fort Washington,MD,Prince George's County,,city-us,25840,38.707,-77.023,9045
+15467,Fort Washington,PA,Montgomery County,,city-us,6241,40.142,-75.209,8321
+15466,Fort Washington,CA,Fresno County,,city-us,167,36.879,-119.761,1986

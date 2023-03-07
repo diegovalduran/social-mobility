@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43372,Pegram,TN,,city-us,2073,36.10,-87.05,2324
-43373,Pegram,ID,,city-us,0,42.14,-111.13,67
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39752,Shubert,NE,Richardson County,,city-us,161,40.236,-95.682,3345
+38863,Schubert,PA,Berks County,,city-us,143,40.498,-76.221,411
+38864,Schubert,MO,Cole County,,city-us,0,38.517,-92.050,340

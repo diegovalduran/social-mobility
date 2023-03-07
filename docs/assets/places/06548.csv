@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39863,New Brunswick,NJ,,city-us,55708,40.49,-74.45,57642
-39864,New Brunswick,IN,,city-us,0,39.94,-86.52,320
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33326,Paulina,LA,St. James Parish,,city-us,1778,30.026,-90.713,366
+33325,Paulina,OR,Crook County,,city-us,0,44.134,-119.963,675
+33327,Paulina,NJ,Warren County,,city-us,0,40.976,-74.944,727

@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43251,Zell,SD,,city-us,0,44.90,-98.73,1687
-43252,Zell,MO,,city-us,0,37.95,-90.14,1299
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38699,Santiago,,,Chile,city-international,7026000,-33.450,-70.667,68602
+38700,Santiago,,,Dominican Republic,city-international,1343423,19.450,-70.700,19821
+38701,Santiago,,,Philippines,city-international,148580,16.683,121.550,18170
+38696,Santiago,WA,Grays Harbor County,,city-us,76,47.299,-124.232,716
+38694,Santiago,PA,Allegheny County,,city-us,0,40.434,-80.271,133
+38695,Santiago,MO,Benton County,,city-us,0,38.427,-93.457,317
+38697,Santiago,MN,Sherburne County,,city-us,0,45.539,-93.820,565
+38698,Santiago,WV,Taylor County,,city-us,0,39.370,-80.201,89

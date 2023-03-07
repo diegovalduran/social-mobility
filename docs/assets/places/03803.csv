@@ -1,9 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29119,Willow Springs,IL,,city-us,5729,41.74,-87.86,3869
-29121,Willow Springs,MO,,city-us,2166,36.99,-91.97,4003
-29120,Willow Springs,KS,,city-us,1528,38.80,-95.29,1295
-29122,Willow Springs,WI,,city-us,809,42.76,-90.13,2332
-29123,Willow Springs,CA,,city-us,0,34.88,-118.30,845
-29124,Willow Springs,CA,,city-us,0,38.19,-119.20,214
-29125,Willow Springs,NC,,city-us,0,35.60,-78.73,1547
-29126,Willow Springs,TX,,city-us,0,29.97,-96.60,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19475,Hazen,ND,Mercer County,,city-us,2273,47.294,-101.623,3829
+19476,Hazen,AR,Prairie County,,city-us,1443,34.781,-91.581,3119
+19472,Hazen,PA,Beaver County,,city-us,0,40.817,-80.245,402
+19473,Hazen,NV,Churchill County,,city-us,0,39.565,-119.046,1352
+19474,Hazen,PA,Jefferson County,,city-us,0,41.208,-78.970,355

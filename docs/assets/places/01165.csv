@@ -1,22 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11890,Easton,PA,,city-us,28057,40.69,-75.22,23412
-11881,Easton,MA,,city-us,25247,42.04,-71.11,13663
-11882,Easton,MD,,city-us,17118,38.77,-76.08,12644
-11878,Easton,CT,,city-us,7594,41.26,-73.30,8516
-11884,Easton,MI,,city-us,3176,42.99,-85.14,1988
-11889,Easton,NY,,city-us,2261,43.03,-73.54,3837
-11877,Easton,CA,,city-us,2155,36.65,-119.79,4367
-11895,Easton,MI,,city-us,1329,43.09,-84.12,2465
-11883,Easton,ME,,city-us,1306,46.63,-67.85,4509
-11894,Easton,WI,,city-us,1144,44.99,-89.42,1896
-11893,Easton,WI,,city-us,1130,43.84,-89.81,2016
-11891,Easton,TX,,city-us,497,32.38,-94.59,1102
-11892,Easton,WA,,city-us,382,47.24,-121.18,3042
-11879,Easton,IL,,city-us,309,40.23,-89.84,1975
-11888,Easton,NH,,city-us,295,44.10,-71.80,2773
-11886,Easton,MO,,city-us,224,39.72,-94.64,3947
-11880,Easton,KS,,city-us,211,39.34,-95.12,3853
-11885,Easton,MN,,city-us,177,43.77,-93.90,2972
-11887,Easton,ND,,city-us,43,47.45,-97.78,0
-11896,Easton,OH,,city-us,0,40.95,-81.74,266
-11897,Easton,WV,,city-us,0,39.65,-79.91,178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5849,Buckhart,IL,Christian County,,city-us,1831,39.662,-89.336,222
+5850,Buckhart,MO,Douglas County,,city-us,0,36.894,-92.319,424
+5851,Buckhart,IL,Sangamon County,,city-us,0,39.750,-89.445,124

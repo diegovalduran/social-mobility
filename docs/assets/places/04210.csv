@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31045,Gore,KS,,city-us,1905,37.43,-97.19,0
-31048,Gore,VA,,city-us,1655,39.26,-78.33,556
-31047,Gore,OK,,city-us,942,35.53,-95.12,4592
-31046,Gore,MI,,city-us,150,43.95,-82.71,1988
-31049,Gore,GA,,city-us,0,34.47,-85.27,311
-31050,Gore,MO,,city-us,0,38.71,-91.32,485
-31051,Gore,OH,,city-us,0,39.58,-82.30,404
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21622,Islamabad,,,Pakistan,city-international,1014825,33.699,73.037,32547
+21621,Islamabad,,,India,city-international,108505,33.730,75.150,5356

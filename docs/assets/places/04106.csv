@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30518,Ash Creek,KS,,city-us,61,38.66,-98.19,361
-30519,Ash Creek,MN,,city-us,0,43.54,-96.19,973
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21159,Hutchison,VA,Fairfax County,,city-us,6503,38.964,-77.411,1146
+21158,Hutchison,KY,Bourbon County,,city-us,0,38.138,-84.340,295
+21160,Hutchison,MO,Ralls County,,city-us,0,39.346,-91.643,290

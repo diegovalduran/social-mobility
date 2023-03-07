@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32531,Bayou Blue,LA,,city-us,13352,29.63,-90.67,515
-32530,Bayou Blue,LA,,city-us,11229,29.63,-90.67,515
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23288,Krakow,,,Poland,city-international,766739,50.061,19.937,62243
+23286,Krakow,MI,Presque Isle County,,city-us,672,45.294,-83.598,2004
+23287,Krakow,WI,Shawano County,,city-us,317,44.762,-88.251,555
+23284,Krakow,MO,Franklin County,,city-us,0,38.498,-91.046,384
+23285,Krakow,NE,Nance County,,city-us,0,41.395,-97.752,188

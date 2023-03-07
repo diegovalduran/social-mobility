@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32519,Ama,LA,,city-us,1229,29.95,-90.30,2380
-32520,Amma,WV,,city-us,0,38.57,-81.27,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23269,Kosciusko,MS,Attala County,,city-us,7022,33.058,-89.588,4758
+23271,Kosciusko,TX,Wilson County,,city-us,390,29.105,-97.950,830
+23270,Kosciusko,SD,Day County,,city-us,177,45.512,-97.290,0

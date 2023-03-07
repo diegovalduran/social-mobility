@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40244,McDermott,OH,,city-us,371,38.83,-83.06,407
-40245,McDermitt,OR,,city-us,124,42.00,-117.72,5254
-40243,McDermitt,NV,,city-us,109,42.00,-117.72,5254
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33902,Philomath,OR,Benton County,,city-us,5619,44.540,-123.368,6430
+33903,Philomath,GA,Oglethorpe County,,city-us,0,33.727,-82.991,4032
+33904,Philomath,IN,Union County,,city-us,0,39.724,-85.016,275

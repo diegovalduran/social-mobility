@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29392,Cedar Lake,IN,,city-us,14693,41.36,-87.44,5739
-29396,Cedar Lake,MI,,city-us,2708,43.41,-85.03,3623
-29395,Cedar Lake,WI,,city-us,1086,45.59,-91.60,2630
-29394,Cedar Lake,OK,,city-us,377,35.43,-98.19,356
-29393,Cedar Lake,MN,,city-us,0,44.59,-93.44,220
-29397,Cedar Lake,TX,,city-us,0,28.90,-95.64,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19791,Herron,MI,Alpena County,,city-us,2029,45.008,-83.620,2728
+19792,Herron,MT,Hill County,,city-us,280,48.525,-109.779,2124
+19777,Heron,MT,Sanders County,,city-us,273,48.059,-115.957,3856

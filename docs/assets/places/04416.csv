@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32091,Briarwood,KY,,city-us,443,38.28,-85.59,2126
-32092,Briarwood,ND,,city-us,54,46.79,-96.80,2722
-32093,Briarwood,IN,,city-us,0,39.55,-86.51,156
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22793,Kerens,TX,Navarro County,,city-us,1505,32.133,-96.228,3370
+22794,Kerens,WV,Randolph County,,city-us,0,39.013,-79.814,277

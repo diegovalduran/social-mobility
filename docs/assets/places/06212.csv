@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38790,Forbes,SD,,city-us,65,43.46,-98.88,0
-38789,Forbes,ND,,city-us,39,45.94,-98.78,3825
-38791,Forbes,MN,,city-us,30,47.37,-92.60,546
-38792,Forbes,MO,,city-us,0,39.90,-95.08,339
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31680,Oak Forest,IL,Cook County,,city-us,26793,41.603,-87.744,14160
+31679,Oak Forest,KY,Allen County,,city-us,0,36.716,-86.098,103
+31681,Oak Forest,VA,Cumberland County,,city-us,0,37.537,-78.194,96
+31682,Oak Forest,IN,Franklin County,,city-us,0,39.385,-85.085,609
+31683,Oak Forest,TX,Gonzales County,,city-us,0,29.499,-97.585,591

@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34002,Beechwood,MS,,city-us,3814,32.33,-90.83,344
-34001,Beechwood,MI,,city-us,3121,42.80,-86.13,2208
-34004,Beechwood,MI,,city-us,1585,46.27,-88.79,2576
-34003,Beechwood,IN,,city-us,0,38.21,-86.42,226
-34005,Beechwood,WV,,city-us,0,39.29,-81.55,88
-34006,Beechwood,WV,,city-us,0,37.58,-81.32,91
-34007,Beechwood,WI,,city-us,0,43.59,-88.12,253
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25268,Lively,MO,Benton County,,city-us,0,38.210,-93.108,293
+25269,Lively,WV,Fayette County,,city-us,0,37.940,-81.257,165
+25270,Lively,TX,Kaufman County,,city-us,0,32.410,-96.323,124
+25271,Lively,VA,Lancaster County,,city-us,0,37.778,-76.514,624

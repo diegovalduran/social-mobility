@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15812,Palisade,CO,,city-us,2584,39.11,-108.35,3214
-15815,Palisade,SD,,city-us,392,43.69,-96.48,0
-15814,Palisade,NE,,city-us,291,40.35,-101.11,3466
-15813,Palisade,MN,,city-us,156,46.71,-93.49,4025
-15816,Palisade,NV,,city-us,0,40.61,-116.20,2936
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23153,Klemme,IA,Hancock County,,city-us,433,43.007,-93.603,3823
+8771,Clem,WV,Braxton County,,city-us,0,38.634,-80.914,306
+8772,Clem,OR,Gilliam County,,city-us,0,45.421,-120.203,513

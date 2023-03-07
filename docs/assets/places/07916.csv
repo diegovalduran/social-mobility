@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44092,Mount Jackson,VA,,city-us,1987,38.75,-78.64,15007
-44093,Mount Jackson,PA,,city-us,0,40.96,-80.44,2138
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40073,Smith,PA,Washington County,,city-us,4205,40.367,-80.375,2364
+40070,Smith,OH,Mahoning County,,city-us,4036,40.952,-81.023,117
+40065,Smith,OH,Belmont County,,city-us,1435,39.985,-80.960,117
+40071,Smith,KS,Thomas County,,city-us,241,39.431,-100.768,0
+40066,Smith,SD,Brule County,,city-us,49,43.730,-99.093,0
+40072,Smith,ND,Towner County,,city-us,20,48.943,-99.188,0
+40067,Smith,KY,Harlan County,,city-us,0,36.736,-83.259,822
+40068,Smith,IN,LaPorte County,,city-us,0,41.711,-86.669,150
+40069,Smith,NV,Lyon County,,city-us,0,38.800,-119.328,293
+40074,Smith,SC,York County,,city-us,0,34.821,-81.115,279

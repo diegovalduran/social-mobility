@@ -1,3 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43264,Bransford,TN,,city-us,228,36.50,-86.27,161
-43265,Bransford,TX,,city-us,0,32.90,-97.17,194
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38723,Saratoga,CA,Santa Clara County,,city-us,30163,37.264,-122.023,14074
+38715,Saratoga,IL,Grundy County,,city-us,6472,41.418,-88.420,223
+38724,Saratoga,NY,Saratoga County,,city-us,5852,43.054,-73.644,9393
+38728,Saratoga,WI,Wood County,,city-us,5092,44.296,-89.803,3138
+38712,Saratoga,WY,Carbon County,,city-us,1727,41.455,-106.806,4957
+38726,Saratoga,NC,Wilson County,,city-us,350,35.654,-77.776,1991
+38721,Saratoga,IL,Marshall County,,city-us,239,41.102,-89.584,223
+38722,Saratoga,IN,Randolph County,,city-us,228,40.237,-84.918,3107
+38717,Saratoga,AR,Hempstead County,,city-us,124,33.752,-93.903,846
+38714,Saratoga,SD,Faulk County,,city-us,122,45.108,-99.258,0
+38720,Saratoga,ND,LaMoure County,,city-us,69,46.595,-98.463,0
+38718,Saratoga,AR,Hempstead County / Howard County,,city-us,53,33.744,-93.904,846
+38719,Saratoga,NE,Holt County,,city-us,43,42.777,-98.829,245
+38713,Saratoga,VA,Clarke County,,city-us,0,39.083,-78.059,308
+38716,Saratoga,TX,Hardin County,,city-us,0,30.284,-94.529,2130
+38725,Saratoga,MS,Simpson County,,city-us,0,31.797,-89.677,286
+38727,Saratoga,MN,Winona County,,city-us,0,43.892,-92.070,341

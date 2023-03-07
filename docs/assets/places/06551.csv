@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39872,New Vernon,NJ,,city-us,825,40.75,-74.50,3165
-39873,New Vernon,PA,,city-us,490,41.40,-80.15,1791
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33337,Pavilion,MI,Kalamazoo County,,city-us,6335,42.209,-85.476,2244
+33336,Pavilion,NY,Genesee County,,city-us,686,42.876,-78.023,3710
+33338,Pavillion,WY,Fremont County,,city-us,226,43.245,-108.690,4114

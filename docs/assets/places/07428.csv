@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42593,Shade,PA,,city-us,2432,40.11,-78.83,7233
-42594,Shade,KY,,city-us,0,37.64,-83.86,116
-42595,Shade,MO,,city-us,0,36.18,-89.77,154
-42596,Shade,OH,,city-us,0,39.23,-82.04,1273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37749,Round Prairie,MN,Todd County,,city-us,722,45.888,-94.823,1867
+37750,Round Prairie,ND,Williams County,,city-us,376,48.151,-103.959,0
+37748,Round Prairie,OR,Douglas County,,city-us,0,43.088,-123.369,211

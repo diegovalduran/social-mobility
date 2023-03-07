@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10400,Rock Point,AZ,,city-us,540,36.72,-109.63,2430
-10401,Rock Point,MD,,city-us,135,38.27,-76.84,2372
-10402,Rock Point,OR,,city-us,0,42.43,-123.10,1035
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4807,Boulder Park,MI,Charlevoix County,,city-us,1645,45.326,-85.251,3375
+4808,Boulder Park,CA,Imperial County,,city-us,0,32.659,-116.101,192

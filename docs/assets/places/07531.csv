@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42934,Seven Oaks,SC,,city-us,15561,34.05,-81.15,2808
-42936,Seven Oaks,CA,,city-us,289,34.19,-116.91,2282
-42935,Seven Oaks,TX,,city-us,69,30.85,-94.87,2197
-42937,Seven Oaks,MD,,city-us,0,39.11,-76.71,1155
-42938,Seven Oaks,OR,,city-us,0,42.39,-122.94,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38205,Saint-Denis,,,Reunion,city-international,190047,-20.879,55.448,32901
+38204,Saint-Denis,,,France,city-international,112091,48.936,2.354,4466

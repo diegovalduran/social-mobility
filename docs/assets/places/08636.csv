@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46005,Royville,IN,,city-us,0,41.20,-85.13,561
-46006,Royville,KY,,city-us,0,37.07,-85.11,157
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43307,Triplett,MO,Chariton County,,city-us,36,39.498,-93.194,2980
+43308,Triplett,WV,Clay County,,city-us,0,38.476,-81.036,87
+43309,Triplett,WV,Roane County,,city-us,0,38.839,-81.298,239
+43310,Triplett,KY,Rowan County,,city-us,0,38.293,-83.396,91

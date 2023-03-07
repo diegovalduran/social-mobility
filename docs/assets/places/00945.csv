@@ -1,13 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10329,Peoria,AZ,,city-us,194917,33.79,-112.31,13203
-10331,Peoria,IL,,city-us,111666,40.69,-89.59,31900
-10333,Peoria,NE,,city-us,139,42.66,-97.66,239
-10334,Peoria,OK,,city-us,131,36.92,-94.67,3415
-10335,Peoria,OR,,city-us,103,44.45,-123.21,1134
-10330,Peoria,CO,,city-us,53,39.68,-104.11,938
-10332,Peoria,KS,,city-us,0,38.58,-95.15,405
-10336,Peoria,IN,,city-us,0,39.43,-84.82,397
-10337,Peoria,IN,,city-us,0,40.72,-85.96,2772
-10338,Peoria,IA,,city-us,0,41.46,-92.80,237
-10339,Peoria,MO,,city-us,0,37.76,-90.88,518
-10340,Peoria,OH,,city-us,0,40.31,-83.45,2038
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4746,Boonville,MO,Cooper County,,city-us,7870,38.974,-92.743,11131
+4749,Boonville,IN,Warrick County,,city-us,6627,38.049,-87.274,6665
+4748,Boonville,NY,Oneida County,,city-us,4466,43.459,-75.285,4059
+4750,Boonville,NC,Yadkin County,,city-us,1193,36.233,-80.708,3006
+4747,Boonville,CA,Mendocino County,,city-us,1044,39.009,-123.366,6612

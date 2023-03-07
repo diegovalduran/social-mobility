@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47831,Vandyke,TX,,city-us,0,31.97,-98.56,673
-47832,Vandyke,VA,,city-us,0,37.14,-81.92,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47500,Woodbridge,VA,Prince William County,,city-us,42734,38.658,-77.250,11194
+47499,Woodbridge,NJ,Middlesex County,,city-us,21314,40.558,-74.285,30886
+47502,Woodbridge,CT,South Central Connecticut Planning Region,,city-us,9045,41.364,-73.004,9004
+47501,Woodbridge,CA,San Joaquin County,,city-us,4090,38.154,-121.301,3654
+47498,Woodbridge,MI,Hillsdale County,,city-us,1304,41.775,-84.641,2965

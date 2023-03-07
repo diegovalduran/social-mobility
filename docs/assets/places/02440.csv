@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20696,Winder,GA,,city-us,18825,33.99,-83.72,5806
-20697,Winder,ID,,city-us,0,42.18,-111.92,151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12201,Dresser,WI,Polk County,,city-us,948,45.356,-92.634,4137
+12202,Dresser,IN,Vigo County,,city-us,19,39.463,-87.424,637
+12200,Dresser,CA,Alameda County,,city-us,0,37.593,-121.956,916
+12203,Dressor,IL,Fayette County,,city-us,0,39.173,-89.051,314

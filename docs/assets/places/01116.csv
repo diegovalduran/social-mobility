@@ -1,20 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11485,Clermont,FL,,city-us,44530,28.55,-81.77,8600
-11484,Claremont,CA,,city-us,35703,34.10,-117.72,14377
-11493,Claremont,NH,,city-us,13039,43.38,-72.35,17978
-11494,Clermont,NY,,city-us,2060,42.09,-73.85,6525
-11491,Claremont,NC,,city-us,1704,35.71,-81.15,2939
-11489,Clermont,IN,,city-us,1368,39.81,-86.32,3254
-11486,Clermont,GA,,city-us,1132,34.48,-83.77,2483
-11488,Claremont,IL,,city-us,851,38.71,-87.97,340
-11487,Clermont,IA,,city-us,575,43.00,-91.65,4089
-11490,Claremont,MN,,city-us,509,44.04,-93.00,4465
-11496,Claremont,VA,,city-us,304,37.23,-76.96,5010
-11495,Claremont,SD,,city-us,125,45.63,-98.07,3007
-11492,Clermont,ND,,city-us,45,45.99,-102.44,171
-11497,Clermont,KY,,city-us,0,37.55,-85.39,801
-11498,Claremont,MS,,city-us,0,34.12,-90.52,394
-11499,Clermont,NJ,,city-us,0,39.99,-74.80,288
-11500,Clermont,NJ,,city-us,0,39.15,-74.76,202
-11501,Claremont,SC,,city-us,0,33.97,-80.56,196
-11502,Claremont,WV,,city-us,0,37.92,-81.05,137
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5553,Brookview,MD,Dorchester County,,city-us,45,38.575,-75.796,3377
+5554,Brookview,NJ,Middlesex County,,city-us,0,40.421,-74.474,361

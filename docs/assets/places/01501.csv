@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14271,Seville,OH,,city-us,2328,41.01,-81.86,3914
-14270,Seville,MI,,city-us,2136,43.42,-84.78,2154
-14267,Seville,CA,,city-us,426,36.49,-119.22,3375
-14269,Seville,GA,,city-us,197,31.96,-83.60,991
-14268,Seville,FL,,city-us,0,29.32,-81.49,909
-14272,Seville,IL,,city-us,0,40.49,-90.34,187
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39033,Seal,OH,Pike County,,city-us,3377,39.077,-82.974,1299
+7516,Cele,TX,Travis County,,city-us,0,30.441,-97.522,187
+39034,Seal,OH,Wyandot County,,city-us,0,40.877,-83.151,206
+39035,Seale,AL,Russell County,,city-us,0,32.297,-85.169,3236

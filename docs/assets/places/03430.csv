@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26826,Mackinaw,IL,,city-us,4255,40.53,-89.33,389
-26827,Mackinaw,MI,,city-us,505,45.74,-84.70,2441
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17361,Grace,ID,Caribou County,,city-us,938,42.576,-111.731,7304
+17363,Grace,MN,Chippewa County,,city-us,102,45.101,-95.543,1897
+17364,Grace,ND,Grand Forks County,,city-us,84,47.802,-97.688,0
+17366,Grace,MS,Issaquena County,,city-us,77,32.999,-90.956,1181
+17362,Grace,MO,Carroll County,,city-us,0,39.601,-93.441,226
+17365,Grace,WV,Hampshire County,,city-us,0,39.431,-78.713,282
+17367,Grace,MO,Laclede County,,city-us,0,37.858,-92.745,391
+17368,Grace,WV,Roane County,,city-us,0,38.886,-81.353,85
+17369,Grace,MT,Silver Bow County,,city-us,0,45.807,-112.330,221

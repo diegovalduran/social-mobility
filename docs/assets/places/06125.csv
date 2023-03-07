@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38517,Wagram,NC,,city-us,632,34.89,-79.37,2235
-38518,Wagram,OH,,city-us,0,39.96,-82.73,367
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31312,Norristown,PA,Montgomery County,,city-us,35829,40.121,-75.340,15694
+31311,Norristown,GA,Emanuel County,,city-us,35,32.507,-82.494,408
+31313,Norristown,AR,Pope County,,city-us,0,35.275,-93.167,2922
+31314,Norristown,IN,Shelby County,,city-us,0,39.365,-85.761,251

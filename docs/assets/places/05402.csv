@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36062,Lent,MN,,city-us,2993,45.43,-92.96,2512
-36063,Lent,VA,,city-us,0,38.15,-77.24,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27660,McVille,ND,Nelson County,,city-us,383,47.764,-98.177,4203
+27657,McVille,PA,Armstrong County,,city-us,0,40.726,-79.603,853
+27658,McVille,KY,Boone County,,city-us,0,38.977,-84.824,222
+27659,McVille,IN,Greene County,,city-us,0,39.153,-86.739,357

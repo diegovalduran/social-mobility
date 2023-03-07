@@ -1,7 +1,102 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36472,Richville,MI,,city-us,3068,43.43,-83.66,2600
-36470,Richville,NY,,city-us,264,44.42,-75.39,2132
-36469,Richville,MN,,city-us,76,46.51,-95.63,3041
-36471,Richville,OH,,city-us,0,40.75,-81.48,670
-36473,Richville,MO,,city-us,0,36.84,-92.24,565
-36474,Richville,MO,,city-us,0,39.99,-95.05,281
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28360,Midway,FL,Santa Rosa County,,city-us,19567,30.388,-86.991,1305
+28375,Midway,UT,Wasatch County,,city-us,6339,40.512,-111.474,5004
+28306,Midway,NC,Davidson County,,city-us,4814,35.953,-80.218,4066
+28315,Midway,FL,Gadsden County,,city-us,3434,30.495,-84.454,3755
+28378,Midway,TN,Washington County,,city-us,2491,36.294,-82.419,2205
+28337,Midway,GA,Liberty County,,city-us,2190,31.806,-81.431,5486
+28383,Midway,KY,Woodford County,,city-us,1690,38.151,-84.684,7585
+28366,Midway,MN,St. Louis County,,city-us,1421,46.730,-92.272,215
+28287,Midway,AR,Baxter County,,city-us,1245,36.385,-92.462,1005
+28362,Midway,FL,Seminole County,,city-us,1226,28.790,-81.231,2005
+28333,Midway,LA,LaSalle Parish,,city-us,967,31.692,-92.152,2321
+28284,Midway,PA,Adams County,,city-us,918,39.808,-77.003,2083
+28377,Midway,PA,Washington County,,city-us,916,40.369,-80.293,2383
+28295,Midway,NM,Chaves County,,city-us,653,33.295,-104.451,695
+28368,Midway,ND,Stutsman County,,city-us,608,46.937,-98.768,0
+28292,Midway,AL,Bullock County,,city-us,420,32.077,-85.522,3256
+28323,Midway,AR,Hot Spring County,,city-us,377,34.254,-92.964,976
+28341,Midway,OH,Madison County,,city-us,271,39.733,-83.478,3723
+28301,Midway,MN,Cottonwood County,,city-us,227,43.985,-94.909,215
+28342,Midway,TX,Madison County,,city-us,184,31.026,-95.751,2563
+28343,Midway,MN,Mahnomen County,,city-us,35,47.316,-95.779,224
+28288,Midway,MN,Becker County,,city-us,10,46.782,-95.260,258
+28285,Midway,CA,Alameda County,,city-us,0,37.715,-121.558,203
+28286,Midway,VA,Albemarle County,,city-us,0,38.028,-78.706,115
+28289,Midway,TN,Bedford County,,city-us,0,35.429,-86.323,188
+28290,Midway,MO,Boone County,,city-us,0,38.985,-92.449,508
+28291,Midway,LA,Bossier Parish,,city-us,0,32.715,-93.594,176
+28293,Midway,KY,Calloway County,,city-us,0,36.551,-88.324,112
+28294,Midway,TN,Cannon County,,city-us,0,35.658,-86.065,183
+28296,Midway,IL,Christian County,,city-us,0,39.670,-89.159,121
+28297,Midway,AR,Clark County,,city-us,0,34.013,-93.111,150
+28298,Midway,TN,Clay County,,city-us,0,36.554,-85.609,114
+28299,Midway,TN,Cocke County,,city-us,0,35.870,-83.031,122
+28300,Midway,MS,Copiah County,,city-us,0,31.717,-90.556,289
+28302,Midway,KS,Crawford County,,city-us,0,37.449,-94.631,471
+28303,Midway,KY,Crittenden County,,city-us,0,37.306,-88.176,86
+28304,Midway,TN,Crockett County,,city-us,0,35.714,-88.999,115
+28305,Midway,TN,Cumberland County,,city-us,0,35.830,-85.179,130
+28307,Midway,TN,DeKalb County,,city-us,0,35.954,-85.755,167
+28308,Midway,TN,Dyer County,,city-us,0,36.006,-89.689,153
+28309,Midway,CO,El Paso County,,city-us,0,38.843,-104.974,100
+28310,Midway,IN,Elkhart County,,city-us,0,41.619,-85.891,132
+28311,Midway,WV,Fayette County,,city-us,0,38.003,-81.148,144
+28312,Midway,IA,Floyd County,,city-us,0,43.005,-92.606,151
+28313,Midway,IN,Franklin County,,city-us,0,39.460,-85.217,132
+28314,Midway,TN,Franklin County,,city-us,0,35.209,-85.883,154
+28316,Midway,VA,Giles County,,city-us,0,37.391,-80.808,113
+28317,Midway,TN,Greene County,,city-us,0,36.177,-82.997,589
+28318,Midway,VA,Greene County,,city-us,0,38.237,-78.386,112
+28319,Midway,VA,Halifax County,,city-us,0,36.798,-78.778,159
+28320,Midway,TN,Hawkins County,,city-us,0,36.563,-82.873,132
+28321,Midway,TN,Henry County,,city-us,0,36.284,-88.466,1469
+28322,Midway,MS,Hinds County,,city-us,0,32.169,-90.376,277
+28324,Midway,AR,Howard County,,city-us,0,33.901,-93.891,153
+28325,Midway,AR,Jackson County,,city-us,0,35.560,-91.052,148
+28326,Midway,AR,Jefferson County,,city-us,0,34.297,-92.189,160
+28327,Midway,IN,Jefferson County,,city-us,0,38.816,-85.463,133
+28328,Midway,TN,Johnson County,,city-us,0,36.414,-81.768,190
+28329,Midway,VA,King William County,,city-us,0,37.756,-77.126,200
+28330,Midway,TN,Knox County,,city-us,0,35.981,-83.694,232
+28331,Midway,WI,La Crosse County,,city-us,0,43.929,-91.258,487
+28332,Midway,AR,Lafayette County,,city-us,0,33.462,-93.625,186
+28334,Midway,MS,Leake County,,city-us,0,32.807,-89.441,148
+28335,Midway,AR,Lee County,,city-us,0,34.893,-90.454,189
+28336,Midway,MO,Lewis County,,city-us,0,40.159,-91.827,193
+28338,Midway,IA,Linn County,,city-us,0,42.106,-91.697,188
+28339,Midway,AR,Logan County,,city-us,0,35.291,-93.528,170
+28340,Midway,IL,Madison County,,city-us,0,38.929,-89.972,174
+28344,Midway,AR,Marion County,,city-us,0,36.411,-92.663,130
+28345,Midway,IL,Massac County,,city-us,0,37.240,-88.634,152
+28346,Midway,KY,Meade County,,city-us,0,37.952,-86.239,81
+28347,Midway,VA,Mecklenburg County,,city-us,0,36.672,-78.258,117
+28348,Midway,WV,Mercer County,,city-us,0,37.266,-81.259,164
+28349,Midway,AR,Mississippi County,,city-us,0,35.981,-90.024,166
+28350,Midway,TN,Morgan County,,city-us,0,36.279,-84.657,184
+28351,Midway,AR,Nevada County,,city-us,0,33.811,-93.457,144
+28352,Midway,TN,Obion County,,city-us,0,36.386,-88.963,170
+28353,Midway,MO,Oregon County,,city-us,0,36.611,-91.477,178
+28354,Midway,IN,Parke County,,city-us,0,39.775,-87.317,229
+28355,Midway,TN,Pickett County,,city-us,0,36.500,-85.178,129
+28356,Midway,WV,Putnam County,,city-us,0,38.560,-81.964,207
+28357,Midway,WV,Raleigh County,,city-us,0,37.719,-81.237,139
+28358,Midway,LA,Rapides Parish,,city-us,0,31.061,-92.472,248
+28359,Midway,TN,Roane County,,city-us,0,35.776,-84.552,288
+28361,Midway,MS,Scott County,,city-us,0,32.546,-89.532,194
+28363,Midway,TX,Smith County,,city-us,0,32.471,-95.103,92
+28364,Midway,IN,Spencer County,,city-us,0,37.999,-87.138,305
+28365,Midway,AR,St. Francis County,,city-us,0,35.129,-90.578,209
+28367,Midway,LA,St. Mary Parish,,city-us,0,29.655,-91.491,158
+28369,Midway,DE,Sussex County,,city-us,0,38.728,-75.129,291
+28370,Midway,IL,Tazewell County,,city-us,0,40.519,-89.662,168
+28371,Midway,MS,Tishomingo County,,city-us,0,34.731,-88.225,210
+28372,Midway,TX,Van Zandt County,,city-us,0,32.394,-95.560,560
+28373,Midway,IL,Vermilion County,,city-us,0,40.016,-87.638,172
+28374,Midway,TN,Warren County,,city-us,0,35.801,-85.703,167
+28376,Midway,OR,Washington County,,city-us,0,45.411,-122.960,856
+28379,Midway,VA,Washington County,,city-us,0,36.786,-81.876,117
+28380,Midway,LA,Webster Parish,,city-us,0,32.922,-93.454,144
+28381,Midway,AR,White County,,city-us,0,35.518,-91.601,1517
+28382,Midway,IA,Woodbury County,,city-us,0,42.371,-95.729,896
+28384,Midway,MS,Yazoo County,,city-us,0,32.886,-90.192,303

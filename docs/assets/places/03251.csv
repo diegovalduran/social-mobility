@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25566,Four Mile,IL,,city-us,556,38.32,-88.65,339
-25567,Four Mile,OH,,city-us,0,38.98,-82.64,249
-25568,Four Mile,SD,,city-us,0,43.73,-103.68,574
-25569,Four Mile,WV,,city-us,0,39.59,-80.62,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16443,Gary,IN,Lake County,,city-us,68325,41.593,-87.346,37315
+16444,Gary,WV,McDowell County,,city-us,730,37.364,-81.550,5163
+16441,Gary,SD,Deuel County,,city-us,239,44.792,-96.456,3316
+16445,Gary,MN,Norman County,,city-us,225,47.371,-96.268,3099
+16442,Gary,MD,Howard County,,city-us,0,39.260,-77.009,368

@@ -1,12 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7779,Manila,,Philippines,city-international,23971000,14.60,120.98,75594
-7769,Manila,AR,,city-us,3662,35.88,-90.17,3979
-7771,Manilla,IA,,city-us,758,41.89,-95.23,3785
-7770,Manila,CA,,city-us,716,40.85,-124.16,2724
-7772,Manilla,IN,,city-us,366,39.57,-85.62,369
-7774,Manila,UT,,city-us,324,40.99,-109.72,3435
-7773,Manilla,ND,,city-us,87,48.76,-98.28,0
-7775,Manila,AL,,city-us,0,32.45,-86.92,93
-7776,Manila,KY,,city-us,0,37.84,-82.92,301
-7777,Manila,MO,,city-us,0,38.55,-93.34,449
-7778,Manila,WV,,city-us,0,37.99,-81.94,375
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3566,Berclair,TX,Goliad County,,city-us,253,28.531,-97.591,363
+3567,Berclair,MS,Leflore County,,city-us,0,33.472,-90.365,757

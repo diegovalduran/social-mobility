@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17814,Daye,,China,city-international,909724,30.10,114.97,7309
-17807,Day,MI,,city-us,1193,43.34,-85.01,3207
-17810,Day,WI,,city-us,1054,44.72,-90.01,1996
-17808,Day,NY,,city-us,822,43.32,-74.03,3523
-17809,Day,SD,,city-us,98,44.84,-97.66,0
-17806,Day,FL,,city-us,89,30.19,-83.29,199
-17811,Day,CA,,city-us,0,41.21,-121.37,346
-17812,Day,MN,,city-us,0,45.71,-93.38,916
-17813,Day,MO,,city-us,0,36.81,-93.24,424
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10094,Coulterville,IL,Randolph County,,city-us,827,38.186,-89.606,2787
+10093,Coulterville,CA,Mariposa County,,city-us,44,37.710,-120.198,3763

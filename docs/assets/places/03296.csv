@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25885,Harvard,IL,,city-us,9459,42.42,-88.61,12483
-25886,Harvard,MA,,city-us,6844,42.50,-71.59,14127
-25887,Harvard,NE,,city-us,939,40.62,-98.10,3998
-25888,Harvard,ID,,city-us,0,46.92,-116.73,1226
-25889,Harvard,TX,,city-us,0,33.06,-94.97,1416
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16700,Ghent,NY,Columbia County,,city-us,5334,42.315,-73.649,3720
+16702,Ghent,WV,Raleigh County,,city-us,575,37.617,-81.115,5012
+16701,Ghent,MN,Lyon County,,city-us,374,44.513,-95.891,3041
+16699,Ghent,KY,Carroll County,,city-us,363,38.738,-85.058,4383
+16703,Ghent,OH,Summit County,,city-us,0,41.158,-81.637,670

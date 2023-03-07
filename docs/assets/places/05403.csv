@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36066,Leota,MI,,city-us,456,44.13,-84.92,2508
-36064,Leota,MN,,city-us,376,43.80,-96.00,3150
-36065,Leota,IN,,city-us,0,38.65,-85.85,1725
-36067,Leota,MO,,city-us,0,36.53,-92.04,391
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27661,McWhorter,GA,Douglas County,,city-us,0,33.613,-84.837,129
+27662,McWhorter,WV,Harrison County,,city-us,0,39.127,-80.383,214

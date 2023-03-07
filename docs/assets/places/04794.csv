@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33496,Ocean,NJ,,city-us,27912,40.25,-74.03,163
-33497,Ocean,NJ,,city-us,8922,39.79,-74.21,163
-33495,Ocean,MD,,city-us,0,39.60,-78.94,341
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24468,Leola,PA,Lancaster County,,city-us,7721,40.088,-76.185,1496
+24467,Leola,AR,Grant County,,city-us,460,34.170,-92.591,4220
+24469,Leola,SD,McPherson County,,city-us,409,45.723,-98.941,3908
+24465,Leola,WI,Adams County,,city-us,294,44.203,-89.668,1742
+24466,Leola,SD,Codington County,,city-us,60,45.108,-96.947,3908

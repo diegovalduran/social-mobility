@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35380,Arrowhead,MN,,city-us,283,46.86,-92.75,2807
-35381,Arrowhead,VA,,city-us,0,37.98,-78.59,73
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26747,Maple River,MI,Emmet County,,city-us,1296,45.502,-84.802,2545
+26746,Maple River,ND,Cass County,,city-us,122,46.761,-97.240,0
+26745,Maple River,IA,Carroll County,,city-us,0,42.098,-94.935,397

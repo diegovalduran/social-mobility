@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37877,Alberton,,South Africa,city-international,121536,-26.27,28.12,8061
-37874,Alberton,MT,,city-us,505,47.00,-114.47,5450
-37875,Alberton,AL,,city-us,0,31.28,-86.13,361
-37876,Alberton,MD,,city-us,0,39.32,-76.81,1064
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30429,Nemo,SD,Lawrence County,,city-us,546,44.194,-103.504,1653
+30428,Nemo,MO,Hickory County,,city-us,0,37.877,-93.262,244
+30430,Nemo,TX,Somervell County,,city-us,0,32.260,-97.652,1191

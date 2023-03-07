@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22969,Rinard,IL,,city-us,463,38.57,-88.46,892
-22968,Rinard,IA,,city-us,36,42.34,-94.49,2762
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21578,Irving,TX,Dallas County,,city-us,254198,32.814,-96.949,17961
+21575,Irving,MI,Barry County,,city-us,3770,42.721,-85.377,2193
+13898,Erving,MA,Franklin County,,city-us,1667,42.613,-72.426,4061
+21581,Irving,MN,Kandiyohi County,,city-us,969,45.280,-94.823,2124
+21582,Irving,IL,Montgomery County,,city-us,873,39.214,-89.420,657
+21580,Irving,WI,Jackson County,,city-us,602,44.190,-90.901,1977
+21577,Irving,KS,Brown County,,city-us,312,39.932,-95.392,491
+13899,Erving,KS,Jewell County,,city-us,35,39.612,-98.449,839
+21579,Irving,SD,Faulk County,,city-us,10,44.928,-99.289,0
+21576,Irving,IA,Benton County,,city-us,0,41.948,-92.295,152

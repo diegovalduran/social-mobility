@@ -1,21 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5730,Augusta,GA,,city-us,205673,33.36,-82.08,29353
-5735,Augusta,ME,,city-us,18968,44.31,-69.78,14906
-5733,Augusta,KS,,city-us,9267,37.69,-96.98,6685
-5737,Augusta,MI,,city-us,7107,42.13,-83.59,5046
-5741,Augusta,NY,,city-us,1999,42.98,-75.50,8321
-5729,Augusta,AR,,city-us,1954,35.28,-91.37,4628
-5743,Augusta,WI,,city-us,1549,44.68,-91.12,4833
-5734,Augusta,KY,,city-us,1100,38.77,-84.01,6096
-5746,Augusta,NJ,,city-us,887,41.13,-74.73,2305
-5736,Augusta,MI,,city-us,853,42.34,-85.35,4404
-5732,Augusta,IL,,city-us,701,40.24,-90.97,1072
-5739,Augusta,MO,,city-us,267,38.57,-90.88,3828
-5740,Augusta,MT,,city-us,233,47.49,-112.39,3663
-5738,Augusta,MN,,city-us,95,45.02,-96.40,1826
-5731,Augusta,IA,,city-us,51,40.76,-91.28,975
-5742,Augusta,OH,,city-us,0,40.69,-81.02,868
-5744,Augusta,IN,,city-us,0,38.33,-87.19,344
-5745,Augusta,MN,,city-us,0,44.80,-93.69,551
-5747,Augusta,TX,,city-us,0,31.53,-95.33,342
-5748,Augusta,WV,,city-us,0,39.30,-78.64,417
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2562,Barstow,CA,San Bernardino County,,city-us,25442,34.899,-117.023,24864
+2563,Barstow,TX,Ward County,,city-us,257,31.461,-103.394,2736
+2561,Barstow,IL,Rock Island County,,city-us,89,41.518,-90.357,561
+2559,Barstow,WA,Ferry County,,city-us,59,48.777,-118.143,656
+2558,Barstow,MD,Calvert County,,city-us,0,38.527,-76.615,673
+2560,Barstow,CA,Fresno County,,city-us,0,36.815,-119.970,446

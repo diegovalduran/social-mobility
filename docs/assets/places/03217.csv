@@ -1,5 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25372,Embarrass,IL,,city-us,558,39.67,-87.91,1099
-25374,Embarrass,WI,,city-us,354,44.67,-88.71,3430
-25373,Embarrass,MN,,city-us,30,47.66,-92.20,3191
-25375,Embarrass,IL,,city-us,0,39.52,-88.09,191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16229,Galloway,NJ,Atlantic County,,city-us,37925,39.491,-74.474,20304
+16230,Galloway,WV,Barbour County,,city-us,101,39.232,-80.122,425
+16231,Galloway,OH,Franklin County,,city-us,0,39.910,-83.160,1261
+16232,Galloway,MI,Gratiot County,,city-us,0,43.332,-84.369,776
+16233,Galloway,WI,Marathon County,,city-us,0,44.713,-89.264,384
+16234,Galloway,TX,Panola County,,city-us,0,32.048,-94.081,843

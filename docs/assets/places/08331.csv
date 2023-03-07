@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45253,Honeydew,CA,,city-us,0,40.24,-124.12,3503
-45254,Honeydew,WV,,city-us,0,38.03,-80.83,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42132,Sunset Beach,NC,Brunswick County,,city-us,4270,33.881,-78.512,5713
+42133,Sunset Beach,OR,Clatsop County,,city-us,0,46.101,-123.931,686
+42134,Sunset Beach,WI,Dodge County,,city-us,0,43.502,-88.866,174
+42135,Sunset Beach,WV,Monongalia County,,city-us,0,39.679,-79.856,143

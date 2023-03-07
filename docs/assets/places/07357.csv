@@ -1,3 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42372,Middlecreek,PA,,city-us,2044,40.82,-76.97,192
-42373,Middlecreek,PA,,city-us,823,39.97,-79.27,192
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37344,Rogers,AR,Benton County,,city-us,71112,36.332,-94.119,13115
+37350,Rogers,MN,Hennepin County,,city-us,13398,45.189,-93.553,6218
+37343,Rogers,TX,Bell County,,city-us,1104,30.932,-97.227,2669
+37353,Rogers,MI,Presque Isle County,,city-us,975,45.442,-83.874,2019
+37349,Rogers,IL,Ford County,,city-us,388,40.969,-88.190,947
+37348,Rogers,OH,Columbiana County,,city-us,190,40.791,-80.626,5843
+37347,Rogers,NE,Colfax County,,city-us,81,41.465,-96.915,3205
+37345,Rogers,MN,Cass County,,city-us,68,47.105,-94.084,2307
+37342,Rogers,ND,Barnes County,,city-us,49,47.073,-98.200,2889
+37346,Rogers,KS,Chautauqua County,,city-us,0,37.147,-96.279,245
+37351,Rogers,VA,Montgomery County,,city-us,0,37.088,-80.397,714
+37352,Rogers,IN,Pike County,,city-us,0,38.538,-87.224,153
+37354,Rogers,NM,Roosevelt County,,city-us,0,33.982,-103.231,211
+37355,Rogers,KY,Wolfe County,,city-us,0,37.744,-83.636,387

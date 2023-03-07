@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41537,Nicut,OK,,city-us,286,35.58,-94.56,509
-41538,Nicut,WV,,city-us,0,38.71,-81.02,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36095,Red Lion,NJ,Middlesex County,,city-us,43905,40.450,-74.479,18660
+36098,Red Lion,PA,York County,,city-us,6489,39.901,-76.606,5448
+36094,Red Lion,NJ,Burlington County,,city-us,0,39.889,-74.745,534
+36096,Red Lion,DE,New Castle County,,city-us,0,39.608,-75.664,345
+36097,Red Lion,OH,Warren County,,city-us,0,39.491,-84.250,670

@@ -1,18 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28821,Verona,,Italy,city-international,257275,45.44,10.99,26963
-28812,Verona,NJ,,city-us,14446,40.83,-74.24,27390
-28813,Verona,NY,,city-us,5880,43.16,-75.63,4909
-28816,Verona,VA,,city-us,4410,38.20,-79.01,2260
-28810,Verona,MS,,city-us,2773,34.19,-88.72,2397
-28815,Verona,PA,,city-us,2452,40.51,-79.84,3224
-28817,Verona,WI,,city-us,1937,42.97,-89.59,5711
-28806,Verona,KY,,city-us,1545,38.82,-84.66,1507
-28807,Verona,MI,,city-us,1349,43.81,-82.95,2373
-28809,Verona,MO,,city-us,513,36.96,-93.80,3490
-28814,Verona,OH,,city-us,399,39.90,-84.51,2987
-28808,Verona,MN,,city-us,318,43.71,-94.20,1896
-28805,Verona,IL,,city-us,208,41.22,-88.50,1964
-28811,Verona,ND,,city-us,63,46.36,-98.07,3165
-28818,Verona,CA,,city-us,0,37.63,-121.88,521
-28819,Verona,TN,,city-us,0,35.53,-86.77,516
-28820,Verona,TX,,city-us,0,33.25,-96.44,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19264,Hathaway,WV,Calhoun County,,city-us,0,38.858,-81.083,90
+19265,Hathaway,LA,Jefferson Davis Parish,,city-us,0,30.350,-92.672,266
+19266,Hathaway,MT,Rosebud County,,city-us,0,46.276,-106.197,421

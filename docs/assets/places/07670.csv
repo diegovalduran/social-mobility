@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43367,New Deal,TX,,city-us,729,33.74,-101.84,4123
-43366,New Deal,TN,,city-us,304,36.52,-86.56,211
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38859,Schoolcraft,MI,Kalamazoo County,,city-us,9156,42.112,-85.586,183
+38857,Schoolcraft,MI,Houghton County,,city-us,2041,47.197,-88.290,183
+38858,Schoolcraft,MN,Hubbard County,,city-us,141,47.291,-94.973,1922

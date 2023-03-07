@@ -1,5 +1,43 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36676,Svea,ND,,city-us,43,46.76,-98.25,128
-36675,Svea,MN,,city-us,38,48.59,-96.97,1856
-36677,Svea,FL,,city-us,0,30.97,-86.40,81
-36678,Svea,MN,,city-us,0,45.00,-95.02,624
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28744,Milton,IL,DuPage County,,city-us,118756,41.859,-88.090,2851
+28770,Milton,,,Canada,city-international,110128,43.508,-79.883,5339
+28750,Milton,MI,Macomb County,,city-us,43381,42.671,-82.809,6950
+28745,Milton,GA,Fulton County,,city-us,41259,34.132,-84.301,4841
+28752,Milton,MA,Norfolk County,,city-us,28388,42.242,-71.082,23559
+28759,Milton,FL,Santa Rosa County,,city-us,10498,30.632,-87.040,6610
+28747,Milton,WA,King County / Pierce County,,city-us,8907,47.252,-122.317,4041
+28753,Milton,PA,Northumberland County,,city-us,6576,41.012,-76.848,4583
+28757,Milton,WI,Rock County,,city-us,5708,42.776,-88.944,2235
+28761,Milton,NH,Strafford County,,city-us,4510,43.452,-71.015,6468
+28760,Milton,NY,Saratoga County,,city-us,4417,43.034,-73.853,5588
+28742,Milton,VT,Chittenden County,,city-us,4053,44.640,-73.110,8887
+28751,Milton,OH,Mahoning County,,city-us,3514,41.096,-80.953,291
+28763,Milton,DE,Sussex County,,city-us,3428,38.778,-75.310,5918
+28738,Milton,MI,Cass County,,city-us,3149,41.790,-86.176,322
+28768,Milton,OH,Wayne County,,city-us,2959,40.940,-81.825,291
+28736,Milton,WV,Cabell County,,city-us,2809,38.435,-82.132,4673
+28748,Milton,LA,Lafayette Parish,,city-us,2590,30.104,-92.076,3297
+28730,Milton,MI,Antrim County,,city-us,2392,44.916,-85.336,322
+28732,Milton,OH,Ashland County,,city-us,2341,40.860,-82.376,291
+28765,Milton,NY,Ulster County,,city-us,1452,41.660,-73.957,7135
+28735,Milton,KS,Butler County,,city-us,1057,37.951,-97.081,518
+28746,Milton,OH,Jackson County,,city-us,1037,39.072,-82.501,291
+28769,Milton,OH,Wood County,,city-us,917,41.299,-83.825,291
+28743,Milton,MN,Dodge County,,city-us,742,44.149,-92.734,1921
+28764,Milton,KY,Trimble County,,city-us,592,38.724,-85.369,3315
+28734,Milton,WI,Buffalo County,,city-us,547,44.178,-91.759,2187
+28767,Milton,IN,Wayne County,,city-us,454,39.788,-85.155,3554
+28766,Milton,IA,Van Buren County,,city-us,387,40.673,-92.162,3862
+28762,Milton,KS,Sumner County,,city-us,340,37.432,-97.771,772
+28755,Milton,IL,Pike County,,city-us,209,39.564,-90.650,1851
+28739,Milton,NC,Caswell County,,city-us,156,36.539,-79.209,4065
+28740,Milton,ND,Cavalier County,,city-us,42,48.626,-98.043,2870
+28729,Milton,VA,Albemarle County,,city-us,0,38.005,-78.403,440
+28731,Milton,PA,Armstrong County,,city-us,0,40.910,-79.217,311
+28733,Milton,MO,Atchison County,,city-us,0,40.285,-95.417,224
+28737,Milton,CA,Calaveras County,,city-us,0,38.032,-120.852,844
+28741,Milton,VA,Charles City County,,city-us,0,37.307,-77.024,106
+28749,Milton,TX,Lamar County,,city-us,0,33.515,-95.374,78
+28754,Milton,IN,Ohio County,,city-us,0,38.978,-85.015,363
+28756,Milton,MO,Randolph County,,city-us,0,39.470,-92.329,585
+28758,Milton,TN,Rutherford County,,city-us,0,35.930,-86.182,367

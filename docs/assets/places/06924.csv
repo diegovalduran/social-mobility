@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40913,Haydenville,OH,,city-us,438,39.48,-82.33,1619
-40914,Haydenville,MN,,city-us,0,45.01,-96.31,221
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35202,Powers Lake,WI,Kenosha County,,city-us,1311,42.554,-88.295,3258
+35201,Powers Lake,ND,Burke County,,city-us,382,48.563,-102.648,3471
+35203,Powers Lake,ND,Mountrail County,,city-us,52,48.496,-102.690,3471

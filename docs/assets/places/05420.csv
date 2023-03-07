@@ -1,7 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36121,Mabel,MN,,city-us,705,43.52,-91.77,3598
-36122,Mabel,ND,,city-us,59,47.38,-98.45,214
-36123,Mabel,FL,,city-us,0,28.58,-81.98,1666
-36124,Mabel,KY,,city-us,0,36.57,-89.28,81
-36125,Mabel,MO,,city-us,0,39.82,-94.20,459
-36126,Mabel,OR,,city-us,0,44.22,-122.83,255
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27738,Mechanicsburg,PA,Cumberland County,,city-us,9518,40.214,-77.009,8596
+27736,Mechanicsburg,OH,Champaign County,,city-us,1703,40.072,-83.556,4918
+27742,Mechanicsburg,IL,Sangamon County,,city-us,655,39.809,-89.397,1901
+27734,Mechanicsburg,VA,Bland County,,city-us,26,37.148,-80.941,335
+27735,Mechanicsburg,IN,Boone County,,city-us,0,40.160,-86.481,712
+27737,Mechanicsburg,IN,Clay County,,city-us,0,39.601,-87.088,194
+27739,Mechanicsburg,IN,Decatur County,,city-us,0,39.337,-85.367,154
+27740,Mechanicsburg,WV,Hampshire County,,city-us,0,39.335,-78.810,679
+27741,Mechanicsburg,IN,Henry County,,city-us,0,40.005,-85.557,396

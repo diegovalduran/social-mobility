@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14004,Rio Dell,CA,,city-us,3367,40.50,-124.11,7590
-14005,Rio Dell,CA,,city-us,0,38.50,-122.91,554
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7285,Catawba,SC,York County,,city-us,1501,34.853,-80.911,1924
+7280,Catawba,NC,Catawba County,,city-us,703,35.707,-81.076,3129
+7283,Catawba,WI,Price County,,city-us,248,45.473,-90.472,2992
+7281,Catawba,OH,Clark County,,city-us,241,39.999,-83.622,3047
+7279,Catawba,MO,Caldwell County,,city-us,0,39.641,-93.834,282
+7282,Catawba,WV,Marion County,,city-us,0,39.227,-80.078,143
+7284,Catawba,VA,Roanoke County,,city-us,0,37.383,-80.109,1566

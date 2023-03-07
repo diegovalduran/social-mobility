@@ -1,12 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2931,Hatton,MI,,city-us,893,43.94,-84.78,2574
-2932,Hatton,ND,,city-us,714,47.64,-97.45,3668
-2930,Hatton,AL,,city-us,451,34.56,-87.42,991
-2933,Hatton,WA,,city-us,78,46.78,-118.83,5122
-2934,Hatton,AL,,city-us,0,34.76,-87.49,159
-2935,Hatton,AR,,city-us,0,34.36,-94.37,141
-2936,Hatton,KY,,city-us,0,38.23,-85.01,86
-2937,Hatton,MO,,city-us,0,39.02,-92.03,326
-2938,Hatton,OH,,city-us,0,41.25,-83.47,276
-2939,Hatton,VA,,city-us,0,37.76,-78.51,70
-2940,Hatton,WY,,city-us,0,41.30,-105.98,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1314,Arapahoe,WY,Fremont County,,city-us,1665,42.962,-108.490,2825
+1315,Arapahoe,NE,Furnas County,,city-us,982,40.304,-99.900,4412
+1316,Arapahoe,NC,Pamlico County,,city-us,424,35.026,-76.825,9384
+1313,Arapahoe,CO,Cheyenne County,,city-us,0,38.853,-102.179,1098

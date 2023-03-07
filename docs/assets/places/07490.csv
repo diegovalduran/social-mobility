@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42783,Yorklyn,PA,,city-us,1940,39.99,-76.65,426
-42784,Yorklyn,DE,,city-us,0,39.81,-75.68,2014
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38079,Rydal,GA,Bartow County,,city-us,4087,34.335,-84.716,1200
+38080,Rydal,PA,Montgomery County,,city-us,0,40.106,-75.109,1875
+38081,Rydal,KS,Republic County,,city-us,0,39.813,-97.711,342

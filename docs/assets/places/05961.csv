@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37969,Ennis,TX,,city-us,21210,32.33,-96.63,22489
-37968,Ennis,MT,,city-us,972,45.35,-111.73,8239
-37970,Ennis,KY,,city-us,0,37.20,-87.97,93
-37971,Ennice,NC,,city-us,0,36.55,-81.00,279
-37972,Ennis,WV,,city-us,0,37.38,-81.39,444
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30544,New Buffalo,MI,Berrien County,,city-us,2440,41.786,-86.719,5972
+30546,New Buffalo,PA,Perry County,,city-us,124,40.454,-76.970,2003
+30545,New Buffalo,OH,Mahoning County,,city-us,0,40.988,-80.712,247

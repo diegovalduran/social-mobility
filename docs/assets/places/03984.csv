@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29973,Mount Aetna,MD,,city-us,579,39.60,-77.62,3031
-29974,Mount Aetna,PA,,city-us,463,40.42,-76.30,321
-29972,Mount Etna,IN,,city-us,114,40.74,-85.56,3025
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20395,Holly Hills,CO,Arapahoe County,,city-us,2843,39.668,-104.918,1030
+20396,Holly Hills,VA,Powhatan County,,city-us,0,37.506,-77.756,95

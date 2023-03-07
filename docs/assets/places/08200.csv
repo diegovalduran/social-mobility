@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44909,Cottonville,AL,,city-us,0,34.45,-86.34,88
-44910,Cottonville,IA,,city-us,0,42.24,-90.60,1117
-44911,Cottonville,MS,,city-us,0,34.66,-90.18,113
-44912,Cottonville,NC,,city-us,0,35.20,-80.19,93
-44913,Cottonville,WI,,city-us,0,44.06,-89.81,354
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41492,Stiles,WI,Oconto County,,city-us,1465,44.861,-88.048,2270
+41491,Stiles,PA,Lehigh County,,city-us,1071,40.665,-75.508,882

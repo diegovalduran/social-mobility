@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39390,Gresham,OR,,city-us,113103,45.50,-122.43,10121
-39392,Gresham,MI,,city-us,1778,42.64,-84.90,2682
-39391,Gresham,WI,,city-us,534,44.85,-88.79,2621
-39389,Gresham,NE,,city-us,224,41.03,-97.40,3213
-39393,Gresham,SC,,city-us,0,33.93,-79.41,285
-39394,Gresham,TX,,city-us,0,32.23,-95.35,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32658,Otisco,NY,Onondaga County,,city-us,2379,42.862,-76.228,3986
+32657,Otisco,MI,Ionia County,,city-us,2364,43.075,-85.258,5084
+32656,Otisco,IN,Clark County,,city-us,0,38.542,-85.667,487
+32659,Otisco,MN,Waseca County,,city-us,0,43.979,-93.502,327

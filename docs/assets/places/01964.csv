@@ -1,13 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17619,Bloomingdale,FL,,city-us,25042,27.89,-82.24,3556
-17621,Bloomingdale,IL,,city-us,22386,41.96,-88.08,5467
-17626,Bloomingdale,TN,,city-us,8759,36.58,-82.49,2350
-17624,Bloomingdale,NJ,,city-us,7685,41.00,-74.33,14311
-17620,Bloomingdale,GA,,city-us,2860,32.13,-81.30,2504
-17623,Bloomingdale,MI,,city-us,516,42.38,-85.96,4098
-17622,Bloomingdale,IN,,city-us,265,39.83,-87.25,3331
-17625,Bloomingdale,OH,,city-us,139,40.34,-80.82,3534
-17627,Bloomingdale,KY,,city-us,0,37.89,-84.13,165
-17628,Bloomingdale,NC,,city-us,0,34.44,-79.02,184
-17629,Bloomingdale,SD,,city-us,0,42.92,-96.96,134
-17630,Bloomingdale,WI,,city-us,0,43.64,-90.78,209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10002,Corunna,MI,Shiawassee County,,city-us,3063,42.982,-84.118,4454
+10001,Corunna,IN,DeKalb County,,city-us,236,41.437,-85.147,3304

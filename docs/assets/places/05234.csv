@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35435,Benville,MN,,city-us,98,48.32,-95.53,2181
-35436,Benville,IL,,city-us,0,39.86,-90.86,228
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26823,Marchand,LA,Ascension Parish,,city-us,0,30.149,-90.994,507
+26824,Marchand,PA,Indiana County,,city-us,0,40.858,-79.023,264
+26825,Marchand,OH,Stark County,,city-us,0,40.881,-81.428,1400

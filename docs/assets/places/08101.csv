@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44638,Green Bank,WV,,city-us,59,38.42,-79.83,2208
-44639,Green Bank,NJ,,city-us,0,39.61,-74.59,1522
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41016,St. George,UT,Washington County,,city-us,99958,37.104,-113.584,24532
+41013,St. George,KS,Pottawatomie County,,city-us,4681,39.220,-96.403,4128
+41011,St. George,ME,Knox County,,city-us,2623,43.909,-69.233,7665
+41010,St. George,SC,Dorchester County,,city-us,1802,33.186,-80.576,3624
+41014,St. George,MO,St. Louis County,,city-us,1553,38.536,-90.312,6502
+41008,St. George,MN,Benton County,,city-us,1272,45.597,-93.955,2410
+41009,St. George,VT,Chittenden County,,city-us,798,44.376,-73.121,2289
+41007,St. George,AK,Aleutians West Census Area,,city-us,79,56.600,-169.542,3177
+41012,St. George,MN,Nicollet County,,city-us,0,44.389,-94.532,301
+41015,St. George,WV,Tucker County,,city-us,0,39.167,-79.702,1172
+41017,St. George,MO,Wright County,,city-us,0,37.381,-92.442,412

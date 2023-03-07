@@ -1,12 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19537,Girard,OH,,city-us,9553,41.15,-80.70,3436
-19539,Girard,PA,,city-us,4848,41.98,-80.32,175
-19534,Girard,KS,,city-us,2497,37.51,-94.84,13420
-19533,Girard,IL,,city-us,2129,39.46,-89.76,574
-19535,Girard,MI,,city-us,1780,42.02,-85.01,2728
-19536,Girard,MN,,city-us,710,46.33,-95.59,1642
-19538,Girard,PA,,city-us,560,41.15,-78.29,175
-19532,Girard,GA,,city-us,180,33.04,-81.71,2028
-19540,Girard,TX,,city-us,20,33.36,-100.66,2165
-19541,Girard,LA,,city-us,0,32.48,-91.81,4056
-19542,Girard,WV,,city-us,0,38.17,-82.32,94
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11482,Delong,IN,Fulton County,,city-us,0,41.138,-86.416,225
+11483,DeLong,IL,Knox County,,city-us,0,40.817,-90.304,395
+11484,DeLong,WV,Pleasants County,,city-us,0,39.401,-81.162,90

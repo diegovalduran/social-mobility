@@ -1,6 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27675,Penfield,NY,,city-us,39341,43.15,-77.44,10354
-27676,Penfield,OH,,city-us,1823,41.17,-82.12,1351
-27674,Penfield,IL,,city-us,242,40.30,-87.95,1995
-27677,Penfield,GA,,city-us,0,33.67,-83.18,4267
-27678,Penfield,PA,,city-us,0,41.21,-78.58,273
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18220,Groton,CT,Southeastern Connecticut Planning Region,,city-us,9326,41.325,-72.067,19561
+18221,Groton,NY,Tompkins County,,city-us,5717,42.583,-76.360,629
+18215,Groton,SD,Brown County,,city-us,1382,45.447,-98.099,3467
+18217,Groton,OH,Erie County,,city-us,1345,41.328,-82.780,1289
+18219,Groton,MA,Middlesex County,,city-us,1295,42.611,-71.575,12732
+18216,Groton,VT,Caledonia County,,city-us,987,44.232,-72.258,4076
+18218,Groton,NH,Grafton County,,city-us,574,43.725,-71.865,3306

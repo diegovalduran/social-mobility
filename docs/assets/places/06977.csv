@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41077,Northgate,OH,,city-us,6215,39.25,-84.59,1900
-41078,Northgate,ND,,city-us,0,48.99,-102.26,571
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35485,Prosperity,WV,Raleigh County,,city-us,1410,37.837,-81.202,1742
+35484,Prosperity,SC,Newberry County,,city-us,1194,34.209,-81.533,2971
+35486,Prosperity,ND,Renville County,,city-us,26,48.944,-101.814,0
+35481,Prosperity,FL,Holmes County,,city-us,0,30.852,-85.947,319
+35482,Prosperity,MO,Jasper County,,city-us,0,37.126,-94.421,1568
+35483,Prosperity,IN,Madison County,,city-us,0,40.179,-85.672,422
+35487,Prosperity,PA,Washington County,,city-us,0,40.047,-80.295,199

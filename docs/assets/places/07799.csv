@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43774,Perrin,TX,,city-us,54,33.03,-98.07,1851
-43775,Perrin,MO,,city-us,0,39.66,-94.40,253
-43776,Perrin,VA,,city-us,0,37.27,-76.42,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39492,Shelltown,PA,Blair County,,city-us,70,40.456,-78.206,438
+39493,Shelltown,MD,Somerset County,,city-us,0,37.980,-75.640,453

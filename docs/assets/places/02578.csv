@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21568,Eddyville,KY,,city-us,2283,37.09,-88.08,8406
-21566,Eddyville,IA,,city-us,965,41.16,-92.63,12476
-21567,Eddyville,IL,,city-us,97,37.50,-88.59,2212
-21569,Eddyville,NE,,city-us,83,41.01,-99.62,3053
-21570,Eddyville,OR,,city-us,0,44.63,-123.78,1060
-21571,Eddyville,PA,,city-us,0,40.94,-79.28,485
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12765,Eastham,MA,Barnstable County,,city-us,5832,41.842,-69.989,9665
+12764,Eastham,VA,Albemarle County,,city-us,0,38.072,-78.412,71

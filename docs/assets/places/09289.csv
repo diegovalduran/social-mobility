@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47571,Era,OH,,city-us,0,39.74,-83.24,298
-47572,Era,TX,,city-us,0,33.50,-97.29,1023
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46838,Wilder,VT,Windsor County,,city-us,3375,43.673,-72.309,3925
+46833,Wilder,KY,Campbell County,,city-us,3140,39.056,-84.487,2587
+46834,Wilder,ID,Canyon County,,city-us,1656,43.677,-116.912,3464
+46836,Wilder,MN,Jackson County,,city-us,58,43.827,-95.197,3215
+46835,Wilder,TN,Fentress County,,city-us,0,36.266,-85.091,1687
+46837,Wilder,KS,Johnson County,,city-us,0,39.043,-94.870,382

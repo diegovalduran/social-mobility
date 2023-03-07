@@ -1,9 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1774,Courtland,MI,,city-us,9016,43.17,-85.49,3205
-1777,Courtland,VA,,city-us,1295,36.72,-77.07,3171
-1775,Courtland,MN,,city-us,743,44.27,-94.34,3447
-1772,Courtland,CA,,city-us,669,38.33,-121.57,2600
-1771,Courtland,AL,,city-us,584,34.67,-87.31,5570
-1778,Courtland,WI,,city-us,494,43.50,-89.06,1872
-1776,Courtland,MS,,city-us,472,34.24,-89.94,2328
-1773,Courtland,KS,,city-us,379,39.78,-97.88,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+912,Alvin,TX,Brazoria County,,city-us,27576,29.424,-95.244,7223
+911,Alvin,MI,Alcona County,,city-us,947,44.564,-83.529,3911
+913,Alvin,WI,Forest County,,city-us,157,45.985,-88.829,1923
+914,Alvin,GA,Madison County,,city-us,0,34.234,-83.324,236

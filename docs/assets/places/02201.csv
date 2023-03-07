@@ -1,15 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18980,Argyle,TX,,city-us,4707,33.12,-97.18,3309
-18979,Argyle,NY,,city-us,3627,43.23,-73.48,14046
-18981,Argyle,WI,,city-us,794,42.70,-89.87,4907
-18976,Argyle,MI,,city-us,770,43.54,-82.93,2776
-18977,Argyle,MN,,city-us,545,48.33,-96.82,5258
-18975,Argyle,IL,,city-us,443,42.35,-88.94,1879
-18983,Argyle,IL,,city-us,332,42.36,-88.94,1879
-18973,Argyle,GA,,city-us,192,31.07,-82.65,2201
-18978,Argyle,MO,,city-us,141,38.30,-92.03,3473
-18974,Argyle,IA,,city-us,91,40.53,-91.57,574
-18982,Argyle,FL,,city-us,0,30.72,-86.04,366
-18984,Argyle,KY,,city-us,0,37.23,-84.81,123
-18985,Argyle,WA,,city-us,0,48.51,-123.02,298
-18986,Argyle,WV,,city-us,0,37.83,-81.88,101
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11021,Dare,VA,York County,,city-us,0,37.169,-76.438,146
+11047,Darr,NE,Dawson County,,city-us,0,40.821,-99.884,440

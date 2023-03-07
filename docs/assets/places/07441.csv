@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42633,South Park,PA,,city-us,13705,40.30,-79.99,8716
-42636,South Park,MI,,city-us,10654,42.97,-82.47,2279
-42634,South Park,WY,,city-us,1896,43.42,-110.79,2122
-42635,South Park,IN,,city-us,0,41.40,-85.72,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37815,Roy,UT,Weber County,,city-us,39358,41.162,-112.026,7139
+37812,Roy,WA,Pierce County,,city-us,814,47.004,-122.540,4149
+37811,Roy,NM,Harding County,,city-us,188,35.944,-104.196,2153
+37810,Roy,MT,Fergus County,,city-us,134,47.331,-108.960,1294
+37808,Roy,LA,Bienville Parish,,city-us,0,32.224,-93.152,2405
+37809,Roy,MO,Douglas County,,city-us,0,36.890,-92.804,450
+37813,Roy,ID,Power County,,city-us,0,42.364,-112.831,143
+37814,Roy,OR,Washington County,,city-us,0,45.594,-123.082,1593

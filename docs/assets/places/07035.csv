@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41245,Tuscarawas,OH,,city-us,5774,40.78,-81.59,129
-41244,Tuscarawas,OH,,city-us,1769,40.28,-81.83,129
-41246,Tuscarawas,OH,,city-us,1027,40.39,-81.41,3631
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35735,Radisson,NY,Onondaga County,,city-us,7215,43.188,-76.293,4854
+35736,Radisson,WI,Sawyer County,,city-us,442,45.822,-91.203,3278

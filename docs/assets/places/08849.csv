@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46540,Nolin,KY,,city-us,0,37.56,-85.90,256
-46541,Nolin,OR,,city-us,0,45.68,-119.10,1231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44365,Verdon,NE,Richardson County,,city-us,162,40.148,-95.713,3235
+44363,Verdon,MN,Aitkin County,,city-us,41,46.896,-93.377,2129
+44364,Verdon,SD,Brown County,,city-us,6,45.244,-98.098,2193

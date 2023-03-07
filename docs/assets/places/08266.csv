@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45083,Rosy,MN,,city-us,10,47.66,-94.31,759
-45082,Rosie,AR,,city-us,0,35.67,-91.54,203
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41780,Stumptown,WV,Gilmer County,,city-us,0,38.849,-80.994,399
+41781,Stumptown,VA,Loudoun County,,city-us,0,39.208,-77.551,127
+41782,Stumptown,VA,Northampton County,,city-us,0,37.340,-75.947,108
+41783,Stumptown,IN,Parke County,,city-us,0,39.852,-87.274,154

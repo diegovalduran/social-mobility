@@ -1,7 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22189,Larrabee,WI,,city-us,1301,44.27,-87.72,2187
-22187,Larrabee,WI,,city-us,1277,44.64,-88.81,2187
-22184,Larrabee,IA,,city-us,122,42.86,-95.55,2949
-22186,Larrabee,ND,,city-us,50,47.54,-98.81,0
-22185,Larrabee,KS,,city-us,46,38.80,-100.25,539
-22188,Larabee,LA,,city-us,0,30.25,-91.99,178
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13255,Eliot,ME,York County,,city-us,6959,43.147,-70.774,6901
+13410,Elliott,MS,Grenada County,,city-us,904,33.683,-89.749,860
+13412,Elliott,SC,Lee County,,city-us,370,34.107,-80.164,609
+13413,Elliott,IA,Montgomery County,,city-us,340,41.149,-95.164,3158
+13409,Elliott,IL,Ford County,,city-us,273,40.465,-88.272,1844
+13416,Elliott,SD,Sanborn County,,city-us,84,43.895,-98.271,0
+13414,Elliott,ND,Ransom County,,city-us,81,46.420,-97.857,2578
+13408,Elliott,MD,Dorchester County,,city-us,10,38.310,-75.996,508
+13411,Elliott,MO,Lawrence County,,city-us,0,37.043,-93.748,183
+13415,Elliott,TX,Robertson County,,city-us,0,30.954,-96.568,608
+13417,Elliott,IN,Vanderburgh County,,city-us,0,38.122,-87.473,157

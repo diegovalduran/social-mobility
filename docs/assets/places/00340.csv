@@ -1,27 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4068,Mount Vernon,NY,,city-us,72581,40.91,-73.84,24137
-4074,Mount Vernon,WA,,city-us,35404,48.42,-122.33,15319
-4078,Mount Vernon,MI,,city-us,25139,42.75,-83.03,3912
-4069,Mount Vernon,OH,,city-us,16894,40.39,-82.49,6625
-4061,Mount Vernon,IL,,city-us,14454,38.32,-88.90,17882
-4073,Mount Vernon,VA,,city-us,13707,38.74,-77.10,5844
-4062,Mount Vernon,IN,,city-us,6426,37.93,-87.90,11349
-4067,Mount Vernon,MO,,city-us,4503,37.10,-93.82,4088
-4060,Mount Vernon,IA,,city-us,4460,41.92,-91.42,7815
-4072,Mount Vernon,TX,,city-us,2477,33.19,-95.22,10651
-4063,Mount Vernon,KY,,city-us,2407,37.35,-84.34,3461
-4059,Mount Vernon,GA,,city-us,1993,32.18,-82.59,3854
-4065,Mount Vernon,ME,,city-us,1750,44.47,-69.96,4086
-4057,Mount Vernon,AL,,city-us,1362,31.09,-88.01,4902
-4064,Mount Vernon,MD,,city-us,1067,38.25,-75.82,2239
-4070,Mount Vernon,OR,,city-us,551,44.42,-119.11,3651
-4071,Mount Vernon,SD,,city-us,456,43.71,-98.26,3458
-4066,Mount Vernon,MN,,city-us,275,44.16,-91.90,1978
-4058,Mount Vernon,AR,,city-us,145,35.23,-92.12,2563
-4075,Mount Vernon,GA,,city-us,0,34.78,-85.05,162
-4076,Mount Vernon,IN,,city-us,0,40.67,-85.82,207
-4077,Mount Vernon,KS,,city-us,0,37.72,-97.85,271
-4079,Mount Vernon,PA,,city-us,0,40.29,-79.81,127
-4080,Mount Vernon,TX,,city-us,0,31.41,-95.09,172
-4081,Mount Vernon,WV,,city-us,0,38.45,-81.94,249
-4082,Mount Vernon,WI,,city-us,0,42.95,-89.66,3378
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1753,Atco,NJ,Camden County,,city-us,12350,39.770,-74.888,3240
+1752,Atco,GA,Bartow County,,city-us,0,34.181,-84.820,2109

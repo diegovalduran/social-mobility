@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31169,Horace,ND,,city-us,3358,46.76,-96.90,4105
-31168,Horace,KS,,city-us,102,38.48,-101.79,3587
-31170,Horace,IN,,city-us,0,39.26,-85.56,342
-31171,Horace,NE,,city-us,0,41.54,-98.67,434
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21705,Jacksboro,TX,Jack County,,city-us,4209,33.218,-98.159,4872
+21704,Jacksboro,TN,Campbell County,,city-us,2324,36.330,-84.184,3570

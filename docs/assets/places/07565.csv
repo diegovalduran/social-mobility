@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43033,Elvira,SD,,city-us,45,44.06,-99.00,0
-43034,Elvira,IL,,city-us,0,37.49,-89.03,350
-43035,Elvira,IA,,city-us,0,41.86,-90.36,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38402,San Benito,TX,Cameron County,,city-us,24780,26.133,-97.631,7545
+38403,San Benito,CA,San Benito County,,city-us,0,36.510,-121.082,512

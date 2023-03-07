@@ -1,5 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23651,Council,ID,,city-us,908,44.73,-116.44,5222
-23652,Council,GA,,city-us,0,30.61,-82.51,270
-23653,Council,NC,,city-us,0,34.42,-78.47,335
-23654,Council,VA,,city-us,0,37.08,-82.07,397
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14596,Farley,KY,McCracken County,,city-us,4459,37.046,-88.569,2065
+14595,Farley,IA,Dubuque County,,city-us,1749,42.443,-91.006,5029
+14598,Farley,MO,Platte County,,city-us,266,39.282,-94.831,5072
+14599,Farley,MN,Polk County,,city-us,55,48.141,-96.825,1711
+14597,Farley,CA,Mendocino County,,city-us,0,39.615,-123.367,352
+14600,Farley,WV,Summers County,,city-us,0,37.536,-80.924,135

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22072,Ionia,MI,,city-us,4136,42.99,-85.01,1946
-22070,Ionia,IA,,city-us,228,43.03,-92.46,2885
-22073,Ionia,MO,,city-us,76,38.50,-93.32,3422
-22071,Ionia,KS,,city-us,17,39.66,-98.35,621
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13144,El Sobrante,CA,Contra Costa County,,city-us,15468,37.977,-122.295,10002
+13145,El Sobrante,CA,Riverside County,,city-us,12163,33.872,-117.463,2495

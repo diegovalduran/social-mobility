@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30660,Bruno,KS,,city-us,17360,37.69,-97.10,435
-30663,Bruno,WV,,city-us,637,37.69,-81.87,261
-30662,Bruno,NE,,city-us,98,41.28,-96.96,3130
-30661,Bruno,MN,,city-us,85,46.28,-92.66,3824
-30664,Bruno,AR,,city-us,0,36.14,-92.78,607
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21293,Indian,AK,Anchorage,,city-us,0,60.990,-149.510,1534
+21294,Indian,AR,Chicot County,,city-us,0,33.053,-91.289,135
+21295,Indian,WV,Kanawha County,,city-us,0,38.368,-81.826,137

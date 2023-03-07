@@ -1,16 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34799,McKinley,MI,,city-us,1300,45.59,-84.79,307
-34810,McKinley,MI,,city-us,1143,44.61,-84.02,2922
-34807,McKinley,WI,,city-us,412,45.34,-90.86,4301
-34800,McKinley,MI,,city-us,402,43.87,-83.29,307
-34806,McKinley,WI,,city-us,347,45.57,-92.18,2139
-34801,McKinley,MN,,city-us,144,46.77,-94.73,2690
-34803,McKinley,ND,,city-us,134,48.33,-101.20,0
-34802,McKinley,MN,,city-us,104,47.51,-92.41,3383
-34805,McKinley,SD,,city-us,29,45.78,-97.27,0
-34804,McKinley,PA,,city-us,0,40.08,-75.12,249
-34808,McKinley,AL,,city-us,0,32.30,-87.54,1421
-34809,McKinley,IN,,city-us,0,38.74,-86.21,317
-34811,McKinley,MO,,city-us,0,37.06,-93.63,299
-34812,McKinley,OR,,city-us,0,43.19,-124.03,396
-34813,McKinley,PA,,city-us,0,41.60,-78.86,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26026,Lupton,MI,Ogemaw County,,city-us,318,44.431,-84.026,1615
+26025,Lupton,AZ,Apache County,,city-us,1,35.354,-109.054,501
+26027,Lupton,AL,Walker County,,city-us,0,33.936,-87.397,271

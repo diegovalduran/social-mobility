@@ -1,26 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30185,Porter,TX,,city-us,25769,30.10,-95.23,5062
-30171,Porter,OH,,city-us,9741,38.73,-82.85,119
-30169,Porter,NY,,city-us,6506,43.26,-78.97,5543
-30162,Porter,IN,,city-us,5234,41.62,-87.07,6010
-30164,Porter,MI,,city-us,3923,41.82,-85.83,247
-30166,Porter,MI,,city-us,2542,42.12,-85.82,247
-30170,Porter,OH,,city-us,2206,40.32,-82.80,119
-30179,Porter,PA,,city-us,2157,40.61,-76.52,428
-30175,Porter,PA,,city-us,1901,40.54,-78.10,428
-30163,Porter,ME,,city-us,1621,43.84,-70.95,4793
-30177,Porter,PA,,city-us,1528,41.21,-77.28,428
-30174,Porter,PA,,city-us,1482,41.03,-77.50,428
-30173,Porter,PA,,city-us,1286,41.05,-79.41,428
-30165,Porter,MI,,city-us,1271,43.50,-84.42,247
-30181,Porter,WI,,city-us,984,42.81,-89.18,2273
-30172,Porter,OK,,city-us,582,35.87,-95.52,2006
-30178,Porter,PA,,city-us,566,41.22,-75.07,428
-30167,Porter,MN,,city-us,162,44.64,-96.17,4331
-30180,Porter,WA,,city-us,111,46.94,-123.31,1282
-30168,Porter,ND,,city-us,49,46.23,-98.45,193
-30176,Porter,PA,,city-us,0,40.93,-79.17,276
-30182,Porter,DE,,city-us,0,39.60,-75.69,285
-30183,Porter,MO,,city-us,0,36.98,-89.48,208
-30184,Porter,OH,,city-us,0,38.93,-82.28,273
-30186,Porter,WV,,city-us,0,38.48,-81.26,112
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20702,Hopkins,MN,Hennepin County,,city-us,18573,44.925,-93.463,14544
+20706,Hopkins,IL,Whiteside County,,city-us,1998,41.797,-89.809,370
+20704,Hopkins,SC,Richland County,,city-us,1757,33.904,-80.877,2147
+20701,Hopkins,MI,Allegan County,,city-us,629,42.624,-85.760,4472
+20703,Hopkins,MO,Nodaway County,,city-us,595,40.538,-94.814,167
+20700,Hopkins,VA,Accomack County,,city-us,0,37.791,-75.704,85
+20705,Hopkins,NC,Wake County,,city-us,0,35.885,-78.352,266

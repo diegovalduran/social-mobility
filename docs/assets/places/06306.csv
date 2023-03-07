@@ -1,6 +1,16 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39081,Progress,PA,,city-us,11286,40.29,-76.83,2632
-39080,Progress,ND,,city-us,18,47.38,-99.71,0
-39082,Progress,IN,,city-us,0,40.12,-85.44,274
-39083,Progress,MS,,city-us,0,31.05,-90.33,252
-39084,Progress,TX,,city-us,0,34.28,-102.81,673
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32200,Olive,OH,Noble County,,city-us,5744,39.703,-81.521,112
+32202,Olive,MI,Ottawa County,,city-us,5085,42.896,-86.086,209
+32207,Olive,NY,Ulster County,,city-us,4247,41.947,-74.265,4725
+32194,Olive,MI,Clinton County,,city-us,2535,42.897,-84.549,209
+32198,Olive,IL,Madison County,,city-us,1705,38.962,-89.751,680
+32199,Olive,OH,Meigs County,,city-us,1674,39.130,-81.792,112
+32193,Olive,NE,Butler County,,city-us,216,41.272,-97.187,243
+32195,Olive,OK,Creek County,,city-us,110,36.028,-96.480,521
+32197,Olive,KS,Decatur County,,city-us,51,39.871,-100.447,416
+32196,Olive,MO,Dallas County,,city-us,0,37.459,-93.109,538
+32201,Olive,CA,Orange County,,city-us,0,33.836,-117.846,2897
+32203,Olive,WV,Pocahontas County,,city-us,0,38.564,-79.820,121
+32204,Olive,MT,Powder River County,,city-us,0,45.551,-105.528,306
+32205,Olive,VA,Spotsylvania County,,city-us,0,38.219,-77.441,93
+32206,Olive,IN,St. Joseph County,,city-us,0,41.700,-86.448,273

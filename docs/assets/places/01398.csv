@@ -1,14 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13535,Oakville,,Canada,city-international,193832,43.45,-79.68,15370
-13527,Oakville,MO,,city-us,35357,38.47,-90.30,4206
-13524,Oakville,CT,,city-us,9507,41.59,-73.09,3103
-13532,Oakville,MI,,city-us,3048,42.03,-83.59,2772
-13529,Oakville,WA,,city-us,728,46.84,-123.23,12513
-13525,Oakville,IA,,city-us,196,41.10,-91.04,3196
-13528,Oakville,ND,,city-us,179,47.88,-97.31,0
-13523,Oakville,CA,,city-us,0,38.44,-122.40,4752
-13526,Oakville,IN,,city-us,0,40.08,-85.39,409
-13530,Oakville,AL,,city-us,0,34.45,-87.16,3159
-13531,Oakville,MD,,city-us,0,38.39,-76.64,262
-13533,Oakville,TX,,city-us,0,28.45,-98.10,1681
-13534,Oakville,VA,,city-us,0,37.43,-78.86,106
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22808,Kerrick,MN,Pine County,,city-us,72,46.339,-92.586,3408
+7033,Carrick,CA,Siskiyou County,,city-us,67,41.447,-122.364,4158
+22806,Kerrick,TX,Dallam County,,city-us,0,36.496,-102.243,553
+22807,Kerrick,IL,McLean County,,city-us,0,40.553,-88.987,83

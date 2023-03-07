@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31647,Republic,MO,,city-us,19136,37.17,-93.41,8352
-31649,Republic,PA,,city-us,1172,39.96,-79.88,2435
-31650,Republic,WA,,city-us,1060,48.65,-118.74,11182
-31648,Republic,OH,,city-us,548,41.12,-83.02,4408
-31646,Republic,MI,,city-us,470,46.41,-87.98,2909
-31645,Republic,KS,,city-us,83,39.92,-97.82,3557
-31651,Republic,IA,,city-us,0,42.95,-92.40,1126
-31652,Republic,WV,,city-us,0,38.01,-81.39,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22394,Juda,WI,Green County,,city-us,367,42.590,-89.506,598
+22395,Judah,IN,Lawrence County,,city-us,0,38.961,-86.537,209

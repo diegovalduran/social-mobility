@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44606,Boomer,WV,,city-us,618,38.15,-81.29,1227
-44607,Boomer,TN,,city-us,0,35.83,-82.96,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40947,St. Anthony,MN,Hennepin County / Ramsey County,,city-us,9007,45.030,-93.215,6817
+40946,St. Anthony,ID,Fremont County,,city-us,3752,43.966,-111.682,7588
+40949,St. Anthony,MN,Stearns County,,city-us,92,45.687,-94.612,3069
+40948,St. Anthony,IA,Marshall County,,city-us,77,42.122,-93.195,3073
+40945,St. Anthony,IN,Dubois County,,city-us,0,38.315,-86.827,430

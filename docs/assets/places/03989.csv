@@ -1,8 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30007,New Albany,IN,,city-us,37411,38.29,-85.82,15938
-30010,New Albany,OH,,city-us,10854,40.08,-82.79,12432
-30009,New Albany,MS,,city-us,7618,34.49,-89.01,6387
-30011,New Albany,PA,,city-us,254,41.60,-76.44,2125
-30008,New Albany,KS,,city-us,55,37.57,-95.94,3036
-30012,New Albany,NJ,,city-us,0,40.00,-74.97,128
-30013,New Albany,OH,,city-us,0,40.94,-80.84,270
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20424,Holmes,OH,Crawford County,,city-us,1243,40.870,-83.031,1358
+20427,Holmes,MI,Menominee County,,city-us,340,45.525,-87.734,1771
+20423,Holmes,KY,Adair County,,city-us,0,37.208,-85.270,116
+20425,Holmes,PA,Delaware County,,city-us,0,39.904,-75.309,338
+20426,Holmes,CA,Humboldt County,,city-us,0,40.418,-123.941,304
+20428,Holmes,IA,Wright County,,city-us,0,42.739,-93.834,430

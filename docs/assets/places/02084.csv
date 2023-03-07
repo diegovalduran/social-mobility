@@ -1,13 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18317,Naples,,Italy,city-international,966144,40.83,14.25,66216
-18306,Naples,FL,,city-us,19372,26.14,-81.79,19702
-18312,Naples,UT,,city-us,2334,40.43,-109.50,2630
-18311,Naples,TX,,city-us,1391,33.20,-94.68,859
-18309,Naples,NY,,city-us,981,42.62,-77.40,5090
-18313,Naples,WI,,city-us,705,44.55,-91.58,1991
-18308,Naples,ME,,city-us,421,43.97,-70.61,6110
-18307,Naples,IL,,city-us,99,39.76,-90.61,1875
-18310,Naples,SD,,city-us,37,44.77,-97.51,2576
-18314,Naples,CA,,city-us,0,34.44,-119.96,519
-18315,Naples,ID,,city-us,0,48.57,-116.39,901
-18316,Naples,NC,,city-us,0,35.39,-82.50,541
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10483,Crossroads,AL,Baldwin County,,city-us,0,30.835,-87.861,240
+10484,Crossroads,NJ,Burlington County,,city-us,0,39.915,-74.826,230
+10485,Crossroads,MS,George County,,city-us,0,30.885,-88.711,278
+10486,Crossroads,TN,Hardin County,,city-us,0,35.300,-88.124,348
+10487,Crossroads,IL,Johnson County,,city-us,0,37.349,-88.817,161
+10488,Crossroads,NM,Lea County,,city-us,0,33.512,-103.340,372
+10489,Crossroads,WV,Monongalia County,,city-us,0,39.659,-80.302,95
+10490,Crossroads,WV,Summers County,,city-us,0,37.711,-80.813,121
+10491,Crossroads,IN,Vanderburgh County,,city-us,0,38.102,-87.646,257
+10492,Crossroads,TN,Wayne County,,city-us,0,35.063,-87.728,79

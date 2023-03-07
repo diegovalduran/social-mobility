@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1949,Dutton,MI,,city-us,25146,42.83,-85.64,3817
-1947,Dutton,AL,,city-us,333,34.61,-85.92,2261
-1948,Dutton,MT,,city-us,297,47.84,-111.71,3781
-1950,Dutton,VA,,city-us,0,37.50,-76.46,225
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1017,Amman,,,Jordan,city-international,4007526,31.950,35.933,46233
+1020,Ammon,ID,Bonneville County,,city-us,18673,43.470,-111.967,5827
+1018,Ammon,VA,Amelia County,,city-us,0,37.211,-77.768,1459
+1019,Ammon,NC,Bladen County,,city-us,0,34.800,-78.580,137

@@ -1,6 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34879,New Era,MI,,city-us,465,43.56,-86.35,3392
-34880,New Era,IN,,city-us,0,41.29,-85.12,201
-34881,New Era,LA,,city-us,0,31.37,-91.83,451
-34882,New Era,OR,,city-us,0,45.30,-122.66,387
-34883,New Era,WV,,city-us,0,38.91,-81.66,163
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26088,Lyman,SC,Spartanburg County,,city-us,6321,34.948,-82.127,4172
+26091,Lyman,ME,York County,,city-us,4563,43.500,-70.648,5503
+26089,Lyman,WY,Uinta County,,city-us,2175,41.327,-110.293,3395
+26084,Lyman,MS,Harrison County,,city-us,1824,30.495,-89.126,2642
+26083,Lyman,NH,Grafton County,,city-us,595,44.257,-71.934,3063
+26082,Lyman,IL,Ford County,,city-us,513,40.626,-88.187,1168
+26087,Lyman,WA,Skagit County,,city-us,420,48.527,-122.062,3680
+26086,Lyman,NE,Scotts Bluff County,,city-us,256,41.917,-104.039,3757
+26090,Lyman,UT,Wayne County,,city-us,206,38.397,-111.590,1933
+26081,Lyman,IA,Cass County,,city-us,0,41.231,-94.984,226
+26085,Lyman,SD,Lyman County,,city-us,0,43.881,-99.739,239

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36081,Lien,MN,,city-us,131,45.89,-95.94,1782
-36082,Lien,SD,,city-us,124,45.89,-96.91,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27689,Meadow Brook,MN,Cass County,,city-us,230,46.490,-94.567,2526
+27691,Meadow Brook,MN,St. Louis County,,city-us,10,47.863,-92.955,262
+27690,Meadow Brook,CA,El Dorado County,,city-us,0,38.859,-120.834,157

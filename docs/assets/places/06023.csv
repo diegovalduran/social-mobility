@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38200,Boiling Springs,SC,,city-us,10591,35.05,-81.98,3629
-38198,Boiling Springs,NC,,city-us,4536,35.25,-81.67,6390
-38199,Boiling Springs,PA,,city-us,3249,40.15,-77.13,13581
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30800,New Prospect,WI,Fond du Lac County,,city-us,0,43.616,-88.179,221
+30801,New Prospect,SC,Spartanburg County,,city-us,0,35.132,-82.044,275

@@ -1,8 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39471,North Bend,OR,,city-us,10285,43.41,-124.22,10686
-39473,North Bend,WA,,city-us,7695,47.50,-121.79,14202
-39469,North Bend,NE,,city-us,1248,41.46,-96.78,6025
-39470,North Bend,OH,,city-us,827,39.15,-84.75,4051
-39474,North Bend,WI,,city-us,397,44.09,-91.12,1911
-39472,North Bend,PA,,city-us,323,41.35,-77.70,267
-39475,North Bend,WV,,city-us,0,38.23,-80.44,169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32742,Overton,TX,Rusk County / Smith County,,city-us,2274,32.276,-94.973,7957
+32741,Overton,NE,Dawson County,,city-us,595,40.739,-99.538,3928
+32739,Overton,PA,Bradford County,,city-us,239,41.619,-76.582,2209
+32738,Overton,VA,Albemarle County,,city-us,0,37.957,-78.468,96
+32740,Overton,MO,Cooper County,,city-us,0,38.948,-92.576,608
+32743,Overton,OH,Wayne County,,city-us,0,40.865,-82.010,313

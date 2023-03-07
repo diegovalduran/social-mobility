@@ -1,15 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22392,Mapleton,UT,,city-us,12414,40.13,-111.58,5856
-22393,Mapleton,MI,,city-us,6068,44.88,-85.53,11015
-22391,Mapleton,SD,,city-us,2111,43.64,-96.70,0
-22383,Mapleton,IA,,city-us,1144,42.17,-95.79,5513
-22386,Mapleton,ME,,city-us,747,46.68,-68.16,2767
-22389,Mapleton,OR,,city-us,493,44.03,-123.87,1069
-22390,Mapleton,PA,,city-us,418,40.39,-77.94,2664
-22387,Mapleton,MN,,city-us,282,43.89,-93.93,5756
-22384,Mapleton,IL,,city-us,255,40.57,-89.73,2109
-22388,Mapleton,ND,,city-us,199,46.84,-97.00,3777
-22385,Mapleton,KS,,city-us,97,38.02,-94.88,3481
-22394,Mapleton,OH,,city-us,0,40.75,-81.25,281
-22395,Mapleton,TX,,city-us,0,31.14,-95.67,241
-22396,Mapleton,WI,,city-us,0,43.18,-88.46,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13402,Ellington,CT,Capitol Planning Region,,city-us,16630,41.914,-72.446,9352
+13405,Ellington,WI,Outagamie County,,city-us,3237,44.373,-88.551,2162
+13401,Ellington,IL,Adams County,,city-us,2773,39.994,-91.314,2798
+13403,Ellington,NY,Chautauqua County,,city-us,1500,42.218,-79.116,4676
+13407,Ellington,MI,Tuscola County,,city-us,1332,43.543,-83.302,2193
+13406,Ellington,MO,Reynolds County,,city-us,808,37.242,-90.969,4286
+13404,Ellington,MN,Dodge County,,city-us,212,44.142,-92.981,1895

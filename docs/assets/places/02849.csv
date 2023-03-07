@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23301,Tiffin,OH,,city-us,17841,41.11,-83.18,12872
-23298,Tiffin,IA,,city-us,5282,41.71,-91.66,3732
-23299,Tiffin,OH,,city-us,5223,38.82,-83.50,118
-23300,Tiffin,OH,,city-us,1572,41.38,-84.41,118
-23302,Tiffin,MO,,city-us,0,37.95,-93.94,540
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14172,Excello,MO,Macon County,,city-us,24,39.636,-92.475,342
+14171,Excello,OH,Butler County,,city-us,0,39.481,-84.419,983

@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31514,North,OH,,city-us,1603,40.40,-81.12,1133
-31513,North,MN,,city-us,746,48.14,-96.17,1950
-31515,North,SC,,city-us,689,33.62,-81.10,2998
-31511,North,KS,,city-us,582,37.34,-95.20,0
-31512,North,KS,,city-us,56,37.98,-95.89,0
-31516,North,VA,,city-us,0,37.44,-76.41,196
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22228,Johnsonburg,PA,Elk County,,city-us,2378,41.491,-78.675,6696
+22229,Johnsonburg,NJ,Warren County,,city-us,367,40.965,-74.879,1555

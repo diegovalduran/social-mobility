@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32629,Eunice,LA,,city-us,9310,30.49,-92.42,7234
-32630,Eunice,NM,,city-us,2997,32.44,-103.16,2749
-32631,Eunice,AR,,city-us,0,33.55,-91.23,1411
-32632,Eunice,KY,,city-us,0,37.18,-85.12,116
-32633,Eunice,MO,,city-us,0,37.24,-91.78,357
-32634,Eunice,WV,,city-us,0,37.95,-81.54,73
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23379,La Porte,TX,Harris County,,city-us,35964,29.666,-95.019,10797
+23380,La Porte,IN,LaPorte County,,city-us,22383,41.611,-86.723,20906
+23381,La Porte,CA,Plumas County,,city-us,0,39.682,-120.984,4863

@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36225,Motley,MN,,city-us,676,46.33,-94.64,3818
-36227,Motley,VA,,city-us,673,37.07,-79.34,385
-36226,Motley,MN,,city-us,245,46.31,-94.59,2016
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27914,Mendota,CA,Fresno County,,city-us,12735,36.754,-120.382,6783
+27915,Mendota,IL,LaSalle County,,city-us,7095,41.576,-89.101,440
+27913,Mendota,MN,Dakota County,,city-us,183,44.887,-93.164,5126
+27916,Mendota,VA,Washington County,,city-us,135,36.711,-82.302,3695

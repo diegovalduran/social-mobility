@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14307,Soda Springs,ID,,city-us,3118,42.65,-111.60,4633
-14306,Soda Springs,CA,,city-us,54,39.32,-120.38,3440
-14308,Soda Springs,CA,,city-us,0,39.42,-123.43,495
-14309,Soda Springs,CA,,city-us,0,39.25,-120.33,584
-14310,Soda Springs,TX,,city-us,0,29.72,-97.60,1319
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7610,Center Square,PA,Montgomery County,,city-us,0,40.167,-75.290,366
+7611,Center Square,IN,Switzerland County,,city-us,0,38.836,-85.031,291

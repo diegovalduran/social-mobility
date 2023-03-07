@@ -1,15 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31300,Linwood,NJ,,city-us,6947,39.34,-74.58,17216
-31302,Linwood,PA,,city-us,3083,39.83,-75.43,3965
-31303,Linwood,WI,,city-us,1066,44.49,-89.67,1736
-31297,Linwood,KS,,city-us,419,39.00,-95.04,7795
-31299,Linwood,NE,,city-us,93,41.41,-96.93,3638
-31301,Linwood,NY,,city-us,14,42.89,-77.95,803
-31298,Linwood,MN,,city-us,0,45.36,-93.11,256
-31304,Linwood,IN,,city-us,0,40.19,-85.68,237
-31305,Linwood,MD,,city-us,0,39.56,-77.14,209
-31306,Linwood,MD,,city-us,0,39.28,-76.81,83
-31307,Linwood,MI,,city-us,0,43.74,-83.96,2290
-31308,Linwood,NC,,city-us,0,35.75,-80.32,998
-31309,Linwood,TX,,city-us,0,31.66,-94.99,1487
-31310,Linwood,WV,,city-us,0,38.42,-80.04,292
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21955,Jay,ME,Franklin County,,city-us,4677,44.517,-70.202,10624
+21954,Jay,NY,Essex County,,city-us,2472,44.378,-73.696,6136
+21952,Jay,OK,Delaware County,,city-us,2388,36.421,-94.797,4921
+21953,Jay,PA,Elk County,,city-us,1939,41.319,-78.486,2363
+21957,Jay,VT,Orleans County,,city-us,547,44.957,-72.507,4163
+21958,Jay,FL,Santa Rosa County,,city-us,545,30.953,-87.151,5158
+21956,Jay,MN,Martin County,,city-us,229,43.624,-94.804,1924

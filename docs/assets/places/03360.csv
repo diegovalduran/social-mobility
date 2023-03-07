@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26304,Kempton,IN,,city-us,286,40.29,-86.23,3944
-26303,Kempton,IL,,city-us,175,40.94,-88.24,2328
-26305,Kempton,PA,,city-us,129,40.63,-75.85,806
-26306,Kempton,ND,,city-us,0,47.82,-97.61,265
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17006,Glenmont,MD,Montgomery County,,city-us,15795,39.058,-77.050,18390
+17005,Glenmont,OH,Holmes County,,city-us,239,40.520,-82.097,3183

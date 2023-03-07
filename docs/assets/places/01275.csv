@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12743,King City,CA,,city-us,13443,36.21,-121.13,10952
-12746,King City,OR,,city-us,5105,45.40,-122.80,4033
-12745,King City,MO,,city-us,809,40.05,-94.52,6249
-12744,King City,KS,,city-us,497,38.30,-97.65,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6441,Caernarvon,PA,Lancaster County,,city-us,4591,40.139,-75.953,187
+6440,Caernarvon,PA,Berks County,,city-us,4278,40.165,-75.883,187
+6442,Caernarvon,LA,St. Bernard Parish,,city-us,0,29.864,-89.906,4461

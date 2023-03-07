@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38078,Santa Rita,,Venezuela,city-international,169158,10.20,-67.55,173
-38079,Santa Rita,,Brazil,city-international,134940,-7.11,-34.98,1951
-38077,Santa Rita,MT,,city-us,38,48.70,-112.32,340
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30635,New Harmony,IN,Posey County,,city-us,683,38.130,-87.935,41014
+30638,New Harmony,UT,Washington County,,city-us,244,37.479,-113.310,3236
+30632,New Harmony,TN,Bledsoe County,,city-us,0,35.546,-85.133,295
+30633,New Harmony,OH,Brown County,,city-us,0,39.014,-84.012,219
+30634,New Harmony,MO,Pike County,,city-us,0,39.294,-91.375,453
+30636,New Harmony,TX,Smith County,,city-us,0,32.414,-95.466,2751
+30637,New Harmony,MS,Union County,,city-us,0,34.394,-88.920,217

@@ -1,11 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11030,Bayview,CA,,city-us,2986,40.77,-124.18,4106
-11029,Bayview,CA,,city-us,2825,38.01,-122.32,2344
-11033,Bayview,WI,,city-us,514,46.74,-90.90,1946
-11032,Bayview,TX,,city-us,501,26.13,-97.40,3107
-11031,Bayview,NC,,city-us,298,35.44,-76.79,280
-11034,Bayview,ID,,city-us,0,47.98,-116.56,2556
-11035,Bayview,MN,,city-us,0,46.12,-93.60,204
-11036,Bayview,TX,,city-us,0,29.52,-95.00,3908
-11037,Bayview,VA,,city-us,0,37.28,-75.97,6368
-11038,Bayview,WA,,city-us,0,48.00,-122.46,1998
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5208,Brickey's,MO,Ste. Genevieve County,,city-us,0,38.084,-90.211,494
+5209,Brickeys,AR,Lee County,,city-us,0,34.861,-90.592,405

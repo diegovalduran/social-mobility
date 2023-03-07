@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13224,Menlo Park,CA,,city-us,32475,37.45,-122.18,18125
-13225,Menlo Park,NJ,,city-us,0,40.56,-74.34,1323
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6809,Canterbury,CT,Northeastern Connecticut Planning Region,,city-us,5060,41.694,-72.009,8611
+6807,Canterbury,NH,Merrimack County,,city-us,2449,43.353,-71.534,4870
+6806,Canterbury,DE,Kent County,,city-us,0,39.042,-75.556,470
+6808,Canterbury,WV,Mingo County,,city-us,0,37.821,-82.257,278

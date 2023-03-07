@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32679,Kenner,LA,,city-us,65364,29.99,-90.24,10427
-32680,Kenner,IL,,city-us,0,38.65,-88.57,140
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23424,Laconia,NH,Belknap County,,city-us,17025,43.528,-71.470,13581
+23426,Laconia,IN,Harrison County,,city-us,71,38.032,-86.086,5011
+23425,Laconia,TN,Fayette County,,city-us,0,35.282,-89.252,108

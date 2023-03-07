@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39671,Blackwood,NJ,,city-us,4477,39.80,-75.06,5874
-39672,Blackwood,GA,,city-us,0,34.46,-84.90,305
-39673,Blackwood,NC,,city-us,0,35.99,-79.07,491
-39674,Blackwood,VA,,city-us,0,36.92,-82.69,201
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33053,Panther,KY,Daviess County,,city-us,144,37.640,-87.225,327
+33054,Panther,WV,McDowell County,,city-us,0,37.483,-81.896,347
+33055,Panther,PA,Pike County,,city-us,0,41.280,-75.299,699

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37978,Great Falls,MT,,city-us,60403,47.50,-111.30,43648
-37980,Great Falls,VA,,city-us,14690,39.00,-77.29,5897
-37979,Great Falls,SC,,city-us,1944,34.58,-80.90,2628
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30550,New Caledonia,,,,country,300682,-20.904,165.618,47384
+30549,New Caledonia,AR,Union County,,city-us,0,33.055,-92.668,88

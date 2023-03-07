@@ -1,9 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-893,Ardmore,OK,,city-us,24893,34.17,-97.14,15925
-894,Ardmore,PA,,city-us,14391,40.00,-75.29,11452
-891,Ardmore,AL,,city-us,1370,34.99,-86.85,5709
-896,Ardmore,TN,,city-us,1211,35.00,-86.85,3270
-892,Ardmore,IN,,city-us,0,41.69,-86.32,225
-895,Ardmore,SD,,city-us,0,43.02,-103.66,1196
-897,Ardmore,MD,,city-us,0,38.93,-76.85,209
-898,Ardmore,MO,,city-us,0,39.64,-92.54,282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+552,Alexandria,,,Egypt,city-international,4870000,31.200,29.917,49138
+534,Alexandria,VA,Alexandria city,,city-us,154706,38.805,-77.047,50045
+549,Alexandria,LA,Rapides Parish,,city-us,44787,31.311,-92.445,40608
+536,Alexandria,KY,Campbell County,,city-us,10369,38.960,-84.388,5741
+548,Alexandria,IN,Madison County,,city-us,5134,40.263,-85.676,4148
+543,Alexandria,NJ,Hunterdon County,,city-us,4827,40.595,-75.027,11383
+535,Alexandria,AL,Calhoun County,,city-us,4032,33.766,-85.884,3905
+545,Alexandria,NY,Jefferson County,,city-us,3754,44.320,-75.878,6468
+540,Alexandria,MN,Douglas County,,city-us,2989,45.892,-95.311,1918
+541,Alexandria,NH,Grafton County,,city-us,1786,43.622,-71.856,3975
+538,Alexandria,TN,DeKalb County,,city-us,985,36.078,-86.033,2689
+546,Alexandria,KS,Leavenworth County,,city-us,851,39.268,-95.126,0
+542,Alexandria,SD,Hanson County,,city-us,605,43.654,-97.783,3496
+547,Alexandria,OH,Licking County,,city-us,489,40.089,-82.612,3862
+544,Alexandria,PA,Huntingdon County,,city-us,384,40.556,-78.098,4470
+551,Alexandria,NE,Thayer County,,city-us,142,40.245,-97.389,5792
+537,Alexandria,MO,Clark County,,city-us,107,40.359,-91.455,3462
+539,Alexandria,ND,Divide County,,city-us,17,48.757,-103.651,0
+550,Alexandria,OH,Scioto County,,city-us,0,38.724,-83.048,360

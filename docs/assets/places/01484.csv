@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14204,San Lorenzo,,Paraguay,city-international,287977,-25.34,-57.51,2198
-14201,San Lorenzo,CA,,city-us,29581,37.68,-122.12,8075
-14202,San Lorenzo,NM,,city-us,225,32.81,-107.92,220
-14203,San Lorenzo,NM,,city-us,0,36.05,-106.29,142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7450,Cedar Hill,TX,Dallas County / Ellis County,,city-us,48557,32.584,-96.959,18992
+7453,Cedar Hill,MO,Jefferson County,,city-us,1761,38.353,-90.641,2428
+7456,Cedar Hill,NM,San Juan County,,city-us,736,36.937,-107.890,691
+7455,Cedar Hill,TN,Robertson County,,city-us,301,36.551,-86.999,3676
+7451,Cedar Hill,OH,Fairfield County,,city-us,0,39.691,-82.806,347
+7452,Cedar Hill,VA,Frederick County,,city-us,0,39.276,-78.114,187
+7454,Cedar Hill,VA,Pittsylvania County,,city-us,0,36.850,-79.313,98
+7457,Cedar Hill,NC,Surry County,,city-us,0,36.367,-80.531,196

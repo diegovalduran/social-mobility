@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7859,Mena,AR,,city-us,5613,34.59,-94.24,8983
-7861,Mina,NY,,city-us,994,42.12,-79.70,3632
-7862,Mina,SD,,city-us,554,45.43,-98.76,599
-7860,Mina,NV,,city-us,158,38.39,-118.11,2096
-7863,Mina,CA,,city-us,0,39.97,-123.36,223
-7864,Mina,OH,,city-us,0,41.45,-84.71,136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3659,Bernard,IA,Dubuque County,,city-us,114,42.312,-90.832,3919
+3658,Bernard,LA,Allen Parish,,city-us,0,30.597,-92.779,81

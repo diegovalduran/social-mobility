@@ -1,10 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-353,Hollis,NH,,city-us,8519,42.75,-71.59,13940
-352,Hollis,ME,,city-us,4828,43.63,-70.61,7283
-351,Hollis,IL,,city-us,1798,40.59,-89.70,440
-354,Hollis,OK,,city-us,1747,34.69,-99.91,4180
-350,Hollis,AK,,city-us,201,55.56,-132.64,3037
-355,Hollis,AR,,city-us,0,34.87,-93.11,359
-356,Hollis,KS,,city-us,0,39.63,-97.55,785
-357,Hollis,MS,,city-us,0,33.86,-89.24,247
-358,Hollis,MO,,city-us,0,36.70,-91.31,141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+215,Adelphi,MD,Prince George's County,,city-us,16977,39.003,-76.972,10766
+216,Adelphi,OH,Ross County,,city-us,320,39.467,-82.747,3252
+214,Adelphi,IA,Polk County,,city-us,0,41.533,-93.426,570

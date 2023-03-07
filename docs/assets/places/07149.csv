@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41664,Sunray,TX,,city-us,1702,36.02,-101.82,4131
-41663,Sunray,OK,,city-us,853,34.41,-97.97,496
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36212,Reeds,MO,Jasper County,,city-us,93,37.116,-94.166,3204
+36210,Reeds,VA,Cumberland County,,city-us,0,37.338,-78.404,91
+36211,Reeds,NC,Davidson County,,city-us,0,35.846,-80.331,344

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45217,Valona,CA,,city-us,0,38.05,-122.22,323
-45218,Valona,GA,,city-us,0,31.48,-81.34,290
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42066,Sunderland,,,United Kingdom,city-international,277417,54.906,-1.381,63437
+42065,Sunderland,MA,Franklin County,,city-us,3662,42.467,-72.547,8504
+42063,Sunderland,VT,Bennington County,,city-us,1054,43.082,-73.067,3155
+42064,Sunderland,MD,Calvert County,,city-us,0,38.671,-76.598,744

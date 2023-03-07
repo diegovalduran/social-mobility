@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20448,Stockbridge,GA,,city-us,29163,33.54,-84.23,12016
-20450,Stockbridge,MI,,city-us,3909,42.46,-84.20,3017
-20449,Stockbridge,MA,,city-us,2003,42.30,-73.32,15215
-20451,Stockbridge,NY,,city-us,1989,42.99,-75.59,3579
-20452,Stockbridge,VT,,city-us,726,43.75,-72.76,2757
-20453,Stockbridge,WI,,city-us,672,44.07,-88.30,2300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12018,Dorset,VT,Bennington County,,city-us,470,43.255,-73.099,9063
+12017,Dorset,OH,Ashtabula County,,city-us,0,41.680,-80.667,457
+12019,Dorset,MN,Hubbard County,,city-us,0,46.956,-94.953,1567
+12020,Dorset,VA,Powhatan County,,city-us,0,37.468,-77.805,90

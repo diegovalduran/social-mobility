@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38764,Egeland,SD,,city-us,58,45.21,-97.30,0
-38763,Egeland,ND,,city-us,32,48.63,-99.10,3208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31647,Nye,MT,Stillwater County,,city-us,38,45.436,-109.809,1165
+31645,Nye,WI,Polk County,,city-us,0,45.314,-92.581,310
+31646,Nye,WV,Putnam County,,city-us,0,38.336,-82.037,263
+31648,Nye,OR,Umatilla County,,city-us,0,45.460,-118.980,302

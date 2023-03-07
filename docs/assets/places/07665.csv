@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43355,Mascot,TN,,city-us,2431,36.06,-83.75,5266
-43356,Mascot,VA,,city-us,0,37.63,-76.71,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38842,Schaffer,MI,Delta County,,city-us,1578,45.726,-87.297,2593
+39291,Shafer,MN,Chisago County,,city-us,1180,45.387,-92.748,3244
+38843,Schaffer,KS,Rush County,,city-us,0,38.471,-99.089,251
+39292,Shafer,WV,Tucker County,,city-us,0,39.219,-79.568,109

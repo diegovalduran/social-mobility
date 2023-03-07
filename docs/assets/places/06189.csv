@@ -1,3 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38709,Daneville,SD,,city-us,186,43.13,-97.10,0
-38708,Daneville,ND,,city-us,34,48.76,-103.95,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31597,Norwood,MA,Norfolk County,,city-us,31441,42.187,-71.196,11162
+31591,Norwood,OH,Hamilton County,,city-us,18790,39.156,-84.460,64858
+31588,Norwood,PA,Delaware County,,city-us,5894,39.892,-75.300,4610
+31585,Norwood,NJ,Bergen County,,city-us,5595,40.998,-73.962,15479
+31602,Norwood,NC,Stanly County,,city-us,2403,35.220,-80.119,8656
+31601,Norwood,NY,St. Lawrence County,,city-us,1563,44.751,-74.994,4283
+31587,Norwood,OK,Cherokee County / Muskogee County,,city-us,1561,35.845,-95.151,519
+31593,Norwood,WI,Langlade County,,city-us,906,45.078,-89.039,2232
+31605,Norwood,MO,Wright County,,city-us,587,37.108,-92.415,3587
+31600,Norwood,CO,San Miguel County,,city-us,533,38.131,-108.292,2499
+31598,Norwood,IL,Peoria County,,city-us,430,40.706,-89.699,2043
+31592,Norwood,KY,Jefferson County,,city-us,375,38.252,-85.611,1929
+31589,Norwood,LA,East Feliciana Parish,,city-us,282,30.968,-91.104,854
+31603,Norwood,GA,Warren County,,city-us,206,33.463,-82.705,1748
+31586,Norwood,MI,Charlevoix County,,city-us,144,45.217,-85.381,1743
+31583,Norwood,VA,Albemarle County,,city-us,0,38.145,-78.471,71
+31584,Norwood,AR,Benton County,,city-us,0,36.119,-94.461,292
+31590,Norwood,KS,Franklin County,,city-us,0,38.710,-95.247,662
+31594,Norwood,IA,Lucas County,,city-us,0,41.117,-93.479,221
+31595,Norwood,MD,Montgomery County,,city-us,0,39.125,-77.028,958
+31596,Norwood,VA,Nelson County,,city-us,0,37.643,-78.809,255
+31599,Norwood,KY,Pulaski County,,city-us,0,37.152,-84.632,200
+31604,Norwood,OR,Washington County,,city-us,0,45.359,-122.754,161

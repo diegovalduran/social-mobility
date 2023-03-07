@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45289,Del Valle,TX,,city-us,17139,30.21,-97.65,4483
-45288,Del Valle,CA,,city-us,0,34.42,-118.66,308
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42199,Sutter,CA,Sutter County,,city-us,2778,39.160,-121.753,5209
+42198,Sutter,IL,Hancock County,,city-us,0,40.279,-91.344,174
+42200,Sutter,IL,Tazewell County,,city-us,0,40.397,-89.369,200

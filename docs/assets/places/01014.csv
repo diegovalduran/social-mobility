@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10698,Woodruff,SC,,city-us,4294,34.74,-82.04,7269
-10700,Woodruff,WI,,city-us,619,45.90,-89.70,2869
-10696,Woodruff,AZ,,city-us,191,34.78,-110.04,647
-10699,Woodruff,UT,,city-us,178,41.52,-111.16,2372
-10697,Woodruff,KS,,city-us,13,39.99,-99.43,559
-10701,Woodruff,ID,,city-us,0,42.04,-112.21,426
-10702,Woodruff,IN,,city-us,0,41.57,-85.33,190
-10703,Woodruff,MO,,city-us,0,39.44,-94.82,329
-10704,Woodruff,WV,,city-us,0,39.77,-80.54,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5088,Brashear,MO,Adair County,,city-us,232,40.149,-92.379,5960
+5089,Brashear,TX,Hopkins County,,city-us,0,33.119,-95.734,2713

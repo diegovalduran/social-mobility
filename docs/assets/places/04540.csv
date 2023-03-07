@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32538,Bernice,LA,,city-us,1337,32.82,-92.66,6456
-32539,Bernice,OK,,city-us,429,36.62,-94.92,3375
-32540,Bernice,AR,,city-us,0,35.25,-93.13,176
-32541,Bernice,OH,,city-us,0,40.26,-81.52,309
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23304,Kulm,ND,LaMoure County,,city-us,383,46.302,-98.948,3565
+23303,Kulm,SD,Hutchinson County,,city-us,84,43.298,-98.052,0

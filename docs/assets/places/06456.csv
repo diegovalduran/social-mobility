@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39566,Yutan,,China,city-international,1368117,28.31,112.55,307
-39565,Yutan,NE,,city-us,1389,41.24,-96.40,3435
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32890,Paint,OH,Highland County,,city-us,4844,39.237,-83.445,306
+32891,Paint,OH,Holmes County,,city-us,4542,40.632,-81.709,306
+32895,Paint,OH,Wayne County,,city-us,3503,40.710,-81.718,306
+32889,Paint,OH,Fayette County,,city-us,1814,39.664,-83.458,306
+32888,Paint,PA,Clarion County,,city-us,1634,41.242,-79.407,364
+32893,Paint,OH,Ross County,,city-us,1311,39.275,-83.319,306
+32894,Paint,PA,Somerset County,,city-us,899,40.244,-78.849,2226
+32892,Paint,OH,Madison County,,city-us,580,39.815,-83.512,306

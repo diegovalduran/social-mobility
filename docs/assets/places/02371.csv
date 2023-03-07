@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20154,Pineview,GA,,city-us,449,32.11,-83.50,2612
-20155,Pineview,NC,,city-us,0,35.31,-79.09,464
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11897,Dodge,KS,Ford County,,city-us,745,37.792,-100.050,417
+11895,Dodge,NE,Dodge County,,city-us,599,41.721,-96.883,3485
+11899,Dodge,WI,Trempealeau County,,city-us,395,44.125,-91.513,1933
+11900,Dodge,TX,Walker County,,city-us,184,30.746,-95.398,1165
+11896,Dodge,ND,Dunn County,,city-us,86,47.306,-102.204,3046
+11894,Dodge,OK,Delaware County,,city-us,39,36.574,-94.656,2277
+11898,Dodge,WA,Garfield County,,city-us,0,46.525,-117.822,200

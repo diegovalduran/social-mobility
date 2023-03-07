@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29455,Corunna,MI,,city-us,3063,42.98,-84.12,4454
-29454,Corunna,IN,,city-us,236,41.44,-85.15,3304
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19832,Hibernia,NJ,Morris County,,city-us,208,40.944,-74.493,1001
+19829,Hibernia,IN,Clark County,,city-us,0,38.502,-85.526,374
+19830,Hibernia,FL,Clay County,,city-us,0,30.065,-81.698,1269
+19831,Hibernia,IN,Montgomery County,,city-us,0,40.004,-87.001,347

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14194,San Francisco,CA,,city-us,815201,37.77,-122.42,88186
-14195,San Francisco,MN,,city-us,872,44.70,-93.70,2640
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7413,Cedar Falls,IA,Black Hawk County,,city-us,40388,42.528,-92.445,13545
+7414,Cedar Falls,WI,Dunn County,,city-us,0,44.936,-91.884,203
+7415,Cedar Falls,WA,King County,,city-us,0,47.425,-121.777,384
+7416,Cedar Falls,NC,Randolph County,,city-us,0,35.752,-79.731,254

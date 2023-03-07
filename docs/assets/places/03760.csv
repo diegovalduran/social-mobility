@@ -1,10 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28795,Vermilion,OH,,city-us,10688,41.41,-82.32,6653
-28796,Vermilion,OH,,city-us,4851,41.38,-82.39,1642
-28797,Vermillion,OH,,city-us,2574,40.76,-82.28,1390
-28793,Vermillion,KS,,city-us,886,39.70,-96.41,3243
-28794,Vermillion,MN,,city-us,439,44.67,-92.97,3480
-28798,Vermillion,SD,,city-us,392,42.78,-96.96,9287
-28792,Vermillion,IL,,city-us,378,41.21,-88.99,355
-28791,Vermilion,IL,,city-us,199,39.58,-87.59,2373
-28799,Vermillion,SD,,city-us,83,43.89,-97.43,9287
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19249,Hatcher,VA,Cumberland County,,city-us,0,37.562,-78.299,93
+19250,Hatcher,WV,Mercer County,,city-us,0,37.366,-80.978,123
+19251,Hatcher,GA,Quitman County,,city-us,0,31.815,-85.014,356
+19252,Hatcher,KY,Taylor County,,city-us,0,37.295,-85.366,212

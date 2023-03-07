@@ -1,8 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30351,Syracuse,NY,,city-us,146103,43.05,-76.15,52168
-30353,Syracuse,UT,,city-us,33331,41.09,-112.06,4182
-30347,Syracuse,IN,,city-us,3067,41.42,-85.75,3952
-30350,Syracuse,NE,,city-us,1932,40.66,-96.19,3249
-30348,Syracuse,KS,,city-us,1807,37.98,-101.75,4893
-30352,Syracuse,OH,,city-us,780,39.00,-81.97,3402
-30349,Syracuse,MO,,city-us,156,38.67,-92.87,3508
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20878,Hoyt,KS,Jackson County,,city-us,599,39.248,-95.706,3858
+20876,Hoyt,OK,Haskell County,,city-us,82,35.272,-95.302,618
+20877,Hoyt,WI,Iron County,,city-us,0,46.411,-90.300,280
+20879,Hoyt,CO,Morgan County,,city-us,0,40.016,-104.075,414
+20880,Hoyt,WV,Wetzel County,,city-us,0,39.613,-80.637,85

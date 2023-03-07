@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15522,Jansen,CO,,city-us,202,37.16,-104.54,870
-15523,Jansen,NE,,city-us,99,40.19,-97.08,2969
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8475,Clarence,NY,Erie County,,city-us,32997,43.025,-78.646,16036
+8472,Clarence,MI,Calhoun County,,city-us,1876,42.371,-84.776,4520
+8473,Clarence,IA,Cedar County,,city-us,1025,41.889,-91.057,3715
+8474,Clarence,PA,Centre County,,city-us,798,41.048,-77.940,2220
+8478,Clarence,MO,Shelby County,,city-us,723,39.742,-92.259,3606
+8477,Clarence,LA,Natchitoches Parish,,city-us,325,31.822,-93.030,3530
+8471,Clarence,KS,Barton County,,city-us,139,38.391,-98.978,385
+8476,Clarence,IL,Ford County,,city-us,0,40.464,-87.971,286

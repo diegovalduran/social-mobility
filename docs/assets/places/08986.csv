@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46881,Trombly,MI,,city-us,0,46.04,-87.15,130
-46882,Trombley,OH,,city-us,0,41.25,-83.65,355
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45085,Walworth,NY,Wayne County,,city-us,9233,43.155,-77.313,4859
+45084,Walworth,WI,Walworth County,,city-us,2785,42.531,-88.600,4594
+45083,Walworth,MN,Becker County,,city-us,102,47.115,-96.120,2233

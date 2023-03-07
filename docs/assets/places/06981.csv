@@ -1,3 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41087,Ohio City,OH,,city-us,643,40.77,-84.62,5483
-41088,Ohio City,CO,,city-us,0,38.57,-106.57,2071
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35511,Providence,RI,Providence County,,city-us,189692,41.824,-71.413,35310
+35498,Providence,UT,Cache County,,city-us,8693,41.706,-111.817,10610
+35506,Providence,PA,Lancaster County,,city-us,7007,39.913,-76.228,775
+35507,Providence,OH,Lucas County,,city-us,3398,41.470,-83.836,1441
+35516,Providence,KY,Webster County,,city-us,2856,37.398,-87.763,5161
+35513,Providence,NY,Saratoga County,,city-us,2087,43.117,-74.045,4024
+35508,Providence,AL,Marengo County,,city-us,166,32.342,-87.781,2162
+35495,Providence,TX,Anderson County,,city-us,0,31.797,-95.524,1956
+35496,Providence,MO,Boone County,,city-us,0,38.837,-92.406,446
+35497,Providence,IL,Bureau County,,city-us,0,41.278,-89.593,363
+35499,Providence,NC,Caswell County,,city-us,0,36.505,-79.370,785
+35500,Providence,MD,Cecil County,,city-us,0,39.690,-75.876,179
+35501,Providence,MO,Dunklin County,,city-us,0,36.516,-89.972,184
+35502,Providence,NC,Granville County,,city-us,0,36.254,-78.662,137
+35503,Providence,WV,Jackson County,,city-us,0,38.808,-81.841,92
+35504,Providence,IN,Johnson County,,city-us,0,39.491,-86.177,348
+35505,Providence,MN,Lac qui Parle County,,city-us,0,44.834,-96.113,115
+35509,Providence,NC,McDowell County,,city-us,0,35.636,-82.051,134
+35510,Providence,SC,Orangeburg County,,city-us,0,33.393,-80.542,205
+35512,Providence,NC,Rockingham County,,city-us,0,36.474,-79.829,141
+35514,Providence,KY,Simpson County,,city-us,0,36.666,-86.677,225
+35515,Providence,KY,Trimble County,,city-us,0,38.574,-85.221,95
+35517,Providence,AR,White County,,city-us,0,35.370,-91.676,225

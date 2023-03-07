@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40211,Carlin,NV,,city-us,2053,40.71,-116.10,3259
-40212,Karlin,MI,,city-us,0,44.58,-85.78,800
-40213,Karlin,MO,,city-us,0,37.55,-93.41,753
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33853,Peytonsburg,KY,Cumberland County,,city-us,0,36.634,-85.393,260
+33854,Peytonsburg,VA,Pittsylvania County,,city-us,0,36.824,-79.168,99

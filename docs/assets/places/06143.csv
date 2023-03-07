@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38566,Aliceton,ND,,city-us,130,46.32,-97.58,0
-38567,Aliceton,KY,,city-us,0,37.59,-85.03,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31380,North Haven,CT,South Central Connecticut Planning Region,,city-us,24217,41.381,-72.856,11207
+31381,North Haven,NY,Suffolk County,,city-us,1154,41.013,-72.313,2672
+31379,North Haven,ME,Knox County,,city-us,426,44.102,-68.953,8425

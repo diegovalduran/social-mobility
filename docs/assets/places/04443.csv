@@ -1,9 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32195,Falmouth,VA,,city-us,4536,38.32,-77.47,5707
-32191,Falmouth,MA,,city-us,3895,41.55,-70.61,17219
-32190,Falmouth,KY,,city-us,2198,38.68,-84.33,5450
-32192,Falmouth,ME,,city-us,1728,43.73,-70.24,13749
-32194,Falmouth,PA,,city-us,397,40.13,-76.71,1022
-32193,Falmouth,MI,,city-us,183,44.24,-85.09,1137
-32196,Falmouth,FL,,city-us,0,30.36,-83.13,687
-32197,Falmouth,IN,,city-us,0,39.70,-85.30,990
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22891,Kidder,PA,Carbon County,,city-us,1816,41.061,-75.647,5461
+22890,Kidder,MO,Caldwell County,,city-us,273,39.780,-94.102,3749
+22892,Kidder,SD,Day County,,city-us,61,45.384,-97.664,477
+22893,Kidder,SD,Marshall County,,city-us,9,45.883,-97.713,477
+22894,Kidder,KY,Wayne County,,city-us,0,36.915,-84.652,108

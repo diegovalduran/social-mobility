@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33071,North Adams,MA,,city-us,12880,42.70,-73.11,20036
-33072,North Adams,MI,,city-us,465,41.97,-84.53,3561
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23936,Langley,,,Canada,city-international,117285,49.104,-122.583,3090
+23928,Langley,SC,Aiken County,,city-us,1975,33.518,-81.844,1563
+23934,Langley,WA,Island County,,city-us,1150,48.040,-122.406,6114
+23930,Langley,OK,Craig County / Mayes County,,city-us,607,36.480,-95.054,2989
+23929,Langley,IL,Bureau County,,city-us,0,41.369,-89.688,277
+23931,Langley,KS,Ellsworth County,,city-us,0,38.547,-97.963,448
+23932,Langley,VA,Fairfax County,,city-us,0,38.946,-77.159,1485
+23933,Langley,KY,Floyd County,,city-us,0,37.532,-82.791,137
+23935,Langley,AR,Pike County,,city-us,0,34.313,-93.842,243

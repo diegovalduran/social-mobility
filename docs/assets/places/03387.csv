@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26456,Laona,IL,,city-us,1253,42.48,-89.33,541
-26458,Laona,WI,,city-us,568,45.56,-88.67,2900
-26457,Laona,MN,,city-us,503,48.85,-95.15,1824
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17157,Goldfield,IA,Wright County,,city-us,622,42.736,-93.921,5382
+17155,Goldfield,NV,Esmeralda County,,city-us,224,37.709,-117.236,10688
+17156,Goldfield,CO,Teller County,,city-us,64,38.718,-105.126,1179
+17154,Goldfield,ND,Bowman County,,city-us,28,45.989,-103.189,138

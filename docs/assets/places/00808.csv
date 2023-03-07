@@ -1,14 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9123,St. Charles,MO,,city-us,70820,38.78,-90.48,22489
-9119,St. Charles,IL,,city-us,51793,41.94,-88.32,1036
-9118,St. Charles,IL,,city-us,33009,41.92,-88.31,13252
-9121,St. Charles,MI,,city-us,3162,43.26,-84.11,2501
-9122,St. Charles,MN,,city-us,652,43.98,-92.01,1867
-9116,St. Charles,IA,,city-us,647,41.29,-93.81,3258
-9120,St. Charles,KY,,city-us,277,37.19,-87.56,2250
-9115,St. Charles,AR,,city-us,201,34.37,-91.14,8695
-9124,St. Charles,NE,,city-us,183,41.81,-96.76,247
-9117,St. Charles,ID,,city-us,172,42.11,-111.39,4573
-9127,St. Charles,VA,,city-us,72,36.80,-83.06,2380
-9125,St. Charles,SC,,city-us,63,34.07,-80.22,673
-9126,St. Charles,SD,,city-us,8,43.09,-99.10,1849
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4150,Black Jack,MO,St. Louis County,,city-us,6593,38.793,-90.267,4351
+4148,Black Jack,KS,Douglas County,,city-us,0,38.768,-95.116,435
+4149,Black Jack,KY,Simpson County,,city-us,0,36.768,-86.513,91

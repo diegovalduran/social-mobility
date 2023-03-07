@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12867,La Mesa,CA,,city-us,60721,32.77,-117.02,12576
-12868,La Mesa,NM,,city-us,606,32.12,-106.71,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6517,Cali,,,Colombia,city-international,2471474,3.440,-76.520,44568
+9339,Colley,PA,Sullivan County,,city-us,627,41.465,-76.297,3567
+9338,Colley,VA,Dickenson County,,city-us,0,37.154,-82.246,153

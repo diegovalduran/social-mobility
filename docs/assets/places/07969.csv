@@ -1,3 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44254,Normandy Park,WA,,city-us,6637,47.44,-122.34,5341
-44255,Normandy Park,NJ,,city-us,0,40.79,-74.45,1390
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40307,Somerville,MA,Middlesex County,,city-us,79815,42.388,-71.100,49704
+41944,Summerville,SC,Berkeley County / Charleston County / Dorchester County,,city-us,51216,33.006,-80.179,6562
+40309,Somerville,NJ,Somerset County,,city-us,12559,40.574,-74.610,25413
+41945,Summerville,GA,Chattooga County,,city-us,4400,34.481,-85.348,3594
+40304,Somerville,TN,Fayette County,,city-us,3423,35.244,-89.350,3839
+40301,Somerville,TX,Burleson County,,city-us,1329,30.346,-96.528,2550
+40308,Somerville,AL,Morgan County,,city-us,799,34.473,-86.799,3107
+40306,Somerville,ME,Lincoln County,,city-us,618,44.289,-69.486,3326
+41946,Summerville,PA,Jefferson County,,city-us,506,41.116,-79.187,2194
+40302,Somerville,OH,Butler County,,city-us,258,39.562,-84.638,4426
+40305,Somerville,IN,Gibson County,,city-us,252,38.276,-87.378,3784
+41947,Summerville,OR,Union County,,city-us,119,45.488,-118.003,4158
+40303,Somerville,VA,Fauquier County,,city-us,0,38.522,-77.609,2251

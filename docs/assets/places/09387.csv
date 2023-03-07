@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47795,Culleoka,TX,,city-us,25,33.13,-96.49,1096
-47794,Culleoka,TN,,city-us,0,35.48,-86.98,828
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47442,Wolf Creek,UT,Weber County,,city-us,2133,41.333,-111.827,313
+47439,Wolf Creek,PA,Mercer County,,city-us,710,41.212,-80.059,1881
+47436,Wolf Creek,SD,Hutchinson County,,city-us,231,43.379,-97.570,0
+47438,Wolf Creek,MT,Lewis and Clark County,,city-us,25,47.006,-112.069,1212
+47437,Wolf Creek,OR,Josephine County,,city-us,0,42.696,-123.394,1376
+47440,Wolf Creek,WI,Polk County,,city-us,0,45.556,-92.723,1196
+47441,Wolf Creek,OH,Washington County,,city-us,0,39.479,-81.732,304

@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43970,Scofield,UT,,city-us,27,39.72,-111.16,10871
-43971,Scofield,MI,,city-us,0,42.02,-83.48,2802
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39907,Silverton,OR,Marion County,,city-us,10558,45.005,-122.783,13953
+39905,Silverton,OH,Hamilton County,,city-us,4866,39.193,-84.400,11506
+39910,Silverton,CO,San Juan County,,city-us,651,37.812,-107.665,10971
+39904,Silverton,TX,Briscoe County,,city-us,613,34.474,-101.305,2567
+39909,Silverton,MN,Pennington County,,city-us,183,48.139,-96.046,1678
+39906,Silverton,WV,Jackson County,,city-us,0,38.926,-81.722,254
+39908,Silverton,NJ,Ocean County,,city-us,0,40.016,-74.145,626
+39911,Silverton,ID,Shoshone County,,city-us,0,47.493,-115.956,221
+39912,Silverton,WA,Snohomish County,,city-us,0,48.078,-121.567,594

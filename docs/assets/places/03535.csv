@@ -1,6 +1,34 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27421,Oak Forest,IL,,city-us,26793,41.60,-87.74,14160
-27422,Oak Forest,IN,,city-us,0,39.38,-85.09,609
-27423,Oak Forest,KY,,city-us,0,36.72,-86.10,103
-27424,Oak Forest,TX,,city-us,0,29.50,-97.58,591
-27425,Oak Forest,VA,,city-us,0,37.54,-78.19,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17959,Greenfield,WI,Milwaukee County,,city-us,37352,42.961,-88.013,5026
+17951,Greenfield,IN,Hancock County,,city-us,24009,39.785,-85.769,10033
+17961,Greenfield,CA,Monterey County,,city-us,19076,36.321,-121.244,10754
+17946,Greenfield,MA,Franklin County,,city-us,17652,42.588,-72.600,20782
+17966,Greenfield,NY,Saratoga County,,city-us,8033,43.138,-73.872,5244
+17945,Greenfield,OH,Fairfield County,,city-us,5768,39.779,-82.672,176
+17953,Greenfield,OH,Highland County / Ross County,,city-us,4335,39.353,-83.388,8748
+17956,Greenfield,CA,Kern County,,city-us,3836,35.269,-119.003,2176
+17940,Greenfield,PA,Blair County,,city-us,3762,40.313,-78.508,465
+17952,Greenfield,MN,Hennepin County,,city-us,2895,45.103,-93.691,6366
+17958,Greenfield,PA,Lackawanna County,,city-us,2268,41.614,-75.594,465
+17957,Greenfield,WI,La Crosse County,,city-us,2184,43.769,-91.081,2183
+17970,Greenfield,TN,Weakley County,,city-us,2075,36.153,-88.801,2423
+17938,Greenfield,IA,Adair County,,city-us,2073,41.305,-94.461,13328
+17944,Greenfield,PA,Erie County,,city-us,1799,42.123,-79.837,465
+17954,Greenfield,NH,Hillsborough County,,city-us,1710,42.939,-71.879,4266
+17955,Greenfield,OH,Huron County,,city-us,1351,41.106,-82.687,176
+17969,Greenfield,MN,Wabasha County,,city-us,1319,44.322,-91.977,1729
+17942,Greenfield,MO,Dade County,,city-us,1200,37.415,-93.841,4109
+17948,Greenfield,IL,Greene County,,city-us,1035,39.344,-90.213,2396
+17950,Greenfield,IL,Grundy County,,city-us,1003,41.149,-88.270,1792
+17967,Greenfield,WI,Sauk County,,city-us,911,43.461,-89.649,1760
+17960,Greenfield,WI,Monroe County,,city-us,679,44.046,-90.599,2041
+17947,Greenfield,OH,Gallia County,,city-us,476,38.807,-82.517,176
+17943,Greenfield,KS,Elk County,,city-us,254,37.367,-96.459,544
+17939,Greenfield,OK,Blaine County,,city-us,112,35.729,-98.378,1879
+17968,Greenfield,ND,Traill County,,city-us,86,47.281,-97.261,0
+17949,Greenfield,ND,Griggs County,,city-us,85,47.284,-98.151,225
+17941,Greenfield,SD,Brown County,,city-us,35,45.800,-98.296,0
+17962,Greenfield,VA,Nelson County,,city-us,0,37.928,-78.838,104
+17963,Greenfield,VA,Pittsylvania County,,city-us,0,36.938,-79.282,119
+17964,Greenfield,AR,Poinsett County,,city-us,0,35.632,-90.713,1006
+17965,Greenfield,MS,Rankin County,,city-us,0,32.249,-90.053,397

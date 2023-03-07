@@ -1,3 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45056,Lee Creek,AR,,city-us,0,35.64,-94.40,342
-45057,Lee Creek,WV,,city-us,0,39.15,-81.74,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41726,Stringtown,OK,Atoka County,,city-us,454,34.467,-96.053,7348
+41727,Stringtown,WV,Barbour County,,city-us,0,39.029,-79.909,461
+41728,Stringtown,MS,Bolivar County,,city-us,0,33.575,-90.984,427
+41729,Stringtown,KY,Boone County,,city-us,0,39.081,-84.646,85
+41730,Stringtown,MO,Butler County,,city-us,0,36.753,-90.583,282
+41731,Stringtown,VA,Clarke County,,city-us,0,39.188,-77.978,78
+41732,Stringtown,MO,Cole County,,city-us,0,38.523,-92.354,292
+41733,Stringtown,OH,Greene County,,city-us,0,39.686,-83.846,176
+41734,Stringtown,PA,Greene County,,city-us,0,39.910,-79.939,261
+41735,Stringtown,IN,Hancock County,,city-us,0,39.788,-85.708,139
+41736,Stringtown,WV,Marion County,,city-us,0,39.482,-80.352,91
+41737,Stringtown,OH,Pickaway County,,city-us,0,39.503,-82.774,239
+41738,Stringtown,IN,Ripley County,,city-us,0,39.098,-85.163,278
+41739,Stringtown,WV,Roane County,,city-us,0,38.668,-81.339,158
+41740,Stringtown,IN,Sullivan County,,city-us,0,39.053,-87.297,231
+41741,Stringtown,WV,Tyler County,,city-us,0,39.445,-80.698,554
+41742,Stringtown,IN,Vanderburgh County,,city-us,0,38.021,-87.562,530

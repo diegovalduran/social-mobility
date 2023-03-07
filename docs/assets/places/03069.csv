@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24531,Broughton,IL,,city-us,296,40.98,-88.30,375
-24530,Broughton,IL,,city-us,179,37.93,-88.46,2605
-24532,Broughton,OH,,city-us,111,41.09,-84.54,2992
-24533,Broughton,PA,,city-us,0,40.33,-79.99,571
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15423,Forreston,IL,Ogle County,,city-us,1976,42.163,-89.638,547
+15389,Foreston,MN,Mille Lacs County,,city-us,560,45.734,-93.711,3273
+15421,Forreston,TX,Ellis County,,city-us,238,32.256,-96.865,2236
+15388,Foreston,SC,Clarendon County,,city-us,133,33.632,-80.062,664
+15422,Forreston,MS,Lowndes County,,city-us,0,33.337,-88.314,146

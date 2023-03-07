@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42680,Thornbury,PA,,city-us,6877,39.92,-75.52,187
-42679,Thornbury,PA,,city-us,3168,39.92,-75.56,187
-42682,Thornberry,TX,,city-us,60,34.06,-98.39,1197
-42681,Thornberry,OR,,city-us,0,45.82,-118.50,330
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37880,Rufus,OR,Sherman County,,city-us,270,45.695,-120.736,3383
+37879,Rufus,KY,Caldwell County,,city-us,0,37.234,-87.884,97

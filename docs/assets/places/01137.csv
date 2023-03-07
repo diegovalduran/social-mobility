@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11669,Country Club,FL,,city-us,49967,25.94,-80.31,3457
-11668,Country Club,CA,,city-us,9667,37.97,-121.34,4000
-11670,Country Club,MO,,city-us,2473,39.85,-94.82,3223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5681,Browntown,PA,Luzerne County,,city-us,1397,41.310,-75.787,525
+5679,Browntown,WI,Green County,,city-us,241,42.578,-89.794,3131
+5680,Browntown,SC,Lee County,,city-us,33,34.203,-80.317,768
+5677,Browntown,VA,Albemarle County,,city-us,0,37.836,-78.565,73
+5678,Browntown,PA,Bradford County,,city-us,0,41.651,-76.240,199
+5682,Browntown,NJ,Middlesex County,,city-us,0,40.402,-74.307,585

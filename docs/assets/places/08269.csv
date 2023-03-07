@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45089,Nuckles,AR,,city-us,0,35.57,-91.36,84
-45090,Nuckols,KY,,city-us,0,37.52,-87.11,250
-45091,Nuckols,VA,,city-us,0,37.59,-78.32,93
-45092,Nuckolls,WV,,city-us,0,38.09,-81.39,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41795,Stuttgart,,,Germany,city-international,630305,48.776,9.178,87514
+41793,Stuttgart,AR,Arkansas County,,city-us,8056,34.500,-91.553,11351
+41794,Stuttgart,KS,Phillips County,,city-us,44,39.799,-99.455,939

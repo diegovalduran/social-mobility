@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45555,Sparr,MI,,city-us,561,45.07,-84.56,2150
-45554,Sparr,FL,,city-us,0,29.34,-82.11,419
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42650,Tenmile,OR,Coos County,,city-us,0,43.576,-124.196,406
+42651,Tenmile,OR,Douglas County,,city-us,0,43.096,-123.564,581
+42652,Tenmile,KY,Perry County,,city-us,0,37.399,-83.269,90
+42653,Tenmile,WV,Upshur County,,city-us,0,38.874,-80.189,144

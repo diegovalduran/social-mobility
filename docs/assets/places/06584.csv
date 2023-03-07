@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39983,Vauxhall,NJ,,city-us,5375,40.72,-74.28,1134
-39984,Vauxhall,NJ,,city-us,5251,40.72,-74.28,1134
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33970,Piehl,WI,Oneida County,,city-us,76,45.682,-89.112,2506
+33467,Peel,OR,Douglas County,,city-us,0,43.259,-123.033,552
+33468,Peel,AR,Marion County,,city-us,0,36.432,-92.769,189

@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28888,Walnut Hill,TN,,city-us,2520,36.57,-82.26,2110
-28887,Walnut Hill,IL,,city-us,95,38.48,-89.04,6289
-28889,Walnut Hill,FL,,city-us,0,30.89,-87.51,129
-28890,Walnut Hill,WV,,city-us,0,37.82,-82.03,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19323,Hawkeye,IA,Fayette County,,city-us,434,42.939,-91.950,2574
+19324,Hawkeye,ND,McKenzie County,,city-us,47,47.985,-102.844,0
+19322,Hawkeye,ND,Divide County,,city-us,44,48.854,-103.266,0
+19325,Hawkeye,KS,Osborne County,,city-us,29,39.519,-98.875,204
+19326,Hawkeye,MO,Pulaski County,,city-us,0,38.006,-92.393,633

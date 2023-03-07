@@ -1,10 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24275,Barrie,,Canada,city-international,172657,44.37,-79.68,33554
-24268,Barry,MI,,city-us,3444,42.47,-85.38,4021
-24267,Barry,IL,,city-us,1597,39.71,-91.09,333
-24273,Barry,PA,,city-us,920,40.71,-76.40,1636
-24270,Barry,MN,,city-us,562,46.03,-92.88,1939
-24272,Barree,PA,,city-us,432,40.64,-77.92,1833
-24274,Barry,TX,,city-us,223,32.10,-96.64,2642
-24271,Barrie,ND,,city-us,179,46.59,-97.10,0
-24269,Barry,MN,,city-us,14,45.56,-96.56,2478
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15249,Flynn,MI,Sanilac County,,city-us,1004,43.292,-82.936,2595
+15126,Flinn,MS,Monroe County,,city-us,0,34.046,-88.429,188
+15127,Flinn,WV,Wood County,,city-us,0,39.075,-81.691,111
+15247,Flynn,OR,Benton County,,city-us,0,44.541,-123.386,244
+15248,Flynn,TX,Leon County,,city-us,0,31.151,-96.124,171

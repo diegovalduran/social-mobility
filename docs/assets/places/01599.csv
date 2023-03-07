@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14935,Blue Valley,KS,,city-us,405,39.46,-96.64,0
-14934,Blue Valley,CO,,city-us,171,39.70,-105.49,859
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8100,Cherry Hill,NJ,Camden County,,city-us,75474,39.905,-74.997,30217
+8104,Cherry Hill,VA,Prince William County,,city-us,22118,38.570,-77.267,9409
+8101,Cherry Hill,MD,Cecil County,,city-us,0,39.663,-75.853,196
+8102,Cherry Hill,AR,Perry County,,city-us,0,34.990,-92.874,107
+8103,Cherry Hill,AR,Polk County,,city-us,0,34.586,-93.998,308
+8105,Cherry Hill,MI,Wayne County,,city-us,0,42.305,-83.539,2590

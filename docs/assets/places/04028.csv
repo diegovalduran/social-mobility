@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30194,Reddington,IN,,city-us,0,39.03,-85.83,327
-30195,Redington,NE,,city-us,0,41.58,-103.27,259
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20714,Hopper,SD,Aurora County,,city-us,65,43.732,-98.386,0
+20715,Hopper,WV,Greenbrier County,,city-us,0,37.821,-80.365,173
+20716,Hopper,IL,Henderson County,,city-us,0,40.786,-90.991,487

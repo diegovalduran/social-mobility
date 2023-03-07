@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14809,Winters,CA,,city-us,7305,38.52,-121.97,6851
-14810,Winters,TX,,city-us,2365,31.96,-99.96,5007
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8001,Chatsworth,GA,Murray County,,city-us,4804,34.766,-84.770,2906
+8000,Chatsworth,IL,Livingston County,,city-us,1322,40.711,-88.301,556
+8002,Chatsworth,IA,Sioux County,,city-us,73,42.916,-96.516,2915
+7999,Chatsworth,NJ,Burlington County,,city-us,0,39.818,-74.535,760

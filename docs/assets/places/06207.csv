@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38775,Fairdale,PA,,city-us,2211,39.89,-79.97,1961
-38776,Fairdale,IL,,city-us,152,42.10,-88.93,2569
-38774,Fairdale,ND,,city-us,29,48.49,-98.23,3025
-38777,Fairdale,IN,,city-us,0,38.33,-86.17,123
-38778,Fairdale,WV,,city-us,0,37.78,-81.36,209
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31663,O'Neill,NE,Holt County,,city-us,3547,42.458,-98.648,6000
+31661,O'Neil,SD,Faulk County,,city-us,13,45.101,-99.389,0
+31660,O'Neal,VA,Madison County,,city-us,0,38.346,-78.267,115
+31662,O'Neil,FL,Nassau County,,city-us,0,30.617,-81.514,278

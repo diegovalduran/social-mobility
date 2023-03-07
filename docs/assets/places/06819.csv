@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40617,Red Creek,NY,,city-us,492,43.25,-76.72,4072
-40618,Red Creek,WV,,city-us,0,39.00,-79.50,804
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34748,Plum,PA,Allegheny County,,city-us,26877,40.500,-79.749,5999
+34752,Plum,PA,Venango County,,city-us,894,41.576,-79.818,1885
+34761,Plumb,KS,Wabaunsee County,,city-us,556,38.800,-95.995,0
+34751,Plum,KS,Phillips County,,city-us,312,39.781,-99.113,0
+34749,Plum,KY,Bourbon County,,city-us,0,38.179,-84.031,111
+34750,Plum,TX,Fayette County,,city-us,0,29.935,-96.968,1613
+34760,Plumb,WA,Thurston County,,city-us,0,46.928,-122.856,391

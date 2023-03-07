@@ -1,18 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10039,Duncan,OK,,city-us,22745,34.50,-97.96,11306
-10041,Duncan,SC,,city-us,4151,34.94,-82.15,3876
-10033,Duncan,AZ,,city-us,677,32.72,-109.11,5035
-10038,Duncan,NE,,city-us,387,41.39,-97.49,7703
-10037,Duncan,MS,,city-us,272,34.04,-90.74,2826
-10035,Duncan,IL,,city-us,259,41.28,-90.85,339
-10036,Duncan,MI,,city-us,242,46.52,-88.81,2456
-10040,Duncan,PA,,city-us,189,41.65,-77.25,2350
-10034,Duncan,IA,,city-us,100,43.10,-93.71,684
-10042,Duncan,IL,,city-us,0,40.98,-89.79,267
-10043,Duncan,IN,,city-us,0,38.29,-85.92,242
-10044,Duncan,KY,,city-us,0,37.36,-84.73,193
-10045,Duncan,KY,,city-us,0,37.85,-84.99,317
-10046,Duncan,MO,,city-us,0,37.28,-92.69,509
-10047,Duncan,NC,,city-us,0,35.56,-78.87,712
-10048,Duncan,VA,,city-us,0,36.91,-80.49,81
-10049,Duncan,WV,,city-us,0,38.90,-81.57,266
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4565,Bluffton,SC,Beaufort County,,city-us,32191,32.237,-80.860,18307
+4571,Bluffton,IN,Wells County,,city-us,10318,40.739,-85.172,6556
+4564,Bluffton,OH,Allen County / Hancock County,,city-us,4268,40.892,-83.888,7232
+4570,Bluffton,MN,Otter Tail County,,city-us,459,46.503,-95.207,1922
+4567,Bluffton,GA,Clay County,,city-us,114,31.523,-84.868,19301
+4566,Bluffton,AL,Cherokee County,,city-us,0,34.007,-85.440,1279
+4568,Bluffton,TX,Llano County,,city-us,0,30.821,-98.491,930
+4569,Bluffton,MO,Montgomery County,,city-us,0,38.708,-91.624,369
+4572,Bluffton,AR,Yell County,,city-us,0,34.905,-93.601,289

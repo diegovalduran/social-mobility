@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23801,Lost River,ID,,city-us,0,43.69,-113.61,2865
-23802,Lost River,IN,,city-us,0,38.61,-86.45,306
-23803,Lost River,KY,,city-us,0,36.95,-86.48,86
-23804,Lost River,WV,,city-us,0,38.95,-78.80,363
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14773,Felicity,OH,Clermont County,,city-us,650,38.839,-84.096,3654
+14774,Felicity,CA,Imperial County,,city-us,0,32.750,-114.765,1324

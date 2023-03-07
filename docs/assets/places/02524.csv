@@ -1,17 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21257,Cascade,MI,,city-us,19701,42.90,-85.49,4234
-21258,Cascade,MN,,city-us,2842,44.09,-92.46,1944
-21255,Cascade,IA,,city-us,2397,42.30,-91.00,5563
-21256,Cascade,ID,,city-us,993,44.52,-116.04,4256
-21261,Cascade,WI,,city-us,724,43.66,-88.01,3635
-21259,Cascade,MT,,city-us,601,47.27,-111.70,4319
-21260,Cascade,PA,,city-us,417,41.46,-76.87,3778
-21262,Cascade,CA,,city-us,0,39.70,-121.18,188
-21263,Cascade,CO,,city-us,0,38.90,-104.97,8433
-21264,Cascade,MI,,city-us,0,46.45,-87.49,546
-21265,Cascade,MO,,city-us,0,37.30,-90.27,492
-21266,Cascade,NE,,city-us,0,42.18,-100.39,195
-21267,Cascade,NH,,city-us,0,44.45,-71.19,1389
-21268,Cascade,OH,,city-us,0,41.02,-84.29,358
-21269,Cascade,VA,,city-us,0,36.56,-79.67,168
-21270,Cascade,WV,,city-us,0,39.56,-79.81,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12596,Eagle Lake,TX,Colorado County,,city-us,3484,29.590,-96.334,3582
+12595,Eagle Lake,MN,Blue Earth County,,city-us,3286,44.165,-93.881,3574
+12599,Eagle Lake,FL,Polk County,,city-us,3174,27.978,-81.756,6644
+12600,Eagle Lake,WI,Racine County,,city-us,1039,42.707,-88.128,2479
+12594,Eagle Lake,ME,Aroostook County,,city-us,803,47.058,-68.656,3304
+12598,Eagle Lake,MN,Otter Tail County,,city-us,394,46.149,-95.697,2674
+12601,Eagle Lake,IL,Will County,,city-us,76,41.367,-87.554,354
+12597,Eagle Lake,PA,Lackawanna County,,city-us,0,41.285,-75.488,286

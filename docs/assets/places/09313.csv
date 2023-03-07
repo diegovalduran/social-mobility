@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47626,Suplee,OR,,city-us,0,44.07,-119.68,1245
-47627,Suplee,PA,,city-us,0,40.10,-75.88,168
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47002,Willisville,IL,Perry County,,city-us,577,37.984,-89.590,1974
+47001,Willisville,AR,Nevada County,,city-us,146,33.517,-93.298,2721
+47000,Willisville,VA,Loudoun County,,city-us,0,39.007,-77.834,984
+47003,Willisville,IN,Pike County,,city-us,0,38.451,-87.296,219

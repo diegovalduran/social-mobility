@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38907,Lansford,PA,,city-us,4181,40.83,-75.88,5707
-38906,Lansford,ND,,city-us,68,48.58,-101.38,140
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31969,Ocean,NJ,Monmouth County,,city-us,27912,40.254,-74.032,163
+31970,Ocean,NJ,Ocean County,,city-us,8922,39.791,-74.215,163
+31968,Ocean,MD,Allegany County,,city-us,0,39.603,-78.944,341

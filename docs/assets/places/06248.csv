@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38909,Larke,PA,,city-us,62,40.43,-78.21,434
-38908,Lark,ND,,city-us,50,46.41,-101.36,0
-38910,Lark,WI,,city-us,0,44.31,-87.95,143
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31971,Ocean City,NJ,Cape May County,,city-us,11190,39.278,-74.575,29112
+31974,Ocean City,MD,Worcester County,,city-us,6900,38.337,-75.085,27252
+31973,Ocean City,FL,Okaloosa County,,city-us,5786,30.441,-86.614,2027
+31972,Ocean City,WA,Grays Harbor County,,city-us,189,47.071,-124.166,2206

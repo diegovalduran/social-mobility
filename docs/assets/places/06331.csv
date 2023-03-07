@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39162,Steiner,ND,,city-us,32,46.50,-102.23,0
-39163,Steiner,MI,,city-us,0,41.99,-83.39,1612
-39164,Steiner,MS,,city-us,0,33.62,-90.62,215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32322,Ontario,CA,San Bernardino County,,city-us,177963,34.063,-117.651,20671
+32318,Ontario,OR,Malheur County,,city-us,11626,44.027,-116.963,10085
+32321,Ontario,OH,Richland County,,city-us,6671,40.760,-82.590,9503
+32323,Ontario,NY,Wayne County,,city-us,1932,43.221,-77.283,4853
+32319,Ontario,WI,Monroe County / Vernon County,,city-us,536,43.722,-90.593,3262
+32320,Ontario,ND,Ramsey County,,city-us,74,48.162,-98.601,0
+32315,Ontario,SD,Hand County,,city-us,23,44.773,-99.252,0
+32316,Ontario,IL,Knox County,,city-us,0,41.079,-90.308,193
+32317,Ontario,IN,LaGrange County,,city-us,0,41.702,-85.382,311

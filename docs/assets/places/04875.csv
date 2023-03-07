@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33820,Pittston,PA,,city-us,7585,41.33,-75.79,23259
-33819,Pittston,ME,,city-us,2984,44.18,-69.70,3615
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25072,Lindley,NY,Steuben County,,city-us,1794,42.038,-77.149,2727
+25071,Lindley,MO,Mercer County,,city-us,111,40.525,-93.699,199
+25070,Lindley,MO,Grundy County,,city-us,0,40.082,-93.368,280

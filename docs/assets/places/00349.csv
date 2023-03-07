@@ -1,14 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4146,New Market,MN,,city-us,3560,44.59,-93.35,2148
-4151,New Market,VA,,city-us,2158,38.65,-78.67,4658
-4145,New Market,MD,,city-us,1581,39.38,-77.27,5489
-4150,New Market,TN,,city-us,1362,36.10,-83.55,5166
-4142,New Market,AL,,city-us,1006,34.91,-86.43,6442
-4149,New Market,PA,,city-us,604,40.22,-76.85,326
-4144,New Market,IN,,city-us,560,39.95,-86.92,4253
-4143,New Market,IA,,city-us,385,40.73,-94.90,3503
-4147,New Market,MO,,city-us,88,39.50,-94.80,605
-4148,New Market,OH,,city-us,0,39.14,-83.67,291
-4152,New Market,IN,,city-us,0,38.54,-85.62,243
-4153,New Market,KY,,city-us,0,37.50,-85.31,265
-4154,New Market,NJ,,city-us,0,40.57,-74.45,602
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1830,Atlantic Beach,FL,Duval County,,city-us,13345,30.334,-81.399,6030
+1832,Atlantic Beach,NY,Nassau County,,city-us,1704,40.589,-73.729,18211
+1829,Atlantic Beach,NC,Carteret County,,city-us,1399,34.699,-76.740,4469
+1831,Atlantic Beach,SC,Horry County,,city-us,233,33.803,-78.716,2781

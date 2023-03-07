@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29739,Indianapolis,IN,,city-us,891342,39.78,-86.15,79921
-29740,Indianapolis,IA,,city-us,0,41.40,-92.43,226
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20145,Hillside,NJ,Union County,,city-us,22180,40.696,-74.229,20600
+20140,Hillside,IL,Cook County,,city-us,8142,41.878,-87.903,7110
+20144,Hillside,NY,Ulster County,,city-us,787,41.918,-74.035,1871
+20142,Hillside,SD,Edmunds County,,city-us,29,45.285,-99.396,0
+20141,Hillside,WI,Dane County,,city-us,0,42.935,-89.043,111
+20143,Hillside,CO,Fremont County,,city-us,0,38.265,-105.613,229
+20146,Hillside,PA,Westmoreland County,,city-us,0,40.368,-79.261,492

@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23660,Dietrich,ID,,city-us,293,42.91,-114.27,2970
-23661,Dietrich,PA,,city-us,0,40.53,-76.69,198
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14612,Farmers,IL,Fulton County,,city-us,353,40.409,-90.396,789
+14614,Farmers,KY,Rowan County,,city-us,243,38.143,-83.546,937
+14611,Farmers,OH,Clinton County,,city-us,0,39.322,-83.764,351
+14613,Farmers,IN,Owen County,,city-us,0,39.175,-86.892,1116
+14615,Farmers,IN,Rush County,,city-us,0,39.699,-85.537,151

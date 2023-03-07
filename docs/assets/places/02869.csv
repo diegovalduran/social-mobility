@@ -1,5 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23385,Wall Lake,SD,,city-us,1244,43.54,-96.95,0
-23383,Wall Lake,IA,,city-us,747,42.27,-95.09,3459
-23384,Wall Lake,IN,,city-us,0,41.73,-85.20,0
-23386,Wall Lake,MN,,city-us,0,46.29,-95.96,229
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14268,Fairfax,VA,Fairfax city,,city-us,24276,38.846,-77.306,19087
+14276,Fairfax,CA,Marin County,,city-us,7521,37.987,-122.589,7190
+14269,Fairfax,VT,Franklin County,,city-us,5140,44.702,-72.998,2964
+14275,Fairfax,IA,Linn County,,city-us,2860,41.919,-91.781,3411
+14274,Fairfax,CA,Kern County,,city-us,1986,35.347,-118.932,7190
+14272,Fairfax,OH,Hamilton County,,city-us,1749,39.145,-84.393,3057
+14266,Fairfax,SC,Allendale County,,city-us,1482,32.959,-81.237,2249
+14281,Fairfax,MN,Renville County,,city-us,1241,44.529,-94.721,3592
+14279,Fairfax,OK,Osage County,,city-us,1119,36.574,-96.704,3927
+14267,Fairfax,MO,Atchison County,,city-us,634,40.339,-95.393,3290
+14278,Fairfax,KS,Osage County,,city-us,616,38.717,-95.671,4630
+14280,Fairfax,MN,Polk County,,city-us,160,47.717,-96.546,1998
+14271,Fairfax,SD,Gregory County,,city-us,99,43.028,-98.888,2939
+14270,Fairfax,WV,Grant County,,city-us,0,39.189,-79.477,87
+14273,Fairfax,OH,Highland County,,city-us,0,39.048,-83.588,285
+14277,Fairfax,IN,Monroe County,,city-us,0,39.008,-86.481,319
+14282,Fairfax,GA,Ware County,,city-us,0,31.261,-82.608,330

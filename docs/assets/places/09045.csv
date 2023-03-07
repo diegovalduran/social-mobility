@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47016,New Rome,OH,,city-us,60,39.95,-83.14,9969
-47015,New Rome,MN,,city-us,0,44.54,-94.09,289
-47017,New Rome,WI,,city-us,0,44.22,-89.88,102
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45568,Waveland,MS,Hancock County,,city-us,7038,30.287,-89.376,6810
+45569,Waveland,IN,Montgomery County,,city-us,432,39.877,-87.044,4757

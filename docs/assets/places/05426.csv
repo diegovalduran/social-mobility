@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36140,Maple Plain,MN,,city-us,1699,45.01,-93.66,3869
-36141,Maple Plain,WI,,city-us,853,45.61,-92.08,2052
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27782,Medicine,MO,Livingston County,,city-us,227,39.927,-93.420,0
+27784,Medicine,MO,Putnam County,,city-us,147,40.427,-93.280,0
+27783,Medicine,MO,Mercer County,,city-us,140,40.310,-93.429,206

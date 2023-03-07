@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5413,Westover,WV,,city-us,4075,39.63,-79.97,3693
-5411,Westover,AL,,city-us,1796,33.35,-86.54,2361
-5412,Westover,PA,,city-us,356,40.75,-78.67,2191
-5414,Westover,MD,,city-us,0,38.12,-75.71,2380
-5415,Westover,MO,,city-us,0,37.92,-91.23,588
-5416,Westover,SD,,city-us,0,43.75,-100.67,251
-5417,Westover,TX,,city-us,0,33.50,-99.02,1578
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2440,Bard,CA,Imperial County,,city-us,0,32.789,-114.556,758
+2441,Bard,IA,Louisa County,,city-us,0,41.240,-91.287,979
+2442,Bard,NM,Quay County,,city-us,0,35.129,-103.246,480

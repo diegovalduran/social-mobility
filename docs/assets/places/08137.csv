@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44730,Lusk,WY,,city-us,1497,42.76,-104.45,13175
-44731,Lusk,MO,,city-us,0,37.03,-89.38,220
-44732,Lusk,TN,,city-us,0,35.50,-85.30,306
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41176,Stagecoach,NV,Lyon County,,city-us,2313,39.374,-119.374,767
+41177,Stagecoach,TX,Montgomery County,,city-us,588,30.145,-95.714,2811

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42047,Churchtown,PA,,city-us,307,40.13,-75.96,956
-42048,Churchtown,NJ,,city-us,0,39.67,-75.51,349
-42049,Churchtown,OH,,city-us,0,39.47,-81.55,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36753,Rileyville,VA,Page County,,city-us,0,38.765,-78.388,169
+36754,Rileyville,PA,Wayne County,,city-us,0,41.716,-75.229,267

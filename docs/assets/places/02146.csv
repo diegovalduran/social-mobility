@@ -1,4 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18638,St. Augustine,FL,,city-us,14581,29.89,-81.31,35222
-18639,St. Augustine,IL,,city-us,115,40.72,-90.41,2169
-18640,St. Augustine,MD,,city-us,0,39.49,-75.81,335
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10753,Custer,SD,Custer County,,city-us,1949,43.767,-103.599,8249
+10762,Custer,IL,Will County,,city-us,1352,41.227,-88.133,507
+10748,Custer,MI,Antrim County,,city-us,1172,44.896,-85.159,292
+10760,Custer,MI,Sanilac County,,city-us,905,43.473,-82.808,292
+10761,Custer,WA,Whatcom County,,city-us,412,48.917,-122.638,2343
+10749,Custer,SD,Beadle County,,city-us,376,44.320,-98.144,8249
+10757,Custer,MI,Mason County,,city-us,297,43.952,-86.220,3384
+10756,Custer,MN,Lyon County,,city-us,174,44.233,-95.795,1848
+10763,Custer,MT,Yellowstone County,,city-us,158,46.129,-107.555,2363
+10758,Custer,KS,Mitchell County,,city-us,106,39.276,-98.450,235
+10752,Custer,NE,Custer County,,city-us,92,41.263,-99.807,251
+10754,Custer,KS,Decatur County,,city-us,34,39.705,-100.470,235
+10751,Custer,SD,Corson County,,city-us,30,45.869,-101.754,8249
+10750,Custer,KY,Breckinridge County,,city-us,0,37.738,-86.255,412
+10755,Custer,MO,Dent County,,city-us,0,37.536,-91.520,283
+10759,Custer,WI,Portage County,,city-us,0,44.511,-89.426,1256

@@ -1,7 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33655,Buxton,ME,,city-us,8454,43.64,-70.54,6715
-33656,Buxton,NC,,city-us,1551,35.27,-75.54,3854
-33657,Buxton,ND,,city-us,356,47.60,-97.10,4214
-33658,Buxton,KS,,city-us,0,37.45,-95.92,350
-33659,Buxton,MS,,city-us,0,34.55,-90.20,85
-33660,Buxton,OR,,city-us,0,45.69,-123.19,1530
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24810,Liberty Hill,TX,Williamson County,,city-us,6801,30.665,-97.923,3672
+24794,Liberty Hill,WV,Calhoun County,,city-us,0,38.790,-81.168,94
+24795,Liberty Hill,AL,Cleburne County,,city-us,0,33.849,-85.573,215
+24796,Liberty Hill,TN,Cocke County,,city-us,0,36.078,-83.174,166
+24797,Liberty Hill,IL,Cumberland County,,city-us,0,39.201,-88.154,171
+24798,Liberty Hill,AL,Etowah County,,city-us,0,34.178,-86.030,123
+24799,Liberty Hill,TN,Fayette County,,city-us,0,35.302,-89.281,138
+24800,Liberty Hill,AL,Franklin County,,city-us,0,34.347,-87.765,188
+24801,Liberty Hill,TN,Giles County,,city-us,0,35.331,-87.191,114
+24802,Liberty Hill,TN,Grainger County,,city-us,0,36.318,-83.614,142
+24803,Liberty Hill,TN,Greene County,,city-us,0,36.306,-82.690,139
+24804,Liberty Hill,AL,Jackson County,,city-us,0,34.828,-85.714,168
+24805,Liberty Hill,SC,Kershaw County,,city-us,0,34.478,-80.802,622
+24806,Liberty Hill,TN,McMinn County,,city-us,0,35.382,-84.438,170
+24807,Liberty Hill,TN,Rhea County,,city-us,0,35.599,-85.035,238
+24808,Liberty Hill,AL,Talladega County,,city-us,0,33.170,-86.199,122
+24809,Liberty Hill,TN,Williamson County,,city-us,0,35.981,-87.183,191
+24811,Liberty Hill,TN,Wilson County,,city-us,0,36.043,-86.063,136

@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35911,Hayland,MN,,city-us,532,45.86,-93.57,1888
-35912,Hayland,ND,,city-us,28,48.69,-103.08,0
-35913,Hayland,NE,,city-us,0,40.66,-98.59,185
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27481,McCoy,CO,Eagle County,,city-us,50,39.916,-106.726,1311
+27484,McCoy,OR,Polk County,,city-us,6,45.042,-123.216,271
+27479,McCoy,TX,Atascosa County,,city-us,0,28.861,-98.348,1491
+27480,McCoy,IN,Decatur County,,city-us,0,39.323,-85.414,181
+27482,McCoy,TX,Kaufman County,,city-us,0,32.824,-96.108,918
+27483,McCoy,VA,Montgomery County,,city-us,0,37.217,-80.598,409

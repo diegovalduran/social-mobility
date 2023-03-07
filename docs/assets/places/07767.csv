@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43694,Lorena,TX,,city-us,1791,31.39,-97.22,2417
-43695,Lorena,KS,,city-us,0,37.69,-97.08,252
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39317,Shannon,GA,Floyd County,,city-us,1919,34.342,-85.080,2689
+39319,Shannon,MS,Lee County,,city-us,1489,34.116,-88.712,4454
+39315,Shannon,IL,Carroll County,,city-us,889,42.155,-89.740,2126
+39322,Shannon,NC,Robeson County,,city-us,262,34.848,-79.137,1866
+39321,Shannon,KS,Pottawatomie County,,city-us,260,39.432,-96.529,604
+39314,Shannon,KS,Atchison County,,city-us,0,39.565,-95.243,320
+39316,Shannon,TX,Clay County,,city-us,0,33.474,-98.259,790
+39318,Shannon,AL,Jefferson County,,city-us,0,33.405,-86.872,246
+39320,Shannon,KY,Mason County,,city-us,0,38.538,-83.903,611

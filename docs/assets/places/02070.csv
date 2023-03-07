@@ -1,5 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18242,Mayo,MD,,city-us,8197,38.89,-76.51,3227
-18243,Mayo,SC,,city-us,1719,35.08,-81.86,1945
-18241,Mayo,FL,,city-us,1089,30.05,-83.17,3313
-18244,Mayo,KY,,city-us,0,37.87,-84.92,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10416,Cromwell,CT,Lower Connecticut River Valley Planning Region,,city-us,14302,41.617,-72.662,5375
+10415,Cromwell,PA,Huntingdon County,,city-us,1467,40.243,-77.909,1722
+10417,Cromwell,IN,Noble County,,city-us,481,41.401,-85.616,3303
+10414,Cromwell,MN,Clay County,,city-us,389,46.920,-96.354,1859
+10420,Cromwell,OK,Seminole County,,city-us,246,35.340,-96.457,4155
+10412,Cromwell,MN,Carlton County,,city-us,232,46.681,-92.884,3448
+10421,Cromwell,IA,Union County,,city-us,103,41.039,-94.462,2680
+10411,Cromwell,ND,Burleigh County,,city-us,33,47.026,-100.559,0
+10413,Cromwell,AL,Choctaw County,,city-us,0,32.229,-88.274,225
+10418,Cromwell,KY,Ohio County,,city-us,0,37.340,-86.788,949
+10419,Cromwell,WA,Pierce County,,city-us,0,47.274,-122.622,251

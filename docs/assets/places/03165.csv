@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25050,Dalzell,SC,,city-us,3319,34.02,-80.43,2867
-25049,Dalzell,IL,,city-us,654,41.36,-89.17,2756
-25051,Dalzell,OH,,city-us,0,39.56,-81.30,243
-25052,Dalzell,SD,,city-us,0,44.34,-102.40,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15986,Freshwater,ND,Ramsey County,,city-us,61,48.252,-98.899,0
+15984,Freshwater,CA,Humboldt County,,city-us,0,40.761,-124.062,1585
+15985,Freshwater,VA,Nelson County,,city-us,0,37.751,-78.927,104

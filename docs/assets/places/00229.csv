@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2515,Gantt,SC,,city-us,14790,34.80,-82.42,2624
-2514,Gantt,AL,,city-us,198,31.41,-86.48,1992
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1191,Antelope,CA,Sacramento County,,city-us,48421,38.708,-121.330,12052
+1194,Antelope,SD,Todd County,,city-us,769,43.303,-100.629,1793
+1185,Antelope,NE,Franklin County,,city-us,200,40.307,-98.896,261
+1190,Antelope,ND,Richland County,,city-us,111,46.326,-96.967,0
+1193,Antelope,SD,Spink County,,city-us,54,44.676,-98.160,132
+1192,Antelope,MT,Sheridan County,,city-us,40,48.690,-104.458,3162
+1195,Antelope,OR,Wasco County,,city-us,38,44.911,-120.723,6274
+1186,Antelope,NE,Holt County,,city-us,30,42.480,-98.481,261
+1189,Antelope,SD,Perkins County,,city-us,22,45.345,-102.761,132
+1187,Antelope,TX,Jack County,,city-us,0,33.442,-98.370,1399
+1188,Antelope,KS,Marion County,,city-us,0,38.436,-96.974,3425

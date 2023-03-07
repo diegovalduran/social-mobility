@@ -1,6 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29457,Corry,PA,,city-us,6164,41.92,-79.64,5525
-29459,Corey,MI,,city-us,1632,41.93,-85.81,3403
-29456,Cory,IN,,city-us,0,39.38,-87.21,633
-29458,Cory,CO,,city-us,0,38.79,-107.99,466
-29460,Corry,MO,,city-us,0,37.49,-93.73,362
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19836,Hickman,NE,Lancaster County,,city-us,2832,40.620,-96.629,2428
+19834,Hickman,KY,Fulton County,,city-us,2301,36.571,-89.186,4468
+19839,Hickman,CA,Stanislaus County,,city-us,753,37.624,-120.754,6096
+19838,Hickman,TN,Smith County,,city-us,224,36.144,-85.941,108
+19837,Hickman,SD,Marshall County,,city-us,41,45.635,-97.783,0
+19833,Hickman,MD,Caroline County,,city-us,0,38.833,-75.723,226
+19835,Hickman,DE,Kent County,,city-us,0,38.833,-75.723,505

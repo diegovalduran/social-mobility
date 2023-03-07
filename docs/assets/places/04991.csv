@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34382,Fork,MI,,city-us,1581,43.77,-85.15,1973
-34383,Fork,MN,,city-us,6,48.41,-97.09,1707
-34384,Fork,MD,,city-us,0,39.47,-76.44,83
-34385,Fork,SC,,city-us,0,34.29,-79.28,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25672,Loogootee,IN,Martin County,,city-us,2599,38.677,-86.914,6637
+25671,Loogootee,IL,Fayette County,,city-us,0,38.905,-88.854,214

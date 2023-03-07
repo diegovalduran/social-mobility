@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38684,Cordelia,ND,,city-us,88,48.84,-100.24,140
-38685,Cordelia,CA,,city-us,0,38.21,-122.14,877
-38686,Cordelia,OH,,city-us,0,40.90,-83.79,223
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31511,Northville,MI,Wayne County,,city-us,31587,42.416,-83.487,10184
+31508,Northville,MI,Oakland County / Wayne County,,city-us,6074,42.436,-83.488,13985
+31510,Northville,NY,Suffolk County,,city-us,1792,40.970,-72.619,2403
+31506,Northville,NY,Fulton County,,city-us,1010,43.226,-74.172,6902
+31509,Northville,SD,Spink County,,city-us,156,45.150,-98.626,3227
+31505,Northville,OH,Champaign County,,city-us,0,40.182,-83.812,137
+31507,Northville,IL,LaSalle County,,city-us,0,41.563,-88.705,433

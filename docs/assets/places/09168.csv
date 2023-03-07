@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47303,Bordeaux,,France,city-international,257068,44.84,-0.58,49169
-47299,Bordeaux,NE,,city-us,0,42.77,-102.81,240
-47300,Bordeaux,SC,,city-us,0,33.93,-82.42,471
-47301,Bordeaux,WA,,city-us,0,46.89,-123.08,583
-47302,Bordeaux,WY,,city-us,0,41.94,-104.84,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46180,Westfall,PA,Pike County,,city-us,2619,41.388,-74.771,1968
+46177,Westfall,KS,Lincoln County,,city-us,0,38.930,-98.011,311
+46178,Westfall,OR,Malheur County,,city-us,0,43.992,-117.709,495
+46179,Westfall,OH,Pickaway County,,city-us,0,39.558,-82.999,359

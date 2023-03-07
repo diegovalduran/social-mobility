@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43784,Poetry,TX,,city-us,0,32.84,-96.26,1421
-43785,Poetry,GA,,city-us,0,34.29,-85.39,405
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39504,Shenango,PA,Lawrence County,,city-us,7097,40.950,-80.298,357
+39505,Shenango,PA,Mercer County,,city-us,3497,41.151,-80.461,357
+39506,Shenango,WV,Wetzel County,,city-us,0,39.585,-80.687,74

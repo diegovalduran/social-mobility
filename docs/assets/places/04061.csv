@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30341,St. Wendel,IN,,city-us,0,38.11,-87.70,1673
-30342,St. Wendel,MN,,city-us,0,45.67,-94.38,260
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20873,Howland,OH,Trumbull County,,city-us,19027,41.238,-80.752,4350
+20872,Howland,ME,Penobscot County,,city-us,1096,45.267,-68.715,3305
+20871,Howland,VA,Northumberland County,,city-us,0,37.871,-76.455,97

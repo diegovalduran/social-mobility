@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22312,Lohrville,WI,,city-us,437,44.04,-89.12,3724
-22311,Lohrville,IA,,city-us,377,42.27,-94.55,4238
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13331,Elk River,MN,Sherburne County,,city-us,26192,45.304,-93.567,17355
+13329,Elk River,ID,Clearwater County,,city-us,141,46.784,-116.180,3798
+13330,Elk River,CA,Humboldt County,,city-us,0,40.736,-124.174,678

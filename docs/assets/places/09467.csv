@@ -1,3 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47976,Yards,VA,,city-us,0,37.29,-81.31,360
-47977,Yards,WV,,city-us,0,37.29,-81.31,360
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47888,Wyoming,,,United States,state,581381,43.000,-107.555,38683
+47878,Wyoming,MI,Kent County,,city-us,76749,42.913,-85.705,37702
+47873,Wyoming,OH,Hamilton County,,city-us,8692,39.231,-84.466,5598
+47872,Wyoming,MN,Chisago County,,city-us,8063,45.336,-92.997,3830
+47881,Wyoming,PA,Luzerne County,,city-us,3103,41.312,-75.837,6070
+47877,Wyoming,DE,Kent County,,city-us,1801,39.118,-75.559,5625
+47883,Wyoming,IL,Stark County,,city-us,1278,41.062,-89.773,4038
+47880,Wyoming,IL,Lee County,,city-us,1233,41.682,-88.992,472
+47876,Wyoming,IA,Jones County,,city-us,540,42.059,-91.007,3227
+47886,Wyoming,NY,Wyoming County,,city-us,388,42.826,-78.090,3715
+47875,Wyoming,WI,Iowa County,,city-us,364,43.126,-90.112,2349
+47885,Wyoming,WI,Waupaca County,,city-us,318,44.646,-89.041,1895
+47879,Wyoming,MI,Keweenaw County,,city-us,275,47.408,-87.962,5972
+47884,Wyoming,RI,Washington County,,city-us,182,41.515,-71.701,2375
+47874,Wyoming,NE,Holt County,,city-us,77,42.175,-98.943,244
+47882,Wyoming,NE,Otoe County,,city-us,0,40.736,-95.919,349
+47887,Wyoming,WV,Wyoming County,,city-us,0,37.582,-81.603,341

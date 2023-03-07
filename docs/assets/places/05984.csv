@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38050,Rockport Colony,SD,,city-us,77,43.58,-97.84,576
-38049,Rockport Colony,MT,,city-us,0,48.07,-112.48,308
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30614,New Franklin,OH,Summit County,,city-us,13798,40.942,-81.542,4786
+30612,New Franklin,MO,Howard County,,city-us,1045,39.017,-92.737,4148
+30611,New Franklin,PA,Franklin County,,city-us,0,39.881,-77.636,253
+30613,New Franklin,OH,Stark County,,city-us,0,40.798,-81.092,379

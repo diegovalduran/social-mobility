@@ -1,8 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38149,Wolf Creek,UT,,city-us,2133,41.33,-111.83,313
-38147,Wolf Creek,PA,,city-us,710,41.21,-80.06,1881
-38148,Wolf Creek,SD,,city-us,231,43.38,-97.57,0
-38146,Wolf Creek,MT,,city-us,25,47.01,-112.07,1212
-38150,Wolf Creek,OH,,city-us,0,39.48,-81.73,304
-38151,Wolf Creek,OR,,city-us,0,42.70,-123.39,1376
-38152,Wolf Creek,WI,,city-us,0,45.56,-92.72,1196
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30766,New Mexico,,,United States,state,2113344,34.166,-106.026,123859
+30765,New Mexico,MD,Carroll County,,city-us,0,39.603,-76.949,214

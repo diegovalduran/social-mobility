@@ -1,13 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36486,Rosebud,SD,,city-us,1994,43.23,-100.85,2599
-36487,Rosebud,TX,,city-us,1345,31.07,-96.98,3859
-36482,Rosebud,MO,,city-us,394,38.39,-91.40,3218
-36481,Rosebud,MN,,city-us,309,47.53,-95.74,2095
-36483,Rosebud,MT,,city-us,67,46.27,-106.44,783
-36484,Rosebud,ND,,city-us,36,46.67,-98.26,131
-36485,Rosebud,SD,,city-us,35,43.53,-100.36,2599
-36488,Rosebud,AL,,city-us,0,31.94,-87.14,90
-36489,Rosebud,GA,,city-us,0,33.80,-83.97,92
-36490,Rosebud,IN,,city-us,0,38.19,-87.41,153
-36491,Rosebud,IN,,city-us,0,38.53,-86.21,246
-36492,Rosebud,NC,,city-us,0,36.31,-80.18,142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28403,Mila,VA,Northumberland County,,city-us,0,37.842,-76.328,260
+28513,Milla,IL,LaSalle County,,city-us,0,41.141,-88.983,176

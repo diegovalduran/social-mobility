@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43625,Kaufman,TX,,city-us,7379,32.59,-96.31,2536
-43626,Kaufman,IL,,city-us,0,38.86,-89.78,190
-43627,Coffman,KY,,city-us,0,37.46,-87.10,317
-43628,Coffman,MO,,city-us,0,37.79,-90.19,697
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39207,Severn,MD,Anne Arundel County,,city-us,53955,39.137,-76.698,3927
+39209,Severn,NC,Northampton County,,city-us,188,36.515,-77.190,2157
+39210,Severn,ND,Stutsman County,,city-us,55,46.689,-98.766,0
+39208,Severn,VA,Gloucester County,,city-us,0,37.294,-76.416,180

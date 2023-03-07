@@ -1,16 +1,28 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19354,Dalton,GA,,city-us,34285,34.77,-84.97,16716
-19356,Dalton,MI,,city-us,9568,43.35,-86.23,2423
-19355,Dalton,MA,,city-us,6290,42.48,-73.15,8483
-19362,Dalton,OH,,city-us,1911,40.80,-81.70,3574
-19363,Dalton,PA,,city-us,1279,41.53,-75.74,2400
-19360,Dalton,NH,,city-us,905,44.39,-71.69,3143
-19361,Dalton,NY,,city-us,406,42.54,-77.95,811
-19359,Dalton,NE,,city-us,289,41.41,-102.97,4594
-19364,Dalton,WI,,city-us,229,43.66,-89.21,895
-19357,Dalton,MN,,city-us,215,46.17,-95.92,3819
-19358,Dalton,MO,,city-us,9,39.40,-92.99,5907
-19365,Daulton,CA,,city-us,0,37.12,-119.98,382
-19366,Dalton,IN,,city-us,0,39.98,-85.18,346
-19367,Dalton,KS,,city-us,0,37.27,-97.27,595
-19368,Dalton,NC,,city-us,0,36.31,-80.40,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11355,Deerfield,OH,Warren County,,city-us,41439,39.326,-84.301,348
+11334,Deerfield,IL,Cook County / Lake County,,city-us,19079,42.166,-87.852,20468
+11341,Deerfield,MI,Lapeer County,,city-us,5766,43.191,-83.289,421
+11337,Deerfield,MA,Franklin County,,city-us,5115,42.518,-72.613,16997
+11350,Deerfield,NH,Rockingham County,,city-us,4907,43.136,-71.255,6373
+11343,Deerfield,MI,Livingston County,,city-us,4191,42.747,-83.866,421
+11346,Deerfield,NY,Oneida County,,city-us,3939,43.185,-75.151,3712
+11339,Deerfield,MI,Isabella County,,city-us,3327,43.595,-84.903,421
+11335,Deerfield,NJ,Cumberland County,,city-us,3155,39.459,-75.132,9433
+11348,Deerfield,OH,Portage County,,city-us,2863,41.025,-81.050,1602
+11336,Deerfield,WI,Dane County,,city-us,2508,43.052,-89.076,242
+11344,Deerfield,MI,Mecosta County,,city-us,1717,43.509,-85.386,421
+11351,Deerfield,OH,Ross County,,city-us,1050,39.485,-83.154,348
+11342,Deerfield,MI,Lenawee County,,city-us,901,41.889,-83.779,5021
+11340,Deerfield,KS,Kearny County,,city-us,855,38.020,-101.163,634
+11345,Deerfield,OH,Morgan County,,city-us,823,39.687,-81.976,348
+11354,Deerfield,MO,Vernon County,,city-us,781,37.809,-94.456,175
+11357,Deerfield,WI,Waushara County,,city-us,676,44.114,-89.417,1922
+11353,Deerfield,PA,Tioga County,,city-us,539,41.946,-77.422,133
+11356,Deerfield,PA,Warren County,,city-us,267,41.736,-79.369,133
+11338,Deerfield,IL,Fulton County,,city-us,243,40.586,-90.266,281
+11331,Deerfield,VA,Augusta County,,city-us,199,38.197,-79.407,974
+11332,Deerfield,MN,Cass County,,city-us,118,46.848,-94.598,221
+11333,Deerfield,IA,Chickasaw County,,city-us,0,43.164,-92.496,475
+11347,Deerfield,SD,Pennington County,,city-us,0,44.017,-103.834,285
+11349,Deerfield,IN,Randolph County,,city-us,0,40.279,-84.976,251
+11352,Deerfield,MN,Steele County,,city-us,0,44.167,-93.360,249

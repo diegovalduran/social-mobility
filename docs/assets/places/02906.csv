@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23617,Bliss,MI,,city-us,620,45.70,-84.92,1927
-23618,Bliss,NY,,city-us,443,42.58,-78.25,803
-23616,Bliss,ID,,city-us,259,42.93,-114.95,2140
-23619,Bliss,KY,,city-us,0,37.08,-85.37,276
-23620,Bliss,MO,,city-us,0,38.09,-90.74,466
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14572,Fannin,KY,Elliott County,,city-us,0,38.068,-83.090,114
+14573,Fannin,TX,Goliad County,,city-us,0,28.696,-97.236,426
+14574,Fannin,MS,Rankin County,,city-us,0,32.417,-89.957,4872

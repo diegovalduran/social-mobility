@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46652,Jeffrey,KY,,city-us,0,36.75,-85.84,1374
-46653,Jeffrey,WV,,city-us,0,37.97,-81.82,267
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44629,Vining,MN,Otter Tail County,,city-us,59,46.263,-95.537,3201
+44630,Vining,IA,Tama County,,city-us,50,41.990,-92.380,2622
+44628,Vining,KS,Clay County / Washington County,,city-us,41,39.567,-97.294,3395

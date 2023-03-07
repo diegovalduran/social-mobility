@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6895,Genoa,,Italy,city-international,580097,44.41,8.93,74285
-6890,Genoa,OH,,city-us,25684,40.17,-82.90,6833
-6886,Genoa,MI,,city-us,20831,42.55,-83.86,2990
-6885,Genoa,IL,,city-us,5530,42.10,-88.66,961
-6891,Genoa,OH,,city-us,2212,41.52,-83.36,6987
-6889,Genoa,NY,,city-us,1815,42.65,-76.57,4363
-6883,Genoa,AR,,city-us,972,33.38,-93.91,1020
-6888,Genoa,NV,,city-us,958,39.00,-119.85,3746
-6887,Genoa,NE,,city-us,898,41.45,-97.73,3891
-6892,Genoa,WI,,city-us,758,43.55,-91.17,3555
-6884,Genoa,CO,,city-us,156,39.28,-103.50,2274
-6893,Genoa,MN,,city-us,0,44.11,-92.61,492
-6894,Genoa,WV,,city-us,0,38.12,-82.46,276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3121,Belcher,LA,Caddo Parish,,city-us,245,32.749,-93.833,2495
+3122,Belcher,KY,Pike County,,city-us,0,37.342,-82.374,280

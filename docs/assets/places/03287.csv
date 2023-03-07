@@ -1,14 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25800,Hammond,IN,,city-us,76984,41.58,-87.50,18144
-25801,Hammond,LA,,city-us,19976,30.50,-90.46,13476
-25810,Hammond,OR,,city-us,6277,46.16,-123.92,7609
-25806,Hammond,WI,,city-us,2644,45.00,-92.45,3401
-25799,Hammond,IL,,city-us,512,39.80,-88.59,1969
-25805,Hammond,NY,,city-us,287,44.45,-75.69,10428
-25804,Hammond,MN,,city-us,132,44.22,-92.37,3136
-25802,Hammond,ME,,city-us,94,46.23,-67.97,2802
-25803,Hammond,MN,,city-us,42,47.63,-96.64,1666
-25807,Hammond,KS,,city-us,0,37.94,-94.70,374
-25808,Hammond,MO,,city-us,0,36.68,-92.64,874
-25809,Hammond,MT,,city-us,0,45.23,-104.92,871
-25811,Hammond,TX,,city-us,0,31.10,-96.71,551
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16652,Germania,NJ,Atlantic County,,city-us,992,39.512,-74.599,657
+16657,Germania,MN,Todd County,,city-us,528,46.238,-94.958,1924
+16655,Germania,WI,Shawano County,,city-us,343,44.725,-89.163,1639
+16656,Germania,ND,Stutsman County,,city-us,19,46.663,-99.257,0
+16653,Germania,WI,Marquette County,,city-us,0,43.891,-89.257,625
+16654,Germania,TX,Midland County,,city-us,0,32.065,-101.940,138

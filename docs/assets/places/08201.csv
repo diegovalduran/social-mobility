@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44914,Hog Jaw,AL,,city-us,0,34.33,-86.56,84
-44915,Hog Jaw,AR,,city-us,0,34.60,-93.76,206
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41496,Stillwater,OK,Payne County,,city-us,48134,36.116,-97.058,31692
+41500,Stillwater,MN,Washington County,,city-us,19389,45.056,-92.806,12282
+41497,Stillwater,NY,Saratoga County,,city-us,9108,42.969,-73.687,5219
+41498,Stillwater,NJ,Sussex County,,city-us,4020,41.074,-74.869,17379
+41494,Stillwater,PA,Columbia County,,city-us,200,41.149,-76.366,3086
+41493,Stillwater,ND,Bowman County,,city-us,18,46.244,-103.179,133
+41495,Stillwater,WA,King County,,city-us,0,47.683,-121.920,326
+41499,Stillwater,OH,Tuscarawas County,,city-us,0,40.323,-81.308,320

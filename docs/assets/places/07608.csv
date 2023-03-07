@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43185,Reliance,WY,,city-us,223,41.67,-109.20,2105
-43184,Reliance,SD,,city-us,132,43.88,-99.60,3317
-43186,Reliance,DE,,city-us,0,38.64,-75.71,763
-43187,Reliance,MD,,city-us,0,38.64,-75.71,763
-43188,Reliance,TN,,city-us,0,35.19,-84.50,1815
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38594,Sandy Lake,PA,Mercer County,,city-us,643,41.349,-80.082,2003
+38593,Sandy Lake,MN,Aitkin County,,city-us,0,46.799,-93.251,2258

@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10991,Bakersfield,CA,,city-us,407615,35.37,-119.02,49382
-10993,Bakersfield,VT,,city-us,409,44.78,-72.80,5552
-10992,Bakersfield,MO,,city-us,187,36.52,-92.14,3308
-10994,Bakersfield,TX,,city-us,0,30.89,-102.30,1282
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5771,Bryan,TX,Brazos County,,city-us,86866,30.674,-96.370,13069
+5777,Bryan,OH,Williams County,,city-us,8638,41.475,-84.552,7779
+5772,Bryan,SD,Charles Mix County,,city-us,392,43.134,-98.279,0
+5776,Bryan,NE,Thurston County,,city-us,86,42.126,-96.585,150
+5773,Bryan,ND,Griggs County,,city-us,52,47.546,-98.418,491
+5193,Brian,MO,Dunklin County,,city-us,0,36.607,-90.093,233
+5774,Bryan,KY,Russell County,,city-us,0,36.929,-85.204,117
+5775,Bryan,AR,Scott County,,city-us,0,34.935,-94.225,314

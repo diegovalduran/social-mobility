@@ -1,14 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20726,Hanna,IL,,city-us,2387,41.51,-90.27,1290
-20733,Hannah,MI,,city-us,1786,44.54,-85.65,3634
-20730,Hanna,WY,,city-us,683,41.87,-106.56,4998
-20725,Hana,HI,,city-us,657,20.77,-156.01,5072
-20727,Hanna,IN,,city-us,429,41.41,-86.78,691
-20729,Hanna,OK,,city-us,101,35.21,-95.89,2007
-20728,Hannah,ND,,city-us,8,48.97,-98.69,2852
-20731,Hannah,GA,,city-us,0,33.59,-84.86,126
-20732,Hanna,LA,,city-us,0,31.96,-93.35,104
-20734,Hannah,SC,,city-us,0,33.88,-79.58,205
-20735,Hanna,SD,,city-us,0,44.26,-103.84,757
-20736,Hanna,UT,,city-us,0,40.40,-110.77,1156
-20737,Hanna,WV,,city-us,0,39.17,-81.39,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12227,Drummond,MI,Chippewa County,,city-us,973,46.000,-83.667,6816
+12229,Drummond,OK,Garfield County,,city-us,446,36.300,-98.036,2273
+12230,Drummond,MT,Granite County,,city-us,280,46.667,-113.147,3784
+12226,Drummond,WI,Bayfield County,,city-us,93,46.337,-91.258,2296
+12228,Drummond,ID,Fremont County,,city-us,14,43.999,-111.345,2784

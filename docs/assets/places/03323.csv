@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26110,Hopkins,MN,,city-us,18573,44.92,-93.46,14544
-26108,Hopkins,IL,,city-us,1998,41.80,-89.81,370
-26112,Hopkins,SC,,city-us,1757,33.90,-80.88,2147
-26109,Hopkins,MI,,city-us,629,42.62,-85.76,4472
-26111,Hopkins,MO,,city-us,595,40.54,-94.81,167
-26113,Hopkins,NC,,city-us,0,35.88,-78.35,266
-26114,Hopkins,VA,,city-us,0,37.79,-75.70,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16823,Gilmer,TX,Upshur County,,city-us,4894,32.729,-94.942,5043
+16820,Gilmer,IL,Adams County,,city-us,1141,39.982,-91.214,2633
+16821,Gilmer,WV,Gilmer County,,city-us,0,38.879,-80.717,285
+16822,Gilmer,IL,Lake County,,city-us,0,42.235,-88.046,175

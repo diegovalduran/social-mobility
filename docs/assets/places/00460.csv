@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5295,Vincent,CA,,city-us,16399,34.50,-118.12,4398
-5294,Vincent,AL,,city-us,1997,33.38,-86.40,3165
-5296,Vincent,IA,,city-us,128,42.59,-94.02,3123
-5297,Vincent,OH,,city-us,0,39.38,-81.67,635
-5298,Vincent,KS,,city-us,0,39.19,-98.72,191
-5299,Vincent,KY,,city-us,0,37.47,-83.77,122
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2414,Bannockburn,IL,Lake County,,city-us,1002,42.193,-87.866,5633
+2413,Bannockburn,GA,Berrien County,,city-us,0,31.285,-83.058,382

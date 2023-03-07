@@ -1,10 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13906,Rainbow,CA,,city-us,2129,33.41,-117.15,4263
-13908,Rainbow,SD,,city-us,22,45.50,-102.41,0
-13907,Rainbow,ND,,city-us,18,48.51,-103.34,0
-13909,Rainbow,AL,,city-us,0,34.75,-86.74,199
-13910,Rainbow,CA,,city-us,0,39.31,-120.51,164
-13911,Rainbow,OH,,city-us,0,39.49,-81.47,306
-13912,Rainbow,OR,,city-us,0,44.17,-122.24,324
-13913,Rainbow,TX,,city-us,0,32.27,-97.71,966
-13914,Rainbow,VA,,city-us,0,38.76,-77.34,180
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7251,Castle Rock,CO,Douglas County,,city-us,76353,39.372,-104.856,21260
+7249,Castle Rock,WA,Cowlitz County,,city-us,2446,46.275,-122.908,6536
+7252,Castle Rock,WI,Grant County,,city-us,236,43.075,-90.488,1719
+7253,Castle Rock,ND,Hettinger County,,city-us,72,46.320,-102.371,0
+7248,Castle Rock,SD,Butte County,,city-us,0,44.964,-103.424,365
+7250,Castle Rock,MN,Dakota County,,city-us,0,44.544,-93.153,757
+7254,Castle Rock,OR,Morrow County,,city-us,0,45.839,-119.838,846

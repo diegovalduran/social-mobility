@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42836,Fairview Crossroads,SC,,city-us,502,33.76,-81.37,671
-42837,Fairview Crossroads,NC,,city-us,0,36.33,-80.72,446
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38137,Sage,CA,Riverside County,,city-us,3370,33.582,-116.932,399
+38135,Sage,MI,Gladwin County,,city-us,2447,44.034,-84.551,2171
+38134,Sage,TX,Burnet County,,city-us,0,30.875,-98.153,6274
+38136,Sage,AR,Izard County,,city-us,0,36.046,-91.816,518

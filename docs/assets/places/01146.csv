@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11722,Cyprus,,,country,1308120,35.13,33.43,75772
-11721,Cypress,TX,,city-us,184851,29.97,-95.70,10070
-11714,Cypress,CA,,city-us,49926,33.82,-118.04,7784
-11715,Cypress,IL,,city-us,246,37.37,-89.02,2819
-11716,Cypress,MO,,city-us,162,40.18,-94.04,212
-11717,Cypress,ND,,city-us,35,48.94,-98.91,0
-11718,Cypress,FL,,city-us,0,30.71,-85.07,226
-11719,Cypress,IN,,city-us,0,37.91,-87.63,308
-11720,Cypress,TX,,city-us,0,33.04,-95.32,831
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5717,Brundidge,AL,Pike County,,city-us,2070,31.720,-85.816,7061
+5716,Brundage,TX,Dimmit County,,city-us,0,28.574,-99.669,2132

@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18566,Sorrento,LA,,city-us,1542,30.18,-90.86,1019
-18567,Sorrento,ME,,city-us,282,44.48,-68.18,3112
-18565,Sorrento,FL,,city-us,145,28.81,-81.56,2204
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10712,Curry,AK,Matanuska-Susitna Borough,,city-us,0,62.615,-150.012,1511
+10713,Curry,AL,Pike County,,city-us,0,31.941,-86.044,119
+10714,Curry,AL,Talladega County,,city-us,0,33.486,-86.017,149
+10715,Curry,AL,Walker County,,city-us,0,33.954,-87.214,554

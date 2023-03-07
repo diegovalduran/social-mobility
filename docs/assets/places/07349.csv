@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42354,Man,,C��te d'Ivoire,city-international,146974,7.40,-7.55,2877
-42352,Man,WV,,city-us,759,37.74,-81.88,3398
-42351,Mann,PA,,city-us,502,39.77,-78.41,2164
-42353,Mann,WI,,city-us,0,44.70,-90.22,112
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37323,Rocky Point,NY,Suffolk County,,city-us,13406,40.953,-72.925,3432
+37319,Rocky Point,WA,Kitsap County,,city-us,1474,47.593,-122.668,730
+37322,Rocky Point,NC,Pender County,,city-us,1220,34.435,-77.888,1918
+37321,Rocky Point,MT,Lake County,,city-us,129,47.735,-114.180,1973
+37318,Rocky Point,VA,Botetourt County,,city-us,0,37.579,-79.612,148
+37320,Rocky Point,OR,Klamath County,,city-us,0,42.481,-122.084,3477
+37324,Rocky Point,OK,Wagoner County,,city-us,0,36.029,-95.328,118

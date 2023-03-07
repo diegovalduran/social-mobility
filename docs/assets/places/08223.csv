@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44970,Samantha,AL,,city-us,0,33.42,-87.61,384
-44971,Samantha,OH,,city-us,0,39.28,-83.59,370
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41599,Stonewall,LA,De Soto Parish,,city-us,2428,32.282,-93.824,5834
+41598,Stonewall,MS,Clarke County,,city-us,870,32.132,-88.793,2752
+41601,Stonewall,TX,Gillespie County,,city-us,505,30.236,-98.664,2998
+41603,Stonewall,OK,Pontotoc County,,city-us,405,34.653,-96.526,4018
+41602,Stonewall,NC,Pamlico County,,city-us,218,35.137,-76.748,2104
+41596,Stonewall,VA,Alleghany County,,city-us,0,37.808,-80.067,106
+41597,Stonewall,VA,Appomattox County,,city-us,0,37.411,-78.960,107
+41600,Stonewall,GA,Fulton County,,city-us,0,33.598,-84.547,730

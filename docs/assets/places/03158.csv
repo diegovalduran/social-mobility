@@ -1,15 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24987,Cunningham,IL,,city-us,38681,40.11,-88.20,1213
-24988,Cunningham,KS,,city-us,462,37.64,-98.43,4380
-24989,Cunningham,KY,,city-us,272,36.91,-88.89,170
-24990,Cunningham,MO,,city-us,0,39.64,-93.24,432
-24991,Cunningham,GA,,city-us,0,34.16,-85.26,329
-24992,Cunningham,MO,,city-us,0,36.20,-89.70,236
-24993,Cunningham,NC,,city-us,0,36.54,-79.08,681
-24994,Cunningham,OH,,city-us,0,39.58,-83.55,164
-24995,Cunningham,TN,,city-us,0,36.39,-87.39,454
-24996,Cunningham,TN,,city-us,0,36.23,-89.42,86
-24997,Cunningham,TX,,city-us,0,33.43,-95.36,148
-24998,Cunningham,VA,,city-us,0,37.87,-78.32,94
-24999,Cunningham,WA,,city-us,0,46.82,-118.81,215
-25000,Cunningham,WV,,city-us,0,39.10,-78.94,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15936,Freetown,,,Sierra Leone,city-international,951000,8.483,-13.233,27731
+15933,Freetown,MA,Bristol County,,city-us,9202,41.779,-71.020,19891
+15934,Freetown,NY,Cortland County,,city-us,764,42.520,-76.023,2784
+15935,Freetown,IN,Jackson County,,city-us,378,38.973,-86.129,910
+15932,Freetown,VA,Albemarle County,,city-us,0,38.048,-78.712,234

@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34224,Clawson,MI,,city-us,11284,42.53,-83.15,4723
-34225,Clawson,UT,,city-us,165,39.13,-111.10,3406
-34226,Clawson,ID,,city-us,0,43.80,-111.11,298
-34227,Clawson,TX,,city-us,0,31.40,-94.79,2058
-34228,Clawson,WV,,city-us,0,38.27,-80.03,185
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25508,Loma Linda,CA,San Bernardino County,,city-us,25072,34.048,-117.261,10343
+25507,Loma Linda,MO,Newton County,,city-us,965,36.991,-94.587,4168
+25509,Loma Linda,TX,San Patricio County,,city-us,125,28.007,-97.499,287

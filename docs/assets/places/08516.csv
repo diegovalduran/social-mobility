@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45708,Butts,GA,,city-us,0,32.73,-82.03,243
-45709,Butts,MO,,city-us,0,38.00,-91.16,560
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42898,Three Rivers,MI,St. Joseph County,,city-us,7953,41.944,-85.632,3178
+42894,Three Rivers,OR,Deschutes County,,city-us,3597,43.820,-121.469,2362
+42899,Three Rivers,CA,Tulare County,,city-us,2601,36.439,-118.905,8455
+42895,Three Rivers,TX,Live Oak County,,city-us,1562,28.460,-98.183,6769
+42897,Three Rivers,SD,Spink County,,city-us,64,44.941,-98.533,0
+42896,Three Rivers,NM,Otero County,,city-us,0,33.321,-106.075,257

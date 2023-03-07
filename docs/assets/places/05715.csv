@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37142,Fox Creek,MO,,city-us,101,40.24,-93.83,0
-37143,Fox Creek,CO,,city-us,0,37.07,-106.20,244
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29427,Mora,MN,Kanabec County,,city-us,3617,45.877,-93.294,5072
+29428,Mora,NM,Mora County,,city-us,644,35.974,-105.330,6645
+29426,Mora,MO,Benton County,,city-us,0,38.524,-93.216,460
+29429,Mora,LA,Natchitoches Parish,,city-us,0,31.373,-92.948,110

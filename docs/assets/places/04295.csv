@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31497,Neosho,MO,,city-us,12687,36.87,-94.37,36774
-31498,Neosho,WI,,city-us,583,43.31,-88.52,3422
-31494,Neosho,KS,,city-us,243,37.05,-95.01,633
-31496,Neosho,KS,,city-us,160,37.33,-95.11,0
-31495,Neosho,KS,,city-us,115,38.07,-95.73,572
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22197,Johannesburg,,,South Africa,city-international,4434827,-26.204,28.042,51656
+22195,Johannesburg,MI,Otsego County,,city-us,1354,44.953,-84.416,3623
+22194,Johannesburg,CA,Kern County,,city-us,90,35.373,-117.635,4837
+22196,Johannesburg,WI,St. Croix County,,city-us,0,45.165,-92.594,249

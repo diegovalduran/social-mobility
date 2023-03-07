@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43018,Deadwood,SD,,city-us,1201,44.38,-103.73,20165
-43019,Deadwood,CA,,city-us,0,38.00,-120.11,215
-43020,Deadwood,OR,,city-us,0,44.10,-123.76,816
-43021,Deadwood,TX,,city-us,0,32.14,-94.14,2590
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38389,Sampson,WI,Chippewa County,,city-us,991,45.240,-91.434,3325
+38390,Sampson,WI,Oconto County,,city-us,0,44.765,-88.186,1040
+38391,Sampson,MO,Webster County,,city-us,0,37.442,-92.843,393

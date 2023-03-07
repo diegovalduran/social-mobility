@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17375,Millsboro,DE,,city-us,7139,38.59,-75.29,4877
-17376,Millsboro,PA,,city-us,374,39.99,-79.99,472
-17377,Millsboro,WV,,city-us,0,39.73,-80.67,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9833,Coram,NY,Suffolk County,,city-us,41431,40.869,-73.001,3523
+9832,Coram,MT,Flathead County,,city-us,338,48.418,-114.046,2476

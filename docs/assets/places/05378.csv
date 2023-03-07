@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35975,Indian Lake,NY,,city-us,1371,43.80,-74.36,10193
-35974,Indian Lake,MO,,city-us,1058,38.09,-91.45,410
-35977,Indian Lake,TX,,city-us,851,26.09,-97.50,2408
-35976,Indian Lake,PA,,city-us,390,40.05,-78.85,2751
-35973,Indian Lake,MN,,city-us,212,43.54,-95.52,4717
-35978,Indian Lake,NJ,,city-us,0,40.89,-74.49,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27522,McFarland,CA,Kern County,,city-us,14459,35.678,-119.229,6165
+27521,McFarland,WI,Dane County,,city-us,9325,43.013,-89.290,8893
+27524,McFarland,KS,Wabaunsee County,,city-us,281,39.053,-96.238,4242
+27523,McFarland,MI,Marquette County,,city-us,153,46.192,-87.250,2067

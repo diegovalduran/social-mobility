@@ -1,12 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11286,Buckhorn,CA,,city-us,2522,38.45,-120.53,2302
-11290,Buckhorn,PA,,city-us,513,41.02,-76.50,3099
-11288,Buckhorn,KY,,city-us,81,37.35,-83.48,2478
-11289,Buckhorn,NM,,city-us,72,33.04,-108.71,315
-11287,Buckhorn,IL,,city-us,0,39.94,-90.84,129
-11291,Buckhorn,CA,,city-us,0,34.40,-118.82,1256
-11292,Buckhorn,MI,,city-us,0,42.00,-86.40,190
-11293,Buckhorn,MO,,city-us,0,37.34,-90.29,555
-11294,Buckhorn,MO,,city-us,0,37.78,-92.27,605
-11295,Buckhorn,NC,,city-us,0,36.07,-79.23,138
-11296,Buckhorn,TX,,city-us,0,30.04,-96.20,1214
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5385,Broad Run,VA,Fauquier County,,city-us,0,38.830,-77.721,2127
+5386,Broad Run,MD,Frederick County,,city-us,0,39.394,-77.597,2444

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29806,Laconia,NH,,city-us,17025,43.53,-71.47,13581
-29805,Laconia,IN,,city-us,71,38.03,-86.09,5011
-29807,Laconia,TN,,city-us,0,35.28,-89.25,108
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20191,Hingham,MA,Plymouth County,,city-us,5557,42.242,-70.890,15594
+20192,Hingham,WI,Sheboygan County,,city-us,902,43.639,-87.914,543
+20190,Hingham,MT,Hill County,,city-us,132,48.555,-110.422,4529

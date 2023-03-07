@@ -1,11 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27779,Pittsfield,MA,,city-us,43641,42.45,-73.25,34223
-27781,Pittsfield,MI,,city-us,39245,42.21,-83.72,4338
-27778,Pittsfield,IL,,city-us,4193,39.61,-90.81,11348
-27782,Pittsfield,NH,,city-us,4140,43.29,-71.31,4728
-27780,Pittsfield,ME,,city-us,3903,44.77,-69.43,5449
-27787,Pittsfield,WI,,city-us,2608,44.60,-88.25,2440
-27784,Pittsfield,OH,,city-us,1597,41.24,-82.22,2638
-27783,Pittsfield,NY,,city-us,1325,42.61,-75.27,5288
-27785,Pittsfield,PA,,city-us,1273,41.83,-79.43,1861
-27786,Pittsfield,VT,,city-us,504,43.80,-72.84,3680
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18314,Gull Lake,MI,Kalamazoo County,,city-us,1179,42.388,-85.397,2909
+18315,Gull Lake,WI,Washburn County,,city-us,196,46.038,-91.750,2064

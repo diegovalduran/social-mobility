@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22433,Mason City,IA,,city-us,27138,43.15,-93.20,16675
-22434,Mason City,IL,,city-us,2293,40.19,-89.66,357
-22435,Mason City,NE,,city-us,148,41.22,-99.30,3119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13461,Elm,NJ,Camden County,,city-us,39907,39.702,-74.908,16328
+13467,Elm,MO,Putnam County,,city-us,524,40.406,-92.772,254
+13463,Elm,NE,Gage County,,city-us,139,40.139,-96.850,224
+13462,Elm,ND,Dickey County,,city-us,74,45.984,-98.704,0
+13464,Elm,ND,Grant County,,city-us,56,46.415,-101.736,0
+13465,Elm,MO,Johnson County,,city-us,0,38.853,-94.043,254
+13466,Elm,PA,Lancaster County,,city-us,0,40.204,-76.349,290

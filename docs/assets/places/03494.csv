@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27194,Mountain,WI,,city-us,851,45.16,-88.43,2111
-27192,Mountain,IL,,city-us,357,37.64,-88.43,334
-27193,Mountain,ND,,city-us,80,48.69,-97.87,4236
-27195,Mountain,WV,,city-us,0,39.36,-80.91,627
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17710,Gravel Hill,IN,Benton County,,city-us,0,40.650,-87.370,257
+17711,Gravel Hill,VA,Buckingham County,,city-us,0,37.584,-78.375,223
+17712,Gravel Hill,MO,Cape Girardeau County,,city-us,0,37.358,-89.840,329
+17713,Gravel Hill,NJ,Middlesex County,,city-us,0,40.300,-74.419,301
+17714,Gravel Hill,DE,Sussex County,,city-us,0,38.714,-75.316,210

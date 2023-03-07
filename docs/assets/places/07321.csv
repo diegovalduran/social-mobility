@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42266,Hilltown,VA,,city-us,80,36.73,-80.98,491
-42265,Hilltown,PA,,city-us,0,40.33,-75.24,192
-42267,Hilltown,IN,,city-us,0,38.84,-85.66,140
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37156,Rock Run,IL,Stephenson County,,city-us,2155,42.395,-89.463,1120
+37155,Rock Run,AL,Cherokee County,,city-us,0,34.028,-85.495,746

@@ -1,13 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25718,Greenbush,MI,,city-us,2142,43.07,-84.53,305
-25723,Greenbush,WI,,city-us,1841,43.78,-88.10,2301
-25716,Greenbush,ME,,city-us,1447,45.07,-68.59,3066
-25719,Greenbush,MN,,city-us,1312,45.60,-93.71,1937
-25717,Greenbush,MI,,city-us,1275,44.55,-83.33,2991
-25720,Greenbush,MN,,city-us,682,48.70,-96.18,6214
-25722,Greenbush,VA,,city-us,25,37.74,-75.68,538
-25721,Greenbush,ND,,city-us,20,48.59,-101.91,0
-25715,Greenbush,IL,,city-us,0,40.71,-90.54,132
-25724,Greenbush,KS,,city-us,0,37.51,-94.99,485
-25725,Greenbush,OH,,city-us,0,39.08,-83.93,200
-25726,Greenbush,OH,,city-us,0,39.60,-84.50,213
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16564,Gentryville,IN,Spencer County,,city-us,250,38.104,-87.033,3483
+16562,Gentryville,MO,Douglas County,,city-us,0,36.864,-92.361,590
+16563,Gentryville,MO,Gentry County,,city-us,0,40.133,-94.344,254

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45667,Sugar Valley,GA,,city-us,0,34.56,-85.01,1032
-45668,Sugar Valley,OH,,city-us,0,39.69,-84.71,193
-45669,Sugar Valley,WV,,city-us,0,39.42,-81.09,234
-45670,Sugar Valley,WV,,city-us,0,39.61,-79.64,94
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42833,Thor,IA,Humboldt County,,city-us,184,42.688,-94.049,3574
+42832,Thor,MN,Aitkin County,,city-us,0,46.476,-93.421,298

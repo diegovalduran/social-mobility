@@ -1,20 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9330,Victoria,,Canada,city-international,335696,48.43,-123.36,52356
-9320,Victoria,TX,,city-us,65377,28.81,-97.00,14455
-9316,Victoria,MN,,city-us,11042,44.86,-93.66,4404
-9321,Victoria,VA,,city-us,1742,36.99,-78.23,11451
-9317,Victoria,MS,,city-us,1066,34.85,-89.62,549
-9314,Victoria,KS,,city-us,823,38.81,-99.12,460
-9313,Victoria,IL,,city-us,365,41.02,-90.05,902
-9319,Victoria,NE,,city-us,326,41.64,-99.79,296
-9315,Victoria,KS,,city-us,315,38.47,-98.20,753
-9327,Victoria,MI,,city-us,226,46.72,-89.21,3173
-9318,Victoria,ND,,city-us,73,47.54,-101.26,0
-9312,Victoria,AR,,city-us,18,35.76,-90.06,2902
-9322,Victoria,AL,,city-us,0,31.53,-85.94,1045
-9323,Victoria,GA,,city-us,0,34.14,-84.61,265
-9324,Victoria,IN,,city-us,0,39.05,-87.22,188
-9325,Victoria,IN,,city-us,0,38.01,-87.36,1140
-9326,Victoria,LA,,city-us,0,31.66,-93.23,326
-9328,Victoria,MO,,city-us,0,38.18,-90.53,304
-9329,Victoria,WV,,city-us,0,39.42,-79.89,127
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4224,Bladensburg,MD,Prince George's County,,city-us,9525,38.939,-76.934,9932
+4223,Bladensburg,OH,Knox County,,city-us,296,40.285,-82.284,779
+4225,Bladensburg,IA,Wapello County,,city-us,0,41.046,-92.237,504

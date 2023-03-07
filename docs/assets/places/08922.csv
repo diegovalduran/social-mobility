@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46717,Peytona,KY,,city-us,0,38.18,-85.06,87
-46718,Peytona,WV,,city-us,0,38.14,-81.68,1053
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44763,Wade,IL,Jasper County,,city-us,4306,39.006,-88.182,202
+44760,Wade,IL,Clinton County,,city-us,1647,38.609,-89.436,202
+44762,Wade,MS,Jackson County,,city-us,1426,30.642,-88.570,2926
+44761,Wade,NC,Cumberland County,,city-us,639,35.163,-78.736,2335
+44758,Wade,ME,Aroostook County,,city-us,232,46.796,-68.249,3055
+44759,Wade,OK,Bryan County,,city-us,0,33.889,-96.076,277
+44764,Wade,OH,Washington County,,city-us,0,39.441,-81.172,330

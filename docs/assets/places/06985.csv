@@ -1,5 +1,18 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41102,Pandora,OH,,city-us,1181,40.95,-83.96,4071
-41103,Pandora,CO,,city-us,0,37.93,-107.79,1334
-41104,Pandora,PA,,city-us,0,40.32,-79.36,140
-41105,Pandora,TX,,city-us,0,29.25,-97.84,485
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35542,Pulaski,VA,Pulaski County,,city-us,8961,37.048,-80.780,4306
+35534,Pulaski,TN,Giles County,,city-us,8231,35.200,-87.031,7317
+35531,Pulaski,WI,Brown County / Oconto County / Shawano County,,city-us,3952,44.668,-88.234,4203
+35537,Pulaski,PA,Lawrence County,,city-us,3072,41.096,-80.451,180
+35539,Pulaski,NY,Oswego County,,city-us,2297,43.567,-76.128,8441
+35536,Pulaski,MI,Jackson County,,city-us,2075,42.107,-84.657,2505
+35530,Pulaski,PA,Beaver County,,city-us,1278,40.734,-80.298,180
+35535,Pulaski,WI,Iowa County,,city-us,361,43.158,-90.355,1766
+35538,Pulaski,MN,Morrison County,,city-us,309,46.104,-93.980,1920
+35533,Pulaski,IA,Davis County,,city-us,263,40.697,-92.273,3065
+35532,Pulaski,GA,Candler County,,city-us,196,32.390,-81.957,2248
+35540,Pulaski,IL,Pulaski County,,city-us,153,37.214,-89.206,2287
+35545,Pulaski,ND,Walsh County,,city-us,72,48.317,-97.200,110
+35541,Pulaski,IN,Pulaski County,,city-us,0,40.975,-86.658,476
+35543,Pulaski,MO,Ripley County,,city-us,0,36.614,-90.747,412
+35544,Pulaski,MS,Scott County,,city-us,0,32.272,-89.602,108
+35546,Pulaski,OH,Williams County,,city-us,0,41.511,-84.508,430

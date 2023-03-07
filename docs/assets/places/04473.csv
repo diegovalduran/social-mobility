@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32305,Lakeside Park,KY,,city-us,2820,39.04,-84.57,2607
-32306,Lakeside Park,IN,,city-us,0,41.25,-85.85,167
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23014,Kingsley,MI,Grand Traverse County,,city-us,1430,44.585,-85.536,5662
+23017,Kingsley,IA,Plymouth County,,city-us,1387,42.588,-95.968,9506
+23016,Kingsley,KY,Jefferson County,,city-us,393,38.221,-85.672,3121
+23013,Kingsley,PA,Forest County,,city-us,295,41.542,-79.271,2409
+23015,Kingsley,ND,Griggs County,,city-us,41,47.457,-98.436,660
+23018,Kingsley,PA,Susquehanna County,,city-us,0,41.760,-75.752,16839
+23019,Kingsley,OR,Wasco County,,city-us,0,45.341,-121.201,204

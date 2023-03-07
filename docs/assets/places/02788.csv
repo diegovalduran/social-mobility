@@ -1,28 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22895,Randolph,MA,,city-us,34715,42.18,-71.05,10291
-22903,Randolph,NJ,,city-us,26480,40.84,-74.58,21294
-22905,Randolph,OH,,city-us,5317,41.03,-81.25,1698
-22909,Randolph,VT,,city-us,4799,43.92,-72.61,7577
-22910,Randolph,WI,,city-us,1786,43.54,-89.00,4170
-22896,Randolph,ME,,city-us,1745,44.24,-69.75,3954
-22906,Randolph,PA,,city-us,1706,41.62,-79.95,2038
-22912,Randolph,AL,,city-us,1169,32.90,-86.91,372
-22904,Randolph,NY,,city-us,962,42.16,-78.98,4293
-22901,Randolph,NE,,city-us,874,42.38,-97.36,3491
-22911,Randolph,WI,,city-us,764,43.61,-89.03,4170
-22897,Randolph,MN,,city-us,760,44.53,-92.97,2045
-22908,Randolph,UT,,city-us,493,41.67,-111.18,3130
-22902,Randolph,NH,,city-us,322,44.40,-71.31,5467
-22892,Randolph,IA,,city-us,189,40.87,-95.57,3409
-22894,Randolph,KS,,city-us,167,39.43,-96.76,4417
-22898,Randolph,MO,,city-us,56,39.16,-94.50,3527
-22900,Randolph,ND,,city-us,22,47.81,-103.73,0
-22893,Randolph,IL,,city-us,0,40.38,-88.98,338
-22899,Randolph,MS,,city-us,0,34.18,-89.17,2367
-22907,Randolph,TN,,city-us,0,35.52,-89.89,0
-22913,Randolph,IN,,city-us,0,40.27,-84.98,378
-22914,Randolph,OR,,city-us,0,43.17,-124.36,4170
-22915,Randolph,PA,,city-us,0,40.15,-79.00,163
-22916,Randolph,SD,,city-us,0,45.24,-98.21,291
-22917,Randolph,TX,,city-us,0,33.48,-96.25,204
-22918,Randolph,VA,,city-us,0,36.89,-78.70,596
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13868,Ericson,MN,Renville County,,city-us,220,44.850,-95.293,1924
+13869,Ericson,NE,Wheeler County,,city-us,92,41.780,-98.677,3046

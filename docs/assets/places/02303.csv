@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-19646,Ideal,MN,,city-us,1242,46.67,-94.20,1876
-19645,Ideal,GA,,city-us,397,32.37,-84.19,2504
-19647,Ideal,SD,,city-us,86,43.54,-99.92,316
-19648,Ideal,IL,,city-us,0,41.98,-89.99,144
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11611,Deposit,NY,Broome County / Delaware County,,city-us,1445,42.064,-75.423,185
+11612,Deposit,NY,Delaware County,,city-us,1420,42.095,-75.370,4048

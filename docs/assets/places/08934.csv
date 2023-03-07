@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46749,Theriot,LA,,city-us,0,29.75,-90.63,87
-46750,Theriot,LA,,city-us,0,29.46,-90.75,133
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44802,Wahoo,NE,Saunders County,,city-us,4904,41.211,-96.620,5493
+44801,Wahoo,WV,Marion County,,city-us,0,39.455,-80.227,575
+44803,Wahoo,FL,Sumter County,,city-us,0,28.691,-82.196,14651

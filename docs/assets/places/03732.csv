@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28656,Texas,,United States,state,30029572,31.17,-100.08,97634
-28653,Texas,NJ,,city-us,66876,40.40,-74.31,34109
-28645,Texas,MI,,city-us,18014,42.21,-85.70,2496
-28647,Texas,PA,,city-us,2293,41.55,-75.26,2024
-28648,Texas,WI,,city-us,1611,45.07,-89.56,1910
-28644,Texas,IL,,city-us,1243,40.10,-88.97,0
-28646,Texas,OH,,city-us,316,40.95,-83.09,1378
-28649,Texas,AL,,city-us,0,33.93,-87.68,227
-28650,Texas,GA,,city-us,0,33.24,-85.20,226
-28651,Texas,KY,,city-us,0,37.66,-85.11,232
-28652,Texas,MS,,city-us,0,30.89,-89.27,214
-28654,Texas,OH,,city-us,0,41.42,-83.95,318
-28655,Texas,WV,,city-us,0,39.17,-79.80,228
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19102,Harrodsburg,KY,Mercer County,,city-us,9112,37.762,-84.843,8787
+19103,Harrodsburg,IN,Monroe County,,city-us,505,39.013,-86.545,1157

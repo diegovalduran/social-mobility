@@ -1,6 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28259,Savoy,IL,,city-us,8823,40.05,-88.25,3037
-28261,Savoy,TX,,city-us,732,33.60,-96.37,2439
-28260,Savoy,MA,,city-us,645,42.59,-73.02,6929
-28262,Savoy,AR,,city-us,0,36.11,-94.33,1018
-28263,Savoy,MS,,city-us,0,32.27,-88.77,519
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18680,Hampton,VA,Hampton city,,city-us,137746,37.030,-76.345,27370
+18687,Hampton,IL,Rock Island County,,city-us,21557,41.528,-90.388,797
+18670,Hampton,PA,Allegheny County,,city-us,18273,40.587,-79.954,3874
+18688,Hampton,NH,Rockingham County,,city-us,9900,42.938,-70.839,6604
+18672,Hampton,MI,Bay County,,city-us,9633,43.622,-83.773,2894
+18682,Hampton,GA,Henry County,,city-us,8346,33.387,-84.283,3662
+18671,Hampton,MD,Baltimore County,,city-us,5055,39.423,-76.585,4970
+18689,Hampton,NJ,Sussex County,,city-us,4914,41.092,-74.790,10829
+18678,Hampton,IA,Franklin County,,city-us,4307,42.742,-93.202,3605
+18681,Hampton,SC,Hampton County,,city-us,2791,32.878,-81.128,6365
+18686,Hampton,CT,Northeastern Connecticut Planning Region,,city-us,1728,41.783,-72.065,3509
+18683,Hampton,NJ,Hunterdon County,,city-us,1441,40.707,-74.956,13486
+18669,Hampton,PA,Adams County,,city-us,1432,39.928,-77.057,2512
+18674,Hampton,AR,Calhoun County,,city-us,1190,33.538,-92.470,4256
+18691,Hampton,NY,Washington County,,city-us,860,43.551,-73.291,4470
+18676,Hampton,MN,Dakota County,,city-us,831,44.584,-92.969,1955
+18673,Hampton,FL,Bradford County,,city-us,444,29.864,-82.131,3934
+18679,Hampton,NE,Hamilton County,,city-us,431,40.879,-97.886,3310
+18675,Hampton,TN,Carter County,,city-us,0,36.284,-82.173,0
+18677,Hampton,OR,Deschutes County,,city-us,0,43.674,-120.236,833
+18684,Hampton,OR,Lane County,,city-us,0,43.820,-122.601,439
+18685,Hampton,KY,Livingston County,,city-us,0,37.283,-88.371,87
+18690,Hampton,WV,Upshur County,,city-us,0,38.938,-80.240,257

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24460,Bond,IL,,city-us,574,38.81,-87.70,270
-24461,Bond,MS,,city-us,506,30.89,-89.17,2805
-24462,Bond,CO,,city-us,183,39.87,-106.69,1627
-24463,Bond,TN,,city-us,0,35.72,-87.40,160
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15307,Fordsville,KY,Ohio County,,city-us,439,37.636,-86.717,1975
+15306,Fordsville,VA,Madison County,,city-us,0,38.401,-78.116,95

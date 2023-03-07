@@ -1,14 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42838,Five Forks,SC,,city-us,19158,34.80,-82.23,5204
-42839,Five Forks,GA,,city-us,0,33.89,-84.06,952
-42840,Five Forks,NC,,city-us,0,34.47,-79.20,220
-42841,Five Forks,PA,,city-us,0,39.80,-77.61,382
-42842,Five Forks,VA,,city-us,0,38.78,-77.28,360
-42843,Five Forks,VA,,city-us,0,38.30,-78.14,95
-42844,Five Forks,VA,,city-us,0,37.58,-78.86,106
-42845,Five Forks,VA,,city-us,0,36.58,-80.28,157
-42846,Five Forks,VA,,city-us,0,37.24,-78.58,93
-42847,Five Forks,VA,,city-us,0,38.65,-78.17,119
-42848,Five Forks,WV,,city-us,0,38.97,-81.06,271
-42849,Five Forks,WV,,city-us,0,39.18,-80.98,92
-42850,Five Forks,WV,,city-us,0,39.01,-80.10,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38141,Saginaw,MI,Saginaw County,,city-us,43854,43.419,-83.951,42922
+38144,Saginaw,TX,Tarrant County,,city-us,24011,32.860,-97.364,4412
+38140,Saginaw,MO,Newton County,,city-us,306,37.024,-94.468,3651
+38138,Saginaw,AR,Hot Spring County,,city-us,0,34.300,-92.936,340
+38139,Saginaw,OR,Lane County,,city-us,0,43.833,-123.045,579
+38142,Saginaw,AL,Shelby County,,city-us,0,33.216,-86.792,1094
+38143,Saginaw,MN,St. Louis County,,city-us,0,46.859,-92.444,1039

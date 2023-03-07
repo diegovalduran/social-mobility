@@ -1,17 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21917,Harper,KS,,city-us,1273,37.29,-98.03,4096
-21921,Harper,TX,,city-us,1192,30.30,-99.24,3374
-21918,Harper,KS,,city-us,142,38.48,-97.76,122
-21916,Harper,IA,,city-us,119,41.36,-92.05,3301
-21920,Harper,OR,,city-us,113,43.86,-117.61,507
-21919,Harper,ND,,city-us,0,46.41,-103.61,0
-21922,Harper,IL,,city-us,0,42.14,-89.65,80
-21923,Harper,IN,,city-us,0,39.14,-85.59,239
-21924,Harper,KY,,city-us,0,37.80,-83.20,177
-21925,Harper,MO,,city-us,0,38.06,-93.52,363
-21926,Harper,OH,,city-us,0,40.43,-83.71,262
-21927,Harper,OH,,city-us,0,39.36,-83.26,315
-21928,Harper,WA,,city-us,0,47.52,-122.52,262
-21929,Harper,WV,,city-us,0,38.52,-79.47,164
-21930,Harper,WV,,city-us,0,37.80,-81.26,89
-21931,Harper,WY,,city-us,0,41.71,-105.89,416
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13042,Edna,TX,Jackson County,,city-us,5944,28.979,-96.646,6475
+13047,Edna,MN,Otter Tail County,,city-us,899,46.587,-95.691,1842
+13048,Edna,CA,San Luis Obispo County,,city-us,393,35.204,-120.613,2723
+13043,Edna,KS,Labette County,,city-us,383,37.060,-95.359,3775
+13040,Edna,ND,Barnes County,,city-us,82,47.110,-98.267,1439
+13041,Edna,AL,Choctaw County,,city-us,0,32.287,-88.074,258
+13044,Edna,IA,Lyon County,,city-us,0,43.385,-96.094,417
+13045,Edna,KY,Magoffin County,,city-us,0,37.793,-83.151,175
+13046,Edna,WV,Monongalia County,,city-us,0,39.575,-80.054,89

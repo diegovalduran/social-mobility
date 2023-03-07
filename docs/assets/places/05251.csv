@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35507,Browns Valley,MN,,city-us,546,45.60,-96.83,5434
-35506,Browns Valley,MN,,city-us,132,45.54,-96.71,2486
-35508,Browns Valley,CA,,city-us,0,39.24,-121.41,1665
-35509,Browns Valley,IN,,city-us,0,39.90,-86.99,468
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26948,Marion Station,MD,Somerset County,,city-us,0,38.039,-75.771,6257
+27999,Merion Station,PA,Montgomery County,,city-us,0,39.993,-75.251,8563

@@ -1,18 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16562,Kent,WA,,city-us,134835,47.38,-122.23,19106
-16560,Kent,OH,,city-us,27751,41.15,-81.36,57878
-16559,Kent,NY,,city-us,12922,41.46,-73.72,7864
-16553,Kent,CT,,city-us,2984,41.73,-73.45,7463
-16555,Kent,IL,,city-us,79,42.31,-89.90,1464
-16557,Kent,MN,,city-us,64,46.44,-96.68,2805
-16568,Kent,TX,,city-us,60,31.07,-104.22,1418
-16558,Kent,ND,,city-us,26,46.07,-98.30,0
-16561,Kent,SD,,city-us,26,45.29,-98.92,0
-16554,Kent,IA,,city-us,0,40.95,-94.45,1893
-16556,Kent,IN,,city-us,0,38.74,-85.54,856
-16563,Kent,AL,,city-us,0,32.62,-85.95,260
-16564,Kent,AL,,city-us,0,31.95,-86.17,112
-16565,Kent,FL,,city-us,0,30.52,-81.97,213
-16566,Kent,KS,,city-us,0,38.04,-97.81,390
-16567,Kent,OR,,city-us,0,45.20,-120.69,950
-16569,Kent,WV,,city-us,0,39.77,-80.86,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9349,Collins,NY,Erie County,,city-us,5895,42.492,-78.868,5653
+9347,Collins,MS,Covington County,,city-us,2242,31.645,-89.555,9729
+9356,Collins,GA,Tattnall County,,city-us,518,32.181,-82.109,2423
+9355,Collins,IA,Story County,,city-us,511,41.903,-93.306,3834
+9350,Collins,OH,Huron County,,city-us,458,41.259,-82.491,1147
+9352,Collins,MN,McLeod County,,city-us,435,44.762,-94.436,1798
+9351,Collins,WI,Manitowoc County,,city-us,221,44.086,-87.983,876
+9346,Collins,SD,Clark County,,city-us,181,44.587,-97.675,0
+9348,Collins,AR,Drew County,,city-us,149,33.532,-91.565,493
+9354,Collins,MO,St. Clair County,,city-us,127,37.891,-93.623,3108
+9353,Collins,CA,Napa County,,city-us,0,38.166,-122.252,270
+9357,Collins,IN,Whitley County,,city-us,0,41.197,-85.387,686

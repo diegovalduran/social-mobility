@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38816,Frontier,MI,,city-us,1421,41.78,-84.65,2965
-38815,Frontier,ND,,city-us,194,46.80,-96.83,3204
-38817,Frontier,MN,,city-us,0,48.66,-94.26,600
-38818,Frontier,WY,,city-us,0,41.81,-110.54,343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31765,Oak Hills,OR,Washington County,,city-us,11903,45.541,-122.841,3075
+31764,Oak Hills,CA,San Bernardino County,,city-us,9123,34.383,-117.381,2669
+31761,Oak Hills,PA,Butler County,,city-us,2283,40.825,-79.913,2326
+31762,Oak Hills,IA,Des Moines County,,city-us,144,40.760,-91.148,347
+31763,Oak Hills,CA,Monterey County,,city-us,0,36.778,-121.716,319

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40754,Beallsville,PA,,city-us,390,40.07,-80.02,2212
-40753,Beallsville,OH,,city-us,350,39.85,-81.04,4252
-40755,Bealsville,FL,,city-us,0,27.95,-82.08,698
-40756,Beallsville,MD,,city-us,0,39.18,-77.41,4344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34968,Popple,MI,Huron County,,city-us,1954,43.807,-83.051,2920
+34967,Popple,MN,Clearwater County,,city-us,535,47.542,-95.487,1986

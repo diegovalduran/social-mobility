@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34100,Brant,MI,,city-us,2012,43.26,-84.22,2734
-34102,Brant,NY,,city-us,1915,42.59,-79.02,5292
-34104,Brandt,SD,,city-us,137,44.67,-96.70,3253
-34101,Brandt,MN,,city-us,49,48.07,-96.57,1717
-34103,Brandt,OH,,city-us,0,39.90,-84.09,1170
-34105,Brant,WI,,city-us,0,44.07,-88.20,361
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25356,Lockville,NC,Chatham County,,city-us,0,35.621,-79.092,165
+25357,Lockville,OH,Fairfield County,,city-us,0,39.819,-82.734,294

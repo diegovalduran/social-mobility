@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34846,Monitor,MI,,city-us,10612,43.61,-83.99,2814
-34847,Monitor,IN,,city-us,0,40.42,-86.76,566
-34848,Monitor,KY,,city-us,0,38.65,-85.27,209
-34849,Monitor,OR,,city-us,0,45.10,-122.75,1226
-34850,Monitor,WA,,city-us,0,47.49,-120.42,2810
-34851,Monitor,WV,,city-us,0,37.79,-82.05,186
-34852,Monitor,WV,,city-us,0,37.66,-80.49,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26052,Luverne,MN,Rock County,,city-us,4934,43.654,-96.213,10910
+26051,Luverne,AL,Crenshaw County,,city-us,2680,31.717,-86.264,6296
+26053,Luverne,ND,Steele County,,city-us,26,47.251,-97.935,5015

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18706,Tice,FL,,city-us,5200,26.67,-81.82,2442
-18707,Tice,IL,,city-us,0,39.99,-89.79,120
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10826,Dahlgren,VA,King George County,,city-us,3448,38.331,-77.051,4503
+10825,Dahlgren,IL,Hamilton County,,city-us,498,38.198,-88.684,9741
+10824,Dahlgren,MN,Carver County,,city-us,0,44.777,-93.684,197

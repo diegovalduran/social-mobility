@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22821,Persia,NY,,city-us,2181,42.42,-78.92,4961
-22820,Persia,IA,,city-us,298,41.58,-95.57,3551
-22822,Persia,TN,,city-us,0,36.34,-83.00,527
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13802,Ensenada,,,Mexico,city-international,557430,31.858,-116.606,23565
+13801,Ensenada,NM,Rio Arriba County,,city-us,285,36.727,-106.533,1530

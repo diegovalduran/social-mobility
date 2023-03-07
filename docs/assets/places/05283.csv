@@ -1,3 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35624,Corliss,MN,,city-us,624,46.68,-95.47,1893
-35625,Corliss,WV,,city-us,0,38.03,-80.87,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27111,Martinsburg,WV,Berkeley County,,city-us,18835,39.456,-77.964,19245
+27112,Martinsburg,PA,Blair County,,city-us,1855,40.311,-78.324,2117
+27116,Martinsburg,NY,Lewis County,,city-us,1316,43.726,-75.540,3746
+27117,Martinsburg,IL,Pike County,,city-us,373,39.532,-90.859,273
+27110,Martinsburg,MO,Audrain County,,city-us,255,39.102,-91.648,3295
+27115,Martinsburg,OH,Knox County,,city-us,225,40.270,-82.354,2987
+27118,Martinsburg,MN,Renville County,,city-us,156,44.673,-94.691,1819
+27114,Martinsburg,IA,Keokuk County,,city-us,110,41.179,-92.252,4047
+27113,Martinsburg,NE,Dixon County,,city-us,78,42.508,-96.831,3094
+27119,Martinsburg,IN,Washington County,,city-us,0,38.444,-86.026,355

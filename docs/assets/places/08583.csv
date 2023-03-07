@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45870,Munger,MI,,city-us,1441,43.52,-83.75,2695
-45871,Munger,MN,,city-us,30,46.80,-92.34,1012
-45868,Munger,IL,,city-us,0,41.96,-88.22,385
-45869,Munger,IL,,city-us,0,39.76,-91.32,356
-45872,Munger,MO,,city-us,0,37.60,-90.80,564
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43115,Topeka,IN,LaGrange County,,city-us,1206,41.539,-85.540,3354
+43118,Topeka,KS,Shawnee County,,city-us,723,38.978,-95.661,29209
+43117,Topeka,IL,Mason County,,city-us,57,40.330,-89.931,1590
+43116,Topeka,MS,Lawrence County,,city-us,0,31.415,-90.188,332

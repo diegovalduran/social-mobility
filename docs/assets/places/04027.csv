@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30191,Preble,NY,,city-us,1350,42.74,-76.13,3820
-30190,Preble,MN,,city-us,213,43.63,-91.79,1785
-30189,Preble,IN,,city-us,0,40.83,-85.01,328
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20713,Hopkinton,RI,Washington County,,city-us,8462,41.479,-71.758,4559
+20710,Hopkinton,NH,Merrimack County,,city-us,6036,43.202,-71.697,7879
+20711,Hopkinton,MA,Middlesex County,,city-us,3567,42.229,-71.523,25231
+20712,Hopkinton,NY,St. Lawrence County,,city-us,1104,44.537,-74.661,4481
+20709,Hopkinton,IA,Delaware County,,city-us,627,42.344,-91.248,3937

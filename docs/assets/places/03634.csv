@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28046,Ringwood,NJ,,city-us,11568,41.11,-74.25,18997
-28045,Ringwood,IL,,city-us,838,42.39,-88.30,3480
-28047,Ringwood,OK,,city-us,399,36.38,-98.25,1983
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18425,Haines,PA,Centre County,,city-us,1644,40.899,-77.371,2150
+18426,Haines,AK,Haines Borough,,city-us,1571,59.229,-135.444,14391
+18427,Haines,IL,Marion County,,city-us,863,38.519,-88.865,700
+19402,Haynes,MI,Alcona County,,city-us,662,44.723,-83.349,2949
+18424,Haines,OR,Baker County,,city-us,380,44.912,-117.939,3343
+19405,Haynes,AR,Lee County,,city-us,120,34.891,-90.792,2074
+19404,Haynes,ND,Kidder County,,city-us,25,47.025,-99.925,2770
+19401,Haynes,ND,Adams County,,city-us,16,45.974,-102.471,2770
+19403,Haynes,OH,Hocking County,,city-us,0,39.435,-82.679,282

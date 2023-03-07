@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43245,Worthen,SD,,city-us,113,43.55,-97.90,0
-43246,Worthen,AR,,city-us,0,35.24,-93.02,224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38681,Santa Rita,,,Venezuela,city-international,169158,10.200,-67.551,173
+38680,Santa Rita,,,Brazil,city-international,134940,-7.114,-34.978,1951
+38679,Santa Rita,MT,Glacier County,,city-us,38,48.701,-112.320,340

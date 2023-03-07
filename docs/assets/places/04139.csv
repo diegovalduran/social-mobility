@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30683,Calvin,MI,,city-us,1996,41.86,-85.92,2829
-30685,Calvin,OK,,city-us,319,34.97,-96.25,3758
-30682,Calvin,LA,,city-us,236,31.97,-92.78,1833
-30681,Calvin,KS,,city-us,49,39.71,-98.21,682
-30684,Calvin,ND,,city-us,14,48.85,-98.94,2729
-30686,Calvin,KY,,city-us,0,36.72,-83.62,408
-30687,Calvin,PA,,city-us,0,40.34,-78.03,217
-30688,Calvin,VA,,city-us,0,36.85,-82.94,259
-30689,Calvin,WV,,city-us,0,38.34,-80.71,214
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21313,Indian Heights,WI,Dane County,,city-us,0,42.852,-89.018,198
+21314,Indian Heights,WI,Juneau County,,city-us,0,43.686,-89.831,299

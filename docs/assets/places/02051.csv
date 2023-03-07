@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18135,Lake Lorraine,FL,,city-us,7283,30.44,-86.57,3365
-18136,Lake Lorraine,WI,,city-us,284,42.73,-88.74,160
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10340,Crest,CA,San Diego County,,city-us,2776,32.807,-116.868,4494
+10339,Crest,MO,Benton County,,city-us,0,38.450,-93.135,187
+10341,Crest,GA,Upson County,,city-us,0,32.932,-84.445,79

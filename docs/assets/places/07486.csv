@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42762,Wolf,PA,,city-us,3090,41.26,-76.73,5129
-42766,Wolf,MN,,city-us,20,47.45,-92.61,301
-42763,Wolf,CA,,city-us,0,39.06,-121.14,2202
-42764,Wolff,IN,,city-us,0,39.43,-86.40,153
-42765,Wolf,KS,,city-us,0,38.03,-101.10,169
-42767,Wolf,OH,,city-us,0,40.32,-81.57,417
-42768,Wolf,OK,,city-us,0,35.09,-96.66,482
-42769,Wolfe,WV,,city-us,0,37.31,-81.33,270
-42770,Wolf,WY,,city-us,0,44.77,-107.24,317
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38038,Ruthville,ND,Ward County,,city-us,151,48.372,-101.299,294
+38037,Ruthville,VA,Charles City County,,city-us,0,37.367,-77.041,568

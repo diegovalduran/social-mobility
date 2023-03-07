@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31537,Oberlin,OH,,city-us,8249,41.29,-82.22,16663
-31536,Oberlin,LA,,city-us,1351,30.62,-92.76,2432
-31538,Oberlin,PA,,city-us,415,40.24,-76.81,345
-31535,Oberlin,KS,,city-us,74,39.77,-100.58,408
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22263,Johnsville,KY,Bracken County,,city-us,0,38.753,-84.148,255
+22264,Johnsville,AR,Bradley County,,city-us,0,33.373,-92.016,150
+22265,Johnsville,MD,Frederick County,,city-us,0,39.534,-77.231,2547
+22266,Johnsville,OH,Morrow County,,city-us,0,40.621,-82.662,409
+22267,Johnsville,CA,Plumas County,,city-us,0,39.761,-120.695,3882

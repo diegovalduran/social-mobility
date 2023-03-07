@@ -1,15 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33431,Klondike,MD,,city-us,162,39.61,-78.96,477
-33432,Klondike,GA,,city-us,0,33.65,-84.13,143
-33433,Klondike,GA,,city-us,0,34.20,-83.78,170
-33434,Klondike,IL,,city-us,0,37.06,-89.23,187
-33435,Klondike,IN,,city-us,0,40.47,-86.96,490
-33436,Klondike,KS,,city-us,0,37.37,-94.76,231
-33437,Klondike,MO,,city-us,0,38.58,-90.84,494
-33438,Klondike,OR,,city-us,0,45.58,-120.61,630
-33439,Klondike,PA,,city-us,0,41.86,-78.80,212
-33440,Klondike,TX,,city-us,0,32.56,-101.96,219
-33441,Klondike,TX,,city-us,0,33.33,-95.76,2108
-33442,Klondike,WV,,city-us,0,39.63,-80.29,93
-33443,Klondike,WI,,city-us,0,42.59,-88.12,708
-33444,Klondike,WI,,city-us,0,45.07,-88.16,307
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24362,Leggett,TX,Polk County,,city-us,500,30.818,-94.870,752
+24361,Leggett,CA,Mendocino County,,city-us,45,39.866,-123.714,3868
+24360,Leggett,NC,Edgecombe County,,city-us,38,35.991,-77.583,2469

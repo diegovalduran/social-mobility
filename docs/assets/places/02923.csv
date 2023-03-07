@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23725,Ferdinand,IN,,city-us,2204,38.22,-86.86,4518
-23724,Ferdinand,ID,,city-us,136,46.15,-116.39,4641
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14689,Farnham,NY,Erie County,,city-us,366,42.594,-79.091,2396
+14687,Farnam,NE,Dawson County,,city-us,179,40.706,-100.215,3325
+14690,Farnham,VA,Richmond County,,city-us,0,37.885,-76.625,1410

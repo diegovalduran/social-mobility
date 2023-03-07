@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35931,Hewitt,TX,,city-us,16131,31.46,-97.20,3946
-35930,Hewitt,NJ,,city-us,1912,41.14,-74.31,431
-35934,Hewitt,WI,,city-us,792,44.64,-90.10,3301
-35933,Hewitt,WI,,city-us,637,45.08,-89.42,1778
-35932,Hewett,WI,,city-us,294,44.55,-90.74,1870
-35929,Hewitt,MN,,city-us,246,46.33,-95.09,3134
-35935,Hewitt,NC,,city-us,0,35.31,-83.65,291
-35936,Hewitt,OK,,city-us,0,34.17,-97.40,117
-35937,Hewett,WV,,city-us,0,37.96,-81.85,231
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27491,McCune,KS,Crawford County,,city-us,372,37.355,-95.017,3857
+27492,McCune,MO,Pike County,,city-us,0,39.406,-91.246,510

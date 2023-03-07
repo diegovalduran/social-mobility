@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41269,West Logan,OH,,city-us,657,39.54,-82.43,785
-41270,West Logan,WV,,city-us,391,37.87,-81.99,3649
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36028,Reagan,OK,Johnston County,,city-us,67,34.349,-96.722,250
+35753,Ragan,NE,Harlan County,,city-us,24,40.310,-99.290,2768
+36025,Reagan,IN,Clinton County,,city-us,0,40.192,-86.509,175
+36026,Reagan,TX,Falls County,,city-us,0,31.218,-96.783,1306
+36027,Reagan,TN,Henderson County,,city-us,0,35.522,-88.343,266
+36029,Reagan,TN,McMinn County,,city-us,0,35.551,-84.514,83

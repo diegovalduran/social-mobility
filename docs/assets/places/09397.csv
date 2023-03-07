@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47819,Wamba,,Congo (Kinshasa),city-international,146871,2.14,27.99,1195
-47818,Wamba,TX,,city-us,0,33.51,-94.13,895
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47475,Wood Lake,ND,Benson County,,city-us,470,47.897,-98.822,232
+47478,Wood Lake,MN,Yellow Medicine County,,city-us,371,44.653,-95.538,156
+47476,Wood Lake,NE,Cherry County,,city-us,49,42.639,-100.238,3242
+47477,Wood Lake,LA,St. Bernard Parish,,city-us,0,29.808,-89.764,391

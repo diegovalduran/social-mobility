@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8761,Salado,TX,,city-us,2391,30.95,-97.54,5749
-8760,Salado,AR,,city-us,472,35.69,-91.60,569
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4070,Bisbee,AZ,Cochise County,,city-us,4911,31.448,-109.928,17154
+4072,Bisbee,ND,Towner County,,city-us,106,48.626,-99.378,4629
+4071,Bisbee,TX,Tarrant County,,city-us,0,32.609,-97.184,160

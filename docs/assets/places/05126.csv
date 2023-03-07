@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35003,Reese,MI,,city-us,1260,43.45,-83.69,9885
-35004,Reese,PA,,city-us,0,40.43,-78.30,405
-35005,Reece,KS,,city-us,0,37.80,-96.45,429
-35006,Reese,TX,,city-us,0,32.02,-95.39,5626
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26293,Macy,NE,Thurston County,,city-us,915,42.113,-96.356,2618
+26292,Macy,IN,Miami County,,city-us,202,40.959,-86.127,3524
+26291,Macy,IA,Hardin County,,city-us,0,42.539,-93.148,541

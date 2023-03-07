@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36281,Normanna,MN,,city-us,766,46.99,-91.96,2746
-36282,Normanna,ND,,city-us,353,46.67,-96.99,0
-36283,Normanna,TX,,city-us,80,28.53,-97.78,2285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28005,Merriam,KS,Johnson County,,city-us,11017,39.024,-94.694,5039
+28006,Merriam,IN,Noble County,,city-us,0,41.287,-85.434,410

@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4342,Pea Ridge,AR,,city-us,7140,36.45,-94.12,17813
-4345,Pea Ridge,WV,,city-us,6783,38.41,-82.32,2532
-4343,Pea Ridge,FL,,city-us,4190,30.60,-87.10,356
-4341,Pea Ridge,AL,,city-us,971,33.15,-86.93,594
-4344,Pea Ridge,IL,,city-us,189,40.06,-90.86,2259
-4346,Pea Ridge,AR,,city-us,0,33.92,-91.34,171
-4347,Pea Ridge,NC,,city-us,0,35.96,-76.48,261
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1937,Augsburg,,,Germany,city-international,295830,48.372,10.898,36429
+1935,Augsburg,MN,Marshall County,,city-us,68,48.500,-96.715,1795
+1934,Augsburg,IL,Fayette County,,city-us,0,38.867,-89.013,181
+1936,Augsburg,AR,Pope County,,city-us,0,35.414,-93.238,1407

@@ -1,3 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34905,Oceola,MI,,city-us,14717,42.65,-83.86,2238
-34906,Oceola,OH,,city-us,179,40.84,-83.09,455
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26179,Lyon,,,France,city-international,518635,45.760,4.840,39690
+26176,Lyon,MI,Oakland County,,city-us,23669,42.484,-83.603,4474
+26177,Lyon,MI,Roscommon County,,city-us,1264,44.467,-84.792,205
+26169,Lyon,KS,Cherokee County,,city-us,319,37.054,-94.877,356
+26171,Lyon,MS,Coahoma County,,city-us,283,34.218,-90.542,2793
+26175,Lyon,KS,Geary County,,city-us,276,38.923,-96.862,440
+26173,Lyon,KS,Dickinson County,,city-us,212,38.649,-96.988,399
+26170,Lyon,KS,Cloud County,,city-us,102,39.372,-97.763,486
+26168,Lyon,SD,Brule County,,city-us,29,43.906,-99.015,0
+26178,Lyon,ND,Stutsman County,,city-us,18,47.195,-98.785,0
+26172,Lyon,KS,Decatur County,,city-us,13,39.611,-100.348,282
+26174,Lyon,MO,Franklin County,,city-us,0,38.512,-91.174,239

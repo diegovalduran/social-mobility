@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28789,Vergennes,MI,,city-us,4804,42.98,-85.38,3508
-28790,Vergennes,VT,,city-us,2559,44.17,-73.25,6750
-28788,Vergennes,IL,,city-us,671,37.91,-89.32,1061
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19246,Hatch,NM,Do��a Ana County,,city-us,1552,32.665,-107.153,4217
+19247,Hatch,UT,Garfield County,,city-us,136,37.650,-112.434,2563
+19245,Hatch,ID,Caribou County,,city-us,0,42.819,-111.852,434
+19248,Hatch,MO,Ralls County,,city-us,0,39.589,-91.618,274

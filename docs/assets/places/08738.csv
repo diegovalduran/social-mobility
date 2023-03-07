@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46270,Hemenway,IN,,city-us,0,38.20,-87.13,312
-46271,Hemenway,MO,,city-us,0,36.55,-90.65,414
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43843,Union Center,WI,Juneau County,,city-us,221,43.685,-90.267,3111
+43842,Union Center,KS,Elk County,,city-us,101,37.526,-96.426,501
+43841,Union Center,IL,Cumberland County,,city-us,0,39.333,-88.081,135
+43844,Union Center,IN,LaPorte County,,city-us,0,41.484,-86.640,145
+43845,Union Center,SD,Meade County,,city-us,0,44.563,-102.664,545

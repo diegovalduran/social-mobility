@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28027,Ridgewood,NJ,,city-us,26202,40.98,-74.12,36079
-28026,Ridgewood,IL,,city-us,2879,41.54,-88.04,379
-28028,Ridgewood,OH,,city-us,482,39.19,-84.43,462
-28029,Ridgewood,FL,,city-us,0,29.63,-81.84,1129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18422,Hailey,ID,Blaine County,,city-us,9463,43.520,-114.315,9719
+18445,Haley,ND,Bowman County,,city-us,41,45.976,-103.052,134
+18444,Haley,TN,Bedford County,,city-us,0,35.488,-86.311,373

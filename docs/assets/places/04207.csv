@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31037,Glade,PA,,city-us,2022,41.87,-79.06,1795
-31036,Glade,KS,,city-us,52,39.68,-99.31,3126
-31038,Glade,OH,,city-us,0,39.01,-82.78,470
-31039,Glade,WV,,city-us,0,37.83,-81.00,172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21618,Isabelle,WI,Pierce County,,city-us,265,44.572,-92.412,1882
+21608,Isabel,IL,Fulton County,,city-us,171,40.307,-90.157,2668
+21606,Isabel,SD,Dewey County,,city-us,145,45.394,-101.430,3088
+21604,Isabel,KS,Barber County,,city-us,66,37.467,-98.550,2955
+21605,Isabel,ND,Benson County,,city-us,47,48.065,-99.653,130
+21607,Isabel,IL,Edgar County,,city-us,0,39.655,-87.950,302
+21609,Isabel,LA,Washington Parish,,city-us,0,30.675,-89.999,146

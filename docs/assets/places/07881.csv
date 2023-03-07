@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43995,Austinville,VA,,city-us,0,36.85,-80.91,602
-43996,Austinville,IA,,city-us,0,42.59,-92.96,475
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40322,Soo,MI,Chippewa County,,city-us,3004,46.276,-84.177,2598
+39956,Sioux,ND,McKenzie County,,city-us,151,47.913,-103.871,0
+40321,Soo,ND,Burke County,,city-us,32,48.943,-102.473,0
+39955,Sioux,WI,Bayfield County,,city-us,0,46.737,-90.880,505
+41808,Sue,WV,Greenbrier County,,city-us,0,37.956,-80.209,136

@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29744,Ingalls,IN,,city-us,2506,39.96,-85.81,3261
-29745,Ingalls,KS,,city-us,574,37.77,-100.55,360
-29746,Ingalls,OK,,city-us,192,36.10,-96.88,2446
-29747,Ingalls,AR,,city-us,0,33.38,-92.15,2390
-29748,Ingalls,MI,,city-us,0,45.38,-87.61,566
-29749,Ingalls,NC,,city-us,0,35.97,-82.01,296
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20149,Hillsville,VA,Carroll County,,city-us,2876,36.763,-80.735,8808
+20150,Hillsville,PA,Lawrence County,,city-us,0,41.008,-80.497,672

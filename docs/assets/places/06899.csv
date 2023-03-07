@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40837,Dorset,VT,,city-us,470,43.25,-73.10,9063
-40836,Dorset,OH,,city-us,0,41.68,-80.67,457
-40838,Dorset,MN,,city-us,0,46.96,-94.95,1567
-40839,Dorset,VA,,city-us,0,37.47,-77.81,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35114,Post,TX,Garza County,,city-us,4791,33.191,-101.378,7721
+35113,Post,OR,Crook County,,city-us,0,44.157,-120.491,854

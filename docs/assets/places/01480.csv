@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14193,San Fernando,,Venezuela,city-international,194274,7.89,-67.47,2469
-14192,San Fernando,,Philippines,city-international,125640,16.62,120.32,2469
-14190,San Fernando,CA,,city-us,23726,34.28,-118.44,11888
-14191,San Fernando,TX,,city-us,0,26.40,-98.84,377
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7412,Cedar Crest,MA,Plymouth County,,city-us,2838,42.077,-70.666,1183
+7408,Cedar Crest,NM,Bernalillo County,,city-us,796,35.108,-106.373,2116
+7410,Cedar Crest,OK,Mayes County,,city-us,232,36.113,-95.229,1950
+7411,Cedar Crest,PA,Mifflin County,,city-us,117,40.397,-77.886,257
+7409,Cedar Crest,CA,Fresno County,,city-us,0,37.245,-119.201,283

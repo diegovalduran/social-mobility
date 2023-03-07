@@ -1,8 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32638,Forest Hill,MD,,city-us,18670,39.59,-76.39,883
-32636,Forest Hill,TX,,city-us,13818,32.67,-97.27,4624
-32639,Forest Hill,MI,,city-us,2451,43.42,-84.66,2159
-32635,Forest Hill,LA,,city-us,599,31.04,-92.53,3464
-32637,Forest Hill,IN,,city-us,0,39.26,-85.61,287
-32640,Forest Hill,OK,,city-us,0,34.93,-94.62,89
-32641,Forest Hill,WV,,city-us,0,37.57,-80.79,353
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23386,La Prairie,WI,Rock County,,city-us,792,42.629,-88.944,2324
+23384,La Prairie,MN,Itasca County,,city-us,665,47.228,-93.489,3102
+23383,La Prairie,MN,Clearwater County,,city-us,411,47.266,-95.468,1824
+23385,La Prairie,IL,Marshall County,,city-us,344,41.015,-89.575,377
+23387,La Prairie,SD,Spink County,,city-us,63,45.199,-98.314,0
+23382,La Prairie,IL,Adams County,,city-us,40,40.148,-91.003,1795

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15906,Seven Hills,OH,,city-us,11604,41.40,-81.68,3664
-15905,Seven Hills,CO,,city-us,137,40.03,-105.31,1339
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8988,Clopton,AL,Dale County,,city-us,0,31.609,-85.430,814
+8989,Clopton,VA,Gloucester County,,city-us,0,37.346,-76.540,94
+8990,Clopton,VA,Richmond County,,city-us,0,37.475,-77.446,91

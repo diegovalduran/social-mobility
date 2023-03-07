@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35188,Vanderbilt,MI,,city-us,518,45.14,-84.66,4193
-35189,Vanderbilt,PA,,city-us,408,40.03,-79.66,2103
-35190,Vanderbilt,TX,,city-us,395,28.82,-96.62,2847
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26560,Mandan,ND,Morton County,,city-us,24447,46.827,-100.890,17796
+26561,Mandan,ND,Ward County,,city-us,59,48.248,-101.718,17796
+26559,Mandan,MI,Keweenaw County,,city-us,0,47.425,-88.016,640

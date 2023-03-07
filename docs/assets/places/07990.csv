@@ -1,5 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44314,Bowler,WI,,city-us,315,44.86,-88.98,3598
-44315,Bowler,MT,,city-us,0,45.20,-108.72,546
-44316,Bowler,VA,,city-us,0,37.28,-78.70,104
-44317,Bolar,VA,,city-us,0,38.22,-79.68,342
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40384,South Haven,IN,Porter County,,city-us,4717,41.542,-87.137,2715
+40386,South Haven,MI,Van Buren County,,city-us,4049,42.363,-86.259,3080
+40383,South Haven,MI,Allegan County / Van Buren County,,city-us,4038,42.401,-86.268,10348
+40385,South Haven,KS,Sumner County,,city-us,536,37.064,-97.419,3879
+40388,South Haven,MN,Wright County,,city-us,185,45.292,-94.212,3482
+40387,South Haven,IN,Wabash County,,city-us,0,40.784,-85.829,205

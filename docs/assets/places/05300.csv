@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35679,Delafield,WI,,city-us,8157,43.05,-88.35,4998
-35678,Delafield,MN,,city-us,230,43.80,-95.14,2090
-35680,Delafield,IL,,city-us,0,38.15,-88.60,350
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27201,Massac,KY,McCracken County,,city-us,4523,37.017,-88.731,1991
+27202,Massack,CA,Plumas County,,city-us,0,39.926,-120.838,321

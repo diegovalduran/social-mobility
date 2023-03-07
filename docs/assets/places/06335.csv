@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39179,Tacoma,WA,,city-us,219205,47.25,-122.44,44848
-39178,Tacoma,VA,,city-us,204,36.94,-82.53,212
-39177,Tacoma,ND,,city-us,66,48.67,-100.85,138
-39180,Tacoma,OH,,city-us,0,40.00,-81.15,271
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32333,Opelika,AL,Lee County,,city-us,31538,32.645,-85.378,15868
+32332,Opelika,TX,Henderson County,,city-us,0,32.297,-95.674,838

@@ -1,3 +1,28 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47847,Apolonia,TX,,city-us,0,30.49,-95.91,292
-47848,Apollonia,WI,,city-us,0,45.45,-91.30,184
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47570,Woodland,CA,Yolo County,,city-us,61398,38.679,-121.773,25058
+47551,Woodland,WA,Clark County / Cowlitz County,,city-us,6540,45.918,-122.754,11092
+47547,Woodland,NJ,Burlington County,,city-us,1551,39.841,-74.518,11202
+47545,Woodland,ME,Aroostook County,,city-us,1198,46.884,-68.120,3446
+47569,Woodland,MN,Wright County,,city-us,1161,45.012,-93.962,2199
+47568,Woodland,ME,Washington County,,city-us,1035,45.157,-67.405,3079
+47562,Woodland,WI,Sauk County,,city-us,845,43.600,-90.253,2172
+47560,Woodland,NC,Northampton County,,city-us,545,36.332,-77.213,2483
+47546,Woodland,MI,Barry County,,city-us,417,42.727,-85.134,3607
+47556,Woodland,MN,Hennepin County,,city-us,391,44.947,-93.504,3302
+47555,Woodland,IL,Fulton County,,city-us,332,40.228,-90.275,222
+47566,Woodland,GA,Talbot County,,city-us,302,32.787,-84.562,2050
+47548,Woodland,IL,Carroll County,,city-us,295,42.153,-90.037,222
+47564,Woodland,UT,Summit County,,city-us,275,40.581,-111.227,1830
+47557,Woodland,IL,Iroquois County,,city-us,244,40.714,-87.731,2001
+47561,Woodland,AL,Randolph County,,city-us,222,33.374,-85.400,2626
+47549,Woodland,MS,Chickasaw County,,city-us,112,33.779,-89.051,2986
+47550,Woodland,SD,Clark County,,city-us,53,45.022,-97.820,0
+47544,Woodland,MD,Allegany County,,city-us,17,39.608,-78.951,473
+47552,Woodland,PA,Clearfield County,,city-us,0,40.998,-78.341,224
+47553,Woodland,IA,Decatur County,,city-us,0,40.696,-93.598,262
+47554,Woodland,WI,Dodge County,,city-us,0,43.370,-88.519,268
+47558,Woodland,MN,Kanabec County,,city-us,0,46.116,-93.284,595
+47559,Woodland,MO,Marion County,,city-us,0,39.753,-91.594,256
+47563,Woodland,IN,St. Joseph County,,city-us,0,41.564,-86.177,311
+47565,Woodland,DE,Sussex County,,city-us,0,38.600,-75.658,298
+47567,Woodland,OH,Union County,,city-us,0,40.479,-83.257,457

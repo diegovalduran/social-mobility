@@ -1,9 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4195,Northport,AL,,city-us,31009,33.23,-87.58,5299
-4198,Northport,NY,,city-us,7344,40.90,-73.34,14029
-4196,Northport,ME,,city-us,1582,44.36,-68.99,4455
-4197,Northport,MI,,city-us,493,45.13,-85.62,8748
-4200,Northport,WI,,city-us,453,44.41,-88.79,270
-4199,Northport,WA,,city-us,293,48.92,-117.78,11280
-4201,Northport,NE,,city-us,0,41.68,-103.09,393
-4202,Northport,WI,,city-us,0,45.29,-86.98,367
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1855,Attica,KS,Sedgwick County,,city-us,7710,37.698,-97.545,141
+1857,Attica,NY,Wyoming County,,city-us,5645,42.821,-78.246,3804
+1848,Attica,IN,Fountain County,,city-us,3100,40.294,-87.249,2574
+1849,Attica,NY,Genesee County / Wyoming County,,city-us,2493,42.864,-78.280,3804
+1853,Attica,MI,Lapeer County,,city-us,962,43.030,-83.166,1552
+1856,Attica,OH,Seneca County,,city-us,875,41.065,-82.888,3617
+1851,Attica,KS,Harper County,,city-us,506,37.241,-98.227,4497
+1850,Attica,WI,Green County,,city-us,0,42.770,-89.481,479
+1852,Attica,GA,Jackson County,,city-us,0,34.019,-83.492,159
+1854,Attica,IA,Marion County,,city-us,0,41.230,-93.016,260

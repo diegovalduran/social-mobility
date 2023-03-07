@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7581,Kirby,TX,,city-us,8100,29.46,-98.39,8390
-7586,Kerby,MI,,city-us,4475,42.99,-84.13,2707
-7578,Kirby,AR,,city-us,719,34.25,-93.64,780
-7580,Kerby,OR,,city-us,628,42.19,-123.65,2957
-7582,Kirby,VT,,city-us,579,44.51,-71.92,3180
-7579,Kirby,OH,,city-us,120,40.81,-83.42,2875
-7583,Kirby,WY,,city-us,75,43.80,-108.18,3285
-7584,Curby,IN,,city-us,0,38.29,-86.38,398
-7585,Kirby,IN,,city-us,0,39.14,-86.61,219
-7587,Kirby,MO,,city-us,0,39.85,-92.11,234
-7588,Kirby,MT,,city-us,0,45.33,-106.98,691
-7589,Kirby,WV,,city-us,0,39.18,-78.73,404
-7590,Kirby,WI,,city-us,0,44.09,-90.54,111
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3438,Benevola,AL,Pickens County,,city-us,0,33.141,-88.039,200
+3439,Benevola,MD,Washington County,,city-us,0,39.546,-77.676,88

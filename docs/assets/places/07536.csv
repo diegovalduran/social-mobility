@@ -1,3 +1,74 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42948,Tigerville,SC,,city-us,2025,35.07,-82.37,833
-42949,Tigerville,LA,,city-us,0,30.04,-90.54,211
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38288,Salem,,,India,city-international,693236,11.650,78.167,19475
+38251,Salem,OR,Marion County / Polk County,,city-us,177723,44.924,-123.023,29993
+38235,Salem,MA,Essex County,,city-us,44819,42.520,-70.897,54986
+38265,Salem,NH,Rockingham County,,city-us,30542,42.788,-71.222,9805
+38267,Salem,VA,Salem city,,city-us,25373,37.293,-80.055,7723
+38229,Salem,OH,Columbiana County / Mahoning County,,city-us,11825,40.905,-80.849,10875
+38279,Salem,UT,Utah County,,city-us,9831,40.053,-111.674,3842
+38270,Salem,KS,Sedgwick County,,city-us,9481,37.510,-97.318,140
+38250,Salem,IL,Marion County,,city-us,8997,38.609,-88.973,364
+38246,Salem,AL,Lee County,,city-us,6428,32.597,-85.239,1895
+38281,Salem,IN,Washington County,,city-us,6267,38.606,-86.101,10464
+38286,Salem,PA,Westmoreland County,,city-us,6040,40.419,-79.521,320
+38284,Salem,MI,Washtenaw County,,city-us,5627,42.400,-83.600,4393
+38280,Salem,OH,Warren County,,city-us,5328,39.355,-84.120,607
+38268,Salem,NJ,Salem County,,city-us,5297,39.572,-75.467,18922
+38260,Salem,OH,Ottawa County,,city-us,5283,41.498,-83.118,607
+38217,Salem,MI,Allegan County,,city-us,5192,42.719,-85.851,201
+38228,Salem,OH,Columbiana County,,city-us,5081,40.850,-80.798,607
+38232,Salem,MO,Dent County,,city-us,4571,37.646,-91.536,5948
+38272,Salem,CT,Southeastern Connecticut Planning Region,,city-us,4200,41.489,-72.258,13120
+38285,Salem,PA,Wayne County,,city-us,4107,41.398,-75.372,320
+38249,Salem,PA,Luzerne County,,city-us,4023,41.106,-76.184,320
+38244,Salem,OH,Jefferson County,,city-us,2773,40.430,-80.804,607
+38225,Salem,OH,Champaign County,,city-us,2484,40.183,-83.725,607
+38234,Salem,MO,Dunklin County,,city-us,2419,36.108,-90.185,282
+38269,Salem,AR,Saline County,,city-us,2238,34.629,-92.558,2602
+38271,Salem,OH,Shelby County,,city-us,2071,40.364,-84.066,607
+38276,Salem,OH,Tuscarawas County,,city-us,1582,40.330,-81.551,607
+38222,Salem,NC,Burke County,,city-us,1573,35.699,-81.697,3151
+38238,Salem,AR,Fulton County,,city-us,1562,36.371,-91.823,7488
+38240,Salem,WV,Harrison County,,city-us,1470,39.283,-80.559,5797
+38259,Salem,MN,Olmsted County,,city-us,1092,43.977,-92.614,197
+38283,Salem,OH,Washington County,,city-us,1049,39.555,-81.411,607
+38253,Salem,OH,Meigs County,,city-us,952,39.075,-82.247,607
+38287,Salem,OH,Wyandot County,,city-us,933,40.869,-83.352,607
+38245,Salem,IL,Knox County,,city-us,927,40.746,-90.057,364
+38256,Salem,OH,Muskingum County,,city-us,904,40.045,-81.870,607
+38227,Salem,PA,Clarion County,,city-us,901,41.223,-79.621,320
+38282,Salem,NY,Washington County,,city-us,893,43.172,-73.328,5421
+38255,Salem,OH,Monroe County,,city-us,814,39.766,-80.896,607
+38242,Salem,OH,Highland County,,city-us,810,39.152,-83.816,607
+38254,Salem,PA,Mercer County,,city-us,748,41.454,-80.299,320
+38233,Salem,NM,Do��a Ana County,,city-us,716,32.708,-107.213,2058
+38248,Salem,KY,Livingston County,,city-us,705,37.264,-88.244,2199
+38262,Salem,WI,Pierce County,,city-us,475,44.623,-92.358,2024
+38237,Salem,NE,Franklin County,,city-us,474,40.307,-99.010,3165
+38231,Salem,MO,Daviess County,,city-us,470,40.095,-94.039,121
+38219,Salem,OH,Auglaize County,,city-us,461,40.656,-84.398,607
+38241,Salem,IA,Henry County,,city-us,405,40.853,-91.620,5635
+38223,Salem,IL,Carroll County,,city-us,363,42.071,-89.924,364
+38278,Salem,GA,Upson County,,city-us,351,32.759,-84.188,2392
+38230,Salem,KS,Cowley County,,city-us,318,37.337,-96.887,402
+38252,Salem,SD,McCook County,,city-us,306,43.713,-97.434,5043
+38218,Salem,KS,Allen County,,city-us,246,37.822,-95.307,452
+38275,Salem,SD,Turner County,,city-us,131,43.213,-97.339,5043
+38258,Salem,SC,Oconee County,,city-us,120,34.890,-82.977,2365
+38224,Salem,MN,Cass County,,city-us,118,47.208,-93.996,197
+38264,Salem,NE,Richardson County,,city-us,83,40.076,-95.721,3165
+38239,Salem,KS,Greenwood County,,city-us,19,37.999,-96.418,396
+38216,Salem,IN,Adams County,,city-us,0,40.717,-84.853,386
+38220,Salem,TX,Bastrop County,,city-us,0,29.844,-97.329,1200
+38221,Salem,MS,Benton County,,city-us,0,34.852,-89.211,733
+38226,Salem,TX,Cherokee County,,city-us,0,31.760,-95.139,958
+38236,Salem,WV,Fayette County,,city-us,0,37.989,-81.115,128
+38243,Salem,IN,Jay County,,city-us,0,40.310,-84.843,154
+38247,Salem,MO,Lewis County,,city-us,0,40.029,-91.914,154
+38257,Salem,GA,Oconee County,,city-us,0,33.723,-83.386,287
+38261,Salem,VA,Page County,,city-us,0,38.644,-78.548,185
+38263,Salem,AR,Pike County,,city-us,0,34.311,-93.618,64
+38266,Salem,TN,Rutherford County,,city-us,0,35.809,-86.477,368
+38273,Salem,NC,Surry County,,city-us,0,36.538,-80.601,278
+38274,Salem,FL,Taylor County,,city-us,0,29.887,-83.413,226
+38277,Salem,IN,Union County,,city-us,0,39.604,-84.890,148

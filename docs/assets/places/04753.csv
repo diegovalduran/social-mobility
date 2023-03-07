@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33352,Forest Heights,MD,,city-us,2620,38.81,-77.00,7723
-33353,Forest Heights,TX,,city-us,0,30.24,-93.76,553
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24230,Leatherwood,IN,Parke County,,city-us,0,39.752,-87.285,341
+24231,Leatherwood,KY,Perry County,,city-us,0,37.033,-83.084,158
+24232,Leatherwood,TN,Wayne County,,city-us,0,35.394,-87.848,80

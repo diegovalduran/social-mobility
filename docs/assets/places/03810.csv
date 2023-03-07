@@ -1,12 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29156,Worth,IL,,city-us,149417,41.69,-87.74,199
-29157,Worth,IL,,city-us,8825,40.80,-89.44,199
-29158,Worth,MI,,city-us,3459,43.20,-82.58,3168
-29161,Worth,PA,,city-us,1376,41.00,-80.11,217
-29163,Worth,PA,,city-us,816,41.27,-80.05,217
-29162,Worth,PA,,city-us,728,40.82,-78.06,217
-29160,Worth,NY,,city-us,201,43.74,-75.84,3419
-29159,Worth,MO,,city-us,64,40.40,-94.44,3259
-29164,Worth,GA,,city-us,0,31.75,-83.68,286
-29165,Worth,WV,,city-us,0,37.41,-81.39,194
-29166,Werth,WV,,city-us,0,38.35,-80.75,166
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19500,Heath,OH,Licking County,,city-us,10538,40.023,-82.445,8876
+19499,Heath,TX,Kaufman County / Rockwall County,,city-us,10266,32.854,-96.464,1366
+19494,Heath,MI,Allegan County,,city-us,3969,42.644,-85.943,3079
+19497,Heath,MA,Franklin County,,city-us,726,42.693,-72.823,8352
+19495,Heath,AL,Covington County,,city-us,238,31.361,-86.470,1821
+19498,Heath,PA,Jefferson County,,city-us,116,41.329,-79.013,4798
+19496,Heath,MT,Fergus County,,city-us,0,46.996,-109.267,215

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37388,New Franklin,OH,,city-us,13798,40.94,-81.54,4786
-37387,New Franklin,MO,,city-us,1045,39.02,-92.74,4148
-37389,New Franklin,OH,,city-us,0,40.80,-81.09,379
-37390,New Franklin,PA,,city-us,0,39.88,-77.64,253
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29789,Mount Ida,AR,Montgomery County,,city-us,976,34.557,-93.634,4046
+29788,Mount Ida,WI,Grant County,,city-us,523,42.972,-90.761,1959

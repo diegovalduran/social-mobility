@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43299,Eastview,TN,,city-us,761,35.08,-88.55,2742
-43300,Eastview,KY,,city-us,0,37.59,-86.06,362
-43301,Eastview,MO,,city-us,0,36.73,-92.78,396
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38771,Saulsbury,TN,Hardeman County,,city-us,110,35.047,-89.088,6492
+38772,Saulsbury,WV,Wood County,,city-us,0,39.123,-81.543,88

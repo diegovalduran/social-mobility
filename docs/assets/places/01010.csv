@@ -1,17 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10674,Williams,PA,,city-us,6573,40.63,-75.23,187
-10663,Williams,CA,,city-us,5615,39.15,-122.15,4338
-10667,Williams,MI,,city-us,5014,43.62,-84.11,3053
-10665,Williams,IL,,city-us,3420,39.93,-89.54,342
-10662,Williams,AZ,,city-us,3267,35.25,-112.19,9805
-10672,Williams,OR,,city-us,1102,42.22,-123.27,1718
-10673,Williams,PA,,city-us,1064,40.59,-76.63,187
-10664,Williams,IA,,city-us,305,42.49,-93.54,4352
-10669,Williams,MN,,city-us,156,48.77,-94.96,3834
-10666,Williams,IN,,city-us,129,38.80,-86.65,2750
-10668,Williams,MN,,city-us,123,46.20,-93.24,2565
-10675,Williams,SC,,city-us,96,33.03,-80.84,2012
-10671,Williams,ND,,city-us,35,47.98,-98.19,0
-10670,Williams,ND,,city-us,13,46.93,-99.49,0
-10676,Williams,IN,,city-us,0,40.92,-84.98,400
-10677,Williams,VA,,city-us,0,37.40,-76.33,185
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5076,Branford,CT,South Central Connecticut Planning Region,,city-us,28176,41.280,-72.786,16855
+5077,Branford,FL,Suwannee County,,city-us,734,29.959,-82.928,1869

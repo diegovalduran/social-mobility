@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42470,Palmerton,PA,,city-us,5658,40.80,-75.61,6186
-42471,Palmerton,IL,,city-us,0,40.00,-90.15,125
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37540,Rose Valley,PA,Delaware County,,city-us,1011,39.896,-75.385,11558
+37541,Rose Valley,KS,Stafford County,,city-us,45,37.861,-98.756,0
+37539,Rose Valley,WA,Cowlitz County,,city-us,0,46.097,-122.826,447

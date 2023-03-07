@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12276,French Camp,CA,,city-us,3778,37.88,-121.27,7063
-12277,French Camp,MS,,city-us,222,33.29,-89.40,3050
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6054,Bullard,TX,Cherokee County / Smith County,,city-us,3706,32.144,-95.318,4996
+6056,Bullard,MN,Wadena County,,city-us,192,46.517,-94.862,1927
+6055,Bullard,GA,Twiggs County,,city-us,0,32.631,-83.497,520

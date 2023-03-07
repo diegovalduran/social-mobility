@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47171,Olden,MO,,city-us,0,36.83,-91.91,344
-47172,Olden,TX,,city-us,0,32.42,-98.75,735
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45971,West Bloomfield,MI,Oakland County,,city-us,65560,42.567,-83.387,7127
+45972,West Bloomfield,NY,Ontario County,,city-us,2746,42.892,-77.501,8614
+45973,West Bloomfield,WI,Waushara County,,city-us,0,44.221,-88.972,118

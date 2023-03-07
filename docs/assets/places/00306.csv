@@ -1,33 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3597,Lynn,MA,,city-us,100843,42.47,-70.95,30066
-3604,Lynn,PA,,city-us,4235,40.66,-75.78,5210
-3610,Linn,WI,,city-us,2727,42.53,-88.49,2284
-3600,Linn,MO,,city-us,1358,38.49,-91.85,4444
-3598,Lynn,MI,,city-us,1116,43.11,-82.94,1813
-3595,Lynn,IN,,city-us,948,40.05,-84.94,3314
-3611,Lynn,WI,,city-us,834,44.58,-90.41,1908
-3593,Lynn,IL,,city-us,786,41.29,-90.40,202
-3589,Lynn,AL,,city-us,617,34.05,-87.55,2191
-3609,Linn,TX,,city-us,613,26.56,-98.12,3188
-3603,Lynn,OH,,city-us,589,40.63,-83.70,1338
-3599,Lynn,MN,,city-us,518,44.85,-94.45,1966
-3596,Linn,KS,,city-us,510,39.70,-97.08,3163
-3607,Lynn,SD,,city-us,305,43.29,-96.74,0
-3608,Lynn,SD,,city-us,274,43.89,-96.83,0
-3592,Linn,IL,,city-us,273,40.88,-89.22,448
-3594,Lynn,IL,,city-us,264,41.09,-90.04,202
-3590,Lynn,AR,,city-us,254,36.01,-91.25,2334
-3612,Lynne,WI,,city-us,141,45.62,-90.00,2138
-3602,Lynn,NE,,city-us,70,40.58,-98.12,236
-3591,Lynn,CO,,city-us,49,37.43,-104.64,885
-3605,Linn,SD,,city-us,32,44.85,-98.89,0
-3606,Lynn,SD,,city-us,30,45.45,-97.67,0
-3601,Lynn,ND,,city-us,16,47.35,-100.00,0
-3613,Lynne,FL,,city-us,0,29.19,-81.92,349
-3614,Linn,MS,,city-us,0,33.66,-90.62,210
-3615,Lynn,NE,,city-us,0,41.80,-102.98,204
-3616,Lynn,NC,,city-us,0,35.23,-82.23,244
-3617,Lynn,OH,,city-us,0,40.50,-83.11,515
-3618,Lynn,UT,,city-us,0,41.87,-113.74,876
-3619,Linn,WV,,city-us,0,39.01,-80.72,335
-3620,Lynn,WV,,city-us,0,37.60,-82.16,84
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1575,Artesian,SD,Sanborn County,,city-us,127,44.009,-97.921,3302
+1574,Artesian,IA,Bremer County,,city-us,0,42.728,-92.337,372
+1576,Artesian,WA,Yakima County,,city-us,0,46.552,-120.355,296

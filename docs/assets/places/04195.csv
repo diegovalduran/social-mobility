@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30972,Fallon,NV,,city-us,9325,39.47,-118.78,8593
-30975,Falun,WI,,city-us,649,45.46,-92.31,2329
-30969,Fahlun,MN,,city-us,335,45.03,-94.92,2145
-30971,Fallon,MT,,city-us,330,46.84,-105.12,2281
-30968,Falun,KS,,city-us,255,38.66,-97.81,117
-30970,Falun,MN,,city-us,240,48.76,-95.55,1712
-30973,Fallon,CA,,city-us,0,38.27,-122.91,1141
-30974,Fallon,OK,,city-us,0,34.00,-95.42,113
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21539,Iron City,GA,Seminole County,,city-us,319,31.014,-84.813,5817
+21538,Iron City,TN,Lawrence County,,city-us,151,35.024,-87.581,3590
+21537,Iron City,AL,Calhoun County,,city-us,0,33.668,-85.664,452

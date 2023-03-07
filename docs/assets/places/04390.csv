@@ -1,6 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31955,Wetmore,MI,,city-us,2983,46.34,-86.57,6230
-31953,Wetmore,PA,,city-us,1598,41.67,-78.83,1845
-31952,Wetmore,KS,,city-us,468,39.61,-95.84,3475
-31954,Wetmore,CO,,city-us,0,38.24,-105.08,342
-31956,Wetmore,TX,,city-us,0,29.56,-98.42,142
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22681,Kendall,FL,Miami-Dade County,,city-us,80241,25.667,-80.357,9039
+22679,Kendall,IL,Kendall County,,city-us,8942,41.588,-88.431,1460
+22685,Kendall,MI,Van Buren County,,city-us,2773,42.371,-85.821,3989
+22683,Kendall,NY,Orleans County,,city-us,2597,43.329,-78.052,4138
+22686,Kendall,WA,Whatcom County,,city-us,930,48.917,-122.136,2713
+22682,Kendall,WI,Monroe County,,city-us,476,43.792,-90.368,3331
+22680,Kendall,WI,Lafayette County,,city-us,414,42.760,-90.233,2006
+22678,Kendall,KS,Kearny County,,city-us,79,37.814,-101.343,886
+22677,Kendall,KS,Hamilton County,,city-us,0,37.935,-101.546,620
+22684,Kendall,MO,Shelby County,,city-us,0,39.717,-91.917,234

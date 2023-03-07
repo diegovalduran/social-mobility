@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42260,Hilldale,PA,,city-us,808,41.29,-75.84,694
-42261,Hilldale,MO,,city-us,0,39.06,-92.56,268
-42262,Hilldale,VA,,city-us,0,38.67,-78.43,88
-42263,Hilldale,WV,,city-us,0,37.64,-80.79,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37154,Rock River,MI,Alger County,,city-us,352,46.477,-86.990,3704
+37153,Rock River,WY,Albany County,,city-us,219,41.741,-105.975,3365

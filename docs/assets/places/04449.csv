@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32228,Fox Chase,PA,,city-us,1764,40.40,-75.96,262
-32227,Fox Chase,KY,,city-us,440,38.05,-85.69,2140
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22911,Kildare,WI,Juneau County,,city-us,703,43.734,-89.910,1877
+22913,Kildare,MN,Swift County,,city-us,137,45.285,-95.428,1802
+22912,Kildare,OK,Kay County,,city-us,88,36.810,-97.049,2702
+22910,Kildare,TX,Cass County,,city-us,0,32.943,-94.248,251

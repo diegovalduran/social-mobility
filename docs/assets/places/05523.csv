@@ -1,3 +1,25 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36452,Remer,MN,,city-us,390,47.06,-93.92,3903
-36453,Reamer,WV,,city-us,0,38.48,-81.37,117
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28261,Midland,TX,Martin County / Midland County,,city-us,131325,32.025,-102.113,19147
+28248,Midland,MI,Bay County / Midland County,,city-us,42472,43.625,-84.232,19908
+28266,Midland,WA,Pierce County,,city-us,9448,47.167,-122.405,12157
+28250,Midland,NC,Cabarrus County / Mecklenburg County,,city-us,4801,35.249,-80.530,6875
+28249,Midland,PA,Beaver County,,city-us,2398,40.633,-80.446,6258
+28263,Midland,MI,Midland County,,city-us,2219,43.591,-84.239,2028
+28247,Midland,MD,Allegany County,,city-us,476,39.590,-78.950,4306
+28255,Midland,NE,Gage County,,city-us,361,40.328,-96.713,204
+28251,Midland,OH,Clinton County,,city-us,309,39.306,-83.911,2939
+28269,Midland,CO,Teller County,,city-us,258,38.858,-105.162,851
+28246,Midland,LA,Acadia Parish,,city-us,249,30.181,-92.503,2091
+28268,Midland,AR,Sebastian County,,city-us,221,35.093,-94.353,2431
+28262,Midland,NE,Merrick County,,city-us,193,41.177,-98.117,204
+28254,Midland,VA,Fauquier County,,city-us,161,38.600,-77.724,1145
+28257,Midland,SD,Haakon County,,city-us,109,44.072,-101.155,3148
+28265,Midland,ND,Pembina County,,city-us,56,48.637,-97.332,0
+28258,Midland,SD,Hand County,,city-us,32,44.510,-99.117,3148
+28252,Midland,MO,Crawford County,,city-us,0,37.978,-91.327,481
+28253,Midland,KS,Douglas County,,city-us,0,39.028,-95.242,423
+28256,Midland,IN,Greene County,,city-us,0,39.122,-87.192,162
+28259,Midland,GA,Harris County,,city-us,0,32.575,-84.827,711
+28260,Midland,OR,Klamath County,,city-us,0,42.131,-121.819,1148
+28264,Midland,KY,Muhlenberg County,,city-us,0,37.306,-87.231,95
+28267,Midland,TN,Rutherford County,,city-us,0,35.670,-86.481,325

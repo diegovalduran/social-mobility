@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38427,Rex,NC,,city-us,43,34.86,-79.05,2054
-38428,Rex,SD,,city-us,21,43.90,-99.70,0
-38429,Rex,GA,,city-us,0,33.59,-84.27,657
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31180,Niota,TN,McMinn County,,city-us,781,35.513,-84.545,3228
+31179,Niota,IL,Hancock County,,city-us,114,40.617,-91.288,1265

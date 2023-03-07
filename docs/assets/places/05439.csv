@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36190,Merton,WI,,city-us,8279,43.16,-88.36,2719
-36189,Merton,SD,,city-us,35,44.77,-97.65,4967
-36188,Merton,MN,,city-us,0,44.15,-93.15,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27844,Melbourne,,,Australia,city-international,4529500,-37.814,144.963,64637
+27839,Melbourne,FL,Brevard County,,city-us,85064,28.084,-80.608,32460
+27842,Melbourne,AR,Izard County,,city-us,1888,36.060,-91.908,2454
+27843,Melbourne,IA,Marshall County,,city-us,777,41.941,-93.103,3518
+27840,Melbourne,KY,Campbell County,,city-us,466,39.030,-84.366,2435
+27838,Melbern,OH,Williams County,,city-us,0,41.468,-84.651,676
+27841,Melbourne,MO,Harrison County,,city-us,0,40.142,-93.788,540

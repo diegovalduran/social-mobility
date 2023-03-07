@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2093,Excel,AL,,city-us,550,31.43,-87.34,2636
-2094,Excel,MN,,city-us,308,48.23,-96.17,1766
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1113,Andrews,TX,Andrews County,,city-us,13370,32.319,-102.546,9377
+1115,Andrews,SC,Georgetown County / Williamsburg County,,city-us,2550,33.449,-79.566,5012
+1114,Andrews,NC,Cherokee County,,city-us,1686,35.202,-83.824,5182
+1116,Andrews,IN,Huntington County,,city-us,1050,40.863,-85.602,3392
+1117,Andrews,FL,Levy County,,city-us,681,29.533,-82.882,2070
+1118,Andrews,ND,McLean County,,city-us,43,47.797,-101.036,0
+1119,Andrews,NE,Sioux County,,city-us,0,42.631,-103.917,325

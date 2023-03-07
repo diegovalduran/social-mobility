@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9610,Willisville,IL,,city-us,577,37.98,-89.59,1974
-9609,Willisville,AR,,city-us,146,33.52,-93.30,2721
-9611,Willisville,IN,,city-us,0,38.45,-87.30,219
-9612,Willisville,VA,,city-us,0,39.01,-77.83,984
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4329,Blendon,OH,Franklin County,,city-us,10024,40.097,-82.904,2070
+4330,Blendon,MI,Ottawa County,,city-us,7081,42.904,-85.951,3169
+4328,Blendon,SD,Davison County,,city-us,84,43.806,-98.266,0

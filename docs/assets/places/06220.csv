@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38821,Gate,OK,,city-us,60,36.85,-100.06,4648
-38820,Gate,ND,,city-us,25,47.80,-101.80,0
-38822,Gate,WA,,city-us,0,46.84,-123.14,1012
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31766,Oak Island,NC,Brunswick County,,city-us,8878,33.917,-78.161,8070
+31767,Oak Island,TX,Chambers County,,city-us,374,29.661,-94.690,752

@@ -1,29 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11303,Buena Vista,NJ,,city-us,7046,39.51,-74.88,12986
-11305,Buena Vista,VA,,city-us,6601,37.73,-79.35,9086
-11301,Buena Vista,MI,,city-us,5855,43.42,-83.90,2816
-11298,Buena Vista,CO,,city-us,2988,38.84,-106.13,7046
-11307,Buena Vista,WI,,city-us,1815,43.24,-90.25,2122
-11300,Buena Vista,IL,,city-us,1796,40.14,-90.62,344
-11299,Buena Vista,GA,,city-us,1502,32.32,-84.52,4222
-11306,Buena Vista,WI,,city-us,1138,44.37,-89.46,2223
-11297,Buena Vista,CA,,city-us,838,38.29,-120.91,2707
-11304,Buena Vista,TX,,city-us,73,26.29,-98.61,386
-11302,Buena Vista,ND,,city-us,21,46.24,-103.06,140
-11308,Buena Vista,AL,,city-us,0,31.79,-87.26,232
-11309,Buena Vista,IL,,city-us,0,42.43,-89.68,285
-11310,Buena Vista,IN,,city-us,0,39.44,-85.27,254
-11311,Buena Vista,IN,,city-us,0,38.06,-85.98,715
-11312,Buena Vista,IN,,city-us,0,40.12,-85.07,230
-11313,Buena Vista,IA,,city-us,0,41.74,-90.74,2473
-11314,Buena Vista,KY,,city-us,0,38.44,-84.17,309
-11315,Buena Vista,MS,,city-us,0,33.88,-88.84,1602
-11316,Buena Vista,NM,,city-us,0,35.91,-105.25,227
-11317,Buena Vista,OH,,city-us,0,39.42,-83.49,630
-11318,Buena Vista,OH,,city-us,0,39.55,-82.67,273
-11319,Buena Vista,OH,,city-us,0,38.63,-83.26,325
-11320,Buena Vista,OR,,city-us,0,44.77,-123.15,2637
-11321,Buena Vista,PA,,city-us,0,40.28,-79.80,603
-11322,Buena Vista,TN,,city-us,0,35.98,-88.29,112
-11323,Buena Vista,TX,,city-us,0,29.27,-98.46,699
-11324,Buena Vista,WI,,city-us,0,42.71,-90.69,1847
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5388,Broaddus,TX,San Augustine County,,city-us,186,31.307,-94.269,2232
+5387,Broaddus,VA,Caroline County,,city-us,0,38.067,-77.295,92

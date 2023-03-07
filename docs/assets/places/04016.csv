@@ -1,6 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30115,Pennville,PA,,city-us,2269,39.79,-77.00,1794
-30114,Pennville,IN,,city-us,621,40.49,-85.15,9885
-30116,Pennville,GA,,city-us,0,34.51,-85.32,182
-30117,Pennville,IN,,city-us,0,39.81,-85.11,157
-30118,Pennville,MO,,city-us,0,40.36,-92.95,410
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20580,Hooper,UT,Weber County,,city-us,9367,41.164,-112.122,3301
+20576,Hooper,MI,Allegan County,,city-us,2629,42.553,-85.607,2621
+20578,Hooper,NE,Dodge County,,city-us,843,41.611,-96.548,4975
+20575,Hooper,CO,Alamosa County,,city-us,79,37.743,-105.875,2703
+20577,Hooper,OK,Cotton County,,city-us,0,34.159,-98.174,290
+20579,Hooper,GA,Haralson County,,city-us,0,33.738,-85.338,264
+20581,Hooper,WA,Whitman County,,city-us,0,46.757,-118.150,711

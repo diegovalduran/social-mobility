@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29252,Battle Ground,WA,,city-us,21119,45.78,-122.53,8590
-29251,Battle Ground,IN,,city-us,1856,40.51,-86.84,6161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19604,Hematite,MI,Iron County,,city-us,271,46.337,-88.483,2299
+19602,Hematite,VA,Alleghany County,,city-us,0,37.740,-80.176,105
+19603,Hematite,WI,Florence County,,city-us,0,45.909,-88.209,189
+19605,Hematite,MO,Jefferson County,,city-us,0,38.202,-90.481,419

@@ -1,19 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10304,Parker,CO,,city-us,60313,39.52,-104.76,15371
-10314,Parker,SC,,city-us,13019,34.85,-82.45,2826
-10316,Parker,TX,,city-us,5833,33.06,-96.62,1988
-10305,Parker,FL,,city-us,4499,30.13,-85.60,1991
-10303,Parker,AZ,,city-us,3338,34.15,-114.29,6831
-10309,Parker,KS,,city-us,1074,37.09,-95.65,3526
-10312,Parker,PA,,city-us,694,41.10,-79.68,4101
-10313,Parker,PA,,city-us,565,41.07,-79.74,2227
-10311,Parker,MN,,city-us,464,46.06,-94.58,168
-10306,Parker,ID,,city-us,301,43.96,-111.76,3002
-10315,Parker,SD,,city-us,269,43.39,-97.10,3855
-10308,Parker,KS,,city-us,236,38.33,-94.99,3526
-10307,Parker,IL,,city-us,161,39.39,-87.95,871
-10317,Parker,WA,,city-us,154,46.50,-120.47,1509
-10310,Parker,MN,,city-us,37,48.41,-96.98,168
-10318,Parker,MO,,city-us,0,37.06,-89.67,270
-10319,Parker,NC,,city-us,0,36.46,-81.69,163
-10320,Parker,TX,,city-us,0,32.24,-97.28,1564
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4737,Boone,NC,Watauga County,,city-us,18036,36.217,-81.675,11944
+4730,Boone,IA,Boone County,,city-us,12469,42.060,-93.880,10914
+4729,Boone,IL,Boone County,,city-us,2017,42.371,-88.740,2412
+4735,Boone,MO,Texas County,,city-us,362,37.558,-92.000,163
+4733,Boone,CO,Pueblo County,,city-us,307,38.249,-104.257,2259
+4728,Boon,MI,Wexford County,,city-us,90,44.290,-85.602,1064
+4734,Boone,ND,Sheridan County,,city-us,14,47.544,-100.097,0
+4731,Boone,OK,Caddo County,,city-us,0,34.899,-98.462,153
+4732,Boone,WV,Fayette County,,city-us,0,38.034,-81.008,172
+4736,Boone,TN,Washington County,,city-us,0,36.378,-82.438,143

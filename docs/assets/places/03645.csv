@@ -1,14 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28104,Roscoe,IL,,city-us,20042,42.45,-88.99,421
-28115,Roscoe,TX,,city-us,1244,32.45,-100.54,4715
-28113,Roscoe,PA,,city-us,711,40.08,-79.87,2784
-28112,Roscoe,NY,,city-us,434,41.93,-74.91,4759
-28114,Roscoe,SD,,city-us,257,45.45,-99.34,3265
-28107,Roscoe,MN,,city-us,130,45.43,-94.64,3383
-28105,Roscoe,KS,,city-us,116,37.78,-98.08,220
-28111,Roscoe,NE,,city-us,115,41.13,-101.59,671
-28108,Roscoe,MO,,city-us,89,37.97,-93.81,3085
-28110,Roscoe,ND,,city-us,54,46.50,-98.47,0
-28109,Roscoe,MT,,city-us,16,45.35,-109.50,656
-28106,Roscoe,MN,,city-us,0,44.23,-92.77,389
-28116,Roscoe,GA,,city-us,0,33.49,-84.82,646
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19340,Hawley,PA,Wayne County,,city-us,1221,41.476,-75.182,4158
+19339,Hawley,TX,Jones County,,city-us,566,32.612,-99.814,2575
+19337,Hawley,MN,Clay County,,city-us,488,46.841,-96.370,1804
+19338,Hawley,MA,Franklin County,,city-us,350,42.576,-72.901,7248
+18482,Hallie,WI,Chippewa County,,city-us,159,44.877,-91.374,3838
+18483,Hallie,KY,Letcher County,,city-us,0,37.102,-83.021,91
+19336,Hawley,ID,Blaine County,,city-us,0,42.734,-113.396,193

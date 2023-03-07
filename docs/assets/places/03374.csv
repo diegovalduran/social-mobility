@@ -1,18 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26361,Knox,IL,,city-us,4849,40.93,-90.26,888
-26369,Knox,OH,,city-us,4300,40.51,-80.68,235
-26366,Knox,OH,,city-us,3997,40.86,-81.03,235
-26362,Knox,IN,,city-us,3585,41.30,-86.63,5235
-26365,Knox,NY,,city-us,2616,42.69,-74.11,3261
-26368,Knox,OH,,city-us,1164,40.56,-82.14,235
-26373,Knox,PA,,city-us,998,41.10,-79.04,223
-26371,Knox,PA,,city-us,995,41.31,-79.38,223
-26363,Knox,ME,,city-us,813,44.52,-69.22,3703
-26372,Knox,PA,,city-us,594,40.89,-78.49,223
-26367,Knox,OH,,city-us,528,40.11,-81.66,235
-26374,Knox,WI,,city-us,315,45.55,-90.11,2033
-26364,Knox,ND,,city-us,28,48.33,-99.64,128
-26370,Knox,OH,,city-us,0,39.27,-82.29,280
-26375,Knox,IN,,city-us,0,39.82,-85.54,124
-26376,Knox,MO,,city-us,0,37.47,-93.61,631
-26377,Knox,OH,,city-us,0,40.46,-82.53,170
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17099,Glover,VT,Orleans County,,city-us,318,44.707,-72.187,5558
+17097,Glover,SD,Edmunds County,,city-us,30,45.383,-99.369,0
+17095,Glover,IL,Champaign County,,city-us,0,40.114,-88.019,441
+17096,Glover,ND,Dickey County,,city-us,0,46.242,-98.139,176
+17098,Glover,MO,Iron County,,city-us,0,37.486,-90.691,467
+17100,Glover,WI,St. Croix County,,city-us,0,44.913,-92.681,160
+17101,Glover,WV,Wyoming County,,city-us,0,37.587,-81.590,102

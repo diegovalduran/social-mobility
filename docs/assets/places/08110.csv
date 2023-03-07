@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44661,McConnell,WV,,city-us,708,37.83,-81.97,939
-44662,McConnell,IL,,city-us,0,42.43,-89.73,1308
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41073,St. Lawrence,PA,Berks County,,city-us,1894,40.327,-75.872,2954
+41076,St. Lawrence,WI,Waupaca County,,city-us,714,44.469,-89.050,1804
+41075,St. Lawrence,MN,Scott County,,city-us,496,44.654,-93.694,1839
+41074,St. Lawrence,SD,Hand County,,city-us,47,44.505,-98.872,3162

@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15149,Divide,CO,,city-us,162,38.94,-105.16,1468
-15150,Divide,ND,,city-us,85,46.24,-98.06,0
-15151,Divide,IL,,city-us,0,38.45,-88.83,269
-15152,Divide,WV,,city-us,0,38.07,-80.97,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8268,Chile,,,,country,18549457,-35.675,-71.543,82431
+8274,Chili,NY,Monroe County,,city-us,28971,43.086,-77.745,4526
+8271,Chili,WI,Clark County,,city-us,321,44.627,-90.357,1089
+8275,Chili,NM,Rio Arriba County,,city-us,258,36.105,-106.150,823
+8272,Chili,IL,Hancock County,,city-us,0,40.218,-91.142,241
+8273,Chili,IN,Miami County,,city-us,0,40.860,-86.026,402
+8281,Chilly,ID,Custer County,,city-us,0,44.078,-113.879,283

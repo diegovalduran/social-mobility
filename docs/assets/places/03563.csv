@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27589,Paderborn,,Germany,city-international,150580,51.72,8.77,15316
-27588,Paderborn,IL,,city-us,26,38.36,-90.04,133
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18177,Gridley,CA,Butte County,,city-us,7356,39.364,-121.694,8470
+18180,Gridley,IL,McLean County,,city-us,1846,40.718,-88.890,412
+18178,Gridley,KS,Coffey County,,city-us,312,38.098,-95.884,3839
+18179,Gridley,IA,Emmet County,,city-us,0,43.399,-94.573,401

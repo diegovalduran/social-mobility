@@ -1,4 +1,34 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43424,Anton,TX,,city-us,883,33.81,-102.16,3518
-43425,Anton,CO,,city-us,0,39.74,-103.22,474
-43426,Anton,KY,,city-us,0,37.35,-87.39,90
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38931,Scott,PA,Allegheny County,,city-us,17405,40.388,-80.079,323
+38947,Scott,LA,Lafayette Parish,,city-us,8116,30.236,-92.095,5000
+38940,Scott,PA,Columbia County,,city-us,5528,41.023,-76.415,323
+38946,Scott,PA,Lackawanna County,,city-us,4633,41.541,-75.626,323
+38935,Scott,WI,Brown County,,city-us,3651,44.587,-87.895,2459
+38956,Scott,IL,Ogle County,,city-us,3298,42.107,-89.114,327
+38930,Scott,OH,Adams County,,city-us,2275,38.982,-83.559,229
+38933,Scott,KS,Bourbon County,,city-us,2266,37.827,-94.680,281
+38949,Scott,PA,Lawrence County,,city-us,2167,41.032,-80.215,323
+38959,Scott,WI,Sheboygan County,,city-us,1749,43.591,-88.105,2594
+38951,Scott,WI,Lincoln County,,city-us,1399,45.157,-89.728,2223
+38958,Scott,OH,Sandusky County,,city-us,1327,41.298,-83.360,229
+38934,Scott,OH,Brown County,,city-us,1310,38.950,-83.908,229
+38942,Scott,NY,Cortland County,,city-us,1069,42.738,-76.236,3824
+38938,Scott,IL,Champaign County,,city-us,975,40.091,-88.398,327
+38941,Scott,WI,Columbia County,,city-us,875,43.598,-89.174,1968
+38952,Scott,KS,Linn County,,city-us,791,38.331,-94.842,281
+38936,Scott,WI,Burnett County,,city-us,591,45.932,-92.086,2092
+38943,Scott,WI,Crawford County,,city-us,530,43.249,-90.725,1863
+38954,Scott,OH,Marion County,,city-us,516,40.674,-83.016,229
+38961,Scott,PA,Wayne County,,city-us,483,41.949,-75.405,323
+38957,Scott,OH,Paulding County / Van Wert County,,city-us,237,40.989,-84.584,3222
+38960,Scott,MN,Stevens County,,city-us,115,45.535,-96.046,1851
+38929,Scott,ND,Adams County,,city-us,110,45.984,-102.560,123
+38955,Scott,WI,Monroe County,,city-us,105,44.121,-90.359,1895
+38950,Scott,KS,Lincoln County,,city-us,92,39.175,-98.098,281
+38932,Scott,MS,Bolivar County,,city-us,90,33.592,-91.074,1240
+38944,Scott,NE,Holt County,,city-us,41,42.691,-98.462,198
+38953,Scott,AR,Lonoke County / Pulaski County,,city-us,18,34.698,-92.094,6000
+38937,Scott,OK,Caddo County,,city-us,0,35.377,-98.236,229
+38939,Scott,MO,Cole County,,city-us,0,38.619,-92.277,393
+38945,Scott,GA,Johnson County,,city-us,0,32.552,-82.667,428
+38948,Scott,IN,LaGrange County,,city-us,0,41.742,-85.556,406

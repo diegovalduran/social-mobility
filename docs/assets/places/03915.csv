@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29649,Griffith,IN,,city-us,16331,41.53,-87.42,7548
-29650,Griffith,VA,,city-us,0,37.87,-79.73,105
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20025,Hildreth,NE,Franklin County,,city-us,381,40.337,-99.044,3117
+20026,Hildreth,CA,Madera County,,city-us,0,37.109,-119.633,314
+20027,Hildreth,FL,Suwannee County,,city-us,0,29.953,-82.805,182

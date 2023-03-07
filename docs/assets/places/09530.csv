@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-48174,Salto,,Uruguay,city-international,124878,-31.39,-57.96,9884
-48175,Salto,,Brazil,city-international,114171,-23.20,-47.29,1128
+id,name,state,county,country,level,population,latitude,longitude,wiki
+48174,Zurich,,,Switzerland,city-international,434008,47.374,8.541,63733
+48173,Zurich,KS,Rooks County,,city-us,87,39.234,-99.438,4128
+48172,Zurich,MT,Blaine County,,city-us,29,48.584,-109.031,1080

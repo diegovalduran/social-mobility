@@ -1,15 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1897,Delta,,Canada,city-international,102238,49.08,-123.06,7249
-1888,Delta,MI,,city-us,33070,42.73,-84.66,4682
-1885,Delta,CO,,city-us,9224,38.74,-108.07,5581
-1892,Delta,UT,,city-us,3678,39.35,-112.58,9033
-1890,Delta,OH,,city-us,3340,41.57,-84.01,4884
-1891,Delta,PA,,city-us,707,39.73,-76.33,3469
-1889,Delta,MO,,city-us,378,37.20,-89.74,3276
-1893,Delta,WI,,city-us,273,46.47,-91.27,1916
-1884,Delta,AL,,city-us,260,33.44,-85.69,457
-1886,Delta,IA,,city-us,260,41.32,-92.33,3007
-1887,Delta,LA,,city-us,215,32.33,-90.93,2973
-1894,Delta,IL,,city-us,0,37.68,-88.70,186
-1895,Delta,KY,,city-us,0,36.86,-84.66,195
-1896,Delta,NC,,city-us,0,36.47,-80.10,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+961,America,SD,Brule County,,city-us,47,43.544,-99.250,0
+962,America,IL,Pulaski County,,city-us,0,37.138,-89.124,553
+963,America,IN,Wabash County,,city-us,0,40.679,-85.702,326

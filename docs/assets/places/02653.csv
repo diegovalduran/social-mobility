@@ -1,10 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22077,Irvington,NJ,,city-us,60403,40.72,-74.23,21626
-22078,Irvington,NY,,city-us,6532,41.04,-73.87,65896
-22076,Irvington,KY,,city-us,1241,37.88,-86.28,2821
-22075,Irvington,IL,,city-us,578,38.44,-89.16,2016
-22079,Irvington,VA,,city-us,477,37.66,-76.42,4713
-22074,Irvington,IA,,city-us,46,43.01,-94.20,792
-22080,Irvington,AL,,city-us,0,30.51,-88.23,632
-22081,Irvington,NE,,city-us,0,41.32,-96.05,1951
-22082,Irvington,WI,,city-us,0,44.84,-91.95,301
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13146,Ela,IL,Lake County,,city-us,45300,42.196,-88.062,1759
+13384,Ella,WI,Pepin County,,city-us,325,44.537,-92.050,2014
+13147,Ela,NC,Swain County,,city-us,0,35.449,-83.391,372
+13381,Ella,KY,Adair County,,city-us,0,37.157,-85.140,115
+13382,Ella,PA,Jefferson County,,city-us,0,41.310,-79.191,226
+13383,Ella,OR,Morrow County,,city-us,0,45.631,-119.809,653

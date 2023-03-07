@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23888,Peck,MI,,city-us,602,43.26,-82.82,2967
-23889,Peck,WI,,city-us,327,45.24,-89.24,2279
-23886,Peck,ID,,city-us,168,46.48,-116.42,3055
-23890,Peck,KS,,city-us,162,37.48,-97.37,1315
-23887,Peck,KS,,city-us,105,37.48,-97.37,1315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14838,Fernwood,NJ,Mercer County,,city-us,37264,40.263,-74.799,24551
+14836,Fernwood,ID,Benewah County,,city-us,684,47.112,-116.393,757
+14839,Fernwood,MS,Pike County,,city-us,286,31.186,-90.449,766
+14837,Fernwood,OH,Jefferson County,,city-us,0,40.334,-80.707,251

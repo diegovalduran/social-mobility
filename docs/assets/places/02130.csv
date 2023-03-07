@@ -1,13 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18512,Roseland,NJ,,city-us,6219,40.82,-74.29,12084
-18513,Roseland,OH,,city-us,1840,40.79,-82.54,447
-18505,Roseland,FL,,city-us,1591,27.83,-80.49,2722
-18508,Roseland,LA,,city-us,896,30.76,-90.51,2544
-18506,Roseland,IN,,city-us,851,41.72,-86.25,4027
-18511,Roseland,NE,,city-us,259,40.47,-98.56,3186
-18507,Roseland,KS,,city-us,73,37.28,-94.85,2902
-18514,Roseland,SD,,city-us,42,43.64,-99.69,0
-18510,Roseland,ND,,city-us,25,48.68,-102.30,0
-18509,Roseland,MN,,city-us,0,44.94,-95.11,292
-18515,Roseland,MO,,city-us,0,38.39,-93.54,250
-18516,Roseland,VA,,city-us,0,37.75,-78.98,316
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10679,Cumnock,NC,Lee County,,city-us,0,35.555,-79.238,937
+10680,Cumnock,LA,Washington Parish,,city-us,0,30.952,-90.180,148

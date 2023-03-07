@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3563,Lockhart,TX,,city-us,14844,29.88,-97.67,6978
-3560,Lockhart,FL,,city-us,14390,28.62,-81.44,2080
-3559,Lockhart,AL,,city-us,445,31.01,-86.35,4267
-3562,Lockhart,SC,,city-us,378,34.79,-81.46,2184
-3561,Lockhart,MN,,city-us,0,47.44,-96.55,449
-3564,Lockhart,WV,,city-us,0,38.97,-81.61,241
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1562,Arrowhead,MN,St. Louis County,,city-us,283,46.860,-92.747,2807
+1561,Arrowhead,VA,Albemarle County,,city-us,0,37.979,-78.594,73

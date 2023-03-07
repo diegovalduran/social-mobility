@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30432,West Lebanon,PA,,city-us,832,40.34,-76.45,1988
-30431,West Lebanon,IN,,city-us,685,40.27,-87.39,4148
-30433,West Lebanon,NH,,city-us,0,43.65,-72.31,1117
-30434,West Lebanon,OH,,city-us,0,40.72,-81.67,372
-30435,West Lebanon,PA,,city-us,0,40.60,-79.35,1230
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21014,Humphrey,NE,Platte County,,city-us,842,41.692,-97.484,3346
+21012,Humphrey,NY,Cattaraugus County,,city-us,697,42.231,-78.497,3624
+21011,Humphrey,AR,Arkansas County / Jefferson County,,city-us,464,34.422,-91.702,2126
+21013,Humphrey,ID,Clark County,,city-us,0,44.488,-112.234,216
+21015,Humphrey,WV,Wood County,,city-us,0,39.142,-81.731,87

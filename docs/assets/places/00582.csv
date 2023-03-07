@@ -1,39 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6553,Dover,DE,,city-us,38992,39.16,-75.52,24609
-6568,Dover,NH,,city-us,33171,43.20,-70.87,13477
-6576,Dover,PA,,city-us,22850,40.00,-76.87,2870
-6569,Dover,NJ,,city-us,18427,40.88,-74.56,22233
-6570,Dover,NY,,city-us,8343,41.68,-73.57,10514
-6586,Dover,MI,,city-us,6042,42.40,-83.95,4020
-6559,Dover,MA,,city-us,5892,42.23,-71.29,9924
-6573,Dover,OH,,city-us,4481,40.53,-81.50,327
-6580,Dover,WI,,city-us,4324,42.72,-88.12,2392
-6584,Dover,MI,,city-us,3878,41.79,-86.18,2904
-6554,Dover,FL,,city-us,3444,27.99,-82.22,2665
-6585,Dover,MI,,city-us,3360,43.87,-84.80,2736
-6571,Dover,OH,,city-us,3247,39.45,-82.12,327
-6574,Dover,OH,,city-us,2457,40.26,-83.29,327
-6578,Dover,VT,,city-us,1837,42.97,-72.85,2384
-6561,Dover,MI,,city-us,1787,41.85,-84.17,2428
-6577,Dover,TN,,city-us,1749,36.49,-87.84,3073
-6572,Dover,OH,,city-us,1599,41.61,-84.16,327
-6552,Dover,AR,,city-us,1328,35.40,-93.11,6316
-6555,Dover,ID,,city-us,917,48.25,-116.61,3014
-6563,Dover,MN,,city-us,795,43.97,-92.14,3209
-6562,Dover,MI,,city-us,632,45.07,-84.57,268
-6579,Dover,WI,,city-us,520,44.47,-91.58,1896
-6556,Dover,IL,,city-us,493,41.45,-89.45,2412
-6565,Dover,MO,,city-us,469,37.70,-94.22,116
-6560,Dover,MI,,city-us,434,44.12,-85.63,268
-6575,Dover,OK,,city-us,405,35.98,-97.91,3627
-6566,Dover,NC,,city-us,342,35.22,-77.44,1945
-6589,Dover,WI,,city-us,325,45.67,-90.19,1943
-6558,Dover,KY,,city-us,219,38.76,-83.88,2140
-6564,Dover,MO,,city-us,85,39.19,-93.69,3315
-6567,Dover,ND,,city-us,37,47.28,-98.39,214
-6557,Dover,KS,,city-us,0,38.96,-95.94,5970
-6581,Dover,GA,,city-us,0,32.58,-81.72,439
-6582,Dover,IN,,city-us,0,40.05,-86.62,329
-6583,Dover,IN,,city-us,0,39.24,-84.95,178
-6587,Dover,MO,,city-us,0,40.01,-91.60,162
-6588,Dover,VA,,city-us,0,38.98,-77.67,2977
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2918,Beaumont,TX,Jefferson County,,city-us,112556,30.086,-94.102,38601
+2922,Beaumont,CA,Riverside County,,city-us,55280,33.929,-116.977,15853
+2920,Beaumont,MS,Perry County,,city-us,675,31.169,-88.920,2691
+2917,Beaumont,KS,Butler County,,city-us,36,37.658,-96.533,2795
+2916,Beaumont,OH,Athens County,,city-us,0,39.386,-82.138,260
+2919,Beaumont,KY,Metcalfe County,,city-us,0,36.876,-85.652,86
+2921,Beaumont,VA,Powhatan County,,city-us,0,37.666,-77.908,427

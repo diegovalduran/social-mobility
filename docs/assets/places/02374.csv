@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20168,Powder Springs,GA,,city-us,17083,33.86,-84.68,6076
-20169,Powder Springs,TN,,city-us,0,36.25,-83.67,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11907,Dodson,OH,Highland County,,city-us,2569,39.213,-83.808,1302
+11911,Dodson,LA,Winn Parish,,city-us,290,32.080,-92.660,2366
+11910,Dodson,MT,Phillips County,,city-us,126,48.396,-108.244,3648
+11906,Dodson,TX,Collingsworth County,,city-us,91,34.767,-100.024,5419
+11908,Dodson,OH,Montgomery County,,city-us,0,39.851,-84.444,280
+11909,Dodson,OR,Multnomah County,,city-us,0,45.605,-122.036,1590

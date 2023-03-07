@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43322,Gordonsville,VA,,city-us,1434,38.14,-78.19,9454
-43321,Gordonsville,TN,,city-us,1377,36.17,-85.93,2670
-43323,Gordonsville,KY,,city-us,0,36.84,-87.02,250
-43324,Gordonsville,MN,,city-us,0,43.51,-93.25,441
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38801,Sawmill,AZ,Apache County,,city-us,716,35.903,-109.166,2272
+38802,Sawmill,KS,Pawnee County,,city-us,25,38.139,-99.506,0

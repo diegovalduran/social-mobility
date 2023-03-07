@@ -1,3 +1,21 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39681,Buena,NJ,,city-us,4487,39.51,-74.92,15815
-39682,Buena,WA,,city-us,990,46.43,-120.31,305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33070,Paradise,NV,Clark County,,city-us,189852,36.097,-115.147,7154
+33075,Paradise,PA,Lancaster County,,city-us,5680,39.989,-76.103,232
+33067,Paradise,CA,Butte County,,city-us,5268,39.760,-121.622,16642
+33074,Paradise,MI,Grand Traverse County,,city-us,5000,44.577,-85.499,3066
+33085,Paradise,PA,York County,,city-us,3983,39.911,-76.946,232
+33078,Paradise,PA,Monroe County,,city-us,2916,41.111,-75.279,232
+33068,Paradise,UT,Cache County,,city-us,1006,41.569,-111.838,1998
+33084,Paradise,TX,Wise County,,city-us,522,33.150,-97.687,785
+33077,Paradise,CA,Mono County,,city-us,201,37.483,-118.602,3665
+33081,Paradise,MT,Sanders County,,city-us,157,47.389,-114.802,2522
+33071,Paradise,MO,Clay County,,city-us,75,39.428,-94.516,1023
+33080,Paradise,KS,Russell County,,city-us,34,39.114,-98.918,7277
+33073,Paradise,ND,Eddy County,,city-us,32,47.611,-98.565,0
+33066,Paradise,FL,Alachua County,,city-us,0,29.705,-82.345,761
+33069,Paradise,MI,Chippewa County,,city-us,0,46.627,-85.037,1743
+33072,Paradise,IL,Coles County,,city-us,0,39.410,-88.437,175
+33076,Paradise,OH,Mahoning County,,city-us,0,41.103,-80.699,99
+33079,Paradise,WV,Putnam County,,city-us,0,38.585,-81.800,121
+33082,Paradise,OR,Wallowa County,,city-us,0,45.938,-117.222,1068
+33083,Paradise,IN,Warrick County,,city-us,0,37.996,-87.379,520

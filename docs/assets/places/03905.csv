@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29598,Gaston,SC,,city-us,1621,33.82,-81.10,2755
-29596,Gaston,NC,,city-us,989,36.50,-77.64,2562
-29595,Gaston,IN,,city-us,796,40.31,-85.50,6930
-29597,Gaston,OR,,city-us,676,45.43,-123.15,7071
-29599,Gaston,CA,,city-us,0,39.39,-120.74,4417
-29600,Gaston,WV,,city-us,0,39.01,-80.39,160
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19998,Highland Springs,VA,Henrico County,,city-us,14823,37.546,-77.328,4585
+19997,Highland Springs,KY,Barren County,,city-us,0,37.131,-86.026,464

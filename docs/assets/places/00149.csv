@@ -1,17 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1359,Carlton,NY,,city-us,2821,43.34,-78.21,5606
-1355,Carlton,MI,,city-us,2386,42.72,-85.25,1943
-1354,Carleton,MI,,city-us,2345,42.06,-83.39,3628
-1360,Carlton,OR,,city-us,2234,45.29,-123.18,3892
-1363,Carlton,WI,,city-us,1020,44.38,-87.59,2540
-1356,Carlton,MN,,city-us,962,46.66,-92.42,4174
-1357,Carlton,MT,,city-us,508,46.68,-114.08,254
-1352,Carlton,GA,,city-us,259,34.04,-83.03,2303
-1358,Carleton,NE,,city-us,91,40.30,-97.68,2967
-1351,Carlton,AL,,city-us,54,31.34,-87.85,479
-1353,Carlton,KS,,city-us,38,38.69,-97.29,3963
-1361,Carlton,SD,,city-us,20,44.77,-98.89,0
-1362,Carlton,TX,,city-us,0,31.92,-98.17,1880
-1364,Carlton,CO,,city-us,0,38.09,-102.42,130
-1365,Carlton,PA,,city-us,0,41.48,-80.02,218
-1366,Carlton,WA,,city-us,0,48.25,-120.12,369
+id,name,state,county,country,level,population,latitude,longitude,wiki
+753,Almond,NY,Allegany County,,city-us,1511,42.341,-77.782,6818
+756,Almond,WI,Portage County,,city-us,623,44.295,-89.424,4087
+754,Almond,NY,Allegany County / Steuben County,,city-us,405,42.319,-77.739,6818
+755,Almond,MN,Big Stone County,,city-us,107,45.434,-96.401,2506
+757,Almond,AL,Randolph County,,city-us,0,33.146,-85.622,661
+758,Almond,NC,Swain County,,city-us,0,35.370,-83.565,651

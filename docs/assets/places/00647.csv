@@ -1,13 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7270,Havana,,Cuba,city-international,2141652,23.14,-82.36,138996
-7261,Havana,IL,,city-us,4320,40.28,-90.01,414
-7260,Havana,FL,,city-us,1713,30.62,-84.41,3635
-7266,Havana,TX,,city-us,252,26.25,-98.51,2148
-7259,Havana,AR,,city-us,239,35.11,-93.53,3920
-7265,Havana,SD,,city-us,194,44.75,-96.81,0
-7262,Havana,KS,,city-us,81,37.09,-95.94,3181
-7264,Havana,ND,,city-us,68,45.95,-97.62,3043
-7263,Havana,MN,,city-us,0,44.07,-93.15,414
-7267,Havana,AL,,city-us,0,32.90,-87.62,615
-7268,Havana,OR,,city-us,0,45.72,-118.66,477
-7269,Havana,WV,,city-us,0,37.99,-81.86,175
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3252,Belleview,FL,Marion County,,city-us,5577,29.055,-82.062,2626
+3247,Belleview,KY,Boone County,,city-us,308,38.986,-84.826,855
+3253,Belleview,SD,Miner County,,city-us,60,44.152,-97.430,0
+3248,Belleview,IL,Calhoun County,,city-us,0,39.351,-90.781,152
+3249,Belleview,MO,Iron County,,city-us,0,37.688,-90.740,500
+3250,Belleview,IN,Jefferson County,,city-us,0,38.856,-85.378,552
+3251,Belleview,VA,King and Queen County,,city-us,0,37.484,-76.734,111

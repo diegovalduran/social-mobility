@@ -1,4 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43095,Hopper,SD,,city-us,65,43.73,-98.39,0
-43096,Hopper,IL,,city-us,0,40.79,-90.99,487
-43097,Hopper,WV,,city-us,0,37.82,-80.36,173
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38464,San Miguel,,,El Salvador,city-international,218410,13.483,-88.183,3512
+38465,San Miguel,,,Philippines,city-international,172073,15.146,120.978,6591
+38463,San Miguel,,,Argentina,city-international,157532,-34.533,-58.717,6591
+38459,San Miguel,CA,Contra Costa County,,city-us,3573,37.887,-122.037,2221
+38462,San Miguel,CA,San Luis Obispo County,,city-us,2837,35.752,-120.696,6916
+38460,San Miguel,NM,Do��a Ana County,,city-us,743,32.155,-106.735,625
+38461,San Miguel,AZ,Pima County,,city-us,288,31.613,-111.782,490

@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34245,Constantine,,Algeria,city-international,448374,36.37,6.61,9526
-34243,Constantine,MI,,city-us,4007,41.85,-85.70,2162
-34244,Constantine,KY,,city-us,0,37.68,-86.24,129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25516,Lombard,IL,DuPage County,,city-us,43891,41.880,-88.008,8705
+25515,Lombard,WI,Clark County,,city-us,0,44.959,-90.739,111

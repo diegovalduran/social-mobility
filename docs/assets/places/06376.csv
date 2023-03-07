@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39312,Burchard,NE,,city-us,77,40.15,-96.35,3145
-39313,Burchard,MN,,city-us,0,44.26,-95.99,304
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32516,Ortonville,MI,Oakland County,,city-us,1343,42.852,-83.443,4615
+32515,Ortonville,MN,Big Stone County,,city-us,93,45.284,-96.407,2681
+32517,Ortonville,CA,Ventura County,,city-us,0,34.321,-119.291,489

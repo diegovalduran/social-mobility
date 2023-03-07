@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46434,Pruden,KY,,city-us,0,36.59,-83.90,435
-46435,Pruden,TN,,city-us,0,36.59,-83.90,435
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44192,Valparaiso,,,Chile,city-international,296655,-33.046,-71.620,34543
+44190,Valparaiso,IN,Porter County,,city-us,34428,41.473,-87.061,18800
+44189,Valparaiso,FL,Okaloosa County,,city-us,4877,30.509,-86.503,4698
+44191,Valparaiso,NE,Saunders County,,city-us,599,41.081,-96.832,3256

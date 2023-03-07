@@ -1,3 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42458,Ogle,PA,,city-us,469,40.19,-78.75,2073
-42459,Ogle,KY,,city-us,0,37.03,-83.71,400
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37504,Roscoe,IL,Winnebago County,,city-us,20042,42.449,-88.992,421
+37498,Roscoe,TX,Nolan County,,city-us,1244,32.446,-100.539,4715
+37503,Roscoe,PA,Washington County,,city-us,711,40.080,-79.866,2784
+37502,Roscoe,NY,Sullivan County,,city-us,434,41.933,-74.913,4759
+37494,Roscoe,SD,Edmunds County,,city-us,257,45.449,-99.339,3265
+37501,Roscoe,MN,Stearns County,,city-us,130,45.434,-94.640,3383
+37499,Roscoe,KS,Reno County,,city-us,116,37.779,-98.082,220
+37496,Roscoe,NE,Keith County,,city-us,115,41.131,-101.586,671
+37500,Roscoe,MO,St. Clair County,,city-us,89,37.973,-93.812,3085
+37497,Roscoe,ND,LaMoure County,,city-us,54,46.500,-98.474,0
+37492,Roscoe,MT,Carbon County,,city-us,16,45.350,-109.497,656
+37493,Roscoe,GA,Coweta County,,city-us,0,33.495,-84.822,646
+37495,Roscoe,MN,Goodhue County,,city-us,0,44.225,-92.772,389

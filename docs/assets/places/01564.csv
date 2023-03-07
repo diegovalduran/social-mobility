@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14682,West Goshen,PA,,city-us,23168,39.97,-75.60,7726
-14681,West Goshen,CA,,city-us,539,36.35,-119.46,2121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7900,Chariton,IA,Lucas County,,city-us,4220,41.014,-93.307,4903
+8060,Cheriton,VA,Northampton County,,city-us,473,37.290,-75.971,2348
+7899,Chariton,MO,Chariton County,,city-us,191,39.294,-92.876,169
+7901,Chariton,MO,Putnam County,,city-us,0,40.570,-92.781,448

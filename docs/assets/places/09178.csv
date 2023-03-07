@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47324,Eastgate,NV,,city-us,0,39.31,-117.88,501
-47325,Eastgate,TX,,city-us,0,30.06,-95.01,165
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46244,Westmont,CA,Los Angeles County,,city-us,35913,33.941,-118.302,5807
+46243,Westmont,IL,DuPage County,,city-us,24150,41.796,-87.976,5154
+46242,Westmont,NJ,Camden County,,city-us,13784,39.910,-75.048,14642
+46241,Westmont,PA,Cambria County,,city-us,4939,40.316,-78.952,6497

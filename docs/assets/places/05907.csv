@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37788,New Hebron,MS,,city-us,380,31.73,-89.98,2273
-37789,New Hebron,IL,,city-us,0,38.95,-87.74,128
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30314,Natural Bridge,NY,Jefferson County,,city-us,256,44.069,-75.494,3861
+30316,Natural Bridge,AL,Winston County,,city-us,33,34.093,-87.602,2492
+30315,Natural Bridge,VA,Rockbridge County,,city-us,0,37.630,-79.543,1100

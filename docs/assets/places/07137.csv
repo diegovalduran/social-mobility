@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41578,Redbird,OK,,city-us,89,35.89,-95.59,3502
-41579,Redbird,KY,,city-us,0,36.76,-84.22,92
-41580,Redbird,MO,,city-us,0,38.18,-91.57,479
-41581,Redbird,NE,,city-us,0,42.76,-98.44,206
-41582,Redbird,WV,,city-us,0,37.79,-81.44,212
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36159,Redford,MI,Wayne County,,city-us,48816,42.395,-83.294,7273
+36156,Redford,NY,Clinton County,,city-us,253,44.608,-73.804,2264
+36157,Redford,TX,Presidio County,,city-us,43,29.450,-104.189,2294
+36158,Redford,MO,Reynolds County,,city-us,0,37.320,-90.898,474

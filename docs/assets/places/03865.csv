@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29429,Cloverland,WI,,city-us,1091,45.94,-89.37,1943
-29428,Cloverland,WI,,city-us,247,46.68,-91.68,2065
-29427,Cloverland,IN,,city-us,0,39.50,-87.23,920
-29430,Cloverland,WA,,city-us,0,46.25,-117.25,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19806,Hesston,KS,Harvey County,,city-us,3495,38.138,-97.431,10673
+19807,Hesston,PA,Huntingdon County,,city-us,0,40.427,-78.117,2887
+19808,Hesston,IN,LaPorte County,,city-us,0,41.753,-86.661,924

@@ -1,4 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47662,Sandy Run,PA,,city-us,0,40.12,-78.23,110
-47663,Sandy Run,PA,,city-us,0,41.02,-75.86,107
-47664,Sandy Run,SC,,city-us,0,33.80,-80.96,1365
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47075,Wilmington,NC,New Hanover County,,city-us,117643,34.226,-77.945,55498
+47074,Wilmington,DE,New Castle County,,city-us,70750,39.746,-75.547,55006
+47073,Wilmington,MA,Middlesex County,,city-us,23311,42.546,-71.174,10764
+47065,Wilmington,OH,Clinton County,,city-us,12502,39.445,-83.829,14046
+47077,Wilmington,IL,Will County,,city-us,5921,41.334,-88.189,4413
+47071,Wilmington,PA,Lawrence County,,city-us,2660,41.108,-80.318,188
+47072,Wilmington,PA,Mercer County,,city-us,1405,41.149,-80.318,188
+47067,Wilmington,NY,Essex County,,city-us,880,44.388,-73.815,3778
+47078,Wilmington,VT,Windham County,,city-us,457,42.868,-72.871,6251
+47069,Wilmington,IL,Greene County,,city-us,89,39.481,-90.487,1820
+47066,Wilmington,IN,Dearborn County,,city-us,0,39.063,-84.947,316
+47068,Wilmington,VA,Fluvanna County,,city-us,0,37.849,-78.201,94
+47070,Wilmington,MN,Houston County,,city-us,0,43.547,-91.543,88
+47076,Wilmington,KS,Wabaunsee County,,city-us,0,38.744,-95.959,326

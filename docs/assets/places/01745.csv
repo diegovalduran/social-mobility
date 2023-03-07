@@ -1,12 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15894,Salt Creek,OH,,city-us,4670,40.63,-81.82,308
-15896,Salt Creek,OH,,city-us,4531,40.70,-81.82,308
-15893,Salt Creek,OH,,city-us,1120,39.41,-82.69,308
-15895,Salt Creek,OH,,city-us,1101,39.89,-81.85,308
-15887,Salt Creek,CO,,city-us,771,38.24,-104.59,2448
-15891,Salt Creek,KS,,city-us,446,38.07,-98.09,0
-15888,Salt Creek,IL,,city-us,219,40.17,-89.77,349
-15892,Salt Creek,MO,,city-us,160,39.58,-93.02,132
-15889,Salt Creek,KS,,city-us,47,39.18,-97.98,0
-15890,Salt Creek,KS,,city-us,21,39.26,-98.10,0
-15897,Salt Creek,OR,,city-us,0,45.00,-123.35,1042
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8981,Clio,MI,Genesee County,,city-us,2498,43.178,-83.734,5047
+8980,Clio,AL,Barbour County,,city-us,1203,31.709,-85.611,2594
+8983,Clio,SC,Marlboro County,,city-us,605,34.580,-79.546,2144
+8984,Clio,CA,Plumas County,,city-us,170,39.743,-120.580,4201
+8986,Clio,IA,Wayne County,,city-us,67,40.635,-93.451,3759
+8982,Clio,LA,Livingston Parish,,city-us,0,30.310,-90.610,900
+8985,Clio,WV,Roane County,,city-us,0,38.581,-81.301,127

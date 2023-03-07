@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21449,Dana,NC,,city-us,3683,35.33,-82.38,1008
-21448,Dana,IN,,city-us,548,39.81,-87.50,4318
-21447,Dana,IL,,city-us,156,40.96,-88.95,2090
-21446,Dana,IA,,city-us,35,42.11,-94.24,3607
-21450,Dana,CA,,city-us,0,41.11,-121.56,283
-21451,Dana,KY,,city-us,0,37.55,-82.69,79
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12700,East Haven,CT,South Central Connecticut Planning Region,,city-us,28054,41.293,-72.859,29765
+12699,East Haven,VT,Essex County,,city-us,273,44.664,-71.805,2658
+12701,East Haven,IN,Wayne County,,city-us,0,39.839,-84.931,157

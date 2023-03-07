@@ -1,25 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16291,Brooklyn,NY,,city-us,2636735,40.62,-73.95,71310
-16292,Brooklyn,OH,,city-us,11177,41.44,-81.74,5505
-16283,Brooklyn,CT,,city-us,8488,41.79,-71.96,5190
-16288,Brooklyn,IN,,city-us,2541,39.54,-86.37,3879
-16296,Brooklyn,WI,,city-us,1822,43.86,-88.96,2369
-16295,Brooklyn,WI,,city-us,1521,42.85,-89.38,283
-16284,Brooklyn,IA,,city-us,1491,41.73,-92.45,4850
-16289,Brooklyn,MI,,city-us,1370,42.11,-84.25,4723
-16298,Brooklyn,WI,,city-us,1118,42.81,-89.43,2306
-16285,Brooklyn,IL,,city-us,693,41.67,-89.11,1146
-16287,Brooklyn,IL,,city-us,641,38.66,-90.17,13870
-16297,Brooklyn,WI,,city-us,313,46.01,-91.85,1931
-16294,Brooklyn,SD,,city-us,211,43.13,-96.86,630
-16290,Brooklyn,ND,,city-us,18,48.23,-103.27,0
-16286,Brooklyn,IL,,city-us,0,40.23,-90.76,155
-16293,Brooklyn,PA,,city-us,0,41.75,-75.81,260
-16299,Brooklyn,AL,,city-us,0,31.31,-86.17,121
-16300,Brooklyn,AL,,city-us,0,31.26,-86.77,437
-16301,Brooklyn,AL,,city-us,0,34.23,-86.62,119
-16302,Brooklyn,MS,,city-us,0,31.06,-89.19,2221
-16303,Brooklyn,MO,,city-us,0,40.40,-94.04,614
-16304,Brooklyn,VA,,city-us,0,37.15,-80.56,91
-16305,Brooklyn,WV,,city-us,0,37.99,-81.05,124
-16306,Brooklyn,WV,,city-us,0,39.64,-80.86,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9172,Coe,MI,Isabella County,,city-us,2993,43.505,-84.672,2383
+9176,Coe,IL,Rock Island County,,city-us,1759,41.621,-90.258,530
+9173,Coe,KY,Monroe County,,city-us,0,36.683,-85.550,87
+9174,Coe,WV,Nicholas County,,city-us,0,38.326,-80.554,324
+9175,Coe,IN,Pike County,,city-us,0,38.306,-87.260,335

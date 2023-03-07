@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47751,Pumpkintown,SC,,city-us,0,35.00,-82.65,338
-47752,Pumpkintown,WV,,city-us,0,38.89,-80.02,94
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47360,Wintersville,OH,Jefferson County,,city-us,3745,40.375,-80.704,4656
+47359,Wintersville,PA,Berks County,,city-us,0,40.425,-76.265,208
+47361,Wintersville,MO,Sullivan County,,city-us,0,40.268,-93.327,378

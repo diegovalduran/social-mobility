@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40489,Inlet,WI,,city-us,4559,42.63,-88.58,2232
-40487,Inlet,NY,,city-us,361,43.72,-74.71,5642
-40488,Inlet,OH,,city-us,0,41.65,-84.19,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34366,Pittsford,NY,Monroe County,,city-us,30319,43.075,-77.528,16932
+34367,Pittsford,VT,Rutland County,,city-us,593,43.707,-73.028,3532
+34365,Pittsford,MI,Hillsdale County,,city-us,553,41.862,-84.476,1523

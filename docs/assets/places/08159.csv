@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44802,Trickem,AL,,city-us,0,33.56,-85.41,285
-44803,Trickem,AL,,city-us,0,32.27,-86.75,199
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41294,Star Valley,AZ,Gila County,,city-us,2532,34.255,-111.258,2834
+41295,Star Valley,SD,Gregory County,,city-us,80,43.065,-98.744,0
+41296,Star Valley,SD,Tripp County,,city-us,24,43.633,-99.891,0

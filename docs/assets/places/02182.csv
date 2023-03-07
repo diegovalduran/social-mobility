@@ -1,14 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18828,Westville,IN,,city-us,5307,41.54,-86.90,4016
-18829,Westville,NJ,,city-us,4326,39.87,-75.13,10457
-18827,Westville,IL,,city-us,3120,40.04,-87.64,5202
-18830,Westville,NY,,city-us,1689,44.94,-74.38,3695
-18831,Westville,OK,,city-us,1365,35.99,-94.57,5937
-18833,Westville,MI,,city-us,1282,43.34,-85.03,3207
-18826,Westville,FL,,city-us,264,30.77,-85.85,2284
-18832,Westville,CA,,city-us,0,39.17,-120.65,280
-18834,Westville,MS,,city-us,0,33.85,-88.39,170
-18835,Westville,MO,,city-us,0,39.64,-92.91,268
-18836,Westville,OH,,city-us,0,40.11,-83.84,487
-18837,Westville,PA,,city-us,0,41.21,-78.84,403
-18838,Westville,SC,,city-us,0,34.46,-80.60,663
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10952,Danby,NY,Tompkins County,,city-us,3423,42.332,-76.472,7219
+10948,Danby,MI,Ionia County,,city-us,3063,42.806,-84.901,1930
+10950,Danby,VT,Rutland County,,city-us,199,43.346,-72.995,3557
+10949,Danby,MO,Jefferson County,,city-us,0,38.109,-90.308,502
+10951,Danby,CA,San Bernardino County,,city-us,0,34.636,-115.348,476

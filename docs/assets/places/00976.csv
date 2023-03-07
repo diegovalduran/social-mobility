@@ -1,4 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10489,Snowflake,AZ,,city-us,6364,34.51,-110.08,4320
-10490,Snowflake,VA,,city-us,0,36.69,-82.49,122
-10491,Snowflake,WV,,city-us,0,37.75,-80.55,185
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4906,Boyd,TX,Wise County,,city-us,1481,33.079,-97.565,1781
+4900,Boyd,WI,Chippewa County,,city-us,603,44.952,-91.035,3136
+4903,Boyd,MN,Lac qui Parle County,,city-us,142,44.849,-95.903,2899
+4897,Boyd,ND,Burleigh County,,city-us,134,46.765,-100.521,5119
+4898,Boyd,MT,Carbon County,,city-us,19,45.458,-109.066,706
+4896,Boyd,KS,Barton County,,city-us,0,38.519,-98.848,219
+4899,Boyd,IA,Chickasaw County,,city-us,0,43.013,-92.258,314
+4901,Boyd,MO,Dallas County,,city-us,0,37.502,-93.076,317
+4902,Boyd,KY,Harrison County,,city-us,0,38.551,-84.394,300
+4904,Boyd,AR,Miller County,,city-us,0,33.342,-93.927,127
+4905,Boyd,IN,Rush County,,city-us,0,39.719,-85.551,145

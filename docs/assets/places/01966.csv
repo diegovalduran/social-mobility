@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17644,Boynton Beach,FL,,city-us,80089,26.53,-80.07,10162
-17645,Boynton Beach,NJ,,city-us,0,40.58,-74.27,797
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10006,Corwin,IL,Logan County,,city-us,590,40.094,-89.548,425
+10008,Corwin,OH,Warren County,,city-us,494,39.525,-84.078,3254
+10007,Corwin,ND,Stutsman County,,city-us,94,46.747,-98.638,0
+10005,Corwin,KS,Harper County,,city-us,0,37.084,-98.304,402

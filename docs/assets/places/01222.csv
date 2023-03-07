@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12353,Green Acres,CA,,city-us,3205,33.74,-117.08,2190
-12354,Green Acres,ND,,city-us,759,48.84,-99.69,233
-12355,Green Acres,DE,,city-us,0,39.79,-75.50,1589
-12356,Green Acres,IN,,city-us,0,41.48,-87.30,261
-12357,Green Acres,OR,,city-us,0,43.26,-124.20,819
-12358,Green Acres,VA,,city-us,0,36.58,-79.35,99
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6136,Burleson,TX,Johnson County / Tarrant County,,city-us,51618,32.516,-97.327,8556
+6174,Burlison,TN,Tipton County,,city-us,366,35.557,-89.779,2293

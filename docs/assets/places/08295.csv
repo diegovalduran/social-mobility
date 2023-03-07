@@ -1,4 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45161,Hon,AR,,city-us,0,34.94,-94.18,258
-45162,Hahn,MO,,city-us,0,37.21,-90.07,358
-45163,Hahn,TX,,city-us,0,29.28,-96.40,1853
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41931,Summerfield,MD,Prince George's County,,city-us,16002,38.905,-76.868,2364
+41924,Summerfield,NC,Guilford County,,city-us,11119,36.209,-79.905,4743
+41929,Summerfield,MI,Monroe County,,city-us,3181,41.870,-83.712,177
+41922,Summerfield,MI,Clare County,,city-us,465,44.110,-84.892,177
+41932,Summerfield,IL,St. Clair County,,city-us,339,38.597,-89.752,2070
+41930,Summerfield,OH,Noble County,,city-us,244,39.797,-81.336,3196
+41928,Summerfield,KS,Marshall County,,city-us,126,39.997,-96.350,3340
+41920,Summerfield,TX,Castro County,,city-us,0,34.738,-102.507,850
+41921,Summerfield,LA,Claiborne Parish,,city-us,0,32.913,-92.829,1197
+41923,Summerfield,AL,Dallas County,,city-us,0,32.521,-87.042,954
+41925,Summerfield,OK,Le Flore County,,city-us,0,34.899,-94.866,285
+41926,Summerfield,MO,Maries County,,city-us,0,38.284,-91.805,216
+41927,Summerfield,FL,Marion County,,city-us,0,29.008,-82.035,427

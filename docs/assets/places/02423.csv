@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20541,Toccoa,GA,,city-us,9188,34.58,-83.33,23883
-20542,Toco,TX,,city-us,91,33.65,-95.65,2403
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12128,Dowling,MI,Barry County,,city-us,351,42.523,-85.253,998
+12130,Dowling,NE,Knox County,,city-us,106,42.569,-97.544,240
+12129,Dowling,TX,Jefferson County,,city-us,0,30.017,-94.037,83
+12131,Dowling,OH,Wood County,,city-us,0,41.478,-83.594,222

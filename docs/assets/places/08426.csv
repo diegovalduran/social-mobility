@@ -1,10 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45493,Jimtown,WV,,city-us,1002,38.92,-80.00,1723
-45486,Jimtown,DE,,city-us,0,38.73,-75.19,1992
-45487,Jimtown,IL,,city-us,0,39.90,-88.36,193
-45488,Jimtown,OH,,city-us,0,39.35,-82.72,226
-45489,Jimtown,OK,,city-us,0,33.86,-97.37,130
-45490,Jimtown,OR,,city-us,0,44.91,-117.14,563
-45491,Jimtown,WV,,city-us,0,39.40,-80.40,140
-45492,Jimtown,WV,,city-us,0,39.64,-78.22,293
-45494,Jimtown,WI,,city-us,0,43.35,-90.64,197
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42528,Tatum,TX,Panola County / Rusk County,,city-us,1340,32.316,-94.519,4936
+42526,Tatum,NM,Lea County,,city-us,697,33.257,-103.318,2463
+42527,Tatum,SC,Marlboro County,,city-us,74,34.644,-79.586,1940

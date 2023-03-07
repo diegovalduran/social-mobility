@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39753,Gillette,WY,,city-us,32884,44.29,-105.50,15999
-39752,Gillette,NJ,,city-us,2956,40.67,-74.47,843
-39754,Gillette,FL,,city-us,0,27.60,-82.53,636
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33205,Parkwood,WA,Kitsap County,,city-us,7115,47.533,-122.610,2040
+33206,Parkwood,CA,Madera County,,city-us,2496,36.927,-120.045,4307

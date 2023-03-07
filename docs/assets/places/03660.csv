@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28214,Saline,MI,,city-us,8961,42.17,-83.78,5659
-28212,Saline,IL,,city-us,6910,38.78,-89.64,598
-28216,Saline,OH,,city-us,1157,40.55,-80.70,1478
-28213,Saline,LA,,city-us,264,32.16,-92.97,3934
-28215,Saline,ND,,city-us,14,48.42,-100.87,0
-28217,Saline,TX,,city-us,0,30.72,-99.55,172
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18603,Hamilton Square,NJ,Mercer County,,city-us,12244,40.227,-74.653,2212
+18604,Hamilton Square,PA,Monroe County,,city-us,0,40.924,-75.295,192

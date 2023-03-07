@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28022,Ridgeland,MS,,city-us,24058,32.43,-90.13,6056
-28023,Ridgeland,SC,,city-us,3683,32.47,-80.92,5153
-28021,Ridgeland,IL,,city-us,319,40.70,-88.07,1137
-28025,Ridgeland,WI,,city-us,258,45.20,-91.90,3127
-28024,Ridgeland,SD,,city-us,50,45.52,-100.63,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18417,Hahn,MO,Bollinger County,,city-us,0,37.205,-90.070,358
+18418,Hahn,TX,Wharton County,,city-us,0,29.281,-96.397,1853
+20535,Hon,AR,Scott County,,city-us,0,34.939,-94.181,258

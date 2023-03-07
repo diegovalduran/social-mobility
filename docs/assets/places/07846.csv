@@ -1,9 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43908,Van,,Turkey,city-international,353419,38.50,43.42,15510
-43901,Van,TX,,city-us,2745,32.52,-95.64,5107
-43904,Van,MI,,city-us,1297,45.59,-84.79,2446
-43902,Van,WV,,city-us,117,37.97,-81.71,3322
-43903,Van,AR,,city-us,0,34.33,-91.23,141
-43905,Van,MO,,city-us,0,37.56,-93.29,257
-43906,Van,OR,,city-us,0,43.99,-118.69,482
-43907,Van,VA,,city-us,0,36.61,-83.16,258
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39794,Sigel,WI,Chippewa County,,city-us,1147,44.903,-91.172,3096
+39798,Sigel,WI,Wood County,,city-us,1024,44.469,-89.902,3059
+39797,Sigel,IL,Shelby County,,city-us,720,39.251,-88.524,199
+39795,Sigel,MI,Huron County,,city-us,434,43.819,-82.826,3332
+39793,Sigel,MN,Brown County,,city-us,343,44.256,-94.558,2495
+39796,Sigel,PA,Jefferson County,,city-us,0,41.275,-79.113,600

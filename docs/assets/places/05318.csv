@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35754,Effie,MN,,city-us,106,47.84,-93.64,3078
-35755,Effie,LA,,city-us,0,31.22,-92.16,108
-35756,Effie,MS,,city-us,0,33.93,-90.18,190
-35757,Effie,WV,,city-us,0,38.09,-82.51,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27261,Mauck,VA,Page County,,city-us,0,38.560,-78.446,85
+27275,Mauk,GA,Taylor County,,city-us,0,32.502,-84.421,251

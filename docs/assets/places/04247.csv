@@ -1,6 +1,28 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31254,Lakin,KS,,city-us,2455,38.00,-101.27,780
-31255,Lakin,MN,,city-us,461,45.87,-93.83,1854
-31253,Lakin,KS,,city-us,362,37.95,-97.54,365
-31252,Lakin,KS,,city-us,243,38.38,-98.56,497
-31256,Lakin,WV,,city-us,0,38.96,-82.09,711
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21880,Jamestown,NY,Chautauqua County,,city-us,28393,42.097,-79.235,28196
+21900,Jamestown,ND,Stutsman County,,city-us,15750,46.911,-98.708,11887
+21895,Jamestown,MI,Ottawa County,,city-us,9923,42.806,-85.836,7387
+21894,Jamestown,RI,Newport County,,city-us,5536,41.520,-71.371,10303
+21888,Jamestown,NC,Guilford County,,city-us,3721,35.994,-79.935,10152
+21901,Jamestown,CA,Tuolumne County,,city-us,3543,37.953,-120.423,4640
+21886,Jamestown,WI,Grant County,,city-us,2207,42.555,-90.595,2172
+21887,Jamestown,OH,Greene County,,city-us,2051,39.658,-83.735,3977
+21885,Jamestown,TN,Fentress County,,city-us,1891,36.428,-84.932,4878
+21897,Jamestown,KY,Russell County,,city-us,1828,36.985,-85.063,2803
+21878,Jamestown,IN,Boone County / Hendricks County,,city-us,952,39.929,-86.626,4410
+21877,Jamestown,MN,Blue Earth County,,city-us,678,44.219,-93.829,2729
+21892,Jamestown,PA,Mercer County,,city-us,575,41.485,-80.438,2744
+21881,Jamestown,WA,Clallam County,,city-us,398,48.128,-123.087,560
+21893,Jamestown,MO,Moniteau County,,city-us,330,38.766,-92.481,3595
+21891,Jamestown,NM,McKinley County,,city-us,317,35.481,-108.433,1472
+21879,Jamestown,CO,Boulder County,,city-us,254,40.116,-105.389,2827
+21883,Jamestown,KS,Cloud County,,city-us,234,39.599,-97.861,6784
+21876,Jamestown,LA,Bienville Parish,,city-us,93,32.344,-93.212,2617
+21875,Jamestown,SC,Berkeley County,,city-us,71,33.286,-79.693,3964
+21896,Jamestown,OK,Rogers County,,city-us,10,36.570,-95.629,1800
+21882,Jamestown,IL,Clinton County,,city-us,0,38.735,-89.519,981
+21884,Jamestown,IN,Elkhart County,,city-us,0,41.636,-86.023,699
+21889,Jamestown,VA,James City County,,city-us,0,37.212,-76.775,0
+21890,Jamestown,WV,Jefferson County,,city-us,0,39.241,-77.984,193
+21898,Jamestown,TX,Smith County,,city-us,0,32.586,-95.584,463
+21899,Jamestown,IN,Steuben County,,city-us,0,41.750,-85.020,158

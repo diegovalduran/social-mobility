@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46536,Eve,KY,,city-us,0,37.31,-85.68,71
-46537,Eve,MO,,city-us,0,37.84,-94.58,572
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44359,Verdi,NV,Washoe County,,city-us,1094,39.518,-119.989,3589
+44357,Verdi,CA,Sierra County,,city-us,165,39.524,-120.013,2663
+44354,Verdi,TX,Atascosa County,,city-us,0,29.050,-98.399,2857
+44355,Verdi,MN,Lincoln County,,city-us,0,44.209,-96.352,495
+44356,Verdi,KS,Ottawa County,,city-us,0,38.992,-97.503,337
+44358,Verdi,IA,Washington County,,city-us,0,41.236,-91.779,229

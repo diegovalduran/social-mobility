@@ -1,10 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20145,Pinehurst,NC,,city-us,18019,35.20,-79.47,6899
-20144,Pinehurst,MA,,city-us,6653,42.53,-71.23,2517
-20146,Pinehurst,TX,,city-us,4727,30.17,-95.68,3962
-20147,Pinehurst,TX,,city-us,2216,30.11,-93.77,2265
-20143,Pinehurst,ID,,city-us,1729,47.54,-116.24,3142
-20142,Pinehurst,GA,,city-us,297,32.20,-83.76,2269
-20148,Pinehurst,CA,,city-us,0,36.70,-119.02,181
-20149,Pinehurst,OH,,city-us,0,39.41,-81.50,221
-20150,Pinehurst,OR,,city-us,0,42.12,-122.37,2390
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11888,Dodds,IL,Jefferson County,,city-us,2693,38.255,-88.880,1701
+11889,Dodds,ND,Nelson County,,city-us,40,47.984,-98.322,0
+11890,Dodds,MO,New Madrid County,,city-us,0,36.602,-89.674,483
+11891,Dodds,OH,Warren County,,city-us,0,39.494,-84.153,324

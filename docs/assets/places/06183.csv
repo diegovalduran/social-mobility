@@ -1,3 +1,19 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38694,Coulee,ND,,city-us,40,48.24,-99.13,708
-38695,Coulee,ND,,city-us,0,48.55,-102.01,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31522,Norton,MA,Bristol County,,city-us,19278,41.965,-71.182,12323
+31536,Norton,OH,Summit County / Wayne County,,city-us,11571,41.029,-81.646,7302
+31531,Norton,VA,Norton city,,city-us,3666,36.933,-82.629,3794
+31532,Norton,KS,Norton County,,city-us,2758,39.834,-99.892,7132
+31530,Norton,IL,Kankakee County,,city-us,914,41.056,-88.191,1616
+31529,Norton,KS,Jefferson County,,city-us,856,39.392,-95.310,888
+31538,Norton,MN,Winona County,,city-us,522,44.063,-91.895,1984
+31533,Norton,WV,Randolph County,,city-us,281,38.932,-79.966,542
+31526,Norton,VT,Essex County,,city-us,155,44.977,-71.804,3048
+31537,Norton,ND,Walsh County,,city-us,54,48.329,-97.981,109
+31523,Norton,OH,Delaware County,,city-us,0,40.434,-83.075,238
+31524,Norton,IN,Dubois County,,city-us,0,38.494,-86.683,267
+31525,Norton,WI,Dunn County,,city-us,0,45.016,-91.834,110
+31527,Norton,NJ,Hunterdon County,,city-us,0,40.657,-74.979,947
+31528,Norton,NC,Jackson County,,city-us,0,35.131,-83.156,319
+31534,Norton,TX,Runnels County,,city-us,0,31.871,-100.126,481
+31535,Norton,MO,Saline County,,city-us,0,39.196,-93.135,286
+31539,Norton,CA,Yolo County,,city-us,0,38.586,-121.971,194

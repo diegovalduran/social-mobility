@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42218,Germany,,,country,84220184,51.17,10.45,54429
-42215,Germany,PA,,city-us,2839,39.73,-77.11,2484
-42217,Germany,TX,,city-us,43,31.44,-95.35,808
-42216,Germany,IN,,city-us,0,38.46,-85.54,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37059,Roby,TX,Fisher County,,city-us,594,32.745,-100.378,4975
+37058,Roby,IL,Christian County,,city-us,0,39.739,-89.399,146
+37060,Roby,MO,Texas County,,city-us,0,37.516,-92.139,440

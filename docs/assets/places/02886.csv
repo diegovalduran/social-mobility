@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23505,Whitten,IA,,city-us,98,42.26,-93.01,4322
-23506,Witten,SD,,city-us,33,43.46,-100.07,2849
-23507,Whiton,AL,,city-us,0,34.36,-86.08,311
-23508,Whitton,AR,,city-us,0,35.51,-90.27,170
-23509,Whitton,IL,,city-us,0,42.23,-90.31,184
-23510,Whiton,MD,,city-us,0,38.29,-75.38,182
-23511,Whitton,TX,,city-us,0,32.48,-96.00,669
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14495,Fairville,ND,Wells County,,city-us,28,47.629,-99.305,0
+14493,Fairville,IA,Palo Alto County,,city-us,0,43.156,-94.463,229
+14494,Fairville,MO,Saline County,,city-us,0,39.232,-93.218,290

@@ -1,12 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26,Badger,AK,,city-us,19226,64.80,-147.53,2029
-27,Badger,IA,,city-us,544,42.61,-94.15,3337
-30,Badger,MO,,city-us,447,37.80,-94.24,172
-29,Badger,MN,,city-us,426,48.78,-96.01,3192
-33,Badger,SD,,city-us,215,44.49,-97.22,2926
-32,Badger,SD,,city-us,148,43.81,-98.15,2926
-28,Badger,MN,,city-us,119,47.71,-96.02,12464
-31,Badger,ND,,city-us,54,46.32,-98.46,0
-34,Badger,CA,,city-us,0,36.63,-119.01,1313
-35,Badger,WA,,city-us,0,46.20,-119.36,430
-36,Badger,WI,,city-us,0,44.34,-89.24,1058
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11,Abbeville,LA,Vermilion Parish,,city-us,11048,29.975,-92.134,9934
+8,Abbeville,SC,Abbeville County,,city-us,4860,34.178,-82.379,8657
+12,Abbeville,GA,Wilcox County,,city-us,2662,31.992,-83.307,3504
+9,Abbeville,AL,Henry County,,city-us,2379,31.572,-85.250,10970
+10,Abbeville,MS,Lafayette County,,city-us,383,34.503,-89.503,2387

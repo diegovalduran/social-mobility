@@ -1,26 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13705,Pine Grove,PA,,city-us,4027,40.54,-76.41,3227
-13703,Pine Grove,MI,,city-us,2977,42.38,-85.82,3989
-13702,Pine Grove,CA,,city-us,2864,38.41,-120.66,2570
-13706,Pine Grove,PA,,city-us,2586,41.95,-79.10,243
-13708,Pine Grove,WI,,city-us,863,44.29,-89.54,2061
-13709,Pine Grove,WV,,city-us,353,39.57,-80.68,3175
-13704,Pine Grove,OR,,city-us,162,45.11,-121.36,1940
-13707,Pine Grove,WA,,city-us,84,48.65,-118.68,702
-13710,Pine Grove,AL,,city-us,0,30.83,-87.74,442
-13711,Pine Grove,CA,,city-us,0,38.83,-122.73,162
-13712,Pine Grove,CA,,city-us,0,39.35,-123.81,238
-13713,Pine Grove,KY,,city-us,0,38.00,-84.32,120
-13714,Pine Grove,LA,,city-us,0,32.21,-93.05,139
-13715,Pine Grove,LA,,city-us,0,32.45,-92.05,173
-13716,Pine Grove,LA,,city-us,0,30.71,-90.75,248
-13717,Pine Grove,OR,,city-us,0,45.65,-121.51,2820
-13718,Pine Grove,OR,,city-us,0,42.18,-121.67,644
-13719,Pine Grove,TX,,city-us,0,31.88,-95.33,997
-13720,Pine Grove,TX,,city-us,0,32.14,-95.80,92
-13721,Pine Grove,VA,,city-us,0,38.54,-78.48,90
-13722,Pine Grove,WV,,city-us,0,38.08,-81.05,139
-13723,Pine Grove,WV,,city-us,0,39.50,-80.20,157
-13724,Pine Grove,WV,,city-us,0,39.37,-81.04,92
-13725,Pine Grove,WI,,city-us,0,44.42,-87.89,117
-13726,Pine Grove,WI,,city-us,0,44.90,-91.63,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7188,Caseyville,IL,St. Clair County,,city-us,4389,38.637,-90.026,2996
+7187,Caseyville,MS,Lincoln County,,city-us,0,31.673,-90.656,353
+7189,Caseyville,KY,Union County,,city-us,0,37.538,-88.064,736
+22533,Kaseyville,MO,Macon County,,city-us,0,39.624,-92.663,261

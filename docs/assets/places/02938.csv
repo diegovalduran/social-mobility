@@ -1,7 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23788,Island Park,NY,,city-us,4920,40.60,-73.66,4873
-23787,Island Park,ND,,city-us,299,46.41,-97.73,0
-23786,Island Park,ID,,city-us,193,44.42,-111.37,9025
-23789,Island Park,IN,,city-us,0,41.29,-85.80,194
-23790,Island Park,IN,,city-us,0,41.54,-84.92,162
-23791,Island Park,WI,,city-us,0,44.02,-88.80,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14748,Fayette,OH,Lawrence County,,city-us,8390,38.447,-82.531,1711
+14738,Fayette,AL,Fayette County,,city-us,4185,33.685,-87.831,5266
+14751,Fayette,NY,Seneca County,,city-us,3602,42.843,-76.859,5736
+14745,Fayette,PA,Juniata County,,city-us,3300,40.651,-77.275,2492
+14743,Fayette,MO,Howard County,,city-us,2717,39.146,-92.684,4795
+14744,Fayette,MS,Jefferson County,,city-us,1417,31.712,-91.061,3972
+14741,Fayette,OH,Fulton County,,city-us,1297,41.673,-84.327,4736
+14739,Fayette,IA,Fayette County,,city-us,1197,42.842,-91.802,3932
+14746,Fayette,ME,Kennebec County,,city-us,1186,44.434,-70.067,4825
+14742,Fayette,MI,Hillsdale County,,city-us,1102,41.971,-84.644,2451
+14747,Fayette,WI,Lafayette County,,city-us,376,42.754,-90.035,2312
+14737,Fayette,MI,Delta County,,city-us,281,45.686,-86.657,3408
+14750,Fayette,UT,Sanpete County,,city-us,257,39.225,-111.857,2072
+14749,Fayette,IL,Livingston County,,city-us,246,40.639,-88.399,426
+14736,Fayette,IN,Boone County,,city-us,0,39.931,-86.397,228
+14740,Fayette,WV,Fayette County,,city-us,0,38.063,-81.073,147

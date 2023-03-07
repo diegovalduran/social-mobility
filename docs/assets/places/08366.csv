@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45338,Midas,CA,,city-us,0,39.22,-120.76,292
-45339,Midas,KY,,city-us,0,37.51,-82.83,1556
-45340,Midas,NV,,city-us,0,41.24,-116.80,1782
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42286,Sweet Springs,MO,Saline County,,city-us,1326,38.964,-93.415,4692
+42285,Sweet Springs,WV,Monroe County,,city-us,0,37.628,-80.241,812

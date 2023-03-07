@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47723,Creamery,PA,,city-us,0,40.22,-75.42,198
-47724,Creamery,WV,,city-us,0,37.64,-80.68,120
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47305,Winner,SD,Tripp County,,city-us,2852,43.377,-99.859,4765
+47306,Winner,ND,Williams County,,city-us,34,48.496,-103.581,0
+47304,Winner,MO,Clay County,,city-us,0,39.333,-94.492,239

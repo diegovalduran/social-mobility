@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18429,Pelican Bay,FL,,city-us,6243,26.23,-81.81,2407
-18430,Pelican Bay,TX,,city-us,2236,32.92,-97.52,2215
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10576,Crystal Beach,MI,Branch County,,city-us,2326,41.852,-84.995,2595
+10580,Crystal Beach,NY,Ontario County,,city-us,804,42.814,-77.264,1439
+10579,Crystal Beach,AZ,Mohave County,,city-us,222,34.571,-114.393,1447
+10577,Crystal Beach,MD,Cecil County,,city-us,0,39.442,-75.975,2595
+10578,Crystal Beach,TX,Galveston County,,city-us,0,29.457,-94.640,6289
+10581,Crystal Beach,FL,Pinellas County,,city-us,0,28.091,-82.780,909

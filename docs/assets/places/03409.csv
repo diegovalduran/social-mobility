@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26691,Lockport,IL,,city-us,58931,41.60,-88.09,631
-26695,Lockport,NY,,city-us,20738,43.17,-78.69,17697
-26694,Lockport,MI,,city-us,3709,41.94,-85.58,1963
-26693,Lockport,LA,,city-us,2490,29.65,-90.54,4746
-26692,Lockport,KS,,city-us,453,37.56,-100.73,349
-26696,Lockport,IN,,city-us,0,40.70,-86.57,554
-26697,Lockport,KY,,city-us,0,38.44,-84.97,311
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17241,Goodwin,SD,Deuel County,,city-us,194,44.841,-96.814,3366
+17242,Goodwin,AR,St. Francis County,,city-us,113,34.938,-91.021,525
+17240,Goodwin,NE,Dakota County,,city-us,0,42.455,-96.655,283
+17243,Goodwin,WV,Upshur County,,city-us,0,38.928,-80.160,88

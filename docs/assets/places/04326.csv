@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31638,Radium,KS,,city-us,24,38.17,-98.89,2755
-31640,Radium,MN,,city-us,20,48.23,-96.61,923
-31639,Radium,CO,,city-us,0,39.96,-106.54,1081
-31641,Radium,TX,,city-us,0,32.83,-100.00,78
-31642,Radium,VA,,city-us,0,36.73,-77.63,218
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22392,Juarez,,,Mexico,city-international,1321004,31.739,-106.487,29285
+22391,Juarez,TX,Cameron County,,city-us,1948,26.201,-97.730,498

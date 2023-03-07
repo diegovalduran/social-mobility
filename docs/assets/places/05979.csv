@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38036,Pony,MT,,city-us,127,45.66,-111.89,1051
-38037,Pony,IN,,city-us,0,40.44,-85.09,305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30597,New England,GA,Dade County,,city-us,524,34.910,-85.480,825
+30598,New England,ND,Hettinger County,,city-us,83,46.499,-102.863,3957
+30599,New England,WV,Wood County,,city-us,0,39.207,-81.709,191

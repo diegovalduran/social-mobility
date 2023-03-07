@@ -1,20 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10059,Elgin,IL,,city-us,113911,42.04,-88.33,21688
-10060,Elgin,IL,,city-us,104102,42.03,-88.32,483
-10073,Elgin,TX,,city-us,10549,30.35,-97.39,12151
-10067,Elgin,OK,,city-us,3715,34.78,-98.29,3417
-10071,Elgin,SC,,city-us,2876,34.67,-80.72,2271
-10068,Elgin,OR,,city-us,1694,45.56,-117.92,6585
-10070,Elgin,SC,,city-us,1620,34.17,-80.79,8898
-10065,Elgin,NE,,city-us,712,41.98,-98.08,3215
-10062,Elgin,MN,,city-us,686,44.16,-92.24,1836
-10058,Elgin,IA,,city-us,681,42.96,-91.63,4514
-10064,Elgin,ND,,city-us,526,46.40,-101.85,3981
-10057,Elgin,AZ,,city-us,210,31.66,-110.53,3703
-10069,Elgin,PA,,city-us,203,41.90,-79.74,2546
-10072,Elgin,TN,,city-us,185,36.33,-84.61,235
-10063,Elgin,ND,,city-us,183,48.75,-98.42,3981
-10061,Elgin,KS,,city-us,56,37.00,-96.28,3689
-10066,Elgin,OH,,city-us,46,40.74,-84.48,2749
-10074,Elgin,AL,,city-us,0,34.85,-87.39,1491
-10075,Elgin,MO,,city-us,0,39.94,-92.00,241
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4581,Boardman,OH,Mahoning County,,city-us,39698,41.022,-80.665,9909
+4583,Boardman,OR,Morrow County,,city-us,3921,45.840,-119.701,8731
+4580,Boardman,MI,Kalkaska County,,city-us,1496,44.646,-85.263,2519
+4579,Boardman,NC,Columbus County,,city-us,161,34.439,-78.949,2105
+4582,Boardman,FL,Marion County,,city-us,0,29.467,-82.214,787
+4584,Boardman,WI,St. Croix County,,city-us,0,45.066,-92.600,336

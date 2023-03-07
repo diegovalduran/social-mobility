@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46702,Sharkey,KY,,city-us,0,38.24,-83.54,888
-46703,Sharkey,LA,,city-us,0,30.37,-90.42,147
-46704,Sharkey,MS,,city-us,0,33.91,-90.26,260
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44729,Vulcan,MI,Dickinson County,,city-us,1489,45.823,-87.889,2421
+44730,Vulcan,MO,Iron County,,city-us,0,37.309,-90.662,403
+44731,Vulcan,WV,Mingo County,,city-us,0,37.552,-82.126,1723

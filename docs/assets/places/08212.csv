@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44941,Benevola,AL,,city-us,0,33.14,-88.04,200
-44942,Benevola,MD,,city-us,0,39.55,-77.68,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41543,Stockport,NY,Columbia County,,city-us,2674,42.317,-73.755,3118
+41545,Stockport,OH,Morgan County,,city-us,478,39.548,-81.793,3845
+41546,Stockport,IA,Van Buren County,,city-us,276,40.858,-91.835,3442
+41544,Stockport,IN,Delaware County,,city-us,0,40.321,-85.461,343

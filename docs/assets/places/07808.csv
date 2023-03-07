@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43797,Rancho Viejo,TX,,city-us,2856,26.04,-97.56,3090
-43798,Rancho Viejo,TX,,city-us,280,26.41,-98.92,492
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39522,Sherburne,NY,Chenango County,,city-us,3922,42.694,-75.481,12218
+39521,Sherburn,MN,Martin County,,city-us,1062,43.652,-94.727,8830
+39523,Sherburne,KY,Fleming County,,city-us,0,38.282,-83.803,279

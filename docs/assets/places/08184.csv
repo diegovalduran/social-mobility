@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44868,Flat Top,AL,,city-us,0,33.67,-87.02,202
-44869,Flat Top,VA,,city-us,0,37.03,-82.40,179
-44870,Flat Top,WV,,city-us,0,37.59,-81.11,763
+id,name,state,county,country,level,population,latitude,longitude,wiki
+41395,Stephenson,WI,Marinette County,,city-us,3535,45.242,-88.136,2297
+41447,Stevenson,AL,Jackson County,,city-us,1960,34.869,-85.839,6774
+41449,Stevenson,WA,Skamania County,,city-us,1573,45.696,-121.885,4661
+41448,Stevenson,IL,Marion County,,city-us,1172,38.603,-88.863,702
+41396,Stephenson,MI,Menominee County,,city-us,813,45.415,-87.608,3862
+41394,Stephenson,VA,Frederick County,,city-us,0,39.237,-78.106,270
+41397,Stephenson,WV,Wyoming County,,city-us,0,37.580,-81.326,305
+41446,Stevenson,MD,Baltimore County,,city-us,0,39.410,-76.713,857
+41450,Stevenson,IN,Warrick County,,city-us,0,38.010,-87.436,355

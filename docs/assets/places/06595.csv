@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40020,Albuquerque,NM,,city-us,562599,35.08,-106.65,74233
-40021,Albuquerque,TX,,city-us,0,29.35,-97.84,3200
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33511,Pembina,MN,Mahnomen County,,city-us,661,47.268,-96.008,2016
+33512,Pembina,ND,Pembina County,,city-us,62,48.944,-97.308,12570
+33510,Pembina,MO,Christian County,,city-us,0,37.067,-93.122,521

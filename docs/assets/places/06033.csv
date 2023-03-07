@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38243,Conover,NC,,city-us,8478,35.71,-81.22,6417
-38244,Conover,WI,,city-us,1137,46.05,-89.26,4442
-38245,Conover,OH,,city-us,0,40.14,-84.05,493
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30840,New Site,AL,Tallapoosa County,,city-us,772,33.037,-85.774,2028
+30839,New Site,MS,Prentiss County,,city-us,122,34.559,-88.409,547

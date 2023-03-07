@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37145,Fredericktown,MO,,city-us,4326,37.56,-90.29,9900
-37146,Fredericktown,OH,,city-us,2645,40.48,-82.54,4652
-37147,Fredericktown,PA,,city-us,209,40.00,-80.00,492
-37148,Fredericktown,KY,,city-us,0,37.76,-85.34,345
-37149,Fredericktown,MD,,city-us,0,39.37,-75.88,742
-37150,Fredericktown,OH,,city-us,0,40.71,-80.55,1462
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29431,Moraine,IL,Lake County,,city-us,34228,42.186,-87.806,930
+29432,Moraine,OH,Montgomery County,,city-us,6464,39.706,-84.219,8459
+29430,Moraine,ND,Grand Forks County,,city-us,66,47.892,-97.827,0

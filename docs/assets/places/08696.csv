@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46161,Leisure,MI,,city-us,2823,42.47,-86.21,4142
-46160,Leisure,IN,,city-us,0,40.36,-85.84,359
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43553,Tuscola,IL,Douglas County,,city-us,5451,39.815,-88.277,1340
+43556,Tuscola,MI,Tuscola County,,city-us,2082,43.348,-83.637,2882
+43555,Tuscola,TX,Taylor County,,city-us,847,32.210,-99.797,2694
+43554,Tuscola,MS,Leake County,,city-us,0,32.620,-89.528,483

@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36635,St. Lawrence,PA,,city-us,1894,40.33,-75.87,2954
-36637,St. Lawrence,WI,,city-us,714,44.47,-89.05,1804
-36634,St. Lawrence,MN,,city-us,496,44.65,-93.69,1839
-36636,St. Lawrence,SD,,city-us,47,44.51,-98.87,3162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28636,Millington,TN,Shelby County,,city-us,10508,35.341,-89.897,12994
+28637,Millington,MI,Tuscola County,,city-us,4187,43.258,-83.517,2143
+28635,Millington,NJ,Morris County,,city-us,3038,40.677,-74.518,2561
+28633,Millington,IL,Kendall County / LaSalle County,,city-us,620,41.560,-88.604,7529
+28634,Millington,MD,Kent County / Queen Anne's County,,city-us,547,39.257,-75.842,4224
+28631,Millington,VA,Albemarle County,,city-us,0,38.123,-78.612,145
+28632,Millington,OR,Coos County,,city-us,0,43.332,-124.198,259

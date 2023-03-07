@@ -1,15 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21604,Ellsworth,ME,,city-us,8531,44.54,-68.42,13883
-21612,Ellsworth,WI,,city-us,3333,44.73,-92.49,5691
-21611,Ellsworth,PA,,city-us,939,40.11,-80.02,1940
-21607,Ellsworth,MN,,city-us,843,45.02,-94.43,2091
-21606,Ellsworth,MI,,city-us,825,44.03,-85.62,2238
-21603,Ellsworth,KS,,city-us,683,38.75,-98.21,620
-21601,Ellsworth,IA,,city-us,502,42.31,-93.58,3231
-21608,Ellsworth,MN,,city-us,482,43.52,-96.02,6114
-21605,Ellsworth,MI,,city-us,354,45.17,-85.25,3879
-21602,Ellsworth,IL,,city-us,180,40.45,-88.72,4808
-21609,Ellsworth,NH,,city-us,93,43.91,-71.77,2823
-21614,Ellsworth,NE,,city-us,32,42.06,-102.28,1672
-21610,Ellsworth,OH,,city-us,0,41.02,-80.86,563
-21613,Ellsworth,MO,,city-us,0,37.45,-92.01,477
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12802,Eastport,NY,Suffolk County,,city-us,2095,40.826,-72.732,2828
+12805,Eastport,ME,Washington County,,city-us,1280,44.906,-66.990,10014
+12800,Eastport,MI,Antrim County,,city-us,206,45.107,-85.350,1004
+12801,Eastport,ID,Boundary County,,city-us,0,48.999,-116.181,412
+12803,Eastport,MS,Tishomingo County,,city-us,0,34.886,-88.101,1973
+12804,Eastport,OH,Tuscarawas County,,city-us,0,40.426,-81.353,227

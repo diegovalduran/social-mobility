@@ -1,11 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20631,Waco,TX,,city-us,139594,31.55,-97.15,37534
-20627,Waco,KS,,city-us,636,37.60,-97.43,139
-20626,Waco,GA,,city-us,539,33.70,-85.18,2385
-20629,Waco,NC,,city-us,314,35.36,-81.43,1951
-20630,Waco,NE,,city-us,291,40.90,-97.46,3312
-20628,Waco,MO,,city-us,73,37.25,-94.60,2993
-20632,Waco,IN,,city-us,0,38.54,-87.04,228
-20633,Waco,KY,,city-us,0,37.74,-84.14,352
-20634,Waco,OH,,city-us,0,40.78,-81.35,452
-20635,Waco,TN,,city-us,0,35.38,-87.03,169
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12152,Doyle,CA,Lassen County,,city-us,959,40.028,-120.104,2977
+12157,Doyle,MI,Schoolcraft County,,city-us,563,46.175,-86.055,3844
+12158,Doyle,TN,White County,,city-us,502,35.853,-85.512,2976
+12151,Doyle,WI,Barron County,,city-us,496,45.509,-91.601,2162
+12154,Doyle,KS,Marion County,,city-us,39,38.215,-96.878,711
+12153,Doyle,LA,Livingston Parish,,city-us,0,30.504,-90.739,785
+12155,Doyle,IN,Miami County,,city-us,0,40.808,-86.074,237
+12156,Doyle,MO,Ripley County,,city-us,0,36.600,-90.910,240
+12159,Doyle,WV,Wood County,,city-us,0,39.283,-81.376,84

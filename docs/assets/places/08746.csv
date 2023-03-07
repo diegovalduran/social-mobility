@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46287,Iconium,IA,,city-us,0,40.89,-92.96,278
-46288,Iconium,MO,,city-us,0,38.11,-93.54,493
-46289,Iconium,TN,,city-us,0,35.78,-86.02,162
+id,name,state,county,country,level,population,latitude,longitude,wiki
+43879,Union Mills,MD,Carroll County,,city-us,0,39.670,-77.025,0
+43880,Union Mills,VA,Fluvanna County,,city-us,0,37.939,-78.301,194
+43881,Union Mills,IN,LaPorte County,,city-us,0,41.493,-86.778,1013
+43882,Union Mills,IA,Mahaska County,,city-us,0,41.453,-92.571,381
+43883,Union Mills,WV,Pleasants County,,city-us,0,39.391,-81.135,182
+43884,Union Mills,NC,Rutherford County,,city-us,0,35.488,-81.963,250

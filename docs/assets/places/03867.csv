@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29436,Coatesville,PA,,city-us,13299,39.98,-75.82,15880
-29435,Coatesville,IN,,city-us,558,39.69,-86.67,3826
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19815,Hewitt,TX,McLennan County,,city-us,16131,31.462,-97.196,3946
+19816,Hewitt,NJ,Passaic County,,city-us,1912,41.142,-74.311,431
+19819,Hewitt,WI,Wood County,,city-us,792,44.645,-90.100,3301
+19814,Hewitt,WI,Marathon County,,city-us,637,45.075,-89.419,1778
+19812,Hewett,WI,Clark County,,city-us,294,44.553,-90.737,1870
+19818,Hewitt,MN,Todd County,,city-us,246,46.326,-95.087,3134
+19811,Hewett,WV,Boone County,,city-us,0,37.962,-81.852,231
+19813,Hewitt,OK,Carter County,,city-us,0,34.169,-97.405,117
+19817,Hewitt,NC,Swain County,,city-us,0,35.309,-83.648,291

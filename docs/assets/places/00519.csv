@@ -1,5 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5898,Black Oak,AR,,city-us,230,35.84,-90.37,3558
-5899,Black Oak,AR,,city-us,209,35.98,-94.08,369
-5900,Black Oak,IN,,city-us,0,38.66,-87.08,190
-5901,Black Oak,MO,,city-us,0,39.55,-93.84,300
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2658,Batavia,IL,Kane County,,city-us,35357,41.832,-88.317,1205
+2653,Batavia,OH,Clermont County,,city-us,27745,39.063,-84.168,1409
+2654,Batavia,IL,DuPage County / Kane County,,city-us,26092,41.848,-88.311,7728
+2656,Batavia,NY,Genesee County,,city-us,6238,42.997,-78.228,17707
+2652,Batavia,MI,Branch County,,city-us,1339,41.939,-85.101,2328
+2655,Batavia,MT,Flathead County,,city-us,535,48.182,-114.413,247
+2657,Batavia,IA,Jefferson County,,city-us,415,40.994,-92.167,3057
+2651,Batavia,AR,Boone County,,city-us,328,36.255,-93.223,1348
+2659,Batavia,WI,Sheboygan County,,city-us,0,43.594,-88.051,336
+2660,Batavia,CA,Solano County,,city-us,0,38.406,-121.860,250

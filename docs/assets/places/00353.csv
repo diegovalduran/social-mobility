@@ -1,8 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4189,Newville,PA,,city-us,1383,40.17,-77.40,4292
-4188,Newville,AL,,city-us,549,31.42,-85.34,5789
-4190,Newville,CA,,city-us,0,39.79,-122.53,200
-4191,Newville,IN,,city-us,0,41.35,-84.84,355
-4192,Newville,PA,,city-us,0,40.31,-75.22,198
-4193,Newville,VA,,city-us,0,37.19,-77.15,120
-4194,Newville,WV,,city-us,0,38.68,-80.59,548
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1847,Atoka,TN,Tipton County,,city-us,10192,35.441,-89.778,11181
+1844,Atoka,OK,Atoka County,,city-us,3188,34.386,-96.128,14517
+1845,Atoka,NM,Eddy County,,city-us,1420,32.770,-104.389,395
+1846,Atoka,VA,Fauquier County,,city-us,0,38.976,-77.809,337

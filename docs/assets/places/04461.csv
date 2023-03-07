@@ -1,4 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32271,High Bridge,NJ,,city-us,3584,40.67,-74.90,15658
-32272,High Bridge,WA,,city-us,2935,47.80,-122.02,2404
-32270,High Bridge,KY,,city-us,268,37.82,-84.72,2922
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22967,King,NC,Forsyth County / Stokes County,,city-us,7156,36.275,-80.357,3324
+22972,King,WI,Waupaca County,,city-us,1693,44.337,-89.142,520
+22964,King,PA,Bedford County,,city-us,1171,40.195,-78.516,1901
+22969,King,WI,Lincoln County,,city-us,981,45.505,-89.618,2344
+22970,King,MN,Polk County,,city-us,225,47.629,-95.873,1827
+22965,King,IL,Christian County,,city-us,215,39.436,-89.504,875
+22971,King,SD,Tripp County,,city-us,46,43.540,-99.797,0
+22966,King,WV,Clay County,,city-us,0,38.502,-81.231,83
+22968,King,IN,Gibson County,,city-us,0,38.304,-87.576,461
+22973,King,WV,Wetzel County,,city-us,0,39.001,-80.681,85

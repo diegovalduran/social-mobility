@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38858,Harriston,VA,,city-us,993,38.22,-78.83,115
-38857,Harriston,ND,,city-us,111,48.33,-97.32,112
-38859,Harriston,MS,,city-us,0,31.73,-91.03,794
-38860,Harriston,MO,,city-us,0,38.83,-92.95,381
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31827,Oakfield,MI,Kent County,,city-us,6150,43.167,-85.370,2575
+31826,Oakfield,NY,Genesee County,,city-us,3109,43.085,-78.275,3116
+31825,Oakfield,WI,Fond du Lac County,,city-us,684,43.676,-88.589,3670
+31823,Oakfield,ME,Aroostook County,,city-us,656,46.074,-68.114,2900
+31824,Oakfield,IA,Audubon County,,city-us,0,41.533,-94.908,627
+31828,Oakfield,TN,Madison County,,city-us,0,35.720,-88.770,274
+31829,Oakfield,OH,Perry County,,city-us,0,39.659,-82.117,209
+31830,Oakfield,GA,Worth County,,city-us,0,31.778,-83.971,315

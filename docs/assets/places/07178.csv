@@ -1,3 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41778,Glide,OR,,city-us,1805,43.32,-123.07,1730
-41779,Glyde,PA,,city-us,0,40.13,-80.14,133
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36789,Rio,VA,Albemarle County,,city-us,2076,38.076,-78.461,186
+36790,Rio,WI,Columbia County,,city-us,1125,43.448,-89.240,4314
+36793,Rio,FL,Martin County,,city-us,901,27.219,-80.239,2999
+36792,Rio,IL,Knox County,,city-us,507,41.108,-90.381,756
+36795,Rio,LA,Washington Parish,,city-us,137,30.693,-89.890,580
+36319,Reo,IN,Spencer County,,city-us,0,37.901,-87.109,500
+36791,Rio,WV,Hampshire County,,city-us,0,39.138,-78.670,1861
+36794,Rio,GA,Spalding County,,city-us,0,33.280,-84.382,139

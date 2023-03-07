@@ -1,12 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21316,Charlotte,NC,,city-us,879709,35.23,-80.84,59810
-21314,Charlotte,MI,,city-us,9209,42.56,-84.84,10551
-21320,Charlotte,VT,,city-us,3893,44.31,-73.24,4606
-21318,Charlotte,TN,,city-us,1629,36.18,-87.34,4209
-21319,Charlotte,TX,,city-us,1554,28.86,-98.71,2966
-21317,Charlotte,NY,,city-us,1540,42.30,-79.24,4532
-21311,Charlotte,IA,,city-us,393,41.96,-90.47,3331
-21313,Charlotte,ME,,city-us,343,45.01,-67.27,2952
-21315,Charlotte,MO,,city-us,306,38.26,-94.45,1284
-21312,Charlotte,IL,,city-us,0,40.82,-88.29,166
-21321,Charlotte,AR,,city-us,0,35.82,-91.44,394
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12634,Earl,PA,Lancaster County,,city-us,7108,40.110,-76.099,276
+12630,Earl,PA,Berks County,,city-us,3096,40.348,-75.704,276
+12636,Earl,IL,LaSalle County,,city-us,2439,41.592,-88.881,286
+12638,Earle,AR,Crittenden County,,city-us,1785,35.275,-90.467,4318
+12632,Earl,NC,Cleveland County,,city-us,197,35.193,-81.533,1927
+12633,Earl,OK,Johnston County,,city-us,44,34.202,-96.898,134
+12631,Earl,MO,Callaway County,,city-us,0,38.931,-92.061,250
+12635,Earl,CO,Las Animas County,,city-us,0,37.333,-104.278,387
+12637,Earl,WI,Washburn County,,city-us,0,45.911,-91.761,625
+12639,Earle,IN,Vanderburgh County,,city-us,0,38.086,-87.513,429

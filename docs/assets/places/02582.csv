@@ -1,7 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21584,Elkhart,IN,,city-us,53949,41.68,-85.98,25721
-21585,Elkhart,KS,,city-us,1884,37.01,-101.89,7132
-21587,Elkhart,TX,,city-us,1277,31.63,-95.58,4112
-21582,Elkhart,IA,,city-us,928,41.79,-93.52,3335
-21583,Elkhart,IL,,city-us,491,39.99,-89.42,282
-21586,Elkhart,MO,,city-us,286,38.37,-94.45,1224
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12790,Easton,PA,Northampton County,,city-us,28057,40.688,-75.221,23412
+12777,Easton,MA,Bristol County,,city-us,25247,42.039,-71.109,13663
+12793,Easton,MD,Talbot County,,city-us,17118,38.774,-76.076,12644
+12782,Easton,CT,Greater Bridgeport Planning Region,,city-us,7594,41.265,-73.300,8516
+12784,Easton,MI,Ionia County,,city-us,3176,42.993,-85.142,1988
+12794,Easton,NY,Washington County,,city-us,2261,43.030,-73.536,3837
+12780,Easton,CA,Fresno County,,city-us,2155,36.650,-119.791,4367
+12791,Easton,MI,Shiawassee County,,city-us,1329,43.090,-84.119,2465
+12776,Easton,ME,Aroostook County,,city-us,1306,46.633,-67.848,4509
+12787,Easton,WI,Marathon County,,city-us,1144,44.991,-89.423,1896
+12775,Easton,WI,Adams County,,city-us,1130,43.838,-89.807,2016
+12783,Easton,TX,Gregg County / Rusk County,,city-us,497,32.382,-94.591,1102
+12785,Easton,WA,Kittitas County,,city-us,382,47.237,-121.179,3042
+12788,Easton,IL,Mason County,,city-us,309,40.233,-89.843,1975
+12781,Easton,NH,Grafton County,,city-us,295,44.101,-71.795,2773
+12778,Easton,MO,Buchanan County,,city-us,224,39.722,-94.642,3947
+12786,Easton,KS,Leavenworth County,,city-us,211,39.345,-95.116,3853
+12779,Easton,MN,Faribault County,,city-us,177,43.766,-93.901,2972
+12792,Easton,ND,Steele County,,city-us,43,47.450,-97.782,0
+12789,Easton,WV,Monongalia County,,city-us,0,39.653,-79.913,178
+12795,Easton,OH,Wayne County,,city-us,0,40.952,-81.737,266

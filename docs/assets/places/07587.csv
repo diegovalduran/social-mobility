@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43122,Lake Creek,SD,,city-us,41,44.01,-102.04,137
-43123,Lake Creek,MO,,city-us,0,38.51,-93.13,266
-43124,Lake Creek,OR,,city-us,0,42.42,-122.63,2163
-43125,Lake Creek,TX,,city-us,0,33.45,-95.59,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38485,Sanborn,MI,Alpena County,,city-us,2082,44.895,-83.427,2364
+38490,Sanborn,IA,O'Brien County,,city-us,1393,43.182,-95.656,3674
+38486,Sanborn,WI,Ashland County,,city-us,1331,46.433,-90.909,2983
+38489,Sanborn,NY,Niagara County,,city-us,1277,43.137,-78.885,730
+38491,Sanborn,MN,Redwood County,,city-us,323,44.210,-95.129,3333
+38487,Sanborn,ND,Barnes County,,city-us,161,46.942,-98.224,3167
+38488,Sanborn,CA,Kern County,,city-us,0,35.001,-118.106,204

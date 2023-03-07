@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24159,Argenta,MI,,city-us,5895,42.47,-85.62,3149
-24157,Argenta,IL,,city-us,890,39.98,-88.82,2329
-24158,Argenta,MT,,city-us,88,45.28,-112.86,468
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14984,Fitzgerald,GA,Ben Hill County / Irwin County,,city-us,8977,31.713,-83.251,9651
+14985,Fitzgerald,WI,Winnebago County,,city-us,1429,43.982,-88.621,2445

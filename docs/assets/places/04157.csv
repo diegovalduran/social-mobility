@@ -1,5 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30767,Colby,KS,,city-us,5516,39.40,-101.05,11677
-30768,Colby,WI,,city-us,1934,44.91,-90.32,5676
-30769,Colby,WI,,city-us,920,44.90,-90.38,2150
-30770,Colby,OH,,city-us,0,41.26,-82.95,251
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21383,Industry,PA,Beaver County,,city-us,1810,40.645,-80.416,3371
+21386,Industry,ME,Franklin County,,city-us,796,44.751,-70.049,3151
+21388,Industry,IL,McDonough County,,city-us,568,40.323,-90.620,339
+21382,Industry,TX,Austin County,,city-us,273,29.972,-96.502,3099
+21387,Industry,CA,Los Angeles County,,city-us,245,34.020,-117.959,11604
+21384,Industry,AL,Butler County,,city-us,0,31.604,-86.613,83
+21385,Industry,KS,Clay County,,city-us,0,39.133,-97.171,548

@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39724,Ellisburg,NJ,,city-us,5093,39.91,-75.01,874
-39725,Ellisburg,NY,,city-us,3365,43.75,-76.11,10651
-39726,Elysburg,PA,,city-us,2336,40.86,-76.55,2303
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33177,Parkersburg,WV,Wood County,,city-us,29403,39.267,-81.562,17193
+33174,Parkersburg,IA,Butler County,,city-us,2014,42.577,-92.787,8186
+33176,Parkersburg,IL,Richland County,,city-us,186,38.590,-88.057,1745
+33175,Parkersburg,IN,Montgomery County,,city-us,0,39.873,-86.903,403

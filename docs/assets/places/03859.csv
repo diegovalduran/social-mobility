@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29400,Centenary,SC,,city-us,191,34.03,-79.36,660
-29399,Centenary,IN,,city-us,0,39.66,-87.47,261
-29401,Centenary,VA,,city-us,0,37.71,-78.51,95
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19778,Heron Bay,GA,Henry County / Spalding County,,city-us,3705,33.339,-84.192,270
+19779,Heron Bay,AL,Mobile County,,city-us,0,30.354,-88.130,185

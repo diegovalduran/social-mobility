@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16930,Rocky Hill,CT,,city-us,20746,41.66,-72.66,4590
-16931,Rocky Hill,NJ,,city-us,736,40.40,-74.63,14116
-16932,Rocky Hill,CA,,city-us,0,36.29,-119.09,119
-16933,Rocky Hill,KY,,city-us,0,36.94,-86.07,375
-16934,Rocky Hill,KY,,city-us,0,37.07,-86.14,1035
-16935,Rocky Hill,OH,,city-us,0,38.99,-82.55,689
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9618,Concrete,WA,Skagit County,,city-us,795,48.539,-121.746,10108
+9616,Concrete,TX,DeWitt County,,city-us,0,29.238,-97.293,386
+9617,Concrete,CO,Fremont County,,city-us,0,38.383,-104.998,329

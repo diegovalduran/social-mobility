@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1965,Edgewater,FL,,city-us,23241,28.99,-80.90,3377
-1967,Edgewater,NJ,,city-us,14647,40.83,-73.98,30881
-1966,Edgewater,MD,,city-us,9075,38.96,-76.55,1647
-1964,Edgewater,CO,,city-us,4951,39.75,-105.06,4789
-1963,Edgewater,AL,,city-us,836,33.53,-86.96,2634
-1968,Edgewater,WI,,city-us,586,45.74,-91.48,2073
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1026,Amos,KY,Allen County,,city-us,0,36.653,-86.088,79
+1027,Amos,NV,Humboldt County,,city-us,0,41.390,-117.809,254
+1028,Amos,MO,Vernon County,,city-us,0,38.016,-94.580,638

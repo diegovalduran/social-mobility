@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22197,Laurens,SC,,city-us,9319,34.50,-82.01,12884
-22196,Laurens,NY,,city-us,2331,42.54,-75.12,122
-22195,Laurens,IA,,city-us,1261,42.85,-94.85,4896
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13271,Elizabeth Lake,CA,Los Angeles County,,city-us,1817,34.656,-118.380,4210
+13272,Elizabeth Lake,MI,Oakland County,,city-us,0,42.637,-83.388,1069

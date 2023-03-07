@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3540,Littleville,AL,,city-us,1040,34.59,-87.68,2278
-3541,Lytleville,IL,,city-us,0,40.34,-88.96,4484
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1555,Arp,TX,Smith County,,city-us,926,32.225,-95.058,3720
+1553,Arp,GA,Banks County,,city-us,0,34.307,-83.412,332
+1554,Arp,TN,Lauderdale County,,city-us,0,35.773,-89.603,382

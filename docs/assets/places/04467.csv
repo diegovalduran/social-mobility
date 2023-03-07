@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32286,Inez,TX,,city-us,2385,28.90,-96.79,3064
-32285,Inez,KY,,city-us,535,37.87,-82.54,4121
-32287,Inez,NE,,city-us,0,42.29,-99.00,168
-32288,Inez,WV,,city-us,0,38.36,-82.24,85
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22991,Kings Mountain,NC,Cleveland County / Gaston County,,city-us,11409,35.236,-81.350,5164
+22992,Kings Mountain,KY,Lincoln County,,city-us,0,37.373,-84.688,251
+22993,Kings Mountain,CA,San Mateo County,,city-us,0,37.421,-122.323,4905

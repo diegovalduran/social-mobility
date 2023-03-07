@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21643,Farley,KY,,city-us,4459,37.05,-88.57,2065
-21642,Farley,IA,,city-us,1749,42.44,-91.01,5029
-21645,Farley,MO,,city-us,266,39.28,-94.83,5072
-21644,Farley,MN,,city-us,55,48.14,-96.83,1711
-21646,Farley,CA,,city-us,0,39.61,-123.37,352
-21647,Farley,WV,,city-us,0,37.54,-80.92,135
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12836,Eau Claire,WI,Chippewa County / Eau Claire County,,city-us,69441,44.820,-91.495,26366
+12834,Eau Claire,MI,Berrien County,,city-us,548,41.985,-86.300,3331
+12835,Eau Claire,PA,Butler County,,city-us,303,41.136,-79.798,2239

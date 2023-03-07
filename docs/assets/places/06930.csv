@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40932,Kunkle,OH,,city-us,339,41.64,-84.50,515
-40933,Kunkle,PA,,city-us,0,41.38,-75.98,104
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35223,Prague,,,Czechia,city-international,1335084,50.083,14.417,56027
+35221,Prague,OK,Lincoln County / Pottawatomie County,,city-us,2368,35.495,-96.695,5991
+35222,Prague,NE,Saunders County,,city-us,292,41.310,-96.808,3467

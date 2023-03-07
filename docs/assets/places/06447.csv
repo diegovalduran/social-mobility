@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39539,Thedford,NE,,city-us,211,41.98,-100.58,3583
-39540,Thedford,TX,,city-us,0,32.48,-95.40,675
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32859,Paddock,NE,Gage County,,city-us,330,40.045,-96.752,149
+32861,Paddock,MN,Otter Tail County,,city-us,325,46.674,-95.211,1965
+32860,Paddock,NE,Holt County,,city-us,0,42.778,-98.619,264

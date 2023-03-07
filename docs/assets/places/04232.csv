@@ -1,14 +1,106 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31176,Horton,AL,,city-us,4450,34.20,-86.30,360
-31178,Horton,MI,,city-us,3695,42.11,-84.53,2323
-31172,Horton,KS,,city-us,1514,39.66,-95.53,4189
-31175,Horton,PA,,city-us,1354,41.30,-78.72,2521
-31173,Horton,MI,,city-us,906,44.21,-84.18,2235
-31174,Horton,MN,,city-us,184,45.45,-95.92,1885
-31177,Horton,IA,,city-us,0,42.85,-92.48,737
-31179,Horton,MN,,city-us,0,46.81,-95.10,150
-31180,Horton,MO,,city-us,0,36.87,-92.07,575
-31181,Horton,MO,,city-us,0,37.97,-94.37,394
-31182,Horton,OH,,city-us,0,40.45,-83.56,62
-31183,Horton,OR,,city-us,0,44.21,-123.49,600
-31184,Horton,WV,,city-us,0,38.81,-79.54,89
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21747,Jackson,MS,Hinds County / Madison County / Rankin County,,city-us,149761,32.316,-90.213,46776
+21760,Jackson,TN,Madison County,,city-us,68114,35.615,-88.814,28237
+21772,Jackson,NJ,Ocean County,,city-us,59614,40.091,-74.361,21362
+21738,Jackson,OH,Franklin County,,city-us,47131,39.855,-83.071,1584
+21792,Jackson,OH,Stark County,,city-us,43029,40.863,-81.480,1584
+21749,Jackson,MI,Jackson County,,city-us,31347,42.246,-84.401,26310
+21720,Jackson,MO,Cape Girardeau County,,city-us,15515,37.382,-89.666,6294
+21795,Jackson,WY,Teton County,,city-us,10849,43.480,-110.762,13946
+21754,Jackson,PA,Lebanon County,,city-us,9336,40.381,-76.325,984
+21810,Jackson,PA,York County,,city-us,8796,39.909,-76.874,984
+21806,Jackson,WI,Washington County,,city-us,7198,43.324,-88.167,4875
+21765,Jackson,PA,Monroe County,,city-us,6593,41.007,-75.356,984
+21751,Jackson,OH,Jackson County,,city-us,6209,39.052,-82.637,5497
+21766,Jackson,OH,Montgomery County,,city-us,6047,39.707,-84.416,1584
+21718,Jackson,GA,Butts County,,city-us,5622,33.295,-83.966,5655
+21717,Jackson,PA,Butler County,,city-us,5235,40.784,-80.110,984
+21709,Jackson,CA,Amador County,,city-us,5101,38.349,-120.774,7585
+21743,Jackson,OH,Guernsey County,,city-us,5036,39.970,-81.573,1584
+21757,Jackson,PA,Luzerne County,,city-us,4789,41.280,-75.981,984
+21725,Jackson,AL,Clarke County,,city-us,4644,31.509,-87.894,5344
+21719,Jackson,PA,Cambria County,,city-us,4202,40.435,-78.868,984
+21712,Jackson,OH,Auglaize County,,city-us,3976,40.400,-84.403,1584
+21711,Jackson,OH,Ashland County,,city-us,3887,40.949,-82.174,1584
+21807,Jackson,IL,Will County,,city-us,3876,41.414,-88.083,220
+21782,Jackson,OH,Richland County,,city-us,3679,40.851,-82.602,1584
+21735,Jackson,LA,East Feliciana Parish,,city-us,3678,30.837,-91.218,4680
+21750,Jackson,MN,Jackson County,,city-us,3310,43.621,-94.989,5306
+21726,Jackson,OH,Clermont County,,city-us,3138,39.133,-84.038,1584
+21708,Jackson,OH,Allen County,,city-us,3056,40.781,-83.921,1584
+21775,Jackson,OH,Perry County,,city-us,2774,39.692,-82.316,1584
+21732,Jackson,OH,Darke County,,city-us,2657,40.234,-84.761,1584
+21723,Jackson,OH,Champaign County,,city-us,2521,40.081,-83.974,1584
+21767,Jackson,OH,Muskingum County,,city-us,2415,40.123,-82.151,1584
+21790,Jackson,OH,Shelby County,,city-us,2374,40.431,-84.062,1584
+21714,Jackson,KY,Breathitt County,,city-us,2208,37.553,-83.384,9986
+21761,Jackson,OH,Mahoning County,,city-us,2105,41.085,-80.860,1584
+21745,Jackson,OH,Hardin County,,city-us,2030,40.775,-83.537,1584
+21797,Jackson,PA,Tioga County,,city-us,1881,41.946,-77.005,984
+21729,Jackson,OH,Coshocton County,,city-us,1870,40.268,-81.936,1584
+21733,Jackson,PA,Dauphin County,,city-us,1829,40.525,-76.775,984
+21774,Jackson,OH,Paulding County,,city-us,1799,41.128,-84.525,1584
+21715,Jackson,OH,Brown County,,city-us,1733,38.915,-83.728,1584
+21805,Jackson,NY,Washington County,,city-us,1709,43.080,-73.383,3706
+21788,Jackson,MN,Scott County,,city-us,1644,44.754,-93.531,2285
+21791,Jackson,PA,Snyder County,,city-us,1591,40.861,-76.959,984
+21786,Jackson,OH,Sandusky County,,city-us,1570,41.298,-83.244,1584
+21707,Jackson,SC,Aiken County,,city-us,1545,33.325,-81.788,2382
+21789,Jackson,OH,Seneca County,,city-us,1406,41.213,-83.360,1584
+21737,Jackson,IL,Effingham County,,city-us,1226,39.036,-88.637,220
+21778,Jackson,OH,Pike County,,city-us,1191,39.135,-82.867,1584
+21796,Jackson,MO,Texas County,,city-us,1176,37.368,-91.767,1616
+21763,Jackson,PA,Mercer County,,city-us,1174,41.251,-80.156,984
+21740,Jackson,MO,Gentry County,,city-us,1165,40.101,-94.528,1616
+21706,Jackson,WI,Adams County,,city-us,1156,43.781,-89.652,2209
+21779,Jackson,OH,Preble County,,city-us,1148,39.779,-84.752,1584
+21777,Jackson,OH,Pickaway County,,city-us,1117,39.658,-83.051,1584
+21721,Jackson,NH,Carroll County,,city-us,1067,44.188,-71.156,5034
+21753,Jackson,OH,Knox County,,city-us,1066,40.279,-82.233,1584
+21746,Jackson,OH,Highland County,,city-us,1054,39.064,-83.532,1584
+21744,Jackson,OH,Hancock County,,city-us,1032,40.945,-83.603,1584
+21800,Jackson,OH,Union County,,city-us,1006,40.488,-83.336,1584
+21716,Jackson,WI,Burnett County,,city-us,952,45.938,-92.234,2003
+21759,Jackson,KS,Lyon County,,city-us,942,38.398,-96.022,488
+21802,Jackson,PA,Venango County,,city-us,914,41.512,-79.877,984
+21769,Jackson,MO,Nodaway County,,city-us,911,40.375,-94.678,1616
+21771,Jackson,PA,Northumberland County,,city-us,894,40.716,-76.821,984
+21748,Jackson,PA,Huntingdon County,,city-us,887,40.674,-77.805,984
+21781,Jackson,OH,Putnam County,,city-us,854,40.968,-84.272,1584
+21808,Jackson,OH,Wood County,,city-us,718,41.219,-83.826,1584
+21803,Jackson,OH,Vinton County,,city-us,700,39.317,-82.586,1584
+21734,Jackson,MO,Daviess County,,city-us,699,39.903,-93.806,1616
+21727,Jackson,PA,Columbia County,,city-us,624,41.229,-76.429,984
+21804,Jackson,ME,Waldo County,,city-us,619,44.616,-69.142,4158
+21776,Jackson,PA,Perry County,,city-us,589,40.305,-77.515,984
+21809,Jackson,OH,Wyandot County,,city-us,589,40.768,-83.460,1584
+21756,Jackson,MO,Livingston County,,city-us,554,39.892,-93.672,1616
+21768,Jackson,OH,Noble County,,city-us,502,39.614,-81.519,1584
+21710,Jackson,KS,Anderson County,,city-us,486,38.296,-95.313,488
+21801,Jackson,OH,Van Wert County,,city-us,457,40.949,-84.432,1584
+21770,Jackson,NC,Northampton County,,city-us,420,36.390,-77.421,2766
+21764,Jackson,OH,Monroe County,,city-us,413,39.593,-81.013,1584
+21758,Jackson,PA,Lycoming County,,city-us,394,41.496,-77.108,984
+21741,Jackson,PA,Greene County,,city-us,377,39.827,-80.367,984
+21730,Jackson,OH,Crawford County,,city-us,346,40.821,-82.735,1584
+21783,Jackson,KS,Riley County,,city-us,309,39.455,-96.756,488
+21731,Jackson,NE,Dakota County,,city-us,202,42.449,-96.565,3759
+21755,Jackson,MO,Linn County,,city-us,187,39.976,-93.298,1616
+21762,Jackson,KS,McPherson County,,city-us,173,38.397,-97.757,488
+21780,Jackson,MO,Putnam County,,city-us,140,40.435,-93.144,1616
+21724,Jackson,SD,Charles Mix County,,city-us,128,43.186,-98.749,223
+21742,Jackson,MO,Grundy County,,city-us,126,40.009,-93.570,1616
+21793,Jackson,KS,Sumner County,,city-us,122,37.170,-97.416,488
+21752,Jackson,KS,Jewell County,,city-us,107,39.962,-97.985,488
+21785,Jackson,SD,Sanborn County,,city-us,104,44.158,-98.144,223
+21739,Jackson,KS,Geary County,,city-us,70,39.014,-96.551,488
+21787,Jackson,ND,Sargent County,,city-us,37,46.066,-97.946,0
+21713,Jackson,MT,Beaverhead County,,city-us,36,45.368,-113.409,620
+21736,Jackson,KS,Edwards County,,city-us,36,38.008,-99.506,488
+21773,Jackson,KS,Osborne County,,city-us,28,39.170,-98.667,488
+21722,Jackson,ID,Cassia County,,city-us,0,42.634,-113.571,255
+21728,Jackson,WA,Columbia County,,city-us,0,46.534,-117.913,144
+21784,Jackson,IN,Ripley County,,city-us,0,39.065,-85.441,156
+21794,Jackson,PA,Susquehanna County,,city-us,0,41.838,-75.591,247
+21798,Jackson,IN,Tipton County,,city-us,0,40.329,-86.061,949
+21799,Jackson,NC,Union County,,city-us,0,34.867,-80.683,311

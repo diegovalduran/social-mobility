@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35814,Faxon,PA,,city-us,1210,41.25,-76.98,571
-35812,Faxon,MN,,city-us,720,44.64,-93.84,2309
-35813,Faxon,OK,,city-us,113,34.46,-98.58,2030
-35815,Faxon,KY,,city-us,0,36.68,-88.15,83
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27336,Mayfair,CA,Fresno County,,city-us,5299,36.769,-119.761,2068
+27337,Mayfair,CA,Kern County,,city-us,0,35.336,-118.914,166

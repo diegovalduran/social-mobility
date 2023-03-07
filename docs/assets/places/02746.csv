@@ -1,5 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22669,New Hampton,IA,,city-us,3416,43.06,-92.32,3988
-22671,New Hampton,NH,,city-us,263,43.61,-71.65,5477
-22670,New Hampton,MO,,city-us,226,40.26,-94.20,2922
-22672,New Hampton,NJ,,city-us,0,40.72,-74.96,633
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13661,Emery,MI,Washtenaw County,,city-us,8514,42.401,-83.743,4575
+13695,Emory,TX,Rains County,,city-us,1291,32.875,-95.766,2722
+13696,Emory,VA,Washington County,,city-us,1025,36.773,-81.836,592
+13657,Emery,SD,Hanson County,,city-us,449,43.602,-97.623,4452
+13655,Emery,UT,Emery County,,city-us,313,38.923,-111.249,14136
+13660,Emery,WI,Price County,,city-us,312,45.729,-90.149,1943
+13659,Emery,SD,McCook County,,city-us,133,43.637,-97.418,4452
+13656,Emery,OH,Fulton County,,city-us,0,41.590,-84.193,2121
+13658,Emery,IL,Macon County,,city-us,0,39.979,-88.951,244

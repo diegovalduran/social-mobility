@@ -1,3 +1,48 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29575,Fountaintown,IN,,city-us,0,39.69,-85.78,435
-29576,Fountaintown,NC,,city-us,0,34.84,-77.67,364
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19965,Highland,CA,San Bernardino County,,city-us,57159,34.128,-117.209,7294
+19952,Highland,IN,Lake County,,city-us,23672,41.554,-87.452,10274
+19970,Highland,UT,Utah County,,city-us,19611,40.450,-111.770,3204
+19960,Highland,MI,Oakland County,,city-us,19202,42.650,-83.617,4164
+19955,Highland,IL,Madison County,,city-us,10044,38.739,-89.671,6883
+19969,Highland,NY,Ulster County,,city-us,6473,41.721,-73.960,1421
+19971,Highland,IN,Vanderburgh County,,city-us,5169,38.040,-87.573,1880
+19939,Highland,OH,Defiance County,,city-us,2277,41.210,-84.285,129
+19968,Highland,NY,Sullivan County,,city-us,2237,41.569,-74.887,4118
+19935,Highland,PA,Chester County,,city-us,1258,39.921,-75.897,304
+19961,Highland,MI,Osceola County,,city-us,1207,44.116,-85.268,2783
+19966,Highland,AR,Sharp County,,city-us,1015,36.276,-91.524,2345
+19930,Highland,PA,Adams County,,city-us,998,39.820,-77.329,304
+19944,Highland,NE,Gage County,,city-us,928,40.473,-96.733,205
+19959,Highland,OH,Muskingum County,,city-us,921,40.045,-81.781,129
+19940,Highland,KS,Doniphan County,,city-us,917,39.860,-95.270,7033
+19950,Highland,WI,Iowa County,,city-us,869,43.047,-90.380,2059
+19934,Highland,SD,Charles Mix County,,city-us,685,43.038,-98.408,0
+19936,Highland,PA,Clarion County,,city-us,537,41.274,-79.332,304
+19973,Highland,MN,Wabasha County,,city-us,446,44.242,-92.124,1877
+19942,Highland,PA,Elk County,,city-us,395,41.545,-78.877,304
+19946,Highland,KS,Harvey County,,city-us,371,38.136,-97.318,359
+19941,Highland,WI,Douglas County,,city-us,347,46.424,-91.635,1931
+19954,Highland,SD,Lincoln County,,city-us,321,43.221,-96.619,0
+19945,Highland,IL,Grundy County,,city-us,262,41.145,-88.538,694
+19948,Highland,OH,Highland County,,city-us,229,39.345,-83.597,3204
+19957,Highland,SD,Minnehaha County,,city-us,214,43.801,-96.490,0
+19933,Highland,ND,Cass County,,city-us,93,46.671,-97.482,0
+19958,Highland,KS,Morris County,,city-us,84,38.746,-96.767,7033
+19931,Highland,SD,Brown County,,city-us,76,45.370,-98.665,0
+19938,Highland,SD,Day County,,city-us,66,45.196,-97.556,0
+19951,Highland,KS,Jewell County,,city-us,47,39.966,-98.450,637
+19932,Highland,SD,Brule County,,city-us,33,43.630,-98.963,0
+19967,Highland,ND,Sheridan County,,city-us,31,47.737,-100.501,0
+19975,Highland,KS,Washington County,,city-us,21,39.945,-97.091,7033
+19953,Highland,MN,Lake County,,city-us,20,47.205,-91.719,514
+19947,Highland,ND,Hettinger County,,city-us,13,46.580,-102.229,0
+19937,Highland,IA,Clayton County,,city-us,0,42.894,-91.597,215
+19943,Highland,MN,Fillmore County,,city-us,0,43.681,-91.870,255
+19949,Highland,MD,Howard County,,city-us,0,39.179,-76.958,0
+19956,Highland,WV,Marion County,,city-us,0,39.435,-80.254,162
+19962,Highland,MO,Perry County,,city-us,0,37.664,-89.891,577
+19963,Highland,VA,Pulaski County,,city-us,0,37.165,-80.679,91
+19964,Highland,WV,Ritchie County,,city-us,0,39.304,-81.052,296
+19972,Highland,IN,Vermillion County,,city-us,0,39.794,-87.396,577
+19974,Highland,IN,Washington County,,city-us,0,38.649,-86.127,162
+19976,Highland,MN,Wright County,,city-us,0,45.123,-94.033,258

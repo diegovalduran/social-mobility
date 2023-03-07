@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47123,Roach,MO,,city-us,0,37.99,-92.84,439
-47124,Roach,WV,,city-us,0,38.36,-82.22,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45896,Wellsville,NY,Allegany County,,city-us,7031,42.118,-77.925,16517
+45897,Wellsville,UT,Cache County,,city-us,4113,41.639,-111.934,2513
+45898,Wellsville,OH,Columbiana County,,city-us,3085,40.603,-80.649,9966
+45899,Wellsville,KS,Franklin County,,city-us,1933,38.718,-95.082,4165
+45901,Wellsville,MO,Montgomery County,,city-us,1013,39.072,-91.570,3530
+45902,Wellsville,PA,York County,,city-us,298,40.051,-76.937,2494
+45900,Wellsville,CO,Fremont County,,city-us,0,38.487,-105.910,436

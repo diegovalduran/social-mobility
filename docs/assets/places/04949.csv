@@ -1,8 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34157,Cato,MI,,city-us,3029,43.42,-85.27,2061
-34160,Cato,WI,,city-us,1616,44.14,-87.86,2728
-34159,Cato,NY,,city-us,542,43.17,-76.57,196
-34158,Cato,ND,,city-us,13,48.32,-98.61,0
-34161,Cato,IN,,city-us,0,38.44,-87.19,336
-34162,Cato,KS,,city-us,0,37.67,-94.74,1134
-34163,Cato,MO,,city-us,0,36.72,-93.68,422
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25488,Logansport,IN,Cass County,,city-us,18310,40.754,-86.357,16709
+25489,Logansport,LA,De Soto Parish,,city-us,1341,31.975,-93.998,4946
+25490,Logansport,KS,Logan County,,city-us,9,38.852,-101.068,0
+25487,Logansport,KY,Butler County,,city-us,0,37.285,-86.768,1233
+25491,Logansport,WV,Marion County,,city-us,0,39.519,-80.414,177

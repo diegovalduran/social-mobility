@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29907,Metz,,France,city-international,116581,49.12,6.18,34220
-29902,Metz,MO,,city-us,308,38.00,-94.45,234
-29901,Metz,MI,,city-us,281,45.25,-83.83,2840
-29900,Metz,IN,,city-us,0,41.62,-84.84,1406
-29903,Metz,CA,,city-us,0,36.35,-121.21,696
-29904,Metz,IA,,city-us,0,41.67,-93.14,596
-29905,Metz,WV,,city-us,0,39.58,-80.37,972
-29906,Metz,WI,,city-us,0,44.21,-88.89,188
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20324,Holladay,UT,Salt Lake County,,city-us,31390,40.669,-111.825,5227
+20320,Holiday,FL,Pasco County,,city-us,21435,28.188,-82.740,3886
+20323,Holladay,TN,Benton County,,city-us,95,35.871,-88.146,366

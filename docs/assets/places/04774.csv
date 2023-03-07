@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33428,Kingsville,TX,,city-us,25069,27.52,-97.86,17816
-33425,Kingsville,MD,,city-us,4681,39.45,-76.42,4672
-33427,Kingsville,OH,,city-us,622,41.89,-80.68,584
-33429,Kingsville,CA,,city-us,393,38.68,-120.88,181
-33426,Kingsville,MO,,city-us,242,38.74,-94.07,3406
-33430,Kingsville,VA,,city-us,0,37.25,-78.44,538
+id,name,state,county,country,level,population,latitude,longitude,wiki
+24354,Leetown,AR,Benton County,,city-us,0,36.431,-94.047,709
+24355,Leetown,KY,Butler County,,city-us,0,37.139,-86.743,83
+24356,Leetown,VA,Frederick County,,city-us,0,39.227,-78.078,348
+24357,Leetown,MS,Hancock County,,city-us,0,30.559,-89.519,87
+24358,Leetown,WV,Jefferson County,,city-us,0,39.348,-77.934,2005

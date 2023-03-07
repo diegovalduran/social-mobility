@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30108,Pence,WI,,city-us,88,46.42,-90.27,2071
-30107,Pence,IN,,city-us,41,40.36,-87.51,1462
-30109,Pence,AL,,city-us,0,34.45,-86.76,80
-30110,Pence,KS,,city-us,0,38.66,-101.07,288
-30111,Pence,KY,,city-us,0,38.70,-83.53,80
-30112,Pence,KY,,city-us,0,37.63,-83.47,80
+id,name,state,county,country,level,population,latitude,longitude,wiki
+20573,Hooks,TX,Bowie County,,city-us,2514,33.466,-94.289,2734
+20572,Hooks,PA,Armstrong County,,city-us,0,40.927,-79.488,252
+20574,Hooks,AL,Russell County,,city-us,0,32.192,-85.233,243

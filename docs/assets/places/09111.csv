@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47169,Nemo,SD,,city-us,546,44.19,-103.50,1653
-47168,Nemo,MO,,city-us,0,37.88,-93.26,244
-47170,Nemo,TX,,city-us,0,32.26,-97.65,1191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45969,West Bend,WI,Washington County,,city-us,4452,43.391,-88.233,20115
+45967,West Bend,IA,Kossuth County / Palo Alto County,,city-us,778,42.960,-94.446,4201
+45968,West Bend,MO,Polk County,,city-us,0,37.458,-93.461,254

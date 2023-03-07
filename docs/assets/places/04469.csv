@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32291,Jeff,KY,,city-us,293,37.20,-83.14,244
-32292,Jeff,IN,,city-us,0,40.61,-85.35,334
-32293,Jeff,MO,,city-us,0,36.51,-91.39,481
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22998,Kings Point,NY,Nassau County,,city-us,5525,40.820,-73.735,9099
+22997,Kings Point,MT,Lake County,,city-us,233,47.768,-114.151,2316
+22996,Kings Point,MO,Dade County,,city-us,0,37.321,-93.935,263

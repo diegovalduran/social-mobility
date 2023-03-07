@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16390,Coventry,,United Kingdom,city-international,362690,52.41,-1.51,69180
-16388,Coventry,RI,,city-us,35676,41.70,-71.66,10129
-16385,Coventry,CT,,city-us,12205,41.78,-72.34,11817
-16387,Coventry,OH,,city-us,10170,41.00,-81.53,2770
-16386,Coventry,NY,,city-us,1504,42.29,-75.63,3359
-16389,Coventry,VT,,city-us,44,44.87,-72.26,6645
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9214,Colburn,WI,Chippewa County,,city-us,856,45.040,-91.045,3312
+9212,Colburn,WI,Adams County,,city-us,217,44.110,-89.678,2010
+9216,Colburn,IN,Tippecanoe County,,city-us,164,40.519,-86.714,646
+9213,Colburn,ID,Bonner County,,city-us,0,48.397,-116.535,245
+9215,Colburn,IN,St. Joseph County,,city-us,0,41.549,-86.268,246

@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46832,Childs,MD,,city-us,0,39.65,-75.87,4313
-46833,Childs,MN,,city-us,0,46.07,-96.53,307
-46834,Childs,WV,,city-us,0,39.60,-80.78,87
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44982,Walls,MS,DeSoto County,,city-us,1362,34.958,-90.152,3358
+44983,Walls,MN,Traverse County,,city-us,40,45.723,-96.583,1771
+44984,Walls,LA,West Baton Rouge Parish,,city-us,0,30.587,-91.326,92

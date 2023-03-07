@@ -1,6 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22360,Lytton,IA,,city-us,280,42.42,-94.86,1938
-22361,Lytton,CA,,city-us,0,38.66,-122.87,148
-22362,Litton,MS,,city-us,0,33.65,-90.84,259
-22363,Lytton,OH,,city-us,0,41.66,-83.96,208
-22364,Lytton,WV,,city-us,0,39.46,-81.08,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13391,Ellendale,MN,Steele County,,city-us,673,43.873,-93.301,3140
+13392,Ellendale,DE,Sussex County,,city-us,511,38.807,-75.423,20718
+13389,Ellendale,ND,Dickey County,,city-us,132,45.974,-98.579,141
+13390,Ellendale,TN,Shelby County,,city-us,0,35.231,-89.826,957

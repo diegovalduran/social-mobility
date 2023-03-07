@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10176,Kearny,NJ,,city-us,40370,40.77,-74.15,29040
-10175,Kearney,NE,,city-us,33959,40.70,-99.08,13339
-10174,Kearney,MO,,city-us,10741,39.37,-94.36,5811
-10172,Kearny,AZ,,city-us,1789,33.06,-110.91,3418
-10173,Kearney,MI,,city-us,1782,45.00,-85.14,1964
-10177,Kearney,NC,,city-us,0,36.22,-78.27,315
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4854,Bowler,WI,Shawano County,,city-us,315,44.863,-88.982,3598
+4637,Bolar,VA,Bath County,,city-us,0,38.217,-79.676,342
+4852,Bowler,VA,Appomattox County,,city-us,0,37.277,-78.705,104
+4853,Bowler,MT,Carbon County,,city-us,0,45.205,-108.719,546

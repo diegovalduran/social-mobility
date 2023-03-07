@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41506,Maud,TX,,city-us,975,33.33,-94.34,3175
-41505,Maud,OK,,city-us,863,35.13,-96.78,3938
-41507,Maud,AL,,city-us,0,32.88,-86.98,161
-41508,Maud,AL,,city-us,0,34.64,-88.11,117
-41509,Maud,IL,,city-us,0,38.40,-87.86,121
-41510,Maud,IA,,city-us,0,43.23,-91.37,192
-41511,Maud,KY,,city-us,0,37.82,-85.30,119
-41512,Maude,LA,,city-us,0,30.37,-89.81,216
-41513,Maud,MS,,city-us,0,34.56,-90.44,171
-41514,Maud,MO,,city-us,0,39.63,-92.20,255
-41515,Maud,OH,,city-us,0,39.36,-84.39,959
-41516,Maud,WA,,city-us,0,48.33,-118.08,253
-41517,Maud,WV,,city-us,0,39.62,-80.74,118
+id,name,state,county,country,level,population,latitude,longitude,wiki
+36067,Red Cliff,CO,Eagle County,,city-us,256,39.512,-106.368,4089
+36066,Red Cliff,WI,Bayfield County,,city-us,0,46.856,-90.788,1009

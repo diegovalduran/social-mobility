@@ -1,11 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27535,Oregon,,United States,state,4240137,44.14,-120.54,60805
-27529,Oregon,OH,,city-us,19865,41.64,-83.49,12780
-27527,Oregon,MI,,city-us,5707,43.09,-83.40,1862
-27526,Oregon,IL,,city-us,3592,42.01,-89.33,8170
-27531,Oregon,WI,,city-us,3115,42.90,-89.42,6393
-27530,Oregon,PA,,city-us,840,41.66,-75.20,1780
-27528,Oregon,MO,,city-us,827,39.99,-95.14,4272
-27532,Oregon,KY,,city-us,0,37.91,-84.82,230
-27533,Oregon,MD,,city-us,0,39.50,-76.69,234
-27534,Oregon,PA,,city-us,0,40.11,-76.25,1723
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18134,Greer,SC,Greenville County / Spartanburg County,,city-us,38865,34.930,-82.238,12842
+18132,Greer,AZ,Apache County,,city-us,0,34.010,-109.459,13006
+18133,Greer,ID,Clearwater County,,city-us,0,46.390,-116.175,633
+18135,Greer,OH,Knox County,,city-us,0,40.522,-82.200,332
+18136,Greer,WV,Mason County,,city-us,0,38.819,-82.030,266
+18137,Greer,WV,Monongalia County,,city-us,0,39.572,-79.849,104
+18138,Greer,MO,Oregon County,,city-us,0,36.769,-91.353,520

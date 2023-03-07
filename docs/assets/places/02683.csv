@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22243,Le Roy,NY,,city-us,7573,42.99,-77.97,6779
-22240,Le Roy,IL,,city-us,3459,40.35,-88.76,10234
-22242,Le Roy,MN,,city-us,959,43.51,-92.50,3433
-22241,Le Roy,MI,,city-us,255,44.04,-85.45,3284
-22244,Le Roy,SD,,city-us,188,44.07,-97.07,0
-22239,Le Roy,IA,,city-us,10,40.88,-93.59,3136
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13322,Elk Grove,CA,Sacramento County,,city-us,178997,38.409,-121.372,8248
+13320,Elk Grove,IL,Cook County,,city-us,93384,42.030,-87.977,2850
+13321,Elk Grove,WI,Lafayette County,,city-us,551,42.672,-90.391,2017

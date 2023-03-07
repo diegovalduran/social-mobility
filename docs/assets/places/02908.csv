@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23624,Buhl,ID,,city-us,4654,42.60,-114.76,4041
-23625,Buel,MI,,city-us,1166,43.30,-82.70,2652
-23626,Buhl,MN,,city-us,947,47.49,-92.78,3605
-23627,Buhl,AL,,city-us,0,33.26,-87.75,402
-23628,Buel,KY,,city-us,0,37.55,-87.17,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14577,Fanny,MN,Polk County,,city-us,94,47.891,-96.676,1728
+14578,Fanny,WV,Wyoming County,,city-us,0,37.564,-81.629,221

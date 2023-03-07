@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20454,Sugar Hill,GA,,city-us,25259,34.11,-84.03,8977
-20455,Sugar Hill,NH,,city-us,657,44.22,-71.80,5725
-20456,Sugar Hill,PA,,city-us,0,41.24,-78.88,191
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12021,Dorsey,MI,Alger County,,city-us,1212,46.351,-86.966,3881
+12022,Dorsey,NE,Holt County,,city-us,0,42.682,-98.345,246
+12023,Dorsey,MD,Howard County,,city-us,0,39.177,-76.743,1577
+12024,Dorsey,MS,Itawamba County,,city-us,0,34.252,-88.510,260
+12025,Dorsey,IL,Madison County,,city-us,0,38.974,-90.001,325

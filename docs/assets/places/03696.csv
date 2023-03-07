@@ -1,6 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28426,Southwest,PA,,city-us,422,41.66,-79.55,2603
-28424,Southwest,IL,,city-us,78,38.86,-87.87,686
-28425,Southwest,ND,,city-us,13,45.96,-97.97,0
-28427,Southwest,IN,,city-us,0,41.54,-85.94,411
-28428,Southwest,PA,,city-us,0,40.20,-79.52,208
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18852,Hardy,OH,Holmes County,,city-us,5934,40.559,-81.922,1199
+18850,Hardy,AR,Fulton County / Sharp County,,city-us,756,36.320,-91.481,4967
+18856,Hardy,NE,Nuckolls County,,city-us,93,40.009,-97.927,2932
+18849,Hardy,MT,Cascade County,,city-us,63,47.186,-111.806,647
+18853,Hardy,IA,Humboldt County,,city-us,54,42.811,-94.051,3103
+18848,Hardy,VA,Bedford County,,city-us,0,37.232,-79.811,2214
+18851,Hardy,MS,Grenada County,,city-us,0,33.882,-89.829,423
+18854,Hardy,CA,Mendocino County,,city-us,0,39.712,-123.803,668
+18855,Hardy,WV,Mercer County,,city-us,0,37.310,-81.028,126
+18857,Hardy,KY,Pike County,,city-us,0,37.621,-82.244,209

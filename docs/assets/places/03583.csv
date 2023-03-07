@@ -1,4 +1,15 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27725,Petty,IL,,city-us,621,38.80,-87.84,336
-27726,Petty,TX,,city-us,0,33.60,-95.81,189
-27727,Petty,GA,,city-us,0,31.26,-84.16,828
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18264,Grover,IL,Wayne County,,city-us,3542,38.357,-88.310,338
+18259,Grover,WI,Marinette County,,city-us,1738,45.056,-87.860,2146
+18258,Grover,WY,Lincoln County,,city-us,1269,42.792,-110.937,2084
+18254,Grover,NC,Cleveland County,,city-us,808,35.175,-81.450,9683
+18256,Grover,SC,Dorchester County,,city-us,297,33.105,-80.595,481
+18263,Grover,WI,Taylor County,,city-us,213,45.205,-90.618,3504
+18266,Grover,CO,Weld County,,city-us,154,40.871,-104.225,2742
+18260,Grover,ND,Renville County,,city-us,16,48.858,-101.814,0
+18253,Grover,PA,Bradford County,,city-us,0,41.614,-76.867,335
+18255,Grover,SD,Codington County,,city-us,0,44.814,-97.269,272
+18257,Grover,KS,Douglas County,,city-us,0,39.060,-95.460,276
+18261,Grover,NE,Seward County,,city-us,0,40.780,-97.038,249
+18262,Grover,MO,St. Louis County,,city-us,0,38.576,-90.637,277
+18265,Grover,UT,Wayne County,,city-us,0,38.228,-111.350,3296

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44356,Dyckesville,WI,,city-us,398,44.64,-87.76,454
-44357,Dykesville,LA,,city-us,0,32.92,-93.23,214
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40430,South Union,PA,Fayette County,,city-us,10703,39.871,-79.721,3668
+40432,South Union,SC,Oconee County,,city-us,251,34.551,-83.052,942
+40431,South Union,KY,Logan County,,city-us,0,36.876,-86.656,2128

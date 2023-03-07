@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37677,Chalybeate,MS,,city-us,0,34.93,-88.87,3913
-37678,Chalybeate,KY,,city-us,0,37.13,-86.24,644
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30176,Myra,TX,Cooke County,,city-us,230,33.625,-97.316,298
+30177,Myra,WV,Lincoln County,,city-us,0,38.221,-82.112,373
+30178,Myra,KY,Pike County,,city-us,0,37.290,-82.600,86
+30179,Myra,WI,Washington County,,city-us,0,43.416,-88.096,1124

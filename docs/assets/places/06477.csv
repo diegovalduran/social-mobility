@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39637,Tamworth,NH,,city-us,2889,43.86,-71.30,7138
-39638,Tamworth,SD,,city-us,108,45.02,-99.17,0
-39639,Tamworth,VA,,city-us,0,37.65,-78.08,2912
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33008,Palo Alto,CA,Santa Clara County,,city-us,66680,37.442,-122.143,47553
+33009,Palo Alto,PA,Schuylkill County,,city-us,971,40.687,-76.172,4901
+33007,Palo Alto,VA,Highland County,,city-us,0,38.423,-79.370,415

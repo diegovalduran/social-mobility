@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38662,Christine,TX,,city-us,344,28.79,-98.50,2745
-38661,Christine,ND,,city-us,151,46.57,-96.80,4176
-38663,Christine,KY,,city-us,0,37.14,-85.21,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31483,Northlake,IL,Cook County,,city-us,12664,41.917,-87.896,4709
+31485,Northlake,TX,Denton County,,city-us,6829,33.127,-97.266,682
+31482,Northlake,SC,Anderson County,,city-us,3840,34.566,-82.684,2614
+31484,Northlake,GA,DeKalb County,,city-us,0,33.850,-84.255,2172

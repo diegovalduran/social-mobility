@@ -1,24 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27605,Palmyra,PA,,city-us,7755,40.31,-76.59,16305
-27596,Palmyra,KS,,city-us,7712,38.80,-95.15,2184
-27602,Palmyra,NJ,,city-us,7424,40.01,-75.03,15384
-27603,Palmyra,NY,,city-us,7361,43.08,-77.19,1520
-27613,Palmyra,NJ,,city-us,4938,40.59,-75.03,11383
-27600,Palmyra,MO,,city-us,3621,39.79,-91.52,4906
-27606,Palmyra,PA,,city-us,3287,41.40,-75.22,175
-27604,Palmyra,OH,,city-us,2799,41.09,-81.04,1758
-27598,Palmyra,MI,,city-us,2016,41.87,-83.95,2000
-27597,Palmyra,ME,,city-us,1954,44.84,-69.37,3226
-27611,Palmyra,WI,,city-us,1699,42.88,-88.59,4287
-27607,Palmyra,PA,,city-us,1246,41.51,-75.19,175
-27595,Palmyra,IN,,city-us,906,38.41,-86.11,4779
-27594,Palmyra,IL,,city-us,599,39.43,-90.00,3454
-27601,Palmyra,NE,,city-us,553,40.70,-96.39,3132
-27609,Palmyra,UT,,city-us,492,40.14,-111.70,2522
-27599,Palmyra,MN,,city-us,164,44.67,-94.81,1936
-27610,Palmyra,VA,,city-us,96,37.86,-78.26,2504
-27608,Palmyra,SD,,city-us,61,45.89,-98.67,0
-27593,Palmyra,IL,,city-us,0,41.85,-89.58,80
-27612,Palmyra,GA,,city-us,0,31.64,-84.19,537
-27614,Palmyra,OH,,city-us,0,40.54,-82.54,234
-27615,Palmyra,TN,,city-us,0,36.44,-87.49,1155
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18186,Griffith,IN,Lake County,,city-us,16331,41.528,-87.424,7548
+18185,Griffith,VA,Alleghany County,,city-us,0,37.866,-79.727,105

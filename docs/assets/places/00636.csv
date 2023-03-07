@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-7095,Guy,AR,,city-us,749,35.33,-92.33,3041
-7096,Guy,IN,,city-us,0,40.44,-85.98,205
-7097,Guy,KY,,city-us,0,37.12,-86.61,185
-7098,Guy,TX,,city-us,0,29.34,-95.78,3674
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3192,Bella Vista,AR,Benton County,,city-us,30808,36.467,-94.266,10921
+3194,Bella Vista,CA,Shasta County,,city-us,3610,40.641,-122.233,4740
+3193,Bella Vista,VA,Pulaski County,,city-us,0,37.107,-80.787,94

@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23369,Vinton,VA,,city-us,8021,37.28,-79.90,3434
-23364,Vinton,IA,,city-us,4931,42.17,-92.02,7803
-23365,Vinton,LA,,city-us,3171,30.19,-93.58,7918
-23368,Vinton,TX,,city-us,2769,31.95,-106.60,3957
-23367,Vinton,OH,,city-us,508,39.16,-82.37,1384
-23366,Vinton,OH,,city-us,221,38.98,-82.34,3315
-23370,Vinton,CA,,city-us,0,39.80,-120.18,569
-23371,Vinton,KS,,city-us,0,37.11,-96.83,288
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14254,Fairbury,NE,Jefferson County,,city-us,3904,40.137,-97.181,14137
+14255,Fairbury,IL,Livingston County,,city-us,3595,40.747,-88.515,10580

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25570,Fox Lake,IL,,city-us,10927,42.43,-88.18,6300
-25573,Fox Lake,WI,,city-us,2672,43.60,-88.93,5284
-25572,Fox Lake,MT,,city-us,115,47.68,-104.62,2874
-25571,Fox Lake,MN,,city-us,0,43.68,-94.66,161
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16446,Garyville,LA,St. John the Baptist Parish,,city-us,2102,30.056,-90.619,3133
+16690,Geryville,PA,Bucks County,,city-us,0,40.415,-75.475,748

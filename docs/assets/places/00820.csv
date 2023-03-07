@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9253,Sweet Home,OR,,city-us,9955,44.40,-122.74,7767
-9252,Sweet Home,AR,,city-us,1286,34.69,-92.24,2785
-9254,Sweet Home,TX,,city-us,0,29.35,-97.07,3053
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4192,Blackman,MI,Jackson County,,city-us,24789,42.296,-84.425,3174
+4193,Blackman,TN,Rutherford County,,city-us,0,35.875,-86.498,822

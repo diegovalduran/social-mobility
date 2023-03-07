@@ -1,4 +1,61 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14369,St. Helena,CA,,city-us,5386,38.51,-122.47,9203
-14370,St. Helena,NC,,city-us,419,34.52,-77.92,1932
-14371,St. Helena,NE,,city-us,90,42.81,-97.25,2786
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7656,Centerville,OH,Greene County / Montgomery County,,city-us,24729,39.634,-84.146,7021
+7672,Centerville,NJ,Monmouth County,,city-us,20125,40.426,-74.169,12804
+7657,Centerville,GA,Gwinnett County,,city-us,18242,33.804,-84.043,674
+7671,Centerville,NJ,Mercer County,,city-us,17491,40.356,-74.812,16151
+7646,Centerville,UT,Davis County,,city-us,16785,40.918,-111.872,5604
+7660,Centerville,GA,Houston County,,city-us,8243,32.630,-83.690,7183
+7634,Centerville,SC,Anderson County,,city-us,7276,34.532,-82.704,2324
+7636,Centerville,IA,Appanoose County,,city-us,5325,40.734,-92.874,12776
+7635,Centerville,MN,Anoka County,,city-us,3948,45.163,-93.056,3737
+7659,Centerville,TN,Hickman County,,city-us,3549,35.779,-87.467,4456
+7685,Centerville,PA,Washington County,,city-us,3234,40.045,-79.976,2502
+7686,Centerville,IN,Wayne County,,city-us,2786,39.818,-84.996,6959
+7665,Centerville,MI,Leelanau County,,city-us,1256,44.912,-85.764,3663
+7633,Centerville,NY,Allegany County,,city-us,936,42.475,-78.268,4840
+7683,Centerville,SD,Turner County,,city-us,922,43.119,-96.961,3982
+7667,Centerville,TX,Leon County,,city-us,921,31.258,-95.978,2639
+7669,Centerville,WI,Manitowoc County,,city-us,634,43.941,-87.755,2129
+7679,Centerville,LA,St. Mary Parish,,city-us,499,29.760,-91.428,1002
+7674,Centerville,KS,Neosho County,,city-us,489,37.511,-95.299,903
+7691,Centerville,AR,Yell County,,city-us,283,35.113,-93.169,644
+7653,Centerville,NC,Franklin County,,city-us,212,36.186,-78.106,2980
+7645,Centerville,PA,Crawford County,,city-us,176,41.736,-79.763,2666
+7654,Centerville,CA,Fresno County,,city-us,166,36.734,-119.498,2604
+7676,Centerville,MO,Reynolds County,,city-us,158,37.435,-90.958,3658
+7663,Centerville,WA,Klickitat County,,city-us,135,45.753,-120.905,2345
+7655,Centerville,OH,Gallia County,,city-us,88,38.898,-82.446,3537
+7668,Centerville,KS,Linn County,,city-us,78,38.221,-95.014,903
+7651,Centerville,SD,Faulk County,,city-us,36,45.027,-98.879,3982
+7643,Centerville,MT,Cascade County,,city-us,7,47.390,-111.143,489
+7632,Centerville,VA,Accomack County,,city-us,0,37.757,-75.621,89
+7637,Centerville,VA,Augusta County,,city-us,0,38.338,-79.006,208
+7638,Centerville,OH,Belmont County,,city-us,0,39.976,-80.965,353
+7639,Centerville,ID,Boise County,,city-us,0,43.913,-115.892,400
+7640,Centerville,IA,Boone County,,city-us,0,42.093,-93.936,339
+7641,Centerville,CA,Butte County,,city-us,0,39.788,-121.655,1088
+7642,Centerville,IL,Calhoun County,,city-us,0,38.930,-90.572,126
+7644,Centerville,AL,Conecuh County,,city-us,0,31.400,-86.879,158
+7647,Centerville,NE,Dodge County,,city-us,0,40.662,-96.728,244
+7648,Centerville,NV,Douglas County,,city-us,0,38.911,-119.779,284
+7649,Centerville,GA,Elbert County,,city-us,0,34.206,-82.892,194
+7650,Centerville,LA,Evangeline Parish,,city-us,0,30.893,-92.310,92
+7652,Centerville,AR,Faulkner County,,city-us,0,35.273,-92.257,139
+7658,Centerville,AR,Hempstead County,,city-us,0,33.644,-93.489,161
+7661,Centerville,NJ,Hunterdon County,,city-us,0,40.538,-74.754,529
+7662,Centerville,AR,Jackson County,,city-us,0,35.812,-91.222,168
+7664,Centerville,IL,Knox County,,city-us,0,41.064,-90.054,189
+7666,Centerville,FL,Leon County,,city-us,0,30.330,-84.100,1660
+7670,Centerville,OH,Marion County,,city-us,0,40.495,-83.243,526
+7673,Centerville,VA,Montgomery County,,city-us,0,37.170,-80.538,757
+7675,Centerville,DE,New Castle County,,city-us,0,39.821,-75.617,1913
+7677,Centerville,CA,Shasta County,,city-us,0,40.518,-122.485,407
+7678,Centerville,IN,Spencer County,,city-us,0,37.994,-87.063,373
+7680,Centerville,GA,Talbot County,,city-us,0,32.695,-84.456,541
+7681,Centerville,WI,Trempealeau County,,city-us,0,44.070,-91.451,717
+7682,Centerville,TX,Trinity County,,city-us,0,31.181,-95.043,499
+7684,Centerville,WV,Tyler County,,city-us,0,39.432,-80.840,286
+7687,Centerville,OH,Wayne County,,city-us,0,40.668,-82.041,157
+7688,Centerville,WV,Wayne County,,city-us,0,38.261,-82.530,183
+7689,Centerville,GA,Wilkes County,,city-us,0,33.801,-82.923,242
+7690,Centerville,MN,Winona County,,city-us,0,43.943,-91.636,402

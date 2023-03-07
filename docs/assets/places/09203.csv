@@ -1,3 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47382,Phalanx,NJ,,city-us,0,40.32,-74.14,608
-47383,Phalanx,OH,,city-us,0,41.26,-80.98,583
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46437,Wheeling,IL,Cook County,,city-us,154241,42.110,-87.945,2325
+46438,Wheeling,IL,Cook County / Lake County,,city-us,38499,42.130,-87.921,7379
+46443,Wheeling,WV,Marshall County / Ohio County,,city-us,26568,40.074,-80.696,30416
+46435,Wheeling,OH,Belmont County,,city-us,1586,40.134,-80.957,124
+46441,Wheeling,OH,Guernsey County,,city-us,679,40.189,-81.601,124
+46444,Wheeling,MN,Rice County,,city-us,523,44.326,-93.102,2542
+46442,Wheeling,MO,Livingston County,,city-us,376,39.799,-93.393,3390
+46436,Wheeling,IN,Carroll County,,city-us,0,40.566,-86.392,304
+46439,Wheeling,IN,Delaware County,,city-us,0,40.364,-85.464,348
+46440,Wheeling,IN,Gibson County,,city-us,0,38.413,-87.455,756
+46445,Wheeling,LA,Winn Parish,,city-us,0,31.746,-92.839,68

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13465,North Lakeport,MI,,city-us,4008,43.12,-82.50,2958
-13464,North Lakeport,CA,,city-us,2986,39.09,-122.91,3783
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6984,Carnegie,PA,Allegheny County,,city-us,8013,40.409,-80.083,6037
+6985,Carnegie,OK,Caddo County,,city-us,1459,35.104,-98.604,6306
+6986,Carnegie,WI,Douglas County,,city-us,0,46.633,-92.193,116
+6987,Carnegie,GA,Randolph County,,city-us,0,31.643,-84.779,456

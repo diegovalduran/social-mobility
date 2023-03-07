@@ -1,9 +1,11 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-8062,Mount Holly,NC,,city-us,17966,35.30,-81.02,6976
-8063,Mount Holly,NJ,,city-us,9977,40.00,-74.79,26250
-8064,Mount Holly,VT,,city-us,1386,43.42,-72.81,2080
-8061,Mount Holly,AR,,city-us,123,33.30,-92.95,1317
-8065,Mount Holly,OH,,city-us,0,39.01,-84.18,262
-8066,Mount Holly,OH,,city-us,0,39.57,-84.03,381
-8067,Mount Holly,SC,,city-us,0,33.03,-80.03,526
-8068,Mount Holly,VA,,city-us,0,38.09,-76.72,235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3710,Berwick,PA,Columbia County,,city-us,10349,41.055,-76.233,8119
+3718,Berwick,ME,York County,,city-us,8079,43.299,-70.842,7111
+3716,Berwick,LA,St. Mary Parish,,city-us,4644,29.695,-91.219,2739
+3709,Berwick,PA,Adams County,,city-us,2395,39.857,-77.004,1917
+3717,Berwick,IL,Warren County,,city-us,50,40.799,-90.538,390
+3711,Berwick,ND,McHenry County,,city-us,0,48.361,-100.246,378
+3712,Berwick,KS,Nemaha County,,city-us,0,39.933,-95.845,431
+3713,Berwick,MO,Newton County,,city-us,0,36.933,-94.095,560
+3714,Berwick,IA,Polk County,,city-us,0,41.665,-93.545,1005
+3715,Berwick,OH,Seneca County,,city-us,0,41.029,-83.298,460

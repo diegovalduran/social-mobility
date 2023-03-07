@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44431,Ladysmith,WI,,city-us,3146,45.46,-91.10,6069
-44432,Ladysmith,VA,,city-us,0,38.02,-77.52,635
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40580,Spencerville,OH,Allen County,,city-us,2167,40.709,-84.354,3815
+40583,Spencerville,MD,Montgomery County,,city-us,1489,39.114,-76.978,214
+40584,Spencerville,NM,San Juan County,,city-us,1423,36.820,-108.058,931
+40581,Spencerville,OK,Choctaw County,,city-us,0,34.142,-95.358,1562
+40582,Spencerville,IN,DeKalb County,,city-us,0,41.283,-84.922,364

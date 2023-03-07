@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37535,Stella,WI,,city-us,568,45.69,-89.24,2245
-37533,Stella,MO,,city-us,166,36.76,-94.19,7381
-37534,Stella,NE,,city-us,148,40.23,-95.77,4404
-37536,Stella,KY,,city-us,0,36.64,-88.40,509
-37537,Stella,NC,,city-us,0,34.77,-77.15,125
-37538,Stella,WA,,city-us,0,46.19,-123.12,578
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30160,Mussey,MI,St. Clair County,,city-us,4211,43.026,-82.932,2065
+30022,Mousie,KY,Knott County,,city-us,0,37.418,-82.878,299

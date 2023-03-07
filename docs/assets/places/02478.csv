@@ -1,13 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20926,Ashton,MI,,city-us,1629,43.95,-85.51,2273
-20920,Ashton,IL,,city-us,953,41.87,-89.22,2108
-20919,Ashton,ID,,city-us,952,44.07,-111.45,13332
-20918,Ashton,IA,,city-us,447,43.31,-95.79,3302
-20921,Ashton,NE,,city-us,195,41.25,-98.79,3063
-20922,Ashton,SD,,city-us,107,44.99,-98.50,3148
-20923,Ashton,GA,,city-us,0,31.70,-83.16,301
-20924,Ashton,KS,,city-us,0,37.08,-97.24,679
-20925,Ashton,MD,,city-us,0,39.15,-77.01,1497
-20927,Ashton,MO,,city-us,0,40.45,-91.81,452
-20928,Ashton,WV,,city-us,0,38.62,-82.16,294
-20929,Ashton,WI,,city-us,0,43.14,-89.54,324
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12351,Dunavant,KS,Jefferson County,,city-us,0,39.302,-95.333,2653
+12352,Dunavant,VA,Spotsylvania County,,city-us,0,38.362,-77.665,317

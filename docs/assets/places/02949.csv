@@ -1,16 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23845,Moore,OK,,city-us,63462,35.34,-97.49,12039
-23850,Moore,NJ,,city-us,17491,40.36,-74.81,16151
-23846,Moore,PA,,city-us,9353,40.78,-75.42,3722
-23841,Moore,MI,,city-us,1105,43.46,-82.93,2801
-23848,Moore,TX,,city-us,475,29.07,-99.01,2183
-23842,Moore,MN,,city-us,280,45.46,-95.81,1718
-23843,Moore,MT,,city-us,198,46.98,-109.70,3317
-23839,Moore,ID,,city-us,168,43.74,-113.37,2882
-23844,Moore,ND,,city-us,130,46.59,-97.72,0
-23847,Moore,SD,,city-us,73,43.30,-98.59,0
-23840,Moore,KS,,city-us,29,37.13,-98.53,283
-23852,Moore,UT,,city-us,5,38.97,-111.16,2076
-23849,Moore,IN,,city-us,0,41.40,-84.95,445
-23851,Moore,SC,,city-us,0,34.83,-81.99,1455
-23853,Moore,WV,,city-us,0,39.08,-79.72,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14792,Fenner,NY,Madison County,,city-us,1651,42.975,-75.773,3053
+14793,Fenner,CA,San Bernardino County,,city-us,0,34.816,-115.179,304

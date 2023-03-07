@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-14055,Rodeo,CA,,city-us,9575,38.03,-122.27,6893
-14056,Rodeo,NM,,city-us,108,31.84,-109.03,1493
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7311,Cave,IL,Franklin County,,city-us,1665,37.910,-88.757,917
+7312,Cave,MO,Lincoln County,,city-us,2,39.020,-91.043,3023
+7313,Cave,WV,Pendleton County,,city-us,0,38.547,-79.445,263

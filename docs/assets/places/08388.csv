@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45390,Confidence,CA,,city-us,0,38.05,-120.20,265
-45391,Confidence,IL,,city-us,0,38.92,-88.93,138
-45392,Confidence,IA,,city-us,0,40.86,-93.13,1843
-45393,Confidence,WV,,city-us,0,38.57,-81.83,382
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42392,Tabernacle,NJ,Burlington County,,city-us,6808,39.821,-74.653,15893
+42393,Tabernacle,AL,Coffee County,,city-us,0,31.451,-85.871,271
+42394,Tabernacle,VA,Mathews County,,city-us,0,37.423,-76.296,94

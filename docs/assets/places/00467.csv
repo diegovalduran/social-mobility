@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5403,Webb,NY,,city-us,1799,43.82,-75.04,8508
-5400,Webb,AL,,city-us,1283,31.26,-85.27,3691
-5402,Webb,MS,,city-us,377,33.95,-90.34,3380
-5401,Webb,IA,,city-us,142,42.95,-95.01,3117
-5404,Webb,TX,,city-us,40,27.79,-99.42,573
-5405,Webb,WV,,city-us,0,37.97,-82.48,92
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2431,Barcelona,,,Spain,city-international,4735000,41.383,2.177,61864
+2432,Barcelona,,,Venezuela,city-international,448016,10.133,-64.683,19009
+2430,Barcelona,AR,Crawford County,,city-us,0,35.621,-94.456,182

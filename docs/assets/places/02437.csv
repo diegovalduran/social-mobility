@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20677,Wenona,IL,,city-us,968,41.05,-89.05,6368
-20676,Wenona,GA,,city-us,205,31.91,-83.77,607
-20678,Wenona,MD,,city-us,0,38.14,-75.95,337
+id,name,state,county,country,level,population,latitude,longitude,wiki
+12183,Draper,UT,Salt Lake County / Utah County,,city-us,51749,40.495,-111.861,7161
+12182,Draper,VA,Pulaski County,,city-us,578,37.006,-80.747,266
+12184,Draper,WI,Sawyer County,,city-us,171,45.886,-90.831,1954
+12181,Draper,SD,Jones County,,city-us,44,43.926,-100.540,2846
+12179,Draper,TX,Denton County,,city-us,36,33.099,-97.230,3656
+12180,Draper,KY,Harlan County,,city-us,0,36.861,-83.204,111

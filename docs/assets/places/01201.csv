@@ -1,32 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12225,Freedom,WI,,city-us,6200,44.39,-88.29,3768
-12203,Freedom,CA,,city-us,3399,36.94,-121.77,3989
-12222,Freedom,PA,,city-us,2997,40.36,-78.46,174
-12217,Freedom,OH,,city-us,2671,41.24,-81.14,160
-12218,Freedom,OH,,city-us,2643,41.38,-83.47,160
-12215,Freedom,NY,,city-us,2244,42.47,-78.38,3838
-12214,Freedom,NH,,city-us,1728,43.84,-71.08,4083
-12221,Freedom,PA,,city-us,1479,40.69,-80.25,5498
-12211,Freedom,MI,,city-us,1322,42.21,-83.96,3143
-12216,Freedom,OH,,city-us,926,41.46,-84.17,160
-12204,Freedom,IL,,city-us,835,42.16,-89.93,231
-12220,Freedom,PA,,city-us,819,39.76,-77.30,174
-12210,Freedom,ME,,city-us,729,44.49,-69.35,4158
-12205,Freedom,IL,,city-us,602,41.50,-88.88,231
-12206,Freedom,KS,,city-us,593,37.99,-94.77,597
-12226,Freedom,WI,,city-us,452,43.42,-89.90,1969
-12212,Freedom,MN,,city-us,337,43.98,-93.71,1833
-12224,Freedom,WI,,city-us,323,45.44,-88.74,1803
-12228,Freedom,ID,,city-us,214,42.98,-111.04,3347
-12219,Freedom,OK,,city-us,176,36.77,-99.11,4469
-12227,Freedom,WY,,city-us,168,42.99,-111.03,3347
-12213,Freedom,ND,,city-us,158,48.06,-101.34,0
-12209,Freedom,KS,,city-us,134,39.87,-97.65,103
-12207,Freedom,KS,,city-us,97,38.73,-99.13,417
-12208,Freedom,KS,,city-us,74,39.87,-99.34,0
-12223,Freedom,SD,,city-us,32,45.21,-99.14,0
-12229,Freedom,IN,,city-us,0,39.21,-86.87,1759
-12230,Freedom,KY,,city-us,0,36.92,-85.11,92
-12231,Freedom,MO,,city-us,0,38.46,-91.69,372
-12232,Freedom,NE,,city-us,0,40.42,-100.37,439
-12233,Freedom,UT,,city-us,0,39.54,-111.65,559
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6045,Bull Creek,MO,Taney County,,city-us,426,36.715,-93.204,3370
+6046,Bull Creek,SD,Tripp County,,city-us,25,43.456,-99.589,0
+6044,Bull Creek,FL,Osceola County,,city-us,0,28.093,-80.980,2021

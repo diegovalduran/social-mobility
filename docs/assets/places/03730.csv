@@ -1,4 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28639,Tennessee,,United States,state,7051339,35.83,-85.98,82922
-28637,Tennessee,IL,,city-us,96,40.41,-90.84,1829
-28638,Tennessee,AR,,city-us,0,33.63,-91.85,159
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19100,Harrisville,UT,Weber County,,city-us,7004,41.281,-111.988,2380
+19095,Harrisville,OH,Medina County,,city-us,1728,41.025,-82.026,1260
+19098,Harrisville,WV,Ritchie County,,city-us,1642,39.210,-81.052,5838
+19096,Harrisville,RI,Providence County,,city-us,1459,41.966,-71.675,2217
+19092,Harrisville,NH,Cheshire County,,city-us,997,42.949,-72.069,5050
+19090,Harrisville,PA,Butler County,,city-us,813,41.137,-80.009,2907
+19094,Harrisville,WI,Marquette County,,city-us,729,43.878,-89.405,2318
+19088,Harrisville,MI,Alcona County,,city-us,437,44.656,-83.295,7650
+19093,Harrisville,OH,Harrison County,,city-us,178,40.181,-80.888,3640
+19089,Harrisville,NJ,Burlington County,,city-us,0,39.661,-74.522,1243
+19091,Harrisville,MD,Cecil County,,city-us,0,39.696,-76.081,187
+19097,Harrisville,IN,Randolph County,,city-us,0,40.185,-84.882,319
+19099,Harrisville,MS,Simpson County,,city-us,0,31.973,-90.078,534

@@ -1,6 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31784,Speed,NC,,city-us,63,35.97,-77.45,1872
-31783,Speed,KS,,city-us,36,39.68,-99.42,3185
-31785,Speed,IN,,city-us,0,38.41,-85.75,2139
-31786,Speed,MO,,city-us,0,38.85,-92.80,638
-31787,Speed,WV,,city-us,0,38.73,-81.38,139
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22543,Kathleen,FL,Polk County,,city-us,6146,28.121,-82.023,2081
+22542,Kathleen,GA,Houston County,,city-us,0,32.496,-83.608,796

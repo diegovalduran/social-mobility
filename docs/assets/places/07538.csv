@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42953,Turbeville,SC,,city-us,759,33.89,-80.02,5357
-42954,Turbeville,VA,,city-us,0,36.62,-79.04,134
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38292,Salem Heights,OH,Hamilton County,,city-us,3501,39.072,-84.378,598
+38291,Salem Heights,OH,Columbiana County,,city-us,287,40.901,-80.891,1110
+38293,Salem Heights,IN,LaPorte County,,city-us,0,41.575,-86.622,93

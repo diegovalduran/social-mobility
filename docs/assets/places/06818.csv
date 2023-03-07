@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40615,Rathbone,NY,,city-us,1089,42.13,-77.34,2831
-40616,Rathbone,MI,,city-us,656,43.34,-84.43,2234
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34746,Plover,WI,Portage County,,city-us,1556,44.434,-89.584,2160
+34744,Plover,WI,Marathon County,,city-us,685,44.978,-89.303,1985
+34745,Plover,IA,Pocahontas County,,city-us,53,42.878,-94.621,3117

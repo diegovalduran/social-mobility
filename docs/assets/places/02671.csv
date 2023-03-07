@@ -1,3 +1,20 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22164,Lakota,ND,,city-us,689,48.04,-98.34,3654
-22163,Lakota,IA,,city-us,265,43.38,-94.09,4682
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13234,Elgin,IL,Cook County / Kane County,,city-us,113911,42.039,-88.326,21688
+13238,Elgin,IL,Kane County,,city-us,104102,42.026,-88.318,483
+13230,Elgin,TX,Bastrop County / Travis County,,city-us,10549,30.354,-97.390,12151
+13233,Elgin,OK,Comanche County,,city-us,3715,34.780,-98.292,3417
+13240,Elgin,SC,Lancaster County,,city-us,2876,34.673,-80.719,2271
+13245,Elgin,OR,Union County,,city-us,1694,45.565,-117.917,6585
+13239,Elgin,SC,Kershaw County,,city-us,1620,34.171,-80.794,8898
+13229,Elgin,NE,Antelope County,,city-us,712,41.983,-98.084,3215
+13247,Elgin,MN,Wabasha County,,city-us,686,44.158,-92.240,1836
+13236,Elgin,IA,Fayette County,,city-us,681,42.957,-91.631,4514
+13237,Elgin,ND,Grant County,,city-us,526,46.404,-101.846,3981
+13242,Elgin,AZ,Santa Cruz County,,city-us,210,31.660,-110.525,3703
+13235,Elgin,PA,Erie County,,city-us,203,41.903,-79.744,2546
+13243,Elgin,TN,Scott County,,city-us,185,36.332,-84.606,235
+13231,Elgin,ND,Cavalier County,,city-us,183,48.754,-98.420,3981
+13232,Elgin,KS,Chautauqua County,,city-us,56,37.005,-96.277,3689
+13246,Elgin,OH,Van Wert County,,city-us,46,40.743,-84.476,2749
+13241,Elgin,AL,Lauderdale County,,city-us,0,34.849,-87.391,1491
+13244,Elgin,MO,Shelby County,,city-us,0,39.936,-91.997,241

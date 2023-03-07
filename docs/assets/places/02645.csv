@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22028,Hopkinton,RI,,city-us,8462,41.48,-71.76,4559
-22026,Hopkinton,NH,,city-us,6036,43.20,-71.70,7879
-22025,Hopkinton,MA,,city-us,3567,42.23,-71.52,25231
-22027,Hopkinton,NY,,city-us,1104,44.54,-74.66,4481
-22024,Hopkinton,IA,,city-us,627,42.34,-91.25,3937
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13126,El Dorado,AR,Union County,,city-us,17339,33.208,-92.666,12070
+13125,El Dorado,CA,El Dorado County,,city-us,4096,38.683,-120.848,1048
+13124,El Dorado,KS,Butler County,,city-us,816,37.773,-96.918,650

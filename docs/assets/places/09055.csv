@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47036,Smithdale,MS,,city-us,0,31.34,-90.68,507
-47037,Smithdale,PA,,city-us,0,40.23,-79.79,381
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45695,Weale,MI,Huron County,,city-us,1259,43.808,-83.403,2884
+45694,Weal,VA,Pittsylvania County,,city-us,0,36.825,-79.457,92
+46414,Wheel,TN,Bedford County,,city-us,0,35.489,-86.630,352
+46415,Wheel,KY,Graves County,,city-us,0,36.856,-88.804,161

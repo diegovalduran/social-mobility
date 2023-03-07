@@ -1,4 +1,17 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13673,Philo,IL,,city-us,1858,40.02,-88.19,831
-13674,Philo,OH,,city-us,724,39.86,-81.91,3724
-13672,Philo,CA,,city-us,206,39.07,-123.45,3445
+id,name,state,county,country,level,population,latitude,longitude,wiki
+7163,Cascade,MI,Kent County,,city-us,19701,42.898,-85.491,4234
+7166,Cascade,MN,Olmsted County,,city-us,2842,44.091,-92.463,1944
+7161,Cascade,IA,Dubuque County / Jones County,,city-us,2397,42.302,-91.005,5563
+7172,Cascade,ID,Valley County,,city-us,993,44.516,-116.042,4256
+7171,Cascade,WI,Sheboygan County,,city-us,724,43.658,-88.007,3635
+7158,Cascade,MT,Cascade County,,city-us,601,47.271,-111.701,4319
+7164,Cascade,PA,Lycoming County,,city-us,417,41.458,-76.874,3778
+7159,Cascade,NE,Cherry County,,city-us,0,42.181,-100.386,195
+7160,Cascade,NH,Co��s County,,city-us,0,44.449,-71.192,1389
+7162,Cascade,CO,El Paso County,,city-us,0,38.897,-104.972,8433
+7165,Cascade,MI,Marquette County,,city-us,0,46.447,-87.485,546
+7167,Cascade,VA,Pittsylvania County,,city-us,0,36.564,-79.670,168
+7168,Cascade,CA,Plumas County,,city-us,0,39.700,-121.178,188
+7169,Cascade,WV,Preston County,,city-us,0,39.563,-79.814,208
+7170,Cascade,OH,Putnam County,,city-us,0,41.021,-84.289,358
+7173,Cascade,MO,Wayne County,,city-us,0,37.299,-90.269,492

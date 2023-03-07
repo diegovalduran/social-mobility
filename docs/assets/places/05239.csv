@@ -1,4 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35459,Big Stone,SD,,city-us,324,45.28,-96.52,0
-35457,Big Stone,MN,,city-us,297,45.38,-96.41,2608
-35458,Big Stone,ND,,city-us,26,48.58,-103.33,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26842,Marengo,IL,McHenry County,,city-us,7572,42.249,-88.608,3579
+26840,Marengo,IA,Iowa County,,city-us,2423,41.798,-92.071,6583
+26837,Marengo,MI,Calhoun County,,city-us,2213,42.287,-84.897,2610
+26839,Marengo,IN,Crawford County,,city-us,829,38.369,-86.344,4171
+26836,Marengo,WI,Ashland County,,city-us,469,46.349,-90.888,3284
+26843,Marengo,OH,Morrow County,,city-us,279,40.401,-82.811,3261
+26835,Marengo,WA,Adams County,,city-us,0,47.026,-118.189,192
+26838,Marengo,WA,Columbia County,,city-us,0,46.441,-117.749,166
+26841,Marengo,AL,Marengo County,,city-us,0,32.057,-87.814,267

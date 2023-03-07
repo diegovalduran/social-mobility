@@ -1,13 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29474,Crane,OH,,city-us,7476,40.85,-83.26,118
-29476,Crane,TX,,city-us,3484,31.40,-102.35,3872
-29471,Crane,MO,,city-us,1478,36.91,-93.57,3870
-29473,Crane,OH,,city-us,1258,41.21,-84.62,118
-29470,Krain,MN,,city-us,994,45.71,-94.59,2211
-29472,Crane,MT,,city-us,197,47.58,-104.26,469
-29469,Crayne,KY,,city-us,185,37.27,-88.08,319
-29468,Crane,IN,,city-us,167,38.89,-86.90,3491
-29475,Crane,OR,,city-us,116,43.42,-118.58,2174
-29477,Crain,IL,,city-us,0,37.78,-89.51,166
-29478,Crane,VA,,city-us,0,37.91,-79.68,86
-29479,Crane,WA,,city-us,0,48.11,-123.30,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19854,Hickory Corners,MI,Barry County,,city-us,313,42.441,-85.376,1471
+19855,Hickory Corners,TN,Chester County,,city-us,0,35.343,-88.703,715
+19856,Hickory Corners,OH,Mahoning County,,city-us,0,40.973,-80.856,288
+19857,Hickory Corners,WI,Oconto County,,city-us,0,45.005,-88.254,146

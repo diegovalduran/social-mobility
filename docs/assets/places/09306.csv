@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47607,Cheek,OK,,city-us,0,34.08,-97.28,116
-47608,Cheek,TX,,city-us,0,29.98,-94.20,6193
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46954,Williamston,NC,Martin County,,city-us,5104,35.855,-77.056,4150
+46952,Williamston,SC,Anderson County,,city-us,4115,34.618,-82.478,4073
+46953,Williamston,MI,Ingham County,,city-us,3800,42.689,-84.283,10918

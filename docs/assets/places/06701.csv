@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40325,Bloomingburg,NY,,city-us,1002,41.55,-74.44,3694
-40326,Bloomingburg,OH,,city-us,871,39.61,-83.40,3492
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34058,Pilot Mound,MN,Fillmore County,,city-us,378,43.800,-92.029,2024
+34057,Pilot Mound,IA,Boone County,,city-us,163,42.164,-94.017,3528
+34059,Pilot Mound,ND,Griggs County,,city-us,32,47.636,-98.182,411

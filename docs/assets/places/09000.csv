@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46911,Sigma,MI,,city-us,292,44.63,-85.02,2442
-46912,Sigma,VA,,city-us,0,36.83,-82.94,78
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45138,Warm Springs,OR,Jefferson County,,city-us,2435,44.760,-121.268,2766
+45142,Warm Springs,CA,Riverside County,,city-us,1622,33.707,-117.334,2160
+45139,Warm Springs,GA,Meriwether County,,city-us,534,32.890,-84.681,5733
+45141,Warm Springs,AR,Randolph County,,city-us,47,36.480,-91.051,585
+45136,Warm Springs,VA,Bath County,,city-us,0,38.046,-79.791,1620
+45137,Warm Springs,MT,Deer Lodge County,,city-us,0,46.181,-112.785,1015
+45140,Warm Springs,NV,Nye County,,city-us,0,38.191,-116.370,1029

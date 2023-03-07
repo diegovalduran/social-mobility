@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40960,Lincoln Heights,OH,,city-us,3118,39.24,-84.46,11707
-40961,Lincoln Heights,OH,,city-us,594,40.77,-82.48,821
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35271,Prairie View,TX,Waller County,,city-us,6843,30.093,-95.988,4648
+35272,Prairie View,MN,Wilkin County,,city-us,222,46.586,-96.342,1781
+35270,Prairie View,KS,Phillips County,,city-us,168,39.896,-99.561,3243
+35267,Prairie View,SD,Corson County,,city-us,23,45.866,-101.511,0
+35266,Prairie View,IL,Boone County,,city-us,0,42.196,-88.903,152
+35268,Prairie View,IL,Lake County,,city-us,0,42.199,-87.963,3476
+35269,Prairie View,AR,Logan County,,city-us,0,35.334,-93.518,195

@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44008,Breaks,VA,,city-us,177,37.30,-82.28,999
-44009,Breaks,VA,,city-us,144,37.30,-82.28,999
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39968,Six Mile,IL,Franklin County,,city-us,3488,37.905,-89.092,1203
+39970,Six Mile,SC,Pickens County,,city-us,759,34.807,-82.821,3008
+39967,Six Mile,GA,Floyd County,,city-us,0,34.177,-85.206,199
+39969,Six Mile,AL,Morgan County,,city-us,0,34.424,-86.756,147

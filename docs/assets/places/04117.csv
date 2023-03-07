@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30578,Bel Air,MD,,city-us,10715,39.54,-76.35,10516
-30576,Bel Aire,KS,,city-us,8448,37.78,-97.25,4544
-30577,Bel Air,MD,,city-us,1540,39.57,-78.85,351
-30579,Bel Air,VA,,city-us,0,38.34,-77.43,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21202,Idamay,WV,Marion County,,city-us,783,39.497,-80.257,2162
+21201,Idamay,KY,Lee County,,city-us,0,37.521,-83.766,93

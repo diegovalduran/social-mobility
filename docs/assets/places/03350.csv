@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26276,Justice,IL,,city-us,12326,41.74,-87.84,2865
-26277,Justice,OK,,city-us,1721,36.29,-95.57,2032
-26278,Justice,WV,,city-us,474,37.59,-81.84,312
-26279,Justice,NC,,city-us,0,36.06,-78.17,279
-26280,Justus,OH,,city-us,0,40.70,-81.58,398
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16935,Glenburn,ME,Penobscot County,,city-us,4665,44.893,-68.845,2740
+16934,Glenburn,PA,Lackawanna County,,city-us,1440,41.510,-75.748,1776
+16936,Glenburn,ND,Renville County,,city-us,401,48.513,-101.221,3298

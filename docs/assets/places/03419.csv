@@ -1,4 +1,31 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26742,Long Point,IL,,city-us,445,40.97,-88.87,291
-26743,Long Point,IA,,city-us,0,41.95,-92.48,309
-26744,Long Point,TX,,city-us,0,29.39,-95.73,3235
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17308,Goshen,IN,Elkhart County,,city-us,34756,41.582,-85.834,15207
+17317,Goshen,NY,Orange County,,city-us,5762,41.402,-74.324,14032
+17324,Goshen,CA,Tulare County,,city-us,5154,36.351,-119.420,4863
+17305,Goshen,OH,Champaign County,,city-us,3646,40.070,-83.553,671
+17315,Goshen,CT,Northwest Hills Planning Region,,city-us,3165,41.850,-73.234,5850
+17313,Goshen,OH,Mahoning County,,city-us,3056,40.950,-80.921,671
+17302,Goshen,OH,Belmont County,,city-us,2992,39.990,-81.067,671
+17329,Goshen,AR,Washington County,,city-us,2188,36.101,-93.991,2567
+17327,Goshen,UT,Utah County,,city-us,982,39.953,-111.901,2695
+17309,Goshen,MA,Hampshire County,,city-us,950,42.438,-72.811,3398
+17316,Goshen,KY,Oldham County,,city-us,899,38.403,-85.574,3005
+17323,Goshen,NH,Sullivan County,,city-us,808,43.272,-72.101,4085
+17307,Goshen,OH,Clermont County,,city-us,662,39.233,-84.161,1235
+17301,Goshen,OH,Auglaize County,,city-us,576,40.557,-83.937,671
+17322,Goshen,IL,Stark County,,city-us,576,41.106,-89.927,334
+17310,Goshen,OH,Hardin County,,city-us,557,40.679,-83.487,671
+17304,Goshen,NJ,Cape May County,,city-us,400,39.141,-74.853,1862
+17306,Goshen,PA,Clearfield County,,city-us,396,41.129,-78.374,1869
+17320,Goshen,VA,Rockbridge County,,city-us,339,37.987,-79.498,3703
+17319,Goshen,AL,Pike County,,city-us,270,31.723,-86.118,2594
+17300,Goshen,VT,Addison County,,city-us,178,43.865,-72.990,2925
+17303,Goshen,ID,Bingham County,,city-us,0,43.310,-112.083,316
+17311,Goshen,OR,Lane County,,city-us,0,43.996,-123.010,1849
+17312,Goshen,GA,Lincoln County,,city-us,0,33.864,-82.508,236
+17314,Goshen,MO,Mercer County,,city-us,0,40.383,-93.680,367
+17318,Goshen,TX,Parker County,,city-us,0,32.961,-97.747,618
+17321,Goshen,IN,Scott County,,city-us,0,38.671,-85.710,204
+17325,Goshen,OH,Tuscarawas County,,city-us,0,40.444,-81.410,277
+17326,Goshen,WV,Upshur County,,city-us,0,38.712,-80.306,87
+17328,Goshen,TX,Walker County,,city-us,0,30.622,-95.721,362

@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27028,Medora,IN,,city-us,630,38.83,-86.17,3414
-27027,Medora,IL,,city-us,369,39.18,-90.14,2344
-27030,Medora,ND,,city-us,117,46.91,-103.52,4673
-27029,Medora,KS,,city-us,0,38.15,-97.85,352
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17534,Grandy,NC,Currituck County,,city-us,2715,36.242,-75.879,709
+17533,Grandy,VA,Brunswick County,,city-us,0,36.801,-77.955,688
+17535,Grandy,MN,Isanti County,,city-us,0,45.635,-93.195,689

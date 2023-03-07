@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40239,Laughlin,NV,,city-us,8658,35.14,-114.62,14857
-40240,Laughlin,CA,,city-us,0,39.28,-123.23,334
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33890,Phillips,WI,Price County,,city-us,1516,45.697,-90.400,4867
+33891,Phillips,IL,White County,,city-us,1111,38.171,-88.048,553
+33888,Phillips,ME,Franklin County,,city-us,916,44.842,-70.370,6229
+33889,Phillips,NE,Hamilton County,,city-us,321,40.897,-98.215,3194
+33886,Phillips,OK,Coal County,,city-us,125,34.506,-96.220,2201
+33887,Phillips,CA,El Dorado County,,city-us,18,38.818,-120.078,512

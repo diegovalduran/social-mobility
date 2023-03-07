@@ -1,3 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-29112,Willow Hill,IL,,city-us,517,38.99,-88.01,1041
-29113,Willow Hill,PA,,city-us,0,40.11,-77.79,274
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19482,Hazleton,PA,Luzerne County,,city-us,29970,40.958,-75.975,24509
+19483,Hazleton,MI,Shiawassee County,,city-us,2071,43.092,-83.982,3587
+19467,Hazelton,MI,Shiawassee County,,city-us,2037,43.090,-83.991,3587
+19460,Hazelton,MN,Aitkin County,,city-us,814,46.329,-93.768,211
+19463,Hazelton,ID,Jerome County,,city-us,813,42.596,-114.136,3444
+19480,Hazleton,IA,Buchanan County,,city-us,710,42.621,-91.900,3313
+19462,Hazelton,ND,Emmons County,,city-us,222,46.485,-100.280,3422
+19481,Hazleton,IN,Gibson County,,city-us,189,38.489,-87.542,4360
+19464,Hazelton,MN,Kittson County,,city-us,99,48.767,-96.745,211
+19461,Hazelton,KS,Barber County,,city-us,84,37.090,-98.398,3418
+19465,Hazelton,NJ,Middlesex County,,city-us,0,40.584,-74.272,797
+19466,Hazelton,WV,Preston County,,city-us,0,39.654,-79.531,268

@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18685,Tallahassee,FL,,city-us,197102,30.44,-84.28,51616
-18686,Tallahassee,GA,,city-us,0,31.92,-82.57,151
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10801,Cyprus,,,,country,1308120,35.126,33.430,75772
+10795,Cypress,TX,Harris County,,city-us,184851,29.971,-95.697,10070
+10799,Cypress,CA,Orange County,,city-us,49926,33.817,-118.037,7784
+10798,Cypress,IL,Johnson County,,city-us,246,37.365,-89.018,2819
+10796,Cypress,MO,Harrison County,,city-us,162,40.176,-94.038,212
+10793,Cypress,ND,Cavalier County,,city-us,35,48.938,-98.910,0
+10794,Cypress,TX,Franklin County,,city-us,0,33.044,-95.319,831
+10797,Cypress,FL,Jackson County,,city-us,0,30.713,-85.074,226
+10800,Cypress,IN,Vanderburgh County,,city-us,0,37.914,-87.630,308

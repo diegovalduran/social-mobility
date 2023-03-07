@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37252,Jameson,MO,,city-us,70,40.01,-93.98,3050
-37253,Jameson,MN,,city-us,0,48.60,-93.37,440
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29567,Morrisonville,NY,Clinton County,,city-us,1388,44.693,-73.562,2379
+29566,Morrisonville,IL,Christian County,,city-us,1034,39.420,-89.456,15787
+29568,Morrisonville,WI,Dane County,,city-us,0,43.277,-89.359,3588
+29569,Morrisonville,VA,Loudoun County,,city-us,0,39.223,-77.668,240

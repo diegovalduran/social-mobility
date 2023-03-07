@@ -1,13 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1512,Cherokee,IA,,city-us,5099,42.75,-95.55,6335
-1516,Cherokee,NC,,city-us,2059,35.49,-83.30,5366
-1517,Cherokee,OK,,city-us,1512,36.75,-98.36,9542
-1510,Cherokee,AL,,city-us,963,34.76,-87.97,11109
-1514,Cherokee,KS,,city-us,591,37.35,-94.81,3970
-1515,Cherokee,KS,,city-us,404,37.06,-95.56,230
-1513,Cherokee,KS,,city-us,314,37.30,-94.77,230
-1511,Cherokee,CA,,city-us,91,39.65,-121.54,4860
-1518,Cherokee,OH,,city-us,0,40.44,-83.79,249
-1519,Cherokee,TN,,city-us,0,36.21,-83.50,114
-1520,Cherokee,TX,,city-us,0,30.98,-98.71,2948
-1521,Cherokee,WV,,city-us,0,37.41,-81.34,91
+id,name,state,county,country,level,population,latitude,longitude,wiki
+828,Alta Vista,KS,Wabaunsee County,,city-us,422,38.864,-96.489,4753
+825,Alta Vista,IA,Chickasaw County,,city-us,228,43.199,-92.417,3049
+827,Alta Vista,MN,Lincoln County,,city-us,161,44.589,-96.148,1782
+826,Alta Vista,MO,Daviess County,,city-us,0,39.909,-94.205,433

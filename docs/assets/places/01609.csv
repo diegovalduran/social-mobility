@@ -1,3 +1,44 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15020,Capulin,CO,,city-us,120,37.28,-106.11,1245
-15021,Capulin,NM,,city-us,61,36.74,-103.99,531
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8146,Chester,VA,Chesterfield County,,city-us,22512,37.357,-77.442,4404
+8156,Chester,OH,Geauga County,,city-us,10007,41.536,-81.341,1573
+8167,Chester,NJ,Morris County,,city-us,7709,40.777,-74.687,20454
+8177,Chester,IL,Randolph County,,city-us,7645,37.914,-89.822,12414
+8178,Chester,NH,Rockingham County,,city-us,5267,42.985,-71.255,5708
+8145,Chester,SC,Chester County,,city-us,5245,34.705,-81.214,5303
+8176,Chester,MD,Queen Anne's County,,city-us,4371,38.975,-76.289,2013
+8170,Chester,NY,Orange County,,city-us,4091,41.363,-74.271,4770
+8150,Chester,PA,Delaware County,,city-us,4034,39.850,-75.400,3658
+8164,Chester,CT,Lower Connecticut River Valley Planning Region,,city-us,3752,41.412,-72.487,6443
+8184,Chester,NY,Warren County,,city-us,3105,43.686,-73.875,3751
+8186,Chester,OH,Wayne County,,city-us,3038,40.853,-82.058,243
+8187,Chester,VT,Windsor County,,city-us,3027,43.286,-72.630,6428
+8174,Chester,CA,Plumas County,,city-us,2242,40.306,-121.232,7248
+8159,Chester,WV,Hancock County,,city-us,2173,40.613,-80.563,5790
+8172,Chester,MI,Ottawa County,,city-us,2098,43.165,-85.845,249
+8148,Chester,OH,Clinton County,,city-us,2034,39.529,-83.926,243
+8168,Chester,OH,Morrow County,,city-us,1926,40.460,-82.688,243
+8154,Chester,MI,Eaton County,,city-us,1778,42.644,-84.901,2682
+8171,Chester,MI,Otsego County,,city-us,1308,44.938,-84.543,249
+8152,Chester,WI,Dodge County,,city-us,900,43.583,-88.701,2322
+8162,Chester,MT,Liberty County,,city-us,840,48.511,-110.967,6521
+8158,Chester,MA,Hampden County,,city-us,804,42.279,-72.979,5124
+8163,Chester,IL,Logan County,,city-us,635,40.093,-89.313,428
+8173,Chester,ME,Penobscot County,,city-us,545,45.433,-68.506,3070
+8151,Chester,GA,Dodge County,,city-us,520,32.394,-83.153,2559
+8183,Chester,MN,Wabasha County,,city-us,414,44.323,-92.481,205
+8180,Chester,NE,Saunders County,,city-us,385,41.346,-96.842,306
+8182,Chester,TX,Tyler County,,city-us,277,30.926,-94.597,2452
+8161,Chester,SD,Lake County,,city-us,257,43.895,-96.926,655
+8181,Chester,NE,Thayer County,,city-us,220,40.010,-97.618,2974
+8179,Chester,UT,Sanpete County,,city-us,178,39.476,-111.563,1522
+8165,Chester,OK,Major County,,city-us,176,36.216,-98.921,387
+8157,Chester,ND,Grand Forks County,,city-us,151,47.889,-97.430,0
+8149,Chester,AR,Crawford County,,city-us,145,35.681,-94.175,2039
+8160,Chester,IA,Howard County,,city-us,137,43.491,-92.360,3292
+8175,Chester,MN,Polk County,,city-us,97,47.810,-95.778,205
+8153,Chester,SD,Douglas County,,city-us,86,43.319,-98.421,655
+8147,Chester,MS,Choctaw County,,city-us,0,33.359,-89.238,1706
+8155,Chester,ID,Fremont County,,city-us,0,43.999,-111.570,268
+8166,Chester,OH,Meigs County,,city-us,0,39.087,-81.922,838
+8169,Chester,MN,Olmsted County,,city-us,0,44.007,-92.345,506
+8185,Chester,IN,Wayne County,,city-us,0,39.888,-84.888,263

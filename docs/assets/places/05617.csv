@@ -1,3 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36805,Walter,MN,,city-us,132,45.11,-96.40,1766
-36806,Walter,AL,,city-us,0,34.12,-86.68,289
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28905,Mission,TX,Hidalgo County,,city-us,86223,26.216,-98.325,7846
+28910,Mission,KS,Shawnee County,,city-us,10068,38.999,-95.785,5630
+28907,Mission,KS,Johnson County,,city-us,9864,39.028,-94.656,5630
+28908,Mission,IL,LaSalle County,,city-us,4274,41.509,-88.654,3573
+28912,Mission,SD,Todd County,,city-us,1146,43.306,-100.658,4402
+28913,Mission,OR,Umatilla County,,city-us,960,45.670,-118.684,2217
+28902,Mission,ND,Benson County,,city-us,938,47.993,-98.840,3156
+28909,Mission,KS,Neosho County,,city-us,882,37.521,-95.158,121
+28903,Mission,KS,Brown County,,city-us,565,39.718,-95.537,640
+28906,Mission,WI,Jackson County,,city-us,354,44.345,-90.763,331
+28904,Mission,MN,Crow Wing County,,city-us,0,46.588,-94.051,188
+28911,Mission,DE,Sussex County,,city-us,0,38.546,-75.354,156

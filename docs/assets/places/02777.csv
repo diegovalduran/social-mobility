@@ -1,9 +1,32 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22837,Plano,TX,,city-us,288253,33.05,-96.75,29862
-22834,Plano,IL,,city-us,12191,41.66,-88.54,8192
-22835,Plano,KY,,city-us,1205,36.88,-86.42,1110
-22836,Plano,SD,,city-us,87,43.81,-97.91,0
-22833,Plano,IA,,city-us,59,40.76,-93.05,2998
-22838,Plano,IN,,city-us,0,39.50,-86.60,260
-22839,Plano,MO,,city-us,0,37.19,-93.55,389
-22840,Plano,OH,,city-us,0,39.49,-83.29,246
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13810,Enterprise,NV,Clark County,,city-us,221831,36.031,-115.198,9526
+13812,Enterprise,AL,Coffee County / Dale County,,city-us,29395,31.327,-85.844,12470
+13837,Enterprise,UT,Washington County,,city-us,2150,37.574,-113.719,4097
+13836,Enterprise,OR,Wallowa County,,city-us,2099,45.426,-117.279,6442
+13816,Enterprise,WV,Harrison County,,city-us,1218,39.421,-80.278,1864
+13815,Enterprise,KS,Ford County,,city-us,1012,37.633,-99.952,294
+13824,Enterprise,UT,Morgan County,,city-us,808,41.100,-111.736,2377
+13813,Enterprise,KS,Dickinson County,,city-us,714,38.903,-97.117,4877
+13811,Enterprise,MS,Clarke County,,city-us,493,32.174,-88.831,2614
+13826,Enterprise,WI,Oneida County,,city-us,274,45.497,-89.258,2039
+13823,Enterprise,SD,Moody County,,city-us,255,43.892,-96.718,0
+13819,Enterprise,MN,Jackson County,,city-us,182,43.711,-94.905,2039
+13822,Enterprise,MI,Missaukee County,,city-us,175,44.387,-84.915,2054
+13817,Enterprise,OK,Haskell County,,city-us,124,35.230,-95.380,668
+13829,Enterprise,KS,Reno County,,city-us,123,38.039,-98.190,4877
+13830,Enterprise,SD,Roberts County,,city-us,98,45.772,-97.039,0
+13825,Enterprise,ND,Nelson County,,city-us,27,48.155,-98.217,0
+13814,Enterprise,SD,Faulk County,,city-us,14,45.201,-99.257,0
+13808,Enterprise,CA,Amador County,,city-us,0,38.540,-120.847,340
+13809,Enterprise,LA,Catahoula Parish,,city-us,0,31.903,-91.883,328
+13818,Enterprise,OH,Hocking County,,city-us,0,39.565,-82.480,221
+13820,Enterprise,CA,Lake County,,city-us,0,39.363,-122.951,165
+13821,Enterprise,MO,Linn County,,city-us,0,40.024,-93.085,624
+13827,Enterprise,IA,Polk County,,city-us,0,41.732,-93.530,1097
+13828,Enterprise,OH,Preble County,,city-us,0,39.697,-84.501,272
+13831,Enterprise,CA,Shasta County,,city-us,0,40.564,-122.343,298
+13832,Enterprise,MO,Shelby County,,city-us,0,39.649,-92.260,252
+13833,Enterprise,IN,Spencer County,,city-us,0,37.843,-87.182,449
+13834,Enterprise,MS,Union County,,city-us,0,34.467,-89.157,189
+13835,Enterprise,FL,Volusia County,,city-us,0,28.863,-81.244,0
+13838,Enterprise,WV,Wirt County,,city-us,0,39.007,-81.369,89

@@ -1,9 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30563,Barrett,TX,,city-us,5223,29.87,-95.06,3798
-30560,Barrett,PA,,city-us,4061,41.21,-75.24,4258
-30559,Barrett,MN,,city-us,374,45.91,-95.89,5489
-30558,Barrett,KS,,city-us,115,39.51,-101.27,0
-30561,Barrett,SD,,city-us,106,44.58,-97.92,131
-30562,Barrett,SD,,city-us,17,45.79,-102.51,131
-30564,Barrett,IN,,city-us,0,38.20,-87.87,289
-30565,Barrett,WV,,city-us,0,37.89,-81.67,306
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21198,Idaho,,,United States,state,1939033,45.495,-114.142,34377
+21196,Idaho,ND,Mountrail County,,city-us,176,48.329,-102.370,0
+21195,Idaho,PA,Armstrong County,,city-us,0,40.654,-79.347,1034
+21197,Idaho,OH,Pike County,,city-us,0,39.088,-83.142,313

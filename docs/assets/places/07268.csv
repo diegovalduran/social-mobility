@@ -1,5 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42092,Cresson,PA,,city-us,2794,40.45,-78.58,3197
-42093,Cresson,TX,,city-us,1849,32.53,-97.62,2241
-42094,Cresson,MN,,city-us,0,44.11,-96.44,586
-42095,Kresson,NJ,,city-us,0,39.86,-74.92,450
+id,name,state,county,country,level,population,latitude,longitude,wiki
+38075,Ryan,PA,Schuylkill County,,city-us,2533,40.786,-76.121,1741
+38072,Ryan,OK,Jefferson County,,city-us,677,34.020,-97.958,4558
+38069,Ryan,IA,Delaware County,,city-us,351,42.351,-91.482,3341
+38077,Ryan,KS,Sumner County,,city-us,142,37.256,-97.638,192
+38073,Ryan,ND,LaMoure County,,city-us,67,46.319,-98.213,0
+36809,Rion,SC,Fairfield County,,city-us,0,34.307,-81.125,258
+38070,Ryan,MN,Goodhue County,,city-us,0,44.424,-92.716,742
+38071,Ryan,CA,Inyo County,,city-us,0,36.323,-116.671,3104
+38074,Ryan,VA,Loudoun County,,city-us,0,39.015,-77.493,200
+38076,Ryan,AL,Shelby County,,city-us,0,33.168,-86.867,79
+38078,Ryan,IL,Vermilion County,,city-us,0,40.050,-87.806,108

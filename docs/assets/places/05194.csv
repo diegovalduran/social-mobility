@@ -1,6 +1,24 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35293,Wise,VA,,city-us,2921,36.98,-82.58,5066
-35291,Wise,MI,,city-us,1373,43.78,-84.67,1875
-35292,Wise,ND,,city-us,77,47.55,-100.76,0
-35294,Wise,NC,,city-us,0,36.49,-78.17,243
-35295,Wise,TX,,city-us,0,32.51,-96.04,1129
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26652,Mansfield,TX,Ellis County / Johnson County / Tarrant County,,city-us,74368,32.569,-97.121,9299
+26660,Mansfield,OH,Richland County,,city-us,47669,40.758,-82.515,39411
+26648,Mansfield,CT,Capitol Planning Region,,city-us,26357,41.789,-72.228,10216
+26644,Mansfield,MA,Bristol County,,city-us,23823,42.017,-71.216,10562
+26647,Mansfield,NJ,Burlington County,,city-us,8879,40.087,-74.712,15568
+26663,Mansfield,NJ,Warren County,,city-us,7811,40.808,-74.910,10866
+26650,Mansfield,LA,De Soto Parish,,city-us,4529,32.038,-93.700,3412
+26662,Mansfield,PA,Tioga County,,city-us,2840,41.807,-77.077,3391
+26664,Mansfield,MO,Wright County,,city-us,1227,37.107,-92.581,4810
+26661,Mansfield,AR,Scott County / Sebastian County,,city-us,1057,35.064,-94.234,2657
+26659,Mansfield,IL,Piatt County,,city-us,932,40.211,-88.506,2579
+26649,Mansfield,NY,Cattaraugus County,,city-us,843,42.305,-78.767,5049
+26655,Mansfield,TN,Henry County,,city-us,766,36.177,-88.286,108
+26657,Mansfield,GA,Newton County,,city-us,453,33.518,-83.734,1926
+26651,Mansfield,WA,Douglas County,,city-us,330,47.812,-119.637,5849
+26656,Mansfield,MI,Iron County,,city-us,233,46.208,-88.148,2201
+26646,Mansfield,SD,Brown County / Spink County,,city-us,102,45.246,-98.558,728
+26645,Mansfield,SD,Brown County,,city-us,86,45.243,-98.563,728
+26643,Mansfield,ND,Barnes County,,city-us,27,46.856,-98.386,133
+26642,Mansfield,WV,Barbour County,,city-us,0,39.150,-80.054,91
+26653,Mansfield,KS,Finney County,,city-us,0,37.923,-100.767,171
+26654,Mansfield,MN,Freeborn County,,city-us,0,43.572,-93.609,108
+26658,Mansfield,IN,Parke County,,city-us,0,39.676,-87.102,983

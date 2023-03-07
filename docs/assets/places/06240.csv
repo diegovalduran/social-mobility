@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38889,Karlsruhe,,Germany,city-international,308436,49.02,8.40,34682
-38888,Karlsruhe,ND,,city-us,85,48.09,-100.62,4326
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31908,Oakridge,OR,Lane County,,city-us,3240,43.747,-122.462,8233
+31909,Oakridge,TN,Montgomery County,,city-us,0,36.394,-87.458,159
+31910,Oakridge,WI,Pierce County,,city-us,0,44.588,-92.396,107
+31911,Oakridge,MN,Winona County,,city-us,0,44.121,-91.920,125

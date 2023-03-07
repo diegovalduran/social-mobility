@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46650,Bugtussle,KY,,city-us,0,36.63,-85.88,504
-46651,Bugtussle,OK,,city-us,0,35.03,-95.69,941
+id,name,state,county,country,level,population,latitude,longitude,wiki
+44624,Vineyard,CA,Sacramento County,,city-us,41505,38.464,-121.347,3475
+44625,Vineyard,UT,Utah County,,city-us,14025,40.297,-111.747,3116
+44623,Vineyard,KY,Jessamine County,,city-us,0,37.844,-84.588,132

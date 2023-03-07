@@ -1,12 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-12718,Kensington,CT,,city-us,9626,41.63,-72.77,2274
-12717,Kensington,CA,,city-us,5077,37.91,-122.28,10174
-12720,Kensington,MD,,city-us,2108,39.03,-77.08,11861
-12723,Kensington,NH,,city-us,2096,42.93,-70.96,3195
-12724,Kensington,NY,,city-us,1216,40.79,-73.72,6028
-12719,Kensington,KS,,city-us,401,39.77,-99.03,3935
-12721,Kensington,MN,,city-us,272,45.78,-95.70,3365
-12722,Kensington,ND,,city-us,248,48.42,-97.72,113
-12725,Kensington,GA,,city-us,0,34.77,-85.37,496
-12726,Kensington,MI,,city-us,0,42.51,-83.66,1212
-12727,Kensington,OH,,city-us,0,40.74,-80.96,1388
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6416,Cache,OK,Comanche County,,city-us,2993,34.630,-98.629,3404
+7196,Cash,MI,Sanilac County,,city-us,1376,43.373,-82.818,3207
+7190,Cash,SC,Chesterfield County,,city-us,445,34.619,-79.877,593
+7191,Cash,AR,Craighead County,,city-us,281,35.794,-90.937,2440
+6415,Cache,UT,Cache County,,city-us,106,41.829,-112.006,1850
+7197,Cash,ND,Slope County,,city-us,36,46.323,-103.491,0
+7195,Cash,SD,Perkins County,,city-us,16,45.599,-102.629,134
+6414,Cache,IL,Alexander County,,city-us,0,37.100,-89.261,531
+6417,Cache,ID,Teton County,,city-us,0,43.788,-111.163,350
+7192,Cash,GA,Gordon County,,city-us,0,34.490,-84.819,370
+7193,Cash,KY,Hart County,,city-us,0,37.444,-86.003,217
+7194,Cash,TX,Hunt County,,city-us,0,32.994,-96.108,1536

@@ -1,22 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-5493,Winfield,IL,,city-us,46890,41.85,-88.21,2495
-5495,Winfield,KS,,city-us,11726,37.24,-97.00,19626
-5494,Winfield,IN,,city-us,7481,41.41,-87.28,4162
-5491,Winfield,AL,,city-us,4829,33.93,-87.79,7689
-5503,Winfield,PA,,city-us,3319,40.78,-79.74,2300
-5497,Winfield,MI,,city-us,2400,43.42,-85.37,2388
-5508,Winfield,WV,,city-us,2390,38.53,-81.89,4291
-5502,Winfield,NY,,city-us,1892,42.90,-75.17,4045
-5499,Winfield,MO,,city-us,1544,39.00,-90.74,3931
-5501,Winfield,NJ,,city-us,1405,40.63,-74.29,56756
-5492,Winfield,IA,,city-us,1037,41.12,-91.44,4797
-5505,Winfield,TN,,city-us,947,36.56,-84.45,2373
-5507,Winfield,WI,,city-us,895,43.60,-90.02,1996
-5504,Winfield,PA,,city-us,793,40.91,-76.86,481
-5506,Winfield,TX,,city-us,422,33.17,-95.11,3087
-5498,Winfield,MN,,city-us,229,44.84,-95.06,2003
-5500,Winfield,ND,,city-us,88,46.84,-98.49,0
-5496,Winfield,KS,,city-us,26,39.26,-98.67,19626
-5509,Winfield,AR,,city-us,0,34.89,-94.19,213
-5510,Winfield,GA,,city-us,0,33.61,-82.40,425
-5511,Winfield,OH,,city-us,0,40.55,-81.56,341
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2489,Barnett,IL,De Witt County,,city-us,364,40.174,-89.096,1038
+2490,Barnett,PA,Forest County,,city-us,344,41.367,-79.142,179
+2491,Barnett,PA,Jefferson County,,city-us,227,41.310,-79.153,179
+2492,Barnett,MO,Morgan County,,city-us,160,38.378,-92.675,3521
+2493,Barnett,MN,Roseau County,,city-us,137,48.674,-96.062,1766
+2494,Barnett,GA,Warren County,,city-us,0,33.504,-82.808,225

@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38525,Weddington,NC,,city-us,13488,35.02,-80.74,2190
-38526,Weddington,AR,,city-us,0,36.09,-94.42,280
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31327,North Bay,WI,Racine County,,city-us,208,42.765,-87.780,3225
+31326,North Bay,NY,Oneida County,,city-us,50,43.230,-75.748,97
+31325,North Bay,WI,Door County,,city-us,0,45.146,-87.083,334

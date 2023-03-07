@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10151,Guadalupe,,Mexico,city-international,215000,22.75,-102.51,2873
-10149,Guadalupe,CA,,city-us,8546,34.97,-120.57,13738
-10148,Guadalupe,AZ,,city-us,5307,33.37,-111.96,3498
-10150,Guadalupe,CO,,city-us,0,37.10,-106.03,601
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4619,Bogue Chitto,MS,Kemper County / Neshoba County,,city-us,492,32.832,-88.918,3101
+4620,Bogue Chitto,MS,Lincoln County,,city-us,437,31.439,-90.452,1762
+4618,Bogue Chitto,AL,Dallas County,,city-us,0,32.366,-87.304,1733

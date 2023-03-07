@@ -1,7 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37134,Flint Hill,MO,,city-us,832,38.86,-90.86,3512
-37135,Flint Hill,VA,,city-us,362,38.76,-78.10,1405
-37136,Flint Hill,GA,,city-us,0,32.82,-84.64,148
-37137,Flint Hill,MS,,city-us,0,33.72,-88.28,149
-37138,Flint Hill,MO,,city-us,0,39.62,-91.38,418
-37139,Flint Hill,VA,,city-us,0,36.80,-79.49,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29422,Moose Lake,MN,Carlton County,,city-us,2565,46.454,-92.762,4693
+29421,Moose Lake,MN,Beltrami County,,city-us,253,47.529,-94.486,261
+29423,Moose Lake,MN,Cass County,,city-us,137,46.599,-94.623,261

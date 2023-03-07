@@ -1,4 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-26881,Marrowbone,IL,,city-us,1610,39.63,-88.76,610
-26882,Marrowbone,KY,,city-us,67,36.83,-85.51,496
-26883,Marrowbone,KY,,city-us,0,37.37,-82.41,121
+id,name,state,county,country,level,population,latitude,longitude,wiki
+17429,Granada,,,Spain,city-international,231775,37.178,-3.601,62937
+17428,Granada,,,Nicaragua,city-international,105171,11.930,-85.956,9258
+17427,Granada,CO,Prowers County,,city-us,450,38.064,-102.310,2619
+17425,Granada,MN,Martin County,,city-us,287,43.696,-94.348,3266
+17426,Granada,KS,Nemaha County,,city-us,92,39.703,-95.839,0
+17424,Granada,MO,Douglas County,,city-us,0,37.028,-92.737,407

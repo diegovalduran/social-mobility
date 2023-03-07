@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-35700,Dovre,MN,,city-us,2168,45.20,-95.07,1953
-35701,Dovre,WI,,city-us,833,45.25,-91.61,2164
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27219,Matawan,NJ,Monmouth County,,city-us,9643,40.415,-74.230,15952
+27244,Mattawan,MI,Van Buren County,,city-us,2601,42.209,-85.784,3841
+27220,Matawan,MN,Waseca County,,city-us,0,43.858,-93.636,433

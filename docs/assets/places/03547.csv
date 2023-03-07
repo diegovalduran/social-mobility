@@ -1,10 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-27491,Olney,MD,,city-us,35815,39.15,-77.07,9553
-27490,Olney,IL,,city-us,9972,38.71,-88.09,341
-27494,Olney,TX,,city-us,3019,33.37,-98.75,3478
-27493,Olney,MT,,city-us,186,48.55,-114.58,398
-27492,Olney,MN,,city-us,158,43.63,-95.87,3161
-27495,Olney,AL,,city-us,0,33.14,-88.04,165
-27496,Olney,MO,,city-us,0,39.08,-91.24,397
-27497,Olney,OK,,city-us,0,34.47,-96.36,484
-27498,Olney,OR,,city-us,0,46.10,-123.76,1092
+id,name,state,county,country,level,population,latitude,longitude,wiki
+18025,Greenview,IL,Menard County,,city-us,733,40.083,-89.738,2425
+18024,Greenview,WV,Boone County,,city-us,421,37.994,-81.816,210
+18026,Greenview,CA,Siskiyou County,,city-us,109,41.551,-122.906,4055
+18027,Greenview,ND,Steele County,,city-us,52,47.449,-97.921,0

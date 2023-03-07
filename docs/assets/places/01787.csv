@@ -1,17 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16225,Bridgewater,NJ,,city-us,46350,40.59,-74.60,30614
-16220,Bridgewater,MA,,city-us,28805,41.97,-70.98,13862
-16232,Bridgewater,VA,,city-us,6177,38.38,-78.98,7757
-16230,Bridgewater,PA,,city-us,2579,41.83,-75.85,2086
-16223,Bridgewater,MN,,city-us,1842,44.42,-93.23,2125
-16222,Bridgewater,MI,,city-us,1674,42.13,-83.96,3773
-16218,Bridgewater,CT,,city-us,1658,41.52,-73.36,7542
-16226,Bridgewater,NY,,city-us,1486,42.90,-75.27,2873
-16228,Bridgewater,OH,,city-us,1417,41.66,-84.64,1393
-16224,Bridgewater,NH,,city-us,1174,43.65,-71.69,2750
-16233,Bridgewater,VT,,city-us,911,43.64,-72.69,2247
-16229,Bridgewater,PA,,city-us,735,40.71,-80.30,3215
-16221,Bridgewater,ME,,city-us,524,46.41,-67.85,3995
-16227,Bridgewater,NY,,city-us,518,42.88,-75.25,2873
-16231,Bridgewater,SD,,city-us,513,43.55,-97.51,3990
-16219,Bridgewater,IA,,city-us,149,41.24,-94.67,3402
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9177,Coeburn,VA,Wise County,,city-us,1575,36.944,-82.464,3504
+9153,Coburn,PA,Centre County,,city-us,93,40.863,-77.464,2361
+9154,Coburn,ND,Ransom County,,city-us,45,46.580,-97.353,0
+9152,Coburn,NC,Buncombe County,,city-us,0,35.535,-82.755,262
+9155,Coburn,WV,Wetzel County,,city-us,0,39.593,-80.503,176

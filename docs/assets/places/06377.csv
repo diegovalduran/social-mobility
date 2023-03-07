@@ -1,6 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39314,Burr,NE,,city-us,53,40.54,-96.30,3031
-39315,Burr,MN,,city-us,0,44.75,-96.36,342
-39316,Burr,MO,,city-us,0,36.50,-90.99,236
-39317,Burr,TX,,city-us,0,29.31,-96.01,3286
-39318,Burr,WV,,city-us,0,38.07,-80.11,128
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32523,Orwell,OH,Ashtabula County,,city-us,3084,41.541,-80.857,1486
+32522,Orwell,VT,Addison County,,city-us,1241,43.809,-73.278,5653
+32524,Orwell,PA,Bradford County,,city-us,1185,41.873,-76.273,2495
+32525,Orwell,NY,Oswego County,,city-us,1072,43.563,-75.954,3414
+32526,Orwell,MN,Otter Tail County,,city-us,148,46.232,-96.194,1893

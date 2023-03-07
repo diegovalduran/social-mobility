@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38348,Lowesville,NC,,city-us,3281,35.42,-81.00,2945
-38349,Lowesville,VA,,city-us,0,37.72,-79.06,250
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31043,Newry,MN,Freeborn County,,city-us,461,43.808,-93.115,1917
+31046,Newry,ME,Oxford County,,city-us,416,44.520,-70.856,6081
+31042,Newry,PA,Blair County,,city-us,235,40.394,-78.436,5282
+31045,Newry,SC,Oconee County,,city-us,199,34.726,-82.907,2293
+31044,Newry,IN,Jackson County,,city-us,0,38.905,-85.822,293
+31047,Newry,WI,Vernon County,,city-us,0,43.712,-90.817,107

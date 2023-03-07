@@ -1,4 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41108,Paulding,OH,,city-us,3854,41.12,-84.63,1476
-41109,Paulding,MI,,city-us,0,46.40,-89.18,489
-41110,Paulding,MS,,city-us,0,32.03,-89.04,3305
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35559,Pumpkin Center,NC,Onslow County,,city-us,1959,34.792,-77.372,2041
+35552,Pumpkin Center,KY,Caldwell County,,city-us,0,37.124,-87.848,92
+35553,Pumpkin Center,OK,Cherokee County,,city-us,0,35.713,-95.127,1369
+35554,Pumpkin Center,OK,Comanche County,,city-us,0,34.594,-98.212,1667
+35555,Pumpkin Center,MO,Dallas County,,city-us,0,37.745,-93.071,1399
+35556,Pumpkin Center,CA,Kern County,,city-us,0,35.267,-119.033,529
+35557,Pumpkin Center,MO,Nodaway County,,city-us,0,40.200,-94.868,1319
+35558,Pumpkin Center,OK,Okmulgee County,,city-us,0,35.682,-95.784,1402
+35560,Pumpkin Center,IN,Orange County,,city-us,0,38.589,-86.364,256
+35561,Pumpkin Center,LA,Tangipahoa Parish,,city-us,0,30.455,-90.542,819
+35562,Pumpkin Center,IN,Washington County,,city-us,0,38.705,-85.950,166

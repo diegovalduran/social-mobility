@@ -1,24 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1258,Brighton,,United Kingdom,city-international,134293,50.83,-0.14,58879
-1237,Brighton,CO,,city-us,40693,39.97,-104.79,4973
-1244,Brighton,NY,,city-us,36986,43.15,-77.55,9906
-1246,Brighton,PA,,city-us,8788,40.70,-80.38,2765
-1241,Brighton,MI,,city-us,7461,42.53,-83.78,6135
-1240,Brighton,IL,,city-us,3863,39.05,-90.09,642
-1247,Brighton,TN,,city-us,2872,35.48,-89.73,3639
-1236,Brighton,AL,,city-us,2299,33.43,-86.95,6573
-1239,Brighton,IL,,city-us,2190,39.04,-90.14,3646
-1250,Brighton,WI,,city-us,1422,42.63,-88.10,2600
-1243,Brighton,NY,,city-us,1318,44.47,-74.25,8280
-1249,Brighton,VT,,city-us,1169,44.80,-71.87,4223
-1251,Brighton,WI,,city-us,613,44.81,-90.25,1933
-1238,Brighton,IA,,city-us,596,41.17,-91.82,5378
-1242,Brighton,MN,,city-us,132,44.34,-94.33,1910
-1245,Brighton,OH,,city-us,0,41.17,-82.31,434
-1248,Brighton,UT,,city-us,0,40.60,-111.58,833
-1252,Brighton,GA,,city-us,0,31.50,-83.46,248
-1253,Brighton,IN,,city-us,0,41.72,-85.31,347
-1254,Brighton,MO,,city-us,0,37.46,-93.35,527
-1255,Brighton,NJ,,city-us,0,40.98,-74.76,269
-1256,Brighton,OH,,city-us,0,39.93,-83.56,357
-1257,Brighton,OR,,city-us,0,45.67,-123.92,1407
+id,name,state,county,country,level,population,latitude,longitude,wiki
+701,Allison,IA,Butler County,,city-us,958,42.753,-92.795,3326
+704,Allison,PA,Fayette County,,city-us,356,39.989,-79.865,557
+706,Allison,IL,Lawrence County,,city-us,257,38.719,-87.582,452
+702,Allison,PA,Clinton County,,city-us,228,41.147,-77.478,2011
+709,Allison,TX,Wheeler County,,city-us,125,35.606,-100.101,1578
+699,Allison,SD,Brown County,,city-us,26,45.808,-98.663,76
+700,Allison,OK,Bryan County,,city-us,0,33.896,-96.372,246
+703,Allison,KS,Decatur County,,city-us,0,39.575,-100.264,307
+705,Allison,CO,La Plata County,,city-us,0,37.024,-107.488,291
+707,Allison,MO,Nodaway County,,city-us,0,40.532,-94.707,231
+708,Allison,AR,Stone County,,city-us,0,35.937,-92.118,315

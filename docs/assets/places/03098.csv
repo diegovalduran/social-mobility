@@ -1,4 +1,26 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24713,Carterville,IL,,city-us,5828,37.76,-89.08,4472
-24714,Carterville,MO,,city-us,1847,37.15,-94.44,4643
-24715,Carterville,MT,,city-us,0,46.30,-106.47,1503
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15505,Foster,RI,Providence County,,city-us,4472,41.789,-71.735,5569
+15509,Foster,MI,Washtenaw County,,city-us,4361,42.296,-83.720,4599
+15501,Foster,PA,McKean County,,city-us,3950,41.962,-78.618,226
+15498,Foster,IL,Madison County,,city-us,3914,38.967,-90.103,447
+15497,Foster,PA,Luzerne County,,city-us,3433,41.009,-75.859,226
+15502,Foster,MI,Ogemaw County,,city-us,781,44.430,-84.294,2128
+15499,Foster,IL,Marion County,,city-us,359,38.781,-88.964,1998
+15495,Foster,SD,Hutchinson County,,city-us,263,43.471,-97.809,0
+15492,Foster,MN,Faribault County,,city-us,248,43.638,-93.720,214
+15494,Foster,OK,Garvin County,,city-us,248,34.616,-97.489,981
+15507,Foster,PA,Schuylkill County,,city-us,244,40.693,-76.353,226
+15490,Foster,WI,Clark County,,city-us,117,44.687,-90.864,1916
+15508,Foster,IN,Warren County,,city-us,104,40.148,-87.471,841
+15486,Foster,SD,Beadle County,,city-us,89,44.505,-97.910,0
+15485,Foster,MO,Bates County,,city-us,80,38.166,-94.507,3089
+15489,Foster,KY,Bracken County,,city-us,44,38.799,-84.213,485
+15504,Foster,NE,Pierce County,,city-us,42,42.274,-97.665,2971
+15503,Foster,SD,Perkins County,,city-us,21,45.328,-102.097,0
+15487,Foster,MN,Big Stone County,,city-us,0,45.416,-96.676,159
+15488,Foster,WV,Boone County,,city-us,0,38.097,-81.780,203
+15491,Foster,WI,Eau Claire County,,city-us,0,44.643,-91.312,946
+15493,Foster,TX,Fort Bend County,,city-us,0,29.651,-95.832,9459
+15496,Foster,OR,Linn County,,city-us,0,44.410,-122.672,750
+15500,Foster,VA,Mathews County,,city-us,0,37.453,-76.385,202
+15506,Foster,CA,San Diego County,,city-us,0,32.908,-116.926,818

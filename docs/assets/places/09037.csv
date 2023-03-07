@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-46995,Judge,MN,,city-us,0,43.90,-92.48,255
-46996,Judge,MO,,city-us,0,38.42,-91.78,285
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45545,Wau,,,South Sudan,city-international,163442,7.700,27.983,7138
+45551,Waugh,IN,Boone County,,city-us,0,40.084,-86.307,258
+45552,Waugh,AL,Montgomery County,,city-us,0,32.365,-86.045,1027

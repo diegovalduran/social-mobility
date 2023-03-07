@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31719,Scandia,MN,,city-us,3963,45.25,-92.81,5896
-31717,Scandia,KS,,city-us,412,39.78,-97.76,174
-31718,Scandia,MN,,city-us,65,47.54,-96.64,1637
-31720,Scandia,ND,,city-us,44,48.95,-100.77,139
-31721,Scandia,WA,,city-us,0,47.72,-122.66,70
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22610,Keizer,OR,Marion County,,city-us,39157,44.990,-123.026,7254
+22855,Keyser,WV,Mineral County,,city-us,4860,39.441,-78.974,17245
+22480,Kaiser,MO,Miller County,,city-us,0,38.134,-92.590,485

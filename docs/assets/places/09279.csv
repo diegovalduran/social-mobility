@@ -1,3 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47549,Espyville,OH,,city-us,0,40.60,-83.26,399
-47550,Espyville,PA,,city-us,0,41.61,-80.49,281
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46794,Wiggins,MS,Stone County,,city-us,4289,30.858,-89.135,8322
+46793,Wiggins,CO,Morgan County,,city-us,1549,40.231,-104.073,2739
+46791,Wiggins,AL,Covington County,,city-us,0,31.316,-86.329,287
+46792,Wiggins,MS,Leake County,,city-us,0,32.702,-89.637,212
+46795,Wiggins,WV,Summers County,,city-us,0,37.659,-80.837,167

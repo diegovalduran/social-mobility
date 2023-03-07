@@ -1,4 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42615,Sligo,PA,,city-us,685,41.11,-79.49,2408
-42616,Sligo,MO,,city-us,0,37.77,-91.38,3247
-42617,Sligo,NC,,city-us,0,36.45,-76.08,242
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37768,Rouse,CA,Stanislaus County,,city-us,1355,37.620,-121.008,2251
+37766,Rouse,SD,Charles Mix County,,city-us,181,42.933,-98.180,0
+37767,Rouse,WI,Iron County,,city-us,0,46.356,-90.466,110

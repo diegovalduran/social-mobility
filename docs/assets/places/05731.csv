@@ -1,5 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37198,Hannibal,MO,,city-us,17067,39.71,-91.39,15059
-37199,Hannibal,NY,,city-us,543,43.32,-76.58,3431
-37200,Hannibal,OH,,city-us,225,39.67,-80.87,1010
-37201,Hannibal,WI,,city-us,0,45.25,-90.79,2693
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29504,Morganville,NJ,Monmouth County,,city-us,5061,40.377,-74.244,3594
+29502,Morganville,KS,Clay County,,city-us,183,39.466,-97.202,3541
+29503,Morganville,GA,Dade County,,city-us,0,34.936,-85.454,254
+29505,Morganville,OH,Morgan County,,city-us,0,39.632,-81.955,221

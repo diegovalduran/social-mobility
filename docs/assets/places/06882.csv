@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40783,Blue Jay,OH,,city-us,1650,39.23,-84.74,669
-40784,Blue Jay,CA,,city-us,0,34.25,-117.21,1752
-40785,Blue Jay 6,WV,,city-us,0,37.68,-81.11,182
+id,name,state,county,country,level,population,latitude,longitude,wiki
+34998,Port Royal,SC,Beaufort County,,city-us,13169,32.379,-80.693,7413
+35001,Port Royal,PA,Juniata County,,city-us,804,40.533,-77.386,4826
+34999,Port Royal,VA,Caroline County,,city-us,200,38.172,-77.191,4932
+35000,Port Royal,KY,Henry County,,city-us,0,38.555,-85.080,608
+35002,Port Royal,TN,Montgomery County,,city-us,0,36.554,-87.142,4608

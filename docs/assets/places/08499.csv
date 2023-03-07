@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45665,McDaniels,GA,,city-us,0,34.45,-84.95,289
-45666,McDaniels,KY,,city-us,0,37.61,-86.42,1949
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42831,Thomson,GA,McDuffie County,,city-us,6873,33.471,-82.505,6103
+42829,Thomson,MN,Carlton County,,city-us,5557,46.714,-92.361,3357
+42830,Thomson,IL,Carroll County,,city-us,753,41.959,-90.099,4832

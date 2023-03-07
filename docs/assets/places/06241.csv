@@ -1,7 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38891,Keller,TX,,city-us,45397,32.93,-97.25,12789
-38893,Keller,WA,,city-us,207,48.08,-118.69,2876
-38892,Keller,VA,,city-us,141,37.62,-75.76,1788
-38890,Keller,ND,,city-us,37,48.85,-102.87,0
-38894,Keller,GA,,city-us,0,31.84,-81.25,1150
-38895,Keller,IN,,city-us,0,39.36,-87.32,537
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31919,Oakton,VA,Fairfax County,,city-us,36675,38.881,-77.301,4810
+31918,Oakton,MO,Barton County,,city-us,0,37.458,-94.354,247

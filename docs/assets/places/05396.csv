@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36042,Lake Valley,MN,,city-us,194,45.80,-96.52,1997
-36043,Lake Valley,NM,,city-us,111,36.09,-108.16,358
-36044,Lake Valley,CA,,city-us,0,38.93,-120.00,441
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27629,McNabb,IL,Putnam County,,city-us,274,41.177,-89.209,2200
+27628,McNab,AR,Hempstead County,,city-us,31,33.661,-93.833,3253

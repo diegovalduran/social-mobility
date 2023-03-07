@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-17428,Ocean View,DE,,city-us,2752,38.55,-75.09,10118
-17429,Ocean View,NJ,,city-us,685,39.18,-74.73,1373
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9843,Cordelia,ND,Bottineau County,,city-us,88,48.835,-100.244,140
+9844,Cordelia,OH,Hancock County,,city-us,0,40.899,-83.786,223
+9845,Cordelia,CA,Solano County,,city-us,0,38.211,-122.136,877

@@ -1,18 +1,13 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-21822,Granville,NY,,city-us,6175,43.42,-73.31,5514
-21823,Granville,OH,,city-us,5709,40.07,-82.52,11774
-21826,Granville,PA,,city-us,4627,40.58,-77.61,176
-21824,Granville,OH,,city-us,4227,40.40,-84.64,128
-21817,Granville,IL,,city-us,2737,41.26,-89.22,403
-21818,Granville,MA,,city-us,1533,42.09,-72.91,6925
-21828,Granville,WV,,city-us,1390,39.65,-79.99,3531
-21821,Granville,NE,,city-us,939,41.69,-97.53,378
-21825,Granville,PA,,city-us,894,41.71,-76.71,176
-21816,Granville,IA,,city-us,309,42.99,-95.87,4158
-21827,Granville,VT,,city-us,302,44.01,-72.84,3399
-21820,Granville,ND,,city-us,85,48.23,-100.81,3823
-21819,Granville,MN,,city-us,65,48.84,-96.88,1834
-21829,Granville,IN,,city-us,0,40.32,-85.32,248
-21830,Granville,MO,,city-us,0,39.56,-92.10,251
-21831,Granville,TN,,city-us,0,36.27,-85.80,3259
-21832,Granville,VA,,city-us,0,37.38,-77.24,109
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13001,Edinburg,TX,Hidalgo County,,city-us,102483,26.302,-98.163,13824
+13006,Edinburg,OH,Portage County,,city-us,2369,41.099,-81.146,1553
+13007,Edinburg,NY,Saratoga County,,city-us,1348,43.223,-74.070,6678
+13009,Edinburg,VA,Shenandoah County,,city-us,1197,38.821,-78.566,2560
+12999,Edinburg,IL,Christian County,,city-us,1117,39.657,-89.390,2091
+13010,Edinburg,ND,Walsh County,,city-us,196,48.497,-97.862,3205
+13005,Edinburg,ME,Penobscot County,,city-us,132,45.169,-68.689,3583
+13000,Edinburg,MO,Grundy County,,city-us,80,40.081,-93.694,1008
+13002,Edinburg,PA,Lawrence County,,city-us,0,41.014,-80.437,280
+13003,Edinburg,MS,Leake County,,city-us,0,32.799,-89.336,639
+13004,Edinburg,NJ,Mercer County,,city-us,0,40.258,-74.616,441
+13008,Edinburg,MO,Scotland County,,city-us,0,40.374,-92.185,313

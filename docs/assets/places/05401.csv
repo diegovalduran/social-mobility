@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36058,Leaf Mountain,MN,,city-us,326,46.15,-95.58,1791
-36059,Leaf Mountain,ND,,city-us,20,48.76,-102.75,0
+id,name,state,county,country,level,population,latitude,longitude,wiki
+27650,McPherson,KS,McPherson County,,city-us,556,38.399,-97.639,128
+27649,McPherson,MN,Blue Earth County,,city-us,422,44.072,-93.830,2585
+27651,McPherson,KS,Sherman County,,city-us,37,39.177,-101.943,951

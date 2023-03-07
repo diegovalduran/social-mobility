@@ -1,14 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15225,Erie,PA,,city-us,93999,42.13,-80.09,33765
-15217,Erie,CO,,city-us,31686,40.04,-105.04,7475
-15221,Erie,MI,,city-us,4299,41.77,-83.49,6887
-15218,Erie,IL,,city-us,1880,41.65,-90.12,400
-15222,Erie,MN,,city-us,1726,46.85,-95.75,2679
-15219,Erie,KS,,city-us,1259,37.60,-95.31,4846
-15224,Erie,OH,,city-us,1160,41.55,-83.01,1328
-15220,Erie,KS,,city-us,108,37.52,-97.76,137
-15223,Erie,ND,,city-us,54,47.12,-97.39,2090
-15226,Erie,IN,,city-us,0,38.88,-86.38,286
-15227,Erie,IN,,city-us,0,40.80,-85.99,148
-15228,Erie,MN,,city-us,0,48.07,-95.72,353
-15229,Erie,MO,,city-us,0,36.73,-94.36,343
+id,name,state,county,country,level,population,latitude,longitude,wiki
+8313,Chippewa Lake,MI,Mecosta County,,city-us,1239,43.766,-85.275,2082
+8314,Chippewa Lake,OH,Medina County,,city-us,660,41.070,-81.901,4355

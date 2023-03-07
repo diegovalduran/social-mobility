@@ -1,8 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-30541,Barclay,NJ,,city-us,4397,39.90,-75.00,694
-30540,Barclay,MN,,city-us,542,46.77,-94.38,2897
-30539,Barclay,MD,,city-us,185,39.14,-75.86,3432
-30544,Barclay,TX,,city-us,58,31.08,-97.11,222
-30538,Barclay,KS,,city-us,0,38.58,-95.88,538
-30542,Barclay,IL,,city-us,0,39.87,-89.52,226
-30543,Barclay,NV,,city-us,0,37.51,-114.25,466
+id,name,state,county,country,level,population,latitude,longitude,wiki
+21184,Iberia,MO,Miller County,,city-us,713,38.090,-92.293,3857
+21185,Iberia,OH,Morrow County,,city-us,550,40.670,-82.844,2414
+21183,Iberia,MN,Brown County,,city-us,0,44.239,-94.695,252

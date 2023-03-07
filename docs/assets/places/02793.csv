@@ -1,11 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-22958,Riceville,IA,,city-us,796,43.36,-92.55,4266
-22962,Riceville,TN,,city-us,688,35.38,-84.69,583
-22959,Riceville,MN,,city-us,91,47.01,-96.00,2130
-22961,Riceville,PA,,city-us,58,41.78,-79.80,1897
-22960,Riceville,MT,,city-us,37,47.21,-110.93,449
-22963,Riceville,IN,,city-us,0,38.32,-86.67,198
-22964,Riceville,KY,,city-us,0,36.51,-88.89,85
-22965,Riceville,KY,,city-us,0,37.73,-82.92,412
-22966,Riceville,LA,,city-us,0,30.08,-92.51,87
-22967,Riceville,VA,,city-us,0,36.89,-79.17,97
+id,name,state,county,country,level,population,latitude,longitude,wiki
+13896,Erskine,MN,Polk County,,city-us,396,47.667,-96.010,10262
+13895,Erskine,WV,Fayette County,,city-us,0,37.967,-81.081,89
+13897,Erskine,OR,Sherman County,,city-us,0,45.438,-120.779,639

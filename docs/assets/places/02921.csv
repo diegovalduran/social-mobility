@@ -1,7 +1,46 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23717,Elk City,OK,,city-us,11570,35.41,-99.40,13257
-23716,Elk City,KS,,city-us,254,37.29,-95.91,3484
-23715,Elk City,ID,,city-us,100,45.83,-115.44,1031
-23718,Elk City,NE,,city-us,0,41.37,-96.27,233
-23719,Elk City,OR,,city-us,0,44.62,-123.88,2771
-23720,Elk City,WV,,city-us,0,39.14,-80.11,329
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14668,Farmington,NM,San Juan County,,city-us,46422,36.728,-108.219,12347
+14642,Farmington,CT,Capitol Planning Region,,city-us,26645,41.730,-72.842,12488
+14646,Farmington,UT,Davis County,,city-us,24775,40.980,-111.887,5843
+14644,Farmington,MN,Dakota County,,city-us,23534,44.640,-93.144,7863
+14669,Farmington,MO,St. Francois County,,city-us,18295,37.781,-90.422,10629
+14663,Farmington,NY,Ontario County,,city-us,14528,42.989,-77.309,4990
+14660,Farmington,MI,Oakland County,,city-us,11484,42.464,-83.376,5872
+14677,Farmington,AR,Washington County,,city-us,8242,36.042,-94.247,5657
+14649,Farmington,ME,Franklin County,,city-us,7463,44.677,-70.141,11588
+14671,Farmington,NH,Strafford County,,city-us,6803,43.367,-71.063,9131
+14681,Farmington,WI,Waupaca County,,city-us,3691,44.375,-89.174,2172
+14680,Farmington,WI,Washington County,,city-us,3641,43.505,-88.106,7203
+14650,Farmington,IL,Fulton County,,city-us,3128,40.666,-90.050,1118
+14673,Farmington,OH,Trumbull County,,city-us,2961,41.389,-80.952,1466
+14651,Farmington,IL,Fulton County / Peoria County,,city-us,2314,40.697,-90.002,3306
+14656,Farmington,WI,La Crosse County,,city-us,2135,44.036,-91.063,2748
+14639,Farmington,MS,Alcorn County,,city-us,2031,34.930,-88.452,2387
+14664,Farmington,WI,Polk County,,city-us,1931,45.260,-92.685,2173
+14643,Farmington,PA,Clarion County,,city-us,1780,41.368,-79.285,264
+14654,Farmington,WI,Jefferson County,,city-us,1380,43.076,-88.672,1905
+14676,Farmington,PA,Warren County,,city-us,1276,41.947,-79.229,264
+14648,Farmington,PA,Fayette County,,city-us,1043,39.807,-79.566,1388
+14672,Farmington,PA,Tioga County,,city-us,663,41.932,-77.273,264
+14674,Farmington,IA,Van Buren County,,city-us,588,40.640,-91.743,4181
+14670,Farmington,KS,Stafford County,,city-us,521,37.956,-98.967,429
+14658,Farmington,WV,Marion County,,city-us,403,39.513,-80.249,4453
+14662,Farmington,MN,Olmsted County,,city-us,399,44.151,-92.379,1830
+14645,Farmington,NC,Davie County,,city-us,291,36.016,-80.532,517
+14657,Farmington,SD,Lake County,,city-us,200,44.066,-97.189,0
+14678,Farmington,KS,Washington County,,city-us,172,39.865,-97.082,429
+14667,Farmington,CA,San Joaquin County,,city-us,144,37.930,-121.000,4349
+14682,Farmington,WA,Whitman County,,city-us,133,47.089,-117.044,3289
+14675,Farmington,ND,Walsh County,,city-us,126,48.499,-97.470,189
+14653,Farmington,KY,Graves County,,city-us,122,36.669,-88.526,864
+14655,Farmington,DE,Kent County,,city-us,91,38.869,-75.579,3003
+14652,Farmington,SD,Grant County,,city-us,74,45.261,-97.072,0
+14665,Farmington,KS,Republic County,,city-us,50,39.874,-97.424,429
+14647,Farmington,SD,Day County,,city-us,26,45.548,-97.906,0
+14638,Farmington,VA,Albemarle County,,city-us,0,38.051,-78.544,124
+14640,Farmington,KS,Atchison County,,city-us,0,39.519,-95.310,429
+14641,Farmington,OH,Belmont County,,city-us,0,40.109,-80.820,258
+14659,Farmington,TN,Marshall County,,city-us,0,35.501,-86.711,517
+14661,Farmington,GA,Oconee County,,city-us,0,33.776,-83.424,498
+14666,Farmington,IN,Rush County,,city-us,0,39.618,-85.359,378
+14679,Farmington,OR,Washington County,,city-us,0,45.449,-122.948,2192

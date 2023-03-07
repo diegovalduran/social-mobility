@@ -1,5 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42234,Gregg,PA,,city-us,4335,41.11,-76.94,215
-42233,Gregg,PA,,city-us,2267,40.87,-77.57,215
-42235,Gregg,CA,,city-us,0,36.88,-119.94,423
-42236,Gregg,MO,,city-us,0,37.05,-94.56,243
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37127,Rock Falls,IL,Whiteside County,,city-us,8724,41.780,-89.689,4642
+37126,Rock Falls,WI,Lincoln County,,city-us,637,45.314,-89.743,2124
+37123,Rock Falls,IA,Cerro Gordo County,,city-us,147,43.207,-93.085,3095
+37125,Rock Falls,NE,Holt County,,city-us,45,42.653,-98.717,247
+37124,Rock Falls,WI,Dunn County,,city-us,0,44.719,-91.690,429

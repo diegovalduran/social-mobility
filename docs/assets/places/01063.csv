@@ -1,12 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-11122,Berkeley,CA,,city-us,117145,37.87,-122.27,62688
-11129,Berkeley,NJ,,city-us,44348,39.91,-74.19,16415
-11127,Berkley,MI,,city-us,15085,42.50,-83.18,12367
-11123,Berkley,CO,,city-us,10920,39.80,-105.03,2540
-11128,Berkeley,MO,,city-us,8148,38.75,-90.33,5980
-11126,Berkley,MA,,city-us,6785,41.84,-71.08,6810
-11125,Berkeley,IL,,city-us,5214,41.89,-87.90,6384
-11124,Berkley,IA,,city-us,23,41.94,-94.11,2837
-11130,Berkley,MD,,city-us,0,39.66,-76.21,161
-11131,Berkeley,VA,,city-us,0,38.08,-78.49,72
-11132,Berkeley,WV,,city-us,0,39.50,-77.93,332
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5258,Bridgeville,PA,Allegheny County,,city-us,4731,40.356,-80.110,3822
+5263,Bridgeville,DE,Sussex County,,city-us,2667,38.743,-75.604,5102
+5262,Bridgeville,NY,Sullivan County,,city-us,205,41.634,-74.619,4681
+5264,Bridgeville,NJ,Warren County,,city-us,196,40.837,-75.026,399
+5259,Bridgeville,KY,Bracken County,,city-us,0,38.595,-84.020,139
+5260,Bridgeville,CA,Humboldt County,,city-us,0,40.469,-123.800,3661
+5261,Bridgeville,OH,Muskingum County,,city-us,0,39.969,-81.868,255

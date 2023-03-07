@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24502,Brimfield,MA,,city-us,3690,42.13,-72.21,5215
-24503,Brimfield,OH,,city-us,3585,41.10,-81.35,2679
-24500,Brimfield,IL,,city-us,768,40.84,-89.89,2074
-24501,Brimfield,IN,,city-us,0,41.45,-85.40,374
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15367,Forest Home,MI,Antrim County,,city-us,1706,44.985,-85.257,2153
+15369,Forest Home,NY,Tompkins County,,city-us,923,42.454,-76.468,2771
+15368,Forest Home,AL,Butler County,,city-us,0,31.862,-86.843,235

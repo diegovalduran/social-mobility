@@ -1,37 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-2335,Florence,,Italy,city-international,380948,43.77,11.25,68303
-2320,Florence,SC,,city-us,39958,34.20,-79.76,22912
-2300,Florence,AL,,city-us,39933,34.80,-87.68,27659
-2308,Florence,KY,,city-us,32132,39.00,-84.63,5119
-2301,Florence,AZ,,city-us,26205,33.03,-111.39,10809
-2319,Florence,OR,,city-us,9475,43.98,-124.10,7884
-2315,Florence,NJ,,city-us,4672,40.12,-74.81,14335
-2312,Florence,MS,,city-us,4623,32.15,-90.13,2853
-2302,Florence,CO,,city-us,3909,38.39,-105.12,3975
-2317,Florence,OH,,city-us,2460,41.32,-82.39,227
-2318,Florence,OH,,city-us,1937,41.56,-84.74,227
-2310,Florence,MN,,city-us,1558,44.50,-92.37,209
-2316,Florence,NY,,city-us,1292,43.42,-75.74,2661
-2324,Florence,TX,,city-us,1201,30.84,-97.79,3180
-2309,Florence,MI,,city-us,1140,41.86,-85.59,1909
-2313,Florence,MT,,city-us,1000,46.63,-114.08,2238
-2305,Florence,IL,,city-us,924,41.33,-88.07,451
-2325,Florence,WI,,city-us,519,45.92,-88.25,210
-2329,Florence,MO,,city-us,494,38.59,-92.98,299
-2307,Florence,KS,,city-us,387,38.24,-96.93,14391
-2321,Florence,SD,,city-us,329,45.05,-97.33,3174
-2322,Florence,SD,,city-us,153,44.67,-97.05,3174
-2306,Florence,IN,,city-us,86,38.78,-84.92,718
-2314,Florance,ND,,city-us,47,47.55,-98.66,0
-2323,Florence,SD,,city-us,28,44.69,-99.02,3174
-2311,Florence,MN,,city-us,26,44.24,-96.05,2827
-2303,Florence,IL,,city-us,18,39.63,-90.61,1710
-2304,Florence,IL,,city-us,0,42.21,-89.66,112
-2326,Florence,CA,,city-us,0,33.97,-118.25,987
-2327,Florence,LA,,city-us,0,29.79,-91.72,177
-2328,Florence,MD,,city-us,0,39.31,-77.11,703
-2330,Florence,OH,,city-us,0,39.85,-83.55,442
-2331,Florence,PA,,city-us,0,40.43,-80.43,250
-2332,Florence,TN,,city-us,0,35.92,-86.47,320
-2333,Florence,VT,,city-us,0,43.72,-73.06,160
-2334,Florence,WA,,city-us,0,48.22,-122.33,562
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1145,Anna,TX,Collin County,,city-us,20243,33.349,-96.549,5558
+1147,Anna,IL,Union County,,city-us,4171,37.460,-89.247,6430
+1146,Anna,OH,Shelby County,,city-us,1467,40.394,-84.173,4983
+1148,Anna,ND,Ward County,,city-us,37,47.985,-101.668,0
+1144,Anna,GA,Baker County,,city-us,0,31.267,-84.149,1319
+1149,Anna,KY,Warren County,,city-us,0,37.116,-86.423,80

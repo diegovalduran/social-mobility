@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32666,Hodge,LA,,city-us,373,32.28,-92.72,2395
-32667,Hodge,CA,,city-us,0,34.82,-117.19,570
-32668,Hodge,MO,,city-us,0,39.22,-93.63,278
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23417,Lackey,KY,Floyd County,,city-us,0,37.468,-82.829,198
+23418,Lackey,MS,Monroe County,,city-us,0,33.803,-88.462,238

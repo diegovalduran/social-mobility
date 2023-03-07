@@ -1,4 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45620,Mica,WA,,city-us,563,47.56,-117.21,2558
-45618,Mica,GA,,city-us,0,34.36,-84.27,252
-45619,Mica,VA,,city-us,0,38.14,-77.36,88
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42742,The Forks,KY,Estill County,,city-us,0,37.823,-84.088,93
+42743,The Forks,CA,Mendocino County,,city-us,0,39.191,-123.208,137

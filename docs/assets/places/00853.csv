@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9713,Winthrop,MA,,city-us,18505,42.38,-70.97,14818
-9714,Winthrop,ME,,city-us,6144,44.31,-69.96,11154
-9715,Winthrop,MN,,city-us,1328,44.54,-94.37,3121
-9712,Winthrop,IA,,city-us,820,42.47,-91.73,3545
-9717,Winthrop,WA,,city-us,529,48.48,-120.19,4916
-9716,Winthrop,NY,,city-us,136,44.79,-74.79,869
-9711,Winthrop,AR,,city-us,116,33.83,-94.35,2342
-9718,Winthrop,IN,,city-us,0,40.37,-87.23,790
-9719,Winthrop,MO,,city-us,0,39.56,-95.11,693
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4348,Blocher,IN,Scott County,,city-us,0,38.718,-85.657,412
+4352,Blocker,OK,Pittsburg County,,city-us,0,35.061,-95.568,364

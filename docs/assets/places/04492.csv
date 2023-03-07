@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32381,Murray Hill,KY,,city-us,560,38.29,-85.59,2283
-32382,Murray Hill,NJ,,city-us,0,40.70,-74.40,1401
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23121,Kirkville,IA,Wapello County,,city-us,156,41.146,-92.504,3348
+23118,Kirkville,MS,Itawamba County,,city-us,0,34.451,-88.490,887
+23119,Kirkville,MS,Pike County,,city-us,0,31.213,-90.497,86
+23120,Kirkville,LA,Tangipahoa Parish,,city-us,0,30.996,-90.478,542

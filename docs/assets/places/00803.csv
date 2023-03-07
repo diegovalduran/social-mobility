@@ -1,18 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-9002,Smithville,MO,,city-us,10552,39.40,-94.57,4815
-9004,Smithville,NJ,,city-us,9127,39.49,-74.46,3528
-9009,Smithville,TN,,city-us,5136,35.96,-85.81,4094
-9010,Smithville,TX,,city-us,4047,30.01,-97.16,7588
-9006,Smithville,OH,,city-us,1346,40.86,-81.86,3768
-9005,Smithville,NY,,city-us,1240,42.41,-75.76,3693
-9000,Smithville,GA,,city-us,597,31.90,-84.25,3473
-9003,Smithville,MS,,city-us,517,34.07,-88.39,3689
-9001,Smithville,IL,,city-us,159,40.66,-89.80,337
-8999,Smithville,AR,,city-us,85,36.08,-91.30,3526
-9007,Smithville,OK,,city-us,77,34.47,-94.64,2038
-9008,Smithville,SD,,city-us,8,44.20,-102.43,0
-9011,Smithville,IN,,city-us,0,39.07,-86.51,379
-9012,Smithville,IN,,city-us,0,39.32,-87.03,1291
-9013,Smithville,KY,,city-us,0,38.01,-85.51,95
-9014,Smithville,VA,,city-us,0,37.67,-75.84,73
-9015,Smithville,WV,,city-us,0,39.07,-81.09,375
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4129,Black Creek,PA,Luzerne County,,city-us,1904,40.973,-76.162,2893
+4131,Black Creek,WI,Outagamie County,,city-us,1355,44.477,-88.451,19708
+4132,Black Creek,NC,Wilson County,,city-us,685,35.635,-77.933,2122
+4130,Black Creek,OH,Mercer County,,city-us,623,40.685,-84.744,1289
+4128,Black Creek,GA,Bryan County,,city-us,0,32.166,-81.489,654

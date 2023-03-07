@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-44335,Clarks Mills,NJ,,city-us,40905,40.28,-74.35,21298
-44334,Clarks Mills,WI,,city-us,0,44.09,-87.86,397
-44336,Clarks Mills,PA,,city-us,0,41.39,-80.18,237
+id,name,state,county,country,level,population,latitude,longitude,wiki
+40408,South Park,PA,Allegheny County,,city-us,13705,40.299,-79.994,8716
+40410,South Park,MI,St. Clair County,,city-us,10654,42.967,-82.471,2279
+40411,South Park,WY,Teton County,,city-us,1896,43.422,-110.793,2122
+40409,South Park,IN,Kosciusko County,,city-us,0,41.401,-85.721,199

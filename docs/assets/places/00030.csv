@@ -1,3 +1,40 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-290,Fishhook,AK,,city-us,5055,61.73,-149.28,2449
-291,Fishhook,IL,,city-us,0,39.81,-90.89,268
+id,name,state,county,country,level,population,latitude,longitude,wiki
+130,Adams,PA,Butler County,,city-us,14885,40.717,-80.006,250
+129,Adams,MA,Berkshire County,,city-us,8100,42.626,-73.120,11493
+131,Adams,PA,Cambria County,,city-us,5722,40.284,-78.736,250
+147,Adams,NY,Jefferson County,,city-us,4979,43.845,-76.054,4885
+135,Adams,OH,Darke County,,city-us,3320,40.130,-84.489,534
+145,Adams,MI,Houghton County,,city-us,2620,47.056,-88.684,245
+163,Adams,WI,Walworth County,,city-us,2355,42.801,-88.533,2246
+144,Adams,MI,Hillsdale County,,city-us,2308,41.944,-84.536,245
+133,Adams,OH,Clinton County,,city-us,2020,39.446,-83.925,534
+142,Adams,OH,Guernsey County,,city-us,1874,40.041,-81.675,534
+127,Adams,WI,Adams County,,city-us,1772,43.956,-89.818,2009
+148,Adams,IL,LaSalle County,,city-us,1606,41.584,-88.765,2462
+164,Adams,OH,Washington County,,city-us,1526,39.544,-81.527,534
+146,Adams,WI,Jackson County,,city-us,1393,44.354,-90.830,1981
+158,Adams,OH,Seneca County,,city-us,1216,41.208,-83.010,534
+132,Adams,OH,Champaign County,,city-us,1009,40.234,-83.960,534
+139,Adams,NE,Gage County,,city-us,950,40.487,-96.511,256
+159,Adams,PA,Snyder County,,city-us,899,40.815,-77.179,250
+137,Adams,OH,Defiance County,,city-us,874,41.384,-84.285,534
+134,Adams,OH,Coshocton County,,city-us,768,40.333,-81.666,534
+153,Adams,MN,Mower County,,city-us,672,43.565,-92.719,3700
+138,Adams,MO,DeKalb County,,city-us,649,39.883,-94.269,168
+156,Adams,TN,Robertson County,,city-us,634,36.582,-87.066,4534
+152,Adams,OH,Monroe County,,city-us,632,39.777,-80.994,534
+154,Adams,OH,Muskingum County,,city-us,619,40.125,-81.859,534
+128,Adams,MI,Arenac County,,city-us,554,44.039,-84.102,245
+141,Adams,WI,Green County,,city-us,544,42.727,-89.779,3504
+161,Adams,OR,Umatilla County,,city-us,392,45.767,-118.562,3478
+136,Adams,IN,Decatur County,,city-us,175,39.383,-85.560,247
+155,Adams,KS,Nemaha County,,city-us,164,39.783,-95.958,71
+140,Adams,SD,Grant County,,city-us,155,45.020,-96.545,194
+160,Adams,OK,Texas County,,city-us,148,36.756,-101.077,664
+143,Adams,MO,Harrison County,,city-us,132,40.170,-93.925,60
+151,Adams,SD,Miner County,,city-us,115,44.066,-97.550,194
+126,Adams,IL,Adams County,,city-us,75,39.865,-91.198,760
+162,Adams,ND,Walsh County,,city-us,37,48.409,-98.128,74
+149,Adams,KY,Lawrence County,,city-us,0,37.917,-82.708,91
+150,Adams,NJ,Middlesex County,,city-us,0,40.451,-74.493,534
+157,Adams,TX,Schleicher County,,city-us,0,30.935,-100.265,390

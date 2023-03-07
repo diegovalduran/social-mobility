@@ -1,3 +1,25 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47063,Whynot,MS,,city-us,0,32.29,-88.49,575
-47064,Whynot,NC,,city-us,0,35.53,-79.75,1501
+id,name,state,county,country,level,population,latitude,longitude,wiki
+45759,Webster,MA,Worcester County,,city-us,17651,42.047,-71.846,6552
+45743,Webster,TX,Harris County,,city-us,12193,29.538,-95.118,8413
+45755,Webster,MI,Washtenaw County,,city-us,6784,42.378,-83.838,3391
+45748,Webster,NY,Monroe County,,city-us,5758,43.212,-77.430,12602
+45747,Webster,NH,Merrimack County,,city-us,1957,43.307,-71.726,2390
+45758,Webster,OH,Wood County,,city-us,1244,41.433,-83.538,1116
+45737,Webster,KY,Breckinridge County,,city-us,931,37.889,-86.339,420
+45754,Webster,WI,Vernon County,,city-us,838,43.597,-90.740,2095
+45752,Webster,FL,Sumter County,,city-us,825,28.610,-82.055,2299
+45738,Webster,WI,Burnett County,,city-us,702,45.877,-92.367,4813
+45744,Webster,NC,Jackson County,,city-us,382,35.346,-83.219,3352
+45740,Webster,SD,Day County,,city-us,292,45.385,-97.561,4121
+45745,Webster,IA,Keokuk County,,city-us,93,41.438,-92.169,2590
+45757,Webster,PA,Westmoreland County,,city-us,67,40.185,-79.849,345
+45751,Webster,KS,Smith County,,city-us,44,39.705,-98.569,2216
+45736,Webster,VA,Botetourt County,,city-us,0,37.351,-79.827,86
+45739,Webster,OH,Darke County,,city-us,0,40.187,-84.478,207
+45741,Webster,NE,Dodge County,,city-us,0,41.597,-96.790,194
+45742,Webster,IL,Hancock County,,city-us,0,40.466,-91.001,2026
+45746,Webster,IA,Madison County,,city-us,0,41.329,-94.231,118
+45749,Webster,ND,Ramsey County,,city-us,0,48.282,-98.876,285
+45750,Webster,MN,Rice County,,city-us,0,44.530,-93.353,397
+45753,Webster,WV,Taylor County,,city-us,0,39.297,-80.045,664
+45756,Webster,IN,Wayne County,,city-us,0,39.903,-84.945,306

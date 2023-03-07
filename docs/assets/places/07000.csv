@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-41144,Rocky Ridge,UT,,city-us,938,39.92,-111.83,4121
-41143,Rocky Ridge,OH,,city-us,310,41.53,-83.21,3051
-41145,Rocky Ridge,MD,,city-us,0,39.60,-77.32,1574
-41146,Rocky Ridge,MO,,city-us,0,37.93,-90.24,601
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35614,Quail,TX,Collingsworth County,,city-us,25,34.910,-100.398,1945
+35615,Quail,VA,Louisa County,,city-us,0,37.930,-78.033,81

@@ -1,11 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31819,Thomas,MI,,city-us,20526,42.82,-83.27,8123
-31814,Thomas,MI,,city-us,11898,43.44,-84.12,2367
-31820,Thomas,MI,,city-us,1503,43.64,-83.53,3247
-31815,Thomas,OK,,city-us,1136,35.74,-98.75,3881
-31816,Thomas,WV,,city-us,614,39.15,-79.50,4852
-31813,Thomas,KS,,city-us,67,38.57,-98.19,279
-31817,Thomas,IL,,city-us,0,41.51,-89.82,111
-31818,Thomas,IN,,city-us,0,38.61,-87.23,141
-31821,Thomas,SD,,city-us,0,44.76,-97.21,248
-31822,Thomas,VA,,city-us,0,37.34,-82.17,147
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22575,Keaton,KY,Johnson County,,city-us,0,37.986,-82.960,322
+22877,Keyton,AL,Coffee County,,city-us,0,31.283,-85.826,291

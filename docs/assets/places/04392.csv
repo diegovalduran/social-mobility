@@ -1,11 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-31963,Wilcox,MI,,city-us,1151,43.61,-85.74,1879
-31965,Wilcox,PA,,city-us,445,41.58,-78.69,1088
-31964,Wilcox,NE,,city-us,328,40.37,-99.17,2977
-31962,Wilcox,KS,,city-us,64,38.77,-99.88,282
-31966,Wilcox,FL,,city-us,0,29.61,-82.92,224
-31967,Wilcox,MO,,city-us,0,40.40,-94.97,401
-31968,Wilcox,TX,,city-us,0,30.45,-96.38,1096
-31969,Wilcox,TX,,city-us,0,32.25,-97.74,396
-31970,Wilcox,WI,,city-us,0,45.00,-87.84,234
-31971,Wilcox,WY,,city-us,0,41.79,-105.98,158
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22696,Kenilworth,NJ,Union County,,city-us,8335,40.676,-74.291,17823
+22695,Kenilworth,IL,Cook County,,city-us,2451,42.086,-87.718,8717
+22694,Kenilworth,PA,Chester County,,city-us,2106,40.231,-75.634,2295
+22693,Kenilworth,UT,Carbon County,,city-us,89,39.688,-110.806,1344

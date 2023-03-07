@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-34775,Marcellus,NY,,city-us,6070,42.94,-76.32,4342
-34774,Marcellus,MI,,city-us,2413,42.03,-85.82,2915
+id,name,state,county,country,level,population,latitude,longitude,wiki
+26003,Lumber City,GA,Telfair County,,city-us,1021,31.929,-82.680,2729
+26002,Lumber City,PA,Mifflin County,,city-us,252,40.660,-77.601,286
+26001,Lumber City,PA,Clearfield County,,city-us,76,40.932,-78.580,2632

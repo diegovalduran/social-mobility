@@ -1,7 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-28707,Triumph,PA,,city-us,274,41.68,-79.45,2749
-28704,Triumph,LA,,city-us,268,29.34,-89.48,1146
-28706,Triumph,NE,,city-us,107,41.37,-100.00,246
-28705,Triumph,ND,,city-us,34,48.33,-98.50,0
-28703,Triumph,IL,,city-us,0,41.50,-89.02,604
-28708,Triumph,ID,,city-us,0,43.65,-114.25,2815
+id,name,state,county,country,level,population,latitude,longitude,wiki
+19176,Hartsville,TN,Trousdale County,,city-us,12035,36.393,-86.157,7207
+19174,Hartsville,SC,Darlington County,,city-us,7588,34.374,-80.073,17254
+19175,Hartsville,NY,Steuben County,,city-us,554,42.222,-77.660,2954
+19173,Hartsville,IN,Bartholomew County,,city-us,318,39.268,-85.698,3924

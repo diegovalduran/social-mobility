@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18245,McGregor,FL,,city-us,7924,26.56,-81.91,2668
-18249,McGregor,TX,,city-us,5522,31.42,-97.43,3790
-18251,McGregor,MI,,city-us,911,43.47,-82.71,2952
-18246,McGregor,IA,,city-us,723,43.02,-91.18,7172
-18247,McGregor,MN,,city-us,378,46.61,-93.31,3567
-18248,McGregor,ND,,city-us,47,48.60,-102.93,465
-18250,McGregor,GA,,city-us,0,32.20,-82.50,274
-18252,McGregor,PA,,city-us,0,40.94,-79.22,266
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10422,Crook,IL,Hamilton County,,city-us,286,38.078,-88.433,1277
+10423,Crook,CO,Logan County,,city-us,129,40.859,-102.801,2419
+10424,Crook,MO,Osage County,,city-us,0,38.551,-91.778,294

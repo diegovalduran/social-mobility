@@ -1,11 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-20301,Ringgold,GA,,city-us,3429,34.92,-85.11,5933
-20302,Ringgold,LA,,city-us,1345,32.33,-93.28,8506
-20303,Ringgold,MD,,city-us,166,39.71,-77.57,252
-20304,Ringgold,PA,,city-us,0,40.99,-79.17,192
-20305,Ringgold,TX,,city-us,0,33.82,-97.94,1125
-20306,Ringgold,KY,,city-us,0,37.11,-84.65,291
-20307,Ringgold,NE,,city-us,0,41.51,-100.79,433
-20308,Ringgold,OH,,city-us,0,39.59,-81.98,352
-20309,Ringgold,VA,,city-us,0,36.61,-79.30,550
-20310,Ringgold,WV,,city-us,0,39.56,-79.94,93
+id,name,state,county,country,level,population,latitude,longitude,wiki
+11955,Donaldson,PA,Schuylkill County,,city-us,343,40.636,-76.412,1695
+11952,Donaldson,AR,Hot Spring County,,city-us,281,34.237,-92.924,2363
+11953,Donaldson,MN,Kittson County,,city-us,20,48.572,-96.896,2827
+11951,Donaldson,WV,Hampshire County,,city-us,0,39.498,-78.654,368
+11954,Donaldson,IN,Marshall County,,city-us,0,41.361,-86.444,260
+11956,Donaldson,KY,Trigg County,,city-us,0,36.751,-87.895,84
+11957,Donaldson,WV,Webster County,,city-us,0,38.387,-80.512,184

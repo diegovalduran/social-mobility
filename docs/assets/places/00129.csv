@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-1183,Blue Ridge,VA,,city-us,3078,37.38,-79.81,3904
-1176,Blue Ridge,AL,,city-us,1442,32.49,-86.19,3750
-1178,Blue Ridge,GA,,city-us,1244,34.86,-84.32,5147
-1182,Blue Ridge,TX,,city-us,1187,33.30,-96.40,2452
-1177,Blue Ridge,AZ,,city-us,981,34.63,-111.11,178
-1181,Blue Ridge,ND,,city-us,20,48.59,-103.57,0
-1179,Blue Ridge,IL,,city-us,0,40.27,-88.49,193
-1180,Blue Ridge,IN,,city-us,0,39.52,-85.64,442
-1184,Blue Ridge,MO,,city-us,0,40.19,-93.94,536
+id,name,state,county,country,level,population,latitude,longitude,wiki
+662,Allenport,PA,Huntingdon County,,city-us,542,40.374,-77.870,1460
+663,Allenport,PA,Washington County,,city-us,480,40.098,-79.849,2529

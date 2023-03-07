@@ -1,16 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-3061,Huntsville,AL,,city-us,216963,34.78,-86.53,54769
-3069,Huntsville,TX,,city-us,46288,30.72,-95.55,15253
-3062,Huntsville,AR,,city-us,2981,36.09,-93.74,4037
-3066,Huntsville,MO,,city-us,1369,39.44,-92.55,7021
-3068,Huntsville,TN,,city-us,1270,36.41,-84.49,4945
-3070,Huntsville,UT,,city-us,585,41.26,-111.77,3207
-3065,Huntsville,MN,,city-us,439,47.89,-96.93,1992
-3067,Huntsville,OH,,city-us,403,40.44,-83.80,4604
-3063,Huntsville,IL,,city-us,0,40.19,-90.86,361
-3064,Huntsville,KS,,city-us,0,38.06,-98.33,356
-3071,Huntsville,IN,,city-us,0,40.01,-85.73,343
-3072,Huntsville,IN,,city-us,0,40.07,-85.07,246
-3073,Huntsville,MS,,city-us,0,33.35,-89.46,93
-3074,Huntsville,NC,,city-us,0,36.08,-80.53,4813
-3075,Huntsville,WA,,city-us,0,46.29,-118.11,268
+id,name,state,county,country,level,population,latitude,longitude,wiki
+1409,Argo,AL,Jefferson County / St. Clair County,,city-us,4401,33.691,-86.505,3490
+1407,Argo,SD,Brookings County,,city-us,213,44.507,-96.697,0
+1408,Argo,MO,Crawford County,,city-us,0,38.184,-91.331,447
+1410,Argo,KY,Pike County,,city-us,0,37.481,-82.063,92
+1411,Argo,IA,Scott County,,city-us,0,41.626,-90.433,450
+1412,Argo,AL,Walker County,,city-us,0,33.801,-87.117,270

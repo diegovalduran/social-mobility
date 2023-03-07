@@ -1,4 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10350,Picacho,AZ,,city-us,315,32.72,-111.50,991
-10351,Picacho,CA,,city-us,0,33.02,-114.61,3949
-10352,Picacho,NM,,city-us,0,33.35,-105.14,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+4761,Bordeaux,,,France,city-international,257068,44.840,-0.580,49169
+4757,Bordeaux,NE,Dawes County,,city-us,0,42.768,-102.814,240
+4758,Bordeaux,SC,McCormick County,,city-us,0,33.926,-82.421,471
+4759,Bordeaux,WY,Platte County,,city-us,0,41.936,-104.845,147
+4760,Bordeaux,WA,Thurston County,,city-us,0,46.895,-123.080,583

@@ -1,12 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25667,Gladstone,MO,,city-us,27017,39.20,-94.55,5615
-25670,Gladstone,OR,,city-us,11978,45.38,-122.59,11898
-25666,Gladstone,MI,,city-us,5248,45.85,-87.02,10576
-25672,Gladstone,NJ,,city-us,1501,40.72,-74.67,1234
-25665,Gladstone,IL,,city-us,809,40.85,-90.98,1134
-25669,Gladstone,ND,,city-us,266,46.86,-102.57,3885
-25668,Gladstone,ND,,city-us,62,46.50,-98.22,3885
-25671,Gladstone,NE,,city-us,0,40.16,-97.31,277
-25673,Gladstone,NM,,city-us,0,36.30,-103.97,719
-25674,Gladstone,OH,,city-us,0,39.74,-83.69,220
-25675,Gladstone,VA,,city-us,0,37.55,-78.85,179
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16491,Gay,GA,Meriwether County,,city-us,114,33.094,-84.574,2393
+16487,Gay,OK,Choctaw County,,city-us,0,33.953,-95.621,567
+16488,Gay,NC,Jackson County,,city-us,0,35.291,-83.273,255
+16489,Gay,WV,Jackson County,,city-us,0,38.771,-81.553,204
+16490,Gay,MI,Keweenaw County,,city-us,0,47.227,-88.164,886

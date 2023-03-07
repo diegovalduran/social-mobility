@@ -1,5 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38246,Cornelius,NC,,city-us,31650,35.49,-80.86,3768
-38247,Cornelius,OR,,city-us,13416,45.52,-123.06,6558
-38248,Cornelius,IN,,city-us,0,39.30,-86.30,316
-38249,Cornelius,KY,,city-us,0,37.31,-84.01,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+30842,New Sweden,ME,Aroostook County,,city-us,570,46.976,-68.115,6391
+30843,New Sweden,MN,Nicollet County,,city-us,0,44.407,-94.190,388
+30844,New Sweden,TX,Travis County,,city-us,0,30.409,-97.513,1023

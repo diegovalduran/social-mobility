@@ -1,9 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16414,Danbury,CT,,city-us,86759,41.40,-73.48,35591
-16419,Danbury,OH,,city-us,4891,41.53,-82.75,3134
-16420,Danbury,TX,,city-us,1655,29.23,-95.34,3732
-16418,Danbury,NH,,city-us,1273,43.53,-71.87,5703
-16415,Danbury,IA,,city-us,314,42.23,-95.72,3933
-16416,Danbury,NC,,city-us,141,36.41,-80.21,4154
-16421,Danbury,WI,,city-us,114,46.01,-92.37,3435
-16417,Danbury,NE,,city-us,73,40.04,-100.40,3043
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9227,Colcord,OK,Delaware County,,city-us,747,36.264,-94.693,5323
+9228,Colcord,WV,Raleigh County,,city-us,0,37.944,-81.437,274

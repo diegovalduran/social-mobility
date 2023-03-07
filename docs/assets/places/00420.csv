@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-4844,Snead,AL,,city-us,1026,34.12,-86.40,2758
-4845,Snead,GA,,city-us,0,33.57,-82.12,96
+id,name,state,county,country,level,population,latitude,longitude,wiki
+2226,Baird,TX,Callahan County,,city-us,1498,32.394,-99.394,4156
+2227,Baird,MO,Dunklin County,,city-us,0,36.447,-90.004,190
+2228,Baird,MS,Sunflower County,,city-us,0,33.425,-90.500,527

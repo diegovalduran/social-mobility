@@ -1,7 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33794,Newry,MN,,city-us,461,43.81,-93.11,1917
-33793,Newry,ME,,city-us,416,44.52,-70.86,6081
-33795,Newry,PA,,city-us,235,40.39,-78.44,5282
-33796,Newry,SC,,city-us,199,34.73,-82.91,2293
-33797,Newry,IN,,city-us,0,38.90,-85.82,293
-33798,Newry,WI,,city-us,0,43.71,-90.82,107
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25037,Lind,WI,Waupaca County,,city-us,1569,44.285,-89.044,3367
+25034,Lind,WA,Adams County,,city-us,531,46.972,-118.615,8141
+26110,Lynd,MN,Lyon County,,city-us,432,44.386,-95.890,3714
+25035,Lind,ND,Grand Forks County,,city-us,54,47.715,-97.689,0
+25036,Lind,MN,Roseau County,,city-us,31,48.588,-96.323,1596

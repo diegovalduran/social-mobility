@@ -1,25 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-15951,Somerset,NJ,,city-us,37264,40.26,-74.80,24551
-15940,Somerset,NJ,,city-us,24827,40.50,-74.49,6548
-15935,Somerset,MA,,city-us,18271,41.77,-71.13,11482
-15934,Somerset,KY,,city-us,11954,37.09,-84.60,11684
-15944,Somerset,PA,,city-us,5992,40.01,-79.08,6015
-15937,Somerset,MI,,city-us,4532,42.05,-84.42,3612
-15947,Somerset,WI,,city-us,4346,45.15,-92.70,5300
-15931,Somerset,IL,,city-us,3956,37.82,-89.30,1308
-15948,Somerset,CA,,city-us,3642,38.65,-120.69,800
-15941,Somerset,NY,,city-us,2583,43.34,-78.55,4140
-15945,Somerset,PA,,city-us,2570,40.15,-80.06,229
-15946,Somerset,TX,,city-us,1765,29.23,-98.66,3895
-15943,Somerset,OH,,city-us,1457,39.81,-82.30,5268
-15942,Somerset,OH,,city-us,1240,39.90,-81.17,1194
-15936,Somerset,MD,,city-us,1175,38.97,-77.10,5499
-15938,Somerset,MN,,city-us,718,43.98,-93.22,1890
-15932,Somerset,IN,,city-us,361,40.67,-85.83,428
-15939,Somerset,MO,,city-us,92,40.52,-93.44,203
-15933,Somerset,KS,,city-us,90,38.60,-94.77,393
-15930,Somerset,CO,,city-us,61,38.93,-107.47,747
-15949,Somerset,IL,,city-us,0,37.65,-88.46,175
-15950,Somerset,NE,,city-us,0,40.83,-100.86,272
-15952,Somerset,NC,,city-us,0,36.35,-78.98,179
-15953,Somerset,VA,,city-us,0,38.21,-78.22,825
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9012,Clover Hill,MD,Frederick County,,city-us,3260,39.457,-77.427,2341
+9010,Clover Hill,VA,Albemarle County,,city-us,0,38.117,-78.483,75
+9011,Clover Hill,MS,Coahoma County,,city-us,0,34.275,-90.544,475
+9013,Clover Hill,VA,Rockingham County,,city-us,0,38.452,-79.030,104

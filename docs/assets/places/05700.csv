@@ -1,4 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37084,Downing,MO,,city-us,301,40.49,-92.37,5647
-37085,Downing,WI,,city-us,230,45.05,-92.13,3076
-37086,Downing,TX,,city-us,0,32.02,-98.55,1335
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29378,Moorefield,OH,Clark County,,city-us,12563,39.986,-83.744,128
+29383,Moorefield,VA,Loudoun County,,city-us,5013,38.996,-77.504,1068
+29380,Moorefield,WV,Hardy County,,city-us,2487,39.062,-78.969,5393
+29384,Moorefield,KY,Nicholas County,,city-us,228,38.273,-83.931,328
+29382,Moorefield,AR,Independence County,,city-us,123,35.768,-91.570,1993
+29379,Moorefield,NE,Frontier County,,city-us,26,40.690,-100.399,2783
+29381,Moorefield,OH,Harrison County,,city-us,0,40.200,-81.171,257
+29385,Moorefield,IN,Switzerland County,,city-us,0,38.806,-85.170,313

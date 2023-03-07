@@ -1,6 +1,12 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39589,Groveton,VA,,city-us,14402,38.77,-77.08,3171
-39590,Groveton,MI,,city-us,3330,43.28,-84.13,2501
-39588,Groveton,TX,,city-us,913,31.05,-95.13,2492
-39587,Groveton,NH,,city-us,892,44.60,-71.51,5694
-39591,Groveton,VA,,city-us,0,38.81,-77.55,533
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32920,Palestine,TX,Anderson County,,city-us,18756,31.762,-95.631,17765
+32921,Palestine,IL,Crawford County,,city-us,1223,39.004,-87.613,2771
+32930,Palestine,IL,Woodford County,,city-us,1133,40.692,-89.112,342
+32926,Palestine,AR,St. Francis County,,city-us,489,34.972,-90.903,2218
+32928,Palestine,KS,Sumner County,,city-us,188,37.357,-97.218,0
+32922,Palestine,OH,Darke County,,city-us,181,40.049,-84.743,2884
+32923,Palestine,IN,Franklin County,,city-us,0,39.417,-84.928,222
+32924,Palestine,WV,Greenbrier County,,city-us,0,37.732,-80.629,155
+32925,Palestine,IN,Kosciusko County,,city-us,0,41.178,-85.950,526
+32927,Palestine,NC,Stanly County,,city-us,0,35.404,-80.164,91
+32929,Palestine,WV,Wirt County,,city-us,0,39.030,-81.407,729

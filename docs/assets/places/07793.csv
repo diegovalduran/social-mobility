@@ -1,4 +1,14 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-43760,Onalaska,WI,,city-us,5821,43.93,-91.27,7809
-43758,Onalaska,TX,,city-us,3143,30.81,-95.12,2665
-43759,Onalaska,WA,,city-us,621,46.58,-122.71,3990
+id,name,state,county,country,level,population,latitude,longitude,wiki
+39477,Sheldon,MI,Wayne County,,city-us,98659,42.309,-83.482,10288
+39473,Sheldon,IA,O'Brien County / Sioux County,,city-us,5428,43.180,-95.844,6287
+39478,Sheldon,NY,Wyoming County,,city-us,2384,42.746,-78.377,3762
+39469,Sheldon,TX,Harris County,,city-us,2361,29.861,-95.134,6561
+39468,Sheldon,VT,Franklin County,,city-us,2144,44.899,-72.921,2962
+39471,Sheldon,IL,Iroquois County,,city-us,960,40.769,-87.564,2118
+39472,Sheldon,WI,Monroe County,,city-us,645,43.774,-90.622,1886
+39466,Sheldon,SC,Beaufort County,,city-us,579,32.602,-80.793,828
+39476,Sheldon,MO,Vernon County,,city-us,433,37.658,-94.293,3595
+39475,Sheldon,WI,Rusk County,,city-us,260,45.311,-90.956,7023
+39474,Sheldon,ND,Ransom County,,city-us,98,46.586,-97.491,3178
+39467,Sheldon,ND,Eddy County,,city-us,21,47.709,-98.965,3178
+39470,Sheldon,MN,Houston County,,city-us,0,43.678,-91.593,271

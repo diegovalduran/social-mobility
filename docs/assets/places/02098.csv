@@ -1,4 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-18379,Orchid,FL,,city-us,522,27.77,-80.42,2397
-18380,Orchid,MO,,city-us,0,39.95,-94.53,321
-18381,Orchid,VA,,city-us,0,37.83,-77.90,82
+id,name,state,county,country,level,population,latitude,longitude,wiki
+10538,Crown Point,IN,Lake County,,city-us,34621,41.417,-87.365,12785
+10535,Crown Point,NY,Essex County,,city-us,2015,43.964,-73.583,6465
+10537,Crown Point,AK,Kenai Peninsula Borough,,city-us,63,60.422,-149.367,2466
+10536,Crown Point,LA,Jefferson Parish,,city-us,0,29.772,-90.085,89

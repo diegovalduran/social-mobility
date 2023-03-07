@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47905,Maggie,VA,,city-us,0,37.42,-80.38,126
-47906,Maggie,WV,,city-us,0,38.95,-82.09,301
+id,name,state,county,country,level,population,latitude,longitude,wiki
+47724,Woodyard,IL,Edgar County,,city-us,0,39.866,-87.656,83
+47725,Woodyard,MD,Prince George's County,,city-us,0,38.786,-76.843,93
+47726,Woodyard,WV,Roane County,,city-us,0,38.668,-81.480,170

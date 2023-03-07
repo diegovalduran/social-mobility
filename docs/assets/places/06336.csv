@@ -1,7 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39181,Talbot,ND,,city-us,92,46.17,-103.31,136
-39182,Talbot,IN,,city-us,0,40.51,-87.45,944
-39183,Talbot,MI,,city-us,0,45.51,-87.60,272
-39184,Talbot,OR,,city-us,0,44.76,-123.10,448
-39185,Talbott,TN,,city-us,0,36.15,-83.42,474
-39186,Talbott,WV,,city-us,0,38.97,-80.02,119
+id,name,state,county,country,level,population,latitude,longitude,wiki
+32336,Ophir,IL,LaSalle County,,city-us,437,41.494,-88.983,432
+32340,Ophir,CO,San Miguel County,,city-us,195,37.857,-107.833,2941
+32341,Ophir,UT,Tooele County,,city-us,50,40.369,-112.259,2038
+32335,Ophir,OR,Curry County,,city-us,0,42.563,-124.383,220
+32337,Ophir,NC,Montgomery County,,city-us,0,35.478,-79.979,4239
+32338,Ophir,KY,Morgan County,,city-us,0,37.907,-83.014,109
+32339,Ophir,CA,Placer County,,city-us,0,38.891,-121.124,1419

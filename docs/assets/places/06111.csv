@@ -1,3 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-38479,Statesville,NC,,city-us,28844,35.78,-80.89,10845
-38480,Statesville,TN,,city-us,82,36.02,-86.13,1187
+id,name,state,county,country,level,population,latitude,longitude,wiki
+31252,Norden,SD,Hamlin County,,city-us,640,44.594,-97.159,0
+31256,Norden,MN,Pennington County,,city-us,363,48.141,-96.305,1888
+31251,Norden,SD,Deuel County,,city-us,288,44.682,-96.561,0
+31254,Norden,ND,LaMoure County,,city-us,55,46.344,-98.974,0
+31255,Norden,CA,Nevada County,,city-us,27,39.318,-120.356,881
+31253,Norden,NE,Keya Paha County,,city-us,0,42.869,-100.074,707

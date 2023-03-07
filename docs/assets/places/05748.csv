@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37259,Jonesburg,MO,,city-us,755,38.85,-91.31,3326
-37260,Jonesburg,LA,,city-us,0,32.53,-91.76,143
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29589,Morrow,GA,Clayton County,,city-us,6553,33.583,-84.339,3387
+29591,Morrow,OH,Warren County,,city-us,2097,39.355,-84.127,4359
+29592,Morrow,AR,Washington County,,city-us,263,35.858,-94.438,762
+29590,Morrow,LA,St. Landry Parish,,city-us,149,30.831,-92.085,799

@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42699,Troutville,VA,,city-us,465,37.42,-79.87,5148
-42698,Troutville,PA,,city-us,231,41.03,-78.79,1942
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37911,Rural,IL,Rock Island County,,city-us,996,41.370,-90.491,207
+37908,Rural,KS,Jefferson County,,city-us,797,39.081,-95.316,1076
+37909,Rural,KS,Kingman County,,city-us,322,37.609,-98.401,866
+37912,Rural,IL,Shelby County,,city-us,308,39.474,-88.973,207
+37907,Rural,OH,Clermont County,,city-us,0,38.778,-84.090,200
+37910,Rural,IN,Randolph County,,city-us,0,40.107,-84.966,397
+37913,Rural,WI,Waupaca County,,city-us,0,44.313,-89.153,466

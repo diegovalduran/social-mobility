@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-37351,Missouri City,TX,,city-us,74850,29.56,-95.54,16626
-37350,Missouri City,MO,,city-us,216,39.24,-94.29,4555
+id,name,state,county,country,level,population,latitude,longitude,wiki
+29727,Mount Ayr,IA,Ringgold County,,city-us,1617,40.715,-94.235,5234
+29725,Mount Ayr,IN,Newton County,,city-us,116,40.952,-87.299,2956
+29726,Mount Ayr,KS,Osborne County,,city-us,21,39.350,-98.987,0

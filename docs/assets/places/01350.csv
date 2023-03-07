@@ -1,6 +1,7 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-13219,Mecca,,Saudi Arabia,city-international,1675368,21.42,39.83,47735
-13215,Mecca,CA,,city-us,4451,33.57,-116.08,5817
-13216,Mecca,IN,,city-us,262,39.73,-87.33,3540
-13217,Mecca,OH,,city-us,0,41.39,-80.74,302
-13218,Mecca,MO,,city-us,0,39.48,-94.52,245
+id,name,state,county,country,level,population,latitude,longitude,wiki
+6801,Canoncito,NM,Mora County,,city-us,0,35.949,-105.263,218
+6802,Canoncito,NM,San Miguel County,,city-us,0,35.799,-105.323,142
+7351,Cañoncito,NM,Bernalillo County,,city-us,0,35.137,-106.373,180
+7352,Cañoncito,NM,Rio Arriba County,,city-us,0,36.181,-105.832,161
+7353,Cañoncito,NM,Santa Fe County,,city-us,0,35.549,-105.826,435
+7354,Cañoncito,NM,Taos County,,city-us,0,36.544,-105.634,129

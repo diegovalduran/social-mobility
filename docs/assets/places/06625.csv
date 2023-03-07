@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40105,Las Cruces,NM,,city-us,112914,32.31,-106.78,39165
-40106,Las Cruces,CA,,city-us,0,34.51,-120.23,465
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33642,Perkins,OH,Erie County,,city-us,12175,41.395,-82.693,2822
+33647,Perkins,OK,Payne County,,city-us,3305,35.974,-97.034,3696
+33648,Perkins,MO,Scott County,,city-us,123,37.095,-89.775,864
+33641,Perkins,MI,Delta County,,city-us,0,45.978,-87.072,573
+33643,Perkins,WV,Gilmer County,,city-us,0,38.784,-80.926,316
+33644,Perkins,MN,Houston County,,city-us,0,43.783,-91.644,98
+33645,Perkins,GA,Jenkins County,,city-us,0,32.910,-81.953,463
+33646,Perkins,IN,Newton County,,city-us,0,40.765,-87.363,150
+33649,Perkins,IA,Sioux County,,city-us,0,43.188,-96.186,184

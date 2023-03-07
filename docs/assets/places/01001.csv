@@ -1,9 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10632,Vicksburg,MS,,city-us,20904,32.35,-90.88,27860
-10631,Vicksburg,MI,,city-us,3810,42.12,-85.53,3968
-10628,Vicksburg,AZ,,city-us,521,33.74,-113.75,271
-10634,Vicksburg,PA,,city-us,136,40.94,-76.99,276
-10633,Vicksburg,PA,,city-us,38,40.37,-78.42,571
-10630,Vicksburg,KS,,city-us,25,39.70,-98.00,786
-10629,Vicksburg,IN,,city-us,0,39.09,-87.20,327
-10635,Vicksburg,MO,,city-us,0,36.15,-89.87,256
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5031,Brampton,,,Canada,city-international,593638,43.683,-79.767,35150
+5030,Brampton,ND,Sargent County,,city-us,47,45.986,-97.831,290
+5029,Brampton,MI,Delta County,,city-us,0,45.931,-87.071,268

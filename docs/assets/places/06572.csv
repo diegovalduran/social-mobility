@@ -1,3 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-39945,Sewell,NJ,,city-us,0,39.77,-75.14,1882
-39946,Sewell,WV,,city-us,0,38.00,-81.02,455
+id,name,state,county,country,level,population,latitude,longitude,wiki
+33432,Pearl,MS,Rankin County,,city-us,27258,32.275,-90.132,9252
+33424,Pearl,MI,Allegan County,,city-us,2084,42.557,-86.079,2700
+33431,Pearl,IL,Pike County,,city-us,196,39.450,-90.646,334
+33430,Pearl,SD,McCook County,,city-us,53,43.805,-97.538,0
+33428,Pearl,SD,Hand County,,city-us,9,44.419,-98.880,0
+33426,Pearl,ND,Golden Valley County,,city-us,6,47.244,-103.877,0
+33425,Pearl,KS,Dickinson County,,city-us,0,38.852,-97.044,822
+33427,Pearl,MO,Greene County,,city-us,0,37.352,-93.487,359
+33429,Pearl,CO,Jackson County,,city-us,0,40.985,-106.547,224

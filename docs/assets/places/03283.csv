@@ -1,10 +1,6 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-25774,Hall,IL,,city-us,8299,41.36,-89.22,3011
-25777,Hall,NY,,city-us,287,42.79,-77.07,1631
-25776,Hall,ND,,city-us,116,46.24,-97.33,0
-25775,Hall,MT,,city-us,51,46.59,-113.20,326
-25778,Hall,SD,,city-us,9,45.34,-102.52,0
-25779,Hall,IN,,city-us,0,39.55,-86.54,445
-25780,Hall,TX,,city-us,0,31.29,-99.05,1503
-25781,Hall,WA,,city-us,0,45.95,-122.54,259
-25782,Hall,WV,,city-us,0,39.05,-80.11,86
+id,name,state,county,country,level,population,latitude,longitude,wiki
+16634,Gerald,MO,Franklin County,,city-us,1357,38.400,-91.331,4792
+16632,Gerald,IL,Champaign County,,city-us,0,40.271,-87.930,150
+16633,Gerald,AL,Dale County,,city-us,0,31.324,-85.757,340
+16635,Gerald,OH,Henry County,,city-us,0,41.457,-84.144,250
+16636,Gerald,IN,Perry County,,city-us,0,38.008,-86.573,307

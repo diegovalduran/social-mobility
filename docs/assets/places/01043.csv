@@ -1,11 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-10961,Avery,MI,,city-us,669,44.98,-84.07,1950
-10962,Avery,TX,,city-us,426,33.55,-94.78,3674
-10960,Avery,CA,,city-us,277,38.20,-120.37,2544
-10963,Avery,ID,,city-us,25,47.25,-115.80,2822
-10964,Avery,IN,,city-us,0,40.31,-86.44,301
-10965,Avery,IA,,city-us,0,41.07,-92.71,475
-10966,Avery,MI,,city-us,0,41.82,-86.58,310
-10967,Avery,MO,,city-us,0,38.07,-93.36,331
-10968,Avery,NE,,city-us,0,41.16,-95.92,226
-10969,Avery,OH,,city-us,0,41.33,-82.62,1637
+id,name,state,county,country,level,population,latitude,longitude,wiki
+5188,Brewster,NY,Putnam County,,city-us,2509,41.397,-73.617,12259
+5189,Brewster,OH,Stark County,,city-us,2109,40.707,-81.598,4055
+5187,Brewster,WA,Okanogan County,,city-us,2011,48.096,-119.781,3700
+5184,Brewster,MA,Barnstable County,,city-us,1410,41.760,-70.083,12029
+5186,Brewster,MN,Nobles County,,city-us,503,43.699,-95.469,5783
+5190,Brewster,KS,Thomas County,,city-us,290,39.367,-101.377,3738
+5185,Brewster,NE,Blaine County,,city-us,8,41.939,-99.865,4226

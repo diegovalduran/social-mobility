@@ -1,3 +1,8 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-40818,Connorville,MI,,city-us,305,46.53,-89.87,2779
-40817,Connorville,OH,,city-us,160,40.19,-80.71,1187
+id,name,state,county,country,level,population,latitude,longitude,wiki
+35095,Portsmouth,,,United Kingdom,city-international,248440,50.806,-1.087,68968
+35091,Portsmouth,VA,Portsmouth city,,city-us,97840,36.835,-76.298,23829
+35092,Portsmouth,NH,Rockingham County,,city-us,22277,43.072,-70.763,16700
+35093,Portsmouth,OH,Scioto County,,city-us,18014,38.732,-82.998,39590
+35090,Portsmouth,RI,Newport County,,city-us,17754,41.592,-71.284,7221
+35089,Portsmouth,MI,Bay County,,city-us,3181,43.558,-83.830,2178
+35094,Portsmouth,IA,Shelby County,,city-us,186,41.650,-95.519,3346

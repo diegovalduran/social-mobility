@@ -1,10 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-6749,Fisher,IL,,city-us,2023,40.31,-88.35,2309
-6751,Fisher,MN,,city-us,416,47.80,-96.80,3770
-6750,Fisher,LA,,city-us,196,31.49,-93.47,2791
-6748,Fisher,AR,,city-us,176,35.49,-90.97,2001
-6752,Fisher,ND,,city-us,9,46.25,-101.69,0
-6753,Fisher,OR,,city-us,0,44.29,-123.84,1415
-6754,Fisher,PA,,city-us,0,41.27,-79.24,184
-6755,Fischer,TX,,city-us,0,29.98,-98.26,1622
-6756,Fisher,WV,,city-us,0,39.05,-79.00,390
+id,name,state,county,country,level,population,latitude,longitude,wiki
+3054,Bee Ridge,FL,Sarasota County,,city-us,9921,27.284,-82.481,1939
+3053,Bee Ridge,IN,Clay County,,city-us,0,39.537,-87.169,201

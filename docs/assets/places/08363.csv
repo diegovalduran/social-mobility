@@ -1,5 +1,9 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-45327,Relief,CA,,city-us,0,39.36,-120.86,5177
-45328,Relief,KY,,city-us,0,37.94,-83.00,414
-45329,Relief,NC,,city-us,0,36.03,-82.29,663
-45330,Relief,OH,,city-us,0,39.59,-81.69,276
+id,name,state,county,country,level,population,latitude,longitude,wiki
+42274,Sweden,,,,country,10536338,60.128,18.644,126325
+42271,Sweden,NY,Monroe County,,city-us,13160,43.177,-77.926,3465
+42273,Sweden,PA,Potter County,,city-us,863,41.769,-77.921,3760
+42272,Sweden,ME,Oxford County,,city-us,413,44.123,-70.805,4634
+42268,Sweden,SC,Bamberg County,,city-us,0,33.379,-81.135,262
+42269,Sweden,MO,Douglas County,,city-us,0,36.877,-92.501,627
+42270,Sweden,AR,Jefferson County,,city-us,0,34.193,-91.724,1607
+42277,Sweeden,KY,Edmonson County,,city-us,0,37.254,-86.279,753

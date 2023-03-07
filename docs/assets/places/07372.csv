@@ -1,3 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-42424,Napier,PA,,city-us,2024,40.07,-78.65,2395
-42425,Napier,WV,,city-us,0,38.79,-80.59,324
+id,name,state,county,country,level,population,latitude,longitude,wiki
+37439,Romney,WV,Hampshire County,,city-us,1717,39.342,-78.757,8347
+37440,Romney,IN,Tippecanoe County,,city-us,304,40.249,-86.904,827
+37437,Romney,TX,Eastland County,,city-us,0,32.241,-98.958,86
+37438,Romney,PA,Fayette County,,city-us,0,40.046,-79.403,90

@@ -1,9 +1,5 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-36329,Oscar,LA,,city-us,900,30.62,-91.46,1799
-36327,Oscar,MN,,city-us,208,46.43,-96.23,1807
-36328,Oscar,KY,,city-us,0,37.14,-89.03,134
-36330,Oscar,MO,,city-us,0,37.41,-91.83,366
-36331,Oscar,OK,,city-us,0,33.98,-97.75,446
-36332,Oscar,PA,,city-us,0,40.84,-79.37,315
-36333,Oscar,TX,,city-us,0,31.05,-97.26,932
-36334,Oscar,WV,,city-us,0,38.06,-80.37,141
+id,name,state,county,country,level,population,latitude,longitude,wiki
+28062,Metamora,IL,Woodford County,,city-us,4509,40.799,-89.328,571
+28061,Metamora,MI,Lapeer County,,city-us,593,42.941,-83.289,4486
+28060,Metamora,OH,Fulton County,,city-us,557,41.712,-83.910,3636
+28059,Metamora,IN,Franklin County,,city-us,448,39.450,-85.139,1650

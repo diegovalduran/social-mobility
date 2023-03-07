@@ -1,3 +1,22 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-47304,Darr,NE,,city-us,0,40.82,-99.88,440
-47305,Dare,VA,,city-us,0,37.17,-76.44,146
+id,name,state,county,country,level,population,latitude,longitude,wiki
+46187,Westfield,IN,Hamilton County,,city-us,50630,40.043,-86.127,7130
+46188,Westfield,MA,Hampden County,,city-us,40575,42.125,-72.750,19360
+46201,Westfield,NJ,Union County,,city-us,30754,40.659,-74.347,35786
+46184,Westfield,NY,Chautauqua County,,city-us,4513,42.268,-79.600,6282
+46192,Westfield,OH,Medina County,,city-us,2647,41.007,-81.900,126
+46200,Westfield,PA,Tioga County,,city-us,983,41.908,-77.534,2522
+46183,Westfield,IL,Bureau County,,city-us,838,41.448,-89.221,224
+46191,Westfield,WI,Marquette County,,city-us,802,43.859,-89.531,2488
+46185,Westfield,IL,Clark County,,city-us,643,39.459,-87.961,224
+46196,Westfield,WI,Sauk County,,city-us,588,43.426,-90.007,1808
+46194,Westfield,VT,Orleans County,,city-us,526,44.883,-72.485,2615
+46182,Westfield,ME,Aroostook County,,city-us,462,46.533,-67.966,2589
+46186,Westfield,MN,Dodge County,,city-us,429,43.895,-92.990,1855
+46195,Westfield,IA,Plymouth County,,city-us,121,42.756,-96.606,3664
+46198,Westfield,ND,Steele County,,city-us,46,47.622,-97.782,0
+46181,Westfield,VA,Albemarle County,,city-us,0,38.074,-78.486,73
+46189,Westfield,TX,Harris County,,city-us,0,30.020,-95.402,3626
+46190,Westfield,WV,Lewis County,,city-us,0,39.106,-80.455,127
+46193,Westfield,OH,Morrow County,,city-us,0,40.432,-82.982,222
+46197,Westfield,IN,St. Joseph County,,city-us,0,41.676,-86.380,251
+46199,Westfield,NC,Surry County,,city-us,0,36.475,-80.447,2447

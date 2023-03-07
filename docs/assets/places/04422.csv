@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32114,Carrsville,VA,,city-us,212,36.71,-76.83,4088
-32113,Carrsville,KY,,city-us,47,37.40,-88.37,2520
+id,name,state,county,country,level,population,latitude,longitude,wiki
+22809,Kerrville,TX,Kerr County,,city-us,24477,30.047,-99.140,12252
+22810,Kerrville,MO,Platte County,,city-us,0,39.378,-94.695,244
+22811,Kerrville,TN,Shelby County,,city-us,0,35.383,-89.858,1317

@@ -1,5 +1,3 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-33860,Swanville,ME,,city-us,1402,44.52,-69.01,4317
-33862,Swanville,MN,,city-us,517,45.90,-94.58,1858
-33861,Swanville,MN,,city-us,332,45.92,-94.64,3143
-33863,Swanville,IN,,city-us,0,38.69,-85.56,257
+id,name,state,county,country,level,population,latitude,longitude,wiki
+25118,Linville,VA,Rockingham County,,city-us,3547,38.521,-78.838,2698
+25117,Linville,NC,Avery County,,city-us,283,36.066,-81.870,2343

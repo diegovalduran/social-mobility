@@ -1,3 +1,53 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-23387,Wapello,IA,,city-us,2058,41.18,-91.19,3505
-23388,Wapello,ID,,city-us,0,43.25,-112.26,240
+id,name,state,county,country,level,population,latitude,longitude,wiki
+14324,Fairfield,CA,Solano County,,city-us,119705,38.249,-122.040,15861
+14304,Fairfield,CT,Greater Bridgeport Planning Region,,city-us,61949,41.176,-73.272,22012
+14291,Fairfield,OH,Butler County / Hamilton County,,city-us,44562,39.331,-84.543,17303
+14290,Fairfield,OH,Butler County,,city-us,22651,39.390,-84.524,437
+14315,Fairfield,OH,Mahoning County,,city-us,9897,40.906,-80.691,437
+14310,Fairfield,AL,Jefferson County,,city-us,9832,33.475,-86.919,7041
+14311,Fairfield,IA,Jefferson County,,city-us,9641,41.009,-91.963,23781
+14299,Fairfield,NJ,Essex County,,city-us,7818,40.883,-74.305,255
+14325,Fairfield,ME,Somerset County,,city-us,6496,44.652,-69.661,9838
+14298,Fairfield,NJ,Cumberland County,,city-us,5413,39.372,-75.239,255
+14333,Fairfield,IL,Wayne County,,city-us,4778,38.379,-88.360,4231
+14307,Fairfield,OH,Highland County,,city-us,3634,39.339,-83.556,437
+14302,Fairfield,TX,Freestone County,,city-us,2896,31.725,-96.165,3373
+14313,Fairfield,PA,Lycoming County,,city-us,2818,41.263,-76.873,401
+14301,Fairfield,VT,Franklin County,,city-us,2042,44.808,-72.928,4347
+14334,Fairfield,PA,Westmoreland County,,city-us,2042,40.332,-79.145,401
+14312,Fairfield,MI,Lenawee County,,city-us,1756,41.778,-84.069,3507
+14330,Fairfield,OH,Tuscarawas County,,city-us,1501,40.537,-81.381,437
+14314,Fairfield,OH,Madison County,,city-us,1474,39.847,-83.300,437
+14306,Fairfield,NY,Herkimer County,,city-us,1465,43.131,-74.938,4962
+14332,Fairfield,OH,Washington County,,city-us,1119,39.388,-81.736,437
+14308,Fairfield,OH,Huron County,,city-us,1099,41.109,-82.575,437
+14322,Fairfield,WI,Sauk County,,city-us,1082,43.535,-89.646,2376
+14319,Fairfield,WI,Rock County,,city-us,1078,42.633,-88.776,2376
+14296,Fairfield,PA,Crawford County,,city-us,1004,41.513,-80.114,401
+14329,Fairfield,MT,Teton County,,city-us,755,47.615,-111.980,6093
+14323,Fairfield,MI,Shiawassee County,,city-us,647,43.080,-84.337,177
+14283,Fairfield,OK,Adair County,,city-us,625,35.847,-94.612,2706
+14326,Fairfield,WA,Spokane County,,city-us,589,47.385,-117.172,4241
+14284,Fairfield,PA,Adams County,,city-us,532,39.787,-77.369,3157
+14294,Fairfield,NE,Clay County,,city-us,512,40.401,-98.099,198
+14292,Fairfield,ID,Camas County,,city-us,463,43.347,-114.792,4999
+14289,Fairfield,IL,Bureau County,,city-us,364,41.541,-89.802,2459
+14297,Fairfield,MN,Crow Wing County,,city-us,327,46.672,-93.965,216
+14309,Fairfield,NC,Hyde County,,city-us,290,35.541,-76.224,783
+14320,Fairfield,VA,Rockbridge County,,city-us,255,37.879,-79.289,802
+14327,Fairfield,TN,Sumner County,,city-us,244,36.620,-86.346,159
+14331,Fairfield,UT,Utah County,,city-us,161,40.262,-112.093,1874
+14303,Fairfield,ND,Grand Forks County,,city-us,131,47.803,-97.301,703
+14293,Fairfield,MO,Carroll County,,city-us,127,39.483,-93.706,84
+14287,Fairfield,ND,Billings County,,city-us,126,47.189,-103.222,703
+14318,Fairfield,KY,Nelson County,,city-us,122,37.934,-85.384,2078
+14285,Fairfield,SD,Beadle County,,city-us,106,44.502,-98.275,0
+14321,Fairfield,KS,Russell County,,city-us,23,38.748,-98.754,2787
+14286,Fairfield,TN,Bedford County,,city-us,0,35.567,-86.285,295
+14288,Fairfield,TN,Blount County,,city-us,0,35.763,-83.868,125
+14295,Fairfield,AL,Covington County,,city-us,0,31.252,-86.646,214
+14300,Fairfield,IN,Franklin County,,city-us,0,39.507,-84.995,520
+14305,Fairfield,TX,Harris County,,city-us,0,30.007,-95.748,1192
+14316,Fairfield,FL,Marion County,,city-us,0,29.367,-82.251,228
+14317,Fairfield,NJ,Monmouth County,,city-us,0,40.205,-74.214,482
+14328,Fairfield,MN,Swift County,,city-us,0,45.384,-95.974,85

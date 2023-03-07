@@ -1,6 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-16698,Montville,NJ,,city-us,22409,40.91,-74.36,20266
-16696,Montville,CT,,city-us,18478,41.46,-72.16,8627
-16700,Montville,OH,,city-us,13245,41.10,-81.83,126
-16697,Montville,ME,,city-us,1027,44.43,-69.29,3980
-16699,Montville,OH,,city-us,0,41.61,-81.05,344
+id,name,state,county,country,level,population,latitude,longitude,wiki
+9404,Colorado City,TX,Mitchell County,,city-us,4391,32.388,-100.865,3826
+9405,Colorado City,AZ,Mohave County,,city-us,2520,36.990,-112.976,9292
+9406,Colorado City,CO,Pueblo County,,city-us,2315,37.945,-104.835,2267

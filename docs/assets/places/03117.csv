@@ -1,13 +1,10 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-24801,Chesterfield,MO,,city-us,49703,38.66,-90.58,15042
-24800,Chesterfield,MI,,city-us,43381,42.67,-82.81,6950
-24802,Chesterfield,NH,,city-us,3603,42.89,-72.44,5239
-24798,Chesterfield,IN,,city-us,2485,40.11,-85.59,5991
-24804,Chesterfield,NY,,city-us,2452,44.45,-73.45,3995
-24806,Chesterfield,SC,,city-us,1331,34.74,-80.09,3127
-24799,Chesterfield,MA,,city-us,1178,42.38,-72.84,3527
-24805,Chesterfield,OH,,city-us,916,41.68,-84.16,2656
-24807,Chesterfield,TN,,city-us,779,35.63,-88.27,167
-24797,Chesterfield,IL,,city-us,707,39.22,-90.08,655
-24803,Chesterfield,NJ,,city-us,0,40.12,-74.64,1516
-24808,Chesterfield,VA,,city-us,0,37.38,-77.50,2847
+id,name,state,county,country,level,population,latitude,longitude,wiki
+15580,Fowler,CA,Fresno County,,city-us,6934,36.631,-119.678,3890
+15578,Fowler,IN,Benton County,,city-us,2328,40.617,-87.321,5081
+15583,Fowler,NY,St. Lawrence County,,city-us,2159,44.276,-75.403,3598
+15582,Fowler,CO,Otero County,,city-us,1246,38.129,-104.023,2992
+15579,Fowler,MI,Clinton County,,city-us,1233,43.002,-84.740,4527
+15581,Fowler,KS,Meade County,,city-us,532,37.386,-100.196,3566
+15577,Fowler,IL,Adams County,,city-us,154,40.008,-91.259,1110
+15584,Fowler,MO,Texas County,,city-us,0,37.233,-92.217,374
+15585,Fowler,OH,Trumbull County,,city-us,0,41.311,-80.656,419

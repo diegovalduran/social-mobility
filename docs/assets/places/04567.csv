@@ -1,3 +1,4 @@
-id,name,state,country,level,population,latitude,longitude,wiki
-32645,Garyville,LA,,city-us,2102,30.06,-90.62,3133
-32646,Geryville,PA,,city-us,0,40.42,-75.48,748
+id,name,state,county,country,level,population,latitude,longitude,wiki
+23390,La Rue,OH,Marion County,,city-us,679,40.576,-83.385,5098
+23391,La Rue,WI,Sauk County,,city-us,0,43.436,-89.889,379
+23392,La Rue,IL,Union County,,city-us,0,37.546,-89.454,240
