@@ -12,9 +12,6 @@
 	{#each features as feature}
 		<!-- svelte-ignore a11y-click-events-have-key-events -->
 		<path
-			on:click={() => {
-				console.table(feature.properties.data);
-			}}
 			style:stroke
 			style:stroke-width="{strokeWidth}px"
 			style:fill={feature.properties.fill || fill}

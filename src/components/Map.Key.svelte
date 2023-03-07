@@ -79,7 +79,7 @@
 		padding: 0;
 	}
 
-	li {
+	.top li {
 		font-weight: bold;
 		margin-right: 16px;
 		margin-bottom: 8px;
@@ -87,7 +87,6 @@
 		flex-direction: column;
 		font-weight: 700;
 		letter-spacing: 0.02em;
-		flex: 1 1 0;
 		width: calc(22.22% - 16px);
 	}
 

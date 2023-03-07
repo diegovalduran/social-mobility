@@ -42,7 +42,7 @@
 	const COLOR_FG = variables[CAT].fg;
 
 	const ASPECT_RATIO = "975/610";
-	const projectionObject = counties;
+	const projectionObject = states;
 	const stateFeatures = states.features;
 
 	let colors = [];
@@ -406,7 +406,7 @@
 		<MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} />
 		<MapSvg>
 			<!-- <MapPath features={featuresCounties} stroke="rgba(0, 0, 0, 0.25)" /> -->
-			<MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="1" />
+			<MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="0.5" />
 			{#key placeName}
 				<MapPoints
 					features={placeFeaturesRender.filter(

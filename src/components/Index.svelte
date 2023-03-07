@@ -28,6 +28,7 @@
 	}
 
 	onMount(async () => {
+		onChangePlace(classics[0]);
 		try {
 			// TODO remove test
 			const test = true;
@@ -66,7 +67,7 @@
 						<h4>{copy.classic}:</h4>
 						<ul>
 							{#each classics as d}
-								{@const { name, phone } = d}
+								{@const { name } = d}
 								<li>
 									<button on:click={() => onChangePlace(d)}>{name}</button>
 								</li>
@@ -79,7 +80,7 @@
 							<h4>{copy.locate}:</h4>
 							<ul>
 								{#each options as d}
-									{@const { name, phone, state } = d}
+									{@const { name, state } = d}
 									<li>
 										<button on:click={() => onChangePlace(d)}
 											>{name}, {state}</button

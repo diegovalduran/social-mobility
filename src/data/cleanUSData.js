@@ -2,11 +2,11 @@ import * as topojson from "topojson-client";
 import { geoCentroid } from "d3";
 
 export default function cleanUSData({ us, stateLookup }) {
-	const countyShapesRaw = topojson.feature(us, us.objects.counties);
+	const countiesRaw = topojson.feature(us, us.objects.counties);
 
 	const counties = {
-		...countyShapesRaw,
-		features: countyShapesRaw.features
+		...countiesRaw,
+		features: countiesRaw.features
 			.map((d) => ({
 				...d,
 				properties: {
@@ -20,7 +20,65 @@ export default function cleanUSData({ us, stateLookup }) {
 			.filter((d) => d.properties.name !== "Aleutians West")
 	};
 
-	const states = topojson.feature(us, us.objects.states);
+	const filterAlaska = (feature) => {
+		const coordinates = feature.geometry.coordinates.filter(([coords]) => {
+			if (coords[0][0] <= -166 && coords[0][1] <= 54) return false;
+			else if (coords[0][0] > 0) return false;
+			return true;
+		});
+		return {
+			...feature,
+			geometry: {
+				...feature.geometry,
+				coordinates
+			}
+		};
+	};
+
+	// const cleanAlaska = (d) => {
+	// 	const arcs = d.arcs.filter(([[c]]) => {
+	// 		return false;
+	// 		return true;
+	// 	});
+	// 	console.log(arcs);
+	// 	return {
+	// 		...d,
+	// 		arcs: []
+	// 	};
+	// };
+
+	// const usObjectsStates = {
+	// 	...us.objects.states,
+	// 	geometries: us.objects.states.geometries.filter((d) => {
+	// 		if (d.properties.name === "Alaska") {
+	// 			const x = cleanAlaska(d);
+	// 			console.log({ x });
+	// 			return {
+	// 				...d,
+	// 				arcs: []
+	// 			};
+	// 		}
+	// 		return true;
+	// 	})
+	// };
+
+	// const usa = {
+	// 	...us,
+	// 	objects: {
+	// 		...us.objects,
+	// 		states: usObjectsStates
+	// 	}
+	// };
+
+	const statesRaw = topojson.feature(us, us.objects.states);
+	const states = {
+		...statesRaw,
+		features: statesRaw.features.map((d) => {
+			if (d.properties.name === "Alaska") return filterAlaska(d);
+			return d;
+		})
+	};
+
 	// const nation = topojson.feature(us, us.objects.nation);
 
 	return { counties, states };
