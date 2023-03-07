@@ -35,6 +35,8 @@
 	--color-input-fg: var(--color-fg);
 	--color-placeholder: var(--color-fg);
 
+	--col-width: 800px;
+
 	/* "1" second duration */
 	--1s: 1ms;
 }
@@ -84,8 +86,14 @@ table caption {
 	text-align: center;
 }
 
-@media only screen and (min-width: 960px) {
-	p {
-		font-size: var(--20px);
+summary {
+	cursor: pointer;
+	background: var(--color-mark);
+	padding: 8px;
+}
+
+@media only screen and (min-width: 1280px) {
+	p, details, li, input, button {
+		font-size: var(--20px) !important;
 	}
 }

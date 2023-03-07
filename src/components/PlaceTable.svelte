@@ -12,6 +12,6 @@
 <style>
 	div {
 		margin: 32px auto;
-		max-width: 800px;
+		max-width: var(--col-width);
 	}
 </style>

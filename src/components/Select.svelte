@@ -13,7 +13,7 @@
 </script>
 
 <Typeahead
-	label="Find a town/city"
+	label="Look up a city or town in the US"
 	data={options}
 	{extract}
 	on:select={onSelect}
@@ -54,5 +54,11 @@
 	:global([data-svelte-typeahead] li.selected) {
 		background: var(--color-mark) !important;
 		color: var(--color-fg) !important;
+	}
+
+	:global([data-svelte-typeahead] label) {
+		font-weight: bold;
+		text-transform: uppercase;
+		font-size: var(--14px) !important;
 	}
 </style>

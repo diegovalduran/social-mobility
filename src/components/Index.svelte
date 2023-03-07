@@ -5,6 +5,7 @@
 	import { csv } from "d3";
 	import storage from "$utils/localStorage.js";
 	import getNearestOptions from "$utils/getNearestOptions.js";
+	import getCountiesByDist from "$utils/getCountiesByDist.js";
 	import getLocation from "$utils/getLocation.js";
 	import Footer from "$components/Footer.svelte";
 	import classics from "$data/classics.csv";
@@ -19,7 +20,8 @@
 	let placeData;
 	let location;
 	let options;
-	let open = true;
+	let countiesByDist;
+	let open = false;
 
 	function onChangePlace({ name, phoneme }) {
 		open = false;
@@ -32,13 +34,14 @@
 		try {
 			// TODO remove test
 			const test = true;
+			if (test) storage.remove("pudding_samename");
 			const storageLocation = storage.get("pudding_samename");
 			location = storageLocation || (await getLocation(test)) || {};
 			if (!storageLocation && location?.state)
 				storage.set("pudding_samename", location);
 			if (location?.state) {
-				// location.county = getNearestCounty(location);
 				options = await getNearestOptions(location);
+				countiesByDist = await getCountiesByDist(location, options[0].county);
 			}
 			location.lat = +location?.lat;
 			location.lon = +location?.lon;
@@ -60,11 +63,11 @@
 		<p>{copy.intro}</p>
 		<div class="discover">
 			<details {open}>
-				<summary>discover</summary>
+				<summary>{copy.discoverySummary}</summary>
 
 				<div class="inner">
 					<div class="classic">
-						<h4>{copy.classic}:</h4>
+						<p>{copy.classic}</p>
 						<ul>
 							{#each classics as d}
 								{@const { name } = d}
@@ -77,7 +80,7 @@
 
 					{#if options && options.length}
 						<div class="locate">
-							<h4>{copy.locate}:</h4>
+							<p>{copy.locate}</p>
 							<ul>
 								{#each options as d}
 									{@const { name, state } = d}
@@ -108,6 +111,7 @@
 				placeName={currentName}
 				{location}
 				countyTableIntro={copy.countyTableIntro}
+				{countiesByDist}
 			/>
 			<p>{@html copy.help}</p>
 		{/if}
@@ -134,12 +138,16 @@
 		display: flex;
 	}
 
-	/* details {
-		width: 100%;
-	} */
+	.inner > div {
+		width: 50%;
+	}
 
-	h4 {
+	.inner p {
 		text-align: center;
+		font-weight: bold;
+		text-transform: uppercase;
+		font-size: var(--16px);
+		margin-bottom: 0;
 	}
 
 	ul {
@@ -160,5 +168,14 @@
 
 	.select {
 		margin-top: 16px;
+	}
+
+	#interactive {
+		margin: 64px auto;
+	}
+
+	#interactive p {
+		max-width: var(--col-width);
+		margin: 0 auto;
 	}
 </style>

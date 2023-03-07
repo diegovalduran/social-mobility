@@ -12,8 +12,12 @@
 </div>
 
 <style>
+	p {
+		margin: 48px 0;
+	}
+
 	div {
 		margin: 32px auto;
-		max-width: 800px;
+		max-width: var(--col-width);
 	}
 </style>

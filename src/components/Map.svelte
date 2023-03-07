@@ -50,8 +50,6 @@
 	let scaleWiki;
 	let scaleDist;
 
-	export let countyTableIntro;
-
 	export let location;
 	export let placeData;
 	export let placeName;
@@ -75,6 +73,9 @@
 	export let thresholdLower = 0.5;
 	export let thresholdUpper = 0.75;
 	export let valueProp = "share";
+
+	export let countyTableIntro;
+	export let countiesByDist = [];
 
 	function getLabel(d) {
 		const isCity = d.level === "city-us";
@@ -300,15 +301,26 @@
 		const a = d.properties.data[0];
 		const b = d.properties.data[1];
 
+		const match = countiesByDist.find((c) => c.id === d.id);
+		const index = match?.index;
+		const style =
+			match?.index === -1 ? "background: var(--cat-toss-primary);" : "";
 		return {
 			name: d.properties.name,
 			state: d.properties.state,
 			labelA: a.label,
 			valueA: +format(".0f")((a[valueProp] / maxValue) * 100),
 			labelB: b.label,
-			valueB: +format(".0f")((b[valueProp] / maxValue) * 100)
+			valueB: +format(".0f")((b[valueProp] / maxValue) * 100),
+			index,
+			style
 		};
 	});
+
+	$: {
+		countyRows.sort((a, b) => ascending(a.index, b.index));
+		countyRows = [...countyRows];
+	}
 
 	$: countyColumns = [
 		{ prop: "name", label: "County" },

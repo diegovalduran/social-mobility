@@ -11,7 +11,7 @@ export default async function getNearestOptions({ lat, lon, state }) {
 		const withDist = places.map((p) => ({
 			...p,
 			state,
-			dist: haversine([+lat, +lon], [+p.latitude, +p.longitude])
+			dist: haversine([+lon, +lat], [+p.longitude, +p.latitude])
 		}));
 		withDist.sort((a, b) => ascending(a.dist, b.dist));
 		return withDist.slice(0, 5);

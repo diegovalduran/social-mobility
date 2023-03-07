@@ -44,6 +44,7 @@ function makeCoordinates() {
 			phoneme: d.phoneme,
 			name: d.name,
 			state: d.state,
+			county: d.county,
 			latitude: d.latitude,
 			longitude: d.longitude
 		}));
