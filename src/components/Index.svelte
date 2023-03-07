@@ -11,6 +11,7 @@
 	import classics from "$data/classics.csv";
 	import Map from "$components/Map.svelte";
 	import Select from "$components/Select.svelte";
+	import Icon from "$components/helpers/Icon.svelte";
 
 	const copy = getContext("copy");
 	const data = getContext("data");
@@ -115,6 +116,10 @@
 			/>
 			<p>{@html copy.help}</p>
 		{/if}
+
+		<div class="share">
+			<button>Share this map <Icon name="forward" strokeWidth="3px" /></button>
+		</div>
 	</section>
 </article>
 
@@ -177,5 +182,17 @@
 	#interactive p {
 		max-width: var(--col-width);
 		margin: 0 auto;
+	}
+
+	.share {
+		position: fixed;
+		bottom: 16px;
+		right: 16px;
+	}
+
+	.share button {
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: var(--16px) !important;
 	}
 </style>

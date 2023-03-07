@@ -8,7 +8,8 @@
 		scalePow,
 		scaleLog,
 		csvFormat,
-		sum
+		sum,
+		color
 	} from "d3";
 	import Figure from "$components/Figure.svelte";
 	import MapSvg from "$components/Figure.MapSvg.svelte";
@@ -44,6 +45,7 @@
 	const ASPECT_RATIO = "975/610";
 	const projectionObject = states;
 	const stateFeatures = states.features;
+	const countyStroke = color(COLOR_FG).copy({ opacity: 0.33 }).toString();
 
 	let colors = [];
 	let scalePop;
@@ -421,9 +423,13 @@
 
 <div class="figure">
 	<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
-		<MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} />
+		<!-- <MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} /> -->
 		<MapSvg>
-			<!-- <MapPath features={featuresCounties} stroke="rgba(0, 0, 0, 0.25)" /> -->
+			<MapPath
+				features={countyFeaturesRender}
+				stroke={countyStroke}
+				strokeWidth="0.5"
+			/>
 			<MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="0.5" />
 			{#key placeName}
 				<MapPoints

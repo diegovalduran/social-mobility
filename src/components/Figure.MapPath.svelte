@@ -9,7 +9,7 @@
 </script>
 
 <g class="g-map-path">
-	{#each features as feature}
+	{#each features as feature (feature.id)}
 		<!-- svelte-ignore a11y-click-events-have-key-events -->
 		<path
 			style:stroke
