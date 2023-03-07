@@ -12,32 +12,32 @@
     "bg": "#fffaf0",
     "fg": "#433f37",
     "c0": {
-      "probably": "#e80700",
-      "maybe": "#ff5651",
-      "textProbably": "#fffafa",
-      "textMaybe": "#5d0300"
+      "primary": "#e80700",
+      "secondary": "#ff5651",
+      "textPrimary": "#fffafa",
+      "textSecondary": "#5d0300"
     },
     "c1": {
-      "probably": "#3c7d7f",
-      "maybe": "#4b9ea2",
-      "textProbably": "#f5fafa",
-      "textMaybe": "#162e30"
+      "primary": "#3c7d7f",
+      "secondary": "#4b9ea2",
+      "textPrimary": "#f5fafa",
+      "textSecondary": "#162e30"
     },
     "c2": {
-      "probably": "#b039dd",
-      "maybe": "#c56de6",
-      "textProbably": "#fdf9fe",
-      "textMaybe": "#460f5a"
+      "primary": "#b039dd",
+      "secondary": "#c56de6",
+      "textPrimary": "#fdf9fe",
+      "textSecondary": "#460f5a"
     },
     "other": {
-      "probably": "#83724E",
-      "maybe": "#9F8F60",
-      "textProbably": "#fcfbfa",
-      "textMaybe": "#2e291c"
+      "primary": "#83724E",
+      "secondary": "#9F8F60",
+      "textPrimary": "#fcfbfa",
+      "textSecondary": "#2e291c"
     },
     "toss": {
-      "probably": "#d6cdbb",
-      "textProbably": "#63563b"
+      "primary": "#d6cdbb",
+      "textPrimary": "#63563b"
     }
   },
   "cat3": {

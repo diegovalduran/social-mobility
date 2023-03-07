@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Mar 2023 14:50:54 GMT
+ * Generated on Tue, 07 Mar 2023 12:56:47 GMT
  */
 
 :root {
@@ -13,24 +13,24 @@
   --cat1-default: #8e8e8e;
   --cat2-bg: #fffaf0;
   --cat2-fg: #433f37;
-  --cat2-c0-probably: #e80700;
-  --cat2-c0-maybe: #ff5651;
-  --cat2-c0-text-probably: #fffafa;
-  --cat2-c0-text-maybe: #5d0300;
-  --cat2-c1-probably: #3c7d7f;
-  --cat2-c1-maybe: #4b9ea2;
-  --cat2-c1-text-probably: #f5fafa;
-  --cat2-c1-text-maybe: #162e30;
-  --cat2-c2-probably: #b039dd;
-  --cat2-c2-maybe: #c56de6;
-  --cat2-c2-text-probably: #fdf9fe;
-  --cat2-c2-text-maybe: #460f5a;
-  --cat2-other-probably: #83724E;
-  --cat2-other-maybe: #9F8F60;
-  --cat2-other-text-probably: #fcfbfa;
-  --cat2-other-text-maybe: #2e291c;
-  --cat2-toss-probably: #d6cdbb;
-  --cat2-toss-text-probably: #63563b;
+  --cat2-c0-primary: #e80700;
+  --cat2-c0-secondary: #ff5651;
+  --cat2-c0-text-primary: #fffafa;
+  --cat2-c0-text-secondary: #5d0300;
+  --cat2-c1-primary: #3c7d7f;
+  --cat2-c1-secondary: #4b9ea2;
+  --cat2-c1-text-primary: #f5fafa;
+  --cat2-c1-text-secondary: #162e30;
+  --cat2-c2-primary: #b039dd;
+  --cat2-c2-secondary: #c56de6;
+  --cat2-c2-text-primary: #fdf9fe;
+  --cat2-c2-text-secondary: #460f5a;
+  --cat2-other-primary: #83724E;
+  --cat2-other-secondary: #9F8F60;
+  --cat2-other-text-primary: #fcfbfa;
+  --cat2-other-text-secondary: #2e291c;
+  --cat2-toss-primary: #d6cdbb;
+  --cat2-toss-text-primary: #63563b;
   --cat3-bg: #071C3E;
   --cat3-fg: #F3F6FB;
   --cat3-c0-a: #9AA0F5;

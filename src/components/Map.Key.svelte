@@ -24,19 +24,19 @@
 			</li>
 			{#each top as { properties }}
 				{@const { fills, label } = properties}
-				<li style:color={fills.probably}>
+				<li style:color={fills.primary}>
 					<span class="fills">
 						<span
 							class="fill"
-							style:background={fills.probably}
-							style:color={fills.textProbably}
-							><span class="text">probably</span></span
+							style:background={fills.primary}
+							style:color={fills.textPrimary}
+							><span class="text">primary</span></span
 						>
 						<span
 							class="fill"
-							style:background={fills.maybe}
-							style:color={fills.textMaybe}
-							><span class="text">maybe</span></span
+							style:background={fills.secondary}
+							style:color={fills.textSecondary}
+							><span class="text">secondary</span></span
 						>
 					</span>
 					<span class="label">{label}</span>
@@ -44,19 +44,19 @@
 			{/each}
 			<!-- others -->
 			{#if others}
-				<li style:color={others.fills.probably}>
+				<li style:color={others.fills.primary}>
 					<span class="fills">
 						<span
 							class="fill"
-							style:background={others.fills.probably}
-							style:color={others.fills.textProbably}
-							><span class="text">probably</span></span
+							style:background={others.fills.primary}
+							style:color={others.fills.textPrimary}
+							><span class="text">primary</span></span
 						>
 						<span
 							class="fill"
-							style:background={others.fills.maybe}
-							style:color={others.fills.textMaybe}
-							><span class="text">maybe</span></span
+							style:background={others.fills.secondary}
+							style:color={others.fills.textSecondary}
+							><span class="text">secondary</span></span
 						>
 					</span>
 					<span class="label">{otherLabel}</span>
@@ -145,7 +145,7 @@
 	} */
 
 	/* .top li:nth-of-type(2):before {
-		content: "probably";
+		content: "primary";
 		display: block;
 		position: absolute;
 		top: 0;
@@ -156,7 +156,7 @@
 	}
 
 	.top li:nth-of-type(2):after {
-		content: "maybe";
+		content: "secondary";
 		display: block;
 		position: absolute;
 		top: 0;

@@ -208,8 +208,8 @@
 	$: tally = byLabel.map(([label, values]) => ({
 		label,
 		count: values.filter((v) => v.tier).length,
-		countProbably: values.filter((v) => v.tier === 2).length,
-		countMaybe: values.filter((v) => v.tier === 1).length
+		countPrimary: values.filter((v) => v.tier === 2).length,
+		countSecondary: values.filter((v) => v.tier === 1).length
 	}));
 
 	$: {
@@ -253,7 +253,7 @@
 				...d.properties,
 				...match,
 				fills: colorLookup[d.properties.label],
-				fill: colorLookup[d.properties.label].probably
+				fill: colorLookup[d.properties.label].primary
 			}
 		};
 	});
@@ -261,9 +261,9 @@
 	$: countyFeaturesRender = countyFeatures.map((d) => {
 		const fill = d.properties.topTier
 			? colorLookup[d.properties.topLabel][
-					d.properties.topTier === 2 ? "probably" : "maybe"
+					d.properties.topTier === 2 ? "primary" : "secondary"
 			  ]
-			: COLOR_TOSS.probably;
+			: COLOR_TOSS.primary;
 
 		return {
 			...d,
@@ -324,14 +324,14 @@
 	$: placeColumns = [
 		{ prop: "label", label: "place" },
 		{
-			prop: "countProbably",
-			label: "Counties (probably)",
+			prop: "countPrimary",
+			label: "Counties (primary)",
 			formatFn: format(","),
 			type: "number"
 		},
 		{
-			prop: "countMaybe",
-			label: "Counties (maybe)",
+			prop: "countSecondary",
+			label: "Counties (secondary)",
 			formatFn: format(","),
 			type: "number"
 		},
@@ -358,10 +358,10 @@
 
 	$: topPlace = placeFeaturesRender[0].properties;
 	$: topLabel = topPlace.label;
-	$: topColorMaybe = topPlace.fills.maybe;
-	$: topColorProbably = topPlace.fills.probably;
-	$: topColorTextProbably = topPlace.fills.textProbably;
-	$: topColorTextMaybe = topPlace.fills.textMaybe;
+	$: topColorSecondary = topPlace.fills.secondary;
+	$: topColorPrimary = topPlace.fills.primary;
+	$: topColorTextPrimary = topPlace.fills.textPrimary;
+	$: topColorTextSecondary = topPlace.fills.textSecondary;
 </script>
 
 <div class="info">
@@ -370,34 +370,34 @@
 	</h2>
 
 	<h2>
-		In the US, <strong style:color={topColorProbably}>{topLabel}</strong> is
+		In the US, <strong style:color={topColorPrimary}>{topLabel}</strong> is
 		most often what someone means by <strong>{placeName}.</strong>
 	</h2>
 	<h2>
 		In most counties, <strong>{placeName}</strong> means
-		<strong style:color={topColorProbably}>{topLabel}.</strong>
-		<mark style:background={topColorProbably} style:color={topColorTextProbably}
-			>Probably.</mark
+		<strong style:color={topColorPrimary}>{topLabel}.</strong>
+		<mark style:background={topColorPrimary} style:color={topColorTextPrimary}
+			>primary.</mark
 		>
-		<mark style:background={topColorMaybe} style:color={topColorTextMaybe}
-			>Maybe?</mark
+		<mark style:background={topColorSecondary} style:color={topColorTextSecondary}
+			>secondary?</mark
 		>
 	</h2>
 
 	<h2>
 		If someone refers to <strong>{placeName}</strong>, they
-		<mark style="--bg: {topColorProbably}; --fg:{topColorTextProbably};"
-			>probably</mark
+		<mark style="--bg: {topColorPrimary}; --fg:{topColorTextPrimary};"
+			>primary</mark
 		>
-		<mark style="--bg: {topColorMaybe}; --fg:{topColorTextMaybe};">(maybe)</mark
+		<mark style="--bg: {topColorSecondary}; --fg:{topColorTextSecondary};">(secondary)</mark
 		>
 		mean
-		<strong style:color={topColorProbably}>{topLabel}.</strong>
+		<strong style:color={topColorPrimary}>{topLabel}.</strong>
 	</h2> -->
 
 	<h2>
 		In most parts of the US, <strong>{placeName}</strong> usually refers to
-		<strong style:color={topColorProbably}>{topLabel}.</strong>
+		<strong style:color={topColorPrimary}>{topLabel}.</strong>
 	</h2>
 </div>
 
@@ -441,8 +441,8 @@
 <MapKey
 	max={MAX_COLORS}
 	features={keyFeatures}
-	colorToss={COLOR_TOSS.probably}
-	colorTossText={COLOR_TOSS.textProbably}
+	colorToss={COLOR_TOSS.primary}
+	colorTossText={COLOR_TOSS.textPrimary}
 />
 <PlaceTable
 	caption="Every {placeName} and how many counties they..."
