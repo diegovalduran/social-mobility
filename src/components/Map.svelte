@@ -23,7 +23,7 @@
 	import addDataToCounties from "$data/addDataToCounties.js";
 	import variables from "$data/variables.json";
 
-	const CAT = "cat2";
+	const CAT = "cat";
 
 	const COLORS_RAW = [
 		variables[CAT].c0,
@@ -49,6 +49,8 @@
 	let scalePop;
 	let scaleWiki;
 	let scaleDist;
+
+	export let countyTableIntro;
 
 	export let location;
 	export let placeData;
@@ -294,7 +296,7 @@
 	// 	count: values.length
 	// }));
 
-	$: countyRows = countiesWithData.features.map((d) => {
+	$: countyRows = countyFeaturesRender.map((d) => {
 		const a = d.properties.data[0];
 		const b = d.properties.data[1];
 
@@ -309,29 +311,31 @@
 	});
 
 	$: countyColumns = [
-		{ prop: "name", label: "county" },
-		{ prop: "state", label: "state" },
-		{ prop: "labelA", label: "1st name" },
-		{ prop: "valueA", label: "1st score", type: "number" },
-		{ prop: "labelB", label: "2nd name" },
-		{ prop: "valueB", label: "2nd score", type: "number" }
+		{ prop: "name", label: "County" },
+		{ prop: "state", label: "State" },
+		{ prop: "labelA", label: "1st Place" },
+		{ prop: "valueA", label: "1st Score", type: "number" },
+		{ prop: "labelB", label: "2nd Place" },
+		{ prop: "valueB", label: "2nd Score", type: "number" }
 	];
 
 	$: placeRows = placeFeaturesRender.map((d) => ({
-		...d.properties
+		...d.properties,
+		style: `background-color: ${d.properties.fills.secondary}; color: ${d.properties.fills.textSecondary};`
 	}));
 
 	$: placeColumns = [
-		{ prop: "label", label: "place" },
+		{ prop: "label", label: "Place" },
 		{
 			prop: "countPrimary",
-			label: "Counties (primary)",
+			label: "Counties (probably)",
 			formatFn: format(","),
-			type: "number"
+			type: "number",
+			dir: "desc"
 		},
 		{
 			prop: "countSecondary",
-			label: "Counties (secondary)",
+			label: "Counties (maybe)",
 			formatFn: format(","),
 			type: "number"
 		},
@@ -362,6 +366,7 @@
 	$: topColorPrimary = topPlace.fills.primary;
 	$: topColorTextPrimary = topPlace.fills.textPrimary;
 	$: topColorTextSecondary = topPlace.fills.textSecondary;
+	$: plural = `${placeName}${placeName.endsWith("s") ? "" : "s"}`;
 </script>
 
 <div class="info">
@@ -445,11 +450,17 @@
 	colorTossText={COLOR_TOSS.textPrimary}
 />
 <PlaceTable
-	caption="Every {placeName} and how many counties they..."
+	caption="Details for every place named {placeName}"
 	rows={placeRows}
 	columns={placeColumns}
 />
-<CountyTable rows={countyRows} columns={countyColumns} />
+
+<CountyTable
+	{countyTableIntro}
+	caption="The top scoring {plural} for each county"
+	rows={countyRows}
+	columns={countyColumns}
+/>
 
 <style>
 	:global(g .other text) {

@@ -42,4 +42,17 @@
 	:global([data-svelte-typeahead] label) {
 		font-size: var(--16px) !important;
 	}
+
+	:global([data-svelte-typeahead] input:focus) {
+		outline-color: var(--color-focus) !important;
+	}
+
+	:global([data-svelte-typeahead] li) {
+		border-color: var(--color-mark) !important;
+	}
+
+	:global([data-svelte-typeahead] li.selected) {
+		background: var(--color-mark) !important;
+		color: var(--color-fg) !important;
+	}
 </style>

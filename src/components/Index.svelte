@@ -103,7 +103,12 @@
 
 	<section id="interactive">
 		{#if placeData}
-			<Map {placeData} placeName={currentName} {location} />
+			<Map
+				{placeData}
+				placeName={currentName}
+				{location}
+				countyTableIntro={copy.countyTableIntro}
+			/>
 			<p>{@html copy.help}</p>
 		{/if}
 	</section>

@@ -30,13 +30,13 @@
 							class="fill"
 							style:background={fills.primary}
 							style:color={fills.textPrimary}
-							><span class="text">primary</span></span
+							><span class="text">probably</span></span
 						>
 						<span
 							class="fill"
 							style:background={fills.secondary}
 							style:color={fills.textSecondary}
-							><span class="text">secondary</span></span
+							><span class="text">maybe</span></span
 						>
 					</span>
 					<span class="label">{label}</span>

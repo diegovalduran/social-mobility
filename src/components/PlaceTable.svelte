@@ -5,6 +5,13 @@
 	export let caption;
 </script>
 
-<div class="places">
-	<SortTable {caption} {rows} {columns} />
+<div class="place-table">
+	<SortTable {caption} {rows} {columns} scrollable={true} --height={"360px"} />
 </div>
+
+<style>
+	div {
+		margin: 32px auto;
+		max-width: 800px;
+	}
+</style>

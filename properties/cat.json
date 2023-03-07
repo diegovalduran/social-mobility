@@ -1,14 +1,5 @@
 {
-	"cat1": {
-		"bg": { "value": "#F3F6FB"},
-		"fg": { "value": "#1a1a1a"},
-		"c0" : { "value": "#4047CA" },
-		"c1" : { "value": "#12B5AE" },
-		"c2" : { "value": "#F68511" },
-		"c3" : { "value": "#DF3D82" },
-		"default": { "value": "#8e8e8e" }
-	},
-	"cat2": {
+	"cat": {
 		"bg": {"value": "#fffaf0"},
 		"fg": {"value":"#433f37"},
 		"c0": { "primary": { "value": "#e80700"}, "secondary": {"value": "#ff5651"}, "textPrimary": {"value": "#fffafa" }, "textSecondary": {"value": "#5d0300"} },
@@ -17,7 +8,7 @@
 		"other": { "primary": {"value": "#83724E"}, "secondary": {"value": "#9F8F60" }, "textPrimary": {"value": "#fcfbfa"} , "textSecondary": {"value": "#2e291c"} },
 		"toss": { "primary": {"value": "#d6cdbb"}, "textPrimary": {"value": "#63563b"} }
 	},
-	"cat3": {
+	"cat2": {
 		"bg": { "value": "#071C3E"},
 		"fg": { "value": "#F3F6FB"},
 		"c0": { "a": { "value": "#9AA0F5"}, "b": {"value": "#5E64B9"}, "text": {"value": "#8187DC" } },
