@@ -367,6 +367,7 @@
 	$: topColorTextPrimary = topPlace.fills.textPrimary;
 	$: topColorTextSecondary = topPlace.fills.textSecondary;
 	$: plural = `${placeName}${placeName.endsWith("s") ? "" : "s"}`;
+	$: figcaption = `A choropleth map of US counties that shows which place named ${placeName} that county is most likely to refer to based on a combination of proximity, population, and Wikipedia article length. The most commonly referred to place is ${topLabel}.`;
 </script>
 
 <div class="info">
@@ -440,6 +441,7 @@
 			<!-- <figcaption slot="figcaption"></figcaption> -->
 		</MapSvg>
 		<!-- svelte-ignore a11y-structure -->
+		<figcaption class="sr-only">{figcaption}</figcaption>
 	</Figure>
 </div>
 
