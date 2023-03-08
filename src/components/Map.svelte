@@ -486,22 +486,7 @@
 		display: none;
 	}
 
-	mark {
-		background: none;
-	}
-
-	mark {
-		background-image: linear-gradient(
-			to bottom,
-			transparent 0%,
-			var(--bg) 0%,
-			var(--bg) 100%
-		);
-		color: var(--fg);
-	}
-
 	.info {
-		/* max-width: 40em; */
 		margin: 0 auto;
 	}
 
