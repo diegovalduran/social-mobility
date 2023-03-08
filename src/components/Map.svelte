@@ -343,17 +343,11 @@
 	$: placeColumns = [
 		{ prop: "label", label: "Place" },
 		{
-			prop: "countPrimary",
-			label: "Counties (probably)",
+			prop: "count",
+			label: "Counties",
 			formatFn: format(","),
 			type: "number",
 			dir: "desc"
-		},
-		{
-			prop: "countSecondary",
-			label: "Counties (maybe)",
-			formatFn: format(","),
-			type: "number"
 		},
 		{
 			prop: "population",

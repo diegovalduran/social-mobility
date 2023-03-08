@@ -9,7 +9,7 @@
 <div class="place-table">
 	<SortTable {caption} {rows} {columns} scrollable={true} --height={"360px"} />
 	<p>
-		Note: {note}
+		Note: {@html note}
 	</p>
 </div>
 
