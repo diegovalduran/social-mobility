@@ -23,28 +23,12 @@
 
 <style>
 	:global([data-svelte-typeahead]) {
-		background: var(--color-bg);
-		color: var(--color-fg);
-	}
-
-	:global([data-svelte-typeahead] mark) {
-		padding: 0;
-	}
-
-	:global([data-svelte-typeahead]) {
 		background: none !important;
+		color: var(--color-fg) !important;
 	}
 
 	:global([data-svelte-typeahead] ul) {
 		background: var(--color-bg) !important;
-	}
-
-	:global([data-svelte-typeahead] label) {
-		font-size: var(--16px) !important;
-	}
-
-	:global([data-svelte-typeahead] input:focus) {
-		outline-color: var(--color-focus) !important;
 	}
 
 	:global([data-svelte-typeahead] li) {
@@ -56,9 +40,21 @@
 		color: var(--color-fg) !important;
 	}
 
-	:global([data-svelte-typeahead] label) {
+	:global([data-svelte-typeahead] mark) {
+		padding: 0;
+	}
+
+	:global([data-svelte-typeahead] [data-svelte-search] input) {
+		outline-color: var(--color-fg);
+	}
+
+	:global([data-svelte-typeahead] [data-svelte-search] input:focus) {
+		outline-color: var(--color-focus);
+	}
+
+	:global([data-svelte-typeahead] [data-svelte-search] label) {
 		font-weight: bold;
 		text-transform: uppercase;
-		font-size: var(--14px) !important;
+		font-size: var(--14px);
 	}
 </style>

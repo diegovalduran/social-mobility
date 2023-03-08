@@ -101,10 +101,11 @@
 
 	span.fill {
 		display: inline-flex;
-		flex-grow: 1;
+		flex: 1;
 		height: 24px;
 		align-items: center;
 		font-size: var(--16px);
+		width: 50%;
 	}
 
 	span.label {
