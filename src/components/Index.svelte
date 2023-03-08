@@ -128,7 +128,6 @@
 	<section id="interactive">
 		{#if placeData}
 			<Map {placeData} placeName={currentName} {location} {countiesByDist} />
-			<p>{@html copy.help}</p>
 		{:else}
 			<p class="loading">loading...</p>
 		{/if}
@@ -137,6 +136,10 @@
 			<Share url={shareUrl} />
 		{/if}
 	</section>
+
+	<section id="outro">
+		<p class="outro">{@html copy.outro}</p>
+	</section>
 </article>
 
 <style>
@@ -144,6 +147,10 @@
 		padding: 0 16px;
 		max-width: 1280px;
 		margin: 0 auto;
+	}
+
+	section {
+		margin: 64px auto;
 	}
 
 	#intro {
@@ -193,10 +200,11 @@
 	}
 
 	#interactive {
+		min-height: 480px;
 		margin: 64px auto;
 	}
 
-	#interactive p {
+	#outro p {
 		max-width: var(--col-width);
 		margin: 0 auto;
 	}

@@ -16,12 +16,6 @@
 <div class="key">
 	<div class="top">
 		<ul>
-			<li style:color={colorTossText}>
-				<span class="fills">
-					<span class="fill" style:background={colorToss}>toss-up</span>
-				</span>
-				<span class="label">&nbsp;</span>
-			</li>
 			{#each top as { properties }}
 				{@const { fills, label } = properties}
 				<li style:color={fills.primary}>
@@ -62,6 +56,13 @@
 					<span class="label">{otherLabel}</span>
 				</li>
 			{/if}
+
+			<li style:color={colorTossText}>
+				<span class="fills">
+					<span class="fill" style:background={colorToss}>toss-up</span>
+				</span>
+				<span class="label">&nbsp;</span>
+			</li>
 		</ul>
 	</div>
 </div>
@@ -117,7 +118,7 @@
 		position: relative;
 	}
 
-	.top li:first-of-type {
+	.top li:last-of-type {
 		width: calc(11.11% - 16px);
 	}
 
@@ -129,43 +130,9 @@
 		visibility: hidden;
 	}
 
-	.top li:nth-of-type(2) span.text {
+	.top li:first-of-type span.text {
 		visibility: visible;
 	}
-
-	/* .top li:first-of-type:before {
-		content: "toss-up";
-		display: block;
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		text-align: center;
-		font-size: 0.75em;
-		border: 1px solid currentColor;
-	} */
-
-	/* .top li:nth-of-type(2):before {
-		content: "primary";
-		display: block;
-		position: absolute;
-		top: 0;
-		left: 25%;
-		transform: translate(-50%, 0);
-		color: var(--color-bg);
-		font-size: 0.75em;
-	}
-
-	.top li:nth-of-type(2):after {
-		content: "secondary";
-		display: block;
-		position: absolute;
-		top: 0;
-		left: 75%;
-		transform: translate(-50%, 0);
-		color: var(--color-bg);
-		font-size: 0.75em;
-	} */
 
 	@media only screen and (min-width: 960px) {
 		.key {

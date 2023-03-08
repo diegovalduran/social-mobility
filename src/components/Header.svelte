@@ -1,4 +1,5 @@
 <script>
+	import { modal } from "$stores/misc.js";
 	import wordmark from "$svg/wordmark.svg";
 </script>
 
@@ -8,22 +9,26 @@
 	</div>
 
 	<div class="info">
-		<button>Info</button>
+		<button on:click={() => ($modal = true)}>Info</button>
 	</div>
 
-	<div class="modal">
-		<p>
-			Created by <a
-				href="https://pudding.cool/author/russell-samora"
-				target="_blank"
-				rel="noreferrer">Russell Samora</a
-			>. With editing by
-			<a
-				href="https://pudding.cool/author/michelle-mcghee"
-				target="_blank"
-				rel="noreferrer">Michelle McGhee</a
-			>.
-		</p>
+	<!-- svelte-ignore a11y-click-events-have-key-events -->
+	<div class="modal" class:visible={$modal} on:click={() => ($modal = false)}>
+		<div class="bg" />
+		<div class="content">
+			<p>
+				Created by <a
+					href="https://pudding.cool/author/russell-samora"
+					target="_blank"
+					rel="noreferrer">Russell Samora</a
+				>. With editing by
+				<a
+					href="https://pudding.cool/author/michelle-mcghee"
+					target="_blank"
+					rel="noreferrer">Michelle McGhee</a
+				>.
+			</p>
+		</div>
 	</div>
 </header>
 
@@ -64,5 +69,37 @@
 
 	.modal {
 		display: none;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		position: fixed;
+		z-index: var(--z-overlay);
+		cursor: pointer;
+	}
+
+	.bg {
+		background: var(--color-fg);
+		opacity: 0.9;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.content {
+		position: absolute;
+		padding: 16px;
+		width: 90%;
+		max-width: 20em;
+		left: 50%;
+		top: 50%;
+		background: var(--color-bg);
+		transform: translate(-50%, -50%);
+	}
+
+	.modal.visible {
+		display: block;
 	}
 </style>
