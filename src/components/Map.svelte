@@ -11,6 +11,7 @@
 		sum,
 		color
 	} from "d3";
+	import { getContext } from "svelte";
 	import Figure from "$components/Figure.svelte";
 	import MapSvg from "$components/Figure.MapSvg.svelte";
 	import MapCanvas from "$components/Figure.MapCanvas.svelte";
@@ -23,6 +24,8 @@
 	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$data/addDataToCounties.js";
 	import variables from "$data/variables.json";
+
+	const copy = getContext("copy");
 
 	const CAT = "cat";
 
@@ -76,7 +79,6 @@
 	export let thresholdUpper = 0.75;
 	export let valueProp = "share";
 
-	export let tableIntro;
 	export let countiesByDist = [];
 
 	function getLabel(d) {
@@ -470,12 +472,13 @@
 	colorTossText={COLOR_TOSS.textPrimary}
 />
 
-<p class="table-intro">{@html tableIntro}</p>
+<p class="table-intro">{@html copy.tableIntro}</p>
 
 <PlaceTable
 	caption="Details for every place named {placeName}"
 	rows={placeRows}
 	columns={placeColumns}
+	note={copy.placeNote}
 />
 
 <CountyTable

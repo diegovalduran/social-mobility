@@ -8,20 +8,22 @@
 	</div>
 
 	<div class="info">
+		<button>Info</button>
+	</div>
+
+	<div class="modal">
 		<p>
-			By <a
+			Created by <a
 				href="https://pudding.cool/author/russell-samora"
 				target="_blank"
-				rel="noreferrer">Russell</a
-			>
-			+
+				rel="noreferrer">Russell Samora</a
+			>. With editing by
 			<a
 				href="https://pudding.cool/author/michelle-mcghee"
 				target="_blank"
-				rel="noreferrer">Michelle</a
-			>
+				rel="noreferrer">Michelle McGhee</a
+			>.
 		</p>
-		<button>Info</button>
 	</div>
 </header>
 
@@ -65,5 +67,9 @@
 		margin-right: 12px;
 		font-size: var(--16px) !important;
 		line-height: 1;
+	}
+
+	.modal {
+		display: none;
 	}
 </style>
