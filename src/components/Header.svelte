@@ -62,13 +62,6 @@
 		font-weight: bold;
 	}
 
-	.info p {
-		margin: 0;
-		margin-right: 12px;
-		font-size: var(--16px) !important;
-		line-height: 1;
-	}
-
 	.modal {
 		display: none;
 	}

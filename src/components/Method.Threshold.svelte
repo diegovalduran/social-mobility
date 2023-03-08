@@ -52,10 +52,6 @@
 		border: 1px solid var(--color-fg);
 	}
 
-	.bound input {
-		display: flex;
-	}
-
 	input {
 		width: 10rem;
 	}
