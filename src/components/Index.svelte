@@ -13,7 +13,7 @@
 	import Select from "$components/Select.svelte";
 	import Icon from "$components/helpers/Icon.svelte";
 
-	const testStorage = false;
+	const removeStorage = true;
 	const testLocate = false;
 
 	const copy = getContext("copy");
@@ -37,7 +37,7 @@
 		onChangePlace(classics[0]);
 
 		try {
-			if (testStorage) storage.remove("pudding_samename");
+			if (removeStorage) storage.remove("pudding_samename");
 
 			const storageLocation = storage.get("pudding_samename");
 			location = storageLocation || (await getLocation(testLocate)) || {};
