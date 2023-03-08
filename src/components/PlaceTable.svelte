@@ -20,6 +20,6 @@
 	}
 
 	p {
-		font-size: var(--14px);
+		font-size: var(--14px) !important;
 	}
 </style>
