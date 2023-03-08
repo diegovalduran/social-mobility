@@ -322,7 +322,9 @@
 	});
 
 	$: {
-		countyRows.sort((a, b) => ascending(a.index, b.index));
+		countyRows.sort(
+			(a, b) => ascending(a.index, b.index) || ascending(a.name, b.name)
+		);
 		countyRows = [...countyRows];
 	}
 

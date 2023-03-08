@@ -1,8 +1,9 @@
 <script>
-	import { browser } from "$app/environment";
-	import { base } from "$app/paths";
-	import { onMount, getContext } from "svelte";
 	import { csv } from "d3";
+	import { onMount, getContext } from "svelte";
+	import { page } from "$app/stores";
+	import { browser } from "$app/environment";
+	import { assets, base } from "$app/paths";
 	import storage from "$utils/localStorage.js";
 	import getNearestOptions from "$utils/getNearestOptions.js";
 	import getCountiesByDist from "$utils/getCountiesByDist.js";
@@ -11,7 +12,8 @@
 	import classics from "$data/classics.csv";
 	import Map from "$components/Map.svelte";
 	import Select from "$components/Select.svelte";
-	import Icon from "$components/helpers/Icon.svelte";
+	import Share from "$components/Share.svelte";
+	import options from "$data/options.csv";
 
 	const removeStorage = true;
 	const testLocate = false;
@@ -23,7 +25,7 @@
 	let currentName;
 	let placeData;
 	let location;
-	let options;
+	let nearestOptions;
 	let countiesByDist;
 	let open = false;
 
@@ -33,8 +35,17 @@
 		currentName = name;
 	}
 
+	function getPlaceFromUrl() {
+		const param = browser ? $page.url.search.split("place=")[1] : undefined;
+		const clean = decodeURIComponent(param);
+		window.history.replaceState({}, "", `${window.location.pathname}`);
+		const match = options.find((d) => d.name === clean) || classics[0];
+		return match;
+	}
+
 	onMount(async () => {
-		onChangePlace(classics[0]);
+		const initialPlace = getPlaceFromUrl();
+		onChangePlace(initialPlace);
 
 		try {
 			if (removeStorage) storage.remove("pudding_samename");
@@ -44,8 +55,11 @@
 			if (!storageLocation && location?.state)
 				storage.set("pudding_samename", location);
 			if (location?.state) {
-				options = await getNearestOptions(location);
-				countiesByDist = await getCountiesByDist(location, options[0].county);
+				nearestOptions = await getNearestOptions(location);
+				countiesByDist = await getCountiesByDist(
+					location,
+					nearestOptions[0].county
+				);
 			}
 			location.lat = +location?.lat;
 			location.lon = +location?.lon;
@@ -53,6 +67,8 @@
 			console.log(err);
 		}
 	});
+
+	$: shareUrl = `${$page.url}?place=${encodeURIComponent(currentName)}`;
 
 	$: if (browser && currentPhoneme)
 		(async () =>
@@ -83,11 +99,11 @@
 						</ul>
 					</div>
 
-					{#if options && options.length}
+					{#if nearestOptions && nearestOptions.length}
 						<div class="locate">
 							<p>{copy.locate}</p>
 							<ul>
-								{#each options as d}
+								{#each nearestOptions as d}
 									{@const { name, state } = d}
 									<li>
 										<button on:click={() => onChangePlace(d)}
@@ -103,7 +119,7 @@
 
 			{#if (location && !location.state) || placeData}
 				<div class="select">
-					<Select on:change={({ detail }) => onChangePlace(detail)} />
+					<Select {options} on:change={({ detail }) => onChangePlace(detail)} />
 				</div>
 			{/if}
 		</div>
@@ -117,9 +133,9 @@
 			<p class="loading">loading...</p>
 		{/if}
 
-		<div class="share">
-			<button>Share this map <Icon name="forward" strokeWidth="3px" /></button>
-		</div>
+		{#if shareUrl}
+			<Share url={shareUrl} />
+		{/if}
 	</section>
 </article>
 
@@ -141,6 +157,7 @@
 
 	.inner {
 		display: flex;
+		justify-content: center;
 	}
 
 	.inner > div {
@@ -182,18 +199,6 @@
 	#interactive p {
 		max-width: var(--col-width);
 		margin: 0 auto;
-	}
-
-	.share {
-		position: fixed;
-		bottom: 16px;
-		right: 16px;
-	}
-
-	.share button {
-		text-transform: uppercase;
-		font-weight: bold;
-		font-size: var(--16px) !important;
 	}
 
 	.loading {

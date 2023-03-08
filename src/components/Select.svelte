@@ -1,7 +1,8 @@
 <script>
 	import Typeahead from "svelte-typeahead";
 	import { createEventDispatcher } from "svelte";
-	import options from "$data/options.csv";
+
+	export let options;
 
 	const dispatch = createEventDispatcher();
 	const extract = (item) => item.name;
