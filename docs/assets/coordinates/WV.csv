@@ -1,9 +1,9 @@
 phoneme,name,county,latitude,longitude
 01567,Charleston,Kanawha County,38.350,-81.633
-04095,Huntington,Cabell County / Wayne County,38.411,-82.435
+04095,Huntington,Cabell County,38.411,-82.435
 06507,Parkersburg,Wood County,39.267,-81.562
 05730,Morgantown,Monongalia County,39.630,-79.956
-09203,Wheeling,Marshall County / Ohio County,40.074,-80.696
+09203,Wheeling,Marshall County,40.074,-80.696
 05283,Martinsburg,Berkeley County,39.456,-77.964
 02876,Fairmont,Marion County,39.485,-80.143
 01693,Clarksburg,Harrison County,39.281,-80.345
@@ -36,7 +36,7 @@ phoneme,name,county,latitude,longitude
 07269,Ripley,Jackson County,38.819,-81.711
 09307,Williamstown,Wood County,39.401,-81.448
 09304,Williamson,Mingo County,37.674,-82.277
-02122,Culloden,Cabell County / Putnam County,38.415,-82.071
+02122,Culloden,Cabell County,38.415,-82.071
 02939,Fayetteville,Fayette County,38.053,-81.104
 05132,Madison,Boone County,38.067,-81.819
 05583,Milton,Cabell County,38.435,-82.132
@@ -81,7 +81,7 @@ phoneme,name,county,latitude,longitude
 00585,Beaver,Raleigh County,37.748,-81.142
 06524,Parsons,Tucker County,39.096,-79.681
 00423,Baker,Hardy County,39.042,-78.745
-05679,Montgomery,Fayette County / Kanawha County,38.173,-81.320
+05679,Montgomery,Fayette County,38.173,-81.320
 09263,Whitman,Logan County,37.813,-82.024
 06053,Newell,Hancock County,40.618,-80.604
 00696,Benwood,Marshall County,40.018,-80.734
@@ -89,7 +89,7 @@ phoneme,name,county,latitude,longitude
 09014,Washington,Wood County,39.261,-81.672
 02777,Enterprise,Harrison County,39.421,-80.278
 01188,Buffalo,Putnam County,38.618,-81.982
-00171,Alum Creek,Kanawha County / Lincoln County,38.289,-81.839
+00171,Alum Creek,Kanawha County,38.289,-81.839
 00616,Belle,Kanawha County,38.232,-81.538
 05052,Lubeck,Wood County,39.235,-81.631
 03363,Glenville,Gilmer County,38.934,-80.838
@@ -101,7 +101,7 @@ phoneme,name,county,latitude,longitude
 03662,Hamlin,Lincoln County,38.279,-82.103
 05974,New Cumberland,Hancock County,40.497,-80.607
 04289,Jimtown,Randolph County,38.918,-80.001
-00097,Alderson,Greenbrier County / Monroe County,37.730,-80.642
+00097,Alderson,Greenbrier County,37.730,-80.642
 00342,Athens,Mercer County,37.422,-81.016
 00294,Arnett,Braxton County,38.809,-80.721
 01776,Coalwood,McDowell County,37.387,-81.653
@@ -248,7 +248,7 @@ phoneme,name,county,latitude,longitude
 06986,Pullman,Ritchie County,39.187,-80.950
 00825,Blacksville,Monongalia County,39.720,-80.212
 08807,Van,Boone County,37.971,-81.711
-02361,Dixie,Fayette County / Nicholas County,38.251,-81.194
+02361,Dixie,Fayette County,38.251,-81.194
 00748,Big Creek,Logan County,38.004,-82.040
 01526,Century,Barbour County,39.100,-80.189
 03217,Galloway,Barbour County,39.232,-80.122

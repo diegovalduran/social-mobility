@@ -1,5 +1,5 @@
 phoneme,name,county,latitude,longitude
-04232,Jackson,Hinds County / Madison County / Rankin County,32.316,-90.213
+04232,Jackson,Hinds County,32.316,-90.213
 03595,Gulfport,Harrison County,30.367,-89.093
 00769,Biloxi,Harrison County,30.396,-88.885
 06307,Olive Branch,DeSoto County,34.962,-89.830
@@ -81,18 +81,18 @@ phoneme,name,county,latitude,longitude
 02921,Farmington,Alcorn County,34.930,-88.452
 05094,Lynchburg,DeSoto County,34.962,-90.096
 07791,Shelby,Bolivar County,33.951,-90.768
-08737,Union,Neshoba County / Newton County,32.571,-89.115
+08737,Union,Neshoba County,32.571,-89.115
 07021,Quitman,Clarke County,32.040,-88.728
 06994,Purvis,Lamar County,31.143,-89.410
 05709,Moorhead,Sunflower County,33.450,-90.506
-05943,Nettleton,Lee County / Monroe County,34.083,-88.626
+05943,Nettleton,Lee County,34.083,-88.626
 07772,Sharon,Jones County,31.790,-89.099
 06795,Pleasant Hill,DeSoto County,34.914,-89.894
 05144,Magnolia,Pike County,31.143,-90.459
 07090,Raymond,Hinds County,32.259,-90.423
 00664,Belmont,Tishomingo County,34.510,-88.209
 05093,Lyman,Harrison County,30.495,-89.126
-09107,Wesson,Copiah County / Lincoln County,31.700,-90.395
+09107,Wesson,Copiah County,31.700,-90.395
 02441,Drew,Sunflower County,33.810,-90.526
 01567,Charleston,Tallahatchie County,34.007,-90.057
 06214,Oak Grove,Lamar County,31.286,-89.414
@@ -105,13 +105,13 @@ phoneme,name,county,latitude,longitude
 01722,Cleary,Rankin County,32.166,-90.181
 03025,Flora,Madison County,32.543,-90.309
 01141,Bruce,Calhoun County,33.992,-89.349
-05073,Lumberton,Lamar County / Pearl River County,31.006,-89.459
+05073,Lumberton,Lamar County,31.006,-89.459
 07396,Rosedale,Bolivar County,33.853,-91.028
 04826,Lexington,Holmes County,33.113,-90.053
 00021,Ackerman,Choctaw County,33.310,-89.173
 07767,Shannon,Lee County,34.116,-88.712
 08299,Summit,Pike County,31.284,-90.468
-07782,Shaw,Bolivar County / Sunflower County,33.601,-90.772
+07782,Shaw,Bolivar County,33.601,-90.772
 08922,Wade,Jackson County,30.642,-88.570
 02938,Fayette,Jefferson County,31.712,-91.061
 01810,Coldwater,Tate County,34.692,-89.977
@@ -122,7 +122,7 @@ phoneme,name,county,latitude,longitude
 05682,Monticello,Lawrence County,31.554,-90.107
 01263,Byhalia,Marshall County,34.872,-89.691
 04652,Lambert,Quitman County,34.202,-90.283
-01525,Centreville,Amite County / Wilkinson County,31.087,-91.065
+01525,Centreville,Amite County,31.087,-91.065
 06877,Port Gibson,Claiborne County,31.961,-90.984
 03402,Goodman,Holmes County,32.970,-89.912
 01286,Caledonia,Lowndes County,33.683,-88.324
@@ -156,7 +156,7 @@ phoneme,name,county,latitude,longitude
 08664,Tucker,Neshoba County,32.707,-89.054
 01794,Coffeeville,Yalobusha County,33.977,-89.676
 05488,Metcalfe,Washington County,33.454,-91.007
-05105,Maben,Oktibbeha County / Webster County,33.554,-89.081
+05105,Maben,Oktibbeha County,33.554,-89.081
 08779,Vaiden,Carroll County,33.332,-89.741
 00114,Algoma,Pontotoc County,34.176,-89.031
 07144,Redwater,Leake County,32.767,-89.537
@@ -167,12 +167,12 @@ phoneme,name,county,latitude,longitude
 03818,Heidelberg,Jasper County,31.887,-88.984
 08773,Utica,Hinds County,32.110,-90.623
 07598,Sandersville,Jones County,31.787,-89.032
-02042,Crenshaw,Panola County / Quitman County,34.505,-90.195
-07811,Sherman,Lee County / Pontotoc County / Union County,34.361,-88.839
+02042,Crenshaw,Panola County,34.505,-90.195
+07811,Sherman,Lee County,34.361,-88.839
 06842,Polkville,Smith County,32.194,-89.693
 04831,Liberty,Amite County,31.158,-90.812
 01753,Cloverdale,Adams County,31.498,-91.421
-02092,Crowder,Panola County / Quitman County,34.173,-90.138
+02092,Crowder,Panola County,34.173,-90.138
 03659,Hamilton,Monroe County,33.738,-88.445
 00981,Boyle,Bolivar County,33.704,-90.726
 07930,Smithville,Monroe County,34.070,-88.391
@@ -182,16 +182,16 @@ phoneme,name,county,latitude,longitude
 03878,Hickory Flat,Benton County,34.616,-89.188
 03763,Hatley,Monroe County,33.977,-88.421
 02777,Enterprise,Clarke County,32.174,-88.831
-00914,Bogue Chitto,Kemper County / Neshoba County,32.832,-88.918
+00914,Bogue Chitto,Kemper County,32.832,-88.918
 00215,Anguilla,Sharkey County,32.974,-90.825
 05875,Myrtle,Union County,34.558,-89.119
 08975,Walnut Grove,Leake County,32.590,-89.458
 08622,Tremont,Itawamba County,34.235,-88.259
 02475,Dumas,Tippah County,34.640,-88.844
 01996,Courtland,Panola County,34.241,-89.943
-04594,Lake,Newton County / Scott County,32.330,-89.314
+04594,Lake,Newton County,32.330,-89.314
 06234,Oakland,Yalobusha County,34.056,-89.916
-08166,State Line,Greene County / Wayne County,31.436,-88.473
+08166,State Line,Greene County,31.436,-88.473
 04641,Lakeview,DeSoto County,34.989,-90.140
 02893,Falkner,Tippah County,34.842,-88.934
 09056,Weir,Choctaw County,33.267,-89.291
@@ -235,7 +235,7 @@ phoneme,name,county,latitude,longitude
 09200,Wheeler,Prentiss County,34.580,-88.608
 02481,Duncan,Bolivar County,34.045,-90.745
 06865,Pope,Panola County,34.215,-89.948
-07716,Sebastopol,Leake County / Scott County,32.568,-89.334
+07716,Sebastopol,Leake County,32.568,-89.334
 02103,Cruger,Holmes County,33.321,-90.232
 08302,Sumner,Tallahatchie County,33.971,-90.369
 02927,Farrell,Coahoma County,34.264,-90.672
@@ -243,7 +243,7 @@ phoneme,name,county,latitude,longitude
 00734,Beulah,Bolivar County,33.787,-90.980
 05197,Mantee,Webster County,33.732,-89.055
 01376,Cary,Sharkey County,32.806,-90.927
-02077,Crosby,Amite County / Wilkinson County,31.274,-91.062
+02077,Crosby,Amite County,31.274,-91.062
 01760,Coahoma,Coahoma County,34.367,-90.523
 03160,French Camp,Choctaw County,33.293,-89.400
 07860,Silver City,Humphreys County,33.097,-90.497
@@ -283,7 +283,7 @@ phoneme,name,county,latitude,longitude
 08194,Stewart,Montgomery County,33.451,-89.436
 09369,Winterville,Washington County,33.502,-91.058
 07687,Scott,Bolivar County,33.592,-91.074
-02574,Eastabuchie,Forrest County / Jones County,31.429,-89.290
+02574,Eastabuchie,Forrest County,31.429,-89.290
 07146,Redwood,Warren County,32.478,-90.804
 03430,Grace,Issaquena County,32.999,-90.956
 02484,Dundee,Tunica County,34.524,-90.456

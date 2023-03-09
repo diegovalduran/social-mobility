@@ -2,7 +2,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 34799,Plymouth,,,United Kingdom,city-international,267918,50.371,-4.142,53665
 34779,Plymouth,MN,Hennepin County,,city-us,79828,45.011,-93.456,9859
 34786,Plymouth,PA,Montgomery County,,city-us,18293,40.112,-75.296,185
-34787,Plymouth,CT,Naugatuck Valley Planning Region,,city-us,11659,41.666,-73.027,6579
+34787,Plymouth,CT,Naugatuck Valley ,,city-us,11659,41.666,-73.027,6579
 34785,Plymouth,IN,Marshall County,,city-us,10384,41.344,-86.310,14765
 34797,Plymouth,MI,Wayne County,,city-us,9313,42.371,-83.470,11522
 34795,Plymouth,WI,Sheboygan County,,city-us,8913,43.749,-87.977,2427
@@ -12,14 +12,14 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 34796,Plymouth,NC,Washington County,,city-us,3230,35.867,-76.749,7472
 34792,Plymouth,OH,Richland County,,city-us,1971,40.948,-82.694,128
 34770,Plymouth,OH,Ashtabula County,,city-us,1901,41.820,-80.753,128
-34780,Plymouth,OH,Huron County / Richland County,,city-us,1705,40.997,-82.667,7308
+34780,Plymouth,OH,Huron County,,city-us,1705,40.997,-82.667,7308
 34775,Plymouth,NY,Chenango County,,city-us,1610,42.605,-75.605,3698
 34789,Plymouth,ME,Penobscot County,,city-us,1317,44.785,-69.236,2967
 34793,Plymouth,WI,Rock County,,city-us,1244,42.620,-89.184,2045
 34769,Plymouth,CA,Amador County,,city-us,1094,38.482,-120.845,4306
 34798,Plymouth,VT,Windsor County,,city-us,646,43.509,-72.694,2463
 34782,Plymouth,WI,Juneau County,,city-us,582,43.778,-90.251,1777
-34778,Plymouth,IL,Hancock County / McDonough County,,city-us,433,40.292,-90.916,2251
+34778,Plymouth,IL,Hancock County,,city-us,433,40.292,-90.916,2251
 34772,Plymouth,UT,Box Elder County,,city-us,432,41.875,-112.144,1760
 34774,Plymouth,IA,Cerro Gordo County,,city-us,368,43.246,-93.123,3351
 34781,Plymouth,NE,Jefferson County,,city-us,359,40.303,-96.989,3468

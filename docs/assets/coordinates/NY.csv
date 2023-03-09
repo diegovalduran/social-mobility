@@ -132,7 +132,7 @@ phoneme,name,county,latitude,longitude
 07544,Salisbury,Nassau County,40.746,-73.560
 01149,Brunswick,Rensselaer County,42.746,-73.585
 02488,Dunkirk,Chautauqua County,42.480,-79.334
-03272,Geneva,Ontario County / Seneca County,42.863,-76.983
+03272,Geneva,Ontario County,42.863,-76.983
 05301,Massena,St. Lawrence County,44.962,-74.835
 09400,Woodbury,Orange County,41.328,-74.102
 00443,Ballston,Saratoga County,42.951,-73.887
@@ -524,7 +524,7 @@ phoneme,name,county,latitude,longitude
 01456,Catlin,Chemung County,42.231,-76.896
 01043,Brewster,Putnam County,41.397,-73.617
 00472,Barker,Broome County,42.265,-75.911
-00354,Attica,Genesee County / Wyoming County,42.864,-78.280
+00354,Attica,Genesee County,42.864,-78.280
 06167,Northampton,Fulton County,43.158,-74.171
 03582,Groveland,Livingston County,42.710,-77.769
 04258,Jay,Essex County,44.378,-73.696
@@ -682,7 +682,7 @@ phoneme,name,county,latitude,longitude
 01330,Canaan,Columbia County,42.403,-73.457
 01835,Columbia,Herkimer County,42.929,-75.046
 05887,Nanticoke,Broome County,42.285,-76.027
-01059,Bridgeport,Madison County / Onondaga County,43.159,-75.964
+01059,Bridgeport,Madison County,43.159,-75.964
 06189,Norwood,St. Lawrence County,44.751,-74.994
 08029,Sparta,Livingston County,42.628,-77.698
 00493,Barrington,Yates County,42.523,-77.053
@@ -705,7 +705,7 @@ phoneme,name,county,latitude,longitude
 03715,Harpersfield,Delaware County,42.448,-74.704
 01057,Bridgehampton,Suffolk County,40.938,-72.301
 05550,Millbrook,Dutchess County,41.785,-73.694
-02303,Deposit,Broome County / Delaware County,42.064,-75.423
+02303,Deposit,Broome County,42.064,-75.423
 04891,Litchfield,Herkimer County,42.968,-75.164
 00801,Black Brook,Clinton County,44.524,-73.818
 07072,Ransomville,Niagara County,43.239,-78.910
@@ -863,7 +863,7 @@ phoneme,name,county,latitude,longitude
 00051,Afton,Chenango County,42.228,-75.527
 03240,Gardiner,Ulster County,41.680,-74.150
 05334,Mayfield,Fulton County,43.105,-74.265
-02537,Earlville,Chenango County / Madison County,42.740,-75.544
+02537,Earlville,Chenango County,42.740,-75.544
 05987,New Hamburg,Dutchess County,41.588,-73.945
 06055,Newfield,Tompkins County,42.362,-76.591
 07414,Rossie,St. Lawrence County,44.325,-75.624
@@ -921,7 +921,7 @@ phoneme,name,county,latitude,longitude
 00623,Belfast,Allegany County,42.343,-78.111
 02504,Durhamville,Oneida County,43.121,-75.671
 07811,Sherman,Chautauqua County,42.159,-79.595
-07472,Rushville,Ontario County / Yates County,42.761,-77.228
+07472,Rushville,Ontario County,42.761,-77.228
 04577,Lacona,Oswego County,43.643,-76.069
 01925,Copenhagen,Lewis County,43.893,-75.674
 03279,Georgetown,Madison County,42.787,-75.744
@@ -972,7 +972,7 @@ phoneme,name,county,latitude,longitude
 03469,Granger,Allegany County,42.480,-78.011
 07829,Shoreham,Suffolk County,40.957,-72.908
 00237,Antwerp,Jefferson County,44.199,-75.607
-01064,Bridgewater,Madison County / Oneida County,42.879,-75.252
+01064,Bridgewater,Madison County,42.879,-75.252
 02790,Erin,Chemung County,42.186,-76.670
 00982,Boylston,Oswego County,43.658,-75.953
 06729,Pine Valley,Chemung County,42.225,-76.846
@@ -1016,7 +1016,7 @@ phoneme,name,county,latitude,longitude
 04019,Hope,Hamilton County,43.323,-74.235
 07373,Romulus,Seneca County,42.752,-76.834
 02175,Dalton,Livingston County,42.541,-77.953
-00149,Almond,Allegany County / Steuben County,42.319,-77.739
+00149,Almond,Allegany County,42.319,-77.739
 05540,Milford,Otsego County,42.591,-74.945
 06630,Perrysburg,Cattaraugus County,42.456,-79.002
 03958,Hobart,Delaware County,42.371,-74.670

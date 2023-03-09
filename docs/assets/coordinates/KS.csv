@@ -3,7 +3,7 @@ phoneme,name,county,latitude,longitude
 06282,Olathe,Johnson County,38.881,-94.819
 04731,Lawrence,Douglas County,38.972,-95.235
 07783,Shawnee,Johnson County,39.042,-94.720
-05178,Manhattan,Pottawatomie County / Riley County,39.188,-96.606
+05178,Manhattan,Pottawatomie County,39.188,-96.606
 01502,Salina,Saline County,38.840,-97.611
 04105,Hutchinson,Reno County,38.061,-97.930
 04755,Leavenworth,Leavenworth County,39.311,-94.922
@@ -34,7 +34,7 @@ phoneme,name,county,latitude,longitude
 07934,Smoky Hill,Geary County,39.053,-96.898
 01794,Coffeyville,Montgomery County,37.037,-95.616
 05132,Madison,Riley County,39.211,-96.809
-08056,Spring Hill,Johnson County / Miami County,38.757,-94.821
+08056,Spring Hill,Johnson County,38.757,-94.821
 06500,Park City,Sedgwick County,37.800,-97.318
 04130,Independence,Montgomery County,37.224,-95.708
 00617,Bel Aire,Sedgwick County,37.776,-97.247
@@ -44,10 +44,10 @@ phoneme,name,county,latitude,longitude
 09087,Wellington,Sumner County,37.265,-97.372
 08792,Valley Center,Sedgwick County,37.835,-97.373
 06496,Park,Sedgwick County,37.785,-97.429
-05844,Mulvane,Sedgwick County / Sumner County,37.476,-97.235
+05844,Mulvane,Sedgwick County,37.476,-97.235
 06945,Pratt,Pratt County,37.644,-98.738
 00011,Abilene,Dickinson County,38.917,-97.214
-02231,De Soto,Johnson County / Leavenworth County,38.972,-94.951
+02231,De Soto,Johnson County,38.972,-94.951
 05158,Maize,Sedgwick County,37.779,-97.467
 08730,Ulysses,Grant County,37.581,-101.355
 03233,Garden City,Finney County,38.037,-100.897
@@ -60,7 +60,7 @@ phoneme,name,county,latitude,longitude
 00875,Blue,Pottawatomie County,39.278,-96.528
 01870,Concordia,Cloud County,39.571,-97.663
 05027,Louisburg,Miami County,38.619,-94.681
-08988,Wamego,Pottawatomie County / Wabaunsee County,39.205,-96.310
+08988,Wamego,Pottawatomie County,39.205,-96.310
 08101,St. George,Pottawatomie County,39.220,-96.403
 02633,Edwardsville,Wyandotte County,39.061,-94.820
 03400,Goodland,Sherman County,39.351,-101.710
@@ -94,7 +94,7 @@ phoneme,name,county,latitude,longitude
 07811,Sherman,Leavenworth County,39.015,-94.988
 05750,Morton,Sedgwick County,37.612,-97.746
 06183,Norton,Norton County,39.834,-99.892
-08118,St. Marys,Pottawatomie County / Wabaunsee County,39.194,-96.064
+08118,St. Marys,Pottawatomie County,39.194,-96.064
 03209,Galena,Cherokee County,37.076,-94.640
 03931,Hillsboro,Marion County,38.352,-97.204
 03231,Garden,Cherokee County,37.041,-94.685
@@ -125,7 +125,7 @@ phoneme,name,county,latitude,longitude
 07737,Seneca,Nemaha County,39.834,-96.064
 08940,Wakarusa,Douglas County,38.926,-95.245
 03148,Fredonia,Wilson County,37.534,-95.827
-03720,Herington,Dickinson County / Morris County,38.697,-96.807
+03720,Herington,Dickinson County,38.697,-96.807
 06973,Prospect,Butler County,37.833,-96.759
 04263,Jefferson,Geary County,39.002,-96.768
 00231,Anthony,Harper County,37.153,-98.031
@@ -133,7 +133,7 @@ phoneme,name,county,latitude,longitude
 07222,Richland,Miami County,38.672,-94.987
 03897,High Prairie,Leavenworth County,39.257,-95.016
 06437,Oxford,Johnson County,38.829,-94.663
-06237,Oakley,Gove County / Logan County / Thomas County,39.123,-100.845
+06237,Oakley,Gove County,39.123,-100.845
 02417,Douglass,Butler County,37.516,-96.981
 08056,Spring Hill,Johnson County,38.793,-94.784
 07811,Sherman,Sedgwick County,37.787,-97.641
@@ -164,11 +164,11 @@ phoneme,name,county,latitude,longitude
 09188,Westwood,Johnson County,39.041,-94.617
 08334,Superior,McPherson County,38.211,-97.751
 08737,Union,Jefferson County,39.207,-95.219
-06397,Oswego,Cherokee County / Labette County,37.168,-95.112
+06397,Oswego,Cherokee County,37.168,-95.112
 01506,Center,Doniphan County,39.807,-95.094
 02882,Fairview,Jefferson County,39.178,-95.437
 05458,Menoken,Shawnee County,39.137,-95.771
-07721,Sedgwick,Harvey County / Sedgwick County,37.918,-97.420
+07721,Sedgwick,Harvey County,37.918,-97.420
 08452,Ten Mile,Miami County,38.676,-94.749
 04861,Lincoln,Dickinson County,38.910,-97.325
 00051,Afton,Sedgwick County,37.612,-97.653
@@ -236,7 +236,7 @@ phoneme,name,county,latitude,longitude
 07637,Sarcoxie,Jefferson County,39.093,-95.225
 06421,Overbrook,Osage County,38.781,-95.557
 03505,Greeley,Sedgwick County,37.873,-97.655
-07962,Solomon,Dickinson County / Saline County,38.921,-97.369
+07962,Solomon,Dickinson County,38.921,-97.369
 05132,Madison,Greenwood County,38.124,-96.203
 06378,Osage,Labette County,37.324,-95.454
 08107,St. John,Stafford County,38.037,-98.753
@@ -468,7 +468,7 @@ phoneme,name,county,latitude,longitude
 02131,Cunningham,Kingman County,37.644,-98.431
 04861,Lincoln,Rice County,38.391,-98.313
 07809,Sheridan,Linn County,38.083,-94.680
-01738,Clifton,Clay County / Washington County,39.568,-97.281
+01738,Clifton,Clay County,39.568,-97.281
 04933,Lockport,Haskell County,37.560,-100.727
 07312,Rock Creek,Nemaha County,39.864,-95.850
 09218,White City,Morris County,38.796,-96.736
@@ -986,7 +986,7 @@ phoneme,name,county,latitude,longitude
 09452,Wright,Ford County,37.781,-99.892
 03379,Goff,Nemaha County,39.664,-95.932
 05964,New Cambria,Saline County,38.879,-97.506
-06581,Peck,Sedgwick County / Sumner County,37.478,-97.369
+06581,Peck,Sedgwick County,37.478,-97.369
 06628,Perry,Woodson County,37.784,-95.590
 06638,Peru,Chautauqua County,37.089,-96.095
 06641,Peters,Kingman County,37.504,-98.297
@@ -1086,7 +1086,7 @@ phoneme,name,county,latitude,longitude
 02444,Driftwood,Rawlins County,39.965,-101.083
 03133,Franklin,Edwards County,37.823,-99.182
 03768,Havana,Montgomery County,37.092,-95.942
-07876,Simpson,Cloud County / Mitchell County,39.386,-97.934
+07876,Simpson,Cloud County,39.386,-97.934
 09470,Yale,Crawford County,37.484,-94.642
 01665,Cimarron,Meade County,37.091,-100.528
 04273,Jennings,Decatur County,39.679,-100.293
@@ -1112,7 +1112,7 @@ phoneme,name,county,latitude,longitude
 05334,Mayfield,Sumner County,37.258,-97.545
 06246,Oberlin,Decatur County,39.775,-100.581
 09014,Washington,Wabaunsee County,38.980,-96.442
-09296,Willard,Shawnee County / Wabaunsee County,39.094,-95.943
+09296,Willard,Shawnee County,39.094,-95.943
 00259,Arcade,Phillips County,39.788,-99.233
 01732,Cleveland,Marshall County,39.609,-96.292
 03133,Franklin,Lincoln County,38.893,-98.091
@@ -1247,7 +1247,7 @@ phoneme,name,county,latitude,longitude
 07549,Salt Creek,Lincoln County,39.182,-97.984
 07751,Seward,Stafford County,38.178,-98.795
 09166,Western,Logan County,38.876,-101.399
-01709,Clayton,Decatur County / Norton County,39.737,-100.176
+01709,Clayton,Decatur County,39.737,-100.176
 04087,Hunnewell,Sumner County,37.005,-97.405
 04442,Kickapoo Site 2,Brown County,39.703,-95.650
 04687,Larrabee,Gove County,38.799,-100.253
@@ -1288,7 +1288,7 @@ phoneme,name,county,latitude,longitude
 08641,Trivoli,Ellsworth County,38.565,-98.080
 04831,Liberty,Republic County,39.962,-97.645
 08789,Valley,Hodgeman County,38.204,-99.902
-08895,Vining,Clay County / Washington County,39.567,-97.294
+08895,Vining,Clay County,39.567,-97.294
 00764,Bigelow,Marshall County,39.608,-96.531
 02226,Dayton,Phillips County,39.872,-99.458
 04673,Langdon,Reno County,37.854,-98.325

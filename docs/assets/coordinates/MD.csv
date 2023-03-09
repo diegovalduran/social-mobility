@@ -41,7 +41,7 @@ phoneme,name,county,latitude,longitude
 02125,Cumberland,Allegany County,39.653,-78.763
 03061,Forest Hill,Harford County,39.585,-76.388
 07138,Redland,Montgomery County,39.145,-77.144
-01303,Calverton,Montgomery County / Prince George's County,39.058,-76.951
+01303,Calverton,Montgomery County,39.058,-76.951
 03512,Green Haven,Anne Arundel County,39.138,-76.542
 02582,Easton,Talbot County,38.774,-76.076
 02956,Ferndale,Anne Arundel County,39.183,-76.640
@@ -75,14 +75,14 @@ phoneme,name,county,latitude,longitude
 00617,Bel Air,Harford County,39.536,-76.348
 09183,Westphalia,Prince George's County,38.845,-76.811
 03070,Forestville,Prince George's County,38.845,-76.875
-04282,Jessup,Anne Arundel County / Howard County,39.149,-76.776
+04282,Jessup,Anne Arundel County,39.149,-76.776
 00977,Boyds,Montgomery County,39.184,-77.313
 04563,La Plata,Charles County,38.529,-76.975
 03639,Halfway,Washington County,39.621,-77.759
 03170,Friendly,Prince George's County,38.752,-76.979
 05261,Marlton,Prince George's County,38.774,-76.790
 01009,Brandywine,Prince George's County,38.697,-76.848
-05774,Mount Airy,Carroll County / Frederick County,39.375,-77.154
+05774,Mount Airy,Carroll County,39.375,-77.154
 03247,Garrison,Baltimore County,39.406,-76.761
 02900,Fallston,Harford County,39.515,-76.411
 09228,White Marsh,Baltimore County,39.384,-76.432
@@ -201,7 +201,7 @@ phoneme,name,county,latitude,longitude
 07778,Sharpsburg,Washington County,39.458,-77.749
 02700,Ellerslie,Allegany County,39.721,-78.774
 00792,Bishopville,Worcester County,38.443,-75.194
-05570,Millington,Kent County / Queen Anne's County,39.257,-75.842
+05570,Millington,Kent County,39.257,-75.842
 02879,Fairplay,Washington County,39.536,-77.748
 03209,Galena,Kent County,39.341,-75.879
 08102,St. George Island,St. Mary's County,38.120,-76.484
@@ -239,7 +239,7 @@ phoneme,name,county,latitude,longitude
 02611,Edgemont,Washington County,39.677,-77.547
 03388,Goldsboro,Caroline County,39.034,-75.787
 00869,Bloomington,Garrett County,39.480,-79.071
-07008,Queen Anne,Queen Anne's County / Talbot County,38.919,-75.954
+07008,Queen Anne,Queen Anne's County,38.919,-75.954
 03418,Gorman,Garrett County,39.295,-79.346
 00468,Barclay,Queen Anne's County,39.144,-75.864
 05290,Marydel,Caroline County,39.113,-75.746

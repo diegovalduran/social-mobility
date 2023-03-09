@@ -9,7 +9,7 @@ phoneme,name,county,latitude,longitude
 08433,Taylorsville,Salt Lake County,40.668,-111.939
 03719,Herriman,Salt Lake County,40.514,-112.033
 04948,Logan,Cache County,41.735,-111.834
-02437,Draper,Salt Lake County / Utah County,40.495,-111.861
+02437,Draper,Salt Lake County,40.495,-111.861
 05856,Murray,Salt Lake County,40.667,-111.888
 00958,Bountiful,Davis County,40.889,-111.881
 07288,Riverton,Salt Lake County,40.522,-111.939
@@ -29,7 +29,7 @@ phoneme,name,county,latitude,longitude
 04101,Hurricane,Washington County,37.175,-113.290
 09129,West Haven,Weber County,41.203,-112.051
 03899,Highland,Utah County,40.450,-111.770
-00900,Bluffdale,Salt Lake County / Utah County,40.475,-111.940
+00900,Bluffdale,Salt Lake County,40.475,-111.940
 03813,Heber,Wasatch County,40.507,-111.413
 01519,Centerville,Davis County,40.918,-111.872
 07924,Smithfield,Cache County,41.838,-111.833
@@ -47,7 +47,7 @@ phoneme,name,county,latitude,longitude
 07284,Riverdale,Weber County,41.177,-112.004
 04016,Hooper,Weber County,41.164,-112.122
 06981,Providence,Cache County,41.706,-111.817
-06500,Park City,Summit County / Wasatch County,40.652,-111.502
+06500,Park City,Summit County,40.652,-111.502
 06958,Price,Carbon County,39.599,-110.811
 07219,Richfield,Sevier County,38.772,-112.084
 06774,Plain City,Weber County,41.298,-112.086

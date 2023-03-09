@@ -1,6 +1,6 @@
 phoneme,name,county,latitude,longitude
-06892,Portland,Clackamas County / Multnomah County / Washington County,45.537,-122.650
-07536,Salem,Marion County / Polk County,44.924,-123.023
+06892,Portland,Clackamas County,45.537,-122.650
+07536,Salem,Marion County,44.924,-123.023
 02825,Eugene,Lane County,44.052,-123.087
 03561,Gresham,Multnomah County,45.498,-122.431
 03931,Hillsboro,Washington County,45.523,-122.990
@@ -9,13 +9,13 @@ phoneme,name,county,latitude,longitude
 05424,Medford,Jackson County,42.327,-122.876
 08067,Springfield,Lane County,44.046,-123.022
 01965,Corvallis,Benton County,44.565,-123.262
-00082,Albany,Benton County / Linn County,44.627,-123.097
+00082,Albany,Benton County,44.627,-123.097
 00151,Aloha,Washington County,45.490,-122.872
 04345,Keizer,Marion County,44.990,-123.026
 06353,Oregon City,Clackamas County,45.357,-122.607
 07103,Redmond,Deschutes County,44.273,-121.174
 05393,McMinnville,Yamhill County,45.210,-123.199
-09336,Wilsonville,Clackamas County / Washington County,45.311,-122.771
+09336,Wilsonville,Clackamas County,45.311,-122.771
 03059,Forest Grove,Washington County,45.520,-123.111
 09405,Woodburn,Marion County,45.144,-122.855
 03685,Happy Valley,Clackamas County,45.447,-122.530
@@ -23,12 +23,12 @@ phoneme,name,county,latitude,longitude
 07393,Roseburg,Douglas County,43.217,-123.342
 03786,Hayesville,Marion County,44.981,-122.972
 00327,Ashland,Jackson County,42.195,-122.709
-05584,Milwaukie,Clackamas County / Multnomah County,45.445,-122.621
+05584,Milwaukie,Clackamas County,45.445,-122.621
 00728,Bethany,Washington County,45.553,-122.837
 07813,Sherwood,Washington County,45.357,-122.840
 00161,Altamont,Klamath County,42.203,-121.726
 01523,Central Point,Jackson County,42.376,-122.916
-01487,Cedar Mill,Multnomah County / Washington County,45.535,-122.801
+01487,Cedar Mill,Multnomah County,45.535,-122.801
 04758,Lebanon,Linn County,44.537,-122.907
 01335,Canby,Clackamas County,45.263,-122.693
 06214,Oak Grove,Clackamas County,45.417,-122.640
@@ -78,7 +78,7 @@ phoneme,name,county,latitude,longitude
 02074,Crooked River Ranch,Deschutes County,44.425,-121.238
 00590,Beavercreek,Clackamas County,45.288,-122.534
 07809,Sheridan,Yamhill County,45.099,-123.395
-02074,Crooked River Ranch,Deschutes County / Jefferson County,44.424,-121.276
+02074,Crooked River Ranch,Deschutes County,44.424,-121.276
 04584,Lafayette,Yamhill County,45.244,-123.115
 06672,Phoenix,Jackson County,42.275,-122.818
 00903,Boardman,Morrow County,45.840,-119.701
@@ -111,7 +111,7 @@ phoneme,name,county,latitude,longitude
 03457,Grand Ronde,Polk County,45.060,-123.609
 04404,Keno,Klamath County,42.127,-121.929
 01593,Chenoweth,Wasco County,45.621,-121.225
-05542,Mill City,Linn County / Marion County,44.752,-122.477
+05542,Mill City,Linn County,44.752,-122.477
 01845,Columbia City,Columbia County,45.890,-122.807
 02503,Durham,Washington County,45.402,-122.753
 07048,Rainier,Columbia County,46.089,-122.936
@@ -132,7 +132,7 @@ phoneme,name,county,latitude,longitude
 00532,Bay City,Tillamook County,45.523,-123.889
 08462,Terrebonne,Deschutes County,44.349,-121.180
 03382,Gold Hill,Jackson County,42.432,-123.051
-03457,Grand Ronde,Polk County / Yamhill County,45.074,-123.621
+03457,Grand Ronde,Polk County,45.074,-123.621
 01786,Coburg,Lane County,44.137,-123.066
 07993,South Lebanon,Linn County,44.509,-122.904
 05044,Lowell,Lane County,43.918,-122.784
@@ -165,7 +165,7 @@ phoneme,name,county,latitude,longitude
 01873,Condon,Gilliam County,45.234,-120.185
 09077,Wimer,Jackson County,42.539,-123.149
 02891,Falcon Heights,Klamath County,42.138,-121.757
-03257,Gaston,Washington County / Yamhill County,45.435,-123.145
+03257,Gaston,Washington County,45.435,-123.145
 07732,Selma,Josephine County,42.279,-123.616
 05658,Monroe,Benton County,44.314,-123.297
 02599,Echo,Umatilla County,45.742,-119.196
@@ -175,12 +175,12 @@ phoneme,name,county,latitude,longitude
 01998,Cove,Union County,45.297,-117.808
 05809,Mount Vernon,Grant County,44.418,-119.114
 02720,Elmira,Lane County,44.066,-123.354
-07286,Rivergrove,Clackamas County / Washington County,45.385,-122.734
+07286,Rivergrove,Clackamas County,45.385,-122.734
 04298,Johnson City,Clackamas County,45.405,-122.579
 03518,Green Meadows,Umatilla County,45.617,-118.800
 04095,Huntington,Baker County,44.351,-117.267
 01598,Cherry Grove,Washington County,45.448,-123.242
-03260,Gates,Linn County / Marion County,44.756,-122.420
+03260,Gates,Linn County,44.756,-122.420
 05220,Mapleton,Lane County,44.031,-123.866
 01112,Brooks,Marion County,45.051,-122.955
 06204,O'Brien,Josephine County,42.069,-123.721
@@ -241,7 +241,7 @@ phoneme,name,county,latitude,longitude
 07969,Summerville,Union County,45.488,-118.003
 02022,Crane,Harney County,43.415,-118.578
 05693,Monument,Grant County,44.819,-119.421
-03083,Fort Hill,Polk County / Yamhill County,45.067,-123.561
+03083,Fort Hill,Polk County,45.067,-123.561
 03713,Harper,Malheur County,43.863,-117.610
 06017,New Pine Creek,Lake County,41.994,-120.297
 06619,Peoria,Linn County,44.449,-123.207
@@ -398,7 +398,7 @@ phoneme,name,county,latitude,longitude
 03419,Goshen,Lane County,43.996,-123.010
 03507,Green Acres,Coos County,43.258,-124.205
 03528,Greenback,Josephine County,42.653,-123.312
-03536,Greenhorn,Baker County / Grant County,44.709,-118.497
+03536,Greenhorn,Baker County,44.709,-118.497
 03539,Greenleaf,Lane County,44.114,-123.667
 03615,Holland,Josephine County,42.128,-123.539
 03627,Hager,Klamath County,42.191,-121.700

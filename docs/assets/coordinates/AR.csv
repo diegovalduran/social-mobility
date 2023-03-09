@@ -2,7 +2,7 @@ phoneme,name,county,latitude,longitude
 04906,Little Rock,Pulaski County,34.746,-92.290
 02939,Fayetteville,Washington County,36.063,-94.157
 03088,Fort Smith,Sebastian County,35.386,-94.399
-08065,Springdale,Benton County / Washington County,36.191,-94.155
+08065,Springdale,Benton County,36.191,-94.155
 04314,Jonesboro,Craighead County,35.842,-90.704
 07357,Rogers,Benton County,36.332,-94.119
 01902,Conway,Faulkner County,35.089,-92.442
@@ -70,7 +70,7 @@ phoneme,name,county,latitude,longitude
 02692,Elkins,Washington County,36.001,-94.008
 05181,Manila,Mississippi County,35.880,-90.167
 04297,Johnson,Washington County,36.133,-94.165
-00105,Alexander,Pulaski County / Saline County,34.619,-92.451
+00105,Alexander,Pulaski County,34.619,-92.451
 05241,Marianna,Lee County,34.774,-90.758
 06439,Ozark,Franklin County,35.487,-93.828
 03053,Fordyce,Dallas County,33.814,-92.413
@@ -86,8 +86,8 @@ phoneme,name,county,latitude,longitude
 04062,Hoxie,Lawrence County,36.050,-90.975
 01567,Charleston,Franklin County,35.297,-94.036
 00938,Bono,Craighead County,35.909,-90.803
-02715,Elm Springs,Benton County / Washington County,36.206,-94.238
-04039,Horseshoe Bend,Fulton County / Izard County / Sharp County,36.219,-91.738
+02715,Elm Springs,Benton County,36.206,-94.238
+04039,Horseshoe Bend,Fulton County,36.219,-91.738
 00431,Bald Knob,White County,35.310,-91.568
 01741,Clinton,Van Buren County,35.591,-92.460
 03655,Hamburg,Ashley County,33.228,-91.798
@@ -99,14 +99,14 @@ phoneme,name,county,latitude,longitude
 07536,Salem,Saline County,34.629,-92.558
 03723,Harrisburg,Poinsett County,35.564,-90.717
 03419,Goshen,Washington County,36.101,-93.991
-03367,Glenwood,Montgomery County / Pike County,34.328,-93.527
+03367,Glenwood,Montgomery County,34.328,-93.527
 05335,Mayflower,Faulkner County,34.957,-92.427
 04627,Lake Village,Chicot County,33.329,-91.282
 02195,Danville,Yell County,35.054,-93.394
 01381,Carlisle,Lonoke County,34.783,-91.747
 00367,Augusta,Woodruff County,35.282,-91.365
 04609,Lake Hamilton,Garland County,34.425,-93.095
-01460,Cave City,Independence County / Sharp County,35.948,-91.547
+01460,Cave City,Independence County,35.948,-91.547
 05439,Melbourne,Izard County,36.060,-91.908
 02306,Des Arc,Prairie County,34.977,-91.495
 00531,Bay,Craighead County,35.742,-90.562
@@ -139,7 +139,7 @@ phoneme,name,county,latitude,longitude
 08948,Waldo,Columbia County,33.352,-93.296
 06215,Oak Grove Heights,Greene County,36.121,-90.511
 05593,Mineral Springs,Howard County,33.875,-93.914
-05194,Mansfield,Scott County / Sebastian County,35.064,-94.234
+05194,Mansfield,Scott County,35.064,-94.234
 07359,Roland,Pulaski County,34.901,-92.498
 09442,Wooster,Faulkner County,35.202,-92.456
 04078,Hughes,St. Francis County,34.949,-90.471
@@ -160,13 +160,13 @@ phoneme,name,county,latitude,longitude
 02515,Dyer,Crawford County,35.492,-94.138
 00571,Bearden,Ouachita County,33.725,-92.616
 08183,Stephens,Ouachita County,33.411,-93.070
-03696,Hardy,Fulton County / Sharp County,36.320,-91.481
+03696,Hardy,Fulton County,36.320,-91.481
 03610,Guy,Faulkner County,35.325,-92.334
 09334,Wilson,Mississippi County,35.568,-90.042
 05132,Madison,St. Francis County,35.013,-90.723
 02132,Kirby,Pike County,34.250,-93.641
 07639,Sardis,Saline County,34.532,-92.408
-07021,Quitman,Cleburne County / Faulkner County,35.382,-92.215
+07021,Quitman,Cleburne County,35.382,-92.215
 03424,Gould,Lincoln County,33.985,-91.561
 07335,Rockport,Hot Spring County,34.388,-92.825
 00192,Amity,Clark County,34.265,-93.461
@@ -201,7 +201,7 @@ phoneme,name,county,latitude,longitude
 07533,Salado,Independence County,35.691,-91.595
 06778,Plainview,Yell County,34.990,-93.297
 01521,Central City,Sebastian County,35.319,-94.252
-04086,Humphrey,Arkansas County / Jefferson County,34.422,-91.702
+04086,Humphrey,Arkansas County,34.422,-91.702
 04794,Leola,Grant County,34.170,-92.591
 02032,Crawfordsville,Crittenden County,35.225,-90.325
 03982,Holly Grove,Monroe County,34.596,-91.200
@@ -211,7 +211,7 @@ phoneme,name,county,latitude,longitude
 02838,Evening Shade,Sharp County,36.072,-91.619
 00644,Bellefonte,Boone County,36.201,-93.049
 06891,Portia,Lawrence County,36.086,-91.067
-02749,Emmet,Hempstead County / Nevada County,33.723,-93.466
+02749,Emmet,Hempstead County,33.723,-93.466
 03816,Hector,Pope County,35.467,-92.975
 04312,Jones Mill,Hot Spring County,34.438,-92.888
 08256,Strong,Union County,33.108,-92.335
@@ -221,14 +221,14 @@ phoneme,name,county,latitude,longitude
 07174,Reyno,Randolph County,36.363,-90.754
 09328,Wilmar,Drew County,33.629,-91.932
 06214,Oak Grove,Carroll County,36.456,-93.437
-02177,Damascus,Faulkner County / Van Buren County,35.367,-92.411
+02177,Damascus,Faulkner County,35.367,-92.411
 05338,Maynard,Randolph County,36.420,-90.897
 05399,McNeil,Columbia County,33.348,-93.210
 03037,Floyd,White County,35.191,-91.968
 05528,Midway,Hot Spring County,34.254,-92.964
 00026,Acorn,Polk County,34.643,-94.201
 04805,Leslie,Searcy County,35.830,-92.558
-00152,Alpena,Boone County / Carroll County,36.293,-93.304
+00152,Alpena,Boone County,36.293,-93.304
 00280,Arkansas City,Desha County,33.609,-91.207
 05801,Mount Pleasant,Izard County,35.962,-91.756
 09361,Winslow,Washington County,35.801,-94.135
@@ -410,7 +410,7 @@ phoneme,name,county,latitude,longitude
 02611,Edgemont,Cleburne County,35.602,-92.196
 02860,Fair Oaks,Cross County,35.243,-91.031
 06534,Patmos,Hempstead County,33.512,-93.566
-07635,Saratoga,Hempstead County / Howard County,33.744,-93.904
+07635,Saratoga,Hempstead County,33.744,-93.904
 07812,Sherrill,Jefferson County,34.385,-91.951
 08947,Waldenburg,Poinsett County,35.565,-90.934
 04587,LaGrange,Lee County,34.656,-90.733
@@ -423,7 +423,7 @@ phoneme,name,county,latitude,longitude
 00881,Blue Eye,Carroll County,36.498,-93.398
 08901,Violet Hill,Izard County,36.154,-91.842
 03221,Gamaliel,Baxter County,36.457,-92.233
-07100,Reader,Nevada County / Ouachita County,33.752,-93.101
+07100,Reader,Nevada County,33.752,-93.101
 05396,McNab,Hempstead County,33.661,-93.833
 00784,Birdsong,Mississippi County,35.458,-90.263
 06852,Ponca,Newton County,36.024,-93.365
@@ -431,7 +431,7 @@ phoneme,name,county,latitude,longitude
 03307,Gilbert,Searcy County,35.988,-92.716
 04277,Jerome,Drew County,33.400,-91.470
 05442,Mellwood,Phillips County,34.220,-90.950
-07687,Scott,Lonoke County / Pulaski County,34.698,-92.094
+07687,Scott,Lonoke County,34.698,-92.094
 08870,Victoria,Mississippi County,35.757,-90.056
 05798,Mount Olive,Izard County,36.001,-92.093
 06327,Oneida,Phillips County,34.461,-90.783

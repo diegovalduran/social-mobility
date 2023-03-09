@@ -1,5 +1,5 @@
 phoneme,name,county,latitude,longitude
-00347,Atlanta,DeKalb County / Fulton County,33.763,-84.423
+00347,Atlanta,DeKalb County,33.763,-84.423
 00367,Augusta,Richmond County,33.361,-82.075
 01849,Columbus,Muscogee County,32.461,-84.988
 05125,Macon,Bibb County,32.809,-83.694
@@ -7,7 +7,7 @@ phoneme,name,county,latitude,longitude
 00342,Athens,Clarke County,33.952,-83.367
 07988,South Fulton,Fulton County,33.601,-84.551
 07612,Sandy Springs,Fulton County,33.924,-84.379
-07419,Roswell,Cobb County / Fulton County,34.039,-84.351
+07419,Roswell,Cobb County,34.039,-84.351
 00082,Albany,Dougherty County,31.579,-84.156
 05245,Marietta,Cobb County,33.953,-84.550
 07936,Smyrna,Cobb County,33.884,-84.514
@@ -36,7 +36,7 @@ phoneme,name,county,latitude,longitude
 03564,Griffin,Spalding County,33.247,-84.264
 01411,Cartersville,Bartow County,34.165,-84.800
 00024,Acworth,Cobb County,34.066,-84.677
-06628,Perry,Houston County / Peach County,32.472,-83.726
+06628,Perry,Houston County,32.472,-83.726
 08349,Suwanee,Gwinnett County,34.051,-84.071
 03065,Forest Park,Clayton County,33.622,-84.369
 02939,Fayetteville,Fayette County,33.449,-84.455
@@ -45,7 +45,7 @@ phoneme,name,county,latitude,longitude
 09341,Winder,Barrow County,33.993,-83.720
 08118,St. Marys,Camden County,30.731,-81.546
 01519,Centerville,Gwinnett County,33.804,-84.043
-01195,Buford,Gwinnett County / Hall County,34.120,-83.990
+01195,Buford,Gwinnett County,34.120,-83.990
 06110,Norcross,Gwinnett County,33.941,-84.214
 07227,Richmond Hill,Bryan County,31.938,-81.303
 03986,Holly Springs,Cherokee County,34.174,-84.501
@@ -58,7 +58,7 @@ phoneme,name,county,latitude,longitude
 05658,Monroe,Walton County,33.795,-83.713
 04845,Lilburn,Gwinnett County,33.890,-84.143
 07284,Riverdale,Clayton County,33.573,-84.413
-04950,Loganville,Gwinnett County / Walton County,33.837,-83.896
+04950,Loganville,Gwinnett County,33.837,-83.896
 01149,Brunswick,Glynn County,31.150,-81.491
 05767,Moultrie,Colquitt County,31.180,-83.789
 01696,Clarkston,DeKalb County,33.810,-84.240
@@ -66,14 +66,14 @@ phoneme,name,county,latitude,longitude
 02003,Covington,Newton County,33.597,-83.860
 00419,Bainbridge,Decatur County,30.904,-84.575
 04263,Jefferson,Jackson County,34.117,-83.572
-01823,College Park,Clayton County / Fulton County,33.641,-84.463
-09048,Waycross,Pierce County / Ware County,31.211,-82.358
+01823,College Park,Clayton County,33.641,-84.463
+09048,Waycross,Pierce County,31.211,-82.358
 05824,Mountain Park,Gwinnett County,33.844,-84.129
 03279,Georgetown,Chatham County,31.983,-81.227
 02415,Douglas,Coffee County,31.509,-82.850
 05032,Lovejoy,Clayton County,33.436,-84.314
 07258,Rincon,Effingham County,32.296,-81.235
-08873,Vidalia,Montgomery County / Toombs County,32.212,-82.402
+08873,Vidalia,Montgomery County,32.212,-82.402
 07689,Scottdale,DeKalb County,33.790,-84.264
 03233,Garden City,Chatham County,32.114,-81.154
 01497,Cedartown,Polk County,34.054,-85.255
@@ -83,17 +83,17 @@ phoneme,name,county,latitude,longitude
 04940,Locust Grove,Henry County,33.346,-84.109
 08562,Toccoa,Stephens County,34.577,-83.332
 02145,Cusseta,Chattahoochee County,32.347,-84.788
-02995,Fitzgerald,Ben Hill County / Irwin County,31.713,-83.251
+02995,Fitzgerald,Ben Hill County,31.713,-83.251
 02860,Fair Oaks,Cobb County,33.916,-84.545
 03090,Fort Valley,Peach County,32.554,-83.887
 02447,Druid Hills,DeKalb County,33.780,-84.336
 03669,Hampton,Henry County,33.387,-84.283
 01519,Centerville,Houston County,32.630,-83.690
 04199,Irondale,Clayton County,33.481,-84.359
-00360,Auburn,Barrow County / Gwinnett County,34.015,-83.834
+00360,Auburn,Barrow County,34.015,-83.834
 08721,Tyrone,Fayette County,33.471,-84.597
 01858,Commerce,Jackson County,34.204,-83.457
-01032,Bremen,Carroll County / Haralson County,33.711,-85.152
+01032,Bremen,Carroll County,33.711,-85.152
 02127,Cumming,Forsyth County,34.207,-84.140
 04584,LaFayette,Walker County,34.705,-85.282
 01889,Conley,Clayton County,33.645,-84.326
@@ -105,7 +105,7 @@ phoneme,name,county,latitude,longitude
 02882,Fairview,Walker County,34.946,-85.284
 09051,Waynesboro,Burke County,33.090,-82.016
 07598,Sandersville,Washington County,32.982,-82.810
-08448,Temple,Carroll County / Haralson County,33.733,-85.027
+08448,Temple,Carroll County,33.733,-85.027
 04232,Jackson,Butts County,33.295,-83.966
 02581,Eastman,Dodge County,32.198,-83.178
 08383,Sylvester,Worth County,31.531,-83.835
@@ -113,14 +113,14 @@ phoneme,name,county,latitude,longitude
 06243,Oakwood,Hall County,34.228,-83.884
 00834,Blakely,Early County,31.378,-84.934
 03953,Hiram,Paulding County,33.876,-84.762
-06474,Palmetto,Coweta County / Fulton County,33.536,-84.674
+06474,Palmetto,Coweta County,33.536,-84.674
 01788,Cochran,Bleckley County,32.387,-83.355
 05132,Madison,Morgan County,33.596,-83.468
 05899,Nashville,Berrien County,31.207,-83.250
 05679,Montgomery,Chatham County,31.940,-81.122
 01578,Chatsworth,Murray County,34.766,-84.770
 01947,Cornelia,Habersham County,34.511,-83.527
-04641,Lakeview,Catoosa County / Walker County,34.977,-85.254
+04641,Lakeview,Catoosa County,34.977,-85.254
 03499,Grayson,Gwinnett County,33.894,-83.956
 01166,Buckhead,Bryan County,31.857,-81.263
 03077,Forsyth,Monroe County,33.034,-83.938
@@ -141,13 +141,13 @@ phoneme,name,county,latitude,longitude
 03704,Harlem,Columbia County,33.415,-82.313
 00930,Bonanza,Clayton County,33.466,-84.337
 03847,Hephzibah,Richmond County,33.314,-82.097
-00433,Baldwin,Banks County / Habersham County,34.488,-83.547
-09150,West Point,Harris County / Troup County,32.899,-85.141
+00433,Baldwin,Banks County,34.488,-83.547
+09150,West Point,Harris County,32.899,-85.141
 03363,Glennville,Tattnall County,31.937,-81.928
-03859,Heron Bay,Henry County / Spalding County,33.339,-84.192
+03859,Heron Bay,Henry County,33.339,-84.192
 09014,Washington,Wilkes County,33.737,-82.739
 03542,Greensboro,Greene County,33.576,-83.182
-05172,Manchester,Meriwether County / Talbot County,32.859,-84.634
+05172,Manchester,Meriwether County,32.859,-84.634
 01732,Cleveland,White County,34.597,-83.763
 04771,Leesburg,Lee County,31.732,-84.171
 07260,Ringgold,Catoosa County,34.916,-85.109
@@ -166,7 +166,7 @@ phoneme,name,county,latitude,longitude
 08067,Springfield,Effingham County,32.372,-81.311
 05555,Millen,Jenkins County,32.804,-81.949
 08874,Vienna,Dooly County,32.092,-83.795
-05068,Lula,Banks County / Hall County,34.398,-83.662
+05068,Lula,Banks County,34.398,-83.662
 00868,Bloomingdale,Chatham County,32.132,-81.299
 08734,Unadilla,Dooly County,32.262,-83.737
 07973,Soperton,Treutlen County,32.377,-82.592
@@ -190,7 +190,7 @@ phoneme,name,county,latitude,longitude
 01709,Clayton,Rabun County,34.878,-83.401
 08026,Sparks,Cook County,31.167,-83.437
 05809,Mount Vernon,Montgomery County,32.179,-82.595
-05340,Maysville,Banks County / Jackson County,34.255,-83.553
+05340,Maysville,Banks County,34.255,-83.553
 01843,Colquitt,Miller County,31.171,-84.733
 04146,Indian Springs,Catoosa County,34.958,-85.164
 00259,Arcade,Jackson County,34.078,-83.562
@@ -217,25 +217,25 @@ phoneme,name,county,latitude,longitude
 04867,Lincolnton,Lincoln County,33.792,-82.479
 02745,Emerson,Bartow County,34.127,-84.755
 05774,Mount Airy,Habersham County,34.519,-83.501
-00910,Bogart,Clarke County / Oconee County,33.948,-83.534
+00910,Bogart,Clarke County,33.948,-83.534
 04000,Homer,Banks County,34.334,-83.499
 08975,Walnut Grove,Walton County,33.743,-83.852
 08029,Sparta,Hancock County,33.276,-82.976
-06321,Omega,Colquitt County / Tift County,31.339,-83.594
+06321,Omega,Colquitt County,31.339,-83.594
 08324,Sunnyside,Ware County,31.239,-82.342
 02879,Fairplay,Douglas County,33.623,-84.860
 09516,Zebulon,Pike County,33.102,-84.343
 02621,Edison,Calhoun County,31.558,-84.738
-06725,Pine Mountain,Harris County / Meriwether County,32.852,-84.852
+06725,Pine Mountain,Harris County,32.852,-84.852
 00890,Blue Ridge,Fannin County,34.864,-84.324
-00285,Arlington,Calhoun County / Early County,31.437,-84.730
+00285,Arlington,Calhoun County,31.437,-84.730
 00952,Boston,Thomas County,30.792,-83.790
 09369,Winterville,Clarke County,33.967,-83.278
 01462,Cave Spring,Floyd County,34.108,-85.336
 07182,Resaca,Gordon County,34.580,-84.943
 04618,Lake Park,Lowndes County,30.682,-83.180
 07308,Rochelle,Wilcox County,31.951,-83.456
-05928,Nelson,Cherokee County / Pickens County,34.379,-84.371
+05928,Nelson,Cherokee County,34.379,-84.371
 01679,Clermont,Hall County,34.478,-83.774
 06663,Phillipsburg,Tift County,31.440,-83.519
 01004,Branchville,Mitchell County,31.150,-84.315
@@ -248,7 +248,7 @@ phoneme,name,county,latitude,longitude
 04226,Ivey,Wilkinson County,32.907,-83.291
 05072,Lumber City,Telfair County,31.929,-82.680
 05880,Nahunta,Brantley County,31.204,-81.981
-00164,Alto,Banks County / Habersham County,34.465,-83.573
+00164,Alto,Banks County,34.465,-83.573
 07639,Sardis,Burke County,32.975,-81.758
 05074,Lumpkin,Stewart County,32.051,-84.799
 08675,Tunnel Hill,Whitfield County,34.841,-85.043
@@ -256,7 +256,7 @@ phoneme,name,county,latitude,longitude
 01161,Buchanan,Haralson County,33.803,-85.189
 07195,Reynolds,Taylor County,32.560,-84.096
 04265,Jeffersonville,Twiggs County,32.688,-83.347
-05438,Meigs,Mitchell County / Thomas County,31.072,-84.093
+05438,Meigs,Mitchell County,31.072,-84.093
 05815,Mountain City,Rabun County,34.918,-83.385
 03133,Franklin,Heard County,33.278,-85.098
 03999,Homeland,Charlton County,30.856,-82.021
@@ -278,7 +278,7 @@ phoneme,name,county,latitude,longitude
 08376,Sycamore,Turner County,31.674,-83.637
 06532,Patterson,Pierce County,31.387,-82.140
 04788,Lenox,Cook County,31.272,-83.465
-00902,Blythe,Burke County / Richmond County,33.303,-82.207
+00902,Blythe,Burke County,33.303,-82.207
 04474,Kingston,Bartow County,34.237,-84.944
 06723,Pine Lake,DeKalb County,33.794,-84.206
 00731,Bethlehem,Barrow County,33.932,-83.714
@@ -286,23 +286,23 @@ phoneme,name,county,latitude,longitude
 04864,Lincoln Park,Upson County,32.868,-84.330
 02189,Danielsville,Madison County,34.124,-83.221
 09214,White,Bartow County,34.283,-84.745
-01344,Canon,Franklin County / Hart County,34.342,-83.112
+01344,Canon,Franklin County,34.342,-83.112
 06886,Portal,Bulloch County,32.538,-81.932
 02322,Dexter,Laurens County,32.432,-83.061
 01801,Colbert,Madison County,34.038,-83.213
 02072,Crooked Creek,Putnam County,33.266,-83.275
-05533,Milan,Dodge County / Telfair County,32.019,-83.062
+05533,Milan,Dodge County,32.019,-83.062
 03302,Gibson,Glascock County,33.233,-82.595
 09252,Whitesburg,Carroll County,33.494,-84.914
 07930,Smithville,Lee County,31.900,-84.252
 02466,Dudley,Laurens County,32.542,-83.070
 06068,Newton,Baker County,31.313,-84.336
-05824,Mountain Park,Cherokee County / Fulton County,34.083,-84.414
+05824,Mountain Park,Cherokee County,34.083,-84.414
 01112,Brooks,Fayette County,33.291,-84.459
 05382,McIntyre,Wilkinson County,32.846,-83.191
 05582,Milstead,Rockdale County,33.688,-83.992
 06777,Plains,Sumter County,32.034,-84.393
-00046,Adrian,Emanuel County / Johnson County,32.530,-82.592
+00046,Adrian,Emanuel County,32.530,-82.592
 03821,Helen,White County,34.701,-83.732
 04751,Leary,Calhoun County,31.486,-84.514
 08921,Waco,Haralson County,33.703,-85.183
@@ -323,7 +323,7 @@ phoneme,name,county,latitude,longitude
 02033,Crawfordville,Taliaferro County,33.554,-82.896
 05455,Menlo,Chattooga County,34.485,-85.476
 07892,Sky Valley,Rabun County,34.988,-83.333
-02751,Empire,Bleckley County / Dodge County,32.337,-83.283
+02751,Empire,Bleckley County,32.337,-83.283
 08679,Turin,Coweta County,33.327,-84.636
 00251,Arabi,Crisp County,31.832,-83.738
 05194,Mansfield,Newton County,33.518,-83.734
@@ -340,14 +340,14 @@ phoneme,name,county,latitude,longitude
 05723,Moreland,Coweta County,33.287,-84.768
 09291,Wildwood,Dade County,34.963,-85.411
 00953,Bostwick,Morgan County,33.737,-83.514
-01015,Braswell,Paulding County / Polk County,33.984,-84.958
-00507,Barwick,Brooks County / Thomas County,30.894,-83.739
+01015,Braswell,Paulding County,33.984,-84.958
+00507,Barwick,Brooks County,30.894,-83.739
 06779,Plainville,Gordon County,34.405,-85.037
 07536,Salem,Upson County,32.759,-84.188
 03395,Good Hope,Walton County,33.785,-83.609
 00791,Bishop,Oconee County,33.819,-83.439
 04805,Leslie,Sumter County,31.955,-84.087
-05279,Martin,Franklin County / Stephens County,34.486,-83.197
+05279,Martin,Franklin County,34.486,-83.197
 02342,Dillard,Rabun County,34.970,-83.387
 09053,Waynesville,Brantley County,31.229,-81.789
 03724,Harrison,Washington County,32.826,-82.725
@@ -372,7 +372,7 @@ phoneme,name,county,latitude,longitude
 01379,Carlton,Madison County,34.043,-83.034
 02911,Fargo,Clinch County,30.682,-82.567
 03241,Garfield,Emanuel County,32.650,-82.098
-08433,Taylorsville,Bartow County / Polk County,34.085,-84.986
+08433,Taylorsville,Bartow County,34.085,-84.986
 09233,White Plains,Greene County,33.472,-83.035
 00377,Avalon,Stephens County,34.502,-83.195
 00207,Andersonville,Sumter County,32.196,-84.140
@@ -398,15 +398,15 @@ phoneme,name,county,latitude,longitude
 01166,Buckhead,Morgan County,33.568,-83.362
 00274,Argyle,Clinch County,31.074,-82.648
 03936,Hilltop,Pike County,33.104,-84.436
-00132,Allentown,Bleckley County / Laurens County / Twiggs County / Wilkinson County,32.587,-83.226
+00132,Allentown,Bleckley County,32.587,-83.226
 06256,Oconee,Washington County,32.855,-82.950
 02299,Denton,Jeff Davis County,31.723,-82.694
 00505,Bartow,Jefferson County,32.879,-82.474
 00974,Box Springs,Talbot County,32.533,-84.661
-07686,Scotland,Telfair County / Wheeler County,32.047,-82.818
+07686,Scotland,Telfair County,32.047,-82.818
 03328,Girard,Burke County,33.040,-81.712
 00157,Alston,Montgomery County,32.081,-82.478
-02195,Danville,Twiggs County / Wilkinson County,32.606,-83.246
+02195,Danville,Twiggs County,32.606,-83.246
 04499,Kite,Johnson County,32.692,-82.515
 07345,Rocky Ford,Screven County,32.663,-81.830
 02840,Everett,Glynn County,31.391,-81.639
@@ -443,7 +443,7 @@ phoneme,name,county,latitude,longitude
 04523,Knoxville,Crawford County,32.724,-83.998
 08424,Tarrytown,Montgomery County,32.319,-82.559
 05171,Manassas,Tattnall County,32.160,-82.020
-07186,Rest Haven,Gwinnett County / Hall County,34.136,-83.975
+07186,Rest Haven,Gwinnett County,34.136,-83.975
 01078,Bristol,Pierce County,31.449,-82.215
 01494,Cedar Springs,Early County,31.184,-85.038
 05912,Naylor,Lowndes County,30.909,-83.078

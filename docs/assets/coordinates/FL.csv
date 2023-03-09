@@ -38,7 +38,7 @@ phoneme,name,county,latitude,longitude
 09164,Westchester,Miami-Dade County,25.755,-80.327
 06615,Pensacola,Escambia County,30.421,-87.217
 01991,Country Club,Miami-Dade County,25.939,-80.311
-03112,Four Corners,Lake County / Orange County / Osceola County / Polk County,28.333,-81.647
+03112,Four Corners,Lake County,28.333,-81.647
 08554,Titusville,Brevard County,28.612,-80.808
 08758,University,Hillsborough County,28.077,-82.433
 06255,Ocoee,Orange County,28.569,-81.544
@@ -83,7 +83,7 @@ phoneme,name,county,latitude,longitude
 03973,Holiday,Pasco County,28.188,-82.740
 03582,Groveland,Lake County,28.558,-81.851
 06470,Palm Valley,St. Johns County,30.177,-81.388
-02765,Englewood,Charlotte County / Sarasota County,26.969,-82.348
+02765,Englewood,Charlotte County,26.969,-82.348
 05528,Midway,Santa Rosa County,30.388,-86.991
 04091,Hunters Creek,Orange County,28.361,-81.422
 00505,Bartow,Polk County,27.896,-81.843
@@ -212,7 +212,7 @@ phoneme,name,county,latitude,longitude
 07047,Rainbow Lakes Estates,Levy County,29.107,-82.285
 05528,Midway,Gadsden County,30.495,-84.454
 01482,Cedar Grove,Bay County,30.171,-85.625
-07047,Rainbow Lakes Estates,Levy County / Marion County,29.160,-82.510
+07047,Rainbow Lakes Estates,Levy County,29.160,-82.510
 07976,South Beach,Indian River County,27.591,-80.344
 02524,Eagle Lake,Polk County,27.978,-81.756
 09312,Williston,Levy County,29.387,-82.447
@@ -372,7 +372,7 @@ phoneme,name,county,latitude,longitude
 07975,Sorrento,Lake County,28.808,-81.564
 04889,Lisbon,Lake County,28.871,-81.790
 06722,Pine Island,Hernando County,28.575,-82.653
-00276,Aripeka,Hernando County / Pasco County,28.429,-82.668
+00276,Aripeka,Hernando County,28.429,-82.668
 06408,Otter Creek,Levy County,29.325,-82.772
 00167,Altoona,Lake County,28.966,-81.649
 02223,Day,Lafayette County,30.194,-83.291

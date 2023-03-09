@@ -1,19 +1,19 @@
 phoneme,name,county,latitude,longitude
-04098,Huntsville,Limestone County / Madison County / Morgan County,34.782,-86.533
+04098,Huntsville,Limestone County,34.782,-86.533
 05679,Montgomery,Montgomery County,32.367,-86.300
-00786,Birmingham,Jefferson County / Shelby County,33.527,-86.797
-04018,Hoover,Jefferson County / Shelby County,33.379,-86.809
+00786,Birmingham,Jefferson County,33.527,-86.797
+04018,Hoover,Jefferson County,33.379,-86.809
 00360,Auburn,Lee County,32.610,-85.481
-02411,Dothan,Dale County / Henry County / Houston County,31.234,-85.407
-05132,Madison,Limestone County / Madison County,34.711,-86.762
-02239,Decatur,Limestone County / Morgan County,34.573,-86.990
+02411,Dothan,Dale County,31.234,-85.407
+05132,Madison,Limestone County,34.711,-86.762
+02239,Decatur,Limestone County,34.573,-86.990
 03027,Florence,Lauderdale County,34.800,-87.677
-06948,Prattville,Autauga County / Elmore County,32.449,-86.449
+06948,Prattville,Autauga County,32.449,-86.449
 03201,Gadsden,Etowah County,34.014,-86.007
 00076,Alabaster,Shelby County,33.244,-86.816
 06335,Opelika,Lee County,32.645,-85.378
 06176,Northport,Tuscaloosa County,33.229,-87.577
-02777,Enterprise,Coffee County / Dale County,31.327,-85.844
+02777,Enterprise,Coffee County,31.327,-85.844
 02196,Daphne,Baldwin County,30.604,-87.904
 00342,Athens,Limestone County,34.803,-86.972
 04005,Homewood,Jefferson County,33.472,-86.801
@@ -21,15 +21,15 @@ phoneme,name,county,latitude,longitude
 06588,Pelham,Shelby County,33.286,-86.810
 02872,Fairhope,Baldwin County,30.523,-87.903
 00087,Albertville,Marshall County,34.268,-86.209
-06437,Oxford,Calhoun County / Talladega County,33.597,-85.868
+06437,Oxford,Calhoun County,33.597,-85.868
 03040,Foley,Baldwin County,30.407,-87.684
-03822,Helena,Jefferson County / Shelby County,33.283,-86.879
+03822,Helena,Jefferson County,33.283,-86.879
 00222,Anniston,Calhoun County,33.660,-85.832
 06961,Prichard,Mobile County,30.739,-88.079
 07732,Selma,Dallas County,32.407,-87.021
 08652,Troy,Pike County,31.809,-85.970
-01287,Calera,Chilton County / Shelby County,33.122,-86.746
-05550,Millbrook,Autauga County / Elmore County,32.501,-86.374
+01287,Calera,Chilton County,33.122,-86.746
+05550,Millbrook,Autauga County,32.501,-86.374
 05860,Muscle Shoals,Colbert County,34.745,-87.668
 03239,Gardendale,Jefferson County,33.660,-86.813
 01510,Center Point,Jefferson County,33.646,-86.684
@@ -42,23 +42,23 @@ phoneme,name,county,latitude,longitude
 04199,Irondale,Jefferson County,33.538,-86.707
 04237,Jacksonville,Calhoun County,33.814,-85.761
 02824,Eufaula,Barbour County,31.891,-85.145
-04767,Leeds,Jefferson County / Shelby County / St. Clair County,33.547,-86.571
+04767,Leeds,Jefferson County,33.547,-86.571
 07478,Russellville,Franklin County,34.508,-87.729
 08789,Valley,Chambers County,32.819,-85.179
 03067,Forestdale,Jefferson County,33.574,-86.903
 08025,Spanish Fort,Baldwin County,30.675,-87.915
-01704,Clay,Jefferson County / St. Clair County,33.697,-86.608
-00904,Boaz,Etowah County / Marshall County,34.199,-86.155
+01704,Clay,Jefferson County,33.697,-86.608
+00904,Boaz,Etowah County,34.199,-86.155
 07046,Rainbow City,Etowah County,33.955,-86.042
 07532,Saks,Calhoun County,33.708,-85.844
 02870,Fairfield,Jefferson County,33.475,-86.919
 05413,Meadowbrook,Shelby County,33.404,-86.691
 06794,Pleasant Grove,Jefferson County,33.491,-86.970
-08017,Southside,Calhoun County / Etowah County,33.891,-86.018
+08017,Southside,Calhoun County,33.891,-86.018
 07789,Sheffield,Colbert County,34.765,-87.699
 08697,Tuscumbia,Colbert County,34.731,-87.703
 00205,Andalusia,Covington County,31.308,-86.483
-00250,Arab,Cullman County / Marshall County,34.332,-86.501
+00250,Arab,Cullman County,34.332,-86.501
 03548,Greenville,Butler County,31.830,-86.618
 05676,Montevallo,Shelby County,33.101,-86.864
 09191,Wetumpka,Elmore County,32.544,-86.212
@@ -78,7 +78,7 @@ phoneme,name,county,latitude,longitude
 05703,Moores Mill,Madison County,34.844,-86.518
 07049,Rainsville,DeKalb County,34.494,-85.848
 05240,Margaret,St. Clair County,33.686,-86.475
-03351,Glencoe,Calhoun County / Etowah County,33.948,-85.934
+03351,Glencoe,Calhoun County,33.948,-85.934
 07138,Redland,Elmore County,32.481,-86.144
 07296,Roanoke,Randolph County,33.151,-85.372
 01044,Brewton,Escambia County,31.105,-87.072
@@ -86,14 +86,14 @@ phoneme,name,county,latitude,longitude
 03995,Holtville,Elmore County,32.636,-86.327
 08073,Springville,St. Clair County,33.775,-86.472
 02170,Daleville,Dale County,31.310,-85.713
-09347,Winfield,Fayette County / Marion County,33.935,-87.791
-06684,Piedmont,Calhoun County / Cherokee County,33.928,-85.615
-08401,Tallassee,Elmore County / Tallapoosa County,32.533,-85.892
+09347,Winfield,Fayette County,33.935,-87.791
+06684,Piedmont,Calhoun County,33.928,-85.615
+08401,Tallassee,Elmore County,32.533,-85.892
 04232,Jackson,Clarke County,31.509,-87.894
 04040,Horton,Marshall County,34.201,-86.297
 05798,Mount Olive,Jefferson County,33.684,-86.875
-00271,Argo,Jefferson County / St. Clair County,33.691,-86.505
-03633,Haleyville,Marion County / Winston County,34.234,-87.618
+00271,Argo,Jefferson County,33.691,-86.505
+03633,Haleyville,Marion County,34.234,-87.618
 00034,Adamsville,Jefferson County,33.601,-86.956
 01848,Columbiana,Shelby County,33.178,-86.607
 02938,Fayette,Fayette County,33.685,-87.831
@@ -105,7 +105,7 @@ phoneme,name,county,latitude,longitude
 04454,Kimberly,Jefferson County,33.773,-86.814
 03009,Flat Rock,Jackson County,34.770,-85.694
 01981,Cottondale,Tuscaloosa County,33.190,-87.452
-04626,Lake View,Jefferson County / Tuscaloosa County,33.288,-87.133
+04626,Lake View,Jefferson County,33.288,-87.133
 01157,Bryant,Jackson County,34.944,-85.632
 08496,Thomasville,Clarke County,31.913,-87.736
 01506,Centre,Cherokee County,34.152,-85.679
@@ -119,7 +119,7 @@ phoneme,name,county,latitude,longitude
 05248,Marion,Perry County,32.632,-87.319
 04920,Livingston,Sumter County,32.584,-88.187
 04581,Ladonia,Russell County,32.466,-85.089
-05772,Moundville,Hale County / Tuscaloosa County,32.997,-87.628
+05772,Moundville,Hale County,32.997,-87.628
 02159,Dadeville,Tallapoosa County,32.831,-85.764
 01034,Brent,Bibb County,32.937,-87.165
 05998,New Hope,Madison County,34.537,-86.394
@@ -129,7 +129,7 @@ phoneme,name,county,latitude,longitude
 03736,Hartford,Geneva County,31.102,-85.697
 04551,La Fayette,Chambers County,32.900,-85.401
 03395,Good Hope,Cullman County,34.116,-86.864
-08635,Trinity,Lawrence County / Morgan County,34.597,-87.081
+08635,Trinity,Lawrence County,34.597,-87.081
 04877,Lineville,Clay County,33.311,-85.754
 09494,York,Sumter County,32.486,-88.296
 00003,Abbeville,Henry County,31.572,-85.250
@@ -137,7 +137,7 @@ phoneme,name,county,latitude,longitude
 01069,Brighton,Jefferson County,33.434,-86.947
 02400,Dora,Walker County,33.729,-87.090
 01709,Clayton,Barbour County,31.878,-85.450
-08429,Taylor,Geneva County / Houston County,31.169,-85.476
+08429,Taylor,Geneva County,31.169,-85.476
 05524,Midland City,Dale County,31.319,-85.494
 01059,Bridgeport,Jackson County,34.948,-85.714
 05743,Morris,Jefferson County,33.748,-86.809
@@ -147,15 +147,15 @@ phoneme,name,county,latitude,longitude
 08154,Stapleton,Baldwin County,30.743,-87.793
 03542,Greensboro,Hale County,32.705,-87.596
 09251,Whitesboro,Etowah County,34.163,-86.069
-08816,Vance,Bibb County / Tuscaloosa County,33.174,-87.227
+08816,Vance,Bibb County,33.174,-87.227
 00120,Aliceville,Pickens County,33.130,-88.151
 07910,Slocomb,Geneva County,31.108,-85.594
 01146,Brundidge,Pike County,31.720,-85.816
 04888,Lipscomb,Jefferson County,33.426,-86.927
 08752,Uniontown,Perry County,32.450,-87.514
-01830,Collinsville,Cherokee County / DeKalb County,34.267,-85.869
+01830,Collinsville,Cherokee County,34.267,-85.869
 02657,Elberta,Baldwin County,30.414,-87.598
-08890,Vincent,Shelby County / St. Clair County / Talladega County,33.383,-86.403
+08890,Vincent,Shelby County,33.383,-86.403
 00327,Ashland,Clay County,33.274,-85.836
 08184,Stevenson,Jackson County,34.869,-85.839
 02043,Creola,Mobile County,30.892,-88.040
@@ -182,7 +182,7 @@ phoneme,name,county,latitude,longitude
 07932,Smoke Rise,Blount County,33.892,-86.820
 01869,Concord,Jefferson County,33.468,-87.031
 06068,Newton,Dale County,31.335,-85.605
-09431,Woodstock,Bibb County / Tuscaloosa County,33.218,-87.148
+09431,Woodstock,Bibb County,33.218,-87.148
 05167,Malvern,Geneva County,31.139,-85.519
 08294,Summerdale,Baldwin County,30.488,-87.700
 07312,Rock Creek,Jefferson County,33.477,-87.080
@@ -225,7 +225,7 @@ phoneme,name,county,latitude,longitude
 06559,Pea Ridge,Shelby County,33.153,-86.928
 01595,Cherokee,Colbert County,34.757,-87.973
 02968,Fyffe,DeKalb County,34.447,-85.904
-00167,Altoona,Blount County / Etowah County,34.040,-86.305
+00167,Altoona,Blount County,34.040,-86.305
 08893,Vinemont,Cullman County,34.242,-86.866
 03987,Hollywood,Jackson County,34.724,-85.972
 04771,Leesburg,Cherokee County,34.180,-85.761
@@ -255,13 +255,13 @@ phoneme,name,county,latitude,longitude
 04826,Lexington,Lauderdale County,34.969,-87.371
 01835,Columbia,Houston County,31.293,-85.112
 06759,Pisgah,Jackson County,34.681,-85.848
-04319,Joppa,Cullman County / Marshall County,34.300,-86.550
+04319,Joppa,Cullman County,34.300,-86.550
 00036,Addison,Winston County,34.202,-87.181
 04738,Leighton,Colbert County,34.701,-87.529
 00417,Baileyton,Cullman County,34.262,-86.613
 09233,White Plains,Calhoun County,33.747,-85.689
 04881,Lynn,Winston County,34.047,-87.550
-08612,Trafford,Blount County / Jefferson County,33.819,-86.746
+08612,Trafford,Blount County,33.819,-86.746
 09150,West Point,Cullman County,34.239,-86.959
 08927,Wadley,Randolph County,33.122,-85.566
 09337,Wilton,Shelby County,33.079,-86.882
@@ -279,8 +279,8 @@ phoneme,name,county,latitude,longitude
 02848,Excel,Monroe County,31.428,-87.341
 06072,Newville,Henry County,31.422,-85.338
 02882,Fairview,Cullman County,34.255,-86.688
-03233,Garden City,Blount County / Cullman County,34.015,-86.749
-05117,McKenzie,Butler County / Conecuh County,31.546,-86.726
+03233,Garden City,Blount County,34.015,-86.749
+05117,McKenzie,Butler County,31.546,-86.726
 00702,Berlin,Cullman County,34.181,-86.742
 07276,River Falls,Covington County,31.353,-86.539
 01438,Castleberry,Conecuh County,31.299,-87.022
@@ -291,7 +291,7 @@ phoneme,name,county,latitude,longitude
 07121,Red Level,Covington County,31.407,-86.612
 02694,Elkmont,Limestone County,34.929,-86.974
 04398,Kennedy,Lamar County,33.587,-87.984
-03338,Glen Allen,Fayette County / Marion County,33.892,-87.733
+03338,Glen Allen,Fayette County,33.892,-87.733
 08129,St. Stephens,Washington County,31.540,-88.055
 05528,Midway,Bullock County,32.077,-85.522
 09132,West Jefferson,Jefferson County,33.649,-87.069
@@ -313,7 +313,7 @@ phoneme,name,county,latitude,longitude
 05460,Mentone,DeKalb County,34.580,-85.591
 09196,Whatley,Clarke County,31.651,-87.705
 05341,Maytown,Jefferson County,33.536,-86.997
-01994,County Line,Blount County / Jefferson County,33.821,-86.719
+01994,County Line,Blount County,33.821,-86.719
 02117,Cuba,Sumter County,32.428,-88.376
 03413,Gordon,Houston County,31.141,-85.097
 01391,Carolina,Covington County,31.241,-86.528
@@ -347,7 +347,7 @@ phoneme,name,county,latitude,longitude
 03185,Fruitdale,Washington County,31.343,-88.408
 03961,Hobson,Washington County,31.472,-88.153
 00630,Belk,Fayette County,33.648,-87.931
-05909,Nauvoo,Walker County / Winston County,33.984,-87.485
+05909,Nauvoo,Walker County,33.984,-87.485
 09026,Waterloo,Lauderdale County,34.918,-88.064
 00593,Beaverton,Lamar County,33.931,-88.020
 06458,Paint Rock,Jackson County,34.661,-86.329
@@ -365,7 +365,7 @@ phoneme,name,county,latitude,longitude
 04641,Lakeview,DeKalb County,34.391,-85.978
 00455,Banks,Pike County,31.815,-85.843
 03367,Glenwood,Crenshaw County,31.665,-86.171
-09046,Waverly,Chambers County / Lee County / Tallapoosa County,32.730,-85.571
+09046,Waverly,Chambers County,32.730,-85.571
 02145,Cusseta,Chambers County,32.785,-85.306
 06373,Orrville,Dallas County,32.306,-87.246
 02253,Deer Park,Washington County,31.217,-88.317
@@ -387,7 +387,7 @@ phoneme,name,county,latitude,longitude
 08142,Standing Rock,Chambers County,33.080,-85.253
 06617,Penton,Chambers County,33.007,-85.466
 05920,Needham,Choctaw County,31.988,-88.337
-01302,Calvert,Mobile County / Washington County,31.150,-88.022
+01302,Calvert,Mobile County,31.150,-88.022
 08743,Union Grove,Marshall County,34.402,-86.449
 02786,Equality,Coosa County,32.762,-86.102
 06646,Petrey,Crenshaw County,31.849,-86.208

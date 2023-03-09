@@ -15,7 +15,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 39567,Sherman,WI,Clark County,,city-us,834,44.728,-90.375,1973
 39562,Sherman,ME,Aroostook County,,city-us,803,45.890,-68.359,2907
 39565,Sherman,NY,Chautauqua County,,city-us,677,42.159,-79.595,3628
-39592,Sherman,MS,Lee County / Pontotoc County / Union County,,city-us,604,34.361,-88.839,4289
+39592,Sherman,MS,Lee County,,city-us,604,34.361,-88.839,4289
 39604,Sherman,KS,Riley County,,city-us,599,39.373,-96.749,669
 39569,Sherman,NE,Cuming County,,city-us,566,41.779,-96.696,341
 39571,Sherman,MO,DeKalb County,,city-us,495,39.886,-94.520,200
@@ -37,7 +37,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 39596,Sherman,SD,Minnehaha County,,city-us,78,43.759,-96.476,2737
 39589,Sherman,NE,Kearney County,,city-us,69,40.394,-99.009,341
 39575,Sherman,KS,Ellsworth County,,city-us,60,38.828,-98.207,669
-39611,Sherman,CT,Western Connecticut Planning Region,,city-us,55,41.572,-73.495,7066
+39611,Sherman,CT,Western Connecticut ,,city-us,55,41.572,-73.495,7066
 39563,Sherman,ND,Bottineau County,,city-us,50,48.843,-101.289,139
 39599,Sherman,KS,Ottawa County,,city-us,43,39.263,-97.537,669
 39576,Sherman,SD,Faulk County,,city-us,35,45.194,-99.517,2737

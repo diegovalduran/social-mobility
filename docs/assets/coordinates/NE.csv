@@ -60,7 +60,7 @@ phoneme,name,county,latitude,longitude
 03785,Hayes,Kearney County,40.481,-99.009
 00066,Ainsworth,Brown County,42.550,-99.863
 05623,Mitchell,Scotts Bluff County,41.940,-103.809
-08941,Wakefield,Dixon County / Wayne County,42.267,-96.863
+08941,Wakefield,Dixon County,42.267,-96.863
 05927,Neligh,Antelope County,42.129,-98.030
 08067,Springfield,Sarpy County,41.082,-96.134
 03413,Gordon,Sheridan County,42.805,-102.203
@@ -89,11 +89,11 @@ phoneme,name,county,latitude,longitude
 03834,Henderson,York County,40.780,-97.812
 01308,Cambridge,Furnas County,40.282,-100.166
 08464,Terrytown,Scotts Bluff County,41.847,-103.662
-07800,Shelton,Buffalo County / Hall County,40.778,-98.729
+07800,Shelton,Buffalo County,40.778,-98.729
 06319,Omaha,Thurston County,42.147,-96.479
 00142,Alma,Harlan County,40.098,-99.362
 00862,Bloomfield,Knox County,42.599,-97.646
-08531,Tilden,Antelope County / Madison County,42.043,-97.832
+08531,Tilden,Antelope County,42.043,-97.832
 02711,Elm Creek,Buffalo County,40.719,-99.372
 00254,Arapahoe,Furnas County,40.304,-99.900
 04714,Laurel,Cedar County,42.429,-97.090
@@ -114,7 +114,7 @@ phoneme,name,county,latitude,longitude
 03273,Genoa,Nance County,41.449,-97.731
 06852,Ponca,Dixon County,42.563,-96.706
 05614,Mirage,Kearney County,40.481,-99.123
-07066,Randolph,Cedar County / Pierce County,42.378,-97.358
+07066,Randolph,Cedar County,42.378,-97.358
 06386,Osceola,Polk County,41.180,-97.548
 01558,Chappell,Deuel County,41.093,-102.471
 04016,Hooper,Dodge County,41.611,-96.548
@@ -122,7 +122,7 @@ phoneme,name,county,latitude,longitude
 03492,Grattan,Holt County,42.441,-98.664
 00883,Blue Hill,Webster County,40.333,-98.449
 08773,Utica,Seward County,40.896,-97.345
-02745,Emerson,Dakota County / Dixon County / Thurston County,42.278,-96.726
+02745,Emerson,Dakota County,42.278,-96.726
 02031,Crawford,Dawes County,42.683,-103.413
 01279,Cairo,Hall County,41.001,-98.608
 07472,Rushville,Sheridan County,42.718,-102.464
@@ -147,7 +147,7 @@ phoneme,name,county,latitude,longitude
 02309,Deshler,Thayer County,40.141,-97.723
 01705,Clay Center,Clay County,40.522,-98.055
 05930,Nemaha,Gage County,40.485,-96.628
-06437,Oxford,Furnas County / Harlan County,40.253,-99.632
+06437,Oxford,Furnas County,40.253,-99.632
 01097,Broken Bow,Custer County,41.434,-99.641
 02671,Elgin,Antelope County,41.983,-98.084
 07791,Shelby,Polk County,41.192,-97.425
@@ -290,7 +290,7 @@ phoneme,name,county,latitude,longitude
 07685,Scotia,Greeley County,41.466,-98.703
 02680,Elk,Saunders County,41.261,-96.844
 06930,Prague,Saunders County,41.310,-96.808
-06465,Palisade,Hayes County / Hitchcock County,40.348,-101.107
+06465,Palisade,Hayes County,40.348,-101.107
 08921,Waco,York County,40.897,-97.463
 02971,Filley,Gage County,40.298,-96.529
 02175,Dalton,Cheyenne County,41.407,-102.974
@@ -371,7 +371,7 @@ phoneme,name,county,latitude,longitude
 02019,Craig,Burt County,41.786,-96.364
 02654,Elba,Howard County,41.286,-98.568
 08737,Union,Cass County,40.813,-95.923
-08658,Trumbull,Adams County / Clay County,40.680,-98.273
+08658,Trumbull,Adams County,40.680,-98.273
 02590,Eaton,Kearney County,40.568,-98.781
 00330,Ashton,Sherman County,41.248,-98.794
 04948,Logan,Dixon County,42.309,-96.958
@@ -585,7 +585,7 @@ phoneme,name,county,latitude,longitude
 03723,Harrisburg,Banner County,41.556,-103.739
 05288,Merry,Thurston County,42.226,-96.596
 09014,Washington,Knox County,42.629,-98.247
-03654,Halsey,Blaine County / Thomas County,41.903,-100.270
+03654,Halsey,Blaine County,41.903,-100.270
 01983,Cottonwood,Nance County,41.336,-98.225
 05535,Milburn,Custer County,41.701,-99.636
 05642,Momence,Fillmore County,40.481,-97.767
