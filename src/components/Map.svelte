@@ -24,6 +24,7 @@
 	import CountyTable from "$components/CountyTable.svelte";
 	import PlaceTable from "$components/PlaceTable.svelte";
 	import addDataToCounties from "$data/addDataToCounties.js";
+	import mq from "$stores/mq.js";
 	import variables from "$data/variables.json";
 
 	export let counties;
@@ -425,7 +426,7 @@
 				features={countyFeaturesRender}
 				stroke={countyStroke}
 				strokeWidth="0.5"
-				pointerEvents={true}
+				pointerEvents={$mq.desktop}
 				on:mouseleave={onMouseLeave}
 				on:mouseenter={onMouseEnter}
 			/>
