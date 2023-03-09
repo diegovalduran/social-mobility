@@ -37,7 +37,7 @@
 	"include": [
 		"src/**/*.js",
 		"src/**/*.svelte"
-	],
+, "tasks/cleanPlaceData.js"	],
 	"exclude": [
 		"tasks/*.js"
 	],

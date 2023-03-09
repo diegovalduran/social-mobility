@@ -1,16 +1,9 @@
 import fs from "fs";
 import * as d3 from "d3";
-// import haversine from "haversine-distance";
-// import gridPointsUS from "../src/utils/gridPointsUS.js";
-import cleanPlaceData from "../src/data/cleanPlaceData.js";
+import cleanPlaceData from "./cleanPlaceData.js";
 const copy = JSON.parse(fs.readFileSync("./src/data/copy-main.json", "utf8"));
 
-const raw = d3.csvParse(fs.readFileSync("./src/data/raw.csv", "utf8"));
-const stateLookup = d3.csvParse(
-	fs.readFileSync("./src/data/states.csv", "utf8")
-);
-
-const places = cleanPlaceData({ raw, stateLookup });
+const places = cleanPlaceData();
 
 function makePlaces() {
 	const byPhoneme = d3.groups(places, (d) => d.phoneme);
@@ -93,10 +86,12 @@ function makeCoordinates() {
 }
 
 function makeClassics() {
-	const classics = copy.classics.map((name) => ({
-		name,
-		phoneme: places.find((d) => d.name === name).phoneme
-	}));
+	const classics = copy.classics
+		.filter((d) => d)
+		.map((name) => ({
+			name,
+			phoneme: places.find((d) => d.name === name).phoneme
+		}));
 
 	fs.writeFileSync("./src/data/classics.csv", d3.csvFormat(classics));
 }
