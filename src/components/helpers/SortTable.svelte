@@ -176,7 +176,7 @@
 
 	/* scrollable */
 	.scrollable tbody {
-		height: var(--height, "auto");
+		max-height: var(--height, "auto");
 		overflow: auto;
 		display: block;
 	}

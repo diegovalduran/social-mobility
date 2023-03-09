@@ -15,7 +15,7 @@
 
 <div class="key">
 	<div class="top">
-		<ul>
+		<ul class:others={!!others}>
 			{#each top as { properties }}
 				{@const { fills, label } = properties}
 				<li style:color={fills.primary}>
@@ -78,6 +78,11 @@
 		list-style-type: none;
 		margin: 0;
 		padding: 0;
+		justify-content: center;
+	}
+
+	ul.others {
+		justify-content: flex-start;
 	}
 
 	.top li {
