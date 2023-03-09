@@ -114,7 +114,7 @@
 		const { data, name, state } = datum;
 		const text = `${name} ${state === "LA" ? "Parish" : "County"}, ${state}`;
 
-		const rows = data.slice(0, 2).map((d) => ({
+		const rows = data.slice(0, 3).map((d) => ({
 			label: d.label,
 			value: +format(".0f")((d[valueProp] / maxValue) * 100)
 		}));
