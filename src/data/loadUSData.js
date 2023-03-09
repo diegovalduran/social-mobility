@@ -1,7 +1,11 @@
 import * as topojson from "topojson-client";
-import { geoCentroid } from "d3";
+import { json, geoCentroid } from "d3";
+import { base } from "$app/paths";
+import stateLookup from "$data/states.csv";
 
-export default function cleanUSData({ us, stateLookup }) {
+export default async function cleanUSData() {
+	const us = await json(`${base}/assets/data/counties-10m.json`);
+
 	const countiesRaw = topojson.feature(us, us.objects.counties);
 
 	const counties = {

@@ -21,9 +21,37 @@
 	import MapKey from "$components/Map.Key.svelte";
 	import CountyTable from "$components/CountyTable.svelte";
 	import PlaceTable from "$components/PlaceTable.svelte";
-	import { counties, states } from "$data/us.js";
 	import addDataToCounties from "$data/addDataToCounties.js";
 	import variables from "$data/variables.json";
+
+	export let counties;
+	export let states;
+
+	export let location;
+	export let placeData;
+	export let placeName;
+
+	export let scaleTypePop = "scalePow";
+	export let scaleTypeWiki = "scalePow";
+	export let scaleTypeDist = "scaleLog";
+
+	export let scaleExpPop = "0.67";
+	export let scaleExpWiki = "0.67";
+	export let scaleExpDist = "1";
+
+	export let scaleBoundsPop = [0, 490000];
+	export let scaleBoundsWiki = [0, 87500];
+	export let scaleBoundsDist = [50, 200];
+
+	export let valueWeightDist = "2";
+	export let valueWeightPop = "1";
+	export let valueWeightWiki = "1";
+
+	export let thresholdLower = 0.5;
+	export let thresholdUpper = 0.75;
+	export let valueProp = "share";
+
+	export let countiesByDist = [];
 
 	const copy = getContext("copy");
 
@@ -54,32 +82,6 @@
 	let scalePop;
 	let scaleWiki;
 	let scaleDist;
-
-	export let location;
-	export let placeData;
-	export let placeName;
-
-	export let scaleTypePop = "scalePow";
-	export let scaleTypeWiki = "scalePow";
-	export let scaleTypeDist = "scaleLog";
-
-	export let scaleExpPop = "0.67";
-	export let scaleExpWiki = "0.67";
-	export let scaleExpDist = "1";
-
-	export let scaleBoundsPop = [0, 490000];
-	export let scaleBoundsWiki = [0, 87500];
-	export let scaleBoundsDist = [50, 200];
-
-	export let valueWeightDist = "2";
-	export let valueWeightPop = "1";
-	export let valueWeightWiki = "1";
-
-	export let thresholdLower = 0.5;
-	export let thresholdUpper = 0.75;
-	export let valueProp = "share";
-
-	export let countiesByDist = [];
 
 	function getLabel(d) {
 		const isCity = d.level === "city-us";

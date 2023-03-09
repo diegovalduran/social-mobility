@@ -1,8 +1,8 @@
-import { ascending, descending } from "d3";
+import { ascending } from "d3";
 import haversine from "haversine-distance";
-import { counties } from "$data/us.js";
 
-export default async function getNearestCounty({ lat, lon }) {
+export default async function getNearestCounty({ counties, location }) {
+	const { lon, lat } = location;
 	const data = counties.features.map(({ id, properties }) => ({
 		id,
 		...properties

@@ -8,13 +8,14 @@
 	import getNearestOptions from "$utils/getNearestOptions.js";
 	import getCountiesByDist from "$utils/getCountiesByDist.js";
 	import getLocation from "$utils/getLocation.js";
+	import loadUSData from "$data/loadUSData.js";
 	import Footer from "$components/Footer.svelte";
-	import classics from "$data/classics.csv";
 	import Map from "$components/Map.svelte";
 	import Select from "$components/Select.svelte";
 	import Share from "$components/Share.svelte";
 	import Icon from "$components/helpers/Icon.svelte";
 	import options from "$data/options.csv";
+	import classics from "$data/classics.csv";
 
 	const removeStorage = true;
 	const testLocate = true;
@@ -29,6 +30,8 @@
 	let nearestOptions;
 	let countiesByDist;
 	let open = false;
+	let counties;
+	let states;
 
 	function onChangePlace({ name, phoneme }) {
 		open = false;
@@ -44,23 +47,31 @@
 		return match;
 	}
 
+	async function customLocation() {
+		if (removeStorage) storage.remove("pudding_samename");
+
+		const storageLocation = storage.get("pudding_samename");
+		location = storageLocation || (await getLocation(testLocate)) || {};
+		if (!storageLocation && location?.state)
+			storage.set("pudding_samename", location);
+		if (location?.state) {
+			nearestOptions = await getNearestOptions(location);
+			countiesByDist = await getCountiesByDist({ counties, location });
+		}
+		location.lat = +location?.lat;
+		location.lon = +location?.lon;
+	}
+
 	onMount(async () => {
-		const initialPlace = getPlaceFromUrl();
-		onChangePlace(initialPlace);
-
 		try {
-			if (removeStorage) storage.remove("pudding_samename");
+			const us = await loadUSData();
+			counties = us.counties;
+			states = us.states;
 
-			const storageLocation = storage.get("pudding_samename");
-			location = storageLocation || (await getLocation(testLocate)) || {};
-			if (!storageLocation && location?.state)
-				storage.set("pudding_samename", location);
-			if (location?.state) {
-				nearestOptions = await getNearestOptions(location);
-				countiesByDist = await getCountiesByDist(location);
-			}
-			location.lat = +location?.lat;
-			location.lon = +location?.lon;
+			const initialPlace = getPlaceFromUrl();
+			onChangePlace(initialPlace);
+
+			await customLocation();
 		} catch (err) {
 			console.log(err);
 		}
@@ -135,7 +146,14 @@
 
 	<section id="interactive">
 		{#if placeData}
-			<Map {placeData} placeName={currentName} {location} {countiesByDist} />
+			<Map
+				{counties}
+				{states}
+				{placeData}
+				placeName={currentName}
+				{location}
+				{countiesByDist}
+			/>
 		{:else}
 			<p class="loading">loading...</p>
 		{/if}
