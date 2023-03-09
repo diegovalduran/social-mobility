@@ -458,7 +458,7 @@
 			<!-- <figcaption slot="figcaption"></figcaption> -->
 		</MapSvg>
 		<Tooltip x={tooltipDatum.x} y={tooltipDatum.y}>
-			<TooltipContent {...tooltipDatum} />
+			<TooltipContent {...tooltipDatum} x={tooltipDatum.x} y={tooltipDatum.y} />
 		</Tooltip>
 		<!-- svelte-ignore a11y-structure -->
 		<figcaption class="sr-only">{figcaption}</figcaption>
