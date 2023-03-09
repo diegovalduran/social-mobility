@@ -13,7 +13,7 @@ phoneme,name,county,latitude,longitude
 04700,Las Vegas,San Miguel County,35.594,-105.224
 00304,Artesia,Eddy County,32.842,-104.403
 05039,Lovington,Lea County,32.944,-103.349
-02802,Española,Rio Arriba County / Santa Fe County,36.004,-106.070
+02802,Española,Rio Arriba County,36.004,-106.070
 07860,Silver City,Grant County,32.770,-108.280
 00231,Anthony,Do��a Ana County,32.004,-106.606
 07953,Socorro,Socorro County,34.058,-106.891
@@ -21,7 +21,7 @@ phoneme,name,county,latitude,longitude
 00862,Bloomfield,San Juan County,36.711,-107.985
 08417,Taos,Taos County,36.407,-105.573
 00399,Aztec,San Juan County,36.822,-107.993
-02616,Edgewood,Bernalillo County / Sandoval County / Santa Fe County,35.131,-106.220
+02616,Edgewood,Bernalillo County,35.131,-106.220
 09235,White Rock,Los Alamos County,35.828,-106.204
 05410,Meadow Lake,Valencia County,34.801,-106.544
 06772,Placitas,Sandoval County,35.307,-106.425
@@ -39,7 +39,7 @@ phoneme,name,county,latitude,longitude
 07037,Radium Springs,Do��a Ana County,32.501,-106.928
 04563,La Plata,San Juan County,36.929,-108.190
 07622,Santa Clara,Grant County,32.780,-108.150
-00501,Barton,Bernalillo County / Santa Fe County,35.065,-106.257
+00501,Barton,Bernalillo County,35.065,-106.257
 03759,Hatch,Do��a Ana County,32.665,-107.153
 01849,Columbus,Luna County,31.828,-107.640
 08036,Spencerville,San Juan County,36.820,-108.058
@@ -102,7 +102,7 @@ phoneme,name,county,latitude,longitude
 08593,Torreon,Sandoval County,35.797,-107.214
 04559,La Madera,Sandoval County,35.223,-106.371
 00302,Arroyo Hondo,Santa Fe County,35.610,-105.945
-08537,Timberlake,Cibola County / McKinley County,35.201,-108.484
+08537,Timberlake,Cibola County,35.201,-108.484
 08333,Sunshine,Luna County,32.138,-107.753
 00840,Blanco,San Juan County,36.724,-107.825
 04111,Hyde Park,Santa Fe County,35.711,-105.887
@@ -117,7 +117,7 @@ phoneme,name,county,latitude,longitude
 02525,Eagle Nest,Colfax County,36.555,-105.264
 04247,Jamestown,McKinley County,35.481,-108.433
 02755,Encinal,Cibola County,35.117,-107.465
-02109,Crystal,McKinley County / San Juan County,36.030,-108.989
+02109,Crystal,McKinley County,36.030,-108.989
 07184,Reserve,Catron County,33.713,-108.758
 04557,La Jara,Sandoval County,36.088,-106.975
 00302,Arroyo Hondo,Taos County,36.536,-105.670
@@ -186,7 +186,7 @@ phoneme,name,county,latitude,longitude
 03367,Glenwood,Catron County,33.317,-108.883
 04002,Homestead,Catron County,34.146,-107.878
 03041,Folsom,Union County,36.845,-103.918
-06277,Ojo Caliente,Rio Arriba County / Taos County,36.315,-106.037
+06277,Ojo Caliente,Rio Arriba County,36.315,-106.037
 06750,Piñon,Otero County,32.618,-105.394
 03560,Grenville,Union County,36.593,-103.616
 09363,Winston,Sierra County,33.347,-107.647

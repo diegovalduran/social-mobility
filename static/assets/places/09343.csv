@@ -1,7 +1,7 @@
 id,name,state,county,country,level,population,latitude,longitude,wiki
 47251,Windsor,,,Canada,city-international,276165,42.283,-83.000,142
-47238,Windsor,CO,Larimer County / Weld County,,city-us,35788,40.478,-104.915,12819
-47226,Windsor,CT,Capitol Planning Region,,city-us,29376,41.871,-72.675,23779
+47238,Windsor,CO,Larimer County,,city-us,35788,40.478,-104.915,12819
+47226,Windsor,CT,Capitol ,,city-us,29376,41.871,-72.675,23779
 47245,Windsor,CA,Sonoma County,,city-us,26039,38.547,-122.816,17833
 47250,Windsor,PA,York County,,city-us,17853,39.948,-76.625,1111
 47229,Windsor,WI,Dane County,,city-us,8925,43.218,-89.342,4902
@@ -10,7 +10,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 47232,Windsor,MO,Henry County,,city-us,3372,38.511,-93.552,154
 47224,Windsor,NC,Bertie County,,city-us,3354,35.998,-76.946,5300
 47236,Windsor,VA,Isle of Wight County,,city-us,2826,36.808,-76.744,4381
-47233,Windsor,MO,Henry County / Pettis County,,city-us,2805,38.532,-93.523,4497
+47233,Windsor,MO,Henry County,,city-us,2805,38.532,-93.523,4497
 47237,Windsor,ME,Kennebec County,,city-us,2652,44.315,-69.571,3578
 47221,Windsor,OH,Ashtabula County,,city-us,2651,41.542,-80.954,203
 47222,Windsor,PA,Berks County,,city-us,2502,40.570,-75.952,1111
@@ -31,7 +31,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 47247,Windsor,MN,Traverse County,,city-us,74,45.698,-96.690,1734
 47220,Windsor,FL,Alachua County,,city-us,0,29.646,-82.186,1015
 47227,Windsor,KY,Casey County,,city-us,0,37.128,-85.912,122
-47230,Windsor,IN,Delaware County / Randolph County,,city-us,0,40.156,-85.215,361
+47230,Windsor,IN,Delaware County,,city-us,0,40.156,-85.215,361
 47243,Windsor,IN,Randolph County,,city-us,0,40.154,-85.213,361
 47246,Windsor,ND,Stutsman County,,city-us,0,46.896,-99.043,236
 47248,Windsor,GA,Walton County,,city-us,0,33.880,-83.842,269

@@ -4,7 +4,7 @@ phoneme,name,county,latitude,longitude
 05623,Mitchell,Davison County,43.709,-98.030
 09477,Yankton,Yankton County,42.871,-97.397
 04100,Huron,Beadle County,44.363,-98.214
-00973,Box Elder,Meade County / Pennington County,44.111,-103.081
+00973,Box Elder,Meade County,44.111,-103.081
 03723,Harrisburg,Lincoln County,43.431,-96.697
 08268,Sturgis,Meade County,44.410,-103.509
 08437,Tea,Lincoln County,43.446,-96.836
@@ -46,7 +46,7 @@ phoneme,name,county,latitude,longitude
 09448,Worthing,Lincoln County,43.329,-96.763
 01519,Centerville,Turner County,43.119,-96.961
 03920,Hill City,Pennington County,43.932,-103.575
-00285,Arlington,Brookings County / Kingsbury County,44.364,-97.134
+00285,Arlington,Brookings County,44.364,-97.134
 09259,Whitewood,Lawrence County,44.461,-103.639
 00008,Aberdeen,Brown County,45.454,-98.521
 03408,Goodwill,Roberts County,45.596,-97.050
@@ -114,7 +114,7 @@ phoneme,name,county,latitude,longitude
 05688,Montrose,McCook County,43.699,-97.184
 02746,Emery,Hanson County,43.602,-97.623
 02720,Elmira,Codington County,44.939,-97.057
-04194,Irene,Clay County / Turner County / Yankton County,43.084,-97.158
+04194,Irene,Clay County,43.084,-97.158
 01106,Brookings,Brookings County,44.335,-96.839
 01757,Clyde,Beadle County,44.320,-98.285
 09332,Wilmot,Roberts County,45.409,-96.858
@@ -172,7 +172,7 @@ phoneme,name,county,latitude,longitude
 00794,Bison,Perkins County,45.520,-102.461
 03193,Fuller,Codington County,45.014,-97.274
 06437,Oxford,Hamlin County,44.757,-97.216
-04203,Iroquois,Beadle County / Kingsbury County,44.368,-97.850
+04203,Iroquois,Beadle County,44.368,-97.850
 06785,Platte,Charles Mix County,43.388,-98.886
 04397,Kennebec,Lyman County,43.904,-99.862
 08057,Spring Lake,Kingsbury County,44.260,-97.222
@@ -253,7 +253,7 @@ phoneme,name,county,latitude,longitude
 02921,Farmington,Lake County,44.066,-97.189
 04054,Howard,Charles Mix County,43.226,-98.422
 03241,Garfield,Clay County,42.953,-96.865
-09106,Wessington,Beadle County / Hand County,44.455,-98.697
+09106,Wessington,Beadle County,44.455,-98.697
 03269,Gem,Brown County,45.372,-98.340
 04861,Lincoln,Lincoln County,43.218,-96.739
 06243,Oakwood,Brookings County,44.407,-96.959
@@ -423,7 +423,7 @@ phoneme,name,county,latitude,longitude
 00998,Brainard,Brown County,45.727,-98.383
 03367,Glenwood,Deuel County,44.842,-96.544
 04594,Lake,Spink County,44.757,-98.636
-05194,Mansfield,Brown County / Spink County,45.246,-98.558
+05194,Mansfield,Brown County,45.246,-98.558
 07865,Silver Lake,Hutchinson County,43.466,-97.451
 03795,Hazel,Hamlin County,44.760,-97.380
 05998,New Hope,Brown County,45.294,-98.671

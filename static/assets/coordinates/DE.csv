@@ -6,8 +6,8 @@ phoneme,name,county,latitude,longitude
 00409,Bear,New Castle County,39.629,-75.658
 03335,Glasgow,New Castle County,39.605,-75.745
 01113,Brookside,New Castle County,39.667,-75.727
-07936,Smyrna,Kent County / New Castle County,39.292,-75.607
-05540,Milford,Kent County / Sussex County,38.910,-75.422
+07936,Smyrna,Kent County,39.292,-75.607
+05540,Milford,Kent County,38.910,-75.422
 07708,Seaford,Sussex County,38.641,-75.611
 06162,North Star,New Castle County,39.761,-75.719
 03279,Georgetown,Sussex County,38.690,-75.385
@@ -18,7 +18,7 @@ phoneme,name,county,latitude,longitude
 05968,New Castle,New Castle County,39.662,-75.566
 01309,Camden,Kent County,39.113,-75.542
 04714,Laurel,Sussex County,38.556,-75.571
-01709,Clayton,Kent County / New Castle County,39.274,-75.632
+01709,Clayton,Kent County,39.274,-75.632
 03720,Harrington,Kent County,38.924,-75.578
 05583,Milton,Sussex County,38.778,-75.310
 07726,Selbyville,Sussex County,38.460,-75.221

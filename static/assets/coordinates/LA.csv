@@ -31,15 +31,15 @@ phoneme,name,county,latitude,longitude
 02003,Covington,St. Tammany Parish,30.475,-90.101
 05760,Moss Bluff,Calcasieu Parish,30.303,-93.191
 09422,Woodmere,Jefferson Parish,29.858,-90.080
-00541,Bayou Blue,Lafourche Parish / Terrebonne Parish,29.632,-90.669
-05726,Morgan City,St. Martin Parish / St. Mary Parish,29.710,-91.192
+00541,Bayou Blue,Lafourche Parish,29.632,-90.669
+05726,Morgan City,St. Martin Parish,29.710,-91.192
 00003,Abbeville,Vermilion Parish,29.975,-92.134
 07028,Raceland,Lafourche Parish,29.727,-90.599
 08538,Timberlane,Jefferson Parish,29.877,-90.032
 04263,Jefferson,Jefferson Parish,29.966,-90.153
 04273,Jennings,Jefferson Davis Parish,30.222,-92.657
 00518,Bastrop,Morehouse Parish,32.756,-91.872
-02826,Eunice,Acadia Parish / St. Landry Parish,30.490,-92.419
+02826,Eunice,Acadia Parish,30.490,-92.419
 07184,Reserve,St. John the Baptist Parish,30.054,-90.552
 07687,Scott,Lafayette Parish,30.236,-92.095
 08127,St. Rose,St. Charles Parish,29.947,-90.323
@@ -195,7 +195,7 @@ phoneme,name,county,latitude,longitude
 01003,Branch,Acadia Parish,30.349,-92.268
 03307,Gilbert,Franklin Parish,32.049,-91.658
 08067,Springfield,Livingston Parish,30.429,-90.549
-04337,Junction City,Claiborne Parish / Union Parish,33.007,-92.722
+04337,Junction City,Claiborne Parish,33.007,-92.722
 04822,Lewisburg,St. Tammany Parish,30.370,-90.103
 07974,Sorrel,St. Mary Parish,29.889,-91.617
 02676,Elizabeth,Allen Parish,30.869,-92.793
@@ -260,7 +260,7 @@ phoneme,name,county,latitude,longitude
 02792,Eros,Jackson Parish,32.392,-92.424
 08031,Spearsville,Union Parish,32.936,-92.605
 06226,Oak Ridge,Morehouse Parish,32.624,-91.773
-02429,Downsville,Lincoln Parish / Union Parish,32.626,-92.413
+02429,Downsville,Lincoln Parish,32.626,-92.413
 03318,Gilliam,Caddo Parish,32.827,-93.845
 04983,Longstreet,De Soto Parish,32.098,-93.952
 06973,Prospect,Grant Parish,31.450,-92.488

@@ -1,17 +1,17 @@
 phoneme,name,county,latitude,longitude
-04353,Kansas City,Cass County / Clay County / Jackson County / Platte County,39.122,-94.555
+04353,Kansas City,Cass County,39.122,-94.555
 08113,St. Louis,St. Louis city,38.627,-90.198
-08067,Springfield,Christian County / Greene County,37.194,-93.293
+08067,Springfield,Christian County,37.194,-93.293
 01835,Columbia,Boone County,38.952,-92.334
-04130,Independence,Clay County / Jackson County,39.085,-94.352
+04130,Independence,Clay County,39.085,-94.352
 06205,O'Fallon,St. Charles County,38.811,-90.700
 08109,St. Joseph,Buchanan County,39.769,-94.847
 08092,St. Charles,St. Charles County,38.784,-90.481
 00892,Blue Springs,Jackson County,39.017,-94.282
 03032,Florissant,St. Louis County,38.789,-90.323
-04318,Joplin,Jasper County / Newton County,37.075,-94.501
+04318,Joplin,Jasper County,37.075,-94.501
 01610,Chesterfield,St. Louis County,38.663,-90.577
-04264,Jefferson City,Callaway County / Cole County,38.567,-92.175
+04264,Jefferson City,Callaway County,38.567,-92.175
 06242,Oakville,St. Louis County,38.470,-90.305
 09291,Wildwood,St. Louis County,38.583,-90.663
 04831,Liberty,Clay County,39.246,-94.419
@@ -28,7 +28,7 @@ phoneme,name,county,latitude,longitude
 00297,Arnold,Jefferson County,38.433,-90.378
 07362,Rolla,Phelps County,37.951,-91.771
 09005,Warrensburg,Johnson County,38.763,-93.736
-07179,Republic,Christian County / Greene County,37.169,-93.413
+07179,Republic,Christian County,37.169,-93.413
 00051,Affton,St. Louis County,38.551,-90.333
 01869,Concord,St. Louis County,38.525,-90.357
 02058,Creve Coeur,St. Louis County,38.661,-90.423
@@ -36,9 +36,9 @@ phoneme,name,county,latitude,longitude
 02921,Farmington,St. Francois County,37.781,-90.422
 05172,Manchester,St. Louis County,38.597,-90.509
 04491,Kirksville,Adair County,40.195,-92.583
-03678,Hannibal,Marion County / Ralls County,39.710,-91.394
+03678,Hannibal,Marion County,39.710,-91.394
 01709,Clayton,St. Louis County,38.643,-90.324
-07851,Sikeston,New Madrid County / Scott County,36.885,-89.587
+07851,Sikeston,New Madrid County,36.885,-89.587
 06423,Overland,St. Louis County,38.701,-90.362
 01413,Carthage,Jasper County,37.176,-94.310
 04232,Jackson,Cape Girardeau County,37.382,-89.666
@@ -52,13 +52,13 @@ phoneme,name,county,latitude,longitude
 09063,Webb City,Jasper County,37.146,-94.463
 08086,St. Ann,St. Louis County,38.727,-90.383
 04273,Jennings,St. Louis County,38.719,-90.260
-01012,Branson,Stone County / Taney County,36.612,-93.292
+01012,Branson,Stone County,36.612,-93.292
 03195,Fulton,Callaway County,38.847,-91.948
 05934,Neosho,Newton County,36.869,-94.368
 08737,Union,Franklin County,38.450,-91.008
 02055,Crestwood,St. Louis County,38.557,-90.382
 09149,West Plains,Howell County,36.728,-91.852
-02827,Eureka,Jefferson County / St. Louis County,38.498,-90.645
+02827,Eureka,Jefferson County,38.498,-90.645
 04130,Independence,Dunklin County,36.236,-90.038
 05492,Mexico,Audrain County,39.170,-91.883
 08603,Town and Country,St. Louis County,38.612,-90.463
@@ -66,21 +66,21 @@ phoneme,name,county,latitude,longitude
 00924,Bolivar,Polk County,37.614,-93.410
 05294,Maryville,Nodaway County,40.346,-94.872
 04363,Kearney,Clay County,39.368,-94.362
-07930,Smithville,Clay County / Platte County,39.397,-94.571
+07930,Smithville,Clay County,39.397,-94.571
 04401,Kennett,Dunklin County,36.236,-90.056
 03727,Harrisonville,Cass County,38.653,-94.349
 02708,Ellisville,St. Louis County,38.593,-90.587
-05650,Monett,Barry County / Lawrence County,36.921,-93.927
+05650,Monett,Barry County,36.921,-93.927
 01631,Chillicothe,Livingston County,39.787,-93.532
 01506,Center,Vernon County,37.807,-94.346
 01741,Clinton,Henry County,38.369,-93.778
 07226,Richmond Heights,St. Louis County,38.629,-90.320
 09006,Warrenton,Warren County,38.811,-91.142
-06795,Pleasant Hill,Cass County / Jackson County,38.806,-94.272
+06795,Pleasant Hill,Cass County,38.806,-94.272
 06501,Park Hills,St. Francois County,37.854,-90.518
 06633,Perryville,Perry County,37.724,-89.861
-01310,Cameron,Caldwell County / Clinton County / DeKalb County,39.745,-94.232
-06214,Oak Grove,Jackson County / Lafayette County,39.007,-94.128
+01310,Cameron,Caldwell County,39.745,-94.232
+06214,Oak Grove,Jackson County,39.007,-94.128
 05855,Murphy,Jefferson County,38.490,-90.487
 05944,Nevada,Vernon County,37.839,-94.355
 05222,Maplewood,St. Louis County,38.613,-90.325
@@ -90,9 +90,9 @@ phoneme,name,county,latitude,longitude
 00945,Boonville,Cooper County,38.974,-92.743
 06513,Parkville,Platte County,39.195,-94.682
 05273,Marshfield,Webster County,37.339,-92.907
-06443,Pacific,Franklin County / St. Louis County,38.481,-90.751
+06443,Pacific,Franklin County,38.481,-90.751
 00371,Aurora,Lawrence County,36.971,-93.718
-08288,Sullivan,Crawford County / Franklin County,38.213,-91.164
+08288,Sullivan,Crawford County,38.213,-91.164
 08800,Valley Park,St. Louis County,38.549,-90.493
 00808,Black Jack,St. Louis County,38.793,-90.267
 08107,St. John,St. Louis County,38.715,-90.346
@@ -101,7 +101,7 @@ phoneme,name,county,latitude,longitude
 09296,Willard,Greene County,37.305,-93.429
 07839,Shrewsbury,St. Louis County,38.590,-90.337
 03352,Glendale,St. Louis County,38.596,-90.377
-03552,Greenwood,Cass County / Jackson County,38.842,-94.334
+03552,Greenwood,Cass County,38.842,-94.334
 00528,Battlefield,Greene County,37.119,-93.368
 08624,Trenton,Grundy County,40.072,-93.577
 07225,Richmond,Ray County,39.279,-93.977
@@ -123,16 +123,16 @@ phoneme,name,county,latitude,longitude
 01103,Brookfield,Linn County,39.772,-93.071
 03892,Higginsville,Lafayette County,39.073,-93.717
 01446,Castor,Stoddard County,36.885,-89.940
-01524,Centralia,Audrain County / Boone County,39.211,-92.134
+01524,Centralia,Audrain County,39.211,-92.134
 03980,Hollister,Taney County,36.621,-93.215
 07536,Salem,Dent County,37.646,-91.536
 04826,Lexington,Lafayette County,39.185,-93.880
 01292,California,Moniteau County,38.628,-92.567
 05809,Mount Vernon,Lawrence County,37.104,-93.819
 02664,Eldon,Miller County,38.348,-92.582
-05817,Mountain Grove,Texas County / Wright County,37.134,-92.266
-07358,Rogersville,Greene County / Webster County,37.115,-93.075
-07688,Scott City,Cape Girardeau County / Scott County,37.225,-89.538
+05817,Mountain Grove,Texas County,37.134,-92.266
+07358,Rogersville,Greene County,37.115,-93.075
+07688,Scott City,Cape Girardeau County,37.225,-89.538
 03456,Grand River,DeKalb County,39.786,-94.266
 03147,Fredericktown,Madison County,37.560,-90.294
 04649,Lamar,Barton County,37.495,-94.277
@@ -150,14 +150,14 @@ phoneme,name,county,latitude,longitude
 06475,Palmyra,Marion County,39.794,-91.523
 06691,Pike,Stoddard County,37.031,-89.846
 03931,Hillsboro,Jefferson County,38.232,-90.563
-08819,Vandalia,Audrain County / Ralls County,39.308,-91.489
+08819,Vandalia,Audrain County,39.308,-91.489
 08737,Union,Dunklin County,36.537,-90.112
 09343,Windsor,Henry County,38.511,-93.552
 01188,Buffalo,Dallas County,37.644,-93.092
 00728,Bethany,Harrison County,40.251,-94.043
 08124,St. Paul,St. Charles County,38.861,-90.742
 05029,Louisiana,Pike County,39.449,-91.052
-08280,Sugar Creek,Clay County / Jackson County,39.139,-94.409
+08280,Sugar Creek,Clay County,39.139,-94.409
 01439,Cassville,Barry County,36.677,-93.869
 01214,Burdine,Texas County,37.119,-92.080
 08881,Villa Ridge,Franklin County,38.473,-90.887
@@ -168,22 +168,22 @@ phoneme,name,county,latitude,longitude
 00376,Ava,Douglas County,36.952,-92.660
 08549,Tipton,Moniteau County,38.656,-92.780
 05680,Montgomery City,Montgomery County,38.978,-91.505
-09343,Windsor,Henry County / Pettis County,38.532,-93.523
+09343,Windsor,Henry County,38.532,-93.523
 06806,Pleasant Valley,Clay County,39.216,-94.484
 06432,Owensville,Gasconade County,38.346,-91.502
 04838,Licking,Texas County,37.499,-91.857
 02938,Fayette,Howard County,39.146,-92.684
 03077,Forsyth,Taney County,36.685,-93.120
 03521,Green Park,St. Louis County,38.524,-90.338
-05660,Monroe City,Marion County / Monroe County / Ralls County,39.654,-91.732
+05660,Monroe City,Marion County,39.654,-91.732
 01353,Canton,Lewis County,40.125,-91.625
 05230,Marceline,Linn County,39.726,-92.943
-08241,Strafford,Greene County / Webster County,37.269,-93.118
+08241,Strafford,Greene County,37.269,-93.118
 05825,Mountain View,Howell County,36.995,-91.704
 08859,Versailles,Morgan County,38.431,-92.841
-04734,Lawson,Clay County / Ray County,39.433,-94.220
+04734,Lawson,Clay County,39.433,-94.220
 06907,Potosi,Washington County,37.936,-90.788
-08460,Terre du Lac,St. Francois County / Washington County,37.904,-90.618
+08460,Terre du Lac,St. Francois County,37.904,-90.618
 08460,Terre du Lac,St. Francois County,37.903,-90.616
 01991,Country Club,Andrew County,39.847,-94.824
 07544,Salisbury,Chariton County,39.411,-92.788
@@ -207,7 +207,7 @@ phoneme,name,county,latitude,longitude
 08737,Union,Daviess County,39.914,-93.927
 08737,Union,Putnam County,40.537,-93.042
 04050,Houston,Texas County,37.326,-91.956
-05230,Marceline,Chariton County / Linn County,39.718,-92.947
+05230,Marceline,Chariton County,39.718,-92.947
 00342,Athens,Gentry County,40.229,-94.290
 03442,Granby,Newton County,36.920,-94.263
 05252,Marionville,Lawrence County,37.003,-93.637
@@ -227,7 +227,7 @@ phoneme,name,county,latitude,longitude
 00862,Bloomfield,Stoddard County,36.886,-89.929
 09180,Weston,Platte County,39.411,-94.902
 01484,Cedar Hill,Jefferson County,38.353,-90.641
-07222,Richland,Camden County / Laclede County / Pulaski County,37.861,-92.400
+07222,Richland,Camden County,37.861,-92.400
 00046,Adrian,Bates County,38.398,-94.352
 08753,Unionville,Putnam County,40.477,-93.003
 05446,Memphis,Scotland County,40.458,-92.171
@@ -255,7 +255,7 @@ phoneme,name,county,latitude,longitude
 05725,Morgan,Mercer County,40.436,-93.581
 07637,Sarcoxie,Jasper County,37.069,-94.117
 08179,Steelville,Crawford County,37.968,-91.355
-00616,Belle,Maries County / Osage County,38.285,-91.721
+00616,Belle,Maries County,38.285,-91.721
 06234,Oakland,St. Louis County,38.576,-90.386
 04098,Huntsville,Randolph County,39.441,-92.545
 04881,Linn,Osage County,38.486,-91.850
@@ -284,7 +284,7 @@ phoneme,name,county,latitude,longitude
 07222,Richland,Stoddard County,36.840,-89.786
 01434,Cass,Texas County,37.196,-91.979
 05340,Maysville,DeKalb County,39.889,-94.362
-03335,Glasgow,Chariton County / Howard County,39.228,-92.838
+03335,Glasgow,Chariton County,39.228,-92.838
 02215,Davis,Caldwell County,39.573,-93.816
 04142,Indian Lake,Crawford County,38.091,-91.451
 01400,Carroll,Texas County,37.187,-91.700
@@ -301,7 +301,7 @@ phoneme,name,county,latitude,longitude
 06965,Princeton,Mercer County,40.401,-93.581
 03907,Highlandville,Christian County,36.933,-93.280
 04956,Loma Linda,Newton County,36.991,-94.587
-02442,Drexel,Bates County / Cass County,38.501,-94.604
+02442,Drexel,Bates County,38.501,-94.604
 09360,Winona,Shannon County,37.010,-91.323
 06007,New London,Ralls County,39.585,-91.401
 08267,Sturgeon,Boone County,39.234,-92.281
@@ -309,7 +309,7 @@ phoneme,name,county,latitude,longitude
 06386,Osceola,St. Clair County,38.047,-93.704
 04232,Jackson,Nodaway County,40.375,-94.678
 08656,Truesdale,Warren County,38.812,-91.130
-05589,Miner,Mississippi County / Scott County,36.907,-89.536
+05589,Miner,Mississippi County,36.907,-89.536
 06527,Pasadena Hills,St. Louis County,38.708,-90.293
 04256,Jasper,Jasper County,37.336,-94.301
 06006,New Lisbon,Stoddard County,36.972,-90.029
@@ -427,7 +427,7 @@ phoneme,name,county,latitude,longitude
 06845,Polo,Caldwell County,39.552,-94.041
 07928,Smithton,Pettis County,38.680,-93.093
 08858,Verona,Lawrence County,36.964,-93.796
-00841,Bland,Gasconade County / Osage County,38.300,-91.633
+00841,Bland,Gasconade County,38.300,-91.633
 03854,Hermitage,Hickory County,37.941,-93.316
 07792,Shelbyville,Shelby County,39.806,-92.042
 08737,Union,Barton County,37.611,-94.311
@@ -437,7 +437,7 @@ phoneme,name,county,latitude,longitude
 03027,Florence,Morgan County,38.589,-92.979
 02208,Date,Texas County,37.090,-91.710
 09219,White Cloud,Nodaway County,40.204,-94.878
-02237,Dearborn,Buchanan County / Platte County,39.525,-94.772
+02237,Dearborn,Buchanan County,39.525,-94.772
 08955,Walker,Vernon County,37.884,-94.238
 03154,Freeman,Cass County,38.618,-94.505
 02780,Eolia,Pike County,39.236,-91.008
@@ -450,13 +450,13 @@ phoneme,name,county,latitude,longitude
 06686,Pierce,Texas County,37.093,-91.843
 07536,Salem,Daviess County,40.095,-94.039
 02419,Dover,Vernon County,37.702,-94.221
-03993,Holt,Clay County / Clinton County,39.454,-94.339
+03993,Holt,Clay County,39.454,-94.339
 04263,Jefferson,Grundy County,39.994,-93.686
 00738,Beverly Hills,St. Louis County,38.700,-90.292
 03209,Galena,Stone County,36.805,-93.467
 04263,Jefferson,Daviess County,39.924,-94.144
 00633,Bell City,Stoddard County,37.024,-89.820
-08297,Summersville,Shannon County / Texas County,37.179,-91.658
+08297,Summersville,Shannon County,37.179,-91.658
 03133,Franklin,Grundy County,40.237,-93.581
 02250,Deer Creek,Henry County,38.412,-93.694
 08280,Sugar Creek,Harrison County,40.170,-93.821
@@ -497,7 +497,7 @@ phoneme,name,county,latitude,longitude
 03548,Greenville,Wayne County,37.127,-90.450
 05688,Montrose,Henry County,38.258,-93.981
 08770,Urbana,Dallas County,37.842,-93.167
-02868,Fairdealing,Butler County / Ripley County,36.663,-90.604
+02868,Fairdealing,Butler County,36.663,-90.604
 02115,Crystal Lakes,Ray County,39.359,-94.190
 01254,Butterfield,Barry County,36.750,-93.908
 05276,Marston,New Madrid County,36.519,-89.613
@@ -509,7 +509,7 @@ phoneme,name,county,latitude,longitude
 01697,Clarksville,Pike County,39.371,-90.905
 02285,Delta,Cape Girardeau County,37.197,-89.736
 00347,Atlanta,Macon County,39.899,-92.481
-06383,Osborn,Clinton County / DeKalb County,39.750,-94.357
+06383,Osborn,Clinton County,39.750,-94.357
 07247,Ridgeway,Harrison County,40.378,-93.937
 09203,Wheeling,Livingston County,39.799,-93.393
 09014,Washington,Mercer County,40.313,-93.579
@@ -542,7 +542,7 @@ phoneme,name,county,latitude,longitude
 09485,Yellow Creek,Chariton County,39.656,-93.045
 08117,St. Mary,Ste. Genevieve County,37.879,-89.949
 06990,Purcell,Jasper County,37.242,-94.435
-07502,Saddlebrooke,Christian County / Taney County,36.826,-93.203
+07502,Saddlebrooke,Christian County,36.826,-93.203
 02993,Fisk,Butler County,36.782,-90.209
 07841,Sibley,Jackson County,39.179,-94.193
 09188,Westwood,St. Louis County,38.644,-90.440
@@ -557,7 +557,7 @@ phoneme,name,county,latitude,longitude
 08995,Wardell,Pemiscot County,36.351,-89.818
 02427,Downing,Schuyler County,40.488,-92.369
 04965,Lone Oak,Bates County,38.178,-94.319
-01207,Bunker,Dent County / Reynolds County,37.458,-91.212
+01207,Bunker,Dent County,37.458,-91.212
 02562,East Lynne,Cass County,38.668,-94.229
 03456,Grand River,Bates County,38.422,-94.226
 05706,Mooresville,Livingston County,39.739,-93.716
@@ -606,7 +606,7 @@ phoneme,name,county,latitude,longitude
 05283,Martinsburg,Audrain County,39.102,-91.648
 00220,Annapolis,Iron County,37.360,-90.698
 02248,Deepwater,Bates County,38.255,-94.129
-01686,Clark,Boone County / Randolph County,39.280,-92.360
+01686,Clark,Boone County,39.280,-92.360
 01694,Clarksdale,DeKalb County,39.814,-94.551
 06850,Pomona,Howell County,36.867,-91.914
 05540,Milford,Barton County,37.590,-94.116
@@ -627,7 +627,7 @@ phoneme,name,county,latitude,longitude
 01014,Brashear,Adair County,40.149,-92.379
 02229,De Kalb,Buchanan County,39.587,-94.925
 03461,Grandin,Carter County,36.829,-90.823
-00815,Blackburn,Lafayette County / Saline County,39.105,-93.486
+00815,Blackburn,Lafayette County,39.105,-93.486
 04804,Leroy,Barton County,37.602,-94.556
 05592,Mineral Point,Washington County,37.945,-90.724
 05597,Mingo,Bates County,38.428,-94.113
@@ -646,7 +646,7 @@ phoneme,name,county,latitude,longitude
 00198,Amsterdam,Bates County,38.350,-94.589
 03533,Greencastle,Sullivan County,40.263,-92.878
 07472,Rushville,Buchanan County,39.587,-95.026
-01123,Browning,Linn County / Sullivan County,40.035,-93.160
+01123,Browning,Linn County,40.035,-93.160
 01854,Combs,Carroll County,39.395,-93.361
 05987,New Hamburg,Scott County,37.126,-89.593
 02173,Dallas,Harrison County,40.338,-94.157
@@ -665,7 +665,7 @@ phoneme,name,county,latitude,longitude
 00856,Blodgett,Scott County,37.004,-89.527
 04487,Kirbyville,Taney County,36.623,-93.164
 08042,Spokane,Christian County,36.868,-93.297
-02748,Emma,Lafayette County / Saline County,38.975,-93.495
+02748,Emma,Lafayette County,38.975,-93.495
 01279,Cairo,Randolph County,39.512,-92.440
 02139,Curryville,Pike County,39.346,-91.345
 00628,Belgrade,Washington County,37.787,-90.849
@@ -746,7 +746,7 @@ phoneme,name,county,latitude,longitude
 07222,Richland,Vernon County,37.893,-94.561
 09014,Washington,Daviess County,40.084,-93.932
 00564,Bear Creek,Henry County,38.246,-93.899
-00274,Argyle,Maries County / Osage County,38.295,-92.026
+00274,Argyle,Maries County,38.295,-92.026
 02825,Eugene,Cole County,38.353,-92.404
 04232,Jackson,Putnam County,40.435,-93.144
 05426,Medicine,Mercer County,40.310,-93.429
@@ -798,7 +798,7 @@ phoneme,name,county,latitude,longitude
 03016,Flemington,Polk County,37.805,-93.501
 04875,Lindley,Mercer County,40.525,-93.699
 08246,Strasburg,Cass County,38.760,-94.166
-00684,Bennett Springs,Dallas County / Laclede County,37.734,-92.856
+00684,Bennett Springs,Dallas County,37.734,-92.856
 06192,Novelty,Knox County,40.013,-92.208
 00106,Alexandria,Clark County,40.359,-91.455
 03175,Frisbee,Dunklin County,36.350,-90.029
@@ -851,7 +851,7 @@ phoneme,name,county,latitude,longitude
 00099,Aldrich,Polk County,37.548,-93.555
 05548,Millard,Adair County,40.107,-92.546
 08400,Tallapoosa,New Madrid County,36.508,-89.819
-04187,Ionia,Benton County / Pettis County,38.504,-93.324
+04187,Ionia,Benton County,38.504,-93.324
 05795,Mount Moriah,Harrison County,40.330,-93.795
 07190,Revere,Clark County,40.495,-91.678
 06493,Paradise,Clay County,39.428,-94.516

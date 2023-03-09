@@ -239,7 +239,7 @@ phoneme,name,county,latitude,longitude
 02115,Crystal Lakes,Bergen County,41.008,-74.206
 08481,The Hills,Somerset County,40.656,-74.620
 00556,Beachwood,Ocean County,39.939,-74.193
-06226,Oak Ridge,Morris County / Passaic County,41.031,-74.498
+06226,Oak Ridge,Morris County,41.031,-74.498
 06226,Oak Ridge,Morris County,41.046,-74.486
 04864,Lincoln Park,Morris County,40.924,-74.302
 05203,Manville,Somerset County,40.541,-74.588
@@ -354,14 +354,14 @@ phoneme,name,county,latitude,longitude
 04130,Independence,Warren County,40.880,-74.876
 03551,Greenwich,Warren County,40.680,-75.119
 02870,Fairfield,Cumberland County,39.372,-75.239
-08834,Vauxhall,Essex County / Union County,40.717,-74.284
+08834,Vauxhall,Essex County,40.717,-74.284
 00597,Beckett,Gloucester County,39.754,-75.357
 03131,Frankford,Sussex County,41.164,-74.738
 05100,Lyons,Somerset County,40.685,-74.547
 07536,Salem,Salem County,39.572,-75.467
 05791,Mount Joy,Hunterdon County,40.598,-75.124
 08059,Spring Mills,Hunterdon County,40.598,-75.124
-05939,Neshanic Station,Hunterdon County / Somerset County,40.528,-74.735
+05939,Neshanic Station,Hunterdon County,40.528,-74.735
 08834,Vauxhall,Union County,40.718,-74.284
 05939,Neshanic Station,Somerset County,40.508,-74.730
 03615,Holland,Hunterdon County,40.598,-75.124
@@ -505,7 +505,7 @@ phoneme,name,county,latitude,longitude
 07865,Silver Lake,Cumberland County,39.468,-75.240
 01508,Centre Grove,Cumberland County,39.356,-75.122
 08337,Surf City,Ocean County,39.662,-74.165
-05578,Milmay,Atlantic County / Cumberland County,39.439,-74.868
+05578,Milmay,Atlantic County,39.439,-74.868
 05540,Milford,Hunterdon County,40.569,-75.095
 00615,Beesleys Point,Cape May County,39.277,-74.636
 00377,Avalon,Cape May County,39.101,-74.718
@@ -514,7 +514,7 @@ phoneme,name,county,latitude,longitude
 00360,Auburn,Salem County,39.711,-75.368
 00554,Beach Haven,Ocean County,39.559,-74.243
 02404,Dorothy,Atlantic County,39.401,-74.824
-04474,Kingston,Middlesex County / Somerset County,40.381,-74.614
+04474,Kingston,Middlesex County,40.381,-74.614
 01103,Brookfield,Warren County,40.815,-75.072
 05702,Moores Corner,Salem County,39.533,-75.498
 03287,Germania,Atlantic County,39.512,-74.599
@@ -538,7 +538,7 @@ phoneme,name,county,latitude,longitude
 01499,Cedarville,Cumberland County,39.333,-75.200
 06070,Newtonville,Atlantic County,39.559,-74.866
 07347,Rocky Hill,Somerset County,40.400,-74.634
-03559,Grenloch,Camden County / Gloucester County,39.783,-75.055
+03559,Grenloch,Camden County,39.783,-75.055
 09455,Wrightstown,Burlington County,40.036,-74.618
 00134,Allenwood,Monmouth County,40.142,-74.100
 04738,Layton,Sussex County,41.216,-74.823
@@ -566,7 +566,7 @@ phoneme,name,county,latitude,longitude
 03707,Harmony,Warren County,40.747,-75.137
 09016,Washington Crossing,Mercer County,40.297,-74.867
 04299,Johnsonburg,Warren County,40.965,-74.879
-06911,Pottersville,Hunterdon County / Somerset County,40.714,-74.726
+06911,Pottersville,Hunterdon County,40.714,-74.726
 07865,Silver Lake,Warren County,40.932,-74.950
 08663,Tuckahoe,Cape May County,39.290,-74.754
 09343,Windsor,Mercer County,40.242,-74.581

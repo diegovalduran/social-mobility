@@ -9,13 +9,19 @@ export default function cleanPlaceData() {
 	const getStateAbbr = (str) =>
 		stateLookup.find((d) => d.state === str)?.postal;
 
+	const cleanCounty = (str) =>
+		str
+			.split(" / ")[0]
+			.replace("Census Area", "")
+			.replace("Planning Region", "");
+
 	const cleaned = raw
 		.filter((d) => !d.remove)
 		.map((d, i) => ({
 			id: i,
 			name: d.name,
 			state: getStateAbbr(d.state),
-			county: d.county,
+			county: cleanCounty(d.county),
 			country: d.level === "city-us" ? "" : d.country,
 			level: d.level,
 			population: Math.round(+d.population),

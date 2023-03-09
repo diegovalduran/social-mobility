@@ -7,7 +7,7 @@ phoneme,name,county,latitude,longitude
 02840,Everett,Snohomish County,47.979,-122.202
 00653,Bellingham,Whatcom County,48.760,-122.488
 04489,Kirkland,King County,47.681,-122.209
-00360,Auburn,King County / Pierce County,47.304,-122.210
+00360,Auburn,King County,47.304,-122.210
 06528,Pasco,Franklin County,46.240,-119.101
 07103,Redmond,King County,47.674,-122.122
 05292,Marysville,Snohomish County,48.052,-122.177
@@ -59,7 +59,7 @@ phoneme,name,county,latitude,longitude
 02887,Fairwood,Spokane County,47.767,-117.417
 01225,Burlington,Skagit County,48.476,-122.325
 05523,Midland,Pierce County,47.167,-122.405
-05583,Milton,King County / Pierce County,47.252,-122.317
+05583,Milton,King County,47.252,-122.317
 08299,Summit,Pierce County,47.162,-122.357
 06399,Othello,Adams County,46.826,-119.175
 02782,Ephrata,Grant County,47.318,-119.554
@@ -76,9 +76,9 @@ phoneme,name,county,latitude,longitude
 04622,Lake Shore,Clark County,45.691,-122.691
 05406,Mead,Spokane County,47.767,-117.355
 06515,Parkwood,Kitsap County,47.533,-122.610
-06443,Pacific,King County / Pierce County,47.262,-122.252
+06443,Pacific,King County,47.262,-122.252
 06120,Normandy Park,King County,47.436,-122.341
-09411,Woodland,Clark County / Cowlitz County,45.918,-122.754
+09411,Woodland,Clark County,45.918,-122.754
 08742,Union Gap,Yakima County,46.557,-120.475
 01046,Brier,Snohomish County,47.785,-122.274
 06978,Prosser,Benton County,46.207,-119.769

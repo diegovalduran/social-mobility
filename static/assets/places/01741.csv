@@ -8,7 +8,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 8911,Clinton,TN,Anderson County,,city-us,10055,36.103,-84.132,13036
 8929,Clinton,OH,Fulton County,,city-us,9598,41.535,-84.164,325
 8931,Clinton,MO,Henry County,,city-us,9217,38.369,-93.778,7367
-8920,Clinton,OK,Custer County / Washita County,,city-us,8380,35.507,-98.971,8131
+8920,Clinton,OK,Custer County,,city-us,8380,35.507,-98.971,8131
 8954,Clinton,NC,Sampson County,,city-us,8037,34.998,-78.323,5357
 8940,Clinton,SC,Laurens County,,city-us,7694,34.473,-81.881,6925
 8968,Clinton,MA,Worcester County,,city-us,7455,42.417,-71.683,6860
@@ -21,7 +21,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 8943,Clinton,PA,Lycoming County,,city-us,3705,41.203,-76.897,329
 8938,Clinton,ME,Kennebec County,,city-us,3370,44.665,-69.541,4436
 8966,Clinton,OH,Wayne County,,city-us,3181,40.704,-82.058,325
-8942,Clinton,CT,Lower Connecticut River Valley Planning Region,,city-us,3120,41.276,-72.529,7810
+8942,Clinton,CT,Lower Connecticut River Valley ,,city-us,3120,41.276,-72.529,7810
 8916,Clinton,PA,Butler County,,city-us,2857,40.707,-79.829,329
 8939,Clinton,OH,Knox County,,city-us,2850,40.378,-82.526,325
 8935,Clinton,NJ,Hunterdon County,,city-us,2779,40.637,-74.910,17031

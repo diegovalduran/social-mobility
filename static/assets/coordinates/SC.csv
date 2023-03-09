@@ -1,14 +1,14 @@
 phoneme,name,county,latitude,longitude
-01567,Charleston,Berkeley County / Charleston County,32.828,-79.973
-01835,Columbia,Lexington County / Richland County,34.041,-80.906
+01567,Charleston,Berkeley County,32.828,-79.973
+01835,Columbia,Lexington County,34.041,-80.906
 05801,Mount Pleasant,Charleston County,32.794,-79.863
 07315,Rock Hill,York County,34.925,-81.025
 03548,Greenville,Greenville County,34.853,-82.394
-07969,Summerville,Berkeley County / Charleston County / Dorchester County,33.006,-80.179
+07969,Summerville,Berkeley County,33.006,-80.179
 03410,Goose Creek,Berkeley County,32.981,-80.033
 08304,Sumter,Sumter County,33.920,-80.341
 03027,Florence,Florence County,34.195,-79.763
-03553,Greer,Greenville County / Spartanburg County,34.930,-82.238
+03553,Greer,Greenville County,34.930,-82.238
 08030,Spartanburg,Spartanburg County,34.950,-81.932
 00901,Bluffton,Beaufort County,32.237,-80.860
 00063,Aiken,Aiken County,33.560,-81.720
@@ -16,7 +16,7 @@ phoneme,name,county,latitude,longitude
 00206,Anderson,Anderson County,34.503,-82.650
 07877,Simpsonville,Greenville County,34.737,-82.254
 04826,Lexington,Lexington County,33.982,-81.236
-02540,Easley,Anderson County / Pickens County,34.820,-82.582
+02540,Easley,Anderson County,34.820,-82.582
 01902,Conway,Horry County,33.836,-79.048
 03552,Greenwood,Greenwood County,34.195,-82.162
 08085,St. Andrews,Richland County,34.049,-81.103
@@ -27,7 +27,7 @@ phoneme,name,county,latitude,longitude
 07744,Seven Oaks,Lexington County,34.049,-81.146
 02300,Dentsville,Richland County,34.064,-80.958
 03227,Gantt,Greenville County,34.800,-82.424
-01424,Cayce,Lexington County / Richland County,33.950,-81.040
+01424,Cayce,Lexington County,33.950,-81.040
 06882,Port Royal,Beaufort County,32.379,-80.693
 06505,Parker,Greenville County,34.851,-82.453
 00580,Beaufort,Beaufort County,32.432,-80.670
@@ -60,7 +60,7 @@ phoneme,name,county,latitude,longitude
 02345,Dillon,Dillon County,34.417,-79.371
 02204,Darlington,Darlington County,34.300,-79.876
 04601,Lake City,Florence County,33.871,-79.755
-06684,Piedmont,Anderson County / Greenville County,34.706,-82.467
+06684,Piedmont,Anderson County,34.706,-82.467
 03987,Hollywood,Charleston County,32.734,-80.242
 00667,Belvedere,Aiken County,33.531,-81.945
 01520,Central,Pickens County,34.724,-82.781
@@ -82,9 +82,9 @@ phoneme,name,county,latitude,longitude
 08609,Townville,Anderson County,34.564,-82.899
 05189,Manning,Clarendon County,33.695,-80.211
 06174,Northlake,Anderson County,34.566,-82.684
-07240,Ridgeland,Beaufort County / Jasper County,32.469,-80.921
+07240,Ridgeland,Beaufort County,32.469,-80.921
 09267,Whitney,Spartanburg County,34.984,-81.926
-06600,Pendleton,Anderson County / Pickens County,34.642,-82.779
+06600,Pendleton,Anderson County,34.642,-82.779
 04805,Lesslie,York County,34.891,-80.956
 09086,Wellford,Spartanburg County,34.951,-82.106
 00260,Arcadia,Spartanburg County,34.958,-81.991
@@ -107,7 +107,7 @@ phoneme,name,county,latitude,longitude
 00127,Allendale,Allendale County,33.008,-81.308
 03474,Graniteville,Aiken County,33.564,-81.808
 08065,Springdale,Lancaster County,34.689,-80.786
-00210,Andrews,Georgetown County / Williamsburg County,33.449,-79.566
+00210,Andrews,Georgetown County,33.449,-79.566
 00282,Arkwright,Spartanburg County,34.924,-81.933
 07796,Shell Point,Beaufort County,32.384,-80.736
 02609,Edgefield,Edgefield County,33.790,-81.930
@@ -150,7 +150,7 @@ phoneme,name,county,latitude,longitude
 03983,Holly Hill,Orangeburg County,33.323,-80.414
 07706,Seabrook,Beaufort County,32.528,-80.766
 06977,Prosperity,Newberry County,34.209,-81.533
-04868,Lincolnville,Charleston County / Dorchester County,33.008,-80.156
+04868,Lincolnville,Charleston County,33.008,-80.156
 04223,Iva,Anderson County,34.306,-82.664
 02438,Drayton,Spartanburg County,34.968,-81.906
 06234,Oakland,Sumter County,33.983,-80.488
@@ -216,7 +216,7 @@ phoneme,name,county,latitude,longitude
 01310,Cameron,Calhoun County,33.558,-80.715
 02675,Elliott,Lee County,34.107,-80.164
 06397,Oswego,Sumter County,34.007,-80.288
-02861,Fair Play,Anderson County / Oconee County,34.508,-82.987
+02861,Fair Play,Anderson County,34.508,-82.987
 01381,Carlisle,Union County,34.593,-81.463
 00733,Bethune,Kershaw County,34.415,-80.349
 05094,Lynchburg,Lee County,34.060,-80.071
@@ -238,7 +238,7 @@ phoneme,name,county,latitude,longitude
 07168,Rembert,Sumter County,34.096,-80.533
 05839,Mulberry,Sumter County,33.952,-80.333
 06549,Pauline,Spartanburg County,34.833,-81.872
-05649,Monetta,Aiken County / Saluda County,33.850,-81.610
+05649,Monetta,Aiken County,33.850,-81.610
 08624,Trenton,Edgefield County,33.744,-81.841
 08264,Stuckey,Williamsburg County,33.732,-79.513
 06066,Newry,Oconee County,34.726,-82.907
@@ -282,7 +282,7 @@ phoneme,name,county,latitude,longitude
 06965,Princeton,Laurens County,34.497,-82.287
 08092,St. Charles,Lee County,34.067,-80.218
 08728,Ulmer,Allendale County,33.097,-81.208
-07936,Smyrna,Cherokee County / York County,35.042,-81.409
+07936,Smyrna,Cherokee County,35.042,-81.409
 00331,Ashwood,Lee County,34.109,-80.316
 02079,Cross Anchor,Spartanburg County,34.643,-81.858
 04269,Jenkinsville,Fairfield County,34.267,-81.288

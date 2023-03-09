@@ -1,10 +1,10 @@
 phoneme,name,county,latitude,longitude
 02301,Denver,Denver County,39.739,-104.985
-00371,Aurora,Adams County / Arapahoe County / Douglas County,39.704,-104.720
+00371,Aurora,Adams County,39.704,-104.720
 04644,Lakewood,Jefferson County,39.705,-105.081
-08506,Thornton,Adams County / Weld County,39.920,-104.941
-00309,Arvada,Adams County / Jefferson County,39.834,-105.150
-09177,Westminster,Adams County / Jefferson County,39.880,-105.062
+08506,Thornton,Adams County,39.920,-104.941
+00309,Arvada,Adams County,39.834,-105.150
+09177,Westminster,Adams County,39.880,-105.062
 06984,Pueblo,Pueblo County,38.254,-104.609
 03505,Greeley,Weld County,40.423,-104.709
 01505,Centennial,Arapahoe County,39.579,-104.877
@@ -14,11 +14,11 @@ phoneme,name,county,latitude,longitude
 01119,Broomfield,Broomfield County,39.921,-105.087
 03447,Grand Junction,Mesa County,39.064,-108.551
 06505,Parker,Douglas County,39.519,-104.761
-04913,Littleton,Arapahoe County / Douglas County / Jefferson County,39.590,-105.020
-01069,Brighton,Adams County / Weld County,39.966,-104.794
-09343,Windsor,Larimer County / Weld County,40.478,-104.915
+04913,Littleton,Arapahoe County,39.590,-105.020
+01069,Brighton,Adams County,39.966,-104.794
+09343,Windsor,Larimer County,40.478,-104.915
 02765,Englewood,Arapahoe County,39.648,-104.988
-02789,Erie,Boulder County / Weld County,40.040,-105.038
+02789,Erie,Boulder County,40.040,-105.038
 04584,Lafayette,Boulder County,39.994,-105.090
 03103,Fountain,El Paso County,38.682,-104.701
 02832,Evans,Weld County,40.376,-104.692
@@ -28,12 +28,12 @@ phoneme,name,county,latitude,longitude
 03383,Golden,Jefferson County,39.756,-105.221
 01886,Conifer,Jefferson County,39.521,-105.305
 02500,Durango,La Plata County,37.275,-107.880
-04304,Johnstown,Larimer County / Weld County,40.384,-104.968
+04304,Johnstown,Larimer County,40.384,-104.968
 01346,Cañon City,Fremont County,38.442,-105.221
 03145,Frederick,Weld County,40.099,-104.937
 04969,Lone Tree,Douglas County,39.531,-104.862
 08187,Sterling,Logan County,40.626,-103.208
-08334,Superior,Boulder County / Jefferson County,39.931,-105.159
+08334,Superior,Boulder County,39.931,-105.159
 09087,Wellington,Larimer County,40.704,-105.009
 03087,Fort Morgan,Morgan County,40.250,-103.800
 01597,Cherry Creek,Arapahoe County,39.635,-104.883
@@ -75,14 +75,14 @@ phoneme,name,county,latitude,longitude
 03352,Glendale,Arapahoe County,39.705,-104.934
 03270,Genesee,Jefferson County,39.686,-105.273
 05671,Monte Vista,Rio Grande County,37.579,-106.148
-00508,Basalt,Eagle County / Pitkin County,39.369,-107.049
+00508,Basalt,Eagle County,39.369,-107.049
 03027,Florence,Fremont County,38.390,-105.119
 07345,Rocky Ford,Otero County,38.053,-103.720
 04864,Lincoln Park,Fremont County,38.429,-105.220
 09509,Yuma,Yuma County,40.122,-102.725
-08246,Strasburg,Adams County / Arapahoe County,39.721,-104.318
+08246,Strasburg,Adams County,39.721,-104.318
 06613,Penrose,Fremont County,38.425,-105.023
-00683,Bennett,Adams County / Arapahoe County,39.746,-104.443
+00683,Bennett,Adams County,39.746,-104.443
 01225,Burlington,Kit Carson County,39.306,-102.269
 01187,Buena Vista,Chaffee County,38.842,-106.131
 06786,Platteville,Weld County,40.215,-104.823
@@ -90,7 +90,7 @@ phoneme,name,county,latitude,longitude
 00539,Bayfield,La Plata County,37.226,-107.598
 03984,Holly Hills,Arapahoe County,39.668,-104.918
 06465,Palisade,Mesa County,39.110,-108.351
-01763,Coal Creek,Boulder County / Gilpin County / Jefferson County,39.905,-105.372
+01763,Coal Creek,Boulder County,39.905,-105.372
 00368,Ault,Weld County,40.582,-104.732
 04182,Inverness,Arapahoe County,39.577,-104.861
 04568,La Salle,Weld County,40.349,-104.702
@@ -104,7 +104,7 @@ phoneme,name,county,latitude,longitude
 03442,Granby,Grand County,40.086,-105.939
 02676,Elizabeth,Elbert County,39.360,-104.597
 03622,Hayden,Routt County,40.495,-107.257
-01506,Center,Rio Grande County / Saguache County,37.751,-106.111
+01506,Center,Rio Grande County,37.751,-106.111
 06282,Olathe,Montrose County,38.605,-107.982
 00073,Akron,Washington County,40.161,-103.214
 06629,Perry Park,Douglas County,39.260,-104.982
@@ -130,7 +130,7 @@ phoneme,name,county,latitude,longitude
 09365,Winter Park,Grand County,39.892,-105.763
 04500,Kittredge,Jefferson County,39.655,-105.300
 05611,Minturn,Eagle County,39.586,-106.431
-09033,Watkins,Adams County / Arapahoe County,39.698,-104.577
+09033,Watkins,Adams County,39.698,-104.577
 04054,Howard,Fremont County,38.449,-105.835
 01983,Cottonwood,Douglas County,39.562,-104.802
 06416,Ouray,Ouray County,38.023,-107.671
@@ -142,7 +142,7 @@ phoneme,name,county,latitude,longitude
 04121,Ignacio,La Plata County,37.115,-107.633
 03976,Holly,Prowers County,38.052,-102.123
 04080,Hugo,Lincoln County,39.136,-103.470
-01521,Central City,Clear Creek County / Gilpin County,39.795,-105.509
+01521,Central City,Clear Creek County,39.795,-105.509
 07549,Salt Creek,Pueblo County,38.238,-104.587
 09302,Williamsburg,Fremont County,38.382,-105.152
 04557,La Jara,Conejos County,37.275,-105.960

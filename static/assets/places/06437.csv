@@ -2,8 +2,8 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 32826,Oxford,,,United Kingdom,city-international,152000,51.752,-1.258,40813
 32812,Oxford,MS,Lafayette County,,city-us,26430,34.367,-89.519,16755
 32793,Oxford,OH,Butler County,,city-us,25056,39.523,-84.761,322
-32794,Oxford,AL,Calhoun County / Talladega County,,city-us,22312,33.597,-85.868,7375
-32814,Oxford,CT,Naugatuck Valley Planning Region,,city-us,12768,41.444,-73.148,6979
+32794,Oxford,AL,Calhoun County,,city-us,22312,33.597,-85.868,7375
+32814,Oxford,CT,Naugatuck Valley ,,city-us,12768,41.444,-73.148,6979
 32803,Oxford,NC,Granville County,,city-us,8775,36.311,-78.591,7713
 32791,Oxford,PA,Adams County,,city-us,5940,39.849,-77.045,1020
 32796,Oxford,PA,Chester County,,city-us,5737,39.785,-75.979,6293
@@ -25,7 +25,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 32813,Oxford,WI,Marquette County,,city-us,940,43.770,-89.539,3709
 32804,Oxford,OH,Guernsey County,,city-us,774,40.040,-81.282,322
 32809,Oxford,IA,Johnson County,,city-us,723,41.723,-91.790,3793
-32802,Oxford,NE,Furnas County / Harlan County,,city-us,719,40.253,-99.632,3479
+32802,Oxford,NE,Furnas County,,city-us,719,40.253,-99.632,3479
 32821,Oxford,MD,Talbot County,,city-us,611,38.687,-76.172,7263
 32808,Oxford,AR,Izard County,,city-us,598,36.221,-91.929,2304
 32805,Oxford,SD,Hamlin County,,city-us,299,44.757,-97.216,0

@@ -47,7 +47,7 @@ phoneme,name,county,latitude,longitude
 03086,Fort Mitchell,Kenton County,39.059,-84.547
 02616,Edgewood,Kenton County,39.019,-84.582
 06214,Oak Grove,Christian County,36.665,-87.443
-01933,Corbin,Knox County / Laurel County / Whitley County,36.932,-84.101
+01933,Corbin,Knox County,36.932,-84.101
 05806,Mount Sterling,Montgomery County,38.056,-83.943
 08737,Union,Boone County,38.946,-84.680
 04960,London,Laurel County,37.129,-84.083
@@ -66,7 +66,7 @@ phoneme,name,county,latitude,longitude
 01521,Central City,Muhlenberg County,37.294,-87.123
 05682,Monticello,Wayne County,36.830,-84.849
 02226,Dayton,Campbell County,39.113,-84.473
-08984,Walton,Boone County / Kenton County,38.862,-84.615
+08984,Walton,Boone County,38.862,-84.615
 00649,Bellevue,Campbell County,39.106,-84.479
 01173,Buckner,Oldham County,38.384,-85.440
 09302,Williamsburg,Whitley County,36.743,-84.160
@@ -74,15 +74,15 @@ phoneme,name,county,latitude,longitude
 01835,Columbia,Adair County,37.103,-85.306
 00692,Benton,Marshall County,36.857,-88.350
 09188,Westwood,Boyd County,38.483,-82.670
-06973,Prospect,Jefferson County / Oldham County,38.347,-85.609
+06973,Prospect,Jefferson County,38.347,-85.609
 05300,Massac,McCracken County,37.017,-88.731
 03548,Greenville,Muhlenberg County,37.201,-87.179
 02913,Farley,McCracken County,37.046,-88.569
 05065,Ludlow,Kenton County,39.093,-84.547
 02047,Crescent Springs,Kenton County,39.051,-84.582
 07696,Scottsville,Allen County,36.753,-86.191
-02063,Crittenden,Grant County / Kenton County,38.788,-84.602
-09307,Williamstown,Grant County / Pendleton County,38.640,-84.573
+02063,Crittenden,Grant County,38.788,-84.602
+09307,Williamstown,Grant County,38.640,-84.573
 04660,Lancaster,Garrard County,37.620,-84.578
 01401,Carrollton,Carroll County,38.681,-85.179
 03499,Grayson,Carter County,38.333,-82.948
@@ -121,7 +121,7 @@ phoneme,name,county,latitude,longitude
 02603,Eddyville,Lyon County,37.094,-88.080
 02376,Doe Valley,Meade County,37.957,-86.117
 01112,Brooks,Bullitt County,38.061,-85.710
-04337,Junction City,Boyle County / Lincoln County,37.585,-84.789
+04337,Junction City,Boyle County,37.585,-84.789
 04232,Jackson,Breathitt County,37.553,-83.384
 02901,Falmouth,Pendleton County,38.677,-84.330
 05299,Masonville,Daviess County,37.675,-87.035
@@ -203,11 +203,11 @@ phoneme,name,county,latitude,longitude
 01951,Cornettsville,Perry County,37.134,-83.077
 04202,Ironville,Boyd County,38.456,-82.692
 06633,Perryville,Boyle County,37.650,-84.952
-06814,Pleasureville,Henry County / Shelby County,38.352,-85.111
+06814,Pleasureville,Henry County,38.352,-85.111
 06917,Powderly,Muhlenberg County,37.237,-87.159
 04822,Lewisburg,Logan County,36.986,-86.947
 03681,Hanson,Hopkins County,37.417,-87.481
-05559,Millersburg,Bourbon County / Nicholas County,38.305,-84.143
+05559,Millersburg,Bourbon County,38.305,-84.143
 02015,Crab Orchard,Lincoln County,37.465,-84.507
 03247,Garrison,Lewis County,38.606,-83.173
 05005,Loretto,Marion County,37.635,-85.401
@@ -216,14 +216,14 @@ phoneme,name,county,latitude,longitude
 01098,Bromley,Kenton County,39.082,-84.560
 00470,Bardwell,Carlisle County,36.871,-89.010
 03525,Green Spring,Jefferson County,38.316,-85.614
-08768,Upton,Hardin County / Larue County,37.459,-85.900
+08768,Upton,Hardin County,37.459,-85.900
 07536,Salem,Livingston County,37.264,-88.244
 01288,Calhoun,McLean County,37.539,-87.258
 01231,Burnside,Pulaski County,36.989,-84.600
 03943,Hindman,Knott County,37.336,-82.980
 01347,Cannonsburg,Boyd County,38.389,-82.703
 08062,Spring Valley,Jefferson County,38.297,-85.611
-06803,Pleasant Ridge,Daviess County / Ohio County,37.595,-86.992
+06803,Pleasant Ridge,Daviess County,37.595,-86.992
 05376,McDowell,Floyd County,37.459,-82.730
 01115,Brooksville,Bracken County,38.683,-84.066
 00474,Barlow,Ballard County,37.052,-89.047
@@ -323,13 +323,13 @@ phoneme,name,county,latitude,longitude
 02916,Farmers,Rowan County,38.143,-83.546
 07925,Smithland,Livingston County,37.139,-88.403
 06327,Oneida,Clay County,37.269,-83.649
-08029,Sparta,Gallatin County / Owen County,38.695,-84.906
+08029,Sparta,Gallatin County,38.695,-84.906
 02846,Ewing,Fleming County,38.427,-83.863
-01942,Corinth,Grant County / Scott County,38.500,-84.608
+01942,Corinth,Grant County,38.500,-84.608
 05700,Moorefield,Nicholas County,38.273,-83.931
 02419,Dover,Mason County,38.758,-83.883
 05461,Mentor,Campbell County,38.887,-84.246
-02882,Fairview,Christian County / Todd County,36.842,-87.311
+02882,Fairview,Christian County,36.842,-87.311
 09417,Woodlawn,Campbell County,39.093,-84.475
 05123,Mackville,Washington County,37.737,-85.067
 05917,Nebo,Hopkins County,37.384,-87.643
@@ -358,7 +358,7 @@ phoneme,name,county,latitude,longitude
 08117,St. Mary,Marion County,37.581,-85.346
 02882,Fairview,Kenton County,38.998,-84.487
 03930,Hills and Dales,Jefferson County,38.301,-85.625
-03288,Germantown,Bracken County / Mason County,38.656,-83.964
+03288,Germantown,Bracken County,38.656,-83.964
 05998,New Hope,Nelson County,37.632,-85.508
 04866,Lincolnshire,Jefferson County,38.223,-85.621
 01849,Columbus,Hickman County,36.760,-89.103
@@ -367,7 +367,7 @@ phoneme,name,county,latitude,longitude
 02921,Farmington,Graves County,36.669,-88.526
 07924,Smithfield,Henry County,38.387,-85.257
 03880,Hickory Hill,Jefferson County,38.288,-85.568
-06864,Poole,Henderson County / Webster County,37.640,-87.648
+06864,Poole,Henderson County,37.640,-87.648
 07309,Rochester,Butler County,37.213,-86.893
 05674,Monterey,Owen County,38.422,-84.872
 08907,Visalia,Kenton County,38.915,-84.450
@@ -388,7 +388,7 @@ phoneme,name,county,latitude,longitude
 00830,Blaine,Lawrence County,38.028,-82.843
 05265,Marrowbone,Cumberland County,36.828,-85.507
 03493,Gratz,Owen County,38.474,-84.953
-07639,Sardis,Mason County / Robertson County,38.534,-83.952
+07639,Sardis,Mason County,38.534,-83.952
 05879,Nada,Powell County,37.815,-83.720
 01404,Carrsville,Livingston County,37.398,-88.375
 03098,Foster,Bracken County,38.799,-84.213

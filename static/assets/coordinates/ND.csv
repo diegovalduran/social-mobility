@@ -51,7 +51,7 @@ phoneme,name,county,latitude,longitude
 03507,Green Acres,Rolette County,48.838,-99.690
 05893,Napoleon,Logan County,46.508,-99.771
 02438,Drayton,Pembina County,48.571,-97.178
-09337,Wilton,Burleigh County / McLean County,47.158,-100.784
+09337,Wilton,Burleigh County,47.158,-100.784
 03764,Hatton,Traill County,47.640,-97.453
 07088,Ray,Williams County,48.344,-103.165
 04647,Lakota,Nelson County,48.043,-98.336
@@ -104,7 +104,7 @@ phoneme,name,county,latitude,longitude
 00863,Blooming,Grand Forks County,47.971,-97.298
 02435,Drake,McHenry County,47.924,-100.372
 00971,Bowman,Bowman County,46.161,-103.444
-07195,Reynolds,Grand Forks County / Traill County,47.669,-97.106
+07195,Reynolds,Grand Forks County,47.669,-97.106
 06867,Poplar Grove,Ramsey County,48.077,-99.010
 04019,Hope,Steele County,47.322,-97.722
 05235,Marsh,Barnes County,46.848,-97.997
@@ -112,7 +112,7 @@ phoneme,name,county,latitude,longitude
 01817,Colfax,Richland County,46.500,-96.926
 03332,Gladstone,Stark County,46.861,-102.568
 05500,Michigan City,Nelson County,48.025,-98.117
-08602,Tower City,Barnes County / Cass County,46.926,-97.676
+08602,Tower City,Barnes County,46.926,-97.676
 00104,Alex,McKenzie County,47.801,-103.594
 06021,New Prairie,Ward County,48.153,-101.079
 01405,Carson,Grant County,46.418,-101.565
@@ -153,7 +153,7 @@ phoneme,name,county,latitude,longitude
 05606,Minnewaukan,Benson County,48.071,-99.252
 05850,Munich,Cavalier County,48.669,-98.833
 03386,Golden Valley,Mercer County,47.291,-102.065
-03461,Grandin,Cass County / Traill County,47.237,-97.003
+03461,Grandin,Cass County,47.237,-97.003
 00188,Americus,Grand Forks County,47.723,-97.035
 07813,Sherwood,Renville County,48.960,-101.633
 07817,Sheyenne,Eddy County,47.828,-99.120
@@ -314,7 +314,7 @@ phoneme,name,county,latitude,longitude
 03430,Grace,Grand Forks County,47.802,-97.688
 01425,Casey,Ransom County,46.493,-97.605
 03383,Golden,Walsh County,48.407,-97.853
-04592,Lehr,Logan County / McIntosh County,46.282,-99.353
+04592,Lehr,Logan County,46.282,-99.353
 05117,McKenzie,Burleigh County,46.822,-100.415
 05979,New England,Hettinger County,46.499,-102.863
 09517,Zeeland,McIntosh County,45.970,-99.831

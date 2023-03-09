@@ -164,7 +164,9 @@
 	</section>
 
 	<section id="outro">
-		<p class="outro">{@html copy.outro}</p>
+		{#each copy.info as { value }}
+			<p>{@html value}</p>
+		{/each}
 	</section>
 </article>
 
@@ -248,7 +250,7 @@
 
 	#outro p {
 		max-width: var(--col-width);
-		margin: 0 auto;
+		margin: 16px auto;
 	}
 
 	.loading {

@@ -1,10 +1,10 @@
 id,name,state,county,country,level,population,latitude,longitude,wiki
 38288,Salem,,,India,city-international,693236,11.650,78.167,19475
-38251,Salem,OR,Marion County / Polk County,,city-us,177723,44.924,-123.023,29993
+38251,Salem,OR,Marion County,,city-us,177723,44.924,-123.023,29993
 38235,Salem,MA,Essex County,,city-us,44819,42.520,-70.897,54986
 38265,Salem,NH,Rockingham County,,city-us,30542,42.788,-71.222,9805
 38267,Salem,VA,Salem city,,city-us,25373,37.293,-80.055,7723
-38229,Salem,OH,Columbiana County / Mahoning County,,city-us,11825,40.905,-80.849,10875
+38229,Salem,OH,Columbiana County,,city-us,11825,40.905,-80.849,10875
 38279,Salem,UT,Utah County,,city-us,9831,40.053,-111.674,3842
 38270,Salem,KS,Sedgwick County,,city-us,9481,37.510,-97.318,140
 38250,Salem,IL,Marion County,,city-us,8997,38.609,-88.973,364
@@ -18,7 +18,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 38217,Salem,MI,Allegan County,,city-us,5192,42.719,-85.851,201
 38228,Salem,OH,Columbiana County,,city-us,5081,40.850,-80.798,607
 38232,Salem,MO,Dent County,,city-us,4571,37.646,-91.536,5948
-38272,Salem,CT,Southeastern Connecticut Planning Region,,city-us,4200,41.489,-72.258,13120
+38272,Salem,CT,Southeastern Connecticut ,,city-us,4200,41.489,-72.258,13120
 38285,Salem,PA,Wayne County,,city-us,4107,41.398,-75.372,320
 38249,Salem,PA,Luzerne County,,city-us,4023,41.106,-76.184,320
 38244,Salem,OH,Jefferson County,,city-us,2773,40.430,-80.804,607

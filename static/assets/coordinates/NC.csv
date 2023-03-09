@@ -1,12 +1,12 @@
 phoneme,name,county,latitude,longitude
 01571,Charlotte,Mecklenburg County,35.227,-80.843
-07051,Raleigh,Durham County / Wake County,35.830,-78.641
+07051,Raleigh,Durham County,35.830,-78.641
 03542,Greensboro,Guilford County,36.073,-79.792
-02503,Durham,Durham County / Orange County / Wake County,35.978,-78.900
+02503,Durham,Durham County,35.978,-78.900
 02939,Fayetteville,Cumberland County,35.053,-78.878
-01376,Cary,Chatham County / Durham County / Wake County,35.781,-78.823
+01376,Cary,Chatham County,35.781,-78.823
 09329,Wilmington,New Hanover County,34.226,-77.945
-03896,High Point,Davidson County / Forsyth County / Guilford County / Randolph County,35.991,-79.993
+03896,High Point,Davidson County,35.991,-79.993
 01869,Concord,Cabarrus County,35.409,-80.580
 00324,Asheville,Buncombe County,35.601,-82.554
 03548,Greenville,Pitt County,35.613,-77.366
@@ -14,25 +14,25 @@ phoneme,name,county,latitude,longitude
 04237,Jacksonville,Onslow County,34.754,-77.430
 00239,Apex,Wake County,35.733,-78.850
 04093,Huntersville,Mecklenburg County,35.411,-80.843
-01559,Chapel Hill,Durham County / Orange County,35.921,-79.045
-01225,Burlington,Alamance County / Guilford County,36.076,-79.468
-07348,Rocky Mount,Edgecombe County / Nash County,35.969,-77.804
+01559,Chapel Hill,Durham County,35.921,-79.045
+01225,Burlington,Alamance County,36.076,-79.468
+07348,Rocky Mount,Edgecombe County,35.969,-77.804
 05706,Mooresville,Iredell County,35.585,-80.810
 09334,Wilson,Wilson County,35.721,-77.916
-03874,Hickory,Burke County / Caldwell County / Catawba County,35.740,-81.322
+03874,Hickory,Burke County,35.740,-81.322
 03986,Holly Springs,Wake County,35.651,-78.834
 07544,Salisbury,Rowan County,35.671,-80.474
 05658,Monroe,Union County,34.985,-80.550
 03388,Goldsboro,Wayne County,35.385,-77.993
 03243,Garner,Wake County,35.711,-78.614
 01948,Cornelius,Mecklenburg County,35.487,-80.860
-05747,Morrisville,Durham County / Wake County,35.836,-78.839
+05747,Morrisville,Durham County,35.836,-78.839
 07615,Sanford,Lee County,35.480,-79.180
 05310,Matthews,Mecklenburg County,35.117,-80.724
 08169,Statesville,Iredell County,35.783,-80.887
-01709,Clayton,Johnston County / Wake County,35.652,-78.449
-08496,Thomasville,Davidson County / Randolph County,35.882,-80.080
-05609,Mint Hill,Mecklenburg County / Union County,35.178,-80.656
+01709,Clayton,Johnston County,35.652,-78.449
+08496,Thomasville,Davidson County,35.882,-80.080
+05609,Mint Hill,Mecklenburg County,35.178,-80.656
 04783,Leland,Brunswick County,34.256,-78.045
 07791,Shelby,Cleveland County,35.292,-81.536
 09047,Waxhaw,Union County,34.925,-80.743
@@ -50,18 +50,18 @@ phoneme,name,county,latitude,longitude
 05858,Murraysville,New Hanover County,34.296,-77.847
 02604,Eden,Rockingham County,36.488,-79.767
 00664,Belmont,Gaston County,35.243,-81.037
-02214,Davidson,Iredell County / Mecklenburg County,35.481,-80.821
+02214,Davidson,Iredell County,35.481,-80.821
 03835,Hendersonville,Henderson County,35.319,-82.461
 03834,Henderson,Vance County,36.330,-78.399
 07151,Reidsville,Rockingham County,36.355,-79.664
 04825,Lewisville,Forsyth County,36.097,-80.419
-09068,Weddington,Mecklenburg County / Union County,35.022,-80.735
+09068,Weddington,Mecklenburg County,35.022,-80.735
 06068,Newton,Catawba County,35.670,-81.221
 05876,Myrtle Grove,New Hanover County,34.135,-77.882
 07924,Smithfield,Johnston County,35.508,-78.339
 08057,Spring Lake,Cumberland County,35.168,-78.973
 09095,Wendell,Wake County,35.781,-78.370
-04467,Kings Mountain,Cleveland County / Gaston County,35.236,-81.350
+04467,Kings Mountain,Cleveland County,35.236,-81.350
 04867,Lincolnton,Lincoln County,35.474,-81.255
 02726,Elon,Alamance County,36.103,-79.507
 08295,Summerfield,Guilford County,36.209,-79.905
@@ -75,7 +75,7 @@ phoneme,name,county,latitude,longitude
 08129,St. Stephens,Catawba County,35.765,-81.273
 00008,Aberdeen,Moore County,35.132,-79.429
 07332,Rockingham,Richmond County,34.939,-79.774
-03304,Gibsonville,Alamance County / Guilford County,36.102,-79.542
+03304,Gibsonville,Alamance County,36.102,-79.542
 09105,Wesley Chapel,Union County,35.007,-80.675
 06220,Oak Island,Brunswick County,33.917,-78.161
 06437,Oxford,Granville County,36.311,-78.591
@@ -85,12 +85,12 @@ phoneme,name,county,latitude,longitude
 02493,Dunn,Harnett County,35.306,-78.609
 01741,Clinton,Sampson County,34.998,-78.323
 03017,Fletcher,Henderson County,35.431,-82.501
-09516,Zebulon,Johnston County / Wake County,35.830,-78.314
+09516,Zebulon,Johnston County,35.830,-78.314
 05248,Marion,McDowell County,35.684,-82.009
 06226,Oak Ridge,Guilford County,36.173,-79.989
 02818,Etowah,Henderson County,35.318,-82.594
 03057,Forest City,Rutherford County,35.334,-81.865
-04461,King,Forsyth County / Stokes County,36.275,-80.357
+04461,King,Forsyth County,36.275,-80.357
 08635,Trinity,Randolph County,35.895,-79.991
 03668,Hampstead,Pender County,34.368,-77.711
 08105,St. James,Brunswick County,33.929,-78.116
@@ -111,11 +111,11 @@ phoneme,name,county,latitude,longitude
 02038,Creedmoor,Granville County,36.122,-78.686
 03472,Granite Falls,Caldwell County,35.797,-81.431
 05528,Midway,Davidson County,35.953,-80.218
-05523,Midland,Cabarrus County / Mecklenburg County,35.249,-80.530
+05523,Midland,Cabarrus County,35.249,-80.530
 09257,Whiteville,Columbus County,34.339,-78.703
 09454,Wrightsboro,New Hanover County,34.288,-77.921
 09061,Weaverville,Buncombe County,35.697,-82.561
-04938,Locust,Cabarrus County / Stanly County,35.269,-80.437
+04938,Locust,Cabarrus County,35.269,-80.437
 02795,Erwin,Harnett County,35.327,-78.676
 06763,Pittsboro,Chatham County,35.720,-79.177
 00580,Beaufort,Carteret County,34.718,-76.664
@@ -129,16 +129,16 @@ phoneme,name,county,latitude,longitude
 08331,Sunset Beach,Brunswick County,33.881,-78.512
 03133,Franklin,Macon County,35.182,-83.382
 08016,Southport,Brunswick County,33.922,-78.020
-08337,Surf City,Onslow County / Pender County,34.437,-77.535
-00688,Benson,Harnett County / Johnston County,35.387,-78.541
-05798,Mount Olive,Duplin County / Wayne County,35.200,-78.066
+08337,Surf City,Onslow County,34.437,-77.535
+00688,Benson,Harnett County,35.387,-78.541
+05798,Mount Olive,Duplin County,35.200,-78.066
 08147,Stanley,Gaston County,35.359,-81.097
 09349,Wingate,Union County,34.984,-80.449
 05819,Mountain Home,Henderson County,35.370,-82.493
 02729,Elroy,Wayne County,35.343,-77.909
 08356,Swansboro,Onslow County,34.688,-77.119
 04074,Hudson,Caldwell County,35.848,-81.496
-05128,Maiden,Catawba County / Lincoln County,35.571,-81.207
+05128,Maiden,Catawba County,35.571,-81.207
 04247,Jamestown,Guilford County,35.994,-79.935
 05044,Lowell,Gaston County,35.268,-81.103
 02180,Dana,Henderson County,35.329,-82.375
@@ -154,7 +154,7 @@ phoneme,name,county,latitude,longitude
 07124,Red Oak,Nash County,36.038,-77.906
 04618,Lake Park,Union County,35.086,-80.635
 08035,Spencer,Rowan County,35.692,-80.435
-08963,Wallace,Duplin County / Pender County,34.738,-77.991
+08963,Wallace,Duplin County,34.738,-77.991
 05045,Lowesville,Lincoln County,35.421,-81.002
 07282,River Road,Beaufort County,35.507,-76.991
 05593,Mineral Springs,Union County,34.938,-80.669
@@ -162,7 +162,7 @@ phoneme,name,county,latitude,longitude
 07328,Rockfish,Hoke County,34.993,-79.066
 02678,Elizabethtown,Bladen County,34.629,-78.605
 08942,Wallburg,Davidson County,36.010,-80.139
-07127,Red Springs,Hoke County / Robeson County,34.806,-79.181
+07127,Red Springs,Hoke County,34.806,-79.181
 00546,Bayshore,New Hanover County,34.290,-77.787
 05027,Louisburg,Franklin County,36.099,-78.301
 08652,Troy,Montgomery County,35.358,-79.894
@@ -177,7 +177,7 @@ phoneme,name,county,latitude,longitude
 04831,Liberty,Randolph County,35.853,-79.572
 04555,La Grange,Lenoir County,35.307,-77.788
 09100,Wentworth,Rockingham County,36.400,-79.774
-08558,Tobaccoville,Forsyth County / Stokes County,36.226,-80.359
+08558,Tobaccoville,Forsyth County,36.226,-80.359
 07858,Sylva,Jackson County,35.374,-83.226
 03136,Franklinton,Franklin County,36.102,-78.458
 05275,Marshville,Union County,34.988,-80.367
@@ -199,7 +199,7 @@ phoneme,name,county,latitude,longitude
 06724,Pine Level,Johnston County,35.513,-78.244
 05132,Madison,Rockingham County,36.385,-79.959
 09504,Youngsville,Franklin County,36.025,-78.474
-01595,Cherokee,Jackson County / Swain County,35.486,-83.301
+01595,Cherokee,Jackson County,35.486,-83.301
 05266,Mars Hill,Madison County,35.827,-82.549
 06987,Pumpkin Center,Onslow County,34.792,-77.372
 06841,Polkton,Anson County,35.008,-80.201
@@ -211,7 +211,7 @@ phoneme,name,county,latitude,longitude
 05801,Mount Pleasant,Cabarrus County,35.399,-80.436
 01679,Claremont,Catawba County,35.715,-81.146
 08029,Sparta,Alleghany County,36.505,-81.121
-07778,Sharpsburg,Edgecombe County / Nash County / Wilson County,35.866,-77.831
+07778,Sharpsburg,Edgecombe County,35.866,-77.831
 00210,Andrews,Cherokee County,35.202,-83.824
 01232,Burnsville,Yancey County,35.917,-82.301
 07702,Sea Breeze,New Hanover County,34.063,-77.891
@@ -221,7 +221,7 @@ phoneme,name,county,latitude,longitude
 00689,Bent Creek,Buncombe County,35.509,-82.608
 07536,Salem,Burke County,35.699,-81.697
 08662,Tryon,Polk County,35.208,-82.238
-08226,Stony Point,Alexander County / Iredell County,35.868,-81.044
+08226,Stony Point,Alexander County,35.868,-81.044
 01259,Buxton,Dare County,35.268,-75.542
 07944,Snow Hill,Greene County,35.452,-77.681
 02299,Denton,Davidson County,35.633,-80.116
@@ -229,13 +229,13 @@ phoneme,name,county,latitude,longitude
 00047,Advance,Davie County,35.941,-80.409
 09082,Weldon,Halifax County,36.427,-77.596
 00349,Atlantic Beach,Carteret County,34.699,-76.740
-00873,Blowing Rock,Caldwell County / Watauga County,36.129,-81.666
+00873,Blowing Rock,Caldwell County,36.129,-81.666
 01757,Clyde,Haywood County,35.533,-82.911
 00727,Bethel,Pitt County,35.807,-77.379
 06965,Princeton,Johnston County,35.466,-78.161
 07390,Rose Hill,Duplin County,34.828,-78.023
 08222,Stoneville,Rockingham County,36.467,-79.907
-01090,Broadway,Harnett County / Lee County,35.457,-79.057
+01090,Broadway,Harnett County,35.457,-79.057
 03785,Hays,Wilkes County,36.250,-81.116
 06966,Princeville,Edgecombe County,35.890,-77.532
 01937,Cordova,Richmond County,34.913,-79.822
@@ -254,7 +254,7 @@ phoneme,name,county,latitude,longitude
 04718,Laurel Hill,Scotland County,34.809,-79.548
 00735,Beulaville,Duplin County,34.924,-77.774
 08974,Walnut Creek,Wayne County,35.307,-77.865
-03906,Highlands,Jackson County / Macon County,35.054,-83.198
+03906,Highlands,Jackson County,35.054,-83.198
 04234,Jackson Heights,Lenoir County,35.224,-77.633
 01999,Cove Creek,Watauga County,36.276,-81.783
 03418,Gorman,Durham County,36.037,-78.823
@@ -268,7 +268,7 @@ phoneme,name,county,latitude,longitude
 01149,Brunswick,Columbus County,34.287,-78.701
 03980,Hollister,Halifax County,36.256,-77.936
 05517,Middlesex,Nash County,35.790,-78.204
-07422,Rougemont,Durham County / Person County,36.213,-78.911
+07422,Rougemont,Durham County,36.213,-78.911
 06357,Oriental,Pamlico County,35.031,-76.693
 05998,New Hope,Wayne County,35.376,-77.883
 07359,Rowland,Robeson County,34.537,-79.291
@@ -284,7 +284,7 @@ phoneme,name,county,latitude,longitude
 02889,Faith,Rowan County,35.587,-80.463
 06287,Old Fort,McDowell County,35.629,-82.181
 08155,Star,Montgomery County,35.402,-79.784
-01338,Candor,Montgomery County / Moore County,35.296,-79.733
+01338,Candor,Montgomery County,35.296,-79.733
 03583,Grover,Cleveland County,35.175,-81.450
 06748,Pinnacle,Stokes County,36.329,-80.433
 06795,Pleasant Hill,Wilkes County,36.257,-80.883
@@ -314,7 +314,7 @@ phoneme,name,county,latitude,longitude
 02900,Fallston,Cleveland County,35.429,-81.501
 09371,Winton,Hertford County,36.396,-76.932
 06007,New London,Stanly County,35.443,-80.219
-07557,Saluda,Henderson County / Polk County,35.238,-82.347
+07557,Saluda,Henderson County,35.238,-82.347
 01698,Clarkton,Bladen County,34.487,-78.656
 03242,Garland,Sampson County,34.786,-78.394
 09269,Whitsett,Guilford County,36.071,-79.564
@@ -368,7 +368,7 @@ phoneme,name,county,latitude,longitude
 07483,Ruth,Rutherford County,35.382,-81.947
 01061,Bridgeton,Craven County,35.122,-77.021
 02419,Dover,Craven County,35.216,-77.437
-02890,Falcon,Cumberland County / Sampson County,35.195,-78.654
+02890,Falcon,Cumberland County,35.195,-78.654
 08237,Stovall,Granville County,36.448,-78.570
 05751,Morven,Anson County,34.864,-80.001
 02728,Elrod,Robeson County,34.614,-79.242

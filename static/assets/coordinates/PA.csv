@@ -5,7 +5,7 @@ phoneme,name,county,latitude,longitude
 07102,Reading,Berks County,40.336,-75.927
 02789,Erie,Erie County,42.129,-80.085
 07699,Scranton,Lackawanna County,41.409,-75.662
-00731,Bethlehem,Lehigh County / Northampton County,40.626,-75.368
+00731,Bethlehem,Lehigh County,40.626,-75.368
 00013,Abington,Montgomery County,40.114,-75.114
 04660,Lancaster,Lancaster County,40.038,-76.306
 05553,Millcreek,Erie County,42.085,-80.118
@@ -89,7 +89,7 @@ phoneme,name,county,latitude,longitude
 00030,Adams,Butler County,40.717,-80.006
 09011,Warwick,Bucks County,40.249,-75.083
 03862,Hershey,Dauphin County,40.286,-76.650
-00266,Ardmore,Delaware County / Montgomery County,40.003,-75.295
+00266,Ardmore,Delaware County,40.003,-75.295
 02492,Dunmore,Lackawanna County,41.420,-75.632
 07222,Richland,Bucks County,40.459,-75.347
 09319,Willow Grove,Montgomery County,40.144,-75.116
@@ -210,7 +210,7 @@ phoneme,name,county,latitude,longitude
 05562,Millersville,Lancaster County,39.998,-76.354
 06767,Pittston,Luzerne County,41.326,-75.789
 05974,New Cumberland,Cumberland County,40.232,-76.885
-08883,Villanova,Delaware County / Montgomery County,40.041,-75.341
+08883,Villanova,Delaware County,40.041,-75.341
 09230,White Oak,Allegheny County,40.338,-79.809
 09487,Yellow Springs,Chester County,40.100,-75.623
 05519,Middletown,Northampton County,40.644,-75.332
@@ -309,7 +309,7 @@ phoneme,name,county,latitude,longitude
 02852,Exeter,Luzerne County,41.321,-75.819
 07411,Ross,Monroe County,40.878,-75.361
 03548,Greenville,Mercer County,41.404,-80.391
-07823,Shippensburg,Cumberland County / Franklin County,40.049,-77.523
+07823,Shippensburg,Cumberland County,40.049,-77.523
 00125,Allen,Northampton County,40.708,-75.488
 01292,California,Washington County,40.066,-79.892
 07661,Sayre,Bradford County,41.979,-76.516
@@ -347,7 +347,7 @@ phoneme,name,county,latitude,longitude
 00223,Annville,Lebanon County,40.333,-76.508
 09178,Westmont,Cambria County,40.316,-78.952
 06603,Penn,Butler County,40.788,-79.926
-08444,Telford,Bucks County / Montgomery County,40.326,-75.327
+08444,Telford,Bucks County,40.326,-75.327
 02633,Edwardsville,Luzerne County,41.270,-75.916
 02619,Edinboro,Erie County,41.874,-80.132
 04961,Londonderry,Dauphin County,40.184,-76.697
@@ -429,7 +429,7 @@ phoneme,name,county,latitude,longitude
 08519,Throop,Lackawanna County,41.451,-75.612
 05469,Meridian,Butler County,40.848,-79.962
 00786,Birmingham,Chester County,39.898,-75.602
-07400,Rosemont,Delaware County / Montgomery County,40.031,-75.327
+07400,Rosemont,Delaware County,40.031,-75.327
 00727,Bethel,Berks County,40.480,-76.321
 05448,Menallen,Fayette County,39.944,-79.781
 00492,Barrett,Monroe County,41.208,-75.239
@@ -536,7 +536,7 @@ phoneme,name,county,latitude,longitude
 05801,Mount Pleasant,Washington County,40.304,-80.305
 06795,Pleasant Hill,Lebanon County,40.336,-76.442
 06475,Palmyra,Pike County,41.397,-75.218
-08612,Trafford,Allegheny County / Westmoreland County,40.385,-79.758
+08612,Trafford,Allegheny County,40.385,-79.758
 03315,Gillett,Bradford County,41.951,-76.794
 06598,Penbrook,Dauphin County,40.275,-76.848
 03096,Forward,Butler County,40.780,-80.026
@@ -683,7 +683,7 @@ phoneme,name,county,latitude,longitude
 04667,Landisville,Lancaster County,40.095,-76.410
 06628,Perry,Berks County,40.511,-75.941
 02905,Fannett,Franklin County,40.170,-77.730
-00327,Ashland,Columbia County / Schuylkill County,40.781,-76.345
+00327,Ashland,Columbia County,40.781,-76.345
 05132,Madison,Lackawanna County,41.349,-75.468
 04024,Hopewell,Cumberland County,40.153,-77.554
 05348,McAdoo,Schuylkill County,40.910,-75.991
@@ -794,7 +794,7 @@ phoneme,name,county,latitude,longitude
 05513,Middlecreek,Snyder County,40.821,-76.971
 02870,Fairfield,Westmoreland County,40.332,-79.145
 08587,Topton,Berks County,40.503,-75.701
-05109,McDonald,Allegheny County / Washington County,40.370,-80.233
+05109,McDonald,Allegheny County,40.370,-80.233
 08737,Union,Luzerne County,41.200,-76.152
 00429,Bald Eagle,Clinton County,41.140,-77.569
 07287,Riverside,Northumberland County,40.955,-76.629
@@ -812,7 +812,7 @@ phoneme,name,county,latitude,longitude
 09120,West Cornwall,Lebanon County,40.271,-76.451
 00702,Berlin,Somerset County,39.921,-78.958
 05457,Menno,Mifflin County,40.559,-77.787
-00033,Adamstown,Berks County / Lancaster County,40.244,-76.065
+00033,Adamstown,Berks County,40.244,-76.065
 01188,Buffalo,Washington County,40.149,-80.351
 02316,Devon,Chester County,40.049,-75.429
 02667,Eldred,Lycoming County,41.320,-76.961
@@ -963,7 +963,7 @@ phoneme,name,county,latitude,longitude
 05801,Mount Pleasant,Columbia County,41.065,-76.480
 02550,East Fallowfield,Crawford County,41.530,-80.320
 01503,Cementon,Lehigh County,40.689,-75.508
-05730,Morgantown,Berks County / Lancaster County,40.150,-75.887
+05730,Morgantown,Berks County,40.150,-75.887
 04130,Independence,Washington County,40.242,-80.483
 03133,Franklin,Erie County,41.927,-80.215
 04177,Intercourse,Lancaster County,40.038,-76.108
@@ -972,7 +972,7 @@ phoneme,name,county,latitude,longitude
 07222,Richland,Lebanon County,40.359,-76.258
 06234,Oakland,Lawrence County,40.990,-80.370
 08737,Union,Snyder County,40.724,-76.894
-01532,Chadds Ford,Chester County / Delaware County,39.876,-75.608
+01532,Chadds Ford,Chester County,39.876,-75.608
 01596,Cherry,Sullivan County,41.501,-76.396
 05658,Monroe,Clarion County,41.135,-79.406
 06412,Otto,McKean County,41.945,-78.483
@@ -1287,7 +1287,7 @@ phoneme,name,county,latitude,longitude
 06614,Penryn,Lancaster County,40.205,-76.368
 05358,McClure,Snyder County,40.707,-77.314
 07737,Seneca,Venango County,41.379,-79.704
-03176,Frisco,Beaver County / Lawrence County,40.852,-80.268
+03176,Frisco,Beaver County,40.852,-80.268
 04054,Howard,Centre County,41.020,-77.691
 04948,Logan,Clinton County,41.010,-77.421
 04848,Lilly,Cambria County,40.426,-78.620
@@ -1309,7 +1309,7 @@ phoneme,name,county,latitude,longitude
 07342,Rockwood,Somerset County,39.916,-79.152
 09014,Washington,Cambria County,40.405,-78.609
 06352,Oregon,Wayne County,41.656,-75.204
-03426,Gouldsboro,Monroe County / Wayne County,41.246,-75.442
+03426,Gouldsboro,Monroe County,41.246,-75.442
 08010,Southampton,Bedford County,39.783,-78.529
 08737,Union,Jefferson County,41.191,-79.166
 05567,Millheim,Centre County,40.891,-77.477
@@ -1651,7 +1651,7 @@ phoneme,name,county,latitude,longitude
 04142,Indian Lake,Somerset County,40.047,-78.852
 03215,Gallagher,Clinton County,41.285,-77.471
 06419,Oval,Lycoming County,41.151,-77.169
-07219,Richfield,Juniata County / Snyder County,40.684,-77.124
+07219,Richfield,Juniata County,40.684,-77.124
 08059,Spring Mills,Centre County,40.853,-77.567
 00106,Alexandria,Huntingdon County,40.556,-78.098
 04861,Lincoln,Bedford County,40.236,-78.596
@@ -1671,7 +1671,7 @@ phoneme,name,county,latitude,longitude
 01103,Brookfield,Tioga County,41.966,-77.546
 06048,Newburg,Cumberland County,40.137,-77.555
 05553,Millcreek,Clarion County,41.263,-79.247
-06198,Nuremberg,Luzerne County / Schuylkill County,40.938,-76.168
+06198,Nuremberg,Luzerne County,40.938,-76.168
 06628,Perry,Armstrong County,41.033,-79.656
 05516,Middleport,Schuylkill County,40.730,-76.085
 05132,Madison,Westmoreland County,40.247,-79.677
@@ -1938,7 +1938,7 @@ phoneme,name,county,latitude,longitude
 08964,Waller,Columbia County,41.233,-76.423
 02989,Fisherville,Blair County,40.473,-78.172
 06638,Peru,Centre County,40.855,-77.767
-07746,Seven Springs,Fayette County / Somerset County,40.027,-79.294
+07746,Seven Springs,Fayette County,40.027,-79.294
 03514,Green Hills,Washington County,40.114,-80.300
 01980,Cotton Town,Blair County,40.280,-78.481
 04332,Jugtown,Blair County,40.336,-78.327

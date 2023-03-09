@@ -10,7 +10,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 43782,Union,OH,Lawrence County,,city-us,8296,38.465,-82.433,1238
 43834,Union,SC,Union County,,city-us,8054,34.715,-81.624,5532
 43726,Union,KY,Boone County,,city-us,7531,38.946,-84.680,4936
-43798,Union,OH,Miami County / Montgomery County,,city-us,6852,39.907,-84.293,4467
+43798,Union,OH,Miami County,,city-us,6852,39.907,-84.293,4467
 43773,Union,NJ,Hunterdon County,,city-us,6629,40.632,-74.965,603
 43837,Union,OH,Warren County,,city-us,6399,39.387,-84.206,1238
 43839,Union,PA,Washington County,,city-us,5349,40.244,-79.984,1202
@@ -40,7 +40,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 43822,Union,OH,Scioto County,,city-us,2042,38.827,-83.117,1238
 43789,Union,PA,Luzerne County,,city-us,2038,41.200,-76.152,1202
 43820,Union,NE,Saunders County,,city-us,1997,41.256,-96.415,360
-43804,Union,MS,Neshoba County / Newton County,,city-us,1972,32.571,-89.115,2535
+43804,Union,MS,Neshoba County,,city-us,1972,32.571,-89.115,2535
 43771,Union,OH,Highland County,,city-us,1947,39.259,-83.721,1238
 43816,Union,WI,Rock County,,city-us,1860,42.824,-89.302,2177
 43768,Union,OH,Hancock County,,city-us,1856,40.951,-83.823,1238
@@ -65,7 +65,7 @@ id,name,state,county,country,level,population,latitude,longitude,wiki
 43763,Union,IL,Fulton County,,city-us,856,40.664,-90.396,376
 43777,Union,PA,Jefferson County,,city-us,838,41.191,-79.166,1202
 43836,Union,WI,Vernon County,,city-us,817,43.595,-90.494,1905
-43806,Union,CT,Northeastern Connecticut Planning Region,,city-us,781,42.000,-72.162,6085
+43806,Union,CT,Northeastern Connecticut ,,city-us,781,42.000,-72.162,6085
 43840,Union,WI,Waupaca County,,city-us,771,44.549,-88.915,1990
 43757,Union,IL,Effingham County,,city-us,767,38.959,-88.522,376
 43764,Union,PA,Fulton County,,city-us,753,39.770,-78.299,1202

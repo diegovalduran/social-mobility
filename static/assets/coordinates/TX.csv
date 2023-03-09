@@ -1,64 +1,64 @@
 phoneme,name,county,latitude,longitude
-04050,Houston,Fort Bend County / Harris County / Montgomery County / Waller County,29.786,-95.389
-07563,San Antonio,Bexar County / Comal County / Medina County,29.463,-98.525
-02173,Dallas,Collin County / Dallas County / Denton County / Kaufman County / Rockwall County,32.793,-96.767
-00373,Austin,Bastrop County / Hays County / Travis County / Williamson County,30.301,-97.754
+04050,Houston,Fort Bend County,29.786,-95.389
+07563,San Antonio,Bexar County,29.463,-98.525
+02173,Dallas,Collin County,32.793,-96.767
+00373,Austin,Bastrop County,30.301,-97.754
 02648,El Paso,El Paso County,31.759,-106.487
 00285,Arlington,Tarrant County,32.736,-97.108
-06780,Plano,Collin County / Denton County,33.051,-96.748
+06780,Plano,Collin County,33.051,-96.748
 04688,Laredo,Webb County,27.506,-99.508
 02794,Irving,Dallas County,32.814,-96.949
-03242,Garland,Collin County / Dallas County / Rockwall County,32.910,-96.630
-03176,Frisco,Collin County / Denton County,33.155,-96.823
+03242,Garland,Collin County,32.910,-96.630
+03176,Frisco,Collin County,33.155,-96.823
 05388,McKinney,Collin County,33.198,-96.615
 04502,Klein,Harris County,30.046,-95.536
-03453,Grand Prairie,Dallas County / Ellis County / Tarrant County,32.686,-97.021
+03453,Grand Prairie,Dallas County,32.686,-97.021
 01135,Brownsville,Cameron County,25.902,-97.497
 02154,Cypress,Harris County,29.971,-95.697
 06526,Pasadena,Harris County,29.691,-95.209
 02299,Denton,Denton County,33.215,-97.133
-05484,Mesquite,Dallas County / Kaufman County,32.760,-96.584
+05484,Mesquite,Dallas County,32.760,-96.584
 08921,Waco,McLennan County,31.549,-97.147
-01401,Carrollton,Collin County / Dallas County / Denton County,32.989,-96.900
-05523,Midland,Martin County / Midland County,32.025,-102.113
-00011,Abilene,Jones County / Taylor County,32.455,-99.738
-07429,Round Rock,Travis County / Williamson County,30.527,-97.660
+01401,Carrollton,Collin County,32.989,-96.900
+05523,Midland,Martin County,32.025,-102.113
+00011,Abilene,Jones County,32.455,-99.738
+07429,Round Rock,Travis County,30.527,-97.660
 01824,College Station,Brazos County,30.628,-96.334
-07215,Richardson,Collin County / Dallas County,32.972,-96.708
-04825,Lewisville,Dallas County / Denton County,33.051,-96.975
+07215,Richardson,Collin County,32.972,-96.708
+04825,Lewisville,Dallas County,33.051,-96.975
 00582,Beaumont,Jefferson County,30.086,-94.102
-06263,Odessa,Ector County / Midland County,31.880,-102.345
+06263,Odessa,Ector County,31.880,-102.345
 08716,Tyler,Smith County,32.351,-95.301
 00125,Allen,Collin County,33.103,-96.671
 02620,Edinburg,Hidalgo County,26.302,-98.163
 01045,Bryan,Brazos County,30.674,-96.370
 05617,Mission,Hidalgo County,26.216,-98.325
 08448,Temple,Bell County,31.098,-97.343
-00548,Baytown,Chambers County / Harris County,29.765,-94.967
-04985,Longview,Gregg County / Harrison County,32.519,-94.765
+00548,Baytown,Chambers County,29.765,-94.967
+04985,Longview,Gregg County,32.519,-94.765
 02909,Pharr,Hidalgo County,26.195,-98.184
 03279,Georgetown,Williamson County,30.633,-97.677
-05622,Missouri City,Fort Bend County / Harris County,29.563,-95.536
-05194,Mansfield,Ellis County / Johnson County / Tarrant County,32.569,-97.121
+05622,Missouri City,Fort Bend County,29.563,-95.536
+05194,Mansfield,Ellis County,32.569,-97.121
 03705,Harlingen,Cameron County,26.191,-97.696
-07577,San Marcos,Caldwell County / Guadalupe County / Hays County,29.874,-97.935
-04749,Leander,Travis County / Williamson County,30.574,-97.862
+07577,San Marcos,Caldwell County,29.874,-97.935
+04749,Leander,Travis County,30.574,-97.862
 08870,Victoria,Victoria County,28.805,-97.004
 08047,Spring,Harris County,30.080,-95.417
-09292,Wylie,Collin County / Dallas County / Rockwall County,33.036,-96.520
+09292,Wylie,Collin County,33.036,-96.520
 02310,DeSoto,Dallas County,32.590,-96.857
-06873,Port Arthur,Jefferson County / Orange County,29.900,-93.894
-08471,Texas City,Chambers County / Galveston County,29.434,-94.893
+06873,Port Arthur,Jefferson County,29.900,-93.894
+08471,Texas City,Chambers County,29.434,-94.893
 03220,Galveston,Galveston County,29.301,-94.798
 04543,Kyle,Hays County,29.989,-97.877
-01222,Burleson,Johnson County / Tarrant County,32.516,-97.327
-03483,Grapevine,Dallas County / Denton County / Tarrant County,32.935,-97.076
+01222,Burleson,Johnson County,32.516,-97.327
+03483,Grapevine,Dallas County,32.935,-97.076
 00601,Bedford,Tarrant County,32.844,-97.143
-01484,Cedar Hill,Dallas County / Ellis County,32.584,-96.959
+01484,Cedar Hill,Dallas County,32.584,-96.959
 04098,Huntsville,Walker County,30.724,-95.551
 04374,Keller,Tarrant County,32.935,-97.252
 07811,Sherman,Grayson County,33.636,-96.609
-03173,Friendswood,Galveston County / Harris County,29.508,-95.201
+03173,Friendswood,Galveston County,29.508,-95.201
 04660,Lancaster,Dallas County,32.592,-96.756
 03809,Hurst,Tarrant County,32.823,-97.171
 02482,Duncanville,Dallas County,32.652,-96.908
@@ -69,7 +69,7 @@ phoneme,name,county,latitude,longitude
 04564,La Porte,Harris County,29.666,-95.019
 07574,San Juan,Hidalgo County,26.189,-98.155
 02264,Del Rio,Val Verde County,29.363,-100.897
-06976,Prosper,Collin County / Denton County,33.241,-96.812
+06976,Prosper,Collin County,33.241,-96.812
 05067,Lufkin,Angelina County,31.338,-94.729
 09058,Weatherford,Parker County,32.759,-97.797
 02253,Deer Park,Harris County,29.705,-95.124
@@ -92,9 +92,9 @@ phoneme,name,county,latitude,longitude
 04422,Kerrville,Kerr County,30.047,-99.140
 06499,Paris,Lamar County,33.661,-95.556
 07508,Saginaw,Tarrant County,32.860,-97.364
-04359,Katy,Fort Bend County / Harris County / Waller County,29.791,-95.841
+04359,Katy,Fort Bend County,29.791,-95.841
 00658,Belton,Bell County,31.056,-97.464
-01502,Celina,Collin County / Denton County,33.319,-96.796
+01502,Celina,Collin County,33.319,-96.796
 09021,Watauga,Tarrant County,32.858,-97.255
 01154,Brushy Creek,Williamson County,30.514,-97.740
 01942,Corinth,Denton County,33.154,-97.065
@@ -103,13 +103,13 @@ phoneme,name,county,latitude,longitude
 05855,Murphy,Collin County,33.015,-96.613
 02770,Ennis,Ellis County,32.329,-96.625
 08185,Stephenville,Erath County,32.221,-98.202
-06892,Portland,Nueces County / San Patricio County,27.889,-97.332
+06892,Portland,Nueces County,27.889,-97.332
 00218,Anna,Collin County,33.349,-96.549
 06965,Princeton,Collin County,33.180,-96.498
 00078,Alamo,Hidalgo County,26.184,-98.123
-08757,Universal City,Bexar County / Guadalupe County,29.552,-98.308
+08757,Universal City,Bexar County,29.552,-98.308
 06778,Plainview,Hale County,34.185,-101.707
-02095,Crowley,Johnson County / Tarrant County,32.577,-97.358
+02095,Crowley,Johnson County,32.577,-97.358
 06341,Orange,Orange County,30.093,-93.737
 00165,Alton,Hidalgo County,26.287,-98.313
 01139,Brownwood,Brown County,31.709,-98.991
@@ -121,7 +121,7 @@ phoneme,name,county,latitude,longitude
 00532,Bay City,Matagorda County,28.983,-95.969
 00118,Alice,Jim Wells County,27.752,-98.070
 03206,Gainesville,Cooke County,33.626,-97.133
-08134,Stafford,Fort Bend County / Harris County,29.626,-95.566
+08134,Stafford,Fort Bend County,29.626,-95.566
 02265,Del Valle,Travis County,30.211,-97.654
 00036,Addison,Dallas County,32.962,-96.829
 00637,Bellaire,Harris County,29.706,-95.459
@@ -138,7 +138,7 @@ phoneme,name,county,latitude,longitude
 01183,Buda,Hays County,30.085,-97.840
 07124,Red Oak,Ellis County,32.518,-96.804
 01355,Canyon,Randall County,34.980,-101.919
-05594,Mineral Wells,Palo Pinto County / Parker County,32.823,-98.079
+05594,Mineral Wells,Palo Pinto County,32.823,-98.079
 04931,Lockhart,Caldwell County,29.885,-97.670
 03850,Hereford,Deaf Smith County,34.815,-102.398
 02475,Dumas,Moore County,35.866,-101.973
@@ -146,9 +146,9 @@ phoneme,name,county,latitude,longitude
 04237,Jacksonville,Cherokee County,31.964,-95.270
 03061,Forest Hill,Tarrant County,32.672,-97.269
 05073,Lumberton,Hardin County,30.266,-94.200
-07706,Seabrook,Chambers County / Harris County,29.595,-94.988
+07706,Seabrook,Chambers County,29.595,-94.988
 03834,Henderson,Rusk County,32.153,-94.799
-04450,Kilgore,Gregg County / Rusk County,32.397,-94.860
+04450,Kilgore,Gregg County,32.397,-94.860
 00210,Andrews,Andrews County,32.319,-102.546
 00342,Athens,Henderson County,32.205,-95.856
 07625,Santa Fe,Galveston County,29.378,-95.106
@@ -156,7 +156,7 @@ phoneme,name,county,latitude,longitude
 05202,Manvel,Brazoria County,29.463,-95.358
 07225,Richmond,Fort Bend County,29.582,-95.761
 09067,Webster,Harris County,29.538,-95.118
-07732,Selma,Bexar County / Comal County / Guadalupe County,29.586,-98.315
+07732,Selma,Bexar County,29.586,-98.315
 04681,Lantana,Denton County,33.091,-97.124
 07940,Snyder,Scurry County,32.718,-100.918
 03112,Four Corners,Fort Bend County,29.669,-95.658
@@ -164,18 +164,18 @@ phoneme,name,county,latitude,longitude
 06810,Pleasanton,Atascosa County,28.967,-98.479
 02882,Fairview,Collin County,33.158,-96.632
 03156,Freeport,Brazoria County,28.954,-95.360
-02671,Elgin,Bastrop County / Travis County,30.354,-97.390
+02671,Elgin,Bastrop County,30.354,-97.390
 08368,Sweetwater,Nolan County,32.471,-100.406
 07091,Raymondville,Willacy County,26.481,-97.783
 07335,Rockport,Aransas County,28.021,-97.054
 00518,Bastrop,Bastrop County,30.110,-97.315
-03810,Heath,Kaufman County / Rockwall County,32.854,-96.464
+03810,Heath,Kaufman County,32.854,-96.464
 08856,Vernon,Wilbarger County,34.155,-99.265
-04164,Ingleside,Nueces County / San Patricio County,27.871,-97.208
-07296,Roanoke,Denton County / Tarrant County,33.015,-97.229
+04164,Ingleside,Nueces County,27.871,-97.208
+07296,Roanoke,Denton County,33.015,-97.229
 01054,Bridge City,Orange County,30.021,-93.846
 09435,Woodway,McLennan County,31.506,-97.205
-07617,Sanger,Cooke County / Denton County,33.382,-97.165
+07617,Sanger,Cooke County,33.382,-97.165
 04586,Lago Vista,Travis County,30.460,-97.988
 02226,Dayton,Liberty County,30.047,-94.885
 01122,Brownfield,Terry County,33.181,-102.274
@@ -193,7 +193,7 @@ phoneme,name,county,latitude,longitude
 04323,Joshua,Johnson County,32.462,-97.388
 08326,Sunnyvale,Dallas County,32.797,-96.561
 05054,Lucas,Collin County,33.084,-96.577
-01732,Cleveland,Liberty County / Montgomery County / San Jacinto County,30.338,-95.090
+01732,Cleveland,Liberty County,30.338,-95.090
 03906,Highlands,Harris County,29.819,-95.056
 07279,River Oaks,Tarrant County,32.777,-97.394
 03954,Hitchcock,Galveston County,29.348,-95.016
@@ -223,7 +223,7 @@ phoneme,name,county,latitude,longitude
 04418,Kermit,Winkler County,31.858,-103.093
 01059,Bridgeport,Wise County,33.210,-97.755
 02629,Edna,Jackson County,28.979,-96.646
-09491,Yoakum,DeWitt County / Lavaca County,29.293,-97.147
+09491,Yoakum,DeWitt County,29.293,-97.147
 04911,Littlefield,Lamb County,33.917,-102.325
 01627,Childress,Childress County,34.426,-100.204
 06505,Parker,Collin County,33.055,-96.622
@@ -231,15 +231,15 @@ phoneme,name,county,latitude,longitude
 02105,Krum,Denton County,33.262,-97.238
 00154,Alpine,Brewster County,30.358,-103.661
 02445,Dripping Springs,Hays County,30.190,-98.087
-08841,Venus,Ellis County / Johnson County,32.432,-97.103
-01046,Briar,Parker County / Tarrant County / Wise County,33.019,-97.575
+08841,Venus,Ellis County,32.432,-97.103
+01046,Briar,Parker County,33.019,-97.575
 04104,Hutchins,Dallas County,32.649,-96.713
 06225,Oak Point,Denton County,33.190,-96.992
 05259,Marlin,Falls County,31.306,-96.898
 07473,Rusk,Cherokee County,31.796,-95.150
 00969,Bowie,Montague County,33.559,-97.849
-05380,McGregor,Coryell County / McLennan County,31.420,-97.426
-05069,Luling,Caldwell County / Guadalupe County,29.682,-97.647
+05380,McGregor,Coryell County,31.420,-97.426
+05069,Luling,Caldwell County,29.682,-97.647
 01311,Cameron Park,Cameron County,25.971,-97.478
 00347,Atlanta,Cass County,33.114,-94.164
 07326,Rockdale,Milam County,30.655,-97.001
@@ -262,10 +262,10 @@ phoneme,name,county,latitude,longitude
 06734,Pinehurst,Montgomery County,30.171,-95.682
 06907,Potosi,Taylor County,32.329,-99.656
 00274,Argyle,Denton County,33.121,-97.183
-06702,Pilot Point,Cooke County / Denton County / Grayson County,33.404,-96.949
+06702,Pilot Point,Cooke County,33.404,-96.949
 04558,La Joya,Hidalgo County,26.247,-98.481
 05956,New Boston,Bowie County,33.460,-94.415
-04322,Josephine,Collin County / Hunt County,33.063,-96.317
+04322,Josephine,Collin County,33.063,-96.317
 05136,Madisonville,Madison County,30.950,-95.912
 03808,Hearne,Robertson County,30.879,-96.593
 03651,Hallsville,Harrison County,32.504,-94.574
@@ -276,7 +276,7 @@ phoneme,name,county,latitude,longitude
 01842,Colorado City,Mitchell County,32.388,-100.865
 06764,Pittsburg,Camp County,32.995,-94.966
 05312,Mathis,San Patricio County,28.094,-97.828
-00383,Ovilla,Dallas County / Ellis County,32.541,-96.883
+00383,Ovilla,Dallas County,32.541,-96.883
 01353,Canton,Van Zandt County,32.557,-95.863
 02026,Crandall,Kaufman County,32.628,-96.456
 01510,Center Point,Kerr County,29.944,-99.037
@@ -295,8 +295,8 @@ phoneme,name,county,latitude,longitude
 01670,Cisco,Eastland County,32.388,-98.979
 05897,Nash,Bowie County,33.442,-94.131
 02919,Farmersville,Collin County,33.163,-96.360
-07568,San Diego,Duval County / Jim Wells County,27.761,-98.239
-01204,Bullard,Cherokee County / Smith County,32.144,-95.318
+07568,San Diego,Duval County,27.761,-98.239
+01204,Bullard,Cherokee County,32.144,-95.318
 00231,Anthony,El Paso County,31.999,-106.606
 03572,Groesbeck,Limestone County,31.524,-96.534
 02580,Eastland,Eastland County,32.402,-98.818
@@ -305,7 +305,7 @@ phoneme,name,county,latitude,longitude
 07801,Shenandoah,Montgomery County,30.180,-95.456
 01849,Columbus,Colorado County,29.707,-96.540
 01659,Chula Vista,Maverick County,28.657,-100.425
-09359,Winnsboro,Franklin County / Wood County,32.956,-95.290
+09359,Winnsboro,Franklin County,32.956,-95.290
 01738,Clifton,Bosque County,31.782,-97.577
 02022,Crane,Crane County,31.397,-102.350
 02524,Eagle Lake,Colorado County,29.590,-96.334
@@ -313,9 +313,9 @@ phoneme,name,county,latitude,longitude
 02460,Dublin,Erath County,32.085,-98.342
 09147,West Orange,Orange County,30.082,-93.758
 01553,Chandler,Henderson County,32.308,-95.480
-08071,Springtown,Parker County / Wise County,32.969,-97.680
+08071,Springtown,Parker County,32.969,-97.680
 04922,Llano,Llano County,30.759,-98.675
-04600,Lake Cherokee,Gregg County / Rusk County,32.360,-94.650
+04600,Lake Cherokee,Gregg County,32.360,-94.650
 02343,Dilley,Frio County,28.667,-99.171
 04356,Karnes City,Karnes County,28.885,-97.901
 00553,Beach City,Chambers County,29.662,-94.890
@@ -324,26 +324,26 @@ phoneme,name,county,latitude,longitude
 02538,Early,Brown County,31.742,-98.946
 06324,Onalaska,Polk County,30.806,-95.116
 03841,Henrietta,Clay County,33.817,-98.195
-07174,Reno,Parker County / Tarrant County,32.949,-97.566
+07174,Reno,Parker County,32.949,-97.566
 03755,Haskell,Haskell County,33.158,-99.734
 01854,Combes,Cameron County,26.249,-97.734
 06316,Olney,Young County,33.371,-98.753
 01447,Castroville,Medina County,29.356,-98.879
 04600,Lake Cherokee,Gregg County,32.357,-94.651
-08140,Stamford,Haskell County / Jones County,33.046,-99.597
-05103,Lytle,Atascosa County / Bexar County / Medina County,29.235,-98.794
+08140,Stamford,Haskell County,33.046,-99.597
+05103,Lytle,Atascosa County,29.235,-98.794
 03617,Hackberry,Denton County,33.152,-96.918
 03241,Garfield,Travis County,30.187,-97.558
 02870,Fairfield,Freestone County,31.725,-96.165
 03659,Hamilton,Hamilton County,31.704,-98.124
-02929,Ferris,Dallas County / Ellis County,32.537,-96.676
+02929,Ferris,Dallas County,32.537,-96.676
 07062,Rancho Viejo,Cameron County,26.040,-97.556
 00753,Big Lake,Reagan County,31.192,-101.460
 07760,Shady Shores,Denton County,33.165,-97.029
 03348,Glen Rose,Somervell County,32.235,-97.755
 08394,Taft,San Patricio County,27.979,-97.399
-00010,Abernathy,Hale County / Lubbock County,33.827,-101.852
-08964,Waller,Harris County / Waller County,30.067,-95.928
+00010,Abernathy,Hale County,33.827,-101.852
+08964,Waller,Harris County,30.067,-95.928
 01697,Clarksville,Red River County,33.611,-95.053
 08898,Vinton,El Paso County,31.951,-106.602
 07641,Sargent,Matagorda County,28.835,-95.665
@@ -352,7 +352,7 @@ phoneme,name,county,latitude,longitude
 05144,Magnolia,Montgomery County,30.209,-95.751
 00061,Agua Dulce,El Paso County,31.655,-106.139
 07755,Seymour,Baylor County,33.594,-99.260
-01245,Bushland,Potter County / Randall County,35.203,-102.059
+01245,Bushland,Potter County,35.203,-102.059
 09108,West,McLennan County,31.802,-97.092
 08481,The Hills,Travis County,30.348,-97.985
 06489,Pantego,Tarrant County,32.714,-97.156
@@ -377,14 +377,14 @@ phoneme,name,county,latitude,longitude
 02905,Fannett,Jefferson County,29.926,-94.251
 07793,Sheldon,Harris County,29.861,-95.134
 00887,Blue Mound,Tarrant County,32.857,-97.339
-06095,Nixon,Gonzales County / Wilson County,29.270,-97.766
+06095,Nixon,Gonzales County,29.270,-97.766
 00227,Anson,Jones County,32.757,-99.896
 06440,Ozona,Crockett County,30.710,-101.201
 06486,Panhandle,Carson County,35.346,-101.380
 05679,Montgomery,Montgomery County,30.388,-95.696
 02670,Electra,Wichita County,34.029,-98.919
 07069,Ranger,Eastland County,32.470,-98.679
-06424,Overton,Rusk County / Smith County,32.276,-94.973
+06424,Overton,Rusk County,32.276,-94.973
 03603,Gunter,Grayson County,33.448,-96.747
 01332,Canadian,Hemphill County,35.913,-100.382
 06590,Pelican Bay,Tarrant County,32.921,-97.518
@@ -416,12 +416,12 @@ phoneme,name,county,latitude,longitude
 00082,Albany,Shackelford County,32.723,-99.297
 03462,Grandview,Johnson County,32.270,-97.179
 04698,Las Lomas,Starr County,26.365,-98.775
-03662,Hamlin,Fisher County / Jones County,32.890,-100.132
+03662,Hamlin,Fisher County,32.890,-100.132
 00738,Beverly Hills,McLennan County,31.522,-97.154
 01682,Clarendon,Donley County,34.938,-100.888
 09087,Wellington,Collingsworth County,34.856,-100.214
 03378,Godley,Johnson County,32.449,-97.527
-02050,Cresson,Hood County / Johnson County / Parker County,32.530,-97.615
+02050,Cresson,Hood County,32.530,-97.615
 04263,Jefferson,Marion County,32.757,-94.345
 02077,Crosby,Harris County,29.912,-95.062
 02083,Cross Roads,Denton County,33.231,-97.002
@@ -445,11 +445,11 @@ phoneme,name,county,latitude,longitude
 00961,Bovina,Parmer County,34.514,-102.883
 08328,Sunray,Moore County,36.017,-101.825
 05532,Milam,Sabine County,31.432,-93.846
-09174,Westlake,Denton County / Tarrant County,32.985,-97.204
+09174,Westlake,Denton County,32.985,-97.204
 03133,Franklin,Robertson County,31.026,-96.485
 05750,Morton,Cochran County,33.725,-102.759
 02181,Danbury,Brazoria County,29.228,-95.345
-00498,Bartlett,Bell County / Williamson County,30.795,-97.432
+00498,Bartlett,Bell County,30.795,-97.432
 07052,Ralls,Crosby County,33.674,-101.388
 08204,Stinnett,Hutchinson County,35.827,-101.443
 04220,Itasca,Hill County,32.160,-97.150
@@ -494,8 +494,8 @@ phoneme,name,county,latitude,longitude
 07355,Rotan,Fisher County,32.852,-100.466
 07392,Rosebud,Falls County,31.073,-96.979
 06821,Plum Grove,Liberty County,30.215,-95.095
-03886,Hico,Erath County / Hamilton County,31.985,-98.028
-08426,Tatum,Panola County / Rusk County,32.316,-94.519
+03886,Hico,Erath County,31.985,-98.028
+08426,Tatum,Panola County,32.316,-94.519
 05944,Nevada,Collin County,33.042,-96.374
 07715,Sebastian,Willacy County,26.343,-97.790
 07969,Somerville,Burleson County,30.346,-96.528
@@ -507,7 +507,7 @@ phoneme,name,county,latitude,longitude
 08966,Wallis,Austin County,29.631,-96.065
 02743,Emerald Bay,Smith County,32.161,-95.439
 02746,Emory,Rains County,32.875,-95.766
-08505,Thorndale,Milam County / Williamson County,30.614,-97.206
+08505,Thorndale,Milam County,30.614,-97.206
 02689,Elkhart,Anderson County,31.625,-95.579
 07891,Skidmore,Bee County,28.254,-97.686
 08317,Sundown,Hockley County,33.456,-102.489
@@ -515,7 +515,7 @@ phoneme,name,county,latitude,longitude
 03297,Gholson,McLennan County,31.701,-97.216
 06917,Powderly,Lamar County,33.811,-95.524
 07386,Roscoe,Nolan County,32.446,-100.539
-08799,Valley Mills,Bosque County / McLennan County,31.657,-97.473
+08799,Valley Mills,Bosque County,31.657,-97.473
 01634,China,Jefferson County,30.048,-94.336
 05847,Munday,Knox County,33.449,-99.623
 07206,Rice,Navarro County,32.244,-96.499
@@ -535,7 +535,7 @@ phoneme,name,county,latitude,longitude
 06722,Pine Island,Waller County,30.058,-96.037
 05016,Lost Creek,Travis County,30.295,-97.844
 02829,Eustace,Henderson County,32.307,-96.007
-06047,Newark,Tarrant County / Wise County,33.014,-97.488
+06047,Newark,Tarrant County,33.014,-97.488
 00923,Boling,Wharton County,29.264,-95.944
 01635,China Grove,Bexar County,29.389,-98.349
 08188,Sterling City,Sterling County,31.836,-100.985
@@ -609,14 +609,14 @@ phoneme,name,county,latitude,longitude
 07595,Sand Springs,Howard County,32.282,-101.351
 03691,Hardin,Liberty County,30.152,-94.739
 04513,Knippa,Uvalde County,29.295,-99.637
-03814,Hebron,Collin County / Denton County,33.046,-96.887
+03814,Hebron,Collin County,33.046,-96.887
 05634,Moffat,Bell County,31.200,-97.468
 04287,Jewett,Leon County,31.362,-96.144
 03247,Garrison,Nacogdoches County,31.824,-94.491
 01808,Coldspring,San Jacinto County,30.592,-95.129
 01913,Coolidge,Limestone County,31.754,-96.650
 04516,Knollwood,Grayson County,33.690,-96.619
-08624,Trenton,Collin County / Fannin County / Grayson County,33.426,-96.345
+08624,Trenton,Collin County,33.426,-96.345
 07622,Santa Clara,Guadalupe County,29.512,-98.121
 02721,Elmo,Kaufman County,32.722,-96.165
 06829,Point,Rains County,32.932,-95.871
@@ -627,7 +627,7 @@ phoneme,name,county,latitude,longitude
 00599,Beckville,Panola County,32.243,-94.455
 01860,Como,Hopkins County,33.061,-95.472
 07652,Savoy,Fannin County,33.599,-96.367
-09291,Wildwood,Hardin County / Tyler County,30.525,-94.449
+09291,Wildwood,Hardin County,30.525,-94.449
 05540,Milford,Ellis County,32.125,-96.945
 05975,New Deal,Lubbock County,33.737,-101.837
 04965,Lone Oak,Hunt County,32.997,-95.940
@@ -665,7 +665,7 @@ phoneme,name,county,latitude,longitude
 06088,Nina,Starr County,26.281,-98.581
 07626,Santa Maria,Cameron County,26.079,-97.849
 06107,Noonday,Smith County,32.236,-95.406
-03683,Happy,Randall County / Swisher County,34.742,-101.857
+03683,Happy,Randall County,34.742,-101.857
 04881,Linn,Hidalgo County,26.560,-98.122
 07871,Silverton,Briscoe County,34.474,-101.305
 04581,Ladonia,Fannin County,33.425,-95.946
@@ -701,12 +701,12 @@ phoneme,name,county,latitude,longitude
 00549,Bayview,Cameron County,26.129,-97.398
 04775,Leggett,Polk County,30.818,-94.870
 07624,Santa Cruz,Starr County,26.355,-98.768
-02582,Easton,Gregg County / Rusk County,32.382,-94.591
+02582,Easton,Gregg County,32.382,-94.591
 04919,Liverpool,Brazoria County,29.295,-95.279
 05735,Morning Glory,El Paso County,31.570,-106.216
 02235,Dean,Clay County,33.950,-98.346
 03188,Fruitvale,Van Zandt County,32.683,-95.803
-00080,Alba,Rains County / Wood County,32.787,-95.632
+00080,Alba,Rains County,32.787,-95.632
 07915,Smiley,Gonzales County,29.268,-97.636
 05699,Moore,Frio County,29.066,-99.013
 03413,Gordon,Palo Pinto County,32.548,-98.369
@@ -718,7 +718,7 @@ phoneme,name,county,latitude,longitude
 01260,Byers,Clay County,34.068,-98.191
 06104,Nome,Jefferson County,30.036,-94.424
 08743,Union Grove,Upshur County,32.571,-94.920
-02038,Creedmoor,Hays County / Travis County,30.074,-97.737
+02038,Creedmoor,Hays County,30.074,-97.737
 08531,Tilden,McMullen County,28.462,-98.549
 01160,Bryson,Jack County,33.161,-98.386
 09334,Wilson,Lynn County,33.317,-101.724
@@ -741,7 +741,7 @@ phoneme,name,county,latitude,longitude
 07995,South Mountain,Coryell County,31.428,-97.678
 08749,Union Valley,Hunt County,32.927,-96.251
 08820,Vanderbilt,Jackson County,28.822,-96.616
-06243,Oakwood,Freestone County / Leon County,31.585,-95.850
+06243,Oakwood,Freestone County,31.585,-95.850
 07583,San Patricio,San Patricio County,27.954,-97.772
 00142,Alma,Ellis County,32.285,-96.546
 04533,Kosciusko,Wilson County,29.105,-97.950
@@ -803,7 +803,7 @@ phoneme,name,county,latitude,longitude
 08472,Texhoma,Sherman County,36.494,-101.794
 03404,Goodrich,Polk County,30.605,-94.947
 00497,Barstow,Ward County,31.461,-103.394
-00827,Blackwell,Coke County / Nolan County,32.085,-100.319
+00827,Blackwell,Coke County,32.085,-100.319
 00697,Berclair,Goliad County,28.531,-97.591
 06226,Oak Ridge,Cooke County,33.648,-97.038
 03768,Havana,Hidalgo County,26.245,-98.509
@@ -1570,7 +1570,7 @@ phoneme,name,county,latitude,longitude
 06794,Pleasant Grove,Houston County,29.772,-95.342
 06806,Pleasant Valley,Potter County,35.258,-101.831
 06819,Plum,Fayette County,29.935,-96.968
-06828,Poetry,Hunt County / Kaufman County,32.839,-96.260
+06828,Poetry,Hunt County,32.839,-96.260
 06844,Pollok,Angelina County,31.449,-94.859
 06862,Pontotoc,Mason County,30.909,-98.980
 06897,Possum Trot,Shelby County,36.979,-93.429

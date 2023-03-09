@@ -18,10 +18,12 @@
 	<div class="modal" class:visible={$modal} on:click={() => ($modal = false)}>
 		<div class="bg" />
 		<div class="content">
+			<div class="inner" on:click|stopPropagation={() => {}}>
+				{#each copy.info as { value }}
+					<p>{@html value}</p>
+				{/each}
+			</div>
 			<button><Icon name="x" strokeWidth="3px" /></button>
-			{#each copy.info as { value }}
-				<p>{@html value}</p>
-			{/each}
 		</div>
 	</div>
 </header>
@@ -91,6 +93,7 @@
 		top: 50%;
 		background: var(--color-bg);
 		transform: translate(-50%, -50%);
+		cursor: default;
 	}
 
 	.content button {

@@ -1,9 +1,9 @@
 phoneme,name,county,latitude,longitude
-05584,Milwaukee,Milwaukee County / Washington County / Waukesha County,43.063,-87.967
+05584,Milwaukee,Milwaukee County,43.063,-87.967
 02989,Fisherville,Manitowoc County,44.241,-87.680
 07030,Racine,Racine County,42.726,-87.783
-00248,Appleton,Calumet County / Outagamie County / Winnebago County,44.279,-88.388
-02592,Eau Claire,Chippewa County / Eau Claire County,44.820,-91.495
+00248,Appleton,Calumet County,44.279,-88.388
+02592,Eau Claire,Chippewa County,44.820,-91.495
 06389,Oshkosh,Winnebago County,44.025,-88.543
 04250,Janesville,Rock County,42.683,-89.019
 04549,La Crosse,La Crosse County,43.801,-91.240
@@ -18,31 +18,31 @@ phoneme,name,county,latitude,longitude
 05801,Mount Pleasant,Racine County,42.697,-87.856
 05864,Muskego,Waukesha County,42.906,-88.139
 01286,Caledonia,Racine County,42.808,-87.924
-09029,Watertown,Dodge County / Jefferson County,43.189,-88.729
+09029,Watertown,Dodge County,43.189,-88.729
 06802,Pleasant Prairie,Kenosha County,42.553,-87.933
-04054,Howard,Brown County / Outagamie County,44.569,-88.072
-05273,Marshfield,Marathon County / Wood County,44.663,-90.172
+04054,Howard,Brown County,44.569,-88.072
+05273,Marshfield,Marathon County,44.663,-90.172
 02118,Cudahy,Milwaukee County,42.960,-87.861
-04360,Kaukauna,Calumet County / Outagamie County,44.277,-88.264
-07276,River Falls,Pierce County / St. Croix County,44.861,-92.624
+04360,Kaukauna,Calumet County,44.277,-88.264
+07276,River Falls,Pierce County,44.861,-92.624
 02480,Dunbarton,Lafayette County,42.562,-90.133
 00649,Bellevue,Brown County,44.444,-87.920
-03736,Hartford,Dodge County / Washington County,43.322,-88.378
+03736,Hartford,Dodge County,43.322,-88.378
 01639,Chippewa Falls,Chippewa County,44.937,-91.393
 09243,Whitefish Bay,Milwaukee County,43.113,-87.900
 03534,Greendale,Milwaukee County,42.941,-87.996
-09258,Whitewater,Jefferson County / Walworth County,42.837,-88.734
+09258,Whitewater,Jefferson County,42.837,-88.734
 00138,Allouez,Brown County,44.477,-88.016
 07830,Shorewood,Milwaukee County,43.089,-87.888
-03724,Harrison,Calumet County / Outagamie County,44.192,-88.294
+03724,Harrison,Calumet County,44.192,-88.294
 03352,Glendale,Milwaukee County,43.135,-87.936
 08234,Stoughton,Dane County,42.917,-89.218
 03078,Fort Atkinson,Jefferson County,42.929,-88.837
 03548,Greenville,Outagamie County,44.300,-88.536
 07219,Richfield,Washington County,43.256,-88.194
 08343,Sussex,Waukesha County,43.134,-88.222
-09043,Waupun,Dodge County / Fond du Lac County,43.632,-88.738
-01225,Burlington,Racine County / Walworth County,42.675,-88.272
+09043,Waupun,Dodge County,43.632,-88.738
+01225,Burlington,Racine County,42.675,-88.272
 04889,Lisbon,Waukesha County,43.158,-88.250
 03958,Hobart,Brown County,44.499,-88.150
 06026,New Richmond,St. Croix County,45.123,-92.537
@@ -61,11 +61,11 @@ phoneme,name,county,latitude,longitude
 04074,Hudson,St. Croix County,44.983,-92.674
 02270,Delavan,Walworth County,42.633,-88.644
 04606,Lake Geneva,Walworth County,42.592,-88.433
-05838,Mukwonago,Walworth County / Waukesha County,42.853,-88.321
+05838,Mukwonago,Walworth County,42.853,-88.321
 07966,Somers,Kenosha County,42.640,-87.910
 05480,Merton,Waukesha County,43.157,-88.364
 02266,Delafield,Waukesha County,43.049,-88.348
-00327,Ashland,Ashland County / Bayfield County,46.582,-90.872
+00327,Ashland,Ashland County,46.582,-90.872
 06186,Norway,Racine County,42.797,-88.123
 00665,Beloit,Rock County,42.553,-89.073
 07270,Ripon,Fond du Lac County,43.842,-88.836
@@ -76,7 +76,7 @@ phoneme,name,county,latitude,longitude
 08856,Vernon,Waukesha County,42.904,-88.252
 04454,Kimberly,Outagamie County,44.272,-88.339
 01972,Cottage Grove,Dane County,43.076,-89.200
-06007,New London,Outagamie County / Waupaca County,44.396,-88.739
+06007,New London,Outagamie County,44.396,-88.739
 04232,Jackson,Washington County,43.324,-88.167
 03270,Genesee,Waukesha County,42.953,-88.359
 00114,Algoma,Winnebago County,44.023,-88.624
@@ -92,13 +92,13 @@ phoneme,name,county,latitude,longitude
 04584,Lafayette,Chippewa County,44.908,-91.295
 05132,Madison,Dane County,43.041,-89.391
 03151,Freedom,Outagamie County,44.386,-88.289
-02613,Edgerton,Dane County / Rock County,42.839,-89.070
+02613,Edgerton,Dane County,42.839,-89.070
 06324,Onalaska,La Crosse County,43.935,-91.267
 02834,Evansville,Rock County,42.780,-89.299
 05583,Milton,Rock County,42.776,-88.944
-00702,Berlin,Green Lake County / Waushara County,43.970,-88.950
+00702,Berlin,Green Lake County,43.970,-88.950
 08652,Troy,St. Croix County,44.905,-92.682
-01849,Columbus,Columbia County / Dodge County,43.337,-89.030
+01849,Columbus,Columbia County,43.337,-89.030
 03272,Geneva,Walworth County,42.630,-88.482
 04082,Hull,Portage County,44.565,-89.559
 09154,West Salem,La Crosse County,43.899,-91.081
@@ -120,9 +120,9 @@ phoneme,name,county,latitude,longitude
 03615,Holland,La Crosse County,44.016,-91.315
 09111,West Bend,Washington County,43.391,-88.233
 01078,Bristol,Dane County,43.244,-89.175
-00547,Bayside,Milwaukee County / Ozaukee County,43.183,-87.902
+00547,Bayside,Milwaukee County,43.183,-87.902
 03437,Grafton,Ozaukee County,43.352,-87.946
-04432,Kewaskum,Fond du Lac County / Washington County,43.518,-88.231
+04432,Kewaskum,Fond du Lac County,43.518,-88.231
 06953,Prescott,Pierce County,44.749,-92.802
 07967,Somerset,St. Croix County,45.145,-92.703
 01709,Clayton,Winnebago County,44.201,-88.582
@@ -139,9 +139,9 @@ phoneme,name,county,latitude,longitude
 06327,Oneida,Outagamie County,44.499,-88.183
 01632,Chilton,Calumet County,44.029,-88.163
 06839,Polk,Washington County,43.350,-88.211
-04446,Kiel,Calumet County / Manitowoc County,43.916,-88.026
+04446,Kiel,Calumet County,43.916,-88.026
 08280,Sugar Creek,Walworth County,42.717,-88.606
-06985,Pulaski,Brown County / Oconto County / Shawano County,44.668,-88.234
+06985,Pulaski,Brown County,44.668,-88.234
 07090,Raymond,Racine County,42.801,-88.013
 04660,Lancaster,Grant County,42.847,-90.711
 06146,North Hudson,St. Croix County,44.993,-92.757
@@ -150,7 +150,7 @@ phoneme,name,county,latitude,longitude
 05269,Marshall,Dane County,43.168,-89.067
 04032,Horicon,Dodge County,43.451,-88.631
 03792,Hayward,Sawyer County,45.990,-91.406
-08147,Stanley,Chippewa County / Clark County,44.959,-90.944
+08147,Stanley,Chippewa County,44.959,-90.944
 07309,Rochester,Racine County,42.741,-88.224
 04534,Koshkonong,Jefferson County,42.846,-88.919
 05923,Neenah,Winnebago County,44.156,-88.443
@@ -180,10 +180,10 @@ phoneme,name,county,latitude,longitude
 04946,Lodi,Columbia County,43.339,-89.535
 01217,Burke,Dane County,43.136,-89.276
 09103,Wescott,Shawano County,44.818,-88.559
-01096,Brodhead,Green County / Rock County,42.617,-89.376
+01096,Brodhead,Green County,42.617,-89.376
 09499,Yorkville,Racine County,42.742,-88.027
 02703,Ellington,Outagamie County,44.373,-88.551
-09455,Wrightstown,Brown County / Outagamie County,44.327,-88.176
+09455,Wrightstown,Brown County,44.327,-88.176
 07813,Sherwood,Calumet County,44.174,-88.260
 00114,Algoma,Kewaunee County,44.609,-87.433
 06234,Oakland,Jefferson County,42.985,-88.947
@@ -224,7 +224,7 @@ phoneme,name,county,latitude,longitude
 08147,Stanley,Barron County,45.430,-91.725
 01095,Brockway,Jackson County,44.285,-90.840
 03707,Harmony,Rock County,42.714,-88.943
-00648,Belleville,Dane County / Green County,42.864,-89.540
+00648,Belleville,Dane County,42.864,-89.540
 02255,Deerfield,Dane County,43.052,-89.076
 02286,Delton,Sauk County,43.565,-89.795
 04555,La Grange,Walworth County,42.800,-88.602
@@ -242,7 +242,7 @@ phoneme,name,county,latitude,longitude
 08652,Troy,Walworth County,42.779,-88.445
 02242,Dekorra,Columbia County,43.458,-89.468
 09163,Westby,Vernon County,43.657,-90.854
-00005,Abbotsford,Clark County / Marathon County,44.943,-90.317
+00005,Abbotsford,Clark County,44.943,-90.317
 03148,Fredonia,Ozaukee County,43.471,-87.951
 03615,Holland,Sheboygan County,43.591,-87.854
 01749,Clover,Manitowoc County,44.038,-87.702
@@ -287,7 +287,7 @@ phoneme,name,county,latitude,longitude
 05392,McMillan,Marathon County,44.742,-90.163
 09014,Washington,Shawano County,44.785,-88.397
 08858,Verona,Dane County,42.968,-89.587
-01803,Colby,Clark County / Marathon County,44.911,-90.316
+01803,Colby,Clark County,44.911,-90.316
 04555,La Grange,Monroe County,44.038,-90.478
 02921,Farmington,Polk County,45.260,-92.685
 07667,Schleswig,Manitowoc County,43.941,-87.974
@@ -310,7 +310,7 @@ phoneme,name,county,latitude,longitude
 05623,Mitchell,Sheboygan County,43.670,-88.105
 02895,Fall River,Columbia County,43.384,-89.045
 06393,Osseo,Trempealeau County,44.572,-91.227
-07066,Randolph,Columbia County / Dodge County,43.539,-89.003
+07066,Randolph,Columbia County,43.539,-89.003
 07333,Rockland,Brown County,44.376,-88.060
 00326,Ashford,Fond du Lac County,43.587,-88.371
 00030,Adams,Adams County,43.956,-89.818
@@ -346,7 +346,7 @@ phoneme,name,county,latitude,longitude
 02202,Darien,Walworth County,42.623,-88.722
 06938,Prairie Lake,Barron County,45.333,-91.733
 03212,Galesville,Trempealeau County,44.082,-91.349
-01308,Cambridge,Dane County / Jefferson County,43.007,-89.021
+01308,Cambridge,Dane County,43.007,-89.021
 09245,Whitehall,Trempealeau County,44.367,-91.317
 04035,Horse Creek,Polk County,45.258,-92.583
 09014,Washington,Vilas County,45.942,-89.136
@@ -381,7 +381,7 @@ phoneme,name,county,latitude,longitude
 04659,Lanark,Portage County,44.382,-89.278
 04872,Lyndon,Sheboygan County,43.678,-87.974
 07444,Royalton,Waupaca County,44.413,-88.863
-01109,Brooklyn,Dane County / Green County,42.850,-89.376
+01109,Brooklyn,Dane County,42.850,-89.376
 06665,Phillips,Price County,45.697,-90.400
 04900,Little Falls,Monroe County,44.098,-90.877
 04872,Lyndon,Juneau County,43.669,-89.872
@@ -410,7 +410,7 @@ phoneme,name,county,latitude,longitude
 01741,Clinton,Vernon County,43.686,-90.741
 01919,Cooperstown,Manitowoc County,44.313,-87.774
 06955,Preston,Adams County,44.019,-89.790
-08062,Spring Valley,Pierce County / St. Croix County,44.852,-92.243
+08062,Spring Valley,Pierce County,44.852,-92.243
 07687,Scott,Lincoln County,45.157,-89.728
 09433,Woodville,St. Croix County,44.953,-92.291
 00190,Amherst,Portage County,44.462,-89.296
@@ -439,13 +439,13 @@ phoneme,name,county,latitude,longitude
 04360,Kaukauna,Outagamie County,44.349,-88.227
 08073,Springville,Vernon County,43.584,-90.940
 04084,Humboldt,Brown County,44.502,-87.826
-05248,Marion,Shawano County / Waupaca County,44.677,-88.902
+05248,Marion,Shawano County,44.677,-88.902
 06924,Powers Lake,Kenosha County,42.554,-88.295
 02749,Emmet,Dodge County,43.238,-88.712
 03159,Fremont,Clark County,44.646,-90.368
 00831,Blair,Trempealeau County,44.294,-91.235
 08073,Springville,Adams County,43.778,-89.788
-05861,Muscoda,Grant County / Iowa County,43.186,-90.432
+05861,Muscoda,Grant County,43.186,-90.432
 09170,Westford,Dodge County,43.498,-88.941
 04687,Larrabee,Manitowoc County,44.268,-87.715
 08125,St. Peter,Fond du Lac County,43.836,-88.341
@@ -491,7 +491,7 @@ phoneme,name,county,latitude,longitude
 00371,Aurora,Florence County,45.786,-88.101
 06234,Oakland,Douglas County,46.495,-91.990
 07148,Reid,Marathon County,44.810,-89.419
-03797,Hazel Green,Grant County / Lafayette County,42.534,-90.436
+03797,Hazel Green,Grant County,42.534,-90.436
 07150,Reedsburg,Sauk County,43.508,-90.016
 06729,Pine Valley,Clark County,44.556,-90.623
 07017,Quincy,Adams County,43.889,-89.915
@@ -506,7 +506,7 @@ phoneme,name,county,latitude,longitude
 01187,Buena Vista,Portage County,44.371,-89.459
 04861,Lincoln,Eau Claire County,44.736,-91.262
 01897,Conover,Vilas County,46.055,-89.258
-06048,Newburg,Ozaukee County / Washington County,43.432,-88.048
+06048,Newburg,Ozaukee County,43.432,-88.048
 01155,Brussels,Door County,44.736,-87.621
 03362,Glenmore,Brown County,44.386,-87.927
 05688,Montrose,Dane County,42.883,-89.577
@@ -556,7 +556,7 @@ phoneme,name,county,latitude,longitude
 01506,Center,Rock County,42.709,-89.180
 03780,Hawthorne,Douglas County,46.503,-91.861
 01709,Clayton,Crawford County,43.360,-90.746
-08692,Turtle Lake,Barron County / Polk County,45.391,-92.150
+08692,Turtle Lake,Barron County,45.391,-92.150
 08299,Summit,Douglas County,46.426,-92.175
 02524,Eagle Lake,Racine County,42.707,-88.128
 04640,Laketown,Polk County,45.592,-92.600
@@ -703,7 +703,7 @@ phoneme,name,county,latitude,longitude
 09411,Woodland,Sauk County,43.600,-90.253
 08302,Sumner,Trempealeau County,44.558,-91.217
 04263,Jefferson,Monroe County,43.770,-90.753
-02402,Dorchester,Clark County / Marathon County,45.001,-90.331
+02402,Dorchester,Clark County,45.001,-90.331
 08302,Sumner,Jefferson County,42.885,-88.983
 09014,Washington,Green County,42.727,-89.661
 05755,Mosel,Sheboygan County,43.806,-87.740
@@ -771,7 +771,7 @@ phoneme,name,county,latitude,longitude
 04089,Hunter,Sawyer County,45.919,-91.178
 00307,Arthur,Chippewa County,45.060,-91.156
 00611,Beecher,Marinette County,45.588,-87.995
-07333,Rockland,La Crosse County / Monroe County,43.908,-90.917
+07333,Rockland,La Crosse County,43.908,-90.917
 04861,Lincoln,Trempealeau County,44.370,-91.366
 00539,Bayfield,Bayfield County,46.880,-90.954
 04851,Lima,Grant County,42.816,-90.489
@@ -835,7 +835,7 @@ phoneme,name,county,latitude,longitude
 01812,Coleman,Marinette County,45.065,-88.034
 06267,Ogema,Price County,45.426,-90.385
 01806,Cold Spring,Jefferson County,42.891,-88.774
-00787,Birnamwood,Marathon County / Shawano County,44.932,-89.210
+00787,Birnamwood,Marathon County,44.932,-89.210
 01422,Cascade,Sheboygan County,43.658,-88.007
 00473,Barksdale,Bayfield County,46.621,-90.932
 08930,Wagner,Marinette County,45.302,-87.736
@@ -886,7 +886,7 @@ phoneme,name,county,latitude,longitude
 08072,Springvale,Fond du Lac County,43.760,-88.701
 02255,Deerfield,Waushara County,44.114,-89.417
 07387,Rose,Waushara County,44.200,-89.298
-08899,Viola,Richland County / Vernon County,43.508,-90.674
+08899,Viola,Richland County,43.508,-90.674
 05993,New Haven,Dunn County,45.166,-92.095
 08334,Superior,Douglas County,46.721,-92.104
 00565,Bear Lake,Barron County,45.590,-91.850
@@ -918,7 +918,7 @@ phoneme,name,county,latitude,longitude
 08692,Turtle Lake,Barron County,45.331,-92.104
 09255,Whitestown,Vernon County,43.689,-90.628
 05248,Marion,Grant County,43.075,-90.724
-04920,Livingston,Grant County / Iowa County,42.900,-90.434
+04920,Livingston,Grant County,42.900,-90.434
 09340,Winchester,Winnebago County,44.199,-88.665
 01652,Christie,Clark County,44.644,-90.612
 03370,Globe,Clark County,44.644,-90.612
@@ -994,7 +994,7 @@ phoneme,name,county,latitude,longitude
 00515,Bass Lake,Washburn County,45.940,-91.597
 03671,Hancock,Waushara County,44.097,-89.538
 04682,Laona,Forest County,45.565,-88.674
-05951,New Auburn,Barron County / Chippewa County,45.199,-91.566
+05951,New Auburn,Barron County,45.199,-91.566
 08181,Stella,Oneida County,45.694,-89.241
 06952,Prentice,Price County,45.546,-90.287
 08187,Sterling,Vernon County,43.482,-91.040
@@ -1024,7 +1024,7 @@ phoneme,name,county,latitude,longitude
 01310,Cameron,Wood County,44.616,-90.167
 05772,Moundville,Marquette County,43.679,-89.456
 03724,Harrison,Grant County,42.726,-90.603
-06331,Ontario,Monroe County / Vernon County,43.722,-90.593
+06331,Ontario,Monroe County,43.722,-90.593
 03561,Gresham,Shawano County,44.853,-88.788
 02863,Fairbanks,Shawano County,44.718,-89.045
 01732,Cleveland,Jackson County,44.549,-90.965
@@ -1139,7 +1139,7 @@ phoneme,name,county,latitude,longitude
 01376,Cary,Wood County,44.460,-90.250
 00668,Belvidere,Buffalo County,44.272,-91.831
 00747,Big Bend,Rusk County,45.341,-91.341
-02514,Dyckesville,Brown County / Kewaunee County,44.640,-87.765
+02514,Dyckesville,Brown County,44.640,-87.765
 04621,Lake Sherwood,Adams County,44.206,-89.788
 06131,North Bend,Jackson County,44.091,-91.117
 01425,Casey,Washburn County,45.950,-91.962
@@ -1155,7 +1155,7 @@ phoneme,name,county,latitude,longitude
 04569,La Valle,Sauk County,43.582,-90.128
 06245,Oasis,Waushara County,44.201,-89.424
 09350,Wingville,Grant County,42.987,-90.486
-08755,Unity,Clark County / Marathon County,44.851,-90.313
+08755,Unity,Clark County,44.851,-90.313
 09340,Winchester,Vilas County,46.222,-89.898
 01738,Clifton,Grant County,42.899,-90.488
 07475,Russell,Sheboygan County,43.859,-88.103
@@ -1176,7 +1176,7 @@ phoneme,name,county,latitude,longitude
 09467,Wyoming,Iowa County,43.126,-90.112
 04395,Kennan,Price County,45.488,-90.616
 09014,Washington,Rusk County,45.335,-91.237
-01470,Cazenovia,Richland County / Sauk County,43.525,-90.204
+01470,Cazenovia,Richland County,43.525,-90.204
 02638,Egg Harbor,Door County,45.046,-87.297
 06985,Pulaski,Iowa County,43.158,-90.355
 00616,Bell,Bayfield County,46.775,-91.119
@@ -1233,7 +1233,7 @@ phoneme,name,county,latitude,longitude
 03916,Hiles,Forest County,45.704,-88.977
 05122,Maxville,Buffalo County,44.532,-92.009
 08394,Taft,Taylor County,45.097,-90.874
-02231,De Soto,Crawford County / Vernon County,43.432,-91.201
+02231,De Soto,Crawford County,43.432,-91.201
 03975,Hollandale,Iowa County,42.876,-89.936
 05044,Lowell,Dodge County,43.340,-88.817
 04507,Knapp,Jackson County,44.258,-90.505
@@ -1252,7 +1252,7 @@ phoneme,name,county,latitude,longitude
 05666,Montana,Buffalo County,44.341,-91.665
 02150,Cutler,Juneau County,44.026,-90.237
 05788,Mount Hope,Grant County,42.982,-90.844
-04573,Lac La Belle,Jefferson County / Waukesha County,43.146,-88.517
+04573,Lac La Belle,Jefferson County,43.146,-88.517
 07951,Sobieski,Oconto County,44.721,-88.072
 02109,Crystal,Washburn County,45.864,-91.732
 02432,Doylestown,Columbia County,43.428,-89.150
@@ -1260,7 +1260,7 @@ phoneme,name,county,latitude,longitude
 05856,Murry,Rusk County,45.601,-91.201
 02777,Enterprise,Oneida County,45.497,-89.258
 02285,Delta,Bayfield County,46.473,-91.270
-05547,Milladore,Portage County / Wood County,44.606,-89.855
+05547,Milladore,Portage County,44.606,-89.855
 04207,Isabelle,Pierce County,44.572,-92.412
 03049,Ford,Taylor County,45.167,-90.743
 03413,Gordon,Ashland County,46.178,-90.754
@@ -1364,7 +1364,7 @@ phoneme,name,county,latitude,longitude
 03344,Glen Flora,Rusk County,45.496,-90.894
 09408,Woodford,Lafayette County,42.649,-89.863
 02479,Dunbar,Marinette County,45.651,-88.172
-08218,Stone Lake,Sawyer County / Washburn County,45.839,-91.552
+08218,Stone Lake,Sawyer County,45.839,-91.552
 00272,Argonne,Forest County,45.660,-88.879
 02448,Drummond,Bayfield County,46.337,-91.258
 06521,Parrish,Langlade County,45.420,-89.403

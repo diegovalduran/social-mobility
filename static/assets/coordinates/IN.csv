@@ -78,15 +78,15 @@ phoneme,name,county,latitude,longitude
 02239,Decatur,Adams County,40.831,-84.929
 05706,Mooresville,Morgan County,39.613,-86.374
 00213,Angola,Steuben County,41.635,-84.999
-02735,Elwood,Madison County / Tipton County,40.274,-85.837
+02735,Elwood,Madison County,40.274,-85.837
 06965,Princeton,Gibson County,38.355,-87.568
 01023,Brazil,Clay County,39.524,-87.125
 01568,Charlestown,Clark County,38.453,-85.670
 09347,Winfield,Lake County,41.405,-87.275
 07695,Scottsburg,Scott County,38.686,-85.770
-00522,Batesville,Franklin County / Ripley County,39.298,-85.213
+00522,Batesville,Franklin County,39.298,-85.213
 02489,Dunlap,Elkhart County,41.638,-85.922
-05889,Nappanee,Elkhart County / Kosciusko County,41.446,-85.997
+05889,Nappanee,Elkhart County,41.446,-85.997
 00945,Boonville,Warrick County,38.049,-87.274
 03246,Garrett,DeKalb County,41.349,-85.136
 05809,Mount Vernon,Posey County,37.932,-87.895
@@ -94,7 +94,7 @@ phoneme,name,county,latitude,longitude
 07309,Rochester,Fulton County,41.065,-86.216
 06892,Portland,Jay County,40.434,-84.978
 07472,Rushville,Rush County,39.609,-85.446
-02125,Cumberland,Hancock County / Marion County,39.787,-85.945
+02125,Cumberland,Hancock County,39.787,-85.945
 07176,Rensselaer,Jasper County,40.937,-87.151
 03737,Hartford City,Blackford County,40.451,-85.370
 01068,Bright,Dearborn County,39.218,-84.856
@@ -117,7 +117,7 @@ phoneme,name,county,latitude,longitude
 03534,Greendale,Dearborn County,39.113,-84.864
 04844,Ligonier,Noble County,41.466,-85.587
 09262,Whiting,Lake County,41.680,-87.494
-02619,Edinburgh,Bartholomew County / Johnson County / Shelby County,39.351,-85.962
+02619,Edinburgh,Bartholomew County,39.351,-85.962
 08288,Sullivan,Sullivan County,39.095,-87.406
 00706,Berne,Adams County,40.658,-84.952
 00373,Austin,Scott County,38.758,-85.808
@@ -138,7 +138,7 @@ phoneme,name,county,latitude,longitude
 01958,Corydon,Harrison County,38.212,-86.122
 00354,Attica,Fountain County,40.294,-87.249
 07809,Sheridan,Hamilton County,40.135,-86.221
-08385,Syracuse,Elkhart County / Kosciusko County,41.423,-85.750
+08385,Syracuse,Elkhart County,41.423,-85.750
 00744,Bicknell,Knox County,38.774,-87.308
 01134,Brownstown,Jackson County,38.879,-86.042
 02283,Delphi,Carroll County,40.588,-86.675
@@ -156,13 +156,13 @@ phoneme,name,county,latitude,longitude
 07623,Santa Claus,Spencer County,38.120,-86.914
 01109,Brooklyn,Morgan County,39.539,-86.369
 04159,Ingalls,Madison County,39.957,-85.805
-01610,Chesterfield,Delaware County / Madison County,40.113,-85.594
+01610,Chesterfield,Delaware County,40.113,-85.594
 07340,Rockville,Parke County,39.763,-87.229
 00383,Avilla,Noble County,41.366,-85.239
 08035,Spencer,Owen County,39.287,-86.763
 03544,Greentown,Howard County,40.478,-85.967
 03117,Fowler,Benton County,40.617,-87.321
-00082,Albany,Delaware County / Randolph County,40.306,-85.232
+00082,Albany,Delaware County,40.306,-85.232
 06642,Petersburg,Pike County,38.492,-87.279
 05519,Middletown,Henry County,40.057,-85.537
 00862,Bloomfield,Greene County,39.027,-86.938
@@ -170,7 +170,7 @@ phoneme,name,county,latitude,longitude
 00089,Albion,Noble County,41.396,-85.424
 02952,Ferdinand,Dubois County,38.224,-86.862
 08859,Versailles,Ripley County,39.072,-85.252
-02488,Dunkirk,Blackford County / Jay County,40.374,-85.208
+02488,Dunkirk,Blackford County,40.374,-85.208
 04019,Hope,Bartholomew County,39.304,-85.771
 09026,Waterloo,DeKalb County,41.432,-85.020
 03025,Flora,Carroll County,40.547,-86.524
@@ -206,7 +206,7 @@ phoneme,name,county,latitude,longitude
 02590,Eaton,Delaware County,40.340,-85.351
 06387,Osgood,Ripley County,39.129,-85.292
 09405,Woodburn,Allen County,41.125,-84.853
-03659,Hamilton,DeKalb County / Steuben County,41.540,-84.920
+03659,Hamilton,DeKalb County,41.540,-84.920
 05686,Montpelier,Blackford County,40.554,-85.277
 02169,Dale,Spencer County,38.169,-86.990
 01343,Cannelton,Perry County,37.911,-86.744
@@ -238,9 +238,9 @@ phoneme,name,county,latitude,longitude
 09003,Warren,Huntington County,40.683,-85.427
 05746,Morristown,Shelby County,39.673,-85.699
 06437,Oxford,Benton County,40.520,-87.248
-01901,Converse,Grant County / Miami County,40.579,-85.875
+01901,Converse,Grant County,40.579,-85.875
 02124,Culver,Marshall County,41.219,-86.423
-06410,Otterbein,Benton County / Tippecanoe County,40.488,-87.088
+06410,Otterbein,Benton County,40.488,-87.088
 00073,Akron,Fulton County,41.038,-86.028
 07790,Shelburn,Sullivan County,39.178,-87.394
 04582,Ladoga,Montgomery County,39.914,-86.801
@@ -248,16 +248,16 @@ phoneme,name,county,latitude,longitude
 05740,Morocco,Newton County,40.946,-87.453
 02918,Farmersburg,Sullivan County,39.249,-87.382
 00210,Andrews,Huntington County,40.863,-85.602
-00328,Ashley,DeKalb County / Steuben County,41.521,-85.061
+00328,Ashley,DeKalb County,41.521,-85.061
 05730,Morgantown,Morgan County,39.371,-86.261
 08301,Summitville,Madison County,40.339,-85.644
 01188,Buffalo,White County,40.883,-86.745
 03400,Goodland,Newton County,40.763,-87.294
 06896,Poseyville,Posey County,38.170,-87.783
-08124,St. Paul,Decatur County / Shelby County,39.428,-85.629
+08124,St. Paul,Decatur County,39.428,-85.629
 05559,Millersburg,Elkhart County,41.528,-85.694
 04053,Howe,LaGrange County,41.721,-85.421
-04247,Jamestown,Boone County / Hendricks County,39.929,-86.626
+04247,Jamestown,Boone County,39.929,-86.626
 08984,Walton,Cass County,40.661,-86.242
 04881,Lynn,Randolph County,40.050,-84.940
 09385,Wolcott,White County,40.758,-87.042
@@ -284,14 +284,14 @@ phoneme,name,county,latitude,longitude
 03420,Gosport,Owen County,39.351,-86.667
 04884,Lynnville,Warrick County,38.196,-87.297
 05239,Marengo,Crawford County,38.369,-86.344
-07824,Shirley,Hancock County / Henry County,39.891,-85.580
+07824,Shirley,Hancock County,39.891,-85.580
 01208,Bunker Hill,Miami County,40.660,-86.103
 08950,Waldron,Shelby County,39.454,-85.667
 00954,Boswell,Benton County,40.521,-87.378
 00948,Borden,Clark County,38.467,-85.946
 03257,Gaston,Delaware County,40.314,-85.501
 05679,Montgomery,Daviess County,38.663,-87.046
-05575,Milltown,Crawford County / Harrison County,38.342,-86.275
+05575,Milltown,Crawford County,38.342,-86.275
 05446,Memphis,Clark County,38.483,-85.762
 08808,Van Buren,Grant County,40.617,-85.505
 03661,Hamlet,Starke County,41.548,-86.582
@@ -328,7 +328,7 @@ phoneme,name,county,latitude,longitude
 01690,Clarks Hill,Tippecanoe County,40.247,-86.725
 01309,Camden,Carroll County,40.609,-86.540
 04074,Hudson,Steuben County,41.533,-85.081
-09513,Zanesville,Allen County / Wells County,40.915,-85.280
+09513,Zanesville,Allen County,40.915,-85.280
 04549,La Crosse,LaPorte County,41.318,-86.891
 06009,New Market,Montgomery County,39.953,-86.921
 01778,Coatesville,Hendricks County,39.688,-86.670
@@ -426,7 +426,7 @@ phoneme,name,county,latitude,longitude
 01157,Bryant,Jay County,40.533,-84.964
 01249,Butlerville,Jennings County,39.035,-85.513
 01964,Corunna,DeKalb County,41.437,-85.147
-03367,Glenwood,Fayette County / Rush County,39.626,-85.302
+03367,Glenwood,Fayette County,39.626,-85.302
 08856,Vernon,Jennings County,38.985,-85.609
 07163,Riley,Vigo County,39.390,-87.300
 00181,Ambia,Benton County,40.490,-87.517
@@ -574,7 +574,7 @@ phoneme,name,county,latitude,longitude
 00346,Atkinson,Benton County,40.563,-87.247
 00357,Atwood,Kosciusko County,41.261,-85.975
 00367,Augusta,Pike County,38.331,-87.191
-00369,Ora,Pulaski County / Starke County,41.177,-86.555
+00369,Ora,Pulaski County,41.177,-86.555
 00369,Ora,Starke County,41.174,-86.553
 00382,Avery,Clinton County,40.309,-86.441
 00394,Aylesworth,Fountain County,40.203,-87.243
@@ -707,7 +707,7 @@ phoneme,name,county,latitude,longitude
 01396,Carpentersville,Putnam County,39.806,-86.806
 01401,Carrollton,Carroll County,40.518,-86.392
 01401,Carrollton,Hancock County,39.706,-85.821
-01401,Carrollton,Hancock County / Shelby County,39.706,-85.820
+01401,Carrollton,Hancock County,39.706,-85.820
 01432,Kasson,Vanderburgh County,38.017,-87.636
 01434,Cass,Sullivan County,39.087,-87.278
 01439,Cassville,Howard County,40.560,-86.123
@@ -917,7 +917,7 @@ phoneme,name,county,latitude,longitude
 02961,Fiat,Jay County,40.553,-85.150
 02973,Fincastle,Putnam County,39.808,-86.895
 02979,Finly,Hancock County,39.706,-85.819
-02988,Fishersburg,Hamilton County / Madison County,40.072,-85.861
+02988,Fishersburg,Hamilton County,40.072,-85.861
 02988,Fishersburg,Madison County,40.072,-85.859
 02989,Fisherville,Warrick County,38.085,-87.441
 03000,Five Points,Allen County,41.123,-84.940
@@ -1147,7 +1147,7 @@ phoneme,name,county,latitude,longitude
 04543,Kyle,Dearborn County,39.138,-84.988
 04574,Lacy,Martin County,38.634,-86.776
 04597,Lake Bruce,Fulton County,41.070,-86.464
-04597,Lake Bruce,Fulton County / Pulaski County,41.073,-86.465
+04597,Lake Bruce,Fulton County,41.073,-86.465
 04617,Lake of the Woods,Marshall County,41.422,-86.223
 04618,Lake Park,LaPorte County,41.711,-86.550
 04626,Lake View,Franklin County,39.486,-85.248
@@ -1174,7 +1174,7 @@ phoneme,name,county,latitude,longitude
 04804,Leroy,Lake County,41.360,-87.272
 04810,Letts,Decatur County,39.235,-85.565
 04820,Lewis,Sullivan County,39.260,-87.257
-04820,Lewis,Sullivan County / Vigo County,39.260,-87.255
+04820,Lewis,Sullivan County,39.260,-87.255
 04822,Lewisburg,Cass County,40.747,-86.218
 04823,Lewiston,Jasper County,41.027,-87.046
 04825,Lewisville,Morgan County,39.471,-86.632
@@ -1683,7 +1683,7 @@ phoneme,name,county,latitude,longitude
 08073,Springville,Lawrence County,38.936,-86.619
 08088,St. Anthony,Dubois County,38.315,-86.827
 08096,St. Croix,Perry County,38.224,-86.586
-08131,St. Wendel,Posey County / Vanderburgh County,38.105,-87.700
+08131,St. Wendel,Posey County,38.105,-87.700
 08141,Standard,Sullivan County,39.196,-87.389
 08145,Stanford,Monroe County,39.090,-86.667
 08147,Stanley,Warrick County,38.164,-87.355
@@ -1789,7 +1789,7 @@ phoneme,name,county,latitude,longitude
 08925,Wadesville,Posey County,38.102,-87.786
 08941,Wakefield,Jefferson County,38.787,-85.560
 08959,Walkerville,Shelby County,39.528,-85.763
-08961,Wall Lake,LaGrange County / Steuben County,41.731,-85.201
+08961,Wall Lake,LaGrange County,41.731,-85.201
 08971,Walnut,Marshall County,41.176,-86.212
 08975,Walnut Grove,Hamilton County,40.162,-85.940
 08977,Walnut Ridge,Jennings County,38.925,-85.556
@@ -1851,7 +1851,7 @@ phoneme,name,county,latitude,longitude
 09332,Wilmot,Noble County,41.310,-85.642
 09334,Wilson,Clark County,38.444,-85.830
 09342,Windom,Martin County,38.574,-86.798
-09343,Windsor,Delaware County / Randolph County,40.156,-85.215
+09343,Windsor,Delaware County,40.156,-85.215
 09343,Windsor,Randolph County,40.154,-85.213
 09360,Winona,Starke County,41.236,-86.569
 09370,Winthrop,Warren County,40.370,-87.234
