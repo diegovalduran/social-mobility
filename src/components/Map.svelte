@@ -346,7 +346,7 @@
 		{ prop: "label", label: "Place" },
 		{
 			prop: "count",
-			label: "Counties",
+			label: "# of Counties",
 			formatFn: format(","),
 			type: "number",
 			dir: "desc"
@@ -378,43 +378,12 @@
 	$: topColorPrimary = topPlace.fills.primary;
 	$: topColorTextPrimary = topPlace.fills.textPrimary;
 	$: topColorTextSecondary = topPlace.fills.textSecondary;
-	$: plural = `${placeName}${placeName.endsWith("s") ? "" : "s"}`;
 	$: figcaption = `A choropleth map of US counties that shows which place named ${placeName} that county is most likely to refer to based on a combination of proximity, population, and Wikipedia article length. The most commonly referred to place is ${topLabel}.`;
 </script>
 
 <div class="info">
-	<!-- <h2>
-		What <strong>{placeName}</strong> means, depending on where you are in the US.
-	</h2>
-
 	<h2>
-		In the US, <strong style:color={topColorPrimary}>{topLabel}</strong> is
-		most often what someone means by <strong>{placeName}.</strong>
-	</h2>
-	<h2>
-		In most counties, <strong>{placeName}</strong> means
-		<strong style:color={topColorPrimary}>{topLabel}.</strong>
-		<mark style:background={topColorPrimary} style:color={topColorTextPrimary}
-			>primary.</mark
-		>
-		<mark style:background={topColorSecondary} style:color={topColorTextSecondary}
-			>secondary?</mark
-		>
-	</h2>
-
-	<h2>
-		If someone refers to <strong>{placeName}</strong>, they
-		<mark style="--bg: {topColorPrimary}; --fg:{topColorTextPrimary};"
-			>primary</mark
-		>
-		<mark style="--bg: {topColorSecondary}; --fg:{topColorTextSecondary};">(secondary)</mark
-		>
-		mean
-		<strong style:color={topColorPrimary}>{topLabel}.</strong>
-	</h2> -->
-
-	<h2>
-		In most parts of the US, <strong>{placeName}</strong> usually refers to
+		In most US counties, <strong>{placeName}</strong> usually refers to
 		<strong style:color={topColorPrimary}>{topLabel}.</strong>
 	</h2>
 </div>
@@ -471,14 +440,14 @@
 <p class="table-intro">{@html copy.tableIntro}</p>
 
 <PlaceTable
-	caption="Details for every place named {placeName}"
+	caption="Every place named {placeName}, ranked"
 	rows={placeRows}
 	columns={placeColumns}
 	note={copy.placeNote}
 />
 
 <CountyTable
-	caption="The top scoring {plural} for each county"
+	caption="Each county’s most likely {placeName} reference"
 	rows={countyRows}
 	columns={countyColumns}
 />

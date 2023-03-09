@@ -13,10 +13,11 @@
 	import Map from "$components/Map.svelte";
 	import Select from "$components/Select.svelte";
 	import Share from "$components/Share.svelte";
+	import Icon from "$components/helpers/Icon.svelte";
 	import options from "$data/options.csv";
 
 	const removeStorage = true;
-	const testLocate = false;
+	const testLocate = true;
 
 	const copy = getContext("copy");
 	const data = getContext("data");
@@ -69,6 +70,7 @@
 	});
 
 	$: shareUrl = `${$page.url}?place=${encodeURIComponent(currentName)}`;
+	$: summarySuffix = location?.state ? "places near you" : "curated places.";
 
 	$: if (browser && currentPhoneme)
 		(async () =>
@@ -79,49 +81,57 @@
 
 <article>
 	<section id="intro">
-		<h1>{copy.title}</h1>
-		<p>{copy.intro}</p>
+		<div class="hero">
+			<p class="overline"><strong>{copy.title}</strong></p>
+			<h1 class="hed">{copy.hed}</h1>
+			<!-- <p class="dek">{copy.dek}</p> -->
+		</div>
 
-		<div class="discover">
-			<details {open}>
-				<summary>{copy.discoverySummary}</summary>
+		<div class="ui" class:visible={!!placeData}>
+			<div class="select">
+				<Select {options} on:change={({ detail }) => onChangePlace(detail)} />
+			</div>
 
-				<div class="inner">
-					<div class="classic">
-						<p>{copy.classic}</p>
-						<ul>
-							{#each classics as d}
-								{@const { name } = d}
-								<li>
-									<button on:click={() => onChangePlace(d)}>{name}</button>
-								</li>
-							{/each}
-						</ul>
-					</div>
+			<div class="discover">
+				<details {open}>
+					<summary
+						>{copy.discoverySummary}
+						{summarySuffix}{#if location?.state}<Icon
+								name="map-pin"
+							/>{/if}</summary
+					>
 
-					{#if nearestOptions && nearestOptions.length}
-						<div class="locate">
-							<p>{copy.locate}</p>
+					<div class="inner">
+						{#if nearestOptions && nearestOptions.length}
+							<div class="locate">
+								<p>{copy.locate}</p>
+								<ul>
+									{#each nearestOptions as d}
+										{@const { name, state } = d}
+										<li>
+											<button on:click={() => onChangePlace(d)}
+												>{name}, {state}</button
+											>
+										</li>
+									{/each}
+								</ul>
+							</div>
+						{/if}
+
+						<div class="classic">
+							<p>{copy.classic}</p>
 							<ul>
-								{#each nearestOptions as d}
-									{@const { name, state } = d}
+								{#each classics as d}
+									{@const { name } = d}
 									<li>
-										<button on:click={() => onChangePlace(d)}
-											>{name}, {state}</button
-										>
+										<button on:click={() => onChangePlace(d)}>{name}</button>
 									</li>
 								{/each}
 							</ul>
 						</div>
-					{/if}
-				</div>
-			</details>
-
-			{#if (location && !location.state) || placeData}
-				<div class="select">
-					<Select {options} on:change={({ detail }) => onChangePlace(detail)} />
-				</div>
-			{/if}
+					</div>
+				</details>
+			</div>
 		</div>
 	</section>
 
@@ -154,12 +164,23 @@
 	}
 
 	#intro {
-		max-width: 40em;
+		max-width: 42em;
 		margin: 0 auto;
 	}
 
-	h1 {
+	.hero p {
+	}
+
+	.overline {
+	}
+
+	.dek {
+		/* display: none; */
+	}
+
+	.hed {
 		line-height: 1.2;
+		/* font-size: var(--40px); */
 	}
 
 	.inner {
@@ -195,8 +216,17 @@
 		width: 100%;
 	}
 
+	.ui {
+		margin: 32px 0;
+		visibility: hidden;
+	}
+
+	.ui.visible {
+		visibility: visible;
+	}
+
 	.select {
-		margin-top: 16px;
+		margin: 16px 0;
 	}
 
 	#interactive {
@@ -211,5 +241,11 @@
 
 	.loading {
 		text-align: center;
+	}
+
+	:global(summary svg) {
+		margin-left: 4px;
+		display: inline-block;
+		vertical-align: baseline;
 	}
 </style>

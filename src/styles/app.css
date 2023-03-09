@@ -49,27 +49,32 @@
 
 h1 {
 	font-size: var(--48px, 48px);
-	font-weight: 800;
+	font-weight: 400;
 }
 
 h2 {
 	font-size: var(--36px, 36px);
+	font-weight: 400;
 }
 
 h3 {
 	font-size: var(--28px, 28px);
+	font-weight: 400;
 }
 
 h4 {
 	font-size: var(--24px, 24px);
+	font-weight: 400;
 }
 
 h5 {
 	font-size: var(--22px, 22px);
+	font-weight: 400;
 }
 
 h6 {
 	font-size: var(--20px, 20px);
+	font-weight: 400;
 }
 
 strong {

@@ -11,7 +11,7 @@
 	};
 
 	function notify() {
-		toast.push("Copied to clipboard!");
+		toast.push("Link copied!");
 	}
 </script>
 
@@ -19,7 +19,7 @@
 
 <div class="share">
 	<button use:copy={url} on:svelte-copy={notify}>
-		Share this map <Icon name="forward" strokeWidth="3px" /></button
+		Share map <Icon name="forward" strokeWidth="3px" /></button
 	>
 </div>
 

@@ -14,12 +14,14 @@
 </script>
 
 <Typeahead
+	hideLabel
 	label="Look up a city or town in the US"
 	data={options}
 	{extract}
 	on:select={onSelect}
 	inputAfterSelect="clear"
 	limit={10}
+	placeholder="Look up a city or town in the US..."
 />
 
 <style>
@@ -46,6 +48,8 @@
 	}
 
 	:global([data-svelte-typeahead] [data-svelte-search] input) {
+		padding: 8px;
+		line-height: 1.4;
 		outline-color: var(--color-fg);
 	}
 
@@ -53,9 +57,7 @@
 		outline-color: var(--color-focus);
 	}
 
-	:global([data-svelte-typeahead] [data-svelte-search] label) {
-		font-weight: bold;
-		text-transform: uppercase;
-		font-size: var(--14px);
+	:global([data-svelte-typeahead] [data-svelte-search] input::placeholder) {
+		opacity: 0.75;
 	}
 </style>
