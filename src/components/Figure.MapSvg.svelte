@@ -4,7 +4,6 @@
 	import { geoPath, geoAlbersUsa, zoom, select, pointer } from "d3";
 
 	export let projection = geoAlbersUsa();
-	export let pointerEvents = true;
 
 	let svgEl;
 	let transform = "translate(0, 0) scale(1)";
@@ -35,12 +34,7 @@
 
 {#if $custom.pathFn && $width}
 	<!-- svelte-ignore a11y-click-events-have-key-events -->
-	<svg
-		width={$width}
-		height={$height}
-		on:click={onZoom}
-		style:pointer-events={pointerEvents ? "auto" : "none"}
-	>
+	<svg width={$width} height={$height} on:mousemove>
 		<g {transform}>
 			<slot />
 		</g>

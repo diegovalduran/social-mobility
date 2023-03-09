@@ -18,6 +18,8 @@
 	import MapPath from "$components/Figure.MapPath.svelte";
 	import MapPoints from "$components/Figure.MapPoints.svelte";
 	import MapLabels from "$components/Figure.MapLabels.svelte";
+	import Tooltip from "$components/Figure.Tooltip.svelte";
+	import TooltipContent from "$components/TooltipContent.svelte";
 	import MapKey from "$components/Map.Key.svelte";
 	import CountyTable from "$components/CountyTable.svelte";
 	import PlaceTable from "$components/PlaceTable.svelte";
@@ -82,6 +84,7 @@
 	let scalePop;
 	let scaleWiki;
 	let scaleDist;
+	let tooltipDatum = { text: null, x: 0, y: 0 };
 
 	function getLabel(d) {
 		const isCity = d.level === "city-us";
@@ -94,6 +97,30 @@
 			: ` (${d.level})`;
 
 		return `${d.name}${post}`;
+	}
+
+	function onMouseLeave() {
+		tooltipDatum.text = null;
+	}
+
+	function onMouseMove(e) {
+		tooltipDatum.x = e.offsetX;
+		tooltipDatum.y = e.offsetY;
+	}
+
+	function onMouseEnter({ detail }) {
+		const { event, datum } = detail;
+
+		const { data, name, state } = datum;
+		const text = `${name} ${state === "LA" ? "Parish" : "County"}, ${state}`;
+
+		const rows = data.slice(0, 2).map((d) => ({
+			label: d.label,
+			value: +format(".0f")((d[valueProp] / maxValue) * 100)
+		}));
+
+		tooltipDatum.text = text;
+		tooltipDatum.rows = rows;
 	}
 
 	$: {
@@ -393,11 +420,14 @@
 <div class="figure">
 	<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
 		<!-- <MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} /> -->
-		<MapSvg>
+		<MapSvg on:mousemove={onMouseMove}>
 			<MapPath
 				features={countyFeaturesRender}
 				stroke={countyStroke}
 				strokeWidth="0.5"
+				pointerEvents={true}
+				on:mouseleave={onMouseLeave}
+				on:mouseenter={onMouseEnter}
 			/>
 			<MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="0.5" />
 			{#key placeName}
@@ -427,6 +457,9 @@
 			{/key}
 			<!-- <figcaption slot="figcaption"></figcaption> -->
 		</MapSvg>
+		<Tooltip x={tooltipDatum.x} y={tooltipDatum.y}>
+			<TooltipContent {...tooltipDatum} />
+		</Tooltip>
 		<!-- svelte-ignore a11y-structure -->
 		<figcaption class="sr-only">{figcaption}</figcaption>
 	</Figure>
@@ -439,7 +472,10 @@
 	colorTossText={COLOR_TOSS.textPrimary}
 />
 
-<p class="table-intro">{@html copy.tableIntro}</p>
+<p class="table-intro">
+	{@html copy.tableIntro}
+	<span class="table-intro-note">*{@html copy.tableIntroNote}</span>
+</p>
 
 <PlaceTable
 	caption="Every place named {placeName}, ranked"
@@ -471,5 +507,10 @@
 	p.table-intro {
 		margin: 32px auto;
 		max-width: var(--col-width);
+	}
+
+	p.table-intro span {
+		display: block;
+		font-size: var(--14px);
 	}
 </style>
