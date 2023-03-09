@@ -1,6 +1,8 @@
 <script>
+	import Icon from "$components/helpers/Icon.svelte";
 	import { modal } from "$stores/misc.js";
 	import wordmark from "$svg/wordmark.svg";
+	import copy from "$data/copy-main.json";
 </script>
 
 <header>
@@ -16,18 +18,10 @@
 	<div class="modal" class:visible={$modal} on:click={() => ($modal = false)}>
 		<div class="bg" />
 		<div class="content">
-			<p>
-				Created by <a
-					href="https://pudding.cool/author/russell-samora"
-					target="_blank"
-					rel="noreferrer">Russell Samora</a
-				>. With editing by
-				<a
-					href="https://pudding.cool/author/michelle-mcghee"
-					target="_blank"
-					rel="noreferrer">Michelle McGhee</a
-				>.
-			</p>
+			<button><Icon name="x" strokeWidth="3px" /></button>
+			{#each copy.info as { value }}
+				<p>{@html value}</p>
+			{/each}
 		</div>
 	</div>
 </header>
@@ -92,11 +86,18 @@
 		position: absolute;
 		padding: 16px;
 		width: 90%;
-		max-width: 20em;
+		max-width: 30em;
 		left: 50%;
 		top: 50%;
 		background: var(--color-bg);
 		transform: translate(-50%, -50%);
+	}
+
+	.content button {
+		position: absolute;
+		top: 0;
+		right: 0;
+		transform: translate(50%, -50%);
 	}
 
 	.modal.visible {

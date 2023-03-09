@@ -57,10 +57,7 @@
 				storage.set("pudding_samename", location);
 			if (location?.state) {
 				nearestOptions = await getNearestOptions(location);
-				countiesByDist = await getCountiesByDist(
-					location,
-					nearestOptions[0].county
-				);
+				countiesByDist = await getCountiesByDist(location);
 			}
 			location.lat = +location?.lat;
 			location.lon = +location?.lon;
@@ -98,6 +95,7 @@
 						>{copy.discoverySummary}
 						{summarySuffix}{#if location?.state}<Icon
 								name="map-pin"
+								strokeWidth="3px"
 							/>{/if}</summary
 					>
 
@@ -152,6 +150,8 @@
 	</section>
 </article>
 
+<Footer />
+
 <style>
 	article {
 		padding: 0 16px;
@@ -168,19 +168,13 @@
 		margin: 0 auto;
 	}
 
-	.hero p {
-	}
-
 	.overline {
-	}
-
-	.dek {
-		/* display: none; */
+		margin: 0;
 	}
 
 	.hed {
+		margin-top: 8px;
 		line-height: 1.2;
-		/* font-size: var(--40px); */
 	}
 
 	.inner {

@@ -119,7 +119,8 @@
 	}
 
 	.top li:last-of-type {
-		width: calc(11.11% - 16px);
+		width: calc(11.11% - 8px);
+		margin-right: 0;
 	}
 
 	span.fills {

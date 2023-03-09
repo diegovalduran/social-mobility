@@ -308,7 +308,7 @@
 		const match = countiesByDist.find((c) => c.id === d.id);
 		const index = match?.index;
 		const style =
-			match?.index === -1 ? "background: var(--cat-toss-primary);" : "";
+			match?.index === 0 ? "background: var(--cat-toss-primary);" : "";
 		return {
 			name: d.properties.name,
 			state: d.properties.state,

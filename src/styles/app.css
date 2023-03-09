@@ -25,7 +25,7 @@
 	--color-primary: var(--color-fg);
 	--color-link: var(--color-fg);
 	--color-focus: var(--cat-c0-primary);
-	--color-mark: var(--cat-toss-primary);
+	--color-mark: var(--cat-toss-primary); 
 	--color-selection: var(--cat-toss-primary);
 	--color-border: var(--color-fg);
 	--color-button-bg: var(--color-fg);
@@ -75,6 +75,10 @@ h5 {
 h6 {
 	font-size: var(--20px, 20px);
 	font-weight: 400;
+}
+
+p {
+	line-height: 1.6;
 }
 
 strong {
