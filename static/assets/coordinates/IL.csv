@@ -1,2398 +1,745 @@
 phoneme,name,county,latitude,longitude
-01619,Chicago,Cook County,41.837,-87.685
-00371,Aurora,DuPage County,41.763,-88.290
-07329,Rockford,Winnebago County,42.249,-89.075
-09203,Wheeling,Cook County,42.110,-87.945
-04308,Joliet,Kendall County,41.518,-88.149
-09102,Worth,Cook County,41.690,-87.744
-05890,Naperville,DuPage County,41.749,-88.162
-07329,Rockford,Ogle County,42.259,-89.063
-05154,Maine,Cook County,42.034,-87.864
-07666,Schaumburg,Cook County,42.029,-88.090
-09494,York,DuPage County,41.862,-87.976
-00371,Aurora,Kane County,41.769,-88.319
-05583,Milton,DuPage County,41.859,-88.090
-02671,Elgin,Cook County,42.039,-88.326
-05100,Lyons,Cook County,41.775,-87.860
-06619,Peoria,Peoria County,40.694,-89.589
-01363,Capital,Sangamon County,39.791,-89.645
-01032,Bremen,Cook County,41.602,-87.735
-02671,Elgin,Kane County,42.026,-88.318
-05890,Naperville,DuPage County,41.766,-88.201
-03680,Hanover,Cook County,42.028,-88.204
-06362,Orland,Cook County,41.599,-87.850
-02683,Elk Grove,Cook County,42.030,-87.977
-04827,Leyden,Cook County,41.938,-87.869
-06171,Northfield,Cook County,42.109,-87.835
-09198,Wheatland,Will County,41.682,-88.203
-00116,Algonquin,McHenry County,42.198,-88.276
-00036,Addison,DuPage County,41.948,-87.981
-04308,Joliet,Will County,41.508,-88.083
-00857,Bloom,Cook County,41.515,-87.599
-01664,Cicero,Cook County,41.846,-87.754
-06776,Plainfield,Will County,41.594,-88.200
-00869,Bloomington,McLean County,40.484,-88.994
-02833,Evanston,Cook County,42.041,-87.690
-07666,Schaumburg,Cook County,42.029,-88.084
-00286,Arlington Heights,Cook County,42.088,-87.981
-07209,Rich,Cook County,41.515,-87.733
-08856,Vernon,Lake County,42.198,-87.946
-02239,Decatur,Macon County,39.840,-88.955
-06462,Palatine,Cook County,42.110,-88.034
-09003,Warren,Lake County,42.373,-87.946
-02484,Dundee,Kane County,42.110,-88.301
-09050,Wayne,DuPage County,41.943,-88.205
-00386,Avon,Lake County,42.358,-88.057
-03132,Frankfort,Will County,41.514,-87.846
-04933,Lockport,Will County,41.599,-88.091
-06222,Oak Lawn,Cook County,41.711,-87.758
-03437,Grafton,McHenry County,42.197,-88.418
-06397,Oswego,Kendall County,41.676,-88.318
-06036,New Trier,Cook County,42.101,-87.745
-00724,Berwyn,Cook County,41.851,-87.794
-04835,Libertyville,Lake County,42.284,-87.945
-06117,Normal,McLean County,40.514,-88.991
-06224,Oak Park,Cook County,41.885,-87.784
-09199,Wheaton,DuPage County,41.866,-88.107
-08092,St. Charles,Kane County,41.942,-88.321
-08652,Troy,Will County,41.508,-88.197
-03366,Glenview,Cook County,42.070,-87.788
-09347,Winfield,DuPage County,41.853,-88.208
-05381,McHenry,McHenry County,42.372,-88.280
-06776,Plainfield,Kendall County,41.630,-88.245
-02719,Elmhurst,Cook County,41.897,-87.944
-02653,Ela,Lake County,42.196,-88.062
-04959,Lombard,DuPage County,41.880,-88.008
-02262,DeKalb,DeKalb County,41.935,-88.772
-01192,Buffalo Grove,Cook County,42.166,-87.962
-05639,Moline,Rock Island County,41.507,-90.515
-00648,Belleville,St. Clair County,38.520,-89.984
-04000,Homer,Will County,41.592,-87.964
-00498,Bartlett,Cook County,41.961,-88.178
-02114,Crystal Lake,McHenry County,42.241,-88.316
-07017,Quincy,Adams County,39.936,-91.410
-02633,Edwardsville,Madison County,38.790,-89.985
-06502,Park Ridge,Cook County,42.011,-87.841
-02131,Cunningham,Champaign County,40.110,-88.197
-09203,Wheeling,Cook County,42.130,-87.921
-06196,Nunda,McHenry County,42.285,-88.274
-01396,Carpentersville,Kane County,42.121,-88.258
-07818,Shields,Lake County,42.281,-87.857
-07316,Rock Island,Rock Island County,41.509,-90.579
-01830,Collinsville,Madison County,38.700,-89.982
-08093,St. Clair,St. Clair County,38.534,-89.980
-00519,Batavia,Kane County,41.832,-88.317
-06397,Oswego,Kendall County,41.683,-88.339
-06168,Northbrook,Cook County,42.128,-87.829
-05716,Moraine,Lake County,42.186,-87.806
-09399,Woodridge,Cook County,41.737,-88.044
-03159,Fremont,Lake County,42.279,-88.063
-08092,St. Charles,DuPage County,41.919,-88.311
-06205,O'Fallon,St. Clair County,38.592,-89.911
-06587,Pekin,Peoria County,40.569,-89.625
-06086,Niles,Cook County,42.019,-87.803
-03904,Highland Park,Lake County,42.182,-87.800
-09398,Wood River,Madison County,38.871,-90.080
-00116,Algonquin,Kane County,42.159,-88.322
-00668,Belvidere,Boone County,42.282,-88.891
-01209,Burbank,Cook County,41.734,-87.779
-02195,Danville,Vermilion County,40.124,-87.630
-04661,Lansing,Cook County,41.565,-87.539
-03475,Grant,Lake County,42.370,-88.161
-04097,Huntley,Kane County,42.161,-88.435
-00232,Antioch,Lake County,42.465,-88.114
-06587,Pekin,Tazewell County,40.593,-89.627
-07487,Rutland,Kane County,42.108,-88.412
-06212,Oak Forest,Cook County,41.603,-87.744
-03272,Geneva,Kane County,41.881,-88.323
-00519,Batavia,DuPage County,41.848,-88.311
-09431,Woodstock,McHenry County,42.315,-88.449
-00165,Alton,Madison County,38.891,-90.184
-01372,Carbondale,Jackson County,37.730,-89.210
-09526,Zion,Lake County,42.446,-87.833
-09014,Washington,Tazewell County,40.704,-89.418
-01830,Collinsville,Madison County,38.676,-90.006
-04351,Kankakee,Kankakee County,41.108,-87.859
-05444,Melrose Park,Cook County,41.901,-87.857
-09178,Westmont,DuPage County,41.796,-87.976
-02725,Elmwood Park,Cook County,41.921,-87.809
-04890,Lisle,DuPage County,41.801,-88.075
-03156,Freeport,Stephenson County,42.297,-89.621
-09039,Wauconda,Lake County,42.283,-88.167
-02057,Crete,Will County,41.420,-87.602
-05344,Maywood,Cook County,41.879,-87.843
-07399,Roselle,Cook County,41.980,-88.086
-09499,Yorkville,Kendall County,41.641,-88.447
-04657,Lemont,Cook County,41.669,-87.962
-00868,Bloomingdale,DuPage County,41.958,-88.081
-08880,Villa Park,DuPage County,41.890,-87.989
-02202,Darien,DuPage County,41.746,-87.981
-01372,Carbondale,Jackson County,37.722,-89.224
-02399,Dorr,McHenry County,42.286,-88.414
-03669,Hampton,Rock Island County,41.528,-90.388
-05679,Montgomery,Kane County,41.721,-88.358
-02385,Dolton,Cook County,41.639,-87.607
-03132,Frankfort,Cook County,41.507,-87.871
-07386,Roscoe,Winnebago County,42.449,-88.992
-01525,Centreville,St. Clair County,38.574,-90.149
-03752,Harvey,Cook County,41.610,-87.647
-01567,Charleston,Coles County,39.481,-88.187
-04604,Lake Forest,Lake County,42.259,-87.841
-01602,Cherry Valley,Winnebago County,42.198,-88.993
-02255,Deerfield,Cook County,42.166,-87.852
-01103,Brookfield,Cook County,41.824,-87.852
-04005,Homewood,Cook County,41.557,-87.666
-00692,Benton,Lake County,42.433,-87.860
-06406,Ottawa,LaSalle County,41.346,-88.843
-05315,Matteson,Cook County,41.504,-87.713
-07426,Round Lake,Lake County,42.353,-88.093
-08376,Sycamore,DeKalb County,41.989,-88.687
-00662,Bellwood,Cook County,41.881,-87.883
-03134,Franklin Park,Cook County,41.935,-87.866
-07830,Shorewood,Will County,41.520,-88.202
-01300,Calumet,Cook County,41.658,-87.657
-04858,Limestone,Peoria County,40.668,-89.702
-01376,Cary,McHenry County,42.212,-88.238
-04237,Jacksonville,Morgan County,39.734,-90.229
-05750,Morton,Tazewell County,40.615,-89.440
-03377,Godfrey,Madison County,38.956,-90.187
-04657,Lemont,Cook County,41.667,-87.984
-02337,Dixon,Lee County,41.868,-89.459
-00813,Blackberry,Kane County,41.852,-88.429
-03950,Hinsdale,Cook County,41.801,-87.928
-02117,Cuba,Lake County,42.196,-88.163
-08187,Sterling,Whiteside County,41.814,-89.688
-01324,Campton,Kane County,41.940,-88.428
-05316,Mattoon,Coles County,39.483,-88.373
-05248,Marion,Williamson County,37.731,-88.933
-09164,Westchester,Cook County,41.851,-87.882
-02884,Fairview Heights,St. Clair County,38.589,-89.990
-01992,Country Club Hills,Cook County,41.568,-87.720
-00493,Barrington,Cook County,42.112,-88.179
-04255,Jarvis,Madison County,38.703,-89.867
-04555,La Grange,Cook County,41.805,-87.869
-06974,Prospect Heights,Cook County,42.095,-87.938
-00358,Aux Sable,Grundy County,41.424,-88.306
-00993,Bradley,Kankakee County,41.142,-87.861
-09007,Warrenville,DuPage County,41.818,-88.173
-05809,Mount Vernon,Jefferson County,38.317,-88.903
-01353,Canton,Fulton County,40.581,-90.047
-07819,Shiloh,St. Clair County,38.561,-89.897
-04874,Lindenhurst,Lake County,42.411,-88.026
-08357,Swansea,St. Clair County,38.534,-89.989
-01524,Centralia,Marion County,38.513,-89.082
-03881,Hickory Hills,Cook County,41.726,-87.825
-03065,Forest Park,Cook County,41.879,-87.814
-05526,Midlothian,Cook County,41.625,-87.718
-05428,Medina,Peoria County,40.846,-89.585
-03340,Glen Carbon,Madison County,38.748,-89.983
-01555,Channahon,Grundy County,41.425,-88.267
-06053,Newell,Vermilion County,40.205,-87.594
-04861,Lincoln,Logan County,40.148,-89.365
-06174,Northlake,Cook County,41.917,-87.896
-02415,Douglas,Effingham County,39.167,-88.533
-06861,Pontiac,Livingston County,40.888,-88.644
-08252,Streator,LaSalle County,41.125,-88.830
-04343,Justice,Cook County,41.744,-87.838
-02635,Effingham,Effingham County,39.120,-88.543
-05178,Manhattan,Will County,41.425,-87.962
-06780,Plano,Kendall County,41.663,-88.537
-07073,Rantoul,Champaign County,40.308,-88.156
-01524,Centralia,Clinton County,38.522,-89.124
-08435,Taylorville,Christian County,39.569,-89.317
-01141,Bruce,LaSalle County,41.169,-88.846
-07277,River Forest,Cook County,41.898,-87.814
-09429,Woodside,Sangamon County,39.731,-89.667
-05237,Markham,Cook County,41.594,-87.695
-08652,Troy,Madison County,38.729,-89.883
-09026,Waterloo,Monroe County,38.336,-90.150
-01835,Columbia,Monroe County,38.458,-90.216
-03123,Fox Lake,Lake County,42.428,-88.184
-08299,Summit,Cook County,41.788,-87.810
-02055,Crestwood,Cook County,41.661,-87.753
-01555,Channahon,Will County,41.421,-88.190
-00493,Barrington,Cook County,42.152,-88.129
-01834,Coloma,Whiteside County,41.772,-89.691
-07284,Riverdale,Cook County,41.643,-87.636
-06638,Peru,LaSalle County,41.324,-89.135
-03899,Highland,Madison County,38.739,-89.671
-06316,Olney,Richland County,38.710,-88.088
-04278,Jersey,Jersey County,39.148,-90.305
-03723,Harrisburg,Saline County,37.731,-88.541
-06638,Peru,Bureau County,41.347,-89.133
-05655,Monmouth,Warren County,40.931,-90.609
-04431,Kewanee,Henry County,41.274,-89.919
-05150,Mahomet,Champaign County,40.195,-88.404
-03750,Harvard,McHenry County,42.422,-88.614
-04220,Itasca,DuPage County,41.975,-88.007
-00817,Blackhawk,Rock Island County,41.437,-90.595
-07308,Rochelle,Lee County,41.920,-89.062
-07306,Robinson,Crawford County,39.015,-87.750
-04164,Ingleside,Lake County,42.381,-88.139
-08281,Sugar Grove,Kane County,41.761,-88.444
-06784,Plato,Kane County,42.025,-88.433
-09325,Willowbrook,DuPage County,41.770,-87.936
-01589,Chemung,McHenry County,42.455,-88.648
-06965,Princeton,Bureau County,41.364,-89.451
-07287,Riverside,Cook County,41.835,-87.823
-06499,Paris,Edgar County,39.628,-87.710
-03667,Hampshire,Kane County,42.112,-88.530
-05198,Manteno,Kankakee County,41.251,-87.831
-07536,Salem,Marion County,38.609,-88.973
-05098,Lynwood,Cook County,41.526,-87.539
-04390,Kendall,Kendall County,41.588,-88.431
-09102,Worth,Woodford County,40.803,-89.441
-07652,Savoy,Champaign County,40.055,-88.252
-01666,Cincinnati,Tazewell County,40.518,-89.663
-07313,Rock Falls,Whiteside County,41.780,-89.689
-00692,Benton,Franklin County,37.997,-88.870
-03351,Glencoe,Cook County,42.135,-87.758
-03367,Glenwood,Cook County,41.543,-87.602
-02057,Crete,Cook County,41.441,-87.624
-01577,Chatham,Sangamon County,39.661,-89.754
-03827,Helvetia,Madison County,38.703,-89.652
-01714,Clear Lake,Sangamon County,39.828,-89.534
-04974,Long Grove,Lake County,42.178,-87.998
-03641,Hall,Bureau County,41.359,-89.224
-04279,Jerseyville,Jersey County,39.120,-90.328
-05294,Maryville,Madison County,38.724,-89.956
-01631,Chillicothe,Peoria County,40.929,-89.495
-03933,Hillside,Cook County,41.878,-87.903
-04213,Island Lake,Lake County,42.279,-88.200
-01088,Broadview,Cook County,41.864,-87.853
-04866,Lincolnshire,Lake County,42.190,-87.908
-06500,Park City,Lake County,42.348,-87.884
-07337,Rockton,Winnebago County,42.453,-89.072
-01609,Chester,Randolph County,37.914,-89.822
-02561,East Lincoln,Logan County,40.172,-89.302
-05239,Marengo,McHenry County,42.249,-88.608
-01646,Chouteau,Madison County,38.784,-90.095
-00438,Ball,Sangamon County,39.659,-89.643
-03271,Geneseo,Henry County,41.455,-90.145
-07604,Sandwich,DeKalb County,41.678,-88.623
-01520,Central,Bond County,38.869,-89.433
-04182,Inverness,Cook County,42.118,-88.096
-08770,Urbana,Champaign County,40.079,-88.150
-03279,Georgetown,Vermilion County,40.002,-87.654
-01286,Caledonia,Boone County,42.371,-88.901
-05743,Morris,Grundy County,41.365,-88.409
-07604,Sandwich,DeKalb County,41.650,-88.619
-05452,Mendota,LaSalle County,41.576,-89.101
-05813,Mount Zion,Macon County,39.737,-88.860
-08761,University Park,Cook County,41.447,-87.713
-08199,Stickney,Cook County,41.821,-87.783
-01741,Clinton,De Witt County,40.154,-88.965
-07542,Saline,Madison County,38.782,-89.644
-07148,Reed,Will County,41.243,-88.214
-08819,Vandalia,Fayette County,38.961,-89.094
-05779,Mount Carmel,Wabash County,38.411,-87.761
-06065,Newport,Lake County,42.454,-87.949
-07225,Richmond,McHenry County,42.455,-88.296
-04891,Litchfield,Montgomery County,39.175,-89.654
-07751,Seward,Kendall County,41.505,-88.319
-01838,Colona,Henry County,41.452,-90.369
-08280,Sugar Creek,Clinton County,38.612,-89.656
-00572,Beardstown,Cass County,40.003,-90.435
-07819,Shiloh,Jefferson County,38.341,-88.980
-03931,Hillsboro,Montgomery County,39.126,-89.523
-03548,Greenville,Bond County,38.892,-89.413
-00985,Braceville,Grundy County,41.245,-88.278
-07635,Saratoga,Grundy County,41.418,-88.420
-09014,Washington,Will County,41.342,-87.599
-00788,Byron,Ogle County,42.166,-89.264
-04296,Johnsburg,McHenry County,42.380,-88.242
-03132,Frankfort,Franklin County,37.907,-88.865
-08288,Sullivan,Moultrie County,39.591,-88.651
-01993,Countryside,Cook County,41.783,-87.878
-04632,Lakemoor,Lake County,42.339,-88.203
-04731,Lawrence,Lawrence County,38.732,-87.695
-05682,Monticello,Piatt County,40.018,-88.543
-06481,Pana,Christian County,39.406,-89.090
-05188,Manlius,LaSalle County,41.340,-88.646
-03735,Harter,Clay County,38.674,-88.535
-09329,Wilmington,Will County,41.334,-88.189
-00360,Auburn,Sangamon County,39.567,-89.758
-00504,Bartonville,Peoria County,40.650,-89.652
-07230,Richwoods,Peoria County,40.753,-89.573
-01412,Carterville,Williamson County,37.760,-89.077
-02904,Fancy Creek,Sangamon County,39.919,-89.659
-01762,Coal City,Grundy County,41.279,-88.280
-09323,Willow Springs,Cook County,41.741,-87.860
-05443,Melrose,Adams County,39.883,-91.343
-04611,Lake Holiday,LaSalle County,41.613,-88.672
-08067,Springfield,Sangamon County,39.847,-89.655
-03475,Grant,Vermilion County,40.442,-87.647
-03273,Genoa,DeKalb County,42.105,-88.656
-08055,Spring Grove,McHenry County,42.444,-88.236
-06894,Posen,Cook County,41.632,-87.681
-07309,Rochester,Sangamon County,39.746,-89.534
-08062,Spring Valley,Bureau County,41.328,-89.200
-08109,St. Joseph,Champaign County,40.103,-88.061
-08696,Tuscola,Douglas County,39.815,-88.277
-08171,Staunton,Macoupin County,39.020,-89.753
-03909,Highwood,Lake County,42.200,-87.809
-06481,Pana,Christian County,39.395,-89.091
-00664,Belmont,DuPage County,41.793,-88.038
-06537,Patton,Ford County,40.443,-88.136
-00700,Berkeley,Cook County,41.889,-87.903
-06710,Pinckneyville,Perry County,38.080,-89.382
-02827,Eureka,Woodford County,40.721,-89.273
-07039,Radnor,Peoria County,40.842,-89.698
-06867,Poplar Grove,Boone County,42.370,-88.823
-05533,Milan,Rock Island County,41.453,-90.572
-03150,Freeburg,St. Clair County,38.439,-89.869
-09355,Winnebago,Winnebago County,42.247,-89.227
-04858,Limestone,Kankakee County,41.129,-87.959
-02058,Creve Coeur,Tazewell County,40.647,-89.591
-01240,Burton,McHenry County,42.455,-88.217
-04521,Knox,Knox County,40.929,-90.265
-00298,Aroma,Kankakee County,41.073,-87.785
-05268,Marseilles,LaSalle County,41.331,-88.708
-02870,Fairfield,Wayne County,38.379,-88.360
-05801,Mount Pleasant,Whiteside County,41.803,-89.907
-03025,Flora,Clay County,38.669,-88.486
-04758,Lebanon,St. Clair County,38.609,-89.767
-04584,Lafayette,Coles County,39.477,-88.292
-02292,Denning,Franklin County,37.910,-88.985
-00611,Beecher,Will County,41.341,-87.621
-08721,Tyrone,Franklin County,37.989,-89.093
-01254,Butterfield,DuPage County,41.836,-88.042
-07811,Sherman,Sangamon County,39.894,-89.605
-08839,Venice,Madison County,38.713,-90.170
-07299,Robbins,Cook County,41.644,-87.704
-07792,Shelbyville,Shelby County,39.406,-88.790
-03240,Gardner,Sangamon County,39.842,-89.771
-06705,Pin Oak,Madison County,38.790,-89.876
-01113,Brookside,Clinton County,38.532,-89.222
-05487,Metamora,Woodford County,40.799,-89.328
-05269,Marshall,Clark County,39.401,-87.736
-06555,Paxton,Ford County,40.460,-88.095
-02943,Felix,Grundy County,41.311,-88.295
-05806,Mount Sterling,Brown County,39.976,-90.737
-01768,Coal Valley,Rock Island County,41.437,-90.473
-01962,Cortland,DeKalb County,41.920,-88.689
-01426,Caseyville,St. Clair County,38.637,-90.026
-00939,Bonus,Boone County,42.295,-88.755
-03195,Fulton,Whiteside County,41.879,-90.121
-03768,Havana,Mason County,40.282,-90.008
-08922,Wade,Jasper County,39.006,-88.182
-04644,Lakewood,McHenry County,42.229,-88.355
-05617,Mission,LaSalle County,41.509,-88.654
-05120,Mackinaw,Tazewell County,40.532,-89.327
-04003,Hometown,Cook County,41.734,-87.731
-02512,Dwight,Livingston County,41.072,-88.409
-09265,Whitmore,Macon County,39.930,-88.855
-04733,Lawrenceville,Lawrence County,38.729,-87.682
-06765,Pittsfield,Pike County,39.608,-90.805
-00218,Anna,Union County,37.460,-89.247
-07928,Smithton,St. Clair County,38.434,-89.985
-05065,Ludlow,Champaign County,40.363,-88.185
-04137,Indian Grove,Livingston County,40.710,-88.530
-05744,Morrison,Whiteside County,41.810,-89.965
-02512,Dwight,Grundy County,41.098,-88.425
-01227,Burnham,Cook County,41.639,-87.557
-05463,Mercer,Mercer County,41.197,-90.724
-07967,Somerset,Jackson County,37.818,-89.304
-02751,Empire,McLean County,40.337,-88.745
-08029,Sparta,Randolph County,38.123,-89.702
-03098,Foster,Madison County,38.967,-90.103
-05248,Marion,Ogle County,42.090,-89.217
-04232,Jackson,Will County,41.414,-88.083
-03511,Green Garden,Will County,41.426,-87.845
-01069,Brighton,Macoupin County,39.046,-90.094
-07400,Rosemont,Cook County,41.995,-87.885
-01768,Coal Valley,Henry County,41.438,-90.439
-01381,Carlyle,Clinton County,38.610,-89.359
-09189,Wethersfield,Henry County,41.192,-89.926
-08299,Summit,Effingham County,39.131,-88.636
-05516,Middleport,Iroquois County,40.816,-87.708
-02666,Eldorado,Saline County,37.814,-88.438
-07114,Red Bud,Randolph County,38.212,-89.994
-03077,Forsyth,Macon County,39.933,-88.951
-05796,Mount Morris,Ogle County,42.071,-89.452
-06269,Oglesby,LaSalle County,41.295,-89.060
-02253,Deer Park,Cook County,42.166,-88.086
-01091,Broadwell,Logan County,40.088,-89.433
-01931,Coral,McHenry County,42.195,-88.535
-00100,Aledo,Mercer County,41.200,-90.749
-06430,Owen,Winnebago County,42.383,-89.107
-02865,Fairbury,Livingston County,40.747,-88.515
-06352,Oregon,Ogle County,42.015,-89.332
-07650,Savanna,Carroll County,42.081,-90.144
-07487,Rutland,LaSalle County,41.390,-88.754
-05642,Momence,Kankakee County,41.168,-87.591
-03583,Grover,Wayne County,38.357,-88.310
-03635,Hainesville,Lake County,42.345,-88.068
-02490,Dunleith,Jo Daviess County,42.481,-90.615
-05768,Mound,Effingham County,39.045,-88.749
-07288,Riverton,Sangamon County,39.844,-89.540
-08928,Wadsworth,Lake County,42.429,-87.924
-07886,Six Mile,Franklin County,37.905,-89.092
-04741,Le Roy,McLean County,40.352,-88.764
-04474,Kingston,DeKalb County,42.113,-88.765
-05899,Nashville,Washington County,38.348,-89.424
-01425,Casey,Clark County,39.304,-87.959
-09300,Williams,Sangamon County,39.925,-89.545
-02648,El Paso,Woodford County,40.703,-89.018
-05952,New Baden,Clinton County,38.537,-89.707
-06291,Old Town,McLean County,40.445,-88.860
-00923,Bowling,Rock Island County,41.371,-90.609
-08850,Virden,Macoupin County,39.500,-89.751
-05672,Montebello,Hancock County,40.422,-91.319
-07687,Scott,Ogle County,42.107,-89.114
-03209,Galena,Jo Daviess County,42.417,-90.429
-00871,Blount,Vermilion County,40.213,-87.702
-00264,Arcola,Douglas County,39.706,-88.288
-04948,Logan,Peoria County,40.671,-89.819
-08850,Virden,Macoupin County,39.506,-89.771
-07904,Sleepy Hollow,Kane County,42.094,-88.303
-09150,West Point,Stephenson County,42.418,-89.869
-01652,Christy,Lawrence County,38.698,-87.856
-05132,Madison,Madison County,38.686,-90.102
-02921,Farmington,Fulton County,40.666,-90.050
-01208,Bunker Hill,Macoupin County,39.027,-89.983
-06243,Oakwood,Vermilion County,40.132,-87.838
-06674,Piasa,Jersey County,39.028,-90.211
-09187,Westville,Vermilion County,40.042,-87.639
-05798,Mount Olive,Macoupin County,39.065,-89.753
-01456,Catlin,Vermilion County,40.061,-87.725
-07472,Rushville,Schuyler County,40.121,-90.563
-01473,Cedar,Knox County,40.839,-90.378
-07163,Riley,McHenry County,42.196,-88.652
-06553,Pawnee,Sangamon County,39.573,-89.582
-03025,Flora,Boone County,42.206,-88.891
-01413,Carthage,Hancock County,40.414,-91.088
-02712,Elm Grove,Tazewell County,40.526,-89.551
-04977,Long Lake,Lake County,42.371,-88.128
-09166,Western,Henry County,41.369,-90.376
-01602,Cherry Valley,Boone County,42.235,-88.975
-00012,Abingdon,Knox County,40.804,-90.402
-07737,Seneca,McHenry County,42.291,-88.525
-07248,Ridgewood,Will County,41.536,-88.040
-01584,Chebanse,Iroquois County,40.951,-87.915
-04523,Knoxville,Knox County,40.908,-90.285
-01401,Carrollton,Greene County,39.330,-90.436
-01246,Bushnell,McDonough County,40.563,-90.503
-08053,Spring Garden,Jefferson County,38.163,-88.873
-00183,Amboy,Lee County,41.713,-89.343
-02486,Dunham,McHenry County,42.369,-88.650
-02703,Ellington,Adams County,39.994,-91.314
-06101,Nokomis,Montgomery County,39.298,-89.315
-02648,El Paso,McLean County,40.740,-89.018
-03481,Granville,Putnam County,41.261,-89.216
-04750,Lena,Stephenson County,42.379,-89.822
-03659,Hamilton,Hancock County,40.396,-91.339
-03219,Galva,Henry County,41.184,-90.038
-02369,Dodds,Jefferson County,38.255,-88.880
-06068,Newton,Jasper County,38.991,-88.163
-08622,Tremont,Tazewell County,40.521,-89.432
-08302,Sumner,Lawrence County,38.717,-87.861
-06408,Otter Creek,LaSalle County,41.154,-88.761
-01656,Christopher,Franklin County,37.973,-89.053
-02326,Diamond,Grundy County,41.285,-88.251
-01188,Buffalo,Ogle County,41.986,-89.569
-02876,Fairmont,Will County,41.556,-88.059
-08624,Trenton,Clinton County,38.606,-89.682
-07809,Sheridan,LaSalle County,41.530,-88.680
-07987,South Fork,Christian County,39.579,-89.452
-08535,Tilton,Vermilion County,40.095,-87.648
-03394,Goode,Franklin County,38.080,-89.084
-04824,Lewistown,Fulton County,40.408,-90.161
-09223,White Hall,Greene County,39.423,-90.396
-03842,Henry,Marshall County,41.119,-89.386
-07616,Sangamon,Piatt County,40.121,-88.516
-09019,Washington Park,St. Clair County,38.635,-90.093
-05950,New Athens,St. Clair County,38.349,-89.866
-08879,Villa Grove,Douglas County,39.863,-88.162
-02724,Elmwood,Peoria County,40.761,-89.920
-04074,Hudson,McLean County,40.628,-88.978
-04392,Kenilworth,Cook County,42.086,-87.718
-05679,Montgomery,Woodford County,40.646,-89.225
-02533,Earl,LaSalle County,41.592,-88.881
-02551,East Fork,Montgomery County,39.100,-89.419
-05684,Montmorency,Whiteside County,41.708,-89.700
-00664,Belmont,Iroquois County,40.730,-87.708
-01308,Cambridge,Henry County,41.285,-90.135
-07296,Roanoke,Woodford County,40.794,-89.217
-03670,Hanna,Henry County,41.507,-90.266
-01123,Browning,Franklin County,37.997,-88.989
-01425,Casey,Clark County,39.305,-87.985
-04826,Lexington,McLean County,40.627,-88.755
-03814,Hebron,McHenry County,42.454,-88.414
-08506,Thornton,Cook County,41.568,-87.608
-07737,Seneca,Grundy County,41.303,-88.615
-02921,Farmington,Fulton County,40.697,-90.002
-07772,Sharon,Fayette County,39.051,-89.104
-02499,Durand,Winnebago County,42.410,-89.349
-04617,Lake of the Woods,Champaign County,40.206,-88.369
-05297,Mason City,Mason County,40.186,-89.661
-01216,Burgess,Bond County,38.785,-89.547
-09325,Willowbrook,Will County,41.458,-87.536
-01059,Bridgeport,Lawrence County,38.701,-87.780
-02231,De Soto,Jackson County,37.815,-89.196
-07621,Santa Anna,De Witt County,40.236,-88.651
-09050,Wayne,DuPage County,41.947,-88.253
-06845,Polo,Ogle County,41.986,-89.579
-08213,Stockton,Jo Daviess County,42.328,-90.040
-08536,Timber,Peoria County,40.578,-89.819
-03545,Greenup,Cumberland County,39.229,-88.146
-00205,Andalusia,Rock Island County,41.436,-90.721
-06642,Petersburg,Menard County,40.012,-89.848
-00307,Arthur,Douglas County,39.714,-88.470
-03133,Franklin,DeKalb County,42.109,-88.887
-02735,Elwood,Will County,41.404,-88.112
-07600,Sandoval,Marion County,38.605,-89.114
-00161,Altamont,Effingham County,39.062,-88.748
-01069,Brighton,Jersey County,39.041,-90.140
-08803,Valley View,Kane County,41.966,-88.299
-04135,Indian Creek,White County,37.977,-88.317
-07321,Rock Run,Stephenson County,42.395,-89.463
-08598,Toulon,Stark County,41.105,-89.806
-03328,Girard,Macoupin County,39.457,-89.757
-07725,Selby,Bureau County,41.370,-89.339
-04516,Knollwood,Lake County,42.272,-87.896
-09064,Webber,Jefferson County,38.351,-88.756
-09104,Wesley,Will County,41.256,-88.063
-06412,Otto,Kankakee County,41.039,-87.916
-08918,Wabash,Clark County,39.410,-87.605
-03288,Germantown,Clinton County,38.517,-89.541
-01121,Brown,Champaign County,40.347,-88.394
-07287,Riverside,Adams County,39.998,-91.433
-07102,Reading,Livingston County,41.063,-88.878
-02415,Douglas,Iroquois County,40.770,-88.003
-04938,Locust,Christian County,39.478,-89.192
-02984,Fisher,Champaign County,40.315,-88.350
-00942,Boone,Boone County,42.371,-88.740
-08303,Sumpter,Cumberland County,39.277,-88.253
-04025,Hopkins,Whiteside County,41.797,-89.809
-09494,York,Carroll County,41.986,-90.058
-03942,Hinckley,DeKalb County,41.769,-88.641
-07326,Rockdale,Will County,41.506,-88.115
-03704,Harlem,Stephenson County,42.334,-89.701
-07971,Somonauk,DeKalb County,41.678,-88.686
-03069,Forreston,Ogle County,42.163,-89.638
-06935,Prairie Grove,McHenry County,42.279,-88.261
-00342,Athens,Menard County,39.961,-89.724
-08086,St. Anne,Kankakee County,41.045,-87.716
-08773,Utica,LaSalle County,41.346,-88.986
-06698,Pilot,Kankakee County,41.058,-88.076
-02270,Delavan,Tazewell County,40.361,-89.545
-00089,Albion,Edwards County,38.378,-88.056
-01530,Cerro Gordo,Piatt County,39.854,-88.679
-05831,Moweaqua,Shelby County,39.632,-88.973
-07387,Rose,Shelby County,39.395,-88.871
-04129,Ina,Jefferson County,38.151,-88.904
-05139,May,Christian County,39.564,-89.193
-00993,Bradley,Jackson County,37.913,-89.566
-02789,Erie,Whiteside County,41.647,-90.125
-03738,Hartland,McHenry County,42.370,-88.532
-04658,Lamotte,Crawford County,39.016,-87.620
-00649,Bellevue,Peoria County,40.684,-89.680
-06666,Philo,Champaign County,40.018,-88.195
-00347,Atlanta,Logan County,40.249,-89.210
-03563,Gridley,McLean County,40.718,-88.890
-02194,Danvers,McLean County,40.544,-89.210
-01165,Buckhart,Christian County,39.662,-89.336
-03979,Hollis,Peoria County,40.588,-89.704
-01741,Clinton,DeKalb County,41.763,-88.771
-01187,Buena Vista,Schuyler County,40.141,-90.619
-06596,Pembroke,Kankakee County,41.065,-87.592
-07971,Somonauk,DeKalb County,41.635,-88.687
-07338,Rockvale,Ogle County,42.085,-89.338
-00756,Big Rock,Kane County,41.763,-88.537
-05620,Mississippi,Jersey County,39.049,-90.309
-03411,Goose Lake,Grundy County,41.364,-88.296
-01307,Cambria,Williamson County,37.781,-89.119
-01791,Coe,Rock Island County,41.621,-90.258
-04926,Lowe,Moultrie County,39.744,-88.530
-06360,Orion,Henry County,41.355,-90.382
-05831,Moweaqua,Christian County,39.626,-89.021
-03321,Gilman,Iroquois County,40.767,-87.992
-02680,Elk,Jackson County,37.907,-89.211
-04256,Jasper,Wayne County,38.427,-88.306
-06558,Payson,Adams County,39.806,-91.196
-03729,Harristown,Macon County,39.841,-89.092
-06306,Olive,Madison County,38.962,-89.751
-04314,Jonesboro,Union County,37.452,-89.268
-00791,Bishop,Effingham County,39.045,-88.415
-05030,Louisville,Clay County,38.783,-88.530
-06661,Phenix,Henry County,41.530,-90.145
-07826,Shoal Creek,Bond County,38.973,-89.542
-04277,Jerome,Sangamon County,39.768,-89.681
-07844,Sidney,Champaign County,40.004,-88.077
-06672,Phoenix,Cook County,41.611,-87.635
-01459,Cave,Franklin County,37.910,-88.757
-08057,Spring Lake,Tazewell County,40.486,-89.811
-01279,Cairo,Alexander County,37.005,-89.176
-08904,Virginia,Cass County,39.928,-90.221
-08922,Wade,Clinton County,38.609,-89.436
-07204,Rome,Jefferson County,38.428,-88.974
-06874,Port Byron,Rock Island County,41.606,-90.335
-04489,Kirkland,DeKalb County,42.093,-88.851
-00614,Bement,Piatt County,39.927,-88.533
-03851,Heritage Lake,Tazewell County,40.547,-89.326
-06966,Princeville,Peoria County,40.930,-89.758
-05265,Marrowbone,Moultrie County,39.630,-88.762
-00030,Adams,LaSalle County,41.584,-88.765
-02537,Earlville,LaSalle County,41.589,-88.922
-04659,Lanark,Carroll County,42.102,-89.833
-00490,Barry,Pike County,39.712,-91.094
-02489,Dunlap,Peoria County,40.862,-89.679
-08971,Walnut,Bureau County,41.544,-89.579
-00686,Bennington,Marshall County,40.971,-89.104
-05955,New Berlin,Sangamon County,39.717,-89.890
-05039,Lovington,Moultrie County,39.730,-88.644
-09175,Westlake Village,Winnebago County,42.306,-89.287
-07204,Rome,Peoria County,40.883,-89.503
-03646,Hallock,Peoria County,40.930,-89.582
-07027,Raccoon,Marion County,38.519,-88.977
-09340,Winchester,Scott County,39.630,-90.456
-04599,Lake Camelot,Peoria County,40.631,-89.742
-05165,Malta,DeKalb County,41.933,-88.883
-05284,Martinsville,Clark County,39.319,-87.853
-01804,Colchester,McDonough County,40.415,-90.790
-08706,Twin Grove,McLean County,40.493,-89.080
-01414,Cartwright,Sangamon County,39.841,-89.909
-09009,Warsaw,Hancock County,40.359,-91.435
-02963,Field,Jefferson County,38.432,-88.867
-06398,Otego,Fayette County,38.934,-88.978
-02402,Dorchester,Macoupin County,39.046,-89.860
-09003,Warren,Jo Daviess County,42.484,-90.027
-03064,Forest Lake,Lake County,42.208,-88.056
-08874,Vienna,Johnson County,37.415,-88.898
-05540,Milford,Iroquois County,40.630,-87.713
-09518,Zeigler,Franklin County,37.899,-89.052
-07411,Ross,Vermilion County,40.370,-87.640
-04008,Honey Creek,Crawford County,38.903,-87.733
-07439,Roxana,Madison County,38.848,-90.076
-02518,Eagle,LaSalle County,41.144,-88.917
-03241,Garfield,Grundy County,41.149,-88.329
-03382,Gold Hill,Gallatin County,37.734,-88.198
-05658,Monroe,Ogle County,42.104,-89.002
-01869,Concord,Bureau County,41.362,-89.677
-03506,Greene,Mercer County,41.198,-90.614
-02735,Elwood,Vermilion County,39.911,-87.632
-09027,Waterman,DeKalb County,41.772,-88.774
-09308,Williamsville,Sangamon County,39.954,-89.549
-04144,Indian Point,Knox County,40.765,-90.392
-09468,Wysox,Carroll County,41.977,-89.802
-08755,Unity,Piatt County,39.826,-88.529
-04580,Ladd,Bureau County,41.383,-89.219
-02250,Deer Creek,Tazewell County,40.608,-89.337
-07411,Ross,Edgar County,39.837,-87.710
-01367,Capron,Boone County,42.400,-88.740
-03056,Forrest,Livingston County,40.724,-88.420
-03462,Grandview,Sangamon County,39.816,-89.619
-04457,Kincaid,Christian County,39.589,-89.415
-06808,Pleasant View,Macon County,39.692,-89.083
-04660,Lancaster,Stephenson County,42.337,-89.569
-04556,La Harpe,Hancock County,40.593,-90.964
-09343,Windsor,Shelby County,39.474,-88.653
-02604,Eden,LaSalle County,41.236,-89.106
-03240,Gardner,Grundy County,41.186,-88.310
-02146,Custer,Will County,41.227,-88.133
-00335,Assumption,Christian County,39.516,-89.081
-06052,Newcomb,Champaign County,40.264,-88.401
-06339,Orel,Wayne County,38.306,-88.555
-08575,Toluca,Marshall County,41.002,-89.133
-01738,Clifton,Iroquois County,40.935,-87.934
-02290,Denison,Lawrence County,38.631,-87.690
-03246,Garrett,Douglas County,39.826,-88.413
-05515,Middlefork,Vermilion County,40.316,-87.839
-01578,Chatsworth,Livingston County,40.711,-88.301
-05918,Nebraska,Livingston County,40.881,-88.883
-08098,St. Elmo,Fayette County,39.027,-88.848
-02428,Downs,McLean County,40.351,-88.871
-09467,Wyoming,Stark County,41.062,-89.773
-07593,Sand Prairie,Tazewell County,40.436,-89.661
-00327,Ashland,Cass County,39.916,-90.023
-04682,Laona,Winnebago County,42.477,-89.329
-00728,Bethany,Moultrie County,39.646,-88.738
-08470,Texas,De Witt County,40.099,-88.972
-04973,Long Creek,Macon County,39.812,-88.848
-09467,Wyoming,Lee County,41.682,-88.992
-04232,Jackson,Effingham County,39.036,-88.637
-06464,Palestine,Crawford County,39.004,-87.613
-02169,Dale,McLean County,40.436,-89.102
-03923,Hillcrest,Ogle County,41.951,-89.065
-06931,Prairie,Shelby County,39.281,-88.638
-07397,Rosefield,Peoria County,40.748,-89.809
-01502,Salina,Kankakee County,41.161,-88.069
-05356,McClellan,Jefferson County,38.256,-88.984
-01647,Chrisman,Edgar County,39.804,-87.674
-07417,Rossville,Vermilion County,40.379,-87.669
-02749,Emmet,McDonough County,40.504,-90.752
-06794,Pleasant Grove,Coles County,39.403,-88.253
-06955,Preston,Richland County,38.809,-88.084
-05279,Martin,McLean County,40.525,-88.627
-07625,Santa Fe,Clinton County,38.527,-89.435
-03736,Hartford,Madison County,38.833,-90.096
-01164,Buckeye,Stephenson County,42.417,-89.633
-08184,Stevenson,Marion County,38.603,-88.863
-08099,St. Francis,Effingham County,39.130,-88.414
-02832,Evans,Marshall County,41.072,-89.100
-01430,Casner,Jefferson County,38.340,-89.094
-02117,Cuba,Fulton County,40.493,-90.191
-04130,Independence,Saline County,37.641,-88.546
-06437,Oxford,Henry County,41.194,-90.379
-08571,Toledo,Cumberland County,39.274,-88.244
-09046,Waverly,Morgan County,39.592,-89.953
-05125,Macon,Macon County,39.713,-88.997
-03323,Gilmer,Adams County,39.982,-91.214
-06600,Pendleton,Jefferson County,38.253,-88.754
-04587,Lagrange,Bond County,38.975,-89.430
-06464,Palestine,Woodford County,40.692,-89.112
-05623,Mitchell,Madison County,38.762,-90.085
-00357,Atwood,Douglas County,39.799,-88.463
-02620,Edinburg,Christian County,39.657,-89.390
-06360,Orion,Fulton County,40.586,-89.932
-00221,Annawan,Henry County,41.373,-89.912
-06665,Phillips,White County,38.171,-88.048
-08189,Steuben,Marshall County,41.020,-89.484
-01521,Central City,Marion County,38.549,-89.127
-09444,Worden,Madison County,38.931,-89.839
-07005,Quarry,Jersey County,38.989,-90.475
-09005,Warrensburg,Macon County,39.933,-89.062
-05554,Milledgeville,Carroll County,41.963,-89.775
-04934,Lockport Heights,Will County,41.619,-88.025
-01103,Brookfield,LaSalle County,41.249,-88.661
-03496,Gray,White County,38.232,-88.056
-07785,Shawneetown,Gallatin County,37.713,-88.187
-05652,Money Creek,McLean County,40.632,-88.882
-04000,Homer,Champaign County,40.035,-87.958
-07444,Royalton,Franklin County,37.877,-89.115
-08029,Sparta,Knox County,41.020,-90.266
-03535,Greenfield,Greene County,39.344,-90.213
-05745,Morrisonville,Christian County,39.420,-89.456
-04850,Lily Lake,Kane County,41.949,-88.478
-01584,Chebanse,Iroquois County,41.006,-87.910
-01785,Cobden,Union County,37.531,-89.253
-09013,Washburn,Marshall County,40.920,-89.292
-03845,Hensley,Champaign County,40.186,-88.298
-03535,Greenfield,Grundy County,41.149,-88.270
-00460,Bannockburn,Lake County,42.193,-87.866
-08816,Vance,Vermilion County,40.045,-87.880
-05144,Magnolia,Putnam County,41.144,-89.232
-07463,Rural,Rock Island County,41.370,-90.491
-06062,Newman,Douglas County,39.829,-88.002
-08411,Tampico,Whiteside County,41.628,-89.805
-06260,Odell,Livingston County,41.004,-88.525
-03235,Garden Plain,Whiteside County,41.791,-90.139
-00601,Bedford,Wayne County,38.522,-88.415
-06047,Newark,Kendall County,41.537,-88.583
-01817,Colfax,McLean County,40.567,-88.616
-01978,Cotton Hill,Sangamon County,39.659,-89.545
-05788,Mount Hope,McLean County,40.334,-89.220
-07687,Scott,Champaign County,40.091,-88.398
-09316,Willow Branch,Piatt County,39.985,-88.679
-02761,Energy,Williamson County,37.774,-89.026
-09098,Wenona,LaSalle County,41.049,-89.052
-07875,Symmes,Edgar County,39.537,-87.707
-01153,Brushy,Saline County,37.774,-88.663
-05247,Marine,Madison County,38.786,-89.778
-07793,Sheldon,Iroquois County,40.769,-87.564
-06373,Orvil,Logan County,40.272,-89.432
-06048,Newburg,Pike County,39.622,-90.747
-00346,Atkinson,Henry County,41.421,-90.015
-00330,Ashton,Lee County,41.866,-89.221
-08055,Spring Grove,Warren County,41.015,-90.620
-07061,Ramsey,Fayette County,39.144,-89.109
-05775,Mount Auburn,Christian County,39.735,-89.315
-07090,Raymond,Montgomery County,39.319,-89.572
-05909,Nauvoo,Hancock County,40.551,-91.381
-04783,Leland,LaSalle County,41.613,-88.800
-03657,Hamel,Madison County,38.889,-89.845
-05194,Mansfield,Piatt County,40.211,-88.506
-06536,Patoka,Marion County,38.784,-89.079
-07536,Salem,Knox County,40.746,-90.057
-03027,Florence,Will County,41.332,-88.072
-08429,Taylor,Ogle County,41.910,-89.335
-00917,Bois D'Arc,Montgomery County,39.490,-89.602
-01709,Clayton,Adams County,40.060,-90.970
-06795,Pleasant Hill,Pike County,39.443,-90.872
-06183,Norton,Kankakee County,41.056,-88.191
-04872,Lyndon,Whiteside County,41.736,-89.910
-06261,Odin,Marion County,38.617,-89.052
-08538,Timberlane,Boone County,42.335,-88.861
-05024,Loudon,Fayette County,39.144,-88.873
-05334,Mayfield,DeKalb County,42.021,-88.773
-00051,Afton,DeKalb County,41.856,-88.764
-03306,Gifford,Champaign County,40.306,-88.021
-00337,Astoria,Fulton County,40.228,-90.360
-03453,Grand Prairie,Jefferson County,38.430,-89.090
-00269,Argenta,Macon County,39.982,-88.823
-02185,Danforth,Iroquois County,40.832,-88.006
-07767,Shannon,Carroll County,42.155,-89.740
-09230,White Oak,McLean County,40.601,-89.098
-07302,Roberts,Marshall County,41.062,-89.228
-00221,Annawan,Bureau County,41.396,-89.891
-06623,Percy,Randolph County,38.016,-89.619
-00208,Andover,Henry County,41.281,-90.262
-06386,Osceola,Stark County,41.196,-89.693
-09460,Wyanet,Bureau County,41.365,-89.584
-01917,Cooper,Sangamon County,39.745,-89.440
-02794,Irving,Montgomery County,39.214,-89.420
-07406,Roseville,Warren County,40.732,-90.665
-03724,Harrison,Jackson County,37.797,-89.337
-05172,Manchester,Boone County,42.450,-88.897
-08577,Tompkins,Warren County,40.857,-90.724
-01248,Butler,Vermilion County,40.430,-87.847
-06408,Otter Creek,Jersey County,39.043,-90.412
-04352,Kansas,Edgar County,39.547,-87.927
-06351,Oreana,Macon County,39.939,-88.866
-08047,Spring,Boone County,42.197,-88.758
-03634,Haines,Marion County,38.519,-88.865
-01035,Brenton,Ford County,40.717,-88.180
-02174,Dallas City,Hancock County,40.591,-91.172
-08227,Stonington,Christian County,39.640,-89.193
-08899,Viola,Mercer County,41.203,-90.587
-05451,Mendon,Adams County,40.088,-91.284
-03680,Hanover,Jo Daviess County,42.256,-90.280
-08737,Union,Fulton County,40.664,-90.396
-00082,Albany,Whiteside County,41.789,-90.219
-07247,Ridgway,Gallatin County,37.827,-88.201
-01679,Claremont,Richland County,38.714,-87.970
-04320,Jordan,Whiteside County,41.880,-89.696
-01937,Cordova,Rock Island County,41.715,-90.284
-01749,Clover,Henry County,41.194,-90.266
-01706,Clay City,Clay County,38.689,-88.354
-07262,Ringwood,McHenry County,42.392,-88.297
-08497,Thompson,Jo Daviess County,42.418,-90.154
-09169,Westfield,Bureau County,41.448,-89.221
-03151,Freedom,Carroll County,42.158,-89.928
-04811,Levan,Jackson County,37.824,-89.440
-01988,Coulterville,Randolph County,38.186,-89.606
-00304,Artesia,Iroquois County,40.612,-88.019
-02806,Essex,Kankakee County,41.177,-88.186
-02871,Fairhaven,Carroll County,41.977,-89.919
-06552,Paw Paw,Lee County,41.689,-88.981
-06270,Ohio,Bureau County,41.544,-89.456
-04020,Hopedale,Tazewell County,40.421,-89.415
-04594,Lake,Clinton County,38.521,-89.322
-07789,Sheffield,Bureau County,41.358,-89.737
-03332,Gladstone,Henderson County,40.845,-90.978
-08473,Texico,Jefferson County,38.439,-88.897
-08302,Sumner,Kankakee County,41.252,-87.722
-06801,Pleasant Plains,Sangamon County,39.873,-89.921
-08853,Vermont,Fulton County,40.319,-90.393
-07222,Richland,Shelby County,39.390,-88.639
-03207,Galatia,Saline County,37.841,-88.609
-02174,Dallas City,Hancock County,40.635,-91.164
-02167,Dakota,Stephenson County,42.418,-89.545
-09322,Willow Lake,Stephenson County,42.333,-89.636
-00887,Blue Mound,Macon County,39.773,-89.087
-00430,Bald Hill,Jefferson County,38.169,-89.093
-03410,Goose Creek,Piatt County,40.112,-88.638
-08023,Spaulding,Sangamon County,39.866,-89.540
-06013,New Milford,Winnebago County,42.187,-89.068
-04881,Lynn,Henry County,41.288,-90.395
-02895,Fall River,LaSalle County,41.303,-88.771
-05132,Madison,Richland County,38.615,-88.088
-02786,Equality,Gallatin County,37.729,-88.308
-04889,Lisbon,Kendall County,41.503,-88.424
-06256,Oconee,Shelby County,39.278,-89.084
-00142,Alma,Marion County,38.699,-88.859
-00107,Alexis,Mercer County,41.063,-90.555
-06574,Pearl City,Stephenson County,42.265,-89.826
-09270,Witt,Montgomery County,39.256,-89.348
-01072,Brimfield,Peoria County,40.839,-89.886
-08737,Union,Effingham County,38.959,-88.522
-04920,Livingston,Madison County,38.968,-89.764
-03691,Hardin,Calhoun County,39.157,-90.618
-07340,Rockville,Kankakee County,41.243,-87.951
-04349,Kane,Greene County,39.215,-90.375
-03809,Hurst,Williamson County,37.833,-89.143
-05928,Nelson,Lee County,41.788,-89.573
-06345,Orangeville,Stephenson County,42.468,-89.644
-09154,West Salem,Edwards County,38.521,-88.005
-08499,Thomson,Carroll County,41.959,-90.099
-00328,Ashley,Washington County,38.332,-89.202
-04297,Johnson,Christian County,39.483,-89.314
-00192,Amity,Livingston County,40.971,-88.765
-09409,Woodhull,Henry County,41.179,-90.316
-02449,Drury,Rock Island County,41.380,-90.981
-03839,Hennepin,Putnam County,41.254,-89.342
-04958,Lomax,Henderson County,40.674,-91.079
-06075,Niantic,Macon County,39.872,-89.170
-03547,Greenview,Menard County,40.083,-89.738
-05391,McLean,McLean County,40.314,-89.170
-06234,Oakland,Coles County,39.654,-88.026
-05386,McKendree,Vermilion County,40.003,-87.577
-06826,Pocahontas,Bond County,38.828,-89.540
-00523,Bath,Mason County,40.156,-90.115
-04831,Liberty,Effingham County,39.194,-88.750
-00985,Braceville,Grundy County,41.225,-88.268
-04460,Kinderhook,Pike County,39.715,-91.206
-08671,Tunbridge,De Witt County,40.093,-89.091
-08193,Stewardson,Shelby County,39.263,-88.630
-06265,Ogden,Champaign County,40.114,-87.956
-08531,Tilden,Randolph County,38.212,-89.683
-07846,Sigel,Shelby County,39.251,-88.524
-01134,Brownstown,Fayette County,38.996,-88.953
-04008,Honey Creek,Adams County,40.066,-91.201
-01610,Chesterfield,Macoupin County,39.224,-90.078
-06716,Pine Creek,Ogle County,41.979,-89.455
-02762,Enfield,White County,38.099,-88.338
-02400,Dora,Moultrie County,39.732,-88.749
-05309,Matherville,Mercer County,41.260,-90.608
-00367,Augusta,Hancock County,40.236,-90.969
-03270,Genesee,Whiteside County,41.880,-89.817
-02676,Elizabeth,Jo Daviess County,42.318,-90.222
-06790,Pleasant,Fulton County,40.330,-90.282
-01109,Brooklyn,Lee County,41.674,-89.109
-01539,Chalmers,McDonough County,40.404,-90.721
-07806,Sherrard,Mercer County,41.319,-90.506
-03437,Grafton,Jersey County,38.970,-90.431
-06327,Oneida,Knox County,41.072,-90.225
-02686,Elk Prairie,Jefferson County,38.179,-88.983
-08270,Sublette,Lee County,41.621,-89.226
-00386,Avon,Fulton County,40.662,-90.435
-02660,Elbridge,Edgar County,39.531,-87.588
-02919,Farmersville,Montgomery County,39.443,-89.652
-06904,Potomac,Vermilion County,40.305,-87.801
-02072,Crooked Creek,Jasper County,39.122,-88.138
-08851,Vergennes,Jackson County,37.906,-89.318
-00153,Alpha,Henry County,41.192,-90.380
-08859,Versailles,Brown County,39.886,-90.630
-02391,Dongola,Union County,37.361,-89.166
-06071,Newtown,Livingston County,41.064,-88.761
-08874,Vienna,Grundy County,41.242,-88.523
-08975,Walnut Grove,Knox County,41.108,-90.156
-00702,Berlin,Bureau County,41.457,-89.344
-09343,Windsor,Mercer County,41.202,-90.444
-01860,Como,Whiteside County,41.766,-89.767
-09034,Watson,Effingham County,39.025,-88.570
-00992,Bradford,Stark County,41.177,-89.658
-02250,Deer Creek,Tazewell County,40.630,-89.332
-04493,Kirkwood,Warren County,40.866,-90.748
-02975,Findlay,Shelby County,39.523,-88.754
-05770,Mounds,Pulaski County,37.114,-89.198
-05420,Mechanicsburg,Sangamon County,39.809,-89.397
-02176,Dalzell,Bureau County,41.356,-89.173
-01499,Cedarville,Stephenson County,42.376,-89.633
-00316,Ash Grove,Iroquois County,40.624,-87.855
-03381,Golconda,Pope County,37.367,-88.486
-07659,Saybrook,McLean County,40.427,-88.526
-02458,Du Bois,Washington County,38.255,-89.199
-05935,Neponset,Bureau County,41.280,-89.794
-04963,Lone Grove,Fayette County,38.868,-88.864
-09169,Westfield,Clark County,39.459,-87.961
-04373,Keithsburg,Mercer County,41.120,-90.937
-08206,Stites,St. Clair County,38.653,-90.162
-08288,Sullivan,Livingston County,40.885,-88.300
-09469,Xenia,Clay County,38.619,-88.642
-01109,Brooklyn,St. Clair County,38.659,-90.166
-03383,Golden,Adams County,40.109,-91.018
-05679,Montgomery,Crawford County,38.901,-87.594
-09318,Willow Creek,Lee County,41.757,-88.988
-01609,Chester,Logan County,40.093,-89.313
-08737,Union,Cumberland County,39.326,-88.092
-01709,Clayton,Woodford County,40.882,-89.104
-02086,Crossville,White County,38.162,-88.065
-04515,Noble,Richland County,38.698,-88.224
-06227,Oak Run,Knox County,40.963,-90.145
-02542,East Bend,Champaign County,40.362,-88.281
-03754,Harwood,Champaign County,40.364,-88.069
-09053,Waynesville,De Witt County,40.253,-89.091
-00963,Bowdre,Douglas County,39.706,-88.149
-06347,Orchard,Wayne County,38.523,-88.637
-08478,Thayer,Sangamon County,39.538,-89.763
-05545,Mill Shoals,White County,38.192,-88.318
-02053,Creston,Ogle County,41.931,-88.965
-03526,Green Valley,Tazewell County,40.408,-89.643
-04745,Leef,Madison County,38.874,-89.660
-06653,Petty,Lawrence County,38.798,-87.842
-08112,St. Libory,St. Clair County,38.363,-89.710
-05570,Millington,Kendall County,41.560,-88.604
-07862,Silver Creek,Stephenson County,42.244,-89.567
-02360,Dix,Ford County,40.464,-88.283
-00759,Big Spring,Shelby County,39.311,-88.525
-05956,New Boston,Mercer County,41.170,-90.997
-02882,Fairview,Fulton County,40.673,-90.150
-00831,Blair,Clay County,38.870,-88.526
-09417,Woodlawn,Jefferson County,38.330,-89.033
-03151,Freedom,LaSalle County,41.499,-88.876
-02877,Fairmount,Vermilion County,40.046,-87.831
-08145,Stanford,Clay County,38.672,-88.417
-06475,Palmyra,Macoupin County,39.435,-89.996
-08275,Suez,Mercer County,41.110,-90.608
-04370,Keene,Adams County,40.145,-91.203
-09501,Young America,Edgar County,39.836,-87.851
-03579,Grove,Jasper County,39.128,-88.282
-03378,Godley,Grundy County,41.244,-88.243
-04153,Indiantown,Bureau County,41.276,-89.573
-08145,Stanford,McLean County,40.435,-89.218
-01966,Corwin,Logan County,40.094,-89.548
-03133,Franklin,Morgan County,39.620,-90.044
-01349,Canoe Creek,Rock Island County,41.613,-90.189
-00419,Bainbridge,Schuyler County,40.045,-90.507
-05556,Miller,LaSalle County,41.409,-88.643
-00117,Alhambra,Madison County,38.888,-89.731
-02215,Davis,Stephenson County,42.423,-89.414
-04205,Irvington,Washington County,38.439,-89.163
-06525,Partridge,Woodford County,40.866,-89.461
-06839,Polk,Macoupin County,39.220,-89.975
-02576,Eastern,Franklin County,37.991,-88.761
-04019,Hope,LaSalle County,41.148,-89.105
-09313,Willisville,Perry County,37.984,-89.590
-03419,Goshen,Stark County,41.106,-89.927
-00793,Bismarck,Vermilion County,40.264,-87.608
-04884,Lynnville,Ogle County,42.016,-88.988
-00931,Bond,Lawrence County,38.814,-87.696
-06931,Prairie,Crawford County,39.136,-87.791
-02806,Essex,Stark County,41.018,-89.812
-04157,Industry,McDonough County,40.323,-90.620
-08963,Wallace,LaSalle County,41.418,-88.883
-02928,Farrington,Jefferson County,38.431,-88.747
-05188,Manlius,Bureau County,41.454,-89.683
-06764,Pittsburg,Williamson County,37.777,-88.850
-09303,Williamsfield,Knox County,40.923,-90.015
-01849,Columbus,Adams County,39.983,-91.098
-02912,Farina,Fayette County,38.830,-88.781
-09361,Winslow,Stephenson County,42.482,-89.838
-03582,Groveland,LaSalle County,40.971,-88.989
-02738,Embarrass,Edgar County,39.672,-87.915
-04357,Kaskaskia,Fayette County,38.862,-89.081
-03114,Four Mile,Wayne County,38.317,-88.651
-08100,St. Francisville,Lawrence County,38.591,-87.647
-06565,Peach Orchard,Ford County,40.574,-88.272
-08786,Valier,Franklin County,38.015,-89.043
-08737,Union,McHenry County,42.233,-88.542
-02221,Dawson,McLean County,40.446,-88.755
-06307,Olive Branch,Alexander County,37.169,-89.352
-04203,Iroquois,Iroquois County,40.816,-87.823
-00376,Ava,Jackson County,37.888,-89.495
-06229,Oakdale,Washington County,38.257,-89.541
-05859,Murrayville,Morgan County,39.586,-90.252
-02045,Crescent City,Iroquois County,40.770,-87.859
-05840,Mulberry Grove,Bond County,38.925,-89.269
-03860,Herrick,Shelby County,39.238,-88.971
-00487,Barren,Franklin County,38.071,-88.992
-01434,Cass,Fulton County,40.493,-90.282
-06770,Pixley,Clay County,38.802,-88.307
-00651,Bellflower,McLean County,40.335,-88.515
-04135,Indian Creek,Lake County,42.227,-87.980
-09502,Young Hickory,Fulton County,40.670,-90.253
-09336,Wilsonville,Macoupin County,39.071,-89.856
-01225,Burlington,Kane County,42.053,-88.548
-05279,Martin,Crawford County,38.911,-87.866
-02044,Crescent,Iroquois County,40.727,-87.823
-04831,Liberty,Adams County,39.879,-91.108
-04337,Junction City,Marion County,38.580,-89.128
-06698,Pilot,Vermilion County,40.217,-87.851
-09198,Wheatland,Fayette County,38.963,-88.867
-08246,Strasburg,Shelby County,39.353,-88.619
-05769,Mound City,Pulaski County,37.085,-89.163
-00164,Alto,Lee County,41.844,-88.989
-02834,Evansville,Randolph County,38.090,-89.938
-06341,Orange,Knox County,40.842,-90.277
-03462,Grandview,Edgar County,39.545,-87.825
-01533,Chadwick,Carroll County,42.013,-89.891
-09320,Willow Hill,Jasper County,38.985,-88.010
-01554,Chandlerville,Cass County,40.048,-90.155
-08648,Trout Valley,McHenry County,42.198,-88.253
-07229,Richwood,Jersey County,39.133,-90.545
-05093,Lyman,Ford County,40.626,-88.187
-06700,Pilot Knob,Washington County,38.254,-89.425
-03455,Grand Ridge,LaSalle County,41.237,-88.831
-03664,Hammond,Piatt County,39.797,-88.592
-00564,Bear Creek,Christian County,39.486,-89.412
-02221,Dawson,Sangamon County,39.853,-89.463
-07086,Rawlins,Jo Daviess County,42.443,-90.447
-06933,Prairie City,McDonough County,40.607,-90.503
-05254,Mark,Putnam County,41.264,-89.250
-00595,Beaverville,Iroquois County,40.974,-87.591
-03390,Golf,Cook County,42.059,-87.793
-07178,Rio,Knox County,41.108,-90.381
-07821,Shipman,Macoupin County,39.118,-90.044
-08097,St. David,Fulton County,40.493,-90.049
-00369,Ora,Jackson County,37.906,-89.422
-02123,Cullom,Livingston County,40.878,-88.269
-05291,Maryland,Ogle County,42.165,-89.526
-07735,Seminary,Fayette County,38.864,-89.204
-09282,Wilberton,Fayette County,38.869,-88.970
-00363,Audubon,Montgomery County,39.278,-89.199
-04222,Iuka,Marion County,38.616,-88.790
-04851,Lima,Adams County,40.162,-91.406
-06805,Pleasant Vale,Pike County,39.626,-91.067
-00125,Allen,LaSalle County,41.151,-88.644
-01400,Carroll,Vermilion County,39.928,-87.744
-02161,Dahlgren,Hamilton County,38.198,-88.684
-05469,Meridian,Clinton County,38.608,-89.202
-05018,Lost Nation,Ogle County,41.911,-89.367
-07186,Rest Haven,Will County,41.262,-88.136
-04024,Hopewell,Marshall County,41.058,-89.331
-05572,Mills,Bond County,38.788,-89.421
-02419,Dover,Bureau County,41.451,-89.452
-06030,New Salem,Pike County,39.709,-90.858
-08151,Stanton,Champaign County,40.181,-88.078
-02689,Elkhart,Logan County,39.988,-89.424
-07371,Romine,Marion County,38.517,-88.759
-07195,Reynolds,Mercer County,41.332,-90.672
-07070,Rankin,Vermilion County,40.465,-87.896
-08702,Twigg,Hamilton County,37.992,-88.536
-01170,Buckley,Iroquois County,40.597,-88.038
-08302,Sumner,Warren County,41.024,-90.727
-06095,Nixon,De Witt County,40.106,-88.755
-09430,Woodson,Morgan County,39.629,-90.219
-06628,Perry,Pike County,39.798,-90.734
-01983,Cottonwood,Cumberland County,39.340,-88.241
-07811,Sherman,Mason County,40.260,-89.885
-08498,Thompsonville,Franklin County,37.918,-88.762
-04656,Lamoine,McDonough County,40.324,-90.855
-02039,Creek,De Witt County,40.091,-88.869
-02253,Deer Park,LaSalle County,41.288,-88.991
-01183,Buda,Bureau County,41.326,-89.679
-08051,Spring Creek,Pike County,39.448,-90.737
-00585,Beaver,Iroquois County,40.900,-87.589
-01872,Condit,Champaign County,40.257,-88.280
-06214,Oak Grove,Rock Island County,41.411,-90.571
-02766,English,Jersey County,39.139,-90.423
-04447,Kilbourne,Mason County,40.170,-89.987
-04804,LeRoy,Boone County,42.447,-88.759
-07573,San Jose,Logan County,40.305,-89.605
-08564,Todds Point,Shelby County,39.544,-88.759
-02226,Dayton,LaSalle County,41.385,-88.794
-03057,Forest City,Mason County,40.340,-89.827
-07257,Rinard,Wayne County,38.571,-88.465
-00127,Allendale,Wabash County,38.527,-87.710
-01560,Chapin,Morgan County,39.766,-90.399
-02360,Dix,Jefferson County,38.442,-88.938
-05054,Lucas,Effingham County,38.956,-88.416
-08127,St. Rose,Clinton County,38.684,-89.555
-00126,Allens Grove,Mason County,40.283,-89.664
-00964,Bowen,Hancock County,40.233,-91.063
-00166,Altona,Knox County,41.115,-90.165
-06632,Perryton,Mercer County,41.288,-90.718
-01305,Camargo,Douglas County,39.800,-88.164
-08249,Stratton,Edgar County,39.615,-87.585
-00050,Aetna,Logan County,40.099,-89.203
-07677,Sciota,McDonough County,40.589,-90.732
-02741,Emden,Logan County,40.299,-89.485
-07809,Sheridan,Logan County,40.178,-89.544
-01726,Clement,Clinton County,38.618,-89.281
-04743,Leech,Wayne County,38.322,-88.200
-03506,Greene,Woodford County,40.798,-89.093
-00457,Banner,Effingham County,39.194,-88.638
-05124,Macomb,McDonough County,40.503,-90.613
-04352,Kansas,Woodford County,40.639,-89.110
-04978,Long Point,Livingston County,40.973,-88.873
-05678,Montezuma,Pike County,39.533,-90.628
-06170,Northern,Franklin County,38.076,-88.765
-06321,Omega,Marion County,38.695,-88.750
-00244,Apple River,Jo Daviess County,42.484,-90.139
-00274,Argyle,Boone County,42.355,-88.939
-03120,Fox,Jasper County,38.900,-88.106
-05329,Mayberry,Hamilton County,37.972,-88.442
-01188,Buffalo,Sangamon County,39.853,-89.409
-05590,Mineral,Bureau County,41.368,-89.795
-05993,New Haven,Gallatin County,37.839,-88.126
-09197,Wheatfield,Clinton County,38.697,-89.426
-00900,Bluffdale,Greene County,39.318,-90.528
-07972,Sonora,Hancock County,40.504,-91.303
-07912,Smallwood,Jasper County,38.900,-88.207
-01949,Cornell,Livingston County,40.990,-88.729
-00970,Bowling Green,Fayette County,39.193,-88.944
-06336,Ophir,LaSalle County,41.494,-88.983
-09498,Yorktown,Henry County,41.540,-89.917
-06686,Pierce,DeKalb County,41.848,-88.658
-09108,West,Effingham County,38.950,-88.757
-06824,Plymouth,Hancock County,40.292,-90.916
-03966,Hoffman,Clinton County,38.541,-89.264
-08403,Tallula,Menard County,39.944,-89.937
-04838,Licking,Crawford County,39.124,-87.894
-06189,Norwood,Peoria County,40.706,-89.699
-00206,Anderson,Clark County,39.304,-87.727
-00241,Appanoose,Hancock County,40.581,-91.302
-01596,Cherry,Bureau County,41.427,-89.213
-04747,Leaf River,Ogle County,42.126,-89.404
-06068,Newton,Whiteside County,41.712,-90.147
-08600,Towanda,McLean County,40.564,-88.899
-06319,Omaha,Gallatin County,37.885,-88.320
-06940,Prairieton,Christian County,39.611,-89.080
-04323,Joshua,Fulton County,40.589,-90.158
-06892,Portland,Whiteside County,41.618,-90.056
-00392,Ayers,Champaign County,39.923,-87.974
-02232,De Witt,De Witt County,40.168,-88.763
-03279,Georgetown,McDonough County,40.461,-90.718
-05445,Melvin,Ford County,40.568,-88.248
-03005,Flat Branch,Shelby County,39.559,-88.971
-02241,Decker,Richland County,38.635,-88.214
-03932,Hillsdale,Rock Island County,41.614,-90.173
-00316,Ash Grove,Shelby County,39.402,-88.523
-01757,Clyde,Whiteside County,41.882,-89.908
-07235,Ridge,Shelby County,39.479,-88.863
-04355,Karnak,Pulaski County,37.294,-88.975
-05659,Monroe Center,Ogle County,42.098,-89.001
-00688,Benson,Woodford County,40.851,-89.122
-00385,Avoca,Livingston County,40.807,-88.533
-03037,Floyd,Warren County,40.846,-90.499
-02301,Denver,Richland County,38.801,-88.205
-05550,Millbrook,Peoria County,40.926,-89.935
-01173,Buckner,Franklin County,37.983,-89.016
-06762,Pitman,Montgomery County,39.395,-89.644
-07222,Richland,Marshall County,40.972,-89.329
-05739,Moro,Madison County,38.925,-90.022
-07686,Scotland,McDonough County,40.404,-90.615
-05993,New Haven,Gallatin County,37.898,-88.127
-06532,Patterson,Greene County,39.472,-90.517
-09084,Weller,Henry County,41.192,-90.142
-06934,Prairie Creek,Logan County,40.270,-89.545
-04861,Lincoln,Ogle County,42.070,-89.569
-02616,Edgewood,Effingham County,38.921,-88.661
-01926,Copley,Knox County,41.026,-90.151
-07357,Rogers,Ford County,40.969,-88.190
-03615,Holland,Shelby County,39.249,-88.750
-08641,Trivoli,Peoria County,40.691,-89.892
-03211,Galesburg,Knox County,40.911,-90.411
-04082,Hull,Pike County,39.707,-91.207
-07466,Rush,Jo Daviess County,42.415,-90.043
-00887,Blue Mound,McLean County,40.530,-88.748
-07489,Ruyle,Jersey County,39.213,-90.193
-02088,Crouch,Hamilton County,38.219,-88.494
-06931,Prairie,Hancock County,40.408,-91.206
-00933,Bondville,Champaign County,40.113,-88.370
-02747,Eminence,Logan County,40.276,-89.317
-04372,Keith,Wayne County,38.584,-88.479
-02003,Covington,Washington County,38.439,-89.423
-07824,Shirley,McLean County,40.407,-89.063
-08852,Vermillion,LaSalle County,41.214,-88.993
-02790,Erin,Stephenson County,42.328,-89.779
-03880,Hickory Hill,Wayne County,38.424,-88.645
-07475,Russell,Lawrence County,38.816,-87.570
-04297,Johnson,Clark County,39.221,-87.946
-05283,Martinsburg,Pike County,39.532,-90.859
-06138,North Fork,Gallatin County,37.819,-88.320
-08827,Varna,Marshall County,41.036,-89.226
-05032,Lovejoy,Iroquois County,40.531,-87.710
-00013,Abington,Mercer County,41.113,-90.842
-01869,Concord,Iroquois County,40.824,-87.588
-00937,Bonnie,Jefferson County,38.203,-88.903
-01371,Carbon Hill,Grundy County,41.297,-88.300
-05431,Medora,Jersey County,39.177,-90.141
-02072,Crooked Creek,Cumberland County,39.224,-88.054
-09082,Weldon,De Witt County,40.121,-88.745
-04376,Kelly,Warren County,41.018,-90.503
-08870,Victoria,Knox County,41.019,-90.052
-00478,Barnett,De Witt County,40.174,-89.096
-02422,Dowell,Jackson County,37.940,-89.238
-02870,Fairfield,Bureau County,41.541,-89.802
-04325,Joy,Mercer County,41.197,-90.880
-01123,Browning,Schuyler County,40.145,-90.388
-07536,Salem,Carroll County,42.071,-89.924
-08220,Stonefort,Saline County,37.619,-88.660
-02150,Cutler,Perry County,38.032,-89.566
-03098,Foster,Marion County,38.781,-88.964
-04085,Hume,Whiteside County,41.709,-89.807
-04084,Humboldt,Coles County,39.604,-88.319
-05425,Media,Henderson County,40.763,-90.846
-05814,Mountain,Saline County,37.638,-88.432
-09431,Woodstock,Schuyler County,40.052,-90.619
-02916,Farmers,Fulton County,40.409,-90.396
-00627,Belgium,Vermilion County,40.061,-87.638
-04265,Jeffersonville,Wayne County,38.443,-88.404
-05851,Munson,Henry County,41.368,-90.145
-02551,East Fork,Clinton County,38.692,-89.208
-04943,Loda,Iroquois County,40.518,-88.072
-03464,Grandville,Jasper County,39.135,-88.002
-05405,Meacham,Marion County,38.789,-88.745
-07222,Richland,LaSalle County,41.149,-89.009
-03395,Good Hope,McDonough County,40.558,-90.673
-03706,Harmon,Lee County,41.715,-89.574
-06311,Olivet,Vermilion County,39.942,-87.644
-07090,Raymond,Champaign County,39.923,-88.066
-04565,La Prairie,Marshall County,41.015,-89.575
-09014,Washington,Carroll County,42.158,-90.163
-03548,Greenville,Bureau County,41.542,-89.673
-07302,Roberts,Ford County,40.613,-88.183
-00489,Berry,Wayne County,38.429,-88.528
-04319,Joppa,Massac County,37.206,-88.845
-06108,Nora,Jo Daviess County,42.434,-89.953
-08295,Summerfield,St. Clair County,38.597,-89.752
-06482,Panama,Bond County,39.029,-89.524
-06030,New Salem,McDonough County,40.407,-90.495
-05965,New Canton,Pike County,39.636,-91.096
-00274,Argyle,Boone County,42.360,-88.940
-09411,Woodland,Fulton County,40.228,-90.275
-08125,St. Peter,Fayette County,38.868,-88.854
-02063,Crittenden,Champaign County,39.916,-88.187
-07424,Round Grove,Livingston County,41.068,-88.306
-06118,Norman,Grundy County,41.306,-88.521
-01806,Cold Spring,Shelby County,39.302,-88.965
-03286,German,Richland County,38.799,-87.972
-03614,Hale,Warren County,40.930,-90.737
-06355,Orient,Franklin County,37.918,-88.978
-03009,Flat Rock,Crawford County,38.902,-87.672
-03552,Greenwood,McHenry County,42.393,-88.389
-04702,Latham,Logan County,39.969,-89.162
-05296,Mason,Effingham County,38.953,-88.624
-04085,Hume,Edgar County,39.797,-87.869
-07240,Ridgeland,Iroquois County,40.704,-88.073
-00457,Banner,Fulton County,40.503,-89.942
-05519,Middletown,Logan County,40.100,-89.591
-00564,Bear Creek,Hancock County,40.327,-91.199
-07312,Rock Creek,Hancock County,40.506,-91.194
-00635,Bell Plain,Marshall County,40.973,-89.210
-05533,Milan,DeKalb County,41.846,-88.877
-01774,Coalton,Montgomery County,39.283,-89.301
-04763,Lee,DeKalb County,41.795,-88.942
-06552,Paw Paw,DeKalb County,41.677,-88.882
-05161,Malden,Bureau County,41.424,-89.369
-00300,Arrington,Wayne County,38.366,-88.527
-03721,Harris,Fulton County,40.498,-90.393
-06603,Penn,Stark County,41.101,-89.687
-02582,Easton,Mason County,40.233,-89.843
-05154,Maine,Grundy County,41.240,-88.330
-00289,Armington,Tazewell County,40.339,-89.311
-01086,Broadlands,Champaign County,39.909,-87.994
-02706,Ellison,Warren County,40.762,-90.731
-07071,Ransom,LaSalle County,41.156,-88.650
-07463,Rural,Shelby County,39.474,-88.973
-02691,Elkhorn,Brown County,39.884,-90.741
-05780,Mount Clare,Macoupin County,39.099,-89.826
-08084,St. Albans,Hancock County,40.239,-91.217
-02972,Fillmore,Montgomery County,39.115,-89.279
-06340,Oran,Logan County,40.183,-89.204
-04402,Kenney,De Witt County,40.097,-89.086
-08899,Viola,Lee County,41.763,-89.108
-03707,Harmony,Hancock County,40.326,-91.094
-00433,Baldwin,Randolph County,38.183,-89.843
-06429,Owego,Livingston County,40.881,-88.520
-03236,Garden Prairie,Boone County,42.253,-88.725
-02939,Fayetteville,St. Clair County,38.378,-89.795
-02846,Ewing,Franklin County,38.089,-88.852
-01120,Broughton,Livingston County,40.979,-88.303
-04998,Loraine,Adams County,40.154,-91.222
-05725,Morgan,Coles County,39.598,-88.109
-09411,Woodland,Carroll County,42.153,-90.037
-00727,Bethel,McDonough County,40.324,-90.735
-07446,Rubicon,Greene County,39.393,-90.188
-01869,Concord,Adams County,39.974,-90.961
-00781,Bird,Macoupin County,39.300,-89.994
-07755,Seymour,Champaign County,40.107,-88.427
-08869,Victor,DeKalb County,41.667,-88.769
-08903,Virgil,Kane County,41.956,-88.537
-02071,Crook,Hamilton County,38.078,-88.433
-06315,Olmsted,Pulaski County,37.181,-89.089
-07442,Royal,Champaign County,40.193,-87.973
-07841,Sibley,Ford County,40.587,-88.381
-04913,Littleton,Schuyler County,40.234,-90.622
-08425,Tate,Saline County,37.886,-88.635
-08955,Walker,Hancock County,40.244,-91.313
-07051,Raleigh,Saline County,37.827,-88.532
-00202,Anchor,McLean County,40.529,-88.517
-03454,Grand Rapids,LaSalle County,41.238,-88.760
-09481,Yates,McLean County,40.721,-88.632
-05917,Nebo,Pike County,39.443,-90.791
-04910,Little York,Warren County,41.011,-90.746
-05550,Millbrook,Kendall County,41.598,-88.553
-05396,McNabb,Putnam County,41.177,-89.209
-02675,Elliott,Ford County,40.465,-88.272
-04881,Linn,Woodford County,40.882,-89.217
-07195,Reynolds,Lee County,41.839,-89.107
-08948,Waldo,Livingston County,40.798,-88.872
-01094,Brocton,Edgar County,39.716,-87.933
-01861,Compton,Lee County,41.694,-89.081
-06779,Plainville,Adams County,39.786,-91.185
-07655,Sawyerville,Macoupin County,39.078,-89.807
-08789,Valley,Stark County,41.018,-89.696
-01489,Cedar Point,LaSalle County,41.263,-89.126
-04788,Lenox,Warren County,40.848,-90.614
-04881,Lynn,Knox County,41.091,-90.039
-05172,Manchester,Scott County,39.542,-90.332
-05996,New Holland,Logan County,40.185,-89.581
-03899,Highland,Grundy County,41.145,-88.538
-05643,Mona,Ford County,40.894,-88.187
-04763,Lee,Brown County,39.968,-90.868
-00992,Bradford,Lee County,41.809,-89.217
-01670,Cisco,Piatt County,40.011,-88.726
-02015,Crab Orchard,Williamson County,37.729,-88.804
-02481,Duncan,Mercer County,41.278,-90.845
-03834,Henderson,Knox County,41.025,-90.356
-04998,Loraine,Henry County,41.540,-90.030
-03780,Hawthorne,White County,38.089,-88.069
-06803,Pleasant Ridge,Livingston County,40.795,-88.413
-00137,Allison,Lawrence County,38.719,-87.582
-01955,Cornwall,Henry County,41.363,-90.022
-00135,Allerton,Champaign County,39.916,-87.935
-00587,Beaver Creek,Hamilton County,38.172,-88.431
-03742,Hartsburg,Logan County,40.251,-89.441
-05139,May,Lee County,41.621,-89.338
-05220,Mapleton,Peoria County,40.566,-89.732
-02654,Elba,Knox County,40.839,-90.034
-00655,Bellmont,Wabash County,38.384,-87.911
-03623,Hadley,Pike County,39.717,-90.965
-08293,Summer Hill,Pike County,39.546,-90.919
-07641,Sargent,Douglas County,39.721,-88.038
-03671,Hancock,Hancock County,40.415,-90.966
-00707,Bernadotte,Fulton County,40.407,-90.272
-02396,Donovan,Iroquois County,40.883,-87.616
-04089,Hunter,Edgar County,39.671,-87.589
-05358,McClure,Alexander County,37.318,-89.431
-02154,Cypress,Johnson County,37.365,-89.018
-02714,Elm River,Wayne County,38.519,-88.309
-02938,Fayette,Livingston County,40.639,-88.399
-07077,Raritan,Henderson County,40.678,-90.846
-04263,Jefferson,Stephenson County,42.240,-89.891
-06699,Pilot Grove,Hancock County,40.507,-91.075
-09411,Woodland,Iroquois County,40.714,-87.731
-00833,Blairsville,Williamson County,37.811,-89.124
-02255,Deerfield,Fulton County,40.586,-90.266
-05363,McCook,Cook County,41.798,-87.845
-04972,Long Branch,Saline County,37.887,-88.539
-06378,Osage,LaSalle County,41.060,-88.989
-06601,Penfield,Champaign County,40.303,-87.947
-01243,Bush,Williamson County,37.843,-89.131
-07635,Saratoga,Marshall County,41.102,-89.584
-01230,Burns,Henry County,41.279,-90.031
-01162,Buck,Edgar County,39.640,-87.819
-01168,Buckingham,Kankakee County,41.047,-88.175
-07404,Rozetta,Henderson County,40.939,-90.837
-08352,Swan,Warren County,40.679,-90.612
-05768,Mound,McDonough County,40.497,-90.504
-00360,Auburn,Clark County,39.379,-87.805
-01817,Colfax,Champaign County,40.018,-88.400
-05031,Love,Vermilion County,39.917,-87.580
-06232,Oakford,Menard County,40.103,-89.963
-04350,Kangley,LaSalle County,41.146,-88.874
-05094,Lynchburg,Mason County,40.108,-90.268
-01358,Kappa,Woodford County,40.676,-89.008
-06865,Pope,Fayette County,38.778,-89.185
-00373,Austin,Macon County,40.006,-89.087
-00983,Boynton,Tazewell County,40.359,-89.434
-04101,Hurricane,Fayette County,39.185,-89.201
-04152,Indianola,Vermilion County,39.927,-87.740
-08141,Standard,Putnam County,41.257,-89.181
-06472,Palmer,Christian County,39.458,-89.404
-01971,Cottage,Saline County,37.734,-88.432
-05633,Modoc,Randolph County,38.053,-90.037
-04731,Lawrence,McHenry County,42.441,-88.641
-09108,West,McLean County,40.333,-88.623
-07549,Salt Creek,Mason County,40.174,-89.771
-08312,Sunbury,Livingston County,41.063,-88.642
-00577,Beason,Logan County,40.144,-89.193
-01613,Chestnut,Knox County,40.758,-90.286
-02678,Elizabethtown,Hardin County,37.446,-88.305
-08220,Stonefort,Saline County,37.622,-88.704
-09218,White City,Macoupin County,39.065,-89.763
-04461,King,Christian County,39.436,-89.504
-06691,Pike,Livingston County,40.792,-88.767
-05248,Marion,Lee County,41.715,-89.463
-00029,Adair,McDonough County,40.419,-90.497
-02164,Derry,Pike County,39.624,-90.973
-07713,Seaton,Mercer County,41.102,-90.802
-05327,Maxwell,Sangamon County,39.649,-89.916
-02135,Curran,Sangamon County,39.742,-89.772
-04050,Houston,Adams County,40.157,-91.093
-05459,Menominee,Jo Daviess County,42.488,-90.533
-07239,Ridgefield,McHenry County,42.268,-88.361
-04763,Lee,Fulton County,40.584,-90.388
-05583,Milton,Pike County,39.564,-90.650
-04670,Lanesville,Sangamon County,39.842,-89.335
-05164,Malone,Tazewell County,40.356,-89.660
-06931,Prairie,Edgar County,39.829,-87.596
-08858,Verona,Grundy County,41.218,-88.501
-03840,Henning,Vermilion County,40.305,-87.701
-05688,Montrose,Cumberland County,39.166,-88.378
-09433,Woodville,Greene County,39.229,-90.511
-05125,Macon,Bureau County,41.274,-89.674
-09087,Wellington,Iroquois County,40.539,-87.680
-03552,Greenwood,Christian County,39.393,-89.307
-08737,Union,Livingston County,40.972,-88.407
-07751,Seward,Winnebago County,42.236,-89.358
-04685,LaPlace,Piatt County,39.800,-88.718
-08852,Vermilion,Edgar County,39.581,-87.589
-03819,Hire,McDonough County,40.505,-90.843
-06572,Pearl,Pike County,39.450,-90.646
-02526,Eagle Point,Ogle County,41.978,-89.657
-03691,Hardin,Pike County,39.528,-90.747
-03218,Galt,Whiteside County,41.789,-89.762
-07133,Reddick,Kankakee County,41.098,-88.249
-04287,Jewett,Cumberland County,39.208,-88.246
-03751,Harvel,Montgomery County,39.393,-89.559
-06559,Pea Ridge,Brown County,40.061,-90.855
-00094,Alden,McHenry County,42.459,-88.518
-01310,Cameron,Warren County,40.889,-90.517
-00418,Baileyville,Ogle County,42.197,-89.593
-09156,West Union,Clark County,39.216,-87.666
-06507,Parkersburg,Richland County,38.590,-88.057
-07840,Shumway,Effingham County,39.185,-88.652
-08960,Wall,Ford County,40.538,-88.180
-07924,Smithfield,Fulton County,40.473,-90.292
-09304,Williamson,Madison County,38.986,-89.764
-07040,Radom,Washington County,38.282,-89.192
-02709,Ellsworth,McLean County,40.450,-88.717
-03659,Hamilton,Lee County,41.628,-89.574
-04362,Keensburg,Wabash County,38.351,-87.869
-01120,Broughton,Hamilton County,37.935,-88.462
-05385,McKee,Adams County,39.886,-90.991
-05545,Mill Shoals,Wayne County,38.250,-88.346
-08929,Waggoner,Montgomery County,39.378,-89.653
-05632,Modesto,Macoupin County,39.478,-89.982
-04386,Kempton,Ford County,40.936,-88.237
-09405,Woodburn,Macoupin County,39.047,-90.012
-03751,Harvel,Christian County,39.358,-89.532
-07325,Rockbridge,Greene County,39.269,-90.204
-02965,Fieldon,Jersey County,39.109,-90.498
-00080,Alba,Henry County,41.458,-89.913
-04207,Isabel,Fulton County,40.307,-90.157
-07783,Shawnee,Gallatin County,37.748,-88.084
-03417,Gorham,Jackson County,37.718,-89.486
-06124,Norris,Fulton County,40.626,-90.032
-00540,Baylis,Pike County,39.728,-90.908
-00285,Arlington,Bureau County,41.474,-89.249
-07875,Sims,Wayne County,38.360,-88.531
-01248,Butler,Montgomery County,39.199,-89.534
-02521,Eagle Creek,Gallatin County,37.648,-88.325
-01157,Bryant,Fulton County,40.466,-90.092
-07921,Smithboro,Bond County,38.896,-89.341
-01288,Calhoun,Richland County,38.650,-88.044
-06505,Parker,Clark County,39.387,-87.948
-08959,Walkerville,Greene County,39.405,-90.543
-08108,St. Johns,Perry County,38.031,-89.241
-02877,Fairmount,Pike County,39.793,-90.862
-04551,La Fayette,Stark County,41.108,-89.972
-07930,Smithville,Peoria County,40.660,-89.800
-01732,Cleveland,Henry County,41.506,-90.315
-04730,Lawndale,McLean County,40.621,-88.626
-06592,Pella,Ford County,40.807,-88.184
-09025,Waterford,Fulton County,40.322,-90.106
-02180,Dana,LaSalle County,40.958,-88.950
-02393,Donnellson,Bond County,39.031,-89.476
-08632,Trilla,Coles County,39.375,-88.350
-00105,Alexander,Morgan County,39.724,-90.038
-01907,Cooksville,McLean County,40.543,-88.716
-03117,Fowler,Adams County,40.008,-91.259
-05846,Muncie,Vermilion County,40.116,-87.845
-06608,Pennsylvania,Mason County,40.261,-89.771
-00418,Baileyville,Ogle County,42.198,-89.595
-06677,Pickaway,Shelby County,39.558,-88.864
-06941,Prairietown,Madison County,38.966,-89.922
-06985,Pulaski,Pulaski County,37.214,-89.206
-02867,Fairdale,DeKalb County,42.100,-88.933
-04421,Kerr,Champaign County,40.350,-87.969
-09338,Wilton Center,Will County,41.351,-87.960
-03970,Holcomb,Ogle County,42.065,-89.096
-07488,Rutledge,De Witt County,40.258,-88.757
-01869,Concord,Morgan County,39.817,-90.373
-02028,Crane Creek,Mason County,40.178,-89.872
-04584,Lafayette,Ogle County,41.910,-89.226
-02483,Dundas,Richland County,38.835,-88.085
-04465,Kings,Ogle County,42.004,-89.107
-02667,Eldred,Greene County,39.288,-90.552
-00702,Berlin,Sangamon County,39.759,-89.903
-01326,Campus,Livingston County,41.023,-88.306
-05304,Massilon,Wayne County,38.421,-88.201
-09150,West Point,Hancock County,40.255,-91.183
-05621,Missouri,Brown County,40.059,-90.742
-00786,Birmingham,Schuyler County,40.238,-90.853
-01126,Browns,Edwards County,38.377,-87.983
-09198,Wheatland,Bureau County,41.189,-89.499
-00133,Allenville,Moultrie County,39.556,-88.530
-03692,Harding,LaSalle County,41.515,-88.849
-06234,Oakland,Schuyler County,40.234,-90.508
-06835,Point Pleasant,Warren County,40.676,-90.731
-07819,Shiloh,Edgar County,39.749,-87.858
-00641,Belle Prairie,Livingston County,40.644,-88.517
-02666,Eldorado,McDonough County,40.316,-90.503
-02415,Douglas,Clark County,39.464,-87.737
-02929,Ferris,Hancock County,40.469,-91.170
-09334,Wilson,De Witt County,40.261,-88.871
-02734,Elwin,Macon County,39.852,-88.944
-01267,Cable,Mercer County,41.283,-90.507
-08089,St. Augustine,Knox County,40.718,-90.411
-01155,Brussels,Calhoun County,38.949,-90.589
-06093,Niota,Hancock County,40.617,-91.288
-04985,Longview,Champaign County,39.887,-88.066
-03335,Glasgow,Scott County,39.551,-90.480
-03887,Hidalgo,Jasper County,39.156,-88.147
-06272,Ohlman,Montgomery County,39.345,-89.219
-01405,Carson,Fayette County,39.150,-89.001
-02779,Eola,DuPage County,41.778,-88.243
-01613,Chestnut,Logan County,40.054,-89.185
-00220,Annapolis,Crawford County,39.144,-87.817
-02319,Dewey,Champaign County,40.319,-88.282
-03874,Hickory,Schuyler County,40.170,-90.271
-01240,Burton,Adams County,39.905,-91.249
-00312,Asbury,Gallatin County,37.885,-88.202
-04668,Lane,De Witt County,40.123,-88.856
-08250,Strawn,Livingston County,40.653,-88.396
-08856,Vernon,Marion County,38.802,-89.087
-04184,Iola,Clay County,38.834,-88.628
-05245,Marietta,Fulton County,40.501,-90.393
-02962,Fidelity,Jersey County,39.153,-90.165
-05892,Naples,Scott County,39.757,-90.607
-03655,Hamburg,Calhoun County,39.230,-90.718
-07697,Scottville,Macoupin County,39.480,-90.105
-08755,Unity,Alexander County,37.150,-89.273
-00631,Belknap,Johnson County,37.325,-88.939
-02603,Eddyville,Pope County,37.499,-88.588
-03019,Flint,Pike County,39.716,-90.669
-08455,Tennessee,McDonough County,40.412,-90.839
-09135,West Liberty,Jasper County,38.853,-88.084
-09200,Wheeler,Jasper County,39.047,-88.316
-04668,Lane,DeWitt County,40.123,-88.856
-08976,Walnut Hill,Marion County,38.477,-89.043
-04884,Lynnville,Morgan County,39.687,-90.346
-07478,Russellville,Lawrence County,38.819,-87.532
-04919,Liverpool,Fulton County,40.392,-90.001
-03938,Hillview,Greene County,39.451,-90.541
-02562,East Lynn,Vermilion County,40.466,-87.800
-04483,Kinsman,Grundy County,41.190,-88.570
-00497,Barstow,Rock Island County,41.518,-90.357
-09329,Wilmington,Greene County,39.481,-90.487
-06603,Penn,Shelby County,39.624,-88.865
-02852,Exeter,Scott County,39.721,-90.497
-09160,West York,Crawford County,39.171,-87.674
-02708,Ellisville,Fulton County,40.627,-90.305
-06411,Otterville,Jersey County,39.051,-90.398
-07390,Rose Hill,Jasper County,39.104,-88.147
-02544,East Brooklyn,Grundy County,41.173,-88.264
-04407,Kent,Stephenson County,42.309,-89.902
-00509,Basco,Hancock County,40.328,-91.200
-08018,Southwest,Crawford County,38.865,-87.871
-02524,Eagle Lake,Will County,41.367,-87.554
-04250,Janesville,Coles County,39.374,-88.244
-00030,Adams,Adams County,39.865,-91.198
-05954,New Bedford,Bureau County,41.513,-89.721
-02312,Detroit,Pike County,39.621,-90.677
-00737,Beverly,Adams County,39.793,-90.991
-04301,Johnsonville,Wayne County,38.522,-88.537
-04601,Lake City,Moultrie County,39.754,-88.720
-07269,Ripley,Brown County,40.032,-90.657
-09470,Yale,Jasper County,39.120,-88.025
-01384,Carman,Henderson County,40.741,-91.060
-04206,Irwin,Kankakee County,41.052,-87.984
-07109,Rector,Saline County,37.884,-88.427
-06895,Posey,Clinton County,38.537,-89.353
-01309,Camden,Schuyler County,40.154,-90.771
-00771,Bingham,Fayette County,39.114,-89.213
-03385,Golden Gate,Wayne County,38.359,-88.204
-08980,Walshville,Montgomery County,39.071,-89.619
-04250,Janesville,Coles County,39.375,-88.245
-08632,Trilla,Coles County,39.375,-88.351
-05543,Mill Creek,Union County,37.342,-89.253
-08583,Topeka,Mason County,40.330,-89.931
-04336,Junction,Gallatin County,37.723,-88.237
-05835,Muddy,Saline County,37.765,-88.517
-04384,Kemp,Douglas County,39.696,-88.185
-05559,Millersburg,Mercer County,41.241,-90.819
-08744,Union Hill,Kankakee County,41.108,-88.147
-04813,Levee,Pike County,39.725,-91.307
-00723,Berwick,Warren County,40.799,-90.538
-07411,Ross,Pike County,39.449,-90.960
-07876,Simpson,Johnson County,37.467,-88.755
-05478,Merritt,Scott County,39.714,-90.416
-06487,Panola,Woodford County,40.784,-89.021
-00854,Block,Champaign County,39.968,-88.086
-04565,La Prairie,Adams County,40.148,-91.003
-06664,Phillipstown,White County,38.142,-88.022
-00862,Bloomfield,Adams County,40.021,-91.307
-07342,Rockwood,Randolph County,37.841,-89.701
-01678,Clare,DeKalb County,42.016,-88.829
-02894,Fall Creek,Adams County,39.779,-91.302
-09099,Wenonah,Montgomery County,39.327,-89.289
-05112,Macedonia,Franklin County,38.054,-88.703
-00690,Bentley,Hancock County,40.344,-91.112
-05003,Lorenzo,Will County,41.347,-88.222
-06449,Paderborn,St. Clair County,38.360,-90.043
-07219,Richfield,Adams County,39.815,-91.116
-01666,Cincinnati,Pike County,39.629,-91.190
-05926,Nekoma,Henry County,41.173,-90.189
-03661,Hamlet,Mercer County,41.314,-90.735
-03707,Harmony,McHenry County,42.161,-88.526
-04474,Kingston,Adams County,39.817,-91.028
-03027,Florence,Pike County,39.627,-90.611
-04357,Kaskaskia,Randolph County,37.921,-89.913
-02435,Drake,Greene County,39.459,-90.474
-08793,Valley City,Pike County,39.707,-90.653
-05203,Manville,Livingston County,41.055,-88.766
-03811,Heathsville,Crawford County,38.897,-87.568
-05698,Moonshine,Clark County,39.197,-87.901
-00041,Aden,Hamilton County,38.242,-88.458
-00046,Adrian,Hancock County,40.521,-91.167
-00050,Etna,Coles County,39.389,-88.420
-00063,Aiken,Jo Daviess County,42.352,-90.415
-00073,Akron,Peoria County,40.904,-89.654
-00132,Allentown,Tazewell County,40.556,-89.397
-00158,Alta,Peoria County,40.811,-89.634
-00163,Altmar,LaSalle County,41.142,-88.892
-00186,Amenia,Piatt County,40.022,-88.666
-00187,America,Pulaski County,37.138,-89.124
-00189,Ames,Monroe County,38.147,-90.054
-00204,Ancona,Livingston County,41.041,-88.873
-00206,Anderson,Cass County,39.982,-90.159
-00206,Anderson,Macoupin County,39.344,-89.845
-00209,Andrew,Sangamon County,39.896,-89.640
-00260,Arcadia,Morgan County,39.839,-90.245
-00262,Archer,Sangamon County,39.781,-89.736
-00292,Armstrong,Vermilion County,40.306,-87.878
-00297,Arnold,Carroll County,42.170,-90.226
-00297,Arnold,Morgan County,39.721,-90.145
-00351,Atlas,Pike County,39.514,-90.969
-00355,Atwater,Macoupin County,39.333,-89.725
-00366,Augsburg,Fayette County,38.867,-89.013
-00392,Ayers,Bond County,38.964,-89.452
-00392,Ayers,Carroll County,42.054,-90.116
-00401,Babylon,Fulton County,40.591,-90.349
-00423,Baker,LaSalle County,41.556,-88.811
-00428,Bakerville,Jefferson County,38.258,-88.897
-00428,Bakerville,Logan County,40.063,-89.197
-00441,Ballou,Will County,41.278,-88.102
-00468,Barclay,Sangamon County,39.875,-89.518
-00476,Barnes,McLean County,40.503,-88.902
-00482,Barnhill,Wayne County,38.284,-88.364
-00488,Barr,Macoupin County,39.405,-90.104
-00488,Barr,Sangamon County,39.962,-89.697
-00489,Berry,Sangamon County,39.713,-89.471
-00521,Bates,Sangamon County,39.724,-89.849
-00532,Bay City,Pope County,37.249,-88.497
-00555,Beechville,Calhoun County,38.971,-90.647
-00579,Beaty,Fulton County,40.275,-90.246
-00587,Beaver Creek,Bond County,38.767,-89.394
-00616,Bell,Logan County,40.192,-89.388
-00620,Belden,McHenry County,42.474,-88.347
-00637,Bellair,Crawford County,39.142,-87.945
-00647,Belleview,Calhoun County,39.351,-90.781
-00659,Belltown,Greene County,39.384,-90.409
-00686,Bennington,Edwards County,38.524,-88.131
-00695,Benville,Brown County,39.864,-90.865
-00718,Berryville,Richland County,38.599,-87.929
-00743,Bible Grove,Clay County,38.872,-88.446
-00746,Big Bay,Massac County,37.317,-88.722
-00751,Big Foot Prairie,McHenry County,42.495,-88.599
-00766,Biggs,Mason County,40.241,-89.904
-00772,Binghampton,Lee County,41.717,-89.304
-00791,Bishop,Mason County,40.346,-89.875
-00795,Bissell,Sangamon County,39.846,-89.582
-00798,Black,Edwards County,38.468,-88.103
-00817,Blackhawk,Carroll County,42.188,-90.224
-00824,Blackstone,Livingston County,41.084,-88.691
-00830,Blaine,Boone County,42.447,-88.803
-00831,Blair,Livingston County,41.103,-88.309
-00831,Blair,Randolph County,38.045,-89.742
-00833,Blairsville,Hamilton County,38.168,-88.464
-00835,Blakes,LaSalle County,41.459,-88.753
-00842,Blanding,Jo Daviess County,42.275,-90.386
-00862,Bloomfield,Johnson County,37.453,-88.875
-00862,Bloomfield,Scott County,39.652,-90.556
-00890,Blue Ridge,Piatt County,40.268,-88.488
-00897,Bluff City,Fayette County,38.964,-89.046
-00897,Bluff City,Schuyler County,40.180,-90.230
-00899,Bluff Springs,Cass County,39.988,-90.346
-00904,Boaz,Massac County,37.292,-88.900
-00906,Bobtown,Menard County,40.076,-89.988
-00907,Boden,Mercer County,41.258,-90.587
-00912,Bogota,Jasper County,38.918,-88.240
-00925,Bolivia,Christian County,39.742,-89.347
-00927,Bolton,Stephenson County,42.242,-89.725
-00955,Boulder,Clinton County,38.697,-89.226
-00959,Bourbon,Douglas County,39.746,-88.379
-00968,Bowes,Kane County,42.008,-88.391
-00988,Bradbury,Cumberland County,39.324,-88.243
-00991,Braden,Hamilton County,37.996,-88.616
-01026,Breckenridge,Hancock County,40.244,-91.287
-01026,Breckenridge,Sangamon County,39.699,-89.448
-01032,Bremen,Jo Daviess County,42.401,-90.414
-01032,Bremen,Randolph County,37.971,-89.747
-01049,Bryce,Iroquois County,40.634,-87.757
-01078,Bristol,Kendall County,41.686,-88.428
-01087,Broadmoor,Marshall County,41.146,-89.629
-01109,Brooklyn,Schuyler County,40.226,-90.763
-01117,Brookville,Ogle County,42.049,-89.684
-01122,Brownfield,Pope County,37.346,-88.607
-01135,Brownsville,White County,38.041,-88.245
-01141,Bruce,Moultrie County,39.519,-88.594
-01165,Buckhart,Sangamon County,39.750,-89.445
-01167,Buckhorn,Brown County,39.937,-90.836
-01174,Bucks,DeWitt County,40.265,-88.970
-01182,Budd,Livingston County,41.099,-88.623
-01187,Buena Vista,Stephenson County,42.426,-89.678
-01192,Buffalo Grove,Ogle County,41.981,-89.595
-01216,Burgess,Mercer County,41.127,-90.641
-01217,Burke,Carroll County,42.051,-90.037
-01220,Burksville,Monroe County,38.267,-90.153
-01224,Burlingame,Cass County,39.924,-90.163
-01231,Burnside,Hancock County,40.504,-91.100
-01247,Bushton,Coles County,39.592,-88.139
-01269,Cache,Alexander County,37.100,-89.261
-01272,Cadiz,Hardin County,37.579,-88.226
-01317,Campbell,Coles County,39.396,-88.211
-01398,Kerrick,McLean County,40.553,-88.987
-01430,Casner,Macon County,39.800,-88.791
-01444,Castleton,Stark County,41.118,-89.706
-01453,Catharine,LaSalle County,41.523,-88.719
-01468,Cayuga,Livingston County,40.941,-88.584
-01470,Cazenovia,Woodford County,40.850,-89.332
-01509,Center Hill,Carroll County,42.081,-90.046
-01519,Centerville,Calhoun County,38.930,-90.572
-01519,Centerville,Knox County,41.064,-90.054
-01545,Chambersburg,Pike County,39.817,-90.657
-01562,Chapman,Montgomery County,39.106,-89.317
-01571,Charlotte,Livingston County,40.820,-88.289
-01581,Chauncey,Lawrence County,38.835,-87.871
-01582,Chautauqua,Jersey County,38.964,-90.386
-01592,Cheneyville,Vermilion County,40.469,-87.585
-01612,Chesterville,Douglas County,39.703,-88.391
-01622,Chicken Bristle,Douglas County,39.836,-88.367
-01629,Chili,Hancock County,40.218,-91.142
-01645,Choctaw,Clark County,39.282,-87.721
-01680,Clarence,Ford County,40.464,-87.971
-01685,Clarion,Bureau County,41.505,-89.192
-01693,Clarksburg,Shelby County,39.330,-88.742
-01694,Clarksdale,Christian County,39.489,-89.368
-01697,Clarksville,Clark County,39.452,-87.798
-01710,Claytonville,Iroquois County,40.567,-87.823
-01723,Cleburne,Franklin County,37.936,-89.054
-01730,Cleone,Clark County,39.423,-87.907
-01733,Cliffdale,Calhoun County,39.361,-90.626
-01735,Clifford,Williamson County,37.824,-89.077
-01753,Cloverdale,DuPage County,41.939,-88.120
-01765,Coal Hollow,Bureau County,41.366,-89.363
-01795,Kaufman,Madison County,38.862,-89.777
-01815,Coles,Coles County,39.520,-88.471
-01832,Colmar,McDonough County,40.345,-90.891
-01850,Colusa,Hancock County,40.571,-91.168
-01863,Conant,Perry County,38.056,-89.482
-01880,Confidence,Fayette County,38.923,-88.926
-01898,Conrad,Calhoun County,38.925,-90.617
-01905,Cooks Mills,Coles County,39.583,-88.406
-01917,Cooper,Tazewell County,40.660,-89.404
-01919,Cooperstown,Brown County,39.964,-90.606
-01930,Cora,Jackson County,37.740,-89.442
-01942,Corinth,Williamson County,37.819,-88.776
-01972,Cottage Grove,Saline County,37.748,-88.411
-01983,Cottonwood,Gallatin County,37.889,-88.213
-01990,Council Hill,Jo Daviess County,42.489,-90.354
-02022,Crain,Jackson County,37.780,-89.508
-02067,Croft,Menard County,40.048,-89.588
-02084,Crossroads,Johnson County,37.349,-88.817
-02103,Cruger,Woodford County,40.722,-89.310
-02104,Cruse,Clay County,38.822,-88.678
-02124,Culver,Menard County,40.007,-89.687
-02141,Curtis,Menard County,40.062,-89.790
-02163,Dailey,Champaign County,40.239,-87.948
-02169,Dale,Hamilton County,37.995,-88.492
-02177,Damascus,Stephenson County,42.372,-89.706
-02179,Damon,Brown County,40.083,-90.830
-02205,Darmstadt,St. Clair County,38.321,-89.732
-02207,Darwin,Clark County,39.283,-87.612
-02225,Daysville,Ogle County,41.984,-89.318
-02226,Dayton,Henry County,41.489,-90.321
-02242,Decorra,Henderson County,40.728,-90.970
-02259,Dees,Cumberland County,39.223,-88.159
-02266,Delafield,Hamilton County,38.148,-88.603
-02274,Delhi,Jersey County,39.045,-90.256
-02282,DeLong,Knox County,40.817,-90.304
-02285,Delta,Saline County,37.684,-88.703
-02290,Dennison,Clark County,39.461,-87.598
-02291,Denmark,Perry County,37.998,-89.497
-02295,Denny,Perry County,38.047,-89.327
-02301,Denver,Hancock County,40.291,-91.107
-02304,Derby,Ford County,40.442,-88.442
-02304,Derby,Saline County,37.629,-88.386
-02322,Dexter,Effingham County,39.081,-88.683
-02327,Diamond Lake,Lake County,42.244,-88.010
-02333,Dickerson,Champaign County,40.318,-88.422
-02345,Dillon,Tazewell County,40.477,-89.538
-02348,Dillsburg,Champaign County,40.316,-88.079
-02354,Disco,Hancock County,40.620,-91.021
-02359,Divide,Jefferson County,38.447,-88.830
-02362,Dixon Springs,Pope County,37.384,-88.669
-02370,Doddsville,McDonough County,40.278,-90.652
-02377,Dog Walk,Williamson County,37.759,-88.933
-02379,Dogwood,Crawford County,39.064,-87.891
-02407,Dorsey,Madison County,38.974,-90.001
-02415,Douglas,Knox County,40.786,-90.084
-02415,Douglas,St. Clair County,38.424,-89.983
-02421,Dow,Jersey County,39.013,-90.342
-02440,Dressor,Fayette County,39.173,-89.051
-02453,Dry Hill,Jackson County,37.817,-89.553
-02467,Dudleyville,Bond County,38.824,-89.418
-02481,Duncan,Stark County,40.984,-89.789
-02482,Duncanville,Crawford County,38.955,-87.696
-02487,Dunkel,Christian County,39.468,-89.063
-02493,Dunn,Moultrie County,39.626,-88.692
-02503,Durham,Hancock County,40.597,-91.090
-02517,Egan,Ogle County,42.187,-89.406
-02518,Eagle,Saline County,37.651,-88.393
-02602,Eddy,Lake County,42.461,-87.898
-02604,Eden,Peoria County,40.689,-89.833
-02604,Eden,Randolph County,38.121,-89.668
-02607,Edgar,Edgar County,39.756,-87.701
-02616,Edgewood,Boone County,42.241,-88.921
-02632,Edwards,Peoria County,40.746,-89.744
-02636,Effner,Iroquois County,40.771,-87.526
-02654,Elba,Gallatin County,37.826,-88.326
-02658,Elbow,Richland County,38.642,-88.122
-02661,Elco,Alexander County,37.301,-89.266
-02663,Elderville,Hancock County,40.330,-91.295
-02669,Eleanor,Warren County,40.983,-90.695
-02696,Elkton,Washington County,38.292,-89.557
-02701,Ellery,Edwards County,38.355,-88.149
-02704,Ellis,Christian County,39.590,-89.529
-02720,Elmira,Stark County,41.180,-89.832
-02723,Elmore,Peoria County,40.957,-89.977
-02733,Elvira,Johnson County,37.493,-89.029
-02738,Embarrass,Coles County,39.517,-88.091
-02746,Emery,Macon County,39.979,-88.951
-02748,Emma,White County,37.975,-88.120
-02785,Epworth,White County,38.071,-88.106
-02801,Esmond,DeKalb County,42.034,-88.936
-02832,Evans,Logan County,40.222,-89.364
-02835,Evarts,Stephenson County,42.253,-89.474
-02853,Exline,Kankakee County,41.150,-87.768
-02859,Fair Haven,Carroll County,41.946,-89.929
-02873,Fairland,Douglas County,39.876,-88.102
-02911,Fargo,Brown County,39.974,-90.855
-02920,Farmingdale,Sangamon County,39.823,-89.806
-02928,Farrington,Clark County,39.470,-87.546
-02950,Fenton,Whiteside County,41.731,-90.030
-02990,Fishhook,Pike County,39.806,-90.885
-03000,Five Points,DeKalb County,42.002,-88.740
-03001,Flagg,Ogle County,41.896,-89.141
-03017,Fletcher,McLean County,40.527,-88.784
-03027,Florence,Stephenson County,42.214,-89.660
-03035,Flowerfield,DuPage County,41.867,-88.034
-03103,Fountain,Monroe County,38.362,-90.283
-03105,Fountain Green,Hancock County,40.476,-90.969
-03120,Fox,Kendall County,41.623,-88.500
-03138,Franklinville,McHenry County,42.277,-88.511
-03139,Franks,DeKalb County,41.711,-88.680
-03145,Frederick,Schuyler County,40.070,-90.429
-03154,Freeman,Kane County,42.125,-88.388
-03172,Friendsville,Wabash County,38.503,-87.816
-03176,Frisco,Franklin County,38.113,-88.778
-03193,Fuller,Coles County,39.594,-88.470
-03194,Fullerton,DeWitt County,40.210,-88.744
-03197,Funkhouser,Effingham County,39.094,-88.621
-03200,Future City,Alexander County,37.029,-89.188
-03203,Gale,Alexander County,37.249,-89.448
-03212,Galesville,Piatt County,40.155,-88.556
-03241,Garfield,LaSalle County,41.085,-88.956
-03279,Georgetown,Carroll County,42.140,-89.829
-03283,Gerald,Champaign County,40.271,-87.930
-03311,Gilchrist,Fulton County,40.647,-90.040
-03311,Gilchrist,Mercer County,41.205,-90.624
-03312,Gilead,Calhoun County,39.124,-90.667
-03313,Guilford,Jo Daviess County,42.417,-90.300
-03323,Gilmer,Lake County,42.235,-88.046
-03324,Gilmore,Bond County,38.978,-89.620
-03324,Gilmore,Effingham County,38.987,-88.718
-03337,Glenn,Jackson County,37.804,-89.581
-03352,Glendale,Pope County,37.456,-88.671
-03374,Glover,Champaign County,40.114,-88.019
-03404,Goodrich,Kankakee County,41.109,-88.058
-03413,Gordon,Crawford County,39.008,-87.685
-03468,Grange Hall,Lake County,42.364,-87.963
-03478,Grantsburg,Johnson County,37.391,-88.747
-03485,Grass Lake,Lake County,42.446,-88.136
-03524,Green River,Henry County,41.476,-90.319
-03532,Greenbush,Warren County,40.712,-90.535
-03534,Greendale,Clay County,38.630,-88.698
-03551,Greenwich,Kankakee County,41.118,-87.927
-03575,Gross,Hardin County,37.533,-88.291
-03580,Grove City,Christian County,39.707,-89.297
-03582,Groveland,Tazewell County,40.591,-89.533
-03595,Gulfport,Henderson County,40.814,-91.086
-03608,Guthrie,Ford County,40.508,-88.325
-03625,Hagaman,Macoupin County,39.310,-90.078
-03651,Hallsville,DeWitt County,40.151,-89.093
-03655,Hamburg,Bond County,38.866,-89.275
-03704,Harlem,Winnebago County,42.340,-89.018
-03707,Harmony,Jefferson County,38.407,-88.793
-03712,Herald,White County,37.966,-88.181
-03713,Harper,Ogle County,42.141,-89.647
-03724,Harrison,Winnebago County,42.427,-89.191
-03727,Harrisonville,Monroe County,38.278,-90.350
-03731,Herod,Pope County,37.580,-88.436
-03744,Hartshorn,Vermilion County,40.130,-87.705
-03785,Hayes,Douglas County,39.862,-88.281
-03796,Hazel Dell,Cumberland County,39.202,-88.041
-03800,Hazelhurst,Carroll County,41.963,-89.686
-03836,Hendrix,McLean County,40.419,-88.978
-03879,Hickory Grove,Adams County,39.938,-91.315
-03879,Hickory Grove,Carroll County,42.060,-90.067
-03883,Hicks,Hardin County,37.543,-88.376
-03922,Hill Top,Menard County,39.989,-89.883
-03923,Hillcrest,Douglas County,39.786,-88.280
-03945,Hines,Cook County,41.854,-87.839
-03955,Hitt,Carroll County,41.995,-89.736
-03955,Hitt,LaSalle County,41.317,-88.856
-03957,Hord,Clay County,38.884,-88.521
-03972,Holder,McLean County,40.451,-88.804
-04017,Hoosier,Clay County,38.804,-88.455
-04019,Hope,Vermilion County,40.206,-87.904
-04028,Hopper,Henderson County,40.786,-90.991
-04050,Houston,Randolph County,38.159,-89.781
-04080,Hugo,Douglas County,39.754,-88.149
-04089,Hunter,Boone County,42.429,-88.871
-04098,Huntsville,Schuyler County,40.191,-90.864
-04107,Hutton,Coles County,39.413,-88.084
-04119,Ideal,Carroll County,41.975,-89.988
-04123,Illinoi,Kankakee County,41.190,-87.526
-04140,Indian Hill,Cook County,42.094,-87.724
-04194,Irene,Boone County,42.170,-88.900
-04207,Isabel,Edgar County,39.655,-87.950
-04212,Island Grove,Jasper County,39.102,-88.335
-04212,Island Grove,Sangamon County,39.724,-89.961
-04225,Ivanhoe,Lake County,42.279,-88.042
-04241,Jamaica,Vermilion County,39.991,-87.807
-04244,Jamesburg,Vermilion County,40.262,-87.749
-04247,Jamestown,Clinton County,38.735,-89.519
-04268,Jenkins,DeWitt County,40.153,-89.034
-04289,Jimtown,Champaign County,39.902,-88.364
-04304,Johnstown,Cumberland County,39.363,-88.287
-04311,Jones,Coles County,39.453,-88.336
-04317,Jonesville,LaSalle County,41.311,-89.071
-04367,Kedron,Gallatin County,37.666,-88.341
-04375,Kellerville,Adams County,39.931,-90.934
-04385,Kemper,Jersey County,39.216,-90.164
-04398,Kennedy,Lake County,42.242,-87.871
-04399,Kenner,Clay County,38.646,-88.568
-04440,Kibbie,Crawford County,39.070,-87.938
-04441,Kickapoo,Peoria County,40.790,-89.751
-04465,Kings,Coles County,39.679,-87.985
-04491,Kirksville,Moultrie County,39.571,-88.668
-04500,Kittredge,Carroll County,42.133,-89.779
-04504,Klondike,Alexander County,37.063,-89.232
-04549,La Crosse,Hancock County,40.529,-91.023
-04555,La Grange,Brown County,39.947,-90.537
-04567,La Rue,Union County,37.546,-89.454
-04605,Lake Fork,Logan County,39.971,-89.350
-04617,Lake of the Woods,Peoria County,40.840,-89.605
-04641,Lakeview,Saline County,37.672,-88.616
-04644,Lakewood,DuPage County,41.917,-88.198
-04644,Lakewood,Mason County,40.247,-90.085
-04644,Lakewood,Shelby County,39.325,-88.899
-04651,Lamb,Hardin County,37.532,-88.125
-04660,Lancaster,Wabash County,38.548,-87.865
-04665,Landes,Crawford County,38.865,-87.889
-04675,Langley,Bureau County,41.369,-89.688
-04706,Latona,Jasper County,38.981,-88.312
-04713,Laura,Peoria County,40.921,-89.926
-04728,Lawler,Gallatin County,37.728,-88.286
-04736,Layfield,Perry County,38.106,-89.435
-04767,Leeds,LaSalle County,41.021,-88.988
-04771,Leesburg,Fulton County,40.247,-90.317
-04772,Leesville,Kankakee County,41.025,-87.625
-04777,Lehigh,Kankakee County,41.110,-88.018
-04817,Leverett,Champaign County,40.189,-88.210
-04822,Lewisburg,Menard County,39.970,-89.832
-04831,Liberty,Saline County,37.720,-88.572
-04834,Liberty Hill,Cumberland County,39.201,-88.154
-04857,Limerick,Bureau County,41.495,-89.467
-04895,Little America,Fulton County,40.406,-90.034
-04906,Little Rock,Kendall County,41.717,-88.576
-04914,Lytleville,McLean County,40.342,-88.956
-04920,Livingston,Clark County,39.407,-87.646
-04923,Loyd,Menard County,39.915,-89.854
-04944,Lodge,Piatt County,40.106,-88.560
-04948,Logan,Edgar County,39.737,-87.605
-04991,Loogootee,Fayette County,38.905,-88.854
-04995,Loon Lake,Lake County,42.447,-88.090
-05023,Lotus,Champaign County,40.319,-88.456
-05044,Lowell,LaSalle County,41.251,-89.011
-05054,Lucas,Logan County,40.307,-89.368
-05142,Magnet,Coles County,39.439,-88.398
-05187,Manley,Fulton County,40.584,-90.426
-05210,Maple Grove,Edwards County,38.533,-88.094
-05227,Marblehead,Adams County,39.840,-91.369
-05228,Marbletown,Fulton County,40.231,-90.197
-05237,Markham,Morgan County,39.746,-90.328
-05238,Marcus,Carroll County,42.158,-90.196
-05248,Marion,Edwards County,38.551,-88.108
-05264,Marquette,Bureau County,41.331,-89.263
-05276,Marston,Mercer County,41.307,-90.802
-05310,Matthews,Perry County,37.968,-89.374
-05319,Maud,Wabash County,38.398,-87.855
-05329,Mayberry,Wayne County,38.271,-88.549
-05340,Maysville,Pike County,39.708,-90.799
-05342,Mayview,Champaign County,40.113,-88.110
-05353,McCall,Hancock County,40.453,-91.197
-05359,McClusky,Jersey County,39.043,-90.320
-05361,McConnell,Stephenson County,42.434,-89.731
-05365,McCormick,Pope County,37.551,-88.671
-05376,McDowell,Livingston County,40.831,-88.585
-05384,McKeen,Clark County,39.458,-87.614
-05413,Meadowbrook,Madison County,38.898,-90.006
-05416,Meadows,McLean County,40.744,-88.805
-05443,Melrose,Clark County,39.223,-87.764
-05449,Menard,Randolph County,37.910,-89.840
-05468,Meriden,LaSalle County,41.571,-89.035
-05471,Merna,McLean County,40.517,-88.826
-05476,Merrimac,Monroe County,38.371,-90.333
-05493,Meyer,Adams County,40.148,-91.504
-05502,Middle Creek,Hancock County,40.373,-91.027
-05524,Midland City,DeWitt County,40.145,-89.134
-05528,Midway,Christian County,39.670,-89.159
-05528,Midway,Madison County,38.929,-89.972
-05528,Midway,Massac County,37.240,-88.634
-05528,Midway,Tazewell County,40.519,-89.662
-05528,Midway,Vermilion County,40.016,-87.638
-05531,Milla,LaSalle County,41.141,-88.983
-05551,Millburn,Lake County,42.426,-88.004
-05557,Miller City,Alexander County,37.111,-89.356
-05562,Millersville,Christian County,39.451,-89.158
-05580,Milo,Bureau County,41.193,-89.582
-05612,Mira,Champaign County,40.084,-88.162
-05629,Moccasin,Effingham County,39.147,-88.758
-05631,Modena,Stark County,41.135,-89.763
-05645,Monaville,Lake County,42.399,-88.111
-05660,Monroe City,Monroe County,38.256,-90.266
-05674,Monterey,Fulton County,40.531,-89.946
-05719,Morea,Crawford County,38.927,-87.632
-05733,Moriah,Clark County,39.217,-87.939
-05749,Morse,Stark County,41.230,-89.645
-05763,Mossville,Peoria County,40.816,-89.568
-05778,Mount Carbon,Jackson County,37.752,-89.321
-05849,Munger,DuPage County,41.964,-88.223
-05849,Munger,Pike County,39.757,-91.322
-05852,Munster,LaSalle County,41.106,-88.903
-05853,Murdock,Douglas County,39.801,-88.078
-05894,Narita,Logan County,39.983,-89.219
-05914,Neal,Cumberland County,39.302,-88.342
-05944,Nevada,Livingston County,41.086,-88.551
-05946,Nevins,Edgar County,39.534,-87.639
-05970,New City,Sangamon County,39.669,-89.539
-05971,New Columbia,Massac County,37.311,-88.775
-05976,New Delhi,Jersey County,39.032,-90.261
-05990,New Hanover,Monroe County,38.387,-90.227
-05994,New Hebron,Crawford County,38.950,-87.744
-05998,New Hope,Saline County,37.794,-88.689
-06002,New Lebanon,DeKalb County,42.099,-88.603
-06004,New Liberty,Pope County,37.122,-88.448
-06014,New Palestine,Randolph County,37.996,-89.821
-06048,Newburg,Macon County,39.981,-88.804
-06049,Newbern,Jersey County,39.007,-90.337
-06063,Newmansville,Cass County,40.003,-90.012
-06071,Newtown,Vermilion County,40.167,-87.769
-06119,Normandy,Bureau County,41.562,-89.649
-06180,Northville,LaSalle County,41.563,-88.705
-06186,Norway,LaSalle County,41.466,-88.664
-06201,Nutwood,Jersey County,39.085,-90.556
-06225,Oak Point,Clark County,39.211,-87.976
-06237,Oakley,Macon County,39.876,-88.806
-06301,Olena,Henderson County,40.786,-90.939
-06310,Oliver,Edgar County,39.484,-87.681
-06310,Oliver,Whiteside County,41.801,-90.068
-06326,Oneco,Stephenson County,42.487,-89.664
-06331,Ontario,Knox County,41.079,-90.308
-06341,Orange,Clark County,39.207,-87.821
-06346,Oraville,Jackson County,37.865,-89.383
-06390,Oskaloosa,Clay County,38.760,-88.649
-06439,Ozark,Johnson County,37.542,-88.763
-06450,Padua,McLean County,40.450,-88.764
-06455,Paineville,Williamson County,37.809,-89.002
-06466,Palisades,DuPage County,41.714,-87.934
-06467,Palm Beach,Lake County,42.377,-88.197
-06473,Palmerton,Cass County,40.001,-90.149
-06475,Palmyra,Lee County,41.852,-89.578
-06479,Paloma,Adams County,40.023,-91.195
-06493,Paradise,Coles County,39.410,-88.437
-06506,Parker City,Johnson County,37.568,-88.798
-06508,Parkland,Tazewell County,40.462,-89.751
-06513,Parkville,Champaign County,39.892,-88.361
-06518,Parnell,DeWitt County,40.223,-88.721
-06521,Parrish,Franklin County,37.941,-88.813
-06531,Passport,Richland County,38.789,-88.244
-06537,Patton,Clark County,39.477,-87.559
-06541,Patterson Springs,Douglas County,39.792,-88.193
-06544,Pattonsburg,Marshall County,40.938,-89.184
-06549,Pauline,Champaign County,40.127,-88.006
-06577,Pierson,Piatt County,39.798,-88.528
-06634,Pershing,Franklin County,37.880,-88.965
-06644,Peterstown,LaSalle County,41.498,-89.147
-06645,Petersville,Mercer County,41.279,-90.939
-06648,Petrolia,Lawrence County,38.761,-87.779
-06662,Philadelphia,Cass County,39.924,-90.117
-06674,Piasa,Macoupin County,39.116,-90.124
-06691,Pike,Pike County,39.460,-91.035
-06759,Pisgah,Morgan County,39.669,-90.126
-06764,Pittsburg,Fayette County,38.871,-89.212
-06778,Plainview,Macoupin County,39.159,-89.990
-06794,Pleasant Grove,Johnson County,37.441,-89.030
-06798,Pleasant Mound,Bond County,38.863,-89.290
-06806,Pleasant Valley,Jo Daviess County,42.226,-90.027
-06839,Polk,Will County,41.312,-87.608
-06847,Polsgrove,Carroll County,42.168,-90.024
-06850,Pomona,Jackson County,37.628,-89.337
-06854,Pond,Johnson County,37.445,-88.833
-06860,Ponemah,Warren County,40.821,-90.706
-06890,Porterville,Crawford County,39.090,-87.801
-06894,Posen,Washington County,38.258,-89.336
-06920,Powellton,Hancock County,40.536,-91.269
-06931,Prairie,Randolph County,38.173,-89.943
-06932,Prairie Center,LaSalle County,41.469,-88.934
-06939,Prairie View,Boone County,42.196,-88.903
-06939,Prairie View,Lake County,42.199,-87.963
-06955,Preston,Randolph County,38.106,-89.860
-06973,Prospect,Champaign County,40.319,-88.213
-06981,Providence,Bureau County,41.278,-89.593
-06995,Putnam,Putnam County,41.185,-89.396
-06998,Pyramid,Washington County,38.334,-89.228
-07034,Radford,Christian County,39.578,-89.034
-07066,Randolph,McLean County,40.376,-88.980
-07080,Raven,Edgar County,39.804,-87.546
-07100,Reader,Macoupin County,39.306,-90.041
-07124,Red Oak,Stephenson County,42.392,-89.672
-07129,Red Top,Edwards County,38.372,-88.026
-07156,Reevesville,Johnson County,37.343,-88.720
-07174,Reno,Bond County,38.975,-89.514
-07196,Reynoldsburg,Johnson County,37.515,-88.776
-07197,Reynoldsville,Union County,37.367,-89.395
-07206,Rice,Jo Daviess County,42.339,-90.394
-07206,Rice,Perry County,38.201,-89.384
-07214,Richards,LaSalle County,41.179,-88.836
-07218,Ritchie,Will County,41.255,-88.105
-07230,Richwoods,Crawford County,38.958,-87.554
-07233,Riddleville,Crawford County,38.852,-87.651
-07250,Riffle,Clay County,38.805,-88.564
-07268,Ryan,Vermilion County,40.050,-87.806
-07271,Rising Sun,Pope County,37.407,-88.578
-07271,Rising Sun,White County,38.000,-88.028
-07307,Roby,Christian County,39.739,-89.399
-07309,Rochester,Wabash County,38.346,-87.828
-07312,Rock Creek,Adams County,40.046,-91.400
-07312,Rock Creek,Hardin County,37.537,-88.227
-07335,Rockport,Pike County,39.539,-91.009
-07383,Rosamond,Christian County,39.380,-89.160
-07395,Rosecrans,Lake County,42.465,-87.953
-07396,Rosedale,Jersey County,39.044,-90.548
-07410,Roslyn,Cumberland County,39.229,-88.378
-07420,Roth,Alexander County,37.100,-89.307
-07424,Round Grove,Whiteside County,41.785,-89.872
-07440,Roxbury,Lee County,41.701,-89.039
-07464,Rural Hill,Hamilton County,37.961,-88.651
-07475,Russell,Lake County,42.491,-87.912
-07478,Russellville,Boone County,42.328,-88.784
-07484,Rutherford,Champaign County,40.025,-88.052
-07495,Sabina,McLean County,40.347,-88.651
-07515,Saint George,Kankakee County,41.193,-87.776
-07517,Saint James,Fayette County,38.954,-88.851
-07528,Saint Paul,Fayette County,38.853,-88.953
-07544,Salisbury,Sangamon County,39.890,-89.798
-07557,Saluda,Knox County,40.872,-90.394
-07594,Sand Ridge,Jackson County,37.740,-89.442
-07603,Sandusky,Alexander County,37.203,-89.272
-07616,Sangamon,Macon County,39.867,-88.856
-07690,Scottland,Edgar County,39.804,-87.605
-07730,Sellers,Champaign County,40.186,-88.105
-07750,Seville,Fulton County,40.486,-90.344
-07758,Shady Grove,Massac County,37.124,-88.566
-07762,Shafter,Fayette County,39.014,-89.185
-07778,Sharpsburg,Christian County,39.614,-89.351
-07781,Shattuc,Clinton County,38.611,-89.193
-07842,Sicily,Christian County,39.590,-89.491
-07849,Signal Hill,St. Clair County,38.577,-90.057
-07856,Siloam,Brown County,39.888,-90.916
-07865,Silver Lake,McHenry County,42.235,-88.245
-07890,Skelton,Logan County,40.143,-89.254
-07940,Snyder,Clark County,39.282,-87.668
-07962,Solomon,DeWitt County,40.249,-88.823
-07967,Somerset,Saline County,37.654,-88.457
-08062,Spring Valley,Adams County,39.897,-90.979
-08106,St. Joe,Monroe County,38.233,-90.154
-08117,St. Mary,Hancock County,40.346,-90.934
-08138,Staley,Champaign County,40.113,-88.313
-08156,Star City,Calhoun County,39.134,-90.674
-08161,Stark,Stark County,40.996,-89.744
-08163,Starks,Kane County,42.088,-88.457
-08167,State Road,Champaign County,40.076,-87.958
-08172,Stavanger,LaSalle County,41.399,-88.614
-08176,Steel City,Franklin County,37.998,-88.879
-08202,Stillwell,Hancock County,40.219,-91.183
-08247,Stratford,Ogle County,41.997,-89.491
-08262,Stubblefield,Bond County,38.848,-89.466
-08281,Sugar Grove,Schuyler County,40.029,-90.572
-08283,Sugar Island,Kankakee County,41.006,-87.824
-08292,Sulphur Springs,LaSalle County,41.419,-88.774
-08311,Sunbeam,Mercer County,41.127,-90.735
-08318,Sunfield,Perry County,38.064,-89.240
-08346,Sutter,Hancock County,40.279,-91.344
-08346,Sutter,Tazewell County,40.397,-89.369
-08348,Sutton,Cook County,42.096,-88.194
-08353,Swan Creek,Warren County,40.668,-90.655
-08360,Swanwick,Perry County,38.170,-89.536
-08367,Sweet Water,Menard County,40.054,-89.694
-08369,Swift,DuPage County,41.920,-88.042
-08381,Sylvan Lake,Lake County,42.244,-88.053
-08390,Tabor,DeWitt County,40.181,-89.135
-08459,Terra Cotta,McHenry County,42.282,-88.301
-08461,Terre Haute,Henderson County,40.666,-90.981
-08471,Texas City,Saline County,37.878,-88.393
-08493,Thomas,Bureau County,41.512,-89.819
-08524,Tice,Menard County,39.985,-89.795
-08541,Timothy,Cumberland County,39.303,-88.129
-08546,Tioga,Hancock County,40.211,-91.347
-08549,Tipton,Champaign County,40.070,-88.035
-08549,Tipton,Monroe County,38.236,-90.101
-08633,Trimble,Crawford County,39.063,-87.684
-08639,Triumph,LaSalle County,41.499,-89.022
-08660,Truro,Knox County,40.958,-90.042
-08671,Tunbridge,DeWitt County,40.114,-89.049
-08675,Tunnel Hill,Johnson County,37.524,-88.839
-08737,Union,Logan County,40.288,-89.367
-08738,Union Center,Cumberland County,39.333,-88.081
-08743,Union Grove,Whiteside County,41.834,-90.026
-08752,Uniontown,Knox County,40.748,-90.099
-08753,Unionville,Massac County,37.122,-88.547
-08753,Unionville,Vermilion County,40.025,-87.638
-08753,Unionville,Whiteside County,41.819,-89.983
-08771,Urbandale,Alexander County,37.053,-89.186
-08772,Utah,Warren County,40.984,-90.488
-08837,Velma,Christian County,39.515,-89.233
-08843,Vera,Fayette County,39.034,-89.113
-08881,Villa Ridge,Pulaski County,37.159,-89.195
-08886,Villas,Crawford County,38.899,-87.754
-08914,Voorhies,Piatt County,39.867,-88.580
-08920,Wacker,Carroll County,42.058,-90.046
-08941,Wakefield,Richland County,38.840,-88.244
-08955,Walker,Macon County,39.676,-89.007
-08962,Walla Walla,Cumberland County,39.201,-88.192
-08975,Walnut Grove,McDonough County,40.616,-90.559
-08975,Walnut Grove,Putnam County,41.177,-89.361
-08979,Walsh,Randolph County,38.089,-89.851
-08983,Waltham,LaSalle County,41.433,-89.010
-08990,Wanda,Madison County,38.834,-90.039
-08997,Ware,Union County,37.448,-89.394
-09010,Wartburg,Monroe County,38.291,-90.196
-09033,Watkins,DeWitt County,40.281,-88.677
-09056,Weir,Clark County,39.268,-87.790
-09060,Weaver,Clark County,39.418,-87.599
-09067,Webster,Hancock County,40.466,-91.001
-09095,Wendel,Bureau County,41.533,-89.210
-09096,Wendelin,Clay County,38.833,-88.273
-09121,West End,Franklin County,37.890,-88.706
-09150,West Point,Jackson County,37.899,-89.622
-09152,West Ridge,Douglas County,39.826,-88.217
-09180,Weston,McLean County,40.747,-88.622
-09186,Westview,St. Clair County,38.537,-90.102
-09211,Whitaker,Kankakee County,41.251,-87.728
-09235,White Rock,Ogle County,42.036,-89.134
-09241,Whitefield,Marshall County,41.149,-89.505
-09268,Whitton,Jo Daviess County,42.226,-90.308
-09291,Wildwood,Lake County,42.343,-87.998
-09295,Wilkinson,DeKalb County,42.007,-88.783
-09296,Willard,Alexander County,37.086,-89.352
-09297,Willeford,Williamson County,37.656,-88.852
-09315,Willow,Jo Daviess County,42.278,-89.950
-09334,Wilson,Lake County,42.347,-87.906
-09337,Wilton,Will County,41.379,-87.934
-09352,Winkel,Tazewell County,40.349,-89.631
-09352,Winkle,Perry County,38.150,-89.489
-09383,Woburn,Bond County,38.959,-89.346
-09388,Wolf Lake,Union County,37.504,-89.438
-09400,Woodbury,Cumberland County,39.196,-88.303
-09401,Woodbine,Jo Daviess County,42.342,-90.145
-09408,Woodford,Woodford County,40.847,-89.028
-09433,Woodville,Adams County,40.188,-91.183
-09437,Woodyard,Edgar County,39.866,-87.656
-09485,Yellow Creek,Stephenson County,42.306,-89.856
-09494,York,Clark County,39.171,-87.639
-09495,York Center,DuPage County,41.857,-87.988
-09498,Yorktown,Bureau County,41.570,-89.850
-09503,Youngstown,Warren County,40.661,-90.617
-09513,Zanesville,Montgomery County,39.322,-89.653
-09515,Zearing,Bureau County,41.446,-89.317
-09522,Zenith,Wayne County,38.549,-88.623
+0226,Aurora,DuPage County,41.763,-88.290
+2671,Joliet,Kendall County,41.518,-88.149
+4401,Rockford,Ogle County,42.259,-89.063
+1639,Elgin,Cook County,42.039,-88.326
+3979,Peoria,Peoria County,40.694,-89.589
+1023,Cicero,Cook County,41.846,-87.754
+0493,Bloomington,McLean County,40.484,-88.994
+1744,Evanston,Cook County,42.041,-87.690
+0175,Arlington Heights,Cook County,42.088,-87.981
+1369,Decatur,Macon County,39.840,-88.955
+3889,Palatine,Cook County,42.110,-88.034
+0415,Berwyn,Cook County,41.851,-87.794
+3694,Normal,McLean County,40.514,-88.991
+0717,Oak Park,Cook County,41.885,-87.784
+5458,Wheaton,DuPage County,41.866,-88.107
+2098,Glenview,Cook County,42.070,-87.788
+4069,Plainfield,Kendall County,41.630,-88.245
+1672,Elmhurst,Cook County,41.897,-87.944
+0688,Buffalo Grove,Cook County,42.166,-87.962
+3423,Moline,Rock Island County,41.507,-90.515
+0366,Belleville,St. Clair County,38.520,-89.984
+0289,Bartlett,Cook County,41.961,-88.178
+1290,Crystal Lake,McHenry County,42.241,-88.316
+4221,Quincy,Adams County,39.936,-91.410
+3917,Park Ridge,Cook County,42.011,-87.841
+5460,Wheeling,Cook County,42.130,-87.921
+0845,Carpentersville,Kane County,42.121,-88.258
+4393,Rock Island,Rock Island County,41.509,-90.579
+0697,Oswego,Kendall County,41.683,-88.339
+3719,Northbrook,Cook County,42.128,-87.829
+5571,Woodridge,Cook County,41.737,-88.044
+4819,St. Charles,DuPage County,41.919,-88.311
+3739,O'Fallon,St. Clair County,38.592,-89.911
+3960,Pekin,Peoria County,40.569,-89.625
+3678,Niles,Cook County,42.019,-87.803
+2450,Highland Park,Lake County,42.182,-87.800
+0069,Algonquin,Kane County,42.159,-88.322
+0698,Burbank,Cook County,41.734,-87.779
+1338,Danville,Vermilion County,40.124,-87.630
+2881,Lansing,Cook County,41.565,-87.539
+2556,Huntley,Kane County,42.161,-88.435
+3743,Oak Forest,Cook County,41.603,-87.744
+0301,Batavia,DuPage County,41.848,-88.311
+5594,Woodstock,McHenry County,42.315,-88.449
+0100,Alton,Madison County,38.891,-90.184
+5647,Zion,Lake County,42.446,-87.833
+1147,Collinsville,Madison County,38.676,-90.006
+3313,Melrose Park,Cook County,41.901,-87.857
+5444,Westmont,DuPage County,41.796,-87.976
+1678,Elmwood Park,Cook County,41.921,-87.809
+2999,Lisle,DuPage County,41.801,-88.075
+1953,Freeport,Stephenson County,42.297,-89.621
+3254,Maywood,Cook County,41.879,-87.843
+4443,Roselle,Cook County,41.980,-88.086
+5634,Yorkville,Kendall County,41.641,-88.447
+0492,Bloomingdale,DuPage County,41.958,-88.081
+5260,Villa Park,DuPage County,41.890,-87.989
+1341,Darien,DuPage County,41.746,-87.981
+0825,Carbondale,Jackson County,37.722,-89.224
+3448,Montgomery,Kane County,41.721,-88.358
+1452,Dolton,Cook County,41.639,-87.607
+1937,Frankfort,Cook County,41.507,-87.871
+1859,Harvey,Cook County,41.610,-87.647
+2843,Lake Forest,Lake County,42.259,-87.841
+1383,Deerfield,Cook County,42.166,-87.852
+0630,Brookfield,Cook County,41.824,-87.852
+2512,Homewood,Cook County,41.557,-87.666
+3857,Ottawa,LaSalle County,41.346,-88.843
+3239,Matteson,Cook County,41.504,-87.713
+4460,Round Lake,Lake County,42.353,-88.093
+4996,Sycamore,DeKalb County,41.989,-88.687
+0377,Bellwood,Cook County,41.881,-87.883
+1939,Franklin Park,Cook County,41.935,-87.866
+4695,Shorewood,Will County,41.520,-88.202
+0828,Cary,McHenry County,42.212,-88.238
+2629,Jacksonville,Morgan County,39.734,-90.229
+2104,Godfrey,Madison County,38.956,-90.187
+2878,Lemont,Cook County,41.667,-87.984
+2473,Hinsdale,Cook County,41.801,-87.928
+3240,Mattoon,Coles County,39.483,-88.373
+0760,Marion,Williamson County,37.731,-88.933
+5433,Westchester,Cook County,41.851,-87.882
+1227,Country Club Hills,Cook County,41.568,-87.720
+2809,La Grange,Cook County,41.805,-87.869
+0567,Bradley,Kankakee County,41.142,-87.861
+5334,Warrenville,DuPage County,41.818,-88.173
+3523,Mount Vernon,Jefferson County,38.317,-88.903
+4689,Shiloh,St. Clair County,38.561,-89.897
+2988,Lindenhurst,Lake County,42.411,-88.026
+4985,Swansea,St. Clair County,38.534,-89.989
+2438,Hickory Hills,Cook County,41.726,-87.825
+1896,Forest Park,Cook County,41.879,-87.814
+3357,Midlothian,Cook County,41.625,-87.718
+1171,Lincoln,Logan County,40.148,-89.365
+3722,Northlake,Cook County,41.917,-87.896
+4928,Streator,LaSalle County,41.125,-88.830
+2692,Justice,Cook County,41.744,-87.838
+1613,Effingham,Effingham County,39.120,-88.543
+4073,Plano,Kendall County,41.663,-88.537
+4254,Rantoul,Champaign County,40.308,-88.156
+0934,Centralia,Clinton County,38.522,-89.124
+4369,River Forest,Cook County,41.898,-87.814
+3201,Markham,Cook County,41.594,-87.695
+0731,Troy,Madison County,38.729,-89.883
+5352,Waterloo,Monroe County,38.336,-90.150
+1150,Columbia,Monroe County,38.458,-90.216
+1932,Fox Lake,Lake County,42.428,-88.184
+2170,Summit,Cook County,41.788,-87.810
+1260,Crestwood,Cook County,41.661,-87.753
+0286,Barrington,Cook County,42.152,-88.129
+1792,Riverdale,Cook County,41.643,-87.636
+0730,Highland,Madison County,38.739,-89.671
+3989,Peru,Bureau County,41.347,-89.133
+3141,Mahomet,Champaign County,40.195,-88.404
+2353,Harvard,McHenry County,42.422,-88.614
+2621,Itasca,DuPage County,41.975,-88.007
+4387,Rochelle,Lee County,41.920,-89.062
+2587,Ingleside,Lake County,42.381,-88.139
+4944,Sugar Grove,Kane County,41.761,-88.444
+5529,Willowbrook,DuPage County,41.770,-87.936
+4376,Riverside,Cook County,41.835,-87.823
+3115,Lynwood,Cook County,41.526,-87.539
+4603,Savoy,Champaign County,40.055,-88.252
+4391,Rock Falls,Whiteside County,41.780,-89.689
+2088,Glencoe,Cook County,42.135,-87.758
+2099,Glenwood,Cook County,41.543,-87.602
+1262,Crete,Cook County,41.441,-87.624
+3040,Long Grove,Lake County,42.178,-87.998
+3226,Maryville,Madison County,38.724,-89.956
+2466,Hillside,Cook County,41.878,-87.903
+2617,Island Lake,Lake County,42.279,-88.200
+0620,Broadview,Cook County,41.864,-87.853
+2982,Lincolnshire,Lake County,42.190,-87.908
+3915,Park City,Lake County,42.348,-87.884
+0920,Chester,Randolph County,37.914,-89.822
+3193,Marengo,McHenry County,42.249,-88.608
+2595,Inverness,Cook County,42.118,-88.096
+4567,Sandwich,DeKalb County,41.650,-88.619
+5195,University Park,Cook County,41.447,-87.713
+4896,Stickney,Cook County,41.821,-87.783
+1085,Clinton,De Witt County,40.154,-88.965
+5228,Vandalia,Fayette County,38.961,-89.094
+3509,Mount Carmel,Wabash County,38.411,-87.761
+3000,Litchfield,Montgomery County,39.175,-89.654
+2220,Greenville,Bond County,38.892,-89.413
+2663,Johnsburg,McHenry County,42.380,-88.242
+1228,Countryside,Cook County,41.783,-87.878
+2861,Lakemoor,Lake County,42.339,-88.203
+0292,Bartonville,Peoria County,40.650,-89.652
+0858,Carterville,Williamson County,37.760,-89.077
+1100,Coal City,Grundy County,41.279,-88.280
+5528,Willow Springs,Cook County,41.741,-87.860
+2847,Lake Holiday,LaSalle County,41.613,-88.672
+2329,Spring Grove,McHenry County,42.444,-88.236
+4801,Spring Valley,Bureau County,41.328,-89.200
+2453,Highwood,Lake County,42.200,-87.809
+0379,Belmont,DuPage County,41.793,-88.038
+0403,Berkeley,Cook County,41.889,-87.903
+4026,Pinckneyville,Perry County,38.080,-89.382
+1740,Eureka,Woodford County,40.721,-89.273
+3361,Milan,Rock Island County,41.453,-90.572
+1263,Creve Coeur,Tazewell County,40.647,-89.591
+3211,Marseilles,LaSalle County,41.331,-88.708
+0644,Fairfield,Wayne County,38.379,-88.360
+1866,Flora,Clay County,38.669,-88.486
+0346,Beecher,Will County,41.341,-87.621
+0735,Butterfield,DuPage County,41.836,-88.042
+2168,Sherman,Sangamon County,39.894,-89.605
+4382,Robbins,Cook County,41.644,-87.704
+4676,Shelbyville,Shelby County,39.406,-88.790
+3948,Paxton,Ford County,40.460,-88.095
+1214,Cortland,DeKalb County,41.920,-88.689
+0868,Caseyville,St. Clair County,38.637,-90.026
+2869,Lakewood,McHenry County,42.229,-88.355
+2510,Hometown,Cook County,41.734,-87.731
+2916,Lawrenceville,Lawrence County,38.729,-87.682
+4061,Pittsfield,Pike County,39.608,-90.805
+0136,Anna,Union County,37.460,-89.247
+3486,Morrison,Whiteside County,41.810,-89.965
+1522,Dwight,Grundy County,41.098,-88.425
+0709,Burnham,Cook County,41.639,-87.557
+1637,Sparta,Randolph County,38.123,-89.702
+4444,Rosemont,Cook County,41.995,-87.885
+1633,Eldorado,Saline County,37.814,-88.438
+4271,Red Bud,Randolph County,38.212,-89.994
+1902,Forsyth,Macon County,39.933,-88.951
+3777,Oglesby,LaSalle County,41.295,-89.060
+1382,Deer Park,Cook County,42.166,-88.086
+0056,Aledo,Mercer County,41.200,-90.749
+1763,Fairbury,Livingston County,40.747,-88.515
+3826,Oregon,Ogle County,42.015,-89.332
+2270,Hainesville,Lake County,42.345,-88.068
+4377,Riverton,Sangamon County,39.844,-89.540
+5292,Wadsworth,Lake County,42.429,-87.924
+0724,Le Roy,McLean County,40.352,-88.764
+3599,New Baden,Clinton County,38.537,-89.707
+1985,Galena,Jo Daviess County,42.417,-90.429
+5275,Virden,Macoupin County,39.506,-89.771
+4726,Sleepy Hollow,Kane County,42.094,-88.303
+2097,Madison,Madison County,38.686,-90.102
+5449,Westville,Vermilion County,40.042,-87.639
+4484,Rushville,Schuyler County,40.121,-90.563
+3042,Long Lake,Lake County,42.371,-88.128
+0987,Cherry Valley,Boone County,42.235,-88.975
+0007,Abingdon,Knox County,40.804,-90.402
+4349,Ridgewood,Will County,41.536,-88.040
+2790,Knoxville,Knox County,40.908,-90.285
+1621,El Paso,McLean County,40.740,-89.018
+2941,Lena,Stephenson County,42.379,-89.822
+2283,Hamilton,Hancock County,40.396,-91.339
+2334,Newton,Jasper County,38.991,-88.163
+2331,Sumner,Lawrence County,38.717,-87.861
+1426,Diamond,Grundy County,41.285,-88.251
+1771,Fairmont,Will County,41.556,-88.059
+5124,Trenton,Clinton County,38.606,-89.682
+4518,Sheridan,LaSalle County,41.530,-88.680
+5078,Tilton,Vermilion County,40.095,-87.648
+5346,Washington Park,St. Clair County,38.635,-90.093
+5259,Villa Grove,Douglas County,39.863,-88.162
+2720,Kenilworth,Cook County,42.086,-87.718
+0867,Casey,Clark County,39.305,-87.985
+5065,Thornton,Cook County,41.568,-87.608
+2330,Seneca,Grundy County,41.303,-88.615
+1805,Farmington,Fulton County,40.697,-90.002
+2852,Lake of the Woods,Champaign County,40.206,-88.369
+5529,Willowbrook,Will County,41.458,-87.536
+4684,Wayne,DuPage County,41.947,-88.253
+4115,Polo,Ogle County,41.986,-89.579
+3992,Petersburg,Menard County,40.012,-89.848
+0184,Arthur,Douglas County,39.714,-88.470
+1685,Elwood,Will County,41.404,-88.112
+0098,Altamont,Effingham County,39.062,-88.748
+0608,Brighton,Jersey County,39.041,-90.140
+5217,Valley View,Kane County,41.966,-88.299
+2786,Knollwood,Lake County,42.272,-87.896
+1845,Fisher,Champaign County,40.315,-88.350
+2471,Hinckley,DeKalb County,41.769,-88.641
+4398,Rockdale,Will County,41.506,-88.115
+4169,Prairie Grove,McHenry County,42.279,-88.261
+0202,Athens,Menard County,39.961,-89.724
+0050,Albion,Edwards County,38.378,-88.056
+0367,Bellevue,Peoria County,40.684,-89.680
+0776,Cambria,Williamson County,37.781,-89.119
+3830,Orion,Henry County,41.355,-90.382
+2070,Gilman,Iroquois County,40.767,-87.992
+2675,Jonesboro,Union County,37.452,-89.268
+2651,Jerome,Sangamon County,39.768,-89.681
+4007,Phoenix,Cook County,41.611,-87.635
+0754,Cairo,Alexander County,37.005,-89.176
+4128,Port Byron,Rock Island County,41.606,-90.335
+2773,Kirkland,DeKalb County,42.093,-88.851
+2416,Heritage Lake,Tazewell County,40.547,-89.326
+4187,Princeville,Peoria County,40.930,-89.758
+1539,Earlville,LaSalle County,41.589,-88.922
+2879,Lanark,Carroll County,42.102,-89.833
+1508,Dunlap,Peoria County,40.862,-89.679
+5441,Westlake Village,Winnebago County,42.306,-89.287
+4320,Rome,Peoria County,40.883,-89.503
+2388,Winchester,Scott County,39.630,-90.456
+2840,Lake Camelot,Peoria County,40.631,-89.742
+5162,Twin Grove,McLean County,40.493,-89.080
+5336,Warsaw,Hancock County,40.359,-91.435
+1895,Forest Lake,Lake County,42.208,-88.056
+5258,Vienna,Johnson County,37.415,-88.898
+4468,Roxana,Madison County,38.848,-90.076
+5353,Waterman,DeKalb County,41.772,-88.774
+5517,Williamsville,Sangamon County,39.954,-89.549
+2826,Ladd,Bureau County,41.383,-89.219
+0821,Capron,Boone County,42.400,-88.740
+2156,Grandview,Sangamon County,39.816,-89.619
+2753,Kincaid,Christian County,39.589,-89.415
+2004,Gardner,Grundy County,41.186,-88.310
+5096,Toluca,Marshall County,41.002,-89.133
+1083,Clifton,Iroquois County,40.935,-87.934
+4824,St. Elmo,Fayette County,39.027,-88.848
+5619,Wyoming,Stark County,41.062,-89.773
+0419,Bethany,Moultrie County,39.646,-88.738
+3039,Long Creek,Macon County,39.812,-88.848
+3891,Palestine,Crawford County,39.004,-87.613
+2458,Hillcrest,Ogle County,41.951,-89.065
+1014,Chrisman,Edgar County,39.804,-87.674
+4455,Rossville,Vermilion County,40.379,-87.669
+2341,Hartford,Madison County,38.833,-90.096
+1293,Cuba,Fulton County,40.493,-90.191
+5094,Toledo,Cumberland County,39.274,-88.244
+5344,Waverly,Morgan County,39.592,-89.953
+3130,Macon,Macon County,39.713,-88.997
+3413,Mitchell,Madison County,38.762,-90.085
+0215,Atwood,Douglas County,39.799,-88.463
+1602,Edinburg,Christian County,39.657,-89.390
+0931,Central City,Marion County,38.549,-89.127
+5602,Worden,Madison County,38.931,-89.839
+5333,Warrensburg,Macon County,39.933,-89.062
+3375,Milledgeville,Carroll County,41.963,-89.775
+3020,Lockport Heights,Will County,41.619,-88.025
+4672,Shawneetown,Gallatin County,37.713,-88.187
+2507,Homer,Champaign County,40.035,-87.958
+4471,Royalton,Franklin County,37.877,-89.115
+2211,Greenfield,Greene County,39.344,-90.213
+3487,Morrisonville,Christian County,39.420,-89.456
+2973,Lily Lake,Kane County,41.949,-88.478
+1111,Cobden,Union County,37.531,-89.253
+5340,Washburn,Marshall County,40.920,-89.292
+3771,Odell,Livingston County,41.004,-88.525
+3654,Newark,Kendall County,41.537,-88.583
+1140,Colfax,McLean County,40.567,-88.616
+1703,Energy,Williamson County,37.774,-89.026
+5396,Wenona,LaSalle County,41.049,-89.052
+1816,Sheldon,Iroquois County,40.769,-87.564
+0206,Atkinson,Henry County,41.421,-90.015
+0194,Ashton,Lee County,41.866,-89.221
+4245,Ramsey,Fayette County,39.144,-89.109
+4262,Raymond,Montgomery County,39.319,-89.572
+2938,Leland,LaSalle County,41.613,-88.800
+2281,Hamel,Madison County,38.889,-89.845
+3170,Mansfield,Piatt County,40.211,-88.506
+4082,Pleasant Hill,Pike County,39.443,-90.872
+3772,Odin,Marion County,38.617,-89.052
+5080,Timberlane,Boone County,42.335,-88.861
+2059,Gifford,Champaign County,40.306,-88.021
+0199,Astoria,Fulton County,40.228,-90.360
+4664,Shannon,Carroll County,42.155,-89.740
+4447,Roseville,Warren County,40.732,-90.665
+2054,Harrison,Jackson County,37.797,-89.337
+4912,Stonington,Christian County,39.640,-89.193
+5273,Viola,Mercer County,41.203,-90.587
+3318,Mendon,Adams County,40.088,-91.284
+2302,Hanover,Jo Daviess County,42.256,-90.280
+0045,Albany,Whiteside County,41.789,-90.219
+1060,Clay City,Clay County,38.689,-88.354
+4358,Ringwood,McHenry County,42.392,-88.297
+1225,Coulterville,Randolph County,38.186,-89.606
+1727,Essex,Kankakee County,41.177,-88.186
+3946,Paw Paw,Lee County,41.689,-88.981
+2518,Hopedale,Tazewell County,40.421,-89.415
+4673,Sheffield,Bureau County,41.358,-89.737
+5048,Texico,Jefferson County,38.439,-88.897
+4085,Pleasant Plains,Sangamon County,39.873,-89.921
+1984,Galatia,Saline County,37.841,-88.609
+2041,Willow Lake,Stephenson County,42.333,-89.636
+4782,Spaulding,Sangamon County,39.866,-89.540
+3634,New Milford,Winnebago County,42.187,-89.068
+0061,Alexis,Mercer County,41.063,-90.555
+5493,Witt,Montgomery County,39.256,-89.348
+0611,Brimfield,Peoria County,40.839,-89.886
+3012,Livingston,Madison County,38.968,-89.764
+2311,Hardin,Calhoun County,39.157,-90.618
+2397,Hurst,Williamson County,37.833,-89.143
+3824,Orangeville,Stephenson County,42.468,-89.644
+5425,West Salem,Edwards County,38.521,-88.005
+5062,Thomson,Carroll County,41.959,-90.099
+5578,Woodhull,Henry County,41.179,-90.316
+2411,Hennepin,Putnam County,41.254,-89.342
+2219,Greenview,Menard County,40.083,-89.738
+3283,McLean,McLean County,40.314,-89.170
+3758,Oakland,Coles County,39.654,-88.026
+4101,Pocahontas,Bond County,38.828,-89.540
+3774,Ogden,Champaign County,40.114,-87.956
+5077,Tilden,Randolph County,38.212,-89.683
+0651,Brownstown,Fayette County,38.996,-88.953
+1704,Enfield,White County,38.099,-88.338
+1643,Elizabeth,Jo Daviess County,42.318,-90.222
+4682,Sherrard,Mercer County,41.319,-90.506
+2140,Grafton,Jersey County,38.970,-90.431
+3809,Oneida,Knox County,41.072,-90.225
+0236,Avon,Fulton County,40.662,-90.435
+1803,Farmersville,Montgomery County,39.443,-89.652
+4149,Potomac,Vermilion County,40.305,-87.801
+0093,Alpha,Henry County,41.192,-90.380
+5539,Windsor,Mercer County,41.202,-90.444
+1165,Como,Whiteside County,41.766,-89.767
+5357,Watson,Effingham County,39.025,-88.570
+0566,Bradford,Stark County,41.177,-89.658
+1379,Deer Creek,Tazewell County,40.630,-89.332
+2776,Kirkwood,Warren County,40.866,-90.748
+1838,Findlay,Shelby County,39.523,-88.754
+3502,Mounds,Pulaski County,37.114,-89.198
+3299,Mechanicsburg,Sangamon County,39.809,-89.397
+1326,Dalzell,Bureau County,41.356,-89.173
+0915,Cedarville,Stephenson County,42.376,-89.633
+2107,Golconda,Pope County,37.367,-88.486
+0634,Brooklyn,St. Clair County,38.659,-90.166
+2109,Golden,Adams County,40.109,-91.018
+1277,Crossville,White County,38.162,-88.065
+2785,Noble,Richland County,38.698,-88.224
+3751,Oak Run,Knox County,40.963,-90.145
+5052,Thayer,Sangamon County,39.538,-89.763
+1258,Creston,Ogle County,41.931,-88.965
+2169,Green Valley,Tazewell County,40.408,-89.643
+4838,St. Libory,St. Clair County,38.363,-89.710
+3384,Millington,Kendall County,41.560,-88.604
+3603,New Boston,Mercer County,41.170,-90.997
+5584,Woodlawn,Jefferson County,38.330,-89.033
+1772,Fairmount,Vermilion County,40.046,-87.831
+3900,Palmyra,Macoupin County,39.435,-89.996
+2105,Godley,Grundy County,41.244,-88.243
+4861,Stanford,McLean County,40.435,-89.218
+1938,Franklin,Morgan County,39.620,-90.044
+0070,Alhambra,Madison County,38.888,-89.731
+1350,Davis,Stephenson County,42.423,-89.414
+2613,Irvington,Washington County,38.439,-89.163
+5522,Willisville,Perry County,37.984,-89.590
+0454,Bismarck,Vermilion County,40.264,-87.608
+0809,Pittsburg,Williamson County,37.777,-88.850
+4826,St. Francisville,Lawrence County,38.591,-87.647
+5207,Valier,Franklin County,38.015,-89.043
+2965,Union,McHenry County,42.233,-88.542
+3797,Olive Branch,Alexander County,37.169,-89.352
+0229,Ava,Jackson County,37.888,-89.495
+1253,Crescent City,Iroquois County,40.770,-87.859
+2575,Indian Creek,Lake County,42.227,-87.980
+5535,Wilsonville,Macoupin County,39.071,-89.856
+0707,Burlington,Kane County,42.053,-88.548
+0794,Liberty,Adams County,39.879,-91.108
+2689,Junction City,Marion County,38.580,-89.128
+4922,Strasburg,Shelby County,39.353,-88.619
+3501,Mound City,Pulaski County,37.085,-89.163
+1745,Evansville,Randolph County,38.090,-89.938
+0940,Chadwick,Carroll County,42.013,-89.891
+2152,Grand Ridge,LaSalle County,41.237,-88.831
+2290,Hammond,Piatt County,39.797,-88.592
+1354,Dawson,Sangamon County,39.853,-89.463
+2116,Golf,Cook County,42.059,-87.793
+4690,Shipman,Macoupin County,39.118,-90.044
+4823,St. David,Fulton County,40.493,-90.049
+2623,Iuka,Marion County,38.616,-88.790
+1316,Dahlgren,Hamilton County,38.198,-88.684
+3064,Lost Nation,Ogle County,41.911,-89.367
+4310,Rest Haven,Will County,41.262,-88.136
+4316,Reynolds,Mercer County,41.332,-90.672
+4252,Rankin,Vermilion County,40.465,-87.896
+0676,Buckley,Iroquois County,40.597,-88.038
+5593,Woodson,Morgan County,39.629,-90.219
+5061,Thompsonville,Franklin County,37.918,-88.762
+0679,Buda,Bureau County,41.326,-89.679
+3744,Oak Grove,Rock Island County,41.411,-90.571
+4543,San Jose,Logan County,40.305,-89.605
+1357,Dayton,LaSalle County,41.385,-88.794
+4354,Rinard,Wayne County,38.571,-88.465
+0074,Allendale,Wabash County,38.527,-87.710
+0953,Chapin,Morgan County,39.766,-90.399
+1442,Dix,Jefferson County,38.442,-88.938
+4851,St. Rose,Clinton County,38.684,-89.555
+0549,Bowen,Hancock County,40.233,-91.063
+0101,Altona,Knox County,41.115,-90.165
+0774,Camargo,Douglas County,39.800,-88.164
+1690,Emden,Logan County,40.299,-89.485
+0170,Argyle,Boone County,42.355,-88.939
+0684,Buffalo,Sangamon County,39.853,-89.409
+1204,Cornell,Livingston County,40.990,-88.729
+4099,Plymouth,Hancock County,40.292,-90.916
+2482,Hoffman,Clinton County,38.541,-89.264
+3734,Norwood,Peoria County,40.706,-89.699
+0982,Cherry,Bureau County,41.427,-89.213
+5110,Towanda,McLean County,40.564,-88.899
+2039,Georgetown,McDonough County,40.461,-90.718
+3314,Melvin,Ford County,40.568,-88.248
+2465,Hillsdale,Rock Island County,41.614,-90.173
+2699,Karnak,Pulaski County,37.294,-88.975
+0395,Benson,Woodford County,40.851,-89.122
+0677,Buckner,Franklin County,37.983,-89.016
+3482,Moro,Madison County,38.925,-90.022
+1096,New Haven,Gallatin County,37.898,-88.127
+1598,Edgewood,Effingham County,38.921,-88.661
+2547,Hull,Pike County,39.707,-91.207
+4691,Shirley,McLean County,40.407,-89.063
+5232,Varna,Marshall County,41.036,-89.226
+0534,Bonnie,Jefferson County,38.203,-88.903
+0824,Carbon Hill,Grundy County,41.297,-88.300
+3305,Medora,Jersey County,39.177,-90.141
+5385,Weldon,De Witt County,40.121,-88.745
+2683,Joy,Mercer County,41.197,-90.880
+1311,Cutler,Perry County,38.032,-89.566
+2548,Humboldt,Coles County,39.604,-88.319
+0352,Belgium,Vermilion County,40.061,-87.638
+2645,Jeffersonville,Wayne County,38.443,-88.404
+2118,Good Hope,McDonough County,40.558,-90.673
+3799,Olivet,Vermilion County,39.942,-87.644
+4383,Roberts,Ford County,40.613,-88.183
+2679,Joppa,Massac County,37.206,-88.845
+4953,Summerfield,St. Clair County,38.597,-89.752
+3904,Panama,Bond County,39.029,-89.524
+3608,New Canton,Pike County,39.636,-91.096
+4849,St. Peter,Fayette County,38.868,-88.854
+3828,Orient,Franklin County,37.918,-88.978
+1856,Flat Rock,Crawford County,38.902,-87.672
+2222,Greenwood,McHenry County,42.393,-88.389
+2901,Latham,Logan County,39.969,-89.162
+3227,Mason,Effingham County,38.953,-88.624
+2549,Hume,Edgar County,39.797,-87.869
+1584,Middletown,Logan County,40.100,-89.591
+0901,Lee,DeKalb County,41.795,-88.942
+1105,Coalton,Montgomery County,39.283,-89.301
+3148,Malden,Bureau County,41.424,-89.369
+1564,Easton,Mason County,40.233,-89.843
+0177,Armington,Tazewell County,40.339,-89.311
+0619,Broadlands,Champaign County,39.909,-87.994
+4253,Ransom,LaSalle County,41.156,-88.650
+1836,Fillmore,Montgomery County,39.115,-89.279
+2724,Kenney,De Witt County,40.097,-89.086
+0255,Baldwin,Randolph County,38.183,-89.843
+1820,Fayetteville,St. Clair County,38.378,-89.795
+1552,Ewing,Franklin County,38.089,-88.852
+3052,Loraine,Adams County,40.154,-91.222
+4658,Seymour,Champaign County,40.107,-88.427
+2007,Virgil,Kane County,41.956,-88.537
+4470,Royal,Champaign County,40.193,-87.973
+1776,Sibley,Ford County,40.587,-88.381
+4238,Raleigh,Saline County,37.827,-88.532
+3580,Nebo,Pike County,39.443,-90.791
+3004,Little York,Warren County,41.011,-90.746
+3372,Millbrook,Kendall County,41.598,-88.553
+3286,McNabb,Putnam County,41.177,-89.209
+1642,Elliott,Ford County,40.465,-88.272
+0622,Brocton,Edgar County,39.716,-87.933
+1166,Compton,Lee County,41.694,-89.081
+4072,Plainville,Adams County,39.786,-91.185
+4605,Sawyerville,Macoupin County,39.078,-89.807
+0911,Cedar Point,LaSalle County,41.263,-89.126
+3156,Manchester,Scott County,39.542,-90.332
+3625,New Holland,Logan County,40.185,-89.581
+1029,Cisco,Piatt County,40.011,-88.726
+1236,Crab Orchard,Williamson County,37.729,-88.804
+2408,Henderson,Knox County,41.025,-90.356
+0082,Allerton,Champaign County,39.916,-87.935
+2347,Hartsburg,Logan County,40.251,-89.441
+3182,Mapleton,Peoria County,40.566,-89.732
+0372,Bellmont,Wabash County,38.384,-87.911
+3259,McClure,Alexander County,37.318,-89.431
+1314,Cypress,Johnson County,37.365,-89.018
+1356,Woodland,Iroquois County,40.714,-87.731
+3262,McCook,Cook County,41.798,-87.845
+3970,Penfield,Champaign County,40.303,-87.947
+0720,Bush,Williamson County,37.843,-89.131
+0674,Buckingham,Kankakee County,41.047,-88.175
+3756,Oakford,Menard County,40.103,-89.963
+2695,Kangley,LaSalle County,41.146,-88.874
+2582,Indianola,Vermilion County,39.927,-87.740
+3898,Palmer,Christian County,39.458,-89.404
+3419,Modoc,Randolph County,38.053,-90.037
+0741,Lawrence,McHenry County,42.441,-88.641
+1645,Elizabethtown,Hardin County,37.446,-88.305
+5465,White City,Macoupin County,39.065,-89.763
+0014,Adair,McDonough County,40.419,-90.497
+4633,Seaton,Mercer County,41.102,-90.802
+1303,Curran,Sangamon County,39.742,-89.772
+3325,Menominee,Jo Daviess County,42.488,-90.533
+4344,Ridgefield,McHenry County,42.268,-88.361
+3395,Milton,Pike County,39.564,-90.650
+5247,Verona,Grundy County,41.218,-88.501
+2412,Henning,Vermilion County,40.305,-87.701
+3453,Montrose,Cumberland County,39.166,-88.378
+5388,Wellington,Iroquois County,40.539,-87.680
+2043,Vermilion,Edgar County,39.581,-87.589
+2892,LaPlace,Piatt County,39.800,-88.718
+4283,Reddick,Kankakee County,41.098,-88.249
+2658,Jewett,Cumberland County,39.208,-88.246
+0052,Alden,McHenry County,42.459,-88.518
+0779,Cameron,Warren County,40.889,-90.517
+5427,West Union,Clark County,39.216,-87.666
+3919,Parkersburg,Richland County,38.590,-88.057
+4698,Shumway,Effingham County,39.185,-88.652
+4732,Smithfield,Fulton County,40.473,-90.292
+5513,Williamson,Madison County,38.986,-89.764
+4232,Radom,Washington County,38.282,-89.192
+1667,Ellsworth,McLean County,40.450,-88.717
+2704,Keensburg,Wabash County,38.351,-87.869
+0642,Broughton,Hamilton County,37.935,-88.462
+5293,Waggoner,Montgomery County,39.378,-89.653
+3418,Modesto,Macoupin County,39.478,-89.982
+2716,Kempton,Ford County,40.936,-88.237
+5575,Woodburn,Macoupin County,39.047,-90.012
+4397,Rockbridge,Greene County,39.269,-90.204
+2130,Gorham,Jackson County,37.718,-89.486
+3699,Norris,Fulton County,40.626,-90.032
+0174,Arlington,Bureau County,41.474,-89.249
+4714,Sims,Wayne County,38.360,-88.531
+0723,Butler,Montgomery County,39.199,-89.534
+0667,Bryant,Fulton County,40.466,-90.092
+0762,Calhoun,Richland County,38.650,-88.044
+4834,St. Johns,Perry County,38.031,-89.241
+2805,La Fayette,Stark County,41.108,-89.972
+4736,Smithville,Peoria County,40.660,-89.800
+1078,Cleveland,Henry County,41.506,-90.315
+1328,Dana,LaSalle County,40.958,-88.950
+1456,Donnellson,Bond County,39.031,-89.476
+1184,Cooksville,McLean County,40.543,-88.716
+1927,Fowler,Adams County,40.008,-91.259
+3544,Muncie,Vermilion County,40.116,-87.845
+0249,Baileyville,Ogle County,42.198,-89.595
+4198,Pulaski,Pulaski County,37.214,-89.206
+1764,Fairdale,DeKalb County,42.100,-88.933
+5537,Wilton Center,Will County,41.351,-87.960
+1168,Concord,Morgan County,39.817,-90.373
+1634,Eldred,Greene County,39.288,-90.552
+0405,Berlin,Sangamon County,39.759,-89.903
+5424,West Point,Hancock County,40.255,-91.183
+0080,Allenville,Moultrie County,39.556,-88.530
+2312,Harding,LaSalle County,41.515,-88.849
+1813,Ferris,Hancock County,40.469,-91.170
+1684,Elwin,Macon County,39.852,-88.944
+4817,St. Augustine,Knox County,40.718,-90.411
+0664,Brussels,Calhoun County,38.949,-90.589
+3682,Niota,Hancock County,40.617,-91.288
+3044,Longview,Champaign County,39.887,-88.066
+2077,Glasgow,Scott County,39.551,-90.480
+2440,Hidalgo,Jasper County,39.156,-88.147
+1712,Eola,DuPage County,41.778,-88.243
+0138,Annapolis,Crawford County,39.144,-87.817
+1422,Dewey,Champaign County,40.319,-88.282
+0719,Burton,Adams County,39.905,-91.249
+4926,Strawn,Livingston County,40.653,-88.396
+5245,Vernon,Marion County,38.802,-89.087
+2597,Iola,Clay County,38.834,-88.628
+3196,Marietta,Fulton County,40.501,-90.393
+1834,Fidelity,Jersey County,39.153,-90.165
+3566,Naples,Scott County,39.757,-90.607
+0749,Hamburg,Calhoun County,39.230,-90.718
+4624,Scottville,Macoupin County,39.480,-90.105
+5191,Unity,Alexander County,37.150,-89.273
+0354,Belknap,Johnson County,37.325,-88.939
+1580,Eddyville,Pope County,37.499,-88.588
+5038,Tennessee,McDonough County,40.412,-90.839
+5459,Wheeler,Jasper County,39.047,-88.316
+5317,Walnut Hill,Marion County,38.477,-89.043
+3114,Lynnville,Morgan County,39.687,-90.346
+4490,Russellville,Lawrence County,38.819,-87.532
+3011,Liverpool,Fulton County,40.392,-90.001
+2469,Hillview,Greene County,39.451,-90.541
+2769,Kinsman,Grundy County,41.190,-88.570
+0288,Barstow,Rock Island County,41.518,-90.357
+5532,Wilmington,Greene County,39.481,-90.487
+1755,Exeter,Scott County,39.721,-90.497
+5429,West York,Crawford County,39.171,-87.674
+1666,Ellisville,Fulton County,40.627,-90.305
+3859,Otterville,Jersey County,39.051,-90.398
+4439,Rose Hill,Jasper County,39.104,-88.147
+1541,East Brooklyn,Grundy County,41.173,-88.264
+2727,Kent,Stephenson County,42.309,-89.902
+0015,Adams,Adams County,39.865,-91.198
+3601,New Bedford,Bureau County,41.513,-89.721
+1419,Detroit,Pike County,39.621,-90.677
+0425,Beverly,Adams County,39.793,-90.991
+2666,Johnsonville,Wayne County,38.522,-88.537
+5620,Yale,Jasper County,39.120,-88.025
+2614,Irwin,Kankakee County,41.052,-87.984
+0778,Camden,Schuyler County,40.154,-90.771
+0444,Bingham,Fayette County,39.114,-89.213
+2111,Golden Gate,Wayne County,38.359,-88.204
+3368,Mill Creek,Union County,37.342,-89.253
+5101,Topeka,Mason County,40.330,-89.931
+2688,Junction,Gallatin County,37.723,-88.237
+3538,Muddy,Saline County,37.765,-88.517
+5186,Union Hill,Kankakee County,41.108,-88.147
+4715,Simpson,Johnson County,37.467,-88.755
+3907,Panola,Woodford County,40.784,-89.021
+2817,La Prairie,Adams County,40.148,-91.003
+4002,Phillipstown,White County,38.142,-88.022
+0489,Bloomfield,Adams County,40.021,-91.307
+4409,Rockwood,Randolph County,37.841,-89.701
+1787,Fall Creek,Adams County,39.779,-91.302
+5397,Wenonah,Montgomery County,39.327,-89.289
+3121,Macedonia,Franklin County,38.054,-88.703
+0396,Bentley,Hancock County,40.344,-91.112
+2765,Kingston,Adams County,39.817,-91.028
+1867,Florence,Pike County,39.627,-90.611
+5210,Valley City,Pike County,39.707,-90.653
+0024,Adrian,Hancock County,40.521,-91.167
+0079,Allentown,Tazewell County,40.556,-89.397
+0178,Armstrong,Vermilion County,40.306,-87.878
+0277,Barnes,McLean County,40.503,-88.902
+0410,Berryville,Richland County,38.599,-87.929
+0469,Blackstone,Livingston County,41.084,-88.691
+0509,Bluff City,Fayette County,38.964,-89.046
+0614,Bristol,Kendall County,41.686,-88.428
+0688,Buffalo Grove,Ogle County,41.981,-89.595
+0746,Cache,Alexander County,37.100,-89.261
+0794,Liberty,Saline County,37.720,-88.572
+0886,Catharine,LaSalle County,41.523,-88.719
+0896,Cayuga,Livingston County,40.941,-88.584
+0972,Chautauqua,Jersey County,38.964,-90.386
+0978,Cheneyville,Vermilion County,40.469,-87.585
+1038,Clarion,Bureau County,41.505,-89.192
+1047,Clarksville,Clark County,39.452,-87.798
+1200,Corinth,Williamson County,37.819,-88.776
+1392,Delhi,Jersey County,39.045,-90.256
+1411,Denver,Hancock County,40.291,-91.107
+1611,Edwards,Peoria County,40.746,-89.744
+1660,Ellery,Edwards County,38.355,-88.149
+1676,Elmore,Peoria County,40.957,-89.977
+1923,Fountain Green,Hancock County,40.476,-90.969
+1941,Franklinville,McHenry County,42.277,-88.511
+2063,Gilchrist,Mercer County,41.205,-90.624
+2239,Groveland,Tazewell County,40.591,-89.533
+2249,Gulfport,Henderson County,40.814,-91.086
+2291,Weston,McLean County,40.747,-88.622
+2317,Harlem,Winnebago County,42.340,-89.018
+2336,Harrisonville,Monroe County,38.278,-90.350
+2437,Hickory Grove,Adams County,39.938,-91.315
+2632,Jamaica,Vermilion County,39.991,-87.807
+2636,Jamestown,Clinton County,38.735,-89.519
+2677,Jonesville,LaSalle County,41.311,-89.071
+2852,Lake of the Woods,Peoria County,40.840,-89.605
+2867,Lakeview,Saline County,37.672,-88.616
+3002,Little Rock,Kendall County,41.717,-88.576
+3008,Lytleville,McLean County,40.342,-88.956
+3080,Lowell,LaSalle County,41.251,-89.011
+3187,Marblehead,Adams County,39.840,-91.369
+3261,McConnell,Stephenson County,42.434,-89.731
+3270,McDowell,Livingston County,40.831,-88.585
+3317,Menard,Randolph County,37.910,-89.840
+3333,Meriden,LaSalle County,41.571,-89.035
+3336,Merrimac,Monroe County,38.371,-90.333
+3344,Meyer,Adams County,40.148,-91.504
+3373,Millburn,Lake County,42.426,-88.004
+3432,Monroe City,Monroe County,38.256,-90.266
+3497,Mossville,Peoria County,40.816,-89.568
+3549,Murdock,Douglas County,39.801,-88.078
+3611,New City,Sangamon County,39.669,-89.539
+3622,New Hanover,Monroe County,38.387,-90.227
+3669,Newtown,Vermilion County,40.167,-87.769
+3732,Norway,LaSalle County,41.466,-88.664
+3759,Oakley,Macon County,39.876,-88.806
+3808,Oneco,Stephenson County,42.487,-89.664
+3893,Palisades,DuPage County,41.714,-87.934
+3903,Paloma,Adams County,40.023,-91.195
+3930,Parrish,Franklin County,37.941,-88.813
+4171,Prairie View,Lake County,42.199,-87.963
+4206,Putnam,Putnam County,41.185,-89.396
+4303,Reno,Bond County,38.975,-89.514
+4327,Ritchie,Will County,41.255,-88.105
+4434,Rosamond,Christian County,39.380,-89.160
+4487,Russell,Lake County,42.491,-87.912
+4502,Sabina,McLean County,40.347,-88.651
+4523,Salisbury,Sangamon County,39.890,-89.798
+5132,Triumph,LaSalle County,41.499,-89.022
+5139,Truro,Knox County,40.958,-90.042
+5261,Villa Ridge,Pulaski County,37.159,-89.195
+5310,Walla Walla,Cumberland County,39.201,-88.192
+5326,Ware,Union County,37.448,-89.394
+5337,Wartburg,Monroe County,38.291,-90.196
+5373,Weaver,Clark County,39.418,-87.599
+5379,Webster,Hancock County,40.466,-91.001
+5564,Wolf Lake,Union County,37.504,-89.438

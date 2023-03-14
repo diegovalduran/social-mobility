@@ -1,405 +1,276 @@
 phoneme,name,county,latitude,longitude
-01567,Charleston,Berkeley County,32.828,-79.973
-01835,Columbia,Lexington County,34.041,-80.906
-05801,Mount Pleasant,Charleston County,32.794,-79.863
-07315,Rock Hill,York County,34.925,-81.025
-03548,Greenville,Greenville County,34.853,-82.394
-07969,Summerville,Berkeley County,33.006,-80.179
-03410,Goose Creek,Berkeley County,32.981,-80.033
-08304,Sumter,Sumter County,33.920,-80.341
-03027,Florence,Florence County,34.195,-79.763
-03553,Greer,Greenville County,34.930,-82.238
-08030,Spartanburg,Spartanburg County,34.950,-81.932
-00901,Bluffton,Beaufort County,32.237,-80.860
-00063,Aiken,Aiken County,33.560,-81.720
-01216,Burgess,Horry County,33.607,-79.056
-00206,Anderson,Anderson County,34.503,-82.650
-07877,Simpsonville,Greenville County,34.737,-82.254
-04826,Lexington,Lexington County,33.982,-81.236
-02540,Easley,Anderson County,34.820,-82.582
-01902,Conway,Horry County,33.836,-79.048
-03552,Greenwood,Greenwood County,34.195,-82.162
-08085,St. Andrews,Richland County,34.049,-81.103
-02999,Five Forks,Greenville County,34.805,-82.230
-09118,West Columbia,Lexington County,33.993,-81.074
-07118,Red Hill,Horry County,33.778,-79.015
-00698,Berea,Greenville County,34.885,-82.456
-07744,Seven Oaks,Lexington County,34.049,-81.146
-02300,Dentsville,Richland County,34.064,-80.958
-03227,Gantt,Greenville County,34.800,-82.424
-01424,Cayce,Lexington County,33.950,-81.040
-06882,Port Royal,Beaufort County,32.379,-80.693
-06505,Parker,Greenville County,34.851,-82.453
-00580,Beaufort,Beaufort County,32.432,-80.670
-06344,Orangeburg,Orangeburg County,33.492,-80.856
-06214,Oak Grove,Lexington County,33.972,-81.144
-03233,Garden City,Horry County,33.593,-79.009
-00916,Boiling Springs,Spartanburg County,35.047,-81.982
-06050,Newberry,Newberry County,34.275,-81.619
-07111,Red Bank,Lexington County,33.932,-81.238
-04905,Little River,Horry County,33.873,-78.614
-04722,Laurens,Laurens County,34.499,-82.014
-07737,Seneca,Oconee County,34.686,-82.953
-09494,York,York County,34.994,-81.242
-04660,Lancaster,Lancaster County,34.720,-80.771
-07619,Sans Souci,Greenville County,34.878,-82.424
-03279,Georgetown,Georgetown County,33.377,-79.294
-08737,Union,Union County,34.715,-81.624
-01309,Camden,Kershaw County,34.247,-80.607
-01240,Burton,Beaufort County,32.436,-80.724
-08619,Travelers Rest,Greenville County,34.968,-82.443
-01741,Clinton,Laurens County,34.473,-81.881
-03745,Hartsville,Darlington County,34.374,-80.073
-08794,Valley Falls,Spartanburg County,35.016,-81.975
-09080,Welcome,Greenville County,34.827,-82.439
-01519,Centerville,Anderson County,34.532,-82.704
-00685,Bennettsville,Marlboro County,34.617,-79.685
-01749,Clover,York County,35.111,-81.226
-05093,Lyman,Spartanburg County,34.948,-82.127
-05248,Marion,Marion County,34.178,-79.401
-02345,Dillon,Dillon County,34.417,-79.371
-02204,Darlington,Darlington County,34.300,-79.876
-04601,Lake City,Florence County,33.871,-79.755
-06684,Piedmont,Anderson County,34.706,-82.467
-03987,Hollywood,Charleston County,32.734,-80.242
-00667,Belvedere,Aiken County,33.531,-81.945
-01520,Central,Pickens County,34.724,-82.781
-01609,Chester,Chester County,34.705,-81.214
-01594,Cheraw,Chesterfield County,34.698,-79.883
-00003,Abbeville,Abbeville County,34.178,-82.379
-00485,Barnwell,Barnwell County,33.245,-81.359
-02546,East Camden,Kershaw County,34.256,-80.575
-06065,Newport,York County,34.990,-81.101
-00658,Belton,Anderson County,34.523,-82.494
-09426,Woodruff,Spartanburg County,34.740,-82.037
-08338,Surfside Beach,Horry County,33.606,-78.973
-01102,Brookdale,Orangeburg County,33.507,-80.823
-02481,Duncan,Spartanburg County,34.938,-82.145
-09306,Williamston,Anderson County,34.618,-82.478
-08953,Walhalla,Oconee County,34.765,-83.064
-07657,Saxon,Spartanburg County,34.961,-81.967
-01721,Clearwater,Aiken County,33.497,-81.892
-08609,Townville,Anderson County,34.564,-82.899
-05189,Manning,Clarendon County,33.695,-80.211
-06174,Northlake,Anderson County,34.566,-82.684
-07240,Ridgeland,Beaufort County,32.469,-80.921
-09267,Whitney,Spartanburg County,34.984,-81.926
-06600,Pendleton,Anderson County,34.642,-82.779
-04805,Lesslie,York County,34.891,-80.956
-09086,Wellford,Spartanburg County,34.951,-82.106
-00260,Arcadia,Spartanburg County,34.958,-81.991
-09069,Wedgefield,Sumter County,33.893,-80.518
-06678,Pickens,Pickens County,34.883,-82.707
-04831,Liberty,Pickens County,34.788,-82.692
-02176,Dalzell,Sumter County,34.017,-80.430
-09359,Winnsboro,Fairfield County,34.381,-81.086
-03936,Hilltop,Spartanburg County,34.982,-81.964
-02291,Denmark,Bamberg County,33.323,-81.142
-07557,Saluda,Saluda County,34.002,-81.772
-04173,Inman,Spartanburg County,35.047,-82.090
-00792,Bishopville,Lee County,34.218,-80.248
-01603,Cherryvale,Sumter County,33.956,-80.458
-09312,Williston,Barnwell County,33.403,-81.420
-02671,Elgin,Lancaster County,34.673,-80.719
-04644,Lakewood,Sumter County,33.847,-80.350
-03669,Hampton,Hampton County,32.878,-81.128
-08065,Springdale,Lexington County,33.959,-81.109
-00127,Allendale,Allendale County,33.008,-81.308
-03474,Graniteville,Aiken County,33.564,-81.808
-08065,Springdale,Lancaster County,34.689,-80.786
-00210,Andrews,Georgetown County,33.449,-79.566
-00282,Arkwright,Spartanburg County,34.924,-81.933
-07796,Shell Point,Beaufort County,32.384,-80.736
-02609,Edgefield,Edgefield County,33.790,-81.930
-09177,Westminster,Oconee County,34.665,-83.097
-06726,Pine Ridge,Lexington County,33.910,-81.105
-05365,McCormick,McCormick County,33.913,-82.293
-00671,Ben Avon,Spartanburg County,34.937,-81.879
-04302,Johnston,Edgefield County,33.832,-81.801
-08530,Tigerville,Greenville County,35.068,-82.368
-07290,Riverview,York County,35.003,-80.980
-04675,Langley,Aiken County,33.518,-81.844
-03503,Great Falls,Chester County,34.575,-80.902
-00823,Blacksburg,Cherokee County,35.121,-81.516
-01560,Chapin,Lexington County,34.166,-81.350
-02813,Estill,Hampton County,32.755,-81.242
-08101,St. George,Dorchester County,33.186,-80.576
-08119,St. Matthews,Calhoun County,33.665,-80.778
-04025,Hopkins,Richland County,33.904,-80.877
-08773,Utica,Oconee County,34.678,-82.932
-05339,Mayo,Spartanburg County,35.084,-81.860
-04005,Homewood,Horry County,33.884,-79.048
-07153,Reidville,Spartanburg County,34.863,-82.114
-03257,Gaston,Lexington County,33.817,-81.101
-02671,Elgin,Kershaw County,34.171,-80.794
-07246,Ridgeville,Dorchester County,33.096,-80.315
-08128,St. Stephen,Berkeley County,33.404,-79.922
-04232,Jackson,Aiken County,33.325,-81.788
-04331,Judson,Greenville County,34.833,-82.428
-01451,Catawba,York County,34.853,-80.911
-02869,Fairfax,Allendale County,32.959,-81.237
-04291,Joanna,Laurens County,34.415,-81.811
-04301,Johnsonville,Florence County,33.818,-79.449
-06593,Pelzer,Anderson County,34.642,-82.456
-01732,Cleveland,Greenville County,35.072,-82.527
-01610,Chesterfield,Chesterfield County,34.736,-80.088
-01188,Buffalo,Union County,34.726,-81.683
-06318,Olympia,Richland County,33.977,-81.030
-04708,Latta,Dillon County,34.337,-79.431
-04206,Irwin,Lancaster County,34.694,-80.822
-03983,Holly Hill,Orangeburg County,33.323,-80.414
-07706,Seabrook,Beaufort County,32.528,-80.766
-06977,Prosperity,Newberry County,34.209,-81.533
-04868,Lincolnville,Charleston County,33.008,-80.156
-04223,Iva,Anderson County,34.306,-82.664
-02438,Drayton,Spartanburg County,34.968,-81.906
-06234,Oakland,Sumter County,33.983,-80.488
-00523,Bath,Aiken County,33.504,-81.869
-07612,Sandy Springs,Anderson County,34.595,-82.750
-01004,Branchville,Orangeburg County,33.251,-80.816
-03201,Gadsden,Richland County,33.846,-80.766
-07016,Quinby,Florence County,34.237,-79.735
-08815,Van Wyck,Lancaster County,34.858,-80.846
-06071,Newtown,Dillon County,34.407,-79.357
-04649,Lamar,Darlington County,34.169,-80.063
-02623,Edmund,Lexington County,33.862,-81.200
-08963,Wallace,Marlboro County,34.720,-79.841
-04317,Jonesville,Union County,34.836,-81.681
-03658,Hamer,Dillon County,34.478,-79.331
-07630,Santee,Orangeburg County,33.475,-80.486
-00971,Bowman,Orangeburg County,33.349,-80.683
-04263,Jefferson,Chesterfield County,34.650,-80.389
-01738,Clifton,Spartanburg County,34.980,-81.818
-07886,Six Mile,Pickens County,34.807,-82.821
-08678,Turbeville,Clarendon County,33.891,-80.018
-04626,Lake View,Dillon County,34.346,-79.166
-06124,Norris,Pickens County,34.760,-82.754
-06726,Pine Ridge,Darlington County,34.395,-80.163
-08357,Swansea,Lexington County,33.738,-81.098
-09007,Warrenville,Aiken County,33.551,-81.804
-01974,Cottageville,Colleton County,32.937,-80.481
-01177,Bucksport,Horry County,33.665,-79.103
-06126,North,Orangeburg County,33.616,-81.102
-04906,Little Rock,Dillon County,34.477,-79.403
-08929,Wagener,Aiken County,33.652,-81.361
-07699,Scranton,Florence County,33.918,-79.744
-02169,Dale,Beaufort County,32.557,-80.690
-02583,Eastover,Richland County,33.877,-80.693
-02479,Dunbar,Georgetown County,33.550,-79.355
-01745,Clio,Marlboro County,34.580,-79.546
-08755,Unity,Lancaster County,34.798,-80.699
-03307,Gilbert,Lexington County,33.924,-81.394
-03822,Helena,Newberry County,34.283,-81.641
-07793,Sheldon,Beaufort County,32.602,-80.793
-05090,Lydia,Darlington County,34.288,-80.120
-06281,Olanta,Florence County,33.935,-79.933
-02883,Fairview Crossroads,Lexington County,33.759,-81.366
-06741,Pinewood,Sumter County,33.740,-80.463
-06158,North Santee,Clarendon County,33.521,-80.427
-05633,Modoc,McCormick County,33.733,-82.206
-04668,Lane,Williamsburg County,33.522,-79.879
-07772,Sharon,York County,34.951,-81.341
-03879,Hickory Grove,York County,34.983,-81.416
-05203,Manville,Lee County,34.154,-80.303
-01269,Cash,Chesterfield County,34.619,-79.877
-08067,Springfield,Orangeburg County,33.497,-81.279
-01148,Brunson,Hampton County,32.925,-81.187
-07952,Society Hill,Darlington County,34.513,-79.851
-08299,Summit,Lexington County,33.925,-81.422
-01799,Cokesbury,Greenwood County,34.289,-82.208
-01901,Converse,Spartanburg County,34.992,-81.835
-03913,Hilda,Barnwell County,33.273,-81.247
-01195,Buford,Lancaster County,34.745,-80.617
-07478,Russellville,Berkeley County,33.397,-79.972
-04931,Lockhart,Union County,34.787,-81.462
-09156,West Union,Oconee County,34.760,-83.043
-01310,Cameron,Calhoun County,33.558,-80.715
-02675,Elliott,Lee County,34.107,-80.164
-06397,Oswego,Sumter County,34.007,-80.288
-02861,Fair Play,Anderson County,34.508,-82.987
-01381,Carlisle,Union County,34.593,-81.463
-00733,Bethune,Kershaw County,34.415,-80.349
-05094,Lynchburg,Lee County,34.060,-80.071
-07447,Ruby,Chesterfield County,34.745,-80.183
-03583,Grover,Dorchester County,33.105,-80.595
-06186,Norway,Orangeburg County,33.452,-81.125
-07217,Richburg,Chester County,34.716,-81.020
-03352,Glendale,Spartanburg County,34.945,-81.838
-03306,Gifford,Hampton County,32.860,-81.239
-07247,Ridgeway,Fairfield County,34.308,-80.960
-05779,Mount Carmel,McCormick County,34.007,-82.507
-07939,Snelling,Barnwell County,33.240,-81.456
-08005,South Union,Oconee County,34.551,-83.052
-02217,Daviston,Marion County,33.887,-79.376
-00349,Atlantic Beach,Horry County,33.803,-78.716
-03198,Furman,Hampton County,32.682,-81.188
-06445,Paxville,Clarendon County,33.739,-80.357
-06078,Nichols,Marion County,34.234,-79.149
-07168,Rembert,Sumter County,34.096,-80.533
-05839,Mulberry,Sumter County,33.952,-80.333
-06549,Pauline,Spartanburg County,34.833,-81.872
-05649,Monetta,Aiken County,33.850,-81.610
-08624,Trenton,Edgefield County,33.744,-81.841
-08264,Stuckey,Williamsburg County,33.732,-79.513
-06066,Newry,Oconee County,34.726,-82.907
-07156,Reevesville,Dorchester County,33.206,-80.648
-06628,Perry,Aiken County,33.627,-81.311
-01504,Centenary,Marion County,34.031,-79.356
-07819,Shiloh,Sumter County,33.940,-80.041
-08155,Starr,Anderson County,34.377,-82.696
-07685,Scotia,Hampton County,32.681,-81.243
-03965,Hodges,Greenwood County,34.288,-82.244
-09408,Woodford,Orangeburg County,33.667,-81.109
-09026,Waterloo,Laurens County,34.352,-82.059
-04502,Kline,Barnwell County,33.126,-81.343
-08376,Sycamore,Allendale County,33.036,-81.222
-07730,Sellers,Marion County,34.284,-79.473
-02661,Elko,Barnwell County,33.380,-81.380
-00993,Bradley,Greenwood County,34.049,-82.245
-07340,Rockville,Charleston County,32.601,-80.195
-01937,Cordova,Orangeburg County,33.435,-80.921
-03069,Foreston,Clarendon County,33.632,-80.062
-04920,Livingston,Orangeburg County,33.553,-81.119
-06511,Parksville,McCormick County,33.786,-82.220
-08816,Vance,Orangeburg County,33.434,-80.423
-08994,Ward,Saluda County,33.858,-81.730
-07536,Salem,Oconee County,34.890,-82.977
-01690,Clarks Hill,McCormick County,33.671,-82.173
-09343,Windsor,Aiken County,33.482,-81.514
-00848,Blenheim,Marlboro County,34.511,-79.653
-08831,Vaucluse,Aiken County,33.612,-81.810
-00980,Boykin,Kershaw County,34.117,-80.581
-05080,Luray,Hampton County,32.814,-81.240
-09300,Williams,Colleton County,33.035,-80.843
-09526,Zion,Marion County,34.260,-79.318
-08652,Troy,Greenwood County,33.988,-82.298
-04916,Live Oak,Horry County,34.056,-78.939
-04944,Lodge,Colleton County,33.068,-80.954
-08426,Tatum,Marlboro County,34.644,-79.586
-04247,Jamestown,Berkeley County,33.286,-79.693
-09310,Willington,McCormick County,33.972,-82.467
-05829,Mountville,Laurens County,34.363,-81.968
-06965,Princeton,Laurens County,34.497,-82.287
-08092,St. Charles,Lee County,34.067,-80.218
-08728,Ulmer,Allendale County,33.097,-81.208
-07936,Smyrna,Cherokee County,35.042,-81.409
-00331,Ashwood,Lee County,34.109,-80.316
-02079,Cross Anchor,Spartanburg County,34.643,-81.858
-04269,Jenkinsville,Fairfield County,34.267,-81.288
-01137,Browntown,Lee County,34.203,-80.317
-01923,Cope,Orangeburg County,33.378,-81.007
-00042,Adger,Fairfield County,34.437,-81.126
-00161,Altamont,Greenville County,34.941,-82.410
-00232,Antioch,Kershaw County,34.240,-80.508
-00248,Appleton,Allendale County,33.044,-81.363
-00440,Ballentine,Richland County,34.124,-81.237
-00473,Barksdale,Laurens County,34.570,-82.090
-00491,Barrelville,Charleston County,32.686,-80.351
-00522,Batesville,Greenville County,34.851,-82.231
-00524,Baton Rouge,Chester County,34.697,-81.344
-00618,Belair,Lancaster County,34.953,-80.851
-00728,Bethany,York County,35.117,-81.306
-00831,Blair,Fairfield County,34.422,-81.396
-00833,Blairsville,York County,34.915,-81.350
-00947,Bordeaux,McCormick County,33.926,-82.421
-00970,Bowling Green,York County,35.150,-81.212
-00980,Boykin,Marlboro County,34.733,-79.644
-01029,Breeden,Marlboro County,34.653,-79.659
-01079,Bristow,Marlboro County,34.419,-79.618
-01135,Brownsville,Marlboro County,34.392,-79.592
-01178,Bucksville,Horry County,33.719,-79.063
-01324,Campton,Spartanburg County,35.029,-82.064
-01333,Canadys,Colleton County,33.056,-80.620
-01411,Cartersville,Florence County,34.086,-80.029
-01429,Cashville,Spartanburg County,34.807,-82.130
-01679,Claremont,Sumter County,33.974,-80.559
-01757,Clyde,Darlington County,34.385,-80.184
-01911,Cool Spring,Horry County,33.975,-79.137
-01942,Corinth,Oconee County,34.712,-82.896
-02044,Crescent,Spartanburg County,34.771,-82.111
-02078,Cross,Berkeley County,33.328,-80.148
-02081,Cross Keys,Union County,34.632,-81.776
-02262,DeKalb,Kershaw County,34.377,-80.596
-02435,Drake,Marlboro County,34.473,-79.667
-02479,Dunbar,Marlboro County,34.534,-79.561
-02612,Edgemoor,Chester County,34.806,-81.011
-02635,Effingham,Florence County,34.058,-79.753
-02841,Evergreen,Florence County,34.069,-79.679
-02978,Finland,Bamberg County,33.366,-81.093
-03071,Fork,Dillon County,34.288,-79.275
-03171,Friendship,Marion County,34.017,-79.435
-03179,Frogmore,Beaufort County,32.658,-80.332
-03245,Garnett,Hampton County,32.606,-81.245
-03439,Grahamville,Jasper County,32.474,-80.963
-03522,Green Pond,Spartanburg County,34.800,-82.080
-03561,Gresham,Marion County,33.930,-79.411
-03670,Hannah,Florence County,33.883,-79.580
-03835,Hendersonville,Colleton County,32.791,-80.725
-03879,Hickory Grove,Horry County,33.877,-78.973
-03986,Holly Springs,Spartanburg County,35.004,-82.176
-04024,Hopewell,Georgetown County,33.674,-79.416
-04024,Hopewell,York County,34.927,-81.441
-04031,Horatio,Sumter County,34.021,-80.566
-04153,Indiantown,Williamsburg County,33.725,-79.561
-04240,Jalapa,Newberry County,34.344,-81.685
-04320,Jordan,Clarendon County,33.606,-80.209
-04385,Kemper,Dillon County,34.328,-79.199
-04466,Kings Creek,Cherokee County,35.074,-81.437
-04470,Kingsburg,Florence County,33.881,-79.452
-04750,Lena,Hampton County,32.754,-81.215
-04767,Leeds,Chester County,34.629,-81.396
-04834,Liberty Hill,Kershaw County,34.478,-80.802
-04859,Limp,Saluda County,33.988,-81.852
-04896,Little Chicago,Spartanburg County,35.063,-82.184
-04968,Lone Star,Calhoun County,33.626,-80.589
-04984,Longtown,Fairfield County,34.348,-80.837
-05112,Macedonia,Cherokee County,35.071,-81.760
-05279,Martin,Allendale County,33.069,-81.476
-05611,Minturn,Dillon County,34.517,-79.472
-05664,Mont Clare,Darlington County,34.397,-79.821
-05682,Monticello,Fairfield County,34.353,-81.298
-05683,Montmorenci,Aiken County,33.528,-81.636
-05699,Moore,Spartanburg County,34.833,-81.992
-05787,Mount Holly,Berkeley County,33.034,-80.034
-05915,Neyles,Colleton County,32.825,-80.558
-06023,New Prospect,Spartanburg County,35.132,-82.044
-06046,New Zion,Clarendon County,33.844,-80.029
-06158,North Santee,Georgetown County,33.230,-79.377
-06214,Oak Grove,Dillon County,34.352,-79.543
-06265,Ogden,York County,34.853,-80.911
-06588,Pelham,Spartanburg County,34.857,-82.224
-06722,Pine Island,Horry County,33.737,-78.926
-06735,Pineland,Jasper County,32.600,-81.159
-06740,Pineville,Berkeley County,33.428,-80.029
-06764,Pittsburg,Greenwood County,33.987,-82.003
-06782,Plantersville,Georgetown County,33.556,-79.215
-06795,Pleasant Hill,Lancaster County,34.620,-80.685
-06861,Pontiac,Richland County,34.128,-80.855
-06901,Poston,Florence County,33.874,-79.426
-06981,Providence,Orangeburg County,33.393,-80.542
-06988,Pumpkintown,Pickens County,35.003,-82.653
-07113,Red Bluff,Marlboro County,34.611,-79.506
-07125,Red River,York County,34.961,-80.965
-07222,Richland,Oconee County,34.678,-83.026
-07256,Rimini,Clarendon County,33.669,-80.500
-07268,Rion,Fairfield County,34.307,-81.125
-07454,Ruffin,Colleton County,33.005,-80.816
-07611,Sandy Run,Calhoun County,33.800,-80.964
-07638,Sardinia,Clarendon County,33.834,-80.083
-07916,Smith,York County,34.821,-81.115
-08166,State Line,Cherokee County,35.177,-81.800
-08251,Strawberry,Berkeley County,33.092,-80.031
-08330,Sunset,Pickens County,34.977,-82.799
-08363,Sweden,Bamberg County,33.379,-81.135
-08374,Switzer,Spartanburg County,34.805,-82.028
-08375,Switzerland,Jasper County,32.428,-81.009
-08421,Tarboro,Jasper County,32.532,-81.154
-08534,Tillman,Jasper County,32.464,-81.107
-08565,Toddville,Horry County,33.759,-79.076
-08733,Una,Darlington County,34.270,-80.134
-08733,Una,Spartanburg County,34.969,-81.970
-09089,Wells,Orangeburg County,33.372,-80.481
-09187,Westville,Kershaw County,34.457,-80.599
-09235,White Rock,Richland County,34.145,-81.276
-09237,White Stone,Spartanburg County,34.903,-81.817
-09334,Wilson,Clarendon County,33.663,-80.118
+0958,Charleston,Berkeley County,32.828,-79.973
+1150,Columbia,Lexington County,34.041,-80.906
+3519,Mount Pleasant,Charleston County,32.794,-79.863
+4392,Rock Hill,York County,34.925,-81.025
+2220,Greenville,Greenville County,34.853,-82.394
+4755,Summerville,Berkeley County,33.006,-80.179
+2125,Goose Creek,Berkeley County,32.981,-80.033
+1867,Florence,Florence County,34.195,-79.763
+2223,Greer,Greenville County,34.930,-82.238
+4785,Spartanburg,Spartanburg County,34.950,-81.932
+0510,Bluffton,Beaufort County,32.237,-80.860
+0034,Aiken,Aiken County,33.560,-81.720
+0700,Burgess,Horry County,33.607,-79.056
+0127,Anderson,Anderson County,34.503,-82.650
+4716,Simpsonville,Greenville County,34.737,-82.254
+2959,Lexington,Lexington County,33.982,-81.236
+1182,Conway,Horry County,33.836,-79.048
+2222,Greenwood,Greenwood County,34.195,-82.162
+1851,Five Forks,Greenville County,34.805,-82.230
+5406,West Columbia,Lexington County,33.993,-81.074
+4274,Red Hill,Horry County,33.778,-79.015
+0401,Berea,Greenville County,34.885,-82.456
+4652,Seven Oaks,Lexington County,34.049,-81.146
+1996,Gantt,Greenville County,34.800,-82.424
+0894,Cayce,Lexington County,33.950,-81.040
+4134,Port Royal,Beaufort County,32.379,-80.693
+0751,Parker,Greenville County,34.851,-82.453
+0332,Beaufort,Beaufort County,32.432,-80.670
+3823,Orangeburg,Orangeburg County,33.492,-80.856
+3744,Oak Grove,Lexington County,33.972,-81.144
+1999,Garden City,Horry County,33.593,-79.009
+0520,Boiling Springs,Spartanburg County,35.047,-81.982
+3657,Newberry,Newberry County,34.275,-81.619
+4270,Red Bank,Lexington County,33.932,-81.238
+0814,Little River,Horry County,33.873,-78.614
+2912,Laurens,Laurens County,34.499,-82.014
+2330,Seneca,Oconee County,34.686,-82.953
+5630,York,York County,34.994,-81.242
+2880,Lancaster,Lancaster County,34.720,-80.771
+4578,Sans Souci,Greenville County,34.878,-82.424
+2039,Georgetown,Georgetown County,33.377,-79.294
+2965,Union,Union County,34.715,-81.624
+0778,Camden,Kershaw County,34.247,-80.607
+0719,Burton,Beaufort County,32.436,-80.724
+1085,Clinton,Laurens County,34.473,-81.881
+2349,Hartsville,Darlington County,34.374,-80.073
+5211,Valley Falls,Spartanburg County,35.016,-81.975
+5384,Welcome,Greenville County,34.827,-82.439
+0929,Centerville,Anderson County,34.532,-82.704
+0393,Bennettsville,Marlboro County,34.617,-79.685
+1091,Clover,York County,35.111,-81.226
+3110,Lyman,Spartanburg County,34.948,-82.127
+0760,Marion,Marion County,34.178,-79.401
+1437,Dillon,Dillon County,34.417,-79.371
+1342,Darlington,Darlington County,34.300,-79.876
+2841,Lake City,Florence County,33.871,-79.755
+4013,Piedmont,Anderson County,34.706,-82.467
+2498,Hollywood,Charleston County,32.734,-80.242
+0383,Belvedere,Aiken County,33.531,-81.945
+0930,Central,Pickens County,34.724,-82.781
+0920,Chester,Chester County,34.705,-81.214
+0980,Cheraw,Chesterfield County,34.698,-79.883
+0001,Abbeville,Abbeville County,34.178,-82.379
+1543,East Camden,Kershaw County,34.256,-80.575
+3667,Newport,York County,34.990,-81.101
+0382,Belton,Anderson County,34.523,-82.494
+5590,Woodruff,Spartanburg County,34.740,-82.037
+4976,Surfside Beach,Horry County,33.606,-78.973
+0629,Brookdale,Orangeburg County,33.507,-80.823
+1503,Duncan,Spartanburg County,34.938,-82.145
+5515,Williamston,Anderson County,34.618,-82.478
+5307,Walhalla,Oconee County,34.765,-83.064
+4607,Saxon,Spartanburg County,34.961,-81.967
+1073,Clearwater,Aiken County,33.497,-81.892
+5115,Townville,Anderson County,34.564,-82.899
+3166,Manning,Clarendon County,33.695,-80.211
+3722,Northlake,Anderson County,34.566,-82.684
+4345,Ridgeland,Beaufort County,32.469,-80.921
+5491,Whitney,Spartanburg County,34.984,-81.926
+3969,Pendleton,Anderson County,34.642,-82.779
+2949,Lesslie,York County,34.891,-80.956
+0162,Arcadia,Spartanburg County,34.958,-81.991
+5380,Wedgefield,Sumter County,33.893,-80.518
+4009,Pickens,Pickens County,34.883,-82.707
+0794,Liberty,Pickens County,34.788,-82.692
+1326,Dalzell,Sumter County,34.017,-80.430
+5547,Winnsboro,Fairfield County,34.381,-81.086
+2468,Hilltop,Spartanburg County,34.982,-81.964
+1404,Denmark,Bamberg County,33.323,-81.142
+4531,Saluda,Saluda County,34.002,-81.772
+2591,Inman,Spartanburg County,35.047,-82.090
+0453,Bishopville,Lee County,34.218,-80.248
+0988,Cherryvale,Sumter County,33.956,-80.458
+5521,Williston,Barnwell County,33.403,-81.420
+1639,Elgin,Lancaster County,34.673,-80.719
+2869,Lakewood,Sumter County,33.847,-80.350
+2294,Hampton,Hampton County,32.878,-81.128
+4804,Springdale,Lexington County,33.959,-81.109
+0074,Allendale,Allendale County,33.008,-81.308
+2162,Graniteville,Aiken County,33.564,-81.808
+4804,Springdale,Lancaster County,34.689,-80.786
+0130,Andrews,Georgetown County,33.449,-79.566
+0173,Arkwright,Spartanburg County,34.924,-81.933
+4677,Shell Point,Beaufort County,32.384,-80.736
+1593,Edgefield,Edgefield County,33.790,-81.930
+5443,Westminster,Oconee County,34.665,-83.097
+4037,Pine Ridge,Lexington County,33.910,-81.105
+3263,McCormick,McCormick County,33.913,-82.293
+0385,Ben Avon,Spartanburg County,34.937,-81.879
+2667,Johnston,Edgefield County,33.832,-81.801
+4378,Riverview,York County,35.003,-80.980
+2887,Langley,Aiken County,33.518,-81.844
+2186,Great Falls,Chester County,34.575,-80.902
+0468,Blacksburg,Cherokee County,35.121,-81.516
+0953,Chapin,Lexington County,34.166,-81.350
+4827,St. George,Dorchester County,33.186,-80.576
+4844,St. Matthews,Calhoun County,33.665,-80.778
+2520,Hopkins,Richland County,33.904,-80.877
+2304,Utica,Oconee County,34.678,-82.932
+3250,Mayo,Spartanburg County,35.084,-81.860
+2512,Homewood,Horry County,33.884,-79.048
+4294,Reidville,Spartanburg County,34.863,-82.114
+2020,Gaston,Lexington County,33.817,-81.101
+1639,Elgin,Kershaw County,34.171,-80.794
+4347,Ridgeville,Dorchester County,33.096,-80.315
+4852,St. Stephen,Berkeley County,33.404,-79.922
+1589,Jackson,Aiken County,33.325,-81.788
+2685,Judson,Greenville County,34.833,-82.428
+0885,Catawba,York County,34.853,-80.911
+0646,Fairfax,Allendale County,32.959,-81.237
+2660,Joanna,Laurens County,34.415,-81.811
+2666,Johnsonville,Florence County,33.818,-79.449
+1078,Cleveland,Greenville County,35.072,-82.527
+0994,Chesterfield,Chesterfield County,34.736,-80.088
+0684,Buffalo,Union County,34.726,-81.683
+3804,Olympia,Richland County,33.977,-81.030
+2905,Latta,Dillon County,34.337,-79.431
+2614,Irwin,Lancaster County,34.694,-80.822
+2495,Holly Hill,Orangeburg County,33.323,-80.414
+4629,Seabrook,Beaufort County,32.528,-80.766
+4195,Prosperity,Newberry County,34.209,-81.533
+2984,Lincolnville,Charleston County,33.008,-80.156
+1480,Drayton,Spartanburg County,34.968,-81.906
+3758,Oakland,Sumter County,33.983,-80.488
+0303,Bath,Aiken County,33.504,-81.869
+4573,Sandy Springs,Anderson County,34.595,-82.750
+0573,Branchville,Orangeburg County,33.251,-80.816
+1980,Gadsden,Richland County,33.846,-80.766
+4220,Quinby,Florence County,34.237,-79.735
+3669,Newtown,Dillon County,34.407,-79.357
+2873,Lamar,Darlington County,34.169,-80.063
+1604,Edmund,Lexington County,33.862,-81.200
+5311,Wallace,Marlboro County,34.720,-79.841
+2677,Jonesville,Union County,34.836,-81.681
+2282,Hamer,Dillon County,34.478,-79.331
+4588,Santee,Orangeburg County,33.475,-80.486
+0555,Bowman,Orangeburg County,33.349,-80.683
+2193,Jefferson,Chesterfield County,34.650,-80.389
+1083,Clifton,Spartanburg County,34.980,-81.818
+2858,Lake View,Dillon County,34.346,-79.166
+3699,Norris,Pickens County,34.760,-82.754
+4037,Pine Ridge,Darlington County,34.395,-80.163
+4985,Swansea,Lexington County,33.738,-81.098
+5334,Warrenville,Aiken County,33.551,-81.804
+1220,Cottageville,Colleton County,32.937,-80.481
+0678,Bucksport,Horry County,33.665,-79.103
+3002,Little Rock,Dillon County,34.477,-79.403
+5293,Wagener,Aiken County,33.652,-81.361
+4625,Scranton,Florence County,33.918,-79.744
+1322,Dale,Beaufort County,32.557,-80.690
+1565,Eastover,Richland County,33.877,-80.693
+1502,Dunbar,Georgetown County,33.550,-79.355
+1090,Clio,Marlboro County,34.580,-79.546
+5191,Unity,Lancaster County,34.798,-80.699
+2060,Gilbert,Lexington County,33.924,-81.394
+1816,Sheldon,Beaufort County,32.602,-80.793
+2404,Helena,Newberry County,34.283,-81.641
+3108,Lydia,Darlington County,34.288,-80.120
+4047,Pinewood,Sumter County,33.740,-80.463
+3419,Modoc,McCormick County,33.733,-82.206
+0742,Lane,Williamsburg County,33.522,-79.879
+4665,Sharon,York County,34.951,-81.341
+2437,Hickory Grove,York County,34.983,-81.416
+3176,Manville,Lee County,34.154,-80.303
+0746,Cash,Chesterfield County,34.619,-79.877
+1066,Springfield,Orangeburg County,33.497,-81.279
+4745,Society Hill,Darlington County,34.513,-79.851
+2170,Summit,Lexington County,33.925,-81.422
+1121,Cokesbury,Greenwood County,34.289,-82.208
+1181,Converse,Spartanburg County,34.992,-81.835
+2454,Hilda,Barnwell County,33.273,-81.247
+0690,Buford,Lancaster County,34.745,-80.617
+3018,Lockhart,Union County,34.787,-81.462
+5427,West Union,Oconee County,34.760,-83.043
+0779,Cameron,Calhoun County,33.558,-80.715
+1642,Elliott,Lee County,34.107,-80.164
+0697,Oswego,Sumter County,34.007,-80.288
+1760,Fair Play,Anderson County,34.508,-82.987
+0832,Carlisle,Union County,34.593,-81.463
+0422,Bethune,Kershaw County,34.415,-80.349
+3111,Lynchburg,Lee County,34.060,-80.071
+4472,Ruby,Chesterfield County,34.745,-80.183
+3732,Norway,Orangeburg County,33.452,-81.125
+4326,Richburg,Chester County,34.716,-81.020
+2089,Glendale,Spartanburg County,34.945,-81.838
+2059,Gifford,Hampton County,32.860,-81.239
+4348,Ridgeway,Fairfield County,34.308,-80.960
+3509,Mount Carmel,McCormick County,34.007,-82.507
+4739,Snelling,Barnwell County,33.240,-81.456
+4772,South Union,Oconee County,34.551,-83.052
+1351,Daviston,Marion County,33.887,-79.376
+0209,Atlantic Beach,Horry County,33.803,-78.716
+3674,Nichols,Marion County,34.234,-79.149
+3541,Mulberry,Sumter County,33.952,-80.333
+3944,Pauline,Spartanburg County,34.833,-81.872
+3426,Monetta,Aiken County,33.850,-81.610
+5124,Trenton,Edgefield County,33.744,-81.841
+3668,Newry,Oconee County,34.726,-82.907
+0743,Perry,Aiken County,33.627,-81.311
+4689,Shiloh,Sumter County,33.940,-80.041
+4867,Starr,Anderson County,34.377,-82.696
+4619,Scotia,Hampton County,32.681,-81.243
+2481,Hodges,Greenwood County,34.288,-82.244
+5577,Woodford,Orangeburg County,33.667,-81.109
+5352,Waterloo,Laurens County,34.352,-82.059
+2780,Kline,Barnwell County,33.126,-81.343
+4996,Sycamore,Allendale County,33.036,-81.222
+1630,Elko,Barnwell County,33.380,-81.380
+0567,Bradley,Greenwood County,34.049,-82.245
+4407,Rockville,Charleston County,32.601,-80.195
+1198,Cordova,Orangeburg County,33.435,-80.921
+1899,Foreston,Clarendon County,33.632,-80.062
+3012,Livingston,Orangeburg County,33.553,-81.119
+3921,Parksville,McCormick County,33.786,-82.220
+5225,Vance,Orangeburg County,33.434,-80.423
+5325,Ward,Saluda County,33.858,-81.730
+1141,Salem,Oconee County,34.890,-82.977
+1042,Clarks Hill,McCormick County,33.671,-82.173
+5539,Windsor,Aiken County,33.482,-81.514
+0483,Blenheim,Marlboro County,34.511,-79.653
+0562,Boykin,Kershaw County,34.117,-80.581
+3100,Luray,Hampton County,32.814,-81.240
+5511,Williams,Colleton County,33.035,-80.843
+5647,Zion,Marion County,34.260,-79.318
+0731,Troy,Greenwood County,33.988,-82.298
+5024,Tatum,Marlboro County,34.644,-79.586
+2636,Jamestown,Berkeley County,33.286,-79.693
+5519,Willington,McCormick County,33.972,-82.467
+3537,Mountville,Laurens County,34.363,-81.968
+4186,Princeton,Laurens County,34.497,-82.287
+4819,St. Charles,Lee County,34.067,-80.218
+5176,Ulmer,Allendale County,33.097,-81.208
+4738,Smyrna,Cherokee County,35.042,-81.409
+0195,Ashwood,Lee County,34.109,-80.316
+0653,Browntown,Lee County,34.203,-80.317
+1190,Cope,Orangeburg County,33.378,-81.007
+0802,Canadys,Colleton County,33.056,-80.620
+1274,Cross Keys,Union County,34.632,-81.776
+1613,Effingham,Florence County,34.058,-79.753
+2523,Horatio,Sumter County,34.021,-80.566
+2583,Indiantown,Williamsburg County,33.725,-79.561
+2941,Lena,Hampton County,32.754,-81.215
+2968,Liberty Hill,Kershaw County,34.478,-80.802
+3409,Minturn,Dillon County,34.517,-79.472
+3458,Moore,Spartanburg County,34.833,-81.992
+3513,Mount Holly,Berkeley County,33.034,-80.034
+3961,Pelham,Spartanburg County,34.857,-82.224
+4033,Pine Island,Horry County,33.737,-78.926
+4075,Plantersville,Georgetown County,33.556,-79.215
+4147,Poston,Florence County,33.874,-79.426
+4353,Rimini,Clarendon County,33.669,-80.500
+4995,Switzerland,Jasper County,32.428,-81.009
+5221,White Rock,Richland County,34.145,-81.276
+5341,Wilson,Clarendon County,33.663,-80.118
+5449,Westville,Kershaw County,34.457,-80.599

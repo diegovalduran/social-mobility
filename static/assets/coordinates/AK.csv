@@ -1,105 +1,82 @@
 phoneme,name,county,latitude,longitude
-00203,Anchorage,Anchorage Municipality,61.218,-149.900
-02863,Fairbanks,Fairbanks North Star Borough,64.838,-147.716
-04338,Juneau,Juneau City and Borough,58.302,-134.420
-00408,Badger,Fairbanks North Star Borough,64.800,-147.533
-01819,College,Fairbanks North Star Borough,64.857,-147.803
-07885,Sitka,Sitka City and Borough,57.053,-135.330
-05411,Meadow Lakes,Matanuska-Susitna Borough,61.625,-149.601
-08177,Steele Creek,Fairbanks North Star Borough,64.926,-147.435
-03263,Gateway,Matanuska-Susitna Borough,61.573,-149.241
-00727,Bethel,Bethel ,60.792,-161.756
-06472,Palmer,Matanuska-Susitna Borough,61.600,-149.113
-08187,Sterling,Kenai Peninsula Borough,60.537,-150.765
-04000,Homer,Kenai Peninsula Borough,59.642,-151.548
-04527,Kodiak,Kodiak Island Borough,57.790,-152.407
-02990,Fishhook,Matanuska-Susitna Borough,61.731,-149.284
-08781,Valdez,Chugach ,61.084,-146.317
-01251,Butte,Matanuska-Susitna Borough,61.542,-149.033
-06104,Nome,Nome ,64.501,-165.406
-06642,Petersburg,Petersburg Borough,56.811,-132.951
-00753,Big Lake,Matanuska-Susitna Borough,61.545,-149.818
-02809,Ester,Fairbanks North Star Borough,64.847,-148.014
-07247,Ridgeway,Kenai Peninsula Borough,60.532,-151.085
-07751,Seward,Kenai Peninsula Borough,60.104,-149.442
-01937,Cordova,Chugach ,60.530,-145.642
-04050,Houston,Matanuska-Susitna Borough,61.630,-149.818
-09315,Willow,Matanuska-Susitna Borough,61.747,-150.037
-03634,Haines,Haines Borough,59.229,-135.444
-00564,Bear Creek,Kenai Peninsula Borough,60.164,-149.395
-02019,Craig,Prince of Wales-Hyder ,55.476,-133.148
-03807,Healy,Denali Borough,63.857,-148.966
-07592,Sand Point,Aleutians East Borough,55.340,-160.497
-06806,Pleasant Valley,Fairbanks North Star Borough,64.881,-146.869
-03685,Happy Valley,Kenai Peninsula Borough,59.947,-151.732
-08938,Wainwright,North Slope Borough,70.637,-160.038
-03606,Gustavus,Hoonah-Angoon ,58.413,-135.737
-08175,Stebbins,Nome ,63.522,-162.288
-05826,Mountain Village,Kusilvak ,62.086,-163.729
-08118,St. Mary's,Kusilvak ,62.063,-163.244
-05712,Moose Creek,Fairbanks North Star Borough,64.710,-147.144
-01169,Buckland,Northwest Arctic Borough,65.980,-161.123
-05269,Marshall,Kusilvak ,61.878,-162.081
-08124,St. Paul,Aleutians West ,57.122,-170.275
-03209,Galena,Yukon-Koyukuk ,64.733,-156.928
-08120,St. Michael,Nome ,63.478,-162.039
-08714,Two Rivers,Fairbanks North Star Borough,64.872,-147.038
-04463,King Salmon,Bristol Bay Borough,58.688,-156.661
-07656,Saxman,Ketchikan Gateway Borough,55.318,-131.596
-02674,Elim,Nome ,64.618,-162.261
-05379,McGrath,Yukon-Koyukuk ,62.956,-155.596
-09271,Whittier,Chugach ,60.777,-148.664
-00182,Ambler,Northwest Arctic Borough,67.086,-157.851
-02451,Dry Creek,Southeast Fairbanks ,63.653,-144.665
-03497,Grayling,Yukon-Koyukuk ,62.904,-160.065
-03979,Hollis,Prince of Wales-Hyder ,55.557,-132.636
-01929,Copperville,Unorganized Borough,62.072,-145.415
-03996,Holy Cross,Yukon-Koyukuk ,62.199,-159.771
-00206,Anderson,Denali Borough,64.344,-149.187
-02238,Deering,Northwest Arctic Borough,66.076,-162.717
-03120,Fox,Fairbanks North Star Borough,64.958,-147.618
-08952,Wales,Nome ,65.609,-168.088
-09318,Willow Creek,Copper River ,61.830,-145.199
-05610,Minto,Yukon-Koyukuk ,65.150,-149.350
-07447,Ruby,Yukon-Koyukuk ,64.739,-155.487
-01354,Cantwell,Denali Borough,63.392,-148.951
-07868,Silver Springs,Copper River ,62.019,-145.358
-04019,Hope,Kenai Peninsula Borough,60.920,-149.640
-06964,Primrose,Kenai Peninsula Borough,60.342,-149.296
-00585,Beaver,Yukon-Koyukuk ,66.385,-147.288
-02518,Eagle,Southeast Fairbanks ,64.788,-141.200
-06589,Pelican,Hoonah-Angoon ,57.961,-136.227
-04078,Hughes,Yukon-Koyukuk ,66.049,-154.256
-08101,St. George,Aleutians West ,56.600,-169.542
-06633,Perryville,Lake and Peninsula Borough,55.914,-159.163
-07060,Rampart,Yukon-Koyukuk ,65.505,-150.170
-01687,Clark's Point,Dillingham ,58.833,-158.527
-02072,Crooked Creek,Bethel ,61.870,-158.111
-06702,Pilot Point,Lake and Peninsula Borough,57.564,-157.579
-02098,Crown Point,Kenai Peninsula Borough,60.422,-149.367
-01520,Central,Yukon-Koyukuk ,65.573,-144.803
-08229,Stony River,Bethel ,61.783,-156.588
-02529,Eagle Village,Southeast Fairbanks ,64.781,-141.114
-09254,Whitestone,Southeast Fairbanks ,64.153,-145.906
-01668,Circle,Yukon-Koyukuk ,65.826,-144.061
-02888,Ferry,Denali Borough,64.017,-149.117
-02834,Evansville,Yukon-Koyukuk ,66.923,-151.508
-08329,Sunrise,Kenai Peninsula Borough,60.890,-149.421
-09377,Wiseman,Yukon-Koyukuk ,67.410,-150.107
-00776,Birch Creek,Yukon-Koyukuk ,66.259,-145.819
-03279,Georgetown,Unorganized Borough,61.899,-157.701
-05878,Nabesna,Unorganized Borough,62.371,-143.014
-00154,Alpine,North Slope Borough,70.238,-150.994
-01575,Chase,Matanuska-Susitna Borough,62.449,-150.102
-02138,Curry,Matanuska-Susitna Borough,62.615,-150.012
-02394,Donnelly,Unorganized Borough,63.674,-145.883
-03004,Flat,Yukon-Koyukuk ,62.454,-158.007
-03413,Gordon,North Slope Borough,69.680,-141.206
-04133,Indian,Anchorage,60.990,-149.510
-05006,Loring,Ketchikan Gateway Borough,55.602,-131.636
-05878,Nabesna,Copper River ,62.497,-143.007
-06554,Paxson,Copper River ,62.976,-145.758
-06645,Petersville,Matanuska-Susitna Borough,62.496,-150.766
-06830,Point Baker,Prince of Wales-Hyder ,56.353,-133.621
-07962,Solomon,Unorganized Borough,64.561,-164.439
-09024,Waterfall,Unorganized Borough,55.297,-133.241
+0125,Anchorage,Anchorage Municipality,61.218,-149.900
+1761,Fairbanks,Fairbanks North Star Borough,64.838,-147.716
+2690,Juneau,Juneau City and Borough,58.302,-134.420
+0243,Badger,Fairbanks North Star Borough,64.800,-147.533
+4719,Sitka,Sitka City and Borough,57.053,-135.330
+3295,Meadow Lakes,Matanuska-Susitna Borough,61.625,-149.601
+2025,Gateway,Matanuska-Susitna Borough,61.573,-149.241
+0418,Bethel,Bethel ,60.792,-161.756
+3898,Palmer,Matanuska-Susitna Borough,61.600,-149.113
+4888,Sterling,Kenai Peninsula Borough,60.537,-150.765
+2507,Homer,Kenai Peninsula Borough,59.642,-151.548
+5204,Valdez,Chugach ,61.084,-146.317
+0733,Butte,Matanuska-Susitna Borough,61.542,-149.033
+3687,Nome,Nome ,64.501,-165.406
+3992,Petersburg,Petersburg Borough,56.811,-132.951
+0435,Big Lake,Matanuska-Susitna Borough,61.545,-149.818
+4348,Ridgeway,Kenai Peninsula Borough,60.532,-151.085
+4657,Seward,Kenai Peninsula Borough,60.104,-149.442
+1198,Cordova,Chugach ,60.530,-145.642
+2532,Houston,Matanuska-Susitna Borough,61.630,-149.818
+5523,Willow,Matanuska-Susitna Borough,61.747,-150.037
+1773,Haines,Haines Borough,59.229,-135.444
+0325,Bear Creek,Kenai Peninsula Borough,60.164,-149.395
+1239,Craig,Prince of Wales-Hyder ,55.476,-133.148
+2395,Healy,Denali Borough,63.857,-148.966
+4560,Sand Point,Aleutians East Borough,55.340,-160.497
+4087,Pleasant Valley,Fairbanks North Star Borough,64.881,-146.869
+2307,Happy Valley,Kenai Peninsula Borough,59.947,-151.732
+5298,Wainwright,North Slope Borough,70.637,-160.038
+3535,Mountain Village,Kusilvak ,62.086,-163.729
+4256,St. Mary's,Kusilvak ,62.063,-163.244
+0675,Buckland,Northwest Arctic Borough,65.980,-161.123
+3212,Marshall,Kusilvak ,61.878,-162.081
+4848,St. Paul,Aleutians West ,57.122,-170.275
+1985,Galena,Yukon-Koyukuk ,64.733,-156.928
+4845,St. Michael,Nome ,63.478,-162.039
+5167,Two Rivers,Fairbanks North Star Borough,64.872,-147.038
+2757,King Salmon,Bristol Bay Borough,58.688,-156.661
+4606,Saxman,Ketchikan Gateway Borough,55.318,-131.596
+1641,Elim,Nome ,64.618,-162.261
+3273,McGrath,Yukon-Koyukuk ,62.956,-155.596
+5495,Whittier,Chugach ,60.777,-148.664
+0111,Ambler,Northwest Arctic Borough,67.086,-157.851
+1490,Dry Creek,Southeast Fairbanks ,63.653,-144.665
+2492,Hollis,Prince of Wales-Hyder ,55.557,-132.636
+2503,Holy Cross,Yukon-Koyukuk ,62.199,-159.771
+0127,Anderson,Denali Borough,64.344,-149.187
+1368,Deering,Northwest Arctic Borough,66.076,-162.717
+1930,Fox,Fairbanks North Star Borough,64.958,-147.618
+1132,Wales,Nome ,65.609,-168.088
+5525,Willow Creek,Copper River ,61.830,-145.199
+1847,Minto,Yukon-Koyukuk ,65.150,-149.350
+4472,Ruby,Yukon-Koyukuk ,64.739,-155.487
+4711,Silver Springs,Copper River ,62.019,-145.358
+1843,Hope,Kenai Peninsula Borough,60.920,-149.640
+4185,Primrose,Kenai Peninsula Borough,60.342,-149.296
+0335,Beaver,Yukon-Koyukuk ,66.385,-147.288
+1526,Eagle,Southeast Fairbanks ,64.788,-141.200
+3962,Pelican,Hoonah-Angoon ,57.961,-136.227
+2544,Hughes,Yukon-Koyukuk ,66.049,-154.256
+4827,St. George,Aleutians West ,56.600,-169.542
+3985,Perryville,Lake and Peninsula Borough,55.914,-159.163
+4244,Rampart,Yukon-Koyukuk ,65.505,-150.170
+1270,Crooked Creek,Bethel ,61.870,-158.111
+4024,Pilot Point,Lake and Peninsula Borough,57.564,-157.579
+1281,Crown Point,Kenai Peninsula Borough,60.422,-149.367
+0930,Central,Yukon-Koyukuk ,65.573,-144.803
+1534,Eagle Village,Southeast Fairbanks ,64.781,-141.114
+1027,Circle,Yukon-Koyukuk ,65.826,-144.061
+1782,Ferry,Denali Borough,64.017,-149.117
+1745,Evansville,Yukon-Koyukuk ,66.923,-151.508
+4970,Sunrise,Kenai Peninsula Borough,60.890,-149.421
+0445,Birch Creek,Yukon-Koyukuk ,66.259,-145.819
+2039,Georgetown,Unorganized Borough,61.899,-157.701
+0965,Chase,Matanuska-Susitna Borough,62.449,-150.102
+1457,Donnelly,Unorganized Borough,63.674,-145.883
+1855,Flat,Yukon-Koyukuk ,62.454,-158.007
+2126,Gordon,North Slope Borough,69.680,-141.206
+3055,Loring,Ketchikan Gateway Borough,55.602,-131.636
+3994,Petersville,Matanuska-Susitna Borough,62.496,-150.766
+4104,Point Baker,Prince of Wales-Hyder ,56.353,-133.621

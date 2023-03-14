@@ -1,1184 +1,305 @@
 phoneme,name,county,latitude,longitude
-00793,Bismarck,Burleigh County,46.808,-100.784
-03444,Grand Forks,Grand Forks County,47.925,-97.033
-05608,Minot,Ward County,48.233,-101.296
-09312,Williston,Williams County,48.147,-103.618
-02336,Dickinson,Stark County,46.879,-102.790
-05174,Mandan,Morton County,46.827,-100.890
-04247,Jamestown,Stutsman County,46.911,-98.708
-08935,Wahpeton,Richland County,46.265,-96.606
-02314,Devils Lake,Ramsey County,48.112,-98.876
-08793,Valley City,Barnes County,46.923,-98.003
-04861,Lincoln,Burleigh County,46.762,-100.700
-03782,Hay Creek,Burleigh County,46.873,-100.798
-03437,Grafton,Walsh County,48.412,-97.411
-00242,Apple Creek,Burleigh County,46.750,-100.634
-04030,Horace,Cass County,46.759,-96.904
-00734,Beulah,Mercer County,47.263,-101.778
-03300,Gibbs,Burleigh County,46.858,-100.637
-06035,New Town,Mountrail County,47.981,-102.490
-09025,Waterford,Ward County,48.416,-101.386
-07456,Rugby,Pierce County,48.369,-99.996
-08147,Stanley,Mountrail County,48.317,-102.390
-03803,Hazen,Mercer County,47.294,-101.623
-04889,Lisbon,Ransom County,46.442,-97.681
-06230,Oakes,Dickey County,46.139,-98.090
-03724,Harrison,Ward County,48.244,-101.367
-05343,Mayville,Traill County,47.498,-97.325
-03931,Hillsboro,Traill County,47.404,-97.062
-03752,Harvey,Wells County,47.770,-99.935
-03247,Garrison,McLean County,47.652,-101.416
-09013,Washburn,McLean County,47.289,-101.029
-07362,Rolla,Rolette County,48.858,-99.618
-07148,Reed,Cass County,46.941,-96.871
-08497,Thompson,Grand Forks County,47.774,-97.110
-02077,Crosby,Divide County,48.914,-103.295
-04885,Linton,Emmons County,46.267,-100.233
-06030,New Salem,Morton County,46.845,-101.411
-00552,Beach,Golden Valley County,46.918,-104.004
-06182,Northwood,Grand Forks County,47.734,-97.567
-01919,Cooperstown,Griggs County,47.444,-98.124
-08147,Stanley,Cass County,46.751,-96.839
-05617,Mission,Benson County,47.993,-98.840
-08953,Walhalla,Pembina County,48.923,-97.918
-06523,Parshall,Mountrail County,47.953,-102.135
-01345,Cannon Ball,Sioux County,46.389,-100.594
-00051,Afton,Ward County,48.149,-101.334
-03754,Harwood,Cass County,46.979,-96.881
-03814,Hebron,Morton County,46.901,-102.045
-08736,Underwood,McLean County,47.456,-101.137
-08225,Stony Creek,Williams County,48.081,-103.526
-03507,Green Acres,Rolette County,48.838,-99.690
-05893,Napoleon,Logan County,46.508,-99.771
-02438,Drayton,Pembina County,48.571,-97.178
-09337,Wilton,Burleigh County,47.158,-100.784
-03764,Hatton,Traill County,47.640,-97.453
-07088,Ray,Williams County,48.344,-103.165
-04647,Lakota,Nelson County,48.043,-98.336
-00857,Bloom,Stutsman County,46.943,-98.619
-08178,Steele,Kidder County,46.855,-99.916
-05579,Milnor,Sargent County,46.259,-97.456
-05610,Minto,Walsh County,48.292,-97.371
-05528,Midway,Stutsman County,46.937,-98.768
-00328,Ashley,McIntosh County,46.034,-99.371
-06892,Portland,Traill County,47.498,-97.370
-01506,Center,Oliver County,47.116,-101.300
-07359,Roland,Bottineau County,48.944,-100.370
-00127,Allendale,Grand Forks County,47.810,-97.185
-08960,Walle,Grand Forks County,47.795,-97.034
-02671,Elgin,Grant County,46.404,-101.846
-08789,Valley,Barnes County,46.957,-97.960
-08624,Trenton,Williams County,48.071,-103.837
-03074,Forman,Sargent County,46.108,-97.636
-09397,Wood Lake,Benson County,47.897,-98.822
-08605,Towner,McHenry County,48.346,-100.405
-01506,Center,Richland County,46.237,-96.683
-09488,Yellowstone,McKenzie County,47.896,-103.997
-07492,Rye,Grand Forks County,47.981,-97.181
-03350,Glenburn,Renville County,48.513,-101.221
-04540,Kulm,LaMoure County,46.302,-98.948
-05402,McVille,Nelson County,47.764,-98.177
-06924,Powers Lake,Burke County,48.563,-102.648
-01225,Burlington,Ward County,48.239,-101.463
-05202,Manvel,Grand Forks County,48.078,-97.176
-02827,Eureka,Ward County,48.328,-101.338
-07428,Round Prairie,Williams County,48.151,-103.959
-06436,Oxbow,Cass County,46.673,-96.810
-08340,Surrey,Ward County,48.240,-101.074
-06790,Pleasant,Cass County,46.667,-96.859
-02888,Ferry,Grand Forks County,48.059,-97.177
-08246,Strasburg,Emmons County,46.134,-100.162
-08151,Stanton,Mercer County,47.321,-101.382
-01259,Buxton,Traill County,47.602,-97.097
-06122,Normanna,Cass County,46.675,-96.988
-08943,Walcott,Richland County,46.587,-96.927
-04331,Judson,Williams County,48.160,-103.795
-04000,Homer,Stutsman County,46.841,-98.618
-05325,Max,McLean County,47.821,-101.299
-06383,Osborn,Mountrail County,47.987,-102.430
-08107,St. John,Rolette County,48.944,-99.711
-08130,St. Thomas,Pembina County,48.619,-97.446
-07654,Sawyer,Ward County,48.090,-101.054
-04214,Island Park,Ransom County,46.408,-97.732
-00105,Alexander,McKenzie County,47.843,-103.643
-00863,Blooming,Grand Forks County,47.971,-97.298
-02435,Drake,McHenry County,47.924,-100.372
-00971,Bowman,Bowman County,46.161,-103.444
-07195,Reynolds,Grand Forks County,47.669,-97.106
-06867,Poplar Grove,Ramsey County,48.077,-99.010
-04019,Hope,Steele County,47.322,-97.722
-05235,Marsh,Barnes County,46.848,-97.997
-05428,Medina,Stutsman County,46.894,-99.300
-01817,Colfax,Richland County,46.500,-96.926
-03332,Gladstone,Stark County,46.861,-102.568
-05500,Michigan City,Nelson County,48.025,-98.117
-08602,Tower City,Barnes County,46.926,-97.676
-00104,Alex,McKenzie County,47.801,-103.594
-06021,New Prairie,Ward County,48.153,-101.079
-01405,Carson,Grant County,46.418,-101.565
-03706,Harmon,Morton County,46.952,-100.953
-02892,Falconer,Grand Forks County,47.984,-97.077
-02211,Davenport,Cass County,46.714,-97.070
-00007,Abercrombie,Richland County,46.448,-96.730
-08711,Twin Valley,McKenzie County,48.045,-103.187
-04406,Kensington,Walsh County,48.416,-97.722
-04948,Logan,Ward County,48.148,-101.154
-04797,Leonard,Cass County,46.652,-97.246
-02518,Eagle,Richland County,46.532,-96.782
-00211,Aneta,Nelson County,47.679,-97.988
-02960,Fertile,Walsh County,48.413,-97.601
-00018,Akra,Pembina County,48.755,-97.762
-09400,Woodbury,Stutsman County,46.841,-98.766
-07090,Raymond,Cass County,46.941,-96.979
-08429,Taylor,Stark County,46.901,-102.425
-01399,Carrington,Foster County,47.472,-99.075
-03801,Hazelton,Emmons County,46.485,-100.280
-07284,Riverdale,McLean County,47.498,-101.371
-08299,Summit,Richland County,46.146,-96.668
-02128,Cummings,Traill County,47.514,-97.079
-01070,Brightwood,Richland County,46.069,-96.937
-03366,Glenview,Burleigh County,47.019,-100.834
-06680,Pickering,Bottineau County,48.856,-100.514
-08418,Tappen,Kidder County,46.875,-99.636
-08654,Truax,Williams County,48.121,-103.286
-08117,St. Mary,McLean County,47.625,-101.494
-06243,Oakwood,Walsh County,48.412,-97.339
-00564,Bear Creek,Dickey County,46.156,-98.054
-05220,Mapleton,Cass County,46.844,-96.997
-06871,Porcupine,Sioux County,46.219,-101.099
-02620,Edinburg,Walsh County,48.497,-97.862
-03182,Frontier,Cass County,46.801,-96.833
-02235,Dean,LaMoure County,46.319,-98.350
-00245,Apple Valley,Burleigh County,46.822,-100.598
-05606,Minnewaukan,Benson County,48.071,-99.252
-05850,Munich,Cavalier County,48.669,-98.833
-03386,Golden Valley,Mercer County,47.291,-102.065
-03461,Grandin,Cass County,47.237,-97.003
-00188,Americus,Grand Forks County,47.723,-97.035
-07813,Sherwood,Renville County,48.960,-101.633
-07817,Sheyenne,Eddy County,47.828,-99.120
-02671,Elgin,Cavalier County,48.754,-98.420
-08737,Union,Grand Forks County,47.709,-97.291
-00490,Barrie,Richland County,46.586,-97.103
-06242,Oakville,Grand Forks County,47.883,-97.306
-03241,Garfield,Traill County,47.628,-97.409
-04115,Idaho,Mountrail County,48.329,-102.370
-00747,Big Bend,Ransom County,46.406,-97.605
-08877,Viking,Traill County,47.542,-97.411
-02067,Crofte,Burleigh County,47.026,-100.686
-08187,Sterling,Burleigh County,46.814,-100.291
-00581,Beaulieu,Pembina County,48.755,-97.893
-00770,Binford,Griggs County,47.562,-98.345
-08693,Turtle River,Grand Forks County,48.143,-97.202
-04892,Litchville,Barnes County,46.654,-98.194
-06186,Norway,Traill County,47.454,-97.156
-05606,Minnewaukan,Ramsey County,48.144,-98.757
-03367,Glenwood,Walsh County,48.499,-97.600
-05621,Missouri,Burleigh County,46.688,-100.640
-07587,Sanborn,Barnes County,46.942,-98.224
-03151,Freedom,Ward County,48.064,-101.335
-04969,Lone Tree,Golden Valley County,46.713,-103.951
-06806,Pleasant Valley,Williams County,48.328,-102.893
-01609,Chester,Grand Forks County,47.889,-97.430
-01653,Christine,Richland County,46.574,-96.802
-07486,Ruthville,Ward County,48.372,-101.299
-07881,Sioux,McKenzie County,47.913,-103.871
-09317,Willow City,Bottineau County,48.604,-100.294
-00329,Ashtabula,Barnes County,47.114,-98.014
-03534,Greendale,Richland County,45.979,-96.831
-03958,Hobart,Barnes County,46.936,-98.116
-07943,Snow,McLean County,47.629,-101.248
-02628,Edmore,Ramsey County,48.413,-98.454
-06808,Pleasant View,Grand Forks County,47.808,-97.445
-00862,Bloomfield,Traill County,47.367,-97.155
-00907,Bowdon,Wells County,47.470,-99.708
-08573,Tolna,Nelson County,47.827,-98.440
-06106,Noonan,Divide County,48.889,-103.009
-00047,Advance,Pembina County,48.834,-97.753
-04019,Hope,Ramsey County,48.141,-98.476
-08942,Walburg,Cass County,46.767,-97.357
-00976,Boyd,Burleigh County,46.765,-100.521
-05387,McKinley,Ward County,48.331,-101.200
-03475,Grant,Richland County,46.057,-97.219
-01849,Columbus,Burke County,48.904,-102.780
-02698,Ellendale,Dickey County,45.974,-98.579
-08763,Upham,McHenry County,48.582,-100.728
-02870,Fairfield,Grand Forks County,47.803,-97.301
-09014,Washington,Grand Forks County,47.716,-97.431
-00119,Aliceton,Ransom County,46.319,-97.585
-05248,Marion,LaMoure County,46.607,-98.332
-05699,Moore,Ransom County,46.587,-97.721
-09003,Warren,Cass County,46.754,-97.000
-01726,Clement,Dickey County,46.175,-98.194
-03240,Gardner,Cass County,47.147,-96.968
-02870,Fairfield,Billings County,47.189,-103.222
-02921,Farmington,Walsh County,48.499,-97.470
-09311,Willis,Ward County,48.061,-101.196
-02712,Elm Grove,Grand Forks County,47.977,-97.688
-05216,Maple River,Cass County,46.761,-97.240
-00624,Belford,Richland County,46.153,-96.948
-00702,Berlin,Cass County,47.019,-97.010
-09417,Woodlawn,Kidder County,46.843,-99.880
-05431,Medora,Billings County,46.914,-103.524
-03506,Greene,Ransom County,46.580,-97.459
-03641,Hall,Sargent County,46.239,-97.332
-00046,Adrian,LaMoure County,46.595,-98.589
-02666,Eldorado,Traill County,47.461,-97.017
-05499,Michigan,Grand Forks County,47.709,-97.163
-03404,Goodrich,Sheridan County,47.475,-100.126
-03314,Gill,Cass County,46.844,-97.364
-08601,Tower,Cass County,46.942,-97.609
-00229,Antelope,Richland County,46.326,-96.967
-02751,Empire,Cass County,47.014,-97.378
-03728,Harriston,Walsh County,48.326,-97.317
-04403,Kennison,LaMoure County,46.573,-98.725
-07687,Scott,Adams County,45.984,-102.560
-09506,Ypsilanti,Stutsman County,46.782,-98.563
-00719,Burt,Ward County,48.160,-101.458
-00789,Bisbee,Towner County,48.626,-99.378
-08172,Stavanger,Traill County,47.628,-97.027
-03694,Hardscrabble,Williams County,48.071,-103.943
-04831,Liberty,Ransom County,46.580,-97.611
-03823,Helendale,Richland County,46.580,-97.209
-06065,Newport,McHenry County,48.327,-100.432
-02484,Dundee,Walsh County,48.500,-97.731
-02839,Everest,Cass County,46.847,-97.241
-05493,Meyer,Pierce County,48.323,-99.891
-07284,Riverdale,Dickey County,46.059,-98.081
-01381,Carlisle,Pembina County,48.804,-97.360
-07851,Sykeston,Wells County,47.465,-99.400
-02972,Fillmore,Divide County,48.945,-103.257
-07077,Raritan,Barnes County,46.669,-97.732
-07793,Sheldon,Ransom County,46.586,-97.491
-00150,Almont,Morton County,46.725,-101.503
-03357,Glenfield,Foster County,47.453,-98.567
-08812,Van Meter,Dickey County,45.980,-98.444
-00036,Addison,Cass County,46.760,-97.116
-00158,Alta,Barnes County,46.935,-97.873
-06048,Newburg,Bottineau County,48.715,-100.913
-07850,Sikes,Mountrail County,48.151,-102.386
-00027,Acton,Walsh County,48.425,-97.202
-03096,Forward,Wells County,47.716,-99.876
-01966,Corwin,Stutsman County,46.747,-98.638
-02877,Fairmount,Richland County,46.024,-96.602
-03506,Green,Barnes County,46.841,-98.113
-05886,Nansen,Richland County,46.413,-96.967
-08701,Twelve Mile,Williams County,48.122,-103.421
-09222,White Earth,Mountrail County,48.381,-102.773
-01161,Buchanan,Stutsman County,47.015,-98.775
-02775,Ensign,Renville County,48.502,-101.257
-03899,Highland,Cass County,46.671,-97.482
-04002,Homestead,Richland County,46.326,-97.092
-00186,Amenia,Cass County,47.026,-97.271
-02238,Deering,McHenry County,48.396,-101.052
-05279,Martin,Walsh County,48.506,-97.332
-08398,Talbot,Bowman County,46.170,-103.305
-08909,Vivian,Sargent County,46.243,-97.840
-02801,Esmond,Benson County,48.036,-99.762
-04474,Kingston,Sargent County,46.058,-97.311
-07841,Sibley,Kidder County,46.828,-99.780
-02667,Eldred,Cass County,46.767,-97.493
-06154,North Prairie,McHenry County,48.160,-100.940
-07406,Roseville,Traill County,47.454,-97.410
-09034,Watson,Cass County,46.673,-97.367
-09299,Willey,Sargent County,46.235,-97.580
-02415,Douglas,Ward County,47.857,-101.503
-02479,Dunbar,Sargent County,46.160,-97.560
-03932,Hillsdale,Wells County,47.811,-99.995
-06932,Prairie Centre,Walsh County,48.325,-97.579
-07468,Rush River,Cass County,47.026,-97.145
-07772,Sharon,Steele County,47.597,-97.894
-00386,Avon,Grand Forks County,47.802,-97.559
-01935,Cordelia,Bottineau County,48.835,-100.244
-04977,Long Lake,Burleigh County,46.666,-100.267
-05686,Montpelier,Stutsman County,46.700,-98.590
-06990,Purcell,Mountrail County,48.247,-102.353
-07411,Ross,Mountrail County,48.311,-102.547
-08948,Waldo,Richland County,46.064,-96.814
-09347,Winfield,Stutsman County,46.841,-98.492
-05181,Manilla,Cavalier County,48.761,-98.277
-06861,Pontiac,Cass County,46.666,-97.609
-07252,Riga,McHenry County,48.327,-100.681
-08240,Strabane,Grand Forks County,48.144,-97.568
-09089,Wells,Wells County,47.811,-99.855
-02371,Dodge,Dunn County,47.306,-102.204
-03535,Greenfield,Traill County,47.281,-97.261
-04833,Liberty Grove,Richland County,46.146,-97.063
-08546,Tioga,Williams County,48.423,-102.962
-02359,Divide,Dickey County,46.236,-98.064
-03481,Granville,McHenry County,48.234,-100.812
-03535,Greenfield,Griggs County,47.284,-98.151
-04354,Karlsruhe,McHenry County,48.090,-100.620
-06048,Newburgh,Steele County,47.629,-97.537
-00587,Beaver Creek,Steele County,47.623,-97.655
-03430,Grace,Grand Forks County,47.802,-97.688
-01425,Casey,Ransom County,46.493,-97.605
-03383,Golden,Walsh County,48.407,-97.853
-04592,Lehr,Logan County,46.282,-99.353
-05117,McKenzie,Burleigh County,46.822,-100.415
-05979,New England,Hettinger County,46.499,-102.863
-09517,Zeeland,McIntosh County,45.970,-99.831
-02322,Dexter,Richland County,46.144,-97.177
-02629,Edna,Barnes County,47.110,-98.267
-04074,Hudson,Dickey County,46.074,-98.184
-05725,Morgan,Traill County,47.629,-97.282
-06108,Nora,LaMoure County,46.420,-98.715
-07363,Rolling Green,Ward County,48.144,-101.581
-07844,Sydney,Stutsman County,46.754,-98.744
-01005,Brandenburg,Richland County,46.153,-96.825
-01851,Colville,Burke County,48.591,-102.693
-02226,Dayton,Nelson County,47.797,-98.450
-02675,Elliott,Ransom County,46.420,-97.857
-03841,Henrietta,LaMoure County,46.412,-98.465
-04515,Noble,Cass County,47.194,-96.887
-05814,Mountain,Pembina County,48.688,-97.865
-02512,Dwight,Richland County,46.304,-96.738
-03149,Freeborn,Eddy County,47.810,-98.631
-03707,Harmony,Cass County,46.941,-97.127
-04059,Howes,Cass County,46.854,-97.482
-05240,Margaret,Ward County,48.408,-101.114
-07071,Ransom,Sargent County,46.067,-97.441
-07470,Rushford,Walsh County,48.326,-97.709
-00664,Belmont,Traill County,47.621,-96.912
-02783,Epping,Williams County,48.279,-103.357
-04380,Kelso,Traill County,47.281,-97.007
-06587,Pekin,Nelson County,47.791,-98.328
-09166,Western,Wells County,47.710,-99.995
-05410,Meadow Lake,Barnes County,46.761,-98.354
-07207,Rice Lake,Ward County,47.986,-101.541
-07390,Rose Hill,Foster County,47.450,-98.939
-08124,St. Paul,Stutsman County,46.856,-99.373
-09376,Wise,McLean County,47.552,-100.755
-02166,Dazey,Barnes County,47.191,-98.202
-08351,Sverdrup,Griggs County,47.378,-98.065
-02716,Elma,Richland County,45.976,-96.981
-04643,Lakeville,Grand Forks County,48.070,-97.330
-06955,Preston,Ransom County,46.580,-97.836
-08777,Uxbridge,Barnes County,47.117,-98.394
-00057,Agnes,Grand Forks County,48.064,-97.709
-00839,Blanchard,Traill County,47.367,-97.283
-02221,Dawson,Kidder County,46.869,-99.751
-02395,Donnybrook,Ward County,48.509,-101.885
-02710,Elm,Dickey County,45.984,-98.704
-06331,Ontario,Ramsey County,48.162,-98.601
-07699,Scranton,Bowman County,46.174,-103.179
-08109,St. Joseph,Pembina County,48.954,-97.726
-02109,Crystal,Pembina County,48.586,-97.732
-05160,Malcolm,McLean County,47.625,-101.110
-05750,Morton,Burleigh County,46.668,-100.384
-08856,Vernon,Walsh County,48.326,-97.838
-08870,Victoria,McLean County,47.537,-101.258
-09110,West Bank,Williams County,48.328,-103.022
-01443,Castle Rock,Hettinger County,46.320,-102.371
-05424,Medford,Walsh County,48.239,-97.840
-05458,Menoken,Burleigh County,46.821,-100.531
-06985,Pulaski,Walsh County,48.317,-97.200
-00772,Binghampton,Barnes County,46.761,-97.745
-01188,Buffalo,Cass County,46.938,-97.482
-04628,Lake Williams,McLean County,47.548,-100.849
-04758,Lebanon,McHenry County,48.059,-100.810
-05940,Ness,Pierce County,48.329,-100.190
-06073,Niagara,Grand Forks County,47.971,-97.795
-00771,Bingham,Traill County,47.548,-96.909
-01852,Colvin,Eddy County,47.715,-98.601
-02291,Denmark,Ward County,48.757,-102.076
-05279,Martin,Sheridan County,47.804,-100.123
-05802,Mount Rose,Bottineau County,48.676,-101.255
-07209,Rich,Cass County,47.101,-97.505
-08194,Stewart,Barnes County,47.023,-98.150
-08980,Walshville,Walsh County,48.245,-97.194
-01121,Brown,McHenry County,47.981,-100.896
-01251,Butte,McLean County,47.838,-100.665
-01738,Clifton,Cass County,46.753,-97.629
-04089,Hunter,Cass County,47.203,-97.266
-06797,Pleasant Lake,Benson County,48.326,-99.761
-06964,Primrose,Steele County,47.455,-97.537
-07635,Saratoga,LaMoure County,46.595,-98.463
-02028,Crane Creek,Mountrail County,48.068,-102.384
-02446,Driscoll,Burleigh County,46.844,-100.141
-03630,Hague,Emmons County,46.029,-99.996
-03768,Havana,Sargent County,45.950,-97.619
-04327,Jud,LaMoure County,46.526,-98.896
-04680,Lansford,Bottineau County,48.582,-101.375
-07685,Scotia,Bottineau County,48.945,-100.896
-08334,Superior,Eddy County,47.635,-99.064
-08695,Tuscarora,Pierce County,48.239,-100.031
-09013,Washburn,Griggs County,47.456,-98.032
-00307,Arthur,Cass County,47.108,-97.263
-01732,Cleveland,Walsh County,48.233,-97.961
-03294,Getchell,Barnes County,47.015,-98.031
-05359,McClusky,Sheridan County,47.451,-100.492
-06686,Pierce,Barnes County,47.203,-98.392
-07268,Ryan,LaMoure County,46.319,-98.213
-07387,Rose,Stutsman County,47.021,-98.529
-08051,Spring Creek,Barnes County,46.683,-98.114
-09197,Wheatfield,Grand Forks County,48.064,-97.579
-09378,Wiser,Cass County,47.107,-96.883
-03681,Hanson,Ransom County,46.416,-97.956
-05291,Maryland,Ward County,48.343,-101.074
-05337,Mayland,Ward County,48.416,-101.647
-05696,Moon Lake,Stutsman County,46.849,-98.999
-05716,Moraine,Grand Forks County,47.892,-97.827
-08393,Tacoma,Bottineau County,48.669,-100.853
-08877,Viking,Richland County,46.500,-97.093
-09011,Warwick,Benson County,47.888,-98.697
-09198,Wheatland,Cass County,46.907,-97.345
-00395,Ayr,Cass County,47.022,-97.515
-00677,Benedict,McLean County,47.830,-101.082
-03757,Hastings,Bottineau County,48.770,-101.180
-00233,Antler,Bottineau County,48.951,-101.289
-00327,Ashland,Stutsman County,47.104,-98.641
-01453,Kathryn,Barnes County,46.678,-97.969
-03548,Greenville,LaMoure County,46.416,-98.100
-04099,Hurley,Renville County,48.844,-101.549
-05381,McHenry,Foster County,47.576,-98.591
-01006,Brandon,Renville County,48.748,-101.571
-02301,Denver,Sargent County,46.233,-97.934
-03211,Galesburg,Traill County,47.275,-97.378
-05717,Moran,Richland County,46.053,-97.065
-07739,Sentinel,Golden Valley County,46.886,-103.719
-08858,Verona,LaMoure County,46.364,-98.072
-00964,Bowen,Sargent County,46.153,-97.695
-01772,Colgate,Steele County,47.245,-97.656
-03332,Gladstone,LaMoure County,46.500,-98.223
-05189,Manning,Kidder County,46.706,-99.876
-05607,Minnie,Grant County,46.415,-101.860
-06175,Northland,Ransom County,46.581,-97.960
-06595,Pembina,Pembina County,48.944,-97.308
-08183,Stevens,Ramsey County,48.064,-98.614
-08590,Torning,Ward County,48.071,-101.483
-09064,Weber,Sargent County,45.972,-97.563
-00111,Alger,Mountrail County,48.237,-102.494
-03165,Freshwater,Ramsey County,48.252,-98.899
-04861,Lincoln,Pembina County,48.675,-97.198
-06062,Newman,Ward County,47.983,-101.159
-07088,Ray,LaMoure County,46.417,-98.841
-07771,Sharlow,Stutsman County,46.677,-98.906
-08066,Springer,Ransom County,46.498,-97.848
-03939,Hilton,Ward County,47.986,-101.433
-05269,Marshall,Williams County,48.329,-103.410
-01732,Cleveland,Stutsman County,46.892,-99.118
-02727,Elora,Pembina County,48.587,-97.600
-03194,Fullerton,Dickey County,46.165,-98.427
-03485,Grass Lake,Burleigh County,47.208,-100.675
-05104,Mabel,Griggs County,47.379,-98.447
-05174,Mandan,Ward County,48.248,-101.718
-08599,Tuttle,Kidder County,47.144,-99.995
-08780,Vale,Burke County,48.853,-102.604
-03662,Hamlin,Nelson County,47.810,-98.215
-04973,Long Creek,Williams County,48.102,-103.259
-06156,North River,Cass County,46.951,-96.803
-06649,Pettibone,Kidder County,47.119,-99.520
-07807,Sherbrooke,Steele County,47.455,-97.665
-07817,Sheyenne,Richland County,46.508,-97.216
-08721,Tyrone,Williams County,48.327,-103.678
-06228,Oak Valley,Bottineau County,48.777,-100.512
-08072,Springvale,Barnes County,46.847,-97.745
-08692,Turtle Lake,McLean County,47.549,-100.986
-02710,Elm,Grant County,46.415,-101.736
-05004,Loretta,Grand Forks County,47.716,-97.818
-05523,Midland,Pembina County,48.637,-97.332
-02624,Edmunds,Stutsman County,47.284,-98.901
-02786,Equality,Williams County,48.333,-103.143
-03659,Hamilton,Pembina County,48.772,-97.491
-04789,Lenora,Griggs County,47.637,-98.045
-04812,Levant,Grand Forks County,48.151,-97.319
-05076,Lund,Ward County,48.059,-101.846
-06111,Norden,LaMoure County,46.344,-98.974
-07749,Severn,Stutsman County,46.689,-98.766
-08252,Streeter,Stutsman County,46.675,-99.396
-00408,Badger,LaMoure County,46.319,-98.463
-01048,Briarwood,Cass County,46.786,-96.797
-02789,Erie,Cass County,47.116,-97.389
-03564,Griffin,Stutsman County,46.667,-99.123
-03853,Herman,Sargent County,46.157,-97.323
-04869,Lind,Grand Forks County,47.715,-97.689
-05875,Myrtle,Mountrail County,48.329,-102.767
-06183,Norton,Walsh County,48.329,-97.981
-06531,Passport,Ward County,48.333,-101.863
-07386,Roscoe,LaMoure County,46.500,-98.474
-00124,Alleghany,Ransom County,46.319,-97.836
-00125,Allen,Kidder County,46.915,-99.883
-03919,Hill,Cass County,46.847,-97.619
-06931,Prairie,LaMoure County,46.594,-98.223
-07487,Rutland,Sargent County,46.068,-97.550
-08155,Star,Bowman County,46.242,-103.421
-08808,Van Buren,Renville County,48.504,-101.385
-00078,Alamo,Williams County,48.582,-103.470
-01045,Bryan,Griggs County,47.546,-98.418
-03502,Great Bend,Richland County,46.154,-96.802
-03547,Greenview,Steele County,47.449,-97.921
-05034,Lovell,Dickey County,45.979,-98.070
-06117,Normal,McHenry County,48.496,-100.330
-06389,Oshkosh,Wells County,47.623,-99.577
-06924,Powers Lake,Mountrail County,48.496,-102.690
-09121,West End,Richland County,46.326,-97.218
-09315,Willow,Griggs County,47.632,-98.291
-00865,Blooming Prairie,Divide County,48.945,-103.396
-02960,Fertile,Mountrail County,47.884,-102.170
-03453,Grand Prairie,Barnes County,47.110,-97.897
-04349,Kane,Bottineau County,48.756,-100.917
-06104,Nome,Barnes County,46.678,-97.810
-06945,Pratt,McHenry County,48.582,-100.984
-09322,Willow Lake,Steele County,47.276,-97.879
-03615,Haaland,Wells County,47.443,-99.703
-03837,Hendrickson,McHenry County,48.159,-100.830
-04687,Larrabee,Foster County,47.539,-98.810
-04691,Lark,Grant County,46.415,-101.362
-04985,Longview,Foster County,47.365,-99.208
-05408,Meadow,McHenry County,48.596,-100.728
-06496,Park,Pembina County,48.676,-97.726
-06824,Plymouth,Grand Forks County,48.062,-97.841
-07811,Sherman,Bottineau County,48.843,-101.289
-08994,Ward,Burke County,48.756,-102.339
-00702,Berlin,Sheridan County,47.710,-100.123
-01217,Burke,Mountrail County,48.240,-102.246
-02503,Durham,Stutsman County,47.199,-98.649
-02737,Elysian,Bottineau County,48.669,-100.592
-03154,Freeman,Richland County,46.413,-97.218
-03362,Glenmore,LaMoure County,46.500,-98.725
-04780,Leipzig,Grant County,46.509,-101.851
-05388,McKinney,Renville County,48.767,-101.819
-06887,Porter,Dickey County,46.234,-98.451
-07357,Rogers,Barnes County,47.073,-98.200
-07501,Saddle Butte,Golden Valley County,47.021,-103.976
-08034,Speedwell,Wells County,47.456,-99.585
-00084,Albert,Benson County,48.057,-99.513
-00369,Ora,Nelson County,47.723,-97.947
-01317,Campbell,Emmons County,46.596,-100.000
-02334,Dickey,LaMoure County,46.537,-98.468
-02602,Eddy,Eddy County,47.789,-98.696
-03658,Hammer,Ramsey County,48.407,-98.906
-05206,Maple,Dickey County,46.147,-98.452
-05852,Munster,Eddy County,47.712,-99.221
-01001,Brampton,Sargent County,45.986,-97.831
-01088,Broadview,Griggs County,47.281,-98.012
-01771,Coalfield,Divide County,48.843,-103.000
-02148,Cut Bank,Bottineau County,48.764,-101.431
-03027,Florance,Foster County,47.553,-98.663
-03462,Grandview,LaMoure County,46.504,-98.338
-03774,Hawkeye,McKenzie County,47.985,-102.844
-04207,Isabel,Benson County,48.065,-99.653
-04511,Knife River,Mountrail County,48.068,-102.505
-05189,Manning,Dunn County,47.229,-102.769
-05380,McGregor,Williams County,48.595,-102.928
-05743,Morris,Ramsey County,48.239,-98.767
-06261,Odin,McHenry County,47.987,-100.637
-07225,Richmond,Burleigh County,47.191,-100.311
-00035,Addie,Griggs County,47.537,-98.299
-02452,Dry Fork,Williams County,48.240,-102.891
-04767,Leeds,Benson County,48.329,-99.389
-05063,Lucy,Burke County,48.691,-102.549
-05132,Madison,Hettinger County,46.587,-102.487
-08982,Walters,Stutsman County,47.277,-99.033
-09169,Westfield,Steele County,47.622,-97.782
-09436,Woodworth,Stutsman County,47.142,-99.303
-00293,Arne,Benson County,47.886,-99.611
-01679,Clermont,Adams County,45.991,-102.435
-01787,Coburn,Ransom County,46.580,-97.353
-02979,Finley,Steele County,47.540,-97.782
-03260,Gates,Eddy County,47.804,-99.084
-04438,Keystone,Dickey County,46.155,-98.567
-05810,Mount View,Towner County,48.846,-99.457
-06452,Page,Cass County,47.203,-97.504
-06642,Petersburg,Nelson County,47.964,-97.948
-06744,Pingree,Stutsman County,47.200,-98.901
-07309,Rochester,Cass County,47.196,-97.642
-08035,Spencer,Ward County,48.583,-102.158
-09215,White Ash,Renville County,48.503,-101.778
-00118,Alice,Cass County,46.762,-97.556
-01394,Carpenter,Steele County,47.282,-97.771
-01718,Clearfield,Griggs County,47.457,-98.286
-02717,Elmdale,Ward County,48.674,-102.158
-03774,Hawkeye,Divide County,48.854,-103.266
-05463,Mercer,McLean County,47.458,-100.769
-05928,Nelson,Barnes County,46.776,-98.003
-07397,Rosefield,Eddy County,47.621,-99.201
-07662,Scandia,Bottineau County,48.947,-100.775
-08067,Springfield,Towner County,48.398,-99.429
-08118,St. Marys,Ward County,48.414,-101.511
-08913,Voltaire,McHenry County,48.021,-100.842
-00210,Andrews,McLean County,47.797,-101.036
-00457,Banner,Mountrail County,47.884,-102.054
-00499,Bartley,Griggs County,47.282,-98.278
-00866,Blooming Valley,Divide County,48.851,-103.136
-02517,Egan,Mountrail County,48.334,-101.976
-02582,Easton,Steele County,47.450,-97.782
-02604,Eden,Walsh County,48.238,-97.709
-03159,Fremont,Cavalier County,48.957,-98.027
-03496,Gray,Stutsman County,47.118,-98.523
-04831,Liberty,Mountrail County,47.880,-102.297
-06628,Perry,Cavalier County,48.688,-98.378
-06910,Potter,Barnes County,46.938,-98.259
-08350,Svea,Barnes County,46.762,-98.249
-09498,Yorktown,Dickey County,46.153,-98.317
-00028,Ada,Dickey County,45.980,-98.319
-00480,Barney,Richland County,46.267,-97.001
-01243,Bush,Eddy County,47.804,-98.975
-01722,Cleary,Burke County,48.685,-102.669
-02605,Eden Valley,Renville County,48.945,-101.550
-03770,Haven,Foster County,47.450,-98.830
-04170,Inkster,Grand Forks County,48.151,-97.644
-04724,Leval,Nelson County,47.905,-98.473
-04763,Lee,Nelson County,47.715,-98.076
-04892,Litchville,LaMoure County,46.595,-98.109
-05583,Milton,Cavalier County,48.626,-98.043
-05897,Nash,Nelson County,48.057,-97.947
-06643,Peterson,Stutsman County,46.950,-99.363
-06795,Pleasant Hill,Kidder County,46.858,-100.014
-07329,Rockford,Renville County,48.858,-101.945
-09077,Weimer,Barnes County,47.022,-97.769
-09214,White,Pierce County,47.898,-100.130
-09318,Willow Creek,McHenry County,48.595,-100.461
-00142,Alma,Cavalier County,48.674,-98.122
-00616,Bell,Cass County,47.195,-97.134
-00699,Bergen,Nelson County,47.709,-98.323
-01253,Butte Valley,Benson County,48.139,-99.499
-01372,Carbondale,Ward County,48.496,-101.915
-01949,Cornell,Cass County,47.022,-97.642
-01983,Cottonwood,Mountrail County,48.430,-102.529
-01995,Courtenay,Stutsman County,47.189,-98.524
-02739,Embden,Cass County,46.802,-97.433
-03133,Franklin,Steele County,47.536,-97.910
-03352,Glendale,Logan County,46.597,-99.710
-03537,Greenland,Barnes County,46.675,-98.376
-03632,Haley,Bowman County,45.976,-103.052
-03863,Hesper,Benson County,47.983,-99.610
-04473,Kingsley,Griggs County,47.457,-98.436
-05445,Melvin,Nelson County,47.878,-98.079
-06116,Norma,Barnes County,46.774,-97.849
-06118,Norman,Traill County,47.368,-97.410
-06263,Odessa,Ramsey County,47.969,-98.588
-06561,Peace,Kidder County,46.691,-99.608
-07491,Ryder,Ward County,47.896,-101.669
-08394,Taft,Burleigh County,46.772,-100.248
-00089,Albion,Dickey County,46.071,-98.686
-01468,Cayuga,Sargent County,46.074,-97.384
-01704,Clay,Renville County,48.679,-101.514
-01986,Coulee,Ramsey County,48.236,-99.126
-02246,Deep River,McHenry County,48.597,-100.853
-02369,Dodds,Nelson County,47.984,-98.322
-02694,Elkmount,Grand Forks County,48.150,-97.831
-03049,Forde,Nelson County,47.723,-98.461
-03288,Germantown,Wells County,47.624,-99.448
-04662,Land,McHenry County,47.898,-100.532
-07475,Russell,LaMoure County,46.503,-98.588
-07731,Selz,Pierce County,47.857,-99.892
-08789,Valley,Kidder County,46.748,-99.648
-09163,Westby,Divide County,48.868,-103.969
-09391,Wolford,Pierce County,48.499,-99.704
-00206,Anderson,Barnes County,47.038,-98.256
-00342,Athens,Williams County,48.404,-103.609
-01345,Cannon Ball,Hettinger County,46.327,-102.110
-01576,Chatfield,Bottineau County,48.588,-101.121
-01619,Chicago,Stutsman County,46.852,-99.268
-02274,Delhi,Golden Valley County,47.017,-103.852
-03019,Flint,Stutsman County,46.949,-99.236
-03047,Forbes,Dickey County,45.944,-98.782
-03655,Hamburg,Wells County,47.717,-99.480
-03661,Hamlet,Renville County,48.756,-101.683
-04348,Kandiyohi,Burke County,48.584,-102.296
-04673,Langdon,Cavalier County,48.849,-98.410
-04982,Longfellow,McLean County,47.451,-101.246
-05499,Michigan,Nelson County,48.030,-98.100
-06050,Newbury,Stutsman County,46.757,-99.423
-06106,Noonan,Ramsey County,48.224,-98.617
-06425,Ovid,LaMoure County,46.319,-98.108
-07467,Rush Lake,Pierce County,48.436,-99.705
-08991,Wano,LaMoure County,46.413,-98.599
-09204,Wheelock,Williams County,48.331,-103.269
-09452,Wright,Dickey County,46.226,-98.295
-00702,Berlin,Wells County,47.378,-99.575
-01317,Campbell,Hettinger County,46.582,-102.350
-01941,Corinne,Stutsman County,47.269,-98.520
-02066,Crocus,Towner County,48.668,-99.155
-03148,Fredonia,Logan County,46.329,-99.096
-03814,Hebron,Williams County,48.248,-103.960
-03901,Highland Center,Ramsey County,48.505,-98.373
-04263,Jefferson,Pierce County,48.239,-100.193
-05926,Nekoma,Cavalier County,48.593,-98.381
-06121,Normania,Benson County,48.232,-99.256
-06162,North Star,Burke County,48.936,-102.216
-08055,Spring Grove,McHenry County,47.893,-100.391
-08875,View,Williams County,48.229,-103.161
-00030,Adams,Walsh County,48.409,-98.128
-00192,Amity,Bottineau County,48.761,-100.376
-00218,Anna,Ward County,47.985,-101.668
-01202,Bull Moose,Wells County,47.472,-99.969
-01286,Caledonia,Traill County,47.458,-96.889
-01835,Columbia,Eddy County,47.624,-98.810
-02251,Deer Lake,Stutsman County,47.044,-99.045
-02419,Dover,Griggs County,47.277,-98.394
-03795,Hazel,Williams County,48.590,-103.211
-04232,Jackson,Sargent County,46.066,-97.946
-04374,Keller,Burke County,48.850,-102.872
-04706,Latona,Walsh County,48.339,-98.087
-04973,Long Creek,Divide County,48.944,-103.126
-05630,Model,Mountrail County,47.988,-102.054
-06401,Otis,McLean County,47.799,-100.897
-07287,Riverside,Steele County,47.384,-97.911
-07809,Sheridan,LaMoure County,46.580,-98.338
-07878,Sinclair,Stutsman County,46.758,-99.128
-08256,Strong,Stutsman County,47.087,-99.289
-08657,Truman,Pierce County,47.898,-99.995
-09199,Wheaton,Bottineau County,48.944,-101.421
-00826,Blackwater,McLean County,47.629,-101.751
-01269,Cash,Slope County,46.323,-103.491
-02764,Englevale,Ransom County,46.393,-97.913
-04927,Loam,Cavalier County,48.854,-98.155
-06312,Olivia,McHenry County,47.900,-100.770
-06463,Palermo,Mountrail County,48.327,-102.251
-06637,Perth,Walsh County,48.231,-98.087
-06789,Plaza,Mountrail County,47.978,-101.936
-06908,Potsdam,Dickey County,46.237,-98.701
-07100,Reeder,Adams County,46.074,-102.943
-07392,Rosebud,Barnes County,46.675,-98.260
-07834,Short Creek,Burke County,48.941,-102.735
-08006,South Valley,Rolette County,48.590,-100.079
-00407,Baden,Ward County,48.588,-102.048
-00949,Border,Divide County,48.786,-102.995
-01600,Cherry Lake,Eddy County,47.630,-98.672
-02154,Cypress,Cavalier County,48.938,-98.910
-02430,Dows,Cass County,47.195,-97.388
-04057,Howell,Towner County,48.765,-99.335
-04370,Keene,McKenzie County,47.927,-102.942
-04738,Layton,McHenry County,48.504,-100.731
-05443,Melrose,Steele County,47.362,-97.783
-06778,Plainview,Stutsman County,47.103,-98.901
-07588,Sand Creek,Slope County,46.495,-103.423
-08085,St. Andrews,Walsh County,48.492,-97.202
-08429,Taylor,Sargent County,45.979,-97.696
-08630,Trier,Cavalier County,48.682,-98.895
-08652,Troy,Divide County,48.858,-103.389
-09300,Williams,Nelson County,47.984,-98.194
-00433,Baldwin,Barnes County,47.200,-97.892
-02184,Daneville,Divide County,48.765,-103.947
-03440,Grainfield,Towner County,48.667,-99.421
-03487,Grassland,Renville County,48.684,-101.625
-03704,Harlem,Sargent County,46.149,-97.799
-04594,Lake,Cass County,47.101,-97.638
-04998,Lorraine,Dickey County,45.990,-98.826
-06187,Norway Lake,Wells County,47.814,-99.458
-07365,Rolling Prairie,Foster County,47.443,-98.681
-07794,Shell,Mountrail County,48.066,-102.108
-08288,Sullivan,Ramsey County,48.421,-98.779
-08639,Triumph,Ramsey County,48.333,-98.498
-09026,Waterloo,Cavalier County,48.754,-98.530
-09356,Winner,Williams County,48.496,-103.581
-00702,Berlin,LaMoure County,46.379,-98.490
-01205,Bullion,Golden Valley County,46.678,-103.769
-01520,Central,Nelson County,47.883,-98.193
-02070,Cromwell,Burleigh County,47.026,-100.559
-02812,Estherville,Burleigh County,47.201,-100.559
-04398,Kennedy,Hettinger County,46.330,-102.872
-05688,Montrose,Cavalier County,48.580,-97.987
-07212,Rich Valley,Benson County,47.985,-99.727
-08134,Stafford,Renville County,48.944,-101.947
-08246,Strassburg,Sheridan County,47.811,-100.514
-08861,Vesta,Walsh County,48.410,-97.982
-08928,Wadsworth,Stutsman County,47.203,-99.280
-09334,Wilson,Burleigh County,47.277,-100.695
-09400,Woodberry,Slope County,46.323,-103.113
-09500,Young,Dickey County,46.230,-98.835
-09526,Zion,Towner County,48.494,-99.418
-00747,Big Bend,Mountrail County,47.884,-102.584
-01714,Clear Lake,Burleigh County,46.945,-100.130
-02637,Egeland,Towner County,48.626,-99.097
-02863,Fairbanks,Renville County,48.771,-101.945
-02963,Field,Nelson County,47.796,-98.065
-03458,Grand Valley,Dickey County,46.069,-98.819
-03834,Henderson,Cavalier County,48.683,-98.780
-03932,Hillsdale,Eddy County,47.797,-98.857
-04124,Illinois,Nelson County,47.980,-98.466
-06171,Northfield,Ramsey County,48.498,-98.642
-06493,Paradise,Eddy County,47.611,-98.565
-06701,Pilot Mound,Griggs County,47.636,-98.182
-06953,Prescott,Renville County,48.495,-101.114
-07390,Rose Hill,McHenry County,48.258,-100.655
-07844,Sidney,Towner County,48.936,-99.317
-07881,Soo,Burke County,48.943,-102.473
-08180,Steiner,Hettinger County,46.496,-102.230
-08856,Vernon,Kidder County,46.938,-99.731
-09081,Weld,Stutsman County,46.948,-99.131
-00184,Ambrose,Divide County,48.945,-103.542
-00360,Auburn,Walsh County,48.507,-97.440
-01893,Connor,Slope County,46.412,-103.233
-02114,Crystal Lake,Wells County,47.548,-99.973
-02169,Dale,Burke County,48.852,-102.477
-02232,De Witt,Divide County,48.954,-103.787
-03094,Fortuna,Divide County,48.910,-103.779
-03899,Highland,Sheridan County,47.737,-100.501
-04297,Johnson,Wells County,47.363,-99.458
-05357,McLeod,Ransom County,46.394,-97.300
-05864,Muskego,Renville County,48.510,-101.506
-07120,Red Lake,Logan County,46.421,-99.609
-07306,Robinson,Kidder County,47.143,-99.781
-08057,Spring Lake,Ward County,47.886,-101.422
-08064,Springbrook,Williams County,48.253,-103.459
-00156,Alsen,Cavalier County,48.631,-98.705
-00802,Black Butte,Hettinger County,46.500,-102.614
-01676,Clara,Nelson County,48.137,-98.357
-01735,Clifford,Traill County,47.348,-97.411
-02664,Eldon,Benson County,48.072,-99.383
-02903,Fancher,Ramsey County,48.413,-98.514
-03822,Helena,Griggs County,47.376,-98.320
-04607,Lake George,McHenry County,48.058,-100.421
-04820,Lewis,Bottineau County,48.676,-101.125
-05779,Mount Carmel,Cavalier County,48.950,-98.431
-06234,Oakland,Mountrail County,48.157,-102.109
-06429,Owego,Ransom County,46.509,-97.320
-06923,Powers,Mountrail County,48.506,-102.551
-07889,Skandia,Barnes County,46.764,-98.127
-08855,Verner,Sargent County,46.147,-97.920
-00436,Balfour,McHenry County,47.965,-100.511
-01164,Buckeye,Kidder County,47.030,-99.647
-01181,Bucyrus,Adams County,46.076,-102.809
-01709,Clayton,Burke County,48.758,-102.489
-02415,Douglas,McLean County,47.802,-101.546
-02642,Eidsvold,Bottineau County,48.857,-100.808
-02867,Fairdale,Walsh County,48.491,-98.231
-03126,Francis,Burleigh County,46.939,-100.518
-03244,Garnet,Divide County,48.670,-103.461
-03666,Hampden,Ramsey County,48.540,-98.654
-04080,Hugo,Steele County,47.369,-97.666
-04782,Leith,Grant County,46.358,-101.637
-05356,McClellan,Benson County,48.151,-99.396
-05604,Minnesota,Burke County,48.858,-102.185
-06310,Oliver,Williams County,48.423,-103.320
-07222,Richland,Burke County,48.945,-102.338
-07310,Rock,Benson County,47.899,-99.080
-07641,Sargent,Sargent County,46.066,-97.821
-08096,St. Croix,Hettinger County,46.501,-102.487
-09087,Wellington,Bottineau County,48.581,-100.200
-09262,Whiting,Bowman County,46.079,-103.178
-01479,Cedar Creek,Slope County,46.332,-102.978
-01714,Clear Lake,Kidder County,47.112,-99.905
-02319,Dewey,Walsh County,48.422,-98.249
-02714,Elm River,Traill County,47.281,-96.891
-02850,Excelsior,Kidder County,46.938,-100.023
-02886,Fairville,Wells County,47.629,-99.305
-03387,Goldfield,Bowman County,45.989,-103.189
-03460,Grandfield,Eddy County,47.811,-99.255
-03781,Hay,Cavalier County,48.761,-98.146
-03788,Hayland,Divide County,48.691,-103.081
-04100,Huron,Cavalier County,48.766,-98.794
-04204,Irvine,Benson County,48.345,-99.274
-04521,Knox,Benson County,48.328,-99.644
-05470,Merkel,Kidder County,47.254,-99.826
-05917,Nebo,Bowman County,46.078,-103.676
-07098,Ree,Ward County,48.423,-101.897
-07251,Rifle,Hettinger County,46.581,-102.602
-07426,Round Lake,McHenry County,48.069,-100.313
-07710,Sealy,Logan County,46.595,-99.863
-07804,Shepherd,Walsh County,48.332,-98.222
-08062,Spring Valley,Dickey County,46.078,-98.922
-09170,Westford,Kidder County,46.940,-99.626
-00585,Beaver,Benson County,48.243,-99.513
-01207,Bunker,Kidder County,46.674,-99.761
-01310,Cameron,Ward County,47.897,-101.538
-01686,Clark,Hettinger County,46.590,-102.736
-02708,Ellisville,Williams County,48.496,-103.461
-02777,Enterprise,Nelson County,48.155,-98.217
-03692,Harding,Ramsey County,48.333,-98.735
-05194,Mansfield,Barnes County,46.856,-98.386
-08087,St. Anna,Wells County,47.624,-99.704
-08707,Twin Lake,Benson County,48.233,-99.675
-09434,Woodward,Wells County,47.537,-99.319
-00423,Baker,Kidder County,46.675,-100.013
-00761,Big Stone,Williams County,48.583,-103.331
-01141,Bruce,Cavalier County,48.769,-98.918
-01721,Clearwater,Mountrail County,48.418,-102.303
-03329,Glacier,Stutsman County,47.282,-99.173
-04407,Kent,Dickey County,46.066,-98.305
-05046,Lowland,Mountrail County,48.507,-102.025
-05085,Luverne,Steele County,47.251,-97.935
-05461,Mentor,Divide County,48.945,-102.995
-06977,Prosperity,Renville County,48.944,-101.814
-08527,Tiffany,Eddy County,47.715,-98.848
-09078,Weiser,Kidder County,47.031,-99.534
-00457,Banner,Cavalier County,48.580,-98.786
-03143,Frazier,Divide County,48.771,-103.246
-03259,Gate,McLean County,47.798,-101.799
-03634,Haynes,Kidder County,47.025,-99.925
-03655,Hamburg,Dickey County,46.162,-98.695
-04085,Hume,Slope County,46.410,-103.113
-04948,Logan,Burleigh County,46.772,-100.399
-05389,McKinnon,Foster County,47.363,-98.702
-07177,Renville,Bottineau County,48.763,-101.299
-07217,Richburg,Bottineau County,48.945,-101.027
-07398,Roseland,Burke County,48.685,-102.303
-07400,Rosemont,McLean County,47.803,-101.391
-08160,Starbuck,Bottineau County,48.770,-100.786
-08442,Teddy,Towner County,48.747,-99.077
-08963,Wallace,Kidder County,47.274,-99.667
-09287,Wild Rose,Burleigh County,46.669,-100.134
-09348,Wing,Burleigh County,47.119,-100.326
-09494,York,Benson County,48.324,-99.533
-00039,Adelaide,Bowman County,46.163,-103.677
-01215,Burg,Divide County,48.779,-103.511
-01295,Callahan,Renville County,48.586,-101.658
-02023,Kramer,Bottineau County,48.691,-100.707
-04885,Linton,Ward County,48.071,-101.745
-05593,Mineral Springs,Slope County,46.315,-103.229
-06472,Palmer,Divide County,48.691,-103.201
-06589,Pelican,Ramsey County,48.170,-99.114
-09360,Winona,Grant County,46.062,-101.577
-00043,Adler,Nelson County,47.888,-97.945
-00371,Aurora,Benson County,47.984,-99.357
-00409,Baer,Hettinger County,46.242,-102.055
-01650,Christiania,Burleigh County,46.943,-100.253
-03238,Gardena,Bottineau County,48.701,-100.498
-03269,Gem,Bowman County,46.074,-103.420
-03496,Grey,Cavalier County,48.843,-98.792
-03842,Henry,Golden Valley County,47.234,-103.989
-04019,Hope,Cavalier County,48.941,-98.143
-05610,Minto,Cavalier County,48.834,-98.650
-06211,Oak Creek,Bottineau County,48.675,-100.472
-06773,Plain,Renville County,48.510,-101.636
-07377,Roosevelt,Renville County,48.669,-101.767
-08789,Valley,Dickey County,46.241,-98.566
-08801,Valley Spring,Stutsman County,47.024,-99.166
-09254,Whitestone,Dickey County,46.163,-98.814
-00345,Atkins,Towner County,48.430,-99.279
-00476,Barnes,Cass County,46.869,-96.923
-00788,Byron,Cavalier County,48.935,-98.792
-00830,Blaine,Bottineau County,48.683,-101.375
-02326,Dimond,Burke County,48.699,-102.416
-02691,Elkhorn,Divide County,48.946,-103.958
-03145,Frederick,Divide County,48.691,-103.331
-04281,Jessie,Griggs County,47.542,-98.238
-04735,Lawton,Ramsey County,48.326,-98.337
-05753,Moscow,Cavalier County,48.762,-98.667
-05970,New City,Towner County,48.588,-99.435
-07066,Randolph,McKenzie County,47.809,-103.733
-07067,Raney,LaMoure County,46.496,-98.974
-08414,Tanner,Kidder County,46.759,-99.507
-08869,Victor,Towner County,48.581,-99.036
-00727,Bethel,Towner County,48.504,-99.012
-01187,Buena Vista,Bowman County,46.243,-103.058
-02031,Crawford,Slope County,46.320,-103.730
-02464,Duck Creek,Adams County,46.075,-102.559
-05580,Mylo,Rolette County,48.635,-99.619
-06060,Newland,Ramsey County,48.406,-98.377
-06562,Peaceful Valley,Slope County,46.588,-103.235
-06802,Pleasant Prairie,Eddy County,47.624,-98.937
-06886,Portal,Burke County,48.945,-102.623
-07310,Rock,Grant County,46.328,-101.737
-07793,Sheldon,Eddy County,47.709,-98.965
-08217,Stone Creek,Bottineau County,48.681,-100.734
-08785,Valhalla,Wells County,47.793,-99.329
-00890,Blue Ridge,Williams County,48.587,-103.570
-02937,Fay,Burke County,48.848,-102.730
-03532,Greenbush,Ward County,48.590,-101.908
-03752,Harvey,Cavalier County,48.842,-98.269
-04746,Leaf Mountain,Burke County,48.757,-102.754
-04936,Lockwood,Renville County,48.597,-101.506
-06181,Northwest,Kidder County,47.272,-100.041
-06973,Prospect,Ramsey County,48.493,-98.504
-07841,Sibley,Barnes County,47.217,-97.965
-07916,Smith,Towner County,48.943,-99.188
-08194,Stewart,Kidder County,47.284,-99.910
-00025,Acme,Hettinger County,46.507,-102.354
-00196,Amor,Bowman County,46.076,-103.555
-01473,Cedar,Adams County,46.241,-102.676
-02248,Deepwater,McLean County,47.717,-101.936
-02551,East Fork,Williams County,48.334,-103.530
-02912,Farina,Hettinger County,46.416,-102.510
-03286,German,Dickey County,46.157,-98.922
-03287,Germania,Stutsman County,46.663,-99.257
-04189,Iowa,Benson County,48.252,-99.790
-04441,Kickapoo,Mountrail County,48.237,-102.010
-05586,Minco,Benson County,47.869,-98.598
-06682,Picton,Towner County,48.948,-99.447
-08764,Upland,Divide County,48.757,-103.137
-00105,Alexander,Stutsman County,46.669,-98.998
-01109,Brooklyn,Williams County,48.234,-103.271
-03337,Glen,LaMoure County,46.584,-98.952
-04225,Ivanhoe,Renville County,48.590,-101.778
-04580,Ladd,Bowman County,45.982,-103.442
-05099,Lyon,Stutsman County,47.195,-98.785
-06499,Paris,Stutsman County,47.132,-99.154
-06971,Progress,Wells County,47.378,-99.715
-07045,Rainbow,Williams County,48.509,-103.335
-07103,Redmond,Mountrail County,48.420,-102.153
-07442,Royal,Ramsey County,48.500,-98.790
-08201,Stillwater,Bowman County,46.244,-103.179
-08825,Vanville,Burke County,48.596,-102.418
-08915,Voss,Walsh County,48.296,-97.455
-00106,Alexandria,Divide County,48.757,-103.651
-01632,Chilton,Hettinger County,46.331,-102.495
-01914,Coolin,Towner County,48.414,-99.020
-02611,Edgemont,Sheridan County,47.394,-100.628
-03436,Graf,Kidder County,46.673,-99.507
-05658,Monroe,Towner County,48.755,-99.447
-05768,Mound,Slope County,46.406,-103.731
-06645,Petersville,Kidder County,47.180,-99.555
-07317,Rock Lake,Towner County,48.827,-99.210
-08348,Sutton,Griggs County,47.402,-98.439
-08885,Villard,McHenry County,48.145,-100.551
-00373,Austin,Mountrail County,48.150,-102.233
-00989,Braddock,Emmons County,46.564,-100.091
-01171,Bucklin,Slope County,46.348,-103.983
-02094,Crowfoot,Mountrail County,48.496,-102.191
-02551,East Fork,Benson County,47.901,-99.737
-03456,Grand River,Bowman County,45.996,-103.561
-03583,Grover,Renville County,48.858,-101.814
-03634,Haynes,Adams County,45.974,-102.471
-04881,Lynn,Wells County,47.354,-100.001
-05000,Lordsburg,Bottineau County,48.770,-100.229
-06341,Orange,Adams County,46.012,-102.055
-07315,Rock Hill,Burleigh County,47.113,-100.432
-09050,Wayne,Bottineau County,48.944,-101.158
-00357,Atwood,Kidder County,47.215,-99.928
-02581,Eastman,Foster County,47.363,-98.553
-04872,Linden,Cavalier County,48.937,-98.648
-05248,Marion,Bowman County,46.249,-103.523
-06181,Northwest,Dickey County,46.237,-98.933
-08904,Virginia,Towner County,48.754,-99.187
-08955,Walker,Hettinger County,46.505,-102.093
-00942,Boone,Sheridan County,47.544,-100.097
-01304,Calvin,Cavalier County,48.853,-98.935
-04419,Kern,Hettinger County,46.235,-102.300
-05600,Minnehaha,Bowman County,45.980,-103.289
-06560,Peabody,Bottineau County,48.857,-100.632
-07051,Raleigh,Grant County,46.357,-101.305
-07542,Saline,McHenry County,48.422,-100.875
-07963,Solon,Hettinger County,46.408,-102.118
-00501,Barton,Pierce County,48.507,-100.176
-01400,Carroll,Slope County,46.411,-102.989
-01457,Cato,Ramsey County,48.322,-98.609
-01549,Champion,Williams County,48.410,-103.222
-01553,Chandler,Adams County,46.169,-102.425
-01902,Conway,Walsh County,48.238,-97.675
-03144,Freda,Grant County,46.311,-101.084
-03505,Greely,Ward County,47.900,-101.020
-03655,Hamberg,Wells County,47.763,-99.515
-03899,Highland,Hettinger County,46.580,-102.229
-03966,Hoffman,Bottineau County,48.845,-101.417
-05897,Nash,Walsh County,48.471,-97.513
-06423,Overland,Ramsey County,48.406,-98.645
-07865,Silver Lake,Wells County,47.401,-99.836
-07987,South Fork,Adams County,46.075,-102.061
-08018,Southwest,Sargent County,45.963,-97.968
-09300,Williams,Kidder County,46.926,-99.490
-00699,Bergen,McHenry County,48.002,-100.715
-02097,Crown Hill,Kidder County,46.771,-100.026
-03243,Garner,Golden Valley County,46.764,-103.793
-03324,Gilmore,McHenry County,48.429,-100.723
-04188,Iosco,Stutsman County,47.044,-99.287
-04641,Lakeview,Burke County,48.872,-102.049
-06697,Pillsbury,Barnes County,47.207,-97.791
-08488,Thelma,Burleigh County,46.746,-100.112
-09227,White Lake,Slope County,46.501,-103.244
-01341,Canfield,Burleigh County,47.178,-100.400
-01887,Conklin,Stutsman County,47.294,-99.299
-01984,Cottonwood Lake,McHenry County,47.899,-100.650
-02841,Evergreen,Ward County,48.234,-101.848
-00767,Billings,Cavalier County,48.579,-98.518
-01262,Byersville,McLean County,47.732,-100.639
-01740,Climax,Williams County,48.501,-103.986
-03285,Gerber,Stutsman County,47.188,-99.443
-03291,Gerrard,Towner County,48.583,-99.287
-05154,Maine,Adams County,46.244,-102.560
-06263,Odessa,Hettinger County,46.583,-102.104
-07430,Round Top,Stutsman County,47.109,-99.024
-01741,Clinton,Divide County,48.844,-103.784
-02460,Dublin,Williams County,48.410,-103.468
-02984,Fisher,Grant County,46.246,-101.685
-04053,Howe,Grant County,46.088,-101.799
-04694,Larson,Burke County,48.889,-102.861
-07290,Riverview,McKenzie County,48.035,-102.681
-03670,Hannah,Cavalier County,48.972,-98.692
-04955,Loma,Cavalier County,48.630,-98.533
-04998,Loraine,Renville County,48.866,-101.568
-08952,Wales,Cavalier County,48.896,-98.603
-03413,Gordon,Cavalier County,48.685,-98.654
-05474,Merrill,Hettinger County,46.242,-102.175
-06358,Orrin,Pierce County,48.091,-100.163
-00321,Ashby,Hettinger County,46.245,-102.435
-01757,Clyde,Cavalier County,48.770,-98.899
-02682,Elk Creek,Golden Valley County,47.101,-103.860
-04078,Hughes,Slope County,46.328,-103.876
-05997,New Home,Williams County,48.517,-103.212
-06572,Pearl,Golden Valley County,47.244,-103.877
-06637,Perth,Towner County,48.716,-99.458
-07087,Rawson,McKenzie County,47.818,-103.543
-04661,Lansing,Towner County,48.855,-99.077
-07223,Richland Center,Slope County,46.508,-103.632
-07316,Rock Island,Williams County,48.597,-103.461
-02882,Fairview,Sheridan County,47.620,-100.062
-02911,Fargo,Cass County,46.944,-96.795
-07016,Quinby,Kidder County,47.034,-99.812
-00053,Agate,Rolette County,48.623,-99.493
-00110,Alfred,LaMoure County,46.603,-98.999
-00310,Arvilla,Grand Forks County,47.919,-97.495
-00423,Baker,Benson County,48.161,-99.647
-00433,Baldwin,Burleigh County,47.027,-100.749
-00474,Barlow,Foster County,47.570,-99.138
-00498,Bartlett,Ramsey County,48.045,-98.432
-00648,Belleville,Grand Forks County,48.153,-97.798
-00690,Bentley,Hettinger County,46.329,-102.064
-00719,Burt,Hettinger County,46.365,-102.155
-00723,Berwick,McHenry County,48.361,-100.246
-01032,Bremen,Wells County,47.747,-99.387
-01193,Buffalo Springs,Bowman County,46.175,-103.235
-01195,Buford,Williams County,47.999,-103.991
-01394,Carpenter,Rolette County,48.960,-99.977
-01414,Cartwright,McKenzie County,47.860,-103.926
-01534,Chaffee,Cass County,46.774,-97.353
-01942,Corinth,Williams County,48.612,-103.328
-01986,Coulee,Mountrail County,48.545,-102.012
-02116,Crystal Springs,Kidder County,46.878,-99.476
-02117,Cuba,Barnes County,46.821,-97.862
-02163,Daily,Barnes County,46.718,-97.976
-02439,Dresden,Cavalier County,48.827,-98.481
-02502,Durbin,Cass County,46.809,-97.149
-02668,Eldridge,Stutsman County,46.903,-98.852
-02749,Emmet,McLean County,47.646,-101.654
-03025,Flora,Benson County,47.950,-99.418
-03042,Fonda,Rolette County,48.670,-100.019
-03168,Fryburg,Billings County,46.871,-103.303
-03374,Glover,Dickey County,46.242,-98.139
-03454,Grand Rapids,LaMoure County,46.444,-98.371
-03589,Guelph,Dickey County,46.023,-98.236
-03661,Hamlet,Williams County,48.629,-103.052
-03679,Hannover,Oliver County,47.111,-101.427
-03713,Harper,Slope County,46.410,-103.606
-03757,Hastings,Barnes County,46.684,-98.094
-03769,Havelock,Hettinger County,46.475,-102.744
-03812,Heaton,Wells County,47.478,-99.548
-03884,Hickson,Cass County,46.669,-96.810
-04048,Huff,Morton County,46.624,-100.652
-04082,Hull,Emmons County,46.029,-100.125
-04304,Johnstown,Grand Forks County,48.144,-97.470
-04322,Josephine,Benson County,47.940,-99.314
-04383,Kelvin,Rolette County,48.937,-100.051
-04386,Kempton,Grand Forks County,47.819,-97.614
-04506,Kloten,Nelson County,47.716,-98.075
-04628,Lake Williams,Kidder County,47.135,-99.614
-04648,Lallie,Benson County,47.978,-99.216
-05094,Lynchburg,Cass County,46.774,-97.263
-05152,Maida,Cavalier County,48.999,-98.365
-05176,Manfred,Wells County,47.695,-99.748
-05183,Manitou,Mountrail County,48.331,-102.637
-05269,Marshall,Dunn County,47.138,-102.333
-05437,Melville,Foster County,47.335,-99.036
-05635,Moffit,Burleigh County,46.678,-100.295
-06173,Northgate,Burke County,48.991,-102.262
-06188,Norwich,McHenry County,48.246,-100.989
-06603,Penn,Ramsey County,48.222,-99.089
-06976,Prosper,Cass County,46.963,-97.020
-07420,Roth,Bottineau County,48.908,-100.803
-07475,Russell,Bottineau County,48.671,-100.902
-07510,Saint Anthony,Morton County,46.617,-100.913
-07527,Saint Michael,Benson County,47.985,-98.872
-07818,Shields,Grant County,46.234,-101.126
-08501,Thorne,Rolette County,48.739,-99.932
-08569,Tokio,Benson County,47.925,-98.816
-08770,Urbana,Barnes County,46.934,-98.412
-09009,Warsaw,Walsh County,48.296,-97.255
-09067,Webster,Ramsey County,48.282,-98.876
-09263,Whitman,Nelson County,48.159,-98.120
-09286,Wild Rice,Cass County,46.746,-96.809
-09343,Windsor,Stutsman County,46.896,-99.043
-09522,Zenith,Stark County,46.879,-103.097
+0454,Bismarck,Burleigh County,46.808,-100.784
+3408,Minot,Ward County,48.233,-101.296
+5521,Williston,Williams County,48.147,-103.618
+1432,Dickinson,Stark County,46.879,-102.790
+1806,Mandan,Morton County,46.827,-100.890
+2636,Jamestown,Stutsman County,46.911,-98.708
+5296,Wahpeton,Richland County,46.265,-96.606
+5210,Valley City,Barnes County,46.923,-98.003
+1171,Lincoln,Burleigh County,46.762,-100.700
+2377,Hay Creek,Burleigh County,46.873,-100.798
+2140,Grafton,Walsh County,48.412,-97.411
+2522,Horace,Cass County,46.759,-96.904
+0423,Beulah,Mercer County,47.263,-101.778
+3646,New Town,Mountrail County,47.981,-102.490
+4477,Rugby,Pierce County,48.369,-99.996
+1807,Stanley,Mountrail County,48.317,-102.390
+2391,Hazen,Mercer County,47.294,-101.623
+2998,Lisbon,Ransom County,46.442,-97.681
+3754,Oakes,Dickey County,46.139,-98.090
+3253,Mayville,Traill County,47.498,-97.325
+2464,Hillsboro,Traill County,47.404,-97.062
+1859,Harvey,Wells County,47.770,-99.935
+2014,Garrison,McLean County,47.652,-101.416
+5340,Washburn,McLean County,47.289,-101.029
+4422,Rolla,Rolette County,48.858,-99.618
+5060,Thompson,Grand Forks County,47.774,-97.110
+1272,Crosby,Divide County,48.914,-103.295
+1779,Linton,Emmons County,46.267,-100.233
+3642,New Salem,Morton County,46.845,-101.411
+0319,Beach,Golden Valley County,46.918,-104.004
+3728,Northwood,Grand Forks County,47.734,-97.567
+1189,Cooperstown,Griggs County,47.444,-98.124
+1807,Stanley,Cass County,46.751,-96.839
+0744,Mission,Benson County,47.993,-98.840
+5307,Walhalla,Pembina County,48.923,-97.918
+3932,Parshall,Mountrail County,47.953,-102.135
+1756,Cannon Ball,Sioux County,46.389,-100.594
+0026,Afton,Ward County,48.149,-101.334
+2354,Harwood,Cass County,46.979,-96.881
+1798,Hebron,Morton County,46.901,-102.045
+5181,Underwood,McLean County,47.456,-101.137
+2194,Green Acres,Rolette County,48.838,-99.690
+3567,Napoleon,Logan County,46.508,-99.771
+1480,Drayton,Pembina County,48.571,-97.178
+5536,Wilton,Burleigh County,47.158,-100.784
+2363,Hatton,Traill County,47.640,-97.453
+1868,Ray,Williams County,48.344,-103.165
+2872,Lakota,Nelson County,48.043,-98.336
+4882,Steele,Kidder County,46.855,-99.916
+3391,Milnor,Sargent County,46.259,-97.456
+1847,Minto,Walsh County,48.292,-97.371
+0193,Ashley,McIntosh County,46.034,-99.371
+4142,Portland,Traill County,47.498,-97.370
+0919,Center,Oliver County,47.116,-101.300
+4420,Roland,Bottineau County,48.944,-100.370
+0074,Allendale,Grand Forks County,47.810,-97.185
+1639,Elgin,Grant County,46.404,-101.846
+5209,Valley,Barnes County,46.957,-97.960
+5124,Trenton,Williams County,48.071,-103.837
+5569,Wood Lake,Benson County,47.897,-98.822
+5112,Towner,McHenry County,48.346,-100.405
+0919,Center,Richland County,46.237,-96.683
+2087,Glenburn,Renville County,48.513,-101.221
+3291,McVille,Nelson County,47.764,-98.177
+1778,Powers Lake,Burke County,48.563,-102.648
+0707,Burlington,Ward County,48.239,-101.463
+3175,Manvel,Grand Forks County,48.078,-97.176
+3875,Oxbow,Cass County,46.673,-96.810
+4978,Surrey,Ward County,48.240,-101.074
+4922,Strasburg,Emmons County,46.134,-100.162
+4863,Stanton,Mercer County,47.321,-101.382
+0737,Buxton,Traill County,47.602,-97.097
+5301,Walcott,Richland County,46.587,-96.927
+3243,Max,McLean County,47.821,-101.299
+4833,St. John,Rolette County,48.944,-99.711
+4854,St. Thomas,Pembina County,48.619,-97.446
+4604,Sawyer,Ward County,48.090,-101.054
+0059,Alexander,McKenzie County,47.843,-103.643
+1477,Drake,McHenry County,47.924,-100.372
+0555,Bowman,Bowman County,46.161,-103.444
+4316,Reynolds,Grand Forks County,47.669,-97.106
+1843,Hope,Steele County,47.322,-97.722
+3191,Marsh,Barnes County,46.848,-97.997
+3304,Medina,Stutsman County,46.894,-99.300
+1140,Colfax,Richland County,46.500,-96.926
+1753,Michigan City,Nelson County,48.025,-98.117
+1827,Gladstone,Stark County,46.861,-102.568
+4331,Tower City,Barnes County,46.926,-97.676
+0058,Alex,McKenzie County,47.801,-103.594
+0851,Carson,Grant County,46.418,-101.565
+2319,Harmon,Morton County,46.952,-100.953
+1346,Davenport,Cass County,46.714,-97.070
+2726,Kensington,Walsh County,48.416,-97.722
+2945,Leonard,Cass County,46.652,-97.246
+0131,Aneta,Nelson County,47.679,-97.988
+1833,Fertile,Walsh County,48.413,-97.601
+0008,Akra,Pembina County,48.755,-97.762
+1842,Taylor,Stark County,46.901,-102.425
+0843,Hazelton,Emmons County,46.485,-100.280
+1792,Riverdale,McLean County,47.498,-101.371
+4010,Pickering,Bottineau County,48.856,-100.514
+5022,Tappen,Kidder County,46.875,-99.636
+3761,Oakwood,Walsh County,48.412,-97.339
+0325,Bear Creek,Dickey County,46.156,-98.054
+3182,Mapleton,Cass County,46.844,-96.997
+4127,Porcupine,Sioux County,46.219,-101.099
+1602,Edinburg,Walsh County,48.497,-97.862
+1969,Frontier,Cass County,46.801,-96.833
+0151,Apple Valley,Burleigh County,46.822,-100.598
+1777,Minnewaukan,Benson County,48.071,-99.252
+3547,Munich,Cavalier County,48.669,-98.833
+2112,Golden Valley,Mercer County,47.291,-102.065
+2155,Grandin,Cass County,47.237,-97.003
+0116,Americus,Grand Forks County,47.723,-97.035
+4686,Sherwood,Renville County,48.960,-101.633
+1639,Elgin,Cavalier County,48.754,-98.420
+1777,Minnewaukan,Ramsey County,48.144,-98.757
+2099,Glenwood,Walsh County,48.499,-97.600
+4557,Sanborn,Barnes County,46.942,-98.224
+1017,Christine,Richland County,46.574,-96.802
+5524,Willow City,Bottineau County,48.604,-100.294
+2476,Hobart,Barnes County,46.936,-98.116
+1607,Edmore,Ramsey County,48.413,-98.454
+0548,Bowdon,Wells County,47.470,-99.708
+0025,Advance,Pembina County,48.834,-97.753
+1843,Hope,Ramsey County,48.141,-98.476
+0560,Boyd,Burleigh County,46.765,-100.521
+1161,Columbus,Burke County,48.904,-102.780
+1657,Ellendale,Dickey County,45.974,-98.579
+5196,Upham,McHenry County,48.582,-100.728
+0644,Fairfield,Grand Forks County,47.803,-97.301
+0760,Marion,LaMoure County,46.607,-98.332
+2004,Gardner,Cass County,47.147,-96.968
+0644,Fairfield,Billings County,47.189,-103.222
+1805,Farmington,Walsh County,48.499,-97.470
+0405,Berlin,Cass County,47.019,-97.010
+3305,Medora,Billings County,46.914,-103.524
+0726,Greene,Ransom County,46.580,-97.459
+0024,Adrian,LaMoure County,46.595,-98.589
+1749,Michigan,Grand Forks County,47.709,-97.163
+2122,Goodrich,Sheridan County,47.475,-100.126
+4330,Tower,Cass County,46.942,-97.609
+2337,Harriston,Walsh County,48.326,-97.317
+2303,Scott,Adams County,45.984,-102.560
+0718,Burt,Ward County,48.160,-101.458
+0451,Bisbee,Towner County,48.626,-99.378
+1505,Dundee,Walsh County,48.500,-97.731
+1792,Riverdale,Dickey County,46.059,-98.081
+4702,Sykeston,Wells County,47.465,-99.400
+1816,Sheldon,Ransom County,46.586,-97.491
+0090,Almont,Morton County,46.725,-101.503
+2092,Glenfield,Foster County,47.453,-98.567
+3655,Newburg,Bottineau County,48.715,-100.913
+1772,Fairmount,Richland County,46.024,-96.602
+0669,Buchanan,Stutsman County,47.015,-98.775
+0115,Amenia,Cass County,47.026,-97.271
+1368,Deering,McHenry County,48.396,-101.052
+1724,Esmond,Benson County,48.036,-99.762
+1467,Douglas,Ward County,47.857,-101.503
+4665,Sharon,Steele County,47.597,-97.894
+3451,Montpelier,Stutsman County,46.700,-98.590
+4451,Ross,Mountrail County,48.311,-102.547
+1445,Dodge,Dunn County,47.306,-102.204
+5083,Tioga,Williams County,48.423,-102.962
+2174,Granville,McHenry County,48.234,-100.812
+2698,Karlsruhe,McHenry County,48.090,-100.620
+3617,New England,Hettinger County,46.499,-102.863
+5643,Zeeland,McIntosh County,45.970,-99.831
+1608,Edna,Barnes County,47.110,-98.267
+0574,Brandenburg,Richland County,46.153,-96.825
+1642,Elliott,Ransom County,46.420,-97.857
+3526,Mountain,Pembina County,48.688,-97.865
+1522,Dwight,Richland County,46.304,-96.738
+1715,Epping,Williams County,48.279,-103.357
+3960,Pekin,Nelson County,47.791,-98.328
+3294,Meadow Lake,Barnes County,46.761,-98.354
+1319,Dazey,Barnes County,47.191,-98.202
+0480,Blanchard,Traill County,47.367,-97.283
+1354,Dawson,Kidder County,46.869,-99.751
+1458,Donnybrook,Ward County,48.509,-101.885
+1287,Crystal,Pembina County,48.586,-97.732
+0684,Buffalo,Cass County,46.938,-97.482
+3671,Niagara,Grand Forks County,47.971,-97.795
+2008,Martin,Sheridan County,47.804,-100.123
+0733,Butte,McLean County,47.838,-100.665
+2191,Hunter,Cass County,47.203,-97.266
+1487,Driscoll,Burleigh County,46.844,-100.141
+2268,Hague,Emmons County,46.029,-99.996
+2366,Havana,Sargent County,45.950,-97.619
+5457,Wheatland,Cass County,46.907,-97.345
+0240,Ayr,Cass County,47.022,-97.515
+0388,Benedict,McLean County,47.830,-101.082
+0886,Kathryn,Barnes County,46.678,-97.969
+3275,McHenry,Foster County,47.576,-98.591
+1986,Galesburg,Traill County,47.275,-97.378
+5247,Verona,LaMoure County,46.364,-98.072
+1103,Colgate,Steele County,47.245,-97.656
+3966,Pembina,Pembina County,48.944,-97.308
+1171,Lincoln,Pembina County,48.675,-97.198
+1078,Cleveland,Stutsman County,46.892,-99.118
+1977,Fullerton,Dickey County,46.165,-98.427
+5109,Tuttle,Kidder County,47.144,-99.995
+3039,Long Creek,Williams County,48.102,-103.259
+5156,Turtle Lake,McLean County,47.549,-100.986
+2283,Hamilton,Pembina County,48.772,-97.491
+4928,Streeter,Stutsman County,46.675,-99.396
+0595,Briarwood,Cass County,46.786,-96.797
+1053,Erie,Cass County,47.116,-97.389
+4495,Rutland,Sargent County,46.068,-97.550
+0042,Alamo,Williams County,48.582,-103.470
+2185,Great Bend,Richland County,46.154,-96.802
+3687,Nome,Barnes County,46.678,-97.810
+2937,Leipzig,Grant County,46.509,-101.851
+4419,Rogers,Barnes County,47.073,-98.200
+4506,Saddle Butte,Golden Valley County,47.021,-103.976
+0784,Campbell,Emmons County,46.596,-100.000
+3166,Manning,Dunn County,47.229,-102.769
+5599,Woodworth,Stutsman County,47.142,-99.303
+1841,Finley,Steele County,47.540,-97.782
+3884,Page,Cass County,47.203,-97.504
+3992,Petersburg,Nelson County,47.964,-97.948
+0071,Alice,Cass County,46.762,-97.556
+1070,Clearfield,Griggs County,47.457,-98.286
+3329,Mercer,McLean County,47.458,-100.769
+5283,Voltaire,McHenry County,48.021,-100.842
+0013,Ada,Dickey County,45.980,-98.319
+0280,Barney,Richland County,46.267,-97.001
+2590,Inkster,Grand Forks County,48.151,-97.644
+3395,Milton,Cavalier County,48.626,-98.043
+1229,Courtenay,Stutsman County,47.189,-98.524
+2764,Kingsley,Griggs County,47.457,-98.436
+0896,Cayuga,Sargent County,46.074,-97.384
+4645,Selz,Pierce County,47.857,-99.892
+1749,Michigan,Nelson County,48.030,-98.100
+1756,Cannon Ball,Hettinger County,46.327,-102.110
+1882,Forbes,Dickey County,45.944,-98.782
+2886,Langdon,Cavalier County,48.849,-98.410
+0784,Campbell,Hettinger County,46.582,-102.350
+1948,Fredonia,Logan County,46.329,-99.096
+3586,Nekoma,Cavalier County,48.593,-98.381
+0759,Caledonia,Traill County,47.458,-96.889
+3890,Palermo,Mountrail County,48.327,-102.251
+4080,Plaza,Mountrail County,47.978,-101.936
+2708,Keene,McKenzie County,47.927,-102.942
+0405,Berlin,LaMoure County,46.379,-98.490
+0113,Ambrose,Divide County,48.945,-103.542
+0218,Auburn,Walsh County,48.507,-97.440
+1917,Fortuna,Divide County,48.910,-103.779
+3258,McLeod,Ransom County,46.394,-97.300
+4386,Robinson,Kidder County,47.143,-99.781
+4803,Springbrook,Williams County,48.253,-103.459
+0095,Alsen,Cavalier County,48.631,-98.705
+1081,Clifford,Traill County,47.348,-97.411
+0257,Balfour,McHenry County,47.965,-100.511
+1764,Fairdale,Walsh County,48.491,-98.231
+2292,Hampden,Ramsey County,48.540,-98.654
+4389,Rock,Benson County,47.899,-99.080
+4597,Sargent,Sargent County,46.066,-97.821
+3103,Luverne,Steele County,47.251,-97.935
+1241,Kramer,Bottineau County,48.691,-100.707
+2002,Gardena,Bottineau County,48.701,-100.498
+0474,Blaine,Bottineau County,48.683,-101.375
+2918,Lawton,Ramsey County,48.326,-98.337
+3392,Mylo,Rolette County,48.635,-99.619
+1776,Sibley,Barnes County,47.217,-97.965
+0565,Braddock,Emmons County,46.564,-100.091
+1773,Haynes,Adams County,45.974,-102.471
+0773,Calvin,Cavalier County,48.853,-98.935
+4238,Raleigh,Grant County,46.357,-101.305
+0291,Barton,Pierce County,48.507,-100.176
+0749,Hamberg,Wells County,47.763,-99.515
+1170,Nash,Walsh County,48.471,-97.513
+1182,Conway,Walsh County,48.238,-97.675
+1944,Freda,Grant County,46.311,-101.084
+0402,Bergen,McHenry County,48.002,-100.715
+1132,Wales,Cavalier County,48.896,-98.603
+2295,Hannah,Cavalier County,48.972,-98.692
+3030,Loma,Cavalier County,48.630,-98.533
+3052,Loraine,Renville County,48.866,-101.568
+3829,Orrin,Pierce County,48.091,-100.163
+1097,Clyde,Cavalier County,48.770,-98.899
+3988,Perth,Towner County,48.716,-99.458
+4261,Rawson,McKenzie County,47.818,-103.543
+1797,Fargo,Cass County,46.944,-96.795
+0028,Agate,Rolette County,48.623,-99.493
+0064,Alfred,LaMoure County,46.603,-98.999
+0255,Baldwin,Burleigh County,47.027,-100.749
+0842,Carpenter,Rolette County,48.960,-99.977
+0860,Cartwright,McKenzie County,47.860,-103.926
+1086,Shields,Grant County,46.234,-101.126
+1697,Emmet,McLean County,47.646,-101.654
+2301,Hannover,Oliver County,47.111,-101.427
+2367,Havelock,Hettinger County,46.475,-102.744
+2531,Huff,Morton County,46.624,-100.652
+2682,Josephine,Benson County,47.940,-99.314
+3421,Moffit,Burleigh County,46.678,-100.295
+3721,Northgate,Burke County,48.991,-102.262
+3733,Norwich,McHenry County,48.246,-100.989
+3971,Penn,Ramsey County,48.222,-99.089
+4487,Russell,Bottineau County,48.671,-100.902
+4510,Saint Anthony,Morton County,46.617,-100.913
+5093,Tokio,Benson County,47.925,-98.816
+5336,Warsaw,Walsh County,48.296,-97.255
+5489,Whitman,Nelson County,48.159,-98.120

@@ -1,1066 +1,773 @@
 phoneme,name,county,latitude,longitude
-02307,Des Moines,Polk County,41.573,-93.610
-01490,Cedar Rapids,Linn County,42.008,-91.644
-02211,Davenport,Scott County,41.524,-90.578
-07882,Sioux City,Plymouth County,42.496,-96.391
-09026,Waterloo,Black Hawk County,42.493,-92.343
-00189,Ames,Story County,42.035,-93.620
-02462,Dubuque,Dubuque County,42.501,-90.665
-08771,Urbandale,Dallas County,41.637,-93.780
-05248,Marion,Linn County,42.034,-91.598
-01481,Cedar Falls,Black Hawk County,42.528,-92.445
-05271,Marshalltown,Marshall County,42.049,-92.908
-05297,Mason City,Cerro Gordo County,43.154,-93.201
-06413,Ottumwa,Wapello County,41.020,-92.411
-03082,Fort Dodge,Webster County,42.497,-94.168
-01741,Clinton,Clinton County,41.844,-90.189
-04302,Johnston,Polk County,41.673,-93.698
-01225,Burlington,Des Moines County,40.808,-91.113
-06148,North Liberty,Johnson County,41.749,-91.598
-00167,Altoona,Polk County,41.644,-93.465
-03567,Grimes,Dallas County,41.678,-93.802
-04152,Indianola,Warren County,41.358,-93.557
-06068,Newton,Jasper County,41.700,-93.048
-06185,Norwalk,Polk County,41.492,-93.702
-00942,Boone,Boone County,42.060,-93.880
-06390,Oskaloosa,Mahaska County,41.296,-92.644
-08035,Spencer,Clay County,43.141,-95.144
-06795,Pleasant Hill,Polk County,41.584,-93.520
-06592,Pella,Mahaska County,41.405,-92.917
-09046,Waverly,Bremer County,42.726,-92.475
-01400,Carroll,Carroll County,42.066,-94.867
-02870,Fairfield,Jefferson County,41.009,-91.963
-03569,Grinnell,Poweshiek County,41.743,-92.722
-05801,Mount Pleasant,Henry County,40.964,-91.558
-02290,Denison,Crawford County,42.018,-95.355
-00932,Bondurant,Polk County,41.701,-93.462
-06628,Perry,Dallas County,41.839,-94.107
-01714,Clear Lake,Cerro Gordo County,43.138,-93.379
-02053,Creston,Union County,41.059,-94.361
-04523,Knoxville,Marion County,41.321,-93.109
-01566,Charles City,Floyd County,43.066,-92.672
-09014,Washington,Washington County,41.299,-91.693
-03870,Hiawatha,Linn County,42.036,-91.682
-05944,Nevada,Story County,42.023,-93.452
-00348,Atlantic,Cass County,41.404,-95.014
-02668,Eldridge,Scott County,41.658,-90.585
-00038,Adel,Dallas County,41.614,-94.017
-06342,Orange City,Sioux County,43.007,-96.058
-04130,Independence,Buchanan County,42.469,-91.889
-00312,Asbury,Dubuque County,42.514,-90.752
-02812,Estherville,Emmet County,43.402,-94.833
-06840,Polk City,Polk County,41.771,-93.713
-07124,Red Oak,Montgomery County,41.010,-95.226
-06386,Osceola,Clarke County,41.034,-93.766
-02321,DeWitt,Clinton County,41.823,-90.538
-07793,Sheldon,O'Brien County,43.180,-95.844
-08039,Spirit Lake,Dickinson County,43.422,-95.102
-09367,Winterset,Madison County,41.331,-94.014
-00115,Algona,Kossuth County,43.070,-94.233
-01519,Centerville,Appanoose County,40.734,-92.874
-08528,Tiffin,Johnson County,41.706,-91.663
-03367,Glenwood,Mills County,41.047,-95.743
-09344,Windsor Heights,Polk County,41.598,-93.708
-01595,Cherokee,Cherokee County,42.749,-95.552
-05172,Manchester,Delaware County,42.484,-91.455
-08898,Vinton,Benton County,42.169,-92.024
-03702,Harlan,Shelby County,41.653,-95.326
-07801,Shenandoah,Fremont County,40.758,-95.372
-04084,Humboldt,Humboldt County,42.721,-94.215
-04108,Huxley,Story County,41.895,-93.601
-05809,Mount Vernon,Linn County,41.922,-91.417
-03669,Hampton,Franklin County,42.742,-93.202
-03057,Forest City,Hancock County,43.257,-93.637
-01564,Chariton,Lucas County,41.014,-93.307
-01381,Carlisle,Polk County,41.514,-93.497
-04263,Jefferson,Greene County,42.015,-94.377
-05682,Monticello,Jones County,42.238,-91.187
-02048,Cresco,Howard County,43.381,-92.114
-09135,West Liberty,Muscatine County,41.570,-91.264
-09040,Waukon,Allamakee County,43.269,-91.476
-02522,Eagle Grove,Wright County,42.664,-93.904
-06378,Osage,Mitchell County,43.284,-92.811
-05989,New Hampton,Chickasaw County,43.059,-92.318
-09302,Williamsburg,Iowa County,41.661,-92.009
-05540,Milford,Dickinson County,43.325,-95.150
-07305,Robins,Linn County,42.071,-91.667
-09114,West Burlington,Des Moines County,40.825,-91.157
-08549,Tipton,Cedar County,41.770,-91.128
-07963,Solon,Johnson County,41.807,-91.494
-08407,Tama,Tama County,41.967,-92.577
-03243,Garner,Hancock County,43.102,-93.602
-09337,Wilton,Cedar County,41.589,-91.025
-06503,Park View,Scott County,41.694,-90.546
-02869,Fairfax,Linn County,41.919,-91.781
-07841,Sibley,Osceola County,43.399,-95.752
-05138,Madrid,Boone County,41.877,-93.823
-01685,Clarion,Wright County,42.732,-93.733
-00862,Bloomfield,Davis County,40.752,-92.415
-02665,Eldora,Hardin County,42.361,-93.100
-04074,Hudson,Black Hawk County,42.407,-92.455
-01510,Center Point,Linn County,42.191,-91.785
-09113,West Branch,Cedar County,41.666,-91.344
-04283,Jesup,Black Hawk County,42.475,-92.066
-05624,Mitchellville,Jasper County,41.667,-93.366
-06902,Postville,Allamakee County,43.084,-91.568
-09156,West Union,Fayette County,42.963,-91.808
-05239,Marengo,Iowa County,41.798,-92.071
-04082,Hull,Sioux County,43.189,-96.134
-01422,Cascade,Dubuque County,42.302,-91.005
-00649,Bellevue,Jackson County,42.259,-90.423
-02672,Ely,Linn County,41.874,-91.585
-08571,Toledo,Tama County,41.996,-92.577
-00635,Belle Plaine,Benton County,41.897,-92.278
-01817,Colfax,Jasper County,41.678,-93.245
-04889,Lisbon,Linn County,41.921,-91.385
-04615,Lake Mills,Winnebago County,43.419,-93.533
-00345,Atkins,Benton County,41.997,-91.862
-00158,Alta,Buena Vista County,42.674,-95.291
-03535,Greenfield,Adair County,41.305,-94.461
-06182,Northwood,Worth County,43.444,-93.221
-08992,Wapello,Louisa County,41.181,-91.185
-00363,Audubon,Audubon County,41.718,-94.932
-08302,Sumner,Bremer County,42.849,-92.097
-02785,Epworth,Dubuque County,42.445,-90.932
-06507,Parkersburg,Butler County,42.577,-92.787
-05658,Monroe,Jasper County,41.522,-93.102
-01081,Britt,Hancock County,43.098,-93.802
-06265,Ogden,Boone County,42.039,-94.028
-06007,New London,Henry County,40.927,-91.400
-02301,Denver,Bremer County,42.671,-92.337
-06826,Pocahontas,Pocahontas County,42.736,-94.669
-02501,Durant,Cedar County,41.601,-90.914
-03469,Granger,Dallas County,41.762,-93.824
-04795,Leon,Decatur County,40.740,-93.748
-08194,Stuart,Adair County,41.500,-94.318
-03609,Guttenberg,Clayton County,42.786,-91.100
-02913,Farley,Dubuque County,42.443,-91.006
-04601,Lake City,Calhoun County,42.267,-94.734
-06933,Prairie City,Jasper County,41.599,-93.235
-05196,Manson,Calhoun County,42.529,-94.534
-00385,Avoca,Pottawattamie County,41.477,-95.338
-06812,Pleasantville,Marion County,41.386,-93.269
-00882,Blue Grass,Muscatine County,41.510,-90.767
-07170,Remsen,Plymouth County,42.815,-95.973
-09401,Woodbine,Harrison County,41.738,-95.703
-05776,Mount Ayr,Ringgold County,40.715,-94.235
-08770,Urbana,Benton County,42.224,-91.874
-07901,Slater,Boone County,41.881,-93.691
-00023,Ackley,Franklin County,42.552,-93.052
-03739,Hartley,O'Brien County,43.180,-95.477
-00073,Akron,Plymouth County,42.829,-96.559
-08611,Traer,Tama County,42.194,-92.465
-05898,Nashua,Chickasaw County,42.950,-92.543
-08943,Walcott,Muscatine County,41.587,-90.781
-08812,Van Meter,Dallas County,41.532,-93.954
-01952,Corning,Adams County,40.990,-94.741
-01958,Corydon,Wayne County,40.757,-93.319
-09088,Wellman,Washington County,41.464,-91.838
-06234,Oakland,Pottawattamie County,41.309,-95.397
-01109,Brooklyn,Poweshiek County,41.734,-92.445
-00601,Bedford,Taylor County,40.667,-94.721
-03992,Holstein,Ida County,42.489,-95.545
-05656,Monona,Clayton County,43.052,-91.389
-05189,Manning,Carroll County,41.909,-95.065
-05678,Montezuma,Poweshiek County,41.586,-92.527
-06476,Palo,Linn County,42.066,-91.795
-07587,Sanborn,O'Brien County,43.182,-95.656
-04948,Logan,Harrison County,41.643,-95.789
-04473,Kingsley,Plymouth County,42.588,-95.968
-07359,Roland,Story County,42.166,-93.502
-04969,Lone Tree,Johnson County,41.488,-91.426
-04788,Lenox,Adams County,40.883,-94.558
-09434,Woodward,Boone County,41.853,-93.921
-02340,Dike,Grundy County,42.464,-92.628
-01916,Coon Rapids,Carroll County,41.875,-94.678
-07797,Shell Rock,Butler County,42.710,-92.583
-04722,Laurens,Pocahontas County,42.847,-94.852
-01521,Central City,Linn County,42.204,-91.524
-01697,Clarksville,Butler County,42.785,-92.668
-03307,Gilbert,Story County,42.107,-93.650
-06032,New Sharon,Mahaska County,41.470,-92.651
-05187,Manly,Worth County,43.287,-93.202
-00165,Alton,Sioux County,42.987,-96.011
-08760,University Heights,Johnson County,41.655,-91.557
-04286,Jewell Junction,Hamilton County,42.312,-93.639
-02938,Fayette,Fayette County,42.842,-91.802
-08637,Tripoli,Bremer County,42.808,-92.258
-02688,Elkader,Clayton County,42.854,-91.405
-01188,Buffalo,Scott County,41.456,-90.723
-04618,Lake Park,Dickinson County,43.456,-95.321
-03368,Glidden,Carroll County,42.057,-94.729
-08073,Springville,Linn County,42.059,-91.443
-05220,Mapleton,Monona County,42.166,-95.793
-02862,Fairbank,Buchanan County,42.640,-92.048
-04626,Lake View,Sac County,42.302,-95.036
-07789,Sheffield,Franklin County,42.893,-93.215
-01898,Conrad,Grundy County,42.225,-92.875
-03277,George,Lyon County,43.344,-96.002
-05238,Marcus,Cherokee County,42.826,-95.808
-07341,Rockwell,Cerro Gordo County,42.985,-93.192
-07287,Riverside,Washington County,41.480,-91.581
-07844,Sidney,Fremont County,40.748,-95.647
-04250,Janesville,Black Hawk County,42.646,-92.462
-07909,Sloan,Woodbury County,42.233,-96.228
-02489,Dunlap,Crawford County,41.852,-95.602
-09347,Winfield,Henry County,41.123,-91.441
-05167,Malvern,Mills County,41.003,-95.585
-01680,Clarence,Cedar County,41.889,-91.057
-05422,Mechanicsville,Cedar County,41.904,-91.255
-08390,Tabor,Fremont County,40.895,-95.674
-03570,Griswold,Cass County,41.235,-95.137
-03506,Greene,Butler County,42.897,-92.804
-09049,Wayland,Henry County,41.147,-91.661
-00530,Baxter,Jasper County,41.826,-93.152
-03146,Fredericksburg,Chickasaw County,42.965,-92.200
-02603,Eddyville,Mahaska County,41.159,-92.630
-00217,Anita,Cass County,41.445,-94.765
-00137,Allison,Butler County,42.753,-92.795
-08736,Underwood,Pottawattamie County,41.387,-95.677
-03186,Fruitland,Muscatine County,41.356,-91.129
-04661,Lansing,Allamakee County,43.362,-91.217
-03952,Hinton,Plymouth County,42.628,-96.292
-06955,Preston,Jackson County,42.050,-90.414
-04735,Lawton,Woodbury County,42.479,-96.184
-02231,De Soto,Dallas County,41.532,-94.010
-02689,Elkhart,Polk County,41.792,-93.522
-04183,Inwood,Lyon County,43.307,-96.432
-06965,Princeton,Scott County,41.675,-90.340
-05933,Neola,Pottawattamie County,41.449,-95.616
-09150,West Point,Lee County,40.717,-91.450
-02195,Danville,Des Moines County,40.864,-91.315
-03929,Hills,Johnson County,41.554,-91.535
-06053,Newell,Buena Vista County,42.606,-95.003
-04739,Le Grand,Marshall County,42.007,-92.775
-02616,Edgewood,Clayton County,42.644,-91.402
-04415,Keota,Keokuk County,41.365,-91.953
-03655,Hamburg,Fremont County,40.604,-95.658
-06057,Newhall,Benton County,41.996,-91.968
-08289,Sully,Jasper County,41.578,-92.845
-00591,Beaverdale,Des Moines County,40.846,-91.208
-02393,Donnellson,Lee County,40.643,-91.565
-05327,Maxwell,Story County,41.892,-93.400
-00292,Armstrong,Emmet County,43.396,-94.478
-08869,Victor,Iowa County,41.731,-92.295
-00051,Afton,Union County,41.027,-94.198
-04067,Hubbard,Hardin County,42.306,-93.300
-01308,Cambridge,Story County,41.898,-93.529
-04974,Long Grove,Scott County,41.698,-90.583
-09370,Winthrop,Buchanan County,42.473,-91.734
-07667,Schleswig,Crawford County,42.165,-95.437
-00029,Adair,Adair County,41.500,-94.644
-07208,Riceville,Howard County,43.362,-92.553
-03309,Gilbertville,Black Hawk County,42.416,-92.215
-05043,Lowden,Cedar County,41.858,-90.928
-02664,Eldon,Wapello County,40.919,-92.223
-06394,Ossian,Winneshiek County,43.146,-91.765
-02226,Dayton,Webster County,42.261,-94.069
-09111,West Bend,Kossuth County,42.960,-94.446
-05439,Melbourne,Marshall County,41.941,-93.103
-08810,Van Horne,Benton County,42.009,-92.091
-05580,Milo,Warren County,41.292,-93.442
-02168,Dakota City,Humboldt County,42.722,-94.197
-09198,Wheatland,Clinton County,41.832,-90.838
-01405,Carson,Pottawattamie County,41.237,-95.418
-05181,Manilla,Crawford County,41.890,-95.232
-07090,Raymond,Black Hawk County,42.469,-92.220
-07329,Rockford,Floyd County,43.052,-92.949
-00094,Alden,Hardin County,42.520,-93.376
-08961,Wall Lake,Sac County,42.271,-95.093
-05688,Montrose,Lee County,40.532,-91.415
-09262,Whiting,Monona County,42.127,-96.149
-07136,Redfield,Dallas County,41.589,-94.196
-08971,Walnut,Pottawattamie County,41.477,-95.222
-03736,Hartford,Warren County,41.459,-93.405
-05737,Morning Sun,Louisa County,41.096,-91.258
-07791,Shelby,Pottawattamie County,41.506,-95.449
-03447,Grand Junction,Greene County,42.032,-94.241
-03806,Hedrick,Keokuk County,41.173,-92.309
-05380,McGregor,Clayton County,43.018,-91.183
-06437,Oxford,Johnson County,41.723,-91.790
-02537,Earlville,Delaware County,42.482,-91.272
-09091,Wellsburg,Grundy County,42.459,-92.939
-02806,Essex,Page County,40.834,-95.308
-05474,Merrill,Plymouth County,42.720,-96.249
-00832,Blairstown,Benton County,41.909,-92.084
-03801,Hazleton,Buchanan County,42.621,-91.900
-04636,Lakeside,Buena Vista County,42.621,-95.173
-08840,Ventura,Cerro Gordo County,43.126,-93.478
-03159,Fremont,Mahaska County,41.213,-92.435
-03044,Fontanelle,Adair County,41.290,-94.562
-02671,Elgin,Fayette County,42.957,-91.631
-00526,Battle Creek,Ida County,42.316,-95.599
-08955,Walker,Linn County,42.287,-91.781
-00450,Bancroft,Kossuth County,43.293,-94.218
-08151,Stanton,Montgomery County,40.982,-95.104
-08247,Stratford,Hamilton County,42.270,-93.927
-06303,Olin,Jones County,41.998,-91.142
-09013,Washburn,Black Hawk County,42.412,-92.267
-05856,Murray,Clarke County,41.042,-93.949
-08092,St. Charles,Madison County,41.288,-93.809
-02322,Dexter,Dallas County,41.518,-94.226
-04347,Kanawha,Hancock County,42.938,-93.793
-05718,Moravia,Appanoose County,40.892,-92.820
-07755,Seymour,Wayne County,40.683,-93.121
-03042,Fonda,Pocahontas County,42.581,-94.846
-08152,Stanwood,Cedar County,41.893,-91.151
-02477,Dumont,Butler County,42.752,-92.975
-04027,Hopkinton,Delaware County,42.344,-91.248
-02044,Crescent,Pottawattamie County,41.365,-95.858
-03387,Goldfield,Wright County,42.736,-93.921
-00055,Agency,Wapello County,40.995,-92.307
-08344,Sutherland,O'Brien County,42.974,-95.498
-03451,Grand Mound,Clinton County,41.824,-90.648
-05766,Moulton,Appanoose County,40.686,-92.677
-05587,Minden,Pottawattamie County,41.467,-95.543
-04377,Kellogg,Jasper County,41.718,-92.907
-04438,Keystone,Benton County,41.998,-92.197
-01069,Brighton,Washington County,41.175,-91.820
-02684,Elk Horn,Shelby County,41.592,-95.060
-02921,Farmington,Van Buren County,40.640,-91.743
-02538,Early,Sac County,42.461,-95.152
-01679,Clermont,Fayette County,43.004,-91.652
-05992,New Hartford,Butler County,42.567,-92.622
-01775,Coalville,Webster County,42.445,-94.126
-00260,Arcadia,Carroll County,42.087,-95.046
-07033,Radcliffe,Hardin County,42.315,-93.434
-00408,Badger,Webster County,42.614,-94.146
-02279,Delmar,Clinton County,42.002,-90.607
-09467,Wyoming,Jones County,42.059,-91.007
-09515,Zearing,Story County,42.161,-93.297
-03321,Gilman,Marshall County,41.879,-92.789
-07222,Richland,Keokuk County,41.186,-91.993
-06364,Orleans,Dickinson County,43.447,-95.092
-01574,Charter Oak,Crawford County,42.068,-95.592
-06848,Pomeroy,Calhoun County,42.551,-94.684
-08660,Truro,Madison County,41.210,-93.847
-02430,Dows,Franklin County,42.658,-93.502
-02716,Elma,Howard County,43.247,-92.436
-00066,Ainsworth,Washington County,41.289,-91.552
-01828,Collins,Story County,41.903,-93.306
-07360,Rolfe,Pocahontas County,42.813,-94.527
-08708,Twin Lakes,Calhoun County,42.485,-94.636
-07699,Scranton,Greene County,42.022,-94.545
-01028,Breda,Carroll County,42.182,-94.977
-02709,Ellsworth,Hamilton County,42.313,-93.579
-08497,Thompson,Winnebago County,43.371,-93.774
-07497,Sabula,Jackson County,42.071,-90.174
-09265,Whittemore,Kossuth County,43.062,-94.427
-02925,Farragut,Fremont County,40.722,-95.481
-07475,Russell,Lucas County,40.982,-93.199
-04704,Latimer,Franklin County,42.763,-93.368
-08761,University Park,Mahaska County,41.287,-92.619
-05338,Maynard,Fayette County,42.774,-91.882
-06186,Norway,Benton County,41.903,-91.922
-02127,Cumming,Warren County,41.483,-93.762
-08133,Stacyville,Mitchell County,43.436,-92.782
-00330,Ashton,Osceola County,43.311,-95.791
-00089,Albion,Marshall County,42.112,-92.989
-03462,Grandview,Louisa County,41.276,-91.188
-04906,Little Rock,Lyon County,43.444,-95.883
-00557,Beacon,Mahaska County,41.277,-92.680
-03219,Galva,Ida County,42.507,-95.417
-03774,Hawkeye,Fayette County,42.939,-91.950
-01725,Klemme,Hancock County,43.007,-93.603
-00135,Allerton,Wayne County,40.706,-93.365
-04657,Lamont,Buchanan County,42.599,-91.642
-05018,Lost Nation,Clinton County,41.964,-90.818
-05264,Marquette,Clayton County,43.044,-91.178
-06400,Otho,Webster County,42.425,-94.150
-02291,Denmark,Lee County,40.742,-91.338
-00101,Alleman,Polk County,41.820,-93.612
-02274,Delhi,Delaware County,42.430,-91.331
-00285,Arlington,Fayette County,42.749,-91.671
-00519,Batavia,Jefferson County,40.994,-92.167
-04728,Lawler,Chickasaw County,43.071,-92.150
-05537,Miles,Jackson County,42.048,-90.316
-07536,Salem,Henry County,40.853,-91.620
-00719,Burt,Kossuth County,43.197,-94.220
-00538,Bayard,Guthrie County,41.852,-94.558
-02745,Emerson,Mills County,41.017,-95.402
-04777,Lehigh,Webster County,42.360,-94.052
-08506,Thornton,Cerro Gordo County,42.945,-93.385
-02535,Earling,Shelby County,41.776,-95.418
-06776,Plainfield,Bremer County,42.847,-92.537
-01571,Charlotte,Clinton County,41.960,-90.465
-09104,Wesley,Kossuth County,43.088,-93.990
-08737,Union,Hardin County,42.246,-93.065
-05583,Milton,Van Buren County,40.673,-92.162
-04918,Livermore,Humboldt County,42.869,-94.185
-06009,New Market,Taylor County,40.731,-94.900
-04884,Lynnville,Jasper County,41.578,-92.784
-06040,New Vienna,Dubuque County,42.548,-91.114
-08780,Vail,Crawford County,42.062,-95.200
-00209,Andrew,Jackson County,42.154,-90.592
-07442,Royal,Clay County,43.066,-95.284
-09449,Worthington,Dubuque County,42.396,-91.120
-07284,Riverdale,Scott County,41.544,-90.458
-04952,Lohrville,Calhoun County,42.270,-94.549
-01425,Casey,Adair County,41.507,-94.521
-00786,Birmingham,Van Buren County,40.879,-91.947
-01298,Callender,Webster County,42.362,-94.296
-06824,Plymouth,Cerro Gordo County,43.246,-93.123
-06355,Orient,Adair County,41.203,-94.415
-05519,Middletown,Des Moines County,40.828,-91.259
-04810,Letts,Louisa County,41.328,-91.237
-08146,Stanhope,Hamilton County,42.289,-93.796
-04820,Lewis,Cass County,41.306,-95.083
-03996,Holy Cross,Dubuque County,42.601,-90.996
-07450,Rudd,Floyd County,43.126,-92.906
-01283,Calamus,Clinton County,41.826,-90.758
-05301,Massena,Cass County,41.254,-94.768
-01876,Conesville,Muscatine County,41.382,-91.350
-07268,Ryan,Delaware County,42.351,-91.482
-08935,Wahpeton,Dickinson County,43.366,-95.172
-07603,Sandusky,Lee County,40.464,-91.387
-08450,Templeton,Carroll County,41.918,-94.943
-03247,Garrison,Benton County,42.144,-92.144
-00683,Bennett,Cedar County,41.740,-90.974
-04577,Lacona,Warren County,41.190,-93.383
-02675,Elliott,Montgomery County,41.149,-95.164
-05455,Menlo,Guthrie County,41.519,-94.404
-05647,Mondamin,Harrison County,41.711,-96.022
-06078,Nichols,Muscatine County,41.481,-91.308
-06577,Pierson,Woodbury County,42.544,-95.868
-01006,Brandon,Buchanan County,42.314,-92.002
-05877,Mystic,Appanoose County,40.778,-92.944
-06643,Peterson,Clay County,42.918,-95.344
-04206,Irwin,Shelby County,41.792,-95.206
-04376,Kelley,Story County,41.951,-93.665
-02181,Danbury,Woodbury County,42.234,-95.722
-03481,Granville,Sioux County,42.986,-95.874
-03037,Floyd,Floyd County,43.128,-92.736
-05597,Mingo,Jasper County,41.767,-93.284
-09300,Williams,Hamilton County,42.488,-93.545
-02960,Fertile,Worth County,43.264,-93.418
-03078,Fort Atkinson,Winneshiek County,43.143,-91.933
-04778,Lester,Lyon County,43.445,-96.333
-06635,Persia,Harrison County,41.580,-95.568
-07545,Salix,Woodbury County,42.308,-96.288
-01099,Bronson,Woodbury County,42.411,-96.214
-05753,Moscow,Muscatine County,41.575,-91.083
-01666,Cincinnati,Appanoose County,40.631,-92.925
-04453,Kimballton,Audubon County,41.629,-95.073
-09185,Westside,Crawford County,42.059,-95.098
-04915,Lytton,Calhoun County,42.423,-94.861
-01718,Clearfield,Ringgold County,40.801,-94.483
-02032,Crawfordsville,Washington County,41.215,-91.537
-08212,Stockport,Van Buren County,40.858,-91.835
-02918,Farmersburg,Clayton County,42.961,-91.368
-00836,Blakesburg,Wapello County,40.962,-92.634
-03615,Holland,Grundy County,42.399,-92.800
-05322,Maurice,Sioux County,42.966,-96.181
-07203,Rhodes,Marshall County,41.926,-93.186
-07247,Ridgeway,Winneshiek County,43.298,-91.988
-07438,Rowley,Buchanan County,42.370,-91.844
-05112,Macedonia,Pottawattamie County,41.193,-95.426
-00721,Bertram,Linn County,41.950,-91.535
-05160,Malcom,Poweshiek County,41.708,-92.559
-01967,Corwith,Hancock County,42.993,-93.957
-02950,Fenton,Kossuth County,43.220,-94.431
-04647,Lakota,Kossuth County,43.377,-94.094
-04835,Libertyville,Jefferson County,40.958,-92.051
-03714,Harpers Ferry,Allamakee County,43.201,-91.153
-09470,Yale,Guthrie County,41.777,-94.358
-00360,Auburn,Sac County,42.251,-94.878
-06985,Pulaski,Davis County,40.697,-92.273
-02285,Delta,Keokuk County,41.323,-92.330
-04405,Kensett,Worth County,43.354,-93.210
-06759,Pisgah,Harrison County,41.831,-95.926
-02114,Crystal Lake,Hancock County,43.223,-93.792
-04783,Leland,Winnebago County,43.337,-93.635
-07288,Riverton,Fremont County,40.687,-95.569
-02246,Deep River,Poweshiek County,41.580,-92.375
-02260,Defiance,Shelby County,41.824,-95.343
-05041,Low Moor,Clinton County,41.802,-90.355
-02125,Cumberland,Cass County,41.274,-94.870
-02281,Deloit,Crawford County,42.098,-95.323
-07860,Silver City,Mills County,41.113,-95.637
-05087,Luxemburg,Dubuque County,42.603,-91.074
-03411,Goose Lake,Clinton County,41.968,-90.383
-04425,Keswick,Keokuk County,41.453,-92.239
-04561,La Motte,Jackson County,42.296,-90.621
-03752,Harvey,Marion County,41.316,-92.924
-01724,Cleghorn,Cherokee County,42.812,-95.713
-06024,New Providence,Hardin County,42.281,-93.172
-06482,Panama,Shelby County,41.726,-95.472
-03102,Fostoria,Clay County,43.242,-95.156
-05223,Marathon,Buena Vista County,42.862,-94.982
-00412,Bagley,Guthrie County,41.846,-94.430
-00160,Alta Vista,Chickasaw County,43.199,-92.417
-04187,Ionia,Chickasaw County,43.034,-92.456
-02143,Cushing,Woodbury County,42.465,-95.675
-02243,Dedham,Carroll County,41.906,-94.822
-00307,Arthur,Ida County,42.335,-95.347
-01587,Chelsea,Tama County,41.919,-92.395
-06537,Paton,Greene County,42.164,-94.255
-01987,Coulter,Franklin County,42.737,-93.370
-03148,Fredonia,Louisa County,41.285,-91.339
-03505,Greeley,Delaware County,42.586,-91.342
-03437,Grafton,Worth County,43.330,-93.069
-04714,Laurel,Marshall County,41.884,-92.922
-00176,Alvord,Lyon County,43.342,-96.301
-04306,Joice,Worth County,43.363,-93.454
-08923,Wadena,Fayette County,42.843,-91.657
-02881,Fairport,Muscatine County,41.436,-90.905
-08911,Volga,Clayton County,42.805,-91.541
-02337,Dixon,Scott County,41.743,-90.782
-03671,Hancock,Pottawattamie County,41.390,-95.362
-04872,Linden,Dallas County,41.644,-94.269
-05445,Melvin,Osceola County,43.287,-95.609
-05685,Montour,Tama County,41.981,-92.715
-06314,Ollie,Keokuk County,41.198,-92.092
-06242,Oakville,Louisa County,41.100,-91.045
-02484,Dundee,Delaware County,42.579,-91.547
-06518,Parnell,Iowa County,41.583,-92.004
-00992,Bradford,Franklin County,42.633,-93.245
-03456,Grand River,Decatur County,40.819,-93.962
-04241,Jamaica,Guthrie County,41.846,-94.310
-04877,Lineville,Wayne County,40.581,-93.524
-05709,Moorhead,Monona County,41.922,-95.851
-05144,Magnolia,Harrison County,41.696,-95.877
-07812,Sherrill,Dubuque County,42.604,-90.785
-06953,Prescott,Adams County,41.023,-94.614
-07066,Randolph,Fremont County,40.873,-95.566
-09171,Westgate,Fayette County,42.770,-91.996
-05686,Montpelier,Muscatine County,41.459,-90.807
-06893,Portsmouth,Shelby County,41.650,-95.519
-08500,Thor,Humboldt County,42.688,-94.049
-09384,Woden,Hancock County,43.233,-93.909
-07958,Soldier,Monona County,41.985,-95.779
-02655,Elberon,Tama County,42.006,-92.317
-07925,Smithland,Woodbury County,42.229,-95.931
-00484,Barnum,Webster County,42.509,-94.365
-06446,Packwood,Jefferson County,41.133,-92.083
-05710,Moorland,Webster County,42.442,-94.295
-08213,Stockton,Muscatine County,41.591,-90.859
-08814,Van Wert,Decatur County,40.870,-93.793
-05054,Lucas,Lucas County,41.028,-93.460
-06532,Patterson,Madison County,41.348,-93.880
-01797,Coin,Page County,40.654,-95.230
-01236,Burr Oak,Winneshiek County,43.458,-91.868
-03234,Garden Grove,Decatur County,40.827,-93.607
-00371,Aurora,Buchanan County,42.619,-91.728
-00105,Alexander,Franklin County,42.806,-93.477
-03931,Hillsboro,Henry County,40.837,-91.716
-05775,Mount Auburn,Benton County,42.255,-92.093
-08520,Thurman,Fremont County,40.820,-95.748
-03771,Haverhill,Marshall County,41.945,-92.961
-06701,Pilot Mound,Boone County,42.164,-94.017
-02853,Exline,Appanoose County,40.649,-92.840
-08965,Wallingford,Emmet County,43.320,-94.793
-04882,Linn Grove,Buena Vista County,42.892,-95.247
-05468,Meriden,Cherokee County,42.795,-95.634
-01560,Chapin,Franklin County,42.834,-93.222
-00561,Beaman,Grundy County,42.220,-92.824
-07390,Rose Hill,Mahaska County,41.322,-92.462
-04492,Kirkville,Wapello County,41.146,-92.504
-05340,Maysville,Scott County,41.649,-90.717
-07064,Randall,Hamilton County,42.238,-93.601
-05588,Mineola,Mills County,41.143,-95.696
-03757,Hastings,Mills County,41.023,-95.499
-04738,Leighton,Mahaska County,41.337,-92.787
-03721,Harris,Osceola County,43.445,-95.434
-01064,Bridgewater,Adair County,41.245,-94.669
-02332,Dickens,Clay County,43.131,-95.024
-05082,Luther,Boone County,41.968,-93.819
-07313,Rock Falls,Cerro Gordo County,43.207,-93.085
-01300,Calumet,O'Brien County,42.946,-95.550
-08064,Springbrook,Jackson County,42.164,-90.477
-09117,West Chester,Washington County,41.339,-91.818
-01079,Bristow,Butler County,42.774,-92.907
-04967,Lone Rock,Kossuth County,43.219,-94.327
-06219,Oak Hills,Des Moines County,40.760,-91.148
-09405,Woodburn,Clarke County,41.012,-93.599
-03834,Henderson,Mills County,41.141,-95.431
-00990,Braddyville,Page County,40.579,-95.030
-01020,Brayton,Audubon County,41.544,-94.924
-06472,Palmer,Pocahontas County,42.631,-94.601
-09062,Webb,Clay County,42.949,-95.012
-02271,Delaware,Delaware County,42.475,-91.345
-06004,New Liberty,Scott County,41.718,-90.879
-01440,Castalia,Winneshiek County,43.112,-91.676
-05559,Millersburg,Iowa County,41.573,-92.160
-01609,Chester,Howard County,43.491,-92.360
-03272,Geneva,Franklin County,42.676,-93.129
-03766,Houghton,Lee County,40.784,-91.603
-01678,Clare,Webster County,42.587,-94.346
-04002,Homestead,Iowa County,41.759,-91.867
-09082,Weldon,Decatur County,40.898,-93.735
-01729,Clemons,Marshall County,42.114,-93.156
-08334,Superior,Dickinson County,43.430,-94.946
-00396,Ayrshire,Palo Alto County,43.039,-94.833
-09183,Westphalia,Shelby County,41.720,-95.395
-03133,Franklin,Lee County,40.668,-91.511
-03769,Havelock,Pocahontas County,42.836,-94.701
-05655,Monmouth,Jackson County,42.077,-90.880
-08890,Vincent,Webster County,42.592,-94.020
-07966,Somers,Calhoun County,42.378,-94.430
-00855,Blockton,Taylor County,40.616,-94.477
-08037,Sperry,Des Moines County,40.957,-91.157
-03659,Hamilton,Marion County,41.169,-92.903
-04687,Larrabee,Cherokee County,42.861,-95.545
-04762,Ledyard,Kossuth County,43.422,-94.162
-04861,Lincoln,Tama County,42.263,-92.692
-05623,Mitchell,Mitchell County,43.322,-92.868
-09094,Welton,Clinton County,41.908,-90.595
-09169,Westfield,Plymouth County,42.756,-96.606
-09304,Williamson,Lucas County,41.088,-93.255
-07436,Rowan,Wright County,42.741,-93.553
-00024,Ackworth,Warren County,41.367,-93.473
-03713,Harper,Keokuk County,41.363,-92.051
-04669,Lanesboro,Carroll County,42.184,-94.691
-05808,Mount Union,Henry County,41.058,-91.390
-07204,Rome,Henry County,40.981,-91.682
-07487,Rutland,Humboldt County,42.759,-94.298
-00262,Archer,O'Brien County,43.115,-95.746
-03031,Floris,Davis County,40.865,-92.333
-01524,Centralia,Dubuque County,42.472,-90.837
-05382,McIntire,Mitchell County,43.436,-92.594
-00709,Bernard,Dubuque County,42.312,-90.832
-02221,Dawson,Dallas County,41.843,-94.222
-03519,Green Mountain,Marshall County,42.102,-92.821
-02425,Downey,Cedar County,41.616,-91.349
-05089,Luzerne,Benton County,41.898,-92.180
-05443,Melrose,Monroe County,40.976,-93.050
-06164,North Washington,Chickasaw County,43.118,-92.417
-05283,Martinsburg,Keokuk County,41.179,-92.252
-09031,Waterville,Allamakee County,43.208,-91.298
-00208,Andover,Clinton County,41.979,-90.252
-05263,Marne,Cass County,41.451,-95.111
-08118,St. Marys,Warren County,41.308,-93.730
-08124,St. Paul,Lee County,40.769,-91.517
-02070,Cromwell,Union County,41.039,-94.462
-03142,Fraser,Boone County,42.127,-93.965
-08122,St. Olaf,Clayton County,42.929,-91.386
-09188,Westwood,Henry County,40.966,-91.624
-09060,Wever,Lee County,40.711,-91.231
-02481,Duncan,Hancock County,43.105,-93.711
-03233,Garden City,Hardin County,42.246,-93.396
-05121,Macksburg,Madison County,41.215,-94.185
-08591,Toronto,Clinton County,41.905,-90.864
-00433,Baldwin,Jackson County,42.074,-90.842
-05299,Masonville,Delaware County,42.479,-91.591
-09268,Whitten,Hardin County,42.261,-93.005
-05734,Morley,Jones County,42.006,-91.246
-05744,Morrison,Grundy County,42.344,-92.674
-00275,Arion,Crawford County,41.949,-95.464
-02954,Ferguson,Marshall County,41.937,-92.866
-00690,Bentley,Pottawattamie County,41.377,-95.620
-09067,Webster,Keokuk County,41.438,-92.169
-00274,Argyle,Lee County,40.532,-91.566
-01394,Carpenter,Mitchell County,43.415,-93.015
-02304,Derby,Lucas County,40.932,-93.456
-03748,Hartwick,Poweshiek County,41.785,-92.344
-09372,Wiota,Cass County,41.400,-94.887
-08147,Stanley,Buchanan County,42.642,-91.812
-03475,Grant,Montgomery County,41.143,-94.985
-01164,Buckeye,Hardin County,42.417,-93.375
-04474,Kingston,Des Moines County,40.977,-91.041
-06800,Pleasant Plain,Jefferson County,41.147,-91.859
-08454,Tennant,Shelby County,41.594,-95.441
-02019,Craig,Plymouth County,42.896,-96.310
-07054,Ralston,Carroll County,42.042,-94.629
-08753,Unionville,Appanoose County,40.818,-92.695
-09180,Weston,Pottawattamie County,41.341,-95.741
-00444,Balltown,Dubuque County,42.638,-90.869
-03229,Garber,Clayton County,42.742,-91.262
-04481,Kinross,Keokuk County,41.461,-91.987
-05993,New Haven,Mitchell County,43.284,-92.642
-08088,St. Anthony,Marshall County,42.122,-93.195
-01631,Chillicothe,Wapello County,41.086,-92.529
-08352,Swan,Marion County,41.465,-93.311
-03436,Graf,Dubuque County,42.493,-90.871
-05313,Matlock,Sioux County,43.244,-95.935
-06099,Nodaway,Adams County,40.937,-94.895
-01578,Chatsworth,Sioux County,42.916,-96.516
-09033,Watkins,Benton County,41.891,-91.986
-09299,Willey,Carroll County,41.979,-94.822
-06404,Oto,Woodbury County,42.284,-95.893
-05044,Lowell,Henry County,40.831,-91.436
-06195,Numa,Appanoose County,40.688,-92.978
-08109,St. Joseph,Kossuth County,42.913,-94.227
-08679,Turin,Monona County,42.019,-95.966
-03548,Greenville,Clay County,43.017,-95.146
-07778,Sharpsburg,Taylor County,40.802,-94.642
-06347,Orchard,Mitchell County,43.227,-92.772
-08056,Spring Hill,Warren County,41.411,-93.645
-08260,Struble,Plymouth County,42.895,-96.195
-01745,Clio,Wayne County,40.635,-93.451
-05930,Nemaha,Sac County,42.516,-95.088
-08624,Trenton,Henry County,41.062,-91.637
-08656,Truesdale,Buena Vista County,42.729,-95.183
-03586,Gruver,Emmet County,43.393,-94.705
-07102,Redding,Ringgold County,40.605,-94.388
-02414,Dougherty,Cerro Gordo County,42.922,-93.042
-03496,Gray,Audubon County,41.839,-94.983
-03590,Guernsey,Poweshiek County,41.649,-92.343
-07309,Rochester,Cedar County,41.674,-91.158
-09479,Yarmouth,Des Moines County,41.026,-91.324
-03787,Hayfield,Hancock County,43.177,-93.695
-09498,Yorktown,Page County,40.733,-95.157
-03302,Gibson,Keokuk County,41.481,-92.394
-06780,Plano,Appanoose County,40.756,-93.047
-07614,Sandyville,Warren County,41.371,-93.386
-00206,Anderson,Fremont County,40.801,-95.604
-03696,Hardy,Humboldt County,42.811,-94.051
-06818,Plover,Pocahontas County,42.878,-94.621
-00367,Augusta,Des Moines County,40.758,-91.276
-08895,Vining,Tama County,41.990,-92.380
-00756,Big Rock,Scott County,41.770,-90.826
-08478,Thayer,Union County,41.028,-94.051
-07414,Rossie,Clay County,43.013,-95.189
-05292,Marysville,Marion County,41.181,-92.949
-00585,Beaver,Boone County,42.038,-94.142
-01709,Clayton,Clayton County,42.904,-91.147
-04205,Irvington,Kossuth County,43.007,-94.196
-08504,Thornburg,Keokuk County,41.455,-92.336
-00516,Bassett,Chickasaw County,43.063,-92.515
-03786,Hayesville,Keokuk County,41.264,-92.249
-07353,Rodney,Monona County,42.206,-95.953
-00692,Benton,Ringgold County,40.703,-94.358
-05556,Miller,Hancock County,43.184,-93.600
-01975,Cotter,Louisa County,41.292,-91.462
-04127,Imogene,Fremont County,40.879,-95.427
-02134,Curlew,Palo Alto County,42.979,-94.741
-05563,Millerton,Wayne County,40.849,-93.305
-05033,Loveland,Pottawattamie County,41.497,-95.890
-07257,Rinard,Calhoun County,42.340,-94.489
-00334,Aspinwall,Crawford County,41.912,-95.136
-02180,Dana,Greene County,42.107,-94.241
-05643,Mona,Mitchell County,43.487,-92.941
-02284,Delphos,Ringgold County,40.664,-94.339
-04104,Hutchins,Hancock County,43.092,-93.881
-00919,Bolan,Worth County,43.372,-93.119
-01370,Carbon,Adams County,41.050,-94.823
-06810,Pleasanton,Decatur County,40.581,-93.744
-01944,Corley,Shelby County,41.579,-95.330
-07352,Rodman,Palo Alto County,43.029,-94.531
-00839,Blanchard,Page County,40.579,-95.222
-04237,Jacksonville,Shelby County,41.645,-95.151
-04309,Jolley,Calhoun County,42.479,-94.719
-01786,Coburg,Montgomery County,40.917,-95.264
-05806,Mount Sterling,Van Buren County,40.618,-91.932
-00456,Bankston,Dubuque County,42.519,-90.961
-00700,Berkley,Boone County,41.945,-94.115
-03218,Galt,Wright County,42.694,-93.605
-08090,St. Benedict,Kossuth County,43.038,-94.064
-02500,Durango,Dubuque County,42.560,-90.776
-03846,Hepburn,Page County,40.849,-95.017
-00756,Big Rock,Clinton County,41.769,-90.827
-06778,Plainview,Scott County,41.668,-90.783
-06892,Portland,Cerro Gordo County,43.129,-93.124
-05493,Meyer,Mitchell County,43.458,-92.692
-01902,Conway,Taylor County,40.749,-94.619
-07878,Sinclair,Butler County,42.500,-92.732
-00498,Bartlett,Fremont County,40.885,-95.795
-04741,Le Roy,Decatur County,40.878,-93.593
-00341,Athelstan,Taylor County,40.572,-94.542
-00004,Abbott,Hardin County,42.485,-93.066
-00012,Abingdon,Jefferson County,41.082,-92.139
-00040,Adelphi,Polk County,41.533,-93.426
-00118,Alice,Linn County,42.197,-91.696
-00150,Almont,Clinton County,41.975,-90.199
-00153,Alpha,Fayette County,42.997,-92.048
-00180,Amber,Jones County,42.128,-91.180
-00184,Ambrose,Iowa County,41.531,-92.234
-00216,Angus,Boone County,41.883,-94.157
-00265,Ardon,Muscatine County,41.395,-91.189
-00271,Argo,Scott County,41.626,-90.433
-00297,Arnold,Humboldt County,42.811,-94.199
-00306,Artesian,Bremer County,42.728,-92.337
-00316,Ash Grove,Davis County,40.871,-92.553
-00336,Astor,Crawford County,41.870,-95.266
-00354,Attica,Marion County,41.230,-93.016
-00357,Atwood,Keokuk County,41.325,-92.406
-00375,Austinville,Butler County,42.586,-92.957
-00382,Avery,Monroe County,41.065,-92.714
-00386,Avon,Polk County,41.529,-93.523
-00415,Bailey,Mitchell County,43.465,-92.608
-00436,Balfour,Mills County,41.049,-95.668
-00453,Bangor,Marshall County,42.173,-93.094
-00469,Bard,Louisa County,41.240,-91.287
-00480,Barney,Madison County,41.167,-94.004
-00529,Bauer,Marion County,41.204,-93.307
-00552,Beech,Warren County,41.375,-93.352
-00600,Beckwith,Jefferson County,41.009,-91.859
-00629,Belinda,Lucas County,41.139,-93.192
-00631,Belknap,Pottawattamie County,40.821,-92.426
-00665,Beloit,Lyon County,43.281,-96.575
-00685,Bennettsville,Dubuque County,42.360,-90.728
-00688,Benson,Black Hawk County,42.542,-92.542
-00698,Berea,Adair County,41.374,-94.680
-00706,Berne,Crawford County,42.081,-95.653
-00723,Berwick,Polk County,41.665,-93.545
-00730,Bethesda,Page County,40.843,-95.100
-00734,Beulah,Clayton County,43.027,-91.308
-00771,Bingham,Page County,40.734,-95.289
-00829,Bladensburg,Wapello County,41.046,-92.237
-00849,Blessing,Black Hawk County,42.312,-92.456
-00944,Booneville,Dallas County,41.524,-93.884
-00976,Boyd,Chickasaw County,43.013,-92.258
-00979,Boyer,Crawford County,42.182,-95.235
-00992,Bradford,Chickasaw County,42.966,-92.505
-00998,Brainard,Fayette County,42.931,-91.705
-01023,Brazil,Appanoose County,40.758,-92.954
-01098,Bromley,Marshall County,42.119,-93.130
-01112,Brooks,Adams County,40.965,-94.805
-01157,Bryant,Clinton County,41.963,-90.330
-01158,Bryantsburg,Buchanan County,42.575,-91.906
-01161,Buchanan,Cedar County,41.765,-91.247
-01168,Buckingham,Tama County,42.263,-92.448
-01187,Buena Vista,Clinton County,41.742,-90.740
-01212,Burdette,Franklin County,42.572,-93.360
-01231,Burnside,Webster County,42.346,-94.107
-01307,Cambria,Wayne County,40.838,-93.403
-01335,Canby,Adair County,41.417,-94.567
-01348,Canoe,Winneshiek County,43.351,-91.654
-01353,Canton,Jackson County,42.163,-90.896
-01389,Carnes,Sioux County,42.927,-96.057
-01411,Cartersville,Cerro Gordo County,42.994,-93.083
-01473,Cedar,Mahaska County,41.212,-92.526
-01475,Cedar Bluff,Cedar County,41.786,-91.308
-01519,Centerville,Boone County,42.093,-93.936
-01528,Ceres,Clayton County,42.821,-91.186
-01567,Charleston,Lee County,40.591,-91.531
-01663,Churchville,Warren County,41.397,-93.751
-01695,Clarkson,Warren County,41.835,-93.753
-01753,Cloverdale,Osceola County,43.347,-95.686
-01757,Clyde,Jasper County,41.842,-93.265
-01762,Coal City,Appanoose County,40.597,-92.719
-01835,Columbia,Marion County,41.175,-93.150
-01880,Confidence,Wayne County,40.863,-93.126
-01917,Cooper,Greene County,41.917,-94.350
-01947,Cornelia,Wright County,42.790,-93.683
-01949,Cornell,Clay County,42.944,-95.140
-01969,Cosgrove,Johnson County,41.643,-91.736
-01971,Cottage,Hardin County,42.404,-93.310
-01982,Cottonville,Jackson County,42.237,-90.602
-02030,Cranston,Muscatine County,41.379,-91.261
-02064,Crocker,Polk County,41.775,-93.670
-02087,Croton,Lee County,40.590,-91.691
-02162,Dahlonega,Wapello County,41.059,-92.370
-02169,Dale,Guthrie County,41.596,-94.342
-02199,Darbyville,Appanoose County,40.816,-92.873
-02213,David,Mitchell County,43.406,-92.664
-02235,Dean,Appanoose County,40.627,-92.714
-02255,Deerfield,Chickasaw County,43.164,-92.496
-02302,Depew,Palo Alto County,43.184,-94.543
-02318,Dewar,Black Hawk County,42.526,-92.219
-02373,Dodgeville,Des Moines County,40.943,-91.181
-02402,Dorchester,Allamakee County,43.470,-91.511
-02415,Douglas,Fayette County,43.008,-91.871
-02479,Dunbar,Marshall County,41.941,-92.781
-02540,Easley,Calhoun County,42.311,-94.399
-02604,Eden,Fayette County,43.024,-91.981
-02629,Edna,Lyon County,43.385,-96.094
-02666,Eldorado,Fayette County,43.051,-91.836
-02669,Eleanor,Butler County,42.614,-92.849
-02726,Elon,Allamakee County,43.264,-91.324
-02733,Elvira,Clinton County,41.859,-90.355
-02735,Elwood,Clinton County,41.992,-90.739
-02777,Enterprise,Polk County,41.732,-93.530
-02794,Irving,Benton County,41.948,-92.295
-02877,Fairmount,Jasper County,41.567,-93.159
-02882,Fairview,Jones County,42.078,-91.330
-02886,Fairville,Palo Alto County,43.156,-94.463
-02893,Faulkner,Franklin County,42.615,-93.086
-02926,Farrar,Polk County,41.806,-93.370
-02931,Farson,Wapello County,41.122,-92.255
-02955,Fern,Grundy County,42.485,-92.771
-02964,Fielding,Cherokee County,42.663,-95.800
-02972,Fillmore,Dubuque County,42.319,-90.917
-02993,Fisk,Adair County,41.201,-94.528
-03000,Five Points,Dubuque County,42.551,-90.858
-03048,Forbush,Appanoose County,40.769,-92.877
-03070,Forestville,Delaware County,42.597,-91.529
-03141,Frankville,Winneshiek County,43.189,-91.617
-03156,Freeport,Winneshiek County,43.302,-91.744
-03195,Fulton,Jackson County,42.154,-90.678
-03211,Galesburg,Jasper County,41.559,-92.946
-03248,Garryowen,Jackson County,42.283,-90.832
-03306,Gifford,Hardin County,42.288,-93.091
-03355,Glendon,Guthrie County,41.594,-94.402
-03383,Golden,Delaware County,42.391,-91.471
-03471,Granite,Lyon County,43.469,-96.556
-03476,Grant City,Sac County,42.267,-94.888
-03515,Green Island,Jackson County,42.154,-90.322
-03563,Gridley,Emmet County,43.399,-94.573
-03605,Guss,Taylor County,40.842,-94.858
-03614,Hale,Jones County,42.013,-91.059
-03662,Hamlin,Audubon County,41.667,-94.906
-03674,Hanford,Cerro Gordo County,43.074,-93.142
-03691,Hardin,Clayton County,43.080,-91.484
-03756,Haskins,Washington County,41.328,-91.537
-03778,Hawleyville,Page County,40.777,-94.936
-03780,Hawthorne,Montgomery County,41.002,-95.337
-03797,Hazel Green,Delaware County,42.362,-91.389
-03814,Hebron,Adair County,41.255,-94.285
-03857,Herndon,Guthrie County,41.846,-94.349
-03896,High Point,Decatur County,40.761,-93.594
-03899,Highland,Clayton County,42.894,-91.597
-03907,Highlandville,Winneshiek County,43.442,-91.669
-03989,Holmes,Wright County,42.739,-93.834
-04000,Homer,Hamilton County,42.374,-93.924
-04008,Honey Creek,Pottawattamie County,41.431,-95.866
-04023,Hopeville,Clarke County,40.943,-93.997
-04040,Horton,Bremer County,42.847,-92.476
-04095,Huntington,Emmet County,43.492,-94.792
-04113,Iconium,Appanoose County,40.891,-92.955
-04151,Indianapolis,Mahaska County,41.397,-92.434
-04191,Ira,Jasper County,41.778,-93.206
-04225,Ivanhoe,Linn County,41.883,-91.463
-04238,Jacobs,Poweshiek County,41.665,-92.669
-04242,James,Plymouth County,42.578,-96.317
-04249,Jamison,Clarke County,41.122,-93.725
-04277,Jerome,Appanoose County,40.719,-93.028
-04320,Jordan,Boone County,42.049,-93.784
-04327,Judd,Webster County,42.472,-94.050
-04339,Juniata,Buena Vista County,42.580,-95.148
-04407,Kent,Union County,40.952,-94.454
-04434,Key West,Dubuque County,42.449,-90.684
-04515,Noble,Washington County,41.166,-91.620
-04520,Knowlton,Ringgold County,40.826,-94.332
-04582,Ladoga,Taylor County,40.742,-94.795
-04584,Lafayette,Linn County,42.147,-91.680
-04655,LaMoille,Marshall County,42.031,-93.039
-04673,Langdon,Clay County,43.216,-95.088
-04713,Lorah,Cass County,41.470,-94.955
-04726,Lavinia,Calhoun County,42.408,-94.747
-04831,Liberty,Clarke County,41.145,-93.654
-04832,Liberty Center,Warren County,41.204,-93.500
-04851,Lima,Fayette County,42.868,-91.743
-04913,Littleton,Buchanan County,42.533,-92.024
-04978,Long Point,Tama County,41.945,-92.484
-05093,Lyman,Cass County,41.231,-94.984
-05118,Mackey,Boone County,42.166,-93.757
-05126,Macy,Hardin County,42.539,-93.148
-05164,Malone,Clinton County,41.814,-90.442
-05198,Manteno,Shelby County,41.833,-95.537
-05212,Maple Hill,Emmet County,43.392,-94.625
-05216,Maple River,Carroll County,42.098,-94.935
-05289,Mary Hill,Cherokee County,42.736,-95.689
-05302,Massey,Dubuque County,42.430,-90.585
-05304,Massillon,Cedar County,41.915,-90.923
-05319,Maud,Allamakee County,43.226,-91.370
-05490,Metz,Jasper County,41.666,-93.136
-05511,Middleburg,Sioux County,43.114,-96.069
-05528,Midway,Floyd County,43.005,-92.606
-05528,Midway,Linn County,42.106,-91.697
-05528,Midway,Woodbury County,42.371,-95.729
-05679,Montgomery,Dickinson County,43.441,-95.203
-05725,Morgan,Winneshiek County,43.392,-92.049
-05749,Morse,Johnson County,41.749,-91.435
-05855,Murphy,Jasper County,41.658,-92.974
-05886,Nansen,Chickasaw County,43.112,-92.238
-05899,Nashville,Jackson County,42.063,-90.784
-05956,New Boston,Lee County,40.561,-91.506
-06048,Newburg,Jasper County,41.819,-92.774
-06188,Norwich,Page County,40.742,-95.257
-06189,Norwood,Lucas County,41.117,-93.479
-06229,Oakdale,Johnson County,41.706,-91.603
-06231,Oakfield,Audubon County,41.533,-94.908
-06234,Oakland,Franklin County,42.581,-93.443
-06235,Oakland Mills,Henry County,40.936,-91.617
-06237,Oakley,Lucas County,41.101,-93.365
-06245,Oasis,Johnson County,41.706,-91.386
-06327,Oneida,Delaware County,42.543,-91.354
-06340,Oran,Fayette County,42.701,-92.075
-06364,Orleans,Appanoose County,40.726,-92.657
-06374,Orson,Harrison County,41.779,-95.983
-06383,Osborne,Clayton County,42.792,-91.446
-06387,Osgood,Palo Alto County,43.193,-94.701
-06408,Otter Creek,Jackson County,42.241,-90.683
-06411,Otterville,Buchanan County,42.509,-91.947
-06499,Paris,Linn County,42.239,-91.579
-06587,Pekin,Jefferson County,41.163,-92.160
-06619,Peoria,Mahaska County,41.462,-92.801
-06625,Perkins,Sioux County,43.188,-96.186
-06642,Petersburg,Delaware County,42.555,-91.213
-06642,Petersburg,Muscatine County,41.560,-90.794
-06645,Petersville,Clinton County,41.968,-90.534
-06699,Pilot Grove,Lee County,40.763,-91.537
-06754,Piper,Calhoun County,42.365,-94.554
-06764,Pittsburg,Van Buren County,40.746,-91.992
-06784,Plato,Cedar County,41.738,-91.309
-06786,Platteville,Taylor County,40.640,-94.557
-06815,Plessis,O'Brien County,43.234,-95.548
-06866,Poplar,Audubon County,41.689,-95.093
-06872,Port Allen,Muscatine County,41.338,-91.351
-06925,Powersville,Floyd County,42.936,-92.687
-07005,Quarry,Marshall County,42.018,-92.806
-07017,Quincy,Adams County,41.040,-94.790
-07051,Raleigh,Emmet County,43.339,-94.869
-07179,Republic,Chickasaw County,42.951,-92.397
-07213,Richard,Calhoun County,42.428,-94.530
-07219,Richfield,Fayette County,42.950,-92.063
-07243,Ridgeport,Boone County,42.177,-93.918
-07278,River Junction,Iowa County,41.491,-91.497
-07306,Robinson,Delaware County,42.342,-91.579
-07358,Rogersville,Benton County,42.109,-92.232
-07406,Roseville,Floyd County,43.009,-92.810
-07411,Ross,Audubon County,41.774,-94.919
-07417,Rossville,Allamakee County,43.189,-91.376
-07472,Rushville,Jasper County,41.760,-92.946
-07595,Sand Springs,Delaware County,42.318,-91.189
-07720,Sedan,Appanoose County,40.657,-92.834
-07723,Siegel,Bremer County,42.829,-92.357
-07732,Selma,Van Buren County,40.870,-92.153
-07738,Seney,Plymouth County,42.853,-96.131
-07754,Sexton,Kossuth County,43.083,-94.089
-07758,Shady Grove,Buchanan County,42.377,-92.055
-07773,Sharon Center,Johnson County,41.569,-91.661
-07813,Sherwood,Calhoun County,42.359,-94.727
-07862,Silver Creek,Delaware County,42.361,-91.578
-07936,Smyrna,Clarke County,40.942,-93.610
-08023,Spaulding,Union County,41.146,-94.370
-08065,Springdale,Cedar County,41.671,-91.259
-08203,Stilson,Hancock County,43.038,-93.885
-08243,Strand,Adams County,41.072,-94.902
-08292,Sulphur Springs,Buena Vista County,42.622,-95.097
-08312,Sunbury,Cedar County,41.670,-90.931
-08404,Talmage,Union County,41.027,-94.112
-08449,Temple Hill,Jones County,42.226,-90.976
-08461,Terre Haute,Decatur County,40.683,-93.867
-08496,Thomasville,Clayton County,42.754,-91.581
-08509,Thorpe,Delaware County,42.566,-91.449
-08535,Tilton,Keokuk County,41.510,-92.353
-08546,Tioga,Mahaska County,41.297,-92.422
-08565,Toddville,Linn County,42.099,-91.717
-08610,Tracy,Marion County,41.276,-92.876
-08652,Troy,Davis County,40.749,-92.203
-08653,Troy Mills,Linn County,42.290,-91.683
-08721,Tyrone,Monroe County,40.978,-92.947
-08728,Ulmer,Sac County,42.268,-94.950
-08746,Union Mills,Mahaska County,41.453,-92.571
-08773,Utica,Van Buren County,40.815,-91.835
-08808,Van Buren,Jackson County,42.084,-90.365
-08809,Van Cleve,Marshall County,41.931,-93.019
-08819,Vandalia,Jasper County,41.539,-93.306
-08842,Veo,Jefferson County,41.154,-91.908
-08847,Verdi,Washington County,41.236,-91.779
-08856,Vernon,Van Buren County,40.722,-91.855
-08889,Vincennes,Lee County,40.496,-91.570
-08899,Viola,Linn County,42.091,-91.438
-08908,Vista,Buchanan County,42.413,-91.987
-08912,Volney,Allamakee County,43.131,-91.374
-08914,Voorhies,Black Hawk County,42.336,-92.483
-08944,Wald,Cedar County,41.838,-91.132
-08997,Ware,Pocahontas County,42.790,-94.759
-09018,Washington Mills,Dubuque County,42.301,-90.782
-09034,Watson,Clayton County,43.075,-91.330
-09038,Waubeek,Linn County,42.166,-91.465
-09067,Webster,Madison County,41.329,-94.231
-09127,West Grove,Davis County,40.725,-92.560
-09271,Whittier,Linn County,42.095,-91.463
-09280,Wightman,Calhoun County,42.233,-94.610
-09340,Winchester,Van Buren County,40.850,-91.900
-09342,Windham,Johnson County,41.609,-91.762
-09396,Wood,Clayton County,42.657,-91.333
-09411,Woodland,Decatur County,40.696,-93.598
-09452,Wright,Mahaska County,41.249,-92.526
-09469,Xenia,Dallas County,41.857,-93.893
-09472,Yampa,Wapello County,41.010,-92.226
-09497,Yorkshire,Harrison County,41.521,-95.580
-09524,Zero,Lucas County,40.983,-93.127
-09526,Zion,Adair County,41.201,-94.299
+1416,Des Moines,Polk County,41.573,-93.610
+0912,Cedar Rapids,Linn County,42.008,-91.644
+1346,Davenport,Scott County,41.524,-90.578
+5352,Waterloo,Black Hawk County,42.493,-92.343
+0117,Ames,Story County,42.035,-93.620
+1495,Dubuque,Dubuque County,42.501,-90.665
+0760,Marion,Linn County,42.034,-91.598
+3214,Marshalltown,Marshall County,42.049,-92.908
+3228,Mason City,Cerro Gordo County,43.154,-93.201
+1906,Fort Dodge,Webster County,42.497,-94.168
+1085,Clinton,Clinton County,41.844,-90.189
+2667,Johnston,Polk County,41.673,-93.698
+0707,Burlington,Des Moines County,40.808,-91.113
+3710,North Liberty,Johnson County,41.749,-91.598
+0102,Altoona,Polk County,41.644,-93.465
+2231,Grimes,Dallas County,41.678,-93.802
+2582,Indianola,Warren County,41.358,-93.557
+2334,Newton,Jasper County,41.700,-93.048
+3731,Norwalk,Polk County,41.492,-93.702
+0536,Boone,Boone County,42.060,-93.880
+3846,Oskaloosa,Mahaska County,41.296,-92.644
+4787,Spencer,Clay County,43.141,-95.144
+4082,Pleasant Hill,Polk County,41.584,-93.520
+3964,Pella,Mahaska County,41.405,-92.917
+5344,Waverly,Bremer County,42.726,-92.475
+0847,Carroll,Carroll County,42.066,-94.867
+0644,Fairfield,Jefferson County,41.009,-91.963
+2232,Grinnell,Poweshiek County,41.743,-92.722
+3519,Mount Pleasant,Henry County,40.964,-91.558
+1403,Denison,Crawford County,42.018,-95.355
+0531,Bondurant,Polk County,41.701,-93.462
+0743,Perry,Dallas County,41.839,-94.107
+1068,Clear Lake,Cerro Gordo County,43.138,-93.379
+1258,Creston,Union County,41.059,-94.361
+2790,Knoxville,Marion County,41.321,-93.109
+0957,Charles City,Floyd County,43.066,-92.672
+2966,Washington,Washington County,41.299,-91.693
+2431,Hiawatha,Linn County,42.036,-91.682
+3595,Nevada,Story County,42.023,-93.452
+0208,Atlantic,Cass County,41.404,-95.014
+1638,Eldridge,Scott County,41.658,-90.585
+0021,Adel,Dallas County,41.614,-94.017
+3821,Orange City,Sioux County,43.007,-96.058
+0787,Independence,Buchanan County,42.469,-91.889
+0186,Asbury,Dubuque County,42.514,-90.752
+4111,Polk City,Polk County,41.771,-93.713
+4279,Red Oak,Montgomery County,41.010,-95.226
+3843,Osceola,Clarke County,41.034,-93.766
+1424,DeWitt,Clinton County,41.823,-90.538
+1816,Sheldon,O'Brien County,43.180,-95.844
+4790,Spirit Lake,Dickinson County,43.422,-95.102
+5552,Winterset,Madison County,41.331,-94.014
+0068,Algona,Kossuth County,43.070,-94.233
+0929,Centerville,Appanoose County,40.734,-92.874
+5076,Tiffin,Johnson County,41.706,-91.663
+2099,Glenwood,Mills County,41.047,-95.743
+5540,Windsor Heights,Polk County,41.598,-93.708
+0981,Cherokee,Cherokee County,42.749,-95.552
+3156,Manchester,Delaware County,42.484,-91.455
+5272,Vinton,Benton County,42.169,-92.024
+2316,Harlan,Shelby County,41.653,-95.326
+4680,Shenandoah,Fremont County,40.758,-95.372
+2548,Humboldt,Humboldt County,42.721,-94.215
+2562,Huxley,Story County,41.895,-93.601
+3523,Mount Vernon,Linn County,41.922,-91.417
+2294,Hampton,Franklin County,42.742,-93.202
+1889,Forest City,Hancock County,43.257,-93.637
+0955,Chariton,Lucas County,41.014,-93.307
+0832,Carlisle,Polk County,41.514,-93.497
+2193,Jefferson,Greene County,42.015,-94.377
+3449,Monticello,Jones County,42.238,-91.187
+1255,Cresco,Howard County,43.381,-92.114
+5416,West Liberty,Muscatine County,41.570,-91.264
+3840,Osage,Mitchell County,43.284,-92.811
+3621,New Hampton,Chickasaw County,43.059,-92.318
+5512,Williamsburg,Iowa County,41.661,-92.009
+3366,Milford,Dickinson County,43.325,-95.150
+5085,Tipton,Cedar County,41.770,-91.128
+4752,Solon,Johnson County,41.807,-91.494
+5014,Tama,Tama County,41.967,-92.577
+2011,Garner,Hancock County,43.102,-93.602
+5536,Wilton,Cedar County,41.589,-91.025
+0646,Fairfax,Linn County,41.919,-91.781
+1776,Sibley,Osceola County,43.399,-95.752
+3137,Madrid,Boone County,41.877,-93.823
+1038,Clarion,Wright County,42.732,-93.733
+0489,Bloomfield,Davis County,40.752,-92.415
+1632,Eldora,Hardin County,42.361,-93.100
+2165,Hudson,Black Hawk County,42.407,-92.455
+0923,Center Point,Linn County,42.191,-91.785
+5404,West Branch,Cedar County,41.666,-91.344
+2655,Jesup,Black Hawk County,42.475,-92.066
+3414,Mitchellville,Jasper County,41.667,-93.366
+5427,West Union,Fayette County,42.963,-91.808
+3193,Marengo,Iowa County,41.798,-92.071
+2547,Hull,Sioux County,43.189,-96.134
+0865,Cascade,Dubuque County,42.302,-91.005
+0367,Bellevue,Jackson County,42.259,-90.423
+1686,Ely,Linn County,41.874,-91.585
+5094,Toledo,Tama County,41.996,-92.577
+0362,Belle Plaine,Benton County,41.897,-92.278
+1140,Colfax,Jasper County,41.678,-93.245
+2998,Lisbon,Linn County,41.921,-91.385
+2850,Lake Mills,Winnebago County,43.419,-93.533
+0205,Atkins,Benton County,41.997,-91.862
+0096,Alta,Buena Vista County,42.674,-95.291
+2211,Greenfield,Adair County,41.305,-94.461
+3728,Northwood,Worth County,43.444,-93.221
+0220,Audubon,Audubon County,41.718,-94.932
+2331,Sumner,Bremer County,42.849,-92.097
+1717,Epworth,Dubuque County,42.445,-90.932
+3919,Parkersburg,Butler County,42.577,-92.787
+2964,Monroe,Jasper County,41.522,-93.102
+0617,Britt,Hancock County,43.098,-93.802
+3774,Ogden,Boone County,42.039,-94.028
+3631,New London,Henry County,40.927,-91.400
+1411,Denver,Bremer County,42.671,-92.337
+4101,Pocahontas,Pocahontas County,42.736,-94.669
+1517,Durant,Cedar County,41.601,-90.914
+2158,Granger,Dallas County,41.762,-93.824
+2943,Leon,Decatur County,40.740,-93.748
+4892,Stuart,Adair County,41.500,-94.318
+2256,Guttenberg,Clayton County,42.786,-91.100
+1799,Farley,Dubuque County,42.443,-91.006
+2841,Lake City,Calhoun County,42.267,-94.734
+4167,Prairie City,Jasper County,41.599,-93.235
+3172,Manson,Calhoun County,42.529,-94.534
+0235,Avoca,Pottawattamie County,41.477,-95.338
+4090,Pleasantville,Marion County,41.386,-93.269
+0499,Blue Grass,Muscatine County,41.510,-90.767
+4301,Remsen,Plymouth County,42.815,-95.973
+5572,Woodbine,Harrison County,41.738,-95.703
+3507,Mount Ayr,Ringgold County,40.715,-94.235
+5200,Urbana,Benton County,42.224,-91.874
+4724,Slater,Boone County,41.881,-93.691
+0009,Ackley,Franklin County,42.552,-93.052
+2345,Hartley,O'Brien County,43.180,-95.477
+0039,Akron,Plymouth County,42.829,-96.559
+5117,Traer,Tama County,42.194,-92.465
+3569,Nashua,Chickasaw County,42.950,-92.543
+5301,Walcott,Muscatine County,41.587,-90.781
+1206,Corning,Adams County,40.990,-94.741
+1217,Corydon,Wayne County,40.757,-93.319
+5389,Wellman,Washington County,41.464,-91.838
+3758,Oakland,Pottawattamie County,41.309,-95.397
+0634,Brooklyn,Poweshiek County,41.734,-92.445
+0342,Bedford,Taylor County,40.667,-94.721
+2500,Holstein,Ida County,42.489,-95.545
+3431,Monona,Clayton County,43.052,-91.389
+3166,Manning,Carroll County,41.909,-95.065
+3447,Montezuma,Poweshiek County,41.586,-92.527
+3901,Palo,Linn County,42.066,-91.795
+4557,Sanborn,O'Brien County,43.182,-95.656
+0800,Logan,Harrison County,41.643,-95.789
+2764,Kingsley,Plymouth County,42.588,-95.968
+4420,Roland,Story County,42.166,-93.502
+3036,Lone Tree,Johnson County,41.488,-91.426
+2942,Lenox,Adams County,40.883,-94.558
+5597,Woodward,Boone County,41.853,-93.921
+1187,Coon Rapids,Carroll County,41.875,-94.678
+4678,Shell Rock,Butler County,42.710,-92.583
+2912,Laurens,Pocahontas County,42.847,-94.852
+0931,Central City,Linn County,42.204,-91.524
+1047,Clarksville,Butler County,42.785,-92.668
+2060,Gilbert,Story County,42.107,-93.650
+3643,New Sharon,Mahaska County,41.470,-92.651
+3165,Manly,Worth County,43.287,-93.202
+0100,Alton,Sioux County,42.987,-96.011
+5194,University Heights,Johnson County,41.655,-91.557
+1819,Fayette,Fayette County,42.842,-91.802
+5130,Tripoli,Bremer County,42.808,-92.258
+0684,Buffalo,Scott County,41.456,-90.723
+2853,Lake Park,Dickinson County,43.456,-95.321
+2100,Glidden,Carroll County,42.057,-94.729
+4811,Springville,Linn County,42.059,-91.443
+3182,Mapleton,Monona County,42.166,-95.793
+2858,Lake View,Sac County,42.302,-95.036
+4673,Sheffield,Franklin County,42.893,-93.215
+1180,Conrad,Grundy County,42.225,-92.875
+2038,George,Lyon County,43.344,-96.002
+3192,Marcus,Cherokee County,42.826,-95.808
+4408,Rockwell,Cerro Gordo County,42.985,-93.192
+4376,Riverside,Washington County,41.480,-91.581
+4699,Sidney,Fremont County,40.748,-95.647
+2637,Janesville,Black Hawk County,42.646,-92.462
+4728,Sloan,Woodbury County,42.233,-96.228
+1508,Dunlap,Crawford County,41.852,-95.602
+0727,Winfield,Henry County,41.123,-91.441
+3152,Malvern,Mills County,41.003,-95.585
+1034,Clarence,Cedar County,41.889,-91.057
+3301,Mechanicsville,Cedar County,41.904,-91.255
+5007,Tabor,Fremont County,40.895,-95.674
+2233,Griswold,Cass County,41.235,-95.137
+0726,Greene,Butler County,42.897,-92.804
+5364,Wayland,Henry County,41.147,-91.661
+0306,Baxter,Jasper County,41.826,-93.152
+1946,Fredericksburg,Chickasaw County,42.965,-92.200
+1580,Eddyville,Mahaska County,41.159,-92.630
+0084,Allison,Butler County,42.753,-92.795
+5181,Underwood,Pottawattamie County,41.387,-95.677
+1972,Fruitland,Muscatine County,41.356,-91.129
+2881,Lansing,Allamakee County,43.362,-91.217
+2474,Hinton,Plymouth County,42.628,-96.292
+4180,Preston,Jackson County,42.050,-90.414
+2918,Lawton,Woodbury County,42.479,-96.184
+1362,De Soto,Dallas County,41.532,-94.010
+1651,Elkhart,Polk County,41.792,-93.522
+2596,Inwood,Lyon County,43.307,-96.432
+4186,Princeton,Scott County,41.675,-90.340
+3592,Neola,Pottawattamie County,41.449,-95.616
+5424,West Point,Lee County,40.717,-91.450
+1338,Danville,Des Moines County,40.864,-91.315
+2462,Hills,Johnson County,41.554,-91.535
+3660,Newell,Buena Vista County,42.606,-95.003
+2920,Le Grand,Marshall County,42.007,-92.775
+1598,Edgewood,Clayton County,42.644,-91.402
+2734,Keota,Keokuk County,41.365,-91.953
+0749,Hamburg,Fremont County,40.604,-95.658
+0338,Beaverdale,Des Moines County,40.846,-91.208
+1456,Donnellson,Lee County,40.643,-91.565
+3244,Maxwell,Story County,41.892,-93.400
+0178,Armstrong,Emmet County,43.396,-94.478
+5253,Victor,Iowa County,41.731,-92.295
+0026,Afton,Union County,41.027,-94.198
+2540,Hubbard,Hardin County,42.306,-93.300
+0777,Cambridge,Story County,41.898,-93.529
+3040,Long Grove,Scott County,41.698,-90.583
+5554,Winthrop,Buchanan County,42.473,-91.734
+4611,Schleswig,Crawford County,42.165,-95.437
+0014,Adair,Adair County,41.500,-94.644
+4323,Riceville,Howard County,43.362,-92.553
+3079,Lowden,Cedar County,41.858,-90.928
+1631,Eldon,Wapello County,40.919,-92.223
+3850,Ossian,Winneshiek County,43.146,-91.765
+1357,Dayton,Webster County,42.261,-94.069
+5403,West Bend,Kossuth County,42.960,-94.446
+3310,Melbourne,Marshall County,41.941,-93.103
+5222,Van Horne,Benton County,42.009,-92.091
+3392,Milo,Warren County,41.292,-93.442
+1321,Dakota City,Humboldt County,42.722,-94.197
+5457,Wheatland,Clinton County,41.832,-90.838
+0851,Carson,Pottawattamie County,41.237,-95.418
+3161,Manilla,Crawford County,41.890,-95.232
+4262,Raymond,Black Hawk County,42.469,-92.220
+4401,Rockford,Floyd County,43.052,-92.949
+0052,Alden,Hardin County,42.520,-93.376
+3453,Montrose,Lee County,40.532,-91.415
+5488,Whiting,Monona County,42.127,-96.149
+4284,Redfield,Dallas County,41.589,-94.196
+4432,Walnut,Pottawattamie County,41.477,-95.222
+2341,Hartford,Warren County,41.459,-93.405
+3480,Morning Sun,Louisa County,41.096,-91.258
+4675,Shelby,Pottawattamie County,41.506,-95.449
+2146,Grand Junction,Greene County,42.032,-94.241
+2394,Hedrick,Keokuk County,41.173,-92.309
+3274,McGregor,Clayton County,43.018,-91.183
+3876,Oxford,Johnson County,41.723,-91.790
+1539,Earlville,Delaware County,42.482,-91.272
+5391,Wellsburg,Grundy County,42.459,-92.939
+1727,Essex,Page County,40.834,-95.308
+3335,Merrill,Plymouth County,42.720,-96.249
+0476,Blairstown,Benton County,41.909,-92.084
+0843,Hazleton,Buchanan County,42.621,-91.900
+0671,Lakeside,Buena Vista County,42.621,-95.173
+5236,Ventura,Cerro Gordo County,43.126,-93.478
+1955,Fremont,Mahaska County,41.213,-92.435
+1880,Fontanelle,Adair County,41.290,-94.562
+1639,Elgin,Fayette County,42.957,-91.631
+0304,Battle Creek,Ida County,42.316,-95.599
+5308,Walker,Linn County,42.287,-91.781
+0262,Bancroft,Kossuth County,43.293,-94.218
+4863,Stanton,Montgomery County,40.982,-95.104
+4923,Stratford,Hamilton County,42.270,-93.927
+3794,Olin,Jones County,41.998,-91.142
+5340,Washburn,Black Hawk County,42.412,-92.267
+3552,Murray,Clarke County,41.042,-93.949
+4819,St. Charles,Madison County,41.288,-93.809
+1425,Dexter,Dallas County,41.518,-94.226
+3468,Moravia,Appanoose County,40.892,-92.820
+4658,Seymour,Wayne County,40.683,-93.121
+1878,Fonda,Pocahontas County,42.581,-94.846
+4864,Stanwood,Cedar County,41.893,-91.151
+1501,Dumont,Butler County,42.752,-92.975
+2521,Hopkinton,Delaware County,42.344,-91.248
+1252,Crescent,Pottawattamie County,41.365,-95.858
+2113,Goldfield,Wright County,42.736,-93.921
+0029,Agency,Wapello County,40.995,-92.307
+4980,Sutherland,O'Brien County,42.974,-95.498
+2149,Grand Mound,Clinton County,41.824,-90.648
+3499,Moulton,Appanoose County,40.686,-92.677
+3397,Minden,Pottawattamie County,41.467,-95.543
+2712,Kellogg,Jasper County,41.718,-92.907
+2747,Keystone,Benton County,41.998,-92.197
+0608,Brighton,Washington County,41.175,-91.820
+1649,Elk Horn,Shelby County,41.592,-95.060
+1805,Farmington,Van Buren County,40.640,-91.743
+1540,Early,Sac County,42.461,-95.152
+1033,Clermont,Fayette County,43.004,-91.652
+3624,New Hartford,Butler County,42.567,-92.622
+1106,Coalville,Webster County,42.445,-94.126
+0162,Arcadia,Carroll County,42.087,-95.046
+4227,Radcliffe,Hardin County,42.315,-93.434
+0243,Badger,Webster County,42.614,-94.146
+1396,Delmar,Clinton County,42.002,-90.607
+5619,Wyoming,Jones County,42.059,-91.007
+2070,Gilman,Marshall County,41.879,-92.789
+4138,Richland,Keokuk County,41.186,-91.993
+3834,Orleans,Dickinson County,43.447,-95.092
+0964,Charter Oak,Crawford County,42.068,-95.592
+4116,Pomeroy,Calhoun County,42.551,-94.684
+5139,Truro,Madison County,41.210,-93.847
+1670,Elma,Howard County,43.247,-92.436
+0035,Ainsworth,Washington County,41.289,-91.552
+1145,Collins,Story County,41.903,-93.306
+5163,Twin Lakes,Calhoun County,42.485,-94.636
+4625,Scranton,Greene County,42.022,-94.545
+0586,Breda,Carroll County,42.182,-94.977
+1667,Ellsworth,Hamilton County,42.313,-93.579
+5060,Thompson,Winnebago County,43.371,-93.774
+5490,Whittemore,Kossuth County,43.062,-94.427
+1810,Farragut,Fremont County,40.722,-95.481
+4487,Russell,Lucas County,40.982,-93.199
+2903,Latimer,Franklin County,42.763,-93.368
+5195,University Park,Mahaska County,41.287,-92.619
+3249,Maynard,Fayette County,42.774,-91.882
+3732,Norway,Benton County,41.903,-91.922
+1300,Cumming,Warren County,41.483,-93.762
+4855,Stacyville,Mitchell County,43.436,-92.782
+0194,Ashton,Osceola County,43.311,-95.791
+0050,Albion,Marshall County,42.112,-92.989
+2156,Grandview,Louisa County,41.276,-91.188
+3002,Little Rock,Lyon County,43.444,-95.883
+0322,Beacon,Mahaska County,41.277,-92.680
+1991,Galva,Ida County,42.507,-95.417
+2372,Hawkeye,Fayette County,42.939,-91.950
+1075,Klemme,Hancock County,43.007,-93.603
+0082,Allerton,Wayne County,40.706,-93.365
+2878,Lamont,Buchanan County,42.599,-91.642
+3064,Lost Nation,Clinton County,41.964,-90.818
+3209,Marquette,Clayton County,43.044,-91.178
+1404,Denmark,Lee County,40.742,-91.338
+0057,Alleman,Polk County,41.820,-93.612
+1392,Delhi,Delaware County,42.430,-91.331
+0174,Arlington,Fayette County,42.749,-91.671
+0301,Batavia,Jefferson County,40.994,-92.167
+2913,Lawler,Chickasaw County,43.071,-92.150
+3364,Miles,Jackson County,42.048,-90.316
+1141,Salem,Henry County,40.853,-91.620
+0718,Burt,Kossuth County,43.197,-94.220
+0310,Bayard,Guthrie County,41.852,-94.558
+1693,Emerson,Mills County,41.017,-95.402
+2934,Lehigh,Webster County,42.360,-94.052
+5065,Thornton,Cerro Gordo County,42.945,-93.385
+1538,Earling,Shelby County,41.776,-95.418
+4069,Plainfield,Bremer County,42.847,-92.537
+0961,Charlotte,Clinton County,41.960,-90.465
+5400,Wesley,Kossuth County,43.088,-93.990
+2965,Union,Hardin County,42.246,-93.065
+3395,Milton,Van Buren County,40.673,-92.162
+3010,Livermore,Humboldt County,42.869,-94.185
+3632,New Market,Taylor County,40.731,-94.900
+3114,Lynnville,Jasper County,41.578,-92.784
+3649,New Vienna,Dubuque County,42.548,-91.114
+5203,Vail,Crawford County,42.062,-95.200
+4470,Royal,Clay County,43.066,-95.284
+5606,Worthington,Dubuque County,42.396,-91.120
+1792,Riverdale,Scott County,41.544,-90.458
+3029,Lohrville,Calhoun County,42.270,-94.549
+0867,Casey,Adair County,41.507,-94.521
+0448,Birmingham,Van Buren County,40.879,-91.947
+0768,Callender,Webster County,42.362,-94.296
+4099,Plymouth,Cerro Gordo County,43.246,-93.123
+3828,Orient,Adair County,41.203,-94.415
+1584,Middletown,Des Moines County,40.828,-91.259
+4862,Stanhope,Hamilton County,42.289,-93.796
+2954,Lewis,Cass County,41.306,-95.083
+2503,Holy Cross,Dubuque County,42.601,-90.996
+0757,Calamus,Clinton County,41.826,-90.758
+3231,Massena,Cass County,41.254,-94.768
+1175,Conesville,Muscatine County,41.382,-91.350
+4497,Ryan,Delaware County,42.351,-91.482
+5296,Wahpeton,Dickinson County,43.366,-95.172
+4566,Sandusky,Lee County,40.464,-91.387
+5035,Templeton,Carroll County,41.918,-94.943
+2014,Garrison,Benton County,42.144,-92.144
+0391,Bennett,Cedar County,41.740,-90.974
+2824,Lacona,Warren County,41.190,-93.383
+1642,Elliott,Montgomery County,41.149,-95.164
+3322,Menlo,Guthrie County,41.519,-94.404
+3674,Nichols,Muscatine County,41.481,-91.308
+3956,Pierson,Woodbury County,42.544,-95.868
+0575,Brandon,Buchanan County,42.314,-92.002
+3559,Mystic,Appanoose County,40.778,-92.944
+3993,Peterson,Clay County,42.918,-95.344
+2614,Irwin,Shelby County,41.792,-95.206
+2711,Kelley,Story County,41.951,-93.665
+1329,Danbury,Woodbury County,42.234,-95.722
+2174,Granville,Sioux County,42.986,-95.874
+1874,Floyd,Floyd County,43.128,-92.736
+3405,Mingo,Jasper County,41.767,-93.284
+5511,Williams,Hamilton County,42.488,-93.545
+1833,Fertile,Worth County,43.264,-93.418
+1903,Fort Atkinson,Winneshiek County,43.143,-91.933
+2935,Lester,Lyon County,43.445,-96.333
+3987,Persia,Harrison County,41.580,-95.568
+4524,Salix,Woodbury County,42.308,-96.288
+0627,Bronson,Woodbury County,42.411,-96.214
+3495,Moscow,Muscatine County,41.575,-91.083
+1026,Cincinnati,Appanoose County,40.631,-92.925
+1070,Clearfield,Ringgold County,40.801,-94.483
+1245,Crawfordsville,Washington County,41.215,-91.537
+4904,Stockport,Van Buren County,40.858,-91.835
+1802,Farmersburg,Clayton County,42.961,-91.368
+1542,Holland,Grundy County,42.399,-92.800
+3242,Maurice,Sioux County,42.966,-96.181
+4319,Rhodes,Marshall County,41.926,-93.186
+4348,Ridgeway,Winneshiek County,43.298,-91.988
+4467,Rowley,Buchanan County,42.370,-91.844
+3121,Macedonia,Pottawattamie County,41.193,-95.426
+0412,Bertram,Linn County,41.950,-91.535
+3147,Malcom,Poweshiek County,41.708,-92.559
+1824,Fenton,Kossuth County,43.220,-94.431
+2872,Lakota,Kossuth County,43.377,-94.094
+2969,Libertyville,Jefferson County,40.958,-92.051
+2324,Harpers Ferry,Allamakee County,43.201,-91.153
+5620,Yale,Guthrie County,41.777,-94.358
+0218,Auburn,Sac County,42.251,-94.878
+4198,Pulaski,Davis County,40.697,-92.273
+1399,Delta,Keokuk County,41.323,-92.330
+2725,Kensett,Worth County,43.354,-93.210
+4056,Pisgah,Harrison County,41.831,-95.926
+1290,Crystal Lake,Hancock County,43.223,-93.792
+2938,Leland,Winnebago County,43.337,-93.635
+4377,Riverton,Fremont County,40.687,-95.569
+1378,Deep River,Poweshiek County,41.580,-92.375
+1386,Defiance,Shelby County,41.824,-95.343
+3078,Low Moor,Clinton County,41.802,-90.355
+1299,Cumberland,Cass County,41.274,-94.870
+4707,Silver City,Mills County,41.113,-95.637
+3105,Luxemburg,Dubuque County,42.603,-91.074
+2741,Keswick,Keokuk County,41.453,-92.239
+2813,La Motte,Jackson County,42.296,-90.621
+1859,Harvey,Marion County,41.316,-92.924
+1074,Cleghorn,Cherokee County,42.812,-95.713
+3639,New Providence,Hardin County,42.281,-93.172
+3904,Panama,Shelby County,41.726,-95.472
+1920,Fostoria,Clay County,43.242,-95.156
+3184,Marathon,Buena Vista County,42.862,-94.982
+0245,Bagley,Guthrie County,41.846,-94.430
+0097,Alta Vista,Chickasaw County,43.199,-92.417
+2600,Ionia,Chickasaw County,43.034,-92.456
+1307,Cushing,Woodbury County,42.465,-95.675
+1376,Dedham,Carroll County,41.906,-94.822
+0184,Arthur,Ida County,42.335,-95.347
+0974,Chelsea,Tama County,41.919,-92.395
+3939,Paton,Greene County,42.164,-94.255
+1224,Coulter,Franklin County,42.737,-93.370
+1948,Fredonia,Louisa County,41.285,-91.339
+2188,Greeley,Delaware County,42.586,-91.342
+2140,Grafton,Worth County,43.330,-93.069
+2908,Laurel,Marshall County,41.884,-92.922
+0109,Alvord,Lyon County,43.342,-96.301
+2670,Joice,Worth County,43.363,-93.454
+5288,Wadena,Fayette County,42.843,-91.657
+5282,Volga,Clayton County,42.805,-91.541
+1433,Dixon,Scott County,41.743,-90.782
+2296,Hancock,Pottawattamie County,41.390,-95.362
+2987,Linden,Dallas County,41.644,-94.269
+3314,Melvin,Osceola County,43.287,-95.609
+3450,Montour,Tama County,41.981,-92.715
+3760,Oakville,Louisa County,41.100,-91.045
+1505,Dundee,Delaware County,42.579,-91.547
+3928,Parnell,Iowa County,41.583,-92.004
+0566,Bradford,Franklin County,42.633,-93.245
+2153,Grand River,Decatur County,40.819,-93.962
+2632,Jamaica,Guthrie County,41.846,-94.310
+2990,Lineville,Wayne County,40.581,-93.524
+3464,Moorhead,Monona County,41.922,-95.851
+3139,Magnolia,Harrison County,41.696,-95.877
+4685,Sherrill,Dubuque County,42.604,-90.785
+4178,Prescott,Adams County,41.023,-94.614
+4250,Randolph,Fremont County,40.873,-95.566
+5438,Westgate,Fayette County,42.770,-91.996
+3451,Montpelier,Muscatine County,41.459,-90.807
+4143,Portsmouth,Shelby County,41.650,-95.519
+5561,Woden,Hancock County,43.233,-93.909
+4750,Soldier,Monona County,41.985,-95.779
+1626,Elberon,Tama County,42.006,-92.317
+4733,Smithland,Woodbury County,42.229,-95.931
+0282,Barnum,Webster County,42.509,-94.365
+3881,Packwood,Jefferson County,41.133,-92.083
+3465,Moorland,Webster County,42.442,-94.295
+4905,Stockton,Muscatine County,41.591,-90.859
+5224,Van Wert,Decatur County,40.870,-93.793
+3086,Lucas,Lucas County,41.028,-93.460
+3937,Patterson,Madison County,41.348,-93.880
+1120,Coin,Page County,40.654,-95.230
+0715,Burr Oak,Winneshiek County,43.458,-91.868
+2000,Garden Grove,Decatur County,40.827,-93.607
+0226,Aurora,Buchanan County,42.619,-91.728
+0059,Alexander,Franklin County,42.806,-93.477
+2464,Hillsboro,Henry County,40.837,-91.716
+3506,Mount Auburn,Benton County,42.255,-92.093
+5071,Thurman,Fremont County,40.820,-95.748
+2369,Haverhill,Marshall County,41.945,-92.961
+5313,Wallingford,Emmet County,43.320,-94.793
+3333,Meriden,Cherokee County,42.795,-95.634
+0953,Chapin,Franklin County,42.834,-93.222
+4439,Rose Hill,Mahaska County,41.322,-92.462
+2775,Kirkville,Wapello County,41.146,-92.504
+3251,Maysville,Scott County,41.649,-90.717
+4248,Randall,Hamilton County,42.238,-93.601
+2356,Hastings,Mills County,41.023,-95.499
+2919,Leighton,Mahaska County,41.337,-92.787
+2285,Harris,Osceola County,43.445,-95.434
+0605,Bridgewater,Adair County,41.245,-94.669
+1431,Dickens,Clay County,43.131,-95.024
+3101,Luther,Boone County,41.968,-93.819
+4391,Rock Falls,Cerro Gordo County,43.207,-93.085
+0769,Calumet,O'Brien County,42.946,-95.550
+4803,Springbrook,Jackson County,42.164,-90.477
+5405,West Chester,Washington County,41.339,-91.818
+0615,Bristow,Butler County,42.774,-92.907
+3034,Lone Rock,Kossuth County,43.219,-94.327
+3747,Oak Hills,Des Moines County,40.760,-91.148
+5575,Woodburn,Clarke County,41.012,-93.599
+2408,Henderson,Mills County,41.141,-95.431
+0582,Brayton,Audubon County,41.544,-94.924
+3898,Palmer,Pocahontas County,42.631,-94.601
+5375,Webb,Clay County,42.949,-95.012
+1384,Delaware,Delaware County,42.475,-91.345
+3629,New Liberty,Scott County,41.718,-90.879
+0876,Castalia,Winneshiek County,43.112,-91.676
+3377,Millersburg,Iowa County,41.573,-92.160
+0920,Chester,Howard County,43.491,-92.360
+2031,Geneva,Franklin County,42.676,-93.129
+2364,Houghton,Lee County,40.784,-91.603
+1032,Clare,Webster County,42.587,-94.346
+2509,Homestead,Iowa County,41.759,-91.867
+5385,Weldon,Decatur County,40.898,-93.735
+1077,Clemons,Marshall County,42.114,-93.156
+4974,Superior,Dickinson County,43.430,-94.946
+5447,Westphalia,Shelby County,41.720,-95.395
+1938,Franklin,Lee County,40.668,-91.511
+2367,Havelock,Pocahontas County,42.836,-94.701
+3430,Monmouth,Jackson County,42.077,-90.880
+5266,Vincent,Webster County,42.592,-94.020
+4754,Somers,Calhoun County,42.378,-94.430
+4789,Sperry,Des Moines County,40.957,-91.157
+2283,Hamilton,Marion County,41.169,-92.903
+2381,Larrabee,Cherokee County,42.861,-95.545
+1171,Lincoln,Tama County,42.263,-92.692
+2925,Ledyard,Kossuth County,43.422,-94.162
+3413,Mitchell,Mitchell County,43.322,-92.868
+5394,Welton,Clinton County,41.908,-90.595
+5436,Westfield,Plymouth County,42.756,-96.606
+5513,Williamson,Lucas County,41.088,-93.255
+0010,Ackworth,Warren County,41.367,-93.473
+2323,Harper,Keokuk County,41.363,-92.051
+2884,Lanesboro,Carroll County,42.184,-94.691
+3522,Mount Union,Henry County,41.058,-91.390
+4320,Rome,Henry County,40.981,-91.682
+4495,Rutland,Humboldt County,42.759,-94.298
+0163,Archer,O'Brien County,43.115,-95.746
+1870,Floris,Davis County,40.865,-92.333
+0934,Centralia,Dubuque County,42.472,-90.837
+3276,McIntire,Mitchell County,43.436,-92.594
+1354,Dawson,Dallas County,41.843,-94.222
+2199,Green Mountain,Marshall County,42.102,-92.821
+3107,Luzerne,Benton County,41.898,-92.180
+3312,Melrose,Monroe County,40.976,-93.050
+3717,North Washington,Chickasaw County,43.118,-92.417
+3220,Martinsburg,Keokuk County,41.179,-92.252
+5355,Waterville,Allamakee County,43.208,-91.298
+0129,Andover,Clinton County,41.979,-90.252
+3208,Marne,Cass County,41.451,-95.111
+4256,St. Marys,Warren County,41.308,-93.730
+4848,St. Paul,Lee County,40.769,-91.517
+1269,Cromwell,Union County,41.039,-94.462
+1943,Fraser,Boone County,42.127,-93.965
+5450,Westwood,Henry County,40.966,-91.624
+5373,Wever,Lee County,40.711,-91.231
+1503,Duncan,Hancock County,43.105,-93.711
+3127,Macksburg,Madison County,41.215,-94.185
+5104,Toronto,Clinton County,41.905,-90.864
+0255,Baldwin,Jackson County,42.074,-90.842
+3230,Masonville,Delaware County,42.479,-91.591
+5494,Whitten,Hardin County,42.261,-93.005
+3479,Morley,Jones County,42.006,-91.246
+3486,Morrison,Grundy County,42.344,-92.674
+1828,Ferguson,Marshall County,41.937,-92.866
+5379,Webster,Keokuk County,41.438,-92.169
+0170,Argyle,Lee County,40.532,-91.566
+0842,Carpenter,Mitchell County,43.415,-93.015
+1414,Derby,Lucas County,40.932,-93.456
+2332,Wiota,Cass County,41.400,-94.887
+2352,Hartwick,Poweshiek County,41.785,-92.344
+1807,Stanley,Buchanan County,42.642,-91.812
+2163,Grant,Montgomery County,41.143,-94.985
+0670,Buckeye,Hardin County,42.417,-93.375
+4084,Pleasant Plain,Jefferson County,41.147,-91.859
+5037,Tennant,Shelby County,41.594,-95.441
+1239,Craig,Plymouth County,42.896,-96.310
+4239,Ralston,Carroll County,42.042,-94.629
+5190,Unionville,Appanoose County,40.818,-92.695
+1997,Garber,Clayton County,42.742,-91.262
+4816,St. Anthony,Marshall County,42.122,-93.195
+1005,Chillicothe,Wapello County,41.086,-92.529
+4982,Swan,Marion County,41.465,-93.311
+3237,Matlock,Sioux County,43.244,-95.935
+0968,Chatsworth,Sioux County,42.916,-96.516
+5356,Watkins,Benton County,41.891,-91.986
+3080,Lowell,Henry County,40.831,-91.436
+4835,St. Joseph,Kossuth County,42.913,-94.227
+5150,Turin,Monona County,42.019,-95.966
+2220,Greenville,Clay County,43.017,-95.146
+4667,Sharpsburg,Taylor County,40.802,-94.642
+3825,Orchard,Mitchell County,43.227,-92.772
+4797,Spring Hill,Warren County,41.411,-93.645
+4933,Struble,Plymouth County,42.895,-96.195
+1090,Clio,Wayne County,40.635,-93.451
+3590,Nemaha,Sac County,42.516,-95.088
+5137,Truesdale,Buena Vista County,42.729,-95.183
+2243,Gruver,Emmet County,43.393,-94.705
+4269,Redding,Ringgold County,40.605,-94.388
+1466,Dougherty,Cerro Gordo County,42.922,-93.042
+2182,Gray,Audubon County,41.839,-94.983
+2245,Guernsey,Poweshiek County,41.649,-92.343
+4388,Rochester,Cedar County,41.674,-91.158
+5625,Yarmouth,Des Moines County,41.026,-91.324
+5633,Yorktown,Page County,40.733,-95.157
+2056,Gibson,Keokuk County,41.481,-92.394
+4073,Plano,Appanoose County,40.756,-93.047
+4575,Sandyville,Warren County,41.371,-93.386
+2315,Hardy,Humboldt County,42.811,-94.051
+4093,Plover,Pocahontas County,42.878,-94.621
+0223,Augusta,Des Moines County,40.758,-91.276
+5269,Vining,Tama County,41.990,-92.380
+5052,Thayer,Union County,41.028,-94.051
+4452,Rossie,Clay County,43.013,-95.189
+0785,Marysville,Marion County,41.181,-92.949
+0335,Beaver,Boone County,42.038,-94.142
+1063,Clayton,Clayton County,42.904,-91.147
+2613,Irvington,Kossuth County,43.007,-94.196
+5063,Thornburg,Keokuk County,41.455,-92.336
+0299,Bassett,Chickasaw County,43.063,-92.515
+2380,Hayesville,Keokuk County,41.264,-92.249
+0398,Benton,Ringgold County,40.703,-94.358
+1221,Cotter,Louisa County,41.292,-91.462
+2572,Imogene,Fremont County,40.879,-95.427
+1302,Curlew,Palo Alto County,42.979,-94.741
+3380,Millerton,Wayne County,40.849,-93.305
+4354,Rinard,Calhoun County,42.340,-94.489
+0196,Aspinwall,Crawford County,41.912,-95.136
+1328,Dana,Greene County,42.107,-94.241
+3424,Mona,Mitchell County,43.487,-92.941
+1398,Delphos,Ringgold County,40.664,-94.339
+0823,Carbon,Adams County,41.050,-94.823
+4089,Pleasanton,Decatur County,40.581,-93.744
+1201,Corley,Shelby County,41.579,-95.330
+4417,Rodman,Palo Alto County,43.029,-94.531
+0480,Blanchard,Page County,40.579,-95.222
+2629,Jacksonville,Shelby County,41.645,-95.151
+2672,Jolley,Calhoun County,42.479,-94.719
+1112,Coburg,Montgomery County,40.917,-95.264
+3520,Mount Sterling,Van Buren County,40.618,-91.932
+0266,Bankston,Dubuque County,42.519,-90.961
+0403,Berkley,Boone County,41.945,-94.115
+1990,Galt,Wright County,42.694,-93.605
+1516,Durango,Dubuque County,42.560,-90.776
+1182,Conway,Taylor County,40.749,-94.619
+4717,Sinclair,Butler County,42.500,-92.732
+0289,Bartlett,Fremont County,40.885,-95.795
+0724,Le Roy,Decatur County,40.878,-93.593
+0007,Abingdon,Jefferson County,41.082,-92.139
+0022,Adelphi,Polk County,41.533,-93.426
+0110,Amber,Jones County,42.128,-91.180
+0113,Ambrose,Iowa County,41.531,-92.234
+0166,Ardon,Muscatine County,41.395,-91.189
+0198,Astor,Crawford County,41.870,-95.266
+0263,Bangor,Marshall County,42.173,-93.094
+0319,Beech,Warren County,41.375,-93.352
+0380,Beloit,Lyon County,43.281,-96.575
+0393,Bennettsville,Dubuque County,42.360,-90.728
+0395,Benson,Black Hawk County,42.542,-92.542
+0401,Berea,Adair County,41.374,-94.680
+0414,Berwick,Polk County,41.665,-93.545
+0473,Bladensburg,Wapello County,41.046,-92.237
+0484,Blessing,Black Hawk County,42.312,-92.456
+0537,Booneville,Dallas County,41.524,-93.884
+0566,Bradford,Chickasaw County,42.966,-92.505
+0626,Bromley,Marshall County,42.119,-93.130
+0668,Bryantsburg,Buchanan County,42.575,-91.906
+0674,Buckingham,Tama County,42.263,-92.448
+0682,Buena Vista,Clinton County,41.742,-90.740
+0711,Burnside,Webster County,42.346,-94.107
+0729,Enterprise,Polk County,41.732,-93.530
+0776,Cambria,Wayne County,40.838,-93.403
+0902,Cedar,Mahaska County,41.212,-92.526
+0958,Charleston,Lee County,40.591,-91.531
+1022,Churchville,Warren County,41.397,-93.751
+1097,Clyde,Jasper County,41.842,-93.265
+1188,Cooper,Greene County,41.917,-94.350
+1202,Cornelia,Wright County,42.790,-93.683
+1317,Dahlonega,Wapello County,41.059,-92.370
+1348,David,Mitchell County,43.406,-92.664
+1370,Voorhies,Black Hawk County,42.336,-92.483
+1462,Dorchester,Allamakee County,43.470,-91.511
+1502,Dunbar,Marshall County,41.941,-92.781
+1772,Fairmount,Jasper County,41.567,-93.159
+1798,Hebron,Adair County,41.255,-94.285
+1811,Farrar,Polk County,41.806,-93.370
+1814,Farson,Wapello County,41.122,-92.255
+1829,Fern,Grundy County,42.485,-92.771
+1849,Fisk,Adair County,41.201,-94.528
+1900,Forestville,Delaware County,42.597,-91.529
+1986,Galesburg,Jasper County,41.559,-92.946
+2015,Garryowen,Jackson County,42.283,-90.832
+2059,Gifford,Hardin County,42.288,-93.091
+2109,Golden,Delaware County,42.391,-91.471
+2160,Granite,Lyon County,43.469,-96.556
+2304,Utica,Van Buren County,40.815,-91.835
+2452,Highlandville,Winneshiek County,43.442,-91.669
+2507,Homer,Hamilton County,42.374,-93.924
+2514,Honey Creek,Pottawattamie County,41.431,-95.866
+2528,Horton,Bremer County,42.847,-92.476
+2630,Jacobs,Poweshiek County,41.665,-92.669
+2680,Jordan,Boone County,42.049,-93.784
+2727,Kent,Union County,40.952,-94.454
+2744,Key West,Dubuque County,42.449,-90.684
+2829,Lafayette,Linn County,42.147,-91.680
+2876,LaMoille,Marshall County,42.031,-93.039
+2967,Liberty Center,Warren County,41.204,-93.500
+3007,Littleton,Buchanan County,42.533,-92.024
+3232,Massillon,Cedar County,41.915,-90.923
+3342,Metz,Jasper County,41.666,-93.136
+3359,Midway,Woodbury County,42.371,-95.729
+3448,Montgomery,Dickinson County,43.441,-95.203
+3491,Morse,Johnson County,41.749,-91.435
+3570,Nashville,Jackson County,42.063,-90.784
+3603,New Boston,Lee County,40.561,-91.506
+3655,Newburg,Jasper County,41.819,-92.774
+3753,Oakdale,Johnson County,41.706,-91.603
+3755,Oakfield,Audubon County,41.533,-94.908
+3762,Oasis,Johnson County,41.706,-91.386
+3819,Oran,Fayette County,42.701,-92.075
+3914,Paris,Linn County,42.239,-91.579
+3960,Pekin,Jefferson County,41.163,-92.160
+3992,Petersburg,Delaware County,42.555,-91.213
+4023,Pilot Grove,Lee County,40.763,-91.537
+4125,Poplar,Audubon County,41.689,-95.093
+4211,Quarry,Marshall County,42.018,-92.806
+4306,Republic,Chickasaw County,42.951,-92.397
+4386,Robinson,Delaware County,42.342,-91.579
+4451,Ross,Audubon County,41.774,-94.919
+4488,Silver Creek,Delaware County,42.361,-91.578
+4562,Sand Springs,Delaware County,42.318,-91.189
+4646,Selma,Van Buren County,40.870,-92.153
+4648,Seney,Plymouth County,42.853,-96.131
+4659,Shady Grove,Buchanan County,42.377,-92.055
+4730,Thorpe,Delaware County,42.566,-91.449
+4804,Springdale,Cedar County,41.671,-91.259
+4962,Sunbury,Cedar County,41.670,-90.931
+5176,Ulmer,Sac County,42.268,-94.950
+5220,Van Buren,Jackson County,42.084,-90.365
+5228,Vandalia,Jasper County,41.539,-93.306
+5245,Vernon,Van Buren County,40.722,-91.855
+5265,Vincennes,Lee County,40.496,-91.570
+5360,Waubeek,Linn County,42.166,-91.465
+5409,West Grove,Davis County,40.725,-92.560
+5621,Yampa,Wapello County,41.010,-92.226
+5632,Yorkshire,Harrison County,41.521,-95.580
