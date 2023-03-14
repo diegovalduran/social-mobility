@@ -368,6 +368,7 @@
 	];
 
 	$: placeRows = placeFeaturesRender.map((d) => ({
+		count: 0,
 		...d.properties,
 		style: `background-color: ${d.properties.fills.secondary}; color: ${d.properties.fills.textSecondary};`
 	}));
@@ -384,13 +385,13 @@
 		{
 			prop: "population",
 			label: "Population",
-			formatFn: format(","),
+			formatFn: (d) => (d ? format(",")(d) : "n/a"),
 			type: "number"
 		},
 		{
 			prop: "wiki",
 			label: "Wikipedia Length",
-			formatFn: format(","),
+			formatFn: (d) => (d ? format(",")(d) : "n/a"),
 			type: "number"
 		}
 	];

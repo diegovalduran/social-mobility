@@ -1,498 +1,496 @@
 phoneme,name,county,latitude,longitude
-0961,Charlotte,Mecklenburg County,35.227,-80.843
-4238,Raleigh,Durham County,35.830,-78.641
-2216,Greensboro,Guilford County,36.073,-79.792
-0752,Durham,Durham County,35.978,-78.900
-1820,Fayetteville,Cumberland County,35.053,-78.878
-0828,Cary,Chatham County,35.781,-78.823
-5532,Wilmington,New Hanover County,34.226,-77.945
-2446,High Point,Davidson County,35.991,-79.993
-1168,Concord,Cabarrus County,35.409,-80.580
-0190,Asheville,Buncombe County,35.601,-82.554
-2220,Greenville,Pitt County,35.613,-77.366
-2021,Gastonia,Gaston County,35.262,-81.187
-2629,Jacksonville,Onslow County,34.754,-77.430
-2553,Huntersville,Mecklenburg County,35.411,-80.843
-0952,Chapel Hill,Durham County,35.921,-79.045
-0707,Burlington,Alamance County,36.076,-79.468
-4413,Rocky Mount,Edgecombe County,35.969,-77.804
-3462,Mooresville,Iredell County,35.585,-80.810
-5341,Wilson,Wilson County,35.721,-77.916
-2434,Hickory,Burke County,35.740,-81.322
-2497,Holly Springs,Wake County,35.651,-78.834
-4523,Salisbury,Rowan County,35.671,-80.474
-2964,Monroe,Union County,34.985,-80.550
-2114,Goldsboro,Wayne County,35.385,-77.993
-2011,Garner,Wake County,35.711,-78.614
-1203,Cornelius,Mecklenburg County,35.487,-80.860
-3489,Morrisville,Durham County,35.836,-78.839
-4576,Sanford,Lee County,35.480,-79.180
-3236,Matthews,Mecklenburg County,35.117,-80.724
-4879,Statesville,Iredell County,35.783,-80.887
-1063,Clayton,Johnston County,35.652,-78.449
-5059,Thomasville,Davidson County,35.882,-80.080
-2938,Leland,Brunswick County,34.256,-78.045
-4675,Shelby,Cleveland County,35.292,-81.536
-1077,Clemmons,Forsyth County,36.022,-80.382
-2770,Kinston,Lenoir County,35.263,-77.582
-2959,Lexington,Davidson County,35.824,-80.253
-2328,Harrisburg,Cabarrus County,35.324,-80.656
-3095,Lumberton,Robeson County,34.618,-79.009
-0536,Boone,Watauga County,36.217,-81.675
-4043,Pinehurst,Moore County,35.195,-79.469
-3513,Mount Holly,Gaston County,35.298,-81.016
-3475,Morganton,Burke County,35.745,-81.685
-2141,Graham,Alamance County,36.069,-79.401
-2367,Havelock,Craven County,34.879,-76.901
-1582,Eden,Rockingham County,36.488,-79.767
-0379,Belmont,Gaston County,35.243,-81.037
-1349,Davidson,Iredell County,35.481,-80.821
-2409,Hendersonville,Henderson County,35.319,-82.461
-2408,Henderson,Vance County,36.330,-78.399
-4293,Reidsville,Rockingham County,36.355,-79.664
-2958,Lewisville,Forsyth County,36.097,-80.419
-2334,Newton,Catawba County,35.670,-81.221
-3558,Myrtle Grove,New Hanover County,34.135,-77.882
-4732,Smithfield,Johnston County,35.508,-78.339
-4798,Spring Lake,Cumberland County,35.168,-78.973
-5395,Wendell,Wake County,35.781,-78.370
-2759,Kings Mountain,Cleveland County,35.236,-81.350
-2983,Lincolnton,Lincoln County,35.474,-81.255
-1679,Elon,Alamance County,36.103,-79.507
-4953,Summerfield,Guilford County,36.209,-79.905
-4046,Pineville,Mecklenburg County,35.083,-80.892
-5553,Winterville,Pitt County,35.529,-77.401
-3505,Mount Airy,Surry County,36.499,-80.607
-5368,Waynesville,Haywood County,35.489,-82.989
-2464,Hillsborough,Orange County,36.075,-79.100
-2966,Washington,Beaufort County,35.547,-77.052
-4853,St. Stephens,Catawba County,35.765,-81.273
+0901,Charlotte,Mecklenburg County,35.227,-80.843
+4105,Raleigh,Durham County,35.830,-78.641
+2056,Greensboro,Guilford County,36.073,-79.792
+1425,Durham,Durham County,35.978,-78.900
+1695,Fayetteville,Cumberland County,35.053,-78.878
+0777,Cary,Chatham County,35.781,-78.823
+5424,Wilmington,New Hanover County,34.226,-77.945
+2272,High Point,Davidson County,35.991,-79.993
+1090,Concord,Cabarrus County,35.409,-80.580
+0185,Asheville,Buncombe County,35.601,-82.554
+2060,Greenville,Pitt County,35.613,-77.366
+1882,Gastonia,Gaston County,35.262,-81.187
+2467,Jacksonville,Onslow County,34.754,-77.430
+2389,Huntersville,Mecklenburg County,35.411,-80.843
+0891,Chapel Hill,Durham County,35.921,-79.045
+0688,Burlington,Alamance County,36.076,-79.468
+4281,Rocky Mount,Edgecombe County,35.969,-77.804
+3328,Mooresville,Iredell County,35.585,-80.810
+5427,Wilson,Wilson County,35.721,-77.916
+2260,Hickory,Burke County,35.740,-81.322
+2327,Holly Springs,Wake County,35.651,-78.834
+4387,Salisbury,Rowan County,35.671,-80.474
+3296,Monroe,Union County,34.985,-80.550
+1967,Goldsboro,Wayne County,35.385,-77.993
+1872,Garner,Wake County,35.711,-78.614
+1120,Cornelius,Mecklenburg County,35.487,-80.860
+3356,Morrisville,Durham County,35.836,-78.839
+4439,Sanford,Lee County,35.480,-79.180
+3095,Matthews,Mecklenburg County,35.117,-80.724
+4753,Statesville,Iredell County,35.783,-80.887
+0994,Clayton,Johnston County,35.652,-78.449
+4939,Thomasville,Davidson County,35.882,-80.080
+2786,Leland,Brunswick County,34.256,-78.045
+4538,Shelby,Cleveland County,35.292,-81.536
+1006,Clemmons,Forsyth County,36.022,-80.382
+2611,Kinston,Lenoir County,35.263,-77.582
+2808,Lexington,Davidson County,35.824,-80.253
+2162,Harrisburg,Cabarrus County,35.324,-80.656
+2949,Lumberton,Robeson County,34.618,-79.009
+0526,Boone,Watauga County,36.217,-81.675
+3916,Pinehurst,Moore County,35.195,-79.469
+3380,Mount Holly,Gaston County,35.298,-81.016
+3341,Morganton,Burke County,35.745,-81.685
+1992,Graham,Alamance County,36.069,-79.401
+2194,Havelock,Craven County,34.879,-76.901
+1481,Eden,Rockingham County,36.488,-79.767
+0371,Belmont,Gaston County,35.243,-81.037
+1265,Davidson,Iredell County,35.481,-80.821
+2234,Hendersonville,Henderson County,35.319,-82.461
+2233,Henderson,Vance County,36.330,-78.399
+4161,Reidsville,Rockingham County,36.355,-79.664
+2807,Lewisville,Forsyth County,36.097,-80.419
+3535,Newton,Catawba County,35.670,-81.221
+3425,Myrtle Grove,New Hanover County,34.135,-77.882
+4598,Smithfield,Johnston County,35.508,-78.339
+4670,Spring Lake,Cumberland County,35.168,-78.973
+5282,Wendell,Wake County,35.781,-78.370
+2599,Kings Mountain,Cleveland County,35.236,-81.350
+2832,Lincolnton,Lincoln County,35.474,-81.255
+1567,Elon,Alamance County,36.103,-79.507
+4826,Summerfield,Guilford County,36.209,-79.905
+3919,Pineville,Mecklenburg County,35.083,-80.892
+5448,Winterville,Pitt County,35.529,-77.401
+3372,Mount Airy,Surry County,36.499,-80.607
+5255,Waynesville,Haywood County,35.489,-82.989
+2291,Hillsborough,Orange County,36.075,-79.100
+5230,Washington,Beaufort County,35.547,-77.052
+4726,St. Stephens,Catawba County,35.765,-81.273
 0004,Aberdeen,Moore County,35.132,-79.429
-4402,Rockingham,Richmond County,34.939,-79.774
-5401,Wesley Chapel,Union County,35.007,-80.675
-3748,Oak Island,Brunswick County,33.917,-78.161
-3876,Oxford,Granville County,36.311,-78.591
-3774,Ogden,New Hanover County,34.272,-77.819
-1179,Conover,Catawba County,35.707,-81.219
-1512,Dunn,Harnett County,35.306,-78.609
-1085,Clinton,Sampson County,34.998,-78.323
-1861,Fletcher,Henderson County,35.431,-82.501
-5642,Zebulon,Johnston County,35.830,-78.314
-0760,Marion,McDowell County,35.684,-82.009
-3750,Oak Ridge,Guilford County,36.173,-79.989
-1732,Etowah,Henderson County,35.318,-82.594
-1889,Forest City,Rutherford County,35.334,-81.865
-2755,King,Forsyth County,36.275,-80.357
-5129,Trinity,Randolph County,35.895,-79.991
-2293,Hampstead,Pender County,34.368,-77.711
-4831,St. James,Brunswick County,33.929,-78.116
-5190,Unionville,Union County,35.087,-80.509
-4646,Selma,Johnston County,35.537,-78.284
-3223,Marvin,Union County,34.992,-80.815
-0989,Cherryville,Gaston County,35.379,-81.379
-2287,Hamlet,Richmond County,34.885,-79.694
-1324,Dallas,Gaston County,35.317,-81.176
-5448,Westport,Lincoln County,35.508,-80.984
-4709,Silver Lake,New Hanover County,34.149,-77.914
-3570,Nashville,Nash County,35.975,-77.966
-2633,James City,Craven County,35.089,-77.035
-5462,Whispering Pines,Moore County,35.256,-79.372
-5515,Williamston,Martin County,35.855,-77.056
-5289,Wadesboro,Anson County,34.968,-80.077
-1247,Creedmoor,Granville County,36.122,-78.686
-2161,Granite Falls,Caldwell County,35.797,-81.431
-3359,Midway,Davidson County,35.953,-80.218
-2073,Midland,Cabarrus County,35.249,-80.530
-5485,Whiteville,Columbus County,34.339,-78.703
-5610,Wrightsboro,New Hanover County,34.288,-77.921
-5374,Weaverville,Buncombe County,35.697,-82.561
-3022,Locust,Cabarrus County,35.269,-80.437
-1721,Erwin,Harnett County,35.327,-78.676
-4060,Pittsboro,Chatham County,35.720,-79.177
-0332,Beaufort,Carteret County,34.718,-76.664
-0520,Boiling Springs,Cleveland County,35.254,-81.667
-1808,Farmville,Pitt County,35.595,-77.585
-3667,Newport,Carteret County,34.787,-76.859
-1008,China Grove,Rowan County,35.569,-80.582
-2496,Holly Ridge,Onslow County,34.495,-77.555
-0813,Canton,Haywood County,35.533,-82.837
-4972,Sunset Beach,Brunswick County,33.881,-78.512
-1938,Franklin,Macon County,35.182,-83.382
-4780,Southport,Brunswick County,33.922,-78.020
-4975,Surf City,Onslow County,34.437,-77.535
-0395,Benson,Harnett County,35.387,-78.541
-3518,Mount Olive,Duplin County,35.200,-78.066
-1807,Stanley,Gaston County,35.359,-81.097
-5542,Wingate,Union County,34.984,-80.449
-3529,Mountain Home,Henderson County,35.370,-82.493
-1681,Elroy,Wayne County,35.343,-77.909
-4984,Swansboro,Onslow County,34.688,-77.119
-2165,Hudson,Caldwell County,35.848,-81.496
-3132,Maiden,Catawba County,35.571,-81.207
-2636,Jamestown,Guilford County,35.994,-79.935
-3080,Lowell,Gaston County,35.268,-81.103
-1328,Dana,Henderson County,35.329,-82.375
-1565,Eastover,Cumberland County,35.100,-78.800
-0421,Bethlehem,Alexander County,35.826,-81.307
-5507,Wilkesboro,Wilkes County,36.146,-81.161
-0725,Fairview,Union County,35.138,-80.538
-1856,Flat Rock,Henderson County,35.271,-82.442
-3534,Mountain View,Catawba County,35.683,-81.369
-5384,Welcome,Davidson County,35.903,-80.257
-5086,Tyro,Davidson County,35.809,-80.373
-5539,Windsor,Bertie County,35.998,-76.946
-4279,Red Oak,Nash County,36.038,-77.906
-2853,Lake Park,Union County,35.086,-80.635
-4787,Spencer,Rowan County,35.692,-80.435
-5311,Wallace,Duplin County,34.738,-77.991
-4373,River Road,Beaufort County,35.507,-76.991
-3402,Mineral Springs,Union County,34.938,-80.669
-4099,Plymouth,Washington County,35.867,-76.749
-4400,Rockfish,Hoke County,34.993,-79.066
-1645,Elizabethtown,Bladen County,34.629,-78.605
-4282,Red Springs,Hoke County,34.806,-79.181
-0314,Bayshore,New Hanover County,34.290,-77.787
-0786,Louisburg,Franklin County,36.099,-78.301
-0731,Troy,Montgomery County,35.358,-79.894
-4367,River Bend,Craven County,35.069,-77.147
-1411,Denver,Lincoln County,35.531,-81.030
-3967,Pembroke,Robeson County,34.680,-79.195
-0859,Carthage,Moore County,35.346,-79.417
-1696,Emma,Buncombe County,35.597,-82.592
-0725,Fairview,Buncombe County,35.514,-82.396
-2157,Grandy,Currituck County,36.242,-75.879
-5336,Warsaw,Duplin County,34.999,-78.091
-0794,Liberty,Randolph County,35.853,-79.572
-2809,La Grange,Lenoir County,35.307,-77.788
-5398,Wentworth,Rockingham County,36.400,-79.774
-5090,Tobaccoville,Forsyth County,36.226,-80.359
-4706,Sylva,Jackson County,35.374,-83.226
-1940,Franklinton,Franklin County,36.102,-78.458
-3550,Murfreesboro,Hertford County,36.442,-77.099
-0376,Belville,Brunswick County,34.231,-77.966
-3734,Norwood,Stanly County,35.220,-80.119
-5029,Taylorsville,Alexander County,35.922,-81.176
-4408,Rockwell,Rowan County,35.551,-80.406
-2677,Jonesville,Yadkin County,36.239,-80.845
-4334,Richlands,Onslow County,34.899,-77.547
-1972,Fruitland,Henderson County,35.396,-82.393
-2910,Laurel Park,Henderson County,35.314,-82.493
-3541,Mulberry,Wilkes County,36.240,-81.181
-1109,Coats,Harnett County,35.408,-78.672
-1771,Fairmont,Robeson County,34.497,-79.114
-4035,Pine Level,Johnston County,35.513,-78.244
-2097,Madison,Rockingham County,36.385,-79.959
-5636,Youngsville,Franklin County,36.025,-78.474
-0981,Cherokee,Jackson County,35.486,-83.301
-3210,Mars Hill,Madison County,35.827,-82.549
-4200,Pumpkin Center,Onslow County,34.792,-77.372
-1704,Enfield,Halifax County,36.181,-77.667
-3580,Nebo,McDowell County,35.715,-81.931
-0911,Cedar Point,Carteret County,34.688,-77.072
-1484,Drexel,Burke County,35.758,-81.604
-3519,Mount Pleasant,Cabarrus County,35.399,-80.436
-1033,Claremont,Catawba County,35.715,-81.146
-1637,Sparta,Alleghany County,36.505,-81.121
-4667,Sharpsburg,Edgecombe County,35.866,-77.831
-0130,Andrews,Cherokee County,35.202,-83.824
-0712,Burnsville,Yancey County,35.917,-82.301
-4626,Sea Breeze,New Hanover County,34.063,-77.891
-3551,Murphy,Cherokee County,35.088,-84.035
-4860,Stanfield,Stanly County,35.233,-80.427
-1141,Salem,Burke County,35.699,-81.697
-5141,Tryon,Polk County,35.208,-82.238
-4911,Stony Point,Alexander County,35.868,-81.044
-0737,Buxton,Dare County,35.268,-75.542
-4740,Snow Hill,Greene County,35.452,-77.681
-1410,Denton,Davidson County,35.633,-80.116
-2193,Jefferson,Ashe County,36.420,-81.473
-0025,Advance,Davie County,35.941,-80.409
-5385,Weldon,Halifax County,36.427,-77.596
-0209,Atlantic Beach,Carteret County,34.699,-76.740
-1097,Clyde,Haywood County,35.533,-82.911
-0418,Bethel,Pitt County,35.807,-77.379
-4186,Princeton,Johnston County,35.466,-78.161
-4439,Rose Hill,Duplin County,34.828,-78.023
-4909,Stoneville,Rockingham County,36.467,-79.907
-0621,Broadway,Harnett County,35.457,-79.057
-2379,Hays,Wilkes County,36.250,-81.116
-4187,Princeville,Edgecombe County,35.890,-77.532
-1198,Cordova,Richmond County,34.913,-79.822
-5413,West Jefferson,Ashe County,36.404,-81.493
-0257,Balfour,Henderson County,35.347,-82.472
-1852,Five Points,Hoke County,35.017,-79.361
-4414,Rocky Point,Pender County,34.435,-77.888
-4779,Southmont,Davidson County,35.668,-80.267
-1941,Franklinville,Randolph County,35.744,-79.692
-4804,Springdale,Gaston County,35.289,-81.145
-4382,Robbins,Moore County,35.434,-79.587
-0538,Boonville,Yadkin County,36.233,-80.708
-1955,Fremont,Wayne County,35.545,-77.975
-3510,Mount Gilead,Montgomery County,35.215,-80.002
-1856,Flat Rock,Surry County,36.512,-80.570
-2909,Laurel Hill,Scotland County,34.809,-79.548
-5315,Walnut Creek,Wayne County,35.307,-77.865
-2451,Highlands,Jackson County,35.054,-83.198
-2131,Gorman,Durham County,36.037,-78.823
-5473,White Plains,Surry County,36.446,-80.633
-1161,Columbus,Polk County,35.253,-82.197
-2020,Gaston,Northampton County,36.500,-77.645
-5584,Woodlawn,Alamance County,36.110,-79.295
-0661,Brunswick,Columbus County,34.287,-78.701
-2493,Hollister,Halifax County,36.256,-77.936
-3354,Middlesex,Nash County,35.790,-78.204
-3626,New Hope,Wayne County,35.376,-77.883
-4420,Rowland,Robeson County,34.537,-79.291
-0368,Belwood,Cleveland County,35.477,-81.523
-5226,Vanceboro,Craven County,35.309,-77.154
-1078,Cleveland,Rowan County,35.733,-80.677
-1888,Warrenton,Warren County,36.398,-78.155
-1150,Columbia,Tyrrell County,35.918,-76.252
-1067,White Lake,Bladen County,34.640,-78.484
-3139,Magnolia,Duplin County,34.897,-78.054
-3251,Maysville,Jones County,34.905,-77.231
-1496,Dudley,Wayne County,35.267,-78.037
-1783,Faith,Rowan County,35.587,-80.463
-3787,Old Fort,McDowell County,35.629,-82.181
-4867,Star,Montgomery County,35.402,-79.784
-0806,Candor,Montgomery County,35.296,-79.733
-2240,Grover,Cleveland County,35.175,-81.450
-4082,Pleasant Hill,Wilkes County,36.257,-80.883
-3212,Marshall,Madison County,35.797,-82.684
-4192,Prospect,Robeson County,34.733,-79.230
-4707,Silver City,Hoke County,34.996,-79.226
-0778,Camden,Camden County,36.328,-76.172
-1182,Conway,Northampton County,36.437,-77.229
-0083,Alliance,Pamlico County,35.145,-76.802
-1656,Ellenboro,Rutherford County,35.329,-81.759
-4021,Pikeville,Wayne County,35.497,-77.982
-0517,Bogue,Carteret County,34.699,-77.037
-0885,Catawba,Catawba County,35.707,-81.076
-1967,Frisco,Dare County,35.235,-75.628
-2717,Kenansville,Duplin County,34.962,-77.962
-0459,Black Creek,Wilson County,35.635,-77.933
-4638,Sedalia,Guilford County,36.067,-79.621
-2766,Kingstown,Cleveland County,35.351,-81.612
-5287,Wade,Cumberland County,35.163,-78.736
-2199,Green Mountain,Yancey County,35.994,-82.259
-1794,Fallston,Cleveland County,35.429,-81.501
-5555,Winton,Hertford County,36.396,-76.932
-3631,New London,Stanly County,35.443,-80.219
-4531,Saluda,Henderson County,35.238,-82.347
-1048,Clarkton,Bladen County,34.487,-78.656
-2010,Garland,Sampson County,34.786,-78.394
-5492,Whitsett,Guilford County,36.071,-79.564
-0061,Alexis,Gaston County,35.400,-81.118
-4328,Richfield,Stanly County,35.470,-80.258
-2914,Lawndale,Cleveland County,35.414,-81.563
-0247,Bailey,Nash County,35.781,-78.119
-0208,Atlantic,Carteret County,34.885,-76.340
-2320,Harmony,Iredell County,35.956,-80.772
-3007,Littleton,Halifax County,36.435,-77.912
-1356,Woodland,Northampton County,36.332,-77.213
-3185,Marble,Cherokee County,35.175,-83.925
-3851,Ossipee,Alamance County,36.172,-79.511
-1560,Robbinsville,Graham County,35.323,-83.807
-1082,Cliffside,Rutherford County,35.238,-81.770
-2530,Hot Springs,Madison County,35.892,-82.829
-4112,Polkville,Cleveland County,35.418,-81.643
-0527,Bolton,Columbus County,34.321,-78.402
-3922,Parkton,Robeson County,34.903,-79.012
-2099,Glenwood,McDowell County,35.614,-81.982
-2102,Gloucester,Carteret County,34.726,-76.541
-2056,Gibson,Scotland County,34.759,-79.611
-4049,Pink Hill,Lenoir County,35.055,-77.746
-0254,Bakersville,Mitchell County,36.016,-82.159
-0226,Aurora,Beaufort County,35.305,-76.789
-2380,Hayesville,Clay County,35.046,-83.818
-2624,Ivanhoe,Sampson County,34.611,-78.242
-3406,Minneapolis,Avery County,36.099,-81.987
-0158,Arapahoe,Pamlico County,35.026,-76.825
-1589,Jackson,Northampton County,36.390,-77.421
-4829,St. Helena,Pender County,34.517,-77.916
-2482,Hoffman,Richmond County,35.032,-79.548
-2413,Henrietta,Rutherford County,35.258,-81.796
-4715,Simpson,Pitt County,35.575,-77.279
-0391,Bennett,Chatham County,35.565,-79.544
-5346,Washington Park,Beaufort County,35.533,-77.032
-1921,Fountain,Pitt County,35.674,-77.640
-2711,Kelly,Bladen County,34.466,-78.324
-5379,Webster,Jackson County,35.346,-83.219
-2108,Gold Hill,Rowan County,35.521,-80.338
-0236,Avon,Dare County,35.352,-75.510
-4592,Saratoga,Wilson County,35.654,-77.776
-4493,Ruth,Rutherford County,35.382,-81.947
-0602,Bridgeton,Craven County,35.122,-77.021
-1469,Dover,Craven County,35.216,-77.437
-1784,Falcon,Cumberland County,35.195,-78.654
-4918,Stovall,Granville County,36.448,-78.570
-3493,Morven,Anson County,34.864,-80.001
-1680,Elrod,Robeson County,34.614,-79.242
-4714,Sims,Wilson County,35.761,-78.059
-5286,Waco,Cleveland County,35.362,-81.429
-0206,Atkinson,Pender County,34.529,-78.171
-1894,Forest Hills,Jackson County,35.297,-83.193
-2283,Hamilton,Martin County,35.945,-77.210
-1805,Farmington,Davie County,36.016,-80.532
-0644,Fairfield,Hyde County,35.541,-76.224
-2995,Linville,Avery County,36.066,-81.870
-4962,Sunbury,Gates County,36.441,-76.612
-4569,Sandy Creek,Brunswick County,34.287,-78.151
-1493,Dublin,Bladen County,34.657,-78.726
-3741,Oak City,Martin County,35.964,-77.308
-0876,Castalia,Nash County,36.082,-78.057
-2024,Gatesville,Gates County,36.403,-76.753
-4664,Shannon,Robeson County,34.848,-79.137
-0779,Cameron,Moore County,35.327,-79.255
-0303,Bath,Beaufort County,35.477,-76.812
-5124,Trenton,Jones County,35.067,-77.353
-5471,White Oak,Bladen County,34.750,-78.708
-4735,Smithtown,Yadkin County,36.237,-80.582
-1350,Davis,Carteret County,34.797,-76.460
-4910,Stonewall,Pamlico County,35.137,-76.748
-1136,Colerain,Bertie County,36.201,-76.769
-5151,Turkey,Sampson County,34.992,-78.183
-0929,Centerville,Franklin County,36.186,-78.106
-1439,Dillsboro,Jackson County,35.369,-83.252
-1740,Eureka,Wayne County,35.543,-77.876
-1261,Creswell,Washington County,35.870,-76.392
-1537,Earl,Cleveland County,35.193,-81.533
-4655,Severn,Northampton County,36.515,-77.190
-2273,Halifax,Halifax County,36.328,-77.589
-3908,Pantego,Beaufort County,35.589,-76.662
-0512,Boardman,Columbus County,34.439,-78.949
-3395,Milton,Caswell County,36.539,-79.209
-0526,Bolivia,Brunswick County,34.068,-78.148
-1329,Danbury,Stokes County,36.409,-80.206
-2987,Linden,Cumberland County,35.255,-78.747
-0939,Cerro Gordo,Columbus County,34.322,-78.926
-2779,Kittrell,Vance County,36.222,-78.438
-2881,Lansing,Ashe County,36.499,-81.511
-4190,Proctorville,Robeson County,34.477,-79.036
-2096,Glenville,Jackson County,35.173,-83.129
-3130,Macon,Warren County,36.439,-78.084
-3196,Marietta,Robeson County,34.369,-79.122
-3350,Middleburg,Vance County,36.400,-78.323
-3695,Norman,Richmond County,35.170,-79.723
-3268,McDonald,Robeson County,34.554,-79.176
-1165,Como,Hertford County,36.502,-77.009
-4786,Speed,Edgecombe County,35.968,-77.445
-4264,Raynham,Robeson County,34.574,-79.195
-4653,Seven Springs,Wayne County,35.227,-77.847
-3039,Long Creek,Pender County,34.442,-78.010
-4314,Rex,Robeson County,34.857,-79.049
-2933,Leggett,Edgecombe County,35.991,-77.583
-0019,Addie,Jackson County,35.406,-83.160
-0089,Almond,Swain County,35.370,-83.565
-0159,Ararat,Surry County,36.404,-80.561
-0162,Arcadia,Davidson County,35.947,-80.309
-0166,Arden,Buncombe County,35.466,-82.516
-0218,Auburn,Wake County,35.693,-78.556
-0325,Bear Creek,Chatham County,35.617,-79.385
-0336,Beaver Creek,Ashe County,36.378,-81.498
-0364,Bellemont,Alamance County,36.026,-79.443
-0384,Belvidere,Perquimans County,36.269,-76.536
-0686,Buffalo City,Dare County,35.843,-75.917
-0739,Bynum,Chatham County,35.774,-79.142
-0758,Caldwell,Orange County,36.190,-79.017
-0782,Camp Springs,Caswell County,36.296,-79.492
-0842,Carpenter,Wake County,35.821,-78.872
-0875,Casville,Caswell County,36.390,-79.504
-0944,Chalybeate Springs,Harnett County,35.508,-78.814
-1078,Cleveland,Johnston County,35.545,-78.498
-1084,Climax,Guilford County,35.911,-79.718
-1087,Swan Creek,Yadkin County,36.098,-80.760
-1121,Cokesbury,Harnett County,35.525,-78.909
-1138,Coleridge,Randolph County,35.640,-79.615
-1140,Colfax,Guilford County,36.112,-80.014
-1191,Copeland,Surry County,36.338,-80.650
-1237,Crabtree,Haywood County,35.602,-82.941
-1252,Crescent,Rowan County,35.575,-80.420
-1265,Crisp,Edgecombe County,35.751,-77.625
-1286,Crumpler,Ashe County,36.504,-81.394
-1301,Cunningham,Person County,36.538,-79.078
-1304,Currie,Pender County,34.463,-78.101
-1406,Dennis,Forsyth County,36.225,-80.170
-1503,Duncan,Harnett County,35.563,-78.872
-1533,Eagle Rock,Wake County,35.791,-78.408
-1709,Enon,Yadkin County,36.140,-80.468
-1716,Epsom,Franklin County,36.246,-78.329
-1791,Falls,Wake County,35.940,-78.579
-1808,Farmville,Chatham County,35.571,-79.220
-1828,Ferguson,Wilkes County,36.086,-81.368
-1857,Flatwoods,Harnett County,35.357,-78.800
-1881,Footville,Yadkin County,36.061,-80.702
-1934,Francisco,Stokes County,36.509,-80.356
-1964,Friendship,Wake County,35.699,-78.900
-2046,Germantown,Hyde County,35.432,-76.463
-2088,Glencoe,Alamance County,36.139,-79.428
-2090,Glendon,Moore County,35.483,-79.417
-2171,Grantham,Wayne County,35.297,-78.164
-2442,Higgins,Yancey County,35.960,-82.380
-2444,High Falls,Moore County,35.484,-79.522
-2465,Hillsdale,Davie County,36.005,-80.439
-2533,Houstonville,Iredell County,36.003,-80.766
-2557,Huntsville,Yadkin County,36.082,-80.529
-2935,Leicester,Buncombe County,35.655,-82.696
-2963,Liberia,Warren County,36.357,-78.096
-2996,Linwood,Davidson County,35.751,-80.318
-3041,Long Island,Catawba County,35.678,-80.993
-3046,Longwood,Brunswick County,34.004,-78.542
-3172,Manson,Warren County,36.422,-78.283
-3178,Maple,Currituck County,36.419,-76.034
-3217,Marston,Richmond County,34.988,-79.582
-3370,Mill Spring,Polk County,35.297,-82.161
-3449,Monticello,Guilford County,36.219,-79.678
-3533,Mountain Park,Surry County,36.374,-80.855
-3541,Mulberry,Surry County,36.327,-80.803
-3566,Naples,Henderson County,35.392,-82.501
-3588,Nelson,Durham County,35.882,-78.850
-3626,New Hope,Surry County,36.420,-80.712
-3744,Oak Grove,Surry County,36.484,-80.757
-3794,Olin,Iredell County,35.953,-80.840
-3797,Olive Branch,Union County,35.104,-80.321
-3800,Olivia,Harnett County,35.360,-79.110
-3817,Ophir,Montgomery County,35.478,-79.979
-3861,Otway,Carteret County,34.776,-76.558
-3938,Pates,Robeson County,34.690,-79.215
-3961,Pelham,Caswell County,36.510,-79.472
-4045,Pineola,Avery County,36.028,-81.891
-4081,Pleasant Grove,Alamance County,36.192,-79.327
-4082,Pleasant Hill,Northampton County,36.532,-77.536
-4125,Poplar,Mitchell County,36.087,-82.336
-4126,Poplar Springs,Surry County,36.311,-80.833
-4163,Powhatan,Johnston County,35.614,-78.418
-4197,Providence,Caswell County,36.505,-79.370
-4204,Purley,Caswell County,36.475,-79.358
-4258,Raven Rock,Harnett County,35.464,-78.914
-4274,Red Hill,Mitchell County,36.022,-82.228
-4299,Relief,Mitchell County,36.034,-82.293
-4313,Revere,Madison County,35.903,-82.703
-4337,Richmond Hill,Yadkin County,36.245,-80.611
-4343,Ridgecrest,Buncombe County,35.621,-82.283
-4401,Rockford,Surry County,36.268,-80.649
-4448,Rosewood,Wayne County,35.414,-78.071
-4602,Savannah,Jackson County,35.319,-83.263
-4673,Sheffield,Davie County,35.966,-80.680
-4693,Shoals,Surry County,36.274,-80.511
-4704,Siloam,Surry County,36.286,-80.563
-4877,State Road,Surry County,36.396,-80.892
-4944,Sugar Grove,Watauga County,36.258,-81.788
-5040,Terrell,Catawba County,35.589,-80.978
-5072,Thurmond,Surry County,36.366,-80.929
-5079,Timberlake,Person County,36.286,-78.951
-5114,Townsville,Vance County,36.495,-78.424
-5141,Tryon,Gaston County,35.340,-81.322
-5160,Tuxedo,Henderson County,35.225,-82.429
-5184,Union Cross,Forsyth County,36.048,-80.119
-5184,Union Cross,Surry County,36.346,-80.758
-5203,Vale,Lincoln County,35.540,-81.397
-5408,West End,Moore County,35.240,-79.567
-5436,Westfield,Surry County,36.475,-80.447
-5495,Whittier,Jackson County,35.435,-83.355
-5497,Whynot,Randolph County,35.532,-79.754
-5504,Wildwood,Carteret County,34.745,-76.830
-5510,Willets,Jackson County,35.412,-83.116
-5528,Willow Springs,Wake County,35.596,-78.731
-5535,Wilsonville,Chatham County,35.737,-79.000
-5586,Woodleaf,Rowan County,35.769,-80.591
+4270,Rockingham,Richmond County,34.939,-79.774
+5288,Wesley Chapel,Union County,35.007,-80.675
+3615,Oak Island,Brunswick County,33.917,-78.161
+3747,Oxford,Granville County,36.311,-78.591
+3643,Ogden,New Hanover County,34.272,-77.819
+1096,Conover,Catawba County,35.707,-81.219
+1419,Dunn,Harnett County,35.306,-78.609
+1012,Clinton,Sampson County,34.998,-78.323
+1731,Fletcher,Henderson County,35.431,-82.501
+5541,Zebulon,Johnston County,35.830,-78.314
+3056,Marion,McDowell County,35.684,-82.009
+3618,Oak Ridge,Guilford County,36.173,-79.989
+1621,Etowah,Henderson County,35.318,-82.594
+1755,Forest City,Rutherford County,35.334,-81.865
+2595,King,Forsyth County,36.275,-80.357
+5011,Trinity,Randolph County,35.895,-79.991
+2129,Hampstead,Pender County,34.368,-77.711
+4703,St. James,Brunswick County,33.929,-78.116
+5074,Unionville,Union County,35.087,-80.509
+4509,Selma,Johnston County,35.537,-78.284
+3081,Marvin,Union County,34.992,-80.815
+0929,Cherryville,Gaston County,35.379,-81.379
+2125,Hamlet,Richmond County,34.885,-79.694
+1242,Dallas,Gaston County,35.317,-81.176
+5336,Westport,Lincoln County,35.508,-80.984
+4576,Silver Lake,New Hanover County,34.149,-77.914
+3438,Nashville,Nash County,35.975,-77.966
+2471,James City,Craven County,35.089,-77.035
+5350,Whispering Pines,Moore County,35.256,-79.372
+5407,Williamston,Martin County,35.855,-77.056
+5175,Wadesboro,Anson County,34.968,-80.077
+1164,Creedmoor,Granville County,36.122,-78.686
+2011,Granite Falls,Caldwell County,35.797,-81.431
+3220,Midway,Davidson County,35.953,-80.218
+3217,Midland,Cabarrus County,35.249,-80.530
+5376,Whiteville,Columbus County,34.339,-78.703
+5509,Wrightsboro,New Hanover County,34.288,-77.921
+5261,Weaverville,Buncombe County,35.697,-82.561
+2872,Locust,Cabarrus County,35.269,-80.437
+1610,Erwin,Harnett County,35.327,-78.676
+3933,Pittsboro,Chatham County,35.720,-79.177
+0324,Beaufort,Carteret County,34.718,-76.664
+0510,Boiling Springs,Cleveland County,35.254,-81.667
+1684,Farmville,Pitt County,35.595,-77.585
+3533,Newport,Carteret County,34.787,-76.859
+0946,China Grove,Rowan County,35.569,-80.582
+2326,Holly Ridge,Onslow County,34.495,-77.555
+0764,Canton,Haywood County,35.533,-82.837
+4847,Sunset Beach,Brunswick County,33.881,-78.512
+1804,Franklin,Macon County,35.182,-83.382
+4650,Southport,Brunswick County,33.922,-78.020
+4850,Surf City,Onslow County,34.437,-77.535
+0387,Benson,Harnett County,35.387,-78.541
+3385,Mount Olive,Duplin County,35.200,-78.066
+4737,Stanley,Gaston County,35.359,-81.097
+5437,Wingate,Union County,34.984,-80.449
+3396,Mountain Home,Henderson County,35.370,-82.493
+1569,Elroy,Wayne County,35.343,-77.909
+4860,Swansboro,Onslow County,34.688,-77.119
+2377,Hudson,Caldwell County,35.848,-81.496
+2987,Maiden,Catawba County,35.571,-81.207
+2474,Jamestown,Guilford County,35.994,-79.935
+2934,Lowell,Gaston County,35.268,-81.103
+1246,Dana,Henderson County,35.329,-82.375
+1465,Eastover,Cumberland County,35.100,-78.800
+0413,Bethlehem,Alexander County,35.826,-81.307
+5399,Wilkesboro,Wilkes County,36.146,-81.161
+1661,Fairview,Union County,35.138,-80.538
+1727,Flat Rock,Henderson County,35.271,-82.442
+3401,Mountain View,Catawba County,35.683,-81.369
+5271,Welcome,Davidson County,35.903,-80.257
+4967,Tyro,Davidson County,35.809,-80.373
+5433,Windsor,Bertie County,35.998,-76.946
+4147,Red Oak,Nash County,36.038,-77.906
+2695,Lake Park,Union County,35.086,-80.635
+4658,Spencer,Rowan County,35.692,-80.435
+5199,Wallace,Duplin County,34.738,-77.991
+4239,River Road,Beaufort County,35.507,-76.991
+3264,Mineral Springs,Union County,34.938,-80.669
+3969,Plymouth,Washington County,35.867,-76.749
+4268,Rockfish,Hoke County,34.993,-79.066
+1532,Elizabethtown,Bladen County,34.629,-78.605
+4150,Red Springs,Hoke County,34.806,-79.181
+0306,Bayshore,New Hanover County,34.290,-77.787
+2922,Louisburg,Franklin County,36.099,-78.301
+5019,Troy,Montgomery County,35.358,-79.894
+4233,River Bend,Craven County,35.069,-77.147
+1319,Denver,Lincoln County,35.531,-81.030
+3839,Pembroke,Robeson County,34.680,-79.195
+0807,Carthage,Moore County,35.346,-79.417
+1584,Emma,Buncombe County,35.597,-82.592
+1661,Fairview,Buncombe County,35.514,-82.396
+2007,Grandy,Currituck County,36.242,-75.879
+5225,Warsaw,Duplin County,34.999,-78.091
+2813,Liberty,Randolph County,35.853,-79.572
+2650,La Grange,Lenoir County,35.307,-77.788
+5285,Wentworth,Rockingham County,36.400,-79.774
+4971,Tobaccoville,Forsyth County,36.226,-80.359
+4572,Sylva,Jackson County,35.374,-83.226
+1806,Franklinton,Franklin County,36.102,-78.458
+3417,Murfreesboro,Hertford County,36.442,-77.099
+0368,Belville,Brunswick County,34.231,-77.966
+3601,Norwood,Stanly County,35.220,-80.119
+4908,Taylorsville,Alexander County,35.922,-81.176
+4276,Rockwell,Rowan County,35.551,-80.406
+2517,Jonesville,Yadkin County,36.239,-80.845
+4200,Richlands,Onslow County,34.899,-77.547
+1838,Fruitland,Henderson County,35.396,-82.393
+2755,Laurel Park,Henderson County,35.314,-82.493
+3408,Mulberry,Wilkes County,36.240,-81.181
+1033,Coats,Harnett County,35.408,-78.672
+1657,Fairmont,Robeson County,34.497,-79.114
+3908,Pine Level,Johnston County,35.513,-78.244
+2988,Madison,Rockingham County,36.385,-79.959
+5535,Youngsville,Franklin County,36.025,-78.474
+0921,Cherokee,Jackson County,35.486,-83.301
+3067,Mars Hill,Madison County,35.827,-82.549
+4067,Pumpkin Center,Onslow County,34.792,-77.372
+1591,Enfield,Halifax County,36.181,-77.667
+3448,Nebo,McDowell County,35.715,-81.931
+0854,Cedar Point,Carteret County,34.688,-77.072
+1391,Drexel,Burke County,35.758,-81.604
+3386,Mount Pleasant,Cabarrus County,35.399,-80.436
+0970,Claremont,Catawba County,35.715,-81.146
+4655,Sparta,Alleghany County,36.505,-81.121
+4530,Sharpsburg,Edgecombe County,35.866,-77.831
+0126,Andrews,Cherokee County,35.202,-83.824
+0693,Burnsville,Yancey County,35.917,-82.301
+4489,Sea Breeze,New Hanover County,34.063,-77.891
+3418,Murphy,Cherokee County,35.088,-84.035
+4734,Stanfield,Stanly County,35.233,-80.427
+4382,Salem,Burke County,35.699,-81.697
+5024,Tryon,Polk County,35.208,-82.238
+4785,Stony Point,Alexander County,35.868,-81.044
+0706,Buxton,Dare County,35.268,-75.542
+4606,Snow Hill,Greene County,35.452,-77.681
+1318,Denton,Davidson County,35.633,-80.116
+2482,Jefferson,Ashe County,36.420,-81.473
+0024,Advance,Davie County,35.941,-80.409
+5272,Weldon,Halifax County,36.427,-77.596
+0204,Atlantic Beach,Carteret County,34.699,-76.740
+1021,Clyde,Haywood County,35.533,-82.911
+0410,Bethel,Pitt County,35.807,-77.379
+4053,Princeton,Johnston County,35.466,-78.161
+4306,Rose Hill,Duplin County,34.828,-78.023
+4783,Stoneville,Rockingham County,36.467,-79.907
+0610,Broadway,Harnett County,35.457,-79.057
+2204,Hays,Wilkes County,36.250,-81.116
+4054,Princeville,Edgecombe County,35.890,-77.532
+1115,Cordova,Richmond County,34.913,-79.822
+5299,West Jefferson,Ashe County,36.404,-81.493
+1723,Five Points,Hoke County,35.017,-79.361
+4282,Rocky Point,Pender County,34.435,-77.888
+4649,Southmont,Davidson County,35.668,-80.267
+1807,Franklinville,Randolph County,35.744,-79.692
+4676,Springdale,Gaston County,35.289,-81.145
+4249,Robbins,Moore County,35.434,-79.587
+0528,Boonville,Yadkin County,36.233,-80.708
+1821,Fremont,Wayne County,35.545,-77.975
+3377,Mount Gilead,Montgomery County,35.215,-80.002
+1727,Flat Rock,Surry County,36.512,-80.570
+2754,Laurel Hill,Scotland County,34.809,-79.548
+5204,Walnut Creek,Wayne County,35.307,-77.865
+2278,Highlands,Jackson County,35.054,-83.198
+1982,Gorman,Durham County,36.037,-78.823
+5363,White Plains,Surry County,36.446,-80.633
+1081,Columbus,Polk County,35.253,-82.197
+1881,Gaston,Northampton County,36.500,-77.645
+5482,Woodlawn,Alamance County,36.110,-79.295
+0646,Brunswick,Columbus County,34.287,-78.701
+2323,Hollister,Halifax County,36.256,-77.936
+3213,Middlesex,Nash County,35.790,-78.204
+3493,New Hope,Wayne County,35.376,-77.883
+4289,Rowland,Robeson County,34.537,-79.291
+0360,Belwood,Cleveland County,35.477,-81.523
+5111,Vanceboro,Craven County,35.309,-77.154
+1007,Cleveland,Rowan County,35.733,-80.677
+5222,Warrenton,Warren County,36.398,-78.155
+1070,Columbia,Tyrrell County,35.918,-76.252
+5360,White Lake,Bladen County,34.640,-78.484
+2995,Magnolia,Duplin County,34.897,-78.054
+3110,Maysville,Jones County,34.905,-77.231
+1403,Dudley,Wayne County,35.267,-78.037
+1665,Faith,Rowan County,35.587,-80.463
+3656,Old Fort,McDowell County,35.629,-82.181
+4742,Star,Montgomery County,35.402,-79.784
+0758,Candor,Montgomery County,35.296,-79.733
+2078,Grover,Cleveland County,35.175,-81.450
+3954,Pleasant Hill,Wilkes County,36.257,-80.883
+3069,Marshall,Madison County,35.797,-82.684
+4059,Prospect,Robeson County,34.733,-79.230
+4573,Silver City,Hoke County,34.996,-79.226
+0738,Camden,Camden County,36.328,-76.172
+1099,Conway,Northampton County,36.437,-77.229
+0081,Alliance,Pamlico County,35.145,-76.802
+1544,Ellenboro,Rutherford County,35.329,-81.759
+3893,Pikeville,Wayne County,35.497,-77.982
+0507,Bogue,Carteret County,34.699,-77.037
+0830,Catawba,Catawba County,35.707,-81.076
+1833,Frisco,Dare County,35.235,-75.628
+2557,Kenansville,Duplin County,34.962,-77.962
+0451,Black Creek,Wilson County,35.635,-77.933
+4501,Sedalia,Guilford County,36.067,-79.621
+2606,Kingstown,Cleveland County,35.351,-81.612
+5173,Wade,Cumberland County,35.163,-78.736
+2038,Green Mountain,Yancey County,35.994,-82.259
+1674,Fallston,Cleveland County,35.429,-81.501
+5450,Winton,Hertford County,36.396,-76.932
+3498,New London,Stanly County,35.443,-80.219
+4394,Saluda,Henderson County,35.238,-82.347
+0984,Clarkton,Bladen County,34.487,-78.656
+1871,Garland,Sampson County,34.786,-78.394
+5384,Whitsett,Guilford County,36.071,-79.564
+0059,Alexis,Gaston County,35.400,-81.118
+4197,Richfield,Stanly County,35.470,-80.258
+2759,Lawndale,Cleveland County,35.414,-81.563
+0241,Bailey,Nash County,35.781,-78.119
+0203,Atlantic,Carteret County,34.885,-76.340
+2153,Harmony,Iredell County,35.956,-80.772
+2857,Littleton,Halifax County,36.435,-77.912
+5477,Woodland,Northampton County,36.332,-77.213
+3044,Marble,Cherokee County,35.175,-83.925
+3721,Ossipee,Alamance County,36.172,-79.511
+4250,Robbinsville,Graham County,35.323,-83.807
+1009,Cliffside,Rutherford County,35.238,-81.770
+2362,Hot Springs,Madison County,35.892,-82.829
+3982,Polkville,Cleveland County,35.418,-81.643
+0517,Bolton,Columbus County,34.321,-78.402
+3795,Parkton,Robeson County,34.903,-79.012
+1952,Glenwood,McDowell County,35.614,-81.982
+1955,Gloucester,Carteret County,34.726,-76.541
+1910,Gibson,Scotland County,34.759,-79.611
+3922,Pink Hill,Lenoir County,35.055,-77.746
+0248,Bakersville,Mitchell County,36.016,-82.159
+0221,Aurora,Beaufort County,35.305,-76.789
+2205,Hayesville,Clay County,35.046,-83.818
+2461,Ivanhoe,Sampson County,34.611,-78.242
+3268,Minneapolis,Avery County,36.099,-81.987
+0154,Arapahoe,Pamlico County,35.026,-76.825
+2464,Jackson,Northampton County,36.390,-77.421
+4701,St. Helena,Pender County,34.517,-77.916
+2311,Hoffman,Richmond County,35.032,-79.548
+2238,Henrietta,Rutherford County,35.258,-81.796
+4582,Simpson,Pitt County,35.575,-77.279
+0383,Bennett,Chatham County,35.565,-79.544
+5232,Washington Park,Beaufort County,35.533,-77.032
+1787,Fountain,Pitt County,35.674,-77.640
+2551,Kelly,Bladen County,34.466,-78.324
+5266,Webster,Jackson County,35.346,-83.219
+1961,Gold Hill,Rowan County,35.521,-80.338
+0231,Avon,Dare County,35.352,-75.510
+4455,Saratoga,Wilson County,35.654,-77.776
+4358,Ruth,Rutherford County,35.382,-81.947
+0591,Bridgeton,Craven County,35.122,-77.021
+1377,Dover,Craven County,35.216,-77.437
+1666,Falcon,Cumberland County,35.195,-78.654
+4792,Stovall,Granville County,36.448,-78.570
+3360,Morven,Anson County,34.864,-80.001
+1568,Elrod,Robeson County,34.614,-79.242
+4581,Sims,Wilson County,35.761,-78.059
+5172,Waco,Cleveland County,35.362,-81.429
+0201,Atkinson,Pender County,34.529,-78.171
+1760,Forest Hills,Jackson County,35.297,-83.193
+2124,Hamilton,Martin County,35.945,-77.210
+1683,Farmington,Davie County,36.016,-80.532
+1651,Fairfield,Hyde County,35.541,-76.224
+2845,Linville,Avery County,36.066,-81.870
+4837,Sunbury,Gates County,36.441,-76.612
+4432,Sandy Creek,Brunswick County,34.287,-78.151
+1400,Dublin,Bladen County,34.657,-78.726
+3608,Oak City,Martin County,35.964,-77.308
+0822,Castalia,Nash County,36.082,-78.057
+1885,Gatesville,Gates County,36.403,-76.753
+4528,Shannon,Robeson County,34.848,-79.137
+0739,Cameron,Moore County,35.327,-79.255
+0295,Bath,Beaufort County,35.477,-76.812
+5006,Trenton,Jones County,35.067,-77.353
+5361,White Oak,Bladen County,34.750,-78.708
+4601,Smithtown,Yadkin County,36.237,-80.582
+1266,Davis,Carteret County,34.797,-76.460
+4784,Stonewall,Pamlico County,35.137,-76.748
+1058,Colerain,Bertie County,36.201,-76.769
+5033,Turkey,Sampson County,34.992,-78.183
+0870,Centerville,Franklin County,36.186,-78.106
+1347,Dillsboro,Jackson County,35.369,-83.252
+1629,Eureka,Wayne County,35.543,-77.876
+1178,Creswell,Washington County,35.870,-76.392
+1445,Earl,Cleveland County,35.193,-81.533
+4519,Severn,Northampton County,36.515,-77.190
+2113,Halifax,Halifax County,36.328,-77.589
+3779,Pantego,Beaufort County,35.589,-76.662
+0502,Boardman,Columbus County,34.439,-78.949
+3257,Milton,Caswell County,36.539,-79.209
+0516,Bolivia,Brunswick County,34.068,-78.148
+1247,Danbury,Stokes County,36.409,-80.206
+2836,Linden,Cumberland County,35.255,-78.747
+0880,Cerro Gordo,Columbus County,34.322,-78.926
+2620,Kittrell,Vance County,36.222,-78.438
+2724,Lansing,Ashe County,36.499,-81.511
+4057,Proctorville,Robeson County,34.477,-79.036
+1950,Glenville,Jackson County,35.173,-83.129
+2985,Macon,Warren County,36.439,-78.084
+3054,Marietta,Robeson County,34.369,-79.122
+3209,Middleburg,Vance County,36.400,-78.323
+3561,Norman,Richmond County,35.170,-79.723
+3128,McDonald,Robeson County,34.554,-79.176
+1086,Como,Hertford County,36.502,-77.009
+4657,Speed,Edgecombe County,35.968,-77.445
+4132,Raynham,Robeson County,34.574,-79.195
+4517,Seven Springs,Wayne County,35.227,-77.847
+2891,Long Creek,Pender County,34.442,-78.010
+4182,Rex,Robeson County,34.857,-79.049
+2782,Leggett,Edgecombe County,35.991,-77.583
+0018,Addie,Jackson County,35.406,-83.160
+0087,Almond,Swain County,35.370,-83.565
+0155,Ararat,Surry County,36.404,-80.561
+0158,Arcadia,Davidson County,35.947,-80.309
+0162,Arden,Buncombe County,35.466,-82.516
+0213,Auburn,Wake County,35.693,-78.556
+0317,Bear Creek,Chatham County,35.617,-79.385
+0328,Beaver Creek,Ashe County,36.378,-81.498
+0356,Bellemont,Alamance County,36.026,-79.443
+0376,Belvidere,Perquimans County,36.269,-76.536
+0668,Buffalo City,Dare County,35.843,-75.917
+0708,Bynum,Chatham County,35.774,-79.142
+0719,Caldwell,Orange County,36.190,-79.017
+0742,Camp Springs,Caswell County,36.296,-79.492
+0791,Carpenter,Wake County,35.821,-78.872
+0821,Casville,Caswell County,36.390,-79.504
+0885,Chalybeate Springs,Harnett County,35.508,-78.814
+1007,Cleveland,Johnston County,35.545,-78.498
+1011,Climax,Guilford County,35.911,-79.718
+1045,Cokesbury,Harnett County,35.525,-78.909
+1059,Coleridge,Randolph County,35.640,-79.615
+1061,Colfax,Guilford County,36.112,-80.014
+1108,Copeland,Surry County,36.338,-80.650
+1154,Crabtree,Haywood County,35.602,-82.941
+1169,Crescent,Rowan County,35.575,-80.420
+1182,Crisp,Edgecombe County,35.751,-77.625
+1203,Crumpler,Ashe County,36.504,-81.394
+1218,Cunningham,Person County,36.538,-79.078
+1222,Currie,Pender County,34.463,-78.101
+1314,Dennis,Forsyth County,36.225,-80.170
+1410,Duncan,Harnett County,35.563,-78.872
+1441,Eagle Rock,Wake County,35.791,-78.408
+1596,Enon,Yadkin County,36.140,-80.468
+1604,Epsom,Franklin County,36.246,-78.329
+1684,Farmville,Chatham County,35.571,-79.220
+1702,Ferguson,Wilkes County,36.086,-81.368
+1728,Flatwoods,Harnett County,35.357,-78.800
+1750,Footville,Yadkin County,36.061,-80.702
+1800,Francisco,Stokes County,36.509,-80.356
+1830,Friendship,Wake County,35.699,-78.900
+1902,Germantown,Hyde County,35.432,-76.463
+1942,Glencoe,Alamance County,36.139,-79.428
+1944,Glendon,Moore County,35.483,-79.417
+2014,Grantham,Wayne County,35.297,-78.164
+2268,Higgins,Yancey County,35.960,-82.380
+2270,High Falls,Moore County,35.484,-79.522
+2292,Hillsdale,Davie County,36.005,-80.439
+2365,Houstonville,Iredell County,36.003,-80.766
+2393,Huntsville,Yadkin County,36.082,-80.529
+2784,Leicester,Buncombe County,35.655,-82.696
+2812,Liberia,Warren County,36.357,-78.096
+2846,Linwood,Davidson County,35.751,-80.318
+2894,Long Island,Catawba County,35.678,-80.993
+2899,Longwood,Brunswick County,34.004,-78.542
+3031,Manson,Warren County,36.422,-78.283
+3037,Maple,Currituck County,36.419,-76.034
+3074,Marston,Richmond County,34.988,-79.582
+3231,Mill Spring,Polk County,35.297,-82.161
+3314,Monticello,Guilford County,36.219,-79.678
+3400,Mountain Park,Surry County,36.374,-80.855
+3408,Mulberry,Surry County,36.327,-80.803
+3433,Naples,Henderson County,35.392,-82.501
+3454,Nelson,Durham County,35.882,-78.850
+3493,New Hope,Surry County,36.420,-80.712
+3611,Oak Grove,Surry County,36.484,-80.757
+3663,Olin,Iredell County,35.953,-80.840
+3666,Olive Branch,Union County,35.104,-80.321
+3669,Olivia,Harnett County,35.360,-79.110
+3686,Ophir,Montgomery County,35.478,-79.979
+3732,Otway,Carteret County,34.776,-76.558
+3811,Pates,Robeson County,34.690,-79.215
+3834,Pelham,Caswell County,36.510,-79.472
+3918,Pineola,Avery County,36.028,-81.891
+3953,Pleasant Grove,Alamance County,36.192,-79.327
+3954,Pleasant Hill,Northampton County,36.532,-77.536
+3995,Poplar,Mitchell County,36.087,-82.336
+3996,Poplar Springs,Surry County,36.311,-80.833
+4031,Powhatan,Johnston County,35.614,-78.418
+4064,Providence,Caswell County,36.505,-79.370
+4071,Purley,Caswell County,36.475,-79.358
+4125,Raven Rock,Harnett County,35.464,-78.914
+4142,Red Hill,Mitchell County,36.022,-82.228
+4167,Relief,Mitchell County,36.034,-82.293
+4181,Revere,Madison County,35.903,-82.703
+4203,Richmond Hill,Yadkin County,36.245,-80.611
+4209,Ridgecrest,Buncombe County,35.621,-82.283
+4269,Rockford,Surry County,36.268,-80.649
+4315,Rosewood,Wayne County,35.414,-78.071
+4464,Savannah,Jackson County,35.319,-83.263
+4536,Sheffield,Davie County,35.966,-80.680
+4558,Shoals,Surry County,36.274,-80.511
+4570,Siloam,Surry County,36.286,-80.563
+4752,State Road,Surry County,36.396,-80.892
+4817,Sugar Grove,Watauga County,36.258,-81.788
+4858,Swan Creek,Yadkin County,36.098,-80.760
+4919,Terrell,Catawba County,35.589,-80.978
+4953,Thurmond,Surry County,36.366,-80.929
+4960,Timberlake,Person County,36.286,-78.951
+4996,Townsville,Vance County,36.495,-78.424
+5024,Tryon,Gaston County,35.340,-81.322
+5043,Tuxedo,Henderson County,35.225,-82.429
+5068,Union Cross,Forsyth County,36.048,-80.119
+5068,Union Cross,Surry County,36.346,-80.758
+5088,Vale,Lincoln County,35.540,-81.397
+5294,West End,Moore County,35.240,-79.567
+5323,Westfield,Surry County,36.475,-80.447
+5387,Whittier,Jackson County,35.435,-83.355
+5389,Whynot,Randolph County,35.532,-79.754
+5396,Wildwood,Carteret County,34.745,-76.830
+5402,Willets,Jackson County,35.412,-83.116
+5421,Willow Springs,Wake County,35.596,-78.731
+5428,Wilsonville,Chatham County,35.737,-79.000
+5484,Woodleaf,Rowan County,35.769,-80.591

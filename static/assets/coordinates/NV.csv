@@ -1,92 +1,91 @@
 phoneme,name,county,latitude,longitude
-2899,Las Vegas,Clark County,36.175,-115.137
-2408,Henderson,Clark County,36.040,-114.982
-4303,Reno,Washoe County,39.530,-119.814
-0729,Enterprise,Clark County,36.031,-115.198
-4801,Spring Valley,Clark County,36.108,-115.245
-3910,Paradise,Clark County,36.097,-115.147
-4784,Sparks,Washoe County,39.535,-119.753
-0852,Carson City,Carson City,39.164,-119.767
-5491,Whitney,Clark County,36.071,-115.084
-4961,Sun Valley,Washoe County,39.596,-119.776
-3339,Mesquite,Clark County,36.806,-114.067
-1630,Elko,Elko County,40.832,-115.763
-2190,Spring Creek,Elko County,40.727,-115.586
-1357,Dayton,Lyon County,39.237,-119.593
-1129,Cold Springs,Washoe County,39.680,-119.977
-1790,Fallon,Churchill County,39.474,-118.777
-2576,Indian Hills,Douglas County,39.086,-119.784
-4711,Silver Springs,Lyon County,39.415,-119.225
-1686,Ely,White Pine County,39.247,-114.889
-3397,Minden,Douglas County,38.954,-119.766
-2376,Hawthorne,Mineral County,38.525,-118.625
-4857,Stagecoach,Lyon County,39.374,-119.374
-0831,Carlin,Elko County,40.714,-116.104
-2762,Kingsbury,Douglas County,38.977,-119.907
-5100,Tonopah,Nye County,38.067,-117.230
-3075,Lovelock,Pershing County,40.179,-118.473
-4574,Sandy Valley,Clark County,35.817,-115.632
-5390,Wells,Elko County,41.112,-114.964
-0042,Alamo,Lincoln County,37.365,-115.164
-5240,Verdi,Washoe County,39.518,-119.989
-0763,Caliente,Lincoln County,37.615,-114.512
-2034,Genoa,Douglas County,39.004,-119.847
-2176,Grass Valley,Pershing County,40.797,-117.760
-3874,Owyhee,Elko County,41.948,-116.099
-4878,Stateline,Douglas County,38.962,-119.940
-2112,Golden Valley,Washoe County,39.615,-119.827
-2578,Indian Springs,Clark County,36.570,-115.671
-5277,Virginia City,Storey County,39.310,-119.650
-0331,Beatty,Nye County,36.909,-116.759
-5292,Wadsworth,Washoe County,39.634,-119.285
-1846,Fish Springs,Douglas County,38.954,-119.651
-1740,Eureka,Eureka County,39.513,-115.961
-3683,Nixon,Washoe County,39.832,-119.358
-1523,Dyer,Esmeralda County,37.667,-118.066
-2863,Lakeridge,Douglas County,39.036,-119.948
-2113,Goldfield,Esmeralda County,37.709,-117.236
-4493,Ruth,White Pine County,39.278,-114.989
-4180,Preston,White Pine County,38.914,-115.061
-3316,Mina,Mineral County,38.390,-118.109
-1698,Empire,Washoe County,40.576,-119.342
-4707,Silver City,Lyon County,39.264,-119.641
-3911,Paradise Valley,Humboldt County,41.494,-117.535
-3097,Lund,White Pine County,38.857,-115.008
-2107,Golconda,Humboldt County,40.953,-117.489
-3158,Manhattan,Nye County,38.539,-117.075
-0392,Bennett Springs,Lincoln County,37.714,-114.467
-1177,McDermitt,Humboldt County,41.997,-117.718
-4728,Sloan,Clark County,35.944,-115.217
-2765,Kingston,Lander County,39.210,-117.070
-0983,Cherry Creek,White Pine County,39.904,-114.890
-2876,Lamoille,Elko County,40.728,-115.478
-3588,Nelson,Clark County,35.708,-114.825
-3762,Oasis,Elko County,41.029,-114.487
-0252,Baker,White Pine County,39.013,-114.123
-0228,Austin,Lander County,39.493,-117.070
-3527,Mountain City,Elko County,41.839,-115.965
-2439,Hiko,Lincoln County,37.597,-115.224
-0184,Arthur,Elko County,40.797,-115.191
-1039,Clark,Storey County,39.564,-119.482
-1287,Crystal,Clark County,36.501,-114.763
-1287,Crystal,Nye County,36.492,-116.168
-1304,Currie,Elko County,40.267,-114.743
-1765,Tuscarora,Elko County,41.314,-116.220
-2089,Glendale,Clark County,36.665,-114.567
-2108,Gold Hill,Storey County,39.291,-119.657
-2172,Grantsville,Nye County,38.846,-117.573
-2264,Hadley,Nye County,38.698,-117.162
-2391,Hazen,Churchill County,39.565,-119.046
-3021,Lockwood,Storey County,39.507,-119.647
-3330,Mercury,Nye County,36.660,-115.993
-3348,Midas,Elko County,41.244,-116.797
-3367,Mill City,Pershing County,40.684,-118.071
-3442,Montello,Elko County,41.261,-114.194
-3892,Palisade,Eureka County,40.610,-116.199
-4087,Pleasant Valley,Washoe County,39.352,-119.776
-4225,Rachel,Lincoln County,37.645,-115.744
-4376,Riverside,Clark County,36.736,-114.221
-4461,Round Mountain,Nye County,38.710,-117.066
-4967,Sunnyside,Nye County,38.423,-115.021
-5190,Unionville,Pershing County,40.445,-118.121
-5328,Warm Springs,Nye County,38.191,-116.370
+2744,Las Vegas,Clark County,36.175,-115.137
+2233,Henderson,Clark County,36.040,-114.982
+4171,Reno,Washoe County,39.530,-119.814
+1598,Enterprise,Clark County,36.031,-115.198
+4673,Spring Valley,Clark County,36.108,-115.245
+3781,Paradise,Clark County,36.097,-115.147
+4654,Sparks,Washoe County,39.535,-119.753
+0800,Carson City,Carson City,39.164,-119.767
+5383,Whitney,Clark County,36.071,-115.084
+4836,Sun Valley,Washoe County,39.596,-119.776
+3197,Mesquite,Clark County,36.806,-114.067
+1520,Elko,Elko County,40.832,-115.763
+4666,Spring Creek,Elko County,40.727,-115.586
+1271,Dayton,Lyon County,39.237,-119.593
+1052,Cold Springs,Washoe County,39.680,-119.977
+1672,Fallon,Churchill County,39.474,-118.777
+2413,Indian Hills,Douglas County,39.086,-119.784
+4578,Silver Springs,Lyon County,39.415,-119.225
+1574,Ely,White Pine County,39.247,-114.889
+3259,Minden,Douglas County,38.954,-119.766
+2202,Hawthorne,Mineral County,38.525,-118.625
+4731,Stagecoach,Lyon County,39.374,-119.374
+0780,Carlin,Elko County,40.714,-116.104
+2602,Kingsbury,Douglas County,38.977,-119.907
+4981,Tonopah,Nye County,38.067,-117.230
+2929,Lovelock,Pershing County,40.179,-118.473
+4437,Sandy Valley,Clark County,35.817,-115.632
+5277,Wells,Elko County,41.112,-114.964
+0041,Alamo,Lincoln County,37.365,-115.164
+5125,Verdi,Washoe County,39.518,-119.989
+0723,Caliente,Lincoln County,37.615,-114.512
+1893,Genoa,Douglas County,39.004,-119.847
+2019,Grass Valley,Pershing County,40.797,-117.760
+3745,Owyhee,Elko County,41.948,-116.099
+1965,Golden Valley,Washoe County,39.615,-119.827
+2415,Indian Springs,Clark County,36.570,-115.671
+5163,Virginia City,Storey County,39.310,-119.650
+0323,Beatty,Nye County,36.909,-116.759
+5178,Wadsworth,Washoe County,39.634,-119.285
+1718,Fish Springs,Douglas County,38.954,-119.651
+1629,Eureka,Eureka County,39.513,-115.961
+3549,Nixon,Washoe County,39.832,-119.358
+1431,Dyer,Esmeralda County,37.667,-118.066
+2706,Lakeridge,Douglas County,39.036,-119.948
+1966,Goldfield,Esmeralda County,37.709,-117.236
+4358,Ruth,White Pine County,39.278,-114.989
+4047,Preston,White Pine County,38.914,-115.061
+3175,Mina,Mineral County,38.390,-118.109
+1586,Empire,Washoe County,40.576,-119.342
+4573,Silver City,Lyon County,39.264,-119.641
+3782,Paradise Valley,Humboldt County,41.494,-117.535
+2951,Lund,White Pine County,38.857,-115.008
+1960,Golconda,Humboldt County,40.953,-117.489
+3016,Manhattan,Nye County,38.539,-117.075
+0384,Bennett Springs,Lincoln County,37.714,-114.467
+3127,McDermitt,Humboldt County,41.997,-117.718
+4595,Sloan,Clark County,35.944,-115.217
+2605,Kingston,Lander County,39.210,-117.070
+0923,Cherry Creek,White Pine County,39.904,-114.890
+2719,Lamoille,Elko County,40.728,-115.478
+3454,Nelson,Clark County,35.708,-114.825
+3630,Oasis,Elko County,41.029,-114.487
+0246,Baker,White Pine County,39.013,-114.123
+0223,Austin,Lander County,39.493,-117.070
+3394,Mountain City,Elko County,41.839,-115.965
+2265,Hiko,Lincoln County,37.597,-115.224
+0180,Arthur,Elko County,40.797,-115.191
+0975,Clark,Storey County,39.564,-119.482
+1204,Crystal,Clark County,36.501,-114.763
+1204,Crystal,Nye County,36.492,-116.168
+1222,Currie,Elko County,40.267,-114.743
+1943,Glendale,Clark County,36.665,-114.567
+1961,Gold Hill,Storey County,39.291,-119.657
+2015,Grantsville,Nye County,38.846,-117.573
+2103,Hadley,Nye County,38.698,-117.162
+2215,Hazen,Churchill County,39.565,-119.046
+2871,Lockwood,Storey County,39.507,-119.647
+3188,Mercury,Nye County,36.660,-115.993
+3207,Midas,Elko County,41.244,-116.797
+3228,Mill City,Pershing County,40.684,-118.071
+3307,Montello,Elko County,41.261,-114.194
+3763,Palisade,Eureka County,40.610,-116.199
+3959,Pleasant Valley,Washoe County,39.352,-119.776
+4092,Rachel,Lincoln County,37.645,-115.744
+4243,Riverside,Clark County,36.736,-114.221
+4328,Round Mountain,Nye County,38.710,-117.066
+4842,Sunnyside,Nye County,38.423,-115.021
+5039,Tuscarora,Elko County,41.314,-116.220
+5074,Unionville,Pershing County,40.445,-118.121
+5217,Warm Springs,Nye County,38.191,-116.370

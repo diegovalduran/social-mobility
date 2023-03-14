@@ -1,10 +1,7 @@
 id,name,state,county,country,level,population,latitude,longitude,wiki
-17661,Oakwood,OH,Montgomery County,,city-us,9471,39.725,-84.174,9992
-17659,Oakwood,GA,Hall County,,city-us,5373,34.228,-83.884,2611
-17656,Oakwood,OH,Cuyahoga County,,city-us,3531,41.365,-81.508,3700
-17660,Oakwood,PA,Lawrence County,,city-us,2227,41.011,-80.380,2924
-17662,Oakwood,OH,Paulding County,,city-us,549,41.096,-84.380,3088
-17658,Oakwood,TX,Freestone County,,city-us,394,31.585,-95.850,3085
-17663,Oakwood,ND,Walsh County,,city-us,201,48.412,-97.339,110
-17655,Oakwood,MO,Clay County,,city-us,199,39.202,-94.570,3162
-17657,Oakwood,OK,Dewey County,,city-us,73,35.932,-98.705,1943
+17640,Palermo,,,Colombia,city-international,800000,2.888,-75.434,220
+17641,Palermo,,,Italy,city-international,668405,38.111,13.352,42029
+17636,Palermo,CA,Butte County,,city-us,5387,39.435,-121.538,4817
+17638,Palermo,NY,Oswego County,,city-us,3463,43.367,-76.260,3126
+17637,Palermo,NJ,Cape May County,,city-us,3183,39.240,-74.672,1436
+17639,Palermo,ME,Waldo County,,city-us,1599,44.396,-69.431,4669

@@ -1,1134 +1,501 @@
 phoneme,name,county,latitude,longitude
-2697,Kansas City,Wyandotte County,39.114,-94.627
-3785,Olathe,Johnson County,38.881,-94.819
-0741,Lawrence,Douglas County,38.972,-95.235
-4670,Shawnee,Johnson County,39.042,-94.720
-3158,Manhattan,Pottawatomie County,39.188,-96.606
-0916,Salina,Saline County,38.840,-97.611
-2561,Hutchinson,Reno County,38.061,-97.930
-2923,Leavenworth,Leavenworth County,39.311,-94.922
-2924,Leawood,Johnson County,38.967,-94.617
-1446,Dodge City,Ford County,37.753,-100.017
-1414,Derby,Sedgwick County,37.546,-97.269
-4401,Rockford,Sedgwick County,37.523,-97.210
-2689,Junction City,Geary County,39.029,-96.831
-2379,Hays,Ellis County,38.879,-99.327
-0809,Pittsburg,Crawford County,37.411,-94.705
-0660,Bruno,Butler County,37.687,-97.105
-0129,Andover,Butler County,37.714,-97.136
-4750,Soldier,Shawnee County,39.155,-95.661
-2185,Great Bend,Barton County,38.364,-98.765
-4376,Riverside,Sedgwick County,37.585,-97.290
-0172,Arkansas City,Cowley County,37.062,-97.038
-0727,Winfield,Cowley County,37.240,-96.996
-2382,Haysville,Sedgwick County,37.564,-97.352
-2881,Lansing,Leavenworth County,39.249,-94.900
-0744,Mission,Shawnee County,38.999,-95.785
-2258,Gypsum,Sedgwick County,37.602,-97.200
-0744,Mission,Johnson County,39.028,-94.656
-1141,Salem,Sedgwick County,37.510,-97.318
-3933,Parsons,Labette County,37.340,-95.261
-0223,Augusta,Butler County,37.687,-96.977
-5343,Smoky Hill,Geary County,39.053,-96.898
-1117,Coffeyville,Montgomery County,37.037,-95.616
-2097,Madison,Riley County,39.211,-96.809
-4797,Spring Hill,Johnson County,38.757,-94.821
-3915,Park City,Sedgwick County,37.800,-97.318
-0787,Independence,Montgomery County,37.224,-95.708
-0348,Bel Aire,Sedgwick County,37.776,-97.247
-1736,Eudora,Douglas County,38.912,-95.110
-3900,Palmyra,Douglas County,38.798,-95.147
-0213,Attica,Sedgwick County,37.698,-97.545
-5388,Wellington,Sumner County,37.265,-97.372
-0716,Valley Center,Sedgwick County,37.835,-97.373
-3912,Park,Sedgwick County,37.785,-97.429
-4173,Pratt,Pratt County,37.644,-98.738
+2537,Kansas City,Wyandotte County,39.114,-94.627
+3654,Olathe,Johnson County,38.881,-94.819
+2760,Lawrence,Douglas County,38.972,-95.235
+4533,Shawnee,Johnson County,39.042,-94.720
+3016,Manhattan,Pottawatomie County,39.188,-96.606
+0859,Salina,Saline County,38.840,-97.611
+2398,Hutchinson,Reno County,38.061,-97.930
+2770,Leavenworth,Leavenworth County,39.311,-94.922
+2771,Leawood,Johnson County,38.967,-94.617
+1354,Dodge City,Ford County,37.753,-100.017
+1322,Derby,Sedgwick County,37.546,-97.269
+2529,Junction City,Geary County,39.029,-96.831
+2204,Hays,Ellis County,38.879,-99.327
+3934,Pittsburg,Crawford County,37.411,-94.705
+0125,Andover,Butler County,37.714,-97.136
+2028,Great Bend,Barton County,38.364,-98.765
+0168,Arkansas City,Cowley County,37.062,-97.038
+5436,Winfield,Cowley County,37.240,-96.996
+2206,Haysville,Sedgwick County,37.564,-97.352
+2724,Lansing,Leavenworth County,39.249,-94.900
+3274,Mission,Johnson County,39.028,-94.656
+3806,Parsons,Labette County,37.340,-95.261
+0218,Augusta,Butler County,37.687,-96.977
+1041,Coffeyville,Montgomery County,37.037,-95.616
+4669,Spring Hill,Johnson County,38.757,-94.821
+3786,Park City,Sedgwick County,37.800,-97.318
+2410,Independence,Montgomery County,37.224,-95.708
+0340,Bel Aire,Sedgwick County,37.776,-97.247
+5275,Wellington,Sumner County,37.265,-97.372
+5095,Valley Center,Sedgwick County,37.835,-97.373
+4040,Pratt,Pratt County,37.644,-98.738
 0006,Abilene,Dickinson County,38.917,-97.214
-1362,De Soto,Johnson County,38.972,-94.951
-3145,Maize,Sedgwick County,37.779,-97.467
-5177,Ulysses,Grant County,37.581,-101.355
-1999,Garden City,Finney County,38.037,-100.897
-0714,Wamego,Pottawatomie County,39.206,-96.299
-1126,Colby,Thomas County,39.396,-101.052
-2163,Grant,Sedgwick County,37.872,-97.316
-5342,Pleasant,Butler County,37.600,-97.091
-2103,Goddard,Sedgwick County,37.660,-97.575
-1172,Concordia,Cloud County,39.571,-97.663
-0786,Louisburg,Miami County,38.619,-94.681
-0714,Wamego,Pottawatomie County,39.205,-96.310
-4827,St. George,Pottawatomie County,39.220,-96.403
-1612,Edwardsville,Wyandotte County,39.061,-94.820
-2120,Goodland,Sherman County,39.351,-101.710
-4303,Reno,Reno County,38.053,-97.975
-5514,Williamsport,Shawnee County,38.910,-95.698
-4439,Rose Hill,Butler County,37.558,-97.135
-1059,Clay Center,Clay County,39.377,-97.125
-4620,Scott City,Scott County,38.483,-100.907
-1696,Emma,Harvey County,38.130,-97.427
-4256,St. Marys,Pottawatomie County,39.225,-96.080
-3411,Mission Hills,Johnson County,39.018,-94.617
-3117,Lyons,Rice County,38.345,-98.202
-2966,Washington,Crawford County,37.507,-94.694
-2427,Hesston,Harvey County,38.138,-97.431
-0252,Baker,Crawford County,37.363,-94.737
-0785,Marysville,Marshall County,39.841,-96.647
-0380,Beloit,Mitchell County,39.456,-98.106
-1968,Frontenac,Crawford County,37.456,-94.689
-3681,Ninnescah,Sedgwick County,37.524,-97.541
-1057,Holton,Jackson County,39.465,-95.736
-0218,Auburn,Shawnee County,38.914,-95.843
-3430,Monmouth,Shawnee County,38.935,-95.570
-1938,Franklin,Franklin County,38.698,-95.122
-2758,Kingman,Kingman County,37.646,-98.114
-0362,Belle Plaine,Sumner County,37.424,-97.292
-2966,Washington,Doniphan County,39.776,-94.942
-1161,Columbus,Cherokee County,37.169,-94.844
-2168,Sherman,Leavenworth County,39.015,-94.988
-3492,Morton,Sedgwick County,37.612,-97.746
-3729,Norton,Norton County,39.834,-99.892
-4256,St. Marys,Pottawatomie County,39.194,-96.064
-1985,Galena,Cherokee County,37.076,-94.640
-2464,Hillsboro,Marion County,38.352,-97.204
-1998,Garden,Cherokee County,37.041,-94.685
-2965,Union,Sedgwick County,37.780,-97.536
-1073,Clearwater,Sedgwick County,37.503,-97.504
-4138,Richland,Butler County,37.513,-97.088
-5110,Towanda,Butler County,37.773,-96.988
-1171,Lincoln,Linn County,38.341,-94.689
-2074,Girard,Crawford County,37.511,-94.838
-2871,Lakin,Kearny County,37.996,-101.271
-0785,Marysville,Miami County,38.669,-94.859
-2004,Gardner,Johnson County,38.776,-94.899
-1024,Cimarron,Gray County,37.791,-100.290
-3500,Mound,McPherson County,38.214,-97.532
-4888,Sterling,Rice County,38.210,-98.207
-3158,Manhattan,Riley County,39.140,-96.529
-2303,Scott,Bourbon County,37.827,-94.680
-2334,Newton,Harvey County,38.046,-97.309
-2484,Holcomb,Finney County,37.986,-100.989
-0977,Cheney,Sedgwick County,37.630,-97.783
-0988,Cherryvale,Montgomery County,37.270,-95.552
-3846,Oskaloosa,Jefferson County,39.218,-95.312
-3778,Ohio,Sedgwick County,37.524,-97.424
-3759,Oakley,Logan County,39.031,-100.884
-3774,Ogden,Riley County,39.124,-96.684
-0432,Big Creek,Ellis County,38.867,-99.365
-2330,Seneca,Nemaha County,39.834,-96.064
-5299,Wakarusa,Douglas County,38.926,-95.245
-1948,Fredonia,Wilson County,37.534,-95.827
-2327,Herington,Dickinson County,38.697,-96.807
-4192,Prospect,Butler County,37.833,-96.759
-2193,Jefferson,Geary County,39.002,-96.768
-0146,Anthony,Harper County,37.153,-98.031
-2571,Illinois,Sedgwick County,37.604,-97.542
-4138,Richland,Miami County,38.672,-94.987
-3876,Oxford,Johnson County,38.829,-94.663
-3759,Oakley,Gove County,39.123,-100.845
-4797,Spring Hill,Johnson County,38.793,-94.784
-2168,Sherman,Sedgwick County,37.787,-97.641
-1054,Clay,Reno County,38.032,-97.840
-3406,Minneapolis,Ottawa County,39.122,-97.707
-5393,Wellsville,Franklin County,38.718,-95.082
-1261,Creswell,Cowley County,37.089,-97.018
-2785,Noble,Dickinson County,38.997,-97.005
-4709,Silver Lake,Shawnee County,39.102,-95.859
-0760,Marion,Marion County,38.348,-97.017
-4455,Rossville,Shawnee County,39.162,-95.966
-1651,Elkhart,Morton County,37.008,-101.890
-2355,Haskell,Haskell County,37.555,-100.880
-0814,Little River,Reno County,38.122,-97.748
-1373,Elk,Osage County,38.804,-95.552
-1384,Delaware,Jefferson County,39.358,-95.493
-5003,Syracuse,Hamilton County,37.981,-101.753
-0919,Center,Smith County,39.786,-98.784
-4072,Plainville,Rooks County,39.235,-99.298
-0807,Caney,Montgomery County,37.011,-95.935
-4640,Sedgwick,Harvey County,37.955,-97.427
-1595,Edgerton,Johnson County,38.765,-95.008
-5450,Westwood,Johnson County,39.041,-94.617
-4974,Superior,McPherson County,38.211,-97.751
-2965,Union,Jefferson County,39.207,-95.219
-0697,Oswego,Cherokee County,37.168,-95.112
-0919,Center,Doniphan County,39.807,-95.094
-0725,Fairview,Jefferson County,39.178,-95.437
-4640,Sedgwick,Harvey County,37.918,-97.420
-1171,Lincoln,Dickinson County,38.910,-97.325
-0026,Afton,Sedgwick County,37.612,-97.653
-2730,Kentucky,Jefferson County,39.094,-95.417
-2368,Haven,Reno County,37.889,-97.784
-5528,Willow Springs,Douglas County,38.804,-95.289
-2457,Hill City,Graham County,39.400,-99.816
-2528,Horton,Brown County,39.661,-95.526
-3292,Meade,Meade County,37.286,-100.340
-2959,Lexington,Johnson County,38.914,-94.988
-4794,Spring,Butler County,37.692,-96.877
-2601,Iowa,Doniphan County,39.902,-95.265
-0527,Bolton,Cowley County,37.035,-97.065
-0815,Johnson City,Stanton County,37.571,-101.751
-4905,Stockton,Rooks County,39.438,-99.265
-0728,Chapman,Dickinson County,38.972,-97.023
-1698,Empire,McPherson County,38.391,-97.538
-1496,Dudley,Haskell County,37.566,-101.008
-0825,Carbondale,Osage County,38.819,-95.689
-0919,Center,Ness County,38.507,-99.860
-0252,Baker,Gove County,39.009,-100.214
-0797,Osborne,Osborne County,39.439,-98.695
-0215,Atwood,Rawlins County,39.814,-101.042
-5209,Valley,Miami County,38.524,-94.855
-2591,Inman,McPherson County,38.232,-97.773
-3949,Payne,Sedgwick County,37.790,-97.198
-4518,Sheridan,Crawford County,37.401,-94.861
-4825,St. Francis,Cheyenne County,39.772,-101.800
-2323,Harper,Harper County,37.287,-98.026
-3519,Mount Pleasant,Labette County,37.165,-95.320
-1053,Erie,Neosho County,37.602,-95.305
-1797,Fargo,Seward County,37.127,-100.752
-3876,Oxford,Sumner County,37.264,-97.195
-2804,La Crosse,Rush County,38.531,-99.309
-4089,Pleasanton,Linn County,38.178,-94.711
-1171,Lincoln,Coffey County,38.358,-95.885
-2537,Hoxie,Sheridan County,39.358,-100.442
-1526,Eagle,Sedgwick County,37.864,-97.541
-1182,Conway,Sumner County,37.431,-97.642
-1685,Elwood,Doniphan County,39.756,-94.872
-0760,Marion,Bourbon County,37.833,-94.988
-0919,Center,Lyon County,38.253,-96.238
-5211,Valley Falls,Jefferson County,39.343,-95.460
-0751,Parker,Montgomery County,37.087,-95.652
-2193,Jefferson,Jefferson County,39.339,-95.260
-1244,Crawford,Crawford County,37.506,-94.861
-0919,Center,Dickinson County,38.915,-97.083
-3395,Milton,Butler County,37.951,-97.081
-3676,Nickerson,Reno County,38.147,-98.084
-2987,Lyndon,Osage County,38.610,-95.684
-0098,Altamont,Labette County,37.190,-95.297
-1791,Falls,Chase County,38.345,-96.543
-4070,Plains,Meade County,37.260,-100.593
-0729,Enterprise,Ford County,37.633,-99.952
-5404,West Branch,Marion County,38.210,-97.316
-4801,Spring Valley,Cherokee County,37.068,-94.786
-4639,Sedan,Chautauqua County,37.127,-96.187
-4594,Sarcoxie,Jefferson County,39.093,-95.225
-3865,Overbrook,Osage County,38.781,-95.557
-2188,Greeley,Sedgwick County,37.873,-97.655
-4213,Solomon,Dickinson County,38.921,-97.369
-2097,Madison,Greenwood County,38.124,-96.203
-4833,St. John,Stafford County,38.037,-98.753
-4352,Riley,Riley County,39.299,-96.831
-0813,Canton,McPherson County,38.401,-97.420
-0706,Burlingame,Osage County,38.754,-95.835
-0794,Liberty,Linn County,38.332,-94.991
-0731,Troy,Doniphan County,39.783,-95.090
-0919,Center,Jewell County,39.786,-98.213
-1434,Dighton,Lane County,38.482,-100.467
-3447,Montezuma,Gray County,37.596,-100.443
-2771,Kiowa,Barber County,37.029,-98.499
-1699,Emporia,Lyon County,38.368,-96.168
-0398,Benton,Butler County,37.789,-97.109
-0398,Benton,Atchison County,39.493,-95.404
-1589,Jackson,Lyon County,38.398,-96.022
-1590,Stafford,Stafford County,37.962,-98.601
-4666,Sharon Springs,Wallace County,38.942,-101.754
-3953,Peabody,Marion County,38.169,-97.107
-0919,Center,Hodgeman County,38.087,-99.899
-2302,Hanover,Washington County,39.872,-96.859
-4390,Rock Creek,Coffey County,38.387,-95.586
-2163,Grant,Dickinson County,38.914,-97.200
-5341,Wilson,Ellsworth County,38.834,-98.421
-0997,Chetopa,Labette County,37.037,-95.090
-3681,Ninnescah,Cowley County,37.353,-97.092
-0730,Highland,Doniphan County,39.860,-95.270
-0153,Appleton,Clark County,37.391,-99.914
-1133,Coldwater,Comanche County,37.197,-99.190
-4118,Pomona,Franklin County,38.608,-95.452
-4451,Ross,Osborne County,39.530,-98.539
-2043,Vermillion,Marshall County,39.697,-96.405
-0744,Mission,Neosho County,37.521,-95.158
-3519,Mount Pleasant,Atchison County,39.474,-95.170
-4138,Richland,Ford County,37.700,-100.058
-1171,Lincoln,Franklin County,38.567,-95.316
-1991,Galva,McPherson County,38.382,-97.538
-0743,Perry,Jefferson County,39.076,-95.393
-4163,Powhattan,Brown County,39.724,-95.709
-3729,Norton,Jefferson County,39.392,-95.310
-1383,Deerfield,Kearny County,38.020,-101.163
-0760,Marion,Douglas County,38.793,-95.423
-3164,Mankato,Jewell County,39.787,-98.210
-5300,Wakefield,Clay County,39.213,-97.006
-0050,Albion,Reno County,37.780,-97.964
-5209,Valley,Reno County,38.009,-97.751
-3947,Pawnee,Pawnee County,38.223,-99.176
-1955,Fremont,Lyon County,38.514,-96.161
-5254,Victoria,Ellis County,38.813,-99.124
-0997,Chetopa,Neosho County,37.517,-95.461
-3857,Ottawa,Franklin County,38.647,-95.277
-1619,El Dorado,Butler County,37.773,-96.918
-4335,Richmond,Franklin County,38.413,-95.255
-4020,Pike,Lyon County,38.392,-96.279
-0796,Downs,Osborne County,39.499,-98.542
-4087,Pleasant Valley,Cowley County,37.166,-96.984
-0087,Alma,Wabaunsee County,39.017,-96.289
-5629,Yoder,Reno County,37.963,-97.876
-4481,Rural,Jefferson County,39.081,-95.316
-1311,Cutler,Franklin County,38.525,-95.120
-2303,Scott,Linn County,38.331,-94.842
-1171,Lincoln,Crawford County,37.618,-94.700
-1373,Elk,Cloud County,39.617,-97.417
-3514,Mount Hope,Sedgwick County,37.869,-97.665
-2597,Iola,Allen County,37.901,-95.454
-5355,Waterville,Marshall County,39.700,-96.747
-0116,Americus,Lyon County,38.507,-96.262
-0192,Ashland,Clark County,37.189,-99.766
-4377,Riverton,Cherokee County,37.075,-94.705
-1938,Franklin,Crawford County,37.526,-94.706
-2188,Greeley,Saline County,38.827,-97.525
-2880,Lancaster,Atchison County,39.600,-95.308
-3207,Marmaton,Allen County,37.900,-95.157
-3407,Minneola,Clark County,37.443,-100.015
-3778,Ohio,Franklin County,38.476,-95.278
-1445,Dodge,Ford County,37.792,-100.050
-3178,Maple,Cowley County,37.433,-97.096
-2237,Grove,Shawnee County,39.170,-95.857
-3333,Meriden,Jefferson County,39.189,-95.570
-3209,Marquette,McPherson County,38.569,-97.857
-1937,Frankfort,Marshall County,39.706,-96.417
-5101,Topeka,Shawnee County,38.978,-95.661
-1669,Elm Grove,Labette County,37.061,-95.320
-2167,Howard,Elk County,37.469,-96.228
-5445,Westmoreland,Pottawatomie County,39.394,-96.414
-0729,Enterprise,Dickinson County,38.903,-97.117
-2217,Greensburg,Kiowa County,37.603,-99.293
-3840,Osage,Crawford County,37.405,-95.008
-1056,London,Sumner County,37.426,-97.413
-5512,Williamsburg,Franklin County,38.441,-95.439
-5032,Tecumseh,Shawnee County,39.048,-95.579
-4432,Walnut,Butler County,37.621,-96.985
-4488,Silver Creek,Cowley County,37.338,-96.780
-2153,Grand River,Sedgwick County,37.684,-97.757
-1097,Clyde,Cloud County,39.591,-97.399
-1667,Ellsworth,Ellsworth County,38.748,-98.205
-4390,Rock Creek,Pottawatomie County,39.436,-96.408
-4804,Springdale,Sumner County,37.344,-97.639
-2965,Union,Rice County,38.391,-97.980
-3080,Lowell,Cherokee County,37.103,-94.673
-2943,Leon,Butler County,37.690,-96.782
-5486,Whitewater,Butler County,37.965,-97.148
-5172,Udall,Cowley County,37.388,-97.114
-2371,Haviland,Kiowa County,37.619,-99.106
-3501,Mound City,Linn County,38.143,-94.814
-4625,Scranton,Osage County,38.782,-95.739
-5308,Walker,Anderson County,38.323,-95.111
-1171,Lincoln,Reno County,37.961,-97.970
-5286,Waco,Sedgwick County,37.600,-97.435
-0394,Bennington,Ottawa County,39.031,-97.594
-0919,Center,Atchison County,39.474,-95.296
-4432,Walnut,Cowley County,37.256,-96.961
-1740,Eureka,Saline County,38.744,-97.419
-4451,Ross,Cherokee County,37.274,-94.880
-0646,Fairfax,Osage County,38.717,-95.671
-2962,Liberal,Seward County,37.127,-100.967
-4848,St. Paul,Neosho County,37.519,-95.173
-2431,Hiawatha,Brown County,39.819,-95.496
-2168,Sherman,Riley County,39.373,-96.749
-2538,Hoyt,Jackson County,39.248,-95.706
-3730,Nortonville,Jefferson County,39.417,-95.334
-4096,Plum Grove,Butler County,37.959,-96.979
-4152,Pottawatomie,Franklin County,38.440,-95.126
-1950,Freedom,Bourbon County,37.986,-94.767
-1244,Crawford,Cherokee County,37.167,-94.768
-0981,Cherokee,Crawford County,37.346,-94.809
-0391,Bennett,Kingman County,37.430,-97.862
-0919,Center,Reno County,37.961,-98.080
-2586,Ingalls,Gray County,37.773,-100.552
-5344,Waverly,Coffey County,38.394,-95.603
-0798,Garfield,Wabaunsee County,38.876,-96.442
-0902,Cedar,Wilson County,37.516,-95.683
-0174,Arlington,Reno County,37.862,-98.202
-0396,Bentley,Sedgwick County,37.886,-97.517
-5370,Weir,Cherokee County,37.310,-94.772
-0744,Mission,Brown County,39.718,-95.537
-4758,South Bend,Barton County,38.297,-98.747
-4689,Shiloh,Neosho County,37.420,-95.457
-4433,Rosalia,Butler County,37.790,-96.618
-4088,Pleasant View,Cherokee County,37.265,-94.674
-0919,Center,Woodson County,37.829,-95.751
-3290,McPherson,McPherson County,38.399,-97.639
-4867,Starr,Cloud County,39.347,-97.426
-4432,Walnut,Brown County,39.848,-95.709
-3914,Paris,Linn County,38.205,-94.828
-3877,Ozark,Anderson County,38.081,-95.355
-2948,LeRoy,Coffey County,38.092,-95.636
-0794,Liberty,Coffey County,38.107,-95.882
-0432,Big Creek,Russell County,38.867,-98.987
-1342,Darlington,Harvey County,37.955,-97.314
-4213,Solomon,Cloud County,39.372,-97.873
-3048,Lookout,Ellis County,38.760,-99.453
-4764,South Haven,Sumner County,37.064,-97.419
-1171,Lincoln,Sedgwick County,37.866,-97.212
-1927,Fowler,Meade County,37.386,-100.196
-0786,Louisburg,Montgomery County,37.325,-95.893
-4931,Strong,Chase County,38.469,-96.515
-2505,Home,Nemaha County,39.706,-96.184
-4432,Walnut,Saline County,38.734,-97.531
-0366,Belleville,Chautauqua County,37.058,-96.154
-1805,Farmington,Stafford County,37.956,-98.967
-1191,Copeland,Gray County,37.577,-100.608
-3036,Lone Tree,McPherson County,38.304,-97.538
-1742,Evan,Kingman County,37.697,-97.871
-2156,Grandview,Ford County,37.817,-99.933
-0919,Center,Wilson County,37.509,-95.805
-2993,Linn,Washington County,39.704,-97.078
-0213,Attica,Harper County,37.241,-98.227
-1613,Effingham,Atchison County,39.522,-95.401
-2624,Ivanhoe,Finney County,37.796,-100.912
-4670,Shawnee,Cherokee County,37.167,-94.674
-3130,Macon,Harvey County,38.044,-97.429
-0493,Bloomington,Butler County,37.607,-96.881
-2756,King City,McPherson County,38.303,-97.647
-4335,Richmond,Nemaha County,39.872,-96.070
-0929,Centerville,Neosho County,37.511,-95.299
-3368,Mill Creek,Bourbon County,37.913,-94.837
-4432,Walnut,Crawford County,37.622,-95.014
-5209,Valley,Ellsworth County,38.558,-98.434
-0934,Centralia,Nemaha County,39.726,-96.127
-1589,Jackson,Anderson County,38.296,-95.313
-1772,Fairmount,Butler County,38.050,-97.099
-2168,Sherman,Crawford County,37.623,-94.860
-0725,Fairview,Butler County,37.862,-96.996
-0800,Logan,Phillips County,39.688,-99.572
-0902,Cedar,Smith County,39.792,-99.010
-3485,Morrill,Brown County,39.954,-95.724
-4684,Wayne,Edwards County,37.955,-99.265
-5322,Walton,Harvey County,38.124,-97.201
-0814,Little River,Rice County,38.398,-98.012
-3128,Macksville,Stafford County,37.959,-98.969
-2966,Washington,Brown County,39.703,-95.386
-3467,Moran,Allen County,37.916,-95.170
-4516,Salamanca,Cherokee County,37.157,-94.895
-0919,Centre,Marion County,38.356,-96.994
-5245,Vernon,Cowley County,37.257,-97.086
-1301,Cunningham,Kingman County,37.644,-98.431
-1171,Lincoln,Rice County,38.391,-98.313
-4518,Sheridan,Linn County,38.083,-94.680
-1083,Clifton,Clay County,39.568,-97.281
-3019,Lockport,Haskell County,37.560,-100.727
-4390,Rock Creek,Nemaha County,39.864,-95.850
-2388,Winchester,Jefferson County,39.322,-95.267
-5465,White City,Morris County,38.796,-96.736
-0684,Buffalo,Jewell County,39.690,-98.110
-5104,Toronto,Woodson County,37.816,-95.915
-4267,Reeder,Anderson County,38.322,-95.428
-1697,Emmett,Pottawatomie County,39.309,-96.086
-0432,Big Creek,Neosho County,37.693,-95.297
-1663,Ellis,Ellis County,38.995,-99.511
-2054,Harrison,Franklin County,38.572,-95.221
-1065,Clear Creek,Marion County,38.470,-96.941
-2076,Glasco,Cloud County,39.357,-97.841
-3549,Murdock,Butler County,37.869,-97.097
-0725,Fairview,Russell County,39.041,-98.532
-5342,Pleasant,Harvey County,38.047,-97.205
-0502,Blue Mound,Linn County,38.095,-95.006
-0670,Buckeye,Ellis County,39.026,-99.339
-2379,Hayes,Franklin County,38.705,-95.232
-3733,Norwich,Kingman County,37.457,-97.849
-5052,Thayer,Neosho County,37.493,-95.470
-2214,Greenleaf,Washington County,39.691,-96.973
-0684,Buffalo,Barton County,38.392,-98.868
-1843,Hope,Dickinson County,38.646,-97.087
-0097,Alta Vista,Wabaunsee County,38.864,-96.489
-2996,Linwood,Leavenworth County,39.001,-95.039
-4518,Sheridan,Ottawa County,39.266,-97.763
-0794,Liberty,Labette County,37.254,-95.215
-0760,Marion,Nemaha County,39.873,-96.184
-0029,Agency,Osage County,38.575,-95.554
-3003,Little Valley,McPherson County,38.214,-97.867
-4609,Scandia,Republic County,39.784,-97.762
-3541,Mulberry,Crawford County,37.557,-94.622
-4269,Reading,Lyon County,38.537,-96.016
-5162,Twin Grove,Greenwood County,37.643,-96.223
-1582,Eden,Sumner County,37.430,-97.752
-3778,Ohio,Saline County,38.835,-97.771
-5342,Pleasant,Lincoln County,39.000,-98.439
-0981,Cherokee,Montgomery County,37.062,-95.564
-5457,Wheatland,Ellis County,38.762,-99.264
-2258,Gypsum,Saline County,38.706,-97.428
-2726,Kensington,Smith County,39.767,-99.032
-3366,Milford,Geary County,39.168,-96.913
-4932,Strong City,Chase County,38.397,-96.537
-0238,Axtell,Marshall County,39.872,-96.259
-2260,Hackberry,Labette County,37.060,-95.212
-2232,Grinnell,Gove County,39.062,-100.675
-4432,Walnut,Atchison County,39.463,-95.063
-0776,Cambria,Saline County,38.918,-97.529
-1140,Colfax,Wilson County,37.690,-95.597
-2966,Washington,Nemaha County,39.950,-95.949
-0965,Chase,Rice County,38.355,-98.350
-2222,Greenwood,Franklin County,38.560,-95.444
-2954,Lewis,Edwards County,37.936,-99.253
-3656,Newbern,Dickinson County,38.826,-97.206
-1162,Comanche,Barton County,38.297,-98.599
-1867,Florence,Marion County,38.244,-96.928
-1608,Edna,Labette County,37.060,-95.359
-4528,Salt Springs,Greenwood County,37.664,-96.040
-2130,Gorham,Russell County,38.882,-99.023
-4422,Rolla,Morton County,37.120,-101.632
-1230,Courtland,Republic County,39.783,-97.876
-4138,Richland,Harvey County,37.963,-97.217
-1154,Colony,Anderson County,38.071,-95.366
-0375,Belvue,Pottawatomie County,39.253,-96.189
-0707,Burlington,Coffey County,38.164,-95.777
-1368,Dearing,Montgomery County,37.059,-95.713
-2964,Monroe,Anderson County,38.305,-95.202
-4087,Pleasant Valley,Saline County,38.912,-97.784
-3267,McCune,Crawford County,37.355,-95.017
-4386,Robinson,Brown County,39.820,-95.390
-0730,Highland,Harvey County,38.136,-97.318
-0088,Almena,Norton County,39.892,-99.707
-1425,Dexter,Cowley County,37.188,-96.695
-2657,Jewell,Jewell County,39.671,-98.154
-1083,Clifton,Washington County,39.603,-97.303
-2395,Healy,Lane County,38.600,-100.617
-2871,Lakin,Harvey County,37.954,-97.539
-3334,Meridian,McPherson County,38.217,-97.427
-1740,Eureka,Greenwood County,37.855,-96.322
-3778,Ohio,Stafford County,37.956,-98.747
-2341,Hartford,Lyon County,38.308,-95.956
-3247,Mayetta,Jackson County,39.339,-95.722
-1171,Lincoln,Cloud County,39.560,-97.639
-2032,White,Kingman County,37.692,-98.079
-5447,Westphalia,Anderson County,38.207,-95.450
-0102,Altoona,Wilson County,37.524,-95.661
-0794,Liberty,Marion County,38.303,-97.206
-2637,Janesville,Greenwood County,37.988,-96.226
-1002,Chicopee,Crawford County,37.382,-94.742
-3840,Osage,Bourbon County,37.974,-94.668
-3395,Milton,Sumner County,37.432,-97.771
-5565,Wolf River,Doniphan County,39.793,-95.255
-3086,Lucas,Russell County,39.056,-98.536
-0697,Oswego,Labette County,37.143,-95.137
-1883,Ford,Ford County,37.613,-99.787
-2163,Grant,Neosho County,37.688,-95.153
-3423,Moline,Elk County,37.360,-96.304
-4996,Sycamore,Butler County,38.028,-96.651
-1788,Fall River,Wilson County,37.547,-95.925
-4432,Walnut,Barton County,38.478,-98.978
-4801,Spring Valley,McPherson County,38.311,-97.428
-4481,Rural,Kingman County,37.609,-98.401
-1481,Dresden,Kingman County,37.689,-98.419
-3116,Lyon,Cherokee County,37.054,-94.877
-5316,Walnut Grove,Neosho County,37.595,-95.170
-3324,Menno,Marion County,38.312,-97.325
-0880,Castleton,Reno County,37.863,-97.951
-5254,Victoria,Rice County,38.475,-98.203
-0981,Cherokee,Cherokee County,37.299,-94.769
-2934,Lehigh,Marion County,38.385,-97.307
-1720,Irving,Brown County,39.932,-95.392
-2229,Gridley,Coffey County,38.098,-95.884
-3413,Mitchell,Nemaha County,39.777,-96.061
-0794,Liberty,Dickinson County,38.831,-96.973
-1589,Jackson,Riley County,39.455,-96.756
-2966,Washington,Anderson County,38.222,-95.291
-4213,Solomon,Saline County,38.827,-97.432
-5322,Walton,Sumner County,37.064,-97.202
-1171,Lincoln,Butler County,37.983,-96.861
-1398,Delphos,Ottawa County,39.274,-97.772
-2163,Grant,Cloud County,39.611,-97.877
-0627,Bronson,Bourbon County,37.896,-95.073
-5343,Smoky Hill,McPherson County,38.564,-97.646
-1938,Franklin,Bourbon County,37.965,-95.019
-2167,Howard,Labette County,37.042,-95.441
-2621,Itasca,Sherman County,39.306,-101.668
-4390,Rock Creek,Butler County,37.512,-96.890
-0798,Garfield,Finney County,38.133,-100.448
-3854,Otis,Rush County,38.535,-99.053
-5189,Uniontown,Bourbon County,37.847,-94.975
-1800,Farmer,Rice County,38.478,-98.425
-2288,Hamlin,Brown County,39.950,-95.611
-4665,Sharon,Barber County,37.291,-98.406
-1998,Garden,Harvey County,38.130,-97.537
-0591,Brewster,Thomas County,39.367,-101.377
-2379,Hayes,McPherson County,38.304,-97.870
-4206,Putnam,Anderson County,38.353,-95.262
-5000,Sylvan Grove,Lincoln County,39.009,-98.394
-1938,Franklin,Marshall County,39.871,-96.524
-3272,McFarland,Wabaunsee County,39.053,-96.238
-0887,Catherine,Ellis County,39.024,-99.195
-0725,Fairview,Ford County,37.746,-100.162
-0725,Fairview,Labette County,37.158,-95.231
-0998,Cheyenne,Lane County,38.613,-100.615
-3116,Lyon,Geary County,38.923,-96.862
-3681,Ninnescah,Kingman County,37.597,-98.145
-5241,Verdigris,Wilson County,37.677,-95.909
-0974,Chelsea,Butler County,37.935,-96.661
-3495,Moscow,Stevens County,37.324,-101.206
-2188,Greeley,Anderson County,38.367,-95.127
-2548,Humboldt,Allen County,37.833,-95.414
-2379,Hayes,Dickinson County,38.995,-97.102
-2965,Union,Doniphan County,39.704,-95.274
-0809,Pittsburg,Mitchell County,39.348,-98.440
-3840,Osage,Allen County,38.001,-95.143
-4495,Rutland,Montgomery County,37.190,-95.883
-0787,Independence,Doniphan County,39.703,-95.173
-2168,Sherman,Washington County,39.610,-97.087
-3947,Pawnee,Bourbon County,37.716,-94.827
-4390,Rock Creek,Cowley County,37.426,-96.979
-4664,Shannon,Pottawatomie County,39.432,-96.529
-5530,Willowdale,Dickinson County,39.006,-97.308
-4781,Southside,Kearny County,37.862,-101.179
-0162,Arcadia,Crawford County,37.642,-94.624
-2173,Grantville,Jefferson County,39.083,-95.561
-1790,Falun,Saline County,38.661,-97.806
-1168,Concord,Ottawa County,39.079,-97.645
-1646,Elk City,Montgomery County,37.289,-95.912
-2211,Greenfield,Elk County,37.367,-96.459
-4253,Ransom,Ness County,38.636,-99.934
-1171,Lincoln,Neosho County,37.424,-95.154
-4186,Princeton,Franklin County,38.489,-95.275
-5342,Pleasant,Coffey County,38.232,-95.881
-5343,Smoky Hill,Saline County,38.832,-97.655
-2744,Key West,Coffey County,38.398,-95.747
-0800,Logan,Marshall County,39.878,-96.741
-1141,Salem,Allen County,37.822,-95.307
-4470,Royal,Ford County,37.877,-100.118
-5548,Winona,Logan County,39.048,-101.230
-0335,Beaver,Scott County,38.640,-101.028
-0641,Brookville,Saline County,38.775,-97.868
-0742,Lane,Franklin County,38.440,-95.082
-5124,Trenton,Edwards County,37.846,-99.520
-2871,Lakin,Barton County,38.384,-98.564
-3593,Neosho,Cherokee County,37.054,-95.006
-0725,Fairview,Brown County,39.841,-95.728
-1981,Gale,Marion County,38.393,-97.094
-3035,Lone Star,Rush County,38.530,-99.198
-1298,Culver,Ottawa County,39.000,-97.764
-5352,Waterloo,Lyon County,38.688,-96.008
-0751,Parker,Linn County,38.328,-94.992
-4001,Phillipsburg,Phillips County,39.793,-99.352
-4657,Seward,Seward County,37.317,-100.863
-2636,Jamestown,Cloud County,39.599,-97.861
-4878,Stateline,Sherman County,39.318,-102.004
-2625,Ivy,Lyon County,38.642,-96.080
-0710,Burns,Marion County,38.090,-96.886
-2030,Geneseo,Rice County,38.516,-98.157
-3654,Newark,Wilson County,37.434,-95.570
-0096,Alta,Harvey County,38.129,-97.644
-2163,Grant,Crawford County,37.507,-95.004
-4099,Plymouth,Russell County,38.832,-98.541
-3949,Payne,Gove County,38.997,-100.338
-0725,Fairview,Cowley County,37.345,-96.986
-4138,Richland,Ottawa County,39.087,-97.536
-1219,Cottage Grove,Allen County,37.755,-95.352
-0797,Osborne,Sumner County,37.259,-97.531
-0277,Barnes,Washington County,39.697,-96.862
-0684,Buffalo,Wilson County,37.710,-95.697
-0699,Burdett,Pawnee County,38.192,-99.527
-0919,Center,Russell County,38.827,-98.675
-0760,Marion,Doniphan County,39.700,-94.993
-1879,Fontana,Miami County,38.426,-94.838
-3041,Long Island,Phillips County,39.953,-99.572
-1081,Clifford,Butler County,38.036,-96.978
-1522,Dwight,Morris County,38.844,-96.593
-3100,Luray,Russell County,39.054,-98.648
-5270,Vinita,Kingman County,37.603,-97.867
-0794,Liberty,Barton County,38.278,-98.902
-1206,Corning,Nemaha County,39.657,-96.029
-3400,Mineral,Cherokee County,37.259,-94.791
-3116,Lyon,Dickinson County,38.649,-96.988
-1564,Easton,Leavenworth County,39.345,-95.116
-0800,Logan,Allen County,37.800,-95.485
-0919,Center,Cloud County,39.459,-97.648
-0726,Green,Pottawatomie County,39.364,-96.593
-1986,Galesburg,Kingman County,37.693,-97.969
-0800,Logan,Sherman County,39.329,-101.782
-4178,Prescott,Linn County,38.064,-94.696
-0366,Belleville,Republic County,39.779,-97.652
-0919,Center,Rush County,38.415,-99.308
-1685,Elwood,Barber County,37.065,-98.714
-4138,Richland,Republic County,39.775,-97.424
-4518,Sheridan,Cherokee County,37.275,-95.005
-5209,Valley,Rice County,38.208,-98.298
-0032,Agra,Phillips County,39.762,-99.119
-5283,Voltaire,Sherman County,39.474,-101.721
-0331,Beattie,Marshall County,39.861,-96.420
-0799,Canada,Labette County,37.112,-95.450
-4315,Rexford,Thomas County,39.472,-100.743
-5341,Wilson,Marion County,38.300,-97.106
-5488,Whiting,Jackson County,39.590,-95.613
-2465,Hillsdale,Miami County,38.660,-94.850
-4152,Pottawatomie,Coffey County,38.308,-95.590
-5299,Wakarusa,Shawnee County,38.886,-95.696
-0335,Beaver,Cowley County,37.180,-97.086
-2965,Union,McPherson County,38.588,-97.760
-0800,Logan,Dickinson County,38.834,-97.091
-4643,Selden,Sheridan County,39.541,-100.568
-1788,Fall River,Greenwood County,37.716,-96.215
-5085,Tipton,Mitchell County,39.343,-98.471
-0998,Cheyenne,Barton County,38.519,-98.640
-4583,Santa Fe,Pawnee County,38.131,-99.186
-4684,Wayne,Doniphan County,39.692,-95.069
-0798,Garfield,Dickinson County,38.827,-97.308
-3477,Morganville,Clay County,39.466,-97.202
-0715,Burr Oak,Doniphan County,39.852,-94.972
-1546,Lebanon,Smith County,39.810,-98.556
-0798,Garfield,Pawnee County,38.051,-99.279
-0888,Catlin,Marion County,38.211,-97.085
-2193,Jefferson,Dickinson County,38.748,-97.212
-0794,Liberty,Geary County,38.907,-96.608
-2163,Grant,Russell County,38.833,-98.842
-2283,Hamilton,Greenwood County,37.979,-96.164
-0455,Bison,Rush County,38.523,-99.197
-0800,Logan,Gray County,37.922,-100.546
-2088,Glencoe,Butler County,37.693,-96.615
-1171,Lincoln,Decatur County,39.869,-100.231
-0794,Liberty,Saline County,38.659,-97.535
-1589,Jackson,McPherson County,38.397,-97.757
-4081,Pleasant Grove,Pawnee County,38.124,-99.068
-5086,Tyro,Montgomery County,37.038,-95.821
-1805,Farmington,Washington County,39.865,-97.082
-4138,Richland,Cowley County,37.426,-96.878
-2163,Grant,Jewell County,39.788,-97.985
-2168,Sherman,Dickinson County,39.086,-97.103
-2966,Washington,Washington County,39.777,-97.096
-0683,Cottonwood,Chase County,38.291,-96.749
-0207,Atlanta,Cowley County,37.436,-96.765
-0873,Castle,McPherson County,38.395,-97.868
-2965,Union,Dickinson County,38.740,-96.982
-0236,Avon,Coffey County,38.162,-95.587
-1171,Lincoln,Anderson County,38.216,-95.152
-4171,Prairie View,Phillips County,39.896,-99.561
-4254,Rantoul,Franklin County,38.549,-95.100
-4087,Pleasant Valley,Wilson County,37.601,-95.606
-4250,Randolph,Riley County,39.431,-96.760
-0919,Center,Nemaha County,39.784,-96.183
-2984,Lincolnville,Marion County,38.493,-96.960
-1978,Fulton,Bourbon County,38.010,-94.720
-0015,Adams,Nemaha County,39.783,-95.958
-2263,Haddam,Washington County,39.879,-97.304
-0406,Bern,Nemaha County,39.962,-95.972
-0794,Liberty,Woodson County,37.974,-95.730
-1698,Empire,Ellsworth County,38.645,-98.045
-2065,Guilford,Wilson County,37.605,-95.726
-3778,Ohio,Ness County,38.627,-100.142
-4863,Stanton,Linn County,38.059,-94.833
-4518,Sheridan,Cowley County,37.252,-96.762
-1776,Sibley,Cloud County,39.631,-97.674
-5572,Woodbine,Dickinson County,38.796,-96.959
-0073,Allen,Lyon County,38.656,-96.170
-5042,Terry,Finney County,38.182,-100.984
-0794,Liberty,Cowley County,37.177,-96.836
-2836,Lake,Harvey County,37.951,-97.643
-3858,Otter Creek,Greenwood County,37.671,-96.400
-1028,Circleville,Jackson County,39.508,-95.859
-2623,Iuka,Pratt County,37.729,-98.735
-3265,McCracken,Rush County,38.581,-99.571
-4867,Star,Coffey County,38.229,-95.593
-5539,Windsor,Cowley County,37.346,-96.592
-0192,Ashland,Riley County,39.101,-96.568
-0997,Chetopa,Wilson County,37.524,-95.587
-1406,Dennis,Labette County,37.347,-95.413
-0517,Bogue,Graham County,39.363,-99.687
-0800,Logan,Barton County,38.477,-98.525
-1986,Galesburg,Neosho County,37.474,-95.359
-2966,Washington,Saline County,38.736,-97.759
-4138,Richland,Marshall County,39.957,-96.406
-4691,Shirley,Cloud County,39.532,-97.435
-1403,Denison,Jackson County,39.392,-95.628
-1866,Flora,Dickinson County,39.085,-97.314
-4213,Solomon,Sheridan County,39.227,-100.649
-2292,Hampden,Coffey County,38.193,-95.680
-2965,Union,Butler County,37.520,-96.619
-4213,Solomon,Graham County,39.313,-100.078
-0758,Caldwell,Sumner County,37.061,-97.646
-1171,Lincoln,Ottawa County,39.012,-97.422
-2323,Harper,McPherson County,38.483,-97.765
-4497,Ryan,Sumner County,37.256,-97.638
-4087,Pleasant Valley,Finney County,38.178,-100.774
-4166,Prairie,Jewell County,39.618,-98.091
-4342,Ridge,Dickinson County,38.746,-97.097
-4389,Rock,Marshall County,39.781,-96.404
-0796,Downs,Sumner County,37.170,-97.529
-3052,Lorraine,Ellsworth County,38.569,-98.317
-1034,Clarence,Barton County,38.391,-98.978
-1171,Lincoln,Osage County,38.485,-95.555
-1293,Cuba,Republic County,39.803,-97.456
-0207,Atlanta,Rice County,38.301,-98.197
-1065,Clear Creek,Pottawatomie County,39.527,-96.409
-1791,Falls,Sumner County,37.063,-97.528
-3071,Louisville,Pottawatomie County,39.250,-96.315
-4388,Rochester,Kingman County,37.429,-98.287
-4678,Shell Rock,Greenwood County,38.107,-95.995
-5457,Wheatland,Dickinson County,38.733,-97.307
-0425,Beverly,Lincoln County,39.013,-97.976
-1171,Lincoln,Marshall County,39.782,-96.294
-0919,Center,Marshall County,39.783,-96.521
-1950,Freedom,Republic County,39.873,-97.650
-0800,Logan,Marion County,38.561,-97.317
-0731,Troy,Reno County,37.869,-98.082
-0741,Lawrence,Cloud County,39.611,-97.536
-0050,Albion,Republic County,39.958,-97.425
-0431,Big Bend,Republic County,39.952,-97.872
-0267,Banner,Rush County,38.415,-99.191
-1410,Denton,Doniphan County,39.733,-95.269
-0046,Albert,Barton County,38.453,-99.011
-1906,Fort Dodge,Ford County,37.732,-99.935
-2532,Houston,Smith County,39.615,-98.886
-0725,Fairview,Republic County,39.863,-97.548
-1322,Dale,Kingman County,37.607,-97.963
-4953,Summerfield,Marshall County,39.997,-96.350
-3898,Palmer,Washington County,39.632,-97.140
-5457,Wheatland,Ford County,37.823,-99.619
-2575,Indian Creek,Anderson County,38.089,-95.460
-4841,St. Marks,Sedgwick County,37.736,-97.562
-5209,Valley,Barber County,37.412,-98.513
-0729,Enterprise,Reno County,38.039,-98.190
-2190,Spring Creek,Greenwood County,37.763,-96.441
-1589,Jackson,Sumner County,37.170,-97.416
-2651,Jerome,Gove County,38.771,-100.482
-2163,Grant,Marion County,38.365,-96.885
-2421,Herndon,Rawlins County,39.910,-100.785
-3946,Paw Paw,Elk County,37.567,-96.227
-0052,Alden,Rice County,38.242,-98.312
-1687,Elyria,McPherson County,38.291,-97.627
-4180,Preston,Pratt County,37.759,-98.553
-4432,Walnut,Bourbon County,37.719,-94.996
-0670,Buckeye,Ottawa County,39.002,-97.534
-0800,Logan,Mitchell County,39.348,-97.982
-1938,Franklin,Ness County,38.334,-99.916
-0919,Center,Pottawatomie County,39.344,-96.233
-1171,Lincoln,Russell County,38.740,-98.874
-2168,Sherman,Pottawatomie County,39.433,-96.295
-3912,Park,Gove County,39.113,-100.359
-5390,Wells,Marshall County,39.696,-96.530
-1168,Concord,Ford County,37.602,-100.101
-1257,Crestline,Cherokee County,37.171,-94.704
-3268,McDonald,Rawlins County,39.786,-101.376
-4435,Roscoe,Reno County,37.779,-98.082
-0794,Liberty,Kingman County,37.428,-98.410
-1357,Dayton,Saline County,38.919,-97.423
-3470,Morland,Graham County,39.349,-100.076
-3593,Neosho,Coffey County,38.075,-95.730
-4432,Walnut,Marshall County,39.791,-96.746
-5466,White Cloud,Doniphan County,39.976,-95.297
-2344,Hartland,Kearny County,37.969,-101.411
-3372,Millbrook,Graham County,39.313,-99.878
-5012,Talmage,Dickinson County,39.025,-97.261
-4166,Prairie,Wilson County,37.602,-95.823
-0073,Allen,Kingman County,37.519,-97.871
-1171,Lincoln,Edwards County,37.823,-99.073
-4888,Sterling,Hodgeman County,37.998,-99.678
-0798,Garfield,Rush County,38.420,-99.079
-0886,Catharine,Ellis County,38.927,-99.217
-0972,Chautauqua,Chautauqua County,37.020,-96.177
-2190,Spring Creek,Coffey County,38.089,-95.564
-1647,Elk Creek,Republic County,39.705,-97.419
-0794,Liberty,Elk County,37.562,-96.065
-1053,Erie,Sedgwick County,37.519,-97.759
-5016,Tampa,Marion County,38.547,-97.153
-1379,Deer Creek,Allen County,37.996,-95.278
-1589,Jackson,Jewell County,39.962,-97.985
-4438,Rose Creek,Republic County,39.963,-97.541
-0474,Blaine,Ottawa County,39.169,-97.646
-0696,Bunker Hill,Russell County,38.876,-98.704
-0742,Lane,Smith County,39.785,-98.899
-0800,Logan,Washington County,39.777,-96.966
-0919,Center,Rice County,38.297,-98.322
-1310,Custer,Mitchell County,39.276,-98.450
-2753,Kincaid,Anderson County,38.084,-95.154
-3588,Nelson,Cloud County,39.524,-97.536
-5608,Wright,Ford County,37.781,-99.892
-0743,Perry,Woodson County,37.784,-95.590
-2106,Goff,Nemaha County,39.664,-95.932
-3607,New Cambria,Saline County,38.879,-97.506
-3957,Peck,Sedgwick County,37.478,-97.369
-3989,Peru,Chautauqua County,37.089,-96.095
-3991,Peters,Kingman County,37.504,-98.297
-0249,Baileyville,Nemaha County,39.844,-96.185
-5209,Valley,Linn County,38.262,-94.691
-0800,Logan,Butler County,37.607,-96.790
-1526,Eagle,Kingman County,37.516,-97.974
-4518,Sheridan,Washington County,39.602,-97.195
-0335,Beaver,Republic County,39.690,-97.883
-2522,Horace,Greeley County,38.476,-101.791
-3116,Lyon,Cloud County,39.372,-97.763
-4750,Soldier,Jackson County,39.536,-95.964
-0478,Blakely,Geary County,38.924,-96.751
-0725,Fairview,Barton County,38.660,-98.974
-2304,Utica,Ness County,38.644,-100.170
-2901,Latham,Butler County,37.536,-96.642
-3327,Mentor,Saline County,38.741,-97.603
-4138,Richland,Kingman County,37.509,-98.083
-5182,Union Center,Elk County,37.526,-96.426
-5458,Wheaton,Pottawatomie County,39.502,-96.321
-0100,Alton,Osborne County,39.471,-98.948
-1065,Clear Creek,Ellsworth County,38.747,-98.112
-0381,Belpre,Edwards County,37.950,-99.100
-4016,Pierceville,Finney County,37.878,-100.677
-4443,Rozel,Pawnee County,38.196,-99.403
-0726,Green,Clay County,39.428,-97.002
-0794,Liberty,Montgomery County,37.156,-95.595
-3182,Mapleton,Bourbon County,38.015,-94.884
-2165,Hudson,Stafford County,38.106,-98.660
-5516,Williamstown,Jefferson County,39.063,-95.333
-4389,Rock,Cowley County,37.440,-97.006
-5303,Waldo,Russell County,39.053,-98.756
-5538,Windom,McPherson County,38.384,-97.910
-0777,Cambridge,Cowley County,37.316,-96.664
-4284,Redfield,Bourbon County,37.837,-94.881
-0813,Canton,Kingman County,37.434,-97.964
-4604,Sawyer,Pratt County,37.497,-98.682
-1740,Eureka,Kingman County,37.681,-98.298
-2434,Hickory,Butler County,37.610,-96.605
-1774,Fairplay,Marion County,38.239,-96.997
-3772,Odin,Barton County,38.566,-98.609
-4487,Russell,Russell County,38.914,-98.831
-5650,Zurich,Rooks County,39.234,-99.438
-0013,Ada,Ottawa County,39.151,-97.889
-0752,Durham,Marion County,38.486,-97.228
-4262,Raymond,Rice County,38.277,-98.416
-0843,Hazelton,Barber County,37.090,-98.398
-2505,Home,Marshall County,39.842,-96.520
-4087,Pleasant Valley,Pawnee County,38.044,-99.077
-5209,Valley,Kingman County,37.428,-98.081
-2027,Gaylord,Smith County,39.644,-98.848
-4306,Republic,Republic County,39.924,-97.822
-1419,Detroit,Dickinson County,38.935,-97.121
-4092,Plevna,Reno County,37.972,-98.309
-2366,Havana,Montgomery County,37.092,-95.942
-4715,Simpson,Cloud County,39.386,-97.934
-5620,Yale,Crawford County,37.484,-94.642
-2648,Jennings,Decatur County,39.679,-100.293
-4248,Randall,Jewell County,39.643,-98.045
-2718,Kendall,Kearny County,37.814,-101.343
-4243,Ramona,Marion County,38.597,-97.062
-0919,Center,Riley County,39.474,-96.876
-0929,Centerville,Linn County,38.221,-95.014
-1186,Coolidge,Hamilton County,38.042,-102.009
-3657,Newbury,Wabaunsee County,39.085,-96.175
-0919,Center,Ottawa County,39.067,-97.770
-4654,Severance,Doniphan County,39.767,-95.250
-2006,Huron,Atchison County,39.638,-95.352
-2966,Washington,Wabaunsee County,38.980,-96.442
-3248,Mayfield,Sumner County,37.258,-97.545
-5509,Willard,Shawnee County,39.094,-95.943
-2163,Grant,Sherman County,39.468,-101.954
-4442,Roseland,Cherokee County,37.281,-94.851
-3799,Olivet,Osage County,38.481,-95.752
-0388,Benedict,Wilson County,37.625,-95.751
-1420,Devon,Bourbon County,37.922,-94.819
-3437,Montana,Jewell County,39.965,-98.108
-4309,Reserve,Brown County,39.977,-95.562
-4996,Sycamore,Montgomery County,37.327,-95.716
-5529,Willowbrook,Reno County,38.102,-97.992
-2966,Washington,Sherman County,39.330,-101.559
-5646,Zenda,Kingman County,37.442,-98.282
-0289,Bartlett,Labette County,37.055,-95.211
-1109,Coats,Pratt County,37.512,-98.824
-2951,Levant,Thomas County,39.386,-101.195
-3322,Menlo,Thomas County,39.327,-100.781
-4871,Stark,Neosho County,37.690,-95.143
-0202,Athens,Jewell County,39.611,-98.331
-0919,Center,Chautauqua County,37.248,-96.310
-2615,Isabel,Barber County,37.467,-98.550
-2286,Pilsen,Marion County,38.471,-97.040
-0600,Bridgeport,Saline County,38.628,-97.613
-2221,Greenwich,Sedgwick County,37.783,-97.204
-4054,Piqua,Woodson County,37.923,-95.535
-4081,Pleasant Grove,Greenwood County,37.781,-96.035
-4712,Silverdale,Cowley County,37.042,-96.903
-2168,Sherman,Ellsworth County,38.828,-98.207
-2965,Union,Kingman County,37.591,-98.292
-2966,Washington,Republic County,39.960,-97.767
-3642,New Salem,Cowley County,37.311,-96.895
-3809,Oneida,Nemaha County,39.864,-95.939
-0276,Barnard,Lincoln County,39.191,-98.042
-1639,Elgin,Chautauqua County,37.005,-96.277
-2966,Washington,Jewell County,39.778,-98.107
-3455,Monument,Logan County,39.104,-101.007
-3678,Niles,Ottawa County,38.969,-97.463
-3596,New Albany,Wilson County,37.568,-95.938
-1705,Englewood,Clark County,37.038,-99.983
-2417,Herkimer,Marshall County,39.891,-96.711
-3065,Lost Springs,Marion County,38.566,-96.966
-5552,Winterset,Russell County,38.734,-98.993
-0226,Aurora,Cloud County,39.452,-97.527
-0919,Center,Decatur County,39.784,-100.460
-3361,Milan,Sumner County,37.260,-97.674
-3570,Nashville,Kingman County,37.442,-98.423
-0335,Beaver,Barton County,38.640,-98.667
-3575,Navarre,Dickinson County,38.797,-97.106
-4013,Piedmont,Greenwood County,37.624,-96.366
-4489,Russell Springs,Logan County,38.870,-101.261
-4717,Sinclair,Jewell County,39.870,-97.987
-0587,Bremen,Marshall County,39.901,-96.789
-2191,Hunter,Mitchell County,39.234,-98.397
-0059,Alexander,Rush County,38.469,-99.553
-0773,Calvin,Jewell County,39.706,-98.215
-0870,Limestone,Jewell County,39.779,-98.329
-3156,Manchester,Dickinson County,39.095,-97.325
-2007,Virgil,Greenwood County,37.981,-96.010
-0730,Highland,Jewell County,39.966,-98.450
-2841,Lake City,Barber County,37.353,-98.821
-4657,Seward,Stafford County,38.178,-98.795
-1063,Clayton,Decatur County,39.737,-100.176
-2381,Larrabee,Gove County,38.799,-100.253
-2551,Hunnewell,Sumner County,37.005,-97.405
-5311,Wallace,Wallace County,38.911,-101.592
-5390,Wells,Ottawa County,39.139,-97.551
-0030,Agenda,Republic County,39.708,-97.432
-0509,Bluff City,Harper County,37.076,-97.875
-1084,Climax,Greenwood County,37.720,-96.223
-2966,Washington,Smith County,39.872,-98.786
-4937,Stuttgart,Phillips County,39.799,-99.455
-1984,Galatia,Barton County,38.642,-98.959
-2168,Sherman,Ottawa County,39.263,-97.537
-0204,Athol,Smith County,39.765,-98.920
-2829,Lafayette,Chautauqua County,37.232,-96.159
-5269,Vining,Clay County,39.567,-97.294
-2886,Langdon,Reno County,37.854,-98.325
-2944,Leona,Doniphan County,39.787,-95.322
-1475,Doyle,Marion County,38.215,-96.878
-0738,Byers,Pratt County,37.788,-98.867
-0830,Carlton,Dickinson County,38.687,-97.293
-3290,McPherson,Sherman County,39.177,-101.943
-3549,Murdock,Kingman County,37.611,-97.931
-3579,Neal,Greenwood County,37.834,-96.080
-0333,Beaumont,Butler County,37.658,-96.533
-4138,Richland,Jewell County,39.879,-98.084
-4786,Speed,Phillips County,39.677,-99.421
-5533,Wilmore,Comanche County,37.336,-99.210
-1720,Erving,Jewell County,39.612,-98.449
-5342,Pleasant,Smith County,39.874,-98.896
-3910,Paradise,Russell County,39.114,-98.918
-0117,Ames,Cloud County,39.569,-97.442
-0762,Calhoun,Cheyenne County,39.928,-101.678
-2054,Harrison,Jewell County,39.966,-98.203
-2903,Latimer,Morris County,38.739,-96.846
-2010,Garland,Bourbon County,37.732,-94.623
-5200,Urbana,Neosho County,37.558,-95.399
-5221,White Rock,Smith County,39.865,-98.556
-1338,Danville,Harper County,37.286,-97.892
-1604,Edmond,Norton County,39.627,-99.823
-4328,Richfield,Morton County,37.266,-101.782
-1508,Dunlap,Morris County,38.576,-96.366
-2711,Kelly,Nemaha County,39.738,-96.003
-5377,Webber,Jewell County,39.935,-98.035
-3363,Mildred,Allen County,38.023,-95.174
-4623,Scottsville,Mitchell County,39.544,-97.953
-5252,Vicksburg,Jewell County,39.705,-97.996
-3746,Oak Hill,Clay County,39.248,-97.341
-4229,Radium,Stafford County,38.174,-98.893
-5520,Willis,Brown County,39.725,-95.506
-0644,Fairfield,Russell County,38.748,-98.754
-0299,Bassett,Allen County,37.903,-95.404
-0911,Cedar Point,Chase County,38.260,-96.820
-3773,Odessa,Jewell County,39.698,-98.431
-4087,Pleasant Valley,Decatur County,39.689,-100.233
-5369,Wayside,Montgomery County,37.125,-95.873
-1610,Edson,Sherman County,39.337,-101.541
-2600,Ionia,Jewell County,39.664,-98.347
-3732,Norway,Republic County,39.696,-97.774
-2168,Sherman,Decatur County,39.966,-100.450
-1588,Roxbury,McPherson County,38.551,-97.430
-5590,Woodruff,Phillips County,39.993,-99.426
-2285,Harris,Anderson County,38.319,-95.436
-5221,White Rock,Lane County,38.629,-100.314
-5305,Waldron,Harper County,37.002,-98.183
-1945,Frederick,Rice County,38.513,-98.268
-1953,Freeport,Harper County,37.197,-97.856
-0018,Adamsville,Sumner County,37.173,-97.176
-0133,Angola,Labette County,37.106,-95.449
-0145,Antelope,Marion County,38.436,-96.974
-0180,Arnold,Ness County,38.640,-100.046
-0194,Ashton,Sumner County,37.083,-97.239
-0271,Barclay,Osage County,38.577,-95.880
-0310,Bayard,Allen County,37.994,-95.163
-0359,Bellaire,Smith County,39.798,-98.676
-0384,Belvidere,Kiowa County,37.450,-99.080
-0423,Beulah,Crawford County,37.440,-94.828
-0439,Big Springs,Douglas County,39.013,-95.485
-0463,Black Wolf,Ellsworth County,38.758,-98.362
-0474,Blaine,Pottawatomie County,39.497,-96.403
-0488,Bloom,Ford County,37.486,-99.896
-0521,Bois d'Arc,Butler County,37.596,-96.925
-0570,Brainerd,Butler County,37.951,-97.095
-0799,Canada,Marion County,38.354,-97.113
-0832,Carlyle,Allen County,37.994,-95.391
-0889,Cato,Crawford County,37.668,-94.740
-1076,Clements,Chase County,38.300,-96.741
-1078,Cleveland,Kingman County,37.552,-98.134
-1085,Clinton,Douglas County,38.912,-95.391
-1125,Kimball,Neosho County,37.661,-95.164
-1182,Conway,McPherson County,38.369,-97.786
-1195,Corbin,Sumner County,37.126,-97.544
-1200,Corinth,Osborne County,39.416,-98.545
-1233,Covert,Osborne County,39.280,-98.811
-1325,Dalton,Sumner County,37.269,-97.272
-1359,De Graff,Butler County,37.981,-96.863
-1404,Denmark,Lincoln County,39.089,-98.287
-1408,Densmore,Norton County,39.638,-99.739
-1428,Diamond Springs,Morris County,38.557,-96.744
-1437,Dillon,Dickinson County,38.694,-97.147
-1455,Doniphan,Doniphan County,39.642,-95.081
-1469,Dover,Shawnee County,38.965,-95.938
-1495,Dubuque,Barton County,38.696,-98.609
-1542,Holland,Dickinson County,38.762,-97.279
-1674,Elmo,Dickinson County,38.684,-97.230
-1752,Ewell,Sumner County,37.340,-97.691
-1772,Fairmount,Leavenworth County,39.192,-94.936
-1775,Fairport,Russell County,39.046,-99.031
-1792,Riverdale,Sumner County,37.372,-97.390
-1920,Fostoria,Pottawatomie County,39.440,-96.508
-1962,Friend,Finney County,38.260,-100.911
-2031,Geneva,Allen County,38.017,-95.494
-2089,Glendale,Saline County,38.898,-97.875
-2101,Globe,Douglas County,38.782,-95.400
-2308,Harbine,Republic County,39.999,-97.768
-2425,Hesper,Douglas County,38.899,-95.075
-2492,Hollis,Cloud County,39.631,-97.552
-2507,Homer,Russell County,38.869,-98.797
-2584,Industry,Clay County,39.133,-97.171
-2718,Kendall,Hamilton County,37.935,-101.546
-2858,Lake View,Douglas County,39.017,-95.293
-2865,Lakeside Village,Jefferson County,39.175,-95.421
-2878,Lamont,Greenwood County,38.112,-96.027
-2989,Lindsey,Ottawa County,39.094,-97.678
-3035,Lone Star,Douglas County,38.867,-95.355
-3207,Marmaton,Bourbon County,37.832,-94.825
-3282,McLain,Harvey County,37.999,-97.263
-3376,Miller,Lyon County,38.634,-95.991
-3405,Mingo,Thomas County,39.278,-100.963
-3413,Mitchell,Rice County,38.384,-98.100
-3430,Monmouth,Crawford County,37.363,-94.937
-3438,Montara,Shawnee County,38.943,-95.703
-3586,Nekoma,Rush County,38.474,-99.442
-3836,Oronoque,Norton County,39.789,-100.025
-3937,Patterson,Harvey County,37.943,-97.655
-3944,Pauline,Shawnee County,38.963,-95.691
-3954,Pearl,Dickinson County,38.852,-97.044
-3988,Perth,Sumner County,37.175,-97.505
-3995,Petrolia,Allen County,37.746,-95.472
-4081,Pleasant Grove,Douglas County,38.856,-95.270
-4099,Plymouth,Lyon County,38.414,-96.332
-4113,Pollard,Rice County,38.450,-98.211
-4142,Portland,Sumner County,37.078,-97.312
-4202,Purcell,Doniphan County,39.681,-95.331
-4206,Putnam,Harvey County,37.969,-97.388
-4320,Rome,Sumner County,37.160,-97.391
-4322,Rice,Cloud County,39.572,-97.556
-4390,Rock Creek,Jefferson County,39.246,-95.537
-4606,Saxman,Rice County,38.281,-98.124
-4641,Seguin,Sheridan County,39.337,-100.595
-4719,Sitka,Clark County,37.175,-99.651
-4835,St. Joseph,Cloud County,39.510,-97.406
-4837,St. Leo,Kingman County,37.529,-98.410
-4896,Stickney,Barton County,38.638,-98.829
-4899,Stilwell,Johnson County,38.769,-94.656
-5061,Thompsonville,Jefferson County,39.106,-95.434
-5108,Toulon,Ellis County,38.852,-99.241
-5117,Traer,Decatur County,39.928,-100.666
-5234,Venango,Ellsworth County,38.639,-97.986
-5249,Vesper,Lincoln County,39.032,-98.280
-5271,Vinland,Douglas County,38.839,-95.182
-5292,Wadsworth,Leavenworth County,39.278,-94.900
-5308,Walker,Ellis County,38.867,-99.076
-5501,Wilburton,Morton County,37.074,-101.773
+1275,De Soto,Johnson County,38.972,-94.951
+3001,Maize,Sedgwick County,37.779,-97.467
+5060,Ulysses,Grant County,37.581,-101.355
+1049,Colby,Thomas County,39.396,-101.052
+1956,Goddard,Sedgwick County,37.660,-97.575
+1091,Concordia,Cloud County,39.571,-97.663
+2922,Louisburg,Miami County,38.619,-94.681
+1502,Edwardsville,Wyandotte County,39.061,-94.820
+1973,Goodland,Sherman County,39.351,-101.710
+4306,Rose Hill,Butler County,37.558,-97.135
+0990,Clay Center,Clay County,39.377,-97.125
+4483,Scott City,Scott County,38.483,-100.907
+3275,Mission Hills,Johnson County,39.018,-94.617
+2971,Lyons,Rice County,38.345,-98.202
+2254,Hesston,Harvey County,38.138,-97.431
+3084,Marysville,Marshall County,39.841,-96.647
+0372,Beloit,Mitchell County,39.456,-98.106
+1834,Frontenac,Crawford County,37.456,-94.689
+2332,Holton,Jackson County,39.465,-95.736
+2598,Kingman,Kingman County,37.646,-98.114
+1081,Columbus,Cherokee County,37.169,-94.844
+3596,Norton,Norton County,39.834,-99.892
+4716,St. Marys,Pottawatomie County,39.194,-96.064
+1851,Galena,Cherokee County,37.076,-94.640
+2291,Hillsboro,Marion County,38.352,-97.204
+1002,Clearwater,Sedgwick County,37.503,-97.504
+1927,Girard,Crawford County,37.511,-94.838
+4762,Sterling,Rice County,38.210,-98.207
+2313,Holcomb,Finney County,37.986,-100.989
+0917,Cheney,Sedgwick County,37.630,-97.783
+0928,Cherryvale,Montgomery County,37.270,-95.552
+4511,Seneca,Nemaha County,39.834,-96.064
+1814,Fredonia,Wilson County,37.534,-95.827
+2160,Herington,Dickinson County,38.697,-96.807
+0142,Anthony,Harper County,37.153,-98.031
+3627,Oakley,Gove County,39.123,-100.845
+3268,Minneapolis,Ottawa County,39.122,-97.707
+5280,Wellsville,Franklin County,38.718,-95.082
+3056,Marion,Marion County,38.348,-97.017
+1539,Elkhart,Morton County,37.008,-101.890
+4879,Syracuse,Hamilton County,37.981,-101.753
+3946,Plainville,Rooks County,39.235,-99.298
+0759,Caney,Montgomery County,37.011,-95.935
+1485,Edgerton,Johnson County,38.765,-95.008
+5338,Westwood,Johnson County,39.041,-94.617
+3723,Oswego,Cherokee County,37.168,-95.112
+4503,Sedgwick,Harvey County,37.918,-97.420
+2360,Horton,Brown County,39.661,-95.526
+3151,Meade,Meade County,37.286,-100.340
+2504,Johnson City,Stanton County,37.571,-101.751
+4779,Stockton,Rooks County,39.438,-99.265
+0893,Chapman,Dickinson County,38.972,-97.023
+0774,Carbondale,Osage County,38.819,-95.689
+3711,Osborne,Osborne County,39.439,-98.695
+2428,Inman,McPherson County,38.232,-97.773
+4697,St. Francis,Cheyenne County,39.772,-101.800
+2156,Harper,Harper County,37.287,-98.026
+2645,La Crosse,Rush County,38.531,-99.309
+3961,Pleasanton,Linn County,38.178,-94.711
+2371,Hoxie,Sheridan County,39.358,-100.442
+1573,Elwood,Doniphan County,39.756,-94.872
+5097,Valley Falls,Jefferson County,39.343,-95.460
+3543,Nickerson,Reno County,38.147,-98.084
+2836,Lyndon,Osage County,38.610,-95.684
+0095,Altamont,Labette County,37.190,-95.297
+3944,Plains,Meade County,37.260,-100.593
+4502,Sedan,Chautauqua County,37.127,-96.187
+3736,Overbrook,Osage County,38.781,-95.557
+4619,Solomon,Dickinson County,38.921,-97.369
+4218,Riley,Riley County,39.299,-96.831
+0687,Burlingame,Osage County,38.754,-95.835
+1342,Dighton,Lane County,38.482,-100.467
+5019,Troy,Doniphan County,39.783,-95.090
+3312,Montezuma,Gray County,37.596,-100.443
+0390,Benton,Butler County,37.789,-97.109
+4729,Stafford,Stafford County,37.962,-98.601
+3826,Peabody,Marion County,38.169,-97.107
+2273,Highland,Doniphan County,39.860,-95.270
+3988,Pomona,Franklin County,38.608,-95.452
+1857,Galva,McPherson County,38.382,-97.538
+3854,Perry,Jefferson County,39.076,-95.393
+3022,Mankato,Jewell County,39.787,-98.210
+5186,Wakefield,Clay County,39.213,-97.006
+0085,Alma,Wabaunsee County,39.017,-96.289
+3381,Mount Hope,Sedgwick County,37.869,-97.665
+0112,Americus,Lyon County,38.507,-96.262
+0187,Ashland,Clark County,37.189,-99.766
+4244,Riverton,Cherokee County,37.075,-94.705
+1804,Franklin,Crawford County,37.526,-94.706
+3269,Minneola,Clark County,37.443,-100.015
+3191,Meriden,Jefferson County,39.189,-95.570
+1803,Frankfort,Marshall County,39.706,-96.417
+5332,Westmoreland,Pottawatomie County,39.394,-96.414
+1598,Enterprise,Dickinson County,38.903,-97.117
+2057,Greensburg,Kiowa County,37.603,-99.293
+4911,Tecumseh,Shawnee County,39.048,-95.579
+1021,Clyde,Cloud County,39.591,-97.399
+2792,Leon,Butler County,37.690,-96.782
+5377,Whitewater,Butler County,37.965,-97.148
+5055,Udall,Cowley County,37.388,-97.114
+2197,Haviland,Kiowa County,37.619,-99.106
+3368,Mound City,Linn County,38.143,-94.814
+4488,Scranton,Osage County,38.782,-95.739
+0386,Bennington,Ottawa County,39.031,-97.594
+4721,St. Paul,Neosho County,37.519,-95.173
+2372,Hoyt,Jackson County,39.248,-95.706
+3597,Nortonville,Jefferson County,39.417,-95.334
+0921,Cherokee,Crawford County,37.346,-94.809
+5249,Waverly,Coffey County,38.394,-95.603
+0388,Bentley,Sedgwick County,37.886,-97.517
+5257,Weir,Cherokee County,37.310,-94.772
+1793,Fowler,Meade County,37.386,-100.196
+0208,Attica,Harper County,37.241,-98.227
+1503,Effingham,Atchison County,39.522,-95.401
+0875,Centralia,Nemaha County,39.726,-96.127
+2852,Little River,Rice County,38.398,-98.012
+2982,Macksville,Stafford County,37.959,-98.969
+3333,Moran,Allen County,37.916,-95.170
+1218,Cunningham,Kingman County,37.644,-98.431
+1010,Clifton,Clay County,39.568,-97.281
+5354,White City,Morris County,38.796,-96.736
+5431,Winchester,Jefferson County,39.322,-95.267
+1930,Glasco,Cloud County,39.357,-97.841
+3600,Norwich,Kingman County,37.457,-97.849
+4932,Thayer,Neosho County,37.493,-95.470
+0094,Alta Vista,Wabaunsee County,38.864,-96.489
+2846,Linwood,Leavenworth County,39.001,-95.039
+3408,Mulberry,Crawford County,37.557,-94.622
+2098,Gypsum,Saline County,38.706,-97.428
+2566,Kensington,Smith County,39.767,-99.032
+3227,Milford,Geary County,39.168,-96.913
+4805,Strong City,Chase County,38.397,-96.537
+0233,Axtell,Marshall County,39.872,-96.259
+0905,Chase,Rice County,38.355,-98.350
+2803,Lewis,Edwards County,37.936,-99.253
+1737,Florence,Marion County,38.244,-96.928
+1498,Edna,Labette County,37.060,-95.359
+1981,Gorham,Russell County,38.882,-99.023
+4291,Rolla,Morton County,37.120,-101.632
+1074,Colony,Anderson County,38.071,-95.366
+1281,Dearing,Montgomery County,37.059,-95.713
+3126,McCune,Crawford County,37.355,-95.017
+0086,Almena,Norton County,39.892,-99.707
+2496,Jewell,Jewell County,39.671,-98.154
+2219,Healy,Lane County,38.600,-100.617
+2170,Hartford,Lyon County,38.308,-95.956
+3106,Mayetta,Jackson County,39.339,-95.722
+0099,Altoona,Wilson County,37.524,-95.661
+0940,Chicopee,Crawford County,37.382,-94.742
+3257,Milton,Sumner County,37.432,-97.771
+2940,Lucas,Russell County,39.056,-98.536
+3287,Moline,Elk County,37.360,-96.304
+2068,Gridley,Coffey County,38.098,-95.884
+1306,Delphos,Ottawa County,39.274,-97.772
+0615,Bronson,Bourbon County,37.896,-95.073
+3725,Otis,Rush County,38.535,-99.053
+5073,Uniontown,Bourbon County,37.847,-94.975
+0580,Brewster,Thomas County,39.367,-101.377
+4876,Sylvan Grove,Lincoln County,39.009,-98.394
+3132,McFarland,Wabaunsee County,39.053,-96.238
+3362,Moscow,Stevens County,37.324,-101.206
+2031,Greeley,Anderson County,38.367,-95.127
+0158,Arcadia,Crawford County,37.642,-94.624
+2016,Grantville,Jefferson County,39.083,-95.561
+1534,Elk City,Montgomery County,37.289,-95.912
+4120,Ransom,Ness County,38.636,-99.934
+4053,Princeton,Franklin County,38.489,-95.275
+0628,Brookville,Saline County,38.775,-97.868
+2727,Lane,Franklin County,38.440,-95.082
+1661,Fairview,Brown County,39.841,-95.728
+3790,Parker,Linn County,38.328,-94.992
+2474,Jamestown,Cloud County,39.599,-97.861
+0691,Burns,Marion County,38.090,-96.886
+1891,Geneseo,Rice County,38.516,-98.157
+0667,Buffalo,Wilson County,37.710,-95.697
+0680,Burdett,Pawnee County,38.192,-99.527
+1748,Fontana,Miami County,38.426,-94.838
+1430,Dwight,Morris County,38.844,-96.593
+1123,Corning,Nemaha County,39.657,-96.029
+1464,Easton,Leavenworth County,39.345,-95.116
+4045,Prescott,Linn County,38.064,-94.696
+0031,Agra,Phillips County,39.762,-99.119
+0323,Beattie,Marshall County,39.861,-96.420
+4183,Rexford,Thomas County,39.472,-100.743
+5380,Whiting,Jackson County,39.590,-95.613
+2292,Hillsdale,Miami County,38.660,-94.850
+5185,Wakarusa,Shawnee County,38.886,-95.696
+4506,Selden,Sheridan County,39.541,-100.568
+4966,Tipton,Mitchell County,39.343,-98.471
+3343,Morganville,Clay County,39.466,-97.202
+2772,Lebanon,Smith County,39.810,-98.556
+2124,Hamilton,Greenwood County,37.979,-96.164
+0447,Bison,Rush County,38.523,-99.197
+4967,Tyro,Montgomery County,37.038,-95.821
+0202,Atlanta,Cowley County,37.436,-96.765
+4121,Rantoul,Franklin County,38.549,-95.100
+4117,Randolph,Riley County,39.431,-96.760
+2833,Lincolnville,Marion County,38.493,-96.960
+1844,Fulton,Bourbon County,38.010,-94.720
+0398,Bern,Nemaha County,39.962,-95.972
+5469,Woodbine,Dickinson County,38.796,-96.959
+0071,Allen,Lyon County,38.656,-96.170
+0965,Circleville,Jackson County,39.508,-95.859
+2460,Iuka,Pratt County,37.729,-98.735
+3124,McCracken,Rush County,38.581,-99.571
+1314,Dennis,Labette County,37.347,-95.413
+0507,Bogue,Graham County,39.363,-99.687
+1852,Galesburg,Neosho County,37.474,-95.359
+1311,Denison,Jackson County,39.392,-95.628
+2905,Lorraine,Ellsworth County,38.569,-98.317
+1210,Cuba,Republic County,39.803,-97.456
+2925,Louisville,Pottawatomie County,39.250,-96.315
+0417,Beverly,Lincoln County,39.013,-97.976
+1318,Denton,Doniphan County,39.733,-95.269
+0045,Albert,Barton County,38.453,-99.011
+1772,Fort Dodge,Ford County,37.732,-99.935
+4826,Summerfield,Marshall County,39.997,-96.350
+3769,Palmer,Washington County,39.632,-97.140
+4713,St. Marks,Sedgwick County,37.736,-97.562
+2248,Herndon,Rawlins County,39.910,-100.785
+0051,Alden,Rice County,38.242,-98.312
+1575,Elyria,McPherson County,38.291,-97.627
+4047,Preston,Pratt County,37.759,-98.553
+3783,Park,Gove County,39.113,-100.359
+1174,Crestline,Cherokee County,37.171,-94.704
+3128,McDonald,Rawlins County,39.786,-101.376
+3336,Morland,Graham County,39.349,-100.076
+5355,White Cloud,Doniphan County,39.976,-95.297
+4890,Talmage,Dickinson County,39.025,-97.261
+0831,Catharine,Ellis County,38.927,-99.217
+0912,Chautauqua,Chautauqua County,37.020,-96.177
+4894,Tampa,Marion County,38.547,-97.153
+0678,Bunker Hill,Russell County,38.876,-98.704
+2593,Kincaid,Anderson County,38.084,-95.154
+5507,Wright,Ford County,37.781,-99.892
+1959,Goff,Nemaha County,39.664,-95.932
+3474,New Cambria,Saline County,38.879,-97.506
+3830,Peck,Sedgwick County,37.478,-97.369
+3862,Peru,Chautauqua County,37.089,-96.095
+0243,Baileyville,Nemaha County,39.844,-96.185
+2354,Horace,Greeley County,38.476,-101.791
+4617,Soldier,Jackson County,39.536,-95.964
+2746,Latham,Butler County,37.536,-96.642
+3185,Mentor,Saline County,38.741,-97.603
+5085,Utica,Ness County,38.644,-100.170
+5346,Wheaton,Pottawatomie County,39.502,-96.321
+0097,Alton,Osborne County,39.471,-98.948
+0373,Belpre,Edwards County,37.950,-99.100
+3888,Pierceville,Finney County,37.878,-100.677
+4310,Rozel,Pawnee County,38.196,-99.403
+2032,Green,Clay County,39.428,-97.002
+2813,Liberty,Montgomery County,37.156,-95.595
+3041,Mapleton,Bourbon County,38.015,-94.884
+2377,Hudson,Stafford County,38.106,-98.660
+5408,Williamstown,Jefferson County,39.063,-95.333
+4257,Rock,Cowley County,37.440,-97.006
+5432,Windom,McPherson County,38.384,-97.910
+0737,Cambridge,Cowley County,37.316,-96.664
+4152,Redfield,Bourbon County,37.837,-94.881
+4466,Sawyer,Pratt County,37.497,-98.682
+3641,Odin,Barton County,38.566,-98.609
+5549,Zurich,Rooks County,39.234,-99.438
+0012,Ada,Ottawa County,39.151,-97.889
+1425,Durham,Marion County,38.486,-97.228
+4130,Raymond,Rice County,38.277,-98.416
+2213,Hazelton,Barber County,37.090,-98.398
+2336,Home,Marshall County,39.842,-96.520
+1888,Gaylord,Smith County,39.644,-98.848
+4174,Republic,Republic County,39.924,-97.822
+1327,Detroit,Dickinson County,38.935,-97.121
+3964,Plevna,Reno County,37.972,-98.309
+2193,Havana,Montgomery County,37.092,-95.942
+4582,Simpson,Cloud County,39.386,-97.934
+5519,Yale,Crawford County,37.484,-94.642
+2487,Jennings,Decatur County,39.679,-100.293
+4115,Randall,Jewell County,39.643,-98.045
+4110,Ramona,Marion County,38.597,-97.062
+0870,Centerville,Linn County,38.221,-95.014
+1103,Coolidge,Hamilton County,38.042,-102.009
+3524,Newbury,Wabaunsee County,39.085,-96.175
+4518,Severance,Doniphan County,39.767,-95.250
+2395,Huron,Atchison County,39.638,-95.352
+3107,Mayfield,Sumner County,37.258,-97.545
+5401,Willard,Shawnee County,39.094,-95.943
+4309,Roseland,Cherokee County,37.281,-94.851
+3668,Olivet,Osage County,38.481,-95.752
+0380,Benedict,Wilson County,37.625,-95.751
+1328,Devon,Bourbon County,37.922,-94.819
+4177,Reserve,Brown County,39.977,-95.562
+4872,Sycamore,Montgomery County,37.327,-95.716
+5422,Willowbrook,Reno County,38.102,-97.992
+5545,Zenda,Kingman County,37.442,-98.282
+0281,Bartlett,Labette County,37.055,-95.211
+1033,Coats,Pratt County,37.512,-98.824
+2800,Levant,Thomas County,39.386,-101.195
+4746,Stark,Neosho County,37.690,-95.143
+2452,Isabel,Barber County,37.467,-98.550
+3897,Pilsen,Marion County,38.471,-97.040
+0589,Bridgeport,Saline County,38.628,-97.613
+2061,Greenwich,Sedgwick County,37.783,-97.204
+3927,Piqua,Woodson County,37.923,-95.535
+4579,Silverdale,Cowley County,37.042,-96.903
+3509,New Salem,Cowley County,37.311,-96.895
+3678,Oneida,Nemaha County,39.864,-95.939
+0268,Barnard,Lincoln County,39.191,-98.042
+1526,Elgin,Chautauqua County,37.005,-96.277
+3321,Monument,Logan County,39.104,-101.007
+3545,Niles,Ottawa County,38.969,-97.463
+3463,New Albany,Wilson County,37.568,-95.938
+1592,Englewood,Clark County,37.038,-99.983
+2243,Herkimer,Marshall County,39.891,-96.711
+2918,Lost Springs,Marion County,38.566,-96.966
+0221,Aurora,Cloud County,39.452,-97.527
+3222,Milan,Sumner County,37.260,-97.674
+3438,Nashville,Kingman County,37.442,-98.423
+0327,Beaver,Barton County,38.640,-98.667
+3443,Navarre,Dickinson County,38.797,-97.106
+3885,Piedmont,Greenwood County,37.624,-96.366
+0576,Bremen,Marshall County,39.901,-96.789
+2388,Hunter,Mitchell County,39.234,-98.397
+0057,Alexander,Rush County,38.469,-99.553
+3013,Manchester,Dickinson County,39.095,-97.325
+5161,Virgil,Greenwood County,37.981,-96.010
+2683,Lake City,Barber County,37.353,-98.821
+4521,Seward,Stafford County,38.178,-98.795
+0994,Clayton,Decatur County,39.737,-100.176
+2386,Hunnewell,Sumner County,37.005,-97.405
+5199,Wallace,Wallace County,38.911,-101.592
+5277,Wells,Ottawa County,39.139,-97.551
+0029,Agenda,Republic County,39.708,-97.432
+0499,Bluff City,Harper County,37.076,-97.875
+1011,Climax,Greenwood County,37.720,-96.223
+4810,Stuttgart,Phillips County,39.799,-99.455
+1850,Galatia,Barton County,38.642,-98.959
+0199,Athol,Smith County,39.765,-98.920
+5155,Vining,Clay County,39.567,-97.294
+2730,Langdon,Reno County,37.854,-98.325
+2793,Leona,Doniphan County,39.787,-95.322
+0707,Byers,Pratt County,37.788,-98.867
+0779,Carlton,Dickinson County,38.687,-97.293
+3416,Murdock,Kingman County,37.611,-97.931
+3447,Neal,Greenwood County,37.834,-96.080
+0325,Beaumont,Butler County,37.658,-96.533
+4657,Speed,Phillips County,39.677,-99.421
+5425,Wilmore,Comanche County,37.336,-99.210
+3781,Paradise,Russell County,39.114,-98.918
+0113,Ames,Cloud County,39.569,-97.442
+2748,Latimer,Morris County,38.739,-96.846
+1871,Garland,Bourbon County,37.732,-94.623
+5084,Urbana,Neosho County,37.558,-95.399
+1256,Danville,Harper County,37.286,-97.892
+1494,Edmond,Norton County,39.627,-99.823
+4197,Richfield,Morton County,37.266,-101.782
+1415,Dunlap,Morris County,38.576,-96.366
+2551,Kelly,Nemaha County,39.738,-96.003
+5264,Webber,Jewell County,39.935,-98.035
+3224,Mildred,Allen County,38.023,-95.174
+4486,Scottsville,Mitchell County,39.544,-97.953
+3613,Oak Hill,Clay County,39.248,-97.341
+4096,Radium,Stafford County,38.174,-98.893
+5412,Willis,Brown County,39.725,-95.506
+0291,Bassett,Allen County,37.903,-95.404
+0854,Cedar Point,Chase County,38.260,-96.820
+5256,Wayside,Montgomery County,37.125,-95.873
+1500,Edson,Sherman County,39.337,-101.541
+2437,Ionia,Jewell County,39.664,-98.347
+3599,Norway,Republic County,39.696,-97.774
+4336,Roxbury,McPherson County,38.551,-97.430
+5488,Woodruff,Phillips County,39.993,-99.426
+2161,Harris,Anderson County,38.319,-95.436
+5191,Waldron,Harper County,37.002,-98.183
+1811,Frederick,Rice County,38.513,-98.268
+1819,Freeport,Harper County,37.197,-97.856
+0017,Adamsville,Sumner County,37.173,-97.176
+0129,Angola,Labette County,37.106,-95.449
+0141,Antelope,Marion County,38.436,-96.974
+0176,Arnold,Ness County,38.640,-100.046
+0189,Ashton,Sumner County,37.083,-97.239
+0263,Barclay,Osage County,38.577,-95.880
+0302,Bayard,Allen County,37.994,-95.163
+0351,Bellaire,Smith County,39.798,-98.676
+0376,Belvidere,Kiowa County,37.450,-99.080
+0415,Beulah,Crawford County,37.440,-94.828
+0431,Big Springs,Douglas County,39.013,-95.485
+0455,Black Wolf,Ellsworth County,38.758,-98.362
+0465,Blaine,Pottawatomie County,39.497,-96.403
+0479,Bloom,Ford County,37.486,-99.896
+0511,Bois d'Arc,Butler County,37.596,-96.925
+0560,Brainerd,Butler County,37.951,-97.095
+0752,Canada,Marion County,38.354,-97.113
+0781,Carlyle,Allen County,37.994,-95.391
+0833,Cato,Crawford County,37.668,-94.740
+1005,Clements,Chase County,38.300,-96.741
+1007,Cleveland,Kingman County,37.552,-98.134
+1012,Clinton,Douglas County,38.912,-95.391
+1099,Conway,McPherson County,38.369,-97.786
+1112,Corbin,Sumner County,37.126,-97.544
+1117,Corinth,Osborne County,39.416,-98.545
+1150,Covert,Osborne County,39.280,-98.811
+1243,Dalton,Sumner County,37.269,-97.272
+1273,De Graff,Butler County,37.981,-96.863
+1312,Denmark,Lincoln County,39.089,-98.287
+1316,Densmore,Norton County,39.638,-99.739
+1336,Diamond Springs,Morris County,38.557,-96.744
+1345,Dillon,Dickinson County,38.694,-97.147
+1363,Doniphan,Doniphan County,39.642,-95.081
+1377,Dover,Shawnee County,38.965,-95.938
+1402,Dubuque,Barton County,38.696,-98.609
+1562,Elmo,Dickinson County,38.684,-97.230
+1639,Ewell,Sumner County,37.340,-97.691
+1658,Fairmount,Leavenworth County,39.192,-94.936
+1660,Fairport,Russell County,39.046,-99.031
+1786,Fostoria,Pottawatomie County,39.440,-96.508
+1828,Friend,Finney County,38.260,-100.911
+1892,Geneva,Allen County,38.017,-95.494
+1943,Glendale,Saline County,38.898,-97.875
+1954,Globe,Douglas County,38.782,-95.400
+2141,Harbine,Republic County,39.999,-97.768
+2252,Hesper,Douglas County,38.899,-95.075
+2317,Holland,Dickinson County,38.762,-97.279
+2322,Hollis,Cloud County,39.631,-97.552
+2338,Homer,Russell County,38.869,-98.797
+2421,Industry,Clay County,39.133,-97.171
+2558,Kendall,Hamilton County,37.935,-101.546
+2591,Kimball,Neosho County,37.661,-95.164
+2700,Lake View,Douglas County,39.017,-95.293
+2709,Lakeside Village,Jefferson County,39.175,-95.421
+2721,Lamont,Greenwood County,38.112,-96.027
+2838,Lindsey,Ottawa County,39.094,-97.678
+2887,Lone Star,Douglas County,38.867,-95.355
+3142,McLain,Harvey County,37.999,-97.263
+3237,Miller,Lyon County,38.634,-95.991
+3267,Mingo,Thomas County,39.278,-100.963
+3277,Mitchell,Rice County,38.384,-98.100
+3294,Monmouth,Crawford County,37.363,-94.937
+3303,Montara,Shawnee County,38.943,-95.703
+3705,Oronoque,Norton County,39.789,-100.025
+3810,Patterson,Harvey County,37.943,-97.655
+3817,Pauline,Shawnee County,38.963,-95.691
+3827,Pearl,Dickinson County,38.852,-97.044
+3861,Perth,Sumner County,37.175,-97.505
+3868,Petrolia,Allen County,37.746,-95.472
+3953,Pleasant Grove,Douglas County,38.856,-95.270
+3969,Plymouth,Lyon County,38.414,-96.332
+3983,Pollard,Rice County,38.450,-98.211
+4010,Portland,Sumner County,37.078,-97.312
+4069,Purcell,Doniphan County,39.681,-95.331
+4073,Putnam,Harvey County,37.969,-97.388
+4188,Rome,Sumner County,37.160,-97.391
+4190,Rice,Cloud County,39.572,-97.556
+4241,Riverdale,Sumner County,37.372,-97.390
+4258,Rock Creek,Jefferson County,39.246,-95.537
+4468,Saxman,Rice County,38.281,-98.124
+4504,Seguin,Sheridan County,39.337,-100.595
+4586,Sitka,Clark County,37.175,-99.651
+4707,St. Joseph,Cloud County,39.510,-97.406
+4709,St. Leo,Kingman County,37.529,-98.410
+4770,Stickney,Barton County,38.638,-98.829
+4773,Stilwell,Johnson County,38.769,-94.656
+4941,Thompsonville,Jefferson County,39.106,-95.434
+4989,Toulon,Ellis County,38.852,-99.241
+4999,Traer,Decatur County,39.928,-100.666
+5119,Venango,Ellsworth County,38.639,-97.986
+5134,Vesper,Lincoln County,39.032,-98.280
+5156,Vinland,Douglas County,38.839,-95.182
+5178,Wadsworth,Leavenworth County,39.278,-94.900
+5195,Walker,Ellis County,38.867,-99.076
+5393,Wilburton,Morton County,37.074,-101.773

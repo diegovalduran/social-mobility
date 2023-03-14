@@ -1,13 +1,12 @@
 id,name,state,county,country,level,population,latitude,longitude,wiki
-27,Aberdeen,,,United Kingdom,city-international,200680,57.150,-2.110,57023
-22,Aberdeen,NJ,Monmouth County,,city-us,19327,40.430,-74.225,19995
-20,Aberdeen,WA,Grays Harbor County,,city-us,17191,46.975,-123.816,13818
-21,Aberdeen,MD,Harford County,,city-us,16889,39.510,-76.164,12633
-25,Aberdeen,NC,Moore County,,city-us,9036,35.132,-79.429,4484
-24,Aberdeen,MS,Monroe County,,city-us,4856,33.825,-88.544,6913
-26,Aberdeen,IN,Porter County,,city-us,1955,41.439,-87.111,472
+26,Aberdeen,,,United Kingdom,city-international,200680,57.150,-2.110,57023
+21,Aberdeen,NJ,Monmouth County,,city-us,19327,40.430,-74.225,19995
+19,Aberdeen,WA,Grays Harbor County,,city-us,17191,46.975,-123.816,13818
+20,Aberdeen,MD,Harford County,,city-us,16889,39.510,-76.164,12633
+24,Aberdeen,NC,Moore County,,city-us,9036,35.132,-79.429,4484
+23,Aberdeen,MS,Monroe County,,city-us,4856,33.825,-88.544,6913
+25,Aberdeen,IN,Porter County,,city-us,1955,41.439,-87.111,472
 16,Aberdeen,ID,Bingham County,,city-us,1797,42.944,-112.838,3975
 17,Aberdeen,OH,Brown County,,city-us,1517,38.656,-83.761,3653
-18,Aberdeen,SD,Brown County,,city-us,896,45.454,-98.521,128
-19,Aberdeen,KY,Butler County,,city-us,0,37.254,-86.682,679
-23,Aberdeen,AR,Monroe County,,city-us,0,34.603,-91.342,919
+18,Aberdeen,KY,Butler County,,city-us,0,37.254,-86.682,679
+22,Aberdeen,AR,Monroe County,,city-us,0,34.603,-91.342,919

@@ -1,898 +1,897 @@
 phoneme,name,county,latitude,longitude
-4000,Philadelphia,Philadelphia County,39.952,-75.164
-0809,Pittsburgh,Allegheny County,40.441,-79.996
-0079,Allentown,Lehigh County,40.608,-75.490
-4269,Reading,Berks County,40.336,-75.927
-1053,Erie,Erie County,42.129,-80.085
-4625,Scranton,Lackawanna County,41.409,-75.662
-0421,Bethlehem,Lehigh County,40.626,-75.368
-2880,Lancaster,Lancaster County,40.038,-76.306
-2953,Levittown,Bucks County,40.155,-74.829
-2328,Harrisburg,Dauphin County,40.274,-76.884
-5630,York,York County,39.963,-76.728
-0102,Altoona,Blair County,40.519,-78.395
-0999,Chichester,Delaware County,39.835,-75.444
-0843,Hazleton,Luzerne County,40.958,-75.975
-3433,Monroeville,Allegheny County,40.421,-79.788
-1564,Easton,Northampton County,40.688,-75.221
-5514,Williamsport,Lycoming County,41.241,-77.001
-4094,Plum,Allegheny County,40.500,-79.749
-1546,Lebanon,Lebanon County,40.341,-76.411
-3610,New Castle,Lawrence County,41.004,-80.347
-0255,Baldwin,Allegheny County,40.338,-79.979
-0832,Carlisle,Cumberland County,40.201,-77.189
-5405,West Chester,Chester County,39.961,-75.605
-2668,Johnstown,Cambria County,40.327,-78.922
-2302,Hanover,York County,39.801,-76.983
-2418,Hermitage,Mercer County,41.233,-80.449
-1977,Fullerton,Lehigh County,40.632,-75.473
-1939,Franklin Park,Allegheny County,40.583,-80.088
-2217,Greensburg,Westmoreland County,40.301,-79.539
-5478,Whitehall,Allegheny County,40.361,-79.991
-2424,Hershey,Dauphin County,40.286,-76.650
-0167,Ardmore,Delaware County,40.003,-75.295
-1511,Dunmore,Lackawanna County,41.420,-75.632
-5526,Willow Grove,Montgomery County,40.144,-75.116
-1714,Ephrata,Lancaster County,40.180,-76.179
-5618,Wynnewood,Montgomery County,40.003,-75.271
-2581,Indiana,Indiana County,40.621,-79.153
-4155,Pottsville,Schuylkill County,40.686,-76.195
-1108,Coatesville,Chester County,39.983,-75.824
-2966,Washington,Washington County,40.174,-80.246
-4665,Sharon,Mercer County,41.233,-80.493
-3297,Meadville,Crawford County,41.641,-80.151
-4256,St. Marys,Elk County,41.428,-78.561
-1645,Elizabethtown,Lancaster County,40.153,-76.603
-4191,Progress,Dauphin County,40.285,-76.831
-4689,Shiloh,York County,39.978,-76.797
-2889,Lansdowne,Delaware County,39.938,-75.272
-5366,Waynesboro,Franklin County,39.756,-77.578
-3563,Nanticoke,Luzerne County,41.205,-76.005
-3718,Northampton,Northampton County,40.686,-75.497
-0414,Berwick,Columbia County,41.055,-76.233
-5587,Woodlyn,Delaware County,39.877,-75.344
-1150,Columbia,Lancaster County,40.034,-76.504
-0589,Brentwood,Allegheny County,40.371,-79.975
-1282,Croydon,Bucks County,40.087,-74.903
-0614,Bristol,Bucks County,40.101,-74.852
-5189,Uniontown,Fayette County,39.900,-79.716
-3489,Morrisville,Bucks County,40.212,-74.788
-4962,Sunbury,Northumberland County,40.863,-76.794
-1584,Middletown,Dauphin County,40.200,-76.731
-3299,Mechanicsburg,Cumberland County,40.214,-77.009
-3780,Oil City,Venango County,41.434,-79.706
-4209,Quakertown,Bucks County,40.442,-75.342
-5331,Warren,Warren County,41.844,-79.145
-1578,Economy,Beaver County,40.600,-80.225
-0220,Audubon,Montgomery County,40.128,-75.432
-0825,Carbondale,Lackawanna County,41.574,-75.502
-3786,Old Forge,Lackawanna County,41.371,-75.735
-2957,Lewistown,Mifflin County,40.599,-77.571
-1877,Folsom,Delaware County,39.890,-75.325
-4083,Pleasant Hills,Allegheny County,40.336,-79.961
-1476,Doylestown,Bucks County,40.310,-75.130
-0631,Brookhaven,Delaware County,39.869,-75.382
-5341,Wilson,Northampton County,40.684,-75.242
-0367,Bellevue,Allegheny County,40.494,-80.052
-0781,Camp Hill,Cumberland County,40.240,-76.920
-3923,Parkville,York County,39.781,-76.963
-0837,Carnegie,Allegheny County,40.409,-80.083
-2904,Latrobe,Westmoreland County,40.321,-79.379
-2238,Grove City,Mercer County,41.158,-80.089
-3900,Palmyra,Lebanon County,40.309,-76.593
-2166,Leola,Lancaster County,40.088,-76.185
-0566,Bradford,McKean County,41.956,-78.644
-3379,Millersville,Lancaster County,39.998,-76.354
-4063,Pittston,Luzerne County,41.326,-75.789
-3614,New Cumberland,Cumberland County,40.232,-76.885
-5471,White Oak,Allegheny County,40.338,-79.809
-5627,Yellow Springs,Chester County,40.100,-75.623
-1584,Middletown,Northampton County,40.644,-75.332
-1494,DuBois,Clearfield County,41.119,-78.760
-2050,Gettysburg,Adams County,39.831,-77.231
-1178,Connellsville,Fayette County,40.018,-79.589
-2554,Huntingdon,Huntingdon County,40.485,-78.010
-0111,Ambler,Montgomery County,40.155,-75.222
-0478,Blakely,Lackawanna County,41.481,-75.595
-3395,Milton,Northumberland County,41.012,-76.848
-4494,Rutherford,Dauphin County,40.269,-76.768
-4278,Red Lion,York County,39.901,-76.606
-4193,Prospect Park,Delaware County,39.888,-75.308
-0175,Arlington Heights,Monroe County,40.990,-75.216
-1894,Forest Hills,Allegheny County,40.420,-79.850
-1842,Taylor,Lackawanna County,41.395,-75.707
-1915,Fort Washington,Montgomery County,40.142,-75.209
-1211,Corry,Erie County,41.920,-79.640
-0363,Bellefonte,Centre County,40.913,-77.778
-1938,Franklin,Venango County,41.398,-79.831
-1708,Enola,Cumberland County,40.290,-76.934
-3578,Nazareth,Northampton County,40.740,-75.310
-2061,Gilbertsville,Montgomery County,40.320,-75.610
-1238,Crafton,Allegheny County,40.435,-80.066
-0951,Somerset,Somerset County,40.008,-79.078
-1070,Clearfield,Clearfield County,41.027,-78.439
-3734,Norwood,Delaware County,39.892,-75.300
-1022,Churchville,Bucks County,40.186,-75.019
-3909,Paoli,Chester County,40.042,-75.476
-3625,New Holland,Lancaster County,40.102,-76.085
-4099,Plymouth,Luzerne County,41.240,-75.945
-3876,Oxford,Chester County,39.785,-75.979
-3509,Mount Carmel,Northumberland County,40.797,-76.412
-3605,New Brighton,Beaver County,40.730,-80.310
-1755,Exeter,Luzerne County,41.321,-75.819
-2220,Greenville,Mercer County,41.404,-80.391
-0764,California,Washington County,40.066,-79.892
-4608,Sayre,Bradford County,41.979,-76.516
-5170,Tyrone,Blair County,40.671,-78.239
-1536,Eagleville,Montgomery County,40.160,-75.408
-5487,Whitfield,Berks County,40.336,-76.006
-2955,Lewisburg,Union County,40.965,-76.884
-5088,Titusville,Crawford County,41.627,-79.674
-1514,Duquesne,Allegheny County,40.381,-79.860
-0263,Bangor,Northampton County,40.866,-75.207
-5429,West York,York County,39.953,-76.751
-3160,Manheim,Lancaster County,40.163,-76.395
-0600,Bridgeport,Montgomery County,40.105,-75.345
-5444,Westmont,Cambria County,40.316,-78.952
-5033,Telford,Bucks County,40.326,-75.327
-1612,Edwardsville,Luzerne County,41.270,-75.916
-1601,Edinboro,Erie County,41.874,-80.132
-1924,Fountain Hill,Lehigh County,40.601,-75.395
-0975,Cheltenham,Montgomery County,40.061,-75.094
-4946,Sugarcreek,Venango County,41.421,-79.881
-0604,Bridgeville,Allegheny County,40.356,-80.110
-0180,Arnold,Westmoreland County,40.580,-79.767
-0230,Avalon,Allegheny County,40.501,-80.068
-2940,Lemoyne,Cumberland County,40.241,-76.894
-3053,Lorane,Berks County,40.288,-75.855
-1209,Cornwall,Lebanon County,40.274,-76.406
-2654,Jessup,Lackawanna County,41.469,-75.562
-0335,Beaver,Beaver County,40.695,-80.305
-3403,Minersville,Schuylkill County,40.691,-76.262
-0749,Hamburg,Berks County,40.556,-75.982
-4621,Scottdale,Westmoreland County,40.100,-79.587
-3252,Maytown,Lancaster County,40.075,-76.582
-4718,Sinking Spring,Berks County,40.327,-76.011
-4680,Shenandoah,Schuylkill County,40.820,-76.201
-1812,Farrell,Mercer County,41.212,-80.497
-4668,Sharpsville,Mercer County,41.259,-80.472
-0956,Charleroi,Washington County,40.138,-79.898
-3519,Mount Pleasant,Westmoreland County,40.149,-79.541
-2209,Greencastle,Franklin County,39.790,-77.728
-1338,Danville,Montour County,40.963,-76.613
-0039,Akron,Lancaster County,40.157,-76.202
-5070,Throop,Lackawanna County,41.451,-75.612
-3334,Meridian,Butler County,40.848,-79.962
-4444,Rosemont,Delaware County,40.031,-75.327
-2075,Gladwyne,Montgomery County,40.033,-75.283
-5120,Trappe,Montgomery County,40.199,-75.476
-4348,Ridgway,Elk County,41.420,-78.729
-0641,Brookville,Jefferson County,41.161,-79.083
-5367,Waynesburg,Greene County,39.896,-80.179
-1943,Frazer,Chester County,40.032,-75.556
-3725,Northumberland,Northumberland County,40.892,-76.797
-1038,Clarion,Clarion County,41.215,-79.385
-0242,Baden,Beaver County,40.635,-80.228
-2614,Irwin,Westmoreland County,40.325,-79.701
-1641,Elim,Cambria County,40.298,-78.943
-5061,Thompsonville,Washington County,40.291,-80.108
-1951,Freeland,Luzerne County,41.017,-75.897
-1411,Denver,Lancaster County,40.233,-76.137
-5064,Thorndale,Chester County,39.993,-75.745
-5059,Thomasville,York County,39.895,-76.850
-0415,Berwyn,Chester County,40.045,-75.439
-4919,Stowe,Montgomery County,40.253,-75.677
-2065,Guilford,Franklin County,39.917,-77.599
-2222,Greenwood,Blair County,40.536,-78.358
-3168,Manor,Westmoreland County,40.334,-79.670
-2813,La Mott,Montgomery County,40.068,-75.141
-2359,Hatfield,Montgomery County,40.280,-75.299
-4795,Spring City,Chester County,40.177,-75.548
-4388,Rochester,Beaver County,40.702,-80.286
-3152,Malvern,Chester County,40.036,-75.514
-0651,Brownstown,Lancaster County,40.124,-76.214
-1731,Etna,Allegheny County,40.504,-79.949
-4804,Springdale,Allegheny County,40.541,-79.784
-2589,Ingram,Allegheny County,40.446,-80.068
-4082,Pleasant Hill,Lebanon County,40.336,-76.442
-5118,Trafford,Allegheny County,40.385,-79.758
-2067,Gillett,Bradford County,41.951,-76.794
-0520,Boiling Springs,Cumberland County,40.150,-77.128
-0477,Blairsville,Indiana County,40.431,-79.261
-0929,Centerville,Washington County,40.045,-79.976
-3229,Masontown,Fayette County,39.847,-79.900
-5573,Woodbourne,Bucks County,40.192,-74.889
-4876,State Line,Franklin County,39.725,-77.724
-5217,Valley View,York County,39.950,-76.701
-4667,Sharpsburg,Allegheny County,40.495,-79.926
-1021,Churchill,Allegheny County,40.438,-79.843
-5619,Wyoming,Luzerne County,41.312,-75.837
-1598,Edgewood,Allegheny County,40.432,-79.881
-1333,Danielsville,Northampton County,40.794,-75.527
-2996,Linwood,Delaware County,39.827,-75.425
-4057,Pitcairn,Allegheny County,40.403,-79.778
-5197,Upland,Delaware County,39.853,-75.383
-3313,Melrose Park,Montgomery County,40.062,-75.132
-3537,Mountville,Lancaster County,40.039,-76.431
-3196,Marietta,Lancaster County,40.057,-76.552
-0379,Belmont,Cambria County,40.287,-78.889
-0725,Fairview,Erie County,42.031,-80.255
-5183,Union City,Erie County,41.900,-79.845
-2841,Lake City,Erie County,42.014,-80.345
-2383,Hayti,Chester County,39.983,-75.841
-5567,Womelsdorf,Berks County,40.362,-76.184
-2509,Homestead,Allegheny County,40.406,-79.912
-0196,Aspinwall,Allegheny County,40.491,-79.905
-5592,Woodside,Bucks County,40.222,-74.875
-4212,Quarryville,Lancaster County,39.897,-76.164
-3170,Mansfield,Tioga County,41.807,-77.077
-1884,Ford City,Armstrong County,40.772,-79.530
-0303,Bath,Northampton County,40.726,-75.394
-5110,Towanda,Bradford County,41.768,-76.443
-3156,Manchester,York County,40.063,-76.718
-2057,Gibsonia,Allegheny County,40.630,-79.969
-4001,Philipsburg,Centre County,40.896,-78.221
-0556,Bowmansville,Lancaster County,40.197,-76.017
-2275,Hallam,York County,40.005,-76.604
-5409,West Grove,Chester County,39.822,-75.827
-1820,Fayetteville,Franklin County,39.911,-77.550
-3606,New Britain,Bucks County,40.299,-75.181
-4820,St. Clair,Schuylkill County,40.721,-76.191
-3492,Morton,Delaware County,39.910,-75.324
-2573,Imperial,Allegheny County,40.450,-80.245
-3107,Luzerne,Luzerne County,41.286,-75.901
-4037,Pine Ridge,Pike County,41.146,-74.991
-0785,Marysville,Perry County,40.343,-76.930
-3626,New Hope,Bucks County,40.364,-74.951
-4404,Rockledge,Montgomery County,40.081,-75.090
-1318,Derry,Westmoreland County,40.334,-79.300
-4091,Pleasureville,York County,39.997,-76.707
-4558,Sand Hill,Lebanon County,40.360,-76.432
-0193,Ashley,Luzerne County,41.210,-75.897
-1616,Egypt,Lehigh County,40.680,-75.530
-1397,Delmont,Westmoreland County,40.413,-79.570
-3554,Muse,Washington County,40.293,-80.200
-1513,Dupont,Luzerne County,41.325,-75.745
-3377,Millersburg,Dauphin County,40.540,-76.961
-0235,Avoca,Luzerne County,41.340,-75.736
-4274,Red Hill,Montgomery County,40.373,-75.481
-2883,Landisville,Lancaster County,40.095,-76.410
-0192,Ashland,Columbia County,40.781,-76.345
-3256,McAdoo,Schuylkill County,40.910,-75.991
-5247,Verona,Allegheny County,40.506,-79.843
-1102,Coaldale,Schuylkill County,40.823,-75.907
-3544,Muncy,Lycoming County,41.206,-76.786
-3233,Matamoras,Pike County,41.369,-74.700
-3798,Oliver,Fayette County,39.919,-79.718
-5647,Zion,Centre County,40.914,-77.685
-2073,Midland,Beaver County,40.633,-80.446
-4961,Sun Valley,Monroe County,40.980,-75.466
-2665,Johnsonburg,Elk County,41.491,-78.675
-2329,Spring Grove,York County,39.875,-76.866
-1664,Elysburg,Northumberland County,40.865,-76.552
-0397,Bentleyville,Washington County,40.117,-80.008
-2878,Lemont,Centre County,40.811,-77.818
-0794,Liberty,Allegheny County,40.325,-79.856
-2039,Georgetown,Luzerne County,41.227,-75.869
-3522,Mount Union,Huntingdon County,40.385,-77.882
-2974,Lima,Delaware County,39.917,-75.440
-3747,Oak Hills,Butler County,40.825,-79.913
-3669,Newtown,Bucks County,40.229,-74.937
-3975,Pennville,York County,39.790,-76.998
-0623,Brockway,Jefferson County,41.249,-78.799
-2563,Hyde Park,Berks County,40.377,-75.925
-5612,Wrightsville,York County,40.026,-76.530
-1598,Edgewood,Northumberland County,40.788,-76.572
-3761,Oakwood,Lawrence County,41.011,-80.380
-1764,Fairdale,Greene County,39.887,-79.968
-1493,Dublin,Bucks County,40.372,-75.202
-4893,Stewartstown,York County,39.754,-76.591
-2650,Jermyn,Lackawanna County,41.531,-75.545
-1182,Conway,Beaver County,40.660,-80.239
-2545,Hughesville,Lycoming County,41.241,-76.724
-2085,Glen Rock,York County,39.793,-76.730
-2720,Kenilworth,Chester County,40.231,-75.634
-5034,Temple,Berks County,40.409,-75.922
-0278,Barnesville,Schuylkill County,40.815,-76.031
-3495,Moscow,Lackawanna County,41.337,-75.519
-3268,McDonald,Allegheny County,40.370,-80.233
-4376,Riverside,Northumberland County,40.955,-76.629
-4779,Southmont,Cambria County,40.311,-78.939
-0709,Burnham,Mifflin County,40.639,-77.569
-0405,Berlin,Somerset County,39.921,-78.958
-0017,Adamstown,Berks County,40.244,-76.065
-1420,Devon,Chester County,40.049,-75.429
-3329,Mercer,Mercer County,41.227,-80.240
-5631,Yorklyn,York County,39.992,-76.646
-4836,St. Lawrence,Berks County,40.327,-75.872
-0385,Ben Avon,Allegheny County,40.508,-80.083
-4252,Rankin,Allegheny County,40.413,-79.879
-3220,Martinsburg,Blair County,40.311,-78.324
-0366,Belleville,Mifflin County,40.605,-77.726
-1579,Eddington,Bucks County,40.085,-74.945
-1946,Fredericksburg,Lebanon County,40.444,-76.428
-1654,Elkland,Tioga County,41.986,-77.311
-0377,Bellwood,Blair County,40.603,-78.325
-0236,Avon,Lebanon County,40.346,-76.390
-2584,Industry,Beaver County,40.645,-80.416
-5450,Westwood,Chester County,39.972,-75.853
-1747,Everett,Bedford County,40.011,-78.373
-1931,Fox Chase,Berks County,40.396,-75.962
-3248,Mayfield,Lackawanna County,41.538,-75.536
-1889,Forest City,Susquehanna County,41.651,-75.467
-1953,Freeport,Armstrong County,40.674,-79.685
-5636,Youngsville,Warren County,41.852,-79.319
-3939,Patton,Cambria County,40.634,-78.650
-0565,Braddock,Allegheny County,40.403,-79.868
-3051,Loop,Blair County,40.422,-78.362
-1020,Church Hill,Mifflin County,40.682,-77.599
-0899,Cecil,Washington County,40.280,-80.143
-2980,Lincoln Park,Berks County,40.315,-75.985
-1599,Edgeworth,Allegheny County,40.551,-80.193
-2676,Jonestown,Lebanon County,40.414,-76.478
-5450,Westwood,Cambria County,40.325,-78.955
-4935,Sturgeon,Allegheny County,40.385,-80.211
-3758,Oakland,Cambria County,40.306,-78.888
-1726,Espy,Columbia County,41.006,-76.410
-0989,Cherryville,Northampton County,40.754,-75.539
-2510,Hometown,Schuylkill County,40.824,-75.980
-3448,Montgomery,Lycoming County,41.170,-76.877
-1830,Ferndale,Cambria County,40.289,-78.915
-3393,Milroy,Mifflin County,40.714,-77.591
-0050,Albion,Erie County,41.891,-80.366
-0917,Cementon,Lehigh County,40.689,-75.508
-3476,Morgantown,Berks County,40.150,-75.887
-3667,Newport,Perry County,40.478,-77.131
-4138,Richland,Lebanon County,40.359,-76.258
-3758,Oakland,Lawrence County,40.990,-80.370
-1950,Freedom,Beaver County,40.686,-80.252
-0234,Avis,Clinton County,41.185,-77.314
-3753,Oakdale,Allegheny County,40.398,-80.186
-5248,Versailles,Allegheny County,40.316,-79.831
-2830,Laflin,Luzerne County,41.289,-75.805
-3027,Loganville,York County,39.856,-76.707
-2294,Hampton,Adams County,39.928,-77.057
-4331,Tower City,Schuylkill County,40.589,-76.552
-2165,Hudson,Luzerne County,41.275,-75.836
-4568,Sandy,Clearfield County,41.108,-78.771
-0653,Browntown,Luzerne County,41.310,-75.787
-1643,Elizabeth,Allegheny County,40.269,-79.890
-3670,Newville,Cumberland County,40.173,-77.399
-5412,West Hills,Armstrong County,40.824,-79.543
-2450,Highland Park,Mifflin County,40.621,-77.568
-2009,Scotland,Franklin County,39.966,-77.596
-3683,Nixon,Butler County,40.783,-79.930
-5217,Valley View,Schuylkill County,40.646,-76.539
-3897,Palmdale,Dauphin County,40.298,-76.619
-1098,Clymer,Indiana County,40.668,-79.012
-3474,Morgan Hill,Northampton County,40.666,-75.207
-5419,West Milton,Union County,41.020,-76.872
-3350,Middleburg,Snyder County,40.786,-77.047
-5516,Williamstown,Dauphin County,40.580,-76.618
-3453,Montrose,Susquehanna County,41.834,-75.877
-1325,Dalton,Lackawanna County,41.534,-75.736
-2402,Heidelberg,Allegheny County,40.392,-80.091
-0250,Bainbridge,Lancaster County,40.091,-76.667
-0237,Avondale,Chester County,39.823,-75.783
-1860,Flemington,Clinton County,41.126,-77.472
-1767,Fairhope,Fayette County,40.114,-79.840
-3735,Nottingham,Chester County,39.749,-76.019
-0350,Belfast,Northampton County,40.781,-75.278
-0489,Bloomfield,Perry County,40.419,-77.189
-4715,Simpson,Lackawanna County,41.592,-75.485
-5512,Williamsburg,Blair County,40.462,-78.200
-2276,Hawley,Wayne County,41.476,-75.182
-3213,Marshallton,Northumberland County,40.787,-76.539
-4524,Salix,Cambria County,40.300,-78.765
-0543,Boswell,Somerset County,40.161,-79.029
-1817,Faxon,Lycoming County,41.248,-76.977
-0769,Calumet,Westmoreland County,40.211,-79.485
-2356,Hastings,Cambria County,40.665,-78.712
-4306,Republic,Fayette County,39.963,-79.877
-3489,Morrisville,Greene County,39.895,-80.162
-5463,Whitaker,Allegheny County,40.398,-79.890
-5468,White Haven,Luzerne County,41.061,-75.774
-2532,Houston,Washington County,40.246,-80.211
-3054,Loretto,Cambria County,40.503,-78.630
-4471,Royalton,Dauphin County,40.187,-76.730
-3782,Oklahoma,Clearfield County,41.114,-78.733
-0760,Marion,Franklin County,39.857,-77.695
-4997,Sykesville,Jefferson County,41.050,-78.822
-4192,Prospect,Butler County,40.905,-80.046
-1015,Christiana,Lancaster County,39.955,-75.997
-0497,Blue Ball,Lancaster County,40.119,-76.047
-1798,Hebron,Lebanon County,40.339,-76.399
-4897,Stiles,Lehigh County,40.665,-75.508
-0417,Bessemer,Lawrence County,40.975,-80.494
-3636,New Philadelphia,Schuylkill County,40.720,-76.116
-1805,Farmington,Fayette County,39.807,-79.566
-1306,Curtisville,Allegheny County,40.642,-79.851
-0849,Carrolltown,Cambria County,40.603,-78.709
-3601,New Bedford,Lawrence County,41.097,-80.505
-0965,Chase,Luzerne County,41.285,-75.963
-0341,Beavertown,Snyder County,40.754,-77.169
-1502,Dunbar,Fayette County,39.978,-79.614
-1322,Dale,Cambria County,40.313,-78.904
-0931,Central City,Somerset County,40.111,-78.802
-3389,Millville,Columbia County,41.120,-76.530
-4116,Pomeroy,Chester County,39.964,-75.887
-0741,Lawrence,Washington County,40.306,-80.121
-3902,Palo Alto,Schuylkill County,40.687,-76.172
-3011,Liverpool,Perry County,40.575,-76.989
-2868,Lakeville,Wayne County,41.438,-75.277
-4762,South Fork,Cambria County,40.367,-78.791
-1667,Ellsworth,Washington County,40.112,-80.017
-2320,Harmony,Butler County,40.801,-80.127
-2114,Goldsboro,York County,40.153,-76.750
-1171,Lincoln,Allegheny County,40.319,-79.855
-3359,Midway,Adams County,39.808,-77.003
-3359,Midway,Washington County,40.369,-80.293
-1085,Clinton,Allegheny County,40.490,-80.294
-1161,Columbus,Warren County,41.941,-79.582
-1946,Fredericksburg,Crawford County,41.646,-80.177
-4188,Pringle,Luzerne County,41.278,-75.897
-3976,Penryn,Lancaster County,40.205,-76.368
-2330,Seneca,Venango County,41.379,-79.704
-3259,McClure,Snyder County,40.707,-77.314
-1967,Frisco,Beaver County,40.852,-80.268
-2972,Lilly,Cambria County,40.426,-78.620
-2976,Lime Ridge,Columbia County,41.028,-76.339
-1803,Farmersville,Lancaster County,40.128,-76.165
-4350,Riegelsville,Bucks County,40.594,-75.195
-4797,Spring Hill,Cambria County,40.376,-78.670
-4409,Rockwood,Somerset County,39.916,-79.152
-2136,Gouldsboro,Monroe County,41.246,-75.442
-3381,Millheim,Centre County,40.891,-77.477
-4090,Pleasantville,Venango County,41.592,-79.579
-0398,Benton,Columbia County,41.195,-76.384
-3642,New Salem,York County,39.901,-76.789
-4732,Smithfield,Fayette County,39.803,-79.808
-3634,New Milford,Susquehanna County,41.873,-75.727
-2338,Harrisville,Butler County,41.137,-80.009
-4134,Port Royal,Juniata County,40.533,-77.386
-2039,Georgetown,Lancaster County,39.938,-76.083
-4712,Silverdale,Bucks County,40.348,-75.271
-1034,Clarence,Centre County,41.048,-77.940
-2273,Halifax,Dauphin County,40.468,-76.932
-0727,Winfield,Union County,40.909,-76.855
-4800,Spring Ridge,Berks County,40.353,-75.990
-3602,New Berlin,Union County,40.879,-76.987
-3782,Oklahoma,Westmoreland County,40.581,-79.574
-4496,Rutledge,Delaware County,39.902,-75.329
-1705,Englewood,Schuylkill County,40.784,-76.242
-5085,Tipton,Blair County,40.636,-78.296
-2126,Gordon,Schuylkill County,40.752,-76.336
-4088,Pleasant View,Armstrong County,40.611,-79.574
-1750,Everson,Fayette County,40.091,-79.588
-0211,Atlas,Northumberland County,40.800,-76.428
-1634,Eldred,McKean County,41.958,-78.385
-2740,Kersey,Elk County,41.362,-78.596
-2053,Gibraltar,Berks County,40.284,-75.872
-2181,Gratz,Dauphin County,40.612,-76.719
-0942,Chalfant,Allegheny County,40.409,-79.839
-0605,Bridgewater,Beaver County,40.705,-80.301
-1062,Claysville,Washington County,40.118,-80.410
-4435,Roscoe,Washington County,40.080,-79.866
-1399,Delta,York County,39.727,-76.327
-4523,Salisbury,Somerset County,39.753,-79.081
-4110,Polk,Venango County,41.367,-79.929
-3675,Nicholson,Wyoming County,41.626,-75.780
-0751,Parker,Armstrong County,41.096,-79.683
-3378,Millerstown,Perry County,40.550,-77.155
-3914,Paris,Washington County,40.404,-80.513
-2916,Lawrenceville,Tioga County,41.998,-77.126
-0651,Brownstown,Cambria County,40.335,-78.938
-4727,Sligo,Clarion County,41.109,-79.490
-5205,Valencia,Butler County,40.675,-79.990
-2790,Knoxville,Tioga County,41.957,-77.439
-1380,Deer Lake,Schuylkill County,40.625,-76.060
-0514,Bobtown,Greene County,39.761,-79.981
-2434,Hickory,Washington County,40.299,-80.309
-2651,Jerome,Somerset County,40.209,-78.984
-3618,New Florence,Westmoreland County,40.380,-79.075
-0218,Auburn,Schuylkill County,40.598,-76.093
-5190,Unionville,Butler County,40.941,-79.962
-4673,Sheffield,Warren County,41.704,-79.036
-2193,Jefferson,York County,39.817,-76.842
-4241,Ramblewood,Centre County,40.720,-77.956
-4571,Sandy Lake,Mercer County,41.349,-80.082
-5626,Yatesville,Luzerne County,41.303,-75.787
-4012,Picture Rocks,Lycoming County,41.280,-76.713
-2185,Great Bend,Susquehanna County,41.972,-75.743
-3642,New Salem,Fayette County,39.924,-79.836
-3517,Mount Morris,Greene County,39.733,-80.068
-2903,Lattimer,Luzerne County,40.994,-75.961
-0338,Beaverdale,Cambria County,40.322,-78.697
-4885,Stevens,Lancaster County,40.216,-76.156
-5614,Wyalusing,Bradford County,41.668,-76.262
-5300,Wakefield,Lancaster County,39.774,-76.179
-3632,New Market,York County,40.223,-76.852
-5344,Waverly,Lackawanna County,41.526,-75.705
-2873,Lamar,Clinton County,41.016,-77.531
-3052,Lorain,Cambria County,40.299,-78.892
-5606,Worthington,Armstrong County,40.838,-79.632
-5457,Wheatland,Mercer County,41.201,-80.498
-5190,Unionville,Chester County,39.895,-75.734
-2636,Jamestown,Mercer County,41.485,-80.438
-1039,Clark,Mercer County,41.286,-80.428
-3758,Oakland,Susquehanna County,41.950,-75.605
-2128,Gordonville,Lancaster County,40.020,-76.134
-2629,Jacksonville,Indiana County,40.541,-79.282
-1557,East Rochester,Beaver County,40.700,-80.268
-1949,Freeburg,Snyder County,40.763,-76.939
-4944,Sugar Grove,Warren County,41.983,-79.339
-1357,Dayton,Armstrong County,40.880,-79.242
-3417,Modena,Chester County,39.967,-75.800
-4743,Snydertown,Centre County,40.984,-77.586
-0076,Allenport,Huntingdon County,40.374,-77.870
-1274,Cross Keys,Blair County,40.446,-78.433
-0644,Fairfield,Adams County,39.787,-77.369
-1276,Cross Roads,York County,39.820,-76.577
-3360,Mifflin,Juniata County,40.570,-77.403
-4293,Reedsville,Mifflin County,40.664,-77.596
-0673,Buckhorn,Columbia County,41.019,-76.501
-1587,Wall,Allegheny County,40.394,-79.786
-3235,Mather,Greene County,39.935,-80.074
-4755,Summerville,Jefferson County,41.116,-79.187
-3660,Newell,Fayette County,40.076,-79.898
-1823,Felton,York County,39.855,-76.564
-2563,Hyde Park,Westmoreland County,40.633,-79.590
-3213,Marshallton,Chester County,39.950,-75.680
-1526,Eagle,Chester County,40.077,-75.688
-3597,New Alexandria,Westmoreland County,40.399,-79.422
-4142,Portland,Northampton County,40.923,-75.097
-2964,Monroe,Bradford County,41.712,-76.475
-2884,Lanesboro,Susquehanna County,41.957,-75.585
-5637,Yukon,Westmoreland County,40.213,-79.683
-0076,Allenport,Washington County,40.098,-79.849
-3824,Orangeville,Columbia County,41.078,-76.414
-0228,Austin,Potter County,41.631,-78.091
-4954,Summerhill,Cambria County,40.378,-78.761
-1633,Eldorado,Blair County,40.472,-78.424
-3301,Mechanicsville,Schuylkill County,40.690,-76.186
-3390,Millwood,Westmoreland County,40.353,-79.278
-3504,Mount Aetna,Berks County,40.419,-76.295
-5063,Thornburg,Allegheny County,40.435,-80.082
-4386,Robinson,Indiana County,40.404,-79.139
-3144,Maitland,Mifflin County,40.631,-77.503
+3873,Philadelphia,Philadelphia County,39.952,-75.164
+3934,Pittsburgh,Allegheny County,40.441,-79.996
+0077,Allentown,Lehigh County,40.608,-75.490
+4137,Reading,Berks County,40.336,-75.927
+1606,Erie,Erie County,42.129,-80.085
+4488,Scranton,Lackawanna County,41.409,-75.662
+0413,Bethlehem,Lehigh County,40.626,-75.368
+2723,Lancaster,Lancaster County,40.038,-76.306
+2802,Levittown,Bucks County,40.155,-74.829
+2162,Harrisburg,Dauphin County,40.274,-76.884
+5529,York,York County,39.963,-76.728
+0099,Altoona,Blair County,40.519,-78.395
+0937,Chichester,Delaware County,39.835,-75.444
+2213,Hazleton,Luzerne County,40.958,-75.975
+3298,Monroeville,Allegheny County,40.421,-79.788
+1464,Easton,Northampton County,40.688,-75.221
+5406,Williamsport,Lycoming County,41.241,-77.001
+3966,Plum,Allegheny County,40.500,-79.749
+2772,Lebanon,Lebanon County,40.341,-76.411
+3477,New Castle,Lawrence County,41.004,-80.347
+0249,Baldwin,Allegheny County,40.338,-79.979
+0781,Carlisle,Cumberland County,40.201,-77.189
+5291,West Chester,Chester County,39.961,-75.605
+2508,Johnstown,Cambria County,40.327,-78.922
+2138,Hanover,York County,39.801,-76.983
+2245,Hermitage,Mercer County,41.233,-80.449
+1843,Fullerton,Lehigh County,40.632,-75.473
+1805,Franklin Park,Allegheny County,40.583,-80.088
+2057,Greensburg,Westmoreland County,40.301,-79.539
+5369,Whitehall,Allegheny County,40.361,-79.991
+2251,Hershey,Dauphin County,40.286,-76.650
+0163,Ardmore,Delaware County,40.003,-75.295
+1418,Dunmore,Lackawanna County,41.420,-75.632
+5418,Willow Grove,Montgomery County,40.144,-75.116
+1602,Ephrata,Lancaster County,40.180,-76.179
+5517,Wynnewood,Montgomery County,40.003,-75.271
+2418,Indiana,Indiana County,40.621,-79.153
+4022,Pottsville,Schuylkill County,40.686,-76.195
+1032,Coatesville,Chester County,39.983,-75.824
+5230,Washington,Washington County,40.174,-80.246
+4529,Sharon,Mercer County,41.233,-80.493
+3155,Meadville,Crawford County,41.641,-80.151
+4716,St. Marys,Elk County,41.428,-78.561
+1532,Elizabethtown,Lancaster County,40.153,-76.603
+4058,Progress,Dauphin County,40.285,-76.831
+4554,Shiloh,York County,39.978,-76.797
+2733,Lansdowne,Delaware County,39.938,-75.272
+5253,Waynesboro,Franklin County,39.756,-77.578
+3430,Nanticoke,Luzerne County,41.205,-76.005
+3584,Northampton,Northampton County,40.686,-75.497
+0406,Berwick,Columbia County,41.055,-76.233
+5485,Woodlyn,Delaware County,39.877,-75.344
+1070,Columbia,Lancaster County,40.034,-76.504
+0578,Brentwood,Allegheny County,40.371,-79.975
+1199,Croydon,Bucks County,40.087,-74.903
+0603,Bristol,Bucks County,40.101,-74.852
+5073,Uniontown,Fayette County,39.900,-79.716
+3356,Morrisville,Bucks County,40.212,-74.788
+4837,Sunbury,Northumberland County,40.863,-76.794
+3215,Middletown,Dauphin County,40.200,-76.731
+3157,Mechanicsburg,Cumberland County,40.214,-77.009
+3649,Oil City,Venango County,41.434,-79.706
+4076,Quakertown,Bucks County,40.442,-75.342
+5219,Warren,Warren County,41.844,-79.145
+1478,Economy,Beaver County,40.600,-80.225
+0215,Audubon,Montgomery County,40.128,-75.432
+0774,Carbondale,Lackawanna County,41.574,-75.502
+3655,Old Forge,Lackawanna County,41.371,-75.735
+2806,Lewistown,Mifflin County,40.599,-77.571
+1746,Folsom,Delaware County,39.890,-75.325
+3955,Pleasant Hills,Allegheny County,40.336,-79.961
+1383,Doylestown,Bucks County,40.310,-75.130
+0619,Brookhaven,Delaware County,39.869,-75.382
+5427,Wilson,Northampton County,40.684,-75.242
+0359,Bellevue,Allegheny County,40.494,-80.052
+0741,Camp Hill,Cumberland County,40.240,-76.920
+3796,Parkville,York County,39.781,-76.963
+0786,Carnegie,Allegheny County,40.409,-80.083
+2749,Latrobe,Westmoreland County,40.321,-79.379
+2076,Grove City,Mercer County,41.158,-80.089
+3771,Palmyra,Lebanon County,40.309,-76.593
+2791,Leola,Lancaster County,40.088,-76.185
+0556,Bradford,McKean County,41.956,-78.644
+3240,Millersville,Lancaster County,39.998,-76.354
+3937,Pittston,Luzerne County,41.326,-75.789
+3481,New Cumberland,Cumberland County,40.232,-76.885
+5361,White Oak,Allegheny County,40.338,-79.809
+5526,Yellow Springs,Chester County,40.100,-75.623
+3215,Middletown,Northampton County,40.644,-75.332
+1401,DuBois,Clearfield County,41.119,-78.760
+1906,Gettysburg,Adams County,39.831,-77.231
+1095,Connellsville,Fayette County,40.018,-79.589
+2390,Huntingdon,Huntingdon County,40.485,-78.010
+0108,Ambler,Montgomery County,40.155,-75.222
+0469,Blakely,Lackawanna County,41.481,-75.595
+3257,Milton,Northumberland County,41.012,-76.848
+4359,Rutherford,Dauphin County,40.269,-76.768
+4146,Red Lion,York County,39.901,-76.606
+4060,Prospect Park,Delaware County,39.888,-75.308
+0171,Arlington Heights,Monroe County,40.990,-75.216
+1760,Forest Hills,Allegheny County,40.420,-79.850
+4905,Taylor,Lackawanna County,41.395,-75.707
+1781,Fort Washington,Montgomery County,40.142,-75.209
+1128,Corry,Erie County,41.920,-79.640
+0355,Bellefonte,Centre County,40.913,-77.778
+1804,Franklin,Venango County,41.398,-79.831
+1595,Enola,Cumberland County,40.290,-76.934
+3446,Nazareth,Northampton County,40.740,-75.310
+1915,Gilbertsville,Montgomery County,40.320,-75.610
+1155,Crafton,Allegheny County,40.435,-80.066
+4623,Somerset,Somerset County,40.008,-79.078
+0999,Clearfield,Clearfield County,41.027,-78.439
+3601,Norwood,Delaware County,39.892,-75.300
+0960,Churchville,Bucks County,40.186,-75.019
+3780,Paoli,Chester County,40.042,-75.476
+3492,New Holland,Lancaster County,40.102,-76.085
+3969,Plymouth,Luzerne County,41.240,-75.945
+3747,Oxford,Chester County,39.785,-75.979
+3376,Mount Carmel,Northumberland County,40.797,-76.412
+3472,New Brighton,Beaver County,40.730,-80.310
+1642,Exeter,Luzerne County,41.321,-75.819
+2060,Greenville,Mercer County,41.404,-80.391
+0724,California,Washington County,40.066,-79.892
+4470,Sayre,Bradford County,41.979,-76.516
+5053,Tyrone,Blair County,40.671,-78.239
+1444,Eagleville,Montgomery County,40.160,-75.408
+5379,Whitfield,Berks County,40.336,-76.006
+2804,Lewisburg,Union County,40.965,-76.884
+4969,Titusville,Crawford County,41.627,-79.674
+1421,Duquesne,Allegheny County,40.381,-79.860
+0256,Bangor,Northampton County,40.866,-75.207
+5316,West York,York County,39.953,-76.751
+3018,Manheim,Lancaster County,40.163,-76.395
+0589,Bridgeport,Montgomery County,40.105,-75.345
+5331,Westmont,Cambria County,40.316,-78.952
+4912,Telford,Bucks County,40.326,-75.327
+1502,Edwardsville,Luzerne County,41.270,-75.916
+1491,Edinboro,Erie County,41.874,-80.132
+1790,Fountain Hill,Lehigh County,40.601,-75.395
+0915,Cheltenham,Montgomery County,40.061,-75.094
+4819,Sugarcreek,Venango County,41.421,-79.881
+0593,Bridgeville,Allegheny County,40.356,-80.110
+0176,Arnold,Westmoreland County,40.580,-79.767
+0225,Avalon,Allegheny County,40.501,-80.068
+2788,Lemoyne,Cumberland County,40.241,-76.894
+2906,Lorane,Berks County,40.288,-75.855
+1126,Cornwall,Lebanon County,40.274,-76.406
+2493,Jessup,Lackawanna County,41.469,-75.562
+0327,Beaver,Beaver County,40.695,-80.305
+3265,Minersville,Schuylkill County,40.691,-76.262
+2120,Hamburg,Berks County,40.556,-75.982
+4484,Scottdale,Westmoreland County,40.100,-79.587
+3111,Maytown,Lancaster County,40.075,-76.582
+4585,Sinking Spring,Berks County,40.327,-76.011
+4543,Shenandoah,Schuylkill County,40.820,-76.201
+1688,Farrell,Mercer County,41.212,-80.497
+4531,Sharpsville,Mercer County,41.259,-80.472
+0896,Charleroi,Washington County,40.138,-79.898
+3386,Mount Pleasant,Westmoreland County,40.149,-79.541
+2049,Greencastle,Franklin County,39.790,-77.728
+1256,Danville,Montour County,40.963,-76.613
+0038,Akron,Lancaster County,40.157,-76.202
+4951,Throop,Lackawanna County,41.451,-75.612
+3192,Meridian,Butler County,40.848,-79.962
+4311,Rosemont,Delaware County,40.031,-75.327
+1929,Gladwyne,Montgomery County,40.033,-75.283
+5002,Trappe,Montgomery County,40.199,-75.476
+4214,Ridgway,Elk County,41.420,-78.729
+0628,Brookville,Jefferson County,41.161,-79.083
+5254,Waynesburg,Greene County,39.896,-80.179
+1809,Frazer,Chester County,40.032,-75.556
+3592,Northumberland,Northumberland County,40.892,-76.797
+0974,Clarion,Clarion County,41.215,-79.385
+0236,Baden,Beaver County,40.635,-80.228
+2451,Irwin,Westmoreland County,40.325,-79.701
+1528,Elim,Cambria County,40.298,-78.943
+4941,Thompsonville,Washington County,40.291,-80.108
+1817,Freeland,Luzerne County,41.017,-75.897
+1319,Denver,Lancaster County,40.233,-76.137
+4944,Thorndale,Chester County,39.993,-75.745
+4939,Thomasville,York County,39.895,-76.850
+0407,Berwyn,Chester County,40.045,-75.439
+4793,Stowe,Montgomery County,40.253,-75.677
+1919,Guilford,Franklin County,39.917,-77.599
+2062,Greenwood,Blair County,40.536,-78.358
+3027,Manor,Westmoreland County,40.334,-79.670
+2654,La Mott,Montgomery County,40.068,-75.141
+2188,Hatfield,Montgomery County,40.280,-75.299
+4665,Spring City,Chester County,40.177,-75.548
+4256,Rochester,Beaver County,40.702,-80.286
+3008,Malvern,Chester County,40.036,-75.514
+0636,Brownstown,Lancaster County,40.124,-76.214
+1620,Etna,Allegheny County,40.504,-79.949
+4676,Springdale,Allegheny County,40.541,-79.784
+2426,Ingram,Allegheny County,40.446,-80.068
+3954,Pleasant Hill,Lebanon County,40.336,-76.442
+5000,Trafford,Allegheny County,40.385,-79.758
+1921,Gillett,Bradford County,41.951,-76.794
+0510,Boiling Springs,Cumberland County,40.150,-77.128
+0468,Blairsville,Indiana County,40.431,-79.261
+0870,Centerville,Washington County,40.045,-79.976
+3088,Masontown,Fayette County,39.847,-79.900
+5470,Woodbourne,Bucks County,40.192,-74.889
+4751,State Line,Franklin County,39.725,-77.724
+5103,Valley View,York County,39.950,-76.701
+4530,Sharpsburg,Allegheny County,40.495,-79.926
+0959,Churchill,Allegheny County,40.438,-79.843
+5518,Wyoming,Luzerne County,41.312,-75.837
+1488,Edgewood,Allegheny County,40.432,-79.881
+1251,Danielsville,Northampton County,40.794,-75.527
+2846,Linwood,Delaware County,39.827,-75.425
+3930,Pitcairn,Allegheny County,40.403,-79.778
+5081,Upland,Delaware County,39.853,-75.383
+3172,Melrose Park,Montgomery County,40.062,-75.132
+3404,Mountville,Lancaster County,40.039,-76.431
+3054,Marietta,Lancaster County,40.057,-76.552
+0371,Belmont,Cambria County,40.287,-78.889
+1661,Fairview,Erie County,42.031,-80.255
+5067,Union City,Erie County,41.900,-79.845
+2683,Lake City,Erie County,42.014,-80.345
+2207,Hayti,Chester County,39.983,-75.841
+5464,Womelsdorf,Berks County,40.362,-76.184
+2340,Homestead,Allegheny County,40.406,-79.912
+0191,Aspinwall,Allegheny County,40.491,-79.905
+5490,Woodside,Bucks County,40.222,-74.875
+4079,Quarryville,Lancaster County,39.897,-76.164
+3029,Mansfield,Tioga County,41.807,-77.077
+1752,Ford City,Armstrong County,40.772,-79.530
+0295,Bath,Northampton County,40.726,-75.394
+4991,Towanda,Bradford County,41.768,-76.443
+3013,Manchester,York County,40.063,-76.718
+1911,Gibsonia,Allegheny County,40.630,-79.969
+3874,Philipsburg,Centre County,40.896,-78.221
+0546,Bowmansville,Lancaster County,40.197,-76.017
+2115,Hallam,York County,40.005,-76.604
+5295,West Grove,Chester County,39.822,-75.827
+1695,Fayetteville,Franklin County,39.911,-77.550
+3473,New Britain,Bucks County,40.299,-75.181
+4692,St. Clair,Schuylkill County,40.721,-76.191
+3359,Morton,Delaware County,39.910,-75.324
+2409,Imperial,Allegheny County,40.450,-80.245
+2961,Luzerne,Luzerne County,41.286,-75.901
+3910,Pine Ridge,Pike County,41.146,-74.991
+3084,Marysville,Perry County,40.343,-76.930
+3493,New Hope,Bucks County,40.364,-74.951
+4272,Rockledge,Montgomery County,40.081,-75.090
+1236,Derry,Westmoreland County,40.334,-79.300
+3963,Pleasureville,York County,39.997,-76.707
+4421,Sand Hill,Lebanon County,40.360,-76.432
+0188,Ashley,Luzerne County,41.210,-75.897
+1506,Egypt,Lehigh County,40.680,-75.530
+1305,Delmont,Westmoreland County,40.413,-79.570
+3421,Muse,Washington County,40.293,-80.200
+1420,Dupont,Luzerne County,41.325,-75.745
+3238,Millersburg,Dauphin County,40.540,-76.961
+0230,Avoca,Luzerne County,41.340,-75.736
+4142,Red Hill,Montgomery County,40.373,-75.481
+2726,Landisville,Lancaster County,40.095,-76.410
+0187,Ashland,Columbia County,40.781,-76.345
+3115,McAdoo,Schuylkill County,40.910,-75.991
+5132,Verona,Allegheny County,40.506,-79.843
+1026,Coaldale,Schuylkill County,40.823,-75.907
+3411,Muncy,Lycoming County,41.206,-76.786
+3092,Matamoras,Pike County,41.369,-74.700
+3667,Oliver,Fayette County,39.919,-79.718
+5546,Zion,Centre County,40.914,-77.685
+3217,Midland,Beaver County,40.633,-80.446
+4836,Sun Valley,Monroe County,40.980,-75.466
+2505,Johnsonburg,Elk County,41.491,-78.675
+4668,Spring Grove,York County,39.875,-76.866
+1552,Elysburg,Northumberland County,40.865,-76.552
+0389,Bentleyville,Washington County,40.117,-80.008
+2721,Lemont,Centre County,40.811,-77.818
+2813,Liberty,Allegheny County,40.325,-79.856
+1898,Georgetown,Luzerne County,41.227,-75.869
+3389,Mount Union,Huntingdon County,40.385,-77.882
+2821,Lima,Delaware County,39.917,-75.440
+3614,Oak Hills,Butler County,40.825,-79.913
+3536,Newtown,Bucks County,40.229,-74.937
+3847,Pennville,York County,39.790,-76.998
+0612,Brockway,Jefferson County,41.249,-78.799
+2400,Hyde Park,Berks County,40.377,-75.925
+5511,Wrightsville,York County,40.026,-76.530
+1488,Edgewood,Northumberland County,40.788,-76.572
+3629,Oakwood,Lawrence County,41.011,-80.380
+1649,Fairdale,Greene County,39.887,-79.968
+1400,Dublin,Bucks County,40.372,-75.202
+4767,Stewartstown,York County,39.754,-76.591
+2489,Jermyn,Lackawanna County,41.531,-75.545
+1099,Conway,Beaver County,40.660,-80.239
+2380,Hughesville,Lycoming County,41.241,-76.724
+1939,Glen Rock,York County,39.793,-76.730
+2560,Kenilworth,Chester County,40.231,-75.634
+4913,Temple,Berks County,40.409,-75.922
+0270,Barnesville,Schuylkill County,40.815,-76.031
+3362,Moscow,Lackawanna County,41.337,-75.519
+3128,McDonald,Allegheny County,40.370,-80.233
+4243,Riverside,Northumberland County,40.955,-76.629
+4649,Southmont,Cambria County,40.311,-78.939
+0690,Burnham,Mifflin County,40.639,-77.569
+0397,Berlin,Somerset County,39.921,-78.958
+0016,Adamstown,Berks County,40.244,-76.065
+1328,Devon,Chester County,40.049,-75.429
+3187,Mercer,Mercer County,41.227,-80.240
+5530,Yorklyn,York County,39.992,-76.646
+4708,St. Lawrence,Berks County,40.327,-75.872
+0377,Ben Avon,Allegheny County,40.508,-80.083
+4119,Rankin,Allegheny County,40.413,-79.879
+3078,Martinsburg,Blair County,40.311,-78.324
+0358,Belleville,Mifflin County,40.605,-77.726
+1479,Eddington,Bucks County,40.085,-74.945
+1812,Fredericksburg,Lebanon County,40.444,-76.428
+1542,Elkland,Tioga County,41.986,-77.311
+0369,Bellwood,Blair County,40.603,-78.325
+0231,Avon,Lebanon County,40.346,-76.390
+2421,Industry,Beaver County,40.645,-80.416
+5338,Westwood,Chester County,39.972,-75.853
+1635,Everett,Bedford County,40.011,-78.373
+1797,Fox Chase,Berks County,40.396,-75.962
+3107,Mayfield,Lackawanna County,41.538,-75.536
+1755,Forest City,Susquehanna County,41.651,-75.467
+1819,Freeport,Armstrong County,40.674,-79.685
+5535,Youngsville,Warren County,41.852,-79.319
+3812,Patton,Cambria County,40.634,-78.650
+0555,Braddock,Allegheny County,40.403,-79.868
+2904,Loop,Blair County,40.422,-78.362
+0958,Church Hill,Mifflin County,40.682,-77.599
+0843,Cecil,Washington County,40.280,-80.143
+2829,Lincoln Park,Berks County,40.315,-75.985
+1489,Edgeworth,Allegheny County,40.551,-80.193
+2516,Jonestown,Lebanon County,40.414,-76.478
+5338,Westwood,Cambria County,40.325,-78.955
+4808,Sturgeon,Allegheny County,40.385,-80.211
+3626,Oakland,Cambria County,40.306,-78.888
+1615,Espy,Columbia County,41.006,-76.410
+0929,Cherryville,Northampton County,40.754,-75.539
+2341,Hometown,Schuylkill County,40.824,-75.980
+3313,Montgomery,Lycoming County,41.170,-76.877
+1704,Ferndale,Cambria County,40.289,-78.915
+3255,Milroy,Mifflin County,40.714,-77.591
+0049,Albion,Erie County,41.891,-80.366
+0860,Cementon,Lehigh County,40.689,-75.508
+3342,Morgantown,Berks County,40.150,-75.887
+3533,Newport,Perry County,40.478,-77.131
+4199,Richland,Lebanon County,40.359,-76.258
+3626,Oakland,Lawrence County,40.990,-80.370
+1816,Freedom,Beaver County,40.686,-80.252
+0229,Avis,Clinton County,41.185,-77.314
+3621,Oakdale,Allegheny County,40.398,-80.186
+5133,Versailles,Allegheny County,40.316,-79.831
+2672,Laflin,Luzerne County,41.289,-75.805
+2878,Loganville,York County,39.856,-76.707
+2130,Hampton,Adams County,39.928,-77.057
+4992,Tower City,Schuylkill County,40.589,-76.552
+2377,Hudson,Luzerne County,41.275,-75.836
+4431,Sandy,Clearfield County,41.108,-78.771
+0638,Browntown,Luzerne County,41.310,-75.787
+1530,Elizabeth,Allegheny County,40.269,-79.890
+3537,Newville,Cumberland County,40.173,-77.399
+5298,West Hills,Armstrong County,40.824,-79.543
+2277,Highland Park,Mifflin County,40.621,-77.568
+4481,Scotland,Franklin County,39.966,-77.596
+3549,Nixon,Butler County,40.783,-79.930
+5103,Valley View,Schuylkill County,40.646,-76.539
+3768,Palmdale,Dauphin County,40.298,-76.619
+1022,Clymer,Indiana County,40.668,-79.012
+3340,Morgan Hill,Northampton County,40.666,-75.207
+5306,West Milton,Union County,41.020,-76.872
+3209,Middleburg,Snyder County,40.786,-77.047
+5408,Williamstown,Dauphin County,40.580,-76.618
+3318,Montrose,Susquehanna County,41.834,-75.877
+1243,Dalton,Lackawanna County,41.534,-75.736
+2227,Heidelberg,Allegheny County,40.392,-80.091
+0244,Bainbridge,Lancaster County,40.091,-76.667
+0232,Avondale,Chester County,39.823,-75.783
+1730,Flemington,Clinton County,41.126,-77.472
+1653,Fairhope,Fayette County,40.114,-79.840
+3602,Nottingham,Chester County,39.749,-76.019
+0342,Belfast,Northampton County,40.781,-75.278
+0480,Bloomfield,Perry County,40.419,-77.189
+4582,Simpson,Lackawanna County,41.592,-75.485
+5404,Williamsburg,Blair County,40.462,-78.200
+2116,Hawley,Wayne County,41.476,-75.182
+3070,Marshallton,Northumberland County,40.787,-76.539
+4388,Salix,Cambria County,40.300,-78.765
+0533,Boswell,Somerset County,40.161,-79.029
+1692,Faxon,Lycoming County,41.248,-76.977
+0729,Calumet,Westmoreland County,40.211,-79.485
+2185,Hastings,Cambria County,40.665,-78.712
+4174,Republic,Fayette County,39.963,-79.877
+3356,Morrisville,Greene County,39.895,-80.162
+5351,Whitaker,Allegheny County,40.398,-79.890
+5357,White Haven,Luzerne County,41.061,-75.774
+2364,Houston,Washington County,40.246,-80.211
+2907,Loretto,Cambria County,40.503,-78.630
+4339,Royalton,Dauphin County,40.187,-76.730
+3651,Oklahoma,Clearfield County,41.114,-78.733
+3056,Marion,Franklin County,39.857,-77.695
+4873,Sykesville,Jefferson County,41.050,-78.822
+4059,Prospect,Butler County,40.905,-80.046
+0953,Christiana,Lancaster County,39.955,-75.997
+0488,Blue Ball,Lancaster County,40.119,-76.047
+2224,Hebron,Lebanon County,40.339,-76.399
+4771,Stiles,Lehigh County,40.665,-75.508
+0409,Bessemer,Lawrence County,40.975,-80.494
+3503,New Philadelphia,Schuylkill County,40.720,-76.116
+1683,Farmington,Fayette County,39.807,-79.566
+1224,Curtisville,Allegheny County,40.642,-79.851
+0797,Carrolltown,Cambria County,40.603,-78.709
+3468,New Bedford,Lawrence County,41.097,-80.505
+0905,Chase,Luzerne County,41.285,-75.963
+0333,Beavertown,Snyder County,40.754,-77.169
+1409,Dunbar,Fayette County,39.978,-79.614
+1240,Dale,Cambria County,40.313,-78.904
+0872,Central City,Somerset County,40.111,-78.802
+3251,Millville,Columbia County,41.120,-76.530
+3986,Pomeroy,Chester County,39.964,-75.887
+2760,Lawrence,Washington County,40.306,-80.121
+3773,Palo Alto,Schuylkill County,40.687,-76.172
+2861,Liverpool,Perry County,40.575,-76.989
+2712,Lakeville,Wayne County,41.438,-75.277
+4631,South Fork,Cambria County,40.367,-78.791
+1555,Ellsworth,Washington County,40.112,-80.017
+2153,Harmony,Butler County,40.801,-80.127
+1967,Goldsboro,York County,40.153,-76.750
+2826,Lincoln,Allegheny County,40.319,-79.855
+3220,Midway,Adams County,39.808,-77.003
+3220,Midway,Washington County,40.369,-80.293
+1012,Clinton,Allegheny County,40.490,-80.294
+1081,Columbus,Warren County,41.941,-79.582
+1812,Fredericksburg,Crawford County,41.646,-80.177
+4055,Pringle,Luzerne County,41.278,-75.897
+3848,Penryn,Lancaster County,40.205,-76.368
+3118,McClure,Snyder County,40.707,-77.314
+4511,Seneca,Venango County,41.379,-79.704
+1833,Frisco,Beaver County,40.852,-80.268
+2819,Lilly,Cambria County,40.426,-78.620
+2823,Lime Ridge,Columbia County,41.028,-76.339
+1681,Farmersville,Lancaster County,40.128,-76.165
+4216,Riegelsville,Bucks County,40.594,-75.195
+4669,Spring Hill,Cambria County,40.376,-78.670
+4277,Rockwood,Somerset County,39.916,-79.152
+1987,Gouldsboro,Monroe County,41.246,-75.442
+3242,Millheim,Centre County,40.891,-77.477
+3962,Pleasantville,Venango County,41.592,-79.579
+0390,Benton,Columbia County,41.195,-76.384
+3509,New Salem,York County,39.901,-76.789
+4598,Smithfield,Fayette County,39.803,-79.808
+3501,New Milford,Susquehanna County,41.873,-75.727
+2167,Harrisville,Butler County,41.137,-80.009
+4004,Port Royal,Juniata County,40.533,-77.386
+1898,Georgetown,Lancaster County,39.938,-76.083
+4579,Silverdale,Bucks County,40.348,-75.271
+0971,Clarence,Centre County,41.048,-77.940
+2113,Halifax,Dauphin County,40.468,-76.932
+5436,Winfield,Union County,40.909,-76.855
+4672,Spring Ridge,Berks County,40.353,-75.990
+3469,New Berlin,Union County,40.879,-76.987
+3651,Oklahoma,Westmoreland County,40.581,-79.574
+4361,Rutledge,Delaware County,39.902,-75.329
+1592,Englewood,Schuylkill County,40.784,-76.242
+4966,Tipton,Blair County,40.636,-78.296
+1977,Gordon,Schuylkill County,40.752,-76.336
+3960,Pleasant View,Armstrong County,40.611,-79.574
+1637,Everson,Fayette County,40.091,-79.588
+0206,Atlas,Northumberland County,40.800,-76.428
+1524,Eldred,McKean County,41.958,-78.385
+2579,Kersey,Elk County,41.362,-78.596
+1909,Gibraltar,Berks County,40.284,-75.872
+2024,Gratz,Dauphin County,40.612,-76.719
+0883,Chalfant,Allegheny County,40.409,-79.839
+0594,Bridgewater,Beaver County,40.705,-80.301
+0993,Claysville,Washington County,40.118,-80.410
+4303,Roscoe,Washington County,40.080,-79.866
+1307,Delta,York County,39.727,-76.327
+4387,Salisbury,Somerset County,39.753,-79.081
+3980,Polk,Venango County,41.367,-79.929
+3542,Nicholson,Wyoming County,41.626,-75.780
+3790,Parker,Armstrong County,41.096,-79.683
+3239,Millerstown,Perry County,40.550,-77.155
+3785,Paris,Washington County,40.404,-80.513
+2762,Lawrenceville,Tioga County,41.998,-77.126
+0636,Brownstown,Cambria County,40.335,-78.938
+4594,Sligo,Clarion County,41.109,-79.490
+5090,Valencia,Butler County,40.675,-79.990
+2631,Knoxville,Tioga County,41.957,-77.439
+1289,Deer Lake,Schuylkill County,40.625,-76.060
+0504,Bobtown,Greene County,39.761,-79.981
+2260,Hickory,Washington County,40.299,-80.309
+2490,Jerome,Somerset County,40.209,-78.984
+3484,New Florence,Westmoreland County,40.380,-79.075
+0213,Auburn,Schuylkill County,40.598,-76.093
+5074,Unionville,Butler County,40.941,-79.962
+4536,Sheffield,Warren County,41.704,-79.036
+2482,Jefferson,York County,39.817,-76.842
+4108,Ramblewood,Centre County,40.720,-77.956
+4434,Sandy Lake,Mercer County,41.349,-80.082
+5525,Yatesville,Luzerne County,41.303,-75.787
+3884,Picture Rocks,Lycoming County,41.280,-76.713
+2028,Great Bend,Susquehanna County,41.972,-75.743
+3509,New Salem,Fayette County,39.924,-79.836
+3384,Mount Morris,Greene County,39.733,-80.068
+2748,Lattimer,Luzerne County,40.994,-75.961
+0330,Beaverdale,Cambria County,40.322,-78.697
+4759,Stevens,Lancaster County,40.216,-76.156
+5513,Wyalusing,Bradford County,41.668,-76.262
+5186,Wakefield,Lancaster County,39.774,-76.179
+3499,New Market,York County,40.223,-76.852
+5249,Waverly,Lackawanna County,41.526,-75.705
+2716,Lamar,Clinton County,41.016,-77.531
+2905,Lorain,Cambria County,40.299,-78.892
+5505,Worthington,Armstrong County,40.838,-79.632
+5345,Wheatland,Mercer County,41.201,-80.498
+5074,Unionville,Chester County,39.895,-75.734
+2474,Jamestown,Mercer County,41.485,-80.438
+0975,Clark,Mercer County,41.286,-80.428
+3626,Oakland,Susquehanna County,41.950,-75.605
+1979,Gordonville,Lancaster County,40.020,-76.134
+2467,Jacksonville,Indiana County,40.541,-79.282
+1458,East Rochester,Beaver County,40.700,-80.268
+1815,Freeburg,Snyder County,40.763,-76.939
+4817,Sugar Grove,Warren County,41.983,-79.339
+1271,Dayton,Armstrong County,40.880,-79.242
+3281,Modena,Chester County,39.967,-75.800
+4610,Snydertown,Centre County,40.984,-77.586
+0074,Allenport,Huntingdon County,40.374,-77.870
+1191,Cross Keys,Blair County,40.446,-78.433
+1651,Fairfield,Adams County,39.787,-77.369
+1193,Cross Roads,York County,39.820,-76.577
+3221,Mifflin,Juniata County,40.570,-77.403
+4161,Reedsville,Mifflin County,40.664,-77.596
+0657,Buckhorn,Columbia County,41.019,-76.501
+3094,Mather,Greene County,39.935,-80.074
+5197,Wall,Allegheny County,40.394,-79.786
+4624,Summerville,Jefferson County,41.116,-79.187
+3527,Newell,Fayette County,40.076,-79.898
+1698,Felton,York County,39.855,-76.564
+2400,Hyde Park,Westmoreland County,40.633,-79.590
+3070,Marshallton,Chester County,39.950,-75.680
+1434,Eagle,Chester County,40.077,-75.688
+3464,New Alexandria,Westmoreland County,40.399,-79.422
+4010,Portland,Northampton County,40.923,-75.097
+3296,Monroe,Bradford County,41.712,-76.475
+2728,Lanesboro,Susquehanna County,41.957,-75.585
+5536,Yukon,Westmoreland County,40.213,-79.683
+0074,Allenport,Washington County,40.098,-79.849
+3693,Orangeville,Columbia County,41.078,-76.414
+0223,Austin,Potter County,41.631,-78.091
+4827,Summerhill,Cambria County,40.378,-78.761
+1523,Eldorado,Blair County,40.472,-78.424
+3159,Mechanicsville,Schuylkill County,40.690,-76.186
+3252,Millwood,Westmoreland County,40.353,-79.278
+3371,Mount Aetna,Berks County,40.419,-76.295
+4943,Thornburg,Allegheny County,40.435,-80.082
+4254,Robinson,Indiana County,40.404,-79.139
+3000,Maitland,Mifflin County,40.631,-77.503
 0000,Aaronsburg,Centre County,40.900,-77.453
-4809,Springtown,Bucks County,40.556,-75.289
-1510,Dunlo,Cambria County,40.295,-78.721
-3343,Mexico,Juniata County,40.538,-77.353
-1900,Forestville,Schuylkill County,40.692,-76.301
-5502,Wilcox,Elk County,41.576,-78.688
-3117,Lyons,Berks County,40.482,-75.758
-3539,Muir,Schuylkill County,40.592,-76.519
-0098,Altamont,Schuylkill County,40.786,-76.225
-0525,Bolivar,Westmoreland County,40.397,-79.152
-1089,Clintonville,Venango County,41.199,-79.873
-3971,Penn,Westmoreland County,40.329,-79.641
-1948,Fredonia,Mercer County,41.322,-80.259
-4902,Stockdale,Washington County,40.083,-79.848
-1468,Douglassville,Berks County,40.258,-75.726
-1536,Eagleville,Centre County,41.056,-77.593
-3038,Long Branch,Washington County,40.104,-79.869
-1250,Crenshaw,Jefferson County,41.249,-78.762
-3182,Mapleton,Huntingdon County,40.394,-77.941
-1380,Deer Lake,Fayette County,39.850,-79.589
-3992,Petersburg,Huntingdon County,40.573,-78.047
-4193,Prospect Park,Cameron County,41.517,-78.216
-3763,Oberlin,Dauphin County,40.241,-76.815
-2013,Garrett,Somerset County,39.863,-79.058
-3198,Marion Center,Indiana County,40.770,-79.050
-1036,Clarendon,Warren County,41.780,-79.093
-5229,Vanderbilt,Fayette County,40.033,-79.661
-1765,Tuscarora,Schuylkill County,40.770,-76.037
-4657,Seward,Westmoreland County,40.414,-79.020
-4845,St. Michael,Cambria County,40.337,-78.771
-0077,Allensville,Mifflin County,40.536,-77.817
-1386,Defiance,Bedford County,40.161,-78.230
-3380,Millerton,Tioga County,41.983,-76.939
-0480,Blanchard,Centre County,41.064,-77.598
-1795,Falmouth,Lancaster County,40.129,-76.714
-3194,Marianna,Washington County,40.025,-80.100
-0323,Beallsville,Washington County,40.065,-80.024
-1189,Cooperstown,Venango County,41.499,-79.870
-2577,Indian Lake,Somerset County,40.047,-78.852
-4328,Richfield,Juniata County,40.684,-77.124
-0060,Alexandria,Huntingdon County,40.556,-78.098
-4320,Rome,Bradford County,41.858,-76.341
-3169,Manorville,Armstrong County,40.787,-79.520
-3153,Mammoth,Westmoreland County,40.201,-79.463
-3387,Millsboro,Washington County,39.987,-79.994
-4802,Springboro,Crawford County,41.801,-80.369
-2090,Glendon,Northampton County,40.666,-75.236
-3655,Newburg,Cumberland County,40.137,-77.555
-3737,Nuremberg,Luzerne County,40.938,-76.168
-3353,Middleport,Schuylkill County,40.730,-76.085
-2097,Madison,Westmoreland County,40.247,-79.677
-1815,Farwell,Clinton County,41.333,-77.714
-0084,Allison,Fayette County,39.989,-79.865
-5446,Westover,Clearfield County,40.750,-78.671
-2421,Herndon,Northumberland County,40.710,-76.842
-1354,Dawson,Fayette County,40.047,-79.654
-2291,Weston,Luzerne County,40.941,-76.142
-3809,Oneida,Schuylkill County,40.908,-76.125
-1454,Donaldson,Schuylkill County,40.636,-76.412
-4734,Smithton,Westmoreland County,40.154,-79.741
+4682,Springtown,Bucks County,40.556,-75.289
+1417,Dunlo,Cambria County,40.295,-78.721
+3201,Mexico,Juniata County,40.538,-77.353
+1766,Forestville,Schuylkill County,40.692,-76.301
+5394,Wilcox,Elk County,41.576,-78.688
+2971,Lyons,Berks County,40.482,-75.758
+3406,Muir,Schuylkill County,40.592,-76.519
+0095,Altamont,Schuylkill County,40.786,-76.225
+0515,Bolivar,Westmoreland County,40.397,-79.152
+1014,Clintonville,Venango County,41.199,-79.873
+3843,Penn,Westmoreland County,40.329,-79.641
+1814,Fredonia,Mercer County,41.322,-80.259
+4776,Stockdale,Washington County,40.083,-79.848
+1376,Douglassville,Berks County,40.258,-75.726
+1444,Eagleville,Centre County,41.056,-77.593
+2890,Long Branch,Washington County,40.104,-79.869
+1167,Crenshaw,Jefferson County,41.249,-78.762
+3041,Mapleton,Huntingdon County,40.394,-77.941
+1289,Deer Lake,Fayette County,39.850,-79.589
+3865,Petersburg,Huntingdon County,40.573,-78.047
+4060,Prospect Park,Cameron County,41.517,-78.216
+3631,Oberlin,Dauphin County,40.241,-76.815
+1874,Garrett,Somerset County,39.863,-79.058
+3057,Marion Center,Indiana County,40.770,-79.050
+0972,Clarendon,Warren County,41.780,-79.093
+5114,Vanderbilt,Fayette County,40.033,-79.661
+4521,Seward,Westmoreland County,40.414,-79.020
+5039,Tuscarora,Schuylkill County,40.770,-76.037
+4718,St. Michael,Cambria County,40.337,-78.771
+0075,Allensville,Mifflin County,40.536,-77.817
+1294,Defiance,Bedford County,40.161,-78.230
+3241,Millerton,Tioga County,41.983,-76.939
+0471,Blanchard,Centre County,41.064,-77.598
+1675,Falmouth,Lancaster County,40.129,-76.714
+3052,Marianna,Washington County,40.025,-80.100
+0315,Beallsville,Washington County,40.065,-80.024
+1106,Cooperstown,Venango County,41.499,-79.870
+2414,Indian Lake,Somerset County,40.047,-78.852
+4197,Richfield,Juniata County,40.684,-77.124
+0058,Alexandria,Huntingdon County,40.556,-78.098
+4188,Rome,Bradford County,41.858,-76.341
+3028,Manorville,Armstrong County,40.787,-79.520
+3009,Mammoth,Westmoreland County,40.201,-79.463
+3248,Millsboro,Washington County,39.987,-79.994
+4674,Springboro,Crawford County,41.801,-80.369
+1944,Glendon,Northampton County,40.666,-75.236
+3522,Newburg,Cumberland County,40.137,-77.555
+3604,Nuremberg,Luzerne County,40.938,-76.168
+3212,Middleport,Schuylkill County,40.730,-76.085
+2988,Madison,Westmoreland County,40.247,-79.677
+1691,Farwell,Clinton County,41.333,-77.714
+0082,Allison,Fayette County,39.989,-79.865
+5334,Westover,Clearfield County,40.750,-78.671
+2248,Herndon,Northumberland County,40.710,-76.842
+1269,Dawson,Fayette County,40.047,-79.654
+5333,Weston,Luzerne County,40.941,-76.142
+3678,Oneida,Schuylkill County,40.908,-76.125
+1362,Donaldson,Schuylkill County,40.636,-76.412
+4600,Smithton,Westmoreland County,40.154,-79.741
 0000,Aaronsburg,Washington County,40.011,-80.001
-3204,Marlin,Schuylkill County,40.678,-76.245
-4850,St. Petersburg,Clarion County,41.162,-79.653
-5416,West Liberty,Butler County,41.007,-80.053
-5115,Townville,Crawford County,41.678,-79.880
-4743,Snydertown,Northumberland County,40.880,-76.666
-2561,Hutchinson,Westmoreland County,40.226,-79.733
-0542,Boston,Allegheny County,40.312,-79.823
-0926,Centerport,Berks County,40.486,-76.007
-1212,Corsica,Jefferson County,41.181,-79.202
-2776,Kirkwood,Lancaster County,39.856,-76.077
-4529,Saltillo,Huntingdon County,40.211,-78.007
-1572,Eau Claire,Butler County,41.136,-79.798
-2911,Laurelton,Union County,40.883,-77.199
-5393,Wellsville,York County,40.051,-76.937
-1628,Elberta,Blair County,40.514,-78.322
-3278,McKee,Blair County,40.360,-78.417
-0921,Rogersville,Greene County,39.881,-80.273
-0550,Bowers,Berks County,40.487,-75.742
-2778,Kistler,Mifflin County,40.380,-77.868
-5028,Taylorstown,Washington County,40.160,-80.378
-3368,Mill Creek,Huntingdon County,40.436,-77.931
-5576,Woodbury,Bedford County,40.226,-78.367
-1248,Creekside,Indiana County,40.679,-79.188
-4129,Port Clinton,Schuylkill County,40.582,-76.024
-4572,Sandy Ridge,Centre County,40.815,-78.236
-4069,Plainfield,Cumberland County,40.203,-77.290
-0986,Cherry Tree,Indiana County,40.726,-78.807
-1938,Franklin,Cambria County,40.342,-78.885
-1280,Crown,Clarion County,41.390,-79.271
-5190,Unionville,Centre County,40.907,-77.876
-1630,Elco,Washington County,40.078,-79.869
-2216,Greensboro,Greene County,39.791,-79.913
-3596,New Albany,Bradford County,41.600,-76.442
-1794,Fallston,Beaver County,40.726,-80.316
-3094,Lumber City,Mifflin County,40.660,-77.601
-5635,Youngstown,Westmoreland County,40.280,-79.366
-2193,Jefferson,Greene County,39.930,-80.059
-4376,Riverside,Cambria County,40.283,-78.922
-1342,Darlington,Beaver County,40.810,-80.423
-0419,Bethany,Wayne County,41.613,-75.284
-3668,Newry,Blair County,40.394,-78.436
-0794,Liberty,Tioga County,41.558,-77.105
-4480,Rupert,Columbia County,40.979,-76.474
-5136,Troutville,Clearfield County,41.026,-78.785
-2413,Henrietta,Blair County,40.265,-78.297
-3669,Newtown,Schuylkill County,40.651,-76.348
-0474,Blain,Perry County,40.338,-77.512
-0728,Chapman,Northampton County,40.761,-75.405
-0081,Allenwood,Union County,41.108,-76.898
-3612,New Columbus,Luzerne County,41.173,-76.294
-5001,Sylvania,Bradford County,41.805,-76.857
-2438,Hickory Hills,Luzerne County,41.038,-75.820
-0190,Ashville,Cambria County,40.560,-78.549
-1947,Fredericktown,Washington County,40.003,-79.998
-2633,James City,Elk County,41.620,-78.839
-5533,Wilmore,Cambria County,40.389,-78.719
-2092,Glenfield,Allegheny County,40.518,-80.130
-4931,Strong,Northumberland County,40.799,-76.438
-2039,Georgetown,Beaver County,40.641,-80.498
-1639,Elgin,Erie County,41.903,-79.744
-5347,Washingtonville,Montour County,41.052,-76.675
-2686,Julian,Centre County,40.864,-77.939
-3635,New Paris,Bedford County,40.106,-78.645
-4898,Stillwater,Columbia County,41.149,-76.366
-2597,Iola,Columbia County,41.136,-76.532
-4090,Pleasantville,Bedford County,40.180,-78.613
-1047,Clarksville,Greene County,39.973,-80.044
-2627,Jackson Center,Mercer County,41.273,-80.139
-0711,Burnside,Clearfield County,40.813,-78.786
-3627,New Lebanon,Mercer County,41.415,-80.075
-0395,Benson,Somerset County,40.208,-78.928
-1496,Dudley,Huntingdon County,40.205,-78.181
-2304,Utica,Venango County,41.436,-79.957
-0086,Allport,Clearfield County,40.967,-78.201
-1568,Eastvale,Beaver County,40.767,-80.315
-2927,Leeper,Clarion County,41.370,-79.304
-3995,Petrolia,Butler County,41.017,-79.718
-0929,Centerville,Crawford County,41.736,-79.763
-4447,Roseville,Tioga County,41.866,-76.957
-3655,Newburg,Blair County,40.522,-78.425
-0863,Casanova,Centre County,40.955,-78.168
-1273,Cross Creek,Washington County,40.329,-80.409
-2700,Karns City,Butler County,40.994,-79.725
-2568,Idaville,Adams County,40.015,-77.203
-4274,Red Hill,Blair County,40.530,-78.435
-0249,Baileyville,Centre County,40.708,-77.985
-3728,Northwood,Blair County,40.685,-78.230
-0326,Bear Lake,Warren County,41.993,-79.503
-5597,Woodward,Centre County,40.899,-77.356
-1237,Crabtree,Westmoreland County,40.362,-79.471
-0016,Adamsburg,Westmoreland County,40.312,-79.656
-4613,Schubert,Berks County,40.498,-76.221
-1946,Fredericksburg,Blair County,40.317,-78.519
-1528,Eagle Creek,Centre County,40.895,-77.892
-0875,Cassville,Huntingdon County,40.293,-78.027
-3600,New Baltimore,Somerset County,39.986,-78.773
-5252,Vicksburg,Union County,40.939,-76.988
-0044,Alba,Bradford County,41.705,-76.828
-0576,Brandonville,Schuylkill County,40.861,-76.166
-2716,Kempton,Berks County,40.626,-75.852
-1102,Coaldale,Bedford County,40.167,-78.215
-3603,New Boston,Schuylkill County,40.797,-76.152
-0906,Cedar Crest,Mifflin County,40.397,-77.886
-2409,Hendersonville,Washington County,40.299,-80.152
-1088,Clintondale,Clinton County,41.017,-77.521
-0215,Atwood,Armstrong County,40.755,-79.266
-2643,Jeddo,Luzerne County,40.996,-75.896
-3583,Needmore,Fulton County,39.846,-78.145
-4265,Reightown,Blair County,40.602,-78.333
-5418,West Middletown,Washington County,40.243,-80.427
-3564,Naomi,Fayette County,40.107,-79.841
-2512,Homewood,Beaver County,40.814,-80.329
-1965,Friendsville,Susquehanna County,41.917,-76.045
-3455,Monument,Centre County,41.111,-77.704
-1113,Coburn,Centre County,40.863,-77.464
-1104,Coalmont,Huntingdon County,40.211,-78.200
-0448,Birmingham,Huntingdon County,40.648,-78.195
-3508,Mount Carbon,Schuylkill County,40.675,-76.188
-0018,Adamsville,Crawford County,41.511,-80.370
-2382,Haysville,Allegheny County,40.526,-80.159
-3655,Newburg,Clearfield County,40.835,-78.677
-2182,Gray,Blair County,40.657,-78.254
-4821,St. Clairsville,Bedford County,40.157,-78.510
-2031,Geneva,Crawford County,41.563,-80.225
-5607,Worthville,Jefferson County,41.025,-79.138
-2077,Glasgow,Beaver County,40.646,-80.506
-2629,Jacksonville,Centre County,40.992,-77.632
-4820,St. Clair,Blair County,40.479,-78.230
-2676,Jonestown,Columbia County,41.129,-76.304
-0208,Atlantic,Crawford County,41.505,-80.339
-3800,Olivia,Blair County,40.713,-78.202
-0987,Cherry Valley,Butler County,41.157,-79.799
-4323,Riceville,Crawford County,41.778,-79.803
-2984,Lincolnville,Crawford County,41.794,-79.838
-3650,New Washington,Clearfield County,40.823,-78.705
-5252,Vicksburg,Blair County,40.368,-78.415
-1485,Driftwood,Cameron County,41.340,-78.134
-0341,Beavertown,Blair County,40.372,-78.237
-5203,Vail,Blair County,40.706,-78.211
-5312,Waller,Columbia County,41.233,-76.423
-1848,Fisherville,Blair County,40.473,-78.172
-4653,Seven Springs,Fayette County,40.027,-79.294
-3378,Millerstown,Blair County,40.279,-78.298
-0934,Centralia,Columbia County,40.804,-76.341
-0011,Acme,Westmoreland County,40.127,-79.435
-0037,Airville,York County,39.832,-76.406
-0090,Almont,Bucks County,40.364,-75.334
-0120,Amity,Bucks County,40.509,-75.286
-0126,Andalusia,Bucks County,40.069,-74.971
-0168,Ardsley,Montgomery County,40.121,-75.155
-0343,Bedminster,Bucks County,40.426,-75.179
-0479,Blakeslee,Monroe County,41.093,-75.593
-0642,Broughton,Allegheny County,40.330,-79.988
-0652,Brownsville,Berks County,40.367,-76.076
-0657,Bruceton,Allegheny County,40.305,-79.981
-0682,Buena Vista,Allegheny County,40.277,-79.799
-0745,Cabot,Butler County,40.765,-79.766
-0781,Camp Hill,Montgomery County,40.127,-75.195
-0838,Karns,Allegheny County,40.630,-79.704
-0916,Salina,Westmoreland County,40.522,-79.498
-0924,Center Valley,Lehigh County,40.529,-75.393
-0974,Chelsea,Delaware County,39.867,-75.468
-1043,Clarksburg,Indiana County,40.534,-79.382
-1085,Clinton,Armstrong County,40.706,-79.586
-1122,Cokeville,Westmoreland County,40.418,-79.256
-1139,Colesville,Lehigh County,40.572,-75.392
-1206,Corning,Lehigh County,40.451,-75.531
-1224,Coulter,Allegheny County,40.296,-79.801
-1240,Craigsville,Armstrong County,40.852,-79.649
-1249,Creighton,Allegheny County,40.587,-79.778
-1255,Cresco,Monroe County,41.154,-75.281
-1343,Southampton,Bucks County,40.174,-75.044
-1464,Dorseyville,Allegheny County,40.577,-79.889
-1542,Holland,Bucks County,40.201,-74.972
-1594,Edgemont,Dauphin County,40.285,-76.849
-1684,Elwyn,Delaware County,39.908,-75.410
-1689,Embreeville,Chester County,39.929,-75.731
-1691,Emerald,Lehigh County,40.745,-75.635
-1767,Fairhope,Somerset County,39.840,-78.791
-1840,Finland,Bucks County,40.384,-75.419
-1852,Five Points,Berks County,40.362,-75.835
-1907,Fort Hill,Somerset County,39.830,-79.272
-1935,Franconia,Montgomery County,40.308,-75.358
-1960,Frenchville,Clearfield County,41.105,-78.220
-2019,Geryville,Bucks County,40.415,-75.475
-2094,Glenmoore,Chester County,40.089,-75.772
-2119,Good Intent,Washington County,40.037,-80.445
-2171,Grantham,Cumberland County,40.156,-76.996
-2188,Greeley,Pike County,41.421,-74.995
-2200,Green Park,Perry County,40.378,-77.312
-2218,Greentown,Pike County,41.322,-75.305
-2264,Hadley,Mercer County,41.414,-80.233
-2336,Harrisonville,Fulton County,39.987,-78.059
-2360,Morris,Tioga County,41.595,-77.292
-2405,Helvetia,Clearfield County,41.048,-78.774
-2427,Hesston,Huntingdon County,40.427,-78.117
-2441,Hidden Valley,Somerset County,40.107,-75.378
-2467,Hillsville,Lawrence County,41.008,-80.497
-2498,Hollywood,Montgomery County,40.090,-75.094
-2505,Home,Indiana County,40.739,-79.106
-2511,Homeville,Chester County,39.861,-75.987
-2515,Hood,Bucks County,40.361,-74.963
-2519,Hopewell,Chester County,39.779,-76.016
-2566,Idaho,Armstrong County,40.654,-79.347
-2611,Ironville,Blair County,40.658,-78.216
-2629,Jacksonville,Lehigh County,40.671,-75.829
-2660,Joanna,Berks County,40.174,-75.862
-2764,Kingsley,Susquehanna County,41.760,-75.752
-2772,Kirbyville,Berks County,40.474,-75.859
-2842,Lake Como,Wayne County,41.850,-75.337
-2869,Lakewood,Wayne County,41.852,-75.381
-2879,Lanark,Lehigh County,40.552,-75.433
-2919,Layton,Fayette County,40.090,-79.723
-2931,Leetonia,Tioga County,41.600,-77.495
-2991,Linfield,Montgomery County,40.210,-75.570
-3013,Livonia,Centre County,40.981,-77.292
-3024,Locust Valley,Lehigh County,40.497,-75.406
-3089,Lucknow,Dauphin County,40.327,-76.886
-3106,Luxor,Westmoreland County,40.334,-79.478
-3151,Malta,Northumberland County,40.618,-76.909
-3199,Merion Station,Montgomery County,39.993,-75.251
-3255,Mazeppa,Union County,40.984,-76.988
-3291,McVille,Armstrong County,40.726,-79.603
-3296,Meadowbrook,Montgomery County,40.112,-75.078
-3401,Mineral Point,Cambria County,40.379,-78.835
-3443,Monterey,Franklin County,39.738,-77.471
-3461,Moores Mill,Blair County,40.495,-78.268
-3516,Mount Jackson,Lawrence County,40.962,-80.435
-3521,Mount Tabor,Armstrong County,40.987,-79.218
-3574,Nauvoo,Tioga County,41.564,-77.209
-3584,Neffs,Lehigh County,40.694,-75.610
-3655,Newburg,Northampton County,40.703,-75.330
-3663,Newfoundland,Wayne County,41.307,-75.287
-3708,North Hills,Montgomery County,40.112,-75.170
-3754,Oaks,Montgomery County,40.132,-75.460
-3811,Ono,Lebanon County,40.403,-76.535
-3826,Oregon,Lancaster County,40.114,-76.248
-3972,Penn Valley,Montgomery County,40.025,-75.260
-4046,Pineville,Bucks County,40.296,-75.006
-4059,Pitman,Schuylkill County,40.715,-76.521
-4087,Pleasant Valley,Bucks County,40.521,-75.293
-4107,Point Pleasant,Bucks County,40.422,-75.066
-4231,Radnor,Delaware County,40.046,-75.360
-4239,Ralston,Lycoming County,41.506,-76.954
-4384,Robertsdale,Huntingdon County,40.184,-78.115
-4407,Rockville,Dauphin County,40.336,-76.905
-4450,Roslyn,Montgomery County,40.132,-75.138
-4458,Rough and Ready,Schuylkill County,40.679,-76.628
-4463,Round Top,Adams County,39.795,-77.233
-4498,Rydal,Montgomery County,40.106,-75.109
-4684,Wayne,Delaware County,40.044,-75.388
-4701,Sigel,Jefferson County,41.275,-79.113
-4710,Silver Spring,Lancaster County,40.064,-76.437
-4731,Smith Corner,Blair County,40.358,-78.486
-4799,Spring Mill,Montgomery County,40.075,-75.285
-4875,Starlight,Wayne County,41.905,-75.331
-4883,Steelville,Chester County,39.905,-75.994
-4920,Strafford,Chester County,40.051,-75.404
-4929,Strickersville,Chester County,39.734,-75.793
-4933,Struble,Centre County,40.783,-77.876
-4948,Sugartown,Chester County,39.999,-75.508
-4952,Summerdale,Cumberland County,40.294,-76.926
-4992,Swiftwater,Monroe County,41.095,-75.325
-5000,Sylvan Grove,Clearfield County,41.029,-78.154
-5020,Tannersville,Monroe County,41.040,-75.306
-5065,Thornton,Delaware County,39.907,-75.532
-5190,Unionville,Bucks County,40.298,-75.283
-5212,Valley Forge,Chester County,40.097,-75.470
-5212,Valley Forge,York County,39.983,-76.709
-5239,Vera Cruz,Lehigh County,40.505,-75.497
-5313,Wallingford,Delaware County,39.891,-75.363
-5332,Warrendale,Allegheny County,40.653,-80.079
-5345,Washington Crossing,Bucks County,40.293,-74.871
-5395,Wendel,Westmoreland County,40.296,-79.686
-5415,West Lebanon,Indiana County,40.602,-79.354
-5448,Westport,Clinton County,41.302,-77.840
-5492,Whitsett,Fayette County,40.104,-79.751
-5513,Williamson,Franklin County,39.853,-77.797
-5530,Willowdale,Chester County,39.874,-75.718
-5648,Zionsville,Lehigh County,40.480,-75.505
+3062,Marlin,Schuylkill County,40.678,-76.245
+4723,St. Petersburg,Clarion County,41.162,-79.653
+5302,West Liberty,Butler County,41.007,-80.053
+4997,Townville,Crawford County,41.678,-79.880
+4610,Snydertown,Northumberland County,40.880,-76.666
+2398,Hutchinson,Westmoreland County,40.226,-79.733
+0532,Boston,Allegheny County,40.312,-79.823
+0867,Centerport,Berks County,40.486,-76.007
+1129,Corsica,Jefferson County,41.181,-79.202
+2617,Kirkwood,Lancaster County,39.856,-76.077
+4392,Saltillo,Huntingdon County,40.211,-78.007
+1472,Eau Claire,Butler County,41.136,-79.798
+2756,Laurelton,Union County,40.883,-77.199
+5280,Wellsville,York County,40.051,-76.937
+1518,Elberta,Blair County,40.514,-78.322
+3138,McKee,Blair County,40.360,-78.417
+4288,Rogersville,Greene County,39.881,-80.273
+0540,Bowers,Berks County,40.487,-75.742
+2619,Kistler,Mifflin County,40.380,-77.868
+4907,Taylorstown,Washington County,40.160,-80.378
+3229,Mill Creek,Huntingdon County,40.436,-77.931
+5473,Woodbury,Bedford County,40.226,-78.367
+1165,Creekside,Indiana County,40.679,-79.188
+3999,Port Clinton,Schuylkill County,40.582,-76.024
+4435,Sandy Ridge,Centre County,40.815,-78.236
+3943,Plainfield,Cumberland County,40.203,-77.290
+0926,Cherry Tree,Indiana County,40.726,-78.807
+1804,Franklin,Cambria County,40.342,-78.885
+1197,Crown,Clarion County,41.390,-79.271
+5074,Unionville,Centre County,40.907,-77.876
+1520,Elco,Washington County,40.078,-79.869
+2056,Greensboro,Greene County,39.791,-79.913
+3463,New Albany,Bradford County,41.600,-76.442
+1674,Fallston,Beaver County,40.726,-80.316
+2948,Lumber City,Mifflin County,40.660,-77.601
+5534,Youngstown,Westmoreland County,40.280,-79.366
+2482,Jefferson,Greene County,39.930,-80.059
+4243,Riverside,Cambria County,40.283,-78.922
+1259,Darlington,Beaver County,40.810,-80.423
+0411,Bethany,Wayne County,41.613,-75.284
+3534,Newry,Blair County,40.394,-78.436
+2813,Liberty,Tioga County,41.558,-77.105
+4348,Rupert,Columbia County,40.979,-76.474
+5018,Troutville,Clearfield County,41.026,-78.785
+2238,Henrietta,Blair County,40.265,-78.297
+3536,Newtown,Schuylkill County,40.651,-76.348
+0465,Blain,Perry County,40.338,-77.512
+0893,Chapman,Northampton County,40.761,-75.405
+0079,Allenwood,Union County,41.108,-76.898
+3479,New Columbus,Luzerne County,41.173,-76.294
+4877,Sylvania,Bradford County,41.805,-76.857
+2264,Hickory Hills,Luzerne County,41.038,-75.820
+0185,Ashville,Cambria County,40.560,-78.549
+1813,Fredericktown,Washington County,40.003,-79.998
+2471,James City,Elk County,41.620,-78.839
+5425,Wilmore,Cambria County,40.389,-78.719
+1946,Glenfield,Allegheny County,40.518,-80.130
+4804,Strong,Northumberland County,40.799,-76.438
+1898,Georgetown,Beaver County,40.641,-80.498
+1526,Elgin,Erie County,41.903,-79.744
+5233,Washingtonville,Montour County,41.052,-76.675
+2526,Julian,Centre County,40.864,-77.939
+3502,New Paris,Bedford County,40.106,-78.645
+4772,Stillwater,Columbia County,41.149,-76.366
+2434,Iola,Columbia County,41.136,-76.532
+3962,Pleasantville,Bedford County,40.180,-78.613
+0983,Clarksville,Greene County,39.973,-80.044
+2465,Jackson Center,Mercer County,41.273,-80.139
+0692,Burnside,Clearfield County,40.813,-78.786
+3494,New Lebanon,Mercer County,41.415,-80.075
+0387,Benson,Somerset County,40.208,-78.928
+1403,Dudley,Huntingdon County,40.205,-78.181
+5085,Utica,Venango County,41.436,-79.957
+0084,Allport,Clearfield County,40.967,-78.201
+1468,Eastvale,Beaver County,40.767,-80.315
+2776,Leeper,Clarion County,41.370,-79.304
+3868,Petrolia,Butler County,41.017,-79.718
+0870,Centerville,Crawford County,41.736,-79.763
+4314,Roseville,Tioga County,41.866,-76.957
+3522,Newburg,Blair County,40.522,-78.425
+0811,Casanova,Centre County,40.955,-78.168
+1190,Cross Creek,Washington County,40.329,-80.409
+2540,Karns City,Butler County,40.994,-79.725
+2405,Idaville,Adams County,40.015,-77.203
+4142,Red Hill,Blair County,40.530,-78.435
+0243,Baileyville,Centre County,40.708,-77.985
+3595,Northwood,Blair County,40.685,-78.230
+0318,Bear Lake,Warren County,41.993,-79.503
+5495,Woodward,Centre County,40.899,-77.356
+1154,Crabtree,Westmoreland County,40.362,-79.471
+0015,Adamsburg,Westmoreland County,40.312,-79.656
+4474,Schubert,Berks County,40.498,-76.221
+1812,Fredericksburg,Blair County,40.317,-78.519
+1436,Eagle Creek,Centre County,40.895,-77.892
+0821,Cassville,Huntingdon County,40.293,-78.027
+3467,New Baltimore,Somerset County,39.986,-78.773
+5137,Vicksburg,Union County,40.939,-76.988
+0043,Alba,Bradford County,41.705,-76.828
+0565,Brandonville,Schuylkill County,40.861,-76.166
+2556,Kempton,Berks County,40.626,-75.852
+1026,Coaldale,Bedford County,40.167,-78.215
+3470,New Boston,Schuylkill County,40.797,-76.152
+0849,Cedar Crest,Mifflin County,40.397,-77.886
+2234,Hendersonville,Washington County,40.299,-80.152
+1013,Clintondale,Clinton County,41.017,-77.521
+0210,Atwood,Armstrong County,40.755,-79.266
+2481,Jeddo,Luzerne County,40.996,-75.896
+3451,Needmore,Fulton County,39.846,-78.145
+4133,Reightown,Blair County,40.602,-78.333
+5304,West Middletown,Washington County,40.243,-80.427
+3431,Naomi,Fayette County,40.107,-79.841
+2343,Homewood,Beaver County,40.814,-80.329
+1831,Friendsville,Susquehanna County,41.917,-76.045
+3321,Monument,Centre County,41.111,-77.704
+1037,Coburn,Centre County,40.863,-77.464
+1028,Coalmont,Huntingdon County,40.211,-78.200
+0440,Birmingham,Huntingdon County,40.648,-78.195
+3375,Mount Carbon,Schuylkill County,40.675,-76.188
+0017,Adamsville,Crawford County,41.511,-80.370
+2206,Haysville,Allegheny County,40.526,-80.159
+3522,Newburg,Clearfield County,40.835,-78.677
+2025,Gray,Blair County,40.657,-78.254
+4693,St. Clairsville,Bedford County,40.157,-78.510
+1892,Geneva,Crawford County,41.563,-80.225
+5506,Worthville,Jefferson County,41.025,-79.138
+1931,Glasgow,Beaver County,40.646,-80.506
+2467,Jacksonville,Centre County,40.992,-77.632
+4692,St. Clair,Blair County,40.479,-78.230
+2516,Jonestown,Columbia County,41.129,-76.304
+0203,Atlantic,Crawford County,41.505,-80.339
+3669,Olivia,Blair County,40.713,-78.202
+0927,Cherry Valley,Butler County,41.157,-79.799
+4192,Riceville,Crawford County,41.778,-79.803
+2833,Lincolnville,Crawford County,41.794,-79.838
+3517,New Washington,Clearfield County,40.823,-78.705
+5137,Vicksburg,Blair County,40.368,-78.415
+1392,Driftwood,Cameron County,41.340,-78.134
+0333,Beavertown,Blair County,40.372,-78.237
+5088,Vail,Blair County,40.706,-78.211
+5200,Waller,Columbia County,41.233,-76.423
+1719,Fisherville,Blair County,40.473,-78.172
+4517,Seven Springs,Fayette County,40.027,-79.294
+3239,Millerstown,Blair County,40.279,-78.298
+0875,Centralia,Columbia County,40.804,-76.341
+0010,Acme,Westmoreland County,40.127,-79.435
+0036,Airville,York County,39.832,-76.406
+0088,Almont,Bucks County,40.364,-75.334
+0116,Amity,Bucks County,40.509,-75.286
+0122,Andalusia,Bucks County,40.069,-74.971
+0164,Ardsley,Montgomery County,40.121,-75.155
+0335,Bedminster,Bucks County,40.426,-75.179
+0470,Blakeslee,Monroe County,41.093,-75.593
+0629,Broughton,Allegheny County,40.330,-79.988
+0637,Brownsville,Berks County,40.367,-76.076
+0642,Bruceton,Allegheny County,40.305,-79.981
+0666,Buena Vista,Allegheny County,40.277,-79.799
+0710,Cabot,Butler County,40.765,-79.766
+0741,Camp Hill,Montgomery County,40.127,-75.195
+0787,Karns,Allegheny County,40.630,-79.704
+0859,Salina,Westmoreland County,40.522,-79.498
+0865,Center Valley,Lehigh County,40.529,-75.393
+0914,Chelsea,Delaware County,39.867,-75.468
+0979,Clarksburg,Indiana County,40.534,-79.382
+1012,Clinton,Armstrong County,40.706,-79.586
+1046,Cokeville,Westmoreland County,40.418,-79.256
+1060,Colesville,Lehigh County,40.572,-75.392
+1123,Corning,Lehigh County,40.451,-75.531
+1142,Coulter,Allegheny County,40.296,-79.801
+1157,Craigsville,Armstrong County,40.852,-79.649
+1166,Creighton,Allegheny County,40.587,-79.778
+1172,Cresco,Monroe County,41.154,-75.281
+1372,Dorseyville,Allegheny County,40.577,-79.889
+1484,Edgemont,Dauphin County,40.285,-76.849
+1572,Elwyn,Delaware County,39.908,-75.410
+1577,Embreeville,Chester County,39.929,-75.731
+1579,Emerald,Lehigh County,40.745,-75.635
+1653,Fairhope,Somerset County,39.840,-78.791
+1714,Finland,Bucks County,40.384,-75.419
+1723,Five Points,Berks County,40.362,-75.835
+1773,Fort Hill,Somerset County,39.830,-79.272
+1801,Franconia,Montgomery County,40.308,-75.358
+1826,Frenchville,Clearfield County,41.105,-78.220
+1880,Geryville,Bucks County,40.415,-75.475
+1948,Glenmoore,Chester County,40.089,-75.772
+1972,Good Intent,Washington County,40.037,-80.445
+2014,Grantham,Cumberland County,40.156,-76.996
+2031,Greeley,Pike County,41.421,-74.995
+2039,Green Park,Perry County,40.378,-77.312
+2058,Greentown,Pike County,41.322,-75.305
+2103,Hadley,Mercer County,41.414,-80.233
+2165,Harrisonville,Fulton County,39.987,-78.059
+2230,Helvetia,Clearfield County,41.048,-78.774
+2254,Hesston,Huntingdon County,40.427,-78.117
+2267,Hidden Valley,Somerset County,40.107,-75.378
+2294,Hillsville,Lawrence County,41.008,-80.497
+2317,Holland,Bucks County,40.201,-74.972
+2328,Hollywood,Montgomery County,40.090,-75.094
+2336,Home,Indiana County,40.739,-79.106
+2342,Homeville,Chester County,39.861,-75.987
+2346,Hood,Bucks County,40.361,-74.963
+2351,Hopewell,Chester County,39.779,-76.016
+2403,Idaho,Armstrong County,40.654,-79.347
+2448,Ironville,Blair County,40.658,-78.216
+2467,Jacksonville,Lehigh County,40.671,-75.829
+2499,Joanna,Berks County,40.174,-75.862
+2604,Kingsley,Susquehanna County,41.760,-75.752
+2613,Kirbyville,Berks County,40.474,-75.859
+2684,Lake Como,Wayne County,41.850,-75.337
+2713,Lakewood,Wayne County,41.852,-75.381
+2722,Lanark,Lehigh County,40.552,-75.433
+2765,Layton,Fayette County,40.090,-79.723
+2780,Leetonia,Tioga County,41.600,-77.495
+2840,Linfield,Montgomery County,40.210,-75.570
+2863,Livonia,Centre County,40.981,-77.292
+2874,Locust Valley,Lehigh County,40.497,-75.406
+2943,Lucknow,Dauphin County,40.327,-76.886
+2960,Luxor,Westmoreland County,40.334,-79.478
+3007,Malta,Northumberland County,40.618,-76.909
+3058,Merion Station,Montgomery County,39.993,-75.251
+3114,Mazeppa,Union County,40.984,-76.988
+3150,McVille,Armstrong County,40.726,-79.603
+3154,Meadowbrook,Montgomery County,40.112,-75.078
+3263,Mineral Point,Cambria County,40.379,-78.835
+3308,Monterey,Franklin County,39.738,-77.471
+3327,Moores Mill,Blair County,40.495,-78.268
+3352,Morris,Tioga County,41.595,-77.292
+3383,Mount Jackson,Lawrence County,40.962,-80.435
+3388,Mount Tabor,Armstrong County,40.987,-79.218
+3442,Nauvoo,Tioga County,41.564,-77.209
+3452,Neffs,Lehigh County,40.694,-75.610
+3522,Newburg,Northampton County,40.703,-75.330
+3530,Newfoundland,Wayne County,41.307,-75.287
+3574,North Hills,Montgomery County,40.112,-75.170
+3622,Oaks,Montgomery County,40.132,-75.460
+3680,Ono,Lebanon County,40.403,-76.535
+3695,Oregon,Lancaster County,40.114,-76.248
+3844,Penn Valley,Montgomery County,40.025,-75.260
+3919,Pineville,Bucks County,40.296,-75.006
+3932,Pitman,Schuylkill County,40.715,-76.521
+3959,Pleasant Valley,Bucks County,40.521,-75.293
+3977,Point Pleasant,Bucks County,40.422,-75.066
+4098,Radnor,Delaware County,40.046,-75.360
+4106,Ralston,Lycoming County,41.506,-76.954
+4252,Robertsdale,Huntingdon County,40.184,-78.115
+4275,Rockville,Dauphin County,40.336,-76.905
+4317,Roslyn,Montgomery County,40.132,-75.138
+4325,Rough and Ready,Schuylkill County,40.679,-76.628
+4330,Round Top,Adams County,39.795,-77.233
+4363,Rydal,Montgomery County,40.106,-75.109
+4567,Sigel,Jefferson County,41.275,-79.113
+4577,Silver Spring,Lancaster County,40.064,-76.437
+4597,Smith Corner,Blair County,40.358,-78.486
+4645,Southampton,Bucks County,40.174,-75.044
+4671,Spring Mill,Montgomery County,40.075,-75.285
+4750,Starlight,Wayne County,41.905,-75.331
+4757,Steelville,Chester County,39.905,-75.994
+4794,Strafford,Chester County,40.051,-75.404
+4802,Strickersville,Chester County,39.734,-75.793
+4806,Struble,Centre County,40.783,-77.876
+4821,Sugartown,Chester County,39.999,-75.508
+4825,Summerdale,Cumberland County,40.294,-76.926
+4868,Swiftwater,Monroe County,41.095,-75.325
+4876,Sylvan Grove,Clearfield County,41.029,-78.154
+4898,Tannersville,Monroe County,41.040,-75.306
+4945,Thornton,Delaware County,39.907,-75.532
+5074,Unionville,Bucks County,40.298,-75.283
+5098,Valley Forge,Chester County,40.097,-75.470
+5098,Valley Forge,York County,39.983,-76.709
+5124,Vera Cruz,Lehigh County,40.505,-75.497
+5201,Wallingford,Delaware County,39.891,-75.363
+5220,Warrendale,Allegheny County,40.653,-80.079
+5231,Washington Crossing,Bucks County,40.293,-74.871
+5252,Wayne,Delaware County,40.044,-75.388
+5282,Wendel,Westmoreland County,40.296,-79.686
+5301,West Lebanon,Indiana County,40.602,-79.354
+5336,Westport,Clinton County,41.302,-77.840
+5384,Whitsett,Fayette County,40.104,-79.751
+5405,Williamson,Franklin County,39.853,-77.797
+5547,Zionsville,Lehigh County,40.480,-75.505
