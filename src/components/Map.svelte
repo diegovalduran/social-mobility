@@ -29,6 +29,7 @@
 	import viewport from "$stores/viewport.js";
 	import variables from "$data/variables.json";
 
+	export let story;
 	export let counties;
 	export let states;
 	export let countiesMesh;
@@ -47,8 +48,8 @@
 	export let scaleExpWiki = "0.67";
 	export let scaleExpDist = "1";
 
-	export let scaleBoundsPop = [0, 490000];
-	export let scaleBoundsWiki = [0, 87500];
+	export let scaleBoundsPop = [0, 19677151];
+	export let scaleBoundsWiki = [0, 95406];
 	export let scaleBoundsDist = [50, 200];
 
 	export let valueWeightDist = "2";
@@ -412,7 +413,9 @@
 	$: if (!waiting) displayName = placeName;
 </script>
 
-<MapInfo {displayName} {topLabel} {topColorPrimary} />
+{#if story}
+	<MapInfo {displayName} {topLabel} {topColorPrimary} />
+{/if}
 
 <div class="figure">
 	<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
@@ -469,10 +472,12 @@
 	colorTossText={COLOR_TOSS.textPrimary}
 />
 
-<p class="table-intro">
-	{@html copy.tableIntro}
-	<span class="table-intro-note">*{@html copy.tableIntroNote}</span>
-</p>
+{#if story}
+	<p class="table-intro">
+		{@html copy.tableIntro}
+		<span class="table-intro-note">*{@html copy.tableIntroNote}</span>
+	</p>
+{/if}
 
 <PlaceTable
 	caption="Every place named {placeName}, ranked"
@@ -481,11 +486,13 @@
 	note={copy.placeNote}
 />
 
-<CountyTable
-	caption="Each county’s most likely {placeName} reference"
-	rows={countyRows}
-	columns={countyColumns}
-/>
+{#if story}
+	<CountyTable
+		caption="Each county’s most likely {placeName} reference"
+		rows={countyRows}
+		columns={countyColumns}
+	/>
+{/if}
 
 <style>
 	:global(g .other text) {

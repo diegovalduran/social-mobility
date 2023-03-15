@@ -2,14 +2,17 @@
 	import { browser } from "$app/environment";
 	import { base } from "$app/paths";
 
-	import { getContext } from "svelte";
-	import { csv } from "d3";
+	import { onMount, getContext } from "svelte";
+	import { csv, descending } from "d3";
+	import Select from "$components/Select.svelte";
 	import Map from "$components/Map.svelte";
 	import Scale from "$components/Method.Scale.svelte";
 	import Value from "$components/Method.Value.svelte";
 	import Threshold from "$components/Method.Threshold.svelte";
 	import Footer from "$components/Footer.svelte";
+	import loadUSData from "$data/loadUSData.js";
 	import options from "$data/options.csv";
+	// import test from "$data/test.csv";
 
 	const copy = getContext("copy");
 	const data = getContext("data");
@@ -18,12 +21,12 @@
 	let scaleTypeWiki = "scalePow";
 	let scaleTypeDist = "scaleLog";
 
-	let scaleExpPop = "0.67";
-	let scaleExpWiki = "0.67";
+	let scaleExpPop = "0.5";
+	let scaleExpWiki = "0.5";
 	let scaleExpDist = "1";
 
-	let scaleBoundsPop = [0, 490000];
-	let scaleBoundsWiki = [0, 87500];
+	let scaleBoundsPop = [0, 19677151];
+	let scaleBoundsWiki = [0, 95406];
 	let scaleBoundsDist = [50, 200];
 
 	let valueWeightDist = 2;
@@ -34,48 +37,64 @@
 	let thresholdUpper = 0.75;
 	let valueProp = "share";
 
-	let phonemeId = options[0].phoneme;
 	let placeData;
+	let counties;
+	let states;
+	let countiesMesh;
+	let statesMesh;
+	let nationMesh;
+	let currentPhoneme;
+	let currentName;
 
-	$: if (browser)
+	// const clean = test.map((d) => ({
+	// 	population: +d.population,
+	// 	wiki: +d.wiki_length
+	// }));
+
+	// const pops = clean.map((d) => d.population).filter((d) => d);
+	// const wikis = clean.map((d) => d.wiki).filter((d) => d);
+
+	// pops.sort(descending);
+	// wikis.sort(descending);
+
+	// const len = pops.length;
+	// const one = Math.floor(len * 0.01);
+	// const pointone = Math.floor(len * 0.001);
+	// console.log(pops[pointone]);
+	// console.log(pops[one]);
+	// console.log(wikis[pointone]);
+	// console.log(wikis[one]);
+
+	$: if (browser && currentPhoneme)
 		(async () =>
 			(placeData = await csv(
-				`${base}/assets/places/${phonemeId}.csv?${__TIMESTAMP__}`
+				`${base}/assets/places/${currentPhoneme}.csv?${__TIMESTAMP__}`
 			)))();
 
-	// $: bySampleDist = sample.map(({ name, id, state, level, population }) => ({
-	// 	name,
-	// 	state,
-	// 	level,
-	// 	id,
-	// 	population,
-	// 	features: topScoreFeatures.map((d) => ({
-	// 		...d,
-	// 		properties: {
-	// 			...d.properties,
-	// 			fill: getSampleFillDist(id, d.properties.data)
-	// 		}
-	// 	}))
-	// }));
+	function onChangePlace({ name, phoneme }) {
+		currentPhoneme = phoneme;
+		currentName = name;
+	}
 
-	// $: bySampleShare = sample.map(({ name, id, state, level, population }) => ({
-	// 	name,
-	// 	state,
-	// 	level,
-	// 	id,
-	// 	population,
-	// 	features: topScoreFeatures.map((d) => ({
-	// 		...d,
-	// 		properties: {
-	// 			...d.properties,
-	// 			fill: getSampleFillShare(id, d.properties.data)
-	// 		}
-	// 	}))
-	// }));
+	onMount(async () => {
+		try {
+			const us = await loadUSData();
+			counties = us.counties;
+			states = us.states;
+			countiesMesh = us.countiesMesh;
+			statesMesh = us.statesMesh;
+			nationMesh = us.nationMesh;
+
+			const start = options.find((d) => d.name === "Georgia");
+			onChangePlace(start);
+		} catch (err) {
+			console.log(err);
+		}
+	});
 </script>
 
 <div id="title">
-	<h1>{@html copy.hed}</h1>
+	<h1><strong>{@html copy.hed}</strong></h1>
 	<p>
 		{@html copy.dek}
 	</p>
@@ -83,11 +102,14 @@
 
 <article>
 	<section id="ui">
-		<select bind:value={phonemeId}>
-			{#each options as { name, phoneme }}
-				<option value={phoneme}>{name}</option>
-			{/each}
-		</select>
+		<div class="select">
+			<Select
+				placeholder="Search..."
+				{options}
+				on:change={({ detail }) => onChangePlace(detail)}
+			/>
+		</div>
+
 		<Scale
 			bind:valueScale={scaleTypeDist}
 			bind:valueExp={scaleExpDist}
@@ -126,7 +148,13 @@
 		{#if placeData}
 			<div class="top-score">
 				<Map
+					{counties}
+					{states}
+					{countiesMesh}
+					{statesMesh}
+					{nationMesh}
 					{placeData}
+					placeName={currentName}
 					{scaleTypePop}
 					{scaleTypeWiki}
 					{scaleTypeDist}
@@ -210,6 +238,7 @@
 
 	article {
 		display: flex;
+		margin-top: 32px;
 	}
 
 	.top-score {
@@ -222,11 +251,13 @@
 
 	#ui {
 		width: 16rem;
+		margin: 0 32px;
 		display: flex;
 		flex-direction: column;
 	}
 
 	#maps {
+		margin-left: 32px;
 		position: relative;
 		width: 1280px;
 	}

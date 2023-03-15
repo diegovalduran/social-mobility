@@ -20,7 +20,7 @@
 	import viewport from "$stores/viewport.js";
 
 	const removeStorage = true;
-	const testLocate = false;
+	const testLocate = true;
 
 	const copy = getContext("copy");
 	const data = getContext("data");
@@ -161,6 +161,7 @@
 	<section id="interactive" bind:clientWidth class:shrink>
 		{#if placeData}
 			<Map
+				story={true}
 				{counties}
 				{states}
 				{countiesMesh}

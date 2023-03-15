@@ -3,6 +3,7 @@
 	import { createEventDispatcher } from "svelte";
 
 	export let options;
+	export let placeholder = "Look up a city or town in the US...";
 
 	const dispatch = createEventDispatcher();
 	const extract = (item) => item.name;
@@ -21,7 +22,7 @@
 	on:select={onSelect}
 	inputAfterSelect="clear"
 	limit={10}
-	placeholder="Look up a city or town in the US..."
+	{placeholder}
 />
 
 <style>
