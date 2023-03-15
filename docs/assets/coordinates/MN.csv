@@ -1,1992 +1,577 @@
 phoneme,name,county,latitude,longitude
-05599,Minneapolis,Hennepin County,44.980,-93.264
-08124,St. Paul,Ramsey County,44.944,-93.093
-00869,Bloomington,Hennepin County,44.841,-93.298
-02474,Duluth,St. Louis County,46.783,-92.107
-01111,Brooklyn Park,Hennepin County,45.094,-93.356
-06824,Plymouth,Hennepin County,45.011,-93.456
-09400,Woodbury,Washington County,44.924,-92.959
-04643,Lakeville,Dakota County,44.650,-93.243
-00830,Blaine,Anoka County,45.171,-93.206
-05210,Maple Grove,Hennepin County,45.072,-93.456
-08095,St. Cloud,Benton County,45.527,-94.171
-02517,Eagan,Dakota County,44.804,-93.167
-01232,Burnsville,Dakota County,44.768,-93.278
-01916,Coon Rapids,Anoka County,45.120,-93.288
-00245,Apple Valley,Dakota County,44.732,-93.218
-02618,Edina,Hennepin County,44.890,-93.350
-05186,Mankato,Blue Earth County,44.171,-93.976
-05709,Moorhead,Clay County,46.874,-96.768
-05222,Maplewood,Ramsey County,44.953,-92.995
-01972,Cottage Grove,Washington County,44.828,-92.944
-07219,Richfield,Hennepin County,44.883,-93.283
-07406,Roseville,Ramsey County,45.006,-93.157
-07648,Savage,Scott County,44.779,-93.336
-00208,Andover,Anoka County,45.233,-93.291
-07061,Ramsey,Anoka County,45.261,-93.450
-06229,Oakdale,Washington County,44.963,-92.965
-07401,Rosemount,Dakota County,44.739,-93.126
-02687,Elk River,Sherburne County,45.304,-93.567
-09360,Winona,Winona County,44.050,-91.639
-09217,White Bear Lake,Ramsey County,45.065,-93.013
-02921,Farmington,Dakota County,44.640,-93.144
-05958,New Brighton,Ramsey County,45.066,-93.202
-02109,Crystal,Hennepin County,45.033,-93.360
-03386,Golden Valley,Hennepin County,45.010,-93.349
-03757,Hastings,Dakota County,44.732,-92.855
-01847,Columbia Heights,Anoka County,45.041,-93.263
-06405,Otsego,Wright County,45.274,-93.591
-05998,New Hope,Hennepin County,45.038,-93.387
-06171,Northfield,Dakota County,44.453,-93.176
-03064,Forest Lake,Washington County,45.279,-92.985
-08201,Stillwater,Washington County,45.056,-92.806
-08120,St. Michael,Wright County,45.210,-93.665
-04025,Hopkins,Hennepin County,44.925,-93.463
-00224,Anoka,Anoka County,45.198,-93.387
-07130,Red Wing,Goodhue County,44.562,-92.534
-04080,Hugo,Washington County,45.160,-92.993
-04105,Hutchinson,McLeod County,44.888,-94.370
-00998,Brainerd,Crow Wing County,46.358,-94.201
-06037,New Ulm,Brown County,44.312,-94.461
-05269,Marshall,Lyon County,44.447,-95.788
-07357,Rogers,Hennepin County,45.189,-93.553
-08125,St. Peter,Nicollet County,44.324,-93.958
-03454,Grand Rapids,Itasca County,47.237,-93.530
-06134,North Branch,Chisago County,45.511,-92.980
-08870,Victoria,Carver County,44.859,-93.662
-09216,White Bear,Ramsey County,45.101,-93.025
-01308,Cambridge,Isanti County,45.573,-93.224
-05768,Mound,Hennepin County,44.937,-93.666
-04900,Little Falls,Morrison County,45.976,-94.362
-06214,Oak Grove,Anoka County,45.341,-93.327
-08088,St. Anthony,Hennepin County,45.030,-93.215
-00530,Baxter,Crow Wing County,46.343,-94.287
-08099,St. Francis,Anoka County,45.394,-93.394
-08904,Virginia,St. Louis County,47.523,-92.537
-02226,Dayton,Hennepin County,45.189,-93.472
-06367,Orono,Hennepin County,44.971,-93.604
-00753,Big Lake,Sherburne County,45.342,-93.715
-09467,Wyoming,Chisago County,45.336,-92.997
-00087,Albertville,Wright County,45.238,-93.654
-07830,Shorewood,Carver County,44.902,-93.595
-02076,Crookston,Polk County,47.774,-96.608
-00433,Baldwin,Sherburne County,45.518,-93.552
-01432,Kasson,Dodge County,44.030,-92.751
-05428,Medina,Hennepin County,45.035,-93.582
-04320,Jordan,Scott County,44.667,-93.627
-01934,Corcoran,Hennepin County,45.095,-93.547
-08198,Stewartville,Olmsted County,43.856,-92.489
-02268,Delano,Wright County,45.042,-93.789
-00788,Byron,Olmsted County,44.033,-92.645
-01415,Carver,Carver County,44.764,-93.626
-09525,Zimmerman,Sherburne County,45.443,-93.590
-04921,Livonia,Sherburne County,45.434,-93.563
-03351,Glencoe,McLeod County,44.769,-94.152
-00596,Becker,Sherburne County,45.414,-93.835
-08499,Thomson,Carlton County,46.714,-92.361
-04601,Lake City,Goodhue County,44.446,-92.281
-05677,Montevideo,Chippewa County,44.942,-95.724
-04547,La Crescent,Houston County,43.830,-91.305
-02891,Falcon Heights,Ramsey County,44.992,-93.166
-05743,Morris,Stevens County,45.586,-95.914
-06152,North Oaks,Ramsey County,45.103,-93.079
-00596,Becker,Sherburne County,45.386,-93.886
-05085,Luverne,Rock County,43.654,-96.213
-06965,Princeton,Mille Lacs County,45.568,-93.590
-09342,Windom,Cottonwood County,43.866,-95.117
-04990,Lonsdale,Rice County,44.480,-93.429
-09029,Watertown,Carver County,44.964,-93.847
-08105,St. James,Watonwan County,43.982,-94.627
-01641,Chisholm,St. Louis County,47.489,-92.884
-07329,Rockford,Hennepin County,45.091,-93.745
-08923,Wadena,Otter Tail County,46.447,-95.127
-06065,Newport,Washington County,44.866,-93.000
-04554,La Grand,Douglas County,45.893,-95.457
-01849,Columbus,Anoka County,45.265,-93.050
-01806,Cold Spring,Stearns County,45.456,-94.429
-04742,Le Sueur,Le Sueur County,44.471,-93.902
-06756,Pipestone,Pipestone County,44.001,-96.318
-03406,Goodview,Winona County,44.062,-91.696
-07207,Rice Lake,St. Louis County,46.895,-92.111
-03475,Grant,Washington County,45.084,-92.910
-07662,Scandia,Washington County,45.254,-92.806
-01519,Centerville,Anoka County,45.163,-93.056
-00544,Bayport,Washington County,45.021,-92.781
-05688,Montrose,Wright County,45.065,-93.911
-06722,Pine Island,Goodhue County,44.198,-92.628
-04130,Independence,Hennepin County,45.025,-93.707
-06170,Northern,Beltrami County,47.547,-94.852
-08713,Two Harbors,Lake County,47.023,-91.671
-05715,Mora,Kanabec County,45.877,-93.294
-03680,Hanover,Hennepin County,45.158,-93.663
-06624,Perham,Otter Tail County,46.594,-95.573
-06009,New Market,Scott County,44.589,-93.347
-01026,Breckenridge,Wilkin County,46.264,-96.588
-07329,Rockford,Wright County,45.122,-93.804
-00688,Benson,Swift County,45.315,-95.600
-00219,Annandale,Wright County,45.263,-94.124
-05682,Monticello,Wright County,45.266,-93.835
-04232,Jackson,Jackson County,43.621,-94.989
-02524,Eagle Lake,Blue Earth County,44.165,-93.881
-03721,Harris,Itasca County,47.160,-93.521
-02672,Ely,St. Louis County,47.903,-91.867
-06715,Pine City,Pine County,45.826,-92.969
-02751,Empire,Dakota County,44.680,-93.092
-09214,White,St. Louis County,47.499,-92.252
-06969,Proctor,St. Louis County,46.747,-92.225
-08153,Staples,Todd County,46.372,-94.815
-01576,Chatfield,Fillmore County,43.844,-92.183
-04791,Lent,Chisago County,45.429,-92.957
-00106,Alexandria,Douglas County,45.892,-95.311
-06007,New London,Kandiyohi County,45.282,-94.950
-00051,Afton,Washington County,44.903,-92.784
-01095,Brockway,Stearns County,45.719,-94.310
-03133,Franklin,Wright County,45.028,-93.842
-03535,Greenfield,Hennepin County,45.103,-93.691
-01422,Cascade,Olmsted County,44.091,-92.463
-00477,Barnesville,Clay County,46.652,-96.420
-08941,Wakefield,Stearns County,45.467,-94.461
-03040,Foley,Benton County,45.665,-93.910
-03472,Granite Falls,Chippewa County,44.807,-95.542
-03448,Grand Lake,St. Louis County,46.932,-92.364
-01796,Cohasset,Itasca County,47.264,-93.620
-03367,Glenwood,Pope County,45.650,-95.390
-05139,May,Washington County,45.164,-92.834
-06393,Osseo,Hennepin County,45.119,-93.402
-03770,Haven,Sherburne County,45.518,-94.074
-06472,Palmer,Sherburne County,45.517,-93.949
-05713,Moose Lake,Carlton County,46.454,-92.762
-00883,Blue Hill,Sherburne County,45.515,-93.693
-01940,Corinna,Wright County,45.284,-94.075
-05331,Mayer,Carver County,44.885,-93.888
-06368,Oronoco,Olmsted County,44.150,-92.499
-04826,Lexington,Anoka County,45.142,-93.163
-06557,Paynesville,Stearns County,45.381,-94.712
-09089,Wells,Faribault County,43.746,-93.729
-07340,Rockville,Stearns County,45.472,-94.341
-06312,Olivia,Renville County,44.776,-94.990
-07082,Ravenna,Dakota County,44.688,-92.770
-08145,Stanford,Isanti County,45.447,-93.406
-02077,Crosby,Crow Wing County,46.482,-93.958
-02850,Excelsior,Hennepin County,44.903,-93.566
-03266,Gaylord,Sibley County,44.553,-94.221
-04644,Lakewood,St. Louis County,46.904,-91.988
-06965,Princeton,Mille Lacs County,45.607,-93.569
-02986,Fish Lake,Chisago County,45.601,-93.082
-04710,Lauderdale,Ramsey County,44.999,-93.206
-02420,Dovre,Kandiyohi County,45.198,-95.071
-00548,Baytown,Washington County,45.009,-92.825
-07309,Rochester,Olmsted County,43.971,-92.508
-02312,Detroit,Becker County,46.858,-95.860
-00386,Avon,Stearns County,45.633,-94.451
-08708,Twin Lakes,Carlton County,46.621,-92.486
-01721,Clearwater,Stearns County,45.410,-94.045
-01833,Cologne,Carver County,44.772,-93.781
-08610,Tracy,Lyon County,44.233,-95.619
-07206,Rice,Benton County,45.752,-94.220
-05292,Marysville,Wright County,45.111,-93.960
-02598,Eckles,Beltrami County,47.549,-95.003
-08067,Springfield,Brown County,44.239,-94.976
-09046,Waverly,Wright County,45.067,-93.966
-07964,Solway,St. Louis County,46.807,-92.368
-01813,Coleraine,Itasca County,47.289,-93.428
-04594,Lake,Roseau County,48.937,-95.419
-00865,Blooming Prairie,Dodge County,43.868,-93.056
-04640,Laketown,Carver County,44.854,-93.726
-01188,Buffalo,Wright County,45.194,-93.817
-05155,Maine Prairie,Stearns County,45.349,-94.317
-02291,Denmark,Washington County,44.805,-92.824
-01064,Bridgewater,Rice County,44.423,-93.231
-04872,Lynden,Stearns County,45.394,-94.113
-07470,Rushford,Fillmore County,43.808,-91.753
-06222,Oak Lawn,Crow Wing County,46.373,-94.130
-05186,Mankato,Blue Earth County,44.129,-93.932
-03822,Helena,Scott County,44.588,-93.595
-04626,Lake View,Becker County,46.750,-95.869
-00307,Arthur,Kanabec County,45.867,-93.325
-03550,Greenway,Itasca County,47.327,-93.252
-00028,Ada,Norman County,47.300,-96.515
-06381,Osakis,Douglas County,45.865,-95.153
-07312,Rock Creek,Pine County,45.757,-92.962
-06134,North Branch,Isanti County,45.516,-93.070
-02483,Dundas,Rice County,44.429,-93.202
-04629,Lakefield,Jackson County,43.677,-95.172
-02789,Erie,Becker County,46.853,-95.752
-08132,Stacy,Chisago County,45.398,-92.987
-04977,Long Lake,Hennepin County,44.987,-93.572
-05214,Maple Plain,Hennepin County,45.007,-93.656
-04630,Lakeland,Washington County,44.956,-92.766
-01335,Canby,Yellow Medicine County,44.709,-96.276
-01225,Burlington,Becker County,46.762,-95.743
-03307,Gilbert,St. Louis County,47.489,-92.465
-00371,Aurora,St. Louis County,47.530,-92.237
-04232,Jackson,Scott County,44.754,-93.531
-03516,Green Lake,Kandiyohi County,45.190,-94.938
-07977,South Bend,Blue Earth County,44.141,-94.094
-09003,Warren,Marshall County,48.197,-96.773
-09089,Wells,Rice County,44.334,-93.344
-03027,Florence,Goodhue County,44.502,-92.372
-05580,Milo,Mille Lacs County,45.685,-93.701
-02859,Fair Haven,Stearns County,45.358,-94.195
-03841,Henrietta,Hubbard County,46.932,-94.961
-08017,Southside,Wright County,45.275,-94.198
-07120,Red Lake,Beltrami County,47.876,-95.017
-04823,Lewiston,Winona County,43.984,-91.869
-05587,Minden,Benton County,45.613,-94.063
-07588,Sand Creek,Scott County,44.667,-93.591
-07225,Richmond,Stearns County,45.454,-94.518
-08563,Todd,Hubbard County,46.943,-95.112
-03771,Haverhill,Olmsted County,44.067,-92.373
-05851,Munson,Stearns County,45.452,-94.580
-02221,Dawson,Lac qui Parle County,44.933,-96.054
-09199,Wheaton,Traverse County,45.804,-96.499
-04114,Ida,Douglas County,45.988,-95.453
-05528,Midway,St. Louis County,46.730,-92.272
-03191,Fulda,Murray County,43.871,-95.600
-01721,Clearwater,Wright County,45.366,-94.045
-09355,Winnebago,Faribault County,43.768,-94.166
-02827,Eureka,Dakota County,44.582,-93.216
-08160,Starbuck,Pope County,45.614,-95.531
-01577,Chatham,Wright County,45.164,-93.960
-05603,Minneota,Lyon County,44.559,-95.986
-05030,Louisville,Scott County,44.745,-93.574
-03449,Grand Marais,Cook County,47.750,-90.334
-03056,Forest,Rice County,44.413,-93.339
-09370,Winthrop,Sibley County,44.543,-94.366
-03535,Greenfield,Wabasha County,44.322,-91.977
-03532,Greenbush,Mille Lacs County,45.595,-93.706
-08692,Turtle Lake,Beltrami County,47.619,-94.864
-06045,New York Mills,Otter Tail County,46.518,-95.376
-07177,Renville,Renville County,44.789,-95.212
-02659,Elbow Lake,Grant County,45.994,-95.977
-04199,Irondale,Crow Wing County,46.460,-94.001
-09433,Woodville,Waseca County,44.061,-93.460
-07444,Royalton,Benton County,45.830,-94.293
-05993,New Haven,Olmsted County,44.150,-92.620
-00412,Bagley,Clearwater County,47.522,-95.398
-08101,St. George,Benton County,45.597,-93.955
-00089,Albion,Wright County,45.194,-94.079
-02613,Edgerton,Pipestone County,43.872,-96.129
-05134,Madison Lake,Blue Earth County,44.204,-93.816
-05149,Mahnomen,Mahnomen County,47.315,-95.969
-04119,Ideal,Crow Wing County,46.673,-94.201
-07764,Shamrock,Aitkin County,46.729,-93.274
-02869,Fairfax,Renville County,44.529,-94.721
-01857,Comfort,Kanabec County,45.860,-93.207
-01041,Brevator,St. Louis County,46.808,-92.507
-00046,Adrian,Nobles County,43.635,-95.933
-01831,Collinwood,Meeker County,45.030,-94.327
-07665,Shafer,Chisago County,45.387,-92.748
-05749,Morse,St. Louis County,47.845,-91.974
-04614,Lake Mary,Douglas County,45.792,-95.460
-02278,Dellwood,Washington County,45.090,-92.972
-09411,Woodland,Wright County,45.012,-93.962
-00649,Bellevue,Morrison County,45.862,-94.270
-01983,Cottonwood,Lyon County,44.609,-95.674
-04977,Long Lake,Crow Wing County,46.280,-94.128
-03721,Harris,Chisago County,45.586,-92.975
-08716,Tyler,Lincoln County,44.278,-96.135
-04547,La Crescent,Houston County,43.801,-91.336
-00355,Atwater,Kandiyohi County,45.139,-94.778
-07536,Salem,Olmsted County,43.977,-92.614
-04622,Lake Shore,Cass County,46.486,-94.361
-08657,Truman,Martin County,43.828,-94.437
-07444,Royalton,Pine County,45.769,-93.072
-01081,Britt,St. Louis County,47.640,-92.526
-08647,Trout Lake,Itasca County,47.240,-93.382
-07808,Sherburn,Martin County,43.652,-94.727
-00628,Belgrade,Nicollet County,44.220,-94.052
-08869,Victor,Wright County,45.008,-94.081
-07467,Rush Lake,Otter Tail County,46.500,-95.592
-03552,Greenwood,St. Louis County,47.865,-92.341
-02605,Eden Valley,Meeker County,45.326,-94.546
-02737,Elysian,Le Sueur County,44.249,-93.716
-09033,Watkins,Meeker County,45.315,-94.409
-01506,Center,Crow Wing County,46.495,-94.114
-05520,Middleville,Wright County,45.116,-94.063
-06113,Nordland,Aitkin County,46.466,-93.635
-02022,Krain,Stearns County,45.714,-94.585
-00082,Albany,Stearns County,45.605,-94.619
-06437,Oxford,Isanti County,45.438,-93.066
-04050,Houston,Houston County,43.763,-91.568
-02717,Elmdale,Morrison County,45.810,-94.544
-06561,Peace,Kanabec County,46.027,-93.242
-05344,Maywood,Benton County,45.692,-93.823
-02794,Irving,Kandiyohi County,45.280,-94.823
-01741,Clinton,St. Louis County,47.408,-92.631
-03834,Henderson,Sibley County,44.528,-93.908
-06692,Pike Creek,Morrison County,45.980,-94.449
-01379,Carlton,Carlton County,46.664,-92.425
-04074,Hudson,Douglas County,45.806,-95.326
-04741,Le Roy,Mower County,43.510,-92.504
-03936,Hilltop,Anoka County,45.053,-93.247
-05577,Millwood,Stearns County,45.712,-94.700
-08109,St. Joseph,Stearns County,45.537,-94.332
-04795,Leon,Goodhue County,44.415,-92.858
-05746,Morristown,Rice County,44.227,-93.445
-08955,Walker,Cass County,47.101,-94.587
-01185,Buhl,St. Louis County,47.494,-92.778
-04853,Lime,Blue Earth County,44.218,-93.953
-09362,Winsted,McLeod County,44.934,-94.075
-08943,Walcott,Rice County,44.235,-93.215
-02493,Dunn,Otter Tail County,46.675,-95.980
-00777,Birchdale,Todd County,45.817,-94.833
-01309,Camden,Carver County,44.846,-93.953
-03614,Hale,McLeod County,44.931,-94.200
-00699,Bergen,McLeod County,44.844,-94.064
-08923,Wadena,Wadena County,46.406,-95.092
-02882,Fairview,Cass County,46.418,-94.437
-04661,Lansing,Mower County,43.723,-93.000
-02629,Edna,Otter Tail County,46.587,-95.691
-06727,Pine River,Cass County,46.718,-94.404
-05345,Mazeppa,Wabasha County,44.273,-92.545
-06378,Osage,Becker County,46.928,-95.216
-05725,Morgan,Redwood County,44.417,-94.926
-03646,Hallock,Kittson County,48.774,-96.946
-00373,Austin,Mower County,43.621,-92.991
-00635,Belle Plaine,Scott County,44.584,-93.711
-01926,Copley,Clearwater County,47.542,-95.353
-04906,Little Rock,Beltrami County,47.868,-95.111
-07571,San Francisco,Carver County,44.697,-93.704
-08892,Vineland,Mille Lacs County,46.164,-93.757
-06860,Ponemah,Beltrami County,48.021,-94.914
-06171,Northfield,Rice County,44.419,-93.097
-05139,May,Cass County,46.384,-94.591
-03247,Garrison,Crow Wing County,46.286,-93.880
-03840,Henning,Otter Tail County,46.322,-95.445
-04633,Lakeport,Hubbard County,47.189,-94.707
-07865,Silver Lake,McLeod County,44.903,-94.196
-09119,West Concord,Dodge County,44.154,-92.900
-01983,Cottonwood,Brown County,44.237,-94.443
-03322,Gilmanton,Benton County,45.693,-93.949
-03233,Garden City,Blue Earth County,44.065,-94.194
-05424,Medford,Steele County,44.176,-93.223
-02709,Ellsworth,Meeker County,45.020,-94.428
-02790,Erin,Rice County,44.406,-93.471
-03671,Hancock,Stevens County,45.497,-95.797
-02676,Elizabeth,Otter Tail County,46.409,-96.074
-03821,Helen,McLeod County,44.753,-94.069
-06923,Powers,Cass County,46.851,-94.457
-03669,Hampton,Dakota County,44.584,-92.969
-04891,Litchfield,Meeker County,45.104,-94.589
-00085,Alberta,Benton County,45.780,-93.947
-08495,Thomastown,Wadena County,46.413,-94.853
-08692,Turtle Lake,Cass County,47.072,-94.479
-07601,Sandstone,Pine County,46.116,-92.787
-09009,Warsaw,Rice County,44.249,-93.394
-03801,Hazelton,Aitkin County,46.329,-93.768
-08213,Stockton,Winona County,44.027,-91.770
-04452,Kimball,Stearns County,45.312,-94.300
-06068,Newton,Otter Tail County,46.499,-95.338
-00437,Balkan,St. Louis County,47.541,-92.862
-01861,Compton,Otter Tail County,46.406,-95.216
-04156,Industrial,St. Louis County,46.893,-92.490
-03958,Hobart,Otter Tail County,46.676,-95.750
-03168,Friberg,Otter Tail County,46.412,-95.970
-04849,Lilydale,Dakota County,44.916,-93.126
-08128,St. Stephen,Stearns County,45.703,-94.274
-02419,Dover,Olmsted County,43.974,-92.139
-04653,Lamberton,Redwood County,44.231,-95.264
-07090,Raymond,Chippewa County,45.018,-95.237
-03546,Greenvale,Dakota County,44.520,-93.220
-06452,Page,Mille Lacs County,45.858,-93.711
-03299,Gibbon,Sibley County,44.534,-94.526
-02960,Fertile,Polk County,47.536,-96.280
-07987,South Fork,Kanabec County,45.769,-93.457
-03932,Hillsdale,Winona County,44.043,-91.781
-04067,Hubbard,Hubbard County,46.856,-94.963
-00450,Bancroft,Freeborn County,43.720,-93.346
-08714,Two Rivers,Morrison County,45.811,-94.380
-09014,Washington,Le Sueur County,44.261,-93.829
-09222,White Earth,Becker County,47.115,-95.855
-05418,Moe,Douglas County,45.879,-95.562
-01006,Brandon,Douglas County,45.976,-95.581
-04840,Lida,Otter Tail County,46.565,-95.969
-06723,Pine Lake,Otter Tail County,46.581,-95.476
-06122,Normanna,St. Louis County,46.987,-91.960
-04740,Le Ray,Blue Earth County,44.150,-93.822
-09162,Westbrook,Cottonwood County,44.042,-95.436
-07066,Randolph,Dakota County,44.535,-92.969
-08708,Twin Lakes,Mahnomen County,47.283,-95.580
-01732,Cleveland,Le Sueur County,44.326,-93.838
-03942,Hinckley,Pine County,46.026,-93.012
-00692,Benton,Carver County,44.753,-93.839
-02835,Everts,Otter Tail County,46.330,-95.708
-02415,Douglas,Dakota County,44.579,-92.862
-08093,St. Clair,Blue Earth County,44.082,-93.858
-02940,Featherstone,Goodhue County,44.525,-92.602
-04831,Liberty,Beltrami County,47.642,-94.989
-06126,North,Pennington County,48.142,-96.175
-06878,Port Hope,Beltrami County,47.628,-94.733
-07269,Ripley,Morrison County,46.119,-94.284
-01996,Courtland,Nicollet County,44.268,-94.340
-08975,Walnut Grove,Redwood County,44.223,-95.469
-05583,Milton,Dodge County,44.149,-92.734
-08919,Wabasso,Redwood County,44.402,-95.256
-07195,Reynolds,Todd County,45.981,-94.962
-00628,Belgrade,Stearns County,45.453,-95.004
-05443,Melrose,Stearns County,45.728,-94.841
-05210,Maple Grove,Crow Wing County,46.297,-94.014
-08029,Sparta,Chippewa County,44.941,-95.686
-01172,Buckman,Morrison County,45.862,-94.103
-09425,Woodrow,Cass County,46.925,-94.342
-04618,Lake Park,Becker County,46.886,-96.094
-02737,Elysian,Le Sueur County,44.206,-93.681
-07126,Red Rock,Mower County,43.718,-92.869
-08355,Swan River,Morrison County,45.884,-94.442
-04669,Lanesboro,Fillmore County,43.721,-91.977
-01136,Brownton,McLeod County,44.732,-94.350
-07428,Round Prairie,Todd County,45.888,-94.823
-02936,Faxon,Sibley County,44.644,-93.841
-05215,Maple Ridge,Isanti County,45.694,-93.314
-03552,Greenwood,Hennepin County,44.915,-93.553
-07967,Somerset,Steele County,43.975,-93.216
-08711,Twin Valley,Norman County,47.260,-96.259
-02639,Eglon,Clay County,46.841,-96.240
-03966,Hoffman,Grant County,45.829,-95.792
-03328,Girard,Otter Tail County,46.332,-95.589
-05679,Montgomery,Le Sueur County,44.407,-93.592
-05104,Mabel,Fillmore County,43.521,-91.770
-09080,Welcome,Martin County,43.667,-94.619
-04584,Lafayette,Nicollet County,44.381,-94.435
-02400,Dora,Otter Tail County,46.579,-95.825
-03929,Hills,Rock County,43.528,-96.359
-06381,Osakis,Douglas County,45.904,-95.206
-05540,Milford,Brown County,44.329,-94.568
-02671,Elgin,Wabasha County,44.158,-92.240
-08743,Union Grove,Meeker County,45.283,-94.693
-02207,Darwin,Meeker County,45.116,-94.447
-09501,Young America,Carver County,44.758,-93.954
-03532,Greenbush,Roseau County,48.701,-96.182
-03156,Freeport,Stearns County,45.663,-94.690
-04247,Jamestown,Blue Earth County,44.219,-93.829
-05765,Motley,Cass County,46.335,-94.643
-09031,Waterville,Le Sueur County,44.254,-93.596
-02698,Ellendale,Steele County,43.873,-93.301
-00030,Adams,Mower County,43.565,-92.719
-07212,Rich Valley,McLeod County,44.856,-94.201
-09334,Wilson,Cass County,46.687,-94.390
-00641,Belle Prairie,Morrison County,46.034,-94.276
-04805,Leslie,Todd County,45.973,-95.085
-02567,East Side,Mille Lacs County,46.203,-93.496
-05154,Maine,Otter Tail County,46.406,-95.852
-04565,La Prairie,Itasca County,47.228,-93.489
-08885,Villard,Todd County,46.327,-94.738
-01353,Canton,Fillmore County,43.544,-91.909
-06595,Pembina,Mahnomen County,47.268,-96.008
-08856,Vernon,Dodge County,43.892,-92.739
-03413,Gordon,Todd County,45.883,-95.068
-01714,Clear Lake,Sherburne County,45.445,-93.999
-06555,Paxton,Redwood County,44.508,-95.037
-05605,Minnesota Lake,Blue Earth County,43.842,-93.829
-08092,St. Charles,Winona County,43.978,-92.014
-00363,Audubon,Becker County,46.846,-95.983
-03736,Hartford,Todd County,46.063,-94.824
-08351,Sverdrup,Otter Tail County,46.326,-95.840
-01133,Brownsdale,Mower County,43.740,-92.869
-05087,Luxemburg,Stearns County,45.367,-94.448
-07772,Sharon,Le Sueur County,44.413,-93.818
-07406,Roseville,Kandiyohi County,45.366,-94.820
-04995,Loon Lake,Cass County,46.592,-94.365
-07225,Richmond,Winona County,43.956,-91.431
-05005,Loretto,Hennepin County,45.055,-93.636
-01286,Caledonia,Houston County,43.628,-91.560
-06208,Oak,Stearns County,45.617,-94.706
-03580,Grove City,Meeker County,45.151,-94.683
-05602,Minneola,Goodhue County,44.327,-92.728
-01945,Corliss,Otter Tail County,46.678,-95.470
-03608,Guthrie,Hubbard County,47.283,-94.834
-00252,Arago,Hubbard County,47.015,-95.103
-00484,Barnum,Carlton County,46.503,-92.689
-01338,Candor,Otter Tail County,46.676,-95.861
-03920,Hill City,Aitkin County,46.993,-93.599
-07494,Sabin,Clay County,46.780,-96.653
-01817,Colfax,Kandiyohi County,45.367,-95.075
-05224,Marble,Itasca County,47.320,-93.299
-03836,Hendricks,Lincoln County,44.507,-96.424
-07064,Randall,Morrison County,46.091,-94.504
-07915,Smiley,Pennington County,48.063,-96.047
-01342,Canisteo,Dodge County,43.973,-92.747
-09009,Warsaw,Goodhue County,44.414,-92.971
-04256,Jasper,Pipestone County,43.849,-96.400
-07377,Roosevelt,Crow Wing County,46.208,-93.863
-06412,Otto,Otter Tail County,46.492,-95.460
-08153,Staples,Todd County,46.313,-94.849
-01254,Butterfield,Watonwan County,43.958,-94.795
-02258,Deerwood,Crow Wing County,46.474,-93.899
-05383,McIntosh,Polk County,47.637,-95.886
-02834,Evansville,Douglas County,46.004,-95.683
-06723,Pine Lake,Pine County,46.194,-92.999
-03438,Graham,Benton County,45.779,-94.069
-09003,Warren,Winona County,43.977,-91.780
-00094,Alden,Freeborn County,43.670,-93.576
-04201,Ironton,Crow Wing County,46.477,-93.978
-05749,Morse,Itasca County,47.350,-93.854
-06722,Pine Island,Goodhue County,44.239,-92.606
-04250,Janesville,Waseca County,44.156,-93.693
-06589,Pelican,Otter Tail County,46.599,-96.103
-08077,Spruce,Roseau County,48.841,-95.670
-04348,Kandiyohi,Kandiyohi County,45.132,-94.931
-08773,Utica,Winona County,43.977,-91.899
-00864,Blooming Grove,Waseca County,44.160,-93.457
-01209,Burbank,Kandiyohi County,45.359,-94.938
-06525,Partridge,Pine County,46.208,-92.738
-03655,Hamburg,Carver County,44.733,-93.967
-03363,Glenville,Freeborn County,43.572,-93.281
-00072,Akeley,Hubbard County,47.024,-94.739
-00490,Barry,Pine County,46.031,-92.875
-01135,Brownsville,Houston County,43.694,-91.280
-08277,Sugar Bush,Becker County,47.001,-95.676
-03069,Foreston,Mille Lacs County,45.734,-93.711
-06360,Orion,Olmsted County,43.891,-92.259
-04524,Knute,Polk County,47.622,-96.005
-00720,Bertha,Todd County,46.267,-95.063
-08946,Walden,Cass County,46.667,-94.471
-00446,Balsam,Itasca County,47.490,-93.411
-03724,Harrison,Kandiyohi County,45.193,-94.811
-08062,Spring Valley,Fillmore County,43.727,-92.383
-03990,Holmesville,Becker County,46.938,-95.742
-01130,Browns Valley,Traverse County,45.595,-96.833
-02519,Eagle Bend,Todd County,46.165,-95.039
-04225,Ivanhoe,Lincoln County,44.463,-96.247
-00274,Argyle,Marshall County,48.333,-96.821
-00468,Barclay,Cass County,46.765,-94.378
-02723,Elmore,Faribault County,43.505,-94.088
-02518,Eagle,Carlton County,46.644,-92.882
-08035,Spencer,Aitkin County,46.552,-93.629
-06870,Popple,Clearwater County,47.542,-95.487
-03788,Hayland,Mille Lacs County,45.859,-93.566
-06496,Parke,Clay County,46.766,-96.230
-00183,Amboy,Blue Earth County,43.888,-94.157
-01576,Chatfield,Fillmore County,43.802,-92.148
-00371,Aurora,Steele County,43.973,-93.109
-06795,Pleasant Hill,Winona County,43.890,-91.540
-03287,Germania,Todd County,46.238,-94.958
-03432,Graceville,Big Stone County,45.569,-96.435
-01031,Breitung,St. Louis County,47.850,-92.260
-04846,Lyle,Mower County,43.505,-92.944
-09342,Windom,Mower County,43.631,-92.870
-01904,Cook,St. Louis County,47.852,-92.690
-09203,Wheeling,Rice County,44.326,-93.102
-06183,Norton,Winona County,44.063,-91.895
-06589,Pelican,Crow Wing County,46.585,-94.188
-04881,Lynn,McLeod County,44.845,-94.447
-08359,Swanville,Morrison County,45.896,-94.575
-02073,Crooked Lake,Cass County,46.827,-93.985
-07215,Richardson,Morrison County,46.118,-93.862
-03024,Floodwood,St. Louis County,46.929,-92.920
-03241,Garfield,Polk County,47.546,-96.246
-09241,Whitefield,Kandiyohi County,45.016,-95.064
-04636,Lakeside,Aitkin County,46.276,-93.511
-04188,Iosco,Waseca County,44.144,-93.582
-08721,Tyrone,Le Sueur County,44.515,-93.820
-01679,Claremont,Dodge County,44.044,-92.998
-09429,Woodside,Polk County,47.628,-96.153
-03418,Gorman,Otter Tail County,46.679,-95.596
-01043,Brewster,Nobles County,43.699,-95.469
-03272,Geneva,Freeborn County,43.823,-93.268
-04185,Iona,Todd County,46.070,-94.969
-04682,Laona,Roseau County,48.850,-95.151
-00702,Berlin,Steele County,43.893,-93.346
-07500,Sacred Heart,Renville County,44.787,-95.352
-05210,Maple Grove,Becker County,47.095,-95.760
-01382,Carlos,Douglas County,45.972,-95.292
-03998,Home,Brown County,44.353,-94.688
-08110,St. Lawrence,Scott County,44.654,-93.694
-04430,Kettle River,Pine County,46.298,-92.883
-09230,White Oak,Hubbard County,46.927,-94.729
-04268,Jenkins,Crow Wing County,46.646,-94.335
-05717,Moran,Todd County,46.235,-94.843
-00596,Becker,Cass County,46.415,-94.718
-06591,Pelican Lake,Grant County,46.058,-95.846
-08302,Sumner,Fillmore County,43.803,-92.391
-03133,Franklin,Renville County,44.528,-94.881
-08060,Spring Prairie,Clay County,46.934,-96.484
-03645,Hawley,Clay County,46.841,-96.370
-04747,Leaf River,Wadena County,46.500,-95.093
-01101,Brook Park,Pine County,45.924,-93.112
-04731,Lawrence,Itasca County,47.416,-93.387
-08726,Ulen,Clay County,47.079,-96.259
-03579,Grove,Stearns County,45.623,-94.823
-02709,Ellsworth,Nobles County,43.518,-96.018
-07030,Racine,Mower County,43.776,-92.483
-08194,Stewart,McLeod County,44.725,-94.486
-09217,White Bear Lake,Pope County,45.635,-95.567
-08767,Upsala,Morrison County,45.811,-94.571
-03787,Hayfield,Dodge County,43.891,-92.861
-00321,Ashby,Grant County,46.093,-95.818
-00285,Arlington,Sibley County,44.586,-94.072
-01141,Bruce,Todd County,45.988,-94.721
-00668,Belvidere,Goodhue County,44.430,-92.494
-02203,Darling,Morrison County,46.057,-94.442
-07816,Shevlin,Clearwater County,47.549,-95.240
-00196,Amor,Otter Tail County,46.406,-95.715
-00727,Bethel,Anoka County,45.404,-93.268
-03471,Granite,Morrison County,46.027,-94.000
-08994,Ward,Todd County,46.158,-94.843
-00168,Altura,Winona County,44.072,-91.940
-01717,Clearbrook,Clearwater County,47.692,-95.431
-05986,New Germany,Carver County,44.884,-93.971
-08079,Spruce Hill,Douglas County,46.059,-95.215
-06505,Parker,Morrison County,46.064,-94.581
-06778,Plainview,Wabasha County,44.143,-92.133
-04646,Lakin,Morrison County,45.866,-93.828
-06066,Newry,Freeborn County,43.808,-93.115
-00901,Bluffton,Otter Tail County,46.503,-95.207
-07677,Sciota,Dakota County,44.505,-93.056
-00099,Aldrich,Wadena County,46.413,-94.966
-02193,Danube,Renville County,44.792,-95.097
-07865,Silver Lake,Martin County,43.544,-94.433
-00498,Bartlett,Todd County,46.325,-94.967
-05801,Mount Pleasant,Wabasha County,44.423,-92.337
-07859,Silver,Carlton County,46.472,-92.866
-02110,Crystal Bay,Lake County,47.620,-91.187
-06723,Pine Lake,Clearwater County,47.695,-95.504
-03899,Highland,Wabasha County,44.242,-92.124
-08157,Star Lake,Otter Tail County,46.505,-95.834
-08116,St. Martin,Stearns County,45.545,-94.699
-01835,Columbia,Polk County,47.549,-95.619
-04098,Huntsville,Polk County,47.890,-96.932
-08852,Vermillion,Dakota County,44.674,-92.967
-03154,Freeman,Freeborn County,43.543,-93.349
-07288,Riverton,Clay County,46.840,-96.464
-01828,Collins,McLeod County,44.762,-94.436
-06025,New Richland,Waseca County,43.884,-93.460
-07174,Reno,Pope County,45.727,-95.453
-09462,Wykoff,Fillmore County,43.707,-92.268
-04594,Lake,Wabasha County,44.388,-92.254
-04869,Lynd,Lyon County,44.386,-95.890
-08299,Summit,Steele County,43.892,-93.226
-05206,Maple,Cass County,46.597,-94.469
-05533,Milan,Chippewa County,45.109,-95.913
-09169,Westfield,Dodge County,43.895,-92.990
-01078,Bristol,Fillmore County,43.544,-92.149
-02466,Dudley,Clearwater County,47.623,-95.249
-03928,Hillman,Kanabec County,46.030,-93.349
-09145,West Newton,Nicollet County,44.407,-94.561
-00408,Badger,Roseau County,48.782,-96.014
-04377,Kellogg,Wabasha County,44.309,-91.996
-06108,Nora,Clearwater County,47.463,-95.351
-08601,Tower,St. Louis County,47.805,-92.275
-05401,McPherson,Blue Earth County,44.072,-93.830
-05565,Millerville,Douglas County,46.065,-95.589
-00165,Alton,Waseca County,44.047,-93.708
-07890,Skelton,Carlton County,46.547,-92.766
-00579,Beatty,St. Louis County,47.976,-92.615
-02724,Elmwood,Clay County,46.761,-96.610
-02984,Fisher,Polk County,47.800,-96.801
-08108,St. Johns,Kandiyohi County,45.098,-95.197
-08590,Torning,Swift County,45.274,-95.552
-01609,Chester,Wabasha County,44.323,-92.481
-06254,Oklee,Red Lake County,47.839,-95.854
-00190,Amherst,Fillmore County,43.631,-91.910
-05951,New Auburn,Sibley County,44.674,-94.230
-08078,Spruce Grove,Becker County,46.764,-95.353
-04565,La Prairie,Clearwater County,47.266,-95.468
-04966,Lone Pine,Itasca County,47.325,-93.125
-03103,Fountain,Fillmore County,43.740,-92.136
-05750,Morton,Renville County,44.551,-94.984
-02841,Evergreen,Becker County,46.753,-95.489
-08230,Stony Run,Yellow Medicine County,44.842,-95.655
-07342,Rockwood,Hubbard County,47.363,-94.980
-07389,Rose Creek,Mower County,43.604,-92.832
-00523,Bath,Freeborn County,43.817,-93.341
-00765,Bigfork,Itasca County,47.744,-93.654
-02921,Farmington,Olmsted County,44.151,-92.379
-00865,Blooming Prairie,Steele County,43.893,-93.110
-02250,Deer Creek,Otter Tail County,46.419,-95.337
-02793,Erskine,Polk County,47.667,-96.010
-04002,Homestead,Otter Tail County,46.593,-95.348
-02524,Eagle Lake,Otter Tail County,46.149,-95.697
-04795,Leon,Clearwater County,47.721,-95.383
-03707,Harmony,Fillmore County,43.544,-92.030
-09411,Woodland,Hennepin County,44.947,-93.504
-03853,Herman,Grant County,45.809,-96.143
-07107,Remer,Cass County,47.056,-93.916
-00173,Alvarado,Marshall County,48.194,-96.996
-01741,Clinton,Big Stone County,45.460,-96.434
-02070,Cromwell,Clay County,46.920,-96.354
-04320,Jordan,Fillmore County,43.804,-92.269
-07342,Rockwood,Wadena County,46.585,-95.093
-03131,Frankford,Mower County,43.713,-92.501
-06243,Oakwood,Wabasha County,44.245,-92.261
-00587,Beaver Creek,Rock County,43.634,-96.383
-01598,Cherry Grove,Goodhue County,44.237,-92.847
-06691,Pike,St. Louis County,47.685,-92.364
-03971,Holden,Goodhue County,44.327,-92.981
-08122,St. Olaf,Otter Tail County,46.153,-95.822
-05279,Martin,Rock County,43.551,-96.382
-06728,Pine Springs,Washington County,45.036,-92.954
-07797,Shell Rock,Freeborn County,43.536,-93.219
-06851,Pomroy,Kanabec County,46.029,-93.120
-05380,McGregor,Aitkin County,46.607,-93.314
-06701,Pilot Mound,Fillmore County,43.800,-92.029
-03752,Harvey,Meeker County,45.198,-94.569
-06621,Pepin,Wabasha County,44.392,-92.136
-07222,Richland,Rice County,44.240,-93.102
-04802,Leota,Nobles County,43.801,-95.996
-00492,Barrett,Grant County,45.911,-95.890
-03296,Ghent,Lyon County,44.513,-95.891
-02882,Fairview,Lyon County,44.503,-95.775
-07426,Round Lake,Nobles County,43.541,-95.468
-07487,Rutland,Martin County,43.720,-94.424
-01749,Clover,Pine County,46.032,-92.610
-03070,Forestville,Fillmore County,43.631,-92.269
-06186,Norway,Fillmore County,43.694,-91.778
-06955,Preston,Fillmore County,43.629,-92.028
-09397,Wood Lake,Yellow Medicine County,44.653,-95.538
-09494,York,Fillmore County,43.540,-92.276
-00764,Bigelow,Nobles County,43.555,-95.619
-07471,Rushmore,Nobles County,43.619,-95.801
-02750,Emmons,Freeborn County,43.502,-93.488
-06267,Ogema,Pine County,46.034,-92.477
-05343,Mayville,Houston County,43.633,-91.440
-03615,Holland,Kandiyohi County,44.958,-95.151
-06111,Norden,Pennington County,48.141,-96.305
-06228,Oak Valley,Otter Tail County,46.322,-95.214
-08736,Underwood,Otter Tail County,46.285,-95.871
-08983,Waltham,Mower County,43.805,-92.870
-04660,Lancaster,Kittson County,48.858,-96.804
-02090,Crow Lake,Stearns County,45.443,-95.079
-03953,Hiram,Cass County,46.937,-94.627
-07811,Sherman,Redwood County,44.489,-94.936
-04262,Jeffers,Cottonwood County,44.056,-95.197
-02720,Elmira,Olmsted County,43.891,-92.138
-06341,Orange,Douglas County,45.808,-95.192
-07475,Russell,Lyon County,44.319,-95.952
-03526,Green Valley,Becker County,46.845,-95.234
-05076,Lund,Douglas County,46.057,-95.715
-02871,Fairhaven,Stearns County,45.322,-94.211
-02963,Field,St. Louis County,47.870,-92.772
-03241,Garfield,Douglas County,45.941,-95.492
-00642,Belle River,Douglas County,45.962,-95.215
-05944,Nevada,Mower County,43.543,-92.869
-07846,Sigel,Brown County,44.256,-94.558
-08055,Spring Grove,Houston County,43.540,-91.684
-04971,Long Beach,Pope County,45.655,-95.418
-03450,Grand Meadow,Mower County,43.718,-92.630
-03671,Hancock,Carver County,44.707,-93.827
-03792,Hayward,Freeborn County,43.631,-93.237
-05047,Lowry,Pope County,45.705,-95.518
-08930,Wagner,Aitkin County,46.210,-93.112
-00753,Big Lake,Carlton County,46.701,-92.621
-03015,Fleming,Aitkin County,46.637,-93.513
-03151,Freedom,Waseca County,43.982,-93.711
-04977,Long Lake,Watonwan County,43.913,-94.651
-07605,Sandy,St. Louis County,47.682,-92.487
-02858,Fahlun,Kandiyohi County,45.025,-94.923
-06784,Plato,McLeod County,44.774,-94.040
-08359,Swanville,Morrison County,45.916,-94.639
-05427,Medicine Lake,Hennepin County,44.995,-93.416
-07017,Quincy,Olmsted County,44.064,-92.139
-00862,Bloomfield,Fillmore County,43.638,-92.376
-06603,Penn,McLeod County,44.675,-94.315
-08023,Spalding,Aitkin County,46.549,-93.223
-02870,Fairfield,Crow Wing County,46.672,-93.965
-08857,Vernon Center,Blue Earth County,43.962,-94.169
-09330,Wilmont,Nobles County,43.765,-95.827
-01300,Calumet,Itasca County,47.322,-93.277
-02322,Dexter,Mower County,43.719,-92.705
-02654,Elba,Winona County,44.068,-92.005
-04746,Leaf Mountain,Otter Tail County,46.150,-95.581
-02721,Elmo,Otter Tail County,46.241,-95.346
-06447,Paddock,Otter Tail County,46.674,-95.211
-07587,Sanborn,Redwood County,44.210,-95.129
-07407,Rosewood,Chippewa County,45.014,-95.666
-01297,Callaway,Becker County,47.035,-95.867
-08737,Union,Houston County,43.697,-91.425
-02091,Crow River,Stearns County,45.456,-94.937
-03375,Glyndon,Clay County,46.841,-96.614
-05430,Medo,Blue Earth County,43.977,-93.841
-08858,Verona,Faribault County,43.711,-94.197
-02696,Elkton,Clay County,46.758,-96.486
-03502,Great Bend,Cottonwood County,43.902,-95.186
-03837,Hendrickson,Hubbard County,47.194,-94.872
-03738,Hartland,Freeborn County,43.804,-93.487
-05269,Marshall,Mower County,43.629,-92.751
-08224,Stoney Brook,St. Louis County,46.809,-92.613
-04213,Island Lake,Mahnomen County,47.455,-95.617
-00088,Albin,Brown County,44.154,-94.671
-05338,Maynard,Chippewa County,44.907,-95.469
-02156,Cyrus,Pope County,45.615,-95.738
-00327,Ashland,Dodge County,43.973,-92.868
-04607,Lake George,Stearns County,45.548,-94.938
-06985,Pulaski,Morrison County,46.104,-93.980
-07392,Rosebud,Polk County,47.532,-95.736
-09449,Worthington,Nobles County,43.634,-95.640
-02848,Excel,Marshall County,48.229,-96.173
-02876,Fairmont,Martin County,43.626,-94.407
-06118,Norman,Pine County,46.295,-92.731
-06196,Nunda,Freeborn County,43.541,-93.471
-03975,Hollandale,Freeborn County,43.761,-93.204
-05853,Murdock,Swift County,45.224,-95.393
-09526,Zion,Stearns County,45.449,-94.692
-00793,Bismarck,Sibley County,44.590,-94.447
-02456,Dryden,Sibley County,44.598,-94.180
-02117,Cuba,Becker County,46.934,-96.110
-02602,Eddy,Clearwater County,47.625,-95.479
-05415,Meadowlands,St. Louis County,47.050,-92.646
-01531,Ceylon,Martin County,43.534,-94.632
-03965,Hodges,Stevens County,45.556,-95.828
-08364,Sweet,Pipestone County,43.978,-96.384
-05821,Mountain Lake,Cottonwood County,43.883,-94.910
-08161,Stark,Brown County,44.225,-94.681
-00761,Big Stone,Big Stone County,45.376,-96.414
-04998,Lorain,Nobles County,43.629,-95.504
-07596,Sanders,Pennington County,48.064,-96.306
-00660,Belview,Redwood County,44.605,-95.329
-03618,Hackensack,Cass County,46.931,-94.521
-05102,Lyra,Blue Earth County,43.958,-94.065
-05222,Maplewood,Otter Tail County,46.516,-95.960
-06383,Osborne,Pipestone County,43.896,-96.128
-02955,Fern,Hubbard County,47.358,-95.109
-06806,Pleasant Valley,Mower County,43.798,-92.629
-07795,Shell Lake,Becker County,46.924,-95.455
-02167,Dakota,Winona County,43.914,-91.360
-03377,Godfrey,Polk County,47.633,-96.266
-04173,Inman,Otter Tail County,46.308,-95.342
-03441,Granada,Martin County,43.696,-94.348
-07895,Skyline,Blue Earth County,44.142,-94.031
-08300,Summit Lake,Nobles County,43.721,-95.745
-07284,Riverdale,Watonwan County,44.064,-94.558
-01852,Colvin,St. Louis County,47.331,-92.232
-02188,Danielson,Meeker County,45.030,-94.691
-00301,Arrowhead,St. Louis County,46.860,-92.747
-01405,Carson,Cottonwood County,43.971,-95.049
-04084,Humboldt,Clay County,46.675,-96.351
-05220,Mapleton,Blue Earth County,43.892,-93.929
-05699,Moore,Stevens County,45.455,-95.809
-06822,Plummer,Red Lake County,47.911,-96.042
-06138,North Fork,Stearns County,45.543,-95.069
-07287,Riverside,Lac qui Parle County,44.949,-96.033
-07317,Rock Lake,Lyon County,44.244,-95.888
-01553,Chandler,Murray County,43.929,-95.947
-05296,Mason,Murray County,44.061,-95.758
-05809,Mount Vernon,Winona County,44.159,-91.899
-05044,Lowell,Polk County,47.805,-96.678
-08861,Vesta,Redwood County,44.508,-95.416
-04406,Kensington,Douglas County,45.778,-95.696
-07403,Rosendale,Watonwan County,43.979,-94.554
-03142,Fraser,Martin County,43.721,-94.562
-05248,Marion,Olmsted County,43.944,-92.348
-09286,Wild Rice,Norman County,47.294,-96.247
-01650,Christiania,Jackson County,43.802,-95.046
-04380,Kelso,Sibley County,44.500,-94.070
-04662,Land,Grant County,45.796,-95.831
-05641,Moltke,Sibley County,44.586,-94.563
-04311,Jones,Beltrami County,47.469,-95.084
-00405,Backus,Cass County,46.820,-94.516
-08691,Turtle Creek,Todd County,46.152,-94.710
-06162,North Star,Brown County,44.242,-95.062
-09337,Wilton,Beltrami County,47.504,-95.001
-01738,Clifton,Lyon County,44.407,-95.645
-03335,Glasgow,Wabasha County,44.328,-92.133
-06697,Pillsbury,Swift County,45.194,-95.299
-06234,Oakland,Mahnomen County,47.191,-95.746
-08074,Springwater,Rock County,43.718,-96.373
-00236,Antrim,Watonwan County,43.884,-94.419
-07207,Rice Lake,Clearwater County,47.390,-95.509
-07956,Sodus,Lyon County,44.327,-95.776
-08134,Stafford,Roseau County,48.761,-95.811
-03462,Grandview,Lyon County,44.500,-95.895
-04111,Hyde Park,Wabasha County,44.255,-92.357
-08299,Summit,Beltrami County,47.703,-94.470
-00328,Ashley,Stearns County,45.722,-95.076
-03149,Freeborn,Freeborn County,43.766,-93.564
-05638,Moland,Clay County,46.928,-96.600
-04542,Kurtz,Clay County,46.762,-96.730
-05712,Moose Creek,Clearwater County,47.456,-95.248
-05581,Milroy,Redwood County,44.418,-95.553
-01248,Butler,Otter Tail County,46.673,-95.352
-02072,Crooked Creek,Houston County,43.590,-91.327
-07862,Silver Creek,Wright County,45.315,-93.980
-09170,Westford,Martin County,43.796,-94.438
-00747,Big Bend,Chippewa County,45.097,-95.792
-05273,Marshfield,Lincoln County,44.334,-96.151
-05713,Moose Lake,Beltrami County,47.529,-94.486
-09429,Woodside,Otter Tail County,46.249,-95.198
-02479,Dunbar,Faribault County,43.806,-93.705
-02576,Eastern,Otter Tail County,46.160,-95.225
-01686,Clark,Faribault County,43.715,-93.705
-05368,McCrea,Marshall County,48.228,-96.696
-08652,Troy,Renville County,44.752,-95.061
-03098,Foster,Faribault County,43.638,-93.720
-03867,Hewitt,Todd County,46.326,-95.087
-05942,Nett Lake,Koochiching County,48.115,-93.081
-07363,Rolling Green,Martin County,43.627,-94.562
-05765,Motley,Morrison County,46.306,-94.591
-06431,Owens,St. Louis County,47.825,-92.632
-01740,Climax,Polk County,47.608,-96.817
-06391,Oslo,Marshall County,48.195,-97.132
-07791,Shelby,Blue Earth County,43.886,-94.180
-08187,Sterling,Blue Earth County,43.895,-94.071
-03993,Holt,Fillmore County,43.702,-91.897
-04946,Lodi,Mower County,43.543,-92.629
-05596,Minerva,Clearwater County,47.365,-95.367
-06579,Pease,Mille Lacs County,45.698,-93.648
-08652,Troy,Pipestone County,44.069,-96.384
-02632,Edwards,Kandiyohi County,45.024,-95.179
-02858,Falun,Roseau County,48.756,-95.548
-08081,Spruce Valley,Marshall County,48.405,-96.186
-01953,Cornish,Sibley County,44.502,-94.418
-02270,Delavan,Faribault County,43.804,-94.089
-02307,Des Moines,Jackson County,43.634,-95.062
-00464,Barber,Faribault County,43.721,-93.947
-04969,Lone Tree,Chippewa County,45.028,-95.315
-07090,Raymond,Stearns County,45.627,-95.085
-07841,Sibley,Sibley County,44.495,-94.186
-01741,Clinton,Rock County,43.544,-96.232
-04636,Lakeside,Cottonwood County,43.884,-95.049
-05928,Nelson,Watonwan County,44.064,-94.670
-02599,Echo,Yellow Medicine County,44.617,-95.418
-03108,Fountain Prairie,Pipestone County,44.147,-96.256
-07424,Round Grove,McLeod County,44.676,-94.427
-04607,Lake George,Hubbard County,47.201,-94.994
-02070,Cromwell,Carlton County,46.681,-92.884
-03424,Gould,Cass County,47.201,-94.205
-05768,Mound,Rock County,43.715,-96.232
-06594,Pemberton,Blue Earth County,44.009,-93.783
-06643,Peterson,Fillmore County,43.786,-91.835
-02499,Durand,Beltrami County,47.694,-94.842
-02718,Elmer,Pipestone County,43.912,-96.212
-03293,Gervais,Red Lake County,47.890,-96.160
-06942,Prairieville,Brown County,44.320,-94.797
-00776,Birch Creek,Pine County,46.383,-93.012
-02266,Delafield,Jackson County,43.799,-95.144
-03785,Hayes,Swift County,45.290,-95.307
-05409,Meadow Brook,Cass County,46.490,-94.567
-04258,Jay,Martin County,43.624,-94.804
-06118,Norman,Yellow Medicine County,44.667,-96.287
-09347,Winfield,Renville County,44.840,-95.061
-02604,Eden,Pipestone County,43.896,-96.374
-08909,Vivian,Waseca County,43.884,-93.713
-05528,Midway,Cottonwood County,43.985,-94.909
-05603,Minneota,Jackson County,43.538,-95.165
-06968,Prior,Big Stone County,45.436,-96.547
-09355,Winnebago,Houston County,43.540,-91.439
-01032,Bremen,Pine County,46.297,-93.000
-03251,Gary,Norman County,47.371,-96.268
-04461,King,Polk County,47.629,-95.873
-07377,Roosevelt,Beltrami County,47.714,-95.121
-06396,Ostrander,Fillmore County,43.614,-92.428
-06802,Pleasant Prairie,Martin County,43.637,-94.317
-07485,Ruthton,Pipestone County,44.177,-96.104
-08885,Villard,Pope County,45.716,-95.269
-02195,Danville,Blue Earth County,43.894,-93.841
-00512,Bashaw,Brown County,44.153,-94.914
-02530,Eagles Nest,St. Louis County,47.839,-92.104
-03321,Gilman,Benton County,45.735,-93.949
-06939,Prairie View,Wilkin County,46.586,-96.342
-03442,Granby,Nicollet County,44.327,-94.197
-02137,Currie,Murray County,44.071,-95.666
-02290,Dennison,Goodhue County,44.409,-93.030
-02788,Ericson,Renville County,44.850,-95.293
-03231,Garden,Polk County,47.537,-96.123
-04019,Hope,Lincoln County,44.233,-96.144
-05144,Magnolia,Rock County,43.630,-96.114
-01639,Chippewa Falls,Pope County,45.543,-95.325
-02163,Dailey,Mille Lacs County,45.956,-93.731
-05519,Middletown,Jackson County,43.544,-95.026
-07007,Queen,Polk County,47.635,-95.626
-07748,Severance,Sibley County,44.505,-94.554
-01407,Carsonville,Becker County,46.940,-95.352
-08277,Sugar Bush,Beltrami County,47.530,-94.627
-00664,Belmont,Jackson County,43.715,-95.032
-06894,Posen,Yellow Medicine County,44.578,-95.534
-08215,Stokes,Roseau County,48.761,-95.942
-03472,Granite Falls,Chippewa County,44.851,-95.524
-04763,Leigh,Morrison County,46.043,-93.854
-00988,Bradbury,Mille Lacs County,46.037,-93.727
-02175,Dalton,Otter Tail County,46.174,-95.916
-03183,Frost,Faribault County,43.586,-93.927
-03311,Gilchrist,Pope County,45.444,-95.335
-05408,Meadow,Wadena County,46.672,-94.984
-06371,Orr,St. Louis County,48.054,-92.831
-07488,Rutledge,Pine County,46.264,-92.867
-01507,Center Creek,Martin County,43.716,-94.300
-08780,Vail,Redwood County,44.406,-95.300
-00585,Beaver,Fillmore County,43.544,-92.389
-06950,Preble,Fillmore County,43.631,-91.790
-02327,Diamond Lake,Lincoln County,44.336,-96.271
-02680,Elk,Nobles County,43.715,-95.639
-02703,Ellington,Dodge County,44.142,-92.981
-04142,Indian Lake,Nobles County,43.540,-95.520
-04511,Knife River,Lake County,46.949,-91.779
-07426,Round Lake,Becker County,47.064,-95.471
-07951,Sobieski,Morrison County,45.924,-94.459
-04089,Hunter,Jackson County,43.625,-95.158
-04641,Lakeview,Carlton County,46.635,-92.974
-09374,Wisconsin,Jackson County,43.631,-94.914
-02604,Eden,Brown County,44.420,-94.815
-02847,Ewington,Jackson County,43.630,-95.395
-04033,Hornet,Beltrami County,47.822,-94.472
-00788,Byron,Waseca County,43.878,-93.575
-01217,Burke,Pipestone County,43.988,-96.116
-06108,Nora,Pope County,45.702,-95.696
-03656,Hamden,Becker County,46.930,-95.983
-06385,Oscar,Otter Tail County,46.426,-96.233
-02742,Emerald,Faribault County,43.634,-93.951
-03453,Grand Prairie,Nobles County,43.551,-95.985
-03466,Grange,Pipestone County,44.059,-96.255
-03496,Gray,Pipestone County,43.977,-96.249
-08215,Stokes,Itasca County,47.679,-93.670
-09258,Whitewater,Winona County,44.142,-92.044
-09322,Willow Lake,Redwood County,44.327,-95.162
-01117,Brookville,Redwood County,44.319,-94.925
-03437,Grafton,Sibley County,44.680,-94.569
-04825,Lewisville,Watonwan County,43.923,-94.437
-04906,Little Rock,Nobles County,43.547,-95.879
-05132,Madison,Lac qui Parle County,45.016,-96.145
-00574,Bearville,Itasca County,47.722,-93.150
-03209,Galena,Martin County,43.806,-94.673
-05899,Nashville,Martin County,43.804,-94.308
-06267,Ogema,Becker County,47.103,-95.925
-09185,Westside,Nobles County,43.626,-95.993
-02965,Fieldon,Watonwan County,43.987,-94.421
-05054,Lucas,Lyon County,44.580,-95.660
-00136,Alliance,Clay County,46.674,-96.611
-02642,Eidsvold,Lyon County,44.594,-96.023
-03181,Frontenac,Goodhue County,44.511,-92.357
-06162,North Star,St. Louis County,47.058,-91.997
-07751,Seward,Nobles County,43.800,-95.631
-08949,Waldorf,Waseca County,43.935,-93.697
-04861,Lincoln,Blue Earth County,44.057,-94.303
-06375,Orton,Wadena County,46.681,-94.840
-03412,Goose Prairie,Clay County,47.028,-96.258
-06798,Pleasant Mound,Blue Earth County,43.886,-94.315
-08512,Three Lakes,Redwood County,44.420,-95.043
-03549,Greenwald,Stearns County,45.602,-94.860
-08147,Stanley,Lyon County,44.494,-95.646
-09427,Woods,Chippewa County,45.106,-95.304
-07901,Slater,Cass County,47.114,-93.966
-00094,Alden,St. Louis County,47.087,-91.880
-00248,Appleton,Swift County,45.197,-96.057
-01473,Cedar,Martin County,43.798,-94.804
-08221,Stoneham,Chippewa County,44.927,-95.448
-09046,Waverly,Martin County,43.811,-94.563
-00079,Alaska,Beltrami County,47.773,-95.073
-03816,Hector,Renville County,44.762,-94.690
-04625,Lake Valley,Traverse County,45.796,-96.521
-05437,Melville,Renville County,44.761,-94.813
-03444,Grand Forks,Polk County,47.985,-97.031
-01204,Bullard,Wadena County,46.517,-94.862
-01279,Cairo,Renville County,44.484,-94.676
-08065,Springdale,Redwood County,44.240,-95.535
-05766,Moulton,Murray County,43.892,-96.005
-07790,Shelburne,Lyon County,44.243,-96.027
-00050,Aetna,Pipestone County,44.147,-96.136
-05100,Lyons,Lyon County,44.330,-95.892
-06389,Oshkosh,Yellow Medicine County,44.762,-96.155
-06723,Pine Lake,Cass County,47.020,-94.348
-03695,Hardwick,Rock County,43.775,-96.199
-03861,Hersey,Nobles County,43.725,-95.523
-02604,Eden,Polk County,47.724,-95.638
-04948,Logan,Aitkin County,46.741,-93.503
-05100,Lyons,Wadena County,46.584,-94.839
-06113,Nordland,Lyon County,44.501,-96.019
-06953,Prescott,Faribault County,43.721,-94.073
-04767,Leeds,Murray County,43.974,-95.892
-07276,River Falls,Pennington County,47.990,-96.148
-08354,Swan Lake,Stevens County,45.706,-95.831
-07809,Sheridan,Redwood County,44.490,-95.281
-07990,South Haven,Wright County,45.292,-94.212
-04040,Horton,Stevens County,45.448,-95.922
-05601,Minneiska,Wabasha County,44.234,-91.929
-01529,Ceresco,Blue Earth County,43.977,-94.305
-04474,Kingston,Meeker County,45.197,-94.313
-05452,Mendota,Dakota County,44.887,-93.164
-05658,Monroe,Lyon County,44.245,-95.662
-05744,Morrison,Aitkin County,46.654,-93.636
-05928,Nelson,Douglas County,45.889,-95.264
-07871,Silverton,Pennington County,48.139,-96.046
-01495,Cedar Valley,St. Louis County,47.136,-93.034
-02777,Enterprise,Jackson County,43.711,-94.905
-07591,Sand Lake,Itasca County,47.632,-93.955
-06021,New Prairie,Pope County,45.636,-95.686
-08946,Walden,Pope County,45.539,-95.685
-09034,Watson,Chippewa County,45.010,-95.801
-00888,Blue Mounds,Pope County,45.541,-95.547
-04608,Lake Grove,Mahnomen County,47.187,-95.885
-06866,Poplar,Cass County,46.593,-94.706
-03386,Golden Valley,Roseau County,48.583,-95.668
-07650,Savannah,Becker County,47.116,-95.264
-09291,Wildwood,Itasca County,47.091,-93.523
-02749,Emmet,Renville County,44.759,-95.177
-03049,Ford,Kanabec County,46.123,-93.259
-04692,Larkin,Nobles County,43.720,-95.878
-07269,Ripley,Dodge County,43.970,-92.977
-07509,Sago,Itasca County,47.082,-93.266
-00530,Baxter,Lac qui Parle County,44.930,-95.916
-01568,Charlestown,Redwood County,44.246,-95.184
-02582,Easton,Faribault County,43.766,-93.901
-03615,Holland,Pipestone County,44.092,-96.189
-03844,Henryville,Renville County,44.672,-95.056
-03658,Hammer,Yellow Medicine County,44.763,-96.278
-04398,Kennedy,Kittson County,48.642,-96.909
-04889,Lisbon,Yellow Medicine County,44.852,-95.783
-08229,Stony River,Lake County,47.675,-91.508
-00749,Big Falls,Koochiching County,48.191,-93.807
-02146,Custer,Lyon County,44.233,-95.795
-03171,Friendship,Yellow Medicine County,44.759,-95.785
-08541,Timothy,Crow Wing County,46.767,-94.224
-03288,Germantown,Cottonwood County,44.152,-95.151
-07732,Selma,Cottonwood County,44.064,-94.920
-08317,Sundown,Redwood County,44.319,-95.057
-08595,Torrey,Cass County,47.214,-93.869
-02075,Crooks,Renville County,44.848,-95.179
-02460,Dublin,Swift County,45.189,-95.442
-04430,Kettle River,Carlton County,46.492,-92.878
-04854,Lime Lake,Murray County,43.986,-95.653
-00623,Belfast,Murray County,43.884,-95.513
-04464,Kingman,Renville County,44.848,-94.935
-05123,Macville,Aitkin County,46.901,-93.633
-02298,Dent,Otter Tail County,46.554,-95.716
-04213,Island Lake,Lyon County,44.416,-96.009
-05030,Louisville,Red Lake County,47.892,-96.421
-05605,Minnesota Lake,Faribault County,43.804,-93.833
-09452,Wright,Carlton County,46.669,-93.007
-00453,Bangor,Pope County,45.535,-95.185
-05224,Marble,Lincoln County,44.588,-96.281
-04622,Lake Shore,Lac qui Parle County,45.133,-96.165
-09095,Wendell,Grant County,46.036,-96.101
-01709,Clayton,Mower County,43.630,-92.629
-02978,Finland,Lake County,47.415,-91.249
-04185,Iona,Murray County,43.916,-95.784
-09023,Waterbury,Redwood County,44.317,-95.297
-00080,Alba,Jackson County,43.720,-95.387
-03025,Flora,Renville County,44.666,-95.167
-08808,Van Buren,St. Louis County,46.998,-92.876
-06475,Palmyra,Renville County,44.673,-94.813
-01312,Camp,Renville County,44.506,-94.799
-05374,McDonaldsville,Norman County,47.274,-96.490
-06885,Portage,St. Louis County,48.120,-92.640
-07310,Rock,Pipestone County,44.059,-96.117
-08040,Split Rock,Carlton County,46.463,-92.992
-02301,Denver,Rock County,43.807,-96.234
-06261,Odin,Watonwan County,43.892,-94.799
-06887,Porter,Yellow Medicine County,44.636,-96.166
-08288,Sullivan,Polk County,47.971,-96.923
-08736,Underwood,Redwood County,44.504,-95.544
-09371,Winton,St. Louis County,47.926,-91.801
-00073,Akron,Big Stone County,45.265,-96.168
-00160,Alta Vista,Lincoln County,44.589,-96.148
-02711,Elm Creek,Martin County,43.709,-94.802
-05856,Murray,Murray County,44.063,-95.630
-07710,Seely,Faribault County,43.536,-93.819
-02869,Fairfax,Polk County,47.717,-96.546
-04986,Longville,Cass County,46.986,-94.211
-07206,Rice,Clearwater County,47.275,-95.361
-03765,Haugen,Aitkin County,46.726,-93.137
-06316,Olney,Nobles County,43.629,-95.869
-03210,Gales,Redwood County,44.332,-95.533
-05079,Lura,Faribault County,43.807,-93.949
-06175,Northland,St. Louis County,47.062,-92.480
-05283,Martinsburg,Renville County,44.673,-94.691
-05327,Maxwell,Lac qui Parle County,44.852,-96.036
-06465,Palisade,Aitkin County,46.713,-93.489
-09077,Weimer,Jackson County,43.803,-95.272
-09300,Williams,Lake of the Woods County,48.768,-94.955
-00788,Byron,Cass County,46.502,-94.715
-01882,Conger,Freeborn County,43.615,-93.528
-04370,Keene,Clay County,47.015,-96.374
-07377,Roosevelt,Lake of the Woods County,48.807,-95.101
-09157,West Valley,Marshall County,48.413,-96.453
-01727,Clements,Redwood County,44.382,-95.052
-09087,Wellington,Renville County,44.592,-94.700
-00343,Atherton,Wilkin County,46.587,-96.467
-08314,Sundal,Norman County,47.449,-96.250
-06144,North Hero,Redwood County,44.247,-95.421
-06175,Northland,Polk County,48.064,-96.955
-01394,Carpenter,Itasca County,47.835,-93.249
-05576,Millville,Wabasha County,44.245,-92.296
-02809,Esther,Polk County,48.072,-97.052
-05149,Mahnomen,St. Louis County,46.773,-92.542
-08874,Vienna,Rock County,43.714,-96.123
-03769,Havelock,Chippewa County,45.021,-95.553
-00674,Bena,Cass County,47.341,-94.207
-06377,Orwell,Otter Tail County,46.232,-96.194
-08462,Terrebonne,Red Lake County,47.803,-96.160
-00686,Bennington,Mower County,43.631,-92.509
-06114,Norfolk,Renville County,44.673,-94.935
-03662,Hamlin,Lac qui Parle County,44.932,-96.170
-04549,La Crosse,Jackson County,43.798,-95.394
-06263,Odessa,Big Stone County,45.284,-96.303
-00653,Bellingham,Lac qui Parle County,45.136,-96.288
-01202,Bull Moose,Cass County,46.766,-94.604
-02169,Dale,Cottonwood County,43.975,-95.165
-07878,Sinclair,Clearwater County,47.700,-95.252
-05387,McKinley,Cass County,46.775,-94.734
-02786,Equality,Red Lake County,47.899,-95.763
-07426,Round Lake,Jackson County,43.536,-95.405
-08551,Tyro,Yellow Medicine County,44.769,-95.900
-00976,Boyd,Lac qui Parle County,44.849,-95.903
-02258,Deerwood,Kittson County,48.594,-96.595
-02950,Fenton,Murray County,43.887,-95.882
-07442,Royal,Lincoln County,44.499,-96.270
-07615,Sanford,Grant County,45.975,-95.952
-01103,Brookfield,Renville County,44.862,-94.682
-03819,Heier,Mahnomen County,47.466,-95.708
-07670,Schoolcraft,Hubbard County,47.291,-94.973
-00183,Amboy,Cottonwood County,44.065,-95.160
-08684,Turner,Aitkin County,46.825,-93.237
-04686,Laporte,Hubbard County,47.214,-94.754
-04806,Lessor,Polk County,47.714,-95.891
-00857,Bloom,Nobles County,43.798,-95.733
-01240,Burton,Yellow Medicine County,44.667,-96.041
-08427,Taunton,Lyon County,44.594,-96.066
-00478,Barnett,Roseau County,48.674,-96.062
-04449,Kildare,Swift County,45.285,-95.428
-04652,Lambert,Red Lake County,47.804,-95.903
-05713,Moose Lake,Cass County,46.599,-94.623
-08497,Thompson,Kittson County,48.765,-96.853
-09110,West Bank,Swift County,45.198,-95.794
-04000,Homer,Winona County,44.021,-91.557
-01749,Clover,Mahnomen County,47.363,-95.590
-03818,Heidelberg,Le Sueur County,44.491,-93.626
-07199,Rhinehart,Polk County,47.886,-97.010
-08836,Vega,Marshall County,48.228,-96.956
-09484,Yellow Bank,Lac qui Parle County,45.204,-96.405
-02696,Elkton,Mower County,43.663,-92.709
-04858,Limestone,Lincoln County,44.496,-96.130
-08224,Stony Brook,Grant County,46.062,-96.086
-01069,Brighton,Nicollet County,44.341,-94.329
-01130,Browns Valley,Big Stone County,45.542,-96.710
-02822,Euclid,Polk County,47.972,-96.639
-03664,Hammond,Wabasha County,44.222,-92.374
-08789,Valley,Marshall County,48.324,-95.658
-08981,Walter,Lac qui Parle County,45.110,-96.403
-00318,Ash Lake,Lincoln County,44.423,-96.272
-04220,Itasca,Clearwater County,47.293,-95.243
-04841,Lien,Grant County,45.892,-95.940
-07390,Rose Hill,Cottonwood County,43.981,-95.403
-08708,Twin Lakes,Freeborn County,43.560,-93.423
-02286,Delton,Cottonwood County,44.058,-95.050
-03626,Hagen,Clay County,47.100,-96.375
-07386,Roscoe,Stearns County,45.434,-94.640
-00046,Adrian,Watonwan County,44.062,-94.789
-01749,Clover,Hubbard County,47.099,-95.071
-03015,Fleming,Pine County,46.215,-92.593
-08324,Sunnyside,Wilkin County,46.239,-96.450
-00451,Bandon,Renville County,44.586,-94.813
-06386,Osceola,Renville County,44.848,-94.813
-06322,Omro,Yellow Medicine County,44.768,-96.041
-00073,Akron,Wilkin County,46.420,-96.333
-00166,Altona,Pipestone County,44.148,-96.387
-00268,Arena,Lac qui Parle County,45.019,-96.292
-00368,Ault,St. Louis County,47.221,-91.959
-02253,Deer Park,Pennington County,47.992,-95.774
-03056,Forest,Becker County,47.114,-95.358
-04301,Johnsonville,Redwood County,44.319,-95.421
-00195,Amo,Cottonwood County,43.970,-95.272
-03692,Harding,Morrison County,46.116,-94.041
-09300,Williams,Aitkin County,46.201,-93.244
-06366,Ormsby,Martin County,43.850,-94.699
-03395,Good Hope,Itasca County,47.640,-94.220
-07204,Rome,Faribault County,43.537,-93.957
-09343,Winsor,Clearwater County,47.811,-95.505
-01686,Clark,Aitkin County,46.634,-93.101
-01862,Comstock,Marshall County,48.228,-96.566
-02436,Drammen,Lincoln County,44.335,-96.393
-03249,Garvin,Lyon County,44.214,-95.756
-07889,Skandia,Murray County,44.146,-95.873
-08067,Springfield,Cottonwood County,43.888,-95.286
-09166,Western,Otter Tail County,46.147,-96.202
-00408,Badger,Polk County,47.706,-96.018
-06817,Pliny,Aitkin County,46.305,-93.230
-07396,Rosedale,Mahnomen County,47.279,-95.877
-08051,Spring Creek,Becker County,47.095,-96.017
-01112,Brooks,Red Lake County,47.814,-96.002
-02255,Deerfield,Cass County,46.848,-94.598
-04763,Lee,Norman County,47.202,-96.766
-05245,Marietta,Lac qui Parle County,45.008,-96.418
-07288,Riverton,Crow Wing County,46.460,-94.052
-07536,Salem,Cass County,47.208,-93.996
-02228,De Graff,Swift County,45.263,-95.468
-00500,Barto,Roseau County,48.761,-96.206
-01114,Brookston,St. Louis County,46.868,-92.604
-00564,Bear Creek,Clearwater County,47.372,-95.249
-07687,Scott,Stevens County,45.535,-96.046
-08429,Taylor,Beltrami County,47.622,-94.585
-03241,Garfield,Lac qui Parle County,44.922,-96.299
-01310,Cameron,Murray County,44.068,-96.005
-05215,Maple Ridge,Beltrami County,47.719,-95.039
-08390,Tabor,Polk County,48.065,-96.825
-03996,Holy Cross,Clay County,46.673,-96.733
-00347,Atlanta,Becker County,47.022,-96.128
-00385,Avoca,Murray County,43.949,-95.646
-09324,Willow Valley,St. Louis County,47.928,-92.927
-09431,Woodstock,Pipestone County,44.009,-96.101
-01346,Cannon City,Rice County,44.329,-93.211
-02249,Deer,Roseau County,48.589,-96.193
-04342,Jupiter,Kittson County,48.668,-96.705
-05122,Macsville,Grant County,45.804,-96.064
-06224,Oak Park,Marshall County,48.231,-97.075
-06576,Perley,Norman County,47.178,-96.805
-00208,Andover,Polk County,47.716,-96.675
-04831,Liberty,Polk County,47.536,-96.385
-03028,Florida,Yellow Medicine County,44.762,-96.395
-03041,Folsom,Traverse County,45.622,-96.792
-05938,Nesbit,Polk County,47.891,-96.805
-00149,Almond,Big Stone County,45.434,-96.401
-05663,Monson,Traverse County,45.883,-96.480
-06808,Pleasant View,Norman County,47.366,-96.524
-02634,Effie,Itasca County,47.840,-93.643
-05461,Mentor,Polk County,47.698,-96.141
-07242,Ridgely,Nicollet County,44.429,-94.670
-06622,Pepperton,Stevens County,45.622,-96.078
-02596,Ebro,Clearwater County,47.496,-95.529
-04620,Lake Pleasant,Red Lake County,47.804,-96.288
-05387,McKinley,St. Louis County,47.513,-92.411
-02194,Danvers,Swift County,45.282,-95.752
-00423,Baker,Stevens County,45.535,-96.169
-03430,Grace,Chippewa County,45.101,-95.543
-05711,Moose,Roseau County,48.842,-96.083
-08986,Walworth,Becker County,47.115,-96.120
-09006,Warrenton,Marshall County,48.239,-96.827
-05832,Moyer,Swift County,45.290,-95.943
-01598,Cherry Grove,Fillmore County,43.587,-92.289
-01862,Comstock,Clay County,46.659,-96.748
-07406,Roseville,Grant County,45.807,-95.950
-00581,Beaulieu,Mahnomen County,47.371,-95.732
-02271,Delaware,Grant County,45.899,-96.071
-03801,Hazelton,Kittson County,48.767,-96.745
-00153,Alpha,Jackson County,43.639,-94.871
-00695,Benville,Beltrami County,48.324,-95.529
-00774,Birch,Beltrami County,47.620,-94.462
-02319,Dewey,Roseau County,48.675,-96.323
-04452,Kimball,Jackson County,43.797,-94.924
-08155,Star,Pennington County,48.064,-95.668
-01609,Chester,Polk County,47.810,-95.778
-05601,Minneiska,Wabasha County,44.197,-91.881
-02621,Edison,Swift County,45.188,-95.909
-02659,Elbow Lake,Becker County,47.147,-95.544
-04731,Lawrence,Grant County,46.072,-96.201
-00367,Augusta,Lac qui Parle County,45.022,-96.403
-00585,Beaver,Roseau County,48.672,-95.554
-02908,Fanny,Polk County,47.891,-96.676
-07302,Roberts,Wilkin County,46.503,-96.696
-00085,Alberta,Stevens County,45.573,-96.048
-03976,Holly,Murray County,44.152,-95.522
-06376,Ortonville,Big Stone County,45.284,-96.407
-06186,Norway,Kittson County,48.670,-96.562
-07190,Revere,Redwood County,44.224,-95.364
-08088,St. Anthony,Stearns County,45.687,-94.612
-09452,Wright,Marshall County,48.411,-96.582
-03993,Holt,Marshall County,48.292,-96.193
-07044,Reine,Roseau County,48.596,-95.557
-07165,Reiner,Pennington County,48.140,-95.658
-07208,Riceville,Becker County,47.014,-95.997
-08111,St. Leo,Yellow Medicine County,44.717,-96.052
-08419,Tara,Swift County,45.361,-95.800
-02394,Donnelly,Stevens County,45.724,-96.078
-03112,Four Corners,St. Louis County,46.853,-92.280
-09040,Waukon,Norman County,47.369,-96.130
-09459,Wyandotte,Pennington County,47.992,-96.031
-01755,Cloverleaf,Pennington County,48.143,-95.912
-02077,Crosby,Pine County,45.956,-92.652
-03153,Freeland,Lac qui Parle County,44.849,-96.277
-03279,Georgetown,Clay County,47.080,-96.794
-06628,Perry,Lac qui Parle County,45.116,-96.299
-07798,Shelly,Norman County,47.452,-96.780
-08892,Vineland,Polk County,47.632,-96.791
-09156,West Union,Todd County,45.801,-95.083
-01749,Clover,Clearwater County,47.772,-95.280
-02257,Deerhorn,Wilkin County,46.587,-96.593
-03981,Holloway,Swift County,45.249,-95.908
-04851,Lima,Cass County,47.007,-93.801
-00263,Arco,Lincoln County,44.384,-96.184
-01147,Bruno,Pine County,46.279,-92.664
-05698,Moonshine,Big Stone County,45.535,-96.313
-08429,Taylor,Traverse County,45.979,-96.480
-08693,Turtle River,Beltrami County,47.587,-94.752
-00216,Angus,Polk County,48.065,-96.695
-06036,New Trier,Dakota County,44.601,-92.934
-02666,Eldorado,Stevens County,45.710,-96.180
-03517,Green Meadow,Norman County,47.376,-96.408
-04861,Lincoln,Marshall County,48.500,-96.453
-06087,Nimrod,Wadena County,46.639,-94.881
-07709,Seaforth,Redwood County,44.477,-95.326
-03552,Greenwood,Clearwater County,47.792,-95.397
-05165,Malta,Big Stone County,45.448,-96.312
-05176,Manfred,Lac qui Parle County,44.850,-96.389
-08877,Viking,Marshall County,48.219,-96.406
-00402,Bock,Mille Lacs County,45.785,-93.557
-02185,Danforth,Pine County,46.105,-92.599
-02947,Felton,Clay County,47.109,-96.500
-05623,Mitchell,Wilkin County,46.500,-96.593
-01704,Clay,Hubbard County,47.112,-94.952
-08243,Strand,Norman County,47.362,-96.253
-09425,Woodrow,Beltrami County,47.976,-94.612
-00142,Alma,Marshall County,48.333,-96.686
-03682,Hansonville,Lincoln County,44.580,-96.389
-05506,Middle River,Marshall County,48.326,-96.827
-04568,La Salle,Watonwan County,44.071,-94.570
-06867,Poplar Grove,Roseau County,48.585,-95.939
-05796,Mount Morris,Morrison County,45.954,-93.797
-07228,Richville,Otter Tail County,46.507,-95.626
-02477,Dumont,Traverse County,45.716,-96.426
-07964,Solway,Beltrami County,47.520,-95.129
-00992,Bradford,Wilkin County,46.152,-96.327
-01473,Cedar,Marshall County,48.420,-96.069
-09343,Windsor,Traverse County,45.698,-96.690
-08408,Tamarac,Marshall County,48.412,-96.845
-00734,Beulah,Cass County,46.862,-93.853
-00860,Bloomer,Marshall County,48.326,-96.957
-01398,Kerrick,Pine County,46.339,-92.586
-02484,Dundee,Nobles County,43.847,-95.467
-03274,Genola,Morrison County,45.960,-94.116
-04948,Logan,Grant County,45.796,-96.203
-06112,Nordick,Wilkin County,46.413,-96.592
-08990,Wanda,Redwood County,44.316,-95.212
-02830,Evan,Brown County,44.354,-94.841
-04097,Huntly,Marshall County,48.485,-96.215
-05940,Ness,St. Louis County,46.993,-92.751
-08419,Tara,Traverse County,45.609,-96.460
-01596,Cherry,St. Louis County,47.401,-92.707
-05279,Martin,Itasca County,47.489,-93.544
-08057,Spring Lake,Isanti County,45.542,-93.066
-04438,Keystone,Polk County,47.978,-96.805
-08183,Stevens,Stevens County,45.453,-96.178
-08982,Walters,Faribault County,43.606,-93.673
-00366,Augsburg,Marshall County,48.500,-96.715
-07357,Rogers,Cass County,47.105,-94.084
-09388,Wolf Lake,Becker County,46.803,-95.353
-08056,Spring Hill,Stearns County,45.525,-94.829
-00810,Black River,Pennington County,47.992,-96.288
-03874,Hickory,Pennington County,47.978,-95.658
-05900,Nassau,Lac qui Parle County,45.066,-96.440
-01317,Campbell,Wilkin County,46.064,-96.477
-03481,Granville,Kittson County,48.839,-96.876
-05898,Nashua,Wilkin County,46.037,-96.308
-07641,Sargeant,Mower County,43.805,-92.802
-07662,Scandia,Polk County,47.542,-96.644
-00585,Beaver,Aitkin County,46.463,-93.117
-04407,Kent,Wilkin County,46.436,-96.685
-08051,Spring Creek,Norman County,47.449,-96.387
-00627,Belgium,Polk County,47.971,-96.536
-06518,Parnell,Traverse County,45.633,-96.584
-07274,River,Red Lake County,47.949,-96.160
-04400,Kenneth,Rock County,43.754,-96.073
-05179,Manhattan Beach,Crow Wing County,46.728,-94.135
-00231,Anthony,Norman County,47.368,-96.634
-05288,Mary,Norman County,47.188,-96.616
-01488,Cedar Mills,Meeker County,44.943,-94.522
-01977,Cotton,St. Louis County,47.169,-92.476
-04067,Hubbard,Polk County,47.550,-96.783
-06518,Parnell,Polk County,47.891,-96.547
-08702,Twig,St. Louis County,46.894,-92.365
-09292,Wylie,Red Lake County,47.949,-96.418
-01738,Clifton,Traverse County,45.803,-96.320
-08409,Tamarack,Aitkin County,46.644,-93.127
-08895,Vining,Otter Tail County,46.263,-95.537
-03555,Gregory,Mahnomen County,47.463,-95.858
-08416,Taopi,Mower County,43.558,-92.643
-09289,Wilder,Jackson County,43.827,-95.197
-00307,Arthur,Traverse County,45.637,-96.704
-02932,Farwell,Pope County,45.752,-95.617
-02913,Farley,Polk County,48.141,-96.825
-03597,Gully,Polk County,47.769,-95.623
-05172,Manchester,Freeborn County,43.726,-93.452
-03623,Hadley,Murray County,44.001,-95.854
-05416,Meadows,Wilkin County,46.413,-96.466
-05626,Mizpah,Koochiching County,47.924,-94.204
-01549,Champion,Wilkin County,46.068,-96.330
-03798,Hazel Run,Yellow Medicine County,44.752,-95.715
-04820,Lewis,Mille Lacs County,46.019,-93.515
-07341,Rockwell,Norman County,47.209,-96.375
-02986,Fish Lake,Jackson County,43.839,-95.047
-04800,Leonidas,St. Louis County,47.462,-92.572
-01018,Bray,Pennington County,48.078,-96.438
-03400,Goodland,Itasca County,47.162,-93.136
-03761,Hatfield,Pipestone County,43.957,-96.195
-06110,Norcross,Grant County,45.869,-96.198
-08078,Spruce Grove,Beltrami County,48.323,-95.400
-00813,Blackberry,Itasca County,47.181,-93.391
-07854,Silica,St. Louis County,47.265,-93.021
-08057,Spring Lake,Itasca County,47.642,-93.868
-00525,Battle,Beltrami County,47.958,-94.702
-01008,Brandt,Polk County,48.065,-96.566
-00423,Baker,Clay County,46.713,-96.552
-05875,Myrtle,Freeborn County,43.564,-93.164
-08049,Spring Brook,Kittson County,48.586,-96.704
-05334,Mayfield,Pennington County,47.992,-95.903
-06204,O'Brien,Beltrami County,47.783,-94.771
-01953,Cornish,Aitkin County,46.893,-93.282
-02274,Delhi,Redwood County,44.599,-95.211
-06938,Prairie Lake,St. Louis County,46.819,-93.006
-07720,Sedan,Pope County,45.576,-95.248
-01127,Browns Creek,Red Lake County,47.949,-96.288
-01860,Como,Marshall County,48.500,-96.059
-03395,Good Hope,Norman County,47.456,-96.644
-04297,Johnson,Polk County,47.891,-95.646
-08509,Thorpe,Hubbard County,47.115,-94.863
-03664,Hammond,Polk County,47.630,-96.643
-09184,Westport,Pope County,45.715,-95.167
-04797,Leonard,Clearwater County,47.652,-95.272
-05379,McGrath,Aitkin County,46.240,-93.272
-07159,Regal,Kandiyohi County,45.407,-94.846
-08849,Verdon,Aitkin County,46.896,-93.377
-00214,Angora,St. Louis County,47.775,-92.634
-01073,Brimson,St. Louis County,47.277,-91.867
-01355,Canyon,St. Louis County,47.040,-92.471
-01753,Cloverdale,Pine County,46.012,-92.740
-02570,East Valley,Marshall County,48.313,-96.036
-03174,Friesland,Pine County,46.086,-92.930
-04084,Humboldt,Kittson County,48.921,-97.093
-04208,Isabella,Lake County,47.617,-91.355
-04213,Island Lake,St. Louis County,47.013,-92.199
-04763,Lee,Aitkin County,46.458,-93.345
-04763,Lee,Beltrami County,48.238,-95.518
-06082,Nickerson,Pine County,46.411,-92.499
-08968,Walls,Traverse County,45.723,-96.583
-09244,Whiteford,Marshall County,48.396,-95.957
-09340,Winchester,Norman County,47.195,-96.490
-09373,Wirt,Itasca County,47.731,-93.960
-08350,Svea,Kittson County,48.585,-96.966
-08613,Trail,Polk County,47.780,-95.692
-02288,Denham,Pine County,46.364,-92.943
-06505,Parker,Marshall County,48.413,-96.977
-09232,White Pine,Aitkin County,46.364,-93.218
-06623,Percy,Kittson County,48.770,-96.604
-05528,Midway,Mahnomen County,47.316,-95.779
-02401,Doran,Wilkin County,46.184,-96.483
-01785,Cobden,Brown County,44.286,-94.849
-02215,Davis,Kittson County,48.586,-96.839
-03666,Hampden,Kittson County,48.848,-96.995
-05473,Merrifield,Crow Wing County,46.465,-94.173
-08109,St. Joseph,Kittson County,48.940,-96.734
-05027,Louisburg,Lac qui Parle County,45.166,-96.171
-04869,Lind,Roseau County,48.588,-96.323
-01746,Clow,Kittson County,48.940,-96.992
-02124,Culver,St. Louis County,46.926,-92.559
-02738,Embarrass,St. Louis County,47.659,-92.198
-02828,Eureka Center,Dakota County,44.587,-93.218
-03047,Forbes,St. Louis County,47.372,-92.604
-03505,Greeley,Pine County,45.745,-93.068
-03573,Groningen,Pine County,46.151,-92.924
-05849,Munger,St. Louis County,46.801,-92.344
-06476,Palo,St. Louis County,47.415,-92.260
-06851,Pomroy,Itasca County,47.818,-93.993
-07862,Silver Creek,Lake County,47.112,-91.601
-08267,Sturgeon,St. Louis County,47.777,-92.869
-00446,Balsam,Aitkin County,46.814,-93.101
-05714,Moose River,Marshall County,48.493,-95.796
-07480,Russia,Polk County,47.630,-96.515
-03027,Florence,Lyon County,44.237,-96.052
-04297,Johnson,Big Stone County,45.573,-96.295
-03919,Hill,Kittson County,48.855,-97.117
-06846,Polonia,Roseau County,48.768,-96.328
-06496,Park,Pine County,46.282,-92.521
-01312,Camp 5,St. Louis County,48.175,-92.788
-03928,Hillman,Morrison County,46.004,-93.894
-05607,Minnie,Beltrami County,48.323,-95.271
-00318,Ash Lake,St. Louis County,48.219,-92.916
-01226,Burnett,St. Louis County,46.901,-92.524
-02387,Donaldson,Kittson County,48.572,-96.896
-02394,Donnelly,Marshall County,48.500,-96.977
-02479,Dunbar,Itasca County,47.658,-94.225
-03427,Gowan,St. Louis County,46.864,-92.847
-03899,Highland,Lake County,47.205,-91.719
-04369,Keenan,St. Louis County,47.383,-92.604
-04379,Kelsey,St. Louis County,47.154,-92.599
-06578,Peary,St. Louis County,47.372,-92.556
-06976,Prosper,Fillmore County,43.508,-91.870
-07036,Radium,Marshall County,48.229,-96.614
-07306,Robinson,St. Louis County,47.859,-92.042
-07367,Rollins,St. Louis County,47.257,-91.845
-08394,Taft,St. Louis County,46.994,-92.333
-08568,Toivola,St. Louis County,47.167,-92.811
-09386,Wolf,St. Louis County,47.451,-92.609
-03658,Hamre,Beltrami County,48.245,-95.382
-05187,Manley,Rock County,43.590,-96.431
-00490,Barry,Big Stone County,45.558,-96.559
-01344,Cannon,Kittson County,48.835,-96.581
-02526,Eagle Point,Marshall County,48.508,-97.096
-06450,Padua,Stearns County,45.614,-95.057
-00515,Bass Lake,Itasca County,47.698,-93.938
-00516,Bassett,St. Louis County,47.387,-91.829
-00566,Bear River,Itasca County,47.778,-93.083
-00679,Bengal,St. Louis County,47.268,-93.065
-01502,Celina,St. Louis County,47.866,-93.062
-02023,Cramer,Lake County,47.527,-91.090
-02718,Elmer,St. Louis County,47.104,-92.777
-02863,Fairbanks,St. Louis County,47.371,-91.927
-03352,Glendale,St. Louis County,48.032,-92.831
-03492,Grattan,Itasca County,47.818,-94.089
-04130,Independence,St. Louis County,46.958,-92.461
-05115,Mack,Itasca County,47.566,-93.774
-05409,Meadow Brook,St. Louis County,47.863,-92.955
-05528,Midway,Becker County,46.782,-95.260
-06556,Payne,St. Louis County,47.096,-92.599
-07409,Rosy,Itasca County,47.658,-94.306
-07532,Sax,St. Louis County,47.212,-92.603
-07782,Shaw,St. Louis County,47.113,-92.353
-08952,Wales,Lake County,47.235,-91.747
-09240,Whiteface,St. Louis County,47.187,-92.366
-03071,Fork,Marshall County,48.410,-97.091
-00027,Acton,Meeker County,45.084,-94.661
-00050,Etna,Fillmore County,43.602,-92.347
-00067,Airlie,Pipestone County,44.020,-96.438
-00090,Albright,Wright County,45.129,-94.114
-00111,Alger,Lake County,47.147,-91.693
-00122,Alida,Clearwater County,47.384,-95.235
-00264,Arcola,Washington County,45.123,-92.767
-00292,Armstrong,Freeborn County,43.665,-93.468
-00312,Asbury,Chippewa County,44.879,-95.534
-00315,Ash Creek,Rock County,43.538,-96.194
-00335,Assumption,Carver County,44.688,-93.889
-00342,Athens,Isanti County,45.443,-93.249
-00346,Atkinson,Carlton County,46.612,-92.566
-00367,Augusta,Carver County,44.805,-93.688
-00381,Averill,Clay County,46.971,-96.547
-00415,Bailey,Sherburne County,45.317,-93.665
-00429,Bald Eagle,Ramsey County,45.102,-93.014
-00486,Baroda,Faribault County,43.721,-93.675
-00533,Bay Lake,Crow Wing County,46.409,-93.874
-00549,Bayview,Mille Lacs County,46.119,-93.603
-00567,Bear Valley,Wabasha County,44.303,-92.478
-00585,Beaver,Winona County,44.153,-92.020
-00589,Beaver Falls,Renville County,44.583,-95.047
-00599,Beckville,Meeker County,45.044,-94.564
-00603,Bee,Houston County,43.501,-91.571
-00634,Belle Creek,Goodhue County,44.438,-92.771
-00637,Bellaire,Ramsey County,45.070,-92.995
-00677,Benedict,Hubbard County,47.158,-94.691
-00687,Benoit,Polk County,47.702,-96.395
-00699,Bergen,Jackson County,43.790,-94.995
-00706,Berne,Dodge County,44.164,-92.779
-00707,Bernadotte,Nicollet County,44.455,-94.301
-00728,Bethany,Winona County,44.024,-91.912
-00762,Big Stone Colony,Big Stone County,45.529,-96.474
-00775,Birch Beach,Lake of the Woods County,48.953,-94.932
-00777,Birchdale,Koochiching County,48.627,-94.102
-00797,Bixby,Steele County,43.944,-93.097
-00834,Blakeley,Scott County,44.611,-93.853
-00882,Blue Grass,Wadena County,46.543,-95.010
-00928,Bombay,Goodhue County,44.284,-92.892
-00992,Bradford,Isanti County,45.523,-93.369
-01000,Bramble,Koochiching County,47.905,-93.165
-01058,Bridgeman,Cass County,46.384,-94.581
-01149,Brunswick,Kanabec County,45.789,-93.276
-01150,Brush Creek,Faribault County,43.645,-93.848
-01210,Burchard,Lyon County,44.256,-95.990
-01235,Burr,Yellow Medicine County,44.748,-96.359
-01256,Butternut,Blue Earth County,44.138,-94.329
-01267,Cable,Sherburne County,45.512,-94.074
-01307,Cambria,Blue Earth County,44.239,-94.314
-01377,Caribou,Kittson County,48.983,-96.449
-01381,Carlisle,Otter Tail County,46.368,-96.190
-01443,Castle Rock,Dakota County,44.544,-93.153
-01486,Cedar Lake,Scott County,44.587,-93.440
-01519,Centerville,Winona County,43.943,-91.636
-01520,Central,Koochiching County,48.699,-94.343
-01530,Cerro Gordo,Lac qui Parle County,45.053,-96.032
-01543,Chamberlain,Hubbard County,46.905,-94.722
-01569,Charlesville,Grant County,45.949,-96.269
-01609,Chester,Olmsted County,44.007,-92.345
-01628,Childs,Wilkin County,46.066,-96.534
-01661,Churchill,Chippewa County,45.022,-95.867
-01661,Churchill,Renville County,44.818,-94.671
-01742,Clinton Falls,Steele County,44.139,-93.247
-01757,Clyde,Winona County,43.895,-91.979
-01797,Coin,Kanabec County,45.735,-93.307
-01825,Collegeville,Stearns County,45.594,-94.363
-01867,Conception,Wabasha County,44.266,-92.110
-01869,Concord,Dodge County,44.148,-92.836
-01879,Coney Island,Carver County,44.855,-93.761
-01937,Cordova,Le Sueur County,44.336,-93.672
-01952,Corning,Freeborn County,43.761,-93.049
-01957,Corona,Carlton County,46.671,-92.766
-01970,Kost,Chisago County,45.492,-92.868
-01998,Cove,Mille Lacs County,46.109,-93.619
-02021,Craigville,Koochiching County,47.903,-93.613
-02050,Cresson,Pipestone County,44.111,-96.435
-02091,Crow River,Meeker County,45.244,-94.724
-02096,Crown,Isanti County,45.445,-93.460
-02143,Cushing,Morrison County,46.140,-94.577
-02150,Cutler,Aitkin County,46.358,-93.757
-02161,Dahlgren,Carver County,44.777,-93.684
-02223,Day,Isanti County,45.709,-93.379
-02255,Deerfield,Steele County,44.167,-93.360
-02273,Delft,Cottonwood County,43.986,-95.089
-02277,Dell,Faribault County,43.624,-93.915
-02406,Dorset,Hubbard County,46.956,-94.953
-02415,Douglas,Olmsted County,44.108,-92.574
-02424,Downer,Clay County,46.754,-96.487
-02466,Dudley,Lyon County,44.425,-95.691
-02476,Dumfries,Wabasha County,44.345,-92.120
-02511,Duxbury,Pine County,46.128,-92.509
-02559,East Lake,Aitkin County,46.538,-93.284
-02569,East Union,Carver County,44.718,-93.682
-02598,Echols,Watonwan County,43.924,-94.675
-02604,Eden,Dodge County,44.088,-92.885
-02616,Edgewood,Isanti County,45.536,-93.231
-02667,Eldred,Polk County,47.683,-96.780
-02704,Ellis,Cass County,46.514,-94.697
-02713,Elm Park,Isanti County,45.673,-93.276
-02762,Enfield,Wright County,45.358,-93.931
-02784,Epsom,Rice County,44.262,-93.056
-02789,Erie,Pennington County,48.070,-95.722
-02870,Fairfield,Swift County,45.384,-95.974
-02889,Faith,Norman County,47.287,-96.099
-02929,Farris,Hubbard County,47.377,-94.703
-02933,Faunce,Lake of the Woods County,48.593,-94.953
-02972,Fillmore,Fillmore County,43.749,-92.268
-03000,Five Points,Stearns County,45.608,-94.261
-03057,Forest City,Meeker County,45.206,-94.466
-03059,Forest Grove,Koochiching County,47.977,-94.231
-03098,Foster,Big Stone County,45.416,-96.676
-03120,Fox,Roseau County,48.839,-95.899
-03123,Fox Lake,Martin County,43.677,-94.659
-03129,Franconia,Chisago County,45.370,-92.692
-03150,Freeburg,Houston County,43.611,-91.364
-03159,Fremont,Winona County,43.914,-91.899
-03182,Frontier,Koochiching County,48.656,-94.257
-03189,Fruitville,Benton County,45.713,-94.079
-03261,Gates Corner,Beltrami County,48.453,-95.319
-03261,Gates Corner,Koochiching County,48.219,-94.103
-03273,Genoa,Olmsted County,44.110,-92.608
-03280,Georgeville,Stearns County,45.429,-94.927
-03337,Glen,Aitkin County,46.419,-93.515
-03371,Glory,Aitkin County,46.417,-93.601
-03414,Gordonsville,Freeborn County,43.513,-93.254
-03422,Gotha,Carver County,44.717,-93.789
-03431,Graceton,Lake of the Woods County,48.741,-94.836
-03436,Graff,Cass County,46.572,-94.547
-03465,Grandy,Isanti County,45.635,-93.195
-03469,Granger,Fillmore County,43.502,-92.139
-03485,Grass Lake,Kanabec County,45.778,-93.168
-03526,Green Valley,Lyon County,44.527,-95.757
-03537,Greenland,Le Sueur County,44.207,-93.728
-03539,Greenleaf,Meeker County,44.996,-94.499
-03555,Gregory,Morrison County,45.939,-94.356
-03619,Hackett,Lake of the Woods County,48.816,-94.719
-03626,Hagan,Chippewa County,45.149,-95.776
-03659,Hamilton,Fillmore County,43.762,-92.449
-03711,Harney,Carlton County,46.722,-92.334
-03734,Hart,Winona County,43.876,-91.740
-03758,Hasty,Wright County,45.371,-93.973
-03768,Havana,Steele County,44.066,-93.146
-03782,Hay Creek,Goodhue County,44.492,-92.544
-03784,Haydenville,Lac qui Parle County,45.009,-96.310
-03795,Hazel,Pennington County,48.020,-96.115
-03802,Hazelwood,Rice County,44.523,-93.286
-03899,Highland,Fillmore County,43.681,-91.870
-03899,Highland,Wright County,45.123,-94.033
-03945,Hines,Beltrami County,47.686,-94.633
-03987,Hollywood,Carver County,44.906,-93.971
-03997,Holyoke,Carlton County,46.468,-92.389
-04019,Hope,Steele County,43.962,-93.276
-04040,Horton,Hubbard County,46.811,-95.097
-04093,Huntersville,Wadena County,46.776,-94.893
-04097,Huntley,Faribault County,43.732,-94.237
-04112,Iberia,Brown County,44.239,-94.695
-04127,Imogene,Martin County,43.660,-94.346
-04213,Island Lake,Beltrami County,47.789,-95.018
-04245,Jameson,Koochiching County,48.604,-93.366
-04254,Jarrett,Wabasha County,44.236,-92.339
-04263,Jefferson,Houston County,43.514,-91.280
-04272,Jennie,Meeker County,45.008,-94.348
-04296,Johnsburg,Mower County,43.506,-92.769
-04330,Judge,Olmsted County,43.899,-92.476
-04331,Judson,Blue Earth County,44.196,-94.195
-04434,Key West,Polk County,47.935,-96.783
-04454,Kimberly,Aitkin County,46.561,-93.466
-04505,Klondyke,Crow Wing County,46.442,-93.966
-04507,Knapp,Wright County,45.152,-94.226
-04530,Komensky,McLeod County,44.907,-94.277
-04636,Lakeside,Renville County,44.834,-94.559
-04655,Lamoille,Winona County,44.002,-91.472
-04728,Lawler,Aitkin County,46.536,-93.171
-04730,Lawndale,Wilkin County,46.557,-96.360
-04755,Leavenworth,Brown County,44.222,-94.802
-04789,Lenora,Fillmore County,43.572,-91.882
-04793,Leo,Roseau County,48.761,-96.251
-04826,Lexington,Le Sueur County,44.443,-93.703
-04828,Libby,Aitkin County,46.784,-93.325
-04861,Lincoln,Morrison County,46.210,-94.641
-04872,Linden,Brown County,44.181,-94.409
-04887,Linwood,Anoka County,45.357,-93.112
-04896,Little Chicago,Rice County,44.479,-93.322
-04906,Little Rock,Morrison County,45.833,-94.093
-04931,Lockhart,Norman County,47.440,-96.551
-04951,Loman,Koochiching County,48.513,-93.803
-04960,London,Freeborn County,43.526,-93.063
-04988,Longworth,Roseau County,48.983,-95.365
-05007,Lorne,Yellow Medicine County,44.746,-95.574
-05048,Lowville,Murray County,44.067,-95.867
-05055,Luce,Otter Tail County,46.658,-95.653
-05075,Luna,Marshall County,48.254,-96.794
-05090,Lydia,Scott County,44.653,-93.501
-05139,Mae,Cass County,46.832,-93.866
-05162,Mallory,Polk County,47.877,-96.912
-05163,Malmo,Aitkin County,46.334,-93.519
-05194,Mansfield,Freeborn County,43.572,-93.609
-05206,Maple,Carver County,44.882,-93.816
-05213,Maple Island,Freeborn County,43.761,-93.165
-05213,Maple Island,Washington County,45.174,-92.855
-05233,March,Marshall County,48.195,-96.897
-05237,Markham,St. Louis County,47.299,-92.219
-05285,Marty,Stearns County,45.400,-94.333
-05306,Matawan,Waseca County,43.858,-93.636
-05325,Max,Itasca County,47.615,-94.068
-05336,Mayhew,Benton County,45.713,-94.111
-05343,Mayville,Mower County,43.764,-92.909
-05397,McNair,Lake County,47.320,-91.673
-05468,Meriden,Steele County,44.074,-93.387
-05480,Merton,Steele County,44.146,-93.147
-05536,Mildred,Cass County,46.755,-94.465
-05559,Millersburg,Rice County,44.428,-93.332
-05617,Mission,Crow Wing County,46.588,-94.051
-05618,Mission Creek,Pine County,45.970,-92.950
-05638,Moland,Rice County,44.197,-93.062
-05652,Money Creek,Houston County,43.821,-91.614
-05742,Morrill,Morrison County,45.839,-93.970
-05753,Moscow,Freeborn County,43.707,-93.098
-05942,Nett Lake,St. Louis County,48.115,-93.081
-05992,New Hartford,Winona County,43.879,-91.476
-06029,New Rome,Sibley County,44.543,-94.093
-06034,New Sweden,Nicollet County,44.407,-94.190
-06048,Newburg,Fillmore County,43.567,-91.815
-06078,Nichols,Aitkin County,46.327,-93.785
-06121,Normania,Yellow Medicine County,44.647,-95.809
-06132,North Benton,Benton County,45.779,-93.946
-06154,North Prairie,Morrison County,45.801,-94.349
-06162,North Star,Nicollet County,44.291,-94.079
-06169,Northcote,Kittson County,48.845,-97.001
-06187,Norway Lake,Kandiyohi County,45.284,-95.135
-06193,Noyes,Kittson County,48.998,-97.204
-06209,Oak Center,Wabasha County,44.354,-92.401
-06224,Oak Park,Benton County,45.698,-93.818
-06234,Oakland,Freeborn County,43.674,-93.089
-06240,Oakridge,Winona County,44.121,-91.920
-06337,Opole,Stearns County,45.747,-94.369
-06364,Orleans,Kittson County,48.926,-96.937
-06388,Oshawa,Cass County,46.804,-94.639
-06388,Oshawa,Nicollet County,44.300,-94.105
-06391,Oslo,Dodge County,43.892,-92.739
-06402,Otisco,Waseca County,43.979,-93.502
-06406,Ottawa,Le Sueur County,44.382,-93.946
-06408,Otter Creek,Carlton County,46.625,-92.539
-06427,Owanka,Murray County,44.126,-95.676
-06471,Palmdale,Chisago County,45.456,-92.734
-06472,Palmer,Waseca County,44.153,-93.542
-06504,Parkdale,Otter Tail County,46.233,-96.013
-06605,Pennington,Beltrami County,47.484,-94.480
-06625,Perkins,Houston County,43.783,-91.644
-06637,Perth,Blue Earth County,44.069,-94.359
-06642,Petersburg,Jackson County,43.530,-94.919
-06697,Pillsbury,Todd County,45.933,-94.684
-06699,Pilot Grove,Faribault County,43.529,-94.228
-06713,Pine Brook,Isanti County,45.587,-93.389
-06716,Pine Creek,Houston County,43.845,-91.404
-06740,Pineville,St. Louis County,47.536,-92.294
-06741,Pinewood,Beltrami County,47.597,-95.128
-06785,Platte,Morrison County,46.106,-94.082
-06794,Pleasant Grove,Olmsted County,43.869,-92.386
-06806,Pleasant Valley,Carlton County,46.538,-92.385
-06908,Potsdam,Olmsted County,44.166,-92.339
-06942,Prairieville,Rice County,44.284,-93.192
-06945,Pratt,Steele County,44.023,-93.159
-06981,Providence,Lac qui Parle County,44.834,-96.113
-07058,Ramey,Morrison County,45.835,-93.938
-07061,Ramsey,Mower County,43.710,-92.970
-07071,Ransom,Nobles County,43.544,-95.794
-07076,Rapidan,Blue Earth County,44.094,-94.069
-07088,Ray,Koochiching County,48.411,-93.211
-07102,Reading,Nobles County,43.704,-95.713
-07174,Reno,Houston County,43.601,-91.275
-07175,Renova,Mower County,43.739,-92.766
-07207,Rice Lake,Wright County,45.014,-94.144
-07229,Richwood,Becker County,46.975,-95.823
-07247,Ridgeway,Winona County,43.912,-91.560
-07259,Ringe,Olmsted County,44.108,-92.399
-07268,Ryan,Goodhue County,44.424,-92.716
-07278,River Junction,Houston County,43.846,-91.297
-07374,Ronald,Aitkin County,46.447,-93.055
-07386,Roscoe,Goodhue County,44.225,-92.772
-07398,Roseland,Kandiyohi County,44.943,-95.106
-07403,Rosendale,Meeker County,45.041,-94.707
-07407,Rosewood,Marshall County,48.189,-96.290
-07411,Ross,Roseau County,48.906,-95.920
-07413,Rossburg,Aitkin County,46.535,-93.580
-07437,Rowena,Redwood County,44.390,-95.152
-07468,Rush River,Sibley County,44.467,-94.051
-07474,Ruskin,Rice County,44.267,-93.162
-07498,Saco,Steele County,44.004,-93.266
-07508,Saginaw,St. Louis County,46.859,-92.444
-07541,Salida,Sherburne County,45.357,-93.819
-07608,Sandy Lake,Aitkin County,46.799,-93.251
-07631,Santiago,Sherburne County,45.539,-93.820
-07635,Saratoga,Winona County,43.892,-92.070
-07654,Sawyer,Carlton County,46.671,-92.633
-07668,Schley,Cass County,47.369,-94.416
-07693,Scotts Corner,Carlton County,46.598,-92.429
-07723,Siegel,Washington County,45.016,-92.807
-07793,Sheldon,Houston County,43.678,-91.593
-07811,Sherman,McLeod County,44.948,-94.134
-07824,Shirley,Polk County,47.869,-96.614
-07870,Silverdale,Koochiching County,47.986,-93.110
-07876,Simpson,Olmsted County,43.924,-92.410
-07883,Sioux Valley,Jackson County,43.544,-95.305
-07918,Smith Lake,Wright County,45.083,-94.115
-07980,South Branch,Watonwan County,43.884,-94.549
-08004,South Troy,Wabasha County,44.206,-92.433
-08021,Spafford,Jackson County,43.616,-95.372
-08051,Spring Creek,Yellow Medicine County,44.718,-95.849
-08057,Spring Lake,Scott County,44.706,-93.463
-08072,Springvale,Isanti County,45.631,-93.307
-08087,St. Anna,Stearns County,45.662,-94.475
-08090,St. Benedict,Scott County,44.588,-93.614
-08099,St. Francis,Stearns County,45.760,-94.585
-08101,St. George,Nicollet County,44.389,-94.532
-08104,St. Henry,Le Sueur County,44.384,-93.789
-08117,St. Mary,Waseca County,44.028,-93.602
-08123,St. Patrick,Scott County,44.595,-93.502
-08130,St. Thomas,Le Sueur County,44.498,-93.757
-08131,St. Wendel,Stearns County,45.666,-94.378
-08147,Stanley,Isanti County,45.551,-93.153
-08151,Stanton,Goodhue County,44.472,-93.023
-08161,Stark,Chisago County,45.581,-93.061
-08194,Stewart,Lake County,47.103,-91.709
-08210,Stockholm,Wright County,45.036,-94.221
-08304,Sumter,McLeod County,44.739,-94.263
-08329,Sunrise,Chisago County,45.547,-92.855
-08350,Svea,Kandiyohi County,45.003,-95.021
-08355,Swan River,Itasca County,47.087,-93.195
-08361,Swatara,Aitkin County,46.896,-93.674
-08369,Swift,Roseau County,48.853,-95.221
-08378,Sylvan,Cass County,46.335,-94.407
-08500,Thor,Aitkin County,46.476,-93.421
-08567,Togo,Itasca County,47.821,-93.156
-08620,Traverse,Nicollet County,44.349,-94.017
-08652,Troy,Winona County,43.871,-92.068
-08744,Union Hill,Le Sueur County,44.544,-93.667
-08847,Verdi,Lincoln County,44.209,-96.352
-08899,Viola,Olmsted County,44.063,-92.268
-08908,Vista,Waseca County,43.957,-93.467
-08948,Waldo,Lake County,47.066,-91.699
-08961,Wall Lake,Otter Tail County,46.291,-95.965
-09025,Waterford,Dakota County,44.484,-93.143
-09060,Weaver,Wabasha County,44.215,-91.929
-09064,Weber,Isanti County,45.475,-93.124
-09067,Webster,Rice County,44.530,-93.353
-09079,Welch,Goodhue County,44.568,-92.739
-09145,West Newton,Wabasha County,44.265,-91.901
-09150,West Point,Isanti County,45.558,-93.389
-09198,Wheatland,Rice County,44.465,-93.484
-09235,White Rock,Goodhue County,44.456,-92.767
-09263,Whitman,Winona County,44.153,-91.806
-09291,Wildwood,Koochiching County,47.891,-93.967
-09295,Wilkinson,Cass County,47.251,-94.628
-09318,Willow Creek,Blue Earth County,43.895,-94.269
-09329,Wilmington,Houston County,43.547,-91.543
-09334,Wilson,Winona County,43.960,-91.685
-09337,Wilton,Waseca County,44.014,-93.534
-09381,Withrow,Washington County,45.124,-92.897
-09391,Wolford,Crow Wing County,46.546,-93.979
-09411,Woodland,Kanabec County,46.116,-93.284
-09425,Woodrow,Crow Wing County,46.388,-94.074
-09460,Wyanett,Isanti County,45.587,-93.451
-09476,Yankeetown,Big Stone County,45.491,-96.740
-09507,Yucatan,Houston County,43.681,-91.689
+3268,Minneapolis,Hennepin County,44.980,-93.264
+4721,St. Paul,Ramsey County,44.944,-93.093
+0484,Bloomington,Hennepin County,44.841,-93.298
+1405,Duluth,St. Louis County,46.783,-92.107
+0623,Brooklyn Park,Hennepin County,45.094,-93.356
+3969,Plymouth,Hennepin County,45.011,-93.456
+5473,Woodbury,Washington County,44.924,-92.959
+2712,Lakeville,Dakota County,44.650,-93.243
+0465,Blaine,Anoka County,45.171,-93.206
+3038,Maple Grove,Hennepin County,45.072,-93.456
+4694,St. Cloud,Benton County,45.527,-94.171
+1433,Eagan,Dakota County,44.804,-93.167
+0693,Burnsville,Dakota County,44.768,-93.278
+1104,Coon Rapids,Anoka County,45.120,-93.288
+0147,Apple Valley,Dakota County,44.732,-93.218
+1490,Edina,Hennepin County,44.890,-93.350
+3022,Mankato,Blue Earth County,44.171,-93.976
+3330,Moorhead,Clay County,46.874,-96.768
+3042,Maplewood,Ramsey County,44.953,-92.995
+1136,Cottage Grove,Washington County,44.828,-92.944
+4197,Richfield,Hennepin County,44.883,-93.283
+4314,Roseville,Ramsey County,45.006,-93.157
+4463,Savage,Scott County,44.779,-93.336
+0125,Andover,Anoka County,45.233,-93.291
+4112,Ramsey,Anoka County,45.261,-93.450
+3621,Oakdale,Washington County,44.963,-92.965
+4312,Rosemount,Dakota County,44.739,-93.126
+1538,Elk River,Sherburne County,45.304,-93.567
+5443,Winona,Winona County,44.050,-91.639
+1683,Farmington,Dakota County,44.640,-93.144
+3472,New Brighton,Ramsey County,45.066,-93.202
+1204,Crystal,Hennepin County,45.033,-93.360
+1965,Golden Valley,Hennepin County,45.010,-93.349
+2185,Hastings,Dakota County,44.732,-92.855
+3727,Otsego,Wright County,45.274,-93.591
+3493,New Hope,Hennepin County,45.038,-93.387
+3587,Northfield,Dakota County,44.453,-93.176
+1761,Forest Lake,Washington County,45.279,-92.985
+4772,Stillwater,Washington County,45.056,-92.806
+4718,St. Michael,Wright County,45.210,-93.665
+2352,Hopkins,Hennepin County,44.925,-93.463
+0136,Anoka,Anoka County,45.198,-93.387
+2381,Hugo,Washington County,45.160,-92.993
+2398,Hutchinson,McLeod County,44.888,-94.370
+0560,Brainerd,Crow Wing County,46.358,-94.201
+3514,New Ulm,Brown County,44.312,-94.461
+3069,Marshall,Lyon County,44.447,-95.788
+4287,Rogers,Hennepin County,45.189,-93.553
+4722,St. Peter,Nicollet County,44.324,-93.958
+2001,Grand Rapids,Itasca County,47.237,-93.530
+3569,North Branch,Chisago County,45.511,-92.980
+5139,Victoria,Carver County,44.859,-93.662
+0737,Cambridge,Isanti County,45.573,-93.224
+3367,Mound,Hennepin County,44.937,-93.666
+2851,Little Falls,Morrison County,45.976,-94.362
+3611,Oak Grove,Anoka County,45.341,-93.327
+4689,St. Anthony,Hennepin County,45.030,-93.215
+0298,Baxter,Crow Wing County,46.343,-94.287
+4697,St. Francis,Anoka County,45.394,-93.394
+5162,Virginia,St. Louis County,47.523,-92.537
+1271,Dayton,Hennepin County,45.189,-93.472
+3704,Orono,Hennepin County,44.971,-93.604
+5518,Wyoming,Chisago County,45.336,-92.997
+0048,Albertville,Wright County,45.238,-93.654
+4560,Shorewood,Carver County,44.902,-93.595
+1188,Crookston,Polk County,47.774,-96.608
+2541,Kasson,Dodge County,44.030,-92.751
+3163,Medina,Hennepin County,45.035,-93.582
+2520,Jordan,Scott County,44.667,-93.627
+1113,Corcoran,Hennepin County,45.095,-93.547
+4769,Stewartville,Olmsted County,43.856,-92.489
+1297,Delano,Wright County,45.042,-93.789
+0442,Byron,Olmsted County,44.033,-92.645
+0809,Carver,Carver County,44.764,-93.626
+1942,Glencoe,McLeod County,44.769,-94.152
+2683,Lake City,Goodhue County,44.446,-92.281
+3311,Montevideo,Chippewa County,44.942,-95.724
+1667,Falcon Heights,Ramsey County,44.992,-93.166
+3352,Morris,Stevens County,45.586,-95.914
+2957,Luverne,Rock County,43.654,-96.213
+4053,Princeton,Mille Lacs County,45.568,-93.590
+5432,Windom,Cottonwood County,43.866,-95.117
+2900,Lonsdale,Rice County,44.480,-93.429
+5240,Watertown,Carver County,44.964,-93.847
+4703,St. James,Watonwan County,43.982,-94.627
+0949,Chisholm,St. Louis County,47.489,-92.884
+4269,Rockford,Hennepin County,45.091,-93.745
+5174,Wadena,Otter Tail County,46.447,-95.127
+3533,Newport,Washington County,44.866,-93.000
+1081,Columbus,Anoka County,45.265,-93.050
+1051,Cold Spring,Stearns County,45.456,-94.429
+4191,Rice Lake,St. Louis County,46.895,-92.111
+2013,Grant,Washington County,45.084,-92.910
+0870,Centerville,Anoka County,45.163,-93.056
+0305,Bayport,Washington County,45.021,-92.781
+3318,Montrose,Wright County,45.065,-93.911
+3906,Pine Island,Goodhue County,44.198,-92.628
+2410,Independence,Hennepin County,45.025,-93.707
+5049,Two Harbors,Lake County,47.023,-91.671
+3332,Mora,Kanabec County,45.877,-93.294
+2138,Hanover,Hennepin County,45.158,-93.663
+3852,Perham,Otter Tail County,46.594,-95.573
+0574,Breckenridge,Wilkin County,46.264,-96.588
+0387,Benson,Swift County,45.315,-95.600
+0133,Annandale,Wright County,45.263,-94.124
+2464,Jackson,Jackson County,43.621,-94.989
+1438,Eagle Lake,Blue Earth County,44.165,-93.881
+1574,Ely,St. Louis County,47.903,-91.867
+4056,Proctor,St. Louis County,46.747,-92.225
+4740,Staples,Todd County,46.372,-94.815
+0906,Chatfield,Fillmore County,43.844,-92.183
+0025,Afton,Washington County,44.903,-92.784
+2051,Greenfield,Hennepin County,45.103,-93.691
+0270,Barnesville,Clay County,46.652,-96.420
+1745,Foley,Benton County,45.665,-93.910
+2011,Granite Falls,Chippewa County,44.807,-95.542
+1043,Cohasset,Itasca County,47.264,-93.620
+1952,Glenwood,Pope County,45.650,-95.390
+3719,Osseo,Hennepin County,45.119,-93.402
+3105,Mayer,Carver County,44.885,-93.888
+2808,Lexington,Anoka County,45.142,-93.163
+3823,Paynesville,Stearns County,45.381,-94.712
+5277,Wells,Faribault County,43.746,-93.729
+4275,Rockville,Stearns County,45.472,-94.341
+3669,Olivia,Renville County,44.776,-94.990
+1189,Crosby,Crow Wing County,46.482,-93.958
+1641,Excelsior,Hennepin County,44.903,-93.566
+1888,Gaylord,Sibley County,44.553,-94.221
+2751,Lauderdale,Ramsey County,44.999,-93.206
+1002,Clearwater,Stearns County,45.410,-94.045
+1068,Cologne,Carver County,44.772,-93.781
+4998,Tracy,Lyon County,44.233,-95.619
+4190,Rice,Benton County,45.752,-94.220
+4678,Springfield,Brown County,44.239,-94.976
+5249,Waverly,Wright County,45.067,-93.966
+1058,Coleraine,Itasca County,47.289,-93.428
+4350,Rushford,Fillmore County,43.808,-91.753
+0012,Ada,Norman County,47.300,-96.515
+4258,Rock Creek,Pine County,45.757,-92.962
+1411,Dundas,Rice County,44.429,-93.202
+2702,Lakefield,Jackson County,43.677,-95.172
+2895,Long Lake,Hennepin County,44.987,-93.572
+3039,Maple Plain,Hennepin County,45.007,-93.656
+2703,Lakeland,Washington County,44.956,-92.766
+0756,Canby,Yellow Medicine County,44.709,-96.276
+1914,Gilbert,St. Louis County,47.489,-92.465
+0221,Aurora,St. Louis County,47.530,-92.237
+5219,Warren,Marshall County,48.197,-96.773
+4144,Red Lake,Beltrami County,47.876,-95.017
+2805,Lewiston,Winona County,43.984,-91.869
+4201,Richmond,Stearns County,45.454,-94.518
+1269,Dawson,Lac qui Parle County,44.933,-96.054
+5346,Wheaton,Traverse County,45.804,-96.499
+1842,Fulda,Murray County,43.871,-95.600
+5440,Winnebago,Faribault County,43.768,-94.166
+4745,Starbuck,Pope County,45.614,-95.531
+1999,Grand Marais,Cook County,47.750,-90.334
+5449,Winthrop,Sibley County,44.543,-94.366
+3520,New York Mills,Otter Tail County,46.518,-95.376
+4339,Royalton,Benton County,45.830,-94.293
+0239,Bagley,Clearwater County,47.522,-95.398
+1485,Edgerton,Pipestone County,43.872,-96.129
+2996,Mahnomen,Mahnomen County,47.315,-95.969
+1650,Fairfax,Renville County,44.529,-94.721
+0023,Adrian,Nobles County,43.635,-95.933
+1303,Dellwood,Washington County,45.090,-92.972
+1141,Cottonwood,Lyon County,44.609,-95.674
+2161,Harris,Chisago County,45.586,-92.975
+5051,Tyler,Lincoln County,44.278,-96.135
+0209,Atwater,Kandiyohi County,45.139,-94.778
+2698,Lake Shore,Cass County,46.486,-94.361
+0606,Britt,St. Louis County,47.640,-92.526
+4546,Sherburn,Martin County,43.652,-94.727
+5242,Watkins,Meeker County,45.315,-94.409
+2364,Houston,Houston County,43.763,-91.568
+2233,Henderson,Sibley County,44.528,-93.908
+0779,Carlton,Carlton County,46.664,-92.425
+2767,Le Roy,Mower County,43.510,-92.504
+2295,Hilltop,Anoka County,45.053,-93.247
+3355,Morristown,Rice County,44.227,-93.445
+5195,Walker,Cass County,47.101,-94.587
+0674,Buhl,St. Louis County,47.494,-92.778
+3911,Pine River,Cass County,46.718,-94.404
+3114,Mazeppa,Wabasha County,44.273,-92.545
+3338,Morgan,Redwood County,44.417,-94.926
+2853,Little Rock,Beltrami County,47.868,-95.111
+5153,Vineland,Mille Lacs County,46.164,-93.757
+2237,Henning,Otter Tail County,46.322,-95.445
+4576,Silver Lake,McLeod County,44.903,-94.196
+5293,West Concord,Dodge County,44.154,-92.900
+2132,Hancock,Stevens County,45.497,-95.797
+5225,Warsaw,Rice County,44.249,-93.394
+4779,Stockton,Winona County,44.027,-91.770
+2591,Kimball,Stearns County,45.312,-94.300
+4725,St. Stephen,Stearns County,45.703,-94.274
+1377,Dover,Olmsted County,43.974,-92.139
+4130,Raymond,Chippewa County,45.018,-95.237
+1908,Gibbon,Sibley County,44.534,-94.526
+1707,Fertile,Polk County,47.536,-96.280
+5318,Westbrook,Cottonwood County,44.042,-95.436
+1007,Cleveland,Le Sueur County,44.326,-93.838
+4692,St. Clair,Blue Earth County,44.082,-93.858
+1147,Courtland,Nicollet County,44.268,-94.340
+5205,Walnut Grove,Redwood County,44.223,-95.469
+5171,Wabasso,Redwood County,44.402,-95.256
+0345,Belgrade,Stearns County,45.453,-95.004
+2695,Lake Park,Becker County,46.886,-96.094
+2728,Lanesboro,Fillmore County,43.721,-91.977
+2062,Greenwood,Hennepin County,44.915,-93.553
+2311,Hoffman,Grant County,45.829,-95.792
+2972,Mabel,Fillmore County,43.521,-91.770
+5271,Welcome,Martin County,43.667,-94.619
+2289,Hills,Rock County,43.528,-96.359
+2048,Greenbush,Roseau County,48.701,-96.182
+1819,Freeport,Stearns County,45.663,-94.690
+3365,Motley,Cass County,46.335,-94.643
+1545,Ellendale,Steele County,43.873,-93.301
+0014,Adams,Mower County,43.565,-92.719
+2658,La Prairie,Itasca County,47.228,-93.489
+0997,Clear Lake,Sherburne County,45.445,-93.999
+2907,Loretto,Hennepin County,45.055,-93.636
+2076,Grove City,Meeker County,45.151,-94.683
+0274,Barnum,Carlton County,46.503,-92.689
+2284,Hill City,Aitkin County,46.993,-93.599
+4366,Sabin,Clay County,46.780,-96.653
+3044,Marble,Itasca County,47.320,-93.299
+2235,Hendricks,Lincoln County,44.507,-96.424
+4115,Randall,Morrison County,46.091,-94.504
+2478,Jasper,Pipestone County,43.849,-96.400
+0704,Butterfield,Watonwan County,43.958,-94.795
+1293,Deerwood,Crow Wing County,46.474,-93.899
+3137,McIntosh,Polk County,47.637,-95.886
+1633,Evansville,Douglas County,46.004,-95.683
+0051,Alden,Freeborn County,43.670,-93.576
+2447,Ironton,Crow Wing County,46.477,-93.978
+2120,Hamburg,Carver County,44.733,-93.967
+1950,Glenville,Freeborn County,43.572,-93.281
+0637,Brownsville,Houston County,43.694,-91.280
+1765,Foreston,Mille Lacs County,45.734,-93.711
+0403,Bertha,Todd County,46.267,-95.063
+0634,Browns Valley,Traverse County,45.595,-96.833
+1435,Eagle Bend,Todd County,46.165,-95.039
+2461,Ivanhoe,Lincoln County,44.463,-96.247
+0166,Argyle,Marshall County,48.333,-96.821
+1564,Elmore,Faribault County,43.505,-94.088
+0109,Amboy,Blue Earth County,43.888,-94.157
+1989,Graceville,Big Stone County,45.569,-96.435
+2963,Lyle,Mower County,43.505,-92.944
+1100,Cook,St. Louis County,47.852,-92.690
+0970,Claremont,Dodge County,44.044,-92.998
+0580,Brewster,Nobles County,43.699,-95.469
+1892,Geneva,Freeborn County,43.823,-93.268
+4370,Sacred Heart,Renville County,44.787,-95.352
+2486,Jenkins,Crow Wing County,46.646,-94.335
+1804,Franklin,Renville County,44.528,-94.881
+5057,Ulen,Clay County,47.079,-96.259
+1555,Ellsworth,Nobles County,43.518,-96.018
+4093,Racine,Mower County,43.776,-92.483
+4766,Stewart,McLeod County,44.725,-94.486
+5082,Upsala,Morrison County,45.811,-94.571
+0184,Ashby,Grant County,46.093,-95.818
+0410,Bethel,Anoka County,45.404,-93.268
+0998,Clearbrook,Clearwater County,47.692,-95.431
+1254,Danube,Renville County,44.792,-95.097
+5127,Vermillion,Dakota County,44.674,-92.967
+5516,Wykoff,Fillmore County,43.707,-92.268
+2834,Lynd,Lyon County,44.386,-95.890
+3222,Milan,Chippewa County,45.109,-95.913
+0237,Badger,Roseau County,48.782,-96.014
+2552,Kellogg,Wabasha County,44.309,-91.996
+1717,Fisher,Polk County,47.800,-96.801
+3465,New Auburn,Sibley County,44.674,-94.230
+1787,Fountain,Fillmore County,43.740,-92.136
+3359,Morton,Renville County,44.551,-94.984
+0433,Bigfork,Itasca County,47.744,-93.654
+1608,Erskine,Polk County,47.667,-96.010
+5477,Woodland,Hennepin County,44.947,-93.504
+2244,Herman,Grant County,45.809,-96.143
+0104,Alvarado,Marshall County,48.194,-96.996
+1012,Clinton,Big Stone County,45.460,-96.434
+3912,Pine Springs,Washington County,45.036,-92.954
+3134,McGregor,Aitkin County,46.607,-93.314
+0276,Barrett,Grant County,45.911,-95.890
+1907,Ghent,Lyon County,44.513,-95.891
+4327,Round Lake,Nobles County,43.541,-95.468
+5466,Wood Lake,Yellow Medicine County,44.653,-95.538
+5064,Underwood,Otter Tail County,46.285,-95.871
+2723,Lancaster,Kittson County,48.858,-96.804
+4354,Russell,Lyon County,44.319,-95.952
+1870,Garfield,Douglas County,45.941,-95.492
+2889,Long Beach,Pope County,45.655,-95.418
+2935,Lowry,Pope County,45.705,-95.518
+0427,Big Lake,Carlton County,46.701,-92.621
+3950,Plato,McLeod County,44.774,-94.040
+4863,Swanville,Morrison County,45.916,-94.639
+3162,Medicine Lake,Hennepin County,44.995,-93.416
+5131,Vernon Center,Blue Earth County,43.962,-94.169
+0729,Calumet,Itasca County,47.322,-93.277
+1333,Dexter,Mower County,43.719,-92.705
+4420,Sanborn,Redwood County,44.210,-95.129
+2172,Hartland,Freeborn County,43.804,-93.487
+3108,Maynard,Chippewa County,44.907,-95.469
+2318,Hollandale,Freeborn County,43.761,-93.204
+3416,Murdock,Swift County,45.224,-95.393
+0367,Belview,Redwood County,44.605,-95.329
+2101,Hackensack,Cass County,46.931,-94.521
+1238,Dakota,Winona County,43.914,-91.360
+1993,Granada,Martin County,43.696,-94.348
+4590,Skyline,Blue Earth County,44.142,-94.031
+3967,Plummer,Red Lake County,47.911,-96.042
+0890,Chandler,Murray County,43.929,-95.947
+2566,Kensington,Douglas County,45.778,-95.696
+5429,Wilton,Beltrami County,47.504,-95.001
+4191,Rice Lake,Clearwater County,47.390,-95.509
+3255,Milroy,Redwood County,44.418,-95.553
+4575,Silver Creek,Wright County,45.315,-93.980
+2255,Hewitt,Todd County,46.326,-95.087
+3461,Nett Lake,Koochiching County,48.115,-93.081
+1011,Climax,Polk County,47.608,-96.817
+3717,Oslo,Marshall County,48.195,-97.132
+1477,Echo,Yellow Medicine County,44.617,-95.418
+1186,Cromwell,Carlton County,46.681,-92.884
+3838,Pemberton,Blue Earth County,44.009,-93.783
+3866,Peterson,Fillmore County,43.786,-91.835
+1879,Gary,Norman County,47.371,-96.268
+3722,Ostrander,Fillmore County,43.614,-92.428
+1924,Gilman,Benton County,45.735,-93.949
+1222,Currie,Murray County,44.071,-95.666
+1311,Dennison,Goodhue County,44.409,-93.030
+1243,Dalton,Otter Tail County,46.174,-95.916
+1836,Frost,Faribault County,43.586,-93.927
+4361,Rutledge,Pine County,46.264,-92.867
+4611,Sobieski,Morrison County,45.924,-94.459
+2807,Lewisville,Watonwan County,43.923,-94.437
+3645,Ogema,Becker County,47.103,-95.925
+1834,Frontenac,Goodhue County,44.511,-92.357
+5190,Waldorf,Waseca County,43.935,-93.697
+2147,Hardwick,Rock County,43.775,-96.199
+4633,South Haven,Wright County,45.292,-94.212
+2605,Kingston,Meeker County,45.197,-94.313
+3178,Mendota,Dakota County,44.887,-93.164
+3454,Nelson,Douglas County,45.889,-95.264
+5243,Watson,Chippewa County,45.010,-95.801
+1464,Easton,Faribault County,43.766,-93.901
+2317,Holland,Pipestone County,44.092,-96.189
+2563,Kennedy,Kittson County,48.642,-96.909
+0425,Big Falls,Koochiching County,48.191,-93.807
+1317,Dent,Otter Tail County,46.554,-95.716
+5507,Wright,Carlton County,46.669,-93.007
+5282,Wendell,Grant County,46.036,-96.101
+1714,Finland,Lake County,47.415,-91.249
+2435,Iona,Murray County,43.916,-95.784
+4008,Porter,Yellow Medicine County,44.636,-96.166
+5450,Winton,St. Louis County,47.926,-91.801
+2898,Longville,Cass County,46.986,-94.211
+3763,Palisade,Aitkin County,46.713,-93.489
+5403,Williams,Lake of the Woods County,48.768,-94.955
+4300,Roosevelt,Lake of the Woods County,48.807,-95.101
+1005,Clements,Redwood County,44.382,-95.052
+3251,Millville,Wabasha County,44.245,-92.296
+2996,Mahnomen,St. Louis County,46.773,-92.542
+0362,Bellingham,Lac qui Parle County,45.136,-96.288
+0550,Boyd,Lac qui Parle County,44.849,-95.903
+2737,Laporte,Hubbard County,47.214,-94.754
+4903,Taunton,Lyon County,44.594,-96.066
+2338,Homer,Winona County,44.021,-91.557
+2227,Heidelberg,Le Sueur County,44.491,-93.626
+1543,Elkton,Mower County,43.663,-92.709
+1624,Euclid,Polk County,47.972,-96.639
+2127,Hammond,Wabasha County,44.222,-92.374
+5046,Twin Lakes,Freeborn County,43.560,-93.423
+4303,Roscoe,Stearns County,45.434,-94.640
+2145,Harding,Morrison County,46.116,-94.041
+1877,Garvin,Lyon County,44.214,-95.756
+0624,Brooks,Red Lake County,47.814,-96.002
+3054,Marietta,Lac qui Parle County,45.008,-96.418
+4244,Riverton,Crow Wing County,46.460,-94.052
+1273,De Graff,Swift County,45.263,-95.468
+0626,Brookston,St. Louis County,46.868,-92.604
+0230,Avoca,Murray County,43.949,-95.646
+5492,Woodstock,Pipestone County,44.009,-96.101
+3185,Mentor,Polk County,47.698,-96.141
+1476,Ebro,Clearwater County,47.496,-95.529
+3139,McKinley,St. Louis County,47.513,-92.411
+1255,Danvers,Swift County,45.282,-95.752
+0924,Cherry Grove,Fillmore County,43.587,-92.289
+1088,Comstock,Clay County,46.659,-96.748
+0090,Alpha,Jackson County,43.639,-94.871
+0046,Alberta,Stevens County,45.573,-96.048
+4181,Revere,Redwood County,44.224,-95.364
+4689,St. Anthony,Stearns County,45.687,-94.612
+2331,Holt,Marshall County,48.292,-96.193
+4709,St. Leo,Yellow Medicine County,44.717,-96.052
+1791,Four Corners,St. Louis County,46.853,-92.280
+1898,Georgetown,Clay County,47.080,-96.794
+5314,West Union,Todd County,45.801,-95.083
+2324,Holloway,Swift County,45.249,-95.908
+0160,Arco,Lincoln County,44.384,-96.184
+0645,Bruno,Pine County,46.279,-92.664
+3546,Nimrod,Wadena County,46.639,-94.881
+2660,La Salle,Watonwan County,44.071,-94.570
+4204,Richville,Otter Tail County,46.507,-95.626
+1408,Dumont,Traverse County,45.716,-96.426
+4621,Solway,Beltrami County,47.520,-95.129
+0794,Kerrick,Pine County,46.339,-92.586
+1412,Dundee,Nobles County,43.847,-95.467
+1894,Genola,Morrison County,45.960,-94.116
+0922,Cherry,St. Louis County,47.401,-92.707
+3076,Martin,Itasca County,47.489,-93.544
+5209,Walters,Faribault County,43.606,-93.673
+5461,Wolf Lake,Becker County,46.803,-95.353
+4669,Spring Hill,Stearns County,45.525,-94.829
+3439,Nassau,Lac qui Parle County,45.066,-96.440
+3437,Nashua,Wilkin County,46.037,-96.308
+4459,Sargeant,Mower County,43.805,-92.802
+2567,Kent,Wilkin County,46.436,-96.685
+3017,Manhattan Beach,Crow Wing County,46.728,-94.135
+1139,Cotton,St. Louis County,47.169,-92.476
+4893,Tamarack,Aitkin County,46.644,-93.127
+5155,Vining,Otter Tail County,46.263,-95.537
+5395,Wilder,Jackson County,43.827,-95.197
+1691,Farwell,Pope County,45.752,-95.617
+3013,Manchester,Freeborn County,43.726,-93.452
+2103,Hadley,Murray County,44.001,-95.854
+3279,Mizpah,Koochiching County,47.924,-94.204
+2795,Leonidas,St. Louis County,47.462,-92.572
+1973,Goodland,Itasca County,47.162,-93.136
+2188,Hatfield,Pipestone County,43.957,-96.195
+3556,Norcross,Grant County,45.869,-96.198
+4670,Spring Lake,Itasca County,47.642,-93.868
+0246,Baker,Clay County,46.713,-96.552
+3424,Myrtle,Freeborn County,43.564,-93.164
+1301,Delhi,Redwood County,44.599,-95.211
+4502,Sedan,Pope County,45.576,-95.248
+5336,Westport,Pope County,45.715,-95.167
+2794,Leonard,Clearwater County,47.652,-95.272
+3133,McGrath,Aitkin County,46.240,-93.272
+0130,Angora,St. Louis County,47.775,-92.634
+0601,Brimson,St. Louis County,47.277,-91.867
+1018,Cloverdale,Pine County,46.012,-92.740
+1832,Friesland,Pine County,46.086,-92.930
+2383,Humboldt,Kittson County,48.921,-97.093
+2454,Island Lake,St. Louis County,47.013,-92.199
+3543,Nickerson,Pine County,46.411,-92.499
+5452,Wirt,Itasca County,47.731,-93.960
+5001,Trail,Polk County,47.780,-95.692
+1310,Denham,Pine County,46.364,-92.943
+1369,Doran,Wilkin County,46.184,-96.483
+1035,Cobden,Brown County,44.286,-94.849
+2922,Louisburg,Lac qui Parle County,45.166,-96.171
+1215,Culver,St. Louis County,46.926,-92.559
+1576,Embarrass,St. Louis County,47.659,-92.198
+1751,Forbes,St. Louis County,47.372,-92.604
+2031,Greeley,Pine County,45.745,-93.068
+2073,Groningen,Pine County,46.151,-92.924
+3413,Munger,St. Louis County,46.801,-92.344
+3772,Palo,St. Louis County,47.415,-92.260
+1737,Florence,Lyon County,44.237,-96.052
+2503,Johnson,Big Stone County,45.573,-96.295
+2288,Hillman,Morrison County,46.004,-93.894
+0689,Burnett,St. Louis County,46.901,-92.524
+1362,Donaldson,Kittson County,48.572,-96.896
+1409,Dunbar,Itasca County,47.658,-94.225
+2273,Highland,Lake County,47.205,-91.719
+2553,Kelsey,St. Louis County,47.154,-92.599
+4061,Prosper,Fillmore County,43.508,-91.870
+4096,Radium,Marshall County,48.229,-96.614
+4294,Rollins,St. Louis County,47.257,-91.845
+4886,Taft,St. Louis County,46.994,-92.333
+3023,Manley,Rock County,43.590,-96.431
+0277,Barry,Big Stone County,45.558,-96.559
+0290,Bass Lake,Itasca County,47.698,-93.938
+0291,Bassett,St. Louis County,47.387,-91.829
+0319,Bear River,Itasca County,47.778,-93.083
+0381,Bengal,St. Louis County,47.268,-93.065
+1158,Cramer,Lake County,47.527,-91.090
+1646,Fairbanks,St. Louis County,47.371,-91.927
+2023,Grattan,Itasca County,47.818,-94.089
+2410,Independence,St. Louis County,46.958,-92.461
+2978,Mack,Itasca County,47.566,-93.774
+3822,Payne,St. Louis County,47.096,-92.599
+4378,Sax,St. Louis County,47.212,-92.603
+4532,Shaw,St. Louis County,47.113,-92.353
+0011,Acton,Meeker County,45.084,-94.661
+0063,Alger,Lake County,47.147,-91.693
+0161,Arcola,Washington County,45.123,-92.767
+0192,Assumption,Carver County,44.688,-93.889
+0197,Athens,Isanti County,45.443,-93.249
+0201,Atkinson,Carlton County,46.612,-92.566
+0218,Augusta,Carver County,44.805,-93.688
+0394,Bergen,Jackson County,43.790,-94.995
+0398,Berne,Dodge County,44.164,-92.779
+0411,Bethany,Winona County,44.024,-91.912
+0448,Bixby,Steele County,43.944,-93.097
+0469,Blakeley,Scott County,44.611,-93.853
+0556,Bradford,Isanti County,45.523,-93.369
+0646,Brunswick,Kanabec County,45.789,-93.276
+0778,Caribou,Kittson County,48.983,-96.449
+0825,Castle Rock,Dakota County,44.544,-93.153
+0871,Central,Koochiching County,48.699,-94.343
+0932,Chester,Olmsted County,44.007,-92.345
+1044,Coin,Kanabec County,45.735,-93.307
+1115,Cordova,Le Sueur County,44.336,-93.672
+1173,Cresson,Pipestone County,44.111,-96.435
+1197,Crown,Isanti County,45.445,-93.460
+1225,Cushing,Morrison County,46.140,-94.577
+1270,Day,Isanti County,45.709,-93.379
+1300,Delft,Cottonwood County,43.986,-95.089
+1371,Dorset,Hubbard County,46.956,-94.953
+1375,Douglas,Olmsted County,44.108,-92.574
+1407,Dumfries,Wabasha County,44.345,-92.120
+1429,Duxbury,Pine County,46.128,-92.509
+1456,East Lake,Aitkin County,46.538,-93.284
+1459,East Union,Carver County,44.718,-93.682
+1481,Eden,Dodge County,44.088,-92.885
+1488,Edgewood,Isanti County,45.536,-93.231
+1604,Epsom,Rice County,44.262,-93.056
+1620,Etna,Fillmore County,43.602,-92.347
+1757,Forest Grove,Koochiching County,47.977,-94.231
+1801,Franconia,Chisago County,45.370,-92.692
+1821,Fremont,Winona County,43.914,-91.899
+1835,Frontier,Koochiching County,48.656,-94.257
+1933,Glen,Aitkin County,46.419,-93.515
+2007,Grandy,Isanti County,45.635,-93.195
+2043,Green Valley,Lyon County,44.527,-95.757
+2154,Harney,Carlton County,46.722,-92.334
+2186,Hasty,Wright County,45.371,-93.973
+2210,Hazel,Pennington County,48.020,-96.115
+2214,Hazelwood,Rice County,44.523,-93.286
+2335,Holyoke,Carlton County,46.468,-92.389
+2349,Hope,Steele County,43.962,-93.276
+2408,Imogene,Martin County,43.660,-94.346
+2592,Kimberly,Aitkin County,46.561,-93.466
+2719,Lamoille,Winona County,44.002,-91.472
+2758,Lawler,Aitkin County,46.536,-93.171
+2770,Leavenworth,Brown County,44.222,-94.802
+2808,Lexington,Le Sueur County,44.443,-93.703
+2810,Libby,Aitkin County,46.784,-93.325
+2879,Loman,Koochiching County,48.513,-93.803
+2950,Luna,Marshall County,48.254,-96.794
+3059,Markham,St. Louis County,47.299,-92.219
+3102,Max,Itasca County,47.615,-94.068
+3147,McNair,Lake County,47.320,-91.673
+3461,Nett Lake,St. Louis County,48.115,-93.081
+3586,Northcote,Kittson County,48.845,-97.001
+3703,Orleans,Kittson County,48.926,-96.937
+3728,Ottawa,Le Sueur County,44.382,-93.946
+3901,Pine Creek,Houston County,43.845,-91.404
+3920,Pinewood,Beltrami County,47.597,-95.128
+4040,Pratt,Steele County,44.023,-93.159
+4129,Ray,Koochiching County,48.411,-93.211
+4137,Reading,Nobles County,43.704,-95.713
+4171,Reno,Houston County,43.601,-91.275
+4236,River Junction,Houston County,43.846,-91.297
+4362,Ryan,Goodhue County,44.424,-92.716
+4373,Saginaw,St. Louis County,46.859,-92.444
+4434,Sandy Lake,Aitkin County,46.799,-93.251
+4452,Santiago,Sherburne County,45.539,-93.820
+4466,Sawyer,Carlton County,46.671,-92.633
+4473,Schley,Cass County,47.369,-94.416
+4579,Silverdale,Koochiching County,47.986,-93.110
+4702,St. Henry,Le Sueur County,44.384,-93.789
+4727,St. Thomas,Le Sueur County,44.498,-93.757
+4738,Stanton,Goodhue County,44.472,-93.023
+4766,Stewart,Lake County,47.103,-91.709
+4845,Sunrise,Chisago County,45.547,-92.855
+4973,Togo,Itasca County,47.821,-93.156
+5019,Troy,Winona County,43.871,-92.068
+5070,Union Hill,Le Sueur County,44.544,-93.667
+5158,Viola,Olmsted County,44.063,-92.268
+5237,Waterford,Dakota County,44.484,-93.143
+5260,Weaver,Wabasha County,44.215,-91.929
+5264,Weber,Isanti County,45.475,-93.124
+5396,Wildwood,Koochiching County,47.891,-93.967
+5456,Withrow,Washington County,45.124,-92.897
+5477,Woodland,Kanabec County,46.116,-93.284

@@ -1,1465 +1,493 @@
 phoneme,name,county,latitude,longitude
-01605,Chesapeake,Chesapeake city,36.819,-76.275
-00285,Arlington,Arlington County,38.890,-77.084
-06114,Norfolk,Norfolk city,36.847,-76.285
-07225,Richmond,Richmond city,37.554,-77.460
-00106,Alexandria,Alexandria city,38.805,-77.047
-03669,Hampton,Hampton city,37.030,-76.345
-07296,Roanoke,Roanoke city,37.271,-79.941
-06893,Portsmouth,Portsmouth city,36.835,-76.298
-05094,Lynchburg,Lynchburg city,37.414,-79.142
-01525,Centreville,Fairfax County,38.840,-77.429
-07187,Reston,Fairfax County,38.969,-77.341
-05526,Midlothian,Chesterfield County,37.522,-77.665
-03726,Harrisonburg,Harrisonburg city,38.450,-78.869
-05391,McLean,Fairfax County,38.934,-77.177
-04771,Leesburg,Loudoun County,39.116,-77.564
-08663,Tuckahoe,Henrico County,37.590,-77.556
-01572,Charlottesville,Charlottesville city,38.029,-78.477
-00320,Ashburn,Loudoun County,39.044,-77.487
-00823,Blacksburg,Montgomery County,37.230,-80.414
-01217,Burke,Fairfax County,38.793,-77.272
-09403,Woodbridge,Prince William County,38.658,-77.250
-05171,Manassas,Manassas city,38.751,-77.475
-02195,Danville,Danville city,36.586,-79.395
-00219,Annandale,Fairfax County,38.830,-77.196
-05422,Mechanicsville,Hanover County,37.609,-77.373
-06241,Oakton,Fairfax County,38.881,-77.301
-02860,Fair Oaks,Fairfax County,38.866,-77.369
-06642,Petersburg,Petersburg city,37.228,-77.402
-08067,Springfield,Fairfax County,38.789,-77.187
-08187,Sterling,Loudoun County,39.006,-77.429
-01079,Bristow,Prince William County,38.723,-77.536
-03146,Fredericksburg,Fredericksburg city,38.303,-77.461
-09340,Winchester,Winchester city,39.186,-78.163
-08171,Staunton,Staunton city,38.150,-79.072
-07536,Salem,Salem city,37.293,-80.055
-01462,Cave Spring,Roanoke County,37.228,-80.013
-03857,Herndon,Fairfax County,38.970,-77.387
-02869,Fairfax,Fairfax city,38.846,-77.306
-08387,Tabb,York County,37.123,-76.457
-01557,Chantilly,Fairfax County,38.894,-77.431
-09155,West Springfield,Fairfax County,38.773,-77.221
-04024,Hopewell,Hopewell city,37.304,-77.287
-01651,Christiansburg,Montgomery County,37.130,-80.409
-09417,Woodlawn,Fairfax County,38.717,-77.133
-09051,Waynesboro,Waynesboro city,38.068,-78.889
-01609,Chester,Chesterfield County,37.357,-77.442
-01599,Cherry Hill,Prince William County,38.570,-77.267
-05670,Montclair,Prince William County,38.611,-77.340
-07390,Rose Hill,Fairfax County,38.789,-77.113
-05008,Lorton,Fairfax County,38.704,-77.228
-05397,McNair,Fairfax County,38.952,-77.414
-05413,Meadowbrook,Chesterfield County,37.449,-77.474
-05473,Merrifield,Fairfax County,38.874,-77.227
-04475,Kingstowne,Fairfax County,38.761,-77.145
-03129,Franconia,Fairfax County,38.782,-77.146
-01839,Colonial Heights,Colonial Heights city,37.244,-77.410
-04714,Laurel,Henrico County,37.643,-77.509
-00929,Bon Air,Chesterfield County,37.525,-77.558
-03206,Gainesville,Prince William County,38.796,-77.614
-01078,Bristol,Bristol city,36.596,-82.188
-01203,Bull Run,Prince William County,38.784,-77.521
-07034,Radford,Radford city,37.132,-80.576
-08874,Vienna,Fairfax County,38.901,-77.265
-03978,Hollins,Botetourt County,37.344,-79.952
-08219,Stone Ridge,Loudoun County,38.925,-77.555
-09302,Williamsburg,Williamsburg city,37.271,-76.707
-01086,Broadlands,Loudoun County,39.018,-77.520
-03905,Highland Springs,Henrico County,37.546,-77.328
-03338,Glen Allen,Henrico County,37.666,-77.506
-03503,Great Falls,Fairfax County,38.998,-77.288
-03584,Groveton,Fairfax County,38.767,-77.085
-04095,Huntington,Fairfax County,38.792,-77.071
-05809,Mount Vernon,Fairfax County,38.735,-77.095
-05284,Martinsville,Martinsville city,36.692,-79.873
-06058,Newington,Fairfax County,38.738,-77.185
-04679,Lansdowne,Loudoun County,39.085,-77.484
-08537,Timberlake,Campbell County,37.321,-79.258
-04940,Locust Grove,Orange County,38.281,-77.726
-04636,Lakeside,Henrico County,37.608,-77.477
-05172,Manchester,Chesterfield County,37.486,-77.534
-09342,Wyndham,Henrico County,37.698,-77.612
-08941,Wakefield,Fairfax County,38.825,-77.243
-05953,New Baltimore,Fauquier County,38.767,-77.728
-03056,Forest,Bedford County,37.364,-79.290
-08626,Triangle,Prince William County,38.547,-77.337
-05133,Madison Heights,Amherst County,37.431,-79.123
-09405,Woodburn,Fairfax County,38.847,-77.236
-09006,Warrenton,Fauquier County,38.713,-77.795
-09497,Yorkshire,Prince William County,38.793,-77.448
-02401,Doran,Tazewell County,37.093,-81.833
-00664,Belmont,Loudoun County,39.065,-77.510
-01993,Countryside,Loudoun County,39.041,-77.414
-04174,Innsbrook,Henrico County,37.654,-77.576
-06985,Pulaski,Pulaski County,37.048,-80.780
-07924,Smithfield,Isle of Wight County,36.982,-76.631
-04617,Lake of the Woods,Orange County,38.334,-77.756
-04718,Laurel Hill,Fairfax County,38.717,-77.237
-00012,Abingdon,Washington County,36.710,-81.977
-03133,Franklin,Franklin city,36.678,-76.922
-00662,Bellwood,Chesterfield County,37.422,-77.437
-08898,Vinton,Roanoke County,37.281,-79.897
-07979,South Boston,Halifax County,36.699,-78.901
-03530,Greenbriar,Fairfax County,38.873,-77.401
-07342,Rockwood,Chesterfield County,37.463,-77.574
-05201,Mantua,Fairfax County,38.854,-77.259
-04972,Long Branch,Fairfax County,38.831,-77.270
-05688,Montrose,Henrico County,37.521,-77.378
-03031,Floris,Fairfax County,38.937,-77.413
-00327,Ashland,Hanover County,37.759,-77.480
-01830,Collinsville,Henry County,36.715,-79.915
-01203,Bull Run,Fairfax County,38.840,-77.490
-04826,Lexington,Lexington city,37.784,-79.443
-09410,Woodlake,Chesterfield County,37.421,-77.679
-06161,North Springfield,Fairfax County,38.804,-77.205
-02922,Farmville,Cumberland County,37.296,-78.400
-08246,Strasburg,Shenandoah County,38.989,-78.359
-01401,Carrollton,Isle of Wight County,36.947,-76.561
-05686,Montpelier,Hanover County,37.821,-77.684
-06905,Potomac Mills,Prince William County,38.646,-77.294
-00601,Bedford,Bedford County,37.334,-79.523
-01187,Buena Vista,Buena Vista city,37.734,-79.354
-00989,Braddock,Fairfax County,38.831,-77.357
-04106,Hutchison,Fairfax County,38.964,-77.411
-00639,Belle Haven,Fairfax County,38.785,-77.063
-03084,Fort Lee,Prince George County,37.236,-77.333
-01064,Bridgewater,Rockingham County,38.382,-78.977
-09431,Woodstock,Shenandoah County,38.882,-78.506
-05248,Marion,Smyth County,36.835,-81.515
-02003,Covington,Covington city,37.793,-79.994
-02476,Dumfries,Prince William County,38.568,-77.328
-02753,Emporia,Emporia city,36.686,-77.542
-07224,Richlands,Tazewell County,37.093,-81.794
-02820,Ettrick,Chesterfield County,37.240,-77.430
-06341,Orange,Orange County,38.245,-78.111
-00894,Bluefield,Tazewell County,37.253,-81.271
-05700,Moorefield,Loudoun County,38.996,-77.504
-07348,Rocky Mount,Franklin County,36.998,-79.892
-05080,Luray,Page County,38.665,-78.459
-07991,South Hill,Mecklenburg County,36.727,-78.129
-08745,Union Mill,Fairfax County,38.801,-77.387
-00718,Berryville,Clarke County,39.152,-77.982
-02901,Falmouth,Stafford County,38.324,-77.468
-08436,Tazewell,Tazewell County,37.115,-81.520
-02773,Enon,Chesterfield County,37.331,-77.323
-08858,Verona,Augusta County,38.202,-79.008
-03787,Hayfield,Fairfax County,38.752,-77.136
-05786,Mount Hermon,Pittsylvania County,36.678,-79.422
-01090,Broadway,Rockingham County,38.613,-78.799
-04468,Kings Park,Fairfax County,38.806,-77.243
-08759,University Center,Loudoun County,39.057,-77.444
-04928,Loch Lomond,Prince William County,38.786,-77.478
-08652,Troy,Fluvanna County,37.951,-78.246
-06183,Norton,Norton city,36.933,-82.629
-04886,Linville,Rockingham County,38.521,-78.838
-01753,Cloverdale,Botetourt County,37.365,-79.906
-02161,Dahlgren,King George County,38.331,-77.051
-09150,West Point,King William County,37.532,-76.796
-00824,Blackstone,Nottoway County,37.080,-77.997
-06159,North Shore,Franklin County,37.082,-79.658
-04758,Lebanon,Russell County,36.901,-82.080
-05269,Marshall,Fauquier County,38.865,-77.858
-00890,Blue Ridge,Botetourt County,37.378,-79.807
-02696,Elkton,Rockingham County,38.408,-78.624
-02170,Daleville,Botetourt County,37.410,-79.913
-09376,Wise,Wise County,36.976,-82.576
-03935,Hillsville,Carroll County,36.763,-80.735
-09343,Windsor,Isle of Wight County,36.808,-76.744
-05476,Merrimac,Montgomery County,37.190,-80.426
-02460,Dublin,Pulaski County,37.106,-80.685
-02874,Fairlawn,Pulaski County,37.148,-80.578
-06214,Oak Grove,Loudoun County,38.984,-77.404
-07801,Shenandoah,Page County,38.485,-78.625
-05314,Matoaca,Chesterfield County,37.230,-77.477
-04611,Lake Holiday,Frederick County,39.307,-78.325
-09417,Woodlawn,Carroll County,36.722,-80.823
-00264,Arcola,Loudoun County,38.952,-77.534
-07206,Rice,Prince Edward County,37.275,-78.291
-06009,New Market,Shenandoah County,38.648,-78.671
-00190,Amherst,Amherst County,37.585,-79.051
-07080,Raven,Russell County,37.093,-81.859
-07178,Rio,Albemarle County,38.076,-78.461
-05026,Louisa,Louisa County,38.025,-78.004
-05895,Narrows,Giles County,37.332,-80.811
-05790,Mount Jackson,Shenandoah County,38.746,-78.642
-09046,Waverly,Sussex County,37.036,-77.095
-01928,Copper Hill,Floyd County,37.082,-80.134
-08870,Victoria,Lunenburg County,36.995,-78.227
-08147,Stanley,Page County,38.575,-78.503
-02226,Dayton,Rockingham County,38.415,-78.939
-01630,Chilhowie,Smyth County,36.798,-81.682
-09009,Warsaw,Richmond County,37.959,-76.758
-03416,Gore,Frederick County,39.264,-78.332
-05095,Lyndhurst,Augusta County,38.029,-78.945
-07786,Shawsville,Montgomery County,37.168,-80.255
-01787,Coeburn,Wise County,36.944,-82.464
-08708,Twin Lakes,Greene County,38.249,-78.444
-03548,Greenville,Augusta County,38.003,-79.156
-01329,Cana,Carroll County,36.590,-80.672
-07076,Rapidan,Culpeper County,38.313,-78.066
-02854,Exmore,Northampton County,37.532,-75.823
-03414,Gordonsville,Orange County,38.137,-78.188
-05519,Middletown,Frederick County,39.028,-78.281
-01070,Brightwood,Madison County,38.422,-78.194
-08194,Stuart,Patrick County,36.641,-80.266
-07449,Ruckersville,Greene County,38.233,-78.369
-07165,Riner,Montgomery County,37.067,-80.441
-01697,Clarksville,Halifax County,36.618,-78.565
-01996,Courtland,Southampton County,36.716,-77.068
-03562,Gretna,Pittsylvania County,36.954,-79.359
-01445,Castlewood,Russell County,36.890,-82.280
-09066,Weber City,Scott County,36.623,-82.562
-08073,Springville,Tazewell County,37.197,-81.403
-01161,Buchanan,Botetourt County,37.527,-79.680
-02620,Edinburg,Shenandoah County,38.821,-78.566
-01577,Chatham,Pittsylvania County,36.826,-79.398
-00970,Bowling Green,Caroline County,38.050,-77.347
-02707,Elliston,Montgomery County,37.217,-80.233
-08148,Stanleytown,Henry County,36.744,-79.963
-06596,Pembroke,Giles County,37.320,-80.639
-04589,Lahore,Orange County,38.199,-77.968
-03640,Halifax,Halifax County,36.766,-78.928
-00345,Atkins,Smyth County,36.867,-81.423
-03335,Glasgow,Rockbridge County,37.634,-79.450
-05310,Mathews,Mathews County,37.437,-76.320
-01475,Cedar Bluff,Tazewell County,37.088,-81.759
-00516,Bassett,Henry County,36.759,-79.990
-02746,Emory,Washington County,36.773,-81.836
-04733,Lawrenceville,Brunswick County,36.758,-77.847
-03492,Gratton,Tazewell County,37.135,-81.414
-01869,Concord,Appomattox County,37.345,-78.983
-04130,Independence,Grayson County,36.622,-81.151
-03728,Harriston,Augusta County,38.217,-78.832
-09036,Wattsville,Accomack County,37.934,-75.500
-00300,Arrington,Nelson County,37.684,-78.901
-07284,Riverdale,Halifax County,36.687,-78.900
-06820,Plum Creek,Montgomery County,37.130,-80.501
-02020,Craigsville,Augusta County,38.079,-79.383
-02456,Dryden,Lee County,36.778,-82.942
-04317,Jonesville,Lee County,36.689,-83.111
-06915,Pound,Wise County,37.124,-82.601
-08124,St. Paul,Russell County,36.907,-82.317
-00660,Belview,Montgomery County,37.167,-80.510
-04719,Laurel Park,Henry County,36.689,-79.801
-04226,Ivy,Albemarle County,38.057,-78.597
-04439,Keysville,Charlotte County,37.040,-78.483
-08281,Sugar Grove,Smyth County,36.776,-81.412
-02177,Damascus,Washington County,36.634,-81.784
-03081,Fort Defiance,Augusta County,38.240,-78.972
-00975,Boyce,Clarke County,39.093,-78.059
-07247,Ridgeway,Henry County,36.577,-79.858
-07210,Rich Creek,Giles County,37.382,-80.823
-02973,Fincastle,Botetourt County,37.499,-79.877
-08941,Wakefield,Sussex County,36.968,-76.990
-03611,Gwynn,Mathews County,37.504,-76.289
-05998,New Hope,Augusta County,38.198,-78.906
-07390,Rose Hill,Lee County,36.672,-83.367
-01325,Camptown,Isle of Wight County,36.686,-76.895
-07425,Round Hill,Loudoun County,39.133,-77.769
-05765,Motley,Pittsylvania County,37.070,-79.341
-05511,Middleburg,Loudoun County,38.969,-77.736
-07722,Sedley,Southampton County,36.776,-76.984
-04225,Ivanhoe,Wythe County,36.840,-80.967
-07169,Remington,Fauquier County,38.534,-77.808
-00952,Boston,Accomack County,37.609,-75.843
-07557,Saluda,Middlesex County,37.606,-76.595
-02353,Dinwiddie,Dinwiddie County,37.078,-77.587
-07290,Riverview,Wise County,36.935,-82.482
-03659,Hamilton,Loudoun County,39.134,-77.662
-04549,La Crosse,Mecklenburg County,36.700,-78.100
-03393,Goochland,Goochland County,37.684,-77.885
-06334,Opal,Fauquier County,38.621,-77.800
-01749,Clover,Halifax County,36.833,-78.733
-07004,Quantico,Prince William County,38.522,-77.294
-02437,Draper,Pulaski County,37.006,-80.747
-00348,Atlantic,Accomack County,37.901,-75.508
-04044,Hot Springs,Bath County,38.000,-79.832
-00639,Belle Haven,Accomack County,37.555,-75.824
-07696,Scottsville,Albemarle County,37.811,-78.488
-00017,Accomac,Accomack County,37.720,-75.665
-08770,Urbanna,Middlesex County,37.638,-76.574
-08197,Stewartsville,Bedford County,37.271,-79.793
-05590,Mineral,Louisa County,38.011,-77.909
-09259,Whitewood,Buchanan County,37.236,-81.857
-04205,Irvington,Lancaster County,37.662,-76.419
-01564,Cheriton,Northampton County,37.290,-75.971
-07649,Savageville,Accomack County,37.681,-75.757
-08650,Troutville,Botetourt County,37.418,-79.875
-07732,Selma,Alleghany County,37.807,-79.848
-03253,Gasburg,Brunswick County,36.567,-77.896
-02192,Dante,Dickenson County,36.985,-82.284
-04584,Lafayette,Montgomery County,37.236,-80.211
-03037,Floyd,Floyd County,36.911,-80.320
-05649,Moneta,Bedford County,37.181,-79.617
-02349,Dillwyn,Buckingham County,37.543,-78.457
-04034,Horntown,Accomack County,37.970,-75.464
-08413,Tangier,Accomack County,37.826,-75.992
-01219,Burkeville,Nottoway County,37.188,-78.201
-00551,Baywood,Grayson County,36.610,-81.012
-06027,New River,Pulaski County,37.133,-80.591
-05690,Montvale,Bedford County,37.385,-79.731
-02846,Ewing,Lee County,36.637,-83.432
-05041,Low Moor,Alleghany County,37.789,-79.884
-09237,White Stone,Lancaster County,37.648,-76.389
-00874,Bloxom,Accomack County,37.830,-75.623
-06081,Nickelsville,Scott County,36.753,-82.415
-02357,Disputanta,Prince George County,37.124,-77.226
-02125,Cumberland,Cumberland County,37.496,-78.245
-03020,Flint Hill,Rappahannock County,38.763,-78.100
-07821,Shipman,Nelson County,37.724,-78.839
-01294,Callaghan,Alleghany County,37.812,-80.074
-00051,Afton,Albemarle County,38.022,-78.833
-03419,Goshen,Rockbridge County,37.987,-79.498
-04425,Keswick,Albemarle County,38.025,-78.356
-00051,Afton,Albemarle County,38.032,-78.839
-05395,McMullin,Smyth County,36.814,-81.578
-01679,Claremont,Surry County,37.228,-76.964
-00085,Alberta,Brunswick County,36.866,-77.886
-07016,Quinby,Accomack County,37.554,-75.734
-02588,Eastville,Northampton County,37.353,-75.946
-00841,Bland,Bland County,37.102,-81.116
-08343,Sussex,Sussex County,36.915,-77.279
-01663,Churchville,Augusta County,38.226,-79.162
-06826,Pocahontas,Tazewell County,37.304,-81.340
-07674,Schuyler,Nelson County,37.792,-78.698
-09498,Yorktown,York County,37.239,-76.510
-02870,Fairfield,Rockbridge County,37.879,-79.289
-02485,Dungannon,Scott County,36.828,-82.472
-08485,The Plains,Fauquier County,38.862,-77.774
-01738,Clifton,Fairfax County,38.780,-77.387
-06661,Phenix,Charlotte County,37.080,-78.748
-03811,Heathsville,Northumberland County,37.918,-76.472
-00547,Bayside,Accomack County,37.748,-75.717
-00752,Big Island,Bedford County,37.534,-79.360
-08447,Temperanceville,Accomack County,37.893,-75.547
-01404,Carrsville,Isle of Wight County,36.712,-76.826
-02528,Eagle Rock,Botetourt County,37.641,-79.801
-08340,Surry,Surry County,37.138,-76.835
-05132,Madison,Madison County,38.380,-78.257
-08393,Tacoma,Wise County,36.938,-82.534
-06522,Parrott,Pulaski County,37.205,-80.616
-03689,Harborton,Accomack County,37.662,-75.830
-06882,Port Royal,Caroline County,38.172,-77.191
-00756,Big Rock,Buchanan County,37.353,-82.189
-02255,Deerfield,Augusta County,38.197,-79.407
-08225,Stony Creek,Sussex County,36.948,-77.401
-00906,Bobtown,Accomack County,37.651,-75.793
-00466,Barboursville,Orange County,38.171,-78.282
-01025,Breaks,Buchanan County,37.301,-82.279
-05674,Monterey,Highland County,38.412,-79.581
-03680,Hanover,Hanover County,37.767,-77.370
-05523,Midland,Fauquier County,38.600,-77.724
-06881,Port Republic,Rockingham County,38.289,-78.813
-01025,Breaks,Buchanan County,37.296,-82.281
-04374,Keller,Accomack County,37.619,-75.764
-08649,Troutdale,Grayson County,36.702,-81.440
-01367,Capron,Southampton County,36.711,-77.200
-01732,Cleveland,Russell County,36.944,-82.152
-05452,Mendota,Washington County,36.711,-82.302
-07686,Scotland,Surry County,37.184,-76.786
-06380,Osaka,Wise County,36.947,-82.811
-05077,Lunenburg,Lunenburg County,36.961,-78.266
-05968,New Castle,Craig County,37.500,-80.111
-07695,Scottsburg,Halifax County,36.757,-78.790
-01004,Branchville,Southampton County,36.570,-77.249
-02882,Fairview,Mecklenburg County,36.815,-78.467
-03931,Hillsboro,Loudoun County,39.198,-77.723
-06475,Palmyra,Fluvanna County,37.861,-78.263
-01835,Columbia,Fluvanna County,37.752,-78.162
-09014,Washington,Rappahannock County,38.713,-78.159
-03937,Hilltown,Carroll County,36.729,-80.982
-02479,Dunbar,Wise County,36.974,-82.747
-08998,Warfield,Brunswick County,36.896,-77.826
-01566,Charles City,Charles City County,37.343,-77.073
-08092,St. Charles,Lee County,36.802,-83.057
-02470,Duffield,Scott County,36.719,-82.796
-07949,Snowville,Pulaski County,37.033,-80.561
-08450,Templeton,Prince George County,37.082,-77.355
-03140,Franktown,Northampton County,37.479,-75.879
-00522,Batesville,Albemarle County,37.996,-78.722
-07615,Sanford,Accomack County,37.925,-75.664
-01303,Calverton,Fauquier County,38.632,-77.671
-06216,Oak Hall,Accomack County,37.937,-75.546
-05510,Middlebrook,Augusta County,38.051,-79.214
-09256,Whitesville,Accomack County,37.782,-75.663
-05420,Mechanicsburg,Bland County,37.148,-80.941
-03532,Greenbush,Accomack County,37.741,-75.681
-00004,Abbott,Craig County,37.429,-80.134
-00011,Abilene,Charlotte County,37.142,-78.544
-00020,Achilles,Gloucester County,37.280,-76.440
-00026,Acorn,Westmoreland County,36.962,-78.984
-00041,Aden,Prince William County,38.655,-77.537
-00064,Aily,Dickenson County,37.087,-82.286
-00067,Airlie,Fauquier County,38.657,-77.717
-00068,Airmont,Loudoun County,39.085,-77.787
-00071,Ajax,Pittsylvania County,36.981,-79.577
-00088,Albin,Frederick County,39.222,-78.199
-00094,Alden,King George County,38.274,-77.072
-00124,Alleghany,Alleghany County,37.747,-80.240
-00132,Allentown,Accomack County,37.696,-75.689
-00142,Alma,Page County,38.591,-78.558
-00153,Alpha,Buckingham County,37.583,-78.417
-00165,Alton,Halifax County,36.573,-79.003
-00173,Alvarado,Washington County,36.650,-81.887
-00194,Ammon,Amelia County,37.211,-77.768
-00198,Amsterdam,Botetourt County,37.427,-79.906
-00207,Andersonville,Buckingham County,37.468,-78.569
-00208,Andover,Wise County,36.924,-82.797
-00213,Angola,Cumberland County,37.402,-78.240
-00232,Antioch,Fluvanna County,37.847,-78.421
-00232,Antioch,Prince William County,38.859,-77.686
-00255,Ararat,Patrick County,36.599,-80.511
-00260,Arcadia,Botetourt County,37.545,-79.624
-00260,Arcadia,Spotsylvania County,38.106,-77.530
-00285,Arlington,Northampton County,37.220,-76.004
-00292,Armstrong,Bath County,38.112,-79.521
-00296,Arno,Wise County,36.927,-82.812
-00301,Arrowhead,Albemarle County,37.979,-78.594
-00311,Arvonia,Buckingham County,37.684,-78.341
-00321,Ashby,Cumberland County,37.578,-78.175
-00321,Ashby,Warren County,39.011,-78.135
-00331,Ashwood,Bath County,37.972,-79.850
-00342,Athens,Caroline County,37.992,-77.417
-00352,Atlee,Hanover County,37.658,-77.407
-00353,Atoka,Fauquier County,38.976,-77.809
-00375,Austinville,Wythe County,36.851,-80.912
-00377,Avalon,Northumberland County,36.804,-76.271
-00386,Avon,Nelson County,38.000,-78.827
-00390,Axtell,Buckingham County,37.701,-78.601
-00410,Bagby,Caroline County,37.926,-77.231
-00411,Bagdad,Caroline County,37.905,-77.423
-00433,Baldwin,Botetourt County,37.740,-79.851
-00449,Banco,Madison County,38.451,-78.282
-00457,Banner,Wise County,36.949,-82.430
-00476,Barnes,Greene County,38.221,-78.448
-00498,Bartlett,Isle of Wight County,36.941,-76.537
-00503,Bartonsville,Frederick County,39.111,-78.212
-00511,Basham,Montgomery County,37.036,-80.343
-00526,Battle Creek,Page County,38.606,-78.586
-00547,Bayside,Westmoreland County,38.106,-76.653
-00549,Bayview,Northampton County,37.277,-75.968
-00575,Bearwallow,Buchanan County,37.241,-81.744
-00582,Beaumont,Powhatan County,37.666,-77.908
-00592,Beaverdam,Hanover County,37.941,-77.654
-00603,Bee,Dickenson County,37.115,-82.172
-00609,Beech Grove,Nelson County,37.876,-78.939
-00617,Bel Air,Stafford County,38.336,-77.434
-00629,Belinda,Accomack County,37.911,-75.662
-00636,Bella Vista,Pulaski County,37.107,-80.787
-00637,Bellair,Albemarle County,38.039,-78.531
-00638,Bellamy,Gloucester County,37.398,-76.573
-00640,Belle Meade,Fauquier County,38.657,-77.717
-00647,Belleview,King and Queen County,37.484,-76.734
-00664,Belmont,Montgomery County,37.163,-80.447
-00664,Belmont,Spotsylvania County,38.154,-77.866
-00669,Belvoir,Fauquier County,38.657,-77.717
-00672,Ben Hur,Lee County,36.733,-83.082
-00674,Bena,Gloucester County,37.271,-76.456
-00689,Bent Creek,Appomattox County,37.535,-78.827
-00694,Bentonville,Warren County,38.832,-78.316
-00698,Berea,Stafford County,38.362,-77.520
-00700,Berkeley,Albemarle County,38.079,-78.486
-00717,Berrytown,Rockingham County,38.368,-78.657
-00720,Bertha,Wythe County,36.902,-80.828
-00722,Bertrand,Lancaster County,37.669,-76.517
-00726,Bessemer,Botetourt County,37.647,-79.811
-00727,Bethel,Clarke County,39.031,-78.043
-00727,Bethel,Highland County,38.248,-79.650
-00727,Bethel,Prince William County,38.655,-77.307
-00727,Bethel,Washington County,36.675,-81.878
-00734,Beulah,Gloucester County,37.384,-76.442
-00735,Beulahville,King William County,37.855,-77.179
-00737,Beverly,King and Queen County,37.952,-77.179
-00737,Beverly,Northampton County,37.303,-75.933
-00759,Big Spring,Page County,38.725,-78.423
-00790,Biscoe,King and Queen County,37.818,-77.058
-00791,Bishop,Tazewell County,37.208,-81.560
-00813,Blackberry,Northumberland County,37.859,-76.282
-00819,Blacklick,Wythe County,36.943,-81.257
-00826,Blackwater,Lee County,36.627,-83.051
-00826,Blackwater,Mathews County,37.427,-76.400
-00827,Blackwell,Washington County,36.829,-81.856
-00828,Blackwood,Wise County,36.925,-82.693
-00835,Blakes,Mathews County,37.499,-76.368
-00848,Blenheim,Albemarle County,37.904,-78.488
-00849,Blessing,Wythe County,36.936,-81.205
-00862,Bloomfield,Loudoun County,39.053,-77.821
-00873,Blowing Rock,Dickenson County,37.226,-82.431
-00882,Blue Grass,Highland County,38.500,-79.550
-00908,Boer,Lancaster County,37.770,-76.582
-00920,Bolar,Bath County,38.217,-79.676
-00920,Bowler,Appomattox County,37.277,-78.705
-00952,Boston,Culpeper County,38.541,-78.132
-00995,Bradshaw,Montgomery County,37.300,-80.224
-01009,Brandywine,Caroline County,37.489,-79.153
-01059,Bridgeport,Buckingham County,37.710,-78.334
-01062,Bridgetown,Northampton County,37.446,-75.926
-01066,Briggs,Clarke County,39.108,-78.014
-01074,Brink,Greensville County,36.618,-77.634
-01080,Britain,Loudoun County,39.253,-77.697
-01083,Broad Run,Fauquier County,38.830,-77.721
-01084,Broaddus,Caroline County,38.067,-77.295
-01085,Broadford,Smyth County,36.927,-81.672
-01089,Broadwater,Northampton County,37.393,-75.709
-01100,Brooke,Stafford County,38.388,-77.380
-01103,Brookfield,Stafford County,38.311,-77.433
-01109,Brooklyn,Pulaski County,37.151,-80.560
-01113,Brookside,Page County,38.671,-78.436
-01129,Browns Mill,Fairfax County,38.951,-77.284
-01132,Brownsburg,Rockbridge County,37.928,-79.319
-01135,Brownsville,Albemarle County,38.052,-78.699
-01137,Browntown,Albemarle County,37.836,-78.565
-01143,Bruceville,Prince Edward County,37.092,-78.379
-01149,Brunswick,Brunswick County,36.648,-77.871
-01156,Brutus,Pittsylvania County,37.011,-79.269
-01157,Bryant,Nelson County,37.801,-78.956
-01169,Buckland,Prince William County,38.780,-77.674
-01191,Buffalo Gap,Augusta County,38.187,-79.239
-01193,Buffalo Springs,Mecklenburg County,36.646,-78.662
-01193,Buffalo Springs,Nelson County,37.610,-78.862
-01195,Buford,Pittsylvania County,36.567,-79.546
-01216,Burgess,Northumberland County,37.882,-76.345
-01232,Burnsville,Bath County,38.178,-79.647
-01233,Burnt Factory,Frederick County,39.194,-78.076
-01241,Burtonville,Greene County,38.273,-78.349
-01257,Butterworth,Dinwiddie County,37.051,-77.627
-01261,Bybee,Fluvanna County,37.926,-78.206
-01289,Colley,Dickenson County,37.154,-82.246
-01296,Callao,Northumberland County,37.969,-76.560
-01297,Callaway,Franklin County,37.011,-80.049
-01301,Calvary,Shenandoah County,38.873,-78.552
-01304,Calvin,Lee County,36.852,-82.942
-01307,Cambria,Montgomery County,37.143,-80.396
-01317,Campbell,Albemarle County,38.032,-78.302
-01351,Canova,Prince William County,38.677,-77.442
-01376,Carrie,Dickenson County,37.032,-82.206
-01385,Carmel,Shenandoah County,38.827,-78.433
-01405,Carson,Dinwiddie County,37.035,-77.396
-01407,Carsonville,Grayson County,36.677,-81.070
-01411,Cartersville,Cumberland County,37.667,-78.088
-01411,Cartersville,Pittsylvania County,36.727,-79.384
-01413,Carthage,Floyd County,36.968,-80.496
-01420,Casanova,Fauquier County,38.657,-77.717
-01422,Cascade,Pittsylvania County,36.564,-79.670
-01429,Cashville,Accomack County,37.702,-75.808
-01444,Castleton,Rappahannock County,38.606,-78.107
-01451,Catawba,Roanoke County,37.383,-80.109
-01465,Cavetown,Page County,38.615,-78.449
-01467,Caylor,Lee County,36.631,-83.494
-01482,Cedar Grove,Brunswick County,36.604,-78.011
-01482,Cedar Grove,Frederick County,39.268,-78.189
-01482,Cedar Grove,Northampton County,37.173,-75.965
-01484,Cedar Hill,Frederick County,39.276,-78.114
-01484,Cedar Hill,Pittsylvania County,36.850,-79.313
-01489,Cedar Point,Goochland County,37.692,-77.909
-01504,Centenary,Buckingham County,37.709,-78.512
-01519,Centerville,Accomack County,37.757,-75.621
-01519,Centerville,Augusta County,38.338,-79.006
-01519,Centerville,Montgomery County,37.170,-80.538
-01523,Central Point,Caroline County,37.989,-77.132
-01524,Centralia,Chesterfield County,37.381,-77.460
-01528,Ceres,Bland County,37.018,-81.343
-01538,Chalk Level,Pittsylvania County,36.919,-79.278
-01550,Champlain,Essex County,38.013,-76.993
-01551,Chance,Essex County,38.057,-77.008
-01552,Chancellor,Spotsylvania County,38.284,-77.601
-01583,Cheapside,Northampton County,37.201,-75.984
-01605,Chesapeake,Northampton County,37.308,-75.952
-01606,Chesapeake Beach,Northumberland County,37.841,-76.250
-01610,Chesterfield,Chesterfield County,37.376,-77.504
-01614,Chestnut Grove,Albemarle County,38.181,-78.484
-01614,Chestnut Grove,Buckingham County,37.420,-78.606
-01614,Chestnut Grove,Lancaster County,37.822,-76.439
-01615,Chestnut Hill,King George County,38.299,-77.111
-01615,Chestnut Hill,Richmond County,37.563,-77.422
-01627,Childress,Goochland County,37.821,-77.984
-01627,Childress,Montgomery County,37.056,-80.504
-01648,Christchurch,Middlesex County,37.605,-76.534
-01658,Chula,Amelia County,37.389,-77.903
-01673,Claiborne,Caroline County,38.160,-77.456
-01675,Clancie,King and Queen County,37.581,-76.693
-01677,Claraville,Northumberland County,37.917,-76.446
-01710,Claytonville,Clarke County,39.091,-78.022
-01711,Clayville,Powhatan County,37.460,-77.817
-01712,Clear Creek,Wise County,36.939,-82.598
-01713,Clear Fork,Bland County,37.212,-81.187
-01720,Clearview,Northampton County,37.548,-75.904
-01733,Clifdale,Alleghany County,37.681,-80.015
-01735,Clifford,Amherst County,37.644,-79.022
-01740,Climax,Pittsylvania County,36.887,-79.489
-01741,Clinton,Cumberland County,37.543,-78.126
-01747,Clopton,Gloucester County,37.346,-76.540
-01747,Clopton,Richmond County,37.475,-77.446
-01751,Clover Creek,Highland County,38.270,-79.549
-01752,Clover Hill,Albemarle County,38.117,-78.483
-01752,Clover Hill,Rockingham County,38.452,-79.030
-01753,Cloverdale,Fluvanna County,37.751,-78.236
-01777,Coan,Northumberland County,37.958,-76.480
-01783,Cobham,Albemarle County,38.063,-78.268
-01788,Cochran,Brunswick County,36.843,-77.905
-01796,Cohasset,Fluvanna County,37.770,-78.303
-01804,Colchester,Fairfax County,38.669,-77.234
-01810,Coldwater,King and Queen County,37.654,-76.734
-01833,Cologne,King and Queen County,37.531,-76.691
-01855,Comertown,Page County,38.498,-78.588
-01859,Commonwealth,Albemarle County,38.075,-78.487
-01861,Compton,Page County,38.782,-78.369
-01865,Conaway,Buchanan County,37.352,-82.212
-01869,Concord,Brunswick County,36.957,-77.799
-01869,Concord,Gloucester County,37.364,-76.619
-01887,Conklin,Loudoun County,38.896,-77.517
-01906,Cookstown,Spotsylvania County,38.295,-77.702
-01908,Cooktown,Fairfax County,38.987,-77.383
-01911,Cool Spring,Brunswick County,36.834,-77.826
-01924,Copeland,Bath County,37.888,-79.699
-01933,Corbin,Caroline County,38.199,-77.389
-01942,Corinth,Carroll County,36.789,-80.879
-01942,Corinth,Southampton County,36.831,-76.946
-01980,Cotton Town,Cumberland County,37.397,-78.302
-01989,Council,Buchanan County,37.080,-82.068
-01999,Cove Creek,Tazewell County,37.178,-81.293
-02005,Cowan,Pulaski County,37.185,-80.577
-02006,Cowart,Northumberland County,37.995,-76.472
-02014,Crab,Gloucester County,37.265,-76.491
-02018,Crafton,Fluvanna County,37.920,-78.295
-02022,Crane,Bath County,37.910,-79.676
-02061,Cripple Creek,Wythe County,36.821,-81.098
-02065,Crockett,Wythe County,36.886,-81.192
-02081,Cross Keys,Rockingham County,38.358,-78.846
-02088,Crouch,King and Queen County,37.763,-76.897
-02099,Crows,Alleghany County,37.719,-80.203
-02102,Crozier,Goochland County,37.637,-77.797
-02113,Crystal Hill,Halifax County,36.856,-78.909
-02120,Cullen,Charlotte County,37.118,-78.649
-02125,Cumberland,New Kent County,37.329,-76.742
-02131,Cunningham,Fluvanna County,37.874,-78.320
-02133,Curdsville,Buckingham County,37.416,-78.456
-02166,Daisy,King and Queen County,37.761,-76.922
-02179,Damon,Albemarle County,37.823,-78.659
-02199,Darbyville,Lee County,36.830,-83.052
-02201,Dare,York County,37.169,-76.438
-02207,Darwin,Dickenson County,37.100,-82.491
-02209,Daugherty,Accomack County,37.689,-75.666
-02211,Davenport,Buchanan County,37.101,-82.137
-02220,Dawn,Caroline County,37.835,-77.363
-02222,Dawsonville,Greene County,38.265,-78.315
-02234,Deel,Buchanan County,37.236,-82.088
-02245,Deep Creek,Accomack County,37.767,-75.753
-02269,Delaplane,Fauquier County,38.915,-77.920
-02304,Derby,Wise County,36.936,-82.826
-02321,DeWitt,Dinwiddie County,37.039,-77.643
-02340,Dyke,Greene County,38.254,-78.540
-02361,Dixie,Fluvanna County,37.782,-78.236
-02361,Dixie,Mathews County,37.501,-76.414
-02384,Dolphin,Brunswick County,36.829,-77.787
-02397,Dooley,Wise County,36.931,-82.654
-02402,Dorchester,Richmond County,37.468,-77.475
-02402,Dorchester,Wise County,36.942,-82.644
-02406,Dorset,Powhatan County,37.468,-77.805
-02419,Dover,Loudoun County,38.976,-77.674
-02450,Dry Branch,Pulaski County,37.234,-80.618
-02452,Dry Fork,Bland County,37.273,-81.063
-02452,Dry Fork,Pittsylvania County,36.754,-79.400
-02459,Duane,King William County,37.867,-77.247
-02478,Dunavant,Spotsylvania County,38.362,-77.665
-02481,Duncan,Floyd County,36.912,-80.490
-02483,Dundas,Lunenburg County,36.915,-78.022
-02484,Dundee,Pittsylvania County,36.592,-79.376
-02499,Durand,Greensville County,36.720,-77.588
-02509,Dutton,Gloucester County,37.498,-76.457
-02534,Earls,Amelia County,37.229,-77.892
-02548,East End,Westmoreland County,38.094,-76.801
-02563,East Point,Accomack County,37.720,-75.815
-02578,Eastham,Albemarle County,38.072,-78.412
-02595,Ebenezer,Pittsylvania County,36.817,-79.191
-02607,Edgar,Caroline County,37.853,-77.297
-02610,Edgehill,Gloucester County,37.413,-76.519
-02610,Edgehill,King George County,38.265,-77.144
-02613,Edgerton,Brunswick County,36.779,-77.778
-02630,Edom,Rockingham County,38.526,-78.861
-02633,Edwardsville,Northumberland County,37.907,-76.365
-02655,Elberon,Surry County,37.074,-76.884
-02672,Ely,Lee County,36.769,-82.990
-02682,Elk Creek,Grayson County,36.721,-81.177
-02716,Elma,Nelson County,37.754,-78.795
-02722,Elmont,Hanover County,37.711,-77.493
-02726,Elon,Amherst County,37.518,-79.195
-02760,Endicott,Franklin County,36.888,-80.150
-02762,Enfield,King William County,37.746,-77.219
-02785,Epworth,King William County,37.791,-77.212
-02810,Estes,Rappahannock County,38.619,-78.061
-02815,Ethel,Richmond County,37.996,-76.781
-02819,Etta,Caroline County,38.143,-77.173
-02821,Eubanks,Loudoun County,39.158,-77.770
-02841,Evergreen,Appomattox County,37.319,-78.766
-02845,Ewell,James City County,37.329,-76.742
-02852,Exeter,Wise County,36.876,-82.854
-02860,Fair Oaks,Henrico County,37.531,-77.316
-02879,Fairplay,Richmond County,37.837,-76.619
-02881,Fairport,Northumberland County,37.833,-76.290
-02882,Fairview,Northampton County,37.266,-75.969
-02882,Fairview,Page County,38.654,-78.429
-02884,Fairview Heights,Alleghany County,37.817,-79.813
-02896,Falling Spring,Alleghany County,37.886,-79.979
-02921,Farmington,Albemarle County,38.051,-78.544
-02923,Farnham,Richmond County,37.885,-76.625
-02940,Featherstone,Prince William County,38.635,-77.264
-02968,Fife,Goochland County,37.749,-78.062
-02996,Fitzhugh,Brunswick County,36.666,-77.764
-02999,Five Forks,Fairfax County,38.777,-77.276
-02999,Five Forks,Madison County,38.299,-78.135
-02999,Five Forks,Nelson County,37.579,-78.859
-02999,Five Forks,Patrick County,36.584,-80.278
-02999,Five Forks,Prince Edward County,37.238,-78.577
-02999,Five Forks,Rappahannock County,38.650,-78.168
-03008,Flat Iron,Westmoreland County,38.148,-76.921
-03009,Flat Rock,Powhatan County,37.523,-77.823
-03010,Flat Top,Dickenson County,37.029,-82.397
-03013,Flatwoods,Botetourt County,37.545,-79.879
-03017,Fletcher,Madison County,38.393,-78.433
-03020,Flint Hill,Pittsylvania County,36.795,-79.494
-03049,Ford,Dinwiddie County,37.149,-77.736
-03052,Fordsville,Madison County,38.401,-78.116
-03062,Forest Hills,Page County,38.657,-78.472
-03072,Forkland,Nottoway County,37.010,-77.956
-03086,Fort Mitchell,Lunenburg County,36.918,-78.486
-03098,Foster,Mathews County,37.453,-76.385
-03113,Four Forks,Nelson County,37.582,-78.844
-03116,Fourway,Rappahannock County,38.750,-78.268
-03116,Fourway,Tazewell County,37.133,-81.493
-03120,Fox,Grayson County,36.609,-81.293
-03133,Franklin,Albemarle County,38.043,-78.442
-03154,Freeman,Brunswick County,36.755,-77.693
-03156,Freeport,Gloucester County,37.539,-76.507
-03158,Freetown,Albemarle County,38.048,-78.712
-03159,Fremont,Dickenson County,37.126,-82.385
-03165,Freshwater,Nelson County,37.751,-78.927
-03171,Friendship,Washington County,36.730,-81.741
-03178,Frog Level,Caroline County,37.853,-77.324
-03178,Frog Level,Tazewell County,37.100,-81.563
-03180,Frogtown,Clarke County,39.066,-77.934
-03192,Fulkerson,Scott County,36.663,-82.435
-03199,Furnace,Page County,38.447,-78.558
-03205,Gainesboro,Frederick County,39.278,-78.259
-03210,Gayles,King George County,38.297,-77.315
-03220,Galveston,Pittsylvania County,36.920,-79.383
-03266,Gaylord,Clarke County,39.188,-77.931
-03279,Georgetown,Northumberland County,37.832,-76.446
-03282,Gera,King George County,38.234,-77.180
-03288,Germantown,Fauquier County,38.614,-77.742
-03307,Gilbert,Albemarle County,38.146,-78.374
-03313,Guilford,Accomack County,37.825,-75.652
-03317,Gilley,Wise County,37.099,-82.675
-03332,Gladstone,Nelson County,37.547,-78.849
-03362,Glenmore,Albemarle County,37.672,-78.590
-03362,Glenmore,Buckingham County,37.672,-78.590
-03367,Glenwood,Pittsylvania County,36.589,-79.366
-03370,Globe,King William County,37.813,-77.200
-03382,Gold Hill,Buckingham County,37.624,-78.370
-03394,Goode,Bedford County,37.359,-79.392
-03401,Goodloe,Lee County,36.861,-82.860
-03406,Goodview,Bedford County,37.214,-79.725
-03434,Grady,Pittsylvania County,36.787,-79.637
-03437,Grafton,York County,37.165,-76.469
-03465,Grandy,Brunswick County,36.801,-77.955
-03473,Granite Springs,Spotsylvania County,38.188,-77.854
-03481,Granville,Charles City County,37.382,-77.241
-03494,Gravel Hill,Buckingham County,37.584,-78.375
-03500,Graysville,Accomack County,37.713,-75.679
-03507,Green Acres,Pittsylvania County,36.579,-79.350
-03509,Green Bay,Hanover County,37.965,-77.695
-03509,Green Bay,Prince Edward County,37.134,-78.315
-03522,Green Pond,Pittsylvania County,36.881,-79.509
-03525,Green Spring,Frederick County,39.304,-78.169
-03526,Green Valley,Bath County,38.080,-79.599
-03535,Greenfield,Nelson County,37.928,-78.838
-03535,Greenfield,Pittsylvania County,36.938,-79.282
-03544,Greentown,Brunswick County,36.688,-77.779
-03550,Greenway,Charles City County,37.341,-77.082
-03550,Greenway,Nelson County,37.584,-78.834
-03551,Greenwich,Prince William County,38.749,-77.648
-03552,Greenwood,Albemarle County,38.056,-78.771
-03552,Greenwood,Bath County,37.954,-79.966
-03565,Griffith,Alleghany County,37.866,-79.727
-03567,Grimes,Frederick County,39.278,-78.126
-03571,Grit,Pittsylvania County,37.076,-79.248
-03574,Groseclose,Smyth County,36.889,-81.347
-03574,Groseclose,Wythe County,36.908,-81.209
-03579,Grove,James City County,37.230,-76.630
-03581,Grove Hill,Page County,38.529,-78.612
-03584,Groveton,Prince William County,38.813,-77.548
-03593,Guinea,Caroline County,38.144,-77.438
-03598,Gum Spring,Louisa County,37.776,-77.897
-03599,Gum Springs,Fairfax County,38.740,-77.082
-03622,Haden,Botetourt County,37.716,-79.834
-03626,Hagan,Lee County,36.704,-83.287
-03630,Hague,Westmoreland County,38.072,-76.651
-03635,Haynesville,Richmond County,37.950,-76.662
-03639,Halfway,Fauquier County,38.657,-77.717
-03655,Hamburg,Page County,38.658,-78.514
-03655,Hamburg,Shenandoah County,38.805,-78.638
-03659,Hamilton,Cumberland County,37.659,-78.125
-03668,Hampstead,King George County,38.333,-77.142
-03668,Hampstead,New Kent County,37.606,-77.130
-03675,Hanging Rock,Roanoke County,37.328,-80.040
-03682,Hansonville,Russell County,36.824,-82.146
-03694,Hardscrabble,Highland County,38.561,-79.573
-03696,Hardy,Bedford County,37.232,-79.811
-03697,Hardyville,Middlesex County,37.557,-76.372
-03706,Harman,Buchanan County,37.293,-82.202
-03720,Harrington,Alleghany County,37.844,-79.975
-03723,Harrisburg,Charlotte County,37.027,-78.748
-03749,Hartwood,Stafford County,38.402,-77.565
-03752,Harvey,Botetourt County,37.598,-79.624
-03760,Hatcher,Cumberland County,37.562,-78.299
-03764,Hatton,Albemarle County,37.759,-78.513
-03769,Havelock,Richmond County,38.021,-76.839
-03783,Haycock,Floyd County,36.873,-80.270
-03785,Hayes,Gloucester County,37.278,-76.504
-03787,Hayfield,Frederick County,39.234,-78.290
-03793,Haywood,Madison County,38.453,-78.252
-03817,Heflin,Stafford County,38.488,-77.578
-03828,Hematite,Alleghany County,37.740,-80.176
-03830,Hemlock,Floyd County,37.069,-80.216
-03835,Hendersonville,Nottoway County,37.146,-78.088
-03842,Henry,Franklin County,36.829,-79.992
-03842,Henry,Sussex County,36.797,-77.393
-03854,Hermitage,Gloucester County,37.341,-76.596
-03855,Hermosa,Pittsylvania County,36.940,-79.121
-03882,Hickory Ridge,Prince William County,38.579,-77.364
-03885,Hicksville,Bland County,37.193,-81.135
-03889,Hideaway Lake,Powhatan County,37.509,-78.045
-03899,Highland,Pulaski County,37.165,-80.679
-03902,Highland Heights,Northampton County,37.549,-75.834
-03904,Highland Park,Pulaski County,37.123,-80.998
-03921,Hill Grove,Pittsylvania County,37.058,-79.256
-03923,Hillcrest,Cumberland County,37.483,-78.274
-03925,Hilldale,Page County,38.667,-78.434
-03931,Hillsboro,King and Queen County,37.710,-76.983
-03940,Hilton Village,Pulaski County,37.085,-80.786
-03946,Hinesville,Pittsylvania County,36.702,-79.573
-03952,Hinton,Rockingham County,38.466,-78.972
-03963,Hockley,Gloucester County,37.396,-76.461
-03963,Hockley,King and Queen County,37.509,-76.731
-03984,Holly Hills,Powhatan County,37.506,-77.756
-03987,Hollywood,Appomattox County,37.390,-78.716
-03987,Hollywood,Pittsylvania County,36.834,-79.496
-04004,Homeville,Sussex County,36.949,-77.171
-04011,Honeyville,Page County,38.579,-78.562
-04013,Hood,Madison County,38.355,-78.383
-04022,Hopeton,Accomack County,37.807,-75.638
-04024,Hopewell,Fauquier County,38.873,-77.719
-04024,Hopewell,Pittsylvania County,36.747,-79.464
-04025,Hopkins,Accomack County,37.791,-75.704
-04037,Horsepen,Tazewell County,37.228,-81.520
-04038,Horseshoe,King William County,37.664,-77.149
-04045,Hotchkiss,Bath County,38.001,-79.581
-04056,Howardsville,Albemarle County,37.735,-78.647
-04056,Howardsville,Loudoun County,39.038,-77.839
-04061,Howland,Northumberland County,37.871,-76.455
-04073,Huddleston,Bedford County,37.157,-79.474
-04076,Huffman,Craig County,37.348,-80.402
-04085,Hume,Fauquier County,38.832,-77.999
-04092,Hunters,Fluvanna County,37.941,-78.246
-04097,Huntly,Rappahannock County,38.826,-78.112
-04099,Hurley,Buchanan County,37.419,-82.022
-04114,Ida,Page County,38.589,-78.424
-04125,Imboden,Wise County,36.887,-82.805
-04128,Imperial,Lee County,36.842,-83.021
-04131,Index,King George County,38.194,-77.080
-04136,Indian Field,Richmond County,37.948,-76.717
-04147,Indian Valley,Floyd County,36.909,-80.552
-04161,Ingham,Page County,38.529,-78.578
-04165,Inglewood,Mecklenburg County,36.642,-78.384
-04165,Inglewood,Rockingham County,38.390,-78.665
-04168,Ingram,Halifax County,36.744,-79.158
-04173,Inman,Wise County,36.910,-82.803
-04175,Ino,King and Queen County,37.763,-76.798
-04181,Intervale,Alleghany County,37.298,-79.978
-04192,Irby,Nottoway County,37.032,-78.043
-04217,Isom,Dickenson County,37.187,-82.462
-04241,Jamaica,Middlesex County,37.715,-76.694
-04247,Jamestown,James City County,37.212,-76.775
-04248,Jamesville,Northampton County,37.515,-75.931
-04251,Janey,Buchanan County,37.222,-82.030
-04256,Jasper,Lee County,36.768,-82.823
-04257,Java,Pittsylvania County,36.836,-79.228
-04263,Jefferson,Powhatan County,37.614,-77.905
-04278,Jersey,King George County,38.211,-77.139
-04300,Johnsontown,Northampton County,37.425,-75.914
-04314,Jonesboro,Nelson County,37.784,-78.978
-04320,Jordan,Accomack County,37.676,-75.693
-04370,Keene,Albemarle County,37.865,-78.555
-04372,Keith,King William County,37.841,-77.256
-04376,Kelly,Campbell County,37.387,-79.060
-04395,Kennon,Charles City County,37.311,-76.994
-04396,Kennard,Richmond County,37.916,-76.748
-04410,Kentuck,Pittsylvania County,36.660,-79.298
-04434,Key West,Albemarle County,38.057,-78.441
-04439,Keysville,Rappahannock County,38.757,-78.035
-04444,Kidds Store,Fluvanna County,37.804,-78.362
-04452,Kimball,Page County,38.687,-78.403
-04453,Kimballton,Giles County,37.366,-80.677
-04457,Kincaid,Alleghany County,37.951,-79.939
-04460,Kinderhook,Greene County,38.370,-78.428
-04476,Kingsville,Prince Edward County,37.246,-78.444
-04477,Kingswood,Nelson County,37.687,-78.946
-04532,Korea,Culpeper County,38.631,-78.013
-04538,Kremlin,Westmoreland County,38.029,-76.691
-04539,Kress,Brunswick County,36.931,-77.810
-04580,Ladd,Augusta County,38.056,-78.953
-04583,Ladysmith,Caroline County,38.017,-77.515
-04587,Lagrange,Culpeper County,38.441,-77.853
-04594,Lake,Northumberland County,37.974,-76.470
-04638,Lakeside Village,Cumberland County,37.664,-78.178
-04642,Lakeview Heights,Nelson County,37.743,-78.869
-04644,Lakewood,Pittsylvania County,36.581,-79.305
-04660,Lancaster,Lancaster County,37.770,-76.466
-04670,Lanesville,King William County,37.615,-76.979
-04675,Langley,Fairfax County,38.946,-77.159
-04715,Laurel Branch,Floyd County,36.914,-80.393
-04716,Laurel Fork,Carroll County,36.718,-80.519
-04717,Laurel Grove,Pittsylvania County,36.679,-79.213
-04717,Laurel Grove,Westmoreland County,38.199,-76.963
-04727,Lawford,Buckingham County,37.617,-78.277
-04772,Leesville,Campbell County,37.119,-79.385
-04774,Leetown,Frederick County,39.227,-78.078
-04791,Lent,Caroline County,38.151,-77.243
-04795,Leon,Madison County,38.438,-78.138
-04823,Lewiston,Spotsylvania County,38.069,-77.742
-04825,Lewisville,Clarke County,39.198,-77.950
-04826,Lexington,Albemarle County,38.197,-78.482
-04831,Liberty,Caroline County,38.143,-77.353
-04831,Liberty,Fauquier County,38.600,-77.772
-04831,Liberty,Halifax County,36.884,-78.975
-04831,Liberty,Highland County,38.289,-79.459
-04831,Liberty,Tazewell County,37.057,-81.654
-04837,Lick Skillet,Smyth County,36.894,-81.791
-04845,Lilburn,Powhatan County,37.522,-77.839
-04847,Lilian,Northumberland County,37.862,-76.300
-04848,Lilly,Rockingham County,38.467,-79.014
-04861,Lincoln,Loudoun County,39.115,-77.695
-04871,Lindell,Washington County,36.804,-81.901
-04872,Linden,Fauquier County,38.908,-78.075
-04872,Linden,Wise County,36.915,-82.821
-04876,Lindsay,Albemarle County,38.088,-78.246
-04893,Lithia,Botetourt County,37.478,-79.751
-04900,Little Falls,Stafford County,38.273,-77.421
-04901,Little Hell,Accomack County,37.666,-75.777
-04908,Little Texas,Southampton County,36.602,-77.339
-04913,Littleton,Sussex County,36.903,-77.149
-04917,Lively,Lancaster County,37.778,-76.514
-04924,Lloyds,Essex County,38.001,-77.015
-04941,Locust Hill,Middlesex County,37.599,-76.511
-04941,Locust Hill,Prince William County,38.654,-77.491
-04941,Locust Hill,Wythe County,36.958,-80.915
-04944,Lodge,Northumberland County,37.992,-76.543
-04946,Lodi,Washington County,36.715,-81.777
-04968,Lone Star,Botetourt County,37.462,-79.993
-04972,Long Branch,Caroline County,38.188,-77.393
-04976,Long Island,Campbell County,37.079,-79.094
-04981,Longdale,Alleghany County,37.833,-79.776
-05005,Loretto,Essex County,38.076,-77.051
-05007,Lorne,Caroline County,37.862,-77.354
-05031,Love,Augusta County,37.885,-79.010
-05045,Lowesville,Nelson County,37.719,-79.065
-05047,Lowry,Bedford County,37.351,-79.431
-05062,Lucks,Pittsylvania County,36.813,-79.219
-05090,Lydia,Greene County,38.330,-78.491
-05112,Macedonia,Accomack County,37.826,-75.605
-05125,Macon,Powhatan County,37.522,-77.962
-05135,Madison Mills,Madison County,38.281,-78.141
-05141,Maggie,Craig County,37.423,-80.382
-05199,Manteo,Buckingham County,37.677,-78.663
-05210,Maple Grove,Westmoreland County,38.252,-77.031
-05222,Maplewood,Amelia County,37.316,-78.049
-05237,Markham,Fauquier County,38.904,-78.002
-05237,Markham,Pittsylvania County,36.879,-79.242
-05252,Marionville,Northampton County,37.453,-75.855
-05256,Marksville,Page County,38.575,-78.479
-05258,Marlboro,Frederick County,39.081,-78.322
-05295,Mascot,King and Queen County,37.627,-76.707
-05318,Mauck,Page County,38.560,-78.446
-05324,Mauzy,Rockingham County,38.569,-78.752
-05326,Maxie,Buchanan County,37.301,-82.174
-05335,Mayflower,Lee County,36.830,-83.081
-05337,Mayland,Rockingham County,38.589,-78.771
-05358,McClure,Dickenson County,37.102,-82.376
-05366,McCoy,Montgomery County,37.217,-80.598
-05368,McRae,Cumberland County,37.461,-78.282
-05369,McCullough,Albemarle County,37.757,-78.615
-05376,McDowell,Highland County,38.336,-79.491
-05381,McHenry,Spotsylvania County,38.172,-77.706
-05394,McMullen,Greene County,38.348,-78.458
-05414,Meadowdale,Highland County,38.376,-79.665
-05422,Mechanicsville,Loudoun County,39.220,-77.744
-05422,Mechanicsville,Rockbridge County,37.713,-79.406
-05422,Mechanicsville,Rockingham County,38.668,-78.788
-05497,Mica,Caroline County,38.141,-77.356
-05517,Middlesex,Accomack County,37.584,-75.810
-05519,Middletown,Northampton County,37.484,-75.868
-05528,Midway,Albemarle County,38.028,-78.706
-05528,Midway,Giles County,37.391,-80.808
-05528,Midway,Greene County,38.237,-78.386
-05528,Midway,Halifax County,36.798,-78.778
-05528,Midway,King William County,37.756,-77.126
-05528,Midway,Mecklenburg County,36.672,-78.258
-05528,Midway,Washington County,36.786,-81.876
-05531,Mila,Northumberland County,37.842,-76.328
-05534,Milbank,King George County,38.190,-77.199
-05537,Miles,Mathews County,37.409,-76.363
-05540,Milford,Caroline County,38.023,-77.373
-05543,Mill Creek,Gloucester County,37.267,-76.412
-05548,Millard,Dickenson County,37.133,-82.386
-05549,Millboro,Bath County,37.975,-79.603
-05570,Millington,Albemarle County,38.123,-78.612
-05575,Milltown,Loudoun County,39.235,-77.626
-05577,Millwood,Clarke County,39.069,-78.038
-05577,Millwood,Gloucester County,37.365,-76.550
-05583,Milton,Albemarle County,38.005,-78.403
-05583,Milton,Charles City County,37.307,-77.024
-05589,Minor,King and Queen County,37.839,-76.983
-05636,Mohawk,Lee County,36.849,-82.889
-05644,Monarch,Lee County,36.835,-83.031
-05651,Money,Gloucester County,37.401,-76.521
-05658,Monroe,Amherst County,37.502,-79.128
-05672,Montebello,Nelson County,37.864,-79.138
-05678,Montezuma,Rockingham County,38.409,-78.988
-05686,Montpelier,Charles City County,37.377,-77.159
-05692,Montvue,Albemarle County,38.071,-78.513
-05695,Moon,Mathews County,37.443,-76.293
-05697,Moonlight,Greensville County,36.730,-77.509
-05707,Mooretown,Bath County,38.104,-79.901
-05717,Moran,Prince Edward County,37.229,-78.259
-05736,Morning Star,Page County,38.646,-78.366
-05745,Morrisonville,Loudoun County,39.223,-77.668
-05747,Morrisville,Fauquier County,38.502,-77.700
-05751,Morven,Amelia County,37.418,-78.076
-05753,Moscow,Augusta County,38.317,-79.089
-05761,Moss Neck,Caroline County,38.221,-77.299
-05762,Moss Run,Alleghany County,37.788,-80.102
-05764,Mossy Creek,Augusta County,38.357,-79.029
-05774,Mount Airy,Charles City County,37.351,-76.918
-05774,Mount Airy,Pittsylvania County,36.943,-79.192
-05783,Mount Gilead,Loudoun County,39.059,-77.664
-05787,Mount Holly,Westmoreland County,38.092,-76.718
-05794,Mount Meridian,Augusta County,38.261,-78.860
-05799,Mount Olivet,Pulaski County,37.044,-80.810
-05801,Mount Pleasant,Frederick County,39.172,-78.295
-05808,Mount Union,Botetourt County,37.452,-79.970
-05817,Mountain Grove,Bath County,38.099,-79.887
-05818,Mountain Hill,Pittsylvania County,36.557,-79.319
-05825,Mountain View,Pulaski County,37.088,-80.620
-05829,Mountville,Loudoun County,39.025,-77.712
-05848,Munford,Botetourt County,37.510,-79.613
-05855,Murphy,Buchanan County,37.127,-82.174
-05863,Museville,Pittsylvania County,36.913,-79.591
-05868,Mustoe,Highland County,38.324,-79.640
-05868,Mustoe,King George County,38.309,-77.280
-05883,Nance,Charles City County,37.461,-77.127
-05884,Nancy,Dickenson County,37.130,-82.278
-05896,Naruna,Campbell County,37.106,-79.002
-05897,Nash,Nelson County,37.858,-79.046
-05901,Natal,Pittsylvania County,36.987,-79.267
-05907,Natural Bridge,Rockbridge County,37.630,-79.543
-05917,Nebo,Smyth County,36.942,-81.442
-05921,Needmore,Wise County,36.958,-82.633
-05923,Neenah,Westmoreland County,38.048,-76.721
-05928,Nelson,Mecklenburg County,36.563,-78.705
-05948,New Alexandria,Fairfax County,38.776,-77.057
-05965,New Canton,Buckingham County,37.705,-78.299
-05998,New Hope,Charles City County,37.341,-77.061
-06007,New London,Campbell County,37.302,-79.280
-06007,New London,Caroline County,38.139,-77.318
-06020,New Point,Mathews County,37.346,-76.278
-06049,Newbern,Pulaski County,37.073,-80.691
-06060,Newland,Richmond County,38.050,-76.872
-06065,Newport,Augusta County,38.001,-79.301
-06065,Newport,Giles County,37.294,-80.495
-06065,Newport,Page County,38.579,-78.596
-06071,Newtown,Albemarle County,38.046,-78.787
-06071,Newtown,Greene County,38.237,-78.337
-06071,Newtown,King and Queen County,37.913,-77.129
-06071,Newtown,Lancaster County,37.789,-76.484
-06072,Newville,Prince George County,37.185,-77.147
-06089,Ninde,King George County,38.271,-77.055
-06091,Nineveh,Warren County,39.016,-78.165
-06101,Nokomis,Northumberland County,37.944,-76.480
-06108,Nora,Dickenson County,37.071,-82.347
-06115,Norge,James City County,37.368,-76.771
-06126,North,Mathews County,37.444,-76.406
-06128,North Arlington,Arlington County,38.871,-77.098
-06189,Norwood,Albemarle County,38.145,-78.471
-06189,Norwood,Nelson County,37.643,-78.809
-06191,Nottingham,Northampton County,37.345,-75.949
-06194,Nuckols,Buckingham County,37.594,-78.321
-06207,O'Neal,Madison County,38.346,-78.267
-06212,Oak Forest,Cumberland County,37.537,-78.194
-06214,Oak Grove,Northumberland County,37.842,-76.424
-06214,Oak Grove,Westmoreland County,38.182,-76.997
-06218,Oak Hill,Albemarle County,38.005,-78.523
-06218,Oak Hill,Fairfax County,38.926,-77.402
-06218,Oak Hill,Page County,38.734,-78.413
-06218,Oak Hill,Pittsylvania County,36.554,-79.597
-06226,Oak Ridge,Nelson County,37.709,-78.877
-06226,Oak Ridge,Pittsylvania County,36.581,-79.546
-06236,Oakland Park,Northampton County,37.511,-75.821
-06242,Oakville,Appomattox County,37.432,-78.856
-06243,Oakwood,Buchanan County,37.213,-82.006
-06259,Octagon,Brunswick County,36.903,-77.899
-06276,Oilville,Goochland County,37.704,-77.785
-06285,Old Church,Hanover County,37.645,-77.221
-06305,Olinger,Lee County,36.817,-82.865
-06306,Olive,Spotsylvania County,38.219,-77.441
-06319,Omaha,Dickenson County,37.097,-82.435
-06348,Orchid,Louisa County,37.829,-77.895
-06349,Ordinary,Gloucester County,37.316,-76.513
-06361,Oriskany,Botetourt County,37.616,-79.984
-06420,Overall,Warren County,38.804,-78.348
-06424,Overton,Albemarle County,37.957,-78.468
-06431,Owens,King George County,38.339,-77.086
-06432,Owensville,Albemarle County,38.101,-78.575
-06433,Owenton,King and Queen County,37.884,-77.100
-06452,Page,Buchanan County,37.180,-81.995
-06452,Paige,Caroline County,38.072,-77.419
-06455,Paineville,Amelia County,37.388,-78.120
-06472,Palmer,Lancaster County,37.624,-76.351
-06477,Palo Alto,Highland County,38.423,-79.370
-06480,Pampa,Gloucester County,37.526,-76.593
-06498,Pardee,Wise County,37.007,-82.752
-06499,Paris,Fauquier County,39.004,-77.951
-06519,Parr,Botetourt County,37.660,-79.909
-06532,Patterson,Buchanan County,37.264,-81.976
-06532,Patterson,Wythe County,36.891,-80.785
-06533,Paytes,Spotsylvania County,38.227,-77.833
-06535,Patna,Highland County,38.234,-79.524
-06545,Pattonsville,Scott County,36.699,-82.851
-06554,Paxson,Loudoun County,39.096,-77.808
-06556,Payne,Fluvanna County,37.753,-78.442
-06557,Paynesville,Buchanan County,37.332,-81.891
-06566,Peachtree,Botetourt County,37.338,-79.866
-06570,Peapatch,Buchanan County,37.284,-81.789
-06571,Pirkey,Greene County,38.274,-78.554
-06576,Pearly,Buchanan County,37.274,-82.143
-06578,Peary,Mathews County,37.372,-76.279
-06594,Pemberton,Goochland County,37.675,-78.085
-06611,Pennyville,Accomack County,37.617,-75.833
-06627,Perrin,Gloucester County,37.270,-76.424
-06656,Peytonsburg,Pittsylvania County,36.824,-79.168
-06668,Philpott,Henry County,36.790,-80.006
-06677,Pickaway,Pittsylvania County,36.778,-79.185
-06679,Pickerel,Pittsylvania County,36.977,-79.411
-06684,Piedmont,Augusta County,38.214,-78.899
-06684,Piedmont,Montgomery County,37.100,-80.219
-06684,Piedmont,Nelson County,37.611,-78.922
-06698,Pilot,Montgomery County,37.052,-80.364
-06718,Pine Grove,Page County,38.536,-78.480
-06738,Pinetta,Gloucester County,37.416,-76.638
-06759,Pisgah,Tazewell County,37.121,-81.573
-06769,Pittsville,Pittsylvania County,36.982,-79.462
-06775,Plain View,King and Queen County,37.496,-76.668
-06775,Plain View,Powhatan County,37.538,-77.888
-06793,Pleasant Gap,Pittsylvania County,36.703,-79.445
-06794,Pleasant Grove,Pittsylvania County,36.545,-79.394
-06806,Pleasant Valley,Buckingham County,37.468,-78.470
-06806,Pleasant Valley,Rockingham County,38.385,-78.897
-06850,Pomona,Westmoreland County,38.226,-77.027
-06866,Poplar,Caroline County,38.014,-77.412
-06867,Poplar Grove,New Kent County,37.585,-77.038
-06888,Porters,Albemarle County,37.825,-78.599
-06897,Possum Trot,Highland County,38.470,-79.532
-06900,Post Oak,Spotsylvania County,38.166,-77.663
-06905,Potomac Mills,Westmoreland County,38.163,-76.942
-06920,Powellton,Brunswick County,36.667,-77.792
-06926,Powhatan,Powhatan County,37.542,-77.919
-06963,Prim,King George County,38.249,-77.070
-06973,Prospect,Prince Edward County,37.303,-78.559
-06991,Purdy,Greensville County,36.822,-77.588
-06997,Pyletown,Clarke County,39.106,-78.043
-07000,Quail,Louisa County,37.930,-78.033
-07012,Queenstown,Lancaster County,37.681,-76.487
-07020,Quinton,New Kent County,37.534,-77.121
-07036,Radium,Greensville County,36.732,-77.628
-07045,Rainbow,Fairfax County,38.758,-77.335
-07061,Ramsey,Nelson County,37.855,-78.962
-07066,Randolph,Charlotte County,36.894,-78.698
-07084,Rawhide,Lee County,36.856,-82.911
-07085,Rawlings,Brunswick County,36.949,-77.779
-07088,Ray,Pittsylvania County,36.936,-79.311
-07105,Reager,Rappahannock County,38.842,-78.124
-07110,Red Ash,Tazewell County,37.113,-81.871
-07111,Red Bank,Northampton County,37.445,-75.842
-07112,Red Banks,Shenandoah County,38.799,-78.596
-07119,Red House,Charlotte County,37.189,-78.812
-07124,Red Oak,Charlotte County,36.784,-78.615
-07135,Redeye,Pittsylvania County,36.905,-79.476
-07138,Redland,Albemarle County,37.954,-78.529
-07146,Redwood,Franklin County,37.020,-79.812
-07149,Reeds,Cumberland County,37.338,-78.404
-07152,Reedtown,Northampton County,37.380,-75.915
-07153,Reedville,Northumberland County,37.842,-76.276
-07160,Regina,Lancaster County,37.804,-76.418
-07183,Rescue,Isle of Wight County,36.996,-76.561
-07185,Rest,Frederick County,39.290,-78.083
-07189,Reva,Culpeper County,38.494,-78.133
-07191,Rue,Accomack County,37.787,-75.606
-07201,Rhoadesville,Orange County,38.273,-77.928
-07202,Roda,Wise County,36.968,-82.833
-07208,Riceville,Pittsylvania County,36.891,-79.169
-07216,Richardsville,Culpeper County,38.400,-77.729
-07247,Ridgeway,Pittsylvania County,36.989,-79.483
-07254,Rileyville,Page County,38.765,-78.388
-07260,Ringgold,Pittsylvania County,36.608,-79.295
-07267,Rio Vista,Richmond County,37.569,-77.523
-07268,Ryan,Loudoun County,39.015,-77.493
-07287,Riverside,Roanoke County,37.246,-80.175
-07295,Roane,King and Queen County,37.448,-76.705
-07308,Rochelle,Madison County,38.290,-78.272
-07318,Rock Mills,Rappahannock County,38.655,-78.129
-07323,Rockaway,Fluvanna County,37.852,-78.264
-07328,Rockfish,Nelson County,37.801,-78.756
-07340,Rockville,Hanover County,37.726,-77.678
-07349,Rocky Point,Botetourt County,37.579,-79.612
-07354,Rowe,Buchanan County,37.136,-82.032
-07357,Rogers,Montgomery County,37.088,-80.397
-07369,Romancoke,King William County,37.574,-76.851
-07376,Rondo,Pittsylvania County,36.829,-79.532
-07390,Rose Hill,Albemarle County,37.992,-78.419
-07390,Rose Hill,Rappahannock County,38.716,-78.125
-07396,Rosedale,Russell County,36.959,-81.931
-07398,Roseland,Nelson County,37.748,-78.976
-07406,Roseville,Stafford County,38.465,-77.504
-07420,Roth,Buchanan County,37.245,-81.973
-07425,Round Hill,Frederick County,39.194,-78.242
-07425,Round Hill,Rappahannock County,38.560,-78.158
-07440,Roxbury,Charles City County,37.465,-77.141
-07447,Ruby,Stafford County,38.504,-77.516
-07453,Ruff,Mathews County,37.410,-76.313
-07456,Rugby,Grayson County,36.611,-81.451
-07459,Rumford,King William County,37.725,-77.089
-07481,Rustic,Charles City County,37.292,-76.934
-07483,Ruth,Madison County,38.394,-78.314
-07484,Rutherford,Fairfax County,38.829,-77.263
-07486,Ruthville,Charles City County,37.367,-77.041
-07515,Saint George,Greene County,38.268,-78.552
-07523,Saint Louis,Loudoun County,39.004,-77.790
-07532,Saxe,Charlotte County,36.930,-78.663
-07536,Salem,Page County,38.644,-78.548
-07544,Salisbury,Botetourt County,37.608,-79.782
-07607,Sandy Hook,Goochland County,37.753,-77.912
-07609,Sandy Point,Northumberland County,37.820,-76.308
-07609,Sandy Point,Westmoreland County,38.068,-76.536
-07633,Sarah,Mathews County,37.389,-76.282
-07635,Saratoga,Clarke County,39.083,-78.059
-07642,Sassafras,Gloucester County,37.407,-76.607
-07668,Schley,Gloucester County,37.390,-76.455
-07698,Scrabble,Rappahannock County,38.582,-78.159
-07701,Scuffletown,Orange County,38.259,-78.298
-07705,Seaboard,Tazewell County,37.140,-81.782
-07708,Seaford,York County,37.198,-76.433
-07714,Seaview,Northampton County,37.262,-75.946
-07727,Selden,Gloucester County,37.356,-76.469
-07735,Seminary,Lee County,36.811,-82.834
-07749,Severn,Gloucester County,37.294,-76.416
-07758,Shady Grove,Greene County,38.260,-78.593
-07759,Shady Lane,Nelson County,37.715,-79.022
-07761,Shadyside,Northampton County,37.398,-75.912
-07766,Shanghai,King and Queen County,37.608,-76.779
-07772,Sharon,Pittsylvania County,36.658,-79.530
-07776,Sharps,Richmond County,37.824,-76.701
-07791,Shelby,Madison County,38.321,-78.308
-07818,Shields,Accomack County,37.570,-75.854
-07818,Shields,Prince Edward County,37.267,-78.647
-07819,Shiloh,Bath County,38.087,-79.651
-07819,Shiloh,King George County,38.221,-77.111
-07819,Shiloh,Pulaski County,37.025,-80.714
-07819,Shiloh,Stafford County,38.503,-77.504
-07828,Shockoe,Pittsylvania County,36.809,-79.264
-07835,Shortt Gap,Buchanan County,37.157,-81.873
-07837,Shupe,Wythe County,36.983,-81.161
-07847,Sigma,Lee County,36.830,-82.937
-07852,Siler,Frederick County,39.351,-78.239
-07896,Slabtown,Lancaster County,37.676,-76.497
-07898,Slate,Buchanan County,37.306,-81.949
-07899,Slate Mills,Rappahannock County,38.531,-78.183
-07904,Sleepy Hollow,Fairfax County,38.867,-77.165
-07913,Smart,Floyd County,36.922,-80.200
-07914,Smedley,Rappahannock County,38.698,-78.217
-07915,Smiley,Lee County,36.693,-83.287
-07930,Smithville,Accomack County,37.667,-75.844
-07938,Snell,Spotsylvania County,38.148,-77.601
-07944,Snow Hill,King and Queen County,37.540,-76.750
-07947,Snowflake,Scott County,36.690,-82.490
-07960,Solitude,Botetourt County,37.564,-79.606
-07966,Somers,Lancaster County,37.788,-76.566
-07967,Somerset,Orange County,38.208,-78.218
-07969,Somerville,Fauquier County,38.522,-77.609
-07974,Sorrell,Caroline County,37.954,-77.196
-08010,Southampton,Richmond County,37.556,-77.549
-08012,Southbridge,Prince William County,38.576,-77.299
-08029,Sparta,Caroline County,37.992,-77.230
-08034,Speedwell,Wythe County,36.814,-81.172
-08035,Spencer,Henry County,36.620,-80.007
-08043,Spottswood,Augusta County,37.955,-79.214
-08053,Spring Garden,Pittsylvania County,36.780,-79.305
-08055,Spring Grove,Surry County,37.166,-76.973
-08056,Spring Hill,Augusta County,38.256,-79.052
-08059,Spring Mills,Appomattox County,37.245,-78.919
-08062,Spring Valley,Stafford County,38.331,-77.461
-08067,Springfield,Albemarle County,38.132,-78.428
-08067,Springfield,Page County,38.704,-78.446
-08067,Springfield,Westmoreland County,38.219,-76.986
-08132,Stacy,Buchanan County,37.321,-81.996
-08136,Staffordsville,Giles County,37.241,-80.717
-08148,Stanleytown,Scott County,36.771,-82.689
-08162,Starkey,Roanoke County,37.201,-79.999
-08174,Stearnes,Fluvanna County,37.701,-78.239
-08184,Stephenson,Frederick County,39.237,-78.106
-08186,Stepping Stone,Botetourt County,37.348,-79.849
-08191,Stevensburg,Culpeper County,38.441,-77.900
-08192,Stevensville,King and Queen County,37.728,-76.920
-08217,Stone Creek,Lee County,36.776,-83.057
-08223,Stonewall,Alleghany County,37.808,-80.067
-08223,Stonewall,Appomattox County,37.411,-78.960
-08226,Stony Point,Albemarle County,38.113,-78.371
-08249,Stratton,Dickenson County,37.088,-82.361
-08255,Stringtown,Clarke County,39.188,-77.978
-08263,Stubbs,Spotsylvania County,38.150,-77.829
-08265,Studley,Hanover County,37.676,-77.291
-08266,Stumptown,Loudoun County,39.208,-77.551
-08266,Stumptown,Northampton County,37.340,-75.947
-08281,Sugar Grove,Montgomery County,37.102,-80.343
-08288,Sullivan,Stafford County,38.312,-77.409
-08322,Sunny Side,Buckingham County,37.479,-78.159
-08329,Sunrise,Bath County,38.193,-79.814
-08336,Supply,Essex County,38.094,-77.136
-08344,Sutherland,Dinwiddie County,37.196,-77.560
-08345,Sutherlin,Pittsylvania County,36.625,-79.197
-08376,Sycamore,Pittsylvania County,37.024,-79.358
-08386,Syria,Madison County,38.488,-78.326
-08388,Tabernacle,Mathews County,37.423,-76.296
-08394,Taft,Lancaster County,37.633,-76.391
-08396,Taggart,Buckingham County,37.723,-78.421
-08412,Tamworth,Cumberland County,37.648,-78.081
-08415,Tannersville,Tazewell County,36.973,-81.625
-08432,Taylorstown,Loudoun County,39.254,-77.575
-08477,Thaxton,Bedford County,37.353,-79.616
-08482,The Meadows,Northampton County,37.331,-75.950
-08483,The Oaks,Accomack County,37.894,-75.511
-08484,The Pines,Albemarle County,38.159,-78.487
-08493,Thomas,Buchanan County,37.345,-82.168
-08495,Thomastown,Bath County,38.008,-79.841
-08504,Thornburg,Spotsylvania County,38.133,-77.522
-08525,Tidewater,Richmond County,37.855,-76.699
-08543,Tindall,Floyd County,37.004,-80.338
-08550,Tiptop,Tazewell County,37.211,-81.434
-08551,Tyro,Nelson County,37.822,-79.005
-08557,Tobacco,Brunswick County,36.890,-77.938
-08558,Tobaccoville,Powhatan County,37.483,-78.096
-08566,Toga,Buckingham County,37.494,-78.633
-08607,Townsend,Northampton County,37.185,-75.958
-08616,Trammel,Dickenson County,37.014,-82.294
-08618,Trapp,Loudoun County,39.058,-77.866
-08633,Trimble,Highland County,38.304,-79.619
-08635,Trinity,Botetourt County,37.456,-79.890
-08678,Turbeville,Halifax County,36.623,-79.039
-08690,Turpin,King William County,37.761,-77.147
-08718,Tylerton,Stafford County,38.282,-77.434
-08737,Union,Floyd County,36.810,-80.442
-08744,Union Hill,Buckingham County,37.538,-78.329
-08746,Union Mills,Fluvanna County,37.939,-78.301
-08752,Uniontown,Fairfax County,38.821,-77.452
-08753,Unionville,Orange County,38.260,-77.968
-08762,Uno,Madison County,38.259,-78.231
-08807,Van,Lee County,36.614,-83.156
-08816,Vance,Pittsylvania County,36.666,-79.558
-08821,Vanderpool,Highland County,38.369,-79.625
-08823,Vandyke,Buchanan County,37.142,-81.922
-08831,Vaucluse,Frederick County,39.058,-78.247
-08832,Vaughn,Page County,38.719,-78.397
-08837,Velma,King and Queen County,37.647,-76.716
-08843,Vera,Appomattox County,37.414,-78.764
-08845,Verbena,Page County,38.465,-78.616
-08861,Vesta,Patrick County,36.717,-80.358
-08882,Village,Northumberland County,37.949,-76.604
-08925,Wadesville,Clarke County,39.242,-78.039
-08957,Walkerton,King and Queen County,37.726,-77.023
-08982,Walters,Isle of Wight County,36.773,-76.849
-08989,Wan,Gloucester County,37.425,-76.506
-08995,Wardell,Tazewell County,37.031,-81.794
-09000,Warm Springs,Bath County,38.046,-79.791
-09001,Warminster,Nelson County,37.688,-78.698
-09003,Warren,Albemarle County,37.766,-78.558
-09024,Waterfall,Prince William County,38.862,-77.672
-09025,Waterford,Loudoun County,39.187,-77.610
-09026,Waterloo,Clarke County,39.083,-78.083
-09026,Waterloo,New Kent County,37.596,-77.168
-09034,Watson,Loudoun County,38.993,-77.596
-09046,Waverly,Caroline County,38.164,-77.177
-09054,Wayside,Charles City County,37.373,-77.195
-09055,Weal,Pittsylvania County,36.825,-79.457
-09066,Weber City,Fluvanna County,37.755,-78.284
-09067,Webster,Botetourt County,37.351,-79.827
-09073,Weems,Lancaster County,37.655,-76.444
-09080,Welcome,King George County,38.197,-77.136
-09082,Weldon,Pulaski County,37.088,-80.805
-09084,Weller,Buchanan County,37.330,-82.176
-09086,Wellford,Richmond County,37.886,-76.766
-09087,Wellington,Prince William County,38.790,-77.561
-09107,Wesson,Brunswick County,36.760,-77.865
-09121,West End,Gloucester County,37.438,-76.699
-09123,West Fork,Pittsylvania County,36.624,-79.631
-09169,Westfield,Albemarle County,38.074,-78.486
-09172,Westhampton,Fairfax County,38.904,-77.185
-09176,Westland,Lancaster County,37.617,-76.293
-09179,Westmoreland,Westmoreland County,38.064,-76.559
-09197,Wheatfield,Shenandoah County,39.073,-78.372
-09198,Wheatland,Loudoun County,39.191,-77.676
-09200,Wheeler,Lee County,36.622,-83.555
-09211,Whitacre,Frederick County,39.332,-78.327
-09223,White Hall,Albemarle County,38.118,-78.661
-09223,White Hall,Frederick County,39.291,-78.148
-09226,White House,New Kent County,37.572,-77.042
-09226,White House,Page County,38.647,-78.533
-09228,White Marsh,Gloucester County,37.343,-76.521
-09230,White Oak,Stafford County,38.301,-77.375
-09233,White Plains,Brunswick County,36.644,-77.958
-09235,White Rock,Nelson County,37.890,-79.061
-09245,Whitehall,King and Queen County,37.734,-77.043
-09257,Whiteville,Cumberland County,37.602,-78.168
-09260,Whitfield,Pittsylvania County,36.547,-79.472
-09270,Witt,Pittsylvania County,36.681,-79.400
-09277,Wickliffe,Clarke County,39.166,-77.892
-09280,Wightman,Mecklenburg County,36.790,-78.303
-09291,Wildwood,Fluvanna County,37.903,-78.257
-09300,Williams,Mathews County,37.401,-76.328
-09308,Williamsville,Bath County,38.195,-79.571
-09311,Willis,Floyd County,36.858,-80.481
-09311,Willis,Russell County,36.868,-82.114
-09313,Willisville,Loudoun County,39.007,-77.834
-09314,Willoughby,Albemarle County,38.013,-78.496
-09329,Wilmington,Fluvanna County,37.849,-78.201
-09332,Wilmot,King George County,38.156,-77.072
-09357,Winnie,Nottoway County,37.073,-78.132
-09369,Winterville,Accomack County,37.838,-75.642
-09379,Wishart,Accomack County,37.884,-75.494
-09391,Wolford,Buchanan County,37.364,-81.991
-09399,Woodridge,Albemarle County,37.897,-78.436
-09404,Woodbrook,Albemarle County,38.086,-78.466
-09405,Woodburn,Loudoun County,39.090,-77.619
-09408,Woodford,Caroline County,38.113,-77.409
-09415,Woodland Park,Page County,38.674,-78.459
-09415,Woodland Park,Richmond County,37.519,-77.461
-09417,Woodlawn,Pittsylvania County,36.810,-79.393
-09431,Woodstock,Northampton County,37.476,-75.847
-09433,Woodville,Rappahannock County,38.607,-78.175
-09435,Woodway,Lee County,36.732,-82.992
-09451,Wren,Charlotte County,37.119,-78.850
-09452,Wright,Roanoke County,37.165,-79.974
-09456,Wrightsville,Caroline County,38.028,-77.331
-09470,Yale,Sussex County,36.846,-77.287
-09474,Yancey Mills,Albemarle County,38.047,-78.725
-09476,Yankeetown,Rockingham County,38.671,-78.941
-09478,Yards,Tazewell County,37.292,-81.310
-09514,Zanoni,Gloucester County,37.389,-76.487
+0930,Chesapeake,Chesapeake city,36.819,-76.275
+0170,Arlington,Arlington County,38.890,-77.084
+3558,Norfolk,Norfolk city,36.847,-76.285
+4201,Richmond,Richmond city,37.554,-77.460
+0058,Alexandria,Alexandria city,38.805,-77.047
+2130,Hampton,Hampton city,37.030,-76.345
+4248,Roanoke,Roanoke city,37.271,-79.941
+4011,Portsmouth,Portsmouth city,36.835,-76.298
+2965,Lynchburg,Lynchburg city,37.414,-79.142
+0876,Centreville,Fairfax County,38.840,-77.429
+3218,Midlothian,Chesterfield County,37.522,-77.665
+2164,Harrisonburg,Harrisonburg city,38.450,-78.869
+3143,McLean,Fairfax County,38.934,-77.177
+2778,Leesburg,Loudoun County,39.116,-77.564
+5025,Tuckahoe,Henrico County,37.590,-77.556
+0902,Charlottesville,Charlottesville city,38.029,-78.477
+0183,Ashburn,Loudoun County,39.044,-77.487
+0459,Blacksburg,Montgomery County,37.230,-80.414
+0682,Burke,Fairfax County,38.793,-77.272
+5471,Woodbridge,Prince William County,38.658,-77.250
+3012,Manassas,Manassas city,38.751,-77.475
+1256,Danville,Danville city,36.586,-79.395
+0133,Annandale,Fairfax County,38.830,-77.196
+3159,Mechanicsville,Hanover County,37.609,-77.373
+1644,Fair Oaks,Fairfax County,38.866,-77.369
+3865,Petersburg,Petersburg city,37.228,-77.402
+4678,Springfield,Fairfax County,38.789,-77.187
+4762,Sterling,Loudoun County,39.006,-77.429
+0604,Bristow,Prince William County,38.723,-77.536
+1812,Fredericksburg,Fredericksburg city,38.303,-77.461
+5431,Winchester,Winchester city,39.186,-78.163
+4754,Staunton,Staunton city,38.150,-79.072
+4382,Salem,Salem city,37.293,-80.055
+0836,Cave Spring,Roanoke County,37.228,-80.013
+2248,Herndon,Fairfax County,38.970,-77.387
+1650,Fairfax,Fairfax city,38.846,-77.306
+4881,Tabb,York County,37.123,-76.457
+5313,West Springfield,Fairfax County,38.773,-77.221
+2351,Hopewell,Hopewell city,37.304,-77.287
+0954,Christiansburg,Montgomery County,37.130,-80.409
+5482,Woodlawn,Fairfax County,38.717,-77.133
+5253,Waynesboro,Waynesboro city,38.068,-78.889
+0932,Chester,Chesterfield County,37.357,-77.442
+0925,Cherry Hill,Prince William County,38.570,-77.267
+3305,Montclair,Prince William County,38.611,-77.340
+4306,Rose Hill,Fairfax County,38.789,-77.113
+2909,Lorton,Fairfax County,38.704,-77.228
+3147,McNair,Fairfax County,38.952,-77.414
+3154,Meadowbrook,Chesterfield County,37.449,-77.474
+2606,Kingstowne,Fairfax County,38.761,-77.145
+1801,Franconia,Fairfax County,38.782,-77.146
+1073,Colonial Heights,Colonial Heights city,37.244,-77.410
+2753,Laurel,Henrico County,37.643,-77.509
+0518,Bon Air,Chesterfield County,37.525,-77.558
+1849,Gainesville,Prince William County,38.796,-77.614
+0603,Bristol,Bristol city,36.596,-82.188
+0676,Bull Run,Prince William County,38.784,-77.521
+5143,Vienna,Fairfax County,38.901,-77.265
+2321,Hollins,Botetourt County,37.344,-79.952
+4781,Stone Ridge,Loudoun County,38.925,-77.555
+5404,Williamsburg,Williamsburg city,37.271,-76.707
+0608,Broadlands,Loudoun County,39.018,-77.520
+1934,Glen Allen,Henrico County,37.666,-77.506
+2029,Great Falls,Fairfax County,38.998,-77.288
+2079,Groveton,Fairfax County,38.767,-77.085
+2391,Huntington,Fairfax County,38.792,-77.071
+3390,Mount Vernon,Fairfax County,38.735,-77.095
+3079,Martinsville,Martinsville city,36.692,-79.873
+3531,Newington,Fairfax County,38.738,-77.185
+2733,Lansdowne,Loudoun County,39.085,-77.484
+4960,Timberlake,Campbell County,37.321,-79.258
+2873,Locust Grove,Orange County,38.281,-77.726
+2708,Lakeside,Henrico County,37.608,-77.477
+3013,Manchester,Chesterfield County,37.486,-77.534
+5432,Wyndham,Henrico County,37.698,-77.612
+5186,Wakefield,Fairfax County,38.825,-77.243
+3467,New Baltimore,Fauquier County,38.767,-77.728
+1754,Forest,Bedford County,37.364,-79.290
+5008,Triangle,Prince William County,38.547,-77.337
+2989,Madison Heights,Amherst County,37.431,-79.123
+5472,Woodburn,Fairfax County,38.847,-77.236
+5222,Warrenton,Fauquier County,38.713,-77.795
+5531,Yorkshire,Prince William County,38.793,-77.448
+1369,Doran,Tazewell County,37.093,-81.833
+0371,Belmont,Loudoun County,39.065,-77.510
+1146,Countryside,Loudoun County,39.041,-77.414
+2429,Innsbrook,Henrico County,37.654,-77.576
+4065,Pulaski,Pulaski County,37.048,-80.780
+4598,Smithfield,Isle of Wight County,36.982,-76.631
+2694,Lake of the Woods,Orange County,38.334,-77.756
+2754,Laurel Hill,Fairfax County,38.717,-77.237
+0007,Abingdon,Washington County,36.710,-81.977
+1804,Franklin,Franklin city,36.678,-76.922
+0369,Bellwood,Chesterfield County,37.422,-77.437
+5157,Vinton,Roanoke County,37.281,-79.897
+2046,Greenbriar,Fairfax County,38.873,-77.401
+4277,Rockwood,Chesterfield County,37.463,-77.574
+3033,Mantua,Fairfax County,38.854,-77.259
+2890,Long Branch,Fairfax County,38.831,-77.270
+3318,Montrose,Henrico County,37.521,-77.378
+1740,Floris,Fairfax County,38.937,-77.413
+0187,Ashland,Hanover County,37.759,-77.480
+1067,Collinsville,Henry County,36.715,-79.915
+0676,Bull Run,Fairfax County,38.840,-77.490
+2808,Lexington,Lexington city,37.784,-79.443
+5476,Woodlake,Chesterfield County,37.421,-77.679
+3581,North Springfield,Fairfax County,38.804,-77.205
+1684,Farmville,Cumberland County,37.296,-78.400
+4796,Strasburg,Shenandoah County,38.989,-78.359
+0796,Carrollton,Isle of Wight County,36.947,-76.561
+3316,Montpelier,Hanover County,37.821,-77.684
+0334,Bedford,Bedford County,37.334,-79.523
+0666,Buena Vista,Buena Vista city,37.734,-79.354
+0555,Braddock,Fairfax County,38.831,-77.357
+0352,Belle Haven,Fairfax County,38.785,-77.063
+1774,Fort Lee,Prince George County,37.236,-77.333
+0594,Bridgewater,Rockingham County,38.382,-78.977
+5492,Woodstock,Shenandoah County,38.882,-78.506
+3056,Marion,Smyth County,36.835,-81.515
+1151,Covington,Covington city,37.793,-79.994
+1407,Dumfries,Prince William County,38.568,-77.328
+4200,Richlands,Tazewell County,37.093,-81.794
+1623,Ettrick,Chesterfield County,37.240,-77.430
+3689,Orange,Orange County,38.245,-78.111
+0497,Bluefield,Tazewell County,37.253,-81.271
+3325,Moorefield,Loudoun County,38.996,-77.504
+4281,Rocky Mount,Franklin County,36.998,-79.892
+2954,Luray,Page County,38.665,-78.459
+4634,South Hill,Mecklenburg County,36.727,-78.129
+0402,Berryville,Clarke County,39.152,-77.982
+1675,Falmouth,Stafford County,38.324,-77.468
+4910,Tazewell,Tazewell County,37.115,-81.520
+1596,Enon,Chesterfield County,37.331,-77.323
+5132,Verona,Augusta County,38.202,-79.008
+3379,Mount Hermon,Pittsylvania County,36.678,-79.422
+0610,Broadway,Rockingham County,38.613,-78.799
+2600,Kings Park,Fairfax County,38.806,-77.243
+5077,University Center,Loudoun County,39.057,-77.444
+2866,Loch Lomond,Prince William County,38.786,-77.478
+5019,Troy,Fluvanna County,37.951,-78.246
+3596,Norton,Norton city,36.933,-82.629
+2845,Linville,Rockingham County,38.521,-78.838
+1018,Cloverdale,Botetourt County,37.365,-79.906
+1234,Dahlgren,King George County,38.331,-77.051
+5311,West Point,King William County,37.532,-76.796
+0460,Blackstone,Nottoway County,37.080,-77.997
+3580,North Shore,Franklin County,37.082,-79.658
+2772,Lebanon,Russell County,36.901,-82.080
+3069,Marshall,Fauquier County,38.865,-77.858
+0494,Blue Ridge,Botetourt County,37.378,-79.807
+1543,Elkton,Rockingham County,38.408,-78.624
+1241,Daleville,Botetourt County,37.410,-79.913
+5454,Wise,Wise County,36.976,-82.576
+2294,Hillsville,Carroll County,36.763,-80.735
+5433,Windsor,Isle of Wight County,36.808,-76.744
+3194,Merrimac,Montgomery County,37.190,-80.426
+1400,Dublin,Pulaski County,37.106,-80.685
+1655,Fairlawn,Pulaski County,37.148,-80.578
+3611,Oak Grove,Loudoun County,38.984,-77.404
+4543,Shenandoah,Page County,38.485,-78.625
+3097,Matoaca,Chesterfield County,37.230,-77.477
+2689,Lake Holiday,Frederick County,39.307,-78.325
+5482,Woodlawn,Carroll County,36.722,-80.823
+0161,Arcola,Loudoun County,38.952,-77.534
+4190,Rice,Prince Edward County,37.275,-78.291
+3499,New Market,Shenandoah County,38.648,-78.671
+0114,Amherst,Amherst County,37.585,-79.051
+4173,Rio,Albemarle County,38.076,-78.461
+2921,Louisa,Louisa County,38.025,-78.004
+3435,Narrows,Giles County,37.332,-80.811
+3383,Mount Jackson,Shenandoah County,38.746,-78.642
+5249,Waverly,Sussex County,37.036,-77.095
+1110,Copper Hill,Floyd County,37.082,-80.134
+5139,Victoria,Lunenburg County,36.995,-78.227
+4737,Stanley,Page County,38.575,-78.503
+1271,Dayton,Rockingham County,38.415,-78.939
+0942,Chilhowie,Smyth County,36.798,-81.682
+5225,Warsaw,Richmond County,37.959,-76.758
+1980,Gore,Frederick County,39.264,-78.332
+2966,Lyndhurst,Augusta County,38.029,-78.945
+1037,Coeburn,Wise County,36.944,-82.464
+5046,Twin Lakes,Greene County,38.249,-78.444
+2060,Greenville,Augusta County,38.003,-79.156
+1978,Gordonsville,Orange County,38.137,-78.188
+3215,Middletown,Frederick County,39.028,-78.281
+0598,Brightwood,Madison County,38.422,-78.194
+4766,Stuart,Patrick County,36.641,-80.266
+4342,Ruckersville,Greene County,38.233,-78.369
+0983,Clarksville,Halifax County,36.618,-78.565
+1147,Courtland,Southampton County,36.716,-77.068
+2067,Gretna,Pittsylvania County,36.954,-79.359
+0826,Castlewood,Russell County,36.890,-82.280
+4684,Springville,Tazewell County,37.197,-81.403
+0654,Buchanan,Botetourt County,37.527,-79.680
+1492,Edinburg,Shenandoah County,38.821,-78.566
+0907,Chatham,Pittsylvania County,36.826,-79.398
+0544,Bowling Green,Caroline County,38.050,-77.347
+1553,Elliston,Montgomery County,37.217,-80.233
+3839,Pembroke,Giles County,37.320,-80.639
+2676,Lahore,Orange County,38.199,-77.968
+2113,Halifax,Halifax County,36.766,-78.928
+0200,Atkins,Smyth County,36.867,-81.423
+1931,Glasgow,Rockbridge County,37.634,-79.450
+3095,Mathews,Mathews County,37.437,-76.320
+0846,Cedar Bluff,Tazewell County,37.088,-81.759
+0291,Bassett,Henry County,36.759,-79.990
+1582,Emory,Washington County,36.773,-81.836
+2762,Lawrenceville,Brunswick County,36.758,-77.847
+2023,Gratton,Tazewell County,37.135,-81.414
+1090,Concord,Appomattox County,37.345,-78.983
+2410,Independence,Grayson County,36.622,-81.151
+2166,Harriston,Augusta County,38.217,-78.832
+5244,Wattsville,Accomack County,37.934,-75.500
+0177,Arrington,Nelson County,37.684,-78.901
+4241,Riverdale,Halifax County,36.687,-78.900
+1157,Craigsville,Augusta County,38.079,-79.383
+1399,Dryden,Lee County,36.778,-82.942
+2517,Jonesville,Lee County,36.689,-83.111
+4024,Pound,Wise County,37.124,-82.601
+4721,St. Paul,Russell County,36.907,-82.317
+0367,Belview,Montgomery County,37.167,-80.510
+2755,Laurel Park,Henry County,36.689,-79.801
+2462,Ivy,Albemarle County,38.057,-78.597
+2587,Keysville,Charlotte County,37.040,-78.483
+4817,Sugar Grove,Smyth County,36.776,-81.412
+1245,Damascus,Washington County,36.634,-81.784
+1771,Fort Defiance,Augusta County,38.240,-78.972
+0549,Boyce,Clarke County,39.093,-78.059
+4214,Ridgeway,Henry County,36.577,-79.858
+1711,Fincastle,Botetourt County,37.499,-79.877
+5186,Wakefield,Sussex County,36.968,-76.990
+2097,Gwynn,Mathews County,37.504,-76.289
+3493,New Hope,Augusta County,38.198,-78.906
+4306,Rose Hill,Lee County,36.672,-83.367
+4326,Round Hill,Loudoun County,39.133,-77.769
+3365,Motley,Pittsylvania County,37.070,-79.341
+3209,Middleburg,Loudoun County,38.969,-77.736
+2461,Ivanhoe,Wythe County,36.840,-80.967
+4168,Remington,Fauquier County,38.534,-77.808
+0532,Boston,Accomack County,37.609,-75.843
+4394,Saluda,Middlesex County,37.606,-76.595
+1348,Dinwiddie,Dinwiddie County,37.078,-77.587
+4245,Riverview,Wise County,36.935,-82.482
+2124,Hamilton,Loudoun County,39.134,-77.662
+2645,La Crosse,Mecklenburg County,36.700,-78.100
+3684,Opal,Fauquier County,38.621,-77.800
+1016,Clover,Halifax County,36.833,-78.733
+4077,Quantico,Prince William County,38.522,-77.294
+1386,Draper,Pulaski County,37.006,-80.747
+0203,Atlantic,Accomack County,37.901,-75.508
+2362,Hot Springs,Bath County,38.000,-79.832
+0352,Belle Haven,Accomack County,37.555,-75.824
+4486,Scottsville,Albemarle County,37.811,-78.488
+5084,Urbanna,Middlesex County,37.638,-76.574
+4768,Stewartsville,Bedford County,37.271,-79.793
+3262,Mineral,Louisa County,38.011,-77.909
+5378,Whitewood,Buchanan County,37.236,-81.857
+2450,Irvington,Lancaster County,37.662,-76.419
+0895,Cheriton,Northampton County,37.290,-75.971
+5018,Troutville,Botetourt County,37.418,-79.875
+4509,Selma,Alleghany County,37.807,-79.848
+1253,Dante,Dickenson County,36.985,-82.284
+2671,Lafayette,Montgomery County,37.236,-80.211
+1743,Floyd,Floyd County,36.911,-80.320
+3290,Moneta,Bedford County,37.181,-79.617
+2357,Horntown,Accomack County,37.970,-75.464
+4897,Tangier,Accomack County,37.826,-75.992
+0683,Burkeville,Nottoway County,37.188,-78.201
+0310,Baywood,Grayson County,36.610,-81.012
+3508,New River,Pulaski County,37.133,-80.591
+3319,Montvale,Bedford County,37.385,-79.731
+1640,Ewing,Lee County,36.637,-83.432
+2932,Low Moor,Alleghany County,37.789,-79.884
+1216,Cumberland,Cumberland County,37.496,-78.245
+1733,Flint Hill,Rappahannock County,38.763,-78.100
+4555,Shipman,Nelson County,37.724,-78.839
+0025,Afton,Albemarle County,38.022,-78.833
+1983,Goshen,Rockbridge County,37.987,-79.498
+2580,Keswick,Albemarle County,38.025,-78.356
+0970,Claremont,Surry County,37.228,-76.964
+0046,Alberta,Brunswick County,36.866,-77.886
+4086,Quinby,Accomack County,37.554,-75.734
+0473,Bland,Bland County,37.102,-81.116
+4854,Sussex,Sussex County,36.915,-77.279
+0960,Churchville,Augusta County,38.226,-79.162
+3971,Pocahontas,Tazewell County,37.304,-81.340
+4475,Schuyler,Nelson County,37.792,-78.698
+5532,Yorktown,York County,37.239,-76.510
+1651,Fairfield,Rockbridge County,37.879,-79.289
+1413,Dungannon,Scott County,36.828,-82.472
+4934,The Plains,Fauquier County,38.862,-77.774
+1010,Clifton,Fairfax County,38.780,-77.387
+3872,Phenix,Charlotte County,37.080,-78.748
+0307,Bayside,Accomack County,37.748,-75.717
+0798,Carrsville,Isle of Wight County,36.712,-76.826
+1441,Eagle Rock,Botetourt County,37.641,-79.801
+4853,Surry,Surry County,37.138,-76.835
+2988,Madison,Madison County,38.380,-78.257
+3804,Parrott,Pulaski County,37.205,-80.616
+2143,Harborton,Accomack County,37.662,-75.830
+4004,Port Royal,Caroline County,38.172,-77.191
+1292,Deerfield,Augusta County,38.197,-79.407
+4787,Stony Creek,Sussex County,36.948,-77.401
+0504,Bobtown,Accomack County,37.651,-75.793
+0261,Barboursville,Orange County,38.171,-78.282
+3308,Monterey,Highland County,38.412,-79.581
+2138,Hanover,Hanover County,37.767,-77.370
+3217,Midland,Fauquier County,38.600,-77.724
+4003,Port Republic,Rockingham County,38.289,-78.813
+2550,Keller,Accomack County,37.619,-75.764
+5017,Troutdale,Grayson County,36.702,-81.440
+0770,Capron,Southampton County,36.711,-77.200
+1007,Cleveland,Russell County,36.944,-82.152
+3178,Mendota,Washington County,36.711,-82.302
+4481,Scotland,Surry County,37.184,-76.786
+2952,Lunenburg,Lunenburg County,36.961,-78.266
+3477,New Castle,Craig County,37.500,-80.111
+4485,Scottsburg,Halifax County,36.757,-78.790
+0563,Branchville,Southampton County,36.570,-77.249
+1661,Fairview,Mecklenburg County,36.815,-78.467
+2291,Hillsboro,Loudoun County,39.198,-77.723
+3771,Palmyra,Fluvanna County,37.861,-78.263
+1070,Columbia,Fluvanna County,37.752,-78.162
+5230,Washington,Rappahannock County,38.713,-78.159
+5216,Warfield,Brunswick County,36.896,-77.826
+0897,Charles City,Charles City County,37.343,-77.073
+4691,St. Charles,Lee County,36.802,-83.057
+4608,Snowville,Pulaski County,37.033,-80.561
+1808,Franktown,Northampton County,37.479,-75.879
+0294,Batesville,Albemarle County,37.996,-78.722
+4439,Sanford,Accomack County,37.925,-75.664
+0732,Calverton,Fauquier County,38.632,-77.671
+5375,Whitesville,Accomack County,37.782,-75.663
+2048,Greenbush,Accomack County,37.741,-75.681
+0006,Abilene,Charlotte County,37.142,-78.544
+0022,Aden,Prince William County,38.655,-77.537
+0035,Airmont,Loudoun County,39.085,-77.787
+0085,Alma,Page County,38.591,-78.558
+0117,Ammon,Amelia County,37.211,-77.768
+0155,Ararat,Patrick County,36.599,-80.511
+0158,Arcadia,Botetourt County,37.545,-79.624
+0331,Beaverdam,Hanover County,37.941,-77.654
+0371,Belmont,Spotsylvania County,38.154,-77.866
+0480,Bloomfield,Loudoun County,39.053,-77.821
+0490,Blue Grass,Highland County,38.500,-79.550
+0558,Bradshaw,Montgomery County,37.300,-80.224
+0605,Britain,Loudoun County,39.253,-77.697
+0607,Broad Run,Fauquier County,38.830,-77.721
+0616,Brooke,Stafford County,38.388,-77.380
+0650,Brutus,Pittsylvania County,37.011,-79.269
+0659,Buckland,Prince William County,38.780,-77.674
+0669,Buffalo Gap,Augusta County,38.187,-79.239
+0671,Buffalo Springs,Mecklenburg County,36.646,-78.662
+0705,Butterworth,Dinwiddie County,37.051,-77.627
+0726,Callao,Northumberland County,37.969,-76.560
+0727,Callaway,Franklin County,37.011,-80.049
+0736,Cambria,Montgomery County,37.143,-80.396
+0805,Cartersville,Cumberland County,37.667,-78.088
+0811,Casanova,Fauquier County,38.657,-77.717
+0830,Catawba,Roanoke County,37.383,-80.109
+0839,Caylor,Lee County,36.631,-83.494
+0870,Centerville,Montgomery County,37.170,-80.538
+0874,Central Point,Caroline County,37.989,-77.132
+0875,Centralia,Chesterfield County,37.381,-77.460
+0889,Chancellor,Spotsylvania County,38.284,-77.601
+0933,Chesterfield,Chesterfield County,37.376,-77.504
+0956,Chula,Amelia County,37.389,-77.903
+1017,Clover Creek,Highland County,38.270,-79.549
+1038,Cochran,Brunswick County,36.843,-77.905
+1043,Cohasset,Fluvanna County,37.770,-78.303
+1050,Colchester,Fairfax County,38.669,-77.234
+1181,Cripple Creek,Wythe County,36.821,-81.098
+1191,Cross Keys,Rockingham County,38.358,-78.846
+1200,Crozier,Goochland County,37.637,-77.797
+1216,Cumberland,New Kent County,37.329,-76.742
+1268,Dawn,Caroline County,37.835,-77.363
+1298,Delaplane,Fauquier County,38.915,-77.920
+1332,DeWitt,Dinwiddie County,37.039,-77.643
+1377,Dover,Loudoun County,38.976,-77.674
+1499,Edom,Rockingham County,38.526,-78.861
+1563,Elmont,Hanover County,37.711,-77.493
+1567,Elon,Amherst County,37.518,-79.195
+1589,Endicott,Franklin County,36.888,-80.150
+1636,Evergreen,Appomattox County,37.319,-78.766
+1639,Ewell,James City County,37.329,-76.742
+1671,Falling Spring,Alleghany County,37.886,-79.979
+1685,Farnham,Richmond County,37.885,-76.625
+1709,Fife,Goochland County,37.749,-78.062
+1818,Freeman,Brunswick County,36.755,-77.693
+1848,Gainesboro,Frederick County,39.278,-78.259
+1902,Germantown,Fauquier County,38.614,-77.742
+1991,Grafton,York County,37.165,-76.469
+2007,Grandy,Brunswick County,36.801,-77.955
+2035,Green Bay,Prince Edward County,37.134,-78.315
+2061,Greenwich,Prince William County,38.749,-77.648
+2062,Greenwood,Albemarle County,38.056,-78.771
+2075,Grove,James City County,37.230,-76.630
+2085,Guinea,Caroline County,38.144,-77.438
+2089,Gum Springs,Fairfax County,38.740,-77.082
+2112,Halfway,Fauquier County,38.657,-77.717
+2134,Hanging Rock,Roanoke County,37.328,-80.040
+2148,Hardy,Bedford County,37.232,-79.811
+2204,Hayes,Gloucester County,37.278,-76.504
+2342,Homeville,Sussex County,36.949,-77.171
+2369,Howardsville,Albemarle County,37.735,-78.647
+2369,Howardsville,Loudoun County,39.038,-77.839
+2384,Hume,Fauquier County,38.832,-77.999
+2394,Hurley,Buchanan County,37.419,-82.022
+2411,Index,King George County,38.194,-77.080
+2479,Java,Pittsylvania County,36.836,-79.228
+2548,Keene,Albemarle County,37.865,-78.555
+2607,Kingsville,Prince Edward County,37.246,-78.444
+2670,Ladysmith,Caroline County,38.017,-77.515
+2723,Lancaster,Lancaster County,37.770,-76.466
+2731,Langley,Fairfax County,38.946,-77.159
+2779,Leesville,Campbell County,37.119,-79.385
+2826,Lincoln,Loudoun County,39.115,-77.695
+2836,Linden,Fauquier County,38.908,-78.075
+2894,Long Island,Campbell County,37.079,-79.094
+2926,Love,Augusta County,37.885,-79.010
+2990,Madison Mills,Madison County,38.281,-78.141
+3042,Maplewood,Amelia County,37.316,-78.049
+3059,Markham,Fauquier County,38.904,-78.002
+3130,McDowell,Highland County,38.336,-79.491
+3252,Millwood,Clarke County,39.069,-78.038
+3296,Monroe,Amherst County,37.502,-79.128
+3360,Morven,Amelia County,37.418,-78.076
+3377,Mount Gilead,Loudoun County,39.059,-77.664
+3404,Mountville,Loudoun County,39.025,-77.712
+3441,Natural Bridge,Rockbridge County,37.630,-79.543
+3475,New Canton,Buckingham County,37.705,-78.299
+3498,New London,Campbell County,37.302,-79.280
+3523,Newbern,Pulaski County,37.073,-80.691
+3533,Newport,Giles County,37.294,-80.495
+3547,Nineveh,Warren County,39.016,-78.165
+3554,Nora,Dickenson County,37.071,-82.347
+3559,Norge,James City County,37.368,-76.771
+3611,Oak Grove,Westmoreland County,38.182,-76.997
+3613,Oak Hill,Fairfax County,38.926,-77.402
+3700,Oriskany,Botetourt County,37.616,-79.984
+3742,Owens,King George County,38.339,-77.086
+3769,Palmer,Lancaster County,37.624,-76.351
+3785,Paris,Fauquier County,39.004,-77.951
+3811,Paytes,Spotsylvania County,38.227,-77.833
+3838,Pemberton,Goochland County,37.675,-78.085
+3885,Piedmont,Augusta County,38.214,-78.899
+3939,Pittsville,Pittsylvania County,36.982,-79.462
+4031,Powhatan,Powhatan County,37.542,-77.919
+4117,Randolph,Charlotte County,36.894,-78.698
+4127,Rawlings,Brunswick County,36.949,-77.779
+4162,Reedville,Northumberland County,37.842,-76.276
+4176,Rescue,Isle of Wight County,36.996,-76.561
+4180,Reva,Culpeper County,38.494,-78.133
+4222,Ringgold,Pittsylvania County,36.608,-79.295
+4268,Rockfish,Nelson County,37.801,-78.756
+4275,Rockville,Hanover County,37.726,-77.678
+4287,Rogers,Montgomery County,37.088,-80.397
+4296,Romancoke,King William County,37.574,-76.851
+4308,Rosedale,Russell County,36.959,-81.931
+4326,Round Hill,Frederick County,39.194,-78.242
+4359,Rutherford,Fairfax County,38.829,-77.263
+4433,Sandy Hook,Goochland County,37.753,-77.912
+4493,Seaford,York County,37.198,-76.433
+4623,Somerset,Orange County,38.208,-78.218
+4624,Somerville,Fauquier County,38.522,-77.609
+4646,Southbridge,Prince William County,38.576,-77.299
+4658,Spencer,Henry County,36.620,-80.007
+4747,Starkey,Roanoke County,37.201,-79.999
+4765,Stevensville,King and Queen County,37.728,-76.920
+4785,Stony Point,Albemarle County,38.113,-78.371
+4817,Sugar Grove,Montgomery County,37.102,-80.343
+4855,Sutherland,Dinwiddie County,37.196,-77.560
+4880,Syria,Madison County,38.488,-78.326
+4896,Tamworth,Cumberland County,37.648,-78.081
+4907,Taylorstown,Loudoun County,39.254,-77.575
+4931,Thaxton,Bedford County,37.353,-79.616
+4971,Tobaccoville,Powhatan County,37.483,-78.096
+5115,Vanderpool,Highland County,38.369,-79.625
+5176,Wadesville,Clarke County,39.242,-78.039
+5209,Walters,Isle of Wight County,36.773,-76.849
+5217,Warm Springs,Bath County,38.046,-79.791
+5237,Waterford,Loudoun County,39.187,-77.610
+5356,White Hall,Albemarle County,38.118,-78.661
+5356,White Hall,Frederick County,39.291,-78.148
+5359,White House,New Kent County,37.572,-77.042
+5361,White Oak,Stafford County,38.301,-77.375
+5414,Willisville,Loudoun County,39.007,-77.834
+5472,Woodburn,Loudoun County,39.090,-77.619
+5474,Woodford,Caroline County,38.113,-77.409
+5494,Woodville,Rappahannock County,38.607,-78.175
+5519,Yale,Sussex County,36.846,-77.287
+5521,Yancey Mills,Albemarle County,38.047,-78.725

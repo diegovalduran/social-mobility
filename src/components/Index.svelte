@@ -19,7 +19,7 @@
 	import classics from "$data/classics.csv";
 
 	const removeStorage = true;
-	const testLocate = true;
+	const testLocate = false;
 
 	const copy = getContext("copy");
 	const data = getContext("data");

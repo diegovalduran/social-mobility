@@ -1,563 +1,314 @@
 phoneme,name,county,latitude,longitude
-00448,Baltimore,Baltimore city,39.290,-76.612
-01835,Columbia,Howard County,39.240,-76.839
-03288,Germantown,Montgomery County,39.173,-77.272
-07867,Silver Spring,Montgomery County,39.002,-77.021
-03145,Frederick,Frederick County,39.414,-77.411
-08949,Waldorf,Charles County,38.625,-76.939
-07340,Rockville,Montgomery County,39.084,-77.153
-00730,Bethesda,Montgomery County,38.981,-77.100
-00969,Bowie,Prince George's County,38.943,-76.730
-07749,Severn,Anne Arundel County,39.137,-76.698
-00333,Aspen Hill,Montgomery County,39.080,-77.073
-09199,Wheaton,Montgomery County,39.040,-77.055
-06904,Potomac,Montgomery County,39.018,-77.209
-03629,Hagerstown,Washington County,39.642,-77.720
-09417,Woodlawn,Baltimore County,39.323,-76.728
-00220,Annapolis,Anne Arundel County,38.978,-76.492
-01741,Clinton,Prince George's County,38.764,-76.896
-06316,Olney,Montgomery County,39.153,-77.067
-01823,College Park,Prince George's County,38.981,-76.937
-07544,Salisbury,Wicomico County,38.361,-75.599
-06526,Pasadena,Anne Arundel County,39.107,-76.571
-06513,Parkville,Baltimore County,39.377,-76.540
-05506,Middle River,Baltimore County,39.334,-76.439
-01390,Carney,Baltimore County,39.394,-76.524
-02068,Crofton,Anne Arundel County,39.002,-76.687
-04714,Laurel,Prince George's County,39.099,-76.848
-01693,Clarksburg,Montgomery County,39.239,-77.279
-03091,Fort Washington,Prince George's County,38.707,-77.023
-02873,Fairland,Montgomery County,39.076,-76.958
-00297,Arnold,Anne Arundel County,39.032,-76.503
-02616,Edgewood,Harford County,39.419,-76.294
-02695,Elkridge,Howard County,39.213,-76.714
-01315,Camp Springs,Prince George's County,38.804,-76.907
-05562,Millersville,Anne Arundel County,39.059,-76.648
-04109,Hyattsville,Prince George's County,38.956,-76.946
-07396,Rosedale,Baltimore County,39.320,-76.516
-09177,Westminster,Carroll County,39.575,-76.996
-07706,Seabrook,Prince George's County,38.968,-76.845
-04622,Lake Shore,Anne Arundel County,39.107,-76.485
-02125,Cumberland,Allegany County,39.653,-78.763
-03061,Forest Hill,Harford County,39.585,-76.388
-07138,Redland,Montgomery County,39.145,-77.144
-01303,Calverton,Montgomery County,39.058,-76.951
-03512,Green Haven,Anne Arundel County,39.138,-76.542
-02582,Easton,Talbot County,38.774,-76.076
-02956,Ferndale,Anne Arundel County,39.183,-76.640
-03924,Hillcrest Heights,Prince George's County,38.833,-76.959
-00040,Adelphi,Prince George's County,39.003,-76.972
-02177,Damascus,Montgomery County,39.288,-77.204
-00008,Aberdeen,Harford County,39.510,-76.164
-08295,Summerfield,Prince George's County,38.905,-76.868
-03360,Glenmont,Montgomery County,39.058,-77.050
-02696,Elkton,Cecil County,39.607,-75.833
-07417,Rossville,Baltimore County,39.338,-76.480
-01111,Brooklyn Park,Anne Arundel County,39.228,-76.616
-03342,Glenn Dale,Prince George's County,38.988,-76.821
-09230,White Oak,Montgomery County,39.040,-76.993
-01816,Colesville,Montgomery County,39.076,-77.002
-03034,Flower Hill,Montgomery County,39.159,-77.172
-01292,California,St. Mary's County,38.300,-76.507
-04427,Kettering,Prince George's County,38.885,-76.815
-05967,New Carrollton,Prince George's County,38.970,-76.880
-01308,Cambridge,Dorchester County,38.563,-76.079
-07479,Russett,Anne Arundel County,39.108,-76.803
-03526,Green Valley,Frederick County,39.309,-77.297
-03680,Hanover,Anne Arundel County,39.193,-76.724
-08770,Urbana,Frederick County,39.326,-77.351
-04319,Joppa,Harford County,39.434,-76.358
-05624,Mitchellville,Prince George's County,38.925,-76.743
-07293,Riviera Beach,Anne Arundel County,39.167,-76.508
-04689,Largo,Prince George's County,38.898,-76.830
-07385,Rosaryville,Prince George's County,38.757,-76.810
-03085,Fort Meade,Anne Arundel County,39.106,-76.743
-00617,Bel Air,Harford County,39.536,-76.348
-09183,Westphalia,Prince George's County,38.845,-76.811
-03070,Forestville,Prince George's County,38.845,-76.875
-04282,Jessup,Anne Arundel County,39.149,-76.776
-00977,Boyds,Montgomery County,39.184,-77.313
-04563,La Plata,Charles County,38.529,-76.975
-03639,Halfway,Washington County,39.621,-77.759
-03170,Friendly,Prince George's County,38.752,-76.979
-05261,Marlton,Prince George's County,38.774,-76.790
-01009,Brandywine,Prince George's County,38.697,-76.848
-05774,Mount Airy,Carroll County,39.375,-77.154
-03247,Garrison,Baltimore County,39.406,-76.761
-02900,Fallston,Harford County,39.515,-76.411
-09228,White Marsh,Baltimore County,39.384,-76.432
-00829,Bladensburg,Prince George's County,38.939,-76.934
-04679,Lansdowne,Baltimore County,39.245,-76.661
-02614,Edgewater,Anne Arundel County,38.957,-76.550
-08192,Stevensville,Queen Anne's County,38.981,-76.314
-05339,Mayo,Anne Arundel County,38.888,-76.512
-03112,Four Corners,Montgomery County,39.020,-77.013
-09401,Woodbine,Carroll County,39.361,-77.062
-01149,Brunswick,Frederick County,39.314,-77.628
-07648,Savage,Howard County,39.138,-76.824
-09417,Woodlawn,Prince George's County,38.950,-76.891
-02887,Fairwood,Prince George's County,38.955,-76.777
-07285,Riverdale Park,Prince George's County,38.963,-76.932
-03184,Frostburg,Allegany County,39.658,-78.928
-09431,Woodstock,Baltimore County,39.329,-76.872
-03058,Forest Glen,Montgomery County,39.015,-77.055
-06248,Ocean City,Worcester County,38.337,-75.085
-01606,Chesapeake Beach,Calvert County,38.686,-76.535
-08956,Walkersville,Frederick County,39.486,-77.352
-03668,Hampstead,Carroll County,39.605,-76.850
-07287,Riverside,Harford County,39.474,-76.241
-08061,Spring Ridge,Frederick County,39.401,-77.352
-07864,Silver Hill,Prince George's County,38.842,-76.946
-03186,Fruitland,Wicomico County,38.322,-75.620
-01611,Chestertown,Kent County,39.209,-76.067
-03376,Goddard,Prince George's County,38.986,-76.853
-05172,Manchester,Carroll County,39.661,-76.885
-00012,Abingdon,Harford County,39.462,-76.279
-03195,Fulton,Howard County,39.151,-76.923
-05519,Middletown,Frederick County,39.444,-77.545
-00702,Berlin,Worcester County,38.323,-75.218
-03669,Hampton,Baltimore County,39.423,-76.585
-08065,Springdale,Prince George's County,38.938,-76.839
-02299,Denton,Caroline County,38.885,-75.827
-09424,Woodmore,Prince George's County,38.921,-76.803
-01525,Centreville,Queen Anne's County,39.042,-76.066
-02234,Deale,Anne Arundel County,38.777,-76.555
-04476,Kingsville,Baltimore County,39.449,-76.418
-06633,Perryville,Cecil County,39.560,-76.071
-04569,La Vale,Allegany County,39.656,-78.811
-01609,Chester,Queen Anne's County,38.975,-76.289
-08377,Sykesville,Carroll County,39.374,-76.968
-06796,Pleasant Hills,Harford County,39.480,-76.394
-06137,North East,Cecil County,39.600,-75.941
-08105,St. James,Washington County,39.563,-77.758
-05442,Melwood,Prince George's County,38.802,-76.842
-04138,Indian Head,Charles County,38.600,-77.162
-02279,Delmar,Wicomico County,38.456,-75.577
-01036,Brentwood,Prince George's County,38.943,-76.957
-03384,Golden Beach,St. Mary's County,38.490,-76.682
-01752,Clover Hill,Frederick County,39.457,-77.427
-04096,Huntingtown,Calvert County,38.616,-76.613
-08811,Van Lear,Washington County,39.536,-77.753
-02941,Federalsburg,Caroline County,38.694,-75.772
-07271,Rising Sun,Cecil County,39.698,-76.063
-03060,Forest Heights,Prince George's County,38.810,-76.998
-04263,Jefferson,Frederick County,39.362,-77.532
-04079,Hughesville,Charles County,38.533,-76.784
-08761,University Park,Prince George's County,38.970,-76.942
-05662,Monrovia,Frederick County,39.372,-77.272
-02488,Dunkirk,Calvert County,38.722,-76.661
-06833,Point of Rocks,Frederick County,39.276,-77.539
-00033,Adamstown,Frederick County,39.311,-77.475
-00503,Bartonsville,Frederick County,39.393,-77.358
-06130,North Beach,Calvert County,38.707,-76.531
-07944,Snow Hill,Worcester County,38.177,-75.393
-01483,Cedar Heights,Prince George's County,38.903,-76.908
-04971,Long Beach,Calvert County,38.461,-76.469
-02226,Dayton,Howard County,39.294,-77.069
-04406,Kensington,Montgomery County,39.026,-77.076
-09305,Williamsport,Washington County,39.601,-77.821
-07011,Queensland,Prince George's County,38.793,-76.791
-03542,Greensboro,Caroline County,38.974,-75.805
-05422,Mechanicsville,St. Mary's County,38.443,-76.744
-02333,Dickerson,Montgomery County,39.220,-77.424
-00407,Baden,Prince George's County,38.659,-76.778
-06234,Oakland,Garrett County,39.408,-79.407
-05871,Myersville,Frederick County,39.505,-77.566
-04475,Kingstown,Queen Anne's County,39.205,-76.051
-02305,Derwood,Montgomery County,39.117,-77.161
-07369,Romancoke,Queen Anne's County,38.881,-76.336
-07242,Ridgely,Caroline County,38.948,-75.884
-06769,Pittsville,Wicomico County,38.395,-75.413
-06009,New Market,Frederick County,39.383,-77.269
-03671,Hancock,Washington County,39.699,-78.180
-00617,Bel Air,Allegany County,39.573,-78.850
-01568,Charlestown,Cecil County,39.574,-75.975
-08036,Spencerville,Montgomery County,39.114,-76.978
-06043,New Windsor,Carroll County,39.542,-77.108
-01297,Callaway,St. Mary's County,38.238,-76.519
-07008,Queen Anne,Prince George's County,38.899,-76.678
-00970,Bowling Green,Allegany County,39.624,-78.804
-03212,Galesville,Anne Arundel County,38.843,-76.544
-05738,Morningside,Prince George's County,38.830,-76.891
-08618,Trappe,Talbot County,38.658,-76.058
-07967,Somerset,Montgomery County,38.966,-77.096
-09428,Woodsboro,Frederick County,39.533,-77.315
-03814,Hebron,Wicomico County,38.420,-75.688
-05809,Mount Vernon,Somerset County,38.245,-75.822
-08121,St. Michaels,Talbot County,38.785,-76.224
-00116,Algonquin,Dorchester County,38.583,-76.106
-01465,Cavetown,Washington County,39.644,-77.586
-03479,Grantsville,Garrett County,39.695,-79.151
-02604,Eden,Somerset County,38.281,-75.651
-01660,Church Hill,Queen Anne's County,39.141,-75.986
-06906,Potomac Park,Allegany County,39.612,-78.806
-07012,Queenstown,Queen Anne's County,38.991,-76.158
-07780,Sharptown,Wicomico County,38.543,-75.719
-06955,Preston,Caroline County,38.713,-75.910
-01499,Cedarville,Prince George's County,38.663,-76.802
-05804,Mount Savage,Allegany County,39.696,-78.880
-06437,Oxford,Talbot County,38.687,-76.172
-05773,Mount Aetna,Washington County,39.602,-77.624
-07778,Sharpsburg,Washington County,39.458,-77.749
-02700,Ellerslie,Allegany County,39.721,-78.774
-00792,Bishopville,Worcester County,38.443,-75.194
-05570,Millington,Kent County,39.257,-75.842
-02879,Fairplay,Washington County,39.536,-77.748
-03209,Galena,Kent County,39.341,-75.879
-08102,St. George Island,St. Mary's County,38.120,-76.484
-02875,Fairlee,Kent County,39.223,-76.172
-05523,Midland,Allegany County,39.590,-78.950
-06849,Pomfret,Charles County,38.577,-77.031
-00587,Beaver Creek,Washington County,39.584,-77.642
-04824,Lewistown,Frederick County,39.538,-77.416
-00501,Barton,Allegany County,39.531,-79.018
-02195,Danville,Allegany County,39.506,-78.928
-03172,Friendsville,Garrett County,39.664,-79.405
-00125,Allen,Wicomico County,38.287,-75.688
-07085,Rawlings,Allegany County,39.535,-78.883
-02877,Fairmount,Somerset County,38.090,-75.817
-06047,Newark,Worcester County,38.251,-75.291
-03171,Friendship,Anne Arundel County,38.737,-76.589
-01715,Clear Spring,Washington County,39.656,-77.932
-05526,Midlothian,Allegany County,39.634,-78.950
-05887,Nanticoke,Wicomico County,38.272,-75.905
-01551,Chance,Somerset County,38.172,-75.941
-02429,Downsville,Washington County,39.548,-77.802
-00016,Accident,Garrett County,39.629,-79.320
-03324,Gilmore,Allegany County,39.583,-78.950
-01937,Cordova,Talbot County,38.876,-75.996
-02253,Deer Park,Garrett County,39.424,-79.325
-05753,Moscow,Allegany County,39.544,-79.005
-03021,Flintstone,Allegany County,39.703,-78.568
-07400,Rosemont,Frederick County,39.329,-77.622
-03343,Glen Echo,Montgomery County,38.969,-77.142
-08874,Vienna,Dorchester County,38.485,-75.825
-06794,Pleasant Grove,Allegany County,39.678,-78.683
-05221,Mapleville,Washington County,39.539,-77.647
-03543,Greensburg,Washington County,39.681,-77.562
-07004,Quantico,Wicomico County,38.374,-75.742
-02611,Edgemont,Washington County,39.677,-77.547
-03388,Goldsboro,Caroline County,39.034,-75.787
-00869,Bloomington,Garrett County,39.480,-79.071
-07008,Queen Anne,Queen Anne's County,38.919,-75.954
-03418,Gorman,Garrett County,39.295,-79.346
-00468,Barclay,Queen Anne's County,39.144,-75.864
-05290,Marydel,Caroline County,39.113,-75.746
-02991,Fishing Creek,Dorchester County,38.322,-76.224
-03133,Franklin,Allegany County,39.498,-79.046
-04332,Jugtown,Washington County,39.612,-77.594
-07607,Sandy Hook,Washington County,39.326,-77.711
-01573,Charlton,Washington County,39.634,-77.894
-07260,Ringgold,Washington County,39.709,-77.567
-04504,Klondike,Allegany County,39.609,-78.963
-03834,Henderson,Caroline County,39.074,-75.766
-05132,Madison,Dorchester County,38.512,-76.220
-00477,Barnesville,Montgomery County,39.221,-77.377
-06859,Pondsville,Washington County,39.623,-77.592
-09312,Williston,Caroline County,38.831,-75.851
-07319,Rock Point,Charles County,38.272,-76.841
-06921,Powellville,Wicomico County,38.329,-75.375
-00677,Benedict,Charles County,38.509,-76.680
-03931,Hillsboro,Caroline County,38.917,-75.939
-03900,Highland Beach,Anne Arundel County,38.930,-76.466
-04273,Jennings,Garrett County,39.646,-79.183
-04107,Hutton,Garrett County,39.414,-79.479
-00759,Big Spring,Washington County,39.629,-77.939
-05904,National,Allegany County,39.609,-78.940
-02882,Fairview,Washington County,39.712,-77.843
-05511,Middleburg,Washington County,39.642,-77.553
-04146,Indian Springs,Washington County,39.646,-78.002
-06298,Oldtown,Allegany County,39.541,-78.611
-02523,Eagle Harbor,Prince George's County,38.568,-76.686
-07148,Reid,Washington County,39.712,-77.679
-01382,Carlos,Allegany County,39.623,-78.957
-06869,Poplar Springs,Howard County,39.343,-77.096
-02221,Dawson,Allegany County,39.478,-78.944
-01116,Brookview,Dorchester County,38.575,-75.796
-00491,Barrelville,Allegany County,39.702,-78.843
-02666,Eldorado,Dorchester County,38.584,-75.789
-08213,Stockton,Worcester County,38.054,-75.410
-04889,Lisbon,Howard County,39.336,-77.071
-01135,Brownsville,Washington County,39.382,-77.660
-00425,Bakersville,Washington County,39.515,-77.757
-02166,Daisy,Howard County,39.294,-77.069
-09030,Waterview,Wicomico County,38.247,-75.903
-09411,Woodland,Allegany County,39.608,-78.951
-02675,Elliott,Dorchester County,38.310,-75.996
-00006,Abell,St. Mary's County,38.254,-76.744
-00086,Alberton,Howard County,39.316,-76.814
-00153,Alpha,Howard County,39.321,-76.928
-00161,Altamont,Garrett County,39.428,-79.282
-00248,Appleton,Cecil County,39.698,-75.814
-00266,Ardmore,Prince George's County,38.933,-76.852
-00330,Ashton,Montgomery County,39.149,-77.012
-00388,Avondale,Prince George's County,38.949,-76.975
-00433,Baldwin,Baltimore County,39.495,-76.470
-00445,Balmoral,Frederick County,39.421,-77.301
-00497,Barstow,Calvert County,38.527,-76.615
-00537,Bay View,Cecil County,39.643,-75.961
-00560,Beallsville,Montgomery County,39.179,-77.413
-00649,Bellevue,Talbot County,38.703,-76.184
-00678,Benevola,Washington County,39.546,-77.676
-00688,Benson,Harford County,39.505,-76.386
-00688,Benson,Howard County,39.274,-76.951
-00700,Berkley,Harford County,39.661,-76.209
-00731,Bethlehem,Caroline County,38.746,-75.944
-00734,Beulah,Dorchester County,38.678,-75.899
-00736,Beverley Beach,Anne Arundel County,38.875,-76.508
-00785,Birdsville,Anne Arundel County,38.900,-76.591
-00791,Bishop,Worcester County,38.428,-75.221
-00796,Bittinger,Garrett County,39.602,-79.223
-00950,Boring,Baltimore County,39.531,-76.823
-00995,Bradshaw,Baltimore County,39.423,-76.381
-01078,Bristol,Anne Arundel County,38.792,-76.672
-01083,Broad Run,Frederick County,39.394,-77.597
-01179,Bucktown,Dorchester County,38.459,-76.031
-01239,Burrsville,Caroline County,38.894,-75.729
-01248,Butler,Baltimore County,39.535,-76.728
-01302,Calvert,Cecil County,39.700,-75.983
-01307,Cambria,Harford County,39.711,-76.349
-01373,Cardiff,Harford County,39.717,-76.338
-01402,Carrolltowne,Carroll County,39.391,-76.930
-01444,Castleton,Harford County,39.675,-76.215
-01497,Cedartown,Worcester County,38.196,-75.304
-01513,Centre Village,Howard County,39.212,-76.867
-01569,Charlesville,Frederick County,39.488,-77.429
-01575,Chase,Baltimore County,39.362,-76.369
-01588,Cheltenham,Prince George's County,38.736,-76.826
-01599,Cherry Hill,Cecil County,39.663,-75.853
-01612,Chesterville,Kent County,39.276,-75.916
-01628,Childs,Cecil County,39.646,-75.872
-01663,Churchville,Harford County,39.560,-76.250
-01673,Claiborne,Talbot County,38.837,-76.278
-01695,Clarkson,Howard County,39.298,-76.936
-01697,Clarksville,Howard County,39.206,-76.943
-01709,Clayton,Harford County,39.450,-76.355
-01727,Clements,St. Mary's County,38.326,-76.727
-01799,Cokesbury,Somerset County,38.127,-75.579
-01861,Compton,St. Mary's County,38.275,-76.693
-01907,Cooksville,Howard County,39.318,-77.020
-01929,Copperville,Carroll County,39.634,-77.154
-01929,Copperville,Talbot County,38.825,-76.171
-02056,Creswell,Harford County,39.508,-76.270
-02111,Crystal Beach,Cecil County,39.442,-75.975
-02178,Dameron,St. Mary's County,38.152,-76.369
-02195,Danville,Prince George's County,38.685,-76.922
-02204,Darlington,Harford County,39.639,-76.203
-02222,Dawsonville,Montgomery County,39.128,-77.343
-02247,Deep Run,Carroll County,39.685,-76.990
-02300,Dentsville,Charles County,38.482,-76.892
-02311,Detour,Carroll County,39.604,-77.268
-02332,Dickens,Allegany County,39.707,-78.693
-02375,Doe Run,Wicomico County,38.305,-75.593
-02389,Doncaster,Charles County,38.498,-77.211
-02389,Doncaster,Talbot County,38.784,-76.132
-02407,Dorsey,Howard County,39.177,-76.743
-02408,Dorseyville,Howard County,39.261,-77.037
-02422,Dowell,Calvert County,38.350,-76.458
-02460,Dublin,Harford County,39.651,-76.267
-02708,Elysville,Howard County,39.317,-76.813
-02806,Essex,Baltimore County,39.309,-76.475
-02845,Ewell,Somerset County,37.996,-76.033
-02871,Fairhaven,Anne Arundel County,38.744,-76.558
-02871,Fairhaven,Carroll County,39.377,-76.971
-02871,Fairhaven,Frederick County,39.540,-77.257
-02882,Fairview,Anne Arundel County,39.154,-76.496
-02882,Fairview,Garrett County,39.593,-79.146
-02882,Fairview,Harford County,39.581,-76.421
-02882,Fairview,Montgomery County,39.114,-76.953
-02893,Faulkner,Charles County,38.439,-76.978
-03027,Florence,Howard County,39.310,-77.109
-03071,Fork,Baltimore County,39.468,-76.442
-03105,Fountain Green,Harford County,39.547,-76.314
-03138,Franklinville,Baltimore County,39.448,-76.385
-03147,Fredericktown,Cecil County,39.366,-75.884
-03153,Freeland,Baltimore County,39.705,-76.684
-03163,Frenchtown,Cecil County,39.575,-76.082
-03171,Friendship,Worcester County,38.372,-75.211
-03194,Fullerton,Baltimore County,39.372,-76.511
-03251,Gary,Howard County,39.260,-77.009
-03278,George's Creek,Allegany County,39.698,-78.853
-03279,Georgetown,Kent County,39.362,-75.880
-03288,Germantown,Anne Arundel County,38.892,-76.523
-03288,Germantown,Baltimore County,39.417,-76.459
-03288,Germantown,Worcester County,38.308,-75.210
-03313,Guilford,Howard County,39.170,-76.831
-03351,Glencoe,Baltimore County,39.549,-76.635
-03367,Glenwood,Harford County,39.515,-76.322
-03367,Glenwood,Howard County,39.287,-77.028
-03375,Glyndon,Baltimore County,39.477,-76.814
-03408,Goodwill,Worcester County,38.071,-75.492
-03413,Gordon,Howard County,39.211,-76.886
-03471,Granite,Baltimore County,39.343,-76.856
-03518,Green Meadows,Prince George's County,38.968,-76.979
-03540,Greenmount,Carroll County,39.631,-76.862
-03579,Grove,Caroline County,38.749,-75.877
-03707,Harmony,Caroline County,38.779,-75.880
-03711,Harney,Carroll County,39.714,-77.207
-03730,Harrisville,Cecil County,39.696,-76.081
-03754,Harwood,Anne Arundel County,38.865,-76.620
-03821,Helen,St. Mary's County,38.383,-76.722
-03850,Hereford,Baltimore County,39.589,-76.663
-03873,Hickman,Caroline County,38.833,-75.723
-03874,Hickory,Harford County,39.579,-76.345
-03898,High Ridge,Howard County,39.118,-76.861
-03899,Highland,Howard County,39.179,-76.958
-03931,Hillsborough,Prince George's County,39.119,-76.896
-03939,Hilton,Howard County,39.255,-76.821
-03951,Hynson,Caroline County,38.703,-75.858
-03959,Hobbs,Caroline County,38.861,-75.784
-03987,Hollywood,St. Mary's County,38.345,-76.569
-04024,Hopewell,Howard County,39.180,-76.836
-04024,Hopewell,Somerset County,38.006,-75.818
-04024,Hopewell,St. Mary's County,38.315,-76.482
-04093,Huntersville,St. Mary's County,38.469,-76.730
-04122,Ijamsville,Frederick County,39.361,-77.323
-04164,Ingleside,Queen Anne's County,39.092,-75.877
-04183,Inwood,Howard County,39.306,-77.021
-04200,Ironsides,Charles County,38.492,-77.160
-04239,Jacobsville,Anne Arundel County,39.121,-76.517
-04273,Jennings,Anne Arundel County,39.090,-76.563
-04280,Jerusalem,Harford County,39.463,-76.389
-04304,Johnstown,Calvert County,38.329,-76.464
-04305,Johnsville,Frederick County,39.534,-77.231
-04316,Jonestown,Howard County,39.222,-76.808
-04408,Kentland,Prince George's County,38.924,-76.880
-04439,Keysville,Carroll County,39.634,-77.259
-04474,Kingston,Somerset County,38.074,-75.728
-04523,Knoxville,Frederick County,39.327,-77.664
-04594,Lake,Baltimore County,39.391,-76.641
-04664,Lander,Frederick County,39.309,-77.559
-04674,Langford,Kent County,39.188,-76.141
-04677,Lanham,Prince George's County,38.969,-76.862
-04814,Level,Harford County,39.580,-76.193
-04821,Lewis Corner,Worcester County,38.290,-75.151
-04824,Lewistown,Talbot County,38.845,-75.948
-04833,Liberty Grove,Cecil County,39.656,-76.120
-04860,Lynch,Kent County,39.295,-76.063
-04887,Linwood,Carroll County,39.563,-77.143
-04887,Linwood,Howard County,39.277,-76.805
-04924,Lloyds,Dorchester County,38.590,-76.183
-05037,Loveville,St. Mary's County,38.362,-76.683
-05117,McKenzie,Allegany County,39.567,-78.829
-05129,Maddox,St. Mary's County,38.333,-76.812
-05160,Malcolm,Charles County,38.617,-76.787
-05229,Marbury,Charles County,38.575,-77.156
-05251,Marion Station,Somerset County,38.039,-75.771
-05302,Massey,Kent County,39.310,-75.825
-05310,Matthews,Talbot County,38.816,-75.953
-05329,Mayberry,Carroll County,39.641,-77.099
-05381,McHenry,Garrett County,39.558,-79.353
-05416,Meadows,Prince George's County,38.816,-76.849
-05443,Melrose,Carroll County,39.690,-76.898
-05492,Mexico,Allegany County,39.604,-78.743
-05492,Mexico,Carroll County,39.601,-76.944
-05511,Middleburg,Carroll County,39.594,-77.213
-05558,Millers,Carroll County,39.671,-76.851
-05654,Monkton,Baltimore County,39.579,-76.616
-05686,Montpelier,Prince George's County,39.062,-76.851
-05730,Morgantown,Charles County,38.345,-76.971
-05732,Morganza,St. Mary's County,38.375,-76.696
-05870,Mutual,Calvert County,38.471,-76.548
-06007,New London,Frederick County,39.422,-77.253
-06010,New Mexico,Carroll County,39.603,-76.949
-06048,Newburg,Charles County,38.377,-76.953
-06052,Newcomb,Talbot County,38.754,-76.176
-06065,Newport,Charles County,38.419,-76.903
-06134,North Branch,Allegany County,39.589,-78.732
-06189,Norwood,Montgomery County,39.125,-77.028
-06191,Nottingham,Baltimore County,39.364,-76.452
-06234,Oakland,Caroline County,38.989,-75.876
-06237,Oakley,St. Mary's County,38.273,-76.740
-06242,Oakville,St. Mary's County,38.391,-76.644
-06243,Oakwood,Cecil County,39.699,-76.180
-06247,Ocean,Allegany County,39.603,-78.944
-06264,Oella,Baltimore County,39.269,-76.783
-06273,Oil City,Caroline County,38.905,-75.815
-06346,Oraville,St. Mary's County,38.418,-76.694
-06352,Oregon,Baltimore County,39.497,-76.686
-06359,Oriole,Somerset County,38.173,-75.808
-06365,Orme,Prince George's County,38.642,-76.766
-06432,Owensville,Anne Arundel County,38.736,-76.644
-06512,Parkton,Baltimore County,39.641,-76.659
-06597,Pen Mar,Washington County,39.718,-77.506
-06645,Petersville,Frederick County,39.346,-77.611
-06672,Phoenix,Baltimore County,39.516,-76.616
-06752,Pinto,Allegany County,39.570,-78.839
-06758,Piscataway,Prince George's County,38.701,-76.972
-06759,Pisgah,Charles County,38.546,-77.135
-06806,Pleasant Valley,Allegany County,39.710,-78.641
-06806,Pleasant Valley,Calvert County,38.667,-76.603
-06806,Pleasant Valley,Carroll County,39.633,-77.046
-06850,Pomona,Kent County,39.162,-76.110
-06881,Port Republic,Calvert County,38.501,-76.529
-06958,Price,Queen Anne's County,39.097,-75.959
-06981,Providence,Cecil County,39.690,-75.876
-07161,Rehobeth,Somerset County,38.039,-75.663
-07166,Reliance,Caroline County,38.635,-75.706
-07235,Ridge,St. Mary's County,38.119,-76.374
-07269,Ripley,Charles County,38.545,-77.078
-07272,Rison,Charles County,38.549,-77.177
-07287,Riverside,Charles County,38.388,-77.146
-07350,Rocky Ridge,Frederick County,39.605,-77.317
-07443,Royal Oak,Talbot County,38.742,-76.178
-07642,Sassafras,Kent County,39.373,-75.802
-07686,Scotland,Montgomery County,39.041,-77.159
-07686,Scotland,St. Mary's County,38.094,-76.364
-07737,Seneca,Montgomery County,39.079,-77.339
-07744,Seven Oaks,Anne Arundel County,39.106,-76.708
-07786,Shawsville,Harford County,39.638,-76.555
-07799,Shelltown,Somerset County,37.980,-75.640
-07804,Shepperd,Baltimore County,39.593,-76.569
-07813,Sherwood,Talbot County,38.761,-76.319
-07814,Sherwood Forest,Anne Arundel County,39.028,-76.544
-07814,Sherwood Forest,Frederick County,39.388,-77.236
-07814,Sherwood Forest,Montgomery County,39.079,-77.013
-07814,Sherwood Forest,Worcester County,38.367,-75.151
-07866,Silver Run,Carroll County,39.683,-77.044
-07866,Silver Run,Wicomico County,38.337,-75.651
-07877,Simpsonville,Howard County,39.188,-76.894
-07891,Skidmore,Anne Arundel County,39.021,-76.415
-08001,South River,Anne Arundel County,38.903,-76.561
-08026,Sparks,Baltimore County,39.531,-76.646
-08089,St. Augustine,Cecil County,39.494,-75.809
-08184,Stevenson,Baltimore County,39.410,-76.713
-08316,Sunderland,Calvert County,38.671,-76.598
-08322,Sunny Side,Frederick County,39.344,-77.518
-08358,Swanton,Garrett County,39.459,-79.231
-08429,Taylor,Harford County,39.576,-76.517
-08433,Taylorsville,Carroll County,39.458,-77.087
-08565,Toddville,Dorchester County,38.300,-76.071
-08604,Town Creek,Allegany County,39.526,-78.539
-08659,Trump,Baltimore County,39.682,-76.602
-08695,Tuscarora,Frederick County,39.257,-77.470
-08699,Tuxedo,Prince George's County,38.917,-76.921
-08718,Tylerton,Somerset County,37.968,-76.023
-08746,Union Mills,Carroll County,39.670,-77.025
-08752,Uniontown,Carroll County,39.593,-77.116
-08753,Unionville,Frederick County,39.475,-77.186
-08753,Unionville,Talbot County,38.813,-76.140
-08753,Unionville,Worcester County,38.061,-75.599
-08970,Wallville,Calvert County,38.415,-76.505
-09011,Warwick,Cecil County,39.417,-75.778
-09026,Waterloo,Howard County,39.172,-76.785
-09080,Welcome,Charles County,38.481,-77.096
-09098,Wenona,Somerset County,38.139,-75.950
-09153,West River,Anne Arundel County,38.850,-76.596
-09181,Westover,Somerset County,38.124,-75.706
-09223,White Hall,Baltimore County,39.622,-76.629
-09223,White Hall,Cecil County,39.587,-75.838
-09223,White Hall,Prince George's County,38.686,-76.989
-09233,White Plains,Charles County,38.590,-76.941
-09244,Whiteford,Harford County,39.709,-76.346
-09245,Whitehall,Dorchester County,38.561,-76.013
-09248,Whiteleysburg,Caroline County,38.957,-75.733
-09263,Wittman,Talbot County,38.794,-76.294
-09268,Whiton,Wicomico County,38.289,-75.377
-09334,Wilson,Calvert County,38.603,-76.522
-09334,Wilson,Garrett County,39.432,-79.270
-09349,Wingate,Dorchester County,38.282,-76.082
-09412,Woodland Beach,Anne Arundel County,38.932,-76.553
-09423,Woodmont,Washington County,39.632,-78.304
-09437,Woodyard,Prince George's County,38.786,-76.843
-09526,Zion,Cecil County,39.676,-75.965
+0254,Baltimore,Baltimore city,39.290,-76.612
+1070,Columbia,Howard County,39.240,-76.839
+1902,Germantown,Montgomery County,39.173,-77.272
+4577,Silver Spring,Montgomery County,39.002,-77.021
+1811,Frederick,Frederick County,39.414,-77.411
+5190,Waldorf,Charles County,38.625,-76.939
+4275,Rockville,Montgomery County,39.084,-77.153
+0412,Bethesda,Montgomery County,38.981,-77.100
+0542,Bowie,Prince George's County,38.943,-76.730
+4519,Severn,Anne Arundel County,39.137,-76.698
+5346,Wheaton,Montgomery County,39.040,-77.055
+4017,Potomac,Montgomery County,39.018,-77.209
+2106,Hagerstown,Washington County,39.642,-77.720
+5482,Woodlawn,Baltimore County,39.323,-76.728
+0134,Annapolis,Anne Arundel County,38.978,-76.492
+1012,Clinton,Prince George's County,38.764,-76.896
+3671,Olney,Montgomery County,39.153,-77.067
+1062,College Park,Prince George's County,38.981,-76.937
+4387,Salisbury,Wicomico County,38.361,-75.599
+3807,Pasadena,Anne Arundel County,39.107,-76.571
+3796,Parkville,Baltimore County,39.377,-76.540
+0788,Carney,Baltimore County,39.394,-76.524
+1185,Crofton,Anne Arundel County,39.002,-76.687
+2753,Laurel,Prince George's County,39.099,-76.848
+0979,Clarksburg,Montgomery County,39.239,-77.279
+1781,Fort Washington,Prince George's County,38.707,-77.023
+1654,Fairland,Montgomery County,39.076,-76.958
+0176,Arnold,Anne Arundel County,39.032,-76.503
+1488,Edgewood,Harford County,39.419,-76.294
+0742,Camp Springs,Prince George's County,38.804,-76.907
+3240,Millersville,Anne Arundel County,39.059,-76.648
+4308,Rosedale,Baltimore County,39.320,-76.516
+5330,Westminster,Carroll County,39.575,-76.996
+4492,Seabrook,Prince George's County,38.968,-76.845
+2698,Lake Shore,Anne Arundel County,39.107,-76.485
+1216,Cumberland,Allegany County,39.653,-78.763
+1759,Forest Hill,Harford County,39.585,-76.388
+4154,Redland,Montgomery County,39.145,-77.144
+0732,Calverton,Montgomery County,39.058,-76.951
+1464,Easton,Talbot County,38.774,-76.076
+1704,Ferndale,Anne Arundel County,39.183,-76.640
+2286,Hillcrest Heights,Prince George's County,38.833,-76.959
+0021,Adelphi,Prince George's County,39.003,-76.972
+1245,Damascus,Montgomery County,39.288,-77.204
+0004,Aberdeen,Harford County,39.510,-76.164
+4826,Summerfield,Prince George's County,38.905,-76.868
+1947,Glenmont,Montgomery County,39.058,-77.050
+1543,Elkton,Cecil County,39.607,-75.833
+4322,Rossville,Baltimore County,39.338,-76.480
+0623,Brooklyn Park,Anne Arundel County,39.228,-76.616
+1935,Glenn Dale,Prince George's County,38.988,-76.821
+5361,White Oak,Montgomery County,39.040,-76.993
+1060,Colesville,Montgomery County,39.076,-77.002
+1742,Flower Hill,Montgomery County,39.159,-77.172
+0724,California,St. Mary's County,38.300,-76.507
+2582,Kettering,Prince George's County,38.885,-76.815
+0737,Cambridge,Dorchester County,38.563,-76.079
+2043,Green Valley,Frederick County,39.309,-77.297
+2138,Hanover,Anne Arundel County,39.193,-76.724
+5084,Urbana,Frederick County,39.326,-77.351
+2519,Joppa,Harford County,39.434,-76.358
+3278,Mitchellville,Prince George's County,38.925,-76.743
+4247,Riviera Beach,Anne Arundel County,39.167,-76.508
+2739,Largo,Prince George's County,38.898,-76.830
+1775,Fort Meade,Anne Arundel County,39.106,-76.743
+0340,Bel Air,Harford County,39.536,-76.348
+5335,Westphalia,Prince George's County,38.845,-76.811
+1766,Forestville,Prince George's County,38.845,-76.875
+2493,Jessup,Anne Arundel County,39.149,-76.776
+0551,Boyds,Montgomery County,39.184,-77.313
+2656,La Plata,Charles County,38.529,-76.975
+2112,Halfway,Washington County,39.621,-77.759
+1829,Friendly,Prince George's County,38.752,-76.979
+3064,Marlton,Prince George's County,38.774,-76.790
+0567,Brandywine,Prince George's County,38.697,-76.848
+3372,Mount Airy,Carroll County,39.375,-77.154
+1875,Garrison,Baltimore County,39.406,-76.761
+1674,Fallston,Harford County,39.515,-76.411
+0464,Bladensburg,Prince George's County,38.939,-76.934
+2733,Lansdowne,Baltimore County,39.245,-76.661
+1486,Edgewater,Anne Arundel County,38.957,-76.550
+4765,Stevensville,Queen Anne's County,38.981,-76.314
+3109,Mayo,Anne Arundel County,38.888,-76.512
+1791,Four Corners,Montgomery County,39.020,-77.013
+5469,Woodbine,Carroll County,39.361,-77.062
+0646,Brunswick,Frederick County,39.314,-77.628
+4463,Savage,Howard County,39.138,-76.824
+5482,Woodlawn,Prince George's County,38.950,-76.891
+1663,Fairwood,Prince George's County,38.955,-76.777
+4242,Riverdale Park,Prince George's County,38.963,-76.932
+1756,Forest Glen,Montgomery County,39.015,-77.055
+3633,Ocean City,Worcester County,38.337,-75.085
+2129,Hampstead,Carroll County,39.605,-76.850
+4243,Riverside,Harford County,39.474,-76.241
+4672,Spring Ridge,Frederick County,39.401,-77.352
+1838,Fruitland,Wicomico County,38.322,-75.620
+0934,Chestertown,Kent County,39.209,-76.067
+1956,Goddard,Prince George's County,38.986,-76.853
+3013,Manchester,Carroll County,39.661,-76.885
+0007,Abingdon,Harford County,39.462,-76.279
+1844,Fulton,Howard County,39.151,-76.923
+3215,Middletown,Frederick County,39.444,-77.545
+0397,Berlin,Worcester County,38.323,-75.218
+2130,Hampton,Baltimore County,39.423,-76.585
+4676,Springdale,Prince George's County,38.938,-76.839
+1318,Denton,Caroline County,38.885,-75.827
+5487,Woodmore,Prince George's County,38.921,-76.803
+0876,Centreville,Queen Anne's County,39.042,-76.066
+1278,Deale,Anne Arundel County,38.777,-76.555
+2607,Kingsville,Baltimore County,39.449,-76.418
+3858,Perryville,Cecil County,39.560,-76.071
+2661,La Vale,Allegany County,39.656,-78.811
+0932,Chester,Queen Anne's County,38.975,-76.289
+4873,Sykesville,Carroll County,39.374,-76.968
+3955,Pleasant Hills,Harford County,39.480,-76.394
+3570,North East,Cecil County,39.600,-75.941
+4703,St. James,Washington County,39.563,-77.758
+3170,Melwood,Prince George's County,38.802,-76.842
+1304,Delmar,Wicomico County,38.456,-75.577
+0578,Brentwood,Prince George's County,38.943,-76.957
+1963,Golden Beach,St. Mary's County,38.490,-76.682
+5108,Van Lear,Washington County,39.536,-77.753
+1696,Federalsburg,Caroline County,38.694,-75.772
+4231,Rising Sun,Cecil County,39.698,-76.063
+1758,Forest Heights,Prince George's County,38.810,-76.998
+2482,Jefferson,Frederick County,39.362,-77.532
+2380,Hughesville,Charles County,38.533,-76.784
+5079,University Park,Prince George's County,38.970,-76.942
+3299,Monrovia,Frederick County,39.372,-77.272
+1414,Dunkirk,Calvert County,38.722,-76.661
+3976,Point of Rocks,Frederick County,39.276,-77.539
+0016,Adamstown,Frederick County,39.311,-77.475
+4606,Snow Hill,Worcester County,38.177,-75.393
+2889,Long Beach,Calvert County,38.461,-76.469
+1271,Dayton,Howard County,39.294,-77.069
+2566,Kensington,Montgomery County,39.026,-77.076
+5406,Williamsport,Washington County,39.601,-77.821
+2056,Greensboro,Caroline County,38.974,-75.805
+3159,Mechanicsville,St. Mary's County,38.443,-76.744
+0236,Baden,Prince George's County,38.659,-76.778
+3626,Oakland,Garrett County,39.408,-79.407
+2606,Kingstown,Queen Anne's County,39.205,-76.051
+4296,Romancoke,Queen Anne's County,38.881,-76.336
+4212,Ridgely,Caroline County,38.948,-75.884
+3939,Pittsville,Wicomico County,38.395,-75.413
+3499,New Market,Frederick County,39.383,-77.269
+2132,Hancock,Washington County,39.699,-78.180
+0340,Bel Air,Allegany County,39.573,-78.850
+0899,Charlestown,Cecil County,39.574,-75.975
+4659,Spencerville,Montgomery County,39.114,-76.978
+3518,New Windsor,Carroll County,39.542,-77.108
+0727,Callaway,St. Mary's County,38.238,-76.519
+4081,Queen Anne,Prince George's County,38.899,-76.678
+0544,Bowling Green,Allegany County,39.624,-78.804
+1853,Galesville,Anne Arundel County,38.843,-76.544
+3347,Morningside,Prince George's County,38.830,-76.891
+5002,Trappe,Talbot County,38.658,-76.058
+4623,Somerset,Montgomery County,38.966,-77.096
+5489,Woodsboro,Frederick County,39.533,-77.315
+2224,Hebron,Wicomico County,38.420,-75.688
+3390,Mount Vernon,Somerset County,38.245,-75.822
+4719,St. Michaels,Talbot County,38.785,-76.224
+0067,Algonquin,Dorchester County,38.583,-76.106
+2015,Grantsville,Garrett County,39.695,-79.151
+1481,Eden,Somerset County,38.281,-75.651
+0958,Church Hill,Queen Anne's County,39.141,-75.986
+4083,Queenstown,Queen Anne's County,38.991,-76.158
+4047,Preston,Caroline County,38.713,-75.910
+0858,Cedarville,Prince George's County,38.663,-76.802
+3747,Oxford,Talbot County,38.687,-76.172
+3371,Mount Aetna,Washington County,39.602,-77.624
+4530,Sharpsburg,Washington County,39.458,-77.749
+1547,Ellerslie,Allegany County,39.721,-78.774
+0445,Bishopville,Worcester County,38.443,-75.194
+3245,Millington,Kent County,39.257,-75.842
+1659,Fairplay,Washington County,39.536,-77.748
+1851,Galena,Kent County,39.341,-75.879
+4700,St. George Island,St. Mary's County,38.120,-76.484
+1656,Fairlee,Kent County,39.223,-76.172
+3217,Midland,Allegany County,39.590,-78.950
+3987,Pomfret,Charles County,38.577,-77.031
+0328,Beaver Creek,Washington County,39.584,-77.642
+2806,Lewistown,Frederick County,39.538,-77.416
+0283,Barton,Allegany County,39.531,-79.018
+1256,Danville,Allegany County,39.506,-78.928
+1831,Friendsville,Garrett County,39.664,-79.405
+0071,Allen,Wicomico County,38.287,-75.688
+4127,Rawlings,Allegany County,39.535,-78.883
+1658,Fairmount,Somerset County,38.090,-75.817
+3521,Newark,Worcester County,38.251,-75.291
+1830,Friendship,Anne Arundel County,38.737,-76.589
+3218,Midlothian,Allegany County,39.634,-78.950
+3430,Nanticoke,Wicomico County,38.272,-75.905
+0888,Chance,Somerset County,38.172,-75.941
+1381,Downsville,Washington County,39.548,-77.802
+1926,Gilmore,Allegany County,39.583,-78.950
+1115,Cordova,Talbot County,38.876,-75.996
+1291,Deer Park,Garrett County,39.424,-79.325
+3362,Moscow,Allegany County,39.544,-79.005
+1734,Flintstone,Allegany County,39.703,-78.568
+4311,Rosemont,Frederick County,39.329,-77.622
+5143,Vienna,Dorchester County,38.485,-75.825
+3953,Pleasant Grove,Allegany County,39.678,-78.683
+4077,Quantico,Wicomico County,38.374,-75.742
+1967,Goldsboro,Caroline County,39.034,-75.787
+0484,Bloomington,Garrett County,39.480,-79.071
+4081,Queen Anne,Queen Anne's County,38.919,-75.954
+1982,Gorman,Garrett County,39.295,-79.346
+0263,Barclay,Queen Anne's County,39.144,-75.864
+3082,Marydel,Caroline County,39.113,-75.746
+1804,Franklin,Allegany County,39.498,-79.046
+4433,Sandy Hook,Washington County,39.326,-77.711
+2622,Klondike,Allegany County,39.609,-78.963
+2233,Henderson,Caroline County,39.074,-75.766
+2988,Madison,Dorchester County,38.512,-76.220
+0270,Barnesville,Montgomery County,39.221,-77.377
+5413,Williston,Caroline County,38.831,-75.851
+4262,Rock Point,Charles County,38.272,-76.841
+4027,Powellville,Wicomico County,38.329,-75.375
+0380,Benedict,Charles County,38.509,-76.680
+2291,Hillsboro,Caroline County,38.917,-75.939
+2274,Highland Beach,Anne Arundel County,38.930,-76.466
+2487,Jennings,Garrett County,39.646,-79.183
+2415,Indian Springs,Washington County,39.646,-78.002
+3661,Oldtown,Allegany County,39.541,-78.611
+1437,Eagle Harbor,Prince George's County,38.568,-76.686
+3996,Poplar Springs,Howard County,39.343,-77.096
+1523,Eldorado,Dorchester County,38.584,-75.789
+4779,Stockton,Worcester County,38.054,-75.410
+2848,Lisbon,Howard County,39.336,-77.071
+0637,Brownsville,Washington County,39.382,-77.660
+0248,Bakersville,Washington County,39.515,-77.757
+1237,Daisy,Howard County,39.294,-77.069
+1529,Elliott,Dorchester County,38.310,-75.996
+0095,Altamont,Garrett County,39.428,-79.282
+0280,Barstow,Calvert County,38.527,-76.615
+0315,Beallsville,Montgomery County,39.179,-77.413
+0387,Benson,Harford County,39.505,-76.386
+0413,Bethlehem,Caroline County,38.746,-75.944
+0416,Beverley Beach,Anne Arundel County,38.875,-76.508
+0531,Boring,Baltimore County,39.531,-76.823
+0603,Bristol,Anne Arundel County,38.792,-76.672
+0607,Broad Run,Frederick County,39.394,-77.597
+0700,Butler,Baltimore County,39.535,-76.728
+0731,Calvert,Cecil County,39.700,-75.983
+0775,Cardiff,Harford County,39.717,-76.338
+0797,Carrolltowne,Carroll County,39.391,-76.930
+0915,Cheltenham,Prince George's County,38.736,-76.826
+0935,Chesterville,Kent County,39.276,-75.916
+0968,Claiborne,Talbot County,38.837,-76.278
+0983,Clarksville,Howard County,39.206,-76.943
+1205,Crystal Beach,Cecil County,39.442,-75.975
+1400,Dublin,Harford County,39.651,-76.267
+1554,Elysville,Howard County,39.317,-76.813
+1668,Faulkner,Charles County,38.439,-76.978
+1737,Florence,Howard County,39.310,-77.109
+1813,Fredericktown,Cecil County,39.366,-75.884
+1843,Fullerton,Baltimore County,39.372,-76.511
+1898,Georgetown,Kent County,39.362,-75.880
+2010,Granite,Baltimore County,39.343,-76.856
+2037,Green Meadows,Prince George's County,38.968,-76.979
+2153,Harmony,Caroline County,38.779,-75.880
+2154,Harney,Carroll County,39.714,-77.207
+2183,Harwood,Anne Arundel County,38.865,-76.620
+2241,Hereford,Baltimore County,39.589,-76.663
+2297,Hilton,Howard County,39.255,-76.821
+2328,Hollywood,St. Mary's County,38.345,-76.569
+2424,Ingleside,Queen Anne's County,39.092,-75.877
+2433,Inwood,Howard County,39.306,-77.021
+2509,Johnsville,Frederick County,39.534,-77.231
+2516,Jonestown,Howard County,39.222,-76.808
+2568,Kentland,Prince George's County,38.924,-76.880
+2605,Kingston,Somerset County,38.074,-75.728
+2631,Knoxville,Frederick County,39.327,-77.664
+2825,Lynch,Kent County,39.295,-76.063
+2930,Loveville,St. Mary's County,38.362,-76.683
+2980,McKenzie,Allegany County,39.567,-78.829
+3003,Malcolm,Charles County,38.617,-76.787
+3047,Marbury,Charles County,38.575,-77.156
+3058,Marion Station,Somerset County,38.039,-75.771
+3293,Monkton,Baltimore County,39.579,-76.616
+3316,Montpelier,Prince George's County,39.062,-76.851
+3342,Morgantown,Charles County,38.345,-76.971
+3344,Morganza,St. Mary's County,38.375,-76.696
+3522,Newburg,Charles County,38.377,-76.953
+3601,Norwood,Montgomery County,39.125,-77.028
+3602,Nottingham,Baltimore County,39.364,-76.452
+3795,Parkton,Baltimore County,39.641,-76.659
+3867,Petersville,Frederick County,39.346,-77.611
+3880,Phoenix,Baltimore County,39.516,-76.616
+3928,Piscataway,Prince George's County,38.701,-76.972
+4003,Port Republic,Calvert County,38.501,-76.529
+4208,Ridge,St. Mary's County,38.119,-76.374
+4232,Rison,Charles County,38.549,-77.177
+4283,Rocky Ridge,Frederick County,39.605,-77.317
+4481,Scotland,Montgomery County,39.041,-77.159
+4481,Scotland,St. Mary's County,38.094,-76.364
+4511,Seneca,Montgomery County,39.079,-77.339
+4516,Seven Oaks,Anne Arundel County,39.106,-76.708
+4551,Sherwood Forest,Anne Arundel County,39.028,-76.544
+4551,Sherwood Forest,Montgomery County,39.079,-77.013
+4583,Simpsonville,Howard County,39.188,-76.894
+4654,Sparks,Baltimore County,39.531,-76.646
+4760,Stevenson,Baltimore County,39.410,-76.713
+4839,Sunderland,Calvert County,38.671,-76.598
+5039,Tuscarora,Frederick County,39.257,-77.470
+5043,Tuxedo,Prince George's County,38.917,-76.921
+5074,Unionville,Frederick County,39.475,-77.186
+5074,Unionville,Talbot County,38.813,-76.140
+5238,Waterloo,Howard County,39.172,-76.785
+5271,Welcome,Charles County,38.481,-77.096
+5334,Westover,Somerset County,38.124,-75.706
+5363,White Plains,Charles County,38.590,-76.941
