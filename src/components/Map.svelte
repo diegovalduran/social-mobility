@@ -44,12 +44,12 @@
 	export let scaleTypeWiki = "scalePow";
 	export let scaleTypeDist = "scaleLog";
 
-	export let scaleExpPop = "0.67";
-	export let scaleExpWiki = "0.67";
+	export let scaleExpPop = "0.5";
+	export let scaleExpWiki = "0.5";
 	export let scaleExpDist = "1";
 
-	export let scaleBoundsPop = [0, 19677151];
-	export let scaleBoundsWiki = [0, 95406];
+	export let scaleBoundsPop = [0, 22933531];
+	export let scaleBoundsWiki = [0, 96911];
 	export let scaleBoundsDist = [50, 200];
 
 	export let valueWeightDist = "2";

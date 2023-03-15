@@ -96,7 +96,38 @@ function makeClassics() {
 	fs.writeFileSync("./src/data/classics.csv", d3.csvFormat(classics));
 }
 
-makePlaces();
-makeOptions();
-makeCoordinates();
-makeClassics();
+function makeStats() {
+	const pops = places.map((d) => d.population);
+	const wikis = places.map((d) => d.wiki);
+
+	pops.sort(d3.descending);
+	wikis.sort(d3.descending);
+	const iP = Math.floor(pops.length * 0.001);
+	const iW = Math.floor(wikis.length * 0.001);
+	console.log(".1 pop all", pops[iP]);
+	console.log(".1 wiki all", wikis[iW]);
+
+	// const popsF = pops.filter((d) => d);
+	// const wikisF = wikis.filter((d) => d);
+
+	// const indexPA = Math.floor(pops.length * 0.01);
+	// const indexWA = Math.floor(wikis.length * 0.01);
+
+	// const indexPC = Math.floor(popsF.length * 0.01);
+	// const indexPD = Math.floor(popsF.length * 0.001);
+	// const indexWC = Math.floor(wikisF.length * 0.01);
+	// const indexWD = Math.floor(wikisF.length * 0.001);
+
+	// console.log("1 pop all", format(",")(pops[indexPA]));
+	// console.log("1 pop filtered", format(",")(popsF[indexPC]));
+	// console.log(".1 pop filtered", format(",")(popsF[indexPD]));
+	// console.log("1 wiki all", format(",")(wikis[indexWA]));
+	// console.log("1 wiki filtered", format(",")(wikisF[indexWC]));
+	// console.log(".1 wiki filtered", format(",")(wikisF[indexWD]));
+}
+
+// makePlaces();
+// makeOptions();
+// makeCoordinates();
+// makeClassics();
+makeStats();

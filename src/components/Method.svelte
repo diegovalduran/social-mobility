@@ -3,7 +3,7 @@
 	import { base } from "$app/paths";
 
 	import { onMount, getContext } from "svelte";
-	import { csv, descending } from "d3";
+	import { csv, descending, format } from "d3";
 	import Select from "$components/Select.svelte";
 	import Map from "$components/Map.svelte";
 	import Scale from "$components/Method.Scale.svelte";
@@ -12,7 +12,6 @@
 	import Footer from "$components/Footer.svelte";
 	import loadUSData from "$data/loadUSData.js";
 	import options from "$data/options.csv";
-	// import test from "$data/test.csv";
 
 	const copy = getContext("copy");
 	const data = getContext("data");
@@ -25,8 +24,8 @@
 	let scaleExpWiki = "0.5";
 	let scaleExpDist = "1";
 
-	let scaleBoundsPop = [0, 19677151];
-	let scaleBoundsWiki = [0, 95406];
+	let scaleBoundsPop = [0, 22933531];
+	let scaleBoundsWiki = [0, 96911];
 	let scaleBoundsDist = [50, 200];
 
 	let valueWeightDist = 2;
@@ -45,25 +44,6 @@
 	let nationMesh;
 	let currentPhoneme;
 	let currentName;
-
-	// const clean = test.map((d) => ({
-	// 	population: +d.population,
-	// 	wiki: +d.wiki_length
-	// }));
-
-	// const pops = clean.map((d) => d.population).filter((d) => d);
-	// const wikis = clean.map((d) => d.wiki).filter((d) => d);
-
-	// pops.sort(descending);
-	// wikis.sort(descending);
-
-	// const len = pops.length;
-	// const one = Math.floor(len * 0.01);
-	// const pointone = Math.floor(len * 0.001);
-	// console.log(pops[pointone]);
-	// console.log(pops[one]);
-	// console.log(wikis[pointone]);
-	// console.log(wikis[one]);
 
 	$: if (browser && currentPhoneme)
 		(async () =>
