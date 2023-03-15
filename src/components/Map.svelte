@@ -26,6 +26,7 @@
 	import PlaceTable from "$components/PlaceTable.svelte";
 	import addDataToCounties from "$data/addDataToCounties.js";
 	import mq from "$stores/mq.js";
+	import viewport from "$stores/viewport.js";
 	import variables from "$data/variables.json";
 
 	export let counties;

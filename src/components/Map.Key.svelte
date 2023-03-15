@@ -81,10 +81,6 @@
 		justify-content: center;
 	}
 
-	ul.others {
-		justify-content: flex-start;
-	}
-
 	.top li {
 		font-weight: bold;
 		margin-right: 16px;

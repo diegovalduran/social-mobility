@@ -17,12 +17,15 @@
 	import Tip from "$components/Tip.svelte";
 	import options from "$data/options.csv";
 	import classics from "$data/classics.csv";
+	import viewport from "$stores/viewport.js";
 
 	const removeStorage = true;
 	const testLocate = false;
 
 	const copy = getContext("copy");
 	const data = getContext("data");
+
+	const ASPECT_RATIO = 975 / 610;
 
 	let currentPhoneme;
 	let currentName;
@@ -36,6 +39,7 @@
 	let countiesMesh;
 	let statesMesh;
 	let nationMesh;
+	let clientWidth;
 
 	function onChangePlace({ name, phoneme }) {
 		open = false;
@@ -86,6 +90,9 @@
 
 	$: shareUrl = `${$page.url}?place=${encodeURIComponent(currentName)}`;
 	$: summarySuffix = location?.state ? "places near you" : "curated places.";
+
+	$: interactiveHeight = (clientWidth / ASPECT_RATIO) * 1.25;
+	$: shrink = interactiveHeight > $viewport.height;
 
 	$: if (browser && currentPhoneme)
 		(async () =>
@@ -151,7 +158,7 @@
 		</div>
 	</section>
 
-	<section id="interactive">
+	<section id="interactive" bind:clientWidth class:shrink>
 		{#if placeData}
 			<Map
 				{counties}
@@ -273,5 +280,29 @@
 		margin-left: 4px;
 		display: inline-block;
 		vertical-align: baseline;
+	}
+
+	@media only screen and (max-width: 640px) {
+		.hed {
+			font-size: var(--32px);
+		}
+
+		.overline {
+			font-size: var(--14px);
+		}
+	}
+
+	@media only screen and (max-height: 800px) {
+		#interactive {
+			max-width: 960px;
+			margin-top: 32px;
+		}
+	}
+
+	@media only screen and (max-height: 700px) {
+		#interactive {
+			max-width: 800px;
+			margin-top: 32px;
+		}
 	}
 </style>

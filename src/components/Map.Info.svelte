@@ -30,4 +30,18 @@
 		text-align: center;
 		line-height: 1.2;
 	}
+
+	@media only screen and (max-height: 800px) {
+		h2 {
+			margin: 16px auto;
+			font-size: var(--32px);
+		}
+	}
+
+	@media only screen and (max-width: 640px) {
+		h2 {
+			margin: 16px auto;
+			font-size: var(--28px);
+		}
+	}
 </style>
