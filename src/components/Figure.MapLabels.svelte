@@ -15,7 +15,7 @@
 
 <g
 	class="g-map-labels"
-	use:checkOverlap={{ query: "text.stroke", reverse: true, flip: true }}
+	use:checkOverlap={{ query: "text.stroke", reverse: true }}
 >
 	{#each features as feature}
 		{@const coords = $custom.projectionFn(feature.geometry.coordinates)}

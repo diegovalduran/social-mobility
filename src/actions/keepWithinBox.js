@@ -10,9 +10,19 @@ export default function keepWithinBox(node, params = {}) {
 		const { top, left, right, bottom } = node.getBoundingClientRect();
 		let transform;
 		const [x, y] = getXY(node);
+		const w = right - left;
+		const rightEdge = x + w / 2;
+		const leftEdge = x - w / 2;
 
-		if (right > width) transform = `translate(${x + (width - right)}, ${y})`;
-		else if (left < 0) transform = `translate(${x + Math.abs(left)}, ${y})`;
+		if (rightEdge > width) {
+			const diff = rightEdge - width;
+			transform = `translate(${x - diff}, ${y})`;
+			node.setAttribute("transform", transform);
+		} else if (leftEdge < 0) {
+			const diff = Math.abs(leftEdge);
+			transform = `translate(${x + diff}, ${y})`;
+			node.setAttribute("transform", transform);
+		}
 	}
 
 	check(params);
