@@ -83,7 +83,14 @@ export default async function cleanUSData() {
 		})
 	};
 
-	// const nation = topojson.feature(us, us.objects.nation);
+	const statesMesh = topojson.mesh(us, us.objects.states, (a, b) => a !== b);
+	const countiesMesh = topojson.mesh(
+		us,
+		us.objects.counties,
+		(a, b) => a !== b && ((a.id / 1000) | 0) === ((b.id / 1000) | 0)
+	);
 
-	return { counties, states };
+	const nationMesh = topojson.mesh(us, us.objects.nation);
+
+	return { counties, states, countiesMesh, statesMesh, nationMesh };
 }

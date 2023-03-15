@@ -11,7 +11,7 @@
 		sum,
 		color
 	} from "d3";
-	import { getContext } from "svelte";
+	import { getContext, beforeUpdate, afterUpdate } from "svelte";
 	import Figure from "$components/Figure.svelte";
 	import MapSvg from "$components/Figure.MapSvg.svelte";
 	import MapCanvas from "$components/Figure.MapCanvas.svelte";
@@ -20,6 +20,7 @@
 	import MapLabels from "$components/Figure.MapLabels.svelte";
 	import Tooltip from "$components/Figure.Tooltip.svelte";
 	import TooltipContent from "$components/TooltipContent.svelte";
+	import MapInfo from "$components/Map.Info.svelte";
 	import MapKey from "$components/Map.Key.svelte";
 	import CountyTable from "$components/CountyTable.svelte";
 	import PlaceTable from "$components/PlaceTable.svelte";
@@ -29,6 +30,9 @@
 
 	export let counties;
 	export let states;
+	export let countiesMesh;
+	export let statesMesh;
+	export let nationMesh;
 
 	export let location;
 	export let placeData;
@@ -78,8 +82,8 @@
 
 	const ASPECT_RATIO = "975/610";
 	const projectionObject = states;
-	const stateFeatures = states.features;
-	const countyStroke = color(COLOR_FG).copy({ opacity: 0.33 }).toString();
+	// const stateFeatures = states.features;
+	const countyStroke = color(COLOR_FG).copy({ opacity: 0.5 }).toString();
 
 	let colors = [];
 	let scalePop;
@@ -113,15 +117,27 @@
 		const { event, datum } = detail;
 
 		const { data, name, state } = datum;
-		const text = `${name} ${state === "LA" ? "Parish" : "County"}, ${state}`;
+		const county = `${name} ${state === "LA" ? "Parish" : "County"}, ${state}`;
 
-		const rows = data.slice(0, 3).map((d) => ({
-			label: d.label,
-			value: +format(".0f")((d[valueProp] / maxValue) * 100)
-		}));
+		// In Berkshire County, Portland probably refers to Portland, CT. Portland, OR is nearly as likely.
+		const label1 = data[0]?.label;
+		const label2 = data[1]?.label;
+		const score = data[0][valueProp] / maxValue;
+		const toss = score < 0.5;
+		const maybe = score >= 0.5 && score < 0.75;
+		const probably = score >= 0.75;
+		const likelihood = toss ? "could" : maybe ? "maybe" : "probably";
+		const post = toss ? ` or ${label2}` : ".";
+		const s = toss ? "" : "s";
 
-		tooltipDatum.text = text;
-		tooltipDatum.rows = rows;
+		const madlib = `In <strong>${county},</strong> ${placeName} ${likelihood} refer${s} to ${label1}${post}`;
+
+		// const rows = data.slice(0, 3).map((d) => ({
+		// 	label: d.label,
+		// 	value: +format(".0f")((d[valueProp] / maxValue) * 100)
+		// }));
+
+		tooltipDatum.text = madlib;
 	}
 
 	$: {
@@ -311,26 +327,6 @@
 		};
 	});
 
-	// $: tallyUpper = groups(
-	// 	topPlaces.filter((d) => d[valueProp] >= thresholdUpper * maxValue),
-	// 	(d) => d.label
-	// ).map(([label, values]) => ({
-	// 	label,
-	// 	count: values.length
-	// }));
-
-	// $: tallyLower = groups(
-	// 	topPlaces.filter(
-	// 		(d) =>
-	// 			d[valueProp] >= thresholdLower * maxValue &&
-	// 			d[valueProp] < thresholdUpper * maxValue
-	// 	),
-	// 	(d) => d.label
-	// ).map(([label, values]) => ({
-	// 	label,
-	// 	count: values.length
-	// }));
-
 	$: countyRows = countyFeaturesRender.map((d) => {
 		const a = d.properties.data[0];
 		const b = d.properties.data[1];
@@ -404,20 +400,10 @@
 	}));
 
 	$: topPlace = placeFeaturesRender[0].properties;
-	$: topLabel = topPlace.label;
-	$: topColorSecondary = topPlace.fills.secondary;
-	$: topColorPrimary = topPlace.fills.primary;
-	$: topColorTextPrimary = topPlace.fills.textPrimary;
-	$: topColorTextSecondary = topPlace.fills.textSecondary;
-	$: figcaption = `A choropleth map of US counties that shows which place named ${placeName} that county is most likely to refer to based on a combination of proximity, population, and Wikipedia article length. The most commonly referred to place is ${topLabel}.`;
+	$: figcaption = `A choropleth map of US counties that shows which place named ${placeName} that county is most likely to refer to based on a combination of proximity, population, and Wikipedia article length. The most commonly referred to place is ${topPlace.label}.`;
 </script>
 
-<div class="info">
-	<h2>
-		In most US counties, <strong>{placeName}</strong> usually refers to
-		<strong style:color={topColorPrimary}>{topLabel}.</strong>
-	</h2>
-</div>
+<MapInfo {placeName} {topPlace} />
 
 <div class="figure">
 	<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
@@ -425,13 +411,19 @@
 		<MapSvg on:mousemove={onMouseMove}>
 			<MapPath
 				features={countyFeaturesRender}
-				stroke={countyStroke}
-				strokeWidth="0.5"
+				stroke={undefined}
 				pointerEvents={$mq.desktop}
 				on:mouseleave={onMouseLeave}
 				on:mouseenter={onMouseEnter}
 			/>
-			<MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="0.5" />
+			<!-- <MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="0.5" /> -->
+			<MapPath
+				features={countiesMesh}
+				stroke={countyStroke}
+				strokeWidth="0.5"
+			/>
+			<MapPath features={statesMesh} stroke={COLOR_FG} strokeWidth="0.5" />
+			<MapPath features={nationMesh} stroke={COLOR_FG} strokeWidth="0.5" />
 			{#key placeName}
 				<MapPoints
 					features={placeFeaturesRender.filter(
@@ -440,7 +432,6 @@
 					stroke={COLOR_FG}
 					strokeWidth="2"
 				/>
-				<!-- <MapPoints features={userFeatures} stroke={COLOR_FG} strokeWidth="2" /> -->
 
 				<MapLabels
 					features={placeFeaturesRender.filter(
@@ -450,14 +441,7 @@
 					strokeWidth="4"
 					offsetY={0}
 				/>
-				<!-- <MapLabels
-				features={userFeatures}
-				stroke={COLOR_BG}
-				strokeWidth="4"
-				offsetY={0}
-			/> -->
 			{/key}
-			<!-- <figcaption slot="figcaption"></figcaption> -->
 		</MapSvg>
 		<Tooltip x={tooltipDatum.x} y={tooltipDatum.y}>
 			<TooltipContent {...tooltipDatum} x={tooltipDatum.x} y={tooltipDatum.y} />
@@ -495,15 +479,6 @@
 <style>
 	:global(g .other text) {
 		display: none;
-	}
-
-	.info {
-		margin: 0 auto;
-	}
-
-	h2 {
-		margin: 32px auto;
-		text-align: center;
 	}
 
 	p.table-intro {

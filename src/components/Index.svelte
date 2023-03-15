@@ -14,6 +14,7 @@
 	import Select from "$components/Select.svelte";
 	import Share from "$components/Share.svelte";
 	import Icon from "$components/helpers/Icon.svelte";
+	import Tip from "$components/Tip.svelte";
 	import options from "$data/options.csv";
 	import classics from "$data/classics.csv";
 
@@ -32,6 +33,9 @@
 	let open = false;
 	let counties;
 	let states;
+	let countiesMesh;
+	let statesMesh;
+	let nationMesh;
 
 	function onChangePlace({ name, phoneme }) {
 		open = false;
@@ -67,6 +71,9 @@
 			const us = await loadUSData();
 			counties = us.counties;
 			states = us.states;
+			countiesMesh = us.countiesMesh;
+			statesMesh = us.statesMesh;
+			nationMesh = us.nationMesh;
 
 			const initialPlace = getPlaceFromUrl();
 			onChangePlace(initialPlace);
@@ -101,7 +108,7 @@
 			</div>
 
 			<div class="discover">
-				<details {open}>
+				<details bind:open>
 					<summary
 						>{copy.discoverySummary}
 						{summarySuffix}{#if location?.state}<Icon
@@ -149,6 +156,9 @@
 			<Map
 				{counties}
 				{states}
+				{countiesMesh}
+				{statesMesh}
+				{nationMesh}
 				{placeData}
 				placeName={currentName}
 				{location}
@@ -167,6 +177,8 @@
 		{#each copy.info as { value }}
 			<p>{@html value}</p>
 		{/each}
+		<p>{@html copy.outro}</p>
+		<p><Tip text="Send a tip to The Pudding" href="" /></p>
 	</section>
 </article>
 

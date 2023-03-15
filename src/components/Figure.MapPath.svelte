@@ -18,6 +18,8 @@
 		const datum = feature.properties;
 		dispatch("mouseenter", { event, datum });
 	}
+
+	$: mesh = !!features.type;
 </script>
 
 <g
@@ -25,18 +27,27 @@
 	class:interactive={pointerEvents}
 	style="--stroke-width: {strokeWidth};"
 >
-	{#each features as feature (feature.id)}
-		<!-- svelte-ignore a11y-click-events-have-key-events -->
+	{#if mesh}
 		<path
 			style:stroke
 			style:stroke-width="{strokeWidth}px"
-			style:fill={feature.properties.fill || fill}
-			class:active={active === feature.id}
-			d={$custom.pathFn(feature)}
-			on:mouseleave={() => dispatch("mouseleave")}
-			on:mouseenter={(e) => onMouseEnter(e, feature)}
+			style:fill
+			d={$custom.pathFn(features)}
 		/>
-	{/each}
+	{:else}
+		{#each features as feature (feature.id)}
+			<!-- svelte-ignore a11y-click-events-have-key-events -->
+			<path
+				style:stroke
+				style:stroke-width="{strokeWidth}px"
+				style:fill={feature.properties.fill || fill}
+				class:active={active === feature.id}
+				d={$custom.pathFn(feature)}
+				on:mouseleave={() => dispatch("mouseleave")}
+				on:mouseenter={(e) => onMouseEnter(e, feature)}
+			/>
+		{/each}
+	{/if}
 </g>
 
 <style>
