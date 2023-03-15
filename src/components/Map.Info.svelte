@@ -1,15 +1,16 @@
 <script>
-	export let placeName;
-	export let topPlace;
+	export let displayName;
+	export let topLabel;
+	export let topColorPrimary;
 
-	let waiting;
-	let displayName;
+	// let waiting;
+	// let displayName;
 
-	$: topLabel = topPlace.label;
-	$: topColorPrimary = topPlace.fills.primary;
-	$: placeName, (waiting = true);
-	$: topLabel, (waiting = false);
-	$: if (!waiting) displayName = placeName;
+	// $: topLabel = topPlace.label;
+	// $: topColorPrimary = topPlace.fills.primary;
+	// $: placeName, (waiting = true);
+	// $: topLabel, (waiting = false);
+	// $: if (!waiting) displayName = placeName;
 </script>
 
 <div class="info">

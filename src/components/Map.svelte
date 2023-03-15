@@ -90,6 +90,8 @@
 	let scaleWiki;
 	let scaleDist;
 	let tooltipDatum = { text: null, x: 0, y: 0 };
+	let waiting;
+	let displayName;
 
 	function getLabel(d) {
 		const isCity = d.level === "city-us";
@@ -401,9 +403,15 @@
 
 	$: topPlace = placeFeaturesRender[0].properties;
 	$: figcaption = `A choropleth map of US counties that shows which place named ${placeName} that county is most likely to refer to based on a combination of proximity, population, and Wikipedia article length. The most commonly referred to place is ${topPlace.label}.`;
+
+	$: topLabel = topPlace.label;
+	$: topColorPrimary = topPlace.fills.primary;
+	$: placeName, (waiting = true);
+	$: topLabel, (waiting = false);
+	$: if (!waiting) displayName = placeName;
 </script>
 
-<MapInfo {placeName} {topPlace} />
+<MapInfo {displayName} {topLabel} {topColorPrimary} />
 
 <div class="figure">
 	<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
@@ -424,7 +432,7 @@
 			/>
 			<MapPath features={statesMesh} stroke={COLOR_FG} strokeWidth="0.5" />
 			<MapPath features={nationMesh} stroke={COLOR_FG} strokeWidth="0.5" />
-			{#key placeName}
+			{#key displayName}
 				<MapPoints
 					features={placeFeaturesRender.filter(
 						(d) => d.properties.level === "city-us"
