@@ -4,6 +4,7 @@
 	import { geoPath, geoAlbersUsa, zoom, select, pointer } from "d3";
 
 	export let projection = geoAlbersUsa();
+	export let pointRadius = 2;
 
 	let svgEl;
 	let transform = "translate(0, 0) scale(1)";
@@ -17,7 +18,9 @@
 		$custom.projectionObject
 	);
 
-	$: $custom.pathFn = geoPath().projection($custom.projectionFn);
+	$: $custom.pathFn = geoPath()
+		.projection($custom.projectionFn)
+		.pointRadius(pointRadius);
 	$: if (svgEl) select(svgEl).call(zoomFn);
 
 	function onZoom(event) {

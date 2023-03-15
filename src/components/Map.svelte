@@ -416,7 +416,7 @@
 <div class="figure">
 	<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
 		<!-- <MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} /> -->
-		<MapSvg on:mousemove={onMouseMove}>
+		<MapSvg on:mousemove={onMouseMove} pointRadius={$mq["60rem"] ? 4 : 2}>
 			<MapPath
 				features={countyFeaturesRender}
 				stroke={undefined}
@@ -441,14 +441,16 @@
 					strokeWidth="2"
 				/>
 
-				<MapLabels
-					features={placeFeaturesRender.filter(
-						(d) => d.properties.level === "city-us"
-					)}
-					stroke={COLOR_BG}
-					strokeWidth="4"
-					offsetY={0}
-				/>
+				{#if $mq["50rem"]}
+					<MapLabels
+						features={placeFeaturesRender.filter(
+							(d) => d.properties.level === "city-us"
+						)}
+						stroke={COLOR_BG}
+						strokeWidth="4"
+						offsetY={0}
+					/>
+				{/if}
 			{/key}
 		</MapSvg>
 		<Tooltip x={tooltipDatum.x} y={tooltipDatum.y}>
@@ -497,5 +499,9 @@
 	p.table-intro span {
 		display: block;
 		font-size: var(--14px);
+	}
+
+	.figure {
+		user-select: none;
 	}
 </style>

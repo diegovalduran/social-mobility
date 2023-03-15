@@ -28,5 +28,6 @@
 	h2 {
 		margin: 32px auto;
 		text-align: center;
+		line-height: 1.2;
 	}
 </style>

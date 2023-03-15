@@ -94,6 +94,9 @@
 		font-weight: 700;
 		letter-spacing: 0.02em;
 		width: calc(22.22% - 16px);
+		min-width: 10em;
+		font-size: var(--14px);
+		position: relative;
 	}
 
 	span {
@@ -110,22 +113,20 @@
 		flex: 1;
 		height: 24px;
 		align-items: center;
-		font-size: var(--16px);
 		width: 50%;
 	}
 
 	span.label {
+		margin-top: 4px;
 		text-align: center;
 		line-height: 1.2;
-	}
-
-	.top li {
-		position: relative;
+		font-size: var(--14px);
 	}
 
 	.top li:last-of-type {
 		width: calc(11.11% - 8px);
 		margin-right: 0;
+		min-width: 5em;
 	}
 
 	span.fills {
@@ -141,7 +142,17 @@
 	}
 
 	@media only screen and (min-width: 960px) {
-		.key {
+		span.label {
+			font-size: var(--18px);
+		}
+
+		.top li {
+			font-size: var(--16px);
+		}
+	}
+
+	@media only screen and (min-width: 1280px) {
+		span.label {
 			font-size: var(--20px);
 		}
 	}
