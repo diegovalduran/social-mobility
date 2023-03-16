@@ -82,12 +82,11 @@
 	}
 
 	.top li {
-		font-weight: bold;
+		font-weight: 900;
 		margin-right: 16px;
 		margin-bottom: 8px;
 		display: flex;
 		flex-direction: column;
-		font-weight: 700;
 		letter-spacing: 0.02em;
 		width: calc(22.22% - 16px);
 		min-width: 10em;

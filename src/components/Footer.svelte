@@ -1,5 +1,7 @@
 <script>
 	import { onMount } from "svelte";
+	import inView from "$actions/inView.js";
+	import { shareVisible } from "$stores/misc.js";
 	import wordmark from "$svg/wordmark.svg";
 
 	let localURL;
@@ -30,7 +32,11 @@
 	});
 </script>
 
-<footer>
+<footer
+	use:inView
+	on:enter={() => ($shareVisible = false)}
+	on:exit={() => ($shareVisible = true)}
+>
 	<section class="stories">
 		{#each stories as { hed, url, image }}
 			<div class="story">
@@ -101,7 +107,7 @@
 
 	.story a {
 		display: block;
-		font-weight: 700;
+		font-weight: 900;
 		text-decoration: none;
 		border: none;
 	}

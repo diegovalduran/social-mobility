@@ -18,7 +18,7 @@
 	--z-overlay: 1000;
 
 	/* presets (used in reset.css) */
-	--border-radius: 0px;
+	--border-radius: 6px;
 	--font-body: var(--sans);
 	--font-form: var(--sans);
 	--color-bg: var(--cat-bg);
@@ -50,32 +50,32 @@
 
 h1 {
 	font-size: var(--48px, 48px);
-	font-weight: 400;
+	font-weight: 300;
 }
 
 h2 {
 	font-size: var(--36px, 36px);
-	font-weight: 400;
+	font-weight: 300;
 }
 
 h3 {
 	font-size: var(--28px, 28px);
-	font-weight: 400;
+	font-weight: 300;
 }
 
 h4 {
 	font-size: var(--24px, 24px);
-	font-weight: 400;
+	font-weight: 300;
 }
 
 h5 {
 	font-size: var(--22px, 22px);
-	font-weight: 400;
+	font-weight: 300;
 }
 
 h6 {
 	font-size: var(--20px, 20px);
-	font-weight: 400;
+	font-weight: 300;
 }
 
 p {
@@ -86,7 +86,14 @@ strong {
 	font-weight: 900;
 }
 
+button {
+	font-weight: 700;
+	letter-spacing: 0.02em;
+	border: 2px solid var(--color-bg);
+}
+
 body {
+	font-weight: 400;
 	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAACgAgMAAADm7QMnAAAADFBMVEWHh4eysrKurq60tLTxWZFvAAAABHRSTlOAOBYpKphJMgAAAEVJREFUeNpjYA3FAA4Mq17tWrcalVhBtOBK7IL/McFfErSPWjRq0ahFoxaNWjRMLMJRoYzWR6MWjVo0atGoRaMWDYL6CAA67a9qtD47OgAAAABJRU5ErkJggg==);
 }
 
@@ -94,6 +101,10 @@ table caption {
 	font-size: var(--24px);
 	font-weight: 900 !important;
 	text-align: center;
+}
+
+table th button {
+	font-weight: 700;
 }
 
 summary {

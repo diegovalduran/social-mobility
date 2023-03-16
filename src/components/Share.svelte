@@ -2,6 +2,7 @@
 	import { SvelteToast, toast } from "@zerodevx/svelte-toast";
 	import { copy } from "svelte-copy";
 	import Icon from "$components/helpers/Icon.svelte";
+	import { shareVisible } from "$stores/misc.js";
 	export let url;
 
 	const options = {
@@ -17,7 +18,7 @@
 
 <SvelteToast {options} />
 
-<div class="share">
+<div class="share" class:visible={$shareVisible}>
 	<button use:copy={url} on:svelte-copy={notify}>
 		Share map <Icon name="forward" strokeWidth="3px" /></button
 	>
@@ -28,11 +29,18 @@
 		position: fixed;
 		bottom: 16px;
 		right: 16px;
+		opacity: 0;
+		pointer-events: none;
+		transition: opacity 250ms ease-in-out;
+	}
+
+	.visible {
+		opacity: 1;
+		pointer-events: auto;
 	}
 
 	button {
 		text-transform: uppercase;
-		font-weight: bold;
 		font-size: var(--16px) !important;
 	}
 
@@ -55,6 +63,6 @@
 		font-family: var(--font-form);
 		font-size: var(--14px);
 		text-transform: uppercase;
-		font-weight: bold;
+		font-weight: 900;
 	}
 </style>

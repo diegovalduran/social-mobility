@@ -228,7 +228,7 @@
 
 	.inner p {
 		text-align: center;
-		font-weight: bold;
+		font-weight: 900;
 		text-transform: uppercase;
 		font-size: var(--16px);
 		margin-bottom: 0;

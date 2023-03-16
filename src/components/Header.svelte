@@ -60,7 +60,6 @@
 	.info button {
 		font-size: var(--16px) !important;
 		text-transform: uppercase;
-		font-weight: bold;
 	}
 
 	.modal {

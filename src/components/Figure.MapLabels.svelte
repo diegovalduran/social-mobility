@@ -62,7 +62,7 @@
 	}
 
 	text {
-		font-weight: 700;
+		font-weight: 900;
 		letter-spacing: 0.02em;
 		transform: translate(0, -12px);
 	}
