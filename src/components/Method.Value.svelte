@@ -13,37 +13,49 @@
 		<div class="prop">
 			<ButtonSet
 				bind:value={valueProp}
-				options={[{ value: "share" }, { value: "score" }]}
+				options={[
+					{ value: "share" },
+					{ value: "score" },
+					{ value: "shareDelta" },
+					{ value: "growth" }
+				]}
+			/>
+		</div>
+
+		<div class="scale">
+			<ButtonSet
+				legend="relative to"
+				options={[{ value: "all counties" }, { value: "self" }]}
+			/>
+		</div>
+
+		<div class="weight">
+			<p>Distance (weight: {valueWeightDist})</p>
+			<input
+				type="range"
+				step={0.25}
+				min={0}
+				max={5}
+				bind:value={valueWeightDist}
 			/>
 
-			<div class="weight">
-				<p>Distance (weight: {valueWeightDist})</p>
-				<input
-					type="range"
-					step={0.25}
-					min={0}
-					max={5}
-					bind:value={valueWeightDist}
-				/>
+			<p>Population (weight: {valueWeightPop})</p>
+			<input
+				type="range"
+				step={0.25}
+				min={0}
+				max={5}
+				bind:value={valueWeightPop}
+			/>
 
-				<p>Population (weight: {valueWeightPop})</p>
-				<input
-					type="range"
-					step={0.25}
-					min={0}
-					max={5}
-					bind:value={valueWeightPop}
-				/>
-
-				<p>Wiki Length (weight: {valueWeightWiki})</p>
-				<input
-					type="range"
-					step={0.25}
-					min={0}
-					max={5}
-					bind:value={valueWeightWiki}
-				/>
-			</div>
+			<p>Wiki Length (weight: {valueWeightWiki})</p>
+			<input
+				type="range"
+				step={0.25}
+				min={0}
+				max={5}
+				bind:value={valueWeightWiki}
+			/>
 		</div>
 	</fieldset>
 </div>

@@ -9,7 +9,7 @@
 	<fieldset>
 		<legend>{legend}</legend>
 		<div class="threshold">
-			<p>Score &gt; {thresholdUpper} is 1</p>
+			<p>Score &gt;= {thresholdUpper} is 1</p>
 			<input
 				type="range"
 				step={0.01}
@@ -17,7 +17,7 @@
 				max={0.99}
 				bind:value={thresholdUpper}
 			/>
-			<p>Score &gt; {thresholdLower} is 0.75</p>
+			<p>Score &gt;= {thresholdLower} is 0.75</p>
 			<input
 				type="range"
 				step={0.01}

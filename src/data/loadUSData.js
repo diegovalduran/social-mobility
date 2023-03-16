@@ -11,6 +11,7 @@ export default async function cleanUSData() {
 	const counties = {
 		...countiesRaw,
 		features: countiesRaw.features
+			.filter((d) => d.geometry)
 			.map((d) => ({
 				...d,
 				properties: {
@@ -38,41 +39,6 @@ export default async function cleanUSData() {
 			}
 		};
 	};
-
-	// const cleanAlaska = (d) => {
-	// 	const arcs = d.arcs.filter(([[c]]) => {
-	// 		return false;
-	// 		return true;
-	// 	});
-	// 	console.log(arcs);
-	// 	return {
-	// 		...d,
-	// 		arcs: []
-	// 	};
-	// };
-
-	// const usObjectsStates = {
-	// 	...us.objects.states,
-	// 	geometries: us.objects.states.geometries.filter((d) => {
-	// 		if (d.properties.name === "Alaska") {
-	// 			const x = cleanAlaska(d);
-	// 			console.log({ x });
-	// 			return {
-	// 				...d,
-	// 				arcs: []
-	// 			};
-	// 		}
-	// 		return true;
-	// 	})
-	// };
-
-	// const usa = {
-	// 	...us,
-	// 	objects: {
-	// 		...us.objects,
-	// 		states: usObjectsStates
-	// 	}
-	// };
 
 	const statesRaw = topojson.feature(us, us.objects.states);
 	const states = {

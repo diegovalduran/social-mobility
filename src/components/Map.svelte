@@ -36,7 +36,6 @@
 	export let statesMesh;
 	export let nationMesh;
 
-	export let location;
 	export let placeData;
 	export let placeName;
 
@@ -50,15 +49,15 @@
 
 	export let scaleBoundsPop = [0, 22933531];
 	export let scaleBoundsWiki = [0, 96911];
-	export let scaleBoundsDist = [50, 200];
+	export let scaleBoundsDist = [50, 300];
 
 	export let valueWeightDist = "2";
 	export let valueWeightPop = "1";
 	export let valueWeightWiki = "1";
 
-	export let thresholdLower = 0.5;
-	export let thresholdUpper = 0.75;
-	export let valueProp = "share";
+	export let thresholdLower = 0.05;
+	export let thresholdUpper = 0.25;
+	export let valueProp = "shareDelta";
 
 	export let countiesByDist = [];
 
@@ -180,22 +179,41 @@
 		properties: d
 	}));
 
-	$: userFeatures = location
-		? [
-				{
-					type: "Feature",
-					geometry: {
-						type: "Point",
-						coordinates: [location.lon, location.lat]
-					},
-					properties: { className: "user-location", label: "Your Location" }
-				}
-		  ]
-		: undefined;
-
 	$: maxValue = max(
 		countiesWithData.features,
 		(d) => d.properties.data[0][valueProp]
+	);
+
+	$: maxGrowth = max(
+		countiesWithData.features,
+		(d) => d.properties.data[0].growth
+	);
+
+	$: maxShareDelta = max(
+		countiesWithData.features,
+		(d) => d.properties.data[0].shareDelta
+	);
+
+	$: console.log({ valueProp, maxValue, maxGrowth, maxShareDelta });
+
+	$: console.table(
+		countiesWithData.features.find((d) => d.properties.name === "Berkshire")
+			.properties.data
+	);
+
+	$: console.table(
+		countiesWithData.features.find((d) => d.properties.name === "Wasco")
+			.properties.data
+	);
+
+	$: console.table(
+		countiesWithData.features.find((d) => d.properties.name === "Lamoille")
+			.properties.data
+	);
+
+	$: console.table(
+		countiesWithData.features.find((d) => d.properties.name === "Androscoggin")
+			.properties.data
 	);
 
 	$: getTier = (d) => {
@@ -234,7 +252,6 @@
 	}
 
 	$: countiesWithData = addDataToCounties({
-		valueProp,
 		counties,
 		places,
 		scaleDist,
@@ -444,9 +461,9 @@
 
 				{#if $mq["50rem"]}
 					<MapLabels
-						features={placeFeaturesRender.filter(
-							(d) => d.properties.level === "city-us"
-						)}
+						features={placeFeaturesRender
+							.slice(0, MAX_COLORS)
+							.filter((d) => d.properties.level === "city-us")}
 						stroke={COLOR_BG}
 						strokeWidth="4"
 						offsetY={0}
@@ -483,7 +500,7 @@
 	note={copy.placeNote}
 />
 
-{#if story}
+{#if true}
 	<CountyTable
 		caption="Each county’s most likely {placeName} reference"
 		rows={countyRows}

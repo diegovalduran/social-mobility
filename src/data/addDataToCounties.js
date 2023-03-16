@@ -34,7 +34,13 @@ function calculateCountyScores({
 
 	withShare.sort((a, b) => descending(a.share, b.share));
 
-	return withShare;
+	const withOther = withShare.map((d, i) => ({
+		...d,
+		shareDelta: d.share - (withShare[1]?.share || d.share),
+		growth: d.score / (withShare[1]?.score || d.score) - 1
+	}));
+
+	return withOther;
 }
 
 export default function addDataToCounties({

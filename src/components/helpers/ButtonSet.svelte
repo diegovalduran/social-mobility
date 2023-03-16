@@ -119,7 +119,7 @@
 	}
 
 	input[type="radio"]:hover + label {
-		background: var(--color-bg);
+		background: var(--color-fg);
 	}
 
 	input[type="radio"]:focus + label {

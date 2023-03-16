@@ -26,15 +26,15 @@
 
 	let scaleBoundsPop = [0, 22933531];
 	let scaleBoundsWiki = [0, 96911];
-	let scaleBoundsDist = [50, 200];
+	let scaleBoundsDist = [50, 300];
 
 	let valueWeightDist = 2;
 	let valueWeightPop = 1;
 	let valueWeightWiki = 1;
 
-	let thresholdLower = 0.5;
-	let thresholdUpper = 0.75;
-	let valueProp = "share";
+	let thresholdLower = 0.05;
+	let thresholdUpper = 0.25;
+	let valueProp = "shareDelta";
 
 	let placeData;
 	let counties;
