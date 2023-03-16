@@ -19,9 +19,6 @@
 	import classics from "$data/classics.csv";
 	import viewport from "$stores/viewport.js";
 
-	const removeStorage = true;
-	const testLocate = true;
-
 	const copy = getContext("copy");
 	const data = getContext("data");
 
@@ -56,6 +53,9 @@
 	}
 
 	async function customLocation() {
+		const removeStorage = false;
+		const testLocate = window.location.href.includes("localhost");
+
 		if (removeStorage) storage.remove("pudding_samename");
 
 		const storageLocation = storage.get("pudding_samename");
