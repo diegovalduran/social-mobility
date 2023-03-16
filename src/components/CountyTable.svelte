@@ -23,7 +23,7 @@
 	}
 
 	:global(.county-table th:nth-of-type(1), .county-table td:nth-of-type(1)) {
-		width: 17%;
+		width: 18%;
 	}
 	:global(.county-table th:nth-of-type(2), .county-table td:nth-of-type(2)) {
 		width: 11%;

@@ -74,7 +74,7 @@
 	});
 </script>
 
-<article>
+<article class="method">
 	<section id="title">
 		<h1><strong>{@html copy.hed}</strong></h1>
 		<p>
@@ -186,7 +186,7 @@
 	</section>
 </article>
 
-<div class="figure">
+<div class="figure method">
 	<section id="maps">
 		{#if placeData}
 			<div class="top-score">
@@ -331,11 +331,11 @@
 	}
 
 	@media only screen and (min-width: 1280px) {
-		:global(p, details, li) {
+		:global(.method p, .method details, .method li) {
 			font-size: var(--16px) !important;
 		}
 
-		:global(input) {
+		:global(.method input) {
 			font-size: var(--16px) !important;
 		}
 	}
