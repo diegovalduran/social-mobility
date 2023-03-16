@@ -29,7 +29,7 @@
 	import viewport from "$stores/viewport.js";
 	import variables from "$data/variables.json";
 
-	export let story;
+	export let story = false;
 	export let counties;
 	export let states;
 	export let countiesMesh;

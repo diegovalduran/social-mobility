@@ -1,8 +1,11 @@
 <script>
+	import { page } from "$app/stores";
 	import Icon from "$components/helpers/Icon.svelte";
 	import { modal } from "$stores/misc.js";
 	import wordmark from "$svg/wordmark.svg";
 	import copy from "$data/copy-main.json";
+
+	$: hide = $page.route.id.includes("method");
 </script>
 
 <header>
@@ -10,9 +13,11 @@
 		<a href="https://pudding.cool" aria-label="The Pudding">{@html wordmark}</a>
 	</div>
 
-	<div class="info">
-		<button on:click={() => ($modal = true)}>Info</button>
-	</div>
+	{#if !hide}
+		<div class="info">
+			<button on:click={() => ($modal = true)}>Info</button>
+		</div>
+	{/if}
 
 	<!-- svelte-ignore a11y-click-events-have-key-events -->
 	<div class="modal" class:visible={$modal} on:click={() => ($modal = false)}>
@@ -53,8 +58,8 @@
 		top: 16px;
 		right: 16px;
 		text-align: right;
-		display: flex;
 		align-items: center;
+		display: flex;
 	}
 
 	.info button {
