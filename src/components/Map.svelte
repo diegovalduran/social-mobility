@@ -94,6 +94,7 @@
 	let tooltipDatum = { text: null, x: 0, y: 0 };
 	let waiting;
 	let displayName;
+	let activeFeatures = [];
 
 	function getLabel(d) {
 		const isCity = d.level === "city-us";
@@ -109,7 +110,8 @@
 	}
 
 	function onMouseLeave() {
-		tooltipDatum.text = null;
+		activeFeatures = [];
+		tooltipDatum.text = undefined;
 	}
 
 	function onMouseMove(e) {
@@ -118,12 +120,11 @@
 	}
 
 	function onMouseEnter({ detail }) {
-		const { event, datum } = detail;
+		const { event, feature } = detail;
 
-		const { data, name, state } = datum;
+		const { data, name, state } = feature.properties;
 		const county = `${name} ${state === "LA" ? "Parish" : "County"}, ${state}`;
 
-		// In Berkshire County, Portland probably refers to Portland, CT. Portland, OR is nearly as likely.
 		const label1 = data[0]?.label;
 		const label2 = data[1]?.label;
 		const score = data[0][valueProp] / maxValue;
@@ -136,12 +137,8 @@
 
 		const madlib = `In <strong>${county},</strong> ${placeName} ${likelihood} refer${s} to ${label1}${post}`;
 
-		// const rows = data.slice(0, 3).map((d) => ({
-		// 	label: d.label,
-		// 	value: +format(".0f")((d[valueProp] / maxValue) * 100)
-		// }));
-
 		tooltipDatum.text = madlib;
+		activeFeatures = [feature];
 	}
 
 	$: {
@@ -428,7 +425,6 @@
 				on:mouseleave={onMouseLeave}
 				on:mouseenter={onMouseEnter}
 			/>
-			<!-- <MapPath features={stateFeatures} stroke={COLOR_FG} strokeWidth="0.5" /> -->
 			<MapPath
 				features={countiesMesh}
 				stroke={countyStroke}
@@ -436,6 +432,7 @@
 			/>
 			<MapPath features={statesMesh} stroke={COLOR_FG} strokeWidth="0.5" />
 			<MapPath features={nationMesh} stroke={COLOR_FG} strokeWidth="0.5" />
+			<MapPath features={activeFeatures} stroke={COLOR_FG} strokeWidth="2" />
 			{#key displayName}
 				<MapPoints
 					features={placeFeaturesRender.filter(

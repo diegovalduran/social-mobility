@@ -16,7 +16,7 @@
 	function onMouseEnter(event, feature) {
 		active = feature.id;
 		const datum = feature.properties;
-		dispatch("mouseenter", { event, datum });
+		dispatch("mouseenter", { event, feature });
 	}
 
 	$: mesh = !!features.type;
@@ -39,7 +39,7 @@
 			<!-- svelte-ignore a11y-click-events-have-key-events -->
 			<path
 				style:stroke
-				style:stroke-width="{strokeWidth}px"
+				style:stroke-width={strokeWidth}
 				style:fill={feature.properties.fill || fill}
 				class:active={active === feature.id}
 				d={$custom.pathFn(feature)}
@@ -58,5 +58,9 @@
 	.interactive {
 		pointer-events: auto;
 		cursor: crosshair;
+	}
+
+	path {
+		z-index: var(--z-middle);
 	}
 </style>

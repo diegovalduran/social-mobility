@@ -219,6 +219,7 @@
 	article {
 		display: flex;
 		margin-top: 32px;
+		font-size: var(--16px);
 	}
 
 	.top-score {
@@ -240,5 +241,15 @@
 		margin-left: 32px;
 		position: relative;
 		width: 1280px;
+	}
+
+	@media only screen and (min-width: 1280px) {
+		:global(p, details, li) {
+			font-size: var(--16px) !important;
+		}
+
+		:global(input) {
+			font-size: var(--16px) !important;
+		}
 	}
 </style>

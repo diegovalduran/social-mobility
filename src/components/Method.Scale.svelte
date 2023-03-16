@@ -17,7 +17,7 @@
 			/>
 		</div>
 
-		<div class="exponent">
+		<div class="a exponent">
 			<p>Exponent</p>
 			<select bind:value={valueExp} disabled={valueScale === "scaleLog"}>
 				<option>0.1</option>
@@ -30,12 +30,12 @@
 			</select>
 		</div>
 
-		<div class="bound">
+		<div class="a bound">
 			<p>Min</p>
 			<input type="number" bind:value={valueBounds[0]} />
 		</div>
 
-		<div class="bound">
+		<div class="a bound">
 			<p>Max</p>
 			<input type="number" bind:value={valueBounds[1]} />
 		</div>
@@ -49,6 +49,11 @@
 
 	div {
 		margin-top: 16px;
+	}
+
+	.a {
+		display: flex;
+		justify-content: space-between;
 	}
 
 	fieldset {
@@ -77,5 +82,10 @@
 
 	p {
 		margin: 0;
+	}
+
+	select {
+		background-color: var(--color-bg);
+		color: var(--color-fg);
 	}
 </style>
