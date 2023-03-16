@@ -6,24 +6,24 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="content-security-policy" content="">
-		<link href="./_app/immutable/assets/_layout-fb2db717.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/_layout-cd82906d.css" rel="stylesheet">
 		<link href="./_app/immutable/assets/copy-main-40da67b0.css" rel="stylesheet">
-		<link href="./_app/immutable/assets/_page-8ef6b451.css" rel="stylesheet">
-		<link href="./_app/immutable/assets/version-d4a6d9ec.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/start-ab7ead81.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index-9133467c.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons-761029a3.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index-e5691633.js">
+		<link href="./_app/immutable/assets/_page-40bee786.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/version-cf46213f.css" rel="stylesheet">
+		<link rel="modulepreload" href="./_app/immutable/start-d6335e09.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index-94a0d8c8.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons-21da9b49.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index-128c871a.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/paths-eb28c9cb.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/preload-helper-41c905a7.js">
-		<link rel="modulepreload" href="./_app/immutable/components/pages/_layout.svelte-d2daa38f.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/copy-main-2fa35994.js">
+		<link rel="modulepreload" href="./_app/immutable/components/pages/_layout.svelte-dac3e1a3.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/copy-main-9ffbf2e7.js">
 		<link rel="modulepreload" href="./_app/immutable/modules/pages/_layout.js-5612100c.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/_layout-79cb23d1.js">
-		<link rel="modulepreload" href="./_app/immutable/components/pages/_page.svelte-7993c589.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/version-fd841704.js">
+		<link rel="modulepreload" href="./_app/immutable/components/pages/_page.svelte-04791109.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/version-10a5c3ca.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/transform-96ff9c66.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/stores-730c9f60.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/stores-ef5173ed.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/copy-88b0669b.js"><title>A Map of Places in the US with Shared Names</title><!-- HEAD_svelte-1htu80s_START --><meta name="description" content="We took a shot at calculating what place someone is most likely referring to, depending on where they are."><meta name="author" content="The Pudding"><meta name="news_keywords" content=""><meta property="og:title" content="A Map of Places in the US with Shared Names"><meta property="og:site_name" content="The Pudding"><meta property="og:url" content="https://pudding.cool"><meta property="og:description" content="We took a shot at calculating what place someone is most likely referring to, depending on where they are."><meta property="og:type" content="article"><meta property="og:locale" content="en_US"><meta property="og:image" content="https://pudding.cool/assets/social-facebook.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="600"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="https://pudding.cool"><meta name="twitter:creator" content="@puddingviz"><meta name="twitter:title" content="A Map of Places in the US with Shared Names"><meta name="twitter:description" content="We took a shot at calculating what place someone is most likely referring to, depending on where they are."><meta name="twitter:image:src" content="https://pudding.cool/assets/social-twitter.jpg"><meta name="robots" content="max-image-preview:large"><link rel="canonical" href="https://pudding.cool/"><!-- HEAD_svelte-1htu80s_END -->
 </head>
 
@@ -32,88 +32,88 @@
 	<div>
 
 
-<header><div class="wordmark svelte-k46dla"><a href="https://pudding.cool" aria-label="The Pudding" class="svelte-k46dla"><!-- HTML_TAG_START --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.6 50"><path class="st0" d="M150.1 9.5c1.5 0 2.8 1.3 2.8 2.8s-1.3 2.8-2.8 2.8-2.8-1.3-2.8-2.8 1.3-2.8 2.8-2.8zM147.2 17.3h5.6v18.2h-5.6V17.3zM77.1 9.5h-8.9v26h5.6v-8.1h3.3c4.9 0 8.9-4 8.9-8.9s-3.9-9-8.9-9zm0 12.3h-3.3v-6.6h3.3c1.8 0 3.3 1.5 3.3 3.3s-1.4 3.3-3.3 3.3zM105.7 17.6h-5.6v8.9c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3v-8.9h-5.6v8.9c0 4.9 4 8.9 8.9 8.9s8.9-4 8.9-8.9v-8.9zM164.1 17.6c-4.9 0-8.9 4-8.9 8.9v8.9h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM119.7 16.2v1.4h-3.3c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4zM139.3 16.2v1.4H136c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8H136c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4h.1zM183.7 17.6c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h3.3v5.1c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3V38l-5.6 3.3c.4 4.5 4.2 8.1 8.9 8.1 4.9 0 8.9-4 8.9-8.9V17.6h-8.9zm3.3 5.8V30h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3zM28.6 17.6c-1.2 0-2.3.2-3.3.6V9.5l-5.6 3.3v22.6h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM17.8 9.5H0v5.6h6.1v20.3h5.6V15.1h6.1V9.5zM48.3 30.2c-.4 0-1.2-.1-1.8-.4l5.2-2.1 5.6-2.3-1-2.3-.1-.2c-.1-.3-.3-.6-.5-1-.1-.1-.1-.2-.2-.3 0 0 0-.1-.1-.1l-.1-.1-.1-.1c-1.6-2.2-4-3.5-6.7-3.7h-.6c-4.9 0-8.9 4-8.9 8.9 0 .4 0 .9.1 1.4V28.2c0 .3.1.5.2.8v.2c.1.3.2.7.4 1v.2c.1.3.3.5.4.8 0 .1.1.1.1.2.1.2.3.4.4.6v.1s0 .1.1.1l.1.1c1.7 2.1 4.4 3.4 7.2 3.4h6.1v-5.2c.4-.3-3.5-.3-5.8-.3zm7.9-7.3zm-11.6 2.8l-.2.1c.2-1.9 1.8-3.5 3.7-3.5.9 0 1.8.4 2.4.9L46.2 25l-1.6.7z"/></svg><!-- HTML_TAG_END --></a></div>
+<header><div class="wordmark svelte-18ldeyk"><a href="https://pudding.cool" aria-label="The Pudding" class="svelte-18ldeyk"><!-- HTML_TAG_START --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.6 50"><path class="st0" d="M150.1 9.5c1.5 0 2.8 1.3 2.8 2.8s-1.3 2.8-2.8 2.8-2.8-1.3-2.8-2.8 1.3-2.8 2.8-2.8zM147.2 17.3h5.6v18.2h-5.6V17.3zM77.1 9.5h-8.9v26h5.6v-8.1h3.3c4.9 0 8.9-4 8.9-8.9s-3.9-9-8.9-9zm0 12.3h-3.3v-6.6h3.3c1.8 0 3.3 1.5 3.3 3.3s-1.4 3.3-3.3 3.3zM105.7 17.6h-5.6v8.9c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3v-8.9h-5.6v8.9c0 4.9 4 8.9 8.9 8.9s8.9-4 8.9-8.9v-8.9zM164.1 17.6c-4.9 0-8.9 4-8.9 8.9v8.9h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM119.7 16.2v1.4h-3.3c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4zM139.3 16.2v1.4H136c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8H136c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4h.1zM183.7 17.6c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h3.3v5.1c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3V38l-5.6 3.3c.4 4.5 4.2 8.1 8.9 8.1 4.9 0 8.9-4 8.9-8.9V17.6h-8.9zm3.3 5.8V30h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3zM28.6 17.6c-1.2 0-2.3.2-3.3.6V9.5l-5.6 3.3v22.6h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM17.8 9.5H0v5.6h6.1v20.3h5.6V15.1h6.1V9.5zM48.3 30.2c-.4 0-1.2-.1-1.8-.4l5.2-2.1 5.6-2.3-1-2.3-.1-.2c-.1-.3-.3-.6-.5-1-.1-.1-.1-.2-.2-.3 0 0 0-.1-.1-.1l-.1-.1-.1-.1c-1.6-2.2-4-3.5-6.7-3.7h-.6c-4.9 0-8.9 4-8.9 8.9 0 .4 0 .9.1 1.4V28.2c0 .3.1.5.2.8v.2c.1.3.2.7.4 1v.2c.1.3.3.5.4.8 0 .1.1.1.1.2.1.2.3.4.4.6v.1s0 .1.1.1l.1.1c1.7 2.1 4.4 3.4 7.2 3.4h6.1v-5.2c.4-.3-3.5-.3-5.8-.3zm7.9-7.3zm-11.6 2.8l-.2.1c.2-1.9 1.8-3.5 3.7-3.5.9 0 1.8.4 2.4.9L46.2 25l-1.6.7z"/></svg><!-- HTML_TAG_END --></a></div>
 
-	<div class="info svelte-k46dla"><button class="svelte-k46dla">Info</button></div>
+	<div class="info svelte-18ldeyk"><button class="svelte-18ldeyk">Info</button></div>
 
 	
-	<div class="modal svelte-k46dla"><div class="bg svelte-k46dla"></div>
-		<div class="content svelte-k46dla"><div class="inner"><p><!-- HTML_TAG_START -->Created by <a href=https://pudding.cool/author/russell-samora target=_blank rel=noreferrer>Russell Samora</a>. With editing by <a href=https://pudding.cool/author/michelle-mcghee target=_blank rel=noreferrer>Michelle McGhee</a>.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Please note that this is a very opinionated take on answering this question. Consider it a conversation starter, not ender. To go deeper on the underlying data and methods, visit our <a href=https://pudding.cool target=_blank rel=no_referrer>interactive explainer</a> where you customize and share your own.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Creating a data set of colloquially recognized place names in the US is a mammoth task since there are tens of thousands of places with varying levels of entity recognition. We are constantly updating the data, so if you spot something wrong with the places being used (or not), <a href=https://docs.google.com/spreadsheets/d/1cHtvcuxvxI6Y2hA5Xa2wg8AW0SZ7ZYG5H5x7H4jGLdk/edit#gid=0 target=_blank rel=noreferrer>help us improve it!</a><!-- HTML_TAG_END --></p></div>
-			<button class="svelte-k46dla"></button></div></div>
+	<div class="modal svelte-18ldeyk"><div class="bg svelte-18ldeyk"></div>
+		<div class="content svelte-18ldeyk"><div class="inner"><p><!-- HTML_TAG_START -->Created by <a href=https://pudding.cool/author/russell-samora target=_blank rel=noreferrer>Russell Samora</a>. With editing by <a href=https://pudding.cool/author/michelle-mcghee target=_blank rel=noreferrer>Michelle McGhee</a>.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Please note that this is a very opinionated take on answering this question. Consider it a conversation starter, not ender. To go deeper on the underlying data and methods, visit our <a href=https://pudding.cool target=_blank rel=no_referrer>interactive explainer</a> where you customize and share your own.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Creating a data set of colloquially recognized place names in the US is a mammoth task since there are tens of thousands of places with varying levels of entity recognition. We are constantly updating the data, so if you spot something wrong with the places being used (or not), <a href=https://docs.google.com/spreadsheets/d/1cHtvcuxvxI6Y2hA5Xa2wg8AW0SZ7ZYG5H5x7H4jGLdk/edit#gid=0 target=_blank rel=noreferrer>help us improve it!</a><!-- HTML_TAG_END --></p></div>
+			<button class="svelte-18ldeyk"></button></div></div>
 </header>
 <main id="content">
-<article class="svelte-otcvr7"><section id="intro" class="svelte-otcvr7"><div class="hero"><p class="overline svelte-otcvr7"><strong>A Map of Places in the US with Shared Names</strong></p>
-			<h1 class="hed svelte-otcvr7">We calculated what place someone is most likely referring to, depending on where they are.</h1>
+<article class="svelte-asyxxf"><section id="intro" class="svelte-asyxxf"><div class="hero"><p class="overline svelte-asyxxf"><strong>A Map of Places in the US with Shared Names</strong></p>
+			<h1 class="hed svelte-asyxxf">We calculated what place someone is most likely referring to, depending on where they are.</h1>
 			</div>
 
-		<div class="ui svelte-otcvr7"><div class="select svelte-otcvr7">
+		<div class="ui svelte-asyxxf"><div class="select svelte-asyxxf">
 
-<div data-svelte-typeahead role="combobox" aria-haspopup="listbox" aria-controls="typeahead-0.nj5fyfojdx-listbox" aria-expanded="false" id="typeahead-0.nj5fyfojdx-typeahead" class="svelte-iyl6gc"><form data-svelte-search><label id="typeahead-0.nj5fyfojdx-label" for="typeahead-0.nj5fyfojdx" class="svelte-wqugyy hide-label">Look up a city or town in the US</label>
-  <input name="search" type="search" placeholder="Look up a city or town in the US..." autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-controls="typeahead-0.nj5fyfojdx-listbox" aria-labelledby="typeahead-0.nj5fyfojdx-label" id="typeahead-0.nj5fyfojdx" class="svelte-wqugyy" value="">
+<div data-svelte-typeahead role="combobox" aria-haspopup="listbox" aria-controls="typeahead-0.q6p786sw9ia-listbox" aria-expanded="false" id="typeahead-0.q6p786sw9ia-typeahead" class="svelte-iyl6gc"><form data-svelte-search><label id="typeahead-0.q6p786sw9ia-label" for="typeahead-0.q6p786sw9ia" class="svelte-wqugyy hide-label">Look up a city or town in the US</label>
+  <input name="search" type="search" placeholder="Look up a city or town in the US..." autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-controls="typeahead-0.q6p786sw9ia-listbox" aria-labelledby="typeahead-0.q6p786sw9ia-label" id="typeahead-0.q6p786sw9ia" class="svelte-wqugyy" value="">
 </form>
-  <ul role="listbox" aria-labelledby="typeahead-0.nj5fyfojdx-label" id="typeahead-0.nj5fyfojdx-listbox" class="svelte-iyl6gc svelte-typeahead-list">
+  <ul role="listbox" aria-labelledby="typeahead-0.q6p786sw9ia-label" id="typeahead-0.q6p786sw9ia-listbox" class="svelte-iyl6gc svelte-typeahead-list">
     </ul>
 </div></div>
 
 			<div class="discover"><details><summary>Not sure where to start? Check out some
 						curated places.</summary>
 
-					<div class="inner svelte-otcvr7">
+					<div class="inner svelte-asyxxf">
 
-						<div class="classic svelte-otcvr7"><p class="svelte-otcvr7">Editor picks</p>
-							<ul class="svelte-otcvr7">
-									<li class="svelte-otcvr7"><button class="svelte-otcvr7">Portland</button>
+						<div class="classic svelte-asyxxf"><p class="svelte-asyxxf">Editor picks</p>
+							<ul class="svelte-asyxxf">
+									<li class="svelte-asyxxf"><button class="svelte-asyxxf">Portland</button>
 									</li>
-									<li class="svelte-otcvr7"><button class="svelte-otcvr7">Paris</button>
+									<li class="svelte-asyxxf"><button class="svelte-asyxxf">Paris</button>
 									</li>
-									<li class="svelte-otcvr7"><button class="svelte-otcvr7">Georgia</button>
+									<li class="svelte-asyxxf"><button class="svelte-asyxxf">Pluto</button>
 									</li>
-									<li class="svelte-otcvr7"><button class="svelte-otcvr7">Pluto</button>
+									<li class="svelte-asyxxf"><button class="svelte-asyxxf">Indiana</button>
 									</li>
-									<li class="svelte-otcvr7"><button class="svelte-otcvr7">Casselberry</button>
+									<li class="svelte-asyxxf"><button class="svelte-asyxxf">Davie</button>
 									</li></ul></div></div></details></div></div></section>
 
-	<section id="interactive" class="svelte-otcvr7"><p class="loading svelte-otcvr7">loading...</p>
+	<section id="interactive" class="svelte-asyxxf"><p class="loading svelte-asyxxf">loading...</p>
 
 		<ul class="_toastContainer svelte-1u812xz">
 </ul>
 
-<div class="share svelte-1jtbpg3"><button class="svelte-1jtbpg3">Share map </button>
+<div class="share svelte-afq10l"><button class="svelte-afq10l">Share map </button>
 </div></section>
 
-	<section id="outro" class="svelte-otcvr7"><p class="svelte-otcvr7"><!-- HTML_TAG_START -->Created by <a href=https://pudding.cool/author/russell-samora target=_blank rel=noreferrer>Russell Samora</a>. With editing by <a href=https://pudding.cool/author/michelle-mcghee target=_blank rel=noreferrer>Michelle McGhee</a>.<!-- HTML_TAG_END --></p><p class="svelte-otcvr7"><!-- HTML_TAG_START -->Please note that this is a very opinionated take on answering this question. Consider it a conversation starter, not ender. To go deeper on the underlying data and methods, visit our <a href=https://pudding.cool target=_blank rel=no_referrer>interactive explainer</a> where you customize and share your own.<!-- HTML_TAG_END --></p><p class="svelte-otcvr7"><!-- HTML_TAG_START -->Creating a data set of colloquially recognized place names in the US is a mammoth task since there are tens of thousands of places with varying levels of entity recognition. We are constantly updating the data, so if you spot something wrong with the places being used (or not), <a href=https://docs.google.com/spreadsheets/d/1cHtvcuxvxI6Y2hA5Xa2wg8AW0SZ7ZYG5H5x7H4jGLdk/edit#gid=0 target=_blank rel=noreferrer>help us improve it!</a><!-- HTML_TAG_END --></p>
-		<p class="svelte-otcvr7"><!-- HTML_TAG_START -->Get in touch at russell@pudding.cool, and consider supporting The Pudding on <a href=https://www.patreon.com/thepudding target=_blank rel=noreferrer>Patreon!</a><!-- HTML_TAG_END --></p>
-		<p class="svelte-otcvr7"><a class="tip-button svelte-423hsz" href="" target="_blank" rel="noreferrer" role="button">Send a tip to The Pudding <span class="svelte-423hsz"></span>
+	<section id="outro" class="svelte-asyxxf"><p class="svelte-asyxxf"><!-- HTML_TAG_START -->Created by <a href=https://pudding.cool/author/russell-samora target=_blank rel=noreferrer>Russell Samora</a>. With editing by <a href=https://pudding.cool/author/michelle-mcghee target=_blank rel=noreferrer>Michelle McGhee</a>.<!-- HTML_TAG_END --></p><p class="svelte-asyxxf"><!-- HTML_TAG_START -->Please note that this is a very opinionated take on answering this question. Consider it a conversation starter, not ender. To go deeper on the underlying data and methods, visit our <a href=https://pudding.cool target=_blank rel=no_referrer>interactive explainer</a> where you customize and share your own.<!-- HTML_TAG_END --></p><p class="svelte-asyxxf"><!-- HTML_TAG_START -->Creating a data set of colloquially recognized place names in the US is a mammoth task since there are tens of thousands of places with varying levels of entity recognition. We are constantly updating the data, so if you spot something wrong with the places being used (or not), <a href=https://docs.google.com/spreadsheets/d/1cHtvcuxvxI6Y2hA5Xa2wg8AW0SZ7ZYG5H5x7H4jGLdk/edit#gid=0 target=_blank rel=noreferrer>help us improve it!</a><!-- HTML_TAG_END --></p>
+		<p class="svelte-asyxxf"><!-- HTML_TAG_START -->Get in touch at russell@pudding.cool, and consider supporting The Pudding on <a href=https://www.patreon.com/thepudding target=_blank rel=noreferrer>Patreon!</a><!-- HTML_TAG_END --></p>
+		<p class="svelte-asyxxf"><a class="tip-button svelte-423hsz" href="" target="_blank" rel="noreferrer" role="button">Send a tip to The Pudding <span class="svelte-423hsz"></span>
 </a></p></section></article>
 
-<footer class="svelte-1en6glb"><section class="stories svelte-1en6glb"></section>
+<footer class="svelte-13ez18p"><section class="stories svelte-13ez18p"></section>
 
-	<section class="about svelte-1en6glb"><div class="wordmark svelte-1en6glb"><!-- HTML_TAG_START --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.6 50"><path class="st0" d="M150.1 9.5c1.5 0 2.8 1.3 2.8 2.8s-1.3 2.8-2.8 2.8-2.8-1.3-2.8-2.8 1.3-2.8 2.8-2.8zM147.2 17.3h5.6v18.2h-5.6V17.3zM77.1 9.5h-8.9v26h5.6v-8.1h3.3c4.9 0 8.9-4 8.9-8.9s-3.9-9-8.9-9zm0 12.3h-3.3v-6.6h3.3c1.8 0 3.3 1.5 3.3 3.3s-1.4 3.3-3.3 3.3zM105.7 17.6h-5.6v8.9c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3v-8.9h-5.6v8.9c0 4.9 4 8.9 8.9 8.9s8.9-4 8.9-8.9v-8.9zM164.1 17.6c-4.9 0-8.9 4-8.9 8.9v8.9h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM119.7 16.2v1.4h-3.3c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4zM139.3 16.2v1.4H136c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8H136c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4h.1zM183.7 17.6c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h3.3v5.1c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3V38l-5.6 3.3c.4 4.5 4.2 8.1 8.9 8.1 4.9 0 8.9-4 8.9-8.9V17.6h-8.9zm3.3 5.8V30h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3zM28.6 17.6c-1.2 0-2.3.2-3.3.6V9.5l-5.6 3.3v22.6h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM17.8 9.5H0v5.6h6.1v20.3h5.6V15.1h6.1V9.5zM48.3 30.2c-.4 0-1.2-.1-1.8-.4l5.2-2.1 5.6-2.3-1-2.3-.1-.2c-.1-.3-.3-.6-.5-1-.1-.1-.1-.2-.2-.3 0 0 0-.1-.1-.1l-.1-.1-.1-.1c-1.6-2.2-4-3.5-6.7-3.7h-.6c-4.9 0-8.9 4-8.9 8.9 0 .4 0 .9.1 1.4V28.2c0 .3.1.5.2.8v.2c.1.3.2.7.4 1v.2c.1.3.3.5.4.8 0 .1.1.1.1.2.1.2.3.4.4.6v.1s0 .1.1.1l.1.1c1.7 2.1 4.4 3.4 7.2 3.4h6.1v-5.2c.4-.3-3.5-.3-5.8-.3zm7.9-7.3zm-11.6 2.8l-.2.1c.2-1.9 1.8-3.5 3.7-3.5.9 0 1.8.4 2.4.9L46.2 25l-1.6.7z"/></svg><!-- HTML_TAG_END --></div>
-		<p><a href="https://pudding.cool" class="svelte-1en6glb">The Pudding</a>
+	<section class="about svelte-13ez18p"><div class="wordmark svelte-13ez18p"><!-- HTML_TAG_START --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.6 50"><path class="st0" d="M150.1 9.5c1.5 0 2.8 1.3 2.8 2.8s-1.3 2.8-2.8 2.8-2.8-1.3-2.8-2.8 1.3-2.8 2.8-2.8zM147.2 17.3h5.6v18.2h-5.6V17.3zM77.1 9.5h-8.9v26h5.6v-8.1h3.3c4.9 0 8.9-4 8.9-8.9s-3.9-9-8.9-9zm0 12.3h-3.3v-6.6h3.3c1.8 0 3.3 1.5 3.3 3.3s-1.4 3.3-3.3 3.3zM105.7 17.6h-5.6v8.9c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3v-8.9h-5.6v8.9c0 4.9 4 8.9 8.9 8.9s8.9-4 8.9-8.9v-8.9zM164.1 17.6c-4.9 0-8.9 4-8.9 8.9v8.9h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM119.7 16.2v1.4h-3.3c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4zM139.3 16.2v1.4H136c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8H136c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4h.1zM183.7 17.6c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h3.3v5.1c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3V38l-5.6 3.3c.4 4.5 4.2 8.1 8.9 8.1 4.9 0 8.9-4 8.9-8.9V17.6h-8.9zm3.3 5.8V30h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3zM28.6 17.6c-1.2 0-2.3.2-3.3.6V9.5l-5.6 3.3v22.6h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM17.8 9.5H0v5.6h6.1v20.3h5.6V15.1h6.1V9.5zM48.3 30.2c-.4 0-1.2-.1-1.8-.4l5.2-2.1 5.6-2.3-1-2.3-.1-.2c-.1-.3-.3-.6-.5-1-.1-.1-.1-.2-.2-.3 0 0 0-.1-.1-.1l-.1-.1-.1-.1c-1.6-2.2-4-3.5-6.7-3.7h-.6c-4.9 0-8.9 4-8.9 8.9 0 .4 0 .9.1 1.4V28.2c0 .3.1.5.2.8v.2c.1.3.2.7.4 1v.2c.1.3.3.5.4.8 0 .1.1.1.1.2.1.2.3.4.4.6v.1s0 .1.1.1l.1.1c1.7 2.1 4.4 3.4 7.2 3.4h6.1v-5.2c.4-.3-3.5-.3-5.8-.3zm7.9-7.3zm-11.6 2.8l-.2.1c.2-1.9 1.8-3.5 3.7-3.5.9 0 1.8.4 2.4.9L46.2 25l-1.6.7z"/></svg><!-- HTML_TAG_END --></div>
+		<p><a href="https://pudding.cool" class="svelte-13ez18p">The Pudding</a>
 			is a digital publication that explains ideas debated in culture with visual
 			essays.
 		</p></section>
 
-	<section class="links svelte-1en6glb"><ul class="svelte-1en6glb"><li class="svelte-1en6glb"><a href="https://pudding.cool/about" class="svelte-1en6glb"><span class="svelte-1en6glb">ABOUT</span></a>
-				</li><li class="svelte-1en6glb"><a href="https://facebook.com/pudding.viz/" class="svelte-1en6glb"><span class="svelte-1en6glb">FACEBOOK</span></a>
-				</li><li class="svelte-1en6glb"><a href="https://twitter.com/puddingviz/" class="svelte-1en6glb"><span class="svelte-1en6glb">TWITTER</span></a>
-				</li><li class="svelte-1en6glb"><a href="https://www.instagram.com/the.pudding" class="svelte-1en6glb"><span class="svelte-1en6glb">INSTAGRAM</span></a>
-				</li><li class="svelte-1en6glb"><a href="https://patreon.com/thepudding/" class="svelte-1en6glb"><span class="svelte-1en6glb">PATREON</span></a>
-				</li><li class="svelte-1en6glb"><a href="https://pudding.cool/privacy/" class="svelte-1en6glb"><span class="svelte-1en6glb">PRIVACY</span></a>
-				</li><li class="svelte-1en6glb"><a href="https://thepuddingmail.substack.com" class="svelte-1en6glb"><span class="svelte-1en6glb">NEWSLETTER</span></a>
-				</li><li class="svelte-1en6glb"><a href="https://pudding.cool/feed/index.xml" class="svelte-1en6glb"><span class="svelte-1en6glb">RSS</span></a>
+	<section class="links svelte-13ez18p"><ul class="svelte-13ez18p"><li class="svelte-13ez18p"><a href="https://pudding.cool/about" class="svelte-13ez18p"><span class="svelte-13ez18p">ABOUT</span></a>
+				</li><li class="svelte-13ez18p"><a href="https://facebook.com/pudding.viz/" class="svelte-13ez18p"><span class="svelte-13ez18p">FACEBOOK</span></a>
+				</li><li class="svelte-13ez18p"><a href="https://twitter.com/puddingviz/" class="svelte-13ez18p"><span class="svelte-13ez18p">TWITTER</span></a>
+				</li><li class="svelte-13ez18p"><a href="https://www.instagram.com/the.pudding" class="svelte-13ez18p"><span class="svelte-13ez18p">INSTAGRAM</span></a>
+				</li><li class="svelte-13ez18p"><a href="https://patreon.com/thepudding/" class="svelte-13ez18p"><span class="svelte-13ez18p">PATREON</span></a>
+				</li><li class="svelte-13ez18p"><a href="https://pudding.cool/privacy/" class="svelte-13ez18p"><span class="svelte-13ez18p">PRIVACY</span></a>
+				</li><li class="svelte-13ez18p"><a href="https://thepuddingmail.substack.com" class="svelte-13ez18p"><span class="svelte-13ez18p">NEWSLETTER</span></a>
+				</li><li class="svelte-13ez18p"><a href="https://pudding.cool/feed/index.xml" class="svelte-13ez18p"><span class="svelte-13ez18p">RSS</span></a>
 				</li></ul></section>
 </footer></main>
 
 
-		<script type="module" data-sveltekit-hydrate="16jf2gt">
-			import { start } from "./_app/immutable/start-ab7ead81.js";
+		<script type="module" data-sveltekit-hydrate="1lyjrpk">
+			import { start } from "./_app/immutable/start-d6335e09.js";
 
 			start({
 				assets: "",
 				env: {},
-				target: document.querySelector('[data-sveltekit-hydrate="16jf2gt"]').parentNode,
-				version: "1678907336595",
+				target: document.querySelector('[data-sveltekit-hydrate="1lyjrpk"]').parentNode,
+				version: "1678972818917",
 				hydrate: {
 					node_ids: [0, 2],
 					data: [null,{type:"data",data:{data:["a","b","c"]},uses:{}}],
