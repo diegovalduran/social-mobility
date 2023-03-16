@@ -60,6 +60,7 @@
 
 	.group.is-top {
 		flex-direction: column;
+		align-items: flex-start;
 	}
 
 	.is-top .legend {

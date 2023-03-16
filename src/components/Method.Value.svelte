@@ -2,6 +2,7 @@
 	import ButtonSet from "$components/helpers/ButtonSet.svelte";
 	export let legend;
 	export let valueProp;
+	export let valueScale;
 	export let valueWeightDist;
 	export let valueWeightPop;
 	export let valueWeightWiki;
@@ -13,19 +14,20 @@
 		<div class="prop">
 			<ButtonSet
 				bind:value={valueProp}
+				legend="metric"
 				options={[
 					{ value: "share" },
 					{ value: "score" },
-					{ value: "shareDelta" },
-					{ value: "growth" }
+					{ value: "shareDelta" }
 				]}
 			/>
 		</div>
 
 		<div class="scale">
 			<ButtonSet
-				legend="relative to"
-				options={[{ value: "all counties" }, { value: "self" }]}
+				bind:value={valueScale}
+				legend="scale relative to counties?"
+				options={[{ value: "yes" }, { value: "no" }]}
 			/>
 		</div>
 
@@ -61,10 +63,6 @@
 </div>
 
 <style>
-	.method-value {
-		width: 15rem;
-	}
-
 	div {
 		margin-top: 16px;
 	}

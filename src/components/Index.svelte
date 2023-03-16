@@ -264,7 +264,7 @@
 	}
 
 	#interactive {
-		min-height: 480px;
+		min-height: 1280px;
 		margin: 64px auto;
 	}
 

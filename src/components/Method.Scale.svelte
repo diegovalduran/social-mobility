@@ -12,6 +12,7 @@
 		<legend>{legend}</legend>
 		<div class="scale">
 			<ButtonSet
+				legend="scale type"
 				bind:value={valueScale}
 				options={[{ value: "scalePow" }, { value: "scaleLog" }]}
 			/>
@@ -43,10 +44,6 @@
 </div>
 
 <style>
-	.method-scale {
-		width: 15rem;
-	}
-
 	div {
 		margin-top: 16px;
 	}

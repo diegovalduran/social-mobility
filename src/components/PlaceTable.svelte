@@ -22,4 +22,17 @@
 	p {
 		font-size: var(--14px);
 	}
+
+	/* :global(.place-table th:nth-of-type(1), .place-table td:nth-of-type(1)) {
+		width: 37%;
+	} */
+	:global(.place-table th:nth-of-type(2), .place-table td:nth-of-type(2)) {
+		width: 13%;
+	}
+	:global(.place-table th:nth-of-type(3), .place-table td:nth-of-type(3)) {
+		width: 17%;
+	}
+	:global(.place-table th:nth-of-type(4), .place-table td:nth-of-type(4)) {
+		width: 16%;
+	}
 </style>

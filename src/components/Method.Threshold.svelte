@@ -31,10 +31,6 @@
 </div>
 
 <style>
-	.method-threshold {
-		width: 15rem;
-	}
-
 	div {
 		margin-top: 16px;
 	}

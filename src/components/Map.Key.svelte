@@ -82,7 +82,7 @@
 	}
 
 	.top li {
-		font-weight: 900;
+		font-weight: 700;
 		margin-right: 16px;
 		margin-bottom: 8px;
 		display: flex;
@@ -116,6 +116,7 @@
 		text-align: center;
 		line-height: 1.2;
 		font-size: var(--14px);
+		font-weight: 900;
 	}
 
 	.top li:last-of-type {

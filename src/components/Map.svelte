@@ -55,9 +55,10 @@
 	export let valueWeightPop = "1";
 	export let valueWeightWiki = "1";
 
-	export let thresholdLower = 0.05;
-	export let thresholdUpper = 0.25;
+	export let thresholdLower = 0.02;
+	export let thresholdUpper = 0.05;
 	export let valueProp = "shareDelta";
+	export let valueScale = "no";
 
 	export let countiesByDist = [];
 
@@ -179,42 +180,42 @@
 		properties: d
 	}));
 
-	$: maxValue = max(
-		countiesWithData.features,
-		(d) => d.properties.data[0][valueProp]
-	);
+	$: maxValue =
+		valueScale === "no"
+			? 1
+			: max(countiesWithData.features, (d) => d.properties.data[0][valueProp]);
 
-	$: maxGrowth = max(
-		countiesWithData.features,
-		(d) => d.properties.data[0].growth
-	);
+	// $: maxGrowth = max(
+	// 	countiesWithData.features,
+	// 	(d) => d.properties.data[0].growth
+	// );
 
-	$: maxShareDelta = max(
-		countiesWithData.features,
-		(d) => d.properties.data[0].shareDelta
-	);
+	// $: maxShareDelta = max(
+	// 	countiesWithData.features,
+	// 	(d) => d.properties.data[0].shareDelta
+	// );
 
-	$: console.log({ valueProp, maxValue, maxGrowth, maxShareDelta });
+	// $: console.log({ valueProp, maxValue, maxGrowth, maxShareDelta });
 
-	$: console.table(
-		countiesWithData.features.find((d) => d.properties.name === "Berkshire")
-			.properties.data
-	);
+	// $: console.table(
+	// 	countiesWithData.features.find((d) => d.properties.name === "Berkshire")
+	// 		.properties.data
+	// );
 
-	$: console.table(
-		countiesWithData.features.find((d) => d.properties.name === "Wasco")
-			.properties.data
-	);
+	// $: console.table(
+	// 	countiesWithData.features.find((d) => d.properties.name === "Wasco")
+	// 		.properties.data
+	// );
 
-	$: console.table(
-		countiesWithData.features.find((d) => d.properties.name === "Lamoille")
-			.properties.data
-	);
+	// $: console.table(
+	// 	countiesWithData.features.find((d) => d.properties.name === "Lamoille")
+	// 		.properties.data
+	// );
 
-	$: console.table(
-		countiesWithData.features.find((d) => d.properties.name === "Androscoggin")
-			.properties.data
-	);
+	// $: console.table(
+	// 	countiesWithData.features.find((d) => d.properties.name === "Androscoggin")
+	// 		.properties.data
+	// );
 
 	$: getTier = (d) => {
 		if (d[valueProp] < thresholdLower * maxValue) return 0;
@@ -356,10 +357,9 @@
 		return {
 			name: d.properties.name,
 			state: d.properties.state,
-			labelA: a.label,
-			valueA: +format(".0f")((a[valueProp] / maxValue) * 100),
-			labelB: b.label,
-			valueB: +format(".0f")((b[valueProp] / maxValue) * 100),
+			label1: a.label,
+			label2: b.label,
+			margin: +format(".0f")((a[valueProp] - b[valueProp]) * 100),
 			index,
 			style
 		};
@@ -375,10 +375,9 @@
 	$: countyColumns = [
 		{ prop: "name", label: "County" },
 		{ prop: "state", label: "State" },
-		{ prop: "labelA", label: "1st Place" },
-		{ prop: "valueA", label: "1st Score", type: "number" },
-		{ prop: "labelB", label: "2nd Place" },
-		{ prop: "valueB", label: "2nd Score", type: "number" }
+		{ prop: "label1", label: "Rank #1" },
+		{ prop: "label2", label: "Rank #2" },
+		{ prop: "margin", label: "Share Margin", type: "number" }
 	];
 
 	$: placeRows = placeFeaturesRender.map((d) => ({
@@ -493,18 +492,21 @@
 	</p>
 {/if}
 
-<PlaceTable
-	caption="Every place named {placeName}, ranked"
-	rows={placeRows}
-	columns={placeColumns}
-	note={copy.placeNote}
-/>
+{#if story}
+	<PlaceTable
+		caption="Every place named {placeName}, ranked"
+		rows={placeRows}
+		columns={placeColumns}
+		note={copy.placeNote}
+	/>
+{/if}
 
-{#if true}
+{#if story}
 	<CountyTable
 		caption="Each county’s most likely {placeName} reference"
 		rows={countyRows}
 		columns={countyColumns}
+		note={copy.countyNote}
 	/>
 {/if}
 
@@ -521,6 +523,9 @@
 	p.table-intro span {
 		display: block;
 		font-size: var(--14px);
+		margin-top: 16px;
+		padding-top: 4px;
+		border-top: 1px solid var(--color-mark);
 	}
 
 	.figure {

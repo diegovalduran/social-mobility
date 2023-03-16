@@ -32,9 +32,10 @@
 	let valueWeightPop = 1;
 	let valueWeightWiki = 1;
 
-	let thresholdLower = 0.05;
-	let thresholdUpper = 0.25;
+	let thresholdLower = 0.02;
+	let thresholdUpper = 0.05;
 	let valueProp = "shareDelta";
+	let valueScale = "no";
 
 	let placeData;
 	let counties;
@@ -65,7 +66,7 @@
 			statesMesh = us.statesMesh;
 			nationMesh = us.nationMesh;
 
-			const start = options.find((d) => d.name === "Georgia");
+			const start = options.find((d) => d.name === "Portland");
 			onChangePlace(start);
 		} catch (err) {
 			console.log(err);
@@ -73,57 +74,119 @@
 	});
 </script>
 
-<div id="title">
-	<h1><strong>{@html copy.hed}</strong></h1>
-	<p>
-		{@html copy.dek}
-	</p>
-</div>
-
 <article>
-	<section id="ui">
-		<div class="select">
-			<Select
-				placeholder="Search..."
-				{options}
-				on:change={({ detail }) => onChangePlace(detail)}
-			/>
-		</div>
-
-		<Scale
-			bind:valueScale={scaleTypeDist}
-			bind:valueExp={scaleExpDist}
-			bind:valueBounds={scaleBoundsDist}
-			legend="Distance Scale (mi)"
-		/>
-
-		<Scale
-			bind:valueScale={scaleTypePop}
-			bind:valueExp={scaleExpPop}
-			bind:valueBounds={scaleBoundsPop}
-			legend="Population Scale (people)"
-		/>
-
-		<Scale
-			bind:valueScale={scaleTypeWiki}
-			bind:valueExp={scaleExpWiki}
-			bind:valueBounds={scaleBoundsWiki}
-			legend="Wiki Scale (article length)"
-		/>
-		<Value
-			bind:valueProp
-			bind:valueWeightDist
-			bind:valueWeightPop
-			bind:valueWeightWiki
-			legend="Value"
-		/>
-		<Threshold
-			bind:thresholdLower
-			bind:thresholdUpper
-			legend="Opacity threshold"
-		/>
+	<section id="title">
+		<h1><strong>{@html copy.hed}</strong></h1>
+		<p>
+			{@html copy.dek}
+		</p>
 	</section>
 
+	<section id="ui">
+		<div class="select">
+			<Select {options} on:change={({ detail }) => onChangePlace(detail)} />
+		</div>
+
+		<div class="play">
+			<Value
+				bind:valueProp
+				bind:valueScale
+				bind:valueWeightDist
+				bind:valueWeightPop
+				bind:valueWeightWiki
+				legend="Value"
+			/>
+			<details>
+				<summary>Explanation</summary>
+				<div class="inner">
+					{#each copy.valueExplanation as { value }}
+						<p>{@html value}</p>
+					{/each}
+				</div>
+			</details>
+		</div>
+		<div class="play">
+			<Threshold
+				bind:thresholdLower
+				bind:thresholdUpper
+				legend="Opacity threshold"
+			/>
+			<details>
+				<summary>Explanation</summary>
+				<div class="inner">
+					{#each copy.thresholdExplanation as { value }}
+						<p>{@html value}</p>
+					{/each}
+				</div>
+			</details>
+		</div>
+
+		<div class="play">
+			<Scale
+				bind:valueScale={scaleTypeDist}
+				bind:valueExp={scaleExpDist}
+				bind:valueBounds={scaleBoundsDist}
+				legend="Distance Scale (mi)"
+			/>
+			<details>
+				<summary>Explanation</summary>
+				<div class="inner">
+					{#each copy.distanceExplanation as { value }}
+						<p>{@html value}</p>
+					{/each}
+				</div>
+			</details>
+		</div>
+
+		<div class="play">
+			<Scale
+				bind:valueScale={scaleTypePop}
+				bind:valueExp={scaleExpPop}
+				bind:valueBounds={scaleBoundsPop}
+				legend="Population Scale (people)"
+			/>
+			<details>
+				<summary>Explanation</summary>
+				<div class="inner">
+					{#each copy.populationExplanation as { value }}
+						<p>{@html value}</p>
+					{/each}
+				</div>
+			</details>
+		</div>
+
+		<div class="play">
+			<Scale
+				bind:valueScale={scaleTypeWiki}
+				bind:valueExp={scaleExpWiki}
+				bind:valueBounds={scaleBoundsWiki}
+				legend="Wiki Scale (article length)"
+			/>
+			<details>
+				<summary>Explanation</summary>
+				<div class="inner">
+					{#each copy.wikiExplanation as { value }}
+						<p>{@html value}</p>
+					{/each}
+				</div>
+			</details>
+		</div>
+
+		<div class="play">
+			<h4>Other Details</h4>
+			<details open>
+				<summary>Explanation</summary>
+				<div class="inner">
+					{#each copy.miscExplanation as { value }}
+						<p>{@html value}</p>
+					{/each}
+				</div>
+			</details>
+		</div>
+	</section>
+</article>
+
+<div class="figure">
 	<section id="maps">
 		{#if placeData}
 			<div class="top-score">
@@ -150,6 +213,7 @@
 					{thresholdLower}
 					{thresholdUpper}
 					{valueProp}
+					{valueScale}
 				/>
 			</div>
 		{/if}
@@ -208,39 +272,62 @@
 			</div>
 		{/if} -->
 	</section>
-</article>
+</div>
 
 <!-- <Footer /> -->
 <style>
-	#title {
-		text-align: center;
+	article {
+		font-size: var(--16px);
+		width: 22rem;
+		padding: 16px 16px;
 	}
 
-	article {
-		display: flex;
-		margin-top: 32px;
-		font-size: var(--16px);
+	h1 {
+		font-size: var(--36px);
 	}
 
 	.top-score {
 		max-width: 1280px;
 	}
 
-	section {
-		margin-bottom: 32px;
-	}
-
 	#ui {
-		width: 16rem;
-		margin: 0 32px;
+		width: 100%;
 		display: flex;
 		flex-direction: column;
 	}
 
+	.figure {
+		position: fixed;
+		top: 0;
+		left: 22rem;
+		width: calc(100% - 22rem);
+		padding: 0 32px;
+		max-width: 1280px;
+		height: 100vh;
+		display: flex;
+		align-items: center;
+	}
+
 	#maps {
-		margin-left: 32px;
-		position: relative;
-		width: 1280px;
+		width: 100%;
+	}
+
+	.play {
+		margin-top: 32px;
+	}
+
+	details div {
+		border: 2px solid var(--color-mark);
+		padding: 16px;
+		background: var(--color-bg);
+	}
+
+	:global(.play details p:first-of-type) {
+		margin-top: 0;
+	}
+
+	:global(.play details p:last-of-type) {
+		margin-bottom: 0;
 	}
 
 	@media only screen and (min-width: 1280px) {
