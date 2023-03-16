@@ -17,20 +17,20 @@
 		<div class="info">
 			<button on:click={() => ($modal = true)}>Info</button>
 		</div>
-	{/if}
 
-	<!-- svelte-ignore a11y-click-events-have-key-events -->
-	<div class="modal" class:visible={$modal} on:click={() => ($modal = false)}>
-		<div class="bg" />
-		<div class="content">
-			<div class="inner" on:click|stopPropagation={() => {}}>
-				{#each copy.info as { value }}
-					<p>{@html value}</p>
-				{/each}
+		<!-- svelte-ignore a11y-click-events-have-key-events -->
+		<div class="modal" class:visible={$modal} on:click={() => ($modal = false)}>
+			<div class="bg" />
+			<div class="content">
+				<div class="inner" on:click|stopPropagation={() => {}}>
+					{#each copy.info as { value }}
+						<p>{@html value}</p>
+					{/each}
+				</div>
+				<button><Icon name="x" strokeWidth="3px" /></button>
 			</div>
-			<button><Icon name="x" strokeWidth="3px" /></button>
 		</div>
-	</div>
+	{/if}
 </header>
 
 <style>
