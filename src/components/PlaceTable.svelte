@@ -7,7 +7,7 @@
 </script>
 
 <div class="place-table">
-	<SortTable {caption} {rows} {columns} scrollable={true} --height={"360px"} />
+	<SortTable {caption} {rows} {columns} scrollable={true} --height={"640px"} />
 	<p>
 		Note: {@html note}
 	</p>
@@ -27,12 +27,12 @@
 		width: 37%;
 	} */
 	:global(.place-table th:nth-of-type(2), .place-table td:nth-of-type(2)) {
-		width: 13%;
+		width: 17%;
 	}
 	:global(.place-table th:nth-of-type(3), .place-table td:nth-of-type(3)) {
 		width: 17%;
 	}
 	:global(.place-table th:nth-of-type(4), .place-table td:nth-of-type(4)) {
-		width: 16%;
+		width: 22%;
 	}
 </style>

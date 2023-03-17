@@ -7,7 +7,7 @@
 </script>
 
 <div class="county-table">
-	<SortTable {caption} {rows} {columns} scrollable={true} --height={"360px"} />
+	<SortTable {caption} {rows} {columns} scrollable={true} --height={"450px"} />
 	<p>
 		Note: {@html note}
 	</p>
