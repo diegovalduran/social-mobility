@@ -95,7 +95,7 @@
 			<details open>
 				<summary>Explanation</summary>
 				<div class="inner">
-					{#each copy.miscExplanation as { value }}
+					{#each copy.introExplanation as { value }}
 						<p>{@html value}</p>
 					{/each}
 				</div>
@@ -308,7 +308,7 @@
 <style>
 	article {
 		font-size: var(--16px);
-		width: 22rem;
+		width: 20rem;
 		padding: 16px 16px;
 	}
 
@@ -329,8 +329,8 @@
 	.figure {
 		position: fixed;
 		top: 0;
-		left: 22rem;
-		width: calc(100% - 22rem);
+		left: 20rem;
+		width: calc(100% - 20rem);
 		padding: 0 32px;
 		max-width: 1280px;
 		height: 100vh;
@@ -376,6 +376,15 @@
 		:global(.method input) {
 			font-size: var(--16px) !important;
 		}
+
+		article {
+			width: 24rem;
+		}
+
+		.figure {
+			left: 24rem;
+			width: calc(100% - 24rem);
+		}
 	}
 
 	@media only screen and (min-width: 960px) {
@@ -385,6 +394,15 @@
 
 		.small {
 			display: none;
+		}
+
+		article {
+			width: 22rem;
+		}
+
+		.figure {
+			left: 22rem;
+			width: calc(100% - 22rem);
 		}
 	}
 </style>
