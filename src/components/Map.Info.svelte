@@ -44,4 +44,11 @@
 			font-size: var(--28px);
 		}
 	}
+
+	@media only screen and (max-width: 420px) {
+		h2 {
+			margin: 16px auto;
+			font-size: var(--24px);
+		}
+	}
 </style>

@@ -444,9 +444,13 @@
 			<MapPath
 				features={countiesMesh}
 				stroke={countyStroke}
-				strokeWidth="0.5"
+				strokeWidth={$mq["30rem"] ? 0.5 : 0.25}
 			/>
-			<MapPath features={statesMesh} stroke={COLOR_FG} strokeWidth="0.5" />
+			<MapPath
+				features={statesMesh}
+				stroke={COLOR_FG}
+				strokeWidth={$mq["30rem"] ? 0.5 : 0.25}
+			/>
 			<MapPath features={nationMesh} stroke={COLOR_FG} strokeWidth="0.5" />
 			<MapPath features={activeFeatures} stroke={COLOR_FG} strokeWidth="2" />
 			{#key displayName}
@@ -495,6 +499,7 @@
 {#if story}
 	<PlaceTable
 		caption="Every place named {placeName}, ranked"
+		mobile={!$mq["50rem"]}
 		rows={placeRows}
 		columns={placeColumns}
 		note={copy.placeNote}
@@ -503,7 +508,10 @@
 
 {#if story}
 	<CountyTable
-		caption="Each county’s most likely {placeName} reference"
+		caption="Each county’s most likely {placeName}{$mq['40rem']
+			? ' reference'
+			: ''}"
+		mobile={!$mq["50rem"]}
 		rows={countyRows}
 		columns={countyColumns}
 		note={copy.countyNote}

@@ -4,6 +4,7 @@
 	export let rows = []; // [{ class, style }]
 	export let columns = []; // [{ label, prop, sort = true, type = "text", dir = undefined, sortFn: undefined, formatFn }];
 	export let scrollable = false;
+	export let mobile = true;
 
 	const dispatch = createEventDispatcher();
 
@@ -53,7 +54,7 @@
 	$: autoSort(tr);
 </script>
 
-<table class:scrollable>
+<table class:scrollable class:mobile>
 	<caption>{caption}</caption>
 	<thead>
 		<tr>
@@ -77,9 +78,10 @@
 		{#each tr as r}
 			<tr style={r.style}
 						class={r.class} on:click={() => dispatch("chart", r)}>
-				{#each columns as { prop, type, formatFn = (d) => d }}
+				{#each columns as { label, prop, type, formatFn = (d) => d }}
 					{@const value = formatFn(r[prop])}
 					<td
+						data-th={label}
 						class:is-number={type === "number"}
 					>
 						{@html value}
@@ -187,5 +189,48 @@
 		table-layout: fixed;
 	}
 
+	/* mobile */
+	table.mobile {
+		/* max-width: 90%; */
+		margin: 0 auto;
+	}
+
+	.mobile thead {
+    display: none;
+  }
+  
+	.mobile tbody {
+    width: 100%;
+  }
+  
+	.mobile tr,
+  .mobile th,
+  .mobile td {
+    display: block;
+    padding: 0;
+  }
+  
+	.mobile tr {
+    border-bottom: none;
+    margin: 0;
+  }
+
+	.mobile td {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-end;
+		text-align: left;
+		width: auto;
+		border-bottom: 1px solid var(--color-fg);
+		padding: 4px 8px;
+	}
+
+	  .mobile td[data-th]:before {
+    content: attr(data-th);
+    font-weight: bold;
+    display: block;
+    content: attr(data-th);
+		max-width: 50%;
+  }
 
 </style>

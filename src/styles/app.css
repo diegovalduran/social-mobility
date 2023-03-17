@@ -99,7 +99,7 @@ body {
 
 table caption {
 	font-size: var(--24px);
-	font-weight: 900 !important;
+	font-weight: 700 !important;
 	text-align: center;
 }
 
@@ -120,5 +120,11 @@ summary {
 
 	input {
 		font-size: var(--20px) !important;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	table caption {
+		font-size: var(--20px);
 	}
 }

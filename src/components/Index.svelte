@@ -112,7 +112,7 @@
 <article>
 	<section id="intro">
 		<div class="hero">
-			<p class="overline"><strong>{copy.title}</strong></p>
+			<p class="overline"><strong>{@html copy.overline}</strong></p>
 			<h1 class="hed">{copy.hed}</h1>
 			<!-- <p class="dek">{copy.dek}</p> -->
 		</div>
@@ -234,6 +234,7 @@
 
 	.overline {
 		margin: 0;
+		line-height: 1.2;
 	}
 
 	.hed {
@@ -312,6 +313,10 @@
 		vertical-align: baseline;
 	}
 
+	:global(.overline br) {
+		display: none;
+	}
+
 	@media only screen and (max-width: 640px) {
 		.hed {
 			font-size: var(--32px);
@@ -319,6 +324,10 @@
 
 		.overline {
 			font-size: var(--14px);
+		}
+
+		:global(.overline br) {
+			display: block;
 		}
 	}
 

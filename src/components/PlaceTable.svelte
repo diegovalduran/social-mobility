@@ -1,5 +1,7 @@
 <script>
 	import SortTable from "$components/helpers/SortTable.svelte";
+	export let mobile;
+	export let scrollable = true;
 	export let rows = [];
 	export let columns = [];
 	export let caption;
@@ -7,7 +9,14 @@
 </script>
 
 <div class="place-table">
-	<SortTable {caption} {rows} {columns} scrollable={true} --height={"640px"} />
+	<SortTable
+		{caption}
+		{rows}
+		{columns}
+		{mobile}
+		{scrollable}
+		--height={mobile ? "360px" : "640px"}
+	/>
 	<p>
 		Note: {@html note}
 	</p>
