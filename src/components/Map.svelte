@@ -128,9 +128,9 @@
 		const label1 = data[0]?.label;
 		const label2 = data[1]?.label;
 		const score = data[0][valueProp] / maxValue;
-		const toss = score < 0.5;
-		const maybe = score >= 0.5 && score < 0.75;
-		const probably = score >= 0.75;
+		const toss = score < thresholdLower;
+		const maybe = score >= thresholdLower && score < thresholdUpper;
+		const probably = score >= thresholdUpper;
 		const likelihood = toss ? "could" : maybe ? "maybe" : "probably";
 		const post = toss ? ` or ${label2}` : ".";
 		const s = toss ? "" : "s";

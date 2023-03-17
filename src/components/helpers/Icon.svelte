@@ -1,5 +1,6 @@
 <script>
 	import { onMount } from "svelte";
+	import { X, MapPin, DollarSign, Forward } from "lucide-svelte";
 	export const directions = ["n", "ne", "e", "se", "s", "sw", "w", "nw"];
 
 	export let name;
@@ -8,7 +9,9 @@
 	export let color = undefined;
 	export let strokeWidth = undefined;
 
-	let Component;
+	// let Component;
+
+	const components = { X, MapPin, DollarSign, Forward };
 
 	const nameToComponent = (str) => {
 		const camel = str.replace(/[^a-zA-Z0-9]+(.)/g, (m, c) => c.toUpperCase());
@@ -17,17 +20,14 @@
 		return `${upper}${sliced}`;
 	};
 
-	$: rotation = directions.indexOf(direction) * 45;
+	$: component = components[nameToComponent(name)];
 
-	onMount(async () => {
-		const key = nameToComponent(name);
-		Component = (await import("lucide-svelte"))[key];
-	});
+	$: rotation = directions.indexOf(direction) * 45;
 </script>
 
-{#if Component}
+{#if component}
 	<span class="icon" style="transform: rotate({rotation}deg);">
-		<svelte:component this={Component} {size} {color} {strokeWidth} />
+		<svelte:component this={component} {size} {color} {strokeWidth} />
 	</span>
 {/if}
 

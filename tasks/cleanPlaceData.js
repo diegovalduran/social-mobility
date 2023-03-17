@@ -17,8 +17,8 @@ export default function cleanPlaceData() {
 
 	const cleaned = raw
 		.filter((d) => !d.remove)
-		.map((d, i) => ({
-			id: i,
+		.map((d) => ({
+			id: d.id,
 			name: d.name,
 			state: getStateAbbr(d.state),
 			county: cleanCounty(d.county),

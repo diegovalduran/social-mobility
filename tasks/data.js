@@ -5,6 +5,64 @@ const copy = JSON.parse(fs.readFileSync("./src/data/copy-main.json", "utf8"));
 
 const places = cleanPlaceData();
 
+function makeChangelog() {
+	const prevChangelog = d3.csvParse(
+		fs.readFileSync("./src/data/places-changelog.csv", "utf8")
+	);
+
+	const prevPlaces = JSON.parse(
+		fs.readFileSync("./src/data/places-latest.json", "utf8")
+	);
+
+	const changed = places
+		.map((newD) => {
+			const oldD = prevPlaces.find((p) => p.id === newD.id) || {};
+			const diffs = Object.keys(newD).filter(
+				(prop) => newD[prop] !== oldD[prop]
+			);
+			return diffs.length ? { newD, oldD, diffs } : undefined;
+		})
+		.filter((d) => d);
+
+	const getPlaceName = ({ name, county, state, country }) => {
+		const parts = [name];
+		if (county) parts.push(county);
+		if (state) parts.push(state);
+		if (country) parts.push(country);
+		return parts.join(", ");
+	};
+
+	// date in format "2023-01-05";
+	const date = new Date().toISOString().slice(0, 10);
+
+	const newChangelog = changed.map(({ newD, oldD, diffs }) => {
+		const place = getPlaceName(newD);
+		const changes = oldD
+			? diffs
+					.map((d) => {
+						const old = oldD[d];
+						const new_ = newD[d];
+						return `[${d}] ${old} => ${new_}`;
+					})
+					.join(" | ")
+			: "place added";
+
+		return { date, text: `${place}:  ${changes}` };
+	});
+
+	const removedChangelog = prevPlaces
+		.filter((d) => !places.find((p) => p.id === d.id))
+		.map((d) => {
+			const place = getPlaceName(d);
+			return { date, text: `${place}: place removed` };
+		});
+
+	const changelog = [...prevChangelog, ...newChangelog, ...removedChangelog];
+
+	fs.writeFileSync("./src/data/places-latest.json", JSON.stringify(places));
+	fs.writeFileSync("./src/data/places-changelog.csv", d3.csvFormat(changelog));
+}
+
 function makePlaces() {
 	const byPhoneme = d3.groups(places, (d) => d.phoneme);
 
@@ -108,6 +166,7 @@ function makeStats() {
 	console.log(".1 wiki all", wikis[iW]);
 }
 
+makeChangelog();
 makePlaces();
 makeOptions();
 makeCoordinates();
