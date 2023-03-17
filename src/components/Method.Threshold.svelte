@@ -7,7 +7,7 @@
 
 <div class="method-threshold">
 	<fieldset>
-		<legend>{legend}</legend>
+		<legend class="sr-only">{legend}</legend>
 		<div class="threshold">
 			<p>Score &gt;= {thresholdUpper} is 1</p>
 			<input

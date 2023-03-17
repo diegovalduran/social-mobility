@@ -8,21 +8,20 @@
 	<meta http-equiv="content-security-policy" content="">
 		<link href="./_app/immutable/assets/_layout.33dd9dc1.css" rel="stylesheet">
 		<link href="./_app/immutable/assets/copy-main.40da67b0.css" rel="stylesheet">
-		<link href="./_app/immutable/assets/_page.57a067ec.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/_page.930756f4.css" rel="stylesheet">
 		<link href="./_app/immutable/assets/version.712fc796.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.2a447ab5.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.60eb75e0.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.2da765cd.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/paths.564ac200.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.4f10db4f.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/preload-helper.41c905a7.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/_layout.svelte.8f08246e.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/stores.fce34765.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/copy-main.84117280.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.bbd29539.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.73aa4fa5.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.56b52ea1.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/paths.468fcf81.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.cb21a79c.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/_layout.svelte.0bbc7c24.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/stores.e5130928.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/copy-main.2d54e806.js">
 		<link rel="modulepreload" href="./_app/immutable/entry/_layout.js.822e9be0.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/_layout.79cb23d1.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/_page.svelte.91866692.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/version.bd804bb2.js"><title>A Map of Places in the US with the Same Name</title><!-- HEAD_svelte-1htu80s_START --><meta name="description" content="We took a shot at calculating what place someone is most likely referring to, depending on where they are."><meta name="author" content="The Pudding"><meta name="news_keywords" content=""><meta property="og:title" content="A Map of Places in the US with the Same Name"><meta property="og:site_name" content="The Pudding"><meta property="og:url" content="https://pudding.cool/2023/03/same-name"><meta property="og:description" content="We took a shot at calculating what place someone is most likely referring to, depending on where they are."><meta property="og:type" content="article"><meta property="og:locale" content="en_US"><meta property="og:image" content="https://pudding.cool/2023/03/same-name/assets/social-facebook.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="600"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="https://pudding.cool"><meta name="twitter:creator" content="@puddingviz"><meta name="twitter:title" content="A Map of Places in the US with the Same Name"><meta name="twitter:description" content="We took a shot at calculating what place someone is most likely referring to, depending on where they are."><meta name="twitter:image:src" content="https://pudding.cool/2023/03/same-name/assets/social-twitter.jpg"><meta name="robots" content="max-image-preview:large"><link rel="canonical" href="https://pudding.cool/2023/03/same-name/"><!-- HEAD_svelte-1htu80s_END -->
+		<link rel="modulepreload" href="./_app/immutable/entry/_page.svelte.93fe4de6.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/version.31783469.js"><title>A Map of Places in the US with the Same Name</title><!-- HEAD_svelte-1htu80s_START --><meta name="description" content="We took a shot at calculating what place someone is most likely referring to, depending on where they are."><meta name="author" content="The Pudding"><meta name="news_keywords" content=""><meta property="og:title" content="A Map of Places in the US with the Same Name"><meta property="og:site_name" content="The Pudding"><meta property="og:url" content="https://pudding.cool/2023/03/same-name"><meta property="og:description" content="We took a shot at calculating what place someone is most likely referring to, depending on where they are."><meta property="og:type" content="article"><meta property="og:locale" content="en_US"><meta property="og:image" content="https://pudding.cool/2023/03/same-name/assets/social-facebook.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="600"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="https://pudding.cool"><meta name="twitter:creator" content="@puddingviz"><meta name="twitter:title" content="A Map of Places in the US with the Same Name"><meta name="twitter:description" content="We took a shot at calculating what place someone is most likely referring to, depending on where they are."><meta name="twitter:image:src" content="https://pudding.cool/2023/03/same-name/assets/social-twitter.jpg"><meta name="robots" content="max-image-preview:large"><link rel="canonical" href="https://pudding.cool/2023/03/same-name/"><!-- HEAD_svelte-1htu80s_END -->
 </head>
 
 <body>
@@ -34,55 +33,58 @@
 
 	<div class="info svelte-1vysd7m"><button class="svelte-1vysd7m">Info</button></div>
 
-	
-	<div class="modal svelte-1vysd7m"><div class="bg svelte-1vysd7m"></div>
+		
+		<div class="modal svelte-1vysd7m"><div class="bg svelte-1vysd7m"></div>
 			<div class="content svelte-1vysd7m"><div class="inner"><p><!-- HTML_TAG_START -->Created by <a href=https://pudding.cool/author/russell-samora target=_blank rel=noreferrer>Russell Samora</a>. With editing by <a href=https://pudding.cool/author/michelle-mcghee target=_blank rel=noreferrer>Michelle McGhee</a>.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Please note that this is a very opinionated take on answering this question. Consider it a conversation starter, not ender. To go deeper on the underlying data and methods, visit our <a href=method target=_blank rel=no_referrer>interactive explainer</a> where you customize and share your own.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Creating a data set of colloquially recognized place names in the US is a mammoth task since there are tens of thousands of places with varying levels of entity recognition. We are constantly updating the data, so if you spot something wrong with the places being used (or not), <a href=https://docs.google.com/spreadsheets/d/1cHtvcuxvxI6Y2hA5Xa2wg8AW0SZ7ZYG5H5x7H4jGLdk/edit#gid=0 target=_blank rel=noreferrer>help us improve it!</a><!-- HTML_TAG_END --></p></div>
-				<button class="svelte-1vysd7m"></button></div></div>
+				<button class="svelte-1vysd7m"><span class="icon svelte-1r7hpvv" style="transform: rotate(0deg);"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3px" stroke-linecap="round" stroke-linejoin="round" class="lucide-icon lucide lucide-x "><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></span></button></div></div>
 </header>
 <main id="content">
-<article class="svelte-w1x65a"><section id="intro" class="svelte-w1x65a"><div class="hero"><p class="overline svelte-w1x65a"><strong>A Map of Places in the US with the Same Name</strong></p>
-			<h1 class="hed svelte-w1x65a">We calculated what place someone is most likely referring to, depending on where they are.</h1>
+<article class="svelte-1q5di9q"><section id="intro" class="svelte-1q5di9q"><div class="hero"><p class="overline svelte-1q5di9q"><strong>A Map of Places in the US with the Same Name</strong></p>
+			<h1 class="hed svelte-1q5di9q">We calculated what place someone is most likely referring to, depending on where they are.</h1>
 			</div>
 
-		<div class="ui svelte-w1x65a"><div class="select svelte-w1x65a">
+		<div class="ui svelte-1q5di9q"><div class="select svelte-1q5di9q">
 
-<div data-svelte-typeahead role="combobox" aria-haspopup="listbox" aria-controls="typeahead-0.avqme3o2zob-listbox" aria-expanded="false" id="typeahead-0.avqme3o2zob-typeahead" class="svelte-iyl6gc"><form data-svelte-search><label id="typeahead-0.avqme3o2zob-label" for="typeahead-0.avqme3o2zob" class="svelte-wqugyy hide-label">Look up a city or town in the US</label>
-  <input name="search" type="search" placeholder="Look up a city or town in the US..." autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-controls="typeahead-0.avqme3o2zob-listbox" aria-labelledby="typeahead-0.avqme3o2zob-label" id="typeahead-0.avqme3o2zob" class="svelte-wqugyy" value="">
+<div data-svelte-typeahead role="combobox" aria-haspopup="listbox" aria-controls="typeahead-0.pzhxk2sbnf-listbox" aria-expanded="false" id="typeahead-0.pzhxk2sbnf-typeahead" class="svelte-iyl6gc"><form data-svelte-search><label id="typeahead-0.pzhxk2sbnf-label" for="typeahead-0.pzhxk2sbnf" class="svelte-wqugyy hide-label">Look up a city or town in the US</label>
+  <input name="search" type="search" placeholder="Look up a city or town in the US..." autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-controls="typeahead-0.pzhxk2sbnf-listbox" aria-labelledby="typeahead-0.pzhxk2sbnf-label" id="typeahead-0.pzhxk2sbnf" class="svelte-wqugyy" value="">
 </form>
-  <ul role="listbox" aria-labelledby="typeahead-0.avqme3o2zob-label" id="typeahead-0.avqme3o2zob-listbox" class="svelte-iyl6gc svelte-typeahead-list">
+  <ul role="listbox" aria-labelledby="typeahead-0.pzhxk2sbnf-label" id="typeahead-0.pzhxk2sbnf-listbox" class="svelte-iyl6gc svelte-typeahead-list">
     </ul>
 </div></div>
 
 			<div class="discover"><details><summary>Not sure where to start? Check out some
 						curated places.</summary>
 
-					<div class="inner svelte-w1x65a">
+					<div class="inner svelte-1q5di9q">
 
-						<div class="classic svelte-w1x65a"><p class="svelte-w1x65a">Editor picks</p>
-							<ul class="svelte-w1x65a">
-									<li class="svelte-w1x65a"><button class="svelte-w1x65a">Portland</button>
+						<div class="classic svelte-1q5di9q"><p class="svelte-1q5di9q">Editor picks</p>
+							<ul class="svelte-1q5di9q">
+									<li class="svelte-1q5di9q"><button class="svelte-1q5di9q">Portland</button>
 									</li>
-									<li class="svelte-w1x65a"><button class="svelte-w1x65a">Paris</button>
+									<li class="svelte-1q5di9q"><button class="svelte-1q5di9q">Paris</button>
 									</li>
-									<li class="svelte-w1x65a"><button class="svelte-w1x65a">Pluto</button>
+									<li class="svelte-1q5di9q"><button class="svelte-1q5di9q">Pluto</button>
 									</li>
-									<li class="svelte-w1x65a"><button class="svelte-w1x65a">Indiana</button>
+									<li class="svelte-1q5di9q"><button class="svelte-1q5di9q">Indiana</button>
 									</li>
-									<li class="svelte-w1x65a"><button class="svelte-w1x65a">Davie</button>
+									<li class="svelte-1q5di9q"><button class="svelte-1q5di9q">Davie</button>
 									</li></ul></div></div></details></div></div></section>
 
-	<section id="interactive" class="svelte-w1x65a"><p class="loading svelte-w1x65a">loading...</p>
+	<section id="interactive" class="svelte-1q5di9q"><p class="loading svelte-1q5di9q">loading...</p>
 
 		<ul class="_toastContainer svelte-1u812xz">
 </ul>
 
-<div class="share svelte-afq10l"><button class="svelte-afq10l">Share map </button>
+<div class="share svelte-afq10l"><button class="svelte-afq10l">Share map <span class="icon svelte-1r7hpvv" style="transform: rotate(0deg);"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3px" stroke-linecap="round" stroke-linejoin="round" class="lucide-icon lucide lucide-forward "><polyline points="15 17 20 12 15 7"></polyline><path d="M4 18v-2a4 4 0 0 1 4-4h12"></path></svg></span></button>
 </div></section>
 
-	<section id="outro" class="svelte-w1x65a"><p class="svelte-w1x65a"><!-- HTML_TAG_START -->Created by <a href=https://pudding.cool/author/russell-samora target=_blank rel=noreferrer>Russell Samora</a>. With editing by <a href=https://pudding.cool/author/michelle-mcghee target=_blank rel=noreferrer>Michelle McGhee</a>.<!-- HTML_TAG_END --></p><p class="svelte-w1x65a"><!-- HTML_TAG_START -->Please note that this is a very opinionated take on answering this question. Consider it a conversation starter, not ender. To go deeper on the underlying data and methods, visit our <a href=method target=_blank rel=no_referrer>interactive explainer</a> where you customize and share your own.<!-- HTML_TAG_END --></p><p class="svelte-w1x65a"><!-- HTML_TAG_START -->Creating a data set of colloquially recognized place names in the US is a mammoth task since there are tens of thousands of places with varying levels of entity recognition. We are constantly updating the data, so if you spot something wrong with the places being used (or not), <a href=https://docs.google.com/spreadsheets/d/1cHtvcuxvxI6Y2hA5Xa2wg8AW0SZ7ZYG5H5x7H4jGLdk/edit#gid=0 target=_blank rel=noreferrer>help us improve it!</a><!-- HTML_TAG_END --></p>
-		<p class="svelte-w1x65a"><!-- HTML_TAG_START -->Get in touch at russell@pudding.cool, and consider supporting The Pudding on <a href=https://www.patreon.com/thepudding target=_blank rel=noreferrer>Patreon!</a><!-- HTML_TAG_END --></p>
-		<p class="svelte-w1x65a"><a class="tip-button svelte-423hsz" href="" target="_blank" rel="noreferrer" role="button">Send a tip to The Pudding <span class="svelte-423hsz"></span>
-</a></p></section></article>
+	<section id="outro" class="svelte-1q5di9q"><p><!-- HTML_TAG_START -->Created by <a href=https://pudding.cool/author/russell-samora target=_blank rel=noreferrer>Russell Samora</a>. With editing by <a href=https://pudding.cool/author/michelle-mcghee target=_blank rel=noreferrer>Michelle McGhee</a>.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Please note that this is a very opinionated take on answering this question. Consider it a conversation starter, not ender. To go deeper on the underlying data and methods, visit our <a href=method target=_blank rel=no_referrer>interactive explainer</a> where you customize and share your own.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Creating a data set of colloquially recognized place names in the US is a mammoth task since there are tens of thousands of places with varying levels of entity recognition. We are constantly updating the data, so if you spot something wrong with the places being used (or not), <a href=https://docs.google.com/spreadsheets/d/1cHtvcuxvxI6Y2hA5Xa2wg8AW0SZ7ZYG5H5x7H4jGLdk/edit#gid=0 target=_blank rel=noreferrer>help us improve it!</a><!-- HTML_TAG_END --></p>
+		<p><!-- HTML_TAG_START -->Get in touch at russell@pudding.cool, and consider supporting The Pudding on <a href=https://www.patreon.com/thepudding target=_blank rel=noreferrer>Patreon!</a><!-- HTML_TAG_END --></p>
+		<p><a class="tip-button svelte-423hsz" href="" target="_blank" rel="noreferrer" role="button">Send a tip to The Pudding <span class="svelte-423hsz"><span class="icon svelte-1r7hpvv" style="transform: rotate(0deg);"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-icon lucide lucide-dollar-sign "><line x1="12" y1="2" x2="12" y2="22"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg></span></span>
+</a></p></section>
+
+	<section id="changelog" class="svelte-1q5di9q"><details><summary>Data Changelog</summary>
+			<div class="inner svelte-1q5di9q"></div></details></section></article>
 
 <footer class="svelte-13ez18p"><section class="stories svelte-13ez18p"></section>
 
@@ -107,7 +109,7 @@
 			
 			<script>
 				{
-					__sveltekit_jusmz7 = {
+					__sveltekit_7x5hgc = {
 						env: {},
 						assets: "/same-name",
 						base: new URL(".", location).pathname.slice(0, -1),
@@ -117,10 +119,10 @@
 					const data = [null,{"type":"data","data":{data:["a","b","c"]},"uses":{}}];
 
 					Promise.all([
-						import("./_app/immutable/entry/start.2a447ab5.js"),
-						import("./_app/immutable/entry/app.4f10db4f.js")
+						import("./_app/immutable/entry/start.bbd29539.js"),
+						import("./_app/immutable/entry/app.cb21a79c.js")
 					]).then(([kit, app]) => {
-						kit.start(app, __sveltekit_jusmz7.element, {
+						kit.start(app, __sveltekit_7x5hgc.element, {
 							node_ids: [0, 2],
 							data,
 							form: null,

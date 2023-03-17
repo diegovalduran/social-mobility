@@ -9,7 +9,7 @@
 
 <div class="method-scale">
 	<fieldset>
-		<legend>{legend}</legend>
+		<legend class="sr-only">{legend}</legend>
 		<div class="scale">
 			<ButtonSet
 				legend="scale type"

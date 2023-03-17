@@ -10,7 +10,7 @@
 
 <div class="method-value">
 	<fieldset>
-		<legend>{legend}</legend>
+		<legend class="sr-only">{legend}</legend>
 		<div class="prop">
 			<ButtonSet
 				bind:value={valueProp}

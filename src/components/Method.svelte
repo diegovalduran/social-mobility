@@ -80,6 +80,9 @@
 		<p>
 			{@html copy.dek}
 		</p>
+		<p class="small">
+			Increase your screen size or visit on desktop to customize the settings.
+		</p>
 	</section>
 
 	<section id="ui">
@@ -88,14 +91,29 @@
 		</div>
 
 		<div class="play">
-			<Value
-				bind:valueProp
-				bind:valueScale
-				bind:valueWeightDist
-				bind:valueWeightPop
-				bind:valueWeightWiki
-				legend="Value"
-			/>
+			<h2>Introduction</h2>
+			<details open>
+				<summary>Explanation</summary>
+				<div class="inner">
+					{#each copy.miscExplanation as { value }}
+						<p>{@html value}</p>
+					{/each}
+				</div>
+			</details>
+		</div>
+
+		<div class="play">
+			<h2>Value</h2>
+			<div class="customize">
+				<Value
+					bind:valueProp
+					bind:valueScale
+					bind:valueWeightDist
+					bind:valueWeightPop
+					bind:valueWeightWiki
+					legend="Value"
+				/>
+			</div>
 			<details>
 				<summary>Explanation</summary>
 				<div class="inner">
@@ -106,11 +124,14 @@
 			</details>
 		</div>
 		<div class="play">
-			<Threshold
-				bind:thresholdLower
-				bind:thresholdUpper
-				legend="Opacity threshold"
-			/>
+			<h2>Opacity Threshold</h2>
+			<div class="customize">
+				<Threshold
+					bind:thresholdLower
+					bind:thresholdUpper
+					legend="Opacity threshold"
+				/>
+			</div>
 			<details>
 				<summary>Explanation</summary>
 				<div class="inner">
@@ -122,12 +143,15 @@
 		</div>
 
 		<div class="play">
-			<Scale
-				bind:valueScale={scaleTypeDist}
-				bind:valueExp={scaleExpDist}
-				bind:valueBounds={scaleBoundsDist}
-				legend="Distance Scale (mi)"
-			/>
+			<h2>Distance Scale</h2>
+			<div class="customize">
+				<Scale
+					bind:valueScale={scaleTypeDist}
+					bind:valueExp={scaleExpDist}
+					bind:valueBounds={scaleBoundsDist}
+					legend="Distance Scale (mi)"
+				/>
+			</div>
 			<details>
 				<summary>Explanation</summary>
 				<div class="inner">
@@ -139,12 +163,15 @@
 		</div>
 
 		<div class="play">
-			<Scale
-				bind:valueScale={scaleTypePop}
-				bind:valueExp={scaleExpPop}
-				bind:valueBounds={scaleBoundsPop}
-				legend="Population Scale (people)"
-			/>
+			<h2>Population Scale</h2>
+			<div class="customize">
+				<Scale
+					bind:valueScale={scaleTypePop}
+					bind:valueExp={scaleExpPop}
+					bind:valueBounds={scaleBoundsPop}
+					legend="Population Scale (people)"
+				/>
+			</div>
 			<details>
 				<summary>Explanation</summary>
 				<div class="inner">
@@ -156,12 +183,15 @@
 		</div>
 
 		<div class="play">
-			<Scale
-				bind:valueScale={scaleTypeWiki}
-				bind:valueExp={scaleExpWiki}
-				bind:valueBounds={scaleBoundsWiki}
-				legend="Wiki Scale (article length)"
-			/>
+			<h2>Wikipedia Article Scale</h2>
+			<div class="customize">
+				<Scale
+					bind:valueScale={scaleTypeWiki}
+					bind:valueExp={scaleExpWiki}
+					bind:valueBounds={scaleBoundsWiki}
+					legend="Wiki Scale (article length)"
+				/>
+			</div>
 			<details>
 				<summary>Explanation</summary>
 				<div class="inner">
@@ -173,7 +203,7 @@
 		</div>
 
 		<div class="play">
-			<h4>Other Details</h4>
+			<h2>Miscellaneous Details</h2>
 			<details open>
 				<summary>Explanation</summary>
 				<div class="inner">
@@ -316,6 +346,14 @@
 		margin-top: 32px;
 	}
 
+	h2 {
+		font-size: var(--24px);
+	}
+
+	.customize {
+		display: none;
+	}
+
 	details div {
 		border: 2px solid var(--color-mark);
 		padding: 16px;
@@ -337,6 +375,16 @@
 
 		:global(.method input) {
 			font-size: var(--16px) !important;
+		}
+	}
+
+	@media only screen and (min-width: 960px) {
+		.customize {
+			display: block;
+		}
+
+		.small {
+			display: none;
 		}
 	}
 </style>

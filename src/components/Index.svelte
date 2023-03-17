@@ -1,5 +1,5 @@
 <script>
-	import { csv } from "d3";
+	import { csv, groups } from "d3";
 	import { onMount, getContext } from "svelte";
 	import { page } from "$app/stores";
 	import { browser } from "$app/environment";
@@ -9,6 +9,7 @@
 	import getCountiesByDist from "$utils/getCountiesByDist.js";
 	import getLocation from "$utils/getLocation.js";
 	import loadUSData from "$data/loadUSData.js";
+	import viewport from "$stores/viewport.js";
 	import Footer from "$components/Footer.svelte";
 	import Map from "$components/Map.svelte";
 	import Select from "$components/Select.svelte";
@@ -17,12 +18,19 @@
 	import Tip from "$components/Tip.svelte";
 	import options from "$data/options.csv";
 	import classics from "$data/classics.csv";
-	import viewport from "$stores/viewport.js";
+	import changelog from "$data/places-changelog.csv";
 
 	const copy = getContext("copy");
 	const data = getContext("data");
 
 	const ASPECT_RATIO = 975 / 610;
+
+	const changelogByDate = groups(changelog, (d) => d.date).map(
+		([date, values]) => ({
+			date,
+			values
+		})
+	);
 
 	let currentPhoneme;
 	let currentName;
@@ -188,6 +196,22 @@
 		<p>{@html copy.outro}</p>
 		<p><Tip text="Send a tip to The Pudding" href="" /></p>
 	</section>
+
+	<section id="changelog">
+		<details>
+			<summary>Data Changelog</summary>
+			<div class="inner">
+				{#each changelogByDate as { date, values }}
+					<p><strong>{date}</strong></p>
+					<ul>
+						{#each values as { text }}
+							<li>{@html text}</li>
+						{/each}
+					</ul>
+				{/each}
+			</div>
+		</details>
+	</section>
 </article>
 
 <Footer />
@@ -268,9 +292,14 @@
 		margin: 64px auto;
 	}
 
-	#outro p {
+	#outro,
+	#changelog {
 		max-width: var(--col-width);
-		margin: 16px auto;
+		margin: 32px auto;
+	}
+
+	#changelog {
+		margin-top: 64px;
 	}
 
 	.loading {
