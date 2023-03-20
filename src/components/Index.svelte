@@ -206,14 +206,18 @@
 		<details>
 			<summary>Data Changelog</summary>
 			<div class="inner">
-				{#each changelogByDate as { date, values }}
-					<p><strong>{date}</strong></p>
-					<ul>
-						{#each values as { text }}
-							<li>{@html text}</li>
-						{/each}
-					</ul>
-				{/each}
+				{#if changelogByDate.length === 0}
+					<p>No changes to the data.</p>
+				{:else}
+					{#each changelogByDate as { date, values }}
+						<p><strong>{date}</strong></p>
+						<ul>
+							{#each values as { text }}
+								<li>{@html text}</li>
+							{/each}
+						</ul>
+					{/each}
+				{/if}
 			</div>
 		</details>
 	</section>
