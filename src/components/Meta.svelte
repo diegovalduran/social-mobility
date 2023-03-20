@@ -1,4 +1,5 @@
 <script>
+	import { base } from "$app/paths";
 	export let title = "Title TK";
 	export let description = "Description TK";
 	export let url = "https://pudding.cool";
@@ -19,7 +20,7 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:locale" content="en_US" />
 
-	<meta property="og:image" content="assets/facebook.jpg" />
+	<meta property="og:image" content="${base}/assets/facebook.jpg" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="600" />
@@ -29,7 +30,7 @@
 	<meta name="twitter:creator" content="@puddingviz" />
 	<meta name="twitter:title" content={title} />
 	<meta name="twitter:description" content={description} />
-	<meta name="twitter:image:src" content="assets/twitter.jpg" />
+	<meta name="twitter:image:src" content="${base}/assets/twitter.jpg" />
 
 	<meta name="robots" content="max-image-preview:large" />
 

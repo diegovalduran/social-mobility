@@ -194,7 +194,12 @@
 			<p>{@html value}</p>
 		{/each}
 		<p>{@html copy.outro}</p>
-		<p><Tip text="Send a tip to The Pudding" href="" /></p>
+		<p>
+			<Tip
+				text="Send a tip to The Pudding"
+				href="https://donate.stripe.com/00g03oaJRggE3zqeUW"
+			/>
+		</p>
 	</section>
 
 	<section id="changelog">
