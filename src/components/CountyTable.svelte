@@ -13,7 +13,9 @@
 		{caption}
 		{rows}
 		{columns}
+		{mobile}
 		{scrollable}
+		filter={"name"}
 		--height={mobile ? "360px" : "480px"}
 	/>
 	<p>

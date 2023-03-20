@@ -5,6 +5,7 @@
 	export let columns = []; // [{ label, prop, sort = true, type = "text", dir = undefined, sortFn: undefined, formatFn }];
 	export let scrollable = false;
 	export let mobile = true;
+	export let filter = undefined;
 
 	const dispatch = createEventDispatcher();
 
@@ -44,17 +45,24 @@
 	};
 
 	let tbodyEl;
+	let inputValue;
 
 	$: th = columns.map((d, i) => ({ sort: true, type: "text", ...d, i }));
 	$: tr = rows.map((d) => ({
 		...d,
 		style: d.style || "",
 		class: d.class || ""
-	}));
+	})).filter(d => {
+		if (!filter || !inputValue) return true;
+		const a = d[filter]?.toLowerCase();
+		const b = inputValue.toLowerCase();
+		return a.includes(b);
+	});
 	$: autoSort(tr);
+	$: filterLabel = filter ? th.find((d) => d.prop === filter).label : "";
 </script>
 
-<table class:scrollable class:mobile>
+<table class:scrollable class:mobile class:filter={!!filter}>
 	<caption>{caption}</caption>
 	<thead>
 		<tr>
@@ -73,6 +81,13 @@
 				</th>
 			{/each}
 		</tr>
+		{#if filter}
+		<tr>
+			<th>
+				<input type="text" placeholder="Filter {filterLabel}..." bind:value={inputValue}>
+			</th>
+		</tr>
+		{/if}
 	</thead>
 	<tbody bind:this={tbodyEl}>
 		{#each tr as r}
@@ -195,7 +210,11 @@
 		margin: 0 auto;
 	}
 
-	.mobile thead {
+	.mobile:not(.filter) thead {
+    display: none;
+  }
+
+	.mobile.filter thead tr:first-of-type {
     display: none;
   }
   
@@ -225,7 +244,7 @@
 		padding: 4px 8px;
 	}
 
-	  .mobile td[data-th]:before {
+	.mobile td[data-th]:before {
     content: attr(data-th);
     font-weight: bold;
     display: block;
@@ -233,4 +252,13 @@
 		max-width: 50%;
   }
 
+	.filter tr:last-of-type th {
+		width: 100%;
+	}
+
+	th input {
+		width: 100%;
+		margin: 8px 0;
+		font-size: var(--16px) !important;
+	}
 </style>

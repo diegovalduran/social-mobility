@@ -4,6 +4,7 @@
 	import { modal } from "$stores/misc.js";
 	import wordmark from "$svg/wordmark.svg";
 	import copy from "$data/copy-main.json";
+	import focusTrap from "$actions/focusTrap.js";
 
 	$: hide = $page.route.id.includes("method");
 </script>
@@ -19,7 +20,12 @@
 		</div>
 
 		<!-- svelte-ignore a11y-click-events-have-key-events -->
-		<div class="modal" class:visible={$modal} on:click={() => ($modal = false)}>
+		<div
+			class="modal"
+			use:focusTrap={{ disable: !$modal }}
+			class:visible={$modal}
+			on:click={() => ($modal = false)}
+		>
 			<div class="bg" />
 			<div class="content">
 				<div class="inner" on:click|stopPropagation={() => {}}>
