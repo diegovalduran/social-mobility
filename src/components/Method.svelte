@@ -51,6 +51,7 @@
 	let nationMesh;
 	let currentPhoneme;
 	let currentName;
+	let showSettings;
 
 	$shareVisible = true;
 
@@ -154,11 +155,14 @@
 			</p>
 		{/if}
 		<p class="small">
-			Increase your screen size or visit on desktop to customize the settings.
+			<!-- Increase your screen size or visit on desktop to customize the settings. -->
+			<button on:click={() => (showSettings = !showSettings)}
+				>{showSettings ? "Hide" : "Show"} settings</button
+			>
 		</p>
 	</section>
 
-	<section id="ui">
+	<section id="ui" class:visible={showSettings}>
 		<div class="select">
 			<Select {options} on:change={({ detail }) => onChangePlace(detail)} />
 		</div>
@@ -328,8 +332,11 @@
 <style>
 	article {
 		font-size: var(--16px);
-		width: 20rem;
-		padding: 16px 16px;
+		padding: 16px;
+	}
+
+	#title {
+		text-align: center;
 	}
 
 	h1 {
@@ -341,21 +348,26 @@
 	}
 
 	#ui {
-		width: 100%;
+		width: calc(100% - 32px);
+		position: absolute;
 		display: flex;
 		flex-direction: column;
+		background: var(--color-bg);
+		padding: 32px;
+		transform: translate(-125%, 0);
+		transition: transform 0.5s ease-in-out;
+		z-index: var(--z-top);
+	}
+
+	#ui.visible {
+		transform: translate(0, 0);
 	}
 
 	.figure {
-		position: fixed;
-		top: 0;
-		left: 20rem;
-		width: calc(100% - 20rem);
+		position: relative;
 		padding: 0 32px;
 		max-width: 1280px;
-		height: 100vh;
-		display: flex;
-		align-items: center;
+		min-height: 101vh;
 	}
 
 	#maps {
@@ -364,14 +376,11 @@
 
 	.play {
 		margin-top: 32px;
+		max-width: 22rem;
 	}
 
 	h2 {
 		font-size: var(--24px);
-	}
-
-	.customize {
-		display: none;
 	}
 
 	details div {
@@ -421,8 +430,23 @@
 		}
 
 		.figure {
+			position: fixed;
+			top: 0;
 			left: 22rem;
 			width: calc(100% - 22rem);
+			display: flex;
+			align-items: center;
+		}
+
+		#ui {
+			position: relative;
+			transform: translate(0, 0);
+			background: none;
+			padding: 0;
+		}
+
+		#title {
+			text-align: left;
 		}
 	}
 </style>
