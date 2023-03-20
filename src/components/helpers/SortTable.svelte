@@ -259,6 +259,7 @@
 	th input {
 		width: 100%;
 		margin: 8px 0;
+		border-radius: var(--border-radius);
 		font-size: var(--16px) !important;
 	}
 </style>

@@ -52,6 +52,7 @@
 		padding: 8px;
 		line-height: 1.4;
 		outline-color: var(--color-fg);
+		border-radius: var(--border-radius);
 	}
 
 	:global([data-svelte-typeahead] [data-svelte-search] input:focus) {

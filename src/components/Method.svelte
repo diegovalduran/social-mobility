@@ -397,30 +397,16 @@
 		margin-bottom: 0;
 	}
 
-	@media only screen and (min-width: 1280px) {
-		:global(.method p, .method details, .method li) {
-			font-size: var(--16px) !important;
-		}
+	.inner {
+		transform: translate(0, -4px);
+		z-index: var(--z-middle);
+	}
 
-		:global(.method input) {
-			font-size: var(--16px) !important;
-		}
-
-		article {
-			width: 24rem;
-		}
-
-		.figure {
-			left: 24rem;
-			width: calc(100% - 24rem);
-		}
+	summary {
+		z-index: var(--z-top);
 	}
 
 	@media only screen and (min-width: 960px) {
-		.customize {
-			display: block;
-		}
-
 		.small {
 			display: none;
 		}
@@ -440,6 +426,7 @@
 
 		#ui {
 			position: relative;
+			width: 100%;
 			transform: translate(0, 0);
 			background: none;
 			padding: 0;
@@ -447,6 +434,25 @@
 
 		#title {
 			text-align: left;
+		}
+	}
+
+	@media only screen and (min-width: 1280px) {
+		:global(.method p, .method details, .method li) {
+			font-size: var(--16px) !important;
+		}
+
+		:global(.method input) {
+			font-size: var(--16px) !important;
+		}
+
+		article {
+			width: 24rem;
+		}
+
+		.figure {
+			left: 24rem;
+			width: calc(100% - 24rem);
 		}
 	}
 </style>
