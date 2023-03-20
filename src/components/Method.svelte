@@ -10,11 +10,16 @@
 	import Value from "$components/Method.Value.svelte";
 	import Threshold from "$components/Method.Threshold.svelte";
 	import Footer from "$components/Footer.svelte";
+	import Share from "$components/Share.svelte";
 	import loadUSData from "$data/loadUSData.js";
 	import options from "$data/options.csv";
+	import { shareVisible } from "$stores/misc.js";
+	import urlParams from "$utils/urlParams.js";
 
 	const copy = getContext("copy");
 	const data = getContext("data");
+
+	let fromUrl = false;
 
 	let scaleTypePop = "scalePow";
 	let scaleTypeWiki = "scalePow";
@@ -46,19 +51,80 @@
 	let currentPhoneme;
 	let currentName;
 
+	$shareVisible = true;
+
 	$: if (browser && currentPhoneme)
 		(async () =>
 			(placeData = await csv(
 				`${base}/assets/places/${currentPhoneme}.csv?${__TIMESTAMP__}`
 			)))();
 
+	$: props = {
+		scaleTypePop,
+		scaleTypeWiki,
+		scaleTypeDist,
+		scaleExpPop,
+		scaleExpWiki,
+		scaleExpDist,
+		scaleBoundsPop,
+		scaleBoundsWiki,
+		scaleBoundsDist,
+		valueWeightDist,
+		valueWeightPop,
+		valueWeightWiki,
+		thresholdLower,
+		thresholdUpper,
+		valueProp,
+		valueScale
+	};
+
+	$: params = Object.keys(props)
+		.map((key) => `${key}=${encodeURIComponent(props[key])}`)
+		.join("&");
+
+	$: url = `${base}/method?${params}`;
+
 	function onChangePlace({ name, phoneme }) {
 		currentPhoneme = phoneme;
 		currentName = name;
 	}
 
+	function parseParams() {
+		Object.keys(props).forEach((p) => {
+			const v = urlParams.get(p);
+			if (v) {
+				fromUrl = true;
+				if (p === "scaleTypePop") scaleTypePop = v;
+				if (p === "scaleTypeWiki") scaleTypeWiki = v;
+				if (p === "scaleTypeDist") scaleTypeDist = v;
+				if (p === "scaleExpPop") scaleExpPop = v;
+				if (p === "scaleExpWiki") scaleExpWiki = v;
+				if (p === "scaleExpDist") scaleExpDist = v;
+
+				if (p === "scaleBoundsPop")
+					scaleBoundsPop = v.split(",").map((d) => +d);
+				if (p === "scaleBoundsWiki")
+					scaleBoundsWiki = v.split(",").map((d) => +d);
+				if (p === "scaleBoundsDist")
+					scaleBoundsDist = v.split(",").map((d) => +d);
+
+				if (p === "valueWeightDist") valueWeightDist = +v;
+				if (p === "valueWeightPop") valueWeightPop = +v;
+				if (p === "valueWeightWiki") valueWeightWiki = +v;
+				if (p === "thresholdLower") thresholdLower = +v;
+				if (p === "thresholdUpper") thresholdUpper = +v;
+
+				if (p === "valueProp") valueProp = v;
+				if (p === "valueScale") valueScale = v;
+			}
+		});
+		window.history.replaceState({}, "", `${window.location.pathname}`);
+	}
+
 	onMount(async () => {
 		try {
+			parseParams();
+
 			const us = await loadUSData();
 			counties = us.counties;
 			states = us.states;
@@ -80,6 +146,12 @@
 		<p>
 			{@html copy.dek}
 		</p>
+		{#if fromUrl}
+			<p>
+				<strong>Note:</strong> Not showing our defaults settings, but those shared
+				in the link you clicked.
+			</p>
+		{/if}
 		<p class="small">
 			Increase your screen size or visit on desktop to customize the settings.
 		</p>
@@ -246,61 +318,8 @@
 					{valueScale}
 				/>
 			</div>
+			<Share text="Share your settings" {url} />
 		{/if}
-
-		<!-- {#if bySampleDist}
-			<div class="by-dist">
-				<h2>Dist by place</h2>
-				<div class="places">
-					{#each bySampleDist as { name, state, level, features }}
-						<div class="inner">
-							<p>{name}, {state} ({level})</p>
-							<div class="map">
-								<Figure
-									--aspect-ratio={aspectRatio}
-									custom={{ projectionObject }}
-								>
-									<MapCanvas {features} stroke="rgba(0, 0, 0, 0.25)" />
-									<MapSvg>
-										<MapPath
-											features={statesFeatures}
-											stroke="rgba(0, 0, 0, 0.5)"
-										/>
-									</MapSvg>
-								</Figure>
-							</div>
-						</div>
-					{/each}
-				</div>
-			</div>
-		{/if}
-
-		{#if bySampleShare}
-			<div class="by-share">
-				<h2>Share by place</h2>
-				<div class="places">
-					{#each bySampleShare as { name, state, level, features }}
-						<div class="inner">
-							<p>{name}, {state} ({level})</p>
-							<div class="map">
-								<Figure
-									--aspect-ratio={aspectRatio}
-									custom={{ projectionObject }}
-								>
-									<MapCanvas {features} stroke="rgba(0, 0, 0, 0.25)" />
-									<MapSvg>
-										<MapPath
-											features={statesFeatures}
-											stroke="rgba(0, 0, 0, 0.5)"
-										/>
-									</MapSvg>
-								</Figure>
-							</div>
-						</div>
-					{/each}
-				</div>
-			</div>
-		{/if} -->
 	</section>
 </div>
 

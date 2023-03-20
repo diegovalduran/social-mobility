@@ -185,7 +185,7 @@
 		{/if}
 
 		{#if shareUrl}
-			<Share url={shareUrl} />
+			<Share text="Share map" url={shareUrl} />
 		{/if}
 	</section>
 

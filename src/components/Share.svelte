@@ -4,6 +4,7 @@
 	import Icon from "$components/helpers/Icon.svelte";
 	import { shareVisible } from "$stores/misc.js";
 	export let url;
+	export let text;
 
 	const options = {
 		duration: 1500,
@@ -20,7 +21,7 @@
 
 <div class="share" class:visible={$shareVisible}>
 	<button use:copy={url} on:svelte-copy={notify}>
-		Share map <Icon name="forward" strokeWidth="3px" /></button
+		{text} <Icon name="forward" strokeWidth="3px" /></button
 	>
 </div>
 
