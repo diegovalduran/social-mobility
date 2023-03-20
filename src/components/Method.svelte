@@ -1,6 +1,7 @@
 <script>
 	import { browser } from "$app/environment";
 	import { base } from "$app/paths";
+	import { page } from "$app/stores";
 
 	import { onMount, getContext } from "svelte";
 	import { csv, descending, format } from "d3";
@@ -82,7 +83,7 @@
 		.map((key) => `${key}=${encodeURIComponent(props[key])}`)
 		.join("&");
 
-	$: url = `${base}/method?${params}`;
+	$: shareUrl = `${$page.url}?${params}`;
 
 	function onChangePlace({ name, phoneme }) {
 		currentPhoneme = phoneme;
@@ -318,7 +319,7 @@
 					{valueScale}
 				/>
 			</div>
-			<Share text="Share your settings" {url} />
+			<Share text="Share your settings" url={shareUrl} />
 		{/if}
 	</section>
 </div>
