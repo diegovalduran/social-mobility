@@ -1,6 +1,7 @@
 phoneme,name,county,latitude,longitude
 3264,Minneapolis,Hennepin County,44.980,-93.264
 4715,St. Paul,Ramsey County,44.944,-93.093
+4250,Rochester,Olmsted County,44.022,-92.470
 0482,Bloomington,Hennepin County,44.841,-93.298
 1401,Duluth,St. Louis County,46.783,-92.107
 0621,Brooklyn Park,Hennepin County,45.094,-93.356
@@ -128,7 +129,6 @@ phoneme,name,county,latitude,longitude
 1637,Excelsior,Hennepin County,44.903,-93.566
 1884,Gaylord,Sibley County,44.553,-94.221
 2747,Lauderdale,Ramsey County,44.999,-93.206
-4250,Rochester,Olmsted County,43.971,-92.508
 1000,Clearwater,Stearns County,45.410,-94.045
 1066,Cologne,Carver County,44.772,-93.781
 4991,Tracy,Lyon County,44.233,-95.619
