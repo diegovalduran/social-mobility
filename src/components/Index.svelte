@@ -312,6 +312,19 @@
 		margin-top: 64px;
 	}
 
+	#changelog .inner {
+		flex-direction: column;
+	}
+
+	#changelog p {
+		text-align: left;
+	}
+
+	#changelog li {
+		list-style-type: disc;
+		margin-left: 24px;
+	}
+
 	.loading {
 		text-align: center;
 	}
