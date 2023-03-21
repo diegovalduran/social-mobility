@@ -346,8 +346,6 @@
 		};
 	});
 
-	$: console.log(countyFeaturesRender);
-
 	$: countyRows = countyFeaturesRender.map((d) => {
 		const a = d.properties.data[0];
 		const b = d.properties.data[1];
