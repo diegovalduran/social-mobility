@@ -43,8 +43,8 @@
 	export let scaleTypeWiki = "scalePow";
 	export let scaleTypeDist = "scaleLog";
 
-	export let scaleExpPop = "0.5";
-	export let scaleExpWiki = "0.5";
+	export let scaleExpPop = "0.67";
+	export let scaleExpWiki = "0.67";
 	export let scaleExpDist = "1";
 
 	export let scaleBoundsPop = [0, 22933531];
@@ -55,10 +55,10 @@
 	export let valueWeightPop = "1";
 	export let valueWeightWiki = "1";
 
-	export let thresholdLower = 0.02;
-	export let thresholdUpper = 0.05;
+	export let thresholdLower = 0.05;
+	export let thresholdUpper = 0.2;
 	export let valueProp = "shareDelta";
-	export let valueScale = "no";
+	export let valueScale = "yes";
 
 	export let countiesByDist = [];
 
@@ -345,6 +345,8 @@
 			}
 		};
 	});
+
+	$: console.log(countyFeaturesRender);
 
 	$: countyRows = countyFeaturesRender.map((d) => {
 		const a = d.properties.data[0];

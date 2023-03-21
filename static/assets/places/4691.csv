@@ -1,10 +1,7 @@
 id,name,state,county,country,level,population,latitude,longitude,wiki
-21881,St. Charles,MO,St. Charles County,,city-us,70820,38.784,-90.481,22489
-21875,St. Charles,IL,DuPage County,,city-us,33009,41.919,-88.311,13252
-21880,St. Charles,IA,Madison County,,city-us,647,41.288,-93.809,3258
-21877,St. Charles,KY,Hopkins County,,city-us,277,37.186,-87.556,2250
-21873,St. Charles,AR,Arkansas County,,city-us,201,34.372,-91.137,8695
-21874,St. Charles,ID,Bear Lake County,,city-us,172,42.114,-111.389,4573
-21879,St. Charles,VA,Lee County,,city-us,72,36.802,-83.057,2380
-21878,St. Charles,SC,Lee County,,city-us,63,34.067,-80.218,673
-21876,St. Charles,SD,Gregory County,,city-us,8,43.087,-99.095,1849
+41007,St. Francis,WI,Milwaukee County,,city-us,9457,42.968,-87.878,4233
+41002,St. Francis,MN,Anoka County,,city-us,8342,45.394,-93.394,3993
+41004,St. Francis,KS,Cheyenne County,,city-us,1287,39.772,-101.800,3581
+41010,St. Francis,SD,Todd County,,city-us,471,43.144,-100.905,3555
+41003,St. Francis,ME,Aroostook County,,city-us,431,47.134,-68.865,3408
+41005,St. Francis,AR,Clay County,,city-us,213,36.453,-90.145,2771

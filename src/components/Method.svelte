@@ -26,8 +26,8 @@
 	let scaleTypeWiki = "scalePow";
 	let scaleTypeDist = "scaleLog";
 
-	let scaleExpPop = "0.5";
-	let scaleExpWiki = "0.5";
+	let scaleExpPop = "0.67";
+	let scaleExpWiki = "0.67";
 	let scaleExpDist = "1";
 
 	let scaleBoundsPop = [0, 22933531];
@@ -38,10 +38,10 @@
 	let valueWeightPop = 1;
 	let valueWeightWiki = 1;
 
-	let thresholdLower = 0.02;
-	let thresholdUpper = 0.05;
+	let thresholdLower = 0.05;
+	let thresholdUpper = 0.2;
 	let valueProp = "shareDelta";
-	let valueScale = "no";
+	let valueScale = "yes";
 
 	let placeData;
 	let counties;
