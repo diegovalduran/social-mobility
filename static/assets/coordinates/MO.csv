@@ -1,19 +1,19 @@
 phoneme,name,county,latitude,longitude
 2533,Kansas City,Cass County,39.122,-94.555
-4705,St. Louis,St. Louis city,38.627,-90.198
-4672,Springfield,Christian County,37.194,-93.293
+4373,St. Louis,St. Louis city,38.627,-90.198
+4677,Springfield,Christian County,37.194,-93.293
 1068,Columbia,Boone County,38.952,-92.334
 2406,Independence,Clay County,39.085,-94.352
 3600,O'Fallon,St. Charles County,38.811,-90.700
-4701,St. Joseph,Buchanan County,39.769,-94.847
-4685,St. Charles,St. Charles County,38.784,-90.481
+4372,St. Joseph,Buchanan County,39.769,-94.847
+4689,St. Charles,St. Charles County,38.784,-90.481
 0494,Blue Springs,Jackson County,39.017,-94.282
 1737,Florissant,St. Louis County,38.789,-90.323
 2514,Joplin,Jasper County,37.075,-94.501
 0931,Chesterfield,St. Louis County,38.663,-90.577
 2479,Jefferson City,Callaway County,38.567,-92.175
 3622,Oakville,St. Louis County,38.470,-90.305
-5390,Wildwood,St. Louis County,38.583,-90.663
+5389,Wildwood,St. Louis County,38.583,-90.663
 2809,Liberty,Clay County,39.246,-94.419
 4127,Raytown,Jackson County,39.009,-94.464
 2613,Kirkwood,St. Louis County,38.583,-90.407
@@ -23,10 +23,10 @@ phoneme,name,county,latitude,longitude
 2210,Hazelwood,St. Louis County,38.771,-90.371
 0373,Belton,Cass County,38.812,-94.532
 3742,Ozark,Christian County,37.021,-93.206
-4495,Sedalia,Pettis County,38.704,-93.228
+4500,Sedalia,Pettis County,38.704,-93.228
 0176,Arnold,Jefferson County,38.433,-90.378
 4285,Rolla,Phelps County,37.951,-91.771
-5215,Warrensburg,Johnson County,38.763,-93.736
+5214,Warrensburg,Johnson County,38.763,-93.736
 4168,Republic,Christian County,37.169,-93.413
 0025,Affton,St. Louis County,38.551,-90.333
 1088,Concord,St. Louis County,38.525,-90.357
@@ -36,35 +36,35 @@ phoneme,name,county,latitude,longitude
 3009,Manchester,St. Louis County,38.597,-90.509
 2132,Hannibal,Marion County,39.710,-91.394
 0992,Clayton,St. Louis County,38.643,-90.324
-4562,Sikeston,New Madrid County,36.885,-89.587
+4567,Sikeston,New Madrid County,36.885,-89.587
 3731,Overland,St. Louis County,38.701,-90.362
 0805,Carthage,Jasper County,37.176,-94.310
 2460,Jackson,Cape Girardeau County,37.382,-89.666
 2768,Lebanon,Laclede County,37.681,-92.664
-5224,Washington,Franklin County,38.558,-91.012
+5223,Washington,Franklin County,38.558,-91.012
 3065,Marshall,Saline County,39.123,-93.197
-5013,Troy,Lincoln County,38.979,-90.981
-5257,Webb City,Jasper County,37.146,-94.463
+5012,Troy,Lincoln County,38.979,-90.981
+5256,Webb City,Jasper County,37.146,-94.463
 2483,Jennings,St. Louis County,38.719,-90.260
 0567,Branson,Stone County,36.612,-93.292
 1840,Fulton,Callaway County,38.847,-91.948
 3454,Neosho,Newton County,36.869,-94.368
-5059,Union,Franklin County,38.450,-91.008
+5058,Union,Franklin County,38.450,-91.008
 1175,Crestwood,St. Louis County,38.557,-90.382
 1625,Eureka,Jefferson County,38.498,-90.645
 3197,Mexico,Audrain County,39.170,-91.883
-4987,Town and Country,St. Louis County,38.612,-90.463
+4986,Town and Country,St. Louis County,38.612,-90.463
 0589,Bridgeton,St. Louis County,38.767,-90.412
 0513,Bolivar,Polk County,37.614,-93.410
 3081,Maryville,Nodaway County,40.346,-94.872
 2541,Kearney,Clay County,39.368,-94.362
-4596,Smithville,Clay County,39.397,-94.571
+4601,Smithville,Clay County,39.397,-94.571
 2161,Harrisonville,Cass County,38.653,-94.349
 1550,Ellisville,St. Louis County,38.593,-90.587
 3287,Monett,Barry County,36.921,-93.927
 1010,Clinton,Henry County,38.369,-93.778
 4196,Richmond Heights,St. Louis County,38.629,-90.320
-5216,Warrenton,Warren County,38.811,-91.142
+5215,Warrenton,Warren County,38.811,-91.142
 3948,Pleasant Hill,Cass County,38.806,-94.272
 3781,Park Hills,St. Francois County,37.854,-90.518
 3852,Perryville,Perry County,37.724,-89.861
@@ -81,37 +81,37 @@ phoneme,name,county,latitude,longitude
 3069,Marshfield,Webster County,37.339,-92.907
 3745,Pacific,Franklin County,38.481,-90.751
 0221,Aurora,Lawrence County,36.971,-93.718
-4816,Sullivan,Crawford County,38.213,-91.164
-5095,Valley Park,St. Louis County,38.549,-90.493
-4699,St. John,St. Louis County,38.715,-90.346
+4815,Sullivan,Crawford County,38.213,-91.164
+5094,Valley Park,St. Louis County,38.549,-90.493
+4702,St. John,St. Louis County,38.715,-90.346
 0273,Barnhart,Jefferson County,38.344,-90.393
 1272,De Soto,Jefferson County,38.139,-90.555
-5395,Willard,Greene County,37.305,-93.429
-4556,Shrewsbury,St. Louis County,38.590,-90.337
+5394,Willard,Greene County,37.305,-93.429
+4561,Shrewsbury,St. Louis County,38.590,-90.337
 1939,Glendale,St. Louis County,38.596,-90.377
 2058,Greenwood,Cass County,38.842,-94.334
 4195,Richmond,Ray County,39.279,-93.977
 3636,Odessa,Lafayette County,38.999,-93.954
 2981,Macon,Macon County,39.742,-92.473
-5249,Waynesville,Pulaski County,37.829,-92.201
-5502,Wright City,Warren County,38.828,-91.020
+5248,Waynesville,Pulaski County,37.829,-92.201
+5501,Wright City,Warren County,38.828,-91.020
 2405,Imperial,Jefferson County,38.370,-90.378
-4458,Savannah,Andrew County,39.942,-94.830
+4463,Savannah,Andrew County,39.942,-94.830
 0896,Charleston,Mississippi County,36.921,-89.351
 1300,Dellwood,St. Louis County,38.749,-90.286
 0187,Ashland,Boone County,38.774,-92.257
-4686,St. Clair,Franklin County,38.345,-90.981
+4690,St. Clair,Franklin County,38.345,-90.981
 1204,Crystal City,Jefferson County,38.221,-90.379
 4254,Rock Hill,St. Louis County,38.608,-90.378
 0873,Centralia,Audrain County,39.211,-92.134
 2319,Hollister,Taney County,36.621,-93.215
-4376,Salem,Dent County,37.646,-91.536
+4381,Salem,Dent County,37.646,-91.536
 2804,Lexington,Lafayette County,39.185,-93.880
 0722,California,Moniteau County,38.628,-92.567
 3386,Mount Vernon,Lawrence County,37.104,-93.819
 1517,Eldon,Miller County,38.348,-92.582
 4282,Rogersville,Greene County,37.115,-93.075
-4477,Scott City,Cape Girardeau County,37.225,-89.538
+4482,Scott City,Cape Girardeau County,37.225,-89.538
 1809,Fredericktown,Madison County,37.560,-90.294
 2712,Lamar,Barton County,37.495,-94.277
 0542,Bowling Green,Pike County,39.342,-91.195
@@ -119,23 +119,23 @@ phoneme,name,county,latitude,longitude
 0698,Butler,Bates County,38.259,-94.331
 4237,Riverside,Platte County,39.178,-94.613
 1695,Fenton,St. Louis County,38.513,-90.436
-4697,St. James,Phelps County,37.997,-91.614
+4700,St. James,Phelps County,37.997,-91.614
 1830,Frontenac,St. Louis County,38.636,-90.415
 3000,Malden,Dunklin County,36.557,-89.966
 3765,Palmyra,Marion County,39.794,-91.523
 2287,Hillsboro,Jefferson County,38.232,-90.563
-5107,Vandalia,Audrain County,39.308,-91.489
+5106,Vandalia,Audrain County,39.308,-91.489
 0665,Buffalo,Dallas County,37.644,-93.092
 4715,St. Paul,St. Charles County,38.861,-90.742
 2920,Louisiana,Pike County,39.449,-91.052
-4810,Sugar Creek,Clay County,39.139,-94.409
+4809,Sugar Creek,Clay County,39.139,-94.409
 0819,Cassville,Barry County,36.677,-93.869
-5141,Villa Ridge,Franklin County,38.473,-90.887
+5140,Villa Ridge,Franklin County,38.473,-90.887
 1208,Cuba,Crawford County,38.063,-91.403
 0659,Buckner,Jackson County,39.133,-94.199
 0224,Ava,Douglas County,36.952,-92.660
-4960,Tipton,Moniteau County,38.656,-92.780
-5427,Windsor,Henry County,38.532,-93.523
+4959,Tipton,Moniteau County,38.656,-92.780
+5426,Windsor,Henry County,38.532,-93.523
 3953,Pleasant Valley,Clay County,39.216,-94.484
 3737,Owensville,Gasconade County,38.346,-91.502
 1690,Fayette,Howard County,39.146,-92.684
@@ -143,9 +143,9 @@ phoneme,name,county,latitude,longitude
 2035,Green Park,St. Louis County,38.524,-90.338
 3293,Monroe City,Marion County,39.654,-91.732
 0762,Canton,Lewis County,40.125,-91.625
-4788,Strafford,Greene County,37.269,-93.118
+4787,Strafford,Greene County,37.269,-93.118
 3397,Mountain View,Howell County,36.995,-91.704
-5127,Versailles,Morgan County,38.431,-92.841
+5126,Versailles,Morgan County,38.431,-92.841
 2759,Lawson,Clay County,39.433,-94.220
 4012,Potosi,Washington County,37.936,-90.788
 1142,Country Club,Andrew County,39.847,-94.824
@@ -155,53 +155,53 @@ phoneme,name,county,latitude,longitude
 1417,Duquesne,Jasper County,37.077,-94.459
 1089,Concordia,Lafayette County,38.983,-93.569
 2743,Lathrop,Clinton County,39.548,-94.330
-4505,Seneca,Newton County,36.841,-94.611
-5219,Warsaw,Benton County,38.243,-93.382
+4510,Seneca,Newton County,36.841,-94.611
+5218,Warsaw,Benton County,38.243,-93.382
 3946,Plattsburg,Clinton County,39.566,-94.448
 3057,Marlborough,St. Louis County,38.570,-90.337
 2310,Holden,Johnson County,38.714,-93.991
 2240,Hermann,Gasconade County,38.704,-91.437
-5415,Willow Springs,Howell County,36.992,-91.970
+5414,Willow Springs,Howell County,36.992,-91.970
 2360,Houston,Texas County,37.326,-91.956
 1990,Granby,Newton County,36.920,-94.263
 0123,Anderson,McDonald County,36.651,-94.444
-4649,Sparta,Christian County,37.001,-93.082
-4585,Slater,Saline County,39.218,-93.069
+4654,Sparta,Christian County,37.001,-93.082
+4590,Slater,Saline County,39.218,-93.069
 3879,Piedmont,Wayne County,37.154,-90.696
-4926,Thayer,Oregon County,36.525,-91.538
-4516,Seymour,Webster County,37.146,-92.769
+4925,Thayer,Oregon County,36.525,-91.538
+4521,Seymour,Webster County,37.146,-92.769
 0400,Bernie,Stoddard County,36.669,-89.969
 0804,Carterville,Jasper County,37.149,-94.443
 1850,Gallatin,Daviess County,39.914,-93.962
 3218,Milan,Sullivan County,40.202,-93.125
-4750,Steele,Pemiscot County,36.084,-89.829
-4773,Stockton,Cedar County,37.699,-93.796
+4749,Steele,Pemiscot County,36.084,-89.829
+4772,Stockton,Cedar County,37.699,-93.796
 0478,Bloomfield,Stoddard County,36.886,-89.929
-5327,Weston,Platte County,39.411,-94.902
+5326,Weston,Platte County,39.411,-94.902
 0849,Cedar Hill,Jefferson County,38.353,-90.641
 4193,Richland,Camden County,37.861,-92.400
 0023,Adrian,Bates County,38.398,-94.352
-5068,Unionville,Putnam County,40.477,-93.003
+5067,Unionville,Putnam County,40.477,-93.003
 3170,Memphis,Scotland County,40.458,-92.171
 1359,Doniphan,Ripley County,36.621,-90.823
 0044,Albany,Gentry County,40.249,-94.331
 2113,Hallsville,Boone County,39.117,-92.221
 1860,Garden City,Cass County,38.561,-94.191
-5273,Wellston,St. Louis County,38.673,-90.299
+5272,Wellston,St. Louis County,38.673,-90.299
 0533,Bourbon,Crawford County,38.155,-91.244
 0742,Campbell,Dunklin County,36.493,-90.075
-4693,St. George,St. Louis County,38.536,-90.312
-5430,Winfield,Lincoln County,38.997,-90.738
+4370,St. George,St. Louis County,38.536,-90.312
+5429,Winfield,Lincoln County,38.997,-90.738
 1158,Crane,Stone County,36.905,-93.572
 2443,Ironton,Iron County,37.597,-90.627
-5425,Winchester,St. Louis County,38.590,-90.528
-4751,Steelville,Crawford County,37.968,-91.355
+5424,Winchester,St. Louis County,38.590,-90.528
+4750,Steelville,Crawford County,37.968,-91.355
 0346,Belle,Maries County,38.285,-91.721
 3620,Oakland,St. Louis County,38.576,-90.386
 2389,Huntsville,Randolph County,39.441,-92.545
 2838,Linn,Osage County,38.486,-91.850
 0024,Advance,Stoddard County,37.105,-89.911
-4860,Sweet Springs,Saline County,38.964,-93.415
+4859,Sweet Springs,Saline County,38.964,-93.415
 0444,Bismarck,St. Francois County,37.769,-90.625
 2652,La Plata,Macon County,40.023,-92.492
 3025,Mansfield,Wright County,37.107,-92.581
@@ -210,7 +210,7 @@ phoneme,name,county,latitude,longitude
 2288,Hillsdale,St. Louis County,38.683,-90.284
 2047,Greenfield,Dade County,37.415,-93.841
 3682,Oran,Scott County,37.085,-89.655
-4893,Taos,Cole County,38.506,-92.071
+4892,Taos,Cole County,38.506,-92.071
 2822,Lincoln,Benton County,38.391,-93.335
 3779,Paris,Monroe County,39.481,-92.001
 0434,Billings,Christian County,37.068,-93.552
@@ -220,7 +220,7 @@ phoneme,name,county,latitude,longitude
 3479,New Franklin,Howard County,39.017,-92.737
 4064,Purdy,Barry County,36.817,-93.921
 1486,Edina,Knox County,40.168,-92.173
-5274,Wellsville,Montgomery County,39.072,-91.570
+5273,Wellsville,Montgomery County,39.072,-91.570
 1143,Country Club Hills,St. Louis County,38.721,-90.275
 3364,Mound City,Holt County,40.131,-95.232
 0982,Clarkton,Dunklin County,36.452,-89.967
@@ -228,12 +228,12 @@ phoneme,name,county,latitude,longitude
 2275,Highlandville,Christian County,36.933,-93.280
 2878,Loma Linda,Newton County,36.991,-94.587
 1387,Drexel,Bates County,38.501,-94.604
-5437,Winona,Shannon County,37.010,-91.323
+5436,Winona,Shannon County,37.010,-91.323
 3492,New London,Ralls County,39.585,-91.401
-4802,Sturgeon,Boone County,39.234,-92.281
+4801,Sturgeon,Boone County,39.234,-92.281
 1181,Crocker,Pulaski County,37.949,-92.264
 3707,Osceola,St. Clair County,38.047,-93.704
-5014,Truesdale,Warren County,38.812,-91.130
+5013,Truesdale,Warren County,38.812,-91.130
 3257,Miner,Mississippi County,36.907,-89.536
 3802,Pasadena Hills,St. Louis County,38.708,-90.293
 2474,Jasper,Jasper County,37.336,-94.301
@@ -244,19 +244,19 @@ phoneme,name,county,latitude,longitude
 2646,La Grange,Lewis County,40.043,-91.498
 1729,Flint Hill,St. Charles County,38.855,-90.861
 3689,Oregon,Holt County,39.987,-95.145
-4501,Seligman,Barry County,36.523,-93.940
+4506,Seligman,Barry County,36.523,-93.940
 2867,Lockwood,Dade County,37.386,-93.953
 2592,King City,Gentry County,40.051,-94.524
 1546,Ellington,Reynolds County,37.242,-90.969
 3913,Pineville,McDonald County,36.595,-94.384
 0644,Brunswick,Chariton County,39.423,-93.130
 4349,Russellville,Cole County,38.512,-92.440
-5243,Waverly,Lafayette County,39.209,-93.518
+5242,Waverly,Lafayette County,39.209,-93.518
 1845,Gainesville,Ozark County,36.603,-92.428
 1908,Gideon,New Madrid County,36.452,-89.919
-4762,Stewartsville,DeKalb County,39.751,-94.497
-5100,Van Buren,Carter County,36.996,-91.015
-5269,Wellington,Lafayette County,39.134,-93.983
+4761,Stewartsville,DeKalb County,39.751,-94.497
+5099,Van Buren,Carter County,36.996,-91.015
+5268,Wellington,Lafayette County,39.134,-93.983
 1638,Exeter,Barry County,36.672,-93.941
 3690,Orrick,Ray County,39.213,-94.123
 1097,Conway,Laclede County,37.502,-92.821
@@ -267,7 +267,7 @@ phoneme,name,county,latitude,longitude
 3233,Miller,Lawrence County,37.215,-93.840
 0097,Alton,Oregon County,36.694,-91.399
 2719,Lancaster,Schuyler County,40.521,-92.528
-5340,Wheaton,Barry County,36.763,-94.056
+5339,Wheaton,Barry County,36.763,-94.056
 3848,Perry,Ralls County,39.431,-91.675
 2638,La Belle,Lewis County,40.117,-91.913
 3889,Pilot Grove,Cooper County,38.875,-92.912
@@ -276,7 +276,7 @@ phoneme,name,county,latitude,longitude
 0028,Agency,Buchanan County,39.645,-94.740
 1005,Cleveland,Cass County,38.679,-94.594
 3341,Morley,Scott County,37.044,-89.610
-5199,Walnut Grove,Greene County,37.411,-93.550
+5198,Walnut Grove,Greene County,37.411,-93.550
 2046,Greendale,St. Louis County,38.695,-90.313
 1646,Fairfax,Atchison County,40.339,-95.393
 2807,Liberal,Barton County,37.558,-94.520
@@ -286,8 +286,8 @@ phoneme,name,county,latitude,longitude
 2309,Holcomb,Dunklin County,36.399,-90.024
 1481,Edgerton,Platte County,39.505,-94.633
 2425,Innsbrook,Warren County,38.769,-91.052
-5041,Twin Oaks,St. Louis County,38.565,-90.497
-5003,Trimble,Clinton County,39.471,-94.565
+5040,Twin Oaks,St. Louis County,38.565,-90.497
+5002,Trimble,Clinton County,39.471,-94.565
 3595,Norwood,Wright County,37.108,-92.415
 2174,Hartville,Wright County,37.251,-92.510
 1363,Doolittle,Phelps County,37.940,-91.881
@@ -299,16 +299,16 @@ phoneme,name,county,latitude,longitude
 4076,Queen City,Schuyler County,40.409,-92.568
 0043,Alba,Jasper County,37.238,-94.417
 2802,Lewistown,Lewis County,40.086,-91.813
-5137,Vienna,Maries County,38.187,-91.947
+5136,Vienna,Maries County,38.187,-91.947
 2984,Madison,Monroe County,39.474,-92.210
 3091,Matthews,New Madrid County,36.759,-89.587
 1579,Eminence,Shannon County,37.151,-91.358
 3979,Polo,Caldwell County,39.552,-94.041
-4594,Smithton,Pettis County,38.680,-93.093
-5126,Verona,Lawrence County,36.964,-93.796
+4599,Smithton,Pettis County,38.680,-93.093
+5125,Verona,Lawrence County,36.964,-93.796
 0471,Bland,Gasconade County,38.300,-91.633
 2241,Hermitage,Hickory County,37.941,-93.316
-4533,Shelbyville,Shelby County,39.806,-92.042
+4538,Shelbyville,Shelby County,39.806,-92.042
 2665,Laddonia,Audrain County,39.243,-91.645
 0860,Center,Ralls County,39.508,-91.529
 1277,Dearborn,Buchanan County,39.525,-94.772
@@ -318,20 +318,20 @@ phoneme,name,county,latitude,longitude
 0417,Beverly Hills,St. Louis County,38.700,-90.292
 1847,Galena,Stone County,36.805,-93.467
 0348,Bell City,Stoddard County,37.024,-89.820
-4822,Summersville,Shannon County,37.179,-91.658
+4821,Summersville,Shannon County,37.179,-91.658
 3724,Otterville,Cooper County,38.700,-93.002
 3440,Naylor,Ripley County,36.575,-90.604
 0232,Avondale,Clay County,39.154,-94.547
-4534,Sheldon,Vernon County,37.658,-94.293
+4539,Sheldon,Vernon County,37.658,-94.293
 0673,Bull Creek,Taney County,36.715,-93.204
-5245,Wayland,Clark County,40.394,-91.583
+5244,Wayland,Clark County,40.394,-91.583
 1641,Fair Play,Polk County,37.630,-93.573
 1657,Fairview,Newton County,36.818,-94.088
 3151,Meadville,Linn County,39.784,-93.302
 1636,Ewing,Lewis County,40.006,-91.714
 1811,Freeburg,Osage County,38.315,-91.923
-5329,Westphalia,Osage County,38.442,-91.999
-5223,Washburn,Barry County,36.587,-93.966
+5328,Westphalia,Osage County,38.442,-91.999
+5222,Washburn,Barry County,36.587,-93.966
 0720,Calhoun,Henry County,38.467,-93.626
 1612,Essex,Stoddard County,36.813,-89.861
 0085,Alma,Lafayette County,39.095,-93.545
@@ -339,7 +339,7 @@ phoneme,name,county,latitude,longitude
 4301,Rosebud,Gasconade County,38.387,-91.401
 2056,Greenville,Wayne County,37.127,-90.450
 3314,Montrose,Henry County,38.258,-93.981
-5078,Urbana,Dallas County,37.842,-93.167
+5077,Urbana,Dallas County,37.842,-93.167
 1206,Crystal Lakes,Ray County,39.359,-94.190
 0702,Butterfield,Barry County,36.750,-93.908
 3070,Marston,New Madrid County,36.519,-89.613
@@ -358,20 +358,20 @@ phoneme,name,county,latitude,longitude
 4128,Rayville,Ray County,39.348,-94.063
 1164,Creighton,Cass County,38.495,-94.073
 2470,Jamestown,Moniteau County,38.766,-92.481
-4709,St. Mary,Ste. Genevieve County,37.879,-89.949
+4710,St. Mary,Ste. Genevieve County,37.879,-89.949
 4063,Purcell,Jasper County,37.242,-94.435
 4365,Saddlebrooke,Christian County,36.826,-93.203
 1716,Fisk,Butler County,36.782,-90.209
-4558,Sibley,Jackson County,39.179,-94.193
-5332,Westwood,St. Louis County,38.644,-90.440
+4563,Sibley,Jackson County,39.179,-94.193
+5331,Westwood,St. Louis County,38.644,-90.440
 4367,Saginaw,Newton County,37.024,-94.468
 2661,Laclede,Linn County,39.786,-93.167
 1376,Downing,Schuyler County,40.488,-92.369
 1453,East Lynne,Cass County,38.668,-94.229
 0487,Blue Eye,Stone County,36.499,-93.397
-4992,Tracy,Platte County,39.377,-94.793
+4991,Tracy,Platte County,39.377,-94.793
 2525,Junction City,Madison County,37.576,-90.288
-5339,Wheatland,Hickory County,37.946,-93.401
+5338,Wheatland,Hickory County,37.946,-93.401
 0867,Centertown,Cole County,38.619,-92.412
 0940,Chilhowee,Johnson County,38.589,-93.854
 2380,Hume,Bates County,38.090,-94.584
@@ -381,7 +381,7 @@ phoneme,name,county,latitude,longitude
 2158,Harrisburg,Boone County,39.142,-92.463
 2839,Linneus,Linn County,39.879,-93.189
 2996,Maitland,Holt County,40.201,-95.074
-5403,Williamsville,Wayne County,36.971,-90.550
+5402,Williamsville,Wayne County,36.971,-90.550
 0218,Augusta,St. Charles County,38.573,-90.882
 1674,Farley,Platte County,39.282,-94.831
 3183,Mercer,Mercer County,40.511,-93.532
@@ -397,22 +397,22 @@ phoneme,name,county,latitude,longitude
 2603,Kingsville,Johnson County,38.743,-94.070
 4166,Rensselaer,Ralls County,39.671,-91.545
 3236,Millersville,Cape Girardeau County,37.433,-89.799
-4563,Silex,Lincoln County,39.123,-91.054
+4568,Silex,Lincoln County,39.123,-91.054
 3612,Oak Ridge,Cape Girardeau County,37.501,-89.730
 0568,Brashear,Adair County,40.149,-92.379
 1271,De Kalb,Buchanan County,39.587,-94.925
 2001,Grandin,Carter County,36.829,-90.823
 0454,Blackburn,Lafayette County,39.105,-93.486
 3259,Mineral Point,Washington County,37.945,-90.724
-5079,Utica,Livingston County,39.744,-93.627
-5439,Winston,Daviess County,39.870,-94.140
+5078,Utica,Livingston County,39.744,-93.627
+5438,Winston,Daviess County,39.870,-94.140
 1230,Dadeville,Dade County,37.480,-93.674
 1704,Fidelity,Jasper County,37.068,-94.313
 3481,New Hampton,Harrison County,40.264,-94.196
-4582,Skidmore,Nodaway County,40.289,-95.081
+4587,Skidmore,Nodaway County,40.289,-95.081
 1460,Easton,Buchanan County,39.722,-94.642
-4721,St. Thomas,Cole County,38.368,-92.217
-5509,Wyatt,Mississippi County,36.909,-89.223
+4720,St. Thomas,Cole County,38.368,-92.217
+5508,Wyatt,Mississippi County,36.909,-89.223
 0118,Amsterdam,Bates County,38.350,-94.589
 2045,Greencastle,Sullivan County,40.263,-92.878
 4345,Rushville,Buchanan County,39.587,-95.026
@@ -423,7 +423,7 @@ phoneme,name,county,latitude,longitude
 0429,Big Spring,Montgomery County,38.803,-91.478
 0476,Blodgett,Scott County,37.004,-89.527
 2609,Kirbyville,Taney County,36.623,-93.164
-4657,Spokane,Christian County,36.868,-93.297
+4662,Spokane,Christian County,36.868,-93.297
 1580,Emma,Lafayette County,38.975,-93.495
 0713,Cairo,Randolph County,39.512,-92.440
 0344,Belgrade,Washington County,37.787,-90.849
@@ -449,7 +449,7 @@ phoneme,name,county,latitude,longitude
 1706,Fillmore,Andrew County,40.025,-94.974
 3211,Middletown,Montgomery County,39.127,-91.414
 4041,Preston,Hickory County,37.941,-93.208
-4752,Stella,Newton County,36.761,-94.191
+4751,Stella,Newton County,36.761,-94.191
 3868,Phillipsburg,Laclede County,37.554,-92.785
 0095,Altamont,Daviess County,39.889,-94.089
 1852,Galt,Grundy County,40.129,-93.387
@@ -457,16 +457,16 @@ phoneme,name,county,latitude,longitude
 1291,Defiance,St. Charles County,38.632,-90.778
 0868,Centerville,Reynolds County,37.435,-90.958
 3449,Nelson,Saline County,38.995,-93.033
-5035,Tuscumbia,Miller County,38.233,-92.459
+5034,Tuscumbia,Miller County,38.233,-92.459
 3783,Parkdale,Jefferson County,38.478,-90.523
-4873,Syracuse,Morgan County,38.670,-92.873
+4872,Syracuse,Morgan County,38.670,-92.873
 2108,Halfway,Polk County,37.616,-93.245
 2734,Laredo,Grundy County,40.026,-93.447
 3199,Miami,Saline County,39.321,-93.228
 3468,New Cambria,Macon County,39.775,-92.750
 2376,Hughesville,Pettis County,38.839,-93.295
 2621,Knob Lick,St. Francois County,37.664,-90.386
-4541,Sheridan,Worth County,40.518,-94.612
+4546,Sheridan,Worth County,40.518,-94.612
 0998,Clearmont,Nodaway County,40.510,-95.032
 0166,Argyle,Maries County,38.295,-92.026
 1988,Graham,Nodaway County,40.201,-95.037
@@ -477,13 +477,13 @@ phoneme,name,county,latitude,longitude
 2171,Hartsburg,Boone County,38.695,-92.309
 2976,Mackenzie,St. Louis County,38.580,-90.317
 0718,Caledonia,Washington County,37.763,-90.773
-4529,Shawneetown,Cape Girardeau County,37.551,-89.652
+4534,Shawneetown,Cape Girardeau County,37.551,-89.652
 1319,Des Arc,Iron County,37.283,-90.637
 0409,Bethel,Shelby County,39.877,-92.024
 3616,Oaks,Clay County,39.196,-94.570
 1063,Collins,St. Clair County,37.891,-93.623
 3795,Parnell,Nodaway County,40.440,-94.623
-5497,Wortham,St. Francois County,37.844,-90.609
+5496,Wortham,St. Francois County,37.844,-90.609
 0265,Baring,Knox County,40.244,-92.206
 3847,Perkins,Scott County,37.095,-89.775
 3986,Pontiac,Ozark County,36.516,-92.604
@@ -494,10 +494,10 @@ phoneme,name,county,latitude,longitude
 1133,Cosby,Andrew County,39.864,-94.678
 2941,Ludlow,Livingston County,39.655,-93.702
 3530,Newtown,Sullivan County,40.376,-93.335
-5311,Westboro,Atchison County,40.535,-95.319
+5310,Westboro,Atchison County,40.535,-95.319
 1725,Fleming,Ray County,39.199,-94.066
 1726,Flemington,Polk County,37.805,-93.501
-4790,Strasburg,Cass County,38.760,-94.166
+4789,Strasburg,Cass County,38.760,-94.166
 0383,Bennett Springs,Dallas County,37.734,-92.856
 0058,Alexandria,Clark County,40.359,-91.455
 3310,Monticello,Lewis County,40.118,-91.712
@@ -510,7 +510,7 @@ phoneme,name,county,latitude,longitude
 1265,Dawn,Livingston County,39.668,-93.635
 0228,Avilla,Jasper County,37.195,-94.130
 4206,Ridgely,Platte County,39.456,-94.639
-5279,Wentworth,Newton County,36.993,-94.074
+5278,Wentworth,Newton County,36.993,-94.074
 0465,Blairstown,Henry County,38.556,-93.961
 3349,Morrison,Gasconade County,38.673,-91.636
 3357,Mosby,Clay County,39.316,-94.294
@@ -523,21 +523,21 @@ phoneme,name,county,latitude,longitude
 3493,New Market,Platte County,39.502,-94.799
 3944,Plato,Texas County,37.504,-92.225
 1373,Dover,Lafayette County,39.193,-93.688
-5371,Whitewater,Cape Girardeau County,37.238,-89.796
+5370,Whitewater,Cape Girardeau County,37.238,-89.796
 1273,De Witt,Carroll County,39.384,-93.221
 4355,Rutledge,Scotland County,40.314,-92.088
 0250,Baldwin Park,Cass County,38.794,-94.246
 1488,Edinburg,Grundy County,40.081,-93.694
 1781,Foster,Bates County,38.166,-94.507
 3137,McKittrick,Montgomery County,38.735,-91.444
-4826,Sumner,Chariton County,39.653,-93.245
-5252,Weatherby,DeKalb County,39.909,-94.244
+4825,Sumner,Chariton County,39.653,-93.245
+5251,Weatherby,DeKalb County,39.909,-94.244
 3366,Moundville,Vernon County,37.764,-94.452
-4882,Tallapoosa,New Madrid County,36.508,-89.819
+4881,Tallapoosa,New Madrid County,36.508,-89.819
 2433,Ionia,Benton County,38.504,-93.324
 4175,Revere,Clark County,40.495,-91.678
 3775,Paradise,Clay County,39.428,-94.516
-5166,Waco,Jasper County,37.247,-94.599
+5165,Waco,Jasper County,37.247,-94.599
 2204,Hayward,Pemiscot County,36.399,-89.670
 2950,Luray,Clark County,40.453,-91.882
 0426,Big Lake,Holt County,40.082,-95.350
@@ -550,14 +550,14 @@ phoneme,name,county,latitude,longitude
 2792,Leopold,Bollinger County,37.258,-89.926
 3884,Pierpont,Boone County,38.862,-92.315
 2157,Harris,Sullivan County,40.306,-93.350
-5017,Truxton,Lincoln County,39.002,-91.240
-5496,Worth,Worth County,40.405,-94.444
-5110,Vandiver,Audrain County,39.163,-91.844
+5016,Truxton,Lincoln County,39.002,-91.240
+5495,Worth,Worth County,40.405,-94.444
+5109,Vandiver,Audrain County,39.163,-91.844
 3817,Paynesville,Pike County,39.263,-90.900
-4834,Sundown,Ozark County,36.566,-92.637
+4833,Sundown,Ozark County,36.566,-92.637
 1278,Deering,Pemiscot County,36.191,-89.883
 2022,Grayson,Clinton County,39.533,-94.564
-5367,Whiteside,Lincoln County,39.185,-91.017
+5366,Whiteside,Lincoln County,39.185,-91.017
 1930,Glen Allen,Bollinger County,37.318,-90.028
 2937,Lucerne,Putnam County,40.464,-93.292
 3250,Milo,Vernon County,37.756,-94.306
@@ -565,21 +565,21 @@ phoneme,name,county,latitude,longitude
 1915,Guilford,Nodaway County,40.170,-94.736
 2859,Livonia,Putnam County,40.491,-92.700
 4111,Randolph,Clay County,39.158,-94.496
-5237,Watson,Atchison County,40.477,-95.621
+5236,Watson,Atchison County,40.477,-95.621
 1019,Clyde,Nodaway County,40.269,-94.669
 1093,Connelsville,Adair County,40.278,-92.700
 1891,Gentry,Gentry County,40.332,-94.420
 0160,Arkoe,Nodaway County,40.258,-94.828
 1555,Elmer,Macon County,39.957,-92.650
 2790,Leonard,Shelby County,39.896,-92.179
-5499,Worthington,Putnam County,40.408,-92.689
-4688,St. Cloud,Crawford County,38.169,-91.218
+5498,Worthington,Putnam County,40.408,-92.689
+4692,St. Cloud,Crawford County,38.169,-91.218
 0072,Allendale,Worth County,40.486,-94.289
 1614,Ethel,Macon County,39.895,-92.738
 2447,Irwin,Barton County,37.589,-94.286
 3978,Pollock,Sullivan County,40.359,-93.085
 0599,Brimson,Grundy County,40.144,-93.739
-4957,Tindall,Grundy County,40.161,-93.608
+4956,Tindall,Grundy County,40.161,-93.608
 1083,Commerce,Scott County,37.159,-89.443
 4024,Powersville,Putnam County,40.549,-93.300
 4187,Richards,Vernon County,37.907,-94.557
@@ -587,8 +587,8 @@ phoneme,name,county,latitude,longitude
 4240,Rives,Dunklin County,36.094,-90.013
 0161,Arcola,Dade County,37.549,-93.875
 1557,Elmira,Ray County,39.507,-94.155
-4785,Stoutsville,Monroe County,39.547,-91.859
-5159,Vista,St. Clair County,37.988,-93.664
+4784,Stoutsville,Monroe County,39.547,-91.859
+5158,Vista,St. Clair County,37.988,-93.664
 3835,Pendleton,Warren County,38.827,-91.235
 1316,Denver,Worth County,40.397,-94.323
 2179,Harwood,Vernon County,37.956,-94.154
@@ -601,7 +601,7 @@ phoneme,name,county,latitude,longitude
 1778,Fortescue,Holt County,40.052,-95.318
 0679,Burgess,Barton County,37.556,-94.615
 1632,Evergreen,Laclede County,37.543,-92.597
-4783,Stotesbury,Vernon County,37.972,-94.564
+4782,Stotesbury,Vernon County,37.972,-94.564
 1240,Dalton,Chariton County,39.398,-92.990
 3958,Plevna,Knox County,39.974,-92.086
 0431,Bigelow,Holt County,40.111,-95.290
@@ -792,54 +792,54 @@ phoneme,name,county,latitude,longitude
 4289,Romance,Ozark County,36.717,-92.503
 4304,Roselle,Madison County,37.599,-90.526
 4368,Saint Anthony,Miller County,38.156,-92.274
-4427,Sandy Hook,Moniteau County,38.748,-92.409
-4440,Santa Fe,Monroe County,39.369,-91.819
-4453,Sargent,Texas County,37.087,-92.027
-4518,Shafter,Linn County,39.984,-93.285
-4519,Shamrock,Callaway County,39.003,-91.694
-4527,Shawnee,Shannon County,37.121,-91.260
-4542,Sherman,St. Louis County,38.537,-90.590
-4550,Shirley,Washington County,37.915,-90.919
-4565,Siloam Springs,Howell County,36.796,-92.076
-4566,Silva,Wayne County,37.176,-90.464
-4570,Silver Lake,Perry County,37.684,-89.990
-4588,Sligo,Dent County,37.774,-91.378
-4651,Speed,Cooper County,38.848,-92.803
-4652,Spencer,Lawrence County,37.184,-93.703
-4682,St. Albans,Franklin County,38.579,-90.775
+4432,Sandy Hook,Moniteau County,38.748,-92.409
+4445,Santa Fe,Monroe County,39.369,-91.819
+4458,Sargent,Texas County,37.087,-92.027
+4523,Shafter,Linn County,39.984,-93.285
+4524,Shamrock,Callaway County,39.003,-91.694
+4532,Shawnee,Shannon County,37.121,-91.260
+4547,Sherman,St. Louis County,38.537,-90.590
+4555,Shirley,Washington County,37.915,-90.919
+4570,Siloam Springs,Howell County,36.796,-92.076
+4571,Silva,Wayne County,37.176,-90.464
+4575,Silver Lake,Perry County,37.684,-89.990
+4593,Sligo,Dent County,37.774,-91.378
+4656,Speed,Cooper County,38.848,-92.803
+4657,Spencer,Lawrence County,37.184,-93.703
+4687,St. Albans,Franklin County,38.579,-90.775
 4714,St. Patrick,Clark County,40.264,-91.627
-4764,Stickney,Maries County,38.068,-91.936
-4805,Success,Texas County,37.444,-92.088
-4818,Sulphur Springs,Jefferson County,38.336,-90.374
-4824,Summit,Washington County,37.912,-90.708
-4840,Sunset,Polk County,37.551,-93.308
-4858,Sweden,Douglas County,36.877,-92.501
-4866,Sycamore,Ozark County,36.703,-92.274
-4871,Sylvania,Dade County,37.508,-94.023
-4940,Thorpe,Dallas County,37.488,-92.998
-4951,Tiffin,St. Clair County,37.955,-93.938
-4969,Toledo,Ozark County,36.774,-92.686
-4995,Trail,Ozark County,36.768,-92.295
-5022,Tulip,Audrain County,39.343,-92.157
-5047,Tyrone,Texas County,37.203,-91.877
-5049,Udall,Ozark County,36.542,-92.263
-5061,Union City,Stone County,36.979,-93.466
-5067,Uniontown,Perry County,37.615,-89.714
-5090,Valley City,Johnson County,38.866,-93.612
-5118,Vera Cruz,Douglas County,36.914,-92.494
-5135,Vida,Phelps County,37.857,-91.800
-5152,Viola,Barry County,36.573,-93.582
-5183,Waldo,Webster County,37.189,-92.745
-5185,Waldron,Platte County,39.222,-94.793
-5193,Wallace,Buchanan County,39.555,-94.847
-5328,Westover,Crawford County,37.922,-91.228
-5359,White Rock,Carroll County,39.334,-93.285
-5392,Willhoit,Ozark County,36.684,-92.506
-5398,Williamsburg,Callaway County,38.920,-91.702
-5423,Wilton,Boone County,38.735,-92.359
-5429,Windyville,Dallas County,37.707,-92.927
-5435,Winnipeg,Laclede County,37.604,-92.302
-5443,Winthrop,Buchanan County,39.560,-95.108
-5451,Wittenberg,Perry County,37.653,-89.524
-5515,Yancy Mills,Phelps County,37.791,-91.834
-5537,Zell,Ste. Genevieve County,37.953,-90.143
+4763,Stickney,Maries County,38.068,-91.936
+4804,Success,Texas County,37.444,-92.088
+4817,Sulphur Springs,Jefferson County,38.336,-90.374
+4823,Summit,Washington County,37.912,-90.708
+4839,Sunset,Polk County,37.551,-93.308
+4857,Sweden,Douglas County,36.877,-92.501
+4865,Sycamore,Ozark County,36.703,-92.274
+4870,Sylvania,Dade County,37.508,-94.023
+4939,Thorpe,Dallas County,37.488,-92.998
+4950,Tiffin,St. Clair County,37.955,-93.938
+4968,Toledo,Ozark County,36.774,-92.686
+4994,Trail,Ozark County,36.768,-92.295
+5021,Tulip,Audrain County,39.343,-92.157
+5046,Tyrone,Texas County,37.203,-91.877
+5048,Udall,Ozark County,36.542,-92.263
+5060,Union City,Stone County,36.979,-93.466
+5066,Uniontown,Perry County,37.615,-89.714
+5089,Valley City,Johnson County,38.866,-93.612
+5117,Vera Cruz,Douglas County,36.914,-92.494
+5134,Vida,Phelps County,37.857,-91.800
+5151,Viola,Barry County,36.573,-93.582
+5182,Waldo,Webster County,37.189,-92.745
+5184,Waldron,Platte County,39.222,-94.793
+5192,Wallace,Buchanan County,39.555,-94.847
+5327,Westover,Crawford County,37.922,-91.228
+5358,White Rock,Carroll County,39.334,-93.285
+5391,Willhoit,Ozark County,36.684,-92.506
+5397,Williamsburg,Callaway County,38.920,-91.702
+5422,Wilton,Boone County,38.735,-92.359
+5428,Windyville,Dallas County,37.707,-92.927
+5434,Winnipeg,Laclede County,37.604,-92.302
+5442,Winthrop,Buchanan County,39.560,-95.108
+5450,Wittenberg,Perry County,37.653,-89.524
+5514,Yancy Mills,Phelps County,37.791,-91.834
+5536,Zell,Ste. Genevieve County,37.953,-90.143

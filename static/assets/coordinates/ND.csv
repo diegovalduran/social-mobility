@@ -2,19 +2,19 @@ phoneme,name,county,latitude,longitude
 1673,Fargo,Cass County,46.877,-96.790
 0444,Bismarck,Burleigh County,46.808,-100.784
 3266,Minot,Ward County,48.233,-101.296
-5407,Williston,Williams County,48.147,-103.618
+5406,Williston,Williams County,48.147,-103.618
 1336,Dickinson,Stark County,46.879,-102.790
 3010,Mandan,Morton County,46.827,-100.890
 2470,Jamestown,Stutsman County,46.911,-98.708
-5176,Wahpeton,Richland County,46.265,-96.606
-5090,Valley City,Barnes County,46.923,-98.003
+5175,Wahpeton,Richland County,46.265,-96.606
+5089,Valley City,Barnes County,46.923,-98.003
 2822,Lincoln,Burleigh County,46.762,-100.700
 1987,Grafton,Walsh County,48.412,-97.411
 2350,Horace,Cass County,46.759,-96.904
 0414,Beulah,Mercer County,47.263,-101.778
 3507,New Town,Mountrail County,47.981,-102.490
 4339,Rugby,Pierce County,48.369,-99.996
-4731,Stanley,Mountrail County,48.317,-102.390
+4730,Stanley,Mountrail County,48.317,-102.390
 2211,Hazen,Mercer County,47.294,-101.623
 2844,Lisbon,Ransom County,46.442,-97.681
 3616,Oakes,Dickey County,46.139,-98.090
@@ -22,48 +22,48 @@ phoneme,name,county,latitude,longitude
 2287,Hillsboro,Traill County,47.404,-97.062
 2178,Harvey,Wells County,47.770,-99.935
 1871,Garrison,McLean County,47.652,-101.416
-5223,Washburn,McLean County,47.289,-101.029
+5222,Washburn,McLean County,47.289,-101.029
 4285,Rolla,Rolette County,48.858,-99.618
-4934,Thompson,Grand Forks County,47.774,-97.110
+4933,Thompson,Grand Forks County,47.774,-97.110
 1187,Crosby,Divide County,48.914,-103.295
 2840,Linton,Emmons County,46.267,-100.233
 3503,New Salem,Morton County,46.845,-101.411
 0310,Beach,Golden Valley County,46.918,-104.004
 3589,Northwood,Grand Forks County,47.734,-97.567
 1104,Cooperstown,Griggs County,47.444,-98.124
-5188,Walhalla,Pembina County,48.923,-97.918
+5187,Walhalla,Pembina County,48.923,-97.918
 3799,Parshall,Mountrail County,47.953,-102.135
 2179,Harwood,Cass County,46.979,-96.881
 2220,Hebron,Morton County,46.901,-102.045
-5058,Underwood,McLean County,47.456,-101.137
+5057,Underwood,McLean County,47.456,-101.137
 2029,Green Acres,Rolette County,48.838,-99.690
 3429,Napoleon,Logan County,46.508,-99.771
 1383,Drayton,Pembina County,48.571,-97.178
-5423,Wilton,Burleigh County,47.158,-100.784
+5422,Wilton,Burleigh County,47.158,-100.784
 2186,Hatton,Traill County,47.640,-97.453
 4123,Ray,Williams County,48.344,-103.165
 2711,Lakota,Nelson County,48.043,-98.336
-4750,Steele,Kidder County,46.855,-99.916
+4749,Steele,Kidder County,46.855,-99.916
 3249,Milnor,Sargent County,46.259,-97.456
 3267,Minto,Walsh County,48.292,-97.371
 0188,Ashley,McIntosh County,46.034,-99.371
 4004,Portland,Traill County,47.498,-97.370
 0860,Center,Oliver County,47.116,-101.300
 1522,Elgin,Grant County,46.404,-101.846
-5000,Trenton,Williams County,48.071,-103.837
-4988,Towner,McHenry County,48.346,-100.405
+4999,Trenton,Williams County,48.071,-103.837
+4987,Towner,McHenry County,48.346,-100.405
 1937,Glenburn,Renville County,48.513,-101.221
 3146,McVille,Nelson County,47.764,-98.177
 4023,Powers Lake,Burke County,48.563,-102.648
 3030,Manvel,Grand Forks County,48.078,-97.176
 3740,Oxbow,Cass County,46.673,-96.810
-4790,Strasburg,Emmons County,46.134,-100.162
-4732,Stanton,Mercer County,47.321,-101.382
+4789,Strasburg,Emmons County,46.134,-100.162
+4731,Stanton,Mercer County,47.321,-101.382
 0704,Buxton,Traill County,47.602,-97.097
 3098,Max,McLean County,47.821,-101.299
-4699,St. John,Rolette County,48.944,-99.711
-4721,St. Thomas,Pembina County,48.619,-97.446
-4460,Sawyer,Ward County,48.090,-101.054
+4702,St. John,Rolette County,48.944,-99.711
+4720,St. Thomas,Pembina County,48.619,-97.446
+4465,Sawyer,Ward County,48.090,-101.054
 0057,Alexander,McKenzie County,47.843,-103.643
 1380,Drake,McHenry County,47.924,-100.372
 4178,Reynolds,Grand Forks County,47.669,-97.106
@@ -71,16 +71,16 @@ phoneme,name,county,latitude,longitude
 3159,Medina,Stutsman County,46.894,-99.300
 1924,Gladstone,Stark County,46.861,-102.568
 3202,Michigan City,Nelson County,48.025,-98.117
-4986,Tower City,Barnes County,46.926,-97.676
+4985,Tower City,Barnes County,46.926,-97.676
 0797,Carson,Grant County,46.418,-101.565
 2148,Harmon,Morton County,46.952,-100.953
 1259,Davenport,Cass County,46.714,-97.070
 2790,Leonard,Cass County,46.652,-97.246
 0127,Aneta,Nelson County,47.679,-97.988
-4899,Taylor,Stark County,46.901,-102.425
+4898,Taylor,Stark County,46.901,-102.425
 2209,Hazelton,Emmons County,46.485,-100.280
 4235,Riverdale,McLean County,47.498,-101.371
-4894,Tappen,Kidder County,46.875,-99.636
+4893,Tappen,Kidder County,46.875,-99.636
 3991,Porcupine,Sioux County,46.219,-101.099
 1488,Edinburg,Walsh County,48.497,-97.862
 1831,Frontier,Cass County,46.801,-96.833
@@ -88,34 +88,34 @@ phoneme,name,county,latitude,longitude
 3409,Munich,Cavalier County,48.669,-98.833
 1961,Golden Valley,Mercer County,47.291,-102.065
 2001,Grandin,Cass County,47.237,-97.003
-4544,Sherwood,Renville County,48.960,-101.633
-4414,Sanborn,Barnes County,46.942,-98.224
+4549,Sherwood,Renville County,48.960,-101.633
+4419,Sanborn,Barnes County,46.942,-98.224
 0953,Christine,Richland County,46.574,-96.802
-5410,Willow City,Bottineau County,48.604,-100.294
+5409,Willow City,Bottineau County,48.604,-100.294
 1493,Edmore,Ramsey County,48.413,-98.454
 0536,Bowdon,Wells County,47.470,-99.708
 1079,Columbus,Burke County,48.904,-102.780
-5074,Upham,McHenry County,48.582,-100.728
+5073,Upham,McHenry County,48.582,-100.728
 3052,Marion,LaMoure County,46.607,-98.332
 1865,Gardner,Cass County,47.147,-96.968
 1647,Fairfield,Billings County,47.189,-103.222
 3160,Medora,Billings County,46.914,-103.524
 1971,Goodrich,Sheridan County,47.475,-100.126
 0441,Bisbee,Towner County,48.626,-99.378
-4562,Sykeston,Wells County,47.465,-99.400
-4534,Sheldon,Ransom County,46.586,-97.491
+4567,Sykeston,Wells County,47.465,-99.400
+4539,Sheldon,Ransom County,46.586,-97.491
 0088,Almont,Morton County,46.725,-101.503
 1942,Glenfield,Foster County,47.453,-98.567
 3516,Newburg,Bottineau County,48.715,-100.913
 1278,Deering,McHenry County,48.396,-101.052
 1609,Esmond,Benson County,48.036,-99.762
 1371,Douglas,Ward County,47.857,-101.503
-4523,Sharon,Steele County,47.597,-97.894
+4528,Sharon,Steele County,47.597,-97.894
 3312,Montpelier,Stutsman County,46.700,-98.590
 4312,Ross,Mountrail County,48.311,-102.547
 1349,Dodge,Dunn County,47.306,-102.204
 2534,Karlsruhe,McHenry County,48.090,-100.620
-5536,Zeeland,McIntosh County,45.970,-99.831
+5535,Zeeland,McIntosh County,45.970,-99.831
 3389,Mountain,Pembina County,48.688,-97.865
 1426,Dwight,Richland County,46.304,-96.738
 1599,Epping,Williams County,48.279,-103.357
@@ -127,15 +127,15 @@ phoneme,name,county,latitude,longitude
 1390,Driscoll,Burleigh County,46.844,-100.141
 2103,Hague,Emmons County,46.029,-99.996
 2189,Havana,Sargent County,45.950,-97.619
-5339,Wheatland,Cass County,46.907,-97.345
+5338,Wheatland,Cass County,46.907,-97.345
 0379,Benedict,McLean County,47.830,-101.082
 0829,Kathryn,Barnes County,46.678,-97.969
 3131,McHenry,Foster County,47.576,-98.591
-5126,Verona,LaMoure County,46.364,-98.072
+5125,Verona,LaMoure County,46.364,-98.072
 1025,Colgate,Steele County,47.245,-97.656
 1005,Cleveland,Stutsman County,46.892,-99.118
 1839,Fullerton,Dickey County,46.165,-98.427
-4984,Tuttle,Kidder County,47.144,-99.995
+4983,Tuttle,Kidder County,47.144,-99.995
 2887,Long Creek,Williams County,48.102,-103.259
 0582,Briarwood,Cass County,46.786,-96.797
 1602,Erie,Cass County,47.116,-97.389
@@ -144,13 +144,13 @@ phoneme,name,county,latitude,longitude
 3547,Nome,Barnes County,46.678,-97.810
 4281,Rogers,Barnes County,47.073,-98.200
 3020,Manning,Dunn County,47.229,-102.769
-5491,Woodworth,Stutsman County,47.142,-99.303
+5490,Woodworth,Stutsman County,47.142,-99.303
 0069,Alice,Cass County,46.762,-97.556
 0272,Barney,Richland County,46.267,-97.001
 2423,Inkster,Grand Forks County,48.151,-97.644
 3253,Milton,Cavalier County,48.626,-98.043
 0838,Cayuga,Sargent County,46.074,-97.384
-4502,Selz,Pierce County,47.857,-99.892
+4507,Selz,Pierce County,47.857,-99.892
 1747,Forbes,Dickey County,45.944,-98.782
 1810,Fredonia,Logan County,46.329,-99.096
 0718,Caledonia,Traill County,47.458,-96.889
@@ -160,7 +160,7 @@ phoneme,name,county,latitude,longitude
 1779,Fortuna,Divide County,48.910,-103.779
 3113,McLeod,Ransom County,46.394,-97.300
 4248,Robinson,Kidder County,47.143,-99.781
-4669,Springbrook,Williams County,48.253,-103.459
+4674,Springbrook,Williams County,48.253,-103.459
 0092,Alsen,Cavalier County,48.631,-98.705
 1006,Clifford,Traill County,47.348,-97.411
 1645,Fairdale,Walsh County,48.491,-98.231
@@ -169,7 +169,7 @@ phoneme,name,county,latitude,longitude
 1156,Kramer,Bottineau County,48.691,-100.707
 1863,Gardena,Bottineau County,48.701,-100.498
 3250,Mylo,Rolette County,48.635,-99.619
-4558,Sibley,Barnes County,47.217,-97.965
+4563,Sibley,Barnes County,47.217,-97.965
 0553,Braddock,Emmons County,46.564,-100.091
 2105,Haynes,Adams County,45.974,-102.471
 0731,Calvin,Cavalier County,48.853,-98.935
@@ -182,7 +182,7 @@ phoneme,name,county,latitude,longitude
 2127,Hannah,Cavalier County,48.972,-98.692
 2877,Loma,Cavalier County,48.630,-98.533
 2901,Loraine,Renville County,48.866,-101.568
-5187,Wales,Cavalier County,48.896,-98.603
+5186,Wales,Cavalier County,48.896,-98.603
 3692,Orrin,Pierce County,48.091,-100.163
 1019,Clyde,Cavalier County,48.770,-98.899
 3855,Perth,Towner County,48.716,-99.458
@@ -203,7 +203,8 @@ phoneme,name,county,latitude,longitude
 3837,Penn,Ramsey County,48.222,-99.089
 4348,Russell,Bottineau County,48.671,-100.902
 4368,Saint Anthony,Morton County,46.617,-100.913
-4547,Shields,Grant County,46.234,-101.126
-4968,Tokio,Benson County,47.925,-98.816
-5219,Warsaw,Walsh County,48.296,-97.255
-5375,Whitman,Nelson County,48.159,-98.120
+4374,Saint Michael,Benson County,47.985,-98.872
+4552,Shields,Grant County,46.234,-101.126
+4967,Tokio,Benson County,47.925,-98.816
+5218,Warsaw,Walsh County,48.296,-97.255
+5374,Whitman,Nelson County,48.159,-98.120

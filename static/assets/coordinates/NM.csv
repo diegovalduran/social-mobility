@@ -1,58 +1,58 @@
 phoneme,name,county,latitude,longitude
 0050,Albuquerque,Bernalillo County,35.084,-106.651
-4440,Santa Fe,Santa Fe County,35.687,-105.938
+4445,Santa Fe,Santa Fe County,35.687,-105.938
 4317,Roswell,Chaves County,33.394,-104.523
 1679,Farmington,San Juan County,36.728,-108.219
 2302,Hobbs,Lea County,32.703,-103.136
 1018,Clovis,Curry County,34.405,-103.205
-4636,South Valley,Bernalillo County,35.010,-106.678
+4641,South Valley,Bernalillo County,35.010,-106.678
 0780,Carlsbad,Eddy County,32.421,-104.229
 1306,Deming,Luna County,32.269,-107.759
 2906,Los Alamos,Los Alamos County,35.888,-106.307
 2740,Las Vegas,San Miguel County,35.594,-105.224
 0179,Artesia,Eddy County,32.842,-104.403
-4567,Silver City,Grant County,32.770,-108.280
+4572,Silver City,Grant County,32.770,-108.280
 0142,Anthony,Do��a Ana County,32.004,-106.606
-4607,Socorro,Socorro County,34.058,-106.891
+4612,Socorro,Socorro County,34.058,-106.891
 0478,Bloomfield,San Juan County,36.711,-107.985
-4893,Taos,Taos County,36.407,-105.573
+4892,Taos,Taos County,36.407,-105.573
 0235,Aztec,San Juan County,36.822,-107.993
 1484,Edgewood,Bernalillo County,35.131,-106.220
-5359,White Rock,Los Alamos County,35.828,-106.204
+5358,White Rock,Los Alamos County,35.828,-106.204
 3935,Placitas,Sandoval County,35.307,-106.425
 1624,Eunice,Lea County,32.437,-103.159
-4444,Santa Rosa,Guadalupe County,34.939,-104.682
+4449,Santa Rosa,Guadalupe County,34.939,-104.682
 0992,Clayton,Union County,36.452,-103.184
-5073,University Park,Do��a Ana County,32.283,-106.753
+5072,University Park,Do��a Ana County,32.283,-106.753
 3218,Milan,Cibola County,35.170,-107.891
-4412,San Rafael,Cibola County,35.113,-107.883
+4417,San Rafael,Cibola County,35.113,-107.883
 0862,Center Point,San Juan County,36.877,-107.946
-4413,San Ysidro,Do��a Ana County,32.351,-106.811
-5084,Valencia,Valencia County,34.800,-106.700
+4418,San Ysidro,Do��a Ana County,32.351,-106.811
+5083,Valencia,Valencia County,34.800,-106.700
 0301,Bayard,Grant County,32.762,-108.131
 4091,Radium Springs,Do��a Ana County,32.501,-106.928
 2652,La Plata,San Juan County,36.929,-108.190
-4437,Santa Clara,Grant County,32.780,-108.150
+4442,Santa Clara,Grant County,32.780,-108.150
 0282,Barton,Bernalillo County,35.065,-106.257
 2183,Hatch,Do��a Ana County,32.665,-107.153
 1079,Columbus,Luna County,31.828,-107.640
-4653,Spencerville,San Juan County,36.820,-108.058
+4658,Spencerville,San Juan County,36.820,-108.058
 0207,Atoka,Eddy County,32.770,-104.389
-4885,Talpa,Taos County,36.341,-105.597
+4884,Talpa,Taos County,36.341,-105.597
 0452,Black Rock,McKinley County,35.088,-108.791
 1509,El Rancho,Santa Fe County,35.889,-106.080
 2927,Loving,Eddy County,32.286,-104.096
 2390,Hurley,Grant County,32.699,-108.132
 4257,Rock Springs,McKinley County,35.609,-108.829
-5040,Twin Lakes,McKinley County,35.709,-108.775
+5039,Twin Lakes,McKinley County,35.709,-108.775
 2340,Hondo,Lincoln County,33.392,-105.275
 1329,Dexter,Chaves County,33.197,-104.373
 2409,Indian Hills,Torrance County,34.983,-106.140
-4409,San Pablo,Do��a Ana County,32.250,-106.773
+4414,San Pablo,Do��a Ana County,32.250,-106.773
 2101,Hagerman,Chaves County,33.115,-104.327
 2872,Logan,Quay County,35.365,-103.411
-4671,Springer,Colfax County,36.361,-104.595
-4922,Texico,Curry County,34.389,-103.051
+4676,Springer,Colfax County,36.361,-104.595
+4921,Texico,Curry County,34.389,-103.051
 2136,Happy Valley,Eddy County,32.428,-104.290
 0041,Alamo,Socorro County,34.421,-107.511
 0884,Chama,Rio Arriba County,36.903,-106.579
@@ -61,15 +61,15 @@ phoneme,name,county,latitude,longitude
 3305,Monterey Park,Valencia County,34.759,-106.641
 0960,Cimarron,Colfax County,36.511,-104.916
 0847,Cedar Crest,Bernalillo County,35.108,-106.373
-4400,San Jose,Rio Arriba County,36.039,-106.098
-5087,Valle Vista,Santa Fe County,35.584,-106.060
-5115,Ventura,Luna County,32.244,-107.683
-4408,San Miguel,Do��a Ana County,32.155,-106.735
-5047,Tyrone,Grant County,32.710,-108.302
+4405,San Jose,Rio Arriba County,36.039,-106.098
+5086,Valle Vista,Santa Fe County,35.584,-106.060
+5114,Ventura,Luna County,32.244,-107.683
+4413,San Miguel,Do��a Ana County,32.155,-106.735
+5046,Tyrone,Grant County,32.710,-108.302
 0849,Cedar Hill,San Juan County,36.937,-107.890
-4376,Salem,Do��a Ana County,32.708,-107.213
+4381,Salem,Do��a Ana County,32.708,-107.213
 3193,Mesquite,Do��a Ana County,32.165,-106.697
-4896,Tatum,Lea County,33.257,-103.318
+4895,Tatum,Lea County,33.257,-103.318
 1337,Dixon,Rio Arriba County,36.199,-105.889
 3216,Midway,Chaves County,33.295,-104.451
 3343,Morningside,Eddy County,32.861,-104.397
@@ -78,25 +78,25 @@ phoneme,name,county,latitude,longitude
 3167,Melrose,Curry County,34.430,-103.632
 2649,La Mesa,Do��a Ana County,32.122,-106.708
 2614,Kirtland,San Juan County,36.734,-108.360
-4832,Sundance,McKinley County,35.460,-108.638
+4831,Sundance,McKinley County,35.460,-108.638
 0760,Canova,Rio Arriba County,36.159,-105.985
 4142,Red River,Taos County,36.708,-105.406
 4280,Rowe,San Miguel County,35.492,-105.675
 3133,McIntosh,Torrance County,34.865,-106.052
 3935,Placitas,Do��a Ana County,32.665,-107.169
 3520,Newcomb,San Juan County,36.285,-108.706
-5398,Williamsburg,Sierra County,33.116,-107.293
+5397,Williamsburg,Sierra County,33.116,-107.293
 4101,Ramah,McKinley County,35.133,-108.492
-4980,Torreon,Sandoval County,35.797,-107.214
+4979,Torreon,Sandoval County,35.797,-107.214
 2648,La Madera,Sandoval County,35.223,-106.371
 0178,Arroyo Hondo,Santa Fe County,35.610,-105.945
-4954,Timberlake,Cibola County,35.201,-108.484
-4842,Sunshine,Luna County,32.138,-107.753
+4953,Timberlake,Cibola County,35.201,-108.484
+4841,Sunshine,Luna County,32.138,-107.753
 0470,Blanco,San Juan County,36.724,-107.825
 2396,Hyde Park,Santa Fe County,35.711,-105.887
 2676,Lake Arthur,Chaves County,32.998,-104.367
 2648,La Madera,Rio Arriba County,36.377,-106.043
-5029,Turley,San Juan County,36.753,-107.765
+5028,Turley,San Juan County,36.753,-107.765
 4215,Rincon,Do��a Ana County,32.673,-107.065
 3955,Pleasanton,Catron County,33.272,-108.873
 2470,Jamestown,McKinley County,35.481,-108.433
@@ -106,60 +106,60 @@ phoneme,name,county,latitude,longitude
 2647,La Jara,Sandoval County,36.088,-106.975
 0178,Arroyo Hondo,Taos County,36.536,-105.670
 1593,Ensenada,Rio Arriba County,36.727,-106.533
-5112,Vaughn,Guadalupe County,34.602,-105.208
+5111,Vaughn,Guadalupe County,34.602,-105.208
 2989,Madrid,Santa Fe County,35.407,-106.153
 2945,Lumberton,Rio Arriba County,36.930,-106.937
 4302,Rosedale,Grant County,32.765,-108.243
 0939,Chili,Rio Arriba County,36.105,-106.150
 2134,Hanover,Grant County,32.813,-108.091
 3099,Maxwell,Colfax County,36.540,-104.543
-4402,San Lorenzo,Grant County,32.810,-107.920
+4407,San Lorenzo,Grant County,32.810,-107.920
 3317,Monument,Lea County,32.624,-103.264
-4980,Torreon,Torrance County,34.722,-106.299
-5142,Villanueva,San Miguel County,35.267,-105.361
-5395,Willard,Torrance County,34.596,-106.034
-4439,Santa Cruz,Santa Fe County,35.992,-106.047
+4979,Torreon,Torrance County,34.722,-106.299
+5141,Villanueva,San Miguel County,35.267,-105.361
+5394,Willard,Torrance County,34.596,-106.034
+4444,Santa Cruz,Santa Fe County,35.992,-106.047
 0496,Bluewater,McKinley County,35.315,-108.176
 1174,Crestview,McKinley County,35.487,-108.854
 2822,Lincoln,Lincoln County,33.492,-105.384
 4331,Roy,Harding County,35.944,-104.196
 1113,Cordova,Rio Arriba County,36.007,-105.861
-4403,San Luis,Sandoval County,35.683,-107.051
+4408,San Luis,Sandoval County,35.683,-107.051
 2805,Lyden,Rio Arriba County,36.146,-106.006
 2998,Malaga,Eddy County,32.224,-104.072
-4413,San Ysidro,Sandoval County,35.563,-106.771
+4418,San Ysidro,Sandoval County,35.563,-106.771
 1523,Elida,Roosevelt County,33.947,-103.657
 4078,Quemado,Catron County,34.344,-108.496
 1125,Corona,Lincoln County,34.251,-105.597
 2287,Hillsboro,Sierra County,32.917,-107.567
-5154,Virden,Hidalgo County,32.687,-109.002
+5153,Virden,Hidalgo County,32.687,-109.002
 3985,Ponderosa,Sandoval County,35.660,-106.668
 1364,Dora,Roosevelt County,33.939,-103.337
 0153,Aragon,Catron County,33.881,-108.539
-5262,Weed,Otero County,32.803,-105.517
+5261,Weed,Otero County,32.803,-105.517
 1320,Des Moines,Union County,36.761,-103.834
 2345,Hope,Eddy County,32.810,-104.733
-4396,San Cristobal,Taos County,36.596,-105.639
+4401,San Cristobal,Taos County,36.596,-105.639
 4278,Rodeo,Hidalgo County,31.837,-109.032
-4731,Stanley,Santa Fe County,35.148,-105.977
+4730,Stanley,Santa Fe County,35.148,-105.977
 0607,Broadview,Cibola County,35.229,-107.872
 0810,Casas Adobes,Grant County,32.810,-107.940
 3624,Oasis,Sierra County,32.925,-107.317
 1986,Grady,Curry County,34.821,-103.317
 1739,Floyd,Roosevelt County,34.214,-103.581
-5084,Valencia,Santa Fe County,35.578,-105.791
+5083,Valencia,Santa Fe County,35.578,-105.791
 4158,Regina,Sandoval County,36.184,-106.957
 2601,Kingston,Sierra County,32.917,-107.706
 0769,Capulin,Union County,36.741,-103.994
-4400,San Jose,San Miguel County,35.397,-105.475
+4405,San Jose,San Miguel County,35.397,-105.475
 1584,Encino,Torrance County,34.651,-105.462
 2946,Luna,Catron County,33.819,-108.955
 0085,Alma,Catron County,33.379,-108.903
 1948,Glenwood,Catron County,33.317,-108.883
 1742,Folsom,Union County,36.845,-103.918
 3917,Piñon,Otero County,32.618,-105.394
-5439,Winston,Sierra County,33.347,-107.647
-4393,San Antonio,Socorro County,33.918,-106.866
+5438,Winston,Sierra County,33.347,-107.647
+4398,San Antonio,Socorro County,33.918,-106.866
 0096,Alto,Lincoln County,33.399,-105.681
 0115,Amistad,Union County,35.919,-103.154
 0366,Bellview,Curry County,34.821,-103.108
@@ -187,9 +187,9 @@ phoneme,name,county,latitude,longitude
 4237,Riverside,Grant County,32.932,-108.596
 4237,Riverside,Lincoln County,33.333,-105.060
 4237,Riverside,San Juan County,36.982,-107.876
-4407,San Mateo,Cibola County,35.331,-107.643
-4410,San Patricio,Lincoln County,33.409,-105.327
-4610,Sofia,Union County,36.452,-103.829
-5042,Twining,Taos County,36.595,-105.450
-5074,Upham,Sierra County,32.886,-107.002
-5339,Wheatland,Quay County,34.909,-103.354
+4412,San Mateo,Cibola County,35.331,-107.643
+4415,San Patricio,Lincoln County,33.409,-105.327
+4615,Sofia,Union County,36.452,-103.829
+5041,Twining,Taos County,36.595,-105.450
+5073,Upham,Sierra County,32.886,-107.002
+5338,Wheatland,Quay County,34.909,-103.354

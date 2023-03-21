@@ -5,13 +5,13 @@ phoneme,name,county,latitude,longitude
 1233,Derry,Rockingham County,42.888,-71.282
 1373,Dover,Strafford County,43.198,-70.874
 4250,Rochester,Strafford County,43.305,-70.976
-4376,Salem,Rockingham County,42.788,-71.222
+4381,Salem,Rockingham County,42.788,-71.222
 2880,Londonderry,Rockingham County,42.880,-71.392
 0333,Bedford,Hillsborough County,42.936,-71.537
 2544,Keene,Cheshire County,42.934,-72.278
 4005,Portsmouth,Rockingham County,43.072,-70.763
 2663,Laconia,Belknap County,43.528,-71.470
-5426,Windham,Rockingham County,42.811,-71.303
+5425,Windham,Rockingham County,42.811,-71.303
 1421,Durham,Strafford County,43.117,-70.919
 2768,Lebanon,Grafton County,43.642,-72.252
 3828,Pelham,Hillsborough County,42.731,-71.337
@@ -20,14 +20,14 @@ phoneme,name,county,latitude,longitude
 2126,Hampton,Rockingham County,42.938,-70.839
 0396,Berlin,Coos County,44.469,-71.185
 0278,Barrington,Strafford County,43.216,-71.039
-5251,Weare,Hillsborough County,43.078,-71.704
+5250,Weare,Hillsborough County,43.078,-71.704
 2125,Hampstead,Rockingham County,42.881,-71.172
 1800,Franklin,Merrimack County,43.444,-71.647
 2134,Hanover,Grafton County,43.702,-72.290
 2846,Litchfield,Hillsborough County,42.846,-71.468
 2318,Hollis,Hillsborough County,42.750,-71.585
 3223,Milford,Hillsborough County,42.835,-71.649
-4486,Seabrook,Rockingham County,42.883,-70.861
+4491,Seabrook,Rockingham County,42.883,-70.861
 0535,Bow,Merrimack County,43.133,-71.537
 1915,Gilford,Belknap County,43.520,-71.376
 3833,Pembroke,Merrimack County,43.168,-71.439
@@ -48,7 +48,7 @@ phoneme,name,county,latitude,longitude
 2287,Hillsborough,Hillsborough County,43.147,-71.951
 0618,Brookline,Hillsborough County,42.749,-71.676
 4358,Rye,Rockingham County,43.033,-70.719
-5180,Wakefield,Carroll County,43.593,-71.008
+5179,Wakefield,Carroll County,43.593,-71.008
 3596,Nottingham,Rockingham County,43.130,-71.132
 0930,Chester,Rockingham County,42.985,-71.255
 3581,Northfield,Merrimack County,43.402,-71.555
@@ -66,15 +66,15 @@ phoneme,name,county,latitude,longitude
 1587,Enfield,Grafton County,43.603,-72.119
 3715,Ossipee,Carroll County,43.737,-71.150
 3492,New London,Merrimack County,43.418,-71.991
-4788,Strafford,Strafford County,43.275,-71.170
-5425,Winchester,Cheshire County,42.789,-72.395
+4787,Strafford,Strafford County,43.275,-71.170
+5424,Winchester,Cheshire County,42.789,-72.395
 3929,Pittsfield,Merrimack County,43.288,-71.309
 2049,Greenland,Rockingham County,43.040,-70.846
-4953,Tilton,Belknap County,43.471,-71.576
+4952,Tilton,Belknap County,43.471,-71.576
 1097,Conway,Carroll County,43.979,-71.120
 2296,Hinsdale,Cheshire County,42.809,-72.505
 1921,Gilmanton,Belknap County,43.432,-71.366
-5423,Wilton,Hillsborough County,42.835,-71.769
+5422,Wilton,Hillsborough County,42.835,-71.769
 0749,Canaan,Grafton County,43.688,-72.044
 4124,Raymond,Rockingham County,43.036,-71.183
 0931,Chesterfield,Cheshire County,42.888,-72.443
@@ -83,14 +83,14 @@ phoneme,name,county,latitude,longitude
 0280,Bartlett,Carroll County,44.078,-71.235
 0601,Bristol,Grafton County,43.624,-71.710
 2719,Lancaster,Coos County,44.472,-71.544
-4890,Tamworth,Carroll County,43.864,-71.296
-4939,Thornton,Grafton County,43.948,-71.636
+4889,Tamworth,Carroll County,43.864,-71.296
+4938,Thornton,Grafton County,43.948,-71.636
 0935,Chichester,Merrimack County,43.265,-71.409
 3477,New Durham,Strafford County,43.464,-71.152
 0144,Antrim,Hillsborough County,43.050,-71.982
 2984,Madison,Carroll County,43.908,-71.154
 1977,Gorham,Coos County,44.393,-71.198
-5361,Whitefield,Coos County,44.376,-71.590
+5360,Whitefield,Coos County,44.376,-71.590
 3937,Plainfield,Sullivan County,43.544,-72.296
 0761,Canterbury,Merrimack County,43.353,-71.534
 1451,East Kingston,Rockingham County,42.926,-71.003
@@ -100,36 +100,36 @@ phoneme,name,county,latitude,longitude
 2562,Kensington,Rockingham County,42.933,-70.964
 3586,Northumberland,Coos County,44.568,-71.519
 1054,Colebrook,Coos County,44.895,-71.410
-4850,Sutton,Merrimack County,43.335,-71.918
+4849,Sutton,Merrimack County,43.335,-71.918
 2056,Greenville,Hillsborough County,42.758,-71.799
 0187,Ashland,Grafton County,43.726,-71.643
-5260,Webster,Merrimack County,43.307,-71.726
+5259,Webster,Merrimack County,43.307,-71.726
 1278,Deering,Hillsborough County,43.083,-71.861
 3210,Middleton,Strafford County,43.483,-71.071
 0058,Alexandria,Grafton County,43.622,-71.856
 2818,Lyme,Grafton County,43.817,-72.094
 1499,Effingham,Carroll County,43.747,-71.042
 1812,Freedom,Carroll County,43.842,-71.075
-5326,Westmoreland,Cheshire County,42.968,-72.431
+5325,Westmoreland,Cheshire County,42.968,-72.431
 2047,Greenfield,Hillsborough County,42.939,-71.879
 2822,Lincoln,Grafton County,44.095,-71.631
 1122,Cornish,Sullivan County,43.473,-72.312
 1396,Dublin,Cheshire County,42.889,-72.070
-4424,Sandwich,Carroll County,43.839,-71.443
-5069,Unity,Sullivan County,43.299,-72.275
-4381,Salisbury,Merrimack County,43.386,-71.773
+4429,Sandwich,Carroll County,43.839,-71.443
+5068,Unity,Sullivan County,43.299,-72.275
+4386,Salisbury,Merrimack County,43.386,-71.773
 3082,Mason,Hillsborough County,42.742,-71.751
-5486,Woodstock,Grafton County,44.000,-71.714
-5420,Wilmot,Merrimack County,43.443,-71.922
-5487,Woodsville,Grafton County,44.152,-72.037
-4774,Stoddard,Cheshire County,43.076,-72.114
+5485,Woodstock,Grafton County,44.000,-71.714
+5419,Wilmot,Merrimack County,43.443,-71.922
+5486,Woodsville,Grafton County,44.152,-72.037
+4773,Stoddard,Cheshire County,43.076,-72.114
 1987,Grafton,Grafton County,43.575,-71.952
-4907,Temple,Hillsborough County,42.827,-71.875
+4906,Temple,Hillsborough County,42.827,-71.875
 3218,Milan,Coos County,44.554,-71.218
-4672,Springfield,Sullivan County,43.492,-72.038
+4677,Springfield,Sullivan County,43.492,-72.038
 1244,Danbury,Merrimack County,43.528,-71.868
 4195,Richmond,Cheshire County,42.773,-72.279
-5224,Washington,Sullivan County,43.190,-72.094
+5223,Washington,Sullivan County,43.190,-72.094
 0592,Bridgewater,Grafton County,43.651,-71.686
 0294,Bath,Grafton County,44.183,-71.987
 1797,Franconia,Grafton County,44.177,-71.619
@@ -140,16 +140,16 @@ phoneme,name,county,latitude,longitude
 2163,Harrisville,Cheshire County,42.949,-72.069
 0412,Bethlehem,Grafton County,44.280,-71.688
 0897,Charlestown,Sullivan County,43.239,-72.425
-5013,Troy,Cheshire County,42.824,-72.181
+5012,Troy,Cheshire County,42.824,-72.181
 1240,Dalton,Coos County,44.395,-71.689
 2075,Groveton,Coos County,44.599,-71.511
 0009,Acworth,Sullivan County,43.214,-72.287
 3292,Monroe,Grafton County,44.297,-71.981
-5279,Wentworth,Grafton County,43.859,-71.924
+5278,Wentworth,Grafton County,43.859,-71.924
 2844,Lisbon,Grafton County,44.213,-71.911
-4847,Surry,Cheshire County,43.019,-72.343
-4761,Stewartstown,Coos County,44.961,-71.407
-5213,Warren,Grafton County,43.966,-71.859
+4846,Surry,Cheshire County,43.019,-72.343
+4760,Stewartstown,Coos County,44.961,-71.407
+5212,Warren,Grafton County,43.966,-71.859
 1197,Croydon,Sullivan County,43.444,-72.178
 3525,Newington,Rockingham County,43.086,-70.827
 1979,Goshen,Sullivan County,43.272,-72.101
@@ -160,27 +160,27 @@ phoneme,name,county,latitude,longitude
 3883,Piermont,Grafton County,43.962,-72.001
 0114,Amherst,Hillsborough County,42.861,-71.625
 3059,Marlow,Cheshire County,43.139,-72.209
-4816,Sullivan,Cheshire County,43.021,-72.214
+4815,Sullivan,Cheshire County,43.021,-72.214
 2915,Loudon,Merrimack County,43.286,-71.467
-4812,Sugar Hill,Grafton County,44.218,-71.800
+4811,Sugar Hill,Grafton County,44.218,-71.800
 2726,Langdon,Sullivan County,43.187,-72.360
 1068,Columbia,Coos County,44.816,-71.512
 3449,Nelson,Cheshire County,42.999,-72.122
-4791,Stratford,Coos County,44.715,-71.528
+4790,Stratford,Coos County,44.715,-71.528
 2220,Hebron,Grafton County,43.694,-71.792
 2960,Lyman,Grafton County,44.257,-71.934
 2070,Groton,Grafton County,43.725,-71.865
 3395,Mountain Lakes,Grafton County,44.121,-71.955
-5201,Walpole,Cheshire County,43.080,-72.426
-4740,Stark,Coos County,44.595,-71.403
-5212,Warner,Merrimack County,43.281,-71.817
+5200,Walpole,Cheshire County,43.080,-72.426
+4739,Stark,Coos County,44.595,-71.403
+5211,Warner,Merrimack County,43.281,-71.817
 1466,Eaton,Carroll County,43.907,-71.048
 0554,Bradford,Merrimack County,43.270,-71.960
 0389,Benton,Grafton County,44.036,-71.847
-5059,Union,Carroll County,43.491,-71.023
-4523,Sharon,Hillsborough County,42.816,-71.934
+5058,Union,Carroll County,43.491,-71.023
+4528,Sharon,Hillsborough County,42.816,-71.934
 0905,Chatham,Carroll County,44.127,-71.061
-4531,Shelburne,Coos County,44.367,-71.087
+4536,Shelburne,Coos County,44.367,-71.087
 1366,Dorchester,Grafton County,43.748,-71.988
 4111,Randolph,Coos County,44.397,-71.305
 0385,Bennington,Hillsborough County,43.003,-71.925
@@ -188,7 +188,7 @@ phoneme,name,county,latitude,longitude
 0981,Clarksville,Coos County,45.018,-71.326
 3683,Orange,Grafton County,43.679,-71.922
 3481,New Hampton,Belknap County,43.606,-71.654
-5427,Windsor,Hillsborough County,43.113,-72.014
+5426,Windsor,Hillsborough County,43.113,-72.014
 2128,Hancock,Hillsborough County,42.973,-71.980
 4330,Roxbury,Cheshire County,42.951,-72.200
 1551,Ellsworth,Grafton County,43.912,-71.769
@@ -203,5 +203,5 @@ phoneme,name,county,latitude,longitude
 3573,North Salem,Rockingham County,42.837,-71.221
 3886,Pike,Grafton County,44.031,-72.008
 4151,Redstone,Carroll County,44.015,-71.101
-4656,Spofford,Cheshire County,42.907,-72.420
-5295,West Lebanon,Grafton County,43.649,-72.310
+4661,Spofford,Cheshire County,42.907,-72.420
+5294,West Lebanon,Grafton County,43.649,-72.310

@@ -13,34 +13,34 @@ phoneme,name,county,latitude,longitude
 2160,Harrisonburg,Harrisonburg city,38.450,-78.869
 3139,McLean,Fairfax County,38.934,-77.177
 2774,Leesburg,Loudoun County,39.116,-77.564
-5019,Tuckahoe,Henrico County,37.590,-77.556
+5018,Tuckahoe,Henrico County,37.590,-77.556
 0900,Charlottesville,Charlottesville city,38.029,-78.477
 0183,Ashburn,Loudoun County,39.044,-77.487
 0457,Blacksburg,Montgomery County,37.230,-80.414
 0680,Burke,Fairfax County,38.793,-77.272
-5465,Woodbridge,Prince William County,38.658,-77.250
+5464,Woodbridge,Prince William County,38.658,-77.250
 3008,Manassas,Manassas city,38.751,-77.475
 1253,Danville,Danville city,36.586,-79.395
 0133,Annandale,Fairfax County,38.830,-77.196
 3155,Mechanicsville,Hanover County,37.609,-77.373
 1640,Fair Oaks,Fairfax County,38.866,-77.369
 3859,Petersburg,Petersburg city,37.228,-77.402
-4672,Springfield,Fairfax County,38.789,-77.187
-4756,Sterling,Loudoun County,39.006,-77.429
+4677,Springfield,Fairfax County,38.789,-77.187
+4755,Sterling,Loudoun County,39.006,-77.429
 0602,Bristow,Prince William County,38.723,-77.536
 1808,Fredericksburg,Fredericksburg city,38.303,-77.461
-5425,Winchester,Winchester city,39.186,-78.163
-4748,Staunton,Staunton city,38.150,-79.072
-4376,Salem,Salem city,37.293,-80.055
+5424,Winchester,Winchester city,39.186,-78.163
+4747,Staunton,Staunton city,38.150,-79.072
+4381,Salem,Salem city,37.293,-80.055
 0834,Cave Spring,Roanoke County,37.228,-80.013
 2244,Herndon,Fairfax County,38.970,-77.387
 1646,Fairfax,Fairfax city,38.846,-77.306
-4875,Tabb,York County,37.123,-76.457
-5307,West Springfield,Fairfax County,38.773,-77.221
+4874,Tabb,York County,37.123,-76.457
+5306,West Springfield,Fairfax County,38.773,-77.221
 2347,Hopewell,Hopewell city,37.304,-77.287
 0952,Christiansburg,Montgomery County,37.130,-80.409
-5476,Woodlawn,Fairfax County,38.717,-77.133
-5247,Waynesboro,Waynesboro city,38.068,-78.889
+5475,Woodlawn,Fairfax County,38.717,-77.133
+5246,Waynesboro,Waynesboro city,38.068,-78.889
 0930,Chester,Chesterfield County,37.357,-77.442
 0923,Cherry Hill,Prince William County,38.570,-77.267
 3301,Montclair,Prince William County,38.611,-77.340
@@ -56,10 +56,10 @@ phoneme,name,county,latitude,longitude
 1845,Gainesville,Prince William County,38.796,-77.614
 0601,Bristol,Bristol city,36.596,-82.188
 0674,Bull Run,Prince William County,38.784,-77.521
-5137,Vienna,Fairfax County,38.901,-77.265
+5136,Vienna,Fairfax County,38.901,-77.265
 2317,Hollins,Botetourt County,37.344,-79.952
-4775,Stone Ridge,Loudoun County,38.925,-77.555
-5398,Williamsburg,Williamsburg city,37.271,-76.707
+4774,Stone Ridge,Loudoun County,38.925,-77.555
+5397,Williamsburg,Williamsburg city,37.271,-76.707
 0606,Broadlands,Loudoun County,39.018,-77.520
 1930,Glen Allen,Henrico County,37.666,-77.506
 2025,Great Falls,Fairfax County,38.998,-77.288
@@ -69,31 +69,31 @@ phoneme,name,county,latitude,longitude
 3075,Martinsville,Martinsville city,36.692,-79.873
 3525,Newington,Fairfax County,38.738,-77.185
 2729,Lansdowne,Loudoun County,39.085,-77.484
-4954,Timberlake,Campbell County,37.321,-79.258
+4953,Timberlake,Campbell County,37.321,-79.258
 2869,Locust Grove,Orange County,38.281,-77.726
 2704,Lakeside,Henrico County,37.608,-77.477
 3009,Manchester,Chesterfield County,37.486,-77.534
-5426,Wyndham,Henrico County,37.698,-77.612
-5180,Wakefield,Fairfax County,38.825,-77.243
+5425,Wyndham,Henrico County,37.698,-77.612
+5179,Wakefield,Fairfax County,38.825,-77.243
 3461,New Baltimore,Fauquier County,38.767,-77.728
 1750,Forest,Bedford County,37.364,-79.290
-5002,Triangle,Prince William County,38.547,-77.337
+5001,Triangle,Prince William County,38.547,-77.337
 2985,Madison Heights,Amherst County,37.431,-79.123
-5466,Woodburn,Fairfax County,38.847,-77.236
-5216,Warrenton,Fauquier County,38.713,-77.795
-5525,Yorkshire,Prince William County,38.793,-77.448
+5465,Woodburn,Fairfax County,38.847,-77.236
+5215,Warrenton,Fauquier County,38.713,-77.795
+5524,Yorkshire,Prince William County,38.793,-77.448
 1365,Doran,Tazewell County,37.093,-81.833
 0370,Belmont,Loudoun County,39.065,-77.510
 1144,Countryside,Loudoun County,39.041,-77.414
 2425,Innsbrook,Henrico County,37.654,-77.576
 4059,Pulaski,Pulaski County,37.048,-80.780
-4592,Smithfield,Isle of Wight County,36.982,-76.631
+4597,Smithfield,Isle of Wight County,36.982,-76.631
 2690,Lake of the Woods,Orange County,38.334,-77.756
 2750,Laurel Hill,Fairfax County,38.717,-77.237
 0007,Abingdon,Washington County,36.710,-81.977
 1800,Franklin,Franklin city,36.678,-76.922
 0368,Bellwood,Chesterfield County,37.422,-77.437
-5151,Vinton,Roanoke County,37.281,-79.897
+5150,Vinton,Roanoke County,37.281,-79.897
 2042,Greenbriar,Fairfax County,38.873,-77.401
 4271,Rockwood,Chesterfield County,37.463,-77.574
 3029,Mantua,Fairfax County,38.854,-77.259
@@ -104,10 +104,10 @@ phoneme,name,county,latitude,longitude
 1065,Collinsville,Henry County,36.715,-79.915
 0674,Bull Run,Fairfax County,38.840,-77.490
 2804,Lexington,Lexington city,37.784,-79.443
-5470,Woodlake,Chesterfield County,37.421,-77.679
+5469,Woodlake,Chesterfield County,37.421,-77.679
 3575,North Springfield,Fairfax County,38.804,-77.205
 1680,Farmville,Cumberland County,37.296,-78.400
-4790,Strasburg,Shenandoah County,38.989,-78.359
+4789,Strasburg,Shenandoah County,38.989,-78.359
 0794,Carrollton,Isle of Wight County,36.947,-76.561
 3312,Montpelier,Hanover County,37.821,-77.684
 0333,Bedford,Bedford County,37.334,-79.523
@@ -116,7 +116,7 @@ phoneme,name,county,latitude,longitude
 0351,Belle Haven,Fairfax County,38.785,-77.063
 1770,Fort Lee,Prince George County,37.236,-77.333
 0592,Bridgewater,Rockingham County,38.382,-78.977
-5486,Woodstock,Shenandoah County,38.882,-78.506
+5485,Woodstock,Shenandoah County,38.882,-78.506
 3052,Marion,Smyth County,36.835,-81.515
 1149,Covington,Covington city,37.793,-79.994
 1403,Dumfries,Prince William County,38.568,-77.328
@@ -127,23 +127,23 @@ phoneme,name,county,latitude,longitude
 3321,Moorefield,Loudoun County,38.996,-77.504
 4275,Rocky Mount,Franklin County,36.998,-79.892
 2950,Luray,Page County,38.665,-78.459
-4628,South Hill,Mecklenburg County,36.727,-78.129
+4633,South Hill,Mecklenburg County,36.727,-78.129
 0401,Berryville,Clarke County,39.152,-77.982
 1671,Falmouth,Stafford County,38.324,-77.468
-4904,Tazewell,Tazewell County,37.115,-81.520
+4903,Tazewell,Tazewell County,37.115,-81.520
 1592,Enon,Chesterfield County,37.331,-77.323
-5126,Verona,Augusta County,38.202,-79.008
+5125,Verona,Augusta County,38.202,-79.008
 3375,Mount Hermon,Pittsylvania County,36.678,-79.422
 0608,Broadway,Rockingham County,38.613,-78.799
 2596,Kings Park,Fairfax County,38.806,-77.243
-5071,University Center,Loudoun County,39.057,-77.444
+5070,University Center,Loudoun County,39.057,-77.444
 2862,Loch Lomond,Prince William County,38.786,-77.478
-5013,Troy,Fluvanna County,37.951,-78.246
+5012,Troy,Fluvanna County,37.951,-78.246
 3590,Norton,Norton city,36.933,-82.629
 2841,Linville,Rockingham County,38.521,-78.838
 1016,Cloverdale,Botetourt County,37.365,-79.906
 1231,Dahlgren,King George County,38.331,-77.051
-5305,West Point,King William County,37.532,-76.796
+5304,West Point,King William County,37.532,-76.796
 0458,Blackstone,Nottoway County,37.080,-77.997
 3574,North Shore,Franklin County,37.082,-79.658
 2768,Lebanon,Russell County,36.901,-82.080
@@ -151,17 +151,17 @@ phoneme,name,county,latitude,longitude
 0492,Blue Ridge,Botetourt County,37.378,-79.807
 1539,Elkton,Rockingham County,38.408,-78.624
 1238,Daleville,Botetourt County,37.410,-79.913
-5448,Wise,Wise County,36.976,-82.576
+5447,Wise,Wise County,36.976,-82.576
 2290,Hillsville,Carroll County,36.763,-80.735
-5427,Windsor,Isle of Wight County,36.808,-76.744
+5426,Windsor,Isle of Wight County,36.808,-76.744
 3190,Merrimac,Montgomery County,37.190,-80.426
 1396,Dublin,Pulaski County,37.106,-80.685
 1651,Fairlawn,Pulaski County,37.148,-80.578
 3605,Oak Grove,Loudoun County,38.984,-77.404
-4537,Shenandoah,Page County,38.485,-78.625
+4542,Shenandoah,Page County,38.485,-78.625
 3093,Matoaca,Chesterfield County,37.230,-77.477
 2685,Lake Holiday,Frederick County,39.307,-78.325
-5476,Woodlawn,Carroll County,36.722,-80.823
+5475,Woodlawn,Carroll County,36.722,-80.823
 0161,Arcola,Loudoun County,38.952,-77.534
 4184,Rice,Prince Edward County,37.275,-78.291
 3493,New Market,Shenandoah County,38.648,-78.671
@@ -170,28 +170,28 @@ phoneme,name,county,latitude,longitude
 2917,Louisa,Louisa County,38.025,-78.004
 3430,Narrows,Giles County,37.332,-80.811
 3379,Mount Jackson,Shenandoah County,38.746,-78.642
-5243,Waverly,Sussex County,37.036,-77.095
+5242,Waverly,Sussex County,37.036,-77.095
 1108,Copper Hill,Floyd County,37.082,-80.134
-5133,Victoria,Lunenburg County,36.995,-78.227
-4731,Stanley,Page County,38.575,-78.503
+5132,Victoria,Lunenburg County,36.995,-78.227
+4730,Stanley,Page County,38.575,-78.503
 1268,Dayton,Rockingham County,38.415,-78.939
 0940,Chilhowie,Smyth County,36.798,-81.682
-5219,Warsaw,Richmond County,37.959,-76.758
+5218,Warsaw,Richmond County,37.959,-76.758
 1976,Gore,Frederick County,39.264,-78.332
 2962,Lyndhurst,Augusta County,38.029,-78.945
 1035,Coeburn,Wise County,36.944,-82.464
-5040,Twin Lakes,Greene County,38.249,-78.444
+5039,Twin Lakes,Greene County,38.249,-78.444
 2056,Greenville,Augusta County,38.003,-79.156
 1974,Gordonsville,Orange County,38.137,-78.188
 3211,Middletown,Frederick County,39.028,-78.281
 0596,Brightwood,Madison County,38.422,-78.194
-4760,Stuart,Patrick County,36.641,-80.266
+4759,Stuart,Patrick County,36.641,-80.266
 4336,Ruckersville,Greene County,38.233,-78.369
 0981,Clarksville,Halifax County,36.618,-78.565
 1145,Courtland,Southampton County,36.716,-77.068
 2063,Gretna,Pittsylvania County,36.954,-79.359
 0824,Castlewood,Russell County,36.890,-82.280
-4678,Springville,Tazewell County,37.197,-81.403
+4683,Springville,Tazewell County,37.197,-81.403
 0652,Buchanan,Botetourt County,37.527,-79.680
 1488,Edinburg,Shenandoah County,38.821,-78.566
 0905,Chatham,Pittsylvania County,36.826,-79.398
@@ -211,7 +211,7 @@ phoneme,name,county,latitude,longitude
 1088,Concord,Appomattox County,37.345,-78.983
 2406,Independence,Grayson County,36.622,-81.151
 2162,Harriston,Augusta County,38.217,-78.832
-5238,Wattsville,Accomack County,37.934,-75.500
+5237,Wattsville,Accomack County,37.934,-75.500
 0177,Arrington,Nelson County,37.684,-78.901
 4235,Riverdale,Halifax County,36.687,-78.900
 1155,Craigsville,Augusta County,38.079,-79.383
@@ -223,13 +223,13 @@ phoneme,name,county,latitude,longitude
 2751,Laurel Park,Henry County,36.689,-79.801
 2458,Ivy,Albemarle County,38.057,-78.597
 2583,Keysville,Charlotte County,37.040,-78.483
-4811,Sugar Grove,Smyth County,36.776,-81.412
+4810,Sugar Grove,Smyth County,36.776,-81.412
 1242,Damascus,Washington County,36.634,-81.784
 1767,Fort Defiance,Augusta County,38.240,-78.972
 0547,Boyce,Clarke County,39.093,-78.059
 4208,Ridgeway,Henry County,36.577,-79.858
 1707,Fincastle,Botetourt County,37.499,-79.877
-5180,Wakefield,Sussex County,36.968,-76.990
+5179,Wakefield,Sussex County,36.968,-76.990
 2093,Gwynn,Mathews County,37.504,-76.289
 3487,New Hope,Augusta County,38.198,-78.906
 4300,Rose Hill,Lee County,36.672,-83.367
@@ -239,7 +239,7 @@ phoneme,name,county,latitude,longitude
 2457,Ivanhoe,Wythe County,36.840,-80.967
 4162,Remington,Fauquier County,38.534,-77.808
 0530,Boston,Accomack County,37.609,-75.843
-4388,Saluda,Middlesex County,37.606,-76.595
+4393,Saluda,Middlesex County,37.606,-76.595
 1344,Dinwiddie,Dinwiddie County,37.078,-77.587
 4239,Riverview,Wise County,36.935,-82.482
 2120,Hamilton,Loudoun County,39.134,-77.662
@@ -251,21 +251,21 @@ phoneme,name,county,latitude,longitude
 0203,Atlantic,Accomack County,37.901,-75.508
 2358,Hot Springs,Bath County,38.000,-79.832
 0351,Belle Haven,Accomack County,37.555,-75.824
-4480,Scottsville,Albemarle County,37.811,-78.488
-5078,Urbanna,Middlesex County,37.638,-76.574
-4762,Stewartsville,Bedford County,37.271,-79.793
+4485,Scottsville,Albemarle County,37.811,-78.488
+5077,Urbanna,Middlesex County,37.638,-76.574
+4761,Stewartsville,Bedford County,37.271,-79.793
 3258,Mineral,Louisa County,38.011,-77.909
-5372,Whitewood,Buchanan County,37.236,-81.857
+5371,Whitewood,Buchanan County,37.236,-81.857
 2446,Irvington,Lancaster County,37.662,-76.419
 0893,Cheriton,Northampton County,37.290,-75.971
-5012,Troutville,Botetourt County,37.418,-79.875
-4503,Selma,Alleghany County,37.807,-79.848
+5011,Troutville,Botetourt County,37.418,-79.875
+4508,Selma,Alleghany County,37.807,-79.848
 1250,Dante,Dickenson County,36.985,-82.284
 2667,Lafayette,Montgomery County,37.236,-80.211
 1739,Floyd,Floyd County,36.911,-80.320
 3286,Moneta,Bedford County,37.181,-79.617
 2353,Horntown,Accomack County,37.970,-75.464
-4891,Tangier,Accomack County,37.826,-75.992
+4890,Tangier,Accomack County,37.826,-75.992
 0681,Burkeville,Nottoway County,37.188,-78.201
 0309,Baywood,Grayson County,36.610,-81.012
 3502,New River,Pulaski County,37.133,-80.591
@@ -274,7 +274,7 @@ phoneme,name,county,latitude,longitude
 2928,Low Moor,Alleghany County,37.789,-79.884
 1214,Cumberland,Cumberland County,37.496,-78.245
 1729,Flint Hill,Rappahannock County,38.763,-78.100
-4549,Shipman,Nelson County,37.724,-78.839
+4554,Shipman,Nelson County,37.724,-78.839
 0025,Afton,Albemarle County,38.022,-78.833
 1979,Goshen,Rockbridge County,37.987,-79.498
 2576,Keswick,Albemarle County,38.025,-78.356
@@ -282,26 +282,26 @@ phoneme,name,county,latitude,longitude
 0046,Alberta,Brunswick County,36.866,-77.886
 4080,Quinby,Accomack County,37.554,-75.734
 0471,Bland,Bland County,37.102,-81.116
-4848,Sussex,Sussex County,36.915,-77.279
+4847,Sussex,Sussex County,36.915,-77.279
 0958,Churchville,Augusta County,38.226,-79.162
 3965,Pocahontas,Tazewell County,37.304,-81.340
-4469,Schuyler,Nelson County,37.792,-78.698
-5526,Yorktown,York County,37.239,-76.510
+4474,Schuyler,Nelson County,37.792,-78.698
+5525,Yorktown,York County,37.239,-76.510
 1647,Fairfield,Rockbridge County,37.879,-79.289
 1409,Dungannon,Scott County,36.828,-82.472
-4928,The Plains,Fauquier County,38.862,-77.774
+4927,The Plains,Fauquier County,38.862,-77.774
 1008,Clifton,Fairfax County,38.780,-77.387
 3866,Phenix,Charlotte County,37.080,-78.748
 0306,Bayside,Accomack County,37.748,-75.717
 0796,Carrsville,Isle of Wight County,36.712,-76.826
 1437,Eagle Rock,Botetourt County,37.641,-79.801
-4847,Surry,Surry County,37.138,-76.835
+4846,Surry,Surry County,37.138,-76.835
 2984,Madison,Madison County,38.380,-78.257
 3798,Parrott,Pulaski County,37.205,-80.616
 2139,Harborton,Accomack County,37.662,-75.830
 3998,Port Royal,Caroline County,38.172,-77.191
 1289,Deerfield,Augusta County,38.197,-79.407
-4781,Stony Creek,Sussex County,36.948,-77.401
+4780,Stony Creek,Sussex County,36.948,-77.401
 0502,Bobtown,Accomack County,37.651,-75.793
 0261,Barboursville,Orange County,38.171,-78.282
 3304,Monterey,Highland County,38.412,-79.581
@@ -309,29 +309,29 @@ phoneme,name,county,latitude,longitude
 3213,Midland,Fauquier County,38.600,-77.724
 3997,Port Republic,Rockingham County,38.289,-78.813
 2546,Keller,Accomack County,37.619,-75.764
-5011,Troutdale,Grayson County,36.702,-81.440
+5010,Troutdale,Grayson County,36.702,-81.440
 0768,Capron,Southampton County,36.711,-77.200
 1005,Cleveland,Russell County,36.944,-82.152
 3174,Mendota,Washington County,36.711,-82.302
-4475,Scotland,Surry County,37.184,-76.786
+4480,Scotland,Surry County,37.184,-76.786
 2948,Lunenburg,Lunenburg County,36.961,-78.266
 3471,New Castle,Craig County,37.500,-80.111
-4479,Scottsburg,Halifax County,36.757,-78.790
+4484,Scottsburg,Halifax County,36.757,-78.790
 0561,Branchville,Southampton County,36.570,-77.249
 1657,Fairview,Mecklenburg County,36.815,-78.467
 2287,Hillsboro,Loudoun County,39.198,-77.723
 3765,Palmyra,Fluvanna County,37.861,-78.263
 1068,Columbia,Fluvanna County,37.752,-78.162
-5224,Washington,Rappahannock County,38.713,-78.159
-5210,Warfield,Brunswick County,36.896,-77.826
+5223,Washington,Rappahannock County,38.713,-78.159
+5209,Warfield,Brunswick County,36.896,-77.826
 0895,Charles City,Charles City County,37.343,-77.073
-4685,St. Charles,Lee County,36.802,-83.057
-4602,Snowville,Pulaski County,37.033,-80.561
+4689,St. Charles,Lee County,36.802,-83.057
+4607,Snowville,Pulaski County,37.033,-80.561
 1804,Franktown,Northampton County,37.479,-75.879
 0293,Batesville,Albemarle County,37.996,-78.722
-4433,Sanford,Accomack County,37.925,-75.664
+4438,Sanford,Accomack County,37.925,-75.664
 0730,Calverton,Fauquier County,38.632,-77.671
-5369,Whitesville,Accomack County,37.782,-75.663
+5368,Whitesville,Accomack County,37.782,-75.663
 2044,Greenbush,Accomack County,37.741,-75.681
 0006,Abilene,Charlotte County,37.142,-78.544
 0022,Aden,Prince William County,38.655,-77.537
@@ -460,34 +460,34 @@ phoneme,name,county,latitude,longitude
 4302,Rosedale,Russell County,36.959,-81.931
 4320,Round Hill,Frederick County,39.194,-78.242
 4353,Rutherford,Fairfax County,38.829,-77.263
-4427,Sandy Hook,Goochland County,37.753,-77.912
-4487,Seaford,York County,37.198,-76.433
-4617,Somerset,Orange County,38.208,-78.218
-4618,Somerville,Fauquier County,38.522,-77.609
-4640,Southbridge,Prince William County,38.576,-77.299
-4652,Spencer,Henry County,36.620,-80.007
-4741,Starkey,Roanoke County,37.201,-79.999
-4759,Stevensville,King and Queen County,37.728,-76.920
-4779,Stony Point,Albemarle County,38.113,-78.371
-4811,Sugar Grove,Montgomery County,37.102,-80.343
-4849,Sutherland,Dinwiddie County,37.196,-77.560
-4874,Syria,Madison County,38.488,-78.326
-4890,Tamworth,Cumberland County,37.648,-78.081
-4901,Taylorstown,Loudoun County,39.254,-77.575
-4925,Thaxton,Bedford County,37.353,-79.616
-4965,Tobaccoville,Powhatan County,37.483,-78.096
-5109,Vanderpool,Highland County,38.369,-79.625
-5170,Wadesville,Clarke County,39.242,-78.039
-5203,Walters,Isle of Wight County,36.773,-76.849
-5211,Warm Springs,Bath County,38.046,-79.791
-5231,Waterford,Loudoun County,39.187,-77.610
-5350,White Hall,Albemarle County,38.118,-78.661
-5350,White Hall,Frederick County,39.291,-78.148
-5353,White House,New Kent County,37.572,-77.042
-5355,White Oak,Stafford County,38.301,-77.375
-5408,Willisville,Loudoun County,39.007,-77.834
-5466,Woodburn,Loudoun County,39.090,-77.619
-5468,Woodford,Caroline County,38.113,-77.409
-5488,Woodville,Rappahannock County,38.607,-78.175
-5513,Yale,Sussex County,36.846,-77.287
-5515,Yancey Mills,Albemarle County,38.047,-78.725
+4432,Sandy Hook,Goochland County,37.753,-77.912
+4492,Seaford,York County,37.198,-76.433
+4622,Somerset,Orange County,38.208,-78.218
+4623,Somerville,Fauquier County,38.522,-77.609
+4645,Southbridge,Prince William County,38.576,-77.299
+4657,Spencer,Henry County,36.620,-80.007
+4740,Starkey,Roanoke County,37.201,-79.999
+4758,Stevensville,King and Queen County,37.728,-76.920
+4778,Stony Point,Albemarle County,38.113,-78.371
+4810,Sugar Grove,Montgomery County,37.102,-80.343
+4848,Sutherland,Dinwiddie County,37.196,-77.560
+4873,Syria,Madison County,38.488,-78.326
+4889,Tamworth,Cumberland County,37.648,-78.081
+4900,Taylorstown,Loudoun County,39.254,-77.575
+4924,Thaxton,Bedford County,37.353,-79.616
+4964,Tobaccoville,Powhatan County,37.483,-78.096
+5108,Vanderpool,Highland County,38.369,-79.625
+5169,Wadesville,Clarke County,39.242,-78.039
+5202,Walters,Isle of Wight County,36.773,-76.849
+5210,Warm Springs,Bath County,38.046,-79.791
+5230,Waterford,Loudoun County,39.187,-77.610
+5349,White Hall,Albemarle County,38.118,-78.661
+5349,White Hall,Frederick County,39.291,-78.148
+5352,White House,New Kent County,37.572,-77.042
+5354,White Oak,Stafford County,38.301,-77.375
+5407,Willisville,Loudoun County,39.007,-77.834
+5465,Woodburn,Loudoun County,39.090,-77.619
+5467,Woodford,Caroline County,38.113,-77.409
+5487,Woodville,Rappahannock County,38.607,-78.175
+5512,Yale,Sussex County,36.846,-77.287
+5514,Yancey Mills,Albemarle County,38.047,-78.725

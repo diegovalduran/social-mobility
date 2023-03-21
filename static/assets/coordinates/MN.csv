@@ -5,11 +5,11 @@ phoneme,name,county,latitude,longitude
 1401,Duluth,St. Louis County,46.783,-92.107
 0621,Brooklyn Park,Hennepin County,45.094,-93.356
 3963,Plymouth,Hennepin County,45.011,-93.456
-5467,Woodbury,Washington County,44.924,-92.959
+5466,Woodbury,Washington County,44.924,-92.959
 2708,Lakeville,Dakota County,44.650,-93.243
 0463,Blaine,Anoka County,45.171,-93.206
 3034,Maple Grove,Hennepin County,45.072,-93.456
-4688,St. Cloud,Benton County,45.527,-94.171
+4692,St. Cloud,Benton County,45.527,-94.171
 1429,Eagan,Dakota County,44.804,-93.167
 0691,Burnsville,Dakota County,44.768,-93.278
 1102,Coon Rapids,Anoka County,45.120,-93.288
@@ -21,13 +21,13 @@ phoneme,name,county,latitude,longitude
 1134,Cottage Grove,Washington County,44.828,-92.944
 4191,Richfield,Hennepin County,44.883,-93.283
 4308,Roseville,Ramsey County,45.006,-93.157
-4457,Savage,Scott County,44.779,-93.336
+4462,Savage,Scott County,44.779,-93.336
 0125,Andover,Anoka County,45.233,-93.291
 4106,Ramsey,Anoka County,45.261,-93.450
 3615,Oakdale,Washington County,44.963,-92.965
 4306,Rosemount,Dakota County,44.739,-93.126
 1534,Elk River,Sherburne County,45.304,-93.567
-5437,Winona,Winona County,44.050,-91.639
+5436,Winona,Winona County,44.050,-91.639
 1679,Farmington,Dakota County,44.640,-93.144
 3466,New Brighton,Ramsey County,45.066,-93.202
 1202,Crystal,Hennepin County,45.033,-93.360
@@ -37,8 +37,8 @@ phoneme,name,county,latitude,longitude
 3487,New Hope,Hennepin County,45.038,-93.387
 3581,Northfield,Dakota County,44.453,-93.176
 1757,Forest Lake,Washington County,45.279,-92.985
-4766,Stillwater,Washington County,45.056,-92.806
-4712,St. Michael,Wright County,45.210,-93.665
+4765,Stillwater,Washington County,45.056,-92.806
+4374,St. Michael,Wright County,45.210,-93.665
 2348,Hopkins,Hennepin County,44.925,-93.463
 0136,Anoka,Anoka County,45.198,-93.387
 2377,Hugo,Washington County,45.160,-92.993
@@ -50,26 +50,26 @@ phoneme,name,county,latitude,longitude
 4716,St. Peter,Nicollet County,44.324,-93.958
 1997,Grand Rapids,Itasca County,47.237,-93.530
 3563,North Branch,Chisago County,45.511,-92.980
-5133,Victoria,Carver County,44.859,-93.662
+5132,Victoria,Carver County,44.859,-93.662
 0735,Cambridge,Isanti County,45.573,-93.224
 3363,Mound,Hennepin County,44.937,-93.666
 2847,Little Falls,Morrison County,45.976,-94.362
 3605,Oak Grove,Anoka County,45.341,-93.327
-4683,St. Anthony,Hennepin County,45.030,-93.215
+4368,St. Anthony,Hennepin County,45.030,-93.215
 0297,Baxter,Crow Wing County,46.343,-94.287
-4691,St. Francis,Anoka County,45.394,-93.394
-5156,Virginia,St. Louis County,47.523,-92.537
+4695,St. Francis,Anoka County,45.394,-93.394
+5155,Virginia,St. Louis County,47.523,-92.537
 1268,Dayton,Hennepin County,45.189,-93.472
 3698,Orono,Hennepin County,44.971,-93.604
-5512,Wyoming,Chisago County,45.336,-92.997
+5511,Wyoming,Chisago County,45.336,-92.997
 0048,Albertville,Wright County,45.238,-93.654
-4554,Shorewood,Carver County,44.902,-93.595
+4559,Shorewood,Carver County,44.902,-93.595
 1186,Crookston,Polk County,47.774,-96.608
 2537,Kasson,Dodge County,44.030,-92.751
 3159,Medina,Hennepin County,45.035,-93.582
 2516,Jordan,Scott County,44.667,-93.627
 1111,Corcoran,Hennepin County,45.095,-93.547
-4763,Stewartville,Olmsted County,43.856,-92.489
+4762,Stewartville,Olmsted County,43.856,-92.489
 1294,Delano,Wright County,45.042,-93.789
 0440,Byron,Olmsted County,44.033,-92.645
 0807,Carver,Carver County,44.764,-93.626
@@ -80,13 +80,13 @@ phoneme,name,county,latitude,longitude
 3348,Morris,Stevens County,45.586,-95.914
 2953,Luverne,Rock County,43.654,-96.213
 4047,Princeton,Mille Lacs County,45.568,-93.590
-5426,Windom,Cottonwood County,43.866,-95.117
+5425,Windom,Cottonwood County,43.866,-95.117
 2896,Lonsdale,Rice County,44.480,-93.429
-5234,Watertown,Carver County,44.964,-93.847
-4697,St. James,Watonwan County,43.982,-94.627
+5233,Watertown,Carver County,44.964,-93.847
+4700,St. James,Watonwan County,43.982,-94.627
 0947,Chisholm,St. Louis County,47.489,-92.884
 4263,Rockford,Hennepin County,45.091,-93.745
-5168,Wadena,Otter Tail County,46.447,-95.127
+5167,Wadena,Otter Tail County,46.447,-95.127
 3527,Newport,Washington County,44.866,-93.000
 1079,Columbus,Anoka County,45.265,-93.050
 1049,Cold Spring,Stearns County,45.456,-94.429
@@ -97,7 +97,7 @@ phoneme,name,county,latitude,longitude
 3314,Montrose,Wright County,45.065,-93.911
 3900,Pine Island,Goodhue County,44.198,-92.628
 2406,Independence,Hennepin County,45.025,-93.707
-5043,Two Harbors,Lake County,47.023,-91.671
+5042,Two Harbors,Lake County,47.023,-91.671
 3328,Mora,Kanabec County,45.877,-93.294
 2134,Hanover,Hennepin County,45.158,-93.663
 3846,Perham,Otter Tail County,46.594,-95.573
@@ -108,7 +108,7 @@ phoneme,name,county,latitude,longitude
 1434,Eagle Lake,Blue Earth County,44.165,-93.881
 1570,Ely,St. Louis County,47.903,-91.867
 4050,Proctor,St. Louis County,46.747,-92.225
-4734,Staples,Todd County,46.372,-94.815
+4733,Staples,Todd County,46.372,-94.815
 0904,Chatfield,Fillmore County,43.844,-92.183
 0025,Afton,Washington County,44.903,-92.784
 2047,Greenfield,Hennepin County,45.103,-93.691
@@ -121,19 +121,20 @@ phoneme,name,county,latitude,longitude
 3101,Mayer,Carver County,44.885,-93.888
 2804,Lexington,Anoka County,45.142,-93.163
 3817,Paynesville,Stearns County,45.381,-94.712
-5271,Wells,Faribault County,43.746,-93.729
+5270,Wells,Faribault County,43.746,-93.729
 4269,Rockville,Stearns County,45.472,-94.341
 3663,Olivia,Renville County,44.776,-94.990
 1187,Crosby,Crow Wing County,46.482,-93.958
 1637,Excelsior,Hennepin County,44.903,-93.566
 1884,Gaylord,Sibley County,44.553,-94.221
 2747,Lauderdale,Ramsey County,44.999,-93.206
+4250,Rochester,Olmsted County,43.971,-92.508
 1000,Clearwater,Stearns County,45.410,-94.045
 1066,Cologne,Carver County,44.772,-93.781
-4992,Tracy,Lyon County,44.233,-95.619
+4991,Tracy,Lyon County,44.233,-95.619
 4184,Rice,Benton County,45.752,-94.220
-4672,Springfield,Brown County,44.239,-94.976
-5243,Waverly,Wright County,45.067,-93.966
+4677,Springfield,Brown County,44.239,-94.976
+5242,Waverly,Wright County,45.067,-93.966
 1056,Coleraine,Itasca County,47.289,-93.428
 4344,Rushford,Fillmore County,43.808,-91.753
 0012,Ada,Norman County,47.300,-96.515
@@ -146,17 +147,17 @@ phoneme,name,county,latitude,longitude
 0754,Canby,Yellow Medicine County,44.709,-96.276
 1910,Gilbert,St. Louis County,47.489,-92.465
 0221,Aurora,St. Louis County,47.530,-92.237
-5213,Warren,Marshall County,48.197,-96.773
+5212,Warren,Marshall County,48.197,-96.773
 4138,Red Lake,Beltrami County,47.876,-95.017
 2801,Lewiston,Winona County,43.984,-91.869
 4195,Richmond,Stearns County,45.454,-94.518
 1266,Dawson,Lac qui Parle County,44.933,-96.054
-5340,Wheaton,Traverse County,45.804,-96.499
+5339,Wheaton,Traverse County,45.804,-96.499
 1838,Fulda,Murray County,43.871,-95.600
-5434,Winnebago,Faribault County,43.768,-94.166
-4739,Starbuck,Pope County,45.614,-95.531
+5433,Winnebago,Faribault County,43.768,-94.166
+4738,Starbuck,Pope County,45.614,-95.531
 1995,Grand Marais,Cook County,47.750,-90.334
-5443,Winthrop,Sibley County,44.543,-94.366
+5442,Winthrop,Sibley County,44.543,-94.366
 3514,New York Mills,Otter Tail County,46.518,-95.376
 4333,Royalton,Benton County,45.830,-94.293
 0239,Bagley,Clearwater County,47.522,-95.398
@@ -167,51 +168,51 @@ phoneme,name,county,latitude,longitude
 1300,Dellwood,Washington County,45.090,-92.972
 1139,Cottonwood,Lyon County,44.609,-95.674
 2157,Harris,Chisago County,45.586,-92.975
-5045,Tyler,Lincoln County,44.278,-96.135
+5044,Tyler,Lincoln County,44.278,-96.135
 0209,Atwater,Kandiyohi County,45.139,-94.778
 2694,Lake Shore,Cass County,46.486,-94.361
 0604,Britt,St. Louis County,47.640,-92.526
-4540,Sherburn,Martin County,43.652,-94.727
-5236,Watkins,Meeker County,45.315,-94.409
+4545,Sherburn,Martin County,43.652,-94.727
+5235,Watkins,Meeker County,45.315,-94.409
 2360,Houston,Houston County,43.763,-91.568
 2229,Henderson,Sibley County,44.528,-93.908
 0777,Carlton,Carlton County,46.664,-92.425
 2763,Le Roy,Mower County,43.510,-92.504
 2291,Hilltop,Anoka County,45.053,-93.247
 3351,Morristown,Rice County,44.227,-93.445
-5189,Walker,Cass County,47.101,-94.587
+5188,Walker,Cass County,47.101,-94.587
 0672,Buhl,St. Louis County,47.494,-92.778
 3905,Pine River,Cass County,46.718,-94.404
 3110,Mazeppa,Wabasha County,44.273,-92.545
 3334,Morgan,Redwood County,44.417,-94.926
 0223,Austin,Mower County,43.621,-92.991
 2849,Little Rock,Beltrami County,47.868,-95.111
-5147,Vineland,Mille Lacs County,46.164,-93.757
+5146,Vineland,Mille Lacs County,46.164,-93.757
 2233,Henning,Otter Tail County,46.322,-95.445
-4570,Silver Lake,McLeod County,44.903,-94.196
-5287,West Concord,Dodge County,44.154,-92.900
+4575,Silver Lake,McLeod County,44.903,-94.196
+5286,West Concord,Dodge County,44.154,-92.900
 2128,Hancock,Stevens County,45.497,-95.797
-5219,Warsaw,Rice County,44.249,-93.394
-4773,Stockton,Winona County,44.027,-91.770
+5218,Warsaw,Rice County,44.249,-93.394
+4772,Stockton,Winona County,44.027,-91.770
 2587,Kimball,Stearns County,45.312,-94.300
-4719,St. Stephen,Stearns County,45.703,-94.274
+4718,St. Stephen,Stearns County,45.703,-94.274
 1373,Dover,Olmsted County,43.974,-92.139
 4124,Raymond,Chippewa County,45.018,-95.237
 1904,Gibbon,Sibley County,44.534,-94.526
 1703,Fertile,Polk County,47.536,-96.280
-5312,Westbrook,Cottonwood County,44.042,-95.436
+5311,Westbrook,Cottonwood County,44.042,-95.436
 1005,Cleveland,Le Sueur County,44.326,-93.838
-4686,St. Clair,Blue Earth County,44.082,-93.858
+4690,St. Clair,Blue Earth County,44.082,-93.858
 1145,Courtland,Nicollet County,44.268,-94.340
-5199,Walnut Grove,Redwood County,44.223,-95.469
-5165,Wabasso,Redwood County,44.402,-95.256
+5198,Walnut Grove,Redwood County,44.223,-95.469
+5164,Wabasso,Redwood County,44.402,-95.256
 0344,Belgrade,Stearns County,45.453,-95.004
 2691,Lake Park,Becker County,46.886,-96.094
 2724,Lanesboro,Fillmore County,43.721,-91.977
 2058,Greenwood,Hennepin County,44.915,-93.553
 2307,Hoffman,Grant County,45.829,-95.792
 2968,Mabel,Fillmore County,43.521,-91.770
-5265,Welcome,Martin County,43.667,-94.619
+5264,Welcome,Martin County,43.667,-94.619
 2285,Hills,Rock County,43.528,-96.359
 2044,Greenbush,Roseau County,48.701,-96.182
 1815,Freeport,Stearns County,45.663,-94.690
@@ -255,17 +256,17 @@ phoneme,name,county,latitude,longitude
 4364,Sacred Heart,Renville County,44.787,-95.352
 2482,Jenkins,Crow Wing County,46.646,-94.335
 1800,Franklin,Renville County,44.528,-94.881
-5051,Ulen,Clay County,47.079,-96.259
+5050,Ulen,Clay County,47.079,-96.259
 1551,Ellsworth,Nobles County,43.518,-96.018
 4087,Racine,Mower County,43.776,-92.483
-4760,Stewart,McLeod County,44.725,-94.486
-5076,Upsala,Morrison County,45.811,-94.571
+4759,Stewart,McLeod County,44.725,-94.486
+5075,Upsala,Morrison County,45.811,-94.571
 0184,Ashby,Grant County,46.093,-95.818
 0409,Bethel,Anoka County,45.404,-93.268
 0996,Clearbrook,Clearwater County,47.692,-95.431
 1251,Danube,Renville County,44.792,-95.097
-5121,Vermillion,Dakota County,44.674,-92.967
-5510,Wykoff,Fillmore County,43.707,-92.268
+5120,Vermillion,Dakota County,44.674,-92.967
+5509,Wykoff,Fillmore County,43.707,-92.268
 2830,Lynd,Lyon County,44.386,-95.890
 3218,Milan,Chippewa County,45.109,-95.913
 0237,Badger,Roseau County,48.782,-96.014
@@ -276,7 +277,7 @@ phoneme,name,county,latitude,longitude
 3355,Morton,Renville County,44.551,-94.984
 0432,Bigfork,Itasca County,47.744,-93.654
 1604,Erskine,Polk County,47.667,-96.010
-5471,Woodland,Hennepin County,44.947,-93.504
+5470,Woodland,Hennepin County,44.947,-93.504
 2240,Herman,Grant County,45.809,-96.143
 0104,Alvarado,Marshall County,48.194,-96.996
 1010,Clinton,Big Stone County,45.460,-96.434
@@ -285,8 +286,8 @@ phoneme,name,county,latitude,longitude
 0276,Barrett,Grant County,45.911,-95.890
 1903,Ghent,Lyon County,44.513,-95.891
 4321,Round Lake,Nobles County,43.541,-95.468
-5460,Wood Lake,Yellow Medicine County,44.653,-95.538
-5058,Underwood,Otter Tail County,46.285,-95.871
+5459,Wood Lake,Yellow Medicine County,44.653,-95.538
+5057,Underwood,Otter Tail County,46.285,-95.871
 2719,Lancaster,Kittson County,48.858,-96.804
 4348,Russell,Lyon County,44.319,-95.952
 1866,Garfield,Douglas County,45.941,-95.492
@@ -294,12 +295,12 @@ phoneme,name,county,latitude,longitude
 2931,Lowry,Pope County,45.705,-95.518
 0426,Big Lake,Carlton County,46.701,-92.621
 3944,Plato,McLeod County,44.774,-94.040
-4857,Swanville,Morrison County,45.916,-94.639
+4856,Swanville,Morrison County,45.916,-94.639
 3158,Medicine Lake,Hennepin County,44.995,-93.416
-5125,Vernon Center,Blue Earth County,43.962,-94.169
+5124,Vernon Center,Blue Earth County,43.962,-94.169
 0727,Calumet,Itasca County,47.322,-93.277
 1329,Dexter,Mower County,43.719,-92.705
-4414,Sanborn,Redwood County,44.210,-95.129
+4419,Sanborn,Redwood County,44.210,-95.129
 2168,Hartland,Freeborn County,43.804,-93.487
 3104,Maynard,Chippewa County,44.907,-95.469
 2314,Hollandale,Freeborn County,43.761,-93.204
@@ -308,14 +309,14 @@ phoneme,name,county,latitude,longitude
 2097,Hackensack,Cass County,46.931,-94.521
 1235,Dakota,Winona County,43.914,-91.360
 1989,Granada,Martin County,43.696,-94.348
-4584,Skyline,Blue Earth County,44.142,-94.031
+4589,Skyline,Blue Earth County,44.142,-94.031
 3961,Plummer,Red Lake County,47.911,-96.042
 0888,Chandler,Murray County,43.929,-95.947
 2562,Kensington,Douglas County,45.778,-95.696
-5423,Wilton,Beltrami County,47.504,-95.001
+5422,Wilton,Beltrami County,47.504,-95.001
 4185,Rice Lake,Clearwater County,47.390,-95.509
 3251,Milroy,Redwood County,44.418,-95.553
-4569,Silver Creek,Wright County,45.315,-93.980
+4574,Silver Creek,Wright County,45.315,-93.980
 2251,Hewitt,Todd County,46.326,-95.087
 1009,Climax,Polk County,47.608,-96.817
 3711,Oslo,Marshall County,48.195,-97.132
@@ -331,31 +332,31 @@ phoneme,name,county,latitude,longitude
 1240,Dalton,Otter Tail County,46.174,-95.916
 1832,Frost,Faribault County,43.586,-93.927
 4355,Rutledge,Pine County,46.264,-92.867
-4605,Sobieski,Morrison County,45.924,-94.459
+4610,Sobieski,Morrison County,45.924,-94.459
 2803,Lewisville,Watonwan County,43.923,-94.437
 3639,Ogema,Becker County,47.103,-95.925
 1830,Frontenac,Goodhue County,44.511,-92.357
-5184,Waldorf,Waseca County,43.935,-93.697
+5183,Waldorf,Waseca County,43.935,-93.697
 2143,Hardwick,Rock County,43.775,-96.199
-4627,South Haven,Wright County,45.292,-94.212
+4632,South Haven,Wright County,45.292,-94.212
 2601,Kingston,Meeker County,45.197,-94.313
 3174,Mendota,Dakota County,44.887,-93.164
 3449,Nelson,Douglas County,45.889,-95.264
-5237,Watson,Chippewa County,45.010,-95.801
+5236,Watson,Chippewa County,45.010,-95.801
 1460,Easton,Faribault County,43.766,-93.901
 2313,Holland,Pipestone County,44.092,-96.189
 2559,Kennedy,Kittson County,48.642,-96.909
 0424,Big Falls,Koochiching County,48.191,-93.807
 1314,Dent,Otter Tail County,46.554,-95.716
-5501,Wright,Carlton County,46.669,-93.007
-5276,Wendell,Grant County,46.036,-96.101
+5500,Wright,Carlton County,46.669,-93.007
+5275,Wendell,Grant County,46.036,-96.101
 1710,Finland,Lake County,47.415,-91.249
 2431,Iona,Murray County,43.916,-95.784
 4002,Porter,Yellow Medicine County,44.636,-96.166
-5444,Winton,St. Louis County,47.926,-91.801
+5443,Winton,St. Louis County,47.926,-91.801
 2894,Longville,Cass County,46.986,-94.211
 3757,Palisade,Aitkin County,46.713,-93.489
-5397,Williams,Lake of the Woods County,48.768,-94.955
+5396,Williams,Lake of the Woods County,48.768,-94.955
 4294,Roosevelt,Lake of the Woods County,48.807,-95.101
 1003,Clements,Redwood County,44.382,-95.052
 3247,Millville,Wabasha County,44.245,-92.296
@@ -363,13 +364,13 @@ phoneme,name,county,latitude,longitude
 0361,Bellingham,Lac qui Parle County,45.136,-96.288
 0548,Boyd,Lac qui Parle County,44.849,-95.903
 2733,Laporte,Hubbard County,47.214,-94.754
-4897,Taunton,Lyon County,44.594,-96.066
+4896,Taunton,Lyon County,44.594,-96.066
 2334,Homer,Winona County,44.021,-91.557
 2223,Heidelberg,Le Sueur County,44.491,-93.626
 1539,Elkton,Mower County,43.663,-92.709
 1620,Euclid,Polk County,47.972,-96.639
 2123,Hammond,Wabasha County,44.222,-92.374
-5040,Twin Lakes,Freeborn County,43.560,-93.423
+5039,Twin Lakes,Freeborn County,43.560,-93.423
 4297,Roscoe,Stearns County,45.434,-94.640
 2141,Harding,Morrison County,46.116,-94.041
 1873,Garvin,Lyon County,44.214,-95.756
@@ -379,7 +380,7 @@ phoneme,name,county,latitude,longitude
 1270,De Graff,Swift County,45.263,-95.468
 0624,Brookston,St. Louis County,46.868,-92.604
 0230,Avoca,Murray County,43.949,-95.646
-5486,Woodstock,Pipestone County,44.009,-96.101
+5485,Woodstock,Pipestone County,44.009,-96.101
 3181,Mentor,Polk County,47.698,-96.141
 1472,Ebro,Clearwater County,47.496,-95.529
 3135,McKinley,St. Louis County,47.513,-92.411
@@ -389,12 +390,12 @@ phoneme,name,county,latitude,longitude
 0090,Alpha,Jackson County,43.639,-94.871
 0046,Alberta,Stevens County,45.573,-96.048
 4175,Revere,Redwood County,44.224,-95.364
-4683,St. Anthony,Stearns County,45.687,-94.612
+4368,St. Anthony,Stearns County,45.687,-94.612
 2327,Holt,Marshall County,48.292,-96.193
-4703,St. Leo,Yellow Medicine County,44.717,-96.052
+4705,St. Leo,Yellow Medicine County,44.717,-96.052
 1787,Four Corners,St. Louis County,46.853,-92.280
 1894,Georgetown,Clay County,47.080,-96.794
-5308,West Union,Todd County,45.801,-95.083
+5307,West Union,Todd County,45.801,-95.083
 2320,Holloway,Swift County,45.249,-95.908
 0160,Arco,Lincoln County,44.384,-96.184
 0643,Bruno,Pine County,46.279,-92.664
@@ -402,24 +403,24 @@ phoneme,name,county,latitude,longitude
 2656,La Salle,Watonwan County,44.071,-94.570
 4198,Richville,Otter Tail County,46.507,-95.626
 1404,Dumont,Traverse County,45.716,-96.426
-4615,Solway,Beltrami County,47.520,-95.129
+4620,Solway,Beltrami County,47.520,-95.129
 0792,Kerrick,Pine County,46.339,-92.586
 1408,Dundee,Nobles County,43.847,-95.467
 1890,Genola,Morrison County,45.960,-94.116
 0920,Cherry,St. Louis County,47.401,-92.707
 3072,Martin,Itasca County,47.489,-93.544
-5203,Walters,Faribault County,43.606,-93.673
-5455,Wolf Lake,Becker County,46.803,-95.353
-4663,Spring Hill,Stearns County,45.525,-94.829
+5202,Walters,Faribault County,43.606,-93.673
+5454,Wolf Lake,Becker County,46.803,-95.353
+4668,Spring Hill,Stearns County,45.525,-94.829
 3434,Nassau,Lac qui Parle County,45.066,-96.440
 3432,Nashua,Wilkin County,46.037,-96.308
-4453,Sargeant,Mower County,43.805,-92.802
+4458,Sargeant,Mower County,43.805,-92.802
 2563,Kent,Wilkin County,46.436,-96.685
 3013,Manhattan Beach,Crow Wing County,46.728,-94.135
 1137,Cotton,St. Louis County,47.169,-92.476
-4887,Tamarack,Aitkin County,46.644,-93.127
-5149,Vining,Otter Tail County,46.263,-95.537
-5389,Wilder,Jackson County,43.827,-95.197
+4886,Tamarack,Aitkin County,46.644,-93.127
+5148,Vining,Otter Tail County,46.263,-95.537
+5388,Wilder,Jackson County,43.827,-95.197
 1687,Farwell,Pope County,45.752,-95.617
 3009,Manchester,Freeborn County,43.726,-93.452
 2099,Hadley,Murray County,44.001,-95.854
@@ -428,12 +429,12 @@ phoneme,name,county,latitude,longitude
 1969,Goodland,Itasca County,47.162,-93.136
 2184,Hatfield,Pipestone County,43.957,-96.195
 3550,Norcross,Grant County,45.869,-96.198
-4664,Spring Lake,Itasca County,47.642,-93.868
+4669,Spring Lake,Itasca County,47.642,-93.868
 0246,Baker,Clay County,46.713,-96.552
 3419,Myrtle,Freeborn County,43.564,-93.164
 1298,Delhi,Redwood County,44.599,-95.211
-4496,Sedan,Pope County,45.576,-95.248
-5330,Westport,Pope County,45.715,-95.167
+4501,Sedan,Pope County,45.576,-95.248
+5329,Westport,Pope County,45.715,-95.167
 2790,Leonard,Clearwater County,47.652,-95.272
 3129,McGrath,Aitkin County,46.240,-93.272
 0130,Angora,St. Louis County,47.775,-92.634
@@ -443,8 +444,8 @@ phoneme,name,county,latitude,longitude
 2379,Humboldt,Kittson County,48.921,-97.093
 2450,Island Lake,St. Louis County,47.013,-92.199
 3537,Nickerson,Pine County,46.411,-92.499
-5446,Wirt,Itasca County,47.731,-93.960
-4995,Trail,Polk County,47.780,-95.692
+5445,Wirt,Itasca County,47.731,-93.960
+4994,Trail,Polk County,47.780,-95.692
 1307,Denham,Pine County,46.364,-92.943
 1365,Doran,Wilkin County,46.184,-96.483
 1033,Cobden,Brown County,44.286,-94.849
@@ -467,7 +468,7 @@ phoneme,name,county,latitude,longitude
 4055,Prosper,Fillmore County,43.508,-91.870
 4090,Radium,Marshall County,48.229,-96.614
 4288,Rollins,St. Louis County,47.257,-91.845
-4880,Taft,St. Louis County,46.994,-92.333
+4879,Taft,St. Louis County,46.994,-92.333
 3019,Manley,Rock County,43.590,-96.431
 0277,Barry,Big Stone County,45.558,-96.559
 0289,Bass Lake,Itasca County,47.698,-93.938
@@ -480,8 +481,8 @@ phoneme,name,county,latitude,longitude
 2406,Independence,St. Louis County,46.958,-92.461
 2974,Mack,Itasca County,47.566,-93.774
 3816,Payne,St. Louis County,47.096,-92.599
-4372,Sax,St. Louis County,47.212,-92.603
-4526,Shaw,St. Louis County,47.113,-92.353
+4377,Sax,St. Louis County,47.212,-92.603
+4531,Shaw,St. Louis County,47.113,-92.353
 0011,Acton,Meeker County,45.084,-94.661
 0063,Alger,Lake County,47.147,-91.693
 0161,Arcola,Washington County,45.123,-92.767
@@ -554,23 +555,23 @@ phoneme,name,county,latitude,longitude
 4230,River Junction,Houston County,43.846,-91.297
 4356,Ryan,Goodhue County,44.424,-92.716
 4367,Saginaw,St. Louis County,46.859,-92.444
-4428,Sandy Lake,Aitkin County,46.799,-93.251
-4446,Santiago,Sherburne County,45.539,-93.820
-4460,Sawyer,Carlton County,46.671,-92.633
-4467,Schley,Cass County,47.369,-94.416
-4573,Silverdale,Koochiching County,47.986,-93.110
-4696,St. Henry,Le Sueur County,44.384,-93.789
-4721,St. Thomas,Le Sueur County,44.498,-93.757
-4732,Stanton,Goodhue County,44.472,-93.023
-4760,Stewart,Lake County,47.103,-91.709
-4839,Sunrise,Chisago County,45.547,-92.855
-4967,Togo,Itasca County,47.821,-93.156
-5013,Troy,Winona County,43.871,-92.068
-5064,Union Hill,Le Sueur County,44.544,-93.667
-5152,Viola,Olmsted County,44.063,-92.268
-5231,Waterford,Dakota County,44.484,-93.143
-5254,Weaver,Wabasha County,44.215,-91.929
-5258,Weber,Isanti County,45.475,-93.124
-5390,Wildwood,Koochiching County,47.891,-93.967
-5450,Withrow,Washington County,45.124,-92.897
-5471,Woodland,Kanabec County,46.116,-93.284
+4433,Sandy Lake,Aitkin County,46.799,-93.251
+4451,Santiago,Sherburne County,45.539,-93.820
+4465,Sawyer,Carlton County,46.671,-92.633
+4472,Schley,Cass County,47.369,-94.416
+4578,Silverdale,Koochiching County,47.986,-93.110
+4699,St. Henry,Le Sueur County,44.384,-93.789
+4720,St. Thomas,Le Sueur County,44.498,-93.757
+4731,Stanton,Goodhue County,44.472,-93.023
+4759,Stewart,Lake County,47.103,-91.709
+4838,Sunrise,Chisago County,45.547,-92.855
+4966,Togo,Itasca County,47.821,-93.156
+5012,Troy,Winona County,43.871,-92.068
+5063,Union Hill,Le Sueur County,44.544,-93.667
+5151,Viola,Olmsted County,44.063,-92.268
+5230,Waterford,Dakota County,44.484,-93.143
+5253,Weaver,Wabasha County,44.215,-91.929
+5257,Weber,Isanti County,45.475,-93.124
+5389,Wildwood,Koochiching County,47.891,-93.967
+5449,Withrow,Washington County,45.124,-92.897
+5470,Woodland,Kanabec County,46.116,-93.284

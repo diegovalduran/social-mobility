@@ -1,6 +1,6 @@
 phoneme,name,county,latitude,longitude
-4657,Spokane,Spokane County,47.659,-117.426
-5106,Vancouver,Clark County,45.639,-122.661
+4662,Spokane,Spokane County,47.659,-117.426
+5105,Vancouver,Clark County,45.639,-122.661
 0358,Bellevue,King County,47.610,-122.201
 2563,Kent,King County,47.381,-122.235
 1631,Everett,Snohomish County,47.979,-122.202
@@ -9,7 +9,7 @@ phoneme,name,county,latitude,longitude
 0213,Auburn,King County,47.304,-122.210
 4150,Redmond,King County,47.674,-122.122
 3080,Marysville,Snohomish County,48.052,-122.177
-4628,South Hill,Pierce County,47.141,-122.270
+4633,South Hill,Pierce County,47.141,-122.270
 2709,Lakewood,Pierce County,47.172,-122.518
 4193,Richland,Benton County,46.286,-119.284
 3667,Olympia,Thurston County,47.038,-122.901
@@ -18,7 +18,7 @@ phoneme,name,county,latitude,longitude
 3786,Parkland,Pierce County,47.155,-122.434
 2893,Longview,Cowlitz County,46.138,-122.938
 3386,Mount Vernon,Skagit County,48.421,-122.334
-5192,Walla Walla,Walla Walla County,46.065,-118.343
+5191,Walla Walla,Walla Walla County,46.065,-118.343
 1988,Graham,Pierce County,47.053,-122.294
 4060,Pullman,Whitman County,46.731,-117.180
 1320,Des Moines,King County,47.402,-122.324
@@ -27,17 +27,17 @@ phoneme,name,county,latitude,longitude
 3606,Oak Harbor,Island County,48.293,-122.643
 2557,Kenmore,King County,47.757,-122.244
 2207,Hazel Dell,Clark County,45.672,-122.663
-4573,Silverdale,Kitsap County,47.645,-122.695
+4578,Silverdale,Kitsap County,47.645,-122.695
 0296,Battle Ground,Clark County,45.781,-122.533
 3225,Mill Creek,Snohomish County,47.860,-122.204
 1149,Covington,King County,47.358,-122.122
 3292,Monroe,Snohomish County,47.855,-121.971
 0170,Arlington,Snohomish County,48.199,-122.125
-4384,Salmon Creek,Clark County,45.711,-122.649
+4389,Salmon Creek,Clark County,45.711,-122.649
 0873,Centralia,Lewis County,46.716,-122.954
 1659,Fairwood,King County,47.448,-122.157
 0004,Aberdeen,Grays Harbor County,46.975,-123.816
-4836,Sunnyside,Yakima County,46.324,-120.009
+4835,Sunnyside,Yakima County,46.324,-120.009
 2832,Lynden,Whatcom County,48.947,-122.452
 1700,Ferndale,Whatcom County,48.846,-122.591
 0915,Cheney,Spokane County,47.487,-117.576
@@ -47,19 +47,19 @@ phoneme,name,county,latitude,longitude
 4204,Ridgefield,Clark County,45.815,-122.743
 1705,Fife,Pierce County,47.239,-122.357
 2002,Grandview,Yakima County,46.251,-119.902
-4536,Shelton,Mason County,47.215,-123.101
-4826,Sumner,Pierce County,47.203,-122.240
+4541,Shelton,Mason County,47.215,-123.101
+4825,Sumner,Pierce County,47.203,-122.240
 1416,DuPont,Pierce County,47.097,-122.631
 1659,Fairwood,Spokane County,47.767,-117.417
 0686,Burlington,Skagit County,48.476,-122.325
 3213,Midland,Pierce County,47.167,-122.405
 3253,Milton,King County,47.252,-122.317
-4824,Summit,Pierce County,47.162,-122.357
+4823,Summit,Pierce County,47.162,-122.357
 3718,Othello,Adams County,46.826,-119.175
 1598,Ephrata,Grant County,47.318,-119.554
-4733,Stanwood,Snohomish County,48.241,-122.371
+4732,Stanwood,Snohomish County,48.241,-122.371
 4081,Quincy,Grant County,47.234,-119.853
-5194,Waller,Pierce County,47.201,-122.369
+5193,Waller,Pierce County,47.201,-122.369
 0260,Barberton,Clark County,45.693,-122.599
 1015,Clover Creek,Pierce County,47.143,-122.380
 3561,North Bend,King County,47.496,-121.787
@@ -71,7 +71,7 @@ phoneme,name,county,latitude,longitude
 3792,Parkwood,Kitsap County,47.533,-122.610
 3745,Pacific,King County,47.262,-122.252
 3557,Normandy Park,King County,47.436,-122.341
-5471,Woodland,Clark County,45.918,-122.754
+5470,Woodland,Clark County,45.918,-122.754
 0580,Brier,Snohomish County,47.785,-122.274
 4057,Prosser,Benton County,46.207,-119.769
 4250,Rochester,Thurston County,46.822,-123.096
@@ -80,7 +80,7 @@ phoneme,name,county,latitude,longitude
 1711,Finley,Benton County,46.154,-119.034
 0450,Black Diamond,King County,47.309,-122.003
 3038,Maplewood,Pierce County,47.402,-122.557
-4987,Town and Country,Spokane County,47.727,-117.422
+4986,Town and Country,Spokane County,47.727,-117.422
 0658,Buckley,Pierce County,47.163,-122.027
 2007,Granite Falls,Snohomish County,48.084,-121.969
 1288,Deer Park,Spokane County,47.954,-117.477
@@ -93,7 +93,7 @@ phoneme,name,county,latitude,longitude
 2004,Granger,Yakima County,46.342,-120.187
 0999,Clearview,Snohomish County,47.834,-122.126
 2415,Indianola,Kitsap County,47.747,-122.526
-4942,Three Lakes,Snohomish County,47.945,-122.012
+4941,Three Lakes,Snohomish County,47.945,-122.012
 0390,Benton City,Benton County,46.263,-119.488
 1554,Elma,Grays Harbor County,47.003,-123.409
 0764,Canyon Creek,Snohomish County,48.110,-121.982
@@ -119,35 +119,35 @@ phoneme,name,county,latitude,longitude
 0426,Big Lake,Skagit County,48.403,-122.241
 0797,Carson,Skamania County,45.725,-121.820
 0937,Chico,Kitsap County,47.611,-122.711
-5330,Westport,Grays Harbor County,46.890,-124.104
+5329,Westport,Grays Harbor County,46.890,-124.104
 0783,Carnation,King County,47.648,-121.914
 0587,Bridgeport,Douglas County,48.008,-119.671
 3527,Newport,Pend Oreille County,48.180,-117.043
 0650,Bryant,Snohomish County,48.239,-122.158
 0578,Brewster,Okanogan County,48.096,-119.781
 1813,Freeland,Island County,48.010,-122.526
-5088,Valley,Stevens County,48.175,-117.725
+5087,Valley,Stevens County,48.175,-117.725
 3248,Millwood,Spokane County,47.681,-117.283
 0109,Amboy,Clark County,45.910,-122.446
 3700,Oroville,Okanogan County,48.939,-119.436
-4621,South Bend,Pacific County,46.663,-123.805
+4626,South Bend,Pacific County,46.663,-123.805
 1870,Garrett,Walla Walla County,46.052,-118.403
 1259,Davenport,Lincoln County,47.654,-118.150
 2885,Long Beach,Pacific County,46.352,-124.054
-4754,Stevenson,Skamania County,45.696,-121.885
+4753,Stevenson,Skamania County,45.696,-121.885
 4064,Purdy,Pierce County,47.389,-122.625
 4276,Rocky Point,Kitsap County,47.593,-122.668
 2707,Lakeview,Grant County,47.374,-119.502
 3980,Pomeroy,Garfield County,46.475,-117.603
 4255,Rock Island,Douglas County,47.377,-120.144
 2332,Home,Pierce County,47.277,-122.766
-5490,Woodway,Snohomish County,47.796,-122.383
+5489,Woodway,Snohomish County,47.796,-122.383
 3027,Manson,Chelan County,47.885,-120.158
 1401,Duluth,Clark County,45.784,-122.647
 2973,Machias,Snohomish County,47.981,-122.046
 1181,Crocker,Pierce County,47.091,-122.127
 2727,Langley,Island County,48.040,-122.406
-5235,Waterville,Douglas County,47.647,-120.071
+5234,Waterville,Douglas County,47.647,-120.071
 0995,Clear Lake,Pierce County,46.928,-122.305
 3355,Morton,Lewis County,46.558,-122.275
 4168,Republic,Ferry County,48.648,-118.738
@@ -161,17 +161,17 @@ phoneme,name,county,latitude,longitude
 4311,Roslyn,Kittitas County,47.223,-120.993
 2554,Kendall,Whatcom County,48.917,-122.136
 3636,Odessa,Lincoln County,47.333,-118.691
-5386,Wilbur,Lincoln County,47.759,-118.706
-4485,Seabeck,Kitsap County,47.640,-122.828
+5385,Wilbur,Lincoln County,47.759,-118.706
+4490,Seabeck,Kitsap County,47.640,-122.828
 1893,George,Grant County,47.079,-119.856
 4331,Roy,Pierce County,47.004,-122.540
 1834,Fruitland,Stevens County,48.071,-118.199
 3622,Oakville,Grays Harbor County,46.840,-123.232
 0300,Bay View,Skagit County,48.484,-122.478
 0186,Ashford,Pierce County,46.758,-122.031
-4969,Toledo,Lewis County,46.440,-122.847
+4968,Toledo,Lewis County,46.440,-122.847
 3669,Onalaska,Lewis County,46.580,-122.710
-4699,St. John,Whitman County,47.092,-117.582
+4702,St. John,Whitman County,47.092,-117.582
 1647,Fairfield,Spokane County,47.385,-117.172
 0922,Cherry Grove,Clark County,45.795,-122.579
 2154,Harrah,Yakima County,46.404,-120.544
@@ -179,10 +179,10 @@ phoneme,name,county,latitude,longitude
 4263,Rockford,Spokane County,47.452,-117.131
 0049,Albion,Whitman County,46.791,-117.250
 2830,Lind,Adams County,46.972,-118.615
-5443,Winthrop,Okanogan County,48.478,-120.186
-4658,Sprague,Lincoln County,47.300,-117.976
+5442,Winthrop,Okanogan County,48.478,-120.186
+4663,Sprague,Lincoln County,47.300,-117.976
 1395,Dryden,Chelan County,47.541,-120.561
-4491,Seaview,Pacific County,46.334,-124.055
+4496,Seaview,Pacific County,46.334,-124.055
 2432,Ione,Pend Oreille County,48.741,-117.417
 2156,Harrington,Lincoln County,47.481,-118.254
 2960,Lyman,Skagit County,48.527,-122.062
@@ -190,7 +190,7 @@ phoneme,name,county,latitude,longitude
 4201,Ryderwood,Cowlitz County,46.377,-123.044
 2470,Jamestown,Clallam County,48.128,-123.087
 1027,Colton,Whitman County,46.568,-117.129
-5067,Uniontown,Whitman County,46.539,-117.088
+5066,Uniontown,Whitman County,46.539,-117.088
 3192,Mesa,Franklin County,46.576,-119.007
 1460,Easton,Kittitas County,47.237,-121.179
 4039,Prescott,Walla Walla County,46.300,-118.315
@@ -198,9 +198,9 @@ phoneme,name,county,latitude,longitude
 4237,Riverside,Okanogan County,48.502,-119.506
 3746,Packwood,Lewis County,46.604,-121.678
 1489,Edison,Skagit County,48.562,-122.444
-4889,Tampico,Yakima County,46.535,-120.867
+4888,Tampico,Yakima County,46.535,-120.867
 1585,Endicott,Whitman County,46.926,-117.683
-5059,Union,Mason County,47.355,-123.101
+5058,Union,Mason County,47.355,-123.101
 3002,Malone,Grays Harbor County,46.959,-123.328
 2120,Hamilton,Skagit County,48.522,-121.989
 3584,Northport,Stevens County,48.916,-117.782
@@ -209,9 +209,9 @@ phoneme,name,county,latitude,longitude
 2959,Lyle,Klickitat County,45.696,-121.286
 0945,Chinook,Pacific County,46.273,-123.945
 1284,Deep River,Wahkiakum County,46.348,-123.685
-4670,Springdale,Stevens County,48.057,-117.741
+4675,Springdale,Stevens County,48.057,-117.741
 1306,Deming,Whatcom County,48.826,-122.216
-5341,Wheeler,Grant County,47.131,-119.172
+5340,Wheeler,Grant County,47.131,-119.172
 1173,Creston,Lincoln County,47.758,-118.520
 0063,Alger,Skagit County,48.620,-122.341
 3000,Malden,Whitman County,47.229,-117.473
@@ -227,19 +227,19 @@ phoneme,name,county,latitude,longitude
 3055,Markham,Grays Harbor County,46.905,-123.998
 0868,Centerville,Klickitat County,45.753,-120.905
 1679,Farmington,Whitman County,47.089,-117.044
-4739,Starbuck,Columbia County,46.520,-118.129
-5243,Waverly,Spokane County,47.343,-117.228
+4738,Starbuck,Columbia County,46.520,-118.129
+5242,Waverly,Spokane County,47.343,-117.228
 3092,Matlock,Mason County,47.238,-123.408
 4002,Porter,Grays Harbor County,46.939,-123.311
 0010,Acme,Whatcom County,48.717,-122.205
 3258,Mineral,Lewis County,46.717,-122.181
-5040,Twin Lakes,Ferry County,48.262,-118.359
+5039,Twin Lakes,Ferry County,48.262,-118.359
 3897,Pine Grove,Ferry County,48.650,-118.684
 2717,Lamont,Whitman County,47.202,-117.905
-4940,Thorp,Kittitas County,47.068,-120.671
+4939,Thorp,Kittitas County,47.068,-120.671
 2186,Hatton,Adams County,46.776,-118.826
 1217,Curlew,Ferry County,48.885,-118.599
-4446,Santiago,Grays Harbor County,47.299,-124.232
+4451,Santiago,Grays Harbor County,47.299,-124.232
 1253,Danville,Ferry County,48.992,-118.508
 3691,Orient,Ferry County,48.866,-118.203
 0279,Barstow,Ferry County,48.777,-118.143
@@ -330,21 +330,21 @@ phoneme,name,county,latitude,longitude
 4010,Potlatch,Mason County,47.376,-123.149
 4041,Preston,King County,47.524,-121.926
 4109,Randle,Lewis County,46.535,-121.957
-4460,Sawyer,Yakima County,46.457,-120.361
-4569,Silver Creek,Lewis County,46.525,-122.590
-4570,Silver Lake,Cowlitz County,46.297,-122.811
-4574,Silverton,Snohomish County,48.078,-121.567
-4752,Stella,Cowlitz County,46.191,-123.120
-4869,Sylvan Beach,King County,47.499,-122.477
-4984,Toutle,Cowlitz County,46.325,-122.736
-5004,Trinidad,Grant County,47.230,-120.001
-5045,Tyler,Spokane County,47.436,-117.784
-5058,Underwood,Skamania County,45.729,-121.526
-5112,Vaughn,Pierce County,47.344,-122.763
-5164,Wabash,King County,47.243,-122.058
-5269,Wellington,King County,47.749,-121.119
-5390,Wildwood,Lewis County,46.459,-123.090
-5421,Wilson,Lewis County,46.453,-122.555
-5439,Winston,Lewis County,46.487,-122.522
-5450,Withrow,Douglas County,47.705,-119.809
-5513,Yale,Cowlitz County,45.995,-122.380
+4465,Sawyer,Yakima County,46.457,-120.361
+4574,Silver Creek,Lewis County,46.525,-122.590
+4575,Silver Lake,Cowlitz County,46.297,-122.811
+4579,Silverton,Snohomish County,48.078,-121.567
+4751,Stella,Cowlitz County,46.191,-123.120
+4868,Sylvan Beach,King County,47.499,-122.477
+4983,Toutle,Cowlitz County,46.325,-122.736
+5003,Trinidad,Grant County,47.230,-120.001
+5044,Tyler,Spokane County,47.436,-117.784
+5057,Underwood,Skamania County,45.729,-121.526
+5111,Vaughn,Pierce County,47.344,-122.763
+5163,Wabash,King County,47.243,-122.058
+5268,Wellington,King County,47.749,-121.119
+5389,Wildwood,Lewis County,46.459,-123.090
+5420,Wilson,Lewis County,46.453,-122.555
+5438,Winston,Lewis County,46.487,-122.522
+5449,Withrow,Douglas County,47.705,-119.809
+5512,Yale,Cowlitz County,45.995,-122.380

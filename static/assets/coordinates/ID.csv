@@ -8,7 +8,7 @@ phoneme,name,county,latitude,longitude
 0117,Ammon,Bonneville County,43.470,-111.967
 3392,Mountain Home,Elmore County,43.133,-115.691
 2199,Hayden,Kootenai County,47.766,-116.787
-4736,Star,Ada County,43.701,-116.491
+4735,Star,Ada County,43.701,-116.491
 2486,Jerome,Jerome County,42.724,-114.519
 0455,Blackfoot,Bingham County,43.190,-112.345
 1860,Garden City,Ada County,43.622,-116.238
@@ -21,25 +21,25 @@ phoneme,name,county,latitude,longitude
 2588,Kimberly,Twin Falls County,42.534,-114.365
 0672,Buhl,Twin Falls County,42.599,-114.759
 2822,Lincoln,Bonneville County,43.513,-111.964
-4683,St. Anthony,Fremont County,43.966,-111.682
+4368,St. Anthony,Fremont County,43.966,-111.682
 2577,Ketchum,Blaine County,43.681,-114.364
 2005,Grangeville,Idaho County,45.927,-116.122
-4383,Salmon,Lemhi County,45.176,-113.896
-4608,Soda Springs,Caribou County,42.654,-111.605
-5276,Wendell,Gooding County,42.776,-114.704
+4388,Salmon,Lemhi County,45.176,-113.896
+4613,Soda Springs,Caribou County,42.654,-111.605
+5275,Wendell,Gooding County,42.776,-114.704
 2431,Iona,Bonneville County,43.526,-111.933
 3312,Montpelier,Bear Lake County,42.322,-111.298
-4809,Sugar City,Madison County,43.873,-111.748
+4808,Sugar City,Madison County,43.873,-111.748
 0358,Bellevue,Blaine County,43.464,-114.261
-4655,Spirit Lake,Kootenai County,47.966,-116.869
+4660,Spirit Lake,Kootenai County,47.966,-116.869
 2548,Kellogg,Shoshone County,47.538,-116.119
-5132,Victor,Teton County,43.603,-111.111
+5131,Victor,Teton County,43.603,-111.111
 3794,Parma,Canyon County,43.785,-116.943
-4830,Sun Valley,Blaine County,43.697,-114.352
+4829,Sun Valley,Blaine County,43.697,-114.352
 0004,Aberdeen,Bingham County,42.944,-112.838
 3910,Pinehurst,Shoshone County,47.539,-116.237
-4555,Shoshone,Lincoln County,42.936,-114.406
-5389,Wilder,Canyon County,43.677,-116.912
+4560,Shoshone,Lincoln County,42.936,-114.406
+5388,Wilder,Canyon County,43.677,-116.912
 3499,New Plymouth,Payette County,43.970,-116.819
 3332,Moreland,Bingham County,43.223,-112.442
 2135,Hansen,Twin Falls County,42.531,-114.301
@@ -54,12 +54,12 @@ phoneme,name,county,latitude,longitude
 1984,Grace,Caribou County,42.576,-111.731
 1373,Dover,Bonner County,48.252,-116.611
 0160,Arco,Butte County,43.637,-113.300
-5013,Troy,Latah County,46.737,-116.770
+5012,Troy,Latah County,46.737,-116.770
 1139,Cottonwood,Idaho County,46.048,-116.350
 2355,Horseshoe Bend,Boise County,43.915,-116.198
 2050,Greenleaf,Canyon County,43.671,-116.816
 2209,Hazelton,Jerome County,42.596,-114.136
-5193,Wallace,Shoshone County,47.474,-115.928
+5192,Wallace,Shoshone County,47.474,-115.928
 3621,Oakley,Cassia County,42.243,-113.882
 4010,Potlatch,Latah County,46.922,-116.898
 2188,Hauser,Kootenai County,47.773,-117.028
@@ -71,7 +71,7 @@ phoneme,name,county,latitude,longitude
 3779,Paris,Bear Lake County,42.227,-111.401
 4245,Roberts,Jefferson County,43.720,-112.126
 1712,Firth,Bingham County,43.305,-112.183
-5327,Weston,Franklin County,42.037,-111.979
+5326,Weston,Franklin County,42.037,-111.979
 1268,Dayton,Franklin County,42.113,-111.994
 1397,Dubois,Clark County,44.176,-112.231
 1894,Georgetown,Bear Lake County,42.482,-111.371
@@ -89,14 +89,14 @@ phoneme,name,county,latitude,longitude
 0735,Cambridge,Washington County,44.573,-116.676
 0255,Bancroft,Caribou County,42.720,-111.886
 3784,Parker,Fremont County,43.959,-111.758
-5425,Winchester,Lewis County,46.240,-116.624
+5424,Winchester,Lewis County,46.240,-116.624
 2555,Kendrick,Latah County,46.614,-116.647
 2447,Irwin,Bonneville County,43.409,-111.299
-4861,Sweetwater,Nez Perce County,46.372,-116.793
+4860,Sweetwater,Nez Perce County,46.372,-116.793
 1361,Donnelly,Valley County,44.731,-116.078
 0474,Bliss,Gooding County,42.927,-114.950
 2319,Hollister,Twin Falls County,42.353,-114.575
-5280,Worley,Kootenai County,47.401,-116.917
+5279,Worley,Kootenai County,47.401,-116.917
 0049,Albion,Cassia County,42.413,-113.578
 4265,Rockland,Power County,42.573,-112.877
 3655,Oldtown,Bonner County,48.179,-117.038
@@ -107,24 +107,24 @@ phoneme,name,county,latitude,longitude
 3670,Onaway,Latah County,46.928,-116.891
 2451,Island Park,Fremont County,44.424,-111.371
 4263,Rockford,Bingham County,43.190,-112.535
-4685,St. Charles,Bear Lake County,42.114,-111.389
+4689,St. Charles,Bear Lake County,42.114,-111.389
 3003,Malta,Cassia County,42.306,-113.369
 3320,Moore,Butte County,43.736,-113.366
 3824,Peck,Nez Perce County,46.475,-116.424
 1534,Elk River,Clearwater County,46.784,-116.180
 1697,Ferdinand,Idaho County,46.152,-116.389
 0385,Bennington,Bear Lake County,42.391,-111.322
-4731,Stanley,Custer County,44.217,-114.939
+4730,Stanley,Custer County,44.217,-114.939
 4047,Princeton,Latah County,46.914,-116.834
 1530,Elk City,Idaho County,45.827,-115.437
 2345,Hope,Bonner County,48.248,-116.307
 2119,Hamer,Jefferson County,43.927,-112.206
 0701,Butte City,Butte County,43.610,-113.244
 3934,Placerville,Boise County,43.943,-115.947
-4745,State Line,Kootenai County,47.705,-117.037
+4744,State Line,Kootenai County,47.705,-117.037
 3741,Oxford,Franklin County,42.259,-112.021
 2930,Lowell,Idaho County,46.144,-115.597
-4652,Spencer,Clark County,44.360,-112.187
+4657,Spencer,Clark County,44.360,-112.187
 2280,Hill City,Camas County,43.301,-115.051
 0227,Avery,Shoshone County,47.250,-115.802
 2875,Lowman,Boise County,44.084,-115.621
@@ -157,8 +157,8 @@ phoneme,name,county,latitude,longitude
 3647,Ola,Gem County,44.178,-116.293
 3708,Osgood,Bonneville County,43.570,-112.103
 4200,Riddle,Owyhee County,42.187,-116.110
-4389,Samaria,Oneida County,42.118,-112.337
-4646,Spalding,Nez Perce County,46.446,-116.818
-5008,Triumph,Blaine County,43.645,-114.254
-5213,Warren,Idaho County,45.264,-115.677
-5377,Whitney,Franklin County,42.066,-111.838
+4394,Samaria,Oneida County,42.118,-112.337
+4651,Spalding,Nez Perce County,46.446,-116.818
+5007,Triumph,Blaine County,43.645,-114.254
+5212,Warren,Idaho County,45.264,-115.677
+5376,Whitney,Franklin County,42.066,-111.838

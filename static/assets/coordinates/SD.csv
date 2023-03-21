@@ -1,21 +1,21 @@
 phoneme,name,county,latitude,longitude
 4116,Rapid City,Pennington County,44.081,-103.231
-5234,Watertown,Codington County,44.899,-97.115
+5233,Watertown,Codington County,44.899,-97.115
 3273,Mitchell,Davison County,43.709,-98.030
-5517,Yankton,Yankton County,42.871,-97.397
+5516,Yankton,Yankton County,42.871,-97.397
 2391,Huron,Beadle County,44.363,-98.214
 0545,Box Elder,Meade County,44.111,-103.081
 2158,Harrisburg,Lincoln County,43.431,-96.697
-4803,Sturgis,Meade County,44.410,-103.509
+4802,Sturgis,Meade County,44.410,-103.509
 2984,Madison,Lake County,44.006,-97.114
 2358,Hot Springs,Fall River County,43.432,-103.474
 3904,Pine Ridge,Oglala Lakota County,43.026,-102.556
 0456,Blackhawk,Meade County,44.151,-103.308
 2786,Lennox,Lincoln County,43.354,-96.892
-4672,Springfield,Bon Homme County,42.854,-97.897
+4677,Springfield,Bon Homme County,42.854,-97.897
 4301,Rosebud,Todd County,43.233,-100.853
 1225,Custer,Custer County,43.767,-103.599
-5174,Wagner,Charles Mix County,43.080,-98.293
+5173,Wagner,Charles Mix County,43.080,-98.293
 2637,Kyle,Oglala Lakota County,43.425,-102.177
 2070,Groton,Brown County,45.447,-98.099
 1814,Freeman,Hutchinson County,43.352,-97.437
@@ -28,30 +28,30 @@ phoneme,name,county,latitude,longitude
 3270,Mission,Todd County,43.306,-100.658
 0973,Clark,Clark County,44.878,-97.733
 1902,Gettysburg,Potter County,45.012,-99.956
-4957,Tyndall,Bon Homme County,42.993,-97.863
+4956,Tyndall,Bon Homme County,42.993,-97.863
 3879,Piedmont,Meade County,44.232,-103.389
 3072,Martin,Bennett County,43.172,-101.733
 2435,Ipswich,Edmunds County,45.444,-99.029
-5498,Worthing,Lincoln County,43.329,-96.763
+5497,Worthing,Lincoln County,43.329,-96.763
 0868,Centerville,Turner County,43.119,-96.961
 2280,Hill City,Pennington County,43.932,-103.575
 0170,Arlington,Brookings County,44.364,-97.134
-5372,Whitewood,Lawrence County,44.461,-103.639
-5096,Valley Springs,Minnehaha County,43.582,-96.468
+5371,Whitewood,Lawrence County,44.461,-103.639
+5095,Valley Springs,Minnehaha County,43.582,-96.468
 2363,Howard,Miner County,44.011,-97.527
 3052,Marion,Turner County,43.423,-97.261
 1625,Eureka,McPherson County,45.769,-99.620
 1613,Estelline,Hamlin County,44.575,-96.902
 0141,Antelope,Todd County,43.303,-100.629
-4475,Scotland,Bon Homme County,43.150,-97.718
+4480,Scotland,Bon Homme County,43.150,-97.718
 1480,Edgemont,Fall River County,43.301,-103.825
 1539,Elkton,Brookings County,44.236,-96.481
-5493,Woonsocket,Sanborn County,44.054,-98.276
+5492,Woonsocket,Sanborn County,44.054,-98.276
 0071,Allen,Bennett County,43.281,-101.924
 1027,Colton,Minnehaha County,43.786,-96.928
-5191,Wall,Pennington County,43.992,-102.242
+5190,Wall,Pennington County,43.992,-102.242
 0824,Castlewood,Hamlin County,44.723,-97.030
-4499,Selby,Walworth County,45.506,-100.032
+4504,Selby,Walworth County,45.506,-100.032
 1055,Colman,Moody County,43.982,-96.814
 0058,Alexandria,Hanson County,43.654,-97.783
 2587,Kimball,Brule County,43.747,-98.958
@@ -59,23 +59,23 @@ phoneme,name,county,latitude,longitude
 0680,Burke,Gregory County,43.182,-99.292
 0231,Avon,Bon Homme County,43.005,-98.060
 2379,Humboldt,Minnehaha County,43.645,-97.074
-5007,Tripp,Hutchinson County,43.226,-97.966
+5006,Tripp,Hutchinson County,43.226,-97.966
 1127,Corsica,Douglas County,43.425,-98.407
 3171,Mina,Edmunds County,45.433,-98.759
 3452,Nemo,Lawrence County,44.194,-103.504
-5358,White River,Mellette County,43.568,-100.745
-5347,White,Brookings County,44.435,-96.650
+5357,White River,Mellette County,43.568,-100.745
+5346,White,Brookings County,44.435,-96.650
 0592,Bridgewater,McCook County,43.552,-97.508
-4691,St. Francis,Todd County,43.144,-100.905
+4695,St. Francis,Todd County,43.144,-100.905
 0650,Bryant,Hamlin County,44.591,-97.467
 2478,Jefferson,Union County,42.602,-96.559
 3386,Mount Vernon,Davison County,43.711,-98.260
 3314,Montrose,McCook County,43.699,-97.184
 1578,Emery,Hanson County,43.602,-97.623
 2438,Irene,Clay County,43.084,-97.158
-5420,Wilmot,Roberts County,45.409,-96.858
+5419,Wilmot,Roberts County,45.409,-96.858
 2787,Leola,McPherson County,45.723,-98.941
-4877,Tabor,Bon Homme County,42.949,-97.659
+4876,Tabor,Bon Homme County,42.949,-97.659
 2203,Hayti,Hamlin County,44.657,-97.205
 2390,Hurley,Turner County,43.283,-97.089
 2242,Hermosa,Custer County,43.840,-103.191
@@ -83,7 +83,7 @@ phoneme,name,county,latitude,longitude
 1661,Faith,Meade County,45.023,-102.036
 0665,Buffalo,Harding County,45.584,-103.546
 1733,Florence,Codington County,45.055,-97.330
-4764,Stickney,Aurora County,43.589,-98.437
+4763,Stickney,Aurora County,43.589,-98.437
 2373,Hudson,Lincoln County,43.130,-96.454
 0887,Chancellor,Turner County,43.372,-96.987
 0445,Bison,Perkins County,45.520,-102.461
@@ -92,15 +92,15 @@ phoneme,name,county,latitude,longitude
 2582,Keystone,Pennington County,43.896,-103.418
 1429,Egan,Moody County,43.999,-96.649
 1875,Gary,Deuel County,44.792,-96.456
-4660,Spring Creek,Todd County,43.118,-101.023
-5414,Willow Lake,Clark County,44.627,-97.637
+4665,Spring Creek,Todd County,43.118,-101.023
+5413,Willow Lake,Clark County,44.627,-97.637
 3978,Pollock,Campbell County,45.901,-100.288
 0639,Bruce,Brookings County,44.438,-96.890
-4999,Trent,Moody County,43.906,-96.654
-4979,Toronto,Deuel County,44.573,-96.643
-4634,South Shore,Codington County,45.106,-96.929
+4998,Trent,Moody County,43.906,-96.654
+4978,Toronto,Deuel County,44.573,-96.643
+4639,South Shore,Codington County,45.106,-96.929
 4311,Roslyn,Day County,45.495,-97.491
-5352,White Horse,Todd County,43.308,-100.597
+5351,White Horse,Todd County,43.308,-100.597
 1068,Columbia,Brown County,45.613,-98.313
 1885,Geddes,Charles Mix County,43.254,-98.695
 4104,Ramona,Lake County,44.119,-97.216
@@ -108,12 +108,12 @@ phoneme,name,county,latitude,longitude
 1302,Delmont,Douglas County,43.267,-98.162
 2448,Isabel,Dewey County,45.394,-101.430
 0667,Buffalo Gap,Custer County,43.492,-103.313
-4652,Spencer,McCook County,43.727,-97.593
+4657,Spencer,McCook County,43.727,-97.593
 0194,Astoria,Deuel County,44.558,-96.547
 4160,Reliance,Lyman County,43.879,-99.603
 3884,Pierpont,Day County,45.496,-97.831
 2475,Java,Walworth County,45.503,-99.887
-5082,Vale,Butte County,44.620,-103.402
+5081,Vale,Butte County,44.620,-103.402
 0995,Clear Lake,Marshall County,45.701,-97.352
 2795,Lesterville,Yankton County,43.039,-97.596
 3133,McIntosh,Corson County,45.921,-101.350
@@ -121,21 +121,21 @@ phoneme,name,county,latitude,longitude
 0189,Ashton,Spink County,44.995,-98.498
 2299,Hitchcock,Beadle County,44.630,-98.410
 4049,Pringle,Custer County,43.609,-103.594
-5513,Yale,Beadle County,44.434,-97.990
+5512,Yale,Beadle County,44.434,-97.990
 3025,Mansfield,Brown County,45.246,-98.558
 2206,Hazel,Hamlin County,44.760,-97.380
 1646,Fairfax,Gregory County,43.028,-98.888
 2151,Harrold,Hughes County,44.524,-99.739
 0870,Central City,Lawrence County,44.366,-103.772
 4193,Richland,Union County,42.759,-96.653
-5193,Wallace,Codington County,45.086,-97.476
+5192,Wallace,Codington County,45.086,-97.476
 1477,Eden,Marshall County,45.617,-97.420
 0760,Canova,Miner County,43.881,-97.505
-5330,Westport,Brown County,45.649,-98.497
+5329,Westport,Brown County,45.649,-98.497
 1239,Dallas,Gregory County,43.236,-99.517
-5160,Vivian,Lyman County,43.927,-100.292
+5159,Vivian,Lyman County,43.927,-100.292
 1840,Fulton,Hanson County,43.725,-97.824
-4542,Sherman,Minnehaha County,43.759,-96.476
+4547,Sherman,Minnehaha County,43.759,-96.476
 3343,Morningside,Beadle County,44.366,-98.188
 1833,Fruitdale,Butte County,44.668,-103.697
 0697,Bushnell,Brookings County,44.329,-96.643
@@ -147,22 +147,22 @@ phoneme,name,county,latitude,longitude
 3662,Olivet,Hutchinson County,43.241,-97.675
 1657,Fairview,Lincoln County,43.222,-96.490
 1643,Fairburn,Custer County,43.686,-103.212
-4791,Stratford,Brown County,45.316,-98.305
+4790,Stratford,Brown County,45.316,-98.305
 0555,Bradley,Clark County,45.091,-97.644
 1263,Davis,Turner County,43.257,-96.996
 3691,Orient,Faulk County,44.900,-99.089
 0588,Bridger,Ziebach County,44.546,-101.911
-5243,Waverly,Codington County,44.999,-96.972
+5242,Waverly,Codington County,44.999,-96.972
 4124,Raymond,Clark County,44.912,-97.939
 3597,Nunda,Lake County,44.162,-97.019
 2723,Lane,Jerauld County,44.070,-98.425
-5137,Vienna,Clark County,44.703,-97.501
+5136,Vienna,Clark County,44.703,-97.501
 1759,Forestburg,Sanborn County,44.022,-98.108
 3351,Morristown,Corson County,45.939,-101.723
 0375,Belvidere,Jackson County,43.832,-101.272
 1382,Draper,Jones County,43.926,-100.540
 2679,Lake City,Marshall County,45.725,-97.415
-5459,Wood,Mellette County,43.497,-100.477
+5458,Wood,Mellette County,43.497,-100.477
 1606,Erwin,Kingsbury County,44.487,-97.445
 3428,Naples,Clark County,44.772,-97.512
 0268,Barnard,Brown County,45.733,-98.490
@@ -172,24 +172,24 @@ phoneme,name,county,latitude,longitude
 0095,Altamont,Deuel County,44.840,-96.689
 2768,Lebanon,Potter County,45.070,-99.770
 3246,Milltown,Hutchinson County,43.424,-97.802
-5138,Vilas,Miner County,44.011,-97.597
-5155,Virgil,Beadle County,44.291,-98.424
+5137,Vilas,Miner County,44.011,-97.597
+5154,Virgil,Beadle County,44.291,-98.424
 4028,Prairie City,Perkins County,45.533,-102.817
 2891,Long Lake,McPherson County,45.857,-99.205
-4505,Seneca,Faulk County,45.062,-99.512
+4510,Seneca,Faulk County,45.062,-99.512
 0837,Kaylor,Hutchinson County,43.188,-97.839
 3077,Marvin,Grant County,45.261,-96.913
 0912,Chelsea,Faulk County,45.169,-98.740
 1399,Dudley,Fall River County,43.311,-103.818
 0255,Bancroft,Kingsbury County,44.488,-97.750
 1139,Cottonwood,Jackson County,43.967,-101.906
-4465,Scenic,Pennington County,43.780,-102.554
+4470,Scenic,Pennington County,43.780,-102.554
 2159,Harrison,Douglas County,43.430,-98.527
-4685,St. Charles,Gregory County,43.087,-99.095
-5359,White Rock,Roberts County,45.917,-96.572
+4689,St. Charles,Gregory County,43.087,-99.095
+5358,White Rock,Roberts County,45.917,-96.572
 1326,Dewey,Custer County,43.530,-104.038
 0698,Butler,Day County,45.259,-97.712
-5120,Verdon,Brown County,45.244,-98.098
+5119,Verdon,Brown County,45.244,-98.098
 2931,Lowry,Walworth County,45.316,-99.983
 3486,New Holland,Douglas County,43.427,-98.609
 2815,Lily,Day County,45.181,-97.683
@@ -216,7 +216,7 @@ phoneme,name,county,latitude,longitude
 4174,Reva,Harding County,45.545,-103.084
 4327,Rowena,Minnehaha County,43.520,-96.556
 4340,Rumford,Fall River County,43.127,-103.698
-4567,Silver City,Pennington County,44.084,-103.564
-4941,Three Forks,Pennington County,43.951,-103.514
-5060,Union Center,Meade County,44.563,-102.664
-5537,Zell,Faulk County,44.897,-98.728
+4572,Silver City,Pennington County,44.084,-103.564
+4940,Three Forks,Pennington County,43.951,-103.514
+5059,Union Center,Meade County,44.563,-102.664
+5536,Zell,Faulk County,44.897,-98.728

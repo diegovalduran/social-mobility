@@ -2,7 +2,7 @@ phoneme,name,county,latitude,longitude
 1320,Des Moines,Polk County,41.573,-93.610
 0853,Cedar Rapids,Linn County,42.008,-91.644
 1259,Davenport,Scott County,41.524,-90.578
-5232,Waterloo,Black Hawk County,42.493,-92.343
+5231,Waterloo,Black Hawk County,42.493,-92.343
 0113,Ames,Story County,42.035,-93.620
 1398,Dubuque,Dubuque County,42.501,-90.665
 3052,Marion,Linn County,42.034,-91.598
@@ -20,10 +20,10 @@ phoneme,name,county,latitude,longitude
 3592,Norwalk,Polk County,41.492,-93.702
 0524,Boone,Boone County,42.060,-93.880
 3710,Oskaloosa,Mahaska County,41.296,-92.644
-4652,Spencer,Clay County,43.141,-95.144
+4657,Spencer,Clay County,43.141,-95.144
 3948,Pleasant Hill,Polk County,41.584,-93.520
 3831,Pella,Mahaska County,41.405,-92.917
-5243,Waverly,Bremer County,42.726,-92.475
+5242,Waverly,Bremer County,42.726,-92.475
 0793,Carroll,Carroll County,42.066,-94.867
 1647,Fairfield,Jefferson County,41.009,-91.963
 3382,Mount Pleasant,Henry County,40.964,-91.558
@@ -34,7 +34,7 @@ phoneme,name,county,latitude,longitude
 1173,Creston,Union County,41.059,-94.361
 2627,Knoxville,Marion County,41.321,-93.109
 0895,Charles City,Floyd County,43.066,-92.672
-5224,Washington,Washington County,41.299,-91.693
+5223,Washington,Washington County,41.299,-91.693
 3456,Nevada,Story County,42.023,-93.452
 0203,Atlantic,Cass County,41.404,-95.014
 1521,Eldridge,Scott County,41.658,-90.585
@@ -46,18 +46,18 @@ phoneme,name,county,latitude,longitude
 4141,Red Oak,Montgomery County,41.010,-95.226
 3707,Osceola,Clarke County,41.034,-93.766
 1328,DeWitt,Clinton County,41.823,-90.538
-4534,Sheldon,O'Brien County,43.180,-95.844
-4655,Spirit Lake,Dickinson County,43.422,-95.102
+4539,Sheldon,O'Brien County,43.180,-95.844
+4660,Spirit Lake,Dickinson County,43.422,-95.102
 0066,Algona,Kossuth County,43.070,-94.233
 0868,Centerville,Appanoose County,40.734,-92.874
-4951,Tiffin,Johnson County,41.706,-91.663
+4950,Tiffin,Johnson County,41.706,-91.663
 1948,Glenwood,Mills County,41.047,-95.743
-5428,Windsor Heights,Polk County,41.598,-93.708
+5427,Windsor Heights,Polk County,41.598,-93.708
 0919,Cherokee,Cherokee County,42.749,-95.552
 3009,Manchester,Delaware County,42.484,-91.455
-5151,Vinton,Benton County,42.169,-92.024
+5150,Vinton,Benton County,42.169,-92.024
 2145,Harlan,Shelby County,41.653,-95.326
-4537,Shenandoah,Fremont County,40.758,-95.372
+4542,Shenandoah,Fremont County,40.758,-95.372
 2379,Humboldt,Humboldt County,42.721,-94.215
 2395,Huxley,Story County,41.895,-93.601
 3386,Mount Vernon,Linn County,41.922,-91.417
@@ -68,18 +68,18 @@ phoneme,name,county,latitude,longitude
 2478,Jefferson,Greene County,42.015,-94.377
 3310,Monticello,Jones County,42.238,-91.187
 1170,Cresco,Howard County,43.381,-92.114
-5296,West Liberty,Muscatine County,41.570,-91.264
+5295,West Liberty,Muscatine County,41.570,-91.264
 3703,Osage,Mitchell County,43.284,-92.811
 3481,New Hampton,Chickasaw County,43.059,-92.318
-5398,Williamsburg,Iowa County,41.661,-92.009
+5397,Williamsburg,Iowa County,41.661,-92.009
 3223,Milford,Dickinson County,43.325,-95.150
-4960,Tipton,Cedar County,41.770,-91.128
-4614,Solon,Johnson County,41.807,-91.494
-4886,Tama,Tama County,41.967,-92.577
+4959,Tipton,Cedar County,41.770,-91.128
+4619,Solon,Johnson County,41.807,-91.494
+4885,Tama,Tama County,41.967,-92.577
 1868,Garner,Hancock County,43.102,-93.602
-5423,Wilton,Cedar County,41.589,-91.025
+5422,Wilton,Cedar County,41.589,-91.025
 1646,Fairfax,Linn County,41.919,-91.781
-4558,Sibley,Osceola County,43.399,-95.752
+4563,Sibley,Osceola County,43.399,-95.752
 2989,Madrid,Boone County,41.877,-93.823
 0972,Clarion,Wright County,42.732,-93.733
 0478,Bloomfield,Davis County,40.752,-92.415
@@ -88,13 +88,13 @@ phoneme,name,county,latitude,longitude
 0862,Center Point,Linn County,42.191,-91.785
 2490,Jesup,Black Hawk County,42.475,-92.066
 3274,Mitchellville,Jasper County,41.667,-93.366
-5308,West Union,Fayette County,42.963,-91.808
+5307,West Union,Fayette County,42.963,-91.808
 3047,Marengo,Iowa County,41.798,-92.071
 2378,Hull,Sioux County,43.189,-96.134
 0811,Cascade,Dubuque County,42.302,-91.005
 0358,Bellevue,Jackson County,42.259,-90.423
 1570,Ely,Linn County,41.874,-91.585
-4969,Toledo,Tama County,41.996,-92.577
+4968,Toledo,Tama County,41.996,-92.577
 0353,Belle Plaine,Benton County,41.897,-92.278
 1059,Colfax,Jasper County,41.678,-93.245
 2844,Lisbon,Linn County,41.921,-91.385
@@ -104,7 +104,7 @@ phoneme,name,county,latitude,longitude
 2047,Greenfield,Adair County,41.305,-94.461
 3589,Northwood,Worth County,43.444,-93.221
 0215,Audubon,Audubon County,41.718,-94.932
-4826,Sumner,Bremer County,42.849,-92.097
+4825,Sumner,Bremer County,42.849,-92.097
 1601,Epworth,Dubuque County,42.445,-90.932
 3785,Parkersburg,Butler County,42.577,-92.787
 3292,Monroe,Jasper County,41.522,-93.102
@@ -116,7 +116,7 @@ phoneme,name,county,latitude,longitude
 1420,Durant,Cedar County,41.601,-90.914
 2004,Granger,Dallas County,41.762,-93.824
 2788,Leon,Decatur County,40.740,-93.748
-4760,Stuart,Adair County,41.500,-94.318
+4759,Stuart,Adair County,41.500,-94.318
 2091,Guttenberg,Clayton County,42.786,-91.100
 1674,Farley,Dubuque County,42.443,-91.006
 2679,Lake City,Calhoun County,42.267,-94.734
@@ -126,19 +126,19 @@ phoneme,name,county,latitude,longitude
 3956,Pleasantville,Marion County,41.386,-93.269
 0488,Blue Grass,Muscatine County,41.510,-90.767
 4163,Remsen,Plymouth County,42.815,-95.973
-5463,Woodbine,Harrison County,41.738,-95.703
+5462,Woodbine,Harrison County,41.738,-95.703
 3370,Mount Ayr,Ringgold County,40.715,-94.235
-5078,Urbana,Benton County,42.224,-91.874
-4585,Slater,Boone County,41.881,-93.691
+5077,Urbana,Benton County,42.224,-91.874
+4590,Slater,Boone County,41.881,-93.691
 0008,Ackley,Franklin County,42.552,-93.052
 2169,Hartley,O'Brien County,43.180,-95.477
 0038,Akron,Plymouth County,42.829,-96.559
-4993,Traer,Tama County,42.194,-92.465
+4992,Traer,Tama County,42.194,-92.465
 3432,Nashua,Chickasaw County,42.950,-92.543
-5181,Walcott,Muscatine County,41.587,-90.781
+5180,Walcott,Muscatine County,41.587,-90.781
 1121,Corning,Adams County,40.990,-94.741
 1132,Corydon,Wayne County,40.757,-93.319
-5270,Wellman,Washington County,41.464,-91.838
+5269,Wellman,Washington County,41.464,-91.838
 3620,Oakland,Pottawattamie County,41.309,-95.397
 0619,Brooklyn,Poweshiek County,41.734,-92.445
 0333,Bedford,Taylor County,40.667,-94.721
@@ -147,13 +147,13 @@ phoneme,name,county,latitude,longitude
 3020,Manning,Carroll County,41.909,-95.065
 3308,Montezuma,Poweshiek County,41.586,-92.527
 3766,Palo,Linn County,42.066,-91.795
-4414,Sanborn,O'Brien County,43.182,-95.656
+4419,Sanborn,O'Brien County,43.182,-95.656
 2872,Logan,Harrison County,41.643,-95.789
 2600,Kingsley,Plymouth County,42.588,-95.968
 4283,Roland,Story County,42.166,-93.502
 2884,Lone Tree,Johnson County,41.488,-91.426
 2786,Lenox,Adams County,40.883,-94.558
-5489,Woodward,Boone County,41.853,-93.921
+5488,Woodward,Boone County,41.853,-93.921
 1102,Coon Rapids,Carroll County,41.875,-94.678
 2753,Laurens,Pocahontas County,42.847,-94.852
 0870,Central City,Linn County,42.204,-91.524
@@ -162,38 +162,38 @@ phoneme,name,county,latitude,longitude
 3504,New Sharon,Mahaska County,41.470,-92.651
 3019,Manly,Worth County,43.287,-93.202
 0097,Alton,Sioux County,42.987,-96.011
-5072,University Heights,Johnson County,41.655,-91.557
+5071,University Heights,Johnson County,41.655,-91.557
 1690,Fayette,Fayette County,42.842,-91.802
-5006,Tripoli,Bremer County,42.808,-92.258
+5005,Tripoli,Bremer County,42.808,-92.258
 0665,Buffalo,Scott County,41.456,-90.723
 2691,Lake Park,Dickinson County,43.456,-95.321
 1949,Glidden,Carroll County,42.057,-94.729
-4678,Springville,Linn County,42.059,-91.443
+4683,Springville,Linn County,42.059,-91.443
 3037,Mapleton,Monona County,42.166,-95.793
 2696,Lake View,Sac County,42.302,-95.036
-4530,Sheffield,Franklin County,42.893,-93.215
+4535,Sheffield,Franklin County,42.893,-93.215
 1095,Conrad,Grundy County,42.225,-92.875
 1893,George,Lyon County,43.344,-96.002
 3046,Marcus,Cherokee County,42.826,-95.808
 4270,Rockwell,Cerro Gordo County,42.985,-93.192
 4237,Riverside,Washington County,41.480,-91.581
-4559,Sidney,Fremont County,40.748,-95.647
+4564,Sidney,Fremont County,40.748,-95.647
 2471,Janesville,Black Hawk County,42.646,-92.462
-4589,Sloan,Woodbury County,42.233,-96.228
+4594,Sloan,Woodbury County,42.233,-96.228
 1411,Dunlap,Crawford County,41.852,-95.602
-5430,Winfield,Henry County,41.123,-91.441
+5429,Winfield,Henry County,41.123,-91.441
 3004,Malvern,Mills County,41.003,-95.585
 0969,Clarence,Cedar County,41.889,-91.057
 3155,Mechanicsville,Cedar County,41.904,-91.255
-4877,Tabor,Fremont County,40.895,-95.674
+4876,Tabor,Fremont County,40.895,-95.674
 2067,Griswold,Cass County,41.235,-95.137
 2028,Greene,Butler County,42.897,-92.804
-5245,Wayland,Henry County,41.147,-91.661
+5244,Wayland,Henry County,41.147,-91.661
 0297,Baxter,Jasper County,41.826,-93.152
 1808,Fredericksburg,Chickasaw County,42.965,-92.200
 1476,Eddyville,Mahaska County,41.159,-92.630
 0082,Allison,Butler County,42.753,-92.795
-5058,Underwood,Pottawattamie County,41.387,-95.677
+5057,Underwood,Pottawattamie County,41.387,-95.677
 1834,Fruitland,Muscatine County,41.356,-91.129
 2720,Lansing,Allamakee County,43.362,-91.217
 2297,Hinton,Plymouth County,42.628,-96.292
@@ -204,7 +204,7 @@ phoneme,name,county,latitude,longitude
 2429,Inwood,Lyon County,43.307,-96.432
 4047,Princeton,Scott County,41.675,-90.340
 3453,Neola,Pottawattamie County,41.449,-95.616
-5305,West Point,Lee County,40.717,-91.450
+5304,West Point,Lee County,40.717,-91.450
 1253,Danville,Des Moines County,40.864,-91.315
 2285,Hills,Johnson County,41.554,-91.535
 3521,Newell,Buena Vista County,42.606,-95.003
@@ -216,72 +216,72 @@ phoneme,name,county,latitude,longitude
 1360,Donnellson,Lee County,40.643,-91.565
 3099,Maxwell,Story County,41.892,-93.400
 0174,Armstrong,Emmet County,43.396,-94.478
-5132,Victor,Iowa County,41.731,-92.295
+5131,Victor,Iowa County,41.731,-92.295
 0025,Afton,Union County,41.027,-94.198
 2370,Hubbard,Hardin County,42.306,-93.300
 0735,Cambridge,Story County,41.898,-93.529
 2888,Long Grove,Scott County,41.698,-90.583
-5443,Winthrop,Buchanan County,42.473,-91.734
-4466,Schleswig,Crawford County,42.165,-95.437
+5442,Winthrop,Buchanan County,42.473,-91.734
+4471,Schleswig,Crawford County,42.165,-95.437
 0013,Adair,Adair County,41.500,-94.644
 4186,Riceville,Howard County,43.362,-92.553
 2929,Lowden,Cedar County,41.858,-90.928
 1517,Eldon,Wapello County,40.919,-92.223
 3714,Ossian,Winneshiek County,43.146,-91.765
 1268,Dayton,Webster County,42.261,-94.069
-5284,West Bend,Kossuth County,42.960,-94.446
+5283,West Bend,Kossuth County,42.960,-94.446
 3165,Melbourne,Marshall County,41.941,-93.103
-5101,Van Horne,Benton County,42.009,-92.091
+5100,Van Horne,Benton County,42.009,-92.091
 3250,Milo,Warren County,41.292,-93.442
 1236,Dakota City,Humboldt County,42.722,-94.197
-5339,Wheatland,Clinton County,41.832,-90.838
+5338,Wheatland,Clinton County,41.832,-90.838
 0797,Carson,Pottawattamie County,41.237,-95.418
 3015,Manilla,Crawford County,41.890,-95.232
 4124,Raymond,Black Hawk County,42.469,-92.220
 4263,Rockford,Floyd County,43.052,-92.949
 0051,Alden,Hardin County,42.520,-93.376
 3314,Montrose,Lee County,40.532,-91.415
-5374,Whiting,Monona County,42.127,-96.149
+5373,Whiting,Monona County,42.127,-96.149
 4146,Redfield,Dallas County,41.589,-94.196
-5197,Walnut,Pottawattamie County,41.477,-95.222
+5196,Walnut,Pottawattamie County,41.477,-95.222
 2166,Hartford,Warren County,41.459,-93.405
 3342,Morning Sun,Louisa County,41.096,-91.258
-4532,Shelby,Pottawattamie County,41.506,-95.449
+4537,Shelby,Pottawattamie County,41.506,-95.449
 1993,Grand Junction,Greene County,42.032,-94.241
 2214,Hedrick,Keokuk County,41.173,-92.309
 3130,McGregor,Clayton County,43.018,-91.183
 3741,Oxford,Johnson County,41.723,-91.790
 1443,Earlville,Delaware County,42.482,-91.272
-5272,Wellsburg,Grundy County,42.459,-92.939
+5271,Wellsburg,Grundy County,42.459,-92.939
 1612,Essex,Page County,40.834,-95.308
 3189,Merrill,Plymouth County,42.720,-96.249
 0465,Blairstown,Benton County,41.909,-92.084
 2209,Hazleton,Buchanan County,42.621,-91.900
 2704,Lakeside,Buena Vista County,42.621,-95.173
-5115,Ventura,Cerro Gordo County,43.126,-93.478
+5114,Ventura,Cerro Gordo County,43.126,-93.478
 1817,Fremont,Mahaska County,41.213,-92.435
 1745,Fontanelle,Adair County,41.290,-94.562
 1522,Elgin,Fayette County,42.957,-91.631
 0295,Battle Creek,Ida County,42.316,-95.599
-5189,Walker,Linn County,42.287,-91.781
+5188,Walker,Linn County,42.287,-91.781
 0255,Bancroft,Kossuth County,43.293,-94.218
-4732,Stanton,Montgomery County,40.982,-95.104
-4791,Stratford,Hamilton County,42.270,-93.927
+4731,Stanton,Montgomery County,40.982,-95.104
+4790,Stratford,Hamilton County,42.270,-93.927
 3657,Olin,Jones County,41.998,-91.142
-5223,Washburn,Black Hawk County,42.412,-92.267
+5222,Washburn,Black Hawk County,42.412,-92.267
 3414,Murray,Clarke County,41.042,-93.949
-4685,St. Charles,Madison County,41.288,-93.809
+4689,St. Charles,Madison County,41.288,-93.809
 1329,Dexter,Dallas County,41.518,-94.226
 3330,Moravia,Appanoose County,40.892,-92.820
-4516,Seymour,Wayne County,40.683,-93.121
+4521,Seymour,Wayne County,40.683,-93.121
 1743,Fonda,Pocahontas County,42.581,-94.846
-4733,Stanwood,Cedar County,41.893,-91.151
+4732,Stanwood,Cedar County,41.893,-91.151
 1404,Dumont,Butler County,42.752,-92.975
 2349,Hopkinton,Delaware County,42.344,-91.248
 1167,Crescent,Pottawattamie County,41.365,-95.858
 1962,Goldfield,Wright County,42.736,-93.921
 0028,Agency,Wapello County,40.995,-92.307
-4849,Sutherland,O'Brien County,42.974,-95.498
+4848,Sutherland,O'Brien County,42.974,-95.498
 1996,Grand Mound,Clinton County,41.824,-90.648
 3362,Moulton,Appanoose County,40.686,-92.677
 3255,Minden,Pottawattamie County,41.467,-95.543
@@ -298,30 +298,30 @@ phoneme,name,county,latitude,longitude
 4088,Radcliffe,Hardin County,42.315,-93.434
 0237,Badger,Webster County,42.614,-94.146
 1301,Delmar,Clinton County,42.002,-90.607
-5512,Wyoming,Jones County,42.059,-91.007
+5511,Wyoming,Jones County,42.059,-91.007
 1920,Gilman,Marshall County,41.879,-92.789
 4193,Richland,Keokuk County,41.186,-91.993
 3697,Orleans,Dickinson County,43.447,-95.092
 0902,Charter Oak,Crawford County,42.068,-95.592
 3980,Pomeroy,Calhoun County,42.551,-94.684
-5016,Truro,Madison County,41.210,-93.847
+5015,Truro,Madison County,41.210,-93.847
 1554,Elma,Howard County,43.247,-92.436
 0034,Ainsworth,Washington County,41.289,-91.552
 1063,Collins,Story County,41.903,-93.306
-5040,Twin Lakes,Calhoun County,42.485,-94.636
-4482,Scranton,Greene County,42.022,-94.545
+5039,Twin Lakes,Calhoun County,42.485,-94.636
+4487,Scranton,Greene County,42.022,-94.545
 0573,Breda,Carroll County,42.182,-94.977
 1551,Ellsworth,Hamilton County,42.313,-93.579
-4934,Thompson,Winnebago County,43.371,-93.774
-5376,Whittemore,Kossuth County,43.062,-94.427
+4933,Thompson,Winnebago County,43.371,-93.774
+5375,Whittemore,Kossuth County,43.062,-94.427
 1682,Farragut,Fremont County,40.722,-95.481
 4348,Russell,Lucas County,40.982,-93.199
 2744,Latimer,Franklin County,42.763,-93.368
-5073,University Park,Mahaska County,41.287,-92.619
+5072,University Park,Mahaska County,41.287,-92.619
 3104,Maynard,Fayette County,42.774,-91.882
 3593,Norway,Benton County,41.903,-91.922
 1215,Cumming,Warren County,41.483,-93.762
-4722,Stacyville,Mitchell County,43.436,-92.782
+4721,Stacyville,Mitchell County,43.436,-92.782
 0189,Ashton,Osceola County,43.311,-95.791
 0049,Albion,Marshall County,42.112,-92.989
 2002,Grandview,Louisa County,41.276,-91.188
@@ -341,25 +341,25 @@ phoneme,name,county,latitude,longitude
 0292,Batavia,Jefferson County,40.994,-92.167
 2754,Lawler,Chickasaw County,43.071,-92.150
 3221,Miles,Jackson County,42.048,-90.316
-4376,Salem,Henry County,40.853,-91.620
+4381,Salem,Henry County,40.853,-91.620
 0694,Burt,Kossuth County,43.197,-94.220
 0301,Bayard,Guthrie County,41.852,-94.558
 1577,Emerson,Mills County,41.017,-95.402
 2779,Lehigh,Webster County,42.360,-94.052
-4939,Thornton,Cerro Gordo County,42.945,-93.385
+4938,Thornton,Cerro Gordo County,42.945,-93.385
 1442,Earling,Shelby County,41.776,-95.418
 3937,Plainfield,Bremer County,42.847,-92.537
 0899,Charlotte,Clinton County,41.960,-90.465
-5281,Wesley,Kossuth County,43.088,-93.990
-5059,Union,Hardin County,42.246,-93.065
+5280,Wesley,Kossuth County,43.088,-93.990
+5058,Union,Hardin County,42.246,-93.065
 3253,Milton,Van Buren County,40.673,-92.162
 2856,Livermore,Humboldt County,42.869,-94.185
 3493,New Market,Taylor County,40.731,-94.900
 2964,Lynnville,Jasper County,41.578,-92.784
 3510,New Vienna,Dubuque County,42.548,-91.114
-5082,Vail,Crawford County,42.062,-95.200
+5081,Vail,Crawford County,42.062,-95.200
 4332,Royal,Clay County,43.066,-95.284
-5499,Worthington,Dubuque County,42.396,-91.120
+5498,Worthington,Dubuque County,42.396,-91.120
 4235,Riverdale,Scott County,41.544,-90.458
 2876,Lohrville,Calhoun County,42.270,-94.549
 0813,Casey,Adair County,41.507,-94.521
@@ -368,16 +368,16 @@ phoneme,name,county,latitude,longitude
 3963,Plymouth,Cerro Gordo County,43.246,-93.123
 3691,Orient,Adair County,41.203,-94.415
 3211,Middletown,Des Moines County,40.828,-91.259
-4730,Stanhope,Hamilton County,42.289,-93.796
+4729,Stanhope,Hamilton County,42.289,-93.796
 2799,Lewis,Cass County,41.306,-95.083
 2330,Holy Cross,Dubuque County,42.601,-90.996
 0716,Calamus,Clinton County,41.826,-90.758
 3086,Massena,Cass County,41.254,-94.768
 1092,Conesville,Muscatine County,41.382,-91.350
 4356,Ryan,Delaware County,42.351,-91.482
-5176,Wahpeton,Dickinson County,43.366,-95.172
-4423,Sandusky,Lee County,40.464,-91.387
-4908,Templeton,Carroll County,41.918,-94.943
+5175,Wahpeton,Dickinson County,43.366,-95.172
+4428,Sandusky,Lee County,40.464,-91.387
+4907,Templeton,Carroll County,41.918,-94.943
 1871,Garrison,Benton County,42.144,-92.144
 0382,Bennett,Cedar County,41.740,-90.974
 2662,Lacona,Warren County,41.190,-93.383
@@ -394,18 +394,18 @@ phoneme,name,county,latitude,longitude
 2013,Granville,Sioux County,42.986,-95.874
 1739,Floyd,Floyd County,43.128,-92.736
 3263,Mingo,Jasper County,41.767,-93.284
-5397,Williams,Hamilton County,42.488,-93.545
+5396,Williams,Hamilton County,42.488,-93.545
 1703,Fertile,Worth County,43.264,-93.418
 1765,Fort Atkinson,Winneshiek County,43.143,-91.933
 2780,Lester,Lyon County,43.445,-96.333
 3854,Persia,Harrison County,41.580,-95.568
-4382,Salix,Woodbury County,42.308,-96.288
+4387,Salix,Woodbury County,42.308,-96.288
 0613,Bronson,Woodbury County,42.411,-96.214
 3358,Moscow,Muscatine County,41.575,-91.083
 0961,Cincinnati,Appanoose County,40.631,-92.925
 0997,Clearfield,Ringgold County,40.801,-94.483
 1160,Crawfordsville,Washington County,41.215,-91.537
-4772,Stockport,Van Buren County,40.858,-91.835
+4771,Stockport,Van Buren County,40.858,-91.835
 1676,Farmersburg,Clayton County,42.961,-91.368
 2313,Holland,Grundy County,42.399,-92.800
 3097,Maurice,Sioux County,42.966,-96.181
@@ -419,7 +419,7 @@ phoneme,name,county,latitude,longitude
 2711,Lakota,Kossuth County,43.377,-94.094
 2812,Libertyville,Jefferson County,40.958,-92.051
 2153,Harpers Ferry,Allamakee County,43.201,-91.153
-5513,Yale,Guthrie County,41.777,-94.358
+5512,Yale,Guthrie County,41.777,-94.358
 0213,Auburn,Sac County,42.251,-94.878
 4059,Pulaski,Davis County,40.697,-92.273
 1304,Delta,Keokuk County,41.323,-92.330
@@ -432,7 +432,7 @@ phoneme,name,county,latitude,longitude
 1291,Defiance,Shelby County,41.824,-95.343
 2928,Low Moor,Clinton County,41.802,-90.355
 1214,Cumberland,Cass County,41.274,-94.870
-4567,Silver City,Mills County,41.113,-95.637
+4572,Silver City,Mills County,41.113,-95.637
 2955,Luxemburg,Dubuque County,42.603,-91.074
 2576,Keswick,Keokuk County,41.453,-92.239
 2650,La Motte,Jackson County,42.296,-90.621
@@ -457,8 +457,8 @@ phoneme,name,county,latitude,longitude
 2749,Laurel,Marshall County,41.884,-92.922
 0106,Alvord,Lyon County,43.342,-96.301
 2506,Joice,Worth County,43.363,-93.454
-5168,Wadena,Fayette County,42.843,-91.657
-5162,Volga,Clayton County,42.805,-91.541
+5167,Wadena,Fayette County,42.843,-91.657
+5161,Volga,Clayton County,42.805,-91.541
 1337,Dixon,Scott County,41.743,-90.782
 2128,Hancock,Pottawattamie County,41.390,-95.362
 2832,Linden,Dallas County,41.644,-94.269
@@ -473,21 +473,21 @@ phoneme,name,county,latitude,longitude
 2835,Lineville,Wayne County,40.581,-93.524
 3326,Moorhead,Monona County,41.922,-95.851
 2991,Magnolia,Harrison County,41.696,-95.877
-4543,Sherrill,Dubuque County,42.604,-90.785
+4548,Sherrill,Dubuque County,42.604,-90.785
 4039,Prescott,Adams County,41.023,-94.614
 4111,Randolph,Fremont County,40.873,-95.566
-5319,Westgate,Fayette County,42.770,-91.996
+5318,Westgate,Fayette County,42.770,-91.996
 3312,Montpelier,Muscatine County,41.459,-90.807
 4005,Portsmouth,Shelby County,41.650,-95.519
-5452,Woden,Hancock County,43.233,-93.909
-4611,Soldier,Monona County,41.985,-95.779
+5451,Woden,Hancock County,43.233,-93.909
+4616,Soldier,Monona County,41.985,-95.779
 1512,Elberon,Tama County,42.006,-92.317
-4593,Smithland,Woodbury County,42.229,-95.931
+4598,Smithland,Woodbury County,42.229,-95.931
 0274,Barnum,Webster County,42.509,-94.365
 3746,Packwood,Jefferson County,41.133,-92.083
 3327,Moorland,Webster County,42.442,-94.295
-4773,Stockton,Muscatine County,41.591,-90.859
-5103,Van Wert,Decatur County,40.870,-93.793
+4772,Stockton,Muscatine County,41.591,-90.859
+5102,Van Wert,Decatur County,40.870,-93.793
 2936,Lucas,Lucas County,41.028,-93.460
 3804,Patterson,Madison County,41.348,-93.880
 1042,Coin,Page County,40.654,-95.230
@@ -497,9 +497,9 @@ phoneme,name,county,latitude,longitude
 0057,Alexander,Franklin County,42.806,-93.477
 2287,Hillsboro,Henry County,40.837,-91.716
 3369,Mount Auburn,Benton County,42.255,-92.093
-4946,Thurman,Fremont County,40.820,-95.748
+4945,Thurman,Fremont County,40.820,-95.748
 2191,Haverhill,Marshall County,41.945,-92.961
-5195,Wallingford,Emmet County,43.320,-94.793
+5194,Wallingford,Emmet County,43.320,-94.793
 3187,Meriden,Cherokee County,42.795,-95.634
 0890,Chapin,Franklin County,42.834,-93.222
 4300,Rose Hill,Mahaska County,41.322,-92.462
@@ -514,16 +514,16 @@ phoneme,name,county,latitude,longitude
 2951,Luther,Boone County,41.968,-93.819
 4253,Rock Falls,Cerro Gordo County,43.207,-93.085
 0727,Calumet,O'Brien County,42.946,-95.550
-4669,Springbrook,Jackson County,42.164,-90.477
-5285,West Chester,Washington County,41.339,-91.818
+4674,Springbrook,Jackson County,42.164,-90.477
+5284,West Chester,Washington County,41.339,-91.818
 0602,Bristow,Butler County,42.774,-92.907
 2882,Lone Rock,Kossuth County,43.219,-94.327
 3608,Oak Hills,Des Moines County,40.760,-91.148
-5466,Woodburn,Clarke County,41.012,-93.599
+5465,Woodburn,Clarke County,41.012,-93.599
 2229,Henderson,Mills County,41.141,-95.431
 0569,Brayton,Audubon County,41.544,-94.924
 3763,Palmer,Pocahontas County,42.631,-94.601
-5256,Webb,Clay County,42.949,-95.012
+5255,Webb,Clay County,42.949,-95.012
 1296,Delaware,Delaware County,42.475,-91.345
 3490,New Liberty,Scott County,41.718,-90.879
 0820,Castalia,Winneshiek County,43.112,-91.676
@@ -533,24 +533,24 @@ phoneme,name,county,latitude,longitude
 2187,Houghton,Lee County,40.784,-91.603
 0967,Clare,Webster County,42.587,-94.346
 2336,Homestead,Iowa County,41.759,-91.867
-5266,Weldon,Decatur County,40.898,-93.735
+5265,Weldon,Decatur County,40.898,-93.735
 1004,Clemons,Marshall County,42.114,-93.156
-4843,Superior,Dickinson County,43.430,-94.946
-5329,Westphalia,Shelby County,41.720,-95.395
+4842,Superior,Dickinson County,43.430,-94.946
+5328,Westphalia,Shelby County,41.720,-95.395
 1800,Franklin,Lee County,40.668,-91.511
 2190,Havelock,Pocahontas County,42.836,-94.701
 3290,Monmouth,Jackson County,42.077,-90.880
-5146,Vincent,Webster County,42.592,-94.020
-4616,Somers,Calhoun County,42.378,-94.430
-4654,Sperry,Des Moines County,40.957,-91.157
+5145,Vincent,Webster County,42.592,-94.020
+4621,Somers,Calhoun County,42.378,-94.430
+4659,Sperry,Des Moines County,40.957,-91.157
 2120,Hamilton,Marion County,41.169,-92.903
 2737,Larrabee,Cherokee County,42.861,-95.545
 2769,Ledyard,Kossuth County,43.422,-94.162
 2822,Lincoln,Tama County,42.263,-92.692
 3273,Mitchell,Mitchell County,43.322,-92.868
-5275,Welton,Clinton County,41.908,-90.595
-5317,Westfield,Plymouth County,42.756,-96.606
-5399,Williamson,Lucas County,41.088,-93.255
+5274,Welton,Clinton County,41.908,-90.595
+5316,Westfield,Plymouth County,42.756,-96.606
+5398,Williamson,Lucas County,41.088,-93.255
 0009,Ackworth,Warren County,41.367,-93.473
 2152,Harper,Keokuk County,41.363,-92.051
 2724,Lanesboro,Carroll County,42.184,-94.691
@@ -567,78 +567,78 @@ phoneme,name,county,latitude,longitude
 3167,Melrose,Monroe County,40.976,-93.050
 3577,North Washington,Chickasaw County,43.118,-92.417
 3074,Martinsburg,Keokuk County,41.179,-92.252
-5235,Waterville,Allamakee County,43.208,-91.298
+5234,Waterville,Allamakee County,43.208,-91.298
 0125,Andover,Clinton County,41.979,-90.252
 3061,Marne,Cass County,41.451,-95.111
-4710,St. Marys,Warren County,41.308,-93.730
+4711,St. Marys,Warren County,41.308,-93.730
 4715,St. Paul,Lee County,40.769,-91.517
 1184,Cromwell,Union County,41.039,-94.462
 1805,Fraser,Boone County,42.127,-93.965
-5332,Westwood,Henry County,40.966,-91.624
-5254,Wever,Lee County,40.711,-91.231
+5331,Westwood,Henry County,40.966,-91.624
+5253,Wever,Lee County,40.711,-91.231
 1406,Duncan,Hancock County,43.105,-93.711
 2977,Macksburg,Madison County,41.215,-94.185
-4979,Toronto,Clinton County,41.905,-90.864
+4978,Toronto,Clinton County,41.905,-90.864
 0249,Baldwin,Jackson County,42.074,-90.842
 3085,Masonville,Delaware County,42.479,-91.591
-5380,Whitten,Hardin County,42.261,-93.005
+5379,Whitten,Hardin County,42.261,-93.005
 3341,Morley,Jones County,42.006,-91.246
 3349,Morrison,Grundy County,42.344,-92.674
 1698,Ferguson,Marshall County,41.937,-92.866
-5260,Webster,Keokuk County,41.438,-92.169
+5259,Webster,Keokuk County,41.438,-92.169
 0166,Argyle,Lee County,40.532,-91.566
 0789,Carpenter,Mitchell County,43.415,-93.015
 1318,Derby,Lucas County,40.932,-93.456
 2176,Hartwick,Poweshiek County,41.785,-92.344
-5445,Wiota,Cass County,41.400,-94.887
-4731,Stanley,Buchanan County,42.642,-91.812
+5444,Wiota,Cass County,41.400,-94.887
+4730,Stanley,Buchanan County,42.642,-91.812
 2009,Grant,Montgomery County,41.143,-94.985
 0653,Buckeye,Hardin County,42.417,-93.375
 3950,Pleasant Plain,Jefferson County,41.147,-91.859
-4910,Tennant,Shelby County,41.594,-95.441
+4909,Tennant,Shelby County,41.594,-95.441
 1154,Craig,Plymouth County,42.896,-96.310
 4100,Ralston,Carroll County,42.042,-94.629
-5068,Unionville,Appanoose County,40.818,-92.695
+5067,Unionville,Appanoose County,40.818,-92.695
 1859,Garber,Clayton County,42.742,-91.262
-4683,St. Anthony,Marshall County,42.122,-93.195
+4368,St. Anthony,Marshall County,42.122,-93.195
 0941,Chillicothe,Wapello County,41.086,-92.529
-4851,Swan,Marion County,41.465,-93.311
+4850,Swan,Marion County,41.465,-93.311
 3092,Matlock,Sioux County,43.244,-95.935
 0906,Chatsworth,Sioux County,42.916,-96.516
-5236,Watkins,Benton County,41.891,-91.986
+5235,Watkins,Benton County,41.891,-91.986
 2930,Lowell,Henry County,40.831,-91.436
-4701,St. Joseph,Kossuth County,42.913,-94.227
-5026,Turin,Monona County,42.019,-95.966
+4372,St. Joseph,Kossuth County,42.913,-94.227
+5025,Turin,Monona County,42.019,-95.966
 2056,Greenville,Clay County,43.017,-95.146
-4524,Sharpsburg,Taylor County,40.802,-94.642
+4529,Sharpsburg,Taylor County,40.802,-94.642
 3688,Orchard,Mitchell County,43.227,-92.772
-4663,Spring Hill,Warren County,41.411,-93.645
-4800,Struble,Plymouth County,42.895,-96.195
+4668,Spring Hill,Warren County,41.411,-93.645
+4799,Struble,Plymouth County,42.895,-96.195
 1013,Clio,Wayne County,40.635,-93.451
 3451,Nemaha,Sac County,42.516,-95.088
-5014,Truesdale,Buena Vista County,42.729,-95.183
+5013,Truesdale,Buena Vista County,42.729,-95.183
 2077,Gruver,Emmet County,43.393,-94.705
 4131,Redding,Ringgold County,40.605,-94.388
 1370,Dougherty,Cerro Gordo County,42.922,-93.042
 2021,Gray,Audubon County,41.839,-94.983
 2079,Guernsey,Poweshiek County,41.649,-92.343
 4250,Rochester,Cedar County,41.674,-91.158
-5518,Yarmouth,Des Moines County,41.026,-91.324
-5526,Yorktown,Page County,40.733,-95.157
+5517,Yarmouth,Des Moines County,41.026,-91.324
+5525,Yorktown,Page County,40.733,-95.157
 1906,Gibson,Keokuk County,41.481,-92.394
 3941,Plano,Appanoose County,40.756,-93.047
-4432,Sandyville,Warren County,41.371,-93.386
+4437,Sandyville,Warren County,41.371,-93.386
 2144,Hardy,Humboldt County,42.811,-94.051
 3959,Plover,Pocahontas County,42.878,-94.621
 0218,Augusta,Des Moines County,40.758,-91.276
-5149,Vining,Tama County,41.990,-92.380
-4926,Thayer,Union County,41.028,-94.051
+5148,Vining,Tama County,41.990,-92.380
+4925,Thayer,Union County,41.028,-94.051
 4313,Rossie,Clay County,43.013,-95.189
 3080,Marysville,Marion County,41.181,-92.949
 0326,Beaver,Boone County,42.038,-94.142
 0992,Clayton,Clayton County,42.904,-91.147
 2446,Irvington,Kossuth County,43.007,-94.196
-4937,Thornburg,Keokuk County,41.455,-92.336
+4936,Thornburg,Keokuk County,41.455,-92.336
 0290,Bassett,Chickasaw County,43.063,-92.515
 2201,Hayesville,Keokuk County,41.264,-92.249
 0389,Benton,Ringgold County,40.703,-94.358
@@ -665,7 +665,7 @@ phoneme,name,county,latitude,longitude
 1852,Galt,Wright County,42.694,-93.605
 1419,Durango,Dubuque County,42.560,-90.776
 1097,Conway,Taylor County,40.749,-94.619
-4578,Sinclair,Butler County,42.500,-92.732
+4583,Sinclair,Butler County,42.500,-92.732
 0280,Bartlett,Fremont County,40.885,-95.795
 2763,Le Roy,Decatur County,40.878,-93.593
 0007,Abingdon,Jefferson County,41.082,-92.139
@@ -747,22 +747,22 @@ phoneme,name,county,latitude,longitude
 4168,Republic,Chickasaw County,42.951,-92.397
 4248,Robinson,Delaware County,42.342,-91.579
 4312,Ross,Audubon County,41.774,-94.919
-4419,Sand Springs,Delaware County,42.318,-91.189
-4503,Selma,Van Buren County,40.870,-92.153
-4506,Seney,Plymouth County,42.853,-96.131
-4517,Shady Grove,Buchanan County,42.377,-92.055
-4569,Silver Creek,Delaware County,42.361,-91.578
-4670,Springdale,Cedar County,41.671,-91.259
-4831,Sunbury,Cedar County,41.670,-90.931
-4940,Thorpe,Delaware County,42.566,-91.449
-5053,Ulmer,Sac County,42.268,-94.950
-5079,Utica,Van Buren County,40.815,-91.835
-5100,Van Buren,Jackson County,42.084,-90.365
-5107,Vandalia,Jasper County,41.539,-93.306
-5124,Vernon,Van Buren County,40.722,-91.855
-5145,Vincennes,Lee County,40.496,-91.570
-5163,Voorhies,Black Hawk County,42.336,-92.483
-5240,Waubeek,Linn County,42.166,-91.465
-5289,West Grove,Davis County,40.725,-92.560
-5514,Yampa,Wapello County,41.010,-92.226
-5525,Yorkshire,Harrison County,41.521,-95.580
+4424,Sand Springs,Delaware County,42.318,-91.189
+4508,Selma,Van Buren County,40.870,-92.153
+4511,Seney,Plymouth County,42.853,-96.131
+4522,Shady Grove,Buchanan County,42.377,-92.055
+4574,Silver Creek,Delaware County,42.361,-91.578
+4675,Springdale,Cedar County,41.671,-91.259
+4830,Sunbury,Cedar County,41.670,-90.931
+4939,Thorpe,Delaware County,42.566,-91.449
+5052,Ulmer,Sac County,42.268,-94.950
+5078,Utica,Van Buren County,40.815,-91.835
+5099,Van Buren,Jackson County,42.084,-90.365
+5106,Vandalia,Jasper County,41.539,-93.306
+5123,Vernon,Van Buren County,40.722,-91.855
+5144,Vincennes,Lee County,40.496,-91.570
+5162,Voorhies,Black Hawk County,42.336,-92.483
+5239,Waubeek,Linn County,42.166,-91.465
+5288,West Grove,Davis County,40.725,-92.560
+5513,Yampa,Wapello County,41.010,-92.226
+5524,Yorkshire,Harrison County,41.521,-95.580

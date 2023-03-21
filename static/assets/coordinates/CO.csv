@@ -2,9 +2,9 @@ phoneme,name,county,latitude,longitude
 1316,Denver,Denver County,39.739,-104.985
 0221,Aurora,Adams County,39.704,-104.720
 2709,Lakewood,Jefferson County,39.705,-105.081
-4939,Thornton,Adams County,39.920,-104.941
+4938,Thornton,Adams County,39.920,-104.941
 0181,Arvada,Adams County,39.834,-105.150
-5324,Westminster,Adams County,39.880,-105.062
+5323,Westminster,Adams County,39.880,-105.062
 2027,Greeley,Weld County,40.423,-104.709
 0859,Centennial,Arapahoe County,39.579,-104.877
 0532,Boulder,Boulder County,40.015,-105.271
@@ -14,7 +14,7 @@ phoneme,name,county,latitude,longitude
 3784,Parker,Douglas County,39.519,-104.761
 2853,Littleton,Arapahoe County,39.590,-105.020
 0595,Brighton,Adams County,39.966,-104.794
-5427,Windsor,Larimer County,40.478,-104.915
+5426,Windsor,Larimer County,40.478,-104.915
 1588,Englewood,Arapahoe County,39.648,-104.988
 1602,Erie,Boulder County,40.040,-105.038
 2667,Lafayette,Boulder County,39.994,-105.090
@@ -28,9 +28,9 @@ phoneme,name,county,latitude,longitude
 2504,Johnstown,Larimer County,40.384,-104.968
 1807,Frederick,Weld County,40.099,-104.937
 2884,Lone Tree,Douglas County,39.531,-104.862
-4756,Sterling,Logan County,40.626,-103.208
-4843,Superior,Boulder County,39.931,-105.159
-5269,Wellington,Larimer County,40.704,-105.009
+4755,Sterling,Logan County,40.626,-103.208
+4842,Superior,Boulder County,39.931,-105.159
+5268,Wellington,Larimer County,40.704,-105.009
 1773,Fort Morgan,Morgan County,40.250,-103.800
 0921,Cherry Creek,Arapahoe County,39.635,-104.883
 0394,Berkley,Adams County,39.804,-105.026
@@ -38,43 +38,43 @@ phoneme,name,county,latitude,longitude
 1662,Falcon,El Paso County,38.933,-104.608
 1497,Edwards,Eagle County,39.645,-106.594
 1654,Fairmount,Jefferson County,39.793,-105.171
-4512,Severance,Weld County,40.524,-104.851
+4517,Severance,Weld County,40.524,-104.851
 1632,Evergreen,Jefferson County,39.633,-105.317
 1304,Delta,Delta County,38.742,-108.069
 4149,Redlands,Mesa County,39.079,-108.636
 1318,Derby,Adams County,39.839,-104.919
 1154,Craig,Moffat County,40.515,-107.546
 1128,Cortez,Montezuma County,37.349,-108.586
-5481,Woodmoor,El Paso County,39.101,-104.847
+5480,Woodmoor,El Paso County,39.101,-104.847
 3239,Milliken,Weld County,40.329,-104.855
 2094,Gypsum,Eagle County,39.647,-106.952
-5004,Trinidad,Las Animas County,37.169,-104.501
+5003,Trinidad,Las Animas County,37.169,-104.501
 0241,Bailey,Park County,39.405,-105.472
-5475,Woodland Park,Teller County,38.994,-105.057
+5474,Woodland Park,Teller County,38.994,-105.057
 1836,Fruitvale,Mesa County,39.082,-108.497
 2712,Lamar,Prowers County,38.087,-102.621
-5040,Twin Lakes,Adams County,39.825,-105.005
+5039,Twin Lakes,Adams County,39.825,-105.005
 1430,Eagle,Eagle County,39.655,-106.829
 2086,Gunnison,Gunnison County,38.546,-106.925
 0772,Carbondale,Garfield County,39.402,-107.211
 0231,Avon,Eagle County,39.631,-106.522
-4541,Sheridan,Arapahoe County,39.647,-105.025
+4546,Sheridan,Arapahoe County,39.647,-105.025
 1466,Eaton,Weld County,40.530,-104.711
-4379,Salida,Chaffee County,38.535,-105.999
+4384,Salida,Chaffee County,38.535,-105.999
 3147,Mead,Weld County,40.233,-104.999
 0572,Breckenridge,Summit County,39.482,-106.038
 3188,Meridian,Douglas County,39.552,-104.859
 1482,Edgewater,Jefferson County,39.753,-105.064
 3471,New Castle,Garfield County,39.573,-107.536
-5082,Vail,Eagle County,39.640,-106.374
+5081,Vail,Eagle County,39.640,-106.374
 1939,Glendale,Arapahoe County,39.705,-104.934
 1886,Genesee,Jefferson County,39.686,-105.273
 0286,Basalt,Eagle County,39.369,-107.049
 1733,Florence,Fremont County,38.390,-105.119
 4273,Rocky Ford,Otero County,38.053,-103.720
 2825,Lincoln Park,Fremont County,38.429,-105.220
-5531,Yuma,Yuma County,40.122,-102.725
-4790,Strasburg,Adams County,39.721,-104.318
+5530,Yuma,Yuma County,40.122,-102.725
+4789,Strasburg,Adams County,39.721,-104.318
 0382,Bennett,Adams County,39.746,-104.443
 0686,Burlington,Kit Carson County,39.306,-102.269
 0664,Buena Vista,Chaffee County,38.842,-106.131
@@ -99,14 +99,14 @@ phoneme,name,county,latitude,longitude
 0038,Akron,Washington County,40.161,-103.214
 3849,Perry Park,Douglas County,39.260,-104.982
 2373,Hudson,Weld County,40.074,-104.643
-5385,Wiggins,Morgan County,40.231,-104.073
+5384,Wiggins,Morgan County,40.231,-104.073
 2409,Indian Hills,Jefferson County,39.617,-105.237
 3444,Nederland,Boulder County,39.961,-105.511
 2575,Kersey,Weld County,40.387,-104.562
 2877,Loma,Mesa County,39.196,-108.813
 0705,Byers,Arapahoe County,39.711,-104.228
 1805,Fraser,Grand County,39.945,-105.817
-4672,Springfield,Baca County,37.408,-102.614
+4677,Springfield,Baca County,37.408,-102.614
 1545,Ellicott,El Paso County,38.838,-104.387
 3398,Mountain Village,San Miguel County,37.931,-107.856
 1789,Fowler,Otero County,38.129,-104.023
@@ -115,13 +115,13 @@ phoneme,name,county,latitude,longitude
 1179,Cripple Creek,Teller County,38.747,-105.178
 3881,Pierce,Weld County,40.636,-104.755
 1341,Dillon,Summit County,39.630,-106.043
-5440,Winter Park,Grand County,39.892,-105.763
+5439,Winter Park,Grand County,39.892,-105.763
 3268,Minturn,Eagle County,39.586,-106.431
-5236,Watkins,Adams County,39.698,-104.577
+5235,Watkins,Adams County,39.698,-104.577
 2363,Howard,Fremont County,38.449,-105.835
 1139,Cottonwood,Douglas County,39.562,-104.802
 3728,Ouray,Ouray County,38.023,-107.671
-4433,Sanford,Conejos County,37.258,-105.905
+4438,Sanford,Conejos County,37.258,-105.905
 1355,Dolores,Montezuma County,37.474,-108.505
 0493,Blue River,Summit County,39.430,-106.044
 3603,Oak Creek,Routt County,40.275,-106.958
@@ -129,29 +129,29 @@ phoneme,name,county,latitude,longitude
 2315,Holly,Prowers County,38.052,-102.123
 2377,Hugo,Lincoln County,39.136,-103.470
 0870,Central City,Clear Creek County,39.795,-105.509
-4385,Salt Creek,Pueblo County,38.238,-104.587
-5398,Williamsburg,Fremont County,38.382,-105.152
+4390,Salt Creek,Pueblo County,38.238,-104.587
+5397,Williamsburg,Fremont County,38.382,-105.152
 2647,La Jara,Conejos County,37.275,-105.960
 2608,Kiowa,Elbert County,39.347,-104.464
 1655,Fairplay,Park County,39.225,-106.002
 1428,Eads,Kiowa County,38.481,-102.782
-4574,Silverton,San Juan County,37.812,-107.665
-4568,Silver Cliff,Custer County,38.135,-105.446
-4793,Stratton,Kit Carson County,39.303,-102.605
-4403,San Luis,Costilla County,37.201,-105.424
+4579,Silverton,San Juan County,37.812,-107.665
+4573,Silver Cliff,Custer County,38.135,-105.446
+4792,Stratton,Kit Carson County,39.303,-102.605
+4408,San Luis,Costilla County,37.201,-105.424
 2582,Keystone,Summit County,39.599,-105.987
-4863,Swink,Otero County,38.014,-103.628
-5182,Walden,Jackson County,40.732,-106.284
+4862,Swink,Otero County,38.014,-103.628
+5181,Walden,Jackson County,40.732,-106.284
 0098,Altona,Boulder County,40.134,-105.283
-5202,Walsh,Baca County,37.386,-102.278
+5201,Walsh,Baca County,37.386,-102.278
 3397,Mountain View,Jefferson County,39.774,-105.056
 3595,Norwood,San Miguel County,38.131,-108.292
 4268,Rockvale,Fremont County,38.370,-105.164
 3719,Otis,Washington County,40.149,-102.963
-4625,South Fork,Rio Grande County,37.670,-106.640
-4814,Sugarloaf,Boulder County,40.017,-105.407
+4630,South Fork,Rio Grande County,37.670,-106.640
+4813,Sugarloaf,Boulder County,40.017,-105.407
 1989,Granada,Prowers County,38.064,-102.310
-5391,Wiley,Prowers County,38.154,-102.720
+5390,Wiley,Prowers County,38.154,-102.720
 1084,Como,Park County,39.316,-105.892
 0232,Avondale,Pueblo County,38.237,-104.351
 3577,North Washington,Adams County,39.807,-104.979
@@ -159,13 +159,13 @@ phoneme,name,county,latitude,longitude
 1024,Coaldale,Fremont County,38.366,-105.758
 1725,Fleming,Logan County,40.680,-102.839
 1994,Grand Lake,Grand County,40.252,-105.823
-5514,Yampa,Routt County,40.152,-106.909
+5513,Yampa,Routt County,40.152,-106.909
 1159,Crawford,Delta County,38.704,-107.609
-5147,Vineland,Pueblo County,38.246,-104.459
+5146,Vineland,Pueblo County,38.246,-104.459
 3907,Pine Valley,Clear Creek County,39.693,-105.411
 1518,Eldora,Boulder County,39.949,-105.564
 3349,Morrison,Jefferson County,39.654,-105.191
-5132,Victor,Teller County,38.710,-105.140
+5131,Victor,Teller County,38.710,-105.140
 1023,Coal Creek,Fremont County,38.361,-105.148
 3934,Placerville,San Miguel County,38.005,-108.040
 1582,Empire,Clear Creek County,39.761,-105.684
@@ -173,9 +173,9 @@ phoneme,name,county,latitude,longitude
 4291,Romeo,Conejos County,37.172,-105.985
 0524,Boone,Pueblo County,38.249,-104.257
 0085,Alma,Park County,39.284,-106.063
-4809,Sugar City,Crowley County,38.232,-103.663
+4808,Sugar City,Crowley County,38.232,-103.663
 1957,Gold Hill,Boulder County,40.063,-105.410
-4710,St. Mary's,Clear Creek County,39.817,-105.647
+4711,St. Mary's,Clear Creek County,39.817,-105.647
 0091,Alpine,Rio Grande County,37.689,-106.589
 3733,Ovid,Sedgwick County,40.961,-102.388
 3213,Midland,Teller County,38.858,-105.162
@@ -189,28 +189,28 @@ phoneme,name,county,latitude,longitude
 1804,Franktown,Douglas County,39.391,-104.753
 0830,Catherine,Garfield County,39.407,-107.153
 2736,Larkspur,Douglas County,39.229,-104.887
-4842,Sunshine,Boulder County,40.066,-105.367
+4841,Sunshine,Boulder County,40.066,-105.367
 4358,Rye,Pueblo County,37.924,-104.930
 2472,Jansen,Las Animas County,37.157,-104.538
 3680,Ophir,San Miguel County,37.857,-107.833
 0518,Bond,Eagle County,39.874,-106.688
 1194,Crowley,Crowley County,38.193,-103.856
 0413,Bethune,Kit Carson County,39.304,-102.425
-4497,Sedgwick,Sedgwick County,40.936,-102.525
+4502,Sedgwick,Sedgwick County,40.936,-102.525
 4151,Redstone,Pitkin County,39.181,-107.240
 2799,Lewis,Montezuma County,37.500,-108.669
 0950,Crisman,Boulder County,40.041,-105.361
 1889,Genoa,Lincoln County,39.278,-103.500
 2074,Grover,Weld County,40.871,-104.225
-5040,Twin Lakes,Lake County,39.083,-106.382
+5039,Twin Lakes,Lake County,39.083,-106.382
 3106,Maysville,Chaffee County,38.539,-106.190
-4508,Seven Hills,Boulder County,40.026,-105.312
+4513,Seven Hills,Boulder County,40.026,-105.312
 0210,Atwood,Logan County,40.548,-103.270
-4603,Snyder,Morgan County,40.329,-103.596
+4608,Snyder,Morgan County,40.329,-103.596
 3040,Marble,Gunnison County,39.072,-107.189
 3688,Orchard,Morgan County,40.331,-104.118
 1737,Florissant,Teller County,38.946,-105.289
-5208,Ward,Boulder County,40.072,-105.508
+5207,Ward,Boulder County,40.072,-105.508
 0451,Black Hawk,Gilpin County,39.797,-105.494
 0769,Capulin,Conejos County,37.284,-106.111
 2182,Hasty,Bent County,38.113,-102.957
@@ -219,7 +219,7 @@ phoneme,name,county,latitude,longitude
 4103,Raymer,Weld County,40.608,-103.844
 3280,Moffat,Saguache County,37.999,-105.910
 0747,Campo,Baca County,37.105,-102.580
-5138,Vilas,Baca County,37.374,-102.446
+5137,Vilas,Baca County,37.374,-102.446
 3076,Marvel,La Plata County,37.112,-108.127
 1939,Glendale,Boulder County,40.082,-105.366
 2344,Hooper,Alamosa County,37.743,-105.875
@@ -227,11 +227,11 @@ phoneme,name,county,latitude,longitude
 3308,Montezuma,Summit County,39.581,-105.867
 2496,Joes,Yuma County,39.656,-102.679
 1865,Gardner,Huerfano County,37.783,-105.166
-4743,Starkville,Las Animas County,37.115,-104.524
+4742,Starkville,Las Animas County,37.115,-104.524
 1962,Goldfield,Teller County,38.718,-105.126
 3799,Parshall,Grand County,40.057,-106.175
-4617,Somerset,Gunnison County,38.926,-107.470
-4495,Sedalia,Douglas County,39.437,-104.960
+4622,Somerset,Gunnison County,38.926,-107.470
+4500,Sedalia,Douglas County,39.437,-104.960
 0567,Branson,Las Animas County,37.018,-103.884
 2170,Hartman,Prowers County,38.120,-102.220
 2400,Idalia,Yuma County,39.704,-102.294
@@ -240,11 +240,11 @@ phoneme,name,county,latitude,longitude
 2838,Lynn,Las Animas County,37.427,-104.641
 3774,Paoli,Phillips County,40.612,-102.473
 3880,Piedra,Hinsdale County,37.442,-107.168
-5083,Valdez,Las Animas County,37.122,-104.702
+5082,Valdez,Las Animas County,37.122,-104.702
 2741,Last Chance,Washington County,39.740,-103.594
-5327,Weston,Las Animas County,37.133,-104.849
-4776,Stoneham,Weld County,40.605,-103.666
-4988,Towner,Kiowa County,38.471,-102.080
+5326,Weston,Las Animas County,37.133,-104.849
+4775,Stoneham,Weld County,40.605,-103.666
+4987,Towner,Kiowa County,38.471,-102.080
 2704,Lakeside,Jefferson County,39.777,-105.056
 0517,Bonanza,Saguache County,38.295,-106.142
 0027,Agate,Elbert County,39.462,-103.942
@@ -303,12 +303,12 @@ phoneme,name,county,latitude,longitude
 4090,Radium,Grand County,39.960,-106.541
 4108,Rand,Jackson County,40.454,-106.179
 4343,Rush,El Paso County,38.846,-104.092
-4409,San Pablo,Costilla County,37.147,-105.395
-4780,Stonington,Baca County,37.294,-102.187
-4924,Thatcher,Las Animas County,37.546,-104.108
-4946,Thurman,Washington County,39.741,-103.218
-5124,Vernon,Yuma County,39.946,-102.315
-5139,Villa Grove,Saguache County,38.248,-105.949
-5243,Waverly,Larimer County,40.736,-105.077
-5371,Whitewater,Mesa County,38.990,-108.452
-5453,Wolcott,Eagle County,39.703,-106.679
+4414,San Pablo,Costilla County,37.147,-105.395
+4779,Stonington,Baca County,37.294,-102.187
+4923,Thatcher,Las Animas County,37.546,-104.108
+4945,Thurman,Washington County,39.741,-103.218
+5123,Vernon,Yuma County,39.946,-102.315
+5138,Villa Grove,Saguache County,38.248,-105.949
+5242,Waverly,Larimer County,40.736,-105.077
+5370,Whitewater,Mesa County,38.990,-108.452
+5452,Wolcott,Eagle County,39.703,-106.679

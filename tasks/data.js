@@ -17,9 +17,9 @@ function makeChangelog() {
 	const changed = places
 		.map((newD) => {
 			const oldD = prevPlaces.find((p) => p.id === newD.id) || {};
-			const diffs = Object.keys(newD).filter(
-				(prop) => newD[prop] !== oldD[prop]
-			);
+			const diffs = Object.keys(newD)
+				.filter((d) => d !== "phoneme")
+				.filter((prop) => newD[prop] !== oldD[prop]);
 			return diffs.length ? { newD, oldD, diffs } : undefined;
 		})
 		.filter((d) => d);
@@ -32,7 +32,6 @@ function makeChangelog() {
 		return parts.join(", ");
 	};
 
-	// date in format "2023-01-05";
 	const date = new Date().toISOString().slice(0, 10);
 
 	const newChangelog = changed.map(({ newD, oldD, diffs }) => {
@@ -45,8 +44,7 @@ function makeChangelog() {
 			  })
 			: ["place added"];
 
-		const changeText =
-			diffs.length === 11 ? "place added" : changes.join(" | ");
+		const changeText = diffs.length > 4 ? "place added" : changes.join(" | ");
 
 		return { date, text: `${place}:  ${changeText}` };
 	});

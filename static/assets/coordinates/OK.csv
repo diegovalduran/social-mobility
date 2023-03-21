@@ -3,24 +3,24 @@ phoneme,name,county,latitude,longitude
 1490,Edmond,Oklahoma County,35.653,-97.478
 2760,Lawton,Comanche County,34.609,-98.390
 3320,Moore,Cleveland County,35.340,-97.487
-4766,Stillwater,Payne County,36.116,-97.058
-4527,Shawnee,Pottawatomie County,35.327,-96.925
+4765,Stillwater,Payne County,36.116,-97.058
+4532,Shawnee,Pottawatomie County,35.327,-96.925
 0446,Bixby,Tulsa County,35.946,-95.878
 0163,Ardmore,Carter County,34.174,-97.144
-5530,Yukon,Canadian County,35.507,-97.763
+5529,Yukon,Canadian County,35.507,-97.763
 1406,Duncan,Stephens County,34.502,-97.958
 1292,Del City,Oklahoma County,35.442,-97.441
 3417,Mustang,Canadian County,35.384,-97.724
 0410,Bethany,Oklahoma County,35.519,-97.632
-4419,Sand Springs,Osage County,36.136,-96.132
+4424,Sand Springs,Osage County,36.136,-96.132
 1420,Durant,Bryan County,33.994,-96.371
 0101,Altus,Jackson County,34.638,-99.334
 0012,Ada,Pontotoc County,34.775,-96.678
 3199,Miami,Ottawa County,36.875,-94.877
 0949,Choctaw,Oklahoma County,35.498,-97.269
 3519,Newcastle,McClain County,35.247,-97.600
-5489,Woodward,Woodward County,36.434,-99.390
-5253,Weatherford,Custer County,35.526,-98.708
+5488,Woodward,Woodward County,36.434,-99.390
+5252,Weatherford,Custer County,35.526,-98.708
 1530,Elk City,Beckham County,35.412,-99.404
 2090,Guthrie,Logan County,35.879,-97.425
 0469,Blanchard,Grady County,35.152,-97.665
@@ -28,27 +28,27 @@ phoneme,name,county,latitude,longitude
 1065,Collinsville,Rogers County,36.374,-95.860
 1222,Cushing,Payne County,35.985,-96.767
 3879,Piedmont,Canadian County,35.675,-97.754
-5173,Wagoner,Wagoner County,35.960,-95.369
-4984,Tuttle,Grady County,35.291,-97.812
+5172,Wagoner,Wagoner County,35.960,-95.369
+4983,Tuttle,Grady County,35.291,-97.812
 2622,Noble,Cleveland County,35.139,-97.395
-4504,Seminole,Seminole County,35.225,-96.671
+4509,Seminole,Seminole County,35.225,-96.671
 2071,Grove,Delaware County,36.594,-94.769
 4063,Purcell,Cleveland County,35.024,-97.374
 2154,Harrah,Oklahoma County,35.490,-97.164
-4905,Tecumseh,Pottawatomie County,35.258,-96.937
+4904,Tecumseh,Pottawatomie County,35.258,-96.937
 0461,Blackwell,Kay County,36.804,-97.283
 0120,Anadarko,Caddo County,35.073,-98.244
 2377,Hugo,Choctaw County,34.011,-95.510
 0103,Alva,Woods County,36.805,-98.666
-4817,Sulphur,Murray County,34.508,-96.968
+4816,Sulphur,Murray County,34.508,-96.968
 3848,Perry,Noble County,36.289,-97.288
 3059,Marlow,Stephens County,34.631,-97.957
-4464,Sayre,Beckham County,35.291,-99.640
+4469,Sayre,Beckham County,35.291,-99.640
 0602,Bristow,Creek County,35.831,-96.391
 3113,McLoud,Pottawatomie County,35.436,-97.091
-4652,Spencer,Oklahoma County,35.523,-97.377
+4657,Spencer,Oklahoma County,35.523,-97.377
 1522,Elgin,Comanche County,34.780,-98.292
-4767,Stilwell,Adair County,35.815,-94.629
+4766,Stilwell,Adair County,35.815,-94.629
 1807,Frederick,Tillman County,34.392,-99.018
 4283,Roland,Sequoyah County,35.421,-94.515
 1326,Dewey,Washington County,36.796,-95.936
@@ -59,29 +59,29 @@ phoneme,name,county,latitude,longitude
 2297,Hinton,Caddo County,35.471,-98.356
 2892,Longtown,Pittsburg County,35.245,-95.513
 0709,Cache,Comanche County,34.630,-98.629
-4962,Tishomingo,Johnston County,34.236,-96.679
+4961,Tishomingo,Johnston County,34.236,-96.679
 0719,Calera,Bryan County,33.935,-96.429
 2510,Jones,Oklahoma County,35.566,-97.287
 0888,Chandler,Lincoln County,35.702,-96.881
 2834,Lindsay,Garvin County,34.835,-97.603
-5029,Turley,Tulsa County,36.242,-95.976
+5028,Turley,Tulsa County,36.242,-95.976
 3050,Marietta,Love County,33.937,-97.117
 1263,Davis,Garvin County,34.429,-97.174
 1622,Eufaula,McIntosh County,35.287,-95.582
 1657,Fairview,Major County,36.269,-98.480
 3011,Mangum,Greer County,34.872,-99.504
-5203,Walters,Cotton County,34.360,-98.308
+5202,Walters,Cotton County,34.360,-98.308
 2476,Jay,Delaware County,36.421,-94.797
 4027,Prague,Lincoln County,35.495,-96.695
-5387,Wilburton,Latimer County,34.919,-95.309
+5386,Wilburton,Latimer County,34.919,-95.309
 3619,Oakhurst,Creek County,36.081,-96.062
 1083,Commerce,Ottawa County,36.933,-94.873
 3526,Newkirk,Kay County,36.882,-97.053
 2804,Lexington,Cleveland County,35.015,-97.336
 0912,Chelsea,Rogers County,36.536,-95.432
-5511,Wynnewood,Garvin County,34.643,-97.164
+5510,Wynnewood,Garvin County,34.643,-97.164
 3814,Pawnee,Pawnee County,36.338,-96.804
-5061,Union City,Canadian County,35.392,-97.941
+5060,Union City,Canadian County,35.392,-97.941
 2006,Granite,Greer County,34.962,-99.381
 2318,Hollis,Harmon County,34.688,-99.912
 2728,Langston,Logan County,35.945,-97.255
@@ -90,24 +90,24 @@ phoneme,name,county,latitude,longitude
 2180,Haskell,Muskogee County,35.820,-95.674
 1025,Coalgate,Coal County,34.538,-96.219
 3595,Norwood,Cherokee County,35.845,-95.151
-5212,Warner,Muskogee County,35.494,-95.306
+5211,Warner,Muskogee County,35.494,-95.306
 1106,Copeland,Delaware County,36.656,-94.828
 0919,Cherokee,Alfalfa County,36.754,-98.357
 2951,Luther,Oklahoma County,35.662,-97.196
 2746,Latta,Pontotoc County,34.747,-96.706
 0784,Carnegie,Caddo County,35.104,-98.604
 2601,Kingston,Marshall County,33.999,-96.720
-5421,Wilson,Carter County,34.162,-97.426
+5420,Wilson,Carter County,34.162,-97.426
 2225,Helena,Alfalfa County,36.546,-98.270
-4791,Stratford,Garvin County,34.797,-96.959
+4790,Stratford,Garvin County,34.797,-96.959
 1080,Comanche,Stephens County,34.369,-97.964
 2869,Locust Grove,Mayes County,36.200,-95.168
-5331,Westville,Adair County,35.993,-94.568
+5330,Westville,Adair County,35.993,-94.568
 1337,Dickson,Carter County,34.187,-96.984
 1167,Crescent,Logan County,35.953,-97.595
 3348,Morris,Okmulgee County,35.608,-95.860
 3769,Panama,Le Flore County,35.167,-94.672
-4603,Snyder,Kiowa County,34.659,-98.952
+4608,Snyder,Kiowa County,34.659,-98.952
 0326,Beaver,Beaver County,36.816,-100.520
 1727,Fletcher,Comanche County,34.823,-98.244
 2002,Grandview,Cherokee County,35.965,-94.999
@@ -115,12 +115,12 @@ phoneme,name,county,latitude,longitude
 1900,Geronimo,Comanche County,34.481,-98.383
 3322,Mooreland,Woodward County,36.439,-99.205
 0510,Boise City,Cimarron County,36.729,-102.513
-4931,Thomas,Custer County,35.744,-98.748
-4654,Sperry,Osage County,36.298,-95.996
+4930,Thomas,Custer County,35.744,-98.748
+4659,Sperry,Osage County,36.298,-95.996
 1646,Fairfax,Osage County,36.574,-96.704
 1650,Fairland,Ottawa County,36.751,-94.847
 0593,Briggs,Cherokee County,35.927,-94.875
-5513,Yale,Payne County,36.114,-96.699
+5512,Yale,Payne County,36.114,-96.699
 3106,Maysville,Garvin County,34.865,-97.374
 0857,Salina,Mayes County,36.293,-95.153
 2580,Keys,Cherokee County,35.798,-94.968
@@ -134,18 +134,18 @@ phoneme,name,county,latitude,longitude
 3365,Mounds,Creek County,35.876,-96.066
 1976,Gore,Sequoyah County,35.529,-95.117
 1334,Dibble,McClain County,35.033,-97.630
-4960,Tipton,Tillman County,34.503,-99.141
+4959,Tipton,Tillman County,34.503,-99.141
 0924,Cherry Tree,Adair County,35.741,-94.643
 3157,Medford,Grant County,36.807,-97.734
 4217,Ringling,Jefferson County,34.178,-97.593
 3644,Oilton,Creek County,36.085,-96.584
-5384,Wickliffe,Mayes County,36.312,-95.107
+5383,Wickliffe,Mayes County,36.312,-95.107
 3096,Maud,Pottawatomie County,35.133,-96.778
 3620,Oakland,Marshall County,34.100,-96.794
 4082,Quinton,Pittsburg County,35.123,-95.371
-4838,Sunray,Stephens County,34.413,-97.965
-4907,Temple,Cotton County,34.272,-98.236
-4921,Texhoma,Texas County,36.505,-101.783
+4837,Sunray,Stephens County,34.413,-97.965
+4906,Temple,Cotton County,34.272,-98.236
+4920,Texhoma,Texas County,36.505,-101.783
 1259,Davenport,Lincoln County,35.705,-96.765
 0071,Allen,Hughes County,34.878,-96.413
 0934,Cheyenne,Roger Mills County,35.614,-99.671
@@ -161,21 +161,21 @@ phoneme,name,county,latitude,longitude
 3877,Pickett,Pontotoc County,34.782,-96.775
 1859,Garber,Garfield County,36.437,-97.586
 2104,Haileyville,Pittsburg County,34.855,-95.582
-5047,Tyrone,Texas County,36.954,-101.065
-4671,Springer,Carter County,34.315,-97.143
-5224,Washington,McClain County,35.059,-97.484
-5273,Wellston,Lincoln County,35.694,-97.063
+5046,Tyrone,Texas County,36.954,-101.065
+4676,Springer,Carter County,34.315,-97.143
+5223,Washington,McClain County,35.059,-97.484
+5272,Wellston,Lincoln County,35.694,-97.063
 4356,Ryan,Jefferson County,34.020,-97.958
 0575,Brent,Sequoyah County,35.368,-94.794
 0779,Carlisle,Sequoyah County,35.501,-95.026
-4756,Sterling,Comanche County,34.750,-98.172
-5246,Wayne,McClain County,34.918,-97.314
+4755,Sterling,Comanche County,34.750,-98.172
+5245,Wayne,McClain County,34.918,-97.314
 1647,Fairfield,Adair County,35.847,-94.612
 2362,Howe,Le Flore County,34.951,-94.637
-5264,Welch,Craig County,36.874,-95.096
-4458,Savanna,Pittsburg County,34.829,-95.844
+5263,Welch,Craig County,36.874,-95.096
+4463,Savanna,Pittsburg County,34.829,-95.844
 2820,Limestone,Rogers County,36.316,-95.749
-5502,Wright City,McCurtain County,34.060,-95.003
+5501,Wright City,McCurtain County,34.060,-95.003
 2727,Langley,Craig County,36.480,-95.054
 2608,Kiowa,Pittsburg County,34.721,-95.899
 0531,Boswell,Choctaw County,34.027,-95.869
@@ -183,24 +183,24 @@ phoneme,name,county,latitude,longitude
 4002,Porter,Wagoner County,35.871,-95.522
 0992,Clayton,Pushmataha County,34.590,-95.353
 0786,Carney,Lincoln County,35.808,-97.013
-5425,Winchester,Okmulgee County,35.786,-95.992
+5424,Winchester,Okmulgee County,35.786,-95.992
 4104,Ramona,Washington County,36.530,-95.924
-4517,Shady Grove,McIntosh County,35.493,-95.416
+4522,Shady Grove,McIntosh County,35.493,-95.416
 4141,Red Oak,Latimer County,34.951,-95.080
 1938,Glencoe,Payne County,36.229,-96.926
 2577,Ketchum,Craig County,36.518,-95.037
 0175,Arnett,Ellis County,36.135,-99.775
-5508,Wyandotte,Ottawa County,36.793,-94.725
-4517,Shady Grove,Cherokee County,35.944,-95.095
-4575,Simms,Muskogee County,35.384,-95.199
+5507,Wyandotte,Ottawa County,36.793,-94.725
+4522,Shady Grove,Cherokee County,35.944,-95.095
+4580,Simms,Muskogee County,35.384,-95.199
 3666,Olustee,Jackson County,34.549,-99.422
 1149,Covington,Garfield County,36.308,-97.586
 2499,Johnson,Pottawatomie County,35.406,-96.842
 0727,Calumet,Canadian County,35.601,-98.119
 0762,Canton,Blaine County,36.054,-98.588
 0434,Billings,Noble County,36.529,-97.444
-4797,Stringtown,Atoka County,34.467,-96.053
-5330,Westport,Pawnee County,36.219,-96.325
+4796,Stringtown,Atoka County,34.467,-96.053
+5329,Westport,Pawnee County,36.219,-96.325
 1392,Drummond,Garfield County,36.300,-98.036
 2569,Keota,Haskell County,35.256,-94.922
 0399,Bernice,Delaware County,36.616,-94.918
@@ -210,25 +210,25 @@ phoneme,name,county,latitude,longitude
 0855,Cedar Valley,Logan County,35.864,-97.562
 1317,Depew,Creek County,35.803,-96.506
 1373,Dover,Kingfisher County,35.981,-97.911
-4778,Stonewall,Pontotoc County,34.653,-96.526
+4777,Stonewall,Pontotoc County,34.653,-96.526
 0907,Chattanooga,Comanche County,34.424,-98.654
 1439,Eagletown,McCurtain County,34.034,-94.574
 4218,Ringwood,Major County,36.379,-98.245
-5018,Tryon,Lincoln County,35.870,-96.964
+5017,Tryon,Lincoln County,35.870,-96.964
 0851,Cedar Lake,Canadian County,35.427,-98.189
-5361,Whitefield,Haskell County,35.253,-95.237
+5360,Whitefield,Haskell County,35.253,-95.237
 0782,Carmen,Alfalfa County,36.579,-98.462
-4415,Sand Hill,Muskogee County,35.634,-95.201
+4420,Sand Hill,Muskogee County,35.634,-95.201
 4223,Ripley,Payne County,36.018,-96.906
 0586,Bridge Creek,Grady County,35.235,-97.737
-4460,Sawyer,Choctaw County,34.014,-95.372
-5117,Vera,Washington County,36.449,-95.881
+4465,Sawyer,Choctaw County,34.014,-95.372
+5116,Vera,Washington County,36.449,-95.881
 2539,Katie,Garvin County,34.580,-97.352
 0346,Bell,Adair County,35.718,-94.576
-5041,Twin Oaks,Delaware County,36.205,-94.851
+5040,Twin Oaks,Delaware County,36.205,-94.851
 2849,Little Rock,Mayes County,36.222,-95.083
 0737,Cameron,Le Flore County,35.134,-94.535
-5025,Tupelo,Coal County,34.605,-96.424
+5024,Tupelo,Coal County,34.605,-96.424
 0731,Calvin,Hughes County,34.968,-96.249
 1673,Fargo,Ellis County,36.376,-99.624
 0031,Agra,Lincoln County,35.895,-96.872
@@ -248,7 +248,7 @@ phoneme,name,county,latitude,longitude
 0385,Bennington,Bryan County,34.005,-96.038
 2483,Jennings,Pawnee County,36.181,-96.570
 2197,Haworth,McCurtain County,33.846,-94.653
-4913,Terral,Jefferson County,33.897,-97.936
+4912,Terral,Jefferson County,33.897,-97.936
 0757,Caney,Cherokee County,35.830,-94.840
 4050,Proctor,Adair County,35.966,-94.777
 2779,Lehigh,Coal County,34.469,-96.216
@@ -258,7 +258,7 @@ phoneme,name,county,latitude,longitude
 1296,Delaware,Nowata County,36.779,-95.639
 2790,Leonard,Tulsa County,35.920,-95.799
 3616,Oaks,Cherokee County,36.170,-94.853
-4417,Sand Point,Bryan County,33.965,-96.563
+4422,Sand Point,Bryan County,33.965,-96.563
 3219,Milburn,Johnston County,34.241,-96.549
 4294,Roosevelt,Kiowa County,34.849,-99.022
 4143,Red Rock,Noble County,36.459,-97.179
@@ -272,21 +272,21 @@ phoneme,name,county,latitude,longitude
 3147,Mead,Bryan County,34.000,-96.509
 4298,Rose,Mayes County,36.219,-95.030
 1553,Elm Grove,Adair County,35.796,-94.568
-4866,Sycamore,Delaware County,36.405,-94.713
+4865,Sycamore,Delaware County,36.405,-94.713
 2809,Liberty,Sequoyah County,35.477,-94.543
 0053,Alderson,Pittsburg County,34.900,-95.692
 3065,Marshall,Logan County,36.154,-97.626
 3237,Millerton,McCurtain County,33.986,-95.014
 2768,Lebanon,Marshall County,33.982,-96.907
 4273,Rocky Ford,Cherokee County,36.156,-94.911
-5355,White Oak,Craig County,36.620,-95.264
+5354,White Oak,Craig County,36.620,-95.264
 0698,Butler,Custer County,35.637,-99.186
 3017,Manitou,Tillman County,34.508,-98.983
 0757,Caney,Atoka County,34.232,-96.214
 2491,Jet,Alfalfa County,36.666,-98.181
 2135,Hanson,Sequoyah County,35.435,-94.699
 0572,Breckenridge,Garfield County,36.457,-97.725
-4760,Stuart,Hughes County,34.901,-96.099
+4759,Stuart,Hughes County,34.901,-96.099
 0705,Byars,McClain County,34.874,-97.050
 1370,Dougherty,Murray County,34.400,-97.056
 1517,Eldon,Cherokee County,35.928,-94.840
@@ -302,24 +302,24 @@ phoneme,name,county,latitude,longitude
 3928,Pittsburg,Pittsburg County,34.713,-95.850
 1812,Freedom,Woods County,36.769,-99.113
 1237,Dale,Pottawatomie County,35.390,-97.045
-4880,Taft,Muskogee County,35.762,-95.546
+4879,Taft,Muskogee County,35.762,-95.546
 1337,Dixon,Seminole County,35.160,-96.522
 1483,Edgewater Park,Comanche County,34.826,-98.378
 0158,Arcadia,Oklahoma County,35.667,-97.327
 0817,Castle,Okfuskee County,35.475,-96.382
 4041,Preston,Okmulgee County,35.711,-95.992
-4779,Stoney Point,Sequoyah County,35.596,-94.663
-5221,Warwick,Lincoln County,35.686,-97.004
+4778,Stoney Point,Sequoyah County,35.596,-94.663
+5220,Warwick,Lincoln County,35.686,-97.004
 1617,Etowah,Cleveland County,35.127,-97.169
-5365,Whitesboro,Le Flore County,34.693,-94.885
+5364,Whitesboro,Le Flore County,34.693,-94.885
 0698,Butler,Delaware County,36.539,-94.741
 0552,Boynton,Muskogee County,35.649,-95.656
-5477,Woodlawn Park,Oklahoma County,35.511,-97.650
+5476,Woodlawn Park,Oklahoma County,35.511,-97.650
 0485,Blue,Bryan County,33.996,-96.230
 2056,Greenville,Love County,34.007,-97.126
-4646,Spaulding,Hughes County,35.014,-96.440
+4651,Spaulding,Hughes County,35.014,-96.440
 2809,Liberty,Okmulgee County,35.853,-95.986
-5538,Zena,Delaware County,36.496,-94.854
+5537,Zena,Delaware County,36.496,-94.854
 0014,Adams,Texas County,36.756,-101.077
 3292,Monroe,Le Flore County,34.993,-94.517
 2415,Indianola,Pittsburg County,35.163,-95.775
@@ -336,27 +336,27 @@ phoneme,name,county,latitude,longitude
 3845,Peoria,Ottawa County,36.915,-94.670
 0686,Burlington,Alfalfa County,36.900,-98.423
 2551,Kemp,Bryan County,33.770,-96.354
-4523,Sharon,Woodward County,36.276,-99.336
+4528,Sharon,Woodward County,36.276,-99.336
 3413,Murphy,Mayes County,36.147,-95.245
 0838,Cayuga,Delaware County,36.634,-94.680
-4705,St. Louis,Pottawatomie County,35.074,-96.853
+4373,St. Louis,Pottawatomie County,35.074,-96.853
 3870,Phillips,Coal County,34.506,-96.220
 1594,Enterprise,Haskell County,35.230,-95.380
 3553,Norge,Grady County,34.988,-97.997
-5040,Twin Lakes,Logan County,35.868,-97.665
+5039,Twin Lakes,Logan County,35.868,-97.665
 0677,Burbank,Osage County,36.695,-96.732
-4648,Sparks,Lincoln County,35.608,-96.821
+4653,Sparks,Lincoln County,35.608,-96.821
 2712,Lamar,Hughes County,35.100,-96.127
 0174,Armstrong,Bryan County,34.051,-96.345
 1688,Faxon,Comanche County,34.457,-98.579
-5409,Willow,Greer County,35.051,-99.510
+5408,Willow,Greer County,35.051,-99.510
 2047,Greenfield,Blaine County,35.729,-98.378
 1072,Colony,Washita County,35.349,-98.677
 1122,Cornish,Jefferson County,34.159,-97.597
 3659,Olive,Creek County,36.028,-96.480
-4861,Sweetwater,Beckham County,35.415,-99.920
+4860,Sweetwater,Beckham County,35.415,-99.920
 2181,Hastings,Jefferson County,34.227,-98.110
-4824,Summit,Muskogee County,35.666,-95.423
+4823,Summit,Muskogee County,35.666,-95.423
 0470,Blanco,Pittsburg County,34.751,-95.774
 0587,Bridgeport,Caddo County,35.546,-98.385
 1780,Foss,Washita County,35.454,-99.170
@@ -366,7 +366,7 @@ phoneme,name,county,latitude,longitude
 2299,Hitchcock,Blaine County,35.969,-98.348
 1982,Gould,Harmon County,34.671,-99.771
 2353,Horntown,Hughes County,35.087,-96.248
-5178,Wainwright,Muskogee County,35.613,-95.564
+5177,Wainwright,Muskogee County,35.613,-95.564
 2555,Kendrick,Lincoln County,35.785,-96.778
 2705,Lakeside Village,Comanche County,34.798,-98.385
 3009,Manchester,Grant County,36.994,-98.038
@@ -378,7 +378,7 @@ phoneme,name,county,latitude,longitude
 2368,Hoyt,Haskell County,35.272,-95.302
 0555,Bradley,Grady County,34.878,-97.708
 1640,Fair Oaks,Rogers County,36.159,-95.691
-4596,Smithville,McCurtain County,34.467,-94.644
+4601,Smithville,McCurtain County,34.467,-94.644
 1285,Deer Creek,Grant County,36.806,-97.519
 2788,Leon,Love County,33.879,-97.429
 2288,Hillsdale,Garfield County,36.563,-97.991
@@ -389,7 +389,7 @@ phoneme,name,county,latitude,longitude
 0445,Bison,Garfield County,36.196,-97.890
 2933,Loyal,Kingfisher County,35.971,-98.121
 0454,Blackburn,Pawnee County,36.373,-96.596
-4789,Strang,Mayes County,36.411,-95.131
+4788,Strang,Mayes County,36.411,-95.131
 2817,Lima,Seminole County,35.174,-96.600
 4302,Rosedale,McClain County,34.918,-97.184
 1555,Elmer,Jackson County,34.481,-99.351
@@ -397,33 +397,33 @@ phoneme,name,county,latitude,longitude
 3418,Mutual,Woodward County,36.231,-99.168
 1879,Gate,Beaver County,36.853,-100.055
 0049,Albion,Pushmataha County,34.663,-95.100
-5257,Webb City,Osage County,36.807,-96.709
-4863,Swink,Choctaw County,34.018,-95.202
-4471,Scipio,Pittsburg County,35.055,-95.957
+5256,Webb City,Osage County,36.807,-96.709
+4862,Swink,Choctaw County,34.018,-95.202
+4476,Scipio,Pittsburg County,35.055,-95.957
 1371,Douglas,Garfield County,36.261,-97.669
 4315,Rosston,Harper County,36.813,-99.934
 0387,Bentley,Atoka County,34.215,-96.079
 1389,Dripping Springs,Delaware County,36.174,-94.672
 0440,Byron,Alfalfa County,36.902,-98.294
 1349,Dodge,Delaware County,36.574,-94.656
-5540,Zion,Adair County,35.783,-94.635
+5539,Zion,Adair County,35.783,-94.635
 0246,Baker,Texas County,36.869,-101.018
 0999,Clearview,Okfuskee County,35.397,-96.186
 2319,Hollister,Tillman County,34.342,-98.871
-4826,Sumner,Noble County,36.319,-97.121
+4825,Sumner,Noble County,36.319,-97.121
 3281,Moffett,Sequoyah County,35.390,-94.447
 0187,Ashland,Pittsburg County,34.768,-96.070
 1689,Fay,Dewey County,35.813,-98.658
-4799,Strong City,Roger Mills County,35.670,-99.600
+4798,Strong City,Roger Mills County,35.670,-99.600
 3100,May,Harper County,36.617,-99.747
 3915,Piney,Adair County,35.885,-94.542
 4067,Putnam,Dewey County,35.856,-98.968
-4519,Shamrock,Creek County,35.910,-96.584
+4524,Shamrock,Creek County,35.910,-96.584
 2980,Macomb,Pottawatomie County,35.147,-97.009
 1826,Friendship,Jackson County,34.696,-99.229
 1421,Durham,Roger Mills County,35.842,-99.925
 2359,Hough,Texas County,36.871,-101.577
-5095,Valley Park,Rogers County,36.293,-95.737
+5094,Valley Park,Rogers County,36.293,-95.737
 2923,Loveland,Tillman County,34.305,-98.772
 3188,Meridian,Logan County,35.842,-97.247
 3605,Oak Grove,Pawnee County,36.205,-96.338
@@ -478,13 +478,13 @@ phoneme,name,county,latitude,longitude
 4284,Roll,Roger Mills County,35.779,-99.711
 4316,Rossville,Lincoln County,35.594,-96.999
 4364,Sacred Heart,Pottawatomie County,35.001,-96.809
-4653,Spencerville,Choctaw County,34.142,-95.358
-4660,Spring Creek,Caddo County,35.262,-98.183
-4723,Stafford,Custer County,35.537,-99.122
-4731,Stanley,Pushmataha County,34.540,-95.470
-4803,Sturgis,Cimarron County,36.894,-102.070
-5048,Yuba,Bryan County,33.809,-96.204
-5124,Vernon,McIntosh County,35.216,-95.926
-5406,Willis,Marshall County,33.886,-96.829
-5425,Winchester,Woods County,36.957,-98.797
-5446,Wirt,Carter County,34.231,-97.532
+4658,Spencerville,Choctaw County,34.142,-95.358
+4665,Spring Creek,Caddo County,35.262,-98.183
+4722,Stafford,Custer County,35.537,-99.122
+4730,Stanley,Pushmataha County,34.540,-95.470
+4802,Sturgis,Cimarron County,36.894,-102.070
+5047,Yuba,Bryan County,33.809,-96.204
+5123,Vernon,McIntosh County,35.216,-95.926
+5405,Willis,Marshall County,33.886,-96.829
+5424,Winchester,Woods County,36.957,-98.797
+5445,Wirt,Carter County,34.231,-97.532

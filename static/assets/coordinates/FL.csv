@@ -1,20 +1,20 @@
 phoneme,name,county,latitude,longitude
 2463,Jacksonville,Duval County,30.332,-81.656
 3199,Miami,Miami-Dade County,25.774,-80.194
-4888,Tampa,Hillsborough County,27.948,-82.458
+4887,Tampa,Hillsborough County,27.948,-82.458
 3696,Orlando,Orange County,28.538,-81.379
-4717,St. Petersburg,Pinellas County,27.771,-82.679
-5288,West End,Miami-Dade County,25.632,-80.435
+4375,St. Petersburg,Pinellas County,27.771,-82.679
+5287,West End,Miami-Dade County,25.632,-80.435
 2324,Hollywood,Broward County,26.011,-80.149
 1845,Gainesville,Alachua County,29.652,-82.325
 3269,Miramar,Broward County,25.987,-80.232
 1000,Clearwater,Pinellas County,27.966,-82.800
 2699,Lakeland,Polk County,28.039,-81.950
 0562,Brandon,Hillsborough County,27.938,-82.286
-4663,Spring Hill,Hernando County,28.477,-82.525
+4668,Spring Hill,Hernando County,28.477,-82.525
 1260,Davie,Broward County,26.063,-80.233
 4239,Riverview,Hillsborough County,27.866,-82.326
-4839,Sunrise,Broward County,26.172,-80.262
+4838,Sunrise,Broward County,26.172,-80.262
 3942,Plantation,Broward County,26.128,-80.233
 3165,Melbourne,Brevard County,28.084,-80.608
 3899,Pine Hills,Orange County,28.558,-81.453
@@ -22,20 +22,20 @@ phoneme,name,county,latitude,longitude
 3200,Miami Beach,Miami-Dade County,25.791,-80.130
 2336,Homestead,Miami-Dade County,25.469,-80.478
 2554,Kendall,Miami-Dade County,25.667,-80.357
-5327,Weston,Broward County,26.100,-80.400
-5282,Wesley Chapel,Pasco County,28.240,-82.328
-4688,St. Cloud,Osceola County,28.249,-81.281
-5269,Wellington,Palm Beach County,26.659,-80.241
+5326,Weston,Broward County,26.100,-80.400
+5281,Wesley Chapel,Pasco County,28.240,-82.328
+4692,St. Cloud,Osceola County,28.249,-81.281
+5268,Wellington,Palm Beach County,26.659,-80.241
 3759,Palm Harbor,Pinellas County,28.084,-82.754
 2527,Jupiter,Palm Beach County,26.934,-80.094
-4433,Sanford,Seminole County,28.801,-81.273
+4438,Sanford,Seminole County,28.801,-81.273
 3571,North Miami,Miami-Dade County,25.890,-80.187
-5314,Westchester,Miami-Dade County,25.755,-80.327
+5313,Westchester,Miami-Dade County,25.755,-80.327
 3843,Pensacola,Escambia County,30.421,-87.217
 1142,Country Club,Miami-Dade County,25.939,-80.311
 1787,Four Corners,Lake County,28.333,-81.647
-4963,Titusville,Brevard County,28.612,-80.808
-5070,University,Hillsborough County,28.077,-82.433
+4962,Titusville,Brevard County,28.612,-80.808
+5069,University,Hillsborough County,28.077,-82.433
 3631,Ocoee,Orange County,28.569,-81.544
 0968,Clermont,Lake County,28.549,-81.773
 2040,Greenacres,Palm Beach County,26.624,-80.125
@@ -48,9 +48,9 @@ phoneme,name,county,latitude,longitude
 3786,Parkland,Broward County,26.310,-80.237
 3770,Panama City,Bay County,30.159,-85.660
 2704,Lakeside,Clay County,30.130,-81.768
-5070,University,Orange County,28.590,-81.204
+5069,University,Orange County,28.590,-81.204
 1452,East Lake,Pinellas County,28.100,-82.697
-5440,Winter Park,Orange County,28.600,-81.339
+5439,Winter Park,Orange County,28.600,-81.339
 0818,Casselberry,Seminole County,28.678,-81.328
 4266,Rockledge,Brevard County,28.351,-80.725
 1174,Crestview,Okaloosa County,30.762,-86.571
@@ -59,13 +59,13 @@ phoneme,name,county,latitude,longitude
 3760,Palm Springs,Palm Beach County,26.636,-80.096
 4347,Ruskin,Hillsborough County,27.721,-82.433
 2579,Key West,Monroe County,24.556,-81.783
-5114,Venice,Sarasota County,27.100,-82.454
-4492,Sebastian,Indian River County,27.816,-80.471
+5113,Venice,Sarasota County,27.100,-82.454
+4497,Sebastian,Indian River County,27.816,-80.471
 2582,Keystone,Hillsborough County,28.156,-82.621
 1960,Golden Gate,Collier County,26.185,-81.704
 3612,Oak Ridge,Orange County,28.475,-81.421
 0481,Bloomingdale,Hillsborough County,27.894,-82.240
-5501,Wright,Okaloosa County,30.456,-86.638
+5500,Wright,Okaloosa County,30.456,-86.638
 2952,Lutz,Hillsborough County,28.151,-82.461
 1626,Eustis,Lake County,28.853,-81.685
 3744,Pace,Santa Rosa County,30.599,-87.161
@@ -79,30 +79,30 @@ phoneme,name,county,latitude,longitude
 3216,Midway,Santa Rosa County,30.388,-86.991
 0284,Bartow,Polk County,27.896,-81.843
 3428,Naples,Collier County,26.142,-81.795
-4504,Seminole,Pinellas County,27.840,-82.791
+4509,Seminole,Pinellas County,27.840,-82.791
 2996,Maitland,Orange County,28.628,-81.363
-4861,Sweetwater,Miami-Dade County,25.763,-80.373
-5005,Trinity,Pasco County,28.181,-82.682
+4860,Sweetwater,Miami-Dade County,25.763,-80.373
+5004,Trinity,Pasco County,28.181,-82.682
 3908,Pinecrest,Miami-Dade County,25.667,-80.308
-4760,Stuart,Martin County,27.198,-80.253
+4759,Stuart,Martin County,27.198,-80.253
 0214,Auburndale,Polk County,28.065,-81.789
 3914,Pinewood,Miami-Dade County,25.869,-80.217
 3420,Myrtle Grove,Escambia County,30.421,-87.307
 0635,Brownsville,Miami-Dade County,25.821,-80.240
-5390,Wildwood,Sumter County,28.865,-82.039
-5218,Warrington,Escambia County,30.384,-87.275
+5389,Wildwood,Sumter County,28.865,-82.039
+5217,Warrington,Escambia County,30.384,-87.275
 2677,Lake Butler,Orange County,28.486,-81.554
-4942,Three Lakes,Miami-Dade County,25.642,-80.398
+4941,Three Lakes,Miami-Dade County,25.642,-80.398
 2895,Longwood,Seminole County,28.703,-81.338
-5304,West Park,Broward County,25.985,-80.199
+5303,West Park,Broward County,25.985,-80.199
 3265,Minneola,Lake County,28.574,-81.746
 3544,Nocatee,St. Johns County,30.107,-81.423
 1837,Fruitville,Sarasota County,27.330,-82.458
-4684,St. Augustine,St. Johns County,29.895,-81.315
-4840,Sunset,Miami-Dade County,25.706,-80.352
+4688,St. Augustine,St. Johns County,29.895,-81.315
+4839,Sunset,Miami-Dade County,25.706,-80.352
 2864,Lockhart,Orange County,28.619,-81.443
 1751,Forest City,Seminole County,28.667,-81.443
-5143,Villas,Lee County,26.550,-81.869
+5142,Villas,Lee County,26.550,-81.869
 3684,Orange City,Volusia County,28.949,-81.299
 2710,Lakewood Park,St. Lucie County,27.539,-80.387
 1097,Conway,Orange County,28.498,-81.333
@@ -117,7 +117,7 @@ phoneme,name,county,latitude,longitude
 2083,Gulfport,Pinellas County,27.748,-82.703
 2749,Laurel,Sarasota County,27.130,-82.453
 2373,Hudson,Pasco County,28.364,-82.693
-4494,Sebring,Highlands County,27.496,-81.441
+4499,Sebring,Highlands County,27.496,-81.441
 3170,Memphis,Manatee County,27.536,-82.561
 1259,Davenport,Polk County,28.161,-81.602
 1882,Gateway,Lee County,26.578,-81.750
@@ -129,21 +129,21 @@ phoneme,name,county,latitude,longitude
 3904,Pine Ridge,Citrus County,28.944,-82.476
 2243,Hernando,Citrus County,28.900,-82.375
 0625,Brooksville,Hernando County,28.555,-82.388
-5439,Winston,Polk County,28.039,-82.003
-5319,Westgate,Palm Beach County,26.703,-80.098
+5438,Winston,Polk County,28.039,-82.003
+5318,Westgate,Palm Beach County,26.703,-80.098
 2691,Lake Park,Palm Beach County,26.800,-80.066
 3201,Micco,Brevard County,27.881,-80.500
 1835,Fruitland Park,Lake County,28.861,-81.906
-4672,Springfield,Bay County,30.153,-85.611
+4677,Springfield,Bay County,30.153,-85.611
 4081,Quincy,Gadsden County,30.587,-84.583
 3130,McGregor,Lee County,26.561,-81.915
-5261,Wedgefield,Orange County,28.488,-81.077
+5260,Wedgefield,Orange County,28.488,-81.077
 3636,Odessa,Pasco County,28.194,-82.592
 3518,Newberry,Alachua County,29.646,-82.606
 2428,Inverness,Citrus County,28.836,-82.330
 3802,Pasadena Hills,Pasco County,28.288,-82.238
 0158,Arcadia,DeSoto County,27.216,-81.858
-5398,Williamsburg,Orange County,28.414,-81.443
+5397,Williamsburg,Orange County,28.414,-81.443
 2687,Lake Lorraine,Okaloosa County,30.442,-86.565
 2429,Inwood,Polk County,28.037,-81.765
 3848,Perry,Taylor County,30.117,-83.582
@@ -153,38 +153,38 @@ phoneme,name,county,latitude,longitude
 3830,Pelican Bay,Collier County,26.231,-81.806
 3048,Marianna,Jackson County,30.774,-85.227
 2538,Kathleen,Polk County,28.121,-82.023
-4641,Southgate,Sarasota County,27.308,-82.510
+4646,Southgate,Sarasota County,27.308,-82.510
 1205,Crystal Lake,Polk County,28.036,-81.908
-4740,Starke,Bradford County,29.944,-82.110
+4739,Starke,Bradford County,29.944,-82.110
 3627,Ocean City,Okaloosa County,30.441,-86.614
 1408,Dundee,Polk County,28.023,-81.619
 0356,Belleview,Marion County,29.055,-82.062
 1909,Gifford,Indian River County,27.672,-80.416
 1542,Ellenton,Manatee County,27.522,-82.528
 1128,Cortez,Manatee County,27.469,-82.686
-4631,South Pasadena,Pinellas County,27.755,-82.738
+4636,South Pasadena,Pinellas County,27.755,-82.738
 1771,Fort Meade,Polk County,27.752,-81.802
-5098,Valparaiso,Okaloosa County,30.509,-86.503
-5348,White City,St. Lucie County,27.374,-80.334
+5097,Valparaiso,Okaloosa County,30.509,-86.503
+5347,White City,St. Lucie County,27.374,-80.334
 1161,Crawfordville,Wakulla County,30.176,-84.375
 4232,River Ridge,Pasco County,28.267,-82.625
 3942,Plantation,Sarasota County,27.068,-82.373
 1907,Gibsonia,Polk County,28.113,-81.971
 3784,Parker,Bay County,30.131,-85.603
-4900,Taylor Creek,Okeechobee County,27.217,-80.790
+4899,Taylor Creek,Okeechobee County,27.217,-80.790
 3319,Moon Lake,Pasco County,28.298,-82.606
-5373,Whitfield,Manatee County,27.412,-82.566
+5372,Whitfield,Manatee County,27.412,-82.566
 2270,Highland Beach,Palm Beach County,26.400,-80.066
 0656,Buckingham,Lee County,26.675,-81.732
 3819,Pea Ridge,Santa Rosa County,30.599,-87.100
 0238,Bagdad,Santa Rosa County,30.599,-87.031
 0100,Alturas,Polk County,27.872,-81.715
 2671,Laguna Beach,Bay County,30.240,-85.924
-5488,Woodville,Leon County,30.314,-84.247
+5487,Woodville,Leon County,30.314,-84.247
 3403,Mulberry,Polk County,27.895,-81.973
-4950,Tierra Verde,Pinellas County,27.692,-82.723
+4949,Tierra Verde,Pinellas County,27.692,-82.723
 2268,High Point,Hernando County,28.547,-82.525
-5055,Umatilla,Lake County,28.929,-81.666
+5054,Umatilla,Lake County,28.929,-81.666
 2474,Jasper,Hamilton County,30.518,-82.948
 3620,Oakland,Orange County,28.555,-81.633
 3546,Nokomis,Sarasota County,27.119,-82.444
@@ -192,7 +192,7 @@ phoneme,name,county,latitude,longitude
 3216,Midway,Gadsden County,30.495,-84.454
 0848,Cedar Grove,Bay County,30.171,-85.625
 1434,Eagle Lake,Polk County,27.978,-81.756
-5407,Williston,Levy County,29.387,-82.447
+5406,Williston,Levy County,29.387,-82.447
 0697,Bushnell,Sumter County,28.665,-82.113
 3968,Point Baker,Santa Rosa County,30.690,-87.054
 2283,Hilliard,Nassau County,30.691,-81.917
@@ -201,27 +201,27 @@ phoneme,name,county,latitude,longitude
 2984,Madison,Madison County,30.469,-83.413
 0103,Alva,Lee County,26.716,-81.610
 1888,Geneva,Seminole County,28.737,-81.118
-4572,Silver Springs,Marion County,29.216,-82.058
+4577,Silver Springs,Marion County,29.216,-82.058
 1462,Eastpoint,Franklin County,29.737,-84.879
-5267,Wellborn,Suwannee County,30.231,-82.819
+5266,Wellborn,Suwannee County,30.231,-82.819
 2042,Greenbriar,Pinellas County,28.011,-82.752
 1005,Cleveland,Charlotte County,26.962,-81.984
 1484,Edgewood,Orange County,28.486,-81.372
 0742,Campbell,Osceola County,28.261,-81.450
 3310,Monticello,Jefferson County,30.545,-83.870
-4570,Silver Lake,Lake County,28.842,-81.798
+4575,Silver Lake,Lake County,28.842,-81.798
 1963,Goldsboro,Seminole County,28.801,-81.280
-5234,Watertown,Columbia County,30.192,-82.615
+5233,Watertown,Columbia County,30.192,-82.615
 2146,Harlem,Hendry County,26.738,-80.951
 0542,Bowling Green,Hardee County,27.638,-81.824
 2692,Lake Placid,Highlands County,27.293,-81.363
 1467,Eatonville,Orange County,28.615,-81.381
-4880,Taft,Orange County,28.429,-81.368
+4879,Taft,Orange County,28.429,-81.368
 2191,Haverhill,Palm Beach County,26.691,-80.120
-5321,Westlake,Palm Beach County,26.758,-80.307
+5320,Westlake,Palm Beach County,26.758,-80.307
 2072,Grove City,Charlotte County,26.912,-82.325
 1985,Graceville,Jackson County,30.957,-85.517
-5000,Trenton,Gilchrist County,29.613,-82.818
+4999,Trenton,Gilchrist County,29.613,-82.818
 3607,Oak Hill,Volusia County,28.864,-80.855
 1857,Gandy,Pinellas County,27.869,-82.625
 2677,Lake Butler,Union County,30.023,-82.340
@@ -229,25 +229,25 @@ phoneme,name,county,latitude,longitude
 1508,El Portal,Miami-Dade County,25.855,-80.193
 0316,Bear Creek,Pinellas County,27.756,-82.727
 3904,Pine Ridge,Collier County,26.231,-81.796
-5193,Wallace,Santa Rosa County,30.677,-87.180
+5192,Wallace,Santa Rosa County,30.677,-87.180
 0875,Century,Escambia County,30.973,-87.264
 2189,Havana,Gadsden County,30.624,-84.415
 1168,Crescent City,Putnam County,29.430,-81.511
-4703,St. Leo,Pasco County,28.337,-82.258
+4705,St. Leo,Pasco County,28.337,-82.258
 2315,Holley,Santa Rosa County,30.447,-86.907
-5165,Wabasso,Indian River County,27.747,-80.435
+5164,Wabasso,Indian River County,27.747,-80.435
 4303,Roseland,Indian River County,27.835,-80.489
 2683,Lake Hamilton,Polk County,28.044,-81.628
 3823,Pierson,Volusia County,29.239,-81.466
 0723,Callahan,Nassau County,30.562,-81.831
 2198,Hawthorne,Alachua County,29.592,-82.087
-5226,Washington Park,Broward County,26.133,-80.181
+5225,Washington Park,Broward County,26.133,-80.181
 2426,Interlachen,Putnam County,29.624,-81.890
 1801,Franklin Park,Broward County,26.134,-80.176
 0193,Astor,Lake County,29.162,-81.525
 0249,Baldwin,Duval County,30.303,-81.975
 2063,Gretna,Gadsden County,30.617,-84.660
-4393,San Antonio,Pasco County,28.336,-82.275
+4398,San Antonio,Pasco County,28.336,-82.275
 3216,Midway,Seminole County,28.790,-81.231
 0613,Bronson,Levy County,29.448,-82.642
 0159,Archer,Alachua County,29.530,-82.519
@@ -257,7 +257,7 @@ phoneme,name,county,latitude,longitude
 1938,Glencoe,Volusia County,29.026,-80.972
 2684,Lake Hart,Orange County,28.389,-81.229
 0450,Black Diamond,Citrus County,28.912,-82.486
-4694,St. George Island,Franklin County,29.659,-84.879
+4697,St. George Island,Franklin County,29.659,-84.879
 1959,Golden Beach,Miami-Dade County,25.965,-80.122
 0601,Bristol,Liberty County,30.432,-84.976
 4167,Rio,Martin County,27.219,-80.239
@@ -267,8 +267,8 @@ phoneme,name,county,latitude,longitude
 4099,Raleigh,Levy County,29.442,-82.466
 1138,Cottondale,Jackson County,30.797,-85.377
 1207,Crystal Springs,Pasco County,28.181,-82.158
-5183,Waldo,Alachua County,29.790,-82.167
-5260,Webster,Sumter County,28.610,-82.055
+5182,Waldo,Alachua County,29.790,-82.167
+5259,Webster,Sumter County,28.610,-82.055
 2181,Hastings,St. Johns County,29.718,-81.508
 2151,Harold,Santa Rosa County,30.659,-86.880
 1861,Garden Grove,Hernando County,28.481,-82.435
@@ -276,13 +276,13 @@ phoneme,name,county,latitude,longitude
 3919,Pioneer,Hendry County,26.726,-81.219
 2483,Jennings,Hamilton County,30.604,-83.098
 0566,Branford,Suwannee County,29.959,-82.928
-5124,Vernon,Washington County,30.623,-85.712
+5123,Vernon,Washington County,30.623,-85.712
 1055,Coleman,Sumter County,28.800,-82.070
 0126,Andrews,Levy County,29.533,-82.882
 0225,Avalon,Santa Rosa County,30.537,-87.101
 2783,Lemon Grove,Hardee County,27.558,-81.678
 1456,East Williston,Levy County,29.388,-82.416
-5516,Yankeetown,Levy County,29.030,-82.716
+5515,Yankeetown,Levy County,29.030,-82.716
 3815,Paxton,Walton County,30.982,-86.307
 2750,Laurel Hill,Okaloosa County,30.966,-86.460
 2058,Greenwood,Jackson County,30.870,-85.162
@@ -293,34 +293,34 @@ phoneme,name,county,latitude,longitude
 0415,Beverly Beach,Flagler County,29.515,-81.144
 1700,Ferndale,Lake County,28.622,-81.703
 3133,McIntosh,Marion County,29.449,-82.222
-4664,Spring Lake,Hernando County,28.489,-82.308
+4669,Spring Lake,Hernando County,28.489,-82.308
 4145,Reddick,Marion County,29.367,-82.197
 2052,Greensboro,Gadsden County,30.569,-84.743
 3911,Pineland,Lee County,26.661,-82.153
 2126,Hampton,Bradford County,29.864,-82.131
 3007,Manalapan,Palm Beach County,26.569,-80.045
-5241,Wausau,Washington County,30.632,-85.589
+5240,Wausau,Washington County,30.632,-85.589
 2770,Lee,Madison County,30.420,-83.300
 2641,La Crosse,Alachua County,29.843,-82.405
 0808,Caryville,Washington County,30.773,-85.814
 2333,Homeland,Polk County,27.817,-81.825
-4707,St. Marks,Wakulla County,30.161,-84.206
-5427,Windsor,Indian River County,27.787,-80.414
-5331,Westville,Holmes County,30.775,-85.852
+4708,St. Marks,Wakulla County,30.161,-84.206
+5426,Windsor,Indian River County,27.787,-80.414
+5330,Westville,Holmes County,30.775,-85.852
 2273,Highland Park,Polk County,27.865,-81.562
 1965,Golf,Palm Beach County,26.499,-80.109
 2282,Hillcrest Heights,Polk County,27.821,-81.531
 1472,Ebro,Washington County,30.448,-85.874
 3926,Pittman,Lake County,29.000,-81.642
-4666,Spring Ridge,Gilchrist County,29.822,-82.724
+4671,Spring Ridge,Gilchrist County,29.822,-82.724
 1934,Glen Ridge,Palm Beach County,26.670,-80.074
 2761,Layton,Monroe County,24.824,-80.814
 0746,Campbellton,Jackson County,30.949,-85.402
 2861,Lloyd,Jefferson County,30.478,-84.022
 2717,Lamont,Jefferson County,30.377,-83.813
 1969,Goodland,Collier County,25.925,-81.646
-5243,Waverly,Polk County,27.979,-81.614
-4620,Sorrento,Lake County,28.808,-81.564
+5242,Waverly,Polk County,27.979,-81.614
+4625,Sorrento,Lake County,28.808,-81.564
 2844,Lisbon,Lake County,28.871,-81.790
 3900,Pine Island,Hernando County,28.575,-82.653
 3723,Otter Creek,Levy County,29.325,-82.772
@@ -400,26 +400,26 @@ phoneme,name,county,latitude,longitude
 4354,Rutland,Sumter County,28.853,-82.213
 4355,Rutledge,Alachua County,29.682,-82.410
 4358,Rye,Manatee County,27.514,-82.368
-4489,Seaside,Walton County,30.320,-86.138
-4514,Seville,Volusia County,29.317,-81.493
-4519,Shamrock,Dixie County,29.643,-83.145
-4535,Shell Point,Wakulla County,27.880,-82.484
-4644,Southport,Bay County,30.289,-85.641
-4662,Spring Grove,Alachua County,29.454,-82.106
-4664,Spring Lake,Highlands County,27.440,-81.310
-4700,St. Johns,St. Johns County,29.952,-81.518
-4701,St. Joseph,Pasco County,28.376,-82.287
-4828,Sumterville,Sumter County,28.747,-82.064
-4865,Switzerland,St. Johns County,30.076,-81.647
-4895,Tarrytown,Sumter County,28.555,-82.054
-5028,Turkey Creek,Hillsborough County,27.977,-82.185
-5083,Valdez,Volusia County,28.845,-81.322
-5116,Venus,Highlands County,27.067,-81.357
-5147,Vineland,Orange County,28.395,-81.503
-5169,Wadesboro,Leon County,30.505,-84.066
-5175,Wahoo,Sumter County,28.691,-82.196
-5230,Waterbury,Manatee County,27.446,-82.303
-5265,Welcome,Hillsborough County,27.865,-82.088
-5334,Wetumpka,Gadsden County,30.483,-84.623
-5427,Windsor,Alachua County,29.646,-82.186
-5480,Woodmere,Sarasota County,27.021,-82.391
+4372,St. Joseph,Pasco County,28.376,-82.287
+4494,Seaside,Walton County,30.320,-86.138
+4519,Seville,Volusia County,29.317,-81.493
+4524,Shamrock,Dixie County,29.643,-83.145
+4540,Shell Point,Wakulla County,27.880,-82.484
+4649,Southport,Bay County,30.289,-85.641
+4667,Spring Grove,Alachua County,29.454,-82.106
+4669,Spring Lake,Highlands County,27.440,-81.310
+4703,St. Johns,St. Johns County,29.952,-81.518
+4827,Sumterville,Sumter County,28.747,-82.064
+4864,Switzerland,St. Johns County,30.076,-81.647
+4894,Tarrytown,Sumter County,28.555,-82.054
+5027,Turkey Creek,Hillsborough County,27.977,-82.185
+5082,Valdez,Volusia County,28.845,-81.322
+5115,Venus,Highlands County,27.067,-81.357
+5146,Vineland,Orange County,28.395,-81.503
+5168,Wadesboro,Leon County,30.505,-84.066
+5174,Wahoo,Sumter County,28.691,-82.196
+5229,Waterbury,Manatee County,27.446,-82.303
+5264,Welcome,Hillsborough County,27.865,-82.088
+5333,Wetumpka,Gadsden County,30.483,-84.623
+5426,Windsor,Alachua County,29.646,-82.186
+5479,Woodmere,Sarasota County,27.021,-82.391

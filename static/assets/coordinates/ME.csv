@@ -3,19 +3,19 @@ phoneme,name,county,latitude,longitude
 2801,Lewiston,Androscoggin County,44.100,-70.215
 0256,Bangor,Penobscot County,44.801,-68.778
 0213,Auburn,Androscoggin County,44.098,-70.231
-4433,Sanford,York County,43.439,-70.774
+4438,Sanford,York County,43.439,-70.774
 0644,Brunswick,Cumberland County,43.896,-69.973
 4362,Saco,York County,43.501,-70.443
-5312,Westbrook,Cumberland County,43.677,-70.371
+5311,Westbrook,Cumberland County,43.677,-70.371
 0218,Augusta,Kennebec County,44.311,-69.779
-5426,Windham,Cumberland County,43.795,-70.405
-5235,Waterville,Kennebec County,44.552,-69.632
-5523,York,York County,43.165,-70.591
+5425,Windham,Cumberland County,43.795,-70.405
+5234,Waterville,Kennebec County,44.552,-69.632
+5522,York,York County,43.165,-70.591
 3698,Orono,Penobscot County,44.882,-68.739
-5271,Wells,York County,43.311,-70.633
+5270,Wells,York County,43.311,-70.633
 2844,Lisbon,Androscoggin County,44.020,-70.079
-4978,Topsham,Sagadahoc County,43.965,-69.956
-5518,Yarmouth,Cumberland County,43.788,-70.156
+4977,Topsham,Sagadahoc County,43.965,-69.956
+5517,Yarmouth,Cumberland County,43.788,-70.156
 0294,Bath,Sagadahoc County,43.911,-69.821
 4040,Presque Isle,Aroostook County,46.681,-68.016
 1815,Freeport,Cumberland County,43.845,-70.090
@@ -24,7 +24,7 @@ phoneme,name,county,latitude,longitude
 0704,Buxton,York County,43.636,-70.539
 2021,Gray,Cumberland County,43.905,-70.368
 0405,Berwick,York County,43.299,-70.842
-5438,Winslow,Kennebec County,44.524,-69.577
+5437,Winslow,Kennebec County,44.524,-69.577
 2124,Hampden,Penobscot County,44.733,-68.883
 1679,Farmington,Franklin County,44.677,-70.141
 1977,Gorham,Cumberland County,43.680,-70.444
@@ -37,7 +37,7 @@ phoneme,name,county,latitude,longitude
 2240,Hermon,Penobscot County,44.820,-68.917
 1647,Fairfield,Somerset County,44.652,-69.661
 3620,Oakland,Kennebec County,44.579,-69.733
-5443,Winthrop,Kennebec County,44.310,-69.963
+5442,Winthrop,Kennebec County,44.310,-69.963
 2328,Houlton,Aroostook County,46.140,-67.842
 1865,Gardiner,Kennebec County,44.230,-69.775
 3972,Poland,Androscoggin County,44.048,-70.394
@@ -46,10 +46,10 @@ phoneme,name,county,latitude,longitude
 3779,Paris,Oxford County,44.248,-70.491
 3593,Norway,Oxford County,44.226,-70.610
 0660,Bucksport,Hancock County,44.642,-68.760
-5213,Warren,Knox County,44.128,-69.244
+5212,Warren,Knox County,44.128,-69.244
 2822,Lincoln,Penobscot County,45.355,-68.440
 2318,Hollis,York County,43.631,-70.614
-4559,Sidney,Kennebec County,44.438,-69.756
+4564,Sidney,Kennebec County,44.438,-69.756
 2984,Madison,Somerset County,44.826,-69.800
 2476,Jay,Franklin County,44.517,-70.202
 1937,Glenburn,Penobscot County,44.893,-68.845
@@ -61,7 +61,7 @@ phoneme,name,county,latitude,longitude
 1421,Durham,Androscoggin County,43.956,-70.132
 3290,Monmouth,Kennebec County,44.233,-70.015
 3929,Pittsfield,Somerset County,44.770,-69.434
-5423,Wilton,Franklin County,44.628,-70.249
+5422,Wilton,Franklin County,44.628,-70.249
 1329,Dexter,Penobscot County,45.041,-69.282
 4267,Rockport,Knox County,44.170,-69.093
 2846,Litchfield,Kennebec County,44.172,-69.934
@@ -69,7 +69,7 @@ phoneme,name,county,latitude,longitude
 1010,Clinton,Kennebec County,44.665,-69.541
 2310,Holden,Penobscot County,44.762,-68.676
 0344,Belgrade,Kennebec County,44.523,-69.838
-5492,Woolwich,Sagadahoc County,43.960,-69.769
+5491,Woolwich,Sagadahoc County,43.960,-69.769
 3527,Newport,Penobscot County,44.867,-69.219
 3223,Milford,Penobscot County,44.993,-68.576
 0714,Calais,Washington County,45.189,-67.279
@@ -83,19 +83,19 @@ phoneme,name,county,latitude,longitude
 0489,Blue Hill,Hancock County,44.402,-68.528
 0912,Chelsea,Kennebec County,44.266,-69.730
 3266,Minot,Androscoggin County,44.138,-70.336
-4932,Thomaston,Knox County,44.108,-69.171
+4931,Thomaston,Knox County,44.108,-69.171
 3197,Mexico,Oxford County,44.553,-70.495
 0389,Benton,Kennebec County,44.591,-69.518
 0011,Acton,York County,43.537,-70.940
-5427,Windsor,Kennebec County,44.315,-69.571
-4693,St. George,Knox County,43.909,-69.233
+5426,Windsor,Kennebec County,44.315,-69.571
+4370,St. George,Knox County,43.909,-69.233
 2478,Jefferson,Lincoln County,44.172,-69.515
 4130,Readfield,Kennebec County,44.384,-69.950
 2128,Hancock,Hancock County,44.525,-68.285
 2159,Harrison,Cumberland County,44.103,-70.652
 3009,Manchester,Kennebec County,44.342,-69.862
-5361,Whitefield,Lincoln County,44.198,-69.620
-5059,Union,Knox County,44.229,-69.287
+5360,Whitefield,Lincoln County,44.198,-69.620
+5058,Union,Knox County,44.229,-69.287
 2829,Lincolnville,Waldo County,44.295,-69.066
 3250,Milo,Piscataquis County,45.270,-68.988
 2771,Leeds,Androscoggin County,44.295,-70.133
@@ -105,8 +105,8 @@ phoneme,name,county,latitude,longitude
 3873,Phippsburg,Sagadahoc County,43.741,-69.826
 2856,Livermore,Androscoggin County,44.412,-70.216
 1268,Dayton,York County,43.551,-70.574
-4682,St. Albans,Somerset County,44.927,-69.387
-5100,Van Buren,Aroostook County,47.181,-68.008
+4687,St. Albans,Somerset County,44.927,-69.387
+5099,Van Buren,Aroostook County,47.181,-68.008
 0049,Albion,Kennebec County,44.508,-69.445
 3765,Palmyra,Somerset County,44.843,-69.368
 2973,Machias,Washington County,44.696,-67.444
@@ -119,20 +119,20 @@ phoneme,name,county,latitude,longitude
 2345,Hope,Knox County,44.241,-69.189
 1282,Dedham,Hancock County,44.701,-68.558
 0629,Brownfield,Oxford County,43.931,-70.919
-4847,Surry,Hancock County,44.467,-68.507
+4846,Surry,Hancock County,44.467,-68.507
 3523,Newfield,York County,43.638,-70.876
 2298,Hiram,Oxford County,43.849,-70.831
-5187,Wales,Androscoggin County,44.151,-70.062
-5000,Trenton,Hancock County,44.466,-68.391
+5186,Wales,Androscoggin County,44.151,-70.062
+4999,Trenton,Hancock County,44.466,-68.391
 4002,Porter,Oxford County,43.838,-70.947
 3516,Newburgh,Penobscot County,44.705,-69.013
 0896,Charleston,Penobscot County,45.078,-69.031
-5224,Washington,Knox County,44.261,-69.392
+5223,Washington,Knox County,44.261,-69.392
 3755,Palermo,Waldo County,44.396,-69.431
-5231,Waterford,Oxford County,44.203,-70.722
+5230,Waterford,Oxford County,44.203,-70.722
 1800,Franklin,Hancock County,44.601,-68.244
 3584,Northport,Waldo County,44.359,-68.990
-4998,Tremont,Hancock County,44.257,-68.458
+4997,Tremont,Hancock County,44.257,-68.458
 4026,Pownal,Cumberland County,43.904,-70.182
 0249,Baldwin,Cumberland County,43.839,-70.745
 1122,Cornish,York County,43.767,-70.809
@@ -145,8 +145,8 @@ phoneme,name,county,latitude,longitude
 0149,Appleton,Knox County,44.298,-69.270
 1587,Enfield,Penobscot County,45.284,-68.582
 2373,Hudson,Penobscot County,44.993,-68.888
-4857,Swanville,Waldo County,44.517,-69.012
-5486,Woodstock,Oxford County,44.401,-70.558
+4856,Swanville,Waldo County,44.517,-69.012
+5485,Woodstock,Oxford County,44.401,-70.558
 3063,Mars Hill,Aroostook County,46.559,-67.853
 0933,Chesterville,Franklin County,44.539,-70.109
 0243,Baileyville,Washington County,45.182,-67.442
@@ -154,43 +154,43 @@ phoneme,name,county,latitude,longitude
 3963,Plymouth,Penobscot County,44.785,-69.236
 1460,Easton,Aroostook County,46.633,-67.848
 1463,Eastport,Washington County,44.906,-66.990
-4816,Sullivan,Hancock County,44.535,-68.153
+4815,Sullivan,Hancock County,44.535,-68.153
 2220,Hebron,Oxford County,44.209,-70.389
 1799,Frankfort,Waldo County,44.599,-68.928
 2166,Hartford,Oxford County,44.394,-70.331
 1616,Etna,Penobscot County,44.764,-69.128
-4497,Sedgwick,Hancock County,44.347,-68.634
+4502,Sedgwick,Hancock County,44.347,-68.634
 1309,Denmark,Oxford County,43.996,-70.814
-5471,Woodland,Aroostook County,46.884,-68.120
+5470,Woodland,Aroostook County,46.884,-68.120
 1690,Fayette,Kennebec County,44.434,-70.067
 0554,Bradford,Penobscot County,45.088,-68.907
 3161,Medway,Penobscot County,45.642,-68.479
 0019,Addison,Washington County,44.523,-67.707
 0637,Brownville,Piscataquis County,45.357,-69.018
 1826,Friendship,Knox County,43.953,-69.347
-4758,Steuben,Washington County,44.482,-67.939
+4757,Steuben,Washington County,44.482,-67.939
 4182,Rome,Kennebec County,44.571,-69.893
 0762,Canton,Oxford County,44.491,-70.295
-4798,Strong,Franklin County,44.786,-70.209
-5246,Wayne,Kennebec County,44.342,-70.068
+4797,Strong,Franklin County,44.786,-70.209
+5245,Wayne,Kennebec County,44.342,-70.068
 2924,Lovell,Oxford County,44.192,-70.886
 0688,Burnham,Waldo County,44.674,-69.386
-4622,South Bristol,Lincoln County,43.882,-69.550
+4627,South Bristol,Lincoln County,43.882,-69.550
 1894,Georgetown,Sagadahoc County,43.708,-69.758
-4780,Stonington,Hancock County,44.150,-68.645
+4779,Stonington,Hancock County,44.150,-68.645
 1822,Frenchville,Aroostook County,47.274,-68.398
-5013,Troy,Waldo County,44.674,-69.252
-5471,Woodland,Washington County,45.157,-67.405
+5012,Troy,Waldo County,44.674,-69.252
+5470,Woodland,Washington County,45.157,-67.405
 3316,Montville,Waldo County,44.433,-69.292
 0622,Brooks,Waldo County,44.538,-69.122
 1867,Garland,Penobscot County,45.077,-69.159
 0947,Chisholm,Franklin County,44.481,-70.200
 0370,Belmont,Waldo County,44.389,-69.119
-4826,Sumner,Oxford County,44.381,-70.449
+4825,Sumner,Oxford County,44.381,-70.449
 3347,Morrill,Waldo County,44.428,-69.170
-4637,South Windham,Cumberland County,43.736,-70.424
+4642,South Windham,Cumberland County,43.736,-70.424
 2853,Littleton,Aroostook County,46.236,-67.843
-4614,Solon,Somerset County,44.939,-69.808
+4619,Solon,Somerset County,44.939,-69.808
 2156,Harrington,Washington County,44.528,-67.800
 1638,Exeter,Penobscot County,44.963,-69.125
 0197,Athens,Somerset County,44.965,-69.667
@@ -199,8 +199,8 @@ phoneme,name,county,latitude,longitude
 2839,Linneus,Aroostook County,46.050,-67.972
 0062,Alfred,York County,43.476,-70.718
 3292,Monroe,Waldo County,44.598,-69.058
-5223,Washburn,Aroostook County,46.790,-68.158
-4592,Smithfield,Somerset County,44.642,-69.800
+5222,Washburn,Aroostook County,46.790,-68.158
+4597,Smithfield,Somerset County,44.642,-69.800
 3870,Phillips,Franklin County,44.842,-70.370
 2770,Lee,Penobscot County,45.376,-68.298
 1323,Detroit,Somerset County,44.773,-69.302
@@ -213,13 +213,13 @@ phoneme,name,county,latitude,longitude
 0139,Anson,Somerset County,44.798,-69.889
 2149,Harmony,Somerset County,44.977,-69.546
 0097,Alton,Penobscot County,45.043,-68.774
-5183,Waldo,Waldo County,44.466,-69.093
+5182,Waldo,Waldo County,44.466,-69.093
 0821,Castine,Hancock County,44.388,-68.800
 3848,Perry,Washington County,44.984,-67.101
 2625,Knox,Waldo County,44.518,-69.217
 2028,Greene,Androscoggin County,44.190,-70.140
 1434,Eagle Lake,Aroostook County,47.058,-68.656
-4542,Sherman,Aroostook County,45.890,-68.359
+4547,Sherman,Aroostook County,45.890,-68.359
 3833,Pembroke,Washington County,44.917,-67.135
 2417,Industry,Franklin County,44.751,-70.049
 2058,Greenwood,Oxford County,44.346,-70.656
@@ -232,92 +232,92 @@ phoneme,name,county,latitude,longitude
 3183,Mercer,Somerset County,44.645,-69.908
 3519,Newcastle,Lincoln County,44.035,-69.537
 4053,Prospect,Waldo County,44.565,-68.873
-4485,Sebec,Piscataquis County,45.243,-69.105
+4490,Sebec,Piscataquis County,45.243,-69.105
 3719,Otis,Hancock County,44.722,-68.490
 0002,Abbot,Piscataquis County,45.193,-69.494
 0463,Blaine,Aroostook County,46.488,-67.847
 1626,Eustis,Franklin County,45.171,-70.511
 3617,Oakfield,Aroostook County,46.074,-68.114
-5030,Turner,Androscoggin County,44.256,-70.256
+5029,Turner,Androscoggin County,44.256,-70.256
 2670,Lagrange,Penobscot County,45.166,-68.808
-4644,Southport,Lincoln County,43.813,-69.663
+4649,Southport,Lincoln County,43.813,-69.663
 3296,Monson,Piscataquis County,45.297,-69.499
 2460,Jackson,Waldo County,44.616,-69.142
-4618,Somerville,Lincoln County,44.289,-69.486
-4742,Starks,Somerset County,44.737,-69.954
+4623,Somerville,Lincoln County,44.289,-69.486
+4741,Starks,Somerset County,44.737,-69.954
 2168,Hartland,Somerset County,44.883,-69.448
 2511,Jonesboro,Washington County,44.666,-67.595
 0409,Bethel,Oxford County,44.404,-70.791
-5137,Vienna,Kennebec County,44.555,-70.000
+5136,Vienna,Kennebec County,44.555,-70.000
 0187,Ashland,Aroostook County,46.631,-68.406
 3506,New Sweden,Aroostook County,46.976,-68.115
 0930,Chester,Penobscot County,45.433,-68.506
 3069,Marshfield,Washington County,44.750,-67.475
-4907,Temple,Franklin County,44.697,-70.267
+4906,Temple,Franklin County,44.697,-70.267
 1226,Cutler,Washington County,44.649,-67.225
 0057,Alexander,Washington County,45.086,-67.476
 1915,Guilford,Piscataquis County,45.169,-69.384
 0592,Bridgewater,Aroostook County,46.414,-67.849
 0805,Carthage,Franklin County,44.599,-70.411
 2847,Little Falls,Cumberland County,43.731,-70.428
-5374,Whiting,Washington County,44.760,-67.255
+5373,Whiting,Washington County,44.760,-67.255
 0891,Chapman,Aroostook County,46.599,-68.119
 1077,Columbia Falls,Washington County,44.699,-67.714
 4223,Ripley,Somerset County,44.997,-69.404
 3358,Moscow,Somerset County,45.136,-69.876
-5317,Westfield,Aroostook County,46.533,-67.966
+5316,Westfield,Aroostook County,46.533,-67.966
 0231,Avon,Franklin County,44.777,-70.308
 0735,Cambridge,Somerset County,45.044,-69.450
 1068,Columbia,Washington County,44.673,-67.810
-4598,Smyrna,Aroostook County,46.161,-68.104
+4603,Smyrna,Aroostook County,46.161,-68.104
 2941,Ludlow,Aroostook County,46.162,-67.968
-4691,St. Francis,Aroostook County,47.134,-68.865
+4695,St. Francis,Aroostook County,47.134,-68.865
 3567,North Haven,Knox County,44.102,-68.953
 3428,Naples,Cumberland County,43.972,-70.609
 3528,Newry,Oxford County,44.520,-70.856
-4858,Sweden,Oxford County,44.123,-70.805
-4787,Stow,Oxford County,44.201,-70.972
-5433,Winn,Penobscot County,45.477,-68.339
+4857,Sweden,Oxford County,44.123,-70.805
+4786,Stow,Oxford County,44.201,-70.972
+5432,Winn,Penobscot County,45.477,-68.339
 0686,Burlington,Penobscot County,45.262,-68.394
-4722,Stacyville,Penobscot County,45.897,-68.495
+4721,Stacyville,Penobscot County,45.897,-68.495
 2930,Lowell,Penobscot County,45.214,-68.507
 0822,Castle Hill,Aroostook County,46.698,-68.227
 4330,Roxbury,Oxford County,44.664,-70.602
 3846,Perham,Aroostook County,46.892,-68.216
 1992,Grand Isle,Aroostook County,47.251,-68.143
 0899,Charlotte,Washington County,45.011,-67.273
-5204,Waltham,Hancock County,44.664,-68.312
+5203,Waltham,Hancock County,44.664,-68.312
 1312,Dennysville,Washington County,44.924,-67.246
-4672,Springfield,Penobscot County,45.399,-68.174
+4677,Springfield,Penobscot County,45.399,-68.174
 0827,Caswell,Aroostook County,47.018,-67.864
 2134,Hanover,Oxford County,44.495,-70.734
-4620,Sorrento,Hancock County,44.476,-68.180
-5069,Unity,Waldo County,44.611,-69.334
-4776,Stoneham,Oxford County,44.263,-70.875
-4550,Shirley,Piscataquis County,45.358,-69.630
+4625,Sorrento,Hancock County,44.476,-68.180
+5068,Unity,Waldo County,44.611,-69.334
+4775,Stoneham,Oxford County,44.263,-70.875
+4555,Shirley,Piscataquis County,45.358,-69.630
 0114,Amherst,Hancock County,44.870,-68.400
 0116,Amity,Aroostook County,45.913,-67.845
-4771,Stockholm,Aroostook County,47.069,-68.123
+4770,Stockholm,Aroostook County,47.069,-68.123
 1202,Crystal,Aroostook County,45.989,-68.384
-5327,Weston,Aroostook County,45.723,-67.865
+5326,Weston,Aroostook County,45.723,-67.865
 3157,Medford,Piscataquis County,45.287,-68.895
 2890,Long Island,Cumberland County,43.677,-70.155
-5167,Wade,Aroostook County,46.796,-68.249
-5269,Wellington,Piscataquis County,45.077,-69.586
+5166,Wade,Aroostook County,46.796,-68.249
+5268,Wellington,Piscataquis County,45.077,-69.586
 3189,Merrill,Aroostook County,46.171,-68.267
-5488,Woodville,Penobscot County,45.525,-68.450
-4727,Standish,Cumberland County,43.736,-70.552
+5487,Woodville,Penobscot County,45.525,-68.450
+4726,Standish,Cumberland County,43.736,-70.552
 1914,Gilead,Oxford County,44.403,-70.943
-4977,Topsfield,Washington County,45.443,-67.772
+4976,Topsfield,Washington County,45.443,-67.772
 3581,Northfield,Washington County,44.820,-67.615
 1103,Cooper,Washington County,44.989,-67.423
 2989,Madrid,Franklin County,44.884,-70.438
 2122,Hamlin,Aroostook County,47.078,-67.885
-5105,Vanceboro,Washington County,45.563,-67.430
+5104,Vanceboro,Washington County,45.563,-67.430
 3691,Orient,Aroostook County,45.822,-67.855
-5404,Willimantic,Piscataquis County,45.303,-69.380
+5403,Willimantic,Piscataquis County,45.303,-69.380
 1488,Edinburg,Penobscot County,45.169,-68.689
-5281,Wesley,Washington County,44.915,-67.637
+5280,Wesley,Washington County,44.915,-67.637
 0440,Byron,Oxford County,44.703,-70.648
 2708,Lakeville,Penobscot County,45.303,-68.086
 2106,Haynesville,Aroostook County,45.783,-67.993
@@ -325,6 +325,6 @@ phoneme,name,county,latitude,longitude
 2123,Hammond,Aroostook County,46.227,-67.975
 0221,Aurora,Hancock County,44.875,-68.267
 2246,Hersey,Aroostook County,46.077,-68.358
-4883,Talmadge,Washington County,45.338,-67.772
-5077,Upton,Oxford County,44.729,-70.984
+4882,Talmadge,Washington County,45.338,-67.772
+5076,Upton,Oxford County,44.729,-70.984
 3705,Osborn,Hancock County,44.796,-68.245

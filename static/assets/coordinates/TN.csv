@@ -11,8 +11,8 @@ phoneme,name,county,latitude,longitude
 2460,Jackson,Madison County,35.615,-88.814
 2230,Hendersonville,Sumner County,36.305,-86.620
 0280,Bartlett,Shelby County,35.205,-89.874
-4598,Smyrna,Rutherford County,35.969,-86.529
-4663,Spring Hill,Maury County,35.747,-86.917
+4603,Smyrna,Rutherford County,35.969,-86.529
+4668,Spring Hill,Maury County,35.747,-86.917
 1062,Collierville,Shelby County,35.042,-89.665
 1005,Cleveland,Bradley County,35.160,-84.877
 1850,Gallatin,Sumner County,36.388,-86.447
@@ -26,16 +26,16 @@ phoneme,name,county,latitude,longitude
 3351,Morristown,Hamblen County,36.204,-83.300
 0601,Bristol,Sullivan County,36.595,-82.189
 1682,Farragut,Knox County,35.876,-84.180
-4533,Shelbyville,Bedford County,35.483,-86.460
-4672,Springfield,Robertson County,36.509,-86.885
+4538,Shelbyville,Bedford County,35.483,-86.460
+4677,Springfield,Robertson County,36.509,-86.885
 1337,Dickson,Dickson County,36.077,-87.388
-4516,Seymour,Blount County,35.883,-83.762
+4521,Seymour,Blount County,35.883,-83.762
 0170,Arlington,Shelby County,35.296,-89.661
 0197,Athens,McMinn County,35.443,-84.593
 3141,McMinnville,Warren County,35.683,-85.770
 2699,Lakeland,Shelby County,35.231,-89.740
 4020,Powell,Knox County,36.032,-84.028
-5353,White House,Robertson County,36.465,-86.666
+5352,White House,Robertson County,36.465,-86.666
 4004,Portland,Robertson County,36.597,-86.527
 3009,Manchester,Coffee County,35.482,-86.089
 2800,Lewisburg,Marshall County,35.449,-86.789
@@ -44,7 +44,7 @@ phoneme,name,county,latitude,longitude
 4132,Red Bank,Hamilton County,35.112,-85.294
 2757,Lawrenceburg,Lawrence County,35.242,-87.335
 3204,Middle Valley,Hamilton County,35.196,-85.185
-5061,Union City,Obion County,36.424,-89.057
+5060,Union City,Obion County,36.424,-89.057
 3072,Martin,Weakley County,36.343,-88.850
 3241,Millington,Shelby County,35.341,-89.897
 3779,Paris,Henry County,36.302,-88.327
@@ -52,7 +52,7 @@ phoneme,name,county,latitude,longitude
 1010,Clinton,Anderson County,36.103,-84.132
 1657,Fairview,Williamson County,35.982,-87.121
 0635,Brownsville,Haywood County,35.594,-89.262
-5425,Winchester,Franklin County,35.186,-86.112
+5424,Winchester,Franklin County,35.186,-86.112
 3620,Oakland,Fayette County,35.229,-89.515
 0481,Bloomingdale,Sullivan County,36.585,-82.489
 1149,Covington,Tipton County,35.564,-89.646
@@ -64,7 +64,7 @@ phoneme,name,county,latitude,longitude
 2379,Humboldt,Gibson County,35.827,-88.904
 4223,Ripley,Lauderdale County,35.745,-89.530
 2643,La Follette,Campbell County,36.383,-84.120
-4458,Savannah,Hardin County,35.225,-88.249
+4463,Savannah,Hardin County,35.225,-88.249
 1268,Dayton,Rhea County,35.494,-85.012
 0956,Church Hill,Hawkins County,36.522,-82.713
 2032,Green Hill,Wilson County,36.223,-86.549
@@ -73,7 +73,7 @@ phoneme,name,county,latitude,longitude
 3527,Newport,Cocke County,35.967,-83.188
 2961,Lynchburg,Moore County,35.289,-86.359
 3407,Munford,Tipton County,35.449,-89.815
-4861,Sweetwater,McMinn County,35.603,-84.471
+4860,Sweetwater,McMinn County,35.603,-84.471
 2229,Henderson,Chester County,35.439,-88.641
 3236,Millersville,Robertson County,36.397,-86.711
 2915,Loudon,Loudon County,35.733,-84.334
@@ -87,10 +87,10 @@ phoneme,name,county,latitude,longitude
 1411,Dunlap,Sequatchie County,35.371,-85.391
 3159,Medina,Gibson County,35.803,-88.775
 0513,Bolivar,Hardeman County,35.256,-88.988
-4596,Smithville,DeKalb County,35.961,-85.814
+4601,Smithville,DeKalb County,35.961,-85.814
 2987,Madisonville,Monroe County,35.520,-84.364
 3954,Pleasant View,Cheatham County,36.394,-87.037
-4649,Sparta,White County,35.926,-85.464
+4654,Sparta,White County,35.926,-85.464
 3382,Mount Pleasant,Maury County,35.534,-87.207
 1756,Forest Hills,Davidson County,36.068,-86.844
 3607,Oak Hill,Davidson County,36.088,-86.783
@@ -98,45 +98,45 @@ phoneme,name,county,latitude,longitude
 2386,Huntingdon,Carroll County,36.001,-88.428
 2921,Louisville,Blount County,35.822,-84.048
 0951,Christiana,Rutherford County,35.710,-86.399
-5243,Waverly,Humphreys County,36.084,-87.795
-5000,Trenton,Gibson County,35.981,-88.941
+5242,Waverly,Humphreys County,36.084,-87.795
+4999,Trenton,Gibson County,35.981,-88.941
 3605,Oak Grove,Washington County,36.412,-82.425
 2858,Livingston,Overton County,36.383,-85.323
-4681,Spurgeon,Sullivan County,36.444,-82.461
+4686,Spurgeon,Sullivan County,36.444,-82.461
 3672,Oneida,Scott County,36.498,-84.513
 0736,Camden,Benton County,36.059,-88.098
 1617,Etowah,McMinn County,35.323,-84.525
 2474,Jasper,Marion County,35.074,-85.626
 0868,Centerville,Hickman County,35.779,-87.467
 0785,Karns,Knox County,35.982,-84.114
-4618,Somerville,Fayette County,35.244,-89.350
+4623,Somerville,Fayette County,35.244,-89.350
 3517,Newbern,Dyer County,36.113,-89.262
 1384,Dresden,Weakley County,36.291,-88.708
 1071,Colonial Heights,Sullivan County,36.485,-82.503
 0595,Brighton,Tipton County,35.484,-89.725
 3304,Monterey,Putnam County,36.148,-85.268
 0352,Belle Meade,Davidson County,36.096,-86.857
-5326,Westmoreland,Sumner County,36.562,-86.248
-5467,Woodbury,Cannon County,35.828,-86.072
-5370,Whiteville,Hardeman County,35.326,-89.150
+5325,Westmoreland,Sumner County,36.562,-86.248
+5466,Woodbury,Cannon County,35.828,-86.072
+5369,Whiteville,Hardeman County,35.326,-89.150
 1008,Clifton,Wayne County,35.387,-87.995
 1447,East Cleveland,Bradley County,35.161,-84.858
-5356,White Pine,Hamblen County,36.101,-83.286
-5200,Walnut Hill,Sullivan County,36.570,-82.257
+5355,White Pine,Hamblen County,36.101,-83.286
+5199,Walnut Hill,Sullivan County,36.570,-82.257
 3216,Midway,Washington County,36.294,-82.419
 0365,Bells,Crockett County,35.711,-89.088
 3390,Mountain City,Johnson County,36.475,-81.805
 3780,Park City,Lincoln County,35.082,-86.571
-5223,Washburn,Grainger County,36.290,-83.591
-4904,Tazewell,Claiborne County,36.454,-83.569
-5247,Waynesboro,Wayne County,35.320,-87.762
+5222,Washburn,Grainger County,36.290,-83.591
+4903,Tazewell,Claiborne County,36.454,-83.569
+5246,Waynesboro,Wayne County,35.320,-87.762
 2459,Jacksboro,Campbell County,36.330,-84.184
 0041,Alamo,Crockett County,35.785,-89.117
 1427,Dyer,Gibson County,36.067,-88.994
 0805,Carthage,Smith County,36.252,-85.952
 2347,Hopewell,Bradley County,35.235,-84.888
 0017,Adamsville,Hardin County,35.238,-88.378
-4626,South Fulton,Obion County,36.501,-88.875
+4631,South Fulton,Obion County,36.501,-88.875
 0808,Caryville,Campbell County,36.299,-84.223
 1293,Del Rio,Cocke County,35.920,-83.026
 0463,Blaine,Grainger County,36.154,-83.704
@@ -145,8 +145,8 @@ phoneme,name,county,latitude,longitude
 2047,Greenfield,Weakley County,36.153,-88.801
 2384,Hunter,Carter County,36.372,-82.159
 2898,Lookout Mountain,Hamilton County,34.994,-85.349
-5182,Walden,Hamilton County,35.165,-85.301
-4659,Spring City,Rhea County,35.692,-84.861
+5181,Walden,Hamilton County,35.165,-85.301
+4664,Spring City,Rhea County,35.692,-84.861
 2470,Jamestown,Fentress County,36.428,-84.932
 0869,Central,Carter County,36.326,-82.290
 3887,Pikeville,Bledsoe County,35.606,-85.189
@@ -167,16 +167,16 @@ phoneme,name,county,latitude,longitude
 1654,Fairmount,Hamilton County,35.181,-85.324
 3559,Norris,Anderson County,36.196,-84.068
 2587,Kimball,Marion County,35.048,-85.672
-5234,Watertown,Wilson County,36.100,-86.132
-4652,Spencer,Van Buren County,35.747,-85.467
+5233,Watertown,Wilson County,36.100,-86.132
+4657,Spencer,Van Buren County,35.747,-85.467
 0389,Benton,Polk County,35.174,-84.654
 1588,Englewood,McMinn County,35.425,-84.487
 0640,Bruceton,Carroll County,36.038,-88.244
 2023,Graysville,Rhea County,35.447,-85.084
 3662,Olivet,Hardin County,35.214,-88.200
-5013,Troy,Obion County,36.339,-89.164
+5012,Troy,Obion County,36.339,-89.164
 1928,Gleason,Weakley County,36.214,-88.613
-5068,Unionville,Bedford County,35.622,-86.593
+5067,Unionville,Bedford County,35.622,-86.593
 0857,Celina,Clay County,36.550,-85.505
 1974,Gordonsville,Smith County,36.173,-85.930
 3493,New Market,Jefferson County,36.104,-83.553
@@ -187,7 +187,7 @@ phoneme,name,county,latitude,longitude
 1603,Erin,Houston County,36.318,-87.695
 2881,Lone Oak,Sequatchie County,35.201,-85.364
 2565,Kenton,Gibson County,36.202,-89.018
-5390,Wildwood,Blount County,35.804,-83.871
+5389,Wildwood,Blount County,35.804,-83.871
 2021,Gray,Washington County,36.420,-82.477
 4353,Rutherford,Gibson County,36.128,-88.986
 0095,Altamont,Grundy County,35.430,-85.723
@@ -198,22 +198,22 @@ phoneme,name,county,latitude,longitude
 0554,Bradford,Gibson County,36.076,-88.810
 0058,Alexandria,DeKalb County,36.078,-86.033
 3487,New Hope,Marion County,35.005,-85.658
-4523,Sharon,Weakley County,36.233,-88.825
+4528,Sharon,Weakley County,36.233,-88.825
 0210,Atwood,Carroll County,35.973,-88.678
-5430,Winfield,Scott County,36.556,-84.452
-4906,Telford,Washington County,36.249,-82.545
+5429,Winfield,Scott County,36.556,-84.452
+4905,Telford,Washington County,36.249,-82.545
 1844,Gainesboro,Jackson County,36.356,-85.659
 1827,Friendsville,Blount County,35.760,-84.136
-5220,Wartburg,Morgan County,36.105,-84.597
+5219,Wartburg,Morgan County,36.105,-84.597
 2233,Henning,Lauderdale County,35.673,-89.573
 1440,Eagleville,Rutherford County,35.739,-86.652
-4823,Summertown,Lawrence County,35.435,-87.313
+4822,Summertown,Lawrence County,35.435,-87.313
 4349,Russellville,Hamblen County,36.259,-83.195
 4263,Rockford,Blount County,35.828,-83.941
 2166,Hartford,Cocke County,35.817,-83.143
-5199,Walnut Grove,Sumner County,36.484,-86.613
+5198,Walnut Grove,Sumner County,36.484,-86.613
 1133,Cosby,Cocke County,35.817,-83.247
-4701,St. Joseph,Lawrence County,35.036,-87.507
+4372,St. Joseph,Lawrence County,35.036,-87.507
 1026,Coalmont,Grundy County,35.338,-85.704
 1280,Decaturville,Decatur County,35.584,-88.119
 3542,Niota,McMinn County,35.513,-84.545
@@ -231,14 +231,14 @@ phoneme,name,county,latitude,longitude
 3867,Philadelphia,Loudon County,35.680,-84.404
 1826,Friendship,Crockett County,35.909,-89.245
 3124,McDonald,Bradley County,35.113,-84.983
-4989,Townsend,Blount County,35.675,-83.756
+4988,Townsend,Blount County,35.675,-83.756
 3358,Moscow,Fayette County,35.062,-89.404
 3763,Palmer,Grundy County,35.351,-85.568
 1539,Elkton,Giles County,35.052,-86.889
 3948,Pleasant Hill,Cumberland County,35.976,-85.194
 0720,Calhoun,McMinn County,35.296,-84.748
 1615,Ethridge,Lawrence County,35.324,-87.304
-5003,Trimble,Dyer County,36.202,-89.188
+5002,Trimble,Dyer County,36.202,-89.188
 3859,Petersburg,Lincoln County,35.317,-86.641
 2952,Lutts,Wayne County,35.151,-87.938
 0158,Arcadia,Sullivan County,36.583,-82.445
@@ -253,20 +253,20 @@ phoneme,name,county,latitude,longitude
 0242,Baileyton,Greene County,36.334,-82.837
 2235,Henry,Henry County,36.204,-88.420
 1573,Embreeville,Washington County,36.181,-82.459
-4386,Saltillo,Hardin County,35.378,-88.209
-4452,Sardis,Henderson County,35.442,-88.294
-4732,Stanton,Haywood County,35.462,-89.402
-5506,Wrigley,Hickman County,35.901,-87.348
+4391,Saltillo,Hardin County,35.378,-88.209
+4457,Sardis,Henderson County,35.442,-88.294
+4731,Stanton,Haywood County,35.462,-89.402
+5505,Wrigley,Hickman County,35.901,-87.348
 0977,Clarksburg,Carroll County,35.872,-88.393
 3828,Pelham,Grundy County,35.310,-85.881
 0683,Burlison,Tipton County,35.557,-89.779
 2719,Lancaster,Smith County,36.128,-85.869
 1906,Gibson,Gibson County,35.875,-88.847
-5228,Watauga,Carter County,36.368,-82.292
+5227,Watauga,Carter County,36.368,-82.292
 0698,Butler,Carter County,36.357,-82.036
-5407,Williston,Fayette County,35.158,-89.368
+5406,Williston,Fayette County,35.158,-89.368
 0543,Bowman,Cumberland County,36.061,-85.028
-5474,Woodland Mills,Obion County,36.488,-89.115
+5473,Woodland Mills,Obion County,36.488,-89.115
 1993,Grand Junction,Fayette County,35.050,-89.189
 2809,Liberty,DeKalb County,36.007,-85.968
 0584,Briceville,Anderson County,36.178,-84.185
@@ -277,26 +277,26 @@ phoneme,name,county,latitude,longitude
 2964,Lynnville,Giles County,35.377,-87.006
 1867,Garland,Tipton County,35.588,-89.753
 3232,Milledgeville,Chester County,35.378,-88.366
-5367,Whiteside,Marion County,34.987,-85.498
+5366,Whiteside,Marion County,34.987,-85.498
 2287,Hillsboro,Coffee County,35.413,-85.970
 4243,Robbins,Scott County,36.353,-84.589
 1647,Fairfield,Sumner County,36.620,-86.346
 4240,Rives,Obion County,36.356,-89.048
-5527,Yorkville,Gibson County,36.100,-89.119
+5526,Yorkville,Gibson County,36.100,-89.119
 3615,Oakdale,Morgan County,35.986,-84.553
 1522,Elgin,Scott County,36.332,-84.606
 1595,Enville,Chester County,35.391,-88.430
 3965,Pocahontas,Hardeman County,35.053,-88.804
-4586,Slayden,Dickson County,36.295,-87.470
+4591,Slayden,Dickson County,36.295,-87.470
 3274,Mitchellville,Sumner County,36.632,-86.541
 2439,Iron City,Lawrence County,35.024,-87.581
 3183,Mercer,Madison County,35.479,-89.042
 3605,Oak Grove,Sumner County,36.571,-86.380
 2646,La Grange,Fayette County,35.045,-89.244
-4544,Sherwood,Franklin County,35.076,-85.923
+4549,Sherwood,Franklin County,35.076,-85.923
 3556,Normandy,Bedford County,35.452,-86.260
-5152,Viola,Warren County,35.538,-85.859
-4747,Statesville,Wilson County,36.019,-86.125
+5151,Viola,Warren County,35.538,-85.859
+4746,Statesville,Wilson County,36.019,-86.125
 1134,Cottage Grove,Henry County,36.379,-88.479
 0224,Eva,Benton County,36.065,-88.004
 0025,Afton,Greene County,36.194,-82.739
@@ -364,15 +364,15 @@ phoneme,name,county,latitude,longitude
 4255,Rock Island,Warren County,35.792,-85.613
 4268,Rockvale,Rutherford County,35.757,-86.531
 4339,Rugby,Morgan County,36.361,-84.700
-4517,Shady Grove,Jefferson County,35.978,-83.484
-4548,Shiloh,Hardin County,35.115,-88.362
-4615,Solway,Knox County,35.979,-84.182
-4660,Spring Creek,Madison County,35.767,-88.677
-4909,Ten Mile,Meigs County,35.666,-84.664
-5092,Valley Forge,Carter County,36.306,-82.193
-5126,Verona,Marshall County,35.531,-86.770
-5215,Warrensburg,Greene County,36.127,-83.094
-5366,Whitesburg,Hamblen County,36.272,-83.140
-5379,Witt,Hamblen County,36.150,-83.283
-5389,Wilder,Fentress County,36.266,-85.091
-5488,Woodville,Chester County,35.261,-88.755
+4522,Shady Grove,Jefferson County,35.978,-83.484
+4553,Shiloh,Hardin County,35.115,-88.362
+4620,Solway,Knox County,35.979,-84.182
+4665,Spring Creek,Madison County,35.767,-88.677
+4908,Ten Mile,Meigs County,35.666,-84.664
+5091,Valley Forge,Carter County,36.306,-82.193
+5125,Verona,Marshall County,35.531,-86.770
+5214,Warrensburg,Greene County,36.127,-83.094
+5365,Whitesburg,Hamblen County,36.272,-83.140
+5378,Witt,Hamblen County,36.150,-83.283
+5388,Wilder,Fentress County,36.266,-85.091
+5487,Woodville,Chester County,35.261,-88.755

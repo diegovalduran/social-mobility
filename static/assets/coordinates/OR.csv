@@ -1,29 +1,29 @@
 phoneme,name,county,latitude,longitude
 4004,Portland,Clackamas County,45.537,-122.650
-4376,Salem,Marion County,44.924,-123.023
+4381,Salem,Marion County,44.924,-123.023
 1623,Eugene,Lane County,44.052,-123.087
 2062,Gresham,Multnomah County,45.498,-122.431
 2287,Hillsboro,Washington County,45.523,-122.990
 0378,Bend,Deschutes County,44.058,-121.315
 0331,Beaverton,Washington County,45.487,-122.804
 3157,Medford,Jackson County,42.327,-122.876
-4672,Springfield,Lane County,44.046,-123.022
+4677,Springfield,Lane County,44.046,-123.022
 1131,Corvallis,Benton County,44.565,-123.262
 0044,Albany,Benton County,44.627,-123.097
 0089,Aloha,Washington County,45.490,-122.872
 2545,Keizer,Marion County,44.990,-123.026
 4150,Redmond,Deschutes County,44.273,-121.174
 3141,McMinnville,Yamhill County,45.210,-123.199
-5422,Wilsonville,Clackamas County,45.311,-122.771
+5421,Wilsonville,Clackamas County,45.311,-122.771
 1753,Forest Grove,Washington County,45.520,-123.111
-5466,Woodburn,Marion County,45.144,-122.855
+5465,Woodburn,Marion County,45.144,-122.855
 2136,Happy Valley,Clackamas County,45.447,-122.530
 3516,Newberg,Yamhill County,45.300,-122.973
 2201,Hayesville,Marion County,44.981,-122.972
 0187,Ashland,Jackson County,42.195,-122.709
 3254,Milwaukie,Clackamas County,45.445,-122.621
 0410,Bethany,Washington County,45.553,-122.837
-4544,Sherwood,Washington County,45.357,-122.840
+4549,Sherwood,Washington County,45.357,-122.840
 0095,Altamont,Klamath County,42.203,-121.726
 0872,Central Point,Jackson County,42.376,-122.916
 2768,Lebanon,Linn County,44.537,-122.907
@@ -32,48 +32,48 @@ phoneme,name,county,latitude,longitude
 1239,Dallas,Polk County,44.919,-123.317
 3835,Pendleton,Umatilla County,45.672,-118.789
 1787,Four Corners,Marion County,44.929,-122.972
-5011,Troutdale,Multnomah County,45.539,-122.387
+5010,Troutdale,Multnomah County,45.539,-122.387
 1118,Cornelius,Washington County,45.520,-123.060
 2645,La Grande,Union County,45.325,-118.088
-4425,Sandy,Clackamas County,45.397,-122.261
+4430,Sandy,Clackamas County,45.397,-122.261
 1924,Gladstone,Clackamas County,45.381,-122.595
 3608,Oak Hills,Washington County,45.541,-122.841
 3676,Ontario,Malheur County,44.027,-116.963
 3290,Monmouth,Polk County,44.848,-123.234
 1657,Fairview,Multnomah County,45.538,-122.434
 1134,Cottage Grove,Lane County,43.798,-123.060
-4574,Silverton,Marion County,45.005,-122.783
+4579,Silverton,Marion County,45.005,-122.783
 1242,Damascus,Clackamas County,45.430,-122.446
 3527,Newport,Lincoln County,44.637,-124.053
 0194,Astoria,Clatsop County,46.188,-123.831
 3561,North Bend,Coos County,43.407,-124.224
 2406,Independence,Polk County,44.851,-123.187
 2823,Lincoln City,Lincoln County,44.958,-124.018
-4859,Sweet Home,Linn County,44.398,-122.736
+4858,Sweet Home,Linn County,44.398,-122.736
 1435,Eagle Point,Jackson County,42.473,-122.803
 4233,River Road,Lane County,44.084,-123.134
 1733,Florence,Lane County,43.983,-124.100
-5291,West Haven,Washington County,45.518,-122.769
+5290,West Haven,Washington County,45.518,-122.769
 0850,Cedar Hills,Washington County,45.505,-122.798
 0529,Boring,Clackamas County,45.430,-122.374
 2988,Madras,Jefferson County,44.633,-121.129
 2028,Green,Douglas County,43.160,-123.368
-5055,Umatilla,Umatilla County,45.917,-119.343
-4489,Seaside,Clatsop County,45.993,-123.923
+5054,Umatilla,Umatilla County,45.917,-119.343
+4494,Seaside,Clatsop County,45.993,-123.923
 2525,Junction City,Lane County,44.219,-123.206
-5216,Warrenton,Clatsop County,46.165,-123.924
+5215,Warrenton,Clatsop County,46.165,-123.924
 1176,Creswell,Lane County,43.918,-123.025
-5439,Winston,Douglas County,43.122,-123.413
+5438,Winston,Douglas County,43.122,-123.413
 3872,Philomath,Benton County,44.540,-123.368
 2592,King City,Washington County,45.403,-122.804
-4541,Sheridan,Yamhill County,45.099,-123.395
+4546,Sheridan,Yamhill County,45.099,-123.395
 2667,Lafayette,Yamhill County,45.244,-123.115
 3874,Phoenix,Jackson County,42.275,-122.818
 0500,Boardman,Morrow County,45.840,-119.701
 1833,Fruitdale,Josephine County,42.416,-123.321
 2158,Harrisburg,Linn County,44.274,-123.171
-4944,Three Rivers,Deschutes County,43.820,-121.469
-4969,Toledo,Lincoln County,44.622,-123.938
+4943,Three Rivers,Deschutes County,43.820,-121.469
+4968,Toledo,Lincoln County,44.622,-123.938
 2370,Hubbard,Marion County,45.182,-122.808
 2478,Jefferson,Marion County,44.720,-123.010
 1408,Dundee,Yamhill County,45.278,-123.011
@@ -83,13 +83,13 @@ phoneme,name,county,latitude,longitude
 4153,Redwood,Josephine County,42.422,-123.387
 1268,Dayton,Yamhill County,45.221,-123.076
 2707,Lakeview,Lake County,42.189,-120.346
-5030,Turner,Marion County,44.843,-122.953
+5029,Turner,Marion County,44.843,-122.953
 0676,Bunker Hill,Coos County,43.356,-124.205
-5211,Warm Springs,Jefferson County,44.760,-121.268
+5210,Warm Springs,Jefferson County,44.760,-121.268
 3634,Odell,Hood River County,45.630,-121.546
 0777,Carlton,Yamhill County,45.294,-123.176
-4728,Stanfield,Umatilla County,45.780,-119.217
-5059,Union,Union County,45.208,-117.865
+4727,Stanfield,Umatilla County,45.780,-119.217
+5058,Union,Union County,45.208,-117.865
 1594,Enterprise,Wallowa County,45.426,-117.279
 0917,Chenoweth,Wasco County,45.621,-121.225
 3224,Mill City,Linn County,44.752,-122.477
@@ -97,9 +97,9 @@ phoneme,name,county,latitude,longitude
 1421,Durham,Washington County,45.402,-122.753
 4097,Rainier,Columbia County,46.089,-122.936
 2704,Lakeside,Coos County,43.576,-124.175
-5082,Vale,Malheur County,43.982,-117.238
-4723,Stafford,Clackamas County,45.358,-122.721
-5213,Warren,Columbia County,45.819,-122.848
+5081,Vale,Malheur County,43.982,-117.238
+4722,Stafford,Clackamas County,45.358,-122.721
+5212,Warren,Columbia County,45.819,-122.848
 0258,Banks,Washington County,45.619,-123.114
 0116,Amity,Yamhill County,45.116,-123.207
 0285,Barview,Coos County,43.354,-124.313
@@ -109,22 +109,22 @@ phoneme,name,county,latitude,longitude
 3487,New Hope,Josephine County,42.362,-123.368
 4258,Rockaway Beach,Tillamook County,45.613,-123.943
 0298,Bay City,Tillamook County,45.523,-123.889
-4914,Terrebonne,Deschutes County,44.349,-121.180
+4913,Terrebonne,Deschutes County,44.349,-121.180
 1957,Gold Hill,Jackson County,42.432,-123.051
 1034,Coburg,Lane County,44.137,-123.066
-4630,South Lebanon,Linn County,44.509,-122.904
+4635,South Lebanon,Linn County,44.509,-122.904
 2930,Lowell,Lane County,43.918,-122.784
 4200,Riddle,Douglas County,42.951,-123.364
 2967,Lyons,Linn County,44.775,-122.615
 2517,Joseph,Wallowa County,45.354,-117.230
 0221,Aurora,Marion County,45.231,-122.756
-5397,Williams,Josephine County,42.219,-123.273
+5396,Williams,Josephine County,42.219,-123.273
 1669,Falls City,Polk County,44.866,-123.436
 0305,Bayshore,Lincoln County,44.439,-124.075
 1357,Donald,Marion County,45.222,-122.839
 2620,Knappa,Clatsop County,46.185,-123.586
 2492,Jewell,Clatsop County,45.934,-123.504
-4470,Scio,Linn County,44.705,-122.849
+4475,Scio,Linn County,44.705,-122.849
 3270,Mission,Umatilla County,45.670,-118.684
 2115,Halsey,Linn County,44.384,-123.110
 3620,Oakland,Douglas County,43.422,-123.298
@@ -136,13 +136,13 @@ phoneme,name,county,latitude,longitude
 0896,Charleston,Coos County,43.340,-124.330
 2474,Jasper,Lane County,43.997,-122.905
 1927,Glasgow,Coos County,43.435,-124.211
-4995,Trail,Jackson County,42.648,-122.811
+4994,Trail,Jackson County,42.648,-122.811
 4022,Powers,Coos County,42.883,-124.073
-5327,Weston,Umatilla County,45.814,-118.425
+5326,Weston,Umatilla County,45.814,-118.425
 1090,Condon,Gilliam County,45.234,-120.185
 1663,Falcon Heights,Klamath County,42.138,-121.757
 1877,Gaston,Washington County,45.435,-123.145
-4503,Selma,Josephine County,42.279,-123.616
+4508,Selma,Josephine County,42.279,-123.616
 3292,Monroe,Benton County,44.314,-123.297
 1473,Echo,Umatilla County,45.742,-119.196
 0170,Arlington,Gilliam County,45.717,-120.201
@@ -159,9 +159,9 @@ phoneme,name,county,latitude,longitude
 0622,Brooks,Marion County,45.051,-122.955
 3599,O'Brien,Josephine County,42.069,-123.721
 4053,Prospect,Jackson County,42.751,-122.488
-5341,Wheeler,Tillamook County,45.689,-123.881
+5340,Wheeler,Tillamook County,45.689,-123.881
 4715,St. Paul,Marion County,45.211,-122.977
-5222,Wasco,Sherman County,45.592,-120.698
+5221,Wasco,Sherman County,45.592,-120.698
 0517,Bonanza,Klamath County,42.199,-121.406
 1152,Crabtree,Linn County,44.635,-122.898
 0014,Adams,Umatilla County,45.767,-118.562
@@ -173,36 +173,36 @@ phoneme,name,county,latitude,longitude
 2432,Ione,Morrow County,45.501,-119.825
 4237,Riverside,Umatilla County,45.675,-118.737
 0929,Cheshire,Lane County,44.190,-123.284
-5330,Westport,Clatsop County,46.131,-123.375
+5329,Westport,Clatsop County,46.131,-123.375
 1160,Crawfordsville,Linn County,44.357,-122.858
 3052,Marion,Marion County,44.749,-122.942
 1340,Dilley,Washington County,45.491,-123.126
 3783,Parkdale,Hood River County,45.517,-121.597
-4999,Trent,Lane County,43.943,-122.861
+4998,Trent,Lane County,43.943,-122.861
 1016,Cloverdale,Tillamook County,45.206,-123.892
 3752,Paisley,Lake County,42.694,-120.546
 2804,Lexington,Morrow County,45.445,-119.684
-5232,Waterloo,Linn County,44.494,-122.825
+5231,Waterloo,Linn County,44.494,-122.825
 1913,Gilchrist,Klamath County,43.476,-121.688
-4827,Sumpter,Baker County,44.746,-118.202
+4826,Sumpter,Baker County,44.746,-118.202
 1323,Detroit,Marion County,44.734,-122.150
 4327,Rowena,Wasco County,45.672,-121.268
 1539,Elkton,Douglas County,43.638,-123.568
 2887,Long Creek,Grant County,44.714,-119.104
 4193,Richland,Baker County,44.769,-117.169
-4505,Seneca,Grant County,44.135,-118.972
+4510,Seneca,Grant County,44.135,-118.972
 0326,Beaver,Tillamook County,45.277,-123.826
-5050,Ukiah,Umatilla County,45.134,-118.932
+5049,Ukiah,Umatilla County,45.134,-118.932
 3897,Pine Grove,Wasco County,45.109,-121.362
 2611,Kirkpatrick,Umatilla County,45.680,-118.650
-4570,Silver Lake,Lake County,43.128,-121.047
+4575,Silver Lake,Lake County,43.128,-121.047
 0023,Adrian,Malheur County,43.741,-117.072
 2015,Grass Valley,Sherman County,45.360,-120.786
 3239,Millican,Deschutes County,43.879,-120.920
 3273,Mitchell,Wheeler County,44.567,-120.153
 0267,Barlow,Clackamas County,45.252,-122.721
 1269,Dayville,Grant County,44.468,-119.536
-4618,Summerville,Union County,45.488,-118.003
+4623,Summerville,Union County,45.488,-118.003
 1158,Crane,Harney County,43.415,-118.578
 3317,Monument,Grant County,44.819,-119.421
 1769,Fort Hill,Polk County,45.067,-123.561
@@ -210,11 +210,11 @@ phoneme,name,county,latitude,longitude
 3498,New Pine Creek,Lake County,41.994,-120.297
 3845,Peoria,Linn County,44.449,-123.207
 4039,Prescott,Columbia County,46.049,-122.887
-4824,Summit,Benton County,44.638,-123.579
+4823,Summit,Benton County,44.638,-123.579
 0322,Beatty,Klamath County,42.442,-121.270
 1596,Eola,Polk County,44.932,-123.119
 0476,Blodgett,Benton County,44.597,-123.519
-5069,Unity,Baker County,44.437,-118.193
+5068,Unity,Baker County,44.437,-118.193
 0141,Antelope,Wasco County,44.911,-120.723
 2006,Granite,Grant County,44.809,-118.418
 0020,Adel,Lake County,42.178,-119.897
@@ -376,47 +376,49 @@ phoneme,name,county,latitude,longitude
 4302,Rosedale,Marion County,44.853,-123.061
 4331,Roy,Washington County,45.594,-123.082
 4367,Saginaw,Lane County,43.833,-123.045
-4370,Saint Joseph,Yamhill County,45.238,-123.145
-4381,Salisbury,Baker County,44.653,-117.873
-4385,Salt Creek,Polk County,44.996,-123.353
-4437,Santa Clara,Lane County,44.100,-123.120
-4479,Scottsburg,Douglas County,43.654,-123.816
-4526,Shaw,Marion County,44.873,-122.872
-4581,Sixes,Curry County,42.820,-124.482
-4649,Sparta,Baker County,44.871,-117.324
-4669,Springbrook,Yamhill County,45.318,-122.944
-4670,Springdale,Multnomah County,45.519,-122.330
-4679,Springwater,Clackamas County,45.251,-122.338
-4741,Starkey,Union County,45.222,-118.426
-4749,Steamboat,Jackson County,42.076,-123.205
-4826,Sumner,Coos County,43.282,-124.151
-4836,Sunnyside,Clackamas County,45.432,-122.557
-4841,Sunset Beach,Clatsop County,46.101,-123.931
-4868,Sylvan,Multnomah County,45.515,-122.730
-4876,Table Rock,Jackson County,42.451,-122.913
-4948,Thurston,Lane County,44.053,-122.916
-5013,Troy,Wallowa County,45.947,-117.452
-5091,Valley Falls,Lake County,42.484,-120.282
-5094,Valley Junction,Polk County,45.062,-123.572
-5112,Vaughn,Lane County,44.024,-123.437
-5128,Vesper,Clatsop County,45.980,-123.368
-5135,Vida,Lane County,44.146,-122.569
-5182,Walden,Lane County,43.775,-123.005
-5189,Walker,Lane County,43.854,-123.040
-5205,Walton,Lane County,44.031,-123.584
-5214,Warrendale,Multnomah County,45.613,-122.016
-5233,Waterman,Wheeler County,44.619,-119.890
-5252,Weatherby,Baker County,44.499,-117.371
-5308,West Union,Washington County,45.566,-122.894
-5339,Wheatland,Yamhill County,45.093,-123.049
-5377,Whitney,Baker County,44.659,-118.291
-5386,Wilbur,Douglas County,43.321,-123.341
-5390,Wildwood,Clackamas County,45.354,-121.981
-5393,Wilkesboro,Washington County,45.609,-123.096
-5425,Winchester,Douglas County,43.280,-123.354
-5432,Wingville,Baker County,44.840,-117.922
-5454,Wolf Creek,Josephine County,42.696,-123.394
-5485,Woodson,Columbia County,46.115,-123.324
-5495,Worden,Klamath County,42.268,-121.468
-5517,Yankton,Columbia County,45.867,-122.887
-5522,Yoder,Clackamas County,45.138,-122.681
+4369,Saint Benedict,Marion County,45.057,-122.774
+4372,Saint Joseph,Yamhill County,45.238,-123.145
+4373,Saint Louis,Marion County,45.123,-122.942
+4386,Salisbury,Baker County,44.653,-117.873
+4390,Salt Creek,Polk County,44.996,-123.353
+4442,Santa Clara,Lane County,44.100,-123.120
+4484,Scottsburg,Douglas County,43.654,-123.816
+4531,Shaw,Marion County,44.873,-122.872
+4586,Sixes,Curry County,42.820,-124.482
+4654,Sparta,Baker County,44.871,-117.324
+4674,Springbrook,Yamhill County,45.318,-122.944
+4675,Springdale,Multnomah County,45.519,-122.330
+4684,Springwater,Clackamas County,45.251,-122.338
+4740,Starkey,Union County,45.222,-118.426
+4748,Steamboat,Jackson County,42.076,-123.205
+4825,Sumner,Coos County,43.282,-124.151
+4835,Sunnyside,Clackamas County,45.432,-122.557
+4840,Sunset Beach,Clatsop County,46.101,-123.931
+4867,Sylvan,Multnomah County,45.515,-122.730
+4875,Table Rock,Jackson County,42.451,-122.913
+4947,Thurston,Lane County,44.053,-122.916
+5012,Troy,Wallowa County,45.947,-117.452
+5090,Valley Falls,Lake County,42.484,-120.282
+5093,Valley Junction,Polk County,45.062,-123.572
+5111,Vaughn,Lane County,44.024,-123.437
+5127,Vesper,Clatsop County,45.980,-123.368
+5134,Vida,Lane County,44.146,-122.569
+5181,Walden,Lane County,43.775,-123.005
+5188,Walker,Lane County,43.854,-123.040
+5204,Walton,Lane County,44.031,-123.584
+5213,Warrendale,Multnomah County,45.613,-122.016
+5232,Waterman,Wheeler County,44.619,-119.890
+5251,Weatherby,Baker County,44.499,-117.371
+5307,West Union,Washington County,45.566,-122.894
+5338,Wheatland,Yamhill County,45.093,-123.049
+5376,Whitney,Baker County,44.659,-118.291
+5385,Wilbur,Douglas County,43.321,-123.341
+5389,Wildwood,Clackamas County,45.354,-121.981
+5392,Wilkesboro,Washington County,45.609,-123.096
+5424,Winchester,Douglas County,43.280,-123.354
+5431,Wingville,Baker County,44.840,-117.922
+5453,Wolf Creek,Josephine County,42.696,-123.394
+5484,Woodson,Columbia County,46.115,-123.324
+5494,Worden,Klamath County,42.268,-121.468
+5516,Yankton,Columbia County,45.867,-122.887
+5521,Yoder,Clackamas County,45.138,-122.681

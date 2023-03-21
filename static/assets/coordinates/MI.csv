@@ -1,17 +1,17 @@
 phoneme,name,county,latitude,longitude
 1323,Detroit,Wayne County,42.331,-83.046
 1997,Grand Rapids,Kent County,42.963,-85.668
-5213,Warren,Macomb County,42.500,-83.005
+5212,Warren,Macomb County,42.500,-83.005
 2720,Lansing,Clinton County,42.714,-84.561
 1277,Dearborn,Wayne County,42.322,-83.176
 2859,Livonia,Wayne County,42.368,-83.353
 2980,Macomb,Macomb County,42.659,-82.931
-5013,Troy,Oakland County,42.606,-83.150
-5323,Westland,Wayne County,42.324,-83.400
+5012,Troy,Oakland County,42.606,-83.150
+5322,Westland,Wayne County,42.324,-83.400
 1728,Flint,Genesee County,43.013,-83.687
-5512,Wyoming,Kent County,42.913,-85.705
+5511,Wyoming,Kent County,42.913,-85.705
 2530,Kalamazoo,Kalamazoo County,42.292,-85.587
-4899,Taylor,Wayne County,42.241,-83.270
+4898,Taylor,Wayne County,42.241,-83.270
 3986,Pontiac,Oakland County,42.639,-83.291
 2566,Kentwood,Kent County,42.869,-85.645
 0295,Battle Creek,Calhoun County,42.321,-85.180
@@ -26,8 +26,8 @@ phoneme,name,county,latitude,longitude
 2313,Holland,Allegan County,42.768,-86.099
 0298,Bay City,Bay County,43.594,-83.889
 2460,Jackson,Jackson County,42.246,-84.401
-5354,White Lake,Oakland County,42.648,-83.496
-4641,Southgate,Wayne County,42.214,-83.194
+5353,White Lake,Oakland County,42.648,-83.496
+4646,Southgate,Wayne County,42.214,-83.194
 0695,Burton,Genesee County,42.999,-83.616
 3610,Oak Park,Oakland County,42.459,-83.183
 1756,Forest Hills,Kent County,42.948,-85.492
@@ -35,29 +35,29 @@ phoneme,name,county,latitude,longitude
 1860,Garden City,Wayne County,42.326,-83.331
 2423,Inkster,Wayne County,42.294,-83.310
 2327,Holt,Ingham County,42.641,-84.515
-5189,Walker,Kent County,43.001,-85.768
-5224,Washington,Macomb County,42.750,-83.032
+5188,Walker,Kent County,43.001,-85.768
+5223,Washington,Macomb County,42.750,-83.032
 4293,Romulus,Wayne County,42.222,-83.397
-5508,Wyandotte,Wayne County,42.214,-83.150
-5243,Waverly,Eaton County,42.739,-84.621
+5507,Wyandotte,Wayne County,42.214,-83.150
+5242,Waverly,Eaton County,42.739,-84.621
 0439,Birmingham,Oakland County,42.547,-83.211
 1886,Genesee,Genesee County,43.097,-83.646
 3382,Mount Pleasant,Isabella County,43.598,-84.768
 2116,Hamburg,Livingston County,42.463,-83.848
 3292,Monroe,Monroe County,41.916,-83.398
-4470,Scio,Washtenaw County,42.303,-83.836
+4475,Scio,Washtenaw County,42.303,-83.836
 1866,Garfield,Grand Traverse County,44.721,-85.641
 2269,Highland,Oakland County,42.650,-83.617
 1700,Ferndale,Oakland County,42.461,-83.135
-5000,Trenton,Wayne County,42.139,-83.178
-5246,Wayne,Wayne County,42.281,-83.386
+4999,Trenton,Wayne County,42.139,-83.178
+5245,Wayne,Wayne County,42.281,-83.386
 3587,Northview,Kent County,43.039,-85.613
 0394,Berkley,Oakland County,42.503,-83.184
 1086,Comstock,Kalamazoo County,42.297,-85.499
 1805,Fraser,Macomb County,42.539,-82.949
-4672,Springfield,Oakland County,42.752,-83.500
+4677,Springfield,Oakland County,42.752,-83.500
 0012,Ada,Kent County,42.975,-85.492
-4843,Superior,Washtenaw County,42.294,-83.606
+4842,Superior,Washtenaw County,42.294,-83.606
 4250,Rochester,Oakland County,42.681,-83.134
 4239,Riverview,Wayne County,42.174,-83.179
 3461,New Baltimore,Macomb County,42.681,-82.737
@@ -70,19 +70,19 @@ phoneme,name,county,latitude,longitude
 2714,Lambertville,Monroe County,41.766,-83.628
 2891,Long Lake,Grand Traverse County,44.720,-85.751
 3080,Marysville,St. Clair County,42.913,-82.487
-5332,Westwood,Kalamazoo County,42.303,-85.634
+5331,Westwood,Kalamazoo County,42.303,-85.634
 0085,Alma,Gratiot County,43.379,-84.660
 2587,Kimball,St. Clair County,42.949,-82.571
 0333,Bedford,Calhoun County,42.373,-85.238
 3963,Plymouth,Wayne County,42.371,-83.470
 0899,Charlotte,Eaton County,42.564,-84.836
 2056,Greenville,Montcalm County,43.178,-85.253
-4380,Saline,Washtenaw County,42.167,-83.782
+4385,Saline,Washtenaw County,42.167,-83.782
 2731,Lapeer,Lapeer County,43.051,-83.319
 2273,Highland Park,Wayne County,42.406,-83.097
 0337,Beecher,Genesee County,43.090,-83.694
 4282,Rogersville,Genesee County,43.091,-83.527
-4905,Tecumseh,Lenawee County,42.004,-83.945
+4904,Tecumseh,Lenawee County,42.004,-83.945
 3581,Northfield,Washtenaw County,42.401,-83.743
 3179,Menominee,Menominee County,45.108,-87.614
 1740,Flushing,Genesee County,43.063,-83.851
@@ -90,26 +90,26 @@ phoneme,name,county,latitude,longitude
 2288,Hillsdale,Hillsdale County,41.920,-84.631
 0206,Atlas,Genesee County,42.921,-83.509
 0049,Albion,Calhoun County,42.243,-84.753
-4944,Three Rivers,St. Joseph County,41.944,-85.632
+4943,Three Rivers,St. Joseph County,41.944,-85.632
 2940,Ludington,Mason County,43.955,-86.453
 2374,Hudsonville,Ottawa County,42.871,-85.865
-4700,St. Johns,Clinton County,43.001,-84.559
+4703,St. Johns,Clinton County,43.001,-84.559
 1813,Freeland,Saginaw County,43.525,-84.123
 2187,Houghton,Houghton County,47.122,-88.569
-4883,Tallmadge,Ottawa County,42.990,-85.838
+4882,Tallmadge,Ottawa County,42.990,-85.838
 2181,Hastings,Barry County,42.646,-85.291
 2440,Iron Mountain,Dickinson County,45.820,-88.066
 0595,Brighton,Livingston County,42.529,-83.780
-4547,Shields,Saginaw County,43.415,-84.056
-4705,St. Louis,Gratiot County,43.408,-84.607
-5260,Webster,Washtenaw County,42.378,-83.838
+4552,Shields,Saginaw County,43.415,-84.056
+4373,St. Louis,Gratiot County,43.408,-84.607
+5259,Webster,Washtenaw County,42.378,-83.838
 3065,Marshall,Calhoun County,42.272,-84.963
 0587,Bridgeport,Saginaw County,43.359,-83.882
 3223,Milford,Oakland County,42.594,-83.599
 3485,New Haven,Macomb County,42.729,-82.801
 1465,Eastwood,Kalamazoo County,42.303,-85.550
 3016,Manistee,Manistee County,44.244,-86.324
-5457,Wolverine,Houghton County,47.249,-88.445
+5456,Wolverine,Houghton County,47.249,-88.445
 4263,Rockford,Kent County,43.120,-85.560
 0794,Carrollton,Saginaw County,43.459,-83.939
 3588,Northville,Oakland County,42.436,-83.488
@@ -117,43 +117,43 @@ phoneme,name,county,latitude,longitude
 2315,Holly,Oakland County,42.792,-83.628
 0664,Buena Vista,Saginaw County,43.420,-83.899
 4195,Richmond,Macomb County,42.811,-82.752
-5536,Zeeland,Ottawa County,42.813,-86.019
-4376,Salem,Washtenaw County,42.400,-83.600
+5535,Zeeland,Ottawa County,42.813,-86.019
+4381,Salem,Washtenaw County,42.400,-83.600
 0912,Chelsea,Washtenaw County,42.318,-84.020
-4672,Springfield,Calhoun County,42.326,-85.239
+4677,Springfield,Calhoun County,42.326,-85.239
 1511,Elba,Lapeer County,43.020,-83.411
 1924,Gladstone,Delta County,45.853,-87.022
-5079,Utica,Macomb County,42.626,-83.034
-5455,Wolf Lake,Muskegon County,43.255,-86.110
+5078,Utica,Macomb County,42.626,-83.034
+5454,Wolf Lake,Muskegon County,43.255,-86.110
 1905,Gibraltar,Wayne County,42.095,-83.190
 2656,La Salle,Monroe County,41.844,-83.459
 1328,DeWitt,Clinton County,42.842,-84.569
 1817,Fremont,Newaygo County,43.468,-85.942
-4617,Somerset,Hillsdale County,42.051,-84.419
+4622,Somerset,Hillsdale County,42.051,-84.419
 2099,Hadley,Lapeer County,42.926,-83.403
-5245,Wayland,Allegan County,42.674,-85.645
+5244,Wayland,Allegan County,42.674,-85.645
 3212,Middleville,Barry County,42.713,-85.462
 1884,Gaylord,Otsego County,45.028,-84.675
 1602,Erie,Monroe County,41.772,-83.489
 0652,Buchanan,Berrien County,41.827,-86.361
 2832,Linden,Genesee County,42.814,-83.782
 0812,Casco,St. Clair County,42.774,-82.677
-4627,South Haven,Allegan County,42.401,-86.268
+4632,South Haven,Allegan County,42.401,-86.268
 2770,Lee,Allegan County,42.462,-86.076
-4422,Sandstone,Jackson County,42.287,-84.543
+4427,Sandstone,Jackson County,42.287,-84.543
 1638,Exeter,Monroe County,42.035,-83.478
 0357,Belleville,Wayne County,42.205,-83.485
-5131,Vicksburg,Kalamazoo County,42.120,-85.533
-5401,Williamston,Ingham County,42.689,-84.283
+5130,Vicksburg,Kalamazoo County,42.120,-85.533
+5400,Williamston,Ingham County,42.689,-84.283
 4291,Romeo,Macomb County,42.803,-83.013
 0854,Cedar Springs,Kent County,43.223,-85.551
 1418,Durand,Shiawassee County,42.912,-83.985
 0220,Aurelius,Ingham County,42.556,-84.546
 3741,Oxford,Oakland County,42.825,-83.265
 0967,Clare,Clare County,43.826,-84.762
-5187,Wales,St. Clair County,42.953,-82.686
+5186,Wales,St. Clair County,42.953,-82.686
 2178,Harvey,Marquette County,46.495,-87.354
-5301,West Monroe,Monroe County,41.914,-83.432
+5300,West Monroe,Monroe County,41.914,-83.432
 4271,Rockwood,Wayne County,42.071,-83.247
 0385,Bennington,Shiawassee County,42.919,-84.218
 3380,Mount Morris,Genesee County,43.119,-83.695
@@ -165,22 +165,22 @@ phoneme,name,county,latitude,longitude
 2441,Iron River,Iron County,46.093,-88.642
 1791,Fowlerville,Livingston County,42.661,-84.073
 1702,Ferrysburg,Ottawa County,43.084,-86.220
-5363,Whitehall,Muskegon County,43.410,-86.349
+5362,Whitehall,Muskegon County,43.410,-86.349
 0326,Beaver,Bay County,43.699,-84.097
-5232,Waterloo,Jackson County,42.344,-84.201
+5231,Waterloo,Jackson County,42.344,-84.201
 2455,Ithaca,Gratiot County,43.292,-84.608
 0294,Bath,Clinton County,42.819,-84.449
 3593,Norway,Dickinson County,45.787,-87.904
-5341,Wheeler,Gratiot County,43.413,-84.444
-4423,Sandusky,Sanilac County,43.420,-82.830
-4973,Tompkins,Jackson County,42.378,-84.540
+5340,Wheeler,Gratiot County,43.413,-84.444
+4428,Sandusky,Sanilac County,43.420,-82.830
+4972,Tompkins,Jackson County,42.378,-84.540
 3952,Pleasant Ridge,Oakland County,42.471,-83.142
 3089,Mattawan,Van Buren County,42.209,-85.784
-4559,Sidney,Montcalm County,43.248,-85.131
-4664,Spring Lake,Ottawa County,43.077,-86.197
+4564,Sidney,Montcalm County,43.248,-85.131
+4669,Spring Lake,Ottawa County,43.077,-86.197
 2328,Holton,Muskegon County,43.421,-86.104
 1013,Clio,Genesee County,43.178,-83.734
-4852,Swan Creek,Saginaw County,43.355,-84.126
+4851,Swan Creek,Saginaw County,43.355,-84.126
 3892,Pinckney,Livingston County,42.457,-83.946
 3297,Montague,Muskegon County,43.417,-86.357
 0434,Billings,Gladwin County,43.872,-84.324
@@ -192,7 +192,7 @@ phoneme,name,county,latitude,longitude
 0929,Cheshire,Allegan County,42.458,-85.955
 2513,Jonesville,Hillsdale County,41.984,-84.662
 2159,Harrison,Clare County,44.019,-84.799
-5034,Tuscola,Tuscola County,43.348,-83.637
+5033,Tuscola,Tuscola County,43.348,-83.637
 4059,Pulaski,Jackson County,42.107,-84.657
 2209,Hazleton,Shiawassee County,43.092,-83.982
 0213,Auburn,Bay County,43.603,-84.070
@@ -200,35 +200,35 @@ phoneme,name,county,latitude,longitude
 0610,Brockway,St. Clair County,43.122,-82.808
 0564,Brant,Saginaw County,43.262,-84.220
 1971,Goodrich,Genesee County,42.917,-83.506
-5205,Walton,Eaton County,42.469,-84.895
+5204,Walton,Eaton County,42.469,-84.895
 0256,Bangor,Van Buren County,42.313,-86.113
 0676,Bunker Hill,Ingham County,42.462,-84.321
 2686,Lake Isabella,Isabella County,43.644,-84.997
-4609,Sodus,Berrien County,42.044,-86.382
+4614,Sodus,Berrien County,42.044,-86.382
 2364,Howard City,Montcalm County,43.396,-85.468
-4826,Sumner,Gratiot County,43.328,-84.796
-5513,Yale,St. Clair County,43.130,-82.798
-5472,Woodland Beach,Monroe County,41.940,-83.313
+4825,Sumner,Gratiot County,43.328,-84.796
+5512,Yale,St. Clair County,43.130,-82.798
+5471,Woodland Beach,Monroe County,41.940,-83.313
 0690,Burnside,Lapeer County,43.221,-83.061
 2760,Lawton,Van Buren County,42.167,-85.847
 1969,Goodland,Lapeer County,43.113,-83.051
 0408,Bessemer,Gogebic County,46.481,-90.053
 1373,Dover,Lenawee County,41.851,-84.169
 2093,Gwinn,Marquette County,46.281,-87.441
-4779,Stony Point,Monroe County,41.941,-83.265
+4778,Stony Point,Monroe County,41.941,-83.265
 1923,Girard,Branch County,42.021,-85.013
 0930,Chester,Eaton County,42.644,-84.901
 1647,Fairfield,Lenawee County,41.778,-84.069
 1866,Garfield,Bay County,43.789,-84.097
-5061,Union City,Branch County,42.067,-85.143
+5060,Union City,Branch County,42.067,-85.143
 0718,Caledonia,Kent County,42.789,-85.517
 0592,Bridgewater,Washtenaw County,42.130,-83.960
 4040,Presque Isle,Presque Isle County,45.287,-83.474
 3034,Maple Grove,Barry County,42.552,-85.132
 3433,Nashville,Barry County,42.603,-85.093
-4614,Solon,Leelanau County,44.812,-85.765
+4619,Solon,Leelanau County,44.812,-85.765
 3518,Newberry,Luce County,46.355,-85.510
-4538,Shepherd,Isabella County,43.524,-84.695
+4543,Shepherd,Isabella County,43.524,-84.695
 2590,Kinderhook,Branch County,41.786,-85.006
 3733,Ovid,Clinton County,43.003,-84.376
 0698,Butler,Branch County,42.027,-84.875
@@ -238,27 +238,27 @@ phoneme,name,county,latitude,longitude
 3662,Olivet,Eaton County,42.441,-84.924
 2600,Kingsley,Grand Traverse County,44.585,-85.536
 0616,Brookfield,Eaton County,42.462,-84.768
-4448,Saranac,Ionia County,42.929,-85.213
+4453,Saranac,Ionia County,42.929,-85.213
 1497,Edwards,Ogemaw County,44.193,-84.294
-4416,Sand Lake,Iosco County,44.329,-83.666
+4421,Sand Lake,Iosco County,44.329,-83.666
 2227,Hemlock,Saginaw County,43.415,-84.231
-5349,White Cloud,Newaygo County,43.550,-85.772
+5348,White Cloud,Newaygo County,43.550,-85.772
 0874,Centreville,St. Joseph County,41.923,-85.528
 2846,Litchfield,Hillsdale County,42.044,-84.757
 1371,Douglas,Allegan County,42.643,-86.201
 0619,Brooklyn,Jackson County,42.106,-84.248
 4338,Rudyard,Chippewa County,46.215,-84.636
-4481,Scottville,Mason County,43.955,-86.280
-4732,Stanton,Montcalm County,43.293,-85.081
+4486,Scottville,Mason County,43.955,-86.280
+4731,Stanton,Montcalm County,43.293,-85.081
 4116,Rapid City,Kalkaska County,44.834,-85.282
-5126,Verona,Huron County,43.811,-82.951
+5125,Verona,Huron County,43.811,-82.951
 1807,Frederic,Crawford County,44.766,-84.772
 0083,Allouez,Keweenaw County,47.318,-88.389
 0292,Batavia,Branch County,41.939,-85.101
 1546,Ellington,Tuscola County,43.543,-83.302
 3485,New Haven,Shiawassee County,43.090,-84.119
 3028,Manton,Wexford County,44.411,-85.399
-5259,Webberville,Ingham County,42.667,-84.174
+5258,Webberville,Ingham County,42.667,-84.174
 1660,Ferry,Oceana County,43.599,-86.211
 2345,Hope,Midland County,43.784,-84.327
 0572,Breckenridge,Gratiot County,43.408,-84.475
@@ -270,17 +270,17 @@ phoneme,name,county,latitude,longitude
 0946,Chippewa Lake,Mecosta County,43.766,-85.275
 2791,Leonidas,St. Joseph County,42.021,-85.353
 1789,Fowler,Clinton County,43.002,-84.740
-5339,Wheatland,Hillsdale County,41.941,-84.405
+5338,Wheatland,Hillsdale County,41.941,-84.405
 3094,Matteson,Branch County,41.932,-85.234
 3885,Pigeon,Huron County,43.830,-83.270
-5251,Weare,Oceana County,43.772,-86.341
+5250,Weare,Oceana County,43.772,-86.341
 1561,Elmwood,Tuscola County,43.634,-83.284
 2269,Highland,Osceola County,44.116,-85.268
 0694,Burt,Saginaw County,43.237,-83.906
 0903,Chase,Lake County,43.875,-85.621
 3859,Petersburg,Monroe County,41.901,-83.715
 3515,Newark,Gratiot County,43.239,-84.664
-4759,Stevensville,Berrien County,42.014,-86.519
+4758,Stevensville,Berrien County,42.014,-86.519
 0970,Clarendon,Calhoun County,42.118,-84.867
 3429,Napoleon,Jackson County,42.161,-84.246
 0798,Carson City,Montcalm County,43.177,-84.846
@@ -302,7 +302,7 @@ phoneme,name,county,latitude,longitude
 0089,Aloha,Cheboygan County,45.497,-84.420
 4193,Richland,Kalamazoo County,42.376,-85.455
 1566,Elsie,Clinton County,43.089,-84.387
-5329,Westphalia,Clinton County,42.929,-84.799
+5328,Westphalia,Clinton County,42.929,-84.799
 0249,Baldwin,Lake County,43.901,-85.852
 2804,Lexington,Sanilac County,43.268,-82.531
 3108,Mayville,Tuscola County,43.337,-83.352
@@ -313,18 +313,18 @@ phoneme,name,county,latitude,longitude
 1687,Farwell,Clare County,43.835,-84.867
 1202,Crystal,Montcalm County,43.262,-84.915
 3576,North Star,Gratiot County,43.248,-84.541
-4455,Saugatuck,Allegan County,42.655,-86.202
+4460,Saugatuck,Allegan County,42.655,-86.202
 3173,Mendon,St. Joseph County,42.006,-85.450
-4553,Shoreham,Berrien County,42.059,-86.516
+4558,Shoreham,Berrien County,42.059,-86.516
 0345,Belknap,Presque Isle County,45.347,-83.815
 1305,Delton,Barry County,42.500,-85.408
 0218,Augusta,Kalamazoo County,42.336,-85.352
 2679,Lake City,Missaukee County,44.335,-85.215
-4674,Springport,Jackson County,42.378,-84.699
+4679,Springport,Jackson County,42.378,-84.699
 3211,Middletown,Shiawassee County,42.986,-84.145
 3955,Pleasanton,Manistee County,44.467,-86.131
 3720,Otisville,Genesee County,43.166,-83.524
-4754,Stephenson,Menominee County,45.415,-87.608
+4753,Stephenson,Menominee County,45.415,-87.608
 2967,Lyons,Ionia County,42.982,-84.947
 1539,Elkton,Huron County,43.819,-83.181
 3052,Marion,Osceola County,44.103,-85.147
@@ -334,16 +334,16 @@ phoneme,name,county,latitude,longitude
 0658,Buckley,Wexford County,44.504,-85.677
 0166,Argyle,Sanilac County,43.543,-82.926
 0693,Burr Oak,St. Joseph County,41.847,-85.319
-4633,South Range,Houghton County,47.070,-88.643
-4433,Sanford,Midland County,43.673,-84.381
+4638,South Range,Houghton County,47.070,-88.643
+4438,Sanford,Midland County,43.673,-84.381
 1915,Gilford,Tuscola County,43.530,-83.652
-4541,Sheridan,Montcalm County,43.212,-85.074
+4546,Sheridan,Montcalm County,43.212,-85.074
 1009,Climax,Kalamazoo County,42.238,-85.335
 1555,Elmer,Sanilac County,43.371,-82.935
-5124,Vernon,Shiawassee County,42.939,-84.029
+5123,Vernon,Shiawassee County,42.939,-84.029
 0202,Atlanta,Montmorency County,45.005,-84.144
 0727,Calumet,Houghton County,47.247,-88.454
-5449,Wisner,Tuscola County,43.600,-83.634
+5448,Wisner,Tuscola County,43.600,-83.634
 3189,Merrill,Saginaw County,43.410,-84.329
 3402,Muir,Ionia County,42.996,-84.942
 1782,Fostoria,Tuscola County,43.253,-83.372
@@ -361,11 +361,11 @@ phoneme,name,county,latitude,longitude
 0299,Bay Shore,Charlevoix County,45.361,-85.112
 1468,Eau Claire,Berrien County,41.985,-86.300
 3607,Oak Hill,Manistee County,44.224,-86.304
-5185,Waldron,Hillsdale County,41.728,-84.419
+5184,Waldron,Hillsdale County,41.728,-84.419
 1815,Freeport,Barry County,42.766,-85.313
 1249,Dansville,Ingham County,42.556,-84.303
 0440,Byron,Shiawassee County,42.823,-83.944
-5108,Vanderbilt,Otsego County,45.143,-84.660
+5107,Vanderbilt,Otsego County,45.143,-84.660
 0481,Bloomingdale,Van Buren County,42.383,-85.957
 0188,Ashley,Gratiot County,43.187,-84.474
 0736,Camden,Hillsdale County,41.752,-84.758
@@ -373,22 +373,22 @@ phoneme,name,county,latitude,longitude
 3584,Northport,Leelanau County,45.131,-85.617
 0702,Butterfield,Missaukee County,44.298,-84.921
 3341,Morley,Mecosta County,43.491,-85.444
-5068,Unionville,Tuscola County,43.654,-83.466
+5067,Unionville,Tuscola County,43.654,-83.466
 2134,Hanover,Jackson County,42.101,-84.552
-4935,Thompsonville,Benzie County,44.520,-85.944
+4934,Thompsonville,Benzie County,44.520,-85.944
 0255,Bancroft,Shiawassee County,42.879,-84.064
 4168,Republic,Marquette County,46.407,-87.976
-4416,Sand Lake,Kent County,43.292,-85.518
-4737,Star City,Missaukee County,44.379,-85.034
+4421,Sand Lake,Kent County,43.292,-85.518
+4736,Star City,Missaukee County,44.379,-85.034
 3560,North Adams,Hillsdale County,41.971,-84.526
 1059,Colfax,Oceana County,43.759,-86.093
-4756,Sterling,Arenac County,44.033,-84.023
+4755,Sterling,Arenac County,44.033,-84.023
 3919,Pioneer,Missaukee County,44.478,-85.161
 2820,Limestone,Alger County,46.229,-87.017
 2163,Harrisville,Alcona County,44.656,-83.295
 1458,Eastlake,Manistee County,44.244,-86.296
-5376,Whittemore,Iosco County,44.234,-83.803
-5471,Woodland,Barry County,42.727,-85.134
+5375,Whittemore,Iosco County,44.234,-83.803
+5470,Woodland,Barry County,42.727,-85.134
 0981,Clarksville,Ionia County,42.842,-85.243
 2229,Henderson,Shiawassee County,43.086,-84.195
 2782,Leland,Leelanau County,45.024,-85.763
@@ -408,11 +408,11 @@ phoneme,name,county,latitude,longitude
 1582,Empire,Leelanau County,44.811,-86.060
 2371,Hubbardston,Clinton County,43.094,-84.843
 0024,Advance,Charlevoix County,45.219,-85.071
-5356,White Pine,Ontonagon County,46.754,-89.584
+5355,White Pine,Ontonagon County,46.754,-89.584
 1097,Conway,Emmet County,45.417,-84.865
 0317,Bear Lake,Manistee County,44.421,-86.148
 2951,Luther,Lake County,44.040,-85.683
-5107,Vandalia,Cass County,41.917,-85.915
+5106,Vandalia,Cass County,41.917,-85.915
 0992,Clayton,Lenawee County,41.863,-84.236
 2949,Lupton,Ogemaw County,44.431,-84.026
 3309,Montgomery,Hillsdale County,41.777,-84.804
@@ -425,14 +425,14 @@ phoneme,name,county,latitude,longitude
 2822,Lincoln,Alcona County,44.685,-83.412
 0043,Alba,Antrim County,44.975,-84.969
 3621,Oakley,Saginaw County,43.140,-84.168
-4544,Sherwood,Branch County,42.001,-85.239
-5457,Wolverine,Cheboygan County,45.273,-84.604
+4549,Sherwood,Branch County,42.001,-85.239
+5456,Wolverine,Cheboygan County,45.273,-84.604
 4235,Riverdale,Gratiot County,43.386,-84.836
-5190,Walkerville,Oceana County,43.714,-86.125
+5189,Walkerville,Oceana County,43.714,-86.125
 0734,Cambria,Hillsdale County,41.822,-84.665
 2763,Le Roy,Osceola County,44.038,-85.454
-5273,Wellston,Manistee County,44.217,-85.958
-5036,Tustin,Osceola County,44.103,-85.459
+5272,Wellston,Manistee County,44.217,-85.958
+5035,Tustin,Osceola County,44.103,-85.459
 1995,Grand Marais,Alger County,46.671,-85.985
 1625,Eureka,Clinton County,43.104,-84.514
 0148,Applegate,Sanilac County,43.355,-82.637
@@ -446,18 +446,18 @@ phoneme,name,county,latitude,longitude
 0759,Cannonsburg,Kent County,43.054,-85.470
 0648,Brutus,Emmet County,45.493,-84.781
 2899,Loomis,Isabella County,43.793,-84.667
-4733,Stanwood,Mecosta County,43.579,-85.449
+4732,Stanwood,Mecosta County,43.579,-85.449
 0300,Bay View,Emmet County,45.386,-84.930
 1671,Falmouth,Missaukee County,44.243,-85.087
 1783,Fountain,Mason County,44.047,-86.179
 4251,Rock,Delta County,46.069,-87.166
 0786,Carney,Menominee County,45.587,-87.557
-5433,Winn,Isabella County,43.523,-84.902
+5432,Winn,Isabella County,43.523,-84.902
 3169,Melvin,Sanilac County,43.186,-82.862
 2443,Ironton,Charlevoix County,45.258,-85.191
-4697,St. James,Charlevoix County,45.746,-85.522
+4700,St. James,Charlevoix County,45.746,-85.522
 3595,Norwood,Charlevoix County,45.217,-85.381
-5042,Twining,Arenac County,44.113,-83.807
+5041,Twining,Arenac County,44.113,-83.807
 3034,Maple Grove,Benzie County,44.708,-85.853
 0051,Alden,Antrim County,44.881,-85.276
 0090,Alpha,Iron County,46.044,-88.377
@@ -465,7 +465,7 @@ phoneme,name,county,latitude,longitude
 1149,Covington,Baraga County,46.541,-88.537
 0524,Boon,Wexford County,44.290,-85.602
 1762,Forestville,Sanilac County,43.662,-82.609
-4601,Snowshoe,Keweenaw County,47.240,-88.233
+4606,Snowshoe,Keweenaw County,47.240,-88.233
 1433,Eagle Harbor,Keweenaw County,47.458,-88.162
 1436,Eagle River,Keweenaw County,47.414,-88.296
 3888,Pilgrim,Benzie County,44.665,-86.246
@@ -529,20 +529,20 @@ phoneme,name,county,latitude,longitude
 3874,Phoenix,Keweenaw County,47.389,-88.278
 3928,Pittsburg,Shiawassee County,0.000,0.000
 4060,Pullman,Allegan County,42.484,-86.091
-4389,Samaria,Monroe County,41.808,-83.578
-4435,Sans Souci,St. Clair County,42.579,-82.564
-4473,Scofield,Monroe County,42.021,-83.482
-4506,Seney,Schoolcraft County,46.346,-85.946
-4542,Sherman,Wexford County,44.424,-85.697
-4646,Spalding,Menominee County,45.696,-87.511
-5048,Yuba,Grand Traverse County,44.823,-85.459
-5071,University Center,Bay County,43.558,-83.983
-5205,Walton,Grand Traverse County,44.521,-85.399
-5345,Whittaker,Washtenaw County,42.128,-83.600
-5359,White Rock,Huron County,43.710,-82.609
-5398,Williamsburg,Grand Traverse County,44.774,-85.404
-5400,Williamsport,Manistee County,44.358,-86.264
-5406,Willis,Washtenaw County,42.158,-83.559
-5409,Willow,Wayne County,42.116,-83.396
-5421,Wilson,Menominee County,45.705,-87.438
-5437,Winona,Houghton County,46.874,-88.907
+4394,Samaria,Monroe County,41.808,-83.578
+4440,Sans Souci,St. Clair County,42.579,-82.564
+4478,Scofield,Monroe County,42.021,-83.482
+4511,Seney,Schoolcraft County,46.346,-85.946
+4547,Sherman,Wexford County,44.424,-85.697
+4651,Spalding,Menominee County,45.696,-87.511
+5047,Yuba,Grand Traverse County,44.823,-85.459
+5070,University Center,Bay County,43.558,-83.983
+5204,Walton,Grand Traverse County,44.521,-85.399
+5344,Whittaker,Washtenaw County,42.128,-83.600
+5358,White Rock,Huron County,43.710,-82.609
+5397,Williamsburg,Grand Traverse County,44.774,-85.404
+5399,Williamsport,Manistee County,44.358,-86.264
+5405,Willis,Washtenaw County,42.158,-83.559
+5408,Willow,Wayne County,42.116,-83.396
+5420,Wilson,Menominee County,45.705,-87.438
+5436,Winona,Houghton County,46.874,-88.907

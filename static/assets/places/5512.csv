@@ -1,13 +1,9 @@
 id,name,state,county,country,level,population,latitude,longitude,wiki
-47896,Wyoming,,,United States,state,581381,43.000,-107.555,38683
-47886,Wyoming,MI,Kent County,,city-us,76749,42.913,-85.705,37702
-47881,Wyoming,OH,Hamilton County,,city-us,8692,39.231,-84.466,5598
-47880,Wyoming,MN,Chisago County,,city-us,8063,45.336,-92.997,3830
-47889,Wyoming,PA,Luzerne County,,city-us,3103,41.312,-75.837,6070
-47885,Wyoming,DE,Kent County,,city-us,1801,39.118,-75.559,5625
-47891,Wyoming,IL,Stark County,,city-us,1278,41.062,-89.773,4038
-47884,Wyoming,IA,Jones County,,city-us,540,42.059,-91.007,3227
-47894,Wyoming,NY,Wyoming County,,city-us,388,42.826,-78.090,3715
-47883,Wyoming,WI,Iowa County,,city-us,364,43.126,-90.112,2349
-47893,Wyoming,WI,Waupaca County,,city-us,318,44.646,-89.041,1895
-47892,Wyoming,RI,Washington County,,city-us,182,41.515,-71.701,2375
+47914,Yale,MI,St. Clair County,,city-us,1910,43.130,-82.798,4911
+47912,Yale,OK,Payne County,,city-us,1088,36.114,-96.699,4098
+47910,Yale,IA,Guthrie County,,city-us,264,41.777,-94.358,6051
+47907,Yale,SD,Beadle County,,city-us,107,44.434,-97.990,2850
+47909,Yale,KS,Crawford County,,city-us,81,37.484,-94.642,701
+47911,Yale,IL,Jasper County,,city-us,68,39.120,-88.025,1959
+47908,Yale,WA,Cowlitz County,,city-us,0,45.995,-122.380,1053
+47915,Yale,VA,Sussex County,,city-us,0,36.846,-77.287,590

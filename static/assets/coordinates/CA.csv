@@ -1,15 +1,15 @@
 phoneme,name,county,latitude,longitude
 2908,Los Angeles,Los Angeles County,34.052,-118.244
-4397,San Diego,San Diego County,32.715,-117.157
-4400,San Jose,Santa Clara County,37.339,-121.895
+4402,San Diego,San Diego County,32.715,-117.157
+4405,San Jose,Santa Clara County,37.339,-121.895
 1823,Fresno,Fresno County,36.748,-119.772
 4363,Sacramento,Sacramento County,38.582,-121.494
 2885,Long Beach,Los Angeles County,33.767,-118.189
 3620,Oakland,Alameda County,37.804,-122.271
 0247,Bakersfield,Kern County,35.373,-119.019
-4773,Stockton,San Joaquin County,37.958,-121.291
+4772,Stockton,San Joaquin County,37.958,-121.291
 4237,Riverside,Riverside County,33.953,-117.396
-4436,Santa Ana,Orange County,33.746,-117.868
+4441,Santa Ana,Orange County,33.746,-117.868
 2445,Irvine,Orange County,33.669,-117.823
 0955,Chula Vista,San Diego County,32.640,-117.084
 1817,Fremont,Alameda County,37.548,-121.989
@@ -18,21 +18,21 @@ phoneme,name,county,latitude,longitude
 1939,Glendale,Los Angeles County,34.143,-118.255
 1532,Elk Grove,Sacramento County,38.409,-121.372
 3676,Ontario,San Bernardino County,34.063,-117.651
-4444,Santa Rosa,Sonoma County,38.440,-122.714
+4449,Santa Rosa,Sonoma County,38.440,-122.714
 3630,Oceanside,San Diego County,33.196,-117.379
 1861,Garden Grove,Orange County,33.774,-117.941
 2719,Lancaster,Los Angeles County,34.698,-118.137
 3762,Palmdale,Los Angeles County,34.579,-118.116
 2204,Hayward,Alameda County,37.669,-122.081
 1125,Corona,Riverside County,33.875,-117.566
-4837,Sunnyvale,Santa Clara County,37.369,-122.036
+4836,Sunnyvale,Santa Clara County,37.369,-122.036
 4308,Roseville,Placer County,38.752,-121.288
 3982,Pomona,Los Angeles County,34.055,-117.752
-5158,Visalia,Tulare County,36.330,-119.292
+5157,Visalia,Tulare County,36.330,-119.292
 1839,Fullerton,Orange County,33.870,-117.925
 3683,Orange,Orange County,33.788,-117.853
 3801,Pasadena,Los Angeles County,34.148,-118.145
-4437,Santa Clara,Santa Clara County,37.354,-121.955
+4442,Santa Clara,Santa Clara County,37.354,-121.955
 1088,Concord,Contra Costa County,37.978,-122.031
 1018,Clovis,Fresno County,36.825,-119.703
 1647,Fairfield,Solano County,38.249,-122.040
@@ -41,32 +41,32 @@ phoneme,name,county,latitude,longitude
 0780,Carlsbad,San Diego County,33.158,-117.351
 0143,Antioch,Contra Costa County,38.005,-121.806
 1374,Downey,Los Angeles County,33.940,-118.133
-4441,Santa Maria,Santa Barbara County,34.953,-120.436
+4446,Santa Maria,Santa Barbara County,34.953,-120.436
 3176,Menifee,Riverside County,33.728,-117.146
 0677,Burbank,Los Angeles County,34.181,-118.309
 2421,Inglewood,Los Angeles County,33.962,-118.353
 0937,Chico,Butte County,39.728,-121.837
-4407,San Mateo,San Mateo County,37.563,-122.326
+4412,San Mateo,San Mateo County,37.563,-122.326
 2249,Hesperia,San Bernardino County,34.426,-117.301
 3592,Norwalk,Los Angeles County,33.902,-118.082
-5159,Vista,San Diego County,33.200,-117.243
-4992,Tracy,San Joaquin County,37.740,-121.425
-4404,San Marcos,San Diego County,33.143,-117.166
+5158,Vista,San Diego County,33.200,-117.243
+4991,Tracy,San Joaquin County,37.740,-121.425
+4409,San Marcos,San Diego County,33.143,-117.166
 1085,Compton,Los Angeles County,33.896,-118.220
 0797,Carson,Los Angeles County,33.831,-118.282
 4131,Redding,Shasta County,40.587,-122.392
-4442,Santa Monica,Los Angeles County,34.019,-118.491
-5324,Westminster,Orange County,33.759,-118.007
+4447,Santa Monica,Los Angeles County,34.019,-118.491
+5323,Westminster,Orange County,33.759,-118.007
 2856,Livermore,Alameda County,37.682,-121.768
 2198,Hawthorne,Los Angeles County,33.916,-118.353
 2681,Lake Forest,Orange County,33.647,-117.689
-5381,Whittier,Los Angeles County,33.979,-118.033
+5380,Whittier,Los Angeles County,33.979,-118.033
 3397,Mountain View,Santa Clara County,37.386,-122.084
 1742,Folsom,Sacramento County,38.678,-121.176
 0068,Alhambra,Los Angeles County,34.095,-118.127
 2709,Lakewood,Los Angeles County,33.854,-118.134
-5036,Tustin,Orange County,33.746,-117.826
-5075,Upland,San Bernardino County,34.098,-117.648
+5035,Tustin,Orange County,33.746,-117.826
+5074,Upland,San Bernardino County,34.098,-117.648
 2620,Napa,Napa County,38.297,-122.286
 3955,Pleasanton,Alameda County,37.662,-121.875
 0360,Bellflower,Los Angeles County,33.882,-118.117
@@ -76,20 +76,20 @@ phoneme,name,county,latitude,longitude
 1396,Dublin,Alameda County,37.702,-121.936
 1464,Eastvale,Riverside County,33.964,-117.564
 0250,Baldwin Park,Los Angeles County,34.085,-117.961
-5198,Walnut Creek,Contra Costa County,37.906,-122.065
-5061,Union City,Alameda County,37.596,-122.019
+5197,Walnut Creek,Contra Costa County,37.906,-122.065
+5060,Union City,Alameda County,37.596,-122.019
 2871,Lodi,San Joaquin County,38.130,-121.272
 1263,Davis,Yolo County,38.545,-121.741
 3767,Palo Alto,Santa Clara County,37.442,-122.143
 2965,Lynwood,Los Angeles County,33.930,-118.211
 0576,Brentwood,Contra Costa County,37.932,-121.696
 4003,Porterville,Tulare County,36.065,-119.017
-4439,Santa Cruz,Santa Cruz County,36.974,-122.031
-5471,Woodland,Yolo County,38.679,-121.773
+4444,Santa Cruz,Santa Cruz County,36.974,-122.031
+5470,Woodland,Yolo County,38.679,-121.773
 3302,Montebello,Los Angeles County,34.009,-118.105
-4412,San Rafael,Marin County,37.974,-122.531
+4417,San Rafael,Marin County,37.974,-122.531
 2649,La Mesa,San Diego County,32.768,-117.023
-4445,Santee,San Diego County,32.838,-116.974
+4450,Santee,San Diego County,32.838,-116.974
 1863,Gardena,Los Angeles County,33.888,-118.309
 3305,Monterey Park,Los Angeles County,34.063,-118.123
 2129,Hanford,Kings County,36.327,-119.646
@@ -111,55 +111,55 @@ phoneme,name,county,latitude,longitude
 2319,Hollister,San Benito County,36.852,-121.402
 1253,Danville,Contra Costa County,37.822,-122.000
 0742,Campbell,Santa Clara County,37.287,-121.950
-5148,Vineyard,Sacramento County,38.464,-121.347
+5147,Vineyard,Sacramento County,38.464,-121.347
 2655,La Presa,San Diego County,32.708,-116.997
 3301,Montclair,San Bernardino County,34.078,-117.690
-4732,Stanton,Orange County,33.803,-117.993
+4731,Stanton,Orange County,33.803,-117.993
 3295,Monrovia,Los Angeles County,34.148,-117.999
 3073,Martinez,Contra Costa County,38.019,-122.134
-5325,Westmont,Los Angeles County,33.941,-118.302
+5324,Westmont,Los Angeles County,33.941,-118.302
 0968,Claremont,Los Angeles County,34.097,-117.720
 3013,Manhattan Beach,Los Angeles County,33.885,-118.411
 3948,Pleasant Hill,Contra Costa County,37.948,-122.061
-4667,Spring Valley,San Diego County,32.745,-116.999
+4672,Spring Valley,San Diego County,32.745,-116.999
 0346,Bell,Los Angeles County,33.978,-118.187
 3178,Menlo Park,San Mateo County,37.454,-122.182
-4489,Seaside,Monterey County,36.611,-121.845
+4494,Seaside,Monterey County,36.611,-121.845
 0209,Atwater,Merced County,37.348,-120.609
 0417,Beverly Hills,Los Angeles County,34.074,-118.400
-4409,San Pablo,Contra Costa County,37.962,-122.346
+4414,San Pablo,Contra Costa County,37.962,-122.346
 1640,Fair Oaks,Sacramento County,38.645,-121.272
 2755,Lawndale,Los Angeles County,33.887,-118.353
 2907,Los Altos,Santa Clara County,37.385,-122.114
 2743,Lathrop,San Joaquin County,37.823,-121.277
-4449,Saratoga,Santa Clara County,37.264,-122.023
+4454,Saratoga,Santa Clara County,37.264,-122.023
 0685,Burlingame,San Mateo County,37.584,-122.366
-4395,San Carlos,San Mateo County,37.507,-122.261
+4400,San Carlos,San Mateo County,37.507,-122.261
 3304,Monterey,Monterey County,36.600,-121.895
-4402,San Lorenzo,Alameda County,37.681,-122.124
-5222,Wasco,Kern County,35.594,-119.341
+4407,San Lorenzo,Alameda County,37.681,-122.124
+5221,Wasco,Kern County,35.594,-119.341
 4203,Ridgecrest,Kern County,35.622,-117.671
-5197,Walnut,Los Angeles County,34.020,-117.865
+5196,Walnut,Los Angeles County,34.020,-117.865
 2783,Lemon Grove,San Diego County,32.743,-117.031
 0370,Belmont,San Mateo County,37.520,-122.276
-4434,Sanger,Fresno County,36.708,-119.556
+4439,Sanger,Fresno County,36.708,-119.556
 1625,Eureka,Humboldt County,40.802,-124.164
-4631,South Pasadena,Los Angeles County,34.116,-118.150
+4636,South Pasadena,Los Angeles County,34.116,-118.150
 2236,Hercules,Contra Costa County,38.017,-122.289
 3549,Norco,Riverside County,33.931,-117.549
-5427,Windsor,Sonoma County,38.547,-122.816
+5426,Windsor,Sonoma County,38.547,-122.816
 1504,El Cerrito,Contra Costa County,37.916,-122.312
 1852,Galt,Sacramento County,38.255,-121.300
 0279,Barstow,San Bernardino County,34.899,-117.023
 2667,Lafayette,Contra Costa County,37.886,-122.118
 2878,Loma Linda,San Bernardino County,34.048,-117.261
-4612,Soledad,Monterey County,36.425,-121.326
-4503,Selma,Fresno County,36.571,-119.612
+4617,Soledad,Monterey County,36.425,-121.326
+4508,Selma,Fresno County,36.571,-119.612
 3109,Maywood,Los Angeles County,33.987,-118.185
 3393,Mountain House,San Joaquin County,37.774,-121.544
 4305,Rosemont,Sacramento County,38.552,-121.365
 3804,Patterson,Stanislaus County,37.472,-121.130
-4399,San Fernando,Los Angeles County,34.282,-118.439
+4404,San Fernando,Los Angeles County,34.282,-118.439
 0187,Ashland,Alameda County,37.695,-122.114
 3615,Oakdale,Stanislaus County,37.767,-120.847
 2671,Laguna Beach,Orange County,33.542,-117.783
@@ -170,10 +170,10 @@ phoneme,name,county,latitude,longitude
 2786,Lennox,Los Angeles County,33.938,-118.353
 2704,Lakeside,San Diego County,32.857,-116.922
 2405,Imperial,Imperial County,32.848,-115.569
-4518,Shafter,Kern County,35.501,-119.272
+4523,Shafter,Kern County,35.501,-119.272
 4295,Rosamond,Kern County,34.864,-118.163
 3700,Oroville,Butte County,39.514,-121.556
-5087,Valle Vista,Riverside County,33.748,-116.893
+5086,Valle Vista,Riverside County,33.748,-116.893
 0044,Albany,Alameda County,37.887,-122.298
 2047,Greenfield,Monterey County,36.321,-121.244
 1337,Dixon,Solano County,38.445,-121.823
@@ -181,11 +181,11 @@ phoneme,name,county,latitude,longitude
 0499,Blythe,Riverside County,33.610,-114.596
 0738,Cameron Park,El Dorado County,38.669,-120.987
 2855,Live Oak,Santa Cruz County,36.984,-121.981
-5050,Ukiah,Mendocino County,39.150,-123.208
+5049,Ukiah,Mendocino County,39.150,-123.208
 1706,Fillmore,Ventura County,34.399,-118.918
 4224,Ripon,San Joaquin County,37.742,-121.124
-5146,Vincent,Los Angeles County,34.501,-118.116
-4729,Stanford,Santa Clara County,37.424,-122.166
+5145,Vincent,Los Angeles County,34.501,-118.116
+4728,Stanford,Santa Clara County,37.424,-122.166
 2571,Kerman,Fresno County,36.724,-120.060
 3791,Parkway,Sacramento County,38.496,-121.459
 0179,Artesia,Los Angeles County,33.866,-118.083
@@ -193,7 +193,7 @@ phoneme,name,county,latitude,longitude
 0091,Alpine,San Diego County,32.835,-116.766
 1510,El Sobrante,Contra Costa County,37.977,-122.295
 0041,Alamo,Contra Costa County,37.850,-122.032
-4379,Salida,Stanislaus County,37.706,-121.085
+4384,Salida,Stanislaus County,37.706,-121.085
 2858,Livingston,Merced County,37.387,-120.724
 3128,McFarland,Kern County,35.678,-119.229
 2717,Lamont,Kern County,35.260,-118.914
@@ -207,14 +207,14 @@ phoneme,name,county,latitude,longitude
 3080,Marysville,Yuba County,39.146,-121.591
 2834,Lindsay,Tulare County,36.203,-119.088
 1779,Fortuna,Humboldt County,40.598,-124.157
-4405,San Marino,Los Angeles County,34.121,-118.106
+4410,San Marino,Los Angeles County,34.121,-118.106
 1510,El Sobrante,Riverside County,33.872,-117.463
 1083,Commerce,Los Angeles County,34.001,-118.160
 4314,Rossmoor,Orange County,33.786,-118.085
-5444,Winton,Merced County,37.389,-120.613
+5443,Winton,Merced County,37.389,-120.613
 1332,Diamond Springs,El Dorado County,38.695,-120.815
 2281,Hillcrest,Kern County,35.380,-118.956
-5089,Valley Center,San Diego County,33.218,-117.034
+5088,Valley Center,San Diego County,33.218,-117.034
 0123,Anderson,Shasta County,40.448,-122.298
 0765,Canyon Lake,Riverside County,33.685,-117.273
 3879,Piedmont,Alameda County,37.824,-122.232
@@ -223,7 +223,7 @@ phoneme,name,county,latitude,longitude
 0992,Clayton,Contra Costa County,37.941,-121.936
 1298,Delhi,Merced County,37.432,-120.779
 3934,Placerville,El Dorado County,38.730,-120.799
-4854,Swansboro,El Dorado County,38.730,-120.799
+4853,Swansboro,El Dorado County,38.730,-120.799
 1677,Farmersville,Tulare County,36.298,-119.207
 1638,Exeter,Tulare County,36.296,-119.142
 4222,Rio Vista,Solano County,38.156,-121.691
@@ -236,52 +236,52 @@ phoneme,name,county,latitude,longitude
 4278,Rodeo,Contra Costa County,38.033,-122.267
 1172,Crestline,San Bernardino County,34.242,-117.286
 2855,Live Oak,Sutter County,39.276,-121.660
-5231,Waterford,Stanislaus County,37.641,-120.760
+5230,Waterford,Stanislaus County,37.641,-120.760
 3608,Oak Hills,San Bernardino County,34.383,-117.381
 1016,Cloverdale,Sonoma County,38.805,-123.017
 2640,La Cresta,Kern County,35.401,-118.996
-4880,Taft,Kern County,35.142,-119.457
+4879,Taft,Kern County,35.142,-119.457
 1966,Gonzales,Monterey County,36.507,-121.444
 2078,Guadalupe,Santa Barbara County,34.972,-120.572
-4908,Templeton,San Luis Obispo County,35.550,-120.706
+4907,Templeton,San Luis Obispo County,35.550,-120.706
 2219,Heber,Imperial County,32.731,-115.530
 3695,Orland,Glenn County,39.747,-122.196
 1121,Corning,Tehama County,39.928,-122.179
 2427,Interlaken,Santa Cruz County,36.951,-121.734
 1967,Good Hope,Riverside County,33.765,-117.267
-5322,Westlake Village,Los Angeles County,34.146,-118.806
+5321,Westlake Village,Los Angeles County,34.146,-118.806
 0925,Cherry Valley,Riverside County,33.973,-116.977
-5470,Woodlake,Tulare County,36.414,-119.099
+5469,Woodlake,Tulare County,36.414,-119.099
 0377,Ben Lomond,Santa Cruz County,37.089,-122.086
 1646,Fairfax,Marin County,37.987,-122.589
 0826,Castroville,Monterey County,36.766,-121.758
-4493,Sebastopol,Sonoma County,38.402,-122.824
+4498,Sebastopol,Sonoma County,38.402,-122.824
 1800,Franklin,Merced County,37.328,-120.532
 2064,Gridley,Butte County,39.364,-121.694
-5441,Winters,Yolo County,38.525,-121.971
-4406,San Martin,Santa Clara County,37.088,-121.600
+5440,Winters,Yolo County,38.525,-121.971
+4411,San Martin,Santa Clara County,37.088,-121.600
 1789,Fowler,Fresno County,36.631,-119.678
 0198,Atherton,San Mateo County,37.461,-122.198
 2899,Loomis,Placer County,38.821,-121.193
 0011,Acton,Los Angeles County,34.470,-118.197
 2333,Homeland,Riverside County,33.743,-117.109
 1168,Crescent City,Del Norte County,41.756,-124.202
-5423,Wilton,Sacramento County,38.412,-121.272
+5422,Wilton,Sacramento County,38.412,-121.272
 2391,Huron,Fresno County,36.203,-120.103
 2089,Gustine,Merced County,37.258,-120.999
 1421,Durham,Butte County,39.646,-121.800
 1139,Cottonwood,Shasta County,40.386,-122.281
 1869,Garnet,Riverside County,33.902,-116.546
-5140,Villa Park,Orange County,33.814,-117.813
-5397,Williams,Colusa County,39.155,-122.149
+5139,Villa Park,Orange County,33.814,-117.813
+5396,Williams,Colusa County,39.155,-122.149
 2329,Holtville,Imperial County,32.811,-115.380
 0734,Cambria,San Luis Obispo County,35.564,-121.081
 2580,Keyes,Stanislaus County,37.557,-120.915
 0677,Burbank,Santa Clara County,37.323,-121.932
 3755,Palermo,Butte County,39.435,-121.538
-4695,St. Helena,Napa County,38.505,-122.470
-4795,Strawberry,Marin County,37.897,-122.509
-5040,Twin Lakes,Santa Cruz County,36.967,-121.998
+4698,St. Helena,Napa County,38.505,-122.470
+4794,Strawberry,Marin County,37.897,-122.509
+5039,Twin Lakes,Santa Cruz County,36.967,-121.998
 2432,Ione,Amador County,38.353,-120.933
 3619,Oakhurst,Madera County,37.328,-119.649
 3775,Paradise,Butte County,39.760,-121.622
@@ -289,36 +289,36 @@ phoneme,name,county,latitude,longitude
 1226,Cutler,Tulare County,36.523,-119.287
 1979,Goshen,Tulare County,36.351,-119.420
 2701,Lakeport,Lake County,39.043,-122.916
-5484,Woodside,San Mateo County,37.430,-122.254
+5483,Woodside,San Mateo County,37.430,-122.254
 2460,Jackson,Amador County,38.349,-120.774
 1504,El Cerrito,Riverside County,33.841,-117.523
 2562,Kensington,Contra Costa County,37.911,-122.280
-4619,Sonora,Tuolumne County,37.984,-120.382
-5396,Willits,Mendocino County,39.410,-123.356
+4624,Sonora,Tuolumne County,37.984,-120.382
+5395,Willits,Mendocino County,39.410,-123.356
 2413,Indian Wells,Riverside County,33.719,-116.308
 3090,Mather,Sacramento County,38.548,-121.284
 2040,Greenacres,Kern County,35.383,-119.110
 0600,Brisbane,San Mateo County,37.681,-122.400
-4836,Sunnyside,Fresno County,36.749,-119.699
+4835,Sunnyside,Fresno County,36.749,-119.699
 3152,Mecca,Riverside County,33.572,-116.077
 2457,Ivanhoe,Tulare County,36.387,-119.218
 1748,Ford City,Kern County,35.154,-119.456
 1100,Cool,El Dorado County,38.887,-121.015
 1505,El Dorado,El Dorado County,38.683,-120.848
-5465,Woodbridge,San Joaquin County,38.154,-121.301
-5255,Weaverville,Trinity County,40.731,-122.942
-5096,Valley Springs,Calaveras County,38.192,-120.829
+5464,Woodbridge,San Joaquin County,38.154,-121.301
+5254,Weaverville,Trinity County,40.731,-122.942
+5095,Valley Springs,Calaveras County,38.192,-120.829
 3150,Meadowbrook,Riverside County,33.726,-117.285
 2047,Greenfield,Kern County,35.269,-119.003
 0442,Bishop,Inyo County,37.364,-118.395
-5339,Wheatland,Yuba County,39.010,-121.423
+5338,Wheatland,Yuba County,39.010,-121.423
 1818,French Camp,San Joaquin County,37.884,-121.271
 1762,Forestville,Sonoma County,38.474,-122.890
-4617,Somerset,El Dorado County,38.648,-120.686
+4622,Somerset,El Dorado County,38.648,-120.686
 2739,Las Lomas,Monterey County,36.865,-121.735
 0349,Bella Vista,Shasta County,40.641,-122.233
 0747,Campo,San Diego County,32.606,-116.469
-4408,San Miguel,Contra Costa County,37.887,-122.037
+4413,San Miguel,Contra Costa County,37.887,-122.037
 2686,Lake Isabella,Kern County,35.618,-118.473
 2470,Jamestown,Tuolumne County,37.953,-120.423
 4287,Rollingwood,Contra Costa County,37.965,-122.330
@@ -333,12 +333,12 @@ phoneme,name,county,latitude,longitude
 0400,Burney,Shasta County,40.882,-121.661
 4366,Sage,Riverside County,33.582,-116.932
 4219,Rio Dell,Humboldt County,40.499,-124.106
-4792,Strathmore,Tulare County,36.146,-119.061
+4791,Strathmore,Tulare County,36.146,-119.061
 0032,Agua Dulce,Los Angeles County,34.496,-118.326
-5425,Winchester,Riverside County,33.707,-117.084
+5424,Winchester,Riverside County,33.707,-117.084
 3565,North Fork,Madera County,37.230,-119.509
 2029,Green Acres,Riverside County,33.738,-117.076
-4960,Tipton,Tulare County,36.059,-119.312
+4959,Tipton,Tulare County,36.059,-119.312
 1894,Georgetown,El Dorado County,38.907,-120.839
 2937,Lucerne,Lake County,39.090,-122.796
 0307,Bayview,Humboldt County,40.773,-124.184
@@ -347,27 +347,27 @@ phoneme,name,county,latitude,longitude
 1353,Dogtown,San Joaquin County,38.214,-121.089
 3299,Montara,San Mateo County,37.542,-122.516
 2471,Janesville,Lassen County,40.297,-120.524
-5262,Weed,Siskiyou County,41.423,-122.386
+5261,Weed,Siskiyou County,41.423,-122.386
 3897,Pine Grove,Amador County,38.413,-120.659
-4408,San Miguel,San Luis Obispo County,35.752,-120.696
+4413,San Miguel,San Luis Obispo County,35.752,-120.696
 0307,Bayview,Contra Costa County,38.007,-122.319
 3624,Oasis,Riverside County,33.466,-116.099
 0100,Alturas,Modoc County,41.487,-120.542
 3534,Nice,Lake County,39.123,-122.848
 2559,Kennedy,San Joaquin County,37.930,-121.253
-4944,Three Rivers,Tulare County,36.439,-118.905
+4943,Three Rivers,Tulare County,36.439,-118.905
 4170,Rescue,El Dorado County,38.712,-120.951
 0655,Buckhorn,Amador County,38.452,-120.529
 4235,Riverdale,Fresno County,36.431,-119.860
-4587,Sleepy Hollow,Marin County,38.010,-122.584
+4592,Sleepy Hollow,Marin County,38.010,-122.584
 3792,Parkwood,Madera County,36.927,-120.045
 1862,Garden Valley,El Dorado County,38.854,-120.859
 4312,Ross,Marin County,37.962,-122.555
 2707,Lakeview,Riverside County,33.839,-117.118
-5266,Weldon,Kern County,35.666,-118.290
+5265,Weldon,Kern County,35.666,-118.290
 0726,Callender,San Luis Obispo County,35.053,-120.596
 0930,Chester,Plumas County,40.306,-121.232
-4583,Sky Valley,Riverside County,33.890,-116.353
+4588,Sky Valley,Riverside County,33.890,-116.353
 1460,Easton,Fresno County,36.650,-119.791
 4095,Rainbow,San Diego County,33.410,-117.148
 0440,Byron,Contra Costa County,37.867,-121.638
@@ -377,16 +377,16 @@ phoneme,name,county,latitude,longitude
 1059,Colfax,Placer County,39.101,-120.953
 3953,Pleasant Valley,El Dorado County,38.683,-120.663
 0433,Biggs,Butte County,39.412,-121.713
-5488,Woodville,Tulare County,36.094,-119.199
+5487,Woodville,Tulare County,36.094,-119.199
 2832,Linden,San Joaquin County,38.021,-121.084
 3397,Mountain View,Contra Costa County,38.009,-122.117
 1062,Collierville,San Joaquin County,38.215,-121.269
 1527,Elizabeth Lake,Los Angeles County,34.656,-118.380
 2801,Lewiston,Trinity County,40.707,-122.808
-4814,Sugarloaf,San Bernardino County,34.243,-116.829
+4813,Sugarloaf,San Bernardino County,34.243,-116.829
 2019,Graton,Sonoma County,38.436,-122.870
 4081,Quincy,Plumas County,39.937,-120.947
-4488,Seeley,Imperial County,32.793,-115.691
+4493,Seeley,Imperial County,32.793,-115.691
 0072,Allendale,Solano County,38.445,-121.943
 2693,Lake Sherwood,Ventura County,34.132,-118.885
 4286,Rolling Hills,Los Angeles County,33.757,-118.354
@@ -395,19 +395,19 @@ phoneme,name,county,latitude,longitude
 2039,Green Valley,Solano County,38.253,-122.162
 2428,Inverness,Marin County,38.101,-122.857
 2762,Le Grand,Merced County,37.229,-120.248
-5211,Warm Springs,Riverside County,33.707,-117.334
+5210,Warm Springs,Riverside County,33.707,-117.334
 3211,Middletown,Lake County,38.752,-122.615
 2879,London,Tulare County,36.476,-119.443
 3919,Pioneer,Amador County,38.432,-120.572
 1293,Del Rio,Stanislaus County,37.744,-121.012
 1700,Ferndale,Humboldt County,40.576,-124.264
-5332,Westwood,Lassen County,40.306,-121.006
+5331,Westwood,Lassen County,40.306,-121.006
 1833,Fruitdale,Santa Clara County,37.311,-121.933
 2022,Grayson,Stanislaus County,37.564,-121.179
 2906,Los Alamos,Santa Barbara County,34.744,-120.278
 2522,Julian,San Diego County,33.079,-116.602
-4541,Sheridan,Placer County,38.980,-121.376
-5411,Willow Creek,Humboldt County,40.940,-123.631
+4546,Sheridan,Placer County,38.980,-121.376
+5410,Willow Creek,Humboldt County,40.940,-123.631
 0615,Brookdale,Santa Cruz County,37.106,-122.106
 3297,Montague,Siskiyou County,41.728,-122.528
 3519,Newcastle,Placer County,38.874,-121.133
@@ -416,16 +416,16 @@ phoneme,name,county,latitude,longitude
 2525,Junction City,Trinity County,40.733,-123.054
 0881,Chalfant,Mono County,37.492,-118.390
 2852,Littlerock,Los Angeles County,34.521,-117.984
-5199,Walnut Grove,Sacramento County,38.242,-121.512
+5198,Walnut Grove,Sacramento County,38.242,-121.512
 3838,Penn Valley,Nevada County,39.196,-121.191
-4791,Stratford,Kings County,36.189,-119.823
-4520,Shandon,San Luis Obispo County,35.655,-120.375
-5304,West Park,Fresno County,36.710,-119.851
+4790,Stratford,Kings County,36.189,-119.823
+4525,Shandon,San Luis Obispo County,35.655,-120.375
+5303,West Park,Fresno County,36.710,-119.851
 3099,Maxwell,Colusa County,39.276,-122.191
 3963,Plymouth,Amador County,38.482,-120.845
 0987,Clay,Sacramento County,38.336,-121.159
 4236,Riverdale Park,Stanislaus County,37.609,-121.052
-5371,Whitewater,Riverside County,33.925,-116.638
+5370,Whitewater,Riverside County,33.925,-116.638
 3842,Penryn,Placer County,38.852,-121.169
 0526,Boonville,Mendocino County,39.009,-123.366
 2151,Herald,Sacramento County,38.296,-121.244
@@ -434,24 +434,24 @@ phoneme,name,county,latitude,longitude
 3049,Maricopa,Kern County,35.059,-119.401
 2058,Greenwood,El Dorado County,38.897,-120.913
 2039,Green Valley,Los Angeles County,34.622,-118.414
-4884,Talmage,Mendocino County,39.133,-123.168
+4883,Talmage,Mendocino County,39.133,-123.168
 1378,Doyle,Lassen County,40.028,-120.104
 1521,Eldridge,Sonoma County,38.349,-122.511
 2998,Malaga,Fresno County,36.684,-119.734
 0822,Castle Hill,Contra Costa County,37.875,-122.059
-5232,Waterloo,San Joaquin County,38.035,-121.187
+5231,Waterloo,San Joaquin County,38.035,-121.187
 0096,Alto,Marin County,37.904,-122.526
-4939,Thornton,San Joaquin County,38.226,-121.425
+4938,Thornton,San Joaquin County,38.226,-121.425
 3113,McCloud,Siskiyou County,41.256,-122.139
 0251,Ballard,Santa Barbara County,34.636,-120.113
 1003,Clements,San Joaquin County,38.191,-121.088
 0664,Buena Vista,Amador County,38.294,-120.913
 3809,Patton Village,Lassen County,40.141,-120.155
-4667,Spring Valley,Lake County,39.076,-122.585
+4672,Spring Valley,Lake County,39.076,-122.585
 2406,Independence,Inyo County,36.803,-118.200
 2573,Kernville,Kern County,35.755,-118.425
-5193,Wallace,Calaveras County,38.194,-120.978
-5305,West Point,Calaveras County,38.399,-120.527
+5192,Wallace,Calaveras County,38.194,-120.978
+5304,West Point,Calaveras County,38.399,-120.527
 3247,Millville,Shasta County,40.549,-122.175
 3237,Millerton,Fresno County,36.977,-119.666
 2255,Hickman,Stanislaus County,37.624,-120.754
@@ -468,7 +468,7 @@ phoneme,name,county,latitude,longitude
 2056,Greenville,Plumas County,40.140,-120.951
 1032,Cobb,Lake County,38.822,-122.723
 0093,Alta,Placer County,39.207,-120.811
-5132,Victor,San Joaquin County,38.138,-121.206
+5131,Victor,San Joaquin County,38.138,-121.206
 1019,Clyde,Contra Costa County,38.025,-122.029
 4223,Ripley,Riverside County,33.525,-114.656
 1150,Cowan,Stanislaus County,37.560,-120.989
@@ -480,14 +480,14 @@ phoneme,name,county,latitude,longitude
 2073,Groveland,Tuolumne County,37.838,-120.233
 3939,Plainview,Tulare County,36.144,-119.134
 1041,Cohasset,Butte County,39.925,-121.731
-4678,Springville,Tulare County,36.130,-118.818
+4683,Springville,Tulare County,36.130,-118.818
 2984,Madison,Yolo County,38.679,-121.968
 2549,Kelsey,El Dorado County,38.799,-120.821
-4474,Scotia,Humboldt County,40.482,-124.101
+4479,Scotia,Humboldt County,40.482,-124.101
 1840,Fulton,Sonoma County,38.496,-122.770
 3858,Peters,San Joaquin County,37.981,-121.048
 2066,Grimes,Colusa County,39.074,-121.894
-4514,Seville,Tulare County,36.486,-119.223
+4519,Seville,Tulare County,36.486,-119.223
 0587,Bridgeport,Mono County,38.256,-119.231
 4319,Rough and Ready,Nevada County,39.230,-121.136
 0256,Bangor,Butte County,39.389,-121.405
@@ -495,7 +495,7 @@ phoneme,name,county,latitude,longitude
 0378,Bend,Tehama County,40.255,-122.209
 4243,Robbins,Sutter County,38.870,-121.706
 0134,Annapolis,Sonoma County,38.722,-123.370
-5189,Walker,Mono County,38.515,-119.477
+5188,Walker,Mono County,38.515,-119.477
 3065,Marshall,Marin County,38.161,-122.894
 3521,Newell,Modoc County,41.888,-121.372
 1494,Edna,San Luis Obispo County,35.204,-120.613
@@ -508,15 +508,15 @@ phoneme,name,county,latitude,longitude
 2061,Grenada,Siskiyou County,41.647,-122.520
 2005,Grangeville,Kings County,36.344,-119.709
 4047,Princeton,Colusa County,39.403,-122.010
-4757,Stirling City,Butte County,39.908,-121.528
+4756,Stirling City,Butte County,39.908,-121.528
 0289,Bass Lake,Madera County,37.325,-119.566
-5004,Trinidad,Humboldt County,41.059,-124.143
+5003,Trinidad,Humboldt County,41.059,-124.143
 3690,Orick,Humboldt County,41.287,-124.060
 1038,Coffee Creek,Trinity County,41.089,-122.709
 0839,Cazadero,Sonoma County,38.533,-123.085
-5043,Two Harbors,Los Angeles County,33.440,-118.498
+5042,Two Harbors,Los Angeles County,33.440,-118.498
 3028,Manton,Tehama County,40.435,-121.870
-4510,Seven Oaks,San Bernardino County,34.186,-116.914
+4515,Seven Oaks,San Bernardino County,34.186,-116.914
 0389,Benton,Mono County,37.819,-118.477
 0817,Cassel,Shasta County,40.919,-121.548
 0994,Clear Creek,Lassen County,40.298,-121.049
@@ -524,20 +524,20 @@ phoneme,name,county,latitude,longitude
 3009,Manchester,Mendocino County,38.970,-123.688
 0227,Avery,Calaveras County,38.204,-120.370
 0754,Canby,Modoc County,41.444,-120.870
-4591,Smith Corner,Kern County,35.478,-119.279
+4596,Smith Corner,Kern County,35.478,-119.279
 0049,Albion,Mendocino County,39.224,-123.769
 0815,Caspar,Mendocino County,39.364,-123.816
 0511,Bowles,Fresno County,36.604,-119.751
 1648,Fairhaven,Humboldt County,40.785,-124.203
 2417,Industry,Los Angeles County,34.020,-117.959
 2342,Hood,Sacramento County,38.368,-121.517
-4390,Samoa,Humboldt County,40.819,-124.186
+4395,Samoa,Humboldt County,40.819,-124.186
 2613,Kirkwood,Alpine County,38.689,-120.055
 2738,Las Flores,Tehama County,40.072,-122.163
-5144,Vina,Tehama County,39.933,-122.054
+5143,Vina,Tehama County,39.933,-122.054
 3071,Martell,Amador County,38.367,-120.796
 2745,Latrobe,El Dorado County,38.560,-120.984
-5124,Vernon,Los Angeles County,34.004,-118.230
+5123,Vernon,Los Angeles County,34.004,-118.230
 2048,Greenhorn,Plumas County,39.904,-120.751
 3258,Mineral,Tehama County,40.348,-121.595
 3871,Philo,Mendocino County,39.066,-123.445
@@ -551,24 +551,24 @@ phoneme,name,county,latitude,longitude
 4341,Rumsey,Yolo County,38.888,-122.237
 1777,Fort Washington,Fresno County,36.879,-119.761
 0868,Centerville,Fresno County,36.734,-119.498
-5119,Verdi,Sierra County,39.524,-120.013
+5118,Verdi,Sierra County,39.524,-120.013
 4352,Ruth,Trinity County,40.270,-123.321
 3886,Pike,Sierra County,39.439,-120.998
-4646,Spaulding,Lassen County,40.656,-120.786
+4651,Spaulding,Lassen County,40.656,-120.786
 1531,Elk Creek,Glenn County,39.605,-122.539
 2846,Litchfield,Lassen County,40.383,-120.387
 1679,Farmington,San Joaquin County,37.930,-121.000
 2143,Hardwick,Kings County,36.401,-119.719
-4599,Snelling,Merced County,37.519,-120.437
+4604,Snelling,Merced County,37.519,-120.437
 0496,Bluewater,San Bernardino County,34.174,-114.271
 2576,Keswick,Shasta County,40.622,-122.466
 4269,Rockville,Solano County,38.244,-122.122
 0423,Big Creek,Fresno County,37.205,-119.246
-4795,Strawberry,Tuolumne County,38.198,-120.009
+4794,Strawberry,Tuolumne County,38.198,-120.009
 0422,Big Bend,Shasta County,41.021,-121.911
 3137,McKittrick,Kern County,35.306,-119.623
 4322,Round Mountain,Shasta County,40.794,-121.942
-5224,Washington,Nevada County,39.359,-120.799
+5223,Washington,Nevada County,39.359,-120.799
 3290,Monmouth,Fresno County,36.566,-119.740
 2055,Greenview,Siskiyou County,41.551,-122.906
 0316,Bear Creek,Merced County,37.297,-120.417
@@ -578,22 +578,22 @@ phoneme,name,county,latitude,longitude
 0919,Cherokee,Butte County,39.646,-121.538
 2497,Johannesburg,Kern County,35.373,-117.635
 1612,Essex,San Bernardino County,34.734,-115.245
-5009,Trona,Inyo County,35.816,-117.347
-4384,Salmon Creek,Sonoma County,38.351,-123.062
+5008,Trona,Inyo County,35.816,-117.347
+4389,Salmon Creek,Sonoma County,38.351,-123.062
 0319,Bear Valley,Mariposa County,37.569,-120.119
 3498,New Pine Creek,Modoc County,41.987,-120.301
 2116,Hamburg,Siskiyou County,41.783,-123.060
 0319,Bear Valley,Alpine County,38.465,-120.040
 1258,Darwin,Inyo County,36.268,-117.592
 2969,Mabie,Plumas County,39.794,-120.521
-5161,Volcano,Amador County,38.443,-120.631
+5160,Volcano,Amador County,38.443,-120.631
 0555,Bradley,Monterey County,35.863,-120.801
 0792,Carrick,Siskiyou County,41.447,-122.364
 0801,Cartago,Inyo County,36.321,-118.026
-4984,Tuttle,Merced County,37.296,-120.379
-5330,Westport,Mendocino County,39.636,-123.783
+4983,Tuttle,Merced County,37.296,-120.379
+5329,Westport,Mendocino County,39.636,-123.783
 4036,Prattville,Plumas County,40.209,-121.157
-4608,Soda Springs,Nevada County,39.323,-120.380
+4613,Soda Springs,Nevada County,39.323,-120.380
 3985,Ponderosa,Tulare County,36.105,-118.528
 1509,El Rancho,Tulare County,36.221,-119.068
 1484,Edgewood,Siskiyou County,41.458,-122.432
@@ -602,23 +602,23 @@ phoneme,name,county,latitude,longitude
 1141,Coulterville,Mariposa County,37.710,-120.198
 2679,Lake City,Modoc County,41.643,-120.217
 2897,Lookout,Modoc County,41.208,-121.155
-4910,Tennant,Siskiyou County,41.584,-121.913
+4909,Tennant,Siskiyou County,41.584,-121.913
 2543,Keeler,Inyo County,36.487,-117.874
 1353,Dogtown,Marin County,37.945,-122.706
 1800,Franklin,Sacramento County,38.379,-121.454
-4902,Taylorsville,Plumas County,40.075,-120.840
+4901,Taylorsville,Plumas County,40.075,-120.840
 3551,Norden,Nevada County,39.318,-120.356
-4555,Shoshone,Inyo County,35.973,-116.271
+4560,Shoshone,Inyo County,35.973,-116.271
 1440,Eagleville,Modoc County,41.316,-120.116
 4238,Riverton,El Dorado County,38.771,-120.449
-5039,Twin Bridges,El Dorado County,38.811,-120.124
+5038,Twin Bridges,El Dorado County,38.811,-120.124
 2149,Harmony,San Luis Obispo County,35.509,-121.023
 3870,Phillips,El Dorado County,38.818,-120.078
 2008,Graniteville,Nevada County,39.441,-120.740
 2941,Ludlow,San Bernardino County,34.721,-116.160
 0109,Amboy,San Bernardino County,34.557,-115.745
 3530,Newtown,El Dorado County,38.704,-120.679
-4431,Sandy Valley,Inyo County,35.814,-115.678
+4436,Sandy Valley,Inyo County,35.814,-115.678
 0095,Altamont,Alameda County,37.744,-121.663
 0148,Applegate,Placer County,39.001,-120.993
 0195,Asuncion,San Luis Obispo County,35.515,-120.679
@@ -756,36 +756,36 @@ phoneme,name,county,latitude,longitude
 4309,Rosewood,Tehama County,40.280,-122.550
 4335,Rucker,Santa Clara County,37.054,-121.591
 4356,Ryan,Inyo County,36.323,-116.671
-4394,San Benito,San Benito County,36.510,-121.082
-4450,Saratoga Springs,Lake County,39.175,-122.981
-4453,Sargent,San Benito County,36.930,-121.586
-4484,Sea Cliff,Ventura County,34.341,-119.415
-4493,Sebastopol,Nevada County,39.363,-121.121
-4499,Selby,Contra Costa County,38.057,-122.244
-4567,Silver City,Tulare County,36.466,-118.646
-4608,Soda Springs,Placer County,39.247,-120.325
-4661,Spring Garden,Plumas County,39.895,-120.786
-4672,Springfield,Tuolumne County,38.021,-120.411
-4676,Springtown,Monterey County,36.645,-121.664
-4727,Standish,Lassen County,40.365,-120.422
-4782,Storey,Madera County,36.974,-120.019
-4795,Strawberry,El Dorado County,38.797,-120.145
-4824,Summit,Santa Cruz County,37.132,-121.980
-4856,Swanton,Santa Cruz County,37.064,-122.226
-4887,Tamarack,Calaveras County,38.439,-120.076
-4943,Three Points,Los Angeles County,34.736,-118.599
-4956,Timbuctoo,Yuba County,39.217,-121.319
-5009,Trona,San Bernardino County,35.765,-117.383
-5126,Verona,Alameda County,37.627,-121.881
-5130,Vichy Springs,Mendocino County,39.167,-123.158
-5130,Vichy Springs,Napa County,38.338,-122.260
-5151,Vinton,Plumas County,39.804,-120.178
-5263,Weimar,Placer County,39.038,-120.972
-5276,Wendel,Lassen County,40.348,-120.234
-5344,Whispering Pines,Lake County,38.814,-122.713
-5358,White River,Tulare County,35.812,-118.844
-5376,Whitmore,Shasta County,40.629,-121.917
-5415,Willow Springs,Kern County,34.878,-118.297
-5478,Woodleaf,Yuba County,39.517,-121.192
-5527,Yorkville,Mendocino County,38.898,-123.214
-5533,Zamora,Yolo County,38.797,-121.882
+4399,San Benito,San Benito County,36.510,-121.082
+4455,Saratoga Springs,Lake County,39.175,-122.981
+4458,Sargent,San Benito County,36.930,-121.586
+4489,Sea Cliff,Ventura County,34.341,-119.415
+4498,Sebastopol,Nevada County,39.363,-121.121
+4504,Selby,Contra Costa County,38.057,-122.244
+4572,Silver City,Tulare County,36.466,-118.646
+4613,Soda Springs,Placer County,39.247,-120.325
+4666,Spring Garden,Plumas County,39.895,-120.786
+4677,Springfield,Tuolumne County,38.021,-120.411
+4681,Springtown,Monterey County,36.645,-121.664
+4726,Standish,Lassen County,40.365,-120.422
+4781,Storey,Madera County,36.974,-120.019
+4794,Strawberry,El Dorado County,38.797,-120.145
+4823,Summit,Santa Cruz County,37.132,-121.980
+4855,Swanton,Santa Cruz County,37.064,-122.226
+4886,Tamarack,Calaveras County,38.439,-120.076
+4942,Three Points,Los Angeles County,34.736,-118.599
+4955,Timbuctoo,Yuba County,39.217,-121.319
+5008,Trona,San Bernardino County,35.765,-117.383
+5125,Verona,Alameda County,37.627,-121.881
+5129,Vichy Springs,Mendocino County,39.167,-123.158
+5129,Vichy Springs,Napa County,38.338,-122.260
+5150,Vinton,Plumas County,39.804,-120.178
+5262,Weimar,Placer County,39.038,-120.972
+5275,Wendel,Lassen County,40.348,-120.234
+5343,Whispering Pines,Lake County,38.814,-122.713
+5357,White River,Tulare County,35.812,-118.844
+5375,Whitmore,Shasta County,40.629,-121.917
+5414,Willow Springs,Kern County,34.878,-118.297
+5477,Woodleaf,Yuba County,39.517,-121.192
+5526,Yorkville,Mendocino County,38.898,-123.214
+5532,Zamora,Yolo County,38.797,-121.882

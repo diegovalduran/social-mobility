@@ -3,13 +3,13 @@ phoneme,name,county,latitude,longitude
 2387,Huntington,Cabell County,38.411,-82.435
 3785,Parkersburg,Wood County,39.267,-81.562
 3338,Morgantown,Monongalia County,39.630,-79.956
-5342,Wheeling,Marshall County,40.074,-80.696
+5341,Wheeling,Marshall County,40.074,-80.696
 3074,Martinsburg,Berkeley County,39.456,-77.964
 1653,Fairmont,Marion County,39.485,-80.143
 0977,Clarksburg,Harrison County,39.281,-80.345
-4623,South Charleston,Kanawha County,38.368,-81.700
-4682,St. Albans,Kanawha County,38.386,-81.836
-5137,Vienna,Wood County,39.327,-81.548
+4628,South Charleston,Kanawha County,38.368,-81.700
+4687,St. Albans,Kanawha County,38.386,-81.836
+5136,Vienna,Wood County,39.327,-81.548
 0495,Bluefield,Mercer County,37.270,-81.222
 0587,Bridgeport,Harrison County,39.286,-80.256
 3607,Oak Hill,Fayette County,37.972,-81.149
@@ -23,16 +23,16 @@ phoneme,name,county,latitude,longitude
 2545,Keyser,Mineral County,39.441,-78.974
 1987,Grafton,Taylor County,39.341,-80.019
 0261,Barboursville,Cabell County,38.410,-82.295
-5328,Westover,Monongalia County,39.635,-79.970
+5327,Westover,Monongalia County,39.635,-79.970
 3971,Point Pleasant,Mason County,38.845,-82.137
-5327,Weston,Lewis County,39.038,-80.467
+5326,Weston,Lewis County,39.038,-80.467
 2800,Lewisburg,Greenbrier County,37.802,-80.446
 3953,Pleasant Valley,Marion County,39.455,-80.142
-4822,Summersville,Nicholas County,38.281,-80.853
+4821,Summersville,Nicholas County,38.281,-80.853
 2604,Kingwood,Preston County,39.472,-79.683
 4223,Ripley,Jackson County,38.819,-81.711
-5402,Williamstown,Wood County,39.401,-81.448
-5399,Williamson,Mingo County,37.674,-82.277
+5401,Williamstown,Wood County,39.401,-81.448
+5398,Williamson,Mingo County,37.674,-82.277
 1212,Culloden,Cabell County,38.415,-82.071
 1691,Fayetteville,Fayette County,38.053,-81.104
 2984,Madison,Boone County,38.067,-81.819
@@ -40,32 +40,32 @@ phoneme,name,county,latitude,longitude
 2429,Inwood,Berkeley County,39.358,-78.040
 0412,Bethlehem,Ohio County,40.044,-80.691
 3321,Moorefield,Hardy County,39.062,-78.969
-5272,Wellsburg,Brooke County,40.272,-80.610
-5430,Winfield,Putnam County,38.533,-81.893
+5271,Wellsburg,Brooke County,40.272,-80.610
+5429,Winfield,Putnam County,38.533,-81.893
 3859,Petersburg,Grant County,38.993,-79.124
 2297,Hinton,Summers County,37.674,-80.889
-5360,White Sulphur Springs,Greenbrier County,37.797,-80.298
+5359,White Sulphur Springs,Greenbrier County,37.797,-80.298
 1155,Craigsville,Nicholas County,38.331,-80.653
 0930,Chester,Hancock County,40.613,-80.563
 1151,Crab Orchard,Raleigh County,37.741,-81.231
-4652,Spencer,Roane County,38.802,-81.351
+4657,Spencer,Roane County,38.802,-81.351
 3021,Mannington,Marion County,39.531,-80.343
-5264,Welch,McDowell County,37.433,-81.585
+5263,Welch,McDowell County,37.433,-81.585
 0555,Bradley,Raleigh County,37.865,-81.194
-4710,St. Marys,Pleasants County,39.392,-81.205
-4737,Star City,Monongalia County,39.658,-79.986
+4711,St. Marys,Pleasants County,39.392,-81.205
+4736,Star City,Monongalia County,39.658,-79.986
 4292,Romney,Hampshire County,39.342,-78.757
 1627,Evans,Jackson County,38.820,-81.779
 2163,Harrisville,Ritchie County,39.210,-81.052
 4199,Richwood,Nicholas County,38.225,-80.533
 2970,MacArthur,Raleigh County,37.758,-81.213
-5296,West Liberty,Ohio County,40.170,-80.594
+5295,West Liberty,Ohio County,40.170,-80.594
 0501,Boaz,Wood County,39.361,-81.502
 1931,Glen Dale,Marshall County,39.949,-80.754
 1022,Coal City,Raleigh County,37.679,-81.210
-4376,Salem,Harrison County,39.283,-80.559
+4381,Salem,Harrison County,39.283,-80.559
 3485,New Haven,Mason County,38.986,-81.973
-5246,Wayne,Wayne County,38.221,-82.442
+5245,Wayne,Wayne County,38.221,-82.442
 4056,Prosperity,Raleigh County,37.837,-81.202
 2872,Logan,Logan County,37.849,-81.993
 2013,Granville,Monongalia County,39.646,-79.987
@@ -76,16 +76,16 @@ phoneme,name,county,latitude,longitude
 3800,Parsons,Tucker County,39.096,-79.681
 0246,Baker,Hardy County,39.042,-78.745
 3309,Montgomery,Fayette County,38.173,-81.320
-5375,Whitman,Logan County,37.813,-82.024
+5374,Whitman,Logan County,37.813,-82.024
 3521,Newell,Hancock County,40.618,-80.604
-5224,Washington,Wood County,39.261,-81.672
+5223,Washington,Wood County,39.261,-81.672
 1594,Enterprise,Harrison County,39.421,-80.278
 0665,Buffalo,Putnam County,38.618,-81.982
 0102,Alum Creek,Kanawha County,38.289,-81.839
 0346,Belle,Kanawha County,38.232,-81.538
 2934,Lubeck,Wood County,39.235,-81.631
 1946,Glenville,Gilmer County,38.934,-80.838
-4610,Sophia,Raleigh County,37.708,-81.251
+4615,Sophia,Raleigh County,37.708,-81.251
 1413,Dunlow,Wayne County,38.023,-82.432
 3377,Mount Hope,Fayette County,37.895,-81.164
 3840,Pennsboro,Ritchie County,39.285,-80.968
@@ -100,7 +100,7 @@ phoneme,name,county,latitude,longitude
 4108,Rand,Kanawha County,38.283,-81.562
 4342,Rupert,Greenbrier County,37.963,-80.690
 0370,Belmont,Pleasants County,39.380,-81.258
-4850,Sutton,Braxton County,38.665,-80.710
+4849,Sutton,Braxton County,38.665,-80.710
 3082,Mason,Mason County,39.022,-82.029
 0737,Cameron,Marshall County,39.827,-80.566
 3568,North Hills,Wood County,39.316,-81.513
@@ -111,23 +111,23 @@ phoneme,name,county,latitude,longitude
 0908,Chattaroy,Mingo County,37.703,-82.281
 2291,Hilltop,Fayette County,37.943,-81.151
 1875,Gary,McDowell County,37.364,-81.550
-5243,Waverly,Wood County,39.338,-81.380
+5242,Waverly,Wood County,39.338,-81.380
 0019,Addison,Webster County,38.478,-80.405
 3116,McConnell,Logan County,37.826,-81.967
 3879,Piedmont,Mineral County,39.480,-79.048
 1526,Elizabeth,Wirt County,39.063,-81.395
-5350,White Hall,Marion County,39.421,-80.183
+5349,White Hall,Marion County,39.421,-80.183
 0848,Cedar Grove,Kanawha County,38.221,-81.428
 1927,Glasgow,Kanawha County,38.215,-81.425
-5308,West Union,Doddridge County,39.296,-80.777
-5001,Triadelphia,Ohio County,40.053,-80.628
+5307,West Union,Doddridge County,39.296,-80.777
+5000,Triadelphia,Ohio County,40.053,-80.628
 2478,Jefferson,Kanawha County,38.375,-81.780
 1253,Danville,Boone County,38.081,-81.834
 3913,Pineville,Wyoming County,37.583,-81.537
 0643,Bruno,Logan County,37.691,-81.869
 0416,Beverly,Randolph County,38.841,-79.875
 3300,Montcalm,Mercer County,37.354,-81.253
-4931,Thomas,Tucker County,39.149,-79.498
+4930,Thomas,Tucker County,39.149,-79.498
 1263,Davis,Tucker County,39.129,-79.465
 1903,Ghent,Raleigh County,37.617,-81.115
 4155,Reedsville,Preston County,39.511,-79.798
@@ -135,7 +135,7 @@ phoneme,name,county,latitude,longitude
 2310,Holden,Logan County,37.824,-82.060
 3084,Masontown,Preston County,39.552,-79.798
 2167,Hartford City,Mason County,39.004,-81.989
-4556,Shrewsbury,Kanawha County,38.206,-81.472
+4561,Shrewsbury,Kanawha County,38.206,-81.472
 4087,Racine,Boone County,38.142,-81.660
 3285,Monaville,Logan County,37.812,-81.995
 1800,Franklin,Pendleton County,38.643,-79.331
@@ -145,34 +145,34 @@ phoneme,name,county,latitude,longitude
 4034,Pratt,Kanawha County,38.210,-81.384
 1114,Corinne,Wyoming County,37.573,-81.356
 0999,Clearview,Ohio County,40.141,-80.688
-5299,West Milford,Harrison County,39.201,-80.404
-5059,Union,Monroe County,37.592,-80.544
+5298,West Milford,Harrison County,39.201,-80.404
+5058,Union,Monroe County,37.592,-80.544
 0909,Chauncey,Logan County,37.766,-81.988
 2055,Greenview,Boone County,37.994,-81.816
 3813,Paw Paw,Morgan County,39.532,-78.458
-4672,Springfield,Hampshire County,39.451,-78.694
+4677,Springfield,Hampshire County,39.451,-78.694
 1679,Farmington,Marion County,39.513,-80.249
 0691,Burnsville,Braxton County,38.856,-80.655
 3371,Mount Carbon,Fayette County,38.138,-81.286
-5297,West Logan,Logan County,37.867,-81.987
+5296,West Logan,Logan County,37.867,-81.987
 4044,Prichard,Wayne County,38.240,-82.598
 0255,Bancroft,Putnam County,38.510,-81.840
 0987,Clay,Clay County,38.460,-81.085
 1657,Fairview,Marion County,39.593,-80.248
 2912,Lost Creek,Harrison County,39.161,-80.352
-5428,Windsor Heights,Brooke County,40.191,-80.665
+5427,Windsor Heights,Brooke County,40.191,-80.665
 3897,Pine Grove,Wetzel County,39.566,-80.679
 2261,Hico,Fayette County,38.117,-81.006
-5369,Whitesville,Boone County,37.975,-81.529
+5368,Whitesville,Boone County,37.975,-81.529
 3501,New Richmond,Wyoming County,37.570,-81.489
 2780,Lester,Raleigh County,37.735,-81.300
 1910,Gilbert,Mingo County,37.614,-81.867
-5193,Wallace,Harrison County,39.410,-80.490
-5024,Tunnelton,Preston County,39.392,-79.748
+5192,Wallace,Harrison County,39.410,-80.490
+5023,Tunnelton,Preston County,39.392,-79.748
 1726,Flemington,Taylor County,39.266,-80.132
 2572,Kermit,Mingo County,37.844,-82.409
 2589,Kincaid,Fayette County,38.041,-81.270
-4974,Toney,Lincoln County,38.011,-82.073
+4973,Toney,Lincoln County,38.011,-82.073
 4086,Rachel,Marion County,39.518,-80.304
 2588,Kimberly,Fayette County,38.136,-81.303
 3590,Norton,Randolph County,38.932,-79.966
@@ -182,7 +182,7 @@ phoneme,name,county,latitude,longitude
 0221,Aurora,Preston County,39.324,-79.555
 1201,Crumpler,McDowell County,37.425,-81.342
 2153,Harpers Ferry,Jefferson County,39.325,-77.739
-4958,Tioga,Nicholas County,38.420,-80.656
+4957,Tioga,Nicholas County,38.420,-80.656
 1724,Flatwoods,Braxton County,38.723,-80.650
 1540,Ellenboro,Ritchie County,39.265,-81.056
 2287,Hillsboro,Pocahontas County,38.135,-80.213
@@ -194,16 +194,16 @@ phoneme,name,county,latitude,longitude
 4129,Reader,Wetzel County,39.569,-80.733
 0301,Bayard,Grant County,39.273,-79.364
 0565,Brandywine,Pendleton County,38.625,-79.245
-5458,Womelsdorf,Randolph County,38.898,-79.964
+5457,Womelsdorf,Randolph County,38.898,-79.964
 2582,Keystone,McDowell County,37.415,-81.451
 3749,Page,Fayette County,38.053,-81.270
-5499,Worthington,Marion County,39.453,-80.260
+5498,Worthington,Marion County,39.453,-80.260
 0686,Burlington,Mineral County,39.338,-78.918
 0713,Cairo,Ritchie County,39.209,-81.157
 3093,Matoaka,Mercer County,37.420,-81.243
 1667,Falling Spring,Greenbrier County,37.992,-80.354
-4601,Snowshoe,Pocahontas County,38.410,-80.014
-4872,Sylvester,Boone County,38.010,-81.558
+4606,Snowshoe,Pocahontas County,38.410,-80.014
+4871,Sylvester,Boone County,38.010,-81.558
 1082,Comfort,Boone County,38.130,-81.616
 2587,Kimball,McDowell County,37.426,-81.507
 2853,Littleton,Wetzel County,39.698,-80.517
@@ -212,12 +212,12 @@ phoneme,name,county,latitude,longitude
 2788,Leon,Mason County,38.751,-81.961
 4060,Pullman,Ritchie County,39.187,-80.950
 0459,Blacksville,Monongalia County,39.720,-80.212
-5099,Van,Boone County,37.971,-81.711
+5098,Van,Boone County,37.971,-81.711
 1347,Dixie,Fayette County,38.251,-81.194
 0423,Big Creek,Logan County,38.004,-82.040
 0875,Century,Barbour County,39.100,-80.189
 1851,Galloway,Barbour County,39.232,-80.122
-4592,Smithfield,Wetzel County,39.500,-80.562
+4597,Smithfield,Wetzel County,39.500,-80.562
 1825,Friendly,Tyler County,39.516,-81.059
 2148,Harman,Randolph County,38.922,-79.525
 1696,Fenwick,Nicholas County,38.229,-80.582
@@ -226,13 +226,13 @@ phoneme,name,county,latitude,longitude
 0213,Auburn,Ritchie County,39.096,-80.856
 2385,Huntersville,Pocahontas County,38.189,-80.016
 2038,Green Spring,Hampshire County,39.532,-78.616
-5093,Valley Head,Randolph County,38.545,-80.036
+5092,Valley Head,Randolph County,38.545,-80.036
 2030,Green Bank,Pocahontas County,38.420,-79.831
 1199,Crum,Wayne County,37.906,-82.446
 2226,Helvetia,Randolph County,38.706,-80.201
 2224,Helen,Raleigh County,37.635,-81.314
 3876,Pickens,Randolph County,38.655,-80.212
-4947,Thurmond,Fayette County,37.962,-81.082
+4946,Thurmond,Fayette County,37.962,-81.082
 0097,Alton,Upshur County,38.819,-80.214
 0143,Antioch,Mineral County,39.324,-79.017
 0162,Arden,Barbour County,39.210,-79.993
@@ -311,30 +311,30 @@ phoneme,name,county,latitude,longitude
 4188,Richardson,Calhoun County,38.865,-81.236
 4238,Riverton,Pendleton County,38.744,-79.436
 4242,Roanoke,Lewis County,38.932,-80.493
-4370,Saint Joseph,Marshall County,39.730,-80.713
-4418,Sand Ridge,Calhoun County,38.802,-81.067
-4422,Sandstone,Summers County,37.771,-80.891
-4432,Sandyville,Jackson County,38.906,-81.661
-4521,Shanghai,Berkeley County,39.441,-78.132
-4523,Sharon,Kanawha County,38.159,-81.447
-4548,Shiloh,Tyler County,39.456,-81.011
-4551,Shively,Logan County,37.966,-82.118
-4570,Silver Lake,Preston County,39.254,-79.498
-4658,Sprague,Raleigh County,37.793,-81.184
-4680,Spruce,Pocahontas County,38.457,-79.956
-4693,St. George,Tucker County,39.167,-79.702
-4761,Stewartstown,Monongalia County,39.704,-79.901
-4783,Stotesbury,Raleigh County,37.682,-81.289
-4797,Stringtown,Tyler County,39.445,-80.698
-4860,Sweet Springs,Monroe County,37.628,-80.241
-4864,Swiss,Nicholas County,38.233,-81.128
-4939,Thornton,Taylor County,39.346,-79.942
-4972,Tomahawk,Berkeley County,39.530,-78.047
-5088,Valley,Hampshire County,39.349,-78.760
-5175,Wahoo,Marion County,39.455,-80.227
-5208,Ward,Kanawha County,38.246,-81.388
-5260,Webster,Taylor County,39.297,-80.045
-5286,West Columbia,Mason County,38.983,-82.064
-5336,Wharton,Boone County,37.903,-81.677
-5346,Whitby,Raleigh County,37.666,-81.184
-5413,Willow Island,Pleasants County,39.358,-81.308
+4370,St. George,Tucker County,39.167,-79.702
+4372,Saint Joseph,Marshall County,39.730,-80.713
+4423,Sand Ridge,Calhoun County,38.802,-81.067
+4427,Sandstone,Summers County,37.771,-80.891
+4437,Sandyville,Jackson County,38.906,-81.661
+4526,Shanghai,Berkeley County,39.441,-78.132
+4528,Sharon,Kanawha County,38.159,-81.447
+4553,Shiloh,Tyler County,39.456,-81.011
+4556,Shively,Logan County,37.966,-82.118
+4575,Silver Lake,Preston County,39.254,-79.498
+4663,Sprague,Raleigh County,37.793,-81.184
+4685,Spruce,Pocahontas County,38.457,-79.956
+4760,Stewartstown,Monongalia County,39.704,-79.901
+4782,Stotesbury,Raleigh County,37.682,-81.289
+4796,Stringtown,Tyler County,39.445,-80.698
+4859,Sweet Springs,Monroe County,37.628,-80.241
+4863,Swiss,Nicholas County,38.233,-81.128
+4938,Thornton,Taylor County,39.346,-79.942
+4971,Tomahawk,Berkeley County,39.530,-78.047
+5087,Valley,Hampshire County,39.349,-78.760
+5174,Wahoo,Marion County,39.455,-80.227
+5207,Ward,Kanawha County,38.246,-81.388
+5259,Webster,Taylor County,39.297,-80.045
+5285,West Columbia,Mason County,38.983,-82.064
+5335,Wharton,Boone County,37.903,-81.677
+5345,Whitby,Raleigh County,37.666,-81.184
+5412,Willow Island,Pleasants County,39.358,-81.308
