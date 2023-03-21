@@ -38,16 +38,17 @@ function makeChangelog() {
 	const newChangelog = changed.map(({ newD, oldD, diffs }) => {
 		const place = getPlaceName(newD);
 		const changes = oldD
-			? diffs
-					.map((d) => {
-						const old = oldD[d];
-						const new_ = newD[d];
-						return `[${d}] ${old} => ${new_}`;
-					})
-					.join(" | ")
-			: "place added";
+			? diffs.map((d) => {
+					const old = oldD[d];
+					const new_ = newD[d];
+					return `[${d}] ${old} => ${new_}`;
+			  })
+			: ["place added"];
 
-		return { date, text: `${place}:  ${changes}` };
+		const changeText =
+			diffs.length === 11 ? "place added" : changes.join(" | ");
+
+		return { date, text: `${place}:  ${changeText}` };
 	});
 
 	const removedChangelog = prevPlaces
