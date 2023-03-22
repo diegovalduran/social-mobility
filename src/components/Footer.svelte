@@ -39,8 +39,11 @@
 >
 	<section class="stories">
 		{#each stories as { hed, url, image }}
+			{@const href = url.startsWith("http")
+				? url
+				: `https://pudding.cool/${url}`}
 			<div class="story">
-				<a href="https://pudding.cool/{url}">
+				<a {href}>
 					<img
 						src="https://pudding.cool/common/assets/thumbnails/640/{image}.jpg"
 						alt="thumbnail"
