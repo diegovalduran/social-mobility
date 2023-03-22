@@ -1,5 +1,5 @@
 <script>
-	import { csv, groups } from "d3";
+	import { csv, groups, descending } from "d3";
 	import { onMount, getContext } from "svelte";
 	import { page } from "$app/stores";
 	import { browser } from "$app/environment";
@@ -31,6 +31,8 @@
 			values
 		})
 	);
+
+	changelogByDate.sort((a, b) => descending(a.date, b.date));
 
 	let currentPhoneme;
 	let currentName;
