@@ -1,841 +1,842 @@
 phoneme,name,county,latitude,longitude
-2360,Houston,Fort Bend County,29.786,-95.389
-4398,San Antonio,Bexar County,29.463,-98.525
-1239,Dallas,Collin County,32.793,-96.767
-0223,Austin,Bastrop County,30.301,-97.754
-1507,El Paso,El Paso County,31.759,-106.487
-0170,Arlington,Tarrant County,32.736,-97.108
-3941,Plano,Collin County,33.051,-96.748
-2734,Laredo,Webb County,27.506,-99.508
-1605,Irving,Dallas County,32.814,-96.949
-1867,Garland,Collin County,32.910,-96.630
-1829,Frisco,Collin County,33.155,-96.823
-2617,Klein,Harris County,30.046,-95.536
-0635,Brownsville,Cameron County,25.902,-97.497
-1229,Cypress,Harris County,29.971,-95.697
-3801,Pasadena,Harris County,29.691,-95.209
-1315,Denton,Denton County,33.215,-97.133
-3193,Mesquite,Dallas County,32.760,-96.584
-5165,Waco,McLennan County,31.549,-97.147
-0794,Carrollton,Collin County,32.989,-96.900
-3213,Midland,Martin County,32.025,-102.113
+2366,Houston,Fort Bend County,29.786,-95.389
+4406,San Antonio,Bexar County,29.463,-98.525
+1241,Dallas,Collin County,32.793,-96.767
+0224,Austin,Bastrop County,30.301,-97.754
+1509,El Paso,El Paso County,31.759,-106.487
+0171,Arlington,Tarrant County,32.736,-97.108
+3949,Plano,Collin County,33.051,-96.748
+2740,Laredo,Webb County,27.506,-99.508
+1608,Irving,Dallas County,32.814,-96.949
+1870,Garland,Collin County,32.910,-96.630
+1832,Frisco,Collin County,33.155,-96.823
+2623,Klein,Harris County,30.046,-95.536
+0637,Brownsville,Cameron County,25.902,-97.497
+1231,Cypress,Harris County,29.971,-95.697
+3809,Pasadena,Harris County,29.691,-95.209
+1317,Denton,Denton County,33.215,-97.133
+3199,Mesquite,Dallas County,32.760,-96.584
+5174,Waco,McLennan County,31.549,-97.147
+0796,Carrollton,Collin County,32.989,-96.900
+3220,Midland,Martin County,32.025,-102.113
 0006,Abilene,Jones County,32.455,-99.738
-4323,Round Rock,Travis County,30.527,-97.660
-1061,College Station,Brazos County,30.628,-96.334
-4188,Richardson,Collin County,32.972,-96.708
-2803,Lewisville,Dallas County,33.051,-96.975
-0324,Beaumont,Jefferson County,30.086,-94.102
-3636,Odessa,Ector County,31.880,-102.345
-5044,Tyler,Smith County,32.351,-95.301
+4331,Round Rock,Travis County,30.527,-97.660
+1063,College Station,Brazos County,30.628,-96.334
+4196,Richardson,Collin County,32.972,-96.708
+2809,Lewisville,Dallas County,33.051,-96.975
+0325,Beaumont,Jefferson County,30.086,-94.102
+3643,Odessa,Ector County,31.880,-102.345
+5053,Tyler,Smith County,32.351,-95.301
 0071,Allen,Collin County,33.103,-96.671
-1488,Edinburg,Hidalgo County,26.302,-98.163
-0649,Bryan,Brazos County,30.674,-96.370
-3270,Mission,Hidalgo County,26.216,-98.325
-4906,Temple,Bell County,31.098,-97.343
-2893,Longview,Gregg County,32.519,-94.765
-1894,Georgetown,Williamson County,30.633,-97.677
-3272,Missouri City,Fort Bend County,29.563,-95.536
-3025,Mansfield,Ellis County,32.569,-97.121
-2147,Harlingen,Cameron County,26.191,-97.696
-4409,San Marcos,Caldwell County,29.874,-97.935
-5132,Victoria,Victoria County,28.805,-97.004
-5390,Wylie,Collin County,33.036,-96.520
-1854,Galveston,Galveston County,29.301,-94.798
-2637,Kyle,Hays County,29.989,-97.877
-0683,Burleson,Johnson County,32.516,-97.327
-2014,Grapevine,Dallas County,32.935,-97.076
-0333,Bedford,Tarrant County,32.844,-97.143
-0849,Cedar Hill,Dallas County,32.584,-96.959
-2389,Huntsville,Walker County,30.724,-95.551
-2546,Keller,Tarrant County,32.935,-97.252
-4547,Sherman,Grayson County,33.636,-96.609
-2719,Lancaster,Dallas County,32.592,-96.756
-2217,Hurst,Tarrant County,32.823,-97.171
-3214,Midlothian,Ellis County,32.482,-96.994
-4612,Socorro,El Paso County,31.655,-106.303
-4918,Texarkana,Bowie County,33.425,-94.048
-2653,La Porte,Harris County,29.666,-95.019
-4406,San Juan,Hidalgo County,26.189,-98.155
-1293,Del Rio,Val Verde County,29.363,-100.897
-4055,Prosper,Collin County,33.241,-96.812
-5252,Weatherford,Parker County,32.759,-97.797
-1288,Deer Park,Harris County,29.705,-95.124
-4503,Seguin,Guadalupe County,29.569,-97.965
-0765,Canyon Lake,Comal County,29.875,-98.263
-2056,Greenville,Hunt County,33.138,-96.111
-1096,Converse,Bexar County,29.518,-98.316
-0105,Alvin,Brazoria County,29.424,-95.244
-4002,Porter,Montgomery County,30.102,-95.230
-0429,Big Spring,Howard County,32.250,-101.479
-1308,Denison,Grayson County,33.756,-96.537
-2603,Kingsville,Kleberg County,27.516,-97.856
-5072,University Park,Dallas County,32.850,-96.800
-4399,San Benito,Cameron County,26.133,-97.631
-1823,Fresno,Fort Bend County,29.527,-95.460
-2574,Kerrville,Kerr County,30.047,-99.140
-3779,Paris,Lamar County,33.661,-95.556
-4367,Saginaw,Tarrant County,32.860,-97.364
-2539,Katy,Fort Bend County,29.791,-95.841
-0373,Belton,Bell County,31.056,-97.464
-0857,Celina,Collin County,33.319,-96.796
-5227,Watauga,Tarrant County,32.858,-97.255
-0646,Brushy Creek,Williamson County,30.514,-97.740
-1115,Corinth,Denton County,33.154,-97.065
-3065,Marshall,Harrison County,32.545,-94.367
-1336,Dickinson,Galveston County,29.461,-95.051
-3413,Murphy,Collin County,33.015,-96.613
-1590,Ennis,Ellis County,32.329,-96.625
-4754,Stephenville,Erath County,32.221,-98.202
-4004,Portland,Nueces County,27.889,-97.332
-0132,Anna,Collin County,33.349,-96.549
-4047,Princeton,Collin County,33.180,-96.498
+1490,Edinburg,Hidalgo County,26.302,-98.163
+0651,Bryan,Brazos County,30.674,-96.370
+3277,Mission,Hidalgo County,26.216,-98.325
+4915,Temple,Bell County,31.098,-97.343
+2899,Longview,Gregg County,32.519,-94.765
+1897,Georgetown,Williamson County,30.633,-97.677
+3279,Missouri City,Fort Bend County,29.563,-95.536
+3031,Mansfield,Ellis County,32.569,-97.121
+2151,Harlingen,Cameron County,26.191,-97.696
+4417,San Marcos,Caldwell County,29.874,-97.935
+5141,Victoria,Victoria County,28.805,-97.004
+5399,Wylie,Collin County,33.036,-96.520
+1857,Galveston,Galveston County,29.301,-94.798
+2643,Kyle,Hays County,29.989,-97.877
+0685,Burleson,Johnson County,32.516,-97.327
+2018,Grapevine,Dallas County,32.935,-97.076
+0334,Bedford,Tarrant County,32.844,-97.143
+0851,Cedar Hill,Dallas County,32.584,-96.959
+2395,Huntsville,Walker County,30.724,-95.551
+2552,Keller,Tarrant County,32.935,-97.252
+4556,Sherman,Grayson County,33.636,-96.609
+2725,Lancaster,Dallas County,32.592,-96.756
+2222,Hurst,Tarrant County,32.823,-97.171
+3221,Midlothian,Ellis County,32.482,-96.994
+4621,Socorro,El Paso County,31.655,-106.303
+4927,Texarkana,Bowie County,33.425,-94.048
+2659,La Porte,Harris County,29.666,-95.019
+4414,San Juan,Hidalgo County,26.189,-98.155
+1295,Del Rio,Val Verde County,29.363,-100.897
+4063,Prosper,Collin County,33.241,-96.812
+5261,Weatherford,Parker County,32.759,-97.797
+1290,Deer Park,Harris County,29.705,-95.124
+4511,Seguin,Guadalupe County,29.569,-97.965
+0767,Canyon Lake,Comal County,29.875,-98.263
+2060,Greenville,Hunt County,33.138,-96.111
+1098,Converse,Bexar County,29.518,-98.316
+0106,Alvin,Brazoria County,29.424,-95.244
+4010,Porter,Montgomery County,30.102,-95.230
+0430,Big Spring,Howard County,32.250,-101.479
+1310,Denison,Grayson County,33.756,-96.537
+2609,Kingsville,Kleberg County,27.516,-97.856
+5081,University Park,Dallas County,32.850,-96.800
+4407,San Benito,Cameron County,26.133,-97.631
+1826,Fresno,Fort Bend County,29.527,-95.460
+2580,Kerrville,Kerr County,30.047,-99.140
+3787,Paris,Lamar County,33.661,-95.556
+4375,Saginaw,Tarrant County,32.860,-97.364
+2545,Katy,Fort Bend County,29.791,-95.841
+0374,Belton,Bell County,31.056,-97.464
+0859,Celina,Collin County,33.319,-96.796
+5236,Watauga,Tarrant County,32.858,-97.255
+0648,Brushy Creek,Williamson County,30.514,-97.740
+1117,Corinth,Denton County,33.154,-97.065
+3071,Marshall,Harrison County,32.545,-94.367
+1338,Dickinson,Galveston County,29.461,-95.051
+3420,Murphy,Collin County,33.015,-96.613
+1593,Ennis,Ellis County,32.329,-96.625
+4763,Stephenville,Erath County,32.221,-98.202
+4012,Portland,Nueces County,27.889,-97.332
+0133,Anna,Collin County,33.349,-96.549
+4055,Princeton,Collin County,33.180,-96.498
 0041,Alamo,Hidalgo County,26.184,-98.123
-3939,Plainview,Hale County,34.185,-101.707
-1194,Crowley,Johnson County,32.577,-97.358
-3683,Orange,Orange County,30.093,-93.737
-0097,Alton,Hidalgo County,26.287,-98.313
-3756,Palestine,Anderson County,31.762,-95.631
-4912,Terrell,Kaufman County,32.736,-96.275
-3444,Nederland,Jefferson County,29.974,-93.992
-3023,Manor,Travis County,30.341,-97.557
-0298,Bay City,Matagorda County,28.983,-95.969
+3947,Plainview,Hale County,34.185,-101.707
+1196,Crowley,Johnson County,32.577,-97.358
+3690,Orange,Orange County,30.093,-93.737
+0098,Alton,Hidalgo County,26.287,-98.313
+3764,Palestine,Anderson County,31.762,-95.631
+4921,Terrell,Kaufman County,32.736,-96.275
+3451,Nederland,Jefferson County,29.974,-93.992
+3029,Manor,Travis County,30.341,-97.557
+0299,Bay City,Matagorda County,28.983,-95.969
 0069,Alice,Jim Wells County,27.752,-98.070
-1845,Gainesville,Cooke County,33.626,-97.133
-4722,Stafford,Fort Bend County,29.626,-95.566
+1848,Gainesville,Cooke County,33.626,-97.133
+4731,Stafford,Fort Bend County,29.626,-95.566
 0019,Addison,Dallas County,32.962,-96.829
-0350,Bellaire,Harris County,29.706,-95.459
-1881,Gatesville,Coryell County,31.435,-97.744
-4898,Taylor,Williamson County,30.571,-97.409
-2251,Hewitt,McLennan County,31.462,-97.196
-3382,Mount Pleasant,Titus County,33.157,-94.968
-4817,Sulphur Springs,Hopkins County,33.138,-95.601
+0351,Bellaire,Harris County,29.706,-95.459
+1884,Gatesville,Coryell County,31.435,-97.744
+4907,Taylor,Williamson County,30.571,-97.409
+2256,Hewitt,McLennan County,31.462,-97.196
+3389,Mount Pleasant,Titus County,33.157,-94.968
+4826,Sulphur Springs,Hopkins County,33.138,-95.601
 0054,Aldine,Harris County,29.913,-95.377
-2855,Live Oak,Bexar County,29.565,-98.336
-0661,Buda,Hays County,30.085,-97.840
-4141,Red Oak,Ellis County,32.518,-96.804
-0763,Canyon,Randall County,34.980,-101.919
-2864,Lockhart,Caldwell County,29.885,-97.670
-2237,Hereford,Deaf Smith County,34.815,-102.398
-1402,Dumas,Moore County,35.866,-101.973
-2262,Hidalgo,Hidalgo County,26.100,-98.263
-2463,Jacksonville,Cherokee County,31.964,-95.270
-1755,Forest Hill,Tarrant County,32.672,-97.269
-2945,Lumberton,Hardin County,30.266,-94.200
-4491,Seabrook,Chambers County,29.595,-94.988
-2229,Henderson,Rusk County,32.153,-94.799
-2586,Kilgore,Gregg County,32.397,-94.860
-0126,Andrews,Andrews County,32.319,-102.546
-0197,Athens,Henderson County,32.205,-95.856
-4445,Santa Fe,Galveston County,29.378,-95.106
-4248,Robinson,McLennan County,31.468,-97.115
-3030,Manvel,Brazoria County,29.463,-95.358
-4195,Richmond,Fort Bend County,29.582,-95.761
-5259,Webster,Harris County,29.538,-95.118
-4508,Selma,Bexar County,29.586,-98.315
-2730,Lantana,Denton County,33.091,-97.124
-4608,Snyder,Scurry County,32.718,-100.918
-1787,Four Corners,Fort Bend County,29.669,-95.658
-1808,Fredericksburg,Gillespie County,30.275,-98.872
-3955,Pleasanton,Atascosa County,28.967,-98.479
-1657,Fairview,Collin County,33.158,-96.632
-1815,Freeport,Brazoria County,28.954,-95.360
-1522,Elgin,Bastrop County,30.354,-97.390
-4860,Sweetwater,Nolan County,32.471,-100.406
-4125,Raymondville,Willacy County,26.481,-97.783
-4267,Rockport,Aransas County,28.021,-97.054
-0291,Bastrop,Bastrop County,30.110,-97.315
-2218,Heath,Kaufman County,32.854,-96.464
-5123,Vernon,Wilbarger County,34.155,-99.265
-2420,Ingleside,Nueces County,27.871,-97.208
-4242,Roanoke,Denton County,33.015,-97.229
-0585,Bridge City,Orange County,30.021,-93.846
-5489,Woodway,McLennan County,31.506,-97.205
-4439,Sanger,Cooke County,33.382,-97.165
-2669,Lago Vista,Travis County,30.460,-97.988
-1268,Dayton,Liberty County,30.047,-94.885
-0629,Brownfield,Terry County,33.181,-102.274
-1083,Commerce,Hunt County,33.247,-95.900
-1988,Graham,Young County,33.107,-98.590
-2273,Highland Park,Dallas County,32.833,-96.792
-5363,Whitehouse,Smith County,32.227,-95.225
-5335,Wharton,Wharton County,29.312,-96.103
-2809,Liberty,Liberty County,30.058,-94.795
-2340,Hondo,Medina County,29.347,-99.141
-2287,Hillsboro,Hill County,32.011,-97.130
-2911,Los Fresnos,Cameron County,26.072,-97.476
-2570,Kirby,Bexar County,29.463,-98.386
-4836,Sunnyvale,Dallas County,32.797,-96.561
-2936,Lucas,Collin County,33.084,-96.577
-1005,Cleveland,Liberty County,30.338,-95.090
-2274,Highlands,Harris County,29.819,-95.056
-2299,Hitchcock,Galveston County,29.348,-95.016
-1040,Kaufman,Kaufman County,32.589,-96.309
-2474,Jasper,Jasper County,30.920,-93.997
-3041,Marble Falls,Burnet County,30.578,-98.273
-1966,Gonzales,Gonzales County,29.502,-97.452
-4509,Seminole,Gaines County,32.719,-102.645
-2599,Kingsland,Llano County,30.658,-98.441
-1279,Decatur,Wise County,33.234,-97.586
-4032,Prairie View,Waller County,30.093,-95.988
-3583,Northlake,Denton County,33.127,-97.266
-2811,Liberty Hill,Williamson County,30.665,-97.923
-4493,Sealy,Austin County,29.781,-96.157
-5405,Willis,Montgomery County,30.425,-95.480
-4463,Savannah,Denton County,33.226,-96.908
-0805,Carthage,Panola County,32.157,-94.337
-0212,Aubrey,Denton County,33.304,-96.986
-1182,Crockett,Houston County,31.318,-95.457
-2544,Keene,Johnson County,32.397,-97.324
-1204,Crystal City,Zavala County,28.677,-99.828
-2831,Lindale,Smith County,32.516,-95.409
-1363,Doolittle,Hidalgo County,26.347,-98.121
-5354,White Oak,Gregg County,32.528,-94.861
-2228,Hempstead,Waller County,30.097,-96.078
-2572,Kermit,Winkler County,31.858,-103.093
-0587,Bridgeport,Wise County,33.210,-97.755
-1494,Edna,Jackson County,28.979,-96.646
-5520,Yoakum,DeWitt County,29.293,-97.147
-2851,Littlefield,Lamb County,33.917,-102.325
-3784,Parker,Collin County,33.055,-96.622
-2858,Livingston,Polk County,30.711,-94.933
-1199,Krum,Denton County,33.262,-97.238
-0091,Alpine,Brewster County,30.358,-103.661
-1389,Dripping Springs,Hays County,30.190,-98.087
-5115,Venus,Ellis County,32.432,-97.103
-0580,Briar,Parker County,33.019,-97.575
-2393,Hutchins,Dallas County,32.649,-96.713
-3611,Oak Point,Denton County,33.190,-96.992
-3058,Marlin,Falls County,31.306,-96.898
-4346,Rusk,Cherokee County,31.796,-95.150
-0540,Bowie,Montague County,33.559,-97.849
-3130,McGregor,Coryell County,31.420,-97.426
-2943,Luling,Caldwell County,29.682,-97.647
-0738,Cameron Park,Cameron County,25.971,-97.478
-0202,Atlanta,Cass County,33.114,-94.164
-4260,Rockdale,Milam County,30.655,-97.001
+2861,Live Oak,Bexar County,29.565,-98.336
+0663,Buda,Hays County,30.085,-97.840
+4149,Red Oak,Ellis County,32.518,-96.804
+0765,Canyon,Randall County,34.980,-101.919
+2870,Lockhart,Caldwell County,29.885,-97.670
+2242,Hereford,Deaf Smith County,34.815,-102.398
+1404,Dumas,Moore County,35.866,-101.973
+2268,Hidalgo,Hidalgo County,26.100,-98.263
+2469,Jacksonville,Cherokee County,31.964,-95.270
+1758,Forest Hill,Tarrant County,32.672,-97.269
+2951,Lumberton,Hardin County,30.266,-94.200
+4499,Seabrook,Chambers County,29.595,-94.988
+2234,Henderson,Rusk County,32.153,-94.799
+2592,Kilgore,Gregg County,32.397,-94.860
+0127,Andrews,Andrews County,32.319,-102.546
+0198,Athens,Henderson County,32.205,-95.856
+4453,Santa Fe,Galveston County,29.378,-95.106
+4256,Robinson,McLennan County,31.468,-97.115
+3036,Manvel,Brazoria County,29.463,-95.358
+4203,Richmond,Fort Bend County,29.582,-95.761
+5268,Webster,Harris County,29.538,-95.118
+4516,Selma,Bexar County,29.586,-98.315
+2736,Lantana,Denton County,33.091,-97.124
+4617,Snyder,Scurry County,32.718,-100.918
+1790,Four Corners,Fort Bend County,29.669,-95.658
+1811,Fredericksburg,Gillespie County,30.275,-98.872
+3963,Pleasanton,Atascosa County,28.967,-98.479
+1660,Fairview,Collin County,33.158,-96.632
+1818,Freeport,Brazoria County,28.954,-95.360
+1524,Elgin,Bastrop County,30.354,-97.390
+4869,Sweetwater,Nolan County,32.471,-100.406
+4133,Raymondville,Willacy County,26.481,-97.783
+4275,Rockport,Aransas County,28.021,-97.054
+0292,Bastrop,Bastrop County,30.110,-97.315
+2223,Heath,Kaufman County,32.854,-96.464
+5132,Vernon,Wilbarger County,34.155,-99.265
+2426,Ingleside,Nueces County,27.871,-97.208
+4250,Roanoke,Denton County,33.015,-97.229
+0587,Bridge City,Orange County,30.021,-93.846
+5499,Woodway,McLennan County,31.506,-97.205
+4447,Sanger,Cooke County,33.382,-97.165
+2675,Lago Vista,Travis County,30.460,-97.988
+1270,Dayton,Liberty County,30.047,-94.885
+0631,Brownfield,Terry County,33.181,-102.274
+1085,Commerce,Hunt County,33.247,-95.900
+1992,Graham,Young County,33.107,-98.590
+2279,Highland Park,Dallas County,32.833,-96.792
+5372,Whitehouse,Smith County,32.227,-95.225
+5344,Wharton,Wharton County,29.312,-96.103
+2815,Liberty,Liberty County,30.058,-94.795
+2346,Hondo,Medina County,29.347,-99.141
+2293,Hillsboro,Hill County,32.011,-97.130
+2917,Los Fresnos,Cameron County,26.072,-97.476
+2576,Kirby,Bexar County,29.463,-98.386
+4845,Sunnyvale,Dallas County,32.797,-96.561
+2942,Lucas,Collin County,33.084,-96.577
+1007,Cleveland,Liberty County,30.338,-95.090
+2280,Highlands,Harris County,29.819,-95.056
+2305,Hitchcock,Galveston County,29.348,-95.016
+1042,Kaufman,Kaufman County,32.589,-96.309
+2480,Jasper,Jasper County,30.920,-93.997
+3047,Marble Falls,Burnet County,30.578,-98.273
+1970,Gonzales,Gonzales County,29.502,-97.452
+4517,Seminole,Gaines County,32.719,-102.645
+2605,Kingsland,Llano County,30.658,-98.441
+1281,Decatur,Wise County,33.234,-97.586
+4040,Prairie View,Waller County,30.093,-95.988
+3590,Northlake,Denton County,33.127,-97.266
+2817,Liberty Hill,Williamson County,30.665,-97.923
+4501,Sealy,Austin County,29.781,-96.157
+5414,Willis,Montgomery County,30.425,-95.480
+4471,Savannah,Denton County,33.226,-96.908
+0807,Carthage,Panola County,32.157,-94.337
+0213,Aubrey,Denton County,33.304,-96.986
+1184,Crockett,Houston County,31.318,-95.457
+2550,Keene,Johnson County,32.397,-97.324
+1206,Crystal City,Zavala County,28.677,-99.828
+2837,Lindale,Smith County,32.516,-95.409
+1365,Doolittle,Hidalgo County,26.347,-98.121
+5363,White Oak,Gregg County,32.528,-94.861
+2233,Hempstead,Waller County,30.097,-96.078
+2578,Kermit,Winkler County,31.858,-103.093
+0589,Bridgeport,Wise County,33.210,-97.755
+1496,Edna,Jackson County,28.979,-96.646
+5530,Yoakum,DeWitt County,29.293,-97.147
+2857,Littlefield,Lamb County,33.917,-102.325
+3792,Parker,Collin County,33.055,-96.622
+2864,Livingston,Polk County,30.711,-94.933
+1201,Krum,Denton County,33.262,-97.238
+0092,Alpine,Brewster County,30.358,-103.661
+1391,Dripping Springs,Hays County,30.190,-98.087
+5124,Venus,Ellis County,32.432,-97.103
+0582,Briar,Parker County,33.019,-97.575
+2399,Hutchins,Dallas County,32.649,-96.713
+3618,Oak Point,Denton County,33.190,-96.992
+3064,Marlin,Falls County,31.306,-96.898
+4354,Rusk,Cherokee County,31.796,-95.150
+0542,Bowie,Montague County,33.559,-97.849
+3136,McGregor,Coryell County,31.420,-97.426
+2949,Luling,Caldwell County,29.682,-97.647
+0740,Cameron Park,Cameron County,25.971,-97.478
+0203,Atlanta,Cass County,33.114,-94.164
+4268,Rockdale,Milam County,30.655,-97.001
 0055,Aledo,Parker County,32.696,-97.602
-0737,Cameron,Milam County,30.853,-96.977
-5416,Wilmer,Dallas County,32.589,-96.685
-0572,Breckenridge,Stephens County,32.756,-98.902
-0276,Barrett,Harris County,29.872,-95.062
-4653,Sparks,El Paso County,31.673,-106.240
-0860,Center,Shelby County,31.795,-94.179
-0104,Alvarado,Johnson County,32.407,-97.212
-0557,Brady,McCulloch County,31.135,-99.335
-3159,Medina,Zapata County,26.921,-99.259
-2373,Hudson,Angelina County,31.323,-94.778
-3256,Mineola,Wood County,32.663,-95.488
-4008,Post,Garza County,33.191,-101.378
-4199,Richwood,Brazoria County,29.056,-95.410
-3910,Pinehurst,Montgomery County,30.171,-95.682
-4012,Potosi,Taylor County,32.329,-99.656
-0166,Argyle,Denton County,33.121,-97.183
-3890,Pilot Point,Cooke County,33.404,-96.949
-3464,New Boston,Bowie County,33.460,-94.415
-2518,Josephine,Collin County,33.063,-96.317
-2987,Madisonville,Madison County,30.950,-95.912
-2216,Hearne,Robertson County,30.879,-96.593
-2113,Hallsville,Harrison County,32.504,-94.574
-1334,Diboll,Angelina County,31.187,-94.781
-2646,La Grange,Fayette County,29.905,-96.877
-1074,Colorado City,Mitchell County,32.388,-100.865
-3928,Pittsburg,Camp County,32.995,-94.966
-0228,Ovilla,Dallas County,32.541,-96.883
-0762,Canton,Van Zandt County,32.557,-95.863
-1157,Crandall,Kaufman County,32.628,-96.456
-0862,Center Point,Kerr County,29.944,-99.037
-1080,Comanche,Comanche County,31.897,-98.604
-5364,Whitesboro,Grayson County,33.656,-96.907
-2459,Jacksboro,Jack County,33.218,-98.159
-4400,San Carlos,Hidalgo County,26.296,-98.072
-0717,Caldwell,Burleson County,30.531,-96.693
-0367,Bellville,Austin County,29.950,-96.257
-4601,Smithville,Bastrop County,30.009,-97.159
-4153,Redwood,Guadalupe County,29.815,-97.913
-1019,Clyde,Callahan County,32.406,-99.494
-1055,Coleman,Coleman County,31.827,-99.426
-1552,Elm Creek,Maverick County,28.774,-100.492
-0964,Cisco,Eastland County,32.388,-98.979
-3431,Nash,Bowie County,33.442,-94.131
-1677,Farmersville,Collin County,33.163,-96.360
-4402,San Diego,Duval County,27.761,-98.239
-0675,Bullard,Cherokee County,32.144,-95.318
-0142,Anthony,El Paso County,31.999,-106.606
-2068,Groesbeck,Limestone County,31.524,-96.534
-2362,Howe,Grayson County,33.509,-96.612
-5285,West Columbia,Brazoria County,29.144,-95.645
-4542,Shenandoah,Montgomery County,30.180,-95.456
-1079,Columbus,Colorado County,29.707,-96.540
-0955,Chula Vista,Maverick County,28.657,-100.425
-5435,Winnsboro,Franklin County,32.956,-95.290
-1008,Clifton,Bosque County,31.782,-97.577
-1158,Crane,Crane County,31.397,-102.350
-1434,Eagle Lake,Colorado County,29.590,-96.334
-4165,Reno,Lamar County,33.663,-95.462
-1396,Dublin,Erath County,32.085,-98.342
-5302,West Orange,Orange County,30.082,-93.758
-0888,Chandler,Henderson County,32.308,-95.480
-4681,Springtown,Parker County,32.969,-97.680
-2860,Llano,Llano County,30.759,-98.675
-1340,Dilley,Frio County,28.667,-99.171
-2536,Karnes City,Karnes County,28.885,-97.901
-0311,Beach City,Chambers County,29.662,-94.890
-0442,Bishop,Nueces County,27.586,-97.799
-0127,Annetta,Parker County,32.709,-97.676
-1444,Early,Brown County,31.742,-98.946
-3669,Onalaska,Polk County,30.806,-95.116
-2234,Henrietta,Clay County,33.817,-98.195
-4165,Reno,Parker County,32.949,-97.566
-2180,Haskell,Haskell County,33.158,-99.734
-1081,Combes,Cameron County,26.249,-97.734
-3665,Olney,Young County,33.371,-98.753
-0826,Castroville,Medina County,29.356,-98.879
-4725,Stamford,Haskell County,33.046,-99.597
-2096,Hackberry,Denton County,33.152,-96.918
-1866,Garfield,Travis County,30.187,-97.558
-1647,Fairfield,Freestone County,31.725,-96.165
-2120,Hamilton,Hamilton County,31.704,-98.124
-1685,Ferris,Dallas County,32.537,-96.676
-4107,Rancho Viejo,Cameron County,26.040,-97.556
-0426,Big Lake,Reagan County,31.192,-101.460
-1936,Glen Rose,Somervell County,32.235,-97.755
-4879,Taft,San Patricio County,27.979,-97.399
+0739,Cameron,Milam County,30.853,-96.977
+5425,Wilmer,Dallas County,32.589,-96.685
+0574,Breckenridge,Stephens County,32.756,-98.902
+0277,Barrett,Harris County,29.872,-95.062
+4662,Sparks,El Paso County,31.673,-106.240
+0862,Center,Shelby County,31.795,-94.179
+0105,Alvarado,Johnson County,32.407,-97.212
+0559,Brady,McCulloch County,31.135,-99.335
+3165,Medina,Zapata County,26.921,-99.259
+2379,Hudson,Angelina County,31.323,-94.778
+3263,Mineola,Wood County,32.663,-95.488
+4016,Post,Garza County,33.191,-101.378
+4207,Richwood,Brazoria County,29.056,-95.410
+3918,Pinehurst,Montgomery County,30.171,-95.682
+4020,Potosi,Taylor County,32.329,-99.656
+0167,Argyle,Denton County,33.121,-97.183
+3898,Pilot Point,Cooke County,33.404,-96.949
+3471,New Boston,Bowie County,33.460,-94.415
+2524,Josephine,Collin County,33.063,-96.317
+2993,Madisonville,Madison County,30.950,-95.912
+2221,Hearne,Robertson County,30.879,-96.593
+2117,Hallsville,Harrison County,32.504,-94.574
+1336,Diboll,Angelina County,31.187,-94.781
+2652,La Grange,Fayette County,29.905,-96.877
+1076,Colorado City,Mitchell County,32.388,-100.865
+3936,Pittsburg,Camp County,32.995,-94.966
+0229,Ovilla,Dallas County,32.541,-96.883
+0764,Canton,Van Zandt County,32.557,-95.863
+1159,Crandall,Kaufman County,32.628,-96.456
+0864,Center Point,Kerr County,29.944,-99.037
+1082,Comanche,Comanche County,31.897,-98.604
+5373,Whitesboro,Grayson County,33.656,-96.907
+2465,Jacksboro,Jack County,33.218,-98.159
+4408,San Carlos,Hidalgo County,26.296,-98.072
+0719,Caldwell,Burleson County,30.531,-96.693
+0368,Bellville,Austin County,29.950,-96.257
+4610,Smithville,Bastrop County,30.009,-97.159
+4161,Redwood,Guadalupe County,29.815,-97.913
+1021,Clyde,Callahan County,32.406,-99.494
+1057,Coleman,Coleman County,31.827,-99.426
+1554,Elm Creek,Maverick County,28.774,-100.492
+0966,Cisco,Eastland County,32.388,-98.979
+3438,Nash,Bowie County,33.442,-94.131
+1680,Farmersville,Collin County,33.163,-96.360
+4410,San Diego,Duval County,27.761,-98.239
+0677,Bullard,Cherokee County,32.144,-95.318
+0143,Anthony,El Paso County,31.999,-106.606
+2072,Groesbeck,Limestone County,31.524,-96.534
+2368,Howe,Grayson County,33.509,-96.612
+5294,West Columbia,Brazoria County,29.144,-95.645
+4551,Shenandoah,Montgomery County,30.180,-95.456
+1081,Columbus,Colorado County,29.707,-96.540
+0957,Chula Vista,Maverick County,28.657,-100.425
+5444,Winnsboro,Franklin County,32.956,-95.290
+1010,Clifton,Bosque County,31.782,-97.577
+1160,Crane,Crane County,31.397,-102.350
+1436,Eagle Lake,Colorado County,29.590,-96.334
+4173,Reno,Lamar County,33.663,-95.462
+1398,Dublin,Erath County,32.085,-98.342
+5311,West Orange,Orange County,30.082,-93.758
+0890,Chandler,Henderson County,32.308,-95.480
+4690,Springtown,Parker County,32.969,-97.680
+2866,Llano,Llano County,30.759,-98.675
+1342,Dilley,Frio County,28.667,-99.171
+2542,Karnes City,Karnes County,28.885,-97.901
+0312,Beach City,Chambers County,29.662,-94.890
+0443,Bishop,Nueces County,27.586,-97.799
+0128,Annetta,Parker County,32.709,-97.676
+1446,Early,Brown County,31.742,-98.946
+3676,Onalaska,Polk County,30.806,-95.116
+2239,Henrietta,Clay County,33.817,-98.195
+4173,Reno,Parker County,32.949,-97.566
+2184,Haskell,Haskell County,33.158,-99.734
+1083,Combes,Cameron County,26.249,-97.734
+3672,Olney,Young County,33.371,-98.753
+0828,Castroville,Medina County,29.356,-98.879
+4734,Stamford,Haskell County,33.046,-99.597
+2100,Hackberry,Denton County,33.152,-96.918
+1869,Garfield,Travis County,30.187,-97.558
+1650,Fairfield,Freestone County,31.725,-96.165
+2124,Hamilton,Hamilton County,31.704,-98.124
+1688,Ferris,Dallas County,32.537,-96.676
+4115,Rancho Viejo,Cameron County,26.040,-97.556
+0427,Big Lake,Reagan County,31.192,-101.460
+1939,Glen Rose,Somervell County,32.235,-97.755
+4888,Taft,San Patricio County,27.979,-97.399
 0005,Abernathy,Hale County,33.827,-101.852
-5193,Waller,Harris County,30.067,-95.928
-0981,Clarksville,Red River County,33.611,-95.053
-5150,Vinton,El Paso County,31.951,-106.602
-4458,Sargent,Matagorda County,28.835,-95.665
-5098,Van,Van Zandt County,32.525,-95.637
-4731,Stanton,Martin County,32.129,-101.788
-2991,Magnolia,Montgomery County,30.209,-95.751
+5202,Waller,Harris County,30.067,-95.928
+0983,Clarksville,Red River County,33.611,-95.053
+5159,Vinton,El Paso County,31.951,-106.602
+4466,Sargent,Matagorda County,28.835,-95.665
+5107,Van,Van Zandt County,32.525,-95.637
+4740,Stanton,Martin County,32.129,-101.788
+2997,Magnolia,Montgomery County,30.209,-95.751
 0032,Agua Dulce,El Paso County,31.655,-106.139
-4521,Seymour,Baylor County,33.594,-99.260
-5282,West,McLennan County,31.802,-97.092
-4926,The Hills,Travis County,30.348,-97.985
-3773,Pantego,Tarrant County,32.714,-97.156
-1503,El Cenizo,Webb County,27.352,-99.493
-2524,Junction,Kimble County,30.489,-99.772
-3386,Mount Vernon,Franklin County,33.189,-95.221
-5012,Troy,Bell County,31.207,-97.303
-4624,Sonora,Sutton County,30.567,-100.643
-3763,Palmer,Ellis County,32.431,-96.668
-2512,Jonestown,Travis County,30.495,-97.923
-2409,Indian Hills,Hidalgo County,26.213,-97.916
-5487,Woodville,Tyler County,30.775,-94.415
-4449,Santa Rosa,Cameron County,26.257,-97.825
-4378,Salado,Bell County,30.947,-97.539
-2418,Inez,Victoria County,28.904,-96.788
-5004,Trinity,Trinity County,30.945,-95.376
-5440,Winters,Runnels County,31.957,-99.962
-1082,Comfort,Kendall County,29.969,-98.907
-4539,Sheldon,Harris County,29.861,-95.134
-3543,Nixon,Gonzales County,29.270,-97.766
-0139,Anson,Jones County,32.757,-99.896
-3309,Montgomery,Montgomery County,30.388,-95.696
-4112,Ranger,Eastland County,32.470,-98.679
-3732,Overton,Rusk County,32.276,-94.973
-2087,Gunter,Grayson County,33.448,-96.747
-0751,Canadian,Hemphill County,35.913,-100.382
-3830,Pelican Bay,Tarrant County,32.921,-97.518
-5411,Willow Grove,McLennan County,31.550,-97.296
-3910,Pinehurst,Orange County,30.107,-93.775
-0161,Arcola,Fort Bend County,29.496,-95.466
-0581,Briarcliff,Travis County,30.407,-98.044
-3082,Mason,Mason County,30.749,-99.231
-4041,Preston,Grayson County,33.884,-96.634
-5262,Weimar,Colorado County,29.703,-96.781
-3170,Memphis,Hall County,34.725,-100.534
-4543,Shepherd,San Jacinto County,30.498,-94.997
-2790,Leonard,Fannin County,33.380,-96.247
-5376,Whitney,Hill County,31.952,-97.321
-2387,Huntington,Angelina County,31.278,-94.577
-2223,Heidelberg,Hidalgo County,26.197,-97.880
-2609,Kirbyville,Jasper County,30.660,-93.893
-3529,Newton,Newton County,30.849,-93.757
-4083,Quitman,Wood County,32.796,-95.451
-1856,Ganado,Jackson County,29.041,-96.514
-2453,Italy,Ellis County,32.184,-96.885
-4790,Stratford,Sherman County,36.336,-102.072
-1103,Cooper,Delta County,33.373,-95.688
-2520,Juarez,Cameron County,26.201,-97.730
-5100,Van Horn,Culberson County,31.040,-104.831
-1065,Collinsville,Grayson County,33.562,-96.911
+4529,Seymour,Baylor County,33.594,-99.260
+5291,West,McLennan County,31.802,-97.092
+4935,The Hills,Travis County,30.348,-97.985
+3781,Pantego,Tarrant County,32.714,-97.156
+1505,El Cenizo,Webb County,27.352,-99.493
+2530,Junction,Kimble County,30.489,-99.772
+3393,Mount Vernon,Franklin County,33.189,-95.221
+5021,Troy,Bell County,31.207,-97.303
+4633,Sonora,Sutton County,30.567,-100.643
+3771,Palmer,Ellis County,32.431,-96.668
+2518,Jonestown,Travis County,30.495,-97.923
+2415,Indian Hills,Hidalgo County,26.213,-97.916
+5497,Woodville,Tyler County,30.775,-94.415
+4457,Santa Rosa,Cameron County,26.257,-97.825
+4386,Salado,Bell County,30.947,-97.539
+2424,Inez,Victoria County,28.904,-96.788
+5013,Trinity,Trinity County,30.945,-95.376
+5450,Winters,Runnels County,31.957,-99.962
+1084,Comfort,Kendall County,29.969,-98.907
+4547,Sheldon,Harris County,29.861,-95.134
+0492,Blue Mound,Tarrant County,32.857,-97.339
+3550,Nixon,Gonzales County,29.270,-97.766
+0140,Anson,Jones County,32.757,-99.896
+3316,Montgomery,Montgomery County,30.388,-95.696
+4120,Ranger,Eastland County,32.470,-98.679
+3740,Overton,Rusk County,32.276,-94.973
+2091,Gunter,Grayson County,33.448,-96.747
+0753,Canadian,Hemphill County,35.913,-100.382
+3838,Pelican Bay,Tarrant County,32.921,-97.518
+5420,Willow Grove,McLennan County,31.550,-97.296
+3918,Pinehurst,Orange County,30.107,-93.775
+0162,Arcola,Fort Bend County,29.496,-95.466
+0583,Briarcliff,Travis County,30.407,-98.044
+3088,Mason,Mason County,30.749,-99.231
+4049,Preston,Grayson County,33.884,-96.634
+5271,Weimar,Colorado County,29.703,-96.781
+3176,Memphis,Hall County,34.725,-100.534
+4552,Shepherd,San Jacinto County,30.498,-94.997
+2796,Leonard,Fannin County,33.380,-96.247
+5385,Whitney,Hill County,31.952,-97.321
+2393,Huntington,Angelina County,31.278,-94.577
+2228,Heidelberg,Hidalgo County,26.197,-97.880
+2615,Kirbyville,Jasper County,30.660,-93.893
+3536,Newton,Newton County,30.849,-93.757
+4091,Quitman,Wood County,32.796,-95.451
+1859,Ganado,Jackson County,29.041,-96.514
+2459,Italy,Ellis County,32.184,-96.885
+4799,Stratford,Sherman County,36.336,-102.072
+1105,Cooper,Delta County,33.373,-95.688
+2526,Juarez,Cameron County,26.201,-97.730
+5109,Van Horn,Culberson County,31.040,-104.831
+1067,Collinsville,Grayson County,33.562,-96.911
 0044,Albany,Shackelford County,32.723,-99.297
-2002,Grandview,Johnson County,32.270,-97.179
-2739,Las Lomas,Starr County,26.365,-98.775
-2122,Hamlin,Fisher County,32.890,-100.132
-0417,Beverly Hills,McLennan County,31.522,-97.154
-0970,Clarendon,Donley County,34.938,-100.888
-5268,Wellington,Collingsworth County,34.856,-100.214
-1954,Godley,Johnson County,32.449,-97.527
-1171,Cresson,Hood County,32.530,-97.615
-2478,Jefferson,Marion County,32.757,-94.345
-1187,Crosby,Harris County,29.912,-95.062
-1191,Cross Roads,Denton County,33.231,-97.002
-2422,Ingram,Kerr County,30.077,-99.240
-5525,Yorktown,DeWitt County,28.981,-97.503
-0665,Buffalo,Leon County,31.464,-96.058
-2832,Linden,Cass County,33.012,-94.365
-0470,Blanco,Blanco County,30.098,-98.421
-4524,Shamrock,Wheeler County,35.214,-100.249
-0283,Bartonville,Denton County,33.073,-97.132
-4622,Somerset,Bexar County,29.226,-98.658
-0403,Bertram,Burnet County,30.744,-98.056
-0303,Bayou Vista,Galveston County,29.326,-94.939
-2060,Gregory,San Patricio County,27.922,-97.290
-4182,Rhome,Wise County,33.053,-97.472
-3809,Patton Village,Montgomery County,30.193,-95.169
-2500,Johnson City,Blanco County,30.277,-98.412
-1975,Gordonville,Grayson County,33.796,-96.853
-0534,Bovina,Parmer County,34.514,-102.883
-4837,Sunray,Moore County,36.017,-101.825
-5320,Westlake,Denton County,32.985,-97.204
-1800,Franklin,Robertson County,31.026,-96.485
-3355,Morton,Cochran County,33.725,-102.759
-1244,Danbury,Brazoria County,29.228,-95.345
-0280,Bartlett,Bell County,30.795,-97.432
-4767,Stinnett,Hutchinson County,35.827,-101.443
-2454,Itasca,Hill County,32.160,-97.150
-2704,Lakeside,Tarrant County,32.822,-97.493
-1484,Edgewood,Van Zandt County,32.698,-95.885
-1519,Eldorado,Schleicher County,30.860,-100.601
-1864,Gardendale,Ector County,32.023,-102.378
-2316,Holliday,Archer County,33.816,-98.695
-4943,Three Rivers,Live Oak County,28.460,-98.183
-0899,Charlotte,Atascosa County,28.862,-98.706
-1840,Fulton,Aransas County,28.061,-97.041
-1477,Eden,Concho County,31.216,-99.846
-0257,Bangs,Brown County,31.717,-99.133
-0365,Bells,Grayson County,33.610,-96.411
-1290,Deerwood,Montgomery County,30.315,-95.301
-3763,Palmer,Cameron County,26.067,-97.635
-1271,De Kalb,Bowie County,33.509,-94.616
-0245,Baird,Callahan County,32.394,-99.394
-0548,Boyd,Wise County,33.079,-97.565
-0802,Carter,Parker County,32.907,-97.741
-5340,Wheeler,Wheeler County,35.445,-100.271
-0221,Aurora,Wise County,33.061,-97.503
-4287,Rollingwood,Travis County,30.277,-97.791
-4769,Stockdale,Wilson County,29.237,-97.960
-0106,Alvord,Wise County,33.358,-97.695
-3318,Moody,McLennan County,31.308,-97.361
-4076,Queen City,Cass County,33.149,-94.150
-2883,Lone Star,Morris County,32.944,-94.707
-3188,Meridian,Bosque County,31.923,-97.657
-2370,Hubbard,Hill County,31.848,-96.797
-3761,Palm Valley,Cameron County,26.202,-97.754
-3428,Naples,Morris County,33.203,-94.680
-1687,Farwell,Parmer County,34.383,-103.038
-2457,Ivanhoe,Tyler County,30.680,-94.414
-3172,Menard,Menard County,30.918,-99.786
-3938,Plains,Yoakum County,33.189,-102.828
-4301,Rosebud,Falls County,31.073,-96.979
-2261,Hico,Erath County,31.985,-98.028
-4895,Tatum,Panola County,32.316,-94.519
-3456,Nevada,Collin County,33.042,-96.374
-4497,Sebastian,Willacy County,26.343,-97.790
-4623,Somerville,Burleson County,30.346,-96.528
-0482,Bloomington,Victoria County,28.648,-96.892
-4148,Redland,Angelina County,31.404,-94.721
-4715,St. Paul,San Patricio County,28.091,-97.563
-2195,Hawkins,Wood County,32.588,-95.204
-5482,Woodsboro,Refugio County,28.238,-97.320
-1576,Emerald Bay,Smith County,32.161,-95.439
-1578,Emory,Rains County,32.875,-95.766
-4937,Thorndale,Milam County,30.614,-97.206
-1535,Elkhart,Anderson County,31.625,-95.579
-4587,Skidmore,Bee County,28.254,-97.686
-4833,Sundown,Hockley County,33.456,-102.489
-0428,Big Sandy,Upshur County,32.584,-95.109
-4019,Powderly,Lamar County,33.811,-95.524
-4297,Roscoe,Nolan County,32.446,-100.539
-0943,China,Jefferson County,30.048,-94.336
-4184,Rice,Navarro County,32.244,-96.499
-2804,Lexington,Lee County,30.419,-97.012
-0633,Brownsboro,Henderson County,32.302,-95.614
-1733,Florence,Williamson County,30.841,-97.794
-0736,Camden,Polk County,30.917,-94.734
-2004,Granger,Williamson County,30.718,-97.443
-2152,Harper,Gillespie County,30.301,-99.243
-4957,Tioga,Grayson County,33.467,-96.918
-4551,Sherwood Shores,Grayson County,33.852,-96.818
-0492,Blue Ridge,Collin County,33.298,-96.402
-2551,Kemp,Kaufman County,32.443,-96.230
-0327,Beaver Creek,Burleson County,30.449,-96.562
-3900,Pine Island,Waller County,30.058,-96.037
-2912,Lost Creek,Travis County,30.295,-97.844
-1626,Eustace,Henderson County,32.307,-96.007
-3515,Newark,Tarrant County,33.014,-97.488
-0512,Boling,Wharton County,29.264,-95.944
-0944,China Grove,Bexar County,29.389,-98.349
-4756,Sterling City,Sterling County,31.836,-100.985
-2077,Gruver,Hansford County,36.265,-101.406
-4281,Rogers,Bell County,30.932,-97.227
-0293,Batesville,Zavala County,28.951,-99.618
-2313,Holland,Bell County,30.878,-97.402
-4222,Rio Vista,Johnson County,32.233,-97.374
-2834,Lindsay,Cooke County,33.636,-97.223
-2919,Louise,Wharton County,29.111,-96.403
-3748,Paducah,Cottle County,34.012,-100.302
-3948,Pleasant Hill,Polk County,31.009,-94.798
-2626,Knox City,Knox County,33.418,-99.819
-3052,Marion,Guadalupe County,29.571,-98.140
-4183,Ricardo,Kleberg County,27.421,-97.851
-0096,Alto,Cherokee County,31.650,-95.073
-1900,Geronimo,Guadalupe County,29.666,-97.966
-2312,Holiday Lakes,Brazoria County,29.210,-95.517
-1766,Fort Davis,Jeff Davis County,30.588,-103.895
-0113,Ames,Liberty County,30.054,-94.744
-5496,Wortham,Freestone County,31.788,-96.462
-0937,Chico,Wise County,33.296,-97.799
-4715,St. Paul,Collin County,33.041,-96.550
-1978,Gorman,Eastland County,32.214,-98.671
-0942,Chilton,Falls County,31.280,-97.064
-3055,Markham,Matagorda County,28.960,-96.065
-3859,Petersburg,Hale County,33.870,-101.597
-3096,Maud,Bowie County,33.333,-94.343
-2701,Lakeport,Gregg County,32.409,-94.705
-0729,Calvert,Robertson County,30.978,-96.674
-3492,New London,Rusk County,32.239,-94.940
-4637,South Point,Cameron County,25.869,-97.384
-4805,Sudan,Lamb County,34.068,-102.524
-4139,Red Lick,Bowie County,33.465,-94.171
-3668,Omaha,Morris County,33.181,-94.744
-1190,Cross Plains,Callahan County,32.126,-99.165
-0868,Centerville,Leon County,31.258,-95.978
-0764,Canyon Creek,Hood County,32.394,-97.741
-1021,Coahoma,Howard County,32.297,-101.306
-2075,Groveton,Trinity County,31.055,-95.126
-3221,Miles,Runnels County,31.597,-100.182
-2834,Lindsay,Reeves County,31.369,-103.538
-1159,Crawford,McLennan County,31.534,-97.443
-4701,St. Jo,Montague County,33.695,-97.523
-3911,Pineland,Sabine County,31.248,-93.974
-3612,Oak Ridge,Kaufman County,32.657,-96.262
-2165,Hart,Castro County,34.385,-102.116
-0479,Blooming Grove,Navarro County,32.092,-96.716
-5270,Wells,Cherokee County,31.489,-94.940
-3362,Moulton,Lavaca County,29.575,-97.143
-5003,Trinidad,Henderson County,32.144,-96.091
-5323,Westminster,Collin County,33.355,-96.447
-1870,Garrett,Ellis County,32.363,-96.655
-0401,Berryville,Henderson County,32.088,-95.472
-2410,Indian Lake,Cameron County,26.089,-97.502
-4152,Redwater,Bowie County,33.358,-94.254
-5033,Tuscola,Taylor County,32.210,-99.797
-5212,Warren,Tyler County,30.615,-94.409
-1266,Dawson,Navarro County,31.894,-96.715
-4424,Sand Springs,Howard County,32.282,-101.351
-2140,Hardin,Liberty County,30.152,-94.739
-2220,Hebron,Collin County,33.046,-96.887
-3280,Moffat,Bell County,31.200,-97.468
-2493,Jewett,Leon County,31.362,-96.144
-1871,Garrison,Nacogdoches County,31.824,-94.491
-1051,Coldspring,San Jacinto County,30.592,-95.129
-1101,Coolidge,Limestone County,31.754,-96.650
-2623,Knollwood,Grayson County,33.690,-96.619
-4999,Trenton,Collin County,33.426,-96.345
-4442,Santa Clara,Guadalupe County,29.512,-98.121
-1558,Elmo,Kaufman County,32.722,-96.165
-3967,Point,Rains County,32.932,-95.871
-4113,Rankin,Upton County,31.223,-101.938
-5096,Valley View,Cooke County,33.488,-97.165
-1084,Como,Hopkins County,33.061,-95.472
-4464,Savoy,Fannin County,33.599,-96.367
-5389,Wildwood,Hardin County,30.525,-94.449
-3223,Milford,Ellis County,32.125,-96.945
-3476,New Deal,Lubbock County,33.737,-101.837
-2881,Lone Oak,Hunt County,32.997,-95.940
-0780,Carlsbad,Tom Green County,31.611,-100.641
-5250,Weir,Williamson County,30.674,-97.585
-1323,Detroit,Red River County,33.661,-95.267
-5086,Valle Vista,Starr County,26.316,-98.655
-2281,Hillcrest,Brazoria County,29.393,-95.259
-0680,Burke,Angelina County,31.232,-94.769
+2006,Grandview,Johnson County,32.270,-97.179
+2745,Las Lomas,Starr County,26.365,-98.775
+2126,Hamlin,Fisher County,32.890,-100.132
+0418,Beverly Hills,McLennan County,31.522,-97.154
+0972,Clarendon,Donley County,34.938,-100.888
+5277,Wellington,Collingsworth County,34.856,-100.214
+1958,Godley,Johnson County,32.449,-97.527
+1173,Cresson,Hood County,32.530,-97.615
+2484,Jefferson,Marion County,32.757,-94.345
+1189,Crosby,Harris County,29.912,-95.062
+1193,Cross Roads,Denton County,33.231,-97.002
+2428,Ingram,Kerr County,30.077,-99.240
+5535,Yorktown,DeWitt County,28.981,-97.503
+0667,Buffalo,Leon County,31.464,-96.058
+2838,Linden,Cass County,33.012,-94.365
+0471,Blanco,Blanco County,30.098,-98.421
+4532,Shamrock,Wheeler County,35.214,-100.249
+0284,Bartonville,Denton County,33.073,-97.132
+4631,Somerset,Bexar County,29.226,-98.658
+0404,Bertram,Burnet County,30.744,-98.056
+0304,Bayou Vista,Galveston County,29.326,-94.939
+2064,Gregory,San Patricio County,27.922,-97.290
+4190,Rhome,Wise County,33.053,-97.472
+3817,Patton Village,Montgomery County,30.193,-95.169
+2506,Johnson City,Blanco County,30.277,-98.412
+1979,Gordonville,Grayson County,33.796,-96.853
+0536,Bovina,Parmer County,34.514,-102.883
+4846,Sunray,Moore County,36.017,-101.825
+5329,Westlake,Denton County,32.985,-97.204
+1803,Franklin,Robertson County,31.026,-96.485
+3362,Morton,Cochran County,33.725,-102.759
+1246,Danbury,Brazoria County,29.228,-95.345
+0281,Bartlett,Bell County,30.795,-97.432
+4776,Stinnett,Hutchinson County,35.827,-101.443
+2460,Itasca,Hill County,32.160,-97.150
+2710,Lakeside,Tarrant County,32.822,-97.493
+1486,Edgewood,Van Zandt County,32.698,-95.885
+1521,Eldorado,Schleicher County,30.860,-100.601
+1867,Gardendale,Ector County,32.023,-102.378
+2322,Holliday,Archer County,33.816,-98.695
+4952,Three Rivers,Live Oak County,28.460,-98.183
+0901,Charlotte,Atascosa County,28.862,-98.706
+1843,Fulton,Aransas County,28.061,-97.041
+1479,Eden,Concho County,31.216,-99.846
+0258,Bangs,Brown County,31.717,-99.133
+0366,Bells,Grayson County,33.610,-96.411
+1292,Deerwood,Montgomery County,30.315,-95.301
+3771,Palmer,Cameron County,26.067,-97.635
+1273,De Kalb,Bowie County,33.509,-94.616
+0246,Baird,Callahan County,32.394,-99.394
+0550,Boyd,Wise County,33.079,-97.565
+0804,Carter,Parker County,32.907,-97.741
+5349,Wheeler,Wheeler County,35.445,-100.271
+0222,Aurora,Wise County,33.061,-97.503
+4295,Rollingwood,Travis County,30.277,-97.791
+4778,Stockdale,Wilson County,29.237,-97.960
+0107,Alvord,Wise County,33.358,-97.695
+3325,Moody,McLennan County,31.308,-97.361
+4084,Queen City,Cass County,33.149,-94.150
+2889,Lone Star,Morris County,32.944,-94.707
+3194,Meridian,Bosque County,31.923,-97.657
+2376,Hubbard,Hill County,31.848,-96.797
+3769,Palm Valley,Cameron County,26.202,-97.754
+3435,Naples,Morris County,33.203,-94.680
+1690,Farwell,Parmer County,34.383,-103.038
+2463,Ivanhoe,Tyler County,30.680,-94.414
+3178,Menard,Menard County,30.918,-99.786
+3946,Plains,Yoakum County,33.189,-102.828
+4309,Rosebud,Falls County,31.073,-96.979
+2267,Hico,Erath County,31.985,-98.028
+4904,Tatum,Panola County,32.316,-94.519
+3463,Nevada,Collin County,33.042,-96.374
+4505,Sebastian,Willacy County,26.343,-97.790
+4632,Somerville,Burleson County,30.346,-96.528
+0483,Bloomington,Victoria County,28.648,-96.892
+4156,Redland,Angelina County,31.404,-94.721
+4724,St. Paul,San Patricio County,28.091,-97.563
+2199,Hawkins,Wood County,32.588,-95.204
+5492,Woodsboro,Refugio County,28.238,-97.320
+1578,Emerald Bay,Smith County,32.161,-95.439
+1580,Emory,Rains County,32.875,-95.766
+4946,Thorndale,Milam County,30.614,-97.206
+1537,Elkhart,Anderson County,31.625,-95.579
+4596,Skidmore,Bee County,28.254,-97.686
+4842,Sundown,Hockley County,33.456,-102.489
+0429,Big Sandy,Upshur County,32.584,-95.109
+4027,Powderly,Lamar County,33.811,-95.524
+4305,Roscoe,Nolan County,32.446,-100.539
+0945,China,Jefferson County,30.048,-94.336
+4192,Rice,Navarro County,32.244,-96.499
+2810,Lexington,Lee County,30.419,-97.012
+0635,Brownsboro,Henderson County,32.302,-95.614
+1736,Florence,Williamson County,30.841,-97.794
+0738,Camden,Polk County,30.917,-94.734
+2008,Granger,Williamson County,30.718,-97.443
+2156,Harper,Gillespie County,30.301,-99.243
+4966,Tioga,Grayson County,33.467,-96.918
+4560,Sherwood Shores,Grayson County,33.852,-96.818
+0494,Blue Ridge,Collin County,33.298,-96.402
+2557,Kemp,Kaufman County,32.443,-96.230
+0328,Beaver Creek,Burleson County,30.449,-96.562
+3908,Pine Island,Waller County,30.058,-96.037
+2918,Lost Creek,Travis County,30.295,-97.844
+1629,Eustace,Henderson County,32.307,-96.007
+3522,Newark,Tarrant County,33.014,-97.488
+0514,Boling,Wharton County,29.264,-95.944
+0946,China Grove,Bexar County,29.389,-98.349
+4765,Sterling City,Sterling County,31.836,-100.985
+2081,Gruver,Hansford County,36.265,-101.406
+4289,Rogers,Bell County,30.932,-97.227
+0294,Batesville,Zavala County,28.951,-99.618
+2319,Holland,Bell County,30.878,-97.402
+4230,Rio Vista,Johnson County,32.233,-97.374
+2840,Lindsay,Cooke County,33.636,-97.223
+2925,Louise,Wharton County,29.111,-96.403
+3756,Paducah,Cottle County,34.012,-100.302
+3956,Pleasant Hill,Polk County,31.009,-94.798
+2632,Knox City,Knox County,33.418,-99.819
+3058,Marion,Guadalupe County,29.571,-98.140
+4191,Ricardo,Kleberg County,27.421,-97.851
+0097,Alto,Cherokee County,31.650,-95.073
+1903,Geronimo,Guadalupe County,29.666,-97.966
+2318,Holiday Lakes,Brazoria County,29.210,-95.517
+1769,Fort Davis,Jeff Davis County,30.588,-103.895
+0114,Ames,Liberty County,30.054,-94.744
+5506,Wortham,Freestone County,31.788,-96.462
+0939,Chico,Wise County,33.296,-97.799
+4724,St. Paul,Collin County,33.041,-96.550
+1982,Gorman,Eastland County,32.214,-98.671
+0944,Chilton,Falls County,31.280,-97.064
+3061,Markham,Matagorda County,28.960,-96.065
+3867,Petersburg,Hale County,33.870,-101.597
+3102,Maud,Bowie County,33.333,-94.343
+2707,Lakeport,Gregg County,32.409,-94.705
+0731,Calvert,Robertson County,30.978,-96.674
+3499,New London,Rusk County,32.239,-94.940
+4646,South Point,Cameron County,25.869,-97.384
+4814,Sudan,Lamb County,34.068,-102.524
+4147,Red Lick,Bowie County,33.465,-94.171
+3675,Omaha,Morris County,33.181,-94.744
+1192,Cross Plains,Callahan County,32.126,-99.165
+0870,Centerville,Leon County,31.258,-95.978
+0766,Canyon Creek,Hood County,32.394,-97.741
+1023,Coahoma,Howard County,32.297,-101.306
+2079,Groveton,Trinity County,31.055,-95.126
+3228,Miles,Runnels County,31.597,-100.182
+2840,Lindsay,Reeves County,31.369,-103.538
+1161,Crawford,McLennan County,31.534,-97.443
+4710,St. Jo,Montague County,33.695,-97.523
+3919,Pineland,Sabine County,31.248,-93.974
+3619,Oak Ridge,Kaufman County,32.657,-96.262
+2169,Hart,Castro County,34.385,-102.116
+0480,Blooming Grove,Navarro County,32.092,-96.716
+5279,Wells,Cherokee County,31.489,-94.940
+3369,Moulton,Lavaca County,29.575,-97.143
+5012,Trinidad,Henderson County,32.144,-96.091
+5332,Westminster,Collin County,33.355,-96.447
+1873,Garrett,Ellis County,32.363,-96.655
+0402,Berryville,Henderson County,32.088,-95.472
+2416,Indian Lake,Cameron County,26.089,-97.502
+4160,Redwater,Bowie County,33.358,-94.254
+5042,Tuscola,Taylor County,32.210,-99.797
+5221,Warren,Tyler County,30.615,-94.409
+1268,Dawson,Navarro County,31.894,-96.715
+4432,Sand Springs,Howard County,32.282,-101.351
+2144,Hardin,Liberty County,30.152,-94.739
+2225,Hebron,Collin County,33.046,-96.887
+3287,Moffat,Bell County,31.200,-97.468
+2499,Jewett,Leon County,31.362,-96.144
+1874,Garrison,Nacogdoches County,31.824,-94.491
+1053,Coldspring,San Jacinto County,30.592,-95.129
+1103,Coolidge,Limestone County,31.754,-96.650
+2629,Knollwood,Grayson County,33.690,-96.619
+5008,Trenton,Collin County,33.426,-96.345
+4450,Santa Clara,Guadalupe County,29.512,-98.121
+1560,Elmo,Kaufman County,32.722,-96.165
+3975,Point,Rains County,32.932,-95.871
+4121,Rankin,Upton County,31.223,-101.938
+5105,Valley View,Cooke County,33.488,-97.165
+1086,Como,Hopkins County,33.061,-95.472
+4472,Savoy,Fannin County,33.599,-96.367
+5398,Wildwood,Hardin County,30.525,-94.449
+3230,Milford,Ellis County,32.125,-96.945
+3483,New Deal,Lubbock County,33.737,-101.837
+2887,Lone Oak,Hunt County,32.997,-95.940
+0782,Carlsbad,Tom Green County,31.611,-100.641
+5259,Weir,Williamson County,30.674,-97.585
+1325,Detroit,Red River County,33.661,-95.267
+5095,Valle Vista,Starr County,26.316,-98.655
+2287,Hillcrest,Brazoria County,29.393,-95.259
+0682,Burke,Angelina County,31.232,-94.769
 0032,Agua Dulce,Nueces County,27.782,-97.909
-4403,San Felipe,Austin County,29.793,-96.101
-2411,Indian Springs,Polk County,30.696,-94.753
-3463,New Berlin,Guadalupe County,29.464,-98.101
-1390,Driscoll,Nueces County,27.674,-97.749
-3605,Oak Grove,Kaufman County,32.535,-96.319
-2378,Hull,Liberty County,30.146,-94.642
-2910,Los Ebanos,Starr County,26.411,-98.919
-0114,Amherst,Lamb County,34.010,-102.415
-3487,New Hope,Collin County,33.210,-96.565
-1949,Glidden,Colorado County,29.701,-96.586
-3390,Mountain City,Hays County,30.037,-97.887
-4844,Surfside Beach,Brazoria County,28.944,-95.289
-3139,McLean,Gray County,35.233,-100.600
-4963,Tivoli,Refugio County,28.455,-96.888
-5436,Winona,Smith County,32.490,-95.167
-2355,Horseshoe Bend,Parker County,32.579,-97.885
-0264,Bardwell,Ellis County,32.269,-96.696
-1832,Frost,Navarro County,32.080,-96.807
-2712,Lamar,Aransas County,28.140,-96.988
-0955,Chula Vista,Zavala County,28.660,-99.804
-4446,Santa Maria,Cameron County,26.079,-97.849
-2838,Linn,Hidalgo County,26.560,-98.122
-4579,Silverton,Briscoe County,34.474,-101.305
-2665,Ladonia,Fannin County,33.425,-95.946
-0889,Chappell Hill,Washington County,30.143,-96.257
-3808,Pattison,Waller County,29.825,-95.995
-3148,Meadow,Terry County,33.337,-102.207
-4724,Stagecoach,Montgomery County,30.145,-95.714
-0667,Buffalo Gap,Taylor County,32.279,-99.830
-2112,Hawley,Jones County,32.612,-99.814
-1146,Cove,Chambers County,29.827,-94.802
-1222,Cushing,Nacogdoches County,31.815,-94.840
-0742,Campbell,Hunt County,33.148,-95.951
-0941,Chillicothe,Hardeman County,34.256,-99.517
-4237,Riverside,Walker County,30.853,-95.404
-2901,Loraine,Mitchell County,32.411,-100.712
-4793,Strawn,Palo Pinto County,32.552,-98.498
-1669,Falls City,Karnes County,28.983,-98.017
-1583,Encinal,La Salle County,28.041,-99.354
-3519,Newcastle,Young County,33.194,-98.739
-3775,Paradise,Wise County,33.150,-97.687
-3199,Miami,Roberts County,35.691,-100.638
-1327,Deweyville,Newton County,30.298,-93.743
-3862,Petrolia,Clay County,34.013,-98.232
-3159,Medina,Bandera County,29.797,-99.246
-4777,Stonewall,Gillespie County,30.236,-98.664
-0601,Bristol,Ellis County,32.462,-96.570
-0307,Bayview,Cameron County,26.129,-97.398
-2778,Leggett,Polk County,30.818,-94.870
-4444,Santa Cruz,Starr County,26.355,-98.768
-1460,Easton,Gregg County,32.382,-94.591
-2857,Liverpool,Brazoria County,29.295,-95.279
-1276,Dean,Clay County,33.950,-98.346
-1836,Fruitvale,Van Zandt County,32.683,-95.803
+4411,San Felipe,Austin County,29.793,-96.101
+2417,Indian Springs,Polk County,30.696,-94.753
+3470,New Berlin,Guadalupe County,29.464,-98.101
+1392,Driscoll,Nueces County,27.674,-97.749
+3612,Oak Grove,Kaufman County,32.535,-96.319
+2384,Hull,Liberty County,30.146,-94.642
+2916,Los Ebanos,Starr County,26.411,-98.919
+0115,Amherst,Lamb County,34.010,-102.415
+3494,New Hope,Collin County,33.210,-96.565
+1952,Glidden,Colorado County,29.701,-96.586
+3397,Mountain City,Hays County,30.037,-97.887
+4853,Surfside Beach,Brazoria County,28.944,-95.289
+3145,McLean,Gray County,35.233,-100.600
+4972,Tivoli,Refugio County,28.455,-96.888
+5445,Winona,Smith County,32.490,-95.167
+2361,Horseshoe Bend,Parker County,32.579,-97.885
+0265,Bardwell,Ellis County,32.269,-96.696
+1835,Frost,Navarro County,32.080,-96.807
+2718,Lamar,Aransas County,28.140,-96.988
+0957,Chula Vista,Zavala County,28.660,-99.804
+4454,Santa Maria,Cameron County,26.079,-97.849
+2844,Linn,Hidalgo County,26.560,-98.122
+4588,Silverton,Briscoe County,34.474,-101.305
+2671,Ladonia,Fannin County,33.425,-95.946
+0891,Chappell Hill,Washington County,30.143,-96.257
+3816,Pattison,Waller County,29.825,-95.995
+3154,Meadow,Terry County,33.337,-102.207
+4733,Stagecoach,Montgomery County,30.145,-95.714
+0669,Buffalo Gap,Taylor County,32.279,-99.830
+2116,Hawley,Jones County,32.612,-99.814
+1148,Cove,Chambers County,29.827,-94.802
+1224,Cushing,Nacogdoches County,31.815,-94.840
+0744,Campbell,Hunt County,33.148,-95.951
+0943,Chillicothe,Hardeman County,34.256,-99.517
+4245,Riverside,Walker County,30.853,-95.404
+2907,Loraine,Mitchell County,32.411,-100.712
+4802,Strawn,Palo Pinto County,32.552,-98.498
+1672,Falls City,Karnes County,28.983,-98.017
+1586,Encinal,La Salle County,28.041,-99.354
+3526,Newcastle,Young County,33.194,-98.739
+3783,Paradise,Wise County,33.150,-97.687
+3205,Miami,Roberts County,35.691,-100.638
+1329,Deweyville,Newton County,30.298,-93.743
+3870,Petrolia,Clay County,34.013,-98.232
+3165,Medina,Bandera County,29.797,-99.246
+4786,Stonewall,Gillespie County,30.236,-98.664
+0603,Bristol,Ellis County,32.462,-96.570
+0308,Bayview,Cameron County,26.129,-97.398
+2784,Leggett,Polk County,30.818,-94.870
+4452,Santa Cruz,Starr County,26.355,-98.768
+1462,Easton,Gregg County,32.382,-94.591
+2863,Liverpool,Brazoria County,29.295,-95.279
+1278,Dean,Clay County,33.950,-98.346
+1839,Fruitvale,Van Zandt County,32.683,-95.803
 0043,Alba,Rains County,32.787,-95.632
-3320,Moore,Frio County,29.066,-99.013
-1973,Gordon,Palo Pinto County,32.548,-98.369
-0669,Buffalo Springs,Lubbock County,33.532,-101.708
-2679,Lake City,San Patricio County,28.079,-97.886
-3334,Morgan,Bosque County,32.019,-97.608
-2633,Kosse,Limestone County,31.308,-96.632
-0705,Byers,Clay County,34.068,-98.191
-3547,Nome,Jefferson County,30.036,-94.424
-5062,Union Grove,Upshur County,32.571,-94.920
-1162,Creedmoor,Hays County,30.074,-97.737
-4951,Tilden,McMullen County,28.462,-98.549
-5420,Wilson,Lynn County,33.317,-101.724
-2765,Leary,Bowie County,33.460,-94.208
-3640,Oglesby,Coryell County,31.419,-97.507
-4173,Retreat,Navarro County,32.034,-96.474
-3039,Marathon,Brewster County,30.205,-103.245
-0227,Avery,Red River County,33.552,-94.781
-0852,Cedar Point,Polk County,30.801,-95.079
-5429,Winfield,Titus County,33.167,-95.112
-4480,Scotland,Archer County,33.660,-98.471
-0316,Bear Creek,Hays County,30.189,-97.945
-3614,Oak Valley,Navarro County,32.033,-96.513
-5258,Webberville,Travis County,30.231,-97.517
-4938,Thornton,Limestone County,31.411,-96.572
-3220,Mildred,Navarro County,32.035,-96.377
-0446,Bixby,Cameron County,26.152,-97.854
-1335,Dickens,Dickens County,33.622,-100.837
-2089,Gustine,Comanche County,31.845,-98.403
-5107,Vanderbilt,Jackson County,28.822,-96.616
-3623,Oakwood,Freestone County,31.585,-95.850
-4415,San Patricio,San Patricio County,27.954,-97.772
+3327,Moore,Frio County,29.066,-99.013
+1977,Gordon,Palo Pinto County,32.548,-98.369
+0671,Buffalo Springs,Lubbock County,33.532,-101.708
+2685,Lake City,San Patricio County,28.079,-97.886
+3341,Morgan,Bosque County,32.019,-97.608
+2639,Kosse,Limestone County,31.308,-96.632
+0707,Byers,Clay County,34.068,-98.191
+3554,Nome,Jefferson County,30.036,-94.424
+5071,Union Grove,Upshur County,32.571,-94.920
+1164,Creedmoor,Hays County,30.074,-97.737
+4960,Tilden,McMullen County,28.462,-98.549
+5429,Wilson,Lynn County,33.317,-101.724
+2771,Leary,Bowie County,33.460,-94.208
+3647,Oglesby,Coryell County,31.419,-97.507
+4181,Retreat,Navarro County,32.034,-96.474
+3045,Marathon,Brewster County,30.205,-103.245
+0228,Avery,Red River County,33.552,-94.781
+0854,Cedar Point,Polk County,30.801,-95.079
+5438,Winfield,Titus County,33.167,-95.112
+4488,Scotland,Archer County,33.660,-98.471
+0317,Bear Creek,Hays County,30.189,-97.945
+3621,Oak Valley,Navarro County,32.033,-96.513
+5267,Webberville,Travis County,30.231,-97.517
+4947,Thornton,Limestone County,31.411,-96.572
+3227,Mildred,Navarro County,32.035,-96.377
+0447,Bixby,Cameron County,26.152,-97.854
+1337,Dickens,Dickens County,33.622,-100.837
+2093,Gustine,Comanche County,31.845,-98.403
+5116,Vanderbilt,Jackson County,28.822,-96.616
+3630,Oakwood,Freestone County,31.585,-95.850
+4423,San Patricio,San Patricio County,27.954,-97.772
 0085,Alma,Ellis County,32.285,-96.546
-2631,Kosciusko,Wilson County,29.105,-97.950
-0477,Blum,Hill County,32.143,-97.397
-2775,Leesville,Gonzales County,29.407,-97.745
-3609,Oak Island,Chambers County,29.661,-94.690
-2169,Hartley,Hartley County,35.886,-102.397
-1292,Dell City,Hudspeth County,31.939,-105.201
-2908,Los Angeles,Willacy County,26.495,-97.787
-2395,Huxley,Shelby County,31.762,-93.877
+2637,Kosciusko,Wilson County,29.105,-97.950
+0478,Blum,Hill County,32.143,-97.397
+2781,Leesville,Gonzales County,29.407,-97.745
+3616,Oak Island,Chambers County,29.661,-94.690
+2173,Hartley,Hartley County,35.886,-102.397
+1294,Dell City,Hudspeth County,31.939,-105.201
+2914,Los Angeles,Willacy County,26.495,-97.787
+2401,Huxley,Shelby County,31.762,-93.877
 0002,Abbott,Hill County,31.885,-97.073
-3953,Pleasant Valley,Wichita County,33.939,-98.590
-2793,Leroy,McLennan County,31.732,-97.018
-3751,Paint Rock,Concho County,31.508,-99.920
-1495,Edom,Van Zandt County,32.372,-95.609
-2704,Lakeside,San Patricio County,28.105,-97.861
-2264,Higgins,Lipscomb County,36.120,-100.024
-0953,Christine,Atascosa County,28.789,-98.497
-4839,Sunset,Montague County,33.454,-97.767
-4485,Scottsville,Harrison County,32.540,-94.238
-1860,Garden City,Glasscock County,31.864,-101.481
-4299,Rose City,Orange County,30.103,-94.052
-1503,El Cenizo,Starr County,26.411,-98.916
-1850,Gallatin,Cherokee County,31.891,-95.145
-5026,Turkey,Hall County,34.393,-100.898
-3750,Paint Creek,Haskell County,33.063,-99.673
-4449,Santa Rosa,Starr County,26.349,-98.770
-2430,Iola,Grimes County,30.772,-96.075
-1625,Eureka,Navarro County,32.013,-96.296
-3688,Orchard,Fort Bend County,29.604,-95.970
-3441,Nazareth,Castro County,34.544,-102.103
-2927,Loving,Young County,33.264,-98.511
-5326,Weston,Collin County,33.349,-96.669
-4187,Richards,Grimes County,30.537,-95.846
-4998,Trent,Taylor County,32.490,-100.126
-0358,Bellevue,Clay County,33.636,-98.014
-2291,Hilltop,Frio County,28.693,-99.174
-0770,Carbon,Eastland County,32.271,-98.829
-0695,Burton,Washington County,30.182,-96.596
-2558,Kennard,Houston County,31.360,-95.183
-4107,Rancho Viejo,Starr County,26.414,-98.916
-0930,Chester,Tyler County,30.926,-94.597
-0306,Bayside,Refugio County,28.094,-97.215
-3749,Paige,Bastrop County,30.210,-97.115
-3758,Palisades,Randall County,35.062,-101.802
-2417,Industry,Austin County,29.972,-96.502
-1149,Covington,Hill County,32.178,-97.258
-4193,Richland,Navarro County,31.927,-96.429
-4920,Texhoma,Sherman County,36.494,-101.794
-1971,Goodrich,Polk County,30.605,-94.947
-0279,Barstow,Ward County,31.461,-103.394
-0461,Blackwell,Coke County,32.085,-100.319
-3612,Oak Ridge,Cooke County,33.648,-97.038
-2189,Havana,Hidalgo County,26.245,-98.509
-3354,Morse,Hansford County,36.063,-101.475
-4312,Ross,McLennan County,31.718,-97.119
-0473,Blessing,Matagorda County,28.871,-96.218
-3297,Montague,Montague County,33.665,-97.721
-4250,Rochester,Haskell County,33.316,-99.856
-1691,Fayetteville,Fayette County,29.906,-96.673
-5462,Woodbine,Cooke County,33.610,-97.016
-2405,Imperial,Pecos County,31.273,-102.693
-0782,Carmine,Fayette County,30.149,-96.686
-2200,Hays,Hays County,30.122,-97.872
-3002,Malone,Hill County,31.918,-96.895
-1761,Forreston,Ellis County,32.256,-96.865
-3329,Moran,Shackelford County,32.548,-99.166
-3439,Navarro,Navarro County,31.998,-96.378
-3619,Oakhurst,San Jacinto County,30.741,-95.311
-4949,Tierra Verde,Nueces County,27.762,-97.717
-0241,Bailey,Fannin County,33.432,-96.166
-5484,Woodson,Throckmorton County,33.015,-99.054
-1964,Goldsmith,Ector County,31.981,-102.615
-2900,Loop,Gaines County,32.915,-102.416
-5269,Wellman,Terry County,33.048,-102.428
-5311,Westbrook,Mitchell County,32.355,-101.014
-0277,Barry,Navarro County,32.099,-96.636
-2911,Los Fresnos,Webb County,27.617,-99.208
-1100,Cool,Parker County,32.800,-98.001
-1372,Douglassville,Cass County,33.192,-94.354
-0955,Chula Vista,Cameron County,26.074,-97.440
-5079,Utopia,Uvalde County,29.615,-99.527
-5263,Welch,Dawson County,32.926,-102.127
-4416,San Pedro,Cameron County,25.982,-97.596
-1007,Cliffside,Potter County,35.265,-101.933
-2291,Hilltop,Starr County,26.404,-98.921
-2655,La Presa,Webb County,27.400,-99.437
-0381,Benjamin,Knox County,33.584,-99.792
-0469,Blanchard,Polk County,30.737,-95.055
-0530,Boston,Bowie County,33.442,-94.420
-5190,Wall,Tom Green County,31.374,-100.308
-5425,Windom,Fannin County,33.565,-95.999
-0123,Anderson,Grimes County,30.487,-95.987
-1139,Cottonwood,Kaufman County,32.468,-96.389
-2658,La Victoria,Starr County,26.341,-98.640
-4733,Staples,Guadalupe County,29.781,-97.836
-5328,Westphalia,Falls County,31.119,-97.115
-1349,Dodge,Walker County,30.746,-95.398
-3216,Midway,Madison County,31.026,-95.751
-0522,Bonney,Brazoria County,29.317,-95.448
-4120,Ravenna,Fannin County,33.673,-96.242
-3193,Mesquite,Starr County,26.402,-98.981
-3163,Megargel,Archer County,33.451,-98.925
-2696,Lake View,Val Verde County,29.455,-100.945
-1843,Gail,Borden County,32.770,-101.445
-2508,Jolly,Clay County,33.864,-98.349
-0706,Bynum,Hill County,31.972,-97.003
-3358,Moscow,Polk County,30.913,-94.825
-3405,Mumford,Robertson County,30.734,-96.565
-2090,Guthrie,King County,33.621,-100.323
-1722,Flat,Coryell County,31.309,-97.630
-2789,Leona,Leon County,31.155,-95.969
-3906,Pine Springs,Smith County,32.398,-95.267
-2598,Kingsbury,Guadalupe County,29.648,-97.828
-4438,Sanford,Hutchinson County,35.702,-101.535
-5265,Weldon,Houston County,31.022,-95.571
+3961,Pleasant Valley,Wichita County,33.939,-98.590
+2799,Leroy,McLennan County,31.732,-97.018
+3759,Paint Rock,Concho County,31.508,-99.920
+1497,Edom,Van Zandt County,32.372,-95.609
+2710,Lakeside,San Patricio County,28.105,-97.861
+2270,Higgins,Lipscomb County,36.120,-100.024
+0955,Christine,Atascosa County,28.789,-98.497
+4848,Sunset,Montague County,33.454,-97.767
+4493,Scottsville,Harrison County,32.540,-94.238
+1863,Garden City,Glasscock County,31.864,-101.481
+4307,Rose City,Orange County,30.103,-94.052
+1505,El Cenizo,Starr County,26.411,-98.916
+1853,Gallatin,Cherokee County,31.891,-95.145
+5035,Turkey,Hall County,34.393,-100.898
+3758,Paint Creek,Haskell County,33.063,-99.673
+4457,Santa Rosa,Starr County,26.349,-98.770
+2436,Iola,Grimes County,30.772,-96.075
+1628,Eureka,Navarro County,32.013,-96.296
+3695,Orchard,Fort Bend County,29.604,-95.970
+3448,Nazareth,Castro County,34.544,-102.103
+2933,Loving,Young County,33.264,-98.511
+5335,Weston,Collin County,33.349,-96.669
+4195,Richards,Grimes County,30.537,-95.846
+5007,Trent,Taylor County,32.490,-100.126
+0359,Bellevue,Clay County,33.636,-98.014
+2297,Hilltop,Frio County,28.693,-99.174
+0772,Carbon,Eastland County,32.271,-98.829
+0697,Burton,Washington County,30.182,-96.596
+2564,Kennard,Houston County,31.360,-95.183
+4115,Rancho Viejo,Starr County,26.414,-98.916
+0932,Chester,Tyler County,30.926,-94.597
+0307,Bayside,Refugio County,28.094,-97.215
+3757,Paige,Bastrop County,30.210,-97.115
+3766,Palisades,Randall County,35.062,-101.802
+2423,Industry,Austin County,29.972,-96.502
+1151,Covington,Hill County,32.178,-97.258
+4201,Richland,Navarro County,31.927,-96.429
+4929,Texhoma,Sherman County,36.494,-101.794
+1975,Goodrich,Polk County,30.605,-94.947
+0280,Barstow,Ward County,31.461,-103.394
+0462,Blackwell,Coke County,32.085,-100.319
+3619,Oak Ridge,Cooke County,33.648,-97.038
+2193,Havana,Hidalgo County,26.245,-98.509
+3361,Morse,Hansford County,36.063,-101.475
+4320,Ross,McLennan County,31.718,-97.119
+0474,Blessing,Matagorda County,28.871,-96.218
+3304,Montague,Montague County,33.665,-97.721
+4258,Rochester,Haskell County,33.316,-99.856
+1694,Fayetteville,Fayette County,29.906,-96.673
+5472,Woodbine,Cooke County,33.610,-97.016
+2411,Imperial,Pecos County,31.273,-102.693
+0784,Carmine,Fayette County,30.149,-96.686
+2204,Hays,Hays County,30.122,-97.872
+3008,Malone,Hill County,31.918,-96.895
+1764,Forreston,Ellis County,32.256,-96.865
+3336,Moran,Shackelford County,32.548,-99.166
+3446,Navarro,Navarro County,31.998,-96.378
+3626,Oakhurst,San Jacinto County,30.741,-95.311
+4958,Tierra Verde,Nueces County,27.762,-97.717
+0242,Bailey,Fannin County,33.432,-96.166
+5494,Woodson,Throckmorton County,33.015,-99.054
+1968,Goldsmith,Ector County,31.981,-102.615
+2906,Loop,Gaines County,32.915,-102.416
+5278,Wellman,Terry County,33.048,-102.428
+5320,Westbrook,Mitchell County,32.355,-101.014
+0278,Barry,Navarro County,32.099,-96.636
+2917,Los Fresnos,Webb County,27.617,-99.208
+1102,Cool,Parker County,32.800,-98.001
+1374,Douglassville,Cass County,33.192,-94.354
+0957,Chula Vista,Cameron County,26.074,-97.440
+5088,Utopia,Uvalde County,29.615,-99.527
+5272,Welch,Dawson County,32.926,-102.127
+4424,San Pedro,Cameron County,25.982,-97.596
+1009,Cliffside,Potter County,35.265,-101.933
+2297,Hilltop,Starr County,26.404,-98.921
+2661,La Presa,Webb County,27.400,-99.437
+0382,Benjamin,Knox County,33.584,-99.792
+0470,Blanchard,Polk County,30.737,-95.055
+0532,Boston,Bowie County,33.442,-94.420
+5199,Wall,Tom Green County,31.374,-100.308
+5434,Windom,Fannin County,33.565,-95.999
+0124,Anderson,Grimes County,30.487,-95.987
+1141,Cottonwood,Kaufman County,32.468,-96.389
+2664,La Victoria,Starr County,26.341,-98.640
+4742,Staples,Guadalupe County,29.781,-97.836
+5337,Westphalia,Falls County,31.119,-97.115
+1351,Dodge,Walker County,30.746,-95.398
+3223,Midway,Madison County,31.026,-95.751
+0524,Bonney,Brazoria County,29.317,-95.448
+4128,Ravenna,Fannin County,33.673,-96.242
+3199,Mesquite,Starr County,26.402,-98.981
+3169,Megargel,Archer County,33.451,-98.925
+2702,Lake View,Val Verde County,29.455,-100.945
+1846,Gail,Borden County,32.770,-101.445
+2514,Jolly,Clay County,33.864,-98.349
+0708,Bynum,Hill County,31.972,-97.003
+3365,Moscow,Polk County,30.913,-94.825
+3412,Mumford,Robertson County,30.734,-96.565
+2094,Guthrie,King County,33.621,-100.323
+1725,Flat,Coryell County,31.309,-97.630
+2795,Leona,Leon County,31.155,-95.969
+3914,Pine Springs,Smith County,32.398,-95.267
+2604,Kingsbury,Guadalupe County,29.648,-97.828
+4446,Sanford,Hutchinson County,35.702,-101.535
+5274,Weldon,Houston County,31.022,-95.571
 0023,Adrian,Oldham County,35.275,-102.665
 0082,Allison,Wheeler County,35.606,-100.101
-2878,Loma Linda,San Patricio County,28.007,-97.499
-4006,Posey,Lubbock County,33.483,-101.710
-1613,Estelline,Hall County,34.547,-100.438
-3169,Melvin,McCulloch County,31.195,-99.580
-5222,Washburn,Armstrong County,35.177,-101.573
-4146,Redfield,Nacogdoches County,31.680,-94.665
-2907,Los Altos,Webb County,27.490,-99.386
-3050,Marietta,Cass County,33.173,-94.542
-4078,Quemado,Maverick County,28.948,-100.624
-0702,Butterfield,El Paso County,31.835,-106.096
-4315,Rosston,Cooke County,33.483,-97.442
-1370,Dougherty,Floyd County,33.942,-101.087
-3644,Oilton,Webb County,27.466,-98.974
-5084,Valentine,Jeff Davis County,30.587,-104.497
-0273,Barnhart,Irion County,31.225,-101.285
-0150,Aquilla,Hill County,31.852,-97.218
-4322,Round Mountain,Blanco County,30.432,-98.345
-4020,Powell,Navarro County,32.118,-96.324
-4180,Rhineland,Knox County,33.530,-99.655
-4324,Round Top,Fayette County,30.065,-96.696
-3599,O'Brien,Haskell County,33.380,-99.844
+2884,Loma Linda,San Patricio County,28.007,-97.499
+4014,Posey,Lubbock County,33.483,-101.710
+1616,Estelline,Hall County,34.547,-100.438
+3175,Melvin,McCulloch County,31.195,-99.580
+5231,Washburn,Armstrong County,35.177,-101.573
+4154,Redfield,Nacogdoches County,31.680,-94.665
+2913,Los Altos,Webb County,27.490,-99.386
+3056,Marietta,Cass County,33.173,-94.542
+4086,Quemado,Maverick County,28.948,-100.624
+0704,Butterfield,El Paso County,31.835,-106.096
+4323,Rosston,Cooke County,33.483,-97.442
+1372,Dougherty,Floyd County,33.942,-101.087
+3651,Oilton,Webb County,27.466,-98.974
+5093,Valentine,Jeff Davis County,30.587,-104.497
+0274,Barnhart,Irion County,31.225,-101.285
+0151,Aquilla,Hill County,31.852,-97.218
+4330,Round Mountain,Blanco County,30.432,-98.345
+4028,Powell,Navarro County,32.118,-96.324
+4188,Rhineland,Knox County,33.530,-99.655
+4332,Round Top,Fayette County,30.065,-96.696
+3606,O'Brien,Haskell County,33.380,-99.844
 0062,Alfred,Jim Wells County,27.881,-97.985
-1351,Dodson,Collingsworth County,34.767,-100.024
-2669,Lago Vista,Starr County,26.564,-99.108
-4965,Toco,Lamar County,33.655,-95.646
-1388,Driftwood,Hays County,30.123,-98.031
-1404,Dumont,King County,33.810,-100.516
-3814,Pawnee,Bee County,28.653,-98.003
-0686,Burlington,Milam County,31.017,-97.000
-4065,Purley,Franklin County,33.091,-95.262
-2485,Jermyn,Jack County,33.264,-98.388
-2253,Hext,Menard County,30.869,-99.529
-1584,Encino,Brooks County,26.936,-98.135
-4829,Sun Valley,Lamar County,33.665,-95.428
-0102,Alum Creek,Bastrop County,30.068,-97.218
-1091,Cone,Crosby County,33.797,-101.388
-1709,Finney,King County,33.810,-100.516
-2076,Grow,King County,33.810,-100.299
-1366,Dorchester,Grayson County,33.530,-96.689
-4515,Seven Oaks,Polk County,30.852,-94.867
-3839,Pennington,Houston County,31.191,-95.236
-1790,Fowlerton,La Salle County,28.466,-98.811
-1139,Cottonwood,Callahan County,32.206,-99.204
-4067,Putnam,Callahan County,32.371,-99.193
-1087,Concepcion,Duval County,27.395,-98.356
-2106,Haynesville,Wichita County,34.091,-98.916
-2563,Kent,Culberson County,31.069,-104.217
-2707,Lakeview,Hall County,34.675,-100.699
-4495,Seaton,Bell County,31.058,-97.234
-3503,New Salem,Rusk County,31.942,-94.960
-0873,Centralia,Trinity County,31.258,-95.040
-0115,Amistad,Val Verde County,29.524,-101.153
-3906,Pine Springs,Culberson County,31.894,-104.816
-0090,Alpha,Dallas County,32.939,-96.803
-1318,Derby,Frio County,28.771,-99.130
-4661,Spofford,Kinney County,29.175,-100.414
-4934,Thompsonville,Jim Hogg County,27.255,-98.784
-3446,Needmore,Bailey County,34.033,-102.737
-1899,Germany,Houston County,31.440,-95.351
-4147,Redford,Presidio County,29.450,-104.189
-2910,Los Ebanos,Hidalgo County,26.243,-98.562
-0741,Camp Verde,Kerr County,29.894,-99.105
-5255,Webb,Webb County,27.793,-99.423
-2843,Lipscomb,Lipscomb County,36.232,-100.272
-0370,Belmont,Gonzales County,29.523,-97.684
-1382,Draper,Denton County,33.099,-97.230
-3446,Needmore,Terry County,33.327,-102.327
-2514,Joplin,Jack County,33.094,-97.995
-1211,Culleoka,Collin County,33.131,-96.492
-4500,Sedalia,Collin County,33.396,-96.478
-1088,Concord,Rusk County,31.917,-94.589
-2347,Hopewell,Houston County,31.259,-95.362
-1355,Dolores,Webb County,27.689,-99.733
-1923,Girard,Kent County,33.362,-100.663
-4326,Roundup,Hockley County,33.762,-102.097
-3080,Marysville,Cooke County,33.771,-97.334
-4759,Stewart,Rusk County,32.298,-94.648
-4447,Santa Monica,Willacy County,26.362,-97.586
-1513,Elbert,Throckmorton County,33.266,-98.994
-3180,Mentone,Loving County,31.705,-103.599
+1353,Dodson,Collingsworth County,34.767,-100.024
+2675,Lago Vista,Starr County,26.564,-99.108
+4974,Toco,Lamar County,33.655,-95.646
+1390,Driftwood,Hays County,30.123,-98.031
+1406,Dumont,King County,33.810,-100.516
+3822,Pawnee,Bee County,28.653,-98.003
+0688,Burlington,Milam County,31.017,-97.000
+4073,Purley,Franklin County,33.091,-95.262
+2491,Jermyn,Jack County,33.264,-98.388
+2258,Hext,Menard County,30.869,-99.529
+1587,Encino,Brooks County,26.936,-98.135
+4838,Sun Valley,Lamar County,33.665,-95.428
+0103,Alum Creek,Bastrop County,30.068,-97.218
+1093,Cone,Crosby County,33.797,-101.388
+1712,Finney,King County,33.810,-100.516
+2080,Grow,King County,33.810,-100.299
+1368,Dorchester,Grayson County,33.530,-96.689
+4523,Seven Oaks,Polk County,30.852,-94.867
+3847,Pennington,Houston County,31.191,-95.236
+1793,Fowlerton,La Salle County,28.466,-98.811
+1141,Cottonwood,Callahan County,32.206,-99.204
+4075,Putnam,Callahan County,32.371,-99.193
+1089,Concepcion,Duval County,27.395,-98.356
+2110,Haynesville,Wichita County,34.091,-98.916
+2569,Kent,Culberson County,31.069,-104.217
+2713,Lakeview,Hall County,34.675,-100.699
+4503,Seaton,Bell County,31.058,-97.234
+3510,New Salem,Rusk County,31.942,-94.960
+0875,Centralia,Trinity County,31.258,-95.040
+0116,Amistad,Val Verde County,29.524,-101.153
+3914,Pine Springs,Culberson County,31.894,-104.816
+0091,Alpha,Dallas County,32.939,-96.803
+1320,Derby,Frio County,28.771,-99.130
+4670,Spofford,Kinney County,29.175,-100.414
+4943,Thompsonville,Jim Hogg County,27.255,-98.784
+3453,Needmore,Bailey County,34.033,-102.737
+1902,Germany,Houston County,31.440,-95.351
+4155,Redford,Presidio County,29.450,-104.189
+2916,Los Ebanos,Hidalgo County,26.243,-98.562
+0743,Camp Verde,Kerr County,29.894,-99.105
+5264,Webb,Webb County,27.793,-99.423
+2849,Lipscomb,Lipscomb County,36.232,-100.272
+0371,Belmont,Gonzales County,29.523,-97.684
+1384,Draper,Denton County,33.099,-97.230
+3453,Needmore,Terry County,33.327,-102.327
+2520,Joplin,Jack County,33.094,-97.995
+1213,Culleoka,Collin County,33.131,-96.492
+4508,Sedalia,Collin County,33.396,-96.478
+1090,Concord,Rusk County,31.917,-94.589
+2353,Hopewell,Houston County,31.259,-95.362
+1357,Dolores,Webb County,27.689,-99.733
+1926,Girard,Kent County,33.362,-100.663
+4334,Roundup,Hockley County,33.762,-102.097
+3086,Marysville,Cooke County,33.771,-97.334
+4768,Stewart,Rusk County,32.298,-94.648
+4455,Santa Monica,Willacy County,26.362,-97.586
+1515,Elbert,Throckmorton County,33.266,-98.994
+3186,Mentone,Loving County,31.705,-103.599
 0011,Acton,Hood County,32.447,-97.690
 0017,Adamsville,Lampasas County,31.301,-98.169
 0025,Afton,Dickens County,33.763,-100.817
@@ -844,400 +845,400 @@ phoneme,name,county,latitude,longitude
 0050,Albuquerque,Gonzales County,29.348,-97.843
 0056,Aleman,Hamilton County,31.632,-98.042
 0057,Alexander,Erath County,32.059,-98.206
-0116,Amity,Comanche County,32.059,-98.884
-0120,Anadarko,Cherokee County,31.928,-94.876
-0121,Anchorage,Atascosa County,29.067,-98.706
-0141,Antelope,Jack County,33.442,-98.370
-0190,Ashwood,Matagorda County,29.104,-95.871
-0225,Avalon,Ellis County,32.206,-96.790
-0230,Avoca,Jones County,32.866,-99.716
-0233,Axtell,McLennan County,31.658,-96.971
-0290,Bassett,Bowie County,33.317,-94.561
-0307,Bayview,Galveston County,29.515,-95.004
-0336,Beech Grove,Jasper County,30.856,-94.121
-0378,Bend,Lampasas County,31.099,-98.512
-0391,Bentonville,Jim Wells County,27.776,-97.958
-0398,Bernardo,Colorado County,29.761,-96.392
-0409,Bethel,Anderson County,31.920,-95.920
-0414,Bula,Bailey County,33.911,-102.638
-0455,Blackfoot,Anderson County,31.946,-95.835
-0498,Bluffton,Llano County,30.821,-98.491
-0509,Bois d'Arc,Anderson County,31.959,-95.753
-0513,Bolivar,Denton County,33.358,-97.245
-0521,Bonita,Montague County,33.759,-97.594
-0523,Bono,Johnson County,32.324,-97.504
-0528,Borden,Colorado County,29.691,-96.702
-0554,Bradford,Anderson County,31.989,-95.767
-0560,Branch,Collin County,33.102,-96.516
-0561,Branchville,Milam County,30.884,-96.764
-0562,Brandon,Hill County,32.046,-96.961
-0568,Brashear,Hopkins County,33.119,-95.734
-0593,Briggs,Burnet County,30.890,-97.925
-0613,Bronson,Sabine County,31.344,-94.014
-0630,Browning,Smith County,32.384,-95.084
-0633,Brownsboro,Caldwell County,29.784,-97.609
-0642,Brundage,Dimmit County,28.574,-99.669
-0646,Brushy Creek,Anderson County,31.958,-95.615
-0653,Buckeye,Matagorda County,28.896,-96.048
-0655,Buckhorn,Austin County,30.039,-96.200
-0664,Buena Vista,Bexar County,29.271,-98.461
-0669,Buffalo Springs,Clay County,33.556,-98.140
-0670,Buford,Mitchell County,32.462,-100.857
-0681,Burkeville,Newton County,31.000,-93.668
-0682,Burleigh,Austin County,29.920,-96.150
-0689,Burns,Bowie County,33.518,-94.289
-0692,Burr,Wharton County,29.308,-96.007
-0698,Butler,Bastrop County,30.321,-97.296
-0698,Butler,Freestone County,31.664,-95.924
-0709,Cash,Hunt County,32.994,-96.108
-0710,Caddo,Stephens County,32.718,-98.668
-0711,Cadiz,Bee County,28.427,-97.939
-0718,Caledonia,Cherokee County,31.924,-94.527
-0746,Campbellton,Atascosa County,28.747,-98.302
-0755,Candelaria,Presidio County,30.139,-104.683
-0767,Caps,Taylor County,32.373,-99.847
-0772,Carbondale,Bowie County,33.315,-94.441
-0777,Carlton,Hamilton County,31.918,-98.172
-0789,Carpenter,Wilson County,29.378,-98.185
-0792,Kerrick,Dallam County,36.496,-102.243
-0806,Cartwright,Wood County,32.872,-95.371
-0838,Cayuga,Anderson County,31.957,-95.975
-0846,Cedar Creek,Bastrop County,30.086,-97.501
-0855,Cedar Valley,Bell County,30.906,-97.677
-0859,Centennial,Panola County,32.226,-94.083
-0861,Center Grove,Houston County,31.168,-95.384
-0869,Central,Angelina County,31.427,-94.809
-0871,Central High,Cherokee County,31.707,-95.054
-0892,Chappel,San Saba County,31.056,-98.571
-0904,Chatfield,Navarro County,32.242,-96.407
-0914,Chenango,Brazoria County,29.254,-95.459
-0919,Cherokee,San Saba County,30.983,-98.707
-0933,Chesterville,Colorado County,29.610,-96.207
-0944,China Grove,Brazoria County,29.313,-95.457
-0960,Cimarron,Harris County,29.771,-95.758
-0962,Circle,Cherokee County,31.801,-95.009
-0985,Clawson,Angelina County,31.401,-94.793
-0992,Clayton,Panola County,32.098,-94.475
-0995,Clear Lake,Collin County,33.078,-96.495
-1000,Clearwater,Franklin County,33.000,-95.201
-1010,Clinton,Hunt County,33.103,-96.236
-1032,Cobb,Kaufman County,32.714,-96.100
-1036,Cochran,Austin County,30.029,-96.129
-1059,Colfax,Van Zandt County,32.510,-95.733
-1073,Colorado,Bastrop County,29.986,-97.134
-1075,Colquitt,Kaufman County,32.795,-96.358
-1086,Comstock,Val Verde County,29.684,-101.173
-1088,Concord,Cherokee County,32.070,-95.046
-1097,Conway,Carson County,35.208,-101.381
-1116,Corley,Bowie County,33.326,-94.394
-1139,Cottonwood,Somervell County,32.191,-97.889
-1180,Crisp,Ellis County,32.398,-96.581
-1191,Cross Roads,Henderson County,32.049,-95.968
-1195,Crown,Atascosa County,28.941,-98.740
-1203,Crystal Beach,Galveston County,29.457,-94.640
-1205,Crystal Lake,Anderson County,31.690,-95.505
-1227,Cyclone,Bell County,31.028,-97.151
-1229,Cypress,Franklin County,33.044,-95.319
-1237,Dale,Caldwell County,29.927,-97.564
-1254,Daphne,Franklin County,33.267,-95.130
-1263,Davis,Atascosa County,28.800,-98.757
-1265,Dawn,Deaf Smith County,34.910,-102.200
-1274,Deadwood,Panola County,32.140,-94.142
-1298,Delhi,Caldwell County,29.828,-97.396
-1311,Dennis,Parker County,32.619,-97.927
-1333,Diana,Upshur County,32.710,-94.752
-1376,Downing,Comanche County,32.024,-98.551
-1395,Dryden,Terrell County,30.045,-102.114
-1415,Dunn,Scurry County,32.567,-100.885
-1429,Egan,Johnson County,32.453,-97.300
-1471,Ebenezer,Camp County,32.972,-94.881
-1485,Edgeworth,Bell County,30.952,-97.141
-1525,Elliott,Robertson County,30.954,-96.568
-1553,Elm Grove,Caldwell County,29.891,-97.487
-1553,Elm Grove,Cherokee County,31.872,-95.101
-1553,Elm Grove,San Saba County,31.428,-99.056
-1553,Elm Grove,Wharton County,29.442,-96.326
-1561,Elmwood,Anderson County,31.920,-95.631
-1565,Elroy,Travis County,30.121,-97.635
-1581,Emmett,Navarro County,31.988,-96.793
-1586,Energy,Comanche County,31.763,-98.369
-1589,English,Brazoria County,29.374,-95.528
-1596,Eola,Concho County,31.399,-100.089
-1611,Espey,Atascosa County,29.112,-98.489
-1625,Eureka,Franklin County,33.349,-95.306
-1647,Fairfield,Harris County,30.007,-95.748
-1650,Fairland,Burnet County,30.644,-98.285
-1657,Fairview,Armstrong County,35.104,-101.542
-1657,Fairview,Brazos County,30.652,-96.435
-1660,Fairy,Hamilton County,31.846,-97.983
-1663,Falcon Heights,Starr County,26.559,-99.123
-1665,Fall Creek,Harris County,32.398,-97.651
-1683,Farrar,Limestone County,31.457,-96.281
-1713,Fischer,Comal County,29.979,-98.265
-1719,Five Points,Ellis County,32.279,-96.902
-1728,Flint,Smith County,32.204,-95.349
-1739,Floyd,Hunt County,33.149,-96.245
-1750,Forest,Cherokee County,31.516,-95.012
-1754,Forest Heights,Orange County,30.238,-93.759
-1781,Foster,Fort Bend County,29.651,-95.832
-1787,Four Corners,Brazoria County,29.002,-95.646
-1810,Fredonia,Mason County,30.932,-99.113
-1851,Galloway,Panola County,32.048,-94.081
-1868,Garner,Parker County,32.833,-97.985
-1874,Garwood,Colorado County,29.450,-96.397
-1878,Gastonia,Kaufman County,32.612,-96.403
-1913,Gilchrist,Galveston County,29.512,-94.489
-1932,Glen Flora,Wharton County,29.348,-96.193
-1958,Golden,Wood County,32.729,-95.563
-1969,Goodland,Bailey County,33.873,-102.976
-1979,Goshen,Parker County,32.961,-97.747
-1982,Gould,Cherokee County,32.056,-95.151
-2058,Greenwood,Wise County,33.381,-97.474
-2092,Guy,Fort Bend County,29.344,-95.783
-2106,Hainesville,Wood County,32.718,-95.364
-2110,Hall,San Saba County,31.285,-99.052
-2123,Hammond,Robertson County,31.095,-96.714
-2137,Harbin,Erath County,32.117,-98.273
-2177,Harvard,Camp County,33.060,-94.968
-2178,Harvey,Brazos County,30.655,-96.275
-2179,Harwood,Gonzales County,29.666,-97.505
-2196,Hawkinsville,Matagorda County,28.888,-95.670
-2207,Hazel Dell,Comanche County,31.882,-98.332
-2267,High Hill,Fayette County,29.718,-96.927
-2277,Hilda,Mason County,30.587,-99.114
-2298,Hiram,Kaufman County,32.643,-96.108
-2302,Hobbs,Fisher County,32.781,-100.592
-2304,Hobson,Karnes County,28.957,-97.985
-2334,Homer,Angelina County,31.289,-94.638
-2347,Hopewell,Franklin County,33.118,-95.156
-2370,Hubbard,Bowie County,33.466,-94.639
-2383,Hunt,Kerr County,30.071,-99.338
-2406,Independence,Washington County,30.319,-96.347
-2408,Indian Creek,Brown County,31.523,-98.980
-2436,Ira,Scurry County,32.582,-101.002
-2438,Irene,Hill County,31.992,-96.871
-2443,Ironton,Cherokee County,31.919,-95.374
-2456,Iuka,Atascosa County,29.046,-98.738
-2477,Jeddo,Bastrop County,29.809,-97.315
-2507,Joliet,Caldwell County,29.769,-97.679
-2511,Jonesboro,Coryell County,31.615,-97.877
-2515,Joppa,Burnet County,30.826,-98.032
-2519,Joy,Clay County,33.576,-98.216
-2521,Judson,Gregg County,32.583,-94.754
-2526,Juno,Val Verde County,30.152,-101.115
-2535,Karnack,Harrison County,32.668,-94.171
-2560,Kenney,Austin County,30.048,-96.327
-2601,Kingston,Hunt County,33.253,-96.177
-2618,Klondike,Delta County,33.330,-95.758
-2638,La Belle,Jefferson County,29.880,-94.161
-2644,La Gloria,Jim Wells County,27.281,-98.133
-2644,La Gloria,Starr County,26.720,-98.521
-2656,La Salle,Jackson County,28.792,-96.669
-2705,Lakeside Village,Bosque County,32.021,-97.494
-2707,Lakeview,Franklin County,33.296,-95.246
-2725,Laneville,Rusk County,31.974,-94.814
-2756,Lawrence,Kaufman County,32.742,-96.343
-2768,Lebanon,Live Oak County,28.342,-98.047
-2774,Leesburg,Camp County,32.987,-95.084
-2814,Lillian,Johnson County,32.506,-97.188
-2842,Linwood,Cherokee County,31.664,-94.991
-2879,London,Kimble County,30.677,-99.576
-2886,Long Branch,Panola County,32.073,-94.568
-2891,Long Lake,Anderson County,31.650,-95.781
-2908,Los Angeles,La Salle County,28.466,-99.000
-2961,Lynchburg,Harris County,29.787,-95.055
-2971,Macedonia,Liberty County,30.263,-94.890
-2975,Mackay,Wharton County,29.270,-96.150
-2981,Macon,Franklin County,33.089,-95.128
-2990,Magnet,Wharton County,29.151,-95.987
-2993,Mahomet,Burnet County,30.822,-97.932
-3000,Malden,Armstrong County,35.090,-101.308
-3003,Malta,Bowie County,33.488,-94.522
-3033,Maple,Bailey County,33.849,-102.899
-3091,Matthews,Colorado County,29.512,-96.329
-3099,Maxwell,Caldwell County,29.881,-97.793
-3100,May,Brown County,31.980,-98.920
-3111,McAdoo,Dickens County,33.734,-101.006
-3119,McCoy,Atascosa County,28.861,-98.348
-3119,McCoy,Kaufman County,32.824,-96.108
-3140,McMillan,San Saba County,31.320,-98.652
-3143,McNair,Harris County,29.804,-95.022
-3144,McNary,Hudspeth County,31.248,-105.796
-3145,McNeil,Caldwell County,29.708,-97.584
-3145,McNeil,Travis County,30.453,-97.721
-3175,Mendoza,Caldwell County,30.005,-97.686
-3182,Mentz,Colorado County,29.750,-96.437
-3184,Mercury,McCulloch County,31.413,-99.157
-3201,Mico,Medina County,29.544,-98.923
-3216,Midway,Van Zandt County,32.394,-95.560
-3238,Millheim,Austin County,29.872,-96.248
-3255,Minden,Rusk County,32.014,-94.707
-3258,Mineral,Bee County,28.549,-97.904
-3281,Moffett,Angelina County,31.398,-94.643
-3285,Monaville,Waller County,29.951,-96.039
-3292,Monroe,Cherokee County,32.335,-94.738
-3363,Mound,Coryell County,31.352,-97.638
-3364,Mound City,Anderson County,31.577,-95.406
-3392,Mountain Home,Kerr County,30.175,-99.380
-3417,Mustang,Navarro County,32.013,-96.429
-3422,Nada,Colorado County,29.405,-96.386
-3448,Negley,Red River County,33.760,-95.085
-3450,Nelsonville,Austin County,29.977,-96.403
-3452,Nemo,Somervell County,32.260,-97.652
-3460,New Baden,Robertson County,31.051,-96.429
-3483,New Harmony,Smith County,32.414,-95.466
-3487,New Hope,Cherokee County,31.924,-95.309
-3487,New Hope,Franklin County,33.018,-95.169
-3506,New Sweden,Travis County,30.409,-97.513
-3508,New Ulm,Austin County,29.892,-96.490
-3513,New York,Henderson County,32.170,-95.670
-3516,Newburg,Comanche County,31.787,-98.522
-3578,Northampton,Harris County,42.325,-72.641
-3604,Oak Forest,Gonzales County,29.499,-97.585
-3605,Oak Grove,Bowie County,33.536,-94.688
-3616,Oaks,Bee County,28.609,-98.032
-3620,Oakland,Cherokee County,31.814,-95.219
-3620,Oakland,Colorado County,29.602,-96.830
-3620,Oakland,Van Zandt County,32.571,-95.756
-3622,Oakville,Live Oak County,28.449,-98.102
-3634,Odell,Wilbarger County,34.346,-99.419
-3647,Ola,Kaufman County,32.575,-96.176
-3657,Olin,Hamilton County,31.877,-98.107
-3679,Opelika,Henderson County,32.297,-95.674
-3706,Oscar,Bell County,31.051,-97.262
-3736,Owens,Brown County,31.848,-98.926
-3738,Owl Creek,Bell County,31.227,-97.512
-3759,Palm Harbor,Aransas County,27.971,-97.094
-3784,Parker,Johnson County,32.244,-97.281
-3823,Pearson,Medina County,29.273,-98.875
-3844,Penwell,Ector County,31.740,-102.592
-3858,Peters,Austin County,29.860,-96.187
-3863,Peyton,Blanco County,30.114,-98.305
-3868,Phillipsburg,Austin County,30.095,-96.367
-3881,Pierce,Wharton County,29.239,-96.200
-3888,Pilgrim,Gonzales County,29.293,-97.522
-3894,Pine,Camp County,32.913,-94.969
-3897,Pine Grove,Cherokee County,31.882,-95.330
-3923,Pisgah,Navarro County,31.883,-96.491
-3943,Plantersville,Grimes County,30.333,-95.863
-3960,Plum,Fayette County,29.935,-96.968
-3978,Pollok,Angelina County,31.449,-94.859
-3987,Pontotoc,Mason County,30.909,-98.980
-4016,Pottsville,Hamilton County,31.673,-98.326
-4031,Prairie Hill,Limestone County,31.655,-96.789
-4031,Prairie Hill,Washington County,30.249,-96.377
-4033,Prairieville,Kaufman County,32.480,-96.103
-4043,Price,Rusk County,32.134,-94.943
-4046,Primrose,Van Zandt County,32.433,-95.604
-4050,Proctor,Comanche County,31.988,-98.430
-4052,Progress,Bailey County,34.283,-102.810
-4058,Providence,Anderson County,31.797,-95.524
-4072,Quarry,Washington County,30.308,-96.511
-4094,Reagan,Falls County,31.218,-96.783
-4095,Rainbow,Somervell County,32.266,-97.714
-4118,Ratcliff,Houston County,31.392,-95.146
-4132,Red Bank,Bowie County,33.525,-94.243
-4143,Red Rock,Bastrop County,29.960,-97.446
-4144,Red Springs,Baylor County,33.613,-99.412
-4156,Reedville,Caldwell County,29.880,-97.846
-4157,Reese,Cherokee County,32.023,-95.392
-4202,Ridge,Robertson County,31.146,-96.322
-4216,Ringgold,Montague County,33.820,-97.944
-4249,Rochelle,McCulloch County,31.225,-99.211
-4252,Rock Creek,Somervell County,32.190,-97.722
-4255,Rock Island,Colorado County,29.531,-96.575
-4272,Rocky Creek,Blanco County,30.254,-98.527
-4300,Rose Hill,Harris County,30.071,-95.704
-4316,Rossville,Atascosa County,29.091,-98.681
-4327,Rowena,Runnels County,31.647,-100.046
-4335,Rucker,Comanche County,32.165,-98.603
-4366,Sage,Burnet County,30.875,-98.153
-4381,Salem,Bastrop County,29.844,-97.329
-4381,Salem,Cherokee County,31.760,-95.139
-4388,Salmon,Anderson County,31.573,-95.498
-4391,Saltillo,Hopkins County,33.184,-95.326
-4423,Sand Ridge,Wharton County,29.418,-96.252
-4430,Sandy,Blanco County,30.361,-98.469
-4454,Saratoga,Hardin County,30.284,-94.529
-4459,Satsuma,Harris County,29.903,-95.603
-4505,Selden,Erath County,32.144,-98.107
-4522,Shady Grove,Cherokee County,31.846,-95.024
-4522,Shady Grove,Houston County,31.234,-95.324
-4527,Shannon,Clay County,33.474,-98.259
-4535,Sheffield,Pecos County,30.691,-101.823
-4537,Shelby,Austin County,30.022,-96.598
-4538,Shelbyville,Shelby County,31.762,-94.079
-4551,Sherwood Shores,Burnet County,30.594,-98.359
-4553,Shiloh,Gregg County,32.572,-94.862
-4564,Sidney,Comanche County,31.949,-98.737
-4569,Siloam,Bowie County,33.363,-94.573
-4575,Silver Lake,Van Zandt County,32.670,-95.596
-4580,Simms,Bowie County,33.350,-94.507
-4582,Simpsonville,Upshur County,32.861,-95.069
-4594,Sloan,San Saba County,31.162,-98.909
-4595,Slocum,Anderson County,31.631,-95.462
-4613,Soda Springs,Caldwell County,29.719,-97.599
-4626,South Bend,Young County,33.004,-98.668
-4652,Spanish Fort,Montague County,33.952,-97.627
-4653,Sparks,Bell County,30.929,-97.360
-4665,Spring Creek,San Saba County,31.353,-98.822
-4668,Spring Hill,Bowie County,33.604,-94.671
-4668,Spring Hill,Gregg County,32.563,-94.802
-4677,Springfield,Anderson County,31.805,-95.478
-4677,Springfield,Jim Wells County,27.752,-98.194
-4727,Stanfield,Clay County,33.969,-98.000
-4735,Star,Mills County,31.469,-98.316
-4775,Stoneham,Grimes County,30.342,-95.912
-4819,Summerfield,Castro County,34.738,-102.507
-4825,Sumner,Lamar County,33.740,-95.672
-4850,Swan,Smith County,32.435,-95.367
-4858,Sweet Home,Lavaca County,29.345,-97.072
-4871,Sylvester,Fisher County,32.721,-100.254
-4876,Tabor,Brazos County,30.796,-96.371
-4884,Talpa,Coleman County,31.777,-99.709
-4901,Taylorsville,Caldwell County,29.896,-97.498
-4911,Tennyson,Coke County,31.742,-100.286
-4928,Thedford,Smith County,32.485,-95.397
-4931,Thomaston,DeWitt County,28.997,-97.155
-4967,Tokio,Terry County,33.181,-102.275
-5014,Trumbull,Ellis County,32.490,-96.666
-5019,Tucker,Anderson County,31.674,-95.748
-5030,Turnersville,Coryell County,31.500,-97.625
-5062,Union Grove,Bell County,31.001,-97.602
-5076,Upton,Bastrop County,30.011,-97.264
-5093,Valley Junction,Robertson County,30.842,-96.638
-5096,Valley View,Wichita County,33.873,-98.763
-5108,Vanderpool,Bandera County,29.745,-99.555
-5111,Vaughan,Hill County,31.914,-97.173
-5116,Vera,Knox County,33.633,-99.566
-5118,Verdi,Atascosa County,29.050,-98.399
-5137,Vilas,Bell County,30.841,-97.304
-5152,Violet,Nueces County,27.784,-97.595
-5171,Wadsworth,Matagorda County,28.832,-95.935
-5204,Walton,Van Zandt County,32.361,-95.849
-5206,Wamba,Bowie County,33.506,-94.129
-5215,Warrenton,Fayette County,30.017,-96.732
-5218,Warsaw,Kaufman County,32.550,-96.420
-5228,Water Valley,Tom Green County,31.668,-100.717
-5236,Watson,Burnet County,30.934,-98.014
-5249,Wayside,Armstrong County,34.793,-101.547
-5264,Welcome,Austin County,30.028,-96.489
-5266,Wellborn,Brazos County,30.535,-96.302
-5278,Wentworth,Van Zandt County,32.573,-95.806
-5304,West Point,Fayette County,29.944,-97.037
-5316,Westfield,Harris County,30.020,-95.402
-5327,Westover,Baylor County,33.497,-99.018
-5342,Wheelock,Robertson County,30.898,-96.390
-5349,White Hall,Bell County,31.219,-97.430
-5377,Whitsett,Live Oak County,28.634,-98.272
-5378,Whitt,Parker County,32.956,-98.019
-5379,Whitton,Van Zandt County,32.483,-95.995
-5387,Wilcox,Burleson County,30.446,-96.379
-5390,Wylie,Taylor County,32.373,-99.775
-5409,Willow City,Gillespie County,30.401,-98.701
-5420,Wilson,Comanche County,31.932,-98.267
-5430,Wingate,Runnels County,32.044,-100.110
-5447,Wise,Van Zandt County,32.513,-96.035
-5451,Woden,Nacogdoches County,31.503,-94.527
-5469,Woodlake,Trinity County,31.029,-95.033
-5502,Wrightsboro,Gonzales County,29.374,-97.565
+0117,Amity,Comanche County,32.059,-98.884
+0121,Anadarko,Cherokee County,31.928,-94.876
+0122,Anchorage,Atascosa County,29.067,-98.706
+0142,Antelope,Jack County,33.442,-98.370
+0191,Ashwood,Matagorda County,29.104,-95.871
+0226,Avalon,Ellis County,32.206,-96.790
+0231,Avoca,Jones County,32.866,-99.716
+0234,Axtell,McLennan County,31.658,-96.971
+0291,Bassett,Bowie County,33.317,-94.561
+0308,Bayview,Galveston County,29.515,-95.004
+0337,Beech Grove,Jasper County,30.856,-94.121
+0379,Bend,Lampasas County,31.099,-98.512
+0392,Bentonville,Jim Wells County,27.776,-97.958
+0399,Bernardo,Colorado County,29.761,-96.392
+0410,Bethel,Anderson County,31.920,-95.920
+0415,Bula,Bailey County,33.911,-102.638
+0456,Blackfoot,Anderson County,31.946,-95.835
+0500,Bluffton,Llano County,30.821,-98.491
+0511,Bois d'Arc,Anderson County,31.959,-95.753
+0515,Bolivar,Denton County,33.358,-97.245
+0523,Bonita,Montague County,33.759,-97.594
+0525,Bono,Johnson County,32.324,-97.504
+0530,Borden,Colorado County,29.691,-96.702
+0556,Bradford,Anderson County,31.989,-95.767
+0562,Branch,Collin County,33.102,-96.516
+0563,Branchville,Milam County,30.884,-96.764
+0564,Brandon,Hill County,32.046,-96.961
+0570,Brashear,Hopkins County,33.119,-95.734
+0595,Briggs,Burnet County,30.890,-97.925
+0615,Bronson,Sabine County,31.344,-94.014
+0632,Browning,Smith County,32.384,-95.084
+0635,Brownsboro,Caldwell County,29.784,-97.609
+0644,Brundage,Dimmit County,28.574,-99.669
+0648,Brushy Creek,Anderson County,31.958,-95.615
+0655,Buckeye,Matagorda County,28.896,-96.048
+0657,Buckhorn,Austin County,30.039,-96.200
+0666,Buena Vista,Bexar County,29.271,-98.461
+0671,Buffalo Springs,Clay County,33.556,-98.140
+0672,Buford,Mitchell County,32.462,-100.857
+0683,Burkeville,Newton County,31.000,-93.668
+0684,Burleigh,Austin County,29.920,-96.150
+0691,Burns,Bowie County,33.518,-94.289
+0694,Burr,Wharton County,29.308,-96.007
+0700,Butler,Bastrop County,30.321,-97.296
+0700,Butler,Freestone County,31.664,-95.924
+0711,Cash,Hunt County,32.994,-96.108
+0712,Caddo,Stephens County,32.718,-98.668
+0713,Cadiz,Bee County,28.427,-97.939
+0720,Caledonia,Cherokee County,31.924,-94.527
+0748,Campbellton,Atascosa County,28.747,-98.302
+0757,Candelaria,Presidio County,30.139,-104.683
+0769,Caps,Taylor County,32.373,-99.847
+0774,Carbondale,Bowie County,33.315,-94.441
+0779,Carlton,Hamilton County,31.918,-98.172
+0791,Carpenter,Wilson County,29.378,-98.185
+0794,Kerrick,Dallam County,36.496,-102.243
+0808,Cartwright,Wood County,32.872,-95.371
+0840,Cayuga,Anderson County,31.957,-95.975
+0848,Cedar Creek,Bastrop County,30.086,-97.501
+0857,Cedar Valley,Bell County,30.906,-97.677
+0861,Centennial,Panola County,32.226,-94.083
+0863,Center Grove,Houston County,31.168,-95.384
+0871,Central,Angelina County,31.427,-94.809
+0873,Central High,Cherokee County,31.707,-95.054
+0894,Chappel,San Saba County,31.056,-98.571
+0906,Chatfield,Navarro County,32.242,-96.407
+0916,Chenango,Brazoria County,29.254,-95.459
+0921,Cherokee,San Saba County,30.983,-98.707
+0935,Chesterville,Colorado County,29.610,-96.207
+0946,China Grove,Brazoria County,29.313,-95.457
+0962,Cimarron,Harris County,29.771,-95.758
+0964,Circle,Cherokee County,31.801,-95.009
+0987,Clawson,Angelina County,31.401,-94.793
+0994,Clayton,Panola County,32.098,-94.475
+0997,Clear Lake,Collin County,33.078,-96.495
+1002,Clearwater,Franklin County,33.000,-95.201
+1012,Clinton,Hunt County,33.103,-96.236
+1034,Cobb,Kaufman County,32.714,-96.100
+1038,Cochran,Austin County,30.029,-96.129
+1061,Colfax,Van Zandt County,32.510,-95.733
+1075,Colorado,Bastrop County,29.986,-97.134
+1077,Colquitt,Kaufman County,32.795,-96.358
+1088,Comstock,Val Verde County,29.684,-101.173
+1090,Concord,Cherokee County,32.070,-95.046
+1099,Conway,Carson County,35.208,-101.381
+1118,Corley,Bowie County,33.326,-94.394
+1141,Cottonwood,Somervell County,32.191,-97.889
+1182,Crisp,Ellis County,32.398,-96.581
+1193,Cross Roads,Henderson County,32.049,-95.968
+1197,Crown,Atascosa County,28.941,-98.740
+1205,Crystal Beach,Galveston County,29.457,-94.640
+1207,Crystal Lake,Anderson County,31.690,-95.505
+1229,Cyclone,Bell County,31.028,-97.151
+1231,Cypress,Franklin County,33.044,-95.319
+1239,Dale,Caldwell County,29.927,-97.564
+1256,Daphne,Franklin County,33.267,-95.130
+1265,Davis,Atascosa County,28.800,-98.757
+1267,Dawn,Deaf Smith County,34.910,-102.200
+1276,Deadwood,Panola County,32.140,-94.142
+1300,Delhi,Caldwell County,29.828,-97.396
+1313,Dennis,Parker County,32.619,-97.927
+1335,Diana,Upshur County,32.710,-94.752
+1378,Downing,Comanche County,32.024,-98.551
+1397,Dryden,Terrell County,30.045,-102.114
+1417,Dunn,Scurry County,32.567,-100.885
+1431,Egan,Johnson County,32.453,-97.300
+1473,Ebenezer,Camp County,32.972,-94.881
+1487,Edgeworth,Bell County,30.952,-97.141
+1527,Elliott,Robertson County,30.954,-96.568
+1555,Elm Grove,Caldwell County,29.891,-97.487
+1555,Elm Grove,Cherokee County,31.872,-95.101
+1555,Elm Grove,San Saba County,31.428,-99.056
+1555,Elm Grove,Wharton County,29.442,-96.326
+1563,Elmwood,Anderson County,31.920,-95.631
+1567,Elroy,Travis County,30.121,-97.635
+1583,Emmett,Navarro County,31.988,-96.793
+1589,Energy,Comanche County,31.763,-98.369
+1592,English,Brazoria County,29.374,-95.528
+1599,Eola,Concho County,31.399,-100.089
+1614,Espey,Atascosa County,29.112,-98.489
+1628,Eureka,Franklin County,33.349,-95.306
+1650,Fairfield,Harris County,30.007,-95.748
+1653,Fairland,Burnet County,30.644,-98.285
+1660,Fairview,Armstrong County,35.104,-101.542
+1660,Fairview,Brazos County,30.652,-96.435
+1663,Fairy,Hamilton County,31.846,-97.983
+1666,Falcon Heights,Starr County,26.559,-99.123
+1668,Fall Creek,Harris County,32.398,-97.651
+1686,Farrar,Limestone County,31.457,-96.281
+1716,Fischer,Comal County,29.979,-98.265
+1722,Five Points,Ellis County,32.279,-96.902
+1731,Flint,Smith County,32.204,-95.349
+1742,Floyd,Hunt County,33.149,-96.245
+1753,Forest,Cherokee County,31.516,-95.012
+1757,Forest Heights,Orange County,30.238,-93.759
+1784,Foster,Fort Bend County,29.651,-95.832
+1790,Four Corners,Brazoria County,29.002,-95.646
+1813,Fredonia,Mason County,30.932,-99.113
+1854,Galloway,Panola County,32.048,-94.081
+1871,Garner,Parker County,32.833,-97.985
+1877,Garwood,Colorado County,29.450,-96.397
+1881,Gastonia,Kaufman County,32.612,-96.403
+1916,Gilchrist,Galveston County,29.512,-94.489
+1935,Glen Flora,Wharton County,29.348,-96.193
+1962,Golden,Wood County,32.729,-95.563
+1973,Goodland,Bailey County,33.873,-102.976
+1983,Goshen,Parker County,32.961,-97.747
+1986,Gould,Cherokee County,32.056,-95.151
+2062,Greenwood,Wise County,33.381,-97.474
+2096,Guy,Fort Bend County,29.344,-95.783
+2110,Hainesville,Wood County,32.718,-95.364
+2114,Hall,San Saba County,31.285,-99.052
+2127,Hammond,Robertson County,31.095,-96.714
+2141,Harbin,Erath County,32.117,-98.273
+2181,Harvard,Camp County,33.060,-94.968
+2182,Harvey,Brazos County,30.655,-96.275
+2183,Harwood,Gonzales County,29.666,-97.505
+2200,Hawkinsville,Matagorda County,28.888,-95.670
+2212,Hazel Dell,Comanche County,31.882,-98.332
+2273,High Hill,Fayette County,29.718,-96.927
+2283,Hilda,Mason County,30.587,-99.114
+2304,Hiram,Kaufman County,32.643,-96.108
+2308,Hobbs,Fisher County,32.781,-100.592
+2310,Hobson,Karnes County,28.957,-97.985
+2340,Homer,Angelina County,31.289,-94.638
+2353,Hopewell,Franklin County,33.118,-95.156
+2376,Hubbard,Bowie County,33.466,-94.639
+2389,Hunt,Kerr County,30.071,-99.338
+2412,Independence,Washington County,30.319,-96.347
+2414,Indian Creek,Brown County,31.523,-98.980
+2442,Ira,Scurry County,32.582,-101.002
+2444,Irene,Hill County,31.992,-96.871
+2449,Ironton,Cherokee County,31.919,-95.374
+2462,Iuka,Atascosa County,29.046,-98.738
+2483,Jeddo,Bastrop County,29.809,-97.315
+2513,Joliet,Caldwell County,29.769,-97.679
+2517,Jonesboro,Coryell County,31.615,-97.877
+2521,Joppa,Burnet County,30.826,-98.032
+2525,Joy,Clay County,33.576,-98.216
+2527,Judson,Gregg County,32.583,-94.754
+2532,Juno,Val Verde County,30.152,-101.115
+2541,Karnack,Harrison County,32.668,-94.171
+2566,Kenney,Austin County,30.048,-96.327
+2607,Kingston,Hunt County,33.253,-96.177
+2624,Klondike,Delta County,33.330,-95.758
+2644,La Belle,Jefferson County,29.880,-94.161
+2650,La Gloria,Jim Wells County,27.281,-98.133
+2650,La Gloria,Starr County,26.720,-98.521
+2662,La Salle,Jackson County,28.792,-96.669
+2711,Lakeside Village,Bosque County,32.021,-97.494
+2713,Lakeview,Franklin County,33.296,-95.246
+2731,Laneville,Rusk County,31.974,-94.814
+2762,Lawrence,Kaufman County,32.742,-96.343
+2774,Lebanon,Live Oak County,28.342,-98.047
+2780,Leesburg,Camp County,32.987,-95.084
+2820,Lillian,Johnson County,32.506,-97.188
+2848,Linwood,Cherokee County,31.664,-94.991
+2885,London,Kimble County,30.677,-99.576
+2892,Long Branch,Panola County,32.073,-94.568
+2897,Long Lake,Anderson County,31.650,-95.781
+2914,Los Angeles,La Salle County,28.466,-99.000
+2967,Lynchburg,Harris County,29.787,-95.055
+2977,Macedonia,Liberty County,30.263,-94.890
+2981,Mackay,Wharton County,29.270,-96.150
+2987,Macon,Franklin County,33.089,-95.128
+2996,Magnet,Wharton County,29.151,-95.987
+2999,Mahomet,Burnet County,30.822,-97.932
+3006,Malden,Armstrong County,35.090,-101.308
+3009,Malta,Bowie County,33.488,-94.522
+3039,Maple,Bailey County,33.849,-102.899
+3097,Matthews,Colorado County,29.512,-96.329
+3105,Maxwell,Caldwell County,29.881,-97.793
+3106,May,Brown County,31.980,-98.920
+3117,McAdoo,Dickens County,33.734,-101.006
+3125,McCoy,Atascosa County,28.861,-98.348
+3125,McCoy,Kaufman County,32.824,-96.108
+3146,McMillan,San Saba County,31.320,-98.652
+3149,McNair,Harris County,29.804,-95.022
+3150,McNary,Hudspeth County,31.248,-105.796
+3151,McNeil,Caldwell County,29.708,-97.584
+3151,McNeil,Travis County,30.453,-97.721
+3181,Mendoza,Caldwell County,30.005,-97.686
+3188,Mentz,Colorado County,29.750,-96.437
+3190,Mercury,McCulloch County,31.413,-99.157
+3207,Mico,Medina County,29.544,-98.923
+3223,Midway,Van Zandt County,32.394,-95.560
+3245,Millheim,Austin County,29.872,-96.248
+3262,Minden,Rusk County,32.014,-94.707
+3265,Mineral,Bee County,28.549,-97.904
+3288,Moffett,Angelina County,31.398,-94.643
+3292,Monaville,Waller County,29.951,-96.039
+3299,Monroe,Cherokee County,32.335,-94.738
+3370,Mound,Coryell County,31.352,-97.638
+3371,Mound City,Anderson County,31.577,-95.406
+3399,Mountain Home,Kerr County,30.175,-99.380
+3424,Mustang,Navarro County,32.013,-96.429
+3429,Nada,Colorado County,29.405,-96.386
+3455,Negley,Red River County,33.760,-95.085
+3457,Nelsonville,Austin County,29.977,-96.403
+3459,Nemo,Somervell County,32.260,-97.652
+3467,New Baden,Robertson County,31.051,-96.429
+3490,New Harmony,Smith County,32.414,-95.466
+3494,New Hope,Cherokee County,31.924,-95.309
+3494,New Hope,Franklin County,33.018,-95.169
+3513,New Sweden,Travis County,30.409,-97.513
+3515,New Ulm,Austin County,29.892,-96.490
+3520,New York,Henderson County,32.170,-95.670
+3523,Newburg,Comanche County,31.787,-98.522
+3585,Northampton,Harris County,42.325,-72.641
+3611,Oak Forest,Gonzales County,29.499,-97.585
+3612,Oak Grove,Bowie County,33.536,-94.688
+3623,Oaks,Bee County,28.609,-98.032
+3627,Oakland,Cherokee County,31.814,-95.219
+3627,Oakland,Colorado County,29.602,-96.830
+3627,Oakland,Van Zandt County,32.571,-95.756
+3629,Oakville,Live Oak County,28.449,-98.102
+3641,Odell,Wilbarger County,34.346,-99.419
+3654,Ola,Kaufman County,32.575,-96.176
+3664,Olin,Hamilton County,31.877,-98.107
+3686,Opelika,Henderson County,32.297,-95.674
+3714,Oscar,Bell County,31.051,-97.262
+3744,Owens,Brown County,31.848,-98.926
+3746,Owl Creek,Bell County,31.227,-97.512
+3767,Palm Harbor,Aransas County,27.971,-97.094
+3792,Parker,Johnson County,32.244,-97.281
+3831,Pearson,Medina County,29.273,-98.875
+3852,Penwell,Ector County,31.740,-102.592
+3866,Peters,Austin County,29.860,-96.187
+3871,Peyton,Blanco County,30.114,-98.305
+3876,Phillipsburg,Austin County,30.095,-96.367
+3889,Pierce,Wharton County,29.239,-96.200
+3896,Pilgrim,Gonzales County,29.293,-97.522
+3902,Pine,Camp County,32.913,-94.969
+3905,Pine Grove,Cherokee County,31.882,-95.330
+3931,Pisgah,Navarro County,31.883,-96.491
+3951,Plantersville,Grimes County,30.333,-95.863
+3968,Plum,Fayette County,29.935,-96.968
+3986,Pollok,Angelina County,31.449,-94.859
+3995,Pontotoc,Mason County,30.909,-98.980
+4024,Pottsville,Hamilton County,31.673,-98.326
+4039,Prairie Hill,Limestone County,31.655,-96.789
+4039,Prairie Hill,Washington County,30.249,-96.377
+4041,Prairieville,Kaufman County,32.480,-96.103
+4051,Price,Rusk County,32.134,-94.943
+4054,Primrose,Van Zandt County,32.433,-95.604
+4058,Proctor,Comanche County,31.988,-98.430
+4060,Progress,Bailey County,34.283,-102.810
+4066,Providence,Anderson County,31.797,-95.524
+4080,Quarry,Washington County,30.308,-96.511
+4102,Reagan,Falls County,31.218,-96.783
+4103,Rainbow,Somervell County,32.266,-97.714
+4126,Ratcliff,Houston County,31.392,-95.146
+4140,Red Bank,Bowie County,33.525,-94.243
+4151,Red Rock,Bastrop County,29.960,-97.446
+4152,Red Springs,Baylor County,33.613,-99.412
+4164,Reedville,Caldwell County,29.880,-97.846
+4165,Reese,Cherokee County,32.023,-95.392
+4210,Ridge,Robertson County,31.146,-96.322
+4224,Ringgold,Montague County,33.820,-97.944
+4257,Rochelle,McCulloch County,31.225,-99.211
+4260,Rock Creek,Somervell County,32.190,-97.722
+4263,Rock Island,Colorado County,29.531,-96.575
+4280,Rocky Creek,Blanco County,30.254,-98.527
+4308,Rose Hill,Harris County,30.071,-95.704
+4324,Rossville,Atascosa County,29.091,-98.681
+4335,Rowena,Runnels County,31.647,-100.046
+4343,Rucker,Comanche County,32.165,-98.603
+4374,Sage,Burnet County,30.875,-98.153
+4389,Salem,Bastrop County,29.844,-97.329
+4389,Salem,Cherokee County,31.760,-95.139
+4396,Salmon,Anderson County,31.573,-95.498
+4399,Saltillo,Hopkins County,33.184,-95.326
+4431,Sand Ridge,Wharton County,29.418,-96.252
+4438,Sandy,Blanco County,30.361,-98.469
+4462,Saratoga,Hardin County,30.284,-94.529
+4467,Satsuma,Harris County,29.903,-95.603
+4513,Selden,Erath County,32.144,-98.107
+4530,Shady Grove,Cherokee County,31.846,-95.024
+4530,Shady Grove,Houston County,31.234,-95.324
+4535,Shannon,Clay County,33.474,-98.259
+4543,Sheffield,Pecos County,30.691,-101.823
+4545,Shelby,Austin County,30.022,-96.598
+4546,Shelbyville,Shelby County,31.762,-94.079
+4560,Sherwood Shores,Burnet County,30.594,-98.359
+4562,Shiloh,Gregg County,32.572,-94.862
+4573,Sidney,Comanche County,31.949,-98.737
+4578,Siloam,Bowie County,33.363,-94.573
+4584,Silver Lake,Van Zandt County,32.670,-95.596
+4589,Simms,Bowie County,33.350,-94.507
+4591,Simpsonville,Upshur County,32.861,-95.069
+4603,Sloan,San Saba County,31.162,-98.909
+4604,Slocum,Anderson County,31.631,-95.462
+4622,Soda Springs,Caldwell County,29.719,-97.599
+4635,South Bend,Young County,33.004,-98.668
+4661,Spanish Fort,Montague County,33.952,-97.627
+4662,Sparks,Bell County,30.929,-97.360
+4674,Spring Creek,San Saba County,31.353,-98.822
+4677,Spring Hill,Bowie County,33.604,-94.671
+4677,Spring Hill,Gregg County,32.563,-94.802
+4686,Springfield,Anderson County,31.805,-95.478
+4686,Springfield,Jim Wells County,27.752,-98.194
+4736,Stanfield,Clay County,33.969,-98.000
+4744,Star,Mills County,31.469,-98.316
+4784,Stoneham,Grimes County,30.342,-95.912
+4828,Summerfield,Castro County,34.738,-102.507
+4834,Sumner,Lamar County,33.740,-95.672
+4859,Swan,Smith County,32.435,-95.367
+4867,Sweet Home,Lavaca County,29.345,-97.072
+4880,Sylvester,Fisher County,32.721,-100.254
+4885,Tabor,Brazos County,30.796,-96.371
+4893,Talpa,Coleman County,31.777,-99.709
+4910,Taylorsville,Caldwell County,29.896,-97.498
+4920,Tennyson,Coke County,31.742,-100.286
+4937,Thedford,Smith County,32.485,-95.397
+4940,Thomaston,DeWitt County,28.997,-97.155
+4976,Tokio,Terry County,33.181,-102.275
+5023,Trumbull,Ellis County,32.490,-96.666
+5028,Tucker,Anderson County,31.674,-95.748
+5039,Turnersville,Coryell County,31.500,-97.625
+5071,Union Grove,Bell County,31.001,-97.602
+5085,Upton,Bastrop County,30.011,-97.264
+5102,Valley Junction,Robertson County,30.842,-96.638
+5105,Valley View,Wichita County,33.873,-98.763
+5117,Vanderpool,Bandera County,29.745,-99.555
+5120,Vaughan,Hill County,31.914,-97.173
+5125,Vera,Knox County,33.633,-99.566
+5127,Verdi,Atascosa County,29.050,-98.399
+5146,Vilas,Bell County,30.841,-97.304
+5161,Violet,Nueces County,27.784,-97.595
+5180,Wadsworth,Matagorda County,28.832,-95.935
+5213,Walton,Van Zandt County,32.361,-95.849
+5215,Wamba,Bowie County,33.506,-94.129
+5224,Warrenton,Fayette County,30.017,-96.732
+5227,Warsaw,Kaufman County,32.550,-96.420
+5237,Water Valley,Tom Green County,31.668,-100.717
+5245,Watson,Burnet County,30.934,-98.014
+5258,Wayside,Armstrong County,34.793,-101.547
+5273,Welcome,Austin County,30.028,-96.489
+5275,Wellborn,Brazos County,30.535,-96.302
+5287,Wentworth,Van Zandt County,32.573,-95.806
+5313,West Point,Fayette County,29.944,-97.037
+5325,Westfield,Harris County,30.020,-95.402
+5336,Westover,Baylor County,33.497,-99.018
+5351,Wheelock,Robertson County,30.898,-96.390
+5358,White Hall,Bell County,31.219,-97.430
+5386,Whitsett,Live Oak County,28.634,-98.272
+5387,Whitt,Parker County,32.956,-98.019
+5388,Whitton,Van Zandt County,32.483,-95.995
+5396,Wilcox,Burleson County,30.446,-96.379
+5399,Wylie,Taylor County,32.373,-99.775
+5418,Willow City,Gillespie County,30.401,-98.701
+5429,Wilson,Comanche County,31.932,-98.267
+5439,Wingate,Runnels County,32.044,-100.110
+5457,Wise,Van Zandt County,32.513,-96.035
+5461,Woden,Nacogdoches County,31.503,-94.527
+5479,Woodlake,Trinity County,31.029,-95.033
+5512,Wrightsboro,Gonzales County,29.374,-97.565

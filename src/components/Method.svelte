@@ -30,8 +30,8 @@
 	let scaleExpWiki = "0.67";
 	let scaleExpDist = "1";
 
-	let scaleBoundsPop = [0, 22933531];
-	let scaleBoundsWiki = [0, 96911];
+	let scaleBoundsPop = [0, 22244823];
+	let scaleBoundsWiki = [0, 96685];
 	let scaleBoundsDist = [50, 300];
 
 	let valueWeightDist = 2;

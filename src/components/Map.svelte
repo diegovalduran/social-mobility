@@ -47,8 +47,8 @@
 	export let scaleExpWiki = "0.67";
 	export let scaleExpDist = "1";
 
-	export let scaleBoundsPop = [0, 22933531];
-	export let scaleBoundsWiki = [0, 96911];
+	export let scaleBoundsPop = [0, 22244823];
+	export let scaleBoundsWiki = [0, 96685];
 	export let scaleBoundsDist = [50, 300];
 
 	export let valueWeightDist = "2";
@@ -246,7 +246,7 @@
 			scaleTypeWiki === "scaleLog"
 				? scaleLog()
 				: scalePow().exponent(+scaleExpWiki);
-		scaleWiki = sp
+		scaleWiki = sw
 			.domain(scaleBoundsWiki)
 			.range([0, +valueWeightWiki])
 			.clamp(true);
