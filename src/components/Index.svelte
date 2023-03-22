@@ -52,11 +52,17 @@
 		currentName = name;
 	}
 
+	function getRandom() {
+		const starters = options.filter((d) => d.starter);
+		const random = Math.floor(Math.random() * starters.length);
+		return starters[random];
+	}
+
 	function getPlaceFromUrl() {
 		const param = browser ? $page.url.search.split("place=")[1] : undefined;
 		const clean = decodeURIComponent(param);
 		window.history.replaceState({}, "", `${window.location.pathname}`);
-		const match = options.find((d) => d.name === clean) || classics[0];
+		const match = options.find((d) => d.name === clean) || getRandom();
 		return match;
 	}
 

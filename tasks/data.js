@@ -73,15 +73,22 @@ function makePlaces() {
 }
 
 function makeOptions() {
-	const options = d3
-		.groups(
-			places.filter((d) => d.level === "city-us"),
-			(d) => d.name
-		)
-		.map(([name, values]) => ({
+	const grouped = d3.groups(
+		places.filter((d) => d.level === "city-us"),
+		(d) => d.name
+	);
+
+	const options = grouped.map(([name, values]) => {
+		const count = values.filter(
+			(d) => d.population > 30000 || d.wiki > 10000
+		).length;
+		const starter = count > 1 ? count : "";
+		return {
 			name,
-			phoneme: values[0].phoneme
-		}));
+			phoneme: values[0].phoneme,
+			starter
+		};
+	});
 
 	options.sort((a, b) => d3.ascending(a.name, b.name));
 	fs.writeFileSync("./src/data/options.csv", d3.csvFormat(options));
@@ -108,38 +115,6 @@ function makeCoordinates() {
 			d3.csvFormat(copy)
 		);
 	});
-
-	// const gridPoints = gridPointsUS(1).map((d, i) => ({
-	// 	id: i,
-	// 	latitude: d[0],
-	// 	longitude: d[1]
-	// }));
-
-	// const nearest = us.map((d) => {
-	// 	const distances = gridPoints.map((p) => ({
-	// 		...p,
-	// 		distance: haversine([d.latitude, d.longitude], [p.latitude, p.longitude])
-	// 	}));
-
-	// 	const grid = distances.sort((a, b) =>
-	// 		d3.ascending(a.distance, b.distance)
-	// 	)[0];
-
-	// 	return {
-	// 		...d,
-	// 		grid
-	// 	};
-	// });
-
-	// d3.groups(nearest, (d) => d.grid.id).forEach(([grid, values]) => {
-	// 	const filename = `lat${values[0].latitude}lon${values[0].longitude}.csv`;
-	// 	const copy = values.map((d) => ({ ...d }));
-	// 	copy.forEach((d) => delete d.grid);
-	// 	fs.writeFileSync(
-	// 		`./static/assets/coordinates/${filename}`,
-	// 		d3.csvFormat(copy)
-	// 	);
-	// });
 }
 
 function makeClassics() {

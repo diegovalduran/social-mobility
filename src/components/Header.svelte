@@ -1,12 +1,13 @@
 <script>
 	import { page } from "$app/stores";
+	import { browser } from "$app/environment";
 	import Icon from "$components/helpers/Icon.svelte";
 	import { modal } from "$stores/misc.js";
 	import wordmark from "$svg/wordmark.svg";
 	import copy from "$data/copy-main.json";
 	import focusTrap from "$actions/focusTrap.js";
 
-	$: hide = $page.route.id.includes("method");
+	$: hide = browser ? $page.route.id.includes("method") : true;
 </script>
 
 <header>

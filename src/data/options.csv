@@ -1,5983 +1,5983 @@
-name,phoneme
-Aaronsburg,0000
-Abbeville,0001
-Abbot,0002
-Abbotsford,0003
-Abbott,0002
-Aberdeen,0004
-Abernathy,0005
-Abilene,0006
-Abingdon,0007
-Ackley,0008
-Ackworth,0009
-Acme,0010
-Acton,0011
-Acworth,0009
-Ada,0012
-Adair,0013
-Adams,0014
-Adamsburg,0015
-Adamstown,0016
-Adamsville,0017
-Addie,0018
-Addison,0019
-Addy,0018
-Adel,0020
-Adell,0020
-Adelphi,0021
-Aden,0022
-Adrian,0023
-Advance,0024
-Affton,0025
-Africa,0026
-Afton,0025
-Agate,0027
-Agency,0028
-Agenda,0029
-Agnew,0030
-Agra,0031
-Agua Dulce,0032
-Aiken,0033
-Ainsworth,0034
-Airmont,0035
-Airville,0036
-Ajax,0037
-Akron,0038
-Alabama,0040
-Alamo,0041
-Alaska,0042
-Alba,0043
-Albany,0044
-Albert,0045
-Alberta,0046
-Alberton,0047
-Albertville,0048
-Albion,0049
-Albuquerque,0050
-Alden,0051
-Alder,0052
-Alderson,0053
-Aldine,0054
-Aledo,0055
-Aleman,0056
-Alexander,0057
-Alexandria,0058
-Alexis,0059
-Alfalfa,0060
-Alford,0061
-Alfred,0062
-Alger,0063
-Algiers,0064
-Algoma,0065
-Algona,0066
-Algonquin,0067
-Alhambra,0068
-Alice,0069
-Allegany,0070
-Alleman,0056
-Allen,0071
-Allendale,0072
-Allenhurst,0073
-Allenport,0074
-Allensville,0075
-Allenton,0076
-Allentown,0077
-Allenville,0078
-Allenwood,0079
-Allerton,0080
-Alliance,0081
-Allison,0082
-Allouez,0083
-Allport,0084
-Alma,0085
-Almena,0086
-Almond,0087
-Almont,0088
-Aloha,0089
-Alpha,0090
-Alpine,0091
-Alsen,0092
-Alta,0093
-Alta Vista,0094
-Altamont,0095
-Alto,0096
-Alton,0097
-Altona,0098
-Altoona,0099
-Alturas,0100
-Altus,0101
-Alum Creek,0102
-Alva,0103
-Alvarado,0104
-Alvin,0105
-Alvord,0106
-Amber,0107
-Ambler,0108
-Amboy,0109
-Ambrose,0110
-Amelia,0111
-Americus,0112
-Ames,0113
-Amherst,0114
-Amistad,0115
-Amity,0116
-Ammon,0117
-Amsterdam,0118
-Anaconda,0119
-Anadarko,0120
-Anchorage,0121
-Andalusia,0122
-Anderson,0123
-Andersonville,0124
-Andover,0125
-Andrews,0126
-Aneta,0127
-Angelica,0128
-Angola,0129
-Angora,0130
-Anguilla,0131
-Anna,0132
-Annandale,0133
-Annapolis,0134
-Annetta,0127
-Anniston,0135
-Anoka,0136
-Ansley,0138
-Anson,0139
-Ansonia,0140
-Antelope,0141
-Anthony,0142
-Antioch,0143
-Antrim,0144
-Antwerp,0145
-Apple Creek,0146
-Apple Valley,0147
-Applegate,0148
-Appleton,0149
-Aquilla,0150
-Arab,0151
-Arabi,0152
-Aragon,0153
-Arapahoe,0154
-Ararat,0155
-Arbela,0156
-Arcade,0157
-Arcadia,0158
-Archer,0159
-Arco,0160
-Arcola,0161
-Arden,0162
-Ardmore,0163
-Ardon,0162
-Ardsley,0164
-Argonne,0165
-Argyle,0166
-Arkadelphia,0167
-Arkansas City,0168
-Arkoe,0160
-Arkwright,0169
-Arlington,0170
-Arlington Heights,0171
-Armenia,0172
-Armington,0173
-Armstrong,0174
-Arnett,0175
-Arnold,0176
-Arrington,0177
-Arroyo Hondo,0178
-Artesia,0179
-Arthur,0180
-Arvada,0181
-Asbury,0182
-Ashburn,0183
-Ashby,0184
-Asheville,0185
-Ashford,0186
-Ashland,0187
-Ashley,0188
-Ashton,0189
-Ashville,0185
-Ashwood,0190
-Aspinwall,0191
-Assumption,0192
-Astor,0193
-Astoria,0194
-Asuncion,0195
-Atco,0196
-Athens,0197
-Atherton,0198
-Athol,0199
-Atkins,0200
-Atkinson,0201
-Atlanta,0202
-Atlantic,0203
-Atlantic Beach,0204
-Atlantic City,0205
-Atlas,0206
-Atoka,0207
-Attica,0208
-Atwater,0209
-Atwood,0210
-Au Sable,0211
-Aubrey,0212
-Auburn,0213
-Auburndale,0214
-Audubon,0215
-Audubon Park,0216
-Augsburg,0217
-Augusta,0218
-Aura,0219
-Aurelius,0220
-Aurora,0221
-Austerlitz,0222
-Austin,0223
-Ava,0224
-Avalon,0225
-Avera,0226
-Avery,0227
-Avilla,0228
-Avis,0229
-Avoca,0230
-Avon,0231
-Avondale,0232
-Axtell,0233
-Ayer,0234
-Aztec,0235
-Baden,0236
-Badger,0237
-Bagdad,0238
-Bagley,0239
-Bailey,0241
-Baileyton,0242
-Baileyville,0243
-Bainbridge,0244
-Baird,0245
-Baker,0246
-Bakersfield,0247
-Bakersville,0248
-Baldwin,0249
-Baldwin Park,0250
-Ballard,0251
-Ballston,0252
-Baltic,0253
-Baltimore,0254
-Bancroft,0255
-Bangor,0256
-Bangs,0257
-Banks,0258
-Bankston,0259
-Barberton,0260
-Barboursville,0261
-Barclay,0263
-Bardwell,0264
-Baring,0265
-Barker,0266
-Barlow,0267
-Barnard,0268
-Barnes,0269
-Barnesville,0270
-Barneveld,0271
-Barney,0272
-Barnhart,0273
-Barnum,0274
-Barre,0275
-Barrett,0276
-Barrington,0278
-Barry,0277
-Barstow,0279
-Bartlett,0280
-Bartley,0281
-Barton,0282
-Bartonville,0283
-Bartow,0284
-Barview,0285
-Basalt,0286
-Bascom,0287
-Basin,0288
-Bass Lake,0289
-Bassett,0290
-Bastrop,0291
-Batavia,0292
-Batesville,0293
-Bath,0294
-Battle Creek,0295
-Battle Ground,0296
-Baxter,0297
-Bay City,0298
-Bay Shore,0299
-Bay View,0300
-Bayard,0301
-Bayfield,0302
-Bayou Vista,0303
-Bayport,0304
-Bayshore,0305
-Bayside,0306
-Bayview,0307
-Bayville,0308
-Baywood,0309
-Beach,0310
-Beach City,0311
-Beachwood,0312
-Beacon,0313
-Beallsville,0314
-Bear,0315
-Bear Creek,0316
-Bear Lake,0317
-Bear River,0318
-Bear Valley,0319
-Bearden,0320
-Beatrice,0321
-Beattie,0322
-Beatty,0322
-Beaufort,0323
-Beaumont,0324
-Beauregard,0325
-Beaver,0326
-Beaver Creek,0327
-Beaver Dam,0328
-Beaverdale,0329
-Beaverdam,0330
-Beaverton,0331
-Beavertown,0332
-Bedford,0333
-Bedminster,0334
-Bee,0335
-Beech,0310
-Beech Grove,0336
-Beecher,0337
-Beechwood,0338
-Bel Air,0339
-Bel Aire,0339
-Belden,0340
-Belfast,0341
-Belfry,0342
-Belgium,0343
-Belgrade,0344
-Belknap,0345
-Bell,0346
-Bell Center,0347
-Bell City,0348
-Bella Vista,0349
-Bellaire,0350
-Belle,0346
-Belle Center,0347
-Belle Haven,0351
-Belle Mead,0352
-Belle Meade,0352
-Belle Plaine,0353
-Bellefonte,0354
-Bellemont,0355
-Belleview,0356
-Belleville,0357
-Bellevue,0358
-Bellewood,0359
-Bellflower,0360
-Bellingham,0361
-Bellmawr,0362
-Bellmont,0363
-Bellmore,0362
-Bells,0365
-Bellview,0366
-Bellville,0367
-Bellvue,0366
-Bellwood,0368
-Belmar,0369
-Belmont,0370
-Belmore,0362
-Belo,0364
-Beloit,0371
-Belpre,0372
-Belton,0373
-Belvedere,0374
-Belvidere,0375
-Belview,0366
-Belville,0367
-Belwood,0359
-Ben Avon,0376
-Ben Lomond,0377
-Bend,0378
-Benedict,0379
-Bengal,0380
-Benjamin,0381
-Bennett,0382
-Bennett Springs,0383
-Bennettsville,0384
-Bennington,0385
-Benson,0386
-Bentley,0387
-Bentleyville,0388
-Benton,0389
-Benton City,0390
-Bentonville,0391
-Berea,0392
-Bergen,0393
-Berkeley,0394
-Berkley,0394
-Berkshire,0395
-Berlin,0396
-Bern,0397
-Bernardo,0398
-Berne,0397
-Bernice,0399
-Bernie,0400
-Berry,0275
-Berryville,0401
-Bertha,0402
-Bertram,0403
-Bertrand,0404
-Berwick,0405
-Berwyn,0406
-Beryl,0407
-Bessemer,0408
-Bethany,0410
-Bethel,0409
-Bethesda,0411
-Bethlehem,0412
-Bethune,0413
-Beulah,0414
-Beverley Beach,0415
-Beverly,0416
-Beverly Beach,0415
-Beverly Hills,0417
-Bexley,0418
-Bicknell,0420
-Bidwell,0421
-Big Bend,0422
-Big Creek,0423
-Big Falls,0424
-Big Flats,0425
-Big Lake,0426
-Big Piney,0427
-Big Sandy,0428
-Big Spring,0429
-Big Springs,0430
-Bigelow,0431
-Bigfork,0432
-Biggs,0433
-Billings,0434
-Bingham,0435
-Birch Creek,0436
-Birchwood,0437
-Birdseye,0438
-Birmingham,0439
-Birney,0400
-Biron,0440
-Bisbee,0441
-Bishop,0442
-Bishopville,0443
-Bismarck,0444
-Bison,0445
-Bixby,0446
-Black,0447
-Black Brook,0448
-Black Creek,0449
-Black Diamond,0450
-Black Hawk,0451
-Black Rock,0452
-Black Wolf,0453
-Blackburn,0454
-Blackfoot,0455
-Blackhawk,0456
-Blacksburg,0457
-Blackstone,0458
-Blacksville,0459
-Blackwater,0460
-Blackwell,0461
-Bladensburg,0462
-Blain,0463
-Blaine,0463
-Blair,0464
-Blairstown,0465
-Blairsville,0466
-Blakeley,0467
-Blakely,0467
-Blakeslee,0468
-Blanchard,0469
-Blanco,0470
-Bland,0471
-Blenheim,0472
-Blessing,0473
-Bliss,0474
-Blitchton,0475
-Blodgett,0476
-Bloom,0477
-Bloomfield,0478
-Blooming Grove,0479
-Bloomingburg,0480
-Bloomingdale,0481
-Bloomington,0482
-Bloomville,0483
-Blountsville,0484
-Blue,0485
-Blue Ball,0486
-Blue Eye,0487
-Blue Grass,0488
-Blue Hill,0489
-Blue Jay,0490
-Blue Mountain,0491
-Blue Ridge,0492
-Blue River,0493
-Blue Springs,0494
-Bluefield,0495
-Bluewater,0496
-Bluff City,0497
-Bluffton,0498
-Blum,0477
-Blythe,0499
-Boardman,0500
-Boaz,0501
-Bobtown,0502
-Bogart,0503
-Bogota,0504
-Bogue,0505
-Bogue Chitto,0506
-Bohemia,0507
-Boiling Springs,0508
-Bois d'Arc,0509
-Boise,0510
-Boise City,0510
-Boles,0511
-Boling,0512
-Bolivar,0513
-Bolivia,0514
-Bolling,0512
-Bolton,0515
-Bon Air,0516
-Bonanza,0517
-Bond,0518
-Bondurant,0519
-Bone,0520
-Bonita,0521
-Bonney,0522
-Bonnie,0522
-Bono,0523
-Boon,0524
-Boone,0524
-Booneville,0525
-Boonville,0526
-Bordeaux,0527
-Borden,0528
-Boring,0529
-Boston,0530
-Boswell,0531
-Boulder,0532
-Bourbon,0533
-Bovina,0534
-Bow,0535
-Bowdon,0536
-Bowen,0537
-Bowers,0538
-Bowersville,0539
-Bowie,0540
-Bowler,0541
-Bowles,0511
-Bowling Green,0542
-Bowman,0543
-Bowmansville,0544
-Bowne,0520
-Box Elder,0545
-Box Springs,0546
-Boyce,0547
-Boyd,0548
-Boyds,0549
-Boykin,0550
-Boylston,0551
-Boynton,0552
-Braddock,0553
-Bradford,0554
-Bradley,0555
-Bradshaw,0556
-Brady,0557
-Brainard,0558
-Brainerd,0558
-Braintree,0559
-Branch,0560
-Branchville,0561
-Brandon,0562
-Brandonville,0563
-Brandt,0564
-Brandywine,0565
-Branford,0566
-Branson,0567
-Brant,0564
-Brashear,0568
-Brayton,0569
-Brazeau,0570
-Brazil,0571
-Breckenridge,0572
-Breda,0573
-Bremen,0574
-Brent,0575
-Brentwood,0576
-Brewster,0578
-Brewton,0579
-Briar,0580
-Briarcliff,0581
-Briarwood,0582
-Brice,0583
-Briceville,0584
-Bridge City,0585
-Bridge Creek,0586
-Bridgeport,0587
-Bridger,0588
-Bridgeton,0589
-Bridgetown,0590
-Bridgeville,0591
-Bridgewater,0592
-Brier,0580
-Briggs,0593
-Briggsville,0594
-Brighton,0595
-Brightwood,0596
-Brilliant,0597
-Brimfield,0598
-Brimson,0599
-Brisbane,0600
-Bristol,0601
-Bristow,0602
-Britain,0603
-Britt,0604
-Britton,0603
-Broad Run,0605
-Broadlands,0606
-Broadview,0607
-Broadway,0608
-Brockton,0609
-Brockway,0610
-Brocton,0609
-Brodhead,0611
-Bromley,0612
-Bronson,0613
-Brook,0614
-Brookdale,0615
-Brooke,0614
-Brookfield,0616
-Brookhaven,0617
-Brookline,0618
-Brooklyn,0619
-Brooklyn Heights,0620
-Brooklyn Park,0621
-Brooks,0622
-Brookside,0623
-Brookston,0624
-Brooksville,0625
-Brookville,0626
-Broughton,0627
-Brown,0628
-Brownfield,0629
-Browning,0630
-Brownington,0631
-Browns Valley,0632
-Brownsboro,0633
-Brownstown,0634
-Brownsville,0635
-Browntown,0636
-Brownville,0637
-Broxton,0638
-Bruce,0639
-Bruceton,0640
-Brule,0641
-Brundage,0642
-Brundidge,0642
-Bruno,0643
-Brunswick,0644
-Brush Creek,0645
-Brushy Creek,0646
-Brussels,0647
-Brutus,0648
-Bryan,0649
-Bryant,0650
-Bryantsburg,0651
-Bryce,0583
-Bryceville,0584
-Buchanan,0652
-Buckeye,0653
-Buckhead,0654
-Buckhorn,0655
-Buckingham,0656
-Buckland,0657
-Buckley,0658
-Buckner,0659
-Bucksport,0660
-Buda,0661
-Budapest,0662
-Buena,0663
-Buena Vista,0664
-Buffalo,0665
-Buffalo City,0666
-Buffalo Gap,0667
-Buffalo Grove,0668
-Buffalo Springs,0669
-Buford,0670
-Bugtussle,0671
-Buhl,0672
-Bula,0414
-Bull Creek,0673
-Bull Run,0674
-Bullard,0675
-Bunker Hill,0676
-Burbank,0677
-Burdett,0678
-Burgess,0679
-Burke,0680
-Burkeville,0681
-Burleigh,0682
-Burleson,0683
-Burley,0684
-Burlingame,0685
-Burlington,0686
-Burlison,0683
-Burnett,0687
-Burney,0400
-Burnham,0688
-Burns,0689
-Burnside,0690
-Burnsville,0691
-Burr,0692
-Burr Oak,0693
-Burt,0694
-Burton,0695
-Bush,0696
-Bushnell,0697
-Butler,0698
-Butlerville,0699
-Butte,0700
-Butte City,0701
-Butterfield,0702
-Butterworth,0703
-Buxton,0704
-Byars,0705
-Byers,0705
-Bynum,0706
-Byram,0707
-Byron,0440
-Cabot,0708
-Cache,0709
-Caddo,0710
-Caddoa,0710
-Cadiz,0711
-Caile,0712
-Cairo,0713
-Calais,0714
-Calamus,0716
-Caldwell,0717
-Cale,0712
-Caledonia,0718
-Calera,0719
-Calhoun,0720
-Caliente,0721
-California,0722
-Callahan,0723
-Callao,0724
-Callaway,0725
-Callender,0726
-Calumet,0727
-Calvary,0728
-Calvert,0729
-Calverton,0730
-Calvin,0731
-Camargo,0732
-Camas,0733
-Cambria,0734
-Cambridge,0735
-Camden,0736
-Cameron,0737
-Cameron Park,0738
-Camp Hill,0739
-Camp Springs,0740
-Camp Verde,0741
-Campbell,0742
-Campbellsburg,0743
-Campbellsport,0744
-Campbellsville,0745
-Campbellton,0746
-Campo,0747
-Campton,0748
-Canaan,0749
-Canada,0750
-Canadian,0751
-Canadice,0752
-Canadys,0752
-Canandaigua,0753
-Canby,0754
-Candelaria,0755
-Candor,0756
-Caney,0757
-Cannelton,0758
-Cannonsburg,0759
-Canova,0760
-Canterbury,0761
-Canton,0762
-Canyon,0763
-Canyon Creek,0764
-Canyon Lake,0765
-Capitola,0766
-Capps,0767
-Capron,0768
-Caps,0767
-Capulin,0769
-Carbon,0770
-Carbon Hill,0771
-Carbondale,0772
-Cardiff,0773
-Cardwell,0774
-Carey,0775
-Caribou,0776
-Carleton,0777
-Carlin,0778
-Carlisle,0779
-Carlsbad,0780
-Carlton,0777
-Carlyle,0779
-Carmel,0781
-Carmen,0782
-Carmine,0782
-Carnation,0783
-Carnegie,0784
-Carnes,0785
-Carney,0786
-Carolina,0787
-Caroline,0788
-Carpenter,0789
-Carpenter's Station,0790
-Carpentersville,0791
-Carrick,0792
-Carroll,0793
-Carrollton,0794
-Carrolltown,0795
-Carrolltowne,0795
-Carrsville,0796
-Carson,0797
-Carson City,0798
-Carsonville,0799
-Cartago,0801
-Carter,0802
-Cartersville,0803
-Carterville,0804
-Carthage,0805
-Cartwright,0806
-Carver,0807
-Cary,0775
-Caryville,0808
-Casanova,0809
-Casas Adobes,0810
-Cascade,0811
-Casco,0812
-Casey,0813
-Caseyville,0814
-Cash,0709
-Caspar,0815
-Casper,0815
-Cassadaga,0816
-Cassel,0817
-Casselberry,0818
-Cassville,0819
-Castalia,0820
-Castine,0821
-Castle,0817
-Castle Hill,0822
-Castle Rock,0823
-Castleberry,0818
-Castlewood,0824
-Castor,0825
-Castroville,0826
-Casville,0819
-Caswell,0827
-Catawba,0828
-Catharine,0829
-Catherine,0830
-Cato,0831
-Cave City,0832
-Cave Creek,0833
-Cave Spring,0834
-Cavendish,0835
-Cayce,0836
-Caylor,0837
-Cayuga,0838
-Cazadero,0839
-Cazenovia,0840
-Cecil,0841
-Cecilia,0842
-Cedar,0843
-Cedar Bluff,0844
-Cedar City,0845
-Cedar Creek,0846
-Cedar Crest,0847
-Cedar Grove,0848
-Cedar Hill,0849
-Cedar Hills,0850
-Cedar Lake,0851
-Cedar Point,0852
-Cedar Rapids,0853
-Cedar Springs,0854
-Cedar Valley,0855
-Cedarville,0856
-Celina,0857
-Cementon,0858
-Centennial,0859
-Center,0860
-Center Grove,0861
-Center Point,0862
-Center Valley,0863
-Centerfield,0864
-Centerport,0865
-Centerton,0866
-Centertown,0867
-Centerville,0868
-Central,0869
-Central City,0870
-Central High,0871
-Central Point,0872
-Centralia,0873
-Centre,0860
-Centre Grove,0861
-Centreville,0874
-Century,0875
-Ceres,0876
-Ceresco,0877
-Cerro Gordo,0878
-Chadwick,0879
-Chalco,0880
-Chalfant,0881
-Chalybeate,0882
-Chalybeate Springs,0883
-Chama,0884
-Champion,0885
-Chance,0886
-Chancellor,0887
-Chandler,0888
-Chapel Hill,0889
-Chapin,0890
-Chapman,0891
-Chappel,0892
-Chappell,0892
-Chappell Hill,0889
-Chariton,0893
-Charleroi,0894
-Charles City,0895
-Charleston,0896
-Charlestown,0897
-Charlo,0898
-Charloe,0898
-Charlotte,0899
-Charlottesville,0900
-Charlton,0901
-Charter Oak,0902
-Chase,0903
-Chatfield,0904
-Chatham,0905
-Chatom,0905
-Chatsworth,0906
-Chattanooga,0907
-Chattaroy,0908
-Chauncey,0909
-Chautauqua,0910
-Chelmsford,0911
-Chelsea,0912
-Cheltenham,0913
-Chenango,0914
-Cheney,0915
-Cheneyville,0916
-Chenoweth,0917
-Cheraw,0918
-Cheriton,0893
-Cherokee,0919
-Cherry,0920
-Cherry Creek,0921
-Cherry Grove,0922
-Cherry Hill,0923
-Cherry Tree,0924
-Cherry Valley,0925
-Cherryvale,0926
-Cherryville,0927
-Chesapeake,0928
-Cheshire,0929
-Chester,0930
-Chesterfield,0931
-Chestertown,0932
-Chesterville,0933
-Cheyenne,0934
-Chichester,0935
-Chickasaw,0936
-Chico,0937
-Chicopee,0938
-Chilhowee,0940
-Chilhowie,0940
-Chili,0939
-Chillicothe,0941
-Chilton,0942
-China,0943
-China Grove,0944
-Chinook,0945
-Chippewa Lake,0946
-Chisholm,0947
-Chloride,0948
-Choctaw,0949
-Chrisman,0950
-Christiana,0951
-Christiansburg,0952
-Christine,0953
-Chula,0954
-Chula Vista,0955
-Church Hill,0956
-Churchill,0957
-Churchville,0958
-Cicero,0959
-Cimarron,0960
-Cincinnati,0961
-Circle,0962
-Circleville,0963
-Cisco,0964
-Citrus Park,0965
-Claiborne,0966
-Clare,0967
-Claremont,0968
-Clarence,0969
-Clarendon,0970
-Claridon,0971
-Clarion,0972
-Clark,0973
-Clarkdale,0974
-Clarks,0975
-Clarks Hill,0976
-Clarksburg,0977
-Clarksdale,0978
-Clarkson,0979
-Clarkston,0980
-Clarksville,0981
-Clarkton,0982
-Clarno,0983
-Claryville,0984
-Clawson,0985
-Claxton,0986
-Clay,0987
-Clay Center,0988
-Clay City,0989
-Claypool,0990
-Claysville,0991
-Clayton,0992
-Clayville,0993
-Clear Creek,0994
-Clear Lake,0995
-Clearbrook,0996
-Clearfield,0997
-Clearmont,0998
-Clearview,0999
-Clearwater,1000
-Cleghorn,1001
-Clem,1002
-Clements,1003
-Clemmons,1004
-Clemons,1004
-Clermont,0968
-Cleveland,1005
-Clifford,1006
-Cliffside,1007
-Clifton,1008
-Climax,1009
-Clinton,1010
-Clintondale,1011
-Clintonville,1012
-Clio,1013
-Clover,1014
-Clover Creek,1015
-Cloverdale,1016
-Cloverland,1017
-Clovis,1018
-Clyde,1019
-Clymer,1020
-Coahoma,1021
-Coal City,1022
-Coal Creek,1023
-Coaldale,1024
-Coalgate,1025
-Coalmont,1026
-Coalton,1027
-Coalville,1028
-Coalwood,1029
-Coatesville,1030
-Coats,1031
-Cobb,1032
-Cobden,1033
-Coburg,1034
-Coburn,1035
-Cochran,1036
-Cochrane,1036
-Cody,1037
-Coeburn,1035
-Coffee Creek,1038
-Coffeeville,1039
-Coffeyville,1039
-Coffman,1040
-Cohasset,1041
-Coin,1042
-Cokesbury,1043
-Cokeville,1044
-Colbert,1045
-Colburn,1046
-Colby,1047
-Colchester,1048
-Cold Spring,1049
-Cold Springs,1050
-Coldspring,1051
-Coldstream,1052
-Coldwater,1053
-Colebrook,1054
-Coleman,1055
-Colerain,1056
-Coleraine,1056
-Coleridge,1057
-Colesville,1058
-Colfax,1059
-Colgate,1025
-College Park,1060
-College Station,1061
-Collierville,1062
-Collins,1063
-Collinston,1064
-Collinsville,1065
-Colman,1055
-Cologne,1066
-Coloma,1067
-Colon,1070
-Colonial Heights,1071
-Colony,1072
-Colorado,1073
-Colorado City,1074
-Colquitt,1075
-Colton,1027
-Columbia,1068
-Columbia City,1076
-Columbia Falls,1077
-Columbiana,1078
-Columbus,1079
-Comanche,1080
-Combes,1081
-Combs,1081
-Comfort,1082
-Commerce,1083
-Como,1084
-Compton,1085
-Comstock,1086
-Concepcion,1087
-Concord,1088
-Concordia,1089
-Condon,1090
-Cone,1091
-Conesville,1092
-Connellsville,1093
-Connelsville,1093
-Conover,1094
-Conrad,1095
-Converse,1096
-Conway,1097
-Cook,1098
-Cooksville,1099
-Cool,1100
-Coolidge,1101
-Coon Rapids,1102
-Cooper,1103
-Cooperstown,1104
-Cope,1105
-Copeland,1106
-Copenhagen,1107
-Copper Hill,1108
-Coram,1109
-Corbin,1110
-Corcoran,1111
-Cordova,1113
-Corinne,1114
-Corinth,1115
-Corley,1116
-Cornelia,1117
-Cornelius,1118
-Cornell,1119
-Cornettsville,1120
-Corning,1121
-Cornish,1122
-Cornville,1123
-Cornwall,1124
-Corona,1125
-Corry,1126
-Corsica,1127
-Cortez,1128
-Cortland,1129
-Corunna,1130
-Corvallis,1131
-Cory,1126
-Corydon,1132
-Cosby,1133
-Cottage Grove,1134
-Cottageville,1135
-Cotter,1136
-Cotton,1137
-Cottondale,1138
-Cottonwood,1139
-Coulter,1140
-Coulterville,1141
-Country Club,1142
-Country Club Hills,1143
-Countryside,1144
-Courtland,1145
-Cove,1146
-Coventry,1147
-Covert,1148
-Covington,1149
-Cowan,1150
-Cowen,1150
-Crab Orchard,1151
-Crabtree,1152
-Crafton,1153
-Craig,1154
-Craigsville,1155
-Cramer,1156
-Crandall,1157
-Crane,1158
-Crawford,1159
-Crawfordsville,1160
-Crawfordville,1161
-Crayne,1158
-Creedmoor,1162
-Creekside,1163
-Creighton,1164
-Crenshaw,1165
-Creola,1166
-Crescent,1167
-Crescent City,1168
-Crescent Springs,1169
-Cresco,1170
-Cresson,1171
-Crestline,1172
-Creston,1173
-Crestview,1174
-Crestwood,1175
-Creswell,1176
-Crete,1177
-Creve Coeur,1178
-Cripple Creek,1179
-Crisman,0950
-Crisp,1180
-Crocker,1181
-Crockett,1182
-Crofton,1183
-Cromwell,1184
-Crooked Creek,1185
-Crookston,1186
-Crosby,1187
-Cross Creek,1188
-Cross Keys,1189
-Cross Plains,1190
-Cross Roads,1191
-Crossville,1192
-Crowder,1193
-Crowley,1194
-Crown,1195
-Crown Point,1196
-Croydon,1197
-Crozier,1198
-Crum,1199
-Crump,1200
-Crumpler,1201
-Crystal,1202
-Crystal Beach,1203
-Crystal City,1204
-Crystal Lake,1205
-Crystal Lakes,1206
-Crystal Springs,1207
-Cuba,1208
-Cudahy,1209
-Culbertson,1210
-Culleoka,1211
-Culloden,1212
-Culver,1213
-Cumberland,1214
-Cumming,1215
-Cunningham,1216
-Curlew,1217
-Curran,1218
-Currie,1219
-Curtis,1220
-Curtisville,1221
-Cushing,1222
-Cushman,1223
-Cusseta,1224
-Custer,1225
-Cutler,1226
-Cyclone,1227
-Cynthiana,1228
-Cypress,1229
-Dadeville,1230
-Dahlgren,1231
-Dahlonega,1232
-Dairy,1233
-Daisy,1234
-Dakota,1235
-Dakota City,1236
-Dale,1237
-Daleville,1238
-Dallas,1239
-Dalton,1240
-Dalzell,1241
-Damascus,1242
-Dana,1243
-Danbury,1244
-Danby,1245
-Daniel,1246
-Daniels,1247
-Danielsville,1248
-Dansville,1249
-Dante,1250
-Danube,1251
-Danvers,1252
-Danville,1253
-Daphne,1254
-Darien,1255
-Darlington,1256
-Darmstadt,1257
-Darwin,1258
-Davenport,1259
-Davey,1260
-David,1261
-Davidson,1262
-Davie,1260
-Davis,1263
-Daviston,1264
-Davy,1260
-Dawn,1265
-Dawson,1266
-Day,1267
-Dayton,1268
-Dayville,1269
-Dazey,1234
-De Graff,1270
-De Kalb,1271
-De Soto,1272
-De Witt,1273
-DeWitt,1328
-Deadwood,1274
-Deal,1275
-Deale,1275
-Dean,1276
-Dearborn,1277
-Dearing,1278
-Decatur,1279
-Decaturville,1280
-Decker,1281
-Dedham,1282
-Deep Creek,1283
-Deep River,1284
-Deer Creek,1285
-Deer Lake,1286
-Deer Lodge,1287
-Deer Park,1288
-Deerfield,1289
-Deering,1278
-Deerwood,1290
-Defiance,1291
-Del City,1292
-Del Rio,1293
-Delano,1294
-Delaplaine,1295
-Delaplane,1295
-Delaware,1296
-Delft,1297
-Delhi,1298
-Dell,1299
-Dell City,1292
-Dellwood,1300
-Delmar,1301
-Delmont,1302
-Delphos,1303
-Delta,1304
-Delton,1305
-Deming,1306
-Denham,1307
-Denison,1308
-Denmark,1309
-Denning,1310
-Dennis,1311
-Dennison,1308
-Dennisville,1312
-Dennysville,1312
-Densmore,1313
-Dent,1314
-Denton,1315
-Denver,1316
-Depew,1317
-Derby,1318
-Derry,1233
-Des Arc,1319
-Des Moines,1320
-Desert Hills,1321
-Deshler,1322
-Detroit,1323
-Devon,1324
-Devore,1325
-Dewey,1326
-Deweyville,1327
-Dexter,1329
-Diamond,1330
-Diamond Lake,1331
-Diamond Springs,1332
-Diana,1333
-Dibble,1334
-Diboll,1334
-Dickens,1335
-Dickinson,1336
-Dickson,1337
-Dighton,1338
-Dillard,1339
-Dilley,1340
-Dillon,1341
-Dillonvale,1342
-Dillsboro,1343
-Dinsmore,1313
-Dinwiddie,1344
-Discovery Bay,1345
-Dix,1346
-Dixie,1347
-Dixon,1337
-Dodge,1349
-Dodge City,1350
-Dodson,1351
-Doe Valley,1352
-Dogtown,1353
-Dolomite,1354
-Dolores,1355
-Dolton,1356
-Donald,1357
-Donaldson,1358
-Doniphan,1359
-Donnellson,1360
-Donnelly,1361
-Donnybrook,1362
-Doolittle,1363
-Dora,1364
-Doran,1365
-Dorchester,1366
-Dorset,1367
-Dorseyville,1368
-Doty,1369
-Dougherty,1370
-Douglas,1371
-Douglassville,1372
-Douglasville,1372
-Dover,1373
-Downey,1374
-Downieville,1375
-Downing,1376
-Downsville,1377
-Doyle,1378
-Doylestown,1379
-Drake,1380
-Drammen,1381
-Draper,1382
-Drayton,1383
-Dresden,1384
-Dresser,1385
-Drew,1386
-Drexel,1387
-Driftwood,1388
-Dripping Springs,1389
-Driscoll,1390
-Druid Hills,1391
-Drummond,1392
-Dry Creek,1393
-Dry Ridge,1394
-Dryden,1395
-DuBois,1397
-DuPont,1416
-Dublin,1396
-Dubois,1397
-Dubuque,1398
-Dudley,1399
-Dudleyville,1400
-Duluth,1401
-Dumas,1402
-Dumfries,1403
-Dumont,1404
-Dunbar,1405
-Duncan,1406
-Dundas,1407
-Dundee,1408
-Dungannon,1409
-Dunkirk,1410
-Dunlap,1411
-Dunleith,1412
-Dunlo,1413
-Dunlow,1413
-Dunmore,1414
-Dunn,1415
-Dupont,1416
-Duquesne,1417
-Durand,1418
-Durango,1419
-Durant,1420
-Durham,1421
-Durhamville,1422
-Dutch Neck,1423
-Dutton,1424
-Duxbury,1425
-Dwight,1426
-Dyer,1427
-Eads,1428
-Eagan,1429
-Eagle,1430
-Eagle Bend,1431
-Eagle Creek,1432
-Eagle Harbor,1433
-Eagle Lake,1434
-Eagle Point,1435
-Eagle River,1436
-Eagle Rock,1437
-Eagle Village,1438
-Eagletown,1439
-Eagleville,1440
-Earl,1441
-Earle,1441
-Earling,1442
-Earlville,1443
-Early,1444
-East Brooklyn,1445
-East Camden,1446
-East Cleveland,1447
-East Greenwich,1448
-East Hampton,1449
-East Haven,1450
-East Kingston,1451
-East Lake,1452
-East Lynn,1453
-East Lynne,1453
-East Rochester,1454
-East Union,1455
-East Williston,1456
-East Windsor,1457
-Eastlake,1458
-Eastman,1459
-Easton,1460
-Eastover,1461
-Eastpoint,1462
-Eastpointe,1462
-Eastport,1463
-Eastvale,1464
-Eastwood,1465
-Eaton,1466
-Eatonville,1467
-Eau Claire,1468
-Eau Galle,1469
-Eau Pleine,1470
-Ebenezer,1471
-Ebro,1472
-Echo,1473
-Economy,1474
-Eddington,1475
-Eddyville,1476
-Eden,1477
-Edgar,1478
-Edgefield,1479
-Edgemont,1480
-Edgerton,1481
-Edgewater,1482
-Edgewater Park,1483
-Edgewood,1484
-Edgeworth,1485
-Edina,1486
-Edinboro,1487
-Edinburg,1488
-Edinburgh,1487
-Edison,1489
-Edmond,1490
-Edmondson,1491
-Edmonton,1492
-Edmore,1493
-Edmund,1490
-Edmundson,1491
-Edna,1494
-Edom,1495
-Edson,1496
-Edwards,1497
-Edwardsville,1498
-Effingham,1499
-Egan,1429
-Egg Harbor,1500
-Egremont,1501
-Egypt,1502
-El Cenizo,1503
-El Cerrito,1504
-El Dorado,1505
-El Mirage,1506
-El Paso,1507
-El Portal,1508
-El Rancho,1509
-El Sobrante,1510
-Elba,1511
-Elberon,1512
-Elbert,1513
-Elberta,1514
-Elbridge,1515
-Elco,1516
-Eldon,1517
-Eldora,1518
-Eldorado,1519
-Eldred,1520
-Eldridge,1521
-Elgin,1522
-Elida,1523
-Elim,1524
-Eliot,1525
-Elizabeth,1526
-Elizabeth Lake,1527
-Elizabethtown,1528
-Elk,1529
-Elk City,1530
-Elk Creek,1531
-Elk Grove,1532
-Elk Horn,1533
-Elk River,1534
-Elkhart,1535
-Elkhorn,1536
-Elkins,1537
-Elkland,1538
-Elko,1516
-Elkton,1539
-Ellenboro,1540
-Ellendale,1541
-Ellenton,1542
-Ellerslie,1543
-Ellery,1544
-Ellicott,1545
-Ellington,1546
-Elliott,1525
-Ellis,1547
-Ellisburg,1548
-Elliston,1549
-Ellisville,1550
-Ellsworth,1551
-Elm Creek,1552
-Elm Grove,1553
-Elma,1554
-Elmer,1555
-Elmhurst,1556
-Elmira,1557
-Elmo,1558
-Elmont,1559
-Elmore,1560
-Elmwood,1561
-Elmwood Park,1562
-Elon,1563
-Elrod,1564
-Elroy,1565
-Elsie,1566
-Elsmere,1567
-Elwin,1568
-Elwood,1569
-Elwyn,1568
-Ely,1570
-Elyria,1571
-Elysburg,1548
-Elysville,1550
-Embarrass,1572
-Embreeville,1573
-Emden,1574
-Emerald,1575
-Emerald Bay,1576
-Emerson,1577
-Emery,1578
-Eminence,1579
-Emma,1580
-Emmet,1581
-Emmett,1581
-Emory,1578
-Empire,1582
-Encinal,1583
-Encino,1584
-Endicott,1585
-Energy,1586
-Enfield,1587
-Englewood,1588
-English,1589
-Ennis,1590
-Enola,1591
-Enon,1592
-Ensenada,1593
-Enterprise,1594
-Enville,1595
-Eola,1596
-Ephraim,1597
-Ephrata,1598
-Epping,1599
-Epsom,1600
-Epworth,1601
-Erie,1602
-Erin,1603
-Erskine,1604
-Erving,1605
-Erwin,1606
-Erwinville,1607
-Escatawpa,1608
-Esmond,1609
-Esperance,1610
-Espey,1611
-Espy,1611
-Essex,1612
-Estelline,1613
-Ethel,1614
-Ethridge,1615
-Etna,1616
-Eton,1466
-Etowah,1617
-Etta,1618
-Ettrick,1619
-Euclid,1620
-Eudora,1621
-Eufaula,1622
-Eugene,1623
-Eunice,1624
-Eureka,1625
-Eustace,1626
-Eustis,1626
-Eva,0224
-Evans,1627
-Evanston,1628
-Evansville,1629
-Evening Shade,1630
-Everett,1631
-Evergreen,1632
-Everson,1633
-Everton,1634
-Ewell,1635
-Ewing,1636
-Excelsior,1637
-Exeter,1638
-Fair Haven,1639
-Fair Oaks,1640
-Fair Play,1641
-Fairbanks,1642
-Fairburn,1643
-Fairbury,1644
-Fairdale,1645
-Fairfax,1646
-Fairfield,1647
-Fairhaven,1648
-Fairhope,1649
-Fairland,1650
-Fairlawn,1651
-Fairlee,1652
-Fairmont,1653
-Fairmount,1654
-Fairplay,1655
-Fairport,1656
-Fairview,1657
-Fairview Park,1658
-Fairwood,1659
-Fairy,1660
-Faith,1661
-Falcon,1662
-Falcon Heights,1663
-Falkner,1664
-Fall Creek,1665
-Fall River,1666
-Falling Spring,1667
-Fallon,1668
-Falls City,1669
-Fallston,1670
-Falmouth,1671
-Farewell,1672
-Fargo,1673
-Farley,1674
-Farmers,1675
-Farmersburg,1676
-Farmersville,1677
-Farmingdale,1678
-Farmington,1679
-Farmville,1680
-Farnam,1681
-Farnham,1681
-Farragut,1682
-Farrar,1683
-Farrell,1684
-Farris,1685
-Farson,1686
-Farwell,1687
-Faulkner,1664
-Faxon,1688
-Fay,1689
-Fayette,1690
-Fayetteville,1691
-Federalsburg,1692
-Felicity,1693
-Felton,1694
-Fenton,1695
-Fenwick,1696
-Ferdinand,1697
-Ferguson,1698
-Fern,1699
-Ferndale,1700
-Fernwood,1701
-Ferris,1685
-Ferrisburgh,1702
-Ferry,1660
-Ferrysburg,1702
-Fertile,1703
-Fidelity,1704
-Fife,1705
-Fillmore,1706
-Fincastle,1707
-Findlay,1708
-Finey,1709
-Finland,1710
-Finley,1711
-Finly,1711
-Finney,1709
-Firth,1712
-Fischer,1713
-Fish Springs,1714
-Fisher,1713
-Fisherville,1715
-Fisk,1716
-Fitchburg,1717
-Five Forks,1718
-Five Points,1719
-Flambeau,1720
-Flanders,1721
-Flat,1722
-Flat Rock,1723
-Flatwoods,1724
-Fleming,1725
-Flemington,1726
-Fletcher,1727
-Flint,1728
-Flint Hill,1729
-Flintstone,1730
-Flippin,1731
-Flora,1732
-Florence,1733
-Florida,1734
-Floris,1736
-Florissant,1737
-Flower Hill,1738
-Floyd,1739
-Flushing,1740
-Foley,1741
-Folsom,1742
-Fonda,1743
-Fontana,1744
-Fontanelle,1745
-Footville,1746
-Forbes,1747
-Ford City,1748
-Fordyce,1749
-Forest,1750
-Forest City,1751
-Forest Glen,1752
-Forest Grove,1753
-Forest Heights,1754
-Forest Hill,1755
-Forest Hills,1756
-Forest Lake,1757
-Forest Park,1758
-Forestburg,1759
-Forestburgh,1759
-Forestdale,1760
-Foreston,1761
-Forestville,1762
-Forrest City,1751
-Forreston,1761
-Forsyth,1764
-Fort Atkinson,1765
-Fort Davis,1766
-Fort Defiance,1767
-Fort Dodge,1768
-Fort Hill,1769
-Fort Lee,1770
-Fort Meade,1771
-Fort Mitchell,1772
-Fort Morgan,1773
-Fort Smith,1774
-Fort Thomas,1775
-Fort Valley,1776
-Fort Washington,1777
-Fortescue,1778
-Fortuna,1779
-Foss,1780
-Foster,1781
-Fostoria,1782
-Fountain,1783
-Fountain City,1784
-Fountain Green,1785
-Fountain Hill,1786
-Four Corners,1787
-Fourmile,1788
-Fowler,1789
-Fowlerton,1790
-Fowlerville,1791
-Fox,1792
-Fox Chase,1793
-Fox Lake,1794
-Francis,1795
-Francisco,1796
-Franconia,1797
-Frankford,1798
-Frankfort,1799
-Franklin,1800
-Franklin Park,1801
-Franklinton,1802
-Franklinville,1803
-Franktown,1804
-Fraser,1805
-Frazer,1805
-Fred,1806
-Freda,1806
-Frederic,1807
-Frederick,1807
-Fredericksburg,1808
-Fredericktown,1809
-Fredonia,1810
-Freeburg,1811
-Freedom,1812
-Freeland,1813
-Freeman,1814
-Freeport,1815
-Freetown,1816
-Fremont,1817
-French Camp,1818
-French Creek,1819
-Frenchburg,1820
-Frenchtown,1821
-Frenchville,1822
-Fresno,1823
-Friend,1824
-Friendly,1825
-Friendship,1826
-Friendsville,1827
-Friesland,1828
-Frisco,1829
-Frontenac,1830
-Frontier,1831
-Frost,1832
-Fruitdale,1833
-Fruitland,1834
-Fruitland Park,1835
-Fruitvale,1836
-Fruitville,1837
-Fulda,1838
-Fullerton,1839
-Fulton,1840
-Funk,1841
-Fyffe,1705
-Gadsden,1842
-Gail,1843
-Gainesboro,1844
-Gainesville,1845
-Galatia,1846
-Gale,1843
-Galena,1847
-Galesburg,1848
-Galesville,1849
-Gallatin,1850
-Galloway,1851
-Galt,1852
-Galva,1853
-Galveston,1854
-Gamaliel,1855
-Ganado,1856
-Gandy,1857
-Gantt,1858
-Garber,1859
-Garden City,1860
-Garden Grove,1861
-Garden Valley,1862
-Gardena,1863
-Gardendale,1864
-Gardiner,1865
-Gardner,1865
-Garfield,1866
-Garland,1867
-Garner,1868
-Garnet,1869
-Garrett,1870
-Garrison,1871
-Garryowen,1872
-Garvin,1873
-Garwood,1874
-Gary,1875
-Garyville,1876
-Gaston,1877
-Gastonia,1878
-Gate,1879
-Gates,1880
-Gatesville,1881
-Gateway,1882
-Gay,1883
-Gaylord,1884
-Geddes,1885
-Genesee,1886
-Geneseo,1887
-Geneva,1888
-Genoa,1889
-Genola,1890
-Gentry,1891
-Gentryville,1892
-George,1893
-Georgetown,1894
-Georgia,1895
-Geraldine,1896
-Germania,1897
-Germantown,1898
-Germany,1899
-Geronimo,1900
-Gerry,1901
-Geryville,1876
-Gettysburg,1902
-Ghent,1903
-Gibbon,1904
-Gibraltar,1905
-Gibson,1906
-Gibsonia,1907
-Gideon,1908
-Gifford,1909
-Gilbert,1910
-Gilbertsville,1911
-Gilboa,1912
-Gilchrist,1913
-Gilead,1914
-Gilford,1915
-Gill,1916
-Gillett,1917
-Gillette,1918
-Gilliam,1919
-Gilman,1920
-Gilmanton,1921
-Gilmore,1922
-Girard,1923
-Gladstone,1924
-Gladwin,1925
-Gladwyne,1925
-Glasco,1926
-Glasgow,1927
-Gleason,1928
-Glen,1929
-Glen Allan,1930
-Glen Allen,1930
-Glen Dale,1931
-Glen Flora,1932
-Glen Haven,1933
-Glen Ridge,1934
-Glen Rock,1935
-Glen Rose,1936
-Glenburn,1937
-Glencoe,1938
-Glendale,1939
-Glendon,1940
-Glendora,1941
-Glenfield,1942
-Glenmont,1943
-Glenmoor,1944
-Glenmoore,1944
-Glenmore,1945
-Glenn,1929
-Glenn Dale,1931
-Glennville,1946
-Glenview,1947
-Glenville,1946
-Glenwood,1948
-Glidden,1949
-Globe,1950
-Gloucester,1951
-Goddard,1952
-Godfrey,1953
-Godley,1954
-Goff,1955
-Golconda,1956
-Gold Hill,1957
-Golden,1958
-Golden Beach,1959
-Golden Gate,1960
-Golden Valley,1961
-Goldfield,1962
-Goldsboro,1963
-Goldsmith,1964
-Golf,1965
-Gonzales,1966
-Good Hope,1967
-Good Intent,1968
-Goodland,1969
-Goodman,1970
-Goodrich,1971
-Goose Creek,1972
-Gordon,1973
-Gordonsville,1974
-Gordonville,1975
-Gore,1976
-Gorham,1977
-Gorman,1978
-Goshen,1979
-Gosport,1980
-Gothenburg,1981
-Gough,1955
-Gould,1982
-Gouldsboro,1983
-Grace,1984
-Graceville,1985
-Grady,1986
-Grafton,1987
-Graham,1988
-Granada,1989
-Granby,1990
-Grand Island,1991
-Grand Isle,1992
-Grand Junction,1993
-Grand Lake,1994
-Grand Marais,1995
-Grand Mound,1996
-Grand Rapids,1997
-Grand Ridge,1998
-Grand River,1999
-Grand View,2000
-Grandin,2001
-Grandview,2002
-Grandy,2003
-Granger,2004
-Grangeville,2005
-Granite,2006
-Granite Falls,2007
-Graniteville,2008
-Grant,2009
-Grantham,2010
-Grantsville,2011
-Grantville,2012
-Granville,2013
-Grapevine,2014
-Grass Valley,2015
-Grassy,2016
-Gratiot,2017
-Gratis,2018
-Graton,2019
-Grattan,2019
-Gratton,2019
-Gratz,2020
-Gray,2021
-Grayson,2022
-Graysville,2023
-Great Bend,2024
-Great Falls,2025
-Greece,2026
-Greeley,2027
-Green,2028
-Green Acres,2029
-Green Bank,2030
-Green Bay,2031
-Green Hill,2032
-Green Meadows,2033
-Green Mountain,2034
-Green Park,2035
-Green Ridge,2036
-Green River,2037
-Green Spring,2038
-Green Valley,2039
-Greenacres,2040
-Greenbank,2041
-Greenbriar,2042
-Greenbrier,2043
-Greenbush,2044
-Greencastle,2045
-Greendale,2046
-Greene,2028
-Greenfield,2047
-Greenhorn,2048
-Greenland,2049
-Greenleaf,2050
-Greenport,2051
-Greensboro,2052
-Greensburg,2053
-Greentown,2054
-Greenview,2055
-Greenville,2056
-Greenwich,2057
-Greenwood,2058
-Greer,2059
-Gregory,2060
-Grenada,2061
-Gresham,2062
-Gretna,2063
-Gridley,2064
-Griffin,2065
-Grimes,2066
-Griswold,2067
-Groesbeck,2068
-Groningen,2069
-Groton,2070
-Grove,2071
-Grove City,2072
-Groveland,2073
-Grover,2074
-Groveton,2075
-Grow,2076
-Gruver,2077
-Guadalupe,2078
-Guernsey,2079
-Guild,2080
-Guilford,1915
-Guinea,2081
-Guion,2082
-Gulfport,2083
-Gull Lake,2084
-Gum Springs,2085
-Gunnison,2086
-Gunter,2087
-Gurley,2088
-Gustine,2089
-Guthrie,2090
-Guttenberg,2091
-Guy,2092
-Gwin,2093
-Gwinn,2093
-Gwynn,2093
-Gypsum,2094
-Hackberry,2096
-Hackensack,2097
-Hackett,2098
-Hadley,2099
-Hagan,2100
-Hagerman,2101
-Hagerstown,2102
-Hague,2103
-Haileyville,2104
-Haines,2105
-Hainesville,2106
-Hale,2095
-Haleyville,2104
-Half Acre,2107
-Halfway,2108
-Halifax,2109
-Hall,2110
-Hallam,2111
-Hallie,2112
-Hallsville,2113
-Halltown,2114
-Halsey,2115
-Hamberg,2116
-Hamburg,2116
-Hamden,2117
-Hamel,2118
-Hamer,2119
-Hamill,2118
-Hamilton,2120
-Hamlet,2121
-Hamlin,2122
-Hammel,2118
-Hammond,2123
-Hampden,2124
-Hampstead,2125
-Hampton,2126
-Hana,2127
-Hancock,2128
-Hanford,2129
-Hanging Rock,2130
-Hanksville,2131
-Hanna,2127
-Hannah,2127
-Hannibal,2132
-Hannover,2133
-Hanover,2134
-Hansen,2135
-Hanson,2135
-Happy Valley,2136
-Harbin,2137
-Harbine,2137
-Harbor Hills,2138
-Harborton,2139
-Harbourton,2139
-Hardin,2140
-Harding,2141
-Hardinsburg,2142
-Hardwick,2143
-Hardy,2144
-Harlan,2145
-Harlem,2146
-Harlingen,2147
-Harman,2148
-Harmon,2148
-Harmony,2149
-Harney,2150
-Harold,2151
-Harper,2152
-Harpers Ferry,2153
-Harrah,2154
-Harriman,2155
-Harrington,2156
-Harris,2157
-Harrisburg,2158
-Harrison,2159
-Harrisonburg,2160
-Harrisonville,2161
-Harriston,2162
-Harrisville,2163
-Harrodsburg,2164
-Harrold,2151
-Hart,2165
-Hartford,2166
-Hartford City,2167
-Hartland,2168
-Hartley,2169
-Hartman,2170
-Hartsburg,2171
-Hartsel,2172
-Hartselle,2172
-Hartsville,2173
-Hartville,2174
-Hartwell,2175
-Hartwick,2176
-Harvard,2177
-Harvey,2178
-Harwood,2179
-Haskell,2180
-Hastings,2181
-Hasty,2182
-Hatch,2183
-Hatfield,2184
-Hatley,2185
-Hatton,2186
-Haughton,2187
-Hauser,2188
-Havana,2189
-Havelock,2190
-Haverhill,2191
-Havilah,2192
-Haviland,2193
-Havillah,2192
-Hawkeye,2194
-Hawkins,2195
-Hawkinsville,2196
-Hawley,2112
-Haworth,2197
-Hawthorne,2198
-Hayden,2199
-Hayes,2200
-Hayesville,2201
-Haynes,2105
-Haynesville,2106
-Hays,2200
-Haysville,2202
-Hayti,2203
-Hayward,2204
-Hazard,2205
-Hazel,2206
-Hazel Dell,2207
-Hazel Green,2208
-Hazelton,2209
-Hazelwood,2210
-Hazen,2211
-Hazlehurst,2212
-Hazleton,2209
-Headquarters,2213
-Headrick,2214
-Healy,2215
-Hearne,2216
-Hearst,2217
-Heath,2218
-Heber,2219
-Hebron,2220
-Hector,2221
-Hedrick,2214
-Heflin,2222
-Heidelberg,2223
-Helen,2224
-Helena,2225
-Helvetia,2226
-Hemlock,2227
-Hempstead,2228
-Henderson,2229
-Hendersonville,2230
-Hendricks,2231
-Hendrix,2231
-Hennepin,2232
-Henning,2233
-Henrietta,2234
-Henry,2235
-Herald,2151
-Hercules,2236
-Hereford,2237
-Herington,2156
-Heritage Lake,2238
-Herkimer,2239
-Herman,2240
-Hermann,2240
-Hermitage,2241
-Hermon,2240
-Hermosa,2242
-Hernando,2243
-Herndon,2244
-Heron,2245
-Herriman,2155
-Herron,2245
-Hersey,2246
-Hershey,2247
-Hesper,2248
-Hesperia,2249
-Hesston,2250
-Hewett,2251
-Hewitt,2251
-Hewlett,2252
-Hext,2253
-Hibernia,2254
-Hickman,2255
-Hickory,2256
-Hickory Corners,2257
-Hickory Flat,2258
-Hickory Grove,2259
-Hickory Hills,2260
-Hico,2261
-Hidalgo,2262
-Hidden Valley,2263
-Higgins,2264
-High Bridge,2265
-High Falls,2266
-High Hill,2267
-High Point,2268
-Highland,2269
-Highland Beach,2270
-Highland Heights,2271
-Highland Lakes,2272
-Highland Park,2273
-Highlands,2274
-Highlandville,2275
-Highwood,2276
-Hiko,2261
-Hilda,2277
-Hiles,2278
-Hill,2279
-Hill City,2280
-Hillcrest,2281
-Hillcrest Heights,2282
-Hilliard,2283
-Hillman,2284
-Hills,2285
-Hills and Dales,2286
-Hillsboro,2287
-Hillsborough,2287
-Hillsdale,2288
-Hillside,2289
-Hillsville,2290
-Hilltop,2291
-Hillview,2292
-Hilton,2293
-Hinckley,2294
-Hingham,2295
-Hinkley,2294
-Hinsdale,2296
-Hinton,2297
-Hiram,2298
-Hitchcock,2299
-Hixon,2300
-Hixson,2300
-Hobart,2301
-Hobbs,2302
-Hoboken,2303
-Hobson,2304
-Hodge,2305
-Hodges,2306
-Hoffman,2307
-Holbrook,2308
-Holcomb,2309
-Holcombe,2309
-Holden,2310
-Holiday,2311
-Holiday Lakes,2312
-Holladay,2311
-Holland,2313
-Hollandale,2314
-Holley,2315
-Holliday,2316
-Hollins,2317
-Hollis,2318
-Hollister,2319
-Holloway,2320
-Holly,2315
-Holly Hill,2321
-Holly Ridge,2322
-Holly Springs,2323
-Hollywood,2324
-Holmesville,2325
-Holstein,2326
-Holt,2327
-Holton,2328
-Holtville,2329
-Holy Cross,2330
-Holyoke,2331
-Home,2332
-Homeland,2333
-Homer,2334
-Homerville,2335
-Homestead,2336
-Hometown,2337
-Homeville,2338
-Homewood,2339
-Hondo,2340
-Honey Creek,2341
-Hood,2342
-Hooker,2343
-Hooper,2344
-Hope,2345
-Hopedale,2346
-Hopewell,2347
-Hopkins,2348
-Hopkinton,2349
-Horace,2350
-Horatio,2351
-Horicon,2352
-Horntown,2353
-Horse Creek,2354
-Horseshoe Bend,2355
-Horton,2356
-Hortonville,2357
-Hot Springs,2358
-Hough,2359
-Houghton,2187
-Houlton,2328
-Houston,2360
-Houstonville,2361
-How,2362
-Howard,2363
-Howard City,2364
-Howardsville,2365
-Howe,2362
-Howell,2366
-Hoxie,2367
-Hoyt,2368
-Hubbard,2370
-Hubbardston,2371
-Hubbell,2372
-Hudson,2373
-Hudsonville,2374
-Huff,2359
-Hughes,2375
-Hughesville,2376
-Hugo,2377
-Hulett,2252
-Hull,2378
-Humboldt,2379
-Hume,2380
-Humphrey,2381
-Hunnewell,2382
-Hunt,2383
-Hunter,2384
-Huntersville,2385
-Huntingdon,2386
-Huntington,2387
-Huntley,2388
-Huntsville,2389
-Hurley,2390
-Huron,2391
-Hurricane,2392
-Hurst,2217
-Hustonville,2361
-Hutchins,2393
-Hutchinson,2394
-Huxley,2395
-Hyde Park,2396
-Hyrum,2298
-Iberia,2397
-Ida,2398
-Idaho,2399
-Idalia,2400
-Idaville,2401
-Idlewild,2402
-Ignacio,2403
-Imogene,2404
-Imperial,2405
-Independence,2406
-Index,2407
-Indian Creek,2408
-Indian Hills,2409
-Indian Lake,2410
-Indian Springs,2411
-Indian Village,2412
-Indian Wells,2413
-Indiana,2414
-Indianola,2415
-Indiantown,2416
-Industry,2417
-Inez,2418
-Ingalls,2419
-Ingleside,2420
-Inglewood,2421
-Ingram,2422
-Inkster,2423
-Inman,2424
-Innsbrook,2425
-Interlachen,2426
-Interlaken,2427
-Inverness,2428
-Inwood,2429
-Iola,2430
-Iona,2431
-Ione,2432
-Ionia,2433
-Iowa,2434
-Ipswich,2435
-Ira,2436
-Ireland,2437
-Irene,2438
-Iron City,2439
-Iron Mountain,2440
-Iron River,2441
-Irondale,2442
-Ironton,2443
-Ironville,2444
-Irvine,2445
-Irving,1605
-Irvington,2446
-Irwin,2447
-Irwinville,1607
-Isabel,2448
-Isabelle,2448
-Island Lake,2450
-Island Park,2451
-Islandia,2452
-Italy,2453
-Itasca,2454
-Ithaca,2455
-Iuka,2456
-Ivanhoe,2457
-Ivey,2458
-Ivy,2458
-Jacksboro,2459
-Jackson,2460
-Jackson Center,2461
-Jacksonport,2462
-Jacksonville,2463
-Jacobs,2464
-Jalapa,2465
-Jamaica,2466
-James City,2467
-Jamesburg,2468
-Jamesport,2469
-Jamestown,2470
-Janesville,2471
-Jansen,2472
-Japan,2473
-Jasper,2474
-Java,2475
-Jay,2476
-Jeddo,2477
-Jefferson,2478
-Jefferson City,2479
-Jeffersonville,2480
-Jena,2481
-Jenkins,2482
-Jennings,2483
-Jericho,2484
-Jermyn,2485
-Jerome,2486
-Jerry,1901
-Jersey,2487
-Jerusalem,2488
-Jessup,2489
-Jesup,2490
-Jet,2491
-Jette,2491
-Jewell,2492
-Jewett,2493
-Jimtown,2494
-Joanna,2495
-Joes,2496
-Johannesburg,2497
-Johnsburg,2498
-Johnson,2499
-Johnson City,2500
-Johnsonburg,2501
-Johnsonville,2502
-Johnston,2503
-Johnstown,2504
-Johnsville,2505
-Joice,2506
-Joliet,2507
-Jolley,2508
-Jolly,2508
-Jolo,2509
-Jones,2510
-Jonesboro,2511
-Jonestown,2512
-Jonesville,2513
-Joplin,2514
-Joppa,2515
-Jordan,2516
-Joseph,2517
-Josephine,2518
-Joy,2519
-Joyce,2506
-Juarez,2520
-Judson,2521
-Julian,2522
-Jumbo,2523
-Junction,2524
-Junction City,2525
-Juneau,2526
-Juno,2526
-Jupiter,2527
-Justice,2528
-Kailua,2529
-Kalama,0715
-Kalamazoo,2530
-Kamas,0733
-Kangley,2531
-Kansas,2532
-Kansas City,2533
-Karlin,0778
-Karlsruhe,2534
-Karnack,2535
-Karnak,2535
-Karnes City,2536
-Karns,0785
-Karns City,2536
-Kasson,2537
-Kathleen,2538
-Kathryn,0829
-Katie,2539
-Katy,2539
-Kaufman,1040
-Kaycee,0813
-Kaylor,0837
-Keansburg,2540
-Kearney,2541
-Kearny,2541
-Kearsarge,2542
-Keeler,2543
-Keene,2544
-Keensburg,2540
-Keizer,2545
-Keller,2546
-Kelley,2547
-Kellogg,2548
-Kelly,2547
-Kelsey,2549
-Kelso,2550
-Kemp,2551
-Kempton,2552
-Kenansville,2553
-Kendall,2554
-Kendrick,2555
-Kenilworth,2556
-Kenmore,2557
-Kennard,2558
-Kennedy,2559
-Kenney,2560
-Kensett,2561
-Kensington,2562
-Kent,2563
-Kentland,2564
-Kenton,2565
-Kentwood,2566
-Kenwood,2567
-Keokea,2568
-Keota,2569
-Kerby,2570
-Kerman,2571
-Kermit,2572
-Kernville,2573
-Kerrick,0792
-Kerrville,2574
-Kersey,2575
-Keswick,2576
-Ketchum,2577
-Kettering,2578
-Key West,2579
-Keyes,2580
-Keyport,2581
-Keys,2580
-Keyser,2545
-Keystone,2582
-Keysville,2583
-Kiel,2584
-Kieler,2543
-Kildare,2585
-Kilgore,2586
-Kimball,2587
-Kimberly,2588
-Kincaid,2589
-Kinderhook,2590
-King,2591
-King City,2592
-King Salmon,2593
-Kingman,2594
-Kings Mountain,2595
-Kings Park,2596
-Kings Point,2597
-Kingsbury,2598
-Kingsland,2599
-Kingsley,2600
-Kingston,2601
-Kingstown,2602
-Kingstowne,2602
-Kingsville,2603
-Kingwood,2604
-Kinikinik,2605
-Kinnickinnic,2605
-Kinsman,2606
-Kinston,2607
-Kiowa,2608
-Kirby,2570
-Kirbyville,2609
-Kirkland,2610
-Kirkpatrick,2611
-Kirkville,2612
-Kirkwood,2613
-Kirtland,2614
-Kistler,2615
-Kittrell,2616
-Klein,2617
-Klemme,1002
-Kline,2617
-Klondike,2618
-Knapp,2619
-Knappa,2620
-Knob Lick,2621
-Knobel,2622
-Knollwood,2623
-Knowlton,2624
-Knox,2625
-Knox City,2626
-Knoxville,2627
-Kohler,2629
-Kokomo,2630
-Kosciusko,2631
-Koshkonong,2632
-Koss,2633
-Kosse,2633
-Kossuth,2634
-Krakow,2635
-Kramer,1156
-Kremlin,2636
-Krum,1199
-Kyle,2637
-La Belle,2638
-La Center,2639
-La Cresta,2640
-La Crosse,2641
-La Fayette,2642
-La Follette,2643
-La Gloria,2644
-La Grande,2645
-La Grange,2646
-La Jara,2647
-La Madera,2648
-La Mesa,2649
-La Mott,2650
-La Motte,2650
-La Paz,2651
-La Plata,2652
-La Porte,2653
-La Prairie,2654
-La Presa,2655
-La Salle,2656
-La Vale,2657
-La Valle,2657
-La Victoria,2658
-LaFayette,2667
-LaGrange,2670
-LaMoille,2715
-LaPlace,2732
-Lac La Belle,2659
-Lacey,2660
-Laclede,2661
-Lacona,2662
-Laconia,2663
-Ladd,2664
-Laddonia,2665
-Ladonia,2665
-Ladysmith,2666
-Lafayette,2667
-Laflin,2668
-Lago Vista,2669
-Lagrange,2670
-Laguna Beach,2671
-Lahore,2672
-Lake,2674
-Lake Arrowhead,2675
-Lake Arthur,2676
-Lake Butler,2677
-Lake Camelot,2678
-Lake City,2679
-Lake Como,2680
-Lake Forest,2681
-Lake George,2682
-Lake Hamilton,2683
-Lake Hart,2684
-Lake Holiday,2685
-Lake Isabella,2686
-Lake Lorraine,2687
-Lake Mills,2688
-Lake Mohawk,2689
-Lake Park,2691
-Lake Placid,2692
-Lake Sherwood,2693
-Lake Shore,2694
-Lake Tomahawk,2695
-Lake View,2696
-Lake Village,2697
-Lake of the Woods,2690
-Lakefield,2698
-Lakeland,2699
-Lakemoor,2700
-Lakemore,2700
-Lakeport,2701
-Lakeridge,2702
-Lakeshore,2703
-Lakeside,2704
-Lakeside Village,2705
-Laketown,2706
-Lakeview,2707
-Lakeville,2708
-Lakewood,2709
-Lakewood Park,2710
-Lakota,2711
-Lamar,2712
-Lambert,2713
-Lambertville,2714
-Lamoille,2715
-Lamoine,2716
-Lamont,2717
-Lanark,2718
-Lancaster,2719
-Lancing,2720
-Land O' Lakes,2721
-Land o' Lakes,2721
-Landisville,2722
-Lane,2723
-Lanesboro,2724
-Laneville,2725
-Langdon,2726
-Langley,2727
-Langston,2728
-Lansdowne,2729
-Lansing,2720
-Lantana,2730
-Lapeer,2731
-Laplace,2732
-Laporte,2733
-Laredo,2734
-Largo,2735
-Larkspur,2736
-Larrabee,2737
-Las Flores,2738
-Las Lomas,2739
-Las Vegas,2740
-Last Chance,2741
-Latham,2742
-Lathrop,2743
-Latimer,2744
-Latrobe,2745
-Latta,2746
-Lattimer,2744
-Lauderdale,2747
-Lauderdale Lakes,2748
-Laurel,2749
-Laurel Hill,2750
-Laurel Park,2751
-Laurelton,2752
-Laurens,2753
-Lawler,2754
-Lawndale,2755
-Lawrence,2756
-Lawrenceburg,2757
-Lawrenceville,2758
-Lawson,2759
-Lawton,2760
-Layton,2761
-Le Grand,2762
-Le Roy,2763
-LeRoy,2793
-Leamington,2764
-Leary,2765
-Leavenworth,2766
-Leawood,2767
-Lebanon,2768
-Ledyard,2769
-Lee,2770
-Leeds,2771
-Leeper,2772
-Lees Creek,2773
-Leesburg,2774
-Leesville,2775
-Leetonia,2776
-Leetown,2777
-Leggett,2778
-Lehigh,2779
-Leicester,2780
-Leigh,2770
-Leighton,2761
-Leipsic,2781
-Leland,2782
-Lemington,2764
-Lemon Grove,2783
-Lemont,2717
-Lemoyne,2784
-Lena,2785
-Lennox,2786
-Lenox,2786
-Leola,2787
-Leon,2788
-Leona,2789
-Leonard,2790
-Leonidas,2791
-Leopold,2792
-Leroy,2793
-Leslie,2794
-Lesslie,2794
-Lester,2780
-Lesterville,2795
-Levant,2796
-Levis,2797
-Levittown,2798
-Lewis,2799
-Lewisburg,2800
-Lewiston,2801
-Lewistown,2802
-Lewisville,2803
-Lexington,2804
-Leyden,2805
-Libby,2806
-Liberal,2807
-Liberia,2808
-Liberty,2809
-Liberty Center,2810
-Liberty Hill,2811
-Libertyville,2812
-Lillian,2814
-Lillie,2815
-Lilly,2815
-Lily,2815
-Lily Lake,2816
-Lima,2817
-Lime,2818
-Lime Ridge,2819
-Limestone,2820
-Linch,2821
-Lincoln,2822
-Lincoln City,2823
-Lincoln Heights,2824
-Lincoln Park,2825
-Lincoln Village,2826
-Lincolnshire,2827
-Lincolnton,2828
-Lincolnville,2829
-Lind,2830
-Lindale,2831
-Linden,2832
-Lindenhurst,2833
-Lindon,2832
-Lindsay,2834
-Lindsey,2834
-Lineville,2835
-Linfield,2836
-Lingo,2837
-Linn,2838
-Linneus,2839
-Linton,2840
-Linville,2841
-Linwood,2842
-Lipscomb,2843
-Lisbon,2844
-Lisle,2845
-Litchfield,2846
-Little Falls,2847
-Little River,2848
-Little Rock,2849
-Little York,2850
-Littlefield,2851
-Littlerock,2852
-Littleton,2853
-Littleville,2854
-Live Oak,2855
-Livermore,2856
-Liverpool,2857
-Livingston,2858
-Livonia,2859
-Llano,2860
-Lloyd,2861
-Loch Lomond,2862
-Locke,2863
-Lockhart,2864
-Lockport,2865
-Lockport Heights,2866
-Lockwood,2867
-Locust,2868
-Locust Grove,2869
-Locust Valley,2870
-Lodi,2871
-Logan,2872
-Logansport,2873
-Loganville,2874
-Lohman,2875
-Lohrville,2876
-Loma,2877
-Loma Linda,2878
-Loman,2875
-London,2879
-Londonderry,2880
-Lone Oak,2881
-Lone Rock,2882
-Lone Star,2883
-Lone Tree,2884
-Long Beach,2885
-Long Branch,2886
-Long Creek,2887
-Long Grove,2888
-Long Hill,2889
-Long Island,2890
-Long Lake,2891
-Longtown,2892
-Longview,2893
-Longville,2894
-Longwood,2895
-Lonsdale,2896
-Lookout,2897
-Lookout Mountain,2898
-Loomis,2899
-Loop,2900
-Loope,2900
-Lorain,2901
-Loraine,2901
-Lorane,2902
-Loretto,2903
-Loring,2904
-Lorraine,2901
-Lorton,2905
-Los Alamos,2906
-Los Altos,2907
-Los Angeles,2908
-Los Banos,2909
-Los Ebanos,2910
-Los Fresnos,2911
-Lost Creek,2912
-Lost Nation,2913
-Lost Springs,2914
-Lottie,2673
-Louden,2915
-Loudon,2915
-Loudonville,2916
-Louisa,2917
-Louisburg,2918
-Louise,2919
-Louisiana,2920
-Louisville,2921
-Love,2922
-Loveland,2923
-Lovell,2924
-Lovelock,2925
-Loveville,2926
-Loving,2927
-Low Moor,2928
-Lowden,2929
-Lowell,2930
-Lowman,2875
-Lowrey,2931
-Lowry,2931
-Lowville,2932
-Loyal,2933
-Loyall,2933
-Lubeck,2934
-Lublin,2935
-Lucas,2936
-Lucerne,2937
-Luckey,2938
-Lucknow,2939
-Lucky,2938
-Ludington,2940
-Ludlow,2941
-Lula,2942
-Luling,2943
-Lumber City,2944
-Lumberton,2945
-Luna,2946
-Lund,2947
-Lunenburg,2948
-Lupton,2949
-Luray,2950
-Luther,2951
-Lutts,2952
-Lutz,2952
-Luverne,2953
-Luxemburg,2955
-Luxor,2956
-Luzerne,2957
-Lyden,2805
-Lydia,2958
-Lyle,2959
-Lyman,2960
-Lyme,2818
-Lynch,2821
-Lynchburg,2961
-Lynd,2830
-Lynden,2832
-Lyndhurst,2962
-Lyndon,2832
-Lyndonville,2963
-Lynn,2838
-Lynne,2838
-Lynnfield,2836
-Lynnville,2964
-Lynnwood,2965
-Lynwood,2965
-Lyon,2966
-Lyons,2967
-Lytleville,2854
-Mabel,2968
-Mabie,2969
-MacArthur,2970
-Macedonia,2971
-Maceo,2972
-Machias,2973
-Mack,2974
-Mackay,2975
-Mackenzie,2976
-Macksburg,2977
-Macksville,2978
-Mackville,2979
-Macomb,2980
-Macon,2981
-Macy,2982
-Madison,2984
-Madison Heights,2985
-Madison Mills,2986
-Madisonville,2987
-Madras,2988
-Madrid,2989
-Magnet,2990
-Magnolia,2991
-Mahnomen,2992
-Mahomet,2993
-Maiden,2983
-Maidstone,2994
-Maine,2995
-Maitland,2996
-Maize,2997
-Malaga,2998
-Malcolm,2999
-Malcom,2999
-Malden,3000
-Malmo,3001
-Malone,3002
-Malta,3003
-Malvern,3004
-Mammoth,3005
-Man,3006
-Manalapan,3007
-Manassas,3008
-Manchester,3009
-Mandan,3010
-Mangham,3011
-Mangum,3011
-Manhattan,3012
-Manhattan Beach,3013
-Manheim,3014
-Manila,3015
-Manilla,3015
-Manistee,3016
-Manitou,3017
-Mankato,3018
-Manley,3019
-Manly,3019
-Manning,3020
-Mannington,3021
-Mannsville,3022
-Manor,3023
-Manorville,3024
-Mansfield,3025
-Mansfield Center,3026
-Manson,3027
-Manton,3028
-Mantua,3029
-Manvel,3030
-Manville,3031
-Maple,3033
-Maple Grove,3034
-Maple Plain,3035
-Maple Valley,3036
-Mapleton,3037
-Maplewood,3038
-Marathon,3039
-Marble,3040
-Marble Falls,3041
-Marblehead,3042
-Marbury,3043
-Marcella,3044
-Marchand,3045
-Marcus,3046
-Marengo,3047
-Marianna,3048
-Maricopa,3049
-Marietta,3050
-Marilla,3051
-Marion,3052
-Marion Center,3053
-Marion Station,3054
-Markham,3055
-Marksville,3056
-Marlboro,3057
-Marlborough,3057
-Marlin,3058
-Marlow,3059
-Marlton,3060
-Marne,3061
-Marquette,3062
-Mars Hill,3063
-Marseilles,3064
-Marshall,3065
-Marshallton,3066
-Marshalltown,3067
-Marshallville,3068
-Marshfield,3069
-Marston,3070
-Martell,3071
-Martin,3072
-Martinez,3073
-Martinsburg,3074
-Martinsville,3075
-Marvel,3076
-Marvin,3077
-Marvyn,3077
-Marxville,3056
-Marydel,3078
-Maryland,3079
-Marysville,3080
-Maryville,3081
-Mason,3082
-Mason City,3083
-Masontown,3084
-Masonville,3085
-Massena,3086
-Massillon,3087
-Matamoras,3088
-Matawan,3089
-Mather,3090
-Mathews,3091
-Matlock,3092
-Matoaca,3093
-Matoaka,3093
-Mattawan,3089
-Matteson,3094
-Matthews,3091
-Mattoon,3095
-Maud,3096
-Maurice,3097
-Max,3098
-Maxville,2978
-Maxwell,3099
-May,3100
-Mayer,3101
-Mayetta,3102
-Mayfield,3103
-Maynard,3104
-Mayo,3105
-Mays,2997
-Maysville,3106
-Maytown,3107
-Mayville,3108
-Maywood,3109
-Mazeppa,3110
-McAdoo,3111
-McArthur,2970
-McBride,3112
-McCloud,3113
-McClure,3114
-McComb,3115
-McConnell,3116
-McCook,3117
-McCormick,3118
-McCoy,3119
-McCracken,3120
-McCrea,3121
-McCune,3122
-McDermitt,3123
-McDermott,3123
-McDonald,3124
-McDonough,3125
-McDowell,3126
-McEwen,3127
-McFarland,3128
-McGrath,3129
-McGregor,3130
-McHenry,3131
-McIntire,3132
-McIntosh,3133
-McIntyre,3132
-McKee,3134
-McKenzie,2976
-McKinley,3135
-McKinnon,3136
-McKittrick,3137
-McLain,3138
-McLean,3139
-McLeod,3113
-McLoud,3113
-McMillan,3140
-McMinnville,3141
-McNab,3142
-McNabb,3142
-McNair,3143
-McNary,3144
-McNeil,3145
-McRae,3121
-McVille,3146
-Mead,3147
-Meade,3147
-Meadow,3148
-Meadow Lakes,3149
-Meadowbrook,3150
-Meadville,3151
-Mecca,3152
-Mechanicsburg,3153
-Mechanicstown,3154
-Mechanicsville,3155
-Medary,3156
-Medford,3157
-Medicine Lake,3158
-Medina,3159
-Medora,3160
-Medway,3161
-Meeker,3162
-Megargel,3163
-Mehlville,3164
-Melbern,3165
-Melbourne,3165
-Mellwood,3166
-Melrose,3167
-Melrose Park,3168
-Melville,3164
-Melvin,3169
-Melwood,3166
-Memphis,3170
-Mena,3171
-Menard,3172
-Mendon,3173
-Mendota,3174
-Mendoza,3175
-Menifee,3176
-Menlo,3177
-Menlo Park,3178
-Menominee,3179
-Mentone,3180
-Mentor,3181
-Mentz,3182
-Mercer,3183
-Mercury,3184
-Meredith,3185
-Meriden,3187
-Meridian,3188
-Merion Station,3054
-Merrill,3189
-Merrimac,3190
-Merritt,3191
-Mesa,3192
-Mesquite,3193
-Metamora,3194
-Metcalfe,3195
-Metz,3196
-Mexico,3197
-Meyer,3198
-Miami,3199
-Miami Beach,3200
-Micco,3201
-Michigan City,3202
-Mico,3201
-Midas,3203
-Middle Valley,3204
-Middleburg,3205
-Middlebury,3206
-Middlefield,3207
-Middleport,3208
-Middlesex,3209
-Middleton,3210
-Middletown,3211
-Middleville,3212
-Midland,3213
-Midlothian,3214
-Midvale,3215
-Midway,3216
-Mier,3198
-Mifflin,3217
-Milan,3218
-Milburn,3219
-Mildred,3220
-Miles,3221
-Miles City,3222
-Milford,3223
-Mill City,3224
-Mill Creek,3225
-Mill Plain,3226
-Mill Spring,3227
-Milladore,3228
-Millbrook,3229
-Millburn,3230
-Millbury,3231
-Milledgeville,3232
-Miller,3233
-Millersburg,3234
-Millerstown,3235
-Millersville,3236
-Millerton,3237
-Millheim,3238
-Millican,3239
-Milligan,3240
-Milliken,3239
-Millington,3241
-Millport,3242
-Mills,3243
-Millsboro,3244
-Millstone,3245
-Milltown,3246
-Millville,3247
-Millwood,3248
-Milner,3249
-Milnor,3249
-Milo,3250
-Milroy,3251
-Milstead,3252
-Milton,3253
-Milwaukee,3254
-Milwaukie,3254
-Mina,3171
-Minden,3255
-Mineola,3256
-Miner,3257
-Mineral,3258
-Mineral Point,3259
-Mineral Springs,3260
-Minersville,3261
-Minerva,3262
-Mingo,3263
-Minneapolis,3264
-Minneola,3265
-Minor,3257
-Minot,3266
-Minto,3267
-Minturn,3268
-Miramar,3269
-Mission,3270
-Mission Hills,3271
-Missouri City,3272
-Mitchell,3273
-Mitchellville,3274
-Mizpah,3275
-Moccasin,3276
-Modena,3277
-Modesto,3278
-Modoc,3279
-Moffat,3280
-Moffett,3281
-Moffit,3281
-Mohawk,3282
-Moline,3283
-Mona,3284
-Monaville,3285
-Moneta,3286
-Monett,3287
-Monetta,3286
-Monitor,3288
-Monkton,3289
-Monmouth,3290
-Monnett,3287
-Monona,3291
-Monroe,3292
-Monroe City,3293
-Monroeville,3294
-Monrovia,3295
-Monson,3296
-Montague,3297
-Montana,3298
-Montara,3299
-Montcalm,3300
-Montclair,3301
-Montebello,3302
-Montello,3303
-Monterey,3304
-Monterey Park,3305
-Montevallo,3306
-Montevideo,3307
-Montezuma,3308
-Montgomery,3309
-Monticello,3310
-Montour,3311
-Montpelier,3312
-Montreal,3313
-Montrose,3314
-Montvale,3315
-Montville,3316
-Monument,3317
-Moody,3318
-Moon Lake,3319
-Moore,3320
-Moorefield,3321
-Mooreland,3322
-Moores Mill,3323
-Mooresville,3324
-Mooreville,3325
-Moorhead,3326
-Moorland,3327
-Mora,3328
-Moran,3329
-Moravia,3330
-Morehouse,3331
-Moreland,3332
-Morenci,3333
-Morgan,3334
-Morgan City,3335
-Morgan Hill,3336
-Morganton,3337
-Morgantown,3338
-Morganville,3339
-Morganza,3340
-Morland,3332
-Morley,3341
-Morning Sun,3342
-Morningside,3343
-Moro,3344
-Morocco,3345
-Moroni,3346
-Morrill,3347
-Morris,3348
-Morrison,3349
-Morrisonville,3350
-Morristown,3351
-Morrisville,3352
-Morrow,3353
-Morse,3354
-Morton,3355
-Morven,3356
-Mosby,3357
-Moscow,3358
-Mosel,3359
-Mossville,3360
-Motley,3361
-Moulton,3362
-Mound,3363
-Mound City,3364
-Mounds,3365
-Moundville,3366
-Mount Aetna,3367
-Mount Airy,3368
-Mount Auburn,3369
-Mount Ayr,3370
-Mount Carbon,3371
-Mount Carmel,3372
-Mount Etna,3367
-Mount Gilead,3373
-Mount Healthy,3374
-Mount Hermon,3375
-Mount Holly,3376
-Mount Hope,3377
-Mount Ida,3378
-Mount Jackson,3379
-Mount Morris,3380
-Mount Olive,3381
-Mount Pleasant,3382
-Mount Sterling,3383
-Mount Tabor,3384
-Mount Union,3385
-Mount Vernon,3386
-Mount Washington,3387
-Mount Zion,3388
-Mountain,3389
-Mountain City,3390
-Mountain Dale,3391
-Mountain Home,3392
-Mountain House,3393
-Mountain Lake,3394
-Mountain Lakes,3395
-Mountain Park,3396
-Mountain View,3397
-Mountain Village,3398
-Mountainair,3399
-Mountainaire,3399
-Mountville,3400
-Muddy,3401
-Muir,3402
-Mulberry,3403
-Mullan,3404
-Mullen,3404
-Mumford,3405
-Muncie,3406
-Muncy,3406
-Munford,3407
-Munger,3408
-Munich,3409
-Munster,3410
-Murdock,3411
-Murfreesboro,3412
-Murphy,3413
-Murray,3414
-Murray Hill,3415
-Murry,3414
-Muse,3416
-Mustang,3417
-Mutual,3418
-Mylo,3250
-Myrtle,3419
-Myrtle Grove,3420
-Mystic,3421
-Nada,3422
-Namur,3423
-Nancy,3424
-Nanticoke,3425
-Naomi,3426
-Napa,2620
-Napanee,3427
-Naples,3428
-Napoleon,3429
-Nappanee,3427
-Narrows,3430
-Nash,3431
-Nashua,3432
-Nashville,3433
-Nassau,3434
-Natchez,3435
-Natural Bridge,3436
-Nauvoo,3437
-Navarre,3438
-Navarro,3439
-Naylor,3440
-Nazareth,3441
-Neal,3442
-Nebo,3443
-Nederland,3444
-Needham,3445
-Needmore,3446
-Neel,3442
-Neffs,3447
-Negley,3448
-Nelson,3449
-Nelsonville,3450
-Nemaha,3451
-Nemo,3452
-Neola,3453
-Neosho,3454
-Neptune,3455
-Nevada,3456
-New Albany,3457
-New Alexandria,3458
-New Auburn,3459
-New Baden,3460
-New Baltimore,3461
-New Bedford,3462
-New Berlin,3463
-New Boston,3464
-New Bremen,3465
-New Brighton,3466
-New Britain,3467
-New Cambria,3468
-New Canton,3469
-New Carlisle,3470
-New Cassel,3471
-New Castle,3471
-New City,3472
-New Columbus,3473
-New Concord,3474
-New Cumberland,3475
-New Deal,3476
-New Durham,3477
-New Florence,3478
-New Franklin,3479
-New Hampshire,3480
-New Hampton,3481
-New Hanover,3482
-New Harmony,3483
-New Hartford,3484
-New Haven,3485
-New Holland,3486
-New Hope,3487
-New Lebanon,3488
-New Lexington,3489
-New Liberty,3490
-New Lisbon,3491
-New London,3492
-New Market,3493
-New Middletown,3494
-New Milford,3495
-New Paris,3496
-New Philadelphia,3497
-New Pine Creek,3498
-New Plymouth,3499
-New Providence,3500
-New Richmond,3501
-New River,3502
-New Salem,3503
-New Sharon,3504
-New Site,3505
-New Sweden,3506
-New Town,3507
-New Ulm,3508
-New Union,3509
-New Vienna,3510
-New Washington,3511
-New Windsor,3512
-New York,3513
-New York Mills,3514
-Newark,3515
-Newberg,3516
-Newbern,3517
-Newberry,3518
-Newburg,3516
-Newburgh,3516
-Newbury,3518
-Newcastle,3519
-Newcomb,3520
-Newell,3521
-Newfane,3522
-Newfield,3523
-Newfoundland,3524
-Newington,3525
-Newkirk,3526
-Newport,3527
-Newry,3528
-Newton,3529
-Newtown,3530
-Newville,3531
-Niagara,3532
-Niagara Falls,3533
-Nice,3534
-Nicholls,3535
-Nichols,3535
-Nicholson,3536
-Nickerson,3537
-Nile,3538
-Niles,3539
-Nimrod,3540
-Nineveh,3541
-Niota,3542
-Nixon,3543
-Noble,2622
-Nocatee,3544
-Nogales,3545
-Nokomis,3546
-Nome,3547
-Nora,3548
-Norco,3549
-Norcross,3550
-Norden,3551
-Norfolk,3552
-Norge,3553
-Normal,3554
-Norman,3555
-Normandy,3556
-Normandy Park,3557
-Norrie,3558
-Norris,3559
-North Adams,3560
-North Bend,3561
-North Bloomfield,3562
-North Branch,3563
-North East,3564
-North Fork,3565
-North Hampton,3566
-North Haven,3567
-North Hills,3568
-North Hudson,3569
-North Liberty,3570
-North Miami,3571
-North Middletown,3572
-North Salem,3573
-North Shore,3574
-North Springfield,3575
-North Star,3576
-North Washington,3577
-Northampton,3578
-Northbrook,3579
-Northcote,3580
-Northfield,3581
-Northgate,3582
-Northlake,3583
-Northport,3584
-Northridge,3585
-Northumberland,3586
-Northview,3587
-Northville,3588
-Northwood,3589
-Norton,3590
-Nortonville,3591
-Norwalk,3592
-Norway,3593
-Norwich,3594
-Norwood,3595
-Nottingham,3596
-Nunda,3597
-Nuremberg,3598
-O'Brien,3599
-O'Fallon,3600
-O'Kean,3601
-Oak City,3602
-Oak Creek,3603
-Oak Forest,3604
-Oak Grove,3605
-Oak Harbor,3606
-Oak Hill,3607
-Oak Hills,3608
-Oak Island,3609
-Oak Park,3610
-Oak Point,3611
-Oak Ridge,3612
-Oak Run,3613
-Oak Valley,3614
-Oakdale,3615
-Oakes,3616
-Oakfield,3617
-Oakford,3618
-Oakhurst,3619
-Oakland,3620
-Oakley,3621
-Oaks,3616
-Oakville,3622
-Oakwood,3623
-Oasis,3624
-Oberlin,3625
-Ocean,3626
-Ocean City,3627
-Ocean Grove,3628
-Ocean View,3629
-Oceanside,3630
-Ocoee,3631
-Oconee,3632
-Oconto,3633
-Odell,3634
-Oden,3635
-Odessa,3636
-Odin,3635
-Ogden,3637
-Ogdensburg,3638
-Ogema,3639
-Oglesby,3640
-Ohio,3641
-Ohio City,3642
-Oil City,3643
-Oilton,3644
-Okeene,3601
-Oklahoma,3645
-Okolona,3646
-Ola,3647
-Olathe,3648
-Old Forge,3649
-Old Fort,3650
-Old Town,3651
-Old Washington,3652
-Oldenburg,3653
-Oldfield,3654
-Oldtown,3655
-Olean,3656
-Olin,3657
-Olinda,3658
-Olive,3659
-Olive Branch,3660
-Oliver,3661
-Olivet,3662
-Olivia,3663
-Oljato-Monument Valley,3664
-Olney,3665
-Olustee,3666
-Olympia,3667
-Omaha,3668
-Onalaska,3669
-Onaway,3670
-Oneco,3671
-Oneida,3672
-Oneonta,3673
-Ono,3674
-Onondaga,3675
-Ontario,3676
-Onward,3677
-Opal,3678
-Opelika,3679
-Ophir,3680
-Ora,0219
-Oral,3681
-Oran,3682
-Orange,3683
-Orange City,3684
-Orange Lake,3685
-Orangeburg,3686
-Orangeville,3687
-Orchard,3688
-Oregon,3689
-Orick,3690
-Orient,3691
-Orin,3692
-Orion,3693
-Oriskany,3694
-Orland,3695
-Orlando,3696
-Orleans,3697
-Orono,3698
-Oronoque,3699
-Oroville,3700
-Orrick,3690
-Orrin,3692
-Orrville,3701
-Orwell,3702
-Osage,3703
-Osborn,3705
-Osborne,3705
-Oscar,3706
-Osceola,3707
-Osgood,3708
-Oshkosh,3709
-Oskaloosa,3710
-Oslo,3711
-Osmond,3712
-Osseo,3713
-Ossian,3714
-Ossipee,3715
-Ostrander,3716
-Oswego,3717
-Othello,3718
-Otis,3719
-Otisville,3720
-Otsego,3721
-Ottawa,3722
-Otter Creek,3723
-Otterville,3724
-Otto,3725
-Otway,3726
-Oulu,3727
-Ouray,3728
-Outlook,3729
-Overbrook,3730
-Overland,3731
-Overton,3732
-Ovid,3733
-Oviedo,3734
-Ovilla,0228
-Owasco,3735
-Owens,3736
-Owensville,3737
-Owl Creek,3738
-Owyhee,3739
-Oxbow,3740
-Oxford,3741
-Ozan,3704
-Ozark,3742
-Ozone,3743
-Pace,3744
-Pacific,3745
-Packwood,3746
-Paden,3747
-Paducah,3748
-Page,3749
-Paige,3749
-Paint Creek,3750
-Paint Rock,3751
-Paisley,3752
-Palace,3753
-Palatine,3754
-Palermo,3755
-Palestine,3756
-Palisade,3757
-Palisades,3758
-Palm Harbor,3759
-Palm Springs,3760
-Palm Valley,3761
-Palmdale,3762
-Palmer,3763
-Palmetto,3764
-Palmyra,3765
-Palo,3766
-Palo Alto,3767
-Paloma,3768
-Palouse,3753
-Panama,3769
-Panama City,3770
-Pandora,3771
-Panola,3772
-Pantego,3773
-Paoli,3774
-Paradise,3775
-Paradise Valley,3776
-Parc,3777
-Parchman,3778
-Paris,3779
-Park,3777
-Park City,3780
-Park Hills,3781
-Park Ridge,3782
-Parkdale,3783
-Parker,3784
-Parkersburg,3785
-Parkland,3786
-Parkman,3778
-Parks,3787
-Parksville,3788
-Parkton,3789
-Parkville,3790
-Parkway,3791
-Parkwood,3792
-Parlin,3793
-Parma,3794
-Parnell,3795
-Parral,3796
-Parrish,3797
-Parrott,3798
-Parshall,3799
-Parsons,3800
-Pasadena,3801
-Pasadena Hills,3802
-Passaic,3803
-Paterson,3804
-Pates,3805
-Paton,3806
-Patriot,3807
-Patten,3806
-Patterson,3804
-Pattison,3808
-Patton,3806
-Patton Village,3809
-Paulina,3810
-Pauline,3811
-Pavilion,3812
-Pavillion,3812
-Paw Paw,3813
-Pawnee,3814
-Paxton,3815
-Payne,3816
-Paynesville,3817
-Payson,3818
-Paytes,3805
-Pea Ridge,3819
-Peabody,3820
-Pearl,3821
-Pearl River,3822
-Pearson,3823
-Peck,3824
-Peebles,3825
-Peel,3826
-Pekin,3827
-Pelham,3828
-Pelican,3829
-Pelican Bay,3830
-Pella,3831
-Pemberton,3832
-Pembroke,3833
-Pence,3834
-Pendleton,3835
-Penfield,3836
-Penn,3837
-Penn Valley,3838
-Pennington,3839
-Pennsboro,3840
-Pennville,3841
-Penryn,3842
-Pensacola,3843
-Penwell,3844
-Peoria,3845
-Perham,3846
-Perkins,3847
-Perry,3848
-Perry Park,3849
-Perrysburg,3850
-Perrysville,3851
-Perryville,3852
-Pershing,3853
-Persia,3854
-Perth,3855
-Peru,3856
-Peterborough,3857
-Peters,3858
-Petersburg,3859
-Peterson,3860
-Petersville,3861
-Petrolia,3862
-Peyton,3863
-Phalanx,3864
-Phelps,3865
-Phenix,3866
-Philadelphia,3867
-Philipsburg,3868
-Philipstown,3869
-Phillips,3870
-Phillipsburg,3868
-Phillipstown,3869
-Philo,3871
-Philomath,3872
-Phippsburg,3873
-Phoenix,3874
-Picacho,3875
-Pickens,3876
-Pickett,3877
-Picture Rocks,3878
-Piedmont,3879
-Piedra,3880
-Piehl,3826
-Pierce,3881
-Pierceville,3882
-Piermont,3883
-Pierpont,3884
-Pierson,3823
-Pigeon,3885
-Pike,3886
-Pikeville,3887
-Pilgrim,3888
-Pilot Grove,3889
-Pilot Point,3890
-Pilsen,3891
-Pinckney,3892
-Pinckneyville,3893
-Pine,3894
-Pine Creek,3895
-Pine Flat,3896
-Pine Grove,3897
-Pine Hill,3898
-Pine Hills,3899
-Pine Island,3900
-Pine Lake,3901
-Pine Level,3902
-Pine Mountain,3903
-Pine Ridge,3904
-Pine River,3905
-Pine Springs,3906
-Pine Valley,3907
-Pinecrest,3908
-Pinedale,3909
-Pinehurst,3910
-Pineland,3911
-Pineola,3912
-Pineville,3913
-Pinewood,3914
-Piney,3915
-Pink Hill,3916
-Pinon,3917
-Pinson,3918
-Pioneer,3919
-Piper,3920
-Piqua,3921
-Piscataway,3922
-Pisgah,3923
-Pitcairn,3924
-Pitkin,3925
-Pitman,3926
-Pittman,3926
-Pittsboro,3927
-Pittsburg,3928
-Pittsburgh,3928
-Pittsfield,3929
-Pittsford,3930
-Pittston,3931
-Pittstown,3932
-Pittsville,3933
-Piñon,3917
-Placerville,3934
-Placitas,3935
-Plain City,3936
-Plainfield,3937
-Plains,3938
-Plainview,3939
-Plainville,3940
-Plano,3941
-Plantation,3942
-Plantersville,3943
-Plato,3944
-Platteville,3945
-Plattsburg,3946
-Plattsburgh,3946
-Pleasant Grove,3947
-Pleasant Hill,3948
-Pleasant Hills,3949
-Pleasant Plain,3950
-Pleasant Plains,3951
-Pleasant Ridge,3952
-Pleasant Valley,3953
-Pleasant View,3954
-Pleasanton,3955
-Pleasantville,3956
-Pleasureville,3957
-Plevna,3958
-Plover,3959
-Plum,3960
-Plummer,3961
-Pluto,3962
-Plymouth,3963
-Pocahontas,3965
-Pocasset,3966
-Poe,3964
-Point,3967
-Point Baker,3968
-Point Lookout,3969
-Point Pleasant,3971
-Point of Rocks,3970
-Poland,3972
-Polaris,3973
-Polk,3974
-Polk City,3975
-Polkville,3976
-Pollard,3977
-Pollock,3978
-Pollok,3978
-Polo,3979
-Pomeroy,3980
-Pomfret,3981
-Pomona,3982
-Ponca,3983
-Ponce de Leon,3984
-Ponderosa,3985
-Pontiac,3986
-Pontotoc,3987
-Poole,3988
-Poplar,3989
-Poplar Springs,3990
-Porcupine,3991
-Port Byron,3992
-Port Clinton,3993
-Port Elizabeth,3994
-Port Gibson,3995
-Port Jefferson,3996
-Port Republic,3997
-Port Royal,3998
-Port Washington,3999
-Portage,4000
-Portal,4001
-Porter,4002
-Porterville,4003
-Portland,4004
-Portsmouth,4005
-Posey,4006
-Possum Trot,4007
-Post,4008
-Poston,4009
-Potlatch,4010
-Potomac,4011
-Potosi,4012
-Potsdam,4013
-Potter,4014
-Pottersville,4015
-Pottsville,4016
-Poughkeepsie,4017
-Pound,4018
-Powderly,4019
-Powell,4020
-Powellville,4021
-Powers,4022
-Powers Lake,4023
-Powersville,4024
-Powhatan,4025
-Pownal,4026
-Prague,4027
-Prairie City,4028
-Prairie Creek,4029
-Prairie Grove,4030
-Prairie Hill,4031
-Prairie View,4032
-Prairieville,4033
-Pratt,4034
-Prattsville,4035
-Prattville,4036
-Pray,4037
-Prentice,4038
-Prentiss,4038
-Prescott,4039
-Presque Isle,4040
-Preston,4041
-Pretoria,4042
-Price,4043
-Prichard,4044
-Pride,4045
-Primrose,4046
-Princeton,4047
-Princeville,4048
-Pringle,4049
-Proctor,4050
-Proctorville,4051
-Progress,4052
-Prospect,4053
-Prospect Park,4054
-Prosper,4055
-Prosperity,4056
-Prosser,4057
-Providence,4058
-Pulaski,4059
-Pullman,4060
-Pumpkin Center,4061
-Punkin Center,4062
-Purcell,4063
-Purdy,4064
-Purley,4065
-Purvis,4066
-Putnam,4067
-Putney,4068
-Pyrmont,4069
-Quakertown,4070
-Quantico,4071
-Quarry,4072
-Quarryville,4073
-Quay,4074
-Queen Anne,4075
-Queen City,4076
-Queenstown,4077
-Quemado,4078
-Quick,4079
-Quinby,4080
-Quincy,4081
-Quinton,4082
-Quitman,4083
-Quito,4084
-Raceland,4085
-Rachel,4086
-Racine,4087
-Radcliff,4088
-Radcliffe,4088
-Radisson,4089
-Radium,4090
-Radium Springs,4091
-Radnor,4092
-Radom,4093
-Ragan,4094
-Rainbow,4095
-Rainbow City,4096
-Rainier,4097
-Rainsville,4098
-Raleigh,4099
-Ralston,4100
-Ramah,4101
-Ramblewood,4102
-Ramer,4103
-Ramona,4104
-Rampart,4105
-Ramsey,4106
-Rancho Viejo,4107
-Rand,4108
-Randall,4109
-Randle,4109
-Randlett,4110
-Randolph,4111
-Ranger,4112
-Rankin,4113
-Ransom,4114
-Rantoul,4115
-Rapid City,4116
-Raritan,4117
-Ratcliff,4118
-Raven Rock,4119
-Ravenna,4120
-Rawlings,4121
-Rawson,4122
-Ray,4123
-Raymer,4103
-Raymond,4124
-Raymondville,4125
-Raynham,4126
-Raytown,4127
-Rayville,4128
-Reader,4129
-Readfield,4130
-Reading,4131
-Reagan,4094
-Red Bank,4132
-Red Bud,4133
-Red Cliff,4134
-Red Creek,4135
-Red Hill,4136
-Red House,4137
-Red Lake,4138
-Red Lick,4139
-Red Lion,4140
-Red Oak,4141
-Red River,4142
-Red Rock,4143
-Red Springs,4144
-Reddick,4145
-Redding,4131
-Redfield,4146
-Redford,4147
-Redland,4148
-Redlands,4149
-Redmond,4150
-Redstone,4151
-Redwater,4152
-Redwood,4153
-Reed,4154
-Reedsville,4155
-Reedville,4156
-Reese,4157
-Regina,4158
-Rehoboth,4159
-Reid,4154
-Reidsville,4155
-Reidville,4156
-Reightown,4127
-Reliance,4160
-Relief,4161
-Remington,4162
-Remsen,4163
-Reno,4165
-Rensselaer,4166
-Reo,4167
-Republic,4168
-Resaca,4169
-Rescue,4170
-Reserve,4171
-Rest Haven,4172
-Retreat,4173
-Reva,4174
-Revere,4175
-Rex,4176
-Rexford,4177
-Reyno,4165
-Reynolds,4178
-Rhine,4179
-Rhineland,4180
-Rhodes,4181
-Rhome,4182
-Ricardo,4183
-Rice,4184
-Rice Lake,4185
-Riceville,4186
-Richards,4187
-Richardson,4188
-Richburg,4189
-Richey,4190
-Richfield,4191
-Richford,4192
-Richland,4193
-Richlands,4194
-Richmond,4195
-Richmond Heights,4196
-Richmond Hill,4197
-Richville,4198
-Richwood,4199
-Riddle,4200
-Riderwood,4201
-Ridge,4202
-Ridgecrest,4203
-Ridgefield,4204
-Ridgeland,4205
-Ridgely,4206
-Ridgeville,4207
-Ridgeway,4208
-Ridgewood,4209
-Ridgway,4208
-Riegelsville,4210
-Riga,4211
-Riley,4212
-Rimini,4213
-Rinard,4214
-Rincon,4215
-Ringgold,4216
-Ringling,4217
-Ringwood,4218
-Rio,4167
-Rio Dell,4219
-Rio Grande,4220
-Rio Verde,4221
-Rio Vista,4222
-Ripley,4223
-Ripon,4224
-Rippon,4224
-Rising Sun,4225
-Rison,4226
-Ritchey,4190
-Ritchie,4190
-River Bend,4227
-River Falls,4228
-River Forest,4229
-River Junction,4230
-River Ranch,4231
-River Ridge,4232
-River Road,4233
-Riverbend,4234
-Riverdale,4235
-Riverdale Park,4236
-Riverside,4237
-Riverton,4238
-Riverview,4239
-Rives,4240
-Riviera Beach,4241
-Roads,4181
-Roanoke,4242
-Robbins,4243
-Robbinsville,4244
-Roberts,4245
-Robertsdale,4246
-Robertsville,4247
-Robinson,4248
-Rochelle,4249
-Rochester,4250
-Rock,4251
-Rock Creek,4252
-Rock Falls,4253
-Rock Hill,4254
-Rock Island,4255
-Rock Point,4256
-Rock Springs,4257
-Rockaway Beach,4258
-Rockbridge,4259
-Rockdale,4260
-Rockfield,4261
-Rockfish,4262
-Rockford,4263
-Rockingham,4264
-Rockland,4265
-Rockledge,4266
-Rockport,4267
-Rockvale,4268
-Rockville,4269
-Rockwell,4270
-Rockwood,4271
-Rocky Creek,4272
-Rocky Ford,4273
-Rocky Hill,4274
-Rocky Mount,4275
-Rocky Point,4276
-Rocky Ridge,4277
-Rodeo,4278
-Rodman,4279
-Roe,4280
-Rogers,4281
-Rogersville,4282
-Roland,4283
-Roll,4284
-Rolla,4285
-Rolling Hills,4286
-Rollingwood,4287
-Rollins,4288
-Romance,4289
-Romancoke,4290
-Rome,4182
-Romeo,4291
-Romney,4292
-Romulus,4293
-Roosevelt,4294
-Rosamond,4295
-Roscoe,4297
-Rose,4298
-Rose City,4299
-Rose Hill,4300
-Rosebud,4301
-Rosedale,4302
-Roseland,4303
-Roselle,4304
-Rosemont,4305
-Rosemount,4306
-Rosendale,4307
-Roseville,4308
-Rosewood,4309
-Rosholt,4310
-Roslyn,4311
-Ross,4312
-Rossie,4313
-Rossmoor,4314
-Rosston,4315
-Rossville,4316
-Roswell,4317
-Rotterdam,4318
-Rough and Ready,4319
-Round Hill,4320
-Round Lake,4321
-Round Mountain,4322
-Round Rock,4323
-Round Top,4324
-Round Valley,4325
-Roundup,4326
-Rowe,4280
-Rowena,4327
-Rowland,4283
-Rowley,4328
-Roxana,4329
-Roxbury,4330
-Roy,4331
-Royal,4332
-Royalton,4333
-Rozel,4304
-Ruby,4334
-Rucker,4335
-Ruckersville,4336
-Rudolph,4337
-Rudyard,4338
-Rugby,4339
-Rumford,4340
-Rumsey,4341
-Rupert,4342
-Rush,4343
-Rushford,4344
-Rushville,4345
-Rusk,4346
-Ruskin,4347
-Russell,4348
-Russellville,4349
-Russia,4350
-Ruston,4351
-Ruth,4352
-Rutherford,4353
-Rutland,4354
-Rutledge,4355
-Ryan,4356
-Rydal,4357
-Ryderwood,4201
-Rye,4358
-Ryegate,4359
-Sabin,4360
-Sabina,4361
-Saco,4362
-Sacramento,4363
-Sacred Heart,4364
-Saddlebrooke,4365
-Sage,4366
-Saginaw,4367
-Saint Anthony,4368
-Saint Benedict,4369
-Saint George,4370
-Saint Helens,4371
-Saint Joseph,4372
-Saint Louis,4373
-Saint Michael,4374
-Saks,4377
-Salado,4378
-Salamanca,4379
-Salem,4381
-Salem Heights,4382
-Salesville,4383
-Salida,4384
-Salina,0857
-Saline,4385
-Salisbury,4386
-Salix,4387
-Salmon,4388
-Salmon Creek,4389
-Salt Creek,4390
-Saltillo,4391
-Saluda,4393
-Samaria,4394
-Samoa,4395
-Sampson,4396
-Samson,4397
-San Antonio,4398
-San Benito,4399
-San Carlos,4400
-San Cristobal,4401
-San Diego,4402
-San Felipe,4403
-San Fernando,4404
-San Jose,4405
-San Juan,4406
-San Lorenzo,4407
-San Luis,4408
-San Marcos,4409
-San Marino,4410
-San Martin,4411
-San Mateo,4412
-San Miguel,4413
-San Pablo,4414
-San Patricio,4415
-San Pedro,4416
-San Rafael,4417
-San Ysidro,4418
-Sanborn,4419
-Sand Hill,4420
-Sand Lake,4421
-Sand Point,4422
-Sand Ridge,4423
-Sand Springs,4424
-Sanders,4425
-Sandersville,4426
-Sandstone,4427
-Sandusky,4428
-Sandwich,4429
-Sandy,4430
-Sandy Creek,4431
-Sandy Hook,4432
-Sandy Lake,4433
-Sandy Ridge,4434
-Sandy Springs,4435
-Sandy Valley,4436
-Sandyville,4437
-Sanford,4438
-Sanger,4439
-Sans Souci,4440
-Santa Ana,4441
-Santa Clara,4442
-Santa Claus,4443
-Santa Cruz,4444
-Santa Fe,4445
-Santa Maria,4446
-Santa Monica,4447
-Santa Rosa,4449
-Santee,4450
-Santiago,4451
-Sarah,4452
-Saranac,4453
-Saratoga,4454
-Saratoga Springs,4455
-Sardinia,4456
-Sardis,4457
-Sargeant,4458
-Sargent,4458
-Satsuma,4459
-Saugatuck,4460
-Saugus,4461
-Savage,4462
-Savanna,4463
-Savannah,4463
-Savoy,4464
-Sawyer,4465
-Sawyerville,4466
-Sax,4377
-Saxman,4467
-Saxon,4468
-Sayre,4469
-Scenic,4470
-Schleswig,4471
-Schley,4472
-Schubert,4473
-Schuyler,4474
-Scio,4475
-Scipio,4476
-Scircleville,0963
-Scituate,4477
-Scofield,4478
-Scotia,4479
-Scotland,4480
-Scott,4481
-Scott City,4482
-Scottdale,4483
-Scottsburg,4484
-Scottsville,4485
-Scottville,4486
-Scranton,4487
-Sea Breeze,4488
-Sea Cliff,4489
-Seabeck,4490
-Seabrook,4491
-Seaford,4492
-Sealy,4493
-Seaside,4494
-Seaton,4495
-Seaview,4496
-Sebastian,4497
-Sebastopol,4498
-Sebec,4490
-Sebring,4499
-Sedalia,4500
-Sedan,4501
-Sedgwick,4502
-Seeley,4493
-Seguin,4503
-Selby,4504
-Selden,4505
-Seligman,4506
-Sells,4507
-Selma,4508
-Selz,4507
-Seminole,4509
-Seneca,4510
-Seney,4511
-Sevastopol,4512
-Seven Hills,4513
-Seven Mile,4514
-Seven Oaks,4515
-Seven Springs,4516
-Severance,4517
-Severn,4518
-Seville,4519
-Seward,4520
-Seymour,4521
-Shady Grove,4522
-Shafter,4523
-Shamrock,4524
-Shandon,4525
-Shanghai,4526
-Shannon,4527
-Sharon,4528
-Sharpsburg,4529
-Sharpsville,4530
-Shaw,4531
-Shawnee,4532
-Shawnee Hills,4533
-Shawneetown,4534
-Sheffield,4535
-Shelburn,4536
-Shelburne,4536
-Shelby,4537
-Shelbyville,4538
-Sheldon,4539
-Shell Point,4540
-Shelton,4541
-Shenandoah,4542
-Shepherd,4543
-Sherard,4544
-Sherburn,4545
-Sherburne,4545
-Sheridan,4546
-Sherman,4547
-Sherrard,4544
-Sherrill,4548
-Sherwood,4549
-Sherwood Forest,4550
-Sherwood Shores,4551
-Shields,4552
-Shiloh,4553
-Shipman,4554
-Shirley,4555
-Shively,4556
-Shoals,4557
-Sholes,4557
-Shoreham,4558
-Shorewood,4559
-Shoshone,4560
-Shrewsbury,4561
-Shubert,4473
-Shumway,4562
-Sibley,4563
-Sidney,4564
-Sidon,4565
-Sigel,4566
-Sikeston,4567
-Silex,4568
-Siloam,4569
-Siloam Springs,4570
-Silva,4571
-Silver City,4572
-Silver Cliff,4573
-Silver Creek,4574
-Silver Lake,4575
-Silver Spring,4576
-Silver Springs,4577
-Silverdale,4578
-Silverton,4579
-Simms,4580
-Simpson,4581
-Simpsonville,4582
-Sims,4580
-Sinclair,4583
-Sinking Spring,4584
-Sitka,4585
-Sixes,4586
-Skidmore,4587
-Sky Valley,4588
-Skyline,4589
-Slater,4590
-Slayden,4591
-Sleepy Hollow,4592
-Sligo,4593
-Sloan,4594
-Slocomb,4595
-Slocum,4595
-Smith Corner,4596
-Smithfield,4597
-Smithland,4598
-Smithton,4599
-Smithtown,4600
-Smithville,4601
-Smoke Rise,4602
-Smyrna,4603
-Snelling,4604
-Snow Hill,4605
-Snowshoe,4606
-Snowville,4607
-Snyder,4608
-Snydertown,4609
-Sobieski,4610
-Society Hill,4611
-Socorro,4612
-Soda Springs,4613
-Sodus,4614
-Sofia,4615
-Soldier,4616
-Soledad,4617
-Solomon,4618
-Solon,4619
-Solway,4620
-Somers,4621
-Somerset,4622
-Somerville,4623
-Sonora,4624
-Sophia,4615
-Sorrento,4625
-South Bend,4626
-South Bristol,4627
-South Charleston,4628
-South Dennis,4629
-South Fork,4630
-South Fulton,4631
-South Haven,4632
-South Hill,4633
-South Lancaster,4634
-South Lebanon,4635
-South Pasadena,4636
-South Point,4637
-South Range,4638
-South Shore,4639
-South Union,4640
-South Valley,4641
-South Windham,4642
-South Woodstock,4643
-Southampton,4644
-Southbridge,4645
-Southgate,4646
-Southington,4647
-Southmont,4648
-Southport,4649
-Southside,4650
-Spalding,4651
-Spanish Fort,4652
-Sparks,4653
-Sparta,4654
-Spartanburg,4655
-Spaulding,4651
-Speed,4656
-Spencer,4657
-Spencerville,4658
-Sperry,4659
-Spirit Lake,4660
-Spofford,4661
-Spokane,4662
-Sprague,4663
-Spring City,4664
-Spring Creek,4665
-Spring Garden,4666
-Spring Grove,4667
-Spring Hill,4668
-Spring Lake,4669
-Spring Mill,4670
-Spring Ridge,4671
-Spring Valley,4672
-Springboro,4673
-Springbrook,4674
-Springdale,4675
-Springer,4676
-Springfield,4677
-Springhill,4678
-Springport,4679
-Springs,4680
-Springtown,4681
-Springvale,4682
-Springville,4683
-Springwater,4684
-Spruce,4685
-Spurgeon,4686
-St. Albans,4687
-St. Anthony,4368
-St. Augustine,4688
-St. Benedict,4369
-St. Charles,4689
-St. Clair,4690
-St. Clairsville,4691
-St. Cloud,4692
-St. David,4693
-St. Elmo,4694
-St. Francis,4695
-St. Francisville,4696
-St. George,4370
-St. George Island,4697
-St. Helena,4698
-St. Henry,4699
-St. James,4700
-St. Jo,4701
-St. Joe,4701
-St. John,4702
-St. Johns,4703
-St. Joseph,4372
-St. Lawrence,4704
-St. Leo,4705
-St. Libory,4706
-St. Louis,4373
-St. Marie,4707
-St. Marks,4708
-St. Martin,4709
-St. Mary,4710
-St. Mary's,4711
-St. Marys,4711
-St. Matthews,4712
-St. Michael,4374
-St. Michaels,4713
-St. Patrick,4714
-St. Paul,4715
-St. Peter,4716
-St. Petersburg,4375
-St. Rose,4717
-St. Stephen,4718
-St. Stephens,4719
-St. Thomas,4720
-Stacyville,4721
-Stafford,4722
-Stafford Springs,4723
-Stagecoach,4724
-Stamford,4725
-Standish,4726
-Stanfield,4727
-Stanford,4728
-Stanhope,4729
-Stanley,4730
-Stanton,4731
-Stanwood,4732
-Staples,4733
-Stapleton,4734
-Star,4735
-Star City,4736
-Star Lake,4737
-Starbuck,4738
-Stark,4739
-Starke,4739
-Starkey,4740
-Starks,4741
-Starkville,4742
-Starlight,4743
-Starr,4735
-State Line,4744
-State Road,4745
-Statesville,4746
-Staunton,4747
-Steamboat,4748
-Steele,4749
-Steelville,4750
-Stella,4751
-Stephens,4752
-Stephenson,4753
-Stephenville,4754
-Sterling,4755
-Sterling City,4756
-Steuben,4757
-Stevens,4752
-Stevenson,4753
-Stevensville,4758
-Stewart,4759
-Stewartstown,4760
-Stewartsville,4761
-Stewartville,4762
-Stickney,4763
-Stiles,4764
-Stillwater,4765
-Stilwell,4766
-Stinnett,4767
-Stirling,4755
-Stirling City,4756
-Stockbridge,4768
-Stockdale,4769
-Stockholm,4770
-Stockport,4771
-Stockton,4772
-Stoddard,4773
-Stone Ridge,4774
-Stoneham,4775
-Stoneville,4776
-Stonewall,4777
-Stoney Point,4778
-Stonington,4779
-Stony Creek,4780
-Stony Point,4778
-Storey,4781
-Story,4781
-Stotesbury,4782
-Stoughton,4783
-Stoutsville,4784
-Stovall,4785
-Stow,4786
-Stowe,4786
-Strafford,4787
-Strang,4788
-Strasburg,4789
-Stratford,4790
-Strathmore,4791
-Stratton,4792
-Straughn,4793
-Strawberry,4794
-Strawn,4793
-Strickersville,4795
-Stringtown,4796
-Strong,4797
-Strong City,4798
-Struble,4799
-Stryker,4800
-Strykersville,4795
-Stuart,4759
-Sturgeon,4801
-Sturgis,4802
-Stuttgart,4803
-Success,4804
-Sudan,4805
-Sudbury,4806
-Suffield,4807
-Sugar City,4808
-Sugar Creek,4809
-Sugar Grove,4810
-Sugar Hill,4811
-Sugarcreek,4812
-Sugarloaf,4813
-Sugartown,4814
-Sullivan,4815
-Sulphur,4816
-Sulphur Springs,4817
-Summerdale,4818
-Summerfield,4819
-Summerhill,4820
-Summers,4621
-Summersville,4821
-Summertown,4822
-Summerville,4623
-Summit,4823
-Summitville,4824
-Sumner,4825
-Sumpter,4826
-Sumterville,4827
-Sun Prairie,4828
-Sun Valley,4829
-Sunbury,4830
-Sundance,4831
-Sunderland,4832
-Sundown,4833
-Sunflower,4834
-Sunnyside,4835
-Sunnyvale,4836
-Sunray,4837
-Sunrise,4838
-Sunset,4839
-Sunset Beach,4840
-Sunshine,4841
-Superior,4842
-Surf City,4843
-Surfside Beach,4844
-Surprise,4845
-Surry,4846
-Sussex,4847
-Sutherland,4848
-Sutton,4849
-Swan,4850
-Swan Creek,4851
-Swan Lake,4852
-Swansboro,4853
-Swansea,4854
-Swanton,4855
-Swanville,4856
-Sweden,4857
-Sweeden,4857
-Sweet Home,4858
-Sweet Springs,4859
-Sweetwater,4860
-Swiftwater,4861
-Swink,4862
-Swiss,4863
-Switzerland,4864
-Sycamore,4865
-Sykeston,4567
-Sykesville,4866
-Sylva,4571
-Sylvan,4867
-Sylvan Beach,4868
-Sylvan Grove,4869
-Sylvania,4870
-Sylvester,4871
-Syracuse,4872
-Syria,4873
-Tab,4874
-Tabb,4874
-Table Rock,4875
-Tabor,4876
-Tacna,4878
-Taft,4879
-Tallapoosa,4881
-Tallmadge,4882
-Talmadge,4882
-Talmage,4883
-Talpa,4884
-Tama,4885
-Tamarack,4886
-Tampa,4887
-Tampico,4888
-Tamworth,4889
-Tangier,4890
-Tannersville,4891
-Taos,4892
-Tappan,4893
-Tappen,4893
-Tarrytown,4894
-Tatum,4895
-Taunton,4896
-Tavistock,4897
-Taylor,4898
-Taylor Creek,4899
-Taylorstown,4900
-Taylorsville,4901
-Taylorville,4902
-Tazewell,4903
-Tecumseh,4904
-Telford,4905
-Temple,4906
-Templeton,4907
-Ten Mile,4908
-Tennant,4909
-Tennent,4909
-Tennessee,4910
-Tennyson,4911
-Terral,4912
-Terrebonne,4913
-Terrell,4912
-Terry,4914
-Terrytown,4915
-Terryville,4916
-Tewksbury,4917
-Texarkana,4918
-Texas,4919
-Texhoma,4920
-Texico,4921
-Thatcher,4923
-Thaxton,4924
-Thayer,4925
-Thayne,4922
-The Hills,4926
-The Plains,4927
-Thedford,4928
-Theresa,4929
-Thomas,4930
-Thomaston,4931
-Thomasville,4932
-Thompson,4933
-Thompsonville,4934
-Thomson,4935
-Thornburg,4936
-Thorndale,4937
-Thornton,4938
-Thorp,4939
-Thorpe,4939
-Three Forks,4940
-Three Lakes,4941
-Three Points,4942
-Three Rivers,4943
-Throop,4944
-Thurman,4945
-Thurmond,4946
-Thurston,4947
-Tibbee,4948
-Tibbie,4948
-Tierra Verde,4949
-Tiffin,4950
-Tilden,4951
-Tilton,4952
-Timberlake,4953
-Timberlane,4954
-Timbuctoo,4955
-Tindall,4956
-Tioga,4957
-Tippecanoe,4958
-Tipton,4959
-Tiro,4960
-Tishomingo,4961
-Titusville,4962
-Tivoli,4963
-Tobaccoville,4964
-Toccoa,4965
-Toco,4965
-Togo,4966
-Tokio,4967
-Toledo,4968
-Tolland,4969
-Toluca,4970
-Tomahawk,4971
-Tompkins,4972
-Toney,4973
-Tonopah,4974
-Tony,4973
-Topeka,4975
-Topsfield,4976
-Topsham,4977
-Toronto,4978
-Torreon,4979
-Torrey,4980
-Torrington,4981
-Toulon,4982
-Toutle,4983
-Towanda,4984
-Tower City,4985
-Town and Country,4986
-Towner,4987
-Townsend,4988
-Townsville,4989
-Townville,4990
-Tracy,4991
-Traer,4992
-Trafford,4993
-Trail,4994
-Trappe,4995
-Trego,4996
-Tremont,4997
-Trent,4998
-Trenton,4999
-Triadelphia,5000
-Triangle,5001
-Trimble,5002
-Trinidad,5003
-Trinity,5004
-Tripoli,5005
-Tripp,5006
-Triumph,5007
-Trona,5008
-Trout Creek,5009
-Troutdale,5010
-Troutville,5011
-Troy,5012
-Truesdale,5013
-Trumbull,5014
-Truro,5015
-Truxton,5016
-Tryon,5017
-Tuckahoe,5018
-Tucker,5019
-Tula,5020
-Tulip,5021
-Tunica,5022
-Tunnelton,5023
-Tupelo,5024
-Turin,5025
-Turkey,5026
-Turkey Creek,5027
-Turley,5028
-Turner,5029
-Turnersville,5030
-Turtle Lake,5031
-Tuscarora,5032
-Tuscola,5033
-Tuscumbia,5034
-Tustin,5035
-Tuttle,4983
-Tuxedo,5036
-Twin Bridges,5038
-Twin Lakes,5039
-Twin Oaks,5040
-Twining,5041
-Two Harbors,5042
-Two Rivers,5043
-Tyler,5044
-Tyndall,4956
-Tyre,5045
-Tyro,4960
-Tyrone,5046
-Udall,5048
-Ukiah,5049
-Ulen,5050
-Ulm,5051
-Ulmer,5052
-Ulysses,5053
-Umatilla,5054
-Unadilla,5055
-Underhill,5056
-Underwood,5057
-Union,5058
-Union Center,5059
-Union City,5060
-Union Cross,5061
-Union Grove,5062
-Union Hill,5063
-Union Springs,5064
-Uniondale,5065
-Uniontown,5066
-Unionville,5067
-Unity,5068
-University,5069
-University Center,5070
-University Heights,5071
-University Park,5072
-Upham,5073
-Upland,5074
-Upsala,5075
-Upton,5076
-Urbana,5077
-Urbanna,5077
-Utica,5078
-Utopia,5079
-Vaiden,5080
-Vail,5081
-Valdez,5082
-Vale,5081
-Valencia,5083
-Valentine,5084
-Valier,5085
-Valle,5081
-Valle Vista,5086
-Valley,5087
-Valley Center,5088
-Valley City,5089
-Valley Falls,5090
-Valley Forge,5091
-Valley Head,5092
-Valley Junction,5093
-Valley Park,5094
-Valley Springs,5095
-Valley View,5096
-Valparaiso,5097
-Van,5098
-Van Buren,5099
-Van Horn,5100
-Van Horne,5100
-Van Lear,5101
-Van Wert,5102
-Vance,5103
-Vanceboro,5104
-Vancouver,5105
-Vandalia,5106
-Vanderbilt,5107
-Vanderpool,5108
-Vandiver,5109
-Varna,5110
-Vaughan,5111
-Vaughn,5111
-Venango,5112
-Venice,5113
-Ventura,5114
-Venus,5115
-Vera,5116
-Vera Cruz,5117
-Verdi,5118
-Verdon,5119
-Vermilion,5120
-Vermillion,5120
-Vermont,5121
-Vernal,5122
-Vernon,5123
-Vernon Center,5124
-Verona,5125
-Versailles,5126
-Vesper,5127
-Veteran,5128
-Vichy Springs,5129
-Vicksburg,5130
-Victor,5131
-Victoria,5132
-Victory,5133
-Vida,5134
-Vidalia,5135
-Vienna,5136
-Vilas,5137
-Villa Grove,5138
-Villa Park,5139
-Villa Ridge,5140
-Villanueva,5141
-Villas,5142
-Vina,5143
-Vincennes,5144
-Vincent,5145
-Vineland,5146
-Vineyard,5147
-Vining,5148
-Vinland,5149
-Vinton,5150
-Viola,5151
-Violet,5152
-Virden,5153
-Virgil,5154
-Virginia,5155
-Virginia City,5156
-Visalia,5157
-Vista,5158
-Vivian,5159
-Volcano,5160
-Volga,5161
-Voorhees,5162
-Voorhies,5162
-Wabash,5163
-Wabasso,5164
-Waco,5165
-Wade,5166
-Wadena,5167
-Wadesboro,5168
-Wadesville,5169
-Wadley,5170
-Wadsworth,5171
-Wagener,5172
-Waggoner,5172
-Wagner,5173
-Wagoner,5172
-Wahoo,5174
-Wahpeton,5175
-Waimea,5176
-Wainwright,5177
-Wakarusa,5178
-Wakefield,5179
-Walcott,5180
-Walden,5181
-Waldo,5182
-Waldorf,5183
-Waldron,5184
-Waldwick,5185
-Wales,5186
-Walhalla,5187
-Walker,5188
-Walkerville,5189
-Wall,5190
-Walla Walla,5191
-Wallace,5192
-Waller,5193
-Wallingford,5194
-Wallkill,5195
-Walnut,5196
-Walnut Creek,5197
-Walnut Grove,5198
-Walnut Hill,5199
-Walpole,5200
-Walsh,5201
-Walters,5202
-Waltham,5203
-Walton,5204
-Walworth,5205
-Wamba,5206
-Ward,5207
-Ware,5208
-Warfield,5209
-Warm Springs,5210
-Warner,5211
-Warren,5212
-Warrendale,5213
-Warrensburg,5214
-Warrenton,5215
-Warrenville,5216
-Warrington,5217
-Warsaw,5218
-Wartburg,5219
-Warwick,5220
-Wasco,5221
-Washburn,5222
-Washington,5223
-Washington Crossing,5224
-Washington Park,5225
-Washingtonville,5226
-Watauga,5227
-Water Valley,5228
-Waterbury,5229
-Waterford,5230
-Waterloo,5231
-Waterman,5232
-Watertown,5233
-Waterville,5234
-Watkins,5235
-Watson,5236
-Wattsville,5237
-Waubeek,5239
-Waugh,5238
-Wausau,5240
-Waveland,5241
-Waverly,5242
-Waycross,5243
-Wayland,5244
-Wayne,5245
-Waynesboro,5246
-Waynesburg,5247
-Waynesville,5248
-Wayside,5249
-Weare,5250
-Weatherby,5251
-Weatherford,5252
-Weaver,5253
-Weaverville,5254
-Webb,5255
-Webb City,5256
-Webber,5257
-Webberville,5258
-Weber,5257
-Webster,5259
-Wedgefield,5260
-Weed,5261
-Weimar,5262
-Weir,5250
-Welch,5263
-Welcome,5264
-Weldon,5265
-Wellborn,5266
-Wellfleet,5267
-Wellington,5268
-Wellman,5269
-Wells,5270
-Wellsburg,5271
-Wellston,5272
-Wellsville,5273
-Wellton,5274
-Welsh,5263
-Welton,5274
-Wendel,5275
-Wendell,5275
-Wenona,5276
-Wenonah,5277
-Wentworth,5278
-Werley,5279
-Wesley,5280
-Wesley Chapel,5281
-West,5282
-West Bend,5283
-West Chester,5284
-West Columbia,5285
-West Concord,5286
-West End,5287
-West Grove,5288
-West Hartford,5289
-West Haven,5290
-West Hills,5291
-West Jefferson,5292
-West Lafayette,5293
-West Lebanon,5294
-West Liberty,5295
-West Logan,5296
-West Middletown,5297
-West Milford,5298
-West Milton,5299
-West Monroe,5300
-West Mountain,5301
-West Orange,5302
-West Park,5303
-West Point,5304
-West Salem,5305
-West Springfield,5306
-West Union,5307
-West Windsor,5308
-West York,5309
-Westboro,5310
-Westborough,5310
-Westbrook,5311
-Westby,5312
-Westchester,5313
-Western,5314
-Westerville,5315
-Westfield,5316
-Westford,5317
-Westgate,5318
-Westhampton,5319
-Westlake,5320
-Westlake Village,5321
-Westland,5322
-Westminster,5323
-Westmont,5324
-Westmoreland,5325
-Weston,5326
-Westover,5327
-Westphalia,5328
-Westport,5329
-Westville,5330
-Westwood,5331
-Wethersfield,5332
-Wetumpka,5333
-Wever,5253
-Weymouth,5334
-Wharton,5335
-Whately,5336
-Whatley,5336
-Wheatfield,5337
-Wheatland,5338
-Wheaton,5339
-Wheeler,5340
-Wheeling,5341
-Wheelock,5342
-Whispering Pines,5343
-Whitaker,5344
-Whitby,5345
-White,5346
-White City,5347
-White Cloud,5348
-White Hall,5349
-White Haven,5350
-White Horse,5351
-White House,5352
-White Lake,5353
-White Oak,5354
-White Pine,5355
-White Plains,5356
-White River,5357
-White Rock,5358
-White Sulphur Springs,5359
-Whitefield,5360
-Whitefish Bay,5361
-Whitehall,5362
-Whitehouse,5363
-Whitesboro,5364
-Whitesburg,5365
-Whiteside,5366
-Whitestown,5367
-Whitesville,5368
-Whiteville,5369
-Whitewater,5370
-Whitewood,5371
-Whitfield,5372
-Whiting,5373
-Whitman,5374
-Whitmore,5375
-Whitney,5376
-Whitsett,5377
-Whitt,5378
-Whittaker,5344
-Whittemore,5375
-Whitten,5379
-Whittier,5380
-Whitton,5379
-Why,5381
-Whynot,5382
-Wickliffe,5383
-Wiggins,5384
-Wilber,5385
-Wilbur,5385
-Wilburton,5386
-Wilcox,5387
-Wilder,5388
-Wildwood,5389
-Wiley,5390
-Wilhoit,5391
-Wilkesboro,5392
-Wilkinson,5393
-Willard,5394
-Willets,5395
-Willhoit,5391
-Williams,5396
-Williamsburg,5397
-Williamson,5398
-Williamsport,5399
-Williamston,5400
-Williamstown,5401
-Williamsville,5402
-Willimantic,5403
-Willington,5404
-Willis,5405
-Williston,5406
-Willisville,5407
-Willits,5395
-Willow,5408
-Willow City,5409
-Willow Creek,5410
-Willow Grove,5411
-Willow Island,5412
-Willow Lake,5413
-Willow Springs,5414
-Willowbrook,5415
-Wilmar,5416
-Wilmer,5416
-Wilmington,5417
-Wilmore,5418
-Wilmot,5419
-Wilson,5420
-Wilsonville,5421
-Wilton,5422
-Wilton Center,5423
-Winchester,5424
-Windham,5425
-Windom,5425
-Windsor,5426
-Windsor Heights,5427
-Windyville,5428
-Winfield,5429
-Wingate,5430
-Wingville,5431
-Winn,5432
-Winnebago,5433
-Winnipeg,5434
-Winnsboro,5435
-Winona,5436
-Winslow,5437
-Winston,5438
-Winter Park,5439
-Winters,5440
-Winterville,5441
-Winthrop,5442
-Winton,5443
-Wiota,5444
-Wirt,5445
-Wisdom,5446
-Wise,5447
-Wisner,5448
-Withrow,5449
-Witt,5378
-Wittenberg,5450
-Wittmann,5374
-Woden,5451
-Wolcott,5452
-Wolf Creek,5453
-Wolf Lake,5454
-Wolf River,5455
-Wolverine,5456
-Womelsdorf,5457
-Wood,5458
-Wood Lake,5459
-Wood River,5460
-Wood-Ridge,5461
-Woodbine,5462
-Woodbourne,5463
-Woodbridge,5464
-Woodburn,5465
-Woodbury,5466
-Woodford,5467
-Woodhull,5468
-Woodlake,5469
-Woodland,5470
-Woodland Beach,5471
-Woodland Hills,5472
-Woodland Mills,5473
-Woodland Park,5474
-Woodlawn,5475
-Woodlawn Park,5476
-Woodleaf,5477
-Woodlyn,5478
-Woodlynne,5478
-Woodmere,5479
-Woodmoor,5480
-Woodmore,5480
-Woodridge,5461
-Woodruff,5481
-Woodsboro,5482
-Woodside,5483
-Woodson,5484
-Woodstock,5485
-Woodsville,5486
-Woodville,5487
-Woodward,5488
-Woodway,5489
-Woodworth,5490
-Woolwich,5491
-Woonsocket,5492
-Worcester,5493
-Worden,5494
-Worley,5279
-Worth,5495
-Wortham,5496
-Worthing,5497
-Worthington,5498
-Worthville,5499
-Wray,4123
-Wrens,4164
-Wright,5500
-Wright City,5501
-Wrightsboro,5502
-Wrightstown,5503
-Wrightsville,5504
-Wrigley,5505
-Wyalusing,5506
-Wyandotte,5507
-Wyatt,5508
-Wyckoff,5509
-Wye,5381
-Wykoff,5509
-Wylie,5390
-Wyndham,5425
-Wynne,5432
-Wynnewood,5510
-Wyoming,5511
-Yale,5512
-Yampa,5513
-Yancey Mills,5514
-Yancy Mills,5514
-Yankeetown,5515
-Yankton,5516
-Yarmouth,5517
-Yatesville,5518
-Yellow Springs,5519
-Yoakum,5520
-Yocum,5520
-Yoder,5521
-York,5522
-Yorklyn,5523
-Yorkshire,5524
-Yorktown,5525
-Yorkville,5526
-Youngstown,5527
-Youngsville,5528
-Yuba,5047
-Yukon,5529
-Yuma,5530
-Yutan,5531
-Zamora,5532
-Zanesville,5533
-Zebulon,5534
-Zeeland,5535
-Zell,5536
-Zena,5537
-Zenda,5538
-Zion,5539
-Zionsville,5540
-Zoar,5541
-Zurich,5542
-Zwolle,5543
+name,phoneme,starter
+Aaronsburg,0000,
+Abbeville,0001,
+Abbot,0002,
+Abbotsford,0003,
+Abbott,0002,
+Aberdeen,0004,3
+Abernathy,0005,
+Abilene,0006,2
+Abingdon,0007,
+Ackley,0008,
+Ackworth,0009,
+Acme,0010,
+Acton,0011,
+Acworth,0009,
+Ada,0012,
+Adair,0013,
+Adams,0014,
+Adamsburg,0015,
+Adamstown,0016,
+Adamsville,0017,
+Addie,0018,
+Addison,0019,
+Addy,0018,
+Adel,0020,
+Adell,0020,
+Adelphi,0021,
+Aden,0022,
+Adrian,0023,
+Advance,0024,
+Affton,0025,
+Africa,0026,
+Afton,0025,
+Agate,0027,
+Agency,0028,
+Agenda,0029,
+Agnew,0030,
+Agra,0031,
+Agua Dulce,0032,
+Aiken,0033,
+Ainsworth,0034,
+Airmont,0035,
+Airville,0036,
+Ajax,0037,
+Akron,0038,
+Alabama,0040,
+Alamo,0041,
+Alaska,0042,
+Alba,0043,
+Albany,0044,3
+Albert,0045,
+Alberta,0046,
+Alberton,0047,
+Albertville,0048,
+Albion,0049,
+Albuquerque,0050,
+Alden,0051,
+Alder,0052,
+Alderson,0053,
+Aldine,0054,
+Aledo,0055,
+Aleman,0056,
+Alexander,0057,
+Alexandria,0058,3
+Alexis,0059,
+Alfalfa,0060,
+Alford,0061,
+Alfred,0062,
+Alger,0063,
+Algiers,0064,
+Algoma,0065,
+Algona,0066,
+Algonquin,0067,
+Alhambra,0068,
+Alice,0069,
+Allegany,0070,
+Alleman,0056,
+Allen,0071,
+Allendale,0072,
+Allenhurst,0073,
+Allenport,0074,
+Allensville,0075,
+Allenton,0076,
+Allentown,0077,2
+Allenville,0078,
+Allenwood,0079,
+Allerton,0080,
+Alliance,0081,
+Allison,0082,
+Allouez,0083,
+Allport,0084,
+Alma,0085,
+Almena,0086,
+Almond,0087,
+Almont,0088,
+Aloha,0089,
+Alpha,0090,
+Alpine,0091,2
+Alsen,0092,
+Alta,0093,
+Alta Vista,0094,
+Altamont,0095,
+Alto,0096,
+Alton,0097,
+Altona,0098,
+Altoona,0099,
+Alturas,0100,
+Altus,0101,
+Alum Creek,0102,
+Alva,0103,
+Alvarado,0104,
+Alvin,0105,
+Alvord,0106,
+Amber,0107,
+Ambler,0108,
+Amboy,0109,
+Ambrose,0110,
+Amelia,0111,
+Americus,0112,
+Ames,0113,
+Amherst,0114,3
+Amistad,0115,
+Amity,0116,
+Ammon,0117,
+Amsterdam,0118,
+Anaconda,0119,
+Anadarko,0120,
+Anchorage,0121,
+Andalusia,0122,
+Anderson,0123,3
+Andersonville,0124,
+Andover,0125,4
+Andrews,0126,
+Aneta,0127,
+Angelica,0128,
+Angola,0129,
+Angora,0130,
+Anguilla,0131,
+Anna,0132,
+Annandale,0133,
+Annapolis,0134,
+Annetta,0127,
+Anniston,0135,
+Anoka,0136,
+Ansley,0138,
+Anson,0139,
+Ansonia,0140,
+Antelope,0141,
+Anthony,0142,
+Antioch,0143,
+Antrim,0144,
+Antwerp,0145,
+Apple Creek,0146,
+Apple Valley,0147,2
+Applegate,0148,
+Appleton,0149,
+Aquilla,0150,
+Arab,0151,
+Arabi,0152,
+Aragon,0153,
+Arapahoe,0154,
+Ararat,0155,
+Arbela,0156,
+Arcade,0157,
+Arcadia,0158,2
+Archer,0159,
+Arco,0160,
+Arcola,0161,
+Arden,0162,
+Ardmore,0163,2
+Ardon,0162,
+Ardsley,0164,
+Argonne,0165,
+Argyle,0166,
+Arkadelphia,0167,
+Arkansas City,0168,
+Arkoe,0160,
+Arkwright,0169,
+Arlington,0170,4
+Arlington Heights,0171,
+Armenia,0172,
+Armington,0173,
+Armstrong,0174,
+Arnett,0175,
+Arnold,0176,
+Arrington,0177,
+Arroyo Hondo,0178,
+Artesia,0179,
+Arthur,0180,
+Arvada,0181,
+Asbury,0182,
+Ashburn,0183,
+Ashby,0184,
+Asheville,0185,
+Ashford,0186,
+Ashland,0187,5
+Ashley,0188,
+Ashton,0189,
+Ashville,0185,
+Ashwood,0190,
+Aspinwall,0191,
+Assumption,0192,
+Astor,0193,
+Astoria,0194,
+Asuncion,0195,
+Atco,0196,
+Athens,0197,4
+Atherton,0198,
+Athol,0199,
+Atkins,0200,
+Atkinson,0201,
+Atlanta,0202,
+Atlantic,0203,
+Atlantic Beach,0204,
+Atlantic City,0205,
+Atlas,0206,
+Atoka,0207,2
+Attica,0208,
+Atwater,0209,
+Atwood,0210,
+Au Sable,0211,
+Aubrey,0212,
+Auburn,0213,5
+Auburndale,0214,
+Audubon,0215,
+Audubon Park,0216,
+Augsburg,0217,
+Augusta,0218,2
+Aura,0219,
+Aurelius,0220,
+Aurora,0221,3
+Austerlitz,0222,
+Austin,0223,
+Ava,0224,
+Avalon,0225,2
+Avera,0226,
+Avery,0227,
+Avilla,0228,
+Avis,0229,
+Avoca,0230,
+Avon,0231,
+Avondale,0232,
+Axtell,0233,
+Ayer,0234,
+Aztec,0235,
+Baden,0236,
+Badger,0237,
+Bagdad,0238,
+Bagley,0239,
+Bailey,0241,
+Baileyton,0242,
+Baileyville,0243,
+Bainbridge,0244,
+Baird,0245,
+Baker,0246,
+Bakersfield,0247,
+Bakersville,0248,
+Baldwin,0249,
+Baldwin Park,0250,
+Ballard,0251,
+Ballston,0252,
+Baltic,0253,
+Baltimore,0254,
+Bancroft,0255,
+Bangor,0256,
+Bangs,0257,
+Banks,0258,
+Bankston,0259,
+Barberton,0260,
+Barboursville,0261,
+Barclay,0263,
+Bardwell,0264,
+Baring,0265,
+Barker,0266,
+Barlow,0267,
+Barnard,0268,
+Barnes,0269,
+Barnesville,0270,
+Barneveld,0271,
+Barney,0272,
+Barnhart,0273,
+Barnum,0274,
+Barre,0275,
+Barrett,0276,
+Barrington,0278,3
+Barry,0277,
+Barstow,0279,
+Bartlett,0280,2
+Bartley,0281,
+Barton,0282,
+Bartonville,0283,
+Bartow,0284,
+Barview,0285,
+Basalt,0286,
+Bascom,0287,
+Basin,0288,
+Bass Lake,0289,
+Bassett,0290,
+Bastrop,0291,
+Batavia,0292,
+Batesville,0293,
+Bath,0294,
+Battle Creek,0295,
+Battle Ground,0296,
+Baxter,0297,
+Bay City,0298,
+Bay Shore,0299,
+Bay View,0300,
+Bayard,0301,
+Bayfield,0302,
+Bayou Vista,0303,
+Bayport,0304,
+Bayshore,0305,
+Bayside,0306,
+Bayview,0307,
+Bayville,0308,
+Baywood,0309,
+Beach,0310,
+Beach City,0311,
+Beachwood,0312,
+Beacon,0313,
+Beallsville,0314,
+Bear,0315,
+Bear Creek,0316,
+Bear Lake,0317,
+Bear River,0318,
+Bear Valley,0319,
+Bearden,0320,
+Beatrice,0321,
+Beattie,0322,
+Beatty,0322,
+Beaufort,0323,
+Beaumont,0324,2
+Beauregard,0325,
+Beaver,0326,
+Beaver Creek,0327,
+Beaver Dam,0328,
+Beaverdale,0329,
+Beaverdam,0330,
+Beaverton,0331,
+Beavertown,0332,
+Bedford,0333,4
+Bedminster,0334,
+Bee,0335,
+Beech,0310,
+Beech Grove,0336,
+Beecher,0337,
+Beechwood,0338,
+Bel Air,0339,
+Bel Aire,0339,
+Belden,0340,
+Belfast,0341,
+Belfry,0342,
+Belgium,0343,
+Belgrade,0344,
+Belknap,0345,
+Bell,0346,
+Bell Center,0347,
+Bell City,0348,
+Bella Vista,0349,
+Bellaire,0350,2
+Belle,0346,
+Belle Center,0347,
+Belle Haven,0351,
+Belle Mead,0352,
+Belle Meade,0352,
+Belle Plaine,0353,
+Bellefonte,0354,
+Bellemont,0355,
+Belleview,0356,
+Belleville,0357,2
+Bellevue,0358,3
+Bellewood,0359,
+Bellflower,0360,
+Bellingham,0361,2
+Bellmawr,0362,
+Bellmont,0363,
+Bellmore,0362,
+Bells,0365,
+Bellview,0366,
+Bellville,0367,
+Bellvue,0366,
+Bellwood,0368,
+Belmar,0369,
+Belmont,0370,2
+Belmore,0362,
+Belo,0364,
+Beloit,0371,
+Belpre,0372,
+Belton,0373,
+Belvedere,0374,
+Belvidere,0375,
+Belview,0366,
+Belville,0367,
+Belwood,0359,
+Ben Avon,0376,
+Ben Lomond,0377,
+Bend,0378,
+Benedict,0379,
+Bengal,0380,
+Benjamin,0381,
+Bennett,0382,
+Bennett Springs,0383,
+Bennettsville,0384,
+Bennington,0385,
+Benson,0386,
+Bentley,0387,
+Bentleyville,0388,
+Benton,0389,
+Benton City,0390,
+Bentonville,0391,
+Berea,0392,
+Bergen,0393,
+Berkeley,0394,2
+Berkley,0394,
+Berkshire,0395,
+Berlin,0396,4
+Bern,0397,
+Bernardo,0398,
+Berne,0397,
+Bernice,0399,
+Bernie,0400,
+Berry,0275,
+Berryville,0401,
+Bertha,0402,
+Bertram,0403,
+Bertrand,0404,
+Berwick,0405,
+Berwyn,0406,
+Beryl,0407,
+Bessemer,0408,
+Bethany,0410,
+Bethel,0409,
+Bethesda,0411,
+Bethlehem,0412,4
+Bethune,0413,
+Beulah,0414,
+Beverley Beach,0415,
+Beverly,0416,2
+Beverly Beach,0415,
+Beverly Hills,0417,
+Bexley,0418,
+Bicknell,0420,
+Bidwell,0421,
+Big Bend,0422,
+Big Creek,0423,
+Big Falls,0424,
+Big Flats,0425,
+Big Lake,0426,
+Big Piney,0427,
+Big Sandy,0428,
+Big Spring,0429,
+Big Springs,0430,
+Bigelow,0431,
+Bigfork,0432,
+Biggs,0433,
+Billings,0434,
+Bingham,0435,
+Birch Creek,0436,
+Birchwood,0437,
+Birdseye,0438,
+Birmingham,0439,2
+Birney,0400,
+Biron,0440,
+Bisbee,0441,
+Bishop,0442,
+Bishopville,0443,
+Bismarck,0444,
+Bison,0445,
+Bixby,0446,
+Black,0447,
+Black Brook,0448,
+Black Creek,0449,
+Black Diamond,0450,
+Black Hawk,0451,
+Black Rock,0452,
+Black Wolf,0453,
+Blackburn,0454,
+Blackfoot,0455,
+Blackhawk,0456,
+Blacksburg,0457,
+Blackstone,0458,
+Blacksville,0459,
+Blackwater,0460,
+Blackwell,0461,
+Bladensburg,0462,
+Blain,0463,
+Blaine,0463,2
+Blair,0464,
+Blairstown,0465,
+Blairsville,0466,
+Blakeley,0467,
+Blakely,0467,
+Blakeslee,0468,
+Blanchard,0469,
+Blanco,0470,
+Bland,0471,
+Blenheim,0472,
+Blessing,0473,
+Bliss,0474,
+Blitchton,0475,
+Blodgett,0476,
+Bloom,0477,
+Bloomfield,0478,
+Blooming Grove,0479,
+Bloomingburg,0480,
+Bloomingdale,0481,
+Bloomington,0482,3
+Bloomville,0483,
+Blountsville,0484,
+Blue,0485,
+Blue Ball,0486,
+Blue Eye,0487,
+Blue Grass,0488,
+Blue Hill,0489,
+Blue Jay,0490,
+Blue Mountain,0491,
+Blue Ridge,0492,
+Blue River,0493,
+Blue Springs,0494,
+Bluefield,0495,
+Bluewater,0496,
+Bluff City,0497,
+Bluffton,0498,2
+Blum,0477,
+Blythe,0499,
+Boardman,0500,
+Boaz,0501,
+Bobtown,0502,
+Bogart,0503,
+Bogota,0504,
+Bogue,0505,
+Bogue Chitto,0506,
+Bohemia,0507,
+Boiling Springs,0508,
+Bois d'Arc,0509,
+Boise,0510,
+Boise City,0510,
+Boles,0511,
+Boling,0512,
+Bolivar,0513,
+Bolivia,0514,
+Bolling,0512,
+Bolton,0515,
+Bon Air,0516,
+Bonanza,0517,
+Bond,0518,
+Bondurant,0519,
+Bone,0520,
+Bonita,0521,
+Bonney,0522,
+Bonnie,0522,
+Bono,0523,
+Boon,0524,
+Boone,0524,2
+Booneville,0525,
+Boonville,0526,
+Bordeaux,0527,
+Borden,0528,
+Boring,0529,
+Boston,0530,
+Boswell,0531,
+Boulder,0532,
+Bourbon,0533,
+Bovina,0534,
+Bow,0535,
+Bowdon,0536,
+Bowen,0537,
+Bowers,0538,
+Bowersville,0539,
+Bowie,0540,
+Bowler,0541,
+Bowles,0511,
+Bowling Green,0542,2
+Bowman,0543,
+Bowmansville,0544,
+Bowne,0520,
+Box Elder,0545,
+Box Springs,0546,
+Boyce,0547,
+Boyd,0548,
+Boyds,0549,
+Boykin,0550,
+Boylston,0551,
+Boynton,0552,
+Braddock,0553,
+Bradford,0554,
+Bradley,0555,
+Bradshaw,0556,
+Brady,0557,
+Brainard,0558,
+Brainerd,0558,
+Braintree,0559,
+Branch,0560,
+Branchville,0561,
+Brandon,0562,
+Brandonville,0563,
+Brandt,0564,
+Brandywine,0565,
+Branford,0566,
+Branson,0567,
+Brant,0564,
+Brashear,0568,
+Brayton,0569,
+Brazeau,0570,
+Brazil,0571,
+Breckenridge,0572,
+Breda,0573,
+Bremen,0574,
+Brent,0575,
+Brentwood,0576,4
+Brewster,0578,2
+Brewton,0579,
+Briar,0580,
+Briarcliff,0581,
+Briarwood,0582,
+Brice,0583,
+Briceville,0584,
+Bridge City,0585,
+Bridge Creek,0586,
+Bridgeport,0587,
+Bridger,0588,
+Bridgeton,0589,
+Bridgetown,0590,
+Bridgeville,0591,
+Bridgewater,0592,2
+Brier,0580,
+Briggs,0593,
+Briggsville,0594,
+Brighton,0595,2
+Brightwood,0596,
+Brilliant,0597,
+Brimfield,0598,
+Brimson,0599,
+Brisbane,0600,
+Bristol,0601,4
+Bristow,0602,
+Britain,0603,
+Britt,0604,
+Britton,0603,
+Broad Run,0605,
+Broadlands,0606,
+Broadview,0607,
+Broadway,0608,
+Brockton,0609,
+Brockway,0610,
+Brocton,0609,
+Brodhead,0611,
+Bromley,0612,
+Bronson,0613,
+Brook,0614,
+Brookdale,0615,
+Brooke,0614,
+Brookfield,0616,2
+Brookhaven,0617,2
+Brookline,0618,
+Brooklyn,0619,2
+Brooklyn Heights,0620,
+Brooklyn Park,0621,
+Brooks,0622,
+Brookside,0623,
+Brookston,0624,
+Brooksville,0625,
+Brookville,0626,
+Broughton,0627,
+Brown,0628,
+Brownfield,0629,
+Browning,0630,
+Brownington,0631,
+Browns Valley,0632,
+Brownsboro,0633,
+Brownstown,0634,
+Brownsville,0635,2
+Browntown,0636,
+Brownville,0637,
+Broxton,0638,
+Bruce,0639,
+Bruceton,0640,
+Brule,0641,
+Brundage,0642,
+Brundidge,0642,
+Bruno,0643,
+Brunswick,0644,4
+Brush Creek,0645,
+Brushy Creek,0646,
+Brussels,0647,
+Brutus,0648,
+Bryan,0649,
+Bryant,0650,
+Bryantsburg,0651,
+Bryce,0583,
+Bryceville,0584,
+Buchanan,0652,
+Buckeye,0653,
+Buckhead,0654,
+Buckhorn,0655,
+Buckingham,0656,
+Buckland,0657,
+Buckley,0658,
+Buckner,0659,
+Bucksport,0660,
+Buda,0661,
+Budapest,0662,
+Buena,0663,
+Buena Vista,0664,
+Buffalo,0665,
+Buffalo City,0666,
+Buffalo Gap,0667,
+Buffalo Grove,0668,
+Buffalo Springs,0669,
+Buford,0670,
+Bugtussle,0671,
+Buhl,0672,
+Bula,0414,
+Bull Creek,0673,
+Bull Run,0674,
+Bullard,0675,
+Bunker Hill,0676,
+Burbank,0677,
+Burdett,0678,
+Burgess,0679,
+Burke,0680,
+Burkeville,0681,
+Burleigh,0682,
+Burleson,0683,
+Burley,0684,
+Burlingame,0685,
+Burlington,0686,6
+Burlison,0683,
+Burnett,0687,
+Burney,0400,
+Burnham,0688,
+Burns,0689,
+Burnside,0690,
+Burnsville,0691,
+Burr,0692,
+Burr Oak,0693,
+Burt,0694,
+Burton,0695,
+Bush,0696,
+Bushnell,0697,
+Butler,0698,2
+Butlerville,0699,
+Butte,0700,
+Butte City,0701,
+Butterfield,0702,
+Butterworth,0703,
+Buxton,0704,
+Byars,0705,
+Byers,0705,
+Bynum,0706,
+Byram,0707,
+Byron,0440,
+Cabot,0708,
+Cache,0709,
+Caddo,0710,
+Caddoa,0710,
+Cadiz,0711,
+Caile,0712,
+Cairo,0713,
+Calais,0714,
+Calamus,0716,
+Caldwell,0717,2
+Cale,0712,
+Caledonia,0718,
+Calera,0719,
+Calhoun,0720,
+Caliente,0721,
+California,0722,
+Callahan,0723,
+Callao,0724,
+Callaway,0725,
+Callender,0726,
+Calumet,0727,
+Calvary,0728,
+Calvert,0729,
+Calverton,0730,
+Calvin,0731,
+Camargo,0732,
+Camas,0733,
+Cambria,0734,
+Cambridge,0735,2
+Camden,0736,4
+Cameron,0737,
+Cameron Park,0738,
+Camp Hill,0739,
+Camp Springs,0740,
+Camp Verde,0741,
+Campbell,0742,
+Campbellsburg,0743,
+Campbellsport,0744,
+Campbellsville,0745,
+Campbellton,0746,
+Campo,0747,
+Campton,0748,
+Canaan,0749,
+Canada,0750,
+Canadian,0751,
+Canadice,0752,
+Canadys,0752,
+Canandaigua,0753,
+Canby,0754,
+Candelaria,0755,
+Candor,0756,
+Caney,0757,
+Cannelton,0758,
+Cannonsburg,0759,
+Canova,0760,
+Canterbury,0761,
+Canton,0762,4
+Canyon,0763,
+Canyon Creek,0764,
+Canyon Lake,0765,2
+Capitola,0766,
+Capps,0767,
+Capron,0768,
+Caps,0767,
+Capulin,0769,
+Carbon,0770,
+Carbon Hill,0771,
+Carbondale,0772,
+Cardiff,0773,
+Cardwell,0774,
+Carey,0775,
+Caribou,0776,
+Carleton,0777,
+Carlin,0778,
+Carlisle,0779,
+Carlsbad,0780,2
+Carlton,0777,
+Carlyle,0779,
+Carmel,0781,
+Carmen,0782,
+Carmine,0782,
+Carnation,0783,
+Carnegie,0784,
+Carnes,0785,
+Carney,0786,
+Carolina,0787,
+Caroline,0788,
+Carpenter,0789,
+Carpenter's Station,0790,
+Carpentersville,0791,
+Carrick,0792,
+Carroll,0793,
+Carrollton,0794,2
+Carrolltown,0795,
+Carrolltowne,0795,
+Carrsville,0796,
+Carson,0797,
+Carson City,0798,
+Carsonville,0799,
+Cartago,0801,
+Carter,0802,
+Cartersville,0803,
+Carterville,0804,
+Carthage,0805,
+Cartwright,0806,
+Carver,0807,
+Cary,0775,
+Caryville,0808,
+Casanova,0809,
+Casas Adobes,0810,
+Cascade,0811,
+Casco,0812,
+Casey,0813,
+Caseyville,0814,
+Cash,0709,
+Caspar,0815,
+Casper,0815,
+Cassadaga,0816,
+Cassel,0817,
+Casselberry,0818,
+Cassville,0819,
+Castalia,0820,
+Castine,0821,
+Castle,0817,
+Castle Hill,0822,
+Castle Rock,0823,
+Castleberry,0818,
+Castlewood,0824,
+Castor,0825,
+Castroville,0826,
+Casville,0819,
+Caswell,0827,
+Catawba,0828,
+Catharine,0829,
+Catherine,0830,
+Cato,0831,
+Cave City,0832,
+Cave Creek,0833,
+Cave Spring,0834,
+Cavendish,0835,
+Cayce,0836,
+Caylor,0837,
+Cayuga,0838,
+Cazadero,0839,
+Cazenovia,0840,
+Cecil,0841,
+Cecilia,0842,
+Cedar,0843,
+Cedar Bluff,0844,
+Cedar City,0845,
+Cedar Creek,0846,
+Cedar Crest,0847,
+Cedar Grove,0848,
+Cedar Hill,0849,
+Cedar Hills,0850,
+Cedar Lake,0851,
+Cedar Point,0852,
+Cedar Rapids,0853,
+Cedar Springs,0854,
+Cedar Valley,0855,
+Cedarville,0856,
+Celina,0857,
+Cementon,0858,
+Centennial,0859,
+Center,0860,
+Center Grove,0861,
+Center Point,0862,
+Center Valley,0863,
+Centerfield,0864,
+Centerport,0865,
+Centerton,0866,
+Centertown,0867,
+Centerville,0868,
+Central,0869,
+Central City,0870,
+Central High,0871,
+Central Point,0872,
+Centralia,0873,3
+Centre,0860,
+Centre Grove,0861,
+Centreville,0874,
+Century,0875,
+Ceres,0876,
+Ceresco,0877,
+Cerro Gordo,0878,
+Chadwick,0879,
+Chalco,0880,
+Chalfant,0881,
+Chalybeate,0882,
+Chalybeate Springs,0883,
+Chama,0884,
+Champion,0885,
+Chance,0886,
+Chancellor,0887,
+Chandler,0888,
+Chapel Hill,0889,
+Chapin,0890,
+Chapman,0891,
+Chappel,0892,
+Chappell,0892,
+Chappell Hill,0889,
+Chariton,0893,
+Charleroi,0894,
+Charles City,0895,
+Charleston,0896,2
+Charlestown,0897,
+Charlo,0898,
+Charloe,0898,
+Charlotte,0899,2
+Charlottesville,0900,
+Charlton,0901,
+Charter Oak,0902,
+Chase,0903,
+Chatfield,0904,
+Chatham,0905,
+Chatom,0905,
+Chatsworth,0906,
+Chattanooga,0907,
+Chattaroy,0908,
+Chauncey,0909,
+Chautauqua,0910,
+Chelmsford,0911,
+Chelsea,0912,
+Cheltenham,0913,
+Chenango,0914,
+Cheney,0915,
+Cheneyville,0916,
+Chenoweth,0917,
+Cheraw,0918,
+Cheriton,0893,
+Cherokee,0919,
+Cherry,0920,
+Cherry Creek,0921,
+Cherry Grove,0922,
+Cherry Hill,0923,
+Cherry Tree,0924,
+Cherry Valley,0925,
+Cherryvale,0926,
+Cherryville,0927,
+Chesapeake,0928,
+Cheshire,0929,2
+Chester,0930,2
+Chesterfield,0931,2
+Chestertown,0932,
+Chesterville,0933,
+Cheyenne,0934,
+Chichester,0935,
+Chickasaw,0936,
+Chico,0937,
+Chicopee,0938,
+Chilhowee,0940,
+Chilhowie,0940,
+Chili,0939,
+Chillicothe,0941,
+Chilton,0942,
+China,0943,
+China Grove,0944,
+Chinook,0945,
+Chippewa Lake,0946,
+Chisholm,0947,
+Chloride,0948,
+Choctaw,0949,
+Chrisman,0950,
+Christiana,0951,
+Christiansburg,0952,
+Christine,0953,
+Chula,0954,
+Chula Vista,0955,
+Church Hill,0956,
+Churchill,0957,
+Churchville,0958,
+Cicero,0959,2
+Cimarron,0960,
+Cincinnati,0961,
+Circle,0962,
+Circleville,0963,
+Cisco,0964,
+Citrus Park,0965,
+Claiborne,0966,
+Clare,0967,
+Claremont,0968,2
+Clarence,0969,
+Clarendon,0970,
+Claridon,0971,
+Clarion,0972,
+Clark,0973,
+Clarkdale,0974,
+Clarks,0975,
+Clarks Hill,0976,
+Clarksburg,0977,
+Clarksdale,0978,
+Clarkson,0979,
+Clarkston,0980,
+Clarksville,0981,
+Clarkton,0982,
+Clarno,0983,
+Claryville,0984,
+Clawson,0985,
+Claxton,0986,
+Clay,0987,
+Clay Center,0988,
+Clay City,0989,
+Claypool,0990,
+Claysville,0991,
+Clayton,0992,2
+Clayville,0993,
+Clear Creek,0994,
+Clear Lake,0995,
+Clearbrook,0996,
+Clearfield,0997,
+Clearmont,0998,
+Clearview,0999,
+Clearwater,1000,
+Cleghorn,1001,
+Clem,1002,
+Clements,1003,
+Clemmons,1004,
+Clemons,1004,
+Clermont,0968,
+Cleveland,1005,2
+Clifford,1006,
+Cliffside,1007,
+Clifton,1008,2
+Climax,1009,
+Clinton,1010,4
+Clintondale,1011,
+Clintonville,1012,
+Clio,1013,
+Clover,1014,
+Clover Creek,1015,
+Cloverdale,1016,
+Cloverland,1017,
+Clovis,1018,2
+Clyde,1019,
+Clymer,1020,
+Coahoma,1021,
+Coal City,1022,
+Coal Creek,1023,
+Coaldale,1024,
+Coalgate,1025,
+Coalmont,1026,
+Coalton,1027,
+Coalville,1028,
+Coalwood,1029,
+Coatesville,1030,
+Coats,1031,
+Cobb,1032,
+Cobden,1033,
+Coburg,1034,
+Coburn,1035,
+Cochran,1036,
+Cochrane,1036,
+Cody,1037,
+Coeburn,1035,
+Coffee Creek,1038,
+Coffeeville,1039,
+Coffeyville,1039,
+Coffman,1040,
+Cohasset,1041,
+Coin,1042,
+Cokesbury,1043,
+Cokeville,1044,
+Colbert,1045,
+Colburn,1046,
+Colby,1047,
+Colchester,1048,
+Cold Spring,1049,
+Cold Springs,1050,
+Coldspring,1051,
+Coldstream,1052,
+Coldwater,1053,
+Colebrook,1054,
+Coleman,1055,
+Colerain,1056,
+Coleraine,1056,
+Coleridge,1057,
+Colesville,1058,
+Colfax,1059,
+Colgate,1025,
+College Park,1060,2
+College Station,1061,
+Collierville,1062,
+Collins,1063,
+Collinston,1064,
+Collinsville,1065,
+Colman,1055,
+Cologne,1066,
+Coloma,1067,
+Colon,1070,
+Colonial Heights,1071,
+Colony,1072,
+Colorado,1073,
+Colorado City,1074,
+Colquitt,1075,
+Colton,1027,
+Columbia,1068,7
+Columbia City,1076,
+Columbia Falls,1077,
+Columbiana,1078,
+Columbus,1079,5
+Comanche,1080,
+Combes,1081,
+Combs,1081,
+Comfort,1082,
+Commerce,1083,2
+Como,1084,
+Compton,1085,
+Comstock,1086,
+Concepcion,1087,
+Concord,1088,4
+Concordia,1089,
+Condon,1090,
+Cone,1091,
+Conesville,1092,
+Connellsville,1093,
+Connelsville,1093,
+Conover,1094,
+Conrad,1095,
+Converse,1096,
+Conway,1097,2
+Cook,1098,
+Cooksville,1099,
+Cool,1100,
+Coolidge,1101,
+Coon Rapids,1102,2
+Cooper,1103,
+Cooperstown,1104,
+Cope,1105,
+Copeland,1106,
+Copenhagen,1107,
+Copper Hill,1108,
+Coram,1109,
+Corbin,1110,
+Corcoran,1111,
+Cordova,1113,2
+Corinne,1114,
+Corinth,1115,
+Corley,1116,
+Cornelia,1117,
+Cornelius,1118,
+Cornell,1119,
+Cornettsville,1120,
+Corning,1121,
+Cornish,1122,
+Cornville,1123,
+Cornwall,1124,
+Corona,1125,
+Corry,1126,
+Corsica,1127,
+Cortez,1128,
+Cortland,1129,
+Corunna,1130,
+Corvallis,1131,
+Cory,1126,
+Corydon,1132,
+Cosby,1133,
+Cottage Grove,1134,2
+Cottageville,1135,
+Cotter,1136,
+Cotton,1137,
+Cottondale,1138,
+Cottonwood,1139,
+Coulter,1140,
+Coulterville,1141,
+Country Club,1142,
+Country Club Hills,1143,
+Countryside,1144,
+Courtland,1145,
+Cove,1146,
+Coventry,1147,2
+Covert,1148,
+Covington,1149,
+Cowan,1150,
+Cowen,1150,
+Crab Orchard,1151,
+Crabtree,1152,
+Crafton,1153,
+Craig,1154,
+Craigsville,1155,
+Cramer,1156,
+Crandall,1157,
+Crane,1158,
+Crawford,1159,
+Crawfordsville,1160,
+Crawfordville,1161,
+Crayne,1158,
+Creedmoor,1162,
+Creekside,1163,
+Creighton,1164,
+Crenshaw,1165,
+Creola,1166,
+Crescent,1167,
+Crescent City,1168,
+Crescent Springs,1169,
+Cresco,1170,
+Cresson,1171,
+Crestline,1172,
+Creston,1173,
+Crestview,1174,
+Crestwood,1175,
+Creswell,1176,
+Crete,1177,
+Creve Coeur,1178,
+Cripple Creek,1179,
+Crisman,0950,
+Crisp,1180,
+Crocker,1181,
+Crockett,1182,
+Crofton,1183,
+Cromwell,1184,
+Crooked Creek,1185,
+Crookston,1186,
+Crosby,1187,
+Cross Creek,1188,
+Cross Keys,1189,
+Cross Plains,1190,
+Cross Roads,1191,
+Crossville,1192,
+Crowder,1193,
+Crowley,1194,
+Crown,1195,
+Crown Point,1196,
+Croydon,1197,
+Crozier,1198,
+Crum,1199,
+Crump,1200,
+Crumpler,1201,
+Crystal,1202,
+Crystal Beach,1203,
+Crystal City,1204,
+Crystal Lake,1205,
+Crystal Lakes,1206,
+Crystal Springs,1207,
+Cuba,1208,
+Cudahy,1209,
+Culbertson,1210,
+Culleoka,1211,
+Culloden,1212,
+Culver,1213,
+Cumberland,1214,2
+Cumming,1215,
+Cunningham,1216,
+Curlew,1217,
+Curran,1218,
+Currie,1219,
+Curtis,1220,
+Curtisville,1221,
+Cushing,1222,
+Cushman,1223,
+Cusseta,1224,
+Custer,1225,
+Cutler,1226,
+Cyclone,1227,
+Cynthiana,1228,
+Cypress,1229,2
+Dadeville,1230,
+Dahlgren,1231,
+Dahlonega,1232,
+Dairy,1233,
+Daisy,1234,
+Dakota,1235,
+Dakota City,1236,
+Dale,1237,
+Daleville,1238,
+Dallas,1239,2
+Dalton,1240,
+Dalzell,1241,
+Damascus,1242,
+Dana,1243,
+Danbury,1244,
+Danby,1245,
+Daniel,1246,
+Daniels,1247,
+Danielsville,1248,
+Dansville,1249,
+Dante,1250,
+Danube,1251,
+Danvers,1252,
+Danville,1253,5
+Daphne,1254,
+Darien,1255,2
+Darlington,1256,2
+Darmstadt,1257,
+Darwin,1258,
+Davenport,1259,
+Davey,1260,
+David,1261,
+Davidson,1262,
+Davie,1260,
+Davis,1263,
+Daviston,1264,
+Davy,1260,
+Dawn,1265,
+Dawson,1266,
+Day,1267,
+Dayton,1268,
+Dayville,1269,
+Dazey,1234,
+De Graff,1270,
+De Kalb,1271,
+De Soto,1272,
+De Witt,1273,
+DeWitt,1328,
+Deadwood,1274,
+Deal,1275,
+Deale,1275,
+Dean,1276,
+Dearborn,1277,
+Dearing,1278,
+Decatur,1279,3
+Decaturville,1280,
+Decker,1281,
+Dedham,1282,
+Deep Creek,1283,
+Deep River,1284,
+Deer Creek,1285,
+Deer Lake,1286,
+Deer Lodge,1287,
+Deer Park,1288,
+Deerfield,1289,2
+Deering,1278,
+Deerwood,1290,
+Defiance,1291,
+Del City,1292,
+Del Rio,1293,2
+Delano,1294,
+Delaplaine,1295,
+Delaplane,1295,
+Delaware,1296,2
+Delft,1297,
+Delhi,1298,
+Dell,1299,
+Dell City,1292,
+Dellwood,1300,
+Delmar,1301,
+Delmont,1302,
+Delphos,1303,
+Delta,1304,
+Delton,1305,
+Deming,1306,
+Denham,1307,
+Denison,1308,
+Denmark,1309,
+Denning,1310,
+Dennis,1311,2
+Dennison,1308,
+Dennisville,1312,
+Dennysville,1312,
+Densmore,1313,
+Dent,1314,
+Denton,1315,
+Denver,1316,2
+Depew,1317,
+Derby,1318,2
+Derry,1233,
+Des Arc,1319,
+Des Moines,1320,2
+Desert Hills,1321,
+Deshler,1322,
+Detroit,1323,
+Devon,1324,
+Devore,1325,
+Dewey,1326,
+Deweyville,1327,
+Dexter,1329,
+Diamond,1330,
+Diamond Lake,1331,
+Diamond Springs,1332,
+Diana,1333,
+Dibble,1334,
+Diboll,1334,
+Dickens,1335,
+Dickinson,1336,
+Dickson,1337,
+Dighton,1338,
+Dillard,1339,
+Dilley,1340,
+Dillon,1341,
+Dillonvale,1342,
+Dillsboro,1343,
+Dinsmore,1313,
+Dinwiddie,1344,
+Discovery Bay,1345,
+Dix,1346,
+Dixie,1347,
+Dixon,1337,
+Dodge,1349,
+Dodge City,1350,
+Dodson,1351,
+Doe Valley,1352,
+Dogtown,1353,
+Dolomite,1354,
+Dolores,1355,
+Dolton,1356,
+Donald,1357,
+Donaldson,1358,
+Doniphan,1359,
+Donnellson,1360,
+Donnelly,1361,
+Donnybrook,1362,
+Doolittle,1363,
+Dora,1364,
+Doran,1365,
+Dorchester,1366,
+Dorset,1367,
+Dorseyville,1368,
+Doty,1369,
+Dougherty,1370,
+Douglas,1371,
+Douglassville,1372,
+Douglasville,1372,
+Dover,1373,4
+Downey,1374,
+Downieville,1375,
+Downing,1376,
+Downsville,1377,
+Doyle,1378,
+Doylestown,1379,
+Drake,1380,
+Drammen,1381,
+Draper,1382,
+Drayton,1383,
+Dresden,1384,
+Dresser,1385,
+Drew,1386,
+Drexel,1387,
+Driftwood,1388,
+Dripping Springs,1389,
+Driscoll,1390,
+Druid Hills,1391,
+Drummond,1392,
+Dry Creek,1393,
+Dry Ridge,1394,
+Dryden,1395,
+DuBois,1397,
+DuPont,1416,
+Dublin,1396,4
+Dubois,1397,
+Dubuque,1398,
+Dudley,1399,
+Dudleyville,1400,
+Duluth,1401,2
+Dumas,1402,
+Dumfries,1403,
+Dumont,1404,
+Dunbar,1405,
+Duncan,1406,
+Dundas,1407,
+Dundee,1408,
+Dungannon,1409,
+Dunkirk,1410,
+Dunlap,1411,
+Dunleith,1412,
+Dunlo,1413,
+Dunlow,1413,
+Dunmore,1414,
+Dunn,1415,
+Dupont,1416,
+Duquesne,1417,
+Durand,1418,
+Durango,1419,
+Durant,1420,2
+Durham,1421,2
+Durhamville,1422,
+Dutch Neck,1423,
+Dutton,1424,
+Duxbury,1425,
+Dwight,1426,
+Dyer,1427,
+Eads,1428,
+Eagan,1429,
+Eagle,1430,
+Eagle Bend,1431,
+Eagle Creek,1432,
+Eagle Harbor,1433,
+Eagle Lake,1434,
+Eagle Point,1435,
+Eagle River,1436,
+Eagle Rock,1437,
+Eagle Village,1438,
+Eagletown,1439,
+Eagleville,1440,
+Earl,1441,
+Earle,1441,
+Earling,1442,
+Earlville,1443,
+Early,1444,
+East Brooklyn,1445,
+East Camden,1446,
+East Cleveland,1447,
+East Greenwich,1448,2
+East Hampton,1449,
+East Haven,1450,
+East Kingston,1451,
+East Lake,1452,
+East Lynn,1453,
+East Lynne,1453,
+East Rochester,1454,
+East Union,1455,
+East Williston,1456,
+East Windsor,1457,
+Eastlake,1458,
+Eastman,1459,
+Easton,1460,3
+Eastover,1461,
+Eastpoint,1462,
+Eastpointe,1462,
+Eastport,1463,
+Eastvale,1464,
+Eastwood,1465,
+Eaton,1466,
+Eatonville,1467,
+Eau Claire,1468,
+Eau Galle,1469,
+Eau Pleine,1470,
+Ebenezer,1471,
+Ebro,1472,
+Echo,1473,
+Economy,1474,
+Eddington,1475,
+Eddyville,1476,
+Eden,1477,
+Edgar,1478,
+Edgefield,1479,
+Edgemont,1480,
+Edgerton,1481,
+Edgewater,1482,
+Edgewater Park,1483,
+Edgewood,1484,
+Edgeworth,1485,
+Edina,1486,
+Edinboro,1487,
+Edinburg,1488,
+Edinburgh,1487,
+Edison,1489,
+Edmond,1490,
+Edmondson,1491,
+Edmonton,1492,
+Edmore,1493,
+Edmund,1490,
+Edmundson,1491,
+Edna,1494,
+Edom,1495,
+Edson,1496,
+Edwards,1497,
+Edwardsville,1498,
+Effingham,1499,
+Egan,1429,
+Egg Harbor,1500,
+Egremont,1501,
+Egypt,1502,
+El Cenizo,1503,
+El Cerrito,1504,
+El Dorado,1505,
+El Mirage,1506,
+El Paso,1507,
+El Portal,1508,
+El Rancho,1509,
+El Sobrante,1510,
+Elba,1511,
+Elberon,1512,
+Elbert,1513,
+Elberta,1514,
+Elbridge,1515,
+Elco,1516,
+Eldon,1517,
+Eldora,1518,
+Eldorado,1519,
+Eldred,1520,
+Eldridge,1521,
+Elgin,1522,2
+Elida,1523,
+Elim,1524,
+Eliot,1525,
+Elizabeth,1526,
+Elizabeth Lake,1527,
+Elizabethtown,1528,
+Elk,1529,
+Elk City,1530,
+Elk Creek,1531,
+Elk Grove,1532,
+Elk Horn,1533,
+Elk River,1534,
+Elkhart,1535,
+Elkhorn,1536,
+Elkins,1537,
+Elkland,1538,
+Elko,1516,
+Elkton,1539,
+Ellenboro,1540,
+Ellendale,1541,
+Ellenton,1542,
+Ellerslie,1543,
+Ellery,1544,
+Ellicott,1545,
+Ellington,1546,
+Elliott,1525,
+Ellis,1547,
+Ellisburg,1548,
+Elliston,1549,
+Ellisville,1550,
+Ellsworth,1551,
+Elm Creek,1552,
+Elm Grove,1553,
+Elma,1554,
+Elmer,1555,
+Elmhurst,1556,
+Elmira,1557,
+Elmo,1558,
+Elmont,1559,
+Elmore,1560,
+Elmwood,1561,
+Elmwood Park,1562,
+Elon,1563,
+Elrod,1564,
+Elroy,1565,
+Elsie,1566,
+Elsmere,1567,
+Elwin,1568,
+Elwood,1569,
+Elwyn,1568,
+Ely,1570,2
+Elyria,1571,
+Elysburg,1548,
+Elysville,1550,
+Embarrass,1572,
+Embreeville,1573,
+Emden,1574,
+Emerald,1575,
+Emerald Bay,1576,
+Emerson,1577,
+Emery,1578,
+Eminence,1579,
+Emma,1580,
+Emmet,1581,
+Emmett,1581,
+Emory,1578,
+Empire,1582,
+Encinal,1583,
+Encino,1584,
+Endicott,1585,
+Energy,1586,
+Enfield,1587,
+Englewood,1588,2
+English,1589,
+Ennis,1590,
+Enola,1591,
+Enon,1592,
+Ensenada,1593,
+Enterprise,1594,2
+Enville,1595,
+Eola,1596,
+Ephraim,1597,
+Ephrata,1598,
+Epping,1599,
+Epsom,1600,
+Epworth,1601,
+Erie,1602,2
+Erin,1603,
+Erskine,1604,
+Erving,1605,
+Erwin,1606,
+Erwinville,1607,
+Escatawpa,1608,
+Esmond,1609,
+Esperance,1610,
+Espey,1611,
+Espy,1611,
+Essex,1612,3
+Estelline,1613,
+Ethel,1614,
+Ethridge,1615,
+Etna,1616,
+Eton,1466,
+Etowah,1617,
+Etta,1618,
+Ettrick,1619,
+Euclid,1620,
+Eudora,1621,
+Eufaula,1622,2
+Eugene,1623,
+Eunice,1624,
+Eureka,1625,
+Eustace,1626,
+Eustis,1626,
+Eva,0224,
+Evans,1627,
+Evanston,1628,
+Evansville,1629,2
+Evening Shade,1630,
+Everett,1631,2
+Evergreen,1632,
+Everson,1633,
+Everton,1634,
+Ewell,1635,
+Ewing,1636,
+Excelsior,1637,
+Exeter,1638,
+Fair Haven,1639,
+Fair Oaks,1640,2
+Fair Play,1641,
+Fairbanks,1642,
+Fairburn,1643,
+Fairbury,1644,2
+Fairdale,1645,
+Fairfax,1646,
+Fairfield,1647,4
+Fairhaven,1648,
+Fairhope,1649,
+Fairland,1650,
+Fairlawn,1651,
+Fairlee,1652,
+Fairmont,1653,
+Fairmount,1654,
+Fairplay,1655,
+Fairport,1656,
+Fairview,1657,
+Fairview Park,1658,
+Fairwood,1659,
+Fairy,1660,
+Faith,1661,
+Falcon,1662,
+Falcon Heights,1663,
+Falkner,1664,
+Fall Creek,1665,
+Fall River,1666,
+Falling Spring,1667,
+Fallon,1668,
+Falls City,1669,
+Fallston,1670,
+Falmouth,1671,2
+Farewell,1672,
+Fargo,1673,
+Farley,1674,
+Farmers,1675,
+Farmersburg,1676,
+Farmersville,1677,
+Farmingdale,1678,
+Farmington,1679,4
+Farmville,1680,
+Farnam,1681,
+Farnham,1681,
+Farragut,1682,
+Farrar,1683,
+Farrell,1684,
+Farris,1685,
+Farson,1686,
+Farwell,1687,
+Faulkner,1664,
+Faxon,1688,
+Fay,1689,
+Fayette,1690,
+Fayetteville,1691,2
+Federalsburg,1692,
+Felicity,1693,
+Felton,1694,
+Fenton,1695,
+Fenwick,1696,
+Ferdinand,1697,
+Ferguson,1698,
+Fern,1699,
+Ferndale,1700,
+Fernwood,1701,
+Ferris,1685,
+Ferrisburgh,1702,
+Ferry,1660,
+Ferrysburg,1702,
+Fertile,1703,
+Fidelity,1704,
+Fife,1705,
+Fillmore,1706,
+Fincastle,1707,
+Findlay,1708,
+Finey,1709,
+Finland,1710,
+Finley,1711,
+Finly,1711,
+Finney,1709,
+Firth,1712,
+Fischer,1713,
+Fish Springs,1714,
+Fisher,1713,
+Fisherville,1715,
+Fisk,1716,
+Fitchburg,1717,2
+Five Forks,1718,
+Five Points,1719,
+Flambeau,1720,
+Flanders,1721,
+Flat,1722,
+Flat Rock,1723,
+Flatwoods,1724,
+Fleming,1725,
+Flemington,1726,
+Fletcher,1727,
+Flint,1728,
+Flint Hill,1729,
+Flintstone,1730,
+Flippin,1731,
+Flora,1732,
+Florence,1733,6
+Florida,1734,
+Floris,1736,
+Florissant,1737,
+Flower Hill,1738,
+Floyd,1739,
+Flushing,1740,
+Foley,1741,
+Folsom,1742,2
+Fonda,1743,
+Fontana,1744,
+Fontanelle,1745,
+Footville,1746,
+Forbes,1747,
+Ford City,1748,
+Fordyce,1749,
+Forest,1750,
+Forest City,1751,
+Forest Glen,1752,
+Forest Grove,1753,
+Forest Heights,1754,
+Forest Hill,1755,
+Forest Hills,1756,
+Forest Lake,1757,
+Forest Park,1758,
+Forestburg,1759,
+Forestburgh,1759,
+Forestdale,1760,
+Foreston,1761,
+Forestville,1762,
+Forrest City,1751,
+Forreston,1761,
+Forsyth,1764,
+Fort Atkinson,1765,
+Fort Davis,1766,
+Fort Defiance,1767,
+Fort Dodge,1768,
+Fort Hill,1769,
+Fort Lee,1770,
+Fort Meade,1771,
+Fort Mitchell,1772,
+Fort Morgan,1773,
+Fort Smith,1774,
+Fort Thomas,1775,
+Fort Valley,1776,
+Fort Washington,1777,
+Fortescue,1778,
+Fortuna,1779,
+Foss,1780,
+Foster,1781,
+Fostoria,1782,
+Fountain,1783,
+Fountain City,1784,
+Fountain Green,1785,
+Fountain Hill,1786,
+Four Corners,1787,
+Fourmile,1788,
+Fowler,1789,
+Fowlerton,1790,
+Fowlerville,1791,
+Fox,1792,
+Fox Chase,1793,
+Fox Lake,1794,
+Francis,1795,
+Francisco,1796,
+Franconia,1797,
+Frankford,1798,
+Frankfort,1799,2
+Franklin,1800,10
+Franklin Park,1801,
+Franklinton,1802,
+Franklinville,1803,
+Franktown,1804,
+Fraser,1805,
+Frazer,1805,
+Fred,1806,
+Freda,1806,
+Frederic,1807,
+Frederick,1807,
+Fredericksburg,1808,2
+Fredericktown,1809,
+Fredonia,1810,
+Freeburg,1811,
+Freedom,1812,
+Freeland,1813,
+Freeman,1814,
+Freeport,1815,2
+Freetown,1816,
+Fremont,1817,2
+French Camp,1818,
+French Creek,1819,
+Frenchburg,1820,
+Frenchtown,1821,
+Frenchville,1822,
+Fresno,1823,
+Friend,1824,
+Friendly,1825,
+Friendship,1826,
+Friendsville,1827,
+Friesland,1828,
+Frisco,1829,
+Frontenac,1830,
+Frontier,1831,
+Frost,1832,
+Fruitdale,1833,
+Fruitland,1834,
+Fruitland Park,1835,
+Fruitvale,1836,
+Fruitville,1837,
+Fulda,1838,
+Fullerton,1839,
+Fulton,1840,2
+Funk,1841,
+Fyffe,1705,
+Gadsden,1842,
+Gail,1843,
+Gainesboro,1844,
+Gainesville,1845,3
+Galatia,1846,
+Gale,1843,
+Galena,1847,2
+Galesburg,1848,
+Galesville,1849,
+Gallatin,1850,
+Galloway,1851,
+Galt,1852,
+Galva,1853,
+Galveston,1854,
+Gamaliel,1855,
+Ganado,1856,
+Gandy,1857,
+Gantt,1858,
+Garber,1859,
+Garden City,1860,
+Garden Grove,1861,
+Garden Valley,1862,
+Gardena,1863,
+Gardendale,1864,
+Gardiner,1865,
+Gardner,1865,
+Garfield,1866,
+Garland,1867,
+Garner,1868,
+Garnet,1869,
+Garrett,1870,
+Garrison,1871,
+Garryowen,1872,
+Garvin,1873,
+Garwood,1874,
+Gary,1875,
+Garyville,1876,
+Gaston,1877,
+Gastonia,1878,
+Gate,1879,
+Gates,1880,
+Gatesville,1881,
+Gateway,1882,
+Gay,1883,
+Gaylord,1884,
+Geddes,1885,
+Genesee,1886,
+Geneseo,1887,
+Geneva,1888,
+Genoa,1889,
+Genola,1890,
+Gentry,1891,
+Gentryville,1892,
+George,1893,
+Georgetown,1894,5
+Georgia,1895,
+Geraldine,1896,
+Germania,1897,
+Germantown,1898,3
+Germany,1899,
+Geronimo,1900,
+Gerry,1901,
+Geryville,1876,
+Gettysburg,1902,
+Ghent,1903,
+Gibbon,1904,
+Gibraltar,1905,
+Gibson,1906,
+Gibsonia,1907,
+Gideon,1908,
+Gifford,1909,
+Gilbert,1910,
+Gilbertsville,1911,
+Gilboa,1912,
+Gilchrist,1913,
+Gilead,1914,
+Gilford,1915,
+Gill,1916,
+Gillett,1917,
+Gillette,1918,
+Gilliam,1919,
+Gilman,1920,
+Gilmanton,1921,
+Gilmore,1922,
+Girard,1923,
+Gladstone,1924,2
+Gladwin,1925,
+Gladwyne,1925,
+Glasco,1926,
+Glasgow,1927,
+Gleason,1928,
+Glen,1929,
+Glen Allan,1930,
+Glen Allen,1930,
+Glen Dale,1931,
+Glen Flora,1932,
+Glen Haven,1933,
+Glen Ridge,1934,
+Glen Rock,1935,
+Glen Rose,1936,
+Glenburn,1937,
+Glencoe,1938,
+Glendale,1939,2
+Glendon,1940,
+Glendora,1941,
+Glenfield,1942,
+Glenmont,1943,
+Glenmoor,1944,
+Glenmoore,1944,
+Glenmore,1945,
+Glenn,1929,
+Glenn Dale,1931,
+Glennville,1946,
+Glenview,1947,
+Glenville,1946,
+Glenwood,1948,
+Glidden,1949,
+Globe,1950,
+Gloucester,1951,2
+Goddard,1952,
+Godfrey,1953,
+Godley,1954,
+Goff,1955,
+Golconda,1956,
+Gold Hill,1957,
+Golden,1958,
+Golden Beach,1959,
+Golden Gate,1960,
+Golden Valley,1961,
+Goldfield,1962,
+Goldsboro,1963,
+Goldsmith,1964,
+Golf,1965,
+Gonzales,1966,
+Good Hope,1967,
+Good Intent,1968,
+Goodland,1969,
+Goodman,1970,
+Goodrich,1971,
+Goose Creek,1972,
+Gordon,1973,
+Gordonsville,1974,
+Gordonville,1975,
+Gore,1976,
+Gorham,1977,
+Gorman,1978,
+Goshen,1979,2
+Gosport,1980,
+Gothenburg,1981,
+Gough,1955,
+Gould,1982,
+Gouldsboro,1983,
+Grace,1984,
+Graceville,1985,
+Grady,1986,
+Grafton,1987,4
+Graham,1988,
+Granada,1989,
+Granby,1990,
+Grand Island,1991,2
+Grand Isle,1992,
+Grand Junction,1993,
+Grand Lake,1994,
+Grand Marais,1995,
+Grand Mound,1996,
+Grand Rapids,1997,2
+Grand Ridge,1998,
+Grand River,1999,
+Grand View,2000,
+Grandin,2001,
+Grandview,2002,
+Grandy,2003,
+Granger,2004,
+Grangeville,2005,
+Granite,2006,
+Granite Falls,2007,
+Graniteville,2008,
+Grant,2009,
+Grantham,2010,
+Grantsville,2011,
+Grantville,2012,
+Granville,2013,
+Grapevine,2014,
+Grass Valley,2015,
+Grassy,2016,
+Gratiot,2017,
+Gratis,2018,
+Graton,2019,
+Grattan,2019,
+Gratton,2019,
+Gratz,2020,
+Gray,2021,
+Grayson,2022,
+Graysville,2023,
+Great Bend,2024,
+Great Falls,2025,
+Greece,2026,
+Greeley,2027,
+Green,2028,
+Green Acres,2029,
+Green Bank,2030,
+Green Bay,2031,
+Green Hill,2032,
+Green Meadows,2033,
+Green Mountain,2034,
+Green Park,2035,
+Green Ridge,2036,
+Green River,2037,
+Green Spring,2038,
+Green Valley,2039,
+Greenacres,2040,
+Greenbank,2041,
+Greenbriar,2042,
+Greenbrier,2043,
+Greenbush,2044,
+Greencastle,2045,
+Greendale,2046,
+Greene,2028,
+Greenfield,2047,5
+Greenhorn,2048,
+Greenland,2049,
+Greenleaf,2050,
+Greenport,2051,
+Greensboro,2052,2
+Greensburg,2053,3
+Greentown,2054,
+Greenview,2055,
+Greenville,2056,6
+Greenwich,2057,2
+Greenwood,2058,4
+Greer,2059,2
+Gregory,2060,
+Grenada,2061,
+Gresham,2062,
+Gretna,2063,
+Gridley,2064,
+Griffin,2065,
+Grimes,2066,
+Griswold,2067,
+Groesbeck,2068,
+Groningen,2069,
+Groton,2070,2
+Grove,2071,
+Grove City,2072,
+Groveland,2073,
+Grover,2074,
+Groveton,2075,
+Grow,2076,
+Gruver,2077,
+Guadalupe,2078,
+Guernsey,2079,
+Guild,2080,
+Guilford,1915,
+Guinea,2081,
+Guion,2082,
+Gulfport,2083,
+Gull Lake,2084,
+Gum Springs,2085,
+Gunnison,2086,
+Gunter,2087,
+Gurley,2088,
+Gustine,2089,
+Guthrie,2090,
+Guttenberg,2091,
+Guy,2092,
+Gwin,2093,
+Gwinn,2093,
+Gwynn,2093,
+Gypsum,2094,
+Hackberry,2096,
+Hackensack,2097,
+Hackett,2098,
+Hadley,2099,
+Hagan,2100,
+Hagerman,2101,
+Hagerstown,2102,
+Hague,2103,
+Haileyville,2104,
+Haines,2105,
+Hainesville,2106,
+Hale,2095,
+Haleyville,2104,
+Half Acre,2107,
+Halfway,2108,
+Halifax,2109,
+Hall,2110,
+Hallam,2111,
+Hallie,2112,
+Hallsville,2113,
+Halltown,2114,
+Halsey,2115,
+Hamberg,2116,
+Hamburg,2116,2
+Hamden,2117,
+Hamel,2118,
+Hamer,2119,
+Hamill,2118,
+Hamilton,2120,3
+Hamlet,2121,
+Hamlin,2122,
+Hammel,2118,
+Hammond,2123,3
+Hampden,2124,
+Hampstead,2125,
+Hampton,2126,3
+Hana,2127,
+Hancock,2128,
+Hanford,2129,
+Hanging Rock,2130,
+Hanksville,2131,
+Hanna,2127,
+Hannah,2127,
+Hannibal,2132,
+Hannover,2133,
+Hanover,2134,4
+Hansen,2135,
+Hanson,2135,
+Happy Valley,2136,
+Harbin,2137,
+Harbine,2137,
+Harbor Hills,2138,
+Harborton,2139,
+Harbourton,2139,
+Hardin,2140,
+Harding,2141,
+Hardinsburg,2142,
+Hardwick,2143,
+Hardy,2144,
+Harlan,2145,
+Harlem,2146,
+Harlingen,2147,
+Harman,2148,
+Harmon,2148,
+Harmony,2149,
+Harney,2150,
+Harold,2151,
+Harper,2152,
+Harpers Ferry,2153,
+Harrah,2154,
+Harriman,2155,
+Harrington,2156,
+Harris,2157,
+Harrisburg,2158,
+Harrison,2159,4
+Harrisonburg,2160,
+Harrisonville,2161,
+Harriston,2162,
+Harrisville,2163,
+Harrodsburg,2164,
+Harrold,2151,
+Hart,2165,
+Hartford,2166,2
+Hartford City,2167,
+Hartland,2168,
+Hartley,2169,
+Hartman,2170,
+Hartsburg,2171,
+Hartsel,2172,
+Hartselle,2172,
+Hartsville,2173,
+Hartville,2174,
+Hartwell,2175,
+Hartwick,2176,
+Harvard,2177,2
+Harvey,2178,
+Harwood,2179,
+Haskell,2180,
+Hastings,2181,2
+Hasty,2182,
+Hatch,2183,
+Hatfield,2184,
+Hatley,2185,
+Hatton,2186,
+Haughton,2187,
+Hauser,2188,
+Havana,2189,
+Havelock,2190,
+Haverhill,2191,
+Havilah,2192,
+Haviland,2193,
+Havillah,2192,
+Hawkeye,2194,
+Hawkins,2195,
+Hawkinsville,2196,
+Hawley,2112,
+Haworth,2197,
+Hawthorne,2198,3
+Hayden,2199,
+Hayes,2200,
+Hayesville,2201,
+Haynes,2105,
+Haynesville,2106,
+Hays,2200,
+Haysville,2202,
+Hayti,2203,
+Hayward,2204,2
+Hazard,2205,
+Hazel,2206,
+Hazel Dell,2207,
+Hazel Green,2208,
+Hazelton,2209,
+Hazelwood,2210,
+Hazen,2211,
+Hazlehurst,2212,
+Hazleton,2209,
+Headquarters,2213,
+Headrick,2214,
+Healy,2215,
+Hearne,2216,
+Hearst,2217,
+Heath,2218,
+Heber,2219,
+Hebron,2220,
+Hector,2221,
+Hedrick,2214,
+Heflin,2222,
+Heidelberg,2223,
+Helen,2224,
+Helena,2225,2
+Helvetia,2226,
+Hemlock,2227,
+Hempstead,2228,2
+Henderson,2229,3
+Hendersonville,2230,2
+Hendricks,2231,
+Hendrix,2231,
+Hennepin,2232,
+Henning,2233,
+Henrietta,2234,
+Henry,2235,
+Herald,2151,
+Hercules,2236,
+Hereford,2237,
+Herington,2156,
+Heritage Lake,2238,
+Herkimer,2239,
+Herman,2240,
+Hermann,2240,
+Hermitage,2241,
+Hermon,2240,
+Hermosa,2242,
+Hernando,2243,
+Herndon,2244,
+Heron,2245,
+Herriman,2155,
+Herron,2245,
+Hersey,2246,
+Hershey,2247,
+Hesper,2248,
+Hesperia,2249,
+Hesston,2250,
+Hewett,2251,
+Hewitt,2251,
+Hewlett,2252,
+Hext,2253,
+Hibernia,2254,
+Hickman,2255,
+Hickory,2256,
+Hickory Corners,2257,
+Hickory Flat,2258,
+Hickory Grove,2259,
+Hickory Hills,2260,
+Hico,2261,
+Hidalgo,2262,
+Hidden Valley,2263,
+Higgins,2264,
+High Bridge,2265,
+High Falls,2266,
+High Hill,2267,
+High Point,2268,
+Highland,2269,2
+Highland Beach,2270,
+Highland Heights,2271,
+Highland Lakes,2272,
+Highland Park,2273,3
+Highlands,2274,2
+Highlandville,2275,
+Highwood,2276,
+Hiko,2261,
+Hilda,2277,
+Hiles,2278,
+Hill,2279,
+Hill City,2280,
+Hillcrest,2281,
+Hillcrest Heights,2282,
+Hilliard,2283,
+Hillman,2284,
+Hills,2285,
+Hills and Dales,2286,
+Hillsboro,2287,3
+Hillsborough,2287,3
+Hillsdale,2288,2
+Hillside,2289,
+Hillsville,2290,
+Hilltop,2291,
+Hillview,2292,
+Hilton,2293,
+Hinckley,2294,
+Hingham,2295,
+Hinkley,2294,
+Hinsdale,2296,
+Hinton,2297,
+Hiram,2298,
+Hitchcock,2299,
+Hixon,2300,
+Hixson,2300,
+Hobart,2301,
+Hobbs,2302,
+Hoboken,2303,
+Hobson,2304,
+Hodge,2305,
+Hodges,2306,
+Hoffman,2307,
+Holbrook,2308,
+Holcomb,2309,
+Holcombe,2309,
+Holden,2310,
+Holiday,2311,
+Holiday Lakes,2312,
+Holladay,2311,
+Holland,2313,2
+Hollandale,2314,
+Holley,2315,
+Holliday,2316,
+Hollins,2317,
+Hollis,2318,
+Hollister,2319,
+Holloway,2320,
+Holly,2315,
+Holly Hill,2321,
+Holly Ridge,2322,
+Holly Springs,2323,2
+Hollywood,2324,
+Holmesville,2325,
+Holstein,2326,
+Holt,2327,
+Holton,2328,
+Holtville,2329,
+Holy Cross,2330,
+Holyoke,2331,
+Home,2332,
+Homeland,2333,
+Homer,2334,
+Homerville,2335,
+Homestead,2336,2
+Hometown,2337,
+Homeville,2338,
+Homewood,2339,
+Hondo,2340,
+Honey Creek,2341,
+Hood,2342,
+Hooker,2343,
+Hooper,2344,
+Hope,2345,2
+Hopedale,2346,
+Hopewell,2347,2
+Hopkins,2348,
+Hopkinton,2349,
+Horace,2350,
+Horatio,2351,
+Horicon,2352,
+Horntown,2353,
+Horse Creek,2354,
+Horseshoe Bend,2355,
+Horton,2356,
+Hortonville,2357,
+Hot Springs,2358,
+Hough,2359,
+Houghton,2187,
+Houlton,2328,
+Houston,2360,
+Houstonville,2361,
+How,2362,
+Howard,2363,
+Howard City,2364,
+Howardsville,2365,
+Howe,2362,
+Howell,2366,
+Hoxie,2367,
+Hoyt,2368,
+Hubbard,2370,
+Hubbardston,2371,
+Hubbell,2372,
+Hudson,2373,4
+Hudsonville,2374,
+Huff,2359,
+Hughes,2375,
+Hughesville,2376,
+Hugo,2377,
+Hulett,2252,
+Hull,2378,
+Humboldt,2379,
+Hume,2380,
+Humphrey,2381,
+Hunnewell,2382,
+Hunt,2383,
+Hunter,2384,
+Huntersville,2385,
+Huntingdon,2386,
+Huntington,2387,2
+Huntley,2388,
+Huntsville,2389,2
+Hurley,2390,
+Huron,2391,
+Hurricane,2392,
+Hurst,2217,
+Hustonville,2361,
+Hutchins,2393,
+Hutchinson,2394,
+Huxley,2395,
+Hyde Park,2396,
+Hyrum,2298,
+Iberia,2397,
+Ida,2398,
+Idaho,2399,
+Idalia,2400,
+Idaville,2401,
+Idlewild,2402,
+Ignacio,2403,
+Imogene,2404,
+Imperial,2405,
+Independence,2406,4
+Index,2407,
+Indian Creek,2408,
+Indian Hills,2409,
+Indian Lake,2410,
+Indian Springs,2411,
+Indian Village,2412,
+Indian Wells,2413,
+Indiana,2414,
+Indianola,2415,
+Indiantown,2416,
+Industry,2417,
+Inez,2418,
+Ingalls,2419,
+Ingleside,2420,
+Inglewood,2421,
+Ingram,2422,
+Inkster,2423,
+Inman,2424,
+Innsbrook,2425,
+Interlachen,2426,
+Interlaken,2427,
+Inverness,2428,
+Inwood,2429,
+Iola,2430,
+Iona,2431,
+Ione,2432,
+Ionia,2433,
+Iowa,2434,
+Ipswich,2435,
+Ira,2436,
+Ireland,2437,
+Irene,2438,
+Iron City,2439,
+Iron Mountain,2440,
+Iron River,2441,
+Irondale,2442,
+Ironton,2443,
+Ironville,2444,
+Irvine,2445,
+Irving,1605,
+Irvington,2446,2
+Irwin,2447,
+Irwinville,1607,
+Isabel,2448,
+Isabelle,2448,
+Island Lake,2450,
+Island Park,2451,
+Islandia,2452,
+Italy,2453,
+Itasca,2454,
+Ithaca,2455,
+Iuka,2456,
+Ivanhoe,2457,
+Ivey,2458,
+Ivy,2458,
+Jacksboro,2459,
+Jackson,2460,5
+Jackson Center,2461,
+Jacksonport,2462,
+Jacksonville,2463,3
+Jacobs,2464,
+Jalapa,2465,
+Jamaica,2466,
+James City,2467,
+Jamesburg,2468,
+Jamesport,2469,
+Jamestown,2470,4
+Janesville,2471,
+Jansen,2472,
+Japan,2473,
+Jasper,2474,
+Java,2475,
+Jay,2476,
+Jeddo,2477,
+Jefferson,2478,
+Jefferson City,2479,
+Jeffersonville,2480,
+Jena,2481,
+Jenkins,2482,
+Jennings,2483,
+Jericho,2484,
+Jermyn,2485,
+Jerome,2486,2
+Jerry,1901,
+Jersey,2487,
+Jerusalem,2488,
+Jessup,2489,
+Jesup,2490,
+Jet,2491,
+Jette,2491,
+Jewell,2492,
+Jewett,2493,
+Jimtown,2494,
+Joanna,2495,
+Joes,2496,
+Johannesburg,2497,
+Johnsburg,2498,
+Johnson,2499,
+Johnson City,2500,
+Johnsonburg,2501,
+Johnsonville,2502,
+Johnston,2503,
+Johnstown,2504,2
+Johnsville,2505,
+Joice,2506,
+Joliet,2507,
+Jolley,2508,
+Jolly,2508,
+Jolo,2509,
+Jones,2510,
+Jonesboro,2511,
+Jonestown,2512,
+Jonesville,2513,
+Joplin,2514,
+Joppa,2515,
+Jordan,2516,
+Joseph,2517,
+Josephine,2518,
+Joy,2519,
+Joyce,2506,
+Juarez,2520,
+Judson,2521,
+Julian,2522,
+Jumbo,2523,
+Junction,2524,
+Junction City,2525,
+Juneau,2526,
+Juno,2526,
+Jupiter,2527,
+Justice,2528,
+Kailua,2529,
+Kalama,0715,
+Kalamazoo,2530,
+Kamas,0733,
+Kangley,2531,
+Kansas,2532,
+Kansas City,2533,2
+Karlin,0778,
+Karlsruhe,2534,
+Karnack,2535,
+Karnak,2535,
+Karnes City,2536,
+Karns,0785,
+Karns City,2536,
+Kasson,2537,
+Kathleen,2538,
+Kathryn,0829,
+Katie,2539,
+Katy,2539,
+Kaufman,1040,
+Kaycee,0813,
+Kaylor,0837,
+Keansburg,2540,
+Kearney,2541,
+Kearny,2541,
+Kearsarge,2542,
+Keeler,2543,
+Keene,2544,
+Keensburg,2540,
+Keizer,2545,
+Keller,2546,
+Kelley,2547,
+Kellogg,2548,
+Kelly,2547,
+Kelsey,2549,
+Kelso,2550,
+Kemp,2551,
+Kempton,2552,
+Kenansville,2553,
+Kendall,2554,
+Kendrick,2555,
+Kenilworth,2556,
+Kenmore,2557,
+Kennard,2558,
+Kennedy,2559,
+Kenney,2560,
+Kensett,2561,
+Kensington,2562,2
+Kent,2563,2
+Kentland,2564,
+Kenton,2565,
+Kentwood,2566,
+Kenwood,2567,
+Keokea,2568,
+Keota,2569,
+Kerby,2570,
+Kerman,2571,
+Kermit,2572,
+Kernville,2573,
+Kerrick,0792,
+Kerrville,2574,
+Kersey,2575,
+Keswick,2576,
+Ketchum,2577,
+Kettering,2578,
+Key West,2579,
+Keyes,2580,
+Keyport,2581,
+Keys,2580,
+Keyser,2545,
+Keystone,2582,
+Keysville,2583,
+Kiel,2584,
+Kieler,2543,
+Kildare,2585,
+Kilgore,2586,
+Kimball,2587,
+Kimberly,2588,
+Kincaid,2589,
+Kinderhook,2590,
+King,2591,
+King City,2592,
+King Salmon,2593,
+Kingman,2594,
+Kings Mountain,2595,
+Kings Park,2596,
+Kings Point,2597,
+Kingsbury,2598,
+Kingsland,2599,
+Kingsley,2600,
+Kingston,2601,2
+Kingstown,2602,
+Kingstowne,2602,
+Kingsville,2603,
+Kingwood,2604,
+Kinikinik,2605,
+Kinnickinnic,2605,
+Kinsman,2606,
+Kinston,2607,
+Kiowa,2608,
+Kirby,2570,
+Kirbyville,2609,
+Kirkland,2610,
+Kirkpatrick,2611,
+Kirkville,2612,
+Kirkwood,2613,
+Kirtland,2614,
+Kistler,2615,
+Kittrell,2616,
+Klein,2617,
+Klemme,1002,
+Kline,2617,
+Klondike,2618,
+Knapp,2619,
+Knappa,2620,
+Knob Lick,2621,
+Knobel,2622,
+Knollwood,2623,
+Knowlton,2624,
+Knox,2625,
+Knox City,2626,
+Knoxville,2627,
+Kohler,2629,
+Kokomo,2630,
+Kosciusko,2631,
+Koshkonong,2632,
+Koss,2633,
+Kosse,2633,
+Kossuth,2634,
+Krakow,2635,
+Kramer,1156,
+Kremlin,2636,
+Krum,1199,
+Kyle,2637,
+La Belle,2638,
+La Center,2639,
+La Cresta,2640,
+La Crosse,2641,
+La Fayette,2642,
+La Follette,2643,
+La Gloria,2644,
+La Grande,2645,
+La Grange,2646,
+La Jara,2647,
+La Madera,2648,
+La Mesa,2649,
+La Mott,2650,
+La Motte,2650,
+La Paz,2651,
+La Plata,2652,
+La Porte,2653,2
+La Prairie,2654,
+La Presa,2655,
+La Salle,2656,
+La Vale,2657,
+La Valle,2657,
+La Victoria,2658,
+LaFayette,2667,
+LaGrange,2670,2
+LaMoille,2715,
+LaPlace,2732,
+Lac La Belle,2659,
+Lacey,2660,2
+Laclede,2661,
+Lacona,2662,
+Laconia,2663,
+Ladd,2664,
+Laddonia,2665,
+Ladonia,2665,
+Ladysmith,2666,
+Lafayette,2667,5
+Laflin,2668,
+Lago Vista,2669,
+Lagrange,2670,
+Laguna Beach,2671,
+Lahore,2672,
+Lake,2674,
+Lake Arrowhead,2675,
+Lake Arthur,2676,
+Lake Butler,2677,
+Lake Camelot,2678,
+Lake City,2679,2
+Lake Como,2680,
+Lake Forest,2681,2
+Lake George,2682,
+Lake Hamilton,2683,
+Lake Hart,2684,
+Lake Holiday,2685,
+Lake Isabella,2686,
+Lake Lorraine,2687,
+Lake Mills,2688,
+Lake Mohawk,2689,
+Lake Park,2691,
+Lake Placid,2692,
+Lake Sherwood,2693,
+Lake Shore,2694,
+Lake Tomahawk,2695,
+Lake View,2696,
+Lake Village,2697,
+Lake of the Woods,2690,
+Lakefield,2698,
+Lakeland,2699,
+Lakemoor,2700,
+Lakemore,2700,
+Lakeport,2701,
+Lakeridge,2702,
+Lakeshore,2703,
+Lakeside,2704,
+Lakeside Village,2705,
+Laketown,2706,
+Lakeview,2707,
+Lakeville,2708,2
+Lakewood,2709,5
+Lakewood Park,2710,
+Lakota,2711,
+Lamar,2712,
+Lambert,2713,
+Lambertville,2714,
+Lamoille,2715,
+Lamoine,2716,
+Lamont,2717,
+Lanark,2718,
+Lancaster,2719,5
+Lancing,2720,
+Land O' Lakes,2721,
+Land o' Lakes,2721,
+Landisville,2722,
+Lane,2723,
+Lanesboro,2724,
+Laneville,2725,
+Langdon,2726,
+Langley,2727,
+Langston,2728,
+Lansdowne,2729,
+Lansing,2720,
+Lantana,2730,
+Lapeer,2731,
+Laplace,2732,
+Laporte,2733,
+Laredo,2734,
+Largo,2735,
+Larkspur,2736,
+Larrabee,2737,
+Las Flores,2738,
+Las Lomas,2739,
+Las Vegas,2740,2
+Last Chance,2741,
+Latham,2742,
+Lathrop,2743,
+Latimer,2744,
+Latrobe,2745,
+Latta,2746,
+Lattimer,2744,
+Lauderdale,2747,
+Lauderdale Lakes,2748,
+Laurel,2749,3
+Laurel Hill,2750,
+Laurel Park,2751,
+Laurelton,2752,
+Laurens,2753,
+Lawler,2754,
+Lawndale,2755,
+Lawrence,2756,5
+Lawrenceburg,2757,
+Lawrenceville,2758,3
+Lawson,2759,
+Lawton,2760,
+Layton,2761,
+Le Grand,2762,
+Le Roy,2763,
+LeRoy,2793,
+Leamington,2764,
+Leary,2765,
+Leavenworth,2766,2
+Leawood,2767,
+Lebanon,2768,7
+Ledyard,2769,
+Lee,2770,
+Leeds,2771,
+Leeper,2772,
+Lees Creek,2773,
+Leesburg,2774,
+Leesville,2775,
+Leetonia,2776,
+Leetown,2777,
+Leggett,2778,
+Lehigh,2779,
+Leicester,2780,
+Leigh,2770,
+Leighton,2761,
+Leipsic,2781,
+Leland,2782,2
+Lemington,2764,
+Lemon Grove,2783,
+Lemont,2717,
+Lemoyne,2784,
+Lena,2785,
+Lennox,2786,
+Lenox,2786,
+Leola,2787,
+Leon,2788,
+Leona,2789,
+Leonard,2790,
+Leonidas,2791,
+Leopold,2792,
+Leroy,2793,
+Leslie,2794,
+Lesslie,2794,
+Lester,2780,
+Lesterville,2795,
+Levant,2796,
+Levis,2797,
+Levittown,2798,2
+Lewis,2799,
+Lewisburg,2800,
+Lewiston,2801,3
+Lewistown,2802,
+Lewisville,2803,
+Lexington,2804,7
+Leyden,2805,
+Libby,2806,
+Liberal,2807,
+Liberia,2808,
+Liberty,2809,4
+Liberty Center,2810,
+Liberty Hill,2811,
+Libertyville,2812,
+Lillian,2814,
+Lillie,2815,
+Lilly,2815,
+Lily,2815,
+Lily Lake,2816,
+Lima,2817,
+Lime,2818,
+Lime Ridge,2819,
+Limestone,2820,
+Linch,2821,
+Lincoln,2822,2
+Lincoln City,2823,
+Lincoln Heights,2824,
+Lincoln Park,2825,2
+Lincoln Village,2826,
+Lincolnshire,2827,
+Lincolnton,2828,
+Lincolnville,2829,
+Lind,2830,
+Lindale,2831,
+Linden,2832,
+Lindenhurst,2833,
+Lindon,2832,
+Lindsay,2834,
+Lindsey,2834,
+Lineville,2835,
+Linfield,2836,
+Lingo,2837,
+Linn,2838,
+Linneus,2839,
+Linton,2840,
+Linville,2841,
+Linwood,2842,
+Lipscomb,2843,
+Lisbon,2844,
+Lisle,2845,
+Litchfield,2846,
+Little Falls,2847,2
+Little River,2848,
+Little Rock,2849,
+Little York,2850,
+Littlefield,2851,
+Littlerock,2852,
+Littleton,2853,2
+Littleville,2854,
+Live Oak,2855,
+Livermore,2856,2
+Liverpool,2857,
+Livingston,2858,2
+Livonia,2859,
+Llano,2860,
+Lloyd,2861,
+Loch Lomond,2862,
+Locke,2863,
+Lockhart,2864,
+Lockport,2865,
+Lockport Heights,2866,
+Lockwood,2867,
+Locust,2868,
+Locust Grove,2869,
+Locust Valley,2870,
+Lodi,2871,2
+Logan,2872,2
+Logansport,2873,
+Loganville,2874,
+Lohman,2875,
+Lohrville,2876,
+Loma,2877,
+Loma Linda,2878,
+Loman,2875,
+London,2879,
+Londonderry,2880,
+Lone Oak,2881,
+Lone Rock,2882,
+Lone Star,2883,
+Lone Tree,2884,
+Long Beach,2885,3
+Long Branch,2886,
+Long Creek,2887,
+Long Grove,2888,
+Long Hill,2889,
+Long Island,2890,
+Long Lake,2891,
+Longtown,2892,
+Longview,2893,2
+Longville,2894,
+Longwood,2895,
+Lonsdale,2896,
+Lookout,2897,
+Lookout Mountain,2898,
+Loomis,2899,
+Loop,2900,
+Loope,2900,
+Lorain,2901,
+Loraine,2901,
+Lorane,2902,
+Loretto,2903,
+Loring,2904,
+Lorraine,2901,
+Lorton,2905,
+Los Alamos,2906,
+Los Altos,2907,
+Los Angeles,2908,
+Los Banos,2909,
+Los Ebanos,2910,
+Los Fresnos,2911,
+Lost Creek,2912,
+Lost Nation,2913,
+Lost Springs,2914,
+Lottie,2673,
+Louden,2915,
+Loudon,2915,
+Loudonville,2916,
+Louisa,2917,
+Louisburg,2918,
+Louise,2919,
+Louisiana,2920,
+Louisville,2921,
+Love,2922,
+Loveland,2923,2
+Lovell,2924,
+Lovelock,2925,
+Loveville,2926,
+Loving,2927,
+Low Moor,2928,
+Lowden,2929,
+Lowell,2930,
+Lowman,2875,
+Lowrey,2931,
+Lowry,2931,
+Lowville,2932,
+Loyal,2933,
+Loyall,2933,
+Lubeck,2934,
+Lublin,2935,
+Lucas,2936,
+Lucerne,2937,
+Luckey,2938,
+Lucknow,2939,
+Lucky,2938,
+Ludington,2940,
+Ludlow,2941,
+Lula,2942,
+Luling,2943,
+Lumber City,2944,
+Lumberton,2945,
+Luna,2946,
+Lund,2947,
+Lunenburg,2948,
+Lupton,2949,
+Luray,2950,
+Luther,2951,
+Lutts,2952,
+Lutz,2952,
+Luverne,2953,
+Luxemburg,2955,
+Luxor,2956,
+Luzerne,2957,
+Lyden,2805,
+Lydia,2958,
+Lyle,2959,
+Lyman,2960,
+Lyme,2818,
+Lynch,2821,
+Lynchburg,2961,
+Lynd,2830,
+Lynden,2832,
+Lyndhurst,2962,
+Lyndon,2832,
+Lyndonville,2963,
+Lynn,2838,
+Lynne,2838,
+Lynnfield,2836,
+Lynnville,2964,
+Lynnwood,2965,
+Lynwood,2965,
+Lyon,2966,
+Lyons,2967,
+Lytleville,2854,
+Mabel,2968,
+Mabie,2969,
+MacArthur,2970,
+Macedonia,2971,
+Maceo,2972,
+Machias,2973,
+Mack,2974,
+Mackay,2975,
+Mackenzie,2976,
+Macksburg,2977,
+Macksville,2978,
+Mackville,2979,
+Macomb,2980,
+Macon,2981,
+Macy,2982,
+Madison,2984,5
+Madison Heights,2985,
+Madison Mills,2986,
+Madisonville,2987,
+Madras,2988,
+Madrid,2989,
+Magnet,2990,
+Magnolia,2991,
+Mahnomen,2992,
+Mahomet,2993,
+Maiden,2983,
+Maidstone,2994,
+Maine,2995,
+Maitland,2996,
+Maize,2997,
+Malaga,2998,
+Malcolm,2999,
+Malcom,2999,
+Malden,3000,
+Malmo,3001,
+Malone,3002,
+Malta,3003,
+Malvern,3004,2
+Mammoth,3005,
+Man,3006,
+Manalapan,3007,
+Manassas,3008,
+Manchester,3009,4
+Mandan,3010,
+Mangham,3011,
+Mangum,3011,
+Manhattan,3012,2
+Manhattan Beach,3013,
+Manheim,3014,
+Manila,3015,
+Manilla,3015,
+Manistee,3016,
+Manitou,3017,
+Mankato,3018,
+Manley,3019,
+Manly,3019,
+Manning,3020,
+Mannington,3021,2
+Mannsville,3022,
+Manor,3023,
+Manorville,3024,
+Mansfield,3025,6
+Mansfield Center,3026,
+Manson,3027,
+Manton,3028,
+Mantua,3029,
+Manvel,3030,
+Manville,3031,
+Maple,3033,
+Maple Grove,3034,
+Maple Plain,3035,
+Maple Valley,3036,
+Mapleton,3037,
+Maplewood,3038,2
+Marathon,3039,
+Marble,3040,
+Marble Falls,3041,
+Marblehead,3042,
+Marbury,3043,
+Marcella,3044,
+Marchand,3045,
+Marcus,3046,
+Marengo,3047,
+Marianna,3048,
+Maricopa,3049,
+Marietta,3050,
+Marilla,3051,
+Marion,3052,6
+Marion Center,3053,
+Marion Station,3054,
+Markham,3055,
+Marksville,3056,
+Marlboro,3057,
+Marlborough,3057,
+Marlin,3058,
+Marlow,3059,
+Marlton,3060,
+Marne,3061,
+Marquette,3062,
+Mars Hill,3063,
+Marseilles,3064,
+Marshall,3065,4
+Marshallton,3066,
+Marshalltown,3067,
+Marshallville,3068,
+Marshfield,3069,2
+Marston,3070,
+Martell,3071,
+Martin,3072,
+Martinez,3073,2
+Martinsburg,3074,
+Martinsville,3075,2
+Marvel,3076,
+Marvin,3077,
+Marvyn,3077,
+Marxville,3056,
+Marydel,3078,
+Maryland,3079,
+Marysville,3080,4
+Maryville,3081,2
+Mason,3082,
+Mason City,3083,
+Masontown,3084,
+Masonville,3085,
+Massena,3086,
+Massillon,3087,
+Matamoras,3088,
+Matawan,3089,
+Mather,3090,
+Mathews,3091,
+Matlock,3092,
+Matoaca,3093,
+Matoaka,3093,
+Mattawan,3089,
+Matteson,3094,
+Matthews,3091,
+Mattoon,3095,
+Maud,3096,
+Maurice,3097,
+Max,3098,
+Maxville,2978,
+Maxwell,3099,
+May,3100,
+Mayer,3101,
+Mayetta,3102,
+Mayfield,3103,
+Maynard,3104,
+Mayo,3105,
+Mays,2997,
+Maysville,3106,
+Maytown,3107,
+Mayville,3108,
+Maywood,3109,3
+Mazeppa,3110,
+McAdoo,3111,
+McArthur,2970,
+McBride,3112,
+McCloud,3113,
+McClure,3114,
+McComb,3115,
+McConnell,3116,
+McCook,3117,
+McCormick,3118,
+McCoy,3119,
+McCracken,3120,
+McCrea,3121,
+McCune,3122,
+McDermitt,3123,
+McDermott,3123,
+McDonald,3124,
+McDonough,3125,
+McDowell,3126,
+McEwen,3127,
+McFarland,3128,
+McGrath,3129,
+McGregor,3130,
+McHenry,3131,
+McIntire,3132,
+McIntosh,3133,
+McIntyre,3132,
+McKee,3134,
+McKenzie,2976,
+McKinley,3135,
+McKinnon,3136,
+McKittrick,3137,
+McLain,3138,
+McLean,3139,
+McLeod,3113,
+McLoud,3113,
+McMillan,3140,
+McMinnville,3141,2
+McNab,3142,
+McNabb,3142,
+McNair,3143,
+McNary,3144,
+McNeil,3145,
+McRae,3121,
+McVille,3146,
+Mead,3147,
+Meade,3147,
+Meadow,3148,
+Meadow Lakes,3149,
+Meadowbrook,3150,
+Meadville,3151,
+Mecca,3152,
+Mechanicsburg,3153,
+Mechanicstown,3154,
+Mechanicsville,3155,
+Medary,3156,
+Medford,3157,3
+Medicine Lake,3158,
+Medina,3159,2
+Medora,3160,
+Medway,3161,
+Meeker,3162,
+Megargel,3163,
+Mehlville,3164,
+Melbern,3165,
+Melbourne,3165,
+Mellwood,3166,
+Melrose,3167,
+Melrose Park,3168,
+Melville,3164,
+Melvin,3169,
+Melwood,3166,
+Memphis,3170,2
+Mena,3171,
+Menard,3172,
+Mendon,3173,
+Mendota,3174,
+Mendoza,3175,
+Menifee,3176,
+Menlo,3177,
+Menlo Park,3178,
+Menominee,3179,
+Mentone,3180,
+Mentor,3181,
+Mentz,3182,
+Mercer,3183,
+Mercury,3184,
+Meredith,3185,
+Meriden,3187,
+Meridian,3188,2
+Merion Station,3054,
+Merrill,3189,
+Merrimac,3190,
+Merritt,3191,
+Mesa,3192,
+Mesquite,3193,
+Metamora,3194,
+Metcalfe,3195,
+Metz,3196,
+Mexico,3197,
+Meyer,3198,
+Miami,3199,
+Miami Beach,3200,
+Micco,3201,
+Michigan City,3202,
+Mico,3201,
+Midas,3203,
+Middle Valley,3204,
+Middleburg,3205,
+Middlebury,3206,
+Middlefield,3207,
+Middleport,3208,
+Middlesex,3209,
+Middleton,3210,
+Middletown,3211,5
+Middleville,3212,
+Midland,3213,3
+Midlothian,3214,3
+Midvale,3215,
+Midway,3216,
+Mier,3198,
+Mifflin,3217,
+Milan,3218,
+Milburn,3219,
+Mildred,3220,
+Miles,3221,
+Miles City,3222,
+Milford,3223,3
+Mill City,3224,
+Mill Creek,3225,
+Mill Plain,3226,
+Mill Spring,3227,
+Milladore,3228,
+Millbrook,3229,
+Millburn,3230,
+Millbury,3231,
+Milledgeville,3232,
+Miller,3233,
+Millersburg,3234,
+Millerstown,3235,
+Millersville,3236,
+Millerton,3237,
+Millheim,3238,
+Millican,3239,
+Milligan,3240,
+Milliken,3239,
+Millington,3241,
+Millport,3242,
+Mills,3243,
+Millsboro,3244,
+Millstone,3245,2
+Milltown,3246,
+Millville,3247,
+Millwood,3248,
+Milner,3249,
+Milnor,3249,
+Milo,3250,
+Milroy,3251,
+Milstead,3252,
+Milton,3253,2
+Milwaukee,3254,
+Milwaukie,3254,
+Mina,3171,
+Minden,3255,
+Mineola,3256,
+Miner,3257,
+Mineral,3258,
+Mineral Point,3259,
+Mineral Springs,3260,
+Minersville,3261,
+Minerva,3262,
+Mingo,3263,
+Minneapolis,3264,
+Minneola,3265,
+Minor,3257,
+Minot,3266,
+Minto,3267,
+Minturn,3268,
+Miramar,3269,
+Mission,3270,
+Mission Hills,3271,
+Missouri City,3272,
+Mitchell,3273,
+Mitchellville,3274,
+Mizpah,3275,
+Moccasin,3276,
+Modena,3277,
+Modesto,3278,
+Modoc,3279,
+Moffat,3280,
+Moffett,3281,
+Moffit,3281,
+Mohawk,3282,
+Moline,3283,
+Mona,3284,
+Monaville,3285,
+Moneta,3286,
+Monett,3287,
+Monetta,3286,
+Monitor,3288,
+Monkton,3289,
+Monmouth,3290,
+Monnett,3287,
+Monona,3291,
+Monroe,3292,6
+Monroe City,3293,
+Monroeville,3294,
+Monrovia,3295,
+Monson,3296,
+Montague,3297,
+Montana,3298,
+Montara,3299,
+Montcalm,3300,
+Montclair,3301,2
+Montebello,3302,2
+Montello,3303,
+Monterey,3304,
+Monterey Park,3305,
+Montevallo,3306,
+Montevideo,3307,
+Montezuma,3308,
+Montgomery,3309,2
+Monticello,3310,
+Montour,3311,
+Montpelier,3312,2
+Montreal,3313,
+Montrose,3314,
+Montvale,3315,
+Montville,3316,
+Monument,3317,
+Moody,3318,
+Moon Lake,3319,
+Moore,3320,
+Moorefield,3321,
+Mooreland,3322,
+Moores Mill,3323,
+Mooresville,3324,
+Mooreville,3325,
+Moorhead,3326,
+Moorland,3327,
+Mora,3328,
+Moran,3329,
+Moravia,3330,
+Morehouse,3331,
+Moreland,3332,
+Morenci,3333,
+Morgan,3334,
+Morgan City,3335,
+Morgan Hill,3336,
+Morganton,3337,
+Morgantown,3338,
+Morganville,3339,
+Morganza,3340,
+Morland,3332,
+Morley,3341,
+Morning Sun,3342,
+Morningside,3343,
+Moro,3344,
+Morocco,3345,
+Moroni,3346,
+Morrill,3347,
+Morris,3348,4
+Morrison,3349,
+Morrisonville,3350,
+Morristown,3351,2
+Morrisville,3352,
+Morrow,3353,
+Morse,3354,
+Morton,3355,
+Morven,3356,
+Mosby,3357,
+Moscow,3358,
+Mosel,3359,
+Mossville,3360,
+Motley,3361,
+Moulton,3362,
+Mound,3363,
+Mound City,3364,
+Mounds,3365,
+Moundville,3366,
+Mount Aetna,3367,
+Mount Airy,3368,
+Mount Auburn,3369,
+Mount Ayr,3370,
+Mount Carbon,3371,
+Mount Carmel,3372,2
+Mount Etna,3367,
+Mount Gilead,3373,
+Mount Healthy,3374,
+Mount Hermon,3375,
+Mount Holly,3376,
+Mount Hope,3377,
+Mount Ida,3378,
+Mount Jackson,3379,
+Mount Morris,3380,
+Mount Olive,3381,
+Mount Pleasant,3382,2
+Mount Sterling,3383,
+Mount Tabor,3384,
+Mount Union,3385,
+Mount Vernon,3386,5
+Mount Washington,3387,
+Mount Zion,3388,
+Mountain,3389,
+Mountain City,3390,
+Mountain Dale,3391,
+Mountain Home,3392,
+Mountain House,3393,
+Mountain Lake,3394,
+Mountain Lakes,3395,
+Mountain Park,3396,
+Mountain View,3397,
+Mountain Village,3398,
+Mountainair,3399,
+Mountainaire,3399,
+Mountville,3400,
+Muddy,3401,
+Muir,3402,
+Mulberry,3403,
+Mullan,3404,
+Mullen,3404,
+Mumford,3405,
+Muncie,3406,
+Muncy,3406,
+Munford,3407,
+Munger,3408,
+Munich,3409,
+Munster,3410,
+Murdock,3411,
+Murfreesboro,3412,
+Murphy,3413,
+Murray,3414,2
+Murray Hill,3415,
+Murry,3414,
+Muse,3416,
+Mustang,3417,
+Mutual,3418,
+Mylo,3250,
+Myrtle,3419,
+Myrtle Grove,3420,
+Mystic,3421,
+Nada,3422,
+Namur,3423,
+Nancy,3424,
+Nanticoke,3425,
+Naomi,3426,
+Napa,2620,
+Napanee,3427,
+Naples,3428,
+Napoleon,3429,
+Nappanee,3427,
+Narrows,3430,
+Nash,3431,
+Nashua,3432,
+Nashville,3433,2
+Nassau,3434,
+Natchez,3435,
+Natural Bridge,3436,
+Nauvoo,3437,
+Navarre,3438,
+Navarro,3439,
+Naylor,3440,
+Nazareth,3441,
+Neal,3442,
+Nebo,3443,
+Nederland,3444,
+Needham,3445,
+Needmore,3446,
+Neel,3442,
+Neffs,3447,
+Negley,3448,
+Nelson,3449,
+Nelsonville,3450,
+Nemaha,3451,
+Nemo,3452,
+Neola,3453,
+Neosho,3454,
+Neptune,3455,
+Nevada,3456,
+New Albany,3457,2
+New Alexandria,3458,
+New Auburn,3459,
+New Baden,3460,
+New Baltimore,3461,
+New Bedford,3462,
+New Berlin,3463,
+New Boston,3464,
+New Bremen,3465,
+New Brighton,3466,
+New Britain,3467,
+New Cambria,3468,
+New Canton,3469,
+New Carlisle,3470,
+New Cassel,3471,
+New Castle,3471,3
+New City,3472,
+New Columbus,3473,
+New Concord,3474,
+New Cumberland,3475,
+New Deal,3476,
+New Durham,3477,
+New Florence,3478,
+New Franklin,3479,
+New Hampshire,3480,
+New Hampton,3481,
+New Hanover,3482,
+New Harmony,3483,
+New Hartford,3484,
+New Haven,3485,
+New Holland,3486,
+New Hope,3487,
+New Lebanon,3488,
+New Lexington,3489,
+New Liberty,3490,
+New Lisbon,3491,
+New London,3492,3
+New Market,3493,
+New Middletown,3494,
+New Milford,3495,2
+New Paris,3496,
+New Philadelphia,3497,
+New Pine Creek,3498,
+New Plymouth,3499,
+New Providence,3500,
+New Richmond,3501,
+New River,3502,
+New Salem,3503,
+New Sharon,3504,
+New Site,3505,
+New Sweden,3506,
+New Town,3507,
+New Ulm,3508,
+New Union,3509,
+New Vienna,3510,
+New Washington,3511,
+New Windsor,3512,
+New York,3513,
+New York Mills,3514,
+Newark,3515,5
+Newberg,3516,
+Newbern,3517,
+Newberry,3518,
+Newburg,3516,
+Newburgh,3516,2
+Newbury,3518,
+Newcastle,3519,
+Newcomb,3520,
+Newell,3521,
+Newfane,3522,
+Newfield,3523,
+Newfoundland,3524,
+Newington,3525,
+Newkirk,3526,
+Newport,3527,3
+Newry,3528,
+Newton,3529,3
+Newtown,3530,
+Newville,3531,
+Niagara,3532,
+Niagara Falls,3533,
+Nice,3534,
+Nicholls,3535,
+Nichols,3535,
+Nicholson,3536,
+Nickerson,3537,
+Nile,3538,
+Niles,3539,3
+Nimrod,3540,
+Nineveh,3541,
+Niota,3542,
+Nixon,3543,
+Noble,2622,
+Nocatee,3544,
+Nogales,3545,
+Nokomis,3546,
+Nome,3547,
+Nora,3548,
+Norco,3549,
+Norcross,3550,
+Norden,3551,
+Norfolk,3552,2
+Norge,3553,
+Normal,3554,
+Norman,3555,
+Normandy,3556,
+Normandy Park,3557,
+Norrie,3558,
+Norris,3559,
+North Adams,3560,
+North Bend,3561,2
+North Bloomfield,3562,
+North Branch,3563,
+North East,3564,
+North Fork,3565,
+North Hampton,3566,
+North Haven,3567,
+North Hills,3568,
+North Hudson,3569,
+North Liberty,3570,
+North Miami,3571,
+North Middletown,3572,
+North Salem,3573,
+North Shore,3574,
+North Springfield,3575,
+North Star,3576,
+North Washington,3577,
+Northampton,3578,
+Northbrook,3579,
+Northcote,3580,
+Northfield,3581,3
+Northgate,3582,
+Northlake,3583,
+Northport,3584,3
+Northridge,3585,
+Northumberland,3586,
+Northview,3587,
+Northville,3588,
+Northwood,3589,
+Norton,3590,
+Nortonville,3591,
+Norwalk,3592,2
+Norway,3593,
+Norwich,3594,2
+Norwood,3595,3
+Nottingham,3596,
+Nunda,3597,
+Nuremberg,3598,
+O'Brien,3599,
+O'Fallon,3600,2
+O'Kean,3601,
+Oak City,3602,
+Oak Creek,3603,
+Oak Forest,3604,
+Oak Grove,3605,
+Oak Harbor,3606,
+Oak Hill,3607,
+Oak Hills,3608,
+Oak Island,3609,
+Oak Park,3610,3
+Oak Point,3611,
+Oak Ridge,3612,
+Oak Run,3613,
+Oak Valley,3614,
+Oakdale,3615,
+Oakes,3616,
+Oakfield,3617,
+Oakford,3618,
+Oakhurst,3619,
+Oakland,3620,2
+Oakley,3621,2
+Oaks,3616,
+Oakville,3622,2
+Oakwood,3623,
+Oasis,3624,
+Oberlin,3625,
+Ocean,3626,
+Ocean City,3627,2
+Ocean Grove,3628,
+Ocean View,3629,
+Oceanside,3630,2
+Ocoee,3631,
+Oconee,3632,
+Oconto,3633,
+Odell,3634,
+Oden,3635,
+Odessa,3636,
+Odin,3635,
+Ogden,3637,
+Ogdensburg,3638,2
+Ogema,3639,
+Oglesby,3640,
+Ohio,3641,
+Ohio City,3642,
+Oil City,3643,
+Oilton,3644,
+Okeene,3601,
+Oklahoma,3645,
+Okolona,3646,
+Ola,3647,
+Olathe,3648,
+Old Forge,3649,
+Old Fort,3650,
+Old Town,3651,
+Old Washington,3652,
+Oldenburg,3653,
+Oldfield,3654,
+Oldtown,3655,
+Olean,3656,
+Olin,3657,
+Olinda,3658,
+Olive,3659,
+Olive Branch,3660,
+Oliver,3661,
+Olivet,3662,
+Olivia,3663,
+Oljato-Monument Valley,3664,
+Olney,3665,
+Olustee,3666,
+Olympia,3667,
+Omaha,3668,
+Onalaska,3669,
+Onaway,3670,
+Oneco,3671,
+Oneida,3672,
+Oneonta,3673,
+Ono,3674,
+Onondaga,3675,
+Ontario,3676,2
+Onward,3677,
+Opal,3678,
+Opelika,3679,
+Ophir,3680,
+Ora,0219,
+Oral,3681,
+Oran,3682,
+Orange,3683,4
+Orange City,3684,
+Orange Lake,3685,
+Orangeburg,3686,
+Orangeville,3687,
+Orchard,3688,
+Oregon,3689,
+Orick,3690,
+Orient,3691,
+Orin,3692,
+Orion,3693,
+Oriskany,3694,
+Orland,3695,
+Orlando,3696,
+Orleans,3697,
+Orono,3698,
+Oronoque,3699,
+Oroville,3700,
+Orrick,3690,
+Orrin,3692,
+Orrville,3701,
+Orwell,3702,
+Osage,3703,
+Osborn,3705,
+Osborne,3705,
+Oscar,3706,
+Osceola,3707,
+Osgood,3708,
+Oshkosh,3709,
+Oskaloosa,3710,
+Oslo,3711,
+Osmond,3712,
+Osseo,3713,
+Ossian,3714,
+Ossipee,3715,
+Ostrander,3716,
+Oswego,3717,3
+Othello,3718,
+Otis,3719,
+Otisville,3720,
+Otsego,3721,
+Ottawa,3722,
+Otter Creek,3723,
+Otterville,3724,
+Otto,3725,
+Otway,3726,
+Oulu,3727,
+Ouray,3728,
+Outlook,3729,
+Overbrook,3730,
+Overland,3731,
+Overton,3732,
+Ovid,3733,
+Oviedo,3734,
+Ovilla,0228,
+Owasco,3735,
+Owens,3736,
+Owensville,3737,
+Owl Creek,3738,
+Owyhee,3739,
+Oxbow,3740,
+Oxford,3741,2
+Ozan,3704,
+Ozark,3742,
+Ozone,3743,
+Pace,3744,
+Pacific,3745,
+Packwood,3746,
+Paden,3747,
+Paducah,3748,
+Page,3749,
+Paige,3749,
+Paint Creek,3750,
+Paint Rock,3751,
+Paisley,3752,
+Palace,3753,
+Palatine,3754,
+Palermo,3755,
+Palestine,3756,
+Palisade,3757,
+Palisades,3758,
+Palm Harbor,3759,
+Palm Springs,3760,2
+Palm Valley,3761,
+Palmdale,3762,
+Palmer,3763,
+Palmetto,3764,
+Palmyra,3765,2
+Palo,3766,
+Palo Alto,3767,
+Paloma,3768,
+Palouse,3753,
+Panama,3769,
+Panama City,3770,
+Pandora,3771,
+Panola,3772,
+Pantego,3773,
+Paoli,3774,
+Paradise,3775,2
+Paradise Valley,3776,
+Parc,3777,
+Parchman,3778,
+Paris,3779,2
+Park,3777,
+Park City,3780,
+Park Hills,3781,
+Park Ridge,3782,2
+Parkdale,3783,
+Parker,3784,
+Parkersburg,3785,
+Parkland,3786,2
+Parkman,3778,
+Parks,3787,
+Parksville,3788,
+Parkton,3789,
+Parkville,3790,
+Parkway,3791,
+Parkwood,3792,
+Parlin,3793,
+Parma,3794,
+Parnell,3795,
+Parral,3796,
+Parrish,3797,
+Parrott,3798,
+Parshall,3799,
+Parsons,3800,
+Pasadena,3801,3
+Pasadena Hills,3802,
+Passaic,3803,
+Paterson,3804,
+Pates,3805,
+Paton,3806,
+Patriot,3807,
+Patten,3806,
+Patterson,3804,
+Pattison,3808,
+Patton,3806,
+Patton Village,3809,
+Paulina,3810,
+Pauline,3811,
+Pavilion,3812,
+Pavillion,3812,
+Paw Paw,3813,
+Pawnee,3814,
+Paxton,3815,
+Payne,3816,
+Paynesville,3817,
+Payson,3818,2
+Paytes,3805,
+Pea Ridge,3819,
+Peabody,3820,2
+Pearl,3821,
+Pearl River,3822,
+Pearson,3823,
+Peck,3824,
+Peebles,3825,
+Peel,3826,
+Pekin,3827,
+Pelham,3828,
+Pelican,3829,
+Pelican Bay,3830,
+Pella,3831,
+Pemberton,3832,
+Pembroke,3833,
+Pence,3834,
+Pendleton,3835,2
+Penfield,3836,
+Penn,3837,
+Penn Valley,3838,
+Pennington,3839,
+Pennsboro,3840,
+Pennville,3841,
+Penryn,3842,
+Pensacola,3843,
+Penwell,3844,
+Peoria,3845,2
+Perham,3846,
+Perkins,3847,
+Perry,3848,
+Perry Park,3849,
+Perrysburg,3850,
+Perrysville,3851,
+Perryville,3852,
+Pershing,3853,
+Persia,3854,
+Perth,3855,
+Peru,3856,
+Peterborough,3857,
+Peters,3858,
+Petersburg,3859,2
+Peterson,3860,
+Petersville,3861,
+Petrolia,3862,
+Peyton,3863,
+Phalanx,3864,
+Phelps,3865,
+Phenix,3866,
+Philadelphia,3867,
+Philipsburg,3868,
+Philipstown,3869,
+Phillips,3870,
+Phillipsburg,3868,
+Phillipstown,3869,
+Philo,3871,
+Philomath,3872,
+Phippsburg,3873,
+Phoenix,3874,
+Picacho,3875,
+Pickens,3876,
+Pickett,3877,
+Picture Rocks,3878,
+Piedmont,3879,2
+Piedra,3880,
+Piehl,3826,
+Pierce,3881,
+Pierceville,3882,
+Piermont,3883,
+Pierpont,3884,
+Pierson,3823,
+Pigeon,3885,
+Pike,3886,
+Pikeville,3887,
+Pilgrim,3888,
+Pilot Grove,3889,
+Pilot Point,3890,
+Pilsen,3891,
+Pinckney,3892,
+Pinckneyville,3893,
+Pine,3894,
+Pine Creek,3895,
+Pine Flat,3896,
+Pine Grove,3897,
+Pine Hill,3898,
+Pine Hills,3899,
+Pine Island,3900,
+Pine Lake,3901,
+Pine Level,3902,
+Pine Mountain,3903,
+Pine Ridge,3904,
+Pine River,3905,
+Pine Springs,3906,
+Pine Valley,3907,
+Pinecrest,3908,
+Pinedale,3909,
+Pinehurst,3910,
+Pineland,3911,
+Pineola,3912,
+Pineville,3913,
+Pinewood,3914,
+Piney,3915,
+Pink Hill,3916,
+Pinon,3917,
+Pinson,3918,
+Pioneer,3919,
+Piper,3920,
+Piqua,3921,
+Piscataway,3922,
+Pisgah,3923,
+Pitcairn,3924,
+Pitkin,3925,
+Pitman,3926,
+Pittman,3926,
+Pittsboro,3927,2
+Pittsburg,3928,2
+Pittsburgh,3928,
+Pittsfield,3929,2
+Pittsford,3930,
+Pittston,3931,
+Pittstown,3932,
+Pittsville,3933,
+Piñon,3917,
+Placerville,3934,
+Placitas,3935,
+Plain City,3936,
+Plainfield,3937,3
+Plains,3938,
+Plainview,3939,
+Plainville,3940,
+Plano,3941,
+Plantation,3942,
+Plantersville,3943,
+Plato,3944,
+Platteville,3945,
+Plattsburg,3946,
+Plattsburgh,3946,
+Pleasant Grove,3947,
+Pleasant Hill,3948,
+Pleasant Hills,3949,
+Pleasant Plain,3950,
+Pleasant Plains,3951,
+Pleasant Ridge,3952,
+Pleasant Valley,3953,
+Pleasant View,3954,
+Pleasanton,3955,
+Pleasantville,3956,2
+Pleasureville,3957,
+Plevna,3958,
+Plover,3959,
+Plum,3960,
+Plummer,3961,
+Pluto,3962,
+Plymouth,3963,4
+Pocahontas,3965,
+Pocasset,3966,
+Poe,3964,
+Point,3967,
+Point Baker,3968,
+Point Lookout,3969,
+Point Pleasant,3971,2
+Point of Rocks,3970,
+Poland,3972,
+Polaris,3973,
+Polk,3974,
+Polk City,3975,
+Polkville,3976,
+Pollard,3977,
+Pollock,3978,
+Pollok,3978,
+Polo,3979,
+Pomeroy,3980,
+Pomfret,3981,
+Pomona,3982,
+Ponca,3983,
+Ponce de Leon,3984,
+Ponderosa,3985,
+Pontiac,3986,
+Pontotoc,3987,
+Poole,3988,
+Poplar,3989,
+Poplar Springs,3990,
+Porcupine,3991,
+Port Byron,3992,
+Port Clinton,3993,
+Port Elizabeth,3994,
+Port Gibson,3995,
+Port Jefferson,3996,
+Port Republic,3997,
+Port Royal,3998,
+Port Washington,3999,2
+Portage,4000,3
+Portal,4001,
+Porter,4002,
+Porterville,4003,
+Portland,4004,3
+Portsmouth,4005,3
+Posey,4006,
+Possum Trot,4007,
+Post,4008,
+Poston,4009,
+Potlatch,4010,
+Potomac,4011,
+Potosi,4012,
+Potsdam,4013,
+Potter,4014,
+Pottersville,4015,
+Pottsville,4016,
+Poughkeepsie,4017,
+Pound,4018,
+Powderly,4019,
+Powell,4020,
+Powellville,4021,
+Powers,4022,
+Powers Lake,4023,
+Powersville,4024,
+Powhatan,4025,
+Pownal,4026,
+Prague,4027,
+Prairie City,4028,
+Prairie Creek,4029,
+Prairie Grove,4030,
+Prairie Hill,4031,
+Prairie View,4032,
+Prairieville,4033,
+Pratt,4034,
+Prattsville,4035,
+Prattville,4036,
+Pray,4037,
+Prentice,4038,
+Prentiss,4038,
+Prescott,4039,2
+Presque Isle,4040,
+Preston,4041,2
+Pretoria,4042,
+Price,4043,
+Prichard,4044,
+Pride,4045,
+Primrose,4046,
+Princeton,4047,6
+Princeville,4048,
+Pringle,4049,
+Proctor,4050,
+Proctorville,4051,
+Progress,4052,
+Prospect,4053,
+Prospect Park,4054,
+Prosper,4055,
+Prosperity,4056,
+Prosser,4057,
+Providence,4058,2
+Pulaski,4059,
+Pullman,4060,
+Pumpkin Center,4061,
+Punkin Center,4062,
+Purcell,4063,
+Purdy,4064,
+Purley,4065,
+Purvis,4066,
+Putnam,4067,
+Putney,4068,
+Pyrmont,4069,
+Quakertown,4070,
+Quantico,4071,
+Quarry,4072,
+Quarryville,4073,
+Quay,4074,
+Queen Anne,4075,
+Queen City,4076,
+Queenstown,4077,
+Quemado,4078,
+Quick,4079,
+Quinby,4080,
+Quincy,4081,3
+Quinton,4082,
+Quitman,4083,
+Quito,4084,
+Raceland,4085,
+Rachel,4086,
+Racine,4087,
+Radcliff,4088,
+Radcliffe,4088,
+Radisson,4089,
+Radium,4090,
+Radium Springs,4091,
+Radnor,4092,
+Radom,4093,
+Ragan,4094,
+Rainbow,4095,
+Rainbow City,4096,
+Rainier,4097,
+Rainsville,4098,
+Raleigh,4099,
+Ralston,4100,
+Ramah,4101,
+Ramblewood,4102,
+Ramer,4103,
+Ramona,4104,
+Rampart,4105,
+Ramsey,4106,
+Rancho Viejo,4107,
+Rand,4108,
+Randall,4109,
+Randle,4109,
+Randlett,4110,
+Randolph,4111,2
+Ranger,4112,
+Rankin,4113,
+Ransom,4114,
+Rantoul,4115,
+Rapid City,4116,
+Raritan,4117,2
+Ratcliff,4118,
+Raven Rock,4119,
+Ravenna,4120,
+Rawlings,4121,
+Rawson,4122,
+Ray,4123,
+Raymer,4103,
+Raymond,4124,
+Raymondville,4125,
+Raynham,4126,
+Raytown,4127,
+Rayville,4128,
+Reader,4129,
+Readfield,4130,
+Reading,4131,2
+Reagan,4094,
+Red Bank,4132,
+Red Bud,4133,
+Red Cliff,4134,
+Red Creek,4135,
+Red Hill,4136,
+Red House,4137,
+Red Lake,4138,
+Red Lick,4139,
+Red Lion,4140,
+Red Oak,4141,
+Red River,4142,
+Red Rock,4143,
+Red Springs,4144,
+Reddick,4145,
+Redding,4131,2
+Redfield,4146,
+Redford,4147,
+Redland,4148,
+Redlands,4149,
+Redmond,4150,2
+Redstone,4151,
+Redwater,4152,
+Redwood,4153,
+Reed,4154,
+Reedsville,4155,
+Reedville,4156,
+Reese,4157,
+Regina,4158,
+Rehoboth,4159,
+Reid,4154,
+Reidsville,4155,
+Reidville,4156,
+Reightown,4127,
+Reliance,4160,
+Relief,4161,
+Remington,4162,
+Remsen,4163,
+Reno,4165,
+Rensselaer,4166,
+Reo,4167,
+Republic,4168,
+Resaca,4169,
+Rescue,4170,
+Reserve,4171,
+Rest Haven,4172,
+Retreat,4173,
+Reva,4174,
+Revere,4175,
+Rex,4176,
+Rexford,4177,
+Reyno,4165,
+Reynolds,4178,
+Rhine,4179,
+Rhineland,4180,
+Rhodes,4181,
+Rhome,4182,
+Ricardo,4183,
+Rice,4184,
+Rice Lake,4185,
+Riceville,4186,
+Richards,4187,
+Richardson,4188,
+Richburg,4189,
+Richey,4190,
+Richfield,4191,2
+Richford,4192,
+Richland,4193,
+Richlands,4194,
+Richmond,4195,4
+Richmond Heights,4196,
+Richmond Hill,4197,
+Richville,4198,
+Richwood,4199,2
+Riddle,4200,
+Riderwood,4201,
+Ridge,4202,
+Ridgecrest,4203,
+Ridgefield,4204,2
+Ridgeland,4205,
+Ridgely,4206,
+Ridgeville,4207,
+Ridgeway,4208,
+Ridgewood,4209,
+Ridgway,4208,
+Riegelsville,4210,
+Riga,4211,
+Riley,4212,
+Rimini,4213,
+Rinard,4214,
+Rincon,4215,
+Ringgold,4216,
+Ringling,4217,
+Ringwood,4218,
+Rio,4167,
+Rio Dell,4219,
+Rio Grande,4220,
+Rio Verde,4221,
+Rio Vista,4222,
+Ripley,4223,
+Ripon,4224,
+Rippon,4224,
+Rising Sun,4225,
+Rison,4226,
+Ritchey,4190,
+Ritchie,4190,
+River Bend,4227,
+River Falls,4228,
+River Forest,4229,
+River Junction,4230,
+River Ranch,4231,
+River Ridge,4232,
+River Road,4233,
+Riverbend,4234,
+Riverdale,4235,
+Riverdale Park,4236,
+Riverside,4237,2
+Riverton,4238,2
+Riverview,4239,
+Rives,4240,
+Riviera Beach,4241,
+Roads,4181,
+Roanoke,4242,
+Robbins,4243,
+Robbinsville,4244,
+Roberts,4245,
+Robertsdale,4246,
+Robertsville,4247,
+Robinson,4248,
+Rochelle,4249,
+Rochester,4250,4
+Rock,4251,
+Rock Creek,4252,
+Rock Falls,4253,
+Rock Hill,4254,2
+Rock Island,4255,
+Rock Point,4256,
+Rock Springs,4257,
+Rockaway Beach,4258,
+Rockbridge,4259,
+Rockdale,4260,
+Rockfield,4261,
+Rockfish,4262,
+Rockford,4263,
+Rockingham,4264,
+Rockland,4265,2
+Rockledge,4266,
+Rockport,4267,2
+Rockvale,4268,
+Rockville,4269,
+Rockwell,4270,
+Rockwood,4271,
+Rocky Creek,4272,
+Rocky Ford,4273,
+Rocky Hill,4274,
+Rocky Mount,4275,2
+Rocky Point,4276,
+Rocky Ridge,4277,
+Rodeo,4278,
+Rodman,4279,
+Roe,4280,
+Rogers,4281,
+Rogersville,4282,2
+Roland,4283,
+Roll,4284,
+Rolla,4285,
+Rolling Hills,4286,
+Rollingwood,4287,
+Rollins,4288,
+Romance,4289,
+Romancoke,4290,
+Rome,4182,2
+Romeo,4291,
+Romney,4292,
+Romulus,4293,
+Roosevelt,4294,
+Rosamond,4295,
+Roscoe,4297,
+Rose,4298,
+Rose City,4299,
+Rose Hill,4300,
+Rosebud,4301,
+Rosedale,4302,
+Roseland,4303,
+Roselle,4304,
+Rosemont,4305,
+Rosemount,4306,
+Rosendale,4307,
+Roseville,4308,3
+Rosewood,4309,
+Rosholt,4310,
+Roslyn,4311,
+Ross,4312,
+Rossie,4313,
+Rossmoor,4314,
+Rosston,4315,
+Rossville,4316,
+Roswell,4317,2
+Rotterdam,4318,
+Rough and Ready,4319,
+Round Hill,4320,
+Round Lake,4321,
+Round Mountain,4322,
+Round Rock,4323,
+Round Top,4324,
+Round Valley,4325,
+Roundup,4326,
+Rowe,4280,
+Rowena,4327,
+Rowland,4283,
+Rowley,4328,
+Roxana,4329,
+Roxbury,4330,2
+Roy,4331,
+Royal,4332,
+Royalton,4333,
+Rozel,4304,
+Ruby,4334,
+Rucker,4335,
+Ruckersville,4336,
+Rudolph,4337,
+Rudyard,4338,
+Rugby,4339,
+Rumford,4340,
+Rumsey,4341,
+Rupert,4342,
+Rush,4343,
+Rushford,4344,
+Rushville,4345,
+Rusk,4346,
+Ruskin,4347,
+Russell,4348,
+Russellville,4349,
+Russia,4350,
+Ruston,4351,
+Ruth,4352,
+Rutherford,4353,
+Rutland,4354,
+Rutledge,4355,
+Ryan,4356,
+Rydal,4357,
+Ryderwood,4201,
+Rye,4358,
+Ryegate,4359,
+Sabin,4360,
+Sabina,4361,
+Saco,4362,
+Sacramento,4363,
+Sacred Heart,4364,
+Saddlebrooke,4365,
+Sage,4366,
+Saginaw,4367,
+Saint Anthony,4368,
+Saint Benedict,4369,
+Saint George,4370,
+Saint Helens,4371,
+Saint Joseph,4372,
+Saint Louis,4373,
+Saint Michael,4374,
+Saks,4377,
+Salado,4378,
+Salamanca,4379,
+Salem,4381,7
+Salem Heights,4382,
+Salesville,4383,
+Salida,4384,
+Salina,0857,2
+Saline,4385,
+Salisbury,4386,2
+Salix,4387,
+Salmon,4388,
+Salmon Creek,4389,
+Salt Creek,4390,
+Saltillo,4391,
+Saluda,4393,
+Samaria,4394,
+Samoa,4395,
+Sampson,4396,
+Samson,4397,
+San Antonio,4398,
+San Benito,4399,
+San Carlos,4400,
+San Cristobal,4401,
+San Diego,4402,
+San Felipe,4403,
+San Fernando,4404,
+San Jose,4405,
+San Juan,4406,
+San Lorenzo,4407,
+San Luis,4408,
+San Marcos,4409,2
+San Marino,4410,
+San Martin,4411,
+San Mateo,4412,
+San Miguel,4413,
+San Pablo,4414,
+San Patricio,4415,
+San Pedro,4416,
+San Rafael,4417,
+San Ysidro,4418,
+Sanborn,4419,
+Sand Hill,4420,
+Sand Lake,4421,
+Sand Point,4422,
+Sand Ridge,4423,
+Sand Springs,4424,
+Sanders,4425,
+Sandersville,4426,
+Sandstone,4427,
+Sandusky,4428,
+Sandwich,4429,
+Sandy,4430,
+Sandy Creek,4431,
+Sandy Hook,4432,
+Sandy Lake,4433,
+Sandy Ridge,4434,
+Sandy Springs,4435,
+Sandy Valley,4436,
+Sandyville,4437,
+Sanford,4438,3
+Sanger,4439,
+Sans Souci,4440,
+Santa Ana,4441,
+Santa Clara,4442,
+Santa Claus,4443,
+Santa Cruz,4444,
+Santa Fe,4445,
+Santa Maria,4446,
+Santa Monica,4447,
+Santa Rosa,4449,
+Santee,4450,
+Santiago,4451,
+Sarah,4452,
+Saranac,4453,
+Saratoga,4454,
+Saratoga Springs,4455,2
+Sardinia,4456,
+Sardis,4457,
+Sargeant,4458,
+Sargent,4458,
+Satsuma,4459,
+Saugatuck,4460,
+Saugus,4461,
+Savage,4462,
+Savanna,4463,
+Savannah,4463,
+Savoy,4464,
+Sawyer,4465,
+Sawyerville,4466,
+Sax,4377,
+Saxman,4467,
+Saxon,4468,
+Sayre,4469,
+Scenic,4470,
+Schleswig,4471,
+Schley,4472,
+Schubert,4473,
+Schuyler,4474,
+Scio,4475,
+Scipio,4476,
+Scircleville,0963,
+Scituate,4477,
+Scofield,4478,
+Scotia,4479,
+Scotland,4480,
+Scott,4481,
+Scott City,4482,
+Scottdale,4483,
+Scottsburg,4484,
+Scottsville,4485,
+Scottville,4486,
+Scranton,4487,
+Sea Breeze,4488,
+Sea Cliff,4489,
+Seabeck,4490,
+Seabrook,4491,2
+Seaford,4492,
+Sealy,4493,
+Seaside,4494,
+Seaton,4495,
+Seaview,4496,
+Sebastian,4497,
+Sebastopol,4498,
+Sebec,4490,
+Sebring,4499,
+Sedalia,4500,
+Sedan,4501,
+Sedgwick,4502,
+Seeley,4493,
+Seguin,4503,
+Selby,4504,
+Selden,4505,
+Seligman,4506,2
+Sells,4507,
+Selma,4508,
+Selz,4507,
+Seminole,4509,
+Seneca,4510,
+Seney,4511,
+Sevastopol,4512,
+Seven Hills,4513,
+Seven Mile,4514,
+Seven Oaks,4515,
+Seven Springs,4516,
+Severance,4517,
+Severn,4518,
+Seville,4519,
+Seward,4520,
+Seymour,4521,
+Shady Grove,4522,
+Shafter,4523,
+Shamrock,4524,
+Shandon,4525,
+Shanghai,4526,
+Shannon,4527,
+Sharon,4528,
+Sharpsburg,4529,
+Sharpsville,4530,
+Shaw,4531,
+Shawnee,4532,2
+Shawnee Hills,4533,
+Shawneetown,4534,
+Sheffield,4535,
+Shelburn,4536,
+Shelburne,4536,
+Shelby,4537,
+Shelbyville,4538,
+Sheldon,4539,
+Shell Point,4540,
+Shelton,4541,
+Shenandoah,4542,
+Shepherd,4543,
+Sherard,4544,
+Sherburn,4545,
+Sherburne,4545,
+Sheridan,4546,5
+Sherman,4547,
+Sherrard,4544,
+Sherrill,4548,
+Sherwood,4549,
+Sherwood Forest,4550,
+Sherwood Shores,4551,
+Shields,4552,
+Shiloh,4553,
+Shipman,4554,
+Shirley,4555,
+Shively,4556,
+Shoals,4557,
+Sholes,4557,
+Shoreham,4558,
+Shorewood,4559,
+Shoshone,4560,
+Shrewsbury,4561,2
+Shubert,4473,
+Shumway,4562,
+Sibley,4563,
+Sidney,4564,
+Sidon,4565,
+Sigel,4566,
+Sikeston,4567,
+Silex,4568,
+Siloam,4569,
+Siloam Springs,4570,
+Silva,4571,
+Silver City,4572,
+Silver Cliff,4573,
+Silver Creek,4574,
+Silver Lake,4575,
+Silver Spring,4576,
+Silver Springs,4577,
+Silverdale,4578,
+Silverton,4579,3
+Simms,4580,
+Simpson,4581,
+Simpsonville,4582,
+Sims,4580,
+Sinclair,4583,
+Sinking Spring,4584,
+Sitka,4585,
+Sixes,4586,
+Skidmore,4587,
+Sky Valley,4588,
+Skyline,4589,
+Slater,4590,
+Slayden,4591,
+Sleepy Hollow,4592,
+Sligo,4593,
+Sloan,4594,
+Slocomb,4595,
+Slocum,4595,
+Smith Corner,4596,
+Smithfield,4597,
+Smithland,4598,
+Smithton,4599,
+Smithtown,4600,
+Smithville,4601,
+Smoke Rise,4602,
+Smyrna,4603,2
+Snelling,4604,
+Snow Hill,4605,
+Snowshoe,4606,
+Snowville,4607,
+Snyder,4608,
+Snydertown,4609,
+Sobieski,4610,
+Society Hill,4611,
+Socorro,4612,2
+Soda Springs,4613,
+Sodus,4614,
+Sofia,4615,
+Soldier,4616,
+Soledad,4617,
+Solomon,4618,
+Solon,4619,
+Solway,4620,
+Somers,4621,
+Somerset,4622,2
+Somerville,4623,2
+Sonora,4624,
+Sophia,4615,
+Sorrento,4625,
+South Bend,4626,
+South Bristol,4627,
+South Charleston,4628,
+South Dennis,4629,
+South Fork,4630,
+South Fulton,4631,
+South Haven,4632,
+South Hill,4633,
+South Lancaster,4634,
+South Lebanon,4635,
+South Pasadena,4636,
+South Point,4637,
+South Range,4638,
+South Shore,4639,
+South Union,4640,
+South Valley,4641,
+South Windham,4642,
+South Woodstock,4643,
+Southampton,4644,2
+Southbridge,4645,
+Southgate,4646,
+Southington,4647,
+Southmont,4648,
+Southport,4649,
+Southside,4650,
+Spalding,4651,
+Spanish Fort,4652,
+Sparks,4653,
+Sparta,4654,
+Spartanburg,4655,
+Spaulding,4651,
+Speed,4656,
+Spencer,4657,2
+Spencerville,4658,
+Sperry,4659,
+Spirit Lake,4660,
+Spofford,4661,
+Spokane,4662,
+Sprague,4663,
+Spring City,4664,
+Spring Creek,4665,
+Spring Garden,4666,
+Spring Grove,4667,
+Spring Hill,4668,2
+Spring Lake,4669,
+Spring Mill,4670,
+Spring Ridge,4671,
+Spring Valley,4672,3
+Springboro,4673,
+Springbrook,4674,
+Springdale,4675,
+Springer,4676,
+Springfield,4677,8
+Springhill,4678,
+Springport,4679,
+Springs,4680,
+Springtown,4681,
+Springvale,4682,
+Springville,4683,
+Springwater,4684,
+Spruce,4685,
+Spurgeon,4686,
+St. Albans,4687,
+St. Anthony,4368,
+St. Augustine,4688,
+St. Benedict,4369,
+St. Charles,4689,2
+St. Clair,4690,
+St. Clairsville,4691,
+St. Cloud,4692,2
+St. David,4693,
+St. Elmo,4694,
+St. Francis,4695,
+St. Francisville,4696,
+St. George,4370,
+St. George Island,4697,
+St. Helena,4698,
+St. Henry,4699,
+St. James,4700,
+St. Jo,4701,
+St. Joe,4701,
+St. John,4702,
+St. Johns,4703,
+St. Joseph,4372,
+St. Lawrence,4704,
+St. Leo,4705,
+St. Libory,4706,
+St. Louis,4373,
+St. Marie,4707,
+St. Marks,4708,
+St. Martin,4709,
+St. Mary,4710,
+St. Mary's,4711,
+St. Marys,4711,
+St. Matthews,4712,
+St. Michael,4374,
+St. Michaels,4713,
+St. Patrick,4714,
+St. Paul,4715,2
+St. Peter,4716,
+St. Petersburg,4375,
+St. Rose,4717,
+St. Stephen,4718,
+St. Stephens,4719,
+St. Thomas,4720,
+Stacyville,4721,
+Stafford,4722,2
+Stafford Springs,4723,
+Stagecoach,4724,
+Stamford,4725,2
+Standish,4726,
+Stanfield,4727,
+Stanford,4728,
+Stanhope,4729,
+Stanley,4730,
+Stanton,4731,
+Stanwood,4732,
+Staples,4733,
+Stapleton,4734,
+Star,4735,
+Star City,4736,
+Star Lake,4737,
+Starbuck,4738,
+Stark,4739,
+Starke,4739,
+Starkey,4740,
+Starks,4741,
+Starkville,4742,
+Starlight,4743,
+Starr,4735,
+State Line,4744,
+State Road,4745,
+Statesville,4746,
+Staunton,4747,
+Steamboat,4748,
+Steele,4749,
+Steelville,4750,
+Stella,4751,
+Stephens,4752,
+Stephenson,4753,
+Stephenville,4754,
+Sterling,4755,2
+Sterling City,4756,
+Steuben,4757,
+Stevens,4752,
+Stevenson,4753,
+Stevensville,4758,
+Stewart,4759,
+Stewartstown,4760,
+Stewartsville,4761,
+Stewartville,4762,
+Stickney,4763,
+Stiles,4764,
+Stillwater,4765,3
+Stilwell,4766,
+Stinnett,4767,
+Stirling,4755,
+Stirling City,4756,
+Stockbridge,4768,2
+Stockdale,4769,
+Stockholm,4770,
+Stockport,4771,
+Stockton,4772,2
+Stoddard,4773,
+Stone Ridge,4774,
+Stoneham,4775,
+Stoneville,4776,
+Stonewall,4777,
+Stoney Point,4778,
+Stonington,4779,
+Stony Creek,4780,
+Stony Point,4778,
+Storey,4781,
+Story,4781,
+Stotesbury,4782,
+Stoughton,4783,2
+Stoutsville,4784,
+Stovall,4785,
+Stow,4786,2
+Stowe,4786,
+Strafford,4787,
+Strang,4788,
+Strasburg,4789,
+Stratford,4790,2
+Strathmore,4791,
+Stratton,4792,
+Straughn,4793,
+Strawberry,4794,
+Strawn,4793,
+Strickersville,4795,
+Stringtown,4796,
+Strong,4797,
+Strong City,4798,
+Struble,4799,
+Stryker,4800,
+Strykersville,4795,
+Stuart,4759,2
+Sturgeon,4801,
+Sturgis,4802,
+Stuttgart,4803,
+Success,4804,
+Sudan,4805,
+Sudbury,4806,
+Suffield,4807,
+Sugar City,4808,
+Sugar Creek,4809,
+Sugar Grove,4810,
+Sugar Hill,4811,
+Sugarcreek,4812,
+Sugarloaf,4813,
+Sugartown,4814,
+Sullivan,4815,
+Sulphur,4816,
+Sulphur Springs,4817,
+Summerdale,4818,
+Summerfield,4819,
+Summerhill,4820,
+Summers,4621,
+Summersville,4821,
+Summertown,4822,
+Summerville,4623,
+Summit,4823,
+Summitville,4824,
+Sumner,4825,
+Sumpter,4826,
+Sumterville,4827,
+Sun Prairie,4828,
+Sun Valley,4829,
+Sunbury,4830,
+Sundance,4831,
+Sunderland,4832,
+Sundown,4833,
+Sunflower,4834,
+Sunnyside,4835,
+Sunnyvale,4836,
+Sunray,4837,
+Sunrise,4838,
+Sunset,4839,
+Sunset Beach,4840,
+Sunshine,4841,
+Superior,4842,
+Surf City,4843,
+Surfside Beach,4844,
+Surprise,4845,
+Surry,4846,
+Sussex,4847,
+Sutherland,4848,
+Sutton,4849,
+Swan,4850,
+Swan Creek,4851,
+Swan Lake,4852,
+Swansboro,4853,
+Swansea,4854,
+Swanton,4855,
+Swanville,4856,
+Sweden,4857,
+Sweeden,4857,
+Sweet Home,4858,
+Sweet Springs,4859,
+Sweetwater,4860,
+Swiftwater,4861,
+Swink,4862,
+Swiss,4863,
+Switzerland,4864,
+Sycamore,4865,
+Sykeston,4567,
+Sykesville,4866,
+Sylva,4571,
+Sylvan,4867,
+Sylvan Beach,4868,
+Sylvan Grove,4869,
+Sylvania,4870,
+Sylvester,4871,
+Syracuse,4872,2
+Syria,4873,
+Tab,4874,
+Tabb,4874,
+Table Rock,4875,
+Tabor,4876,
+Tacna,4878,
+Taft,4879,
+Tallapoosa,4881,
+Tallmadge,4882,
+Talmadge,4882,
+Talmage,4883,
+Talpa,4884,
+Tama,4885,
+Tamarack,4886,
+Tampa,4887,
+Tampico,4888,
+Tamworth,4889,
+Tangier,4890,
+Tannersville,4891,
+Taos,4892,
+Tappan,4893,
+Tappen,4893,
+Tarrytown,4894,
+Tatum,4895,
+Taunton,4896,
+Tavistock,4897,
+Taylor,4898,
+Taylor Creek,4899,
+Taylorstown,4900,
+Taylorsville,4901,
+Taylorville,4902,
+Tazewell,4903,
+Tecumseh,4904,
+Telford,4905,
+Temple,4906,
+Templeton,4907,
+Ten Mile,4908,
+Tennant,4909,
+Tennent,4909,
+Tennessee,4910,
+Tennyson,4911,
+Terral,4912,
+Terrebonne,4913,
+Terrell,4912,
+Terry,4914,
+Terrytown,4915,
+Terryville,4916,
+Tewksbury,4917,2
+Texarkana,4918,2
+Texas,4919,
+Texhoma,4920,
+Texico,4921,
+Thatcher,4923,
+Thaxton,4924,
+Thayer,4925,
+Thayne,4922,
+The Hills,4926,
+The Plains,4927,
+Thedford,4928,
+Theresa,4929,
+Thomas,4930,
+Thomaston,4931,
+Thomasville,4932,
+Thompson,4933,
+Thompsonville,4934,
+Thomson,4935,
+Thornburg,4936,
+Thorndale,4937,
+Thornton,4938,
+Thorp,4939,
+Thorpe,4939,
+Three Forks,4940,
+Three Lakes,4941,
+Three Points,4942,
+Three Rivers,4943,
+Throop,4944,
+Thurman,4945,
+Thurmond,4946,
+Thurston,4947,
+Tibbee,4948,
+Tibbie,4948,
+Tierra Verde,4949,
+Tiffin,4950,
+Tilden,4951,
+Tilton,4952,
+Timberlake,4953,
+Timberlane,4954,
+Timbuctoo,4955,
+Tindall,4956,
+Tioga,4957,
+Tippecanoe,4958,
+Tipton,4959,
+Tiro,4960,
+Tishomingo,4961,
+Titusville,4962,2
+Tivoli,4963,
+Tobaccoville,4964,
+Toccoa,4965,
+Toco,4965,
+Togo,4966,
+Tokio,4967,
+Toledo,4968,
+Tolland,4969,
+Toluca,4970,
+Tomahawk,4971,
+Tompkins,4972,
+Toney,4973,
+Tonopah,4974,
+Tony,4973,
+Topeka,4975,
+Topsfield,4976,
+Topsham,4977,
+Toronto,4978,
+Torreon,4979,
+Torrey,4980,
+Torrington,4981,
+Toulon,4982,
+Toutle,4983,
+Towanda,4984,
+Tower City,4985,
+Town and Country,4986,
+Towner,4987,
+Townsend,4988,
+Townsville,4989,
+Townville,4990,
+Tracy,4991,
+Traer,4992,
+Trafford,4993,
+Trail,4994,
+Trappe,4995,
+Trego,4996,
+Tremont,4997,
+Trent,4998,
+Trenton,4999,2
+Triadelphia,5000,
+Triangle,5001,
+Trimble,5002,
+Trinidad,5003,
+Trinity,5004,
+Tripoli,5005,
+Tripp,5006,
+Triumph,5007,
+Trona,5008,
+Trout Creek,5009,
+Troutdale,5010,
+Troutville,5011,
+Troy,5012,4
+Truesdale,5013,
+Trumbull,5014,
+Truro,5015,
+Truxton,5016,
+Tryon,5017,
+Tuckahoe,5018,
+Tucker,5019,
+Tula,5020,
+Tulip,5021,
+Tunica,5022,
+Tunnelton,5023,
+Tupelo,5024,
+Turin,5025,
+Turkey,5026,
+Turkey Creek,5027,
+Turley,5028,
+Turner,5029,
+Turnersville,5030,
+Turtle Lake,5031,
+Tuscarora,5032,
+Tuscola,5033,
+Tuscumbia,5034,
+Tustin,5035,
+Tuttle,4983,
+Tuxedo,5036,
+Twin Bridges,5038,
+Twin Lakes,5039,
+Twin Oaks,5040,
+Twining,5041,
+Two Harbors,5042,
+Two Rivers,5043,
+Tyler,5044,
+Tyndall,4956,
+Tyre,5045,
+Tyro,4960,
+Tyrone,5046,
+Udall,5048,
+Ukiah,5049,
+Ulen,5050,
+Ulm,5051,
+Ulmer,5052,
+Ulysses,5053,
+Umatilla,5054,
+Unadilla,5055,
+Underhill,5056,
+Underwood,5057,
+Union,5058,2
+Union Center,5059,
+Union City,5060,3
+Union Cross,5061,
+Union Grove,5062,
+Union Hill,5063,
+Union Springs,5064,
+Uniondale,5065,
+Uniontown,5066,
+Unionville,5067,
+Unity,5068,
+University,5069,2
+University Center,5070,
+University Heights,5071,
+University Park,5072,
+Upham,5073,
+Upland,5074,
+Upsala,5075,
+Upton,5076,
+Urbana,5077,
+Urbanna,5077,
+Utica,5078,
+Utopia,5079,
+Vaiden,5080,
+Vail,5081,
+Valdez,5082,
+Vale,5081,
+Valencia,5083,
+Valentine,5084,
+Valier,5085,
+Valle,5081,
+Valle Vista,5086,
+Valley,5087,
+Valley Center,5088,
+Valley City,5089,
+Valley Falls,5090,
+Valley Forge,5091,
+Valley Head,5092,
+Valley Junction,5093,
+Valley Park,5094,
+Valley Springs,5095,
+Valley View,5096,
+Valparaiso,5097,
+Van,5098,
+Van Buren,5099,
+Van Horn,5100,
+Van Horne,5100,
+Van Lear,5101,
+Van Wert,5102,
+Vance,5103,
+Vanceboro,5104,
+Vancouver,5105,
+Vandalia,5106,
+Vanderbilt,5107,
+Vanderpool,5108,
+Vandiver,5109,
+Varna,5110,
+Vaughan,5111,
+Vaughn,5111,
+Venango,5112,
+Venice,5113,
+Ventura,5114,
+Venus,5115,
+Vera,5116,
+Vera Cruz,5117,
+Verdi,5118,
+Verdon,5119,
+Vermilion,5120,
+Vermillion,5120,
+Vermont,5121,
+Vernal,5122,
+Vernon,5123,4
+Vernon Center,5124,
+Verona,5125,
+Versailles,5126,
+Vesper,5127,
+Veteran,5128,
+Vichy Springs,5129,
+Vicksburg,5130,
+Victor,5131,
+Victoria,5132,2
+Victory,5133,
+Vida,5134,
+Vidalia,5135,
+Vienna,5136,
+Vilas,5137,
+Villa Grove,5138,
+Villa Park,5139,
+Villa Ridge,5140,
+Villanueva,5141,
+Villas,5142,
+Vina,5143,
+Vincennes,5144,
+Vincent,5145,
+Vineland,5146,
+Vineyard,5147,
+Vining,5148,
+Vinland,5149,
+Vinton,5150,
+Viola,5151,
+Violet,5152,
+Virden,5153,
+Virgil,5154,
+Virginia,5155,
+Virginia City,5156,
+Visalia,5157,
+Vista,5158,
+Vivian,5159,
+Volcano,5160,
+Volga,5161,
+Voorhees,5162,
+Voorhies,5162,
+Wabash,5163,
+Wabasso,5164,
+Waco,5165,
+Wade,5166,
+Wadena,5167,
+Wadesboro,5168,
+Wadesville,5169,
+Wadley,5170,
+Wadsworth,5171,
+Wagener,5172,
+Waggoner,5172,
+Wagner,5173,
+Wagoner,5172,
+Wahoo,5174,
+Wahpeton,5175,
+Waimea,5176,
+Wainwright,5177,
+Wakarusa,5178,
+Wakefield,5179,
+Walcott,5180,
+Walden,5181,
+Waldo,5182,
+Waldorf,5183,
+Waldron,5184,
+Waldwick,5185,
+Wales,5186,
+Walhalla,5187,
+Walker,5188,
+Walkerville,5189,
+Wall,5190,
+Walla Walla,5191,
+Wallace,5192,
+Waller,5193,
+Wallingford,5194,
+Wallkill,5195,
+Walnut,5196,
+Walnut Creek,5197,
+Walnut Grove,5198,
+Walnut Hill,5199,
+Walpole,5200,
+Walsh,5201,
+Walters,5202,
+Waltham,5203,
+Walton,5204,
+Walworth,5205,
+Wamba,5206,
+Ward,5207,
+Ware,5208,
+Warfield,5209,
+Warm Springs,5210,
+Warner,5211,
+Warren,5212,2
+Warrendale,5213,
+Warrensburg,5214,
+Warrenton,5215,
+Warrenville,5216,
+Warrington,5217,
+Warsaw,5218,
+Wartburg,5219,
+Warwick,5220,2
+Wasco,5221,
+Washburn,5222,
+Washington,5223,7
+Washington Crossing,5224,
+Washington Park,5225,
+Washingtonville,5226,
+Watauga,5227,
+Water Valley,5228,
+Waterbury,5229,
+Waterford,5230,2
+Waterloo,5231,2
+Waterman,5232,
+Watertown,5233,4
+Waterville,5234,
+Watkins,5235,
+Watson,5236,
+Wattsville,5237,
+Waubeek,5239,
+Waugh,5238,
+Wausau,5240,
+Waveland,5241,
+Waverly,5242,3
+Waycross,5243,
+Wayland,5244,
+Wayne,5245,2
+Waynesboro,5246,
+Waynesburg,5247,
+Waynesville,5248,
+Wayside,5249,
+Weare,5250,
+Weatherby,5251,
+Weatherford,5252,
+Weaver,5253,
+Weaverville,5254,
+Webb,5255,
+Webb City,5256,
+Webber,5257,
+Webberville,5258,
+Weber,5257,
+Webster,5259,
+Wedgefield,5260,
+Weed,5261,
+Weimar,5262,
+Weir,5250,
+Welch,5263,
+Welcome,5264,
+Weldon,5265,
+Wellborn,5266,
+Wellfleet,5267,
+Wellington,5268,
+Wellman,5269,
+Wells,5270,
+Wellsburg,5271,
+Wellston,5272,
+Wellsville,5273,
+Wellton,5274,
+Welsh,5263,
+Welton,5274,
+Wendel,5275,
+Wendell,5275,
+Wenona,5276,
+Wenonah,5277,
+Wentworth,5278,
+Werley,5279,
+Wesley,5280,
+Wesley Chapel,5281,
+West,5282,
+West Bend,5283,
+West Chester,5284,
+West Columbia,5285,
+West Concord,5286,
+West End,5287,
+West Grove,5288,
+West Hartford,5289,
+West Haven,5290,
+West Hills,5291,
+West Jefferson,5292,
+West Lafayette,5293,
+West Lebanon,5294,
+West Liberty,5295,
+West Logan,5296,
+West Middletown,5297,
+West Milford,5298,
+West Milton,5299,
+West Monroe,5300,
+West Mountain,5301,
+West Orange,5302,
+West Park,5303,
+West Point,5304,
+West Salem,5305,
+West Springfield,5306,
+West Union,5307,
+West Windsor,5308,
+West York,5309,
+Westboro,5310,
+Westborough,5310,
+Westbrook,5311,
+Westby,5312,
+Westchester,5313,
+Western,5314,
+Westerville,5315,
+Westfield,5316,3
+Westford,5317,
+Westgate,5318,
+Westhampton,5319,
+Westlake,5320,2
+Westlake Village,5321,
+Westland,5322,
+Westminster,5323,3
+Westmont,5324,
+Westmoreland,5325,
+Weston,5326,3
+Westover,5327,
+Westphalia,5328,
+Westport,5329,3
+Westville,5330,
+Westwood,5331,2
+Wethersfield,5332,
+Wetumpka,5333,
+Wever,5253,
+Weymouth,5334,
+Wharton,5335,
+Whately,5336,
+Whatley,5336,
+Wheatfield,5337,
+Wheatland,5338,
+Wheaton,5339,2
+Wheeler,5340,
+Wheeling,5341,2
+Wheelock,5342,
+Whispering Pines,5343,
+Whitaker,5344,
+Whitby,5345,
+White,5346,
+White City,5347,
+White Cloud,5348,
+White Hall,5349,
+White Haven,5350,
+White Horse,5351,
+White House,5352,
+White Lake,5353,
+White Oak,5354,
+White Pine,5355,
+White Plains,5356,
+White River,5357,
+White Rock,5358,
+White Sulphur Springs,5359,
+Whitefield,5360,
+Whitefish Bay,5361,
+Whitehall,5362,
+Whitehouse,5363,
+Whitesboro,5364,
+Whitesburg,5365,
+Whiteside,5366,
+Whitestown,5367,
+Whitesville,5368,
+Whiteville,5369,
+Whitewater,5370,
+Whitewood,5371,
+Whitfield,5372,
+Whiting,5373,
+Whitman,5374,
+Whitmore,5375,
+Whitney,5376,
+Whitsett,5377,
+Whitt,5378,
+Whittaker,5344,
+Whittemore,5375,
+Whitten,5379,
+Whittier,5380,
+Whitton,5379,
+Why,5381,
+Whynot,5382,
+Wickliffe,5383,
+Wiggins,5384,
+Wilber,5385,
+Wilbur,5385,
+Wilburton,5386,
+Wilcox,5387,
+Wilder,5388,
+Wildwood,5389,2
+Wiley,5390,
+Wilhoit,5391,
+Wilkesboro,5392,
+Wilkinson,5393,
+Willard,5394,
+Willets,5395,
+Willhoit,5391,
+Williams,5396,
+Williamsburg,5397,3
+Williamson,5398,
+Williamsport,5399,
+Williamston,5400,
+Williamstown,5401,
+Williamsville,5402,
+Willimantic,5403,
+Willington,5404,
+Willis,5405,
+Williston,5406,
+Willisville,5407,
+Willits,5395,
+Willow,5408,
+Willow City,5409,
+Willow Creek,5410,
+Willow Grove,5411,
+Willow Island,5412,
+Willow Lake,5413,
+Willow Springs,5414,
+Willowbrook,5415,
+Wilmar,5416,
+Wilmer,5416,
+Wilmington,5417,4
+Wilmore,5418,
+Wilmot,5419,
+Wilson,5420,
+Wilsonville,5421,
+Wilton,5422,
+Wilton Center,5423,
+Winchester,5424,2
+Windham,5425,
+Windom,5425,
+Windsor,5426,3
+Windsor Heights,5427,
+Windyville,5428,
+Winfield,5429,2
+Wingate,5430,
+Wingville,5431,
+Winn,5432,
+Winnebago,5433,
+Winnipeg,5434,
+Winnsboro,5435,
+Winona,5436,
+Winslow,5437,
+Winston,5438,
+Winter Park,5439,
+Winters,5440,
+Winterville,5441,
+Winthrop,5442,2
+Winton,5443,
+Wiota,5444,
+Wirt,5445,
+Wisdom,5446,
+Wise,5447,
+Wisner,5448,
+Withrow,5449,
+Witt,5378,
+Wittenberg,5450,
+Wittmann,5374,
+Woden,5451,
+Wolcott,5452,
+Wolf Creek,5453,
+Wolf Lake,5454,
+Wolf River,5455,
+Wolverine,5456,
+Womelsdorf,5457,
+Wood,5458,
+Wood Lake,5459,
+Wood River,5460,
+Wood-Ridge,5461,
+Woodbine,5462,
+Woodbourne,5463,
+Woodbridge,5464,2
+Woodburn,5465,2
+Woodbury,5466,4
+Woodford,5467,
+Woodhull,5468,
+Woodlake,5469,
+Woodland,5470,3
+Woodland Beach,5471,
+Woodland Hills,5472,
+Woodland Mills,5473,
+Woodland Park,5474,
+Woodlawn,5475,
+Woodlawn Park,5476,
+Woodleaf,5477,
+Woodlyn,5478,
+Woodlynne,5478,
+Woodmere,5479,
+Woodmoor,5480,
+Woodmore,5480,
+Woodridge,5461,
+Woodruff,5481,
+Woodsboro,5482,
+Woodside,5483,
+Woodson,5484,
+Woodstock,5485,5
+Woodsville,5486,
+Woodville,5487,
+Woodward,5488,
+Woodway,5489,
+Woodworth,5490,
+Woolwich,5491,
+Woonsocket,5492,
+Worcester,5493,
+Worden,5494,
+Worley,5279,
+Worth,5495,
+Wortham,5496,
+Worthing,5497,
+Worthington,5498,
+Worthville,5499,
+Wray,4123,
+Wrens,4164,
+Wright,5500,
+Wright City,5501,
+Wrightsboro,5502,
+Wrightstown,5503,
+Wrightsville,5504,
+Wrigley,5505,
+Wyalusing,5506,
+Wyandotte,5507,
+Wyatt,5508,
+Wyckoff,5509,
+Wye,5381,
+Wykoff,5509,
+Wylie,5390,
+Wyndham,5425,
+Wynne,5432,
+Wynnewood,5510,
+Wyoming,5511,
+Yale,5512,
+Yampa,5513,
+Yancey Mills,5514,
+Yancy Mills,5514,
+Yankeetown,5515,
+Yankton,5516,
+Yarmouth,5517,2
+Yatesville,5518,
+Yellow Springs,5519,
+Yoakum,5520,
+Yocum,5520,
+Yoder,5521,
+York,5522,2
+Yorklyn,5523,
+Yorkshire,5524,
+Yorktown,5525,3
+Yorkville,5526,
+Youngstown,5527,2
+Youngsville,5528,
+Yuba,5047,
+Yukon,5529,
+Yuma,5530,
+Yutan,5531,
+Zamora,5532,
+Zanesville,5533,
+Zebulon,5534,
+Zeeland,5535,
+Zell,5536,
+Zena,5537,
+Zenda,5538,
+Zion,5539,
+Zionsville,5540,
+Zoar,5541,
+Zurich,5542,
+Zwolle,5543,
