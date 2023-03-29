@@ -123,7 +123,8 @@
 		const { event, feature } = detail;
 
 		const { data, name, state } = feature.properties;
-		const county = `${name} ${state === "LA" ? "Parish" : "County"}, ${state}`;
+		let county = `${name} ${state === "LA" ? "Parish" : "County"}, ${state}`;
+		if (state === "DC") county = "District of Columbia";
 
 		const label1 = data[0]?.label;
 		const label2 = data[1]?.label;
