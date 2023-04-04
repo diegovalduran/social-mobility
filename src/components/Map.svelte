@@ -199,8 +199,9 @@
 	// $: console.log({ valueProp, maxValue, maxGrowth, maxShareDelta });
 
 	// $: console.table(
-	// 	countiesWithData.features.find((d) => d.properties.name === "Berkshire")
-	// 		.properties.data
+	// 	countiesWithData.features.find(
+	// 		(d) => d.properties.name === "District of Columbia"
+	// 	).properties.data
 	// );
 
 	// $: console.table(
