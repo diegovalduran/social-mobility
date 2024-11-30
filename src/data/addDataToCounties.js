@@ -50,22 +50,44 @@ export default function addDataToCounties({
 	scalePop,
 	scaleWiki
 }) {
-	const countiesWithData = {
-		...counties,
-		features: counties.features.map((d) => ({
-			...d,
-			properties: {
-				...d.properties,
-				data: calculateCountyScores({
-					scaleDist,
-					scalePop,
-					scaleWiki,
-					places,
-					centroid: d.properties.centroid
-				})
-			}
-		}))
-	};
+	if (!counties || !counties.features) {
+		console.warn('No counties data available yet');
+		return null;
+	}
 
-	return countiesWithData;
+	if (!places || !Array.isArray(places)) {
+		console.warn('No places data available yet');
+		return counties;
+	}
+
+	try {
+		const countiesWithData = {
+			...counties,
+			features: counties.features.map(d => {
+				if (!d.properties?.centroid) {
+					console.warn(`No centroid for county ${d.id}`);
+					return d;
+				}
+
+				return {
+					...d,
+					properties: {
+						...d.properties,
+						data: calculateCountyScores({
+							scaleDist,
+							scalePop,
+							scaleWiki,
+							places,
+							centroid: d.properties.centroid
+						})
+					}
+				};
+			})
+		};
+
+		return countiesWithData;
+	} catch (error) {
+		console.error('Error in addDataToCounties:', error);
+		return counties;
+	}
 }

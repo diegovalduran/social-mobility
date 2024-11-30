@@ -6,6 +6,7 @@
 	export let stroke;
 	export let strokeWidth = 0.5;
 	export let pointerEvents = false;
+	export let usePopulationFill = false;
 
 	let active;
 
@@ -40,7 +41,7 @@
 			<path
 				style:stroke
 				style:stroke-width={strokeWidth}
-				style:fill={feature.properties.fill || fill}
+				style:fill={usePopulationFill ? feature.properties.popFill : (feature.properties.fill || fill)}
 				class:active={active === feature.id}
 				d={$custom.pathFn(feature)}
 				on:mouseleave={() => dispatch("mouseleave")}

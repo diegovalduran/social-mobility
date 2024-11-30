@@ -3,19 +3,10 @@
 	export let topLabel;
 	export let topColorPrimary;
 
-	// let waiting;
-	// let displayName;
-
-	// $: topLabel = topPlace.label;
-	// $: topColorPrimary = topPlace.fills.primary;
-	// $: placeName, (waiting = true);
-	// $: topLabel, (waiting = false);
-	// $: if (!waiting) displayName = placeName;
 </script>
 
 <div class="info">
 	<h2>
-		In most US counties, <strong>{displayName}</strong> usually refers to
 		<strong style:color={topColorPrimary}>{topLabel}.</strong>
 	</h2>
 </div>

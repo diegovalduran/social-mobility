@@ -186,39 +186,6 @@
 			? 1
 			: max(countiesWithData.features, (d) => d.properties.data[0][valueProp]);
 
-	// $: maxGrowth = max(
-	// 	countiesWithData.features,
-	// 	(d) => d.properties.data[0].growth
-	// );
-
-	// $: maxShareDelta = max(
-	// 	countiesWithData.features,
-	// 	(d) => d.properties.data[0].shareDelta
-	// );
-
-	// $: console.log({ valueProp, maxValue, maxGrowth, maxShareDelta });
-
-	// $: console.table(
-	// 	countiesWithData.features.find(
-	// 		(d) => d.properties.name === "District of Columbia"
-	// 	).properties.data
-	// );
-
-	// $: console.table(
-	// 	countiesWithData.features.find((d) => d.properties.name === "Wasco")
-	// 		.properties.data
-	// );
-
-	// $: console.table(
-	// 	countiesWithData.features.find((d) => d.properties.name === "Lamoille")
-	// 		.properties.data
-	// );
-
-	// $: console.table(
-	// 	countiesWithData.features.find((d) => d.properties.name === "Androscoggin")
-	// 		.properties.data
-	// );
-
 	$: getTier = (d) => {
 		if (d[valueProp] < thresholdLower * maxValue) return 0;
 		else if (d[valueProp] < thresholdUpper * maxValue) return 1;

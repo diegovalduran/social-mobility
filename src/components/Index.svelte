@@ -117,136 +117,168 @@
 			)))();
 </script>
 
-<article>
-	<section id="intro">
-		<div class="hero">
-			<p class="overline"><strong>{@html copy.overline}</strong></p>
-			<h1 class="hed">{copy.hed}</h1>
-			<!-- <p class="dek">{copy.dek}</p> -->
-		</div>
+<div class="layout">
+	<div class="map-container">
+		<section id="interactive" bind:clientWidth class:shrink>
+			{#if placeData}
+				<Map
+					story={true}
+					{counties}
+					{states}
+					{countiesMesh}
+					{statesMesh}
+					{nationMesh}
+					{placeData}
+					placeName={currentName}
+					{location}
+					{countiesByDist}
+				/>
+			{:else}
+				<p class="loading">loading...</p>
+			{/if}
 
-		<div class="ui" class:visible={!!placeData}>
-			<div class="select">
-				<Select {options} on:change={({ detail }) => onChangePlace(detail)} />
-			</div>
+			{#if shareUrl}
+				<Share text="Share map" url={shareUrl} />
+			{/if}
+		</section>
+	</div>
 
-			<div class="discover">
-				<details bind:open>
-					<summary
-						>{copy.discoverySummary}
-						{summarySuffix}{#if location?.state}<Icon
-								name="map-pin"
-								strokeWidth="3px"
-							/>{/if}</summary
-					>
+	<div class="article-container">
+		<article>
+			<section id="intro">
+				<div class="hero">
+					<p class="overline"><strong>{@html copy.overline}</strong></p>
+					<h1 class="hed">{copy.hed}</h1>
+					<!-- <p class="dek">{copy.dek}</p> -->
+				</div>
 
+				<div class="ui" class:visible={!!placeData}>
+					<div class="select">
+						<Select {options} on:change={({ detail }) => onChangePlace(detail)} />
+					</div>
+
+					<div class="discover">
+						<details bind:open>
+							<summary
+								>{copy.discoverySummary}
+								{summarySuffix}{#if location?.state}<Icon
+										name="map-pin"
+										strokeWidth="3px"
+									/>{/if}</summary
+							>
+
+							<div class="inner">
+								{#if nearestOptions && nearestOptions.length}
+									<div class="locate">
+										<p>{copy.locate}</p>
+										<ul>
+											{#each nearestOptions as d}
+												{@const { name, state } = d}
+												<li>
+													<button on:click={() => onChangePlace(d)}
+														>{name}, {state}</button
+													>
+												</li>
+											{/each}
+										</ul>
+									</div>
+								{/if}
+
+								<div class="classic">
+									<p>{copy.classic}</p>
+									<ul>
+										{#each classics as d}
+											{@const { name } = d}
+											<li>
+												<button on:click={() => onChangePlace(d)}>{name}</button>
+											</li>
+										{/each}
+									</ul>
+								</div>
+							</div>
+						</details>
+					</div>
+				</div>
+			</section>
+
+			<section id="outro">
+				{#each copy.info as { value }}
+					<p>{@html value}</p>
+				{/each}
+				<p>{@html copy.outro}</p>
+				<p>
+					<Tip
+						text="Send a tip to The Pudding"
+						href="https://donate.stripe.com/00g03oaJRggE3zqeUW"
+					/>
+				</p>
+			</section>
+
+			<section id="changelog">
+				<details>
+					<summary>Data Changelog</summary>
 					<div class="inner">
-						{#if nearestOptions && nearestOptions.length}
-							<div class="locate">
-								<p>{copy.locate}</p>
+						{#if changelogByDate.length === 0}
+							<p>No changes to the data.</p>
+						{:else}
+							{#each changelogByDate as { date, values }}
+								<p><strong>{date}</strong></p>
 								<ul>
-									{#each nearestOptions as d}
-										{@const { name, state } = d}
-										<li>
-											<button on:click={() => onChangePlace(d)}
-												>{name}, {state}</button
-											>
-										</li>
+									{#each values as { text }}
+										<li>{@html text}</li>
 									{/each}
 								</ul>
-							</div>
+							{/each}
 						{/if}
-
-						<div class="classic">
-							<p>{copy.classic}</p>
-							<ul>
-								{#each classics as d}
-									{@const { name } = d}
-									<li>
-										<button on:click={() => onChangePlace(d)}>{name}</button>
-									</li>
-								{/each}
-							</ul>
-						</div>
 					</div>
 				</details>
-			</div>
-		</div>
-	</section>
-
-	<section id="interactive" bind:clientWidth class:shrink>
-		{#if placeData}
-			<Map
-				story={true}
-				{counties}
-				{states}
-				{countiesMesh}
-				{statesMesh}
-				{nationMesh}
-				{placeData}
-				placeName={currentName}
-				{location}
-				{countiesByDist}
-			/>
-		{:else}
-			<p class="loading">loading...</p>
-		{/if}
-
-		{#if shareUrl}
-			<Share text="Share map" url={shareUrl} />
-		{/if}
-	</section>
-
-	<section id="outro">
-		{#each copy.info as { value }}
-			<p>{@html value}</p>
-		{/each}
-		<p>{@html copy.outro}</p>
-		<p>
-			<Tip
-				text="Send a tip to The Pudding"
-				href="https://donate.stripe.com/00g03oaJRggE3zqeUW"
-			/>
-		</p>
-	</section>
-
-	<section id="changelog">
-		<details>
-			<summary>Data Changelog</summary>
-			<div class="inner">
-				{#if changelogByDate.length === 0}
-					<p>No changes to the data.</p>
-				{:else}
-					{#each changelogByDate as { date, values }}
-						<p><strong>{date}</strong></p>
-						<ul>
-							{#each values as { text }}
-								<li>{@html text}</li>
-							{/each}
-						</ul>
-					{/each}
-				{/if}
-			</div>
-		</details>
-	</section>
-</article>
-
-<Footer />
+			</section>
+		</article>
+		<Footer />
+	</div>
+</div>
 
 <style>
-	article {
-		padding: 0 16px;
-		max-width: 1280px;
-		margin: 0 auto;
+	/* Prevent scrolling on the body */
+	:global(body) {
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
 	}
 
-	section {
-		margin: 64px auto;
+	.layout {
+		display: flex;
+		height: 100vh;
+		position: relative;
 	}
 
-	#intro {
-		max-width: 42em;
-		margin: 0 auto;
+	.map-container {
+		flex: 0 0 75%;
+		height: 100vh;
+		overflow-y: auto;
+		padding: 96px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.article-container {
+		flex: 0 0 25%;
+		height: 100vh;
+		overflow-y: auto;
+		overflow-x: hidden;
+		padding: 16px;
+		border-left: 1px solid #ddd;
+		background: white;
+	}
+
+	#interactive {
+		height: 100%;
+		margin: 0;
+		min-height: 0;
+		position: relative;
+		max-width: 600px;
+		width: 100%;
 	}
 
 	.overline {
@@ -305,11 +337,6 @@
 		margin: 16px 0;
 	}
 
-	#interactive {
-		min-height: 1280px;
-		margin: 64px auto;
-	}
-
 	#outro,
 	#changelog {
 		max-width: var(--col-width);
@@ -363,14 +390,14 @@
 
 	@media only screen and (max-height: 800px) {
 		#interactive {
-			max-width: 960px;
+			max-width: 500px;
 			margin-top: 32px;
 		}
 	}
 
 	@media only screen and (max-height: 700px) {
 		#interactive {
-			max-width: 800px;
+			max-width: 400px;
 			margin-top: 32px;
 		}
 	}
