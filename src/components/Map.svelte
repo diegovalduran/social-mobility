@@ -9,7 +9,8 @@
 		scaleLog,
 		csvFormat,
 		sum,
-		color
+		color,
+		scaleLinear
 	} from "d3";
 	import { getContext, beforeUpdate, afterUpdate } from "svelte";
 	import Figure from "$components/Figure.svelte";
@@ -64,7 +65,7 @@
 
 	const copy = getContext("copy");
 
-	const ASPECT_RATIO = "975/610";
+	const ASPECT_RATIO = "2400/1200";
 	const projectionObject = states;
 	// const stateFeatures = states.features;
 	const countyStroke = color(COLOR_FG).copy({ opacity: 0.5 }).toString();
@@ -88,6 +89,11 @@
 		primary: "#eeeeee",
 		textPrimary: "#333333"
 	};
+
+	const COLOR_SCALE = scaleLinear()
+		.domain([0, 1.36])
+		.range(['#f0f0f0', '#303030'])
+		.clamp(true);
 
 	function getLabel(d) {
 		const isCity = d.level === "city-us";
@@ -114,15 +120,13 @@
 
 	function onMouseEnter({ detail }) {
 		const { feature } = detail;
-		const { data, name, state } = feature.properties;
+		const { name, state, ecValue } = feature.properties;
 		
-		let county = `${name} ${state === "LA" ? "Parish" : "County"}, ${state}`;
-		if (state === "DC") county = "District of Columbia";
-
-		const label1 = data[0]?.label;
-		const label2 = data[1]?.label;
+		// Format the EC value to 2 decimal places
+		const formattedEC = ecValue.toFixed(2);
 		
-		tooltipDatum.text = `${county}: ${label1}, ${label2}`;
+		// Create the tooltip text
+		tooltipDatum.text = `${name}, ${state} (EC Score: ${formattedEC})`;
 		activeFeatures = [feature];
 	}
 
@@ -291,7 +295,7 @@
 		...d,
 		properties: {
 			...d.properties,
-			fill: COLOR_BG
+			fill: COLOR_SCALE(d.properties.ecValue)
 		}
 	}));
 
@@ -375,10 +379,6 @@
 	$: if (!waiting) displayName = placeName;
 </script>
 
-{#if story}
-	<MapInfo {displayName} {topLabel} {topColorPrimary} />
-{/if}
-
 <div class="figure">
 	<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
 		<!-- <MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} /> -->
@@ -402,26 +402,6 @@
 			/>
 			<MapPath features={nationMesh} stroke={COLOR_FG} strokeWidth="0.5" />
 			<MapPath features={activeFeatures} stroke={COLOR_FG} strokeWidth="2" />
-			{#key displayName}
-				<MapPoints
-					features={placeFeaturesRender.filter(
-						(d) => d.properties.level === "city-us"
-					)}
-					stroke={COLOR_FG}
-					strokeWidth="2"
-				/>
-
-				{#if $mq["50rem"]}
-					<MapLabels
-						features={placeFeaturesRender
-							.slice(0, MAX_COLORS)
-							.filter((d) => d.properties.level === "city-us")}
-						stroke={COLOR_FG}
-						strokeWidth="4"
-						offsetY={0}
-					/>
-				{/if}
-			{/key}
 		</MapSvg>
 		<Tooltip x={tooltipDatum.x} y={tooltipDatum.y}>
 			<TooltipContent {...tooltipDatum} x={tooltipDatum.x} y={tooltipDatum.y} />
@@ -430,42 +410,6 @@
 		<figcaption class="sr-only">{figcaption}</figcaption>
 	</Figure>
 </div>
-
-<MapKey
-	max={MAX_COLORS}
-	features={keyFeatures}
-	colorToss={COLOR_TOSS.primary}
-	colorTossText={COLOR_TOSS.textPrimary}
-/>
-
-{#if story}
-	<p class="table-intro">
-		{@html copy.tableIntro}
-		<span class="table-intro-note">*{@html copy.tableIntroNote}</span>
-	</p>
-{/if}
-
-{#if story}
-	<PlaceTable
-		caption="Every place named {placeName}, ranked"
-		mobile={!$mq["50rem"]}
-		rows={placeRows}
-		columns={placeColumns}
-		note={copy.placeNote}
-	/>
-{/if}
-
-{#if story}
-	<CountyTable
-		caption="Each county’s most likely {placeName}{$mq['40rem']
-			? ' reference'
-			: ''}"
-		mobile={!$mq["50rem"]}
-		rows={countyRows}
-		columns={countyColumns}
-		note={copy.countyNote}
-	/>
-{/if}
 
 <style>
 	:global(g .other text) {
@@ -487,5 +431,9 @@
 
 	.figure {
 		user-select: none;
+		max-width: 100vw;
+		width: 100%;
+		margin: 0 auto;
+		padding: 0;
 	}
 </style>

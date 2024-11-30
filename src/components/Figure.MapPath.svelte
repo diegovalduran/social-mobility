@@ -15,7 +15,6 @@
 
 	function onMouseEnter(event, feature) {
 		active = feature.id;
-		const datum = feature.properties;
 		dispatch("mouseenter", { event, feature });
 	}
 

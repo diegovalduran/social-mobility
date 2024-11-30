@@ -256,7 +256,7 @@
 		flex: 0 0 75%;
 		height: 100vh;
 		overflow-y: auto;
-		padding: 96px;
+		padding: 16px;
 		display: flex;
 		align-items: center;
 		justify-content: center;
@@ -277,7 +277,6 @@
 		margin: 0;
 		min-height: 0;
 		position: relative;
-		max-width: 600px;
 		width: 100%;
 	}
 
