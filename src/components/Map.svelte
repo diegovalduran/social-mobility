@@ -64,24 +64,6 @@
 
 	const copy = getContext("copy");
 
-	const CAT = "cat";
-
-	const COLORS_RAW = [
-		variables[CAT].c0,
-		variables[CAT].c1,
-		variables[CAT].c2
-		// [variables[CAT].c3.b, variables[CAT].c3.text, variables[CAT].c3.text]
-	];
-
-	const MAX_COLORS = COLORS_RAW.length;
-
-	const COLOR_OTHER = variables[CAT].other;
-
-	const COLOR_TOSS = variables[CAT].toss;
-
-	const COLOR_BG = variables[CAT].bg;
-	const COLOR_FG = variables[CAT].fg;
-
 	const ASPECT_RATIO = "975/610";
 	const projectionObject = states;
 	// const stateFeatures = states.features;
@@ -95,6 +77,17 @@
 	let waiting;
 	let displayName;
 	let activeFeatures = [];
+
+	// Define colors at the top
+	const COLOR_BG = "#ffffff";
+	const COLOR_FG = "#333333";
+	const COLOR_STROKE = "#999999";
+	const COLOR_OTHER = "#cccccc"; // Default color for "other" places
+	const MAX_COLORS = 3; // Keep this for array slicing operations
+	const COLOR_TOSS = {
+		primary: "#eeeeee",
+		textPrimary: "#333333"
+	};
 
 	function getLabel(d) {
 		const isCity = d.level === "city-us";
@@ -120,32 +113,23 @@
 	}
 
 	function onMouseEnter({ detail }) {
-		const { event, feature } = detail;
-
+		const { feature } = detail;
 		const { data, name, state } = feature.properties;
+		
 		let county = `${name} ${state === "LA" ? "Parish" : "County"}, ${state}`;
 		if (state === "DC") county = "District of Columbia";
 
 		const label1 = data[0]?.label;
 		const label2 = data[1]?.label;
-		const score = data[0][valueProp] / maxValue;
-		const toss = score < thresholdLower;
-		const maybe = score >= thresholdLower && score < thresholdUpper;
-		const probably = score >= thresholdUpper;
-		const likelihood = toss ? "could" : maybe ? "maybe" : "probably";
-		const post = toss ? ` or ${label2}` : ".";
-		const s = toss ? "" : "s";
-
-		const madlib = `In <strong>${county},</strong> ${placeName} ${likelihood} refer${s} to ${label1}${post}`;
-
-		tooltipDatum.text = madlib;
+		
+		tooltipDatum.text = `${county}: ${label1}, ${label2}`;
 		activeFeatures = [feature];
 	}
 
 	$: {
 		// shuffle around colors
-		const i = placeData[0].name.length % MAX_COLORS;
-		colors = COLORS_RAW.slice(i).concat(COLORS_RAW.slice(0, i));
+		// const i = placeData[0].name.length % MAX_COLORS;
+		// colors = COLORS_RAW.slice(i).concat(COLORS_RAW.slice(0, i));
 	}
 
 	$: stateTally = groups(
@@ -169,7 +153,6 @@
 		latitude: +d.latitude,
 		longitude: +d.longitude,
 		label: getLabel(d)
-		// fill: i < MAX_COLORS ? colors[i] : colors[MAX_COLORS]
 	}));
 
 	$: placeFeatures = places.map((d) => ({
@@ -293,27 +276,24 @@
 			properties: {
 				...d.properties,
 				...match,
-				fills: colorLookup[d.properties.label],
-				fill: colorLookup[d.properties.label].primary
+				fills: {
+					primary: COLOR_BG,
+					secondary: COLOR_BG,
+					textPrimary: COLOR_FG,
+					textSecondary: COLOR_FG
+				},
+				fill: COLOR_BG
 			}
 		};
 	});
 
-	$: countyFeaturesRender = countyFeatures.map((d) => {
-		const fill = d.properties.topTier
-			? colorLookup[d.properties.topLabel][
-					d.properties.topTier === 2 ? "primary" : "secondary"
-			  ]
-			: COLOR_TOSS.primary;
-
-		return {
-			...d,
-			properties: {
-				...d.properties,
-				fill
-			}
-		};
-	});
+	$: countyFeaturesRender = countyFeatures.map((d) => ({
+		...d,
+		properties: {
+			...d.properties,
+			fill: COLOR_BG
+		}
+	}));
 
 	$: countyRows = countyFeaturesRender.map((d) => {
 		const a = d.properties.data[0];
@@ -406,7 +386,7 @@
 			<MapPath
 				features={countyFeaturesRender}
 				stroke={undefined}
-				pointerEvents={$mq.desktop}
+				pointerEvents={$mq.desktop ? "all" : "none"}
 				on:mouseleave={onMouseLeave}
 				on:mouseenter={onMouseEnter}
 			/>
@@ -436,7 +416,7 @@
 						features={placeFeaturesRender
 							.slice(0, MAX_COLORS)
 							.filter((d) => d.properties.level === "city-us")}
-						stroke={COLOR_BG}
+						stroke={COLOR_FG}
 						strokeWidth="4"
 						offsetY={0}
 					/>
