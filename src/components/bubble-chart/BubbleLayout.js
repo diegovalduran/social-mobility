@@ -1,37 +1,37 @@
-import { forceSimulation, forceCollide, forceCenter, forceManyBody } from 'd3';
+import { forceSimulation } from 'd3';
 
 export function createBubbleLayout({ 
     width = 800, 
     height = 500, 
-    padding = 4,
-    centerStrength = 0.1,
-    collideStrength = 1
+    padding = 40
 }) {
-    let simulation = null;
-    
     function initializeSimulation(data) {
-        // Stop any existing simulation
-        if (simulation) simulation.stop();
+        // Calculate usable area
+        const usableWidth = width - (padding * 2);
+        const usableHeight = height - (padding * 2);
         
-        // Create new simulation
-        simulation = forceSimulation(data)
-            .force('charge', forceManyBody().strength(5))
-            .force('center', forceCenter(width / 2, height / 2).strength(centerStrength))
-            .force('collision', forceCollide().radius(d => d.size + padding).strength(collideStrength))
-            .stop(); // Don't start automatically
+        // Calculate optimal grid dimensions based on aspect ratio
+        const aspectRatio = usableWidth / usableHeight;
+        const totalNodes = data.length;
+        const cols = Math.ceil(Math.sqrt(totalNodes * aspectRatio));
+        const rows = Math.ceil(totalNodes / cols);
         
-        // Run the simulation synchronously
-        simulation.tick(300);
+        // Calculate cell size
+        const cellWidth = usableWidth / cols;
+        const cellHeight = usableHeight / rows;
         
-        // Return the positioned data
+        // Position each node in a grid
+        data.forEach((d, i) => {
+            const col = i % cols;
+            const row = Math.floor(i / cols);
+            d.x = padding + (col + 0.5) * cellWidth;
+            d.y = padding + (row + 0.5) * cellHeight;
+        });
+        
         return data;
     }
     
-    function updateLayout(data) {
-        return initializeSimulation(data);
-    }
-    
     return {
-        updateLayout
+        updateLayout: initializeSimulation
     };
 }

@@ -11,7 +11,7 @@
 	import loadUSData from "$data/loadUSData.js";
 	import viewport from "$stores/viewport.js";
 	import Footer from "$components/Footer.svelte";
-	import Map from "$components/Map.svelte";
+	import Map from "./Map.svelte";
 	import Select from "$components/Select.svelte";
 	import Share from "$components/Share.svelte";
 	import Icon from "$components/helpers/Icon.svelte";
@@ -20,6 +20,7 @@
 	import classics from "$data/classics.csv";
 	import changelog from "$data/places-changelog.csv";
 	import MapHeader from "$components/MapHeader.svelte";
+	import BubbleSection from "./BubbleSection.svelte";
 
 	const copy = getContext("copy");
 	const data = getContext("data");
@@ -50,6 +51,7 @@
 	let clientWidth;
 	let activeMode = "EC";
 	let mounted = false;
+	let visualizationMode = "bubbles";
 
 	onMount(() => {
 		mounted = true;
@@ -145,28 +147,35 @@
 	<div class="map-container">
 		<section id="interactive" bind:clientWidth class:shrink>
 			{#if placeData && mounted}
-				<MapHeader 
-					{activeMode}
-					on:modeChange={handleModeChange}
-				/>
-				<Map
-					story={true}
-					{counties}
-					{states}
-					{countiesMesh}
-					{statesMesh}
-					{nationMesh}
-					{placeData}
+				{#if visualizationMode === "map"}
+					<MapHeader 
+						{activeMode}
+						on:modeChange={handleModeChange}
+					/>
+					<Map
+						story={true}
+						{counties}
+						{states}
+						{countiesMesh}
+						{statesMesh}
+						{nationMesh}
+						{placeData}
 						placeName={currentName}
-					{location}
-					{countiesByDist}
-					{activeMode}
-				/>
+						{location}
+						{countiesByDist}
+						{activeMode}
+					/>
+				{:else if visualizationMode === "bubbles"}
+					<BubbleSection 
+						countyFeatures={counties?.features}
+						{activeMode}
+					/>
+				{/if}
 			{:else}
 				<p class="loading">loading...</p>
 			{/if}
-
-			{#if shareUrl}
+			
+			{#if shareUrl && visualizationMode === "map"}
 				<Share text="Share map" url={shareUrl} />
 			{/if}
 		</section>
@@ -287,6 +296,7 @@
 		overflow-y: auto;
 		padding: 16px;
 		display: block;
+		background: transparent;
 	}
 
 	.article-container {
@@ -305,6 +315,7 @@
 		min-height: 0;
 		position: relative;
 		width: 100%;
+		background: transparent;
 	}
 
 	.overline {

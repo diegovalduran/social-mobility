@@ -31,7 +31,6 @@
 	import variables from "$data/variables.json";
 	import { tweened } from 'svelte/motion';
 	import { cubicOut } from 'svelte/easing';
-	import BubbleChart from './bubble-chart/BubbleChart.svelte';
 
 	export let story = false;
 	export let counties;
@@ -299,15 +298,6 @@
 		};
 	});
 
-	function getFillColor(feature) {
-		if (activeMode === "EC") {
-			return COLOR_SCALE(feature.properties.ecValue || 0);
-		} else if (activeMode === "POP") {
-			return COLOR_SCALE(feature.properties.population || 0);
-		}
-		return COLOR_SCALE(feature.properties.ecValue || 0);  // Default to EC
-	}
-
 	// Update transition when mode changes
 	$: if (activeMode) {
 		transitionProgress.set(0);
@@ -421,30 +411,6 @@
 			}));
 		}
 	}
-
-	// Fallback mock data if real data is not available
-	$: bubbleData = countyFeatures?.length ? 
-		countyFeatures
-			.map((county, index) => ({
-				id: `bubble-${index}`,
-				label: county.properties.name ? 
-					`${county.properties.name}, ${county.properties.state}` : 
-					'Unknown County',
-				detail: county.properties.ecValue ? 
-					`EC Score: ${county.properties.ecValue.toFixed(2)}` : 
-					'No EC data',
-				size: Math.sqrt((county.properties.ecValue || 0) * 30),
-				color: getFillColor(county) || '#ccc',
-				// Add raw data for debugging
-				rawData: county.properties
-			}))
-			.filter(d => d.size > 0)
-		: [];
-
-	// Add a console log to verify the data
-	$: if (bubbleData.length > 0) {
-		console.log('Bubble data sample:', bubbleData.slice(0, 3));
-	}
 </script>
 
 <div class="figure">
@@ -479,20 +445,6 @@
 	</Figure>
 </div>
 
-<div class="bubble-section">
-	<h2>County Economic Connectedness Distribution</h2>
-	<div class="bubble-container">
-		<BubbleChart
-			data={bubbleData}
-			width={800}
-			height={600}
-			backgroundColor="#ffffff"
-			bubbleColor="#cccccc"
-			textColor="#333333"
-		/>
-	</div>
-</div>
-
 <style>
 	:global(g .other text) {
 		display: none;
@@ -524,26 +476,5 @@
 	:global(.g-map-path path) {
 		transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1),
 					fill 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-	}
-
-	.bubble-section {
-		margin: 2rem auto;
-		max-width: var(--col-width);
-		padding: 0 1rem;
-	}
-
-	h2 {
-		font-size: 1.5rem;
-		margin-bottom: 1rem;
-		text-align: center;
-	}
-
-	.bubble-container {
-		width: 100%;
-		min-height: 600px;
-		background: white;
-		border-radius: 4px;
-		box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-		overflow: visible;
 	}
 </style>
