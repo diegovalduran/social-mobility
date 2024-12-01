@@ -7,19 +7,15 @@ import stateLookup from "$data/states.csv";
 async function loadSocialCapitalData() {
 	const data = await csv(`${base}/src/data/meta/social_capital_county.csv`);
 	
-	// Log sample of raw data to see structure
-	console.log('Raw CSV sample:', data.slice(0, 5));
+	// Add debug logging to verify data structure
+	console.log('Raw CSV sample:', data.slice(0, 3));
 	
 	return new Map(data.map(d => {
 		const countyId = d.county.padStart(5, '0');
-		const ecValue = d.ec_county ? +d.ec_county : 0; // Use ec_county field
-		
-		// Log any rows with missing ec_county
-		if (!d.ec_county) {
-			console.log('Row with missing ec_county:', d);
-		}
-		
-		return [countyId, ecValue];
+		return [countyId, {
+			ecValue: d.ec_county ? +d.ec_county : 0,
+			population: d.pop2018 ? +d.pop2018 : 0
+		}];
 	}));
 }
 
@@ -58,7 +54,7 @@ export default async function cleanUSData() {
 		features: countiesRaw.features
 			.filter((d) => d.geometry)
 			.map((d) => {
-				const ecValue = socialCapitalData.get(d.id);
+				const data = socialCapitalData.get(d.id);
 				
 				// Log each attempt with more detail
 				allAttemptedMatches.push({
@@ -66,11 +62,12 @@ export default async function cleanUSData() {
 					paddedId: d.id.padStart(5, '0'),
 					countyName: d.properties.name,
 					state: stateLookup.find((s) => s.fips === d.id.substring(0, 2))?.postal,
-					hasMatch: ecValue !== undefined,
-					ecValue: ecValue
+					hasMatch: data !== undefined,
+					ecValue: data?.ecValue || 0,
+					population: data?.population || 0
 				});
 
-				if (ecValue !== undefined) {
+				if (data !== undefined) {
 					matchCount++;
 				} else {
 					noMatchCount++;
@@ -88,7 +85,8 @@ export default async function cleanUSData() {
 						...d.properties,
 						state: stateLookup.find((s) => s.fips === d.id.substring(0, 2))?.postal,
 						centroid: geoCentroid(d),
-						ecValue: ecValue || 0  // Store ec_county value instead of population
+						ecValue: data?.ecValue || 0,
+						population: data?.population || 0
 					}
 				};
 			})

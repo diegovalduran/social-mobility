@@ -1,6 +1,6 @@
 <script>
 	import { csv, groups, descending } from "d3";
-	import { onMount, getContext } from "svelte";
+	import { onMount, getContext, onDestroy } from "svelte";
 	import { page } from "$app/stores";
 	import { browser } from "$app/environment";
 	import { assets, base } from "$app/paths";
@@ -19,6 +19,7 @@
 	import options from "$data/options.csv";
 	import classics from "$data/classics.csv";
 	import changelog from "$data/places-changelog.csv";
+	import MapHeader from "$components/MapHeader.svelte";
 
 	const copy = getContext("copy");
 	const data = getContext("data");
@@ -47,6 +48,15 @@
 	let statesMesh;
 	let nationMesh;
 	let clientWidth;
+	let activeMode = "EC";
+	let mounted = false;
+
+	onMount(() => {
+		mounted = true;
+		return () => {
+			mounted = false;
+		};
+	});
 
 	function onChangePlace({ name, phoneme }) {
 		open = false;
@@ -86,22 +96,36 @@
 		location.lon = +location?.lon;
 	}
 
+	function handleModeChange(event) {
+		if (mounted) {
+			activeMode = event.detail;
+			console.log("Mode changed in Index:", activeMode);
+			placeData = [...placeData];
+		}
+	}
+
 	onMount(async () => {
 		try {
 			const us = await loadUSData();
-			counties = us.counties;
-			states = us.states;
-			countiesMesh = us.countiesMesh;
-			statesMesh = us.statesMesh;
-			nationMesh = us.nationMesh;
+			if (mounted) {
+				counties = us.counties;
+				states = us.states;
+				countiesMesh = us.countiesMesh;
+				statesMesh = us.statesMesh;
+				nationMesh = us.nationMesh;
 
-			const initialPlace = getPlaceFromUrl();
-			onChangePlace(initialPlace);
+				const initialPlace = getPlaceFromUrl();
+				onChangePlace(initialPlace);
 
-			await customLocation();
+				await customLocation();
+			}
 		} catch (err) {
 			console.log(err);
 		}
+	});
+
+	onDestroy(() => {
+		mounted = false;
 	});
 
 	$: shareUrl = `${$page.url}?place=${encodeURIComponent(currentName)}`;
@@ -120,7 +144,11 @@
 <div class="layout">
 	<div class="map-container">
 		<section id="interactive" bind:clientWidth class:shrink>
-			{#if placeData}
+			{#if placeData && mounted}
+				<MapHeader 
+					{activeMode}
+					on:modeChange={handleModeChange}
+				/>
 				<Map
 					story={true}
 					{counties}
@@ -129,9 +157,10 @@
 					{statesMesh}
 					{nationMesh}
 					{placeData}
-					placeName={currentName}
+						placeName={currentName}
 					{location}
 					{countiesByDist}
+					{activeMode}
 				/>
 			{:else}
 				<p class="loading">loading...</p>

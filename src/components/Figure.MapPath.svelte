@@ -40,6 +40,7 @@
 				style:stroke
 				style:stroke-width={strokeWidth}
 				style:fill={feature.properties.fill || fill}
+				style:opacity={feature.properties.opacity}
 				class:active={active === feature.id}
 				d={$custom.pathFn(feature)}
 				on:mouseleave={() => dispatch("mouseleave")}
@@ -50,6 +51,11 @@
 </g>
 
 <style>
+	path {
+		z-index: var(--z-middle);
+		transition: fill 0.3s ease-out, opacity 0.3s ease-out;
+	}
+
 	.g-map-path {
 		pointer-events: none;
 	}
@@ -57,9 +63,5 @@
 	.interactive {
 		pointer-events: auto;
 		cursor: crosshair;
-	}
-
-	path {
-		z-index: var(--z-middle);
 	}
 </style>

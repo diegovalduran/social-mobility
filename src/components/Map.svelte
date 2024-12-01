@@ -29,6 +29,8 @@
 	import mq from "$stores/mq.js";
 	import viewport from "$stores/viewport.js";
 	import variables from "$data/variables.json";
+	import { tweened } from 'svelte/motion';
+	import { cubicOut } from 'svelte/easing';
 
 	export let story = false;
 	export let counties;
@@ -90,10 +92,18 @@
 		textPrimary: "#333333"
 	};
 
-	const COLOR_SCALE = scaleLinear()
-		.domain([0, 1.36])
+	export let activeMode = "EC";  // Add this prop
+
+	$: COLOR_SCALE = scaleLinear()
+		.domain(activeMode === "EC" ? [0, 1.36] : [0, 1000000])
 		.range(['#f0f0f0', '#303030'])
 		.clamp(true);
+
+	// Single transition progress tracker with longer, smoother duration
+	const transitionProgress = tweened(1, {
+		duration: 400,  // Reduced from 750ms to 400ms
+		easing: cubicOut
+	});
 
 	function getLabel(d) {
 		const isCity = d.level === "city-us";
@@ -120,13 +130,16 @@
 
 	function onMouseEnter({ detail }) {
 		const { feature } = detail;
-		const { name, state, ecValue } = feature.properties;
+		const { name, state, ecValue, population } = feature.properties;
 		
-		// Format the EC value to 2 decimal places
-		const formattedEC = ecValue.toFixed(2);
+		let displayValue;
+		if (activeMode === "EC") {
+			displayValue = `EC Score: ${(ecValue || 0).toFixed(2)}`;
+		} else if (activeMode === "POP") {
+			displayValue = `Population: ${(population || 0).toLocaleString()}`;
+		}
 		
-		// Create the tooltip text
-		tooltipDatum.text = `${name}, ${state} (EC Score: ${formattedEC})`;
+		tooltipDatum.text = `${name}, ${state} (${displayValue})`;
 		activeFeatures = [feature];
 	}
 
@@ -247,19 +260,13 @@
 
 	$: order = new Map(tally.map((d, i) => [d.label, i]));
 
-	$: placeFeaturesWithOrder = placeFeatures.map((d) => {
-		const o1 = order.get(d.properties.label);
-		const o2 = o1 === undefined ? placeFeatures.length : o1;
-		const className = o1 > MAX_COLORS - 1 ? "other" : "";
-		return {
-			...d,
-			properties: {
-				...d.properties,
-				className,
-				order: o2
-			}
-		};
-	});
+	$: placeFeaturesWithOrder = placeFeatures.map((d) => ({
+		...d,
+		properties: {
+			...d.properties,
+			order: order.get(d.properties.label) || Infinity
+		}
+	}));
 
 	$: {
 		placeFeaturesWithOrder.sort((a, b) =>
@@ -291,11 +298,30 @@
 		};
 	});
 
-	$: countyFeaturesRender = countyFeatures.map((d) => ({
+	function getFillColor(feature) {
+		if (activeMode === "EC") {
+			return COLOR_SCALE(feature.properties.ecValue || 0);
+		} else if (activeMode === "POP") {
+			return COLOR_SCALE(feature.properties.population || 0);
+		}
+		return COLOR_SCALE(feature.properties.ecValue || 0);  // Default to EC
+	}
+
+	// Update transition when mode changes
+	$: if (activeMode) {
+		transitionProgress.set(0);
+		setTimeout(() => transitionProgress.set(1), 25); // Reduced delay from 50ms to 25ms
+	}
+
+	// Simpler feature rendering with transition
+	$: countyFeaturesRender = countyFeatures.map(d => ({
 		...d,
 		properties: {
 			...d.properties,
-			fill: COLOR_SCALE(d.properties.ecValue)
+			fill: COLOR_SCALE(
+				activeMode === "EC" ? d.properties.ecValue : d.properties.population
+			),
+			opacity: $transitionProgress // Simple fade transition
 		}
 	}));
 
@@ -377,6 +403,23 @@
 	$: placeName, (waiting = true);
 	$: topLabel, (waiting = false);
 	$: if (!waiting) displayName = placeName;
+
+	// Force recalculation when mode changes
+	$: {
+		if (activeMode) {
+			console.log("Mode changed in Map:", activeMode);
+			// Force recalculation of features
+			countyFeaturesRender = countyFeatures.map(d => ({
+				...d,
+				properties: {
+					...d.properties,
+					fill: activeMode === "EC" 
+						? COLOR_SCALE(d.properties.ecValue || 0)
+						: COLOR_SCALE(d.properties.population || 0)
+				}
+			}));
+		}
+	}
 </script>
 
 <div class="figure">
@@ -435,5 +478,11 @@
 		width: 100%;
 		margin: 0 auto;
 		padding: 0;
+	}
+
+	/* Simple, smooth transition */
+	:global(.g-map-path path) {
+		transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+					fill 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 	}
 </style>
