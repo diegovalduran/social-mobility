@@ -27,7 +27,7 @@ importers:
         specifier: ^10.4.14
         version: 10.4.20(postcss@8.4.49)
       d3:
-        specifier: ^7.8.2
+        specifier: ^7.9.0
         version: 7.9.0
       d3-hexbin:
         specifier: ^0.2.2

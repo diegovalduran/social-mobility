@@ -286,9 +286,7 @@
 		height: 100vh;
 		overflow-y: auto;
 		padding: 16px;
-		display: flex;
-		align-items: center;
-		justify-content: center;
+		display: block;
 	}
 
 	.article-container {
@@ -302,7 +300,7 @@
 	}
 
 	#interactive {
-		height: 100%;
+		height: auto;
 		margin: 0;
 		min-height: 0;
 		position: relative;
