@@ -6,15 +6,23 @@ import stateLookup from "$data/states.csv";
 // Add this function to load social capital data
 async function loadSocialCapitalData() {
 	const data = await csv(`${base}/src/data/meta/social_capital_county.csv`);
-	
-	// Add debug logging to verify data structure
-	console.log('Raw CSV sample:', data.slice(0, 3));
+	console.log('Loaded social capital data:', data.slice(0, 3));
 	
 	return new Map(data.map(d => {
 		const countyId = d.county.padStart(5, '0');
 		return [countyId, {
 			ecValue: d.ec_county ? +d.ec_county : 0,
-			population: d.pop2018 ? +d.pop2018 : 0
+			population: d.pop2018 ? +d.pop2018 : 0,
+			childEcValue: d.child_ec_county ? +d.child_ec_county : 0,
+			exposureGrpMem: d.exposure_grp_mem_county ? +d.exposure_grp_mem_county : 0,
+			biasGrpMem: d.bias_grp_mem_county ? +d.bias_grp_mem_county : 0,
+			ecHighSe: d.ec_high_se_county ? +d.ec_high_se_county : 0,
+			childHighEc: d.child_high_ec_county ? +d.child_high_ec_county : 0,
+			exposureGrpMemHigh: d.exposure_grp_mem_high_county ? +d.exposure_grp_mem_high_county : 0,
+			biasGrpMemHigh: d.bias_grp_mem_high_county ? +d.bias_grp_mem_high_county : 0,
+			numBelowP50: d.num_below_p50 ? +d.num_below_p50 : 0,
+			clusteringCounty: d.clustering_county ? +d.clustering_county : 0,
+			supportRatioCounty: d.support_ratio_county ? +d.support_ratio_county : 0
 		}];
 	}));
 }
@@ -86,7 +94,17 @@ export default async function cleanUSData() {
 						state: stateLookup.find((s) => s.fips === d.id.substring(0, 2))?.postal,
 						centroid: geoCentroid(d),
 						ecValue: data?.ecValue || 0,
-						population: data?.population || 0
+						population: data?.population || 0,
+						childEcValue: data?.childEcValue || 0,
+						exposureGrpMem: data?.exposureGrpMem || 0,
+						biasGrpMem: data?.biasGrpMem || 0,
+						ecHighSe: data?.ecHighSe || 0,
+						childHighEc: data?.childHighEc || 0,
+						exposureGrpMemHigh: data?.exposureGrpMemHigh || 0,
+						biasGrpMemHigh: data?.biasGrpMemHigh || 0,
+						numBelowP50: data?.numBelowP50 || 0,
+						clusteringCounty: data?.clusteringCounty || 0,
+						supportRatioCounty: data?.supportRatioCounty || 0
 					}
 				};
 			})

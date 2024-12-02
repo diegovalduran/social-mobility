@@ -1,19 +1,56 @@
 <script>
-	import { format } from "d3";
+	import { scaleLinear } from 'd3';
 	export let features;
-
 	export let max;
 	export let colorToss;
 	export let colorTossText;
+	export let activeMode;
 
 	$: top = features.slice(0, max);
 	$: bottom = features.slice(max);
 	$: others = bottom[0]?.properties;
 	$: suffix = others?.name.endsWith("s") ? "" : "s";
 	$: otherLabel = `Other ${others?.name}${suffix}`;
+
+	// Define the color scale
+	$: colorScale = scaleLinear()
+		.domain(activeMode === "EC" ? [0, 1.36] : [0, 1000000])
+		.range(['#0000ff', '#ff00ff', '#ff8000', '#ffcc99', '#ffff00']);
+
+	// Create gradient stops with unique IDs
+	$: gradientStops = colorScale.range().map((color, i) => ({
+		color,
+		offset: `${(i / (colorScale.range().length - 1)) * 100}%`
+	}));
+
+	// Format values based on mode
+	$: formatValue = (value) => {
+		if (activeMode === "POP") {
+			return value.toLocaleString();
+		}
+		return value.toFixed(2);
+	};
 </script>
 
 <div class="key">
+	<div class="gradient-legend">
+		<p class="legend-title">Legend</p>
+		<svg width="100%" height="20">
+			<defs>
+				<linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+					{#each gradientStops as {color, offset}}
+						<stop stop-color={color} offset={offset}/>
+					{/each}
+				</linearGradient>
+			</defs>
+			<rect width="100%" height="20" fill="url(#gradient)"/>
+		</svg>
+		<div class="ticks">
+			<span>{formatValue(colorScale.domain()[0])}</span>
+			<span>{formatValue(colorScale.domain()[1])}</span>
+		</div>
+	</div>
+
 	<div class="top">
 		<ul class:others={!!others}>
 			{#each top as { properties }}
@@ -70,6 +107,27 @@
 <style>
 	.key {
 		margin-top: 32px;
+	}
+
+	.gradient-legend {
+		margin-bottom: 16px;
+		text-align: center;
+	}
+
+	.legend-title {
+		font-weight: bold;
+		margin-bottom: 8px;
+	}
+
+	.ticks {
+		display: flex;
+		justify-content: space-between;
+		margin-top: 4px;
+		font-size: 0.8rem;
+	}
+
+	.ticks span {
+		color: #666;
 	}
 
 	ul {

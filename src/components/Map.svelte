@@ -67,7 +67,7 @@
 
 	const copy = getContext("copy");
 
-	const ASPECT_RATIO = "2400/1200";
+	const ASPECT_RATIO = "2600/1400";
 	const projectionObject = states;
 	// const stateFeatures = states.features;
 	const countyStroke = color(COLOR_FG).copy({ opacity: 0.5 }).toString();
@@ -96,14 +96,8 @@
 
 	$: COLOR_SCALE = scaleLinear()
 		.domain(activeMode === "EC" ? [0, 1.36] : [0, 1000000])
-		.range(['#f0f0f0', '#303030'])
+		.range(['#230e79', '#a6287f', '#ff5500', '#f2cecf', '#fffe04'])
 		.clamp(true);
-
-	// Single transition progress tracker with longer, smoother duration
-	const transitionProgress = tweened(1, {
-		duration: 400,  // Reduced from 750ms to 400ms
-		easing: cubicOut
-	});
 
 	function getLabel(d) {
 		const isCity = d.level === "city-us";
@@ -130,13 +124,33 @@
 
 	function onMouseEnter({ detail }) {
 		const { feature } = detail;
-		const { name, state, ecValue, population } = feature.properties;
+		const { name, state } = feature.properties;
 		
 		let displayValue;
 		if (activeMode === "EC") {
-			displayValue = `EC Score: ${(ecValue || 0).toFixed(2)}`;
-		} else if (activeMode === "POP") {
-			displayValue = `Population: ${(population || 0).toLocaleString()}`;
+			displayValue = `EC Score: ${(feature.properties.ecValue || 0).toFixed(2)}`;
+		} else if (activeMode === "CHILD_EC") {
+			displayValue = `Child EC: ${(feature.properties.childEcValue || 0).toFixed(2)}`;
+		} else if (activeMode === "EXPOSURE_GRP_MEM") {
+			displayValue = `Exposure Group: ${(feature.properties.exposureGrpMem || 0).toFixed(2)}`;
+		} else if (activeMode === "BIAS_GRP_MEM") {
+			displayValue = `Bias Group: ${(feature.properties.biasGrpMem || 0).toFixed(2)}`;
+		} else if (activeMode === "EC_HIGH_SE") {
+			displayValue = `EC High SE: ${(feature.properties.ecHighSe || 0).toFixed(2)}`;
+		} else if (activeMode === "CHILD_HIGH_EC") {
+			displayValue = `Child High EC: ${(feature.properties.childHighEc || 0).toFixed(2)}`;
+		} else if (activeMode === "EXPOSURE_GRP_MEM_HIGH") {
+			displayValue = `Exposure Group High: ${(feature.properties.exposureGrpMemHigh || 0).toFixed(2)}`;
+		} else if (activeMode === "BIAS_GRP_MEM_HIGH") {
+			displayValue = `Bias Group High: ${(feature.properties.biasGrpMemHigh || 0).toFixed(2)}`;
+		} else if (activeMode === "NUM_BELOW_P50") {
+			displayValue = `Below P50: ${(feature.properties.numBelowP50 || 0).toLocaleString()}`;
+		} else if (activeMode === "CLUSTERING") {
+			displayValue = `Clustering: ${(feature.properties.clusteringCounty || 0).toFixed(3)}`;
+		} else if (activeMode === "SUPPORT_RATIO") {
+			displayValue = `Support Ratio: ${(feature.properties.supportRatioCounty || 0).toFixed(3)}`;
+		} else {
+			displayValue = `Population: ${(feature.properties.population || 0).toLocaleString()}`;
 		}
 		
 		tooltipDatum.text = `${name}, ${state} (${displayValue})`;
@@ -300,21 +314,44 @@
 
 	// Update transition when mode changes
 	$: if (activeMode) {
-		transitionProgress.set(0);
-		setTimeout(() => transitionProgress.set(1), 25); // Reduced delay from 50ms to 25ms
-	}
+		console.log('Current activeMode:', activeMode);
+		
+		countyFeaturesRender = countyFeatures.map(d => {
+			const value = activeMode === "EC" 
+				? d.properties.ecValue
+				: activeMode === "POP"
+				? d.properties.population
+				: activeMode === "CHILD_EC"
+				? d.properties.childEcValue
+				: activeMode === "EXPOSURE_GRP_MEM"
+				? d.properties.exposureGrpMem
+				: activeMode === "BIAS_GRP_MEM"
+				? d.properties.biasGrpMem
+				: activeMode === "EC_HIGH_SE"
+				? d.properties.ecHighSe
+				: activeMode === "CHILD_HIGH_EC"
+				? d.properties.childHighEc
+				: activeMode === "EXPOSURE_GRP_MEM_HIGH"
+				? d.properties.exposureGrpMemHigh
+				: activeMode === "BIAS_GRP_MEM_HIGH"
+				? d.properties.biasGrpMemHigh
+				: activeMode === "NUM_BELOW_P50"
+				? d.properties.numBelowP50
+				: activeMode === "CLUSTERING"
+				? d.properties.clusteringCounty
+				: activeMode === "SUPPORT_RATIO"
+				? d.properties.supportRatioCounty
+				: d.properties.population;
 
-	// Simpler feature rendering with transition
-	$: countyFeaturesRender = countyFeatures.map(d => ({
-		...d,
-		properties: {
-			...d.properties,
-			fill: COLOR_SCALE(
-				activeMode === "EC" ? d.properties.ecValue : d.properties.population
-			),
-			opacity: $transitionProgress // Simple fade transition
-		}
-	}));
+			return {
+				...d,
+				properties: {
+					...d.properties,
+					fill: COLOR_SCALE(value || 0)
+				}
+			};
+		});
+	}
 
 	$: countyRows = countyFeaturesRender.map((d) => {
 		const a = d.properties.data[0];
@@ -406,11 +443,33 @@
 					...d.properties,
 					fill: activeMode === "EC" 
 						? COLOR_SCALE(d.properties.ecValue || 0)
+						: activeMode === "CHILD_EC"
+						? COLOR_SCALE(d.properties.childEcValue || 0)
+						: activeMode === "EXPOSURE_GRP_MEM"
+						? COLOR_SCALE(d.properties.exposureGrpMem || 0)
+						: activeMode === "BIAS_GRP_MEM"
+						? COLOR_SCALE(d.properties.biasGrpMem || 0)
+						: activeMode === "EC_HIGH_SE"
+						? COLOR_SCALE(d.properties.ecHighSe || 0)
+						: activeMode === "CHILD_HIGH_EC"
+						? COLOR_SCALE(d.properties.childHighEc || 0)
+						: activeMode === "EXPOSURE_GRP_MEM_HIGH"
+						? COLOR_SCALE(d.properties.exposureGrpMemHigh || 0)
+						: activeMode === "BIAS_GRP_MEM_HIGH"
+						? COLOR_SCALE(d.properties.biasGrpMemHigh || 0)
+						: activeMode === "NUM_BELOW_P50"
+						? COLOR_SCALE(d.properties.numBelowP50 || 0)
+						: activeMode === "CLUSTERING"
+						? COLOR_SCALE(d.properties.clusteringCounty || 0)
+						: activeMode === "SUPPORT_RATIO"
+						? COLOR_SCALE(d.properties.supportRatioCounty || 0)
 						: COLOR_SCALE(d.properties.population || 0)
 				}
 			}));
 		}
 	}
+
+	let countyFeaturesRender = []; // Initialize as an empty array
 </script>
 
 <div class="figure">
