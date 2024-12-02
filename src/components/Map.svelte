@@ -490,6 +490,11 @@
 			/>
 			<MapPath
 				features={statesMesh}
+				stroke="white"
+				strokeWidth={$mq["30rem"] ? 2 : 1}
+			/>
+			<MapPath
+				features={statesMesh}
 				stroke={COLOR_FG}
 				strokeWidth={$mq["30rem"] ? 0.5 : 0.25}
 			/>
