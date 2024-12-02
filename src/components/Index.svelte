@@ -21,6 +21,8 @@
 	import changelog from "$data/places-changelog.csv";
 	import MapHeader from "$components/MapHeader.svelte";
 	import BubbleSection from "./BubbleSection.svelte";
+	import PercentageBarChart from "./bar-chart/PercentageBarChart.svelte";
+	import BarChartHeader from "./bar-chart/BarChartHeader.svelte";
 
 	const copy = getContext("copy");
 	const data = getContext("data");
@@ -49,9 +51,12 @@
 	let statesMesh;
 	let nationMesh;
 	let clientWidth;
-	let activeMode = "EC";
+	let activeMode = "COUNTY";
 	let mounted = false;
-	let visualizationMode = "bubbles";
+	let visualizationMode = "bars";
+	let showBarChart = true;
+	let collegeData;
+	let countyData;
 
 	onMount(() => {
 		mounted = true;
@@ -110,6 +115,21 @@
 		try {
 			const us = await loadUSData();
 			if (mounted) {
+				countyData = us.counties;
+				try {
+					collegeData = await csv(`${base}/src/data/meta/social_capital_college.csv`);
+					collegeData = collegeData.map(d => ({
+						properties: {
+							college_name: d.college_name,
+							ec_own_ses_college: +d.ec_own_ses_college || 0
+						}
+					}));
+					console.log("Sample college data:", collegeData[0]);
+				} catch (err) {
+					console.warn("Failed to load college data:", err);
+					collegeData = [];
+				}
+				
 				counties = us.counties;
 				states = us.states;
 				countiesMesh = us.countiesMesh;
@@ -170,6 +190,17 @@
 						countyFeatures={counties?.features}
 						{activeMode}
 					/>
+				{:else if visualizationMode === "bars"}
+					<div class="bar-chart-container">
+						<BarChartHeader 
+							{activeMode}
+							on:modeChange={handleModeChange}
+						/>
+						<PercentageBarChart 
+							data={activeMode === "COUNTY" ? counties.features : collegeData}
+							{activeMode}
+						/>
+					</div>
 				{/if}
 			{:else}
 				<p class="loading">loading...</p>
@@ -437,5 +468,18 @@
 			max-width: 400px;
 			margin-top: 32px;
 		}
+	}
+
+	.bar-chart-container {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 1rem;
+		border-radius: 4px;
+	}
+
+	.bar-chart-container h2 {
+		margin-bottom: 1rem;
+		font-size: 1.5rem;
+		text-align: center;
 	}
 </style>
