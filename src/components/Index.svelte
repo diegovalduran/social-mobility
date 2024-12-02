@@ -53,7 +53,7 @@
 	let clientWidth;
 	let activeMode = "COUNTY";
 	let mounted = false;
-	let visualizationMode = "bars";
+	let visualizationMode = "map";
 	let showBarChart = true;
 	let collegeData;
 	let countyData;
