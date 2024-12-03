@@ -16,6 +16,7 @@
     ];
 
     const countyStats = [
+        { mode: "OFF", label: "Off" },
         { mode: "POP2018", label: "Pop." },
         { mode: "NUM_BELOW_P50", label: "Below P50" },
         { mode: "CLUSTERING", label: "Cluster" },

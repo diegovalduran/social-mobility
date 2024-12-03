@@ -10,7 +10,8 @@
 		csvFormat,
 		sum,
 		color,
-		scaleLinear
+		scaleLinear,
+		geoPath
 	} from "d3";
 	import { getContext, beforeUpdate, afterUpdate } from "svelte";
 	import Figure from "$components/Figure.svelte";
@@ -470,6 +471,18 @@
 	}
 
 	let countyFeaturesRender = []; // Initialize as an empty array
+
+	const path = geoPath();
+
+	$: stateCentroids = states.features.map(feature => {
+		const centroid = path.centroid(feature);
+		return {
+			state: feature.properties.state,
+			coordinates: centroid,
+			longitude: centroid[0],
+			latitude: centroid[1]
+		};
+	});
 </script>
 
 <div class="figure">
@@ -500,6 +513,22 @@
 			/>
 			<MapPath features={nationMesh} stroke={COLOR_FG} strokeWidth="0.5" />
 			<MapPath features={activeFeatures} stroke={COLOR_FG} strokeWidth="2" />
+			<MapPoints 
+				features={activeMode === "OFF" ? [] : stateCentroids.map(centroid => ({
+					type: "Feature",
+					geometry: {
+						type: "Point",
+							coordinates: [centroid.longitude, centroid.latitude]
+					},
+					properties: {
+						name: centroid.state,
+						fill: "black"
+					}
+				}))}
+				r={5} 
+				stroke="white"
+				strokeWidth={1}
+			/>
 		</MapSvg>
 		<Tooltip x={tooltipDatum.x} y={tooltipDatum.y}>
 			<TooltipContent {...tooltipDatum} x={tooltipDatum.x} y={tooltipDatum.y} />
