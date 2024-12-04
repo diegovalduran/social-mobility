@@ -1,6 +1,6 @@
 <script>
     export let activeMode = "EC";
-    let activeCountyMode = "OFF";
+    export let activeCountyMode = "OFF";
 
     const lowSES = [
         { mode: "EC", label: "EC" },
@@ -25,7 +25,8 @@
     ];
 
     const sizeScale = ["1K", "50K", "1M+"];
-    const colorScale = ['#230e79', '#a6287f', '#ff5500', '#f2cecf', '#fffe04'];
+    const colorScale = ['#2D1160', '#7B2F8F', '#B7367A', '#E34B60', '#FFD700'];
+    const undefinedColor = '#CCCCCC';  // Changed to light grey
 
     import { createEventDispatcher } from 'svelte';
     const dispatch = createEventDispatcher();
@@ -38,6 +39,46 @@
             activeMode = mode;
             dispatch('modeChange', { mode, type: 'ses' });
         }
+    }
+
+    // Add the scale ranges (copy from Map.svelte)
+    const scaleRanges = {
+        // Low SES
+        "EC": [0.2946900, 1.3597],
+        "CHILD_EC": [0.22188, 1.61136],
+        "EXPOSURE_GRP_MEM": [0.2552, 1.48628],
+        "BIAS_GRP_MEM": [-0.10809, 0.33456999],
+        
+        // High SES
+        "EC_HIGH": [0.70062, 1.71507],
+        "CHILD_HIGH_EC": [0.24529999, 1.69122],
+        "EXPOSURE_GRP_MEM_HIGH": [0.51012999, 1.66616],
+        "BIAS_GRP_MEM_HIGH": [-0.53618002, -0.043249998]
+    };
+
+    // Function to get scale values based on active mode
+    function getScaleValues(mode) {
+        if (mode in scaleRanges) {
+            const [min, max] = scaleRanges[mode];
+            const range = max - min;
+            return [
+                min.toFixed(2),
+                (min + range * 0.2).toFixed(2),
+                (min + range * 0.4).toFixed(2),
+                (min + range * 0.6).toFixed(2),
+                (min + range * 0.8).toFixed(2),
+                'N/A'  // Changed from 'undefined'
+            ];
+        }
+        return ['0%', '20%', '40%', '60%', '80%', 'N/A']; // Changed in fallback as well
+    }
+
+    $: scaleValues = getScaleValues(activeMode);
+
+    function getMetricLabel(mode, countyMode) {
+        // Always show the SES metric label (from lowSES or highSES)
+        const sesLabel = lowSES.concat(highSES).find(item => item.mode === mode)?.label || "Unknown Metric";
+        return sesLabel;
     }
 </script>
 
@@ -104,20 +145,27 @@
             </div>
         </div>
         <div class="color-legend">
-            <div class="title">Color</div>
+            <div class="title">
+                <span style="color: lightgrey;">Color:</span> 
+                <span style="color: white;">{getMetricLabel(activeMode, activeCountyMode)} as percentage of max value</span>
+            </div>
             <div class="colors">
                 {#each colorScale as color, i}
                     <div class="color-item">
                         <div class="color-circle" style="background-color: {color};"></div>
                         <span class="percentage" style="color: {color};">
-                            {i === 0 ? '0%' : 
-                             i === 1 ? '24%' : 
-                             i === 2 ? '48%' : 
-                             i === 3 ? '71%' : 
-                             '98%'}
+                            {scaleValues[i]}
+                            <br/>
+                            ({i * 25}%)
                         </span>
                     </div>
                 {/each}
+                <div class="color-item">
+                    <div class="color-circle" style="background-color: {undefinedColor};"></div>
+                    <span class="percentage" style="color: {undefinedColor};">
+                        N/A
+                    </span>
+                </div>
             </div>
         </div>
     </div>
@@ -127,10 +175,9 @@
     .header {
         display: flex;
         align-items: flex-start;
-        justify-content: flex-start;
-        gap: 0.5rem;
-        padding: 1rem;
-        padding-left: 2rem;
+        justify-content: space-between;
+        padding: 0.7rem;
+        padding-left: 1.5rem;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
         color: var(--color-fg);
         width: 100%;
@@ -139,26 +186,26 @@
     .sections-container {
         display: flex;
         flex-direction: column;
-        gap: 1rem;
+        gap: 0.7rem;
         margin-right: auto;
     }
 
     .top-sections {
         display: flex;
-        gap: 0.5rem;
+        gap: 0.3rem;
     }
 
     .bottom-section {
-        margin-left: 9rem;
+        margin-left: 7rem;
     }
 
     .separator {
-        width: 2px;
-        height: 50px;
-        background: black;
-        margin: 0 0.5rem;
+        width: 1px;
+        height: 55px;
+        background: white;
+        margin: 0 0.3rem;
         align-self: flex-end;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.3rem;
     }
 
     .section {
@@ -168,47 +215,60 @@
     }
 
     .title {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         text-transform: uppercase;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.3rem;
         text-align: left;
-        padding-left: 1rem;
+        padding-left: 0.7rem;
+        color: white;
+        display: flex;
+        gap: 0.2rem;
     }
 
     .buttons {
         display: flex;
-        gap: 0.3rem;
+        gap: 0.2rem;
     }
 
     .mode-btn {
-        padding: 0.25rem 0.5rem;
-        border: 1px solid var(--color-fg);
+        padding: 0.2rem 0.4rem;
+        border: 1px solid white;
         background: transparent;
-        color: var(--color-fg);
+        color: white;
         cursor: pointer;
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         border-radius: 3px;
-        min-width: 60px;
+        min-width: 50px;
         text-align: center;
     }
 
     .mode-btn.active {
-        background: var(--color-fg);
-        color: var(--color-bg);
-        border-color: var(--color-fg);
+        background: white;
+        color: #000019;
+        border-color: white;
     }
 
     .legend {
         display: flex;
         gap: 2rem;
-        align-items: center;
+        align-items: flex-start;
+        position: relative;
+        left: -150px;
     }
 
     .size-legend, .color-legend {
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin-left: 1rem;
+        gap: 0.7rem;
+        min-height: 100px;
+    }
+
+    .size-legend .title, .color-legend .title {
+        margin-bottom: 0.7rem;
+        align-self: center;
+        min-width: 50px;
+        text-align: center;
     }
 
     .circles, .colors {
@@ -226,7 +286,7 @@
 
     .circle {
         border-radius: 50%;
-        background-color: var(--color-fg);
+        background-color: white;
         margin-bottom: 4px;
     }
 
@@ -245,19 +305,31 @@
     }
 
     .color-circle {
-        width: 15px;
-        height: 15px;
+        width: 10px;
+        height: 10px;
         border-radius: 50%;
     }
 
     .percentage {
-        font-size: 12px;
+        font-size: 10px;
         font-weight: 500;
+        writing-mode: vertical-rl;
+        text-orientation: mixed;
+        height: 60px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
     }
 
     .colors {
         display: flex;
         gap: 0.5rem;
         align-items: flex-start;
+    }
+
+    .circle-group span {
+        color: white;
+        font-size: 0.7rem;
     }
 </style>

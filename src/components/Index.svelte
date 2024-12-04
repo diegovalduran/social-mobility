@@ -236,34 +236,196 @@
 				</div>
 			</section>
 
-			<section id="outro">
+			<section id="body">
 				{#each copy.overview as { value }}
 					<p>{@html value}</p>
 				{/each}
 				<hr class="separator" />
 				
-				<div class="additional-content">
-					<p>Your new text content here.</p>
-					<p>You can add multiple paragraphs.</p>
-					<p>If you need links they can be added like <a href="#">this</a>.</p>
+				{#each copy.map1 as { value }}
+					<p>{@html value}</p>
+				{/each}
+				<hr class="separator" />
+
+				<!-- First preset button -->
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "EC" && activeCountyMode === "OFF"}
+							on:click={() => {
+								activeMode = "EC";
+								activeCountyMode = "OFF";
+							}}
+						>
+							Economic Connectedness
+						</button>
+					</div>
 				</div>
+
+				{#each copy.map2 as { value }}
+					<p>{@html value}</p>
+				{/each}
+				<hr class="separator" />
+
+				<!-- Second preset button -->
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "EXPOSURE_GRP_MEM" && activeCountyMode === "POP2018"}
+							on:click={() => {
+								activeMode = "EXPOSURE_GRP_MEM";
+								activeCountyMode = "POP2018";
+							}}
+						>
+							Exposure & Population
+						</button>
+					</div>
+				</div>
+
+				{#each copy.map3 as { value }}
+					<p>{@html value}</p>
+				{/each}
+				<hr class="separator" />
+
+				<!-- Third preset button -->
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "EXPOSURE_GRP_MEM_HIGH" && activeCountyMode === "POP2018"}
+							on:click={() => {
+								activeMode = "EXPOSURE_GRP_MEM_HIGH";
+								activeCountyMode = "POP2018";
+							}}
+						>
+							Exposure for High SES
+						</button>
+					</div>
+				</div>
+
+				{#each copy.map4 as { value }}
+					<p>{@html value}</p>
+				{/each}
+				<hr class="separator" />
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "EXPOSURE_GRP_MEM_HIGH" && activeCountyMode === "CLUSTERING"}
+							on:click={() => {
+								activeMode = "EXPOSURE_GRP_MEM_HIGH";
+								activeCountyMode = "CLUSTERING";
+								handleModeChange({ 
+									detail: { 
+										mode: "CLUSTERING", 
+										type: "county" 
+									}
+								});
+							}}
+						>
+							Clustering Percentage
+						</button>
+					</div>
+				</div>
+
+				{#each copy.map5 as { value }}
+					<p>{@html value}</p>
+				{/each}
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "EXPOSURE_GRP_MEM_HIGH" && activeCountyMode === "VOLUNTEERING"}
+							on:click={() => {
+								activeMode = "EXPOSURE_GRP_MEM_HIGH";
+								activeCountyMode = "VOLUNTEERING";
+								handleModeChange({ 
+									detail: { 
+										mode: "VOLUNTEERING", 
+										type: "county" 
+									}
+								});
+							}}
+						>
+							Volunteering Rate
+						</button>
+					</div>
+				</div>
+
+				{#each copy.map6 as { value }}
+					<p>{@html value}</p>
+				{/each}
+
+				<hr class="separator" />
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "BIAS_GRP_MEM" && activeCountyMode === "VOLUNTEERING"}
+							on:click={() => {
+								activeMode = "BIAS_GRP_MEM";
+								activeCountyMode = "VOLUNTEERING";
+							}}
+						>
+							LOW SES Bias
+						</button>
+					</div>
+				</div>
+
+				{#each copy.map7 as { value }}
+					<p>{@html value}</p>
+				{/each}
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "BIAS_GRP_MEM_HIGH" && activeCountyMode === "VOLUNTEERING"}
+							on:click={() => {
+								activeMode = "BIAS_GRP_MEM_HIGH";
+								activeCountyMode = "VOLUNTEERING";
+							}}
+						>
+							HIGH SES Bias
+						</button>
+					</div>
+				</div>
+
+
+				{#each copy.map8 as { value }}
+					<p>{@html value}</p>
+				{/each}
+				<hr class="separator" />
 			</section>
 		</article>
 	</div>
 </div>
 
 <style>
-	/* Prevent scrolling on the body */
 	:global(body) {
 		overflow: hidden;
 		margin: 0;
 		padding: 0;
+		background-color: #000019;
 	}
 
 	.layout {
 		display: flex;
 		height: 100vh;
 		position: relative;
+		background-color: #000019;
 	}
 
 	.map-container {
@@ -479,5 +641,49 @@
 		line-height: 1.5;
 		margin-bottom: 14px;
 		font-family: "Times New Roman", Times, serif;
+	}
+
+	.preset-buttons {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
+		margin: 0;
+		justify-content: center;
+	}
+
+	.preset-btn {
+		padding: 8px 16px;
+		border: 1px solid #333;
+		background: white;
+		color: #333;
+		cursor: pointer;
+		border-radius: 20px;
+		font-size: 14px;
+		transition: all 0.2s ease;
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+	}
+
+	.preset-btn:hover {
+		background: #f0f0f0;
+	}
+
+	.preset-btn.active {
+		background: #333;
+		color: white;
+	}
+
+	.preset-section {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin: 12px 0;
+	}
+
+	.click-me {
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+		font-size: 12px;
+		margin-bottom: 4px;
+		color: #333;
+		font-weight: 600;
 	}
 </style>

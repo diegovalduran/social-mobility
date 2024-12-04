@@ -39,11 +39,71 @@
     },
     {
         "type": "text",
-        "value": "To begin addressing these questions, we analyzed social capital metrics like economic connectedness, social cohesiveness, and civic engagement alongside measures of economic mobility. Using this data, we created an interactive map to visualize these dynamics across the country, uncovering patterns and disparities in social and economic networks at the macro level."
+        "value": "To begin addressing these questions, we analyzed social capital metrics like economic connectedness, social cohesiveness, and civic engagement alongside measures of economic mobility."
+    }
+  ],
+  "map1": [
+    {
+      "type": "text",
+      "value": "Let’s begin with a macro view: a map of economic connectedness across U.S. counties as a lens into social networks shaping economic mobility. The color intensity reflects the prevalence of high-SES (socioeconomic status) friendships among low-SES individuals. Bright regions signify stronger integration across socioeconomic lines."
     },
     {
         "type": "text",
-        "value": "First, let’s look at how social capital varies across U.S. counties."
+        "value": "One striking pattern is the disparity in economic connectedness. Urban centers and regions with diverse economic opportunities tend to show higher scores, while rural areas and some economically isolated regions fall behind. This variation highlights uneven opportunities for forming cross-class friendships, a factor closely tied to upward mobility. Darker hues in the South and Southwest emphasize fragmented networks in these areas, shaped by systemic challenges like residential segregation and economic inequality."
+      }
+  ],
+  "map2": [
+    {
+      "type": "text",
+      "value": "Shifting focus to the economic connectedness of high-SES individuals reveals a contrasting map. Bright regions indicate areas where high-SES individuals form dense networks among themselves. These clusters shine brightest in affluent urban and suburban regions along the coasts, including Silicon Valley, Seattle, Denver, and the New York City area, fueled by elite educational institutions, exclusive social venues, and well-connected professional networks."
+    },
+    {
+        "type": "text",
+        "value": "Rural areas, by contrast, show fewer networks, though some pockets in the central west stand out. These may reflect small, affluent communities or industries fostering tight-knit high-SES connections. Interestingly, a few counties display balanced scores between low-SES and high-SES connectedness, suggesting pockets of integration which tends to occur more in rural areas and states."
+      }
+  ],
+  "map3": [
+    {
+      "type": "text",
+      "value": "Let’s layer in the 2018 population data, aggregated for each county in each state as points in the center of each state, to see if we can uncover anything else. At first glance, no new immediate patterns emerge, so let’s switch to the exposure metric for low-SES individuals—how often they interact with high-SES peers in shared settings—to explore these dynamics. Bright regions in the Midwest and central-west suggest that shared spaces like workplaces may blur socioeconomic lines, fostering these interactions. Conversely, dimmer shades in the South and rural areas underscore the isolation of low-SES individuals, limiting access to high-SES networks and, consequently, economic opportunity."
+    }
+  ],
+  "map4": [
+    {
+      "type": "text",
+      "value": "Exposure among high-SES individuals gives us another perspective. Bright regions cluster in affluent urban and suburban areas, in familiar places like Silicon Valley, Boston, and parts of Washington, D.C., underscoring self-reinforcing networks among the well connected. In contrast, rural areas remain dim, highlighting fewer opportunities for high-SES individuals to interact, even with peers of similar socioeconomic status."
+    },
+    {
+        "type": "text",
+        "value": "This continuing divide showcases how high-SES networks often operate within exclusive bubbles, reinforcing inequality even in regions where they overlap with lower-SES populations."
+    }
+  ],
+  "map5": [
+    {
+      "type": "text",
+      "value": "Let’s go one level deeper: clustering and volunteering rates, which gives us more insights into community dynamics. The sizes of the bubbles show us how connected or civically engaged a county’s residents are."
+    },
+    {
+        "type": "text",
+        "value": "Clustering reveals tightly-knit local networks, especially in rural areas and small towns where 'everyone knows everyone.' Bright regions in these areas contrast with urban centers, where networks are more dispersed. While clustering fosters local support, it may limit exposure to broader opportunities, especially in economically homogenous areas. Notably, Eastern and South Eastern regions tend to have larger clustering measures."
+    }
+  ],
+  "map6": [
+    {
+      "type": "text",
+      "value": "Volunteering, a marker of civic engagement, tells a different story. Bright pockets in the Midwest and coastal areas highlight active community involvement, sometimes independent of clustering. Urban areas with low clustering but high volunteering suggest engagement driven by shared missions rather than close personal ties. However, we find notably low volunteering rates as state aggregates amongst the South, where systemic challenges, economic disparities, and lower access to resources may hinder civic participation."
+    }
+  ],
+  "map7": [
+    {
+      "type": "text",
+      "value": "In the final metric we’ll examine at the macro level, we explore friending bias as a measure of the gap between exposure and actual cross-class friendships. Interestingly, for low-SES individuals the Midwest reveals pockets of low or even negative bias, indicating areas where cross-class friendships exceed expectations based on exposure. However, much of the U.S. map falls within a relatively narrow range of friendly bias, from -0.02 to 0.16, distributed uniformly across various regions. This uniformity suggests a broad but modest variation in the extent to which shared spaces lead to meaningful social integration. A few counties stick out like Todd, SD, DeSoto, FL and Corson, SD as exhibiting particularly high bias."
+    }
+  ],
+  "map8": [
+    {
+        "type": "text",
+        "value": "The switch from low-SES to high-SES friending bias is drastic. High-SES individuals generally exhibit much lower bias, with most values falling below 0. In densely packed urban and suburban areas, bias tends to hover closer to 0, reflecting slightly more balanced opportunities for interaction within socioeconomic groups. However, regions in the South, particularly concentrated around Georgia, stand out with notably low bias, highlighting areas where high-SES individuals are more integrated into their communities, although within limited socioeconomic spheres."
     }
   ],
   "outro": ""

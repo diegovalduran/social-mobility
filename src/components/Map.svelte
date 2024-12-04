@@ -1,4 +1,3 @@
-
 <script>
 	import {
 		ascending,
@@ -12,7 +11,8 @@
 		sum,
 		color,
 		scaleLinear,
-		geoPath
+		geoPath,
+		interpolateRgb
 	} from "d3";
 	import { getContext, beforeUpdate, afterUpdate } from "svelte";
 	import Figure from "$components/Figure.svelte";
@@ -94,6 +94,9 @@
 		textPrimary: "#333333"
 	};
 
+	// Define the color scale array - purple to true red gradient
+	const colorScale = ['#2D1160', '#7B2F8F', '#B7367A', '#E34B60', '#FFD700'];
+
 	export let activeMode = "EC";  // Add this prop
 	export let activeCountyMode = "OFF";  // Add this line
 
@@ -112,11 +115,21 @@
 		"BIAS_GRP_MEM_HIGH": [-0.53618002, -0.043249998]
 	};
 
-	// Update the COLOR_SCALE to be reactive to activeMode
-	$: COLOR_SCALE = scaleLinear()
-		.domain(activeMode in scaleRanges ? scaleRanges[activeMode] : [0, 1])
-		.range(['#230e79', '#a6287f', '#ff5500', '#f2cecf', '#fffe04'])
-		.clamp(true);
+	// Update the COLOR_SCALE to be reactive to activeMode and use smooth interpolation
+	$: COLOR_SCALE = (value) => {
+		if (!value || isNaN(value)) return '#cccccc'; // Default color for missing data
+		
+		const [min, max] = scaleRanges[activeMode] || [0, 1];
+		const normalizedValue = (value - min) / (max - min);
+		
+		// Create a continuous color scale with more interpolation points
+		return scaleLinear()
+			.domain([0, 0.25, 0.5, 0.75, 1])
+			.range(colorScale)
+			.interpolate(interpolateRgb) // Use RGB interpolation for smoother transitions
+			.clamp(true)
+			(normalizedValue);
+	};
 
 	// Replace the current CENTROID_SCALE definition
 	$: CENTROID_SCALE = (() => {
