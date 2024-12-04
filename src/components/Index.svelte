@@ -51,7 +51,8 @@
 	let statesMesh;
 	let nationMesh;
 	let clientWidth;
-	let activeMode = "COUNTY";
+	let activeMode = "EC";
+	let activeCountyMode = "OFF";
 	let mounted = false;
 	let visualizationMode = "map";
 	let showBarChart = true;
@@ -105,8 +106,13 @@
 
 	function handleModeChange(event) {
 		if (mounted) {
-			activeMode = event.detail;
-			console.log("Mode changed in Index:", activeMode);
+			const { mode, type } = event.detail;
+			if (type === 'county') {
+				activeCountyMode = mode;
+			} else {
+				activeMode = mode;
+			}
+			console.log("Mode changed in Index:", { activeMode, activeCountyMode });
 			placeData = [...placeData];
 		}
 	}
@@ -170,6 +176,7 @@
 				{#if visualizationMode === "map"}
 					<MapHeader 
 						{activeMode}
+						{activeCountyMode}
 						on:modeChange={handleModeChange}
 					/>
 					<Map
@@ -184,6 +191,7 @@
 						{location}
 						{countiesByDist}
 						{activeMode}
+						{activeCountyMode}
 					/>
 				{:else if visualizationMode === "bubbles"}
 					<BubbleSection 
@@ -216,8 +224,8 @@
 		<article>
 			<section id="intro">
 				<div class="hero">
-					<p class="overline"><strong>{@html copy.overline}</strong></p>
 					<h1 class="hed">{copy.hed}</h1>
+					<p class="overline"><strong>{@html copy.overline}</strong></p>
 					<!-- <p class="dek">{copy.dek}</p> -->
 				</div>
 
@@ -225,85 +233,22 @@
 					<div class="select">
 						<Select {options} on:change={({ detail }) => onChangePlace(detail)} />
 					</div>
-
-					<div class="discover">
-						<details bind:open>
-							<summary
-								>{copy.discoverySummary}
-								{summarySuffix}{#if location?.state}<Icon
-										name="map-pin"
-										strokeWidth="3px"
-									/>{/if}</summary
-							>
-
-							<div class="inner">
-								{#if nearestOptions && nearestOptions.length}
-									<div class="locate">
-										<p>{copy.locate}</p>
-										<ul>
-											{#each nearestOptions as d}
-												{@const { name, state } = d}
-												<li>
-													<button on:click={() => onChangePlace(d)}
-														>{name}, {state}</button
-													>
-												</li>
-											{/each}
-										</ul>
-									</div>
-								{/if}
-
-								<div class="classic">
-									<p>{copy.classic}</p>
-									<ul>
-										{#each classics as d}
-											{@const { name } = d}
-											<li>
-												<button on:click={() => onChangePlace(d)}>{name}</button>
-											</li>
-										{/each}
-									</ul>
-								</div>
-							</div>
-						</details>
-					</div>
 				</div>
 			</section>
 
 			<section id="outro">
-				{#each copy.info as { value }}
+				{#each copy.overview as { value }}
 					<p>{@html value}</p>
 				{/each}
-				<p>{@html copy.outro}</p>
-				<p>
-					<Tip
-						text="Send a tip to The Pudding"
-						href="https://donate.stripe.com/00g03oaJRggE3zqeUW"
-					/>
-				</p>
-			</section>
-
-			<section id="changelog">
-				<details>
-					<summary>Data Changelog</summary>
-					<div class="inner">
-						{#if changelogByDate.length === 0}
-							<p>No changes to the data.</p>
-						{:else}
-							{#each changelogByDate as { date, values }}
-								<p><strong>{date}</strong></p>
-								<ul>
-									{#each values as { text }}
-										<li>{@html text}</li>
-									{/each}
-								</ul>
-							{/each}
-						{/if}
-					</div>
-				</details>
+				<hr class="separator" />
+				
+				<div class="additional-content">
+					<p>Your new text content here.</p>
+					<p>You can add multiple paragraphs.</p>
+					<p>If you need links they can be added like <a href="#">this</a>.</p>
+				</div>
 			</section>
 		</article>
-		<Footer />
 	</div>
 </div>
 
@@ -335,9 +280,10 @@
 		height: 100vh;
 		overflow-y: auto;
 		overflow-x: hidden;
-		padding: 16px;
+		padding: 16px 24px;
 		border-left: 1px solid #ddd;
 		background: white;
+		font-family: "Times New Roman", Times, serif;
 	}
 
 	#interactive {
@@ -349,14 +295,47 @@
 		background: transparent;
 	}
 
-	.overline {
-		margin: 0;
-		line-height: 1.2;
+	.hero {
+		margin-bottom: 48px;
+		text-align: center;
 	}
 
 	.hed {
-		margin-top: 8px;
+		font-size: 28px;
 		line-height: 1.2;
+		margin: 0 0 12px 0;
+		font-weight: bold;
+		text-align: center;
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	.overline {
+		font-size: 12px;
+		color: #666;
+		margin: 0;
+		font-style: italic;
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	p {
+		font-size: 14px;
+		line-height: 1.5;
+		margin-bottom: 14px;
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	a {
+		color: #000;
+		text-decoration: underline;
+		text-decoration-thickness: 1px;
+	}
+
+	/* Style for bylines/credits */
+	.credits {
+		font-size: 12px;
+		color: #666;
+		margin: 24px 0;
+		text-align: center;
 	}
 
 	.inner {
@@ -369,10 +348,10 @@
 	}
 
 	.inner p {
+		font-size: 14px;
 		text-align: center;
 		font-weight: 900;
 		text-transform: uppercase;
-		font-size: var(--16px);
 		margin-bottom: 0;
 	}
 
@@ -481,5 +460,24 @@
 		margin-bottom: 1rem;
 		font-size: 1.5rem;
 		text-align: center;
+	}
+
+	.separator {
+		margin: 24px 0;
+		border: none;
+		height: 1px;
+		background-color: #ddd; /* light grey color - you can adjust this */
+		width: 100%;
+	}
+
+	.additional-content {
+		margin-top: 24px;
+	}
+
+	.additional-content p {
+		font-size: 14px;
+		line-height: 1.5;
+		margin-bottom: 14px;
+		font-family: "Times New Roman", Times, serif;
 	}
 </style>

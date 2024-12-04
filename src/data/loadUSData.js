@@ -16,13 +16,13 @@ async function loadSocialCapitalData() {
 			childEcValue: d.child_ec_county ? +d.child_ec_county : 0,
 			exposureGrpMem: d.exposure_grp_mem_county ? +d.exposure_grp_mem_county : 0,
 			biasGrpMem: d.bias_grp_mem_county ? +d.bias_grp_mem_county : 0,
-			ecHighSe: d.ec_high_se_county ? +d.ec_high_se_county : 0,
+			ecHigh: d.ec_high_county ? +d.ec_high_county : 0,
 			childHighEc: d.child_high_ec_county ? +d.child_high_ec_county : 0,
 			exposureGrpMemHigh: d.exposure_grp_mem_high_county ? +d.exposure_grp_mem_high_county : 0,
 			biasGrpMemHigh: d.bias_grp_mem_high_county ? +d.bias_grp_mem_high_county : 0,
 			numBelowP50: d.num_below_p50 ? +d.num_below_p50 : 0,
 			clusteringCounty: d.clustering_county ? +d.clustering_county : 0,
-			supportRatioCounty: d.support_ratio_county ? +d.support_ratio_county : 0
+			volunteeringRate: d.volunteering_rate_county ? +d.volunteering_rate_county : 0
 		}];
 	}));
 }
@@ -98,13 +98,13 @@ export default async function cleanUSData() {
 						childEcValue: data?.childEcValue || 0,
 						exposureGrpMem: data?.exposureGrpMem || 0,
 						biasGrpMem: data?.biasGrpMem || 0,
-						ecHighSe: data?.ecHighSe || 0,
+						ecHigh: data?.ecHigh || 0,
 						childHighEc: data?.childHighEc || 0,
 						exposureGrpMemHigh: data?.exposureGrpMemHigh || 0,
 						biasGrpMemHigh: data?.biasGrpMemHigh || 0,
 						numBelowP50: data?.numBelowP50 || 0,
 						clusteringCounty: data?.clusteringCounty || 0,
-						supportRatioCounty: data?.supportRatioCounty || 0
+						volunteeringRate: data?.volunteeringRate || 0
 					}
 				};
 			})

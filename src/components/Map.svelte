@@ -94,9 +94,26 @@
 	};
 
 	export let activeMode = "EC";  // Add this prop
+	export let activeCountyMode = "OFF";  // Add this line
 
+	// Add these scale ranges at the top of the script
+	const scaleRanges = {
+		// Low SES
+		"EC": [0.2946900, 1.3597],
+		"CHILD_EC": [0.22188, 1.61136],
+		"EXPOSURE_GRP_MEM": [0.2552, 1.48628],
+		"BIAS_GRP_MEM": [-0.10809, 0.33456999],
+		
+		// High SES
+		"EC_HIGH": [0.70062, 1.71507],
+		"CHILD_HIGH_EC": [0.24529999, 1.69122],
+		"EXPOSURE_GRP_MEM_HIGH": [0.51012999, 1.66616],
+		"BIAS_GRP_MEM_HIGH": [-0.53618002, -0.043249998]
+	};
+
+	// Update the COLOR_SCALE to be reactive to activeMode
 	$: COLOR_SCALE = scaleLinear()
-		.domain(activeMode === "EC" ? [0, 1.36] : [0, 1000000])
+		.domain(activeMode in scaleRanges ? scaleRanges[activeMode] : [0, 1])
 		.range(['#230e79', '#a6287f', '#ff5500', '#f2cecf', '#fffe04'])
 		.clamp(true);
 
@@ -136,8 +153,8 @@
 			displayValue = `Exposure Group: ${(feature.properties.exposureGrpMem || 0).toFixed(2)}`;
 		} else if (activeMode === "BIAS_GRP_MEM") {
 			displayValue = `Bias Group: ${(feature.properties.biasGrpMem || 0).toFixed(2)}`;
-		} else if (activeMode === "EC_HIGH_SE") {
-			displayValue = `EC High SE: ${(feature.properties.ecHighSe || 0).toFixed(2)}`;
+		} else if (activeMode === "EC_HIGH") {
+			displayValue = `EC High: ${(feature.properties.ecHigh || 0).toFixed(2)}`;
 		} else if (activeMode === "CHILD_HIGH_EC") {
 			displayValue = `Child High EC: ${(feature.properties.childHighEc || 0).toFixed(2)}`;
 		} else if (activeMode === "EXPOSURE_GRP_MEM_HIGH") {
@@ -148,8 +165,8 @@
 			displayValue = `Below P50: ${(feature.properties.numBelowP50 || 0).toLocaleString()}`;
 		} else if (activeMode === "CLUSTERING") {
 			displayValue = `Clustering: ${(feature.properties.clusteringCounty || 0).toFixed(3)}`;
-		} else if (activeMode === "SUPPORT_RATIO") {
-			displayValue = `Support Ratio: ${(feature.properties.supportRatioCounty || 0).toFixed(3)}`;
+		} else if (activeMode === "VOLUNTEERING") {
+			displayValue = `Volunteering Rate: ${(feature.properties.volunteering_rate_county || 0).toFixed(3)}`;
 		} else {
 			displayValue = `Population: ${(feature.properties.population || 0).toLocaleString()}`;
 		}
@@ -318,31 +335,45 @@
 		console.log('Current activeMode:', activeMode);
 		
 		countyFeaturesRender = countyFeatures.map(d => {
-			const value = activeMode === "EC" 
-				? d.properties.ecValue
-				: activeMode === "POP"
-				? d.properties.population
-				: activeMode === "CHILD_EC"
-				? d.properties.childEcValue
-				: activeMode === "EXPOSURE_GRP_MEM"
-				? d.properties.exposureGrpMem
-				: activeMode === "BIAS_GRP_MEM"
-				? d.properties.biasGrpMem
-				: activeMode === "EC_HIGH_SE"
-				? d.properties.ecHighSe
-				: activeMode === "CHILD_HIGH_EC"
-				? d.properties.childHighEc
-				: activeMode === "EXPOSURE_GRP_MEM_HIGH"
-				? d.properties.exposureGrpMemHigh
-				: activeMode === "BIAS_GRP_MEM_HIGH"
-				? d.properties.biasGrpMemHigh
-				: activeMode === "NUM_BELOW_P50"
-				? d.properties.numBelowP50
-				: activeMode === "CLUSTERING"
-				? d.properties.clusteringCounty
-				: activeMode === "SUPPORT_RATIO"
-				? d.properties.supportRatioCounty
-				: d.properties.population;
+			let value;
+			
+			// If county mode is active, use that value
+			if (activeCountyMode !== "OFF") {
+				value = activeCountyMode === "POP2018" 
+					? d.properties.population
+					: activeCountyMode === "NUM_BELOW_P50"
+					? d.properties.numBelowP50
+					: activeCountyMode === "CLUSTERING"
+					? d.properties.clusteringCounty
+					: activeCountyMode === "VOLUNTEERING"
+					? d.properties.volunteering_rate_county
+					: null;
+			} else {
+				// Otherwise use the SES mode value
+				value = activeMode === "EC" 
+					? d.properties.ecValue
+					: activeMode === "CHILD_EC"
+					? d.properties.childEcValue
+					: activeMode === "EXPOSURE_GRP_MEM"
+					? d.properties.exposureGrpMem
+					: activeMode === "BIAS_GRP_MEM"
+					? d.properties.biasGrpMem
+					: activeMode === "EC_HIGH"
+					? d.properties.ecHigh
+					: activeMode === "CHILD_HIGH_EC"
+					? d.properties.childHighEc
+					: activeMode === "EXPOSURE_GRP_MEM_HIGH"
+					? d.properties.exposureGrpMemHigh
+					: activeMode === "BIAS_GRP_MEM_HIGH"
+					? d.properties.biasGrpMemHigh
+					: activeMode === "NUM_BELOW_P50"
+					? d.properties.numBelowP50
+					: activeMode === "CLUSTERING"
+					? d.properties.clusteringCounty
+					: activeMode === "VOLUNTEERING"
+					? d.properties.volunteering_rate_county
+					: d.properties.population;
+			}
 
 			return {
 				...d,
@@ -450,8 +481,8 @@
 						? COLOR_SCALE(d.properties.exposureGrpMem || 0)
 						: activeMode === "BIAS_GRP_MEM"
 						? COLOR_SCALE(d.properties.biasGrpMem || 0)
-						: activeMode === "EC_HIGH_SE"
-						? COLOR_SCALE(d.properties.ecHighSe || 0)
+						: activeMode === "EC_HIGH"
+						? COLOR_SCALE(d.properties.ecHigh || 0)
 						: activeMode === "CHILD_HIGH_EC"
 						? COLOR_SCALE(d.properties.childHighEc || 0)
 						: activeMode === "EXPOSURE_GRP_MEM_HIGH"
@@ -462,8 +493,8 @@
 						? COLOR_SCALE(d.properties.numBelowP50 || 0)
 						: activeMode === "CLUSTERING"
 						? COLOR_SCALE(d.properties.clusteringCounty || 0)
-						: activeMode === "SUPPORT_RATIO"
-						? COLOR_SCALE(d.properties.supportRatioCounty || 0)
+						: activeMode === "VOLUNTEERING"
+						? COLOR_SCALE(d.properties.volunteering_rate_county || 0)
 						: COLOR_SCALE(d.properties.population || 0)
 				}
 			}));
@@ -514,11 +545,11 @@
 			<MapPath features={nationMesh} stroke={COLOR_FG} strokeWidth="0.5" />
 			<MapPath features={activeFeatures} stroke={COLOR_FG} strokeWidth="2" />
 			<MapPoints 
-				features={activeMode === "OFF" ? [] : stateCentroids.map(centroid => ({
+				features={activeMode === "OFF" || activeCountyMode === "OFF" ? [] : stateCentroids.map(centroid => ({
 					type: "Feature",
 					geometry: {
 						type: "Point",
-							coordinates: [centroid.longitude, centroid.latitude]
+						coordinates: [centroid.longitude, centroid.latitude]
 					},
 					properties: {
 						name: centroid.state,

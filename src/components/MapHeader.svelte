@@ -1,5 +1,6 @@
 <script>
     export let activeMode = "EC";
+    let activeCountyMode = "OFF";
 
     const lowSES = [
         { mode: "EC", label: "EC" },
@@ -9,7 +10,7 @@
     ];
 
     const highSES = [
-        { mode: "EC_HIGH_SE", label: "EC-H" },
+        { mode: "EC_HIGH", label: "EC-H" },
         { mode: "CHILD_HIGH_EC", label: "Child-H" },
         { mode: "EXPOSURE_GRP_MEM_HIGH", label: "Exp-H" },
         { mode: "BIAS_GRP_MEM_HIGH", label: "Bias-H" }
@@ -20,7 +21,7 @@
         { mode: "POP2018", label: "Pop." },
         { mode: "NUM_BELOW_P50", label: "Below P50" },
         { mode: "CLUSTERING", label: "Cluster" },
-        { mode: "SUPPORT_RATIO", label: "Support" }
+        { mode: "VOLUNTEERING", label: "Volunteer" }
     ];
 
     const sizeScale = ["1K", "50K", "1M+"];
@@ -30,8 +31,13 @@
     const dispatch = createEventDispatcher();
 
     function handleModeClick(mode) {
-        activeMode = mode;
-        dispatch('modeChange', mode);
+        if (countyStats.some(item => item.mode === mode)) {
+            activeCountyMode = mode;
+            dispatch('modeChange', { mode, type: 'county' });
+        } else {
+            activeMode = mode;
+            dispatch('modeChange', { mode, type: 'ses' });
+        }
     }
 </script>
 
@@ -74,7 +80,7 @@
                 {#each countyStats as { mode, label }}
                     <button 
                         class="mode-btn" 
-                        class:active={mode === activeMode}
+                        class:active={mode === activeCountyMode}
                         on:click={() => handleModeClick(mode)}
                     >
                         {label}
