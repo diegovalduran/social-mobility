@@ -120,21 +120,35 @@
 
 	// Replace the current CENTROID_SCALE definition
 	$: CENTROID_SCALE = (() => {
-		if (!stateAggregations) return scaleLog().domain([1, 100]).range([2, 20]);
+		if (!stateAggregations) return scaleLog().domain([1, 100]).range([4, 25]);
 		
-		const populations = Object.values(stateAggregations)
-			.map(d => d.population || 1)
-			.filter(p => p > 0);
+		const values = Object.values(stateAggregations)
+			.map(d => {
+				if (activeCountyMode === "POP2018") return d.population || 1;
+				if (activeCountyMode === "NUM_BELOW_P50") return d.numBelowP50 || 1;
+				if (activeCountyMode === "CLUSTERING") return d.clusteringAvg || 0;
+				if (activeCountyMode === "VOLUNTEERING") return d.volunteeringAvg || 0;
+				return 1;
+			})
+			.filter(v => v > 0);
 		
-		const minPop = Math.min(...populations);
-		const maxPop = Math.max(...populations);
+		const minVal = Math.min(...values);
+		const maxVal = Math.max(...values);
 		
-		console.log("Population range:", {minPop, maxPop});
+		console.log(`${activeCountyMode} range:`, {minVal, maxVal});
 		
-		return scaleLog()
-			.domain([minPop, maxPop])
-			.range([2, 20])
-			.clamp(true);
+		// Use linear scale for clustering and volunteering, log scale for others
+		if (activeCountyMode === "CLUSTERING" || activeCountyMode === "VOLUNTEERING") {
+			return scaleLinear()
+				.domain([minVal, maxVal])
+				.range([4, 25])
+				.clamp(true);
+		} else {
+			return scaleLog()
+				.domain([minVal, maxVal])
+				.range([2, 25])
+				.clamp(true);
+		}
 	})();
 
 	// Add this state mapping object near the top of the script
@@ -608,39 +622,47 @@
 		
 		const aggregations = {};
 		
-		// First pass: aggregate the data
 		counties.features.forEach(county => {
 			const stateName = county.properties.state;
 			if (!aggregations[stateName]) {
 				aggregations[stateName] = {
 					totalCounties: 0,
 					population: 0,
-					belowP50: 0,
-					clustering: {
-						sum: 0,
-						count: 0
-					},
-					volunteering: {
-						sum: 0,
-						count: 0
-					}
+					numBelowP50: 0,
+					clusteringSum: 0,
+					clusteringCount: 0,
+					volunteeringSum: 0,
+					volunteeringCount: 0
 				};
 			}
 
 			aggregations[stateName].totalCounties++;
+			
 			if (county.properties.population) {
 				aggregations[stateName].population += county.properties.population;
 			}
-			// ... other aggregations ...
+			if (county.properties.numBelowP50) {
+				aggregations[stateName].numBelowP50 += county.properties.numBelowP50;
+			}
+			if (county.properties.clusteringCounty != null) {
+				aggregations[stateName].clusteringSum += county.properties.clusteringCounty;
+				aggregations[stateName].clusteringCount++;
+			}
+			if (county.properties.volunteeringRate != null) {
+				aggregations[stateName].volunteeringSum += county.properties.volunteeringRate;
+				aggregations[stateName].volunteeringCount++;
+			}
 		});
 
-		// Log the aggregated results
-		console.log("State Population Aggregations:");
-		Object.entries(aggregations)
-			.sort((a, b) => b[1].population - a[1].population) // Sort by population
-			.forEach(([state, data]) => {
-				console.log(`${state}: ${format(",")(data.population)} people, ${data.totalCounties} counties`);
-			});
+		// Calculate averages
+		Object.entries(aggregations).forEach(([state, data]) => {
+			data.clusteringAvg = data.clusteringCount > 0 
+				? data.clusteringSum / data.clusteringCount 
+				: 0;
+			data.volunteeringAvg = data.volunteeringCount > 0 
+				? data.volunteeringSum / data.volunteeringCount 
+				: 0;
+		});
 
 		return aggregations;
 	}
@@ -733,27 +755,44 @@
 			<MapPath features={nationMesh} stroke={COLOR_FG} strokeWidth="0.5" />
 			<MapPath features={activeFeatures} stroke={COLOR_FG} strokeWidth="2" />
 			<MapPoints 
-				features={activeCountyMode === "POP2018" ? stateCentroids.map(centroid => {
-					const population = stateAggregations[centroid.state]?.population || 1;
-					const radius = CENTROID_SCALE(population);
-					
-					return {
-						type: "Feature",
-						geometry: {
-							type: "Point",
-							coordinates: [centroid.longitude, centroid.latitude]
-						},
-						properties: {
-							name: centroid.state,
-							fill: "white",
-							pointRadius: radius,
-							population: population
+				features={activeCountyMode === "POP2018" || activeCountyMode === "NUM_BELOW_P50" || 
+						  activeCountyMode === "CLUSTERING" || activeCountyMode === "VOLUNTEERING"
+					? stateCentroids.map(centroid => {
+						let value;
+						if (activeCountyMode === "POP2018") {
+							value = stateAggregations[centroid.state]?.population;
+						} else if (activeCountyMode === "NUM_BELOW_P50") {
+							value = stateAggregations[centroid.state]?.numBelowP50;
+						} else if (activeCountyMode === "CLUSTERING") {
+							value = stateAggregations[centroid.state]?.clusteringAvg;
+						} else if (activeCountyMode === "VOLUNTEERING") {
+							value = stateAggregations[centroid.state]?.volunteeringAvg;
 						}
-					};
-				}) : []}
+						
+						const radius = CENTROID_SCALE(value || 1);
+						
+						return {
+							type: "Feature",
+							geometry: {
+								type: "Point",
+								coordinates: [centroid.longitude, centroid.latitude]
+							},
+							properties: {
+								name: centroid.state,
+								fill: "white",
+								pointRadius: radius,
+								population: stateAggregations[centroid.state]?.population,
+								numBelowP50: stateAggregations[centroid.state]?.numBelowP50,
+								clusteringCounty: stateAggregations[centroid.state]?.clusteringAvg,
+								volunteeringRate: stateAggregations[centroid.state]?.volunteeringAvg
+							}
+						};
+					}) 
+					: []}
 				stroke="white"
 				strokeWidth={1}
 				pathGenerator={path}
+				mode={activeCountyMode}
 			/>
 		</MapSvg>
 		<Tooltip x={tooltipDatum.x} y={tooltipDatum.y}>
