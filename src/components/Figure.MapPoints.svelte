@@ -5,8 +5,16 @@
 	export let fill = undefined;
 	export let stroke = undefined;
 	export let strokeWidth = 0.5;
+	export let r = 5;
 
 	const { width, height, custom } = getContext("Figure");
+
+	function createPointPath(feature) {
+		const pointRadius = feature.properties.pointRadius || r;
+		console.log(`Point: ${feature.properties.name}, Population: ${feature.properties.population}, Radius: ${pointRadius}`);
+		$custom.pathFn.pointRadius(pointRadius);
+		return $custom.pathFn(feature);
+	}
 </script>
 
 <g class="g-map-points">
@@ -17,7 +25,7 @@
 			style:stroke
 			style:stroke-width="{strokeWidth}px"
 			fill={feature.properties.fill || fill}
-			d={$custom.pathFn(feature)}
+			d={createPointPath(feature)}
 		/>
 	{/each}
 </g>
