@@ -1,5 +1,6 @@
 <script>
     import { onMount } from 'svelte';
+    import { axisBottom, axisLeft, select } from 'd3';
     import BubbleTooltip from './BubbleTooltip.svelte';
     import { createBubbleLayout } from './BubbleLayout.js';
     import BubbleZoom from './BubbleZoom.svelte';
@@ -18,6 +19,16 @@
     export let backgroundColor = '#fafafa';
     export let bubbleColor = '#ccc';
     export let textColor = '#333';
+
+    // New props
+    export let containerStyle;
+    export let padding = 40;
+    export let clampToFrame = true;
+    export let forceConfig;
+    export let useRectangularLayout = false;
+    export let isScatterPlot = false;
+
+    const MAX_BUBBLE_SIZE = 150;
     
     let svg;
     let container;
@@ -48,22 +59,34 @@
     let startX = 0;
     let startY = 0;
     
+    // Initialize scales
+    let xScale = null;
+    let yScale = null;
+    
     // Initialize layout
     $: layout = createBubbleLayout({
         width: actualWidth,
-        height: actualHeight
+        height: actualHeight,
+        padding,
+        isScatterPlot
     });
     
     // Update layout when data or dimensions change
     $: {
-        console.log('Raw data received:', data.slice(0, 3));
-        const processedData = data.map(d => ({
-            ...d,
-            size: d[sizeField] || 10 // Default size if not specified
-        }));
-        console.log('Processed data:', processedData.slice(0, 3));
-        layoutedData = layout.updateLayout(processedData);
-        console.log('Layouted data:', layoutedData.slice(0, 3));
+        if (data?.length) {
+            console.log("Processing data:", data[0]); // Debug log
+            const processedData = data.map(d => ({
+                ...d,
+                size: d[sizeField]
+            }));
+            const layoutResult = layout.updateLayout(processedData);
+            layoutedData = layoutResult.nodes;
+            if (layoutResult.scales) {
+                xScale = layoutResult.scales.x;
+                yScale = layoutResult.scales.y;
+                console.log("Scales updated:", { xScale, yScale }); // Debug log
+            }
+        }
     }
     
     function handleMouseEnter(event, item) {
@@ -115,11 +138,32 @@
         {height}
         bind:this={svg}
     >
+        {#if isScatterPlot && xScale && yScale}
+            <!-- Axes for scatter plot -->
+            <g class="axes">
+                <!-- Move x and y axes here -->
+                <g class="x-axis" transform="translate(0, {actualHeight - padding})">
+                    {#if svg}
+                        {@const xAxis = axisBottom(xScale)}
+                        {@const selection = select(svg).select(".x-axis")}
+                        {@html xAxis(selection)}
+                    {/if}
+                </g>
+                <g class="y-axis" transform="translate({padding}, 0)">
+                    {#if svg}
+                        {@const yAxis = axisLeft(yScale)}
+                        {@const selection = select(svg).select(".y-axis")}
+                        {@html yAxis(selection)}
+                    {/if}
+                </g>
+            </g>
+        {/if}
+
         <g class="bubbles" style:transform={transform}>
             {#each layoutedData as item (item.id)}
                 <g 
                     class="bubble-group"
-                    transform="translate({item.x}, {item.y})"
+                    transform="translate({item.x || 0}, {item.y || 0})"
                     on:mouseenter={(e) => handleMouseEnter(e, item)}
                     on:mouseleave={handleMouseLeave}
                     use:createTransitions
@@ -133,6 +177,21 @@
                 </g>
             {/each}
         </g>
+
+        {#if isScatterPlot && xScale && yScale}
+            <!-- Move reference line here (after bubbles) -->
+            <line
+                class="reference-line"
+                x1={xScale(0.2)}
+                y1={yScale(0.2)}
+                x2={xScale(1.8)}
+                y2={yScale(1.8)}
+                stroke="#FF1493"  
+                stroke-width="2.5"
+                stroke-dasharray="8,8"
+                opacity="0.6"
+            />
+        {/if}
     </svg>
     
     <BubbleTooltip
@@ -193,5 +252,26 @@
     
     .bubbles {
         transition: transform 0.1s ease-out;
+    }
+    
+    .axis-label {
+        font-size: 12px;
+        fill: #666;
+    }
+
+    .axes {
+        pointer-events: none;  /* Allow clicking through axes */
+    }
+    
+    .x-axis path,
+    .y-axis path,
+    .x-axis line,
+    .y-axis line {
+        stroke: #666;
+        shape-rendering: crispEdges;
+    }
+    
+    .reference-line {
+        pointer-events: none;
     }
 </style>

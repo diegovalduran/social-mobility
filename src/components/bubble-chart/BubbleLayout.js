@@ -1,34 +1,64 @@
-import { forceSimulation } from 'd3';
+import { forceSimulation, forceManyBody, forceCenter, forceCollide, forceX, forceY, scaleLinear } from 'd3';
 
 export function createBubbleLayout({ 
-    width = 800, 
-    height = 500, 
-    padding = 40
+    width = 2200, 
+    height = 1000, 
+    padding = 40,
+    maxBubbleSize = 25,
+    isScatterPlot = false
 }) {
     function initializeSimulation(data) {
-        // Calculate usable area
-        const usableWidth = width - (padding * 2);
-        const usableHeight = height - (padding * 2);
+        console.log("BubbleLayout - Mode:", isScatterPlot ? "Scatter Plot" : "Bubble Chart");
+        console.log("BubbleLayout - Sample data:", data[0]?.rawData);
         
-        // Calculate optimal grid dimensions based on aspect ratio
-        const aspectRatio = usableWidth / usableHeight;
-        const totalNodes = data.length;
-        const cols = Math.ceil(Math.sqrt(totalNodes * aspectRatio));
-        const rows = Math.ceil(totalNodes / cols);
+        // Create scales for scatter plot
+        const xScale = scaleLinear()
+            .domain([0.2, 2])
+            .range([padding, width - padding]);
         
-        // Calculate cell size
-        const cellWidth = usableWidth / cols;
-        const cellHeight = usableHeight / rows;
-        
-        // Position each node in a grid
-        data.forEach((d, i) => {
-            const col = i % cols;
-            const row = Math.floor(i / cols);
-            d.x = padding + (col + 0.5) * cellWidth;
-            d.y = padding + (row + 0.5) * cellHeight;
-        });
-        
-        return data;
+        const yScale = scaleLinear()
+            .domain([0.2, 1.8])
+            .range([height - padding, padding]);
+
+        if (isScatterPlot) {
+            // For scatter plot, directly set positions without simulation
+            const processedData = data.map(d => ({
+                ...d,
+                x: xScale(d.rawData.ec_own_ses_hs),
+                y: yScale(d.rawData.ec_parent_ses_hs),
+                fx: xScale(d.rawData.ec_own_ses_hs), // Fixed positions
+                fy: yScale(d.rawData.ec_parent_ses_hs)  // Fixed positions
+            }));
+            
+            console.log("Scatter plot data:", processedData[0]); // Debug log
+            
+            return {
+                nodes: processedData,
+                scales: { x: xScale, y: yScale }
+            };
+        } else {
+            // Remove any fixed positions from previous scatter plot
+            data.forEach(d => {
+                delete d.fx;
+                delete d.fy;
+            });
+            
+            // Bubble chart simulation
+            const simulation = forceSimulation(data)
+                .force("x", forceX(width / 2).strength(0.15))
+                .force("y", forceY(height / 2).strength(0.15))
+                .force("charge", forceManyBody().strength(-10))
+                .force("collide", forceCollide().radius(d => d.size + 1))
+                .stop();
+
+            // Run the simulation synchronously
+            for (let i = 0; i < 300; ++i) simulation.tick();
+            
+            return {
+                nodes: simulation.nodes(),
+                scales: null
+            };
+        }
     }
     
     return {

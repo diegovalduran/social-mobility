@@ -1,7 +1,11 @@
 <script>
+    import { createEventDispatcher } from 'svelte';
+
     export let scale = 1;
     export let minScale = 0.5;
     export let maxScale = 4;
+    
+    const dispatch = createEventDispatcher();
     
     function handleZoomIn() {
         scale = Math.min(maxScale, scale * 1.2);
@@ -13,6 +17,7 @@
     
     function handleReset() {
         scale = 1;
+        dispatch('reset');
     }
 </script>
 

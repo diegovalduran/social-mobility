@@ -50,14 +50,16 @@
 	let countiesMesh;
 	let statesMesh;
 	let nationMesh;
+	let highSchoolData;
 	let clientWidth;
 	let activeMode = "EC";
 	let activeCountyMode = "OFF";
 	let mounted = false;
-	let visualizationMode = "map";
+	let visualizationMode = "bubbles";
 	let showBarChart = true;
 	let collegeData;
 	let countyData;
+	let isLoading = true;
 
 	onMount(() => {
 		mounted = true;
@@ -121,26 +123,13 @@
 		try {
 			const us = await loadUSData();
 			if (mounted) {
-				countyData = us.counties;
-				try {
-					collegeData = await csv(`${base}/src/data/meta/social_capital_college.csv`);
-					collegeData = collegeData.map(d => ({
-						properties: {
-							college_name: d.college_name,
-							ec_own_ses_college: +d.ec_own_ses_college || 0
-						}
-					}));
-					console.log("Sample college data:", collegeData[0]);
-				} catch (err) {
-					console.warn("Failed to load college data:", err);
-					collegeData = [];
-				}
-				
 				counties = us.counties;
 				states = us.states;
 				countiesMesh = us.countiesMesh;
 				statesMesh = us.statesMesh;
 				nationMesh = us.nationMesh;
+				highSchoolData = Array.from(us.highSchoolData.values());
+				isLoading = false;
 
 				const initialPlace = getPlaceFromUrl();
 				onChangePlace(initialPlace);
@@ -194,10 +183,18 @@
 						{activeCountyMode}
 					/>
 				{:else if visualizationMode === "bubbles"}
-					<BubbleSection 
-						countyFeatures={counties?.features}
-						{activeMode}
-					/>
+					{#if !isLoading}
+						{#if highSchoolData}
+							<BubbleSection 
+								countyFeatures={highSchoolData}
+								{activeMode}
+							/>
+						{:else}
+							<p>Loading high school data...</p>
+						{/if}
+					{:else}
+						<p>Loading...</p>
+					{/if}
 				{:else if visualizationMode === "bars"}
 					<div class="bar-chart-container">
 						<BarChartHeader 

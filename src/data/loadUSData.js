@@ -27,6 +27,27 @@ async function loadSocialCapitalData() {
 	}));
 }
 
+// Add this function to load high school social capital data
+async function loadHighSchoolSocialCapitalData() {
+	const data = await csv(`${base}/src/data/meta/social_capital_high_school.csv`);
+	console.log('Loaded high school social capital data:', data.slice(0, 3));
+	
+	return new Map(data.map(d => {
+		const countyId = d.county.padStart(5, '0');
+		return [countyId, {
+			high_school_name: d.high_school_name || 'Unknown High School',
+			ecOwnSesHs: d.ec_own_ses_hs ? +d.ec_own_ses_hs : 0,
+			ecParentSesHs: d.ec_parent_ses_hs ? +d.ec_parent_ses_hs : 0,
+			ecHighOwnSesHs: d.ec_high_own_ses_hs ? +d.ec_high_own_ses_hs : 0,
+			ecHighParentSesHs: d.ec_high_parent_ses_hs ? +d.ec_high_parent_ses_hs : 0,
+			exposureOwnSesHs: d.exposure_own_ses_hs ? +d.exposure_own_ses_hs : 0,
+			exposureParentSesHs: d.exposure_parent_ses_hs ? +d.exposure_parent_ses_hs : 0,
+			students9To12: d.students_9_to_12 ? +d.students_9_to_12 : 0,
+			clusteringHs: d.clustering_hs ? +d.clustering_hs : 0
+		}];
+	}));
+}
+
 // Add this function to handle Alaska
 function filterAlaska(feature) {
 	// Simple pass-through if no geometry
@@ -45,10 +66,14 @@ function filterAlaska(feature) {
 }
 
 export default async function cleanUSData() {
-	const [us, socialCapitalData] = await Promise.all([
+	const [us, socialCapitalData, highSchoolData] = await Promise.all([
 		json(`${base}/assets/data/counties-10m.json`),
-		loadSocialCapitalData()
+		loadSocialCapitalData(),
+		loadHighSchoolSocialCapitalData()
 	]);
+
+	// Log to verify highSchoolData structure
+	console.log('High School Data Loaded:', highSchoolData);
 
 	const countiesRaw = topojson.feature(us, us.objects.counties);
 	
@@ -63,7 +88,8 @@ export default async function cleanUSData() {
 			.filter((d) => d.geometry)
 			.map((d) => {
 				const data = socialCapitalData.get(d.id);
-				
+				const highSchoolDataEntry = highSchoolData.get(d.id);
+
 				// Log each attempt with more detail
 				allAttemptedMatches.push({
 					countyId: d.id,
@@ -72,7 +98,15 @@ export default async function cleanUSData() {
 					state: stateLookup.find((s) => s.fips === d.id.substring(0, 2))?.postal,
 					hasMatch: data !== undefined,
 					ecValue: data?.ecValue || 0,
-					population: data?.population || 0
+					population: data?.population || 0,
+					ecOwnSesHs: highSchoolDataEntry?.ecOwnSesHs || 0,
+					ecParentSesHs: highSchoolDataEntry?.ecParentSesHs || 0,
+					ecHighOwnSesHs: highSchoolDataEntry?.ecHighOwnSesHs || 0,
+					ecHighParentSesHs: highSchoolDataEntry?.ecHighParentSesHs || 0,
+					exposureOwnSesHs: highSchoolDataEntry?.exposureOwnSesHs || 0,
+					exposureParentSesHs: highSchoolDataEntry?.exposureParentSesHs || 0,
+					students9To12: highSchoolDataEntry?.students9To12 || 0,
+					clusteringHs: highSchoolDataEntry?.clusteringHs || 0
 				});
 
 				if (data !== undefined) {
@@ -104,7 +138,15 @@ export default async function cleanUSData() {
 						biasGrpMemHigh: data?.biasGrpMemHigh || 0,
 						numBelowP50: data?.numBelowP50 || 0,
 						clusteringCounty: data?.clusteringCounty || 0,
-						volunteeringRate: data?.volunteeringRate || 0
+						volunteeringRate: data?.volunteeringRate || 0,
+						ecOwnSesHs: highSchoolDataEntry?.ecOwnSesHs || 0,
+						ecParentSesHs: highSchoolDataEntry?.ecParentSesHs || 0,
+						ecHighOwnSesHs: highSchoolDataEntry?.ecHighOwnSesHs || 0,
+						ecHighParentSesHs: highSchoolDataEntry?.ecHighParentSesHs || 0,
+						exposureOwnSesHs: highSchoolDataEntry?.exposureOwnSesHs || 0,
+						exposureParentSesHs: highSchoolDataEntry?.exposureParentSesHs || 0,
+						students9To12: highSchoolDataEntry?.students9To12 || 0,
+						clusteringHs: highSchoolDataEntry?.clusteringHs || 0
 					}
 				};
 			})
@@ -142,5 +184,5 @@ export default async function cleanUSData() {
 
 	const nationMesh = topojson.mesh(us, us.objects.nation);
 
-	return { counties, states, countiesMesh, statesMesh, nationMesh };
+	return { counties, states, countiesMesh, statesMesh, nationMesh, highSchoolData };
 }
