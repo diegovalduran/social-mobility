@@ -3,7 +3,10 @@ import { forceSimulation, forceManyBody, forceCenter, forceCollide, forceX, forc
 export function createBubbleLayout({ 
     width = 2200, 
     height = 1000, 
-    padding = 40,
+    paddingLeft = 120,
+    paddingRight = 40,
+    paddingTop = 40,
+    paddingBottom = 40,
     maxBubbleSize = 25,
     isScatterPlot = false
 }) {
@@ -11,28 +14,54 @@ export function createBubbleLayout({
         console.log("BubbleLayout - Mode:", isScatterPlot ? "Scatter Plot" : "Bubble Chart");
         
         if (isScatterPlot) {
-            // Check if we're in bias plot mode
-            const isBiasPlot = data[0]?.rawData?.xLabel?.toLowerCase().includes('bias');
+            // Check specifically for the regular bias plot (not bias high)
+            const isRegularBiasPlot = data[0]?.rawData?.xLabel?.toLowerCase().includes('bias') && 
+                                     !data[0]?.rawData?.xLabel?.toLowerCase().includes('high');
             
-            if (isBiasPlot) {
-                // For bias plots, use symmetric ranges around 0
-                const maxAbsX = Math.max(
-                    Math.abs(Math.min(...data.map(d => d.rawData.xMetric))),
-                    Math.abs(Math.max(...data.map(d => d.rawData.xMetric)))
-                );
-                const maxAbsY = Math.max(
-                    Math.abs(Math.min(...data.map(d => d.rawData.yMetric))),
-                    Math.abs(Math.max(...data.map(d => d.rawData.yMetric)))
-                );
-                
+            if (isRegularBiasPlot) {
+                // Set specific ranges for regular bias plots only
                 const xScale = scaleLinear()
-                    .domain([-maxAbsX * 1.1, maxAbsX * 1.1])
-                    .range([padding, width - padding]);
+                    .domain([-0.2, 0.4])  // specific x-axis range
+                    .range([paddingLeft, width - paddingRight]);
                 
                 const yScale = scaleLinear()
-                    .domain([-maxAbsY * 1.1, maxAbsY * 1.1])
-                    .range([height - padding, padding]);
+                    .domain([-0.15, 0.25])  // specific y-axis range
+                    .range([height - paddingBottom, paddingTop]);
                     
+                const processedData = data.map(d => ({
+                    ...d,
+                    x: xScale(d.rawData.xMetric),
+                    y: yScale(d.rawData.yMetric),
+                    fx: xScale(d.rawData.xMetric),
+                    fy: yScale(d.rawData.yMetric),
+                    size: d.size * 0.8  // Reduce size by 20%
+                }));
+                
+                return {
+                    nodes: processedData,
+                    scales: { x: xScale, y: yScale },
+                    isBiasPlot: true
+                };
+            } else {
+                // Use data-driven ranges for all other plots (including bias high)
+                const xExtent = [
+                    Math.min(...data.map(d => d.rawData.xMetric)),
+                    Math.max(...data.map(d => d.rawData.xMetric))
+                ];
+                
+                const yExtent = [
+                    Math.min(...data.map(d => d.rawData.yMetric)),
+                    Math.max(...data.map(d => d.rawData.yMetric))
+                ];
+
+                const xScale = scaleLinear()
+                    .domain([xExtent[0] * 0.9, xExtent[1] * 1.1])
+                    .range([paddingLeft, width - paddingRight]);
+                
+                const yScale = scaleLinear()
+                    .domain([yExtent[0] * 0.9, yExtent[1] * 1.1])
+                    .range([height - paddingBottom, paddingTop]);
+
                 const processedData = data.map(d => ({
                     ...d,
                     x: xScale(d.rawData.xMetric),
@@ -43,42 +72,9 @@ export function createBubbleLayout({
                 
                 return {
                     nodes: processedData,
-                    scales: { x: xScale, y: yScale },
-                    isBiasPlot: true
+                    scales: { x: xScale, y: yScale }
                 };
             }
-            
-            // Create scales for scatter plot based on data ranges
-            const xExtent = [
-                Math.min(...data.map(d => d.rawData.xMetric)),
-                Math.max(...data.map(d => d.rawData.xMetric))
-            ];
-            
-            const yExtent = [
-                Math.min(...data.map(d => d.rawData.yMetric)),
-                Math.max(...data.map(d => d.rawData.yMetric))
-            ];
-
-            const xScale = scaleLinear()
-                .domain([xExtent[0] * 0.9, xExtent[1] * 1.1])
-                .range([padding, width - padding]);
-            
-            const yScale = scaleLinear()
-                .domain([yExtent[0] * 0.9, yExtent[1] * 1.1])
-                .range([height - padding, padding]);
-
-            const processedData = data.map(d => ({
-                ...d,
-                x: xScale(d.rawData.xMetric),
-                y: yScale(d.rawData.yMetric),
-                fx: xScale(d.rawData.xMetric),
-                fy: yScale(d.rawData.yMetric)
-            }));
-            
-            return {
-                nodes: processedData,
-                scales: { x: xScale, y: yScale }
-            };
         } else {
             // Remove any fixed positions from previous scatter plot
             data.forEach(d => {
