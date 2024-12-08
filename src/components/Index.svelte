@@ -55,16 +55,92 @@
 	let activeMode = "EC";
 	let activeCountyMode = "OFF";
 	let mounted = false;
-	let visualizationMode = "bubbles";
+	let visualizationMode = "map";
 	let showBarChart = true;
 	let collegeData;
 	let countyData;
 	let isLoading = true;
 	let usData;
+	let articleContainer;
+	let map8Section;
+	let barsSection;
+	let currentSection = "map";
+	let selectedInstitution = "HIGH_SCHOOL";
+	let selectedPlotType = "HIGH_SES";
+	let bubbles1Section;
+
+	function handleScroll() {
+		if (!articleContainer || !bubbles1Section || !barsSection) return;
+		
+		const bubbles1Rect = bubbles1Section.getBoundingClientRect();
+		const barsRect = barsSection.getBoundingClientRect();
+		const windowHeight = window.innerHeight;
+
+		if (barsRect.top <= windowHeight && barsRect.top > -barsRect.height) {
+			if (currentSection !== "bars") {
+				currentSection = "bars";
+				isLoading = true;
+				setTimeout(() => {
+					visualizationMode = "bars";
+					handleModeChange({ 
+						detail: { 
+							mode: activeMode, 
+							type: "default" 
+						}
+					});
+					isLoading = false;
+				}, 500);
+			}
+		}
+		else if (bubbles1Rect.top <= windowHeight && bubbles1Rect.top > -bubbles1Rect.height) {
+			if (currentSection !== "bubbles") {
+				currentSection = "bubbles";
+				isLoading = true;
+				setTimeout(() => {
+					visualizationMode = "bubbles";
+					handleModeChange({ 
+						detail: { 
+							mode: activeCountyMode, 
+							type: "county" 
+						}
+					});
+					handleModeChange({ 
+						detail: { 
+							mode: activeMode, 
+							type: "default" 
+						}
+					});
+					isLoading = false;
+				}, 500);
+			}
+		}
+		else if (currentSection !== "map") {
+			currentSection = "map";
+			visualizationMode = "map";
+			handleModeChange({ 
+				detail: { 
+					mode: activeCountyMode, 
+					type: "county" 
+				}
+			});
+			handleModeChange({ 
+				detail: { 
+					mode: activeMode, 
+					type: "default" 
+				}
+			});
+		}
+	}
 
 	onMount(() => {
 		mounted = true;
+		if (browser) {
+			articleContainer = document.querySelector('.article-container');
+			
+			articleContainer?.addEventListener('scroll', handleScroll);
+		}
 		return () => {
+			articleContainer?.removeEventListener('scroll', handleScroll);
 			mounted = false;
 		};
 	});
@@ -158,13 +234,21 @@
 			(placeData = await csv(
 				`${base}/assets/places/${currentPhoneme}.csv?${__TIMESTAMP__}`
 			)))();
+
+	function handleBubbleSettingsChange() {
+		activeMode = "";
+	}
 </script>
 
 <div class="layout">
 	<div class="map-container">
 		<section id="interactive" bind:clientWidth class:shrink>
 			{#if placeData && mounted}
-				{#if visualizationMode === "map"}
+				{#if isLoading}
+					<div class="loading-container">
+						<p class="loading">Loading visualization...</p>
+					</div>
+				{:else if visualizationMode === "map"}
 					<MapHeader 
 						{activeMode}
 						{activeCountyMode}
@@ -192,6 +276,7 @@
 								{activeMode}
 								highSchoolData={highSchoolData}
 								collegeData={collegeData}
+								onSettingsChange={handleBubbleSettingsChange}
 							/>
 						{:else}
 							<p>Loading high school data...</p>
@@ -406,8 +491,184 @@
 
 
 				{#each copy.map8 as { value }}
+					<p bind:this={map8Section}>{@html value}</p>
+				{/each}
+				<hr class="separator" />
+
+				{#each copy.bubbles1 as { value }}
+					<p bind:this={bubbles1Section}>{@html value}</p>
+				{/each}
+				<hr class="separator" />
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "EXPOSURE_GRP_MEM"}
+							on:click={() => {
+								activeMode = "EXPOSURE_GRP_MEM";
+								if (visualizationMode === "bubbles") {
+									selectedInstitution = "HIGH_SCHOOL";
+									selectedPlotType = "HIGH_SES";
+								}
+							}}
+						>
+							HS High Own SES vs Parent SES
+						</button>
+					</div>
+				</div>
+
+				{#each copy.bubbles2 as { value }}
 					<p>{@html value}</p>
 				{/each}
+				<hr class="separator" />
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "EXPOSURE_GRP_MEM_HIGH"}
+							on:click={() => {
+								activeMode = "EXPOSURE_GRP_MEM_HIGH";
+								if (visualizationMode === "bubbles") {
+									selectedInstitution = "HIGH_SCHOOL";
+									selectedPlotType = "EXPOSURE";
+								}
+							}}
+						>
+							HS Exposure Own SES vs Parent SES
+						</button>
+					</div>
+				</div>
+
+				{#each copy.bubbles3 as { value }}
+					<p>{@html value}</p>
+				{/each}
+				<hr class="separator" />
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "BIAS_GRP_MEM"}
+							on:click={() => {
+								activeMode = "BIAS_GRP_MEM";
+								if (visualizationMode === "bubbles") {
+									selectedInstitution = "COLLEGE";
+									selectedPlotType = "BIAS";
+								}
+							}}
+						>
+							College Bias Own SES vs Parent SES
+						</button>
+					</div>
+				</div>
+
+				{#each copy.bubbles4 as { value }}
+					<p>{@html value}</p>
+				{/each}
+				<hr class="separator" />
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "BIAS_GRP_MEM_HIGH"}
+							on:click={() => {
+								activeMode = "BIAS_GRP_MEM_HIGH";
+								if (visualizationMode === "bubbles") {
+									selectedInstitution = "COLLEGE";
+									selectedPlotType = "BIAS_HIGH";
+								}
+							}}
+						>
+							College High Bias Own SES vs Parent SES
+						</button>
+					</div>
+				</div>
+
+				{#each copy.bubbles5 as { value }}
+					<p>{@html value}</p>
+				{/each}
+				<hr class="separator" />
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "BIAS_GRP_MEM_HIGH"}
+							on:click={() => {
+								activeMode = "BIAS_GRP_MEM_HIGH";
+								if (visualizationMode === "bubbles") {
+									selectedInstitution = "COLLEGE";
+									selectedPlotType = "BIAS_HIGH";
+								}
+							}}
+						>
+							College High Bias Own SES vs Parent SES
+						</button>
+					</div>
+				</div>
+
+				{#each copy.bars1 as { value }}
+					<p bind:this={barsSection}>{@html value}</p>
+				{/each}
+
+				<hr class="separator" />
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "BIAS_GRP_MEM_HIGH"}
+							on:click={() => {
+								activeMode = "BIAS_GRP_MEM_HIGH";
+								if (visualizationMode === "bubbles") {
+									selectedInstitution = "COLLEGE";
+									selectedPlotType = "BIAS_HIGH";
+								}
+							}}
+						>
+							College High Bias Own SES vs Parent SES
+						</button>
+					</div>
+				</div>
+
+				{#each copy.bars2 as { value }}
+					<p>{@html value}</p>
+				{/each}
+
+				<hr class="separator" />
+
+				<div class="preset-section">
+					<h3 class="click-me">Click Me!</h3>
+					<div class="preset-buttons">
+						<button 
+							class="preset-btn"
+							class:active={activeMode === "BIAS_GRP_MEM_HIGH"}
+							on:click={() => {
+								activeMode = "BIAS_GRP_MEM_HIGH";
+								if (visualizationMode === "bubbles") {
+									selectedInstitution = "COLLEGE";
+									selectedPlotType = "BIAS_HIGH";
+								}
+							}}
+						>
+							College High Bias Own SES vs Parent SES
+						</button>
+					</div>
+				</div>
+
+				{#each copy.bars3 as { value }}
+					<p>{@html value}</p>
+				{/each}
+
 				<hr class="separator" />
 			</section>
 		</article>

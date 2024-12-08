@@ -3,11 +3,13 @@
     import { scaleLinear } from 'd3';
     import { tweened } from 'svelte/motion';
     import { cubicOut } from 'svelte/easing';
+    import { onMount } from 'svelte';
     
     export let countyFeatures;
     export let activeMode;
     export let highSchoolData = [];
     export let collegeData = [];
+    export let onSettingsChange = () => {};
     
     // Log the data to check its contents
     $: console.log('High School Data:', highSchoolData);
@@ -44,7 +46,7 @@
                     institution.high_school_name : 
                     institution.college_name;
                 const size = selectedInstitution === 'HIGH_SCHOOL' ? 
-                    Math.sqrt(institution.students9To12) / 2 : 
+                    Math.min(Math.sqrt(institution.students9To12) / 3, 30) : 
                     Math.min(Math.sqrt(institution.mean_students_per_cohort) / 4, 20);
                 
                 // Calculate opacity based on state selection
@@ -212,8 +214,16 @@
         alphaDecay: 0.01
     };
 
-    // Force scatter plot mode for development
-    let isScatterPlot = true;  // Changed from false to true
+    // Add state for initial animation
+    let initialTransitionComplete = false;
+    
+    // Start in bubble layout
+    let isScatterPlot = false;
+
+    onMount(() => {
+        // No need for any delay or mode switching
+        initialTransitionComplete = true;
+    });
 
     // Add some debug logging to see what's happening
     $: {
@@ -221,41 +231,94 @@
         console.log("Sample bubble data:", bubbleData[0]);
     }
 
-    function toggleLayout() {
-        isScatterPlot = !isScatterPlot;
-        console.log("Toggled to:", isScatterPlot ? "Scatter Plot" : "Bubble Chart");
-        bubbleData = [...bubbleData];
+    // Add reactive statement to handle preset mode changes
+    $: {
+        if (activeMode) {
+            switch (activeMode) {
+                case "BIAS_GRP_MEM":
+                    if (initialTransitionComplete) {
+                        selectedInstitution = "COLLEGE";
+                        selectedPlotType = "BIAS";
+                        selectedState = "ALL STATES";
+                    }
+                    break;
+                case "BIAS_GRP_MEM_HIGH":
+                    if (initialTransitionComplete) {
+                        selectedInstitution = "COLLEGE";
+                        selectedPlotType = "BIAS_HIGH";
+                        selectedState = "ALL STATES";
+                    }
+                    break;
+                case "EXPOSURE_GRP_MEM":
+                    if (initialTransitionComplete) {
+                        selectedInstitution = "HIGH_SCHOOL";
+                        selectedPlotType = "HIGH_SES";
+                        selectedState = "ALL STATES";
+                    }
+                    break;
+                case "EXPOSURE_GRP_MEM_HIGH":
+                    if (initialTransitionComplete) {
+                        selectedInstitution = "HIGH_SCHOOL";
+                        selectedPlotType = "EXPOSURE";
+                        selectedState = "ALL STATES";
+                    }
+                    break;
+                default:
+                    // Keep current selection or set default
+                    break;
+            }
+        }
     }
+
+    // Add a reactive variable to determine if we should use vertical layout
+    $: useVerticalLayout = selectedInstitution === 'COLLEGE' && 
+        (selectedPlotType === 'BIAS' || selectedPlotType === 'BIAS_HIGH');
 </script>
 
 <div class="bubble-section">
-    <div class="controls">
-        {#if isScatterPlot}
-            <select class="institution-select" bind:value={selectedInstitution}>
+    <div class="controls" class:vertical={useVerticalLayout}>
+        <div class="select-wrapper">
+            <select 
+                class="institution-select" 
+                bind:value={selectedInstitution}
+                on:change={() => {
+                    onSettingsChange();
+                }}
+                disabled={!initialTransitionComplete}
+            >
                 {#each institutionTypes as type}
                     <option value={type.id}>{type.label}</option>
                 {/each}
             </select>
+        </div>
 
-            <select class="state-select" bind:value={selectedState}>
-                <option value="ALL STATES" class="all-states-option">ALL STATES ▼</option>
+        <div class="select-wrapper">
+            <select 
+                class="state-select" 
+                bind:value={selectedState}
+                disabled={!initialTransitionComplete}
+            >
+                <option value="ALL STATES" class="all-states-option">ALL STATES</option>
                 {#each states as state}
                     <option value={state}>{state}</option>
                 {/each}
             </select>
-            
-            <select class="plot-type-select" bind:value={selectedPlotType}>
+        </div>
+        
+        <div class="select-wrapper">
+            <select 
+                class="plot-type-select" 
+                bind:value={selectedPlotType}
+                on:change={() => {
+                    onSettingsChange();
+                }}
+                disabled={!initialTransitionComplete}
+            >
                 {#each plotTypes as type}
                     <option value={type.id}>{type.label}</option>
                 {/each}
             </select>
-        {/if}
-        <button 
-            class="toggle-button" 
-            on:click={toggleLayout}
-        >
-            {isScatterPlot ? 'Show Bubble Layout' : 'Show Scatter Plot'}
-        </button>
+        </div>
     </div>
     <div class="bubble-container">
         <div class="bubble-frame">
@@ -325,11 +388,19 @@
     .controls {
         position: fixed;
         top: 30px;
-        left: 80px;
+        left: 160px;
         z-index: 1000;
         display: flex;
+        flex-direction: row;
         gap: 12px;
         align-items: center;
+    }
+
+    /* Add new styles for vertical layout */
+    .controls.vertical {
+        left: 80px;
+        flex-direction: column;
+        align-items: flex-start;
     }
 
     .toggle-button {
@@ -348,7 +419,31 @@
         background: rgba(255, 255, 255, 0.1);
     }
 
-    .institution-select {
+    .select-wrapper {
+        position: relative;
+        display: inline-block;
+    }
+
+    .select-wrapper::after {
+        content: "▼";
+        position: absolute;
+        right: 12px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #fff;  /* Default white chevron */
+        pointer-events: none;
+        font-size: 12px;
+    }
+
+    /* Special styling for institution selector wrapper */
+    .select-wrapper:has(.institution-select)::after {
+        color: #000019;  /* Dark chevron only for institution selector */
+    }
+
+    /* Default styling for all selectors */
+    .institution-select,
+    .state-select,
+    .plot-type-select {
         padding: 8px 12px;
         border: 1px solid #fff;
         border-radius: 4px;
@@ -356,46 +451,39 @@
         background: transparent;
         color: #fff;
         cursor: pointer;
-        width: 200px;
         text-align: center;
         appearance: none;
         -webkit-appearance: none;
         -moz-appearance: none;
+        padding-right: 30px;
+        width: 350px;
     }
 
-    .institution-select option {
-        background: #303030;
-        color: #fff;
-        text-align: center;
+    /* Special styling just for institution selector */
+    .institution-select {
+        width: 200px;
+        background: #fff;
+        color: #000019;
     }
 
     .state-select {
-        padding: 8px 12px;
-        border: 1px solid #fff;
-        border-radius: 4px;
-        font-size: 14px;
-        background: transparent;
-        color: #fff;
-        cursor: pointer;
         width: 200px;
+    }
+
+    .plot-type-select {
+        width: 350px;
+    }
+
+    .institution-select option,
+    .state-select option,
+    .plot-type-select option {
+        background: #303030;
+        color: #fff;
         text-align: center;
-        appearance: none;
-        -webkit-appearance: none;
-        -moz-appearance: none;
     }
 
     .all-states-option {
         font-weight: bold;
-    }
-
-    .state-select option {
-        background: #303030;
-        color: #fff;
-        text-align: center;
-    }
-
-    .state-select:hover {
-        border-color: #fff;
     }
 
     .state-select:focus {
@@ -412,7 +500,7 @@
         background: transparent;
         color: #fff;
         cursor: pointer;
-        width: 300px;  /* Wider to accommodate longer labels */
+        width: 350px;
         text-align: center;
         appearance: none;
         -webkit-appearance: none;
@@ -423,5 +511,11 @@
         background: #303030;
         color: #fff;
         text-align: center;
+    }
+
+    /* Add disabled state styling */
+    select:disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
     }
 </style>

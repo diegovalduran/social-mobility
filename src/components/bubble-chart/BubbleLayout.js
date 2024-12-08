@@ -8,94 +8,109 @@ export function createBubbleLayout({
     paddingTop = 40,
     paddingBottom = 40,
     maxBubbleSize = 25,
-    isScatterPlot = false
 }) {
+    let currentPositions = new Map();
+
     function initializeSimulation(data) {
-        console.log("BubbleLayout - Mode:", isScatterPlot ? "Scatter Plot" : "Bubble Chart");
-        
-        if (isScatterPlot) {
-            // Check specifically for the regular bias plot (not bias high)
-            const isRegularBiasPlot = data[0]?.rawData?.xLabel?.toLowerCase().includes('bias') && 
-                                     !data[0]?.rawData?.xLabel?.toLowerCase().includes('high');
-            
-            if (isRegularBiasPlot) {
-                // Set specific ranges for regular bias plots only
-                const xScale = scaleLinear()
-                    .domain([-0.2, 0.4])  // specific x-axis range
-                    .range([paddingLeft, width - paddingRight]);
-                
-                const yScale = scaleLinear()
-                    .domain([-0.15, 0.25])  // specific y-axis range
-                    .range([height - paddingBottom, paddingTop]);
-                    
-                const processedData = data.map(d => ({
-                    ...d,
-                    x: xScale(d.rawData.xMetric),
-                    y: yScale(d.rawData.yMetric),
-                    fx: xScale(d.rawData.xMetric),
-                    fy: yScale(d.rawData.yMetric),
-                    size: d.size * 0.8  // Reduce size by 20%
-                }));
-                
-                return {
-                    nodes: processedData,
-                    scales: { x: xScale, y: yScale },
-                    isBiasPlot: true
-                };
-            } else {
-                // Use data-driven ranges for all other plots (including bias high)
-                const xExtent = [
-                    Math.min(...data.map(d => d.rawData.xMetric)),
-                    Math.max(...data.map(d => d.rawData.xMetric))
-                ];
-                
-                const yExtent = [
-                    Math.min(...data.map(d => d.rawData.yMetric)),
-                    Math.max(...data.map(d => d.rawData.yMetric))
-                ];
-
-                const xScale = scaleLinear()
-                    .domain([xExtent[0] * 0.9, xExtent[1] * 1.1])
-                    .range([paddingLeft, width - paddingRight]);
-                
-                const yScale = scaleLinear()
-                    .domain([yExtent[0] * 0.9, yExtent[1] * 1.1])
-                    .range([height - paddingBottom, paddingTop]);
-
-                const processedData = data.map(d => ({
-                    ...d,
-                    x: xScale(d.rawData.xMetric),
-                    y: yScale(d.rawData.yMetric),
-                    fx: xScale(d.rawData.xMetric),
-                    fy: yScale(d.rawData.yMetric)
-                }));
-                
-                return {
-                    nodes: processedData,
-                    scales: { x: xScale, y: yScale }
-                };
+        // Store current positions if they exist
+        data.forEach(d => {
+            if (d.x !== undefined && d.y !== undefined) {
+                currentPositions.set(d.id, { x: d.x, y: d.y });
             }
-        } else {
-            // Remove any fixed positions from previous scatter plot
-            data.forEach(d => {
-                delete d.fx;
-                delete d.fy;
+        });
+
+        // Check specifically for the regular bias plot (not bias high)
+        const isRegularBiasPlot = data[0]?.rawData?.xLabel?.toLowerCase().includes('bias') && 
+                                 !data[0]?.rawData?.xLabel?.toLowerCase().includes('high');
+        
+        if (isRegularBiasPlot) {
+            // Set specific ranges for regular bias plots only
+            const xScale = scaleLinear()
+                .domain([-0.2, 0.4])  // specific x-axis range
+                .range([paddingLeft, width - paddingRight]);
+            
+            const yScale = scaleLinear()
+                .domain([-0.15, 0.25])  // specific y-axis range
+                .range([height - paddingBottom, paddingTop]);
+                
+            const processedData = data.map(d => {
+                const currentPos = currentPositions.get(d.id);
+                const targetX = xScale(d.rawData.xMetric);
+                const targetY = yScale(d.rawData.yMetric);
+                
+                // If we have current positions, interpolate towards target
+                if (currentPos) {
+                    return {
+                        ...d,
+                        x: currentPos.x + (targetX - currentPos.x) * 0.05, // Reduced from 0.1 to 0.05 for smoother transition
+                        y: currentPos.y + (targetY - currentPos.y) * 0.05,
+                        fx: targetX,
+                        fy: targetY
+                    };
+                }
+                
+                return {
+                    ...d,
+                    x: targetX,
+                    y: targetY,
+                    fx: targetX,
+                    fy: targetY
+                };
             });
             
-            // Bubble chart simulation
-            const simulation = forceSimulation(data)
-                .force("x", forceX(width / 2).strength(0.15))
-                .force("y", forceY(height / 2).strength(0.15))
-                .force("charge", forceManyBody().strength(-10))
-                .force("collide", forceCollide().radius(d => d.size + 1))
-                .stop();
+            return {
+                nodes: processedData,
+                scales: { x: xScale, y: yScale },
+                isBiasPlot: true
+            };
+        } else {
+            // Use data-driven ranges for all other plots (including bias high)
+            const xExtent = [
+                Math.min(...data.map(d => d.rawData.xMetric)),
+                Math.max(...data.map(d => d.rawData.xMetric))
+            ];
+            
+            const yExtent = [
+                Math.min(...data.map(d => d.rawData.yMetric)),
+                Math.max(...data.map(d => d.rawData.yMetric))
+            ];
 
-            // Run the simulation synchronously
-            for (let i = 0; i < 300; ++i) simulation.tick();
+            const xScale = scaleLinear()
+                .domain([xExtent[0] * 0.9, xExtent[1] * 1.1])
+                .range([paddingLeft, width - paddingRight]);
+            
+            const yScale = scaleLinear()
+                .domain([yExtent[0] * 0.9, yExtent[1] * 1.1])
+                .range([height - paddingBottom, paddingTop]);
+
+            const processedData = data.map(d => {
+                const currentPos = currentPositions.get(d.id);
+                const targetX = xScale(d.rawData.xMetric);
+                const targetY = yScale(d.rawData.yMetric);
+                
+                // If we have current positions, interpolate towards target
+                if (currentPos) {
+                    return {
+                        ...d,
+                        x: currentPos.x + (targetX - currentPos.x) * 0.05, // Reduced from 0.1 to 0.05 for smoother transition
+                        y: currentPos.y + (targetY - currentPos.y) * 0.05,
+                        fx: targetX,
+                        fy: targetY
+                    };
+                }
+                
+                return {
+                    ...d,
+                    x: targetX,
+                    y: targetY,
+                    fx: targetX,
+                    fy: targetY
+                };
+            });
             
             return {
-                nodes: simulation.nodes(),
-                scales: null
+                nodes: processedData,
+                scales: { x: xScale, y: yScale }
             };
         }
     }

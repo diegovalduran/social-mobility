@@ -70,6 +70,9 @@
         isScatterPlot
     });
     
+    // Add transition state
+    let transitionTimer;
+    
     // Update layout when data or dimensions change
     $: {
         if (data?.length) {
@@ -85,8 +88,24 @@
                 yScale = layoutResult.scales.y;
                 console.log("Scales updated:", { xScale, yScale }); // Debug log
             }
+            
+            // If in scatter plot mode, continue updating positions until settled
+            if (isScatterPlot) {
+                clearInterval(transitionTimer);
+                transitionTimer = setInterval(() => {
+                    const layoutUpdate = layout.updateLayout(processedData);
+                    layoutedData = layoutUpdate.nodes;
+                }, 16); // ~60fps
+                
+                // Extend transition duration
+                setTimeout(() => clearInterval(transitionTimer), 2000); // Increased to 2 seconds
+            }
         }
     }
+    
+    onMount(() => {
+        return () => clearInterval(transitionTimer);
+    });
     
     // Add new state to track hovered bubble
     let hoveredBubbleId = null;
@@ -191,7 +210,7 @@
     $: isBiasPlot = data[0]?.rawData?.xLabel?.toLowerCase().includes('bias');
 
     // Modify the axes rendering
-    $: if (isScatterPlot && xScale && yScale && svg) {
+    $: if (xScale && yScale && svg) {
         const xAxis = axisBottom(xScale).tickFormat(d => d.toFixed(2));
         const yAxis = axisLeft(yScale).tickFormat(d => d.toFixed(2));
 
@@ -232,7 +251,7 @@
         {height}
         bind:this={svg}
     >
-        {#if isScatterPlot && xScale && yScale}
+        {#if xScale && yScale}
             <g class="axes">
                 <!-- Add conditional diagonal lines for bias plots -->
                 {#if isBiasPlot}
@@ -406,7 +425,7 @@
             {/if}
         </g>
 
-        {#if isScatterPlot && xScale && yScale}
+        {#if xScale && yScale}
             <!-- Move reference line here (after bubbles) -->
             <line
                 class="reference-line"
