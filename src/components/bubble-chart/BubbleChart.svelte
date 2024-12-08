@@ -187,65 +187,59 @@
     $: isBiasPlot = data[0]?.rawData?.xLabel?.toLowerCase().includes('bias');
 
     // Modify the axes rendering
-    $: if (isScatterPlot && xScale && yScale) {
-        if (svg) {
-            const xAxis = axisBottom(xScale)
-                .tickFormat(d => d.toFixed(1));
-            const yAxis = axisLeft(yScale)
-                .tickFormat(d => d.toFixed(1));
+    $: if (isScatterPlot && xScale && yScale && svg) {
+        const xAxis = axisBottom(xScale).tickFormat(d => d.toFixed(2));
+        const yAxis = axisLeft(yScale).tickFormat(d => d.toFixed(2));
 
-            // Select or create axis groups
-            let xAxisGroup = select(svg).select(".x-axis");
-            let yAxisGroup = select(svg).select(".y-axis");
+        // Select or create axis groups
+        let xAxisGroup = select(svg).select(".x-axis");
+        let yAxisGroup = select(svg).select(".y-axis");
 
-            if (xAxisGroup.empty()) {
-                xAxisGroup = select(svg).append("g").attr("class", "x-axis");
-            }
-            if (yAxisGroup.empty()) {
-                yAxisGroup = select(svg).append("g").attr("class", "y-axis");
-            }
+        if (xAxisGroup.empty()) {
+            xAxisGroup = select(svg).append("g").attr("class", "x-axis");
+        }
+        if (yAxisGroup.empty()) {
+            yAxisGroup = select(svg).append("g").attr("class", "y-axis");
+        }
 
-            // Position x-axis at y=0 for bias plots, otherwise at bottom
-            xAxisGroup
-                .attr("transform", isBiasPlot ? 
-                    `translate(0, ${yScale(0)})` : 
-                    `translate(0, ${actualHeight - padding})`
-                )
-                .call(xAxis);
+        // Position and call axes
+        xAxisGroup
+            .attr("transform", `translate(0, ${isBiasPlot ? yScale(0) : actualHeight - padding})`)
+            .call(xAxis);
 
-            // Position y-axis
-            yAxisGroup
-                .attr("transform", `translate(${padding}, 0)`)
-                .call(yAxis);
+        yAxisGroup
+            .attr("transform", `translate(${isBiasPlot ? xScale(0) : padding}, 0)`)
+            .call(yAxis);
 
-            // Add zero reference lines
-            if (isBiasPlot) {
-                // Horizontal zero line (if not already serving as x-axis)
-                select(svg).selectAll(".zero-line-horizontal")
-                    .data([0])
-                    .join("line")
-                    .attr("class", "zero-line-horizontal reference-line")
-                    .attr("x1", padding)
-                    .attr("x2", actualWidth - padding)
-                    .attr("y1", yScale(0))
-                    .attr("y2", yScale(0))
-                    .attr("stroke", "#666")
-                    .attr("stroke-width", 1)
-                    .attr("stroke-dasharray", "4,4");
+        // Add quadrant labels if in bias plot mode
+        if (isBiasPlot) {
+            // Remove existing labels first
+            select(svg).selectAll(".quadrant-label").remove();
 
-                // Vertical zero line
-                select(svg).selectAll(".zero-line-vertical")
-                    .data([0])
-                    .join("line")
-                    .attr("class", "zero-line-vertical reference-line")
-                    .attr("x1", xScale(0))
-                    .attr("x2", xScale(0))
-                    .attr("y1", padding)
-                    .attr("y2", height - padding)
-                    .attr("stroke", "#666")
-                    .attr("stroke-width", 1)
-                    .attr("stroke-dasharray", "4,4");
-            }
+            // Add new labels
+            select(svg).append("text")
+                .attr("class", "quadrant-label")
+                .attr("x", xScale(0) + 10)
+                .attr("y", yScale(0) - 10)
+                .text("Q1");
+
+            select(svg).append("text")
+                .attr("class", "quadrant-label")
+                .attr("x", xScale(0) - 30)
+                .attr("y", yScale(0) - 10)
+                .text("Q2");
+
+            select(svg).append("text")
+                .attr("class", "quadrant-label")
+                .attr("x", xScale(0) - 30)
+                .attr("y", yScale(0) + 20)
+                .text("Q3");
+
+            select(svg).append("text")
+                .attr("class", "quadrant-label")
+                .attr("x", xScale(0) + 10)
+                .attr("y", yScale(0) + 20)
+                .text("Q4");
         }
     }
 </script>
@@ -266,23 +260,42 @@
         bind:this={svg}
     >
         {#if isScatterPlot && xScale && yScale}
-            <!-- Axes for scatter plot -->
             <g class="axes">
-                <!-- Move x and y axes here -->
-                <g class="x-axis" transform="translate(0, {actualHeight - padding})">
-                    {#if svg}
-                        {@const xAxis = axisBottom(xScale)}
-                        {@const selection = select(svg).select(".x-axis")}
-                        {@html xAxis(selection)}
-                    {/if}
+                <!-- X Axis -->
+                <g class="x-axis" transform="translate(0,{isBiasPlot ? yScale(0) : actualHeight - padding})">
+                    <path 
+                        class="domain" 
+                        d={`M${padding},0H${actualWidth - padding}`}
+                    />
+                    {#each xScale.ticks() as tick}
+                        <g class="tick" transform="translate({xScale(tick)},0)">
+                            <line y2="6"></line>
+                            <text y="9" dy="0.71em">{tick.toFixed(2)}</text>
+                        </g>
+                    {/each}
                 </g>
-                <g class="y-axis" transform="translate({padding}, 0)">
-                    {#if svg}
-                        {@const yAxis = axisLeft(yScale)}
-                        {@const selection = select(svg).select(".y-axis")}
-                        {@html yAxis(selection)}
-                    {/if}
+
+                <!-- Y Axis -->
+                <g class="y-axis" transform="translate({isBiasPlot ? xScale(0) : padding},0)">
+                    <path 
+                        class="domain" 
+                        d={`M0,${padding}V${actualHeight - padding}`}
+                    />
+                    {#each yScale.ticks() as tick}
+                        <g class="tick" transform="translate(0,{yScale(tick)})">
+                            <line x2="-6"></line>
+                            <text x="-9" dy="0.32em">{tick.toFixed(2)}</text>
+                        </g>
+                    {/each}
                 </g>
+
+                <!-- Quadrant labels for bias plot -->
+                {#if isBiasPlot}
+                    <text x={xScale(0) + 10} y={yScale(0) - 10} class="quadrant-label">Q1</text>
+                    <text x={xScale(0) - 30} y={yScale(0) - 10} class="quadrant-label">Q2</text>
+                    <text x={xScale(0) - 30} y={yScale(0) + 20} class="quadrant-label">Q3</text>
+                    <text x={xScale(0) + 10} y={yScale(0) + 20} class="quadrant-label">Q4</text>
+                {/if}
             </g>
         {/if}
 
@@ -407,5 +420,38 @@
         font-size: 12px;
         fill: #666;
         pointer-events: none;
+    }
+    
+    .quadrant-line {
+        pointer-events: none;
+        opacity: 0.5;
+    }
+
+    .x-axis path,
+    .y-axis path {
+        stroke: #666;
+        stroke-width: 1.5;
+    }
+
+    .tick line {
+        stroke: #666;
+        stroke-width: 1;
+    }
+
+    .tick text {
+        fill: #666;
+        font-size: 12px;
+    }
+
+    .quadrant-label {
+        font-size: 12px;
+        fill: #666;
+        pointer-events: none;
+    }
+
+    .domain {
+        fill: none;
+        stroke: #666;
+        stroke-width: 1.5;
     }
 </style>

@@ -9,9 +9,45 @@ export function createBubbleLayout({
 }) {
     function initializeSimulation(data) {
         console.log("BubbleLayout - Mode:", isScatterPlot ? "Scatter Plot" : "Bubble Chart");
-        console.log("BubbleLayout - Sample data:", data[0]?.rawData);
         
         if (isScatterPlot) {
+            // Check if we're in bias plot mode
+            const isBiasPlot = data[0]?.rawData?.xLabel?.toLowerCase().includes('bias');
+            
+            if (isBiasPlot) {
+                // For bias plots, use symmetric ranges around 0
+                const maxAbsX = Math.max(
+                    Math.abs(Math.min(...data.map(d => d.rawData.xMetric))),
+                    Math.abs(Math.max(...data.map(d => d.rawData.xMetric)))
+                );
+                const maxAbsY = Math.max(
+                    Math.abs(Math.min(...data.map(d => d.rawData.yMetric))),
+                    Math.abs(Math.max(...data.map(d => d.rawData.yMetric)))
+                );
+                
+                const xScale = scaleLinear()
+                    .domain([-maxAbsX * 1.1, maxAbsX * 1.1])
+                    .range([padding, width - padding]);
+                
+                const yScale = scaleLinear()
+                    .domain([-maxAbsY * 1.1, maxAbsY * 1.1])
+                    .range([height - padding, padding]);
+                    
+                const processedData = data.map(d => ({
+                    ...d,
+                    x: xScale(d.rawData.xMetric),
+                    y: yScale(d.rawData.yMetric),
+                    fx: xScale(d.rawData.xMetric),
+                    fy: yScale(d.rawData.yMetric)
+                }));
+                
+                return {
+                    nodes: processedData,
+                    scales: { x: xScale, y: yScale },
+                    isBiasPlot: true
+                };
+            }
+            
             // Create scales for scatter plot based on data ranges
             const xExtent = [
                 Math.min(...data.map(d => d.rawData.xMetric)),
