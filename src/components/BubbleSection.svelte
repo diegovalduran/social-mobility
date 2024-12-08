@@ -35,12 +35,15 @@
     // Process bubble data with transition
     $: bubbleData = countyFeatures?.length ? 
         countyFeatures
-            .map((county, index) => {
-                const highSchoolName = county.high_school_name || 'Unknown High School';
-                const students9To12 = county.students9To12 || 0;
-                const ownSES = county.ecOwnSesHs;
-                const parentSES = county.ecParentSesHs;
-
+            .map((school, index) => {
+                const highSchoolName = school.high_school_name || 'Unknown High School';
+                const students9To12 = school.students9To12 || 0;
+                const ownSES = school.ecOwnSesHs;
+                const parentSES = school.ecParentSesHs;
+                
+                // Split county_name into county and state
+                const [countyName, stateName] = (school.county_name || ',').split(', ');
+                
                 // More dramatic size scaling
                 const size = baseSize + Math.sqrt(students9To12 || 1) * scaleFactor;
 
@@ -48,13 +51,18 @@
                     id: `bubble-${index}`,
                     label: highSchoolName,
                     detail: isScatterPlot ? 
-                        `Own SES: ${ownSES?.toFixed(2)}\nParent SES: ${parentSES?.toFixed(2)}\nStudents: ${students9To12.toLocaleString()}` :
+                        `State: ${stateName || 'Unknown'}\n\n` + " | " +
+                        `Own SES: ${ownSES?.toFixed(2)}\n\n` + " | " +
+                        `Parent SES: ${parentSES?.toFixed(2)}\n\n` + " | " +
+                        `Students: ${students9To12.toLocaleString()}` :
                         `Students 9-12: ${students9To12.toLocaleString()}`,
-                    size: size,  // Don't apply additional scaling in BubbleChart
+                    size: size,
                     color: COLOR_SCALE(students9To12),
                     opacity: $transitionProgress,
                     rawData: {
-                        ...county,
+                        ...school,
+                        countyName: countyName || 'Unknown',
+                        state: stateName || 'Unknown',
                         ec_own_ses_hs: ownSES,
                         ec_parent_ses_hs: parentSES
                     }
@@ -93,13 +101,54 @@
         console.log("Toggled to:", isScatterPlot ? "Scatter Plot" : "Bubble Chart");
         bubbleData = [...bubbleData];
     }
+
+    // Add state filter
+    let selectedState = 'ALL STATES';
+
+    // Get unique states from the data and ensure ALL STATES is first
+    $: states = ['ALL STATES', ...Array.from(new Set(bubbleData.map(d => d.rawData.state)))
+        .filter(state => state !== 'ALL STATES')
+        .sort()];
+
+    // Update the filtering logic to match the new value
+    $: filteredBubbleData = bubbleData
+        .map(d => ({
+            ...d,
+            opacity: selectedState === 'ALL STATES' || d.rawData.state === selectedState ? 
+                1 : 
+                0.2
+        }))
+        .sort((a, b) => {
+            const aSelected = selectedState === 'ALL STATES' || a.rawData.state === selectedState;
+            const bSelected = selectedState === 'ALL STATES' || b.rawData.state === selectedState;
+            return aSelected ? 1 : bSelected ? -1 : 0;
+        });
 </script>
 
 <div class="bubble-section">
+    <div class="controls">
+        {#if isScatterPlot}
+            <select 
+                class="state-select" 
+                bind:value={selectedState}
+            >
+                <option value="ALL STATES" class="all-states-option">ALL STATES ▼</option>
+                {#each states.filter(state => state !== 'ALL STATES') as state}
+                    <option value={state}>{state}</option>
+                {/each}
+            </select>
+        {/if}
+        <button 
+            class="toggle-button" 
+            on:click={toggleLayout}
+        >
+            {isScatterPlot ? 'Show Bubble Layout' : 'Show Scatter Plot'}
+        </button>
+    </div>
     <div class="bubble-container">
         <div class="bubble-frame">
             <BubbleChart
-                data={bubbleData}
+                data={filteredBubbleData}
                 width={1400}
                 height={700}
                 backgroundColor="transparent"
@@ -113,14 +162,6 @@
                 {isScatterPlot}
             />
         </div>
-    </div>
-    <div class="controls">
-        <button 
-            class="toggle-button" 
-            on:click={toggleLayout}
-        >
-            {isScatterPlot ? 'Show Bubble Layout' : 'Show Scatter Plot'}
-        </button>
     </div>
 </div>
 
@@ -168,23 +209,62 @@
 
     .controls {
         position: fixed;
-        top: 100px;
-        right: 40px;
+        top: 30px;
+        left: 80px;
         z-index: 1000;
+        display: flex;
+        gap: 12px;
+        align-items: center;
     }
 
     .toggle-button {
         padding: 8px 16px;
-        background: #fff;
-        border: 1px solid #333;
+        background: transparent;
+        border: 1px solid #fff;
+        color: #fff;
         border-radius: 4px;
         cursor: pointer;
         font-size: 14px;
         transition: all 0.2s;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        text-align: center;
     }
 
     .toggle-button:hover {
-        background: #f0f0f0;
+        background: rgba(255, 255, 255, 0.1);
+    }
+
+    .state-select {
+        padding: 8px 12px;
+        border: 1px solid #fff;
+        border-radius: 4px;
+        font-size: 14px;
+        background: transparent;
+        color: #fff;
+        cursor: pointer;
+        width: 200px;
+        text-align: center;
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    }
+
+    .all-states-option {
+        font-weight: bold;
+    }
+
+    .state-select option {
+        background: #303030;
+        color: #fff;
+        text-align: center;
+    }
+
+    .state-select:hover {
+        border-color: #fff;
+    }
+
+    .state-select:focus {
+        outline: none;
+        border-color: #fff;
+        box-shadow: 0 0 0 2px rgba(255,255,255,0.1);
     }
 </style>

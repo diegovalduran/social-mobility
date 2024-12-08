@@ -34,8 +34,14 @@ async function loadHighSchoolSocialCapitalData() {
 	
 	return new Map(data.map(d => {
 		const countyId = d.county.padStart(5, '0');
+		// Get state from the first two digits of county ID
+		const stateFips = countyId.substring(0, 2);
+		
 		return [countyId, {
 			high_school_name: d.high_school_name || 'Unknown High School',
+			county_id: countyId,
+			county: d.county,  // Add raw county ID
+			state_fips: stateFips,  // Store state FIPS code
 			ecOwnSesHs: d.ec_own_ses_hs ? +d.ec_own_ses_hs : 0,
 			ecParentSesHs: d.ec_parent_ses_hs ? +d.ec_parent_ses_hs : 0,
 			ecHighOwnSesHs: d.ec_high_own_ses_hs ? +d.ec_high_own_ses_hs : 0,
@@ -72,8 +78,23 @@ export default async function cleanUSData() {
 		loadHighSchoolSocialCapitalData()
 	]);
 
+	// Create a processed version of high school data with county and state info
+	const processedHighSchoolData = Array.from(highSchoolData.values()).map(school => {
+		// Find matching county data
+		const countyData = socialCapitalData.get(school.county_id);
+		// Get state from stateLookup using state FIPS code
+		const state = stateLookup.find(s => s.fips === school.state_fips);
+		
+		return {
+			...school,
+			county_name: countyData ? `${countyData.name}, ${state?.postal || 'Unknown'}` : 'Unknown County',
+			state: state?.postal || 'Unknown',
+			state_name: state?.name || 'Unknown'
+		};
+	});
+
 	// Log to verify highSchoolData structure
-	console.log('High School Data Loaded:', highSchoolData);
+	console.log('High School Data Loaded:', processedHighSchoolData);
 
 	const countiesRaw = topojson.feature(us, us.objects.counties);
 	
@@ -88,7 +109,7 @@ export default async function cleanUSData() {
 			.filter((d) => d.geometry)
 			.map((d) => {
 				const data = socialCapitalData.get(d.id);
-				const highSchoolDataEntry = highSchoolData.get(d.id);
+				const highSchoolDataEntry = processedHighSchoolData.find(s => s.county_id === d.id);
 
 				// Log each attempt with more detail
 				allAttemptedMatches.push({
@@ -184,5 +205,5 @@ export default async function cleanUSData() {
 
 	const nationMesh = topojson.mesh(us, us.objects.nation);
 
-	return { counties, states, countiesMesh, statesMesh, nationMesh, highSchoolData };
+	return { counties, states, countiesMesh, statesMesh, nationMesh, highSchoolData: processedHighSchoolData };
 }

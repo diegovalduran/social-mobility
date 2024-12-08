@@ -173,6 +173,7 @@
                         fill={item.color || bubbleColor}
                         stroke="black"
                         stroke-width="1"
+                        opacity={item.opacity !== undefined ? item.opacity : 0.8}
                     />
                 </g>
             {/each}
@@ -219,12 +220,11 @@
     }
     
     .bubble-group circle {
-        opacity: 0.8;
         transition: opacity 0.2s;
     }
     
     .bubble-group:hover circle {
-        opacity: 1;
+        opacity: 1 !important;
     }
     
     .label {
