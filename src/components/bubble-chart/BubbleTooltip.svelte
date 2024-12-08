@@ -39,14 +39,14 @@
         padding: 8px 12px;
         border-radius: 4px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-        min-width: 120px;
+        min-width: 150px;
         transform: translate(-50%, -100%);
         margin-top: -10px;
         transition: opacity 0.2s ease-out;
     }
     
     .tooltip-content {
-        max-width: 200px;
+        max-width: 350px;
     }
     
     .label {

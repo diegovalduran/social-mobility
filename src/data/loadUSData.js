@@ -54,6 +54,33 @@ async function loadHighSchoolSocialCapitalData() {
 	}));
 }
 
+// Add this function to load college social capital data
+async function loadCollegeSocialCapitalData() {
+	const data = await csv(`${base}/src/data/meta/social_capital_college.csv`);
+	console.log('Loaded college social capital data:', data.slice(0, 3));
+	
+	return new Map(data.map(d => {
+		const countyId = d.county.padStart(5, '0');
+		const stateFips = countyId.substring(0, 2);
+		
+		return [countyId, {
+			college_name: d.college_name || 'Unknown College',
+			county_id: countyId,
+			county: d.county,
+			state_fips: stateFips,
+			ec_own_ses_college: d.ec_own_ses_college ? +d.ec_own_ses_college : 0,
+			ec_parent_ses_college: d.ec_parent_ses_college ? +d.ec_parent_ses_college : 0,
+			ec_high_own_ses_college: d.ec_high_own_ses_college ? +d.ec_high_own_ses_college : 0,
+			ec_high_parent_ses_college: d.ec_high_parent_ses_college ? +d.ec_high_parent_ses_college : 0,
+			bias_own_ses_college: d.bias_own_ses_college ? +d.bias_own_ses_college : 0,
+			bias_parent_ses_college: d.bias_parent_ses_college ? +d.bias_parent_ses_college : 0,
+			bias_high_own_ses_college: d.bias_high_own_ses_college ? +d.bias_high_own_ses_college : 0,
+			bias_high_parent_ses_college: d.bias_high_parent_ses_college ? +d.bias_high_parent_ses_college : 0,
+			mean_students_per_cohort: d.mean_students_per_cohort ? +d.mean_students_per_cohort : 0
+		}];
+	}));
+}
+
 // Add this function to handle Alaska
 function filterAlaska(feature) {
 	// Simple pass-through if no geometry
@@ -72,24 +99,31 @@ function filterAlaska(feature) {
 }
 
 export default async function cleanUSData() {
-	const [us, socialCapitalData, highSchoolData] = await Promise.all([
+	const [us, socialCapitalData, highSchoolData, collegeData] = await Promise.all([
 		json(`${base}/assets/data/counties-10m.json`),
 		loadSocialCapitalData(),
-		loadHighSchoolSocialCapitalData()
+			loadHighSchoolSocialCapitalData(),
+			loadCollegeSocialCapitalData()
 	]);
 
-	// Create a processed version of high school data with county and state info
+	// Process both high school and college data
 	const processedHighSchoolData = Array.from(highSchoolData.values()).map(school => {
-		// Find matching county data
-		const countyData = socialCapitalData.get(school.county_id);
-		// Get state from stateLookup using state FIPS code
 		const state = stateLookup.find(s => s.fips === school.state_fips);
-		
 		return {
 			...school,
-			county_name: countyData ? `${countyData.name}, ${state?.postal || 'Unknown'}` : 'Unknown County',
 			state: state?.postal || 'Unknown',
-			state_name: state?.name || 'Unknown'
+			state_name: state?.name || 'Unknown',
+			institution_type: 'high_school'
+		};
+	});
+
+	const processedCollegeData = Array.from(collegeData.values()).map(college => {
+		const state = stateLookup.find(s => s.fips === college.state_fips);
+		return {
+			...college,
+			state: state?.postal || 'Unknown',
+			state_name: state?.name || 'Unknown',
+			institution_type: 'college'
 		};
 	});
 
@@ -205,5 +239,13 @@ export default async function cleanUSData() {
 
 	const nationMesh = topojson.mesh(us, us.objects.nation);
 
-	return { counties, states, countiesMesh, statesMesh, nationMesh, highSchoolData: processedHighSchoolData };
+	return { 
+		counties, 
+		states, 
+		countiesMesh, 
+		statesMesh, 
+		nationMesh, 
+		highSchoolData: processedHighSchoolData,
+		collegeData: processedCollegeData 
+	};
 }

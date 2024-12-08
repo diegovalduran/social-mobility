@@ -11,26 +11,33 @@ export function createBubbleLayout({
         console.log("BubbleLayout - Mode:", isScatterPlot ? "Scatter Plot" : "Bubble Chart");
         console.log("BubbleLayout - Sample data:", data[0]?.rawData);
         
-        // Create scales for scatter plot
-        const xScale = scaleLinear()
-            .domain([0.2, 2])
-            .range([padding, width - padding]);
-        
-        const yScale = scaleLinear()
-            .domain([0.2, 1.8])
-            .range([height - padding, padding]);
-
         if (isScatterPlot) {
-            // For scatter plot, directly set positions without simulation
+            // Create scales for scatter plot based on data ranges
+            const xExtent = [
+                Math.min(...data.map(d => d.rawData.xMetric)),
+                Math.max(...data.map(d => d.rawData.xMetric))
+            ];
+            
+            const yExtent = [
+                Math.min(...data.map(d => d.rawData.yMetric)),
+                Math.max(...data.map(d => d.rawData.yMetric))
+            ];
+
+            const xScale = scaleLinear()
+                .domain([xExtent[0] * 0.9, xExtent[1] * 1.1])
+                .range([padding, width - padding]);
+            
+            const yScale = scaleLinear()
+                .domain([yExtent[0] * 0.9, yExtent[1] * 1.1])
+                .range([height - padding, padding]);
+
             const processedData = data.map(d => ({
                 ...d,
-                x: xScale(d.rawData.ec_own_ses_hs),
-                y: yScale(d.rawData.ec_parent_ses_hs),
-                fx: xScale(d.rawData.ec_own_ses_hs), // Fixed positions
-                fy: yScale(d.rawData.ec_parent_ses_hs)  // Fixed positions
+                x: xScale(d.rawData.xMetric),
+                y: yScale(d.rawData.yMetric),
+                fx: xScale(d.rawData.xMetric),
+                fy: yScale(d.rawData.yMetric)
             }));
-            
-            console.log("Scatter plot data:", processedData[0]); // Debug log
             
             return {
                 nodes: processedData,
@@ -59,6 +66,23 @@ export function createBubbleLayout({
                 scales: null
             };
         }
+    }
+    
+    function createScales(nodes, width, height, padding) {
+        if (!nodes.length) return null;
+
+        const xRange = nodes[0].rawData.xRange || [0, 2];
+        const yRange = nodes[0].rawData.yRange || [0, 2];
+
+        const xScale = scaleLinear()
+            .domain(xRange)
+            .range([padding, width - padding]);
+
+        const yScale = scaleLinear()
+            .domain(yRange)
+            .range([height - padding, padding]);  // Inverted for SVG coordinates
+
+        return { x: xScale, y: yScale };
     }
     
     return {

@@ -1,6 +1,6 @@
 <script>
     import { onMount } from 'svelte';
-    import { axisBottom, axisLeft, select } from 'd3';
+    import { axisBottom, axisLeft, select, scaleLinear } from 'd3';
     import BubbleTooltip from './BubbleTooltip.svelte';
     import { createBubbleLayout } from './BubbleLayout.js';
     import BubbleZoom from './BubbleZoom.svelte';
@@ -91,10 +91,16 @@
     
     function handleMouseEnter(event, item) {
         const rect = container.getBoundingClientRect();
-        tooltipData = item;
+        tooltipData = {
+            ...item,
+            detail: typeof detailField === 'function' ? 
+                detailField(item) : 
+                item[detailField]
+        };
         tooltipX = event.clientX;
-        tooltipY = event.clientY - 10; // Offset slightly above cursor
+        tooltipY = event.clientY - 10;
         tooltipVisible = true;
+        console.log('Tooltip Data:', tooltipData); // Debug log
     }
     
     function handleMouseLeave() {
@@ -120,6 +126,127 @@
     
     function handleMouseUp() {
         isDragging = false;
+    }
+
+    function createScales(nodes, width, height, padding) {
+        if (!nodes.length) return null;
+
+        const xRange = nodes[0].rawData.xRange || [0, 2];
+        const yRange = nodes[0].rawData.yRange || [0, 2];
+
+        // Find the maximum absolute value for each axis to make it symmetric
+        const xMax = Math.max(Math.abs(xRange[0]), Math.abs(xRange[1]));
+        const yMax = Math.max(Math.abs(yRange[0]), Math.abs(yRange[1]));
+
+        const xScale = scaleLinear()
+            .domain([-xMax, xMax])  // Symmetric domain around 0
+            .range([padding, width - padding]);
+
+        const yScale = scaleLinear()
+            .domain([-yMax, yMax])  // Symmetric domain around 0
+            .range([height - padding, padding]);
+
+        return { x: xScale, y: yScale };
+    }
+
+    function drawQuadrantLines(svg, xScale, yScale, width, height, padding) {
+        // Add x-axis line (horizontal through 0)
+        svg.append('line')
+            .attr('class', 'reference-line')
+            .attr('x1', padding)
+            .attr('x2', width - padding)
+            .attr('y1', yScale(0))
+            .attr('y2', yScale(0))
+            .style('stroke', '#666')
+            .style('stroke-width', '1px')
+            .style('stroke-dasharray', '4,4');
+
+        // Add y-axis line (vertical through 0)
+        svg.append('line')
+            .attr('class', 'reference-line')
+            .attr('x1', xScale(0))
+            .attr('x2', xScale(0))
+            .attr('y1', padding)
+            .attr('y2', height - padding)
+            .style('stroke', '#666')
+            .style('stroke-width', '1px')
+            .style('stroke-dasharray', '4,4');
+
+        // Add quadrant labels if needed
+        svg.append('text')
+            .attr('class', 'quadrant-label')
+            .attr('x', width - padding - 50)
+            .attr('y', padding + 20)
+            .text('Q1')
+            .style('fill', '#666');
+
+        // Add other quadrant labels as needed
+    }
+
+    // Add function to determine if we're in a bias plot mode
+    $: isBiasPlot = data[0]?.rawData?.xLabel?.toLowerCase().includes('bias');
+
+    // Modify the axes rendering
+    $: if (isScatterPlot && xScale && yScale) {
+        if (svg) {
+            const xAxis = axisBottom(xScale)
+                .tickFormat(d => d.toFixed(1));
+            const yAxis = axisLeft(yScale)
+                .tickFormat(d => d.toFixed(1));
+
+            // Select or create axis groups
+            let xAxisGroup = select(svg).select(".x-axis");
+            let yAxisGroup = select(svg).select(".y-axis");
+
+            if (xAxisGroup.empty()) {
+                xAxisGroup = select(svg).append("g").attr("class", "x-axis");
+            }
+            if (yAxisGroup.empty()) {
+                yAxisGroup = select(svg).append("g").attr("class", "y-axis");
+            }
+
+            // Position x-axis at y=0 for bias plots, otherwise at bottom
+            xAxisGroup
+                .attr("transform", isBiasPlot ? 
+                    `translate(0, ${yScale(0)})` : 
+                    `translate(0, ${actualHeight - padding})`
+                )
+                .call(xAxis);
+
+            // Position y-axis
+            yAxisGroup
+                .attr("transform", `translate(${padding}, 0)`)
+                .call(yAxis);
+
+            // Add zero reference lines
+            if (isBiasPlot) {
+                // Horizontal zero line (if not already serving as x-axis)
+                select(svg).selectAll(".zero-line-horizontal")
+                    .data([0])
+                    .join("line")
+                    .attr("class", "zero-line-horizontal reference-line")
+                    .attr("x1", padding)
+                    .attr("x2", actualWidth - padding)
+                    .attr("y1", yScale(0))
+                    .attr("y2", yScale(0))
+                    .attr("stroke", "#666")
+                    .attr("stroke-width", 1)
+                    .attr("stroke-dasharray", "4,4");
+
+                // Vertical zero line
+                select(svg).selectAll(".zero-line-vertical")
+                    .data([0])
+                    .join("line")
+                    .attr("class", "zero-line-vertical reference-line")
+                    .attr("x1", xScale(0))
+                    .attr("x2", xScale(0))
+                    .attr("y1", padding)
+                    .attr("y2", height - padding)
+                    .attr("stroke", "#666")
+                    .attr("stroke-width", 1)
+                    .attr("stroke-dasharray", "4,4");
+            }
+        }
     }
 </script>
 
@@ -272,6 +399,13 @@
     }
     
     .reference-line {
+        pointer-events: none;
+        opacity: 0.5;
+    }
+
+    .quadrant-label {
+        font-size: 12px;
+        fill: #666;
         pointer-events: none;
     }
 </style>

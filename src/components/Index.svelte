@@ -60,6 +60,7 @@
 	let collegeData;
 	let countyData;
 	let isLoading = true;
+	let usData;
 
 	onMount(() => {
 		mounted = true;
@@ -121,14 +122,15 @@
 
 	onMount(async () => {
 		try {
-			const us = await loadUSData();
+			usData = await loadUSData();
 			if (mounted) {
-				counties = us.counties;
-				states = us.states;
-				countiesMesh = us.countiesMesh;
-				statesMesh = us.statesMesh;
-				nationMesh = us.nationMesh;
-				highSchoolData = Array.from(us.highSchoolData.values());
+				counties = usData.counties;
+				states = usData.states;
+				countiesMesh = usData.countiesMesh;
+				statesMesh = usData.statesMesh;
+				nationMesh = usData.nationMesh;
+				highSchoolData = Array.from(usData.highSchoolData.values());
+				collegeData = usData.collegeData;
 				isLoading = false;
 
 				const initialPlace = getPlaceFromUrl();
@@ -188,6 +190,8 @@
 							<BubbleSection 
 								countyFeatures={highSchoolData}
 								{activeMode}
+								highSchoolData={highSchoolData}
+								collegeData={collegeData}
 							/>
 						{:else}
 							<p>Loading high school data...</p>
