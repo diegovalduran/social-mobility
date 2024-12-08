@@ -1,59 +1,75 @@
 <script>
     export let percentage = 0;
-    export let color = "#000000";
+    export let color = "#333333";
     export let height = 20;
+    
+    // Ensure percentage is between 0 and 100
+    $: safePercentage = Math.max(0, Math.min(100, percentage));
+    
+    // Add class when bar is full
+    $: isFull = safePercentage === 100;
+
+    // Format percentage to 1 decimal place
+    $: formattedPercentage = safePercentage.toFixed(1);
 </script>
 
 <div class="bar-container" style="height: {height}px;">
   <div 
-    class="percentage-bar filled"
+    class="bar-fill"
+    class:full={isFull}
     style="
-      width: {percentage}%;
+      width: {safePercentage}%; 
       background-color: {color};
       height: {height}px;
     "
-  >
-    {#if percentage > 5}
-      <span class="percentage-label">{Math.round(percentage)}%</span>
-    {/if}
-  </div>
+  />
   <div 
-    class="percentage-bar empty"
+    class="bar-outline" 
     style="
-      width: {100 - percentage}%;
       height: {height}px;
     "
   />
+  <div class="percentage-label">
+    {formattedPercentage}%
+  </div>
 </div>
 
 <style>
   .bar-container {
-    display: flex;
-    width: 100%;
-    margin-right: 1rem;
-    border: 1px solid #000;
-  }
-
-  .percentage-bar {
     position: relative;
-    transition: opacity 0.2s ease;
+    width: 100%;
+    border-radius: 4px;
+    overflow: hidden;
   }
 
-  .filled {
-    border-right: 1px solid #000;
+  .bar-fill {
+    position: absolute;
+    left: 0;
+    top: 0;
+    transition: width 0.3s ease;
+    border-radius: 4px 0 0 4px;
   }
 
-  .empty {
-    background-color: transparent;
+  .bar-fill.full {
+    border-radius: 4px;
+  }
+
+  .bar-outline {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
   }
 
   .percentage-label {
     position: absolute;
-    left: 50%;
     top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 0.8rem;
     color: #fff;
-    text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
   }
 </style>

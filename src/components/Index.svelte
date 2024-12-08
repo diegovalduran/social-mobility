@@ -55,7 +55,7 @@
 	let activeMode = "EC";
 	let activeCountyMode = "OFF";
 	let mounted = false;
-	let visualizationMode = "map";
+	let visualizationMode = "bars";
 	let showBarChart = true;
 	let collegeData;
 	let countyData;
@@ -68,6 +68,7 @@
 	let selectedInstitution = "HIGH_SCHOOL";
 	let selectedPlotType = "HIGH_SES";
 	let bubbles1Section;
+	let barChartMode = "COUNTY";
 
 	function handleScroll() {
 		if (!articleContainer || !bubbles1Section || !barsSection) return;
@@ -238,6 +239,21 @@
 	function handleBubbleSettingsChange() {
 		activeMode = "";
 	}
+
+	$: console.log("Data being passed to PercentageBarChart:", {
+		mode: barChartMode,
+		countiesLength: counties?.features?.length,
+		collegeDataLength: collegeData?.length,
+		sampleCounty: counties?.features?.[0],
+			sampleCollege: collegeData?.[0]
+	});
+
+	$: console.log("County data structure:", {
+		sampleCounty: counties?.features?.[0],
+		properties: counties?.features?.[0]?.properties,
+		ecValue: counties?.features?.[0]?.properties?.ecValue,
+		population: counties?.features?.[0]?.properties?.population
+	});
 </script>
 
 <div class="layout">
@@ -287,12 +303,20 @@
 				{:else if visualizationMode === "bars"}
 					<div class="bar-chart-container">
 						<BarChartHeader 
-							{activeMode}
-							on:modeChange={handleModeChange}
+							activeMode={barChartMode}
+							on:modeChange={(event) => {
+								barChartMode = event.detail;
+								console.log("Index: Bar chart mode changed to:", barChartMode);
+							}}
 						/>
 						<PercentageBarChart 
-							data={activeMode === "COUNTY" ? counties.features : collegeData}
-							{activeMode}
+							data={barChartMode === "COLLEGE" 
+								? collegeData 
+								: barChartMode === "HIGH_SCHOOL"
+								? highSchoolData
+								: counties.features}
+							activeMode={activeMode}
+							{barChartMode}
 						/>
 					</div>
 				{/if}

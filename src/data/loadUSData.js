@@ -22,6 +22,7 @@ async function loadSocialCapitalData() {
 			biasGrpMemHigh: d.bias_grp_mem_high_county ? +d.bias_grp_mem_high_county : 0,
 			numBelowP50: d.num_below_p50 ? +d.num_below_p50 : 0,
 			clusteringCounty: d.clustering_county ? +d.clustering_county : 0,
+			supportRatioCounty: d.support_ratio_county ? +d.support_ratio_county : 0,
 			volunteeringRate: d.volunteering_rate_county ? +d.volunteering_rate_county : 0
 		}];
 	}));
@@ -49,7 +50,8 @@ async function loadHighSchoolSocialCapitalData() {
 			exposureOwnSesHs: d.exposure_own_ses_hs ? +d.exposure_own_ses_hs : 0,
 			exposureParentSesHs: d.exposure_parent_ses_hs ? +d.exposure_parent_ses_hs : 0,
 			students9To12: d.students_9_to_12 ? +d.students_9_to_12 : 0,
-			clusteringHs: d.clustering_hs ? +d.clustering_hs : 0
+			clusteringHs: d.clustering_hs ? +d.clustering_hs : 0,
+			volunteeringRateHs: d.volunteering_rate_hs ? +d.volunteering_rate_hs : 0
 		}];
 	}));
 }
@@ -76,6 +78,9 @@ async function loadCollegeSocialCapitalData() {
 			bias_parent_ses_college: d.bias_parent_ses_college ? +d.bias_parent_ses_college : 0,
 			bias_high_own_ses_college: d.bias_high_own_ses_college ? +d.bias_high_own_ses_college : 0,
 			bias_high_parent_ses_college: d.bias_high_parent_ses_college ? +d.bias_high_parent_ses_college : 0,
+			clustering_college: d.clustering_college ? +d.clustering_college : 0,
+			support_ratio_college: d.support_ratio_college ? +d.support_ratio_college : 0,
+			volunteering_rate_college: d.volunteering_rate_college ? +d.volunteering_rate_college : 0,
 			mean_students_per_cohort: d.mean_students_per_cohort ? +d.mean_students_per_cohort : 0
 		}];
 	}));
@@ -161,7 +166,8 @@ export default async function cleanUSData() {
 					exposureOwnSesHs: highSchoolDataEntry?.exposureOwnSesHs || 0,
 					exposureParentSesHs: highSchoolDataEntry?.exposureParentSesHs || 0,
 					students9To12: highSchoolDataEntry?.students9To12 || 0,
-					clusteringHs: highSchoolDataEntry?.clusteringHs || 0
+					clusteringHs: highSchoolDataEntry?.clusteringHs || 0,
+					volunteeringRateHs: highSchoolDataEntry?.volunteeringRateHs || 0
 				});
 
 				if (data !== undefined) {
@@ -193,6 +199,7 @@ export default async function cleanUSData() {
 						biasGrpMemHigh: data?.biasGrpMemHigh || 0,
 						numBelowP50: data?.numBelowP50 || 0,
 						clusteringCounty: data?.clusteringCounty || 0,
+						supportRatioCounty: data?.supportRatioCounty || 0,
 						volunteeringRate: data?.volunteeringRate || 0,
 						ecOwnSesHs: highSchoolDataEntry?.ecOwnSesHs || 0,
 						ecParentSesHs: highSchoolDataEntry?.ecParentSesHs || 0,
@@ -201,7 +208,8 @@ export default async function cleanUSData() {
 						exposureOwnSesHs: highSchoolDataEntry?.exposureOwnSesHs || 0,
 						exposureParentSesHs: highSchoolDataEntry?.exposureParentSesHs || 0,
 						students9To12: highSchoolDataEntry?.students9To12 || 0,
-						clusteringHs: highSchoolDataEntry?.clusteringHs || 0
+						clusteringHs: highSchoolDataEntry?.clusteringHs || 0,
+						volunteeringRateHs: highSchoolDataEntry?.volunteeringRateHs || 0
 					}
 				};
 			})

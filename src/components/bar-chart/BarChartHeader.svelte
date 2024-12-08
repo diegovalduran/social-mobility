@@ -5,11 +5,18 @@
   
     const modes = [
       { id: "COUNTY", label: "Counties" },
+      { id: "HIGH_SCHOOL", label: "High Schools" },
       { id: "COLLEGE", label: "Colleges" }
     ];
   
+    import { onMount } from 'svelte';
+    onMount(() => {
+        dispatch("modeChange", activeMode);
+    });
+  
     function handleModeChange(mode) {
       activeMode = mode;
+      console.log("BarChartHeader: Mode changed to", mode);
       dispatch("modeChange", mode);
     }
   </script>
