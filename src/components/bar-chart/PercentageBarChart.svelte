@@ -6,6 +6,8 @@
   export let data = [];
   export let activeMode = "COUNTY";
   export let barChartMode;
+  export let initialSortField = 0;
+  export let initialSortDirection = 'desc';
   
   const config = {
     barHeight: 20,
@@ -18,8 +20,24 @@
     }
   };
 
-  let sortField = 0;
-  let sortDirection = 'desc';
+  let sortField = initialSortField;
+  let sortDirection = initialSortDirection;
+
+  // Watch for changes in initialSortField and initialSortDirection
+  $: {
+    if (initialSortField !== undefined) {
+      sortField = initialSortField;
+    }
+    if (initialSortDirection !== undefined) {
+      sortDirection = initialSortDirection;
+    }
+  }
+
+  // Add function to handle external sort changes
+  export function handleBarSortChange(field, direction) {
+    sortField = field;
+    sortDirection = direction;
+  }
 
   // Define metrics based on mode
   $: metrics = barChartMode === "COUNTY" ? [

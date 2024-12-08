@@ -15,7 +15,7 @@
 	import Select from "$components/Select.svelte";
 	import Share from "$components/Share.svelte";
 	import Icon from "$components/helpers/Icon.svelte";
-	import Tip from "$components/Tip.svelte";
+	import Tip from "$lib/components/Ti.svelte";
 	import options from "$data/options.csv";
 	import classics from "$data/classics.csv";
 	import changelog from "$data/places-changelog.csv";
@@ -55,7 +55,7 @@
 	let activeMode = "EC";
 	let activeCountyMode = "OFF";
 	let mounted = false;
-	let visualizationMode = "bars";
+	let visualizationMode = "map";
 	let showBarChart = true;
 	let collegeData;
 	let countyData;
@@ -69,6 +69,7 @@
 	let selectedPlotType = "HIGH_SES";
 	let bubbles1Section;
 	let barChartMode = "COUNTY";
+	let barChartComponent;
 
 	function handleScroll() {
 		if (!articleContainer || !bubbles1Section || !barsSection) return;
@@ -254,6 +255,12 @@
 		ecValue: counties?.features?.[0]?.properties?.ecValue,
 		population: counties?.features?.[0]?.properties?.population
 	});
+
+	function handleBarSortChange(field, direction) {
+		if (barChartComponent) {
+			barChartComponent.handleBarSortChange(field, direction);
+		}
+	}
 </script>
 
 <div class="layout">
@@ -317,6 +324,9 @@
 								: counties.features}
 							activeMode={activeMode}
 							{barChartMode}
+							bind:this={barChartComponent}
+							initialSortField={barChartMode === "COLLEGE" ? 2 : barChartMode === "HIGH_SCHOOL" ? 0 : 1}
+							initialSortDirection="desc"
 						/>
 					</div>
 				{/if}
@@ -620,25 +630,6 @@
 				{/each}
 				<hr class="separator" />
 
-				<div class="preset-section">
-					<h3 class="click-me">Click Me!</h3>
-					<div class="preset-buttons">
-						<button 
-							class="preset-btn"
-							class:active={activeMode === "BIAS_GRP_MEM_HIGH"}
-							on:click={() => {
-								activeMode = "BIAS_GRP_MEM_HIGH";
-								if (visualizationMode === "bubbles") {
-									selectedInstitution = "COLLEGE";
-									selectedPlotType = "BIAS_HIGH";
-								}
-							}}
-						>
-							College High Bias Own SES vs Parent SES
-						</button>
-					</div>
-				</div>
-
 				{#each copy.bars1 as { value }}
 					<p bind:this={barsSection}>{@html value}</p>
 				{/each}
@@ -650,16 +641,16 @@
 					<div class="preset-buttons">
 						<button 
 							class="preset-btn"
-							class:active={activeMode === "BIAS_GRP_MEM_HIGH"}
+							class:active={barChartMode === "HIGH_SCHOOL" && visualizationMode === "bars"}
 							on:click={() => {
-								activeMode = "BIAS_GRP_MEM_HIGH";
-								if (visualizationMode === "bubbles") {
-									selectedInstitution = "COLLEGE";
-									selectedPlotType = "BIAS_HIGH";
+								visualizationMode = "bars";
+								barChartMode = "HIGH_SCHOOL";
+								if (barChartComponent) {
+									barChartComponent.handleBarSortChange(0, 'desc');
 								}
 							}}
 						>
-							College High Bias Own SES vs Parent SES
+							HS Ranked by Number of Students
 						</button>
 					</div>
 				</div>
@@ -675,20 +666,19 @@
 					<div class="preset-buttons">
 						<button 
 							class="preset-btn"
-							class:active={activeMode === "BIAS_GRP_MEM_HIGH"}
+							class:active={barChartMode === "COLLEGE" && visualizationMode === "bars"}
 							on:click={() => {
-								activeMode = "BIAS_GRP_MEM_HIGH";
-								if (visualizationMode === "bubbles") {
-									selectedInstitution = "COLLEGE";
-									selectedPlotType = "BIAS_HIGH";
+								visualizationMode = "bars";
+								barChartMode = "COLLEGE";
+								if (barChartComponent) {
+									barChartComponent.handleBarSortChange(2, 'desc');
 								}
 							}}
 						>
-							College High Bias Own SES vs Parent SES
+							College Ranked by Support Ratio
 						</button>
 					</div>
 				</div>
-
 				{#each copy.bars3 as { value }}
 					<p>{@html value}</p>
 				{/each}
