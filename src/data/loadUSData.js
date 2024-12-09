@@ -37,48 +37,47 @@ async function tryLoadFile(path) {
 }
 
 async function loadSocialCapitalData() {
-	console.log('[Debug] loadSocialCapitalData called');
+	const path = `${base}/data/meta/social_capital_county.csv`;
+	console.log('[Debug] Loading social capital data:', {
+		path,
+		base,
+		fullUrl: typeof window !== 'undefined' ? new URL(path, window.location.href).toString() : path,
+		environment: process.env.NODE_ENV
+	});
+
 	try {
-		throw new Error('Trace error location');
-	} catch (e) {
-		console.log('[Debug] Call stack:', e.stack);
+		const data = await csv(path);
+		console.log('[Debug] Successfully loaded social capital data:', {
+			path,
+			rowCount: data?.length
+		});
+		return new Map(data.map(d => {
+			const countyId = d.county.padStart(5, '0');
+			return [countyId, {
+				ecValue: d.ec_county ? +d.ec_county : 0,
+				population: d.pop2018 ? +d.pop2018 : 0,
+				childEcValue: d.child_ec_county ? +d.child_ec_county : 0,
+				exposureGrpMem: d.exposure_grp_mem_county ? +d.exposure_grp_mem_county : 0,
+				biasGrpMem: d.bias_grp_mem_county ? +d.bias_grp_mem_county : 0,
+				ecHigh: d.ec_high_county ? +d.ec_high_county : 0,
+				childHighEc: d.child_high_ec_county ? +d.child_high_ec_county : 0,
+				exposureGrpMemHigh: d.exposure_grp_mem_high_county ? +d.exposure_grp_mem_high_county : 0,
+				biasGrpMemHigh: d.bias_grp_mem_high_county ? +d.bias_grp_mem_high_county : 0,
+				numBelowP50: d.num_below_p50 ? +d.num_below_p50 : 0,
+				clusteringCounty: d.clustering_county ? +d.clustering_county : 0,
+				supportRatioCounty: d.support_ratio_county ? +d.support_ratio_county : 0,
+				volunteeringRate: d.volunteering_rate_county ? +d.volunteering_rate_county : 0
+			}];
+		}));
+	} catch (error) {
+		console.error('[Debug] Failed to load social capital data:', {
+			path,
+			error: error.message,
+			type: error.name,
+			status: error.status
+		});
+		throw error;
 	}
-	
-	const paths = [
-		`${base}/assets/data/meta/social_capital_county.csv`,
-		`${base}/data/meta/social_capital_county.csv`
-	];
-	
-	console.log('[Debug] Attempting paths for social capital data:', paths);
-	
-	for (const path of paths) {
-		try {
-			const data = await csv(path);
-			console.log(`[Debug] Successfully loaded from: ${path}`);
-			return new Map(data.map(d => {
-				const countyId = d.county.padStart(5, '0');
-				return [countyId, {
-					ecValue: d.ec_county ? +d.ec_county : 0,
-					population: d.pop2018 ? +d.pop2018 : 0,
-					childEcValue: d.child_ec_county ? +d.child_ec_county : 0,
-					exposureGrpMem: d.exposure_grp_mem_county ? +d.exposure_grp_mem_county : 0,
-					biasGrpMem: d.bias_grp_mem_county ? +d.bias_grp_mem_county : 0,
-					ecHigh: d.ec_high_county ? +d.ec_high_county : 0,
-					childHighEc: d.child_high_ec_county ? +d.child_high_ec_county : 0,
-					exposureGrpMemHigh: d.exposure_grp_mem_high_county ? +d.exposure_grp_mem_high_county : 0,
-					biasGrpMemHigh: d.bias_grp_mem_high_county ? +d.bias_grp_mem_high_county : 0,
-					numBelowP50: d.num_below_p50 ? +d.num_below_p50 : 0,
-					clusteringCounty: d.clustering_county ? +d.clustering_county : 0,
-					supportRatioCounty: d.support_ratio_county ? +d.support_ratio_county : 0,
-					volunteeringRate: d.volunteering_rate_county ? +d.volunteering_rate_county : 0
-				}];
-			}));
-		} catch (error) {
-			console.log(`[Debug] Failed to load from: ${path}`, error.message);
-		}
-	}
-	
-	throw new Error('Failed to load social capital data from all attempted paths');
 }
 
 async function loadHighSchoolSocialCapitalData() {
