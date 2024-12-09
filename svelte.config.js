@@ -3,20 +3,13 @@ import adapterStatic from "@sveltejs/adapter-static";
 import sveltePreprocess from "svelte-preprocess";
 import autoprefixer from "autoprefixer";
 
-const { subdirectory } = JSON.parse(readFileSync("package.json", "utf8"));
-const dev = process.env.NODE_ENV !== "production";
-const dir = subdirectory || "";
-const prefix = dir.startsWith("/") ? "" : "/";
-const base = dev || !dir ? "" : `${prefix}${dir}`;
-
-const preprocess = sveltePreprocess({
-	postcss: {
-		plugins: [autoprefixer]
-	}
-});
-
+/** @type {import('@sveltejs/kit').Config} */
 const config = {
-	preprocess,
+	preprocess: sveltePreprocess({
+		postcss: {
+			plugins: [autoprefixer]
+		}
+	}),
 	kit: {
 		adapter: adapterStatic({
 			pages: 'docs',
@@ -25,14 +18,20 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			base: '/social-mobility'
+			base: '/social-mobility',
+			relative: false
+		},
+		appDir: '_app',
+		prerender: {
+			entries: ['*'],
+			handleHttpError: ({ path, referrer, message }) => {
+				if (path.startsWith('/social-mobility/_app')) {
+					return;
+				}
+				throw new Error(message);
+			}
 		}
-	},
-	vitePlugin: {
-		experimental: {
-			inspector: { holdMode: true },
-		}
-	},
+	}
 };
 
 export default config;
