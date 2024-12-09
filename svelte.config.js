@@ -22,8 +22,7 @@ const config = {
 		adapter: adapterStatic({
 			pages: 'docs',
 			assets: 'docs',
-			fallback: 'index.html',
-			strict: true
+			fallback: 'index.html'
 		}),
 		paths: {
 			base
