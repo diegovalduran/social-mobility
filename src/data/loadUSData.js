@@ -1,7 +1,15 @@
-import * as topojson from "topojson-client";
+console.log('[Debug] Module initialization start');
+
 import { json, csv, geoCentroid } from "d3";
 import { base } from "$app/paths";
+import { dev } from '$app/environment';
 import stateLookup from "$data/states.csv";
+
+console.log('[Debug] Initial module load:', {
+	base,
+	isDev: dev,
+	timestamp: new Date().toISOString()
+});
 
 async function tryLoadFile(path) {
 	console.log(`[Debug] Attempting fetch for: ${path}`);
@@ -28,6 +36,13 @@ async function tryLoadFile(path) {
 }
 
 async function loadSocialCapitalData() {
+	console.log('[Debug] loadSocialCapitalData called');
+	try {
+		throw new Error('Trace error location');
+	} catch (e) {
+		console.log('[Debug] Call stack:', e.stack);
+	}
+	
 	const paths = [
 		`${base}/data/meta/social_capital_county.csv`,
 		`${base}/src/data/meta/social_capital_county.csv`
@@ -175,6 +190,13 @@ function filterAlaska(feature) {
 }
 
 export default async function cleanUSData() {
+	console.log('[Debug] cleanUSData called');
+	try {
+		throw new Error('Trace error location');
+	} catch (e) {
+		console.log('[Debug] Call stack:', e.stack);
+	}
+	
 	console.log('[Debug] Starting cleanUSData');
 	console.log('[Debug] Base path:', base);
 	console.log('[Debug] Attempting to load from:', `${base}/assets/data/counties-10m.json`);

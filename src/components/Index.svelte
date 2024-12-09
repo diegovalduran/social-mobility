@@ -1,4 +1,6 @@
 <script>
+	console.log('[Debug] Index.svelte script start');
+	
 	import { csv, groups, descending } from "d3";
 	import { onMount, getContext, onDestroy } from "svelte";
 	import { page } from "$app/stores";
@@ -17,6 +19,8 @@
 	import BubbleSection from "./BubbleSection.svelte";
 	import PercentageBarChart from "./bar-chart/PercentageBarChart.svelte";
 	import BarChartHeader from "./bar-chart/BarChartHeader.svelte";
+
+	console.log('[Debug] Index.svelte imports completed');
 
 	const copy = getContext("copy");
 
@@ -194,8 +198,11 @@
 	}
 
 	onMount(async () => {
+		console.log('[Debug] Index.svelte onMount start');
 		try {
+			console.log('[Debug] About to call loadUSData');
 			usData = await loadUSData();
+			console.log('[Debug] loadUSData completed:', !!usData);
 			if (mounted) {
 				counties = usData.counties;
 				states = usData.states;
@@ -212,7 +219,11 @@
 				await customLocation();
 			}
 		} catch (err) {
-			console.log(err);
+			console.error('[Debug] Error in onMount:', {
+				error: err,
+				message: err.message,
+				stack: err.stack
+			});
 		}
 	});
 
