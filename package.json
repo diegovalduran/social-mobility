@@ -7,7 +7,7 @@
 		"render-maps": "node tasks/render-maps.js",
 		"data": "node tasks/data.js",
 		"dev": "vite dev",
-		"build": "vite build",
+		"build": "vite build && cp -r build/* docs/",
 		"preview": "vite preview",
 		"lint": "prettier --check --plugin-search-dir=. .",
 		"format": "prettier --write --plugin-search-dir=. ."
@@ -45,5 +45,5 @@
 		"node": ">= 18.12.0"
 	},
 	"browserslist": "> 0.5%, last 4 versions, not ie <= 11, not ie_mob <= 11",
-	"subdirectory": "2023/03/same-name"
+	"subdirectory": "/social-mobility"
 }
