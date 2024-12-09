@@ -19,10 +19,15 @@ const preprocess = sveltePreprocess({
 const config = {
 	preprocess,
 	kit: {
-		adapter: adapterStatic(),
+		adapter: adapterStatic({
+			pages: 'docs',
+			assets: 'docs',
+			fallback: 'index.html',
+			strict: true
+		}),
 		paths: {
 			base
-		},
+		}
 	},
 	vitePlugin: {
 		experimental: {
