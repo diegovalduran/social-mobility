@@ -38,7 +38,7 @@ jobs:
           cache: 'npm'
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm install
 
       - name: Build
         run: npm run build
@@ -56,3 +56,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Debug Build Output
+        run: |
+          echo "Listing build directory contents:"
+          ls -R build/
+        if: always()  # This will run even if previous steps fail
