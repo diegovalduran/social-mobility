@@ -1,0 +1,19 @@
+{
+  "url": "",
+  "title": "Economic Mobility and Social Capital in the US",
+  "description": "An interactive visualization exploring economic mobility and social capital across US counties, schools, and colleges.",
+  "hed": "Data & Methods",
+  "dek": "An interactive visualization exploring economic mobility and social capital across US counties, schools, and colleges.",
+  "introExplanation": [
+    {
+      "type": "text",
+      "value": "This visualization explores economic connectedness and social capital metrics from the Social Capital Atlas dataset."
+    }
+  ],
+  "miscExplanation": [
+    {
+      "type": "text",
+      "value": "Built using <a href=https://github.com/the-pudding/svelte-starter target=_blank rel=noreferrer>The Pudding's Svelte Starter</a>. Data from <a href=https://data.humdata.org/dataset/social-capital-atlas target=_blank rel=noreferrer>Social Capital Atlas Dataset by Chetty et al.</a>"
+    }
+  ]
+}

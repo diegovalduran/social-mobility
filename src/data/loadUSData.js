@@ -4,7 +4,7 @@ import { base } from "$app/paths";
 import stateLookup from "$data/states.csv";
 
 async function loadSocialCapitalData() {
-	const data = await csv(`${base}/src/data/meta/social_capital_county.csv`);
+	const data = await csv(`${base}/data/meta/social_capital_county.csv`);
 	
 	return new Map(data.map(d => {
 		const countyId = d.county.padStart(5, '0');
@@ -27,7 +27,7 @@ async function loadSocialCapitalData() {
 }
 
 async function loadHighSchoolSocialCapitalData() {
-	const data = await csv(`${base}/src/data/meta/social_capital_high_school.csv`);
+	const data = await csv(`${base}/data/meta/social_capital_high_school.csv`);
 	return new Map(data.map(d => {
 		const countyId = d.county.padStart(5, '0');
 		const stateFips = countyId.substring(0, 2);
@@ -51,7 +51,7 @@ async function loadHighSchoolSocialCapitalData() {
 }
 
 async function loadCollegeSocialCapitalData() {
-	const data = await csv(`${base}/src/data/meta/social_capital_college.csv`);
+	const data = await csv(`${base}/data/meta/social_capital_college.csv`);
 	
 	return new Map(data.map(d => {
 		const countyId = d.county.padStart(5, '0');

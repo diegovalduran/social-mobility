@@ -1,0 +1,147 @@
+{
+  "url": "",
+  "title": "Social Capital and Economic Mobility in the United States",
+  "overline": "Code/Story: Diego Valdez Duran",
+  "hed": "The Shape of Social Capital in the United States",
+  "overview": [
+    {
+      "type": "text",
+      "value": "Of all the factors that shape economic opportunity in America, social capital is one of the least visible yet most powerful. It’s about who you know, the networks you’re part of, and how those connections can open doors—or close them. And just like income inequality, social capital isn’t evenly distributed. In some counties, cross-class friendships and civic engagement are strong; in others, networks remain fragmented and insular."
+    },
+    {
+        "type": "text",
+        "value": "This is what people mean when they say that “it's not what you know, it's who you know.”"
+      },
+    {
+      "type": "text",
+      "value": "But what does social capital look like across the United States? And how does it connect to economic mobility—the ability to climb the social and income ladder? Inspired by researchers at Meta, Harvard, NYU, and Stanford, we explored these questions using data from the Social Capital Atlas. This dataset, which maps social connections among Facebook users aged 25 to 44 living in the United States, gives us the opportunity to uncover insights across counties, ZIP codes, high schools, and colleges."
+    },
+    {
+      "type": "text",
+      "value": "Instead of focusing solely on income or education, we wanted to understand how connections—both within and across socioeconomic groups—shape opportunity. Are people from different backgrounds forming meaningful relationships? Or are their networks reinforcing divides? And how do these patterns vary geographically?"
+    },
+    {
+        "type": "text",
+        "value": "To begin addressing these questions, we analyzed social capital metrics like economic connectedness, social cohesiveness, and civic engagement alongside measures of economic mobility."
+    }
+  ],
+  "map1": [
+    {
+      "type": "text",
+      "value": "Let’s begin with a macro view: a map of economic connectedness across U.S. counties as a lens into social networks shaping economic mobility. The color intensity reflects the prevalence of high-SES (socioeconomic status) friendships among low-SES individuals. Bright regions signify stronger integration across socioeconomic lines."
+    },
+    {
+        "type": "text",
+        "value": "One striking pattern is the disparity in economic connectedness. Urban centers and regions with diverse economic opportunities tend to show higher scores, while rural areas and some economically isolated regions fall behind. This variation highlights uneven opportunities for forming cross-class friendships, a factor closely tied to upward mobility. Darker hues in the South and Southwest emphasize fragmented networks in these areas, shaped by systemic challenges like residential segregation and economic inequality."
+      }
+  ],
+  "map2": [
+    {
+      "type": "text",
+      "value": "Shifting focus to the economic connectedness of high-SES individuals reveals a contrasting map. Bright regions indicate areas where high-SES individuals form dense networks among themselves. These clusters shine brightest in affluent urban and suburban regions along the coasts, including Silicon Valley, Seattle, Denver, and the New York City area, fueled by elite educational institutions, exclusive social venues, and well-connected professional networks."
+    },
+    {
+        "type": "text",
+        "value": "Rural areas, by contrast, show fewer networks, though some pockets in the central west stand out. These may reflect small, affluent communities or industries fostering tight-knit high-SES connections. Interestingly, a few counties display balanced scores between low-SES and high-SES connectedness, suggesting pockets of integration which tends to occur more in rural areas and states."
+      }
+  ],
+  "map3": [
+    {
+      "type": "text",
+      "value": "Let’s layer in the 2018 population data, aggregated for each county in each state as points in the center of each state to see if we can uncover anything else. Here, each unit within the bubbles represents 100k people. At first glance, no new immediate patterns emerge, so let’s switch to the exposure metric for low-SES individuals—how often they interact with high-SES peers in shared settings—to explore these dynamics. Bright regions in the Midwest and central-west suggest that shared spaces like workplaces may blur socioeconomic lines, fostering these interactions. Conversely, dimmer shades in the South and rural areas underscore the isolation of low-SES individuals, limiting access to high-SES networks and, consequently, economic opportunity."
+    }
+  ],
+  "map4": [
+    {
+      "type": "text",
+      "value": "Exposure among high-SES individuals gives us another perspective. Bright regions cluster in affluent urban and suburban areas, in familiar places like Silicon Valley, Boston, and parts of Washington, D.C., underscoring self-reinforcing networks among the well connected. In contrast, rural areas remain dim, highlighting fewer opportunities for high-SES individuals to interact, even with peers of similar socioeconomic status."
+    },
+    {
+        "type": "text",
+        "value": "This continuing divide showcases how high-SES networks often operate within exclusive bubbles, reinforcing inequality even in regions where they overlap with lower-SES populations."
+    }
+  ],
+  "map5": [
+    {
+      "type": "text",
+      "value": "Let’s go one level deeper: clustering and volunteering rates, which gives us more insights into community dynamics. The sizes of the bubbles show us how connected or civically engaged a county’s residents are."
+    },
+    {
+        "type": "text",
+        "value": "Clustering reveals tightly-knit local networks, especially in rural areas and small towns where 'everyone knows everyone.' Bright regions in these areas contrast with urban centers, where networks are more dispersed. While clustering fosters local support, it may limit exposure to broader opportunities, especially in economically homogenous areas. Notably, Eastern and South Eastern regions tend to have larger clustering measures."
+    }
+  ],
+  "map6": [
+    {
+      "type": "text",
+      "value": "Volunteering, a marker of civic engagement, tells a different story. Bright pockets in the Midwest and coastal areas highlight active community involvement, sometimes independent of clustering. Urban areas with low clustering but high volunteering suggest engagement driven by shared missions rather than close personal ties. However, we find notably low volunteering rates as state aggregates amongst the South, where systemic challenges, economic disparities, and lower access to resources may hinder civic participation."
+    }
+  ],
+  "map7": [
+    {
+      "type": "text",
+      "value": "In the final metric we’ll examine at the macro level, we explore friending bias as a measure of the gap between exposure and actual cross-class friendships. Interestingly, for low-SES individuals the Midwest reveals pockets of low or even negative bias, indicating areas where cross-class friendships exceed expectations based on exposure. However, much of the U.S. map falls within a relatively narrow range of friendly bias, from -0.02 to 0.16, distributed uniformly across various regions. This uniformity suggests a broad but modest variation in the extent to which shared spaces lead to meaningful social integration. A few counties stick out like Todd, SD, DeSoto, FL and Corson, SD as exhibiting particularly high bias."
+    }
+  ],
+  "map8": [
+    {
+        "type": "text",
+        "value": "The switch from low-SES to high-SES friending bias is drastic. High-SES individuals generally exhibit much lower bias, with most values falling below 0. In densely packed urban and suburban areas, bias tends to hover closer to 0, reflecting slightly more balanced opportunities for interaction within socioeconomic groups. However, regions in the South, particularly concentrated around Georgia, stand out with notably low bias, highlighting areas where high-SES individuals are more integrated into their communities, although within limited socioeconomic spheres."
+    }
+  ],
+  "bubbles1": [
+    {
+        "type": "text",
+        "value": "Looking closer at high schools, this bubble chart compares Own SES to Parent SES, with bubble sizes representing the amount of students across grades 9-12. We see a clear positive trend along the diagonal of 1:1 mappings and see how parental SES influences students’ SES. We find many points close to the diagonal, however some points reoccur in similar places more than once across categories. For example, let’s keep an eye on Veterans HS (1.12 Own SES, 1.43 Parent SES) at the top center and Fatima HS (1.6 Own SES, 0.55 Parent SES) at the bottom center as we explore these plots. More generally, larger bubbles above the diagonal are fostering upward mobility, while bubbles below show declining SES across generations. There’s also a slight concentration near the bottom of the plot, likely coming from students with low-SES backgrounds."
+    }
+  ],
+  "bubbles2": [
+    {
+        "type": "text",
+        "value": "Next, let’s take a look at high SES individuals, comparing their own to their parents’ in a similar way as in the above chart. Again, we see a fairly strong positive correlation along the diagonal parity line. Interestingly, the majority of most schools lie below this line, indicating that high SES individuals experience some form of downward mobility compared to their parents. Perhaps, an individual has more autonomy to their social upwards mobility than previously observed or expected, which would also make sense. Notable schools, like the Veterans HS and Fatima HS have stayed in similar positions, meaning that some schools tend to experience similar movements. Nonetheless, the overall positive trend continues."
+    }
+  ],
+  "bubbles3": [
+    {
+        "type": "text",
+        "value": "To take a different approach, let’s investigate Exposure Own SES vs Parent SES, which measures how much students interact across SES groups by comparing economic connectedness within their SES to overall integration. We again see a fairly strong trend upwards and so SES continues to influence children’s adjusted SES outcome. Notably, Veterans HS and Fatima HS remain in similar positions, suggesting that opportunities tend to stay in certain locations, with little change across these metrics."
+    }
+  ],
+  "bubbles4": [
+    {
+        "type": "text",
+        "value": "Shifting our focus to colleges, we examine Bias Own SES versus Bias Parent SES, where bias captures how economic connectedness within an SES group differs from the expected exposure to other SES groups. Here, positive bias means a college's SES networks are more isolated than expected, while negative bias indicates stronger-than-expected cross-SES integration. Most points cluster around the origin, suggesting that for most colleges, SES connectedness correlates closely with exposure for both students and parents. However, high-bias outliers, often community colleges with smaller enrollments towards the top right, show localized networks that may reinforce SES segmentation."
+    }
+  ],
+  "bubbles5": [
+    {
+        "type": "text",
+        "value": "Let’s compare that to the Bias High Own SES vs. Bias High Parent SES, where we see the pattern shifting significantly compared to previous visualizations. The majority of points are negative, and so for most colleges shown, high-SES students have lower economic connectedness within their SES group compared to what would be expected based on exposure. Thus, there’s a greater cross-SES integration for high-SES students overall, compared to a more neutral pattern for non-high-SES students. The outliers in the bottom left, mostly community colleges and technical schools, show institutions where high-SES networks are particularly weak relative to exposure. These schools often serve more diverse populations, possibly decreasing high-SES within-group connections. More generally, the slight negative trend along the diagonal suggests a relationship where higher bias in parental SES is associated with reduced bias in students' own SES. Larger schools cluster more tightly near the center, which makes sense as there’s less variation in SES-related bias. So, larger institutions may create environments that are more consistent in SES interaction making for less extremes of integration or isolation."
+    }
+  ],
+  "bars1": [
+    {
+        "type": "text",
+        "value": "Building on the previous analysis of SES networks, let’s now focus on different metrics of social connections: clustering, support ratio, and volunteering rate. These metrics give us insight into the cohesiveness of social networks within groups and the role of civic engagement. Clustering measures the average fraction of an individual's friend pairs who are also friends with each other, indicating the closeness of social circles. Support ratio gives the proportion of within-county friendships where the pair of friends share a third mutual friend within the same county as local social density. Volunteering rate gives the percentage of individuals participating in activities related to volunteering or activism as a measure of community involvement. Counties with high clustering tend to be small, with populations below 15,000. In these areas, close-knit social networks are naturally stronger, supported by nearly 100% support ratios. Similarly, counties with high volunteering rates also show nearly 100% support ratios, suggesting that strong local connections may encourage civic participation and community engagement."
+    }
+  ],
+  "bars2": [
+    {
+        "type": "text",
+        "value": "Let’s take a look at a different view, examining high schools ranked by the number of students (grade 9-12). We see that larger schools tend to have lower clustering (~30%) and very low volunteering rates, meaning that these social networks are less close and limited in terms of civic engagement. On the other hand, if we sort by high clustering values then we see that very small schools appear at the top (less than 100 students) where connections are more close and common. Interestingly, the highest volunteering rates also correlated with some of the higher clustering values, indicating that closer social networks may encourage greater civic engagement."
+    }
+  ],
+  "bars3": [
+    {
+        "type": "text",
+        "value": "Finally, we focus on colleges ranked by their highest support ratios. These colleges typically have relatively small cohort sizes, averaging around 500 students, and have moderate clustering levels ranging from low (around 30%) to high (up to 70%). However, there’s no strong patterns that emerge. Though, there seems to be a relationship between high support ratios and volunteering rates as the highest volunteering rates tend to have high support ratios and moderate-to-high clustering. This highlights the relationships between social structures and community involvement in smaller institutions, which we’ve seen shared amongst other groups across the data."
+    }
+  ],
+  "conclusion": [
+    {
+        "type": "text",
+        "value": "Across the dataset, we've observed key trends linking social metrics to institutional and geographic characteristics. Smaller institutions and communities consistently showcase higher clustering and support ratios, indicating tightly-knit networks. Volunteering rates, while less consistent, tend to align with these cohesive structures, suggesting that strong local connections often encourage stronger civic participation. On the other hand, larger institutions and counties display less clustering and integration rates, likely due to their more diverse networks. These insights collectively highlight the role of community size and social integrations in defining both economic and civic mobilities."
+    }
+  ],
+  "outro": ""
+}

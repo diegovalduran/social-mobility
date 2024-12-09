@@ -5,10 +5,12 @@ import path from "path";
 import svg from "vite-plugin-svgstring";
 import dsv from "@rollup/plugin-dsv";
 
+const dev = process.env.NODE_ENV !== 'production';
 const { version } = JSON.parse(readFileSync("package.json", "utf8"));
 const timestamp = timeFormat("%Y-%m-%d-%H:%M")(new Date());
 
 const config = {
+	base: dev ? '' : '/social-mobility/',
 	define: {
 		__VERSION__: JSON.stringify(version),
 		__TIMESTAMP__: JSON.stringify(timestamp)
@@ -28,6 +30,13 @@ const config = {
 			"$styles": path.resolve("./src/styles"),
 			"$svg": path.resolve("./src/svg"),
 			"$utils": path.resolve("./src/utils")
+		}
+	},
+	build: {
+		rollupOptions: {
+			input: {
+				app: './src/routes/+page.svelte'
+			}
 		}
 	}
 };
