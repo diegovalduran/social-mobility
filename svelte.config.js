@@ -21,12 +21,12 @@ const config = {
 		adapter: adapter({
 			pages: 'build',
 			assets: 'build',
-			fallback: null,
+			fallback: 'index.html',
 			precompress: false,
 			strict: true
 		}),
 		paths: {
-			base: dev ? '' : '/social-mobility'
+			base: process.env.BASE_PATH || ''
 		},
 		prerender: {
 			entries: ['*']
@@ -37,7 +37,7 @@ const config = {
 	},
 	vitePlugin: {
 		experimental: {
-			inspector: { holdMode: true },
+				inspector: { holdMode: true },
 		}
 	}
 };
