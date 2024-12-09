@@ -1,26 +1,12 @@
-console.log('[Debug] Module initialization start');
-
 import { json, csv, geoCentroid } from "d3";
 import { base } from "$app/paths";
 import { dev } from '$app/environment';
 import stateLookup from "$data/states.csv";
 import * as topojson from "topojson-client";
 
-console.log('[Debug] Initial module load:', {
-	base,
-	isDev: dev,
-	timestamp: new Date().toISOString()
-});
-
 async function tryLoadFile(path) {
-	console.log(`[Debug] Attempting fetch for: ${path}`);
 	try {
 		const response = await fetch(path);
-		console.log(`[Debug] Fetch response for ${path}:`, {
-			status: response.status,
-			ok: response.ok,
-			contentType: response.headers.get('content-type')
-		});
 		if (!response.ok) {
 			throw new Error(`HTTP error! status: ${response.status}`);
 		}
@@ -38,19 +24,10 @@ async function tryLoadFile(path) {
 
 async function loadSocialCapitalData() {
 	const path = `${base}/assets/data/meta/social_capital_county.csv`;
-	console.log('[Debug] Loading social capital data:', {
-		path,
-		base,
-		fullUrl: typeof window !== 'undefined' ? new URL(path, window.location.href).toString() : path,
-		environment: process.env.NODE_ENV
-	});
 
 	try {
 		const data = await csv(path);
-		console.log('[Debug] Successfully loaded social capital data:', {
-			path,
-			rowCount: data?.length
-		});
+
 		return new Map(data.map(d => {
 			const countyId = d.county.padStart(5, '0');
 			return [countyId, {
@@ -85,16 +62,9 @@ async function loadHighSchoolSocialCapitalData() {
 		`${base}/assets/data/meta/social_capital_high_school.csv`
 	];
 	
-	console.log('[Debug] Attempting to load high school data from paths:', paths);
-	
 	for (const path of paths) {
 		try {
-			console.log(`[Debug] Trying path: ${path}`);
 			const data = await csv(path);
-			console.log(`[Debug] Successfully loaded from: ${path}`, {
-				rowCount: data?.length,
-				firstRow: data?.[0]
-			});
 			return new Map(data.map(d => {
 				const countyId = d.county.padStart(5, '0');
 				const stateFips = countyId.substring(0, 2);
@@ -125,18 +95,10 @@ async function loadHighSchoolSocialCapitalData() {
 
 async function loadCollegeSocialCapitalData() {
 	const dataPath = `${base}/assets/data/meta/social_capital_college.csv`;
-	console.log('[Debug] Loading college data:', {
-		path: dataPath,
-		base: base,
-		fullUrl: typeof window !== 'undefined' ? new URL(dataPath, window.location.href).href : dataPath
-	});
 	
 	try {
 		const data = await csv(dataPath);
-		console.log('[Debug] Successfully loaded college data:', {
-			rowCount: data?.length,
-			firstRow: data?.[0]
-		});
+	
 		return new Map(data.map(d => {
 			const countyId = d.county.padStart(5, '0');
 			const stateFips = countyId.substring(0, 2);
@@ -184,16 +146,11 @@ function filterAlaska(feature) {
 }
 
 export default async function cleanUSData() {
-	console.log('[Debug] cleanUSData called');
 	try {
 		throw new Error('Trace error location');
 	} catch (e) {
 		console.log('[Debug] Call stack:', e.stack);
 	}
-	
-	console.log('[Debug] Starting cleanUSData');
-	console.log('[Debug] Base path:', base);
-	console.log('[Debug] Attempting to load from:', `${base}/assets/data/counties-10m.json`);
 	
 	try {
 		const [us, socialCapitalData, highSchoolData, collegeData] = await Promise.all([
@@ -202,13 +159,6 @@ export default async function cleanUSData() {
 			loadHighSchoolSocialCapitalData(),
 			loadCollegeSocialCapitalData()
 		]);
-		
-		console.log('[Debug] Successfully loaded:', {
-			us: !!us,
-			socialCapitalData: !!socialCapitalData,
-			highSchoolData: !!highSchoolData,
-			collegeData: !!collegeData
-		});
 
 		const processedHighSchoolData = Array.from(highSchoolData.values()).map(school => {
 			const state = stateLookup.find(s => s.fips === school.state_fips);

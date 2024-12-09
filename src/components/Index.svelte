@@ -1,6 +1,4 @@
 <script>
-	console.log('[Debug] Index.svelte script start');
-	
 	import { csv, groups, descending } from "d3";
 	import { onMount, getContext, onDestroy } from "svelte";
 	import { page } from "$app/stores";
@@ -19,8 +17,6 @@
 	import BubbleSection from "./BubbleSection.svelte";
 	import PercentageBarChart from "./bar-chart/PercentageBarChart.svelte";
 	import BarChartHeader from "./bar-chart/BarChartHeader.svelte";
-
-	console.log('[Debug] Index.svelte imports completed');
 
 	const copy = getContext("copy");
 
@@ -73,7 +69,6 @@
 		const barsRect = barsSection.getBoundingClientRect();
 		const windowHeight = window.innerHeight;
 
-		// Switch to map view (when above bubbles section)
 		if (bubbles1Rect.top > windowHeight) {
 			if (currentSection !== "map") {
 				currentSection = "map";
@@ -92,7 +87,6 @@
 				});
 			}
 		}
-		// Switch to bubbles view
 		else if (barsRect.top > windowHeight) {
 			if (currentSection !== "bubbles") {
 				currentSection = "bubbles";
@@ -115,7 +109,6 @@
 				}, 500);
 			}
 		}
-		// Switch to bars view
 		else if (barsRect.top <= windowHeight && barsRect.top > -barsRect.height) {
 			if (currentSection !== "bars") {
 				currentSection = "bars";
@@ -198,11 +191,8 @@
 	}
 
 	onMount(async () => {
-		console.log('[Debug] Index.svelte onMount start');
 		try {
-			console.log('[Debug] About to call loadUSData');
 			usData = await loadUSData();
-			console.log('[Debug] loadUSData completed:', !!usData);
 			if (mounted) {
 				counties = usData.counties;
 				states = usData.states;
