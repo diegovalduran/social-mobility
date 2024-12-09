@@ -37,7 +37,7 @@ async function tryLoadFile(path) {
 }
 
 async function loadSocialCapitalData() {
-	const path = `${base}/data/meta/social_capital_county.csv`;
+	const path = `${base}/assets/data/meta/social_capital_county.csv`;
 	console.log('[Debug] Loading social capital data:', {
 		path,
 		base,
@@ -82,8 +82,7 @@ async function loadSocialCapitalData() {
 
 async function loadHighSchoolSocialCapitalData() {
 	const paths = [
-		`${base}/data/meta/social_capital_high_school.csv`,
-		`${base}/src/data/meta/social_capital_high_school.csv`
+		`${base}/assets/data/meta/social_capital_high_school.csv`
 	];
 	
 	console.log('[Debug] Attempting to load high school data from paths:', paths);
@@ -125,7 +124,7 @@ async function loadHighSchoolSocialCapitalData() {
 }
 
 async function loadCollegeSocialCapitalData() {
-	const dataPath = `${base}/data/meta/social_capital_college.csv`;
+	const dataPath = `${base}/assets/data/meta/social_capital_college.csv`;
 	console.log('[Debug] Loading college data:', {
 		path: dataPath,
 		base: base,

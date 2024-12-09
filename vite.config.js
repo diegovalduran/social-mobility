@@ -34,13 +34,13 @@ const config = {
 	},
 	publicDir: 'static',
 	build: {
+		outDir: 'build',
+		copyPublicDir: true,
 		rollupOptions: {
 			input: {
 				app: './src/routes/+page.svelte'
 			}
-		},
-		outDir: 'build',
-		copyPublicDir: true
+		}
 	}
 };
 
