@@ -32,12 +32,15 @@ const config = {
 			"$utils": path.resolve("./src/utils")
 		}
 	},
+	publicDir: 'static',
 	build: {
 		rollupOptions: {
 			input: {
 				app: './src/routes/+page.svelte'
 			}
-		}
+		},
+		outDir: 'build',
+		copyPublicDir: true
 	}
 };
 

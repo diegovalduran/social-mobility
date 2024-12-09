@@ -1,5 +1,5 @@
 import { readFileSync } from "fs";
-import adapterStatic from "@sveltejs/adapter-static";
+import adapter from '@sveltejs/adapter-static';
 import sveltePreprocess from "svelte-preprocess";
 import autoprefixer from "autoprefixer";
 
@@ -18,7 +18,7 @@ const preprocess = sveltePreprocess({
 const config = {
 	preprocess,
 	kit: {
-		adapter: adapterStatic({
+		adapter: adapter({
 			pages: 'build',
 			assets: 'build',
 			fallback: null,
@@ -26,10 +26,13 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			base
+			base: dev ? '' : '/social-mobility'
 		},
 		prerender: {
 			entries: ['*']
+		},
+		files: {
+			assets: 'static'
 		}
 	},
 	vitePlugin: {

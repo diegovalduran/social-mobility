@@ -45,23 +45,16 @@ async function loadSocialCapitalData() {
 	}
 	
 	const paths = [
-		`${base}/data/meta/social_capital_county.csv`,
-		`${base}/src/data/meta/social_capital_county.csv`
+		`${base}/assets/data/meta/social_capital_county.csv`,
+		`${base}/data/meta/social_capital_county.csv`
 	];
 	
-	console.log('[Debug] Current environment:', {
-		base,
-		fullUrl: typeof window !== 'undefined' ? window.location.href : 'SSR',
-		paths
-	});
+	console.log('[Debug] Attempting paths for social capital data:', paths);
 	
 	for (const path of paths) {
-		const data = await tryLoadFile(path);
-		if (data) {
-			console.log(`[Debug] Successfully loaded from: ${path}`, {
-				rowCount: data?.length,
-				sampleRow: data?.[0]
-			});
+		try {
+			const data = await csv(path);
+			console.log(`[Debug] Successfully loaded from: ${path}`);
 			return new Map(data.map(d => {
 				const countyId = d.county.padStart(5, '0');
 				return [countyId, {
@@ -80,6 +73,8 @@ async function loadSocialCapitalData() {
 					volunteeringRate: d.volunteering_rate_county ? +d.volunteering_rate_county : 0
 				}];
 			}));
+		} catch (error) {
+			console.log(`[Debug] Failed to load from: ${path}`, error.message);
 		}
 	}
 	
