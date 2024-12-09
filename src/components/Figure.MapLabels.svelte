@@ -10,7 +10,7 @@
 	export let offsetY = 0;
 	export let strokeWidth = 1;
 
-	const { width, height, custom } = getContext("Figure");
+	const { width, custom } = getContext("Figure");
 </script>
 
 <g

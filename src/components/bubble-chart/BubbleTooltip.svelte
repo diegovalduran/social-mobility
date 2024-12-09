@@ -6,7 +6,6 @@
     export let backgroundColor = "white";
     export let textColor = "#333";
     
-    // Modify the style calculation to use fixed positioning and ensure visibility
     $: style = `
         position: fixed;
         left: ${x}px;
@@ -61,7 +60,6 @@
         opacity: 0.8;
     }
 
-    /* Add a small arrow at the bottom */
     .tooltip::after {
         content: '';
         position: absolute;

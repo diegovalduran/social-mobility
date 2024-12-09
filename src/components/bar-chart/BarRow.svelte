@@ -5,13 +5,11 @@
     export let metrics;
     export let config;
   
-    // Function to format numbers with commas
     function formatNumber(num) {
-      if (num === null || num === 0) return '—'; // Em dash for null/zero values
+      if (num === null || num === 0) return '—'; 
       return new Intl.NumberFormat('en-US').format(num);
     }
-  
-    // Check if metric should be displayed as a standalone number
+
     function isStandaloneNumber(metricId) {
       return metricId === 'population' || 
              metricId === 'students_9_to_12' || 

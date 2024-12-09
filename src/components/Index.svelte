@@ -3,21 +3,15 @@
 	import { onMount, getContext, onDestroy } from "svelte";
 	import { page } from "$app/stores";
 	import { browser } from "$app/environment";
-	import { assets, base } from "$app/paths";
+	import { base } from "$app/paths";
 	import storage from "$utils/localStorage.js";
 	import getNearestOptions from "$utils/getNearestOptions.js";
 	import getCountiesByDist from "$utils/getCountiesByDist.js";
 	import getLocation from "$utils/getLocation.js";
 	import loadUSData from "$data/loadUSData.js";
 	import viewport from "$stores/viewport.js";
-	import Footer from "$components/Footer.svelte";
 	import Map from "./Map.svelte";
-	import Select from "$components/Select.svelte";
-	import Share from "$components/Share.svelte";
-	import Icon from "$components/helpers/Icon.svelte";
-	import Tip from "$lib/components/Ti.svelte";
 	import options from "$data/options.csv";
-	import classics from "$data/classics.csv";
 	import changelog from "$data/places-changelog.csv";
 	import MapHeader from "$components/MapHeader.svelte";
 	import BubbleSection from "./BubbleSection.svelte";
@@ -25,7 +19,6 @@
 	import BarChartHeader from "./bar-chart/BarChartHeader.svelte";
 
 	const copy = getContext("copy");
-	const data = getContext("data");
 
 	const ASPECT_RATIO = 975 / 610;
 
@@ -56,9 +49,7 @@
 	let activeCountyMode = "OFF";
 	let mounted = false;
 	let visualizationMode = "map";
-	let showBarChart = true;
 	let collegeData;
-	let countyData;
 	let isLoading = true;
 	let usData;
 	let articleContainer;
@@ -78,23 +69,27 @@
 		const barsRect = barsSection.getBoundingClientRect();
 		const windowHeight = window.innerHeight;
 
-		if (barsRect.top <= windowHeight && barsRect.top > -barsRect.height) {
-			if (currentSection !== "bars") {
-				currentSection = "bars";
-				isLoading = true;
-				setTimeout(() => {
-					visualizationMode = "bars";
-					handleModeChange({ 
-						detail: { 
-							mode: activeMode, 
-							type: "default" 
-						}
-					});
-					isLoading = false;
-				}, 500);
+		// Switch to map view (when above bubbles section)
+		if (bubbles1Rect.top > windowHeight) {
+			if (currentSection !== "map") {
+				currentSection = "map";
+				visualizationMode = "map";
+				handleModeChange({ 
+					detail: { 
+						mode: activeCountyMode, 
+						type: "county" 
+					}
+				});
+				handleModeChange({ 
+					detail: { 
+						mode: activeMode, 
+						type: "default" 
+					}
+				});
 			}
 		}
-		else if (bubbles1Rect.top <= windowHeight && bubbles1Rect.top > -bubbles1Rect.height) {
+		// Switch to bubbles view
+		else if (barsRect.top > windowHeight) {
 			if (currentSection !== "bubbles") {
 				currentSection = "bubbles";
 				isLoading = true;
@@ -116,21 +111,22 @@
 				}, 500);
 			}
 		}
-		else if (currentSection !== "map") {
-			currentSection = "map";
-			visualizationMode = "map";
-			handleModeChange({ 
-				detail: { 
-					mode: activeCountyMode, 
-					type: "county" 
-				}
-			});
-			handleModeChange({ 
-				detail: { 
-					mode: activeMode, 
-					type: "default" 
-				}
-			});
+		// Switch to bars view
+		else if (barsRect.top <= windowHeight && barsRect.top > -barsRect.height) {
+			if (currentSection !== "bars") {
+				currentSection = "bars";
+				isLoading = true;
+				setTimeout(() => {
+					visualizationMode = "bars";
+					handleModeChange({ 
+						detail: { 
+							mode: activeMode, 
+							type: "default" 
+						}
+					});
+					isLoading = false;
+				}, 500);
+			}
 		}
 	}
 
@@ -193,7 +189,6 @@
 			} else {
 				activeMode = mode;
 			}
-			console.log("Mode changed in Index:", { activeMode, activeCountyMode });
 			placeData = [...placeData];
 		}
 	}
@@ -225,9 +220,6 @@
 		mounted = false;
 	});
 
-	$: shareUrl = `${$page.url}?place=${encodeURIComponent(currentName)}`;
-	$: summarySuffix = location?.state ? "places near you" : "curated places.";
-
 	$: interactiveHeight = (clientWidth / ASPECT_RATIO) * 1.25;
 	$: shrink = interactiveHeight > $viewport.height;
 
@@ -241,26 +233,6 @@
 		activeMode = "";
 	}
 
-	$: console.log("Data being passed to PercentageBarChart:", {
-		mode: barChartMode,
-		countiesLength: counties?.features?.length,
-		collegeDataLength: collegeData?.length,
-		sampleCounty: counties?.features?.[0],
-			sampleCollege: collegeData?.[0]
-	});
-
-	$: console.log("County data structure:", {
-		sampleCounty: counties?.features?.[0],
-		properties: counties?.features?.[0]?.properties,
-		ecValue: counties?.features?.[0]?.properties?.ecValue,
-		population: counties?.features?.[0]?.properties?.population
-	});
-
-	function handleBarSortChange(field, direction) {
-		if (barChartComponent) {
-			barChartComponent.handleBarSortChange(field, direction);
-		}
-	}
 </script>
 
 <div class="layout">
@@ -313,7 +285,6 @@
 							activeMode={barChartMode}
 							on:modeChange={(event) => {
 								barChartMode = event.detail;
-								console.log("Index: Bar chart mode changed to:", barChartMode);
 							}}
 						/>
 						<PercentageBarChart 
@@ -334,9 +305,6 @@
 				<p class="loading">loading...</p>
 			{/if}
 			
-			{#if shareUrl && visualizationMode === "map"}
-				<Share text="Share map" url={shareUrl} />
-			{/if}
 		</section>
 	</div>
 
@@ -346,13 +314,6 @@
 				<div class="hero">
 					<h1 class="hed">{copy.hed}</h1>
 					<p class="overline"><strong>{@html copy.overline}</strong></p>
-					<!-- <p class="dek">{copy.dek}</p> -->
-				</div>
-
-				<div class="ui" class:visible={!!placeData}>
-					<div class="select">
-						<Select {options} on:change={({ detail }) => onChangePlace(detail)} />
-					</div>
 				</div>
 			</section>
 
@@ -367,19 +328,18 @@
 				{/each}
 				<hr class="separator" />
 
-				<!-- First preset button -->
 				<div class="preset-section">
 					<h3 class="click-me">Click Me!</h3>
 					<div class="preset-buttons">
 						<button 
 							class="preset-btn"
-							class:active={activeMode === "EC" && activeCountyMode === "OFF"}
+							class:active={activeMode === "EC_HIGH" && activeCountyMode === "OFF"}
 							on:click={() => {
-								activeMode = "EC";
+								activeMode = "EC_HIGH";
 								activeCountyMode = "OFF";
 							}}
 						>
-							Economic Connectedness
+							High Economic Connectedness
 						</button>
 					</div>
 				</div>
@@ -389,7 +349,6 @@
 				{/each}
 				<hr class="separator" />
 
-				<!-- Second preset button -->
 				<div class="preset-section">
 					<h3 class="click-me">Click Me!</h3>
 					<div class="preset-buttons">
@@ -411,7 +370,6 @@
 				{/each}
 				<hr class="separator" />
 
-				<!-- Third preset button -->
 				<div class="preset-section">
 					<h3 class="click-me">Click Me!</h3>
 					<div class="preset-buttons">
@@ -684,6 +642,19 @@
 				{/each}
 
 				<hr class="separator" />
+
+				{#each copy.conclusion as { value }}
+					<p>{@html value}</p>
+				{/each}
+
+				<hr class="separator" />
+
+				<section id="acknowledgments">
+					<p>
+						Note: This project was built off <a href="https://github.com/the-pudding/svelte-starter" target="_blank" rel="noopener noreferrer">The Pudding's Svelte Starter repo</a>. The dataset "Measurement and Associations with Economic Mobility" by Chetty et al. can be found at <a href="https://data.humdata.org/dataset/social-capital-atlas" target="_blank" rel="noopener noreferrer">the Humanitarian Data Exchange</a>.
+					</p>
+				</section>
+
 			</section>
 		</article>
 	</div>
@@ -768,7 +739,6 @@
 		text-decoration-thickness: 1px;
 	}
 
-	/* Style for bylines/credits */
 	.credits {
 		font-size: 12px;
 		color: #666;
@@ -904,7 +874,7 @@
 		margin: 24px 0;
 		border: none;
 		height: 1px;
-		background-color: #ddd; /* light grey color - you can adjust this */
+		background-color: #ddd; 
 		width: 100%;
 	}
 
@@ -961,5 +931,17 @@
 		margin-bottom: 4px;
 		color: #333;
 		font-weight: 600;
+	}
+
+	#acknowledgments {
+		margin-top: 2rem;
+		font-size: 14px;
+		color: #666;
+		font-style: italic;
+	}
+
+	#acknowledgments a {
+		color: #666;
+		text-decoration: underline;
 	}
 </style>

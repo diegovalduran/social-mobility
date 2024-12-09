@@ -3,8 +3,6 @@
 	export let x = 0;
 	export let y = 0;
 
-	const { width, height } = getContext("Figure");
-
 	$: left = `${x}px`;
 	$: top = `${y}px`;
 </script>

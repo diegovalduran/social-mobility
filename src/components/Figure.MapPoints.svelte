@@ -1,6 +1,5 @@
 <script>
 	import { getContext } from "svelte";
-	import { format } from "d3";
 	import { tweened } from 'svelte/motion';
 	import { cubicOut } from 'svelte/easing';
 
@@ -11,7 +10,7 @@
 	export let r = 5;
 	export let mode = "POP2018";
 
-	const { width, height, custom } = getContext("Figure");
+	const { custom } = getContext("Figure");
 
 	const scale = tweened(0, {
 		duration: 2000,
@@ -23,14 +22,10 @@
 		easing: cubicOut
 	});
 
-	// Modified reactive statement - ensure animations trigger on mode change
 	$: {
 		mode;
-		// Reset scale and opacity to initial state
 		scale.set(0);
 		opacity.set(0);
-
-		// Animate scale and opacity
 		scale.set(1.2, { duration: 1500 })
 			.then(() => scale.set(1, { duration: 500 }));
 		

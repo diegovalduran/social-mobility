@@ -89,7 +89,6 @@ function getTopScoreFill(data) {
 	}
 	if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
 	else c.opacity = 1;
-	// else if (match[valueProp] < thresholdUpper * maxValue) c.opacity = 0.75;
 	return c.toString();
 }
 
@@ -163,16 +162,10 @@ function render(place) {
 		ctx.lineJoin = "round";
 		ctx.lineCap = "round";
 
-		// const x = topScoreFeatures.find(
-		// 	(d) => d.properties.name === "Berkshire"
-		// ).properties;
-		// console.log(x);
-
 		topScoreFeatures.forEach((feature) => {
 			const { properties } = feature;
 			const strokeStyle = properties.stroke || stroke;
 			const fillStyle = properties.fill || fill;
-			// const fillStyle = randomFill();
 			const path = feature;
 			drawPath({ path, strokeStyle, fillStyle });
 		});
@@ -180,9 +173,7 @@ function render(place) {
 		ctx.font = "24px -apple-system";
 		const label = "Holliston, MA";
 		ctx.fillStyle = "#000";
-		// ctx.fillText(label, 50, 100);
-
-		// Draw line under text
+	
 		const {
 			actualBoundingBoxAscent,
 			actualBoundingBoxDescent,
@@ -192,9 +183,7 @@ function render(place) {
 
 		const labelW = actualBoundingBoxRight + actualBoundingBoxLeft;
 		const labelH = actualBoundingBoxAscent + actualBoundingBoxDescent;
-		// console.log(labelW, labelH);
-
-		// replace all non letters with dashes
+		
 		const filename = place.toLowerCase().replace(/[^a-z]/gi, "-");
 		const out = fs.createWriteStream(`./static/assets/maps/${filename}.png`);
 		const stream = canvas.createPNGStream();
@@ -203,8 +192,6 @@ function render(place) {
 	});
 }
 
-// loop through placeNames sync, and render each one
-console.log(placeNames.length);
 for (const place of placeNames.slice(0, 0)) {
 	console.time(place);
 	await render(place);

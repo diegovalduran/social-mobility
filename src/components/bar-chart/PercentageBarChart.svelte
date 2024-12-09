@@ -1,6 +1,5 @@
 <script>
   import BarRow from './BarRow.svelte';
-  import Bar from './Bar.svelte';
   import Icon from '$components/helpers/Icon.svelte';
   
   export let data = [];
@@ -23,7 +22,6 @@
   let sortField = initialSortField;
   let sortDirection = initialSortDirection;
 
-  // Watch for changes in initialSortField and initialSortDirection
   $: {
     if (initialSortField !== undefined) {
       sortField = initialSortField;
@@ -33,13 +31,11 @@
     }
   }
 
-  // Add function to handle external sort changes
   export function handleBarSortChange(field, direction) {
     sortField = field;
     sortDirection = direction;
   }
 
-  // Define metrics based on mode
   $: metrics = barChartMode === "COUNTY" ? [
     { 
       id: 'population', 
@@ -125,7 +121,6 @@
            metricId === 'students_per_cohort';
   }
 
-  // Update the data transformation based on mode
   $: validData = data?.map(item => {
     if (barChartMode === "COUNTY") {
       if (!item?.properties) return null;
@@ -164,15 +159,11 @@
         volunteeringRateHs: item.volunteeringRateHs
       };
     } else {
-      // College mode
       if (!item) return null;
-      
-      // Format the number to match the display format
+    
       const formattedValue = new Intl.NumberFormat('en-US').format(item.mean_students_per_cohort);
       
-      // Check against the formatted string
       if (formattedValue === "26,989.667") {
-        console.log('Excluding college:', item.college_name);
         return null;
       }
       
@@ -187,14 +178,13 @@
     }
   }).filter(Boolean);
 
-  // Update chartData to show top 100 results
   $: chartData = validData
     ?.sort((a, b) => {
       const aValue = metrics[sortField]?.getValue(a) || 0;
       const bValue = metrics[sortField]?.getValue(b) || 0;
       return sortDirection === 'asc' ? aValue - bValue : bValue - aValue;
     })
-    .slice(0, 100)  // Take top 100 results
+    .slice(0, 100)  
     .map(item => {
       const values = metrics.map(metric => {
         const value = metric.getValue(item);
@@ -224,7 +214,6 @@
   let searchTerm = '';
   let searchResult = null;
 
-  // Search function
   $: {
     if (searchTerm.length > 2) {
       const searchLower = searchTerm.toLowerCase();
@@ -370,7 +359,7 @@
   }
   
   .rows-container-wrapper {
-    padding-top: 1.25rem;  /* Consistent top spacing */
+    padding-top: 1.25rem; 
   }
 
   .rows-container {
@@ -379,7 +368,7 @@
     border-radius: 4px;
     scrollbar-width: thin;
     scrollbar-color: #999 #f0f0f0;
-    padding-top: 12px;  /* Consistent padding for all views */
+    padding-top: 12px;  
   }
 
   .rows {

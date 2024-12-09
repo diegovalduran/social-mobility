@@ -1,14 +1,3 @@
-
-<!--
-Usage:
-	<Figure>
-		<svg></svg>
-	</Figure>
-
-Pass style prop directives to set dimensions (defaults are all "auto")
-	<Figure aspect-ratio="1"></Figure> 
-	<Figure height="500px"></Figure>
--->
 <script>
 	import { writable } from "svelte/store";
 	import { onMount, setContext, tick } from "svelte";

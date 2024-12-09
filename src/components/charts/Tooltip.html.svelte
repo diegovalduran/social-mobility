@@ -1,5 +1,4 @@
 <script>
-	// svelte event created via dispatch
 	export let evt = {};
 	export let offset = -35;
 

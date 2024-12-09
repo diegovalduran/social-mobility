@@ -9,7 +9,7 @@
 
 	let active;
 
-	const { width, height, dpr, custom } = getContext("Figure");
+	const { custom } = getContext("Figure");
 
 	const dispatch = createEventDispatcher();
 
@@ -35,7 +35,6 @@
 		/>
 	{:else}
 		{#each features as feature (feature.id)}
-			<!-- svelte-ignore a11y-click-events-have-key-events -->
 			<path
 				style:stroke
 				style:stroke-width={strokeWidth}

@@ -3,10 +3,8 @@ import { json, csv, geoCentroid } from "d3";
 import { base } from "$app/paths";
 import stateLookup from "$data/states.csv";
 
-// Add this function to load social capital data
 async function loadSocialCapitalData() {
 	const data = await csv(`${base}/src/data/meta/social_capital_county.csv`);
-	console.log('Loaded social capital data:', data.slice(0, 3));
 	
 	return new Map(data.map(d => {
 		const countyId = d.county.padStart(5, '0');
@@ -28,21 +26,17 @@ async function loadSocialCapitalData() {
 	}));
 }
 
-// Add this function to load high school social capital data
 async function loadHighSchoolSocialCapitalData() {
 	const data = await csv(`${base}/src/data/meta/social_capital_high_school.csv`);
-	console.log('Loaded high school social capital data:', data.slice(0, 3));
-	
 	return new Map(data.map(d => {
 		const countyId = d.county.padStart(5, '0');
-		// Get state from the first two digits of county ID
 		const stateFips = countyId.substring(0, 2);
 		
 		return [countyId, {
 			high_school_name: d.high_school_name || 'Unknown High School',
 			county_id: countyId,
-			county: d.county,  // Add raw county ID
-			state_fips: stateFips,  // Store state FIPS code
+			county: d.county,  
+			state_fips: stateFips,  
 			ecOwnSesHs: d.ec_own_ses_hs ? +d.ec_own_ses_hs : 0,
 			ecParentSesHs: d.ec_parent_ses_hs ? +d.ec_parent_ses_hs : 0,
 			ecHighOwnSesHs: d.ec_high_own_ses_hs ? +d.ec_high_own_ses_hs : 0,
@@ -56,10 +50,8 @@ async function loadHighSchoolSocialCapitalData() {
 	}));
 }
 
-// Add this function to load college social capital data
 async function loadCollegeSocialCapitalData() {
 	const data = await csv(`${base}/src/data/meta/social_capital_college.csv`);
-	console.log('Loaded college social capital data:', data.slice(0, 3));
 	
 	return new Map(data.map(d => {
 		const countyId = d.county.padStart(5, '0');
@@ -86,12 +78,8 @@ async function loadCollegeSocialCapitalData() {
 	}));
 }
 
-// Add this function to handle Alaska
 function filterAlaska(feature) {
-	// Simple pass-through if no geometry
 	if (!feature.geometry) return feature;
-	
-	// Filter out certain Alaska regions we don't want to show
 	const coordinates = feature.geometry.coordinates.filter((d, i) => i !== 0);
 	
 	return {
@@ -111,7 +99,6 @@ export default async function cleanUSData() {
 			loadCollegeSocialCapitalData()
 	]);
 
-	// Process both high school and college data
 	const processedHighSchoolData = Array.from(highSchoolData.values()).map(school => {
 		const state = stateLookup.find(s => s.fips === school.state_fips);
 		return {
@@ -132,9 +119,6 @@ export default async function cleanUSData() {
 		};
 	});
 
-	// Log to verify highSchoolData structure
-	console.log('High School Data Loaded:', processedHighSchoolData);
-
 	const countiesRaw = topojson.feature(us, us.objects.counties);
 	
 	let matchCount = 0;
@@ -150,7 +134,6 @@ export default async function cleanUSData() {
 				const data = socialCapitalData.get(d.id);
 				const highSchoolDataEntry = processedHighSchoolData.find(s => s.county_id === d.id);
 
-				// Log each attempt with more detail
 				allAttemptedMatches.push({
 					countyId: d.id,
 					paddedId: d.id.padStart(5, '0'),
@@ -217,17 +200,7 @@ export default async function cleanUSData() {
 			.filter((d) => d.properties.name !== "Aleutians West")
 	};
 
-	console.log('Match statistics:');
-	console.log('Total counties processed:', matchCount + noMatchCount);
-	console.log('Matches found:', matchCount);
-	console.log('No matches found:', noMatchCount);
-	
-	// Log min and max ec values to verify scale
 	const ecValues = counties.features.map(d => d.properties.ecValue).filter(v => v !== undefined);
-	console.log('EC Value range:', {
-		min: Math.min(...ecValues),
-		max: Math.max(...ecValues)
-	});
 
 	const statesRaw = topojson.feature(us, us.objects.states);
 	const states = {

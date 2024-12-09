@@ -3,13 +3,8 @@
     export let color = "#333333";
     export let height = 20;
     
-    // Ensure percentage is between 0 and 100
     $: safePercentage = Math.max(0, Math.min(100, percentage));
-    
-    // Add class when bar is full
     $: isFull = safePercentage === 100;
-
-    // Format percentage to 1 decimal place
     $: formattedPercentage = safePercentage.toFixed(1);
 </script>
 

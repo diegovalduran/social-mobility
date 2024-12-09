@@ -11,25 +11,16 @@
     export let collegeData = [];
     export let onSettingsChange = () => {};
     
-    // Log the data to check its contents
-    $: console.log('High School Data:', highSchoolData);
-    $: console.log('College Data:', collegeData);
-    
-    // Single declaration of transition progress tracker
     const transitionProgress = tweened(1, {
         duration: 400,
         easing: cubicOut
     });
     
-    // Institution and plot type selection
     let selectedInstitution = 'HIGH_SCHOOL';
     let selectedPlotType = 'SES';
     let selectedState = 'ALL STATES';
-
-    // Declare states variable
     let states = ['ALL STATES'];
 
-    // Process bubble data first
     $: bubbleData = (selectedInstitution === 'HIGH_SCHOOL' ? highSchoolData : collegeData)?.length ?
         (selectedInstitution === 'HIGH_SCHOOL' ? highSchoolData : collegeData)
             .map((institution, index) => {
@@ -49,7 +40,6 @@
                     Math.min(Math.sqrt(institution.students9To12) / 3, 30) : 
                     Math.min(Math.sqrt(institution.mean_students_per_cohort) / 4, 20);
                 
-                // Calculate opacity based on state selection
                 const isSelectedState = selectedState === 'ALL STATES' || 
                     institution.state === selectedState;
                 const stateOpacity = isSelectedState ? 1 : 0.1;
@@ -62,7 +52,7 @@
                         institution.students9To12 : 
                         institution.mean_students_per_cohort),
                     opacity: $transitionProgress * stateOpacity,
-                    zIndex: isSelectedState ? 2 : 1, // Bring selected state points to front
+                    zIndex: isSelectedState ? 2 : 1,
                     rawData: {
                         ...institution,
                         xMetric: xValue,
@@ -74,41 +64,29 @@
             })
             .filter(d => d !== null) : [];
 
-    // Update states based on bubble data
     $: {
         const stateSet = new Set(bubbleData.map(d => d.rawData.state));
         states = ['ALL STATES', ...Array.from(stateSet)
             .filter(Boolean)
             .filter(state => state !== 'ALL STATES')
             .sort()];
-        console.log('Generated states:', states);
     }
-
-    // Log the countyFeatures to check its contents
-    console.log('County Features in BubbleSection:', countyFeatures);
     
-    // Create color scale with reactive statement
     $: COLOR_SCALE = scaleLinear()
         .domain(selectedInstitution === "HIGH_SCHOOL" ? [0, 5839] : [0, 1000000])
         .range(['#f0f0f0', '#303030'])
         .clamp(true);
     
-    // Update transition when mode changes
     $: if (activeMode) {
         transitionProgress.set(0);
         setTimeout(() => transitionProgress.set(1), 25);
     }
-    
-    // Add size configuration
-    const baseSize = 2;  // Even smaller base size
-    const scaleFactor = 0.3;  // Increased scale factor for more visible differences
     
     const institutionTypes = [
         { id: 'HIGH_SCHOOL', label: 'High Schools' },
         { id: 'COLLEGE', label: 'Colleges' }
     ];
 
-    // Update plot types to include college metrics
     $: plotTypes = selectedInstitution === 'HIGH_SCHOOL' ? [
         { id: 'SES', label: 'Own SES vs. Parent SES' },
         { id: 'HIGH_SES', label: 'High Own SES vs. High Parent SES' },
@@ -120,14 +98,12 @@
         { id: 'BIAS_HIGH', label: 'Bias High Own SES vs. Bias High Parent SES' }
     ];
 
-    // Add a reactive statement to update selectedPlotType when institution changes
     $: {
         if (selectedInstitution === 'COLLEGE' && selectedPlotType === 'EXPOSURE') {
-            selectedPlotType = 'SES';  // Reset to default if switching to college and current type isn't available
+            selectedPlotType = 'SES';
         }
     }
 
-    // Function to get metrics and labels based on plot type
     function getMetricsConfig(plotType, institution) {
         if (institution === 'COLLEGE') {
             switch(plotType) {
@@ -152,7 +128,7 @@
                         xLabel: 'Bias High Own SES',
                         yLabel: 'Bias High Parent SES'
                     };
-                default: // 'SES'
+                default:
                     return {
                         xMetric: 'ec_own_ses_college',
                         yMetric: 'ec_parent_ses_college',
@@ -176,7 +152,7 @@
                         xLabel: 'Exposure Own SES',
                         yLabel: 'Exposure Parent SES'
                     };
-                default: // 'SES'
+                default:
                     return {
                         xMetric: 'ecOwnSesHs',
                         yMetric: 'ecParentSesHs',
@@ -187,25 +163,24 @@
         }
     }
     
-    // Update detail string for tooltip
     $: tooltipDetail = (item) => isScatterPlot ? 
         selectedInstitution === 'HIGH_SCHOOL' ?
-            // High School tooltip
-            `${item.label}\n` +
             `State: ${item.rawData.state}\n` +
             `${item.rawData.xLabel}: ${item.rawData.xMetric.toFixed(2)}\n` +
             `${item.rawData.yLabel}: ${item.rawData.yMetric.toFixed(2)}\n` +
             `Students 9-12: ${item.rawData.students9To12.toLocaleString()}` :
-            // College tooltip (without college name)
-            `State: ${item.rawData.state}\n\n` +
+            `State: ${item.rawData.state}\n` +
             `${item.rawData.xLabel}: ${item.rawData.xMetric.toFixed(2)}\n` +
             `${item.rawData.yLabel}: ${item.rawData.yMetric.toFixed(2)}\n` +
             `Students per Cohort: ${item.rawData.mean_students_per_cohort.toLocaleString()}` :
         selectedInstitution === 'HIGH_SCHOOL' ?
+            `${item.rawData.xLabel}: ${item.rawData.xMetric.toFixed(2)}\n` +
+            `${item.rawData.yLabel}: ${item.rawData.yMetric.toFixed(2)}\n` +
             `Students 9-12: ${item.rawData.students9To12.toLocaleString()}` :
+            `${item.rawData.xLabel}: ${item.rawData.xMetric.toFixed(2)}\n` +
+            `${item.rawData.yLabel}: ${item.rawData.yMetric.toFixed(2)}\n` +
             `Students per Cohort: ${item.rawData.mean_students_per_cohort.toLocaleString()}`;
 
-    // Add these parameters for the force layout
     const forceConfig = {
         forceX: 0.2,
         forceY: 0.2,
@@ -214,24 +189,13 @@
         alphaDecay: 0.01
     };
 
-    // Add state for initial animation
     let initialTransitionComplete = false;
-    
-    // Start in bubble layout
     let isScatterPlot = false;
 
     onMount(() => {
-        // No need for any delay or mode switching
         initialTransitionComplete = true;
     });
 
-    // Add some debug logging to see what's happening
-    $: {
-        console.log("Current mode:", isScatterPlot ? "Scatter Plot" : "Bubble Chart");
-        console.log("Sample bubble data:", bubbleData[0]);
-    }
-
-    // Add reactive statement to handle preset mode changes
     $: {
         if (activeMode) {
             switch (activeMode) {
@@ -264,13 +228,11 @@
                     }
                     break;
                 default:
-                    // Keep current selection or set default
                     break;
             }
         }
     }
 
-    // Add a reactive variable to determine if we should use vertical layout
     $: useVerticalLayout = selectedInstitution === 'COLLEGE' && 
         (selectedPlotType === 'BIAS' || selectedPlotType === 'BIAS_HIGH');
 </script>
@@ -396,7 +358,6 @@
         align-items: center;
     }
 
-    /* Add new styles for vertical layout */
     .controls.vertical {
         left: 80px;
         flex-direction: column;
@@ -430,17 +391,15 @@
         right: 12px;
         top: 50%;
         transform: translateY(-50%);
-        color: #fff;  /* Default white chevron */
+        color: #fff;  
         pointer-events: none;
         font-size: 12px;
     }
 
-    /* Special styling for institution selector wrapper */
     .select-wrapper:has(.institution-select)::after {
-        color: #000019;  /* Dark chevron only for institution selector */
+        color: #000019;  
     }
 
-    /* Default styling for all selectors */
     .institution-select,
     .state-select,
     .plot-type-select {
@@ -459,7 +418,6 @@
         width: 350px;
     }
 
-    /* Special styling just for institution selector */
     .institution-select {
         width: 200px;
         background: #fff;
@@ -513,7 +471,6 @@
         text-align: center;
     }
 
-    /* Add disabled state styling */
     select:disabled {
         opacity: 0.6;
         cursor: not-allowed;

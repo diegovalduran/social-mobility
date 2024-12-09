@@ -7,32 +7,20 @@
 		groups,
 		scalePow,
 		scaleLog,
-		csvFormat,
-		sum,
 		color,
 		scaleLinear,
 		geoPath,
 		interpolateRgb
 	} from "d3";
-	import { getContext, beforeUpdate, afterUpdate } from "svelte";
+	import { getContext } from "svelte";
 	import Figure from "$components/Figure.svelte";
 	import MapSvg from "$components/Figure.MapSvg.svelte";
-	import MapCanvas from "$components/Figure.MapCanvas.svelte";
 	import MapPath from "$components/Figure.MapPath.svelte";
 	import MapPoints from "$components/Figure.MapPoints.svelte";
-	import MapLabels from "$components/Figure.MapLabels.svelte";
 	import Tooltip from "$components/Figure.Tooltip.svelte";
 	import TooltipContent from "$components/TooltipContent.svelte";
-	import MapInfo from "$components/Map.Info.svelte";
-	import MapKey from "$components/Map.Key.svelte";
-	import CountyTable from "$components/CountyTable.svelte";
-	import PlaceTable from "$components/PlaceTable.svelte";
 	import addDataToCounties from "$data/addDataToCounties.js";
 	import mq from "$stores/mq.js";
-	import viewport from "$stores/viewport.js";
-	import variables from "$data/variables.json";
-	import { tweened } from 'svelte/motion';
-	import { cubicOut } from 'svelte/easing';
 
 	export let story = false;
 	export let counties;
@@ -67,11 +55,9 @@
 
 	export let countiesByDist = [];
 
-	const copy = getContext("copy");
-
 	const ASPECT_RATIO = "2600/1400";
 	const projectionObject = states;
-	// const stateFeatures = states.features;
+
 	const countyStroke = color(COLOR_FG).copy({ opacity: 0.5 }).toString();
 
 	let colors = [];
@@ -83,55 +69,44 @@
 	let displayName;
 	let activeFeatures = [];
 
-	// Define colors at the top
+
 	const COLOR_BG = "#ffffff";
 	const COLOR_FG = "#333333";
-	const COLOR_STROKE = "#999999";
-	const COLOR_OTHER = "#cccccc"; // Default color for "other" places
-	const MAX_COLORS = 3; // Keep this for array slicing operations
-	const COLOR_TOSS = {
-		primary: "#eeeeee",
-		textPrimary: "#333333"
-	};
+	const COLOR_OTHER = "#cccccc"; 
+	const MAX_COLORS = 3; 
 
-	// Define the color scale array - purple to true red gradient
 	const colorScale = ['#2D1160', '#7B2F8F', '#B7367A', '#E34B60', '#FFD700'];
 
-	export let activeMode = "EC";  // Add this prop
-	export let activeCountyMode = "OFF";  // Add this line
+	export let activeMode = "EC";  
+	export let activeCountyMode = "OFF";  
 
-	// Add these scale ranges at the top of the script
+
 	const scaleRanges = {
-		// Low SES
 		"EC": [0.2946900, 1.3597],
 		"CHILD_EC": [0.22188, 1.61136],
 		"EXPOSURE_GRP_MEM": [0.2552, 1.48628],
 		"BIAS_GRP_MEM": [-0.10809, 0.33456999],
 		
-		// High SES
 		"EC_HIGH": [0.70062, 1.71507],
 		"CHILD_HIGH_EC": [0.24529999, 1.69122],
 		"EXPOSURE_GRP_MEM_HIGH": [0.51012999, 1.66616],
 		"BIAS_GRP_MEM_HIGH": [-0.53618002, -0.043249998]
 	};
 
-	// Update the COLOR_SCALE to be reactive to activeMode and use smooth interpolation
 	$: COLOR_SCALE = (value) => {
-		if (!value || isNaN(value)) return '#cccccc'; // Default color for missing data
+		if (!value || isNaN(value)) return '#cccccc'; 
 		
 		const [min, max] = scaleRanges[activeMode] || [0, 1];
 		const normalizedValue = (value - min) / (max - min);
 		
-		// Create a continuous color scale with more interpolation points
 		return scaleLinear()
 			.domain([0, 0.25, 0.5, 0.75, 1])
 			.range(colorScale)
-			.interpolate(interpolateRgb) // Use RGB interpolation for smoother transitions
+			.interpolate(interpolateRgb) 
 			.clamp(true)
 			(normalizedValue);
 	};
 
-	// Replace the current CENTROID_SCALE definition
 	$: CENTROID_SCALE = (() => {
 		if (!stateAggregations) return scaleLog().domain([1, 100]).range([4, 25]);
 		
@@ -148,9 +123,6 @@
 		const minVal = Math.min(...values);
 		const maxVal = Math.max(...values);
 		
-		console.log(`${activeCountyMode} range:`, {minVal, maxVal});
-		
-		// Use linear scale for clustering and volunteering, log scale for others
 		if (activeCountyMode === "CLUSTERING" || activeCountyMode === "VOLUNTEERING") {
 			return scaleLinear()
 				.domain([minVal, maxVal])
@@ -164,7 +136,6 @@
 		}
 	})();
 
-	// Add this state mapping object near the top of the script
 	const stateNameToAbbrev = {
 		'Alabama': 'AL',
 		'Alaska': 'AK',
@@ -277,12 +248,6 @@
 		activeFeatures = [feature];
 	}
 
-	$: {
-		// shuffle around colors
-		// const i = placeData[0].name.length % MAX_COLORS;
-		// colors = COLORS_RAW.slice(i).concat(COLORS_RAW.slice(0, i));
-	}
-
 	$: stateTally = groups(
 		placeData.filter((d) => d.level === "city-us"),
 		(d) => `${d.name}${d.state}`
@@ -379,7 +344,6 @@
 
 	$: byLabel = groups(topPlaces, (d) => d.label);
 
-	// TODO double for strong association?
 	$: tally = byLabel.map(([label, values]) => ({
 		label,
 		count: values.filter((v) => v.tier).length,
@@ -409,11 +373,6 @@
 		placeFeaturesWithOrder = [...placeFeaturesWithOrder];
 	}
 
-	$: colorLookup = placeFeaturesWithOrder.reduce((prev, d, i) => {
-		prev[d.properties.label] = i < MAX_COLORS ? colors[i] : COLOR_OTHER;
-		return prev;
-	}, {});
-
 	$: placeFeaturesRender = placeFeaturesWithOrder.map((d) => {
 		const match = tally.find((t) => t.label === d.properties.label);
 		return {
@@ -432,14 +391,10 @@
 		};
 	});
 
-	// Update transition when mode changes
 	$: if (activeMode) {
-		console.log('Current activeMode:', activeMode);
-		
 		countyFeaturesRender = countyFeatures.map(d => {
 			let value;
 			
-			// If county mode is active, use that value
 			if (activeCountyMode !== "OFF") {
 				value = activeCountyMode === "POP2018" 
 					? d.properties.population
@@ -451,7 +406,6 @@
 					? d.properties.volunteering_rate_county
 					: null;
 			} else {
-				// Otherwise use the SES mode value
 				value = activeMode === "EC" 
 					? d.properties.ecValue
 					: activeMode === "CHILD_EC"
@@ -513,64 +467,16 @@
 		countyRows = [...countyRows];
 	}
 
-	$: countyColumns = [
-		{ prop: "name", label: "County" },
-		{ prop: "state", label: "State" },
-		{ prop: "label1", label: "Rank #1" },
-		{ prop: "label2", label: "Rank #2" },
-		{ prop: "margin", label: "Share Margin", type: "number" }
-	];
-
-	$: placeRows = placeFeaturesRender.map((d) => ({
-		count: 0,
-		...d.properties,
-		style: `background-color: ${d.properties.fills.secondary}; color: ${d.properties.fills.textSecondary};`
-	}));
-
-	$: placeColumns = [
-		{ prop: "label", label: "Place" },
-		{
-			prop: "count",
-			label: "# of Counties",
-			formatFn: format(","),
-			type: "number",
-			dir: "desc"
-		},
-		{
-			prop: "population",
-			label: "Population",
-			formatFn: (d) => (d ? format(",")(d) : "n/a"),
-			type: "number"
-		},
-		{
-			prop: "wiki",
-			label: "Wikipedia Length",
-			formatFn: (d) => (d ? format(",")(d) : "n/a"),
-			type: "number"
-		}
-	];
-
-	$: keyFeatures = placeFeaturesRender.map((d) => ({
-		...d,
-		properties: {
-			...d.properties
-		}
-	}));
-
 	$: topPlace = placeFeaturesRender[0].properties;
-	$: figcaption = `A choropleth map of US counties that shows which place named ${placeName} that county is most likely to refer to based on a combination of proximity, population, and Wikipedia article length. The most commonly referred to place is ${topPlace.label}.`;
+	$: figcaption = ``;
 
 	$: topLabel = topPlace.label;
-	$: topColorPrimary = topPlace.fills.primary;
 	$: placeName, (waiting = true);
 	$: topLabel, (waiting = false);
 	$: if (!waiting) displayName = placeName;
 
-	// Force recalculation when mode changes
 	$: {
 		if (activeMode) {
-			console.log("Mode changed in Map:", activeMode);
-			// Force recalculation of features
 			countyFeaturesRender = countyFeatures.map(d => ({
 				...d,
 				properties: {
@@ -603,20 +509,18 @@
 		}
 	}
 
-	let countyFeaturesRender = []; // Initialize as an empty array
+	let countyFeaturesRender = []; 
 
 	const path = geoPath();
 
 	$: stateCentroids = states.features
-		.filter(feature => stateNameToAbbrev[feature.properties.name]) // Filter out territories
+		.filter(feature => stateNameToAbbrev[feature.properties.name])
 		.map(feature => {
 			const centroid = path.centroid(feature);
 			const fullName = feature.properties.name;
 			const abbrev = stateNameToAbbrev[fullName];
 			const population = stateAggregations[abbrev]?.population;
-			
-			console.log(`Mapping ${fullName} (${abbrev}): Population = ${format(",")(population || 0)}`);
-			
+		
 			return {
 				state: abbrev,
 				fullName,
@@ -627,7 +531,6 @@
 			};
 		});
 
-	// Add this after the scaleRanges definition
 	$: stateAggregations = computed();
 
 	function computed() {
@@ -667,7 +570,6 @@
 			}
 		});
 
-		// Calculate averages
 		Object.entries(aggregations).forEach(([state, data]) => {
 			data.clusteringAvg = data.clusteringCount > 0 
 				? data.clusteringSum / data.clusteringCount 
@@ -679,9 +581,6 @@
 
 		return aggregations;
 	}
-
-	// Add this to calculate global metrics
-	$: globalMetrics = computed2();
 
 	function computed2() {
 		if (!counties?.features) return {};
@@ -700,48 +599,23 @@
 			if (county.properties.volunteeringRate) metrics.volunteering.push(county.properties.volunteeringRate);
 		});
 
-		console.log("Global Metrics Ranges:", Object.entries(metrics).reduce((acc, [metric, values]) => ({
-			...acc,
-			[metric]: {
-				min: Math.min(...values),
-				max: Math.max(...values),
-				totalCountiesWithData: values.length
-			}
-		}), {}));
-
 		return metrics;
 	}
 
-	// Add these logging statements after the computations
 	$: {
 		if (stateAggregations && stateCentroids) {
-			console.log("State Names Comparison:");
-			console.log("From Aggregations:", Object.keys(stateAggregations));
-			console.log("From Centroids:", stateCentroids.map(d => d.state));
-			
-			// Log a few example values
-			console.log("Sample Population Values:");
 			Object.entries(stateAggregations).slice(0, 5).forEach(([state, data]) => {
-				console.log(`${state}: ${data.population}`);
 			});
 			
-			// Log centroid data
-			console.log("Sample Centroid Data:");
 			stateCentroids.slice(0, 5).forEach(centroid => {
 				const pop = stateAggregations[centroid.state]?.population;
-				console.log(`${centroid.state}: Population=${pop}, Scaled=${CENTROID_SCALE(pop || 0)}`);
 			});
-
-			// Log scale information
-			console.log("Scale Domain:", CENTROID_SCALE.domain());
-			console.log("Scale Range:", CENTROID_SCALE.range());
 		}
 	}
 </script>
 
 <div class="figure">
 	<Figure --aspect-ratio={ASPECT_RATIO} custom={{ projectionObject }}>
-		<!-- <MapCanvas features={countyFeaturesRender} stroke={COLOR_FG} /> -->
 		<MapSvg on:mousemove={onMouseMove} pointRadius={$mq["60rem"] ? 4 : 2}>
 			<MapPath
 				features={countyFeaturesRender}
@@ -843,7 +717,6 @@
 		position: relative;
 	}
 
-	/* Simple, smooth transition */
 	:global(.g-map-path path) {
 		transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1),
 					fill 0.4s cubic-bezier(0.4, 0, 0.2, 1);

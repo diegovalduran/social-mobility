@@ -26,7 +26,7 @@
 
     const sizeScale = ["1K", "50K", "1M+"];
     const colorScale = ['#2D1160', '#7B2F8F', '#B7367A', '#E34B60', '#FFD700'];
-    const undefinedColor = '#CCCCCC';  // Changed to light grey
+    const undefinedColor = '#CCCCCC';
 
     import { createEventDispatcher } from 'svelte';
     const dispatch = createEventDispatcher();
@@ -41,22 +41,17 @@
         }
     }
 
-    // Add the scale ranges (copy from Map.svelte)
     const scaleRanges = {
-        // Low SES
         "EC": [0.2946900, 1.3597],
         "CHILD_EC": [0.22188, 1.61136],
         "EXPOSURE_GRP_MEM": [0.2552, 1.48628],
         "BIAS_GRP_MEM": [-0.10809, 0.33456999],
-        
-        // High SES
         "EC_HIGH": [0.70062, 1.71507],
         "CHILD_HIGH_EC": [0.24529999, 1.69122],
         "EXPOSURE_GRP_MEM_HIGH": [0.51012999, 1.66616],
         "BIAS_GRP_MEM_HIGH": [-0.53618002, -0.043249998]
     };
 
-    // Function to get scale values based on active mode
     function getScaleValues(mode) {
         if (mode in scaleRanges) {
             const [min, max] = scaleRanges[mode];
@@ -67,16 +62,15 @@
                 (min + range * 0.4).toFixed(2),
                 (min + range * 0.6).toFixed(2),
                 (min + range * 0.8).toFixed(2),
-                'N/A'  // Changed from 'undefined'
+                'N/A'
             ];
         }
-        return ['0%', '20%', '40%', '60%', '80%', 'N/A']; // Changed in fallback as well
+        return ['0%', '20%', '40%', '60%', '80%', 'N/A'];
     }
 
     $: scaleValues = getScaleValues(activeMode);
 
-    function getMetricLabel(mode, countyMode) {
-        // Always show the SES metric label (from lowSES or highSES)
+    function getMetricLabel(mode) {
         const sesLabel = lowSES.concat(highSES).find(item => item.mode === mode)?.label || "Unknown Metric";
         return sesLabel;
     }
@@ -131,23 +125,10 @@
         </div>
     </div>
     <div class="legend">
-        <div class="size-legend">
-            <div class="title">Size</div>
-            <div class="circles">
-                {#each sizeScale as s}
-                    <div class="circle-group">
-                        <div class="circle-container">
-                            <div class="circle" style="width: {s === '1M+' ? '24px' : s === '50K' ? '16px' : '8px'}; height: {s === '1M+' ? '24px' : s === '50K' ? '16px' : '8px'};"></div>
-                        </div>
-                        <span>{s}</span>
-                    </div>
-                {/each}
-            </div>
-        </div>
         <div class="color-legend">
             <div class="title">
                 <span style="color: lightgrey;">Color:</span> 
-                <span style="color: white;">{getMetricLabel(activeMode, activeCountyMode)} as percentage of max value</span>
+                <span style="color: white;">{getMetricLabel(activeMode)} as percentage of max value</span>
             </div>
             <div class="colors">
                 {#each colorScale as color, i}
@@ -256,7 +237,7 @@
         left: -150px;
     }
 
-    .size-legend, .color-legend {
+    .color-legend {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -264,37 +245,17 @@
         min-height: 100px;
     }
 
-    .size-legend .title, .color-legend .title {
+    .color-legend .title {
         margin-bottom: 0.7rem;
         align-self: center;
         min-width: 50px;
         text-align: center;
     }
 
-    .circles, .colors {
+    .colors {
         display: flex;
         gap: 0.5rem;
-        align-items: center;
-    }
-
-    .circle-group {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        min-width: 40px;
-    }
-
-    .circle {
-        border-radius: 50%;
-        background-color: white;
-        margin-bottom: 4px;
-    }
-
-    .circle-container {
-        height: 24px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        align-items: flex-start;
     }
 
     .color-item {
@@ -320,12 +281,6 @@
         display: flex;
         flex-direction: column;
         gap: 4px;
-    }
-
-    .colors {
-        display: flex;
-        gap: 0.5rem;
-        align-items: flex-start;
     }
 
     .circle-group span {

@@ -6,22 +6,16 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="content-security-policy" content="">
-		<link href="../_app/immutable/assets/_layout.33dd9dc1.css" rel="stylesheet">
-		<link href="../_app/immutable/assets/copy-main.40da67b0.css" rel="stylesheet">
-		<link href="../_app/immutable/assets/_page.318d9518.css" rel="stylesheet">
-		<link href="../_app/immutable/assets/version.4b59ad31.css" rel="stylesheet">
-		<link rel="modulepreload" href="../_app/immutable/entry/start.96f1235f.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/index.73aa4fa5.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.6dae3971.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/paths.0f9644c5.js">
-		<link rel="modulepreload" href="../_app/immutable/entry/app.1bc1d098.js">
-		<link rel="modulepreload" href="../_app/immutable/entry/_layout.svelte.8d1250bf.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/stores.d95de274.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/copy-main.baa74743.js">
+		<link href="../_app/immutable/assets/_layout.a295dc7e.css" rel="stylesheet">
+		<link rel="modulepreload" href="../_app/immutable/entry/start.9899075a.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.de16b786.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.4944d2a4.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.956728d9.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/_layout.svelte.8679872d.js">
 		<link rel="modulepreload" href="../_app/immutable/entry/_layout.js.822e9be0.js">
 		<link rel="modulepreload" href="../_app/immutable/chunks/_layout.79cb23d1.js">
-		<link rel="modulepreload" href="../_app/immutable/entry/method-page.svelte.16ddaf01.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/version.f89070f7.js"><title>Data and Methods</title><!-- HEAD_svelte-1htu80s_START --><meta name="description" content="An interactive explainer for how we made A Map of Places with the Same Name"><meta name="author" content="The Pudding"><meta name="news_keywords" content=""><meta property="og:title" content="Data and Methods"><meta property="og:site_name" content="The Pudding"><meta property="og:url" content="https://pudding.cool/2023/03/same-name/method"><meta property="og:description" content="An interactive explainer for how we made A Map of Places with the Same Name"><meta property="og:type" content="article"><meta property="og:locale" content="en_US"><meta property="og:image" content="https://pudding.cool/2023/03/same-name/method/assets/social-facebook.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="600"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="https://pudding.cool"><meta name="twitter:creator" content="@puddingviz"><meta name="twitter:title" content="Data and Methods"><meta name="twitter:description" content="An interactive explainer for how we made A Map of Places with the Same Name"><meta name="twitter:image:src" content="https://pudding.cool/2023/03/same-name/method/assets/social-twitter.jpg"><meta name="robots" content="max-image-preview:large"><link rel="canonical" href="https://pudding.cool/2023/03/same-name/method/"><!-- HEAD_svelte-1htu80s_END -->
+		<link rel="modulepreload" href="../_app/immutable/entry/method-page.svelte.8893db66.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/version.1fd3c774.js"><title>Economic Mobility and Social Capital in the US</title><!-- HEAD_svelte-sheqk6_START --><meta name="description" content="A visualization social mobility in the US accross counties, high schools, and colleges."><!-- HEAD_svelte-sheqk6_END -->
 </head>
 
 <body>
@@ -29,165 +23,26 @@
 	<div>
 
 
-<header><div class="wordmark svelte-1vysd7m"><a href="https://pudding.cool" aria-label="The Pudding" class="svelte-1vysd7m"><!-- HTML_TAG_START --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.6 50"><path class="st0" d="M150.1 9.5c1.5 0 2.8 1.3 2.8 2.8s-1.3 2.8-2.8 2.8-2.8-1.3-2.8-2.8 1.3-2.8 2.8-2.8zM147.2 17.3h5.6v18.2h-5.6V17.3zM77.1 9.5h-8.9v26h5.6v-8.1h3.3c4.9 0 8.9-4 8.9-8.9s-3.9-9-8.9-9zm0 12.3h-3.3v-6.6h3.3c1.8 0 3.3 1.5 3.3 3.3s-1.4 3.3-3.3 3.3zM105.7 17.6h-5.6v8.9c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3v-8.9h-5.6v8.9c0 4.9 4 8.9 8.9 8.9s8.9-4 8.9-8.9v-8.9zM164.1 17.6c-4.9 0-8.9 4-8.9 8.9v8.9h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM119.7 16.2v1.4h-3.3c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4zM139.3 16.2v1.4H136c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h8.9V9.5l-5.6 3.3v3.4zm.1 8.4V29.8H136c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3v1.4h.1zM183.7 17.6c-4.9 0-8.9 4-8.9 8.9s4 8.9 8.9 8.9h3.3v5.1c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3V38l-5.6 3.3c.4 4.5 4.2 8.1 8.9 8.1 4.9 0 8.9-4 8.9-8.9V17.6h-8.9zm3.3 5.8V30h-3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3h3.3zM28.6 17.6c-1.2 0-2.3.2-3.3.6V9.5l-5.6 3.3v22.6h5.6v-8.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v8.9h5.6v-8.9c0-4.9-4-8.9-8.9-8.9zM17.8 9.5H0v5.6h6.1v20.3h5.6V15.1h6.1V9.5zM48.3 30.2c-.4 0-1.2-.1-1.8-.4l5.2-2.1 5.6-2.3-1-2.3-.1-.2c-.1-.3-.3-.6-.5-1-.1-.1-.1-.2-.2-.3 0 0 0-.1-.1-.1l-.1-.1-.1-.1c-1.6-2.2-4-3.5-6.7-3.7h-.6c-4.9 0-8.9 4-8.9 8.9 0 .4 0 .9.1 1.4V28.2c0 .3.1.5.2.8v.2c.1.3.2.7.4 1v.2c.1.3.3.5.4.8 0 .1.1.1.1.2.1.2.3.4.4.6v.1s0 .1.1.1l.1.1c1.7 2.1 4.4 3.4 7.2 3.4h6.1v-5.2c.4-.3-3.5-.3-5.8-.3zm7.9-7.3zm-11.6 2.8l-.2.1c.2-1.9 1.8-3.5 3.7-3.5.9 0 1.8.4 2.4.9L46.2 25l-1.6.7z"/></svg><!-- HTML_TAG_END --></a></div>
-
-	
-</header>
-<main id="content">
-<article class="method svelte-1yd970r"><section id="title"><h1 class="svelte-1yd970r"><strong><!-- HTML_TAG_START -->Data &amp; Methods<!-- HTML_TAG_END --></strong></h1>
-		<p><!-- HTML_TAG_START -->An interactive explainer for the choices in <br> <a href=../>A Map of Places with the Same Name</a><!-- HTML_TAG_END --></p>
-		<p class="small svelte-1yd970r">Increase your screen size or visit on desktop to customize the settings.
-		</p></section>
-
-	<section id="ui" class="svelte-1yd970r"><div class="select">
-
-<div data-svelte-typeahead role="combobox" aria-haspopup="listbox" aria-controls="typeahead-0.dn1aynh1qxl-listbox" aria-expanded="false" id="typeahead-0.dn1aynh1qxl-typeahead" class="svelte-iyl6gc"><form data-svelte-search><label id="typeahead-0.dn1aynh1qxl-label" for="typeahead-0.dn1aynh1qxl" class="svelte-wqugyy hide-label">Look up a city or town in the US</label>
-  <input name="search" type="search" placeholder="Look up a city or town in the US..." autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-controls="typeahead-0.dn1aynh1qxl-listbox" aria-labelledby="typeahead-0.dn1aynh1qxl-label" id="typeahead-0.dn1aynh1qxl" class="svelte-wqugyy" value="">
-</form>
-  <ul role="listbox" aria-labelledby="typeahead-0.dn1aynh1qxl-label" id="typeahead-0.dn1aynh1qxl-listbox" class="svelte-iyl6gc svelte-typeahead-list">
-    </ul>
-</div></div>
-
-		<div class="play svelte-1yd970r"><h2 class="svelte-1yd970r">Introduction</h2>
-			<details open class="svelte-1yd970r"><summary>Explanation</summary>
-				<div class="inner svelte-1yd970r"><p><!-- HTML_TAG_START -->We chose to blend three properties to match our perception of how this plays out in reality:<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><strong>Distance</strong>: the proximity to a place.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><strong>Population</strong>: the size of a place is a pretty good indicator of its importance.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><strong>Wikipedia article length</strong>: an extra layer of nuance for the cultural importance/awareness of places that may not have a large population.<!-- HTML_TAG_END --></p></div></details></div>
-
-		<div class="play svelte-1yd970r"><h2 class="svelte-1yd970r">Value</h2>
-			<div class="customize svelte-1yd970r"><div class="method-value svelte-13vwk2g"><fieldset class="svelte-13vwk2g"><legend class="sr-only svelte-13vwk2g">Value</legend>
-		<div class="prop svelte-13vwk2g"><div class="button-set svelte-11ruttv"><div id="group-legend-196499" class="group svelte-11ruttv is-top" role="radiogroup" aria-labelledby="label-legend-196499"><div class="legend svelte-11ruttv" id="legend-legend-196499">metric</div>
-		<div class="options svelte-11ruttv"><div class="option svelte-11ruttv"><input type="radio" id="legend-196499-share" name="name-legend-196499" class="sr-only svelte-11ruttv" value="share" >
-					<label class="option  svelte-11ruttv" for="legend-196499-share">share</label>
-				</div><div class="option svelte-11ruttv"><input type="radio" id="legend-196499-score" name="name-legend-196499" class="sr-only svelte-11ruttv" value="score" >
-					<label class="option  svelte-11ruttv" for="legend-196499-score">score</label>
-				</div><div class="option svelte-11ruttv"><input type="radio" id="legend-196499-sharedelta" name="name-legend-196499" class="sr-only svelte-11ruttv" value="shareDelta"  checked>
-					<label class="option  svelte-11ruttv" for="legend-196499-sharedelta">shareDelta</label>
-				</div></div></div>
-</div></div>
-
-		<div class="scale svelte-13vwk2g"><div class="button-set svelte-11ruttv"><div id="group-legend-82034" class="group svelte-11ruttv is-top" role="radiogroup" aria-labelledby="label-legend-82034"><div class="legend svelte-11ruttv" id="legend-legend-82034">scale relative to counties?</div>
-		<div class="options svelte-11ruttv"><div class="option svelte-11ruttv"><input type="radio" id="legend-82034-yes" name="name-legend-82034" class="sr-only svelte-11ruttv" value="yes" >
-					<label class="option  svelte-11ruttv" for="legend-82034-yes">yes</label>
-				</div><div class="option svelte-11ruttv"><input type="radio" id="legend-82034-no" name="name-legend-82034" class="sr-only svelte-11ruttv" value="no"  checked>
-					<label class="option  svelte-11ruttv" for="legend-82034-no">no</label>
-				</div></div></div>
-</div></div>
-
-		<div class="weight svelte-13vwk2g"><p class="svelte-13vwk2g">Distance (weight: 2)</p>
-			<input type="range" step="0.25" min="0" max="5" class="svelte-13vwk2g" value="2">
-
-			<p class="svelte-13vwk2g">Population (weight: 1)</p>
-			<input type="range" step="0.25" min="0" max="5" class="svelte-13vwk2g" value="1">
-
-			<p class="svelte-13vwk2g">Wiki Length (weight: 1)</p>
-			<input type="range" step="0.25" min="0" max="5" class="svelte-13vwk2g" value="1"></div></fieldset>
-</div></div>
-			<details class="svelte-1yd970r"><summary>Explanation</summary>
-				<div class="inner svelte-1yd970r"><p><!-- HTML_TAG_START -->There are a few different metrics we computed to see what matched our intuition the best:<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><strong>score:</strong> the raw numerical score as calculated according to the three properties.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><strong>share:</strong> the score as a percent of the sum of all place scores for each county.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><strong>shareDelta:</strong> how much bigger the highest score is than the next highest.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><strong>Score</strong> on its own looks at things in isolation so that felt too siloed. When then tried <strong>share</strong> because it accounted for the effects of adding more places to the mix and giving each a bit of gravity. We ended up using <strong>shareDelta</strong> because of the small nuance it added. There are often times when two or more place shares are quite high, but since we only pick the top one the others are drowned out. By looking at <em>how much</em> higher the top one is, it better reflects the likelihood of one place over another.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><strong>Scale relative to counties</strong> basically means to look at that value compared to all results or independently. Say for example The maximum <strong>share</strong> for any county is 40. We would then normalize all county values to that. So a share of 20 would actually mean a value of 50%.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->We chose to weight distance more heavily because we wanted to make it so if you are in or near the place you are referring to, it should always win, regardless of how big an external place is.<!-- HTML_TAG_END --></p></div></details></div>
-		<div class="play svelte-1yd970r"><h2 class="svelte-1yd970r">Opacity Threshold</h2>
-			<div class="customize svelte-1yd970r"><div class="method-threshold svelte-13vwk2g"><fieldset class="svelte-13vwk2g"><legend class="sr-only svelte-13vwk2g">Opacity threshold</legend>
-		<div class="threshold svelte-13vwk2g"><p class="svelte-13vwk2g">Score &gt;= 0.05 is 1</p>
-			<input type="range" step="0.01" min="0.01" max="0.99" class="svelte-13vwk2g" value="0.05">
-			<p class="svelte-13vwk2g">Score &gt;= 0.02 is 0.75</p>
-			<input type="range" step="0.01" min="0.01" max="0.99" class="svelte-13vwk2g" value="0.02">
-			</div></fieldset>
-</div></div>
-			<details class="svelte-1yd970r"><summary>Explanation</summary>
-				<div class="inner svelte-1yd970r"><p><!-- HTML_TAG_START -->Based on the resulting value from above, which ones get the full opacity (probably) and which get reduced opacity (maybe). The right values here are the most driven by feel, and vary greatly depending on which metrics you select above and if the scores are relative or not.<!-- HTML_TAG_END --></p></div></details></div>
-
-		<div class="play svelte-1yd970r"><h2 class="svelte-1yd970r">Distance Scale</h2>
-			<div class="customize svelte-1yd970r"><div class="method-scale svelte-pt4l48"><fieldset class="svelte-pt4l48"><legend class="sr-only svelte-pt4l48">Distance Scale (mi)</legend>
-		<div class="scale svelte-pt4l48"><div class="button-set svelte-11ruttv"><div id="group-legend-593975" class="group svelte-11ruttv is-top" role="radiogroup" aria-labelledby="label-legend-593975"><div class="legend svelte-11ruttv" id="legend-legend-593975">scale type</div>
-		<div class="options svelte-11ruttv"><div class="option svelte-11ruttv"><input type="radio" id="legend-593975-scalepow" name="name-legend-593975" class="sr-only svelte-11ruttv" value="scalePow" >
-					<label class="option  svelte-11ruttv" for="legend-593975-scalepow">scalePow</label>
-				</div><div class="option svelte-11ruttv"><input type="radio" id="legend-593975-scalelog" name="name-legend-593975" class="sr-only svelte-11ruttv" value="scaleLog"  checked>
-					<label class="option  svelte-11ruttv" for="legend-593975-scalelog">scaleLog</label>
-				</div></div></div>
-</div></div>
-
-		<div class="a exponent svelte-pt4l48"><p class="svelte-pt4l48">Exponent</p>
-			<select disabled class="svelte-pt4l48"><option value="0.1">0.1</option><option value="0.25">0.25</option><option value="0.5">0.5</option><option value="0.67">0.67</option><option value="0.75">0.75</option><option value="1">1</option><option value="2">2</option></select></div>
-
-		<div class="a bound svelte-pt4l48"><p class="svelte-pt4l48">Min</p>
-			<input type="number" class="svelte-pt4l48" value="50"></div>
-
-		<div class="a bound svelte-pt4l48"><p class="svelte-pt4l48">Max</p>
-			<input type="number" class="svelte-pt4l48" value="300"></div></fieldset>
-</div></div>
-			<details class="svelte-1yd970r"><summary>Explanation</summary>
-				<div class="inner svelte-1yd970r"><p><!-- HTML_TAG_START -->We chose a logarithmic scale because it felt most accurate: if you are really close to a place its gravity should be felt more heavily than if you get farther away. Anything under the minimum (we chose 50 miles) gets the highest score (1), anything over the maximum (300 miles) gets 0.<!-- HTML_TAG_END --></p></div></details></div>
-
-		<div class="play svelte-1yd970r"><h2 class="svelte-1yd970r">Population Scale</h2>
-			<div class="customize svelte-1yd970r"><div class="method-scale svelte-pt4l48"><fieldset class="svelte-pt4l48"><legend class="sr-only svelte-pt4l48">Population Scale (people)</legend>
-		<div class="scale svelte-pt4l48"><div class="button-set svelte-11ruttv"><div id="group-legend-1364" class="group svelte-11ruttv is-top" role="radiogroup" aria-labelledby="label-legend-1364"><div class="legend svelte-11ruttv" id="legend-legend-1364">scale type</div>
-		<div class="options svelte-11ruttv"><div class="option svelte-11ruttv"><input type="radio" id="legend-1364-scalepow" name="name-legend-1364" class="sr-only svelte-11ruttv" value="scalePow"  checked>
-					<label class="option  svelte-11ruttv" for="legend-1364-scalepow">scalePow</label>
-				</div><div class="option svelte-11ruttv"><input type="radio" id="legend-1364-scalelog" name="name-legend-1364" class="sr-only svelte-11ruttv" value="scaleLog" >
-					<label class="option  svelte-11ruttv" for="legend-1364-scalelog">scaleLog</label>
-				</div></div></div>
-</div></div>
-
-		<div class="a exponent svelte-pt4l48"><p class="svelte-pt4l48">Exponent</p>
-			<select  class="svelte-pt4l48"><option value="0.1">0.1</option><option value="0.25">0.25</option><option value="0.5">0.5</option><option value="0.67">0.67</option><option value="0.75">0.75</option><option value="1">1</option><option value="2">2</option></select></div>
-
-		<div class="a bound svelte-pt4l48"><p class="svelte-pt4l48">Min</p>
-			<input type="number" class="svelte-pt4l48" value="0"></div>
-
-		<div class="a bound svelte-pt4l48"><p class="svelte-pt4l48">Max</p>
-			<input type="number" class="svelte-pt4l48" value="22933531"></div></fieldset>
-</div></div>
-			<details class="svelte-1yd970r"><summary>Explanation</summary>
-				<div class="inner svelte-1yd970r"><p><!-- HTML_TAG_START -->Like distance, we chose to clamp the maximum value here. At a certain size, there is really little distinction. We chose to use a computed threshold as our max clamp of the top 0.1% percentile. We also chose an exponential scale to curb the effects of the lopsided distribution, so the medium-sized places still have some weight and aren’t lumped with the places with very low numbers.<!-- HTML_TAG_END --></p></div></details></div>
-
-		<div class="play svelte-1yd970r"><h2 class="svelte-1yd970r">Wikipedia Article Scale</h2>
-			<div class="customize svelte-1yd970r"><div class="method-scale svelte-pt4l48"><fieldset class="svelte-pt4l48"><legend class="sr-only svelte-pt4l48">Wiki Scale (article length)</legend>
-		<div class="scale svelte-pt4l48"><div class="button-set svelte-11ruttv"><div id="group-legend-69734" class="group svelte-11ruttv is-top" role="radiogroup" aria-labelledby="label-legend-69734"><div class="legend svelte-11ruttv" id="legend-legend-69734">scale type</div>
-		<div class="options svelte-11ruttv"><div class="option svelte-11ruttv"><input type="radio" id="legend-69734-scalepow" name="name-legend-69734" class="sr-only svelte-11ruttv" value="scalePow"  checked>
-					<label class="option  svelte-11ruttv" for="legend-69734-scalepow">scalePow</label>
-				</div><div class="option svelte-11ruttv"><input type="radio" id="legend-69734-scalelog" name="name-legend-69734" class="sr-only svelte-11ruttv" value="scaleLog" >
-					<label class="option  svelte-11ruttv" for="legend-69734-scalelog">scaleLog</label>
-				</div></div></div>
-</div></div>
-
-		<div class="a exponent svelte-pt4l48"><p class="svelte-pt4l48">Exponent</p>
-			<select  class="svelte-pt4l48"><option value="0.1">0.1</option><option value="0.25">0.25</option><option value="0.5">0.5</option><option value="0.67">0.67</option><option value="0.75">0.75</option><option value="1">1</option><option value="2">2</option></select></div>
-
-		<div class="a bound svelte-pt4l48"><p class="svelte-pt4l48">Min</p>
-			<input type="number" class="svelte-pt4l48" value="0"></div>
-
-		<div class="a bound svelte-pt4l48"><p class="svelte-pt4l48">Max</p>
-			<input type="number" class="svelte-pt4l48" value="96911"></div></fieldset>
-</div></div>
-			<details class="svelte-1yd970r"><summary>Explanation</summary>
-				<div class="inner svelte-1yd970r"><p><!-- HTML_TAG_START -->Like distance, we chose to clamp the maximum value here. At a certain size, there is really little distinction. We chose to use a computed threshold as our max clamp of the top 0.1% percentile. We also chose an exponential scale to curb the effects of the lopsided distribution, so the medium-sized places still have some weight and aren’t lumped with the places with very low numbers.<!-- HTML_TAG_END --></p></div></details></div>
-
-		<div class="play svelte-1yd970r"><h2 class="svelte-1yd970r">Miscellaneous Details</h2>
-			<details open class="svelte-1yd970r"><summary>Explanation</summary>
-				<div class="inner svelte-1yd970r"><p><!-- HTML_TAG_START -->We conceived of this project thinking about how people talk about places, so  they are grouped together if they share either the same spelling or pronunciation (using phoneme matching).<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->We only used international cities with populations over 100,000 since it is unlikely that smaller ones are well-known to most people in the US.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Although places can be in multiple counties, we are only displaying the first one for brevity.<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->We used an amalgamation of data sources:<!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><a href=https://www.uscitieslist.org/ target=blank rel=noreferrer>Incorporated US cities</a><!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><a href=https://en.wikipedia.org/wiki/Category:Unincorporated_communities_in_the_United_States_by_county target=_blank rel=noreferrer>Unincorporated US cities</a><!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><a href=https://www.census.gov/data-tools/demo/idb/#/table?COUNTRY_YEAR=2023&COUNTRY_YR_ANIM=2023 target=blank rel=noreferrer>Countries</a><!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><a href=https://simplemaps.com/data/world-cities target=blank rel=noreferrer>International cities</a><!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START --><a href=https://www.census.gov/data/tables/time-series/demo/popest/2020s-national-total.html target=blank rel=noreferrer>States</a><!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->We are constantly updating the data, so if you spot something wrong with the places being used (or not), <a href=https://docs.google.com/spreadsheets/d/1cHtvcuxvxI6Y2hA5Xa2wg8AW0SZ7ZYG5H5x7H4jGLdk/edit#gid=0 target=_blank rel=noreferrer>help us improve it!</a><!-- HTML_TAG_END --></p><p><!-- HTML_TAG_START -->Get in touch at russell@pudding.cool, and consider supporting The Pudding on <a href=https://www.patreon.com/thepudding target=_blank rel=noreferrer>Patreon!</a><!-- HTML_TAG_END --></p></div></details></div></section></article>
-
-<div class="figure method svelte-1yd970r"><section id="maps" class="svelte-1yd970r">
-
-		</section></div>
-
-</main>
+<main id="content"></main>
 
 
 			
 			<script>
 				{
-					__sveltekit_9teren = {
+					__sveltekit_1jbhxat = {
 						env: {},
-						assets: "/same-name",
+						assets: "/2023/03/same-name",
 						base: new URL("..", location).pathname.slice(0, -1),
 						element: document.currentScript.parentElement
 					};
 
-					const data = [null,{"type":"data","data":{},"uses":{}}];
+					const data = [null,{"type":"data","data":{},"uses":{"url":1}}];
 
 					Promise.all([
-						import("../_app/immutable/entry/start.96f1235f.js"),
-						import("../_app/immutable/entry/app.1bc1d098.js")
+						import("../_app/immutable/entry/start.9899075a.js"),
+						import("../_app/immutable/entry/app.956728d9.js")
 					]).then(([kit, app]) => {
-						kit.start(app, __sveltekit_9teren.element, {
+						kit.start(app, __sveltekit_1jbhxat.element, {
 							node_ids: [0, 3],
 							data,
 							form: null,
