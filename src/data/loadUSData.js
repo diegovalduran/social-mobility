@@ -4,6 +4,7 @@ import { json, csv, geoCentroid } from "d3";
 import { base } from "$app/paths";
 import { dev } from '$app/environment';
 import stateLookup from "$data/states.csv";
+import * as topojson from "topojson-client";
 
 console.log('[Debug] Initial module load:', {
 	base,
@@ -347,7 +348,11 @@ export default async function cleanUSData() {
 			collegeData: processedCollegeData 
 		};
 	} catch (error) {
-		console.error('[Debug] Error in cleanUSData:', error);
+		console.error('[Debug] Error in cleanUSData:', {
+			error,
+			message: error.message,
+			stack: error.stack
+		});
 		throw error;
 	}
 }
